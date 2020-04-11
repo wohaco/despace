@@ -1,0 +1,23 @@
+{
+    "navigation":
+    [
+        {
+            "text": "Main page",
+            "target": "index.md",
+            "toc": true
+        },
+        {
+            "text": "Venus",
+            "target": "venus.md",
+            "navi": false
+        }
+    ],
+    "actions":
+    [
+        {
+            "text": "despace",
+            "icon": "js/favicon.png",
+            "target": ""
+        }
+    ]
+}

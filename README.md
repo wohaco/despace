@@ -1,2 +1,6 @@
 # despace
-Just another pocket spacecraft database
+Just another spacecraft components & analytics database which you're able to take anywhere even without an internet connection.
+
+The web‑version is located at <https://neonka.info/despace> & engined by [Viki ⎆](https://github.com/tamlok/viki).
+
+You may use your favorite markdown‑editor/viewer to use this database on your PC or mobile device. Currently the proposed editor is [VNote ⎆](https://github.com/tamlok/vnote) with a [custom theme ❐](f/v_nk.zip).
