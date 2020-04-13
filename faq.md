@@ -47,11 +47,12 @@ Pretty far from what they call the proper list of sources but that's all we have
    1. <https://pds.nasa.gov/>
    1. <http://novosti-kosmonavtiki.ru/forum/forum14/topic8552/>
    1. <https://britastro.org/>
-   1. <http://sewiki.ru/> − Systems engineering thinking wiki
+   1. <http://sewiki.ru/> — Systems engineering thinking wiki
    1. <https://www.nasa.gov/offices/education/about/index.html>
    1. <https://www.jpl.nasa.gov/missions/?type=current>
    1. <https://www.spaceflightinsider.com/>
    1. <https://ntrs.nasa.gov/>
+   1. <https://www.nasa.gov/connect/ebooks/index.html> — NASA ebooks
 
 
 

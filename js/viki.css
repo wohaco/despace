@@ -11,7 +11,7 @@ a {
 }
 
 .viki-img-package {
-    text-align: center;
+    text-align: left;
 }
 
 img.viki-img-center {
@@ -28,7 +28,7 @@ span.viki-img-caption {
     margin: 0 auto;
     border-bottom: 1px solid #c0c0c0;
     color: #6c6c6c;
-    text-align: center;
+    text-align: left;
     line-height: 1.5;
 }
 
