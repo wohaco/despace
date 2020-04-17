@@ -52,7 +52,7 @@ And a bit of animation.
 |[1st escape velocity](esc_vel.md) (v₁)| 7.328 km/s <small>(0.926 Earth's)</small> |
 |[2nd escape velocity](esc_vel.md) (v₂)| 10.363 km/s <small>(0.926 Earth's)</small> |
 |[Albedo](albedo.md)| 0.689 (geometric);<br> 0.76 (Bond) |
-|[Apparent magnitude](взв.md) (m)| −4.6 |
+|[Apparent magnitude](app_mag.md) (m)| −4.6 |
 |Axial tilt| 177.36° |
 |Density (ρ)| 5.24 g/cm³ (mean, <small>0.951 Earth's</small>) |
 |Equatorial rotation velocity| 6.52 km/h <small>(0.0039 Earth's)</small> |
@@ -216,11 +216,14 @@ Individual patterns of Tessera Terrain record the variations in interactions of 
 
 <p style="page-break-after:always"> </p>
 
-### Notable communities & persons
+### Communities & persons
 **Communities:**
 
    - **[VEXAG](vexag.md)** — Venus exploration community founded in 2005 in USA: organizing the annual conferences of the same name, and a bunch of episodic (or not) meetings with the similar topics, watching the word-wide Venus explorations state, creating some recommendations for NASA.
    - <https://www.kiss.caltech.edu/workshops/venus/venus.html> <mark>TBD</mark>
+   - **Mailing lists:**
+      - Planetary Exploration Newsletter, PEN mailing list <http://planetarynews.org/>
+      - Venus Listserve news <https://lists.psi.edu/mailman/listinfo/venus>
 
 **Persons:** (alphabet order)
 
@@ -247,7 +250,7 @@ See also section «[Projects](project.md)».
 
 **Hypothetical and historical:**
 
-   - In the section [Research](research.md):
+   - In the section [Research](project.md):
       - (1) Wireless electricity transmission for a Venusian SC
       - (4) Materials for Venus
       - (12) Human on Venus
@@ -362,6 +365,8 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. Comments
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
       - Soil/surface — **Sc** composition, **Si** imaging, **Sm** mapping, **Ss** samples.
+
+In brief — 97 targets in total (33 technical, 64 scientific) consisting of: 37 never occured (18 technical, 19 scientific), 53 was tried (11 technical, 42 scientific), 7 mostly done (4 technical, 3 scientific).
 
 <small>
 
@@ -2347,7 +2352,7 @@ Future/proposed missions:
 ## Docs & links
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Chart](chart.md)**·Схема, **[Comms](comms.md)**·Радиосвязь, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[СS](cs.md)**·СУ, **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[Ecology](ecology.md)**·Экология, **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкубатор, **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН/РБ/ГО/ПхО, **[MAG](mag.md)**·Магнитометр, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА/КНА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проекты, **[PS](ps.md)**·ДУ, **[Quality](quality.md)**·Качество, **[R&D](rnd.md)**·НИОКР, **[Reliability](reliability.md)**·Надёжн., **[Research](research.md)**·Исслед., **[Risk](risk.md)**·Риск, **[Robotics](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[Safety](safety.md)**·Безоп., **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Software](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·Испыт., **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 
 **Docs:**
 
@@ -2379,4 +2384,4 @@ Future/proposed missions:
 
 |*Sections & pages*|
 |:--:|
-|**··• [Space](index.md) •··**<br> [Blue Marble](blue_marble.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Видимая звёздная величина](взв.md) ┊ [Время](время.md) ┊ [Временные зоны](временные_зоны.md) ┊ [Здоровье космонавтов](здоровье_космонавтов.md) ┊ [Информация](информация.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Космические лучи](cr.md) ┊ [ОКП](near_sys.md) ┊ [Параллакс](parallax.md) ┊ [Солнечная постоянная](solar_const.md) ┊ [Терминатор](terminator.md) ┊ [Точка Немо](point_nemo.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эклиптика](эклиптика.md)  ▮  **Солнечная система:** [Ариэль](ариэль.md) ┊ [Venus](venus.md) ┊ [Европа](европа.md) ┊ [Ганимед](ганимед.md) ┊ [Деймос](деймос.md) ┊ [Земля](earth.md) ┊ [Ио](ио.md) ┊ [Каллисто](каллисто.md) ┊ [Луна](moon.md) ┊ [Макемаке](макемаке.md) ┊ [Марс](mars.md) ┊ [Меркурий](меркурий.md) ┊ [Нептун](нептун.md) ┊ [Нереида](нереида.md) ┊ [Нибиру](nibiru.md) ┊ [Оберон](оберон.md) ┊ [Плутон](плутон.md) ┊ [Протей](протей.md) ┊ [Рея](рея.md) ┊ [Сатурн](сатурн.md) ┊ [Седна](седна.md) ┊ [Солнечные сутки](solar_day.md) ┊ [Солнце](sun.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Титан](титан.md) ┊ [Титания](титания.md) ┊ [Тритон](тритон.md) ┊ [Умбриэль](умбриэль.md) ┊ [Уран](уран.md) ┊ [Фобос](фобос.md) ┊ [Хаумеа](хаумеа.md) ┊ [Церера](церера.md) ┊ [Энцелад](энцелад.md) ┊ [Эрида](эрида.md) ┊ [Юпитер](юпитер.md) ┊ [Япет](япет.md)|
+|**··• [Space](index.md) •··**<br> [Blue Marble](blue_marble.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Видимая звёздная величина](app_mag.md) ┊ [Время](time.md) ┊ [Временные зоны](timezone.md) ┊ [Здоровье космонавтов](health.md) ┊ [Информация](info.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Космические лучи](cr.md) ┊ [ОКП](near_sys.md) ┊ [Параллакс](parallax.md) ┊ [Солнечная постоянная](solar_const.md) ┊ [Терминатор](terminator.md) ┊ [Точка Немо](point_nemo.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эклиптика](эклиптика.md)  ▮  **Солнечная система:** [Ариэль](ариэль.md) ┊ [Venus](venus.md) ┊ [Европа](европа.md) ┊ [Ганимед](ганимед.md) ┊ [Деймос](деймос.md) ┊ [Земля](earth.md) ┊ [Ио](ио.md) ┊ [Каллисто](каллисто.md) ┊ [Луна](moon.md) ┊ [Макемаке](макемаке.md) ┊ [Марс](mars.md) ┊ [Меркурий](меркурий.md) ┊ [Нептун](нептун.md) ┊ [Нереида](нереида.md) ┊ [Нибиру](nibiru.md) ┊ [Оберон](оберон.md) ┊ [Плутон](плутон.md) ┊ [Протей](протей.md) ┊ [Рея](рея.md) ┊ [Сатурн](сатурн.md) ┊ [Седна](седна.md) ┊ [Солнечные сутки](solar_day.md) ┊ [Солнце](sun.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Титан](титан.md) ┊ [Титания](титания.md) ┊ [Тритон](тритон.md) ┊ [Умбриэль](умбриэль.md) ┊ [Уран](уран.md) ┊ [Фобос](фобос.md) ┊ [Хаумеа](хаумеа.md) ┊ [Церера](церера.md) ┊ [Энцелад](энцелад.md) ┊ [Эрида](эрида.md) ┊ [Юпитер](юпитер.md) ┊ [Япет](япет.md)|

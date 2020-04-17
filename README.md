@@ -1,7 +1,7 @@
 # despace
 Just another spacecraft components & analytics database which you're able to take anywhere even without an internet connection.
 
-The proposed starting point **[is here](index.md)**.
+The proposed starting point **[is here](index.md)** or you may look at the [FAQ](faq.md).
 
 The web‑version is located at <https://neonka.info/despace> & engined by [Viki ⎆](https://github.com/tamlok/viki).
 
