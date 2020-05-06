@@ -112,24 +112,24 @@ The weak magnetosphere around Venus means that the solar wind is interacting dir
 ### Surface & Tessera
 Common areas and possible landing sites.
 
-|*Stratigraphic Unit*|•|*Area,<br> M km²*|*Area,<br> %*|*Unsafe*|*Moder.<br> safe*|*Safe*|
+|*Stratigraphic Unit*|•|*Area,<br> M km²*|*Area,<br> %*|*Unsafe*|*Moder.<br> safe*|*Safe*|
 |:--|:--:|:--|:--|:--|:--|:--|
-|**Tectonic**||**92.82**|**20**|—|—|—|
-| · Densely lineated plains |**pdl**| 7.72 | 1.69 |unsafe|||
-| · Groove belt |**gb**| 39.51 | 8.66 |unsafe|||
-| · Ridged plains |**pr,rp**| 10.20 | 2.24 ||mod.safe||
-| · Tessera |**t**| 35.38 | 7.75 |unsafe|||
-|**Volcanic**||**279.95**|**61.35**|—|—|—|
-| · Regional planes, lower |**rp1**| 150.68 | 33.02 |||safe|
-| · Regional planes, upper |**rp2**| 44.79 | 9.81 ||mod.safe||
-| · Shield plains |**psh**| 84.48 | 18.51 ||mod.safe||
-|**Volcano‑tectonic**||**78.94**|**17.30**|—|—|—|
-| · Lobate plains |**pl**| 40.32 | 8.84 |unsafe|||
-| · Rift zones |**rz**| 24.08 | 5.28 |unsafe|||
-| · Shield clusters |**sc**| 3.56 | 0.78 |?|?|?|
-| · Smooth plains |**ps,sp**| 10.98 | 2.41 |?|?|?|
-| ··· Smooth plains, impact |**spi**| ? | 1 |||safe|
-| ··· Smooth plains, volcanic |**spv**| ? | 1 |||safe|
+|Tectonic||92.82|20|—|—|—|
+| · Densely lineated plains |pdl| · 7.72 | · 1.69 |unsafe|||
+| · Groove belt |gb| · 39.51 | · 8.66 |unsafe|||
+| · Ridged plains |pr,rp| · 10.20 | · 2.24 ||mod.safe||
+| · Tessera |t| · 35.38 | · 7.75 |unsafe|||
+|Volcanic||279.95|61.35|—|—|—|
+| · Regional planes, lower |rp1| · 150.68 | · 33.02 |||safe|
+| · Regional planes, upper |rp2| · 44.79 | · 9.81 ||mod.safe||
+| · Shield plains |psh| · 84.48 | · 18.51 ||mod.safe||
+|Volcano‑tectonic||78.94|17.30|—|—|—|
+| · Lobate plains |pl| · 40.32 | · 8.84 |unsafe|||
+| · Rift zones |rz| · 24.08 | · 5.28 |unsafe|||
+| · Shield clusters |sc| · 3.56 | · 0.78 |?|?|?|
+| · Smooth plains |ps,sp| · 10.98 | · 2.41 |?|?|?|
+| ··· Smooth plains, impact |spi| ··· ? | ··· 1 |||safe|
+| ··· Smooth plains, volcanic |spv| ··· ? | ··· 1 |||safe|
 
 **Tessera**
 
@@ -253,6 +253,7 @@ See also section «[Projects](project.md)».
    - In the section [Research](project.md):
       - (1) Wireless electricity transmission for a Venusian SC
       - (4) Materials for Venus
+
       - (12) Human on Venus
    - [VGV](hptc_vgv.md)
    - [DSVSD](hptc_dsvsd.md)
@@ -2375,6 +2376,7 @@ Future/proposed missions:
    1. <https://en.wikipedia.org/wiki/2MV>
    1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](03_alpo.md) Venus section
    1. <http://alpo-j.asahikawa-med.ac.jp/Latest/Venus.htm> — [ALPO‑J](03_alpo.md) Venus section
+
    1. <https://en.wikipedia.org/wiki/Tessera_(Venus)>
    1. <https://en.wikipedia.org/wiki/List_of_geological_features_on_Venus>
    1. <http://neonka.info/despace/#!venus.md>
