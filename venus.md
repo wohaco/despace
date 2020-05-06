@@ -482,20 +482,90 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 
 <p style="page-break-after:always"> </p>
 
-**VEXAG Goals, Objectives & Investigations (2016).** Goals are not prioritized; Objectives & Investigations are in priority order.
+**VEXAG Goals, Objectives & Investigations (2019).**
 
-|*Objective*|*Investigation*|
-|:--|:--|
-||**`Goal: 1)` I. Understand Venus’ early evolution & potential habitability to constrain the evolution of Venus‑size (exo)planets.**|
-| **A.** Did Venus have temperate surface conditions & liquid water at early times? | **HO.** Hydrous Origins (1). Determine whether Venus shows evidence for abundant silicic igneous rocks and/or ancient sedimentary rocks.<br> **RE.** Recycling (1). Search for structural, geomorphic, & chemical evidence of crustal recycling on Venus.<br> **AL.** Atmospheric Losses (2). Quantify the processes by which the atmosphere of Venus loses mass to space, including interactions between magnetic fields & incident ions & electrons.<br> **MA.** Magnetism (3). Characterize the distribution of any permanent magnetism in the crust of Venus. |
-| **B.** How does Venus elucidate possible pathways for planetary evolution in general? | **IS.** Isotopes (1). Measure the isotopic ratios & abundances of D/H, noble gases, oxygen, nitrogen, & other elements in the atmosphere of Venus.<br> **LI.** Lithosphere (1). Determine lithospheric parameters on Venus that are critical to archaeology & potential geodynamic transitions, including: stress state, water content, physical structure, & elastic & mechanical thicknesses.<br> **HF.** Heat flow (2). Determine the thermal structure of the lithosphere of Venus at present day & measure in situ heat flow.<br> **CO.** Core (2). Measure the size of the core of Venus & determine whether it remains partially liquid. |
-||**`Goal: 2)` Understand atmospheric dynamics & composition on Venus.**|
-| **A.** What processes drive the global atmospheric dynamics of Venus? | **DD.** Deep Dynamics (1). Characterize the dynamics of the lower atmosphere (below about 75km) of Venus, including: retrograde zonal super‑rotation, meridional circulation, radiative balances, mountain waves, & transfer of angular momentum.<br> **UD.** Upper Dynamics (1). In the upper atmosphere & thermosphere of Venus, characterize global dynamics & interactions between space weather & the ionosphere & magnetosphere.<br> **MP.** Mesoscale Processes (2). Determine the role of mesoscale dynamics in redistributing energy & momentum throughout the atmosphere of Venus. |
-| **B.** What processes determine the baseline & variations in Venus atmospheric composition & global & local radiative balance? | **RB.** Radiative Balance (1). Characterize atmospheric radiative balance & how radiative transport drives atmospheric dynamics on Venus.<br> **IN.** Interactions (1). Characterize the nature of the physical, chemical, & possible biological interactions among the constituents of the Venus atmosphere.<br> **AE.** Aerosols (2). Determine the physical characteristics & chemical compositions of aerosols in Venus atmosphere as they vary with elevation, including discrimination of aerosol types/components.<br> **UA.** Unknown Absorber (2). Characterize the unknown short‑wavelength absorber in the upper atmosphere of Venus & its influence on local & global processes.<br> **OG.** Outgassing (3). Determine the products of volcanic outgassing on Venus & their effects on atmospheric |
-||**`Goal: 3)` Understand the geologic history preserved on the surface of Venus & the present‑day couplings between the surface & atmosphere.**|
-| **A.** What geologic processes have shaped the surface of Venus? | **GH.** Geologic History (1). Develop a geologic history for Venus by characterizing the stratigraphy, modification state, & relative ages of surface units.<br> **GC.** Geochemistry (1). Determine elemental chemistry, mineralogy, & rock types at localities representative of global geologic units on Venus.<br> **GA.** Geologic Activity (1). Characterize current volcanic, tectonic, & sedimentary activity that modifies geologic units & impact craters & ejecta on Venus.<br> **CR.** Crust (2). Determine the structure of the crust of Venus in three dimensions & thickness across the surface. |
-| **B.** How do the atmosphere & surface of Venus interact? | **LW.** Local Weathering (1). Evaluate the mineralogy, oxidation state, & changes in chemistry of surface‑weathered rock exteriors at localities representative of global geologic units on Venus.<br> **GW.** Global Weathering (2). Determine the causes & spatial extents of global weathering regimes on Venus.<br> **CI.** Chemical Interactions (3). Characterize atmospheric composition & chemical gradients from the surface to the cloud base both at key locations & globally. |
+>Notes to the list below:<br>**I.** − **III.** are **Goals**;<br>**A.** − **B.** are **Objectives**<br>**(1)** − **(3)** are **Investigations**
 
+**I.** Understand Venus’ early evolution and potential habitability to constrain the evolution of Venus-size (exo)planets.
+
+   - **A.** Did Venus have temperate surface conditions and liquid water at early times?
+      - **HO. Hydrous Origins (1)**. Determine whether Venus shows evidence for abundant silicic igneous rocks and/or ancient sedimentary rocks.
+      - **RE. Recycling (1)**. Search for structural, geomorphic, and chemical evidence of crustal recycling on Venus.
+      - **AL. Atmospheric Losses (2)**. Quantify the processes by which the atmosphere of Venus loses mass to space, including interactions between magnetic fields and incident ions and electrons.
+      - **MA. Magnetism (3)**. Characterize the distribution of any remanent magnetism in the crust of Venus. 
+   - **B.** How does Venus elucidate possible pathways for planetary evolution in general?
+      - **IS. Isotopes (1)**. Measure the isotopic ratios and abundances of D/H, noble gases, oxygen, nitrogen, and other elements in the atmosphere of Venus.
+      - **LI. Lithosphere (1)**. Determine lithospheric parameters on Venus that are critical to rheology and potential geodynamic transitions, including: stress state, water content, physical structure, and elastic and mechanical thicknesses.
+      - **HF. Heat flow (2)**. Determine the thermal structure of the lithosphere of Venus at present day and measure in situ heat flow.
+      - **CO. Core (2)**. Measure the size of the core of Venus and determine whether it remains partially liquid.
+
+**II.** Understand atmospheric dynamics and composition on Venus.
+
+
+   - **A.** What processes drive the global atmospheric dynamics of Venus?
+      - **DD. Deep Dynamics (1)**. Characterize the dynamics of the lower atmosphere (below about 75km) of Venus, including: retrograde zonal super-rotation, meridional circulation, radiative balances, mountain waves, and transfer of angular momentum.
+      - **UD. Upper Dynamics (1)**. In the upper atmosphere and thermosphere of Venus, characterize global dynamics and interactions between space weather and the ionosphere and magnetosphere.
+      - **MP. Mesoscale Processes (2)**. Determine the role of mesoscale dynamics in redistributing energy and momentum throughout the atmosphere of Venus.
+
+   - **B.** What processes determine the baseline and variations in Venus atmospheric composition and global and local radiative balance?
+      - **RB. Radiative Balance (1)**. Characterize atmospheric radiative balance and how radiative transport drives atmospheric dynamics on Venus.
+      - **IN. Interactions (1)**. Characterize the nature of the physical, chemical, and possible biological interactions among the constituents of the Venus atmosphere.
+      - **AE. Aerosols (2)**. Determine the physical characteristics and chemical compositions of aerosols in Venus atmosphere as they vary with elevation, including discrimination of aerosol types/components.
+      - **UA. Unknown Absorber (2)**. Characterize the unknown shortwavelength absorber in the upper atmosphere of Venus and its influence on local and global processes.
+      - **OG. Outgassing (3)**. Determine the products of volcanic outgassing on Venus and their effects on atmospheric composition.
+      
+**III.** Understand the geologic history preserved on the surface of Venus and the present-day couplings between the surface and atmosphere.
+
+   - **A.** What geologic processes have shaped the surface of Venus?
+      - **GH. Geologic History (1)**. Develop a geologic history for Venus by characterizing the stratigraphy, modification state, and relative ages of surface units.
+
+      - **GC. Geochemistry (1)**. Determine elemental chemistry, mineralogy, and rock types at localities representative of global geologic units on Venus.
+      - **GA. Geologic Activity (1)**. Characterize current volcanic, tectonic, and sedimentary activity that modifies geologic units and impact craters and ejecta on Venus.
+CR. Crust (2). Determine the structure of the crust of Venus in three dimensions and thickness across the surface.
+
+   - **B.** How do the atmosphere and surface of Venus interact?
+      - **LW. Local Weathering (1)**. Evaluate the mineralogy, oxidation state, and changes in chemistry of surface-weathered rock exteriors at localities representative of global geologic units on Venus.
+      - **GW. Global Weathering (2)**. Determine the causes and spatial extents of global weathering regimes on Venus.
+      - **CI. Chemical Interactions (3)**. Characterize atmospheric composition and chemical gradients from the surface to the cloud base both at key locations and globally.
+
+> Because understanding Venus as a planetary system requires progress in many scientific areas, *Goals and Objectives are not prioritized*.  
+Investigations are typed as **Essential** (1), **Important** (2), or **Targeted** (3) based on their relationship to the corresponding Objective.  
+<br>Completion of all **Essential** Investigations fundamentally addresses their Objective.  
+<br>**Important** Investigations address many aspects of their Objective and provide valuable context for other Investigations.  
+<br>**Targeted** Investigations address particular aspects of an Objective that significantly contribute to our overall understanding of Venus.  
+<br>Investigations with the same ranking have the same level of priority. All listed Investigations are deemed to be significant and worthy of programmatic consideration.
+
+**Related GOI and EVN investigations:**
+
+| Investigation in 2019 GOI | Related targets & explorations for Venus EVN-XXX |
+|--:|--:|
+| I.A.HO. Hydrous Origins (1) | EVN‑023, EVN‑052 |
+| I.A.RE. Recycling (1) | EVN‑023, EVN‑025, EVN‑045, EVN‑046, EVN‑047, EVN‑062, EVN‑085, EVN‑086 |
+| I.A.AL. Atmospheric Losses (2) | EVN‑028, EVN‑033, EVN‑038, EVN‑050, EVN‑091, EVN‑097 |
+| I.A.MA. Magnetism (3) | EVN‑028, EVN‑096, EVN‑097 |
+| I.B.IS. Isotopes (1) | EVN‑014, EVN‑055, EVN‑077 |
+| I.B.LI. Lithosphere (1)  | EVN‑020, EVN‑025, EVN‑047, EVN‑052, EVN‑087 |
+| I.B.HF. Heat Flow (2) | EVN‑019 |
+| I.B.CO. Core (2) | EVN‑020, EVN‑051 |
+| II.A.DD. Deep Dynamics (1) | EVN‑007, EVN‑011, EVN‑019, EVN‑032, EVN‑034, EVN‑082, EVN‑083, EVN‑084 |
+| II.A.UD. Upper Dynamics (1) | EVN‑011, EVN‑028, EVN‑034, EVN‑067, EVN‑068, EVN‑097 |
+| II.A.MP. Mesoscale Processes (2) | EVN‑011, EVN‑019, EVN‑034 |
+| II.B.RB. Radiative Balance (1) | EVN‑011, EVN‑019, EVN‑034, EVN‑049, EVN‑077 |
+| II.B.IN. Interactions (1) | EVN‑019, EVN‑035, EVN‑036, EVN‑041, EVN‑048, EVN‑053, EVN‑095, EVN‑097 |
+| II.B.AE. Aerosols (2) | EVN‑014, EVN‑016, EVN‑018, EVN‑077 |
+| II.B.UA. Unknown Absorber (2) | EVN‑019, EVN‑035, EVN‑048, EVN‑077, EVN‑080 |
+| II.B.OG. Outgassing (3) | EVN‑009, EVN‑041, EVN‑042 |
+| III.A.GH. Geologic History (1) | EVN‑023, EVN‑024, EVN‑025, EVN‑042, EVN‑044, EVN‑045, EVN‑046, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
+| III.A.GC. Geochemistry (1) | EVN‑023, EVN‑024, EVN‑026, EVN‑044, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
+| III.A.GA. Geologic Activity (2) | EVN‑029, EVN‑036, EVN‑043, EVN‑058, EVN‑087 |
+| III.A.CR. Crust (2) | EVN‑020, EVN‑025, EVN‑087 |
+| III.B.LW. Local Weathering (1) | EVN‑023, EVN‑041, EVN‑044 |
+| III.B.GW. Global Weathering (2) | EVN‑007, EVN‑044, EVN‑046 |
+| III.B.CI. Chemical Interactions (3) | EVN‑010, EVN‑014, EVN‑077, EVN‑082, EVN‑083 |
+
+The list of **GOI 2019** and its relation to GOI 2016 can be viewed in the [document](https://www.lpi.usra.edu/vexag/reports/VEXAG_Venus_GOI_Current.pdf) on the VEXAG website.
+
+The list of **GOI 2016** can be viewed in a [document](https://www.lpi.usra.edu/vexag/reports/GOI-Space-Physics-Update-0816.pdf) on the VEXAG website.
 
 
 ### A brief task analysis
@@ -2386,6 +2456,8 @@ Future/proposed missions:
    1. <https://www.kiss.caltech.edu/workshops/venus/venus.html>
    1. 2016.07.25 [Космический аппарат, способный выжить в аду Венеры ⎆](http://www.bbc.com/russian/vert-fut-36856774) *([архив ❐](f/aob/venus/20160725_001_created_20170930_saved.djvu) от 2017.09.30)*
    1. 2017.04.06 [РКС о миссиях СССР к Венере/Марсу ⎆](http://russianspacesystems.ru/2017/04/06/venera/) *([архив ❐](f/aob/venus/20170406_001_created_20171020_saved.djvu) от 2017.10.20)*
+   1. [VEXAG GOI 2019](https://www.lpi.usra.edu/vexag/reports/VEXAG_Venus_GOI_Current.pdf)
+   1. [VEXAG GOI 2016](https://www.lpi.usra.edu/vexag/reports/GOI-Space-Physics-Update-0816.pdf)
 
 |*Sections & pages*|
 |:--:|
