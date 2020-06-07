@@ -33,7 +33,7 @@ And a bit of animation.
 |Flight from Earth| 3.5 ‑ 6.1 months w/ LPS (109 ‑ 144 days) |
 |Signal from Earth| 2.1 ‑ 14.5 minutes |
 |Velocity from Earth| 3.5 ‑ 5 km/s |
-|**`Orbits`**|—|
+|**Orbits:**|—|
 |[Apocentre](apopericentre.md) (Aphelion);<br> [Pericentre](apopericentre.md) (Perihelion)| 108 942 109 km (0.72823128 au);<br> 107 476 259 km (0.71843270 [au](si.md)) |
 |[Argument of periapsis](keplerian.md) (ω)| 54.85229° |
 |Day/year| 58.5 / … Earth's |
@@ -48,7 +48,7 @@ And a bit of animation.
 |[Sider. rotat.period](astroperiod.md) (T, day)| 243.0187 days (retrograde, sync with Earth) |
 |[Sidereal period](astroperiod.md) (year)| 224.698 days (224 d 16 h 45 m 7 s) |
 |[Synodic period](astroperiod.md)| 583.92 days (583 d 2 h 12 m 29 s) |
-|**`Physics`**|—|
+|**Physics:**|—|
 |[1st escape velocity](esc_vel.md) (v₁)| 7.328 km/s <small>(0.926 Earth's)</small> |
 |[2nd escape velocity](esc_vel.md) (v₂)| 10.363 km/s <small>(0.926 Earth's)</small> |
 |[Albedo](albedo.md)| 0.689 (geometric);<br> 0.76 (Bond) |
@@ -63,7 +63,7 @@ And a bit of animation.
 |Surface area (S)| 4.60·10⁸ km² <small>(0.902 Earth's)</small> |
 |[Surface gravity](g.md)| 8.87 m/s² <small>(0.904 Earth's)</small> |
 |Volume (V)| 9.38·10¹¹ km² <small>(0.857 Earth's)</small> |
-|**`Temperature & atmosphere`**|—|
+|**Temperature & atmosph.:**|—|
 |[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density** 67 kg/m³.<br> **Pressure** 9.3 MPa (93 bar).<br> **Winds:**<br> 0.3 ‑ 1 m/s (surface);<br> up to 100 m/s (20 ‑ 60 km). |
 |[Illumination](illum.md)| 200 (5.5°) ‑ 3 000 (90°) lx (surface, <small>0.2 Earth's</small>) |
 |Radiation|  |
@@ -114,22 +114,22 @@ Common areas and possible landing sites.
 
 |*Stratigraphic Unit*|•|*Area,<br> M km²*|*Area,<br> %*|*Unsafe*|*Moder.<br> safe*|*Safe*|
 |:--|:--:|:--|:--|:--|:--|:--|
-|Tectonic||92.82|20|—|—|—|
-| · Densely lineated plains |pdl| · 7.72 | · 1.69 |unsafe|||
-| · Groove belt |gb| · 39.51 | · 8.66 |unsafe|||
-| · Ridged plains |pr,rp| · 10.20 | · 2.24 ||mod.safe||
-| · Tessera |t| · 35.38 | · 7.75 |unsafe|||
-|Volcanic||279.95|61.35|—|—|—|
-| · Regional planes, lower |rp1| · 150.68 | · 33.02 |||safe|
-| · Regional planes, upper |rp2| · 44.79 | · 9.81 ||mod.safe||
-| · Shield plains |psh| · 84.48 | · 18.51 ||mod.safe||
-|Volcano‑tectonic||78.94|17.30|—|—|—|
-| · Lobate plains |pl| · 40.32 | · 8.84 |unsafe|||
-| · Rift zones |rz| · 24.08 | · 5.28 |unsafe|||
-| · Shield clusters |sc| · 3.56 | · 0.78 |?|?|?|
-| · Smooth plains |ps,sp| · 10.98 | · 2.41 |?|?|?|
-| ··· Smooth plains, impact |spi| ··· ? | ··· 1 |||safe|
-| ··· Smooth plains, volcanic |spv| ··· ? | ··· 1 |||safe|
+|**Tectonic**|—|**92.82**|**20**|—|—|—|
+| · Densely lineated plains |pdl| · 7.72 | · 1.69 |unsafe|||
+| · Groove belt |gb| · 39.51 | · 8.66 |unsafe|||
+| · Ridged plains |pr,rp| · 10.20 | · 2.24 ||mod.safe||
+| · Tessera |t| · 35.38 | · 7.75 |unsafe|||
+|**Volcanic**|—|**279.95**|**61.35**|—|—|—|
+| · Regional planes, lower |rp1| · 150.68 | · 33.02 |||safe|
+| · Regional planes, upper |rp2| · 44.79 | · 9.81 ||mod.safe||
+| · Shield plains |psh| · 84.48 | · 18.51 ||mod.safe||
+|**Volcano‑tectonic**|—|**78.94**|**17.30**|—|—|—|
+| · Lobate plains |pl| · 40.32 | · 8.84 |unsafe|||
+| · Rift zones |rz| · 24.08 | · 5.28 |unsafe|||
+| · Shield clusters |sc| · 3.56 | · 0.78 |?|?|?|
+| · Smooth plains |ps,sp| · 10.98 | · 2.41 |?|?|?|
+| ··· Smooth plains, impact |spi| ··· ? | ··· 1 |||safe|
+| ··· Smooth plains, volcanic |spv| ··· ? | ··· 1 |||safe|
 
 **Tessera**
 
@@ -190,6 +190,13 @@ Individual patterns of Tessera Terrain record the variations in interactions of 
       - Hi‑pressure vessels:
          - [AVEC](avec.md) (V = 0.0007 m³, [JHU APL](03_jhuapl.md)),
          - [GEER](geer.md) (V = 0.811 m³ and 0.004 m³, [GRC](03_grc.md)).
+
+**Table.** [Dependency between the complexity, price and science impact ❐](f/aob/venus/cps_dependency.odt).  
+• A swamp of each position basically adds +1 ‑ +2 to complexity and science impact.  
+• A long ‑lived option for a lander basically adds +2 to complexity and +1 to science impact.  
+• Powered (p.) — means an SC can change direction despite of outer forces.
+
+![](f/aob/venus/cps_dependency.png)
 
 
 
@@ -253,7 +260,6 @@ See also section «[Projects](project.md)».
    - In the section [Research](project.md):
       - (1) Wireless electricity transmission for a Venusian SC
       - (4) Materials for Venus
-
       - (12) Human on Venus
    - [VGV](hptc_vgv.md)
    - [DSVSD](hptc_dsvsd.md)
@@ -281,19 +287,19 @@ Flybys: <mark>TBD</mark>
 Standalone units:
 
    - [LLISSE](llisse.md) <mark>TBD</mark>
-   - [MEV](mev.md) <mark>TBD</mark>
+   - [MEVC](mevc.md) <mark>TBD</mark>
    - [SAEVe](saeve.md) <mark>TBD</mark>
    - [Solar Aircraft](solar_aircraft.md) by GRC <mark>TBD</mark>
    - [VAMP](vamp.md) <mark>TBD</mark>
 
 **Table.** Missions/spacecraft of past and future.  
-<small>*(**Ⓛ** — LAV; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration)*</small>
+<small>(**Ⓛ** — LAV; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration)</small>
 
 <small>
 
 |*✔*|*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
 |:--:|:--|:--|:--:|:--:|:--:|:--:|:--:|:--|:--|
-|`—`|**`Proposed:`**|`—`|`—`|`—`|`—`|`—`|`—`|`—`|`—`|
+|—|**Proposed:**|—|—|—|—|—|—|—|—|
 |US| [DAVINCI / DAVINCI+](davinci.md) | … |D|||||| <mark>TBD</mark> concept of 2015 |
 |US| [Cubesat UV Experiment](cubesat_uv_experiment.md) (CUVE) | … |D|||||| concept of 2017 |
 |US| [Venus Flagship Mission](venus_flagship_mission.md) (VFM) | … |D|C||||X| concept of 2007 |
@@ -304,14 +310,14 @@ Standalone units:
 |US| [VERITAS](veritas.md) | … |D|||||| <mark>TBD</mark> concept of 2015 |
 |EU| [EnVision](envision.md) | 2032 |D||||||  |
 |RU| [Venera‑D](venera_d.md) (ВД) Ⓛ | 2029 |D|C||||| <mark>TBD</mark> |
-|`—`|**`Developing:`**|`—`|`—`|`—`|`—`|`—`|`—`|`—`|`—`|
+|—|**Developing:**|—|—|—|—|—|—|—|—|
 |IN| [Shukrayaan‑1](shukrayaan_1.md) | 2023 |D|||||| <mark>TBD</mark> |
 |US| [Xcraft](xcraft.md) | 2022 ||||||X| <mark>TBD</mark> |
-|`—`|**`Active:`**|`—`|`—`|`—`|`—`|`—`|`—`|`—`|`—`|
+|—|**Active:**|—|—|—|—|—|—|—|—|
 |EU·JP| [BepiColombo](bepicolombo.md) | 2018.10.20 |D||F|||| <mark>TBD</mark> |
 |US| [Parker Solar Probe](parker_solar_probe.md) | 2018.08.12 |D||F|||| <mark>TBD</mark> |
 |JP| [Akatsuki](akatsuki.md) | 2010.05.21 |D|||||| |
-|`—`|**`Past:`**|`—`|`—`|`—`|`—`|`—`|`—`|`—`|`—`|
+|—|**Past:**|—|—|—|—|—|—|—|—|
 |EU| [Venus Express](venus_express.md) (VEX) | 2005.11.09 |D|||||| <mark>TBD</mark> |
 |US| [Messenger](messenger.md) | 2004.08.03 |D||F|||X| <mark>TBD</mark> |
 |US| [Cassini Huygens](cassini_huygens.md) | 1997.10.15 |D||F|||X| <mark>TBD</mark> |
@@ -373,7 +379,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
-|||**`Never occurred`**|||||||
+|—|—|**Never occurred:**|—|—|—|—|—|—|
 |EVN‑080||Albedo: changes in time.| Gi |D||F|||
 |EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.|  |D|||||
 |EVN‑037||Atmosphere: cause of the retrograde moving.|  |D|||||
@@ -411,8 +417,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EVN‑047||Surface: what can be said about the structure & composition of the surface of different regions according to Venus's evolution.|  ||C||||
 |EVN‑039||Was the Venus inhabited & for how long?|  |D|C||||
 |EVN‑040||Were there oceans & why has they gone?|  |D|C|F|||
-|• • •|•|• • •|• • •|•|•|•|•|•|
-|||**`Was tried`**|||||||
+|—|—|**Was tried:**|—|—|—|—|—|—|
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
@@ -466,8 +471,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||
 |EVN‑091||The loss rate of water from Venus.|  |D||F|||
 |EVN‑053||Traces of life in the atmosphere & on the surface.|  ||C||||
-|• • •|•|• • •|• • •|•|•|•|•|•|
-|||**`Mostly done`**|||||||
+|—|—|**Mostly done:**|—|—|—|—|—|—|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑004|T|Exploration: from Earth.|  |D|||||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
@@ -492,7 +496,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
       - **HO. Hydrous Origins (1)**. Determine whether Venus shows evidence for abundant silicic igneous rocks and/or ancient sedimentary rocks.
       - **RE. Recycling (1)**. Search for structural, geomorphic, and chemical evidence of crustal recycling on Venus.
       - **AL. Atmospheric Losses (2)**. Quantify the processes by which the atmosphere of Venus loses mass to space, including interactions between magnetic fields and incident ions and electrons.
-      - **MA. Magnetism (3)**. Characterize the distribution of any remanent magnetism in the crust of Venus. 
+      - **MA. Magnetism (3)**. Characterize the distribution of any remanent magnetism in the crust of Venus.
    - **B.** How does Venus elucidate possible pathways for planetary evolution in general?
       - **IS. Isotopes (1)**. Measure the isotopic ratios and abundances of D/H, noble gases, oxygen, nitrogen, and other elements in the atmosphere of Venus.
       - **LI. Lithosphere (1)**. Determine lithospheric parameters on Venus that are critical to rheology and potential geodynamic transitions, including: stress state, water content, physical structure, and elastic and mechanical thicknesses.
@@ -513,7 +517,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
       - **AE. Aerosols (2)**. Determine the physical characteristics and chemical compositions of aerosols in Venus atmosphere as they vary with elevation, including discrimination of aerosol types/components.
       - **UA. Unknown Absorber (2)**. Characterize the unknown shortwavelength absorber in the upper atmosphere of Venus and its influence on local and global processes.
       - **OG. Outgassing (3)**. Determine the products of volcanic outgassing on Venus and their effects on atmospheric composition.
-      
+
 **III.** Understand the geologic history preserved on the surface of Venus and the present-day couplings between the surface and atmosphere.
 
    - **A.** What geologic processes have shaped the surface of Venus?
@@ -537,8 +541,8 @@ Investigations are typed as **Essential** (1), **Important** (2), or **Targeted*
 
 **Related GOI and EVN investigations:**
 
-| Investigation in 2019 GOI | Related targets & explorations for Venus EVN-XXX |
-|--:|--:|
+|*Investigation in 2019 GOI*|*Related targets & explorations for Venus EVN*|
+|:--|:--|
 | I.A.HO. Hydrous Origins (1) | EVN‑023, EVN‑052 |
 | I.A.RE. Recycling (1) | EVN‑023, EVN‑025, EVN‑045, EVN‑046, EVN‑047, EVN‑062, EVN‑085, EVN‑086 |
 | I.A.AL. Atmospheric Losses (2) | EVN‑028, EVN‑033, EVN‑038, EVN‑050, EVN‑091, EVN‑097 |
@@ -574,7 +578,7 @@ This list of tasks is approximate & informative. The main completed tasks are li
 **What already has been done** for 2020.03.
 
    - **General:**
-      1. Types of Venusian SC:
+      1. Types of Venusian [SC](sc.md):
          - balloon (medium, mini),
          - lander (large, ≤ 3 hours),
          - orbiter (large, medium, mini, ≤ 1 year).
@@ -593,7 +597,7 @@ This list of tasks is approximate & informative. The main completed tasks are li
 **What to do/explore.** <mark>TBD: maybe, a bit of priorities here?</mark>
 
    - **General:**
-      1. Types of Venusian SC:
+      1. Types of Venusian [SC](sc.md):
          - balloon:
             - gigantic,
             - large,
@@ -1522,6 +1526,7 @@ Surface: causes of the changes during the last billion years.
 Spacecraft:
 
    1. [Magellan](magellan.md) (1989.05.04). From the craters visible in Magellan's Venus maps, scientists believe they are looking at a relatively young planetary surface, perhaps about 500 million years old. Since Venus formed at the same time as Earth 4.6 billion years ago, some event or events 500 million years ago must have resurfaced the planet. Scientists believe that this may have been the work of massive outpourings of lava from planet‑wide volcanic eruptions.
+
    1. [Venus Express](venus_express.md) (VEX, 2005.11.09). The VIRTIS instrument & the VMC have both contributed to the study of volcanism on Venus.VIRTIS has measured the spectral emissivity of the surface in order to detect variations in chemical composition & they can be used to study the properties of likely Venusian hot spots. In particular, around volcanoes in three of the hot spots (Imdr, Themis & Dione Regiones), VIRTIS data show anomalously high emissivity values. These are interpreted to indicate that the lava flows observed in these regions are relatively unweathered & therefore recent — perhaps a few thousands to a few tens of thousands of years in age.
 
 Future/proposed missions:
@@ -1641,6 +1646,7 @@ Future/proposed missions:
 
 
 <p style="page-break-after:always"> </p>
+
 
 ### EVN‑054 (Т)
 Atmosphere: sample return.
@@ -2043,12 +2049,14 @@ Spacecraft:
    1. [Venus Express](venus_express.md) (VEX, 2005.11.09). The VIRTIS instrument & the VMC have both contributed to the study of volcanism on Venus.VIRTIS has measured the spectral emissivity of the surface in order to detect variations in chemical composition & they can be used to study the properties of likely Venusian hot spots. The VMC has also detected some bright, transient features, including an apparent hot spot in the Ganiki Chasma region. The localised region of higher‑than‑expected temperature may have been a volcanic eruption or fresh lava flow, although this interpretation of the images is by no means certain. Indirect evidence of a major volcanic eruption has come from large changes in the sulphur dioxide content of the planet's atmosphere. One possibility is that the dramatic swing in atmospheric composition was caused by buoyant plumes of volcanic gases released by a large eruption & floating upward.
    1. [Akatsuki](akatsuki.md) (2010.05.21). Observation of radio waves with a length of about 1 µm allows us to observe the lower layer of clouds & the near‑surface part of Venus, & by comparing the intensity of radiation at different lengths of IR waves, it is possible to detect the presence of active volcanoes.
 
+
 Future/proposed missions:
 
    1. [EnVision](envision.md) (…). Given that Venus has the same size & bulk composition as Earth, Venus is expected to be volcanically & tectonically active today. There are regions where volcanic activity is particularly likely to occur. Sites of potential volcanism identified in Venus Express data were in these locations. Therefore the observation & characterisation of these regions are of high priority. VenSpec will provide insights into the current state of Venus & its past evolution. VenSpec will perform a comprehensive search for volcanic activity by targeting atmospheric signatures, thermal signatures & compositional signatures, as well as a global map of surface composition.
    1. [Shukrayaan‑1](shukrayaan_1.md) (…). The mission's scientific goals include determining the structure & stratigraphy of surface/subsurface features — volcanic hotspots.
    1. [Venus Observing System](venus_observing_system.md) (…). Maps of the near‑IR Venus surface emissivity at one wavelength (1.02 μm) were made for the first time using the VIRTIS instrument on Venus Express. Emission from the surface can be seen through windows in Venus’ spectrum, although VEX’s orbit allowed only the southern hemisphere of Venus to be mapped. Nevertheless, numerous geologic features, including large shield volcanoes correlate with surface emissivity differences.
    1. [Venus Origins Explorer](venus_origins_explorer.md) (…). Current data are suggestive of recent & active volcanism on Venus, & this mission could determine if current volcanism is limited to mantle plume heads or if more widespread. The VOX mission includes  investigate surface‑atmosphere interactions, search for new and/or recent volcanism. A radar called Venus Interferometric Synthetic Aperture Radar (VISAR) would generate high‑resolution imaging of the surface at 15 m to 30 m resolution, & search for minute changes in surface elevations to look for evidence of current volcanic or tectonic activity by performing repeat‑passes during 3 years.
+
 
 
 
@@ -2446,7 +2454,6 @@ Future/proposed missions:
    1. <https://en.wikipedia.org/wiki/2MV>
    1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](03_alpo.md) Venus section
    1. <http://alpo-j.asahikawa-med.ac.jp/Latest/Venus.htm> — [ALPO‑J](03_alpo.md) Venus section
-
    1. <https://en.wikipedia.org/wiki/Tessera_(Venus)>
    1. <https://en.wikipedia.org/wiki/List_of_geological_features_on_Venus>
    1. <http://neonka.info/despace/#!venus.md>
@@ -2454,8 +2461,8 @@ Future/proposed missions:
    1. <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
    1. <https://en.wikipedia.org/wiki/Mapping_of_Venus>
    1. <https://www.kiss.caltech.edu/workshops/venus/venus.html>
-   1. 2016.07.25 [Космический аппарат, способный выжить в аду Венеры ⎆](http://www.bbc.com/russian/vert-fut-36856774) *([архив ❐](f/aob/venus/20160725_001_created_20170930_saved.djvu) от 2017.09.30)*
-   1. 2017.04.06 [РКС о миссиях СССР к Венере/Марсу ⎆](http://russianspacesystems.ru/2017/04/06/venera/) *([архив ❐](f/aob/venus/20170406_001_created_20171020_saved.djvu) от 2017.10.20)*
+   1. 2016.07.25 [Космический аппарат, способный выжить в аду Венеры ⎆](http://www.bbc.com/russian/vert-fut-36856774) — [archive ❐](f/aob/venus/20160725_001_created_20170930_saved.djvu) of 2017.09.30)
+   1. 2017.04.06 [РКС о миссиях СССР к Венере/Марсу ⎆](http://russianspacesystems.ru/2017/04/06/venera/) — [archive ❐](f/aob/venus/20170406_001_created_20171020_saved.djvu) of 2017.10.20)
    1. [VEXAG GOI 2019](https://www.lpi.usra.edu/vexag/reports/VEXAG_Venus_GOI_Current.pdf)
    1. [VEXAG GOI 2016](https://www.lpi.usra.edu/vexag/reports/GOI-Space-Physics-Update-0816.pdf)
 
