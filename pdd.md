@@ -1,0 +1,68 @@
+# Payload Definition Document
+> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Doc](doc.md)**, [OE](oe.md), [R&D](rnd.md)
+
+[TOC]
+
+---
+
+> <small>*Термины:* **Payload Definition Document (PDD)** — англоязычный термин, не имеющий аналога в русском языке. **_** — дословный перевод с английского на русский.</small>
+
+**Payload Definition Document (PDD)** — документ, используемый [ESA](03_esa.md) в рамках разработки [R&D](rnd.md) — содержит в себе описание, требования и характеристики научных задач миссии и научной аппаратуры, а также анализ возможности реализации миссии данной научной аппаратурой.
+
+
+
+## Описание
+**Typical table of contents:**
+
+   - 1 INTRODUCTION
+      - 1.1 Scope
+      - 1.2 Reference documentation
+         - 1.2.1 Applicable documents
+         - 1.2.2 Reference documents
+      - 1.3 Acronyms
+      - 1.4 Definitions
+   - 2 SYSTEM ARCHITECTURE OVERVIEW
+      - 2.1 Spacecraft Architecture
+      - 2.2 Reference Payload complement
+   - 3 INSTRUMENT PERFORMANCE REQUIREMENTS
+   - 4 PAYLOAD INTERFACE REQUIREMENTS
+   - 5 REFERENCE PAYLOAD COMPLEMENT
+      - 5.1 Payload unit #1
+         - 5.1.1 Payload Overview and Design Justification
+         - 5.1.2 Instrument electronics/Data handling
+         - 5.1.3 Budgets/ Interfaces
+            - 5.1.3.1 Mass budget
+            - 5.1.3.2 Thermal/Cryogenic Budget
+            - 5.1.3.3 Power Budget
+            - 5.1.3.4 Data Rate Budget
+         - 5.1.4 Volume
+            - 5.1.4.1 Configuration
+            - 5.1.4.2 Mass
+         - 5.1.5 Data
+         - 5.1.6 Power
+
+
+
+<p style="page-break-after:always"> </p>
+
+---
+
+## Docs & links (TRANSLATEME ALREADY)
+|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|:--|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+
+**Docs:**
+
+   1. [Solar Orbiter PDD ❐](f/doc/pdd_solar_orbiter_esa_2004.pdf) (2004 г)
+   1. [EChO PDD ❐](f/doc/pdd_echo_esa_2013.pdf) (2013 г)
+
+**Links:**
+
+   1. Notable interwikies — …
+   1. <…>
+
+|*Sections & pages*|
+|:--:|
+|**`Documents:`**<br> … |
+|**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md) ┊ [Антенна](antenna.md) ┊ [АПС](hns.md) ┊ [БУ](sp.md) ┊ [ЗУ](ds.md) ┊ [Изделие](unit.md) ┊ [КЛЧ](clean_lvl.md) ┊ [ПЗР](fov.md) ┊ [ПО](soft.md) ┊ [Прототип](prototype.md) ┊ [Радиосвязь](comms.md) ┊ [СКЭ](elmsys.md) ┊ [ССИТД](tsdcs.md) ┊ [СИТ](etedp.md) ┊ [УГТ](trl.md) ┊ [ЭКБ](elc.md) ┊ [EMC](emc.md) |

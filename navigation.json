@@ -2,13 +2,18 @@
     "navigation":
     [
         {
-            "text": "Main page",
+            "text": "Index",
             "target": "index.md",
             "toc": true
         },
         {
-            "text": "Venus",
-            "target": "venus.md",
+            "text": "FAQ",
+            "target": "faq.md",
+            "navi": false
+        },
+        {
+            "text": "Contact",
+            "target": "contact.md",
             "navi": false
         }
     ],
