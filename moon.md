@@ -31,7 +31,7 @@
 |Day/year| 14 сут 18 ч / … земных |
 |[Longit. of asc.node](keplerian.md) (Ω)| (убывание) 1 оборот за 18.6 лет |
 |[Inclination](keplerian.md) (i)| 5.145° (относительно эклиптики) |
-|Orbital velocity (v)| 1.023 км/с (средняя) |
+|Orbital velocity (v)| 1.023 km/s (средняя) |
 |[Sider. rotat.period](astroperiod.md) (T, day)| 27.321661 дня, синхронизирован<br> (всегда повёрнута к Земле одной стороной) |
 |[Sidereal period](astroperiod.md) (year)| 27.321582 дней (27 д 7 ч 43 мин 1 с) |
 |[Synodic period](astroperiod.md)| 29.530588 дней (29 д 12 ч 44 мин 0 с) |
@@ -40,8 +40,8 @@
 |Satellite of| [Земля](earth.md) |
 |[Eccentricity](keplerian.md) (e)| 0.0549 (средний) |
 |**Physics:**|—|
-|[1st escape velocity](esc_vel.md) (v₁)| 1.68 км/с <small>(0.212 земной)</small> |
-|[2nd escape velocity](esc_vel.md) (v₂)| 2.38 км/с <small>(0.212 земной)</small> |
+|[1st escape velocity](esc_vel.md) (v₁)| 1.68 km/s <small>(0.212 земной)</small> |
+|[2nd escape velocity](esc_vel.md) (v₂)| 2.38 km/s <small>(0.212 земной)</small> |
 |[Albedo](albedo.md)| 0.12 |
 |[Apparent magnitude](app_mag.md) (m)| −2.5/−12.9 (−12.74 при полной Луне) |
 |[Magnetic field](mag_field.md)| 0.02785 А/м <small>(0.0007 земного)</small> |
@@ -52,7 +52,7 @@
 |Surface area (S)| 3.793·10⁷ km² <small>(0.074 земной, 2.2 РФ)</small>  |
 |Flattening| 0.00125 <small>(0.372 земного)</small> |
 |Radius| 1 738.14 км (экватор., <small>0.273 земного</small>);<br> 1 735.97 км (полярный, <small>0.273 земного</small>);<br> 1 737.10 км (средний, <small>0.273 земного</small>) |
-|[Surface gravity](g.md)| 1.62 м/с² (экватор, <small>0.165 земного</small>) |
+|[Surface gravity](g.md)| 1.62 m/s² (экватор, <small>0.165 земного</small>) |
 |Equatorial rotation velocity| 16.657 км/ч <small>(0.0099 земной)</small> |
 |**Temperature & atmosph.:**|—|
 |[Атмосфера](atmosphere.md)| крайне разрежена,<br> имеются следы водорода, гелия, неона и аргона. |
@@ -376,12 +376,12 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 
 <p style="page-break-after:always"> </p>
 
----
-
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Timezones](timezone.md) ┊ [Wormhole](wormhole.md)  ▮  **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
 **Docs:**
 
@@ -403,6 +403,3 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
    1. <http://clrn.uwo.ca/>
    1. <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
 
-|*Sections & pages*|
-|:--:|
-|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Timezones](timezone.md) ┊ [Wormhole](wormhole.md)  ▮  **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|

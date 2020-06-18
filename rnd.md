@@ -39,9 +39,9 @@
 Ниже приведены типовые этапы разработки ОКР (СЧ ОКР) в РФ и [ESA](03_esa.md). По согласованию с Заказчиком этапы могут исключаться и вводиться новые. Цели нижеприведённого:
 
    1. стандартизация [работ](workflow.md) и документации для различных этапов ОКР;
-   1. уменьшение количества [ошибок](error.md) и разночтений [НД](doc.md) для НПОЛ и [кооперации](contact.md);
+   1. уменьшение количества [ошибок](error.md) и разночтений [НД](doc.md) для исполнителя и [кооперации](contact.md);
    1. уменьшение количества бумажной документации и переписки;
-   1. систематизация опыта работы НПОЛ над [различными ОКР](project.md);
+   1. систематизация опыта работы над [различными ОКР](project.md);
    1. получение [достаточных данных о СЧ](suitc.md), необходимых для работы с ними.
 
 |*Прочие страницы*|*в данной категории*|
@@ -65,7 +65,7 @@
 | | Phase B  | <small>Preliminary design & technology completion. At the end of p.B the system requirements together with a statement of work are sent out requesting proposals from industry.</small>  |
 |**4**| [Технический проект](rnd_tp.md)<br> (ТП)  | <small>Необязательный этап. По НД имеет состав ЭП. Рассмотрение и утверждение ЭП. Присвоение документам литеры «Т». Изготовление и испытание материальных/электронных макетов (при необходимости). ТП разраб. с целью выявления окончательных технических решений, дающих полное представление о конструкции изделия, когда это целесообразно сделать до РРД.</small>  |
 | | Phase B  | <small>*См. предыдущий пункт.*</small>  |
-|**5**| [Разработка конструкторской документации](rnd_rkd.md)<br> (РКД, РРД)  | <small>Рассмотрение и утверждение ТП (ЭП, если не было ТП). Разработка [КД](doc.md#КД), предназначенной для изготовления и [испытания](test.md) опытного образца (опытной партии), без присвоения литеры.</small>  |
+|**5**| [Разработка конструкторской документации](rnd_rkd.md)<br> (РКД, РРД)  | <small>Рассмотрение и утверждение ТП (ЭП, если не было ТП). Разработка [КД](doc.md), предназначенной для изготовления и [испытания](test.md) опытного образца (опытной партии), без присвоения литеры.</small>  |
 | | Phase C  | <small>Final design & fabrication.</small>  |
 |**6**| [Наземная экспериментальная отработка, макетирование](rnd_neo.md) (НЭО)  | <small>Создание макетов КА и его СЧ, проведение наземной экспериментальной отработки, корректировка КД (при необходимости), поставка штатных образцов.</small>  |
 | | Phase C/D  | <small>System assembly, integration & testing. Launch.</small>  |
@@ -92,24 +92,18 @@
 
 
 
-## Как проектировать
-См. [соответствующий раздел](как_проектировать.md).
-
-
-
 <p style="page-break-after:always"> </p>
-
----
 
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
 **Docs:**
 
-   1. 2016.01.29 [Приказ по НПОЛ №24 ❐](f/doc/20160129_prikaz_24.djvu) — О перечне стандартных рассмотрений хода работ кооперации.
-   1. 2018.04.24 [Из переписки с NASA ❐](f/doc/20180424_letters_1.djvu)
+   1. …
 
 **Links:**
 
@@ -118,5 +112,3 @@
    1. <https://en.wikipedia.org/wiki/Research_and_development>
    1. <https://en.wikipedia.org/wiki/Systems_development_life_cycle>
    1. <https://en.wikipedia.org/wiki/System_requirements_(spacecraft_system)>
-
-<mark>NOCAT</mark>

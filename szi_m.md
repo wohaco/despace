@@ -1,0 +1,72 @@
+# СЗИ-М
+> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ЗУ](ds.md)**
+
+[TOC]
+
+---
+
+> <small>*Terms:* **СЗИ-М** — Russian term with no analogues in English. **SZI-M** — literal translation to English.</small>
+
+**СЗИ‑М** ─ постоянное [запоминающее устройство](ds.md) (ПЗУ). Система сбора, регистрации и хранения информации от датчико‑преобразующей аппаратуры, информации БЦВМ, речевой информации. СЗИ‑М обеспечивает спасение информации при воздействии удара (скорость встречи с преградой 150 m/s) и высокой температуры (700 °С в течение 30 минут) («черный ящик»).  
+*Разработчик:* [НПО ИТ](03_npoit.md).  
+
+<small>
+
+|*•    Характеристика    •*|*[Значение](si.md) <small>(СЗИ-М)</small>*|
+|:--|:--|
+|[УГТ](trl.md)| 9  |
+|Алгоритмы сжатия|   |
+|Алгоритмы шифр.|   |
+|Входов|до 32 — регистрации температурной информации с опросом до 100 Гц;<br> до 256 — регистрации параметров с опросом от 25 до 2 000 Гц;<br> увеличение частоты опроса до 32 000 Гц при соответствующем сокращении количества опрашиваемых входов  |
+|Ёмкость, Мбит (Мбайт)| 32 768 (4 096)  |
+|Исполнение| 3 блока:<br> устройство преобразования УП‑М — 2 шт. (с возможностью расширения до 8);<br> устройство накопителя УН‑М в ударотеплозащищённом корпусе — 1 шт.  |
+|Скор., Мбит(Мбайт)/с| 2 (0.25)  |
+|Циклов перезаписи| 100 000  |
+|**Etc:**|• • •|
+|[ВБР](rams.md) за САС|   |
+|Габариты, Д×Ш×В, мм|   |
+|Интерфейсы|  [МКО](mil_std_1553b.md) (2 дублированных), 1 вход регистрации речевой аналоговой информации до 4 500 Гц  |
+|Mass, kg| 1.65 — каждый УП‑М;<br> 8.5 — УН‑М.<br> **Итого:** 11.8  |
+|[Voltage](voltage.md), V| … — для УП‑М;<br> +4.75 — для УН‑М  |
+|Overload, g|   |
+|[Rad.resist](ion_rad.md), Gy (rad)|   |
+|Resource, h (y)| 105 120 (12)  |
+|[Lifetime](lifetime.md), h (y)|   |
+|[Тепловой режим](tcs.md), °C|   |
+|Consumption, W| 9 — каждый УП‑М;<br> 0.85 — УН‑М.<br> **Итого:** 18.85  |
+|| [![](f/ds/s/szi-m_pic1_thumb.jpg)](f/ds/s/szi-m_pic1.png)  |
+
+</small>
+
+
+
+<p style="page-break-after:always"> </p>
+
+## Примечания
+   1. …
+
+
+
+## Применяемость
+   1. …
+
+
+
+<p style="page-break-after:always"> </p>
+
+## Docs & links (TRANSLATEME ALREADY)
+|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|:--|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8) ┊ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8) ┊ [OBMU](sait_obmu.md) (1.8) |
+
+**Docs:**
+
+   1. 3D‑модель <mark>TBD</mark>
+   1. [Чертёж ❐](f/ds/s/szi-m_sketch1.png)
+
+**Links:**
+
+   1. Notable interwikies — …
+   1. <http://www.npoit.ru/products/telemetricheskie-sistemy/sistema-zapominaniya-informatsii-szi-m>

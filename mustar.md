@@ -27,18 +27,18 @@
 |Точность| 5″  | 5″  | 1″  | 5″  |
 |Частота обновл., Гц| 1  | 10  | 10  | 100  |
 |Яркость фона, кд/m²|   |   |   |   |
-|**`Прочее`**|• • •|• • •|• • •|• • •|
+|**Etc:**|• • •|• • •|• • •|• • •|
 |[ВБР](rams.md) за САС| 0.99971 (140 [FIT](fit.md))  | 0.99971 (140 [FIT](fit.md))  | 0.99971 (140 [FIT](fit.md))  | 0.99971 (140 [FIT](fit.md))  |
-|Габариты, Д×Ш×В, мм| ОБ 150×150×232,<br> БЭ 179×75×112  |   |   |   |
+|Dimensions, L×W×H, mm| ОБ 150×150×232,<br> БЭ 179×75×112  |   |   |   |
 |Интерфейсы| SpaceWire  | SpaceWire  | SpaceWire  | SpaceWire  |
-|Масса, кг| 1.8 (0.9 ОБ, 0.9 БЭ)  | 2.1 (0.9 ОБ, 1.2 БЭ)  | 2.7 (1.5 ОБ, 1.2 БЭ)  | 3.3 (2.1 ОБ, 1.2 БЭ)  |
-|[Напряжение](voltage.md), В|   |   |   |   |
+|Mass, kg| 1.8 (0.9 ОБ, 0.9 БЭ)  | 2.1 (0.9 ОБ, 1.2 БЭ)  | 2.7 (1.5 ОБ, 1.2 БЭ)  | 3.3 (2.1 ОБ, 1.2 БЭ)  |
+|[Voltage](voltage.md), V|   |   |   |   |
 |Перегрузки, gRMS| 10  | 10  | 10  | 10  |
-|[Радстойкость](ion_rad.md), Гр (рад)| 1 000 (100 000)  |   |   |   |
-|Ресурс, ч (лет)|   |   |   |   |
+|[Rad.resist](ion_rad.md), Gy (rad)| 1 000 (100 000)  |   |   |   |
+|Resource, h (y)|   |   |   |   |
 |[САС](lifetime.md) в космосе, ч (лет)| НОО: 157 680 (18)  | НОО: 157 680 (18)  | НОО: 157 680 (18)  | НОО: 157 680 (18)  |
 |[Тепловой режим](tcs.md), °C| −24 ‑ +61  | −24 ‑ +61  | −24 ‑ +61  | −24 ‑ +61  |
-|Эл. потребление, Вт| 5  | 10  | 10  | 18  |
+|Consumption, W| 5  | 10  | 10  | 18  |
 || [![](f/sensor/m/mustar_pic1_thumb.jpg)](f/sensor/m/mustar_pic1.jpg) |  |  |  |
 
 </small>
@@ -57,14 +57,14 @@
 
 
 
-
-
----
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
 **Docs:**
 
@@ -74,5 +74,3 @@
 
    1. Notable interwikies — …
    1. <…>
-
-<mark>NOCAT</mark>

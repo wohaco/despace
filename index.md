@@ -58,8 +58,6 @@
 
    - [Здоровье космонавтов](health.md)
 
-|*Sections & pages*|
-|:--:|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Timezones](timezone.md) ┊ [Wormhole](wormhole.md)  ▮  **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
 
@@ -508,7 +506,7 @@
 |**кгс** — килограмм‑сила (см. [СИ, формулы](si.md)) |=|**kgf** — kilogram-force |
 |**КГЧ** — [космическая головная часть](lv.md) |=|**Integrated payload unit**|
 |**КГЭ** — канал геометрического эталона |≠|**Channel of geometric etalon**|
-|**КД** — [конструкторская документация](doc.md#КД) |=|**DDM** — design documentation |
+|**КД** — [конструкторская документация](doc.md) |=|**DDM** — design documentation |
 |**КДИ** — конструкторско‑доводочные испытания |=|**DDET** — design developmental test |
 |**КДО** — конструкторско‑доводочный образец |≠|**Design finishing sample**|
 |**[Кеплеровы элементы](keplerian.md)**|=|**Kepler orbit**|
@@ -932,7 +930,7 @@
 |**ПКП** — [пилотируемый космический полёт](manned_sf.md) |=|**MSF** — manned spaceflight |
 |**ПКрЭ** — перечень критичных элементов |=|**List of critical elements**|
 |**План совместных работ**|=|**Collaboration plan**|
-|**[Планетоход](rover.md)**|=|**[Rover](rover.md)** / **ATV** — all terrain vehicle |
+|**[Rover](rover.md)**|=|**[Rover](rover.md)** / **ATV** — all terrain vehicle |
 |**ПЛЗ** — планетарная защита (см. [Экология](ecology.md)) |=|**PP** — planetary protection |
 |**ПЛИ** — программа лётных испытаний |=|**Phase E program**|
 |**ПЛИС** — [программируемая логическая интегральная схема](плис.md) |=|**PLD** — programmable logic device |
@@ -1050,7 +1048,7 @@
 |**РК** — радикомплекс (см. [Радиосвязь](comms.md)) |=|**[Communications / Comms](comms.md)**|
 |**РКА** — Российское космическое агентство |=|**RSA** — Russian Space Agency |
 |**РКД** —  [разработка конструкторской документации](rnd_rkd.md) |=|**Phase C**  |
-|**РКДОК** — рабочая конструкторская документация (см. [КД](doc.md#КД)) |≠|**Operational design documentation**|
+|**РКДОК** — рабочая конструкторская документация (см. [КД](doc.md)) |≠|**Operational design documentation**|
 |**РКК** — [ракетно‑космический комплекс](lv.md) |≠|**Rocket and space complex**|
 |**РКК КН** — ракетно‑космический комплекс коммерческого назначения |≠|**Commercial rocket and space complex**|
 |**РКЛ** — [ракетный комплекс](ркл.md) |≈|**Missile system**|
@@ -1515,7 +1513,7 @@
 |![](f/px310.png)||![](f/px310.png)|
 |**ЭВМ** — электронная вычислительная машина (см. [ЦВМ](obc.md)) |=|**Computer**|
 |**ЭВТИ** — [экранно‑вакуумная теплоизоляция](mli.md) |=|**MLI** — multi-layer insulation |
-|**ЭД** — [эксплуатационная документация](doc.md#ЭД) |=|**Operational documentation**|
+|**ЭД** — [эксплуатационная документация](doc.md) |=|**Operational documentation**|
 |**ЭДО** — электронный документооборот |=|**Document automation / Document assembly**|
 |**ЭКБ, ЭКБО** — экспериментальное конструкторское бюро |≠|**Experimental design studio**|
 |**ЭКБ** — [электронная компонентная база](elc.md) |=|**EC** — electronic components (ElC) |

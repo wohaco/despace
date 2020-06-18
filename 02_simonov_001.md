@@ -1,0 +1,23 @@
+# Симонов, Александр Владимирович
+> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+
+|*[Org.](contact.md)*|*НПОЛ, RU. 517, Отдел баллистики и навигации. Зам. начальника отдела*|
+|:--|:--|
+|E‑mail| <alex.simonov@laspace.ru> |
+|B‑day, addr.| 1981.05.16, на НПОЛ с 2004 / … |
+|i18n| <mark>TBD</mark> |
+|Tel| *раб.:* 54-19, +7(495)575-54-19, 62-86; *моб.:* +7(910)441-01-52 |
+|| [![](f/contact/s/simonov_001_photo_thumb.jpg)](f/contact/s/simonov_001_photo.jpg) [![](f/contact/s/simonov_001_sign_thumb.jpg)](f/contact/s/simonov_001_sign.png) |
+
+   - **[Education](edu.md):** …
+   - **Exp.:** …
+   - …
+   - **SC/Equip.:** …
+   - **Conferences:** …
+   - Git: …
+   - Facebook: <mark>нетфб</mark>
+   - Instagram: <mark>нетинсты</mark>
+   - LinkedIn: <https://www.linkedin.com/in/александр‑симонов‑8a5b5b7b/>
+   - Twitter: <mark>неттви</mark>
+   - **As a person:**
+      1. …

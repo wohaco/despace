@@ -1,0 +1,23 @@
+# Петрукович, Анатолий Алексеевич
+> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+
+|*[Org.](contact.md)*|*[ИКИ РАН](03_iki_ras.md), RU. Директор*|
+|:--|:--|
+|B‑day, addr.| 1967.08.29 / … |
+|E‑mail| <a.petrukovich@cosmos.ru>, <apetruko@iki.rssi.ru> |
+|i18n| <mark>TBD</mark> |
+|Tel|*раб.:* +7(495)3333-267; *моб.:* +7(915)007-03-99 |
+|| ![](f/contact/p/petrukovich_001_animated.gif) [![](f/contact/p/petrukovich_001_sign_thumb.jpg)](f/contact/p/petrukovich_001_sign.png) |
+
+   - **[Education](edu.md):** …
+   - **Exp.:** …
+   - …
+   - **SC/Equip.:** …
+   - **Conferences:** …
+   - Git: …
+   - Facebook: <mark>нетфб</mark>
+   - Instagram: <mark>нетинсты</mark>
+   - LinkedIn: <mark>нетин</mark>
+   - Twitter: <mark>неттви</mark>
+   - **As a person:**
+      1. …

@@ -701,7 +701,9 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 ## Docs & links
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|**[Don't panic!](dont_panic.md)**, **[Archive](faq.md)**, **[ACUER](бас.md)**·БАС, **[BAC](scs.md)**·БЦ, **[Cables](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Chart](chart.md)**·Схема, **[CM](sp.md)**·БУ, **[Comms](comms.md)**·Радиосвязь, **[Computer](obc.md)**·ЦВМ, **[Contact](contact.md)**·Контакты, **[Control](control.md)**·Управ., **[COOP](contact.md)**·Кооп., **[СS](cs.md)**·СУ, **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[Ecology](ecology.md)**·Экология, **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FP](fp.md)**·ПоЗ, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](cable.md)**·БКУ, **[GS·НКУ](нку.md)/[НС](нс.md)**, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкубатор, **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LAV](03_lav.md)**·НПОЛ, **[LAVplans](03_нпол_п.md)**·НПОЛ планы, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН/РБ/ГО/ПхО, **[MAG](mag.md)**·Магнитометр, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OE](oe.md)**·БА/КНА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проекты, **[PS](ps.md)**·ДУ, **[Quality](quality.md)**·Качество, **[R&D](rnd.md)**·НИОКР, **[Reliability](reliability.md)**·Надёжность, **[Research](research.md)**·Исследования, **[Risk](risk.md)**·Риск, **[Robotics](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[Safety](safety.md)**·Безопасность, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ/формулы, **[Software](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SS](sensor.md)**·СД, **[SSS](sss.md)**·ГЗУ, **[ST](sensor.md)**·ЗД, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·Испыт., **[Timeline](obc.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ, **[US](scs.md)**·ННК, **[Workflow](рпц.md)**|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**`Проекты:`**<br> [PSDS](us_psds.md) ┊ [Индексы проектов на НПОЛ](03_lav.md) ┊ [Маскоты](03_lav.md) ┊ [Морская группировка космических аппаратов](mgsc.md) ┊ [О прошлом, будущем и всём таком](pfaeverything.md) ┊ [Стоимость грамма КА](sc_price.md) ┊ [Стоимость работ на НПОЛ](03_lav.md) ┊ [Типовые формы КА](ка_типформы.md) |
 
 **Docs:**
 
@@ -711,8 +713,6 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
    1. [KK VD NTO IKI RAN](f/project/venera_d/KK_VD_NTO_IKI_RAN.pdf)
    1. [Report 1](f/project/venera_d/Report_1.pdf)
    1. [Venera-D Phase II Final Report](f/project/venera_d/Venera_DPhaseIIFinalReport.pdf)
-   1. Calculator: in [PDF ❐](f/project/venera_d/calculator_vd.pdf), in [XLS ❐](f/project/venera_d/calculator_vd.xlsx)
-   1. Sketch: in [PDF ❐](f/project/venera_d/sketch_vd.pdf), in [DWG ❐](f/project/venera_d/sketch_vd.dwg)
 
 
 **Links:**
@@ -722,9 +722,3 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
    1. <https://en.wikipedia.org/wiki/Venera-D>
    1. <https://ru.wikipedia.org/wiki/Венера‑Д>
    1. <https://en.wikipedia.org/wiki/Tessera_(Venus)>
-
-|*Категории и страницы / Categories & pages*|
-|:--:|
-|**`Проекты:`**<br> [PSDS](us_psds.md) ┊ [Индексы проектов на НПОЛ](03_lav.md) ┊ [Маскоты](03_lav.md) ┊ [Морская группировка космических аппаратов](mgsc.md) ┊ [О прошлом, будущем и всём таком](pfaeverything.md) ┊ [Стоимость грамма КА](sc_price.md) ┊ [Стоимость работ на НПОЛ](03_lav.md) ┊ [Типовые формы КА](ка_типформы.md) |
-
-<mark>NOCAT</mark>

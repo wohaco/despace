@@ -12,8 +12,8 @@
 The **Cassini–Huygens** is a joint mission of the space-research mission, involved a collaboration between NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a spacecraft to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA's Cassini spacecraft and ESA's Huygens Lander, which landed on Saturn's largest moon, Titan. Cassini was the fourth spacecraft to visit Saturn and the first to enter its orbit.
 
 
-<p style="page-break-after:always"> </p>
 
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -58,6 +58,7 @@ Targets & investigations:
 <p style="page-break-after:always"> </p>
 
 
+
 ## Mission
 Launched aboard a Titan IVB/Centaur on October 15, 1997, Cassini was active in space for nearly 20 years, with 13 years spent orbiting Saturn and studying the planet and its system after entering orbit on July 1, 2004. The mission was managed by NASA's Jet Propulsion Laboratory in the United States, where the Orbiter was assembled. Huygens was developed by the European Space Research and Technology Centre. The spacecraft operation was organized around a series of missions. Each is structured according to a certain amount of funding, goals, etc. At least 260 scientists from 17 countries have worked on the Cassini–Huygens mission; in addition thousands of people overall worked to design, manufacture, and launch the mission.
 
@@ -90,7 +91,7 @@ Cassini had its first flyby of Saturn's largest moon, **Titan**, on July 2, 2004
 
 **The Huygens** Lander traveled with Cassini until its separation from the spacecraft. Cassini released the Huygens Lander on December 24, 2004, by means of a spring and spiral rails intended to rotate the Lander for greater stability. It entered the atmosphere of Titan on January 14, 2005, and after a 2.5 h descent by parachute landed on solid ground. It returned data to Earth for around 90 min, using the Orbiter as a relay. This was the first landing ever accomplished in the outer Solar System and the first landing on a moon other than Earth's Moon. The Huygens Lander investigated the chemical composition and surface properties of the Saturnian moon.
 
-|***Animation of Cassini's trajectory from 15 October 1997 to 4 May 2008***||
+|**Animation of Cassini's trajectory from 15 October 1997 to 4 May 2008**||
 |:--|:--|
 |![](f/project/cassini_huygens/animation_of_huygens_trajectory.gif)|**Pink — Huygens <br><br> Blue — Saturn <br><br> Green — Titan** |
 
@@ -114,7 +115,7 @@ On March 12, 2008, Cassini made a close fly-by of Enceladus, passing within 50�
 
 On April 15, 2008, Cassini received funding for a 27 month extended mission. The  Cassini's primary mission was completed in June 2008. The **extended mission** began on July 1, 2008, and was renamed the **Cassini Equinox Mission** as the mission coincided with Saturn's equinox, which happened in August 2009. It mission consisted of 60 more orbits of Saturn, with 21 more close Titan flybys, seven of Enceladus, six of Mimas, eight of Tethys, and one targeted flyby each of Dione, Rhea, and Helene.
 
-|***Animation of Cassini's trajectory from 15 October 1997 to 4 May 2008***||
+|**Animation of Cassini's trajectory from 15 October 1997 to 4 May 2008**||
 |:--|:--|
 |![](f/project/cassini_huygens/animation_of_cassini_trajectory.gif)|**Pink — Cassini–Huygens <br><br> Blue — Earth <br><br> Turquoise — Venus <br><br> Yellow ellipce — Jupiter <br><br> Green — Saturn <br><br> Red — 2685 Masursky <br><br> Yellow dot — Sun** |
 
@@ -149,9 +150,9 @@ In January 2019, new research using data collected during Cassini's Grand Finale
    - The final close passes by the rings and planet enabled scientists to measure the length of a day on Saturn: 10 h, 33 min and 38 s.
    - Saturn's rings are relatively new, 10 to 100 million years old. They may have formed during the age of dinosaurs on Earth.
 
+
+
 <p style="page-break-after:always"> </p>
-
-
 
 ## Science goals & payload
 Cassini had several objectives, including:
@@ -163,6 +164,8 @@ Cassini had several objectives, including:
    - Studying the dynamic behavior of Saturn's atmosphere at cloud level.
    - Studying the time variability of Titan's clouds and hazes.
    - Characterizing Titan's surface on a regional scale.
+
+
 
 ### Cassini
 Cassini's instrumentation consisted of: a synthetic aperture radar mapper, a charge-coupled device imaging system, a visible/infrared mapping spectrometer, a composite infrared spectrometer, a cosmic dust analyzer, a radio and plasma wave experiment, a plasma spectrometer, an ultraviolet imaging spectrograph, a magnetospheric imaging instrument, a magnetometer and an ion/neutral mass spectrometer. Telemetry from the communications antenna and other special transmitters (an S-band transmitter and a dual-frequency Ka-band system) was also used to make observations of the atmospheres of Titan and Saturn and to measure the gravity fields of the planet and its satellites.
@@ -182,6 +185,8 @@ Cassini's instrumentation consisted of: a synthetic aperture radar mapper, a cha
 | **Ultraviolet Imaging Spectrograph (UVIS)** | The UVIS was a remote-sensing instrument that captured images of the ultraviolet light reflected off an object, such as the clouds of Saturn and/or its rings, to learn more about their structure and composition. Designed to measure ultraviolet light over wavelengths from 55.8 to 190 nm, this instrument was also a tool to help determine the composition, distribution, aerosol particle content and temperatures of their atmospheres. Unlike other types of spectrometer, this sensitive instrument could take both spectral and spatial readings. It was particularly adept at determining the composition of gases. Spatial observations took a wide-by-narrow view, only one pixel tall and 64 pixels across. The spectral dimension was 1 024 pixels per spatial pixel. It could also take many images that create movies of the ways in which this material is moved around by other forces. |
 | **Visible and Infrared Mapping Spectrometer (VIMS)** | The VIMS was a remote sensing instrument that captured images using visible and infrared light to learn more about the composition of moon surfaces, the rings, and the atmospheres of Saturn and Titan. It consisted of two cameras — one used to measure visible light, the other infrared. VIMS measured reflected and emitted radiation from atmospheres, rings and surfaces over wavelengths from 350 to 5 100 nm, to help determine their compositions, temperatures and structures. It also observed the sunlight and starlight that passes through the rings to learn more about their structure. Scientists used VIMS for long-term studies of cloud movement and morphology in the Saturn system, to determine Saturn's weather patterns. |
 
+
+
 ### Huygens
 Huygens had six instruments aboard that took in a wide range of scientific data as the Lander descended through Titan's atmosphere.
 
@@ -195,8 +200,8 @@ Huygens had six instruments aboard that took in a wide range of scientific data 
 | **Surface Science Package (SSP)** | The SSP contained a number of sensors designed to determine the physical properties of Titan's surface at the point of impact, whether the surface was solid or liquid. An acoustic sounder, activated during the last 100 m of the descent, continuously determined the distance to the surface, measuring the rate of descent and the surface roughness (e.g., due to waves). The instrument was designed so that if the surface were liquid, the sounder would measure the speed of sound in the «ocean» and possibly also the subsurface structure (depth). During descent, measurements of the speed of sound gave information on atmospheric composition and temperature, and an accelerometer recorded the deceleration profile at impact, indicating the hardness and structure of the surface. |
 
 
-<p style="page-break-after:always"> </p>
 
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 
@@ -242,14 +247,16 @@ ASI:
 
 <mark>TBD</mark>
 
-<p style="page-break-after:always"> </p>
 
----
+
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
 **Documents:**
 
@@ -259,9 +266,8 @@ ASI:
 
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens>
-   1. <https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%81%D0%B8%D0%BD%D0%B8-%D0%93%D1%8E%D0%B9%D0%B3%D0%B5%D0%BD%D1%81>
+   1. <https://ru.wikipedia.org/wiki/Кассини-Гюйгенс>
    1. <https://www.nasa.gov/mission_pages/cassini/main/index.html>
    1. <https://www.jpl.nasa.gov/missions/cassini-huygens/>
    1. <https://www.nasa.gov/feature/jpl/the-first-global-geologic-map-of-titan-completed>
    
-<mark>NOCAT</mark>

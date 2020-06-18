@@ -33,16 +33,16 @@
 |Скорость, кбит/с  | … — записи;<br> … — НП  |
 |**`Прочее`**||
 |[ВБР](rams.md) за САС|   |
-|Габариты, Д×Ш×В, мм|  91 × 91 × 29 БИТ;<br> 90 × 89 × 84 МФТК  |
+|Dimensions, L×W×H, mm|  91 × 91 × 29 БИТ;<br> 90 × 89 × 84 МФТК  |
 |Интерфейсы|  RS‑422;<br> [МКО](mil_std_1553b.md)  |
-|Масса, кг|  0.35 БИТ;<br> 0.75 МФТК.<br> **Итого:** 1.1  |
-|[Напряжение](voltage.md), В|  27 (от 23 до 34)  |
-|Перегрузки, g|   |
-|[Радстойкость](ion_rad.md), Гр (рад)|   |
-|Ресурс, ч (лет)|   |
-|[САС](lifetime.md), ч (лет)|  |
+|Mass, kg|  0.35 БИТ;<br> 0.75 МФТК.<br> **Итого:** 1.1  |
+|[Voltage](voltage.md), V|  27 (от 23 до 34)  |
+|Overload, g|   |
+|[Rad.resist](ion_rad.md), Gy (rad)|   |
+|Resource, h (y)|   |
+|[Lifetime](lifetime.md), h (y)|  |
 |[Тепловой режим](tcs.md), °C|   |
-|Эл. потребление, Вт|  11.6  |
+|Consumption, W|  11.6  |
 
 </small>
 
@@ -60,14 +60,14 @@
 
 
 
-
-
----
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**`Телеметрическая система (ТМС):`**<br> … <br>• • •<br> **РФ:** [ТМС-Л](tms_l.md) (8.5) ┊ [ТМС-УФ](tms_uf.md) (7.25) ┊ [ТМС-РГ](tms_rg.md) (5) ┊ [Пирит](pirit.md) (2.6) ┊ [Оникс](onyx.md) (1.1) ┊ [Астра](astra.md) () |
 
 **Docs:**
 
@@ -79,6 +79,3 @@
    1. Notable interwikies — …
    1. <http://www.npoit.ru/products/telemetricheskie-sistemy/malogabaritnaya-bortovaya-radiotelemetricheskaya-sistema-oniks> — [archive ❐](f/tms/o/oniks_npoit_ru.djvu) of 2018.03.27)
 
-|*Sections & pages*|
-|:--:|
-|**`Телеметрическая система (ТМС):`**<br> … <br>• • •<br> **РФ:** [ТМС-Л](tms_l.md) (8.5) ┊ [ТМС-УФ](tms_uf.md) (7.25) ┊ [ТМС-РГ](tms_rg.md) (5) ┊ [Пирит](pirit.md) (2.6) ┊ [Оникс](onyx.md) (1.1) ┊ [Астра](astra.md) () |

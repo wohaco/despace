@@ -64,12 +64,6 @@
 **Оценка стоимости документа.**  
 ПОН оценивается по [тарифу №2](03_lav.md).
 
-Шаблоны и образцы:
-
-   1. ПОН. [Пример ❐](f/doc/pon_template.doc).
-   1. ПОН. [Шаблон ❐](f/doc/pon_sample.pdf).
-
-
 
 ## ПОСТ
 **Программа обеспечения стойкости (ПОСТ)** — документ, определяющий комплекс взаимосвязанных организационно‑технических мероприятий, подлежащих реализации на определённых стадиях жизненного цикла объекта, направленных на выполнение заданных требований к стойкости. Разрабатывается в соответствии с [ГОСТ 20.39.302](гост_20_39_302.md).
@@ -126,11 +120,6 @@
 **Оценка стоимости документа.**  
 ПОСТ оценивается по [тарифу №2](03_lav.md).
 
-Шаблоны и образцы:
-
-   1. ПОСТ. Пример. <mark>TBD</mark>
-   1. ПОСТ. Шаблон. <mark>TBD</mark>
-
 
 
 ## Расчёт надёжности
@@ -151,14 +140,11 @@
 | [ЛИ](rnd_e.md)  |  —  |  —  |  —  |  —  |<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.</small>  |
 
 **Оценка стоимости документа.** Расчёт надёжности оценивается по [тарифу №2](03_lav.md).
-
-Шаблоны и образцы:
-
    1. <mark>TBD</mark>
 
 
 # Безопасность
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Безопасность](rams.md)**, [КД](doc.md#КД), [Space](index.md), [Риск](risk.md), [EMC](emc.md)
+> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Безопасность](rams.md)**, [КД](doc.md), [Space](index.md), [Риск](risk.md), [EMC](emc.md)
 
 [TOC]
 
@@ -179,8 +165,6 @@
 
 
 
-
-
 ## ПОБ
 **ПОБ** — программа обеспечения безопасности.
 
@@ -195,14 +179,6 @@
 | [РКД](ркд.md)  |  |  |  |  |  |
 | [НЭО](rnd_neo.md)  |  |  |  |  |  |
 | [ЛИ](rnd_e.md)  |  |  |  |  |  |
-
-**Оценка стоимости документа.**  
-ПОБ оценивается по [тарифу №2](03_lav.md).
-
-Шаблоны и образцы:
-
-   1. ПОБ. [Пример ❐](f/doc/pob_sample.pdf).
-   1. ПОБ. [Шаблон ❐](f/doc/pob_template.doc).
 
 
 
@@ -223,12 +199,13 @@ t — САС (ч)
 
 <p style="page-break-after:always"> </p>
 
----
-
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**`Безопасность:`**<br> [NFPA 704](nfpa_704.md) ┊ [Класс опасности](danger_goods.md) ┊ [Класс чистоты](clean_lvl.md) |
+|**`Качество:`**<br> [Bus factor](bus_factor.md) ┊ [АВПКО](fmenca.md) ┊ [Авторский надзор](des_spv.md) ┊ [Бережливое производство](lean_man.md) ┊ [Валидация](validation.md) ┊ [Верификация](verification.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Конструктивное совершенство](con_vel.md) ┊ [Крит. технологии](kt.md) ┊ [Крит. элементы](sens_elem.md) ┊ [Метрология](metrology.md) ┊ [Надёжность](rams.md) ┊ [Нештатная ситуация](emergency.md) ┊ [Ошибки](error.md) ┊ [Система менеджмента качества](qms.md) ┊ [УГТ](trl.md)/[TRL](trl.md) |
 
 **Docs:**
 
@@ -243,8 +220,3 @@ t — САС (ч)
    1. <https://en.wikipedia.org/wiki/Safety>
    1. <https://ru.wikipedia.org/wiki/Безопасность>
    1. <https://ru.wikipedia.org/wiki/Вероятность_безотказной_работы>
-
-|*Sections & pages*|
-|:--:|
-|**`Безопасность:`**<br> [NFPA 704](nfpa_704.md) ┊ [Класс опасности](danger_goods.md) ┊ [Класс чистоты](clean_lvl.md) |
-|**`Качество:`**<br> [Bus factor](bus_factor.md) ┊ [АВПКО](fmenca.md) ┊ [Авторский надзор](des_spv.md) ┊ [Бережливое производство](lean_man.md) ┊ [Валидация](validation.md) ┊ [Верификация](verification.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Конструктивное совершенство](con_vel.md) ┊ [Крит. технологии](kt.md) ┊ [Крит. элементы](sens_elem.md) ┊ [Метрология](metrology.md) ┊ [Надёжность](rams.md) ┊ [Нештатная ситуация](emergency.md) ┊ [Ошибки](error.md) ┊ [Система менеджмента качества](qms.md) ┊ [УГТ](trl.md)/[TRL](trl.md) |

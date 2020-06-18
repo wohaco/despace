@@ -170,7 +170,7 @@ The main scientific task of the lander was to obtain a panoramic image from the 
 
 **LANDER**
 
-**Приборы для измерений во время входа в атмосферу и спуска:**
+**The instruments for measurements during atmospheric entry and descent:**
 
    - Broadband photometer with three visible channels and two infrared channels in three solid angles for measuring radiant flux in the atmosphere and on the surface **ИОВ-75**. The descending and ascending radiation fluxes were measured in the range of 0.44 to 1.16 μm in five bands with a width of 0.1 to 0.3 μm using green, yellow, red and two infrared (IR1 and IR2) glass filters.
    - Narrowband infrared photometer **ИПВ-75** with three channels. One channel was centered on the carbon dioxide absorption line of 0.78 μm, the second on the water absorption line of 0.82 μm, and the third background channel was at 0.8 μm. The spectral width of each channel was 0.005 μm.
@@ -180,12 +180,12 @@ The main scientific task of the lander was to obtain a panoramic image from the 
    - Mass spectrometer to study the chemical composition of the atmosphere ([EVN‑077](venus.md)) at altitudes from 63 to 34 km **МАВ-75**. It was a radio frequency monopole instrument with a pressure regulator and was designed to operate at pressures from 0.1 to 10 bar.
    - On-Board radio transmitters equipped with a highly stable quartz oscillator for measuring the altitude profile of wind speed and turbulence by Doppler shift of the carrier frequency.
 
-**Приборы для работы на поверхности:**
+**Instruments for operating on the surface:**
 
    - Cup anemometer for measuring wind speed. Were mounted on the upper side of the shield **ИСВ-75**.
    - Gamma spectrometer (with sodium iodide luminophore) to determine the content of natural radioactive elements-uranium, thorium and potassium in Venusian rocks ([EVN‑026](venus.md)) **ГС-6**.
    - Gamma-densitometer **РП-75** to determine the density of soil in the surface layer of the planet. It was equipped with a radiation source, which was used as cesium-137, and detectors for measuring gamma radiation reflected from the environment. On the surface, the density of the surface rock was measured, and during the descent, the scattering from the atmosphere was measured.
-   - Two panoramic cameras with spotlights for illumination **ТФ** ([EVN‑063](venus.md)).
+   - Two 5.8 m panoramic telephotometers mounted on opposite sides of the pressure vessel at a height of 0.9 m with spotlights for illumination **ТФ** ([EVN‑063](venus.md)).
 
 |*Characteristic*|*Value*|
 |:--|:--|
@@ -197,10 +197,10 @@ The main scientific task of the lander was to obtain a panoramic image from the 
 |The number of quantization levels of the video signal| 64 |
 |Power input| 5 W |
 |Full angular field of view| 40 x 180° |
-|Image size| 128 x 512 bits |
+|Image size| 128 x 512 px |
 |Pixel size| 6 bits |
 |Shooting time limit| 1 800 s |
-|Data rate| 256 bits/s |
+|Data rate| 256 bit/s |
 
 Panoramas were transmitted simultaneously on independent VHF channels. Each camera was equipped with a backlight system with two lamps for 10 000 Lux. The camera was located inside a sealed and thermally insulated enclosure. The surface was photographed through a cylindrical porthole, inside which a scanning mirror and elements of its drive were installed.
 
@@ -233,13 +233,11 @@ Panoramas were transmitted simultaneously on independent VHF channels. Each came
 
 The spacecraft itself underwent minimal modifications, including a reduction in the size and location of solar panels, a temperature control system and increased reliability. Key changes affected the communication system with the Earth, because when landing on the day side of Venus, the line of sight was absent, and communication with the lander was carried out through the Orbiter, which served as a repeater ([EVN‑092](venus.md)), which significantly increased the speed of data transmission from the lander.
 
-As fuel unsymmetrical dimethylhydrazine (UDMH) and nitrogen tetroxide were used.
+ The orbiter consisted of a cylindrical core with a toroidal instrument module around its base. The cylindrical structure housed propellant tanks holding for the KTDU-425A engine used for orbit insertion and course corrections. Diameter of the cylindrical structure was equal to 1.1 m, total height of the orbiter was 2.8 m (together with the lander installed at the top).
 
-Diameter of the spacecraft was equal to 1.1 m, height (together with the lander installed at the top) reached 2.8 m.
+The Orbiter was equipped with a rocket engine with the ability to re-launch KTDU-425A, which could develop thrust from 9.856 to 18.890 N with a full operating time of 560 s. As fuel unsymmetrical dimethylhydrazine (UDMH) and nitrogen tetroxide were used.
 
-The Orbiter was equipped with a rocket engine with the ability to re-launch KTDU-425A, which could develop thrust from 9.856 to 18.890 N with a full operating time of 560 s.
-
-The control system and scientific instruments were located in a sealed toroidal compartment with a diameter of 2.35 m, attached to the base of the cylinder, to which the nozzles of the auxiliary engines were attached. The navigation optics included several Sun sensors and telescopic Canopus sensors. The Earth sensors were positioned so that they were pointed in the same direction as the high-gain, sharp-pointed parabolic antenna. The antenna was mounted on the side of the cylinder and had a diameter of 1.6 m. The range of wavelengths of decimeter and centimeter. Six omnidirectional helical antennas were located nearby: four for communication with the Ground and two for communication with the lander.
+The control system and scientific instruments were located in a sealed toroidal compartment with a diameter of 2.35 m, attached to the base of the cylinder, to which the nozzles of the auxiliary engines were attached. The navigation optics included several Sun sensors and telescopic Canopus sensors. The Earth sensors were positioned so that they were pointed in the same direction as the high-gain, sharp-pointed parabolic antenna. The antenna was mounted on the side of the cylinder and had a diameter of 1.6 m. The range of wavelengths of decimeter and centimeter. Six omnidirectional helical antennas were located nearby: four for communication with the Ground and two for communication with the lander. Using the orbiter to record then replay the data from the lander allowed a data transmission rate of 256 bit/s compared to the rate of only one bit per second possible with Venera 8 which transmitted its data directly to Earth.
 
 On both sides of the cylinder there were solar panels measuring 1.25 x 2.1 m, with a span of 6.7 m. They were equipped with jet engines to control the orientation of the station, fluxgate magnetometer rods and a repeater antenna for communication with the lander at the stages of re-entry, descent and landing. Also on the sides of the cylinder there were radiators of the thermal control system and tanks, in which nitrogen for the engines of the orientation system was at a pressure of 350 bar.
 
@@ -251,9 +249,9 @@ Information about the operation of the reentry system and data from the lander w
 
 The lander was in a spherical shell with a diameter of 2.4 m. It was a simple sphere covered with an ablative material consisting of asbestos composite on top of foam, which was aerodynamically stabilized in flight by shifting the center of mass to the front side. The angle of entry into the atmosphere was more gentle than for the 3MV lander to reduce the peak overload from about 450 g to 150 – 180 g.
 
-The lander was 2 m high, was equipped with batteries of greater (than 3MV) capacity and transmitted data to the Orbiter via two VHF-channels at a speed of 256 bits/s. The data was relayed to Earth using the high-gain, sharp-pointed parabolic antenna.
+The lander was 2 m high, was equipped with batteries of greater (than 3MV) capacity and transmitted data to the Orbiter via two VHF-channels at a speed of 256 bit/s. The data was relayed to Earth using the high-gain, sharp-pointed parabolic antenna.
 
-The lander was a sealed titanium vessel of spherical shape with a diameter of 80 cm, which contained most of the instruments and electronics. It was attached to the landing ring shock absorber by a system of dampers. On top was a disc-shaped aerodynamic shield with a diameter of 2.1 m, designed to reduce the rate of descent and stabilize the apparatus during its free fall in the lower atmosphere. This shield worked the same way as the reflector of the omnidirectional antenna rolled into a cylinder and located on it. Inside the cylinder with a diameter of 80 cm and a height of 40 cm were parachutes and scientific instruments to work during the descent. The sphere consisted of several sections welded together by a seam of gold wire. It was covered with a 12 cm layer of porous thermal insulation material in the form of honeycomb, and on top of it was closed with a thin titanium shell. Inside, the sphere was also lined with heat-insulating polyurethane foam. In addition to effective thermal insulation, when approaching the planet, the lander was pre-cooled to a temperature of –10 °C. The heat of the atmosphere, penetrating through the layers of insulation, was absorbed by thermal batteries based on lithium nitrate trihydrate. This salt was melted at a temperature of 33 °C, and the gas circulation system distributed heat evenly throughout the volume, maintaining this temperature inside the apparatus until the salt stock was completely melted.
+The lander was a sealed double-walled titanium pressure vessel of spherical shape with a diameter of 80 cm and total mass of 660 kg, which contained most of the instruments and electronics. It was attached to the landing ring shock absorber by a system of dampers. On top was a disc-shaped aerodynamic shield with a diameter of 2.1 m, designed to reduce the rate of descent and stabilize the apparatus during its free fall in the lower atmosphere. This shield worked the same way as the reflector of the omnidirectional antenna rolled into a cylinder and located on it. Inside the cylinder with a diameter of 80 cm and a height of 40 cm were parachutes and scientific instruments to work during the descent. The sphere consisted of several sections welded together by a seam of gold wire. It was covered with a 12 cm layer of porous thermal insulation material in the form of honeycomb, and on top of it was closed with a thin titanium shell. Inside, the sphere was also lined with heat-insulating polyurethane foam. In addition to effective thermal insulation, when approaching the planet, the lander was pre-cooled to a temperature of –10 °C. The heat of the atmosphere, penetrating through the layers of insulation, was absorbed by thermal batteries based on lithium nitrate trihydrate. This salt was melted at a temperature of 33 °C, and the gas circulation system distributed heat evenly throughout the volume, maintaining this temperature inside the apparatus until the salt stock was completely melted.
 
 [![](f/project/venera_9_10/pic03_thumb.jpg)](f/project/venera_9_10/pic03.jpg)
 
@@ -283,12 +281,12 @@ The lander was a sealed titanium vessel of spherical shape with a diameter of 80
 
 <p style="page-break-after:always"> </p>
 
----
-
 ## Docs & links
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
 **Docs:**
 
@@ -302,5 +300,4 @@ The lander was a sealed titanium vessel of spherical shape with a diameter of 80
    1. <https://ru.wikipedia.org/wiki/Венера-9>
    1. <https://ru.wikipedia.org/wiki/Венера-10>
    1. <https://galspace.spb.ru/index496.html>
-
-<mark>NOCAT</mark>
+   1. <https://www.drewexmachina.com/2015/10/22/venera-9-and-10-to-venus/>

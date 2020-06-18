@@ -20,7 +20,7 @@
 |:--|:--|
 |[УГТ](trl.md)|9  |
 |Исполнение  |Моноблок  |
-|Диапазон измерения лин. ускорения  |± 98 м/с²  |
+|Диапазон измерения лин. ускорения  |± 98 m/s²  |
 |Диапазон измерения угл. скорости  |± 30 °/с  |
 |Количество  |—|
 | <small>• акселерометров в приборе</small>  |  |
@@ -32,7 +32,7 @@
 |Случайная составляющая погрешности нулевого сигнала, не более  |—|
 | <small>• в запуске после калибровки в канале акселерометров</small>  |  |
 | <small>• в запуске после калибровки в углоизмерительном канале</small>  |  |
-| <small>• от запуска к запуску в канале акселерометров</small>  |0.00049 м/с²  |
+| <small>• от запуска к запуску в канале акселерометров</small>  |0.00049 m/s²  |
 | <small>• от запуска к запуску в углоизмерительном канале</small>  |0.00005 °/с  |
 |Стабильность цены импульса, не более  |—|
 | <small>• в канале акселерометров</small>  |0.005 °/с  |
@@ -48,13 +48,13 @@
 | Габариты, ∅ × в, мм  |380 × 350 × 300  |
 |Интерфейсы|  [МКО](mil_std_1553b.md)  |
 | Масса, кг, не более  |15.1  |
-|[Напряжение](voltage.md), В| от 23 до 32  |
-|Перегрузки, g|   |
-|[Радстойкость](ion_rad.md), Гр (рад)|   |
-|Ресурс, ч (лет)| 50 000 (5.7)  |
-|[САС](lifetime.md), ч (лет)| 50 000 (5.7)  |
+|[Voltage](voltage.md), V| от 23 до 32  |
+|Overload, g|   |
+|[Rad.resist](ion_rad.md), Gy (rad)|   |
+|Resource, h (y)| 50 000 (5.7)  |
+|[Lifetime](lifetime.md), h (y)| 50 000 (5.7)  |
 |[Тепловой режим](tcs.md), °C|   |
-|Эл. потребление, Вт| от 21 до 35  |
+|Consumption, W| от 21 до 35  |
 
 </small>
 
@@ -73,14 +73,14 @@
 
 
 
-
-
----
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](astrix_1090.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](ius_voa.md) (15.1) ┊ [БИУС-Л](bius_l.md) (10) ┊ [БИУС-М](bius_m.md) (5.1) ┊ [БИБ-ФГ](bib_fg.md) (1.36) ┊ [МБИНС](mbins.md) (1.34) ··· *([БИБ-ИГ](bib_ig.md) (3.6))*  ▮  **США:** [LN-200](ln_200.md) (1.25) |
 
 **Docs:**
 
@@ -92,6 +92,3 @@
    1. Notable interwikies — …
    1. <http://npp-antares.ru/index.php/equipment.html> — [archive ❐](f/imu/i/ius_voa_npp-antares_ru.djvu) of 2018.03.26)
 
-|*Sections & pages*|
-|:--:|
-|**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](astrix_1090.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](ius_voa.md) (15.1) ┊ [БИУС-Л](bius_l.md) (10) ┊ [БИУС-М](bius_m.md) (5.1) ┊ [БИБ-ФГ](bib_fg.md) (1.36) ┊ [МБИНС](mbins.md) (1.34) ··· *([БИБ-ИГ](bib_ig.md) (3.6))*  ▮  **США:** [LN-200](ln_200.md) (1.25) |

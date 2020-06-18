@@ -26,18 +26,18 @@
 | Объём, кбайт  |240 — ОЗУ;<br> 2 048 — ЭППЗУ;<br> … — защищённой памяти  |
 | Разрядность данных  |  |
 | Тип процессора  |2 × 20 МГц;<br> первый выполняет функции ЦП, второй — функции ввода‑вывода  |
-|**`Прочее`**|• • •|
+|**Etc:**|• • •|
 |[ВБР](rams.md) за САС|   |
-|Габариты, Д×Ш×В, мм| 156 × 205 × 214  |
+|Dimensions, L×W×H, mm| 156 × 205 × 214  |
 |Интерфейсы|   |
-|Масса, кг| 8.0  |
-|[Напряжение](voltage.md), В|   |
-|Перегрузки, g|   |
-|[Радстойкость](ion_rad.md), Гр (рад)|     |
-|Ресурс, ч (лет)|   |
-|[САС](lifetime.md), ч (лет)|  |
+|Mass, kg| 8.0  |
+|[Voltage](voltage.md), V|   |
+|Overload, g|   |
+|[Rad.resist](ion_rad.md), Gy (rad)|     |
+|Resource, h (y)|   |
+|[Lifetime](lifetime.md), h (y)|  |
 |[Тепловой режим](tcs.md), °C|   |
-|Эл. потребление, Вт| 30  |
+|Consumption, W| 30  |
 
 </small>
 
@@ -62,14 +62,14 @@
 
 
 
-
-
----
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**`Цифровая вычислительная машина (ЦВМ):`**<br> … <br>• • •<br> **РФ:** [МПК-003](mpk_003.md) (9) ┊ [БИВК-МР](bivk_mr.md) (8) ┊ [МАРС 4](mars_4.md) (8) ┊ [БИВК-Р](bivk_r.md) (7.1) ┊ [МАРС 7](mars_7.md) (6) ┊ [МПК-002](mpk_002.md) (3.9) ┊ [ЦВМ-12](cvm_12.md) (2.2) ┊ [БКУ_SXPA](bku_sxpa.md) (0.35) ┊ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](cvm22.md) (2.1))*|
 
 **Docs:**
 
@@ -80,7 +80,3 @@
 
    1. Notable interwikies — …
    1. <…>
-
-|*Sections & pages*|
-|:--:|
-|**`Цифровая вычислительная машина (ЦВМ):`**<br> … <br>• • •<br> **РФ:** [МПК-003](mpk_003.md) (9) ┊ [БИВК-МР](bivk_mr.md) (8) ┊ [МАРС 4](mars_4.md) (8) ┊ [БИВК-Р](bivk_r.md) (7.1) ┊ [МАРС 7](mars_7.md) (6) ┊ [МПК-002](mpk_002.md) (3.9) ┊ [ЦВМ-12](cvm_12.md) (2.2) ┊ [БКУ_SXPA](bku_sxpa.md) (0.35) ┊ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](cvm22.md) (2.1))*|

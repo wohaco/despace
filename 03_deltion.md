@@ -1,0 +1,27 @@
+# Deltion Innov. Ltd
+> 2019.08.26 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+
+|[![](f/contact/d/deltion_logo1_thumb.jpg)](f/contact/d/deltion_logo1.png)|*1-26 Meehan St, Capreol, ON P0M 1H0, Canada*|
+|:--|:--|
+|E‑mail| <mark>нетпочты</mark> |
+|Link| <https://www.deltion.ca/><br> <https://www.facebook.com/DeltionInnovations/>  |
+|Tel| +1(705)824-15-00, fax: +1(705)858-69-47  |
+|Etc| … |
+
+**Deltion Innovations Ltd** is a technology development company specializing in automation & robotics with a focus on new product development, troubleshooting & existing product improvement for the resource sector.  We have decades of electromechanical design experience derived from the mining & pulp & paper sectors.  We apply this to other sectors, including mining in space.  A key goal of our mining in space work is to spin back the technologies developed to improve productivity & safety in the resource sector.
+
+Since 1999, we have been developing capabilities related to the prospecting for, & extraction of, resources from the Moon, Mars & asteroids. Our approach to the development of this technology has been to leverage our terrestrial mining perspective & knowledge base. Space mining technologies that we have successfully designed, built & tested include  various size drills, crushers, sample handling systems, plows, load/haul/dump systems, mobility platforms, rovers & robotic handling systems.
+
+**Опыт кооперации.**  
+…
+
+
+<p style="page-break-after:always"> </p>
+
+## Deltion Innov. Ltd, comments
+
+   - cost effective solutions
+   - leading edge technology though work with NASA & Canadian Space Agency
+   - decades of electromechanical design experience & capability
+   - troubleshooting of solutions for battery powered underground vehicles, small light-weight drilling robotics & highly autonomous controls
+   - early involvement in system design can improve life cycle & mitigate development of hazards/problems

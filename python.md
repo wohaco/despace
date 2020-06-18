@@ -47,14 +47,15 @@ Python — активно развивающийся язык программи
 
 
 
-
-
 ---
 
 ### Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|||||**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Chart]((doc.md**·Схема, **[Comms](comms.md)**·Радиосвязь, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[СS](cs.md)**·СУ, **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[Ecology](ecology.md)**·Экология, **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкубатор, **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН/РБ/ГО/ПхО, **[MAG](mag.md)**·Магнитометр, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА/КНА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проекты, **[PS](ps.md)**·ДУ, **[Quality](quality.md)**·Качество, **[R&D](rnd.md)**·НИОКР, **[Reliability]((rams.md**·Надёжн., **[Research]((project.md**·Исслед., **[Risk](risk.md)**·Риск, **[Robotics](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[Safety]((rams.md**·Безоп., **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Software](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·Испыт., **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**··• [Software](soft.md) •··**<br>[ASP](asp.md) ┊ [Blender](blender.md) ┊ [C](c.md) ┊ [Cosmographia](cosmographia.md) ┊ [DOORS](doors.md) ┊ [DWG]((cad_fmd) ┊ [GIMP](gimp.md) ┊ [Git](git.md) ┊ [IGES]((cad_fmd) ┊ [ISIS](isis.md) ┊ [JT]((cad_fmd) ┊ [NGT](neogeography_toolkit.md) ┊ [NX](nx.md) ┊ [Octave](gnu_octave.md) ┊ [PDF](pdf.md) ┊ [Python](python.md) ┊ [R](r.md) ┊ [SPICE](spice.md) ┊ [STEP]((cad_fmd) ┊ [STL](systems_tool_kit.md) ┊ [SVG]((cad_fmd) ┊ [Syncthing](syncthing.md) ┊ [Teamcenter](teamcenter.md) ┊ [Система управления версиями](vcs.md) ┊ [ХРИП](adra.md) |
+
 **Docs:**
 
    1. …
@@ -66,6 +67,3 @@ Python — активно развивающийся язык программи
    1. <https://wiki.python.org/>
    1. <https://code.nasa.gov/?q=python>
    1. <https://pythonworld.ru/>
-
-|||*Sections & pages*||:--:|
-||**··• [Software](soft.md) •··**<br>[ASP](asp.md) ┊ [Blender](blender.md) ┊ [C](c.md) ┊ [Cosmographia](cosmographia.md) ┊ [DOORS](doors.md) ┊ [DWG]((cad_fmd) ┊ [GIMP](gimp.md) ┊ [Git](git.md) ┊ [IGES]((cad_fmd) ┊ [ISIS](isis.md) ┊ [JT]((cad_fmd) ┊ [NGT](neogeography_toolkit.md) ┊ [NX](nx.md) ┊ [Octave](gnu_octave.md) ┊ [PDF](pdf.md) ┊ [Python](python.md) ┊ [R](r.md) ┊ [SPICE](spice.md) ┊ [STEP]((cad_fmd) ┊ [STL](systems_tool_kit.md) ┊ [SVG]((cad_fmd) ┊ [Syncthing](syncthing.md) ┊ [Teamcenter](teamcenter.md) ┊ [Система управления версиями](vcs.md) ┊ [ХРИП](adra.md) |

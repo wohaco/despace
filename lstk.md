@@ -26,18 +26,18 @@
 |Режимы съёмки| фотосъёмка  |
 |Частота, кадр/с| 0.3  |
 |Яркость фона, кд/m²|   |
-|**`Прочее`**|• • •|
+|**Etc:**|• • •|
 |[ВБР](rams.md) за САС| 0.96  |
-|Габариты, Д×Ш×В, мм| ОБ 285 × 340 × 166, БЭ 254 × 80 × 150  |
+|Dimensions, L×W×H, mm| ОБ 285 × 340 × 166, БЭ 254 × 80 × 150  |
 |Интерфейсы|   |
-|Масса, кг| 8 (6 ОБ, 2 БЭ)  |
-|[Напряжение](voltage.md), В| 27  |
-|Перегрузки, g|   |
-|[Радстойкость](ion_rad.md), Гр (рад)| 200 (20 000)  |
-|Ресурс, ч (лет)| 10 000 (1.14)  |
-|[САС](lifetime.md), ч (лет)| 26 280 (3)  |
+|Mass, kg| 8 (6 ОБ, 2 БЭ)  |
+|[Voltage](voltage.md), V| 27  |
+|Overload, g|   |
+|[Rad.resist](ion_rad.md), Gy (rad)| 200 (20 000)  |
+|Resource, h (y)| 10 000 (1.14)  |
+|[Lifetime](lifetime.md), h (y)| 26 280 (3)  |
 |[Тепловой режим](tcs.md), °C| −20 ‑ +50  |
-|Эл. потребление, Вт| 21  |
+|Consumption, W| 21  |
 || [![](f/cam/l/lstk_pic2_thumb.jpg)](f/cam/l/lstk_pic2.jpg) [![](f/cam/l/lstk_pic3_thumb.jpg)](f/cam/l/lstk_pic3.jpg) |
 
 </small>
@@ -56,14 +56,14 @@
 
 
 
-
-
----
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|*Sections & pages*|
+|**`Камера:`**<br> [SAR](synthetic_aperture_radar.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … () |
 
 **Docs:**
 
@@ -73,7 +73,3 @@
 
    1. Notable interwikies — …
    1. <…>
-
-|*Sections & pages*|
-|:--:|
-|**`Камера:`**<br> [SAR](synthetic_aperture_radar.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … () |
