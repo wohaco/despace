@@ -7,103 +7,6 @@
 
 ## Persons
 
-### RU
-<small>
-
-|*#*|*Name*|*Agencies*|*Etc*|
-|:--|:--|:--|:--|
-|**А**| [Алексашкин, Сергей Николаевич](02_alexashkin_001.md) | НПОЛ, 512 |—|
-|| [Ануфрейчик, Константин Владимирович](02_anufreychik_001.md) |—| ИКИ РАН |
-|| Асмус Василий Валентинович |—| Планета |
-|**Б**| ~~[Бабакин, Георгий Николаевич](02_babakin_001.md)~~ | НПОЛ |—|
-|| [Бабакин, Николай Георгиевич](02_babakin_002.md) |—| АКЦ |
-|| ~~[Бармин, Владимир Павлович](02_barmin_001.md)~~ |—| МГТУ |
-|| [Буров, Алексей Анатольевич](02_burov_001.md) | НПОЛ, 512 |—|
-|| [Бурданов, Антон Владимирович](02_burdanov_001.md) |—| ЦНИИмаш |
-|**В**| [Вайсберг, Олег Леонидович](02_vaysberg_001.md) |—| ИКИ РАН |
-|| [Ворон, Виктор Владимирович](02_voron_001.md) |—| Роскосмос |
-|| [Воронцов, Виктор Александрович](02_voronцов_001.md) |—|МАИ|
-|**Г**| [Гаврик, Анатолий Леонидович](02_gavrik_001.md) |—| ИРЭ РАН |
-|| [Гаврилин, Сергей Иванович](02_gavrilin_001.md) | НПОЛ, 541 |—|
-|| [Герасимов, Михаил Владимирович](02_gerasimov_001.md) |—| ИКИ РАН |
-|| [Горинов, Дмитрий Алексеевич](02_gorinov_001.md) |—| ИКИ РАН |
-|| [Губайдуллин Валерий Шарифьянович](02_gubaydullin_001.md) |—| ЦНИИмаш |
-|**Д**| [Долгополов, Владимир Павлович](02_dolgopolov_001.md) | НПОЛ, 512 |—|
-|**Е**| [Евдокимова, Дарья Геннадьевна](02_evdokimova_001.md) |—| ИКИ РАН |
-|| [Елшанский, Леонид Борисович](02_елшанский_001.md) |—| Роскосмос |
-|| Ефанов Владимир Владимирович | НПОЛ |—|
-|**Ё**| [Ёлкин, Константин Сергеевич](02_elkin_001.md) |—| ЦНИИмаш |
-|**Ж**| … |—|—|
-|**З**| [Занин, Кирилл Анатольевич](02_zanin_001.md) | НПОЛ |—|
-|| [Засова, Людмила Вениаминовна](02_zasova_001.md) |—| ИКИ РАН |
-|| [Застенкер, Георгий Наумович](02_zastenker_001.md) |—| ИКИ РАН |
-|| [Захаров, Александр Валентинович](02_zaharov_001.md) |—| ИКИ РАН |
-|| [Зелёный, Лев Матвеевич](02_zelenyi_001.md) |—| ИКИ РАН |
-|**И**| [Иванов, Михаил Арсеньевич](02_ivanov_004.md) |—| ГЕОХИ |
-|| [Иванов, Сергей Вениаминович](02_ivanov_006.md) | НПОЛ, 512 |—|
-|| [Игнатьев, Николай Игоревич](02_ignatiev_001.md) |—| ИКИ РАН |
-|**Й**| … |—|—|
-|**К**| [Казмерчук, Павел Владимирович](02_kazmerchuk_001.md) | НПОЛ, 202 |—|
-|| ~~[Кардашёв, Николай Семёнович](02_kardashev_001.md)~~ |—| АКЦ |
-|| ~~[Келдыш, Мстислав Всеволодович](02_keldysh_001.md)~~ |—| АН СССР |
-|| [Коваленко, Ирина Дмитриевна](02_kovalenko_001.md) |—| ИКИ РАН |
-|| [Комаров, Александр Юрьевич](02_komarov_001.md) | НПОЛ, 202 |—|
-|| [Комбаев, Тимур Шикурович](02_kombaev_001.md) | НПОЛ, 509 |—|
-|| [Компаниченко, Владимир Николаевич](02_kompanichenko_001.md) |—| ИКАРП |
-|| [Коптев, Юрий Николаевич](02_koptev_001.md) |—| Ростех |
-|| [Кораблёв, Олег Игоревич](02_korablev_001.md) |—| ИКИ РАН |
-|| ~~[Королёв, Сергей Павлович](02_korolev_001.md)~~ |—| ОКБ-1 |
-|| Косенкова Анастасия Владимировна | НПОЛ, 511 |—|
-|| [Косов, Александр Сергеевич](02_kosov_001.md) |—| ИКИ РАН |
-|| [Костицын, Юрий Александрович](02_kostitsyn_001.md) |—| ГЕОХИ |
-|| [Котляров, Евгений Юрьевич](02_kotlyarov_001.md) | НПОЛ, 515 |—|
-|| [Коцюрбенко, Олег Ролландович](02_kotsurbenko_001.md) |—| ЮГУ |
-|| ~~[Ксанфомалити, Леонид Васильевич](02_ksanfomaliti_001.md)~~ |—| ИКИ РАН |
-|| Кусь Олег Николаевич |—| ОКБ 5 |
-|**Л**| ~~[Лавочкин, Семён Алексеевич](02_lavochkin_001.md)~~ | ОКБ-301 |—|
-|| [Литвак, Максим Леонидович](02_litvak_001.md) |—| ИКИ РАН |
-|| [Лукьянчиков, Александр Владимирович](02_lukianchikov_001.md) | НПОЛ, 202 |—|
-|**М**| [Мальцев, Михаил Владимирович](02_maltsev_001.md) |—| КБХМ |
-|| [Маров, Михаил Яковлевич](02_marov_001.md) |—| ИПМ Келдыша |
-|| Мартынов, Алексей Борисович | НПОЛ, 512 |—|
-|| [Митрофанов, Игорь Георгиевич](02_mitrofanov_001.md) |—| ИКИ РАН |
-|| ~~[Мороз, Василий Иванович](02_moroz_001.md)~~ |—| ГАИШ |
-|| [Морозов, Владимир Иванович](02_morozov_001.md) |—| КБХМ |
-|**Н**| [Намсараев, Зоригто Баирович](02_namsaraev_001.md) |—| Курчатовский инст |
-|**О**| .. |—|—|
-|**П**| Павлинский, Михаил Николаевич |—| ИКИ РАН |
-|| [Павлов, Анатолий Константинович](02_pavlov_001.md) |—| Инст. Иоффе |
-|| [Петров, Максим Евгеньевич](03_petrov_001.md) | НПОЛ, 512 |—|
-|| [Петрукович, Анатолий Алексеевич](02_petrukovich_001.md) |—| ИКИ РАН |
-|| [Писаренко, Павел Дмитриевич](02_pisarenko_001.md) | НПОЛ, 512 |—|
-|**Р**| [Родионов, Даниил Станиславович](02_rodionov_001.md) |—| ИКИ РАН |
-|**С**| [Сагдеев, Роальд Зиннурович](02_sagdeev_001.md) |—| UMD |
-|| [Симонов, Александр Владимирович](02_simonov_001.md) | НПОЛ, 517 |—|
-|| [Сысоев, Валентин Константинович](02_sysoev_001.md) | НПОЛ, 500 |—|
-|**Т**| [Твердислов, Всеволод Александрович](02_tverdislov_001.md) |—| МГУ |
-|| [Третьяков, Владислав Иванович](02_tretiakov_001.md) |—| ИКИ РАН |
-|| [Тучин, Андрей Георгиевич](02_tuchin_001.md) |—| ИПМ Келдыша |
-|| Тучин, Денис Андреевич |—| ИПМ Келдыша |
-|**У**| Устинов Святослав Николаевич | НПОЛ, 516 |—|
-|**Ф**| .. |—|—|
-|**Х**| [Хайлов, Михаил Николаевич](02_hailov_001.md) |—| Роскосмос |
-|| [Хатунцев, Игорь Валерьевич](02_hatuntsev_001.md) |—| ИКИ РАН |
-|**Ц**| .. |—|—|
-|**Ч**| ~~[Челомей, Владимир Николаевич](02_chelomei_001.md)~~ |—| ЦИАМ |
-|| [Чулков, Илья Владиленович](02_chulkov_001.md) |—| ИКИ РАН |
-|**Ш**| .. |—|—|
-|**Щ**| [Щеглов, Георгий Александрович](02_scheglov_001.md) |—| МГТУ Баумана |
-|**Э**| [Эйсмонт, Натан Андреевич](02_eismont_001.md) |—| ИКИ РАН |
-|**Ю**| .. |—|—|
-|**Я**| .. |—|—|
-
-</small>
-
-
-
-<br><br><br><p style="page-break-after:always"> </p>
-
-### EN
 <small>
 
 |*#*|*Person*|*Agencies*|*Etc*|
@@ -114,6 +17,9 @@
 || [Ansari, R. Rafat](02_ansari_001.md) | GRC |—|
 || [Ansan, Veronique](02_ansan_001.md) |—| LPG |
 || [Arney, Giada](02_arney_001.md) | GSFC |—|
+|| [Алексашкин, Сергей Николаевич](02_alexashkin_001.md) | LAV |—|
+|| [Ануфрейчик, Константин Владимирович](02_anufreychik_001.md) | IKI RAS |—|
+|| Асмус Василий Валентинович |—| Planeta |
 |**B**| [Baines, Kevin](02_baines_001.md) | JPL |—|
 || [Baker, Charles L.](02_baker_001.md) | GSFC |—|
 || [Balint, Tibor](02_balint_001.md) | JPL |—|
@@ -128,6 +34,11 @@
 || [Bruzzone, Lorenzo](02_bruzzone_001.md) |—| Trento Univ |
 || [Bullock, Mark](02_bullock_001.md) |—| SWRI |
 || [Byrne, Paul K.](02_byrne_001.md) |—| NCSU |
+|| ~~[Бабакин, Георгий Николаевич](02_babakin_001.md)~~ | LAV |—|
+|| [Бабакин, Николай Георгиевич](02_babakin_002.md) |—| ASC |
+|| ~~[Бармин, Владимир Павлович](02_barmin_001.md)~~ |—| BMSTU |
+|| [Буров, Алексей Анатольевич](02_burov_001.md) | LAV |—|
+|| [Бурданов, Антон Владимирович](02_burdanov_001.md) | TSNIImash |—|
 |**C**| [Campbell, Bruce A.](02_campbell_001.md) |—| SI NASM |
 || [Caro, Tristan](02_caro_001.md) |—| Berkeley Univ |
 || [Carter, Lynn](02_carter_001.md) |—| Arizona Univ |
@@ -137,15 +48,23 @@
 || [Cordova, Jaime A.](02_cordova_001.md) |—| Wisconsin Univ |
 || [Cottini, Valeria](02_cottini_001.md) |—| Maryland Univ |
 || [Cutts, James Alfred](02_cutts_001.md) | JPL |—|
+|| ~~[Челомей, Владимир Николаевич](02_chelomei_001.md)~~ |—| CIAM |
+|| [Чулков, Илья Владиленович](02_chulkov_001.md) | IKI RAS |—|
 |**D**| [D'Incecco, Piero](02_dincecco_001.md) |—| IRSPS |
 || [Domagal-Goldman, Shawn](02_domagalgoldman_001.md) | GSFC |—|
 || [Dong, Chuanfei](02_dong_001.md) |—| Princeton Univ |
 || [Dumoulin, Caroline](02_dumoulin_001.md) |—| LPG |
 || [Dyar, Darby](02_dyar_001.md) |—| Mount Holyoke College |
+|| [Долгополов, Владимир Павлович](02_dolgopolov_001.md) | LAV |—|
 |**E**| [Economou, Thanasis](02_economou_001.md) |—| Chicago Univ |
 || [Ernst, Richard E.](02_ernst_001.md) |—| Carleton Univ., Tomsk SU |
 || [Esposito, Larry W.](02_esposito_001.md) |—| LASP |
 || [Ewan, Shannon](02_ewan_001.md) | NASA |—|
+|| [Евдокимова, Дарья Геннадьевна](02_evdokimova_001.md) | IKI RAS |—|
+|| [Елшанский, Леонид Борисович](02_елшанский_001.md) | Roscosmos |—|
+|| Ефанов Владимир Владимирович | LAV |—|
+|| [Ёлкин, Константин Сергеевич](02_elkin_001.md) | TSNIImash |—|
+|| [Эйсмонт, Натан Андреевич](02_eismont_001.md) | IKI RAS |—|
 |**G**| [Gentry, Diana M.](02_gentry_001.md) |—| ARC |
 || [Ghail, Richard](02_ghail_001.md) |—| Royal Holloway |
 || [Glaze, Lori S.](02_glaze_001.md) | GSFC |—|
@@ -157,6 +76,11 @@
 || [Gregg, Tracy](02_gregg_001.md) |—| UB |
 || [Grimm, Robert E.](02_grimm_001.md) |—| SWRI |
 || [Grinspoon, David](02_grinspoon_001.md) |—| PSI |
+|| [Гаврик, Анатолий Леонидович](02_gavrik_001.md) |—| IRE RAS |
+|| [Гаврилин, Сергей Иванович](02_gavrilin_001.md) | LAV |—|
+|| [Герасимов, Михаил Владимирович](02_gerasimov_001.md) | IKI RAS |—|
+|| [Горинов, Дмитрий Алексеевич](02_gorinov_001.md) | IKI RAS |—|
+|| [Губайдуллин Валерий Шарифьянович](02_gubaydullin_001.md) | TSNIImash |—|
 |**H**| [Hashimoto, George L.](02_hashimoto_001.md) |—| Okayama Univ |
 || [Hayashi, Yoshi-Yuki](02_hayashi_001.md) |—| Kobe Univ |
 || [Hall, Jeffery L.](02_hall_001.md) | JPL |—|
@@ -164,10 +88,15 @@
 || [Helbert, Jörn](02_helbert_001.md) | DLR |—|
 || [Hino, Takafumi](02_hino_001.md) |—| Matsue Coll |
 || [Hunter, Gary W.](02_hunter_001.md) | GRC |—|
+|| [Хайлов, Михаил Николаевич](02_hailov_001.md) | Roscosmos |—|
+|| [Хатунцев, Игорь Валерьевич](02_hatuntsev_001.md) | IKI RAS |—|
 |**I**| [Imamura, Takeshi](02_imamura_001.md) |—| Tokyo Univ |
 || [Ishii, Nobuaki](02_ishii_001.md) | ISAS/JAXA |—|
 || [Iwagami, Naomoto](02_iwagami_001.md) |—| Tokyo Univ |
 || [Izenberg, Noam](02_izenberg_001.md) |—| JHUAPL |
+|| [Иванов, Михаил Арсеньевич](02_ivanov_004.md) |—| GEOKHI |
+|| [Иванов, Сергей Вениаминович](02_ivanov_006.md) | LAV |—|
+|| [Игнатьев, Николай Игоревич](02_ignatiev_001.md) | IKI RAS |—|
 |**J**| [Jessup, Kandis Lea](02_jessup_001.md) | NASA |—|
 || [Jindal, Abhinav](02_jindal_001.md) |—| Cornell Univ |
 || [Johnson, Natasha M.](02_johnson_001.md) | GSFC |—|
@@ -179,6 +108,23 @@
 || [Komatsu, Goro](02_komatsu_001.md) |—| IRSPS |
 || [Kremic, Tibor](02_kremic_001.md) | GRC |—|
 || [Kwok, John H.](02_kwok_001.md) | JPL |—|
+|| [Казмерчук, Павел Владимирович](02_kazmerchuk_001.md) | LAV |—|
+|| ~~[Кардашёв, Николай Семёнович](02_kardashev_001.md)~~ |—| ASC |
+|| ~~[Келдыш, Мстислав Всеволодович](02_keldysh_001.md)~~ |—| AS USSR |
+|| [Коваленко, Ирина Дмитриевна](02_kovalenko_001.md) | IKI RAS |—|
+|| [Комаров, Александр Юрьевич](02_komarov_001.md) | LAV |—|
+|| [Комбаев, Тимур Шикурович](02_kombaev_001.md) | LAV |—|
+|| [Компаниченко, Владимир Николаевич](02_kompanichenko_001.md) |—| IKARP |
+|| [Коптев, Юрий Николаевич](02_koptev_001.md) |—| Rostec |
+|| [Кораблёв, Олег Игоревич](02_korablev_001.md) | IKI RAS |—|
+|| ~~[Королёв, Сергей Павлович](02_korolev_001.md)~~ |—| OKB-1 |
+|| Косенкова Анастасия Владимировна | LAV |—|
+|| [Косов, Александр Сергеевич](02_kosov_001.md) | IKI RAS |—|
+|| [Костицын, Юрий Александрович](02_kostitsyn_001.md) |—| GEOKHI |
+|| [Котляров, Евгений Юрьевич](02_kotlyarov_001.md) | LAV |—|
+|| [Коцюрбенко, Олег Ролландович](02_kotsurbenko_001.md) |—| UGRA |
+|| ~~[Ксанфомалити, Леонид Васильевич](02_ksanfomaliti_001.md)~~ | IKI RAS |—|
+|| Кусь Олег Николаевич |—| OKB 5 |
 |**L**| [Le Gall, Alice Anne](02_legall_001.md) |—| LATMOS |
 || [Lebonnois, Sebastien](02_lebonnois_001.md) |—| Sorbonne Univ., LMD |
 || [Lee, Yeon Joo](02_lee_001.md) |—| Berlin Tech.Univ |
@@ -189,6 +135,9 @@
 || [Lopes, Rosaly M.C.](02_lopes_001.md) | JPL |—|
 || [Lorenz, Ralph](02_lorenz_001.md) |—| JHUAPL |
 || [Luhmann, Janet G.](02_luhmann_001.md) |—| NASA, Berkley |
+|| ~~[Лавочкин, Семён Алексеевич](02_lavochkin_001.md)~~ | OKB-301 |—|
+|| [Литвак, Максим Леонидович](02_litvak_001.md) | IKI RAS |—|
+|| [Лукьянчиков, Александр Владимирович](02_lukianchikov_001.md) | LAV |—|
 |**M**| [Mackwell, Stephen J.](02_mackwell_001.md) |—| AIP |
 || [Mahapatra, Gourav](02_mahapatra_001.md) |—| TU Delft |
 || [Mankins, John C.](02_mankins_001.md) |—| Mankins Space Tech |
@@ -204,9 +153,16 @@
 || [Mills, Franklin](02_mills_001.md) |—| ANU |
 || [Mogul, Rakesh](02_mogul_001.md) |—| CPP |
 || [Murakami, Shin-ya](02_murakami_001.md) | ISAS/JAXA |—|
+|| [Мальцев, Михаил Владимирович](02_maltsev_001.md) |—| KBHM |
+|| [Маров, Михаил Яковлевич](02_marov_001.md) |—| IPM Keldysh |
+|| Мартынов, Алексей Борисович | LAV |—|
+|| [Митрофанов, Игорь Георгиевич](02_mitrofanov_001.md) | IKI RAS |—|
+|| ~~[Мороз, Василий Иванович](02_moroz_001.md)~~ |—| GAISh |
+|| [Морозов, Владимир Иванович](02_morozov_001.md) |—| KBHM |
 |**N**| [Nakamura, Masato](02_nakamura_001.md) |—| JAXA |
 || [Neduncheran, Adhithiyan](02_neduncheran_001.md) |—| UPES |
 || [Nock, Kerry T.](02_nock_001.md) | GAC |—|
+|| [Намсараев, Зоригто Баирович](02_namsaraev_001.md) |—| Kurchatov Inst. |
 |**O**| [Ocampo, Adriana Christian](02_ocampo_001.md) | JPL |—|
 || [Ogawa, Masaki](02_ogawa_001.md) |—| Tokyo Univ |
 || [O'Rourke, Joseph](02_orourke_001.md) |—| Arizona Univ |
@@ -215,16 +171,22 @@
 || [Peralta, Javier Calvillo](02_peralta_001.md) | ISAS/JAXA |—|
 || [Peterson, Craig E.](02_peterson_001.md) |—||
 || [Pickering, Andrew](02_pickering_001.md) | ESA |—|
+|| Павлинский, Михаил Николаевич | IKI RAS |—|
+|| [Павлов, Анатолий Константинович](02_pavlov_001.md) |—| Ioffe Inst. |
+|| [Петров, Максим Евгеньевич](03_petrov_001.md) | LAV |—|
+|| [Петрукович, Анатолий Алексеевич](02_petrukovich_001.md) | IKI RAS |—|
+|| [Писаренко, Павел Дмитриевич](02_pisarenko_001.md) | LAV |—|
 |**R**| [Rabinovitch, Jason](02_rabinovitch_001.md) | JPL |—|
 || [Radke, Michael J.](02_radke_001.md) |—| J.Hopkins Univ |
 || [Read, Peter](02_read_001.md) |—| Oxford Univ |
 || [Rebuffat, Denis](02_rebuffat_001.md) | ESA |—|
-|| [Rodriguez, Aaron Garduño](02_rodriguez_001.md) |—| МАИ |
+|| [Rodriguez, Aaron Garduño](02_rodriguez_001.md) |—| MAI |
 || [Romstedt, Jens](02_romstedt_001.md) |—| ESTEC |
 || [Rosenblatt, Pascal](02_rosenblatt_001.md) |—| Geoazur |
 || [Royer, Emilie](02_royer_001.md) |—| LASP |
 || [Rugina, Ana](02_rugina_001.md) |—| ESTEC |
 || [Russell, Christopher Thomas](02_russell_001.md) |—| UCLA |
+|| [Родионов, Даниил Станиславович](02_rodionov_001.md) | IKI RAS |—|
 |**S**| [Sasaki, Satoshi](02_sasaki_001.md) |—| Tokyo Univ |
 || [Satoh, Takehiko](02_satoh_001.md) | ISAS/JAXA |—|
 || [Sayanagi, Kunio](02_sayanagi_001.md) |—| Hampton Univ |
@@ -238,6 +200,10 @@
 || [Stofan, Ellen R.](02_stofan_001.md) |—| National Air & Space Museum |
 || [Sugiyama, Koichiro](02_sugiyama_001.md) |—| Matsue Coll |
 || [Svedhem, Håkan](02_svedhem_001.md) |—| ESTEC |
+|| [Сагдеев, Роальд Зиннурович](02_sagdeev_001.md) |—| UMD |
+|| [Симонов, Александр Владимирович](02_simonov_001.md) | LAV |—|
+|| [Сысоев, Валентин Константинович](02_sysoev_001.md) | LAV |—|
+|| [Щеглов, Георгий Александрович](02_scheglov_001.md) |—| BMSTU |
 |**T**| [Taguchi, Makoto](02_taguchi_001.md) |—| Rikkyo Univ |
 || [Takahashi, Yukihiro](02_takahashi_001.md) |—| Hokkaido Univ |
 || [Tenishev, Valeriy](02_tenishev_001.md) |—| Michigan Univ |
@@ -245,17 +211,30 @@
 || [Tilman, Justin Eugene](02_tilman_001.md) | NASA |—|
 || [Titov, Dmitri](02_titov_001.md) |—| ESTEC |
 || [Treiman, Allan](02_treiman_001.md) |—| LPI |
+|| [Твердислов, Всеволод Александрович](02_tverdislov_001.md) |—| MSU |
+|| [Третьяков, Владислав Иванович](02_tretiakov_001.md) | IKI RAS |—|
+|| [Тучин, Андрей Георгиевич](02_tuchin_001.md) |—| IPM Keldysh |
+|| Тучин, Денис Андреевич |—| IPM Keldysh |
+|**U**| Устинов Святослав Николаевич | LAV |—|
 |**V**| [Vandaele, Ann Carine](02_vandaele_001.md) |—| BIRA |
 || [Voirin, Thomas](02_voirin_001.md) | ESA |—|
 || [Vonstad, Frida Klæbo](02_vonstad_001.md) |—| UCL |
 || [Voytek, Mary](02_voytek_001.md) | NASA |—|
+|| [Вайсберг, Олег Леонидович](02_vaysberg_001.md) | IKI RAS |—|
+|| [Ворон, Виктор Владимирович](02_voron_001.md) | Roscosmos |—|
+|| [Воронцов, Виктор Александрович](02_voronцов_001.md) |—| MAI |
 |**W**| [Wang, Alian](02_wang_001.md) |—| WUSTL |
 || [Watanabe, Shigeto](02_watanabe_001.md) |—| Hokkaido Information Univ |
 || [Way, Michael Joseph](02_way_001.md) | NASA/GISS |—|
 || [Widemann, Thomas](02_widemann_001.md) |—| Paris Obs |
 || [Wielders, Arno](02_wielders_001.md) | ESA |—|
 || [Wilson, Colin F.](02_wilson_001.md) |—| Oxford Univ |
-|**Y**| [Yamagishi, Akihiko](02_yamagishi_001.md) |—| TUPLS | 
+|**Y**| [Yamagishi, Akihiko](02_yamagishi_001.md) |—| TUPLS |
+|**Z**| [Занин, Кирилл Анатольевич](02_zanin_001.md) | LAV |—|
+|| [Засова, Людмила Вениаминовна](02_zasova_001.md) | IKI RAS |—|
+|| [Застенкер, Георгий Наумович](02_zastenker_001.md) | IKI RAS |—|
+|| [Захаров, Александр Валентинович](02_zaharov_001.md) | IKI RAS |—|
+|| [Зелёный, Лев Матвеевич](02_zelenyi_001.md) | IKI RAS |—|
 
 </small>
 
@@ -264,7 +243,7 @@
 <p style="page-break-after:always"> </p>
 
 
-## Кооперация
+## Cooperation
 > И эти люди запрещают нам ковыряться в носу!
 
 Здесь представлена информация о кооперации НПОЛ (ИКИ, ЦНИИмаш, ИСС и пр). Краткое описание, область работ кооперации, опыт работы с ними. Заодно приведены некоторые иностранные фирмы, работающие в космической промышленности и сочувствующие ей.
@@ -297,7 +276,7 @@
 
 <p style="page-break-after:always"> </p>
 
-### ± Австралия
+### ± Australia
 <small>
 
 (**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
@@ -327,7 +306,102 @@
 
 <p style="page-break-after:always"> </p>
 
-### ✘ Европа
+### ± Canada
+[![](f/contact/map_canada_political_ru_thumb.jpg)](f/contact/map_canada_political_ru.png)
+
+   - *Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)
+
+<small>
+
+(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+
+|*• Organization (CA) •*|*E*|*L*|*P*|*R*|*Industry*|
+|:--|:--|:--|:--|:--|:--|
+|**··· Head ···**|•|•|•|•|• • •|
+| [CSA](03_csa.md)   (QC) ||||| Канадское правительственное космическое агентство |
+|**··· Contractors ···**|•|•|•|•|• • •|
+| [ADGA](03_adga.md)   (ON) ||||C| Advanced technology solutions, professional engineering & consultancy |
+| [AIAC](03_aiac.md)   (ON) ||||| Aerospace Industries Association of Canada |
+| [AlbertaSat](03_albertasat.md)   (AB) |N|||| Cubesats |
+| [August IS Tech](03_august_is_tech.md)   (ON) |E|||R| Space infrastructure, R&D, education, commercialization of innovative solutions |
+| [Baryon Dynam.](03_baryon_dyn.md)   (ON) ||||| Power & space propulsion, engineering designs & expertise |
+| [BRASS](03_brass.md)   (ON) ||||| Разработка новых космических технологий |
+| [C6 Launch](03_c6_launch.md)   (ON) ||||| Пуск кубсатов |
+| [Canadensys](03_canadensys.md)   (ON) ||||| Cubesats, rovers, SC systems |
+| [CASI](03_casi.md)   (ON) |E|||| Canadian Aeronautics & Space Institute |
+| [CCERA](03_ccera.md)   (ON) ||||| Canadian Center for Experimental Radio Astronomy |
+| [Columbiad](03_columbiad.md)   (ON) ||L||| Commercial low‑cost space launch |
+| [Concordia Univ.](03_concordia_univ.md)   (QC) |E|||| … |
+| [CPSX](03_cpsx.md)   (ON) ||||| Planetary science, exploration research, training |
+| [CSS](03_css.md)   (ON) |N|||| Канада в космосе |
+| [Deltion Ltd](03_deltion.md)   (ON) ||||| Добыча ресурсов, роботизация, разработка астероидов |
+| [DSS](03_dsslabs.md)   (NS) |N|||| Кубсаты. Студенческое общество |
+| [Euroconsult](03_euroconsult.md)   (QC) ||||C| Strategic, research, summits, training programs |
+| [Geocentrix Tech.](03_geocentrix_tech.md)   (BC) ||||| Satellite/Launch mission design, analysis, operations, management, consulting |
+| [GHGSat](03_ghgsat.md)   (QC) ||||| Съёмка Земли |
+| [Globvision Inc](03_globvision.md)   (QC) ||||| Software |
+| [Honeywell A/S](03_honeywell_as.md)   () ||||| … |
+| [Kepler Comms](03_kepler_comms.md)   (ON) ||||| Съёмка Земли, IoT, Cubesats |
+| [Lassonde SoE](03_lassonde_soe.md)   (ON) |E|||| … |
+| [Launch Canada](03_launch_canada.md)   () |N|||R| Student community, LV and small sats building |
+| [Luna D&I](03_luna_dni.md)   (ON) ||||| Поддержка биоэкспериментов в космосе |
+| [Macfab](03_macfab.md)   (ON) ||||| ADCS, structures, comms/electronics, sensors, propulsion, separation systems |
+| [Magellan A/S](03_magellan_as.md)   (ON) ||||| СЧ КА и системы |
+| [MCSS inc](03_mcss_inc.md)   (ON) ||||| Роботы, планетоходы |
+| [MDA](03_mda.md)   (ON,QC) ||||| СЧ КА и системы |
+| [Microsat Sys.C.](03_microsat_sys.md)   (ON) ||||R| Reaction wheels, rate measurement units, microsats |
+| [MLS](03_mls.md)   (NS) ||L||| Космодром в Новой Шотландии |
+| [MSCI](03_msci.md)   (ON) ||||| Микроспутники, ДМ |
+| [NGC A/S](03_ngc_as.md)   (QC) ||||| ПО, алгоритмы, симуляция |
+| [Northstar ESI](03_northstar_esi.md)   (QC) ||||| Track orbital objects |
+| [Pale Blue Dot](03_pale_blue_dot.md)   (ON) |N||P|| … |
+| [PolyOrbite](03_polyorbite.md)   (QC) |N|||| Кубсаты. Студенческое общество |
+| [Pratt & Whitney](03_pratt_n_whitney.md)   (QC) ||||R| Rocket engines |
+| [Satcan](03_satcan.md)   (ON) |N|||| Engineering & business services for satellite sector |
+| [SED Systems](03_sed_systems.md)   (SK,QC) ||||| БРК, тестовое оборудование, наблюдение, управление |
+| [SEDS Canada](03_seds.md)   (ON) |N|||| Students for the Exploration & Development of Space |
+| [Sinclair I/P](03_sinclair_ip.md)   (ON) ||||| Star trackers, reaction wheels, optical comms, software, training & expertise |
+| [SpaceRyde](03_spaceryde.md)   (ON) ||||| Affordable, on‑schedule, dedicated launch for CubeSats |
+| [Space Concordia](03_space_concordia.md)   (QC) |N|||| Кубсаты, лёгкие РН |
+| [Space Eng. Sys.](03_space_engs.md)   (AL) ||||R| Next gen. reusable propulsion technologies |
+| [SkyWatch](03_skywatch.md)   (ON) ||||| Открытая информация от съёмки Земли |
+| [SSCL](03_sscl.md)   (ON) ||||| Consulting, innovative solutions |
+| [Telecan Space](03_telecan_space.md)   (QC) ||||| Engineering, thermal testing, R&D, consulting & training services |
+| [Telesat](03_telesat.md)   (ON) ||||| Спутники Земли и телекоммуникации |
+| [Thales Canada](03_thales.md)   (All) ||||| Satellite and LV hardware |
+| [Thoth Tech.](03_thoth_tech.md)   (ON) ||||| Instruments for microsats & UAV platforms, space qualification services & tracking |
+| [UrtheCast](03_urthecast.md)   (BC) ||||| Съёмка Земли |
+| [UTIAS](03_utias.md)   (ON) ||||| Исследования и прикладная механика. Институт |
+| [UTIAS SFL](03_utias_sfl.md)   (ON) ||||| Разработка, создание спутников |
+| [Wyvern Space](03_wyvern.md)   (AB) ||||| Съёмка Земли |
+| [Xiphos](03_xiphos.md)   (QC) ||||| ЦВМ, ПО |
+|**··· Not space ···**|•|•|•|•| Avant Aerospace, CAE |
+
+</small>
+
+
+
+<p style="page-break-after:always"> </p>
+
+### ✘ China
+<small>
+
+(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+
+|*• Organization (CN) •*|*E*|*L*|*P*|*R*|*Industry*|
+|:--|:--|:--|:--|:--|:--|
+|**··· Head ···**|•|•|•|•|• • •|
+| [CNSA](03_cnsa.md) ||||| Китайское национальное космическое управление |
+|**··· Contractors ···**|•|•|•|•|• • •|
+| [LandSpace ](03_landspace.md) ||L||R| Design, manufacturing & operations of small and medium LV |
+
+</small>
+
+
+
+<p style="page-break-after:always"> </p>
+
+### ✘ Europe
 <small>
 
 (**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
@@ -362,6 +436,7 @@
 | [IA](ia.md)   (PT) ||||| Instituto de Astrofísica e Ciências do Espaço |
 | [Iceye](iceye.md)   (FL) ||||| Разработка и создание микроспутников и кубсатов |
 | [InnovaSpace](03_innovaspace.md)   (UK) |E||P|| Promote/conduct R&D, education, innovations for humanity in space |
+| [Int. Space Univ.](03_int_space_univ.md)   (FR) |E|||| Space education for a changing world |
 | [IRAP](03_irap.md)   (FR) ||||| Research Institute in Astrophysics and Planetology |
 | [IRF](03_irf.md)   (SE) ||||| Фундам. исследования косм. физики и физики атмосферы |
 | [IRSPS](03_irsps.md)   (IT) ||||| … |
@@ -412,7 +487,31 @@
 
 <p style="page-break-after:always"> </p>
 
-### ± Израиль
+### ✘ India
+<small>
+
+(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+
+|*• Organization (IN) •*|*E*|*L*|*P*|*R*|*Industry*|
+|:--|:--|:--|:--|:--|:--|
+|**··· Head ···**|•|•|•|•|• • •|
+| [ISRO](03_isro.md) ||||| Индийское национальное космическое агентство |
+|**··· Contractors ···**|•|•|•|•|• • •|
+| [BSIP](03_bsip.md) ||||| Birbal Sahni Institute of Palaeosciences |
+| [Skyroot A/S](03_skyroot_as.md) ||||| <mark>TBD</mark> Launch vehicles |
+| [Space Dev. Network](03_space_dev_netw.md) ||||| <mark>TBD</mark> Space Development Network |
+| [Synergy Moon](03_synergy_moon.md) ||||R| Lunar rover |
+| [Team Indus](team_indus.md) ||||| <mark>TBD</mark> |
+| [Timewarp Space](03_timewarp_space.md) ||L||R| LV for small sats |
+| [UPES](03_upes.md) ||||| University of Petroleum & Energy Studies |
+
+</small>
+
+
+
+<p style="page-break-after:always"> </p>
+
+### ± Israel
 <small>
 
 (**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
@@ -446,118 +545,67 @@
 
 <p style="page-break-after:always"> </p>
 
-### ✘ Индия
+### ± Japan
 <small>
 
 (**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
 
-|*• Organization (IN) •*|*E*|*L*|*P*|*R*|*Industry*|
+|*• Organization (JP) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
 |**··· Head ···**|•|•|•|•|• • •|
-| [ISRO](03_isro.md) ||||| Индийское национальное космическое агентство |
+| [JAXA](03_jaxa.md) |E|L|P|R| Гос. агентство, космическая и авиационная программа Японии |
+| [ISAS](03_isas.md) ||||R| Астрофизические исследования ракетами, ДЗЗ и КА. Часть JAXA |
+| [SCJ](03_scj.md) |N||P|C| Major Japanese science organization |
 |**··· Contractors ···**|•|•|•|•|• • •|
-| [BSIP](03_bsip.md) ||||| Birbal Sahni Institute of Palaeosciences |
-| [Skyroot A/S](03_skyroot_as.md) ||||| <mark>TBD</mark> Launch vehicles |
-| [Space Dev. Network](03_space_dev_netw.md) ||||| <mark>TBD</mark> Space Development Network |
-| [Synergy Moon](03_synergy_moon.md) ||||R| Lunar rover |
-| [Team Indus](team_indus.md) ||||| <mark>TBD</mark> |
-| [Timewarp Space](03_timewarp_space.md) ||L||R| LV for small sats |
-| [UPES](03_upes.md) ||||| University of Petroleum & Energy Studies |
-
-</small>
-
-
-
-<p style="page-break-after:always"> </p>
-
-### ± Канада
-[![](f/contact/map_canada_political_ru_thumb.jpg)](f/contact/map_canada_political_ru.png)
-
-   - *Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)
-
-<small>
-
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
-
-|*• Organization (CA) •*|*E*|*L*|*P*|*R*|*Industry*|
-|:--|:--|:--|:--|:--|:--|
-|**··· Head ···**|•|•|•|•|• • •|
-| [CSA](03_csa.md)   (QC) ||||| Канадское правительственное космическое агентство |
-|**··· Contractors ···**|•|•|•|•|• • •|
-| [ADGA](03_adga.md)   (ON) ||||| Канадское правительственное космическое агентство |
-| [AIAC](03_aiac.md)   (ON) ||||| Aerospace Industries Association of Canada |
-| [AlbertaSat](03_albertasat.md)   (AB) |N|||| Cubesats |
-| [August IS Tech](03_august_is_tech.md)   (ON) ||||| Space infrastructure, R&D, education, commercialization of innovative solutions |
-| [Baryon Dynam.](03_baryon_dyn.md)   (ON) ||||| Power & space propulsion, engineering designs & expertise |
-| [BRASS](03_brass.md)   (ON) ||||| Разработка новых космических технологий |
-| [C6 Launch](03_c6_launch.md)   (ON) ||||| Пуск кубсатов |
-| [Canadensys](03_canadensys.md)   (ON) ||||| Кубсаты, системы КА |
-| [CASI](03_casi.md)   (ON) |E|||| Canadian Aeronautics & Space Institute |
-| [CCERA](03_ccera.md)   (ON) ||||| Canadian Center for Experimental Radio Astronomy |
-| [Columbiad](03_columbiad.md)   (ON) ||||| Commercial low‑cost space launch |
-| [Concordia Univ.](03_concordia_univ.md)   (QC) |E|||| … |
-| [CPSX](03_cpsx.md)   (ON) ||||| Planetary science, exploration research, training |
-| [CSCA](03_csca.md)   (ON) |N|||| Support the interests of the Canadian commercial space‑def sectors |
-| [CSS](03_css.md)   (ON) |N|||| Канада в космосе |
-| [Deltion Ltd](03_deltion.md)   (ON) ||||| Добыча ресурсов, роботизация, разработка астероидов |
-| [DSS](03_dss.md)   (ON) |N|||| Кубсаты. Студенческое общество |
-| [Euroconsult](03_euroconsult.md)   (QC) ||||C| Strategic, research, summits, training programs |
-| [Geocentrix Tech.](03_geocentrix_tech.md)   (BC) ||||| Satellite/Launch mission design, analysis, operations, management, consulting |
-| [GHGSat](03_ghgsat.md)   (QC) ||||| Съёмка Земли |
-| [Globvision Inc](03_globvision.md)   (QC) ||||| Software |
-| [Honeywell A/S](03_honeywell_as.md)   () ||||| … |
-| [Kepler Comms](03_kepler_comms.md)   (ON) ||||| Съёмка Земли, IoT, Cubesats |
-| [Lassonde SoE](03_lassonde_soe.md)   (ON) |E|||| … |
-| [Luna D&I](03_luna_dni.md)   (ON) ||||| Поддержка биоэкспериментов в космосе |
-| [Macfab](03_macfab.md)   (ON) ||||| ADCS, structures, comms/electronics, sensors, propulsion, separation systems |
-| [Magellan A/S](03_magellan_as.md)   (ON) ||||| СЧ КА и системы |
-| [MCSS inc](03_mcss_inc.md)   (ON) ||||| Роботы, планетоходы |
-| [MDA](03_mda.md)   (ON,QC) ||||| СЧ КА и системы |
-| [Microsat Sys.C.](03_microsat_sys.md)   (ON) ||||R| Reaction wheels, rate measurement units, microsats |
-| [MLS](03_mls.md)   (NS) ||L||| Космодром в Новой Шотландии |
-| [MSCI](03_msci.md)   (ON) ||||| Микроспутники, ДМ |
-| [NGC A/S](03_ngc_as.md)   (QC) ||||| ПО, алгоритмы, симуляция |
-| [Northstar ESI](03_northstar_esi.md)   (QC) ||||| Track orbital objects |
-| [Pale Blue Dot](03_pale_blue_dot.md)   (ON) |N||P|| … |
-| [PolyOrbite](03_polyorbite.md)   (QC) |N|||| Кубсаты. Студенческое общество |
-| [Pratt & Whitney](03_pratt_n_whitney.md)   (QC) ||||R| Rocket engines |
-| [Satcan](03_satcan.md)   (ON) |N|||| Engineering & business services for satellite sector |
-| [SED Systems](03_sed_systems.md)   (SK,QC) ||||| БРК, тестовое оборудование, наблюдение, управление |
-| [SEDS Canada](03_seds.md)   (ON) |N|||| Students for the Exploration & Development of Space |
-| [Sinclair I/P](03_sinclair_ip.md)   (ON) ||||| Star trackers, reaction wheels, optical comms, software, training & expertise |
-| [SpaceRyde](03_spaceryde.md)   (ON) ||||| Affordable, on‑schedule, dedicated launch for CubeSats |
-| [Space Concordia](03_space_concordia.md)   (QC) |N|||| Кубсаты, лёгкие РН |
-| [Space Eng. Sys.](03_space_engs.md)   (AL) ||||R| Next gen. reusable propulsion technologies |
-| [SkyWatch](03_skywatch.md)   (ON) ||||| Открытая информация от съёмки Земли |
-| [SSCL](03_sscl.md)   (ON) ||||| Consulting, innovative solutions |
-| [Telecan Space](03_telecan_space.md)   (QC) ||||| Engineering, thermal testing, R&D, consulting & training services |
-| [Telesat](03_telesat.md)   (ON) ||||| Спутники Земли и телекоммуникации |
-| [Thales Canada](03_thales.md)   (All) ||||| Satellite and LV hardware |
-| [Thoth Tech.](03_thoth_tech.md)   (ON) ||||| Instruments for microsats & UAV platforms, space qualification services & tracking |
-| [UrtheCast](03_urthecast.md)   (BC) ||||| Съёмка Земли |
-| [UTIAS](03_utias.md)   (ON) ||||| Исследования и прикладная механика. Институт |
-| [UTIAS SFL](03_utias_sfl.md)   (ON) ||||| Разработка, создание спутников |
-| [Wyvern Space](03_wyvern.md)   (AB) ||||| Съёмка Земли |
-| [Xiphos](03_xiphos.md)   (QC) ||||| ЦВМ, ПО |
-|**··· Not space ···**|•|•|•|•| Avant Aerospace, CAE |
-
-</small>
-
-
-
-<p style="page-break-after:always"> </p>
-
-### ✘ Китай
-<small>
-
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
-
-|*• Organization (CN) •*|*E*|*L*|*P*|*R*|*Industry*|
-|:--|:--|:--|:--|:--|:--|
-|**··· Head ···**|•|•|•|•|• • •|
-| [CNSA](03_cnsa.md) ||||| Китайское национальное космическое управление |
-|**··· Contractors ···**|•|•|•|•|• • •|
-| [LandSpace ](03_landspace.md) ||L||R| Design, manufacturing & operations of small and medium LV |
+| [3D Printing Corp.](03_3d_printing_corp.md) ||||R| Composite 3D printing |
+| [Astroscale](03_astroscale.md) ||||| Removal of orbital debris |
+| [Axelspace Corp.](03_axelspace_corp.md) ||||| Ready‑to‑launch space solutions, micro‑satellite technology |
+| [Canon Electronics](03_canon.md) ||||R| Small Earth satellites |
+| [Euroconsult](03_euroconsult.md) ||||C| Strategic, research, summits, training programs |
+| [eVanTEC Co Ltd](03_evantec_co_ltd.md) ||||| Software, satellite support |
+| [Hakuto](hakuto.md) ||||| … |
+| [GITAI](03_gitai.md) ||||| Remotely controlled robots |
+| [IHI](ihi.md) ||||| Разработка и создание двигателей, ТНА |
+| [Infostellar](03_infostellar.md) ||||| Satellite 'Ground Segment as a Service' (GSaaS) provider |
+| [Interstellar Tech.](03_interstellar_tech.md) ||L||| LV for small sats (≤ 100 kg) |
+| [ispace](03_ispace.md) ||||| … |
+| [JAMSS](03_jamss.md) ||||| Japan Manned Space Systems Corporation |
+| [Japan Sat. Comms](03_japan_sat_comms.md) ||||| … |
+| [Japan Space Imaging](03_jspace_imaging.md) ||||| Satellite remote sensing commercial services |
+| [Japan Space Systems](03_jspace_sys.md) ||||| R&D, HR, promotion activities creating business opportunities in space sector |
+| [JEPICO Corp.](03_jepico_corp.md) ||||R| Electronic components |
+| [JpGU](jpgu.md) |N||P|| Japan geoscience academic union |
+| [JSASS](03_jsass.md) |N||P|| Journals, conferences, awards, recommendations |
+| [Kawasaki HVI](03_kawasaki_hwi.md) ||||R| Satellites, fairings |
+| [Kobe Univ.](kobe_univ.md) |E|||| … |
+| [Kratos IS Japan](03_kratos.md) ||||| … |
+| [Kyushu Inst. of Tech.](03_kyushu_inst_tech.md) ||||| … |
+| [Lab of Space Systems](03_tokyo_univ.md) ||||| Engine researches |
+| [Maxar Japan](03_maxar.md) ||||| … |
+| [Mitsubishi Electric](03_mitsubishi.md) ||||| … |
+| [Mitsubishi HVI](03_mitsubishi.md) ||||| … |
+| [NAOJ](03_naoj.md) ||||| National Astronomical Observatory of Japan, astronomical research |
+| [NEC Space Tech.](03_nec.md) ||||| … |
+| [Nihom Univ.](03_nihon_univ.md) |E|||| … |
+| [Pale Blue Inc.](03_pale_blue_inc.md) ||||| Propulsion systems for small sats |
+| [PASCO CORPORATION](03_pasco_corp.md) ||||| Geospatial information |
+| [PD AeroSpace](03_pd_as.md) ||||| Space transportation |
+| [RESTEC Japan](03_restec.md) ||||| … |
+| [RIKEN](03_riken.md) |E|||| Biology, Chemistry, Physics, and Research |
+| [Satellite Network, Inc.](03_sat_network.md) ||||| Earth sats comms, Earth observation, ground segment, drones |
+| [SE4](03_se4.md) ||||| Remote robotics using VR |
+| [SKY Perfect JSAT](03_sky_perfect_jsat.md) ||||| Telecomms |
+| [SPAC](03_spac.md) |N|||R| Addition to GPS |
+| [Space BD](03_space_bd.md) ||||| Space for business, sats launch, ISS experiments, education |
+| [Space Cubics](03_space_cubics.md) ||||R| CPU R&D |
+| [Space One Co Ltd](03_space_one_co.md) ||||| Launch service that uses small rockets |
+| [Space Port Japan](03_space_pj.md) ||||| Promote the country’s aerospace and related industries |
+| [Space Shift](03_space_shift.md) ||||| Space consulting |
+| [Spacetide](03_spacetide.md) |N||P|| Promotes newspace businesses worldwide, annual conference |
+| [Synspective Inc.](03_synspective_inc.md) ||||| Utilize/integrate data from SAR sat const., big data, machine learning |
+| [Tokyo Univ.](03_tokyo_univ.md) |E|||| … |
+| [TUPLS](03_tupls.md) |E|||| Tokyo University of Pharmacy & Life Sciences |
+| [Yspace LLC](03_yspace.md) |E|||C| VR |
 
 </small>
 
@@ -587,27 +635,10 @@
 </small>
 
 
-<p style="page-break-after:always"> </p>
-
-### ✘ ОАЭ
-<small>
-
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
-
-|*• Organization (AE) •*|*E*|*L*|*P*|*R*|*Industry*|
-|:--|:--|:--|:--|:--|:--|
-|**··· Head ···**|•|•|•|•|• • •|
-| [UAESA](03_uaesa.md) ||||| Космическое агентство Объединённых Арабских Эмиратов |
-|**··· Contractors ···**|•|•|•|•|• • •|
-| [MBRSC](03_mbrsc.md) ||||| Разработка и создание КА |
-
-</small>
-
-
 
 <p style="page-break-after:always"> </p>
 
-### ✘ РФ
+### ✘ Russia
 **Космическая отрасль России** — это около 100 предприятий, в которых занято 250 000 человек. Большинство предприятий российской космической отрасли являются потомками советской государственной космической индустрии, занимавшейся разработкой и производством КА.
 
 Крупнейшим предприятием космической отрасли России является РКК «Энергия», главный подрядчик пилотируемых космических полётов. Ведущими производителями ракет‑носителей являются ГКНПЦ им. М.В. Хруничева и ЦСКБ‑Прогресс. Крупнейшим разработчиком спутников являются «Информационные спутниковые системы» им. академика М.Ф. Решетнёва, а лидером в области межпланетных КА является Научно‑производственное объединение им. С.А. Лавочкина.
@@ -623,7 +654,7 @@
 |*• Organization (RU) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
 |**··· Head ···**|•|•|•|•|• • •|
-| [4116 ВП МО РФ](milro.md) ||||| Контролирующие работы на НПОЛ |
+| [4116 ВП МО РФ](milro.md) ||||| Контролирующие работы на LAV |
 | [ДОГОЗ](03_dogoz.md) ||||| Размещение гособоронзаказа, контроль, учёт выполнения |
 | [ИКИ РАН](03_iki_ras.md) (НРДК) ||||| Исследование космоса, НА, ННК, научные задачи |
 | [Главкосмос](03_glavkosmos.md) ||||| Внешне‑экономическая деятельность РКТ, НИОКР |
@@ -714,7 +745,7 @@
 
 <p style="page-break-after:always"> </p>
 
-### ✘ Саудовская Аравия
+### ✘ Saudi Arabia
 <small>
 
 (**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
@@ -732,7 +763,7 @@
 
 <p style="page-break-after:always"> </p>
 
-### ✘ Сингапур
+### ✘ Singapore
 <small>
 
 (**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
@@ -750,7 +781,7 @@
 
 <p style="page-break-after:always"> </p>
 
-### ✘ США
+### ✘ USA
 [![](f/contact/map_usa_political_thumb.jpg)](f/contact/map_usa_political.png)
 
 <small>
@@ -786,6 +817,7 @@
 | [Draper lab](03_draper_lab.md) ||||| GNC, space systems, technology solutions |
 | [Dynetics](03_dynetics.md) ||||| … |
 | [Elysium Space, Inc.](03_elysium_space.md) ||||| Celestial memorials |
+| [Euroconsult](03_euroconsult.md) ||||C| Strategic, research, summits, training programs |
 | [EXOS AS&T](03_exos_ast.md) ||||| Developer of reusable LV |
 | [FAA](faa.md) ||||| … |
 | [Firefly A/S](firefly_as.md) ||||| Разработка и эксплутация [LV](lv.md); пусковые услуги |
@@ -801,6 +833,7 @@
 | [ImageSat Int.](03_imagesat_int.md) ||||| Geospatial solutions & services: imagery, data, analytics |
 | [Int. Moonbase Alliance](03_i18n_moonbase_alc.md) ||||| Advancing the development/implementation of base on the Moon |
 | [Intuitive Machines](03_intt_machines.md) ||||| Auto systems for industrial systems, drones, SC & spacesuit modeling/sim. services |
+| [Jacobs](03_jacobs.md) ||||C| Civil engineering & solutions |
 | [J.Hopkins Univ.](03_jhu.md) ||||| … |
 | [Jena‑Optronik](03_jenaoptronik.md) ||||| … |
 | [JHUAPL](03_jhuapl.md) ||||| Applied Physics Laboratory |
@@ -845,6 +878,7 @@
 | [Tau Zero](03_tau_zero.md) |N|||| Pioneering advancements toward interstellar flight |
 | [TransDigm](03_transdigm.md) ||||| Космическая электроника и механизмы |
 | [ULA](ula.md) ||||| Эксплутация [LV](lv.md); пусковые услуги |
+| [Ursa Major Tech.](03_ursa_major_tech.md) ||||R| Rocket engines |
 | [Utilis Corp.](03_utilis_corp.md) ||||R| Earth observation, water leaks detection |
 | [Venturi Astrolab Inc.](03_venturi_astrolab.md) ||||| … |
 | [Wisconsin Univ.](03_wisconsin_univ.md) ||||| … |
@@ -858,63 +892,17 @@
 
 <p style="page-break-after:always"> </p>
 
-### ± Япония
+### ✘ UAE
 <small>
 
 (**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
 
-|*• Organization (JP) •*|*E*|*L*|*P*|*R*|*Industry*|
+|*• Organization (AE) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
 |**··· Head ···**|•|•|•|•|• • •|
-| [JAXA](03_jaxa.md) |E|L|P|R| Гос. агентство, космическая и авиационная программа Японии |
-| [ISAS](03_isas.md) ||||R| Астрофизические исследования ракетами, ДЗЗ и КА. Часть JAXA |
+| [UAESA](03_uaesa.md) ||||| Космическое агентство Объединённых Арабских Эмиратов |
 |**··· Contractors ···**|•|•|•|•|• • •|
-| [3D Printing Corp.](03_3d_printing_corp.md) ||||R| Composite 3D printing |
-| [Astroscale](03_astroscale.md) ||||| Removal of orbital debris |
-| [Axelspace Corp.](03_axelspace_corp.md) ||||| Ready‑to‑launch space solutions, micro‑satellite technology |
-| [Canon Electronics](03_canon.md) ||||R| Small Earth satellites |
-| [eVanTEC Co Ltd](03_evantec_co_ltd.md) ||||| Software, satellite support |
-| [Hakuto](hakuto.md) ||||| … |
-| [GITAI](03_gitai.md) ||||| Remotely controlled robots |
-| [IHI](ihi.md) ||||| Разработка и создание двигателей, ТНА |
-| [Infostellar](03_infostellar.md) ||||| Satellite 'Ground Segment as a Service' (GSaaS) provider |
-| [Interstellar Tech.](03_interstellar_tech.md) ||L||| LV for small sats (≤ 100 kg) |
-| [ispace](03_ispace.md) ||||| … |
-| [JAMSS](03_jamss.md) ||||| Japan Manned Space Systems Corporation |
-| [Japan Sat. Comms](03_japan_sat_comms.md) ||||| … |
-| [Japan Space Imaging](03_jspace_imaging.md) ||||| Satellite remote sensing commercial services |
-| [Japan Space Systems](03_jspace_sys.md) ||||| R&D, HR, promotion activities creating business opportunities in space sector |
-| [JEPICO Corp.](03_jepico_corp.md) ||||R| Electronic components |
-| [JSASS](03_jsass.md) |N||P|| Journals, conferences, awards, recommendations |
-| [Kawasaki HVI](03_kawasaki_hwi.md) ||||R| Satellites, fairings |
-| [Kobe Univ.](kobe_univ.md) |E|||| … |
-| [Kratos IS Japan](03_kratos.md) ||||| … |
-| [Kyushu Inst. of Tech.](03_kyushu_inst_tech.md) ||||| … |
-| [Lab of Space Systems](03_tokyo_univ.md) ||||| Engine researches |
-| [Maxar Japan](03_maxar.md) ||||| … |
-| [Mitsubishi Electric](03_mitsubishi.md) ||||| … |
-| [Mitsubishi HVI](03_mitsubishi.md) ||||| … |
-| [NAOJ](03_naoj.md) ||||| National Astronomical Observatory of Japan, astronomical research |
-| [NEC Space Tech.](03_nec.md) ||||| … |
-| [Nihom Univ.](03_nihon_univ.md) |E|||| … |
-| [Pale Blue Inc.](03_pale_blue_inc.md) ||||| Propulsion systems for small sats |
-| [PASCO CORPORATION](03_pasco_corp.md) ||||| Geospatial information |
-| [PD AeroSpace](03_pd_as.md) ||||| Space transportation |
-| [RESTEC Japan](03_restec.md) ||||| … |
-| [RIKEN](03_riken.md) |E|||| Biology, Chemistry, Physics, and Research |
-| [Satellite Network, Inc.](03_sat_network.md) ||||| Earth sats comms, Earth observation, ground segment, drones |
-| [SE4](03_se4.md) ||||| Remote robotics using VR |
-| [SKY Perfect JSAT](03_sky_perfect_jsat.md) ||||| Telecomms |
-| [SPAC](03_spac.md) |N|||R| Addition to GPS |
-| [Space BD](03_space_bd.md) ||||| Space for business, sats launch, ISS experiments, education |
-| [Space Cubics](03_space_cubics.md) ||||R| CPU R&D |
-| [Space One Co Ltd](03_space_one_co.md) ||||| Launch service that uses small rockets |
-| [Space Port Japan](03_space_pj.md) ||||| Promote the country’s aerospace and related industries |
-| [Space Shift](03_space_shift.md) ||||| Space consulting |
-| [Spacetide](03_spacetide.md) |N||P|| Promotes newspace businesses worldwide, annual conference |
-| [Synspective Inc.](03_synspective_inc.md) ||||| Utilize/integrate data from SAR sat const., big data, machine learning |
-| [Tokyo Univ.](03_tokyo_univ.md) |E|||| … |
-| [TUPLS](03_tupls.md) |E|||| Tokyo University of Pharmacy & Life Sciences |
+| [MBRSC](03_mbrsc.md) ||||| Разработка и создание КА |
 
 </small>
 
@@ -952,8 +940,7 @@
 
 **Links:**
 
-   1. Notable interwikies — …
+   1. Notable interwikies — [Skunk works](skunk_works.md)
    1. <http://mentallandscape.com/V_Biographies.htm>
-   1. [Скунсовая фабрика](skunk_works.md)
    1. <https://en.wikipedia.org/wiki/List_of_government_space_agencies>
    1. <https://ru.wikipedia.org/wiki/Список_космических_агентств>

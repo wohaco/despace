@@ -4,11 +4,11 @@
 |[![](f/contact/o/orbital_res_logo1_thumb.jpg)](f/contact/o/orbital_res_logo1.png)|*8652 Commerce Court, Burnaby, BC, V5A 4N6, Canada*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://orbitalresearch.net/>  |
-|Tel| +1(604)419-85-85, fax: +1(604)419-85-61  |
+|Link| <https://orbitalresearch.net/> |
+|Tel| +1(604)419-85-85, fax: +1(604)419-85-61 |
 |Etc| … |
 
-**Orbital Research** manufactures high-performance frequency converters & RF components for the satellite communications (SATCOM) industry. Our products – low noise block downconverters (LNBs), block downconverters (BDCs), low noise amplifiers (LNAs), space-based frequency converters, bias tees & more – offer the highest quality & reliability, even in the most challenging conditions.  
+**Orbital Research** manufactures high-performance frequency converters & RF components for the satellite communications (SATCOM) industry. Our products – low noise block downconverters (LNBs), block downconverters (BDCs), low noise amplifiers (LNAs), space‑based frequency converters, bias tees & more – offer the highest quality & reliability, even in the most challenging conditions.  
 We provide standard & custom SATCOM equipment to customers in military, aeronautical, earth observation, satellite news gathering (SNG), SATCOM-on-the-move (SOTM) & other satellite industries. And because our frequency converters & components are professionally engineered, hand-tuned & individually tested, we can guarantee high performance.  
 Orbital Research was founded in Burnaby, Canada, in 2003. Our team has extensive experience engineering & customizing high end, high performance frequency converters & satellite communications components for professional use. Orbital Research products – LNBs, BDCs, oscillators & more – perform reliably anywhere, even in extreme temperatures & conditions.
 

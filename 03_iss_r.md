@@ -4,9 +4,9 @@
 |[![](f/contact/i/iss_logo1_thumb.jpg)](f/contact/i/iss_logo1.png)|*Россия, 662972, г. Железногорск Красноярского края, ул. Ленина 52*|
 |:--|:--|
 |E‑mail| <office@iss-reshetnev.ru> |
-|Link| <http://iss-reshetnev.ru><br> <https://ru.wikipedia.org/wiki/Информационные_спутниковые_системы>  |
-|Tel| +7(3919)72-80-08, fax: +7(3919)75-61-46  |
-|Etc| Время MSK+4<br> 2359 ВП МО РФ, начальник — А.В. Шорохов  |
+|Link| <http://iss-reshetnev.ru><br> <https://ru.wikipedia.org/wiki/Информационные_спутниковые_системы> |
+|Tel| +7(3919)72-80-08, fax: +7(3919)75-61-46 |
+|Etc| Время MSK+4<br> 2359 ВП МО РФ, начальник — А.В. Шорохов |
 
 **<mark>Осторожно! Дерзота!</mark>**
 

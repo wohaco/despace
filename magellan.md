@@ -17,7 +17,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … of [gold](sc_price.md) |
 |Development| 1983 — 1989 |
 |Duration| 4 years, 5 months, 8 days, 13 hours, 18 minutes |
@@ -27,7 +27,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md) |
 |Target| Radar mapping of Venus |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| 3.7 m HGA (Voyager) and a medium-gain antenna (Mariner 9)<br>S-band − receiving data<br>X-band − transmission |
 |Composition| Orbiter |
 |Contractor| … |
@@ -49,7 +49,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑020||Inner structure of the planet.|  |D|||||
@@ -158,7 +158,7 @@ The sixth and final orbiting cycle was another extension to the two previous gra
    - Goal: Collect data on atmospheric dynamics.
    - September 6, 1994 − September 14, 1994
 
-In September 1994, the orbit of Magellan was lowered to begin the «Windmill experiment». During the experiment, the spacecraft was oriented with the solar arrays broadly, perpendicular to the orbital path, where they could act as paddles as they impacted molecules of the upper-Venusian atmosphere. Countering this force, the thrusters fired to keep the spacecraft from spinning. This provided data on the basic oxygen gas-surface interaction. This was useful for understanding the impact of upper-atmospheric forces which aided in designing future Earth-orbiting satellites, and methods for aerobraking during future planetary spacecraft missions.
+In September 1994, the orbit of Magellan was lowered to begin the «Windmill experiment». During the experiment, the spacecraft was oriented with the solar arrays broadly, perpendicular to the orbital path, where they could act as paddles as they impacted molecules of the upper-Venusian atmosphere. Countering this force, the thrusters fired to keep the spacecraft from spinning. This provided data on the basic oxygen gas-surface interaction. This was useful for understanding the impact of upper-atmospheric forces which aided in designing future Earth‑orbiting satellites, and methods for aerobraking during future planetary spacecraft missions.
 
 **RESULTS**
 

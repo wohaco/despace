@@ -4,7 +4,7 @@
 |[![](f/contact/o/open_univ_logo1_thumb.jpg)](f/contact/o/open_univ_logo1.png)|*The Open University, PO Box 197, Milton Keynes, MK7 6BJ, UK*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.open.ac.uk/><br> <https://en.wikipedia.org/wiki/Open_University><br> <https://ru.wikipedia.org/wiki/Открытый_университет_(Великобритания)><br> <https://www.facebook.com/theopenuniversityinternational><br> <https://twitter.com/theouglobal>  |
+|Link| <http://www.open.ac.uk/><br> <https://en.wikipedia.org/wiki/Open_University><br> <https://ru.wikipedia.org/wiki/Открытый_университет_(Великобритания)><br> <https://www.facebook.com/theopenuniversityinternational><br> <https://twitter.com/theouglobal> |
 |Tel| +44(300)303-02-66, fax: … |
 |Etc| … |
 

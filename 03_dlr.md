@@ -4,7 +4,7 @@
 |[![](f/contact/d/dlr_logo1_thumb.jpg)](f/contact/d/dlr_logo1.png)|*V449+2Q Koln, Germany*|
 |:--|:--|
 |E‑mail| <contact-dlr@dlr.de> |
-|Link| <http://dlr.de/><br> <https://en.wikipedia.org/wiki/German_Aerospace_Center><br> <https://ru.wikipedia.org/wiki/Германский_центр_авиации_и_космонавтики>  |
+|Link| <http://dlr.de/><br> <https://en.wikipedia.org/wiki/German_Aerospace_Center><br> <https://ru.wikipedia.org/wiki/Германский_центр_авиации_и_космонавтики> |
 |Tel| +49(2203)60-10, fax: … |
 |Etc| … |
 

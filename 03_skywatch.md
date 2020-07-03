@@ -4,7 +4,7 @@
 |[![](f/contact/s/skywatch_logo1_thumb.jpg)](f/contact/s/skywatch_logo1.png)|*14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*|
 |:--|:--|
 |E‑mail| <info@skywatch.com> |
-|Link| <https://www.skywatch.com/>  |
+|Link| <https://www.skywatch.com/> |
 |Tel| +1(888)882-82-32 , fax: … |
 |Etc| … |
 

@@ -4,7 +4,7 @@
 |[![](f/contact/a/arc_logo1_thumb.jpg)](f/contact/a/arc_logo1.png)|*Public Affairs Office, NASA Ames Research Center, Mail Stop 204-14, Moffett Field, CA, 94035-0001, USA*|
 |:--|:--|
 |E‑mail| <arc-publicinquiries@mail.nasa.gov> |
-|Link| <https://www.nasa.gov/ames><br> <https://en.wikipedia.org/wiki/Ames_Research_Center><br> <https://ru.wikipedia.org/wiki/Исследовательский_центр_Эймса>  |
+|Link| <https://www.nasa.gov/ames><br> <https://en.wikipedia.org/wiki/Ames_Research_Center><br> <https://ru.wikipedia.org/wiki/Исследовательский_центр_Эймса> |
 |Tel| +1(650)604-5000, fax: … |
 |Etc| … |
 

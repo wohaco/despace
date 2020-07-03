@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| US $125 million or 20 126 kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| 14 years 4 months 18 days |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: … <br> • Current: [Magellan](magellan.md)<br> • Past: [Venera-9 -10](venera_9_10.md), [Mariner 10](mariner_10.md) |
 |Target| Mapping the surface of Venus, studying the atmosphere (including observation of the rotation of the atmosphere) |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| High-gain antenna; S-band, X-Band |
 |Composition| Orbiter |
 |Contractor| United Launch Alliance |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑002||Surface: map, draft.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑010||Atmosphere: vertical model.|  |D|||||
@@ -62,7 +62,7 @@ Achieved targets & investigations:
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
 |EVN‑089||Measuring the planetary gravitational field.|  |D||F|||
 |EVN‑096||Atmosphere: ionosphere.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

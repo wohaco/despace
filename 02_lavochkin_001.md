@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*ОКБ-301, SU.*|
 |:--|:--|
 |i18n| Lavochkin, Semyon Alekseyevich |
-|Tel|  |
-|E‑mail|  |
+|Tel| |
+|E‑mail| |
 |B‑day, addr.| 1900.09.11 ‑ 1960.06.06 СССР / Химки, СССР |
 || [![](f/contact/l/lavochkin_001_photo_thumb.jpg)](f/contact/l/lavochkin_001_photo.jpg) |
 

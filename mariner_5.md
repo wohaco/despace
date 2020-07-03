@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … of [gold](sc_price.md) |
 |Development| … |
 |Duration| 1 year 4 months (launch to last contact) |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: …<br> • Current: [Venera 4](venera_4.md)<br> • Past: [Mariner 2](mariner_2.md) |
 |Target| Determine the parameters of the signal in the radio illumination of the atmosphere; measurement interplanetary and Venusian magnetic fields, charged particles, plasma, radio refractivity and UV emissions of the Venusian atmosphere |
 |[Type](sc.md)| Flyby spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| S-Band |
 |Composition| Orbiter |
 |Contractor| … |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑028||Magnetosphere structure.|  |D||F|||

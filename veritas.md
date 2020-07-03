@@ -14,7 +14,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| $450M or 10 051 kg of [gold](sc_price.md) in 2019 prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Development| 2019 ‑ … |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: [EnVision](envision.md)<br> • Current: …<br> • Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md) |
 |Target| Would produce global, high resolution topography and imaging of Venus' surface |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Orbiter |
 |Contractor| … |
 |Manufacturer| … |
@@ -48,7 +48,7 @@
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑022||Surface: map, precise.|  |D|||||
 |EVN‑024||Surface: composition.|  ||C||||

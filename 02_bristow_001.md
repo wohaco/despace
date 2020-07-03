@@ -20,6 +20,6 @@
    - LinkedIn: <mark>нетин</mark>
    - Twitter: <mark>неттви</mark>
    - <https://scholar.google.com/citations?user=AvUx6NsAAAAJ&hl=en>
-   - <https://www.nasa.gov/content/members-space-science-astrobiology-division-code-ss>
+   - <https://www.nasa.gov/content/members-space‑science-astrobiology-division-code-ss>
    - **As a person:**
       1. …

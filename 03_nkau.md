@@ -4,7 +4,7 @@
 |[![](f/contact/g/gka_logo1_thumb.jpg)](f/contact/g/gka_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.nkau.gov.ua/NSAU/nkau.nsf><br> <https://ru.wikipedia.org/wiki/Государственное_космическое_агентство_Украины><br> <https://uk.wikipedia.org/wiki/Державне_космічне_агентство_України>  |
+|Link| <http://www.nkau.gov.ua/NSAU/nkau.nsf><br> <https://ru.wikipedia.org/wiki/Государственное_космическое_агентство_Украины><br> <https://uk.wikipedia.org/wiki/Державне_космічне_агентство_України> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

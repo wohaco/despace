@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*ОКБ-1, SU.*|
 |:--|:--|
 |i18n| Korolev, Sergei Pavlovich |
-|Tel|  |
-|E‑mail|  |
+|Tel| |
+|E‑mail| |
 |B‑day, addr.| 1907.01.12 ‑ 1966.01.14 / Москва, СССР |
 || [![](f/contact/k/korolev_001_photo_thumb.jpg)](f/contact/k/korolev_001_photo.jpg) [![](f/contact/k/korolev_001_sign_thumb.jpg)](f/contact/k/korolev_001_sign.png) |
 

@@ -4,7 +4,7 @@
 |[![](f/contact/m/moog_inc_logo1_thumb.jpg)](f/contact/m/moog_inc_logo1.png)|*East Aurora, New York, USA*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.moog.com/><br> <https://en.wikipedia.org/wiki/Moog_Inc.>  |
+|Link| <http://www.moog.com/><br> <https://en.wikipedia.org/wiki/Moog_Inc.> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

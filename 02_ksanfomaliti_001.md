@@ -1,5 +1,5 @@
 # Ксанфомалити, Леонид Васильевич
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Архив](faq.md)**, [Contact](contact.md)
+> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Archive](faq.md)**, [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](03_iki_ras.md), RU.*|
 |:--|:--|

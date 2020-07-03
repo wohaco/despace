@@ -4,7 +4,7 @@
 |[![](f/contact/t/tokyo_univ_logo1_thumb.jpg)](f/contact/t/tokyo_univ_logo1.png)|*7-chōme-3-1 Hongō, Bunkyo City, Tōkyō-to 113-8654, Japan*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://www.u-tokyo.ac.jp/en/index.html><br> <https://en.wikipedia.org/wiki/University_of_Tokyo><br> <https://ru.wikipedia.org/wiki/Токийский_университет><br> <https://www.facebook.com/UTokyo.News.en><br> <https://twitter.com/UTokyo_News_en><br> <https://www.youtube.com/user/UTokyoPR/>  |
+|Link| <https://www.u-tokyo.ac.jp/en/index.html><br> <https://en.wikipedia.org/wiki/University_of_Tokyo><br> <https://ru.wikipedia.org/wiki/Токийский_университет><br> <https://www.facebook.com/UTokyo.News.en><br> <https://twitter.com/UTokyo_News_en><br> <https://www.youtube.com/user/UTokyoPR/> |
 |Tel| +81(3)3812-2111, fax: … |
 |Etc| … |
 

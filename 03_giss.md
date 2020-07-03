@@ -4,7 +4,7 @@
 |[![](f/contact/n/nasa_logo1_thumb.jpg)](f/contact/n/nasa_logo1.png)|*2880 Broadway, New York, NY 10025, USA*|
 |:--|:--|
 |E‑mail| <webmaster@giss.nasa.gov> |
-|Link| <https://www.giss.nasa.gov/><br> <https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies><br> <https://twitter.com/nasagiss>  |
+|Link| <https://www.giss.nasa.gov/><br> <https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies><br> <https://twitter.com/nasagiss> |
 |Tel| +1(212)678-55-00, fax: … |
 |Etc| … |
 

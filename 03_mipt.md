@@ -4,8 +4,8 @@
 |[![](f/contact/m/mipt_logo1_thumb.jpg)](f/contact/m/mipt_logo1.png)|*Россия, 141701, Московская облаcть, г. Долгопрудный, Институтский пер., 9*|
 |:--|:--|
 |E‑mail| <info@mipt.ru> |
-|Link| <https://mipt.ru/><br> <https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology><br> <https://ru.wikipedia.org/wiki/Московский_физико‑технический_институт>  |
-|Tel| +7(495)408-45-54, fax: +7(495)408-42-54  |
+|Link| <https://mipt.ru/><br> <https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology><br> <https://ru.wikipedia.org/wiki/Московский_физико‑технический_институт> |
+|Tel| +7(495)408-45-54, fax: +7(495)408-42-54 |
 |Etc| … |
 
 **Московский физико‑технический институт (государственный университет) (МФТИ)**, неофициально **Физтех** — один из ведущих российских вузов, готовящий специалистов в области теоретической и прикладной физики, математики и смежных дисциплин.

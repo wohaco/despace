@@ -4,7 +4,7 @@
 |[![](f/contact/t/cniihm_logo1_thumb.jpg)](f/contact/t/cniihm_logo1.png)|*16-А, Нагатинская, Москва, 115487, Россия*|
 |:--|:--|
 |E‑mail| <mail@cniihm.ru> |
-|Link| <http://cniihm.ru/><br> <https://ru.wikipedia.org/wiki/Центральный_научно‑исследовательский_институт_химии_и_механики>  |
+|Link| <http://cniihm.ru/><br> <https://ru.wikipedia.org/wiki/Центральный_научно‑исследовательский_институт_химии_и_механики> |
 |Tel| +7(499)611-51-29, fax: … |
 |Etc| … |
 

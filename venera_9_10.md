@@ -16,7 +16,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md)|
 |Development| … |
 |Duration| **Venera 9:** Orbiter: 158 days; Lander: 53 minutes <br>**Venera 10:** Orbiter: 144 days; Lander: 65 minutes |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: [Venera 11 and 12](venera_11_12.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md) |
 |Target| Delivery of the lander to the surface of Venus. A study of the soil, the atmosphere and clouds. Photographing the surface of the planet (including panoramic) |
 |[Type](sc.md)| Flyby spacecraft; atmospheric spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |[ID](spaceid.md)| **Venera 9:** NSSDC ID (COSPAR ID): [1975-050A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050A), [1975-050D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050D), SCN: 7915, 8411<br>**Venera 10:** NSSDC ID (COSPAR ID): [1975-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054A), [1975-054D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054D), SCN: 7947, 8423 |
 |Comms| Orbiter: high gain parabolic antenna (wavelenght 8 and 32 cm) |
 |Composition| Orbiter; Lander |
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
@@ -70,7 +70,7 @@ Achieved targets & investigations:
 |EVN‑078|T|Atmosphere: radiography.|  |D|||||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

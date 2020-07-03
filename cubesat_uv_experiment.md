@@ -17,7 +17,7 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: 2, TRL: <mark>TBD</mark> |
 |Development| … ‑ ┊ |
@@ -28,7 +28,7 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| Characterize Venus’ unknown UV absorber(s) to understand the planet’s radiative and thermal balance, atmospheric dynamics, and chemistry of its upper clouds |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| … |
 |Composition| … |
 |Contractor| … |
@@ -52,7 +52,7 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||

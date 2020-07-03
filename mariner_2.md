@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … of [gold](sc_price.md) |
 |Development| … |
 |Duration| 4 months 7 days |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: [Mariner 5](mariner_5.md)<br> • Current: …<br> • Past: Luna 1 |
 |Target| The Exploration Of Venus |
 |[Type](sc.md)| Flyby spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| Pointed parabolic antenna, 1.2 m in diameter |
 |Composition| Orbiter |
 |Contractor| … |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
@@ -55,7 +55,7 @@ Achieved targets & investigations:
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑090||Spin axis.|  |D|||||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

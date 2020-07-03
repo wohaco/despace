@@ -17,7 +17,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| US$450 million or 34 161 kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| 10 years, 8 months and 27 days |
@@ -27,7 +27,7 @@
 |Similar<br> missions| • Proposed: Меркурий‑П (2031), [BepiColombo](bepicolombo.md) <br> • Current: … <br> • Past: [mariner_10](mariner_10.md)|
 |Target| Study of the planet Mercury: geological history, global magnetic field, size and state of the core, exosphere. |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Orbiter |
 |Contractor| … |
 |Manufacturer| Applied Physics Laboratory |
@@ -50,7 +50,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
@@ -126,7 +126,7 @@ MESSENGER entered elongated orbit around Mercury on March 18, 2011, becoming the
 
 On October 5, 2011, the scientific results obtained by MESSENGER during its first six terrestrial months in Mercury's orbit were presented in a series of papers at the European Planetary Science Congress. Among the discoveries presented were the unexpectedly high concentrations of magnesium and calcium found on Mercury's nightside, and the fact that Mercury's magnetic field is offset far to the north of the planet's center.
 
-*A MESSENGER image of Mercury shows that Mercury is still contracting, and that Earth is not the only tectonically active Solar System planet.*
+*A MESSENGER image of Mercury shows that Mercury is still contracting, and that Earth is not the only tectonicly active Solar System planet.*
 
 ![](f/project/messenger/activity.jpg)
 

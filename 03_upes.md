@@ -4,7 +4,7 @@
 |[![](f/contact/u/upes_logo1_thumb.jpg)](f/contact/u/upes_logo1.png)|*Bidholi, Via Prem Nagar, Dehradun, Uttarakhand, India*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://www.upes.ac.in/><br> <https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies>  |
+|Link| <https://www.upes.ac.in/><br> <https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies> |
 |Tel| +91(1800)102-87-37, fax: … |
 |Etc| … |
 

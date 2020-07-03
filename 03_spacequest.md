@@ -4,7 +4,7 @@
 |[![](f/contact/s/spacequest_logo1_thumb.jpg)](f/contact/s/spacequest_logo1.png)|*3554 Chain Bridge Rd, Suite 400, Fairfax VA, 22030, US*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.spacequest.com/>  |
+|Link| <http://www.spacequest.com/> |
 |Tel| +1(703)424-78-01, fax: … |
 |Etc| … |
 

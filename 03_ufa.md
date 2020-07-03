@@ -4,7 +4,7 @@
 |[![](f/contact/u/ufa_logo1_thumb.jpg)](f/contact/u/ufa_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.ufa.cas.cz/><br> <https://en.wikipedia.org/wiki/Institute_of_Atmospheric_Physics_AS_CR><br> <https://cs.wikipedia.org/wiki/Ústav_fyziky_atmosféry_Akademie_věd_České_republiky>  |
+|Link| <http://www.ufa.cas.cz/><br> <https://en.wikipedia.org/wiki/Institute_of_Atmospheric_Physics_AS_CR><br> <https://cs.wikipedia.org/wiki/Ústav_fyziky_atmosféry_Akademie_věd_České_republiky> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

@@ -4,7 +4,7 @@
 |[![](f/contact/g/ghgsat_logo1_thumb.jpg)](f/contact/g/ghgsat_logo1.png)|*3981 St Laurent Blvd Suite 500, Montreal, QC H2W 1Y5, Canada*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://www.ghgsat.com/>  |
+|Link| <https://www.ghgsat.com/> |
 |Tel| +1(514)847-94-74, fax: … |
 |Etc| … |
 

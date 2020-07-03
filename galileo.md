@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| US$1.4 billion or 114 155 kg of [gold](sc_price.md) in 1977 prices |
 |Development| 1977 — 1986 |
 |Duration| **Planned:**<br> 8 years, 1 month, 19 days**In orbit:** 7 years, 9 months, 13 days<br>**Final:** 13 years, 11 months, 3 days |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: [Cassini-Guygens](cassini.md) <br> • Current: … <br> • Past: … |
 |Target| Research of Jupiter's system |
 |[Type](sc.md)| Orbiter spacecraft; Atmospheric Spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Orbiter; Lander |
 |Contractor| … |
 |Manufacturer| Jet Propulsion Laboratory; Messerschmitt-Bölkow-Blohm; General Electric; Hughes Aircraft Company |
@@ -48,7 +48,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 

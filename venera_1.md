@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| 7 days |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • Past: Luna 2 |
 |Target| Exploring of the Venus |
 |[Type](sc.md)| Venus impactor |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| 2.4 m parabolic wire‑mesh antenna; 922.8 MHz; wavelenth 32 cm |
 |Composition| Orbiter, lander |
 |Contractor| … |
@@ -47,10 +47,10 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 
@@ -63,7 +63,7 @@ Venera 1 was the second of two attempts to launch a spacecraft to Venus in Febru
 
 The spacecraft, along with the rocket's Blok‑L upper stage, were initially placed into a 229 × 282 km low Earth orbit, before the upper stage fired to place Venera 1 into a heliocentric orbit, directed towards Venus. The 11D33 engine was the world's first staged‑combustion‑cycle rocket engine, and also the first use of an ullage engine to allow a liquid‑fuel rocket engine to start in space.
 
-Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic-ray data near Earth ([EVN‑097](venus.md)), at the Earth's Magnetopause, and on February 19 at a distance of 1 900 000 km. After discovering the solar wind with Luna 2, Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On May 19, 1961, Venera 1 passed within 100 000 km of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar-direction sensor.
+Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic‑ray data near Earth ([EVN‑097](venus.md)), at the Earth's Magnetopause, and on February 19 at a distance of 1 900 000 km. After discovering the solar wind with Luna 2, Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On May 19, 1961, Venera 1 passed within 100 000 km of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar‑direction sensor.
 
 
 
@@ -74,16 +74,16 @@ The main task of Venera 1 was to enter the atmosphere of Venus landing on the su
 
 Venera 1 — spacecraft, designed to explore the planet Venus.
 
-   - flux-gate magnetometer;
+   - flux‑gate magnetometer;
    - Geiger counter tubes;
    - ion traps (2 instruments);
    - micrometeorite detectors;
    - sodium iodide scintillator.
 
-The lander was equipped with scientific instruments including a flux-gate magnetometer attached to the antenna boom, two ion traps to measure solar wind, micrometeorite detectors, and Geiger counter tubes and a sodium iodide scintillator for measurement of cosmic radiation.
+The lander was equipped with scientific instruments including a flux‑gate magnetometer attached to the antenna boom, two ion traps to measure solar wind, micrometeorite detectors, and Geiger counter tubes and a sodium iodide scintillator for measurement of cosmic radiation.
 
-   - flux-gate magnetometer — are used for their electronic simplicity and low weight. The majority of early fluxgate magnetometers on spacecraft were made as vector sensors. Used to search for magnetic fields;
-   - two ion traps — a combination of electric or magnetic fields used to capture charged particles, often in a system isolated from an external environment. ;
+   - flux‑gate magnetometer — are used for their electronic simplicity and low weight. The majority of early fluxgate magnetometers on spacecraft were made as vector sensors. Used to search for magnetic fields;
+   - two ion traps — a combination of electric or magnetic fields used to capture charged particles, often in a system isolated from an external environment;
    - micrometeorite detectors — the device’s objective was to study the relationship of micrometeorite’s density as compared with their mass and velocity;
    - Geiger counter tubes — the sensing element of the Geiger counter instrument used for the detection of ionizing radiation;
    - sodium iodide scintillator.
@@ -93,11 +93,11 @@ The lander was equipped with scientific instruments including a flux-gate magnet
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-Venera 1 was a 643.5 kg spacecraft consisting of a cylindrical body 1.05 m in diameter topped by a dome, totalling 2.035 m in height. This was pressurized to 1.2 atm with dry nitrogen, with internal fans to maintain even distribution of heat. Two solar panels extended from the cylinder, charging a bank of silver-zinc batteries. A 2 m parabolic wire-mesh antenna was designed to send data from Venus to Earth on a frequency of 922.8 MHz. A 2.4 m antenna boom was used to transmit short-wave signals during the near-Earth phase of the mission. Semidirectional quadrupole antennas mounted on the solar panels provided routine telemetry and telecommand contact with Earth during the mission, on a circularly-polarized decimetre radio band.
+Venera 1 was a 643.5 kg spacecraft consisting of a cylindrical body 1.05 m in diameter topped by a dome, totalling 2.035 m in height. This was pressurized to 1.2 atm with dry nitrogen, with internal fans to maintain even distribution of heat. Two solar panels extended from the cylinder, charging a bank of silver‑zinc batteries. A 2 m parabolic wire‑mesh antenna was designed to send data from Venus to Earth on a frequency of 922.8 MHz. A 2.4 m antenna boom was used to transmit short‑wave signals during the near‑Earth phase of the mission. Semidirectional quadrupole antennas mounted on the solar panels provided routine telemetry and telecommand contact with Earth during the mission, on a circularly‑polarized decimetre radio band.
 
-An experiment attached to one solar panel measured temperatures of experimental coatings. Infrared and/or ultraviolet radiometers may have been included. The dome contained a KDU-414 engine used for mid-course corrections. Temperature control was achieved by motorized thermal shutters.
+An experiment attached to one solar panel measured temperatures of experimental coatings. Infrared and/or ultraviolet radiometers may have been included. The dome contained a KDU‑414 engine used for mid‑course corrections. Temperature control was achieved by motorized thermal shutters.
 
-During most of its flight, Venera 1 was spin stabilized. It was the first spacecraft designed to perform mid-course corrections, by entering a mode of 3-axis stabilization, fixing on the Sun and the star Canopus. Had it reached Venus, it would have entered another mode of 3-axis stabilization, fixing on the Sun and Earth, and using for the first time a parabolic antenna to relay data.
+During most of its flight, Venera 1 was spin stabilized. It was the first spacecraft designed to perform mid‑course corrections, by entering a mode of 3‑axis stabilization, fixing on the Sun and the star Canopus. Had it reached Venus, it would have entered another mode of 3‑axis stabilization, fixing on the Sun and Earth, and using for the first time a parabolic antenna to relay data.
 
 
 

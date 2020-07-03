@@ -4,7 +4,7 @@
 |[![](f/contact/c/css_logo1_thumb.jpg)](f/contact/c/css_logo1.png)|*P.O. Box 19015, 360-A Bloor Street West, Toronto, Ontario, M5S 1X0, Canada*|
 |:--|:--|
 |E‑mail| <general@css.ca> |
-|Link| <https://css.ca/><br> <https://www.facebook.com/CanadianSpaceSociety/><br> <https://ca.linkedin.com/company/canadian-space-society>  |
+|Link| <https://css.ca/><br> <https://www.facebook.com/CanadianSpaceSociety/><br> <https://ca.linkedin.com/company/canadian-space-society><br> <https://twitter.com/cdnspacesociety> |
 |Tel| +1(416)836-320-54, fax: … |
 |Etc| … |
 

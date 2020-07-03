@@ -1,5 +1,5 @@
 # FAQ
-> 2020.04.10 ┊ **🚀 [despace](index.md)** → **[FAQ](faq.md)**
+> 2020.06.27 ┊ **🚀 [despace](index.md)** → **[FAQ](faq.md)**
 
 [TOC]
 
@@ -7,15 +7,13 @@
 
 **First of all, all content in this very database (the one that was created by contributors themselves) is under the [CC0 ⎆](https://creativecommons.org/choose/zero/) license.** But there is a lot of information obtained from the numberless sources all around the world and Internet that have been licensed under the different licenses. There is no some kind of classified information. Obviously, that means you are able to use it for your personal deeds without asking anybody, but if you're about to distribute it, sell it or whatever than you better to check if it's legal.
 
-We're trying to follow the rules of fair use and to keep the information true, but sadly we're only humans.
-
-And occasionally you may see some Russian words. This is due to it was the first language of this DB.
+We're trying to follow the rules of fair use and to keep the information true, but sadly we're only human, we were born to die. And occasionally you may see some Russian words. It's due to it was the first language of this DB.
 
 **Q: For what?**  
-**A:** Started as just another pocket notebook of some brief facts which always have to be with you from tiny spacecraft engineering group. Now it's for science, for future planning and for spacecraft creating.
+**A:** Started as just another pocket notebook from tiny spacecraft engineering group of some space & spacecraft brief facts which have to always be with you. Now it's for science, for future planning and for spacecraft creating.
 
 **Q: For whom?**  
-**A:** For scientists, for engineers and for sympathetic. For those who wants to create, to plan and to be in a stream.
+**A:** For scientists, for engineers and for sympathetic living beings. For those who wants to create, to plan and to be in a stream.
 
 **Q: Who is now?**  
 **A:** Almost as from the start but a bit wider — a group of spacecraft engineers and scientists.
@@ -28,50 +26,54 @@ And occasionally you may see some Russian words. This is due to it was the first
 ## Some technical issues
 Database consist of text files with markdown. For not to be vendor-locked. And to be able to use it anywhere if you have a markdown editor/viewer.
 
-Notes and requirements:
+Notes and requirements: (in historical order)
 
-   - The database pages are supposed to be printed on the A4 pages. The proposed themes for the proposed editors renders pages in the width of A4.
-   - Each database page have to be as self-sufficient as possible.
-   - Verdana font.
-   - Files/pages names consist only lower case Latin letter, digits, and underline.
-   - Photo miniatures: less than 160×175 px (160×160 px for photo + 15 px for year). Pictures of LV and OE miniatures: less than 120×120 px.
-   - [Contact/cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logos/signs — png, other — jpg 77. Miniatures less than 100×90 px, jpg 65.
-   - There is a Spacecraft as a major unit, then it divides to modules (which can function separately) or to units
+   1. The database pages are supposed to be printed on the A4 pages. The proposed themes for the proposed editors renders pages in the width of A4.
+   1. Each database page have to be as self-sufficient as possible.
+   1. Verdana font.
+   1. Files/pages names consist only lower case Latin letter, digits, and underline.
+   1. Photo miniatures: less than 160×175 px (160×160 px for photo + 15 px for year). Pictures of LV and OE miniatures: less than 120×120 px.
+   1. [Contact/cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logos/signs — png, other — jpg 77. Miniatures less than 100×90 px, jpg 65.
+   1. There is a Spacecraft (SC) as a major unit, then it divides to modules (which can function separately) or to units.
+   1. Dates are used in YYYY.MM.DD format, for example: 1947.02.20.
+   1. Long digits are divided with the small unbreakable space “ ”, for example: 1 234 567.89 W.
+
+Special symbols have to be used: …°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→ ✘☐☑├┕┆←↑→↓↔↕↖↗↘↙ ªⁱⁿº⁰¹²³⁴⁵⁶⁷⁸⁹ ⁺⁻⁼⁽⁾₀₁₂₃₄₅₆₇₈₉ ₊₋₌₍₎ₐₑₒₓₔₕₖₗₘₙₚₛₜ №©®™ ±×÷¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞πØ∅∑∞√∛∜‰ ⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ αβγδεζηθικλμνξο03C0πρςστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡ΢ΣΤΥΦΧΨΩ ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇ ❶❷❸❹❺❻❼❽❾❿➀➁➂➃➄➅➆➇➈➊➋➌➍➎➏➐➑➒➓ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛ ♳♴♵♶♷♸♹ etc.
 
 
 
 ## Sources
 Pretty far from what they call the proper list of sources but that's all we have.
 
+   1. <https://3dnews.ru/952315> <small>— [archive ❐](f/archive/20170524_1.pdf) of 2019.01.27)*</small>
+   1. <https://www.academia.edu>
+   1. <https://alemak.livejournal.com/1379.html> <small>— [archive ❐](f/archive/20140213_1.pdf) of 2019.01.27)*</small>
+   1. <http://www.astronautix.com/>
+   1. <https://britastro.org/>
+   1. <http://ecoruspace.me/>
+   1. <https://epizodyspace.ru/>
+   1. <https://www.factoriesinspace.com/> — In-Space Manufacturing & Orbital Economy
+   1. <https://www.jpl.nasa.gov/missions/?type=current>
+   1. <https://kosmolenta.com/>
+   1. <https://www.multitran.com/>
+   1. <https://www.nanosats.eu/> — nanosats database
+   1. <https://www.nasa.gov/connect/ebooks/index.html> — NASA ebooks
+   1. <https://www.nasa.gov/offices/education/about/index.html>
+   1. <https://forum.nasaspaceflight.com/index.php?topic=32901.0>
+   1. <https://www.newspace.im/> — NewSpace index
+   1. <http://novosti-kosmonavtiki.ru/forum/forum14/topic8552/>
+   1. <http://novosti-kosmonavtiki.ru/forum/forum14/topic14003/>
+   1. <https://ntrs.nasa.gov/>
+   1. <https://pds.nasa.gov/>
+   1. <https://rocketengines.ru/>
+   1. <http://sewiki.ru/> — Systems engineering thinking wiki
+   1. <https://space.skyrocket.de/doc/acronyms.htm>
+   1. <https://spaceflight.nasa.gov/cgi-bin/acronyms.cgi?program=shuttle&searchall=true>
+   1. <https://www.spaceflightinsider.com/>
    1. <https://en.wikipedia.org/>
    1. <https://ru.wikipedia.org/>
    1. <https://ru.wiktionary.org/>
-   1. <https://forum.nasaspaceflight.com/index.php?topic=32901.0>
-   1. <https://spaceflight.nasa.gov/cgi-bin/acronyms.cgi?program=shuttle&searchall=true>
-   1. <https://www.multitran.com/>
-   1. <https://alemak.livejournal.com/1379.html> <small>— [archive ❐](f/archive/20140213_1.pdf) of 2019.01.27)*</small>
-   1. <https://3dnews.ru/952315> <small>— [archive ❐](f/archive/20170524_1.pdf) of 2019.01.27)*</small>
-   1. <http://novosti-kosmonavtiki.ru/forum/forum14/topic14003/>
-   1. <https://space.skyrocket.de/doc/acronyms.htm>
-   1. <http://www.astronautix.com/>
-   1. <https://rocketengines.ru/>
    1. [ГОСТ 16504-81](гост_16504.md)
-   1. <https://kosmolenta.com/>
-   1. <http://epizodyspace.ru/>
-   1. <https://www.academia.edu>
-   1. <https://pds.nasa.gov/>
-   1. <http://novosti-kosmonavtiki.ru/forum/forum14/topic8552/>
-   1. <https://britastro.org/>
-   1. <http://sewiki.ru/> — Systems engineering thinking wiki
-   1. <https://www.nasa.gov/offices/education/about/index.html>
-   1. <https://www.jpl.nasa.gov/missions/?type=current>
-   1. <https://www.spaceflightinsider.com/>
-   1. <https://ntrs.nasa.gov/>
-   1. <https://www.nasa.gov/connect/ebooks/index.html> — NASA ebooks
-   1. <https://www.nanosats.eu/> — nanosats database
-   1. <https://www.newspace.im/> — NewSpace index
-   1. <https://www.factoriesinspace.com/> — In-Space Manufacturing & Orbital Economy
-   1. <http://ecoruspace.me/>
 
 
 
@@ -79,6 +81,8 @@ Pretty far from what they call the proper list of sources but that's all we have
 Just some hysterical pages.
 
    - [Astrium](03_astrium.md)
+   - [Canadian Space Commerce Association](03_csca.md)
+   - [Venus (2020.06.18)](faq_venus_20200618.md)
 
 
 

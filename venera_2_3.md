@@ -16,7 +16,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| **Venera 2** 3 months and 15 days<br>**Venera 3** 3 months and 13 days |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: Luna 2, [Mariner 2](mariner_2.md) |
 |Target| Exploring the planet Venus |
 |[Type](sc.md)| Orbiter spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| **Venera 2** Orbiter<br>**Venera 3** Lander, orbiter |
 |Comms| 2 m parabolic high-gain antenna (decimeter range) |
 |Contractor| … |
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
 
@@ -108,7 +108,7 @@ Venera 2 and 3 were not able to transmit data on Venus itself, but scientific da
    - **Orbiter:**
       - Atomic hydrogen detector in the Lyman-alpha line;
       - Gas-discharge and solid-state cosmic ray detectors.;
-      - Three flux-gate magnetometer to measure interplanetary magnetic fields;
+      - Three flux‑gate magnetometer to measure interplanetary magnetic fields;
       - Solar plasma detector in decimeter radio range;
       - Special sensors (traps) to measure the flow of charged particles and determination of low energy consumption of the amounts of solar plasma flows and their energy spectra. The instrument for measuring cosmic rays on Venus 3 was equipped with an additional gas-discharge meter, while the micrometeorite detector and radio receiver were excluded from the scientific equipment.
    - **Lander:**

@@ -16,7 +16,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Development| … ‑ ┊ |
@@ -27,7 +27,7 @@
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| … |
 |[Type](sc.md)| … |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| … |
 |Contractor| … |
 |Manufacturer| … |
@@ -50,7 +50,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 | … | | … | | | | | | |
 
 </small>

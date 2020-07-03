@@ -4,7 +4,7 @@
 |[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.jaxa.jp/><br> <https://en.wikipedia.org/wiki/JAXA><br> <https://ru.wikipedia.org/wiki/Японское_агентство_аэрокосмических_исследований>  |
+|Link| <http://www.jaxa.jp/><br> <https://en.wikipedia.org/wiki/JAXA><br> <https://ru.wikipedia.org/wiki/Японское_агентство_аэрокосмических_исследований> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

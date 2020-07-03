@@ -4,7 +4,7 @@
 |[![](f/contact/c/conae_logo1_thumb.jpg)](f/contact/c/conae_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.conae.gov.ar/><br> <https://en.wikipedia.org/wiki/Comisión_Nacional_de_Actividades_Espaciales><br> <https://ru.wikipedia.org/wiki/Национальная_комиссия_по_космической_деятельности>  |
+|Link| <http://www.conae.gov.ar/><br> <https://en.wikipedia.org/wiki/Comisión_Nacional_de_Actividades_Espaciales><br> <https://ru.wikipedia.org/wiki/Национальная_комиссия_по_космической_деятельности> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

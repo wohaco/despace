@@ -4,8 +4,8 @@
 |[![](f/contact/i/isro_logo1_thumb.jpg)](f/contact/i/isro_logo1.png)|*Antariksh Bhavan, New BEL Road, Bengaluru‑560 231*|
 |:--|:--|
 |E‑mail| <dir.ppr@isro.gov.in> |
-|Link| <http://www.isro.org><br> <https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation><br> <https://ru.wikipedia.org/wiki/Индийская_организация_космических_исследований><br> <https://www.reddit.com/r/ISRO/>  |
-|Tel| +91(80)234-152-75 или 221-722-96, fax: +91(80)234-122-53  |
+|Link| <http://www.isro.org><br> <https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation><br> <https://ru.wikipedia.org/wiki/Индийская_организация_космических_исследований><br> <https://www.reddit.com/r/ISRO/> |
+|Tel| +91(80)234-152-75 или 221-722-96, fax: +91(80)234-122-53 |
 |Etc| … |
 
 **Индийская организация космических исследований** *(хинди: भारतीय अन्तरिक्ष अनुसंधान संगठन, англ. ISRO)* — индийское национальное космическое агентство, подведомственное Департаменту космических исследований Индии. Штаб‑квартира организации находится в Бангалоре, штат составляет приблизительно 20 000 человек, годовой бюджет около 41 млрд рупий ($ 940 млн). Основана 15 августа 1969 года.  

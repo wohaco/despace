@@ -4,7 +4,7 @@
 |[![](f/contact/s/spacex_logo1_thumb.jpg)](f/contact/s/spacex_logo1.png)|*1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
 |:--|:--|
 |E‑mail| <sales@spacex.com> |
-|Link| <http://www.spacex.com/><br> <https://en.wikipedia.org/wiki/SpaceX><br> <https://ru.wikipedia.org/wiki/SpaceX><br> <https://www.facebook.com/SpaceX><br> <https://twitter.com/spacex><br> <http://www.youtube.com/spacex><br> <http://www.flickr.com/spacexphotos><br> <http://www.instagram.com/spacex>  |
+|Link| <http://www.spacex.com/><br> <https://en.wikipedia.org/wiki/SpaceX><br> <https://ru.wikipedia.org/wiki/SpaceX><br> <https://www.facebook.com/SpaceX><br> <https://twitter.com/spacex><br> <http://www.youtube.com/spacex><br> <http://www.flickr.com/spacexphotos><br> <http://www.instagram.com/spacex> |
 |Tel| +7(310)363-60-00, fax: … |
 |Etc| … |
 

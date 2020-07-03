@@ -4,7 +4,7 @@
 |[![](f/contact/b/brass_logo1_thumb.jpg)](f/contact/b/brass_logo1.png)|*BR Aerospace Solutions & Services, P.O Box 36088,  Northgate P.O., Brampton, Ontario, L6S 6A3, Canada*|
 |:--|:--|
 |E‑mail| <info@br-aerospace.com> |
-|Link| <https://www.br-aerospace.com/>  |
+|Link| <https://www.br-aerospace.com/> |
 |Tel| +1(416)909-37-95, +1(437)223-22-55, fax: … |
 |Etc| … |
 
@@ -20,7 +20,7 @@
 
 ## BRASS, comments
 
-Our corporation is organized to work around six business areas starting from ergonomics, design & size of Space Robotics & unmanned Aerial Vehicles for commercial & defense purposes, satellite operations & communication, space mission analysis & design, applications & data analysis for earth observation, research & solutions for climate change & research & development of advanced systems. What we do is:
+BRASS is organized to work around 6 business areas starting from ergonomics, design & size of Space Robotics & unmanned Aerial Vehicles for commercial & defense purposes, satellite operations & communication, space mission analysis & design, applications & data analysis for earth observation, research & solutions for climate change & research & development of advanced systems. What we do is:
 
    - Fill gap with demonstrated analysis (through partners, connections, direct expertise, operations area… etc for immediate solutions/consultancy.
    - Identify the operational gaps & serve as the link between institutions, academia, government & industry.

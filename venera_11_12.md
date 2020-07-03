@@ -16,7 +16,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| **Venera 11:** Travel: 3 months and 16 days, Lander: 95 minutes<br> **Venera 12:** Travel: 3 months and 6 days, Lander: 110 minutes |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: [Pioneer Venus 1.md](pioneer_venus_1.md), [Pioneer Venus 2.md](pioneer_venus_2.md)<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Mariner 10](mariner_10.md), [Venera 9 and 10](venera_9_10.md) |
 |Target| To study the planet Venus and interplanetary space. |
 |[Type](sc.md)| Flyby spacecraft; atmospheric spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| Orbiter: high gain parabolic antenna |
 |Composition| Orbiter; Lander |
 |Contractor| … |
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
@@ -66,7 +66,7 @@ Achieved targets & investigations:
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

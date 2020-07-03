@@ -4,7 +4,7 @@
 |[![](f/contact/a/alpo_logo1_thumb.jpg)](f/contact/a/alpo_logo1.png)|*Springfield, Illinois, US and worldwide*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://en.wikipedia.org/wiki/Association_of_Lunar_and_Planetary_Observers><br> <http://www.alpo-astronomy.org/><br> <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — ALPO Japan  |
+|Link| <https://en.wikipedia.org/wiki/Association_of_Lunar_and_Planetary_Observers><br> <http://www.alpo-astronomy.org/><br> <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — ALPO Japan |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

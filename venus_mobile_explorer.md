@@ -19,7 +19,7 @@ Original of NASA's report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [AR
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| $ 1.1 ‑ 1.5 B or 29 500 — 45 600 kg of [gold](sc_price.md) in 2015 prices without LV |
 |[CML](cml.md) / [TRL](trl.md)| CML: 4, TRL: <mark>TBD</mark> |
 |Development| … ‑ ┊ |
@@ -30,7 +30,7 @@ Original of NASA's report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [AR
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| • Determine the origin & evolution of the Venus atmosphere, & rates of exchange of key chemical species between the surface & atmosphere.<br> • Characterize fundamental geologic units in terms of major rock forming elements, minerals in which those elements are sited, & isotopes.<br> • Characterize the geomorphology & relative stratigraphy of major surface units.<br> • In situ measurements of Noble gas isotopes, trace gas mixing ratios & isotopic ratios.<br> • Identify mineralology & elemental chemistry of surface rocks in 2 locs separated by \> 8 km.<br> • Airborne near IR imaging along a transect ~8 km in length, at < 5 m spatial resolution.<br> • In situ sampling of the atmosphere as functions of altitude &  time.<br> • Land in 2 locations, ~2 m path-length for compositional observation; stable platform for measurement duration.<br> • Near-surface aerial mobility; \> 45° solar incidence, contiguous images of the surface during aerial traverse; 5 hour near surface operational lifetime. |
 |[Type](sc.md)| Orbiter spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| • 3 m HGA mesh — S-band (Lander to Carrier uplink)<br> • 2 omni-directional — X-band (Carrier to Earth contingency)<br> • 1 m HGA solid — X-band (Carrier to Earth Science) |
 |Composition| The carrier spacecraft; the lander |
 |Contractor| … |
@@ -52,7 +52,7 @@ Original of NASA's report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [AR
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
 |EVN‑010||Atmosphere: vertical model.|  |D|||||
@@ -128,7 +128,7 @@ VME’s primary science objectives are a subset of those defined by VEXAG and ar
 | Determine the rates of exchange of key chemical species (S, C, O) between the surface and atmosphere ([EVN‑041](venus.md)) | Measure trace gases in the near surface atmosphere (within one scale height) | Neutral Mass Spectrometer; Tunable Laser Spectrometer | In situ sampling of atmosphere as functions of altitude and time [f(z,t)] ([EVN‑055](venus.md)) |
 | Place constraints on the size and temporal extent of a possible ocean in Venus’s past ([EVN‑040](venus.md)) | Measure D/H ratio in atmospheric water, at least twice | Neutral Mass Spectrometer; Tunable Laser Spectrometer | In situ sampling of atmosphere [f(z,t)] ([EVN‑055](venus.md)) |
 | Characterize variability in physical parameters of the near surface atmosphere (pressure, temperature, winds) ([EVN‑074](venus.md)) | Atmospheric temperature, pressure, winds | Temperature, pressure, accelerometers, USO | In situ measurements of T/P, Doppler measurement using communications system for winds |
-| Measure ambient magnetic field from lowand near-surface elevations ([EVN‑028](venus.md)) | Detection of existence or absence of surface magnetic signal | Flux-gate magnetometer | Must be able to detect surface «signal» above a 5-10 nT threshold, over and above any payload «noise» |
+| Measure ambient magnetic field from lowand near-surface elevations ([EVN‑028](venus.md)) | Detection of existence or absence of surface magnetic signal | Flux‑gate magnetometer | Must be able to detect surface «signal» above a 5-10 nT threshold, over and above any payload «noise» |
 
 **PAYLOAD**
 

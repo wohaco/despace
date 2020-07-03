@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*ЦИАМ, ОКБ-51, SU.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|  |
-|E‑mail|  |
+|Tel| |
+|E‑mail| |
 |B‑day, addr.| 1914.06.30 ‑ 1984.12.08 / … |
 || [![](f/contact/c/chelomey_001_photo_thumb.jpg)](f/contact/c/chelomey_001_photo.jpg)|
 

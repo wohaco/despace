@@ -4,7 +4,7 @@
 |[![](f/contact/d/dss_logo1_thumb.jpg)](f/contact/d/dss_logo1.png)|*Hart House (K Building), Office #304 – 1340 Barrington Street, Halifax, NS B3J 1Z1, CA-NS.*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://dalorbits.ca/>  |
+|Link| <http://dalorbits.ca/><br> <https://www.linkedin.com/company/dsslabs/> |
 |Tel| +1(902)292-90-47, fax: … |
 |Etc| … |
 

@@ -16,7 +16,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| 1977-1983 |
 |Duration| **Venera 15:** Overall: 1 year, 1 month, 7 days; At Venus: 9 months<br> **Venera 16:** Overall: 1 year, 1 month; At Venus: 9 months |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> • Current: … <br> • Past: [Pioneer Venus 1](pioneer_venus_1.md) |
 |Target| Mapping the Northern hemisphere of Venus in high resolution |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| 2.6 m HGA, C-band |
 |Composition| Orbiter |
 |Contractor| … |
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑002||Surface: map, draft.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||

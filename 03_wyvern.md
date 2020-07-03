@@ -4,7 +4,7 @@
 |[![](f/contact/w/wyvern_logo1_thumb.jpg)](f/contact/w/wyvern_logo1.png)|*Edmonton, Alberta, Canada*|
 |:--|:--|
 |E‑mail| <info@wyvern.space> |
-|Link| <https://www.wyvern.space/><br> <https://twitter.com/wyvernspace><br> <https://www.linkedin.com/company/wyvern-space>  |
+|Link| <https://www.wyvern.space/><br> <https://twitter.com/wyvernspace><br> <https://www.linkedin.com/company/wyvern-space> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

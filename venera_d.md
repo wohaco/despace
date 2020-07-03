@@ -50,7 +50,7 @@ Targets and investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
@@ -73,7 +73,7 @@ Targets and investigations:
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑031||Atmosphere: long‑term variations of the meteocharacterictics on the surface.|  |D|||||
+|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
 |EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the supercritical fluid in the lower layers.| Ac, Ai, Am, At |D|||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
 |EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
@@ -81,7 +81,7 @@ Targets and investigations:
 |EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
 |EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
-|EVN‑047||Surface: what can be said about the structure & composition of the surface of different regions according to Venus's evolution.|  ||C||||
+|EVN‑047||Surface: connection between the structure & composition of different regions & Venus evolution.|  ||C||||
 |EVN‑048||Nature & sources of the greenhouse effect.|  |D||F|||
 |EVN‑049||Nature of the thermal tides.|  |D|||||
 |EVN‑056|T|Exploration: from L1/L2.| Ai, Am, At, Gi |D|||||
@@ -93,7 +93,7 @@ Targets and investigations:
 |EVN‑075||Atmosphere: clouds, their nature.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑080||Albedo: changes in time.| Gi |D||F|||
-|EVN‑082|T|Atmosphere: prolonged investigations on the H=0‑10 km.| All A ||||||
+|EVN‑082|T|Atmosphere: prolonged investigations on the H=0 ‑ 10 km.| All A ||||||
 |EVN‑086|T|Surface: tessera investigations, close.|  ||C||||
 |EVN‑088|T|Surface: subsurface investigations.|  ||C||||
 |EVN‑091||The loss rate of water from Venus.|  |D||F|||
@@ -101,7 +101,7 @@ Targets and investigations:
 |EVN‑094|T|High temperature electronics.|  |D|C|F|||
 |EVN‑095||Climate: history & causes of changes.|  |D|||||
 |EVN‑096||Atmosphere: ionosphere.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 
@@ -324,7 +324,7 @@ Surface Geology and Geophysics:
 | 13 ☑ | ELSPEC | Fast electron energy analyzer with energy range 10 eV to 10 keV. Electron distribution function | 114×120×165 | 2 | 2.5 | 1.758 | M | 3 | 1 to 3 | FOV should be directed to 90° of the Sun |
 | 14 ☑ | Neutral particle spectrometer | Neutral particle mass composition | 109×145×145 | 1.4 | 2.5 | 0.439 | M | 3 | 1 to 3 | FOV should be directed to the Sun |
 | 15 ☑ | Energetic particle spectrometer | Electron and ion energy spectrometer for 20 to 2 000 keV. Energy spectra of energetic ions and electrons in several directions | 180×200×100 | to 4 | to 5 | 0.439 | M | 6 | 2 to 3 | Location in sun shadow preferred (no direct or refracted Sunlight on detectors) |
-| 16 ☑ | Magnetometer | Flux-gate magnetometer (two vector sensors and electronic box) ±500 nT. Quasistatic magnetic field (three components)/Venus ionosphere and plasma environment | 150×150×150<br>70×30×30 | 3 | 7 | <4.395 | M | 4 | 5 to 6 | Boom for the instrument sensors |
+| 16 ☑ | Magnetometer | Flux‑gate magnetometer (two vector sensors and electronic box) ±500 nT. Quasistatic magnetic field (three components)/Venus ionosphere and plasma environment | 150×150×150<br>70×30×30 | 3 | 7 | <4.395 | M | 4 | 5 to 6 | Boom for the instrument sensors |
 
 </small>
 
@@ -412,7 +412,7 @@ The table below shows the additional modules that are being offered to expand th
 | 2 ☑ | ELSPEC | Fast electron energy analyzer with energy range 10 eV to 10 keV. Electron distribution function | 114×120×165 | 2 | 2.5 | 1.758 | M | 3 | 1 to 3 | FOV should be directed to 90° of the Sun |
 | 3 ☑ | Neutral particle spectrometer | Neutral particle mass composition | 109×145×145 | 1.4 | 2.5 | 0.439 | M | 3 | 1 to 3 | FOV should be directed to the Sun |
 | 4 ☑ | Energetic particle spectrometer | Electron and ion energy spectrometer for 20 to 2 000 keV. Energy spectra of energetic ions and electrons in several directions | 180×200×100 | to 4 | to 5 | 0.439 | M | 6 | 2 to 3 | Location in sun shadow preferred (no direct or refracted sunlight on detectors) |
-| 5 ☑ | Magnetometer | Flux-gate magnetometer (two vector sensors and electronic box) ±500 nT. Quasistatic magnetic field (three components)/Venus ionosphere and plasma environment | 150×150×150<br>70×30×30 | 3 | 7 | <4.395 | M | 4 | 5 to 6 | Boom for the instrument sensors |
+| 5 ☑ | Magnetometer | Flux‑gate magnetometer (two vector sensors and electronic box) ±500 nT. Quasistatic magnetic field (three components)/Venus ionosphere and plasma environment | 150×150×150<br>70×30×30 | 3 | 7 | <4.395 | M | 4 | 5 to 6 | Boom for the instrument sensors |
 | 6 ☐ | Radio-science two-frequency duplex occultation | Signal from satellite received by a ground station or subsatellite and receive signals from ground or subsatellite in (L?) S- and X-bands. | 0.5 dm³ | 0.5 | 1 | 2.197 | M | 7 for S and X, 3 to 4 for L |  |  |
 
 </small>

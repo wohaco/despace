@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| $ 262 million or 18 323 kg [gold](sc_price.md) in 2005 prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Development| 2001 — 2005 |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • Past: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975). |
 |Target| To perform a global investigation of the Venusian atmosphere |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| 2 high-gain dishes, 1.3 m and 0.3 m in diameter, 2 low-gain antennas |
 |Composition| Orbiter |
 |Contractor| [EADS Astrium](03_astrium.md) |
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
 |EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||
@@ -58,7 +58,7 @@ Achieved targets & investigations:
 |EVN‑020||Inner structure of the planet.|  |D|||||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑031||Atmosphere: long‑term variations of the meteocharacterictics on the surface.|  |D|||||
+|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
 |EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
 |EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
@@ -74,7 +74,7 @@ Achieved targets & investigations:
 |EVN‑091||The loss rate of water from Venus.|  |D||F|||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
 |EVN‑096||Atmosphere: ionosphere.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

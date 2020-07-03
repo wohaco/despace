@@ -4,7 +4,7 @@
 |[![](f/contact/u/unibe_logo1_thumb.jpg)](f/contact/u/unibe_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.unibe.ch/><br> <https://en.wikipedia.org/wiki/University_of_Bern><br> <https://ru.wikipedia.org/wiki/Бернский_университет>  |
+|Link| <http://www.unibe.ch/><br> <https://en.wikipedia.org/wiki/University_of_Bern><br> <https://ru.wikipedia.org/wiki/Бернский_университет> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

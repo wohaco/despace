@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Development| … ‑ ┊ |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| … |
 |[Type](sc.md)| … |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| … |
 |Contractor| … |
 |Manufacturer| … |
@@ -51,7 +51,7 @@
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
@@ -74,13 +74,13 @@
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
 |EVN‑080||Albedo: changes in time.| Gi |D||F|||
-|EVN‑082|T|Atmosphere: prolonged investigations on the H=0‑10 km.| All A ||||||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H=30‑60 km.|  |D|||||
+|EVN‑082|T|Atmosphere: prolonged investigations on the H=0 ‑ 10 km.| All A ||||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H=30 ‑ 60 km.|  |D|||||
 |EVN‑091||The loss rate of water from Venus.|  |D||F|||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
 |EVN‑094|T|High temperature electronics.|  |D|C|F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

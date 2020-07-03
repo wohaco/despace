@@ -4,7 +4,7 @@
 |[![](f/contact/i/iai_logo1_thumb.jpg)](f/contact/i/iai_logo1.png)|*2W33+X7 Бней‑Атарот, Израиль*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://www.iai.co.il/><br> <https://en.wikipedia.org/wiki/Israel_Aerospace_Industries><br> <https://ru.wikipedia.org/wiki/Israel_Aerospace_Industries>  |
+|Link| <https://www.iai.co.il/><br> <https://en.wikipedia.org/wiki/Israel_Aerospace_Industries><br> <https://ru.wikipedia.org/wiki/Israel_Aerospace_Industries> |
 |Tel| +972(3)935-31-11, fax: … |
 |Etc| … |
 

@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*МГТУ Баумана, SU.*|
 |:--|:--|
 |i18n| Barmin, Vladimir Pavlovich |
-|Tel|  |
-|E‑mail|  |
+|Tel| |
+|E‑mail| |
 |B‑day, addr.| 1909.03.17 ‑ 1993.07.17 / Москва, СССР |
 || [![](f/contact/b/barmin_001_photo_thumb.jpg)](f/contact/b/barmin_001_photo.jpg) |
 

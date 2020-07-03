@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*АН СССР, SU.*|
 |:--|:--|
 |i18n| Keldysh, Mstislav Vsevolodovich |
-|Tel|  |
-|E‑mail|  |
+|Tel| |
+|E‑mail| |
 |B‑day, addr.| 1911.02.10 ‑ 1978.06.24 / Москва, СССР |
 || [![](f/contact/k/keldysh_001_photo_thumb.jpg)](f/contact/k/keldysh_001_photo.jpg) [![](f/contact/k/keldysh_001_sign_thumb.jpg)](f/contact/k/keldysh_001_sign.png) |
 

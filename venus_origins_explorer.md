@@ -11,7 +11,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Development| … ‑ ┊ |
@@ -22,7 +22,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: [Pineer Venus Orbiter](pioneer_venus_1.md), [Venera 15 and 16](venera_15_16.md), [Magellan](magellan.md.md) |
 |Target| Produce global, high resolution topography and imaging of Venus' surface and produce the first maps of deformation and global surface composition, thermal emissivity, and gravity field to study the interior structure of the planet |
 |[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Orbiter; atmospheric probe |
 |Contractor| … |
 |Manufacturer| … |
@@ -45,7 +45,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||

@@ -4,8 +4,8 @@
 |[![](f/contact/k/kepler_comms_logo1_thumb.jpg)](f/contact/k/kepler_comms_logo1.png)|*196 Spadina Avenue, Suite 400 Toronto M5T 2C2 Canada*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.keplercommunications.com/><br> <https://en.wikipedia.org/wiki/Kepler_Communications>  |
-|Tel| +1(437)537-53-71, fax: +1(437)537-53-72  |
+|Link| <http://www.keplercommunications.com/><br> <https://en.wikipedia.org/wiki/Kepler_Communications> |
+|Tel| +1(437)537-53-71, fax: +1(437)537-53-72 |
 |Etc| … |
 
 **Kepler Communications Inc.** is a privately held company based in Toronto, Ontario, Canada. The company’s stated mission is to deliver affordable network connectivity across the globe via a growing network of small satellites.  

@@ -16,7 +16,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md)|
 |Development| … |
 |Duration| **Venera 13:** Travel: 4 months, 2 days, Lander: 127 minutes<br> **Venera 14:** Travel: 4 months and 1 day, Lander: 57 minutes |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: … <br> • Current: … <br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md) |
 |Target| Panoramic photography of Venus, sampling and analysis of the soil, the study of the atmosphere. |
 |[Type](sc.md)| Flyby spacecraft; atmospheric spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| Orbiter: high-gain parabolic antenna |
 |Composition| Orbiter / Lander |
 |Contractor| … |
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
@@ -74,7 +74,7 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-Venera 13 and 14 were identical spacecraft built to take advantage of the 1981 Venus launch opportunity and launched 5 days apart, Venera 13 on 30 October 1981 at 06:04 UTC and Venera 14 on 4 November 1981 at 05:31 UTC, both with an on-orbit dry mass of 760 kg. Each mission consisted of a flyby and a landing craft. The landing site was chosen in collaboration with scientists from the United States using maps based on radar measurements made by the Pioneer Venus Orbiter in 1978.
+Venera 13 and 14 were identical spacecraft built to take advantage of the 1981 Venus launch opportunity and launched 5 days apart, Venera 13 on 30 October 1981 at 06:04 UTC and Venera 14 on 4 November 1981 at 05:31 UTC, both with an on‑orbit dry mass of 760 kg. Each mission consisted of a flyby and a landing craft. The landing site was chosen in collaboration with scientists from the United States using maps based on radar measurements made by the Pioneer Venus Orbiter in 1978.
 
 **ORBITER**
 

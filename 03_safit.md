@@ -4,7 +4,7 @@
 |[![](f/contact/s/safit_logo1_thumb.jpg)](f/contact/s/safit_logo1.png)|*Россия, 141351, Московская область, Сергиево‑Посадский район, деревня Жучки, дом 2д, офис 1.<br> Для корреспонденции: 141371, Московская область, Сергиево‑Посадский район, г. Хотьково, ОПС Хотьково‑1, а/я 3*|
 |:--|:--|
 |E‑mail| <safit@safit.su> |
-|Link| <http://safit.su/><br> <https://instagram.com/safitfirm><br> <https://twitter.com/safitfirm><br> <https://www.youtube.com/channel/UCGt8ya2h-D6ekc2X0FCKYrg/videos>  |
+|Link| <http://safit.su/><br> <https://instagram.com/safitfirm><br> <https://twitter.com/safitfirm><br> <https://www.youtube.com/channel/UCGt8ya2h-D6ekc2X0FCKYrg/videos> |
 |Tel| +7(495)989-48-42, fax: … |
 |Etc| … |
 

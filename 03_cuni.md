@@ -4,7 +4,7 @@
 |[![](f/contact/c/cuni_logo1_thumb.jpg)](f/contact/c/cuni_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.cuni.cz/><br> <https://en.wikipedia.org/wiki/Charles_University><br> <https://ru.wikipedia.org/wiki/Карлов_университет>  |
+|Link| <http://www.cuni.cz/><br> <https://en.wikipedia.org/wiki/Charles_University><br> <https://ru.wikipedia.org/wiki/Карлов_университет> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

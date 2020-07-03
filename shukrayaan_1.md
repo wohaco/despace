@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| … |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: … <br> • Current: … <br> • Past: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md) |
 |Target| Mapping; studying the surface and atmosphere of Venus |
 |[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Orbiter; atmospheric probe |
 |Contractor| ISRO |
 |Manufacturer| ISAC |
@@ -50,7 +50,7 @@
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
@@ -63,7 +63,7 @@
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑088|T|Surface: subsurface investigations.|  ||C||||
 |EVN‑096||Atmosphere: ionosphere.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

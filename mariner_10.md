@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| $100 million or 19 312 kg of [gold](sc_price.md) |
 |Development| 1969 — 1973 |
 |Duration| 1 year 4 months 21 days |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • Past: [Mariner 2](mariner_2.md) |
 |Target| Measurement Mercury's environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus |
 |[Type](sc.md)| Flyby spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| S-Band |
 |Composition| Orbiter |
 |Contractor| … |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
@@ -65,7 +65,7 @@ Achieved targets & investigations:
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑078|T|Atmosphere: radiography.|  |D|||||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

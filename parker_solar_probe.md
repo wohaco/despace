@@ -17,7 +17,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| US$1.5 billion or 36 780 kg of [gold](sc_price.md) |
 |Development| 2008-2018 |
 |Duration| Planned: 6 years, 321 days |
@@ -27,7 +27,7 @@
 |Similar<br> missions| • Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • Past: [MESSENGER](messnger.md) |
 |Target| Trace the flow of energy that heats the corona and accelerates the solar wind.<br>Determine the structure and dynamics of the magnetic fields at the sources of solar wind.<br>Determine what mechanisms accelerate and transport energetic particles. |
 |[Type](sc.md)| Flyby spacecraft; orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Probe |
 |Contractor| United Launch Alliance |
 |Manufacturer| Applied Physics Laboratory |
@@ -50,7 +50,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
 
 </small>
@@ -96,7 +96,7 @@ The goals of the mission are:
 
 To achieve these goals, the mission will perform five major experiments or investigations (inc. instruments):
 
-   - Electromagnetic Fields Investigation (FIELDS) − This investigation will make direct measurements of electric and magnetic fields, radio waves, Poynting flux, absolute plasma density, and electron temperature. It consists of two flux-gate magnetometers, a search-coil magnetometer, and 5 plasma voltage sensors.
+   - Electromagnetic Fields Investigation (FIELDS) − This investigation will make direct measurements of electric and magnetic fields, radio waves, Poynting flux, absolute plasma density, and electron temperature. It consists of two flux‑gate magnetometers, a search-coil magnetometer, and 5 plasma voltage sensors.
    - Integrated Science Investigation of the Sun (IS☉IS) − This investigation will measure energetic electrons, protons and heavy ions. The instrument suite comprises two independent Energetic Particle Instruments, the EPI-Hi and EPI-Lo studying higher and lower energy particles.
    - Wide-field Imager for Solar Probe (WISPR) − These optical telescopes will acquire images of the corona and inner heliosphere.
    - Solar Wind Electrons Alphas and Protons (SWEAP) − This investigation will count the electrons, protons and helium ions, and measure their properties such as velocity, density, and temperature. Its main instruments are the Solar Probe Analyzers (SPAN, two electrostatic analyzers) and the Solar Probe Cup (SPC, a Faraday cup).

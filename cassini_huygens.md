@@ -17,7 +17,7 @@ The **Cassini–Huygens** is a joint mission of the space-research mission, invo
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| US$3.26 billion or 306 305 kg of [gold](sc_price.md) in 1997 prices |
 |Development| 1992 ‑ 1997 |
 |Duration| 19 years, 335 days; 13 years, 76 days at Saturn |
@@ -27,7 +27,7 @@ The **Cassini–Huygens** is a joint mission of the space-research mission, invo
 |Similar<br> missions| • Proposed: …<br> • Current: [Galileo](galileo.md) <br> • Past: … |
 |Target| Study of the planet Saturn and the system of the Saturnian system (rings, moons and asteroids). One of the main goals is to study Saturn's moon-Titan |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Cassini Orbiter; Huygens Lander |
 |Contractor| Aérospatiale |
 |Manufacturer| Cassini: Jet Propulsion Laboratory <br> Huygens: Thales Alenia Space |
@@ -50,7 +50,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 
 </small>

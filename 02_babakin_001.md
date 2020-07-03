@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*НПОЛ, SU.*|
 |:--|:--|
 |i18n| Babakin, Georgy Nikolayevich |
-|Tel|  |
-|E‑mail|  |
+|Tel| |
+|E‑mail| |
 |B‑day, addr.| 1914.11.13 ‑ 1971.08.03 / Москва, СССР |
 || [![](f/contact/b/babakin_001_photo_thumb.jpg)](f/contact/b/babakin_001_photo.jpg) |
 

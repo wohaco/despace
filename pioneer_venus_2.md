@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| 4 months, 1 day, 13 hours, 22 minutes |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: [Magellan](magellan.md), [Galileo Probe](galileo.md) <br> • Current: … <br> • Past: … |
 |Target| Studying the structure and composition of clouds from inside the atmosphere |
 |[Type](sc.md)| Atmospheric spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| S-band, X-Band |
 |Composition| Spacecraft Bus, one large and three smaller probes |
 |Contractor| United Launch Alliance |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
@@ -64,7 +64,7 @@ Achieved targets & investigations:
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑075||Atmosphere: clouds, their nature.|  |D||F|||
 |EVN‑091||The loss rate of water from Venus.|  |D||F|||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

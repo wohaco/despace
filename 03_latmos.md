@@ -4,8 +4,8 @@
 |[![](f/contact/l/latmos_logo1_thumb.jpg)](f/contact/l/latmos_logo1.png)|*11 Boulevard D'Alembert, 78280 Guyancourt, France*|
 |:--|:--|
 |E‑mail| <direction@latmos.ipsl.fr> |
-|Link| <http://www.latmos.ipsl.fr/><br> <https://fr.wikipedia.org/wiki/Laboratoire_atmosphères,_milieux,_observations_spatiales>  |
-|Tel| +01(802)850-28  |
+|Link| <http://www.latmos.ipsl.fr/><br> <https://fr.wikipedia.org/wiki/Laboratoire_atmosphères,_milieux,_observations_spatiales> |
+|Tel| +01(802)850-28 |
 |Etc| … |
 
 **Laboratoire Atmosphères, Milieux, Observations Spatiales (LATMOS)**, рус. **Лаборатория атмосферы, сред, космических наблюдений**, он же **Институт Аэрофизики Франции** — французская научно‑исследовательская лаборатория в области изучения физико‑химических процессов в атмосфере Земли, изучения планет и малых тел Солнечной системы (атмосфера, поверхность) и физики гелиосферы, в экзосфере планет, и плазмы в солнечной системе.  

@@ -4,7 +4,7 @@
 |[![](f/contact/a/aiac_logo1_thumb.jpg)](f/contact/a/aiac_logo1.png)|*255 Albert Street, Suite 703, Ottawa, Ontario, K1P 6A9, Canada*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://aiac.ca/>  |
+|Link| <https://aiac.ca/> |
 |Tel| +1(613)232-42-97, fax: … |
 |Etc| … |
 

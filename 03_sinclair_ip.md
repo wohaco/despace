@@ -4,7 +4,7 @@
 |[![](f/contact/s/sinclair_ip_logo1_thumb.jpg)](f/contact/s/sinclair_ip_logo1.png)|*268 Claremont St, Toronto, ON M6J 2N3, Canada*|
 |:--|:--|
 |E‑mail| <dns@sinclairinterplanetary.com> |
-|Link| <http://www.sinclairinterplanetary.com/>  |
+|Link| <http://www.sinclairinterplanetary.com/> |
 |Tel| +1(647)286-37-61, fax: … |
 |Etc| … |
 

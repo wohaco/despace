@@ -4,7 +4,7 @@
 |[![](f/contact/l/spacelin_logo1_thumb.jpg)](f/contact/l/spacelin_logo1.png)|*Россия, 115035, Москва, ул. Садовническая, д. 76/71, стр. 5*|
 |:--|:--|
 |E‑mail| <mail@spacelin.ru> |
-|Link| <http://spacelin.ru/><br> <https://vk.com/lin_industrial><br> <https://users.livejournal.com/---lin---/>  |
+|Link| <http://spacelin.ru/><br> <https://vk.com/lin_industrial><br> <https://users.livejournal.com/---lin---/> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

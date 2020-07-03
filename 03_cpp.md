@@ -4,7 +4,7 @@
 |[![](f/contact/c/cpp_logo1_thumb.jpg)](f/contact/c/cpp_logo1.png)|*3801 West Temple Avenue,Pomona, CA 91768, USA*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://www.cpp.edu/><br> <https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Pomona>  |
+|Link| <https://www.cpp.edu/><br> <https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Pomona> |
 |Tel| +1(909)869-76-59, fax: … |
 |Etc| … |
 

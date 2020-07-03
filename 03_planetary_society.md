@@ -4,8 +4,8 @@
 |[![](f/contact/p/planetary_society_logo1_thumb.jpg)](f/contact/p/planetary_society_logo1.png)|*60 South Los Robles Avenue, Pasadena, CA 91101, USA*|
 |:--|:--|
 |E‑mail| <tps@planetary.org> |
-|Link| <http://planetary.org/><br> <https://en.wikipedia.org/wiki/The_Planetary_Society><br> <https://ru.wikipedia.org/wiki/Планетарное_общество><br> <https://www.facebook.com/planetarysociety><br> <https://twitter.com/exploreplanets><br> <https://www.instagram.com/planetarysociety/>  |
-|Tel| +1(626)793-51-00, fax: +1(626)793-55-28  |
+|Link| <http://planetary.org/><br> <https://en.wikipedia.org/wiki/The_Planetary_Society><br> <https://ru.wikipedia.org/wiki/Планетарное_общество><br> <https://www.facebook.com/planetarysociety><br> <https://twitter.com/exploreplanets><br> <https://www.instagram.com/planetarysociety/> |
+|Tel| +1(626)793-51-00, fax: +1(626)793-55-28 |
 |Etc| … |
 
 **Планетарное общество** (англ. **The Planetary Society**) — американская неправительственная некоммерческая организация, занимающаяся проектами в областях астрономии, планетарных науках, исследовании космоса и популяризации науки. Основано в 1980 году Карлом Саганом, Брюсом Мюрреем и Луисом Фридманом. Целью является исследование Солнечной системы, поиск околоземных объектов и поиск внеземной жизни.  
@@ -28,5 +28,5 @@ The Planetary Society currently runs seven different program areas with a number
    - Innovative technologies
    - International mission participation
    - Mars exploration
-   - Near-Earth objects
+   - near‑Earth objects
    - Search for extraterrestrial life

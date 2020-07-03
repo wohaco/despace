@@ -4,7 +4,7 @@
 |[![](f/contact/m/macfab_logo1_thumb.jpg)](f/contact/m/macfab_logo1.png)|*Macfab Manufacturing, 330 Britannia Road East, Mississauga, Ontario L4Z 1X9, Canada*|
 |:--|:--|
 |E‑mail| <sales@macfab.ca>, <careers@macfab.ca> |
-|Link| <http://macfab.ca/>  |
+|Link| <http://macfab.ca/> |
 |Tel| +1(905)238-12-10, fax: … |
 |Etc| … |
 

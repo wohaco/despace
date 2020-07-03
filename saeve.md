@@ -32,7 +32,7 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
 |EVN‑007||Atmosphere: connection between the topography & the atmo circulation.|  |D|||||
@@ -47,10 +47,10 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 |EVN‑025||Surface: structure.|  ||C||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑031||Atmosphere: long‑term variations of the meteocharacterictics on the surface.|  |D|||||
+|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
 |EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
-|EVN‑047||Surface: what can be said about the structure & composition of the surface of different regions according to Venus's evolution.|  ||C||||
+|EVN‑047||Surface: connection between the structure & composition of different regions & Venus evolution.|  ||C||||
 |EVN‑058|T|Exploration: directed seismoexperiment.|  |D||F|||
 |EVN‑069|T|Prolonged surface‑spacecraft functioning.|  ||C||||
 |EVN‑074||Meteorological model.|  |D||F|||

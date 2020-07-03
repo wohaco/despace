@@ -4,7 +4,7 @@
 |[![](f/contact/u/ucl_logo1_thumb.jpg)](f/contact/u/ucl_logo1.png)|*University College London, Gower Street, London, WC1E 6BT, UK*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.ucl.ac.uk/><br> <https://en.wikipedia.org/wiki/University_College_London> <https://ru.wikipedia.org/wiki/Университетский_колледж_Лондона>  |
+|Link| <http://www.ucl.ac.uk/><br> <https://en.wikipedia.org/wiki/University_College_London> <https://ru.wikipedia.org/wiki/Университетский_колледж_Лондона> |
 |Tel| +44(0)20-7679-2000 , fax: … |
 |Etc| … |
 

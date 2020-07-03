@@ -4,8 +4,8 @@
 |[![](f/contact/n/ngc_as_logo1_thumb.jpg)](f/contact/n/ngc_as_logo1.png)|*2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.ngcaerospace.com/><br> <https://www.linkedin.com/company/ngc-aerospace-ltd>  |
-|Tel| +1(819)348-94-83, fax: +1(819)348-94-30  |
+|Link| <http://www.ngcaerospace.com/><br> <https://www.linkedin.com/company/ngc-aerospace-ltd> |
+|Tel| +1(819)348-94-83, fax: +1(819)348-94-30 |
 |Etc| … |
 
 **NGC Aerospace Ltd** is a Canadian high-tech SME recognised for the design & deployment of artificial vision, guidance, navigation & control systems for the autonomous operation of space, aeronautical & terrestrial vehicles. The analyses, algorithms, simulators & real-time software developed by NGC aim at increasing the autonomy, performance, reliability & safety of these intelligent vehicles while at the same time reducing their operational cost. From theoretical concepts & innovations to satellites & autonomous rovers currently in operation, NGC has demonstrated creativity, quality, excellence & performance consistent with its motto.

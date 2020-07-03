@@ -4,7 +4,7 @@
 |[![](f/contact/k/kari_logo1_thumb.jpg)](f/contact/k/kari_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.kari.re.kr/><br> <https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute><br> <https://ru.wikipedia.org/wiki/Корейский_институт_аэрокосмических_разработок><br> <https://www.linkedin.com/company/kari/>  |
+|Link| <http://www.kari.re.kr/><br> <https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute><br> <https://ru.wikipedia.org/wiki/Корейский_институт_аэрокосмических_разработок><br> <https://www.linkedin.com/company/kari/> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

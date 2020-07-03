@@ -4,8 +4,8 @@
 |[![](f/contact/n/northrop_grumman_logo1_thumb.jpg)](f/contact/n/northrop_grumman_logo1.png)|*2980 Fairview Park Drive, West Falls Church, Virginia, United States*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.northropgrumman.com/><br> <https://ru.wikipedia.org/wiki/Northrop_Grumman_Corporation><br> <https://en.wikipedia.org/wiki/Northrop_Grumman><br> <https://en.wikipedia.org/wiki/Grumman_LLV>  |
-|Tel| <mark>нетрабочего</mark>, fax: +1(703)280-29-00  |
+|Link| <http://www.northropgrumman.com/><br> <https://ru.wikipedia.org/wiki/Northrop_Grumman_Corporation><br> <https://en.wikipedia.org/wiki/Northrop_Grumman><br> <https://en.wikipedia.org/wiki/Grumman_LLV> |
+|Tel| <mark>нетрабочего</mark>, fax: +1(703)280-29-00 |
 |Etc| … |
 
 **Northrop Grumman Corporation** — американская военно‑промышленная компания, работающая в области электроники и информационных технологий, авиакосмической отрасли, судостроении. Образована в 1994 году в результате слияния компаний «Northrop Corporation» и «Grumman Corporation». Деятельность компании сведена в основные группы:

@@ -4,7 +4,7 @@
 |[![](f/contact/a/aac_cs_logo1_thumb.jpg)](f/contact/a/aac_cs_logo1.png)|*Uppsala Science Park, Dag Hammarskjölds väg 48, SE-751 83 Uppsala, Sweden*|
 |:--|:--|
 |E‑mail| <info@aacmicrotec.com> |
-|Link| <https://www.aac-clyde.space/><br> <https://twitter.com/ClydeSpace><br> <https://www.facebook.com/clydespace><br> <https://www.linkedin.com/company/clyde-space-ltd/><br> <https://www.instagram.com/clydespace/>  |
+|Link| <https://www.aac-clyde.space/><br> <https://twitter.com/ClydeSpace><br> <https://www.facebook.com/clydespace><br> <https://www.linkedin.com/company/clyde-space-ltd/><br> <https://www.instagram.com/clydespace/> |
 |Tel| +46(18)560-130, fax: … |
 |Etc| … |
 

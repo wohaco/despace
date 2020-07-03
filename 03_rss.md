@@ -4,8 +4,8 @@
 |[![](f/contact/r/rks_logo1_thumb.jpg)](f/contact/r/rks_logo1.png)|*Россия, 111250, Москва, ул. Авиамоторная, д. 53*|
 |:--|:--|
 |E‑mail| <contact@spacecorp.ru> |
-|Link| <http://russianspacesystems.ru/>  |
-|Tel| +7(495)509-12-01, +7(495)509-12-02, fax: +7(495)509-12-00  |
+|Link| <http://russianspacesystems.ru/> |
+|Tel| +7(495)509-12-01, +7(495)509-12-02, fax: +7(495)509-12-00 |
 |Etc| … |
 
 **<mark>Осторожно! [Болото](swamp.md)!</mark>**

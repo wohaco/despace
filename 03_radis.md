@@ -4,7 +4,7 @@
 |[![](f/contact/r/radis_logo1_thumb.jpg)](f/contact/r/radis_logo1.png)|*Россия, 124460, Зеленоград, Зеленоградский АО, 4‑й Западный пр‑д, 8, стр. 1*|
 |:--|:--|
 |E‑mail| <info@radis.ru> |
-|Link| <http://www.radis.ru/>  |
+|Link| <http://www.radis.ru/> |
 |Tel| +7(499)735-35-13, +7(499)762-45-90, +7(499)762-46-10, fax: … |
 |Etc| … |
 

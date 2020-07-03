@@ -4,7 +4,7 @@
 |[![](f/contact/s/seds_logo1_thumb.jpg)](f/contact/s/seds_logo1.png)|*…*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://seds.org/><br> <https://en.wikipedia.org/wiki/Students_for_the_Exploration_and_Development_of_Space>  |
+|Link| <http://seds.org/><br> <https://en.wikipedia.org/wiki/Students_for_the_Exploration_and_Development_of_Space> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

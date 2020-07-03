@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| $450M or 10 051 kg of [gold](sc_price.md) in 2019 prices |
 |Development| 2019 —  … |
 |Duration| … |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-2](pioneer_venus_2.md), [VeGa 1, VeGa 2](vega_1_2.md) |
 |Target| Designed to address by targeting noble gases, trace gases, and their isotopes, as well as temperature, pressure, winds, and imaging at Venus |
 |[Type](sc.md)| Atmospheric spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| … |
 |Composition| Atmospheric probe |
 |Contractor| … |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||

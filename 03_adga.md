@@ -4,7 +4,7 @@
 |[![](f/contact/a/adga_logo1_thumb.jpg)](f/contact/a/adga_logo1.png)|*110 Argyle Avenue, Ottawa, ON, K2P 1B4, Canada*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.adga.ca/>  |
+|Link| <http://www.adga.ca/> |
 |Tel| +1(613)237-30-22, fax: … |
 |Etc| … |
 

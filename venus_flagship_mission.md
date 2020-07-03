@@ -19,7 +19,7 @@ The original report dates back to 2007.
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| $ 2.7 B ‑ 3.8 B or 86 370 ‑ 121 560 kg of [gold](sc_price.md) in 2009 prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Development| … ‑ ┊ |
@@ -30,7 +30,7 @@ The original report dates back to 2007.
 |Similar<br> missions| • Proposed: [Venera‑D](venera_d.md) (RU);<br> • Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> • Past: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978). |
 |Target| To understand the venusian greenhouse effect, atmospheric superrotation, climate changing, geo activity, water, atmosphere & surface evolution, inner structure, chemical structures etc.  |
 |[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| • 1 orbiter,<br> • 1 carrier (incl. 2 balloons in the clouds, 2 landers) |
 |Contractor| … |
 |Manufacturer| … |
@@ -64,7 +64,7 @@ Targets & objectives:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
@@ -88,7 +88,7 @@ Targets & objectives:
 |EVN‑062|T|Surface: obtaining & analysis of the surface samples.|  ||C|||S|
 |EVN‑063|T|Surface: panoramic mapping.|  ||C||||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H=30‑60 km.|  |D|||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H=30 ‑ 60 km.|  |D|||||
 |EVN‑088|T|Surface: subsurface investigations.|  ||C||||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||

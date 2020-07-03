@@ -4,7 +4,7 @@
 |[![](f/contact/g/grc_logo1_thumb.jpg)](f/contact/g/grc_logo1.png)|*21000 Brookpark Rd, Cleveland, OH 44135, США*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.nasa.gov/glenn><br> <https://en.wikipedia.org/wiki/Glenn_Research_Center>  |
+|Link| <http://www.nasa.gov/glenn><br> <https://en.wikipedia.org/wiki/Glenn_Research_Center> |
 |Tel| +1(216)433-40-00, fax: … |
 |Etc| … |
 

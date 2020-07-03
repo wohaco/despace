@@ -30,7 +30,7 @@
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑006|T|Exploration: from surface.|  ||C||||
 |EVN‑007||Atmosphere: connection between the topography & the atmo circulation.|  |D|||||
 |EVN‑010||Atmosphere: vertical model.|  |D|||||
@@ -39,7 +39,7 @@
 |EVN‑019||Atmosphere: energetic balance.|  |D|||||
 |EVN‑025||Surface: structure.|  ||C||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑031||Atmosphere: long‑term variations of the meteocharacterictics on the surface.|  |D|||||
+|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
 |EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||

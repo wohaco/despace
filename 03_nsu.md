@@ -4,7 +4,7 @@
 |[![](f/contact/n/nsu_logo1_thumb.jpg)](f/contact/n/nsu_logo1.png)|*Россия, 630090, Новосибирская область, г. Новосибирск, ул. Пирогова, д. 2*|
 |:--|:--|
 |E‑mail| <nsu@nsu.ru> |
-|Link| <http://www.nsu.ru/>  |
+|Link| <http://www.nsu.ru/> |
 |Tel| +7(383)363-43-33, fax: … |
 |Etc| … |
 

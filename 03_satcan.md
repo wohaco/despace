@@ -4,7 +4,7 @@
 |[![](f/contact/s/satcan_logo1_thumb.jpg)](f/contact/s/satcan_logo1.png)|*227 Centrepointe Drive, Ottawa, ON, K2G 5L5, Canada*|
 |:--|:--|
 |E‑mail| <info@satcan.ca> |
-|Link| <https://www.satellitecanada.org/><br> <https://twitter.com/SatelliteCanada><br> <https://www.linkedin.com/company/satellite-canada-innovation-network/>  |
+|Link| <https://www.satellitecanada.org/><br> <https://twitter.com/SatelliteCanada><br> <https://www.linkedin.com/company/satellite-canada-innovation-network/> |
 |Tel| +1(613)265-46-31, fax: … |
 |Etc| … |
 

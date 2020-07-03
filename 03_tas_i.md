@@ -4,7 +4,7 @@
 |[![](f/contact/t/tas_i_logo1_thumb.jpg)](f/contact/t/tas_i_logo1.png)|*Канны, Франция*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.thalesgroup.com/en/worldwide/space?LangType=2057>  |
+|Link| <http://www.thalesgroup.com/en/worldwide/space?LangType=2057> |
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 

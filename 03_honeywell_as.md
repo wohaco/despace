@@ -4,7 +4,7 @@
 |[![](f/contact/h/honeywell_as_logo1_thumb.jpg)](f/contact/h/honeywell_as_logo1.png)|*1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://aerospace.honeywell.com/><br> <https://en.wikipedia.org/wiki/Honeywell_Aerospace>  |
+|Link| <https://aerospace.honeywell.com/><br> <https://en.wikipedia.org/wiki/Honeywell_Aerospace> |
 |Tel| +1(602)365-30-99, fax: … |
 |Etc| … |
 

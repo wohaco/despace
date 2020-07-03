@@ -15,7 +15,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| • «Vega 1» 15 Dec. 1984 — 6 Mar. 1986<br> • «Vega 2» 21 Dec. 1984 — 9 Mar. 1986 |
@@ -25,7 +25,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |Similar<br> missions| • Proposed: …<br>  • Current: …<br> • Past: … |
 |Target| • Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley's comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near-core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core. |
 |[Type](sc.md)| Flyby spacecraft; lander spacecraft; atmospheric spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| Orbiter; Lander; Balloon Aerostat |
 |Comms| [L-band](rf.md) |
 |Contractor| … |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
 |EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
@@ -62,7 +62,7 @@ Achieved targets & investigations:
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H=30‑60 km.|  |D|||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H=30 ‑ 60 km.|  |D|||||
 
 </small>
 

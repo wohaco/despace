@@ -14,7 +14,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| 127 days |
@@ -24,7 +24,7 @@
 |Similar<br> missions| • Proposed: [Venera 5 and 6](venera_5_6.md), [Vega 1 and 2](vega_1_2.md)<br> • Current: [Mariner 5](mariner_5.md)<br> • Past: Luna 2, [Venera 2 and 3](venera_2_3.md) |
 |Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface |
 |[Type](sc.md)| Flyby spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| 2 m parabolic HGA (decimeter range) |
 |Composition| Lander, orbiter |
 |Contractor| … |
@@ -46,7 +46,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||

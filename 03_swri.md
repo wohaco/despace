@@ -4,7 +4,7 @@
 |[![](f/contact/s/swri_logo1_thumb.jpg)](f/contact/s/swri_logo1.png)|*6220 Culebra Road, San Antonio, TX 78238-5166, USA*|
 |:--|:--|
 |E‑mail| <mark>нетпочты</mark> |
-|Link| <https://www.swri.org/><br> <https://en.wikipedia.org/wiki/Southwest_Research_Institute>  |
+|Link| <https://www.swri.org/><br> <https://en.wikipedia.org/wiki/Southwest_Research_Institute> |
 |Tel| +1(210)684-51-11, fax: … |
 |Etc| … |
 

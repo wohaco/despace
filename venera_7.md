@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| Travel 120 days, lander 23 minutes |
@@ -25,7 +25,7 @@
 |Similar<br> missions| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: ... <br> • Past: [Venera 4](venera_4.md), [Venera 5 and 6](venera_5_6.md) |
 |Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface. Refinement of data obtained by [Venera 5 and 6](venera_5_6.md) |
 |[Type](sc.md)| Atmospheric spacecraft; lander spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| **Orbiter:** 2 m parabolic high-gain antenna (decimeter range)<br> **Lander:** medium gain antenna |
 |Composition| Lander, orbiter |
 |Contractor| … |
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑006|T|Exploration: from surface.|  ||C||||

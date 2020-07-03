@@ -16,7 +16,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| … |
 |Duration| **Venera 5:** Travel: 131 days; Atmosphere: 53 minutes<br> **Venera 6:** Travel: 127 days, Atmosphere: 51 minutes |
@@ -26,7 +26,7 @@
 |Similar<br> missions| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • Past: [Venera 4](venera_4.md) |
 |Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface |
 |[Type](sc.md)| Atmospheric spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Comms| 2 m parabolic HGA (decimeter range) |
 |Composition| Lander, orbiter |
 |Contractor| … |
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
@@ -58,7 +58,7 @@ Achieved targets & investigations:
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
-|EVN‑097||Atmosphere: the effect of solar radiation & interplanetary space on the atmo.|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
 
 </small>
 

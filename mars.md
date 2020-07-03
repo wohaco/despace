@@ -27,7 +27,7 @@
 |Signal from Earth| 3 ‑ 22 минут |
 |Distance from Earth|  55.76 ‑ 401 млн км |
 |Breaking to the orbit|  |
-|**Orbits:**|—|
+|**Orbits:**|• • •|
 |[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)| 249 232 000 км (1.666 [а.e.](si.md));<br> 206 655 000 км (1.381 [а.e.](si.md)) |
 |[Argument of periapsis](keplerian.md) (ω)| 286.46230° |
 |[Semimajor axis](keplerian.md) (a)| 2.2794382·10⁸ км (1.523662 а.e.) <small>(1.524 земной)</small> |
@@ -42,7 +42,7 @@
 |[Hill sphere](hill_sphere.md)| 950 000 км |
 |Satellite of| [Солнце](sun.md) |
 |[Eccentricity](keplerian.md) (e)| 0.0933941 |
-|**Physics:**|—|
+|**Physics:**|• • •|
 |[1st escape velocity](esc_vel.md) (v₁)| 3.546 km/s <small>(0.45 земной)</small> |
 |[2nd escape velocity](esc_vel.md) (v₂)|  5.03 km/s <small>(0.45 земной)</small> |
 |[Albedo](albedo.md)| 0.250 (Бонд);<br> 0.150 (геом. альбедо);<br> 0.170 |
@@ -57,7 +57,7 @@
 |Radius| 3 396.2 км (экватор., <small>0.532 земного</small>);<br> 3 376.2 км (полярный, <small>0.531 земного</small>);<br> 3 389.5 км (средний, <small>0.5320 земного</small>) |
 |[Surface gravity](g.md)| 3.711 m/s² (экватор, <small>0.378 земного</small>) |
 |Equatorial rotation velocity|  868.22 км/ч <small>(0.518 земного)</small> |
-|**Temperature & atmosph.:**|—|
+|**Temperature & atmosph.:**|• • •|
 |[Атмосфера](atmosphere.md)| **Давление** 0.4 ‑ 0.87 кПа (4·10⁻³ ‑ 8,7·10⁻³ атм).<br> **Состав:**<br> 95.32 % углекислый газ;<br> 2.7 % азот;<br> 1.6 % аргон;<br> 0.13 % кислород;<br> 0.08 % угарный газ;<br> 0.021 % водяной пар;<br> 0.01 % окись азота |
 |[Освещённость](illum.md)|  |
 |Радиация|  |
@@ -167,16 +167,14 @@ Targets & explorations for Mars. (Comments: **T** — technical; **Draft** — m
 
 <small>
 
-|*EMA‑XXX*|*T*|*EN*|*RU*|*C*|*D*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
-|||**`Never occured`**|**`Не проводилось`**||||||
-| [EMA‑…](mars.md) ||  |  <mark>TBD</mark> ||||||
-|• • •|•|• • •|• • •|•|•|•|•|•|
-|||**Was tried:**|**`Завершено частично`**||||||
-| [EMA‑…](mars.md) ||  |  <mark>TBD</mark> ||||||
-|• • •|•|• • •|• • •|•|•|•|•|•|
-|||**Mostly done:**|**`В целом завершено`**||||||
-| [EMA‑…](mars.md) ||  |  <mark>TBD</mark> ||||||
+|*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|•|•|**Never occurred:**|•|•|•|•|•|•|
+|EMA‑…|||  ||||||
+|•|•|**Was tried:**|•|•|•|•|•|•|
+|EMA‑…|||  ||||||
+|•|•|**Mostly done:**|•|•|•|•|•|•|
+|EMA‑…|||  ||||||
 
 </small>
 
@@ -189,7 +187,7 @@ Targets & explorations for Mars. (Comments: **T** — technical; **Draft** — m
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Timezones](timezone.md) ┊ [Wormhole](wormhole.md)  ▮  **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
+|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md)  ▮  **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
 **Docs:**
 

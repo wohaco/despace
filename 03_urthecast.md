@@ -4,7 +4,7 @@
 |[![](f/contact/u/urthecast_logo1_thumb.jpg)](f/contact/u/urthecast_logo1.png)|*1055 Canada Place - Suite 33, Vancouver, BC V6C 0C3, Canada*|
 |:--|:--|
 |E‑mail| <cx@urthecast.com> |
-|Link| <http://www.urthecast.com/><br> <https://en.wikipedia.org/wiki/Urthecast>  |
+|Link| <http://www.urthecast.com/><br> <https://en.wikipedia.org/wiki/Urthecast> |
 |Tel| +1(604)265-62-66, fax: … |
 |Etc| … |
 

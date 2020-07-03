@@ -19,7 +19,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-||**`Mission properties`**|
+|**Mission:**|• • •|
 |Cost| US$2 billion or 46 512 kg of [gold](sc_price.md) in January 2018 prices |
 |Development| 2004 — 2018 |
 |Duration| Cruise: 7 years; Science phase: 1 year |
@@ -29,7 +29,7 @@
 |Similar<br> missions| • Proposed: Меркурий‑П (2031)<br> • Current: …<br> • Past: [MESSENGER](messenger.md), [Mariner-10](mariner_10.md)|
 |Target| Performing a comprehensive study of mercury, including characterization of its magnetic field, magnetosphere, and internal and surface structure. |
 |[Type](sc.md)| Orbiter spacecraft |
-||**`Spacecraft properties`**|
+|**Spacecraft:**|• • •|
 |Composition| 2 Orbiters; Transfer Module |
 |Contractor| Arianespace |
 |Manufacturer| Airbus, [ISAS](03_isas.md) |
@@ -52,7 +52,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 
