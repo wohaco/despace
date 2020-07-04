@@ -33,10 +33,11 @@ Notes and requirements: (in historical order)
    1. Verdana font.
    1. Files/pages names consist only lower case Latin letter, digits, and underline.
    1. Photo miniatures: less than 160×175 px (160×160 px for photo + 15 px for year). Pictures of LV and OE miniatures: less than 120×120 px.
-   1. [Contact/cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logos/signs — png, other — jpg 77. Miniatures less than 100×90 px, jpg 65.
+   1. [Contact/cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logos/signs — png, other — jpg 77. Miniatures less than 100×90 & 60×50 px, jpg 65.
    1. There is a Spacecraft (SC) as a major unit, then it divides to modules (which can function separately) or to units.
    1. Dates are used in YYYY.MM.DD format, for example: 1947.02.20.
    1. Long digits are divided with the small unbreakable space “ ”, for example: 1 234 567.89 W.
+   1. Tables. Use the left align. Try to fit lists in a single line.
 
 Special symbols have to be used: …°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→ ✘☐☑├┕┆←↑→↓↔↕↖↗↘↙ ªⁱⁿº⁰¹²³⁴⁵⁶⁷⁸⁹ ⁺⁻⁼⁽⁾₀₁₂₃₄₅₆₇₈₉ ₊₋₌₍₎ₐₑₒₓₔₕₖₗₘₙₚₛₜ №©®™ ±×÷¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞πØ∅∑∞√∛∜‰ ⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ αβγδεζηθικλμνξο03C0πρςστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡ΢ΣΤΥΦΧΨΩ ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇ ❶❷❸❹❺❻❼❽❾❿➀➁➂➃➄➅➆➇➈➊➋➌➍➎➏➐➑➒➓ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛ ♳♴♵♶♷♸♹ etc.
 

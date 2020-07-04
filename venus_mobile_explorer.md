@@ -60,7 +60,7 @@ Original of NASA's report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [AR
 |EVN‑023||Surface: mineralogical composition.|  ||C||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
-|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the supercritical fluid in the lower layers.| Ac, Ai, Am, At |D|||||
+|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.| Ac, Ai, Am, At |D|||||
 |EVN‑040||Were there oceans & why has they gone?|  |D|C|F|||
 |EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
 |EVN‑042||History & causes of the planet's volcanic & tectonic evolution.|  |D|||||

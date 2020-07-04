@@ -11,7 +11,6 @@
 
    - **[Education](edu.md):** …
    - **Exp.:** Topics. Solar system planets with atmospheres: Venus, Mars, Jupiter, Saturn, Uranus, Neptune. Global warming & climate change.
-   - **[Паспорт](f/contact/l/limaye_001_passport.jpg):** Z1854992, истекает 2024.07.30, гражданство: Индия (резидент США с 01.10.1978 по 12.04.2025). Переехал в США, будучи студентом.
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
    - Git: …

@@ -9,11 +9,11 @@
 
 > <small>*Terms:* **Venus** — English term. **Венера** — Russian equivalent.</small>
 
-**Venus** (astro. ♀ [ ❐](f/aob/venus/venus_symbol_svg.png) — is the second planet from the Sun. It's named after the Roman goddess of love and beauty. No moons. Approximately in 3.5 billion years the [Earth](earth.md) may looks like Venus in terms of surface conditions.
+**Venus** (astro. ♀ [ ❐](f/aob/venus/venus_symbol_svg.png) — is the second planet from the Sun. Named after the Roman goddess of love & beauty. No moons. In ~ 3.5 billion years the [Earth](earth.md) may looks like Venus in terms of surface conditions.
 
 [![](f/aob/universe/terrestrial_planet_size_comparisons_thumb.jpg)](f/aob/universe/terrestrial_planet_size_comparisons.png)
 
-Venus is one of the four terrestrial planets in the Solar System, meaning that it is a rocky body like Earth. It is similar to Earth in size and mass, and is often described as Earth's “sister” or “twin”. The diameter of Venus is 12 103.6 km (7 520.8 mi) — only 638.4 km (396.7 mi) less than Earth's — and its mass is 81.5 % of Earth's. Conditions on the Venusian surface differ radically from those on Earth because its dense atmosphere is 96.5 % CO₂, with most of the remaining 3.5 % being nitrogen.
+It's one of the 4 terrestrial planets in the Solar System — it's a rocky body like Earth. It's similar to Earth in size & mass, & is often described as Earth's “sister” or “twin”. Its ∅ = 12 103.6 km (7 520.8 mi) — only 638.4 km (396.7 mi) less than Earth's — & its mass is 81.5 % of Earth; surface conditions differ radically from Earth's because its dense atmosphere is 96.5 % CO₂ & ~ 3.5 % N.
 
 |*Venus*|*Map*|*Map*|*Map*|
 |:--|:--|:--|:--|
@@ -55,7 +55,7 @@ And a bit of animation.
 |**Physics:**|• • •|
 |[1st escape velocity](esc_vel.md) (v₁)| 7.328 km/s (0.926 Earth's) |
 |[2nd escape velocity](esc_vel.md) (v₂)| 10.363 km/s (0.926 Earth's) |
-|[Albedo](albedo.md)| 0.689 (geometric);<br> 0.76 (Bond) |
+|[Albedo](albedo.md)| 0.689 (geometric); 0.76 (Bond) |
 |[Apparent magnitude](app_mag.md) (m)| −4.6 |
 |Axial tilt| 177.36° |
 |Density (ρ)| 5.24 g/cm³ (mean, 0.951 Earth's) |
@@ -68,36 +68,32 @@ And a bit of animation.
 |[Surface gravity](g.md)| 8.87 m/s² (0.904 Earth's) |
 |Volume (V)| 9.38·10¹¹ km² (0.857 Earth's) |
 |**Temperature & atmosph.:**|• • •|
-|[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density** 67 kg/m³.<br> **Pressure** 9.3 MPa (93 bar).<br> **Winds:**<br> 0.3 ‑ 1 m/s (surface);<br> up to 100 m/s (20 ‑ 60 km). |
+|[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 kg/m³.<br> **Pressure:** 9.3 MPa (93 bar).<br> **Winds:** 0.3 ‑ 1 m/s (surface); up to 100 m/s (20 ‑ 60 km). |
 |[Illumination](illum.md)| 200 (5.5°) ‑ 3 000 (90°) lx (surface, 0.2 Earth's) |
-|Radiation|  |
+|Radiation| <mark>TBD</mark> |
 |Temperature| 737 К (464 °C) near surface |
 
 
 
-### Atmosphere and climate
+### Atmosphere & climate
 |*Dependence temperature(pressure)/height;*<br> [Atmospheric model VIRA-30 ❐](f/aob/venus/atmo_model_vira_30.ods) made by Vega-1,2.|
 |:--|
 | ![](f/aob/venus/venus_atmosphere_ru.png) |
 
-The CO₂‑rich atmosphere generates the strongest greenhouse effect in the Solar System, creating the surface temperatures of at least 735 K (462 °C, 864 °F). This makes Venus surface hotter than Mercury's, which has a minimum surface temperature of 53 K (−220 °C, −364 °F) and maximum surface temperature of 700 K (427 °C, 801 °F), even though Venus is nearly twice Mercury's distance from the Sun and thus receives only 25 % of [Mercury's](mercury.md) solar irradiance. This temperature is higher than that used for sterilization.
+The CO₂‑rich atmosphere generates the strongest greenhouse effect in the Solar System, creating the surface temperature of ~ 735 K (462 °C, 864 °F), higher than that used for sterilization, hotter than [Mercury's](mercury.md) (min surface temperature of 53 K, −220 °C, −364 °F, & maximum — 700 K, 427 °C, 801 °F), even though Venus is nearly twice Mercury's distance from the Sun & thus receives ~ 25 % of Mercury's solar irradiance. The highest Venus point, Maxwell Montes, is the coolest point with a temperature of ~ 655 K (380 °C; 715 °F) & a pressure of ~ 4.5 MPa (45 bar).
 
-Thermal inertia and the transfer of heat by winds in the lower atmosphere mean that the temperature of Venus's surface does not vary significantly between the planet's two hemispheres, those facing and not facing the Sun, despite Venus's extremely slow rotation. Winds at the surface are slow, moving at a few kilometers per hour, but because of the high density of the atmosphere at the surface, they exert a significant amount of force against obstructions, and transport dust and small stones across the surface. This alone would make it difficult for a human to walk through, even without the heat, pressure, and lack of oxygen.
+Thermal inertia & the heat transfer by the lower atmosphere winds mean that the surface temperature doesn't vary significantly between the planet's two hemispheres, those facing & not facing the Sun, despite Venus's extremely slow rotation. Surface winds are slow (a few km/h), but because of the atmosphere high density at the surface they exert much force against obstructions, & transport dust & small stones across the surface. This alone would make it difficult for a human to walk through, even without the heat & pressure. The high altitude winds become faster over time.
 
-Above the dense CO₂ layer are thick clouds consisting mainly of H₂SO₄, which is formed by sulfur dioxide and water through a chemical reaction resulting in H₂SO₄ hydrate. Clouds at different levels have different compositions and particle size distributions. These clouds reflect and scatter about 90 % of the sunlight that falls on them back into space, and prevent visual observation of Venus's surface. The permanent cloud cover means that although Venus is closer than Earth to the Sun, it receives less sunlight on the ground. Strong 300 km/h (185 mph) winds at the cloud tops go around Venus about every 4 ‑ 5 Earth days (**atmosphere superrotation.**). Winds on Venus move at up to 60 times the speed of its rotation, whereas Earth's fastest winds are only 10 ‑ 20 % rotation speed.
-
-The highest point on Venus, Maxwell Montes, is therefore the coolest point on Venus, with a temperature of about 655 K (380 °C; 715 °F) and an atmospheric pressure of about 4.5 MPa (45 bar).
-
-The high level winds have become faster over time.
+Above the dense CO₂ layer there are thick clouds consisting mainly of H₂SO₄ formed by a chemical reaction of SO₂ & H₂O. Clouds at different levels have different composition & particles size; they reflect & scatter ~ 90 % of the sunlight that falls on them back into space, & prevent surface visual observation. The permanent cloud cover means that although Venus is closer to the Sun than Earth, it receives less sunlight on the ground. Strong 300 km/h (185 mph) winds at the cloud tops go around Venus about every 4 ‑ 5 Earth days (**atmosphere superrotation**); the winds're ≥ 60 times faster than its rotation, whereas Earth's fastest winds're only 10 ‑ 20 % of the rotation speed.
 
 
 
 ### Magnetic field & core
-Venus have no self magnetic field. The present magnetic field is induced by an interaction between the ionosphere and the solar wind, rather than by an internal dynamo as in the Earth's core. Venus's small induced magnetosphere provides negligible protection to the atmosphere against cosmic radiation.
+Venus have no self magnetic field. The current one is induced by the ionosphere & solar wind interactions, rather than by a dynamo as in the Earth's core; this tiny induced magnetosphere provides negligible protection to the atmosphere against the cosmic radiation.
 
-One possibility is that Venus has no solid inner core, or that its core is not cooling, so that the entire liquid part of the core is at approximately the same temperature. Another possibility is that its core has already completely solidified. The state of the core is highly dependent on the concentration of sulfur, which is unknown at present.
+One possibility is Venus have no solid core, or its core isn't cooling, so that the entire core liquid part is approximately the same temperature. Another possibility is that its core has already completely solidified. The core state is highly dependent on the sulfur concentration, which is currently unknown.
 
-The weak magnetosphere around Venus means that the solar wind is interacting directly with its outer atmosphere. Here, ions of hydrogen and oxygen are being created by the dissociation of neutral molecules from UV radiation. The solar wind then supplies energy that gives some of these ions sufficient velocity to escape Venus's gravity field. This erosion process results in a steady loss of low‑mass hydrogen, helium, and oxygen ions, whereas higher‑mass molecules, such as CO₂, are more likely to be retained. Atmospheric erosion by the solar wind probably led to the loss of most of Venus's water during the first billion years after it formed. The erosion has increased the ratio of higher‑mass deuterium to lower‑mass hydrogen in the atmosphere 100 times compared to the rest of the solar system.
+The Venus weak magnetosphere means that the solar wind is interacting directly with its outer atmosphere. Here, H & O ions are being created by the dissociation of neutral molecules from UV‑radiation. The solar wind then supplies energy that gives some of these ions velocity to escape the gravity; this results in a steady loss of low‑mass H, He, O ions, whereas higher‑mass molecules, such as CO₂, are more likely to retain. This process probably led to the loss of most of the water during the 1st billion years after it formed increasing the ratio of higher‑mass deuterium to lower‑mass H in the atmosphere 100 times compared to the rest of the Solar system.
 
 
 
@@ -105,7 +101,7 @@ The weak magnetosphere around Venus means that the solar wind is interacting dir
 Common areas and possible landing sites.
 
 |*Stratigraphic Unit*|•|*Area,<br> M km²*|*Area,<br> %*|*Unsafe*|*Moder.<br> safe*|*Safe*|
-|:--|:--:|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|:--|:--|:--|
 |**Tectonic**|—|**92.82**|**20**|—|—|—|
 | · Densely lineated plains |pdl| · 7.72 | · 1.69 |unsafe|||
 | · Groove belt |gb| · 39.51 | · 8.66 |unsafe|||
@@ -125,37 +121,27 @@ Common areas and possible landing sites.
 
 **Tessera**
 
-![](f/aob/venus/venus_map_tesserae1.gif)
+|<small>Image of “Ovda Regio”, generated by [Magellan](magellan.md) ([JPL PIA00311 ⎆](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA00311)). You can see differences between the plains & mountains “Ovda Regio”, the western part of the huge equatorical mountains “Aphrodite Terra”.</small>|
+|:--|
+|[![](f/aob/venus/venus_map_tesserae2_thumb.jpg)](f/aob/venus/venus_map_tesserae2.jpg)|
+|![](f/aob/venus/venus_map_tesserae1.gif)|
 
-[![](f/aob/venus/venus_map_tesserae2_thumb.jpg)](f/aob/venus/venus_map_tesserae2.jpg)  
-Image of «Ovda Regio», generated by [Magellan](magellan.md) ([JPL PIA00311 ⎆](https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA00311)). You can see differences between the Venus plains and mountains «Ovda Regio», the western part of the huge equatorical mountains «Aphrodite Terra».
+**Tessera** are regions of heavily deformed Venus terrain, characterized by ≥ 2 intersecting tectonic elements, high topography, & subsequent high radar backscatter. Tessera often represent the oldest material at any given location & are among the most tectonicly deformed terrains. Diverse types of tessera terrain exist. It's not currently clear if this is due to a variety in the interactions of the mantle with regional crustal or lithospheric stresses, or if these diverse terrains represent different locations in the timeline of crustal plateau formation & fall. Multiple models of tessera formation exist & further extensive surface studies are necessary to fully understand this complex terrain.
 
-Tessera are regions of heavily deformed terrain on Venus, characterized by two or more intersecting tectonic elements, high topography, & subsequent high radar backscatter. Tessera often represent the oldest material at any given location & are among the most tectonicly deformed terrains on Venus's surface. Diverse types of tessera terrain exist. It is not currently clear if this is due to a variety in the interactions of Venus's mantle with regional crustal or lithospheric stresses, or if these diverse terrains represent different locations in the timeline of crustal plateau formation & fall. Multiple models of tessera formation exist & further extensive studies of Venus's surface are necessary to fully understand this complex terrain.
+Tessera represent an ancient time of globally thin Venus lithosphere. Tessera doesn't participate in the global resurfacing events. It was thought that the Tessera might form a global “onion skin” of sorts, & extended beneath Venus regional plains. However, the currently accepted models support regional formation. Multiple models have been put forward to explain the tessera formation. Models of formation by mantle downwelling & pulsating continents are the most currently accepted models. A model of formation due to a lava pond via bolide impact was put forth, although it hasn't currently gained much acception due to skepticism of the bolide impact ability to generate sufficient melt. A model of formation due to mantle plumes (upwelling) was persistent for many years, however, it has since been abandoned due to its contradictory prediction of sequences of extension versus the observed cross cutting relationships.
 
-**Exploration.**
+[Pioneer Venus 1](pioneer_venus_1.md) detected regions of anomalous radar properties & high backscatter. Using [SAR](synthetic_aperture_radar.md) imaging the [Venera 15,16](venera_15_16.md) orbiters revealed these regions to be chaotically tiled terrain, which Soviet scientists named “parquet” (tiled floors) later known as “Tessera”. The most recent data concerning tessera comes from the [Magellan](magellan.md), in which the majority of the surface was mapped in high‑res (~ 100 m/px). Future Venus missions would allow further tessera understanding.
 
-Pioneer Venus Orbiter detected regions of anomalous radar properties & high backscatter. Using [SAR](synthetic_aperture_radar.md) imaging, the Venera 15 & Venera 16 orbiters revealed these regions to be chaotically tiled terrain, which Soviet scientists named “parquet” (tiled floors), later known as “Tessera”. The most recent data concerning tessera terrain comes from the Magellan Mission, in which the majority of Venus's surface was mapped in high resolution (~100 m/pixel). Future missions to Venus would allow for further understanding of tessera terrain.
+Tessera covers ~ 7.3 % (33 200 000 km²) of the surface, & occurs mostly within a few extensive provinces. They are heavily concentrated in 0 ‑ 150 °E. These longitudes represent a large area between a crustal extension center in the Aphrodite Terra & a crustal convergence center in Ishtar Terra. Tessera are exposed almost entirely within the crustal plateaus; their inliers, regions of tessera not found within the current crustal plateaus are thought to represent regions of collapsed crustal plateaus. Large tessera regions are labeled based on their latitude: in the equatorial & southern latitudes — Regio, in the northern latitudes — Tessera. Some well explored regions include: Aphrodite Terra, Alpha Regio, Beta Regio, Fortuna Tessera, Ovda Regio. A comprehensive list of Regiones & Tessera can be found at: <https://en.wikipedia.org/wiki/List_of_geological_features_on_Venus>.
 
-**Location.**
+Individual tessera patterns record the variations in interactions of the mantle with local regional stresses. This variation manifests itself in a wide array of diverse terrain types. Multiple types of sampled Tessera are below, however, they aren't meant as a classification scheme, & instead emphasize the variety of terrain types.
 
-Tessera are recognized as covering 7.3 % of Venus's surface, approximately 33.2 × 106 km, & occur mostly within a few extensive provinces. They are heavily concentrated between 0 & 150 °E. These longitudes represent a large area between a crustal extension center in the Aphrodite Terra & a crustal convergence center in Ishtar Terra. Tessera are exposed almost entirely within Venus's crustal plateaus. Tessera inliers, regions of tessera not found within current crustal plateaus are thought to represent regions of collapsed crustal plateaus. Large regions of tessera terrain are labeled based on their latitude. Regions in the equatorial & southern latitudes are labeled as “Regio” while regions in the northern latitudes are labeled as “Tessera”.
-
-A comprehensive list of Regiones & Tessera can be found under <https://en.wikipedia.org/wiki/List_of_geological_features_on_Venus>. Some well explored regions of tessera include: Aphrodite Terra, Alpha Regio, Beta Regio, Fortuna Tessera, Ovda Regio.
-
-**Origins.**
-
-Tessera represent an ancient time of globally thin lithosphere on Venus. Tessera Terrain does not participate in the global resurfacing events of Venus. It was thought by many researches that the Tessera might form a global “onion skin” of sorts, & extended beneath Venus's regional plains. However, the currently accepted models support regional formation. Multiple models have been put forward to explain the formation of tessera terrain. Models of formation by mantle downwelling & pulsating continents are the most currently accepted models. A model of formation due to a lava pond via bolide impact was put forth, although it has not currently gained much traction in the scientific community due to skepticism of the ability of a bolide impact to generate sufficient melt. A model of formation due to mantle plumes (upwelling) was persistent for many years, however, it has since been abandoned due to its contradictory prediction of sequences of extension versus the observed cross cutting relationships.
-
-**Varieties.**
-
-Individual patterns of Tessera Terrain record the variations in interactions of the mantle with local regional stresses. This variation manifests itself in a wide array of diverse terrain types. Multiple types of sampled Tessera Terrain are below, however, they are not meant as a classification scheme, & instead emphasize the variety of terrain types.
-
-   - **Fold Terrain** is recognizable by its well defined linear fabrics & composed of long ridges & valleys (≥ 100 km long), that are cross cut by minor extensional fractures that run perpendicular to the fold axes of the ridges. This likely formed due to unidirectional contraction.
-   - **Lava Flow Terrain** is named such due to its resemblance to Pahoehoe flows found on Earth, with long curving ridges. It is thought that this terrain may be formed due to displacement & deformation due to movement of the material beneath these crustal pieces.
-   - **Ribbon Terrain** is characterized by ribbons & folds that are typically orthogonal to one another. Ribbons are long & narrow extensional troughs that are separated by narrow ridges. Ribbon terrain can be found both in large crustal plateaus & within tessera inliers.
-   - **S‑C Terrain** is named such due to its geometric similarity to S‑C tectonic fabrics on Earth. Consists of 2 main structures: synchronous folds & small, 5 ‑ 20 km long graben that cross cut the folds perpendicularly. S‑C terrain indicates a simple, rather than complex deformation history in which deformation due to widespread motion on Venus is widely distributed. This type of terrain also indicates that strike‑slip movement on Venus's surface is possible.
-   - **Basin & Dome Terrain**, also known as honeycomb terrain, consists of curved ridges & troughs that form a pattern analogous to an egg carton. These structures represent multiple phases of deformation, & are considered the most complex appearing style of tessera. Basin & dome terrain is typically found within the center of crustal plateaus.
-   - **Star Terrain** is composed of multiple graben & fractures that trend in many directions, but radiate in a star‑like pattern. This pattern is thought to be due to doming underneath previously deformed & fractured areas, in which the local uplift causes the radiating pattern.
+   - **Fold Terrain** — linear fabrics composed of long ridges & valleys (≥ 100 km long), that are cross cut by minor extensional fractures that run perpendicular to the fold axes of the ridges. This likely formed due to unidirectional contraction.
+   - **Lava Flow Terrain** — resemblance to Pahoehoe flows on Earth with long curving ridges. It's thought that this terrain may be formed due to displacement & deformation due to movement of the material beneath these crustal pieces.
+   - **Ribbon Terrain** — ribbons & folds that are typically orthogonal to one another. Ribbons are long & narrow extensional troughs that are separated by narrow ridges. Can be found both in large crustal plateaus & within tessera inliers.
+   - **S‑C Terrain** — a geometric similarity to S‑C tectonic fabrics on Earth. Consists of 2 main structures: synchronous folds, & small (5 ‑ 20 km long) graben that cross cut the folds perpendicularly. S‑C terrain indicates a simple deformation history in which deformation due to widespread motion on Venus is widely distributed. This terrain also indicates that strike‑slip movement on Venus surface is possible.
+   - **Basin & Dome Terrain**, or Honeycomb — curved ridges & troughs formes a pattern analogues to an egg carton. They represent multiple deformation phases. Basin & dome terrain is typically found within the center of crustal plateaus.
+   - **Star Terrain** — composed of multiple graben & fractures that trend in many directions, but radiate in a star‑like pattern. This pattern is thought to be due to doming underneath previously deformed & fractured areas, in which the local uplift causes the radiating pattern.
 
 
 
@@ -168,8 +154,8 @@ Individual patterns of Tessera Terrain record the variations in interactions of 
 
 **Orbiter:**
 
-   1. Heat reflecting issues on the Venus orbit H < 700 km.
-   1. Commonly spacecraft for Venus and [Mars](mars.md) can be almost the same.
+   1. Heat reflecting issues on the Venus orbit H ≤ 700 km.
+   1. Commonly SC for Venus & [Mars](mars.md) can be almost the same.
 
 **Lander:**
 
@@ -177,16 +163,16 @@ Individual patterns of Tessera Terrain record the variations in interactions of 
 
 **Earth:**
 
-   1. Launch window opens roughly every 19 months (1 year 7 months).
+   1. Launch window opens roughly every 19 months (1 y 7 m).
    1. **Testing equipment:**
       - Hi‑pressure vessels:
          - [AVEC](avec.md) (V = 0.0007 m³, [JHU APL](03_jhuapl.md)),
          - [GEER](geer.md) (V = 0.811 m³ and 0.004 m³, [GRC](03_grc.md)).
 
 **Table.** [Dependency between the complexity, price and science impact ❐](f/aob/venus/cps_dependency.odt).  
-• A swamp of each position basically adds +1 ‑ +2 to complexity and science impact.  
-• A long‑lived option for a lander basically adds +2 to complexity and +1 to science impact.  
-• Variable altitude‑latitude (v.a.‑l) — means an SC can change direction despite of outer forces.
+• A swamp of each position basically adds +1 ‑ +2 to complexity & science impact.  
+• A lander long‑lived option basically adds +2 to complexity & +1 to science impact.  
+• Variable altitude‑latitude (v.a.‑l) — a SC can change direction despite of outer forces.
 
 ![](f/aob/venus/cps_dependency.png)
 
@@ -255,7 +241,7 @@ Individual patterns of Tessera Terrain record the variations in interactions of 
       1. [Noam Izenberg](02_izenberg_001.md)
       1. [Tibor Kremic](02_kremic_001.md)
       1. [Sanjay Limaye](02_limaye_001.md)
-   - **Persons of the past:**
+   - **In the past:**
       1. None.
 
 
@@ -263,7 +249,7 @@ Individual patterns of Tessera Terrain record the variations in interactions of 
 <p style="page-break-after:always"> </p>
 
 ### Projects
-See also section «[Projects](project.md)».
+See also section “[Projects](project.md)”.
 
 **Hypothetical and historical:**
 
@@ -276,17 +262,17 @@ See also section «[Projects](project.md)».
 
 |*Type*|*Unit*|
 |:--|:--|
-| **Venus rovers** | [AREE](aree.md) (concept of 2016) <mark>TBD</mark> ┊ [Zephyr](zephyr.md) (concept of 2012) <mark>TBD</mark> |
-| **Venus missions** | <mark>TBD</mark> HAVOC ┊ HOVER ┊ VICI ┊ VISAGE ┊ VISE |
-| **Flybys** | <mark>TBD</mark> Europa Clipper ┊ Mercury-P ┊ Laplace-P ┊ NASA Uranus orbiter & probe |
-| **Standalone** | [LLISSE](llisse.md) <mark>TBD</mark> ┊ [MEVC](mevc.md) <mark>TBD</mark> ┊ [SAEVe](saeve.md) <mark>TBD</mark> ┊ [Solar Aircraft](solar_aircraft.md) by GRC <mark>TBD</mark> ┊ [VAMP](vamp.md) <mark>TBD</mark>
+| **Fly‑bys** | Europa Clipper ┊ Mercury-P ┊ Laplace-P ┊ NASA Uranus orbiter & probe |
+| **Missions** | HAVOC ┊ HOVER ┊ VICI ┊ VISAGE ┊ VISE |
+| **Rovers** | [AREE](aree.md) (concept of 2016) ┊ [Zephyr](zephyr.md) (concept of 2012) |
+| **Standalone** | [LLISSE](llisse.md) ┊ [MEVC](mevc.md) ┊ [SAEVe](saeve.md) ┊ [Solar Aircraft](solar_aircraft.md) by GRC ┊ [VAMP](vamp.md) |
 
 **Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV; **Draft** — minimum for working with object.)<br> (**C** — contact explor.; **D** — distant explor.; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
 
 <small>
 
 |*✔*|*Mission/SC (index)*|*Date (UTC)*|*C*|*D*|*F*|*H*|*S*|*X*|*Notes*|
-|:--:|:--|:--|:--:|:--:|:--:|:--:|:--:|:--|:--|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |—|**Proposed:**|—|—|—|—|—|—|—|—|
 |US| [DAVINCI / DAVINCI+](davinci.md) | … ||D||||| <mark>TBD</mark> concept of 2015 |
 |US| [Cubesat UV Experiment](cubesat_uv_experiment.md) (CUVE) | … ||D||||| concept of 2017 |
@@ -346,15 +332,13 @@ See also section «[Projects](project.md)».
 ## Science & tech targets
 Just a preliminary list of the Venus targets/explorations. Based on the investigations of [VEXAG ⎆](https://www.lpi.usra.edu/vexag/), Venera‑D work‑group (LAV, IKI RAS, NASA, etc.) and anyone who can. The idea is to prepare a brief systematized list of the Venus targets & explorations of the retired, active, proposed SC suitable for scientists, & engineers, & managers, & passers by. The one which is able in the same time to tell about what was done & in what volume, what is processing now & why it's so cool, what is proposed & why it's so important. Something like a bridge between scientists & other humanity just to show that all of these complex scientific terms can be described with some statistic terms without a need to read a lot of literature or trust their words. Soon there will be something new, for example, links between targets/explorations, SC, & a couple of brief description of the each one current state.
 
-Targets & explorations for Venus, including [VEXAG](vexag.md) activity. Comments:
+Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief — 98 targets in total (34 tech., 64 scientific) consisting of: 38 never occured (19 tech., 19 scientific), 53 was tried (11 tech., 42 scientific), 7 mostly done (4 tech., 3 scientific). Comments:
 
    - **T** — technical; **Draft** — minimum for working with object. **C** — contact exploration; **D** — distant exploration; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
       - Soil/surface — **Sc** composition, **Si** imaging, **Sm** mapping, **Ss** samples.
-
-In brief — 98 targets in total (34 tech., 64 scientific) consisting of: 38 never occured (19 tech., 19 scientific), 53 was tried (11 tech., 42 scientific), 7 mostly done (4 tech., 3 scientific).
 
 <small>
 
@@ -364,7 +348,7 @@ In brief — 98 targets in total (34 tech., 64 scientific) consisting of: 
 |EVN‑080||Albedo: changes in time| Gi ||D|F|||
 |EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|  ||D||||
 |EVN‑037||Atmosphere: cause of the retrograde moving|  ||D||||
-|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the supercritical fluid in the lower layers| Ac, Ai, Am, At ||D||||
+|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid| Ac, Ai, Am, At ||D||||
 |EVN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
 |EVN‑033||Atmosphere: nature of it's escape|  ||D||||
 |EVN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
@@ -383,9 +367,9 @@ In brief — 98 targets in total (34 tech., 64 scientific) consisting of: 
 |EVN‑059|T|Exploration: with [rover](rover.md)| All A/S |C|||||
 |EVN‑081|T|Extreme environment electronics|  |C|D|F|||
 |EVN‑094|T|High temperature electronics|  |C|D|F|||
-|EVN‑066|T|Human on the surface|  |C|||H||
-|EVN‑065|T|Human on the Venus orbit|  ||D||H||
-|EVN‑060|T|Manned fly‑by|  ||D|F|H||
+|EVN‑060|T|Human: manned fly‑by|  ||D|F|H||
+|EVN‑065|T|Human: on the orbit|  ||D||H||
+|EVN‑066|T|Human: on the surface|  |C|||H||
 |EVN‑043||Mechanisms of the mantle's convection|  ||D|F|||
 |EVN‑048||Nature & sources of the greenhouse effect|  ||D|F|||
 |EVN‑049||Nature of the thermal tides|  ||D||||
@@ -394,9 +378,9 @@ In brief — 98 targets in total (34 tech., 64 scientific) consisting of: 
 |EVN‑064|T|Planetary terraforming|  |C|||H||
 |EVN‑045||Surface: nature of the tessera|  ||D||||
 |EVN‑061|T|Surface: sample return|  |C||||S|
+|EVN‑047||Surface: structure‑composition connection of different regions & Venus evolution|  |C|||||
 |EVN‑088|T|Surface: subsurface investigations|  |C|||||
 |EVN‑086|T|Surface: tessera investigations, close|  |C|||||
-|EVN‑047||Surface: connection between the structure & composition of different regions & Venus evolution|  |C|||||
 |EVN‑039||Was the Venus inhabited & for how long?|  |C|D||||
 |EVN‑040||Were there oceans & why has they gone?|  |C|D|F|||
 |•|•|**Was tried:**|•|•|•|•|•|•|
@@ -565,7 +549,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
          - lander (large, ≤ 3 hours),
          - orbiter (large, medium, mini, ≤ 1 year).
       1. The length of the Venus's day & the tilt of the axis were precisely determined. Confirmed the Venus's retrograde rotation. The single search for organics was without success.
-      1. The gravitational field was measured fairly well (but not 100 %). It was found that if the planet has a magnetic field it is very weak (not within the sensitivity of the instruments), but it has a strong induced magnetic field (which is formed when the upper atmosphere of the planet interacts with the solar wind). The planet also has an electric field that is much stronger the Earth's one. This field is one of the reasons for the dissociation of water into oxygen & hydrogen & the removal of hydrogen into space. Since the planet does not have it's own magnetic field, there are no radiation belts, unlike the Earth. The absence of a magnetic field, as well as the absence of visible activity of the planet may indicate that the core of the planet has cooled & the mantle is not liquid enough (due to the lack of a lubricant — water) to reveal any activity.
+      1. The gravitational field was measured fairly well (but not 100 %). It was found that if the planet has a magnetic field it's very weak (not within the sensitivity of the instruments), but it has a strong induced magnetic field (which is formed when the upper atmosphere of the planet interacts with the solar wind). The planet also has an electric field that is much stronger the Earth's one. This field is one of the reasons for the dissociation of water into oxygen & hydrogen & the removal of hydrogen into space. Since the planet does not have it's own magnetic field, there are no radiation belts, unlike the Earth. The absence of a magnetic field, as well as the absence of visible activity of the planet may indicate that the core of the planet has cooled & the mantle is not liquid enough (due to the lack of a lubricant — water) to reveal any activity.
       1. Precise places investigations either by accurate landing or by moving to them after the landing.
    - **Atmosphere:**
       1. Almost all of the meteorological parameters (temperature, pressure) & atmospheric density were measured. All these parameters were measured as a function of height. The winds were measured, & the gradation was determined by both altitude & latitude; near the surface the wind speed is lower. Also, the wind speed is lower closer to the equator. The pole vortices were discovered.
@@ -577,12 +561,11 @@ This list of tasks is approximate. The main completed tasks are listed here. For
       1. The planet surface is quite young (about 500 M years), but it doesn't show signs of activity.
       1. No volcanoes were detected directly, only (sub)surface areas with high temperature were detected. Also, during a long mission, a surge of volcanic gas SO₂ was detected, which together with the previous point can indirectly confirm the assumption of the presence of volcanism on the planet, but only an assumption.
 
-**What to do/explore next**  
-<mark>TBD: maybe, a bit of priorities here?</mark>
+**What to do/explore next.** <mark>TBD: maybe, a bit of priorities here?</mark>
 
    - **General:**
-      1. Search for life or it's traces. At an altitude of 50 km the conditions of Venus are similar to the Earth's ones.
-      1. Study of the internal structure of the planet. Parameters of the core, mantle, crust. Their interaction & influence on the appearance of the planet.
+      1. Search for life or it's traces. At H = 50 km the conditions are similar to the Earth's ones.
+      1. Study of the planet's internal structure: parameters of the core, mantle, crust, their interaction & influence on the planet appearance.
       1. Study of the mantle can answer questions about the planet's tectonics & volcanism (activity), the content of CO₂ & sulfur dioxide in the atmosphere.
       1. Venusian [SC](sc.md) types:
          - **balloon:** gigantic, large, maneuverable, manned;
@@ -600,10 +583,10 @@ This list of tasks is approximate. The main completed tasks are listed here. For
       1. The interaction of the atmosphere & the surface (weathering? chemical reactions? or there is no such interaction?).
       1. What processes occur in the planet's atmosphere?
    - **Surface:**
-      1. How has the lack of water affected the appearance of the planet now? What was her role in the early days? Were there oceans on Venus? How / why did they disappear?
+      1. How has the lack of water affected the appearance of the planet now? What was her role in the early days? Were there Venus oceans? How/why did they disappear?
       1. Surface structures. Reasons of their formation, is it still going on? What are tessera?
       1. Tessera investigations: Idunn Mons, lmdr Regio (Sandel crater), etc.
-      1. When studying Venus, it is necessary to make collection & analyze soil samples in different places & in different surface structures. A planet rover would be suitable for such research. A return of the soil samples to Earth would be nice.
+      1. To analyze soil samples from different places with different surface structures. A rover is suitable for this. A soil samples return would be nice.
       1. Why is there no tectonics similar to Earth's?
    - **It's not known if it's possible in either technical or financial ways.**
       1. Huge manned atmospheric balloons.
@@ -620,9 +603,9 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑001.** Atmosphere: model, draft.
 
    1. **[Mariner‑2](mariner_2.md)** (1962.08.27). 1st Venusian observation. Found a hot surface & cool clouds.
-   1. **[Venera‑4](venera_4.md)** (1967.06.12). Direct measurements proving the hot surface. The SC was destroyed at 262 °C & 2.2 MPa, the atmo density was higher than expected. The measured composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O vapor 0.1 ‑ 1.6 %.
+   1. **[Venera‑4](venera_4.md)** (1967.06.12). Direct measurements proving the hot surface. The SC was destroyed at 262 °C & 2.2 MPa, the atmo density was higher than expected. Atmo composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %.
    1. **[Mariner‑5](mariner_5.md)** (1967.06.14). Radio occultation data helped to understand the temp./pres. data from the Venera 4, so Venus have a very hot surface & the very dense atmo.
-   1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Landers during the descent (55 ‑ 18 km) measured the temperature (25 ‑ 320 °C), pressure (0.05 ‑ 2.7 MPa), illumination, chemical composition: CO₂ 97 %, N₂ 2 %, O₂  ≤ 1 %, H₂O vapor traces.
+   1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Landers during the descent (55 ‑ 18 km) measured the temperature (25 ‑ 320 °C), pressure (0.05 ‑ 2.7 MPa), illumination, chemical composition: CO₂ 97 %, N₂ 2 %, O₂  ≤ 1 %, H₂O traces.
    1. **[Venera‑7](venera_7.md)** (1970.08.17). Found the 474 °C & 9.2 MPa, & the atmo is CO₂ 97 %.
    1. **[Venera‑8](venera_8.md)** (1972.03.27). 1st atmo high‑altitude profile, wind speed & luminous flux in H = 55 ‑ 0 km. This explained the nature of high temperature due to the greenhouse effect & the presence of a sub‑cloud haze, & estimated the location of clouds.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Detected 4 cloud layers that never get mixed, equatorial areas of high pressure with solar heat generated convective flows created vortices tending toward the poles; the cloud speed ~ 100 m/s, 200 m/s in the polar regions, & ultrasonic at the poles.
@@ -654,7 +637,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 **EVN‑003 (Т).** Exploration: from inside of atmosphere.
 
-   1. **[Venera‑4](venera_4.md)** (1967.06.12). 1st entrance into the atmo, measurements during the descent (temp./pres., composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O vapor 0.1 ‑ 1.6 %) for 93 min partially with the parachute. SC failed at 262 °C & 2.2 MPa.
+   1. **[Venera‑4](venera_4.md)** (1967.06.12). 1st entrance into the atmo, measurements during the descent (temp./pres., composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %) for 93 min partially with the parachute. SC failed at 262 °C & 2.2 MPa.
    1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Venera 5 lander sent readouts for 53 min & failed at 320 °C & 2.61 MPa; Venera 4 results confirmed. Venera 6 lander — readouts for 51 min & failed at H = 10 ‑ 12 km. The photometer failed, the atmo sampled at 0.2 & 1 MPa.
    1. **[Venera‑7](venera_7.md)** (1970.08.17). Atmo measurements during the descent from 60 km, CO₂ 97 %. 53 min of transmitted information, incl. ~ 20 min from the surface.
    1. **[Venera‑8](venera_8.md)** (1972.03.27). Accurate in situ measurements of atmo temp./pres. tied to the altitude, wind & light, structure of the clouds.
@@ -758,7 +741,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). The photometers registered no atmo glow.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). 1st Venus image: an illuminated arc of clouds over the north pole.
-   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Clarified the cause of the Venus ashy glow: because of the light of strongly ionized atoms of O & CO, it's a close relative of Earth's auroras, only «smeared» across the surface due to the planet's lack of a magnetic field.
+   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Clarified the cause of the Venus ashy glow: because of the light of strongly ionized atoms of O & CO, it's a close relative of Earth's auroras, only “smeared” across the surface due to the planet's lack of a magnetic field.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons at H = 53 ‑ 55 km tracked along the flight route the glow on the night side.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Displayed the surface brightness distribution in search of volcanic activity, studied the air glow, & the UV‑absorption on the clouds top.
    1. ••• **Future/proposed missions:** •••
@@ -859,19 +842,19 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 **EVN‑014.** Atmosphere: composition.
 
-   1. **[Venera‑4](venera_4.md)** (1967.06.12). 1st Venusian atmo chemical analysis: primarily CO₂ with a few percent of N & ≤ 1% of O & H₂O vapors (CO₂ 90 ‑ 93 %, O 0.4 ‑ 0.8 %, N 7 %, H₂O vapor 0.1 ‑ 1.6 %). The outer atmo layer contained very little H & no atomic O.
+   1. **[Venera‑4](venera_4.md)** (1967.06.12). 1st Venusian atmo chemical analysis: primarily CO₂ with a few percent of N & ≤ 1% of O & H₂O vapors (CO₂ 90 ‑ 93 %, O 0.4 ‑ 0.8 %, N 7 %, H₂O 0.1 ‑ 1.6 %). The outer atmo layer contained very little H & no atomic O.
    1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Confirmed CO₂ composition of the atmo: CO₂ 97 %, N 2 %. A sensor with a sensitivity limit of 0.1 % of O could not detect anything.
    1. **[Venera‑7](venera_7.md)** (1970.08.17). Measured the atmo is CO₂ 97 %.
-   1. **[Venera‑8](venera_8.md)** (1972.03.27). The atmo: CO₂ 97 %, N 2 %, H₂O vapor 0.9 % & less than 0.15 % O. The ammonia test: positive result of 0.1 ‑ 0.01 % at H = 44 ‑ 32 km, which was due to H₂SO₄, which also gave a positive reaction to the indicator. 1st pointed out the possibility of the H₂SO₄ presence. This explained why the clouds were so waterless but could still form droplets.
+   1. **[Venera‑8](venera_8.md)** (1972.03.27). The atmo: CO₂ 97 %, N 2 %, H₂O 0.9 % & less than 0.15 % O. The ammonia test: positive result of 0.1 ‑ 0.01 % at H = 44 ‑ 32 km, which was due to H₂SO₄, which also gave a positive reaction to the indicator. 1st pointed out the possibility of the H₂SO₄ presence. This explained why the clouds were so waterless but could still form droplets.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Revealed the composition of Venus’ atmo.
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Analyzed the chemical & isotopic composition of the atmo.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Determined the composition of the upper atmo.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Studied the structure & composition of the atmo down to the surface, the nature & composition of the clouds, the radiation field & energy exchange in the lower atmo, & local information on atmo circulation patterns.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Accurate elemental measurements: the chemical & isotopic composition.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Atmo composition: CO₂ 97 %, molecular H 4.0 ± 0.3 %, noble gases (Ar, Ne, Kr, Xe), H₂O vapor 0.2 %. Showed an increased neon content at H = 26 ‑ 0 km. The ratio of 40Ar/36Ar is 4 times lower than the Earth ones. Recorded several new & refined contents of previously detected atmo gas constituents.
-   1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). CO₂, H₂O vapor, SO₂ & H₂SO₄ aerosols were well distinguished on the IR.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Atmo composition: CO₂ 97 %, molecular H 4.0 ± 0.3 %, noble gases (Ar, Ne, Kr, Xe), H₂O 0.2 %. Showed an increased neon content at H = 26 ‑ 0 km. The ratio of 40Ar/36Ar is 4 times lower than the Earth ones. Recorded several new & refined contents of previously detected atmo gas constituents.
+   1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). CO₂, H₂O, SO₂ & H₂SO₄ aerosols were well distinguished on the IR.
    1. **[Magellan](magellan.md)** (1989.05.04). Measured the composition of the upper atmo.
-   1. **[Messenger](messenger.md)** (2004.08.03). Visible & NIR imaging data of the upper atmo. UV & X‑ray spectrometry to characterize the composition: CO₂ 97 %, N 2 %, H₂O vapor 0.9 % & less than 0.15 % oxygen. The presence of H₂SO₄ in the clouds.
+   1. **[Messenger](messenger.md)** (2004.08.03). Visible & NIR imaging data of the upper atmo. UV & X‑ray spectrometry to characterize the composition: CO₂ 97 %, N 2 %, H₂O 0.9 % & less than 0.15 % oxygen. The presence of H₂SO₄ in the clouds.
    1. ••• **Future/proposed missions:** •••
       1. **[DAVINCI](davinci.md)** (…). To study the atmo (lower layers) & its composition during the descent.
       1. **[EnVision](envision.md)** (…). Repeated observations of the specific targets (~20 % of the surface) with the wide range of measurements to fully characterize them: SO₂, H₂O, D/H ratio research.
@@ -1044,7 +1027,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venera‑7](venera_7.md)** (1970.08.17). From the lander's rapid halt it was concluded that the SC had hit a solid surface with low levels of dust (the consistency is between sand & volcanic tuff).
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Determined topography & surface characteristics when the SC was closer than 4 700 km over the planet. A 20 W S‑band signal was sent to the surface that reflected it, with the probe analyzing the echo. Resolution at periapsis was 23 × 7 km.
-   1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). Radar survey & mapping, measurements of the surface relief & properties, & new types: «Coronae» — extensive round or oval formations with concentric rings; «Pancake» — flat almost circular elevations; «Arachnoids» — domes with radial cracks of arachnid shape; «Tessera» — vast areas with long mountain ranges & valleys.
+   1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). Radar survey & mapping, measurements of the surface relief & properties, & new types: “Coronae” — extensive round or oval formations with concentric rings; “Pancake” — flat almost circular elevations; “Arachnoids” — domes with radial cracks of arachnid shape; “Tessera” — vast areas with long mountain ranges & valleys.
    1. **[Magellan](magellan.md)** (1989.05.04). High‑quality terrain images, evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, & pancake‑shaped domes.
    1. ••• **Future/proposed missions:** •••
       1. **[EnVision](envision.md)** (…). The surface of Venus is not organised into large plates but is partitioned into low strain areas bounded by narrow margins of high strain; this indicates a young surface (≤ 600 ‑ 800 Ma). SC to map the surface composition/texture, & search for active volcanism.
@@ -1107,7 +1090,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 **EVN‑029.** Is Venus geologicaly active?
 
-   1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Traces of tectonic activity were found (less active than on Earth). The volcanic activity of Venus evidenced by the «youth» of some relief details.
+   1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Traces of tectonic activity were found (less active than on Earth). The volcanic activity of Venus evidenced by the “youth” of some relief details.
    1. **[Magellan](magellan.md)** (1989.05.04). No visible outpourings of lava or typical signs of terrestrial plate tectonics (continental drift & basin floor spreading) been detected. The tectonics is dominated by a system of global rift zones & numerous broad, low dome structures (coronae), produced by the upwelling & subsidence of mantle magma.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Indirect evidence of a volcanic eruption has come from large atmo changes in SO₂ (volcanic gases released by a large eruption & floating upward).
    1. ••• **Future/proposed missions:** •••
@@ -1146,7 +1129,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 <p style="page-break-after:always"> </p>
 
-**EVN‑032.** Atmosphere: characteristics of the CO₂ & N₂ in state of the supercritical fluid in the lower layers.
+**EVN‑032.** Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.
 
    1. None.
    1. ••• **Future/proposed missions:** •••
@@ -1284,10 +1267,10 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑042.** History & causes of the planet's volcanic & tectonic evolution.
 
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Discovered the ratio of 40Ar/36Ar isotopes is higher than the Earth's (≥ 50 ‑ 500 times) which indicates that the genesis of the Venus atmo is very different from that of Earth — it can be judged on the planet evolution & volcanic activity.
-   1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). ~ 150 craters were found in the studied area: a very young age of these formations, about 750 ± 250 millions of years, which was consistent with the idea of catastrophic geological processes, accompanied by the formation of large‑scale «bubbles» over the mantle plumes & changes in the tessera.
+   1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). ~ 150 craters were found in the studied area: a very young age of these formations, about 750 ± 250 millions of years, which was consistent with the idea of catastrophic geological processes, accompanied by the formation of large‑scale “bubbles” over the mantle plumes & changes in the tessera.
    1. **[Magellan](magellan.md)** (1989.05.04). Detected that planetary surface is young, ~ 500 million years old, some events 500 million years ago resurfaced the planet. But there's no visible outpourings of lava. The tectonics is dominated by a system of global rift zones & numerous broad, low dome structures (coronae), produced by the upwelling & subsidence of mantle magma.
    1. ••• **Future/proposed missions:** •••
-      1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet's ridged terrain — «tessera» to explore its origin & tectonic, volcanic, & weathering history.
+      1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet's ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[EnVision](envision.md)** (…). To image faults, stratigraphy & weathering, to identify structural relationships & geological history. To investigate past geologic processes, to analyze the gravity field together with the topography gives insights on the lithospheric & crustal structure, allowing to better understand Venus geological evolution.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). The ability to analyze both rocks & soils & to drill to depths within pristine rocks holds the key to past changes in atmo conditions, volcanism, climate.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). As the SC floats (~3 km above the surface) between the 2 surface sites, it offers new, high spatial resolution, views of the surface at (near)IR. This will provide insights into the processes that have contributed to the surface evolution.
@@ -1349,7 +1332,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 <p style="page-break-after:always"> </p>
 
-**EVN‑047.** Surface: connection between the structure & composition of different regions & Venus evolution.
+**EVN‑047.** Surface: structure‑composition connection of different regions & Venus evolution.
 
    1. None.
    1. ••• **Future/proposed missions:** •••
@@ -1779,11 +1762,11 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑7](venera_7.md)** (1970.08.17). Shown that the atmo is CO₂ 97 %.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Identified the atmo chemical substances. An increased concentration of atomic oxygen in the upper atmo was detected.
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Studied the atmo chemical composition at H = 63 ‑ 34 km, measured atmo chemicals including HCl, HF, Br, I.
-   1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Atmo chemical composition: CO₂ 97 %, molecular nitrogen 4.5 ± 0.5 %, Ar, Kr, Ne, H₂O vapor, SO₂, CO, molecular O, COS, & H₂S. Obtained the isotopic ratios: Carbon (13C/12C), Argon (40Ar/36Ar), Argon (38Ar/36Ar).
+   1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Atmo chemical composition: CO₂ 97 %, molecular nitrogen 4.5 ± 0.5 %, Ar, Kr, Ne, H₂O, SO₂, CO, molecular O, COS, & H₂S. Obtained the isotopic ratios: Carbon (13C/12C), Argon (40Ar/36Ar), Argon (38Ar/36Ar).
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Atmo chemical composition: CO₂ 97 %, molecular H 4.0 ± 0.3 %, Ar, Ne, Kr, Xe, H₂S, & COS, molecular O, & SF₆, H₂O 0.2 % (at 48 km), the 40Ar/36Ar is 4 times lower than the Earth's.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Measured the cloud layer & atmo chemical composition, the concentration of H₂SO₄ aerosol, & the presence of S, Cl, & probably P.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Detected the presence of a tenuous layer of ozone, which is located at H = 90 ‑ 120 km, compared with 15 ‑ 50 km on Earth, & is confined to a thin layer (5 ‑ 10 km across). The ozone layer is tenuous — up to 1 000 times less dense than on Earth.
-   1. **[Akatsuki](akatsuki.md)** (2010.05.21). Observed the lower cloud layer & the near‑surface part, & comparing the intensity of radiation at different lengths of IR waves, it is possible to study the distribution of H₂O vapor, vertical profiles of the H₂SO₄ mist, SO₂ distribution.
+   1. **[Akatsuki](akatsuki.md)** (2010.05.21). Observed the lower cloud layer & the near‑surface part, & comparing the intensity of radiation at different lengths of IR waves, it's possible to study the distribution of H₂O vapor, vertical profiles of the H₂SO₄ mist, SO₂ distribution.
    1. ••• **Future/proposed missions:** •••
       1. **[EnVision](envision.md)** (…). To fully characterize specific targets: SO₂, H₂O, D/H ratio. 1st opportunity to distinguish between gaseous & liquid (droplets) H₂SO₄ concentration (H = 45 ‑ 55 km).
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To perform in situ measurements of noble gases & trace gases, & the atmo physical characteristics during the descent & along the air traverse.
@@ -1895,7 +1878,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). The tessera were the oldest areas of the planet's crust & were often overlapped by lava flows.
    1. ••• **Future/proposed missions:** •••
-      1. **[DAVINCI](davinci.md)** (…). To take the photos of the ridged terrain — «tessera» to explore its origin & tectonic, volcanic, & weathering history.
+      1. **[DAVINCI](davinci.md)** (…). To take the photos of the ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[EnVision](envision.md)** (…). To provide detailed tessera morphology & tectonic features, coupled with characterization of surface emissivity & subsurface features.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). Study of tessera (visualization) with high spatial res will allow a new look at the processes that contributed to the surface evolution.
 
@@ -2008,7 +1991,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Transmitted 22 panoramas: 8 b&w, 5 through red, 5 through green, & 4 through a blue light filter.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Global imaging in the visible, UV, NIR spectral ranges. Displayed the brightness distribution of the surface in search of volcanic activity, monitors the air glow, studying the spread of an UV absorption.
    1. ••• **Future/proposed missions:** •••
-      1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet's ridged terrain — «tessera» to explore its origin & tectonic, volcanic, & weathering history.
+      1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet's ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To perform images of the surface on the way down.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). Remote study of tessera in optical wavelengths with high spatial res will for a new look at the processes that contributed to the surface evolution.
       1. **[Venus Observing System](venus_observing_system.md)** (…). Potential [SAEVe](saeve.md) instrument is Descent/Surface Imager.
@@ -2035,7 +2018,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. None.
    1. ••• **Future/proposed missions:** •••
-      1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet's ridged terrain — «tessera» to explore its origin & tectonic, volcanic, & weathering history.
+      1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet's ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). The ability to analyze rocks & soils & to drill to depths within pristine rocks holds the key to past changes in atmo conditions, volcanism, & climate.
 
 
@@ -2064,7 +2047,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Zond‑1](zond_1.md)** (1964.04.02). Measured the interplanetary plasma, cosmic rays, & atomic H density along the Lyman‑alpha lines throughout the flight & until the failure.
    1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Provided data of the solar wind in the vicinity of Venus & its interaction with the planet.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). 1st in situ solar wind data from inside the Venus orbit.
-   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Analyzed thermal radiation of the planet & its plasma environment, the cause of the ashy glow of Venus was clarified — it turned out all because of the light of strongly ionized atoms of O & CO — the ashy light is a close relative of Earth's auroras «smeared» across the surface due to the lack of a magnetic field.
+   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Analyzed thermal radiation of the planet & its plasma environment, the cause of the ashy glow of Venus was clarified — it turned out all because of the light of strongly ionized atoms of O & CO — the ashy light is a close relative of Earth's auroras “smeared” across the surface due to the lack of a magnetic field.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Investigated the interaction of the solar wind with the ionosphere & the magnetic field in the vicinity of Venus.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Determined the effect of solar radiation & interplanetary space. Measured the atmo & solar wind interactions, & the penetration of the solar flow.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Studied the scattering & absorption of solar radiation in the atmo.

@@ -159,7 +159,7 @@
 <small>
 
 |*✔*|*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
-|:--:|:--|:--|:--:|:--:|:--:|:--:|:--:|:--|:--|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |—|**Proposed:**|—|—|—|—|—|—|—|—|
 |CN| [Chang'e-5](chang_e_5.md) |  ||||||| <mark>TBD</mark> |
 |CN| [Chang'e-4](chang_e_4.md) |  ||C||||| <mark>TBD</mark> |
@@ -272,7 +272,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑080||Albedo: changes in time| Gi ||D|F|||
 |EMN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|  ||D||||
 |EMN‑037||Atmosphere: cause of the retrograde moving|  ||D||||
-|EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the supercritical fluid in the lower layers| Ac, Ai, Am, At ||D||||
+|EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid| Ac, Ai, Am, At ||D||||
 |EMN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
 |EMN‑033||Atmosphere: nature of it's escape|  ||D||||
 |EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
@@ -291,9 +291,9 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑059|T|Exploration: with [rover](rover.md)| All A/S |C|||||
 |EMN‑081|T|Extreme environment electronics|  |C|D|F|||
 |EMN‑094|T|High temperature electronics|  |C|D|F|||
-|EMN‑066|T|Human on the surface|  |C|||H||
-|EMN‑065|T|Human on the Venus orbit|  ||D||H||
-|EMN‑060|T|Manned fly‑by|  ||D|F|H||
+|EMN‑066|T|Human: on the surface|  |C|||H||
+|EMN‑065|T|Human: on the orbit|  ||D||H||
+|EMN‑060|T|Human: manned fly‑by|  ||D|F|H||
 |EMN‑043||Mechanisms of the mantle's convection|  ||D|F|||
 |EMN‑048||Nature & sources of the greenhouse effect|  ||D|F|||
 |EMN‑049||Nature of the thermal tides|  ||D||||
@@ -303,7 +303,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑061|T|Surface: sample return|  |C||||S|
 |EMN‑088|T|Surface: subsurface investigations|  |C|||||
 |EMN‑086|T|Surface: tessera investigations, close|  |C|||||
-|EMN‑047||Surface: connection between the structure & composition of different regions & Venus evolution|  |C|||||
+|EMN‑047||Surface: structure‑composition connection of different regions & Venus evolution|  |C|||||
 |EMN‑039||Was the Venus inhabited & for how long?|  |C|D||||
 |EMN‑040||Were there oceans & why has they gone?|  |C|D|F|||
 |•|•|**Was tried:**|•|•|•|•|•|•|
