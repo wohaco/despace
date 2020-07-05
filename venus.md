@@ -9,11 +9,11 @@
 
 > <small>*Terms:* **Venus** — English term. **Венера** — Russian equivalent.</small>
 
-**Venus** (astro. ♀ [ ❐](f/aob/venus/venus_symbol_svg.png) — is the second planet from the Sun. Named after the Roman goddess of love & beauty. No moons. In ~ 3.5 billion years the [Earth](earth.md) may looks like Venus in terms of surface conditions.
+**Venus** (astro. ♀ [ ❐](f/aob/venus/venus_symbol_svg.png)) — is the second planet from the Sun. Named after the Roman goddess of love & beauty. No moons. In ~ 3.5 billion years the [Earth](earth.md) may looks like Venus in terms of surface conditions.
 
 [![](f/aob/universe/terrestrial_planet_size_comparisons_thumb.jpg)](f/aob/universe/terrestrial_planet_size_comparisons.png)
 
-It's one of the 4 terrestrial planets in the Solar System — it's a rocky body like Earth. It's similar to Earth in size & mass, & is often described as Earth's “sister” or “twin”. Its ∅ = 12 103.6 km (7 520.8 mi) — only 638.4 km (396.7 mi) less than Earth's — & its mass is 81.5 % of Earth; surface conditions differ radically from Earth's because its dense atmosphere is 96.5 % CO₂ & ~ 3.5 % N.
+It's one of the 4 terrestrial planets in the Solar System — it's a rocky Earth‑like body, similar in size & mass, & is often described as Earth's “sister” or “twin”. Its ∅ = 12 103.6 km (7 520.8 mi) — only 638.4 km (396.7 mi) less than Earth's — & its mass is 81.5 % of Earth; surface conditions differ radically from Earth's because its dense atmosphere is CO₂ 96.5 % & N ~ 3.5 %.
 
 |*Venus*|*Map*|*Map*|*Map*|
 |:--|:--|:--|:--|
@@ -34,7 +34,7 @@ And a bit of animation.
 |:--|:--|
 |Breaking to the orbit| no more than 10 ‑ 15 min |
 |Distance from Earth| 38 ‑ 261 mega km |
-|Flight from Earth| 3.5 ‑ 6.1 months w/ LPS (109 ‑ 144 days) |
+|Flight from Earth| 3.5 ‑ 6.1 months w/ [LPS](ps.md) (109 ‑ 144 days) |
 |Signal from Earth| 2.1 ‑ 14.5 min |
 |Velocity from Earth| 3.5 ‑ 5 km/s |
 |**Orbits:**|• • •|
@@ -68,7 +68,7 @@ And a bit of animation.
 |[Surface gravity](g.md)| 8.87 m/s² (0.904 Earth's) |
 |Volume (V)| 9.38·10¹¹ km² (0.857 Earth's) |
 |**Temperature & atmosph.:**|• • •|
-|[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 kg/m³.<br> **Pressure:** 9.3 MPa (93 bar).<br> **Winds:** 0.3 ‑ 1 m/s (surface); up to 100 m/s (20 ‑ 60 km). |
+|[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 kg/m³.<br> **Pressure:** 9.3 MPa (93 bar), surface.<br> **Winds:** 0.3 ‑ 1 m/s (surface); up to 100 m/s (65 km). |
 |[Illumination](illum.md)| 200 (5.5°) ‑ 3 000 (90°) lx (surface, 0.2 Earth's) |
 |Radiation| <mark>TBD</mark> |
 |Temperature| 737 К (464 °C) near surface |
@@ -126,7 +126,7 @@ Common areas and possible landing sites.
 |[![](f/aob/venus/venus_map_tesserae2_thumb.jpg)](f/aob/venus/venus_map_tesserae2.jpg)|
 |![](f/aob/venus/venus_map_tesserae1.gif)|
 
-**Tessera** are regions of heavily deformed Venus terrain, characterized by ≥ 2 intersecting tectonic elements, high topography, & subsequent high radar backscatter. Tessera often represent the oldest material at any given location & are among the most tectonicly deformed terrains. Diverse types of tessera terrain exist. It's not currently clear if this is due to a variety in the interactions of the mantle with regional crustal or lithospheric stresses, or if these diverse terrains represent different locations in the timeline of crustal plateau formation & fall. Multiple models of tessera formation exist & further extensive surface studies are necessary to fully understand this complex terrain.
+**Tessera** are regions of heavily deformed Venus terrain, characterized by ≥ 2 intersecting tectonic elements, high topography, & subsequent high radar backscatter. Tessera often represent the oldest material at any given location & are among the most tectonicly deformed terrains. Diverse types of tessera terrain exist. It's not currently clear if this is due to a variety in the interactions of the mantle with regional crustal or lithospheric stresses, or if these diverse terrains represent different locations in the timeline of crustal plateau formation & fall. Multiple tessera formation models exist & further extensive surface studies are necessary to fully understand this complex terrain.
 
 Tessera represent an ancient time of globally thin Venus lithosphere. Tessera doesn't participate in the global resurfacing events. It was thought that the Tessera might form a global “onion skin” of sorts, & extended beneath Venus regional plains. However, the currently accepted models support regional formation. Multiple models have been put forward to explain the tessera formation. Models of formation by mantle downwelling & pulsating continents are the most currently accepted models. A model of formation due to a lava pond via bolide impact was put forth, although it hasn't currently gained much acception due to skepticism of the bolide impact ability to generate sufficient melt. A model of formation due to mantle plumes (upwelling) was persistent for many years, however, it has since been abandoned due to its contradictory prediction of sequences of extension versus the observed cross cutting relationships.
 
@@ -231,16 +231,16 @@ Individual tessera patterns record the variations in interactions of the mantle 
 **Persons:**
 
    - **Current:**
-      1. [Tibor Balint](02_balint_001.md)
-      1. [Mark Bullock](02_bullock_001.md)
-      1. [Paul Byrne](02_byrne_001.md)
-      1. [James A. Cutts](02_cutts_001.md)
-      1. [Thanasis Economou](02_economou_001.md)
-      1. [David Grinspoon](02_grinspoon_001.md)
-      1. [Jeffery L. Hall](02_hall_001.md)
-      1. [Noam Izenberg](02_izenberg_001.md)
-      1. [Tibor Kremic](02_kremic_001.md)
-      1. [Sanjay Limaye](02_limaye_001.md)
+      1. [Tibor Balint](02_balint1.md)
+      1. [Mark Bullock](02_bullock1.md)
+      1. [Paul Byrne](02_byrne1.md)
+      1. [James A. Cutts](02_cutts1.md)
+      1. [Thanasis Economou](02_economou1.md)
+      1. [David Grinspoon](02_grinspoon1.md)
+      1. [Jeffery L. Hall](02_hall1.md)
+      1. [Noam Izenberg](02_izenberg1.md)
+      1. [Tibor Kremic](02_kremic1.md)
+      1. [Sanjay Limaye](02_limaye1.md)
    - **In the past:**
       1. None.
 
@@ -349,7 +349,6 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 |EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|  ||D||||
 |EVN‑037||Atmosphere: cause of the retrograde moving|  ||D||||
 |EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid| Ac, Ai, Am, At ||D||||
-|EVN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
 |EVN‑033||Atmosphere: nature of it's escape|  ||D||||
 |EVN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
 |EVN‑082|T|Atmosphere: prolonged investigations on the H=0 ‑ 10 km| All A ||||||
@@ -391,6 +390,7 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 |EVN‑016||Atmosphere: clouds, their structure|  ||D|F|||
 |EVN‑011||Atmosphere: common circulation model|  ||D||||
 |EVN‑014||Atmosphere: composition|  ||D||F||
+|EVN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
 |EVN‑019||Atmosphere: energetic balance|  ||D||||
 |EVN‑008||Atmosphere: flashing on the night side|  ||D||||
 |EVN‑013||Atmosphere: illumination of the surface & the atmo layers|  ||D||||
@@ -438,13 +438,13 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 |EVN‑091||The loss rate of water from Venus|  ||D|F|||
 |EVN‑053||Traces of life in the atmosphere & on the surface|  |C|||||
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EVN‑001||Atmosphere: model, draft|  |C|D|F|||
+|EVN‑001||Atmosphere: preliminary model|  |C|D|F|||
 |EVN‑004|T|Exploration: from Earth|  ||D||||
 |EVN‑003|T|Exploration: from inside of atmosphere|  |C|D||||
 |EVN‑006|T|Exploration: from surface|  |C|||||
 |EVN‑005|T|Exploration: from Venusian orbit|  ||D|F|||
 |EVN‑090||Spin axis|  ||D||||
-|EVN‑002||Surface: map, draft|  |C|D||||
+|EVN‑002||Surface: preliminary map|  |C|D||||
 
 </small>
 
@@ -600,7 +600,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 ### EVN‑001 ‑ 009
 > There is an [archived version of this section](faq_venus_20200618.md): far more complex.
 
-**EVN‑001.** Atmosphere: model, draft.
+**EVN‑001.** Atmosphere: preliminary model.
 
    1. **[Mariner‑2](mariner_2.md)** (1962.08.27). 1st Venusian observation. Found a hot surface & cool clouds.
    1. **[Venera‑4](venera_4.md)** (1967.06.12). Direct measurements proving the hot surface. The SC was destroyed at 262 °C & 2.2 MPa, the atmo density was higher than expected. Atmo composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %.
@@ -612,8 +612,9 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Measured the clouds, atmo chemicals, surface of 485 °C & 9.1 MPa, & surface light levels, surface wind speed, pressure at all heights.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Measured the temperatures below the H = 50 km: 448 ‑ 459 °C on the surface, the ground pressure is 8.62 ‑ 9.45 MPa. The wind speed is 200 m/s in the middle cloud layer, 50 m/s at the lower layer, & 1 m/s at the ground.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Determined the atmo density gradient, the region of opacity, the chemical composition of cloud aerosols, the overall composition of the atmo, profiles of H₂O vapor content, horizontal wind speed & direction.
-   1. ••• **Future/proposed missions:** •••
-      1. None.
+   1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). A Northern hemisphere map in res 0.9 ‑ 2.5 km & 1 : 5 000 000, 25 % of the surface. Found various surface formations.
+   1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). The balloon & landers. Meteo parameters at H = 50 km: temp./pres., vertical wind gusts, visibility range in the clouds, average illumination, glow on the night side & the presence of light flashes from lightning.
+   1. ••• **Future/proposed missions:** ••• The preliminary model is finished on Vega‑1,2. Nowadays it's updated/clarified by the other EVN‑numbers.
 
 
 
@@ -621,11 +622,13 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 <p style="page-break-after:always"> </p>
 
-**EVN‑002.** Surface: map, draft.
+**EVN‑002.** Surface: preliminary map.
 
+   1. A bunch of observations from Earth. Created draft map, found large formations (Alpha Regio, Beta Regio, Maxwell Montes).
    1. **[Venera‑8](venera_8.md)** (1972.03.27). Created a profile of the surface heights (mountains of 1 & 2 km high, holes of 2 km deep & a gentle slope ascending to the landing site) with radio altimeter.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). 1st radar topographic map: 80 % of the surface (except the poles) with a resolution of 75 km.
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). A Northern hemisphere map in res 0.9 ‑ 2.5 km & 1 : 5 000 000, 25 % of the surface. Found various surface formations.
+   1. **[Magellan](magellan.md)** (1989.05.04). Images of 70 % of the surface from the orbit during the single Venus day. Lasted for 7 ones.
    1. ••• **Future/proposed missions:** •••
       1. None.
 
@@ -727,7 +730,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 **EVN‑007.** Atmosphere: connection between the topography & the atmo circulation.
 
-   1. None.
+   1. **[Akatsuki](akatsuki.md)** (2010.05.21). Detected a long (~ 10 000 km) standing wave that may affect the Venus day longevity periodically shortening/elongating it.
    1. ••• **Future/proposed missions:** •••
       1. None.
 
@@ -737,16 +740,15 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 <p style="page-break-after:always"> </p>
 
-**EVN‑008.** Atmosphere: flashings on the night side.
+**EVN‑008.** Atmosphere: nightglows.
 
    1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). The photometers registered no atmo glow.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). 1st Venus image: an illuminated arc of clouds over the north pole.
-   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Clarified the cause of the Venus ashy glow: because of the light of strongly ionized atoms of O & CO, it's a close relative of Earth's auroras, only “smeared” across the surface due to the planet's lack of a magnetic field.
-   1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons at H = 53 ‑ 55 km tracked along the flight route the glow on the night side.
-   1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Displayed the surface brightness distribution in search of volcanic activity, studied the air glow, & the UV‑absorption on the clouds top.
+   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Clarified the Venus ashy glow causes: because of the light of strongly ionized atoms of O & CO, it's a close relative of Earth's auroras, only “smeared” across the surface due to the planet's lack of a magnetic field.
+   1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Studied the air glow, & the UV‑absorption on the clouds top. Obtained O₂ and NO₂ nightglow distributions, discovered OH nightglow.
    1. ••• **Future/proposed missions:** •••
-      1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). To study the UV‑absorber distribution in the study of upper cloud chemistry & UV night glow.
-      1. **[Venus Observing System](venus_observing_system.md)** (…). To monitor the night side cloud IR opacity (1.0 ‑ 3.0 μm) using spectral imaging, & to observe the Venus night side continuously.
+      1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). To study the nightglows.
+      1. **[Venus Observing System](venus_observing_system.md)** (…). To observe the Venus night side continuously.
 
 
 
