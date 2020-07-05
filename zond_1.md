@@ -120,8 +120,8 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh_001.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics.
-      1. [Sergei Pavlovich Korolev](02_korolev_001.md) (Сергей Павлович Королёв) was a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
+      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics.
+      1. [Sergei Pavlovich Korolev](02_korolev1.md) (Сергей Павлович Королёв) was a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
       1. Aleksandr Konstantinovich Platonov (Александр Константинович Платонов) was a Soviet scientist, ballistics KIAM (ИПМ), analyzed the method of “solar correction”.
       1. Alfred Charles Bernard Lovell was an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft's disoriented nondirectional antenna.

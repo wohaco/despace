@@ -139,13 +139,13 @@ The VSR team noted that the Venus Sample Return mission concept would be potenti
 **PEOPLE:**
 
    - **Concept of 1986:**
-      1. [Blamont, Jacques](02_blamont_001.md) — CNES
+      1. [Blamont, Jacques](02_blamont1.md) — CNES
       1. Jones, Ross M. — JPL
-      1. [Nock, Kerry T.](02_nock_001.md) — JPL
+      1. [Nock, Kerry T.](02_nock1.md) — JPL
    - **Review of 2003:**
       1. Gershman, Bob
       1. Nilsen, Erik — CalTech
-      1. [Peterson, Craig E.](02_peterson_001.md) — Independent Researcher
+      1. [Peterson, Craig E.](02_peterson1.md) — Independent Researcher
       1. Sweetser, Theodore H. — NASA
    - **Review of 2019:**
       1. Koppel, Christophe — AAAF (Association Aéronautique et Astronautique de France), EOS (stands for: Exploration and Observation of Space)

@@ -27,36 +27,36 @@ In addition to interested members of the scientific community, each focus group 
 
 |*Steering Committe Member*|*Position/Roles*|*Tenure*|
 |:--|:--|:--|
-| [Darby Dyar](02_dyar_001.md) (Mt.Holyoke Coll.)  | Chair  | 12.2018 ‑ 12.2021  |
-| [Noam Izenberg](02_izenberg_001.md) (JHUAPL)  | Deputy Chair  | 12.2018 ‑ 12.2021  |
-| [Gary Hunter](02_hunter_001.md) (GRC)  | Lead, Technology Development<br> & Laboratory Measurements Focus Group  | 02.2017 ‑ 02.2020  |
-| [Allan Treiman](02_treiman_001.md) (LPI)  | Lead, Venus Goals & Exploration Sites Focus Group  | 06.2018 ‑ 02.2020  |
-| [Candace Gray](02_gray_001.md) (N.Mexico Univ.);<br> [Joseph O'Rourke](02_orourke_001.md) (Arizona Univ.)  | Co‑Leads Lead,<br> Early‑Career Scholars Outreach Focus Group  | 09.2018 ‑ 09.2021  |
-| [James Cutts](02_cutts_001.md) (JPL)  | Venus Exploration Roadmap Focus Group  | 11.2016 ‑ 11.2019  |
-| [Kevin McGouldrick](02_mcgouldrick_001.md) (LASP)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
-| [Lynn Carter](02_carter_001.md) (Arizona Univ.)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
-| [Robert E. Grimm](02_grimm_001.md) (SWRI)  | Past Chair  | 07.2016 ‑ 12.2018  |
-| [Colin Wilson](02_wilson_001.md) (Oxford Univ.)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
-| [Patrick McGovern](02_mcgovern_001.md) (LPI)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
-| [Emilie Royer](02_royer_001.md) (LASP)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
-| [Giada Arney](02_arney_001.md) (GFSC)  | At‑Large Member  | 09.2018 ‑ 09.2021  |
+| [Darby Dyar](02_dyar1.md) (Mt.Holyoke Coll.)  | Chair  | 12.2018 ‑ 12.2021  |
+| [Noam Izenberg](02_izenberg1.md) (JHUAPL)  | Deputy Chair  | 12.2018 ‑ 12.2021  |
+| [Gary Hunter](02_hunter1.md) (GRC)  | Lead, Technology Development<br> & Laboratory Measurements Focus Group  | 02.2017 ‑ 02.2020  |
+| [Allan Treiman](02_treiman1.md) (LPI)  | Lead, Venus Goals & Exploration Sites Focus Group  | 06.2018 ‑ 02.2020  |
+| [Candace Gray](02_gray1.md) (N.Mexico Univ.);<br> [Joseph O'Rourke](02_orourke1.md) (Arizona Univ.)  | Co‑Leads Lead,<br> Early‑Career Scholars Outreach Focus Group  | 09.2018 ‑ 09.2021  |
+| [James Cutts](02_cutts1.md) (JPL)  | Venus Exploration Roadmap Focus Group  | 11.2016 ‑ 11.2019  |
+| [Kevin McGouldrick](02_mcgouldrick1.md) (LASP)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
+| [Lynn Carter](02_carter1.md) (Arizona Univ.)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
+| [Robert E. Grimm](02_grimm1.md) (SWRI)  | Past Chair  | 07.2016 ‑ 12.2018  |
+| [Colin Wilson](02_wilson1.md) (Oxford Univ.)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
+| [Patrick McGovern](02_mcgovern1.md) (LPI)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
+| [Emilie Royer](02_royer1.md) (LASP)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
+| [Giada Arney](02_arney1.md) (GFSC)  | At‑Large Member  | 09.2018 ‑ 09.2021  |
 
 **Past VEXAG Co-Chairs (in chronological order):**
 
-   - [Janet Luhmann](02_luhmann_001.md), University of California, Berkeley, California
+   - [Janet Luhmann](02_luhmann1.md), University of California, Berkeley, California
    - Sushil Atreya, University of Michigan, Ann Arbor, Michigan
-   - [Ellen Stofan](02_stofan_001.md), Proxemy, Inc.
-   - [Suzanne Smrekar](02_smrekar_001.md), JPL, Pasadena, California
-   - [Sanjay Limaye](02_limaye_001.md), University of Wisconsin, Madison, Wisconsin
-   - [Lori Glaze](02_glaze_001.md), Goddard Space Flight Center
-   - [Bob Grimm](02_grimm_001.md), Southwest Research Institute
+   - [Ellen Stofan](02_stofan1.md), Proxemy, Inc.
+   - [Suzanne Smrekar](02_smrekar1.md), JPL, Pasadena, California
+   - [Sanjay Limaye](02_limaye1.md), University of Wisconsin, Madison, Wisconsin
+   - [Lori Glaze](02_glaze1.md), Goddard Space Flight Center
+   - [Bob Grimm](02_grimm1.md), Southwest Research Institute
 
 Janet Luhmann, and Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was formed in 2005 until November 2009. Ellen Stofan served as VEXAG Chair from November 2007 until spring 2009.
 
 **NASA and LPI contacts:**
 
-   - [Dr. Adriana Ocampo](02_ocampo_001.md), NASA Executive Officer for VEXAG
-   - [Dr. Allan Treiman](02_treiman_001.md), LPI
+   - [Dr. Adriana Ocampo](02_ocampo1.md), NASA Executive Officer for VEXAG
+   - [Dr. Allan Treiman](02_treiman1.md), LPI
 
 
 

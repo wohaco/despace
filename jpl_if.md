@@ -88,7 +88,7 @@ Design Study Capabilities include:
    - Trajectory Analysis & Visualization
 
 For more information please contact:  
-[Kelley Case](02_case_001.md), Concept Design Methods Chief, +1(818)354‑58‑70, <Kelley.Case@jpl.nasa.gov>.
+[Kelley Case](02_case1.md), Concept Design Methods Chief, +1(818)354‑58‑70, <Kelley.Case@jpl.nasa.gov>.
 
 
 

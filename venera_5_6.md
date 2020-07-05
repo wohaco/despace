@@ -136,7 +136,7 @@ The spacecrafts were equipped with parabolic high-gain antennas (the antennas pl
 
 <mark>TBD</mark>
 
-   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov_001.md) (Владимир Павлович Долгополов)
+   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов)
 
 **COMMUNITY:**
 

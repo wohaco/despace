@@ -105,7 +105,7 @@ Gravity science would be carried out using the spacecraft's telecom system ([EVN
 
 **PEOPLE:**
 
-   1. [Suzanne Smrekar](03_smrekar_001.md) — The VERITAS Principal Investigator (JPL)
+   1. [Suzanne Smrekar](03_smrekar1.md) — The VERITAS Principal Investigator (JPL)
    1. Michael Lisano — Project Systems Engineer (JPL)
    1. Noah Suzara — Project proposal cost estimating contributor (2019, JPL)
 

@@ -9,7 +9,7 @@
 
 **Technology readiness levels** *(TRL, TRLs)* are measures used to assess the maturity of evolving technologies (materials, components, software, processes, etc.) during their development & maybe during early operations. Actually, when a new technology is first invented or conceptualized, it’s not suitable for immediate application. Instead, new technologies are usually subjected to experimentation, refinement, & increasingly realistic testing. Once the technology is sufficiently proven, it can be incorporated into a system.
 
-Was created in NASA in 1970s as a list of 7 points. Was extended in the late 1980s to the 8 & 9 points by [John Mankins](02_mankins_001.md).
+Was created in NASA in 1970s as a list of 7 points. Was extended in the late 1980s to the 8 & 9 points by [John Mankins](02_mankins1.md).
 
 
 

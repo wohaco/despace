@@ -107,7 +107,7 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Hoyt, Robert | WRANGLER: Capture & De‑Spin of Asteroids & Space Debris | Tethers Unlimited, Inc., Bothell, WA 98011‑8808 | 2014 Ph.I |
 | Hughes, Gary | Molecular Composition Analysis of Distant Targets | California Polytechnic State Univ., San Luis Obispo, CA 93407‑9000 | 2016 Ph.I |
 | Hughes, Gary | Remote Laser Evaporative Molecular Absorption Spectroscopy Sensor System | California Polytechnic State Univ., San Luis Obispo, CA 93407‑0405 | 2017 Ph.II |
-| [Izenberg, Noam](02_izenberg_001.md) | RIPS: Ripcord Innovative Power System | [JHU](03_jhu.md), Laurel, MD 20723‑6005 | 2019 Ph.I |
+| [Izenberg, Noam](02_izenberg1.md) | RIPS: Ripcord Innovative Power System | [JHU](03_jhu.md), Laurel, MD 20723‑6005 | 2019 Ph.I |
 | Jackson, Gerald | Deceleration of Interstellar Spacecraft Utilizing Antimatter | Hbar Technologies, LLC, West Chicago, IL 60185‑4833 | 2020 Ph.I |
 | Janson, Siegfried | Brane Craft | The Aerospace Corporation, Los Angeles, CA 90009‑2957 | 2016 Ph.I |
 | Janson, Siegfried | Brane Craft Ph.II | The Aerospace Corporation, El Segundo, CA 90245‑4609 | 2017 Ph.II |
@@ -134,7 +134,7 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Longman, Anthony (Ph.I) | Growth Adapted Tensegrity Structures — A New Calculus for the Space Economy | Anthony P. Longman, Camarillo, CA 93012‑5247 | 2013 Ph.I |
 | Lubin, Philip (Ph.I) | DEEP IN Directed Energy Propulsion for Interstellar Exploration | Univ. of California, Santa Barbara, CA 93106‑0001 | 2015 Ph.I |
 | Lubin, Philip (Ph.II) | Directed Energy for Interstellar Study | Univ. of California, Santa Barbara, Santa Barbara, CA 93106‑0001 | 2016 Ph.II |
-| [Mankins, John](02_mankins_001.md) | SPS‑ALPHA: The First Practical Solar Power Satellite via Arbitrarily Large PHased Array | Artemis Innovation Management Solutions, Santa Maria, California 93456 | 2011 Ph.I |
+| [Mankins, John](02_mankins1.md) | SPS‑ALPHA: The First Practical Solar Power Satellite via Arbitrarily Large PHased Array | Artemis Innovation Management Solutions, Santa Maria, California 93456 | 2011 Ph.I |
 | Mann, Chris | Stellar Echo Imaging of Exoplanets | Nanohmics, Inc., Austin, TX 78741‑7510 | 2016 Ph.I |
 | Mann, Chris | Stellar Echo Imaging of Exoplanets | Nanohmics, Inc., Austin, TX 78741‑7510 | 2017 Ph.II |
 | Matthies, Larry | Titan Aerial Daughtercraft | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2014 Ph.I |

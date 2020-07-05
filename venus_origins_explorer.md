@@ -110,7 +110,7 @@ The spacecraft consists of an Orbiter containing all scientific equipment and an
 
 **PEOPLE:**
 
-   1. [Suzanne Smrekar](03_smrekar_001.md) − The Principal Investigator for VOX (JPL)
+   1. [Suzanne Smrekar](03_smrekar1.md) − The Principal Investigator for VOX (JPL)
    1. Michael Lisano — Project Systems Engineer (JPL)
 
 **COMMUNITY:**

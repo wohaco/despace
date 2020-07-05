@@ -120,11 +120,11 @@ In connection with the increase of almost 100 kg of the mass of the lander in 
 **PEOPLE:**
 
    - **Leaders**
-      1. [Georgiy Nikolayevich Babakin](02_babakin_001.md) (Георгий Николаевич Бабакин) — chief design engineer.
+      1. [Georgiy Nikolayevich Babakin](02_babakin1.md) (Георгий Николаевич Бабакин) — chief design engineer.
    - **Members**
-      1. [Mikhail Yakovlevich Marov](02_marov_001.md) (Михаил Яковлевич Маров) — led the team to decode data from Venera 7, astronomer.
+      1. [Mikhail Yakovlevich Marov](02_marov1.md) (Михаил Яковлевич Маров) — led the team to decode data from Venera 7, astronomer.
       1. Oleg Nikolaevich Rzhiga (Олег Николаевич Ржига) — astronomer, scientist.
-      1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov_001.md) (Владимир Павлович Долгополов)
+      1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов)
 
 **COMMUNITY:**
 

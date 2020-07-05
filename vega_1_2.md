@@ -195,7 +195,7 @@ The aerostat's electronics provided unidirectional communication with the Earth,
    - **Leadership:**
       1. R. Pella — deputy chairman
       1. F. Sabo — deputy chairman
-      1. [Roald Zinnurovich Sagdeev](02_sagdeev_001.md) — is a member of the Russian Academy of Sciences. Headed the International Space Project Venus−Halley (Vega)
+      1. [Roald Zinnurovich Sagdeev](02_sagdeev1.md) — is a member of the Russian Academy of Sciences. Headed the International Space Project Venus−Halley (Vega)
       
    - **Members:**
       1. V. Ridler (Austria)
@@ -213,7 +213,7 @@ The aerostat's electronics provided unidirectional communication with the Earth,
       1. G.L. Avanesov (USSR)
       1. V.L. Barsukov (USSR)
       1. A.A. Galeev (USSR)
-      1. [V.I. Moroz](02_moroz_001.md) (USSR)
+      1. [V.I. Moroz](02_moroz1.md) (USSR)
       1. V.G. Perminov (USSR)
       1. G.A. Skuridin (USSR)
       1. Y.A. Surkov (USSR)

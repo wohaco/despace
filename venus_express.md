@@ -320,8 +320,8 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
    1.    - Constantine Tsang — **senior research scientist**
    1. Accomazzo, Andrea — **spacecraft operations manager**
    1. McCoy, Don — **project manager**
-   1. [Svedhem, Håkan](02_svedhem_001.md) — **project scientist**
-   1. [Titov, Dmitrij](02_titov_001.md)
+   1. [Svedhem, Håkan](02_svedhem1.md) — **project scientist**
+   1. [Titov, Dmitrij](02_titov1.md)
    1. Witting, Michael — **launch campaign manager**
 
 **COMMUNITY:**

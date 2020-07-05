@@ -160,10 +160,10 @@ In order to determine the illumination of the surface of the planet, necessary f
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Georgiy Babakin](02_babakin_001.md) (Георгий Николаевич Бабакин) — chief design engineer.
-      1. [Mstislav Keldysh](02_keldysh_001.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
+      1. [Georgiy Babakin](02_babakin1.md) (Георгий Николаевич Бабакин) — chief design engineer.
+      1. [Mstislav Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
    - **Members:**
-      1. [Vladimir Dolgopolov](02_dolgopolov_001.md) (Владимир Павлович Долгополов)
+      1. [Vladimir Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов)
 
 **COMMUNITY:**
 

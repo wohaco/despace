@@ -177,7 +177,7 @@ Pioneer Venus Orbiter was based on the HS-507 bus. The spacecraft was a flat cyl
       1. H. Neimann
       1. G. Pettengill
       1. R. Phillips
-      1. [C. Russell](02_russell_001.md)
+      1. [C. Russell](02_russell1.md)
       1. F. Scarf
       1. I. Shapiro
       1. A. Stewart

@@ -33,7 +33,7 @@ Science, technology and/or mission applications:
 |**Температура**| 500 °C номинал,<br> 538 °C макс. | 510 °C номинал,<br> … °C макс. |
 
    - Возможность подавать внутрь заданную газовую смесь. Specific gas quantities can be very accurately controlled down to parts per million accuracy depending on the gas. Available gases for Venus include CO₂, N₂, COS, H₂S, SO₂, HF, HCL, NO, & CO. Water may be added in small quantities.
-   - Доступна для интернационального использования. Контакт в GRC — [Tibor Kremic](02_kremic_001.md).
+   - Доступна для интернационального использования. Контакт в GRC — [Tibor Kremic](02_kremic1.md).
    - GEER operated for a total of 274.5 Earth days at Venus conditions (на 2019.10).
    - Chamber rated from ambient to 1 400 PSI & 500 °C (achieves Venus surface pressure & temperature conditions). Can achieve higher pressures at lower temperatures
    - Control atmosphere composition to ppb accuracy for any known atmospheric chemistry

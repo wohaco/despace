@@ -266,12 +266,12 @@ The lander was a sealed double-walled titanium pressure vessel of spherical shap
 **PEOPLE:**
 
    - **Leaders**
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh_001.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
+      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
    - **Members**
       1. Arnold Sergeevich Selivanov (Арнольд Сергеевич Селиванов) — a doctor of technical Sciences, Professor. Developer of telephotometers for the Venera 9 and Venera 10 missions.
       1. Mikhail Sergeyevich Ryazanskiy (Михаил Сергеевич Рязанский) — Deputy for scientific work of Tikhomirov Scientific Research Institute of Instrument Design
-      1. [Dolgopolov Vladimir Pavlovich](02_dolgopolov_001.md) (Долгополов Владимир Павлович)
-      1. [Маров, Михаил Яковлевич](02_marov_001.md)
+      1. [Dolgopolov Vladimir Pavlovich](02_dolgopolov1.md) (Долгополов Владимир Павлович)
+      1. [Маров, Михаил Яковлевич](02_marov1.md)
 
 **COMMUNITY:**
 

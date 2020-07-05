@@ -205,7 +205,7 @@ General view of the spacecraft Venera 15 and Venera 16 with radar equipment in t
       1. V. B. Perminov (В. Б. Перминов) − chief designer Lavochkin Research and Production Association, doctor of technical Sciences;
       1. O.N. Rzhiga (О. Н. Ржига) − proposed to carry out radar Venus synthetic-aperture radar (radar side view);
    - **Members**
-      1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov_001.md) (Долгополов Владимир Павлович);
+      1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Долгополов Владимир Павлович);
       1. A. T. Bazilevsky (А. Т. Базилевский),
       1. G. A. Burba (Г. А. Бурба),
       1. S. F. Zagorodny (С. Ф. Загородний),
@@ -215,7 +215,7 @@ General view of the spacecraft Venera 15 and Venera 16 with radar equipment in t
       1. M. V. Ostrovsky (М. В. Островский),
       1. A. A. Pronin (А. А. Пронин),
       1. A. L. Sukhanov (А. Л. Суханов),
-      1. [A. G. Tuchin](02_tuchin_001.md) (А. Г. Тучин),
+      1. [A. G. Tuchin](02_tuchin1.md) (А. Г. Тучин),
       1. Y. S. Tuplin (Ю. С. Тюфлин),
       1. B. Y. Feldman (Б. Я. Фельдман)
 

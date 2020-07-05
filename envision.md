@@ -208,16 +208,16 @@ Representing about 10 % of the Venus surface, tesserae may represent the oldes
 
 Given its similar size & bulk composition as Earth, Venus is expected to be volcanicly & tectonicly active today (unlike Mars, which, being only a tenth of Earth’s mass, has lost more of its internal heat). Steep slopes & landslides are common on Venus’ surface geology, implying active uplift, but existing data provide no constraint on current rates of tectonic activity. Comparaison of gravity mapping & topography have revealed some regions which appear to be at higher elevation than would be the case if the mantle were stagnant, implying that they lie atop magmatic upwelling. There are regions where volcanic activity is particularly likely to occur. Sites of potential volcanism identified in Venus Express data were in these locations. Therefore the observation & characterization of these regions are of high priority ([EVN‑029,076](venus.md)).
 
-**Radio Science Experiment**. To measure the gravity field of Venus at an unprecedented resolution.<br> [PI](principal_investigator.md) — [Caroline Dumoulin](02_dumoulin_001.md), LPG, Université de Nantes, France; [Pascal Rosenblatt](02_rosenblatt_001.md), LPG, Université de Nantes, France.
+**Radio Science Experiment**. To measure the gravity field of Venus at an unprecedented resolution.<br> [PI](principal_investigator.md) — [Caroline Dumoulin](02_dumoulin1.md), LPG, Université de Nantes, France; [Pascal Rosenblatt](02_rosenblatt1.md), LPG, Université de Nantes, France.
 
 The notional payload consists of 3 instruments:
 
-   1. **VenSAR (Venus Synthetic Aperture Radar)** operates at 3.2 GHz in the S band (9.4 cm wavelength) for spatial resolutions of 1 — 30 m. Operating at a frequency below 30 MHz has the advantage that the signal penetrates the ground, providing information on subsurface structures that are crucial to understanding the history of Venus. A sounder in the 9 — 30 MHz range is able to penetrate to a crustal depth of 750 — 340 m respectively & image subsurface features at a vertical resolution of 5 — 16 m. ([EVN‑042](venus.md), [EVN‑088](venus.md)) An earlier version of the proposal intended to use spare parts produced for the Earth‑orbiting Sentinel‑1 satellite.<br> [PI](principal_investigator.md) — [Richard Ghail](02_ghail_001.md), Royal Holloway, University of London, UK.
+   1. **VenSAR (Venus Synthetic Aperture Radar)** operates at 3.2 GHz in the S band (9.4 cm wavelength) for spatial resolutions of 1 — 30 m. Operating at a frequency below 30 MHz has the advantage that the signal penetrates the ground, providing information on subsurface structures that are crucial to understanding the history of Venus. A sounder in the 9 — 30 MHz range is able to penetrate to a crustal depth of 750 — 340 m respectively & image subsurface features at a vertical resolution of 5 — 16 m. ([EVN‑042](venus.md), [EVN‑088](venus.md)) An earlier version of the proposal intended to use spare parts produced for the Earth‑orbiting Sentinel‑1 satellite.<br> [PI](principal_investigator.md) — [Richard Ghail](02_ghail1.md), Royal Holloway, University of London, UK.
    2. **VenSpec (Venus Spectroscopy suite)** consists of 3 channels: VenSpec‑M (VEM), VenSpec‑U (VeSUV), VenSpec‑H (VIVO). This suite would search for temporal variations in surface temperatures & tropospheric concentrations of volcanic gases, indicative of volcanic eruptions.
-      - **VEM (VenSpec‑M)** would provide compositional data on rock types;<br> [PI](principal_investigator.md) — [Jörn Helbert](02_helbert_001.md), DLR Institute of Planetary Research, Berlin, Germany;
-      - **VeSUV (VenSpec‑U)** would monitor sulphured minor species (mainly SO & SO₂) as well as the mysterious UV absorber ([EVN‑035](venus.md)) in Venusian upper clouds;<br> [PI](principal_investigator.md) — [Emmanuel Marcq](02_marcq_001.md), LATMOS, IPSL, France;
-      - **VIVO (VenSpec‑H)** would perform extremely high resolution atmospheric measurements;<br> [PI](principal_investigator.md) — [Ann Carine Vandaele](02_vandaele_001.md), Royal Belgian Institute for Space Aeronomy (BIRA/IASB), Belgium.
-   3. **SRS (Subsurface Radar Sounder)** would image faults, stratigraphy & weathering in the upper ~100 m of the areas mapped by VenSAR, to identify structural relationships & geological history ([EVN‑041](venus.md)).<br> [PI](principal_investigator.md) — [Lorenzo Bruzzone](02_bruzzone_001.md), Università di Trento, Italy.
+      - **VEM (VenSpec‑M)** would provide compositional data on rock types;<br> [PI](principal_investigator.md) — [Jörn Helbert](02_helbert1.md), DLR Institute of Planetary Research, Berlin, Germany;
+      - **VeSUV (VenSpec‑U)** would monitor sulphured minor species (mainly SO & SO₂) as well as the mysterious UV absorber ([EVN‑035](venus.md)) in Venusian upper clouds;<br> [PI](principal_investigator.md) — [Emmanuel Marcq](02_marcq1.md), LATMOS, IPSL, France;
+      - **VIVO (VenSpec‑H)** would perform extremely high resolution atmospheric measurements;<br> [PI](principal_investigator.md) — [Ann Carine Vandaele](02_vandaele1.md), Royal Belgian Institute for Space Aeronomy (BIRA/IASB), Belgium.
+   3. **SRS (Subsurface Radar Sounder)** would image faults, stratigraphy & weathering in the upper ~100 m of the areas mapped by VenSAR, to identify structural relationships & geological history ([EVN‑041](venus.md)).<br> [PI](principal_investigator.md) — [Lorenzo Bruzzone](02_bruzzone1.md), Università di Trento, Italy.
 
 
 
@@ -393,43 +393,43 @@ Chemical, electric & hybrid propulsion options were assessed, even if the hybrid
 
 **ESA‑NASA consortium**
 
-The mission is studied in collaboration with [NASA](03_nasa.md), with the potential sharing of responsibilities currently under assessment. Main contact: [Ocampo, Adriana Christian](02_ocampo_001.md).
+The mission is studied in collaboration with [NASA](03_nasa.md), with the potential sharing of responsibilities currently under assessment. Main contact: [Ocampo, Adriana Christian](02_ocampo1.md).
 
 **EnVision proposal team**
 
-   1. [Lorenzo Bruzzone](02_bruzzone_001.md) — Subsurface Sounding (SRS)
-   1. [Caroline Dumoulin](02_dumoulin_001.md) — Interior Structure & Dynamics
-   1. [Richard Ghail](02_ghail_001.md) — Radar Systems Engineering, **Lead proposer** (VenSAR)
-   1. [Jörn Helbert](02_helbert_001.md) — Thermal Infrared Mapping, Mineralogy (VenSpec‑M)
-   1. [Emmanuel Marcq](02_marcq_001.md) — UV Spectroscopy, Volcanic Gases (VenSpec‑U)
-   1. [Philippa Mason](02_mason_001.md) — Surface Processes
-   1. [Pascal Rosenblatt](02_rosenblatt_001.md) — Spin Dynamics
-   1. [Ann Carine Vandaele](02_vandaele_001.md) — IR Spectroscopy, Volcanic Gases (VenSpec‑H)
-   1. [Thomas Widemann](02_widemann_001.md) — UV, Visible & Infrared Spectroscopy, **Deputy lead**
-   1. [Colin Wilson](02_wilson_001.md) — Atmospheric Science, **Deputy lead**
+   1. [Lorenzo Bruzzone](02_bruzzone1.md) — Subsurface Sounding (SRS)
+   1. [Caroline Dumoulin](02_dumoulin1.md) — Interior Structure & Dynamics
+   1. [Richard Ghail](02_ghail1.md) — Radar Systems Engineering, **Lead proposer** (VenSAR)
+   1. [Jörn Helbert](02_helbert1.md) — Thermal Infrared Mapping, Mineralogy (VenSpec‑M)
+   1. [Emmanuel Marcq](02_marcq1.md) — UV Spectroscopy, Volcanic Gases (VenSpec‑U)
+   1. [Philippa Mason](02_mason1.md) — Surface Processes
+   1. [Pascal Rosenblatt](02_rosenblatt1.md) — Spin Dynamics
+   1. [Ann Carine Vandaele](02_vandaele1.md) — IR Spectroscopy, Volcanic Gases (VenSpec‑H)
+   1. [Thomas Widemann](02_widemann1.md) — UV, Visible & Infrared Spectroscopy, **Deputy lead**
+   1. [Colin Wilson](02_wilson1.md) — Atmospheric Science, **Deputy lead**
 
 **Science Study Team (SST)**
 
-   1. [Veronique Ansan](02_ansan_001.md), LPG, University de Nantes, France
-   1. [Francesca Bovolo](02_bovolo_001.md), CICT, Fondazione Bruno Kessler, Italy
-   1. [Doris Breuer](02_breuer_001.md), DLR Institute of Planetary Research, Berlin, Germany
-   1. [Bruce Campbell](02_campbell_001.md), Center for Earth & Planetary Studies, National Air & Space Museum, Washington, DC
-   1. [Richard Ghail](02_ghail_001.md), Dpt. Earth Sciences, Royal Holloway, University of London, UK
-   1. [Walter Kiefer](02_kiefer_001.md), Lunar & Planetary Institute, Houston, TX
-   1. [Goro Komatsu](02_komatsu_001.md), IRSPS, Università degli Studi G. d’Annunzio Chieti e Pescara, Italy
-   1. [Alice Le Gall](02_legall_001.md), LATMOS, IPSL, France
-   1. [Philippa Mason](02_mason_001.md), Dpt. Earth Science & Engineering, Imperial College, London, UK
-   1. [Thomas Widemann](02_widemann_001.md), LESIA, Observatoire de Paris, France
-   1. [Colin Wilson](02_wilson_001.md), Dpt. Physics, University of Oxford, UK
+   1. [Veronique Ansan](02_ansan1.md), LPG, University de Nantes, France
+   1. [Francesca Bovolo](02_bovolo1.md), CICT, Fondazione Bruno Kessler, Italy
+   1. [Doris Breuer](02_breuer1.md), DLR Institute of Planetary Research, Berlin, Germany
+   1. [Bruce Campbell](02_campbell1.md), Center for Earth & Planetary Studies, National Air & Space Museum, Washington, DC
+   1. [Richard Ghail](02_ghail1.md), Dpt. Earth Sciences, Royal Holloway, University of London, UK
+   1. [Walter Kiefer](02_kiefer1.md), Lunar & Planetary Institute, Houston, TX
+   1. [Goro Komatsu](02_komatsu1.md), IRSPS, Università degli Studi G. d’Annunzio Chieti e Pescara, Italy
+   1. [Alice Le Gall](02_legall1.md), LATMOS, IPSL, France
+   1. [Philippa Mason](02_mason1.md), Dpt. Earth Science & Engineering, Imperial College, London, UK
+   1. [Thomas Widemann](02_widemann1.md), LESIA, Observatoire de Paris, France
+   1. [Colin Wilson](02_wilson1.md), Dpt. Physics, University of Oxford, UK
 
 **ESA Study Team**
 
-   1. [Jayne Lefort](02_lefort_001.md) — EnVision study operations manager
-   1. [Jens Romstedt](02_romstedt_001.md) — EnVision study payload manager
-   1. [Ana Rugina](02_rugina_001.md) — EnVision study system manager
-   1. [Dmitrij Titov](02_titov_001.md) — EnVision study scientist
-   1. [Thomas Voirin](02_voirin_001.md) — EnVision study manager
-   1. [Arno Wielders](02_wielders_001.md) — EnVision study deputy payload manager
+   1. [Jayne Lefort](02_lefort1.md) — EnVision study operations manager
+   1. [Jens Romstedt](02_romstedt1.md) — EnVision study payload manager
+   1. [Ana Rugina](02_rugina1.md) — EnVision study system manager
+   1. [Dmitrij Titov](02_titov1.md) — EnVision study scientist
+   1. [Thomas Voirin](02_voirin1.md) — EnVision study manager
+   1. [Arno Wielders](02_wielders1.md) — EnVision study deputy payload manager
 
 **EnVision Science Team**
 

@@ -206,12 +206,12 @@ The method of ringing the surface using the near-IR range is also slightly diffe
 ## Payload
 The payload includes 6 instruments, including 5 cameras for exploring Venus in the [range](rf.md) UV to mid-IR, as well as one instrument for radio transmission:
 
-   - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 — 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near-IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 mm (f/4) and a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](02_iwagami_001.md) (ex. Tokyo Univ.).
-   - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface and near ‑ surface atmosphere (1.74 — 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 mm (f/4) and FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](02_satoh_001.md) (ISAS/JAXA).
-   - **Lightning and Airglow Camera (LAC)** — (range 552 — 777 nm). Camera with FOV of 16°. Detector based on an array of avalanche photodiodes, in the form of a matrix of 8 × 8 pixels. [PI](principal_investigator.md) — [Yukihiro Takahashi](02_takahashi_001.md) (Hokkaido Univ.).
-   - **Longwave infrared camera (LIR)** — to study the structure of high-altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV and 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](02_taguchi_001.md) (Rikkyo Univ.).
-   - **Ultra-Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](02_imamura_001.md) (Tokyo Univ.).
-   - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide and an unknown UV absorber (range 283 — 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](02_watanabe_001.md) (Hokkaido Information Univ.).
+   - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 — 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near-IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 mm (f/4) and a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](02_iwagami1.md) (ex. Tokyo Univ.).
+   - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface and near ‑ surface atmosphere (1.74 — 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 mm (f/4) and FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](02_satoh1.md) (ISAS/JAXA).
+   - **Lightning and Airglow Camera (LAC)** — (range 552 — 777 nm). Camera with FOV of 16°. Detector based on an array of avalanche photodiodes, in the form of a matrix of 8 × 8 pixels. [PI](principal_investigator.md) — [Yukihiro Takahashi](02_takahashi1.md) (Hokkaido Univ.).
+   - **Longwave infrared camera (LIR)** — to study the structure of high-altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV and 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](02_taguchi1.md) (Rikkyo Univ.).
+   - **Ultra-Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](02_imamura1.md) (Tokyo Univ.).
+   - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide and an unknown UV absorber (range 283 — 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](02_watanabe1.md) (Hokkaido Information Univ.).
 
 ![](f/project/akatsuki/payload01.png)
 
@@ -233,7 +233,7 @@ The observation of radio waves with a length of about 1 µm allows us to obser
 <p style="page-break-after:always"> </p>
 
 ### IR2 (2 µm camera)
-Radio waves with a length of 2 µm coming from the regions of the bottom of the lower layer of the atmosphere allow to judge their density, cloud particle size, CO distribution, and other parameters, allowing to judge the movement of the atmosphere at low altitudes ([EVN-011](venus.md)) and understand how the clouds of Venus are formed ([EVN-075](venus.md)). The instrument also allows to measure the zodiacal light along the path of Venus in order to investigate the distribution of dust in the solar system ([ECT-002](ect_002.md)).
+Radio waves with a length of 2 µm coming from the regions of the bottom of the lower layer of the atmosphere allow to judge their density, cloud particle size, CO distribution, and other parameters, allowing to judge the movement of the atmosphere at low altitudes ([EVN-011](venus.md)) and understand how the clouds of Venus are formed ([EVN-075](venus.md)). The instrument also allows to measure the zodiacal light along the path of Venus in order to investigate the distribution of dust in the solar system ([ECT-002](ect2.md)).
 
 ![](f/project/akatsuki/payload03.jpg)
 
@@ -289,22 +289,22 @@ UVI takes pictures in the UV range, allowing to determine the distribution of SO
 
 **Leadership:**
 
-   1. [Takeshi Imamura](02_imamura_001.md) — Member of the scientific group (former scientific director of the project), Tokyo Univ. (**Vice-manager**)
-   1. [Masato Nakamura](02_nakamura_001.md) — **Project manager**, ISAS/JAXA (**Director**)
-   1. [Takehiko Satoh](02_satoh_001.md) — Scientific director of the project, ISAS/JAXA
+   1. [Takeshi Imamura](02_imamura1.md) — Member of the scientific group (former scientific director of the project), Tokyo Univ. (**Vice-manager**)
+   1. [Masato Nakamura](02_nakamura1.md) — **Project manager**, ISAS/JAXA (**Director**)
+   1. [Takehiko Satoh](02_satoh1.md) — Scientific director of the project, ISAS/JAXA
 
 **Members:**
 
-   1. [Takafumi Hino](02_hino_001.md) — Network manager, National Inst. of Technology Matsue College
-   1. [Nobuaki Ishii](02_ishii_001.md) — **Main contact person**, ISAS/JAXA
-   1. [Naomoto Iwagami](02_iwagami_001.md) — former Tokyo Univ.
-   1. [Yeon Joo Lee](02_lee_001.md) — Member of the scientific group, Tokyo Univ.
-   1. [Shin-ya Murakami](02_murakami_001.md) — Member of the scientific group, ISAS/JAXA
-   1. [Javier Peralta](02_peralta_001.md) — Member of the scientific group, ISAS/JAXA
-   1. [Koichiro Sugiyama](02_sugiyama_001.md) — Member of the scientific group / Network manager, National Inst. of Technology, Matsue Coll.
-   1. [Makoto Taguchi](02_taguchi_001.md) — Rikkyo Univ.
-   1. [Yukihiro Takahashi](02_takahashi_001.md) — Hokkaido Univ.
-   1. [Shigeto Watanabe](02_watanabe_001.md) — Hokkaido Information Univ.
+   1. [Takafumi Hino](02_hino1.md) — Network manager, National Inst. of Technology Matsue College
+   1. [Nobuaki Ishii](02_ishii1.md) — **Main contact person**, ISAS/JAXA
+   1. [Naomoto Iwagami](02_iwagami1.md) — former Tokyo Univ.
+   1. [Yeon Joo Lee](02_lee1.md) — Member of the scientific group, Tokyo Univ.
+   1. [Shin-ya Murakami](02_murakami1.md) — Member of the scientific group, ISAS/JAXA
+   1. [Javier Peralta](02_peralta1.md) — Member of the scientific group, ISAS/JAXA
+   1. [Koichiro Sugiyama](02_sugiyama1.md) — Member of the scientific group / Network manager, National Inst. of Technology, Matsue Coll.
+   1. [Makoto Taguchi](02_taguchi1.md) — Rikkyo Univ.
+   1. [Yukihiro Takahashi](02_takahashi1.md) — Hokkaido Univ.
+   1. [Shigeto Watanabe](02_watanabe1.md) — Hokkaido Information Univ.
 
 **COMMUNITIES:**
 

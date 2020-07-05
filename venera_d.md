@@ -629,61 +629,61 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 
 |°|*[Org.](contact.md)*|*[Member](contact.md)*|
 |:--:|:--|:--|
-|**Lavochkin Association**|**203**| [Merkulov Petr Vladimirovich](02_меркулов_001.md)<br>(Меркулов, Пётр Владимирович) — Project Manager |
-||**500**| [Sysoev Valentin Konstantinovich](02_сысоев_001.md)<br>(Сысоев, Валентин Константинович) — science and technology provision |
-||**500**| [Eroshkin Vladimir Nikitovich](02_ерошкин_001.md)<br>(Ерошкин, Владимир Никитович) |
-||· **510**| [Sedykh Oleg Yurievich](02_седых_001.md)<br>(Седых, Олег Юрьевич) |
+|**Lavochkin Association**|**203**| [Merkulov Petr Vladimirovich](02_меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager |
+||**500**| [Sysoev Valentin Konstantinovich](02_сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision |
+||**500**| [Eroshkin Vladimir Nikitovich](02_ерошкин1.md)<br>(Ерошкин, Владимир Никитович) |
+||· **510**| [Sedykh Oleg Yurievich](02_седых1.md)<br>(Седых, Олег Юрьевич) |
 ||**511**| Kosenkova Anastasia Vladimirovna<br>(Косенкова, Анастасия Владимировна) |
-||· **512**| [Ivanov Sergey Veniaminovich](02_иванов_006.md)<br>(Иванов, Сергей Вениаминович) |
+||· **512**| [Ivanov Sergey Veniaminovich](02_иванов6.md)<br>(Иванов, Сергей Вениаминович) |
 ||· **512**| Martynov Alexey Borisovich<br>(Мартынов, Алексей Борисович) |
 ||· **512**| Pisarenko Pavel Dmitrievich<br>(Писаренко, Павел Дмитриевич) |
 ||· **512**| Feofanov Artem Sergeevich<br>(Феофанов, Артём Сергеевич) |
 ||**514**| Kudryavtsev Aleksandr Nikolaevich<br>(Кудрявцев, Александр Николаевич) — landing and dynamics |
-||· **515**| [Kotlyarov Yevgeny Yuryevich](02_котляров_001.md)<br>(Котляров, Евгений Юрьевич) — thermal control system |
-||**517**| [Simonov Aleksandr Vladimirovich](02_симонов_001.md)<br>(Симонов, Александр Владимирович) — ballistics and navigation software |
-||· **570**| [Zaitsev Alexey Nikolaevich](02_зайцев_001.md)<br>(Зайцев, Алексей Николаевич) — earth-based testing equipment |
-||**574**| [Bogachev Vyacheslav Alexeevich](02_богачёв_001.md)<br>(Богачёв, Вячеслав Алексеевич) — materials |
+||· **515**| [Kotlyarov Yevgeny Yuryevich](02_котляров1.md)<br>(Котляров, Евгений Юрьевич) — thermal control system |
+||**517**| [Simonov Aleksandr Vladimirovich](02_симонов1.md)<br>(Симонов, Александр Владимирович) — ballistics and navigation software |
+||· **570**| [Zaitsev Alexey Nikolaevich](02_зайцев1.md)<br>(Зайцев, Алексей Николаевич) — earth-based testing equipment |
+||**574**| [Bogachev Vyacheslav Alexeevich](02_богачёв1.md)<br>(Богачёв, Вячеслав Алексеевич) — materials |
 |°|• • •|• • •|
 |**RU**|**[4116 ВП](вп.md)**|  |
 ||||
-||**[Vernadsky Institute of Geochemistry and Analytical Chemistry, RAS (ГЕОХИ)](03_геохи_ран.md)**| [Ivanov Mikhail Arsenyevich](02_иванов_004.md)<br>(Иванов, Михаил Арсеньевич) — surface geology |
+||**[Vernadsky Institute of Geochemistry and Analytical Chemistry, RAS (ГЕОХИ)](03_геохи_ран.md)**| [Ivanov Mikhail Arsenyevich](02_иванов4.md)<br>(Иванов, Михаил Арсеньевич) — surface geology |
 ||||
-||**[Russian Space Research Institute (ИКИ РАН)](03_ики_ран.md)**| [Weisberg Oleg Leonidovich](02_вайсберг_001.md)<br>(Вайсберг, Олег Леонидович) — plasma instruments |
-||| [Gerasimov Mikhail Vladimirovich](02_герасимов_001.md)<br>(Герасимов, Михаил Владимирович) — **responsible for the target equipment;** the chemistry of the surface and atmosphere |
-||| [Gorinov Dmitry Alexeevich](02_горинов_001.md)<br>(Горинов, Дмитрий Алексеевич) — **main contact person** |
-||| [Zasova Lyudmila Veniaminovna](02_засова_001.md)<br>(Засова, Людмила Вениаминовна) — co-chair of JSDT (Russian side) |
-||| [Zelenyi Lev Matveevich](02_зелёный_001.md)<br>(Зелёный, Лев Матвеевич) — … |
-||| [Ignatiev Nikolai Igorevich](02_игнатьев_001.md)<br>(Игнатьев, Николай Игоревич) — atmosphere of Venus |
-||| [Korablev Oleg Igorevich](02_кораблёв_001.md)<br>(Кораблёв, Олег Игоревич) — scientific program management |
-||| [Kosov Aleksandr Sergeevich](02_косов_001.md)<br>(Косов, Александр Сергеевич) — … |
-||| [Ksanfomaliti Leonid Vasilievich](02_ксанфомалити_001.md)<br>(Ксанфомалити, Леонид Васильевич) — … |
-||| [Khatuntsev Igor Valeryevich](02_хатунцев_001.md)<br>(Хатунцев, Игорь Валерьевич) — atmosphere of Venus |
-||| [Eismont Natan Andreevich](02_эйсмонт_001.md)<br>(Эйсмонт, Натан Андреевич) — ballistics |
+||**[Russian Space Research Institute (ИКИ РАН)](03_ики_ран.md)**| [Weisberg Oleg Leonidovich](02_вайсберг1.md)<br>(Вайсберг, Олег Леонидович) — plasma instruments |
+||| [Gerasimov Mikhail Vladimirovich](02_герасимов1.md)<br>(Герасимов, Михаил Владимирович) — **responsible for the target equipment;** the chemistry of the surface and atmosphere |
+||| [Gorinov Dmitry Alexeevich](02_горинов1.md)<br>(Горинов, Дмитрий Алексеевич) — **main contact person** |
+||| [Zasova Lyudmila Veniaminovna](02_засова1.md)<br>(Засова, Людмила Вениаминовна) — co-chair of JSDT (Russian side) |
+||| [Zelenyi Lev Matveevich](02_зелёный1.md)<br>(Зелёный, Лев Матвеевич) — … |
+||| [Ignatiev Nikolai Igorevich](02_игнатьев1.md)<br>(Игнатьев, Николай Игоревич) — atmosphere of Venus |
+||| [Korablev Oleg Igorevich](02_кораблёв1.md)<br>(Кораблёв, Олег Игоревич) — scientific program management |
+||| [Kosov Aleksandr Sergeevich](02_косов1.md)<br>(Косов, Александр Сергеевич) — … |
+||| [Ksanfomaliti Leonid Vasilievich](02_ксанфомалити1.md)<br>(Ксанфомалити, Леонид Васильевич) — … |
+||| [Khatuntsev Igor Valeryevich](02_хатунцев1.md)<br>(Хатунцев, Игорь Валерьевич) — atmosphere of Venus |
+||| [Eismont Natan Andreevich](02_эйсмонт1.md)<br>(Эйсмонт, Натан Андреевич) — ballistics |
 ||||
-||**[Institute of Radio-engineering and Electronics (ИРЭ РАН)](03_ирэ_ран.md)**| [Gavrik Anatoly Leonidovich](02_гаврик_001.md)<br>Гаврик, Анатолий Леонидович) — … |
+||**[Institute of Radio-engineering and Electronics (ИРЭ РАН)](03_ирэ_ран.md)**| [Gavrik Anatoly Leonidovich](02_гаврик1.md)<br>Гаврик, Анатолий Леонидович) — … |
 ||||
-||**[Roscosmos (Роскосмос)](03_роскосмос.md)**| [Voron Viktor Vladimirovich](02_ворон_001.md)<br>(Ворон, Виктор Владимирович) — chair of the working group |
-||| [Elshansky Leonid Borisovich](02_елшанский_001.md)<br>(Елшанский, Леонид Борисович) — **main contact person** |
+||**[Roscosmos (Роскосмос)](03_роскосмос.md)**| [Voron Viktor Vladimirovich](02_ворон1.md)<br>(Ворон, Виктор Владимирович) — chair of the working group |
+||| [Elshansky Leonid Borisovich](02_елшанский1.md)<br>(Елшанский, Леонид Борисович) — **main contact person** |
 ||||
-||**[TsNIIMash (ЦНИИмаш)](03_tsniimash.md)**| [Burdanov Anton Vladimirovich](02_бурданов_001.md)<br>(Бурданов, Антон Владимирович) — technologies |
+||**[TsNIIMash (ЦНИИмаш)](03_tsniimash.md)**| [Burdanov Anton Vladimirovich](02_бурданов1.md)<br>(Бурданов, Антон Владимирович) — technologies |
 |°|• • •|• • •|
-|**US**|**[Chicago Univ.](chicago_univ.md)**| [Economou, Thanasis](02_economou_001.md)<br> — chemical analysis |
+|**US**|**[Chicago Univ.](chicago_univ.md)**| [Economou, Thanasis](02_economou1.md)<br> — chemical analysis |
 ||||
-||**[GRC](03_grc.md)**| [Kremic, Tibor](02_kremic_001.md) — technologies, small landers |
+||**[GRC](03_grc.md)**| [Kremic, Tibor](02_kremic1.md) — technologies, small landers |
 ||||
-||~~**[GSFC](03_gsfc.md)**~~| ~~[Glaze, Lori](02_glaze_001.md)~~ |
+||~~**[GSFC](03_gsfc.md)**~~| ~~[Glaze, Lori](02_glaze1.md)~~ |
 ||||
-||**[JPL](03_jpl.md)**| [Hall, Jeffery L.](02_hall_001.md) — technical realizability assessment |
-||| [Ocampo, Adriana Christian](02_ocampo_001.md) — administrator JSDT (NASA); the lead scientist for NASA's exploration of Venus |
+||**[JPL](03_jpl.md)**| [Hall, Jeffery L.](02_hall1.md) — technical realizability assessment |
+||| [Ocampo, Adriana Christian](02_ocampo1.md) — administrator JSDT (NASA); the lead scientist for NASA's exploration of Venus |
 ||||
-||**[NASA](03_nasa.md)**| ~~[Ewan, Shannon](02_ewan_001.md)~~ |
-||| [Maroko, Elena](02_maroko_001.md) — aerospace specialist at the NASA Moscow office |
-||| ~~[Tilman, Justin Eugene](02_tilman_001.md) — NASA representative in Russia~~ |
+||**[NASA](03_nasa.md)**| ~~[Ewan, Shannon](02_ewan1.md)~~ |
+||| [Maroko, Elena](02_maroko1.md) — aerospace specialist at the NASA Moscow office |
+||| ~~[Tilman, Justin Eugene](02_tilman1.md) — NASA representative in Russia~~ |
 ||||
-||**[SWRI](03_swri.md)**| [Limaye, Sanjay Shridhar](02_limaye_001.md) — atmosphere of Venus |
-||| [Jessup, Kandis Lea](02_jessup_001.md) — observation and modeling of the atmosphere |
+||**[SWRI](03_swri.md)**| [Limaye, Sanjay Shridhar](02_limaye1.md) — atmosphere of Venus |
+||| [Jessup, Kandis Lea](02_jessup1.md) — observation and modeling of the atmosphere |
 ||||
-||**[UB](03_buffalo_univ.md)**| [Gregg, Tracy](02_gregg_001.md) — co-chair of JSDT (USA side); geology |
+||**[UB](03_buffalo_univ.md)**| [Gregg, Tracy](02_gregg1.md) — co-chair of JSDT (USA side); geology |
 
 </small>
 

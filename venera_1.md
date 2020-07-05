@@ -108,8 +108,8 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spacec
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh_001.md) (Мстислав Всеволодович Келдыш) a Soviet scientist in the field of mathematics and mechanics.
-      1. [Sergei Pavlovich Korolev](02_korolev_001.md) (Сергей Павлович Королёв) a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
+      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) a Soviet scientist in the field of mathematics and mechanics.
+      1. [Sergei Pavlovich Korolev](02_korolev1.md) (Сергей Павлович Королёв) a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
       1. Alla Genrikhovna Masevich (Алла Генриховна Масевич) a Soviet astronomer.
       1. Boris Evseyevich Chertok (Борис Евсеевич Черток) a Russian electrical engineer and the control systems designer in the Soviet Union's space program, and later the Roscosmos in Russia.

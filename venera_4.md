@@ -126,8 +126,8 @@ The lander was equipped with a rechargeable battery with a capacity sufficient f
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Georgiy Nikolayevich Babakin](02_babakin_001.md) (Георгий Николаевич Бабакин) − chief design engineer.
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh_001.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics. He was part of the managementof the flight of Venera 4.
+      1. [Georgiy Nikolayevich Babakin](02_babakin1.md) (Георгий Николаевич Бабакин) − chief design engineer.
+      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics. He was part of the managementof the flight of Venera 4.
    - **Members:**
       1. Efraim Lazarevich Akim (Эфраим Лазаревич Аким) was a Soviet and Russian scientistin the field in the ballistics, spacecraft navigation and planetary science; head of the ballistic center.
       1. Mikhail Kazansky (Михаил Казанский)  was the head of the ballistic service TsNIIMash.

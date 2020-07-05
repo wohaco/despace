@@ -155,7 +155,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 
 <mark>TBD</mark>
 
-   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov_001.md) (Владимир Павлович Долгополов) Венера-3
+   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов) Венера-3
 
 **COMMUNITY:**
 

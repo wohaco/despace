@@ -215,8 +215,8 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
    1. Michael L. Adams — Study lead
    1. Michael J. Amato — Planetary & Lunar buisness lead
-   1. [Charles L. Baker](02_baker_001.md) — Study systems lead
-   1. [Lori S. Glaze](02_glaze_001.md) — Science champion
+   1. [Charles L. Baker](02_baker1.md) — Study systems lead
+   1. [Lori S. Glaze](02_glaze1.md) — Science champion
    1. Gabriel Karpati — Decadal studies system lead
 
 **COMMUNITY:**

@@ -9,7 +9,7 @@
 
 **CubeSat UV Experiment (CUVE)** is a space mission concept to study the atmospheric processes of the planet Venus with a small satellite. Specifically, the orbiter mission would study an enigmatic ultraviolet light absorber of unknown composition situated within the planet's uppermost cloud layer that absorbs about half the solar radiation downwelling in the planet's atmosphere.
 
-The mission concept is still in its early formulation stage, started in 2017. The Principal Investigator is [Valeria Cottini](02_cottini_001.md), at the University of Maryland in College Park.
+The mission concept is still in its early formulation stage, started in 2017. The Principal Investigator is [Valeria Cottini](02_cottini1.md), at the University of Maryland in College Park.
 
 [![](f/project/cubesat_uv_experiment/pic01_thumb.jpg)](f/project/cubesat_uv_experiment/pic01.jpg)
 
@@ -118,13 +118,13 @@ This concept will address the nature of the UV-absorber (range 0.32 — 0.49 �
 
 **PEOPLE:**
 
-   1. [Valeria Cottini](02_cottini_001.md) (UMD) — **[Principal investigator](principal_investigator.md)**
+   1. [Valeria Cottini](02_cottini1.md) (UMD) — **[Principal investigator](principal_investigator.md)**
    1. Shahid Aslam (NASA/GSFC)
    1. Emiliano D'Aversa (INAF-IAPS)
-   1. [Lori Glaze](02_glaze_001.md) (NASA/GSFC)
+   1. [Lori Glaze](02_glaze1.md) (NASA/GSFC)
    1. Nicolas Gorius (CUA)
    1. Tilak Hewagama (UMD)
-   1. [Nikolay Ignatiev](02_ignatiev_001.md) (IKI RAN)
+   1. [Nikolay Ignatiev](02_ignatiev1.md) (IKI RAN)
    1. Giuseppe Piccioni (INAF-IAPS)
 
 **COMMUNITY:**

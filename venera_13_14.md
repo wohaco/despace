@@ -293,7 +293,7 @@ The cameras were installed inside the airtight and thermally insulated compartme
 
 **PEOPLE:**
 
-   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov_001.md) (Долгополов Владимир Павлович)
+   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Долгополов Владимир Павлович)
    1. Don P. Mitchell — American researcher. He has processed the color images from Venera 13 and 14 using the raw original data.
 
 **COMMUNITY:**

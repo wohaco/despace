@@ -236,7 +236,7 @@ The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The ce
 
 **PEOPLE:**
 
-   - [Vladimir Pavlovich Dolgopolov](02_dolgopolov_001.md) (Долгополов Владимир Павлович)
+   - [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Долгополов Владимир Павлович)
 
 **COMMUNITY:**
 
