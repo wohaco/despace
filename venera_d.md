@@ -74,14 +74,14 @@ Targets and investigations:
 |EVN‑028||Magnetosphere structure.|  |D||F|||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
 |EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
-|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the supercritical fluid in the lower layers.| Ac, Ai, Am, At |D|||||
+|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.| Ac, Ai, Am, At |D|||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
 |EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
 |EVN‑040||Were there oceans & why has they gone?|  |D|C|F|||
 |EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
 |EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
-|EVN‑047||Surface: connection between the structure & composition of different regions & Venus evolution.|  ||C||||
+|EVN‑047||Surface: structure‑composition connection of different regions & Venus evolution.|  ||C||||
 |EVN‑048||Nature & sources of the greenhouse effect.|  |D||F|||
 |EVN‑049||Nature of the thermal tides.|  |D|||||
 |EVN‑056|T|Exploration: from L1/L2.| Ai, Am, At, Gi |D|||||

@@ -11,7 +11,7 @@
 
    - **[Education](edu.md):** Uria PhD
    - **Exp.:** New Frontiers Lead Program Executive, Lucy Program Executive, Venus Lead Scientist, Akatsuki Program Scientist, VEXAG Program Officer, EnVision Mission Study Lead, Venera-D Mission Study Lead
-   - **[Паспорт](f/contact/o/ocampo_adriana_christian-nasa-passport.png):** 821555866, истекает 2020.12.02, гражданство: США. Немного понимает по‑русски.
+   - Немного понимает по‑русски.
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
    - Git: …

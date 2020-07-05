@@ -606,6 +606,7 @@
 | [Tokyo Univ.](03_tokyo_univ.md) |E|||| … |
 | [TUPLS](03_tupls.md) |E|||| Tokyo University of Pharmacy & Life Sciences |
 | [Yspace LLC](03_yspace.md) |E|||C| VR |
+|**··· Not space ···**|•|•|•|•| Panasonic Avionics Corp. |
 
 </small>
 
