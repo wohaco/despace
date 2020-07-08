@@ -9,13 +9,13 @@
 
 **Akatsuki** (あかつき, 暁, «Dawn»), also known as the Venus **Climate Orbiter (VCO)** and **Planet-C** (next after [PLANET-B (Nozomi)](nozomi.md)) — is a Japanese spacecraft tasked to study the atmosphere of [Venus](venus.md).
 
-[![](f/project/akatsuki/pic01_thumb.jpg)](f/project/akatsuki/pic01.png) [![](f/project/akatsuki/pic04_thumb.jpg)](f/project/akatsuki/pic04.png)
+[![](f/project/a/akatsuki/pic01_thumb.jpg)](f/project/a/akatsuki/pic01.png) [![](f/project/a/akatsuki/pic04_thumb.jpg)](f/project/a/akatsuki/pic04.png)
 
 <p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-||**`Mission`**|
+||**Mission:**|
 |Duration| 2 years (plan) и 4.5 years (estimated maximum);<br> 2010.05.21 - <mark>TBD</mark> (fact) |
 |Operator| [JAXA](03_jaxa.md) |
 |Program| … |
@@ -25,7 +25,7 @@
 |[Type](sc.md)| Orbiter spacecraft |
 |Goal| Investigations of atmospheric stratification, dynamics, physics of clouds, hydrodynamic gravitational waves; survey of clouds and surface; exploring Venusian meteorology and super rotation of the atmosphere, the presence of lightning and volcanism |
 |Price| $ 290M ot 7 370 kg of [gold](sc_price.md) in 2010 priсes |
-||**`Spacecraft`**|
+||**Spacecraft:**|
 |Mass| 517.6 kg, (dry: 320 kg) ([minisatellite](спутник.md), [EVN‑070](venus.md)) |
 |[Number](spaceid.md)| NSSDC ID (COSPAR ID): 2010-020D, SCN: 36576 |
 |Orbit / Place| 300 × 80 000 km, 172°, 30 hr |
@@ -38,7 +38,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -49,12 +49,13 @@ Targets & investigations:
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
+|EVN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
 |EVN‑010||Atmosphere: vertical model.|  |D|||||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||
 |EVN‑012||Atmosphere: lightnings.|  |D|||||
 |EVN‑023||Surface: mineralogical composition.|  ||C||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
 |EVN‑067||Atmosphere: nature of the polar turbulence.|  |D|||||
 |EVN‑068||Atmosphere: nature of the polar dipole.|  |D|||||
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
@@ -77,21 +78,21 @@ It is believed that Venus and Earth appeared around the same time 4.6 billion 
 
 Unlike Earth, the upper atmosphere moves 60 times faster than the surface. Terrestrial meteorology cannot explain this phenomenon.
 
-There is no clear evidence to shed light on the reasons for such a large difference between Venus and Earth. If it were possible to determine how the current conditions on Venus arose, it would be possible to understand how Earth became a planet with a temperature and humidity sufficient to support such a large variety of life. In addition, a thorough study of the phenomena of Venusian meteorology and its accurate mathematical modeling in relation to earth's meteorology would allow to develop a universal planetary meteorology, as well as understand the causes of the current state of the earth's atmosphere and predict its possible future changes.
+There is no clear evidence to shed light on the reasons for such a large difference between Venus and Earth. If it were possible to determine how the current conditions on Venus arose, it would be possible to understand how Earth became a planet with a temperature and humidity sufficient to support such a large variety of life. In addition, a thorough study of the phenomena of Venusian meteorology and its accurate mathematical modeling in relation to earth’s meteorology would allow to develop a universal planetary meteorology, as well as understand the causes of the current state of the earth’s atmosphere and predict its possible future changes.
 
-Similar to the Japanese meteorological satellite Himawari, which is in orbit of an artificial earth satellite, 4 Akatsuki cameras (IR1, IR2, LIR, UVI) are designed to obtain images of the cloud cover of Venus (the location, shape, temperature and volume of cloud substances). Clouds appear and disappear, change their shape; by tracking their changes in their characteristics, can be observed the movement of clouds. It is assumed that the longest-lived clouds move with wind currents in the atmosphere, which allows you to model the movement of winds in the atmosphere of Venus. Cameras with optics in different ranges allow to observe the atmosphere not only horizontally, but also vertically. Moreover, if LAC registers the presence of lightning, it will shed light on updrafts similar to those seen in earth's rain clouds that produce lightning, as well as on atmospheric currents at altitudes.
+Similar to the Japanese meteorological satellite Himawari, which is in orbit of an artificial earth satellite, 4 Akatsuki cameras (IR1, IR2, LIR, UVI) are designed to obtain images of the cloud cover of Venus (the location, shape, temperature and volume of cloud substances). Clouds appear and disappear, change their shape; by tracking their changes in their characteristics, can be observed the movement of clouds. It is assumed that the longest-lived clouds move with wind currents in the atmosphere, which allows you to model the movement of winds in the atmosphere of Venus. Cameras with optics in different ranges allow to observe the atmosphere not only horizontally, but also vertically. Moreover, if LAC registers the presence of lightning, it will shed light on updrafts similar to those seen in earth’s rain clouds that produce lightning, as well as on atmospheric currents at altitudes.
 
-Observing the above-mentioned changes in cloud shapes over a long period of time will allow to gather information about the waves in the atmosphere. When a major earthquake occurs at the bottom of the earth's sea, tsunamis spread over long distances. Atmospheric waves (their causes may be different) propagate in the atmosphere in a similar way, spreading energy in different directions. In this case, atmospheric waves play a key role on planets. Information about atmospheric waves obtained from Akatsuki is expected to provide a better understanding of the nature and mechanisms of large circulations, such as super rotation, based on smaller circulations, as well as the mechanisms of energy exchange between the layers of the atmosphere.
+Observing the above-mentioned changes in cloud shapes over a long period of time will allow to gather information about the waves in the atmosphere. When a major earthquake occurs at the bottom of the earth’s sea, tsunamis spread over long distances. Atmospheric waves (their causes may be different) propagate in the atmosphere in a similar way, spreading energy in different directions. In this case, atmospheric waves play a key role on planets. Information about atmospheric waves obtained from Akatsuki is expected to provide a better understanding of the nature and mechanisms of large circulations, such as super rotation, based on smaller circulations, as well as the mechanisms of energy exchange between the layers of the atmosphere.
 
-Earth's meteorology was built through a wide range of measurements and observations. The variety of data sent by Akatsuki to Earth can shed light on the meteorological phenomena of Venus, allowing for a better understanding of Earth's meteorology.
+Earth’s meteorology was built through a wide range of measurements and observations. The variety of data sent by Akatsuki to Earth can shed light on the meteorological phenomena of Venus, allowing for a better understanding of Earth’s meteorology.
 
 
 ### Mission
-Venus rotates inside the Earth's orbit and is the closest planet to Earth. The radius of the orbit is about 182 million km or 72 % of the distance between the Sun and the Earth; the diameter of Venus is 95 % of the Earth's, and the mass is 82 %. Thus, Venus in this aspect is almost a twin of Earth.
+Venus rotates inside the Earth’s orbit and is the closest planet to Earth. The radius of the orbit is about 182 million km or 72 % of the distance between the Sun and the Earth; the diameter of Venus is 95 % of the Earth’s, and the mass is 82 %. Thus, Venus in this aspect is almost a twin of Earth.
 
-Venus has been known for a long time as a planet that is seen especially brightly at dawn and sunset. This is because, in addition to its proximity to Earth, Venus' atmosphere reflects sunlight. Venus is covered with clouds of sulfuric acid up to 20 km thick, so it is impossible to see the surface of Venus with the naked eye through its atmosphere. These clouds reflect about 80 % of the Sun's light, which means that the Venusian surface receives half as much energy as Earth's. However, due to the high density of the atmosphere, which consists mainly of carbon dioxide (the pressure at the surface is 90 bar), the greenhouse effect leads to a temperature at the surface of about 460 °C (860 °F). This atmosphere moves at a high speed (one cycle in 4 Earth days), surpassing the slow rotation of Venus (243 Earth days) — this effect is called superrotation.
+Venus has been known for a long time as a planet that is seen especially brightly at dawn and sunset. This is because, in addition to its proximity to Earth, Venus’ atmosphere reflects sunlight. Venus is covered with clouds of sulfuric acid up to 20 km thick, so it is impossible to see the surface of Venus with the naked eye through its atmosphere. These clouds reflect about 80 % of the Sun’s light, which means that the Venusian surface receives half as much energy as Earth’s. However, due to the high density of the atmosphere, which consists mainly of carbon dioxide (the pressure at the surface is 90 bar), the greenhouse effect leads to a temperature at the surface of about 460 °C (860 °F). This atmosphere moves at a high speed (one cycle in 4 Earth days), surpassing the slow rotation of Venus (243 Earth days) — this effect is called superrotation.
 
-The oceans, magnetic field, and tectonics of the lithosphere present on Earth are missing on Venus. In addition, the presence of lightning and active volcanoes has not yet been confirmed. And although Venus is often called the Earth's twin, they have many differences.
+The oceans, magnetic field, and tectonics of the lithosphere present on Earth are missing on Venus. In addition, the presence of lightning and active volcanoes has not yet been confirmed. And although Venus is often called the Earth’s twin, they have many differences.
 
 The cost of the mission is $ 290 million or 7 370 kg of [gold](sc_price.md) in 2010 prices (SC is $ 174 million or 4 422 kg of [gold](sc_price.md), launch is $ 116 million or 2 948 kg of [gold](sc_price.md), or ¥ 14.6 billion and ¥ 9.8 billion, respectively).
 
@@ -106,25 +107,26 @@ From October 2009 to January 2010, a public campaign was conducted by the [Plane
 <p style="page-break-after:always"> </p>
 
 ### Goals and Payload
-** The goal of the project** Akatsuki is a three-dimensional investigation of the movement of the Venusian atmosphere over time and the construction of the meteorology of Venus ([EVN‑074](venus.md)).
+**The goal of the project** Akatsuki is a three-dimensional investigation of the movement of the Venusian atmosphere over time and the construction of the meteorology of Venus ([EVN‑074](venus.md)).
 
-Research on Venus began in the 1960s, when the United States and the Soviet Union began sending spacecraft to the planet. It was found that the surface is extremely hot, and there are no oceans, and that the atmosphere differs from the earth's in density, composition, and rotation patterns. Venus was very different from Earth.
+Research on Venus began in the 1960s, when the United States and the Soviet Union began sending spacecraft to the planet. It was found that the surface is extremely hot, and there are no oceans, and that the atmosphere differs from the earth’s in density, composition, and rotation patterns. Venus was very different from Earth.
 
-![](f/project/akatsuki/pic02.jpg)  
+![](f/project/a/akatsuki/pic02.jpg)  
 Images obtained from past missions, in various wavelength ranges. On the left — an image from the spacecraft [Pioneer-Venus-1](pioneer_venus_1.md) (NASA) from 1979 in the UV range. In the center and right are images from the solid‑state imaging system (SSI) and near‑infrared mapping spectrometer (NIMS) from the spacecraft [Galileo](galileo.md) (NASA) from 1990.
 
 This raises a great mystery of atmospheric motion. Venus rotates very slowly, but the upper atmosphere moves at speeds up to 100 m/s, 60 times faster than the surface. Usually, if the upper part of the atmosphere moves faster than the lower, this causes friction, which eventually leads to the alignment of speeds throughout the height. However, on Venus, the atmosphere does not equalize the speed.
 
 To solve the mysteries of the atmosphere, Akatsuki observes the movements of the atmosphere at various altitudes and tries to clarify the dynamics of the atmosphere in three dimensions ([EVN‑011](venus.md)). Also, the task is to determine the causes of clouds ([EVN‑075](venus.md)) and the presence or absence of lightning in them ([EVN‑012](venus.md)). By comparing these observations, it is possible to systematize Venusian meteorology and later create a more universal planetary meteorology based on it.
 
-   - 2020.04.23 According to the [phys.org article ⎆](https://phys.org/news/2020-04-atmospheric-tidal-venus-super-rotation.html) there is an update of atmosphere's superrotation nature ([EVN‑034](venus.md)). An international research team led by Takeshi Horinouchi of Hokkaido University has revealed that this 'super-rotation' is maintained near the equator by atmospheric tidal waves formed from solar heating on the planet's dayside and cooling on its nightside. Closer to the poles, however, atmospheric turbulence and other kinds of waves have a more pronounced effect. The study was published online in *Science* on April 23.
+   - 2018 LIR instrument found a long (~ 10 000 km) standing wave in the atmosphere which may affect the Venus day longevity periodically shortening/elongating it.
+   - 2020.04.23 According to the [phys.org article ⎆](https://phys.org/news/2020-04-atmospheric-tidal-venus-super-rotation.html) there is an update of atmosphere’s superrotation nature ([EVN‑034](venus.md)). An international research team led by Takeshi Horinouchi of Hokkaido University has revealed that this ’super-rotation' is maintained near the equator by atmospheric tidal waves formed from solar heating on the planet’s dayside and cooling on its nightside. Closer to the poles, however, atmospheric turbulence and other kinds of waves have a more pronounced effect. The study was published online in *Science* on April 23.
 
 
 
 <p style="page-break-after:always"> </p>
 
 ### Spacecraft
-[![](f/project/akatsuki/pic03_thumb.jpg)](f/project/akatsuki/pic03.png)
+[![](f/project/a/akatsuki/pic03_thumb.jpg)](f/project/a/akatsuki/pic03.png)
 
 **Spacecraft** is a cube of 1.45 × 1.04 × 1.44 m.
 
@@ -184,7 +186,7 @@ The first spacecraft to use silicon nitride brake engines.
    1. 2016.12 — Failure IR1 и IR2.
    1. 2018.04 — End of the main program, start of the extended program.
 
-![](f/project/akatsuki/trajectory_01.gif)  
+![](f/project/a/akatsuki/trajectory_01.gif)  
 
 
 
@@ -193,9 +195,9 @@ The experiments on Akatsuki are strongly related to those on [Venus Express](ven
 
 The spacecraft entered a 24-hour orbit of 250‑350 × 66 000 km with an inclination of 78 N, allowing close observations of the North pole and global observations of the southern hemisphere. The main part of the mission ended in October 2007 and was extended until December 2012. In terms of atmospheric and surface observations, the main difference between Akatsuki and Venus Express is that Venus Express focused on global observations from Equatorial orbit, while Akatsuki focuses on spectroscopy from polar orbit, despite the fact that VMC on Venus Express did a global survey of the southern hemisphere and VIRTIS created a map of the planetary disk in mosaic mode. These various tasks complement each other in various aspects of the study of Venus.
 
-Information about the vertical position of clouds and their composition is important for accurate interpretation of images from VCO; it is difficult to get information about the location of clouds from VCO, and multi-band observations will allow you to differentiate the atmosphere into levels ([EVN-010](venus.md)). Information about the vertical composition of the atmosphere obtained by the Venus Express spectrographic instruments (PFS, SPICAV, VIRTIS) is the basis for Akatsuki's operation.
+Information about the vertical position of clouds and their composition is important for accurate interpretation of images from VCO; it is difficult to get information about the location of clouds from VCO, and multi-band observations will allow you to differentiate the atmosphere into levels ([EVN‑010](venus.md)). Information about the vertical composition of the atmosphere obtained by the Venus Express spectrographic instruments (PFS, SPICAV, VIRTIS) is the basis for Akatsuki’s operation.
 
-Due to orbital limitations, Akatsuki cameras take global images of both hemispheres with an emphasis on low and middle latitudes, while VMC and VIRTIS Venus Express take global views of the southern hemisphere with an emphasis on high latitudes. Observations of Venus Express are suitable for obtaining the planet scale of symmetrical or asymmetric wave modes, for example, horizontal Y feature (Del Genio and Rossow, 1990) and allow you to observe a hemispherical difference. Akatsuki will tell more about the polar vortex ([EVN-067] (venus.md)) and the so-called polar dipole ([EVN-068] (venus.md)), Taylor et al., 1980).
+Due to orbital limitations, Akatsuki cameras take global images of both hemispheres with an emphasis on low and middle latitudes, while VMC and VIRTIS Venus Express take global views of the southern hemisphere with an emphasis on high latitudes. Observations of Venus Express are suitable for obtaining the planet scale of symmetrical or asymmetric wave modes, for example, horizontal Y feature (Del Genio and Rossow, 1990) and allow you to observe a hemispherical difference. Akatsuki will tell more about the polar vortex ([EVN‑067] (venus.md)) and the so-called polar dipole ([EVN‑068] (venus.md)), Taylor et al., 1980).
 
 The method of ringing the surface using the near-IR range is also slightly different from that in Venus Express. IR1 scans the surface globally and continuously while simultaneously scanning clouds at a wavelength of 1.01 µm. This makes it quite easy to separate the surface structure from the clouds, since clouds rarely change their size and shape. Venus Express, however, uses a larger set of wavelengths to isolate individual materials in the surface. The latitude coverage of Akatsuki and Venus Express also differs, in the same way as atmospheric observations.
 
@@ -213,9 +215,9 @@ The payload includes 6 instruments, including 5 cameras for exploring Venus in t
    - **Ultra-Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](02_imamura1.md) (Tokyo Univ.).
    - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide and an unknown UV absorber (range 283 — 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](02_watanabe1.md) (Hokkaido Information Univ.).
 
-![](f/project/akatsuki/payload01.png)
+![](f/project/a/akatsuki/payload01.png)
 
-[![](f/project/akatsuki/payload09_thumb.jpg)](f/project/akatsuki/payload09.jpg)  
+[![](f/project/a/akatsuki/payload09_thumb.jpg)](f/project/a/akatsuki/payload09.jpg)  
 Concept image of Akatsuki measurements.  
 The six instruments placed on Akatsuki are designed to study various aspects of the atmosphere of Venus at various altitudes. The figure on the left shows targets and instruments, and on the right — heights. By observing atmospheric objects for a long time, for example, clouds, it is possible to obtain the distribution of wind speeds (wind vectors).
 
@@ -224,56 +226,56 @@ The six instruments placed on Akatsuki are designed to study various aspects of 
 <p style="page-break-after:always"> </p>
 
 ### IR1 (1 µm camera)
-The observation of radio waves with a length of about 1 µm allows us to observe the lower layer of clouds and the near-surface part of Venus, and by comparing the intensity of radiation at different IR wavelengths, it is possible to study the movement of the lower layer of clouds ([EVN-011](venus.md)), water vapor distribution ([EVN-077](venus.md)), surface mineral composition ([EVN-023](venus.md)), and detect the presence of active volcanoes ([EVN-076](venus.md)).
+The observation of radio waves with a length of about 1 µm allows us to observe the lower layer of clouds and the near-surface part of Venus, and by comparing the intensity of radiation at different IR wavelengths, it is possible to study the movement of the lower layer of clouds ([EVN‑011](venus.md)), water vapor distribution ([EVN‑077](venus.md)), surface mineral composition ([EVN‑023](venus.md)), and detect the presence of active volcanoes ([EVN‑076](venus.md)).
 
-![](f/project/akatsuki/payload02.jpg)
+![](f/project/a/akatsuki/payload02.jpg)
 
 
 
 <p style="page-break-after:always"> </p>
 
 ### IR2 (2 µm camera)
-Radio waves with a length of 2 µm coming from the regions of the bottom of the lower layer of the atmosphere allow to judge their density, cloud particle size, CO distribution, and other parameters, allowing to judge the movement of the atmosphere at low altitudes ([EVN-011](venus.md)) and understand how the clouds of Venus are formed ([EVN-075](venus.md)). The instrument also allows to measure the zodiacal light along the path of Venus in order to investigate the distribution of dust in the solar system ([ECT-002](ect2.md)).
+Radio waves with a length of 2 µm coming from the regions of the bottom of the lower layer of the atmosphere allow to judge their density, cloud particle size, CO distribution, and other parameters, allowing to judge the movement of the atmosphere at low altitudes ([EVN‑011](venus.md)) and understand how the clouds of Venus are formed ([EVN‑075](venus.md)). The instrument also allows to measure the zodiacal light along the path of Venus in order to investigate the distribution of dust in the solar system ([ECT-002](ect2.md)).
 
-![](f/project/akatsuki/payload03.jpg)
+![](f/project/a/akatsuki/payload03.jpg)
 
 
 
 <p style="page-break-after:always"> </p>
 
 ### LAC (Lightning and airglow camera)
-LAC allows to record flashes lasting up to 1/30 000 s, record lightning discharges of short duration and resolve the question of the presence of lightning in the atmosphere of Venus ([EVN-012](venus.md)). It also allows to record the glow in the atmosphere caused by oxygen at the very top of the atmosphere at an altitude of about 100 km, allowing to build a model of the movement of the atmosphere between the Sun and the shadow side of Venus ([EVN-011](venus.md)).
+LAC allows to record flashes lasting up to 1/30 000 s, record lightning discharges of short duration and resolve the question of the presence of lightning in the atmosphere of Venus ([EVN‑012](venus.md)). It also allows to record the glow in the atmosphere caused by oxygen at the very top of the atmosphere at an altitude of about 100 km, allowing to build a model of the movement of the atmosphere between the Sun and the shadow side of Venus ([EVN‑011](venus.md)).
 
-![](f/project/akatsuki/payload04.jpg)
+![](f/project/a/akatsuki/payload04.jpg)
 
 
 
 <p style="page-break-after:always"> </p>
 
 ### LIR (Long-wave infrared camera)
-The IR spectrum at a wavelength of 10 µm is used to measure the temperature of the upper atmosphere. This information can be used to obtain the distribution of altitudes, as well as horizontal and vertical flows in the upper atmosphere ([EVN-010](venus.md)).
+The IR spectrum at a wavelength of 10 µm is used to measure the temperature of the upper atmosphere. This information can be used to obtain the distribution of altitudes, as well as horizontal and vertical flows in the upper atmosphere ([EVN‑010](venus.md)).
 
-![](f/project/akatsuki/payload05.jpg)
+![](f/project/a/akatsuki/payload05.jpg)
 
 
 
 <p style="page-break-after:always"> </p>
 
 ### USO (Ultra-stable oscillator)
-When Akatsuki is obscured by Venus from observations from Earth, radio waves emitted by the spacecraft enter the atmosphere of Venus and reach the Earth ([EVN-078](venus.md)). The transit of radio waves through the atmosphere of Venus causes a change in their frequency. By analyzing these changes, could be constructed vertical temperature profiles ([EVN-010](venus.md)) and sulphuric acid mist ([EVN-077](venus.md)). An ultra-stable oscillator is used to generate the radio wave.
+When Akatsuki is obscured by Venus from observations from Earth, radio waves emitted by the spacecraft enter the atmosphere of Venus and reach the Earth ([EVN‑078](venus.md)). The transit of radio waves through the atmosphere of Venus causes a change in their frequency. By analyzing these changes, could be constructed vertical temperature profiles ([EVN‑010](venus.md)) and sulphuric acid mist ([EVN‑077](venus.md)). An ultra-stable oscillator is used to generate the radio wave.
 
-![](f/project/akatsuki/payload06.jpg)
+![](f/project/a/akatsuki/payload06.jpg)
 
-![](f/project/akatsuki/payload07.jpg)
+![](f/project/a/akatsuki/payload07.jpg)
 
 
 
 <p style="page-break-after:always"> </p>
 
 ### UVI (Ultraviolet imager)
-UVI takes pictures in the UV range, allowing to determine the distribution of SO₂ ([EVN-077](venus.md)) related to the formation of clouds and the distribution of unidentified chemical substances that absorb UV rays ([EVN-035] (venus.md)). The instrument can also measure the wind speed of upper clouds ([EVN-011](venus.md)), observing the spread of UV rays in the clouds of Venus.
+UVI takes pictures in the UV range, allowing to determine the distribution of SO₂ ([EVN‑077](venus.md)) related to the formation of clouds and the distribution of unidentified chemical substances that absorb UV rays ([EVN‑035] (venus.md)). The instrument can also measure the wind speed of upper clouds ([EVN‑011](venus.md)), observing the spread of UV rays in the clouds of Venus.
 
-![](f/project/akatsuki/payload08.jpg)
+![](f/project/a/akatsuki/payload08.jpg)
 
 
 
@@ -324,9 +326,9 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
 
 **Docs:**
 
-   1. [Page directory](f/project/akatsuki/)
-   1. [Brochure ❐](f/project/akatsuki/brochure01.pdf)
-   1. [Overview of Venus orbiter, Akatsuki ❐](f/project/akatsuki/eps_2011_02_009.pdf)
+   1. [Page directory](f/project/a/akatsuki/)
+   1. [Brochure ❐](f/project/a/akatsuki/brochure01.pdf)
+   1. [Overview of Venus orbiter, Akatsuki ❐](f/project/a/akatsuki/eps_2011_02_009.pdf)
 
 **Links:**
 
@@ -347,6 +349,6 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
       1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](03_alpo.md) Venus section
       1. <http://pvol2.ehu.eus/pvol2/> — PVOL (Planetary Virtual Observatory & Laboratory)
       1. <https://www.britastro.org/section_front/18> — British Astronomical Association
-      1. <http://www.cosmos.esa.int/web/venus/active-archive> — ESA's Venus Ground-Based Image Archive
+      1. <http://www.cosmos.esa.int/web/venus/active-archive> — ESA’s Venus Ground-Based Image Archive
       1. <http://www.skytrip.de/ven.htm> — SlikyTrip.de
       1. <http://www.damianpeach.com/venus.htm> — Damian Peach

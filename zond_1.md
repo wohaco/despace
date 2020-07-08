@@ -9,7 +9,7 @@
 
 **Zond 1** was a spacecraft of the Soviet Zond program. It was the second Soviet research spacecraft to reach [Venus](venus.md), although communications had failed by that time.
 
-[![](f/project/zond_1/pic01_thumb.jpg)](f/project/zond_1/pic01.jpg) [![](f/project/zond_1/pic02_thumb.jpg)](f/project/zond_1/pic02.jpg)
+[![](f/project/z/zond_1/pic01_thumb.jpg)](f/project/z/zond_1/pic01.jpg) [![](f/project/z/zond_1/pic02_thumb.jpg)](f/project/z/zond_1/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -95,7 +95,7 @@ At landers stations 3MV “Venus” and “Mars” was planned to install the de
 
 **Orbital Compartment**
 
-The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft's control electronics, radio transmitters and receivers, batteries, astro‑orientation equipment, and so on. The compartment was pressurized to around 100 kPa and thermally controlled to simulate Earth‑like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions. On Zond 1 the module depressurized in flight, severely damaging the spacecraft's systems.
+The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft’s control electronics, radio transmitters and receivers, batteries, astro‑orientation equipment, and so on. The compartment was pressurized to around 100 kPa and thermally controlled to simulate Earth‑like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions. On Zond 1 the module depressurized in flight, severely damaging the spacecraft’s systems.
 
 Mounted on the outside of the Orbital Compartment were two solar panels which supplied power to the spacecraft. They were folded against the body of the spacecraft during launch and were only deployed when the spacecraft was already on its interplanetary trajectory. On the ends of each solar panel was a hemispherical radiator which radiated excess heat from the orbital compartment into through a coolant loop.
 
@@ -124,7 +124,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
       1. [Sergei Pavlovich Korolev](02_korolev1.md) (Сергей Павлович Королёв) was a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
       1. Aleksandr Konstantinovich Platonov (Александр Константинович Платонов) was a Soviet scientist, ballistics KIAM (ИПМ), analyzed the method of “solar correction”.
-      1. Alfred Charles Bernard Lovell was an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft's disoriented nondirectional antenna.
+      1. Alfred Charles Bernard Lovell was an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft’s disoriented nondirectional antenna.
       1. Valeri Nikolayevich Kubasov (Валерий Николаевич Кубасов) was a Soviet/Russian cosmonaut. Ballistics OKB-1, analyzed the method of “solar correction”.
 
 **COMMUNITY:**

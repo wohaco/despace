@@ -8,7 +8,7 @@
 |Tel| <mark>нетрабочего</mark>, fax: … |
 |Etc| … |
 
-**Wyvern** is a space company delivering premium Earth observation imagery from satellite platforms. Our images fuel the expanding Earth observation data market, which is rapidly progressing due to advances in analytics & machine learning. We're creating proprietary technologies to increase the resolution of Earth observation imagery from a small satellite platform. Earth observation data improves quality of life for people around the globe & its applications are continually growing. Analytics firms can utilize our data in industrial processes, agriculture,  environmental monitoring, & countless more vital applications.
+**Wyvern** is a space company delivering premium Earth observation imagery from satellite platforms. Our images fuel the expanding Earth observation data market, which is rapidly progressing due to advances in analytics & machine learning. We’re creating proprietary technologies to increase the resolution of Earth observation imagery from a small satellite platform. Earth observation data improves quality of life for people around the globe & its applications are continually growing. Analytics firms can utilize our data in industrial processes, agriculture,  environmental monitoring, & countless more vital applications.
 
 **Опыт кооперации.**  
 …

@@ -78,7 +78,7 @@
 
 ## Архивные
 
-   - **Angara‑100.** The Angara‑100 was a 2005 proposal by Khrunichev to build a heavy‑lift launch vehicle for NASA's Vision for Space Exploration. The rocket would consist of 4 RD‑170‑powered boosters, an RD‑180‑powered core stage, and a cryogenic upper stage using a modified Energia RD‑0120 engine, the RD‑0122. Its payload capacity to LEO would be in excess of 100 tons.
+   - **Angara‑100.** The Angara‑100 was a 2005 proposal by Khrunichev to build a heavy‑lift launch vehicle for NASA’s Vision for Space Exploration. The rocket would consist of 4 RD‑170‑powered boosters, an RD‑180‑powered core stage, and a cryogenic upper stage using a modified Energia RD‑0120 engine, the RD‑0122. Its payload capacity to LEO would be in excess of 100 tons.
    - **Baikal.** Together with NPO Molniya, Khrunichev has also proposed a reusable URM‑1 booster named Baikal. The URM‑1 would be fitted with a wing, an empennage, a landing gear, a return flight engine and attitude control thrusters, to enable the rocket to return to an airfield after completing its mission.
 
 

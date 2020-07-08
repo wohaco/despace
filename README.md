@@ -1,5 +1,5 @@
 # despace
-Just another spacecraft components & analytics database which you're able to take anywhere even without an internet connection.
+Just another spacecraft components & analytics database which you’re able to take anywhere even without an internet connection.
 
 The proposed starting point **[is here](index.md)** or you may look at the [FAQ](faq.md).
 

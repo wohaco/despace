@@ -11,7 +11,7 @@
 
 They are also often isolated from waves entering from their surroundings. This combination means that a person or detector exclusively hears direct sounds (no reverberant sounds), in effect simulating being inside an infinitely large room.
 
-They're two types of chambers:
+They’re two types of chambers:
 
    1. Acoustic anechoic chambers;
    1. Radio‑frequency anechoic chambers.

@@ -43,7 +43,7 @@
    - 2020.02.18 NASA started a competition concerning mechanical obstacles sensor.
       - <https://www.jpl.nasa.gov/news/news.php?feature=7604>
       - <https://www.herox.com/VenusRover>
-   - 2017 NASA's Jet Propulsion Laboratory began seriously studying how AREE would operate.
+   - 2017 NASA’s Jet Propulsion Laboratory began seriously studying how AREE would operate.
    - 2015 The project was first proposed.
 
 

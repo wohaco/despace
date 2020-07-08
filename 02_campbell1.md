@@ -1,7 +1,7 @@
 # Campbell, Bruce A.
 > 2019.10.12 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
 
-|*[Org.](contact.md)*|*Smithsonian Inst., National Air & Space Museum's Center for Earth & Planetary Studies, US. Geophysicist, Senior Scientist*|
+|*[Org.](contact.md)*|*Smithsonian Inst., National Air & Space Museum’s Center for Earth & Planetary Studies, US. Geophysicist, Senior Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
 |Tel| *раб.:* +1(202)633-24-72; *моб.:* <mark>нетмобильного</mark> |

@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Kennedy** — English term with no analogues in Russian. **Кеннеди** — literal translation to Russian.</small>
 
-**The John F. Kennedy Space Center** (**KSC**, originally known as the **NASA Launch Operations Center**), located in Merritt Island, Florida, is one of ten National Aeronautics and Space Administrationfield centers. Since December 1968, KSC has been NASA's primary launch center of human spaceflight. KSC is adjacent to [Cape Canaveral Air Force Station](canaveral.md).
+**The John F. Kennedy Space Center** (**KSC**, originally known as the **NASA Launch Operations Center**), located in Merritt Island, Florida, is one of ten National Aeronautics and Space Administrationfield centers. Since December 1968, KSC has been NASA’s primary launch center of human spaceflight. KSC is adjacent to [Cape Canaveral Air Force Station](canaveral.md).
 
 At the moment, only 9 % of the area of the cosmodrome is used for its intended purpose, the rest of the territory is a wildlife reserve.
 

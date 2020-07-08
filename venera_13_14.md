@@ -10,7 +10,7 @@
 
 **Venera 13** and **Venera 14** were spacecraft in the Soviet Venera program for the exploration of Venus.
 
-![](f/project/venera_13_14/pic01.jpg)
+![](f/project/v/venera_13_14/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -58,6 +58,7 @@ Achieved targets & investigations:
 |EVN‑017||Atmosphere: structure.|  |D|||||
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
 |EVN‑024||Surface: composition.|  ||C||||
+|EVN‑025||Surface: morphology|  |C|||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑062|T|Surface: obtaining & analysis of the surface samples.|  ||C|||S|
 |EVN‑063|T|Surface: panoramic mapping.|  ||C||||
@@ -80,7 +81,7 @@ Venera 13 and 14 were identical spacecraft built to take advantage of the 1981 V
 
 As the Orbiter flew by Venus, it acted as a data relay ([EVN‑092](venus.md)) for the lander and then continued on into a heliocentric orbit. It was equipped with scientific instruments which made measurements before, during, and after the Venus flyby ([EVN‑005](venus.md)).
 
-Both Orbiters transmitted data on solar wind and x-ray flares on the Sun. With their participation, an interplanetary network was formed, designed to triangulate gamma-ray bursts, which allowed 150 such events to be recorded. Later that decade, the [VeGa](vega_1_2.md) space station would fly near Venus and then meet Halley's comet. Therefore, after the flyby at Venus, the stations Venera 13 and Venera 14 later turned on the engines in order to practice the maneuver, which may be required in the implementation of further programs.
+Both Orbiters transmitted data on solar wind and x-ray flares on the Sun. With their participation, an interplanetary network was formed, designed to triangulate gamma-ray bursts, which allowed 150 such events to be recorded. Later that decade, the [VeGa](vega_1_2.md) space station would fly near Venus and then meet Halley’s comet. Therefore, after the flyby at Venus, the stations Venera 13 and Venera 14 later turned on the engines in order to practice the maneuver, which may be required in the implementation of further programs.
 
 After launch and a four-month cruise to Venus the descent vehicles separated from the cruise stages and plunged into the Venusian atmosphere on 1 March 1982 (Venera 13) and 5 March 1982 (Venera 14).
 
@@ -94,7 +95,7 @@ The nephelometer data on the structure and microphysical characteristics of the 
 
 The humidity sensor showed ten times more water content in the atmosphere than was obtained by spectrometric method in the range of heights from 46 to 50 km. the Amount of water vapor at an altitude of 48 km was estimated at 0.2%.
 
-New mass-spectrometer data showed an increased neon content at altitudes from 26 km to the surface. The ratio of 40argon/36argon is 4 times lower than the Earth's. The gas chromatograph recorded several new and refined contents of previously detected atmospheric gas constituents, including molecular hydrogen, hydrogen sulfide, and carbonyl sulfide. Other reported components included molecular oxygen, water vapor, krypton, and sulfur hexafluoride ([EVN‑077](venus.md)).
+New mass-spectrometer data showed an increased neon content at altitudes from 26 km to the surface. The ratio of 40argon/36argon is 4 times lower than the Earth’s. The gas chromatograph recorded several new and refined contents of previously detected atmospheric gas constituents, including molecular hydrogen, hydrogen sulfide, and carbonyl sulfide. Other reported components included molecular oxygen, water vapor, krypton, and sulfur hexafluoride ([EVN‑077](venus.md)).
 
 **Surface**
 
@@ -104,7 +105,7 @@ The area was composed of bedrock outcrops surrounded by dark, fine-grained soil 
 
 The lander functioned for at least 127 min (the planned design life was 32 min) in an environment with a temperature of 457 °C and a pressure of 89 atm. Only 2.4% of the sunlight reached the surface ([EVN‑013](venus.md)). The lander transmitted data to the Orbiter, which acted as a data relay as it flew by Venus ([EVN‑092](venus.md)).
 
-Microphones on the probe recorded atmospheric wind noises in an effort to measure wind speed (they also recorded noises associated with the probe's equipment). This was the first recording of sound on another planet. The recording was repeated with Venera 14.
+Microphones on the probe recorded atmospheric wind noises in an effort to measure wind speed (they also recorded noises associated with the probe’s equipment). This was the first recording of sound on another planet. The recording was repeated with Venera 14.
 
 **LANDER. Venera 14**
 
@@ -150,9 +151,9 @@ Gas chromatograph measurements yielded the following values:
 
 Venera 14 landed at 13.055 °S 310.19 °E (about 950 km southwest of Venera 13) near the eastern flank of Phoebe Regio on a basaltic plain ([EVN‑006](venus.md)).
 
-The lander functioned for at least 57 min (the planned design life was 32 min) in an environment with a temperature of 465 °C and a pressure of 94 atm. Telemetry had been maintained by means of the Orbiter that carried signals from the Lander's uplink antenna ([EVN‑092](venus.md)).
+The lander functioned for at least 57 min (the planned design life was 32 min) in an environment with a temperature of 465 °C and a pressure of 94 atm. Telemetry had been maintained by means of the Orbiter that carried signals from the Lander’s uplink antenna ([EVN‑092](venus.md)).
 
-Similar to Venera 13, panoramic images of the planet's surface were taken. For all time from two cameras 22 panoramas were transferred: 8 black-and-white, 5 through red, 5 through green, and 4 through a blue light filter ([EVN‑063](venus.md)).
+Similar to Venera 13, panoramic images of the planet’s surface were taken. For all time from two cameras 22 panoramas were transferred: 8 black-and-white, 5 through red, 5 through green, and 4 through a blue light filter ([EVN‑063](venus.md)).
 
 Panorama of Venus in a spherical projection, after correcting the perspective. On the left is camera 1 of Venera 13, on the right is camera 1 of Venera 14.
 
@@ -235,11 +236,11 @@ Orbiter payload mass: 92 kg.
 
 Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x-ray spectrometer for aerosols, mass spectrometer and gas chromatograph were improved. The payload mass of the Lander:  100 kg.
 
-![](f/project/venera_13_14/pic06.jpg)
+![](f/project/v/venera_13_14/pic06.jpg)
 
-![](f/project/venera_13_14/pic04.jpg)
+![](f/project/v/venera_13_14/pic04.jpg)
 
-![](f/project/venera_13_14/pic05.jpg)
+![](f/project/v/venera_13_14/pic05.jpg)
 
 
 
@@ -263,9 +264,9 @@ Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x-ra
 |:--|:--|
 | Launch mass of Venera 13 | 4 397.85 |
 | Launch mass of Venera 14 | 4 394.5 |
-| Flyby spacecraft's mass (with fuel) | 2 718 |
-| Lander's mass (with atmosphere entry system) | 1 645 |
-| Lander's mass | 760 |
+| Flyby spacecraft’s mass (with fuel) | 2 718 |
+| Lander’s mass (with atmosphere entry system) | 1 645 |
+| Lander’s mass | 760 |
 
 **Orbiter**
 
@@ -281,9 +282,9 @@ The descent lander was a hermetically-sealed pressure vessel, which contained mo
 
 The cameras were installed inside the airtight and thermally insulated compartment and a survey was carried out through a cylindrical window with a periscope system. The design of the covers covering the lenses of television cameras has been discard. 78 tests were conducted to verify their discharge. The soil sampling system was redesigned to eliminate problems encountered on [Venera 11 and Venera 12](venera_11_12.md). In particular, the soil should have been delivered into the chamber using the squib.
 
-![](f/project/venera_13_14/pic02.jpg)
+![](f/project/v/venera_13_14/pic02.jpg)
 
-![](f/project/venera_13_14/pic03.jpg)
+![](f/project/v/venera_13_14/pic03.jpg)
 
 
 
@@ -320,5 +321,5 @@ The cameras were installed inside the airtight and thermally insulated compartme
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_13>
    1. <https://en.wikipedia.org/wiki/Venera_14>
-   1. <http://galspace.spb.ru/index500.html> *(archive [2019.12.22 ❐](f/project/venera_13_14/doc001.pdf))*
+   1. <http://galspace.spb.ru/index500.html> *(archive [2019.12.22 ❐](f/project/v/venera_13_14/doc001.pdf))*
    1. <https://www.laspace.ru/projects/planets/venus13-14/>

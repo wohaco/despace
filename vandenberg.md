@@ -11,7 +11,7 @@
 
 In addition to its military space launch mission, Vandenberg Air Force Base also performs space launches for civil and commercial space entities, such as NASA.
 
-Vandenberg's location is North of the Pacific ocean — as opposed to [the Kennedy Space Center](Kennedy.md), facilitates the launch of satellites into polar orbit. It is located in the course of the earth's rotation, which makes the base well-suited for launching reconnaissance satellites.
+Vandenberg’s location is North of the Pacific ocean — as opposed to [the Kennedy Space Center](Kennedy.md), facilitates the launch of satellites into polar orbit. It is located in the course of the earth’s rotation, which makes the base well-suited for launching reconnaissance satellites.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

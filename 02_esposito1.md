@@ -10,7 +10,7 @@
 || [![](f/contact/e/esposito_001_photo_thumb.jpg)](f/contact/e/esposito_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** A 1973 graduate at the Massachusetts Institute of Technology. PhD in astronomy.
-   - **Exp.:** Observational & theoretical studies of planetary atmospheres & rings; chemistry & dynamics of Venus clouds; waves in Saturn's rings; numerical methods for radiation transfer.
+   - **Exp.:** Observational & theoretical studies of planetary atmospheres & rings; chemistry & dynamics of Venus clouds; waves in Saturn’s rings; numerical methods for radiation transfer.
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)

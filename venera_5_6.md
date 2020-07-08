@@ -8,9 +8,9 @@
 > <small>*Terms:* **Венера‑5** — Russian term with no analogues in English. **Venera 5** — English equivalent.</small>  
 > <small>**Венера‑6** — Russian term with no analogues in English. **Venera 6** — English equivalent.</small>
 
-**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 km, the lander took measurements of temperature (from 25 to 320 °C), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet's atmosphere, which was 97% CO₂, 2% N₂, O₂<1%, and traces of water vapor were found.
+**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 km, the lander took measurements of temperature (from 25 to 320 °C), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97% CO₂, 2% N₂, O₂<1%, and traces of water vapor were found.
 
-[![](f/project/venera_5_6/pic01_thumb.jpg)](f/project/venera_5_6/pic01.jpg)
+[![](f/project/v/venera_5_6/pic01_thumb.jpg)](f/project/v/venera_5_6/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -34,12 +34,12 @@
 |Manufacturer| Lavochkin |
 |Mass| SC 1 130 kg, Lander dry 410 kg ([large satellite](sc.md), [EVN‑073](venus.md)) |
 |Orbit / Site| **Venera 5:** Heliocentric 0.72 × 0.98 AU; T = 286 days<br> **Venera 6:** Heliocentric 0.71 × 0.98 AU; T = 285 days |
-|Payload| **Spacecraft:** Instrument to study the flows of cosmic particles, to determine the distribution of oxygen and hydrogen in the planet's atmosphere<br> **Lander:** Equipment for Making Atmospheric Measurements |
+|Payload| **Spacecraft:** Instrument to study the flows of cosmic particles, to determine the distribution of oxygen and hydrogen in the planet’s atmosphere<br> **Lander:** Equipment for Making Atmospheric Measurements |
 |Power| … |
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -49,9 +49,9 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
+|EVN‑008||Atmosphere: nightglows.|  |D|||||
 |EVN‑012||Atmosphere: lightnings.|  |D|||||
 |EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
@@ -103,7 +103,7 @@ The main task of the spacecrafts was to obtain data about the atmosphere with th
 **Spacecraft**
 
    - Instrument **COP-18-3M** for the study of cosmic particle streams;
-   - **LA-2U** device for determining the distribution of oxygen and hydrogen in the planet's atmosphere (Lyman-alpha line) ([EVN‑077](venus.md)).
+   - **LA-2U** device for determining the distribution of oxygen and hydrogen in the planet’s atmosphere (Lyman-alpha line) ([EVN‑077](venus.md)).
 
 **Lander**
 

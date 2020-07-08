@@ -32,7 +32,7 @@
 **Таблица.** Двигатели (упорядочено по возрастанию тяги)
 
 |*°*|*[Фирма](contact.md)*|*Модели двигателей (тяга, кгс)*|
-|:--:|:--|:--|
+|:--|:--|:--|
 |**EU**| [OPC LAM](03_opc_lam.md)  |**ЖРД (1к.)** — [1NMHT](1nmht.md) (0.1) ┊ [20NMHT](20nmht.md) (22) ┊ [400NMHT](400nmht.md) (43);<br> **ЖРД (2к.)** — [S10](s10.md) (1) ┊ [S200](s200.md) (2.5) ┊ [S400](s400.md) (43);<br> **ЭРД** — [RIT µX](rit_mux.md) (0.0005) ┊ [RIT 10](rit_10.md) (0.0025) ┊ [RIT 2X](rit_2x.md) (0.021)  |
 |•|• • • • • • • •|• • •|
 |**RU**| [AvantSpace](03_avantspace.md) | **ЭРД** — [GT-50](gt_50.md) (0.0007) |
@@ -67,7 +67,7 @@ Common engines:
 
 Programs and technologies:
 
-   - NASA's [TALOS](talos.md) (Thruster Advancement for Low-temperature operation in space)
+   - NASA’s [TALOS](talos.md) (Thruster Advancement for Low-temperature operation in space)
 
 
 

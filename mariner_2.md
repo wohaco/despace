@@ -9,7 +9,7 @@
 
 **Mariner 2** — american automatic interplanetary station, launched on August 27, 1962 to explore Venus. The first spacecraft to successfully explore another planet.
 
-[![](f/project/mariner_2/pic01_thumb.jpg)](f/project/mariner_2/pic01.jpg)
+[![](f/project/m/mariner_2/pic01_thumb.jpg)](f/project/m/mariner_2/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
@@ -66,15 +66,15 @@ Achieved targets & investigations:
 ## Mission
 Mariner-2 (Mariner-Venus 1962), an American Venus exploration spacecraft, was the first spacecraft to conduct a successful planetary rendezvous. It was launched from Cape Canaveral on August 27, 1962.
 
-The main mission was to receive messages from the spacecraft in the vicinity of Venus and conduct radiometric measurements of the planet's temperature. The second task was to measure the interplanetary magnetic field ([EVN‑028](venus.md)) and the environment with charged particles ([EVN‑097](venus.md)).
+The main mission was to receive messages from the spacecraft in the vicinity of Venus and conduct radiometric measurements of the planet’s temperature. The second task was to measure the interplanetary magnetic field ([EVN‑028](venus.md)) and the environment with charged particles ([EVN‑097](venus.md)).
 
-On the way to Venus, Mariner 2 measured the solar wind ([EVN-097](venus.md)) − a constant stream of charged particles, which confirmed the results of measurements made by Luna 1 in 1959. It also measured interplanetary dust, which was less than predicted. In addition, Mariner 2 detected high-energy charged particles coming from the Sun, including several short solar flares, as well as cosmic rays from outside the solar system. When Mariner 2 flew past Venus on December 14, 1962 ([EVN-005](venus.md)), it scanned the planet with its pair of radiometers, finding that Venus has relatively cool clouds and an extremely hot surface ([EVN-001](venus.md), [EVN‑074](venus.md)).
+On the way to Venus, Mariner 2 measured the solar wind ([EVN‑097](venus.md)) − a constant stream of charged particles, which confirmed the results of measurements made by Luna 1 in 1959. It also measured interplanetary dust, which was less than predicted. In addition, Mariner 2 detected high-energy charged particles coming from the Sun, including several short solar flares, as well as cosmic rays from outside the solar system. When Mariner 2 flew past Venus on December 14, 1962 ([EVN‑005](venus.md)), it scanned the planet with its pair of radiometers, finding that Venus has relatively cool clouds and an extremely hot surface ([EVN‑001](venus.md), [EVN‑074](venus.md)).
 
 The last data transmission from Mariner 2 was received on January 3, 1963 at 7:00 UTC, meaning the total time from launch to mission completion was 2 129 days.
 
-The magnetic field of Venus Mariner 2 did not detect ([EVN‑028](venus.md)), which, however, did not mean that the planet did not have one. A radiation belt similar to Earth's was also not found on Venus.
+The magnetic field of Venus Mariner 2 did not detect ([EVN‑028](venus.md)), which, however, did not mean that the planet did not have one. A radiation belt similar to Earth’s was also not found on Venus.
 
-Improved estimates of the mass of Venus were made, as well as studies (later confirmed by other research) that showed that Venus rotates very slowly and in the opposite direction of The Earth's rotation ([EVN-090](venus.md)).
+Improved estimates of the mass of Venus were made, as well as studies (later confirmed by other research) that showed that Venus rotates very slowly and in the opposite direction of The Earth’s rotation ([EVN‑090](venus.md)).
 
 
 
@@ -97,11 +97,11 @@ Besides the experiments with the scientific instruments, the objectives of both 
    - Evaluation of the entire power system.
    - Evaluation of the communication system.
 
-The data received during the flight consisted of two categories, namely: tracking data and telemetry. One of the most significant data collected by the spacecraft was information about the high temperature of the atmosphere of Venus ([EVN-074](venus.md)), the value of which was close to 500 °C. For the first time, various properties of the solar wind were measured.
+The data received during the flight consisted of two categories, namely: tracking data and telemetry. One of the most significant data collected by the spacecraft was information about the high temperature of the atmosphere of Venus ([EVN‑074](venus.md)), the value of which was close to 500 °C. For the first time, various properties of the solar wind were measured.
 
 Mariner 2 was equipped with scientific instruments for measuring the magnetic field, infrared and microwave radiation, detecting high-energy particles, and meteor dust. The station did not have a camera.
 
-   - A two-channel microwave radiometer. It was used to determine the absolute temperature of Venus' surface and details concerning its atmosphere through its microwave-radiation characteristics, including the daylight and dark hemispheres, and in the region of the terminator ([EVN‑074](venus.md)). Measurements were performed simultaneously in two frequency bands of 13.5 mm and 19.0 mm.
+   - A two-channel microwave radiometer. It was used to determine the absolute temperature of Venus’ surface and details concerning its atmosphere through its microwave-radiation characteristics, including the daylight and dark hemispheres, and in the region of the terminator ([EVN‑074](venus.md)). Measurements were performed simultaneously in two frequency bands of 13.5 mm and 19.0 mm.
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
@@ -146,7 +146,7 @@ Scientific experiments were based on the base of the spacecraft and the mast. Th
 
 **PEOPLE:**
 
-   1. Marcia Neugebauer is an american geophysicist who made contributions to space physics. Neugebauer's research was among the first that yielded the first direct measurements of the solar wind and shed light on its physics and interaction with comets.
+   1. Marcia Neugebauer is an american geophysicist who made contributions to space physics. Neugebauer’s research was among the first that yielded the first direct measurements of the solar wind and shed light on its physics and interaction with comets.
 
 **COMMUNITIES:**
 

@@ -17,7 +17,7 @@ The location is suitable for creating a spaceport for a number of reasons:
 
 Cornwall and Virgin Orbit are committing to a partnership seeking to deliver a horizontal launch Spaceport at Cornwall Airport Newquay, UK by 2021, creating a satellite technology cluster of national importance.
 
-The spaceport will perform satellite operations and engage in a lunar mission to deliver payloads to the moon's orbit.
+The spaceport will perform satellite operations and engage in a lunar mission to deliver payloads to the moon’s orbit.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

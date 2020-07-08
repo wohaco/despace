@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Taiyuan** — English term with no analogues in Russian. **Тайюань** — literal translation to Russian.</small>
 
-The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chinese: 二十五基地*), is a People's Republic of China space and defence launch facility ([spaceport](spaceport.md)).
+The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chinese: 二十五基地*), is a People’s Republic of China space and defence launch facility ([spaceport](spaceport.md)).
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Sriharikota** — English term with no analogues in Russian. **Шрихарикота** — literal translation to Russian.</small>
 
-**Satish Dhawan Space Centre** (**SDSC**) or **Sriharikota Range** (**SHAR**) is a rocket launch centre operated by Indian Space Research Organisation ([ISRO](03_isro.md)). [Spaceport](spaceport.md) is located in Sriharikota in Andhra Pradesh. Sriharikota Range was renamed in 2002 after ISRO's former chairman Satish Dhawan.
+**Satish Dhawan Space Centre** (**SDSC**) or **Sriharikota Range** (**SHAR**) is a rocket launch centre operated by Indian Space Research Organisation ([ISRO](03_isro.md)). [Spaceport](spaceport.md) is located in Sriharikota in Andhra Pradesh. Sriharikota Range was renamed in 2002 after ISRO’s former chairman Satish Dhawan.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

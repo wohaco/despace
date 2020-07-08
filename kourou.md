@@ -10,7 +10,7 @@
 **The Guiana Space Centre** (French: **Centre Spatial Guyanais** (**CSG**) ) is a French and European[spaceport](spaceport.md) to the northwest of Kourou in French Guiana, a region of France in South America, in a strip of territory 60 km long and 20 km wide between the cities of Kourou and Sinnamari, 50 km from the administrative center of French Guiana — Cayenne. Operational since 1968, it is particularly suitable as a location for a spaceport.
 
    - It is near the equator, at latitude 5°13'20"N, so that less energy is required to maneuver a spacecraft into an equatorial, geostationary orbit.
-   -  It has open sea to the east. Rockets launch to the east to take advantage of the angular momentum provided by Earth's rotation.
+   -  It has open sea to the east. Rockets launch to the east to take advantage of the angular momentum provided by Earth’s rotation.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **Ames Stereo Pipeline (ASP)** — англоязычный термин, не имеющий аналога в русском языке. **Стереотруба центра Эймса** — дословный перевод с английского на русский.</small>
 
-The **NASA Ames Stereo Pipeline (ASP)** is a suite of free & open source automated geodesy & stereogrammetry tools designed for processing stereo imagery captured from satellites (around Earth & other planets), robotic rovers, aerial cameras, & historical imagery, with & without accurate camera pose information. It produces cartographic products, including [digital elevation models (DEMs)](digital_elev_model.md), ortho‑projected imagery, 3D models, & bundle‑adjusted networks of cameras. ASP's data products are suitable for science analysis, mission planning, & public outreach.
+The **NASA Ames Stereo Pipeline (ASP)** is a suite of free & open source automated geodesy & stereogrammetry tools designed for processing stereo imagery captured from satellites (around Earth & other planets), robotic rovers, aerial cameras, & historical imagery, with & without accurate camera pose information. It produces cartographic products, including [digital elevation models (DEMs)](digital_elev_model.md), ortho‑projected imagery, 3D models, & bundle‑adjusted networks of cameras. ASP’s data products are suitable for science analysis, mission planning, & public outreach.
 
 The Stereo Pipeline is part of the NASA [NeoGeography Toolkit](neogeography_toolkit.md).
 

@@ -7,9 +7,9 @@
 
 > <small>*Terms:* **Венера-1 (Венера-1VA №2; Спутник 8)** — Russian term with no analogues in English. **Venera 1 (Venera 1VA No.2; Sputnik 8)** — English equivalent.</small>
 
-**Venera 1 (Венера‑1)**, also known as **Venera‑1VA No.2** and occasionally in the West as **Sputnik 8** was the first spacecraft to Venus, as part of the Soviet Union's Venera programme. There were obtained some characteristics of the solar wind's plasma near the Earth. Signal with SC was lost after 7 days of flight; theoretically SC fly by Venus at 100 000 km distance.
+**Venera 1 (Венера‑1)**, also known as **Venera‑1VA No.2** and occasionally in the West as **Sputnik 8** was the first spacecraft to Venus, as part of the Soviet Union’s Venera programme. There were obtained some characteristics of the solar wind’s plasma near the Earth. Signal with SC was lost after 7 days of flight; theoretically SC fly by Venus at 100 000 km distance.
 
-[![](f/project/venera_1/pic01_thumb.jpg)](f/project/venera_1/pic01.jpg)
+[![](f/project/v/venera_1/pic01_thumb.jpg)](f/project/v/venera_1/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -61,9 +61,9 @@ Achieved targets & investigations:
 ## Mission
 Venera 1 was the second of two attempts to launch a spacecraft to Venus in February 1961, immediately following the launch of its sister ship Venera‑1VA No.1, which failed to leave Earth orbit. Soviet experts launched Venera‑1 using a Molniya carrier rocket from the Baikonur Cosmodrome. The launch took place at 00:34:36 UTC on 12 February 1961.
 
-The spacecraft, along with the rocket's Blok‑L upper stage, were initially placed into a 229 × 282 km low Earth orbit, before the upper stage fired to place Venera 1 into a heliocentric orbit, directed towards Venus. The 11D33 engine was the world's first staged‑combustion‑cycle rocket engine, and also the first use of an ullage engine to allow a liquid‑fuel rocket engine to start in space.
+The spacecraft, along with the rocket’s Blok‑L upper stage, were initially placed into a 229 × 282 km low Earth orbit, before the upper stage fired to place Venera 1 into a heliocentric orbit, directed towards Venus. The 11D33 engine was the world’s first staged‑combustion‑cycle rocket engine, and also the first use of an ullage engine to allow a liquid‑fuel rocket engine to start in space.
 
-Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic‑ray data near Earth ([EVN‑097](venus.md)), at the Earth's Magnetopause, and on February 19 at a distance of 1 900 000 km. After discovering the solar wind with Luna 2, Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On May 19, 1961, Venera 1 passed within 100 000 km of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar‑direction sensor.
+Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic‑ray data near Earth ([EVN‑097](venus.md)), at the Earth’s Magnetopause, and on February 19 at a distance of 1 900 000 km. After discovering the solar wind with Luna 2, Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On May 19, 1961, Venera 1 passed within 100 000 km of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar‑direction sensor.
 
 
 
@@ -112,8 +112,8 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spacec
       1. [Sergei Pavlovich Korolev](02_korolev1.md) (Сергей Павлович Королёв) a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
       1. Alla Genrikhovna Masevich (Алла Генриховна Масевич) a Soviet astronomer.
-      1. Boris Evseyevich Chertok (Борис Евсеевич Черток) a Russian electrical engineer and the control systems designer in the Soviet Union's space program, and later the Roscosmos in Russia.
-      1. Alfred Charles Bernard Lovell an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft's disoriented nondirectional antenna.
+      1. Boris Evseyevich Chertok (Борис Евсеевич Черток) a Russian electrical engineer and the control systems designer in the Soviet Union’s space program, and later the Roscosmos in Russia.
+      1. Alfred Charles Bernard Lovell an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft’s disoriented nondirectional antenna.
       1. Yuli Konstantinovich Khodarev (Юлий Константинович Ходарев) — developer of satellite communication systems (inc. Venera 1).
 
 **COMMUNITY:**

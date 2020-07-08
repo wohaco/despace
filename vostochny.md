@@ -7,12 +7,12 @@
 
 > <small>*Terms:* **Восточный** — Russian term with no analogues in English. **Vostochny** — English equivalent.</small>
 
-**The Vostochny Cosmodrome** is a Russian [spaceport](spaceport.md) (still partly under construction) on the 51st parallel north in the Amur Oblast, in the Russian Far East. It is intended to reduce Russia's dependency on the [Baikonur Cosmodrome](baikonur.md) in Kazakhstan. The first launch took place on 28 April 2016 at 02:01 UTC. As of July 2019, five launch attempts have been made with four successes. The first Russian civil spaceport. The total area is about 700 km².
+**The Vostochny Cosmodrome** is a Russian [spaceport](spaceport.md) (still partly under construction) on the 51st parallel north in the Amur Oblast, in the Russian Far East. It is intended to reduce Russia’s dependency on the [Baikonur Cosmodrome](baikonur.md) in Kazakhstan. The first launch took place on 28 April 2016 at 02:01 UTC. As of July 2019, five launch attempts have been made with four successes. The first Russian civil spaceport. The total area is about 700 km².
 
 Features:
 
    - The cosmodrome is located 11° South of [Plesetsk](plesetsk.md), which allows to output loads of greater mass. The spaceport is located almost 6° North of Baikonur, which will lead to a decrease in the mass of cargo being withdrawn. However, since rocket from Baikonur started «around China» with the fall of the second stages of the Altai and are unable to fly at the best trajectory due East from the point of view of the mechanics of startup East is the opposite, at 0.4° South of Baikonur (the minimum inclination of the reference orbit at startup 51.2° on the East vs 51.6° at Baikonur).
-   - The initial section of the launch vehicle's flight path and the areas where the separated parts of the launch vehicle fall are located in sparsely populated areas of the territory of Russia or in neutral waters.
+   - The initial section of the launch vehicle’s flight path and the areas where the separated parts of the launch vehicle fall are located in sparsely populated areas of the territory of Russia or in neutral waters.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

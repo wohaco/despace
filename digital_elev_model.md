@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **Digital elevation model (DEM)** — англоязычный термин, не имеющий аналога в русском языке. **Цифровая модель рельефа (ЦМР)** — дословный перевод с английского на русский.</small>
 
-A **digital elevation model (DEM)** is a 3D CG representation of a terrain's surface — commonly of a planet (e.g. Earth), moon, or asteroid — created from a terrain's elevation data. A «global DEM» refers to a discrete global grid.
+A **digital elevation model (DEM)** is a 3D CG representation of a terrain’s surface — commonly of a planet (e.g. Earth), moon, or asteroid — created from a terrain’s elevation data. A «global DEM» refers to a discrete global grid.
 
 |*3D rendering of a DEM of Tithonium Chasma on Mars*|*Surfaces represented by a Digital Surface Model include buildings and other objects. Digital Terrain Models represent the bare ground.*|
 |:--|:--|

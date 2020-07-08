@@ -11,9 +11,9 @@
 
 NASA Headquarters commissioned the Goddard Space Flight Center’s (GSFC) Architecture Design Lab with a rapid mission architecture study to support the National Research Council’s 2010 Planetary Decadal Survey Inner Planets Panel. The purpose of the study was to determine whether a Venus mission with surface, or near-surface, mobility and realistic operational lifetime could achieve meaningful surface science at two or more independent locations separated by several kilometers on a budget comparable to a New Frontiers cost envelope.
 
-Original of NASA's report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [ARC](03_arc.md)).
+Original of NASA’s report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [ARC](03_arc.md)).
 
-![](f/project/venus_mobile_explorer/pic01.jpg)
+![](f/project/v/venus_mobile_explorer/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -43,7 +43,7 @@ Original of NASA's report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [AR
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -61,9 +61,9 @@ Original of NASA's report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [AR
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
 |EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.| Ac, Ai, Am, At |D|||||
-|EVN‑040||Were there oceans & why has they gone?|  |D|C|F|||
-|EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
-|EVN‑042||History & causes of the planet's volcanic & tectonic evolution.|  |D|||||
+|EVN‑040||Were there oceans & why have they gone|  |D|C|F|||
+|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
 |EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
 |EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
@@ -103,9 +103,9 @@ The scientifically compelling highland regions known as tessera hold the most po
 | February 15, 2024, 13:17 UTC | End of Lander Design Lifetime | N/A |
 
 
-[![](f/project/venus_mobile_explorer/pic02_thumb.jpg)](f/project/venus_mobile_explorer/pic02.png)
+[![](f/project/v/venus_mobile_explorer/pic02_thumb.jpg)](f/project/v/venus_mobile_explorer/pic02.png)
 
-[![](f/project/venus_mobile_explorer/pic04_thumb.jpg)](f/project/venus_mobile_explorer/pic04.png)
+[![](f/project/v/venus_mobile_explorer/pic04_thumb.jpg)](f/project/v/venus_mobile_explorer/pic04.png)
 
 
 <p style="page-break-after:always"> </p>
@@ -176,7 +176,7 @@ To accommodate the two landings and aerial mobility, the structure is designed t
 The gondola primary structure is a hermetically sealed pressure vessel to prevent the influx of Venusian atmosphere. The primary structure is designed to handle the deceleration loads (worst case 167 ***g***) on the probe during the Venus atmosphere entry phase and a 10 m/s expected impact velocity for each landing. The leg system allows a dampened stroke, reducing the landing loads to 34 ***g***.
 
 
-[![](f/project/venus_mobile_explorer/pic03_thumb.jpg)](f/project/venus_mobile_explorer/pic03.png)
+[![](f/project/v/venus_mobile_explorer/pic03_thumb.jpg)](f/project/v/venus_mobile_explorer/pic03.png)
 
 **Table.** Mass Breakdown <mark>(there are unclear mistakes in masses, but still these are masses from the original report)</mark>
 
@@ -236,8 +236,8 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
 **Docs:**
 
-   1. [Page directory](f/project/venus_mobile_explorer/)
-   1. [Venus Mobile Explorer ❐](f/project/venus_mobile_explorer/20091218_nasa_venus_mobile_explorer.pdf) (NASA, 2009)
+   1. [Page directory](f/project/v/venus_mobile_explorer/)
+   1. [Venus Mobile Explorer ❐](f/project/v/venus_mobile_explorer/20091218_nasa_venus_mobile_explorer.pdf) (NASA, 2009)
 
 **Links:**
 

@@ -10,7 +10,7 @@
 || [![](f/contact/r/radke_001_photo_thumb.jpg)](f/contact/r/radke_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** PhD student with a background in geology & chemistry.
-   - **Exp.:** I amcurrently studying the formation of cloud & haze particles in Venus' atmosphere using laboratory photochemistry experiments. I am also measuring the spectral properties of Venus' clouds in the lab by studying analogue cloud materials. In addition, I am interested in the chemical interactions between the surface & atmosphere of Venus (and other places in the Solar System).
+   - **Exp.:** I amcurrently studying the formation of cloud & haze particles in Venus’ atmosphere using laboratory photochemistry experiments. I am also measuring the spectral properties of Venus’ clouds in the lab by studying analogue cloud materials. In addition, I am interested in the chemical interactions between the surface & atmosphere of Venus (and other places in the Solar System).
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)

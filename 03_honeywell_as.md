@@ -9,7 +9,7 @@
 |Etc| … |
 
 **Honeywell Aerospace** is a manufacturer of aircraft engines & avionics, as well as a producer of auxiliary power units (APUs) & other aviation products. Founded in 1936.  
-A Honeywell APU was used in the notable emergency landing of US Airways Flight 1549, & a Honeywell blackbox survived under sea for years, thus exceeding by far its specified limits to reveal the details of the crash of Air France Flight 447. The company was also involved in the making of 2001: A Space Odyssey & in 90 percent of U.S. space missions. It's involved in the U.S. NextGen program & Europe's SESAR program for advancing avionics.
+A Honeywell APU was used in the notable emergency landing of US Airways Flight 1549, & a Honeywell blackbox survived under sea for years, thus exceeding by far its specified limits to reveal the details of the crash of Air France Flight 447. The company was also involved in the making of 2001: A Space Odyssey & in 90 percent of U.S. space missions. It’s involved in the U.S. NextGen program & Europe’s SESAR program for advancing avionics.
 
 **Опыт кооперации.**  
 …
@@ -25,14 +25,14 @@ Honeywell Aerospace has been involved in most major space missions & projects. S
    - In 1958 it participated in Vanguard, America’s first successful earth satellite.
    - In 1963 the company participated in an experiment called “APRE,” which used a giant balloon to carry a camera to high altitudes to determine the effects of the atmosphere on photography.
    - In 1964 Honeywell developed a complete space vehicle called Scanner.
-   - Honeywell also developed flight controls, computer systems & more for the nation's first reusable spacecraft dubbed the Space Shuttle.
+   - Honeywell also developed flight controls, computer systems & more for the nation’s first reusable spacecraft dubbed the Space Shuttle.
    - Honeywell also did work for the Skylab experiments, the Viking program & the Pioneer 10.
 
 Honeywell provided controls to the international space station.
 
-Space-related business didn't recover for Honeywell after the end of the space race until the 1990s. Honeywell was awarded a notable contract to provide controls to the International Space Station, a joint project of the Russian, European, Italian, Japanese, Canadian & US space agencies.
+Space-related business didn’t recover for Honeywell after the end of the space race until the 1990s. Honeywell was awarded a notable contract to provide controls to the International Space Station, a joint project of the Russian, European, Italian, Japanese, Canadian & US space agencies.
 
-Honeywell also manufactures Manned Mobile Units (MMUs), commonly known as space suits. Honeywell's space division is focused on three areas:
+Honeywell also manufactures Manned Mobile Units (MMUs), commonly known as space suits. Honeywell’s space division is focused on three areas:
 
    - Flights & ground system operations. Ground operations & control, managing health & safety of satellites, voice & data communications & operations engineering.
    - Science data processing. Processing signal data from satellites, spaceships or ground control as well as flight projects & experiments.

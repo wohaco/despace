@@ -9,7 +9,7 @@
 
 **Venus Observing System (VOS)** — monitoring climate, surface, atmospheric escape, and searching for signs of life.
 
-[![](f/project/venus_observing_system/pic01_thumb2.jpg)](f/project/venus_observing_system/pic01.jpg)
+[![](f/project/v/venus_observing_system/pic01_thumb2.jpg)](f/project/v/venus_observing_system/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -42,7 +42,7 @@
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -55,7 +55,7 @@
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
+|EVN‑008||Atmosphere: nightglows.|  |D|||||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑016||Atmosphere: clouds, their structure.|  |D||F|||
@@ -64,10 +64,10 @@
 |EVN‑019||Atmosphere: energetic balance.|  |D|||||
 |EVN‑023||Surface: mineralogical composition.|  ||C||||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑033||Atmosphere: nature of it's escape.|  |D|||||
-|EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
-|EVN‑040||Were there oceans & why has they gone?|  |D|C|F|||
-|EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
+|EVN‑033||Atmosphere: nature/rate of its escape.|  |D|||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
+|EVN‑040||Were there oceans & why have they gone|  |D|C|F|||
+|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
 |EVN‑053||Traces of life in the atmosphere & on the surface.|  ||C||||
 |EVN‑056|T|Exploration: from L1/L2.| Ai, Am, At, Gi |D|||||
 |EVN‑069|T|Prolonged surface‑spacecraft functioning.|  ||C||||
@@ -89,7 +89,7 @@
 <p style="page-break-after:always"> </p>
 
 ## Mission
-[![](f/project/venus_observing_system/pic01_thumb2.jpg)](f/project/venus_observing_system/pic01.jpg)  
+[![](f/project/v/venus_observing_system/pic01_thumb2.jpg)](f/project/v/venus_observing_system/pic01.jpg)  
 *Not to scale. L1 & L2 are about 1 million km from Venus. All Spacecraft images & orbits are for illustrative purpose only*
 
 After numerous survey & monitoring missions to Venus with fly‑by spacecraft, orbiters, entry probes/landers & balloons since [Mariner 2](mariner_2.md) flew past Venus in 1962, many questions remain unanswered. Recent missions raise intriguing questions about variations in albedo on decadal timescales. Although the past missions have revealed a lot of information about the planet’s plasma environment, atmosphere, surface & a little about the interior, they have not provided the comprehensive, systematic or synoptic observations of the planet that the major atmospheric questions require. For Earth, a constellation of polar & geosynchronous spacecraft, & networks of air & surface observations provide crucial information to monitor weather & climate. While Venus does not require such a comprehensive network, continuous observations of the cloud cover are necessary & Lagrange Point Orbiters (LPOs) along the Sun‑Venus line offer this capability (Limaye & Kovalenko, 2019). We describe here the Venus Observing System (VOS), a concept proposed for NASA’s Planetary Mission Concept Studies competition that can address the deficiencies of the past & currently proposed missions to Venus. The modular design of VOS includes:
@@ -107,10 +107,10 @@ After numerous survey & monitoring missions to Venus with fly‑by spacecraft, o
 ## Science goals & payload
 VOS science goals are to:
 
-   1. Determine the detailed energy balance of Venus' atmosphere over one solar cycle ([EVN‑019](venus.md)),
+   1. Determine the detailed energy balance of Venus’ atmosphere over one solar cycle ([EVN‑019](venus.md)),
    2. Determine the loss rate of water from Venus over its history ([EVN‑091](venus.md)),
    3. Search for bio‑signatures in the clouds of Venus ([EVN‑053](venus.md)), while identifying the ‘unknown absorber(s)’ ([EVN‑035](venus.md)),
-   4. Monitor Venus' surface meteorology ([EVN‑074](venus.md)) & seismic activity ([EVN‑029](venus.md)) continuously for 4 months ([EVN‑069](venus.md)),
+   4. Monitor Venus’ surface meteorology ([EVN‑074](venus.md)) & seismic activity ([EVN‑029](venus.md)) continuously for 4 months ([EVN‑069](venus.md)),
    5. serve as a relay to Earth for in situ missions placed anywhere on Venus for 11 years ([EVN‑092](venus.md)).
 
 These goals can be achieved by meeting the following science measurement objectives.
@@ -301,7 +301,7 @@ The science implemented by SAEVe (Kremic et al., 2018) is focused on seismology 
 
 **Docs:**
 
-   1. [VOS White Paper VEXAG ❐](f/project/venus_observing_system/vos_white_paper_vexag.pdf), 29 October 2019
+   1. [VOS White Paper VEXAG ❐](f/project/v/venus_observing_system/vos_white_paper_vexag.pdf), 29 October 2019
 
 **Links:**
 

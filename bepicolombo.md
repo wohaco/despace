@@ -11,7 +11,7 @@
 
 **BepiColombo** is a joint mission of the European Space Agency and the Japan Aerospace Exploration Agency to the planet Mercury. The mission comprises two satellites launched together: the **Mercury Planetary Orbiter** (**MPO**) and ***Mio*** (**Mercury Magnetospheric Orbiter**, **MMO**).
 
-[![](f/project/bepicolombo/bepicolombo.png)](file/проекты/bepicolombo/bepicolombo.png)
+[![](f/project/b/bepicolombo/bepicolombo.png)](file/проекты/bepicolombo/bepicolombo.png)
 
 
 <p style="page-break-after:always"> </p>
@@ -43,7 +43,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -75,7 +75,7 @@ During the cruise phase, BepiColombo will be a one-piece spacecraft. Upon arriva
    - Mercury Planetary Orbiter, built by ESA;
    - Mercury Magnetospheric Orbiter (Mio), built by JAXA.
 
-Arriving in Mercury orbit on 5 December 2025, the Mio and MPO satellites will separate and observe Mercury in collaboration for one year, with a possible one-year extension. The Orbiters are equipped with scientific instruments provided by various European countries and Japan. The mission will characterize the solid and liquid iron core and determine the size of each. The mission will also complete gravitational and magnetic field mappings. Russia provided gamma ray and neutron spectrometers to verify the existence of water ice in polar craters that are permanently in shadow from the Sun's rays.
+Arriving in Mercury orbit on 5 December 2025, the Mio and MPO satellites will separate and observe Mercury in collaboration for one year, with a possible one-year extension. The Orbiters are equipped with scientific instruments provided by various European countries and Japan. The mission will characterize the solid and liquid iron core and determine the size of each. The mission will also complete gravitational and magnetic field mappings. Russia provided gamma ray and neutron spectrometers to verify the existence of water ice in polar craters that are permanently in shadow from the Sun’s rays.
 
 Mercury is too small and hot for its gravity to retain any significant atmosphere over long periods of time, but it has a «tenuous surface-bounded exosphere» containing hydrogen, helium, oxygen, sodium, calcium, potassium and other trace elements. Its exosphere is not stable as atoms are continuously lost and replenished from a variety of sources. The mission will study the exosphere composition and dynamics, including generation and escape.
 
@@ -99,9 +99,9 @@ As of 2018, the planned mission schedule is:
 | 1 May 2028 | End of extended mission | 9.98 Mercury years after orbit insertion |
 <br>
 
-|![](f/project/bepicolombo/Animation_of_BepiColombo_trajectory.gif)|Pink — BepiColombo <br><br> Blue — Earth <br><br> Aqua — Venus <br><br> Green — Mercury <br><br> Yellow — Sun  |
+|![](f/project/b/bepicolombo/animation_of_bepicolombo_trajectory.gif)|Pink — BepiColombo <br><br> Blue — Earth <br><br> Aqua — Venus <br><br> Green — Mercury <br><br> Yellow — Sun  |
 |:--|:--|
-|***Animation of BepiColombo's trajectory from 20 October 2018 to 2 November 2025***||
+|***Animation of BepiColombo’s trajectory from 20 October 2018 to 2 November 2025***||
 
 <p style="page-break-after:always"> </p>
 
@@ -109,14 +109,14 @@ As of 2018, the planned mission schedule is:
 The main objectives of the mission are:
 
    - Study the origin and evolution of a planet close to its parent star;
-   - Study Mercury's form, interior, structure, geology, composition and craters;
-   - Investigate Mercury's exosphere, composition and dynamics, including generation and escape;
-   - Study Mercury's magnetised envelope (magnetosphere) − structure and dynamics;
-   - Investigate the origin of Mercury's magnetic field;
-   - Verify Einstein's theory of general relativity by measuring the parameters gamma and beta of the parameterized post-Newtonian formalism with high accuracy.
+   - Study Mercury’s form, interior, structure, geology, composition and craters;
+   - Investigate Mercury’s exosphere, composition and dynamics, including generation and escape;
+   - Study Mercury’s magnetised envelope (magnetosphere) − structure and dynamics;
+   - Investigate the origin of Mercury’s magnetic field;
+   - Verify Einstein’s theory of general relativity by measuring the parameters gamma and beta of the parameterized post-Newtonian formalism with high accuracy.
 
 ### MPO
-MPO developed by the European Space Agency — an Orbiter for studying the surface and internal structure of the planet with a slightly elongated polar orbit (400 km by 1500 km). In particular, it is planned to create a multi-wave map of the planet's surface.
+MPO developed by the European Space Agency — an Orbiter for studying the surface and internal structure of the planet with a slightly elongated polar orbit (400 km by 1500 km). In particular, it is planned to create a multi-wave map of the planet’s surface.
 
 The science payload of the MPO consists of eleven instruments:
 
@@ -129,8 +129,8 @@ The science payload of the MPO consists of eleven instruments:
       - measure the ratio of potassium to thorium and comparison of this value with those of other terrestrial planets, and studying the polar regions of Mercury and their comparison with the polar regions of the Moon.
    - Mercury Imaging X-ray Spectrometer (**MIXS**), developed by UK and Finland;
    - Mercury Orbiter Radio-science Experiment (**MORE**), developed by Italy and the United States;
-   - Probing of Hermean Exosphere by Ultraviolet Spectroscopy (**PHEBUS**) — for measuring the composition and dynamics of Mercury's exosphere, developed by France and Russia;
-   - Search for Exosphere Refilling and Emitted Neutral Abundances (**SERENA**), made up of 2 neutral and 2 ionised particle analysers: (**ELENA**) (Emitted Low-Energy Neutral Atoms) developed by Italy; (**STROFIO**) (Start from a ROtating Field mass spectrOmeter) developed by United States; (**MIPA**) (Miniature Ion Precipitation Analyser) developed by Sweden; (**PICAM**) (Planetary Ion CAMera) — panoramic energy-mass spectrometer of positively charged ions developed by Austria. The main objective of the experiment is to study the flow of ions from the planet's surface and solar wind ions in the Mercury magnetosphere, and thus to study the Mercury soil and its interaction with the planet's exosphere. The purpose of the experiment is to determine the chemical composition of the soil, to study the physical processes of emission from the surface of neutral particles and to measure the flows of magnetospheric ions that return to the surface; to understand whether Mercury has an ionosphere and how plasma convection occurs near it, to clarify the structure of the magnetosphere and the features of its interaction with the solar wind;
+   - Probing of Hermean Exosphere by Ultraviolet Spectroscopy (**PHEBUS**) — for measuring the composition and dynamics of Mercury’s exosphere, developed by France and Russia;
+   - Search for Exosphere Refilling and Emitted Neutral Abundances (**SERENA**), made up of 2 neutral and 2 ionised particle analysers: (**ELENA**) (Emitted Low-Energy Neutral Atoms) developed by Italy; (**STROFIO**) (Start from a ROtating Field mass spectrOmeter) developed by United States; (**MIPA**) (Miniature Ion Precipitation Analyser) developed by Sweden; (**PICAM**) (Planetary Ion CAMera) — panoramic energy-mass spectrometer of positively charged ions developed by Austria. The main objective of the experiment is to study the flow of ions from the planet’s surface and solar wind ions in the Mercury magnetosphere, and thus to study the Mercury soil and its interaction with the planet’s exosphere. The purpose of the experiment is to determine the chemical composition of the soil, to study the physical processes of emission from the surface of neutral particles and to measure the flows of magnetospheric ions that return to the surface; to understand whether Mercury has an ionosphere and how plasma convection occurs near it, to clarify the structure of the magnetosphere and the features of its interaction with the solar wind;
    - Spectrometers and Imagers for MPO BepiColombo Integrated Observatory System (**SIMBIO-SYS**), high resolution stereo cameras and a visual and near infrared spectrometer, developed by Italy, France and Switzerland;
    - Solar Intensity X-ray and Particle Spectrometer (**SIXS**), developed by Finland and UK.
 
@@ -146,7 +146,7 @@ Mio carries five groups of science instruments:
       - High-Energy Particle instrument for electrons (**HEP-ele**);
       - High-Energy Particle instrument for Ions (**HEP-ion**);
       - Energetic Neutrals Analyzer (**ENA**).
-   - Mercury Magnetometer (**MMO-MGF**), studies Mercury's magnetic field, magnetosphere, and interplanetary solar wind;
+   - Mercury Magnetometer (**MMO-MGF**), studies Mercury’s magnetic field, magnetosphere, and interplanetary solar wind;
    - Plasma Wave Investigation (**PWI**), studies the electric field, electromagnetic waves, and radio waves from the magnetosphere and solar wind;
    - Mercury Sodium Atmosphere Spectral Imager (**MSASI**), studies the thin sodium atmosphere of Mercury;
    - Mercury Dust Monitor (**MDM**), studies dust from the planet and interplanetary space.
@@ -167,19 +167,19 @@ Mio carries five groups of science instruments:
 
 <br>
 
-|[![](f/project/bepicolombo/mtm.jpg)](file/проекты/bepicolombo/mtm.jpg)|
+|[![](f/project/b/bepicolombo/mtm.jpg)](file/проекты/bepicolombo/mtm.jpg)|
 |:--|
 |***Mercury Transfer Module in The Large Space Simulator at ESTEC***|
 
 The Mercury Transfer Module (MTM), developed by the European Space Agency, is located at the base of the stack. Its role is to carry the two science Orbiters to Mercury and to support them during the cruise.
 
-The MTM is equipped with a solar electric propulsion system as the main spacecraft propulsion. Its four QinetiQ T6 ion thrusters operate singly or in pairs for a maximum combined thrust of 290 mN, making it the most powerful ion engine array ever operated in space. The MTM supplies electrical power for the two hibernating Orbiters as well as for its solar electric propulsion system thanks to two 14 meter-long solar panels. Depending on the probe's distance to the Sun, the generated power will range between 7 and 14 kW, each T6 requiring between 2.5 and 4.5 kW according to the desired thrust level.
+The MTM is equipped with a solar electric propulsion system as the main spacecraft propulsion. Its four QinetiQ T6 ion thrusters operate singly or in pairs for a maximum combined thrust of 290 mN, making it the most powerful ion engine array ever operated in space. The MTM supplies electrical power for the two hibernating Orbiters as well as for its solar electric propulsion system thanks to two 14 meter-long solar panels. Depending on the probe’s distance to the Sun, the generated power will range between 7 and 14 kW, each T6 requiring between 2.5 and 4.5 kW according to the desired thrust level.
 
 The solar electric propulsion system has typically very high specific impulse and low thrust. This leads to a flight profile with months-long continuous low-thrust braking phases, interrupted by planetary gravity assists, to gradually reduce the velocity of the spacecraft. Moments before Mercury orbit insertion, the MTM will be jettisoned from the spacecraft stack. After separation from the MTM, the MPO will provide Mio all necessary power and data resources until Mio is delivered to its mission orbit; separation of Mio from MPO will be accomplished by spin-ejection.
 
 ### MPO
 
-|[![](f/project/bepicolombo/mpo.jpg)](f/project/bepicolombo/mpo.jpg)|
+|[![](f/project/b/bepicolombo/mpo.jpg)](f/project/b/bepicolombo/mpo.jpg)|
 |:--|
 |***Mercury Planetary Orbiter in ESTEC before stacking***|
 
@@ -187,17 +187,17 @@ The MPO will have a mass of 1 150 kg and will use a single-sided solar array
 
 The MPO will carry a payload of 11 instruments, comprising cameras, spectrometers (IR, UV, X-ray, γ-ray, neutron), a radiometer, a laser altimeter, a magnetometer, particle analysers, a Ka-band transponder, and an accelerometer. The payload components are mounted on the nadir side of the spacecraft to achieve low detector temperatures, apart from the MERTIS and PHEBUS spectrometers located directly at the main radiator to provide a better field of view.
 
-A high-temperature-resistant 1.0 m diameter high-gain antenna is mounted on a short boom on the zenith side of the spacecraft. Communications will be on the X and Ka band with an average bit rate of 50 Kb/s and a total data volume of 1550 Gb/year. ESA's Cebreros 35-metre ground station is planned to be the primary ground facility for communications during all mission phases.
+A high-temperature-resistant 1.0 m diameter high-gain antenna is mounted on a short boom on the zenith side of the spacecraft. Communications will be on the X and Ka band with an average bit rate of 50 Kb/s and a total data volume of 1550 Gb/year. ESA’s Cebreros 35-metre ground station is planned to be the primary ground facility for communications during all mission phases.
 
 ### Mio
 
-|[![](f/project/bepicolombo/mio.jpg)](f/project/bepicolombo/mio.jpg)|
+|[![](f/project/b/bepicolombo/mio.jpg)](f/project/b/bepicolombo/mio.jpg)|
 |:--|
 |***Mio in ESTEC before stacking***|
 
 Mio developed and built mostly by Japan, has the shape of a short octagonal prism, 180 cm long from face to face and 90 cm high. It has a mass of 285 kg, including a 45 kg scientific payload consisting of 5 instrument groups.
 
-Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 km, outside of MPO's orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X-band phased array high-gain antenna and two medium-gain antennas operating in the X-band. Telemetry will return 160 GB/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center's 64 m antenna located in Nagano, Japan.
+Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 km, outside of MPO’s orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X-band phased array high-gain antenna and two medium-gain antennas operating in the X-band. Telemetry will return 160 GB/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center’s 64 m antenna located in Nagano, Japan.
 
 <p style="page-break-after:always"> </p>
 

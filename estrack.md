@@ -47,7 +47,7 @@ There are also at least eleven smaller antennas with sizes of 9.3 to 2.5-metres.
 
 On 1 January 2013, the 35-metre station Malargüe became the newest station to join the ESTRACK Deep Space Network.
 
-The station in Santa-Maria can be used to track Ariane launches and it is also capable of tracking Vega and Soyuz launchers operated from ESA's Spaceport at Kourou, French Guiana.
+The station in Santa-Maria can be used to track Ariane launches and it is also capable of tracking Vega and Soyuz launchers operated from ESA’s Spaceport at Kourou, French Guiana.
 
 
 

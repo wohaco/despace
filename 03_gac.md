@@ -25,7 +25,7 @@
 
 **Mission:**
 
-   - We're made up of creative engineers/scientists that have a passion for aerospace research
+   - We’re made up of creative engineers/scientists that have a passion for aerospace research
    - We enjoy circumventing challenges that most people treat as insurmountable
    - We produce honest, data‑driven research & engineering analysis for Government & commercial customers
 

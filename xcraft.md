@@ -9,7 +9,7 @@
 
 **Xcraft** — the basic [Xplore](xplore.md) spacecraft, offered to any customer for work near the Earth, Moon, Venus, Mars and near asteroids.
 
-![](f/project/xcraft/pic01.jpg)
+![](f/project/x/xcraft/pic01.jpg)
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -38,7 +38,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -92,7 +92,7 @@ The standard XCRAFT is perfect for most missions.
 
 |*Venus*|*Mars*|*Moon*|*Asteroid*|*Custom*|
 |:--|:--|:--|:--|:--|
-| [![](f/project/xcraft/pic04_thumb.jpg)](f/project/xcraft/pic04.jpg) | [![](f/project/xcraft/pic02_thumb.jpg)](f/project/xcraft/pic02.jpg) | [![](f/project/xcraft/pic03_thumb.jpg)](f/project/xcraft/pic03.jpg) | [![](f/project/xcraft/pic05_thumb.jpg)](f/project/xcraft/pic05.jpg) | [![](f/project/xcraft/pic06_thumb.jpg)](f/project/xcraft/pic06.jpg) |
+| [![](f/project/x/xcraft/pic04_thumb.jpg)](f/project/x/xcraft/pic04.jpg) | [![](f/project/x/xcraft/pic02_thumb.jpg)](f/project/x/xcraft/pic02.jpg) | [![](f/project/x/xcraft/pic03_thumb.jpg)](f/project/x/xcraft/pic03.jpg) | [![](f/project/x/xcraft/pic05_thumb.jpg)](f/project/x/xcraft/pic05.jpg) | [![](f/project/x/xcraft/pic06_thumb.jpg)](f/project/x/xcraft/pic06.jpg) |
 
 
 

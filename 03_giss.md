@@ -8,7 +8,7 @@
 |Tel| +1(212)678-55-00, fax: … |
 |Etc| … |
 
-The **Goddard Institute for Space Studies (GISS)** is a laboratory in the Earth Sciences Division of NASA's [Goddard Space Flight Center](03_gsfc.md) & a unit of the Columbia University Earth Institute. The institute is located at Columbia University in New York City. Founded in May 1961.
+The **Goddard Institute for Space Studies (GISS)** is a laboratory in the Earth Sciences Division of NASA’s [Goddard Space Flight Center](03_gsfc.md) & a unit of the Columbia University Earth Institute. The institute is located at Columbia University in New York City. Founded in May 1961.
 
 Research at the GISS emphasizes a broad study of Global Change; the natural & anthropogenic changes in our environment that affect the habitability of our planet. These effects may occur on greatly differing time scales, from one-time forcings such as volcanic explosions, to seasonal/annual effects such as El Niño, & on up to the millennia of ice ages.
 

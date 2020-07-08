@@ -66,7 +66,7 @@
 <small>
 
 |°|*Имя*|*Орг.*|*Название*|
-|:--:|:--|:--|:--|
+|:--|:--|:--|:--|
 |—|—|—|**`Potential Landing Sites`**|
 
 Last  Name First  Name Company Email  Address

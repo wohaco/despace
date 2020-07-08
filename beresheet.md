@@ -12,7 +12,7 @@
 
 |*Место<br> посадки*|*Плакат*|*Общий вид*|
 |:--|:--|:--|
-| [![](f/project/beresheet/beresheet_land_site01_thumb.jpg)](f/project/beresheet/beresheet_land_site01.jpg) | [![](f/project/beresheet/beresheet_pic1_thumb.jpg)](f/project/beresheet/beresheet_pic1.jpg) | [![](f/project/beresheet/beresheet_pic2_thumb.jpg)](f/project/beresheet/beresheet_pic2.jpg) |
+| [![](f/project/b/beresheet/beresheet_land_site01_thumb.jpg)](f/project/b/beresheet/beresheet_land_site01.jpg) | [![](f/project/b/beresheet/beresheet_pic1_thumb.jpg)](f/project/b/beresheet/beresheet_pic1.jpg) | [![](f/project/b/beresheet/beresheet_pic2_thumb.jpg)](f/project/b/beresheet/beresheet_pic2.jpg) |
 
 
 
@@ -22,13 +22,13 @@
 | Габариты, мм  | 2 000 диаметр (2 300 между посадочными опорами), 1 500 высота  |
 | Даты  | 2019.02.22 старт;<br> 2019.04.11 посадка;<br> 2019.04.14 плановый EoL  |
 | Массы, кг  | 530 стартовая, 150 сухая  |
-| Место  | посадка в Море Ясности (Mare Serenitatis) <small>в северном полушарии, где находится одна из лунных магнитных аномалий, диаметр 674 км</small><br> [![](f/project/beresheet/beresheet_moon_landing_site_thumb.jpg)](f/project/beresheet/beresheet_moon_landing_site.png)  |
+| Место  | посадка в Море Ясности (Mare Serenitatis) <small>в северном полушарии, где находится одна из лунных магнитных аномалий, диаметр 674 км</small><br> [![](f/project/b/beresheet/beresheet_moon_landing_site_thumb.jpg)](f/project/b/beresheet/beresheet_moon_landing_site.png)  |
 | САС  |   |
 | Стоимость  | 90 000 000 $  |
 
 **Наземный сегмент:**
 
-   - [SSC's Global Ground Station Network](ssc_ggsn.md) — служебная связь, отслеживание положения;
+   - [SSC’s Global Ground Station Network](ssc_ggsn.md) — служебная связь, отслеживание положения;
    - [DSN](dsn.md) — управление КА, приём научной информации на Землю после посадки.
 
 **КА:**
@@ -51,7 +51,7 @@
 
 **НА:**
 
-   1. капсула времени; <small>(containing over 30 million pages of data, including a full copy of English-language Wikipedia, the Bible, children's drawings, memories of a Holocaust survivor, Israel's national anthem (Hatikvah), the Israeli flag, and a copy of the Israeli Declaration of Independence)</small>
+   1. капсула времени; <small>(containing over 30 million pages of data, including a full copy of English-language Wikipedia, the Bible, children’s drawings, memories of a Holocaust survivor, Israel’s national anthem (Hatikvah), the Israeli flag, and a copy of the Israeli Declaration of Independence)</small>
    1. [магнитометр](mag.md) (Институт Вейцмана, Израиль);
    1. массив лазерных отражателей (by NASA Goddard Space Flight Center), ожидаемая точность измерения до 10 см.
 
@@ -100,7 +100,7 @@
 
 **Docs:**
 
-   1. [Подборка материалов СМИ за 2019.02 ❐](f/project/beresheet/201902_docs.pdf)
+   1. [Подборка материалов СМИ за 2019.02 ❐](f/project/b/beresheet/201902_docs.pdf)
 
 **Links:**
 

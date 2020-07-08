@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **NASA open** — англоязычный термин, не имеющий аналога в русском языке. **Открытый каталог NASA** — дословный перевод с английского на русский.</small>
 
-**open.NASA** is an Open Innovation program in the Office of the Chief Information Officer's Technology and Innovation Division. An easy access to NASA's resources and programs.
+**open.NASA** is an Open Innovation program in the Office of the Chief Information Officer’s Technology and Innovation Division. An easy access to NASA’s resources and programs.
 
 
 
@@ -17,15 +17,15 @@
 
 Everything You Ever Wanted to Know About...
 
-   - **Resources.** You'll have easy access to companion sites: Data, Code, and APIs. We have a Glossary to make sure you understand what we mean by the words we use.
-   - **Programs.** You can learn about Space Apps, Datanauts, Data Fellows, and more. These initiatives are opportunities for you to participate and collaborate with us and each other, and to leverage NASA's open data, code, and APIs.
-   - **How You Can Get Involved.** You can take part NASA challenges and activities that give you an opportunity to solve tough problems. Your ideas and solutions help us see the world in new ways. In our Innovation Space section, we highlight curated projects that result from NASA‑sponsored citizen challenge opportunities. We also highlight your stories as you create innovative solutions from NASA's open data, code, and APIs. Share them with us.
-   - **Government Voice.** We're doing our best to provide opportunities for you to innovate with NASA's open data, code, and APIs. Your engagement with our data helps us fulfill federal mandates and requirements for Open Government and Open Data.
+   - **Resources.** You’ll have easy access to companion sites: Data, Code, and APIs. We have a Glossary to make sure you understand what we mean by the words we use.
+   - **Programs.** You can learn about Space Apps, Datanauts, Data Fellows, and more. These initiatives are opportunities for you to participate and collaborate with us and each other, and to leverage NASA’s open data, code, and APIs.
+   - **How You Can Get Involved.** You can take part NASA challenges and activities that give you an opportunity to solve tough problems. Your ideas and solutions help us see the world in new ways. In our Innovation Space section, we highlight curated projects that result from NASA‑sponsored citizen challenge opportunities. We also highlight your stories as you create innovative solutions from NASA’s open data, code, and APIs. Share them with us.
+   - **Government Voice.** We’re doing our best to provide opportunities for you to innovate with NASA’s open data, code, and APIs. Your engagement with our data helps us fulfill federal mandates and requirements for Open Government and Open Data.
 
 Who is this site for?
 
    - **Citizen Scientist.** You see new insights where others don’t. We think you’ll have fun with our Open Data and learning how to Explore With Us.
-   - **Developer.** You see development as building a better future. If you want to use NASA data and create APIs, Open Data has the resources for you. Maybe you've already built something using NASA data? Share your Data Story.
+   - **Developer.** You see development as building a better future. If you want to use NASA data and create APIs, Open Data has the resources for you. Maybe you’ve already built something using NASA data? Share your Data Story.
    - **Citizen Activist.** If you’re interested in how NASA meets the goals set by the White House and the Office of Mgt. and Budget, take a look at our Open Government Plan which outlines the most recent version, 3.0.
    - **Govvie.** You’re one of us. We’re happy to share data with you or collaborate on challenges. You may be interested in Open Data, our Government Plan, or learning more about how individuals Explore With Us.
    - **Curious.** We’d love to inspire you with NASA’s cool data through the eyes of your fellow citizens. We hope you enjoy delving into the Data Stories & Innovation Space.
@@ -37,10 +37,10 @@ A combined 30 years of experience with the NASA organization, 15 years of tech
 **OCIO**
 
 **Office of the Chief Information Officer**  
-NASA's Office of the Chief Information Officer is the home of the agency's open.data and open.gov efforts to spur innovation. The mission of OCIO: to increase the productivity of scientists, engineers, and mission support personnel by responsively and efficiently delivering reliable, innovative and secure IT services.
+NASA’s Office of the Chief Information Officer is the home of the agency’s open.data and open.gov efforts to spur innovation. The mission of OCIO: to increase the productivity of scientists, engineers, and mission support personnel by responsively and efficiently delivering reliable, innovative and secure IT services.
 
 **Technology, Data, & Innovation Division**  
-The Technology, Data, and Innovation Division is led by the Associate Chief Information Officer for Information, Data, & Technology. The division guides NASA's IT strategy and investment decisions, and identifies emerging IT Technologies to support NASA's missions. The Division serves as the advanced planning function of the Office of the CIO and tackles policy and mission support functions including, digital services, information architecture, Center Chief Technology Officer and Enterprise Architects, technology infusion, technology procurement, and future IT workforce development.
+The Technology, Data, and Innovation Division is led by the Associate Chief Information Officer for Information, Data, & Technology. The division guides NASA’s IT strategy and investment decisions, and identifies emerging IT Technologies to support NASA’s missions. The Division serves as the advanced planning function of the Office of the CIO and tackles policy and mission support functions including, digital services, information architecture, Center Chief Technology Officer and Enterprise Architects, technology infusion, technology procurement, and future IT workforce development.
 
 
 

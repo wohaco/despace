@@ -14,7 +14,7 @@
 
 
 ## Описание
-The SPICE system's logical components and the actual data files — the kernels — used to realize those components are summarized below.
+The SPICE system’s logical components and the actual data files — the kernels — used to realize those components are summarized below.
 
    - **S —** Spacecraft ephemeris, given as a function of time. (SPK)
    - **P —** Planet, satellite, comet, or asteroid ephemerides, or more generally, location of any target body, given as a function of time. (also SPK). The **P** component also logically includes certain physical, dynamical and cartographic constants for target bodies, such as size and shape specifications, and orientation of the spin axis and prime meridian. (PCK)

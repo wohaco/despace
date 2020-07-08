@@ -7,11 +7,11 @@
 
 > <small>*Terms:* **EnVision** — English term with no analogues in Russian. **ЭнВижн** — rough Russian equivalent.</small>
 
-**EnVision** is a [ESA's](03_esa.md) proposed orbital mission to [Venus](venus.md) (the [M5 mission candidate in the ESA Science Programme ⎆](https://www.esa.int/Our_Activities/Space_Science/ESA_selects_three_new_mission_concepts_for_study)) that would perform high‑resolution radar mapping & atmospheric studies.
+**EnVision** is a [ESA’s](03_esa.md) proposed orbital mission to [Venus](venus.md) (the [M5 mission candidate in the ESA Science Programme ⎆](https://www.esa.int/Our_Activities/Space_Science/ESA_selects_three_new_mission_concepts_for_study)) that would perform high‑resolution radar mapping & atmospheric studies.
 
 EnVision will investigate Venus from its inner core to its atmosphere at an unprecedented scale of resolution, characterising in particular, core & mantle structure ([EVN‑051](venus.md)), signs of active ([EVN‑029](venus.md)) & past geologic processes ([EVN‑042](venus.md)) & looking for evidence of the past existence of oceans ([EVN‑040](venus.md)). The mission would help scientists understand the relationships between its geological activity & atmosphere ([EVN‑036](venus.md)), & it would investigate why Venus & [Earth](earth.md) took such different evolutionary paths ([EVN‑027](venus.md)). The mission is studied in collaboration with [NASA](03_nasa.md), with the potential sharing of responsibilities.
 
-[![](f/project/envision/pic01_thumb.jpg)](f/project/envision/pic01.jpg) [![](f/project/envision/logo1_thumb.jpg)](f/project/envision/logo1.jpg)
+[![](f/project/e/envision/pic01_thumb.jpg)](f/project/e/envision/pic01.jpg) [![](f/project/e/envision/logo1_thumb.jpg)](f/project/e/envision/logo1.jpg)
 
 
 
@@ -45,7 +45,7 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -68,11 +68,11 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 |EVN‑025||Surface: structure.|  ||C||||
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
 |EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.|  |D|||||
-|EVN‑040||Were there oceans & why has they gone?|  |D|C|F|||
-|EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
-|EVN‑042||History & causes of the planet's volcanic & tectonic evolution.|  |D|||||
+|EVN‑040||Were there oceans & why have they gone|  |D|C|F|||
+|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
 |EVN‑045||Surface: nature of the tessera.|  |D|||||
 |EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
 |EVN‑051||Dimensions & characteristics of the mantle & the core.|  |D|||||
@@ -123,7 +123,7 @@ The proposed mission will launch in late November 2032 on Ariane 6.2 for deliv
 
 Our baseline launch in November 2032 encompasses a comparably short transfer duration. A launch in HEO (High Earth Orbit) followed by two escape manoeuvres gives more flexibility with available launch mass of 2 870 kg. In order to have a feasible mission, this HEO launch strategy — about 100 000 km apogee, nearly a third of the Earth‑Moon distance — is considered as baseline, with the drawback of having a time‑critical escape manoeuvre that adds a risk to be further managed at study & project level.
 
-[![](f/project/envision/pic06_thumb.jpg)](f/project/envision/pic06.jpg)<br> <small>*(Launch in High‑Earth Orbit (HEO) in November 2032, transfer & orbital insertion manoeuvers, after final ESA Concurrent Design Facility (CDF) mission study in Dec. 2018. A backup launch is foreseen in May 2033 & is significantly longer due to an Earth swing‑by. Both launch options are compatible with the programmatic mission aspects & are both feasible in terms of mass budget. Acronyms: B/L = baseline; B/U = backup; VOI = Venus Orbit Insertion; HEO = High Earth Orbit.)*</small>
+[![](f/project/e/envision/pic06_thumb.jpg)](f/project/e/envision/pic06.jpg)<br> <small>*(Launch in High‑Earth Orbit (HEO) in November 2032, transfer & orbital insertion manoeuvers, after final ESA Concurrent Design Facility (CDF) mission study in Dec. 2018. A backup launch is foreseen in May 2033 & is significantly longer due to an Earth swing‑by. Both launch options are compatible with the programmatic mission aspects & are both feasible in terms of mass budget. Acronyms: B/L = baseline; B/U = backup; VOI = Venus Orbit Insertion; HEO = High Earth Orbit.)*</small>
 
 **Operational orbit for Venus science**
 
@@ -139,14 +139,14 @@ The imaging strategy permits collection of nested image data products: [SAR](syn
 
 Considering the volume available on the launcher fairing, different configuration options were considered during the CDF study, taking into account especially the solar array & SAR antenna configuration & accommodation (stored & deployed). Other factors to take into consideration were the mission profile, potential interferences, antennas position (VenSAR & SRS antennas wrt. HGA), & the radiators configuration in order to sustain the thermal requirements of the spacecraft.
 
-[![](f/project/envision/pic07_thumb.jpg)](f/project/envision/pic07.png)<br> <small>*(The Ariane 6.2 usable volume beneath payload fairing in single launch structure. This volume constitutes the limits that the static dimensions of the spacecraft, including manufacturing tolerance, thermal protection installation, etc shall not exceed.)*</small>
+[![](f/project/e/envision/pic07_thumb.jpg)](f/project/e/envision/pic07.png)<br> <small>*(The Ariane 6.2 usable volume beneath payload fairing in single launch structure. This volume constitutes the limits that the static dimensions of the spacecraft, including manufacturing tolerance, thermal protection installation, etc shall not exceed.)*</small>
 
 
 
 <p style="page-break-after:always"> </p>
 
 ## Science goals & payload
-[![](f/project/envision/pic03_thumb.jpg)](f/project/envision/pic03.jpg)
+[![](f/project/e/envision/pic03_thumb.jpg)](f/project/e/envision/pic03.jpg)
 
 The core goal of EnVision is to detect activity & measure small‑scale changes on Venus, including geological & geochemical cycles involving the interior, surface & atmosphere ([EVN‑036](venus.md)). EnVision will use a number of different techniques to search for active geological processes, measure changes in surface temperature associated with active volcanism ([EVN‑029](venus.md)), characterise regional & local geological features ([EVN‑024](venus.md)), determine crustal support mechanisms ([EVN‑087](venus.md)) & constrain mantle & core properties ([EVN‑020,051](venus.md)). The mission would repeatedly observe specific targets (~20 % of the surface) with the widest possible range of measurements to fully characterise these areas. Core science measurements are:
 
@@ -161,7 +161,7 @@ The core goal of EnVision is to detect activity & measure small‑scale changes 
    - spin rate ([EVN‑079](venus.md)),
    - spin axis ([EVN‑090](venus.md)).
 
-**The specific mission's goals are:**
+**The specific mission’s goals are:**
 
    - Change — Is Venus geologically active today? How? ([EVN‑029](venus.md))
    - Surface — What is Venus’ geological history? ([EVN‑042](venus.md))
@@ -192,13 +192,13 @@ About 70 % of Venus topography lies near the global mean average, consisting v
 
 The surface of Venus is not organised into large plates like Earth’s oceans but it is partitioned into areas of low strain bounded by narrow margins of high strain ([EVN‑024,025](venus.md)), analogous to continental basins & microplates. Are these regions actively created & destroyed, like Earth’s oceans, or simply mobilised locally? What is the significance of the global network of elevated rift systems, similar in extent to mid‑ocean ridges but very different in appearance? Unique to Venus are coronae, quasi‑circular tectonic features, typically 100 — 500 km across, with a range of associated volcanic features. Are coronae the surface expression of plumes or magmatic intrusions? What role do they play in global tectonic & volcanic change?
 
-[![](f/project/envision/pic04_thumb.jpg)](f/project/envision/pic04.jpg)<br> <small>*(Volcanic & Tectonic Features (after Ghail et al. 2018). Rifts follow topographic rises along great circle arcs, similar to Earth’s mid‑ocean ridges; wrinkle ridges are predominantly in the lowlands. Tesserae are highly deformed terrain across a range of elevations, & are possibly continental crust.)*</small>
+[![](f/project/e/envision/pic04_thumb.jpg)](f/project/e/envision/pic04.jpg)<br> <small>*(Volcanic & Tectonic Features (after Ghail et al. 2018). Rifts follow topographic rises along great circle arcs, similar to Earth’s mid‑ocean ridges; wrinkle ridges are predominantly in the lowlands. Tesserae are highly deformed terrain across a range of elevations, & are possibly continental crust.)*</small>
 
 **Impact craters**
 
 Impact craters give absolute age of some surfaces, but too few can be seen to allow dating constraints on different geological units. On Venus, the spatial distribution of impact craters cannot be distinguished from a completely spatially random population. This indicates a relatively young surface (less than 600 — 800 Ma). There are open questions about buried features & the nature of volcanic resurfacing. It could have occurred steadily or experienced catastrophic episodes. A debate still exists between «directional» & «non‑directional» models. Mapping impact craters & their geological alteration processes will allow to construct a global chronology of the surface that is currently missing ([EVN‑022,025,046](venus.md)).
 
-[![](f/project/envision/pic05_thumb.jpg)](f/project/envision/pic05.jpg)<br> <small>*(Global Crater Distribution (after Ghail et al. 2018). That the spatial distribution of impact craters is indistinguishable from a random is a puzzle because no other features on Venus occur at random. Underlying colour map shows surface materials: pink − loose sediment; brown − sedimentary or weathered rock; green − volcanic rock; blue − low permittivity materials.)*</small>
+[![](f/project/e/envision/pic05_thumb.jpg)](f/project/e/envision/pic05.jpg)<br> <small>*(Global Crater Distribution (after Ghail et al. 2018). That the spatial distribution of impact craters is indistinguishable from a random is a puzzle because no other features on Venus occur at random. Underlying colour map shows surface materials: pink − loose sediment; brown − sedimentary or weathered rock; green − volcanic rock; blue − low permittivity materials.)*</small>
 
 **Tesserae highlands**
 
@@ -226,7 +226,7 @@ The notional payload consists of 3 instruments:
 ### VenSAR
 VenSAR is based on the NovaSAR‑S instrument built for the UK Space Agency & launched in 2018. NovaSAR‑S SAR Payload developed by Airbus Defence & Space is an active antenna is configured from an array of 18 identical phase centres each comprising a 2 × 2 array of dual polar, 6‑element sub‑arrays, designed for low‑cost Earth Observations & operating at 3.2 GHz (9.4 cm) in the S‑band, ideal for the Venus atmosphere. VenSAR adapts this modular design by taking 24 of these phase centres & configuring them into a six columns of four rows, producing a 5.47 × 0.60 m active phased array antenna capable of delivering five key science modes: InSAR (VI1 as standard, VI2 for orbit‑to‑orbit, & VI3 for opposite‑look), stereo polarimetry (VP1 StereoPolSAR), all at Reconnaissance scale (30 m resolution); Exploration scale imagery (VH1 HiRes at 6 m resolution); Locality‑scale Sliding Spotlight (VS1 Spotlight at 1 m resolution); & Zonal‑scale microwave brightness temperature (VR1 Radiometry).
 
-[![](f/project/envision/pic12_thumb.jpg)](f/project/envision/pic12.jpg)<br> <small>*(This figure illustrates the VenSAR mapping sequence for the ~16 orbits in every 24 hours: 4 orbits are reserved for telemetry (open circles); 3 pairs of orbits for InSAR (VI1 & either VI2 or VI3); 2 orbits for StereoPolSAR; & 4 orbits for HiRes & Spotlight.)*</small>
+[![](f/project/e/envision/pic12_thumb.jpg)](f/project/e/envision/pic12.jpg)<br> <small>*(This figure illustrates the VenSAR mapping sequence for the ~16 orbits in every 24 hours: 4 orbits are reserved for telemetry (open circles); 3 pairs of orbits for InSAR (VI1 & either VI2 or VI3); 2 orbits for StereoPolSAR; & 4 orbits for HiRes & Spotlight.)*</small>
 
 EnVision’s InSAR radar instrument is sensitive primarily to the morphology (roughness & slope) & relative permittivity of the surface materials. Polarimetric data provide important information about the nature of the surface & near subsurface that cannot be obtained solely with backscatter power images, such as those obtained by Magellan. In particular, polarisation ratios can help identify the thickness & grainsize of loose surface sediment. Since terrestrial studies show that almost all natural targets have reciprocal cross polarisation (i.e. HV backscatter is identical with VH), only HH, VV, & VH (or HV) polarisations are required to characterise the backscatter properties.
 
@@ -288,7 +288,7 @@ Observations from VIRTIS have revealed surface emissivity variations correlated 
 
 VenSpec is focused mainly on observing the surface, mapping in all near‑IR atmospheric windows using filters with spectral characteristics optimized for the wavelengths & widths of those windows. It offers an opportunity to gain important information about surface mineralogy & texture by virtue of having six different channels for surface mapping. It also observes bands necessary for correcting atmospheric effects; these bands also provide valuable scientific data on composition as well as altitude & size distribution of the cloud particles ([EVN‑077](venus.md)), & on H₂O vapor abundance variations in the lowest 15 km of the atmosphere.
 
-[![](f/project/envision/pic13_thumb.jpg)](f/project/envision/pic13.jpg)
+[![](f/project/e/envision/pic13_thumb.jpg)](f/project/e/envision/pic13.jpg)
 
 **VenSpec‑M optics**
 
@@ -364,19 +364,19 @@ Key principles of EnVision:
 
 **Spacecraft stowed configuration**
 
-[![](f/project/envision/pic08_thumb.jpg)](f/project/envision/pic08.jpg)<br> <small>*(EnVision stowed configuration is shown without the launcher fairing. Approximate size is 2.0 × 2.0 × 2.0 m. The satellite has a compact body & the Solar Arrays, the SAR antenna & the SRS antenna are the elements stowed during launch & deployed in orbit. At the bottom right is the 420 N Main Engine. Also visible are 8 + 8 10 N thrusters for AOCS.)*</small>
+[![](f/project/e/envision/pic08_thumb.jpg)](f/project/e/envision/pic08.jpg)<br> <small>*(EnVision stowed configuration is shown without the launcher fairing. Approximate size is 2.0 × 2.0 × 2.0 m. The satellite has a compact body & the Solar Arrays, the SAR antenna & the SRS antenna are the elements stowed during launch & deployed in orbit. At the bottom right is the 420 N Main Engine. Also visible are 8 + 8 10 N thrusters for AOCS.)*</small>
 
 **Spacecraft deployed configuration**
 
-[![](f/project/envision/pic09_thumb.jpg)](f/project/envision/pic09.jpg)<br> <small>*(EnVision deployed configuration & the position of the main deployable elements (i.e. SAR antenna, SRS antenna & Solar Arrays) in their selected positions as consolidated during the discussions in the CDF study sessions. Solar arrays are 97 kg with a 15.7 m² area (57 % solar cells, 40 % optical reflectors). A fixed, 3‑m HGA requires dedicated slews. Ka‑Band downlink is 4.2 Mbps @ 1.7 AU (Venus superior conjunction), 75 Mbps @ 0.3 AU (Venus inferior conjunction) at transponder saturation limit.)*</small>
+[![](f/project/e/envision/pic09_thumb.jpg)](f/project/e/envision/pic09.jpg)<br> <small>*(EnVision deployed configuration & the position of the main deployable elements (i.e. SAR antenna, SRS antenna & Solar Arrays) in their selected positions as consolidated during the discussions in the CDF study sessions. Solar arrays are 97 kg with a 15.7 m² area (57 % solar cells, 40 % optical reflectors). A fixed, 3‑m HGA requires dedicated slews. Ka‑Band downlink is 4.2 Mbps @ 1.7 AU (Venus superior conjunction), 75 Mbps @ 0.3 AU (Venus inferior conjunction) at transponder saturation limit.)*</small>
 
 **Instrument locations**
 
 The location of the instruments are on the top panel of the spacecraft. This panel faces the launcher flight direction of the satellite in launch configuration. The top panel of the s/c will be nadir looking during observations.
 
-[![](f/project/envision/pic10_thumb.jpg)](f/project/envision/pic10.jpg)<br> <small>*(Spacecraft top panel with mission instruments.)*</small>
+[![](f/project/e/envision/pic10_thumb.jpg)](f/project/e/envision/pic10.jpg)<br> <small>*(Spacecraft top panel with mission instruments.)*</small>
 
-[![](f/project/envision/pic11_thumb.jpg)](f/project/envision/pic11.jpg)<br> <small>*(A detail of the EnVision Mission Instrument panel shows the distribution of the units.The top panel of the s/c will be nadir looking during observations.)*</small>
+[![](f/project/e/envision/pic11_thumb.jpg)](f/project/e/envision/pic11.jpg)<br> <small>*(A detail of the EnVision Mission Instrument panel shows the distribution of the units.The top panel of the s/c will be nadir looking during observations.)*</small>
 
 **EnVision mission propulsion**
 
@@ -389,7 +389,7 @@ Chemical, electric & hybrid propulsion options were assessed, even if the hybrid
 ## Community, library, links
 **PEOPLE:**
 
-[![](f/project/envision/pic02_thumb.jpg)](f/project/envision/pic02.jpg)
+[![](f/project/e/envision/pic02_thumb.jpg)](f/project/e/envision/pic02.jpg)
 
 **ESA‑NASA consortium**
 
@@ -455,7 +455,7 @@ The first international conference to discuss the scientific investigations of t
 
 **Docs:**
 
-   1. [Page directory](f/project/envision/)
+   1. [Page directory](f/project/e/envision/)
    1. [Proposal_M5_5oct2016 ❐](f/envision/doc001.pdf)
    1. [EnVision_CDF_IFP_2018_Summary ❐](f/envision/doc002.pdf)
 

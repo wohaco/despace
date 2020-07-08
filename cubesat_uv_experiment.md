@@ -7,11 +7,11 @@
 
 > <small>*Terms:* **Cubesat UV Experiment (CUVE)** — English term with no analogues in Russian. **Русский** — rough Russian equivalent.</small>
 
-**CubeSat UV Experiment (CUVE)** is a space mission concept to study the atmospheric processes of the planet Venus with a small satellite. Specifically, the orbiter mission would study an enigmatic ultraviolet light absorber of unknown composition situated within the planet's uppermost cloud layer that absorbs about half the solar radiation downwelling in the planet's atmosphere.
+**CubeSat UV Experiment (CUVE)** is a space mission concept to study the atmospheric processes of the planet Venus with a small satellite. Specifically, the orbiter mission would study an enigmatic ultraviolet light absorber of unknown composition situated within the planet’s uppermost cloud layer that absorbs about half the solar radiation downwelling in the planet’s atmosphere.
 
 The mission concept is still in its early formulation stage, started in 2017. The Principal Investigator is [Valeria Cottini](02_cottini1.md), at the University of Maryland in College Park.
 
-[![](f/project/cubesat_uv_experiment/pic01_thumb.jpg)](f/project/cubesat_uv_experiment/pic01.jpg)
+[![](f/project/c/cuve/pic01_thumb.jpg)](f/project/c/cuve/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -43,7 +43,7 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 
 **Projected** targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -54,11 +54,11 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
+|EVN‑008||Atmosphere: nightglows.|  |D|||||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
 |EVN‑019||Atmosphere: energetic balance.|  |D|||||
-|EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
 
 </small>
@@ -144,8 +144,8 @@ This concept will address the nature of the UV-absorber (range 0.32 — 0.49 �
 
 **Docs:**
 
-   1. [2017, CubeSat symposium ❐](f/project/cubesat_uv_experiment/2017_cubsatsymposiumgsfc_cottini_cuve_talk_26sept.pdf)
-   1. [2017, EPSC ❐](f/project/cubesat_uv_experiment/2017_epsc.pdf)
+   1. [2017, CubeSat symposium ❐](f/project/c/cuve/2017_cubsatsymposiumgsfc_cottini_cuve_talk_26sept.pdf)
+   1. [2017, EPSC ❐](f/project/c/cuve/2017_epsc.pdf)
 
 **Links:**
 

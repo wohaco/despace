@@ -9,7 +9,7 @@
 
 **Venera 7** (**Венера‑7**) was a Soviet spacecraft, part of the Venera series of spacecraft to Venus. The lander of Venera 7 landed on the surface of Venus for the first time in the world, 2 000 km from the morning terminator on the night side. The lander transmitted information for 53 min, including 27 min from the surface. The temperature of the atmosphere on descent was measured. The temperature and pressure on the surface were measured for the first time, at the landing site it was T = 475 ± 20 °C and P = 90 ± 15 atm — the first measurements on the surface.
 
-[![](f/project/venera_7/pic01_thumb.jpg)](f/project/venera_7/pic01.jpg) [![](f/project/venera_7/pic02_thumb.jpg)](f/project/venera_7/pic02.jpg)
+[![](f/project/v/venera_7/pic01_thumb.jpg)](f/project/v/venera_7/pic01.jpg) [![](f/project/v/venera_7/pic02_thumb.jpg)](f/project/v/venera_7/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
@@ -64,15 +64,15 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-The spacecraft was launched from Earth on 17 August 1970, at 05:38 UTC. It consisted of an orbiter based on the 3MV system and a lander. During the flight to Venus two in-course corrections were made using the bus's on-board KDU-414 engine.
+The spacecraft was launched from Earth on 17 August 1970, at 05:38 UTC. It consisted of an orbiter based on the 3MV system and a lander. During the flight to Venus two in-course corrections were made using the bus’s on-board KDU-414 engine.
 
 During the flight of Venera 7 there was a failure in the operation of the star sensor. Because of it, the elections broke on September 27 and 30. For corrections on November 2 and 17 it was necessary to use the Sun.
 
-Venera 7 entered the atmosphere of Venus on 15 December 1970. The lander remained attached to the orbiter during the initial stages of atmospheric entry to allow the orbiter to cool the lander to −8 °C for as long as possible. The lander was ejected once atmospheric buffeting broke the orbiter's lock-on with Earth. The parachute opened at a height of 60 km and atmospheric testing began ([EVN‑003](venus.md)) with results showing the atmosphere to be 97 % carbon dioxide ([EVN‑014](venus.md), [EVN‑077](venus.md)). The parachute was initially reefed down to 1.8 m² opening to 2.5 m² 13 minutes later when the reefing line melted as designed. Six minutes after the unreefing the parachute started to fail resulting in a descent more rapid than planned. The parachute eventually failed completely and the lander entered a period of freefall. As a result, the lander struck the surface of Venus at about 16.5 m/s at 05:37:10 UTC. The landing coordinates are 5°S 351°E. The lander appeared to go silent on impact but recording tapes kept rolling. A few weeks later, upon a review of the tapes by the radio another 23 min of very weak signals were found on them. The lander had landed on Venus and probably bounced onto its side, leaving the medium gain antenna not aimed correctly for strong signal transmission to Earth ([EVN‑006](venus.md)).
+Venera 7 entered the atmosphere of Venus on 15 December 1970. The lander remained attached to the orbiter during the initial stages of atmospheric entry to allow the orbiter to cool the lander to −8 °C for as long as possible. The lander was ejected once atmospheric buffeting broke the orbiter’s lock-on with Earth. The parachute opened at a height of 60 km and atmospheric testing began ([EVN‑003](venus.md)) with results showing the atmosphere to be 97 % carbon dioxide ([EVN‑014](venus.md), [EVN‑077](venus.md)). The parachute was initially reefed down to 1.8 m² opening to 2.5 m² 13 minutes later when the reefing line melted as designed. Six minutes after the unreefing the parachute started to fail resulting in a descent more rapid than planned. The parachute eventually failed completely and the lander entered a period of freefall. As a result, the lander struck the surface of Venus at about 16.5 m/s at 05:37:10 UTC. The landing coordinates are 5°S 351°E. The lander appeared to go silent on impact but recording tapes kept rolling. A few weeks later, upon a review of the tapes by the radio another 23 min of very weak signals were found on them. The lander had landed on Venus and probably bounced onto its side, leaving the medium gain antenna not aimed correctly for strong signal transmission to Earth ([EVN‑006](venus.md)).
 
 When it landed on the Venusian surface, it became the first spacecraft to soft land on another planet and first to transmit data from there back to Earth.
 
-The spacecraft transmitted information to Earth for 53 min, which included about 20 min from the surface. It was found that the temperature at the surface of Venus was 474 ± 20 °C. Using the temperature and models of the atmosphere a pressure of 9.2 ± 1.5 MPa was calculated ([EVN‑001](venus.md)). From the lander's rapid halt (from falling to stationary inside 0.2 s) it was possible to conclude that the craft had hit a solid surface with low levels of dust (the surface consistency is between sand and volcanic tuff) ([EVN‑025](venus.md)).
+The spacecraft transmitted information to Earth for 53 min, which included about 20 min from the surface. It was found that the temperature at the surface of Venus was 474 ± 20 °C. Using the temperature and models of the atmosphere a pressure of 9.2 ± 1.5 MPa was calculated ([EVN‑001](venus.md)). From the lander’s rapid halt (from falling to stationary inside 0.2 s) it was possible to conclude that the craft had hit a solid surface with low levels of dust (the surface consistency is between sand and volcanic tuff) ([EVN‑025](venus.md)).
 
 The lander provided information about the surface of Venus ([EVN‑006](venus.md)), which could not be seen through a thick veil of atmosphere. The spacecraft definitively confirmed that humans cannot survive on the surface of Venus, and excluded the possibility that there is any liquid water on Venus.
 

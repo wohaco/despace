@@ -9,7 +9,7 @@
 
 **The Palmachim Airbase** (Hebrew: בָּסִיס **חֵיל-הַאֲוִויר פַּלְמַחִים**) is an Israeli military facility and [spaceport](spaceport.md) located near the cities of Rishon LeZion and Yavne on the Mediterranean coast. It is named after nearby Kibbutz Palmachim.
 
-Palmachim is used to launch the «Shavit» space launch vehicle into retrograde orbit by launching over the Mediterranean, acting as Israel's primary spaceport. The launchpad is situated at 31°53′04″N 34°40′49″E. This ensures that rocket debris falls into water, and that the rocket does not fire over regional neighboring countries near Israel that could use the technology. Palmachim is also used to test ballistic missiles, such as the Jericho.
+Palmachim is used to launch the «Shavit» space launch vehicle into retrograde orbit by launching over the Mediterranean, acting as Israel’s primary spaceport. The launchpad is situated at 31°53′04″N 34°40′49″E. This ensures that rocket debris falls into water, and that the rocket does not fire over regional neighboring countries near Israel that could use the technology. Palmachim is also used to test ballistic missiles, such as the Jericho.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

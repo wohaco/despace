@@ -7,9 +7,9 @@
 
 > <small>*Terms:* **America** — English term with no analogues in Russian. **Америка** — literal translation to Russian.</small>
 
-**Spaceport America** — formerly the **Southwest Regional Spaceport** — is a FAA-licensed spaceport located on 7 300 hectares of State Trust Land in the Jornada del Muerto desert basin in New Mexico, United States directly west and adjacent to U.S. Army's White Sands Missile Range.
+**Spaceport America** — formerly the **Southwest Regional Spaceport** — is a FAA-licensed spaceport located on 7 300 hectares of State Trust Land in the Jornada del Muerto desert basin in New Mexico, United States directly west and adjacent to U.S. Army’s White Sands Missile Range.
 
-Spaceport America is «the world's first purpose-built commercial spaceport», designed and constructed specifically for commercial users that had not previously been an airport or federal infrastructure of any kind.
+Spaceport America is «the world’s first purpose-built commercial spaceport», designed and constructed specifically for commercial users that had not previously been an airport or federal infrastructure of any kind.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

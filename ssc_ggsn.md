@@ -5,9 +5,9 @@
 
 ---
 
-> <small>*Термины:* **Swedish Space Corporation's Global Ground Station Network (SSC GGSN)** — англоязычный термин, не имеющий аналога в русском языке. **Глобальная сеть наземных станций Шведской Космической Корпорации (SSC GGSN)** — дословный перевод с английского на русский.</small>
+> <small>*Термины:* **Swedish Space Corporation’s Global Ground Station Network (SSC GGSN)** — англоязычный термин, не имеющий аналога в русском языке. **Глобальная сеть наземных станций Шведской Космической Корпорации (SSC GGSN)** — дословный перевод с английского на русский.</small>
 
-**Swedish Space Corporation's Global Ground Station Network (SSC GGSN)** — глобальная сеть НС [Swedish Space Corporation](swedish_sc.md).
+**Swedish Space Corporation’s Global Ground Station Network (SSC GGSN)** — глобальная сеть НС [Swedish Space Corporation](swedish_sc.md).
 
 |*Расположение станций*|*И с указанием диапазона*|
 |:--|:--|

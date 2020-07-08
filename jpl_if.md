@@ -1,4 +1,4 @@
-# JPL's Innovation Foundry
+# JPL’s Innovation Foundry
 > 2019.10.16 ┊ **🚀 [despace](index.md)** → **[JPL](03_jpl.md)**, [Contact](contact.md)
 
 [TOC]
@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **JPL Innovation Foundry (JPL IF)** — англоязычный термин, не имеющий аналога в русском языке. **Инновационный цех JPL** — дословный перевод с английского на русский.</small>
 
-**JPL's Innovation Foundry (JPL IF)** — it's an office within [JPL](03_jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL's program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA's [Skunk Works](skunk_works.md).
+**JPL’s Innovation Foundry (JPL IF)** — it’s an office within [JPL](03_jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL’s program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA’s [Skunk Works](skunk_works.md).
 
    - JPL supports the science community to ideate, mature, & propose concepts for new NASA missions.
    - Continuously «system engineer» requirements & solutions to develop compelling new missions.
@@ -43,10 +43,10 @@ Consists of two teams:
 The JPL Innovation Foundry provides each PI with institutional support to develop their own unique, high quality proposal. This support includes team formulation, tools, templates, facilities, information systems, on‑line resources, training, & access to lessons learned & best practices. The Foundry handles proposal types ranging from small research & analysis & technology development proposals, to large mission & instrument proposals.
 
 **I have an idea, & I want to engage with the Foundry to mature it, what do I have to do?**  
-Please contact us. We can advise on the best approach given the current maturity of your concept. If your idea fits within the framework of JPL's Earth Science, Planetary Science, Mars Exploration, Astronomy & Astrophysics or Interplanetary Network programs, we can put you in contact with the appropriate program manager. If it doesn't quite fit within any of those programs, we can see if matches up with other funding sources or opportunities.
+Please contact us. We can advise on the best approach given the current maturity of your concept. If your idea fits within the framework of JPL’s Earth Science, Planetary Science, Mars Exploration, Astronomy & Astrophysics or Interplanetary Network programs, we can put you in contact with the appropriate program manager. If it doesn’t quite fit within any of those programs, we can see if matches up with other funding sources or opportunities.
 
 **What kind of ideas do you address in the Foundry?**  
-JPL is NASA's center for robotic exploration, so the ideas we consider tend to center around space exploration, including Space Science & Earth Science, with a focus on space missions.
+JPL is NASA’s center for robotic exploration, so the ideas we consider tend to center around space exploration, including Space Science & Earth Science, with a focus on space missions.
 
 
 
@@ -55,9 +55,9 @@ JPL is NASA's center for robotic exploration, so the ideas we consider tend to c
 ## A Team
 > <small>*Термины:* **A‑Team** — англоязычный термин, не имеющий аналога в русском языке. **Команда А** — дословный перевод с английского на русский.</small>
 
-**The A‑Team** is a virtual team & is staffed by a small group of experts in collaborative analysis & the use of advanced methods & tools; & subject matter experts from 'doing' organizations across JPL's Engineering & Science Directorate. **The A‑Team** focuses on early Pre‑Phase A activities (e.g., idea generation, feasibility studies, & trade space exploration).
+**The A‑Team** is a virtual team & is staffed by a small group of experts in collaborative analysis & the use of advanced methods & tools; & subject matter experts from ’doing' organizations across JPL’s Engineering & Science Directorate. **The A‑Team** focuses on early Pre‑Phase A activities (e.g., idea generation, feasibility studies, & trade space exploration).
 
-JPL's unique approach for maturing advanced study mission concepts, performed by the architecture‑team (A‑Team), combines innovative collaborative methods with subject matter expertise & analysis tools. Each mission concept study is uniquely staffed to match the topic & scope including subject matter experts, scientists, technologists, flight & instrument systems engineers, & program managers as needed. Advanced analysis & collaborative engineering tools are also used to obtain greater insight into each concept’s strengths.
+JPL’s unique approach for maturing advanced study mission concepts, performed by the architecture‑team (A‑Team), combines innovative collaborative methods with subject matter expertise & analysis tools. Each mission concept study is uniquely staffed to match the topic & scope including subject matter experts, scientists, technologists, flight & instrument systems engineers, & program managers as needed. Advanced analysis & collaborative engineering tools are also used to obtain greater insight into each concept’s strengths.
 
 
 
@@ -69,13 +69,13 @@ JPL's unique approach for maturing advanced study mission concepts, performed by
 **Team X** (Команда Икс) — междисциплинарная команда, состоящая из по большей части опытных сотрудников [JPL](03_jpl.md), занимающаяся быстрым проектированием и прототипированием КА и их СЧ.  
 См. также [презентацию, 2013 год ❐](f/contact/j/jpl_2013_case_presentation.pdf).
 
-**Team X** is a virtual cross‑functional multidisciplinary team of engineers that utilizes concurrent engineering methodologies to complete rapid design, analysis & evaluation of mission concept designs & is staffed & backed by the "doing" organizations across JPL's Engineering & Science directorate. There are over 200 Team X members at JPL. Founded in 1995. Team X is well‑suited for all aspects of Pre‑Phase A & Phase A design activities.
+**Team X** is a virtual cross‑functional multidisciplinary team of engineers that utilizes concurrent engineering methodologies to complete rapid design, analysis & evaluation of mission concept designs & is staffed & backed by the "doing" organizations across JPL’s Engineering & Science directorate. There are over 200 Team X members at JPL. Founded in 1995. Team X is well‑suited for all aspects of Pre‑Phase A & Phase A design activities.
 
-This advanced design team of experienced flight‑project engineers is co‑located in the Project Design Center to  complete architecture, mission, & instrument design studies in real time. Team X does point designs for missions & instruments. We also have the A‑Team which explores concepts at earlier stages of maturity, from the initial light bulb going off to wider exploration of the trade space.'doing' organizations across JPL's Engineering & Science Directorate.
+This advanced design team of experienced flight‑project engineers is co‑located in the Project Design Center to  complete architecture, mission, & instrument design studies in real time. Team X does point designs for missions & instruments. We also have the A‑Team which explores concepts at earlier stages of maturity, from the initial light bulb going off to wider exploration of the trade space.’doing' organizations across JPL’s Engineering & Science Directorate.
 
 The Project Design Center is a state‑of‑the‑art facility consisting of networked workstations, a supporting data management infrastructure, large interactive graphic displays, computer modeling & simulation tools, historical data repositories & a shared project model that the design team updates. Products include exploration architectures, systems, payloads, instruments, & technologies for Earth, lunar, asteroid, comet, planetary, astronomy & physics missions.
 
-Team X uses concurrent engineering for rapid design & analysis of space mission concepts. These advanced design teams are composed of a diverse group of specialists working in real time, in the same place, with shared data, to yield an integrated point design. Depending on the maturity of the customer's concept, Team X offers different capabilities & products including instrument design, technology assessments, institutional cost estimates, Red Team Reviews, & much more.
+Team X uses concurrent engineering for rapid design & analysis of space mission concepts. These advanced design teams are composed of a diverse group of specialists working in real time, in the same place, with shared data, to yield an integrated point design. Depending on the maturity of the customer’s concept, Team X offers different capabilities & products including instrument design, technology assessments, institutional cost estimates, Red Team Reviews, & much more.
 
 Design Study Capabilities include:
 
@@ -94,7 +94,7 @@ For more information please contact:
 
 <p style="page-break-after:always"> </p>
 
-**JPL's dream team**
+**JPL’s dream team**
 
 Team X is the Jet Propulsion Laboratory’s advanced design team for rapidly generating innovative space mission concepts. The group focuses on advanced concept designs for projects still in the germination stage, in which prospective principal investigators, or PIs, are trying to formulate their ideas into proposals.
 

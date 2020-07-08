@@ -13,7 +13,7 @@ The concept was first proposed in 2011.01 for long‑duration (1 to 24 months)
 
 | <small>*Nautilus-X spacecraft*</small> |
 |:--|
-| [![](f/project/ais/nautilus_x_pic1_thumb.jpg)](f/project/ais/nautilus_x_pic1.png) |
+| [![](f/project/a/ais/nautilus_x_pic1_thumb.jpg)](f/project/a/ais/nautilus_x_pic1.png) |
 
 
 ## Objectives
@@ -36,7 +36,7 @@ The proposal notionally included a 6.5 by 14 metre main corridor, a rotating h
 
 The design was modular, enabling it to accommodate any of a number of mission specific propulsion modules, manipulator arms, docking port for an Orion or commercial crew capsule, and landing craft for destination worlds. In theory the engines and fuel could be swapped out depending on the mission. The proposal also had an industrial slide‑out airlock unit and a command, control and observation deck.
 
-On the other end of the docking port would have been the spacecraft's centrifuge equipped with an external dynamic ring‑flywheel. Behind the centrifuge would be water and slush hydrogen tanks, which could mitigate the dangers of cosmic radiation for the crew, to a certain degree. In the aft of the craft are the communication and propulsion systems.
+On the other end of the docking port would have been the spacecraft’s centrifuge equipped with an external dynamic ring‑flywheel. Behind the centrifuge would be water and slush hydrogen tanks, which could mitigate the dangers of cosmic radiation for the crew, to a certain degree. In the aft of the craft are the communication and propulsion systems.
 
 The standard version of Nautilus-X had only three inflatable modules. The Extended Duration Explorer variant on the Nautilus-X design concept would have several more, plus docking bays for science payloads and away‑mission vehicles.
 

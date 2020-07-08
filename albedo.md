@@ -20,10 +20,10 @@ The albedos of planets, satellites and minor planets such as asteroids can be us
 
 Two common albedos that are used in astronomy are the (V-band) geometric albedo (measuring brightness when illumination comes from directly behind the observer) and the Bond albedo (measuring total proportion of electromagnetic energy reflected). Their values can differ significantly, which is a common source of confusion
 
-*Planet's and planetoid's albedo in [Solar System](солнечная_система.md).*  
+*Planet’s and planetoid’s albedo in [Solar System](солнечная_система.md).*  
 
 |*Planet*| <small>*Geometric<br> albedo *</small> | <small>*Bond<br> albedo*</small> |
-|:--|:--:|:--:|
+|:--|:--|:--|
 | [Merccury](mercury.md)  |  0.106  |  0.119  |
 | [Venus](venus.md)  |  0.65  |  0.76  |
 | [Earth](earth.md)  |  0.367  |  0.306  |

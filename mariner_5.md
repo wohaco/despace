@@ -7,9 +7,9 @@
 
 > <small>*Terms:* **Mariner 5** — English term with no analogues in Russian. **Маринер‑5** — rough Russian equivalent.</small>
 
-**Mariner 5 (Mariner Venus 1967)** was a spacecraft of the Mariner program that carried a complement of experiments to probe Venus's atmosphere by radio occultation, measure the hydrogen Lyman-alpha (hard ultraviolet) spectrum, and sample the solar particles and magnetic field fluctuations above the planet.
+**Mariner 5 (Mariner Venus 1967)** was a spacecraft of the Mariner program that carried a complement of experiments to probe Venus’s atmosphere by radio occultation, measure the hydrogen Lyman-alpha (hard ultraviolet) spectrum, and sample the solar particles and magnetic field fluctuations above the planet.
 
-[![](f/project/mariner_5/pic01_thumb.jpg)](f/project/mariner_5/pic01.jpg)
+[![](f/project/m/mariner_5/pic01_thumb.jpg)](f/project/m/mariner_5/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
@@ -75,7 +75,7 @@ The operations of Mariner 5 ended in November 1967 and it is now defunct in a he
 ## Science goals & payload
 The main goal of the Mariner 5 was to determine the parameters of the signal in the radio illumination of the atmosphere of Venus.
 
-Also, Mariner 5's goals included to measure interplanetary and Venusian magnetic fields ([EVN‑028](venus.md)), charged particles, plasma, radio refractivity and UV emissions of the Venusian atmosphere.
+Also, Mariner 5’s goals included to measure interplanetary and Venusian magnetic fields ([EVN‑028](venus.md)), charged particles, plasma, radio refractivity and UV emissions of the Venusian atmosphere.
 
    - Helium Magnetometer, mounted on the waveguideleading to the omnidirectional antenna, to measure the magnitude and other characteristics of the interplanetary and planetary magnetic fields;
    - Interplanetary Ion Plasma Probe for E/Q of 40 to 9 400 Volts;

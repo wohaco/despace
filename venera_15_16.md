@@ -10,7 +10,7 @@
 
 **Venera 15** and **Venera 16** were spacecraft sent to Venus by the Soviet Union. This uncrewed orbiters were to map the surface of Venus using high resolution imaging systems.
 
-![](f/project/venera_15_16/pic01.jpg)
+![](f/project/v/venera_15_16/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -49,14 +49,15 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑002||Surface: map, draft.|  |D|C||||
+|EVN‑001||Atmosphere: preliminary model|  |C|D|F|||
+|EVN‑002||Surface: preliminary map.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
 |EVN‑022||Surface: map, precise.|  |D|||||
 |EVN‑025||Surface: structure.|  ||C||||
-|EVN‑042||History & causes of the planet's volcanic & tectonic evolution.|  |D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
 |EVN‑020||Inner structure of the planet.|  |D|||||
 |EVN‑053||Traces of life in the atmosphere & on the surface.|  ||C||||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
@@ -70,9 +71,9 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-Most of the goals set for the Venera Lander series were achieved, so two new space stations equipped with large radar antennas were sent to Venus in 1983 to map the planet's surface in the radio wave range.
+Most of the goals set for the Venera Lander series were achieved, so two new space stations equipped with large radar antennas were sent to Venus in 1983 to map the planet’s surface in the radio wave range.
 
-Venera 15 was launched on June 2, 1983 at 02:38:39 UTC and reached Venus' orbit on October 10, 1983.
+Venera 15 was launched on June 2, 1983 at 02:38:39 UTC and reached Venus’ orbit on October 10, 1983.
 
 Venera 16 was launched on June 7, 1983 at 02: 32: 00 UTC and reached Venus orbit on October 11, 1983.
 
@@ -82,9 +83,9 @@ Each operational orbit was tilted 87.5° to the equator plane with a reapsis of 
 
 Mapping and altimetry of the surface usually began at 80° N when moving towards the pole and continued after flying over the pole to 30° North latitude ([EVN‑022](venus.md)). The formation of radar images was carried out continuously, and the best resolution at the same time was about 0.9 km ([EVN‑002](venus.md)). The Data was accumulated at each 16 minute passage of the periapsis, stored on a tape recorder, then reproduced for transmission to Earth daily for a 100 min communication session, until the next periapsis. During the 24 hour interval, Venus rotated around its axis by 1.48°, so the successive strips of images shot overlapped with each other. At this rate, it took 8 months to cover all the longitudes.
 
-![](f/project/venera_15_16/pic02.jpg)
+![](f/project/v/venera_15_16/pic02.jpg)
 
-![](f/project/venera_15_16/pic05.jpg)
+![](f/project/v/venera_15_16/pic05.jpg)
 
 During the program, several orbit adjustments were made to preserve its period and shape.
 
@@ -92,18 +93,18 @@ Venera 15 in Venus spectroscopy (before the failure of the Infrared Fourier Spec
 
 In June 1984, Venus was in superior conjunction, and data transmission proved impossible while it was behind the Sun when viewed from Earth. This arrangement of celestial bodies opened the possibility of research on the study of solar and interplanetary plasma. After the passage of superior conjunction, the orbit plane of Venera 16 was rotated 18° relative to the orbit plane of Venera 15 to conduct a topographic survey of the areas missed during superior conjunction, and the map was then completed on July 10.
 
-During the joint operation of the two spacecraft were obtained images of the surface of Venus from 30° N. to the North pole with a resolution of 0.9 to 2.5 km. Installation of processed satellite images allowed to build a map of the Northern hemisphere on a scale of 1:5 000 000, covering 25% of the planet's surface (Total area — 115 million km²). The results confirmed that the highest elevations on Venus with a height of more than 4 km are characterized by a significant increase in the radar signal reflected by the planet.
+During the joint operation of the two spacecraft were obtained images of the surface of Venus from 30° N. to the North pole with a resolution of 0.9 to 2.5 km. Installation of processed satellite images allowed to build a map of the Northern hemisphere on a scale of 1:5 000 000, covering 25% of the planet’s surface (Total area — 115 million km²). The results confirmed that the highest elevations on Venus with a height of more than 4 km are characterized by a significant increase in the radar signal reflected by the planet.
 
-Radar survey and mapping of Venus led to important discoveries of the relief and properties of the planet's surface. New types of surface structures with characteristic features were discovered ([EVN‑025](venus.md)):
+Radar survey and mapping of Venus led to important discoveries of the relief and properties of the planet’s surface. New types of surface structures with characteristic features were discovered ([EVN‑025](venus.md)):
 
    - Coronae — extensive round or oval formations with deep concentric rings;
    - Pancake domes — flat, almost circular elevations, some with central calderas;
    - Arachnoids — settled domes with radial cracks (faults) of arachnid shape;
    - Tesserae — vast areas with long mountain ranges and valleys.
 
-![](f/project/venera_15_16/pic03.jpg)
+![](f/project/v/venera_15_16/pic03.jpg)
 
-Satellite radar results suggested that corona, domes, and arachnoids were surface manifestations of mantle plumes heating the stationary crust, as there was no obvious evidence of plate tectonics. There are no direct analogues of such formations on Earth. The tesserae were the oldest areas of the planet's crust and were often overlapped by lava flows ([EVN‑085](venus.md)).
+Satellite radar results suggested that corona, domes, and arachnoids were surface manifestations of mantle plumes heating the stationary crust, as there was no obvious evidence of plate tectonics. There are no direct analogues of such formations on Earth. The tesserae were the oldest areas of the planet’s crust and were often overlapped by lava flows ([EVN‑085](venus.md)).
 
 Even if a large object, penetrating the atmosphere of Venus, was destroyed before hitting the surface, it could generate a shock wave, which left a noticeable mark on the surface. About 150 craters were found in the studied area. Analysis of their characteristics indicated a very young age of these formations, about 750 ± 250 millions of years, which was consistent with the idea of catastrophic geological processes ([EVN‑042](venus.md)), accompanied by the formation of large-scale «bubbles» over the mantle plumes and changes in the tesserae.
 
@@ -146,7 +147,7 @@ The radar and radio altimeter systems used the same components, except for the a
 
    - Radar Altimeter **Omega**
 
-During the height measurement, the antenna transmitted a code sequence, and after the transmission was connected to a receiver that recorded the signal reflected from the surface. After processing the reflected signal, the data was recorded on a tape recorder for further transmission to Earth and subsequent processing in order to eliminate distortions associated with atmospheric, geometric and orbital effects affecting the accuracy of altitude determination. Until the elements of the orbit were accurately determined, the low-resolution mode was used, and after their accurate determination, the spacecraft's equipment switched to high-resolution mode. In combination with Doppler frequency shift analysis, the high-resolution mode reduced the coverage area to 10 km by 40 km with an error of about 1 km. The accuracy of the altitude determination was 50 m.
+During the height measurement, the antenna transmitted a code sequence, and after the transmission was connected to a receiver that recorded the signal reflected from the surface. After processing the reflected signal, the data was recorded on a tape recorder for further transmission to Earth and subsequent processing in order to eliminate distortions associated with atmospheric, geometric and orbital effects affecting the accuracy of altitude determination. Until the elements of the orbit were accurately determined, the low-resolution mode was used, and after their accurate determination, the spacecraft’s equipment switched to high-resolution mode. In combination with Doppler frequency shift analysis, the high-resolution mode reduced the coverage area to 10 km by 40 km with an error of about 1 km. The accuracy of the altitude determination was 50 m.
 
 |*Parameter*|*Value*|
 |:--|:--|
@@ -190,7 +191,7 @@ Synthetic Aperture Radar was necessary in this mission because nothing else woul
 
 General view of the spacecraft Venera 15 and Venera 16 with radar equipment in the image below.
 
-![](f/project/venera_15_16/pic04.jpg)
+![](f/project/v/venera_15_16/pic04.jpg)
 
 
 

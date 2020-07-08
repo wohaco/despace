@@ -121,7 +121,7 @@ The following sessions will be held during the symposium:
 <small>
 
 |°|*Имя*|*Орг.*|*Название*|
-|:--:|:--|:--|:--|
+|:--|:--|:--|:--|
 |—|—|—|**`Session. Mars`**|
 || [James Head](02_head1.md) |  | Toward an Understanding of Early Mars Climate History: New Themes, Directions & Tests |
 || Ashley Palumbo |  | Volcanism on Early Mars: Exploring the Influence of the SO2 Plume on Localized & Short-Term Climate Change |
@@ -160,7 +160,7 @@ The following sessions will be held during the symposium:
 || [Richard Ernst](02_ernst1.md) |  | Geological tests of global warming models on Venus |
 || Evgeniya Guseva |  | Morphological analysis of the coronae of Venus |
 || Vladimir Zharkov & Tamara Gudkova |  | On the structure of the gravitational field for the earth-like interior sructure of Venus |
-|| Vladimir N. Gubenko & Ivan A. Kirillovich |  | Internal waves characteristics in the Venus's atmosphere revealed from the Magellan & Venus Express radio occultation data by two independent methods |
+|| Vladimir N. Gubenko & Ivan A. Kirillovich |  | Internal waves characteristics in the Venus’s atmosphere revealed from the Magellan & Venus Express radio occultation data by two independent methods |
 || Vladimir Gromov & [Alexander Kosov](02_kosov1.md) |  | A model of millimeter wave atmospheric absorption of the sulfur dioxide & the sulphuric acid vapour for the radiometric experiment in the Venera-D mission |
 || [Leonid Ksanfomality](02_ksanfomaliti1.md) |  | Hypothetical living forms on planet Venus & their possible nature |
 |•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
@@ -177,7 +177,7 @@ The following sessions will be held during the symposium:
 || Vladimir V. Busarev |  | Solar wind interaction with the surface of primitive asteroids & their sublimation activity |
 || Stas Barabash |  | ENA imaging on an interstellar prob |
 || Valery I. Shematovich |  | Kinetic models of electron & proton aurorae at Mars |
-|| Natalia Bulatova |  | Features of the Sun's influence on the Earth lithosphere in periods of minimum activity |
+|| Natalia Bulatova |  | Features of the Sun’s influence on the Earth lithosphere in periods of minimum activity |
 |•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
 |—|—|—|**`Session. Moon & Mercury`**|
 || Johannes Benkhoff | ESA | The status of the BepiColombo mission |
@@ -191,7 +191,7 @@ The following sessions will be held during the symposium:
 || Olga Nosova |  | Problems of choice of the Lunokhod route for research & exploration of the volatile components in the south polar region of Moon |
 || Sergey Voropaev & A.Yu.Dnestrovskii |  | Features of the Fossil Tidal Bulge Formation for the Early Moon |
 || Sergey Voropaev |  | Experimental Study of degassing of the early Earth & Moon during accretion |
-|| A.G. Fatyanov |  | The focusing effect of p-wave in the Moon's & Earth's low-velocity core. Analytical Solution |
+|| A.G. Fatyanov |  | The focusing effect of p-wave in the Moon’s & Earth’s low-velocity core. Analytical Solution |
 || V. Yu. Burmin |  | On the nature of the seismic ringing of the Moon. Analytical modeling |
 || Arthur Zagidullin |  | Рhysical libration of the moon |
 || Susanne Schröder |  | LIBS for in-situ geochemical investigation of extraterrestrial surfaces of atmosphereless bodies |
@@ -208,7 +208,7 @@ The following sessions will be held during the symposium:
 || Egor Sorokin |  | Experimental simulating of a micrometeorite impact on the Moon |
 || Olga Yushkova |  | Geometric problems in simulation of the Moon bistatic sounding |
 || Andrey Kharitonov |  | Magnetic & Gravity fields of the Moon from spacecraft Apollo data |
-|| Gennady Kochemasov |  | A new lunar phenomenon - widespread fine cm‑sized rippling of its surface discovered by the Chang's 3 & 4 |
+|| Gennady Kochemasov |  | A new lunar phenomenon - widespread fine cm‑sized rippling of its surface discovered by the Chang’s 3 & 4 |
 || Alexander Gusev |  | Geological exploration of the Moon |
 || Natalia Kozlova |  | Digital Moon: development of scientific basis, methods & tools for planetary data processing & analysis |
 || Boris Ivanov |  | Small lunar crater formation & evolution |
@@ -249,7 +249,7 @@ The following sessions will be held during the symposium:
 || Scott Bolton, Jack Connerney |  | Juno’s Surprising Results at Jupiter |
 || Elena Belenkaya |  | Jupiter’s auroras associated with Galilean moons & the main ovals |
 || Victor Tejfel |  | Latitudinal & zonal variations of the ammonia absorption bands on Jupiter |
-|| Ivan Pensionerov |  | Model of Jupiter's current sheet with a piecewise current density |
+|| Ivan Pensionerov |  | Model of Jupiter’s current sheet with a piecewise current density |
 || TBD |  | (3-4 presentations from US) Jupiter & Saturn: the results of Cassini & Juno |
 || Valery Kotov |  | Rotation of giant planets |
 || Erica Nathan |  | Icy Moon Evolution: Experiments with Freezing Water Spheres |

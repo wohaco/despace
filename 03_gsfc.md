@@ -14,7 +14,7 @@
 
 Среди программ, проводящихся под координацией GSFC: телескоп Hubble, программа Explorer, программа Discovery, Earth Observing System (EOS), INTEGRAL, MAVEN, OSIRIS-REx, обсерватория SOHO, Solar Dynamics Observatory (SDO), Rossi X-ray Timing Explorer (RXTE), Swift. Typically, unmanned earth observation missions & observatories in Earth orbit are managed by GSFC, while unmanned planetary missions are managed by the [JPL](03_jpl.md).
 
-The **Goddard Space Flight Center (GSFC)** is a major [NASA](03_nasa.md) space research laboratory located approximately 6.5 miles (10.5 km) northeast of Washington, D.C. in Greenbelt, Maryland, United States. Established on May 1, 1959 as NASA's first space flight center, GSFC employs approximately 10 000 civil servants and contractors. It is one of ten major NASA field centers, named in recognition of American rocket propulsion pioneer Dr. Robert H. Goddard.
+The **Goddard Space Flight Center (GSFC)** is a major [NASA](03_nasa.md) space research laboratory located approximately 6.5 miles (10.5 km) northeast of Washington, D.C. in Greenbelt, Maryland, United States. Established on May 1, 1959 as NASA’s first space flight center, GSFC employs approximately 10 000 civil servants and contractors. It is one of ten major NASA field centers, named in recognition of American rocket propulsion pioneer Dr. Robert H. Goddard.
 
 **Опыт кооперации.**  
 …

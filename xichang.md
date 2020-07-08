@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Xichang** — English term with no analogues in Russian. **Сичан** — literal translation to Russian.</small>
 
-The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Space Center**, is a People's Republic of China space vehicle launch facility − [spaceport](spaceport.md), approximately 64 km northwest of Xichang, Liangshan Yi Autonomous Prefecture in Sichuan.
+The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Space Center**, is a People’s Republic of China space vehicle launch facility − [spaceport](spaceport.md), approximately 64 km northwest of Xichang, Liangshan Yi Autonomous Prefecture in Sichuan.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

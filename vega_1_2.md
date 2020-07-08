@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Вега (ВеГа, ВЕГА)** — Russian term with no analogues in English. **Vega (VeGa, VEGA)** — English equivalent.</small>
 
-The spacecraft were designated VeGa, a contraction of Venera and Gallei («Венера» and «Галлей» respectively, the Russian words for «Venus» and «Halley»). Vega − two identical soviet spacecraft for the exploration of [Venus](venus.md) and Halley's comet. The spacecraft design were based on the previous [Venera 9 and Venera 10 missions](venera_9_10.md).
+The spacecraft were designated VeGa, a contraction of Venera and Gallei («Венера» and «Галлей» respectively, the Russian words for «Venus» and «Halley»). Vega − two identical soviet spacecraft for the exploration of [Venus](venus.md) and Halley’s comet. The spacecraft design were based on the previous [Venera 9 and Venera 10 missions](venera_9_10.md).
 
 
 
@@ -23,7 +23,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |Operator| … |
 |Programme| Venus‑Halley |
 |Similar<br> missions| • Proposed: …<br>  • Current: …<br> • Past: … |
-|Target| • Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley's comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near-core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core. |
+|Target| • Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near-core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core. |
 |[Type](sc.md)| Flyby spacecraft; lander spacecraft; atmospheric spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| Orbiter; Lander; Balloon Aerostat |
@@ -38,7 +38,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -48,9 +48,9 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|EVN‑001||Atmosphere: preliminary model|  |C|D|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
 |EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||
 |EVN‑012||Atmosphere: lightnings.|  |D|||||
@@ -71,37 +71,37 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-The Vega spacecraft were created as part of the international Venus-Halley project and are intended for research in the flyby approach of Venus and Halley's comet. Created two identical spacecraft Vega 1 and Vega 2, which increases the reliability of the mission and allows you to explore the various areas of Venus and Halley's comet at different distances from the Sun.
+The Vega spacecraft were created as part of the international Venus-Halley project and are intended for research in the flyby approach of Venus and Halley’s comet. Created two identical spacecraft Vega 1 and Vega 2, which increases the reliability of the mission and allows you to explore the various areas of Venus and Halley’s comet at different distances from the Sun.
 
 
-In 1985 − 1986, there was a unique opportunity to combine a flight to Halley's comet with a flyby of Venus and put the spacecraft on the trajectory of a flight to Halley's comet as a result of [a gravitational maneuver](gravass.md).
+In 1985 − 1986, there was a unique opportunity to combine a flight to Halley’s comet with a flyby of Venus and put the spacecraft on the trajectory of a flight to Halley’s comet as a result of [a gravitational maneuver](gravass.md).
 
-The spacecraft that is being launched on a flight path to Venus, by its design, consists of two parts: the lander and the flyby. The lander is designed to explore Venus, and the flyby is designed to explore Halley's comet. This scheme is implemented in the international project «Venus-Halley», developed by the USSR on a broad international basis.
+The spacecraft that is being launched on a flight path to Venus, by its design, consists of two parts: the lander and the flyby. The lander is designed to explore Venus, and the flyby is designed to explore Halley’s comet. This scheme is implemented in the international project «Venus-Halley», developed by the USSR on a broad international basis.
 
 **Lander operation**
-During the descent of the lander, the characteristics of the cloud layer ([EVN-018](venus.md)) and atmospheric chemistry ([EVN-077](venus.md)) were measured. The concentration of sulfuric acid aerosol in clouds was measured ([EVN-009](venus.md)), the presence of sulfur, chlorine, and probably phosphorus was detected.
+During the descent of the lander, the characteristics of the cloud layer ([EVN‑018](venus.md)) and atmospheric chemistry ([EVN‑077](venus.md)) were measured. The concentration of sulfuric acid aerosol in clouds was measured ([EVN‑009](venus.md)), the presence of sulfur, chlorine, and probably phosphorus was detected.
 
-The lander made a soft landing on the night side of Venus in the area of the plain of the Mermaid, at points 8°06' North latitude, 175°51' East longitude (Vega 1) and 7°08' South latitude, 117°40' East longitude (Vega 2). During the descent in the atmosphere, the equipment of the first lander, intended for research on the surface, turned on abnormally. The second lander successfully completed the surface research program ([EVN-006] (venus.md)), the signal transmission lasted 56 minutes.
+The lander made a soft landing on the night side of Venus in the area of the plain of the Mermaid, at points 8°06' North latitude, 175°51' East longitude (Vega 1) and 7°08' South latitude, 117°40' East longitude (Vega 2). During the descent in the atmosphere, the equipment of the first lander, intended for research on the surface, turned on abnormally. The second lander successfully completed the surface research program ([EVN‑006] (venus.md)), the signal transmission lasted 56 minutes.
 
-The Vega 2 lander landed in a high-altitude area, where soil sampling and measurements of the X-ray fluorescence spectra of the Venusian rock were performed ([EVN-062](venus.md)).
+The Vega 2 lander landed in a high-altitude area, where soil sampling and measurements of the X-ray fluorescence spectra of the Venusian rock were performed ([EVN‑062](venus.md)).
 
-The gamma-ray spectrometers of both landers, designed to measure the content of uranium, thorium and potassium in Venusian rocks, started working during the descent of the lander at an altitude of 25 km and functioned until the end of their functioning. Rocks with relatively low levels of natural radioactive elements were found at both points where the lander landed ([EVN-026](venus.md)).
+The gamma-ray spectrometers of both landers, designed to measure the content of uranium, thorium and potassium in Venusian rocks, started working during the descent of the lander at an altitude of 25 km and functioned until the end of their functioning. Rocks with relatively low levels of natural radioactive elements were found at both points where the lander landed ([EVN‑026](venus.md)).
 
 **Operation of aerostats**
 
-The aerostats were pulled out of their compartments in the landers at an altitude of about 60 km using secondary parachutes. After descending to an altitude of about 50 km, the ballast was dropped, and the aerostats began to rise. They soon reached a stable altitude and began to drift in the planet's atmosphere at an altitude of 53 − 55 km (the most active layer of the three-layer system of Venusian clouds), making measurements ([EVN‑003](venus.md)) of meteorological parameters ([EVN-074](venus.md)).
+The aerostats were pulled out of their compartments in the landers at an altitude of about 60 km using secondary parachutes. After descending to an altitude of about 50 km, the ballast was dropped, and the aerostats began to rise. They soon reached a stable altitude and began to drift in the planet’s atmosphere at an altitude of 53 − 55 km (the most active layer of the three-layer system of Venusian clouds), making measurements ([EVN‑003](venus.md)) of meteorological parameters ([EVN‑074](venus.md)).
 
-This cloud layer is the densest in the atmosphere of Venus, and it was assumed that the super rotation of the atmosphere of Venus should be most clearly manifested in it ([EVN-034](venus.md)). Aerostats measured along the flight path temperature, pressure, and vertical wind gusts ([EVN-011](venus.md)), range of visibility in clouds, average illumination ([EVN-013](venus.md)), tracked the glow on the night side ([EVN-008](venus.md)) and the presence of lightning flashes ([EVN-012](venus.md)). The first aerostat drifted along the equator in the Northern hemisphere, the second − in the southern hemisphere. The aerostats operated for 46 hours and 30 minutes each, at an altitude of 53 − 55 km, until the transmission of information stopped due to the depletion of the onboard power source.
+This cloud layer is the densest in the atmosphere of Venus, and it was assumed that the super rotation of the atmosphere of Venus should be most clearly manifested in it ([EVN‑034](venus.md)). Aerostats measured along the flight path temperature, pressure, and vertical wind gusts ([EVN‑011](venus.md)), range of visibility in clouds, average illumination ([EVN‑013](venus.md)), tracked the glow on the night side ([EVN‑008](venus.md)) and the presence of lightning flashes ([EVN‑012](venus.md)). The first aerostat drifted along the equator in the Northern hemisphere, the second − in the southern hemisphere. The aerostats operated for 46 hours and 30 minutes each, at an altitude of 53 − 55 km, until the transmission of information stopped due to the depletion of the onboard power source.
 
 These aerostats showed the presence of very active processes in the cloud layer of Venus, characterized by powerful updraft and downdraft.
 
-**Studying Halley's comet**
+**Studying Halley’s comet**
 
-The difficulty was that it was impossible to calculate the comet's trajectory with the necessary accuracy in advance. For ground-based astrometric support in the USSR was developed and implemented program SoProG (Soviet Program of studies of Halley's comet). Clarification of the comet's orbit continued until the passage of both Vega past its core.
+The difficulty was that it was impossible to calculate the comet’s trajectory with the necessary accuracy in advance. For ground-based astrometric support in the USSR was developed and implemented program SoProG (Soviet Program of studies of Halley’s comet). Clarification of the comet’s orbit continued until the passage of both Vega past its core.
 
-On March 6 and 9, 1986, Vega 1 and 2 passed at a distance of 8 890 and 8 030 km from the comet's core.
+On March 6 and 9, 1986, Vega 1 and 2 passed at a distance of 8 890 and 8 030 km from the comet’s core.
 
-On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 images of the inner regions of Halley's comet, including ~70 images of its core, information about the dust situation inside the comet, plasma characteristics, measured the rate of ice evaporation, and other data. In addition, Vega 1 and Vega 2 found the presence of complex organic molecules.
+On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 images of the inner regions of Halley’s comet, including ~70 images of its core, information about the dust situation inside the comet, plasma characteristics, measured the rate of ice evaporation, and other data. In addition, Vega 1 and Vega 2 found the presence of complex organic molecules.
 
 
 
@@ -110,20 +110,20 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
 ## Objectives and payload
 **Explorations of Venus** − continue to explore the atmosphere, cloud layer, and surface of Venus using landers, including:
 
-   - study of the characteristics of the atmosphere of Venus during descent ([EVN-003](venus.md));
-   - investigation of the Venus soil using landers (determination of the nature of rocks at the landing site, the elemental composition of the soil ([EVN-026](venus.md)), physical and mechanical properties of the surface layer of the soil);
-   - conducting fundamentally new experiments to study the circulation of the atmosphere of Venus ([EVN-011](venus.md)) and its meteorological parameters using aerostates. The main objectives of this experiment were:      
+   - study of the characteristics of the atmosphere of Venus during descent ([EVN‑003](venus.md));
+   - investigation of the Venus soil using landers (determination of the nature of rocks at the landing site, the elemental composition of the soil ([EVN‑026](venus.md)), physical and mechanical properties of the surface layer of the soil);
+   - conducting fundamentally new experiments to study the circulation of the atmosphere of Venus ([EVN‑011](venus.md)) and its meteorological parameters using aerostates. The main objectives of this experiment were:      
       - introduction of free-floating aerostates into the Venusian atmosphere and subsequent tracking of their movement using a network of ground-based radio telescopes, thereby determining the speed and direction of the wind;
-      - direct measurement of atmospheric parameters using sensors placed in the aerostate's nacelle.
+      - direct measurement of atmospheric parameters using sensors placed in the aerostate’s nacelle.
       - 
-**Halley's comet research** − search approach of flyby spacecraft to Halley's comet with the goal of ballistic movement through the comet's coma at a short distance from its core; conducting a comprehensive explore of Halley's comet from the flyby trajectory, including:
+**Halley’s comet research** − search approach of flyby spacecraft to Halley’s comet with the goal of ballistic movement through the comet’s coma at a short distance from its core; conducting a comprehensive explore of Halley’s comet from the flyby trajectory, including:
 
    - exploring the structure and dynamics of the near-core coma region;
    - determination of gas composition in the near-core region;
    - determination of the composition of dust particles and their mass distribution at different distances from the core;
    - determination of physical characteristics of the comet core (size, shape, surface properties, temperature);
    - getting TV images of its core from a distance of about 10 000 km;
-   - studying the interaction of the solar wind with the comet's atmosphere and ionosphere.
+   - studying the interaction of the solar wind with the comet’s atmosphere and ionosphere.
 
 **Orbiter:**
 
@@ -179,9 +179,9 @@ The television systems of both **flyby spacecraft** were of the same type. They 
 **The aerostat** consisted of a teflon shell with a diameter of 3.4 m, filled with helium, and a 6.9 kg gondola suspended from a 13 m long nylon halyard. Equipment for measuring meteorological parameters, a radio system and a power supply are installed on the supporting structure of the gondola. The envelope of the aerostat in the operating state was filled with helium over-pressure. The shell was transparent to radio waves.
 
 
-The aerostat's gondola was 1.2 m high and consisted of three parts connected by flexible slings. The gondola was covered with a white protective paint to prevent corrosion caused by sulfuric acid and increase the surface albedo.
+The aerostat’s gondola was 1.2 m high and consisted of three parts connected by flexible slings. The gondola was covered with a white protective paint to prevent corrosion caused by sulfuric acid and increase the surface albedo.
 
-The aerostat's electronics provided unidirectional communication with the Earth, without receiving commands. Radio transmitter (carrier frequency 1.6679 GHz, 4.5 W output power) it could operate in two modes. 20 antennas on Earth − 6 on the territory of the USSR, coordinated by the Institute of Space Research of the USSR Academy of Sciences, 11 astronomical radio telescopes and 3 antennas of the NASA [Deep Space Communication Network](dsn.md) were used for very-long-baseline interferometry tracking of aerostates.
+The aerostat’s electronics provided unidirectional communication with the Earth, without receiving commands. Radio transmitter (carrier frequency 1.6679 GHz, 4.5 W output power) it could operate in two modes. 20 antennas on Earth − 6 on the territory of the USSR, coordinated by the Institute of Space Research of the USSR Academy of Sciences, 11 astronomical radio telescopes and 3 antennas of the NASA [Deep Space Communication Network](dsn.md) were used for very-long-baseline interferometry tracking of aerostates.
 
 
 
@@ -199,13 +199,13 @@ The aerostat's electronics provided unidirectional communication with the Earth,
       
    - **Members:**
       1. V. Ridler (Austria)
-      1. T. Gomboshi (Hungarian People's Republic)
-      1. L. Sabo (Hungarian People's Republic)
-      1. K. Sege (Hungarian People's Republic)
-      1. A. Shomodi (Hungarian People's Republic)
+      1. T. Gomboshi (Hungarian People’s Republic)
+      1. L. Sabo (Hungarian People’s Republic)
+      1. K. Sege (Hungarian People’s Republic)
+      1. A. Shomodi (Hungarian People’s Republic)
       1. H. Schiller (GDR)
-      1. M. Gogoshev (People's Republic of Bulgaria)
-      1. C. Grzendzielski (Polish People's Republic)
+      1. M. Gogoshev (People’s Republic of Bulgaria)
+      1. C. Grzendzielski (Polish People’s Republic)
       1. A. Ammar (France)
       1. J. Blamon (France)
       1. J. Ryunavo (France)
@@ -240,4 +240,4 @@ The aerostat's electronics provided unidirectional communication with the Earth,
    1. <ttps://ru.wikipedia.org/wiki/Вега_(АМС)>
    1. <https://en.wikipedia.org/wiki/Vega_program>
    1. <https://www.laspace.ru/projects/planets/vega_1_2/> — Automatic interplanetary stations Vega 1 and Vega 2
-   1. <http://galspace.spb.ru/index502.html> — Exploring Venus and Halley's comet
+   1. <http://galspace.spb.ru/index502.html> — Exploring Venus and Halley’s comet

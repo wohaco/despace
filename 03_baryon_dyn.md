@@ -14,7 +14,7 @@ Space propulsion is our main focus at Baryon Dynamics. Over the years, we has wo
 
 We have a strong quality assurance policy to have the best product delivered to our customers.
 
-Currently we are researching a low cost and low power electric thruster for small satellites. We believe that our flagship technology will revolutionize the small satellite industry. It is based off of the founder's PhD dissertation in 2013. Over the years, the company improved on the intellectual property.
+Currently we are researching a low cost and low power electric thruster for small satellites. We believe that our flagship technology will revolutionize the small satellite industry. It is based off of the founder’s PhD dissertation in 2013. Over the years, the company improved on the intellectual property.
 
 Our secondary specialization, power, concentrates on converting solar, thermal, and nuclear energy and converting them into electrical energy. We are aiming to develop a product that will be future-ready for the nuclear fusion industry.
 

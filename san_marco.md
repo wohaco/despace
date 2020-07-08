@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **San Marco** — English term with no analogues in Russian. **Сан‑Марко** — literal translation to Russian.</small>
 
-**The Luigi Broglio Space Center** (**BSC**) is an Italian-owned spaceport near Malindi, Kenya, named after its founder and Italian space pioneer Luigi Broglio. Developed in the 1960s through a partnership between the Sapienza University of Rome's Aerospace Research Centre and [NASA](nasa.md), the BSC served as a spaceport for the launch of both Italian and international satellites (1967 – 1988). The center comprises a main offshore launch site, known as the **San Marco** platform, as well as two secondary control platforms and a communications ground station on the mainland.
+**The Luigi Broglio Space Center** (**BSC**) is an Italian-owned spaceport near Malindi, Kenya, named after its founder and Italian space pioneer Luigi Broglio. Developed in the 1960s through a partnership between the Sapienza University of Rome’s Aerospace Research Centre and [NASA](nasa.md), the BSC served as a spaceport for the launch of both Italian and international satellites (1967 – 1988). The center comprises a main offshore launch site, known as the **San Marco** platform, as well as two secondary control platforms and a communications ground station on the mainland.
 
 The ground station is in use and continues to track NASA, ESA and Italian satellites. However, the two platforms fell into disrepair during the 1990s.
 

@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Байконур** — Russian term with no analogues in English. **Baikonur** — English equivalent.</small>
 
-**The Baikonur Cosmodrome** *(Kazakh: Байқоңыр «rich valley»)* is the world's first and largest operational space launch facility. The [spaceport](spaceport.md) is located in the desert steppe of Baikonur, about 200 km east of the Aral Sea and north of the river Syr Darya. It is near the Tyuratam railway station and is about 90 m above sea level.
+**The Baikonur Cosmodrome** *(Kazakh: Байқоңыр «rich valley»)* is the world’s first and largest operational space launch facility. The [spaceport](spaceport.md) is located in the desert steppe of Baikonur, about 200 km east of the Aral Sea and north of the river Syr Darya. It is near the Tyuratam railway station and is about 90 m above sea level.
 
 For a number of years, Baikonur has maintained its leading position in the world in terms of the number of launches: in particular, in 2015, 18 launch vehicles were launched from here during the year (the second place is taken by the [Canaveral](canaveral.md) cosmodrome (USA) with 17 launches per year, the third - [Guiana Space Center](kourou.md) with 12 launches per year). In 2016, Cape Canaveral became the leader.
 

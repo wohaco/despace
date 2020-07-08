@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Uchinoura** — English term with no analogues in Russian. **Утиноура** — literal translation to Russian.</small>
 
-**The Uchinoura Space Center** (**内之浦宇宙空間観測所**, **Uchinoura Uchū Kūkan Kansokusho**) is a space launch facility in the Japanese town of Kimotsuki, Kagoshima Prefecture. Before the establishment of the [JAXA space agency](03_jaxa.md) in 2003, it was simply called the **Kagoshima Space Center** (**鹿児島宇宙空間観測所**) (**KSC**). All of Japan's scientific satellites were launched from Uchinoura prior to the M-V launch vehicles being decommissioned in 2006. It continues to be used for suborbital launches, and has also been used for the Epsilon orbital launch vehicle. Additionally, the center has antennas for communication with interplanetary space probes.
+**The Uchinoura Space Center** (**内之浦宇宙空間観測所**, **Uchinoura Uchū Kūkan Kansokusho**) is a space launch facility in the Japanese town of Kimotsuki, Kagoshima Prefecture. Before the establishment of the [JAXA space agency](03_jaxa.md) in 2003, it was simply called the **Kagoshima Space Center** (**鹿児島宇宙空間観測所**) (**KSC**). All of Japan’s scientific satellites were launched from Uchinoura prior to the M-V launch vehicles being decommissioned in 2006. It continues to be used for suborbital launches, and has also been used for the Epsilon orbital launch vehicle. Additionally, the center has antennas for communication with interplanetary space probes.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

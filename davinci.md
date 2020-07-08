@@ -9,7 +9,7 @@
 
 **DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging)** is a proposed mission concept for an atmospheric probe to Venus. 
 
-![](f/project/davinci/davinci.jpg)
+![](f/project/d/davinci/davinci.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -51,7 +51,7 @@ Achieved targets & investigations:
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||
-|EVN‑042||History & causes of the planet's volcanic & tectonic evolution.|  |D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
 |EVN‑050||Causes of the water loss.|  |D|||||
 |EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
 |EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
@@ -65,11 +65,11 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-DAVINCI would study the chemical composition of Venus' ([EVN‑014](venus.md)) atmosphere during descent ([EVN‑003](venus.md)). The DAVINCI probe would travel through the Venus atmosphere, sampling the air ([EVN‑055](venus.md)), and returning measurements down to the surface. These measurements are important to understanding the origin of the Venus atmosphere, how it has evolved, and how and why it is different from Earth ([EVN‑027](venus.md)) and Mars. DAVINCI's measurements would reveal the history of water ([EVN‑052](venus.md)) on Venus and the chemical processes at work in the unexplored lower atmosphere. Before it reaches the surface, the DAVINCI probe would take the photos of the planet's ridged terrain − «tesserae» ([EVN‑093](venus.md), [EVN‑085](venus.md)) to explore its origin and tectonic, volcanic, and weathering history ([EVN‑042](venus.md), [EVN‑095](venus.md)).
+DAVINCI would study the chemical composition of Venus’ ([EVN‑014](venus.md)) atmosphere during descent ([EVN‑003](venus.md)). The DAVINCI probe would travel through the Venus atmosphere, sampling the air ([EVN‑055](venus.md)), and returning measurements down to the surface. These measurements are important to understanding the origin of the Venus atmosphere, how it has evolved, and how and why it is different from Earth ([EVN‑027](venus.md)) and Mars. DAVINCI’s measurements would reveal the history of water ([EVN‑052](venus.md)) on Venus and the chemical processes at work in the unexplored lower atmosphere. Before it reaches the surface, the DAVINCI probe would take the photos of the planet’s ridged terrain − «tesserae» ([EVN‑093](venus.md), [EVN‑085](venus.md)) to explore its origin and tectonic, volcanic, and weathering history ([EVN‑042](venus.md), [EVN‑095](venus.md)).
 
-DAVINCI would explore how Venus's atmosphere formed and then changed over time, including what happened to its water ([EVN‑027](venus.md), [EVN‑050](venus.md)). The findings would help understand why Venus and Earth took such different paths as they matured.
+DAVINCI would explore how Venus’s atmosphere formed and then changed over time, including what happened to its water ([EVN‑027](venus.md), [EVN‑050](venus.md)). The findings would help understand why Venus and Earth took such different paths as they matured.
 
-DAVINCI's in situ measurements would answer multiple questions regarding Venus's atmospheric composition.
+DAVINCI’s in situ measurements would answer multiple questions regarding Venus’s atmospheric composition.
 
 It is part of the Discovery Program, and it was one of the finalists for Discovery 13 and 14. In the selection, the Lucy and Psyche spacecraft were selected as the next missions. The total allocated budget for the winners was $450M. On February 13, 2020, it joined the Discovery 15 and 16 finalists, becoming DAVINCI+.
 
@@ -82,10 +82,10 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 
 |*Instrument*|*Description*|
 |:--|:--|
-| Venus Analytic Laboratory (VAL)  | Instruments would provide high-fidelity synergistic measurements throughout the probe's descent, particularly in the upper clouds and the unexplored near-surface environment. |
+| Venus Analytic Laboratory (VAL)  | Instruments would provide high-fidelity synergistic measurements throughout the probe’s descent, particularly in the upper clouds and the unexplored near-surface environment. |
 | Venus Mass Spectrometer (VMS) | Would provide the first comprehensive in situ surveys of noble and trace gases at Venus, and has the capability to discover new gas species in the Venusian atmosphere. |
 | Venus Tunable Laser Spectrometer (VTLS) | Would provide the first highly sensitive in situ measurements of targeted trace gases and associated isotope ratios at Venus, addressing key science questions about chemical processes in the upper clouds and the near-surface environment. |
-| Venus Atmospheric Structure Investigation (VASI) | Would provide measurements of the structure and dynamics of Venus' atmosphere during entry and descent, providing context for chemistry measurements and enabling reconstruction of the probe's descent. |
+| Venus Atmospheric Structure Investigation (VASI) | Would provide measurements of the structure and dynamics of Venus’ atmosphere during entry and descent, providing context for chemistry measurements and enabling reconstruction of the probe’s descent. |
 | Venus Descent Imager (VenDI) | Would provide high-contrast images of the tessera terrain at the descent location. |
 
 
@@ -101,7 +101,7 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 
 **PEOPLE:**
 
-   1. James B. Garvin − The DAVINCI Principal Investigator (NASA's Goddard Space Flight Center).
+   1. James B. Garvin − The DAVINCI Principal Investigator (NASA’s Goddard Space Flight Center).
 
 **COMMUNITY:**
 

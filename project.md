@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **Проекты** — русскоязычный термин. **Projects** — англоязычный эквивалент.</small>
 
-> <small>Здесь, тем не менее, мы оглядываемся назад, но не стоим на месте. Мы стремимся вперёд, открываем новые пути, берёмся за новые дела, потому что мы любопытны… и любопытство гонит нас по новым дорогам. **Только вперёд.**<br> «Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious… and curiosity keeps leading us down new paths. Keep moving forward.»<br> *(Уолт Дисней)*</small>
+> <small>Здесь, тем не менее, мы оглядываемся назад, но не стоим на месте. Мы стремимся вперёд, открываем новые пути, берёмся за новые дела, потому что мы любопытны… и любопытство гонит нас по новым дорогам. **Только вперёд.**<br> «Around here, however, we don’t look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we’re curious… and curiosity keeps leading us down new paths. Keep moving forward.»<br> *(Уолт Дисней)*</small>
 
 Список стандартных формулировок описаний ОКР:  
 Контактные исследования *«планеты»*; Дистанционные исследования *«планеты»*; Исследование космоса; Гидрометеорология, мониторинг климата Земли.
@@ -104,7 +104,7 @@
 **Общие задачи КА и наземного сегмента**
 
 |*EVN‑XXX*|*T*|*RU*|*EN*|
-|:--|:--:|:--|:--|
+|:--|:--|:--|:--|
 ||| **`Не проводилось`** | **`Never occured`** |
 | [EVN‑](project.md) ||  |  <mark>TBD</mark> |
 |• • •|•|• • •|• • •|

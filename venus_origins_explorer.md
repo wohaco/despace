@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Venus Origins Explorer (VOX)** — English term with no analogues in Russian. **Исследователь происхождения Венеры (ИПВ)** — literal translation to Russian.</small>
 
-VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and imaging of Venus' surface and produce the first maps of deformation and global surface composition ([EVN‑024](venus.md)), thermal emissivity, and gravity field ([EVN‑089](venus.md)) to study the interior structure of the planet ([EVN‑020](venus.md)). Current data are suggestive of recent and active volcanism on Venus, and this mission could determine if current volcanism is limited to mantle plume heads or if more widespread ([EVN‑029](venus.md)).
+VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and imaging of Venus’ surface and produce the first maps of deformation and global surface composition ([EVN‑024](venus.md)), thermal emissivity, and gravity field ([EVN‑089](venus.md)) to study the interior structure of the planet ([EVN‑020](venus.md)). Current data are suggestive of recent and active volcanism on Venus, and this mission could determine if current volcanism is limited to mantle plume heads or if more widespread ([EVN‑029](venus.md)).
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -20,7 +20,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 |Operator| … |
 |Programme| New Frontiers program 4 |
 |Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: [Pineer Venus Orbiter](pioneer_venus_1.md), [Venera 15 and 16](venera_15_16.md), [Magellan](magellan.md.md) |
-|Target| Produce global, high resolution topography and imaging of Venus' surface and produce the first maps of deformation and global surface composition, thermal emissivity, and gravity field to study the interior structure of the planet |
+|Target| Produce global, high resolution topography and imaging of Venus’ surface and produce the first maps of deformation and global surface composition, thermal emissivity, and gravity field to study the interior structure of the planet |
 |[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| Orbiter; atmospheric probe |
@@ -36,7 +36,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -55,7 +55,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 |EVN‑024||Surface: composition.|  ||C||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
+|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
 |EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
 |EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
 |EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
@@ -74,7 +74,7 @@ The VOX mission concept would have the orbiter deploy a small, simple atmospheri
 
 The rest of the measurements would be made from instruments on the orbiter over at least three years ([EVN‑005](venus.md)).
 
-The mission was last proposed in 2017 to NASA's New Frontiers program mission 4 to compete for funding and development, but it was not selected.
+The mission was last proposed in 2017 to NASA’s New Frontiers program mission 4 to compete for funding and development, but it was not selected.
 
 
 
@@ -84,7 +84,7 @@ The mission was last proposed in 2017 to NASA's New Frontiers program mission 4 
 **The VOX mission objectives are:**
 
    1. Investigate atmospheric physics and chemistry, including noble gases and their isotopes ([EVN‑055](venus.md)).
-   1. Investigate Venus' past hydrological cycles to determine the role of volatiles in crustal formation ([EVN‑052](venus.md)).
+   1. Investigate Venus’ past hydrological cycles to determine the role of volatiles in crustal formation ([EVN‑052](venus.md)).
    1. Investigate crustal physics and chemistry and determine the global tectonic framework and heat flow, whether catastrophic resurfacing occurred, and any type of geologic processes that may be currently active ([EVN‑024](venus.md), [EVN‑029](venus.md)).
    1. Investigate crustal weathering by constraining global mineralogy and surface-atmosphere weathering reactions ([EVN‑023](venus.md), [EVN‑041](venus.md)).
    1. Map cloud particle modes and their temporal variations, and track cloud level winds in the polar vortices.
@@ -95,7 +95,7 @@ The orbiter would carry two scientific instruments and a radio:
 
    1. A radar called Venus Interferometric Synthetic Aperture Radar (VISAR) would generate high-resolution imaging of the surface at 15 m to 30 m resolution, and search for minute changes in surface elevations to look for evidence of current volcanic or tectonic activity by performing repeat-passes during 3 years ([EVN‑022](venus.md), [EVN‑029](venus.md), [EVN‑076](venus.md)).
    1. The Venus Emissivity Mapper (VEM) would employ a spectrometer using five near-infrared wavelengths where the atmosphere is transparent to map the chemical composition at the surface, and thus determine whether tesserae regions formed in the presence of water ([EVN‑026](venus.md)). Measurements in additional bands would study cloud structure and cloud displacement (indicating winds) ([EVN‑011](venus.md)), and would search for water vapor in the lowermost atmosphere.
-   1. The orbiter's radio signal in the Ka-band would provide the gravity field resolution needed to estimate global elastic thickness, and map the gravity field at high resolution to study the interior structure of the planet ([EVN‑020](venus.md), [EVN‑089](venus.md)).
+   1. The orbiter’s radio signal in the Ka-band would provide the gravity field resolution needed to estimate global elastic thickness, and map the gravity field at high resolution to study the interior structure of the planet ([EVN‑020](venus.md), [EVN‑089](venus.md)).
 
 
 

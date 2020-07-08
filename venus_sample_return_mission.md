@@ -41,7 +41,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -76,7 +76,7 @@ The objective of the mission would be to return to Earth at least 1 kilogram (
 
 The mission is considered to be similar in size and challenge to Mars or comet sample return mission, also currently under study by NASA, the team members said.
 
-The nearly 900 °F temperature of the Venusian surface and atmospheric pressure 90 times that of Earth added to the team's problems in designing the mission.
+The nearly 900 °F temperature of the Venusian surface and atmospheric pressure 90 times that of Earth added to the team’s problems in designing the mission.
 
 After considering several approaches, the team settled on mission that would use small balloons, dropped by parachute. The balloons would self‑inflate and rise to high stable altitude where they could be captured by robotic aircraft and transferred to rocket carried by large hot «air» balloon. The «air» in this case means the Venus ambient atmosphere.
 
@@ -170,7 +170,7 @@ The VSR team noted that the Venus Sample Return mission concept would be potenti
 
 **Docs:**
 
-   1. [Venus sample return mission revisited ❐](f/project/venus_sample_return_mission/valentiand_venus_sample_return_mission_revisited_r2.pdf)
+   1. [Venus sample return mission revisited ❐](f/project/v/venus_sample_return_mission/valentiand_venus_sample_return_mission_revisited_r2.pdf)
 
 **Links:**
 

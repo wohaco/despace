@@ -10,7 +10,7 @@
 || ![](f/contact/w/wilson_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** …
-   - **Exp.:** Study planets, in particular Mars & Venus, with a focus on using spacecraft to observe their atmospheres. I have built meteorological sensors for Beagle 2 & ExoMars 2016 Mars landers; I co-ordinated science operations for Venus Express, & am now an Inter-Disciplinary Scientist for ESA's ExoMars Trace Gas Orbiter.
+   - **Exp.:** Study planets, in particular Mars & Venus, with a focus on using spacecraft to observe their atmospheres. I have built meteorological sensors for Beagle 2 & ExoMars 2016 Mars landers; I co-ordinated science operations for Venus Express, & am now an Inter-Disciplinary Scientist for ESA’s ExoMars Trace Gas Orbiter.
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [IVC](ivc_2019.md)

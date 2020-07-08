@@ -19,7 +19,7 @@ Various surveys published by the Space Science Board have appeared since 1965 bu
 
 Visions and Voyages for Planetary Science in the Decade 2013 ‑ 2022 (2011) was published in prepublication form on March 7, 2011, and in final form later that year. Draft versions of the document were presented at town hall meetings around the country, at lunar and planetary conferences, and made available publicly on the NASA website and via the National Academies Press. The report differed from previous reports in that it included "brutally honest" budgetary review from a 3rd party contractor.
 
-The report highlighted a new Mars rover, a mission to Jupiter's moon Europa, and a mission to Uranus and its moons as proposed [Flagship Missions](fs.md). The Mars mission was given highest priority, followed by the Europa mission.
+The report highlighted a new Mars rover, a mission to Jupiter’s moon Europa, and a mission to Uranus and its moons as proposed [Flagship Missions](fs.md). The Mars mission was given highest priority, followed by the Europa mission.
 
 The Mars rover proposal was called MAX‑C and it would store samples for eventual return to Earth, but the method of return was left open. It only recommended the rover mission if it could be done cheaply enough ($ 2.5 billion).
 

@@ -24,7 +24,7 @@ The original version of STK ran only on Sun Microsystems computers, but as PCs b
 
 STK was first adopted by the aerospace community for orbit analysis and access calculations (when a satellite can see a ground‑station or image target), but as the software was expanded, more modules were added that included the ability to perform calculations for communications systems, radar, interplanetary missions and orbit collision avoidance.
 
-The addition of 3D viewing capabilities led to the adoption of the tool by military users for real‑time visualization of air, land and sea forces as well as the space component. STK has also been used by various news organizations to graphically depict current events to a wider audience, including the deorbit of Russia's Mir Space Station, the Space Shuttle Columbia disaster, the Iridium/Cosmos collision, the asteroid 2012 DA14 close approach and various North Korea missile tests.
+The addition of 3D viewing capabilities led to the adoption of the tool by military users for real‑time visualization of air, land and sea forces as well as the space component. STK has also been used by various news organizations to graphically depict current events to a wider audience, including the deorbit of Russia’s Mir Space Station, the Space Shuttle Columbia disaster, the Iridium/Cosmos collision, the asteroid 2012 DA14 close approach and various North Korea missile tests.
 
 As of version 10, the software underwent a name change from Satellite Tool Kit to Systems Tool Kit to reflect its applicability in land, sea, air, and space systems.
 

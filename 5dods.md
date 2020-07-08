@@ -20,11 +20,11 @@ Up to 18 layers have been tested using optimized parameters with a light pulse
 
 The format has a unique method of storing data, called “5‑dimensional” more for marketting purposes than because of any extra‑dimensional properties. The device has 3 physical dimensions and has no exotic higher dimensional properties. The fractal/holographic nature of its data storage is also purley 3‑dimensional. According to the University of Southampton:
 
-> The 5‑dimensional discs [have] tiny patterns printed on 3 layers within the discs. Depending on the angle they are viewed from, these patterns can look completely different. This may sound like science fiction, but it's basically a really fancy optical illusion. In this case, the 5 dimensions inside of the discs are the size and orientation in relation to the 3‑dimensional position of the nanostructures. The concept of being 5‑dimensional means that one disc has several different images depending on the angle that one views it from, and the magnification of the microscope used to view it. Basically, each disc has multiple layers of micro and macro level images.
+> The 5‑dimensional discs [have] tiny patterns printed on 3 layers within the discs. Depending on the angle they are viewed from, these patterns can look completely different. This may sound like science fiction, but it’s basically a really fancy optical illusion. In this case, the 5 dimensions inside of the discs are the size and orientation in relation to the 3‑dimensional position of the nanostructures. The concept of being 5‑dimensional means that one disc has several different images depending on the angle that one views it from, and the magnification of the microscope used to view it. Basically, each disc has multiple layers of micro and macro level images.
 
 It can be read with a combination of an optical microscope and a polarizer.
 
-The technique was first demonstrated in 2010 by Kazuyuki Hirao's laboratory at the Kyoto University. Further, the technology was developed by Peter Kazansky's research group at the Optoelectronics Research Centre, University of Southampton.
+The technique was first demonstrated in 2010 by Kazuyuki Hirao’s laboratory at the Kyoto University. Further, the technology was developed by Peter Kazansky’s research group at the Optoelectronics Research Centre, University of Southampton.
 
 
 

@@ -20,7 +20,7 @@ In May 2019, the company was selected as the provider of the power & propulsion 
 
 ## Maxar, comments
 
-Maxar's most visible products include the Canadarm used on NASA's Space Shuttle, as well as the Canadarm2 & Dextre remote manipulator systems used on the International Space Station.
+Maxar’s most visible products include the Canadarm used on NASA’s Space Shuttle, as well as the Canadarm2 & Dextre remote manipulator systems used on the International Space Station.
 
 Maxar provides operational solutions to commercial & government organizations worldwide, including:
 

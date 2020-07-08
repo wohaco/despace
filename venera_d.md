@@ -9,15 +9,15 @@
 **Venera-D** *(Venera‑17)* - spacecraft for distant and contact research of [Venus] (venus.md). The spacecraft consists of an orbiter and lander modules, as well as a payload: aerial platforms, and small surface stations (in the extended mission).
 
 This document provides a brief description of the mission and apparatus; the description is valid together with the documents «Sketch» and «Calculator»; information in the Calculator is a priority.
-• **Calculator:** in [PDF ❐](f/project/venera_d/calculator_vd.pdf), in [XLS ❐](f/project/venera_d/calculator_vd.xlsx).  
-• **Sketch:** in [PDF ❐](f/project/venera_d/sketch_vd.pdf), in [DWG ❐](f/project/venera_d/sketch_vd.xlsx).
+• **Calculator:** in [PDF ❐](f/project/v/venera_d/calculator_vd.pdf), in [XLS ❐](f/project/v/venera_d/calculator_vd.xlsx).  
+• **Sketch:** in [PDF ❐](f/project/v/venera_d/sketch_vd.pdf), in [DWG ❐](f/project/v/venera_d/sketch_vd.xlsx).
 
 
 <p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-||**`Mission`**|
+||**Mission:**|
 |Duration| 3.5 years |
 |Operator| … |
 |Program| … |
@@ -28,7 +28,7 @@ This document provides a brief description of the mission and apparatus; the des
 |Goal| Complex study of Venus: study of Venus in the orbit of an artificial satellite, in the dense layers of the atmosphere at altitudes of 50 — 100 km, on the surface and during descent. |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Price| ₽ 17 billion in 2019 prices (5 912 kg [gold](sc_price.md)) |
-||**`Spacecraft`**|
+||**Spacecraft:**|
 |Contractor| … |
 |Developer| … |
 |Structure| Orbiter, Lander |
@@ -41,7 +41,7 @@ This document provides a brief description of the mission and apparatus; the des
 
 Targets and investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -55,7 +55,7 @@ Targets and investigations:
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
 |EVN‑007||Atmosphere: connection between the topography & the atmo circulation.|  |D|||||
-|EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
+|EVN‑008||Atmosphere: nightglows.|  |D|||||
 |EVN‑010||Atmosphere: vertical model.|  |D|||||
 |EVN‑011||Atmosphere: common circulation model.|  |D|||||
 |EVN‑012||Atmosphere: lightnings.|  |D|||||
@@ -76,12 +76,12 @@ Targets and investigations:
 |EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
 |EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.| Ac, Ai, Am, At |D|||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑035||Atmosphere: nature of the UF‑absorber.|  |D|||||
-|EVN‑040||Were there oceans & why has they gone?|  |D|C|F|||
-|EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
+|EVN‑040||Were there oceans & why have they gone|  |D|C|F|||
+|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
 |EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
-|EVN‑047||Surface: structure‑composition connection of different regions & Venus evolution.|  ||C||||
+|EVN‑047||Surface: structure‑composition connection of different regions & planet’s evolution.|  ||C||||
 |EVN‑048||Nature & sources of the greenhouse effect.|  |D||F|||
 |EVN‑049||Nature of the thermal tides.|  |D|||||
 |EVN‑056|T|Exploration: from L1/L2.| Ai, Am, At, Gi |D|||||
@@ -175,7 +175,7 @@ The total development time ranges from 7 to 10 yr and will be a function of spee
 <small>
 
 |*Phase (RU)*|*Phase*|*Description*|*Period (Fast)*|*Period (Realistic)*|*Period (Long)*|
-|:--|:--:|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|:--|
 |Аванпроект|Phase A|Creation of general concept of the spacecraft, specification of requirements and characteristics, design development, modification analyses of the spacecraft, and selection of cooperation modes.|**1.5**<br>June 2019 — January 2021|**1.5**<br>June 2019 — January 2021|**2**<br>June 2019 — June 2021|
 |Эскизный проект|Phase B|Detailed development of selected design, principal decisions, and verification of cooperation.|**2**<br>January 2021 — January 2023|**3**<br>January 2021 — January 2024|**3**<br>June 2021 — June 2024|
 |Разработка конструкторской документации|Phase C|Final appearance development of the spacecraft and its assembly drawings and raw models.|**1.5**<br>January 2023 — June 2024|**2**<br>January 2024 — January 2026|**2.5**<br>June 2024 — January 2027|
@@ -501,7 +501,7 @@ In the future, the concept of VAMP was refused.
 | — Thermal control system | 70 | 70 |
 | — Power system | 102 | 102 |
 | — Telemetry system | 8 | 8 |
-| 1.2 Orbiter's payload  | 1 200 | 1 200 |
+| 1.2 Orbiter’s payload  | 1 200 | 1 200 |
 | — VAMP | 450 | 450 |
 | — Other payload  | 450 | 450 |
 | — Fasteners and on-board cable network of the target equipment | 300 | 300 |
@@ -510,7 +510,7 @@ In the future, the concept of VAMP was refused.
 | **2. Lander** | 1 750 | 1 750 |
 | 2.1 Construction, mechanisms, and service systems | 520 | 520 |
 | 2.2 Separable construction | 910 | 910 |
-| 2.3 Lander's payload | 120 | 120 |
+| 2.3 Lander’s payload | 120 | 120 |
 | 2.4 Reserve | 200 (12.9% of item 2.1 — 2.3) | 200 (12.9% of item 2.1 — 2.3 |
 
 </small>
@@ -565,19 +565,19 @@ Orbiter uses one main thruster of 4 706 N of thrust and average specific imp
 
 Onboard scientific equipment, depending on the requirements, can be accommodated on the side or upper thermal sandwich panels, upon solar batteries, retractable poles, or other elements of the structure.
 
-The required speed for transmitting scientific information to the Orbiter is 800 Kb/s (including separable payload). To transmit scientific information to Earth, a HGA X- (Ka-) band antenna with a diameter of 2 600 mm is used on a double-stage drive (A 40 W transmitter. When the transmitter power is 70 W, the required antenna diameter is 2 200 mm). To relay scientific information from the Lander to Earth, an additional 128 Kb/s is required according to the technical specification. According to the initial data, the total amount of information generated by the Orbiter's payload and separated payload is 303 MB/h + 50 MB/h transmission from LМ, i.e. necessary rate must be not less than 928 Kb/s (including 15% reserve).
+The required speed for transmitting scientific information to the Orbiter is 800 Kb/s (including separable payload). To transmit scientific information to Earth, a HGA X- (Ka-) band antenna with a diameter of 2 600 mm is used on a double-stage drive (A 40 W transmitter. When the transmitter power is 70 W, the required antenna diameter is 2 200 mm). To relay scientific information from the Lander to Earth, an additional 128 Kb/s is required according to the technical specification. According to the initial data, the total amount of information generated by the Orbiter’s payload and separated payload is 303 MB/h + 50 MB/h transmission from LМ, i.e. necessary rate must be not less than 928 Kb/s (including 15% reserve).
 
 Main components of the Orbiter:
 
    1. On-board cable system;
-   1. On-board control system: controlling the movement of the center of mass; pointing the Orbiter's antennas at the Earth station; controlling, monitoring the performance and switching the backup on-board equipment (gyroscopes, momentum wheels, star and solar sensors);
+   1. On-board control system: controlling the movement of the center of mass; pointing the Orbiter’s antennas at the Earth station; controlling, monitoring the performance and switching the backup on-board equipment (gyroscopes, momentum wheels, star and solar sensors);
    1. On-board radio system: An HGA with a diameter/transmitter power of 2.6 m/40 W or 2.2 m/70 W on a double-stage drive for transmitting scientific information to Earth in X-band at the rate from 32 to 512 Kb/s. Additionally, the Ka-band can be used with a data transfer rate of up to 26 Mb/s (since X-band transfer rate is not enough to transfer data from the Orbiter and Lander simultaneously). The on-board radio system of the Orbiter also includes 6 low-directional antennas (2 transmitting, 2 receiving for communication with the Earth, and two antennas for communication with the lander).
    1. Propulsion system: <br> • 1 × 4 706 N, average specific impulse 319 s, <br> • 8 × 98 N, average specific impulse 302 s, <br> • 4 × 6 N, average specific impulse 207 s. <br>Oxidizer and fuel (dinitrogen tetroxide and UDMH).
    1. Construction of the Orbiter.
    1. Thermal control system: temperature control is provided with the help of thermal pipes, radiators, heaters, sensors, screen-vacuum thermo-insulation, and thermo-optical coverings.<br>The following temperature ranges of elements and equipment location are supported:<br> • –150 °C up to +150 °C — for framework elements;<br> • –50 °C up to +50 °C — for mechanisms;<br> • –20 °C up to +40 °C — for service/scientific equipment.
    1. Power system: <br> • One or two Li-ion rechargeable batteries with a capacity of 90 A/hr;<br> • Two retractable solar panels GaAs on a single-stage drive, with the entire effective area of 10.9 m² that generates 2 400 W at the end of lifetime. It also includes a complex of automation and voltage stabilization.
    1. Telemetry system.
-   1. Orbiter's payload.
+   1. Orbiter’s payload.
 
 ### Lander
 
@@ -613,7 +613,7 @@ Main components of the Lander:
    1. Thermal control system: thermal insulation, thermal storage batteries, sensors, etc.<br>The following temperature ranges of elements and equipment location are supported:<br> • –50 °C up to +50 °C — for mechanisms;<br> • –20 °C up to +40 °C — for scientific equipment.
    1. Power system. <br> • A rechargeable battery (Li-Ion with a capacity of 90 A·h) or a chemical current source of similar capacity.
    1. Telemetry system.
-   1. Lander's payload.
+   1. Lander’s payload.
 
 The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120 kg, and the reserve is 200 kg.
 
@@ -628,7 +628,7 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 <small>
 
 |°|*[Org.](contact.md)*|*[Member](contact.md)*|
-|:--:|:--|:--|
+|:--|:--|:--|
 |**Lavochkin Association**|**203**| [Merkulov Petr Vladimirovich](02_меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager |
 ||**500**| [Sysoev Valentin Konstantinovich](02_сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision |
 ||**500**| [Eroshkin Vladimir Nikitovich](02_ерошкин1.md)<br>(Ерошкин, Владимир Никитович) |
@@ -674,7 +674,7 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 ||~~**[GSFC](03_gsfc.md)**~~| ~~[Glaze, Lori](02_glaze1.md)~~ |
 ||||
 ||**[JPL](03_jpl.md)**| [Hall, Jeffery L.](02_hall1.md) — technical realizability assessment |
-||| [Ocampo, Adriana Christian](02_ocampo1.md) — administrator JSDT (NASA); the lead scientist for NASA's exploration of Venus |
+||| [Ocampo, Adriana Christian](02_ocampo1.md) — administrator JSDT (NASA); the lead scientist for NASA’s exploration of Venus |
 ||||
 ||**[NASA](03_nasa.md)**| ~~[Ewan, Shannon](02_ewan1.md)~~ |
 ||| [Maroko, Elena](02_maroko1.md) — aerospace specialist at the NASA Moscow office |
@@ -708,11 +708,11 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 **Docs:**
 
 
-   1. [KK VD source data](f/project/venera_d/KK_VD_source_data.pdf)
-   1. [KK VD NTO 512 VD 1 2017)](f/project/venera_d/KK_VD_NTO_512_VD_1_2017.pdf)
-   1. [KK VD NTO IKI RAN](f/project/venera_d/KK_VD_NTO_IKI_RAN.pdf)
-   1. [Report 1](f/project/venera_d/Report_1.pdf)
-   1. [Venera-D Phase II Final Report](f/project/venera_d/Venera_DPhaseIIFinalReport.pdf)
+   1. [KK VD source data](f/project/v/venera_d/KK_VD_source_data.pdf)
+   1. [KK VD NTO 512 VD 1 2017)](f/project/v/venera_d/KK_VD_NTO_512_VD_1_2017.pdf)
+   1. [KK VD NTO IKI RAN](f/project/v/venera_d/KK_VD_NTO_IKI_RAN.pdf)
+   1. [Report 1](f/project/v/venera_d/Report_1.pdf)
+   1. [Venera-D Phase II Final Report](f/project/v/venera_d/Venera_DPhaseIIFinalReport.pdf)
 
 
 **Links:**

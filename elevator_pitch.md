@@ -7,9 +7,9 @@
 
 > <small>*Terms:* **Elevator pitch** — English term. **Презентация для лифта** — Russian equivalent.</small>
 
-An **elevator pitch**, **elevator speech**, or **elevator statement** is a short description of an idea, product or company that explains the concept in a way such that any listener can understand it in a short period of time. This description typically explains who the thing is for, what it does, why it is needed, & how it will get done. Finally, when explaining an individual person, the description generally explains one's skills & goals, & why they would be a productive & beneficial person to have on a team or within a company or project. An elevator pitch does not have to include all of these components, but it usually does at least explain what the idea, product, company, or person is & their value.
+An **elevator pitch**, **elevator speech**, or **elevator statement** is a short description of an idea, product or company that explains the concept in a way such that any listener can understand it in a short period of time. This description typically explains who the thing is for, what it does, why it is needed, & how it will get done. Finally, when explaining an individual person, the description generally explains one’s skills & goals, & why they would be a productive & beneficial person to have on a team or within a company or project. An elevator pitch does not have to include all of these components, but it usually does at least explain what the idea, product, company, or person is & their value.
 
-An elevator pitch can be used to entice an investor or executive in a company, or explain an idea to a founder's parents. The goal is simply to convey the overall concept or topic in an exciting way. Unlike a sales pitch, there may not be a clear buyer‑seller relationship.
+An elevator pitch can be used to entice an investor or executive in a company, or explain an idea to a founder’s parents. The goal is simply to convey the overall concept or topic in an exciting way. Unlike a sales pitch, there may not be a clear buyer‑seller relationship.
 
 The name — elevator pitch — reflects the idea that it should be possible to deliver the summary in the time span of an elevator ride, or approximately thirty seconds to two minutes.
 

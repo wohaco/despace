@@ -86,7 +86,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**COSPAR ID / International designator / NSSDC ID** (см.[SpaceID](spaceid.md))|= **Номер полёта** (см.[SpaceID](spaceid.md))|
 ||**C&DH** — [command and data handling](c_n_dh.md) |  |
 |**D**|**DEM** — [digital elevation model](digital_elev_model.md) |≠ **ЦМР** — цифровая модель рельефа |
-||**Don't Panic!**|≠ **[Без паники](dont_panic.md)**|
+||**Don’t Panic!**|≠ **[Без паники](dont_panic.md)**|
 ||**[DOORS](doors.md)**|≠ **ДОРС**|
 ||**DR** — [design review](design_review.md) |≠ **Проверка проекта** |
 || **DSG** — [deep space gateway](deep_space_gateway.md) |≠ **ВГК** — ворота глубокого космоса |
@@ -161,7 +161,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**SCN** — satellite catalog number (см. [SpaceID](spaceid.md))|= **Номер по спутниковому каталогу** (см. [SpaceID](spaceid.md))|
 ||**[SpaceID](spaceid.md)**|= **Идентификатор космического объекта**|
 ||**SPICE** — [spacecraft planet instrument C-matrix events](spice.md) |≠ Космический аппарат, планета, прибор, ориентация, события |
-||**SSC GGSN** — [Swedish Space Corporation's global ground station network](ssc_ggsn.md) |≠ **SSC GGSN** — Глобальная сеть наземных станций Шведской Космической Корпорации |
+||**SSC GGSN** — [Swedish Space Corporation’s global ground station network](ssc_ggsn.md) |≠ **SSC GGSN** — Глобальная сеть наземных станций Шведской Космической Корпорации |
 ||**SSME** — Space Shuttle main engine |≠ **SSME** — главный двигатель космического челнока, он же двигатель [RS-25](rs_25.md) |
 ||**SSR** — [solid state recorder](ssr.md) |= Твердотельное записывающее устройство |
 ||**[STEM](stem.md)** — science, technology, engineering, and mathematics |≠ **STEM** — наука, технология, инженерия и математика |
@@ -208,7 +208,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**АБ** — аккумуляторная батарея (см. [ХИТ](eb.md)) |= **RB** — rechargeable battery / storage battery / secondary cell / accumulator |
 |**АВПКО** — [анализ видов, последствий и критичности отказов](fmenca.md) |= **FME&CA** — failure modes effects criticality analysis |
 |**АВПО** — анализ видов и последствий отказов (см. [АВПКО](fmenca.md)) |= **FME&CA** — failure modes effects criticality analysis |
-|**АВН** — [авторский надзор](des_spv.md) |= **Designer's supervision**|
+|**АВН** — [авторский надзор](des_spv.md) |= **Designer’s supervision**|
 |**АД** — астродатчик (см. [ЗД](sensor.md)) |= **ST** — star tracker |
 |**АЕ** — астрономическая единица (см. [СИ и формулы](si.md)) |= **AU** — astronomical unit |
 |**АИ** — [автономные испытания](аи.md) |= **Component test**|
@@ -282,7 +282,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**БНО** — [баллистико‑навигационное обеспечение](nnb.md) |= **Navigation & ballistics**|
 |**БОКЗ** — блок определения координат звёзд (см. [ЗД](sensor.md)) |= **ST** — star tracker |
 |**[Болото](swamp.md)**|= **Swamp**|
-|**Бритва Оккама** (см. [Don't Panic!](dont_panic.md)) |= **Occam's razor**|
+|**Бритва Оккама** (см. [Don’t Panic!](dont_panic.md)) |= **Occam’s razor**|
 |**БОС** — базовая операционная система |= **BOS** — basic operating system |
 |**БРД** — блок ретрансляции данных |= **Retransmission unit**|
 |**БРК** — [бортовой радиокомплекс](comms.md) |= **[Communications / Comms](comms.md)**|
@@ -404,7 +404,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ГК, ГСК** — государственный контракт (см. [Договор](contract.md)) |= **Public contract**|
 |**ГКЛ** — галактические космические лучи (см. [КЛ](cr.md)) |= **GCR** — galactic cosmic rays |
 |**ГКНПЦ** — государственный космический научно‑производственный центр |≠ **SRPSC** — state research and production space center |
-|**ГКП** — [главный конструктор проекта](rnd_mgmt.md) |≠ **Project's chief designer**|
+|**ГКП** — [главный конструктор проекта](rnd_mgmt.md) |≠ **Project’s chief designer**|
 |**ГЛК** — главный конструктор (см. [Руководство ОКР](rnd_mgmt.md)) |≠ **Chief designer**|
 |**ГЛОНАСС** — глобальная навигационная спутниковая система |= **GLONASS** — global navigation satellite system |
 |**ГММ** — габаритно‑массовый макет |≠ **MADM** — mass-dimensional model |
@@ -430,7 +430,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ГСС** — Государственная система стандартизации |≠ **SSOST** — state system of standardization |
 |**ГСХ** — гарантийный срок хранения |= **GSL** — guaranteed shelf life |
 |**ГТ** — главный технолог (см. [Руководство ОКР](rnd_mgmt.md)) |= **CPE** — chief process engineer |
-|**Гусь** (см. [Don't Panic!](dont_panic.md)) |= **Goose** (см. [Don't Panic!](dont_panic.md)) |
+|**Гусь** (см. [Don’t Panic!](dont_panic.md)) |= **Goose** (см. [Don’t Panic!](dont_panic.md)) |
 |**ГЦ ПОД** — главный центр приёма и обработки данных |≠ **HDPC** — head data processing center |
 |**ГЦО** — [геоцентрическая орбита](nnb.md) |= **GCOR** — geocentric orbit |
 |**ГЧ** — [габаритный чертёж](draft_model.md) |= **MICD** — mechanical interface control drawing / **DIDR** — dimensional drawing |
@@ -461,7 +461,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ДГ** — директивный график (см.[ док. планирования](plan.md)) |= **Milestones**|
 |**ДДА** — датчик давления аналоговый |= **ANPS** — analogue pressure sensor |
 |**ДЕК** — день качества |= **Quality day**|
-|**ДЕК** — дно качества (см. [Don't Panic!](dont_panic.md)) |≠ **Quantity day**|
+|**ДЕК** — дно качества (см. [Don’t Panic!](dont_panic.md)) |≠ **Quantity day**|
 |**ДЕМ** — делитель мощности |= **Power splitter**|
 |**ДЗЗ** — [дистанционное зондирование Земли](eob.md) |= **Earth observation**|
 |**ДИ** — доводочные испытания |= **Developmental test**|
@@ -591,7 +591,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |*Ru*|*En*|
 |:--|:--|
 |![](f/px310.png)|![](f/px310.png)|
-|**КА** — комический аппарат (см. [Don't Panic!](dont_panic.md)) |≠ **…**|
+|**КА** — комический аппарат (см. [Don’t Panic!](dont_panic.md)) |≠ **…**|
 |**КА** — [космический аппарат](sc.md) |= **SC** — spacecraft |
 |**КА ДФ** — космический аппарат длительного функционирования |≠ **LLSC** — long-lived spacecraft |
 |**[Кавитация](cavitation.md)**|= **Cavitation**|
@@ -625,7 +625,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**КИСВ** — комплекс измерительных средств |≠ **METCO** — measuring tools complex |
 |**КИСД** — комплексно‑испытательный стенд |= **Test facilities**|
 |**КИСТ** — контрольно‑измерительная станция |= **Check station**|
-|**КК** — комический комплекс (см. [Don't Panic!](dont_panic.md)) |≠ **…**|
+|**КК** — комический комплекс (см. [Don’t Panic!](dont_panic.md)) |≠ **…**|
 |**КК** — [космический комплекс](scs.md), в т.ч. космическая система, многоразовый космический комплекс, авиационно‑космический комплекс |= **SS** — [spacecraft system](scs.md) |
 |**ККА** — [композитный космический аппарат](sc.md) |= **CSC** — composite spacecraft |
 |**ККИА** — комплексная контрольно‑испытательная аппаратура |≠ **ICATE** — integrated control and testing equipment |
@@ -869,7 +869,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**НКО** — [некоммерческая организация](nonprof_org.md) |= **Nonprofit organization**|
 |**НКУ** — [наземный комплекс управления](scs.md) |≈ **GS** — [ground segment](gs.md) |
 |**ННК** — [наземный научный комплекс](scs.md) |≈ **US** — [user segment](us.md) / **PDGS** — [payload data ground segment](pdgs.md) |
-|**ННК** — неземной научный комплекс (см. [Don't Panic!](dont_panic.md)) |≠ **payload data unearthly segment**|
+|**ННК** — неземной научный комплекс (см. [Don’t Panic!](dont_panic.md)) |≠ **payload data unearthly segment**|
 |**[Nautilus-X](nautilus_x.md)**|≠ **Наутилус‑Икс**|
 |**Номер по спутниковому каталогу** (см.[SpaceID](spaceid.md))|= **SCN** — satellite catalog number (см.[SpaceID](spaceid.md))|
 |**Номер полёта** (см.[SpaceID](spaceid.md))|= **International designator / COSPAR ID / NSSDC ID** (см.[SpaceID](spaceid.md))|
@@ -1030,7 +1030,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ПЛИ** — программа лётных испытаний |= **Phase E program**|
 |**ПЛИС** — [программируемая логическая интегральная схема](плис.md) |= **PLD** — programmable logic device |
 |**ПЛМ** — [протолётная модель](pfm.md) |= **PFM** — [proto flight model](pfm.md) |
-|**ПЛНА** — плита научной аппаратуры |≠ **Payload's plate**|
+|**ПЛНА** — плита научной аппаратуры |≠ **Payload’s plate**|
 |**ПЛСР** — план собственных работ |≠ **Internal activity plan**|
 |**ПМ** — перелётный модуль |= **Orbiter**|
 |**ПМЕ** — посадочное место |= **Mounting seat**|
@@ -1066,7 +1066,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ПРИ** — предварительные испытания |= **Preliminary test**|
 |**Приказ**|= **Decree**|
 |**[Принцип Питера](peter_principle.md)**|= **Peter principle**|
-|**ПРЗ** — представитель заказчика |= **Customer's representative**|
+|**ПРЗ** — представитель заказчика |= **Customer’s representative**|
 |**ПРНА** — программа работы научной аппаратуры |≠ **Payload schedule**|
 |**Протокол** (см. [Совещание](meeting.md)) |= **Protocol**|
 |**[Прототип](prototype.md)**|= **[Prototype](prototype.md)**|
@@ -1165,7 +1165,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**[Робототехника](robotics.md)**|= **[Robotics](robotics.md)**|
 |**[Ротор](rotor.md)**|= **Rotor**|
 |**РП** — рабочий план |= **Work schedule**|
-|**РПЗ** — [радиационные пояса Земли](varb.md) |= **Van Allen belt's / Earth radiation belt**  |
+|**РПЗ** — [радиационные пояса Земли](varb.md) |= **Van Allen belt’s / Earth radiation belt**  |
 |**РПР** — руководитель проекта (см. [Руководство ОКР](rnd_mgmt.md)) |= **Project supervisor**|
 |**РПТ** — рабочий план по теме |= **Project work schedule**|
 |**РР** — [регламент радиосвязи](rr.md) |= **RR** — [ITU Radio Regulations](rr.md) |
@@ -1218,7 +1218,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**СВЧД** — сверхвысокочастотный диапазон радиоволн (см. [Диапазоны частот](rf.md)) |= **SHF** — super-high frequencies / microwaves |
 |**СГИ** — сетевой график исполнителя |≠ **Executive network diagram**|
 |**СГИП** — система государственных испытаний продукции |≠ **State system of testing products**|
-|**СГК** — [сектор главного конструктора](cd_segm.md) |≠ **Chief designer's segment**|
+|**СГК** — [сектор главного конструктора](cd_segm.md) |≠ **Chief designer’s segment**|
 |**СГК, СГКО** — [совет главных конструкторов](cocd.md) |≠ **Council of chief designers**|
 |**СД** — [солнечный датчик](sensor.md) |= **SS** — sun sensor |
 |**СДП** — солнечный датчик положения (см. [СД](sensor.md)) |= **SS** — sun sensor |
@@ -1286,12 +1286,12 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**СП** — [серийное производство](сп.md) |= **Serial production**|
 |**СПА** — спускаемый аппарат  |= **Lander**|
 |**СПД** — стационарный плазменный двигатель |= **SPT** — stational plazma thruster |
-|**СПДП** — станция приёма данных с платформ |≠ **Station's data receiving station**|
+|**СПДП** — станция приёма данных с платформ |≠ **Station’s data receiving station**|
 |**СПДС** — [система проектной документации для строительства](sddfc.md) |≠ **SDDFC** — system of design documents for construction |
 |**Специспытания**|= **Special test**|
 |**[Спецификация](specification.md)**|= **Specification**|
 |**СППИ** — [скорость приёма и передачи информации](bitrate.md) |= **[Bitrate](bitrate.md)**|
-|**СПИ АБ** — станция приёма информации с аварийных радиобуев |≠ **Emergency beacon's data receiving station**|
+|**СПИ АБ** — станция приёма информации с аварийных радиобуев |≠ **Emergency beacon’s data receiving station**|
 |**СПК** — средства подготовки космонавтов (для ПКК) |≠ **Cosmonaut preparation means**|
 |**СПКИ** — станция приёма космической информации |≠ **Space data receiving station**|
 |**СПНИ** — станция приёма научной информации |≠ **Scientific data receiving station**|
@@ -1304,7 +1304,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**СРПП ВТ** — [система разработки и постановки на производство военной техники](spdlim.md) |≠ **SPDLIM** — system of military product development and launching into manufacture |
 |**СС** — совершенно секретно (см. [Секретность](confident.md)) |= **Top secret / Highly classified**|
 |**ССБТ** — система стандартов безопасности труда |≠ **Occupational safety standards system**|
-|**ССИТД** — [система сбора информации технологических датчиков](tsdcs.md) |≠ **Technologic sensor's data collection system**|
+|**ССИТД** — [система сбора информации технологических датчиков](tsdcs.md) |≠ **Technologic sensor’s data collection system**|
 |**ССК** — связанная система координат |= **Bound coordinate system**|
 |**ССО** — [солнечно‑синхронная орбита](nnb.md) |= **SSO** — Sun-synchronous orbit |
 |**ССПД** — [средства связи и передачи данных](mcntd.md) |= **Means of communication and transmission of data**|
@@ -1496,7 +1496,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**ЦГМ** — [циклограмма](obc.md) |≈ **Timeline**|
 ||**ЦДСК** — центр дальней космической связи |= **DSCC** — deep-space communication centers |
 ||**ЦИ** — целевая информация |≠ **TAI** — target information |
-||**[Цилиндр О’Нилла](oneill_cyl.md)**|= **O'Neill cylinder**|
+||**[Цилиндр О’Нилла](oneill_cyl.md)**|= **O’Neill cylinder**|
 ||**ЦКУ** — цифровая команда управления |≠ **Digital directive**|
 ||**ЦКЭР** — центр координации эксплуатации и развития |≠ **Operations Coordination and Development Center**|
 ||**ЦМ** — центр масс (см. [МИХ](mic.md)) |= **GoM** — center of mass |
@@ -1546,7 +1546,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**ЭМ** — электронный модуль (см. [ЭКБ](elc.md)) |= **Electronic unit**|
 ||**ЭМБ** — электромагнитный блок |≠ **Electromagnetic unit**|
 ||**ЭМХБ** — электромеханический блок |≠ **Electromechanic unit**|
-||**ЭМД** — [электронная модель детали](draft_model.md) |≠ **Component's electronic model**|
+||**ЭМД** — [электронная модель детали](draft_model.md) |≠ **Component’s electronic model**|
 ||**ЭМИ** — электромагнитное излучение |= **EMR** — electromagnetic radiation |
 ||**ЭМИЗ** — [электронная модель изделия](draft_model.md) |≠ **EMOP** — electronic model of product |
 ||**ЭМИП** — электромагнитный импульс |= **EMP** — electromagnetic pulse |

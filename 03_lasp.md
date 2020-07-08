@@ -8,7 +8,7 @@
 |Tel| +1(303)492-64-12, fax: … |
 |Etc| … |
 
-The **Laboratory for Atmospheric & Space Physics (LASP)** is a research organization at the University of Colorado Boulder. LASP is a research institute with over one hundred research scientists ranging in fields from solar influences, to Earth's & other planetary atmospherics processes, space weather, space plasma & dusty plasma physics. LASP has advanced technical capabilities specializing in designing, building, & operating spacecraft & spacecraft  instruments.  
+The **Laboratory for Atmospheric & Space Physics (LASP)** is a research organization at the University of Colorado Boulder. LASP is a research institute with over one hundred research scientists ranging in fields from solar influences, to Earth’s & other planetary atmospherics processes, space weather, space plasma & dusty plasma physics. LASP has advanced technical capabilities specializing in designing, building, & operating spacecraft & spacecraft  instruments.  
 Founded after World War II in 1948, a decade before NASA, the first scientific instruments built at LASP were launched into space using captured German V-2 rockets. To this day LASP continues a suborbital rocket program through periodic calibration instrument flights from White Sands Missile Range. It was originally called the Upper Air Laboratory, but changed to its current name in 1965. LASP has historical ties to Ball Aerospace Corporation & the Center for Astrophysics & Space Astronomy (CASA).
 
 **Опыт кооперации.**  
@@ -19,9 +19,9 @@ Founded after World War II in 1948, a decade before NASA, the first scientific i
 
 ## LASP, comments
 
-LASP has two facilities: offices on the main CU-Boulder campus, & the “Space Technology Building” in the University's research park.
+LASP has two facilities: offices on the main CU-Boulder campus, & the “Space Technology Building” in the University’s research park.
 
-LASP's new facilities allow it to handle almost every aspect of space missions, itself. Hardware facilities allow for the construction of single instruments or entire spacecraft. A Mission Operations Center allows for the control of spacecraft data collection, & a large research staff analyzes the data.
+LASP’s new facilities allow it to handle almost every aspect of space missions, itself. Hardware facilities allow for the construction of single instruments or entire spacecraft. A Mission Operations Center allows for the control of spacecraft data collection, & a large research staff analyzes the data.
 
 Being part of the University, LASP has heavy student involvement in every aspect of its operations, including science, hardware design / construction & mission operations.
 

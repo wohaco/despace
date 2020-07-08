@@ -26,7 +26,7 @@ Planned improvements by 2012, to support Chang'e 3 and Chang'e 4, include:
    - A new 35-meter antenna at the Kashgar station. [Bands](rf.md): <mark>TBD</mark>
    - A 64-meter antenna in Jiamusi. (~130°E) [Bands](rf.md): <mark>TBD</mark>
 
-As of 2017, China was constructing an additional ground station in South America, in the Neuquen province of Argentina (~70°W), with a 50 million-dollar investment. The facility, a part of China's Lunar Exploration Program. It was inaugurated in October 2017. The station is seen by some as a symbol of China's increased role in South America's politics and economy.
+As of 2017, China was constructing an additional ground station in South America, in the Neuquen province of Argentina (~70°W), with a 50 million-dollar investment. The facility, a part of China’s Lunar Exploration Program. It was inaugurated in October 2017. The station is seen by some as a symbol of China’s increased role in South America’s politics and economy.
 
 
 

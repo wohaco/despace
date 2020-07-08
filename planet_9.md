@@ -147,7 +147,7 @@ As of September 2019, no observation of Planet Nine had been announced. While sk
 
    - [Первый КА](hptc_sc9p.md)
 
-**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV; **Draft** — minimum for working with object.)<br> (**C** — contact explor.; **D** — distant explor.; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
+**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV; **Draft** — minimum for working with object.)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
 
 <small>
 
@@ -190,9 +190,9 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |*…‑XXX*|*T*|*EN*|*RU*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |||**`Never occured`**|**`Не проводилось`**||||||
-|[…‑007](planet_9.md)||Atmosphere: model, draft.|Атмосфера: модель, черновая.||||||
+|[…‑007](planet_9.md)||Atmosphere: preliminary model.|Атмосфера: модель, черновая.||||||
 |[…‑006](planet_9.md)||Spin axis.|Наклон оси.||||||
-|[…‑008](planet_9.md)||Surface: map, draft.|Поверхность: карта, черновая.||||||
+|[…‑008](planet_9.md)||Surface: preliminary map.|Поверхность: карта, черновая.||||||
 |[…‑001](planet_9.md)||Confirm the existence.|Подтвердить наличие.||||||
 |[…‑004](planet_9.md)|T|Exploration: from inside of atmosphere.|Исследование: изнутри атмосферы.||||||
 |[…‑002](planet_9.md)|T|Exploration: from Earth.|Исследование: с Земли.||||||
@@ -213,13 +213,13 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑037||Atmosphere: cause of the retrograde moving|  ||D||||
 |EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid| Ac, Ai, Am, At ||D||||
 |EMN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
-|EMN‑033||Atmosphere: nature of it's escape|  ||D||||
+|EMN‑033||Atmosphere: nature/rate of its escape|  ||D||||
 |EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
 |EMN‑082|T|Atmosphere: prolonged investigations on the H=0 ‑ 10 km| All A ||||||
 |EMN‑083|T|Atmosphere: prolonged investigations on the H=10‑30 km| All A ||||||
 |EMN‑054|T|Atmosphere: sample return| As |C|||||
 |EMN‑015||Atmosphere: structure of the mesosphere| All A ||D||||
-|EMN‑030||Atmosphere: was it lost during some cataclysm or evenly?|  ||D||||
+|EMN‑030||Atmosphere: was it lost during some cataclysm or event|  ||D||||
 |EMN‑095||Climate: history & causes of changes|  ||D||||
 |EMN‑087||Crustal support mechanisms|  ||D||||
 |EMN‑051||Dimensions & characteristics of the mantle & the core|  ||D||||
@@ -233,7 +233,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑066|T|Human: on the surface|  |C|||H||
 |EMN‑065|T|Human: on the orbit|  ||D||H||
 |EMN‑060|T|Human: manned fly‑by|  ||D|F|H||
-|EMN‑043||Mechanisms of the mantle's convection|  ||D|F|||
+|EMN‑043||Mechanisms of the mantle’s convection|  ||D|F|||
 |EMN‑048||Nature & sources of the greenhouse effect|  ||D|F|||
 |EMN‑049||Nature of the thermal tides|  ||D||||
 |EMN‑069|T|Prolonged surface‑spacecraft functioning|  |C|||||
@@ -242,9 +242,9 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑061|T|Surface: sample return|  |C||||S|
 |EMN‑088|T|Surface: subsurface investigations|  |C|||||
 |EMN‑086|T|Surface: tessera investigations, close|  |C|||||
-|EMN‑047||Surface: structure‑composition connection of different regions & Venus evolution|  |C|||||
-|EMN‑039||Was the Venus inhabited & for how long?|  |C|D||||
-|EMN‑040||Were there oceans & why has they gone?|  |C|D|F|||
+|EMN‑047||Surface: structure‑composition connection of different regions & planet’s evolution|  |C|||||
+|EMN‑039||Was the planet inhabited & for how long|  |C|D||||
+|EMN‑040||Were there oceans & why have they gone|  |C|D|F|||
 |•|•|**Was tried:**|•|•|•|•|•|•|
 |EMN‑093|T|Atmosphere/surface imaging|  ||D|F|||
 |EMN‑077||Atmosphere: chemical elements distribution|  ||D|F|||
@@ -262,20 +262,20 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑068||Atmosphere: nature of the polar dipole|  ||D||||
 |EMN‑067||Atmosphere: nature of the polar turbulence|  ||D||||
 |EMN‑034||Atmosphere: nature of the superrotation|  ||D||||
-|EMN‑035||Atmosphere: nature of the UF‑absorber|  ||D||||
+|EMN‑035||Atmosphere: nature of the UV‑absorber|  ||D||||
 |EMN‑084|T|Atmosphere: prolonged investigations on the H=30 ‑ 60 km|  ||D||||
 |EMN‑078|T|Atmosphere: radiography|  ||D||||
 |EMN‑055|T|Atmosphere: sample obtaining & analysis|  |C|||||
 |EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|  ||D||||
-|EMN‑017||Atmosphere: structure|  ||D||||
+|EMN‑017||Atmosphere: common structure|  ||D||||
 |EMN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|  ||D|F|||
 |EMN‑010||Atmosphere: vertical model|  ||D||||
 |EMN‑050||Causes of the water loss|  ||D||||
-|EMN‑041||Correlation between the atmosphere & the surface|  ||D||||
+|EMN‑041||Common connection between the atmosphere & the surface|  ||D||||
 |EMN‑073|T|Exploration with [satellites](sc.md): large satellites|  ||D|F|||
 |EMN‑072|T|Exploration with [satellites](sc.md): medium satellites|  ||D|F|||
 |EMN‑070|T|Exploration with [satellites](sc.md): minisatellites|  ||D|F|||
-|EMN‑042||History & causes of the planet's volcanic & tectonic evolution|  ||D||||
+|EMN‑042||History & causes of the planet’s volcanic & tectonic evolution|  ||D||||
 |EMN‑020||Inner structure of the planet|  ||D||||
 |EMN‑029||Is Venus geologically active?|  |C|D|F|||
 |EMN‑028||Magnetosphere structure|  ||D|F|||
@@ -285,7 +285,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑052||Role of water (fluids) in planetary geology|  |C|D|F|||
 |EMN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|  ||D||||
 |EMN‑046||Surface: causes of the changes during the last billion years|  |C|D|F|||
-|EMN‑024||Surface: composition|  |C|||||
+|EMN‑024||Surface: common composition|  |C|||||
 |EMN‑026||Surface: elemental composition|  |C|||||
 |EMN‑021||Surface: map, 3D|  |C|D||||
 |EMN‑022||Surface: map, precise|  ||D||||
@@ -293,20 +293,20 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
 |EMN‑062|T|Surface: obtaining & analysis of the surface samples|  |C||||S|
 |EMN‑063|T|Surface: panoramic mapping|  |C|||||
-|EMN‑025||Surface: structure|  |C|||||
+|EMN‑025||Surface: morphology|  |C|||||
 |EMN‑085|T|Surface: tessera investigations, ranged|  ||D|F|||
 |EMN‑076||Surface: volcanoes, their presence|  ||D|F|||
 |EMN‑027||The causes why Venus evolved in a planet so different from Earth|  |C|D|F|||
 |EMN‑091||The loss rate of water from Venus|  ||D|F|||
 |EMN‑053||Traces of life in the atmosphere & on the surface|  |C|||||
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EMN‑001||Atmosphere: model, draft|  |C|D|F|||
+|EMN‑001||Atmosphere: preliminary model|  |C|D|F|||
 |EMN‑004|T|Exploration: from Earth|  ||D||||
 |EMN‑003|T|Exploration: from inside of atmosphere|  |C|D||||
 |EMN‑006|T|Exploration: from surface|  |C|||||
 |EMN‑005|T|Exploration: from Venusian orbit|  ||D|F|||
 |EMN‑090||Spin axis|  ||D||||
-|EMN‑002||Surface: map, draft|  |C|D||||
+|EMN‑002||Surface: preliminary map|  |C|D||||
 
 <p style="page-break-after:always"> </p>
 

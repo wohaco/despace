@@ -23,7 +23,7 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 
 ***Targets and investigations:***
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -48,9 +48,9 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
 |EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
-|EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
+|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
-|EVN‑047||Surface: structure‑composition connection of different regions & Venus evolution.|  ||C||||
+|EVN‑047||Surface: structure‑composition connection of different regions & planet’s evolution.|  ||C||||
 |EVN‑058|T|Exploration: directed seismoexperiment.|  |D||F|||
 |EVN‑069|T|Prolonged surface‑spacecraft functioning.|  ||C||||
 |EVN‑074||Meteorological model.|  |D||F|||
@@ -98,7 +98,7 @@ Each SAEVe lander will have a mass of approximately 25 kg (~40 kg together w
 
 ***SAEVe lander concept with subset of instruments and basic dimensions:***
 
-![saeve](f/project/saeve/saeve.jpg)
+![saeve](f/project/s/saeve/saeve.jpg)
 
 
 SAEVe has the highest priority in expanding the Venus-D mission after the first LLISSE.

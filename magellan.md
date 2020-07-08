@@ -7,11 +7,11 @@
 
 > <small>*Terms:* **Magellan** — English term with no analogues in Russian. **Магеллан** — Russian equivalent.</small>
 
-The **Magellan** spacecraft, also referred to as the ***Venus Radar Mapper***, was a 1 035 kg ([EVN‑073](venus.md)) robotic space probe launched by NASA of the United States, on May 4, 1989, to map the surface of Venus by using synthetic aperture radar and to measure the planetary gravitational field ([EVN‑089](venus.md)).
+The **Magellan** spacecraft, also referred to as the ***Venus Radar Mapper***, was a 1 035 kg ([EVN‑073](venus.md)) robotic space probe launched by NASA of the United States, on 1989.05.04, to map the surface of Venus by using [synthetic aperture radar](synthetic_aperture_radar.md) and to measure the planetary gravitational field ([EVN‑089](venus.md)).
 
-The Magellan probe was the first interplanetary mission to be launched from the Space Shuttle, the first one to use the Inertial Upper Stage booster for launching, and the first spacecraft to test aerobraking as a method for circularizing its orbit. Magellan was the fifth successful NASA mission to Venus.
+The Magellan probe was the first interplanetary mission to be launched from the Space Shuttle, the 1st one to use the Inertial Upper Stage booster for launching, and the 1st SC to test aerobraking as a method for circularizing its orbit. Magellan was the fifth successful NASA mission to Venus.
 
-![](f/project/magellan/magellan.png)
+![](f/project/m/magellan/magellan.png)
 
 <p style="page-break-after:always"> </p>
 
@@ -40,7 +40,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -50,6 +50,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|EVN‑002||Surface: preliminary map|  |C|D||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑020||Inner structure of the planet.|  |D|||||
@@ -57,8 +58,9 @@ Achieved targets & investigations:
 |EVN‑022||Surface: map, precise.|  |D|||||
 |EVN‑025||Surface: structure.|  ||C||||
 |EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑042||History & causes of the planet's volcanic & tectonic evolution.|  |D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
+|EVN‑045||Surface: nature of the tessera|  ||D||||
 |EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
 |EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
@@ -90,9 +92,9 @@ During each orbit, the space probe captured radar data while the spacecraft was 
    - Goal: Complete primary objective.
    - September 15, 1990 − May 15, 1991
 
-The spacecraft began returning high-quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake-shaped domes ([EVN-025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 km to 290 km near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/pixel ([EVN‑022](venus.md)). The spacecraft returned 1 200 gigabits of data.
+The spacecraft began returning high-quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake-shaped domes ([EVN‑025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 km to 290 km near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/pixel ([EVN‑022](venus.md)). The spacecraft returned 1 200 gigabits of data.
 
-|![](f/project/magellan/venus1.jpg)|
+|![](f/project/m/magellan/venus1.jpg)|
 |:--|
 |***Mosaic of the «left-looking» data collected during cycle 1***|
 
@@ -105,7 +107,7 @@ The spacecraft began returning high-quality radar images of the Venusian terrain
 
 Beginning immediately after the end of cycle 1, cycle 2 was intended to provide data for the existing gaps in the map collected during first cycle, including a large portion of the southern hemisphere. To do this, Magellan had to be reoriented, changing the gathering method to «right-looking». Upon completion during cycle 2 provided data for 54.5% of the surface, and combined with the previous cycle, a map containing 96% of the surface could be constructed ([EVN‑022](venus.md)).
 
-|![](f/project/magellan/venus2.jpg)|
+|![](f/project/m/magellan/venus2.jpg)|
 |:--|
 |***Mosaic of the «right-looking» data collected during cycle 2***|
 
@@ -116,28 +118,28 @@ Beginning immediately after the end of cycle 1, cycle 2 was intended to provide 
 
 Immediately after cycle 2, cycle 3 began collecting data for stereo imagery on the surface that would later allow the ground team to construct, clear, three-dimensional renderings of the surface ([EVN‑021](venus.md)). Approximately 21.3% of the surface was imaged in stereo by the end of the cycle 3, increasing the overall coverage of the surface to 98% ([EVN‑022](venus.md)).
 
-|![](f/project/magellan/venus3.jpg)|
+|![](f/project/m/magellan/venus3.jpg)|
 |:--|
 |***Map of the stereo imaging collected by Magellan during cycle 3***|
 <br>
 
-|![](f/project/magellan/venus4.jpg)|
+|![](f/project/m/magellan/venus4.jpg)|
 |:--|
 |***Sedna Plain. The three dimensional picture is based on data from the Magellan spacecraft***|
 
 **Mapping cycle 4**
 
-   - Goal: Measure Venus' gravitational field.
+   - Goal: Measure Venus’ gravitational field.
    - September 14, 1992 − May 23, 1993
 
-Upon completing cycle 3, Magellan ceased imaging the surface. Instead the Magellan maintained pointing of the high-gain antenna toward Earth where the Deep Space Network began recording a constant stream of telemetry. This constant signal allowed the DSN to collect information on the gravitational field ([EVN-089](venus.md)) of Venus by monitoring the velocity of the spacecraft. Areas of higher gravitation would slightly increase the velocity of the spacecraft, registering as a Doppler shift in the signal. The space craft completed 1 878 orbits until completion of the cycle; a loss of data at the beginning of the cycle necessitated an additional 10 days of gravitational study.
+Upon completing cycle 3, Magellan ceased imaging the surface. Instead the Magellan maintained pointing of the high-gain antenna toward Earth where the Deep Space Network began recording a constant stream of telemetry. This constant signal allowed the DSN to collect information on the gravitational field ([EVN‑089](venus.md)) of Venus by monitoring the velocity of the spacecraft. Areas of higher gravitation would slightly increase the velocity of the spacecraft, registering as a Doppler shift in the signal. The space craft completed 1 878 orbits until completion of the cycle; a loss of data at the beginning of the cycle necessitated an additional 10 days of gravitational study.
 
 **Mapping cycle 5**
 
    - Goal: Aerobraking to circular orbit and global gravity measurements.
    - May 24, 1993 − August 29, 1994
 
-At the end of the fourth cycle, the orbit of Magellan was circularized using a technique known as aerobraking. The circularized orbit allowed a much higher resolution of gravimetric data to be acquired when cycle 5 began. The spacecraft performed 2 855 orbits and provided high-resolution gravimetric data for 94% of the planet ([EVN-089](venus.md)), before the end of the cycle.
+At the end of the fourth cycle, the orbit of Magellan was circularized using a technique known as aerobraking. The circularized orbit allowed a much higher resolution of gravimetric data to be acquired when cycle 5 began. The spacecraft performed 2 855 orbits and provided high-resolution gravimetric data for 94% of the planet ([EVN‑089](venus.md)), before the end of the cycle.
 
 **Aerobraking**
 
@@ -151,7 +153,7 @@ Aerobraking had long been sought as a method for slowing the orbit of interplane
    - Goal: Collect high-resolution gravity data and conduct radio science experiments.
    - April 16, 1994 − October 13, 1994
 
-The sixth and final orbiting cycle was another extension to the two previous gravimetric studies. Toward the end of the cycle, a final experiment was conducted, known as the «Windmill» experiment to provide data on the composition of the upper atmosphere of Venus ([EVN-014](venus.md)). Magellan performed 1 783 orbits before the end of the cycle, when the spacecraft entered the atmosphere and disintegrated.
+The sixth and final orbiting cycle was another extension to the two previous gravimetric studies. Toward the end of the cycle, a final experiment was conducted, known as the «Windmill» experiment to provide data on the composition of the upper atmosphere of Venus ([EVN‑014](venus.md)). Magellan performed 1 783 orbits before the end of the cycle, when the spacecraft entered the atmosphere and disintegrated.
 
 **Windmill experiment**
 
@@ -164,11 +166,11 @@ In September 1994, the orbit of Magellan was lowered to begin the «Windmill exp
 
    - The most important result of the mission was a map of 98% of the surface with a record resolution of up to 100 m/pixel. For the first time, information was obtained about the South pole of the planet. Its imagery contributed to the best high-resolution radar maps of Venus’ surface to date, improving on the images returned by the Soviet [Venera 15 and 16](venera_15_16.md) in the 1980s ([EVN‑022](venus.md)).
    - Study of the Magellan high-resolution global images is providing evidence to better understand Venusian geology and the role of impacts, volcanism, and tectonics in the formation of Venusian surface structures ([EVN‑044](venus.md)). The spacecraft found that such phenomena as continental drift are not evident on the planet.
-   - Magellan found that at least 85% of the Venusian surface is covered with volcanic flows ([EVN-076](venus.md)). The spacecraft’s data suggested that despite the high surface temperatures or 475 degrees Celsius and high atmospheric pressures 92 atm, the complete lack of water makes erosion an extremely slow process on the planet ([EVN‑052](venus.md)). Magellan's maps show no telltale signs of past major water bodies such as shorelines or ocean basins. As a result, surface features can persist for hundreds of millions of years.
-   - From the craters visible in Magellan's Venus maps, scientists believe they are looking at a relatively young planetary surface, perhaps about 500 million years old. Since Venus formed at the same time as Earth 4.6 billion years ago, some event or events 500 million years ago must have resurfaced the planet. Scientists believe that this may have been the work of massive outpourings of lava from planet-wide volcanic eruptions ([EVN‑042](venus.md), [EVN‑046](venus.md)). Although Venus may still have active volcanoes, no visible outpourings of lava have yet been detected in comparisons of Magellan images between one eight-month orbital cycle and another ([EVN‑029](venus.md), [EVN‑076](venus.md).
-   - Venus seems to lack an «asthenosphere», a buffer layer within Earth between the outer part of the planet and the mantle beneath. As a result, the gravity signature of featurs on Venus closely reflect surface topography, whereas on Earth such a correspondence does not always occur ([EVN-089](venus.md)).
+   - Magellan found that at least 85% of the Venusian surface is covered with volcanic flows ([EVN‑076](venus.md)). The spacecraft’s data suggested that despite the high surface temperatures or 475 degrees Celsius and high atmospheric pressures 92 atm, the complete lack of water makes erosion an extremely slow process on the planet ([EVN‑052](venus.md)). Magellan’s maps show no telltale signs of past major water bodies such as shorelines or ocean basins. As a result, surface features can persist for hundreds of millions of years.
+   - From the craters visible in Magellan’s Venus maps, scientists believe they are looking at a relatively young planetary surface, perhaps about 500 million years old. Since Venus formed at the same time as Earth 4.6 billion years ago, some event or events 500 million years ago must have resurfaced the planet. Scientists believe that this may have been the work of massive outpourings of lava from planet-wide volcanic eruptions ([EVN‑042](venus.md), [EVN‑046](venus.md)). Although Venus may still have active volcanoes, no visible outpourings of lava have yet been detected in comparisons of Magellan images between one eight-month orbital cycle and another ([EVN‑029](venus.md), [EVN‑076](venus.md).
+   - Venus seems to lack an «asthenosphere», a buffer layer within Earth between the outer part of the planet and the mantle beneath. As a result, the gravity signature of featurs on Venus closely reflect surface topography, whereas on Earth such a correspondence does not always occur ([EVN‑089](venus.md)).
    - Large pancake-shaped volcanic domes suggest the presence of a type of lava produced by extensive evolution of crustal rocks.
-   - The typical signs of terrestrial plate tectonics − continental drift and basin floor spreading − are not evident on Venus. The planet's tectonics is dominated by a system of global rift zones and numerous broad, low domical structures called coronae, produced by the upwelling and subsidence of magma from the mantle ([EVN‑029](venus.md), [EVN‑042](venus.md)).
+   - The typical signs of terrestrial plate tectonics − continental drift and basin floor spreading − are not evident on Venus. The planet’s tectonics is dominated by a system of global rift zones and numerous broad, low domical structures called coronae, produced by the upwelling and subsidence of magma from the mantle ([EVN‑029](venus.md), [EVN‑042](venus.md)).
    - Although Venus has a dense atmosphere, the surface reveals no evidence of substantial wind erosion, and only evidence of limited wind transport of dust and sand. This contrasts with Mars, where there is a thin atmosphere, but substantial evidence of wind erosion and transport of dust and sand.
 
 **End of mission**
@@ -197,9 +199,9 @@ Radar System (RDRS)
 
 |*Instrument*|*Description*|
 |:--|:--|
-| ![](f/project/magellan/rls.png) | The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high-gain antenna and a small fan-beam antenna, located just to the side.<br><br> • In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 cm microwave pulses every second through the high-gain antenna, while measuring the doppler shift of each hitting the surface.<br> • In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> • In Radiometry mode, the high-gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL. |
+| ![](f/project/m/magellan/rls.png) | The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high-gain antenna and a small fan-beam antenna, located just to the side.<br><br> • In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 cm microwave pulses every second through the high-gain antenna, while measuring the doppler shift of each hitting the surface.<br> • In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> • In Radiometry mode, the high-gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL. |
 
-In addition to the radar data, Magellan collected several other types of scientific measurements. These included detailed measurements of the Venus gravitational field ([EVN-089](venus.md)), measurements of the atmospheric density, and radio occultation data on the atmospheric profile.
+In addition to the radar data, Magellan collected several other types of scientific measurements. These included detailed measurements of the Venus gravitational field ([EVN‑089](venus.md)), measurements of the atmospheric density, and radio occultation data on the atmospheric profile.
 
 
 <p style="page-break-after:always"> </p>
@@ -219,7 +221,7 @@ To save costs, most of the Magellan probe was made up of spare parts from variou
 
 **Attitude control and propulsion**
 
-The spacecraft's attitude control (orientation) was designed to be three-axis stabilized. Magellan design did not lend itself to spinning, so the resulting propulsion system design had to accommodate the challenging control issues with the large solid rocket motor «Star 48B». Due to high thrust, even a 0.5% SRM alignment error could generate side forces of 445 N. Final conservative estimates of worst-case side forces resulted in the need for eight 445 N thrusters, two in each quadrant, located out on booms at the maximum radius that the Space Shuttle Orbiter Payload Bay would accommodate (4.4 m diameter).
+The spacecraft’s attitude control (orientation) was designed to be three-axis stabilized. Magellan design did not lend itself to spinning, so the resulting propulsion system design had to accommodate the challenging control issues with the large solid rocket motor «Star 48B». Due to high thrust, even a 0.5% SRM alignment error could generate side forces of 445 N. Final conservative estimates of worst-case side forces resulted in the need for eight 445 N thrusters, two in each quadrant, located out on booms at the maximum radius that the Space Shuttle Orbiter Payload Bay would accommodate (4.4 m diameter).
 
 |*Parameter of Star 48B*|*Value*|
 |:--|:--|
@@ -281,6 +283,6 @@ The computing system on the spacecraft, partially modified equipment from the Ga
 
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Magellan_(spacecraft)>
-   1. <http://galspace.spb.ru/index504.html> *(archive [2019.12.22 ❐](f/project/magellan/doc001.pdf))*
+   1. <http://galspace.spb.ru/index504.html> *(archive [2019.12.22 ❐](f/project/m/magellan/doc001.pdf))*
    1. <https://solarsystem.nasa.gov/missions/magellan/in-depth/>
    1. <https://www2.jpl.nasa.gov/magellan/fact1.html>

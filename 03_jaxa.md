@@ -25,13 +25,13 @@
 
 Notable divisions:
 
-   - **Chofu Aerospace Center** — JAXA's headquarters and main development facility. Formed 1962, Tokyo.
-   - **Earth Observation Center** — JAXA's facility. Hatoyama, Saitama.
+   - **Chofu Aerospace Center** — JAXA’s headquarters and main development facility. Formed 1962, Tokyo.
+   - **Earth Observation Center** — JAXA’s facility. Hatoyama, Saitama.
    - **Extraterrestrial Sample Curation Center** — works of extraterrestrial materials retrieved by some sample‑return missions: documentation, preservation, preparation, distribution of samples.
    - **[ISAS](03_isas.md)** (Institute of Space & Aeronautical Science) — researches of astrophysics using rockets, astronomical satellites and interplanetary probes. Founded in 1950s.
    - **JSEC** (JAXA Space Exploration Center) — to integrate JAXA’s capabilities and expertise to promote its missions to the Moon and Mars. Formed 2018.
    - **Kakuda Space Center** — development and testing of rocket engines and space propulsion systems. Formed 1965, Kakuda, Miyagi Prefecture.
-   - **Noshiro Rocket Testing Center** — R&D, testing rockets and rocket's engines. Formed 1962, Noshiro, Akita Prefecture.
+   - **Noshiro Rocket Testing Center** — R&D, testing rockets and rocket’s engines. Formed 1962, Noshiro, Akita Prefecture.
    - **TKSC** or **Tsukuba** (Tsukuba Space Center) — the operations facility, astronauts training, headquarters for JAXA. The complex has several factories to manufacture satellites and ISS modules. Formed 1972, Ibaraki Prefecture.
-   - **Sagamihara Campus** — ISAS's facility. Sagamihara City.
+   - **Sagamihara Campus** — ISAS’s facility. Sagamihara City.
 

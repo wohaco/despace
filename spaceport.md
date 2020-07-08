@@ -57,7 +57,7 @@ A **spaceport** or **cosmodrome** is a site for launching (or receiving) spacecr
 
 **Maps**
 
-The name is given by analogy with an airport for aircraft. Usually spaceports occupy a large area at a distance from densely populated places, so that the stages that separate during flight do not harm. The most advantageous position of the spaceport is at the equator, so that the launch vehicle can use the energy of the Earth's rotation: saving up to 10 % of fuel compared to average latitudes (the same launch vehicle can put a slightly larger payload into orbit). From the equator, it is possible to launch into orbit with any inclination. Since there are few countries on the equator, sea‑based spaceports have appeared.
+The name is given by analogy with an airport for aircraft. Usually spaceports occupy a large area at a distance from densely populated places, so that the stages that separate during flight do not harm. The most advantageous position of the spaceport is at the equator, so that the launch vehicle can use the energy of the Earth’s rotation: saving up to 10 % of fuel compared to average latitudes (the same launch vehicle can put a slightly larger payload into orbit). From the equator, it is possible to launch into orbit with any inclination. Since there are few countries on the equator, sea‑based spaceports have appeared.
 
 |*Countries on the equator*|*Map of spaceports*|
 |:--|:--|

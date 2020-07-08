@@ -10,7 +10,7 @@
 || ![](f/contact/k/kleinboehl_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** PhD, Atmospheric Physics, University of Bremen, Germany (2003). MS, Physics, University of Frankfurt (Main), Germany (1999).
-   - Research Interests. Retrieval of atmospheric parameters from measurements of the Martian atmosphere to study its structure, dynamics, & composition. Measurement of structure & chemical composition of Earth's middle atmosphere. Remote sensing of atmospheres in the infrared & microwave wavelength regions.
+   - Research Interests. Retrieval of atmospheric parameters from measurements of the Martian atmosphere to study its structure, dynamics, & composition. Measurement of structure & chemical composition of Earth’s middle atmosphere. Remote sensing of atmospheres in the infrared & microwave wavelength regions.
    - **Exp.:** …
    - …
    - **SC/Equip.:** ExoMars Trace Gas Orbiter, ExoMars Climate Sounder, Mars Climate Sounder, Mars Reconnaissance Orbiter.

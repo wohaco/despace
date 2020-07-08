@@ -10,7 +10,7 @@
 **Parker Solar Probe** is a NASA robotic spacecraft launched in 2018, with the mission of repeatedly probing and making observations of the outer corona of the Sun. 
 
 
-[![](f/project/parkersolarprobe/parkersolarprobe.jpg)](f/project/parkersolarprobe/parkersolarprobe.jpg)
+[![](f/project/p/parkersolarprobe/parkersolarprobe.jpg)](f/project/p/parkersolarprobe/parkersolarprobe.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -41,7 +41,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -61,7 +61,7 @@ Targets & investigations:
 ## Mission
 It will approach to within 9.86 solar radii from the center of the Sun and by 2025 will travel, at closest approach, as fast as 690 000 km/h, or 0.064% the speed of light.
 
-The Parker Solar Probe will be the first spacecraft to fly into the low solar corona. It will assess the structure and dynamics of the Sun's coronal plasma and magnetic field, the energy flow that heats the solar corona and impels the solar wind, and the mechanisms that accelerate energetic particles.
+The Parker Solar Probe will be the first spacecraft to fly into the low solar corona. It will assess the structure and dynamics of the Sun’s coronal plasma and magnetic field, the energy flow that heats the solar corona and impels the solar wind, and the mechanisms that accelerate energetic particles.
 
 The Parker Solar Probe mission design uses repeated gravity assists at Venus to incrementally decrease its orbital perihelion to achieve a final altitude (above the surface) of approximately 8.5 solar radii, or about 6 millions km.
 
@@ -69,7 +69,7 @@ The spacecraft trajectory will include seven Venus flybys over nearly seven year
 
 After the first Venus flyby, the probe will be in an elliptical orbit with a period of 150 days (two-thirds the period of Venus), making three orbits while Venus makes two. On the second flyby, the period shortens to 130 days. After less than two orbits (only 198 days later) it encounters Venus a third time at a point earlier in the orbit of Venus. This encounter shortens its period to half of that of Venus, or about 112.5 days. After two orbits it meets Venus a fourth time at about the same place, shortening its period to about 102 days. After 237 days it meets Venus for the fifth time and its period is shortened to about 96 days, three-sevenths that of Venus. It then makes seven orbits while Venus makes three. The sixth encounter, almost two years after the fifth, brings its period down to 92 days, two-fifths that of Venus. After five more orbits (two orbits of Venus) it meets Venus for the seventh and last time, decreasing its period to 88 or 89 days and allowing it to approach closer to the Sun.
 
-|![](f/project/parkersolarprobe/Animation_of_Parker_Solar_Probe_trajectory.gif)|
+|![](f/project/p/parkersolarprobe/animation_of_parkersolarprobe_trajectory.gif)|
 |:--|
 |***The trajectory of the probe***|
 
@@ -79,9 +79,9 @@ After the first Venus flyby, the probe will be in an elliptical orbit with a per
    - The first scientific observations were transmitted in December 2018.
    - NASA announced that on January 19, 2019, the Parker Solar Probe reached its first aphelion, thus completing its first full orbit.
 
-On December 4, 2019, the first four research papers were published describing findings during the spacecraft's first two dives near the Sun. They reported the direction and strength of the Sun's magnetic field, and described the unusually frequent and short-lived changes in the direction of the Sun's magnetic field. These measurements confirm the hypothesis that Alfvén waves are the leading candidates for understanding the mechanisms that underlie the coronal heating problem. The probe observed approximately a thousand «rogue» magnetic waves in the solar atmosphere that instantly increase solar winds by as much as 480 000 km/h and in some cases completely reverse the local magnetic field. They also reported that, using the «beam of electrons that stream along the magnetic field», they were able to observe that «the reversals in the Sun's magnetic field are often associated with localized enhancements in the radial component of the plasma velocity (the velocity in the direction away from the Sun's centre)». The researchers found a «surprisingly large azimuthal component of the plasma velocity (the velocity perpendicular to the radial direction). This component results from the force with which the Sun's rotation slingshots plasma out of the corona when the plasma is released from the coronal magnetic field».
+On December 4, 2019, the first four research papers were published describing findings during the spacecraft’s first two dives near the Sun. They reported the direction and strength of the Sun’s magnetic field, and described the unusually frequent and short-lived changes in the direction of the Sun’s magnetic field. These measurements confirm the hypothesis that Alfvén waves are the leading candidates for understanding the mechanisms that underlie the coronal heating problem. The probe observed approximately a thousand «rogue» magnetic waves in the solar atmosphere that instantly increase solar winds by as much as 480 000 km/h and in some cases completely reverse the local magnetic field. They also reported that, using the «beam of electrons that stream along the magnetic field», they were able to observe that «the reversals in the Sun’s magnetic field are often associated with localized enhancements in the radial component of the plasma velocity (the velocity in the direction away from the Sun’s centre)». The researchers found a «surprisingly large azimuthal component of the plasma velocity (the velocity perpendicular to the radial direction). This component results from the force with which the Sun’s rotation slingshots plasma out of the corona when the plasma is released from the coronal magnetic field».
 
-Parker discovered evidence of a cosmic dust free zone of 5.6 million km radius from the Sun, due to vaporisation of cosmic dust particles by the Sun's radiation.
+Parker discovered evidence of a cosmic dust free zone of 5.6 million km radius from the Sun, due to vaporisation of cosmic dust particles by the Sun’s radiation.
 
 <p style="page-break-after:always"> </p>
 
@@ -92,7 +92,7 @@ The goals of the mission are:
    - Determine the structure and dynamics of the magnetic fields at the sources of solar wind.
    - Determine what mechanisms accelerate and transport energetic particles.
    - Study of plasma particles near the Sun and their impact on the solar wind and the formation of energy particles.
-   - Study of Alfven's solar waves.
+   - Study of Alfven’s solar waves.
 
 To achieve these goals, the mission will perform five major experiments or investigations (inc. instruments):
 
@@ -105,9 +105,9 @@ To achieve these goals, the mission will perform five major experiments or inves
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-The spacecraft's systems are protected from the extreme heat and radiation near the Sun by a solar shield. Incident solar radiation at perihelion is approximately 650 kW/m², or 475 times the intensity at Earth orbit. The solar shield is hexagonal, mounted on the Sun-facing side of the spacecraft, 2.3 m in diameter, 11.4 cm thick, and is made of reinforced carbon–carbon composite, which is designed to withstand temperatures outside the spacecraft of about 1 370 °C.
+The spacecraft’s systems are protected from the extreme heat and radiation near the Sun by a solar shield. Incident solar radiation at perihelion is approximately 650 kW/m², or 475 times the intensity at Earth orbit. The solar shield is hexagonal, mounted on the Sun-facing side of the spacecraft, 2.3 m in diameter, 11.4 cm thick, and is made of reinforced carbon–carbon composite, which is designed to withstand temperatures outside the spacecraft of about 1 370 °C.
 
-A white reflective alumina surface layer minimizes absorption. The spacecraft systems and scientific instruments are located in the central portion of the shield's shadow, where direct radiation from the Sun is fully blocked. As radio communication with Earth will take about eight minutes in each direction, the Parker Solar Probe will have to act autonomously and rapidly to protect itself. This will be done using four light sensors to detect the first traces of direct sun light coming from the shield limits and engaging movements from reaction wheels to reposition the spacecraft within the shadow again.
+A white reflective alumina surface layer minimizes absorption. The spacecraft systems and scientific instruments are located in the central portion of the shield’s shadow, where direct radiation from the Sun is fully blocked. As radio communication with Earth will take about eight minutes in each direction, the Parker Solar Probe will have to act autonomously and rapidly to protect itself. This will be done using four light sensors to detect the first traces of direct sun light coming from the shield limits and engaging movements from reaction wheels to reposition the spacecraft within the shadow again.
 
 The primary power for the mission is a dual system of solar panels (photovoltaic arrays). A primary photovoltaic array, used for the portion of the mission outside 0.25 AU, is retracted behind the shadow shield during the close approach to the Sun, and a much smaller secondary array powers the spacecraft through closest approach. This secondary array uses pumped-fluid cooling to maintain operating temperature of the solar panels and instrumentation.
 

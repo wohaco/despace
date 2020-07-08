@@ -13,7 +13,7 @@ Macfab offers 12+ years of experience working directly with satellite developers
 
    - **ADCS Instruments:** We manufacture all types of mechanical components for ADCS applications, including rotors for reaction wheels & a range of components for sun sensors & star trackers.
    - **Communication & Electronics:** We produce a variety of housings & covers for mission-critical electronic components & subsystems.
-   - **Propulsion:** We can accommodate the component & subassembly requirements across the full range of today's propulsion technologies & system designs.
+   - **Propulsion:** We can accommodate the component & subassembly requirements across the full range of today’s propulsion technologies & system designs.
    - **Sensors:** Macfab manufactures components for numerous camera applications, not only for satellites but also for medical & scientific instruments, involving infrared sensors, hyperspectral imaging, & more.
    - **Separation systems:** We produce a variety of mechanical components & sub-assemblies, with particular expertise working with complex design, shapes, & virtually any material.
    - **Structures:** We provide structures machined from magnesium as well as composite honeycomb panels.

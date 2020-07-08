@@ -54,7 +54,7 @@
       - Class C;
       - Class D — дешёвый/простой.
 
-NASA's **large strategic science missions** or **large strategic missions**, formerly known as **Flagship missions** or **Flagship-class missions**, are the costliest and most capable NASA science spacecraft. Flagship missions exist within all four divisions of NASA's Science Mission Directorate: the astrophysics, Earth science, heliophysics and planetary science divisions.
+NASA’s **large strategic science missions** or **large strategic missions**, formerly known as **Flagship missions** or **Flagship-class missions**, are the costliest and most capable NASA science spacecraft. Flagship missions exist within all four divisions of NASA’s Science Mission Directorate: the astrophysics, Earth science, heliophysics and planetary science divisions.
 
 "Large" refers to the budget of each mission, typically the most expensive mission in the scientific discipline. Within the Astrophysics Division and the Planetary Science Division, the large strategic missions are usually in excess of $1 billion. Within Earth Science Division and Heliophysics Division, the large strategic missions are usually in excess of $500 million. "Strategic" refers to their role advancing multiple strategic priorities set forth in plans such as the Decadal Surveys. "Science" marks these missions as primarily scientific in nature, under the Science Mission Directorate (SMD), as opposed to, e.g., human exploration missions under the Human Exploration and Operations Mission Directorate (HEOMD). The lines can be blurred, as when the Lunar Reconnaissance Orbiter began as a directed mission from the HEOMD, and was later transferred to the SMD.
 

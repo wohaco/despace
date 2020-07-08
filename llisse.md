@@ -21,7 +21,7 @@
 
 ***Targets and investigations:***
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -41,7 +41,7 @@
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑041||Correlation between the atmosphere & the surface.|  |D|||||
+|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
 |EVN‑058|T|Exploration: directed seismoexperiment.|  |D||F|||
 |EVN‑069|T|Prolonged surface‑spacecraft functioning.|  ||C||||
@@ -90,7 +90,7 @@ As a power supply, 2 options are offered: a primary battery designed for a worki
 
 |*Battery Version*|*Wind Powered Version*|
 |:--|:--|
-|![battery_version](f/project/llisse/llisse1.jpg)|![wind_powered_version](f/project/llisse/llisse.jpg)|
+|![battery_version](f/project/l/llisse/llisse1.jpg)|![wind_powered_version](f/project/l/llisse/llisse.jpg)|
 |Resource 3 000 hours|Resource is not defined|
 
 </small>

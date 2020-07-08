@@ -134,7 +134,7 @@
    - [Spirit](spirit.md)
    - [Проп_М](проп_м.md)
 
-**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV; **Draft** — minimum for working with object.)<br> (**C** — contact explor.; **D** — distant explor.; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
+**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV; **Draft** — minimum for working with object.)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
 
 <small>
 

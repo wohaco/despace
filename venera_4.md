@@ -8,7 +8,7 @@
 
 **Venera 4** (**Венера-4**) was a spacecraft in the Soviet Venera program for the exploration of Venus. The first spacecraft that entered the atmosphere of Venus and transmitted data on the structure of the atmosphere (pressure and temperature) at altitudes of 55 — 25 km, the composition of the atmosphere (90 — 95% СО₂), detected the hydrogen corona of Venus, did not detect its own magnetic field and radiation belts.
 
-[![](f/project/venera_4/pic01_thumb.jpg)](f/project/venera_4/pic01.jpg) [![](f/project/venera_4/pic02_thumb.jpg)](f/project/venera_4/pic02.jpg)
+[![](f/project/v/venera_4/pic01_thumb.jpg)](f/project/v/venera_4/pic01.jpg) [![](f/project/v/venera_4/pic02_thumb.jpg)](f/project/v/venera_4/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -37,7 +37,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑028||Magnetosphere structure.|  |D||F|||
@@ -62,7 +62,7 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-In 1967 it was the first successful spacecraft to perform in-place analysis of the environment of another planet. Venera 4 provided the first chemical analysis of the Venusian atmosphere ([EVN‑014](venus.md)), showing it to be primarily carbon dioxide with a few percent of nitrogen and below one percent of oxygen and water vapors ([EVN‑077](venus.md)). While entering the atmosphere it became the first spacecraft to survive entry into another planet's atmosphere. The spacecraft detected a weak magnetic field ([EVN‑028](venus.md)) and no radiation field. The outer atmospheric layer contained very little hydrogen and no atomic oxygen ([EVN‑014](venus.md), [EVN‑077](venus.md)). The spacecraft sent the first direct measurements proving that Venus was extremely hot, that its atmosphere was far denser than expected ([EVN‑001](venus.md)), and that it had lost most of its water long ago.
+In 1967 it was the first successful spacecraft to perform in-place analysis of the environment of another planet. Venera 4 provided the first chemical analysis of the Venusian atmosphere ([EVN‑014](venus.md)), showing it to be primarily carbon dioxide with a few percent of nitrogen and below one percent of oxygen and water vapors ([EVN‑077](venus.md)). While entering the atmosphere it became the first spacecraft to survive entry into another planet’s atmosphere. The spacecraft detected a weak magnetic field ([EVN‑028](venus.md)) and no radiation field. The outer atmospheric layer contained very little hydrogen and no atomic oxygen ([EVN‑014](venus.md), [EVN‑077](venus.md)). The spacecraft sent the first direct measurements proving that Venus was extremely hot, that its atmosphere was far denser than expected ([EVN‑001](venus.md)), and that it had lost most of its water long ago.
 
 Venera 4 was launched on 12 June by a Molniya-M carrier rocket flying from the Baikonur Cosmodrome. A course correction was performed on 29 July when it was 12 million km away from Earth; otherwise the spacecraft would have missed Venus. Although two such corrections had been planned, the first one was accurate enough and therefore the second correction was canceled. On 18 October 1967, the spacecraft entered the Venusian atmosphere with an estimated landing place near 19°N 38°E.
 
@@ -77,7 +77,7 @@ During entry into the Venusian atmosphere, the heat shield temperature rose to 1
 <p style="page-break-after:always"> </p>
 
 ## Science goals & payload
-Objectives Venera 4's: delivery of the lander to the atmosphere of the planet Venus, study of phisical parameters and chemical composition.
+Objectives Venera 4’s: delivery of the lander to the atmosphere of the planet Venus, study of phisical parameters and chemical composition.
 
 The orbiter included a 2 m long magnetometer, an ion detector, a cosmic ray detector and an ultraviolet spectrometer capable of detecting hydrogen and oxygen gases.
 

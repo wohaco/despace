@@ -10,7 +10,7 @@
 
 **Venera 9** and **Venera 10** were Soviet unmanned space mission parts to Venus.
 
-[![](f/project/venera_9_10/pic01_thumb.jpg)](f/project/venera_9_10/pic01.jpg) [![](f/project/venera_9_10/pic05_thumb.jpg)](f/project/venera_9_10/pic05.jpg)
+[![](f/project/v/venera_9_10/pic01_thumb.jpg)](f/project/v/venera_9_10/pic01.jpg) [![](f/project/v/venera_9_10/pic05_thumb.jpg)](f/project/v/venera_9_10/pic05.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -49,17 +49,18 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑008||Atmosphere: flashing on the night side.|  |D|||||
+|EVN‑008||Atmosphere: nightglows.|  |D|||||
 |EVN‑010||Atmosphere: vertical model.|  |D|||||
 |EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
 |EVN‑014||Atmosphere: composition.|  |D|||F||
 |EVN‑016||Atmosphere: clouds, their structure.|  |D||F|||
 |EVN‑017||Atmosphere: structure.|  |D|||||
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
+|EVN‑025||Surface: morphology|  |C|||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑063|T|Surface: panoramic mapping.|  ||C||||
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
@@ -85,19 +86,19 @@ Achieved targets & investigations:
 
 They consisted of an orbiter and a lander.
 
-![](f/project/venera_9_10/pic06.jpg)
+![](f/project/v/venera_9_10/pic06.jpg)
 
 **Orbiter**
 
-The orbiter Venera 9's entered Venus orbit on October 20, 1975. Its mission was to act as a communications relay for the lander ([EVN‑092](venus.md)) and to explore cloud layers ([EVN‑075](venus.md)) and atmospheric parameters with several instruments and experiments ([EVN‑005](venus.md)).
+The orbiter Venera 9’s entered Venus orbit on October 20, 1975. Its mission was to act as a communications relay for the lander ([EVN‑092](venus.md)) and to explore cloud layers ([EVN‑075](venus.md)) and atmospheric parameters with several instruments and experiments ([EVN‑005](venus.md)).
 
-The orbiter Venera 10's entered Venus orbit on October 23, 1975. Its mission was identical to the Venera 9 Orbiter mission.
+The orbiter Venera 10’s entered Venus orbit on October 23, 1975. Its mission was identical to the Venera 9 Orbiter mission.
 
 Both orbiters conducted experiments on radio illumination of the atmosphere ([EVN‑078](venus.md)). 50 slices of the atmosphere were obtained at different latitudes and at different positions of the Sun.
 
 An experiment was also conducted to determine the relief from the orbit of the artificial satellite of Venus ([EVN‑093](venus.md)). About 55 slices were obtained with a horizontal resolution of about 10 km.
 
-With the help of an ultraviolet spectrometer, the cause of the ashy glow of Venus was clarified. It turned out, all because of the light of strongly ionized atoms of oxygen and carbon monoxide. The total ionization energy is probably taken from interplanetary solar plasma ([EVN‑097](venus.md)). In this case, the ashy light of Venus is a close relative of earth's auroras, only «smeared» across the surface due to the planet's lack of a magnetic field ([EVN‑008](venus.md)).
+With the help of an ultraviolet spectrometer, the cause of the ashy glow of Venus was clarified. It turned out, all because of the light of strongly ionized atoms of oxygen and carbon monoxide. The total ionization energy is probably taken from interplanetary solar plasma ([EVN‑097](venus.md)). In this case, the ashy light of Venus is a close relative of earth’s auroras, only «smeared» across the surface due to the planet’s lack of a magnetic field ([EVN‑008](venus.md)).
 
 Opto-mechanical scanners transmitted images of the cloud cover. An infrared spectrometer studied the upper layer of clouds.
 
@@ -105,12 +106,12 @@ The last communication session with the Orbiter Venera 9 took place on April 27,
 
 **Lander**
 
-**Program of the lander's entry into atmosphere**  
-The spacecraft with the lander was first guided to the point of entry into the atmosphere before the point of entry into orbit was reached. A few days before arriving on Venus, a lander was detached from the station, continuing its flight in passive mode. Immediately thereafter, the spacecraft performed a correction maneuver to reach the point of entry into orbit. The sequence of operations was set in such a way that by the time the information transfer from the lander began, the Orbiter's engine would be turned on to enter the orbit of the Venus satellite, so that the Orbiter would be in line of sight with the lander to relay the data. As a result of this complex maneuver, by the time the lander entered the atmosphere, the Orbiter managed to make a half-turn around Venus, ending up in the range of the lander's reception. This provided the maximum duration of the communication session through the Orbiter, which was used as a repeater, and with the limited survival time of the lander on the surface, all information had to be removed from the scientific instruments in one communication session.
+**Program of the lander’s entry into atmosphere**  
+The spacecraft with the lander was first guided to the point of entry into the atmosphere before the point of entry into orbit was reached. A few days before arriving on Venus, a lander was detached from the station, continuing its flight in passive mode. Immediately thereafter, the spacecraft performed a correction maneuver to reach the point of entry into orbit. The sequence of operations was set in such a way that by the time the information transfer from the lander began, the Orbiter’s engine would be turned on to enter the orbit of the Venus satellite, so that the Orbiter would be in line of sight with the lander to relay the data. As a result of this complex maneuver, by the time the lander entered the atmosphere, the Orbiter managed to make a half-turn around Venus, ending up in the range of the lander’s reception. This provided the maximum duration of the communication session through the Orbiter, which was used as a repeater, and with the limited survival time of the lander on the surface, all information had to be removed from the scientific instruments in one communication session.
 
 **Venera 9**
 
-![](f/project/venera_9_10/pic07.jpg)
+![](f/project/v/venera_9_10/pic07.jpg)
 
 On October 20, 1975, the lander spacecraft separated from the orbiter, and landing was made with the Sun near zenith at 05:13 UTC on October 22.
 
@@ -124,7 +125,7 @@ Venera 9 measured clouds that were 30 – 40 km thick with bases at 30 – 35�
 
 **Venera 10**
 
-![](f/project/venera_9_10/pic09.jpg)
+![](f/project/v/venera_9_10/pic09.jpg)
 
 On October 23, 1975, this spacecraft was separated from the Orbiter, and landing was made with the sun near zenith, at 05:17 UT, on October 25.
 
@@ -139,7 +140,7 @@ Venera 10 measured a surface windspeed of 3.5 m/s. Other measurements included
 ## Science goals & payload
 The main scientific task of the lander was to obtain a panoramic image from the surface of Venus, and it was necessary to achieve it as quickly as possible to maximize the time of work in situ. On the other hand, it was considered equally important to continue studying the cloud layer. The clouds had to be passed at low speed. This determined the minimum operating time of the lander on the surface, as well as the speed of data transmission through the satellite ([EVN‑092](venus.md)). Along with this, the new capabilities and the large mass of the lander allowed it to be equipped with a number of instruments for the study of the atmosphere at the surface, which until then had never been launched into space. These included instruments (nephelometers) for measuring the vertical structure ([EVN‑010](venus.md)), microphysical properties and composition of aerosols inside and under clouds ([EVN‑018](venus.md)), the vertical and spectral distribution of the flow of sunlight penetrating the clouds at several angles of view ([EVN‑013](venus.md)), analysis of the chemical and isotopic composition of the atmosphere ([EVN‑014](venus.md)) and direct measurements of wind at the surface. For the first studies in orbit of the Venus satellite, the space station was equipped with instruments to study the structure of the middle and upper atmosphere ([EVN‑017](venus.md)), the upper layer of clouds, the thermal radiation of the planet and its plasma environment ([EVN‑097](venus.md)).
 
-![](f/project/venera_9_10/pic08.png)
+![](f/project/v/venera_9_10/pic08.png)
 
 **ORBITER**
 
@@ -243,7 +244,7 @@ On both sides of the cylinder there were solar panels measuring 1.25 x 2.1�
 
 Information about the operation of the reentry system and data from the lander were transmitted to Earth via the Orbiter repeater in real time.
 
-[![](f/project/venera_9_10/pic02_thumb.jpg)](f/project/venera_9_10/pic02.jpg)
+[![](f/project/v/venera_9_10/pic02_thumb.jpg)](f/project/v/venera_9_10/pic02.jpg)
 
 **Lander**
 
@@ -253,9 +254,9 @@ The lander was 2 m high, was equipped with batteries of greater (than 3MV) cap
 
 The lander was a sealed double-walled titanium pressure vessel of spherical shape with a diameter of 80 cm and total mass of 660 kg, which contained most of the instruments and electronics. It was attached to the landing ring shock absorber by a system of dampers. On top was a disc-shaped aerodynamic shield with a diameter of 2.1 m, designed to reduce the rate of descent and stabilize the apparatus during its free fall in the lower atmosphere. This shield worked the same way as the reflector of the omnidirectional antenna rolled into a cylinder and located on it. Inside the cylinder with a diameter of 80 cm and a height of 40 cm were parachutes and scientific instruments to work during the descent. The sphere consisted of several sections welded together by a seam of gold wire. It was covered with a 12 cm layer of porous thermal insulation material in the form of honeycomb, and on top of it was closed with a thin titanium shell. Inside, the sphere was also lined with heat-insulating polyurethane foam. In addition to effective thermal insulation, when approaching the planet, the lander was pre-cooled to a temperature of –10 °C. The heat of the atmosphere, penetrating through the layers of insulation, was absorbed by thermal batteries based on lithium nitrate trihydrate. This salt was melted at a temperature of 33 °C, and the gas circulation system distributed heat evenly throughout the volume, maintaining this temperature inside the apparatus until the salt stock was completely melted.
 
-[![](f/project/venera_9_10/pic03_thumb.jpg)](f/project/venera_9_10/pic03.jpg)
+[![](f/project/v/venera_9_10/pic03_thumb.jpg)](f/project/v/venera_9_10/pic03.jpg)
 
-[![](f/project/venera_9_10/pic04_thumb.jpg)](f/project/venera_9_10/pic04.jpg)
+[![](f/project/v/venera_9_10/pic04_thumb.jpg)](f/project/v/venera_9_10/pic04.jpg)
 
 
 

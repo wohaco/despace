@@ -7,24 +7,24 @@
 
 > <small>*Terms:* **Al‑Anbar** — English term with no analogues in Russian. **Аль‑Анбар** — literal translation to Russian.</small>
 
-**Iraq's Al-Anbar Space Research Center** — Iraq's launch site.
+**Iraq’s Al-Anbar Space Research Center** — Iraq’s launch site.
 
 On December 5, 1989, the Middle eastern nation became the tenth to launch an artificial moon to orbit above Earth.
 The satellite was the 48-ton, third stage of a three-stage rocket in a flight from Al-Anbar Space Research Center 50 miles west of Baghdad to a six-orbit spaceflight.
 
-**Six Revs.** A U.S. nuclear-attack-warning satellite spotted fiery exhaust from the rocket as it blasted up and away from Iraq. While the rocket did not leave a separate satellite in orbit, it's third stage swept around the Earth for six revolutions before falling out of orbit. North American Aerospace Defense Command tracked the third stage around the globe.
+**Six Revs.** A U.S. nuclear-attack-warning satellite spotted fiery exhaust from the rocket as it blasted up and away from Iraq. While the rocket did not leave a separate satellite in orbit, it’s third stage swept around the Earth for six revolutions before falling out of orbit. North American Aerospace Defense Command tracked the third stage around the globe.
 
 The launch made Iraq the tenth nation with a rocket powerful enough for space launches. It was the first time Iraq had exposed its space research.
 
-**Scout-like.** Iraq's 75-ft., three-stage rocket probably was similar to a U.S. Scout rocket used to send small satellites to low orbits.
+**Scout-like.** Iraq’s 75-ft., three-stage rocket probably was similar to a U.S. Scout rocket used to send small satellites to low orbits.
 
-**Military missiles.** Iraq's space booster may have been a modified version of Argentina's Condor ballistic missile. Such a missile could carry a nuclear warhead 1,240 miles. Iraq also had a 600-mi. missile built around the USSR's Scud.
+**Military missiles.** Iraq’s space booster may have been a modified version of Argentina’s Condor ballistic missile. Such a missile could carry a nuclear warhead 1,240 miles. Iraq also had a 600-mi. missile built around the USSR’s Scud.
 
-   - Scuds were launched by Iraq against Iran during their eight-year war in the 1980's.
+   - Scuds were launched by Iraq against Iran during their eight-year war in the 1980’s.
    - Iraq again launched Scuds, against Israel and Saudi Arabia, in the first Persian Gulf War in 1991.
    - Iraq launched a few ballistic missiles against Kuwait and the opposing Coalition Forces in the second Persian Gulf War in 2003.
 
-Al-Anbar Space Research Center and other Iraqi launch sites were damaged in the 1991 war, bringing to a halt Iraq's ability to continue in the Middle East space race with Israel.
+Al-Anbar Space Research Center and other Iraqi launch sites were damaged in the 1991 war, bringing to a halt Iraq’s ability to continue in the Middle East space race with Israel.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
@@ -32,7 +32,7 @@ Al-Anbar Space Research Center and other Iraqi launch sites were damaged in the 
 | Coordinates | 32.78220°N 44.29962°E |
 | Distanse | 3 700 km to the equator;<br> 2 800 km to [LAV](03_lav.md);<br> 17 400 km  to [JPL](03_jpl.md);<br> 50 km to Baghdad |
 | Launch pads | 1 |
-| [Launched vehicles](lv.md) | **Abid** <small>(modified version of Argentina's Condor ballistic missile and USSR's Scud rocket)</small> |
+| [Launched vehicles](lv.md) | **Abid** <small>(modified version of Argentina’s Condor ballistic missile and USSR’s Scud rocket)</small> |
 | Operator |  |
 || [![](f/spaceport/al_anbar/map1_thumb.jpg)](f/spaceport/al_anbar/map1.png) ![](f/spaceport/al_anbar/map3.png) |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*Мировая карта космодромов*</small>  |

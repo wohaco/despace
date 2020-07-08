@@ -16,7 +16,7 @@ This is an interactive tool used to produce 3D visualizations of planet ephemeri
 
 
 ## Описание
-Cosmographia originated as primarily a general interest solar system simulator, & it still works wonderfully in that role. However, with consent & assistance from the tool's author, NAIF is extending the Cosmographia tool to make use of SPICE kernels to accurately model the observation geometry of planetary missions for which substantial or complete sets of SPICE data are available. With these extensions SPICE‑enhanced Cosmographia should be of interest to scientists & engineers.
+Cosmographia originated as primarily a general interest solar system simulator, & it still works wonderfully in that role. However, with consent & assistance from the tool’s author, NAIF is extending the Cosmographia tool to make use of SPICE kernels to accurately model the observation geometry of planetary missions for which substantial or complete sets of SPICE data are available. With these extensions SPICE‑enhanced Cosmographia should be of interest to scientists & engineers.
 
 Cosmographia is a stand‑alone application for which executable binaries have been prepared on relatively recent versions of OSX, Windows & Linux. They likely work on more modern versions of the named operating systems & perhaps on some older versions as well.
 

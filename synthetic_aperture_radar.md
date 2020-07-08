@@ -10,7 +10,7 @@
 **Synthetic-aperture radar (SAR)** is a form of radar that is used to create two‑dimensional images or three‑dimensional reconstructions of objects, such as landscapes.
 
 [![](f/cam/sar_pic01_thumb.jpg)](f/cam/sar_pic01.jpg)  
-*This radar image acquired by the SIR-C/X-SAR radar on board the Space Shuttle Endeavour shows the Teide volcano. The city of Santa Cruz de Tenerife is visible as the purple and white area on the lower right edge of the island. Lava flows at the summit crater appear in shades of green and brown, while vegetation zones appear as areas of purple, green and yellow on the volcano's flanks.*
+*This radar image acquired by the SIR-C/X-SAR radar on board the Space Shuttle Endeavour shows the Teide volcano. The city of Santa Cruz de Tenerife is visible as the purple and white area on the lower right edge of the island. Lava flows at the summit crater appear in shades of green and brown, while vegetation zones appear as areas of purple, green and yellow on the volcano’s flanks.*
 
 
 <p style="page-break-after:always"> </p>

@@ -9,9 +9,9 @@
 
 **Venera 8** (**Венера‑8**) was a spacecraft in the Soviet Venera program for the exploration of Venus and was the second lander to conduct a successful landing on the surface of Venus. The Venera 8 landing was planned on the day side in order to prepare for image acquisition by the next missions, it landed on the day side 500 km from the morning terminator. Transmitted information from the surface for 50 min. The illumination was measured and obtained as 350 ± 150 Lux (extrapolated to noon is 1 000 – 3 000 Lux – sufficient for the operation of television systems). The wind speed was measured at 50 - 60 m/s at an altitude of 50 km, and 0 – 2 m/s at the surface, i.e. super rotation was detected. The first measurements were made of the content of natural radioactive elements in the soil (potassium, uranium, thorium).
 
-![](f/project/venera_8/pic01.jpg) ![](f/project/venera_8/pic02.jpg)
+![](f/project/v/venera_8/pic01.jpg) ![](f/project/v/venera_8/pic02.jpg)
 
-[![](f/project/venera_8/pic03_thumb.jpg)](f/project/venera_8/pic03.jpg)
+[![](f/project/v/venera_8/pic03_thumb.jpg)](f/project/v/venera_8/pic03.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -40,7 +40,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -50,8 +50,8 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
-|EVN‑002||Surface: map, draft.|  |D|C||||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
+|EVN‑002||Surface: preliminary map.|  |D|C||||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
 |EVN‑010||Atmosphere: vertical model.|  |D|||||
@@ -72,9 +72,9 @@ Achieved targets & investigations:
 ## Mission
 The spacecraft took 117 days to reach Venus with one mid-course correction on 6 April 1972, separating from the orbiter and entering the atmosphere on 22 July 1972 at 08:37 UTC. Taking into account new tasks, the ballistics flight scheme of Venera 8 has changed. Unlike [Venera 4](venera_4.md), [-5, -6](venera_5_6.md), [-7](venera_7.md), the lander had to land on the day side of the planet.
 
-A refrigeration system attached to the orbiter was used to pre-chill the descent lander's interior prior to atmospheric entry in order to prolong its life on the surface. Descent speed was reduced from 41 696 km/h to about 900 km/h by aerobraking. The 2.5 m diameter parachute opened at an altitude of 60 km.
+A refrigeration system attached to the orbiter was used to pre-chill the descent lander’s interior prior to atmospheric entry in order to prolong its life on the surface. Descent speed was reduced from 41 696 km/h to about 900 km/h by aerobraking. The 2.5 m diameter parachute opened at an altitude of 60 km.
 
-Venera 8 carried out accurate direct (in situ) measurements of atmospheric temperature and pressure, securely tied to the altitude ([EVN-001](venus.md), [EVN-010](venus.md)) above the surface and on the surface itself ([EVN-003](venus.md), [EVN-006](venus.md)). The chemical composition of the atmosphere was clarified ([EVN-014](venus.md)). For the first time, the descending luminous flux was measured in the range from 55 km to the surface. These first high-altitude profiles of sunlight flux proved to be sufficient to explain the nature of high temperature due to the greenhouse effect ([EVN-001](venus.md)). They also made it possible for the first time to estimate the location of clouds in the atmosphere of Venus and to make the assumption about the presence of a sub-cloud haze ([EVN-001](venus.md)). The illumination was measured on the surface ([EVN-013](venus.md)), which was the basis for planning future experiments for taking panoramas. Altitude profiles of horizontal wind speed and direction from 55 km and to the surface were obtained by Doppler measurements ([EVN-010](venus.md), [011](venus.md), [074](venus.md)).
+Venera 8 carried out accurate direct (in situ) measurements of atmospheric temperature and pressure, securely tied to the altitude ([EVN‑001](venus.md), [EVN‑010](venus.md)) above the surface and on the surface itself ([EVN‑003](venus.md), [EVN‑006](venus.md)). The chemical composition of the atmosphere was clarified ([EVN‑014](venus.md)). For the first time, the descending luminous flux was measured in the range from 55 km to the surface. These first high-altitude profiles of sunlight flux proved to be sufficient to explain the nature of high temperature due to the greenhouse effect ([EVN‑001](venus.md)). They also made it possible for the first time to estimate the location of clouds in the atmosphere of Venus and to make the assumption about the presence of a sub-cloud haze ([EVN‑001](venus.md)). The illumination was measured on the surface ([EVN‑013](venus.md)), which was the basis for planning future experiments for taking panoramas. Altitude profiles of horizontal wind speed and direction from 55 km and to the surface were obtained by Doppler measurements ([EVN‑010](venus.md), [011](venus.md), [074](venus.md)).
 
 **Winds**
 
@@ -85,19 +85,19 @@ Venera 8 carried out accurate direct (in situ) measurements of atmospheric tempe
 | 45 – 20 km | 40 – 20 m/s |
 | 10 – 0 km | 1 m/s |
 
-Measurements of the horizontal wind speed, almost coinciding with the speed of the ultraviolet inhomogeneities at the top of the clouds, indicated the presence of a superrotation of the atmosphere of Venus ([EVN-034](venus.md)). Detailed study of high-altitude temperature profiles and variations of the frequency signal allowed to obtain estimates of the nature of turbulence in the lower atmosphere of Venus ([EVN-010](venus.md)).
+Measurements of the horizontal wind speed, almost coinciding with the speed of the ultraviolet inhomogeneities at the top of the clouds, indicated the presence of a superrotation of the atmosphere of Venus ([EVN‑034](venus.md)). Detailed study of high-altitude temperature profiles and variations of the frequency signal allowed to obtain estimates of the nature of turbulence in the lower atmosphere of Venus ([EVN‑010](venus.md)).
 
-Radio altimeter data were obtained at various altitudes. During the descent, the lander drifted 60 km horizontally. The radio altimeter obtained a surface profile ([EVN-002](venus.md)) on which two mountains of 1 000 and 2 000 m high, a depression of 2 000 m deep and a gentle slope ascending to the landing site were found. Two intensity profiles of the echo signal were obtained, from which it was possible to calculate the permittivity and surface density, which turned out to be equal to 1.4 g/cm³. According to the measurements of the photometer, the level of illumination monotonously decreased in the range from 50 to 35 km as the spacecraft passed through the clouds. Venera 8 was the first to detect three main optical regions in the atmosphere: the main thick cloud layer between 65 and 49 km, a less dense layer of haze (fog) between 49 km and 32 km, and a relatively clear cloudless atmosphere ([EVN-017](venus.md)).
+Radio altimeter data were obtained at various altitudes. During the descent, the lander drifted 60 km horizontally. The radio altimeter obtained a surface profile ([EVN‑002](venus.md)) on which two mountains of 1 000 and 2 000 m high, a depression of 2 000 m deep and a gentle slope ascending to the landing site were found. Two intensity profiles of the echo signal were obtained, from which it was possible to calculate the permittivity and surface density, which turned out to be equal to 1.4 g/cm³. According to the measurements of the photometer, the level of illumination monotonously decreased in the range from 50 to 35 km as the spacecraft passed through the clouds. Venera 8 was the first to detect three main optical regions in the atmosphere: the main thick cloud layer between 65 and 49 km, a less dense layer of haze (fog) between 49 km and 32 km, and a relatively clear cloudless atmosphere ([EVN‑017](venus.md)).
 
-On the surface, the light level was almost constant, which supported the conclusion of a relatively clean atmosphere below the clouds. At the landing site, the illumination was comparable to twilight on a cloudy day on Earth. The weak brightness of the surface indicated that only 1% of the incident sunlight reached the surface ([EVN-013](venus.md)) (the Sun was 5° above the horizon).
+On the surface, the light level was almost constant, which supported the conclusion of a relatively clean atmosphere below the clouds. At the landing site, the illumination was comparable to twilight on a cloudy day on Earth. The weak brightness of the surface indicated that only 1% of the incident sunlight reached the surface ([EVN‑013](venus.md)) (the Sun was 5° above the horizon).
 
-Measurements using gas analyzers allowed us to conclude that the atmosphere contains 97% carbon dioxide, 2% nitrogen, 0.9% water vapor and less than 0.15% oxygen ([EVN-014](venus.md)). Although the ammonia test gave a positive result of 0.1% to 0.01% at altitudes of 44 to 32 km, this result was due to sulfuric acid, which also gave a positive reaction to the indicator used. An important circumstance was that the gas analyzer for the first time pointed out the possibility of the presence of sulfuric acid in the clouds. This explained why the clouds were so waterless but could still form droplets. And the fact that such droplets effectively reflected sunlight explained why the planet had such a high albedo.
+Measurements using gas analyzers allowed us to conclude that the atmosphere contains 97% carbon dioxide, 2% nitrogen, 0.9% water vapor and less than 0.15% oxygen ([EVN‑014](venus.md)). Although the ammonia test gave a positive result of 0.1% to 0.01% at altitudes of 44 to 32 km, this result was due to sulfuric acid, which also gave a positive reaction to the indicator used. An important circumstance was that the gas analyzer for the first time pointed out the possibility of the presence of sulfuric acid in the clouds. This explained why the clouds were so waterless but could still form droplets. And the fact that such droplets effectively reflected sunlight explained why the planet had such a high albedo.
 
 The radio altimeter accurately measured the distance to the planet; from this data, a section of the terrain was built ([EVN‑002](venus.md)).
 
 The on-board gamma ray spectrometer measured the uranium/thorium/potassium ratio of the surface rock, indicating it was similar to Alkali basalt ([EVN‑026](venus.md)).
 
-Venera 8 reliably measured the atmosphere on the planet's surface. Direct measurements showed that the surface pressure is 93 ± 1.5 bar and temperature 470 ± 8 °C, confirming the measurements of Venera 7 ([EVN‑074](venus.md)).
+Venera 8 reliably measured the atmosphere on the planet’s surface. Direct measurements showed that the surface pressure is 93 ± 1.5 bar and temperature 470 ± 8 °C, confirming the measurements of Venera 7 ([EVN‑074](venus.md)).
 
 The lander continued to send back data for 50 minutes, 11 seconds after landing ([EVN‑006](venus.md)) before failing due to the harsh surface conditions.
 
@@ -114,9 +114,9 @@ The purpose of the launch of the automatic station Venera 8 was to deliver the l
       - Assessment of the radiation situation on the Earth − Venus flight path − **КС-18-4М**;
       - Measurement of hydrogen (H₂) and deuterium (H₃) density in the upper atmosphere − **ЛА-4**.
    - **Lander**
-      - Measurement of the pressure of the planet's atmosphere during parachute descent and on the surface after landing − **ИТД**, **МД**;
-      - Measuring the temperature of the planet's atmosphere during parachute descent and on the surface after landing − **ИТД**;
-      - Determination of the maximum acceleration at the lander's entry into the atmosphere − **ДОУ1-М**;
+      - Measurement of the pressure of the planet’s atmosphere during parachute descent and on the surface after landing − **ИТД**, **МД**;
+      - Measuring the temperature of the planet’s atmosphere during parachute descent and on the surface after landing − **ИТД**;
+      - Determination of the maximum acceleration at the lander’s entry into the atmosphere − **ДОУ1-М**;
       - Determination of the surface type of rocks of the planet (gamma spectrometer) − **ГС-4М**;
       - Measurement of illumination at altitude and on the surface of the planet − **ИОВ-72**;
       - Registration of ammonia in the cloud layer (verification of hypotheses about the possible presence) − **ИАВ-72**;
@@ -143,7 +143,7 @@ The purpose of the launch of the automatic station Venera 8 was to deliver the l
 ## Spacecraft
 The spacecraft based on the 3MV (Venera 3V; V-72) and consisted of a lander and an orbiter.
 
-In order for the lander to get on the illuminated side, due to the restrictions imposed by the laws of celestial mechanics, it was necessary to recycle the radio system. A new funnel-shaped antenna was installed (suitable for a low position above the Earth's horizon). Also, the landing was equipped with a resetable antenna, providing communication after landing (flat disk with spiral antennas on each side). After landing, the resetable antenna is ejected from the parachute compartment, the petals open and do not allow it to stand on the edge. The ends of the disk are emitters, and the gravity switch installed inside it, after fixing the antenna to the radiation, turns on the upper side. The main funnel-shaped antenna worked only in the descent area.
+In order for the lander to get on the illuminated side, due to the restrictions imposed by the laws of celestial mechanics, it was necessary to recycle the radio system. A new funnel-shaped antenna was installed (suitable for a low position above the Earth’s horizon). Also, the landing was equipped with a resetable antenna, providing communication after landing (flat disk with spiral antennas on each side). After landing, the resetable antenna is ejected from the parachute compartment, the petals open and do not allow it to stand on the edge. The ends of the disk are emitters, and the gravity switch installed inside it, after fixing the antenna to the radiation, turns on the upper side. The main funnel-shaped antenna worked only in the descent area.
 
 The data obtained by Venera 7 were taken into account in the design of  Venera 8 lander. In the lower part of the compartment, the wall thickness was reduce from 25 to 12 mm, in the upper part from 8.7 to 5.7 mm, which made it possible to reduce weight of the lander by 38.5 kg compared Venera 7. The lander mass was 495 kg.
 

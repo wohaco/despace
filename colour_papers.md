@@ -11,7 +11,7 @@
 
    - **Blue paper** (синяя книга) sets out technical specifications of a technology or item of equipment.
    - **Green paper** (зелёная книга) is a proposal or consultative document rather than being authoritative or final.
-   - **White paper** (белая книга) is an authoritative report or guide that informs readers concisely about a complex issue & presents the issuing body's philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.
+   - **White paper** (белая книга) is an authoritative report or guide that informs readers concisely about a complex issue & presents the issuing body’s philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.
    - **Yellow paper** (жёлтая книга) is a document containing research that has not yet been formally accepted or published in an academic journal. It is synonymous to the more widely used term preprint.
 
 
@@ -29,7 +29,7 @@
    - официальная документация, содержащая описание решения;
    - справочный документ для корпоративных клиентов.
 
-A **white paper** is an authoritative report or guide that informs readers concisely about a complex issue & presents the issuing body's philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.
+A **white paper** is an authoritative report or guide that informs readers concisely about a complex issue & presents the issuing body’s philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.
 
 The initial British term concerning a type of government‑issued document has proliferated, taking a somewhat new meaning in business. In business, a white paper is closer to a form of marketing presentation, a tool meant to persuade customers & partners & promote a product or viewpoint. White papers may be considered grey literature.
 
@@ -44,7 +44,7 @@ The initial British term concerning a type of government‑issued document has p
 
 
 ### In government
-The term white paper originated with the British government, & many point to the Churchill White Paper of 1922 as the earliest well‑known example under this name. Gertrude Bell, the British explorer & diplomat, was the first woman to author a White Paper. Her 149 page report was entitled, «Review of the Civil Administration of Mesopotamia,» & was presented to Parliament in 1920. In British government it is usually the less extensive version of the so‑called blue book, both terms being derived from the colour of the document's cover.
+The term white paper originated with the British government, & many point to the Churchill White Paper of 1922 as the earliest well‑known example under this name. Gertrude Bell, the British explorer & diplomat, was the first woman to author a White Paper. Her 149 page report was entitled, «Review of the Civil Administration of Mesopotamia,» & was presented to Parliament in 1920. In British government it is usually the less extensive version of the so‑called blue book, both terms being derived from the colour of the document’s cover.
 
 White papers are a «… tool of participatory democracy … not [an] unalterable policy commitment.» «White papers have tried to perform the dual role of presenting firm government policies while at the same time inviting opinions upon them.»
 
@@ -67,7 +67,7 @@ White papers are considered to be a form of content marketing or inbound marketi
 
 There are, essentially, three main types of commercial white papers:
 
-   - Backgrounder: Describes the technical or business benefits of a certain vendor's offering; either a product, service, or methodology. This type of white paper is best used to supplement a product launch, argue a business case, or support a technical evaluation at the bottom of the sales funnel.
+   - Backgrounder: Describes the technical or business benefits of a certain vendor’s offering; either a product, service, or methodology. This type of white paper is best used to supplement a product launch, argue a business case, or support a technical evaluation at the bottom of the sales funnel.
    - Numbered list: Presents a set of tips, questions, or points about a certain business issue. This type is best used to get attention with new or provocative views, or cast aspersions on competitors.
    - Problem/solution: Recommends a new, improved solution to a nagging business problem. This type is best used to generate leads at the top of the sales funnel, build mind share, or inform & persuade stakeholders, building trust & credibility in the subject.
 
@@ -94,7 +94,7 @@ A green paper released by the European Commission is a discussion document inten
 <p style="page-break-after:always"> </p>
 
 ## Синяя книга
-A **blue book** or **bluebook** is an almanac, buyer's guide or other compilation of statistics & information. The term dates back to the 15th century, when large blue velvet‑covered books were used for record‑keeping by the Parliament of the United Kingdom. The Oxford English Dictionary first records such a usage in 1633. The term has a variety of other meanings.
+A **blue book** or **bluebook** is an almanac, buyer’s guide or other compilation of statistics & information. The term dates back to the 15th century, when large blue velvet‑covered books were used for record‑keeping by the Parliament of the United Kingdom. The Oxford English Dictionary first records such a usage in 1633. The term has a variety of other meanings.
 
 **Academia & education**
 
@@ -102,7 +102,7 @@ A **blue book** or **bluebook** is an almanac, buyer's guide or other compilatio
    - Blue book exam, a type of test involving writing an essay, typically into a pamphlet — traditionally blue colored — called a «blue book»
 
 **Construction**  
-The Blue Book of Building & Construction, was a yellow pages‑like buyers guide of company information targeted towards commercial construction, first published in 1913. The guide contains information on architects, contractors, manufacturers, suppliers, vendors, & other companies relevant to the commercial bidding & build process. The hardbound book was retired in 2016 & subsequently replaced by a bi‑annual regional magazine called the Who's Who in Building & Construction. The prior content of the hard bound book is now completely online & called The Blue Book Network. The company which publishes the information is Jefferson Valley, New York‑based Contractor's Register.
+The Blue Book of Building & Construction, was a yellow pages‑like buyers guide of company information targeted towards commercial construction, first published in 1913. The guide contains information on architects, contractors, manufacturers, suppliers, vendors, & other companies relevant to the commercial bidding & build process. The hardbound book was retired in 2016 & subsequently replaced by a bi‑annual regional magazine called the Who’s Who in Building & Construction. The prior content of the hard bound book is now completely online & called The Blue Book Network. The company which publishes the information is Jefferson Valley, New York‑based Contractor’s Register.
 
 **Computing & technology**
 
@@ -112,7 +112,7 @@ The Blue Book of Building & Construction, was a yellow pages‑like buyers guide
    - Blue Book protocol, the file transfer protocol of the Coloured Book protocols
    - The Java Virtual Machine specification
    - Blue Books, spacecraft data & telemetry recommendations made by the [Consultative Committee for Space Data Systems](ccsds.md)
-   - Ingo Wegener's Blue Book, an influential textbook in circuit complexity formally titled The Complexity of Boolean Functions (1987)
+   - Ingo Wegener’s Blue Book, an influential textbook in circuit complexity formally titled The Complexity of Boolean Functions (1987)
 
 **Government & finance**
 
@@ -141,7 +141,7 @@ The Blue Book of Building & Construction, was a yellow pages‑like buyers guide
       - Oregon Blue Book
       - Tennessee Blue Book
       - Wisconsin Blue Book
-   - Blue Book of Denver society, first called the Who's Who in Denver Society by Louise Sneed Hill
+   - Blue Book of Denver society, first called the Who’s Who in Denver Society by Louise Sneed Hill
    - The Blue Book of the John Birch Society, a transcript of the founding meeting of the John Birch Society
 
 **Transportation**

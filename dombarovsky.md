@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Ясный** — Russian term with no analogues in English. **Dombarovsky Air Base** — literal translation to English.</small>
 
-**Dombarovsky** is a military airbase 5 km northwest of the village of Dombarovsky, near Yasny in Russia's Orenburg Oblast. Operated by the Soviet Air Forces and later by the Russian Air Force, it hosts fighter interceptor squadrons and an [ICBM](icbm.md) base (which has been adapted for commercial satellite launches).
+**Dombarovsky** is a military airbase 5 km northwest of the village of Dombarovsky, near Yasny in Russia’s Orenburg Oblast. Operated by the Soviet Air Forces and later by the Russian Air Force, it hosts fighter interceptor squadrons and an [ICBM](icbm.md) base (which has been adapted for commercial satellite launches).
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

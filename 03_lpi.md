@@ -18,7 +18,7 @@ The **Lunar & Planetary Institute (LPI)** is a scientific research institute ded
 
 ## LPI, comments
 
-The LPI provides support for a number of NASA's community analysis groups, including:
+The LPI provides support for a number of NASA’s community analysis groups, including:
 
    - Curation & Analysis Planning Team for Extraterrestrial Materials (CAPTEM) - responsible for the care & distribution of all extraterrestrial samples collected by NASA including the Apollo lunar samples, materials from sample return missions, & solid materials of the solar system
    - Lunar Exploration Analysis Group (LEAG) - responsible for analyzing scientific, technical, commercial, & operational issues associated with lunar exploration in response to requests by NASA

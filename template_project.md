@@ -30,7 +30,7 @@
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*RU*|
-|:--|:--:|:--|:--|
+|:--|:--|:--|:--|
 | … || … | … |
 
 </small>
@@ -67,7 +67,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*RU*|
-|:--|:--:|:--|:--|
+|:--|:--|:--|:--|
 | … || … | … |
 
 </small>

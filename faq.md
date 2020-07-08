@@ -5,12 +5,12 @@
 
 ---
 
-**First of all, all content in this very database (the one that was created by contributors themselves) is under the [CC0 ⎆](https://creativecommons.org/choose/zero/) license.** But there is a lot of information obtained from the numberless sources all around the world and Internet that have been licensed under the different licenses. There is no some kind of classified information. Obviously, that means you are able to use it for your personal deeds without asking anybody, but if you're about to distribute it, sell it or whatever than you better to check if it's legal.
+**First of all, all content in this very database (the one that was created by contributors themselves) is under the [CC0 ⎆](https://creativecommons.org/choose/zero/) license.** But there is a lot of information obtained from the numberless sources all around the world and Internet that have been licensed under the different licenses. There is no some kind of classified information. Obviously, that means you are able to use it for your personal deeds without asking anybody, but if you’re about to distribute it, sell it or whatever than you better to check if it’s legal.
 
-We're trying to follow the rules of fair use and to keep the information true, but sadly we're only human, we were born to die. And occasionally you may see some Russian words. It's due to it was the first language of this DB.
+We’re trying to follow the rules of fair use and to keep the information true, but sadly we’re only human, we were born to die. And occasionally you may see some Russian words. It’s due to it was the first language of this DB.
 
 **Q: For what?**  
-**A:** Started as just another pocket notebook from tiny spacecraft engineering group of some space & spacecraft brief facts which have to always be with you. Now it's for science, for future planning and for spacecraft creating.
+**A:** Started as just another pocket notebook from tiny spacecraft engineering group of some space & spacecraft brief facts which have to always be with you. Now it’s for science, for future planning and for spacecraft creating.
 
 **Q: For whom?**  
 **A:** For scientists, for engineers and for sympathetic living beings. For those who wants to create, to plan and to be in a stream.
@@ -39,12 +39,12 @@ Notes and requirements: (in historical order)
    1. Long digits are divided with the small unbreakable space “ ”, for example: 1 234 567.89 W.
    1. Tables. Use the left align. Try to fit lists in a single line.
 
-Special symbols have to be used: …°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→ ✘☐☑├┕┆←↑→↓↔↕↖↗↘↙ ªⁱⁿº⁰¹²³⁴⁵⁶⁷⁸⁹ ⁺⁻⁼⁽⁾₀₁₂₃₄₅₆₇₈₉ ₊₋₌₍₎ₐₑₒₓₔₕₖₗₘₙₚₛₜ №©®™ ±×÷¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞πØ∅∑∞√∛∜‰ ⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ αβγδεζηθικλμνξο03C0πρςστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡ΢ΣΤΥΦΧΨΩ ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇ ❶❷❸❹❺❻❼❽❾❿➀➁➂➃➄➅➆➇➈➊➋➌➍➎➏➐➑➒➓ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛ ♳♴♵♶♷♸♹ etc.
+Special symbols have to be used: …°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→ ✘☐☑🗹├┕┆←↑→↓↔↕↖↗↘↙ ªⁱⁿº⁰¹²³⁴⁵⁶⁷⁸⁹ ⁺⁻⁼⁽⁾₀₁₂₃₄₅₆₇₈₉ ₊₋₌₍₎ₐₑₒₓₔₕₖₗₘₙₚₛₜ №©®™ ±×÷¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞πØ∅∑∞√∛∜‰ ⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ αβγδεζηθικλμνξο03C0πρςστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡ΢ΣΤΥΦΧΨΩ ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇ ❶❷❸❹❺❻❼❽❾❿➀➁➂➃➄➅➆➇➈➊➋➌➍➎➏➐➑➒➓ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛ ♳♴♵♶♷♸♹ etc.
 
 
 
 ## Sources
-Pretty far from what they call the proper list of sources but that's all we have.
+Pretty far from what they call the proper list of sources but that’s all we have.
 
    1. <https://3dnews.ru/952315> <small>— [archive ❐](f/archive/20170524_1.pdf) of 2019.01.27)*</small>
    1. <https://www.academia.edu>

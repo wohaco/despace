@@ -10,7 +10,7 @@
 
 **Venera 11** (**Венера-11**) and **Venera 12** (**Венера-12**) were Soviet unmanned space mission parts to Venus.
 
-![](f/project/venera_11_12/pic02.jpg)
+![](f/project/v/venera_11_12/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -49,7 +49,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
@@ -79,11 +79,11 @@ Venera 11 was launched on 9 September 1978 at 03:25:39 UTC. Venera 12 was launch
 
 Venera 11 separated from Orbiter on December 23, 1978, Venera 12 on December 19. Despite the fact that Venera 12 was launched later, the separation of the lander and its landing on the surface were faster than Venera 11, as Venera 12 reached a faster trajectory with the help of correction maneuvers.
 
-Both lander entered the atmosphere of Venus at a speed of 11.2 m/s 2 days after separation from the orbiters, descended for one hour and landed at a speed of about 7 — 8 m/s on the day side of the planet ([EVN‑006](venus.md)). Lander Venera 11 worked on the surface of the planet for 95 min. The Venera 12's lander transmitted from the planet's surface for 110 min until the Orbiter went below the horizon, so it is not known when it failed.
+Both lander entered the atmosphere of Venus at a speed of 11.2 m/s 2 days after separation from the orbiters, descended for one hour and landed at a speed of about 7 — 8 m/s on the day side of the planet ([EVN‑006](venus.md)). Lander Venera 11 worked on the surface of the planet for 95 min. The Venera 12’s lander transmitted from the planet’s surface for 110 min until the Orbiter went below the horizon, so it is not known when it failed.
 
-After performing the withdrawal maneuver, each space station flew near Venus at a distance of about 35 000 km ([EVN‑005](venus.md)), transmitting data to Earth from its lander throughout the descent and work on the planet's surface ([EVN‑092](venus.md)). The last signals from space stations were received in January 1980 (Venera 11) and in March 1981 (Venera 12).
+After performing the withdrawal maneuver, each space station flew near Venus at a distance of about 35 000 km ([EVN‑005](venus.md)), transmitting data to Earth from its lander throughout the descent and work on the planet’s surface ([EVN‑092](venus.md)). The last signals from space stations were received in January 1980 (Venera 11) and in March 1981 (Venera 12).
 
-![](f/project/venera_11_12/pic03.jpg)
+![](f/project/v/venera_11_12/pic03.jpg)
 
 **Results**
 
@@ -123,7 +123,7 @@ The gas chromatograph made eight measurements between 42 km and the surface wi
 
 The study of optical spectra revealed a wide absorption band, which has not yet been identified with known gases.
 
-The Venera 12's x-ray fluorescence spectrometer measured cloud particles at an altitude of 64 to 49 km, and then failed to withstand the high ambient temperature. It did not find sulfur in cloud inclusions (at the upper detection threshold < 0.1 mg/m³), but found chlorine (0.43 ± 0.06 mg/m³). Also, with its help, it was possible to completely eliminate mercury at a concentration of up to one billionth ([EVN‑018](venus.md)).
+The Venera 12’s x-ray fluorescence spectrometer measured cloud particles at an altitude of 64 to 49 km, and then failed to withstand the high ambient temperature. It did not find sulfur in cloud inclusions (at the upper detection threshold < 0.1 mg/m³), but found chlorine (0.43 ± 0.06 mg/m³). Also, with its help, it was possible to completely eliminate mercury at a concentration of up to one billionth ([EVN‑018](venus.md)).
 
 During the descent at an altitude of 32 to 2 km, Venera 11 and Venera 12 registered a large number of electromagnetic pulses similar to distant thunderstorms on Earth ([EVN‑012](venus.md)). The activity was higher in the case of Venera 11 than in the case of Venera 12, and the intensity decreased toward the surface. After landing, Venera 11 did not register such pulses, but one intense burst was noted by Venera 12 already on the surface. The microphones were in saturation mode due to aerodynamic noise during descent and did not register acoustic noise on the surface.
 
@@ -219,14 +219,14 @@ The spacecraft were generally identical to the preceding Venera 9 and 10 (Venera
 |:--|:--|
 | Launch mass of Venera 11 | 4 450 kg |
 | Launch mass of Venera 12 | 4 461 kg |
-| Flyby spacecraft's mass (without fuel) | 2 127 kg |
+| Flyby spacecraft’s mass (without fuel) | 2 127 kg |
 
-| Lander's mass (with atmosphere entry system) | 1 600 kg |
-| Lander's mass | 731 kg |
+| Lander’s mass (with atmosphere entry system) | 1 600 kg |
+| Lander’s mass | 731 kg |
 
 The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The central section of the bus has a diameter of about one meter and contained propellant. The main engine (KRD-425A) is encircled by a conical instrument compartment with the diameter of 2.35 m at the base.
 
-![](f/project/venera_11_12/pic01.jpg)
+![](f/project/v/venera_11_12/pic01.jpg)
 
 
 
@@ -262,4 +262,4 @@ The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The ce
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_11>
    1. <https://en.wikipedia.org/wiki/Venera_12>
-   1. <https://galspace.spb.ru/index499.html> *(архив [от 2019.12.21 ❐](f/project/venera_11_12/doc001.pdf))*
+   1. <https://galspace.spb.ru/index499.html> *(архив [от 2019.12.21 ❐](f/project/v/venera_11_12/doc001.pdf))*

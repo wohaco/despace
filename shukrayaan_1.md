@@ -9,7 +9,7 @@
 
 **Shukrayaan-1** (शुक्रयान-१ or Venus craft) is a proposed orbiter to Venus by the Indian Space Research Organisation to study the surface and atmosphere of Venus.
 
-[![](f/project/shukrayaan_1/pic01_thumb.jpg)](f/project/shukrayaan_1/pic01.jpg)
+[![](f/project/s/shukrayaan_1/pic01_thumb.jpg)](f/project/s/shukrayaan_1/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -41,7 +41,7 @@
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -86,7 +86,7 @@ Collaborative payloads: India/Germany: 1, India/Sweden: 1</mark>
    - Investigating Venusian Ionosphere ([EVN‑096](venus.md)).
 
 |*Indian Payloads selected*|*Surface/<br>Subsurface*|*Atmospheric*|*Ionospheric*|*Sun-Venus<br> Environment*|
-|:--|:--:|:--:|:--:|:--:|
+|:--|:--|:--|:--|:--|
 | Venus L&S Band Synthetic Aperture Radar ([SAR](synthetic_aperture_radar.md))| × |  |  |  |
 |Advanced Radar for Topside Ionosphere and subsurface sounding (VARTISS) (HF radar) | × |  | × | × |
 | VSEAM (Surface Emissivity) | × | × |  |  |

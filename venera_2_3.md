@@ -10,7 +10,7 @@
 
 **Venera 2** (**Венера-2**) and **Venera 3** (**Венера-3**) were a Soviet spacecrafts intended to explore Venus. A 3MV-4 spacecraft launched as part of the Venera programme, it failed to return data after flying past Venus. Venera 2 flew at a distance of 24 000 km from Venus, Venera 3, probably landed on Venus. In addition to data on space and near-planet space in the year of the calm Sun, scientific data on Venus itself was not received.
 
-[![](f/project/venera_2_3/pic01_thumb.jpg)](f/project/venera_2_3/pic01.jpg)
+[![](f/project/v/venera_2_3/pic01_thumb.jpg)](f/project/v/venera_2_3/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -66,13 +66,13 @@ Venera 2 was launched by a Molniya carrier rocket, flying from Site 31/6 at the 
 
 The spacecraft made its closest approach to Venus at 1966.02.27 02:52 UTC, at a distance of 23 810 km ([EVN‑005](venus.md)).
 
-During the flyby, all of Venera 2's instruments were activated, requiring that radio contact with the spacecraft be suspended. The spacecraft was to have stored data using onboard recorders, and then transmitted it to Earth once contact was restored. Following the flyby the spacecraft failed to reestablish communications with the ground. It was declared lost on 4 March, 1966. An investigation into the failure determined that the spacecraft had overheated due to a radiator malfunction.
+During the flyby, all of Venera 2’s instruments were activated, requiring that radio contact with the spacecraft be suspended. The spacecraft was to have stored data using onboard recorders, and then transmitted it to Earth once contact was restored. Following the flyby the spacecraft failed to reestablish communications with the ground. It was declared lost on 4 March, 1966. An investigation into the failure determined that the spacecraft had overheated due to a radiator malfunction.
 
 **Venera 3**
 
 Venera 3 was launched on 16 November 1965 at 04:19 UTC from Baikonur.
 
-The spacecraft's initial trajectory missed Venus by 60 550 km and a course correction manoeuvre was carried out on 26 December 1965 which brought the spacecraft onto a collision course with the planet ([EVN‑005](venus.md)). Contact with the spacecraft was lost on 15 February 1966 probably due to overheating.
+The spacecraft’s initial trajectory missed Venus by 60 550 km and a course correction manoeuvre was carried out on 26 December 1965 which brought the spacecraft onto a collision course with the planet ([EVN‑005](venus.md)). Contact with the spacecraft was lost on 15 February 1966 probably due to overheating.
 
 The lander crashed on Venus on 1 March 1966, making Venera 3 the first lander to hit the surface of another planet.
 
@@ -129,7 +129,7 @@ Venera 3 comprised an lander, designed to enter the Venus atmosphere and parachu
 
 **Orbital Compartment**
 
-The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft's control electronics, radio transmitters and receivers, batteries, astro-orientation equipment, and so on. The compartment was pressurized to around 100 kPa and thermally controlled to simulate earth-like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions (on Zond 1 the module depressurized in flight, severely damaging the spacecraft's systems).
+The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft’s control electronics, radio transmitters and receivers, batteries, astro-orientation equipment, and so on. The compartment was pressurized to around 100 kPa and thermally controlled to simulate earth-like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions (on Zond 1 the module depressurized in flight, severely damaging the spacecraft’s systems).
 
 Mounted on the outside of the Orbital Compartment were two solar panels which supplied power to the spacecraft. They were folded against the body of the spacecraft during launch and were only deployed when the spacecraft was already on its interplanetary trajectory. On the ends of each solar panel was a hemispherical radiator which radiated excess heat from the orbital compartment into through a coolant loop.
 

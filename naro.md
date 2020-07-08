@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Naro** — English term with no analogues in Russian. **Наро** — literal translation to Russian.</small>
 
-**Naro Space Center** is a South Korean spaceport in South Jeolla's Goheung County, operated by the state-run [Korea Aerospace Research Institute](03_kari.md).
+**Naro Space Center** is a South Korean spaceport in South Jeolla’s Goheung County, operated by the state-run [Korea Aerospace Research Institute](03_kari.md).
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

@@ -55,7 +55,7 @@
 
 
 ## Применяемость
-   1. Space Shuttle — Orbiter's vernier attitude control and orbit adjust thruster
+   1. Space Shuttle — Orbiter’s vernier attitude control and orbit adjust thruster
 
 
 

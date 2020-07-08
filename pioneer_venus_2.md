@@ -7,9 +7,9 @@
 
 > <small>*Terms:* **Pioneer Venus Multiprobe (Pioneer Venus 2, Pioneer 13)** — English term with no analogues in Russian. **Пионер‑Венера‑2** — rough Russian equivalent.</small>
 
-**The Pioneer Venus Multiprobe**, also known as *Pioneer Venus 2* or *Pioneer 13*, was a spacecraft launched in 1978 to explore Venus as part of NASA's Pioneer program. This part of the mission included a spacecraft bus which was launched from Earth carrying one large and three smaller probes, which after separating penetrated the Venusian atmosphere at a different location, returning data as they descended into the planet's thick atmosphere. The entry occurred on December 9, 1978.
+**The Pioneer Venus Multiprobe**, also known as *Pioneer Venus 2* or *Pioneer 13*, was a spacecraft launched in 1978 to explore Venus as part of NASA’s Pioneer program. This part of the mission included a spacecraft bus which was launched from Earth carrying one large and three smaller probes, which after separating penetrated the Venusian atmosphere at a different location, returning data as they descended into the planet’s thick atmosphere. The entry occurred on December 9, 1978.
 
-[![](f/project/pioneer_venus_2/pic01_thumb.jpg)](f/project/pioneer_venus_2/pic01.jpg) [![](f/project/pioneer_venus_2/pic02_thumb.jpg)](f/project/pioneer_venus_2/pic02.jpg)
+[![](f/project/p/pioneer_venus_2/pic01_thumb.jpg)](f/project/p/pioneer_venus_2/pic01.jpg) [![](f/project/p/pioneer_venus_2/pic02_thumb.jpg)](f/project/p/pioneer_venus_2/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **D** — distant exploration; **C** — contact exploration; **F** — fly‑by; **H** — manned flight; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: model, draft.|  |D|C|F|||
+|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
 |EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
 |EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
 |EVN‑006|T|Exploration: from surface.|  ||C||||
@@ -59,7 +59,7 @@ Achieved targets & investigations:
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
 |EVN‑019||Atmosphere: energetic balance.|  |D|||||
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||
-|EVN‑042||History & causes of the planet's volcanic & tectonic evolution.|  |D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑075||Atmosphere: clouds, their nature.|  |D||F|||
@@ -81,7 +81,7 @@ Prior to the Multiprobe reaching Venus, the four probes were deployed from the m
 
 All probes entered the venusian atmosphere within 11 minutes of each other, and descended toward the surface over approximately an hour-long period, sending back data to the Earth ([EVN‑003](venus.md)). Two of the probes survived impact, and one of them transmitted data for 67 minutes before being crushed ([EVN‑006](venus.md)). These probes confirmed clouds composed mainly of sulfuric acid droplets ([EVN‑018](venus.md)). The Bus entered the atmosphere at 20:21:52 UTC, and returned its last signal at 20:22:55 from an altitude of 110 km.
 
-[![](f/project/pioneer_venus_2/pic04_thumb.jpg)](f/project/pioneer_venus_2/pic04.png)
+[![](f/project/p/pioneer_venus_2/pic04_thumb.jpg)](f/project/p/pioneer_venus_2/pic04.png)
 
 **Scientific results**
 
@@ -104,11 +104,11 @@ The objective of the Bus was to study the structure ([EVN‑017](venus.md)) and 
 
 One of the main experiments conducted by the probes was temperature — it is necessary to clarify the previously measured temperature values to build a model of the atmosphere of Venus ([EVN‑074](venus.md)).
 
-All four probes were to enter the planet's atmosphere at the same time and conduct parallel probes at four points as far apart as possible. The radio signals from probes were used to characterize the winds, turbulence, and propagation in the atmosphere.
+All four probes were to enter the planet’s atmosphere at the same time and conduct parallel probes at four points as far apart as possible. The radio signals from probes were used to characterize the winds, turbulence, and propagation in the atmosphere.
 
 The instrument composition of the large probe included a neutral particle mass spectrometer, a gas chromatograph, temperature, pressure, acceleration sensors, solar and infrared radiometers, a cloud particle spectrometer and a nephelometer. Three small probes, weighing 90 kg each, using temperature sensors, pressure, acceleration, nephelometers and balance radiometer to study the radiation balance in the atmosphere.
 
-[![](f/project/pioneer_venus_2/pic06_thumb.jpg)](f/project/pioneer_venus_2/pic06.jpg)
+[![](f/project/p/pioneer_venus_2/pic06_thumb.jpg)](f/project/p/pioneer_venus_2/pic06.jpg)
 
 **HS-507 Bus**
 
@@ -140,7 +140,7 @@ With no heat shield or parachute, the Bus made upper atmospheric measurements wi
 ## Spacecraft
 **HS-507 Bus**
 
-The Pioneer Venus Multiprobe Bus was constructed by the Hughes Aircraft Company, built around the HS-507 Bus. It was cylindrical in shape, with a diameter of 2.5 m and a mass of 290 kg. Unlike the probes, which did not begin making direct measurements until they had decelerated lower in the atmosphere, the Bus returned data on Venus' upper atmosphere.
+The Pioneer Venus Multiprobe Bus was constructed by the Hughes Aircraft Company, built around the HS-507 Bus. It was cylindrical in shape, with a diameter of 2.5 m and a mass of 290 kg. Unlike the probes, which did not begin making direct measurements until they had decelerated lower in the atmosphere, the Bus returned data on Venus’ upper atmosphere.
 
 The Bus was targeted to enter the Venusian atmosphere at a shallow entry angle and transmit data until destruction by the heat of atmospheric friction ([EVN‑003](venus.md)).
 
@@ -148,7 +148,7 @@ The Bus was targeted to enter the Venusian atmosphere at a shallow entry angle a
 
 The spacecraft carried one large and three small atmospheric probes, designed to collect data as they descended into the atmosphere of Venus. The probes did not carry photographic instruments, and were not designed to survive landing. All four probes continued transmitting data until impact ([EVN‑003](venus.md)); however, one survived and continued to transmit data from the surface ([EVN‑006](venus.md)).
 
-[![](f/project/pioneer_venus_2/pic05_thumb.png)](f/project/pioneer_venus_2/pic05.png)
+[![](f/project/p/pioneer_venus_2/pic05_thumb.png)](f/project/p/pioneer_venus_2/pic05.png)
 
 **Large probe**
 
@@ -166,7 +166,7 @@ The small probes were each targeted at different parts of the planet and were na
    - The Night probe entered on the night side.
    - The Day probe entered well into the day side, and was the only one of the four probes which continued to send radio signals back after impact, for over an hour.
 
-![](f/project/pioneer_venus_2/pic03.png)
+![](f/project/p/pioneer_venus_2/pic03.png)
 
 
 

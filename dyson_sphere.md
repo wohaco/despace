@@ -13,7 +13,7 @@
 
 | <small>*Оболочка Дайсона (англ. Dyson shell),<br> вариант сферы Дайсона, с радиусом<br> в 1 астрономическую единицу*</small> | <small>*Кольцо Нивена*</small> | <small>*Сфера Дайсона — вариант с<br> поверхностями постоянного абсолютного<br> значения вектора ускорения свободного<br> падения (модель показана с сечением)*</small> |
 |:--|:--|:--|
-| [![](f/project/ais/dyson_sphere_pic1_thumb.jpg)](f/project/ais/dyson_sphere_pic1.png) | [![](f/project/ais/dyson_sphere_pic2_thumb.jpg)](f/project/ais/dyson_sphere_pic2.jpg) | [![](f/project/ais/dyson_sphere_pic3_thumb.jpg)](f/project/ais/dyson_sphere_pic3.png) |
+| [![](f/project/a/ais/dyson_sphere_pic1_thumb.jpg)](f/project/a/ais/dyson_sphere_pic1.png) | [![](f/project/a/ais/dyson_sphere_pic2_thumb.jpg)](f/project/a/ais/dyson_sphere_pic2.jpg) | [![](f/project/a/ais/dyson_sphere_pic3_thumb.jpg)](f/project/a/ais/dyson_sphere_pic3.png) |
 
 
 

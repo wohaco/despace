@@ -44,7 +44,7 @@
 В конце 1980‑х начали применяться широкопольные датчики на основе ПЗС‑матриц, которые сравнивают полученное изображение звёздного неба с имеющимся в памяти звёздным каталогом. Датчик может быть как автономным прибором, содержащим блок обработки данных, так и использовать для этой цели вычислительные мощности [бортовой ЭВМ](obc.md).
 
 |*°*|*[Фирма](contact.md)*|*Модели ЗД (масса, кг)*|
-|:--:|:--|:--|
+|:--|:--|:--|
 |**EU**| [Leonardo](leonardo.md) | [A-STR](a_str.md) (3.55) ┊ [AA-STR](aa_str.md) (2.6)  |
 || [Jena‑Optronik](03_jenaoptronik.md) | [ASTRO 15](astro_15.md) (6.15) ┊ [ASTRO 10](astro_10.md) (3.8) ┊ [ASTRO APS](astro_aps.md) (2)  |
 || [Sodern](03_sodern.md) | [Hydra](hydra.md) (4.6) ┊ [Horus](horus.md) (1.6) ┊ [Auriga](auriga.md) (0.21)<br> **`Исторические:`** *[SED26](sed26.md) (3.3)*  |
@@ -75,12 +75,12 @@
    1. построения и поддержания ПСО на [КА](sc.md), где условия работы [научной аппаратуры](oe.md) предполагают использование ПСО в качестве рабочей ориентации;
    1. построения и поддержания ПСО в нештатных ситуациях, в случаях, когда парирование нештатной ситуации в режиме инерциальной ориентации невозможно.
 
-There are various types of sun sensors, which differ in their technology and performance characteristics. Sun presence sensors provide a binary output, indicating when the sun is within the sensor's field of view. Analog and digital sun sensors, in contrast, indicate the angle of the sun by continuous and discrete signal outputs, respectively.
+There are various types of sun sensors, which differ in their technology and performance characteristics. Sun presence sensors provide a binary output, indicating when the sun is within the sensor’s field of view. Analog and digital sun sensors, in contrast, indicate the angle of the sun by continuous and discrete signal outputs, respectively.
 
 In typical sun sensors, a thin slit at the top of a rectangular chamber allows a line of light to fall on an array of photodetector cells at the bottom of the chamber. A voltage is induced in these cells, which is registered electronically. By orienting two sensors perpendicular to each other, the direction of the sun can be fully determined. Often, multiple sensors will share processing electronics.
 
 |*°*|*[Фирма](contact.md)*|*Модели СД (масса, кг)*|
-|:--:|:--|:--|
+|:--|:--|:--|
 |**EU**| [Bradford](03_bradford_eng.md) | [FSS](fss.md) (0.05 ‑ 0.375) ┊ [CSS](css.md) (0.275) ┊ [CoSS](coss.md) (0.015 ‑ 0.024)  |
 || [Jena‑Optronik](03_jenaoptronik.md) | [FSS](fss_jo.md) (0.65)  |
 || [Solar MEMS](03_solarmems.md) | [NanoSSOC-A60](nssoc_a60.md) () ┊ [NanoSSOC-D60](nssoc_d60.md) () ┊ [SSOC-A60](ssoc_a60.md) () ┊ [SSOC-D60](ssoc_d60.md) ()  |
@@ -103,7 +103,7 @@ In typical sun sensors, a thin slit at the top of a rectangular chamber allows a
 **Кубсаты:**
 
 |*°*|*[Фирма](contact.md)*|*Модели СД для кубсатов (масса, кг)*|
-|:--:|:--|:--|
+|:--|:--|:--|
 |**US**| [Space Micro](space_micro.md) | [MSS](mss_sm.md) (0.036) ┊ [CSS](css_sm.md) (0.02)  |
 
    - <http://www.newspaceglobal.com/>

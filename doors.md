@@ -39,7 +39,7 @@ DOORS was originally published by Quality Systems and Software Ltd (QSS) in 1991
 ## DOORS Extension Language
 Rational DOORS has its own programming language called DOORS eXtension Language (DXL).
 
-DOORS Extension Language (DXL) is a scripting language used to extend the functionality of IBM's Rational DOORS. This programming language is somewhat similar to C and C++. This language is specific to DOORS, and it has its own syntax, declaration, a forum to discuss the development, in addition to the specific reference manuals. DXL scripts were utilized to help the users of DOORS. Much of the native DOORS GUI is written in DXL.
+DOORS Extension Language (DXL) is a scripting language used to extend the functionality of IBM’s Rational DOORS. This programming language is somewhat similar to C and C++. This language is specific to DOORS, and it has its own syntax, declaration, a forum to discuss the development, in addition to the specific reference manuals. DXL scripts were utilized to help the users of DOORS. Much of the native DOORS GUI is written in DXL.
 
 DXL is used in the client‑server based "DOORS Classic"; it is not used in the newer web‑based "DOORS Next Generation".
 

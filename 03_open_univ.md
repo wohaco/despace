@@ -8,7 +8,7 @@
 |Tel| +44(300)303-02-66, fax: … |
 |Etc| … |
 
-**The Open University (OU)** is a public research university, & the biggest university in the UK for undergraduate education. The majority of the OU's undergraduate students are based in the United Kingdom & principally study off‑campus; many of its courses (both undergraduate & postgraduate) can also be studied anywhere in the world.
+**The Open University (OU)** is a public research university, & the biggest university in the UK for undergraduate education. The majority of the OU’s undergraduate students are based in the United Kingdom & principally study off‑campus; many of its courses (both undergraduate & postgraduate) can also be studied anywhere in the world.
 
 **Опыт кооперации.**  
 …

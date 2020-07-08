@@ -32,7 +32,7 @@ TORs should include:
 
 The terms of reference are created during the earlier stages of project management by the founders of the project in question, immediately after the approval of a project business case. They are documented by the project manager and presented to the project sponsor or sponsors for approval. Once the terms have been approved, the members of the project team have a clear definition of the scope of the project. They will then be ready to progress with implementing the remaining project deliverables.
 
-This phrase "terms of reference" often refers to the task(s) assigned to a consultant or advisor. Such a consultant or advisor may be engaged via a contract with general terms of engagement that also incorporate the terms of reference that specifically describe the consultant's task.
+This phrase "terms of reference" often refers to the task(s) assigned to a consultant or advisor. Such a consultant or advisor may be engaged via a contract with general terms of engagement that also incorporate the terms of reference that specifically describe the consultant’s task.
 
 
 
@@ -193,7 +193,7 @@ Please note these are the common sections of a TOR template. They can be changed
       - и пр.
 
 |*Замечания*|*Повсеместное<br> качество*|*Низкое<br> качество*|*Крайне<br> низкое<br> качество*|
-|:--|:--:|:--:|:--:|
+|:--|:--|:--|:--|
 |**Критичные**| ≤ 0.05 | 0.05 ‑ 0.3 | ≥ 0.3 |
 |**Некритичные**| ≤ 0.1 | 0.1 ‑ 1 | ≥ 1 |
 
@@ -263,7 +263,7 @@ Please note these are the common sections of a TOR template. They can be changed
 |*Sections & pages*|
 |**`Documents:`**<br> … |
 
-**Documents:**
+**Doc:**
 
    - TOR:
       1. TOR. [Sample #1 ❐](f/doc/tor_sample1.pdf), [Template #1 ❐](f/doc/tor_template1.doc).

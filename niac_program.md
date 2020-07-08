@@ -11,7 +11,7 @@
 
 Helds an annual symposium since 2012: <https://www.nasa.gov/content/niac-symposium>
 
-The NIAC Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs — radically better or entirely new aerospace concepts — while engaging America's innovators & entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day “Change the Possible” in aerospace.
+The NIAC Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs — radically better or entirely new aerospace concepts — while engaging America’s innovators & entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day “Change the Possible” in aerospace.
 
 **NIAC studies:**
 
@@ -37,7 +37,7 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 |:--|:--|:--|:--|
 | Adams, Robert | Pulsed Fission‑Fusion (PuFF) Propulsion System | NASA Marshall SFC, AL 35812 | 2013 Ph.I |
 | Adams, Robert | Pulsed Fission‑Fusion (PuFF) Propulsion Concept | NASA Marshall SFC, Huntsville, AL 35812‑0001 | 2018 Ph.II |
-| Aghamohammadi, Aliakbar | Shapeshifters from Science Fiction to Science Fact: Globetrotting from Titan's Rugged Cliffs to its Deep Seafloors | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2018 Ph.I |
+| Aghamohammadi, Aliakbar | Shapeshifters from Science Fiction to Science Fact: Globetrotting from Titan’s Rugged Cliffs to its Deep Seafloors | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2018 Ph.I |
 | Agogino, Adrian (Fellow) & SunSpiral, Vytas (Co‑I) (Ph.I) | Super Ball Bot — Structures for Planetary Landing & Exploration | [NASA ARC](03_arc.md), Moffett Field, CA 94035 | 2012 Ph.I |
 | Agogino, Adrian (Co‑I) & SunSpiral, Vytas (Fellow) (Ph.II) | Super Ball Bot — Structures for Planetary Landing & Exploration | [NASA ARC](03_arc.md), Moffett Field, CA 94035 | 2013 Ph.II |
 | Akin, David | Biobot: Innovative Offloading of Astronauts for More Effective Exploration | Univ. of Maryland, College Park, MD 20742‑0001 | 2018 Ph.I |
@@ -121,7 +121,7 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Kirtley, David (Ph.I) | A Plasma Aerocapture & Entry System for Manned Missions & Planetary Deep Space Orbiters | MSNW, LLC, Redmond, WA 98052‑3557 | 2012 Ph.I |
 | Kirtley, David (Ph.II) | Magnetoshell Aerocapture for Manned Missions & Planetary Deep Space Orbiters | MSNW, LLC, Redmond, WA, 98052‑3557 | 2016 Ph.II |
 | Kuhns, Matthew | Instant Landing Pads for Artemis Lunar Missions | Masten Space Systems Inc., Mojave, CA 93501‑1681 | 2020 Ph.I |
-| Kwiat, Paul | Entanglement‑assisted Communication System for NASA's Deep‑Space Missions: Feasibility Test & Conceptual Design | Univ. of Illinois at Urbana‑Champaign, Urbana, IL 61801 | 2011 Ph.I |
+| Kwiat, Paul | Entanglement‑assisted Communication System for NASA’s Deep‑Space Missions: Feasibility Test & Conceptual Design | Univ. of Illinois at Urbana‑Champaign, Urbana, IL 61801 | 2011 Ph.I |
 | Landis, Geoffrey | Venus Landsailing Rover | [NASA GRC](03_grc.md), Cleveland, OH 44135‑3127 | 2012 Ph.I |
 | Landis, Geoffrey | Power for Interstellar Fly‑by | [NASA GRC](03_grc.md), Cleveland, OH 44135‑3127 | 2019 Ph.I |
 | Lantoine, Gregory | MAGNETOUR: Surfing Planetary Systems on Electromagnetic & Multi‑Body Gravity Fields | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2012 Ph.I |
@@ -155,9 +155,9 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Nosanov, Jeffrey (Ph.I) | PERISCOPE: PERIapsis Subsurface Cave OPtical Explorer | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2014 Ph.I |
 | Nosanov, Jeffrey (Ph.II) | PERISCOPE: PERIapsis Subsurface Cave Optical Explorer | Nosanov Consulting, LLC, Bethesda, MD 20814‑5729 | 2015 Ph.II |
 | Oleson, Steven | Titan Submarine: Exploring the Depths of Kraken | [NASA GRC](03_grc.md), Cleveland, OH 44135‑3127 | 2014 Ph.I |
-| Oleson, Steven (Ph.I) | Triton Hopper: Exploring Neptune's Captured Kuiper Belt Object | COMPASS Conceptual Design Team, Cleveland, OH 44135‑3127 | 2015 Ph.I |
+| Oleson, Steven (Ph.I) | Triton Hopper: Exploring Neptune’s Captured Kuiper Belt Object | COMPASS Conceptual Design Team, Cleveland, OH 44135‑3127 | 2015 Ph.I |
 | Oleson, Steven (Ph.II) | Titan Submarine: Exploring the Depths of Kraken Mare | [NASA GRC](03_grc.md), Cleveland, OH 44135‑3127 | 2015 Ph.II |
-| Oleson, Steven | Triton Hopper: Exploring Neptune's Captured Kuiper Belt Object | [NASA GRC](03_grc.md), Cleveland, OH 44135‑3127 | 2018 Ph.II |
+| Oleson, Steven | Triton Hopper: Exploring Neptune’s Captured Kuiper Belt Object | [NASA GRC](03_grc.md), Cleveland, OH 44135‑3127 | 2018 Ph.II |
 | Ono, Masahiro | Comet Hitchhiker: Harvesting Kinetic Energy from Small Bodies to Enable Fast & Low‑Cost Deep Space Exploration | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2014 Ph.I |
 | Ono, Masahiro | Journey to the Center of Icy Moons | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2016 Ph.I |
 | Ono, Masahiro | Enceladus Vent Explorer | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2020 Ph.II |
@@ -209,7 +209,7 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Solomey, Nickolas | Astrophysics & Technical Lab Studies of a Solar Neutrino Spacecraft Detector | Wichita State Univ., Wichita, KS 67260‑9700 | 2019 Ph.II |
 | Sowers, George | Thermal Mining of Ices on Cold Solar System Bodies | Colorado School of Mines, Golden, CO 80401‑1833 | 2019 Ph.I |
 | Staehle, Robert | Interplanetary CubeSats: Opening the Solar System to a Broad Community at Lower Cost | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2011 Ph.I |
-| Staehle, Robert | Low‑Cost SmallSats to Explore to Our Solar System's Boundaries | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2019 Ph.I |
+| Staehle, Robert | Low‑Cost SmallSats to Explore to Our Solar System’s Boundaries | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2019 Ph.I |
 | Stoica, Adrian | Transformers For Extreme Environments | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2013 Ph.I |
 | Stoica, Adrian (Ph.I) | WindBots: persistent in‑situ science explorers for gas giants | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2015 Ph.I |
 | Stoica, Adrian (Ph.II) | Trans‑Formers for Lunar Extreme Environments: Ensuring Long‑Term Operations in Regions of Darkness & Low Temperatures | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2015 Ph.II |
@@ -226,7 +226,7 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Thibeault, Sheila | Radiation Shielding Materials Containing Hydrogen, Boron, & Nitrogen: Systematic Computational & Experimental Study | NASA LRC, Hampton, VA 23681‑2100 | 2011 Ph.I |
 | Thomas, Stephanie | Fusion‑Enabled Pluto Orbiter & Lander | Princeton Satellite Systems, Inc., Princeton, NJ 08540‑2517 | 2016 Ph.I |
 | Thomas, Stephanie | Fusion‑Enabled Pluto Orbiter & Lander | Princeton Satellite Systems, Inc., Plainsboro, NJ 08536‑2096 | 2017 Ph.II |
-| Tripathi, Ram | Meeting the Grand Challenge of Protecting Astronaut's Health: Electrostatic Active Space Radiation Shielding for Deep Space Missions | NASA LRC, Hampton, VA 23681‑2100 | 2011 Ph.I |
+| Tripathi, Ram | Meeting the Grand Challenge of Protecting Astronaut’s Health: Electrostatic Active Space Radiation Shielding for Deep Space Missions | NASA LRC, Hampton, VA 23681‑2100 | 2011 Ph.I |
 | Turyshev, Slava | Direct Multipixel Imaging & Spectroscopy of an exoplanet with a Solar Gravity Lens Mission | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2017 Ph.I |
 | Turyshev, Slava | Direct Multipixel Imaging & Spectroscopy of an Exoplanet with a Solar Gravity Lens Mission | [NASA JPL](03_jpl.md), Pasadena, CA 91109‑8001 | 2018 Ph.II |
 | Ulmer, Melville (Ph.I) | Aperture: A Precise Extremely large Reflective Telescope Using Re‑configurable Elements | Northwestern Univ., Evanston, IL 60208‑0884 | 2015 Ph.I |
@@ -245,8 +245,8 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Whittaker, William (Ph.I) | Cavehopping Exploration of Planetary Skylights & Tunnels | Astrobotic Technology, Inc., Pittsburgh, PA 15213‑3524 | 2011 Ph.I |
 | Whittaker, William (Ph.II) | Cavehopping Exploration of Planetary Skylights & Tunnels | Astrobotic Technology, Inc., Pittsburgh, PA 15213‑3524 | 2012 Ph.II |
 | Whittaker, William (Ph.III) | Robotic Technologies Enabling the Exploration of Lunar Pits | Carnegie Mellon Univ., Pittsburgh, PA 15213‑3815 | 2019 Ph.III |
-| Wie, Bong (Ph.I) | An Innovative Solution to NASA's NEO Impact Threat Mitigation Grand Challenge & Flight Validation Mission Architecture Development | Iowa State Univ., Ames, IA 50011‑2207 | 2011 Ph.I |
-| Wie, Bong (Ph.II) | An Innovative Solution to NASA's NEO Impact Threat Mitigation Grand Challenge & Flight Validation Mission Architecture Development | Iowa State Univ., Ames, IA 50011‑2207 | 2012 Ph.II |
+| Wie, Bong (Ph.I) | An Innovative Solution to NASA’s NEO Impact Threat Mitigation Grand Challenge & Flight Validation Mission Architecture Development | Iowa State Univ., Ames, IA 50011‑2207 | 2011 Ph.I |
+| Wie, Bong (Ph.II) | An Innovative Solution to NASA’s NEO Impact Threat Mitigation Grand Challenge & Flight Validation Mission Architecture Development | Iowa State Univ., Ames, IA 50011‑2207 | 2012 Ph.II |
 | Wiegmann, Bruce (Ph.I) | Heliopause Electrostatic Rapid Transit System (HERTS) | NASA MSFC, Huntsville, AL 35812‑0000 | 2014 Ph.I |
 | Wiegmann, Bruce (Ph.II) | Heliopause Electrostatic Rapid Transit System (HERTS) | NASA Marshall SFC, Huntsville, AL 35812‑2000 | 2015 Ph.II |
 | Willard, Doug | Solar Surfing | NASA Kennedy Space Center, Kennedy Space Center, FL 32780‑0000 | 2019 Ph.II |

@@ -17,7 +17,7 @@ The **Silver Snoopy award** is a special honor awarded to [NASA](03_nasa.md) emp
 
 ## Review
 
-The award is given personally by NASA astronauts as it represents the astronauts' own recognition of excellence. It is presented at the workplace of the recipient with the recipient's coworkers present. The Silver Snoopy award is one of several awards overseen by the Space Flight Awareness (SFA) program at NASA.
+The award is given personally by NASA astronauts as it represents the astronauts' own recognition of excellence. It is presented at the workplace of the recipient with the recipient’s coworkers present. The Silver Snoopy award is one of several awards overseen by the Space Flight Awareness (SFA) program at NASA.
 
 The award consists of a sterling silver «Silver Snoopy» lapel pin flown during a NASA mission, a commendation letter (stating the mission the Silver Snoopy pin was flown on) and a signed, framed Silver Snoopy certificate. Snoopy decals and posters are also given to the recipient.
 

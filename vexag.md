@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **Venus Exploration Analysis Group (VEXAG)** — англоязычный термин, не имеющий аналога в русском языке. **Аналитическая группа исследования Венеры (ВЕКСАГ)** — дословный перевод с английского на русский.</small>
 
-**Venus Exploration Analysis Group (VEXAG)** was established by NASA in 2005 (and funded since then) to identify scientific priorities and opportunities for the exploration of [Venus](venus.md), Earth’s sister planet. Possibly the world's largest and most active group. The VEXAG:
+**Venus Exploration Analysis Group (VEXAG)** was established by NASA in 2005 (and funded since then) to identify scientific priorities and opportunities for the exploration of [Venus](venus.md), Earth’s sister planet. Possibly the world’s largest and most active group. The VEXAG:
 
    - composes a bunch of technical and directive documents,
    - monitors ongoing scientific and technical Venusian activities,
@@ -21,7 +21,7 @@ The group has an open membership based on the listserv (<https://lists.psi.edu/m
 <p style="page-break-after:always"> </p>
 
 ## Description
-The Venus Exploration Analysis Group is NASA's community‑based forum designed to provide scientific input and technology development plans for planning and prioritizing the exploration of Venus over the next several decades, including a Venus surface sample return. VEXAG is chartered by NASA's Solar System Exploration Division and reports its findings to NASA. Open to all interested scientists, VEXAG regularly evaluates Venus exploration goals, scientific objectives, investigations and critical measurement requirements, including especially recommendations in the NRC Decadal Survey and the Solar System Exploration Strategic Roadmap.
+The Venus Exploration Analysis Group is NASA’s community‑based forum designed to provide scientific input and technology development plans for planning and prioritizing the exploration of Venus over the next several decades, including a Venus surface sample return. VEXAG is chartered by NASA’s Solar System Exploration Division and reports its findings to NASA. Open to all interested scientists, VEXAG regularly evaluates Venus exploration goals, scientific objectives, investigations and critical measurement requirements, including especially recommendations in the NRC Decadal Survey and the Solar System Exploration Strategic Roadmap.
 
 In addition to interested members of the scientific community, each focus group will include technology experts, NASA representatives, international partner representatives, EPO experts, and the chair. The current focus groups are listed below. Other focus groups may be added, as needed.
 
@@ -266,7 +266,7 @@ November 19–21, 2013
 Venus Game-Changing Technology Forum (via telecon)
 May 8, 2013
 
-    Overview of NASA's Space Technology Mission Directorate, Tibor Balint
+    Overview of NASA’s Space Technology Mission Directorate, Tibor Balint
     Assessment of Relevance of STMD Game Changing Technology to Venus Exploration, Pat Beauchamp
     Game Changing Division Principal Investigator Contact Information (last updated May 2013)
 
@@ -376,7 +376,7 @@ Venus Town-Hall Meeting – LPSC, March 2011
     VEXAG Update
     Sue Smrekar, Sanjay Limaye and Mark Bullock
 
-    Report on Decadal Survey's Inner Planets Panel
+    Report on Decadal Survey’s Inner Planets Panel
     Steve Mackwell and Ellen Stofan
 
     Notes - Venus Town-Hall Meeting

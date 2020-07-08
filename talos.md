@@ -6,7 +6,7 @@
 ---
 > <small>*Terms:* **Thruster Advancement for Low-temperature operation in space (TALOS)** — English term with no analogues in Russian. **Улучшения двигателей для низкотемпературной работы в космосе (ТАЛОС)** — literal translation to Russian.</small>
 
-**Thruster Advancement for Low‑temperature operation in space (TALOS)** project by NASA's Space technology mission directorate aims to meet these low‑cost, lightweight material needs by developing superior deep space thrusters. Project was active in 2019 ‑ ….
+**Thruster Advancement for Low‑temperature operation in space (TALOS)** project by NASA’s Space technology mission directorate aims to meet these low‑cost, lightweight material needs by developing superior deep space thrusters. Project was active in 2019 ‑ ….
 
 
 

@@ -279,7 +279,7 @@
 ### ± Australia
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (AU) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -313,7 +313,7 @@
 
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (CA) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -386,7 +386,7 @@
 ### ✘ China
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (CN) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -404,7 +404,7 @@
 ### ✘ Europe
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (EU) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -444,6 +444,7 @@
 | [Karman Project](03_karman_project.md)   (DE) |N||P|| Connecting people |
 | [LATMOS](03_latmos.md)   (FR) ||||| Фундам. исследования наземных и планетных атмосфер |
 | [Leonardo](leonardo.md)   (IT) ||||| … |
+| [Libre space](03_libre_space_f.md)   (GR) |N||P|| To promote, advance, develop libre technologies & knowledge for space |
 | [LMD](lmd.md)   (FR) ||||| … |
 | [Moon Village As.](03_moon_village_a.md)   (AT) |N|||| Global info‑forum for gov./industry/academia, etc. for dev. of the Moon Village |
 | [Morpheus Space](03_morpheus_space.md)   (DE) ||||R| Electric propulsion and Artificial Intelligence |
@@ -490,7 +491,7 @@
 ### ✘ India
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (IN) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -514,7 +515,7 @@
 ### ± Israel
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (IL) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -548,7 +549,7 @@
 ### ± Japan
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (JP) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -617,7 +618,7 @@
 ### ± Korea South
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (KR) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -650,7 +651,7 @@
 
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (RU) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -749,7 +750,7 @@
 ### ✘ Saudi Arabia
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (SA) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -767,7 +768,7 @@
 ### ✘ Singapore
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (SG) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -787,7 +788,7 @@
 
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (US) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -862,7 +863,7 @@
 | [Northrop Grumman](03_northrop_grumman.md) ||||| Разработка/эксплуат. [КА](sc.md), лазерных систем, микроэлектроники |
 | [Open Univ.](03_open_univ.md) ||||| The Open University (OU) |
 | [Orbital ATK](orbital_atk.md) ||||| Разработка и эксплуатация РН, КА |
-| [Planet](03_planet.md) ||||| To image all of Earth's landmass every day |
+| [Planet](03_planet.md) ||||| To image all of Earth’s landmass every day |
 | [Planetary Society](03_planetary_society.md) |N|||| Астрономия, планетология, иссл. космоса, популяризации науки |
 | [Pratt & Whitney](03_pratt_n_whitney.md) ||||R| Rocket engines |
 | [Princeton Univ.](princeton_univ.md) |E|||| … |
@@ -896,7 +897,7 @@
 ### ✘ UAE
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (AE) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
@@ -914,7 +915,7 @@
 ### ± Vietnam
 <small>
 
-(**E**)ducational / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D, manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
 
 |*• Organization (JP) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|

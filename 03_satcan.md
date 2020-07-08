@@ -20,6 +20,6 @@ Through our extensive network of contacts & consultants, & our depth of experien
 
 ## SatCan, comments
 
-Satellite Canada Innovation Network Inc. ("SatCan") is a visionary initiative launched to grow Canada's leadership position in the global space industry, & advance the government's Innovation Agenda.
+Satellite Canada Innovation Network Inc. ("SatCan") is a visionary initiative launched to grow Canada’s leadership position in the global space industry, & advance the government’s Innovation Agenda.
 
 Leveraging proven international business models for Space Technology Accelerators, SatCan is a registered, non-for-profit, member-based corporation, in the role of a catalyst dedicated to driving significant growth for the Canadian space industry.

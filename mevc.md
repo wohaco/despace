@@ -27,8 +27,8 @@ However, ensuring a required lift-to-drag ratio means that the lander mass incre
 
 **Table 1** presents the comparative characteristics of various lander types.
 
-|Comparative parameters and criteria estimates|Lander type I: Ballistic landers<br>![ballisticlanders](f/project/mevc/ballisticlanders.jpg)|Lander type II: «Gliding descent»<br>![glidingdescent](f/project/mevc/glidingdescent.jpg)|Lander type III: «Lifting body»<br>![liftingbody](f/project/mevc/liftingbody.jpg)|
-|:--:|:--:|:--:|:--:|
+|Comparative parameters and criteria estimates|Lander type I: Ballistic landers<br>![ballisticlanders](f/project/m/mevc/ballisticlanders.jpg)|Lander type II: «Gliding descent»<br>![glidingdescent](f/project/m/mevc/glidingdescent.jpg)|Lander type III: «Lifting body»<br>![liftingbody](f/project/m/mevc/liftingbody.jpg)|
+|:--|:--|:--|:--|
 |Lift-to-drag ratio for hypersonic velocity (M > 6)|0|0.15 … 0.5|0.8 … 1.5|
 |Volume efficiency (fill factor)|1 … 0.85|0.95 … 0.75|0.75 … 0.6|
 |Comparative mass characteristics (relative to a ballistic-class lander)|1|1.2|1.5|
@@ -40,12 +40,12 @@ The «lifting body» type of lander has the highest ratio of lift-to-drag, has t
 
 ## Lander characteristics
 
-The aerodynamic characteristics of the lander are calculated using a numerical method using Newton's flow theory. The real mechanism of the interaction between the gas molecules and the solid body boundaries differs from Newton's theory. However, the flow pattern for extremely large and hypersonic velocities is similar to the one proposed by Newton for the inelastic collision between the gas particles and the body.
+The aerodynamic characteristics of the lander are calculated using a numerical method using Newton’s flow theory. The real mechanism of the interaction between the gas molecules and the solid body boundaries differs from Newton’s theory. However, the flow pattern for extremely large and hypersonic velocities is similar to the one proposed by Newton for the inelastic collision between the gas particles and the body.
 
 The analysis considers the «lifting body» lander type shown below.
 
-|![mevc](f/project/mevc/mevc.jpg)|
-|:--:|
+|![mevc](f/project/m/mevc/mevc.jpg)|
+|:--|
 |*Layout and general dimension of the «lifting body» type of a lander.*|
 
 Based on the analysis of the volume and mass of the target equipment, the diameter is set to 1.1 m, the lander length for this diameter is 2.75 m. The center of mass of the lander is assumed to be the average value of the centers of mass of the volume and center of mass of the surface.
@@ -61,7 +61,7 @@ The estimated parameters of the lander:
 <small>
 
 |*Characteristic*|*Value*|
-|:--:|:--:|
+|:--|:--|
 |Diameter|1.1 m|
 |Length|2.75 m|
 |Khyp − lift-to-drag ratio for hypersonic velocities|1.4|
@@ -89,7 +89,7 @@ The lander shape investigated can be easily balanced for the given   by simply a
 
 **Docs:**
 
-   1. [Kosenkova A.V. Investigation of the Possibilities of Aerodynamic Forms of a Lander Capable of Maneuverable Descent in the Venus Atmosphere ❐](f/project/mevc/doc_20191115.pdf) (2019.11.15 )
+   1. [Kosenkova A.V. Investigation of the Possibilities of Aerodynamic Forms of a Lander Capable of Maneuverable Descent in the Venus Atmosphere ❐](f/project/m/mevc/doc_20191115.pdf) (2019.11.15 )
 
 **Links:**
 

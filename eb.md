@@ -25,7 +25,7 @@
 ## Разновидности
 
 |*°*|*[Фирма](contact.md)*|*Актуальные (ёмкость, А·ч)*|
-|:--:|:--|:--|
+|:--|:--|:--|
 |**EU**| [Saft](03_saft.md) | [8S8P](8s8p.md) (30)  |
 |•|• • • • • • • • •|• • •|
 |**RU**| [ВНИИЭМ](03_vniiem.md) |   |
@@ -187,5 +187,5 @@
    1. <http://niai.ru/catalog.php?id=6>
    1. <http://at-systems.ru/quest/new-quest/capacity-count-easy-y.shtml>
    1. <https://ru.wikipedia.org/wiki/Литий‑железо‑фосфатный_аккумулятор>
-   1. <https://en.wikipedia.org/wiki/Peukert's_law>
+   1. <https://en.wikipedia.org/wiki/Peukert’s_law>
 
