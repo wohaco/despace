@@ -23,7 +23,7 @@
 |Launch| **Venera 11:** September 9, 1978, 03:25:39 UTC<br> **Venera 12:** 14 September 1978, 02:25:13 UTC<br>Rocket: Proton-K/D-1 8K82K |
 |Operator| Soviet Academy of Sciences |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: [Pioneer Venus 1.md](pioneer_venus_1.md), [Pioneer Venus 2.md](pioneer_venus_2.md)<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Mariner 10](mariner_10.md), [Venera 9 and 10](venera_9_10.md) |
+|Similar to| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: [Pioneer Venus 1.md](pioneer_venus_1.md), [Pioneer Venus 2.md](pioneer_venus_2.md)<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Mariner 10](mariner_10.md), [Venera 9 and 10](venera_9_10.md) |
 |Target| To study the planet Venus and interplanetary space. |
 |[Type](sc.md)| Flyby spacecraft; atmospheric spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -91,14 +91,14 @@ After performing the withdrawal maneuver, each space station flew near Venus at 
 
 According to the accelerometer at the entrance to the atmosphere was measured atmospheric density in the altitude range from 100 to 65 km. With instruments to measure temperature and atmospheric pressure was carried out direct in situ measurements of these parameters from 61 km up to the surface ([EVN‑010](venus.md)). The opacity of the atmosphere was measured in the range of heights from 64 km to the surface, the chemical composition of aerosols ([EVN‑018](venus.md)) − from 64 to 49 km. Aerosol scattering was measured from 51 km to the surface, and thunderstorm activity − from 60 km to the surface ([EVN‑012](venus.md)). The gas chromatograph analyzed nine atmospheric samples at altitudes ranging from 42 km to the surface. The new mass-spectrometer measured the composition of the atmosphere in the range from 32 to 1 km. Altitude profiles of horizontal wind speed and direction were obtained from measurements of Doppler frequency shift of the radio transmitter ([EVN‑010](venus.md)).
 
-According to the spectrometer, the first more or less realistic profile of the content of water vapor in the atmosphere was constructed, which serve as the second most important (after carbon dioxide) greenhouse gas in the atmosphere of Venus. Measurements of Venera 11 and Venera 12 indicated a decrease in water vapor content from 200 ppm at the base of the cloud layer to 20 ppm at the surface (many years later, when re-analysis of the data were refined and spoke about a constant vapor content at about 30 ppm from 50 km to the surface). Data from the mass-spectrometers of the Venera 11 and 12 lander resulted in values of relative water vapor content up to 0.5% at 44 km and up to 0.1% at 24 km, which was significantly higher than those obtained by spectrometers and other remote spectral measurements from Earth, so they were considered doubtful.
+According to the spectrometer, the first more or less realistic profile of the content of water vapor in the atmosphere was constructed, which serve as the second most important (after carbon dioxide) greenhouse gas in the atmosphere of Venus. Measurements of Venera 11 and Venera 12 indicated a decrease in water vapor content from 200 ppm at the base of the cloud layer to 20 ppm at the surface (many years later, when re-analysis of the data were refined and spoke about a constant vapor content at about 30 ppm from 50 km to the surface). Data from the mass-spectrometers of the Venera 11 and 12 lander resulted in values of relative water vapor content up to 0.5 % at 44 km and up to 0.1 % at 24 km, which was significantly higher than those obtained by spectrometers and other remote spectral measurements from Earth, so they were considered doubtful.
 
 Based on the analysis of 176 full spectra of 22 samples taken ([EVN‑055](venus.md)), the following results of mass spectrometry measurements were obtained ([EVN‑077](venus.md)):
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
 |:--|:--|
-| Carbon dioxide | 97% |
-| Molecular nitrogen | 4.5 ± 0.5% |
+| Carbon dioxide | 97 % |
+| Molecular nitrogen | 4.5 ± 0.5 % |
 | Argon | 110 ± 20 ppm |
 | Neon | 8.6 ± 4 ppm |
 | Krypton | 0.6 ± 0.2 ppm |
@@ -111,7 +111,7 @@ The gas chromatograph made eight measurements between 42 km and the surface wi
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
 |:--|:--|
-| Molecular nitrogen | 2.5% ± 0.3% |
+| Molecular nitrogen | 2.5 % ± 0.3 % |
 | Water vapor | 25-100 ppm |
 | Argon | 40 ± 10 ppm |
 | Sulfur dioxide | 130 ± 35 ppm |
@@ -123,11 +123,11 @@ The gas chromatograph made eight measurements between 42 km and the surface wi
 
 The study of optical spectra revealed a wide absorption band, which has not yet been identified with known gases.
 
-The Venera 12’s x-ray fluorescence spectrometer measured cloud particles at an altitude of 64 to 49 km, and then failed to withstand the high ambient temperature. It did not find sulfur in cloud inclusions (at the upper detection threshold < 0.1 mg/m³), but found chlorine (0.43 ± 0.06 mg/m³). Also, with its help, it was possible to completely eliminate mercury at a concentration of up to one billionth ([EVN‑018](venus.md)).
+The Venera 12’s x‑ray fluorescence spectrometer measured cloud particles at an altitude of 64 to 49 km, and then failed to withstand the high ambient temperature. It did not find sulfur in cloud inclusions (at the upper detection threshold < 0.1 mg/m³), but found chlorine (0.43 ± 0.06 mg/m³). Also, with its help, it was possible to completely eliminate mercury at a concentration of up to one billionth ([EVN‑018](venus.md)).
 
 During the descent at an altitude of 32 to 2 km, Venera 11 and Venera 12 registered a large number of electromagnetic pulses similar to distant thunderstorms on Earth ([EVN‑012](venus.md)). The activity was higher in the case of Venera 11 than in the case of Venera 12, and the intensity decreased toward the surface. After landing, Venera 11 did not register such pulses, but one intense burst was noted by Venera 12 already on the surface. The microphones were in saturation mode due to aerodynamic noise during descent and did not register acoustic noise on the surface.
 
-The Venera 11 nephelometer measured cloud particles during the descent, and its results confirmed the homogeneity of the cloud layers ([EVN‑016](venus.md)). The main cloud layer was localized between 51 and 48 km, with fog underneath. Photometric measurements confirmed that only 3 − 6% of sunlight reaches the surface, and intense Rayleigh scattering in a dense atmosphere greatly impairs visibility. The horizon was visible at surface level, but details of the landscape were rapidly disappearing in an orange haze. There was no sun disk to be seen, the light of the Sun almost uniformly flooding the misty sky ([EVN‑013](venus.md)).
+The Venera 11 nephelometer measured cloud particles during the descent, and its results confirmed the homogeneity of the cloud layers ([EVN‑016](venus.md)). The main cloud layer was localized between 51 and 48 km, with fog underneath. Photometric measurements confirmed that only 3 − 6 % of sunlight reaches the surface, and intense Rayleigh scattering in a dense atmosphere greatly impairs visibility. The horizon was visible at surface level, but details of the landscape were rapidly disappearing in an orange haze. There was no sun disk to be seen, the light of the Sun almost uniformly flooding the misty sky ([EVN‑013](venus.md)).
 
 **Measurements on the surface** ([EVN‑006](venus.md)).
 
@@ -145,9 +145,9 @@ The ultraviolet spectrometer registered emissions of hydrogen atoms in the Lyman
 
 ## Science goals & payload
 
-   - Obtaning a more accurate elemental composition of the atmosphere ([EVN‑014](venus.md)). For these purposes, the spacecraft had a mass spectrometer, a gas chromatograph and an optical spectrometer, a nephelometer to study the aerosol component of the atmosphere, an x-ray fluorescence spectrometer to assess the chemical and elemental composition of the cloud layer particles ([EVN‑018](venus.md)), a device to measure the electrical activity of the atmosphere ([EVN‑012](venus.md)), specialized sensors for oxygen and moisture, and an experimental solar;
+   - Obtaning a more accurate elemental composition of the atmosphere ([EVN‑014](venus.md)). For these purposes, the spacecraft had a mass spectrometer, a gas chromatograph and an optical spectrometer, a nephelometer to study the aerosol component of the atmosphere, an x‑ray fluorescence spectrometer to assess the chemical and elemental composition of the cloud layer particles ([EVN‑018](venus.md)), a device to measure the electrical activity of the atmosphere ([EVN‑012](venus.md)), specialized sensors for oxygen and moisture, and an experimental solar;
    - Obtaining new color panoramas of the surface of Venus at using telephotometers with a set of color filters ([EVN‑093](venus.md));
-   - Detailed analysis of the Venusian soil. To do this, the station installed a soil sampling device, x-ray fluorescence analyzer and a device for measuring the physical and mechanical characteristics of the soil «Prop-4B1».
+   - Detailed analysis of the Venusian soil. To do this, the station installed a soil sampling device, x‑ray fluorescence analyzer and a device for measuring the physical and mechanical characteristics of the soil «Prop-4B1».
 
 Venera 11 and Venera 12 spacecrafts completely duplicated each other, carrying the same set of scientific equipment.
 
@@ -155,8 +155,8 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carrying t
 
    - 30 – 166 nm Extreme ultraviolet spectrometer − covered the spectral lines of atomic hydrogen, helium, oxygen and other chemical elements that were expected to be present in the exosphere of Venus.;
    - Compound plasma spectrometer;
-   - **KONUS** Gamma-ray burst detector − was designed to detect and identify gamma-ray burst sources during interplanetary flight. On the basis of these measurements, it was assumed to triangulate individual flashes from the coordinates of the two space stations Venus and the artificial earth satellite Prognoz;
-   - **SNEG** Gamma-ray burst detector − complemented the measurements;
+   - **KONUS** Gamma‑ray burst detector − was designed to detect and identify gamma‑ray burst sources during interplanetary flight. On the basis of these measurements, it was assumed to triangulate individual flashes from the coordinates of the two space stations Venus and the artificial earth satellite Prognoz;
+   - **SNEG** Gamma‑ray burst detector − complemented the measurements;
    - Magnetometer;
    - High-energy particle detectors − included 4 semiconductor counters, 2 gas-discharge counters and 4 scintillation counters;
    - Solar wind detector − was a hemispherical proton telescope.
@@ -168,7 +168,7 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carrying t
    - Backscatter Nephelometer − determined the structure of the atmosphere ([EVN‑017](venus.md)) in the range of heights from 105 to 70 km to study the spatial heterogeneity of cloud layers in different regions of the planet ([EVN‑016](venus.md));
    - Bennett radio frequency mass spectrometer **MKh-6411** − determined the chemical and isotopic composition of the atmosphere ([EVN‑014](venus.md));
    - Gas chromatograph – **Sigma**, determined the composition of the atmosphere (based on Neon) ([EVN‑014](venus.md));
-   - X-Ray fluorospectrometer for estimation of chemical and elemental composition of cloud layer particles ([EVN‑018](venus.md));
+   - X‑ray fluorospectrometer for estimation of chemical and elemental composition of cloud layer particles ([EVN‑018](venus.md));
    - 360° Scanning photometer – **IOAV**;
    - Scanning spectrophotometer − studies the scattering and absorption of solar radiation in the atmosphere ([EVN‑097](venus.md)). It measured radiation from the Zenith every 10 seconds using an interference filter with a resolution of 20 nm in a continuous spectrum from 430 to 1170 nm;
    - Microphone/anemometer;
@@ -182,7 +182,7 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carrying t
 **Instruments for surface operation:**
 
    - Penetrometer – **PrOP-V**. It was located on a retractable manipulator. The results of his measurements were recorded on a scale, the readings of which were read by the camera;
-   - Drill with analyzer based on X-ray fluorescence spectrometer **Арахис**. The drill, mounted on an annular shock absorber, was to drill a soil sample and then feed it through a pressure reduction system (airlock) to an X-ray fluorescence spectrometer inside the lander ([EVN‑062](venus.md)).
+   - Drill with analyzer based on X‑ray fluorescence spectrometer **Арахис**. The drill, mounted on an annular shock absorber, was to drill a soil sample and then feed it through a pressure reduction system (airlock) to an X‑ray fluorescence spectrometer inside the lander ([EVN‑062](venus.md)).
    - Two panoramic color TV cameras.
 
 |*Characteristic*|*Value*|
@@ -236,7 +236,7 @@ The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The ce
 
 **PEOPLE:**
 
-   - [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Долгополов Владимир Павлович)
+   - [Vladimir Pavlovich Dolgopolov](zz_dolgopolov1.md) (Долгополов Владимир Павлович)
 
 **COMMUNITY:**
 

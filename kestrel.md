@@ -5,7 +5,7 @@
 
 ---
 
-**Kestrel** — 2‑компонентный [двигатель](ps.md) производства [SpaceX](03_spacex.md).
+**Kestrel** — 2‑компонентный [двигатель](ps.md) производства [SpaceX](zz_spacex.md).
 
 <small>
 

@@ -23,11 +23,11 @@
 |Launch| **Venera 15:** June 2, 1983, 02:38:39 UTC, Rocket: Proton-K/D-1<br> **Venera 16:** June 7, 1983, 02:32 UTC, Rocket: Proton-K/D-1 |
 |Operator| Soviet Academy of Sciences |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> • Current: … <br> • Past: [Pioneer Venus 1](pioneer_venus_1.md) |
+|Similar to| • Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> • Current: … <br> • Past: [Pioneer Venus 1](pioneer_venus_1.md) |
 |Target| Mapping the Northern hemisphere of Venus in high resolution |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| 2.6 m HGA, C-band |
+|Comms| 2.6 m HGA, C‑band |
 |Composition| Orbiter |
 |Contractor| … |
 |[ID](spaceid.md)| **Venera 15:** NSSDC ID (COSPAR ID): [1983-053A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-053A), SCN: [14104 ⎆](http://www.n2yo.com/satellite/?s=14104)<br> **Venera 16:** NSSDC ID (COSPAR ID): [1983-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-054A), SCN: [14107 ⎆](http://www.n2yo.com/satellite/?s=14107) |
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -58,11 +58,13 @@ Achieved targets & investigations:
 |EVN‑022||Surface: map, precise.|  |D|||||
 |EVN‑025||Surface: structure.|  ||C||||
 |EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
+|EVN‑049||Nature & characteristics of the thermal tides|  ||D||||
 |EVN‑020||Inner structure of the planet.|  |D|||||
 |EVN‑053||Traces of life in the atmosphere & on the surface.|  ||C||||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑085|T|Surface: tessera investigations, ranged.|  |D||F|||
+|EVN‑085|T|Surface: tessera investigations, remote|  |D||F|||
+|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
 
 </small>
 
@@ -93,7 +95,7 @@ Venera 15 in Venus spectroscopy (before the failure of the Infrared Fourier Spec
 
 In June 1984, Venus was in superior conjunction, and data transmission proved impossible while it was behind the Sun when viewed from Earth. This arrangement of celestial bodies opened the possibility of research on the study of solar and interplanetary plasma. After the passage of superior conjunction, the orbit plane of Venera 16 was rotated 18° relative to the orbit plane of Venera 15 to conduct a topographic survey of the areas missed during superior conjunction, and the map was then completed on July 10.
 
-During the joint operation of the two spacecraft were obtained images of the surface of Venus from 30° N. to the North pole with a resolution of 0.9 to 2.5 km. Installation of processed satellite images allowed to build a map of the Northern hemisphere on a scale of 1:5 000 000, covering 25% of the planet’s surface (Total area — 115 million km²). The results confirmed that the highest elevations on Venus with a height of more than 4 km are characterized by a significant increase in the radar signal reflected by the planet.
+During the joint operation of the two spacecraft were obtained images of the surface of Venus from 30° N. to the North pole with a resolution of 0.9 to 2.5 km. Installation of processed satellite images allowed to build a map of the Northern hemisphere on a scale of 1:5 000 000, covering 25 % of the planet’s surface (Total area — 115 million km²). The results confirmed that the highest elevations on Venus with a height of more than 4 km are characterized by a significant increase in the radar signal reflected by the planet.
 
 Radar survey and mapping of Venus led to important discoveries of the relief and properties of the planet’s surface. New types of surface structures with characteristic features were discovered ([EVN‑025](venus.md)):
 
@@ -110,7 +112,7 @@ Even if a large object, penetrating the atmosphere of Venus, was destroyed befor
 
 The altimeter provided extensive data on the topography of the Northern hemisphere, which, combined with radar data, allowed to build detailed maps of the surface of Venus ([EVN‑022](venus.md)).
 
-Infrared Fourier Spectrometer on Venera 15 was functioning in orbit for two months, until its failure. Carbon dioxide, water vapor, sulfur dioxide and sulfuric acid aerosols were well distinguished on the spectra ([EVN‑014](venus.md)). These data confirmed that in the upper cloud layer, most particles consist of 75 — 85% sulfuric acid solution ([EVN‑018](venus.md)). Aerosol distribution and relative concentrations of sulfur dioxide ([EVN‑009](venus.md)) and water vapor were measured at altitudes between 105 and 60 km. The thermal structure and optical properties of the atmosphere were also determined in the same altitude range. Clouds were observed at altitudes from 70 to 47 km, but in the polar region their upper boundary was located 5 — 8 km below, and the atmosphere above 60 km was warmer than in the Equatorial region. There were no features in the spectrum that would suggest the presence of organic compounds ([EVN‑053](venus.md)).
+Infrared Fourier Spectrometer on Venera 15 was functioning in orbit for two months, until its failure. Carbon dioxide, water vapor, sulfur dioxide and sulfuric acid aerosols were well distinguished on the spectra ([EVN‑014](venus.md)). These data confirmed that in the upper cloud layer, most particles consist of 75 — 85 % sulfuric acid solution ([EVN‑018](venus.md)). Aerosol distribution and relative concentrations of sulfur dioxide ([EVN‑009](venus.md)) and water vapor were measured at altitudes between 105 and 60 km. The thermal structure and optical properties of the atmosphere were also determined in the same altitude range. Clouds were observed at altitudes from 70 to 47 km, but in the polar region their upper boundary was located 5 — 8 km below, and the atmosphere above 60 km was warmer than in the Equatorial region. There were no features in the spectrum that would suggest the presence of organic compounds ([EVN‑053](venus.md)).
 
 
 
@@ -147,7 +149,7 @@ The radar and radio altimeter systems used the same components, except for the a
 
    - Radar Altimeter **Omega**
 
-During the height measurement, the antenna transmitted a code sequence, and after the transmission was connected to a receiver that recorded the signal reflected from the surface. After processing the reflected signal, the data was recorded on a tape recorder for further transmission to Earth and subsequent processing in order to eliminate distortions associated with atmospheric, geometric and orbital effects affecting the accuracy of altitude determination. Until the elements of the orbit were accurately determined, the low-resolution mode was used, and after their accurate determination, the spacecraft’s equipment switched to high-resolution mode. In combination with Doppler frequency shift analysis, the high-resolution mode reduced the coverage area to 10 km by 40 km with an error of about 1 km. The accuracy of the altitude determination was 50 m.
+During the height measurement, the antenna transmitted a code sequence, and after the transmission was connected to a receiver that recorded the signal reflected from the surface. After processing the reflected signal, the data was recorded on a tape recorder for further transmission to Earth and subsequent processing in order to eliminate distortions associated with atmospheric, geometric and orbital effects affecting the accuracy of altitude determination. Until the elements of the orbit were accurately determined, the low‑resolution mode was used, and after their accurate determination, the spacecraft’s equipment switched to high‑resolution mode. In combination with Doppler frequency shift analysis, the high‑resolution mode reduced the coverage area to 10 km by 40 km with an error of about 1 km. The accuracy of the altitude determination was 50 m.
 
 |*Parameter*|*Value*|
 |:--|:--|
@@ -171,7 +173,7 @@ The spectrometer provided a higher spectral resolution than the infrared radiome
 | Spectral range | 6 — 35 μm |
 | Field of vision | 100 x 100 km |
 
-   - Cosmic-Ray Detectors (6 sensors)
+   - Cosmic‑ray Detectors (6 sensors)
    - Solar-Plasma Detectors
    - Magnetometer
    - Radio transmitter
@@ -183,7 +185,7 @@ The spectrometer provided a higher spectral resolution than the infrared radiome
 ## Spacecraft
 Venera 15 and Venera 16 were built on the basis of 4MV (variant 4V-2), but has been modified.
 
-The body of spacecraft was lengthened by 1 m to accommodate additional fuel to propel the spacecraft into orbit around Venus. The mass of nitrogen for the orientation control system increased from 36 to 114 kg. two more solar panels were added to the outer side to provide power to the radar. Thus, the total area of solar panels has been increased by 70%. The diameter of the parabolic antenna was increased by 1 m, bringing it to 2.6 m, and the data rate increased from 6 to 108 Kb/s. A new 5 cm band telemetry system (C-band) was used to communicate with ground stations equipped with 64 and 70 m antennas. The main engine (KRD-425A) is encircled by a conical instrument compartment with the diameter of 2.35 m at the base.
+The body of spacecraft was lengthened by 1 m to accommodate additional fuel to propel the spacecraft into orbit around Venus. The mass of nitrogen for the orientation control system increased from 36 to 114 kg. two more solar panels were added to the outer side to provide power to the radar. Thus, the total area of solar panels has been increased by 70 %. The diameter of the parabolic antenna was increased by 1 m, bringing it to 2.6 m, and the data rate increased from 6 to 108 Kb/s. A new 5 cm band telemetry system (C‑band) was used to communicate with ground stations equipped with 64 and 70 m antennas. The main engine (KRD-425A) is encircled by a conical instrument compartment with the diameter of 2.35 m at the base.
 
 Structurally, the spacecraft were identical to previous spacecraft. The body was a cylinder with a diameter of 1.1 m and a length of 5 m. At the top, instead of the Lander, a parabolic dish antenna for the Synthetic Aperture Radar (SAR) of 1.4 x 6.0 m was installed. The total mass of the SAR system was 298.6 kg. A parabolic Radar Altimeter antenna with a diameter of 1 m was installed near the SAR. The electric axis of the Radar Altimeter antenna was directed along the longitudinal axis of the spacecraft, and the SAR was deflected from this direction by 10°. Accordingly, in the process of image formation, the Radar Altimeter was oriented along the local vertical, and the SAR was directed from it at an angle of 10°.
 
@@ -206,7 +208,7 @@ General view of the spacecraft Venera 15 and Venera 16 with radar equipment in t
       1. V. B. Perminov (В. Б. Перминов) − chief designer Lavochkin Research and Production Association, doctor of technical Sciences;
       1. O.N. Rzhiga (О. Н. Ржига) − proposed to carry out radar Venus synthetic-aperture radar (radar side view);
    - **Members**
-      1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Долгополов Владимир Павлович);
+      1. [Vladimir Pavlovich Dolgopolov](zz_dolgopolov1.md) (Долгополов Владимир Павлович);
       1. A. T. Bazilevsky (А. Т. Базилевский),
       1. G. A. Burba (Г. А. Бурба),
       1. S. F. Zagorodny (С. Ф. Загородний),
@@ -216,7 +218,7 @@ General view of the spacecraft Venera 15 and Venera 16 with radar equipment in t
       1. M. V. Ostrovsky (М. В. Островский),
       1. A. A. Pronin (А. А. Пронин),
       1. A. L. Sukhanov (А. Л. Суханов),
-      1. [A. G. Tuchin](02_tuchin1.md) (А. Г. Тучин),
+      1. [A. G. Tuchin](zz_tuchin1.md) (А. Г. Тучин),
       1. Y. S. Tuplin (Ю. С. Тюфлин),
       1. B. Y. Feldman (Б. Я. Фельдман)
 

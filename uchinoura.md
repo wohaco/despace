@@ -7,15 +7,15 @@
 
 > <small>*Terms:* **Uchinoura** — English term with no analogues in Russian. **Утиноура** — literal translation to Russian.</small>
 
-**The Uchinoura Space Center** (**内之浦宇宙空間観測所**, **Uchinoura Uchū Kūkan Kansokusho**) is a space launch facility in the Japanese town of Kimotsuki, Kagoshima Prefecture. Before the establishment of the [JAXA space agency](03_jaxa.md) in 2003, it was simply called the **Kagoshima Space Center** (**鹿児島宇宙空間観測所**) (**KSC**). All of Japan’s scientific satellites were launched from Uchinoura prior to the M-V launch vehicles being decommissioned in 2006. It continues to be used for suborbital launches, and has also been used for the Epsilon orbital launch vehicle. Additionally, the center has antennas for communication with interplanetary space probes.
+**The Uchinoura Space Center** (**内之浦宇宙空間観測所**, **Uchinoura Uchū Kūkan Kansokusho**) is a space launch facility in the Japanese town of Kimotsuki, Kagoshima Prefecture. Before the establishment of the [JAXA space agency](zz_jaxa.md) in 2003, it was simply called the **Kagoshima Space Center** (**鹿児島宇宙空間観測所**) (**KSC**). All of Japan’s scientific satellites were launched from Uchinoura prior to the M-V launch vehicles being decommissioned in 2006. It continues to be used for suborbital launches, and has also been used for the Epsilon orbital launch vehicle. Additionally, the center has antennas for communication with interplanetary space probes.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 | Activity  |**Active** (1962 ‑ …)  |
-| [Launch vehicles](lv.md)  |**Japanese solid-fuel launch vehicles**  |
-| Operator  | [JAXA](03_jaxa.md) |
+| [Launch vehicles](lv.md)  |**Japanese solid‑fuel launch vehicles**  |
+| Operator  | [JAXA](zz_jaxa.md) |
 | Location  | 31°15′07″N 131°04′55″E<br> Kyushu, Kagoshima Prefecture, Japan  |
-| Distance  | 3 700 km — to the equator;<br> 8 000 km — to [NPO Lavochkin](03_lav.md);<br> 10 100 km — to [JPL](03_jpl.md);<br> 1 000 km — to [JAXA](03_jaxa.md)  |
+| Distance  | 3 700 km — to the equator;<br> 8 000 km — to [NPO Lavochkin](zz_lav.md);<br> 10 100 km — to [JPL](zz_jpl.md);<br> 1 000 km — to [JAXA](zz_jaxa.md)  |
 | Launch pad  | 5  |
 || [![](f/spaceport/uchinoura/pic1_thumb.jpg)](f/spaceport/uchinoura/pic1.jpg)  [![](f/spaceport/uchinoura/map1_thumb.jpg)](f/spaceport/uchinoura/map1.png)   [![](f/spaceport/uchinoura/map2_thumb.jpg)](f/spaceport/uchinoura/map2.jpg) |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

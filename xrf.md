@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **Рентгенофлуоресцентный анализ (РФА)** — русскоязычный термин. **Английский** — англоязычный эквивалент.</small>
 
-**X-ray fluorescence (XRF)** is the emission of characteristic «secondary» (or fluorescent) X‑rays from a material that has been excited by being bombarded with high‑energy X‑rays or gamma rays. The phenomenon is widely used for elemental analysis and chemical analysis, particularly in the investigation of metals, glass, ceramics and building materials, and for research in geochemistry, forensic science, archaeology and art objects such as paintings and murals.
+**X‑ray fluorescence (XRF)** is the emission of characteristic «secondary» (or fluorescent) X‑rays from a material that has been excited by being bombarded with high‑energy X‑rays or gamma rays. The phenomenon is widely used for elemental analysis and chemical analysis, particularly in the investigation of metals, glass, ceramics and building materials, and for research in geochemistry, forensic science, archaeology and art objects such as paintings and murals.
 
 **Рентгенофлуоресцентный анализ (РФА)** — один из современных спектроскопических методов исследования вещества с целью получения его элементного состава, то есть его элементного анализа. С помощью него могут быть найдены различные элементы от бериллия (Be) до урана (U).
 
@@ -50,5 +50,5 @@
 **Links:**
 
    1. Notable interwikies — …
-   1. <https://en.wikipedia.org/wiki/X-ray_fluorescence>
+   1. <https://en.wikipedia.org/wiki/X‑ray_fluorescence>
    1. <https://ru.wikipedia.org/wiki/Рентгенофлуоресцентный_анализ>

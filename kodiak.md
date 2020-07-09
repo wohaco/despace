@@ -15,7 +15,7 @@ The **Pacific Spaceport Complex – Alaska** (**PSCA**), formerly known as the *
 | [Launch vehicles](lv.md)  |**Athena‑1** ┊ [Minotaur 4](minotaur.md) ┊ **different ICBMs**|
 | Operator  | United States Department of Defense |
 | Location  | 57.435833°N 152.337778°W<br> Kodiak Island, Alaska, USA |
-| Distance  | 6 600 km — to the equator;<br> 11 200 km — to [NPO Lavochkin](03_lav.md);<br> 3 700 km — to [JPL](03_jpl.md)  |
+| Distance  | 6 600 km — to the equator;<br> 11 200 km — to [NPO Lavochkin](zz_lav.md);<br> 3 700 km — to [JPL](zz_jpl.md)  |
 | Launch pad  | 2  |
 || [![](f/spaceport/kodiak/pic1_thumb.jpg)](f/spaceport/kodiak/pic1.jpg)  [![](f/spaceport/kodiak/map1_thumb.jpg)](f/spaceport/kodiak/map1.png)   [![](f/spaceport/kodiak/map2_thumb.jpg)](f/spaceport/kodiak/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

@@ -17,7 +17,7 @@ Palmachim is used to launch the «Shavit» space launch vehicle into retrograde 
 | [Launch vehicles](lv.md)  | [Shavit](shavit.md)  |
 | Operator  | Israeli Air Force |
 | Location  | 31°53′04″N 34°40′49″E<br> kibbutz Palmachim, Israel  |
-| Distance  | 3 700 km — to the equator;<br> 2 600 km — to [NPO Lavochkin](03_lav.md);<br> 16 100 km — to [JPL](03_jpl.md);<br> 25 km — to [ISA](03_isa.md)  |
+| Distance  | 3 700 km — to the equator;<br> 2 600 km — to [NPO Lavochkin](zz_lav.md);<br> 16 100 km — to [JPL](zz_jpl.md);<br> 25 km — to [ISA](zz_isa.md)  |
 | Launch pad  | 1  |
 || [![](f/spaceport/palmachim/pic1_thumb.jpg)](f/spaceport/palmachim/pic1.jpg)  [![](f/spaceport/palmachim/map1_thumb.jpg)](f/spaceport/palmachim/map1.png)   [![](f/spaceport/palmachim/map2_thumb.jpg)](f/spaceport/palmachim/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

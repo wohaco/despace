@@ -19,12 +19,12 @@
 |**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| … ‑ ┊ |
+|Development| … ‑ … |
 |Duration| … |
 |Launch| …, …, … |
 |Operator| … |
 |Programme| … |
-|Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| … |
 |[Type](sc.md)| … |
 |**Spacecraft:**|• • •|
@@ -41,7 +41,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -139,13 +139,13 @@ The VSR team noted that the Venus Sample Return mission concept would be potenti
 **PEOPLE:**
 
    - **Concept of 1986:**
-      1. [Blamont, Jacques](02_blamont1.md) — CNES
+      1. [Blamont, Jacques](zz_blamont1.md) — CNES
       1. Jones, Ross M. — JPL
-      1. [Nock, Kerry T.](02_nock1.md) — JPL
+      1. [Nock, Kerry T.](zz_nock1.md) — JPL
    - **Review of 2003:**
       1. Gershman, Bob
       1. Nilsen, Erik — CalTech
-      1. [Peterson, Craig E.](02_peterson1.md) — Independent Researcher
+      1. [Peterson, Craig E.](zz_peterson1.md) — Independent Researcher
       1. Sweetser, Theodore H. — NASA
    - **Review of 2019:**
       1. Koppel, Christophe — AAAF (Association Aéronautique et Astronautique de France), EOS (stands for: Exploration and Observation of Space)

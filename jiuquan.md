@@ -15,9 +15,9 @@ It is the largest spaceport in China (until 1984 — the only one) and the only 
 |:--|:--|
 | Activity  |**Active** (1958 ‑ …)  |
 | [Launch vehicles](lv.md)  | [Long March 1, 2, 4](long_march.md)  |
-| Operator  | [CNSA](03_cnsa.md)  |
+| Operator  | [CNSA](zz_cnsa.md)  |
 | Location  | 40°58′03″N 100°16′43″E<br> Gobi Desert, Inner Mongolia, China  |
-| Distance  | 5 000 km — to the equator;<br> 5 500 km — to [NPO Lavochkin](03_lav.md);<br> 14 400 km — to [JPL](03_jpl.md);<br> 1 400 km — to [CNSA](03_cnsa.md)  |
+| Distance  | 5 000 km — to the equator;<br> 5 500 km — to [NPO Lavochkin](zz_lav.md);<br> 14 400 km — to [JPL](zz_jpl.md);<br> 1 400 km — to [CNSA](zz_cnsa.md)  |
 | Launch pad  | 7  |
 || [![](f/spaceport/jiuquan/pic1_thumb.jpg)](f/spaceport/jiuquan/pic1.jpg)  [![](f/spaceport/jiuquan/map1_thumb.jpg)](f/spaceport/jiuquan/map1.png)   [![](f/spaceport/jiuquan/map2_thumb.jpg)](f/spaceport/jiuquan/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

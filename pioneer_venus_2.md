@@ -22,11 +22,11 @@
 |Launch|August 8, 1978, 07:33 UTC, Rocket Atlas SLV-3D Centaur-D1AR |
 |Operator| NASA / ARC |
 |Programme| Pioneer Venus project |
-|Similar<br> missions| • Proposed: [Magellan](magellan.md), [Galileo Probe](galileo.md) <br> • Current: … <br> • Past: … |
+|Similar to| • Proposed: [Magellan](magellan.md), [Galileo Probe](galileo.md) <br> • Current: … <br> • Past: … |
 |Target| Studying the structure and composition of clouds from inside the atmosphere |
 |[Type](sc.md)| Atmospheric spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| S-band, X-Band |
+|Comms| S‑band, X‑band |
 |Composition| Spacecraft Bus, one large and three smaller probes |
 |Contractor| United Launch Alliance |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1978-078A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-078A), SCN: [11001 ⎆](http://www.n2yo.com/satellite/?s=11001) |
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.

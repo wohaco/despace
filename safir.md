@@ -30,7 +30,7 @@
 |Длина/диаметр  | 22 м / 1.25 м   |
 |[Космодромы](spaceport.md)  | [Semnan](semnan.md)  |
 |Масса старт./сух.  | 26 000 кг / 1 600 кг  |
-|Разраб./изготов.  | [ISA](03_isa.md) (Иран) / [ISA](03_isa.md) (Иран)  |
+|Разраб./изготов.  | [ISA](zz_isa.md) (Иран) / [ISA](zz_isa.md) (Иран)  |
 |Ступени  | 3  |
 |[Топливо](fuel.md)  | [АТ + НДМГ](at_plus.md)  |
 || [![](f/lv/safir/safir1_01_thumb.jpg)](f/lv/safir/safir1_01.jpg)  |

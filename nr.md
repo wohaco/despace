@@ -47,8 +47,8 @@
       1. «Курчатовский институт»
       1. НПО «Красная звезда»
    - **США:**
-      1. [Boeing](03_boeing.md)
-      1. [GRC](03_grc.md)
+      1. [Boeing](zz_boeing.md)
+      1. [GRC](zz_grc.md)
 
 
 

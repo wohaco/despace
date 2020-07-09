@@ -17,7 +17,7 @@ Minimum inclination: 82.0°. Maximum inclination: 84.0°.
 | [Launch vehicles](lv.md)  | Europa‑1 ┊ Redstone ┊ Black Arrow  |
 | Operator  | Royal Australian Air Force  |
 | Location  | 30°57′19″S 136°31′56″E<br> Woomera, Australia  |
-| Distance  | 3 300 km — to the equator;<br> 15 400 km — to [NPO Lavochkin](03_lav.md);<br> 13 700 km — to [JPL](03_jpl.md);<br> 17 600 km — to France  |
+| Distance  | 3 300 km — to the equator;<br> 15 400 km — to [NPO Lavochkin](zz_lav.md);<br> 13 700 km — to [JPL](zz_jpl.md);<br> 17 600 km — to France  |
 | Launch pad  | 6  |
 ||[![](f/spaceport/woomera/pic1_thumb.jpg)](f/spaceport/woomera/pic1.jpg)  [![](f/spaceport/woomera/map1_thumb.jpg)](f/spaceport/woomera/map1.png)   [![](f/spaceport/woomera/map2_thumb.jpg)](f/spaceport/woomera/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

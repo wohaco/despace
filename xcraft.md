@@ -21,7 +21,7 @@
 |Launch| 2021 (planned), …, … |
 |Operator| … |
 |Programme| … |
-|Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| … |
 |[Type](sc.md)| … |
 |**Spacecraft:**|• • •|
@@ -29,7 +29,7 @@
 |Contractor| … |
 |Manufacturer| … |
 ||**`…`**|
-|Comms| Large HGA, multi-band relay communications |
+|Comms| Large HGA, multi‑band relay communications |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
 |Mass| … ([…satellite](sc.md)) |
 |Orbit / Site| … |
@@ -38,7 +38,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -85,8 +85,8 @@ The standard XCRAFT is perfect for most missions.
    - Enormous payload bay that can accommodate 30 kg — 70 kg of payload in 50 U of volume
    - Electric propulsion providing between 1500 m/s — 3500 m/s delta-V to fit mission needs
    - 550 W of power generation at 1.0 AU, expandable to 1.1 kW
-   - Large high-gain antenna for high speed communications from interplanetary distances
-   - Multi-band relay communications from other spacecraft, landers, rovers and ground terminals.
+   - Large high‑gain antenna for high speed communications from interplanetary distances
+   - Multi‑band relay communications from other spacecraft, landers, rovers and ground terminals.
    - Optically stable platform with precision pointing for high performance sensors
 
 

@@ -8,7 +8,7 @@
 |*Этапы*||| <small>*ОКР*</small> ||||| <small>*серийное пр‑во:*</small> ||
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |<small>**[R&D](rnd.md)**</small>  | <small>[НИР](rnd_0.md)</small>  | <small>[АП](rnd_ap.md)</small>  | <small>[ЭП](rnd_ep.md)</small>  | <small>[ТП](rnd_tp.md)</small>  | <small>[РКД (РРД)](rnd_rkd.md)</small>  | <small>[Макеты, НЭО](rnd_neo.md)</small>  | <small>[ЛИ](rnd_e.md)</small>  | <small>ПСП → СП → ПЭ</small>  | <small>Вывод</small>  |
-|<small>**[R&D phases](rnd.md)**</small>  | <small>0 (pre-A)</small> | <small>A</small> | <small>≈ B</small> | <small>≈ B</small> | <small>≈ C</small> | <small>≈ C/D</small> | <small>≈ E</small> | <small>…</small> | <small>F</small> |
+|<small>**[R&D phases](rnd.md)**</small>  | <small>0 (pre‑A)</small> | <small>A</small> | <small>≈ B</small> | <small>≈ B</small> | <small>≈ C</small> | <small>≈ C/D</small> | <small>≈ E</small> | <small>…</small> | <small>F</small> |
 
 > <small>*Термины:* **Изготовление опытных изделий комплекса, наземная отработка (Макеты, НЭО)** — русскоязычный термин. **Phase C/D** — примерный англоязычный эквивалент.</small>
 
@@ -46,7 +46,7 @@
 <p style="page-break-after:always"> </p>
 
 ## Документация НЭО
-Работы и документацию к.510 на данном этапе см. [на соответствующей странице](03_lav.md).
+Работы и документацию к.510 на данном этапе см. [на соответствующей странице](zz_lav.md).
 
 <mark>TBD</mark>
 

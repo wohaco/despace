@@ -7,9 +7,9 @@
 
 > <small>*Термины:* **Уровни зрелости концепта (УЗК)** — русскоязычный термин. **Concept maturity levels (CML)** — англоязычный эквивалент.</small>
 
-**Уровни зрелости концепта (УЗК)** — степень развития разрабатываемого концепта с целью её внедрения в конечный продукт. Предложена [JPL](03_jpl.md). УЗК оценивают по многоуровневой шкале в зависимости от специфики продукта.
+**Уровни зрелости концепта (УЗК)** — степень развития разрабатываемого концепта с целью её внедрения в конечный продукт. Предложена [JPL](zz_jpl.md). УЗК оценивают по многоуровневой шкале в зависимости от специфики продукта.
 
-Created by [Mark Adler](02_adler1.md), [JPL](03_jpl.md). Inspired by [TRL](trl.md) scale. Covers the phase of mission concept formulation from «cocktail napkin» to NASA PDR (PDR = CML 8). Embraced by NASA PSD & now an integral part of JPL’s formulation approach. CMLs provide a standardized method to allow management to:
+Created by [Mark Adler](zz_adler1.md), [JPL](zz_jpl.md). Inspired by [TRL](trl.md) scale. Covers the phase of mission concept formulation from «cocktail napkin» to NASA PDR (PDR = CML 8). Embraced by NASA PSD & now an integral part of JPL’s formulation approach. CMLs provide a standardized method to allow management to:
 
    1. determine how much work (funding, resources, & effort) has been placed into the definition & maturation of a system concept;
    1. compare competing project system concepts in terms of relevance to meeting the organization’s strategic goals, objectives, & ROI with acceptable risk;

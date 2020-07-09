@@ -15,9 +15,9 @@ During the entire existence of the spaceport, five missile launches were made he
 |:--|:--|
 | Activity  |*Closed* (1996 ‑ 2007)  |
 | [Launch vehicles](lv.md)  |**ICBM RS‑18** ┊ **Start**  |
-| Operator  | [Roskosmos](03_roskosmos.md) |
+| Operator  | [Roskosmos](zz_roskosmos.md) |
 | Location  | 51°42′N 128°00′E<br> Tsiolkovsky, Amur oblast, Russia  |
-| Distance  | 5 500 km — to the equator;<br> 6 700 km — to [NPO Lavochkin](03_lav.md);<br> 12 500 km — to [JPL](03_jpl.md)  |
+| Distance  | 5 500 km — to the equator;<br> 6 700 km — to [NPO Lavochkin](zz_lav.md);<br> 12 500 km — to [JPL](zz_jpl.md)  |
 | Launch pad  | 1, 5 mines for ICBMs  |
 || [![](f/spaceport/svobodny/pic1_thumb.jpg)](f/spaceport/svobodny/pic1.jpg)  [![](f/spaceport/svobodny/map1_thumb.jpg)](f/spaceport/svobodny/map1.png)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

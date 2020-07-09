@@ -16,7 +16,7 @@ In addition to interested members of the scientific community, each focus group 
 |*VEXAG 2019*| <https://www.lpi.usra.edu/vexag/meetings/vexag-17/>;<br> <https://www.lpi.usra.edu/vexag/>;<br> <https://twitter.com/unveilvenus>;<br> <https://www.facebook.com/groups/432478660134856/> |
 |:--|:--|
 |Date | November 6 (We) ‑ 8 (Fr), 2019  |
-|Venue | [LASP](03_lasp.md) Space Sciences Building, Room W-120, 3665 Discovery Dr., Boulder, CO 80303 |
+|Venue | [LASP](zz_lasp.md) Space Sciences Building, Room W-120, 3665 Discovery Dr., Boulder, CO 80303 |
 |Host Org. |  |
 |Co‑host Org. |  |
 |Supported by |  |
@@ -26,14 +26,14 @@ In addition to interested members of the scientific community, each focus group 
 |Reg. Fee |  |
 |Attendees |  |
 |Related Mtg. |  |
-|Contact | [Darby Dyar](02_dyar1.md) (Mt.Holyoke College) — Chair;<br> [Adriana Ocampo](02_ocampo1.md) (NASA) — Executive Officer for VEXAG;<br> [Allan Treiman](02_treiman1.md) (LPI) |
+|Contact | [Darby Dyar](zz_dyar1.md) (Mt.Holyoke College) — Chair;<br> [Adriana Ocampo](zz_ocampo1.md) (NASA) — Executive Officer for VEXAG;<br> [Allan Treiman](zz_treiman1.md) (LPI) |
 
 **Program Committee:**
 
-   - [Darby Dyar](02_dyar1.md) (Mt.Holyoke College)
-   - [Emilie Royer](02_royer1.md) (LASP)
-   - [Kevin McGouldrick](02_mcgouldrick1.md) (LASP)
-   - [Noam Izenberg](02_izenberg1.md) (JHUAPL)
+   - [Darby Dyar](zz_dyar1.md) (Mt.Holyoke College)
+   - [Emilie Royer](zz_royer1.md) (LASP)
+   - [Kevin McGouldrick](zz_mcgouldrick1.md) (LASP)
+   - [Noam Izenberg](zz_izenberg1.md) (JHUAPL)
 
 **Local Organizing committee:**
 
@@ -45,19 +45,19 @@ In addition to interested members of the scientific community, each focus group 
 
 |*Steering Committe Member*|*Position/Roles*|*Tenure*|
 |:--|:--|:--|
-| [Darby Dyar](02_dyar1.md) (Mt.Holyoke College)  | Chair  | 12.2018 ‑ 12.2021  |
-| [Noam Izenberg](02_izenberg1.md) (JHUAPL)  | Deputy Chair  | 12.2018 ‑ 12.2021  |
-| [Gary Hunter](02_hunter1.md) (GRC)  | Lead, Technology Development<br> & Laboratory Measurements Focus Group  | 02.2017 ‑ 02.2020  |
-| [Allan Treiman](02_treiman1.md) (LPI)  | Lead, Venus Goals & Exploration Sites Focus Group  | 06.2018 ‑ 02.2020  |
-| [Candace Gray](02_gray1.md) (N.Mexico Univ.);<br> [Joseph O'Rourke](02_orourke1.md) (Arizona Univ.)  | Co‑Leads Lead,<br> Early‑Career Scholars Outreach Focus Group  | 09.2018 ‑ 09.2021  |
-| [James Cutts](02_cutts1.md) (JPL)  | Venus Exploration Roadmap Focus Group  | 11.2016 ‑ 11.2019  |
-| [Kevin McGouldrick](02_mcgouldrick1.md) (LASP)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
-| [Lynn Carter](02_carter1.md) (Arizona Univ.)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
-| [Robert E. Grimm](02_grimm1.md) (SWRI)  | Past Chair  | 07.2016 ‑ 12.2018  |
-| [Colin Wilson](02_wilson1.md) (Oxford Univ.)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
-| [Patrick McGovern](02_mcgovern1.md) (LPI)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
-| [Emilie Royer](02_royer1.md) (LASP)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
-| [Giada Arney](02_arney1.md) (GFSC)  | At‑Large Member  | 09.2018 ‑ 09.2021  |
+| [Darby Dyar](zz_dyar1.md) (Mt.Holyoke College)  | Chair  | 12.2018 ‑ 12.2021  |
+| [Noam Izenberg](zz_izenberg1.md) (JHUAPL)  | Deputy Chair  | 12.2018 ‑ 12.2021  |
+| [Gary Hunter](zz_hunter1.md) (GRC)  | Lead, Technology Development<br> & Laboratory Measurements Focus Group  | 02.2017 ‑ 02.2020  |
+| [Allan Treiman](zz_treiman1.md) (LPI)  | Lead, Venus Goals & Exploration Sites Focus Group  | 06.2018 ‑ 02.2020  |
+| [Candace Gray](zz_gray1.md) (N.Mexico Univ.);<br> [Joseph O'Rourke](zz_orourke1.md) (Arizona Univ.)  | Co‑Leads Lead,<br> Early‑Career Scholars Outreach Focus Group  | 09.2018 ‑ 09.2021  |
+| [James Cutts](zz_cutts1.md) (JPL)  | Venus Exploration Roadmap Focus Group  | 11.2016 ‑ 11.2019  |
+| [Kevin McGouldrick](zz_mcgouldrick1.md) (LASP)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
+| [Lynn Carter](zz_carter1.md) (Arizona Univ.)  | At‑Large Member  | 02.2017 ‑ 02.2020  |
+| [Robert E. Grimm](zz_grimm1.md) (SWRI)  | Past Chair  | 07.2016 ‑ 12.2018  |
+| [Colin Wilson](zz_wilson1.md) (Oxford Univ.)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
+| [Patrick McGovern](zz_mcgovern1.md) (LPI)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
+| [Emilie Royer](zz_royer1.md) (LASP)  | At‑Large Member  | 07.2018 ‑ 07.2021  |
+| [Giada Arney](zz_arney1.md) (GFSC)  | At‑Large Member  | 09.2018 ‑ 09.2021  |
 
 
 
@@ -104,7 +104,7 @@ In addition to interested members of the scientific community, each focus group 
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md)  ▮  **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
+|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
 
 **Docs:**
 

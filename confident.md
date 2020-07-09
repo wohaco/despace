@@ -95,7 +95,7 @@ Additionally, the United States Department of Energy issues two levels of securi
 ### Jobs that require a clearance
 Anyone with access to classified data requires a clearance at or higher than the level at which the data is classified. For this reason, security clearances are required for a wide range of jobs, from senior management to janitorial. According to a 2013 Washington Post article, over 1.5 million Americans had top‑secret clearances; almost one‑third of them worked for private companies, rather than for the U.S. government.
 
-Jobs that require a security clearance can be found either as positions working directly for the federal government or as authorized federal contractors. Over time, more clearance jobs are being outsourced to contractors. Due to an overall shortage in security‑cleared candidates and a long time frame to obtain the credentials for an uncleared worker, those with clearance are often paid more than their non‑cleared equivalent counterparts. According to one 2010 estimate, "people with security clearances are in the top 10% of wage earners in the country".
+Jobs that require a security clearance can be found either as positions working directly for the federal government or as authorized federal contractors. Over time, more clearance jobs are being outsourced to contractors. Due to an overall shortage in security‑cleared candidates and a long time frame to obtain the credentials for an uncleared worker, those with clearance are often paid more than their non‑cleared equivalent counterparts. According to one 2010 estimate, "people with security clearances are in the top 10 % of wage earners in the country".
 
 
 

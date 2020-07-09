@@ -15,9 +15,9 @@ It consists of three separate land plots with a total area of 25 km². It was 
 |:--|:--|
 | Activity  |**Active** (1945 ‑ …)  |
 | [Launch vehicles](lv.md)  | [Antares](antares.md) ┊ [Minotaur](minotaur.md) ┊ **Scout**  |
-| Operator  | The Goddard Space Flight Center, [NASA](03_nasa.md) |
+| Operator  | The Goddard Space Flight Center, [NASA](zz_nasa.md) |
 | Location  | 37°56′19″N 75°27′26″W<br> Wallops Island, Virginia, USA  |
-| Distance  | 4 500 km — to the equator;<br> 9 200 km — to [NPO Lavochkin](03_lav.md);<br> 4 000 km — to [JPL](03_jpl.md)  |
+| Distance  | 4 500 km — to the equator;<br> 9 200 km — to [NPO Lavochkin](zz_lav.md);<br> 4 000 km — to [JPL](zz_jpl.md)  |
 | Launch pad  | 7  |
 || [![](f/spaceport/wallops/pic1_thumb.jpg)](f/spaceport/wallops/pic1.jpg)  [![](f/spaceport/wallops/map1_thumb.jpg)](f/spaceport/wallops/map1.png)   [![](f/spaceport/wallops/map2_thumb.jpg)](f/spaceport/wallops/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

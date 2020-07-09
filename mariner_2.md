@@ -22,7 +22,7 @@
 |Launch| August 27, 1962, 06:53:14 UTC, Rocket: Atlas Agena B |
 |Operator| NASA / JPL |
 |Programme| Space program Mariner |
-|Similar<br> missions| • Proposed: [Mariner 5](mariner_5.md)<br> • Current: …<br> • Past: Luna 1 |
+|Similar to| • Proposed: [Mariner 5](mariner_5.md)<br> • Current: …<br> • Past: Luna 1 |
 |Target| The Exploration Of Venus |
 |[Type](sc.md)| Flyby spacecraft |
 |**Spacecraft:**|• • •|
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -123,18 +123,18 @@ Mariner 2 was equipped with scientific instruments for measuring the magnetic fi
    - An ionization chamber with matched Geiger-Müller tubes (also known as a cosmic ray detector) to measure high-energy cosmic radiation.
    - A cosmic dust detector to measure the flux of cosmic dust particles in space.
    - A solar plasma spectrometer to measure the spectrum of low-energy positively charged particles from the Sun, i.e. the solar wind.
-   - A particle detector (implemented through use of an Anton type 213 Geiger-Müller tube) to measure lower radiation (especially near Venus). It detected soft x-rays efficiently and ultraviolet inefficiently.
+   - A particle detector (implemented through use of an Anton type 213 Geiger-Müller tube) to measure lower radiation (especially near Venus). It detected soft x‑rays efficiently and ultraviolet inefficiently.
 
 
 
 <p style="page-break-after:always"> </p>
 
 ## Космический аппарат
-Mariner 2 had a mass of 203 kg and was identical to Mariner 1 (lost at the start). The spacecraft consisted of a hexagonal base, 1.04 m wide and 0.36 m high, containing six magnesium chassis carrying equipment for scientific experiments, communications, calculations, measurements, spatial orientation and power supply monitoring, batteries and their charging, as well as tanks with gas for position correction and a jet engine. A tall pyramid-shaped mast was attached to the base, which also held equipment for scientific experiments. The total height of the spacecraft reached 3.66 m. Rectangular solar panels with a maximum span of 5.05 m and a width of 0.76 m were attached to the sides of the base. A directional parabolic antenna was mounted on a manipulator on one side of the base.
+Mariner 2 had a mass of 203 kg and was identical to Mariner 1 (lost at the start). The spacecraft consisted of a hexagonal base, 1.04 m wide and 0.36 m high, containing six magnesium chassis carrying equipment for scientific experiments, communications, calculations, measurements, spatial orientation and power supply monitoring, batteries and their charging, as well as tanks with gas for position correction and a jet engine. A tall pyramid‑shaped mast was attached to the base, which also held equipment for scientific experiments. The total height of the spacecraft reached 3.66 m. Rectangular solar panels with a maximum span of 5.05 m and a width of 0.76 m were attached to the sides of the base. A directional parabolic antenna was mounted on a manipulator on one side of the base.
 
 The power system of Mariner 2 consisted of two solar panels supplying the spacecraft directly or charging 1 000 W·h silver-zinc battery. Power and acceleration control devices controlled the power supply. The 3 W transmitter provided continuous telemetry contact, a large high-sensitivity directional parabolic antenna, a cylindrical omni-directional antenna at the top of the instrument mast, and two command antennas, one at the end of each solar array, receiving course change commands and other functions.
 
-Jet power for course maneuvers was provided by a single-fuel (hydrazine) 225 N retro rocket. The hydrazine was ignited using dinitrogen tetroxide and granulated aluminum oxide. The direction of the jet stream was controlled by four gas rudders located in front of the nozzle. Position control in space (with an error of 1°) was carried out by a system of nitrogen jet engines. The Sun and Earth were used to stabilize central computer and a sequence controller. The thermal control was achieved through the use of passive reflecting and absorbing surfaces, thermal shields and the shielding grating.
+Jet power for course maneuvers was provided by a single‑fuel (hydrazine) 225 N retro rocket. The hydrazine was ignited using dinitrogen tetroxide and granulated aluminum oxide. The direction of the jet stream was controlled by four gas rudders located in front of the nozzle. Position control in space (with an error of 1°) was carried out by a system of nitrogen jet engines. The Sun and Earth were used to stabilize central computer and a sequence controller. The thermal control was achieved through the use of passive reflecting and absorbing surfaces, thermal shields and the shielding grating.
 
 Scientific experiments were based on the base of the spacecraft and the mast. The magnetometer was mounted on top of the mast above an omnidirectional antenna. The particle detectors were mounted in the middle of the mast, along with the cosmic ray detector. The space dust detector and the space plasma spectrometer were installed on the edges of the base of the spacecraft. The microwave radiometer, infrared radiometer, and radiometer antennas were assembled into a 48 cm parabolic radiometer antenna mounted at the base of the mast.
 

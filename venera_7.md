@@ -22,11 +22,11 @@
 |Launch| 17 August 1970, 05:38:22 UTC, Rocket Molniya 8K78M |
 |Operator| Lavochkin |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: ... <br> • Past: [Venera 4](venera_4.md), [Venera 5 and 6](venera_5_6.md) |
+|Similar to| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: ... <br> • Past: [Venera 4](venera_4.md), [Venera 5 and 6](venera_5_6.md) |
 |Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface. Refinement of data obtained by [Venera 5 and 6](venera_5_6.md) |
 |[Type](sc.md)| Atmospheric spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| **Orbiter:** 2 m parabolic high-gain antenna (decimeter range)<br> **Lander:** medium gain antenna |
+|Comms| **Orbiter:** 2 m parabolic high‑gain antenna (decimeter range)<br> **Lander:** medium gain antenna |
 |Composition| Lander, orbiter |
 |Contractor| … |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1970-060A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1970-060A), SCN: [4489 ⎆](http://www.n2yo.com/satellite/?s=04489) |
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -91,7 +91,7 @@ The composition of scientific equipment was completely changed. The orbiter carr
 
 **Lander**
 
-   - "**ГС-4**" — gamma-ray spectrometer to dermine the type of surface rocks of the planet ([EVN‑023](venus.md)).
+   - "**ГС-4**" — gamma‑ray spectrometer to dermine the type of surface rocks of the planet ([EVN‑023](venus.md)).
    - A set of sensors for determining the temperature and pressure of the atmosphere.
    - "**ДОУ-1М**" — instrument for measuring the maximum acceleration in the braking section of the lander.
    -  Radio altimeter — instrument for measuring heights in the 25 ‑ 1 km range.
@@ -120,11 +120,11 @@ In connection with the increase of almost 100 kg of the mass of the lander in 
 **PEOPLE:**
 
    - **Leaders**
-      1. [Georgiy Nikolayevich Babakin](02_babakin1.md) (Георгий Николаевич Бабакин) — chief design engineer.
+      1. [Georgiy Nikolayevich Babakin](zz_babakin1.md) (Георгий Николаевич Бабакин) — chief design engineer.
    - **Members**
-      1. [Mikhail Yakovlevich Marov](02_marov1.md) (Михаил Яковлевич Маров) — led the team to decode data from Venera 7, astronomer.
+      1. [Mikhail Yakovlevich Marov](zz_marov1.md) (Михаил Яковлевич Маров) — led the team to decode data from Venera 7, astronomer.
       1. Oleg Nikolaevich Rzhiga (Олег Николаевич Ржига) — astronomer, scientist.
-      1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов)
+      1. [Vladimir Pavlovich Dolgopolov](zz_dolgopolov1.md) (Владимир Павлович Долгополов)
 
 **COMMUNITY:**
 

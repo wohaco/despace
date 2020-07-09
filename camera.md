@@ -19,9 +19,9 @@
 ## Разновидности
 |*°*|*[Фирма](contact.md)*|*Модели камер (масса, кг)*|
 |:--|:--|:--|:--|
-|**RU**| [ИКИ РАН](03_iki_ras.md) | [ЛСТК](lstk.md) (8) ┊ [МСУ-100](msu_100.md) (3.2) ┊ [МСУ-50](msu_50.md) (2.5) ┊ [ВТК-10,15](vtk_1015.md) (0.7)<br> **`Исторические:`** *[ТСНН УТК](tsnn_utk.md) (2.7) ┊ [ТСНН ШТК](tsnn_shtk.md) (1.7)*  |
+|**RU**| [ИКИ РАН](zz_iki_ras.md) | [ЛСТК](lstk.md) (8) ┊ [МСУ-100](msu_100.md) (3.2) ┊ [МСУ-50](msu_50.md) (2.5) ┊ [ВТК-10,15](vtk_1015.md) (0.7)<br> **`Исторические:`** *[ТСНН УТК](tsnn_utk.md) (2.7) ┊ [ТСНН ШТК](tsnn_shtk.md) (1.7)*  |
 |•|• • • • • • • •|• • •|
-|**US**| [Ball A&T](03_ball_at.md) | […](.md) () ┊ […](.md) ()  |
+|**US**| [Ball A&T](zz_ball_at.md) | […](.md) () ┊ […](.md) ()  |
 || [Space Micro](space_micro.md) | [4K Space Camera](4k_space_camera.md) (1.75) ┊ [5MP Space Camera](5mp_space_camera.md) (1)  |
 
    - **Ball Aerospace**, <http://www.ballaerospace.com>

@@ -65,7 +65,7 @@ The **Satellite Catalog Number** (also known as **NORAD Catalog Number, NORAD ID
 
 Альтернативной системой нумерации спутников является **номер полёта (NSSDC ID)**.
 
-Objects that fail to orbit or orbit for a short time are not catalogued. The minimum object size in the catalog is 10 centimeters in diameter. As of June 23, 2019, the catalog listed 44 336 objects including 8 558 satellites launched into orbit since 1957. 17 480 of them were actively tracked while 1 335 were lost. [ESA](03_esa.md) estimates there are about 34 000 orbiting debris of the size USSTRATCOM is capable to track as of January 2019.
+Objects that fail to orbit or orbit for a short time are not catalogued. The minimum object size in the catalog is 10 centimeters in diameter. As of June 23, 2019, the catalog listed 44 336 objects including 8 558 satellites launched into orbit since 1957. 17 480 of them were actively tracked while 1 335 were lost. [ESA](zz_esa.md) estimates there are about 34 000 orbiting debris of the size USSTRATCOM is capable to track as of January 2019.
 
 USSTRATCOM shares the catalog via <http://space-track.org> website. 18th Space Control Squadron (18 SPCS) is the unit that maintains the catalog.
 

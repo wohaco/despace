@@ -22,7 +22,7 @@
 |Launch| 2021 (proposed) |
 |Operator| NASA’s JPL |
 |Programme| Discovery Program |
-|Similar<br> missions| • Proposed: [EnVision](envision.md)<br> • Current: …<br> • Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md) |
+|Similar to| • Proposed: [EnVision](envision.md)<br> • Current: …<br> • Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md) |
 |Target| Would produce global, high resolution topography and imaging of Venus’ surface |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -39,7 +39,7 @@
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -68,7 +68,7 @@
 ## Mission
 VERITAS would produce global, high resolution topography and imaging of Venus’ surface ([EVN‑022](venus.md)) and produce the first maps of deformation and global surface composition ([EVN‑024](venus.md)), thermal emissivity, and gravity field ([EVN‑089](venus.md)). It would also attempt to determine if Venus hosted ancient aqueous environments ([EVN‑052](venus.md)). Also, current data are highly suggestive of recent and active volcanism and this mission could determine if current volcanism is limited to mantle plume heads or is more widespread ([EVN‑029](venus.md)).
 
-High resolution imagery would be obtained by using an X-band ([EVN‑078](venus.md)) radar configured as a single pass interferometric synthetic aperture radar (InSAR) coupled with a multispectral near-infrared (NIR) emissivity mapping capability. VERITAS would map surface topography with a spatial resolution of 250 m and 5 m vertical accuracy, and generate radar imagery with 30 m spatial resolution ([EVN‑022](venus.md)).
+High resolution imagery would be obtained by using an X‑band ([EVN‑078](venus.md)) radar configured as a single pass interferometric synthetic aperture radar (InSAR) coupled with a multispectral near‑infrared (NIR) emissivity mapping capability. VERITAS would map surface topography with a spatial resolution of 250 m and 5 m vertical accuracy, and generate radar imagery with 30 m spatial resolution ([EVN‑022](venus.md)).
 
 The combination of surface topography and image data would provide knowledge of Venus’ tectonic and impact history, the timing and mechanisms of volcanic resurfacing, and the mantle processes responsible for them ([EVN‑042](venus.md)).
 
@@ -105,7 +105,7 @@ Gravity science would be carried out using the spacecraft’s telecom system ([E
 
 **PEOPLE:**
 
-   1. [Suzanne Smrekar](03_smrekar1.md) — The VERITAS Principal Investigator (JPL)
+   1. [Suzanne Smrekar](zz_smrekar1.md) — The VERITAS Principal Investigator (JPL)
    1. Michael Lisano — Project Systems Engineer (JPL)
    1. Noah Suzara — Project proposal cost estimating contributor (2019, JPL)
 

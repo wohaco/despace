@@ -7,15 +7,15 @@
 
 > <small>*Terms:* **Sriharikota** — English term with no analogues in Russian. **Шрихарикота** — literal translation to Russian.</small>
 
-**Satish Dhawan Space Centre** (**SDSC**) or **Sriharikota Range** (**SHAR**) is a rocket launch centre operated by Indian Space Research Organisation ([ISRO](03_isro.md)). [Spaceport](spaceport.md) is located in Sriharikota in Andhra Pradesh. Sriharikota Range was renamed in 2002 after ISRO’s former chairman Satish Dhawan.
+**Satish Dhawan Space Centre** (**SDSC**) or **Sriharikota Range** (**SHAR**) is a rocket launch centre operated by Indian Space Research Organisation ([ISRO](zz_isro.md)). [Spaceport](spaceport.md) is located in Sriharikota in Andhra Pradesh. Sriharikota Range was renamed in 2002 after ISRO’s former chairman Satish Dhawan.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 | Activity  |**Active** (1971 ‑ …)  |
 | [Launch vehicles](lv.md)  | ASLV ┊ [GSLV](gslv.md) ┊ [PSLV](pslv.md) ┊ Rohini ┊ SLV  |
-| Operator  | [ISRO](03_isro.md) |
+| Operator  | [ISRO](zz_isro.md) |
 | Location  | 13°43′12″N 80°13′49″E<br> Sriharikota, India  |
-| Distance  | 1 600 km — to the equator;<br> 6 400 km — to [NPO Lavochkin](03_lav.md);<br> 16 600 km — to [JPL](03_jpl.md);<br> 300 km — to [ISRO](03_isro.md)  |
+| Distance  | 1 600 km — to the equator;<br> 6 400 km — to [NPO Lavochkin](zz_lav.md);<br> 16 600 km — to [JPL](zz_jpl.md);<br> 300 km — to [ISRO](zz_isro.md)  |
 | Launch pad  | 3  |
 || [![](f/spaceport/sriharikota/pic1_thumb.jpg)](f/spaceport/sriharikota/pic1.jpg)  [![](f/spaceport/sriharikota/map1_thumb.jpg)](f/spaceport/sriharikota/map1.png)   [![](f/spaceport/sriharikota/map2_thumb.jpg)](f/spaceport/sriharikota/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

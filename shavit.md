@@ -30,7 +30,7 @@
 |Длина/диаметр  | 26.4 м / 1.35 м   |
 |[Космодромы](spaceport.md)  | [Palmachim](palmachim.md)  |
 |Масса старт./сух.  | 30 500 кг / … кг  |
-|Разраб./изготов.  | [IAI](03_iai.md) (Израиль) / [IAI](03_iai.md) (Израиль)  |
+|Разраб./изготов.  | [IAI](zz_iai.md) (Израиль) / [IAI](zz_iai.md) (Израиль)  |
 |Ступени  | 4  |
 |[Топливо](fuel.md)  | [HTPB](htpb.md)  |
 || [![](f/lv/shavit/shavit1_02_thumb.jpg)](f/lv/shavit/shavit1_02.jpg)  |

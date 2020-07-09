@@ -17,7 +17,7 @@ The cosmodrome has an extensive network of roads and Railways, aviation equipmen
 | [Launch vehicles](lv.md)  | [Angara](angara.md) ┊ **Vostok** ┊ **Kosmos** ┊ **R‑7, 9, 16** ┊ **Rokot** ┊ [Soyuz‑2](soyuz.md) ┊ **Tsyklon** ┊ different ICBMs  |
 | Operator  | Ministry of Defence (Russia) |
 | Location  | 62°55′32″N 40°34′40″E<br> Mirny, Arkhangelsk oblast, Russia  |
-| Distance  | 7 400 km — to the equator;<br> 800 km — to [NPO Lavochkin](03_lav.md);<br> 14 700 km — to [JPL](03_jpl.md)  |
+| Distance  | 7 400 km — to the equator;<br> 800 km — to [NPO Lavochkin](zz_lav.md);<br> 14 700 km — to [JPL](zz_jpl.md)  |
 | Launch pad  | 8  |
 || [![](f/spaceport/plesetsk/pic1_thumb.jpg)](f/spaceport/plesetsk/pic1.jpg)  [![](f/spaceport/plesetsk/map1_thumb.jpg)](f/spaceport/plesetsk/map1.png)   [![](f/spaceport/plesetsk/map2_thumb.jpg)](f/spaceport/plesetsk/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

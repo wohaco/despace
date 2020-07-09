@@ -8,7 +8,7 @@
 > <small>*Terms:* **Венера‑5** — Russian term with no analogues in English. **Venera 5** — English equivalent.</small>  
 > <small>**Венера‑6** — Russian term with no analogues in English. **Venera 6** — English equivalent.</small>
 
-**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 km, the lander took measurements of temperature (from 25 to 320 °C), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97% CO₂, 2% N₂, O₂<1%, and traces of water vapor were found.
+**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 km, the lander took measurements of temperature (from 25 to 320 °C), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97 % CO₂, 2 % N₂, O₂<1 %, and traces of water vapor were found.
 
 [![](f/project/v/venera_5_6/pic01_thumb.jpg)](f/project/v/venera_5_6/pic01.jpg)
 
@@ -23,7 +23,7 @@
 |Launch| **Venera 5:** January 5, 1969, 06:28:08 UTC Rocket: Molniya 8K78M<br> **Venera 6:** January 10, 1969, 05:51:52 UTC Rocket: Molniya 8K78M |
 |Operator| Lavochkin |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • Past: [Venera 4](venera_4.md) |
+|Similar to| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • Past: [Venera 4](venera_4.md) |
 |Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface |
 |[Type](sc.md)| Atmospheric spacecraft |
 |**Spacecraft:**|• • •|
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -83,7 +83,7 @@ Venera 6 was launched into an Earth parking orbit on January 10, 1969 at 05:51:5
 
 It entered the nightside atmosphere at 06:05 UTC ([EVN‑003](venus.md)) and deployed the parachute. The lander sent back readouts every 45 s for 51 min and ceased operation due the temperature and pressure effects at roughly 10 to 12 km altitude. The photometer failed to operate, but the atmosphere was sampled at 2 bar and 10 bar pressures. It landed at 5°S 23°E.
 
-After analyzing data obtained, the composition of the atmosphere according to the updated data was: carbon dioxide 97%, nitrogen 2% ([EVN‑001](venus.md), [014](venus.md), [077](venus.md)). A sensor with a sensitivity limit of 0.1% of oxygen could not detect.
+After analyzing data obtained, the composition of the atmosphere according to the updated data was: carbon dioxide 97 %, nitrogen 2 % ([EVN‑001](venus.md), [014](venus.md), [077](venus.md)). A sensor with a sensitivity limit of 0.1 % of oxygen could not detect.
 
 Photovoltaic sensors failed to detect illumination above the threshold of 0.5 W/m² (corresponds to deep twilight) ([EVN‑013](venus.md)).
 
@@ -124,7 +124,7 @@ The orbiters were idential to Venera 4. The landers were strenghtened, withstand
 
 The area of the brake dome was reduced to 1.9 m² and the main dome to 12 m². The heat resistant parachute fabric was designed to operate at temperatures above 500 °C.
 
-The spacecrafts were equipped with parabolic high-gain antennas (the antennas played the role of a radiator and were directed in the opposite direction from the solar panels).
+The spacecrafts were equipped with parabolic high‑gain antennas (the antennas played the role of a radiator and were directed in the opposite direction from the solar panels).
 
 
 
@@ -136,7 +136,7 @@ The spacecrafts were equipped with parabolic high-gain antennas (the antennas pl
 
 <mark>TBD</mark>
 
-   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов)
+   1. [Vladimir Pavlovich Dolgopolov](zz_dolgopolov1.md) (Владимир Павлович Долгополов)
 
 **COMMUNITY:**
 

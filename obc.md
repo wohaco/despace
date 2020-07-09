@@ -19,18 +19,18 @@
 
 **Примечания:**
 
-   1. В [ИСС](03_iss_r.md) ЦВМ состоит из 2 блоков: вычислительного блока (скажем, [БИВК-МР](bivk_mr.md)) и блока [ТМС](tms.md).
+   1. В [ИСС](zz_iss_r.md) ЦВМ состоит из 2 блоков: вычислительного блока (скажем, [БИВК-МР](bivk_mr.md)) и блока [ТМС](tms.md).
 
 
 
 ## Разновидности
 |*Страна*|*[Фирма](contact.md)*|*Актуальные <small>(масса, кг)</small>*|*Исторические <small>(масса, кг)</small>*|
 |:--|:--|:--|:--|
-|**Россия**|<small>**[МОКБ Марс](03_mars_mokb.md)**</small>  | <small>[МАРС 4](mars_4.md) (8) ┊ [МАРС 7](mars_7.md) (6)</small>  |  |
-| |<small>**[НПП Антарес](03_npp_antares.md)**</small>  | <small>[МПК-003](mpk_003.md) (9) ┊ [МПК-002](mpk2.md) (3.9)</small>  |  |
-| |<small>**[НТЦ Модуль](03_ntc_module.md)**</small>  | <small>[БИВК-МН](бивк‑мн.md) () ┊ [БИВК-МР](bivk_mr.md) (8) ┊ [БИВК-Р](bivk_r.md) (7.1) ┊ [ЦВМ-12](cvm_12.md) (2.2)</small>  |  |
+|**Россия**|<small>**[МОКБ Марс](zz_mars_mokb.md)**</small>  | <small>[МАРС 4](mars_4.md) (8) ┊ [МАРС 7](mars_7.md) (6)</small>  |  |
+| |<small>**[НПП Антарес](zz_npp_antares.md)**</small>  | <small>[МПК-003](mpk_003.md) (9) ┊ [МПК-002](mpk2.md) (3.9)</small>  |  |
+| |<small>**[НТЦ Модуль](zz_ntc_module.md)**</small>  | <small>[БИВК-МН](бивк‑мн.md) () ┊ [БИВК-МР](bivk_mr.md) (8) ┊ [БИВК-Р](bivk_r.md) (7.1) ┊ [ЦВМ-12](cvm_12.md) (2.2)</small>  |  |
 | |<small>**НТИЦ «ТЕХКОМ»**</small>  |  |<small>[ЦВМ22](cvm22.md) (2.1)</small>  |
-| |<small>**[Спутникс](03_sputnix.md)**</small>  | <small>[БКУ_SXPA](bku_sxpa.md) (0.35)</small>  |  |
+| |<small>**[Спутникс](zz_sputnix.md)**</small>  | <small>[БКУ_SXPA](bku_sxpa.md) (0.35)</small>  |  |
 
 **Процессоры:**
 
@@ -39,9 +39,9 @@
 **ЦВМ:**
 
    - **РФ:**
-     1. [ИРЗ](03_irz.md)
-     1. [ИСС](03_iss_r.md)
-     1. [НПЦАП](03_npcap.md)
+     1. [ИРЗ](zz_irz.md)
+     1. [ИСС](zz_iss_r.md)
+     1. [НПЦАП](zz_npcap.md)
      1. <http://www.spacemicro.com/products/digital-systems.html>
 
 

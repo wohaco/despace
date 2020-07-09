@@ -22,7 +22,7 @@
 |Launch| 1961.02.12 00:34:36 UTC, LV Molniya 8K78 |
 |Operator| OKB-1 |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • Past: Luna 2 |
+|Similar to| • Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • Past: Luna 2 |
 |Target| Exploring of the Venus |
 |[Type](sc.md)| Venus impactor |
 |**Spacecraft:**|• • •|
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -108,8 +108,8 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spacec
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) a Soviet scientist in the field of mathematics and mechanics.
-      1. [Sergei Pavlovich Korolev](02_korolev1.md) (Сергей Павлович Королёв) a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
+      1. [Mstislav Vsevolodovich Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) a Soviet scientist in the field of mathematics and mechanics.
+      1. [Sergei Pavlovich Korolev](zz_korolev1.md) (Сергей Павлович Королёв) a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
       1. Alla Genrikhovna Masevich (Алла Генриховна Масевич) a Soviet astronomer.
       1. Boris Evseyevich Chertok (Борис Евсеевич Черток) a Russian electrical engineer and the control systems designer in the Soviet Union’s space program, and later the Roscosmos in Russia.

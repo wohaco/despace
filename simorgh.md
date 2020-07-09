@@ -30,7 +30,7 @@
 |Длина/диаметр  | 27 м / 2.5 м   |
 |[Космодромы](spaceport.md)  | [Semnan](semnan.md)  |
 |Масса старт./сух.  | 87 000 кг / … кг  |
-|Разраб./изготов.  | [ISA](03_isa.md) (Иран) / [ISA](03_isa.md) (Иран)  |
+|Разраб./изготов.  | [ISA](zz_isa.md) (Иран) / [ISA](zz_isa.md) (Иран)  |
 |Ступени  | 3  |
 |[Топливо](fuel.md)  | [АТ + Красная дымящая азотная кислота](at_plus.md)  |
 || [![](f/lv/simorgh/simorgh_01_thumb.jpg)](f/lv/simorgh/simorgh_01.png) [![](f/lv/simorgh/simorgh_02_thumb.jpg)](f/lv/simorgh/simorgh_02.jpg)  |

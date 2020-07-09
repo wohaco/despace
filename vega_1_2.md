@@ -22,12 +22,12 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |Launch| • «Vega 1» 15 Dec. 1984, 09:16:24, Baikonur, «[Proton-K](proton.md)»<br> • «Vega 2» 21 Dec. 1984, 09:13:52, Baikonur, «[Proton-K](proton.md)» |
 |Operator| … |
 |Programme| Venus‑Halley |
-|Similar<br> missions| • Proposed: …<br>  • Current: …<br> • Past: … |
-|Target| • Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near-core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core. |
+|Similar to| • Proposed: …<br>  • Current: …<br> • Past: … |
+|Target| • Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near‑core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core. |
 |[Type](sc.md)| Flyby spacecraft; lander spacecraft; atmospheric spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| Orbiter; Lander; Balloon Aerostat |
-|Comms| [L-band](rf.md) |
+|Comms| [L‑band](rf.md) |
 |Contractor| … |
 |[ID](spaceid.md)| • «Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> • «Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857 |
 |Manufacturer| NPO Lavochkin |
@@ -38,7 +38,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -62,7 +62,7 @@ Achieved targets & investigations:
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H=30 ‑ 60 km.|  |D|||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.|  |D|||||
 
 </small>
 
@@ -83,9 +83,9 @@ During the descent of the lander, the characteristics of the cloud layer ([EVN�
 
 The lander made a soft landing on the night side of Venus in the area of the plain of the Mermaid, at points 8°06' North latitude, 175°51' East longitude (Vega 1) and 7°08' South latitude, 117°40' East longitude (Vega 2). During the descent in the atmosphere, the equipment of the first lander, intended for research on the surface, turned on abnormally. The second lander successfully completed the surface research program ([EVN‑006] (venus.md)), the signal transmission lasted 56 minutes.
 
-The Vega 2 lander landed in a high-altitude area, where soil sampling and measurements of the X-ray fluorescence spectra of the Venusian rock were performed ([EVN‑062](venus.md)).
+The Vega 2 lander landed in a high-altitude area, where soil sampling and measurements of the X‑ray fluorescence spectra of the Venusian rock were performed ([EVN‑062](venus.md)).
 
-The gamma-ray spectrometers of both landers, designed to measure the content of uranium, thorium and potassium in Venusian rocks, started working during the descent of the lander at an altitude of 25 km and functioned until the end of their functioning. Rocks with relatively low levels of natural radioactive elements were found at both points where the lander landed ([EVN‑026](venus.md)).
+The gamma‑ray spectrometers of both landers, designed to measure the content of uranium, thorium and potassium in Venusian rocks, started working during the descent of the lander at an altitude of 25 km and functioned until the end of their functioning. Rocks with relatively low levels of natural radioactive elements were found at both points where the lander landed ([EVN‑026](venus.md)).
 
 **Operation of aerostats**
 
@@ -118,8 +118,8 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
       - 
 **Halley’s comet research** − search approach of flyby spacecraft to Halley’s comet with the goal of ballistic movement through the comet’s coma at a short distance from its core; conducting a comprehensive explore of Halley’s comet from the flyby trajectory, including:
 
-   - exploring the structure and dynamics of the near-core coma region;
-   - determination of gas composition in the near-core region;
+   - exploring the structure and dynamics of the near‑core coma region;
+   - determination of gas composition in the near‑core region;
    - determination of the composition of dust particles and their mass distribution at different distances from the core;
    - determination of physical characteristics of the comet core (size, shape, surface properties, temperature);
    - getting TV images of its core from a distance of about 10 000 km;
@@ -151,7 +151,7 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
    1. IFP aerosol analyzer (USSR);
    1. LSA particle size spectrometer (USSR).
    1. ISAV-A nephelometer/scatterometer (USSR);
-   1. GZU VB-02 drill + BDRP-AM25 soil [X-ray fluorescence](xrf.md) spectrometer (USSR): 216 × 142 × 128 mm, m = 8 kg, 384 channels for analysis (3 × 128), P = 12.5 W, sensor and electronic box − all inside the lander, no need of deployment;
+   1. GZU VB-02 drill + BDRP-AM25 soil [X‑ray fluorescence](xrf.md) spectrometer (USSR): 216 × 142 × 128 mm, m = 8 kg, 384 channels for analysis (3 × 128), P = 12.5 W, sensor and electronic box − all inside the lander, no need of deployment;
    1. ISAV-S UV spectrometer (USSR, France).
    1. **Aerostat**. Sensors for measuring meteorological parameters:
       - vertical wind speed (vertical anemometer),
@@ -195,7 +195,7 @@ The aerostat’s electronics provided unidirectional communication with the Eart
    - **Leadership:**
       1. R. Pella — deputy chairman
       1. F. Sabo — deputy chairman
-      1. [Roald Zinnurovich Sagdeev](02_sagdeev1.md) — is a member of the Russian Academy of Sciences. Headed the International Space Project Venus−Halley (Vega)
+      1. [Roald Zinnurovich Sagdeev](zz_sagdeev1.md) — is a member of the Russian Academy of Sciences. Headed the International Space Project Venus−Halley (Vega)
       
    - **Members:**
       1. V. Ridler (Austria)
@@ -213,7 +213,7 @@ The aerostat’s electronics provided unidirectional communication with the Eart
       1. G.L. Avanesov (USSR)
       1. V.L. Barsukov (USSR)
       1. A.A. Galeev (USSR)
-      1. [V.I. Moroz](02_moroz1.md) (USSR)
+      1. [V.I. Moroz](zz_moroz1.md) (USSR)
       1. V.G. Perminov (USSR)
       1. G.A. Skuridin (USSR)
       1. Y.A. Surkov (USSR)

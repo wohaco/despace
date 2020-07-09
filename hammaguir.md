@@ -15,9 +15,9 @@ Between 1947 and 1967 there was a rocketlaunch site, the Interarmy Special Vehic
 |:--|:--|
 | Activity |**Inactive** (1947 ‑ 1967) |
 | [Launch vehicles](lv.md) | Diamant |
-| Operator | [ESA](03_esa.md) |
+| Operator | [ESA](zz_esa.md) |
 | Location | 30°54′N 3°2′W<br> Hammaguir, Algeria |
-| Distance | 3 450 km — to the equator;<br> 4 200 km — to [NPO Lavochkin](03_lav.md);<br> 10 100 km — to [JPL](03_jpl.md);<br> 2 100 km — to ESA Headquarters in Paris |
+| Distance | 3 450 km — to the equator;<br> 4 200 km — to [NPO Lavochkin](zz_lav.md);<br> 10 100 km — to [JPL](zz_jpl.md);<br> 2 100 km — to ESA Headquarters in Paris |
 | Launch pad | 1 |
 || [![](f/spaceport/hammaguir/map_thumb.jpg)](f/spaceport/hammaguir/map.jpg) |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

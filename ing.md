@@ -34,4 +34,4 @@
 
    1. Notable interwikies — …
    1. <https://mash-xxl.info/info/400730/>
-   1. <https://rocketengines.ru/rocket-engines-studying/base-of-knowledges/encyclopedia/aftereffect-impulse.html>
+   1. <https://rocketengines.ru/rocket‑engines-studying/base-of-knowledges/encyclopedia/aftereffect-impulse.html>

@@ -73,15 +73,15 @@
 
 **PEOPLE:**
 
-   1. May Weissman — System Engineering and Ground Segment (2017 ‑ 2019, [SpaceIL](03_spaceil.md))
-   1. Lior Ezrai — Mission controller (2018 ‑ 2019, [SpaceIL](03_spaceil.md))
-   1. Tomer Klein — Deputy Head Of Mission (2019, [SpaceIL](03_spaceil.md))
-   1. Eran Shmidt — Deputy Manager, GS ([SpaceIL](03_spaceil.md))
-   1. Amir Notea — Simulation engineer (2016 ‑ 2019, [SpaceIL](03_spaceil.md))
-   1. Avi Barliya — Project manager (2013 ‑ 2016, [SpaceIL](03_spaceil.md))
-   1. Noam Arkind — control algorithms for the entire mission (2011 ‑ 2013, [SpaceIL](03_spaceil.md))
+   1. May Weissman — System Engineering and Ground Segment (2017 ‑ 2019, [SpaceIL](zz_spaceil.md))
+   1. Lior Ezrai — Mission controller (2018 ‑ 2019, [SpaceIL](zz_spaceil.md))
+   1. Tomer Klein — Deputy Head Of Mission (2019, [SpaceIL](zz_spaceil.md))
+   1. Eran Shmidt — Deputy Manager, GS ([SpaceIL](zz_spaceil.md))
+   1. Amir Notea — Simulation engineer (2016 ‑ 2019, [SpaceIL](zz_spaceil.md))
+   1. Avi Barliya — Project manager (2013 ‑ 2016, [SpaceIL](zz_spaceil.md))
+   1. Noam Arkind — control algorithms for the entire mission (2011 ‑ 2013, [SpaceIL](zz_spaceil.md))
    1. Alex Padwa — spacecraft industrial design
-   1. Avi Nudler — project and technical aspects of the solution (2014 ‑ 2016, [SpaceIL](03_spaceil.md))
+   1. Avi Nudler — project and technical aspects of the solution (2014 ‑ 2016, [SpaceIL](zz_spaceil.md))
 
 **COMMUNITY:**
 

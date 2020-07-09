@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Akatsuki** — English term with no analogues in Russian. **Акацуки** — rough Russian equivalent.</small>
 
-**Akatsuki** (あかつき, 暁, «Dawn»), also known as the Venus **Climate Orbiter (VCO)** and **Planet-C** (next after [PLANET-B (Nozomi)](nozomi.md)) — is a Japanese spacecraft tasked to study the atmosphere of [Venus](venus.md).
+**Akatsuki** (あかつき, 暁, «Dawn»), also known as the Venus **Climate Orbiter (VCO)** and **Planet-C** (next after [PLANET-B (Nozomi)](nozomi.md)) is a Japanese spacecraft tasked to study the [Venus](venus.md) atmosphere.
 
 [![](f/project/a/akatsuki/pic01_thumb.jpg)](f/project/a/akatsuki/pic01.png) [![](f/project/a/akatsuki/pic04_thumb.jpg)](f/project/a/akatsuki/pic04.png)
 
@@ -15,17 +15,17 @@
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-||**Mission:**|
+|**Mission:**|• • •|
 |Duration| 2 years (plan) и 4.5 years (estimated maximum);<br> 2010.05.21 - <mark>TBD</mark> (fact) |
-|Operator| [JAXA](03_jaxa.md) |
+|Operator| [JAXA](zz_jaxa.md) |
 |Program| … |
-|Development| … ‑ ┊ |
+|Development| … ‑ … |
 |Launch| 2010.05.20 21:58:22 UTC (00:58 MSK) [Tanegashima YLP-1](tanegashima.md) with [H-IIA 202](h2.md) |
-|Similar<br>missions| • Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US).<br> • Current: ….<br> • Past: [Venus Express](venus_express.md) (EU 2005), [VeGa‑1/2](vega_1_2.md) (SU 1984), [Venera‑11/12](venera_11_12.md) (SU 1978), [Venera‑9/10](venera_9_10.md) (SU 1975). |
+|Similar to| • Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US).<br> • Current: ….<br> • Past: [Venus Express](venus_express.md) (EU 2005), [VeGa‑1/2](vega_1_2.md) (SU 1984), [Venera‑11/12](venera_11_12.md) (SU 1978), [Venera‑9/10](venera_9_10.md) (SU 1975). |
 |[Type](sc.md)| Orbiter spacecraft |
 |Goal| Investigations of atmospheric stratification, dynamics, physics of clouds, hydrodynamic gravitational waves; survey of clouds and surface; exploring Venusian meteorology and super rotation of the atmosphere, the presence of lightning and volcanism |
 |Price| $ 290M ot 7 370 kg of [gold](sc_price.md) in 2010 priсes |
-||**Spacecraft:**|
+|**Spacecraft:**|• • •|
 |Mass| 517.6 kg, (dry: 320 kg) ([minisatellite](спутник.md), [EVN‑070](venus.md)) |
 |[Number](spaceid.md)| NSSDC ID (COSPAR ID): 2010-020D, SCN: 36576 |
 |Orbit / Place| 300 × 80 000 km, 172°, 30 hr |
@@ -38,7 +38,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -56,14 +56,16 @@ Targets & investigations:
 |EVN‑023||Surface: mineralogical composition.|  ||C||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
 |EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
-|EVN‑067||Atmosphere: nature of the polar turbulence.|  |D|||||
-|EVN‑068||Atmosphere: nature of the polar dipole.|  |D|||||
+|EVN‑049||Nature & characteristics of the thermal tides|  ||D||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑075||Atmosphere: clouds, their nature.|  |D||F|||
 |EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑078|T|Atmosphere: radiography.|  |D|||||
+|EVN‑080||Albedo: changes in time| Gi ||D|F|||
+|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
 
 </small>
 
@@ -100,7 +102,7 @@ The mission was supposed to fly for 7 months with an exit to a operating orbit o
 
 The cause of the problem is the deposition of salts in the pipeline between the boost tank (helium) and the fuel tank, as a result, the oxidizer became predominant in the combustion chamber and the increased temperature damaged the nozzle. A similar problem destroyed [Mars Observer](mars_observer.md) in 1993.
 
-From October 2009 to January 2010, a public campaign was conducted by the [Planetary Society](03_planetary_society.md) and JAXA, allowing everyone to send their name into space on Board Akatsuki. Names and messages were printed on an aluminum plate on Board the spacecraft; 260 214 people wrote their names and messages. 90 aluminum plates were created, including 3 plates with printed images of Vocaloid Hatsune Miku and its very deformed figure.
+From October 2009 to January 2010, a public campaign was conducted by the [Planetary Society](zz_planetary_society.md) and JAXA, allowing everyone to send their name into space on Board Akatsuki. Names and messages were printed on an aluminum plate on Board the spacecraft; 260 214 people wrote their names and messages. 90 aluminum plates were created, including 3 plates with printed images of Vocaloid Hatsune Miku and its very deformed figure.
 
 
 
@@ -119,7 +121,7 @@ This raises a great mystery of atmospheric motion. Venus rotates very slowly, bu
 To solve the mysteries of the atmosphere, Akatsuki observes the movements of the atmosphere at various altitudes and tries to clarify the dynamics of the atmosphere in three dimensions ([EVN‑011](venus.md)). Also, the task is to determine the causes of clouds ([EVN‑075](venus.md)) and the presence or absence of lightning in them ([EVN‑012](venus.md)). By comparing these observations, it is possible to systematize Venusian meteorology and later create a more universal planetary meteorology based on it.
 
    - 2018 LIR instrument found a long (~ 10 000 km) standing wave in the atmosphere which may affect the Venus day longevity periodically shortening/elongating it.
-   - 2020.04.23 According to the [phys.org article ⎆](https://phys.org/news/2020-04-atmospheric-tidal-venus-super-rotation.html) there is an update of atmosphere’s superrotation nature ([EVN‑034](venus.md)). An international research team led by Takeshi Horinouchi of Hokkaido University has revealed that this ’super-rotation' is maintained near the equator by atmospheric tidal waves formed from solar heating on the planet’s dayside and cooling on its nightside. Closer to the poles, however, atmospheric turbulence and other kinds of waves have a more pronounced effect. The study was published online in *Science* on April 23.
+   - 2020.04.23 According to the [phys.org article ⎆](https://phys.org/news/2020-04-atmospheric-tidal-venus-super‑rotation.html) there is an update of atmosphere’s superrotation nature ([EVN‑034](venus.md)). An international research team led by Takeshi Horinouchi of Hokkaido University has revealed that this ’super‑rotation' is maintained near the equator by atmospheric tidal waves formed from solar heating on the planet’s dayside and cooling on its nightside. Closer to the poles, however, atmospheric turbulence and other kinds of waves have a more pronounced effect. The study was published online in *Science* on April 23.
 
 
 
@@ -159,7 +161,7 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 • 4 × 3 N (0.3 kgf) correction engines on [Hydrazine](гидразин.md).  
 The first spacecraft to use silicon nitride brake engines.
 
-**Communication** is carried out in the []X-band](rf.md) at a frequency of 8 GHz, a transmitter with a power of 20 W.  
+**Communication** is carried out in the []X‑band](rf.md) at a frequency of 8 GHz, a transmitter with a power of 20 W.  
 • 1 × HGA, 1.6 m diameter antenna for Earth connection, flat shape to reduce heat dissipation,
 • 2 × rotary MGA for receiving and transmitting service information,  
 • 2 × LGA for receiving and transmitting service information.
@@ -195,11 +197,11 @@ The experiments on Akatsuki are strongly related to those on [Venus Express](ven
 
 The spacecraft entered a 24-hour orbit of 250‑350 × 66 000 km with an inclination of 78 N, allowing close observations of the North pole and global observations of the southern hemisphere. The main part of the mission ended in October 2007 and was extended until December 2012. In terms of atmospheric and surface observations, the main difference between Akatsuki and Venus Express is that Venus Express focused on global observations from Equatorial orbit, while Akatsuki focuses on spectroscopy from polar orbit, despite the fact that VMC on Venus Express did a global survey of the southern hemisphere and VIRTIS created a map of the planetary disk in mosaic mode. These various tasks complement each other in various aspects of the study of Venus.
 
-Information about the vertical position of clouds and their composition is important for accurate interpretation of images from VCO; it is difficult to get information about the location of clouds from VCO, and multi-band observations will allow you to differentiate the atmosphere into levels ([EVN‑010](venus.md)). Information about the vertical composition of the atmosphere obtained by the Venus Express spectrographic instruments (PFS, SPICAV, VIRTIS) is the basis for Akatsuki’s operation.
+Information about the vertical position of clouds and their composition is important for accurate interpretation of images from VCO; it is difficult to get information about the location of clouds from VCO, and multi‑band observations will allow you to differentiate the atmosphere into levels ([EVN‑010](venus.md)). Information about the vertical composition of the atmosphere obtained by the Venus Express spectrographic instruments (PFS, SPICAV, VIRTIS) is the basis for Akatsuki’s operation.
 
 Due to orbital limitations, Akatsuki cameras take global images of both hemispheres with an emphasis on low and middle latitudes, while VMC and VIRTIS Venus Express take global views of the southern hemisphere with an emphasis on high latitudes. Observations of Venus Express are suitable for obtaining the planet scale of symmetrical or asymmetric wave modes, for example, horizontal Y feature (Del Genio and Rossow, 1990) and allow you to observe a hemispherical difference. Akatsuki will tell more about the polar vortex ([EVN‑067] (venus.md)) and the so-called polar dipole ([EVN‑068] (venus.md)), Taylor et al., 1980).
 
-The method of ringing the surface using the near-IR range is also slightly different from that in Venus Express. IR1 scans the surface globally and continuously while simultaneously scanning clouds at a wavelength of 1.01 µm. This makes it quite easy to separate the surface structure from the clouds, since clouds rarely change their size and shape. Venus Express, however, uses a larger set of wavelengths to isolate individual materials in the surface. The latitude coverage of Akatsuki and Venus Express also differs, in the same way as atmospheric observations.
+The method of ringing the surface using the near‑IR range is also slightly different from that in Venus Express. IR1 scans the surface globally and continuously while simultaneously scanning clouds at a wavelength of 1.01 µm. This makes it quite easy to separate the surface structure from the clouds, since clouds rarely change their size and shape. Venus Express, however, uses a larger set of wavelengths to isolate individual materials in the surface. The latitude coverage of Akatsuki and Venus Express also differs, in the same way as atmospheric observations.
 
 
 
@@ -208,12 +210,12 @@ The method of ringing the surface using the near-IR range is also slightly diffe
 ## Payload
 The payload includes 6 instruments, including 5 cameras for exploring Venus in the [range](rf.md) UV to mid-IR, as well as one instrument for radio transmission:
 
-   - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 — 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near-IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 mm (f/4) and a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](02_iwagami1.md) (ex. Tokyo Univ.).
-   - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface and near ‑ surface atmosphere (1.74 — 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 mm (f/4) and FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](02_satoh1.md) (ISAS/JAXA).
-   - **Lightning and Airglow Camera (LAC)** — (range 552 — 777 nm). Camera with FOV of 16°. Detector based on an array of avalanche photodiodes, in the form of a matrix of 8 × 8 pixels. [PI](principal_investigator.md) — [Yukihiro Takahashi](02_takahashi1.md) (Hokkaido Univ.).
-   - **Longwave infrared camera (LIR)** — to study the structure of high-altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV and 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](02_taguchi1.md) (Rikkyo Univ.).
-   - **Ultra-Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](02_imamura1.md) (Tokyo Univ.).
-   - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide and an unknown UV absorber (range 283 — 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](02_watanabe1.md) (Hokkaido Information Univ.).
+   - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 — 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near‑IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 mm (f/4) and a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](zz_iwagami1.md) (ex. Tokyo Univ.).
+   - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface and near ‑ surface atmosphere (1.74 — 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 mm (f/4) and FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](zz_satoh1.md) (ISAS/JAXA).
+   - **Lightning and Airglow Camera (LAC)** — (range 552 — 777 nm). Camera with FOV of 16°. Detector based on an array of avalanche photodiodes, in the form of a matrix of 8 × 8 pixels. [PI](principal_investigator.md) — [Yukihiro Takahashi](zz_takahashi1.md) (Hokkaido Univ.).
+   - **Longwave infrared camera (LIR)** — to study the structure of high-altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV and 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](zz_taguchi1.md) (Rikkyo Univ.).
+   - **Ultra-Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](zz_imamura1.md) (Tokyo Univ.).
+   - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide and an unknown UV absorber (range 283 — 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](zz_watanabe1.md) (Hokkaido Information Univ.).
 
 ![](f/project/a/akatsuki/payload01.png)
 
@@ -226,7 +228,7 @@ The six instruments placed on Akatsuki are designed to study various aspects of 
 <p style="page-break-after:always"> </p>
 
 ### IR1 (1 µm camera)
-The observation of radio waves with a length of about 1 µm allows us to observe the lower layer of clouds and the near-surface part of Venus, and by comparing the intensity of radiation at different IR wavelengths, it is possible to study the movement of the lower layer of clouds ([EVN‑011](venus.md)), water vapor distribution ([EVN‑077](venus.md)), surface mineral composition ([EVN‑023](venus.md)), and detect the presence of active volcanoes ([EVN‑076](venus.md)).
+The observation of radio waves with a length of about 1 µm allows us to observe the lower layer of clouds and the near‑surface part of Venus, and by comparing the intensity of radiation at different IR wavelengths, it is possible to study the movement of the lower layer of clouds ([EVN‑011](venus.md)), water vapor distribution ([EVN‑077](venus.md)), surface mineral composition ([EVN‑023](venus.md)), and detect the presence of active volcanoes ([EVN‑076](venus.md)).
 
 ![](f/project/a/akatsuki/payload02.jpg)
 
@@ -291,22 +293,22 @@ UVI takes pictures in the UV range, allowing to determine the distribution of SO
 
 **Leadership:**
 
-   1. [Takeshi Imamura](02_imamura1.md) — Member of the scientific group (former scientific director of the project), Tokyo Univ. (**Vice-manager**)
-   1. [Masato Nakamura](02_nakamura1.md) — **Project manager**, ISAS/JAXA (**Director**)
-   1. [Takehiko Satoh](02_satoh1.md) — Scientific director of the project, ISAS/JAXA
+   1. [Takeshi Imamura](zz_imamura1.md) — Member of the scientific group (former scientific director of the project), Tokyo Univ. (**Vice-manager**)
+   1. [Masato Nakamura](zz_nakamura1.md) — **Project manager**, ISAS/JAXA (**Director**)
+   1. [Takehiko Satoh](zz_satoh1.md) — Scientific director of the project, ISAS/JAXA
 
 **Members:**
 
-   1. [Takafumi Hino](02_hino1.md) — Network manager, National Inst. of Technology Matsue College
-   1. [Nobuaki Ishii](02_ishii1.md) — **Main contact person**, ISAS/JAXA
-   1. [Naomoto Iwagami](02_iwagami1.md) — former Tokyo Univ.
-   1. [Yeon Joo Lee](02_lee1.md) — Member of the scientific group, Tokyo Univ.
-   1. [Shin-ya Murakami](02_murakami1.md) — Member of the scientific group, ISAS/JAXA
-   1. [Javier Peralta](02_peralta1.md) — Member of the scientific group, ISAS/JAXA
-   1. [Koichiro Sugiyama](02_sugiyama1.md) — Member of the scientific group / Network manager, National Inst. of Technology, Matsue Coll.
-   1. [Makoto Taguchi](02_taguchi1.md) — Rikkyo Univ.
-   1. [Yukihiro Takahashi](02_takahashi1.md) — Hokkaido Univ.
-   1. [Shigeto Watanabe](02_watanabe1.md) — Hokkaido Information Univ.
+   1. [Takafumi Hino](zz_hino1.md) — Network manager, National Inst. of Technology Matsue College
+   1. [Nobuaki Ishii](zz_ishii1.md) — **Main contact person**, ISAS/JAXA
+   1. [Naomoto Iwagami](zz_iwagami1.md) — former Tokyo Univ.
+   1. [Yeon Joo Lee](zz_lee1.md) — Member of the scientific group, Tokyo Univ.
+   1. [Shin-ya Murakami](zz_murakami1.md) — Member of the scientific group, ISAS/JAXA
+   1. [Javier Peralta](zz_peralta1.md) — Member of the scientific group, ISAS/JAXA
+   1. [Koichiro Sugiyama](zz_sugiyama1.md) — Member of the scientific group / Network manager, National Inst. of Technology, Matsue Coll.
+   1. [Makoto Taguchi](zz_taguchi1.md) — Rikkyo Univ.
+   1. [Yukihiro Takahashi](zz_takahashi1.md) — Hokkaido Univ.
+   1. [Shigeto Watanabe](zz_watanabe1.md) — Hokkaido Information Univ.
 
 **COMMUNITIES:**
 
@@ -345,8 +347,8 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
    1. <https://space.skyrocket.de/doc_sdat/planet-c.htm>
    1. Information archives:
       1. <https://www.darts.isas.jaxa.jp/planet/project/akatsuki/> — on-board information archive
-      1. <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — [ALPO](03_alpo.md) Japan
-      1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](03_alpo.md) Venus section
+      1. <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — [ALPO](zz_alpo.md) Japan
+      1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](zz_alpo.md) Venus section
       1. <http://pvol2.ehu.eus/pvol2/> — PVOL (Planetary Virtual Observatory & Laboratory)
       1. <https://www.britastro.org/section_front/18> — British Astronomical Association
       1. <http://www.cosmos.esa.int/web/venus/active-archive> — ESA’s Venus Ground-Based Image Archive

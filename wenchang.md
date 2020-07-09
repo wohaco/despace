@@ -22,9 +22,9 @@ The **Wenchang Spacecraft Launch Site** (*文昌航天发射场*) — China’s 
 |:--|:--|
 | Activity  |**Active** (2014 ‑ …)  |
 | [Launch vehicles](lv.md)  | [LongMarch‑5, 7](long_march.md)  |
-| Operator  | [CNSA](03_cnsa.md) |
+| Operator  | [CNSA](zz_cnsa.md) |
 | Location  | 19°36′52.17″N 110°57′4.08″E<br> Wenchang, Hainan, China  |
-| Distance  | 2 200 km — to the equator;<br> 8 100 km — to [NPO Lavochkin](03_lav.md);<br> 13 900 km — to [JPL](03_jpl.md);<br> 2 400 km — to [CNSA](03_cnsa.md)  |
+| Distance  | 2 200 km — to the equator;<br> 8 100 km — to [NPO Lavochkin](zz_lav.md);<br> 13 900 km — to [JPL](zz_jpl.md);<br> 2 400 km — to [CNSA](zz_cnsa.md)  |
 | Launch pad  | 3  |
 || [![](f/spaceport/wenchang/pic1_thumb.jpg)](f/spaceport/wenchang/pic1.jpg)  [![](f/spaceport/wenchang/map1_thumb.jpg)](f/spaceport/wenchang/map1.png)   [![](f/spaceport/wenchang/map2_thumb.jpg)](f/spaceport/wenchang/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

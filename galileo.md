@@ -1,5 +1,5 @@
 # Galileo
-> Ver. . ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.05.29 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -16,30 +16,29 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| US$1.4 billion or 114 155 kg of [gold](sc_price.md) in 1977 prices |
-|Development| 1977 — 1986 |
-|Duration| **Planned:**<br> 8 years, 1 month, 19 days**In orbit:** 7 years, 9 months, 13 days<br>**Final:** 13 years, 11 months, 3 days |
+|Cost| US $ 1.4 billion or 114 155 kg of [gold](sc_price.md) in 1977 prices |
+|Development| 1977 ‑ 1986 |
+|Duration| **Planned:** 8 y 1 m 19 d, **In orbit:** 7 y 9 m 13 d, **Final:** 13 y 11 m 3 d |
 |Launch| October 18, 1989, 16:53:40 UTC, Rocket: Space Shuttle Atlantis STS-34 / IUS |
 |Operator| NASA |
 |Programme| Galileo |
-|Similar<br> missions| • Proposed: [Cassini-Guygens](cassini.md) <br> • Current: … <br> • Past: … |
+|Similar to| • Proposed: [Cassini-Guygens](cassini.md) <br> • Current: … <br> • Past: … |
 |Target| Research of Jupiter’s system |
 |[Type](sc.md)| Orbiter spacecraft; Atmospheric Spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| Orbiter; Lander |
 |Contractor| … |
-|Manufacturer| Jet Propulsion Laboratory; Messerschmitt-Bölkow-Blohm; General Electric; Hughes Aircraft Company |
-||**`…`**|
-|Comms| 4.8 m high-gain antenna (during the flight did not open) |
+|Manufacturer| JPL; Messerschmitt-Bölkow-Blohm; General Electric; Hughes Aircraft Company |
+|Comms| 4.8 m high‑gain antenna (during the flight did not open) |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): 1989-084B, SCN: 20298 |
 |Mass| **Dry mass**<br> Orbiter: 1 884 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)); Lander: 339 kg ([Minisatellite](спутник.md), [EVN‑070](venus.md)) |
 |Orbit / Site| Kronocentric |
-|Payload| Orbiter: Solid-state imaging camera, near-infrared mapping spectrometer, ultlaviolet spectrometer, photopolarimeter radiometer, energetic particles detector, plasma investigation, plasma wave subsystem, dust detector, heavy ion counter |
+|Payload| Orbiter: Solid-state imaging camera, near‑infrared mapping spectrometer, ultlaviolet spectrometer, photopolarimeter radiometer, energetic particles detector, plasma investigation, plasma wave subsystem, dust detector, heavy ion counter |
 |Power| Orbiter: 570 W; Lander: 730 W/h |
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -51,17 +50,18 @@ Targets & investigations:
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
+|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
 
 </small>
 
 <p style="page-break-after:always"> </p>
 
 ## Mission
-Work on the spacecraft began at Jet Propulsion Laboratory in 1977. As the shuttle program got underway, Galileo was scheduled for launch in 1984, but this later slipped to 1985 and then to 1986. The mission was further delayed by the hiatus in launches that occurred after the Space Shuttle Challenger disaster. New safety protocols introduced as a result of the disaster prohibited the use of the Centaur-G stage on the Shuttle, forcing Galileo to use a lower-powered Inertial Upper Stage solid-fuel booster. The mission was re-profiled in 1987 to use several gravitational slingshots, referred to as the Venus-Earth-Earth Gravity Assist or VEEGA maneuvers, to provide the additional velocity required to reach its destination. It was finally launched on October 18, 1989, by Space Shuttle Atlantis on the STS-34 mission.
+Work on the spacecraft began at Jet Propulsion Laboratory in 1977. As the shuttle program got underway, Galileo was scheduled for launch in 1984, but this later slipped to 1985 and then to 1986. The mission was further delayed by the hiatus in launches that occurred after the Space Shuttle Challenger disaster. New safety protocols introduced as a result of the disaster prohibited the use of the Centaur-G stage on the Shuttle, forcing Galileo to use a lower-powered Inertial Upper Stage solid‑fuel booster. The mission was re-profiled in 1987 to use several gravitational slingshots, referred to as the Venus-Earth-Earth Gravity Assist or VEEGA maneuvers, to provide the additional velocity required to reach its destination. It was finally launched on October 18, 1989, by Space Shuttle Atlantis on the STS-34 mission.
 
 Galileo flew by Venus at 05:58:48 UTC on February 10, 1990, at a range of 16 106 km. Having gained 8 030 km/h in speed, the spacecraft flew by Earth twice, the first time at a range of 960 km at 20:34:34 UTC on December 8, 1990, before approaching the S-type asteroid 951 Gaspra to a distance of 1 604 km at 22:37 UTC on October 29, 1991.
 
-On April 11, 1991, the controllers sent a command for Galileo to unfurl the high-gain antenna. The antenna failed to open when the signal was sent. A fault analysis determined that some of the antenna’s «ribs» got stuck. To correct this error, an algorithm was developed to compress data for transmission to Earth so that Galileo could send full data to Earth.
+On April 11, 1991, the controllers sent a command for Galileo to unfurl the high‑gain antenna. The antenna failed to open when the signal was sent. A fault analysis determined that some of the antenna’s «ribs» got stuck. To correct this error, an algorithm was developed to compress data for transmission to Earth so that Galileo could send full data to Earth.
 
 Galileo performed a second flyby of Earth at 303.1 km at 15:09:25 UTC on December 8, 1992, adding 13 320 km/h to its cumulative speed. Galileo performed close observations of a second asteroid, 243 Ida, at 16:51:59 UTC on August 28, 1993, at a range of 2 410 km. The spacecraft discovered Ida has a moon, Dactyl, the first discovery of a natural satellite orbiting an asteroid.
 
@@ -181,7 +181,7 @@ The despun section’s instruments included the camera system; the near infrared
 
 |||
 |:--|:--|
-|An electric dipole antenna was used to study the electric fields of plasmas, while two search coil magnetic antennas studied the magnetic fields. The electric dipole antenna was mounted at the tip of the magnetometer boom. The search coil magnetic antennas were mounted on the high-gain antenna feed. Nearly simultaneous measurements of the electric and magnetic field spectrum allowed electrostatic waves to be distinguished from electromagnetic waves. The PWS weighed 7.1 kg and used an average of 9.8 W.|![](f/project/g/galileo/pws.jpg)|
+|An electric dipole antenna was used to study the electric fields of plasmas, while two search coil magnetic antennas studied the magnetic fields. The electric dipole antenna was mounted at the tip of the magnetometer boom. The search coil magnetic antennas were mounted on the high‑gain antenna feed. Nearly simultaneous measurements of the electric and magnetic field spectrum allowed electrostatic waves to be distinguished from electromagnetic waves. The PWS weighed 7.1 kg and used an average of 9.8 W.|![](f/project/g/galileo/pws.jpg)|
 
 
 **General energy-mass summary of scientific equipment of the Galileo Orbiter**
@@ -218,7 +218,7 @@ A radio transmitter was also used to measure wind speed by the Doppler effect.
 
 The Jet Propulsion Laboratory built the Galileo spacecraft and managed the Galileo mission for NASA. West Germany’s Messerschmitt-Bölkow-Blohm supplied the propulsion module. NASA’s Ames Research Center managed the atmospheric probe, which was built by Hughes Aircraft Company.
 
-One section of the **Orbiter** rotated at three rpm, keeping Galileo stable and holding six instruments that gathered data from many different directions, including the fields and particles instruments. The other section of the Orbiter was a 4.8 m wide, umbrella-like high-gain antenna, and data were periodically transmitted to it. Back on the ground, the mission operations team used software containing 650 000 lines of programming code in the orbit sequence design process; 1 615 000 lines in the telemetry interpretation; and 550 000 lines of code in navigation.
+One section of the **Orbiter** rotated at three rpm, keeping Galileo stable and holding six instruments that gathered data from many different directions, including the fields and particles instruments. The other section of the Orbiter was a 4.8 m wide, umbrella-like high‑gain antenna, and data were periodically transmitted to it. Back on the ground, the mission operations team used software containing 650 000 lines of programming code in the orbit sequence design process; 1 615 000 lines in the telemetry interpretation; and 550 000 lines of code in navigation.
 
 The Galileo **Lander** was an atmospheric-entry Lander carried by the main Galileo Orbiter on its way to Jupiter. It separated from the main spacecraft on July 10, 1995, five months before its rendezvous with the planet on December 7. After a rough deceleration, the Descent Module started to return data to the main spacecraft orbiting high above Jupiter. Inside the Lander’s heat shield, the Descent Module with its scientific instruments was protected from extreme heat and pressure during its high-speed journey into the Jovian atmosphere, entering at 47.8 km/s.
 

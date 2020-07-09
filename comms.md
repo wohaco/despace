@@ -20,19 +20,19 @@
 
 |*°*|*Фирма*|*Модели приёмников/передатчиков (масса, кг)*|
 |:--|:--|:--|
-|**RU**| [МОКБ Марс](03_mars_mokb.md) |   |
-|| [НПО ИТ](03_npoit.md) | [ПРИЗЫВ-3](prizyv_3.md) (0.17) ┊ [ПРИЗЫВ-1](prizyv_1.md) (0.075)  |
-|| [LAV](03_lav.md) | [БРК](brk_lav.md) (12)  |
-|| [НПП Саит](03_sait_ltd.md) | [РУ ПНИ](ру_пни.md) () ┊ [HSXBDT](hsxbdt.md) (1.8) ┊ [CSXBT](csxbt.md) (0.38)  |
-|| [РКС](03_rss.md) | [БА КИС](ба_кис.md) (21)  |
+|**RU**| [МОКБ Марс](zz_mars_mokb.md) |   |
+|| [НПО ИТ](zz_npoit.md) | [ПРИЗЫВ-3](prizyv_3.md) (0.17) ┊ [ПРИЗЫВ-1](prizyv_1.md) (0.075)  |
+|| [LAV](zz_lav.md) | [БРК](brk_lav.md) (12)  |
+|| [НПП Саит](zz_sait_ltd.md) | [РУ ПНИ](ру_пни.md) () ┊ [HSXBDT](hsxbdt.md) (1.8) ┊ [CSXBT](csxbt.md) (0.38)  |
+|| [РКС](zz_rss.md) | [БА КИС](ба_кис.md) (21)  |
 |•|• • • • • • • • •|• • •|
 |**US**| [Space Micro](space_micro.md) |   |
 
    - **РФ:**
-      1. [ИРЗ](03_irz.md)
+      1. [ИРЗ](zz_irz.md)
       1. [НИИ Гуськова](нии_гуськова.md) — МШУ, УМ
-      1. [РАДИС](03_radis.md)
-      1. [AvantSpace](03_avantspace.md)
+      1. [РАДИС](zz_radis.md)
+      1. [AvantSpace](zz_avantspace.md)
 
 TMP:
 

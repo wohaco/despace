@@ -8,7 +8,7 @@
 > <small>*Terms:* **Венера-2** — Russian term with no analogues in English. **Venera 2 (3MV-4 No.4)** — English equivalent.</small>  
 > <small>**Венера-3** — Russian term with no analogues in English. **Venera 3 (3MV-3 No.1)** — English equivalent.</small>
 
-**Venera 2** (**Венера-2**) and **Venera 3** (**Венера-3**) were a Soviet spacecrafts intended to explore Venus. A 3MV-4 spacecraft launched as part of the Venera programme, it failed to return data after flying past Venus. Venera 2 flew at a distance of 24 000 km from Venus, Venera 3, probably landed on Venus. In addition to data on space and near-planet space in the year of the calm Sun, scientific data on Venus itself was not received.
+**Venera 2** (**Венера-2**) and **Venera 3** (**Венера-3**) were a Soviet spacecrafts intended to explore Venus. A 3MV-4 spacecraft launched as part of the Venera programme, it failed to return data after flying past Venus. Venera 2 flew at a distance of 24 000 km from Venus, Venera 3, probably landed on Venus. In addition to data on space and near‑planet space in the year of the calm Sun, scientific data on Venus itself was not received.
 
 [![](f/project/v/venera_2_3/pic01_thumb.jpg)](f/project/v/venera_2_3/pic01.jpg)
 
@@ -23,12 +23,12 @@
 |Launch| **Venera 2** 12 November 1965, 05:02 UTC Rocket: Molniya 8K78M<br> **Venera 3** 16 November 1965, 04:19 UTC Rocket: Molniya 8K78M |
 |Operator| OKB-1 |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: Luna 2, [Mariner 2](mariner_2.md) |
+|Similar to| • Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: Luna 2, [Mariner 2](mariner_2.md) |
 |Target| Exploring the planet Venus |
 |[Type](sc.md)| Orbiter spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| **Venera 2** Orbiter<br>**Venera 3** Lander, orbiter |
-|Comms| 2 m parabolic high-gain antenna (decimeter range) |
+|Comms| 2 m parabolic high‑gain antenna (decimeter range) |
 |Contractor| … |
 |[ID](spaceid.md)| **Venera 2** NSSDC ID (COSPAR ID): [1965-091A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-091A), SCN: 1730<br> **Venera 3** NSSDC ID (COSPAR ID): [1965-092A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-092A), SCN: 1733 |
 |Manufacturer| OKB-1 |
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -76,7 +76,7 @@ The spacecraft’s initial trajectory missed Venus by 60 550 km and a course
 
 The lander crashed on Venus on 1 March 1966, making Venera 3 the first lander to hit the surface of another planet.
 
-Venera 2 and 3 were not able to transmit data on Venus itself, but scientific data on space and near-planetary space in the year of the calm Sun were obtained. The large volume of measurements during the flight was of great value for studying the problems of ultra-long-range communication and interplanetary flights. Magnetic fields, cosmic rays, low-energy charged particle fluxes, solar plasma fluxes and their energy spectra, cosmic radio emissions and micrometeorites were studied.
+Venera 2 and 3 were not able to transmit data on Venus itself, but scientific data on space and near‑planetary space in the year of the calm Sun were obtained. The large volume of measurements during the flight was of great value for studying the problems of ultra-long-range communication and interplanetary flights. Magnetic fields, cosmic rays, low-energy charged particle fluxes, solar plasma fluxes and their energy spectra, cosmic radio emissions and micrometeorites were studied.
 
 
 
@@ -86,7 +86,7 @@ Venera 2 and 3 were not able to transmit data on Venus itself, but scientific da
 **Venera 2**
 
    - The mission of Venera 2 was to take pictures and to explore the planet Venus.
-   - The Venera 2 spacecraft was equipped with cameras, as well as a magnetometer, solar and cosmic x-ray detectors, piezoelectric detectors, ion traps, a Geiger counter and receivers to measure cosmic radio emissions, etc.
+   - The Venera 2 spacecraft was equipped with cameras, as well as a magnetometer, solar and cosmic x‑ray detectors, piezoelectric detectors, ion traps, a Geiger counter and receivers to measure cosmic radio emissions, etc.
    - **Orbiter:**
       - Charged particles detectors;
       - Gas-discharge and solid-state cosmic ray detectors; Cosmic ray detectors were of two types and consisted of gas-discharge meters and solid-state silicon detectors. The parabolic antenna of the decimeter range radiometer was mounted on a ring between the control compartment and the instrument compartment;
@@ -133,7 +133,7 @@ The core of the stack was a pressurized compartment called the Orbital Compartme
 
 Mounted on the outside of the Orbital Compartment were two solar panels which supplied power to the spacecraft. They were folded against the body of the spacecraft during launch and were only deployed when the spacecraft was already on its interplanetary trajectory. On the ends of each solar panel was a hemispherical radiator which radiated excess heat from the orbital compartment into through a coolant loop.
 
-Also mounted on the Orbital Compartment was a 2 m parabolic high-gain antenna, used for long-range communications. Depending on the mission, the spacecraft also used other antennas (for example, for communications with probes on the planet’s surface).
+Also mounted on the Orbital Compartment was a 2 m parabolic high‑gain antenna, used for long-range communications. Depending on the mission, the spacecraft also used other antennas (for example, for communications with probes on the planet’s surface).
 
 **Planetary Compartment**
 
@@ -155,7 +155,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 
 <mark>TBD</mark>
 
-   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов) Венера-3
+   1. [Vladimir Pavlovich Dolgopolov](zz_dolgopolov1.md) (Владимир Павлович Долгополов) Венера-3
 
 **COMMUNITY:**
 

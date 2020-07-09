@@ -9,7 +9,7 @@
 
 **CubeSat UV Experiment (CUVE)** is a space mission concept to study the atmospheric processes of the planet Venus with a small satellite. Specifically, the orbiter mission would study an enigmatic ultraviolet light absorber of unknown composition situated within the planet’s uppermost cloud layer that absorbs about half the solar radiation downwelling in the planet’s atmosphere.
 
-The mission concept is still in its early formulation stage, started in 2017. The Principal Investigator is [Valeria Cottini](02_cottini1.md), at the University of Maryland in College Park.
+The mission concept is still in its early formulation stage, started in 2017. The Principal Investigator is [Valeria Cottini](zz_cottini1.md), at the University of Maryland in College Park.
 
 [![](f/project/c/cuve/pic01_thumb.jpg)](f/project/c/cuve/pic01.jpg)
 
@@ -20,12 +20,12 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 |**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: 2, TRL: <mark>TBD</mark> |
-|Development| … ‑ ┊ |
+|Development| … ‑ … |
 |Duration| … |
 |Launch| …, …, … |
 |Operator| NASA |
 |Programme| … |
-|Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| Characterize Venus’ unknown UV absorber(s) to understand the planet’s radiative and thermal balance, atmospheric dynamics, and chemistry of its upper clouds |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -43,7 +43,7 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 
 **Projected** targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -118,13 +118,13 @@ This concept will address the nature of the UV-absorber (range 0.32 — 0.49 �
 
 **PEOPLE:**
 
-   1. [Valeria Cottini](02_cottini1.md) (UMD) — **[Principal investigator](principal_investigator.md)**
+   1. [Valeria Cottini](zz_cottini1.md) (UMD) — **[Principal investigator](principal_investigator.md)**
    1. Shahid Aslam (NASA/GSFC)
    1. Emiliano D'Aversa (INAF-IAPS)
-   1. [Lori Glaze](02_glaze1.md) (NASA/GSFC)
+   1. [Lori Glaze](zz_glaze1.md) (NASA/GSFC)
    1. Nicolas Gorius (CUA)
    1. Tilak Hewagama (UMD)
-   1. [Nikolay Ignatiev](02_ignatiev1.md) (IKI RAN)
+   1. [Nikolay Ignatiev](zz_ignatiev1.md) (IKI RAN)
    1. Giuseppe Piccioni (INAF-IAPS)
 
 **COMMUNITY:**

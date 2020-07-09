@@ -22,11 +22,11 @@
 |Launch| November 3, 1973, 05:45:00 UTC, Rocket Atlas SLV-3D Centaur-D1A |
 |Operator| NASA / JPL |
 |Programme| Mariner |
-|Similar<br> missions| • Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • Past: [Mariner 2](mariner_2.md) |
+|Similar to| • Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • Past: [Mariner 2](mariner_2.md) |
 |Target| Measurement Mercury’s environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus |
 |[Type](sc.md)| Flyby spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| S-Band |
+|Comms| S‑band |
 |Composition| Orbiter |
 |Contractor| … |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1973-085A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-085A), SCN: 06919 |
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -59,7 +59,7 @@ Achieved targets & investigations:
 |EVN‑028||Magnetosphere structure.|  |D||F|||
 |EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
 |EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑067||Atmosphere: nature of the polar turbulence.|  |D|||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
@@ -74,7 +74,7 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-Mariner 10 was the first spacecraft to make use of an interplanetary gravitational slingshot maneuver, using Venus to bend its flight path & bring its perihelion down to the level of Mercury’s orbit. This maneuver put the spacecraft into an orbit that repeatedly brought it back to Mercury. Mariner 10 used the solar radiation pressure on its solar panels & its high-gain antenna as a means of attitude control during flight, the first spacecraft to use active solar pressure control.
+Mariner 10 was the first spacecraft to make use of an interplanetary gravitational slingshot maneuver, using Venus to bend its flight path & bring its perihelion down to the level of Mercury’s orbit. This maneuver put the spacecraft into an orbit that repeatedly brought it back to Mercury. Mariner 10 used the solar radiation pressure on its solar panels & its high‑gain antenna as a means of attitude control during flight, the first spacecraft to use active solar pressure control.
 
 Mariner 10 conducted seven experiments at Venus & Mercury. Six of these experiments had a dedicated scientific instrument to collect data. JPL selected seven experiments on the basis of maximizing science return without exceeding cost guidelines: together, the seven scientific experiments cost 12.6 million dollars, about one-eighth of the total mission budget.
 
@@ -84,7 +84,7 @@ During its first week of flight, the Mariner 10 camera system was tested by taki
 
 The spacecraft passed Venus on February 5, 1974, the closest approach being 5 768 km at 17:01 UTC ([EVN‑005](venus.md)). Mariner 10 had a camera. As Mariner 10 veered around Venus, from the planet’s night side to daylight, the cameras snapped the probe’s first image of Venus, showing an illuminated arc of clouds over the north pole emerging from darkness ([EVN‑008](venus.md)).
 
-Earth occultation occurred between 17:07 UT & 17:11 UTC, during which the spacecraft transmitted X-band radio waves through Venus’ atmosphere ([EVN‑078](venus.md)), gathering data on cloud structure ([EVN‑016](venus.md)) & temperature. Although Venus’s cloud cover is nearly featureless in visible light, it was discovered that extensive cloud detail could be seen through Mariner’s ultraviolet camera filters. The spacecraft continued photographing Venus until February 13 ([EVN‑093](venus.md)). Among the encounter’s 4 165 acquired photographs, one resulting series of images captured a thick & distinctly patterned ([EVN‑017](venus.md)) atmosphere making a full revolution every four days ([EVN‑011](venus.md)), just as terrestrial observations had suggested.
+Earth occultation occurred between 17:07 UT & 17:11 UTC, during which the spacecraft transmitted X‑band radio waves through Venus’ atmosphere ([EVN‑078](venus.md)), gathering data on cloud structure ([EVN‑016](venus.md)) & temperature. Although Venus’s cloud cover is nearly featureless in visible light, it was discovered that extensive cloud detail could be seen through Mariner’s ultraviolet camera filters. The spacecraft continued photographing Venus until February 13 ([EVN‑093](venus.md)). Among the encounter’s 4 165 acquired photographs, one resulting series of images captured a thick & distinctly patterned ([EVN‑017](venus.md)) atmosphere making a full revolution every four days ([EVN‑011](venus.md)), just as terrestrial observations had suggested.
 
 The mission revealed the composition ([EVN‑014](venus.md)) & meteorological nature ([EVN‑074](venus.md)) of Venus’ atmosphere. Data from the radio science experiment measured the extent to which radio waves passing through the atmosphere were refracted, which was used to calculate the density, pressure, & temperature of the atmosphere at any given altitude ([EVN‑010](venus.md)). Overall, atmospheric temperature is higher closer to the planet’s surface, but Mariner 10 found four altitudes where the pattern was reversed, which could signify the presence of a layer of clouds. The inversions occurred at the 56, 61, 63, & 81 km levels. The ultraviolet spectrometers identified the chemical substances that comprise Venus’ atmosphere ([EVN‑077](venus.md)). The elevated concentration of atomic oxygen in the upper atmosphere showed that the atmosphere is stratified into upper & lower layers that do not mix with each other; photographs of the upper & lower cloud layers corroborated this hypothesis. Mariner 10’s ultraviolet photographs were an invaluable information source for studying the churning clouds of Venus’ atmosphere ([EVN‑016](venus.md)). The mission researchers believed the cloud features they photographed were located in the stratosphere & upper troposphere, created by condensation; they also concluded that the contrast between darker & lighter features was due to differences in the cloud’s absorptivity of UV light ([EVN‑035](venus.md)). The subsolar region was of particular interest: as the sun is straight overhead, it imparts more solar energy to this area than other part of the planet. Compared to the rest of the planet’s atmosphere, the subsolar region was highly active & irregular. "Cells" of air lifted by convection, each up to 500 km wide, were observed forming & dissipating within the span of a few hours; some had polygonal outlines ([EVN‑011](venus.md)).
 
@@ -108,9 +108,9 @@ After losing roll control in October 1974, a third & final encounter, the closes
 
 **Discoveries**
 
-During its flyby of Venus, Mariner 10 discovered evidence of rotating clouds ([EVN‑011](venus.md)) & a very weak magnetic field ([EVN‑028](venus.md)). Using a near-ultraviolet filter, it photographed Venus’s chevron clouds & performed other atmospheric studies ([EVN‑093](venus.md)).
+During its flyby of Venus, Mariner 10 discovered evidence of rotating clouds ([EVN‑011](venus.md)) & a very weak magnetic field ([EVN‑028](venus.md)). Using a near‑ultraviolet filter, it photographed Venus’s chevron clouds & performed other atmospheric studies ([EVN‑093](venus.md)).
 
-The spacecraft flew past Mercury three times. Owing to the geometry of its orbit — its orbital period was almost exactly twice Mercury’s — the same side of Mercury was sunlit each time, so it was only able to map 40 – 45% of Mercury’s surface, taking over 2 800 photos. It revealed a more or less Moon-like surface. It thus contributed enormously to our understanding of Mercury, whose surface had not been successfully resolved through telescopic observation.
+The spacecraft flew past Mercury three times. Owing to the geometry of its orbit — its orbital period was almost exactly twice Mercury’s — the same side of Mercury was sunlit each time, so it was only able to map 40 – 45 % of Mercury’s surface, taking over 2 800 photos. It revealed a more or less Moon-like surface. It thus contributed enormously to our understanding of Mercury, whose surface had not been successfully resolved through telescopic observation.
 
 Mariner 10 also discovered that Mercury has a tenuous atmosphere consisting primarily of helium, as well as a magnetic field & a large iron-rich core. Its radiometer readings suggested that Mercury has a night time temperature of −183 °C & maximum daytime temperatures of 187 °C.
 
@@ -154,7 +154,7 @@ Two fluxgate magnetometers were entrusted with discerning whether Mercury produc
 
 This experiment investigated the mass & gravitational characteristics of Mercury. It was of particular interest because of the planet’s closeness to the Sun, large orbital eccentricity, & unusual spin-orbit resonance.
 
-As the spacecraft passed behind Mercury on the first encounter there was an opportunity to probe the atmosphere & to measure the radius of the planet. By observing phase changes in the S-band radio signal, measurements of the atmosphere could be made. The atmosphere was assessed as having a density of about 10¹⁶ molecules per cm³.
+As the spacecraft passed behind Mercury on the first encounter there was an opportunity to probe the atmosphere & to measure the radius of the planet. By observing phase changes in the S‑band radio signal, measurements of the atmosphere could be made. The atmosphere was assessed as having a density of about 10¹⁶ molecules per cm³.
 
 
 

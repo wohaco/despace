@@ -13,9 +13,9 @@
 |:--|:--|
 | Activity  |**Active** (1995? ‑ …)  |
 | [Launch vehicles](lv.md)  | CAMUI, [H-II](h2.md) |
-| Operator  | [Japan Aerospace Exploration Agency](03_jaxa.md) |
+| Operator  | [Japan Aerospace Exploration Agency](zz_jaxa.md) |
 | Location  | 42°30′N 143°26′29″E<br>  Taiki, Hokkaido, Japan  |
-| Distance  | 4 750 km — to the equator;<br> 7 100 km — to [NPO Lavochkin](03_lav.md);<br> 8 150 km — to [JPL](03_jpl.md);<br> 850 km — to the [JAXA](03_jaxa.md) Headquarters, Tokyo |
+| Distance  | 4 750 km — to the equator;<br> 7 100 km — to [NPO Lavochkin](zz_lav.md);<br> 8 150 km — to [JPL](zz_jpl.md);<br> 850 km — to the [JAXA](zz_jaxa.md) Headquarters, Tokyo |
 | Launch pad  | ?  |
 || [![](f/spaceport/taiki/taiki_thumb.jpg)](f/spaceport/taiki/taiki.jpg)  [![](f/spaceport/taiki/map_thumb.jpg)](f/spaceport/taiki/map.jpg) |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

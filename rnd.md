@@ -8,7 +8,7 @@
 |*Этапы*||| <small>*ОКР*</small> ||||| <small>*серийное пр‑во:*</small> ||
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |<small>**[R&D](rnd.md)**</small>  | <small>[НИР](rnd_0.md)</small>  | <small>[АП](rnd_ap.md)</small>  | <small>[ЭП](rnd_ep.md)</small>  | <small>[ТП](rnd_tp.md)</small>  | <small>[РКД (РРД)](rnd_rkd.md)</small>  | <small>[Макеты, НЭО](rnd_neo.md)</small>  | <small>[ЛИ](rnd_e.md)</small>  | <small>ПСП → СП → ПЭ</small>  | <small>Вывод</small>  |
-|<small>**[R&D phases](rnd.md)**</small>  | <small>0 (pre-A)</small> | <small>A</small> | <small>≈ B</small> | <small>≈ B</small> | <small>≈ C</small> | <small>≈ C/D</small> | <small>≈ E</small> | <small>…</small> | <small>F</small> |
+|<small>**[R&D phases](rnd.md)**</small>  | <small>0 (pre‑A)</small> | <small>A</small> | <small>≈ B</small> | <small>≈ B</small> | <small>≈ C</small> | <small>≈ C/D</small> | <small>≈ E</small> | <small>…</small> | <small>F</small> |
 
 > <small>А я не поехал. Я купил мотыля и пошёл на реку. Я люблю рыбалку. Сядешь на берегу, закинешь удочку… клюёт!<br> *(S.P.O.R.T., 2000 г.)*</small>
 
@@ -36,7 +36,7 @@
    - **[Научно‑исследовательские работы](rnd_0.md) (НИР)** — работы поискового, теоретического и экспериментального характера с целью определения технической возможности создания новой техники в определённые сроки. НИР деляся на фундаментальные (получение новых знаний) и прикладные (применение новых знаний для решения конкретных задач).
    - **Опытно‑конструкторские работы (ОКР)** и *Технологические работы (ТР)* — разработка КД и ТД на опытный образец, изготовление и испытания опытного образца.
 
-Ниже приведены типовые этапы разработки ОКР (СЧ ОКР) в РФ и [ESA](03_esa.md). По согласованию с Заказчиком этапы могут исключаться и вводиться новые. Цели нижеприведённого:
+Ниже приведены типовые этапы разработки ОКР (СЧ ОКР) в РФ и [ESA](zz_esa.md). По согласованию с Заказчиком этапы могут исключаться и вводиться новые. Цели нижеприведённого:
 
    1. стандартизация [работ](workflow.md) и документации для различных этапов ОКР;
    1. уменьшение количества [ошибок](error.md) и разночтений [НД](doc.md) для исполнителя и [кооперации](contact.md);
@@ -87,7 +87,7 @@
 
 **За рубежом.**
 
-[Spacecraft systems](scs.md) are normally developed under the responsibility of space agencies as [NASA](03_nasa.md), [ESA](03_esa.md) etc. In the space area standardized terms and processes have been introduced to allow for unambiguous communication between all partners and efficient usage of all documents. For instance the life cycle of [SCS](scs.md) is divided in phases.  
+[Spacecraft systems](scs.md) are normally developed under the responsibility of space agencies as [NASA](zz_nasa.md), [ESA](zz_esa.md) etc. In the space area standardized terms and processes have been introduced to allow for unambiguous communication between all partners and efficient usage of all documents. For instance the life cycle of [SCS](scs.md) is divided in phases.  
 На каждом этапе проводятся [design review](design_review.md).
 
 

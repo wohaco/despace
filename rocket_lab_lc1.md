@@ -15,9 +15,9 @@ Launch Complex 1 features a 50-tonne launch platform and tower, a hangar for the
 |:--|:--|
 | Activity  |**Active** (2016 ‑ …)  |
 | [Launch vehicles](lv.md)  | [Electron](electron.md)  |
-| Operator  | [Rocket Lab](03_rocket_lab.md) |
+| Operator  | [Rocket Lab](zz_rocket_lab.md) |
 | Location  | 39.2609°S 177.8655°E<br> Mahia Peninsula, New Zealand  |
-| Distance  | 4 700 km — to the equator;<br> 19 500 km — to [NPO Lavochkin](03_lav.md);<br> 11 200 km — to [JPL](03_jpl.md)  |
+| Distance  | 4 700 km — to the equator;<br> 19 500 km — to [NPO Lavochkin](zz_lav.md);<br> 11 200 km — to [JPL](zz_jpl.md)  |
 | Launch pad  | 1  |
 || [![](f/spaceport/rocket_lab_lc1/pic1_thumb.jpg)](f/spaceport/rocket_lab_lc1/pic1.jpg)  [![](f/spaceport/rocket_lab_lc1/map1_thumb.jpg)](f/spaceport/rocket_lab_lc1/map1.png)   [![](f/spaceport/rocket_lab_lc1/map2_thumb.jpg)](f/spaceport/rocket_lab_lc1/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

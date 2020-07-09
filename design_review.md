@@ -31,7 +31,7 @@ Most formalised systems engineering processes recognise that the cost of correct
 ## In US
 In the United States military integrated acquisition lifecycle the Technical section has multiple acquisition “Technical Reviews”. Technical reviews and audits assist the acquisition and the number and types are tailored to the acquisition. Typical topics examined include adequacy of program/contract metrics, proper staffing, risks, budget, and schedule.
 
-In [NASA’s](03_nasa.md) engineering design life cycle, a phase of design reviews are held for technical and programmatic accountability and to authorize the release of funding to a project. A design review provides an in‑depth assessment, by an independent team of discipline experts and managers, that the design (or concept) is realistic and attainable from a programmatic and technical sense.
+In [NASA’s](zz_nasa.md) engineering design life cycle, a phase of design reviews are held for technical and programmatic accountability and to authorize the release of funding to a project. A design review provides an in‑depth assessment, by an independent team of discipline experts and managers, that the design (or concept) is realistic and attainable from a programmatic and technical sense.
 
 In 21CFR820.3(h), design review is described as *“documented, comprehensive, systematic examination of the design to evaluate the adequacy of the design requirements, to evaluate the capability of the design to meet these requirements, and to identify problems.”* The FDA also specifies that a design review should include an independent reviewer.
 

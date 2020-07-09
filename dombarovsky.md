@@ -15,7 +15,7 @@
 | [Launch vehicles](lv.md)  |**Dnepr**, [ICBM](icbm.md)  |
 | Operator  | Ministry of Defence (Russia) |
 | Location  | 51°05′38″N 59°50′32″E<br> Yasnensky District, Orenburg Oblast, Russia  |
-| Distance  | 5 500 km — to the equator;<br> 1 600 km — to [NPO Lavochkin](03_lav.md);<br> 18 600 km — to [JPL](03_jpl.md)  |
+| Distance  | 5 500 km — to the equator;<br> 1 600 km — to [NPO Lavochkin](zz_lav.md);<br> 18 600 km — to [JPL](zz_jpl.md)  |
 | Launch pad  | 2  |
 || [![](f/spaceport/dombarovsky/pic1_thumb.jpg)](f/spaceport/dombarovsky/pic1.jpg)  [![](f/spaceport/dombarovsky/map1_thumb.jpg)](f/spaceport/dombarovsky/map1.png)   [![](f/spaceport/dombarovsky/map2_thumb.jpg)](f/spaceport/dombarovsky/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

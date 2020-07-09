@@ -19,7 +19,7 @@
 | [Launch vehicles](lv.md) | … |
 | Operator | Shetland Space Center |
 | Location | 60°47'55.2"N 0°49'10.2"W<br> Saxa Vord Resort Haroldswick, Unst, Shetland, Scotland, ZE2 9TJ |
-| Distance | 6 800 km — to the equator;<br> 2 250 km — to [NPO Lavochkin](03_lav.md);<br> 15 800 km — to [JPL](03_jpl.md) |
+| Distance | 6 800 km — to the equator;<br> 2 250 km — to [NPO Lavochkin](zz_lav.md);<br> 15 800 km — to [JPL](zz_jpl.md) |
 | Launch pad | 1 (1 active) |
 || [![](f/spaceport/canaveral/pic1_thumb.jpg)](f/spaceport/canaveral/pic1.jpg)  [![](f/spaceport/canaveral/map1_thumb.jpg)](f/spaceport/canaveral/map1.png)   [![](f/spaceport/canaveral/map2_thumb.jpg)](f/spaceport/canaveral/map2.png) |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small> |

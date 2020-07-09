@@ -31,24 +31,24 @@
 ## Разновидности
 |*Страна*|*[Фирма](contact.md)*|*Актуальные <small>(масса, кг)</small>*|*Исторические <small>(масса, кг)</small>*|
 |:--|:--|:--|:--|
-|*Европа*| <small>[ADS](03_ads.md)</small>  | <small>[Astrix 1090](astrix_1090.md) (4.8)</small>  |  |
-|*Россия*| <small>[НПП Антарес](03_npp_antares.md)</small>  | <small>[ИУС-ВОА](ius_voa.md) (15.1) ┊ [БИУС-М](bius_m.md) (5.1)</small>  |  |
-| | <small>[НПО ИТ](03_npoit.md)</small>  | <small>[БИБ-ФГ](bib_fg.md) (1.36) ┊ [МБИНС](mbins.md) (1.34)</small>  | <small>[БИБ-ИГ](bib_ig.md) (3.6)</small>  |
-| | <small>[НПЦАП](03_npcap.md)</small>  | <small>[БИУС-Л](bius_l.md) (10)</small>  |  |
-|*США*| <small>[Northrop Grumman](03_northrop_grumman.md)</small>  | <small>[LN-200](ln_200.md) (1.25)</small>  |  |
+|*Европа*| <small>[ADS](zz_ads.md)</small>  | <small>[Astrix 1090](astrix_1090.md) (4.8)</small>  |  |
+|*Россия*| <small>[НПП Антарес](zz_npp_antares.md)</small>  | <small>[ИУС-ВОА](ius_voa.md) (15.1) ┊ [БИУС-М](bius_m.md) (5.1)</small>  |  |
+| | <small>[НПО ИТ](zz_npoit.md)</small>  | <small>[БИБ-ФГ](bib_fg.md) (1.36) ┊ [МБИНС](mbins.md) (1.34)</small>  | <small>[БИБ-ИГ](bib_ig.md) (3.6)</small>  |
+| | <small>[НПЦАП](zz_npcap.md)</small>  | <small>[БИУС-Л](bius_l.md) (10)</small>  |  |
+|*США*| <small>[Northrop Grumman](zz_northrop_grumman.md)</small>  | <small>[LN-200](ln_200.md) (1.25)</small>  |  |
 
 
 
 ## Производители
    - **Европа:**
-      1. [ADS](03_ads.md)
+      1. [ADS](zz_ads.md)
    - **РФ:**
-      1. [НИИКП](03_niicom.md)
-      1. [НПП Антарес](03_npp_antares.md) — не очень опытные в своём деле. <small>(на 2017 ‑ 2018 гг)</small>
-      1. [НПО ИТ](03_npoit.md)
-      1. [НПЦАП](03_npcap.md)
+      1. [НИИКП](zz_niicom.md)
+      1. [НПП Антарес](zz_npp_antares.md) — не очень опытные в своём деле. <small>(на 2017 ‑ 2018 гг)</small>
+      1. [НПО ИТ](zz_npoit.md)
+      1. [НПЦАП](zz_npcap.md)
    - **США:**
-      1. [Northrop Grumman](03_northrop_grumman.md)
+      1. [Northrop Grumman](zz_northrop_grumman.md)
 
 
 

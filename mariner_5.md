@@ -22,11 +22,11 @@
 |Launch| June 14, 1967, 06:01:00 UTC, Rocket: Atlas-SLV3 Agena-D |
 |Operator| NASA / JPL |
 |Programme| Mariner |
-|Similar<br> missions| • Proposed: …<br> • Current: [Venera 4](venera_4.md)<br> • Past: [Mariner 2](mariner_2.md) |
+|Similar to| • Proposed: …<br> • Current: [Venera 4](venera_4.md)<br> • Past: [Mariner 2](mariner_2.md) |
 |Target| Determine the parameters of the signal in the radio illumination of the atmosphere; measurement interplanetary and Venusian magnetic fields, charged particles, plasma, radio refractivity and UV emissions of the Venusian atmosphere |
 |[Type](sc.md)| Flyby spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| S-Band |
+|Comms| S‑band |
 |Composition| Orbiter |
 |Contractor| … |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1967-060A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-060A), SCN: 02845 |
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -90,7 +90,7 @@ Also, Mariner 5’s goals included to measure interplanetary and Venusian magnet
 ## Spacecraft
 Mariner 5 was actually built as a backup to Mariner 4, but after the success of the Mariner 4 mission, it was modified for the Venus mission by removing the TV camera, reversing and reducing the four solar panels, and adding extra thermal insulation.
 
-The Mariner 5 consisted of an octagonal magnesium frame, 127 cm across a diagonal and 45.7 cm high. A 116.8 cm diameter was mounted at the top of the frame as well. An omnidirectional low-gain antenna was mounted on a 223.5 cm tall mast next to the high-gain antenna. The overall height of the spacecraft was 2.89 m. The octagonal frame housed the electronic equipment, cabling, midcourse propulsion system, and attitude control gas supplies and regulators.
+The Mariner 5 consisted of an octagonal magnesium frame, 127 cm across a diagonal and 45.7 cm high. A 116.8 cm diameter was mounted at the top of the frame as well. An omnidirectional low‑gain antenna was mounted on a 223.5 cm tall mast next to the high‑gain antenna. The overall height of the spacecraft was 2.89 m. The octagonal frame housed the electronic equipment, cabling, midcourse propulsion system, and attitude control gas supplies and regulators.
 
 
 

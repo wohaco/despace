@@ -20,9 +20,9 @@
 |Development| … |
 |Duration| … |
 |Launch| 2023; Rocket GSLV Mk III |
-|Operator| [ISRO](03_isro.md) |
+|Operator| [ISRO](zz_isro.md) |
 |Programme| … |
-|Similar<br> missions| • Proposed: … <br> • Current: … <br> • Past: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md) |
+|Similar to| • Proposed: … <br> • Current: … <br> • Past: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md) |
 |Target| Mapping; studying the surface and atmosphere of Venus |
 |[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft |
 |**Spacecraft:**|• • •|
@@ -30,7 +30,7 @@
 |Contractor| ISRO |
 |Manufacturer| ISAC |
 ||**`…`**|
-|Comms| <mark>S-band</mark> |
+|Comms| <mark>S‑band</mark> |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
 |Mass| Launch mass 2 500 kg ([Large satellite](спутник.md), [EVN‑073](evn_073.md)) |
 |Orbit / Site| 500 x 60 000 km |
@@ -41,7 +41,7 @@
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -102,7 +102,7 @@ Collaborative payloads: India/Germany: 1, India/Sweden: 1</mark>
 | Mass Spectrometer |  | × | × |  |
 | VISWAS (Plasma Analyser) |  |  | × | × |
 | VREM (Radiation Environment) |  |  | × | × |
-| SSXS (Solar Soft X-ray Spectrometer) |  |  |  | × |
+| SSXS (Solar Soft X‑ray Spectrometer) |  |  |  | × |
 | VIPER (Plasma Wave Detector) |  |  |  | × |
 
 **RAVI**  

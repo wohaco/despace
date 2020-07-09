@@ -46,16 +46,16 @@
 |*°*|*[Фирма](contact.md)*|*Модели ЗД (масса, кг)*|
 |:--|:--|:--|
 |**EU**| [Leonardo](leonardo.md) | [A-STR](a_str.md) (3.55) ┊ [AA-STR](aa_str.md) (2.6)  |
-|| [Jena‑Optronik](03_jenaoptronik.md) | [ASTRO 15](astro_15.md) (6.15) ┊ [ASTRO 10](astro_10.md) (3.8) ┊ [ASTRO APS](astro_aps.md) (2)  |
-|| [Sodern](03_sodern.md) | [Hydra](hydra.md) (4.6) ┊ [Horus](horus.md) (1.6) ┊ [Auriga](auriga.md) (0.21)<br> **`Исторические:`** *[SED26](sed26.md) (3.3)*  |
-|| [Terma A/S](03_terma.md) | [HE-5AS](he_5as.md) (2.2) ┊ [T2](t2.md) (0.8) ┊ [T1](t1.md) (0.6 ‑ 1)  |
+|| [Jena‑Optronik](zz_jenaoptronik.md) | [ASTRO 15](astro_15.md) (6.15) ┊ [ASTRO 10](astro_10.md) (3.8) ┊ [ASTRO APS](astro_aps.md) (2)  |
+|| [Sodern](zz_sodern.md) | [Hydra](hydra.md) (4.6) ┊ [Horus](horus.md) (1.6) ┊ [Auriga](auriga.md) (0.21)<br> **`Исторические:`** *[SED26](sed26.md) (3.3)*  |
+|| [Terma A/S](zz_terma.md) | [HE-5AS](he_5as.md) (2.2) ┊ [T2](t2.md) (0.8) ┊ [T1](t1.md) (0.6 ‑ 1)  |
 |•|• • • • • • • • • • • • •|• • •|
-|**RU**| [Геофизика‑Космос](03_geofizika_s.md)  | [348К](348k.md) (3.45) ┊ [360К](360k.md) ()  |
-|| [ИКИ РАН](03_iki_ras.md)  | [БОКЗ-МФ](bokz_mf.md) (2.8) ┊ [мБОКЗ-2](мбокз_2.md) (1.5)  |
-|| [МОКБ Марс](03_mars_mokb.md)  | [АД-1](ad_1.md) (3.8)  |
-|| [Спутникс](03_sputnix.md)  | [SX-SR-MicroBOKZ](sx_sr_microbokz.md) (0.5)  |
+|**RU**| [Геофизика‑Космос](zz_geofizika_s.md)  | [348К](348k.md) (3.45) ┊ [360К](360k.md) ()  |
+|| [ИКИ РАН](zz_iki_ras.md)  | [БОКЗ-МФ](bokz_mf.md) (2.8) ┊ [мБОКЗ-2](мбокз_2.md) (1.5)  |
+|| [МОКБ Марс](zz_mars_mokb.md)  | [АД-1](ad_1.md) (3.8)  |
+|| [Спутникс](zz_sputnix.md)  | [SX-SR-MicroBOKZ](sx_sr_microbokz.md) (0.5)  |
 |•|• • • • • • • • • • • • •|• • •|
-|**US**| [Ball A&T](03_ball_at.md) | [HAST](hast.md) (7.7) ┊ [CT-2020](ct_2020.md) (3)  |
+|**US**| [Ball A&T](zz_ball_at.md) | [HAST](hast.md) (7.7) ┊ [CT-2020](ct_2020.md) (3)  |
 || [Space Micro](space_micro.md) | [µSTAR](mustar.md) (2.1) ┊ [MIST](mist.md) (0.55)  |
 
 **Кубсаты:**
@@ -81,15 +81,15 @@ In typical sun sensors, a thin slit at the top of a rectangular chamber allows a
 
 |*°*|*[Фирма](contact.md)*|*Модели СД (масса, кг)*|
 |:--|:--|:--|
-|**EU**| [Bradford](03_bradford_eng.md) | [FSS](fss.md) (0.05 ‑ 0.375) ┊ [CSS](css.md) (0.275) ┊ [CoSS](coss.md) (0.015 ‑ 0.024)  |
-|| [Jena‑Optronik](03_jenaoptronik.md) | [FSS](fss_jo.md) (0.65)  |
-|| [Solar MEMS](03_solarmems.md) | [NanoSSOC-A60](nssoc_a60.md) () ┊ [NanoSSOC-D60](nssoc_d60.md) () ┊ [SSOC-A60](ssoc_a60.md) () ┊ [SSOC-D60](ssoc_d60.md) ()  |
+|**EU**| [Bradford](zz_bradford_eng.md) | [FSS](fss.md) (0.05 ‑ 0.375) ┊ [CSS](css.md) (0.275) ┊ [CoSS](coss.md) (0.015 ‑ 0.024)  |
+|| [Jena‑Optronik](zz_jenaoptronik.md) | [FSS](fss_jo.md) (0.65)  |
+|| [Solar MEMS](zz_solarmems.md) | [NanoSSOC-A60](nssoc_a60.md) () ┊ [NanoSSOC-D60](nssoc_d60.md) () ┊ [SSOC-A60](ssoc_a60.md) () ┊ [SSOC-D60](ssoc_d60.md) ()  |
 |•|• • • • • • • • • • • • •|• • •|
-|**RU**| [ВНИИЭМ](03_vniiem.md) |   |
-|| [Геофизика‑Космос](03_geofizika_s.md) | [347К](347k.md) (0.7)  |
-|| [ИКИ РАН](03_iki_ras.md) | [ОСД](osd.md) (0.65)  |
-|| [МОКБ Марс](03_mars_mokb.md) | [ТДС](tds.md) (2.3) ┊ [СДП-1](sdp_1.md) (0.4)  |
-|| [Спутникс](03_sputnix.md) | [SX-SUNR-01](sx_sunr_01.md) (0.04)  |  |
+|**RU**| [ВНИИЭМ](zz_vniiem.md) |   |
+|| [Геофизика‑Космос](zz_geofizika_s.md) | [347К](347k.md) (0.7)  |
+|| [ИКИ РАН](zz_iki_ras.md) | [ОСД](osd.md) (0.65)  |
+|| [МОКБ Марс](zz_mars_mokb.md) | [ТДС](tds.md) (2.3) ┊ [СДП-1](sdp_1.md) (0.4)  |
+|| [Спутникс](zz_sputnix.md) | [SX-SUNR-01](sx_sunr_01.md) (0.04)  |  |
 
    - Solar MEMS <http://www.solar-mems.com/space-equipment/>
    - <https://www.adcole.com/aerospace/analog-sun-sensors/>

@@ -81,8 +81,8 @@ Pretty far from what they call the proper list of sources but that’s all we ha
 ## Archive
 Just some hysterical pages.
 
-   - [Astrium](03_astrium.md)
-   - [Canadian Space Commerce Association](03_csca.md)
+   - [Astrium](zz_astrium.md)
+   - [Canadian Space Commerce Association](zz_csca.md)
    - [Venus (2020.06.18)](faq_venus_20200618.md)
 
 

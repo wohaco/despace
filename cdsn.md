@@ -1,5 +1,5 @@
 # Chinese Deep Space Network
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [CNSA](03_cnsa.md), **[НС](scs.md)**
+> 2019.05.12 ┊ **🚀 [despace](index.md)** → [CNSA](zz_cnsa.md), **[НС](scs.md)**
 
 [TOC]
 

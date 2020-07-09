@@ -24,11 +24,11 @@
 |Launch| 27 March 1972, 04:15:01 UTC, Rocket: Molniya-M/MVL |
 |Operator| Lavochkin |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Venera 9 and 10](venera_9_10.md), [Vega 1 and 2](vega_1_2.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md) |
+|Similar to| • Proposed: [Venera 9 and 10](venera_9_10.md), [Vega 1 and 2](vega_1_2.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md) |
 |Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface. |
 |[Type](sc.md)| Atmospheric spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| A funnel-shaped antenna; a resetable antenna |
+|Comms| A funnel‑shaped antenna; a resetable antenna |
 |Composition| Orbiter, lander |
 |Contractor| … |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1972-021A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-021A), SCN: [5912 ⎆](http://www.n2yo.com/satellite/?s=05912) |
@@ -40,7 +40,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -72,7 +72,7 @@ Achieved targets & investigations:
 ## Mission
 The spacecraft took 117 days to reach Venus with one mid-course correction on 6 April 1972, separating from the orbiter and entering the atmosphere on 22 July 1972 at 08:37 UTC. Taking into account new tasks, the ballistics flight scheme of Venera 8 has changed. Unlike [Venera 4](venera_4.md), [-5, -6](venera_5_6.md), [-7](venera_7.md), the lander had to land on the day side of the planet.
 
-A refrigeration system attached to the orbiter was used to pre-chill the descent lander’s interior prior to atmospheric entry in order to prolong its life on the surface. Descent speed was reduced from 41 696 km/h to about 900 km/h by aerobraking. The 2.5 m diameter parachute opened at an altitude of 60 km.
+A refrigeration system attached to the orbiter was used to pre‑chill the descent lander’s interior prior to atmospheric entry in order to prolong its life on the surface. Descent speed was reduced from 41 696 km/h to about 900 km/h by aerobraking. The 2.5 m diameter parachute opened at an altitude of 60 km.
 
 Venera 8 carried out accurate direct (in situ) measurements of atmospheric temperature and pressure, securely tied to the altitude ([EVN‑001](venus.md), [EVN‑010](venus.md)) above the surface and on the surface itself ([EVN‑003](venus.md), [EVN‑006](venus.md)). The chemical composition of the atmosphere was clarified ([EVN‑014](venus.md)). For the first time, the descending luminous flux was measured in the range from 55 km to the surface. These first high-altitude profiles of sunlight flux proved to be sufficient to explain the nature of high temperature due to the greenhouse effect ([EVN‑001](venus.md)). They also made it possible for the first time to estimate the location of clouds in the atmosphere of Venus and to make the assumption about the presence of a sub-cloud haze ([EVN‑001](venus.md)). The illumination was measured on the surface ([EVN‑013](venus.md)), which was the basis for planning future experiments for taking panoramas. Altitude profiles of horizontal wind speed and direction from 55 km and to the surface were obtained by Doppler measurements ([EVN‑010](venus.md), [011](venus.md), [074](venus.md)).
 
@@ -89,9 +89,9 @@ Measurements of the horizontal wind speed, almost coinciding with the speed of t
 
 Radio altimeter data were obtained at various altitudes. During the descent, the lander drifted 60 km horizontally. The radio altimeter obtained a surface profile ([EVN‑002](venus.md)) on which two mountains of 1 000 and 2 000 m high, a depression of 2 000 m deep and a gentle slope ascending to the landing site were found. Two intensity profiles of the echo signal were obtained, from which it was possible to calculate the permittivity and surface density, which turned out to be equal to 1.4 g/cm³. According to the measurements of the photometer, the level of illumination monotonously decreased in the range from 50 to 35 km as the spacecraft passed through the clouds. Venera 8 was the first to detect three main optical regions in the atmosphere: the main thick cloud layer between 65 and 49 km, a less dense layer of haze (fog) between 49 km and 32 km, and a relatively clear cloudless atmosphere ([EVN‑017](venus.md)).
 
-On the surface, the light level was almost constant, which supported the conclusion of a relatively clean atmosphere below the clouds. At the landing site, the illumination was comparable to twilight on a cloudy day on Earth. The weak brightness of the surface indicated that only 1% of the incident sunlight reached the surface ([EVN‑013](venus.md)) (the Sun was 5° above the horizon).
+On the surface, the light level was almost constant, which supported the conclusion of a relatively clean atmosphere below the clouds. At the landing site, the illumination was comparable to twilight on a cloudy day on Earth. The weak brightness of the surface indicated that only 1 % of the incident sunlight reached the surface ([EVN‑013](venus.md)) (the Sun was 5° above the horizon).
 
-Measurements using gas analyzers allowed us to conclude that the atmosphere contains 97% carbon dioxide, 2% nitrogen, 0.9% water vapor and less than 0.15% oxygen ([EVN‑014](venus.md)). Although the ammonia test gave a positive result of 0.1% to 0.01% at altitudes of 44 to 32 km, this result was due to sulfuric acid, which also gave a positive reaction to the indicator used. An important circumstance was that the gas analyzer for the first time pointed out the possibility of the presence of sulfuric acid in the clouds. This explained why the clouds were so waterless but could still form droplets. And the fact that such droplets effectively reflected sunlight explained why the planet had such a high albedo.
+Measurements using gas analyzers allowed us to conclude that the atmosphere contains 97 % carbon dioxide, 2 % nitrogen, 0.9 % water vapor and less than 0.15 % oxygen ([EVN‑014](venus.md)). Although the ammonia test gave a positive result of 0.1 % to 0.01 % at altitudes of 44 to 32 km, this result was due to sulfuric acid, which also gave a positive reaction to the indicator used. An important circumstance was that the gas analyzer for the first time pointed out the possibility of the presence of sulfuric acid in the clouds. This explained why the clouds were so waterless but could still form droplets. And the fact that such droplets effectively reflected sunlight explained why the planet had such a high albedo.
 
 The radio altimeter accurately measured the distance to the planet; from this data, a section of the terrain was built ([EVN‑002](venus.md)).
 
@@ -143,7 +143,7 @@ The purpose of the launch of the automatic station Venera 8 was to deliver the l
 ## Spacecraft
 The spacecraft based on the 3MV (Venera 3V; V-72) and consisted of a lander and an orbiter.
 
-In order for the lander to get on the illuminated side, due to the restrictions imposed by the laws of celestial mechanics, it was necessary to recycle the radio system. A new funnel-shaped antenna was installed (suitable for a low position above the Earth’s horizon). Also, the landing was equipped with a resetable antenna, providing communication after landing (flat disk with spiral antennas on each side). After landing, the resetable antenna is ejected from the parachute compartment, the petals open and do not allow it to stand on the edge. The ends of the disk are emitters, and the gravity switch installed inside it, after fixing the antenna to the radiation, turns on the upper side. The main funnel-shaped antenna worked only in the descent area.
+In order for the lander to get on the illuminated side, due to the restrictions imposed by the laws of celestial mechanics, it was necessary to recycle the radio system. A new funnel‑shaped antenna was installed (suitable for a low position above the Earth’s horizon). Also, the landing was equipped with a resetable antenna, providing communication after landing (flat disk with spiral antennas on each side). After landing, the resetable antenna is ejected from the parachute compartment, the petals open and do not allow it to stand on the edge. The ends of the disk are emitters, and the gravity switch installed inside it, after fixing the antenna to the radiation, turns on the upper side. The main funnel‑shaped antenna worked only in the descent area.
 
 The data obtained by Venera 7 were taken into account in the design of  Venera 8 lander. In the lower part of the compartment, the wall thickness was reduce from 25 to 12 mm, in the upper part from 8.7 to 5.7 mm, which made it possible to reduce weight of the lander by 38.5 kg compared Venera 7. The lander mass was 495 kg.
 
@@ -160,10 +160,10 @@ In order to determine the illumination of the surface of the planet, necessary f
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Georgiy Babakin](02_babakin1.md) (Георгий Николаевич Бабакин) — chief design engineer.
-      1. [Mstislav Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
+      1. [Georgiy Babakin](zz_babakin1.md) (Георгий Николаевич Бабакин) — chief design engineer.
+      1. [Mstislav Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
    - **Members:**
-      1. [Vladimir Dolgopolov](02_dolgopolov1.md) (Владимир Павлович Долгополов)
+      1. [Vladimir Dolgopolov](zz_dolgopolov1.md) (Владимир Павлович Долгополов)
 
 **COMMUNITY:**
 

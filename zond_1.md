@@ -22,18 +22,18 @@
 |Launch| 02:42:40, April 2, 1964 UTC, Rocket: Molniya 8K78M |
 |Operator| OKB-1 |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: [Venera 1](venera_1.md) |
+|Similar to| • Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: [Venera 1](venera_1.md) |
 |Target| Exploring the planet [Venus](venus.md) |
 |[Type](sc.md)| Lander spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| 2 m parabolic high-gain antenna (decimeter range) |
+|Comms| 2 m parabolic high‑gain antenna (decimeter range) |
 |Composition| Venus orbiter, lander |
 |Contractor| … |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1964-016D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-016D), SCN: 00785 |
 |Manufacturer| Lavochkin |
 |Mass| Dry: 290 kilograms ([minisatellite](sc.md), [EVN‑070](venus.md)) |
 |Orbit / Site| Heliocentric; 0.652 AU × 1.001 AU; T = 274 days; i = 3.7° |
-|Payload| Containing experiments for chemical analysis of the atmosphere, gamma-ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water |
+|Payload| Containing experiments for chemical analysis of the atmosphere, gamma‑ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water |
 |Power| … |
 
 Achieved targets & investigations:
@@ -120,8 +120,8 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics.
-      1. [Sergei Pavlovich Korolev](02_korolev1.md) (Сергей Павлович Королёв) was a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
+      1. [Mstislav Vsevolodovich Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics.
+      1. [Sergei Pavlovich Korolev](zz_korolev1.md) (Сергей Павлович Королёв) was a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
       1. Aleksandr Konstantinovich Platonov (Александр Константинович Платонов) was a Soviet scientist, ballistics KIAM (ИПМ), analyzed the method of “solar correction”.
       1. Alfred Charles Bernard Lovell was an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft’s disoriented nondirectional antenna.

@@ -25,7 +25,7 @@ The spaceport will perform satellite operations and engage in a lunar mission to
 | [Launch vehicles](lv.md) | Virgin Orbit plane (modified Boeing 747) and LauncherOne rocket |
 | Operator | UKSA / [ESA](esa.md) |
 | Location | 50°26′27″N 4°59′43″W<br> Newquay, UK |
-| Distance | 5 600 km — to the equator;<br> 2 900 km — to [NPO Lavochkin](03_lav.md);<br> 8 600 km — to [JPL](03_jpl.md);<br> 600 km — to ESA Headquarters in Paris |
+| Distance | 5 600 km — to the equator;<br> 2 900 km — to [NPO Lavochkin](zz_lav.md);<br> 8 600 km — to [JPL](zz_jpl.md);<br> 600 km — to ESA Headquarters in Paris |
 | Launch pad | 1 (runway) |
 || [![](f/spaceport/cornwall/map_thumb.jpg)](f/spaceport/cornwall/map.jpg)   [![](f/spaceport/cornwall/runway_thumb.jpg)](f/spaceport/cornwall/runway.jpg)    [![](f/spaceport/cornwall/airport_thumb.jpg)](f/spaceport/cornwall/airport.jpg) |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

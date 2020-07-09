@@ -23,7 +23,7 @@
 |Launch| **Venera 9:** June 8, 1975, 02:38 UTC<br>**Venera 10:** June 14, 1975, 03:00:31 UTC<br>Rocket: Proton-K/DM |
 |Operator| Lavochkin |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Venera 11 and 12](venera_11_12.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md) |
+|Similar to| • Proposed: [Venera 11 and 12](venera_11_12.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md) |
 |Target| Delivery of the lander to the surface of Venus. A study of the soil, the atmosphere and clouds. Photographing the surface of the planet (including panoramic) |
 |[Type](sc.md)| Flyby spacecraft; atmospheric spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -62,7 +62,7 @@ Achieved targets & investigations:
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
 |EVN‑025||Surface: morphology|  |C|||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑063|T|Surface: panoramic mapping.|  ||C||||
+|EVN‑063|T|Surface: panoramic imaging.|  ||C||||
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
@@ -117,7 +117,7 @@ On October 20, 1975, the lander spacecraft separated from the orbiter, and landi
 
 The lander was encased in a spherical shell before landing to help protect it from the heat of entry as it slowed from 10.7 km/s to 150 m/s. This sphere was then separated with explosive bolts and a three-domed parachute was deployed which slowed the lander further to 50 m/s at an altitude of 63 km above the planet.
 
-The descent through the cloud layer took about 20 min, during which time the lander took measurements of the atmosphere ([EVN‑003](venus.md)) and radioed the information to the orbiter ([EVN‑092](venus.md)). To minimize lander damage in the hot atmosphere, the parachute was released at an altitude of 50 km, and the ring-shaped aerodynamic shield provided braking. The Venusian atmosphere is so dense near the surface that this shield provided a descent rate of 7 m/s as the lander touched down. The landing device, a hollow ring surrounding the lower part of the lander, was partly crushed upon touchdown to take up most of the landing impact. Venera 9 landed within a 150 km radius of 31.01°N 291.64°E.
+The descent through the cloud layer took about 20 min, during which time the lander took measurements of the atmosphere ([EVN‑003](venus.md)) and radioed the information to the orbiter ([EVN‑092](venus.md)). To minimize lander damage in the hot atmosphere, the parachute was released at an altitude of 50 km, and the ring‑shaped aerodynamic shield provided braking. The Venusian atmosphere is so dense near the surface that this shield provided a descent rate of 7 m/s as the lander touched down. The landing device, a hollow ring surrounding the lower part of the lander, was partly crushed upon touchdown to take up most of the landing impact. Venera 9 landed within a 150 km radius of 31.01°N 291.64°E.
 
 It was the first spacecraft to return an image from the surface ([EVN‑006](venus.md)) of another planet ([EVN‑093](venus.md)). Many of the instruments began working immediately after touchdown and the cameras were operational 2 min later. These instruments revealed a smooth surface with numerous stones. The lander measured a light level of 14 000 lux, similar to that of Earth in full daylight but no direct sunshine ([EVN‑013](venus.md)).
 
@@ -144,7 +144,7 @@ The main scientific task of the lander was to obtain a panoramic image from the 
 
 **ORBITER**
 
-   - Infrared spectrometer (from 1.6 to 2.8 μm) for studying clouds (used the linear-circular interference filter and carried out a scan of the planet with high resolution).
+   - Infrared spectrometer (from 1.6 to 2.8 μm) for studying clouds (used the linear‑circular interference filter and carried out a scan of the planet with high resolution).
    - Thermal infrared radiometer for studying clouds (two horn radiometers in the ranges of 8 to 13 μm and 18 to 28 μm).
    - 2 Photopolarimeters (335 – 800 nm) for studying clouds.
    - Photometer for recording the ratio of atomic hydrogen and deuterium (H/D) in the Lyman-alpha line.
@@ -226,7 +226,7 @@ Panoramas were transmitted simultaneously on independent VHF channels. Each came
       1. The sensor orientation on the Earth;
       1. Radiator of the hot loop of the temperature control system;
       1. Tank block;
-      1. High-gain antenna;
+      1. High‑gain antenna;
       1. Scientific equipment;
    1. Lander.
 
@@ -238,7 +238,7 @@ The spacecraft itself underwent minimal modifications, including a reduction in 
 
 The Orbiter was equipped with a rocket engine with the ability to re-launch KTDU-425A, which could develop thrust from 9.856 to 18.890 N with a full operating time of 560 s. As fuel unsymmetrical dimethylhydrazine (UDMH) and nitrogen tetroxide were used.
 
-The control system and scientific instruments were located in a sealed toroidal compartment with a diameter of 2.35 m, attached to the base of the cylinder, to which the nozzles of the auxiliary engines were attached. The navigation optics included several Sun sensors and telescopic Canopus sensors. The Earth sensors were positioned so that they were pointed in the same direction as the high-gain, sharp-pointed parabolic antenna. The antenna was mounted on the side of the cylinder and had a diameter of 1.6 m. The range of wavelengths of decimeter and centimeter. Six omnidirectional helical antennas were located nearby: four for communication with the Ground and two for communication with the lander. Using the orbiter to record then replay the data from the lander allowed a data transmission rate of 256 bit/s compared to the rate of only one bit per second possible with Venera 8 which transmitted its data directly to Earth.
+The control system and scientific instruments were located in a sealed toroidal compartment with a diameter of 2.35 m, attached to the base of the cylinder, to which the nozzles of the auxiliary engines were attached. The navigation optics included several Sun sensors and telescopic Canopus sensors. The Earth sensors were positioned so that they were pointed in the same direction as the high‑gain, sharp-pointed parabolic antenna. The antenna was mounted on the side of the cylinder and had a diameter of 1.6 m. The range of wavelengths of decimeter and centimeter. Six omnidirectional helical antennas were located nearby: four for communication with the Ground and two for communication with the lander. Using the orbiter to record then replay the data from the lander allowed a data transmission rate of 256 bit/s compared to the rate of only one bit per second possible with Venera 8 which transmitted its data directly to Earth.
 
 On both sides of the cylinder there were solar panels measuring 1.25 x 2.1 m, with a span of 6.7 m. They were equipped with jet engines to control the orientation of the station, fluxgate magnetometer rods and a repeater antenna for communication with the lander at the stages of re-entry, descent and landing. Also on the sides of the cylinder there were radiators of the thermal control system and tanks, in which nitrogen for the engines of the orientation system was at a pressure of 350 bar.
 
@@ -250,9 +250,9 @@ Information about the operation of the reentry system and data from the lander w
 
 The lander was in a spherical shell with a diameter of 2.4 m. It was a simple sphere covered with an ablative material consisting of asbestos composite on top of foam, which was aerodynamically stabilized in flight by shifting the center of mass to the front side. The angle of entry into the atmosphere was more gentle than for the 3MV lander to reduce the peak overload from about 450 g to 150 – 180 g.
 
-The lander was 2 m high, was equipped with batteries of greater (than 3MV) capacity and transmitted data to the Orbiter via two VHF-channels at a speed of 256 bit/s. The data was relayed to Earth using the high-gain, sharp-pointed parabolic antenna.
+The lander was 2 m high, was equipped with batteries of greater (than 3MV) capacity and transmitted data to the Orbiter via two VHF-channels at a speed of 256 bit/s. The data was relayed to Earth using the high‑gain, sharp-pointed parabolic antenna.
 
-The lander was a sealed double-walled titanium pressure vessel of spherical shape with a diameter of 80 cm and total mass of 660 kg, which contained most of the instruments and electronics. It was attached to the landing ring shock absorber by a system of dampers. On top was a disc-shaped aerodynamic shield with a diameter of 2.1 m, designed to reduce the rate of descent and stabilize the apparatus during its free fall in the lower atmosphere. This shield worked the same way as the reflector of the omnidirectional antenna rolled into a cylinder and located on it. Inside the cylinder with a diameter of 80 cm and a height of 40 cm were parachutes and scientific instruments to work during the descent. The sphere consisted of several sections welded together by a seam of gold wire. It was covered with a 12 cm layer of porous thermal insulation material in the form of honeycomb, and on top of it was closed with a thin titanium shell. Inside, the sphere was also lined with heat-insulating polyurethane foam. In addition to effective thermal insulation, when approaching the planet, the lander was pre-cooled to a temperature of –10 °C. The heat of the atmosphere, penetrating through the layers of insulation, was absorbed by thermal batteries based on lithium nitrate trihydrate. This salt was melted at a temperature of 33 °C, and the gas circulation system distributed heat evenly throughout the volume, maintaining this temperature inside the apparatus until the salt stock was completely melted.
+The lander was a sealed double-walled titanium pressure vessel of spherical shape with a diameter of 80 cm and total mass of 660 kg, which contained most of the instruments and electronics. It was attached to the landing ring shock absorber by a system of dampers. On top was a disc‑shaped aerodynamic shield with a diameter of 2.1 m, designed to reduce the rate of descent and stabilize the apparatus during its free fall in the lower atmosphere. This shield worked the same way as the reflector of the omnidirectional antenna rolled into a cylinder and located on it. Inside the cylinder with a diameter of 80 cm and a height of 40 cm were parachutes and scientific instruments to work during the descent. The sphere consisted of several sections welded together by a seam of gold wire. It was covered with a 12 cm layer of porous thermal insulation material in the form of honeycomb, and on top of it was closed with a thin titanium shell. Inside, the sphere was also lined with heat-insulating polyurethane foam. In addition to effective thermal insulation, when approaching the planet, the lander was pre‑cooled to a temperature of –10 °C. The heat of the atmosphere, penetrating through the layers of insulation, was absorbed by thermal batteries based on lithium nitrate trihydrate. This salt was melted at a temperature of 33 °C, and the gas circulation system distributed heat evenly throughout the volume, maintaining this temperature inside the apparatus until the salt stock was completely melted.
 
 [![](f/project/v/venera_9_10/pic03_thumb.jpg)](f/project/v/venera_9_10/pic03.jpg)
 
@@ -267,12 +267,12 @@ The lander was a sealed double-walled titanium pressure vessel of spherical shap
 **PEOPLE:**
 
    - **Leaders**
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
+      1. [Mstislav Vsevolodovich Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
    - **Members**
       1. Arnold Sergeevich Selivanov (Арнольд Сергеевич Селиванов) — a doctor of technical Sciences, Professor. Developer of telephotometers for the Venera 9 and Venera 10 missions.
       1. Mikhail Sergeyevich Ryazanskiy (Михаил Сергеевич Рязанский) — Deputy for scientific work of Tikhomirov Scientific Research Institute of Instrument Design
-      1. [Dolgopolov Vladimir Pavlovich](02_dolgopolov1.md) (Долгополов Владимир Павлович)
-      1. [Маров, Михаил Яковлевич](02_marov1.md)
+      1. [Dolgopolov Vladimir Pavlovich](zz_dolgopolov1.md) (Долгополов Владимир Павлович)
+      1. [Маров, Михаил Яковлевич](zz_marov1.md)
 
 **COMMUNITY:**
 

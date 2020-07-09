@@ -147,7 +147,7 @@ As of September 2019, no observation of Planet Nine had been announced. While sk
 
    - [Первый КА](hptc_sc9p.md)
 
-**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV; **Draft** — minimum for working with object.)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
+**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
 
 <small>
 
@@ -215,8 +215,8 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
 |EMN‑033||Atmosphere: nature/rate of its escape|  ||D||||
 |EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
-|EMN‑082|T|Atmosphere: prolonged investigations on the H=0 ‑ 10 km| All A ||||||
-|EMN‑083|T|Atmosphere: prolonged investigations on the H=10‑30 km| All A ||||||
+|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km| All A ||||||
+|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km| All A ||||||
 |EMN‑054|T|Atmosphere: sample return| As |C|||||
 |EMN‑015||Atmosphere: structure of the mesosphere| All A ||D||||
 |EMN‑030||Atmosphere: was it lost during some cataclysm or event|  ||D||||
@@ -235,13 +235,13 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑060|T|Human: manned fly‑by|  ||D|F|H||
 |EMN‑043||Mechanisms of the mantle’s convection|  ||D|F|||
 |EMN‑048||Nature & sources of the greenhouse effect|  ||D|F|||
-|EMN‑049||Nature of the thermal tides|  ||D||||
+|EMN‑049||Nature & characteristics of the thermal tides|  ||D||||
 |EMN‑069|T|Prolonged surface‑spacecraft functioning|  |C|||||
 |EMN‑064|T|Planetary terraforming|  |C|||H||
 |EMN‑045||Surface: nature of the tessera|  ||D||||
 |EMN‑061|T|Surface: sample return|  |C||||S|
 |EMN‑088|T|Surface: subsurface investigations|  |C|||||
-|EMN‑086|T|Surface: tessera investigations, close|  |C|||||
+|EMN‑086|T|Surface: tessera investigations, in‑situ|  |C|||||
 |EMN‑047||Surface: structure‑composition connection of different regions & planet’s evolution|  |C|||||
 |EMN‑039||Was the planet inhabited & for how long|  |C|D||||
 |EMN‑040||Were there oceans & why have they gone|  |C|D|F|||
@@ -259,11 +259,10 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑096||Atmosphere: ionosphere|  ||D|F|||
 |EMN‑012||Atmosphere: lightnings|  ||D||||
 |EMN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|  ||D||||
-|EMN‑068||Atmosphere: nature of the polar dipole|  ||D||||
-|EMN‑067||Atmosphere: nature of the polar turbulence|  ||D||||
+|EMN‑067||Atmosphere: nature of the polar dipole & turbulence|  ||D||||
 |EMN‑034||Atmosphere: nature of the superrotation|  ||D||||
 |EMN‑035||Atmosphere: nature of the UV‑absorber|  ||D||||
-|EMN‑084|T|Atmosphere: prolonged investigations on the H=30 ‑ 60 km|  ||D||||
+|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|  ||D||||
 |EMN‑078|T|Atmosphere: radiography|  ||D||||
 |EMN‑055|T|Atmosphere: sample obtaining & analysis|  |C|||||
 |EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|  ||D||||
@@ -292,9 +291,9 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑023||Surface: mineralogical composition|  |C|||||
 |EMN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
 |EMN‑062|T|Surface: obtaining & analysis of the surface samples|  |C||||S|
-|EMN‑063|T|Surface: panoramic mapping|  |C|||||
+|EMN‑063|T|Surface: panoramic imaging|  |C|||||
 |EMN‑025||Surface: morphology|  |C|||||
-|EMN‑085|T|Surface: tessera investigations, ranged|  ||D|F|||
+|EMN‑085|T|Surface: tessera investigations, remote|  ||D|F|||
 |EMN‑076||Surface: volcanoes, their presence|  ||D|F|||
 |EMN‑027||The causes why Venus evolved in a planet so different from Earth|  |C|D|F|||
 |EMN‑091||The loss rate of water from Venus|  ||D|F|||
@@ -315,7 +314,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md)  ▮  **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
+|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
 **Docs:**
 

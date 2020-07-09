@@ -23,11 +23,11 @@
 |Launch| **Venera 13:** October 30, 1981, 06:04:00 UTC, Rocket: Proton-K/D-1 8K82K<br> **Venera 14:** November 4, 1981, 05:31:00 UTC, Rocket: Proton-K/D-1 8K82K |
 |Operator| Soviet Academy of Sciences |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: … <br> • Current: … <br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md) |
+|Similar to| • Proposed: … <br> • Current: … <br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md) |
 |Target| Panoramic photography of Venus, sampling and analysis of the soil, the study of the atmosphere. |
 |[Type](sc.md)| Flyby spacecraft; atmospheric spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| Orbiter: high-gain parabolic antenna |
+|Comms| Orbiter: high‑gain parabolic antenna |
 |Composition| Orbiter / Lander |
 |Contractor| … |
 |[ID](spaceid.md)| **Venera 13:** NSSDC ID (COSPAR ID): [1981-106A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106A), [1981-106D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106D), SCN: [12927 ⎆](http://www.n2yo.com/satellite/?s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?s=15599)<br> **Venera 14:** NSSDC ID (COSPAR ID): [1981-110A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110A), [1981-110D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110D), SCN: [12939 ⎆](http://www.n2yo.com/satellite/?s=12939), [15600 ⎆](http://www.n2yo.com/satellite/?s=15600) |
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -61,7 +61,7 @@ Achieved targets & investigations:
 |EVN‑025||Surface: morphology|  |C|||||
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑062|T|Surface: obtaining & analysis of the surface samples.|  ||C|||S|
-|EVN‑063|T|Surface: panoramic mapping.|  ||C||||
+|EVN‑063|T|Surface: panoramic imaging.|  ||C||||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
@@ -81,7 +81,7 @@ Venera 13 and 14 were identical spacecraft built to take advantage of the 1981 V
 
 As the Orbiter flew by Venus, it acted as a data relay ([EVN‑092](venus.md)) for the lander and then continued on into a heliocentric orbit. It was equipped with scientific instruments which made measurements before, during, and after the Venus flyby ([EVN‑005](venus.md)).
 
-Both Orbiters transmitted data on solar wind and x-ray flares on the Sun. With their participation, an interplanetary network was formed, designed to triangulate gamma-ray bursts, which allowed 150 such events to be recorded. Later that decade, the [VeGa](vega_1_2.md) space station would fly near Venus and then meet Halley’s comet. Therefore, after the flyby at Venus, the stations Venera 13 and Venera 14 later turned on the engines in order to practice the maneuver, which may be required in the implementation of further programs.
+Both Orbiters transmitted data on solar wind and x‑ray flares on the Sun. With their participation, an interplanetary network was formed, designed to triangulate gamma‑ray bursts, which allowed 150 such events to be recorded. Later that decade, the [VeGa](vega_1_2.md) space station would fly near Venus and then meet Halley’s comet. Therefore, after the flyby at Venus, the stations Venera 13 and Venera 14 later turned on the engines in order to practice the maneuver, which may be required in the implementation of further programs.
 
 After launch and a four-month cruise to Venus the descent vehicles separated from the cruise stages and plunged into the Venusian atmosphere on 1 March 1982 (Venera 13) and 5 March 1982 (Venera 14).
 
@@ -93,7 +93,7 @@ The accelerometer turned on at an altitude of 100 km and carried out measureme
 
 The nephelometer data on the structure and microphysical characteristics of the atmosphere ([EVN‑017](venus.md)) confirmed the results that the main cloud system consists of three different layers of clouds: the dense upper layer from 62 km (the beginning of the measurement) to 57 km, the less dense layer from 57 to 50 km, and the densest layer from 50 to 48 km ([EVN‑016](venus.md)). According to Doppler shear measurements, high-altitude horizontal wind profiles were constructed and turbulence estimates were made.
 
-The humidity sensor showed ten times more water content in the atmosphere than was obtained by spectrometric method in the range of heights from 46 to 50 km. the Amount of water vapor at an altitude of 48 km was estimated at 0.2%.
+The humidity sensor showed ten times more water content in the atmosphere than was obtained by spectrometric method in the range of heights from 46 to 50 km. the Amount of water vapor at an altitude of 48 km was estimated at 0.2 %.
 
 New mass-spectrometer data showed an increased neon content at altitudes from 26 km to the surface. The ratio of 40argon/36argon is 4 times lower than the Earth’s. The gas chromatograph recorded several new and refined contents of previously detected atmospheric gas constituents, including molecular hydrogen, hydrogen sulfide, and carbonyl sulfide. Other reported components included molecular oxygen, water vapor, krypton, and sulfur hexafluoride ([EVN‑077](venus.md)).
 
@@ -101,9 +101,9 @@ New mass-spectrometer data showed an increased neon content at altitudes from 26
 
 Venera 13 landed at around 7 – 8 m/s at 7.55 °S 303.69 °E, just east of the eastern extension of an elevated region known as Phoebe Regio.
 
-The area was composed of bedrock outcrops surrounded by dark, fine-grained soil ([EVN‑006](venus.md)). After landing, an imaging panorama was started. Venera 13 transmitted both black-and-white and the first color panoramic images from the surface of Venus ([EVN‑063](venus.md)). A mechanical drilling arm reached to the surface and obtained a sample, which was placed in a three stage airlock sealed chamber ([EVN‑062](venus.md)), maintained at 30 °C and a pressure of about 5 kPa. Information about the drilling speed and movement of the rig rod, the depth of penetration of the drill and the amount of current consumed by the motor during drilling, allowed to find out the physical and mechanical properties of the surface. The composition of the sample determined by the X-ray fluorescence spectrometer (plutonium, uranium-235 and iron-55 were used as radiation sources) put it in the class of weakly differentiated melanocratic alkaline gabbroids ([EVN‑026](venus.md)).
+The area was composed of bedrock outcrops surrounded by dark, fine-grained soil ([EVN‑006](venus.md)). After landing, an imaging panorama was started. Venera 13 transmitted both black-and-white and the first color panoramic images from the surface of Venus ([EVN‑063](venus.md)). A mechanical drilling arm reached to the surface and obtained a sample, which was placed in a three stage airlock sealed chamber ([EVN‑062](venus.md)), maintained at 30 °C and a pressure of about 5 kPa. Information about the drilling speed and movement of the rig rod, the depth of penetration of the drill and the amount of current consumed by the motor during drilling, allowed to find out the physical and mechanical properties of the surface. The composition of the sample determined by the X‑ray fluorescence spectrometer (plutonium, uranium-235 and iron-55 were used as radiation sources) put it in the class of weakly differentiated melanocratic alkaline gabbroids ([EVN‑026](venus.md)).
 
-The lander functioned for at least 127 min (the planned design life was 32 min) in an environment with a temperature of 457 °C and a pressure of 89 atm. Only 2.4% of the sunlight reached the surface ([EVN‑013](venus.md)). The lander transmitted data to the Orbiter, which acted as a data relay as it flew by Venus ([EVN‑092](venus.md)).
+The lander functioned for at least 127 min (the planned design life was 32 min) in an environment with a temperature of 457 °C and a pressure of 89 atm. Only 2.4 % of the sunlight reached the surface ([EVN‑013](venus.md)). The lander transmitted data to the Orbiter, which acted as a data relay as it flew by Venus ([EVN‑092](venus.md)).
 
 Microphones on the probe recorded atmospheric wind noises in an effort to measure wind speed (they also recorded noises associated with the probe’s equipment). This was the first recording of sound on another planet. The recording was repeated with Venera 14.
 
@@ -113,14 +113,14 @@ Microphones on the probe recorded atmospheric wind noises in an effort to measur
 
 The parameters of the descent of Venera 14 were similar to the descent of Venera 13.
 
-X-ray fluorescence spectrometer measured the composition of cloud aerosols at altitudes from 63 to 47 km. It registered sulfur in the amount of 1.07 ± 0.13 mg/m³ and chlorine in the amount of 0.167 ± 0.04 mg/m³ ([EVN‑018](venus.md))
+X‑ray fluorescence spectrometer measured the composition of cloud aerosols at altitudes from 63 to 47 km. It registered sulfur in the amount of 1.07 ± 0.13 mg/m³ and chlorine in the amount of 0.167 ± 0.04 mg/m³ ([EVN‑018](venus.md))
 
 The Venera 14 lander performed the same set of measurements during descent in the atmosphere and after landing as Venera 13, and obtained very similar results. Below are the combined results of mass spectroscopic measurements on both devices ([EVN‑014](venus.md)):
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
 |:--|:--|
-| Carbon dioxide | 97% |
-| Molecular hydrogen | 4.0 ± 0.3% |
+| Carbon dioxide | 97 % |
+| Molecular hydrogen | 4.0 ± 0.3 % |
 | Argon | 100 ppm |
 | Neon | 7.6 ppm |
 | Krypton | 0.035 ppm |
@@ -161,7 +161,7 @@ The Lander was equipped with acoustic microphones designed to record atmospheric
 
 The composition of the surface samples showed similarities with oceanic tholeiitic basalts ([EVN‑026](venus.md)).
 
-The results of the analysis of the elemental composition of Venusian rocks according to measurements using x-ray fluorescence spectrometer:
+The results of the analysis of the elemental composition of Venusian rocks according to measurements using x‑ray fluorescence spectrometer:
 
 |*Chemical element*|*Value, % (Venera 13)*|*Value, % (Venera 14)*|
 |:--|:--|:--|
@@ -190,14 +190,14 @@ The program of the expedition included:
    - landing a lander on the surface of the planet, on its day side;
    - transmission of color telephotometric images ([EVN‑093](venus.md)) of the surface at the landing site and the results of direct soil analysis ([EVN‑062](venus.md)) to the orbiter;
    - relay from orbiter to Earth the results of the scientific program of the lander ([EVN‑092](venus.md));
-   - carrying out with the help of orbiter studies of near-and interplanetary space when moving along the flight path.
+   - carrying out with the help of orbiter studies of near‑and interplanetary space when moving along the flight path.
 
 The Orbiter payload was reduced to compensate for the increased payload of the Lander. Modified versions of cosmic ray and gamma ray detectors were retained, and an Austrian magnetometer was attached to one of the solar panels on a two-meter rod.
 
 **ORBITER**
 
-   - Detector of intensity and coordinates of gamma-ray burst sources **KONUS** — was designed to detect and identify gamma-ray burst sources during interplanetary flight;
-   - Detector of intensity and coordinates of gamma-ray burst sources **SNEG** — complemented the measurements;
+   - Detector of intensity and coordinates of gamma‑ray burst sources **KONUS** — was designed to detect and identify gamma‑ray burst sources during interplanetary flight;
+   - Detector of intensity and coordinates of gamma‑ray burst sources **SNEG** — complemented the measurements;
    - Magnetometer (Austria);
    - High-energy particle detectors — included 4 semiconductor counters, 2 gas-discharge counters and 4 scintillation counters;
    - Detectors of particles of the solar wind.
@@ -214,7 +214,7 @@ Orbiter payload mass: 92 kg.
    - Mass spectrometer **MKh-6411** to study the chemical and isotopic composition of the atmosphere ([EVN‑077](venus.md)). The upgraded mass spectrometer provided significantly better resolution (2 to 40 times) and 10 to 30 times greater sensitivity. The reason for the anomalous measurement of krypton during the 1978 program was understood and appropriate changes were made;
    - Hygrometer **VM-3R** for measuring the content of water vapor in the atmosphere. The humidity sensor was not installed in previous missions;
    - Backscatter Nephelometer **MNV-78-2** — determined the structure of the atmosphere ([EVN‑017](venus.md)) to study the spatial heterogeneity of cloud layers in different regions of the planet ([EVN‑016](venus.md));
-   - [X-ray fluorescence (XRF)](xrf.md) spectrometer **BDRA-1V** for the study of the elemental composition of aerosols ([EVN‑018](venus.md));
+   - [X‑ray fluorescence (XRF)](xrf.md) spectrometer **BDRA-1V** for the study of the elemental composition of aerosols ([EVN‑018](venus.md));
    - Spectrometer **IOAV-2** to study the spectral and angular distribution of solar radiation. Measured the radiation spectrum in the range from 470 to 1200 nm using a wide-angle view of the sky and a set of six receivers with a narrow field of view;
    - Ultraviolet photometer in the range from 320 to 390 nm;
    -  Radio receiver **GROZA-2** for the study of electrical activity with a microphone for recording acoustic and seismic vibrations. The **GROZA-2** instrument included a modified 10 kHz detector, a new detector in the 2 kHz band, and was better suited for measuring seismic activity after landing;
@@ -223,7 +223,7 @@ Orbiter payload mass: 92 kg.
 **Instruments for operation on the surface of Venus:**
 
    - Drill and sampling system **[GZU VB-02](vb02.md)**;
-   - [X-ray fluorescence (XRF)](xrf.md) spectrometer **Arakhis-2** to study the composition of surface rocks ([EVN‑024](venus.md));
+   - [X‑ray fluorescence (XRF)](xrf.md) spectrometer **Arakhis-2** to study the composition of surface rocks ([EVN‑024](venus.md));
    - Rotating conical penetrometer for measuring the bearing capacity of the soil **PrOP-V**. Designed to determine the mechanical properties of the surface material, regardless of whether it is loose or rock. It consisted of a conical head that could rotate around its axis at the end of a lever and was located directly on the surface;
    - Chemical Redox Indicator **Kontrast** of the oxidation state of the atmosphere. Indicator to search for traces of oxygen in the atmosphere of Venus.
    - Two cameras with light filters for color panoramic images **TFZL-077**
@@ -234,7 +234,7 @@ Orbiter payload mass: 92 kg.
 | Viewing angle | 180° |
 | Transmission speed | 64 kbps |
 
-Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x-ray spectrometer for aerosols, mass spectrometer and gas chromatograph were improved. The payload mass of the Lander:  100 kg.
+Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x‑ray spectrometer for aerosols, mass spectrometer and gas chromatograph were improved. The payload mass of the Lander:  100 kg.
 
 ![](f/project/v/venera_13_14/pic06.jpg)
 
@@ -278,7 +278,7 @@ The Orbiter has a height of 2.8 m and a solar panel span of 6.7 m. The centr
 
 **Lander**
 
-The descent lander was a hermetically-sealed pressure vessel, which contained most of the instrumentation and electronics, mounted on a ring-shaped landing platform and topped by an antenna. At the periphery of the shock absorber ring, metal teeth were added to increase the stability of the spacecraft during the aerodynamic descent and reduce the landing stiffness that took place in the 1978 program. It carried instruments to take chemical and isotopic measurements, monitor the spectrum of scattered sunlight, and record electric discharges during its descent phase through the Venusian atmosphere. The spacecraft utilized a camera system, an X-ray fluorescence spectrometer, a screw drill and surface sampler, a dynamic penetrometer, and a seismometer to conduct investigations on the surface.
+The descent lander was a hermetically-sealed pressure vessel, which contained most of the instrumentation and electronics, mounted on a ring‑shaped landing platform and topped by an antenna. At the periphery of the shock absorber ring, metal teeth were added to increase the stability of the spacecraft during the aerodynamic descent and reduce the landing stiffness that took place in the 1978 program. It carried instruments to take chemical and isotopic measurements, monitor the spectrum of scattered sunlight, and record electric discharges during its descent phase through the Venusian atmosphere. The spacecraft utilized a camera system, an X‑ray fluorescence spectrometer, a screw drill and surface sampler, a dynamic penetrometer, and a seismometer to conduct investigations on the surface.
 
 The cameras were installed inside the airtight and thermally insulated compartment and a survey was carried out through a cylindrical window with a periscope system. The design of the covers covering the lenses of television cameras has been discard. 78 tests were conducted to verify their discharge. The soil sampling system was redesigned to eliminate problems encountered on [Venera 11 and Venera 12](venera_11_12.md). In particular, the soil should have been delivered into the chamber using the squib.
 
@@ -294,7 +294,7 @@ The cameras were installed inside the airtight and thermally insulated compartme
 
 **PEOPLE:**
 
-   1. [Vladimir Pavlovich Dolgopolov](02_dolgopolov1.md) (Долгополов Владимир Павлович)
+   1. [Vladimir Pavlovich Dolgopolov](zz_dolgopolov1.md) (Долгополов Владимир Павлович)
    1. Don P. Mitchell — American researcher. He has processed the color images from Venera 13 and 14 using the raw original data.
 
 **COMMUNITY:**

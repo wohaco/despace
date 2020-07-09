@@ -24,7 +24,7 @@
 |Launch|August 3, 2004, 06:15:56 UTC, Rocket: Delta II 7925H-9.5 |
 |Operator| NASA |
 |Programme| Discovery Program |
-|Similar<br> missions| • Proposed: Меркурий‑П (2031), [BepiColombo](bepicolombo.md) <br> • Current: … <br> • Past: [mariner_10](mariner_10.md)|
+|Similar to| • Proposed: Меркурий‑П (2031), [BepiColombo](bepicolombo.md) <br> • Current: … <br> • Past: [mariner_10](mariner_10.md)|
 |Target| Study of the planet Mercury: geological history, global magnetic field, size and state of the core, exosphere. |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -32,7 +32,7 @@
 |Contractor| … |
 |Manufacturer| Applied Physics Laboratory |
 ||**`…`**|
-|Comms| Circularly polarized X-band phased-array antennas |
+|Comms| Circularly polarized X‑band phased-array antennas |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): 2004-030A, SCN: 28391 |
 |Mass| **Launch:** 1 107.9 kg ([Large satellite](спутник.md), [EVN‑073](evn_073.md)) |
 |Orbit / Site|Hermiocentric; 200 × 10 300 km; I = 80 degrees; T = 12 h |
@@ -41,7 +41,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -98,7 +98,7 @@ During the Earth flyby, the MESSENGER team imaged the Earth and Moon using MDIS 
 
 On October 24, 2006 at 08:34 UTC, MESSENGER encountered Venus at an altitude of 2 992 km. During the encounter, MESSENGER passed behind Venus and entered superior conjunction, a period when Earth was on the exact opposite side of the Solar System, with the Sun inhibiting radio contact. For this reason, no scientific observations were conducted during the flyby. Communication with the spacecraft was reestablished in late November and performed a deep space maneuver on December 12, to correct the trajectory to encounter Venus in a second flyby.
 
-On June 5, 2007, at 23:08 UTC, MESSENGER performed a second flyby of Venus at an altitude of 338 km, for the greatest velocity reduction of the mission. During the encounter, all instruments were used to observe Venus ([EVN‑005](evn_005.md)) and prepare for the following Mercury encounters. The encounter provided visible and near-infrared imaging data of the upper atmosphere of Venus. Ultraviolet and X-ray spectrometry of the upper atmosphere were also recorded, to characterize the composition ([EVN‑014](EVN_014)). The ESA’s [Venus Express](venus_express.md) was also orbiting during the encounter, providing the first opportunity for simultaneous measurement of particle-and-field characteristics of the planet.
+On June 5, 2007, at 23:08 UTC, MESSENGER performed a second flyby of Venus at an altitude of 338 km, for the greatest velocity reduction of the mission. During the encounter, all instruments were used to observe Venus ([EVN‑005](evn_005.md)) and prepare for the following Mercury encounters. The encounter provided visible and near‑infrared imaging data of the upper atmosphere of Venus. Ultraviolet and X‑ray spectrometry of the upper atmosphere were also recorded, to characterize the composition ([EVN‑014](EVN_014)). The ESA’s [Venus Express](venus_express.md) was also orbiting during the encounter, providing the first opportunity for simultaneous measurement of particle-and-field characteristics of the planet.
 
 |![](f/project/m/messenger/venus.jpg)|
 |:--|
@@ -114,7 +114,7 @@ On July 3, 2008, the MESSENGER team announced that the Orbiter had discovered la
 
 |![](f/project/m/messenger/mercury1.png)|![](f/project/m/messenger/mercury2.png) |![](f/project/m/messenger/mercury3.png) |
 |:--|:--|:--|
-|***The first high-resolution color Wide Angle Camera image of Mercury acquired by MESSENGER.***|***Smooth plains on Mercury imaged by MESSENGER during the third flyby of the planet.***|***Lava-flooded craters and large expanses of smooth volcanic plains on Mercury.***|
+|***The first high‑resolution color Wide Angle Camera image of Mercury acquired by MESSENGER.***|***Smooth plains on Mercury imaged by MESSENGER during the third flyby of the planet.***|***Lava-flooded craters and large expanses of smooth volcanic plains on Mercury.***|
 
 <br>
 
@@ -132,7 +132,7 @@ On October 5, 2011, the scientific results obtained by MESSENGER during its firs
 
 In November 2011, NASA announced that the MESSENGER mission would be extended by one year, allowing the spacecraft to observe the 2012 solar maximum. The primary mission was completed on March 17, 2012, having collected close to 100 000 images.
 
-**Extended mission** began on March 17, 2012, and continued until March 17, 2013. MESSENGER achieved 100% mapping of Mercury on March 6, 2013. Between April 16 and April 20, 2012, MESSENGER carried out a series of thruster manoeuvres, placing it in an eight-hour orbit to conduct further scans of Mercury. In November 2012, NASA reported that MESSENGER had discovered both water ice and organic compounds in permanently shadowed craters in Mercury’s north pole. In February 2013, NASA published the most detailed and accurate 3D map of Mercury to date, assembled from thousands of images taken by MESSENGER. MESSENGER completed its first extended mission on March 17, 2013.
+**Extended mission** began on March 17, 2012, and continued until March 17, 2013. MESSENGER achieved 100 % mapping of Mercury on March 6, 2013. Between April 16 and April 20, 2012, MESSENGER carried out a series of thruster manoeuvres, placing it in an eight-hour orbit to conduct further scans of Mercury. In November 2012, NASA reported that MESSENGER had discovered both water ice and organic compounds in permanently shadowed craters in Mercury’s north pole. In February 2013, NASA published the most detailed and accurate 3D map of Mercury to date, assembled from thousands of images taken by MESSENGER. MESSENGER completed its first extended mission on March 17, 2013.
 
 MESSENGER’s **second extended mission** lasted for over two years, but as its low orbit degraded, it required reboosts to avoid impact. In November 2013, MESSENGER was among the numerous space assets that imaged Comet Encke (2P/Encke) and Comet ISON (C/2012 S1). As its orbit began to decay in early 2015, MESSENGER was able to take highly detailed close-up photographs of ice-filled craters and other landforms at Mercury’s north pole. After the mission was completed, review of the radio ranging data provided the first measurement of the rate of mass loss from the Sun. MESSENGER conducted its final reboost burns on October 24, 2014, and January 21, 2015, before crashing into Mercury on April 30, 2015.
 
@@ -154,14 +154,14 @@ Mercury is one of the most poorly studied objects in the Solar system. Before ME
 |![](f/project/m/messenger/outside.png)|
 
 ### Mercury Dual Imaging System (MDIS)
-Included two CCD cameras, a narrow-angle camera (NAC) and a wide-angle camera (WAC) mounted to a pivoting platform. The camera system provided a complete map of the surface of Mercury at a resolution of 250 m/pixel, and images of regions of geologic interest at 20 – 50 m/pixel. Color imaging was possible only with the narrow-band filter wheel attached to the wide-angle camera.
+Included two CCD cameras, a narrow-angle camera (NAC) and a wide-angle camera (WAC) mounted to a pivoting platform. The camera system provided a complete map of the surface of Mercury at a resolution of 250 m/px, and images of regions of geologic interest at 20 – 50 m/px. Color imaging was possible only with the narrow‑band filter wheel attached to the wide-angle camera.
 
 | | |
 |:--|:--|
-| **Objectives:**<br><br>*Flyby Phase*<br> • Acquisition of near-global coverage at ≈500 m/pixel.<br> • Multispectral mapping at ≈2 km/pixel.<br>*Orbital Phase*<br> • A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/pixel or better sampling resolution.<br> • A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> • Completion of the multispectral mapping begun during the flybys.<br> • High-resolution (20 – 50 m/pixel) image strips across features representative of major geologic units and structures. |[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
+| **Objectives:**<br><br>*Flyby Phase*<br> • Acquisition of near‑global coverage at ≈500 m/px.<br> • Multispectral mapping at ≈2 km/px.<br>*Orbital Phase*<br> • A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> • A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> • Completion of the multispectral mapping begun during the flybys.<br> • High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures. |[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
 
-### Gamma-Ray Spectrometer (GRS)
-Measured gamma-ray emissions from the surface of Mercury to determine the planet’s composition by detecting certain elements (oxygen, silicon, sulfur, iron, hydrogen, potassium, thorium, uranium) to a depth of 10 cm.
+### Gamma‑ray Spectrometer (GRS)
+Measured gamma‑ray emissions from the surface of Mercury to determine the planet’s composition by detecting certain elements (oxygen, silicon, sulfur, iron, hydrogen, potassium, thorium, uranium) to a depth of 10 cm.
 
 | | |
 |:--|:--|
@@ -172,14 +172,14 @@ Determined the hydrogen mineral composition to a depth of 40 cm by detecting l
 
 | | |
 |:--|:--|
-| **Objectives:**<br><br> • Establish and map the abundance of hydrogen over most of the northern hemisphere of Mercury.<br> • Investigate the possible presence of water ice within and near permanently shaded craters near the north pole.<br> • Provide secondary evidence to aid in interpreting GRS measured gamma-ray line strengths in terms of elemental abundances.<br> • Outline surface domains at the base of both northern and southern cusps of the magnetosphere where the solar wind can implant hydrogen in surface material. |[![](f/project/m/messenger/ns.jpg)](f/project/m/messenger/ns.jpg)|
+| **Objectives:**<br><br> • Establish and map the abundance of hydrogen over most of the northern hemisphere of Mercury.<br> • Investigate the possible presence of water ice within and near permanently shaded craters near the north pole.<br> • Provide secondary evidence to aid in interpreting GRS measured gamma‑ray line strengths in terms of elemental abundances.<br> • Outline surface domains at the base of both northern and southern cusps of the magnetosphere where the solar wind can implant hydrogen in surface material. |[![](f/project/m/messenger/ns.jpg)](f/project/m/messenger/ns.jpg)|
 
-### X-Ray Spectrometer (XRS)
-Mapped mineral composition within the top millimeter of the surface on Mercury by detecting X-ray spectral lines from magnesium, aluminum, sulphur, calcium, titanium, and iron, in the 1 – 10 keV range.
+### X‑ray Spectrometer (XRS)
+Mapped mineral composition within the top millimeter of the surface on Mercury by detecting X‑ray spectral lines from magnesium, aluminum, sulphur, calcium, titanium, and iron, in the 1 – 10 keV range.
 
 | | |
 |:--|:--|
-| **Objectives:**<br><br> • Determine the history of the formation of Mercury. <br> • Characterize the composition of surface elements by measuring the X-ray emissions induced by the incident solar flux.|[![](f/project/m/messenger/xrs.jpg)](f/project/m/messenger/xrs.jpg)|
+| **Objectives:**<br><br> • Determine the history of the formation of Mercury. <br> • Characterize the composition of surface elements by measuring the X‑ray emissions induced by the incident solar flux.|[![](f/project/m/messenger/xrs.jpg)](f/project/m/messenger/xrs.jpg)|
 
 ### Magnetometer (MAG)
 Measured the magnetic field around Mercury in detail to determine the strength and average position of the field.
@@ -237,7 +237,7 @@ Four 22 N monopropellant thrusters provided spacecraft steering during main th
 
 **Communications**
 
-The Orbiter included two small deep space transponders for communications with the Deep Space Network and three kinds of antennas: a high gain phased array whose main beam could be electronically steered in one plane, a medium-gain «fan-beam» antenna and a low gain horn with a broad pattern. The high gain antenna was used as transmit-only at 8.4 GHz, the medium-gain and low gain antennas transmit at 8.4 GHz and receive at 7.2 GHz, and all three antennas operate with right-hand circularly polarized radiation. One of each of these antennas was mounted on the front of the Orbiter facing the Sun, and one of each was mounted to the back of the Orbiter facing away from the Sun.
+The Orbiter included two small deep space transponders for communications with the Deep Space Network and three kinds of antennas: a high gain phased array whose main beam could be electronically steered in one plane, a medium‑gain «fan-beam» antenna and a low gain horn with a broad pattern. The high gain antenna was used as transmit-only at 8.4 GHz, the medium‑gain and low gain antennas transmit at 8.4 GHz and receive at 7.2 GHz, and all three antennas operate with right-hand circularly polarized radiation. One of each of these antennas was mounted on the front of the Orbiter facing the Sun, and one of each was mounted to the back of the Orbiter facing away from the Sun.
 
 **Power**
 

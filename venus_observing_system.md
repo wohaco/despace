@@ -18,12 +18,12 @@
 |**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| … ‑ ┊ |
+|Development| … ‑ … |
 |Duration| … |
 |Launch| …, …, … |
 |Operator| … |
 |Programme| … |
-|Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| … |
 |[Type](sc.md)| … |
 |**Spacecraft:**|• • •|
@@ -42,7 +42,7 @@
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -74,8 +74,8 @@
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
 |EVN‑080||Albedo: changes in time.| Gi |D||F|||
-|EVN‑082|T|Atmosphere: prolonged investigations on the H=0 ‑ 10 km.| All A ||||||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H=30 ‑ 60 km.|  |D|||||
+|EVN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km.| All A ||||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.|  |D|||||
 |EVN‑091||The loss rate of water from Venus.|  |D||F|||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
@@ -253,33 +253,33 @@ The science implemented by SAEVe (Kremic et al., 2018) is focused on seismology 
 
 **PEOPLE:**
 
-   1. [Sanjay S. Limaye](02_limaye1.md), UW-Madison — **[Principal investigator](principal_investigator.md)**
+   1. [Sanjay S. Limaye](zz_limaye1.md), UW-Madison — **[Principal investigator](principal_investigator.md)**
    1. M.N. Abedin, NASA/ARC
    1. C. O. Ao, CalTech/JPL
    1. T. Bocanegra, CalTech/JPL
-   1. [M. A. Bullock](02_bullock1.md), STC
+   1. [M. A. Bullock](zz_bullock1.md), STC
    1. J. P. Carrico, Space Exploration Eng.
    1. V. Cottini, NASA/GSFC
    1. S. M. Curry, UC-Berkeley
    1. W. Eckles, Northrup Grumman Innovation Systems
    1. J. S. Elston, Black Swift Technology
    1. P. M. Fry, UW-Madison
-   1. [D. M. Gentry](02_gentry1.md), NASA/ARC
+   1. [D. M. Gentry](zz_gentry1.md), NASA/ARC
    1. A. P. Girija, Purdue Univ.
    1. A. G. Hayes, Cornell University
-   1. [A. S. Jindal](02_jindal1.md), Cornell University
-   1. [N. M. Johnson](02_johnson1.md), NASA/GSFC
+   1. [A. S. Jindal](zz_jindal1.md), Cornell University
+   1. [N. M. Johnson](zz_johnson1.md), NASA/GSFC
    1. N. M. Komerath, Georgia Inst. of Technology
-   1. [I. D. Kovalenko](02_kovalenko1.md), Space Research Institute
-   1. [T. Kremic](02_kremic1.md), NASA/GRC
+   1. [I. D. Kovalenko](zz_kovalenko1.md), Space Research Institute
+   1. [T. Kremic](zz_kremic1.md), NASA/GRC
    1. Y. J. Lee, Tech. U. Berlin
    1. R. Mathies, UC-Berkeley
    1. R. A. Pertzborn, UW-Madison
    1. V. Raghav, Auburn Univ.
    1. S. J Saikia, Purdue Univ.
-   1. [S. Sasaki](02_sasaki1.md), Tokoyo U.
+   1. [S. Sasaki](zz_sasaki1.md), Tokoyo U.
    1. S. K. Sharma, U. Hawaii
-   1. [D. J. Smith](02_smith1.md), NASA/ARC
+   1. [D. J. Smith](zz_smith1.md), NASA/ARC
    1. D. Sokol, Northrop Grumman, A.C.
    1. T. Svitek, Stellar Exploratation Inc.
    1. B. Yoza, U. Hawaii

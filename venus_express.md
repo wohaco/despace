@@ -23,15 +23,15 @@
 |Launch| 9 November 2005, 03:33:34 UTC;<br>Rocket: Soyuz-FG/Fregat |
 |Operator| European Space Agency |
 |Programme| Venus Express |
-|Similar<br> missions| • Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • Past: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975). |
+|Similar to| • Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • Past: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975). |
 |Target| To perform a global investigation of the Venusian atmosphere |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| 2 high-gain dishes, 1.3 m and 0.3 m in diameter, 2 low-gain antennas |
+|Comms| 2 high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas |
 |Composition| Orbiter |
-|Contractor| [EADS Astrium](03_astrium.md) |
+|Contractor| [EADS Astrium](zz_astrium.md) |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): [2005-045A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2005-045A), SCN: 28901 |
-|Manufacturer| [EADS Astrium](03_astrium.md) |
+|Manufacturer| [EADS Astrium](zz_astrium.md) |
 |Mass| Dry: 700 kg ([Medium satellite](sc.md), [EVN‑072](venus.md)) |
 |Orbit / Site| Cytherocentric: 250 x 66 000 km; i = 90 °; T = 24 h |
 |Power| 1 100 W |
@@ -39,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -64,8 +64,9 @@ Achieved targets & investigations:
 |EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
 |EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
 |EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
+|EVN‑049||Nature & characteristics of the thermal tides|  ||D||||
 |EVN‑050||Causes of the water loss.|  |D|||||
-|EVN‑068||Atmosphere: nature of the polar dipole.|  |D|||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
@@ -76,6 +77,7 @@ Achieved targets & investigations:
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
 |EVN‑096||Atmosphere: ionosphere.|  |D||F|||
 |EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑080||Albedo: changes in time| Gi ||D|F|||
 
 </small>
 
@@ -99,7 +101,7 @@ Venus Express studied the Venusian atmosphere and clouds in detail, the plasma e
 
    1. **Shape-shifting polar vortices.**
 
-The existence of the polar vortices on Venus has been known for many years, but high-resolution infrared measurements obtained by the VIRTIS instrument on Venus Express have revealed that the southern vortex is far more complex than previously believed.
+The existence of the polar vortices on Venus has been known for many years, but high‑resolution infrared measurements obtained by the VIRTIS instrument on Venus Express have revealed that the southern vortex is far more complex than previously believed.
 
 <small>
 
@@ -111,7 +113,7 @@ The existence of the polar vortices on Venus has been known for many years, but 
 
 </small>
 
-The new observations show that the centre of the vortex has a highly variable shape and internal structure, and its morphology is constantly changing. The images show that the core of the dynamic southern vortex can take almost any shape, so although it often looks like an “S” or “8”, it may become completely irregular, or even chaotic, in appearance. These rapid shape changes indicate complex weather patterns, which are strongly influenced by the fact that the centre of the vortex does not coincide with the geographical pole ([EVN‑068](venus.md)).
+The new observations show that the centre of the vortex has a highly variable shape and internal structure, and its morphology is constantly changing. The images show that the core of the dynamic southern vortex can take almost any shape, so although it often looks like an “S” or “8”, it may become completely irregular, or even chaotic, in appearance. These rapid shape changes indicate complex weather patterns, which are strongly influenced by the fact that the centre of the vortex does not coincide with the geographical pole ([EVN‑067](venus.md)).
 
 Images from the Venus Monitoring Camera and from  the VIRTIS instrument show that the speeds of the zonal winds change with latitude, so that the vortex is continually being pulled and stretched. Although the mean zonal wind is retrograde, its speed decreases toward the pole.
 
@@ -143,7 +145,7 @@ Scientists have looked at the possibility of this change arising from short-term
 
 These detailed measurements from orbit are helping scientists determine whether Venus has a solid or liquid core, which will help our understanding of the planet’s formation and how it evolved. If Venus has a solid core, its mass must be more concentrated towards the centre. In this case, the planet’s rotation would react less to external forces. The most important of those external forces is associated with the dense atmosphere and high velocity winds ([EVN‑020](venus.md)).
 
-   4. **Super-rotation is speeding up.**
+   4. **Super‑rotation is speeding up.**
 
 After its arrival at the planet in 2006, Venus Express was able to conduct the most detailed survey of cloud motions in the atmosphere of Venus, with the surprising discovery that the planet’s high level winds have become faster over time. By tracking the movements of distinct cloud features in the cloud tops some 70 km above the planet’s surface over a period of 10 Venusian years, scientists were able to monitor patterns in the long-term global wind speeds.
 
@@ -187,7 +189,7 @@ As on Earth, solar ultraviolet radiation removes electrons from the atoms and mo
 
 During the continuous battle with the solar wind, the ionosphere is able to slow and divert the flow of particles around the planet, creating an elongated magnetotail ([EVN‑097](venus.md)). Until now, magnetic reconnection was not generally thought to occur near non-magnetised planets, so scientists were surprised when Venus Express found the first evidence of this process in Venus’ magnetotail. Reconnection converts magnetic energy into kinetic energy in the form of accelerating particles and occurs when oppositely directed magnetic field lines break and connect with each other. On Earth, it is responsible for magnetic storms and polar auroras ([EVN‑028](venus.md)).
 
-The reconnection splits the magnetotail, causing most of the plasma in the tail to be ejected into space. It also forms a plasmoid structure which heads towards Venus and channels some of the energy of the solar wind into the night-side atmosphere. As a result, the magnetic reconnection causes plasma circulation at Venus, similar to what happens in Earth’s magnetotail. The discovery was made possible by the near-polar orbit of Venus Express, which is ideal for instruments such as the magnetometer and low-energy particle detector to observe the solar wind — ionosphere — magnetotail interaction. Previous missions, such as [Pioneer Venus 1](pioneer_venus_1.md) and [Pioneer Venus 2](pioneer_venus_2.md), have either been in different orbits or been active at different periods of solar activity, so they were not able to detect the reconnection events.
+The reconnection splits the magnetotail, causing most of the plasma in the tail to be ejected into space. It also forms a plasmoid structure which heads towards Venus and channels some of the energy of the solar wind into the night-side atmosphere. As a result, the magnetic reconnection causes plasma circulation at Venus, similar to what happens in Earth’s magnetotail. The discovery was made possible by the near‑polar orbit of Venus Express, which is ideal for instruments such as the magnetometer and low-energy particle detector to observe the solar wind — ionosphere — magnetotail interaction. Previous missions, such as [Pioneer Venus 1](pioneer_venus_1.md) and [Pioneer Venus 2](pioneer_venus_2.md), have either been in different orbits or been active at different periods of solar activity, so they were not able to detect the reconnection events.
 
 **Communication and data transfer**
 
@@ -236,13 +238,13 @@ In the most comprehensive study of the Venusian atmosphere ever, Venus Express h
 
 **Payload**
 
-   1. **ASPERA-4**: An acronym for “**A**nalyzer of **S**pace **P**lasmas and **E**nergetic **A**toms”, ASPERA-4 investigated the interaction between the solar wind and the Venusian atmosphere ([EVN‑097](venus.md)), determine the impact of plasma processes on the atmosphere, determine global distribution of plasma and neutral gas, study energetic neutral atoms, ions and electrons, and analyze other aspects of the near Venus environment. ASPERA-4 is a re-use of the ASPERA-3 design used on Mars Express, but adapted for the harsher near-Venus environment.
+   1. **ASPERA-4**: An acronym for “**A**nalyzer of **S**pace **P**lasmas and **E**nergetic **A**toms”, ASPERA-4 investigated the interaction between the solar wind and the Venusian atmosphere ([EVN‑097](venus.md)), determine the impact of plasma processes on the atmosphere, determine global distribution of plasma and neutral gas, study energetic neutral atoms, ions and electrons, and analyze other aspects of the near Venus environment. ASPERA-4 is a re-use of the ASPERA-3 design used on Mars Express, but adapted for the harsher near‑Venus environment.
    1. **MAG**: The magnetometer is designed to measure the strength of Venus’s magnetic field and the direction of it as affected by the solar wind and Venus itself ([EVN‑028](venus.md)). It mapped the magnetosheath, magnetotail, ionosphere, and magnetic barrier in high resolution in three-dimensions, aid ASPERA-4 in the study of the interaction of the solar wind with the atmosphere of Venus, identify the boundaries between plasma regions, and carry planetary observations as well (such as the search for and characterization of Venus lightning). MAG is derived from the Rosetta lander’s ROMAP instrument. One measuring device is placed on the body of the craft. The identical second of the pair is placed the necessary distance away from the body by unfolding a 1 m long boom (carbon composite tube). Two redundant pyrotechnical cutters cut one loop of thin rope to free the power of metal springs. The driven knee lever rotates the boom perpendicularly outwards and latches it in place. Only the use of a pair of sensors together with the rotation of the sonde allows the spacecraft to resolve the small natural magnetic field beneath the disturbing fields of the Orbiter itself. The measurements to identify the fields produced by the craft took place on the route from Earth to Venus. The lack of magnetic cleanness was due to the reuse of the Mars Express spacecraft bus which did not carry a magnetometer. By combining the data from two-point simultaneous measurements and using software to identify and remove interference generated by Venus Express itself, it was possible to obtain results of a quality comparable to those produced by a magnetically clean craft.
    1. **PFS**: The “**P**lanetary **F**ourier **S**pectrometer” operates in the infrared between the 0.9 µm and 45 µm wavelength range and is designed to perform vertical optical sounding of the Venus atmosphere. It performed global, long-term monitoring of the three-dimensional temperature field in the lower atmosphere (cloud level up to 100 km). Furthermore, it searched for minor atmospheric constituents that may be present, but had not yet been detected, analyzed atmospheric aerosols, and investigated surface to atmosphere exchange processes. The design is based on a spectrometer on Mars Express, but modified for optimal performance for the Venus Express mission.
    1. **SPICAV**: The “**Sp**ectroscopy for **I**nvestigation of **C**haracteristics of the **A**tmosphere of **V**enus” is an imaging spectrometer that was used for analyzing radiation in the infrared and ultraviolet wavelengths. It’s derived from the SPICAM instrument flown on Mars Express. However, SPICAV has an additional channel known as **SOIR** (**S**olar **O**ccultation at **I**nfra**r**ed) that was used to observe the Sun through Venus’s atmosphere in the infrared. ([EVN‑014](venus.md))
-   1. **VIRTIS**: The “**V**isible and **I**nfrared **T**hermal **I**maging **S**pectrometer” is an imaging spectrometer that observes in the near-ultraviolet, visible, and infrared parts of the electromagnetic spectrum. It analyzed all layers of the atmosphere, surface temperature and surface/atmosphere interaction phenomena ([EVN‑014,041](venus.md)).
+   1. **VIRTIS**: The “**V**isible and **I**nfrared **T**hermal **I**maging **S**pectrometer” is an imaging spectrometer that observes in the near‑ultraviolet, visible, and infrared parts of the electromagnetic spectrum. It analyzed all layers of the atmosphere, surface temperature and surface/atmosphere interaction phenomena ([EVN‑014,041](venus.md)).
    1. **VeRa**: **Ve**nus **Ra**dio Science is a radio sounding experiment that transmitted radio waves from the spacecraft and passed them through the atmosphere or reflected them off the surface. These radio waves were received by a ground station on Earth for analysis of the ionosphere, atmosphere ([EVN‑078](venus.md)) and surface of Venus. It’s derived from the Radio Science Investigation instrument flown on Rosetta.
-   1. **VMC**: The **V**enus **M**onitoring **C**amera is a wide-angle, multi-channel CCD. The VMC is designed for global imaging of the planet ([EVN‑093](venus.md)). It operates in the visible, ultraviolet, and near infrared spectral ranges, and maps surface brightness distribution searching for volcanic activity, monitoring airglow ([EVN‑008](venus.md)), studying the distribution of unknown ultraviolet absorbing phenomenon at the cloud-tops ([EVN‑035](venus.md)), and making other science observations. It’s derived in part by the Mars Express High Resolution Stereo Camera (HRSC) and the Rosetta Optical, Spectroscopic and Infrared Remote Imaging System (OSIRIS). The camera includes an FPGA to pre-process image data, reducing the amount transmitted to Earth. The consortium of institutions responsible for the VMC includes the Max Planck Institute for Solar System Research, the Institute of Planetary Research at the German Aerospace Center and the Institute of Computer and Communication Network Engineering at Technische Universität Braunschweig. It’s not to be confused with Visual Monitoring Camera mounted on Mars Express, of which it is an evolution.
+   1. **VMC**: The **V**enus **M**onitoring **C**amera is a wide-angle, multi-channel CCD. The VMC is designed for global imaging of the planet ([EVN‑093](venus.md)). It operates in the visible, ultraviolet, and near infrared spectral ranges, and maps surface brightness distribution searching for volcanic activity, monitoring airglow ([EVN‑008](venus.md)), studying the distribution of unknown ultraviolet absorbing phenomenon at the cloud-tops ([EVN‑035](venus.md)), and making other science observations. It’s derived in part by the Mars Express High Resolution Stereo Camera (HRSC) and the Rosetta Optical, Spectroscopic and Infrared Remote Imaging System (OSIRIS). The camera includes an FPGA to pre‑process image data, reducing the amount transmitted to Earth. The consortium of institutions responsible for the VMC includes the Max Planck Institute for Solar System Research, the Institute of Planetary Research at the German Aerospace Center and the Institute of Computer and Communication Network Engineering at Technische Universität Braunschweig. It’s not to be confused with Visual Monitoring Camera mounted on Mars Express, of which it is an evolution.
 
 The combination of data from the PFS, SPICAV, and VIRTUS instruments made it possible to obtain fairly accurate information about the vertical structure of the Venus atmosphere ([EVN‑010](venus.md)). This data served as the basis for the [Akatsuki](akatsuki.md) mission to work in this direction.
 
@@ -259,7 +261,7 @@ The combination of data from the PFS, SPICAV, and VIRTUS instruments made it pos
 | Attitude thrusters | Two sets of four, each delivering 10 N each |
 | Solar arrays | Two triple-junction Ga As; 5.7 m²; generating 800 W near Earth and 1 100 W at Venus |
 | Power storage | Three lithium-ion batteries |
-| Antennas | Two high-gain dishes, 1.3 m and 0.3 m in diameter, 2 low-gain antennas |
+| Antennas | Two high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas |
 
 ![](f/project/v/venus_express/spacecraft.jpg)
 
@@ -291,11 +293,11 @@ The thrusters were used for small trajectory corrections, spacecraft attitude ch
 
 For a SC in Venus orbit, it was not always possible to point a single antenna dish at Earth while always keeping the cold face of the spacecraft, hosting delicate instruments, away from the Sun.
 
-To overcome this pointing constraint, Venus Express has two high-gain antennas, mounted on different spacecraft faces. The main high-gain antenna, used for most of the communication with Earth, is a dish measuring 1.3 m diameter.
+To overcome this pointing constraint, Venus Express has two high‑gain antennas, mounted on different spacecraft faces. The main high‑gain antenna, used for most of the communication with Earth, is a dish measuring 1.3 m diameter.
 
-The second and smaller high-gain antenna was used to communicate with Earth when the spacecraft is in the part of the orbit closest to our planet.
+The second and smaller high‑gain antenna was used to communicate with Earth when the spacecraft is in the part of the orbit closest to our planet.
 
-Two low-gain antennas were also mounted on board, to communicate with Earth during launch, in the first days of the cruise and, should it occur, during severe “safe modes”.
+Two low‑gain antennas were also mounted on board, to communicate with Earth during launch, in the first days of the cruise and, should it occur, during severe “safe modes”.
 
 **Navigation and attitude control**
 
@@ -324,8 +326,8 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
    1. Constantine Tsang — **senior research scientist**
    1. Accomazzo, Andrea — **spacecraft operations manager**
    1. McCoy, Don — **project manager**
-   1. [Svedhem, Håkan](02_svedhem1.md) — **project scientist**
-   1. [Titov, Dmitrij](02_titov1.md)
+   1. [Svedhem, Håkan](zz_svedhem1.md) — **project scientist**
+   1. [Titov, Dmitrij](zz_titov1.md)
    1. Witting, Michael — **launch campaign manager**
 
 **COMMUNITY:**

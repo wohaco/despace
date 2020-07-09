@@ -28,13 +28,13 @@
 
 |*Страна*|*Произв.*|*Актуальные <sup>(масса, г)</sup>*|*Исторические <sup>(масса, г)</sup>*|
 |:--|:--|:--|:--|
-|**Россия**| [Спутникс](03_sputnix.md)  | <small>[SX-MAGWR](sx_magwr.md) (100)</small>  |  |
+|**Россия**| [Спутникс](zz_sputnix.md)  | <small>[SX-MAGWR](sx_magwr.md) (100)</small>  |  |
 
 
 
 ## Производители
    - **Россия**
-      1. [Спутникс](03_sputnix.md)
+      1. [Спутникс](zz_sputnix.md)
 
 
 <p style="page-break-after:always"> </p>

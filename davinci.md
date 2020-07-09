@@ -22,7 +22,7 @@
 |Launch| … |
 |Operator| NASA Goddard Space Flight Center |
 |Programme| Discovery Program |
-|Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-2](pioneer_venus_2.md), [VeGa 1, VeGa 2](vega_1_2.md) |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-2](pioneer_venus_2.md), [VeGa 1, VeGa 2](vega_1_2.md) |
 |Target| Designed to address by targeting noble gases, trace gases, and their isotopes, as well as temperature, pressure, winds, and imaging at Venus |
 |[Type](sc.md)| Atmospheric spacecraft |
 |**Spacecraft:**|• • •|
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -55,7 +55,7 @@ Achieved targets & investigations:
 |EVN‑050||Causes of the water loss.|  |D|||||
 |EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
 |EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
-|EVN‑085|T|Surface: tessera investigations, ranged.|  |D||F|||
+|EVN‑085|T|Surface: tessera investigations, remote|  |D||F|||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
 |EVN‑095||Climate: history & causes of changes.|  |D|||||
 
@@ -82,9 +82,9 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 
 |*Instrument*|*Description*|
 |:--|:--|
-| Venus Analytic Laboratory (VAL)  | Instruments would provide high-fidelity synergistic measurements throughout the probe’s descent, particularly in the upper clouds and the unexplored near-surface environment. |
+| Venus Analytic Laboratory (VAL)  | Instruments would provide high-fidelity synergistic measurements throughout the probe’s descent, particularly in the upper clouds and the unexplored near‑surface environment. |
 | Venus Mass Spectrometer (VMS) | Would provide the first comprehensive in situ surveys of noble and trace gases at Venus, and has the capability to discover new gas species in the Venusian atmosphere. |
-| Venus Tunable Laser Spectrometer (VTLS) | Would provide the first highly sensitive in situ measurements of targeted trace gases and associated isotope ratios at Venus, addressing key science questions about chemical processes in the upper clouds and the near-surface environment. |
+| Venus Tunable Laser Spectrometer (VTLS) | Would provide the first highly sensitive in situ measurements of targeted trace gases and associated isotope ratios at Venus, addressing key science questions about chemical processes in the upper clouds and the near‑surface environment. |
 | Venus Atmospheric Structure Investigation (VASI) | Would provide measurements of the structure and dynamics of Venus’ atmosphere during entry and descent, providing context for chemistry measurements and enabling reconstruction of the probe’s descent. |
 | Venus Descent Imager (VenDI) | Would provide high-contrast images of the tessera terrain at the descent location. |
 

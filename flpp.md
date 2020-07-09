@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **Future Launchers Preparatory Programme (FLPP)** — англоязычный термин, не имеющий аналога в русском языке. **Программа разработки перспективных пусковых установок** — дословный перевод с английского на русский.</small>
 
-The **Future Launchers Preparatory Programme (FLPP)** is a technology development and maturation programme of the [European Space Agency (ESA)](03_esa.md). It develops technologies for the application in future European [launch vehicles (launchers)](lv.md) and in upgrades to existing launch vehicles. By this it helps to reduce time, risk and cost of launcher development programmes.
+The **Future Launchers Preparatory Programme (FLPP)** is a technology development and maturation programme of the [European Space Agency (ESA)](zz_esa.md). It develops technologies for the application in future European [launch vehicles (launchers)](lv.md) and in upgrades to existing launch vehicles. By this it helps to reduce time, risk and cost of launcher development programmes.
 
 
 

@@ -18,7 +18,7 @@ Albedo (/ælˈbiːdoʊ/) (Latin: albedo, meaning 'whiteness') is the measure of 
 ## Astronomical albedo
 The albedos of planets, satellites and minor planets such as asteroids can be used to infer much about their properties. The study of albedos, their dependence on wavelength, lighting angle ("phase angle"), and variation in time composes a major part of the astronomical field of photometry. For small and far objects that cannot be resolved by telescopes, much of what we know comes from the study of their albedos. For example, the absolute albedo can indicate the surface ice content of outer Solar System objects, the variation of albedo with phase angle gives information about regolith properties, whereas unusually high radar albedo is indicative of high metal content in asteroids. 
 
-Two common albedos that are used in astronomy are the (V-band) geometric albedo (measuring brightness when illumination comes from directly behind the observer) and the Bond albedo (measuring total proportion of electromagnetic energy reflected). Their values can differ significantly, which is a common source of confusion
+Two common albedos that are used in astronomy are the (V‑band) geometric albedo (measuring brightness when illumination comes from directly behind the observer) and the Bond albedo (measuring total proportion of electromagnetic energy reflected). Their values can differ significantly, which is a common source of confusion
 
 *Planet’s and planetoid’s albedo in [Solar System](солнечная_система.md).*  
 

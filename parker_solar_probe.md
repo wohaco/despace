@@ -24,7 +24,7 @@
 |Launch| August 12, 2018, 07:31 UTC, Rocket Delta IV Heavy / Star-48BV |
 |Operator| NASA · Applied Physics Laboratory |
 |Programme| Parker Solar Probe |
-|Similar<br> missions| • Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • Past: [MESSENGER](messnger.md) |
+|Similar to| • Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • Past: [MESSENGER](messnger.md) |
 |Target| Trace the flow of energy that heats the corona and accelerates the solar wind.<br>Determine the structure and dynamics of the magnetic fields at the sources of solar wind.<br>Determine what mechanisms accelerate and transport energetic particles. |
 |[Type](sc.md)| Flyby spacecraft; orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -32,7 +32,7 @@
 |Contractor| United Launch Alliance |
 |Manufacturer| Applied Physics Laboratory |
 ||**`…`**|
-|Comms| Ka band, X-Band |
+|Comms| Ka band, X‑band |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): 2018-065A, SCN: 43592 |
 |Mass| Dry: 555 kg ([Medium satellite](спутник.md), [EVN‑072](evn_072.md)) |
 |Orbit / Site| Heliocentric; 0.046 × 0.73 AU; T = 88 days |
@@ -41,7 +41,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -59,7 +59,7 @@ Targets & investigations:
 
 
 ## Mission
-It will approach to within 9.86 solar radii from the center of the Sun and by 2025 will travel, at closest approach, as fast as 690 000 km/h, or 0.064% the speed of light.
+It will approach to within 9.86 solar radii from the center of the Sun and by 2025 will travel, at closest approach, as fast as 690 000 km/h, or 0.064 % the speed of light.
 
 The Parker Solar Probe will be the first spacecraft to fly into the low solar corona. It will assess the structure and dynamics of the Sun’s coronal plasma and magnetic field, the energy flow that heats the solar corona and impels the solar wind, and the mechanisms that accelerate energetic particles.
 
@@ -73,7 +73,7 @@ After the first Venus flyby, the probe will be in an elliptical orbit with a per
 |:--|
 |***The trajectory of the probe***|
 
-   - Launch occurred on 12 August 2018, at 3:31 a.m. EDT, 7:31 a.m. GMT. The spacecraft operated nominally after launching. During its first week in space it deployed its high-gain antenna, magnetometer boom, and electric field antennas.
+   - Launch occurred on 12 August 2018, at 3:31 a.m. EDT, 7:31 a.m. GMT. The spacecraft operated nominally after launching. During its first week in space it deployed its high‑gain antenna, magnetometer boom, and electric field antennas.
    - Instrument activation and testing began in early September 2018. On 9 September, the two WISPR telescopic cameras performed a successful first-light test, transmitting wide-angle images of the background sky towards the galactic center.
    - The probe successfully performed the first of the seven planned Venus flybys on 3 October 2018.
    - The first scientific observations were transmitted in December 2018.

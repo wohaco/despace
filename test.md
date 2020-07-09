@@ -102,8 +102,8 @@
 ## Оборудование
 Камеры высокого давления:
 
-   - [AVEC](avec.md) (V = 0.0007 m³, [JHU APL](03_jhuapl.md))
-   - [GEER](geer.md) (V = 0.811 m³ и 0.004 m³, [GRC](03_grc.md))
+   - [AVEC](avec.md) (V = 0.0007 m³, [JHU APL](zz_jhuapl.md))
+   - [GEER](geer.md) (V = 0.811 m³ и 0.004 m³, [GRC](zz_grc.md))
 
 
 

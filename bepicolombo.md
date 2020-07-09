@@ -26,15 +26,15 @@
 |Launch| 20 October 2018, 01:45 UTC, Rocket: Ariane 5 ECA |
 |Operator| ESA, JAXA |
 |Programme| BepiColombo |
-|Similar<br> missions| • Proposed: Меркурий‑П (2031)<br> • Current: …<br> • Past: [MESSENGER](messenger.md), [Mariner-10](mariner_10.md)|
+|Similar to| • Proposed: Меркурий‑П (2031)<br> • Current: …<br> • Past: [MESSENGER](messenger.md), [Mariner-10](mariner_10.md)|
 |Target| Performing a comprehensive study of mercury, including characterization of its magnetic field, magnetosphere, and internal and surface structure. |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| 2 Orbiters; Transfer Module |
 |Contractor| Arianespace |
-|Manufacturer| Airbus, [ISAS](03_isas.md) |
+|Manufacturer| Airbus, [ISAS](zz_isas.md) |
 ||**`…`**|
-|Comms| MPO: X- and Ka-band, diameter=1 m;<br>Mio: X-band, diameter=0.8 m |
+|Comms| MPO: X- and Ka‑band, diameter=1 m;<br>Mio: X‑band, diameter=0.8 m |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): 2018-080A, SCN: 43653 |
 |Mass| **Dry mass:** 2 700 kg<br>**BOL mass**: *MPO*: 1 230 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)); *Mio*: 255 kg ([Minisatellite](спутник.md), [EVN‑070](venus.md)) |
 |Orbit / Site| **MPO**: 480 × 1 500 km; Inclination 90° <br>**Mio**: 590 × 1 500 km; Inclination 90° |
@@ -43,7 +43,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -124,15 +124,15 @@ The science payload of the MPO consists of eleven instruments:
    - Italian Spring Accelerometer (**ISA**), developed by Italy;
    - Mercury Magnetometer (**MERMAG**), developed by Germany and UK;
    - Mercury Radiometer and Thermal Infrared Spectrometer (**MERTIS**), developed by Germany;
-   - Mercury Gamma-ray and Neutron Spectrometer (**MGNS**). The instrument developed in the Space Research Institute of the Russian Academy of Sciences. Objectives:
+   - Mercury Gamma‑ray and Neutron Spectrometer (**MGNS**). The instrument developed in the Space Research Institute of the Russian Academy of Sciences. Objectives:
       - the study of the elemental composition of the Mercurian surface that will allow us to refine the ideas about the formation and evolution of the planet;
       - measure the ratio of potassium to thorium and comparison of this value with those of other terrestrial planets, and studying the polar regions of Mercury and their comparison with the polar regions of the Moon.
-   - Mercury Imaging X-ray Spectrometer (**MIXS**), developed by UK and Finland;
+   - Mercury Imaging X‑ray Spectrometer (**MIXS**), developed by UK and Finland;
    - Mercury Orbiter Radio-science Experiment (**MORE**), developed by Italy and the United States;
    - Probing of Hermean Exosphere by Ultraviolet Spectroscopy (**PHEBUS**) — for measuring the composition and dynamics of Mercury’s exosphere, developed by France and Russia;
    - Search for Exosphere Refilling and Emitted Neutral Abundances (**SERENA**), made up of 2 neutral and 2 ionised particle analysers: (**ELENA**) (Emitted Low-Energy Neutral Atoms) developed by Italy; (**STROFIO**) (Start from a ROtating Field mass spectrOmeter) developed by United States; (**MIPA**) (Miniature Ion Precipitation Analyser) developed by Sweden; (**PICAM**) (Planetary Ion CAMera) — panoramic energy-mass spectrometer of positively charged ions developed by Austria. The main objective of the experiment is to study the flow of ions from the planet’s surface and solar wind ions in the Mercury magnetosphere, and thus to study the Mercury soil and its interaction with the planet’s exosphere. The purpose of the experiment is to determine the chemical composition of the soil, to study the physical processes of emission from the surface of neutral particles and to measure the flows of magnetospheric ions that return to the surface; to understand whether Mercury has an ionosphere and how plasma convection occurs near it, to clarify the structure of the magnetosphere and the features of its interaction with the solar wind;
    - Spectrometers and Imagers for MPO BepiColombo Integrated Observatory System (**SIMBIO-SYS**), high resolution stereo cameras and a visual and near infrared spectrometer, developed by Italy, France and Switzerland;
-   - Solar Intensity X-ray and Particle Spectrometer (**SIXS**), developed by Finland and UK.
+   - Solar Intensity X‑ray and Particle Spectrometer (**SIXS**), developed by Finland and UK.
 
 ### Mio
 Mio developed by the Japan Aerospace Exploration Agency, is an Orbiter for studying the magnetic field and magnetosphere of mercury from a highly elliptical polar orbit (400 km by 12 000 km).
@@ -185,9 +185,9 @@ The solar electric propulsion system has typically very high specific impulse an
 
 The MPO will have a mass of 1 150 kg and will use a single-sided solar array capable of providing up to 1000 W and featuring Optical Solar Reflectors to keep its temperature below 200 °C. The solar array requires continuous rotation keeping the Sun at a low incidence angle in order to generate adequate power while at the same time limiting the temperature.
 
-The MPO will carry a payload of 11 instruments, comprising cameras, spectrometers (IR, UV, X-ray, γ-ray, neutron), a radiometer, a laser altimeter, a magnetometer, particle analysers, a Ka-band transponder, and an accelerometer. The payload components are mounted on the nadir side of the spacecraft to achieve low detector temperatures, apart from the MERTIS and PHEBUS spectrometers located directly at the main radiator to provide a better field of view.
+The MPO will carry a payload of 11 instruments, comprising cameras, spectrometers (IR, UV, X‑ray, γ‑ray, neutron), a radiometer, a laser altimeter, a magnetometer, particle analysers, a Ka‑band transponder, and an accelerometer. The payload components are mounted on the nadir side of the spacecraft to achieve low detector temperatures, apart from the MERTIS and PHEBUS spectrometers located directly at the main radiator to provide a better field of view.
 
-A high-temperature-resistant 1.0 m diameter high-gain antenna is mounted on a short boom on the zenith side of the spacecraft. Communications will be on the X and Ka band with an average bit rate of 50 Kb/s and a total data volume of 1550 Gb/year. ESA’s Cebreros 35-metre ground station is planned to be the primary ground facility for communications during all mission phases.
+A high-temperature‑resistant 1.0 m diameter high‑gain antenna is mounted on a short boom on the zenith side of the spacecraft. Communications will be on the X and Ka band with an average bit rate of 50 Kb/s and a total data volume of 1550 Gb/year. ESA’s Cebreros 35-metre ground station is planned to be the primary ground facility for communications during all mission phases.
 
 ### Mio
 
@@ -197,7 +197,7 @@ A high-temperature-resistant 1.0 m diameter high-gain antenna is mounted on a 
 
 Mio developed and built mostly by Japan, has the shape of a short octagonal prism, 180 cm long from face to face and 90 cm high. It has a mass of 285 kg, including a 45 kg scientific payload consisting of 5 instrument groups.
 
-Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 km, outside of MPO’s orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X-band phased array high-gain antenna and two medium-gain antennas operating in the X-band. Telemetry will return 160 GB/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center’s 64 m antenna located in Nagano, Japan.
+Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 km, outside of MPO’s orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X‑band phased array high‑gain antenna and two medium‑gain antennas operating in the X‑band. Telemetry will return 160 GB/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center’s 64 m antenna located in Nagano, Japan.
 
 <p style="page-break-after:always"> </p>
 

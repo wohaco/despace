@@ -17,7 +17,7 @@ This document provides a brief description of the mission and apparatus; the des
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-||**Mission:**|
+|**Mission:**|• • •|
 |Duration| 3.5 years |
 |Operator| … |
 |Program| … |
@@ -28,7 +28,7 @@ This document provides a brief description of the mission and apparatus; the des
 |Goal| Complex study of Venus: study of Venus in the orbit of an artificial satellite, in the dense layers of the atmosphere at altitudes of 50 — 100 km, on the surface and during descent. |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
 |Price| ₽ 17 billion in 2019 prices (5 912 kg [gold](sc_price.md)) |
-||**Spacecraft:**|
+|**Spacecraft:**|• • •|
 |Contractor| … |
 |Developer| … |
 |Structure| Orbiter, Lander |
@@ -36,12 +36,12 @@ This document provides a brief description of the mission and apparatus; the des
 |[Номер](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
 |Orbit / Place| Polar orbit; pericenter: 300 — 500 km; apocenter: 66 000 km. Period: 24 hr. |
 |Payload| `see the section «Instruments»` |
-|Связь| High-gain antenna with a diameter of 2 600 mm, X-band, up to 512 Kb/s, or Ка-band, up to 26 Mb/s |
+|Связь| High‑gain antenna with a diameter of 2 600 mm, X‑band, up to 512 Kb/s, or Ка‑band, up to 26 Mb/s |
 |Power| 2 400 W (at the end of the active life) |
 
 Targets and investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -83,18 +83,18 @@ Targets and investigations:
 |EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
 |EVN‑047||Surface: structure‑composition connection of different regions & planet’s evolution.|  ||C||||
 |EVN‑048||Nature & sources of the greenhouse effect.|  |D||F|||
-|EVN‑049||Nature of the thermal tides.|  |D|||||
+|EVN‑049||Nature & characteristics of the thermal tides.|  |D|||||
 |EVN‑056|T|Exploration: from L1/L2.| Ai, Am, At, Gi |D|||||
 |EVN‑058|T|Exploration: directed seismoexperiment.|  |D||F|||
-|EVN‑067||Atmosphere: nature of the polar turbulence.|  |D|||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
 |EVN‑069|T|Prolonged surface‑spacecraft functioning.|  ||C||||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑075||Atmosphere: clouds, their nature.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
 |EVN‑080||Albedo: changes in time.| Gi |D||F|||
-|EVN‑082|T|Atmosphere: prolonged investigations on the H=0 ‑ 10 km.| All A ||||||
-|EVN‑086|T|Surface: tessera investigations, close.|  ||C||||
+|EVN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km.| All A ||||||
+|EVN‑086|T|Surface: tessera investigations, in‑situ|  ||C||||
 |EVN‑088|T|Surface: subsurface investigations.|  ||C||||
 |EVN‑091||The loss rate of water from Venus.|  |D||F|||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
@@ -202,7 +202,7 @@ The distribution of carbon dioxide and nitrogen in the atmosphere contradicts th
 
 In contrast to the geological models, our knowledge of geochemistry of solid Venus is limited. This is primarily because the dense layer of clouds prevents optical and, thus, spectral studies of Venus. The only means by which the geochemical data from Venus’ surface can be obtained are landers.
 
-To resolve the key geologic questions, it is necessary to characterize the geochemistry, mineralogy, and petrology of surface features/terrains, especially tessera ([EVN‑023](venus.md), [EVN‑044](venus.md), [EVN‑086](venus.md)). These data, which are the clues to the first 80% of Venus history now obscured by volcanic and tectonic resurfacing, will allow us to constrain the history of volatiles, especially water, on Venus, and provide a basis for direct comparison of crustal evolution on Earth and Mars.
+To resolve the key geologic questions, it is necessary to characterize the geochemistry, mineralogy, and petrology of surface features/terrains, especially tessera ([EVN‑023](venus.md), [EVN‑044](venus.md), [EVN‑086](venus.md)). These data, which are the clues to the first 80 % of Venus history now obscured by volcanic and tectonic resurfacing, will allow us to constrain the history of volatiles, especially water, on Venus, and provide a basis for direct comparison of crustal evolution on Earth and Mars.
 
 At present, the most prominent open questions we have about Venus’ atmosphere and geochemistry of the surfaceare:
 
@@ -214,7 +214,7 @@ At present, the most prominent open questions we have about Venus’ atmosphere 
    - What are the effects of the two primary atmospheric constituents (CO₂ and N₂) being in supercritical state in the lower atmosphere ([EVN‑032](venus.md))? Are these constituents well mixed in the troposphere or do they show a vertical gradient ([EVN‑010](venus.md))?
    - Was there ever an ocean on Venus, and if so, when did it exist and how did it disappear? ([EVN‑040](venus.md))?
    - Is Venus active geologically? ([EVN‑029](venus.md))? What caused the resurfacing of Venus during the last billion years ([EVN‑046](venus.md))?
-   - What are the nature and extent of present-day chemical reactions between Venus’ atmosphere and its surface? ([EVN‑007](venus.md), [EVN‑041](venus.md))?
+   - What are the nature and extent of present‑day chemical reactions between Venus’ atmosphere and its surface? ([EVN‑007](venus.md), [EVN‑041](venus.md))?
 
 Potentially, the Venera-D mission can provide answers to some / many questions, using the Orbiter and lander, as well as using additional modules (for example, an air platform, a long-lived ground station).
 
@@ -237,7 +237,7 @@ Potentially, the Venera-D mission can provide answers to some / many questions, 
 | O3. Structure, composition, and dynamics of clouds, hazes, and surface thermal emissivity ([EVN‑016](venus.md), [EVN‑019](venus.md)) | 1. Determine the structure, composition, dynamics, thermal balance, and structure of the clouds and haze (0 to 100 km) on the night side, upper boundary of clouds and composition above clouds on the day side;<br>2. Dynamics in the transfer region between zonal and subsolar (SS) and antisolar (AS) modes of circulation (90 to 110 км);<br>3. ПSurface emissivity and search for thermal activities;<br>4. Dynamics and polar vortices. | 1. Measure spectra and perform imaging in the wavelength range of 0.4 to 5.1 μm (0.4 to 1.9 μm with VIS-NIR, 1.5 to 5.1 μm with IR; with spectral sampling of Δλ = 0.002 and 0.005 μm, respectively);<br>2. Map the thermal structure, distribution of minor constituents, clouds, surface emissions, non-local thermodynamic equilibrium (LTE) emissions, and wind speeds;<br>3. Measure CO, H₂O, OCS and SO₂ abundance;<br>4. Measure winds at different altitudes through cloud tracking at 350 and 980 nm in the day side; 1.74 μm (at 50 km) on the night side;<br>5. Map the 3D temperature field on the night side of Venus from 65 to 90 km;<br>6. Mapping the non-LTE O₂, OH, O, NO, CO₂ dynamics from 90 to 140 km;<br>7. Measure the surface temperature and search for possible emissivity anomalies. | UV-infrared (IR) imaging spectrometer (e.g., VIS and NIR spectrometer (VENIS)) | High |
 | O4. Vertical structure and composition of atmosphere ([EVN‑010](venus.md), [EVN‑017](venus.md)) | 1. Study the vertical structure and composition of the atmosphere and thermosphere, including La, HDO, H₂O, CO, SO₂ и SO, COS, HCl, HF etc. (and infer O and H escape rates);<br>2. Study the hazes above the clouds (70 to 160 km) | 1. Measure IR spectra in the wavelength range of 2.2 to 4.4 μm with a spectral sampling of Δλ = 0.1 nm;<br>2. Measure UV spectra in the wavelength range of 118 to 320 nm with a spectral sampling of Δλ = 1.3 nm. | UV and IR solar and stellar occultation spectrometer | High |
 | O5. Atmospheric circulation, dynamics, and evolution of contrasts ([EVN‑011](venus.md), [EVN‑035](venus.md)) | 1. Track clouds to measure atmospheric circulation and characterize the evolution of known (SO₂ и SO) and unknown absorbers creating contrasts in day side and night side cloud cover;<br>2. Map surface thermal night side emissions near 1 μm to evaluate surface geology;<br>3. Map low-cloud emission near 2 μm — low atmosphere circulation;<br>4. Map at 10 μm — circulation in upper clouds. | Perform imaging at 0.285 μm, 0.365 μm, 0.500 μm on day side; at 1 μm and 10 μm on both day and night sides; 2 μm on night side. | Imaging system | High |
-| O6. Ionosphere and atmosphere ([EVN‑096](venus.md)) | 1. Determine the free electron and neutral gas density in the ionosphere and thermosphere;<br>2. Determine the electron density (profiles) of the ionosphere;<br>3. Determine the temperature, pressure, and concentration of sulfuric acid vapor (profiles) of the atmosphere;<br>4. Determine the surface scattering properties, permittivity, and density of the surface material. | Measure amplitude, phase and frequency of radio signals in two frequency ranges of L and X (S) band, emitted from the orbiter, reflected from the surface, and passing through the atmosphere. | Radio science two-frequency occultation in L- and X-bands. | Medium |
+| O6. Ionosphere and atmosphere ([EVN‑096](venus.md)) | 1. Determine the free electron and neutral gas density in the ionosphere and thermosphere;<br>2. Determine the electron density (profiles) of the ionosphere;<br>3. Determine the temperature, pressure, and concentration of sulfuric acid vapor (profiles) of the atmosphere;<br>4. Determine the surface scattering properties, permittivity, and density of the surface material. | Measure amplitude, phase and frequency of radio signals in two frequency ranges of L and X (S) band, emitted from the orbiter, reflected from the surface, and passing through the atmosphere. | Radio science two-frequency occultation in L- and X‑bands. | Medium |
 | O7. Atmospheric density, temperature, wind velocity, mesospheric minor constituents, and CO₂ dayglow ([EVN‑074](venus.md)) | 1. Determine density and temperature vertical profiling between 80 to 160 m altitude by means of solar occultation;<br>2. Determine wind velocity between 90 to 160 km altitude;<br>3. Map wind velocities in the Venus mesosphere;<br>4. Determine the concentration of minor constituents in the Venus mesosphere (vertical profiles);<br>5. Characterize CO₂ dayglow on the Venus limb. | 1. Measure atmospheric absorption spectra between 10 to 11 m in nadir geometry and solar occultation mode with a resolution of λ/Δλ ~107 to 108;<br>2. Doppler measurements of component along the spacecraft’s orbit plane by means of solar occultations;<br>3. Perform nadir single-point and imaging spectroscopic measurements;<br>4. Imaging spectroscopy of atmospheric absorption between 10 to 11 m in nadir geometry with resolving power λ/Δλ ~107 to 108;<br>5. Measure dayglow between 10 to 11 μm in nadir geometry and solar occultation mode with resolving power λ/Δλ ~107 to 108. | IR heterodyne spectrometer | High |
 | O8. Solar wind, solar UV emission, and space weather phenomena ([EVN‑097](venus.md)) | 1. Characterize the interplanetary magnetic field;<br>2. Characterize solar UV emission;<br>3. Trace interplanetary weather. | 1. Measure magnetic field vector(s) in the amplitude range of ±300 nT in the frequency range of 0 to 2 Hz with a sensitivity of 0.1 nT;<br>2. Measure solar wind ions in the energy range 50 eV to 10 keV (e.g., Ares V);<br>3. Measure the ionizing solar radiation;<br>4. Measure characteristics the solar wind and interplanetary magnetic field on the subsatellite. | **Plasma and UV package** — magnetometer (e.g., Fluxgate Magnetometer for Venus (FM-V)), ion spectrometer (e.g., Ares V), and UV monitor | Medium |
 | O9. Magnetosphere of Venus and its interaction with the solar wind ([EVN‑028](venus.md), [EVN‑097](venus.md)) | 1. Characterize the interaction between the solar wind and the induced magnetosphere at Venus (boundaries, dynamics);<br>2. Determine the structure and properties of day side magnetosphere;<br>3. Determine the structure and dynamics of Venus’ plasma-magnetic tail;<br>4. haracterize ultra low frequency (ULF) waves resulted from solar wind-magnetosphere interaction. | 1. Measure magnetic field vector(s) in the amplitude range of ±1000 nT in the frequency range of 0 to 32 Hz with a sensitivity of 0.1 nT;<br>2. Measure energy, flux, and temperature of ions in 2π field-of-view with mass-separation (5 eV to 15 keV);<br>3. Measure electron density and temperature in the energy range between 10 eV and 10 keV. | **Plasma package** — magnetometer (e.g., FM-V), ion spectrometer (e.g., Ares V), electron spectrometer ELSPEC, plasma wave analyzer, and UV monitor | Medium |
@@ -256,9 +256,9 @@ Potentially, the Venera-D mission can provide answers to some / many questions, 
    1. Investigate the structure ([EVN‑017](venus.md)) and chemical composition of the atmosphere down to the surface ([EVN‑077](venus.md)), including abundances and isotopic ratios of the trace and noble gases;
    1. Perform direct chemical analysis of cloud aerosols ([EVN‑018](venus.md));
    1. Characterize the geology of local landforms at different scales ([EVN‑044](venus.md));
-   1. Study variation of near-surface wind speed and direction, temperatures, and pressure over 3 months ([EVN‑031](venus.md)) (LLISSE);
+   1. Study variation of near‑surface wind speed and direction, temperatures, and pressure over 3 months ([EVN‑031](venus.md)) (LLISSE);
    1. Measure incident and reflected solar radiation over 3 months ([EVN‑019](venus.md)) (LLISSE);
-   1. Measure near-surface atmospheric chemical composition over 3 months ([EVN‑082](venus.md)) (LLISSE);
+   1. Measure near‑surface atmospheric chemical composition over 3 months ([EVN‑082](venus.md)) (LLISSE);
    1. Detect seismic activity, volcanic activity, and volcanic lightning ([EVN‑058](venus.md), [EVN‑012](venus.md)).
    
 For the geochemical aspects of Venus exploration, two types of measurements are paramount:
@@ -277,9 +277,9 @@ Atmospheric Science:
 | L1. Atmosphere composition during descent ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Determine composition, chemistry, greenhouse, photochemistry, origin, and evolution of the atmosphere, dynamics, and atmosphere-surface interaction. | In situ measurements of chemical composition of atmosphere, including abundances of gases SO₂, CO, COS, H₂O, NO₂, HCl, HF, and their isotopologues and isotopic ratios D/H, ¹³C/¹²C, ¹⁸O/¹⁷O/¹⁶O, ³⁴S/³³S/³²S uring descent from 65 km and after landing. | Multichannel tunable diode laser (MTDL) spectrometer | High |
 | L1. Atmosphere composition during descent ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Determine content and isotopic composition of light and noble gases (Xe, Kr) in the atmosphere. Verify CO₂ and N₂ gradient at altitudes below 120 km. | During the descent, measure chemical composition of Venus’ atmosphere and of aerosols of clouds. | Chemical analyses package (CAP) — gas chromatograph-mass spectrometer (GCMS) | High |
 | L2a. Atmosphere composition at the surface ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Determine the chemical composition of the atmosphere and clouds. | At surface, measure the chemical composition of the atmosphere. | Chemical analyses package (CAP) — gas chromatograph-mass spectrometer (GCMS) | High |
-| L2b. Near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Long-term study of possible variation of near-surface atmospheric composition. | Measure abundances of predefined components. | LLISSE attached to lander. | High |
+| L2b. Near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Long-term study of possible variation of near‑surface atmospheric composition. | Measure abundances of predefined components. | LLISSE attached to lander. | High |
 | L3a. Atmospheric structure and dynamics ([EVN‑010](venus.md), [EVN‑017](venus.md), [EVN‑074](venus.md)) | Determine atmospheric structure, dynamics, turbulence, convection, and thermal balance. | Measure temperature, pressure, wind speed, temperature gradient, and acceleration from 120 m altitude to and at the surface; incident and reflected radiation. | Temperature, pressure, wind (TPW) package (accelerometer/altimeter, photometer) and infrared radiometer for Venera-D (VERBA) |  High |
-| L3b. Near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑017](venus.md), [EVN‑031](venus.md)) | Study of long-term characteristics of near-surface dynamics, waves, thermal tides, and atmosphere-surface interaction. | Long-term measurements of near-surface temperature, pressure, wind speed, and direction; incident and reflected radiation. | LLISSE attached to lander. | High |
+| L3b. Near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑017](venus.md), [EVN‑031](venus.md)) | Study of long-term characteristics of near‑surface dynamics, waves, thermal tides, and atmosphere-surface interaction. | Long-term measurements of near‑surface temperature, pressure, wind speed, and direction; incident and reflected radiation. | LLISSE attached to lander. | High |
 | L4a. Radiative balance of the atmosphere, net fluxes, Н₂О, UV absorbers, and sulfur compounds vertical profile ([EVN‑019](venus.md)), [EVN‑035](venus.md)) | Radiative fluxes on different atmospheric levels, vertical profiles of species, spectral characteristics, and illuminance | Measurements of upward and downward radiative fluxes in transparency windows. Net fluxes and UV-Vis-NIR spectral measurements of clouds and gases. Active part of descent trajectory. | Infrared radiometer (VERBA) with anintegrated UV-Vis-NIR spectrometer. | Medium |
 | L4b. Solar fluxes on the surface ([EVN‑013](venus.md), [EVN‑019](venus.md), [EVN‑080](venus.md)) | Surface albedo. Study of factors that influence solar illumination (cloud opacity, local time, local relief, etc.) | Measurements of incident and reflected solar radiation over 60 days. | LLISSE | Medium |
 | L4c. Physical properties of atmospheric aerosols ([EVN‑018](venus.md), [EVN‑075](venus.md))| Evaluate aerosol microphysics, composition, vertical profile, cloud formation and chemistry, and thermal balance. | Measure atmospheric aerosol particle number density, size distribution, and optical properties. | Raman-LIDAR | Medium |
@@ -292,8 +292,8 @@ Surface Geology and Geophysics:
 
 |*Objective Title*|*Science Objectives*|*Measurements*|*Instrument*|*Priority*|
 |:--|:--|:--|:--|:--|
-| L5. Surface structure and morphology ([EVN‑025](venus.md), [EVN‑044](venus.md)) | Characterize surface structure, morphology, and relief at 100 to 10 m/pixel during descent; characterize the surface at 1 to 0.01 m/pixel at surface. Sample characterization at <0.2 mm/pixel. | 1. Surface imaging during descent and measuring optical properties of the atmosphere;<br>2. Imaging on the surface and measuring optical properties of the near surface atmosphere;<br>3. Stereo imaging of surface (field of view (FOV) 30° to 45° and angular resolution ~0.0005 ad) starting from an altitude of several kilometers and on the surface;<br>4. Panoramic stereo imaging of the surface. Detailed stereo imaging of surface with the spatial resolution better than 0.2 mm. | Imaging system (descent imager, panoramic camera, and microscopic imager). | High |
-| L6. Surface elemental composition ([EVN‑026](venus.md)) | Determine the elemental composition of surface rocks with emphasis on trace elements, including the radioactive isotopes of K, U, and Th. | 1. Measure the gamma-ray spectrum of the surface induced by the flux of neutrons with energies 14 MeV;<br>2. Spectrum of gamma radiation from natural radioactive elements of the surface. XRF spectra to determine the elemental composition;<br>3. Chemical composition of a rocky sample (which must be delivered inside the lander). | • Active gamma-spectrometer (e.g., Active Gamma and Neutron Spectrometric Soil Analysis (AGNESSA));<br>• XRF mode of Mössbauer spectrometer;<br>• CAP;<br>• XRD/XRF | High |
+| L5. Surface structure and morphology ([EVN‑025](venus.md), [EVN‑044](venus.md)) | Characterize surface structure, morphology, and relief at 100 to 10 m/px during descent; characterize the surface at 1 to 0.01 m/px at surface. Sample characterization at <0.2 mm/px. | 1. Surface imaging during descent and measuring optical properties of the atmosphere;<br>2. Imaging on the surface and measuring optical properties of the near surface atmosphere;<br>3. Stereo imaging of surface (field of view (FOV) 30° to 45° and angular resolution ~0.0005 ad) starting from an altitude of several kilometers and on the surface;<br>4. Panoramic stereo imaging of the surface. Detailed stereo imaging of surface with the spatial resolution better than 0.2 mm. | Imaging system (descent imager, panoramic camera, and microscopic imager). | High |
+| L6. Surface elemental composition ([EVN‑026](venus.md)) | Determine the elemental composition of surface rocks with emphasis on trace elements, including the radioactive isotopes of K, U, and Th. | 1. Measure the gamma‑ray spectrum of the surface induced by the flux of neutrons with energies 14 MeV;<br>2. Spectrum of gamma radiation from natural radioactive elements of the surface. XRF spectra to determine the elemental composition;<br>3. Chemical composition of a rocky sample (which must be delivered inside the lander). | • Active gamma-spectrometer (e.g., Active Gamma and Neutron Spectrometric Soil Analysis (AGNESSA));<br>• XRF mode of Mössbauer spectrometer;<br>• CAP;<br>• XRD/XRF | High |
 | L7. Mineral phases ([EVN‑023](venus.md)) | Identification of mineral phases, containing Fe (Fe²⁺, Fe³⁺, Fe⁶⁺). To address atmosphere and surface evolution along with surface minerals (search for any possible bound water e.g., phyllosilicates). Delivery of at least 1 g of rocks inside the lander.| Measure Mössbauer spectra of the surface rocks. | Miniaturized Mössbauer spectrometer (MIMOS-2A). | High |
 | L8a. Global and regional seismic activity ([EVN‑020](venus.md), [EVN‑029](venus.md), [EVN‑058](venus.md)) | Assess global and regional tectonic activity. | Measurement of planetary seismic background and self-oscillations to constrain crustal thickness over 3-hr lander lifetime. | Seismometer. | Low |
 | L8b. Venus’ internal structure, heat flow, and seismic activity ([EVN‑019](venus.md)), [EVN‑020](venus.md), [EVN‑029](venus.md), [EVN‑047](venus.md), [EVN‑058](venus.md)) | Asses global tectonic activity at multiple locations. | Measurement of planetary seismic background and self-oscillations to constrain crustal thickness over 120 days; measure heat flux. | SAEVes. | High |
@@ -316,7 +316,7 @@ Surface Geology and Geophysics:
 | 5 ☑ | Solar and star occultation spectrometer | Three spectrometers (UV, NIR, and MIR) for atmospheric studies.<br>0.7-1.7; 2.2-4.4 μm,, Δλ =1 nm;<br>118-320 nm, Δλ = 0.1 nm | 300×300×200 | 11 | 24 | 39.551 | H | 5 to 7 | ? | Clouds: IR 75 to 90 km, UV 85 to 110 km |
 | 6 ☑ | MMW radiometer | MMW radiometer; Ka, V, and W bands;<br>scanning antennas;<br>three channels: f = 100 GHz (3 mm), 60 GHz (5 mm) and 30 GHz (1 cm) с Δf = 20, 10 and 5 GHz, respectively | 200×150×100 | 2 | 6 | 1.25 | H | 3 to 4 | 3 |  |
 | 7 ☑ | IR heterodyne spectrometer | Ultra-high resolution (λ/Δλ = 1×10⁷ to 1×10⁸) spectroradiometer for solar occultations and nadir observations; several narrow channels from 4.5 to 12 μm (IVOLGA) | 200×200×100 | 8 | 40 | 3.125 | L | 3 to 4 | 5 | Uncertain if instrument can implement desired measurements. Proof of performance needs to be demonstrated early to support development for this application |
-| 8 ☐ | Radio-science two-frequency duplex occultation | Signal from satellite received by a ground station or subsatellite and receive signals from ground or subsatellite in (L?) S- and X-bands | 0.5 dm³ | 0.5 | 1 | 2.197 | H | 7 for S- and X-, 3 to 4 for L- | ? | Part of the general orbiter design |
+| 8 ☐ | Radio-science two-frequency duplex occultation | Signal from satellite received by a ground station or subsatellite and receive signals from ground or subsatellite in (L?) S- and X‑bands | 0.5 dm³ | 0.5 | 1 | 2.197 | H | 7 for S- and X-, 3 to 4 for L- | ? | Part of the general orbiter design |
 | 9 ☑ | Thermal IR camera | ТThermal IR camera detecting wavelengths from 8 to 12 μm (single band) by using an uncooled micro bolometer array | 100×100×200 | 1 | 7 | 1.6 MB/image | H | 7 | 2 to 3 | Sunlight must not enter to the detector during observations |
 | 10 ☑ | IR imaging camera | Imaging in multiple bands (water and others) and fast imaging in 2 to 4 m band (lower priority) | 9.5 dm³ | 5 | 15 | 395.508 | H | 5 to 7 | 3 to 4 | Nadir pointing required |
 | 11 ☑ | Electromagnetic waves detection | System for detection and investigation of electromagnetic waves generated by lightning and other electric phenomena | 100×110×100 + 800 mm antenna | 0.9 | ≤4.5 | to 2.197 | M | 5 to 6 | 1 | Needs Sensor on boom<br>Dependent on the telemetry (TM) sharing |
@@ -340,7 +340,7 @@ Surface Geology and Geophysics:
 | 4 ☑ | CAP — GC-MS | GC-MS + Laser Induced Mass-Spectrometry (LIMS) + chemical composition of the atmosphere, cloud aerosols, analysis of rock-forming elements, isotopic composition of noble gases and other elements | GC 260×180×130;<br>MS 250×150×110;<br>gas sampling system 120×110×110;<br>gas receiver–sphere Ø150 | 10.5 | 60 | 1 MB/measurement; 18 MB on descent, 3.5 MB on surface | H | 3 to 7<br>2 to 7 | 5 | Ingested sample required. Sample volume required is TBD. Measurements every 10 km on descent |
 | 5 ☑ | Raman | Remote time‐resolved Raman and possibly integrated with LIDAR, LIBS, or other instrument. Mineralogy and possibly chemistry, atmospheric aerosols, molecular species (e.g., H₂SO₄, SO₂, H₂S, CO₂). | 300×300×250 | 8 | 80 | 31 500 | H | 5 | 3 | Heat rejected to 2.5 W. Several Raman options exist - Some may require a sample to be brought in or up close to a window. |
 | 6 ☑ | METEO-lander-VD Fields package | Meteorological instruments (Т, Р, dТ, Е, ω, Н)<br>Measure the vertical structure of the atmosphere during landing and on the surface | ~1 dm³ | 1 | 2 | 0.1 Kb/measurement;; total 0.6 MB for descent and 0.65 MB for surface | H | 2 to 7 | 3 |  |
-| 7 ☑ | Gamma and NS | Active gamma-ray and NS, subsurface elemental composition | 9.5 dm³ | 6.7 | 5/19 |  | H | 6 to 7 | 1 to 2 | Consists of two pieces to be separated but both located near vessel bottom. |
+| 7 ☑ | Gamma and NS | Active gamma‑ray and NS, subsurface elemental composition | 9.5 dm³ | 6.7 | 5/19 |  | H | 6 to 7 | 1 to 2 | Consists of two pieces to be separated but both located near vessel bottom. |
 | 8 ☑ | Multichannel diode laser spectrometer with gas sampling system | Multichannel Laser Absorption Spectrometer (MLAS) and AGS system.<br>In situ vertical profiles of sulphurous and minor gases and isotopic ratios in the dense Venusian atmosphere down to the surface level.<br>SO₂, CO₂, CO, H₂O, OCS; ¹³C/¹²C, ¹⁶O/¹⁷O/¹⁸O, D/H, ³⁴S/³³S/³²S | MLAS: 100×120×450;<br>AGS: 90×120×400 | MLAS: 6.3;<br>AGS: 3.6 | 25/48 | 0.146 (active phase); 5 MB for descent and 11 MB for surface | H | 4 to 7 for functional blocks and subsystems | <5 |  |
 | 9 ☑ | IR radiometer and UV-VIS spectrometer | Measurements of upward and downward radiative fluxes in transparency windows. Active part of descent trajectory. Integrated with this is a UV-VIS spectrometer operating from 0.23 to 0.66 μm, 0.3 nm resolution 0.23 to 0.32 μm, broad ~1.0 nm resolution longward | Radiometer: 200×200×300 (at the outer spacecraft deck),<br>80×80×40 (inside spacecraft);<br>UV-VIS Spectrometer: 120×250×500 | Radiometer: 0.5;<br>UV-VIS Spectrometer: 10 | Radiometer: 5;<br>UV-VIS Spectrometer: 35 | Radiometer: 1 MB;<br>UV-VIS Spectrometer: 8 KB per image (uncompressed); ~5 MB total | H | 3 | 6 to 8 | UV-VIS will need a small window, and accommodation of external gas chamber comparable to that used on VEGA Descent Lander |
 
@@ -413,7 +413,7 @@ The table below shows the additional modules that are being offered to expand th
 | 3 ☑ | Neutral particle spectrometer | Neutral particle mass composition | 109×145×145 | 1.4 | 2.5 | 0.439 | M | 3 | 1 to 3 | FOV should be directed to the Sun |
 | 4 ☑ | Energetic particle spectrometer | Electron and ion energy spectrometer for 20 to 2 000 keV. Energy spectra of energetic ions and electrons in several directions | 180×200×100 | to 4 | to 5 | 0.439 | M | 6 | 2 to 3 | Location in sun shadow preferred (no direct or refracted sunlight on detectors) |
 | 5 ☑ | Magnetometer | Flux‑gate magnetometer (two vector sensors and electronic box) ±500 nT. Quasistatic magnetic field (three components)/Venus ionosphere and plasma environment | 150×150×150<br>70×30×30 | 3 | 7 | <4.395 | M | 4 | 5 to 6 | Boom for the instrument sensors |
-| 6 ☐ | Radio-science two-frequency duplex occultation | Signal from satellite received by a ground station or subsatellite and receive signals from ground or subsatellite in (L?) S- and X-bands. | 0.5 dm³ | 0.5 | 1 | 2.197 | M | 7 for S and X, 3 to 4 for L |  |  |
+| 6 ☐ | Radio-science two-frequency duplex occultation | Signal from satellite received by a ground station or subsatellite and receive signals from ground or subsatellite in (L?) S- and X‑bands. | 0.5 dm³ | 0.5 | 1 | 2.197 | M | 7 for S and X, 3 to 4 for L |  |  |
 
 </small>
 
@@ -422,7 +422,7 @@ The table below shows the additional modules that are being offered to expand th
    - ☑ — This mark signifies that a datasheet is complete and available; ☐ — This mark signifies that the datasheet is not needed.
    - If no other parameter dimension is specified, the dimension is accepted as specified in the parameter header.
    - The column "Science priority»: H —  High, M —  Medium, L —  Low.
-   - The instrument characteristics (physical properties) are shown for the worst-case situation.
+   - The instrument characteristics (physical properties) are shown for the worst‑case situation.
    - When writing, for example, power in the form of 5/19, it means that the average power of the instrument is 5 W, and the working power is 19 W.
    - GB, MB, KB — byte units; Kb, Mb, Kb — bit units.
 
@@ -460,7 +460,7 @@ Example of spacecraft and accommodation for potential augmentations under head f
 During selection process of spacecraft design, the following restrictions are imposed:
 
    1. Spacecraft mass should not exceed 6 400 kg for optimal composition or 6 200 kg for the
-worst-case modification;
+worst‑case modification;
    1. Geometrically, the spacecraft is restricted by payload zone dimensions of the LVF;
    1. Static momentum of the spacecraft with adapter from the plane of adapter and lander-upper stage joint with upper stage must not exceed 18.5 tonne×m (requirements of the «Proton-M» launch vehicle, presumably, the static momentum of the «Angara-A5» type rocket should not be worse);
    1. Overall dimensions and mass of the LМ should not exceed those of Venera and VEGA landers to be able to accommodate more equipment or to increase the lifetime of LМ on the surface;
@@ -506,12 +506,12 @@ In the future, the concept of VAMP was refused.
 | — Other payload  | 450 | 450 |
 | — Fasteners and on-board cable network of the target equipment | 300 | 300 |
 | 1.3 Max refueling | 2 100 | 2 100 |
-| 1.4 Reserve | 360 (16% of item 1.1 — 1.2; 36% of item 1.1) | 160 (7.3% of item 1.1 — 1.2; 16% of item 1.1) |
+| 1.4 Reserve | 360 (16 % of item 1.1 — 1.2; 36 % of item 1.1) | 160 (7.3 % of item 1.1 — 1.2; 16 % of item 1.1) |
 | **2. Lander** | 1 750 | 1 750 |
 | 2.1 Construction, mechanisms, and service systems | 520 | 520 |
 | 2.2 Separable construction | 910 | 910 |
 | 2.3 Lander’s payload | 120 | 120 |
-| 2.4 Reserve | 200 (12.9% of item 2.1 — 2.3) | 200 (12.9% of item 2.1 — 2.3 |
+| 2.4 Reserve | 200 (12.9 % of item 2.1 — 2.3) | 200 (12.9 % of item 2.1 — 2.3 |
 
 </small>
 
@@ -565,13 +565,13 @@ Orbiter uses one main thruster of 4 706 N of thrust and average specific imp
 
 Onboard scientific equipment, depending on the requirements, can be accommodated on the side or upper thermal sandwich panels, upon solar batteries, retractable poles, or other elements of the structure.
 
-The required speed for transmitting scientific information to the Orbiter is 800 Kb/s (including separable payload). To transmit scientific information to Earth, a HGA X- (Ka-) band antenna with a diameter of 2 600 mm is used on a double-stage drive (A 40 W transmitter. When the transmitter power is 70 W, the required antenna diameter is 2 200 mm). To relay scientific information from the Lander to Earth, an additional 128 Kb/s is required according to the technical specification. According to the initial data, the total amount of information generated by the Orbiter’s payload and separated payload is 303 MB/h + 50 MB/h transmission from LМ, i.e. necessary rate must be not less than 928 Kb/s (including 15% reserve).
+The required speed for transmitting scientific information to the Orbiter is 800 Kb/s (including separable payload). To transmit scientific information to Earth, a HGA X- (Ka-) band antenna with a diameter of 2 600 mm is used on a double-stage drive (A 40 W transmitter. When the transmitter power is 70 W, the required antenna diameter is 2 200 mm). To relay scientific information from the Lander to Earth, an additional 128 Kb/s is required according to the technical specification. According to the initial data, the total amount of information generated by the Orbiter’s payload and separated payload is 303 MB/h + 50 MB/h transmission from LМ, i.e. necessary rate must be not less than 928 Kb/s (including 15 % reserve).
 
 Main components of the Orbiter:
 
    1. On-board cable system;
    1. On-board control system: controlling the movement of the center of mass; pointing the Orbiter’s antennas at the Earth station; controlling, monitoring the performance and switching the backup on-board equipment (gyroscopes, momentum wheels, star and solar sensors);
-   1. On-board radio system: An HGA with a diameter/transmitter power of 2.6 m/40 W or 2.2 m/70 W on a double-stage drive for transmitting scientific information to Earth in X-band at the rate from 32 to 512 Kb/s. Additionally, the Ka-band can be used with a data transfer rate of up to 26 Mb/s (since X-band transfer rate is not enough to transfer data from the Orbiter and Lander simultaneously). The on-board radio system of the Orbiter also includes 6 low-directional antennas (2 transmitting, 2 receiving for communication with the Earth, and two antennas for communication with the lander).
+   1. On-board radio system: An HGA with a diameter/transmitter power of 2.6 m/40 W or 2.2 m/70 W on a double-stage drive for transmitting scientific information to Earth in X‑band at the rate from 32 to 512 Kb/s. Additionally, the Ka‑band can be used with a data transfer rate of up to 26 Mb/s (since X‑band transfer rate is not enough to transfer data from the Orbiter and Lander simultaneously). The on-board radio system of the Orbiter also includes 6 low-directional antennas (2 transmitting, 2 receiving for communication with the Earth, and two antennas for communication with the lander).
    1. Propulsion system: <br> • 1 × 4 706 N, average specific impulse 319 s, <br> • 8 × 98 N, average specific impulse 302 s, <br> • 4 × 6 N, average specific impulse 207 s. <br>Oxidizer and fuel (dinitrogen tetroxide and UDMH).
    1. Construction of the Orbiter.
    1. Thermal control system: temperature control is provided with the help of thermal pipes, radiators, heaters, sensors, screen-vacuum thermo-insulation, and thermo-optical coverings.<br>The following temperature ranges of elements and equipment location are supported:<br> • –150 °C up to +150 °C — for framework elements;<br> • –50 °C up to +50 °C — for mechanisms;<br> • –20 °C up to +40 °C — for service/scientific equipment.
@@ -629,61 +629,61 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 
 |°|*[Org.](contact.md)*|*[Member](contact.md)*|
 |:--|:--|:--|
-|**Lavochkin Association**|**203**| [Merkulov Petr Vladimirovich](02_меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager |
-||**500**| [Sysoev Valentin Konstantinovich](02_сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision |
-||**500**| [Eroshkin Vladimir Nikitovich](02_ерошкин1.md)<br>(Ерошкин, Владимир Никитович) |
-||· **510**| [Sedykh Oleg Yurievich](02_седых1.md)<br>(Седых, Олег Юрьевич) |
+|**Lavochkin Association**|**203**| [Merkulov Petr Vladimirovich](zz_меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager |
+||**500**| [Sysoev Valentin Konstantinovich](zz_сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision |
+||**500**| [Eroshkin Vladimir Nikitovich](zz_ерошкин1.md)<br>(Ерошкин, Владимир Никитович) |
+||· **510**| [Sedykh Oleg Yurievich](zz_седых1.md)<br>(Седых, Олег Юрьевич) |
 ||**511**| Kosenkova Anastasia Vladimirovna<br>(Косенкова, Анастасия Владимировна) |
-||· **512**| [Ivanov Sergey Veniaminovich](02_иванов6.md)<br>(Иванов, Сергей Вениаминович) |
+||· **512**| [Ivanov Sergey Veniaminovich](zz_иванов6.md)<br>(Иванов, Сергей Вениаминович) |
 ||· **512**| Martynov Alexey Borisovich<br>(Мартынов, Алексей Борисович) |
 ||· **512**| Pisarenko Pavel Dmitrievich<br>(Писаренко, Павел Дмитриевич) |
 ||· **512**| Feofanov Artem Sergeevich<br>(Феофанов, Артём Сергеевич) |
 ||**514**| Kudryavtsev Aleksandr Nikolaevich<br>(Кудрявцев, Александр Николаевич) — landing and dynamics |
-||· **515**| [Kotlyarov Yevgeny Yuryevich](02_котляров1.md)<br>(Котляров, Евгений Юрьевич) — thermal control system |
-||**517**| [Simonov Aleksandr Vladimirovich](02_симонов1.md)<br>(Симонов, Александр Владимирович) — ballistics and navigation software |
-||· **570**| [Zaitsev Alexey Nikolaevich](02_зайцев1.md)<br>(Зайцев, Алексей Николаевич) — earth-based testing equipment |
-||**574**| [Bogachev Vyacheslav Alexeevich](02_богачёв1.md)<br>(Богачёв, Вячеслав Алексеевич) — materials |
+||· **515**| [Kotlyarov Yevgeny Yuryevich](zz_котляров1.md)<br>(Котляров, Евгений Юрьевич) — thermal control system |
+||**517**| [Simonov Aleksandr Vladimirovich](zz_симонов1.md)<br>(Симонов, Александр Владимирович) — ballistics and navigation software |
+||· **570**| [Zaitsev Alexey Nikolaevich](zz_зайцев1.md)<br>(Зайцев, Алексей Николаевич) — earth-based testing equipment |
+||**574**| [Bogachev Vyacheslav Alexeevich](zz_богачёв1.md)<br>(Богачёв, Вячеслав Алексеевич) — materials |
 |°|• • •|• • •|
 |**RU**|**[4116 ВП](вп.md)**|  |
 ||||
-||**[Vernadsky Institute of Geochemistry and Analytical Chemistry, RAS (ГЕОХИ)](03_геохи_ран.md)**| [Ivanov Mikhail Arsenyevich](02_иванов4.md)<br>(Иванов, Михаил Арсеньевич) — surface geology |
+||**[Vernadsky Institute of Geochemistry and Analytical Chemistry, RAS (ГЕОХИ)](zz_геохи_ран.md)**| [Ivanov Mikhail Arsenyevich](zz_иванов4.md)<br>(Иванов, Михаил Арсеньевич) — surface geology |
 ||||
-||**[Russian Space Research Institute (ИКИ РАН)](03_ики_ран.md)**| [Weisberg Oleg Leonidovich](02_вайсберг1.md)<br>(Вайсберг, Олег Леонидович) — plasma instruments |
-||| [Gerasimov Mikhail Vladimirovich](02_герасимов1.md)<br>(Герасимов, Михаил Владимирович) — **responsible for the target equipment;** the chemistry of the surface and atmosphere |
-||| [Gorinov Dmitry Alexeevich](02_горинов1.md)<br>(Горинов, Дмитрий Алексеевич) — **main contact person** |
-||| [Zasova Lyudmila Veniaminovna](02_засова1.md)<br>(Засова, Людмила Вениаминовна) — co-chair of JSDT (Russian side) |
-||| [Zelenyi Lev Matveevich](02_зелёный1.md)<br>(Зелёный, Лев Матвеевич) — … |
-||| [Ignatiev Nikolai Igorevich](02_игнатьев1.md)<br>(Игнатьев, Николай Игоревич) — atmosphere of Venus |
-||| [Korablev Oleg Igorevich](02_кораблёв1.md)<br>(Кораблёв, Олег Игоревич) — scientific program management |
-||| [Kosov Aleksandr Sergeevich](02_косов1.md)<br>(Косов, Александр Сергеевич) — … |
-||| [Ksanfomaliti Leonid Vasilievich](02_ксанфомалити1.md)<br>(Ксанфомалити, Леонид Васильевич) — … |
-||| [Khatuntsev Igor Valeryevich](02_хатунцев1.md)<br>(Хатунцев, Игорь Валерьевич) — atmosphere of Venus |
-||| [Eismont Natan Andreevich](02_эйсмонт1.md)<br>(Эйсмонт, Натан Андреевич) — ballistics |
+||**[Russian Space Research Institute (ИКИ РАН)](zz_ики_ран.md)**| [Weisberg Oleg Leonidovich](zz_вайсберг1.md)<br>(Вайсберг, Олег Леонидович) — plasma instruments |
+||| [Gerasimov Mikhail Vladimirovich](zz_герасимов1.md)<br>(Герасимов, Михаил Владимирович) — **responsible for the target equipment;** the chemistry of the surface and atmosphere |
+||| [Gorinov Dmitry Alexeevich](zz_горинов1.md)<br>(Горинов, Дмитрий Алексеевич) — **main contact person** |
+||| [Zasova Lyudmila Veniaminovna](zz_засова1.md)<br>(Засова, Людмила Вениаминовна) — co-chair of JSDT (Russian side) |
+||| [Zelenyi Lev Matveevich](zz_зелёный1.md)<br>(Зелёный, Лев Матвеевич) — … |
+||| [Ignatiev Nikolai Igorevich](zz_игнатьев1.md)<br>(Игнатьев, Николай Игоревич) — atmosphere of Venus |
+||| [Korablev Oleg Igorevich](zz_кораблёв1.md)<br>(Кораблёв, Олег Игоревич) — scientific program management |
+||| [Kosov Aleksandr Sergeevich](zz_косов1.md)<br>(Косов, Александр Сергеевич) — … |
+||| [Ksanfomaliti Leonid Vasilievich](zz_ксанфомалити1.md)<br>(Ксанфомалити, Леонид Васильевич) — … |
+||| [Khatuntsev Igor Valeryevich](zz_хатунцев1.md)<br>(Хатунцев, Игорь Валерьевич) — atmosphere of Venus |
+||| [Eismont Natan Andreevich](zz_эйсмонт1.md)<br>(Эйсмонт, Натан Андреевич) — ballistics |
 ||||
-||**[Institute of Radio-engineering and Electronics (ИРЭ РАН)](03_ирэ_ран.md)**| [Gavrik Anatoly Leonidovich](02_гаврик1.md)<br>Гаврик, Анатолий Леонидович) — … |
+||**[Institute of Radio-engineering and Electronics (ИРЭ РАН)](zz_ирэ_ран.md)**| [Gavrik Anatoly Leonidovich](zz_гаврик1.md)<br>Гаврик, Анатолий Леонидович) — … |
 ||||
-||**[Roscosmos (Роскосмос)](03_роскосмос.md)**| [Voron Viktor Vladimirovich](02_ворон1.md)<br>(Ворон, Виктор Владимирович) — chair of the working group |
-||| [Elshansky Leonid Borisovich](02_елшанский1.md)<br>(Елшанский, Леонид Борисович) — **main contact person** |
+||**[Roscosmos (Роскосмос)](zz_роскосмос.md)**| [Voron Viktor Vladimirovich](zz_ворон1.md)<br>(Ворон, Виктор Владимирович) — chair of the working group |
+||| [Elshansky Leonid Borisovich](zz_елшанский1.md)<br>(Елшанский, Леонид Борисович) — **main contact person** |
 ||||
-||**[TsNIIMash (ЦНИИмаш)](03_tsniimash.md)**| [Burdanov Anton Vladimirovich](02_бурданов1.md)<br>(Бурданов, Антон Владимирович) — technologies |
+||**[TsNIIMash (ЦНИИмаш)](zz_tsniimash.md)**| [Burdanov Anton Vladimirovich](zz_бурданов1.md)<br>(Бурданов, Антон Владимирович) — technologies |
 |°|• • •|• • •|
-|**US**|**[Chicago Univ.](chicago_univ.md)**| [Economou, Thanasis](02_economou1.md)<br> — chemical analysis |
+|**US**|**[Chicago Univ.](chicago_univ.md)**| [Economou, Thanasis](zz_economou1.md)<br> — chemical analysis |
 ||||
-||**[GRC](03_grc.md)**| [Kremic, Tibor](02_kremic1.md) — technologies, small landers |
+||**[GRC](zz_grc.md)**| [Kremic, Tibor](zz_kremic1.md) — technologies, small landers |
 ||||
-||~~**[GSFC](03_gsfc.md)**~~| ~~[Glaze, Lori](02_glaze1.md)~~ |
+||~~**[GSFC](zz_gsfc.md)**~~| ~~[Glaze, Lori](zz_glaze1.md)~~ |
 ||||
-||**[JPL](03_jpl.md)**| [Hall, Jeffery L.](02_hall1.md) — technical realizability assessment |
-||| [Ocampo, Adriana Christian](02_ocampo1.md) — administrator JSDT (NASA); the lead scientist for NASA’s exploration of Venus |
+||**[JPL](zz_jpl.md)**| [Hall, Jeffery L.](zz_hall1.md) — technical realizability assessment |
+||| [Ocampo, Adriana Christian](zz_ocampo1.md) — administrator JSDT (NASA); the lead scientist for NASA’s exploration of Venus |
 ||||
-||**[NASA](03_nasa.md)**| ~~[Ewan, Shannon](02_ewan1.md)~~ |
-||| [Maroko, Elena](02_maroko1.md) — aerospace specialist at the NASA Moscow office |
-||| ~~[Tilman, Justin Eugene](02_tilman1.md) — NASA representative in Russia~~ |
+||**[NASA](zz_nasa.md)**| ~~[Ewan, Shannon](zz_ewan1.md)~~ |
+||| [Maroko, Elena](zz_maroko1.md) — aerospace specialist at the NASA Moscow office |
+||| ~~[Tilman, Justin Eugene](zz_tilman1.md) — NASA representative in Russia~~ |
 ||||
-||**[SWRI](03_swri.md)**| [Limaye, Sanjay Shridhar](02_limaye1.md) — atmosphere of Venus |
-||| [Jessup, Kandis Lea](02_jessup1.md) — observation and modeling of the atmosphere |
+||**[SWRI](zz_swri.md)**| [Limaye, Sanjay Shridhar](zz_limaye1.md) — atmosphere of Venus |
+||| [Jessup, Kandis Lea](zz_jessup1.md) — observation and modeling of the atmosphere |
 ||||
-||**[UB](03_buffalo_univ.md)**| [Gregg, Tracy](02_gregg1.md) — co-chair of JSDT (USA side); geology |
+||**[UB](zz_buffalo_univ.md)**| [Gregg, Tracy](zz_gregg1.md) — co-chair of JSDT (USA side); geology |
 
 </small>
 
@@ -703,7 +703,7 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Проекты:`**<br> [PSDS](us_psds.md) ┊ [Индексы проектов на НПОЛ](03_lav.md) ┊ [Маскоты](03_lav.md) ┊ [Морская группировка космических аппаратов](mgsc.md) ┊ [О прошлом, будущем и всём таком](pfaeverything.md) ┊ [Стоимость грамма КА](sc_price.md) ┊ [Стоимость работ на НПОЛ](03_lav.md) ┊ [Типовые формы КА](ка_типформы.md) |
+|**`Проекты:`**<br> [PSDS](us_psds.md) ┊ [Индексы проектов на НПОЛ](zz_lav.md) ┊ [Маскоты](zz_lav.md) ┊ [Морская группировка космических аппаратов](mgsc.md) ┊ [О прошлом, будущем и всём таком](pfaeverything.md) ┊ [Стоимость грамма КА](sc_price.md) ┊ [Стоимость работ на НПОЛ](zz_lav.md) ┊ [Типовые формы КА](ка_типформы.md) |
 
 **Docs:**
 

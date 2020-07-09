@@ -1,5 +1,5 @@
 # Indian Deep Space Network
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [ISRO](03_isro.md), **[НС](scs.md)**
+> 2019.05.12 ┊ **🚀 [despace](index.md)** → [ISRO](zz_isro.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **Indian Deep Space Network (IDSN)** — англоязычный термин, не имеющий аналога в русском языке. **Индийская сеть дальней космической связи** — дословный перевод с английского на русский.</small>
 
-**Indian Deep Space Network (IDSN)** is a network of large antennas and communication facilities operated by the [Indian Space Research Organisation](03_isro.md) to support the interplanetary spacecraft missions of India. Its hub is located at Byalalu, a village about 25 km from Bangalore, India. It was inaugurated on 17 October 2008 by the former ISRO chairman G. Madhavan Nair. The main tracking antenna was designed and commissioned by Hyderabad‑based Electronics Corporation of India Limited at a cost of ₹65 crore (about US$13 million).
+**Indian Deep Space Network (IDSN)** is a network of large antennas and communication facilities operated by the [Indian Space Research Organisation](zz_isro.md) to support the interplanetary spacecraft missions of India. Its hub is located at Byalalu, a village about 25 km from Bangalore, India. It was inaugurated on 17 October 2008 by the former ISRO chairman G. Madhavan Nair. The main tracking antenna was designed and commissioned by Hyderabad‑based Electronics Corporation of India Limited at a cost of ₹65 crore (about US$13 million).
 
 ||
 |:--|

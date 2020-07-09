@@ -30,7 +30,7 @@ Al-Anbar Space Research Center and other Iraqi launch sites were damaged in the 
 |:--|:--|
 | Activity | *Closed* (1989 ‑ 1991) |
 | Coordinates | 32.78220°N 44.29962°E |
-| Distanse | 3 700 km to the equator;<br> 2 800 km to [LAV](03_lav.md);<br> 17 400 km  to [JPL](03_jpl.md);<br> 50 km to Baghdad |
+| Distanse | 3 700 km to the equator;<br> 2 800 km to [LAV](zz_lav.md);<br> 17 400 km  to [JPL](zz_jpl.md);<br> 50 km to Baghdad |
 | Launch pads | 1 |
 | [Launched vehicles](lv.md) | **Abid** <small>(modified version of Argentina’s Condor ballistic missile and USSR’s Scud rocket)</small> |
 | Operator |  |

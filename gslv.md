@@ -33,7 +33,7 @@
 |Длина/диаметр  | 49.13 м (с ГЧ) / 2.8 м  |
 |[Космодромы](spaceport.md)  | [Sriharikota](sriharikota.md)  |
 |Масса старт./сух.  | 414 750 кг / 53 450 кг  |
-|Разраб./изготов.  | [ISRO](03_isro.md) (Индия) / [ISRO](03_isro.md) (Индия)  |
+|Разраб./изготов.  | [ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)  |
 |Ступени  | 3  |
 |[Топливо](fuel.md)  | [АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)  |
 || [![](f/lv/gslv/gslv_mk2_thumb.jpg)](f/lv/gslv/gslv_mk2.jpg)  |
@@ -60,7 +60,7 @@
 |Длина/диаметр  | 43.5 м (с ГЧ) / 4 м  |
 |[Космодромы](spaceport.md)  | [Sriharikota](sriharikota.md)  |
 |Масса старт./сух.  | 644 750 кг / 76 000 кг  |
-|Разраб./изготов.  | [ISRO](03_isro.md) (Индия) / [ISRO](03_isro.md) (Индия)  |
+|Разраб./изготов.  | [ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)  |
 |Ступени  | 3  |
 |[Топливо](fuel.md)  | [HTPB](htpb.md) (ускорители), [АТ + НДМГ](at_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)   |
 || [![](f/lv/gslv/gslv_mk3_thumb.jpg)](f/lv/gslv/gslv_mk3.jpg) [![](f/lv/gslv/gslv_mk3_launcher_thumb.jpg)](f/lv/gslv/gslv_mk3_launcher.jpg)  |
@@ -89,7 +89,7 @@
 |Длина/диаметр  | 49.13 м (с ГЧ) / 2.8 м  |
 |[Космодромы](spaceport.md)  | [Sriharikota](sriharikota.md)  |
 |Масса старт./сух.  | 414 750 кг / 53 450 кг  |
-|Разраб./изготов.  | [ISRO](03_isro.md) (Индия) / [ISRO](03_isro.md) (Индия)  |
+|Разраб./изготов.  | [ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)  |
 |Ступени  | 3   |
 |[Топливо](fuel.md)  | [АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)  |
 || [![](f/lv/gslv/gslv_thumb.jpg)](f/lv/gslv/gslv.png)  |

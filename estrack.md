@@ -1,5 +1,5 @@
 # ESTRACK
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [ESA](03_esa.md), **[НС](scs.md)**
+> 2019.05.12 ┊ **🚀 [despace](index.md)** → [ESA](zz_esa.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **European space tracking network (ESTRACK)** — англоязычный термин, не имеющий аналога в русском языке. **Европейская сеть космического слежения** — дословный перевод с английского на русский.</small>
 
-**European space tracking network (ESTRACK)** — a number of ground‑based space‑tracking stations for the [European Space Agency](03_esa.md) (ESA).
+**European space tracking network (ESTRACK)** — a number of ground‑based space‑tracking stations for the [European Space Agency](zz_esa.md) (ESA).
 
 ||
 |:--|

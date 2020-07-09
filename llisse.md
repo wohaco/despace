@@ -13,7 +13,7 @@
 |:--|:--|
 |Duration| ≥ 90 days (~117 days in the best case)|
 |Program| [Venera-D](venera_d_open_ru.md) |
-|Goal| Returning compositional and physical information about near-surface winds |
+|Goal| Returning compositional and physical information about near‑surface winds |
 |Developer| NASA |
 |Mass| 10 kg |
 |Orbit / Place| Surface |
@@ -21,7 +21,7 @@
 
 ***Targets and investigations:***
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -113,8 +113,8 @@ The key goals of LLISSE and its long-duration measurements are to increase our k
 
 |*Objective Title*|*Science Objectives*|*Measurements*|*Priority*|
 |:--|:--|:--|:--|
-| L2b. Near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Long-term study of possible variation of near-surface atmospheric composition | Measure abundances of predefined components | High |
-| L3b. Near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑031](venus.md)) | Study of long-term characteristics of near-surface dynamics, waves, thermal tides, and atmosphere-surface interaction | Long-term measurements of near-surface temperature, pressure, wind speed, and direction; incident and reflected radiation | High |
+| L2b. Near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Long-term study of possible variation of near‑surface atmospheric composition | Measure abundances of predefined components | High |
+| L3b. Near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑031](venus.md)) | Study of long-term characteristics of near‑surface dynamics, waves, thermal tides, and atmosphere-surface interaction | Long-term measurements of near‑surface temperature, pressure, wind speed, and direction; incident and reflected radiation | High |
 | L4b. Solar fluxes on the surface ([EVN‑013](venus.md), [EVN‑019](venus.md), [EVN‑080](venus.md)) | Surface albedo. Study of factors that influence solar illumination (cloud opacity, local time, local relief, etc.) | Measurements of incident and reflected solar radiation over 60 days | Medium |
 
 </small>
@@ -122,7 +122,7 @@ The key goals of LLISSE and its long-duration measurements are to increase our k
 One station LLISSE at the moment is part of the base of the mission Venera-D. Multiple stations could provide enhanced surface coverage by extending the capability of the Venera-D mission to several points (observing possibly two LSTs and/or latitudes simultaneously). This would improve our understanding of the impact of local topography, solar time, and meridional transport processes on the superrotation mechanism ([EVN‑007](venus.md)). The level of technological risk is high. The priority for the second LLISSE is 6 (the lowest). Potential contribution of the second LLISSE station − will allow a more complete study of goals:
 
    - L1. Atmosphere composition during descent ([EVN‑014](venus.md), [EVN‑077](venus.md));
-   - L2. Atmosphere composition at the surface and near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md));
+   - L2. Atmosphere composition at the surface and near‑surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md));
    - L5. Surface structure and morphology ([EVN‑025](venus.md), [EVN‑044](venus.md));
    - L6. Surface elemental composition ([EVN‑026](venus.md));
    - L9. Electromagnetic fields;

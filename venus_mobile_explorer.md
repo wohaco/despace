@@ -9,9 +9,9 @@
 
 **Venus Mobile Explorer (VME)** — proposed spacecraft for contact exploration of Venus.
 
-NASA Headquarters commissioned the Goddard Space Flight Center’s (GSFC) Architecture Design Lab with a rapid mission architecture study to support the National Research Council’s 2010 Planetary Decadal Survey Inner Planets Panel. The purpose of the study was to determine whether a Venus mission with surface, or near-surface, mobility and realistic operational lifetime could achieve meaningful surface science at two or more independent locations separated by several kilometers on a budget comparable to a New Frontiers cost envelope.
+NASA Headquarters commissioned the Goddard Space Flight Center’s (GSFC) Architecture Design Lab with a rapid mission architecture study to support the National Research Council’s 2010 Planetary Decadal Survey Inner Planets Panel. The purpose of the study was to determine whether a Venus mission with surface, or near‑surface, mobility and realistic operational lifetime could achieve meaningful surface science at two or more independent locations separated by several kilometers on a budget comparable to a New Frontiers cost envelope.
 
-Original of NASA’s report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [ARC](03_arc.md)).
+Original of NASA’s report: 2009.12.18 ([GSFC](zz_gsfc.md), [JPL](zz_jpl.md), [ARC](zz_arc.md)).
 
 ![](f/project/v/venus_mobile_explorer/pic01.jpg)
 
@@ -22,16 +22,16 @@ Original of NASA’s report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [
 |**Mission:**|• • •|
 |Cost| $ 1.1 ‑ 1.5 B or 29 500 — 45 600 kg of [gold](sc_price.md) in 2015 prices without LV |
 |[CML](cml.md) / [TRL](trl.md)| CML: 4, TRL: <mark>TBD</mark> |
-|Development| … ‑ ┊ |
+|Development| … ‑ … |
 |Duration| …, 2023.10.27 Venus fly-by, 2024.02.15 Landed science |
 |Launch| 2023.05.27, …, [Atlas V 551](atlas.md) Short Fairing |
 |Operator| … |
 |Programme| NRC Decadal Survey Inner Planets Panel |
-|Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| • Determine the origin & evolution of the Venus atmosphere, & rates of exchange of key chemical species between the surface & atmosphere.<br> • Characterize fundamental geologic units in terms of major rock forming elements, minerals in which those elements are sited, & isotopes.<br> • Characterize the geomorphology & relative stratigraphy of major surface units.<br> • In situ measurements of Noble gas isotopes, trace gas mixing ratios & isotopic ratios.<br> • Identify mineralology & elemental chemistry of surface rocks in 2 locs separated by \> 8 km.<br> • Airborne near IR imaging along a transect ~8 km in length, at < 5 m spatial resolution.<br> • In situ sampling of the atmosphere as functions of altitude &  time.<br> • Land in 2 locations, ~2 m path-length for compositional observation; stable platform for measurement duration.<br> • Near-surface aerial mobility; \> 45° solar incidence, contiguous images of the surface during aerial traverse; 5 hour near surface operational lifetime. |
 |[Type](sc.md)| Orbiter spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| • 3 m HGA mesh — S-band (Lander to Carrier uplink)<br> • 2 omni-directional — X-band (Carrier to Earth contingency)<br> • 1 m HGA solid — X-band (Carrier to Earth Science) |
+|Comms| • 3 m HGA mesh — S‑band (Lander to Carrier uplink)<br> • 2 omni-directional — X‑band (Carrier to Earth contingency)<br> • 1 m HGA solid — X‑band (Carrier to Earth Science) |
 |Composition| The carrier spacecraft; the lander |
 |Contractor| … |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
@@ -43,7 +43,7 @@ Original of NASA’s report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -67,10 +67,11 @@ Original of NASA’s report: 2009.12.18 ([GSFC](03_gsfc.md), [JPL](03_jpl.md), [
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
 |EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
 |EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
+|EVN‑068|T|Precise landing|  |C|||||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑085|T|Surface: tessera investigations, ranged.|  |D||F|||
-|EVN‑086|T|Surface: tessera investigations, close.|  ||C||||
+|EVN‑085|T|Surface: tessera investigations, remote|  |D||F|||
+|EVN‑086|T|Surface: tessera investigations, in‑situ|  ||C||||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
 |EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
 
@@ -94,8 +95,8 @@ The scientifically compelling highland regions known as tessera hold the most po
 |:--|:--|:--|
 | May 27, 2023 | Launch | 30 m/s Earth to Venus TCMs |
 | October 27, 2023 | First Venus Flyby | 45 m/s Venus to Venus TCMs |
-| February 10, 2024 | Lander Release | Flexibility in exact time +/-Day |
-| February 11, 2024 | Spacecraft Divert Maneuver | 127 m/s Timeline criticality +/-Day |
+| February 10, 2024 | Lander Release | Flexibility in exact time +/‑day |
+| February 11, 2024 | Spacecraft Divert Maneuver | 127 m/s Timeline criticality +/‑day |
 | February 15, 2024, 07:12 UTC | Lander atmospheric entry interface | (175 km altitude, -19.0 deg. EFPA) |
 | February 15, 2024, 08:17 UTC | 1st Landing | (Approximately 2 degrees from entry interface location) |
 | February 15, 2024, 10:42 UTC | Carrier Flyby Periapsis | N/A  |
@@ -128,7 +129,7 @@ VME’s primary science objectives are a subset of those defined by VEXAG and ar
 | Determine the rates of exchange of key chemical species (S, C, O) between the surface and atmosphere ([EVN‑041](venus.md)) | Measure trace gases in the near surface atmosphere (within one scale height) | Neutral Mass Spectrometer; Tunable Laser Spectrometer | In situ sampling of atmosphere as functions of altitude and time [f(z,t)] ([EVN‑055](venus.md)) |
 | Place constraints on the size and temporal extent of a possible ocean in Venus’s past ([EVN‑040](venus.md)) | Measure D/H ratio in atmospheric water, at least twice | Neutral Mass Spectrometer; Tunable Laser Spectrometer | In situ sampling of atmosphere [f(z,t)] ([EVN‑055](venus.md)) |
 | Characterize variability in physical parameters of the near surface atmosphere (pressure, temperature, winds) ([EVN‑074](venus.md)) | Atmospheric temperature, pressure, winds | Temperature, pressure, accelerometers, USO | In situ measurements of T/P, Doppler measurement using communications system for winds |
-| Measure ambient magnetic field from lowand near-surface elevations ([EVN‑028](venus.md)) | Detection of existence or absence of surface magnetic signal | Flux‑gate magnetometer | Must be able to detect surface «signal» above a 5-10 nT threshold, over and above any payload «noise» |
+| Measure ambient magnetic field from lowand near‑surface elevations ([EVN‑028](venus.md)) | Detection of existence or absence of surface magnetic signal | Flux‑gate magnetometer | Must be able to detect surface «signal» above a 5-10 nT threshold, over and above any payload «noise» |
 
 **PAYLOAD**
 
@@ -155,7 +156,7 @@ Solar arrays measure ~1.2 m² per side (balancing for 5 RPM spacecraft spin 
 
 Fuel mass 366 kg (hydrazine). Using small thrusters versus reactions wheels to achieve three-axis stabilization saves mass, volume, and power.
 
-The carrier communication sub-system includes a 3 m low mass mesh S-band antenna for uplink communication with the lander, and a smaller 1 m solid X-band antenna for downlink Deep Space Network communication. Two X– band omni-directional antennas allow the carrier spacecraft to be commandable at all times.
+The carrier communication sub-system includes a 3 m low mass mesh S‑band antenna for uplink communication with the lander, and a smaller 1 m solid X‑band antenna for downlink Deep Space Network communication. Two X– band omni-directional antennas allow the carrier spacecraft to be commandable at all times.
 
 **ENTRY AND DESCENT ELEMENT**
 
@@ -201,9 +202,9 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
 **Radiolink**
 
-   - 3 m HGA mesh, S-band, Probe to Carrier uplink
-   - 2 omni-directional, X-band, Carrier to Earth contingency
-   - 1 m HGA solid, X-band, Carrier to Earth Science
+   - 3 m HGA mesh, S‑band, Probe to Carrier uplink
+   - 2 omni-directional, X‑band, Carrier to Earth contingency
+   - 1 m HGA solid, X‑band, Carrier to Earth Science
 
 
 
@@ -215,8 +216,8 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
    1. Michael L. Adams — Study lead
    1. Michael J. Amato — Planetary & Lunar buisness lead
-   1. [Charles L. Baker](02_baker1.md) — Study systems lead
-   1. [Lori S. Glaze](02_glaze1.md) — Science champion
+   1. [Charles L. Baker](zz_baker1.md) — Study systems lead
+   1. [Lori S. Glaze](zz_glaze1.md) — Science champion
    1. Gabriel Karpati — Decadal studies system lead
 
 **COMMUNITY:**

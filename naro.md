@@ -7,15 +7,15 @@
 
 > <small>*Terms:* **Naro** — English term with no analogues in Russian. **Наро** — literal translation to Russian.</small>
 
-**Naro Space Center** is a South Korean spaceport in South Jeolla’s Goheung County, operated by the state-run [Korea Aerospace Research Institute](03_kari.md).
+**Naro Space Center** is a South Korean spaceport in South Jeolla’s Goheung County, operated by the state-run [Korea Aerospace Research Institute](zz_kari.md).
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 | Activity  |**Active** (2009 ‑ …)  |
 | [Launch vehicles](lv.md)  |**KSLV**  |
-| Operator  | [KARI](03_kari.md) |
+| Operator  | [KARI](zz_kari.md) |
 | Location  | 45°57′54″N 63°18′18″E<br> Goheung County, South Korea  |
-| Distance  | 4 000 km — to the equator;<br> 8 300 km — to [NPO Lavochkin](03_lav.md);<br> 12 500 km — to [JPL](03_jpl.md);<br> 230 km — to [KARI](03_kari.md)  |
+| Distance  | 4 000 km — to the equator;<br> 8 300 km — to [NPO Lavochkin](zz_lav.md);<br> 12 500 km — to [JPL](zz_jpl.md);<br> 230 km — to [KARI](zz_kari.md)  |
 | Launch pad  | 2  |
 || [![](f/spaceport/naro/pic1_thumb.jpg)](f/spaceport/naro/pic1.jpg)  [![](f/spaceport/naro/map1_thumb.jpg)](f/spaceport/naro/map1.png)   [![](f/spaceport/naro/map2_thumb.jpg)](f/spaceport/naro/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

@@ -17,9 +17,9 @@ The spaceport is currently leased by the Kazakh Government to Russia until 2050,
 |:--|:--|
 | Activity  |**Active** (1955 ‑ …)  |
 | [Launch vehicles](lv.md)  | [Zenit](zenit.md) ┊ [N1](n_1.md) ┊ [Proton](proton.md) ┊ [Soyuz](soyuz.md), as well as Dnepr, Kosmos, R-7, R-16, Rokot, Strela, UR-200, Tsyklon, [Energia](energia.md)  |
-| Operator  | [Roskosmos](03_roskosmos.md) |
+| Operator  | [Roskosmos](zz_roskosmos.md) |
 | Location  | 45°57′54″N 63°18′18″E<br> Republic of Kazakhstan  |
-| Distance  | 5 200 km — to the equator;<br> 2 200 km — to [NPO Lavochkin](03_lav.md);<br> 18 200 km — to [JPL](03_jpl.md)  |
+| Distance  | 5 200 km — to the equator;<br> 2 200 km — to [NPO Lavochkin](zz_lav.md);<br> 18 200 km — to [JPL](zz_jpl.md)  |
 | Launch pad  | 19  |
 || [![](f/spaceport/baikonur/pic1_thumb.jpg)](f/spaceport/baikonur/pic1.jpg)  [![](f/spaceport/baikonur/map1_thumb.jpg)](f/spaceport/baikonur/map1.png)   [![](f/spaceport/baikonur/map2_thumb.jpg)](f/spaceport/baikonur/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

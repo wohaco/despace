@@ -23,7 +23,7 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 
 ***Targets and investigations:***
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -75,7 +75,7 @@ SAEVe includes the required entry capsule and all support elements needed to all
 
 After touchdown, an image (supporting morphology and seismometer coupling) is taken. The seismometer and heat flux instruments are dropped to the surface and the remaining images are taken and transmitted. Once all images are returned, the other instruments begin operating and SAEVe continues to transmit data for up to 1 hr continually as long as it does not interfere with main lander science return. After this initial period, SAEVe goes into its nominal operating mode where it turns on and collects and transmits all instrument data for 2 min every 8 hr. The precise frequency and duration of transmissions will be negotiated in later mission planning stages. At all times, SAEVe will be monitoring the vertical axis of the seismometer. This serves as a fast trigger so if an event of specified magnitude is detected, it turns on within 100 ms and begins transmitting data from all three axis of the seismometer as well as wind and pressure data continually for 10 min ([EVN‑058](venus.md)).
 
-The particulars of the orbit and landing site influence the amount of contact time, and therefore, how many events are expected to be captured, but in ideal conditions, the orbiter could be in view around 90% of the time. Undoubtedly, contact time will not be that high so some transmissions and seismic events may be missed, but a significant fraction will be returned successfully over the 120 Earth days of operations ([EVN‑006](venus.md), [EVN‑069](venus.md)), providing unprecedented insight into Venus surface activity and, if two or more stations are used, its interior structure and composition ([EVN‑020](venus.md)).
+The particulars of the orbit and landing site influence the amount of contact time, and therefore, how many events are expected to be captured, but in ideal conditions, the orbiter could be in view around 90 % of the time. Undoubtedly, contact time will not be that high so some transmissions and seismic events may be missed, but a significant fraction will be returned successfully over the 120 Earth days of operations ([EVN‑006](venus.md), [EVN‑069](venus.md)), providing unprecedented insight into Venus surface activity and, if two or more stations are used, its interior structure and composition ([EVN‑020](venus.md)).
 
 The data received by SAEVe will be transmitted directly to the Orbiter, which, in turn, will relay the data to Earth. No long-lived stations have memory modules, so it is important to spend as much time as possible in the field of view of the Orbiter or sub-satellites (if any).
 
@@ -130,8 +130,8 @@ SAEVe is an enhanced long-lived station that builds on LLISSE offering longer li
 Lander + LLISSE and Orbiter goals that SAEVe can study more fully (L − Lander + LLISSE goals, O − Orbiter goals):
 
    - L1. Atmosphere composition during descent ([EVN‑014](venus.md), [EVN‑077](venus.md));
-   - L2. Atmosphere composition at the surface and near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md));
-   - L3. Atmospheric structure and dynamics and near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑017](venus.md), [EVN‑031](venus.md));
+   - L2. Atmosphere composition at the surface and near‑surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md));
+   - L3. Atmospheric structure and dynamics and near‑surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑017](venus.md), [EVN‑031](venus.md));
    - L5. Surface structure and morphology ([EVN‑025](venus.md), [EVN‑044](venus.md));
    - L6. Surface elemental composition ([EVN‑026](venus.md));
    - L7. Mineral phases ([EVN‑023](venus.md));

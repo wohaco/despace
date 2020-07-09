@@ -1,5 +1,5 @@
 # JPL’s Innovation Foundry
-> 2019.10.16 ┊ **🚀 [despace](index.md)** → **[JPL](03_jpl.md)**, [Contact](contact.md)
+> 2019.10.16 ┊ **🚀 [despace](index.md)** → **[JPL](zz_jpl.md)**, [Contact](contact.md)
 
 [TOC]
 
@@ -7,7 +7,7 @@
 
 > <small>*Термины:* **JPL Innovation Foundry (JPL IF)** — англоязычный термин, не имеющий аналога в русском языке. **Инновационный цех JPL** — дословный перевод с английского на русский.</small>
 
-**JPL’s Innovation Foundry (JPL IF)** — it’s an office within [JPL](03_jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL’s program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA’s [Skunk Works](skunk_works.md).
+**JPL’s Innovation Foundry (JPL IF)** — it’s an office within [JPL](zz_jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL’s program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA’s [Skunk Works](skunk_works.md).
 
    - JPL supports the science community to ideate, mature, & propose concepts for new NASA missions.
    - Continuously «system engineer» requirements & solutions to develop compelling new missions.
@@ -66,7 +66,7 @@ JPL’s unique approach for maturing advanced study mission concepts, performed 
 ## Team X
 > <small>*Термины:* **Team X** — англоязычный термин, не имеющий аналога в русском языке. **Команда Икс** — дословный перевод с английского на русский.</small>
 
-**Team X** (Команда Икс) — междисциплинарная команда, состоящая из по большей части опытных сотрудников [JPL](03_jpl.md), занимающаяся быстрым проектированием и прототипированием КА и их СЧ.  
+**Team X** (Команда Икс) — междисциплинарная команда, состоящая из по большей части опытных сотрудников [JPL](zz_jpl.md), занимающаяся быстрым проектированием и прототипированием КА и их СЧ.  
 См. также [презентацию, 2013 год ❐](f/contact/j/jpl_2013_case_presentation.pdf).
 
 **Team X** is a virtual cross‑functional multidisciplinary team of engineers that utilizes concurrent engineering methodologies to complete rapid design, analysis & evaluation of mission concept designs & is staffed & backed by the "doing" organizations across JPL’s Engineering & Science directorate. There are over 200 Team X members at JPL. Founded in 1995. Team X is well‑suited for all aspects of Pre‑Phase A & Phase A design activities.
@@ -88,7 +88,7 @@ Design Study Capabilities include:
    - Trajectory Analysis & Visualization
 
 For more information please contact:  
-[Kelley Case](02_case1.md), Concept Design Methods Chief, +1(818)354‑58‑70, <Kelley.Case@jpl.nasa.gov>.
+[Kelley Case](zz_case1.md), Concept Design Methods Chief, +1(818)354‑58‑70, <Kelley.Case@jpl.nasa.gov>.
 
 
 

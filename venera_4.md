@@ -6,7 +6,7 @@
 ---
 > <small>*Термины:* **Венера-4** — Russian term with no analogues in English. **Venera 4 (1V (V-67) s/n 310)** — English equivalent.</small>
 
-**Venera 4** (**Венера-4**) was a spacecraft in the Soviet Venera program for the exploration of Venus. The first spacecraft that entered the atmosphere of Venus and transmitted data on the structure of the atmosphere (pressure and temperature) at altitudes of 55 — 25 km, the composition of the atmosphere (90 — 95% СО₂), detected the hydrogen corona of Venus, did not detect its own magnetic field and radiation belts.
+**Venera 4** (**Венера-4**) was a spacecraft in the Soviet Venera program for the exploration of Venus. The first spacecraft that entered the atmosphere of Venus and transmitted data on the structure of the atmosphere (pressure and temperature) at altitudes of 55 — 25 km, the composition of the atmosphere (90 — 95 % СО₂), detected the hydrogen corona of Venus, did not detect its own magnetic field and radiation belts.
 
 [![](f/project/v/venera_4/pic01_thumb.jpg)](f/project/v/venera_4/pic01.jpg) [![](f/project/v/venera_4/pic02_thumb.jpg)](f/project/v/venera_4/pic02.jpg)
 
@@ -21,7 +21,7 @@
 |Launch| 12 June 1967, 02:40 UTC, Rocket: Molniya 8K78M |
 |Operator| Lavochkin |
 |Programme| Venera programme |
-|Similar<br> missions| • Proposed: [Venera 5 and 6](venera_5_6.md), [Vega 1 and 2](vega_1_2.md)<br> • Current: [Mariner 5](mariner_5.md)<br> • Past: Luna 2, [Venera 2 and 3](venera_2_3.md) |
+|Similar to| • Proposed: [Venera 5 and 6](venera_5_6.md), [Vega 1 and 2](vega_1_2.md)<br> • Current: [Mariner 5](mariner_5.md)<br> • Past: Luna 2, [Venera 2 and 3](venera_2_3.md) |
 |Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface |
 |[Type](sc.md)| Flyby spacecraft; lander spacecraft |
 |**Spacecraft:**|• • •|
@@ -37,7 +37,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -66,7 +66,7 @@ In 1967 it was the first successful spacecraft to perform in-place analysis of t
 
 Venera 4 was launched on 12 June by a Molniya-M carrier rocket flying from the Baikonur Cosmodrome. A course correction was performed on 29 July when it was 12 million km away from Earth; otherwise the spacecraft would have missed Venus. Although two such corrections had been planned, the first one was accurate enough and therefore the second correction was canceled. On 18 October 1967, the spacecraft entered the Venusian atmosphere with an estimated landing place near 19°N 38°E.
 
-During entry into the Venusian atmosphere, the heat shield temperature rose to 11 000 °C and at one point the cabin deceleration reached 300 G. The descent lasted 93 min. The lander deployed its parachute at an altitude of about 52 km, and started sending data on pressure, temperature and gas composition back to Earth. The temperature control kept the inside of the lander at −8 °C. The temperature at 52 km was recorded as 33 °C, and the pressure as less than 1 atm (100 kPa). At the end of the 26 km descent, the temperature reached 262 °C and pressure increased to 22 atm (2 200 kPa), and the signal transmission terminated ([EVN‑003](venus.md)). The atmospheric composition was measured as 90 — 93% carbon dioxide, 0.4 — 0.8% oxygen, 7% nitrogen and 0.1 — 1.6% water vapor ([EVN‑014](venus.md)).
+During entry into the Venusian atmosphere, the heat shield temperature rose to 11 000 °C and at one point the cabin deceleration reached 300 G. The descent lasted 93 min. The lander deployed its parachute at an altitude of about 52 km, and started sending data on pressure, temperature and gas composition back to Earth. The temperature control kept the inside of the lander at −8 °C. The temperature at 52 km was recorded as 33 °C, and the pressure as less than 1 atm (100 kPa). At the end of the 26 km descent, the temperature reached 262 °C and pressure increased to 22 atm (2 200 kPa), and the signal transmission terminated ([EVN‑003](venus.md)). The atmospheric composition was measured as 90 — 93 % carbon dioxide, 0.4 — 0.8 % oxygen, 7 % nitrogen and 0.1 — 1.6 % water vapor ([EVN‑014](venus.md)).
 
 **Radar altimeter.** Altitude of the Venera lander relative to the surface was measured during using a radar altimeter operating at 770 MHz. The altimeter had an integer ambiguity of 30 km (an effect known as «aliasing»). At the time the distance of the cloudtops above the surface was not known, and due to this ambiguity, the first radar return, now believed to be at an actual altitude of about 55 km, was initially misinterpreted as 26 km. Therefore, based on the misinterpreted radar results, the Soviet team initially announced the lander descended to the surface.
 
@@ -126,8 +126,8 @@ The lander was equipped with a rechargeable battery with a capacity sufficient f
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Georgiy Nikolayevich Babakin](02_babakin1.md) (Георгий Николаевич Бабакин) − chief design engineer.
-      1. [Mstislav Vsevolodovich Keldysh](02_keldysh1.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics. He was part of the managementof the flight of Venera 4.
+      1. [Georgiy Nikolayevich Babakin](zz_babakin1.md) (Георгий Николаевич Бабакин) − chief design engineer.
+      1. [Mstislav Vsevolodovich Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics. He was part of the managementof the flight of Venera 4.
    - **Members:**
       1. Efraim Lazarevich Akim (Эфраим Лазаревич Аким) was a Soviet and Russian scientistin the field in the ballistics, spacecraft navigation and planetary science; head of the ballistic center.
       1. Mikhail Kazansky (Михаил Казанский)  was the head of the ballistic service TsNIIMash.

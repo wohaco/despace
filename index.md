@@ -42,7 +42,7 @@ The **universe** (Latin: universus) is all of space and time and their contents,
 | • [Solar day](solar_day.md) ┊ [Stars & planets](aob.md) ┊ [Stellar classification](aob.md)<br> • [Wormhole](wormhole.md)<br> • [Betelgeuse](betelgeuse.md) ┊ [Sirius](sirius.md) |
 | **Solar system:**<br> • [Earth](earth.md) & satellite: [Moon](moon.md)<br> • [Jupiter](jupiter.md) & satellites: [Europa](europa.md), [Ganymede](ganymede.md), [Io](io.md), [Callisto](callisto.md), 63 smaller ones<br> • [Mars](mars.md) & satellites: [Deimos](deimos.md), [Phobos](phobos.md)<br> • [Neptune](neptune.md) & satellites: [Nereid](nereid.md), [Proteus](proteus.md), [Triton](triton.md), 11 smaller ones<br> • [Saturn](saturn.md) & satellites: [Enceladus](enceladus.md), [Iapetus](iapetus.md), [Rhea](rhea.md), [Titan](titan.md), 59 smaller ones<br> • [Sun](sun.md) & others: [Ceres](ceres.md), [Eris](eris.md), [Haumea](haumea.md), [Makemake](makemake.md), [Nibiru](nibiru.md), [Planet 9](planet_9.md), [Pluto](pluto.md), [Sedna](sedna.md)<br> • [Mercury](mercury.md)<br> • [Uranus](uranus.md) & satellites: [Ariel](ariel.md), [Oberon](oberon.md), [Titania](titania.md), [Umbriel](umbriel.md), 23 smaller ones<br> • [Venus](venus.md)|
 | [![](f/aob/universe/solar_system_sizes_pic1_thumb.jpg)](f/aob/universe/solar_system_sizes_pic1.jpg) [![](f/aob/universe/solar_system_sizes_pic2_thumb.jpg)](f/aob/universe/solar_system_sizes_pic2.png) [![](f/aob/universe/solar_system_sizes_pic3_thumb.jpg)](f/aob/universe/solar_system_sizes_pic3.png) |
-|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md)  ▮  **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
+|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
 
 
@@ -75,7 +75,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**Blue paper**|= **Синяя книга** (см. [Цветные книги](colour_papers.md))|
 |**C**|**[C](c.md)**|= **Си**|
 ||**CCSDS** — consultative committee for space data systems |≠ **CCSDS** — [международный Консультативный Комитет по космическим системам передачи данных](ccsds.md) |
-||**CDF** — concurrent desigh facility |= **[НИР](rnd_0.md)** в [ESA](03_esa.md) |
+||**CDF** — concurrent desigh facility |= **[НИР](rnd_0.md)** в [ESA](zz_esa.md) |
 ||**CDR** — critical design review |≠ Критическое рассмотрение проекта |
 ||**CDSN** — [Chinese deep space network](cdsn.md) |≠ **CDSN** — китайская сеть дальней космической связи |
 ||**CET** — central European time |= Средне‑европейское время. MSK+1 летом, MSK+2 зимой |
@@ -187,7 +187,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||•·· **VSRM** — [Venus Sample Return Mission](venus_sample_return_mission.md) |≠ **ВМВГ** — венерианская миссия по возврату грунта |
 |**W**|**Warm gas**|= **Тёплый газ.** 2-компонентный газовый двигатель |
 ||**White paper**|= **Белая книга** (см. [Цветные книги](colour_papers.md))|
-|**X**|**XRF** — [X-ray fluorescence](xrf.md)|= **РФА** — рентгенофлуоресцентный анализ|
+|**X**|**XRF** — [X‑ray fluorescence](xrf.md)|= **РФА** — рентгенофлуоресцентный анализ|
 ||•·· **[Xcraft](xcraft.md)**|≠ **Икскрафт**|
 |**Y**|**YARUD** — yet another rapid unscheduled disassembly |≠ **ПОБНР** — просто очередная быстрая незапланированная разборка |
 ||**Yellow paper**|= **Жёлтая книга** (см. [Цветные книги](colour_papers.md))|
@@ -508,7 +508,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||*Ru*|*En*|
 |:--|:--|:--|
 ||![](f/px310.png)|![](f/px310.png)|
-|**Е**|**ЕКА** — [Европейское космическое агентство](03_esa.md) |= **ESA** — [European Space Agency](03_esa.md) |
+|**Е**|**ЕКА** — [Европейское космическое агентство](zz_esa.md) |= **ESA** — [European Space Agency](zz_esa.md) |
 ||**ЕСКД** — [единая система конструкторской документации](eskd.md) |≠ **USFDD** — unified system for design documentation |
 ||**ЕСП** — единый сквозной план (см. [документ планирования](plan.md)) |≠ **UEEP** — United end-to-end plan |
 ||**ЕСПД** — [единая система программной документации](espd.md) |≠ **USFPD** — unified system for program socumentation |
@@ -545,7 +545,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**ИКА** — информационная карта |= **Information Card**|
 ||**ИКК** — измерительный комплекс космодрома |= **MCIC** — measuring complex in cosmodrome |
 ||**ИМС** — имитационно‑моделирующий стенд |= **Simulation stand**|
-||**[Индексы проектов НПОЛ](03_lav.md)**|≠ **Lavochkin projects indexes**|
+||**[Индексы проектов НПОЛ](zz_lav.md)**|≠ **Lavochkin projects indexes**|
 ||**Идентификатор космического объекта**|= **[SpaceID](spaceid.md)**|
 ||**[Индустриальная археология](ind_arch.md)**|= **Industrial archaeology**|
 ||**[Инженер](engineer.md)**|= **Engineer**|
@@ -745,8 +745,8 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ЛСЗУ** — линейное статическое запоминающее устройство |= **Linear static memory**|
 |•·· **[Лаплас‑П](лаплас_п.md)** (…) |≠ **Laplas-P** (…) |
 |•·· **[Луна‑25](луна_25.md)** (Луна‑Глоб, …) |≠ **Luna-Glob** (Luna-25, …) |
-|•·· **[Луна‑26](луна_26.md)** (Луна‑Ресурс‑1 (ОА), …) |≠ **Luna-Resurs-1 (OA)** (Luna-26, …) |
-|•·· **[Луна‑27](луна_27.md)** (Луна‑Ресурс‑1 (ПА), …) |≠ **Luna-Resurs-1 (PA)** (Luna-27, …) |
+|•·· **[Луна‑26](луна_26.md)** (Луна‑Ресурс‑1 (ОА), …) |≠ **Luna‑resurs-1 (OA)** (Luna-26, …) |
+|•·· **[Луна‑27](луна_27.md)** (Луна‑Ресурс‑1 (ПА), …) |≠ **Luna‑resurs-1 (PA)** (Luna-27, …) |
 |•·· **[Луна‑28](luna_28.md)** (Луна‑Грунт, …) |≠ **Luna-Grunt** (Luna-28, …) |
 |•·· **[Лунагрузик](hptc_lunagruzik.md)** (2019) |≠ **Lunagruzik** (…) |
 
@@ -765,7 +765,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |![](f/px310.png)|![](f/px310.png)|
 |**[Магнитометр](mag.md)**|= **MAG** — [magnetometer](mag.md)|
 |**МАК** — модуль автоконфигурации |= **Autoconfiguration module**|
-|**[Маскот](03_lav.md)**|= **Mascot**|
+|**[Маскот](zz_lav.md)**|= **Mascot**|
 |**[Матрица квалификации](matrix_qual.md)**|= **Qualification matrix**|
 |**[Матрица соответствия](matrix_compl.md)**|= **Compliance matrix**|
 |**МБР** — [межконтинентальная баллистическая ракета](icbm.md) |= **ICBM** — intercontinental ballistic missile |
@@ -860,7 +860,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**НИОБ** — наземное испытательное оборудование |= **Ground test equipment**|
 |**НИОКР** — [научно‑исследовательские и опытно‑конструкторские работы](rnd.md) |= **R&D** — [research and development](rnd.md) |
 |**НИП** — [наземный измерительный пункт](scs.md) |= **Ground telemetry station**|
-|**НИР** — [научно‑исследовательская работа](rnd_0.md) |= **Pre-Phase A**|
+|**НИР** — [научно‑исследовательская работа](rnd_0.md) |= **pre‑Phase A**|
 |**[Нитрон](acryl_fiber.md)**|= **Acrylic fiber**|
 |**НКПОР** — [наземный комплекс приёма, обработки и распространения информации](scs.md) |≠ **GCDRPD** — ground-based complex for data receiving, processing & distribution |
 |**НК** — [наземный комплекс](scs.md) |≠ **Ground-based complex**|
@@ -877,7 +877,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**Номинальное напряжение** (см. [Напряжение](voltage.md)) |= **Nominal voltage**|
 |**НОО** — [низкая опорная орбита](nnb.md) |= **LEO** — [low Earth orbit](nnb.md) |
 |**Нормальные условия** (см. [СУТД](sctp.md)) |= **SCTP** — standard conditions for temperature and pressure |
-|**Нормо‑час** (см. [Оценка стоимости работ](03_lav.md)) |= **Standard hour**|
+|**Нормо‑час** (см. [Оценка стоимости работ](zz_lav.md)) |= **Standard hour**|
 |**НП** — непосредственная передача |= **Live transmission**|
 |**НПЛО** — неопознанный плавающий объект |= **Unidentified submerged object**|
 |**НПО** — [научно‑производственное объединение](spo.md) |= **NPO** — scientific production association |
@@ -972,7 +972,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ОТУ** — отдельные технические условия |= **Partial specifications**|
 |**ОФ** — опасные факторы |= **Hazard**|
 |**[Оформление документации](doc.md)**|= **Paperwork**|
-|**[Оценка стоимости работ](03_lav.md)**|   = |**Job estimate**|
+|**[Оценка стоимости работ](zz_lav.md)**|   = |**Job estimate**|
 |**ОЧ** — отделяющаяся часть |= **Jettisoned parts**|
 |•·· **[ОЧБПЛИЕГ](hptc_ochbplieg.md)** (…) |≠ **OChBPLIEG** (…) |
 
@@ -1120,7 +1120,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**Распоряжение**|= **Decree**|
 |**[Расчёт рад.стойкости](calc_radresist.md)**|≠ **Radiation resistance calculation**|
 |**РБ** — [разгонный блок](lv.md) |= **UST** — upper stage |
-|**РБФ** — разгонный блок «Фрегат» (см. [НПОЛ ИП](03_lav.md)) |= **Fregat**|
+|**РБФ** — разгонный блок «Фрегат» (см. [НПОЛ ИП](zz_lav.md)) |= **Fregat**|
 |**РВ** — разрабатывается вновь |≠ **Newly developed**|
 |**РВСН** — ракетные войска стратегического назначения |= **Strategic Rocket Forces**|
 |**РГ** — [рабочая группа](wg.md) |= **WG** — working group |
@@ -1509,7 +1509,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**ЦУП** — [центр управления полётами](mcc.md) |= **MCC** — mission control center |
 || ┕  |≈ **LCC** — launch control center |
 |**Ч**|**ЧаВо** — [частые вопросы](dont_panic.md) |= **FAQ** — [frequently asked questions](dont_panic.md) |
-||**Человеко‑час** (см. [Оценка стоимости работ](03_lav.md)) |= **Man-hour / Person-hour**|
+||**Человеко‑час** (см. [Оценка стоимости работ](zz_lav.md)) |= **Man-hour / Person-hour**|
 ||**ЧОВ** — [чертёж общего вида](draft_model.md) |≈ **TD** — technical drawing (drafting / drawing) |
 ||•·· **[Чибис‑М](чибис_м.md)** (…) |≠ **Chibis-M** (…) |
 |**Ш**|**ШВ** — шкала времени (см. [Время](time.md)) |= **Timescale / Timeline**|

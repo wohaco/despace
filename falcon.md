@@ -37,7 +37,7 @@
 |Длина/диаметр  | v.1.2 — 70 м (с ГЧ) / 3.7 м;<br> 1.1 — 68.4 м (с ГЧ) / 3.7 м;<br> 1.0 — 54.9 м (с ГЧ) / 3.7 м   |
 |[Космодромы](spaceport.md)  | [Ванденберг](vandenberg.md) (SLC‑4E) ┊ [Канаверал](canaveral.md) (SLC‑40) ┊ [КЦ Кеннеди](kennedy.md) (LC‑39A)  |
 |Масса старт./сух.  | v.1.2 — 549 054 кг / 33 800 кг;<br> 1.1 — 505 846 кг / 31 200 кг;<br> 1.0 — 333 400 кг / … кг  |
-|Разраб./изготов.  | [SpaceX](03_spacex.md) (США) / [SpaceX](03_spacex.md) (США)  |
+|Разраб./изготов.  | [SpaceX](zz_spacex.md) (США) / [SpaceX](zz_spacex.md) (США)  |
 |Ступени  | 2  |
 |[Топливо](fuel.md)  | [Кислород + Керосин](o_plus.md) |
 || [![](f/lv/falcon/falcon9_2018_thumb.jpg)](f/lv/falcon/falcon9_2018.jpg)  |
@@ -66,7 +66,7 @@
 |Длина/диаметр  | 70 м / 12.2 м  |
 |[Космодромы](spaceport.md)  | [Ванденберг](vandenberg.md) (SLC‑4E) ┊ [КЦ Кеннеди](kennedy.md) (LC‑39A)  |
 |Масса старт./сух.  | 1 420 788 кг / 72 200 кг  |
-|Разраб./изготов.  | [SpaceX](03_spacex.md) (США) / [SpaceX](03_spacex.md) (США)  |
+|Разраб./изготов.  | [SpaceX](zz_spacex.md) (США) / [SpaceX](zz_spacex.md) (США)  |
 |Ступени  | 2 + ускорители  |
 |[Топливо](fuel.md)  | [Кислород + Керосин](o_plus.md) |
 || [![](f/lv/falcon/falconheavy_2019_thumb.jpg)](f/lv/falcon/falconheavy_2019.jpg) [![](f/lv/falcon/falconheavy_rboostes_thumb.jpg)](f/lv/falcon/falconheavy_rboostes.jpg) [![](f/lv/falcon/falconheavy_working_engines_thumb.jpg)](f/lv/falcon/falconheavy_working_engines.jpg)   |

@@ -1,5 +1,5 @@
 # TALOS
-> 2020.04.04 ┊ **🚀 [despace](index.md)** → [NASA](03_nasa.md), **[PS](ps.md)**
+> 2020.04.04 ┊ **🚀 [despace](index.md)** → [NASA](zz_nasa.md), **[PS](ps.md)**
 
 [TOC]
 
@@ -13,15 +13,15 @@
 <p style="page-break-after:always"> </p>
 
 ## Description
-[NASA](03_nasa.md) is poised to return to the Moon and then farther out to deep space. These goals will require spacecraft propulsion systems that are high‑performance, lightweight, and compact. In addition, these systems need to be developed more quickly and for a lower cost than state of the art propulsion systems in order to support multiple lunar missions within a short period of time.
+[NASA](zz_nasa.md) is poised to return to the Moon and then farther out to deep space. These goals will require spacecraft propulsion systems that are high‑performance, lightweight, and compact. In addition, these systems need to be developed more quickly and for a lower cost than state of the art propulsion systems in order to support multiple lunar missions within a short period of time.
 
-[Frontier Aerospace](03_frontier_as.md) of Simi Valley California is developing these high‑performing thrusters for the TALOS project. Five of these thrusters will be delivered to Astrobotic for use on its Peregrine lunar lander that will deliver science and technology payloads to the Moon for NASA in 2021.
+[Frontier Aerospace](zz_frontier_as.md) of Simi Valley California is developing these high‑performing thrusters for the TALOS project. Five of these thrusters will be delivered to Astrobotic for use on its Peregrine lunar lander that will deliver science and technology payloads to the Moon for NASA in 2021.
 
 Qualifying the TALOS thrusters for space flight on this lunar demonstration mission will help to enable a reliable, commercial‑off‑the‑shelf option for future science and exploration missions. Before the Astrobotic lunar mission, the TALOS project will perform qualification tests representative of a planned mission duty cycle for an autonomous lander in a lunar demonstration mission
 
 TALOS runs on mixed oxides of nitrogen and monomethyl hydrazine propellant (MON‑25/MMH)is and is lighter and costs less than accessible thrusters in comparable thrust classes. Because MON‑25 operates at lower temperatures, less power is needed for propellant conditioning for in‑space propulsion applications, especially long duration and deep‑space missions. TALOS offers enhanced affordability through improved designs, modern materials, and advanced manufacturing processes, which lower thruster unit cost for missions and reduce propulsion system costs.
 
-Frontier is scheduled to complete development hot‑fire testing of two 150‑lbf thrusters and two 10‑lbf thrusters in 2020 for delivery to [Astrobotic](03_astrobotic.md). TALOS technology is key to the enhanced affordability of future science and space exploration missions.
+Frontier is scheduled to complete development hot‑fire testing of two 150‑lbf thrusters and two 10‑lbf thrusters in 2020 for delivery to [Astrobotic](zz_astrobotic.md). TALOS technology is key to the enhanced affordability of future science and space exploration missions.
 
 **Team:**
 

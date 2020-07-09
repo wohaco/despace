@@ -42,12 +42,12 @@
 |**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) in … prices |
 |[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| … ‑ ┊ |
+|Development| … ‑ … |
 |Duration| … |
 |Launch| …, …, … |
 |Operator| … |
 |Programme| … |
-|Similar<br> missions| • Proposed: …<br> • Current: …<br> • Past: … |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: … |
 |Target| … |
 |[Type](sc.md)| … |
 |**Spacecraft:**|• • •|

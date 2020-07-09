@@ -9,7 +9,7 @@
 
 
 
-The **Cassini–Huygens** is a joint mission of the space-research mission, involved a collaboration between NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a spacecraft to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA’s Cassini spacecraft and ESA’s Huygens Lander, which landed on Saturn’s largest moon, Titan. Cassini was the fourth spacecraft to visit Saturn and the first to enter its orbit.
+The **Cassini–Huygens** is a joint mission of the space‑research mission, involved a collaboration between NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a spacecraft to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA’s Cassini spacecraft and ESA’s Huygens Lander, which landed on Saturn’s largest moon, Titan. Cassini was the fourth spacecraft to visit Saturn and the first to enter its orbit.
 
 
 
@@ -24,7 +24,7 @@ The **Cassini–Huygens** is a joint mission of the space-research mission, invo
 |Launch| October 15, 1997, 08:43:00 UTC, Rocket: Titan IV(401)B B-33 |
 |Operator| **Cassini**: NASA / JPL<br>**Huygens**: ESA / ASI |
 |Programme| Cassini–Huygens |
-|Similar<br> missions| • Proposed: …<br> • Current: [Galileo](galileo.md) <br> • Past: … |
+|Similar to| • Proposed: …<br> • Current: [Galileo](galileo.md) <br> • Past: … |
 |Target| Study of the planet Saturn and the system of the Saturnian system (rings, moons and asteroids). One of the main goals is to study Saturn’s moon-Titan |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -32,7 +32,7 @@ The **Cassini–Huygens** is a joint mission of the space-research mission, invo
 |Contractor| Aérospatiale |
 |Manufacturer| Cassini: Jet Propulsion Laboratory <br> Huygens: Thales Alenia Space |
 ||**`…`**|
-|Comms|S-, X- and Ka-band, diameter=4 m (high-gain radio antenna) |
+|Comms|S-, X- and Ka‑band, diameter=4 m (high‑gain radio antenna) |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): 1997-061A, SCN: 25008 |
 |Mass| 2 523 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)) |
 |Orbit / Site| Kronocentric |
@@ -41,7 +41,7 @@ The **Cassini–Huygens** is a joint mission of the space-research mission, invo
 
 Targets & investigations:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -107,7 +107,7 @@ In November 2006, scientists discovered a storm at the south pole of Saturn with
 
 On March 13, 2007, the Jet Propulsion Laboratory announced that it had found strong evidence of seas of methane and ethane in the northern hemisphere of Titan. At least one of these is larger than any of the Great Lakes in North America.
 
-On September 10, 2007, Cassini completed its flyby of the strange, two-toned, walnut-shaped moon, Iapetus. Images were taken from 1 600 km above the surface. As it was sending the images back to Earth, it was hit by a cosmic ray that forced it to temporarily enter safe mode. All of the data from the flyby were recovered.
+On September 10, 2007, Cassini completed its flyby of the strange, two-toned, walnut‑shaped moon, Iapetus. Images were taken from 1 600 km above the surface. As it was sending the images back to Earth, it was hit by a cosmic ray that forced it to temporarily enter safe mode. All of the data from the flyby were recovered.
 
 On March 12, 2008, Cassini made a close fly-by of Enceladus, passing within 50 km of the moon’s surface. The spacecraft passed through the plumes extending from its southern geysers, detecting water, carbon dioxide and various hydrocarbons with its mass spectrometer, while also mapping surface features that are at much higher temperature than their surroundings with the infrared spectrometer. Cassini was unable to collect data with its cosmic dust analyzer due to an unknown software malfunction.
 
@@ -168,7 +168,7 @@ Cassini had several objectives, including:
 
 
 ### Cassini
-Cassini’s instrumentation consisted of: a synthetic aperture radar mapper, a charge-coupled device imaging system, a visible/infrared mapping spectrometer, a composite infrared spectrometer, a cosmic dust analyzer, a radio and plasma wave experiment, a plasma spectrometer, an ultraviolet imaging spectrograph, a magnetospheric imaging instrument, a magnetometer and an ion/neutral mass spectrometer. Telemetry from the communications antenna and other special transmitters (an S-band transmitter and a dual-frequency Ka-band system) was also used to make observations of the atmospheres of Titan and Saturn and to measure the gravity fields of the planet and its satellites.
+Cassini’s instrumentation consisted of: a synthetic aperture radar mapper, a charge-coupled device imaging system, a visible/infrared mapping spectrometer, a composite infrared spectrometer, a cosmic dust analyzer, a radio and plasma wave experiment, a plasma spectrometer, an ultraviolet imaging spectrograph, a magnetospheric imaging instrument, a magnetometer and an ion/neutral mass spectrometer. Telemetry from the communications antenna and other special transmitters (an S‑band transmitter and a dual-frequency Ka‑band system) was also used to make observations of the atmospheres of Titan and Saturn and to measure the gravity fields of the planet and its satellites.
 
 |*Instrument*|*Description*|
 |:--|:--|
@@ -181,7 +181,7 @@ Cassini’s instrumentation consisted of: a synthetic aperture radar mapper, a c
 | **Magnetospheric Imaging Instrument (MIMI)** | The MIMI was both an in situ and remote sensing instrument that produces images and other data about the particles trapped in Saturn’s huge magnetic field, or magnetosphere. The in situ component measured energetic ions and electrons while the remote sensing component (the Ion And Neutral Camera, INCA) was an energetic neutral atom imager. This information was used to study the overall configuration and dynamics of the magnetosphere and its interactions with the solar wind, Saturn’s atmosphere, Titan, rings, and icy satellites. |
 | **Radar** | The on-board radar was an active and passive sensing instrument that produced maps of Titan’s surface. Radar waves were powerful enough to penetrate the thick veil of haze surrounding Titan. By measuring the send and return time of the signals it is possible to determine the height of large surface features, such as mountains and canyons. The passive radar listened for radio waves that Saturn or its moons may emit. |
 | **Radio and Plasma Wave Science instrument (RPWS)** | The RPWS was an in situ instrument and remote sensing instrument that receives and measures radio signals coming from Saturn, including the radio waves given off by the interaction of the solar wind with Saturn and Titan. RPWS measured the electric and magnetic wave fields in the interplanetary medium and planetary magnetospheres. It also determined the electron density and temperature near Titan and in some regions of Saturn’s magnetosphere using either plasma waves at characteristic frequencies (e.g. the upper hybrid line) or a Langmuir probe. RPWS studied the configuration of Saturn’s magnetic field and its relationship to Saturn Kilometric Radiation (SKR), as well as monitoring and mapping Saturn’s ionosphere, plasma, and lightning from Saturn’s (and possibly Titan’s) atmosphere. |
-| **Radio Science Subsystem (RSS)** | The RSS was a remote-sensing instrument that used radio antennas on Earth to observe the way radio signals from the spacecraft changed as they were sent through objects, such as Titan’s atmosphere or Saturn’s rings, or even behind the Sun. The RSS also studied the compositions, pressures and temperatures of atmospheres and ionospheres, radial structure and particle size distribution within rings, body and system masses and the gravitational field. The instrument used the spacecraft X-band communication link as well as S-band downlink and Ka-band uplink and downlink. |
+| **Radio Science Subsystem (RSS)** | The RSS was a remote-sensing instrument that used radio antennas on Earth to observe the way radio signals from the spacecraft changed as they were sent through objects, such as Titan’s atmosphere or Saturn’s rings, or even behind the Sun. The RSS also studied the compositions, pressures and temperatures of atmospheres and ionospheres, radial structure and particle size distribution within rings, body and system masses and the gravitational field. The instrument used the spacecraft X‑band communication link as well as S‑band downlink and Ka‑band uplink and downlink. |
 | **Ultraviolet Imaging Spectrograph (UVIS)** | The UVIS was a remote-sensing instrument that captured images of the ultraviolet light reflected off an object, such as the clouds of Saturn and/or its rings, to learn more about their structure and composition. Designed to measure ultraviolet light over wavelengths from 55.8 to 190 nm, this instrument was also a tool to help determine the composition, distribution, aerosol particle content and temperatures of their atmospheres. Unlike other types of spectrometer, this sensitive instrument could take both spectral and spatial readings. It was particularly adept at determining the composition of gases. Spatial observations took a wide-by-narrow view, only one pixel tall and 64 pixels across. The spectral dimension was 1 024 pixels per spatial pixel. It could also take many images that create movies of the ways in which this material is moved around by other forces. |
 | **Visible and Infrared Mapping Spectrometer (VIMS)** | The VIMS was a remote sensing instrument that captured images using visible and infrared light to learn more about the composition of moon surfaces, the rings, and the atmospheres of Saturn and Titan. It consisted of two cameras — one used to measure visible light, the other infrared. VIMS measured reflected and emitted radiation from atmospheres, rings and surfaces over wavelengths from 350 to 5 100 nm, to help determine their compositions, temperatures and structures. It also observed the sunlight and starlight that passes through the rings to learn more about their structure. Scientists used VIMS for long-term studies of cloud movement and morphology in the Saturn system, to determine Saturn’s weather patterns. |
 
@@ -265,7 +265,7 @@ ASI:
 **Links:**
 
    1. Notable interwikies — …
-   1. <https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens>
+   1. <https://en.wikipedia.org/wiki/Cassini%E2 %80 %93Huygens>
    1. <https://ru.wikipedia.org/wiki/Кассини-Гюйгенс>
    1. <https://www.nasa.gov/mission_pages/cassini/main/index.html>
    1. <https://www.jpl.nasa.gov/missions/cassini-huygens/>

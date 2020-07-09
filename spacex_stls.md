@@ -7,15 +7,15 @@
 
 > <small>*Terms:* **SpaceX STLS** — English term with no analogues in Russian. **Частный космодром SpaceX** — Russian equivalent.</small>
 
-The **SpaceX South Texas Launch Site** is a rocket production facility, test site, and spaceport near Brownsville, Texas, on the US Gulf Coast approximately 35 km east of Brownsville, Texas, for the private use of [SpaceX](03_spacex.md).
+The **SpaceX South Texas Launch Site** is a rocket production facility, test site, and spaceport near Brownsville, Texas, on the US Gulf Coast approximately 35 km east of Brownsville, Texas, for the private use of [SpaceX](zz_spacex.md).
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 | Activity  |**Active** (2018 ‑ …)  |
 | [Launch vehicles](lv.md)  | [Falcon](falcon.md)  |
-| Operator  | [SpaceX](03_spacex.md) |
+| Operator  | [SpaceX](zz_spacex.md) |
 | Location  | 25.996°N 97.154°W<br> Brownsville, Texas, USA  |
-| Distance  | 2 800 km — to the equator;<br> 12 500 km — to [NPO Lavochkin](03_lav.md);<br> 2 200 km — to [JPL](03_jpl.md);<br> 2 200 km — to [SpaceX](03_spacex.md)  |
+| Distance  | 2 800 km — to the equator;<br> 12 500 km — to [NPO Lavochkin](zz_lav.md);<br> 2 200 km — to [JPL](zz_jpl.md);<br> 2 200 km — to [SpaceX](zz_spacex.md)  |
 | Launch pad  | 2  |
 || [![](f/spaceport/spacex_stls/pic1_thumb.jpg)](f/spaceport/spacex_stls/pic1.jpg)  [![](f/spaceport/spacex_stls/map1_thumb.jpg)](f/spaceport/spacex_stls/map1.png)   [![](f/spaceport/spacex_stls/map2_thumb.jpg)](f/spaceport/spacex_stls/map2.jpg)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |

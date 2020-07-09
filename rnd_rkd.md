@@ -8,7 +8,7 @@
 |*Этапы*||| <small>*ОКР*</small> ||||| <small>*серийное пр‑во:*</small> ||
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |<small>**[R&D](rnd.md)**</small>  | <small>[НИР](rnd_0.md)</small>  | <small>[АП](rnd_ap.md)</small>  | <small>[ЭП](rnd_ep.md)</small>  | <small>[ТП](rnd_tp.md)</small>  | <small>[РКД (РРД)](rnd_rkd.md)</small>  | <small>[Макеты, НЭО](rnd_neo.md)</small>  | <small>[ЛИ](rnd_e.md)</small>  | <small>ПСП → СП → ПЭ</small>  | <small>Вывод</small>  |
-|<small>**[R&D phases](rnd.md)**</small>  | <small>0 (pre-A)</small> | <small>A</small> | <small>≈ B</small> | <small>≈ B</small> | <small>≈ C</small> | <small>≈ C/D</small> | <small>≈ E</small> | <small>…</small> | <small>F</small> |
+|<small>**[R&D phases](rnd.md)**</small>  | <small>0 (pre‑A)</small> | <small>A</small> | <small>≈ B</small> | <small>≈ B</small> | <small>≈ C</small> | <small>≈ C/D</small> | <small>≈ E</small> | <small>…</small> | <small>F</small> |
 
 > <small>*Термины:* **Разработка конструкторской документации (РКД), разработка рабочей документации (РРД)** — русскоязычный термин. **Phase C** — примерный англоязычный эквивалент.</small>
 
@@ -54,7 +54,7 @@
 <p style="page-break-after:always"> </p>
 
 ## Документация РКД (РРД)
-Работы и документацию к.510 на данном этапе см. [на соответствующей странице](03_lav.md).
+Работы и документацию к.510 на данном этапе см. [на соответствующей странице](zz_lav.md).
 
 На этапе [ТП](rnd_tp.md) <small>(по [ГОСТ 2.902](гост_2_902.md), п.5.3.7)</small> или же на этапе [ЭП](rnd_ep.md) <small>(по [РК‑11](const_rk11.md), п.3.2.1)</small> должен быть разработан [Перечень КД](list_ddoc.md), в котором определяется большая часть выпускаемой документации по каждой СЧ.
 

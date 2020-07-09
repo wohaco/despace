@@ -29,7 +29,7 @@
 |*Дата помещения*|*Описание*|
 |:--|:--|
 |2020.02.11| **[Капиллярное хранение газов](cgs.md).**<br> Технология позволяет хранить водород и, теоретически, прочие газы в стеклянных капиллярах при высоком давлении и плотности, по расчётам позволяя упаковать в тот же объём бака больше массы газа. На момент помещения в инкубатор технология проигрывала существующим композитным бакам высокого давления и имела TRL 1. |
-|2020.02.10| **[Баумана, ПУСМ с краш-опорами ❐](f/lag/lags_2020baumana.pdf).**<br> Сминаемые опоры без направляющих. На момент помещения в инкубатор технология имела TRL 1 и была диссертационным проектом Луковкина Романа и его руководителя [Г.А. Щеглова](02_scheglov1.md). |
+|2020.02.10| **[Баумана, ПУСМ с краш-опорами ❐](f/lag/lags_2020baumana.pdf).**<br> Сминаемые опоры без направляющих. На момент помещения в инкубатор технология имела TRL 1 и была диссертационным проектом Луковкина Романа и его руководителя [Г.А. Щеглова](zz_scheglov1.md). |
 
 
 
@@ -154,7 +154,7 @@
       - [Falcon Heavy ⎆](https://www.spacex.com/falcon-heavy)
          - 3-й пуск. Запуск 24-х спутников [(2019 06 25) ⎆](https://www.space.com/spacex-falcon-heavy-stp2-launch-success.html)
       - [Dragon ⎆](https://www.spacex.com/dragon)
-         - 19-й пуск на МКС [(2019 12 05) ⎆](https://www.spacex.com/news/2019/12/05/dragon-resupply-mission-crs-19-launch)
+         - 19-й пуск на МКС [(2019 12 05) ⎆](https://www.spacex.com/news/2019/12/05/dragon‑resupply-mission-crs-19-launch)
       - [Starship ⎆](https://blogs.nasa.gov/spacestation/)
          - Тест двигателя Mk1 и пробный "прыжок" Starship [(2019 11 19) ⎆](https://www.space.com/spacex-starship-mk1-test-campaign-begins.html)
    - **[NASA ⎆](https://www.nasa.gov/):**
@@ -199,7 +199,7 @@
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md) ┊ [Аналитика](incubator.md) ┊ [Конценсус](consensus.md) ┊ [НПОЛ процессы](03_нпол_п.md) ┊ [Словоблудие](verbiage.md) |
+|**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md) ┊ [Аналитика](incubator.md) ┊ [Конценсус](consensus.md) ┊ [НПОЛ процессы](zz_нпол_п.md) ┊ [Словоблудие](verbiage.md) |
 
 **Docs:**
 

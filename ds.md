@@ -15,13 +15,13 @@
 
 |*°*|*[Фирма](contact.md)*|*Модели ЗУ (масса, кг)*|
 |:--|:--|:--|
-|**EU**| [AAC CS](03_aac_cs.md) | [Sirius TCM](sirius_tcm.md) (0.14) |
-|| [ADS](03_ads.md) | [SSR](ssr.md) (8) |
+|**EU**| [AAC CS](zz_aac_cs.md) | [Sirius TCM](sirius_tcm.md) (0.14) |
+|| [ADS](zz_ads.md) | [SSR](ssr.md) (8) |
 |•|• • • • • • • • • •|• • •|
-|**RU**| [НИИ Гуськова](03_niimp.md) |  |
-|| [НПО ИТ](03_npoit.md) | [СЗИ-М](szi_m.md) (11.8) |
-|| [НПП Саит](03_sait_ltd.md) | [OBMU](sait_obmu.md) (1.8) |
-|| [ОКБ 5](03_okb5.md) |   |
+|**RU**| [НИИ Гуськова](zz_niimp.md) |  |
+|| [НПО ИТ](zz_npoit.md) | [СЗИ-М](szi_m.md) (11.8) |
+|| [НПП Саит](zz_sait_ltd.md) | [OBMU](sait_obmu.md) (1.8) |
+|| [ОКБ 5](zz_okb5.md) |   |
 
 **Технологии:**
 

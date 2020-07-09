@@ -17,7 +17,7 @@ The ground station is in use and continues to track NASA, ESA and Italian satell
 | [Launch vehicles](lv.md)  | Virgin Orbit plane and LauncherOne rocket  |
 | Operator  | Italian Space Agency |
 | Location  | 2°56′18″S 40°12′45″E<br> marine platform, Malindi, Kenya  |
-| Distance  | 300 km — to the equator;<br> 6 500 km — to [NPO Lavochkin](03_lav.md);<br> 17 100 km — to [JPL](03_jpl.md);<br> 7 500 km — to ESA Headquarters in Paris  |
+| Distance  | 300 km — to the equator;<br> 6 500 km — to [NPO Lavochkin](zz_lav.md);<br> 17 100 km — to [JPL](zz_jpl.md);<br> 7 500 km — to ESA Headquarters in Paris  |
 | Launch pad  | 2  |
 || [![](f/spaceport/san-marco/pic1_thumb.jpg)](f/spaceport/san-marco/pic1.jpg)  [![](f/spaceport/san-marco/map1_thumb.jpg)](f/spaceport/san-marco/map1.png)   [![](f/spaceport/san-marco/map2_thumb.jpg)](f/spaceport/san-marco/map2.png)  |
 || [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
