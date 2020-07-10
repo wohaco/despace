@@ -3,7 +3,7 @@
 
 |[![](f/contact/b/berkeley_univ_logo1_thumb.jpg)](f/contact/b/berkeley_univ_logo1.png)|*VPCR+QH Berkeley, California, USA*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.berkeley.edu/><br> <https://en.wikipedia.org/wiki/University_of_California,_Berkeley><br> <https://ru.wikipedia.org/wiki/Калифорнийский_университет_в_Беркли> |
 |Tel| +1(510)642-6000, fax: … |
 |Etc| … |

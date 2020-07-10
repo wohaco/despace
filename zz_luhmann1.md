@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Space Sciences Laboratory, California Univ., Berkeley. Senior Space Fellow*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <jgluhman@ssl.berkeley.edu> |
 |B‑day, addr.| <mark>нетдаты</mark> 1946 / … |
 || ![](f/contact/l/luhmann_001_photo.jpg) <mark>нетподписи</mark> |

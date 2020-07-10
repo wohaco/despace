@@ -115,7 +115,7 @@
 
 A **trans-Mars injection (TMI)** is a heliocentric orbit in which a propulsive maneuver is used to set a spacecraft on a trajectory, also known as Mars transfer orbit, which will cause it to arrive at Mars.
 
-Every two years, low-energy transfer windows open up which allow movement between planets with the lowest possible delta-v requirements. Transfer injections can place spacecraft into either a Hohmann transfer orbit or bi-elliptic transfer orbit. Trans-Mars injections can be either a single maneuver burn, such as that used by the NASA MAVEN orbiter, or a series of perigee kicks, such as that used by the ISRO Mars Orbiter Mission.
+Every two years, low‑energy transfer windows open up which allow movement between planets with the lowest possible delta-v requirements. Transfer injections can place spacecraft into either a Hohmann transfer orbit or bi-elliptic transfer orbit. Trans-Mars injections can be either a single maneuver burn, such as that used by the NASA MAVEN orbiter, or a series of perigee kicks, such as that used by the ISRO Mars Orbiter Mission.
 
 
 
@@ -336,7 +336,7 @@ Every two years, low-energy transfer windows open up which allow movement betwee
 <p style="page-break-after:always"> </p>
 
 ## Низкая околоземная орбита
-**Низкая околоземная орбита** (НОО, англ. low-Earth orbit, LEO) — орбита КА вокруг Земли, имеющая высоту над поверхностью планеты в диапазоне от 160 км (период обращения около 88 минут) до 2 000 км (период около 127 минут). Объекты, находящиеся на более низких высотах, чем 160 км, испытывают сильное влияние атмосферы и нестабильны. За исключением пилотируемых полётов к Луне (программа Аполлон, США), все космические полеты человека проходили либо в области НОО, либо являлись суборбитальными. Наибольшую высоту среди пилотируемых полётов в области НОО имел КА Gemini 11 с апогеем в 1 374 км. Ныне все обитаемые космические станции и большая часть ИСЗ используют или использовали НОО. Также, на НОО сосредоточена большая часть космического мусора.
+**Низкая околоземная орбита** (НОО, англ. low‑Earth orbit, LEO) — орбита КА вокруг Земли, имеющая высоту над поверхностью планеты в диапазоне от 160 км (период обращения около 88 минут) до 2 000 км (период около 127 минут). Объекты, находящиеся на более низких высотах, чем 160 км, испытывают сильное влияние атмосферы и нестабильны. За исключением пилотируемых полётов к Луне (программа Аполлон, США), все космические полеты человека проходили либо в области НОО, либо являлись суборбитальными. Наибольшую высоту среди пилотируемых полётов в области НОО имел КА Gemini 11 с апогеем в 1 374 км. Ныне все обитаемые космические станции и большая часть ИСЗ используют или использовали НОО. Также, на НОО сосредоточена большая часть космического мусора.
 
 **Низкая опорная орбита** *(НОО)* — орбита КА около Земли. Орбиту правомерно называть «опорной», если предполагается её значительное изменение — увеличение высоты или изменение наклонения. Если же маневры не предусмотрены или КА вообще не имеет собственной ДУ, предпочтительно использование названия «низкая околоземная орбита». В общем случае считается, что КА находится на опорной орбите, если он движется с первой космической скоростью, и находится на высоте, где соответствующая плотность верхних слоёв атмосферы, в первом приближении, допускает круговое или эллиптическое движение. При этом на орбите такого типа КА может находиться не менее одного витка. Типичные параметры опорной орбиты, на примере космического корабля «Союз‑ТМА», могут составлять:
 

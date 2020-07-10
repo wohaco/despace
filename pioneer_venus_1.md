@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Pioneer Venus Orbiter (Pioneer Venus 1, Pioneer 12)** — English term with no analogues in Russian. **Пионер-Венера-1** — Russian equivalent.</small>
 
-**Pioneer Venus Orbiter**, also known as *Pioneer Venus 1* or *Pioneer 12*, was a mission to Venus conducted by the United States as part of the Pioneer Venus project. Launched in May 1978 atop an Atlas-Centaur rocket, the spacecraft was inserted into an elliptical orbit around Venus on December 4, 1978. It returned data on Venus until October 1992.
+**Pioneer Venus Orbiter**, also known as *Pioneer Venus 1* or *Pioneer 12*, was a mission to Venus conducted by the United States as part of the Pioneer Venus project. Launched in May 1978 atop an Atlas‑Centaur rocket, the spacecraft was inserted into an elliptical orbit around Venus on December 4, 1978. It returned data on Venus until October 1992.
 
 [![](f/project/p/pioneer_venus_1/pic01_thumb.jpg)](f/project/p/pioneer_venus_1/pic01.jpg)
 
@@ -22,7 +22,7 @@
 |Launch| May 20, 1978, 13:13:00 UTC, Rocket Atlas SLV-3D Centaur-D1AR |
 |Operator| NASA / ARC |
 |Programme| Pioneer Venus project |
-|Similar to| • Proposed: … <br> • Current: [Magellan](magellan.md)<br> • Past: [Venera-9,10](venera_9_10.md), [Mariner 10](mariner_10.md) |
+|Similar to| • Proposed: … <br> • Current: [Magellan](magellan.md)<br> • Past: [Venera-9,10](venera_9_10.md), [Mariner 10](mariner_10.md) |
 |Target| Mapping the surface of Venus, studying the atmosphere (including observation of the rotation of the atmosphere) |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -97,7 +97,7 @@ The Orbiter was transmitting ultraviolet images of the planet’s cloud cover.
 
 ![](f/project/p/pioneer_venus_1/pic02.jpg)
 
-Synthesized images of the Venus pole from the Pioneer Venus Orbiter and Mariner 10 spacecraft. The image below shows the polar vortex in Venus’ atmosphere. ([EVN‑067](venus.md))
+Synthesized images of the Venus pole from the Pioneer Venus Orbiter and Mariner 10 spacecraft. The image below shows the polar vortex in Venus’ atmosphere. ([EVN‑067](venus.md))
 
 ![](f/project/p/pioneer_venus_1/pic03.jpg)
 

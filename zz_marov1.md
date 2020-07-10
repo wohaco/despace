@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[ИПМ Келдыша](zz_keldysh_ipm.md), RU. Профессор*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1933.07.28 Москва, СССР / … |
 || [![](f/contact/m/marov_001_photo_thumb.jpg)](f/contact/m/marov_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 

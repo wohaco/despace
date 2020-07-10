@@ -6,7 +6,7 @@
 |B‑day, addr.| 1961.06.18 (Oregon, USA) / … |
 |E‑mail| <David.A.Senske@jpl.nasa.gov> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/s/senske_001_photo_thumb.jpg)](f/contact/s/senske_001_photo.jpg) [![](f/contact/s/senske_001_sign_thumb.jpg)](f/contact/s/senske_001_sign.png) |
 
    - **[Education](edu.md):** …

@@ -3,9 +3,9 @@
 
 |[![](f/contact/l/lsf_logo1_thumb.jpg)](f/contact/l/lsf_logo1.png)|*Libre Space Foundation, PO Box 24063, 11110 Athens, Greece*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://libre.space/><br> <https://www.linkedin.com/company/libre-space-foundation/><br> <http://facebook.com/librespacefoundation><br> <http://twitter.com/LibreSpace_Fnd> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 **Libre Space Foundation (LSF)** is a non-profit foundation registered since 2014 in Greece from the creators of the SatNOGS project.

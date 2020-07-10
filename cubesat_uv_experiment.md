@@ -43,7 +43,7 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 
 **Projected** targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -97,7 +97,7 @@ This concept will address the nature of the UV-absorber (range 0.32 — 0.49 �
 ## Spacecraft
 <mark>TBD</mark>
 
-   - **CUVE** is a **12U** high-altitude orbiter on an **elliptical orbit around Venus**
+   - **CUVE** is a **12U** high‑altitude orbiter on an **elliptical orbit around Venus**
    - It will perform mostly nadir dayside observations, and some limb nightside observations
    - CUVE is a targeted mission, with a dedicated science payload and a compact spacecraft bus capable of interplanetary flight independently or as a ride-share with another mission to Venus or to a different target
    - In order to increase launch opportunities CUVE technical requirements are based on reaching Venus as secondary payload of a planetary mission, including missions that are not targeting Venus or of a LEO/MEO/GEO mission

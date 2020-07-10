@@ -4,9 +4,11 @@
 [TOC]
 
 ---
-> <small>*Термины:* **Возврат Грунта Венеры (ВГВ)** — русскоязычный термин, не имеющий аналога в английском языке. **Venus sample return** — дословный перевод с русского на английский.</small>
 
-**Возврат Грунта Венеры (ВГВ)**. Начат 2019.05.12.
+> <small>*Terms:* **Возврат Грунта Венеры (ВГВ)** — Russian term with no analogues in English. **Venus sample return (VGV)** — literal translation to English.</small>
+
+**Venus sample return (VGV, Возврат Грунта Венеры, ВГВ)** is a hypothetical spacecraft that .  
+Начат 2019.05.12.
 
 **Задача:** спроектировать миссию, который мог бы взлететь с [Венеры](venus.md) с грунтом массой не менее 0.3 кг и доставить его на Землю.
 

@@ -290,7 +290,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑022||Surface: map, precise|  ||D||||
 |EMN‑023||Surface: mineralogical composition|  |C|||||
 |EMN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
-|EMN‑062|T|Surface: obtaining & analysis of the surface samples|  |C||||S|
+|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places|  |C||||S|
 |EMN‑063|T|Surface: panoramic imaging|  |C|||||
 |EMN‑025||Surface: morphology|  |C|||||
 |EMN‑085|T|Surface: tessera investigations, remote|  ||D|F|||

@@ -3,7 +3,7 @@
 
 |[![](f/contact/u/uaesa_logo1_thumb.jpg)](f/contact/u/uaesa_logo1.png)|*CJJC+Q5 Abu Dhabi, United Arab Emirates*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://space.gov.ae/><br> <https://en.wikipedia.org/wiki/United_Arab_Emirates_Space_Agency> |
 |Tel| +971(2)202-22-22, fax: … |
 |Etc| … |

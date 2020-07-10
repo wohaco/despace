@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Berkeley Univ.](zz_berkeley_univ.md), Koskella Lab, US. Departments of Ecology & Evolutionary Biology & Geological Sciences. Lab Technician*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <tcaro@berkeley.edu> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || [![](f/contact/c/caro_001_photo_thumb.jpg)](f/contact/c/caro_001_photo.jpg) <mark>нетподписи</mark> |

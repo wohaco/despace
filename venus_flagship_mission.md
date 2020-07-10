@@ -55,7 +55,7 @@ The original report dates back to 2007.
 
 Targets & objectives:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -85,7 +85,7 @@ Targets & objectives:
 |EVN‑048||Nature & sources of the greenhouse effect.|  |D||F|||
 |EVN‑050||Causes of the water loss.|  |D|||||
 |EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
-|EVN‑062|T|Surface: obtaining & analysis of the surface samples.|  ||C|||S|
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|  ||C|||S|
 |EVN‑063|T|Surface: panoramic imaging.|  ||C||||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.|  |D|||||
@@ -220,7 +220,7 @@ Further details on the timeline are provided in Figure 3.
    - **Step 1**: Carrier spacecraft launch: April 30, 2021 on an Atlas V 551 L/V (w/ 5 m diameter fairing); on a Type IV trajectory to Venus (arrives second).
    - **Step 2**: Orbiter spacecraft launch: October 29, 2021 on an Atlas V 551 L/V (w/ 5 m diameter fairing); on a Type II trajectory to Venus (arrives first).
    - **Step 3**: Orbiter arrives on April 6, 2022 (159‑day cruise) Venus Orbit Insertion (VOI) maneuver; 300 × 40 000 km orbit for telecom relay support for (balloons & landers).
-   - **Step 4**: Carrier flyby on July 30, 2022 (436 days of cruise) Entry system #1 release: 20 days before carrier’s Venus flyby; Entry system #2 release: 10 days before carrier’s Venus flyby; Backup relay telecom support during lander’s lifetime.
+   - **Step 4**: Carrier fly‑by on July 30, 2022 (436 days of cruise) Entry system #1 release: 20 days before carrier’s Venus fly‑by; Entry system #2 release: 10 days before carrier’s Venus fly‑by; Backup relay telecom support during lander’s lifetime.
    - **Step 5**: Staggered entry for entry systems (13 hours — one orbiter revolution); Entry, Descent, & Inflation (EDI) phases for the balloons; Entry, Descent, & Landing (EDL) phases for the landers.
       - **Step 5a**: Pre‑entry phase: entry system (w/ balloon & lander) cruises to Venus.
       - **Step 5b**: Atmospheric entry; entry heating; deceleration; Deployment of drogue parachute.
@@ -298,7 +298,7 @@ Further details on the timeline are provided in Figure 3.
    - Teflon coated for sulfuric acid resistance
    - Vectran fabric plus Mylar film construction; metalized for low solar heating
    - Power: lithium‑thionyl chloride (Li‑SOCl₂) primary batteries (10.5 kWh, 22 kg)
-   - Comms: S‑band to Orbiter (backup to carrier flyby SC); (+ short carrier signal to Earth for Doppler & VLBI data)
+   - Comms: S‑band to Orbiter (backup to carrier fly‑by SC); (+ short carrier signal to Earth for Doppler & VLBI data)
    - Functions: 30 days science operation at 55.5 km float altitude ([EVN‑084](venus.md))
 
 ![](f/project/v/venus_flagship_mission/vfm_12.jpg)
@@ -314,7 +314,7 @@ Further details on the timeline are provided in Figure 3.
    - Rotating pressure vessel; Drill to 10 cm (2 samples)
    - Thermal design: Passive thermal management: Lithium nitrate with phase change material; Silica insulation: 5 cm external; 1 cm internal; CO₂ backfilled pressure vessel
    - Power: lithium‑thionyl chloride primary batteries (the same cells used on the balloons), (6 kWh, 12.6 kg)
-   - Comms: S‑band LGA to Orbiter with Electra (backup to flyby s/c)
+   - Comms: S‑band LGA to Orbiter with Electra (backup to fly‑by s/c)
    - Functions: Descent science for ~1 hour; Surface science for 5 hours
 
 ![](f/project/v/venus_flagship_mission/vfm_13.jpg)
@@ -337,15 +337,15 @@ Opportunities to launch a spacecraft to Venus are spaced at intervals of approxi
 ### Venera & VEGA — Russia
 The Soviet Venus exploration program extended over more than two decades from the first attempt to send a spacecraft to Venus to the program’s closure. At the program’s inception, scientists underestimated the atmospheric & surface conditions, making the initial missions underprepared for the challenges of conducting scientific investigations. While later missions benefited from returned science & were designed with increased capabilities to deal with the severe environmental conditions, in some cases spacecraft design was unable to keep pace with the rapidly increasing science understanding & missions were launched with only partially effective protection systems.
 
-The Soviet program began with the Venera 1 probe. After 1961, the Soviet RKA developed a new spacecraft architecture consisting of an orbital module connected to a descent probe or lander for in situ missions, or to an instrument module for orbital or flyby missions. This architecture was implemented in all Venus missions from Zond 1 (1964) up to Venera 8 (1972). After the initial attempt with Venera 1, the Zond 1 impactor & the Venera 2 (1965) probe soon followed, but didn’t succeed due to telecom system failure. The next step was the Venera 3 probe (1965), the first man‑made object to land on another planet.
+The Soviet program began with the Venera 1 probe. After 1961, the Soviet RKA developed a new spacecraft architecture consisting of an orbital module connected to a descent probe or lander for in situ missions, or to an instrument module for orbital or fly‑by missions. This architecture was implemented in all Venus missions from Zond 1 (1964) up to Venera 8 (1972). After the initial attempt with Venera 1, the Zond 1 impactor & the Venera 2 (1965) probe soon followed, but didn’t succeed due to telecom system failure. The next step was the Venera 3 probe (1965), the first man‑made object to land on another planet.
 
 During the late 1960s, the Soviet RKA continued to improve both the Venus orbiting module & descent capsule. At the time, it was thought that the surface temperature of Venus was approximately 300 °C, with an atmosphere consisting mainly of carbon dioxide & nitrogen at about 20 bars. Consequently, the capsule was designed to survive 300 °C & 25 bars. Venera 4, launched in 1967, reached Venus & transmitted data on the atmosphere & environment until it reached an attitude of about 26 km after 93 minutes of descent. Venera 5 & Venera 6 were launched in 1969 within a week of one another. Both were equipped with a set of sensors to further characterize the Venus atmospheric temperature, pressure, & composition. Because they were designed to survive 25 bars, they were not expected to deliver any surface data. Although mission designers were aware of the new analysis of the Venus environment, it was too late to significantly redesign the landing capsule without missing the next launch opportunity. However, based on the experience with Venera 4, the parachutes were modified to accelerate the capsule’s descent, allowing it to reach greater depths prior to overheating the capsule’s electronics. Both Venera 5 & 6 survived the descent for about 50 minutes & reached altitudes of approximately 20 km, where the pressure exceeded 27 bars & temperature exceeded 300 °C. Their failures were most likely due to crushing of the pressure vessel.
 
 The next series of missions, Venera 7 (1970) to 10 (1975), represented a leap forward for in situ science as the first data were returned from another planet. These spacecraft were designed to sufficiently mitigate the challenging conditions experienced during descent through the Venus atmosphere, as well as on the surface. With Venera 9 (1975) & 10, the Soviet space agency introduced a completely redesigned spacecraft, used for all later Venus missions. Venera 9 & 10 transmitted data from the surface for 53 & 65 minutes, respectively. The landers’ capabilities were not the limiting factors in the surface survival time; instead, each mission terminated when its orbiter exited the communication range.
 
-The next series of landers, Venera missions 11, 12, 13, 14, (all launched in 1978 within a few days from each other) improved upon the successes of the ongoing Soviet Venus exploration program. These missions all descended to the surface in approximately one hour & lasted on the surface for up to two hours. The Venera 11 & 12 spacecraft were quite similar to Venera 9 & 10, with a few modifications & new instruments. They descended through the clouds & atmosphere to reach the surface in about one hour. Venera 11 transmitted data for about 95 minutes, until the flyby spacecraft used as relays were out of reach. Venera 12 transmitted data for 110 min. Unfortunately, not all the experiments on Venera 11 & 12 succeeded. Venera 13 was very similar to Venera 12, except for increased battery power & more instruments. Venera 13 included some aerodynamic modifications that increased the lander’s stability during free fall. The Venera 13 & 14 landers featured an improved sample acquisition system. Venera 13 transmitted for 127 min & Venera 14 for 57 min to the relay bus, until the relay moved out of the lander’s communication range.
+The next series of landers, Venera missions 11, 12, 13, 14, (all launched in 1978 within a few days from each other) improved upon the successes of the ongoing Soviet Venus exploration program. These missions all descended to the surface in approximately one hour & lasted on the surface for up to two hours. The Venera 11 & 12 spacecraft were quite similar to Venera 9 & 10, with a few modifications & new instruments. They descended through the clouds & atmosphere to reach the surface in about one hour. Venera 11 transmitted data for about 95 minutes, until the fly‑by spacecraft used as relays were out of reach. Venera 12 transmitted data for 110 min. Unfortunately, not all the experiments on Venera 11 & 12 succeeded. Venera 13 was very similar to Venera 12, except for increased battery power & more instruments. Venera 13 included some aerodynamic modifications that increased the lander’s stability during free fall. The Venera 13 & 14 landers featured an improved sample acquisition system. Venera 13 transmitted for 127 min & Venera 14 for 57 min to the relay bus, until the relay moved out of the lander’s communication range.
 
-The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two identical spacecraft containing a lander & a balloon. This mission combined a Venus swingby & a Comet Halley flyby (thus the name Venera‑Gallei, or Vega). Two identical spacecraft, Vega 1 & Vega 2, were launched December 15 & 21, 1984, respectively. After carrying Venus entry probes to the vicinity of Venus, the two spacecraft were retargeted using Venus gravity field assistance to intercept Comet Halley in March 1986. The Vega architecture was similar to Venera 14, but it included new instruments focused on measuring the composition & size distribution of cloud particles, as well as on the direct detection of sulfuric acid. Each of the two Vega entry systems carried a Venera‑like lander & a 3.4 m diameter superpressure balloon. The balloons were designed to deploy & float high in the atmospheric clouds (~53 km) where the temperature was near that of Earth. The balloons traversed ~12 000 km & stopped transmitting after approximately 48 hrs of operation, after exhausting their batteries.
+The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two identical spacecraft containing a lander & a balloon. This mission combined a Venus swingby & a Comet Halley fly‑by (thus the name Venera‑Gallei, or Vega). Two identical spacecraft, Vega 1 & Vega 2, were launched December 15 & 21, 1984, respectively. After carrying Venus entry probes to the vicinity of Venus, the two spacecraft were retargeted using Venus gravity field assistance to intercept Comet Halley in March 1986. The Vega architecture was similar to Venera 14, but it included new instruments focused on measuring the composition & size distribution of cloud particles, as well as on the direct detection of sulfuric acid. Each of the two Vega entry systems carried a Venera‑like lander & a 3.4 m diameter superpressure balloon. The balloons were designed to deploy & float high in the atmospheric clouds (~53 km) where the temperature was near that of Earth. The balloons traversed ~12 000 km & stopped transmitting after approximately 48 hrs of operation, after exhausting their batteries.
 
 ![](f/project/v/venus_flagship_mission/vfm_14.jpg) ![](f/project/v/venus_flagship_mission/vfm_15.jpg) ![](f/project/v/venus_flagship_mission/vfm_16.jpg) ![](f/project/v/venus_flagship_mission/vfm_17.jpg) ![](f/project/v/venus_flagship_mission/vfm_18.jpg)
 
@@ -353,7 +353,7 @@ The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two
 
 <p style="page-break-after:always"> </p>
 
-### Flyby missions (Mariner, Galileo, MESSENGER)
+### Fly‑by missions (Mariner, Galileo, MESSENGER)
 **Mariner 5**
 
 American probe Mariner 5 was originally built as a backup for Mariner 4 to Mars, but later it was refurbished & modified to go to Venus. The spacecraft was launched on June 14, 1967, & flew by Venus on October 19, 1967 (a day after Venera 4), at a distance of 3 990 km (2 480 miles). With its more sensitive instruments than aboard Mariner 2, it revealed new information about Venus’ atmosphere, including its composition of 85 ‑ 99 % carbon dioxide. Mariner 5 also studied the interplanetary space in the vicinity of Venus & advanced science & the art of building & operating interplanetary spacecraft.
@@ -364,7 +364,7 @@ As a consequence, in 1968, Soviet & American scientists met in Tucson, Arizona, 
 
 <p style="page-break-after:always"> </p>
 
-**Mariner 10**
+**Mariner 10**
 
 Mariner 10 was launched in 1973, & it was the seventh successful launch in the Mariner series & the first spacecraft to visit Mercury. It was also the first spacecraft to use the gravitational pull of one planet (Venus) to reach another (Mercury), & the first spacecraft mission to visit two planets. The spacecraft flew by Mercury three times in a retrograde heliocentric orbit & returned images & data on the planet. Mariner 10 returned the first‑ever close‑up images of Venus & Mercury. The primary scientific objectives of the mission were to measure Mercury’s environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus. Secondary objectives were to perform experiments in the interplanetary medium & to obtain experience with a dual‑planet gravity‑assist mission.
 
@@ -374,13 +374,13 @@ For further details, see:   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do
 
 <p style="page-break-after:always"> </p>
 
-**Galileo Venus Flyby**
+**Galileo Venus Fly‑by**
 
-Galileo was launched on October 18, 1989, aboard space shuttle Atlantis. To achieve sufficient velocity to reach Jupiter directly, the trajectory design included Venus‑Earth‑Earth gravity assist (swingby) scheme. The Venus gravity assist flyby occurred on February 9 ‑ 10, 1990, at a distance of 16 000 km above the cloudtops. Although the sole objective of this flyby was to pump up Galileo’s orbit, scientists used this opportunity to turn the spacecraft’s planetary sensors on the cloud‑shrouded planet, in order to study its atmosphere & environment. The scientific data was stored on the spacecraft tape recorder until late October, 1990, when Galileo was close enough to Earth to play them back over its low‑gain antenna. The Venus observations were selected on the basis of (1) not risking Jupiter observations in the 1995 ‑ 1997 Jovian orbital phase, (2) not exceeding the capacity of the tape, & (3) getting the best new scientific information about Venus.
+Galileo was launched on October 18, 1989, aboard space shuttle Atlantis. To achieve sufficient velocity to reach Jupiter directly, the trajectory design included Venus‑Earth‑Earth gravity assist (swingby) scheme. The Venus gravity assist fly‑by occurred on February 9 ‑ 10, 1990, at a distance of 16 000 km above the cloudtops. Although the sole objective of this fly‑by was to pump up Galileo’s orbit, scientists used this opportunity to turn the spacecraft’s planetary sensors on the cloud‑shrouded planet, in order to study its atmosphere & environment. The scientific data was stored on the spacecraft tape recorder until late October, 1990, when Galileo was close enough to Earth to play them back over its low‑gain antenna. The Venus observations were selected on the basis of (1) not risking Jupiter observations in the 1995 ‑ 1997 Jovian orbital phase, (2) not exceeding the capacity of the tape, & (3) getting the best new scientific information about Venus.
 
 Details on the Galileo mission can be found at <http://www2.jpl.nasa.gov/galileo/>
 
-During the 1990 Venus flyby of the Galileo spacecraft, the Near‑Infrared Mapping Spectrometer investigated the night‑side atmosphere of Venus in the spectral range 0.7 to 5.2 micrometers. Multispectral images at high spatial resolution indicated substantial cloud opacity variations in the lower cloud levels, centered at 50 km altitude. Zonal & meridional winds were derived for this level & are consistent with motion of the upper branch of a Hadley cell. Northern & southern hemisphere clouds appear to be markedly different. Spectral profiles were used to derive lower atmosphere abundances of water vapor & other species. (Ref: Carlson et al., «Galileo Infrared Imaging Spectroscopy Measurements at Venus», Science 27 September 1991: Vol. 253. no. 5027, pp. 1541 ‑ 1548, DOI: 10.1126/science.253.5027.1541)
+During the 1990 Venus fly‑by of the Galileo spacecraft, the Near‑Infrared Mapping Spectrometer investigated the night‑side atmosphere of Venus in the spectral range 0.7 to 5.2 micrometers. Multispectral images at high spatial resolution indicated substantial cloud opacity variations in the lower cloud levels, centered at 50 km altitude. Zonal & meridional winds were derived for this level & are consistent with motion of the upper branch of a Hadley cell. Northern & southern hemisphere clouds appear to be markedly different. Spectral profiles were used to derive lower atmosphere abundances of water vapor & other species. (Ref: Carlson et al., «Galileo Infrared Imaging Spectroscopy Measurements at Venus», Science 27 September 1991: Vol. 253. no. 5027, pp. 1541 ‑ 1548, DOI: 10.1126/science.253.5027.1541)
 
 ![](f/project/v/venus_flagship_mission/vfm_21.jpg)
 
@@ -388,9 +388,9 @@ During the 1990 Venus flyby of the Galileo spacecraft, the Near‑Infrared Mappi
 
 **MESSENGER**
 
-Following the footsteps of Mariner 10 over 30 years earlier (1975), the MESSENGER spacecraft (MErcury Surface, Space ENvironment, GEochemistry & Ranging) was launched on August 3, 2004, to study the characteristics & environment of Mercury from orbit. It was designed to characterize the chemical composition of Mercury’s surface, the geologic history, the nature of the magnetic field, the size & state of the core, the volatile inventory at the poles, & the nature of Mercury’s exosphere & magnetosphere over a nominal orbital mission of one Earth year. MESSENGER will perform significantly improved science investigations over Mariner, with vastly improved scanning capability, & cameras capable of resolving surface features to 18 m (59 ft), providing global imaging of Mercury. (In comparison, Mariner 10 was a flyby mission, which only observed the sunlit hemisphere with a resolution of 1.6 km (0.99 mi).)
+Following the footsteps of Mariner 10 over 30 years earlier (1975), the MESSENGER spacecraft (MErcury Surface, Space ENvironment, GEochemistry & Ranging) was launched on August 3, 2004, to study the characteristics & environment of Mercury from orbit. It was designed to characterize the chemical composition of Mercury’s surface, the geologic history, the nature of the magnetic field, the size & state of the core, the volatile inventory at the poles, & the nature of Mercury’s exosphere & magnetosphere over a nominal orbital mission of one Earth year. MESSENGER will perform significantly improved science investigations over Mariner, with vastly improved scanning capability, & cameras capable of resolving surface features to 18 m (59 ft), providing global imaging of Mercury. (In comparison, Mariner 10 was a fly‑by mission, which only observed the sunlit hemisphere with a resolution of 1.6 km (0.99 mi).)
 
-MESSENGER made two Venus flybys. Its first flyby of Venus on October 24, 2006 was made at an altitude of 2 992 km (1 859 mi). A second flyby of Venus was made on June 5, 2007 at an altitude of 338 km (210 mi). During the flybys, a comprehensive set of science observations was obtained with the instrument suite onboard.
+MESSENGER made two Venus fly‑bys. Its first fly‑by of Venus on October 24, 2006 was made at an altitude of 2 992 km (1 859 mi). A second fly‑by of Venus was made on June 5, 2007 at an altitude of 338 km (210 mi). During the fly‑bys, a comprehensive set of science observations was obtained with the instrument suite onboard.
 
 Details on the mission can be found at: <http://messenger.jhuapl.edu/index.php>
 
@@ -547,7 +547,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 **Past:**
 
-   - [Mariner 10 flyby Mission ⎆](http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1973-085A)
+   - [Mariner 10 fly‑by Mission ⎆](http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1973-085A)
    - [Pioneer-Venus Probes Mission ⎆](http://www.nasa.gov/mission_pages/pioneer-venus/index.html)
    - [Magellan Orbiter Mission ⎆](http://www2.jpl.nasa.gov/magellan/)
 

@@ -3,7 +3,7 @@
 
 |[![](f/contact/d/dogoz_logo1_thumb.jpg)](f/contact/d/dogoz_logo1.png)|*Россия, 119160, г. Москва, ул. Знаменка, д. 19*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://structure.mil.ru/structure/ministry_of_defence/details.htm?id=11389@egOrganization> |
 |Tel| +7(495)696-34-31, fax: +7(495)696-34-31 |
 |Etc| … |

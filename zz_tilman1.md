@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Представитель НАСА в РФ*|
 |:--|:--|
 |B‑day, addr.| 1973.09.29 (Kansas City, Missouri, USA) / … |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/t/tilman_001_photo_thumb.jpg)](f/contact/t/tilman_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** …

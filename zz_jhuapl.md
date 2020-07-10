@@ -3,7 +3,7 @@
 
 |[![](f/contact/j/jhuapl_logo1_thumb.jpg)](f/contact/j/jhuapl_logo1.png)|*11100 Johns Hopkins Road, Laurel, Maryland 20723-6099, USA*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.jhuapl.edu/><br> <https://en.wikipedia.org/wiki/Applied_Physics_Laboratory><br> <https://ru.wikipedia.org/wiki/Лаборатория_прикладной_физики><br> <https://twitter.com/JHUAPL><br> <https://www.youtube.com/user/jhuapl><br> <https://www.facebook.com/JHUAPL/><br> <https://www.linkedin.com/company/johns-hopkins-university-applied-physics-laboratory/><br> <https://www.instagram.com/johnshopkinsapl/> |
 |Tel| +1(240)228-5000, fax: … |
 |Etc| … |

@@ -26,7 +26,7 @@
 |Programme| Parker Solar Probe |
 |Similar to| • Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • Past: [MESSENGER](messnger.md) |
 |Target| Trace the flow of energy that heats the corona and accelerates the solar wind.<br>Determine the structure and dynamics of the magnetic fields at the sources of solar wind.<br>Determine what mechanisms accelerate and transport energetic particles. |
-|[Type](sc.md)| Flyby spacecraft; orbiter spacecraft |
+|[Type](sc.md)| Fly‑by spacecraft; orbiter spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| Probe |
 |Contractor| United Launch Alliance |
@@ -41,7 +41,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -65,9 +65,9 @@ The Parker Solar Probe will be the first spacecraft to fly into the low solar co
 
 The Parker Solar Probe mission design uses repeated gravity assists at Venus to incrementally decrease its orbital perihelion to achieve a final altitude (above the surface) of approximately 8.5 solar radii, or about 6 millions km.
 
-The spacecraft trajectory will include seven Venus flybys over nearly seven years to gradually shrink its elliptical orbit around the Sun, for a total of 24 orbits.
+The spacecraft trajectory will include seven Venus fly‑bys over nearly seven years to gradually shrink its elliptical orbit around the Sun, for a total of 24 orbits.
 
-After the first Venus flyby, the probe will be in an elliptical orbit with a period of 150 days (two-thirds the period of Venus), making three orbits while Venus makes two. On the second flyby, the period shortens to 130 days. After less than two orbits (only 198 days later) it encounters Venus a third time at a point earlier in the orbit of Venus. This encounter shortens its period to half of that of Venus, or about 112.5 days. After two orbits it meets Venus a fourth time at about the same place, shortening its period to about 102 days. After 237 days it meets Venus for the fifth time and its period is shortened to about 96 days, three-sevenths that of Venus. It then makes seven orbits while Venus makes three. The sixth encounter, almost two years after the fifth, brings its period down to 92 days, two-fifths that of Venus. After five more orbits (two orbits of Venus) it meets Venus for the seventh and last time, decreasing its period to 88 or 89 days and allowing it to approach closer to the Sun.
+After the first Venus fly‑by, the probe will be in an elliptical orbit with a period of 150 days (two-thirds the period of Venus), making three orbits while Venus makes two. On the second fly‑by, the period shortens to 130 days. After less than two orbits (only 198 days later) it encounters Venus a third time at a point earlier in the orbit of Venus. This encounter shortens its period to half of that of Venus, or about 112.5 days. After two orbits it meets Venus a fourth time at about the same place, shortening its period to about 102 days. After 237 days it meets Venus for the fifth time and its period is shortened to about 96 days, three-sevenths that of Venus. It then makes seven orbits while Venus makes three. The sixth encounter, almost two years after the fifth, brings its period down to 92 days, two-fifths that of Venus. After five more orbits (two orbits of Venus) it meets Venus for the seventh and last time, decreasing its period to 88 or 89 days and allowing it to approach closer to the Sun.
 
 |![](f/project/p/parkersolarprobe/animation_of_parkersolarprobe_trajectory.gif)|
 |:--|
@@ -75,7 +75,7 @@ After the first Venus flyby, the probe will be in an elliptical orbit with a per
 
    - Launch occurred on 12 August 2018, at 3:31 a.m. EDT, 7:31 a.m. GMT. The spacecraft operated nominally after launching. During its first week in space it deployed its high‑gain antenna, magnetometer boom, and electric field antennas.
    - Instrument activation and testing began in early September 2018. On 9 September, the two WISPR telescopic cameras performed a successful first-light test, transmitting wide-angle images of the background sky towards the galactic center.
-   - The probe successfully performed the first of the seven planned Venus flybys on 3 October 2018.
+   - The probe successfully performed the first of the seven planned Venus fly‑bys on 3 October 2018.
    - The first scientific observations were transmitted in December 2018.
    - NASA announced that on January 19, 2019, the Parker Solar Probe reached its first aphelion, thus completing its first full orbit.
 

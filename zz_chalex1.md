@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), CDF, EU. System Engineer в ESA, Team Leader Concurrent Design Facility в ESA, System Engineer for the ESA в Terma.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <remy.chalex@esa.int> |
 |B‑day, addr.| <mark>нетдаты</mark> 1979 / … |
 || [![](f/contact/c/chalex_001_photo_thumb.jpg)](f/contact/c/chalex_001_photo.jpg) <mark>нетподписи</mark> |

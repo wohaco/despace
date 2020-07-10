@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Cornell Univ.](cornell_univ.md), US. Astronomy & Space Sciences. Graduate Teaching Assistant*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* +1(607)261-21-67 |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +1(607)261-21-67 |
 |E‑mail| <asj59@cornell.edu> |
 |B‑day, addr.| 1994.10.12 (Мумбаи, Индия) / Итака, Нью‑Йорк, США |
 || [![](f/contact/j/jindal_001_photo_thumb.jpg)](f/contact/j/jindal_001_photo.jpg) <mark>нетподписи</mark> |

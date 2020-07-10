@@ -3,19 +3,26 @@
 
 |[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
-|Link| <http://www.jaxa.jp/><br> <https://en.wikipedia.org/wiki/JAXA><br> <https://ru.wikipedia.org/wiki/Японское_агентство_аэрокосмических_исследований> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|E‑mail| <mark>noemail</mark> |
+|Link| <http://www.jaxa.jp/><br> <https://en.wikipedia.org/wiki/JAXA> |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
-**Япо́нское аге́нтство аэрокосми́ческих иссле́дований** *(яп. 宇宙航空研究開発機構 Утю:‑Ко:ку‑Кэнкю:‑Кайхацу‑Кико:) или JAXA (англ. Japan Aerospace eXploration Agency)* — государственное агентство, отвечающее за космическую и авиационную программу Японии. Основано 1 октября 2003 года.  
-Агентство было образовано после слияния трёх ранее независимых организаций. Сейчас JAXA обладает возможностью запуска искусственных спутников Земли, автоматических межпланетных станций, участвует в программе Международной космической станции, планирует создание пилотируемой космонавтики и освоение [Луны](moon.md).  
-1 октября 2003 года три организации: японский Институт космонавтики и аэронавтики ([Institute of Space & Aeronautical Science, ISAS](zz_isas.md)), Национальная аэрокосмическая лаборатория Японии (National Aerospace Laboratory of Japan, NAL), и японское Национальное агентство по исследованию космоса (National Space Development Agency, NASDA), объединились в единую структуру, получившую название JAXA.  
-До слияния, эти организации осуществляли развитие различных секторов японской космонавтики: ISAS фокусировался на исследованиях космической среды и планет, NAL на исследованиях в области аэронавтики. Национальное агентство по исследованию космоса было образовано 1 октября 1969 года и занималось разработкой ракет‑носителей, спутников, а также строительством японского экспериментального модуля «Кибо» для Международной космической станции. Штаб‑квартира NASDA размещалась в зданиях нынешнего Космического центра Танэгасима на острове Танэгасима, в 115 км южнее Кюсю.
+The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, literally “National Research and Development Agency on Aerospace Research and Development”) is the Japanese national aerospace and space agency. Through the merger of three previously independent organizations, JAXA was formed on 1 October 2003. JAXA has 1 545 regular staff members as of FY 2016. Many domestic and overseas researchers, graduate students and people from the private sector are also hired.
 
-**Опыт кооперации.**  
-…
+JAXA is responsible for research, technology development and launch of satellites into orbit, and is involved in many more advanced missions JAXA is designated as a core executive organization that technically supports aerospace development and utilization for the Japanese Government. JAXA performs activities related to aerospace fields consistently from basic research and development to utilization.
 
+   1. Contributing to artificial satellites and explorers
+   1. Utilizing the space environment
+   1. R&D on the transportation system between the ground and space
+   1. Study of space science and planet exploration
+   1. Aviation technology research
+   1. Fundamental technology research
+   1. Industrial promotion
+   1. International cooperation
+   1. Educational activities
+   1. Public relations activities
+   1. Other R&D of technology that supports the aerospace field
 
 <p style="page-break-after:always"> </p>
 
@@ -34,4 +41,3 @@ Notable divisions:
    - **Noshiro Rocket Testing Center** — R&D, testing rockets and rocket’s engines. Formed 1962, Noshiro, Akita Prefecture.
    - **TKSC** or **Tsukuba** (Tsukuba Space Center) — the operations facility, astronauts training, headquarters for JAXA. The complex has several factories to manufacture satellites and ISS modules. Formed 1972, Ibaraki Prefecture.
    - **Sagamihara Campus** — ISAS’s facility. Sagamihara City.
-

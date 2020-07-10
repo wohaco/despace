@@ -43,7 +43,7 @@ Original of NASA’s report: 2009.12.18 ([GSFC](zz_gsfc.md), [JPL](zz_jpl.md), [
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -85,7 +85,7 @@ The VME mission concept affords unique science opportunities and vantage points 
 
 Launched on an Atlas V 551 in either 2021 or 2023, the carrier spacecraft carries the VME lander to Venus on a Type II trajectory. After release from the carrier, the VME lander enters the atmosphere, descends on a parachute briefly, and then free-falls to the surface. Science is conducted on descent and at the surface ([EVN‑003](venus.md), [EVN‑006](venus.md)). While collecting data at the first site, the bellows are filled with helium and when buoyant, rise with the gondola, leaving the helium pressure tank on the surface. Driven by the ambient winds, the gondola floats with the bellows for ~220 minutes, conducting additional science. At the completion of the 8 – 16 km aerial traverse, the bellows are jettisoned and the gondola free falls back to the surface, where final surface science measurements are performed.
 
-The total mission time in the Venus atmosphere is 6 hours, which includes 5 hours in the near surface environment. The VME lander transmits data to the flyby carrier spacecraft continuously throughout the 6-hour science mission ([EVN‑092](venus.md)). After losing contact with the VME lander, the carrier spacecraft then relays all data back to Earth.
+The total mission time in the Venus atmosphere is 6 hours, which includes 5 hours in the near surface environment. The VME lander transmits data to the fly‑by carrier spacecraft continuously throughout the 6-hour science mission ([EVN‑092](venus.md)). After losing contact with the VME lander, the carrier spacecraft then relays all data back to Earth.
 
 The scientifically compelling highland regions known as tessera hold the most potential for providing new insight into the thermal evolution of the Venus interior, including the possibility of the preservation of ancient continental crust and the role of water in Venus’ past ([EVN‑052](venus.md)). The ability to sample the major elements and mineralogy (particularly SiO₂, FeO, MgO, S-bearing, and OH-bearing minerals) of such surfaces in multiple locations decreases statistical sampling uncertainty ([EVN‑086](venus.md)). Imaging these unique terrains in optical wavelengths at very high spatial resolutions will provide new insights into the physical processes that have contributed to the evolution of the Venus surface ([EVN‑085](venus.md), [EVN‑093](venus.md)). Because of the super-critical CO₂ lower atmosphere, illumination is extremely diffuse (dominated by Rayleigh scattering) and there are no shadows at the Venus surface ([EVN‑032](venus.md)).
 
@@ -94,12 +94,12 @@ The scientifically compelling highland regions known as tessera hold the most po
 |*Date*|*Event*|*Delta V/Comments*|
 |:--|:--|:--|
 | May 27, 2023 | Launch | 30 m/s Earth to Venus TCMs |
-| October 27, 2023 | First Venus Flyby | 45 m/s Venus to Venus TCMs |
+| October 27, 2023 | First Venus Fly‑by | 45 m/s Venus to Venus TCMs |
 | February 10, 2024 | Lander Release | Flexibility in exact time +/‑day |
 | February 11, 2024 | Spacecraft Divert Maneuver | 127 m/s Timeline criticality +/‑day |
 | February 15, 2024, 07:12 UTC | Lander atmospheric entry interface | (175 km altitude, -19.0 deg. EFPA) |
 | February 15, 2024, 08:17 UTC | 1st Landing | (Approximately 2 degrees from entry interface location) |
-| February 15, 2024, 10:42 UTC | Carrier Flyby Periapsis | N/A  |
+| February 15, 2024, 10:42 UTC | Carrier Fly‑by Periapsis | N/A  |
 | February 15, 2024, 12:23 UTC | 2nd Landing | N/A |
 | February 15, 2024, 13:17 UTC | End of Lander Design Lifetime | N/A |
 
@@ -150,11 +150,11 @@ Instrument Resource Summary – the instruments in this table represent a notion
 ## Spacecraft
 **CARRIER**
 
-The study team developed an elegant, volume efficient cylindrical gondola to accommodate the science payload in a thermally controlled environment. An innovative, highly compact design surrounds the gondola with a toroidal pressure tank capped with the bellows, enabling the entire lander system to fit in an aeroshell with heritage geometry. The thermal design uses heat pipes and phase change material that enable the gondola electronics and instruments to survive 5 hours near the Venus surface, thus providing sufficient time for surface chemistry and an aerial traverse >8 km in the current-like winds.
+The study team developed an elegant, volume efficient cylindrical gondola to accommodate the science payload in a thermally controlled environment. An innovative, highly compact design surrounds the gondola with a toroidal pressure tank capped with the bellows, enabling the entire lander system to fit in an aeroshell with heritage geometry. The thermal design uses heat pipes and phase change material that enable the gondola electronics and instruments to survive 5 hours near the Venus surface, thus providing sufficient time for surface chemistry and an aerial traverse >8 km in the current‑like winds.
 
 Solar arrays measure ~1.2 m² per side (balancing for 5 RPM spacecraft spin up) and are attached to single axis actuators, allowing the carrier to slew about the actuator axis. The secondary (rechargeable Lithium-ion) battery is small, as no significant eclipse is expected.
 
-Fuel mass 366 kg (hydrazine). Using small thrusters versus reactions wheels to achieve three-axis stabilization saves mass, volume, and power.
+Fuel mass 366 kg (hydrazine). Using small thrusters versus reactions wheels to achieve three‑axis stabilization saves mass, volume, and power.
 
 The carrier communication sub-system includes a 3 m low mass mesh S‑band antenna for uplink communication with the lander, and a smaller 1 m solid X‑band antenna for downlink Deep Space Network communication. Two X– band omni-directional antennas allow the carrier spacecraft to be commandable at all times.
 

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@maxar.com> |
 |Link| <https://www.maxar.com/><br> <https://en.wikipedia.org/wiki/Maxar_Technologies> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 **Maxar Technologies** Inc. is a space technology company headquartered in Westminster, Colorado, United States, specializing in manufacturing communication, Earth observation, radar, & on‑orbit servicing satellites, satellite products, & related services.  

@@ -6,7 +6,7 @@
 |B‑day, addr.| <mark>нетдаты</mark> 1984 / … |
 |E‑mail| <emilie.royer@colorado.edu>, <emilieroyer@psi.edu> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || ![](f/contact/r/royer_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** PhD, Astronomy & Astrophysics, 2011, Uiversité Paris VI, France. MS, Planetary Science, 2007, University Paris VI, France.

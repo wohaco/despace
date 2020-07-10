@@ -22,7 +22,7 @@
 |Launch| 2021 (proposed) |
 |Operator| NASA’s JPL |
 |Programme| Discovery Program |
-|Similar to| • Proposed: [EnVision](envision.md)<br> • Current: …<br> • Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md) |
+|Similar to| • Proposed: [EnVision](envision.md)<br> • Current: …<br> • Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md) |
 |Target| Would produce global, high resolution topography and imaging of Venus’ surface |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -39,7 +39,7 @@
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.

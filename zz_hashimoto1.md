@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*Okayama Univ., JP. Associate Professor, Graduate School of Natural Science & Technology, Atmospheric Sciences, since 2009.01*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <george@okayama-u.ac.jp>, <george@gfd-dennou.org> |
 |B‑day, addr.| 1972.02.… Tokyo, JP / … |
 || <mark>нетфото</mark> [![](f/contact//_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

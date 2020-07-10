@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md) ([LATMOS](zz_latmos.md), [UVSQ](uvsq.md)), RU. 536 Лаборатория экспериментальной спектроскопии. Старший лаборант.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1993.09.23 (Москва, РФ) / Москва, РФ |
 || [![](f/contact/e/evdokimova_001_photo_thumb.jpg)](f/contact/e/evdokimova_001_photo.jpg) <mark>нетподписи</mark> |
 

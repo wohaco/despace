@@ -3,7 +3,7 @@
 
 |[![](f/contact/m/msci_logo1_thumb.jpg)](f/contact/m/msci_logo1.png)|*6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.mscinc.ca/> |
 |Tel| +1(905)364-03-88, fax: +1(905)364-03-89 |
 |Etc| … |

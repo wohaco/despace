@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <murashin@gfd-dennou.org> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || <mark>нетфото</mark> [![](f/contact//_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

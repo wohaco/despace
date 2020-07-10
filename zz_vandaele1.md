@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*Royal Belgian Institute for Space Aeronomy (BIRA-ISAB), EU (BE). Head of Planetary Aeronomy Group*|
 |:--|:--|
 |B‑day, addr.| <mark>нетдаты</mark> 1960 ? / … |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/v/vandaele_001_photo_thumb.jpg)](f/contact/v/vandaele_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** Dr. Ir., Engineering, Université libre de Bruxelles, 1990.

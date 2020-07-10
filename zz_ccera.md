@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@ccera.ca> |
 |Link| <http://www.ccera.ca/><br> <https://github.com/ccera-astro> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 **Canadian Center for Experimental Radio Astronomy** is a membership association which supports education and research in radio astronomy techniques and applications targeted at smaller institutions and interested individuals. We are federally incorporated as a not-for-profit in Canada. We operate an observatory and research centre near Smiths Falls, Ontario, Canada. We have a scientific advisory board who provide direction and advice on an ad-hoc basis.

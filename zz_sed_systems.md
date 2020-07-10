@@ -3,7 +3,7 @@
 
 |[![](f/contact/s/sed_systems_logo1_thumb.jpg)](f/contact/s/sed_systems_logo1.png)|*18 Innovation Blvd Saskatoon, SK S7N 5B3, Canada*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.sedsystems.ca/> |
 |Tel| +1(306)931-34-25, fax: +1(306)933-14-86 |
 |Etc| Also Quebec |

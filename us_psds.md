@@ -30,7 +30,7 @@ Mission & Technology Studies:
    1. Chiron Orbiter Mission Concept Study
    1. Comet Surface Sample Return Mission Concept Study
    1. Cryogenic Comet Nucleus Sample Return Mission Technology Study
-   1. Enceladus Flyby & Sample Return Concept Studies
+   1. Enceladus Fly‑by & Sample Return Concept Studies
    1. Enceladus Orbiter Concept Study
    1. Ganymede Orbiter Concept Study
    1. Io Observer Concept Study
@@ -59,7 +59,7 @@ Mission & Technology Studies:
    1. Venus Intrepid Tessera Lander Concept Study
    1. Venus Mobile Explorer Mission Concept Study
 
-The recommendation for the New Frontiers program was a selection from one of Comet Surface Sample Return, Lunar South Pole‑Aitken Basin Sample Return, Saturn Probe, Trojan Tour and Rendezvous, and Venus In Situ Explorer. Then another selection adding Io Observer, Lunar Geophysical Network. (for NF 4 and 5) In the 2011 response from NASA to the review, NASA supported the New Frontiers recommendations. (The first three New Frontiers missions include New Horizons to Pluto flyby, the Juno Jupiter orbiter, and the OSIRIS‑REx NEO sample return mission.)
+The recommendation for the New Frontiers program was a selection from one of Comet Surface Sample Return, Lunar South Pole‑Aitken Basin Sample Return, Saturn Probe, Trojan Tour and Rendezvous, and Venus In Situ Explorer. Then another selection adding Io Observer, Lunar Geophysical Network. (for NF 4 and 5) In the 2011 response from NASA to the review, NASA supported the New Frontiers recommendations. (The first three New Frontiers missions include New Horizons to Pluto fly‑by, the Juno Jupiter orbiter, and the OSIRIS‑REx NEO sample return mission.)
 
 For the astrophysics review see Astronomy and Astrophysics Decadal Survey.
 

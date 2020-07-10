@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <team.ysapce.mars@gmail.com> |
 |Link| <https://yspace-llc.com/><br> <https://www.facebook.com/TeamYspace/> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 **Yspace LLC** - это космическая стартап-компания, которая предоставляет опыт соединения людей и космоса посредством разработки контента Space VR. Founded in 2018.06.

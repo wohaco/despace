@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[ESA](zz_esa.md) CDF, EU. System & cost engineering division. Cost & system engineering tasks*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <paolo.martino@esa.int> |
 |B‑day, addr.| <mark>нетдаты</mark> 1986 / Leiden, NL, EU |
 || ![](f/contact/m/martino_001_photo.jpg) <mark>нетподписи</mark> |

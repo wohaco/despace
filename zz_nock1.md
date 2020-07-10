@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*[Global Aerospace Corporation](zz_gac.md), US. Founder, President, Chairman of the Board of Directors*|
 |:--|:--|
 |B‑day, addr.| <mark>нетдаты</mark> 1946 ? / … |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| Нок, Керри |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/n/nock_001_photo_thumb.jpg)](f/contact/n/nock_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** MS, 1966 ‑ 1972, Space Science & Engineering, UCLA.

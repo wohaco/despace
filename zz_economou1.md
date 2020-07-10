@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Chicago Univ.](chicago_univ.md), US. Senior Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <tecon@tecon.uchicago.edu> |
 |B‑day, addr.| 1937.05.06 (Greece) / … |
 || ![](f/contact/e/economou_001_photo.jpg) <mark>нетподписи</mark> |

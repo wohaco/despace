@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[GRC](zz_grc.md), US. Senior researcher*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <rafat.r.ansari@nasa.gov> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || [![](f/contact/a/ansari_001_photo_thumb.jpg)](f/contact/a/ansari_001_photo.jpg) <mark>нетподписи</mark> |

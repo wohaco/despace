@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*Курчатовский институт, RU. НБИКС-центр НИЦ. Лаборатория электробиосинтеза НТК биоэнергетики. Заведующий лабораторией*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <zorigto@gmail.com> |
 |B‑day, addr.| <mark>нетдаты</mark> 1974 (Пущино, МО, РФ) / … |
 || [![](f/contact/n/namsaraev_001_photo_thumb.jpg)](f/contact/n/namsaraev_001_photo.jpg) <mark>нетподписи</mark> |

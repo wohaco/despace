@@ -3,9 +3,9 @@
 
 |[![](file/cooperation//_logo1_thumb.jpg)](file/cooperation//_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| … |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 …

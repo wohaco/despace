@@ -52,4 +52,4 @@ Frontier is scheduled to complete development hot‑fire testing of two 150‑lb
 **Links:**
 
    1. Notable interwikies — …
-   1. <https://gameon.nasa.gov/projects/thruster-advancement-for-low-temperature-operation-in-space-talos/>
+   1. <https://gameon.nasa.gov/projects/thruster-advancement-for-low‑temperature-operation-in-space-talos/>

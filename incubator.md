@@ -161,7 +161,7 @@
       - [ISS ⎆](https://www.nasa.gov/)
          - NASA предложило закупить места для краткосрочных коммерческих полетов  [(2019 11 28) ⎆](https://spacenews.com/nasa-proposes-to-buy-seat-on-short-duration-commercial-iss-flight/)
       - [Hubble Space Telescope ⎆](https://www.nasa.gov/mission_pages/hubble/main/index.html)
-         - Зафиксирована галлактика в форме "летающего блюдца" (НЛО) [(2019 12 24)](https://thedigitalweekly.com/2019/12/26/ufo-like-flying-saucer-detected-by-nasas-hubble-telescope/)
+         - Зафиксирована галлактика в форме "летающего блюдца" (НЛО) [(2019 12 24)](https://thedigitalweekly.com/2019/12/26/ufo‑like-flying-saucer-detected-by-nasas‑hubble-telescope/)
       - [Curiosity Rover ⎆](https://www.nasa.gov/mission_pages/msl/index.html)
          - На Марсе найдены круглые образования (камни) [(2019 12 05)](https://www.cnet.com/news/nasa-curiosity-rover-spots-fascinating-little-round-items-on-mars/)
       - [InSight Mars Lander ⎆](https://www.nasa.gov/mission_pages/insight/main/index.html)

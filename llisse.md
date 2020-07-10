@@ -21,7 +21,7 @@
 
 ***Targets and investigations:***
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -58,7 +58,7 @@
 
 ## Technology Readiness Level
 
-As of December 2018, the LLISSE project has made notable progress toward its objectives. The capability of the core electronics has been increased by over an order of magnitude since the start of the project less than 2 year ago. Components of some of the important subsystems, like communications, have been developed and proof-of-concepts have been demonstrated. A recent test verified successful integrated operations between driving electronics and the supported sensor. If the project continues on its successful path, it will demonstrate a battery-powered version of a breadboard fidelity probe in late 2019 to early 2020. The system-level demonstration test will be conducted in the NASA Glenn Extreme Environments Rig (GEER), which will replicate Venus surface temperature, pressure, and chemistry. The system is planned to have full functional capability (although not with a flight-like structure and not at the final communication frequency it will have in flight). This demonstration will provide a high degree of confidence that the probe will work on Venus. Final demonstration of full communication capability (operations between 50 and 150 MHz) is planned in the project schedule in 2021. A lower fidelity wind-powered version of LLISSE is also being developed in the same timeframe. 
+As of December 2018, the LLISSE project has made notable progress toward its objectives. The capability of the core electronics has been increased by over an order of magnitude since the start of the project less than 2 year ago. Components of some of the important subsystems, like communications, have been developed and proof-of-concepts have been demonstrated. A recent test verified successful integrated operations between driving electronics and the supported sensor. If the project continues on its successful path, it will demonstrate a battery-powered version of a breadboard fidelity probe in late 2019 to early 2020. The system-level demonstration test will be conducted in the NASA Glenn Extreme Environments Rig (GEER), which will replicate Venus surface temperature, pressure, and chemistry. The system is planned to have full functional capability (although not with a flight‑like structure and not at the final communication frequency it will have in flight). This demonstration will provide a high degree of confidence that the probe will work on Venus. Final demonstration of full communication capability (operations between 50 and 150 MHz) is planned in the project schedule in 2021. A lower fidelity wind-powered version of LLISSE is also being developed in the same timeframe. 
 
 Demonstration full performance for the desired life is expected to occur in the 2019 to 2021 timeframe. Until that happens, LLISSE as a system will be in the TRL 3 to 4 range and relatively high technology risk. 
 
@@ -68,7 +68,7 @@ In the recommended baseline mission, LLISSE serves as a companion to Venera-D in
 
 The remarkable operating life of LLISSE is enabled by three key elements, namely:
 
-   - high-temperature electronics and systems that operate without cooling at Venus surface conditions ([EVN‑094](venus.md));
+   - high‑temperature electronics and systems that operate without cooling at Venus surface conditions ([EVN‑094](venus.md));
    - use of simple instrumentation and supporting avionics with emphasis on low data volume instruments and sensors;
    - minimizing energy utilization through a novel operations approach.
 
@@ -97,7 +97,7 @@ As a power supply, 2 options are offered: a primary battery designed for a worki
 
 The long-lived stations are not expected to have any memory for storing data and measurements are immediately sent to the transmitter for reception by any available communications receiver on the main orbiter or other relay assets such as the small satellites around L1 and/or L2 points (which will likely provide longer communication windows as the planet slowly rotates).
 
-Low-power, high-temperature sensors are being employed ([EVN‑094](venus.md)) to take the periodic meteorology measurements listed above and chemical composition ([EVN‑077](venus.md)). These periodic measurements (assumed to be every 8 hr) would occur over 60 days, covering at least one terminator.
+Low-power, high‑temperature sensors are being employed ([EVN‑094](venus.md)) to take the periodic meteorology measurements listed above and chemical composition ([EVN‑077](venus.md)). These periodic measurements (assumed to be every 8 hr) would occur over 60 days, covering at least one terminator.
 
 
 

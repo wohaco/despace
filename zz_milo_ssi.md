@@ -3,9 +3,9 @@
 
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| … |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 The MILO Institute is a non-profit research collaborative led by Arizona State University, with support from Lockheed Martin and GEOshare, a subsidiary of Lockheed Martin.

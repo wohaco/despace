@@ -159,7 +159,7 @@ The following sessions will be held during the symposium:
 || [Ludmila Zasova](zz_zasova1.md) |  | Venera-D: a perspective planetary mission |
 || [Richard Ernst](zz_ernst1.md) |  | Geological tests of global warming models on Venus |
 || Evgeniya Guseva |  | Morphological analysis of the coronae of Venus |
-|| Vladimir Zharkov & Tamara Gudkova |  | On the structure of the gravitational field for the earth-like interior sructure of Venus |
+|| Vladimir Zharkov & Tamara Gudkova |  | On the structure of the gravitational field for the earth‑like interior sructure of Venus |
 || Vladimir N. Gubenko & Ivan A. Kirillovich |  | Internal waves characteristics in the Venus’s atmosphere revealed from the Magellan & Venus Express radio occultation data by two independent methods |
 || Vladimir Gromov & [Alexander Kosov](zz_kosov1.md) |  | A model of millimeter wave atmospheric absorption of the sulfur dioxide & the sulphuric acid vapour for the radiometric experiment in the Venera-D mission |
 || [Leonid Ksanfomality](zz_ksanfomaliti1.md) |  | Hypothetical living forms on planet Venus & their possible nature |
@@ -191,13 +191,13 @@ The following sessions will be held during the symposium:
 || Olga Nosova |  | Problems of choice of the Lunokhod route for research & exploration of the volatile components in the south polar region of Moon |
 || Sergey Voropaev & A.Yu.Dnestrovskii |  | Features of the Fossil Tidal Bulge Formation for the Early Moon |
 || Sergey Voropaev |  | Experimental Study of degassing of the early Earth & Moon during accretion |
-|| A.G. Fatyanov |  | The focusing effect of p-wave in the Moon’s & Earth’s low-velocity core. Analytical Solution |
+|| A.G. Fatyanov |  | The focusing effect of p-wave in the Moon’s & Earth’s low‑velocity core. Analytical Solution |
 || V. Yu. Burmin |  | On the nature of the seismic ringing of the Moon. Analytical modeling |
 || Arthur Zagidullin |  | Рhysical libration of the moon |
 || Susanne Schröder |  | LIBS for in-situ geochemical investigation of extraterrestrial surfaces of atmosphereless bodies |
 || Ariel Deutsch |  | Investigating diurnal changes in the normal albedo of the lunar surface at 1064 nm: A new analysis with the Lunar Orbiter Laser Altimeter |
 || Jinsong Ping |  | Low frequency radio astronomy experiment on the Moon |
-|| Mingyuan Wang |  | Radio frequency interference of earth based on low-frequency detection of Chang'E 4 |
+|| Mingyuan Wang |  | Radio frequency interference of earth based on low‑frequency detection of Chang'E 4 |
 || Imant Vinogradov & the DLS-L team |  | DLS-L optical sensor for investigation of chemical content & isotope ratio of Moon soil volatiles for the gas chromatography analytical suite of the Luna-27 mission |
 || Ute Böttger |  | Ramanspectrometer for in-situ geochemical investigation of extraterrestrial surfaces of atmosphereless bodies |
 || Vladislav Makovchuk |  | Functional & statistical testing of Thermo-LR surface thermal sensors |
@@ -220,7 +220,7 @@ The following sessions will be held during the symposium:
 || Zanna Rodionova |  | Topographic Features of the lunar maria & bazins |
 || Azariy Barenbaum & Mikhail Shpekin |  | Problems of interpretation of crater data in the Solar System |
 || Svetlana Pugacheva |  | The migration of volatiles in polar region of Mercury |
-|| Anastasia Zharkova |  | Thermal stability of volatiles in low-latitude traps on Mercury |
+|| Anastasia Zharkova |  | Thermal stability of volatiles in low‑latitude traps on Mercury |
 || Anastasia Zharkova & Mariya Kolenkina |  | Patterns in distribution of morphometric parameters of the Moon & Mercury surfaces: mapping at the global level |
 || Anastasia Zharkova & Mikhail Kreslavsky |  | Boulders on the Moon & Mercury: comparative morphological analysis at detail level |
 |•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|

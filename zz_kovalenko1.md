@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Department of Space Flight Dynamics and Data Analysis. Научный сотрудник*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>нетдаты</mark> 1988 ? / … |
 || [![](f/contact/k/kovalenko_001_photo_thumb.jpg)](f/contact/k/kovalenko_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 

@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Princeton Univ.](princeton_univ.md), US. Astrophysical Sciences, Associate Research Scholar (2018)*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* +1(404)824-39-66; *skype* — scfyln |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +1(404)824-39-66; *skype* — scfyln |
 |E‑mail| <dcfy@princeton.edu> |
 |B‑day, addr.| 1984.04.30 (Китай) / Princeton, USA |
 || [![](f/contact/d/dong_001_photo_thumb.jpg)](f/contact/d/dong_001_photo.jpg) <mark>нетподписи</mark> |

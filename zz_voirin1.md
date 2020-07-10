@@ -6,7 +6,7 @@
 |B‑day, addr.| 1978.01.23 / … |
 |E‑mail| <Thomas.Voirin@esa.int> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/v/voirin_001_photo_thumb.jpg)](f/contact/v/voirin_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** …
@@ -17,7 +17,7 @@
    - Git: …
    - Facebook: <https://www.facebook.com/thomas.voirin>
    - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <https://www.linkedin.com/in/thomas-voirin-9b85612/>
+   - LinkedIn: <https://www.linkedin.com/in/thomas‑voirin-9b85612/>
    - Twitter: <https://twitter.com/thomasvoirin>
    - **As a person:**
       1. …

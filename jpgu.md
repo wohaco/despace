@@ -11,7 +11,7 @@
 |:--|:--|
 |E‑mail| <office@jpgu.org> |
 |Link| <http://www.jpgu.org/> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 The **Japan Geoscience Union (JpGU, 公益社団法人日本地球惑星科学連合, 以下)**, is a public interest incorporated association as defined under the Japanese law. We are an academic union that covers all the disciplines of Earth & planetary sciences & related fields. Our main activities are:

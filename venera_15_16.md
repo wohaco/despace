@@ -1,14 +1,14 @@
-# Venera 15, 16
+# Venera 15, 16
 > 2019.12.16 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
 ---
 
-> <small>*Terms:* **Венера-15** — Russian term with no analogues in English. **Venera 15** — English equivalent.</small>
-> <small>**Венера-16** — Russian term with no analogues in English. **Venera 16** — English equivalent.</small>
+> <small>*Terms:* **Венера-15** — Russian term with no analogues in English. **Venera 15** — English equivalent.</small>
+> <small>**Венера-16** — Russian term with no analogues in English. **Venera 16** — English equivalent.</small>
 
-**Venera 15** and **Venera 16** were spacecraft sent to Venus by the Soviet Union. This uncrewed orbiters were to map the surface of Venus using high resolution imaging systems.
+**Venera 15** and **Venera 16** were spacecraft sent to Venus by the Soviet Union. This uncrewed orbiters were to map the surface of Venus using high resolution imaging systems.
 
 ![](f/project/v/venera_15_16/pic01.jpg)
 
@@ -19,8 +19,8 @@
 |**Mission:**|• • •|
 |Cost| … or … kg of [gold](sc_price.md) |
 |Development| 1977-1983 |
-|Duration| **Venera 15:** Overall: 1 year, 1 month, 7 days; At Venus: 9 months<br> **Venera 16:** Overall: 1 year, 1 month; At Venus: 9 months |
-|Launch| **Venera 15:** June 2, 1983, 02:38:39 UTC, Rocket: Proton-K/D-1<br> **Venera 16:** June 7, 1983, 02:32 UTC, Rocket: Proton-K/D-1 |
+|Duration| **Venera 15:** Overall: 1 year, 1 month, 7 days; At Venus: 9 months<br> **Venera 16:** Overall: 1 year, 1 month; At Venus: 9 months |
+|Launch| **Venera 15:** June 2, 1983, 02:38:39 UTC, Rocket: Proton-K/D-1<br> **Venera 16:** June 7, 1983, 02:32 UTC, Rocket: Proton-K/D-1 |
 |Operator| Soviet Academy of Sciences |
 |Programme| Venera programme |
 |Similar to| • Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> • Current: … <br> • Past: [Pioneer Venus 1](pioneer_venus_1.md) |
@@ -30,16 +30,16 @@
 |Comms| 2.6 m HGA, C‑band |
 |Composition| Orbiter |
 |Contractor| … |
-|[ID](spaceid.md)| **Venera 15:** NSSDC ID (COSPAR ID): [1983-053A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-053A), SCN: [14104 ⎆](http://www.n2yo.com/satellite/?s=14104)<br> **Venera 16:** NSSDC ID (COSPAR ID): [1983-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-054A), SCN: [14107 ⎆](http://www.n2yo.com/satellite/?s=14107) |
+|[ID](spaceid.md)| **Venera 15:** NSSDC ID (COSPAR ID): [1983-053A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-053A), SCN: [14104 ⎆](http://www.n2yo.com/satellite/?s=14104)<br> **Venera 16:** NSSDC ID (COSPAR ID): [1983-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-054A), SCN: [14107 ⎆](http://www.n2yo.com/satellite/?s=14107) |
 |Manufacturer| NPO Lavochkin |
-|Mass|**Venera 15** Dry: 2 807 kg ([large satellite](sc.md), [EVN‑073](venus.md))<br> **Venera 16** Dry: 2 780 kg ([large satellite](sc.md), [EVN‑073](venus.md))|
+|Mass|**Venera 15** Dry: 2 807 kg ([large satellite](sc.md), [EVN‑073](venus.md))<br> **Venera 16** Dry: 2 780 kg ([large satellite](sc.md), [EVN‑073](venus.md))|
 |Orbit / Site| Cytherocentric ~ 1 000 × ~ 65 000 km; i = 87.5°; T = 24 h |
 |Payload| Synthetic Aperture Radar, Radar Altimeter, Infrared Fourier Spectrometer, magnetometer, detectors of cosmic rays and solar plasma |
 |Power| … |
 
 Achieved targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -75,9 +75,9 @@ Achieved targets & investigations:
 ## Mission
 Most of the goals set for the Venera Lander series were achieved, so two new space stations equipped with large radar antennas were sent to Venus in 1983 to map the planet’s surface in the radio wave range.
 
-Venera 15 was launched on June 2, 1983 at 02:38:39 UTC and reached Venus’ orbit on October 10, 1983.
+Venera 15 was launched on June 2, 1983 at 02:38:39 UTC and reached Venus’ orbit on October 10, 1983.
 
-Venera 16 was launched on June 7, 1983 at 02: 32: 00 UTC and reached Venus orbit on October 11, 1983.
+Venera 16 was launched on June 7, 1983 at 02: 32: 00 UTC and reached Venus orbit on October 11, 1983.
 
 For each spacecraft, 2 trajectory corrections were made before entering orbit. The orbital planes of these stations were inclined to each other at an angle of about 4°, so that any area missed by one station had to be covered by another.
 
@@ -91,9 +91,9 @@ Mapping and altimetry of the surface usually began at 80° N when moving towar
 
 During the program, several orbit adjustments were made to preserve its period and shape.
 
-Venera 15 in Venus spectroscopy (before the failure of the Infrared Fourier Spectrometer) collected about 1 500 spectral slices. The temperature profile at altitudes from 65 to 90 km, the distribution of small impurities and the dynamics of the atmosphere were determined .
+Venera 15 in Venus spectroscopy (before the failure of the Infrared Fourier Spectrometer) collected about 1 500 spectral slices. The temperature profile at altitudes from 65 to 90 km, the distribution of small impurities and the dynamics of the atmosphere were determined .
 
-In June 1984, Venus was in superior conjunction, and data transmission proved impossible while it was behind the Sun when viewed from Earth. This arrangement of celestial bodies opened the possibility of research on the study of solar and interplanetary plasma. After the passage of superior conjunction, the orbit plane of Venera 16 was rotated 18° relative to the orbit plane of Venera 15 to conduct a topographic survey of the areas missed during superior conjunction, and the map was then completed on July 10.
+In June 1984, Venus was in superior conjunction, and data transmission proved impossible while it was behind the Sun when viewed from Earth. This arrangement of celestial bodies opened the possibility of research on the study of solar and interplanetary plasma. After the passage of superior conjunction, the orbit plane of Venera 16 was rotated 18° relative to the orbit plane of Venera 15 to conduct a topographic survey of the areas missed during superior conjunction, and the map was then completed on July 10.
 
 During the joint operation of the two spacecraft were obtained images of the surface of Venus from 30° N. to the North pole with a resolution of 0.9 to 2.5 km. Installation of processed satellite images allowed to build a map of the Northern hemisphere on a scale of 1:5 000 000, covering 25 % of the planet’s surface (Total area — 115 million km²). The results confirmed that the highest elevations on Venus with a height of more than 4 km are characterized by a significant increase in the radar signal reflected by the planet.
 
@@ -112,7 +112,7 @@ Even if a large object, penetrating the atmosphere of Venus, was destroyed befor
 
 The altimeter provided extensive data on the topography of the Northern hemisphere, which, combined with radar data, allowed to build detailed maps of the surface of Venus ([EVN‑022](venus.md)).
 
-Infrared Fourier Spectrometer on Venera 15 was functioning in orbit for two months, until its failure. Carbon dioxide, water vapor, sulfur dioxide and sulfuric acid aerosols were well distinguished on the spectra ([EVN‑014](venus.md)). These data confirmed that in the upper cloud layer, most particles consist of 75 — 85 % sulfuric acid solution ([EVN‑018](venus.md)). Aerosol distribution and relative concentrations of sulfur dioxide ([EVN‑009](venus.md)) and water vapor were measured at altitudes between 105 and 60 km. The thermal structure and optical properties of the atmosphere were also determined in the same altitude range. Clouds were observed at altitudes from 70 to 47 km, but in the polar region their upper boundary was located 5 — 8 km below, and the atmosphere above 60 km was warmer than in the Equatorial region. There were no features in the spectrum that would suggest the presence of organic compounds ([EVN‑053](venus.md)).
+Infrared Fourier Spectrometer on Venera 15 was functioning in orbit for two months, until its failure. Carbon dioxide, water vapor, sulfur dioxide and sulfuric acid aerosols were well distinguished on the spectra ([EVN‑014](venus.md)). These data confirmed that in the upper cloud layer, most particles consist of 75 — 85 % sulfuric acid solution ([EVN‑018](venus.md)). Aerosol distribution and relative concentrations of sulfur dioxide ([EVN‑009](venus.md)) and water vapor were measured at altitudes between 105 and 60 km. The thermal structure and optical properties of the atmosphere were also determined in the same altitude range. Clouds were observed at altitudes from 70 to 47 km, but in the polar region their upper boundary was located 5 — 8 km below, and the atmosphere above 60 km was warmer than in the Equatorial region. There were no features in the spectrum that would suggest the presence of organic compounds ([EVN‑053](venus.md)).
 
 
 
@@ -183,7 +183,7 @@ The spectrometer provided a higher spectral resolution than the infrared radiome
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-Venera 15 and Venera 16 were built on the basis of 4MV (variant 4V-2), but has been modified.
+Venera 15 and Venera 16 were built on the basis of 4MV (variant 4V-2), but has been modified.
 
 The body of spacecraft was lengthened by 1 m to accommodate additional fuel to propel the spacecraft into orbit around Venus. The mass of nitrogen for the orientation control system increased from 36 to 114 kg. two more solar panels were added to the outer side to provide power to the radar. Thus, the total area of solar panels has been increased by 70 %. The diameter of the parabolic antenna was increased by 1 m, bringing it to 2.6 m, and the data rate increased from 6 to 108 Kb/s. A new 5 cm band telemetry system (C‑band) was used to communicate with ground stations equipped with 64 and 70 m antennas. The main engine (KRD-425A) is encircled by a conical instrument compartment with the diameter of 2.35 m at the base.
 
@@ -191,7 +191,7 @@ Structurally, the spacecraft were identical to previous spacecraft. The body was
 
 Synthetic Aperture Radar was necessary in this mission because nothing else would be able to penetrate the dense clouds of Venus ([EVN‑078](venus.md)). The spacecraft were equipped with on board computers that saved the images until the entire image was complete. This radar system replaced the normal Landers that previous Venera spacecraft brought to Venus ([EVN‑005](venus.md)).
 
-General view of the spacecraft Venera 15 and Venera 16 with radar equipment in the image below.
+General view of the spacecraft Venera 15 and Venera 16 with radar equipment in the image below.
 
 ![](f/project/v/venera_15_16/pic04.jpg)
 

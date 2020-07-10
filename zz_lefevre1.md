@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Oxford Univ.](oxford_univ.md), EU. Atmosphere Ocean & Planet Physics. Planetary scientist currently post-doctoral research assistent*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <maxence.lefevre@physics.ox.ac.uk>, <maxence.lefevre@lmd.jussieu.fr> |
 |B‑day, addr.| 1991.10.01 (Руан, Франция) / Париж, Франция |
 || [![](f/contact/l/lefevre_001_photo_thumb.jpg)](f/contact/l/lefevre_001_photo.jpg) <mark>нетподписи</mark> |

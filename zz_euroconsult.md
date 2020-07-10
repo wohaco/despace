@@ -3,7 +3,7 @@
 
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*86 Boulevard de Sebastopol, 75003 Paris, France*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.euroconsult-ec.com/><br> <https://www.linkedin.com/company/euroconsult/> |
 |Tel| +33(149)23-75-30, fax: … |
 |Etc| … |

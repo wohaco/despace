@@ -316,13 +316,13 @@ See also section “[Projects](project.md)”.
       - (4) Materials for Venus
       - (12) Human on Venus
    - Despace hypothetical:
-      - [VGV](hptc_vgv.md)
-      - [DSVSD](hptc_dsvsd.md)
+      - [VGV](hptc_vgv.md) — Venus soil sample return using current technologies.
+      - [DSVSD](hptc_dsvsd.md) — a bunch of technologies needed for a long‑lasting Venus surface presence.
 
 |*Type*|*Unit*|
 |:--|:--|
-| **Fly‑bys** | Europa Clipper ┊ Mercury-P ┊ Laplace-P ┊ NASA Uranus orbiter & probe |
-| **Missions** | HAVOC ┊ HOVER ┊ VICI ┊ VISAGE ┊ VISE |
+| **Fly‑bys** | [Europa Clipper](europa_clipper.md) ┊ Mercury-P ┊ Laplace-P ┊ NASA Uranus orbiter & probe |
+| **Missions** | [HAVOC](havoc.md) ┊ [HOVER](hover.md) ┊ [VICI](vici.md) ┊ [VISAGE](visage.md) ┊ [VISE](vise.md) |
 | **Rovers** | [AREE](aree.md) (concept of 2016) ┊ [Zephyr](zephyr.md) (concept of 2012) |
 | **Standalone** | [LLISSE](llisse.md) ┊ [MEVC](mevc.md) ┊ [SAEVe](saeve.md) ┊ [Solar Aircraft](solar_aircraft.md) by GRC ┊ [VAMP](vamp.md) |
 
@@ -331,11 +331,11 @@ See also section “[Projects](project.md)”.
 <p style="page-break-after:always"> </p>
 
 ## Science & tech targets
-Just a preliminary list of the Venus targets/explorations. Based on [VEXAG ⎆](https://www.lpi.usra.edu/vexag/), Venera‑D work‑group (LAV, IKI RAS, NASA, etc.) and anyone who can. The idea is to prepare a brief systematized list of the Venus targets & explorations of the retired, active, proposed SC suitable for scientists, & engineers, & managers, & passers by. The one which is able in the same time to tell about what was done & in what volume, what is processing now & why it’s so cool, what is proposed & why it’s so important. Something like a bridge between scientists & other humanity just to show that all of these complex scientific terms can be described with some statistic terms without a need to read a lot of literature or trust their words. Soon there will be something new, for example, links between targets/explorations, SC, & a couple of brief description of the each one current state.
+Just a preliminary list of the Venus targets/explorations. Based on [VEXAG ⎆](https://www.lpi.usra.edu/vexag/), Venus missions/units proposals, and anyone who can. The idea is to prepare a brief systematized list of the Venus targets & explorations of the retired, active, proposed SC suitable for scientists, & engineers, & managers, & passers by. The one which is able in the same time to tell about what was done & in what volume, what is processing now & why it’s so cool, what is proposed & why it’s so important. Something like a bridge between scientists & other humanity just to show that all of these complex scientific terms can be described with some statistic terms without a need to read a lot of literature or trust their words. Soon there will be something new, for example, links between targets/explorations, SC, & a couple of brief description of the each one current state.
 
 Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief — 97 targets in total (34 tech., 63 scientific) consisting of: 33 never occured (19 tech., 14 scientific), 57 was tried (11 tech., 46 scientific), 7 mostly done (4 tech., 3 scientific). Comments:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -430,7 +430,7 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 |EVN‑025||Surface: morphology|  |C|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
 |EVN‑045||Surface: nature of the tessera|  ||D||||
-|EVN‑062|T|Surface: obtaining & analysis of the surface samples|  |C||||S|
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places|  |C||||S|
 |EVN‑063|T|Surface: panoramic imaging|  |C|||||
 |EVN‑085|T|Surface: tessera investigations, remote|  ||D|F|||
 |EVN‑076||Surface: volcanoes, their presence|  ||D|F|||
@@ -604,7 +604,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Mariner‑2](mariner_2.md)** (1962.08.27). 1st Venusian observation. Found a hot surface & cool clouds.
    1. **[Venera‑4](venera_4.md)** (1967.06.12). Direct measurements proving the hot surface. The SC was destroyed at 262 °C & 2.2 MPa, the atmo density was higher than expected. Atmo composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %.
-   1. **[Mariner‑5](mariner_5.md)** (1967.06.14). Radio occultation data helped to understand the temp./pres. data from the Venera 4, so Venus have a very hot surface & the very dense atmo.
+   1. **[Mariner‑5](mariner_5.md)** (1967.06.14). Radio occultation data helped to understand the temp./pres. data from the Venera 4, so Venus have a very hot surface & the very dense atmo.
    1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Landers during the descent (55 ‑ 18 km) measured the temperature (25 ‑ 320 °C), pressure (0.05 ‑ 2.7 MPa), illumination, chemical composition: CO₂ 97 %, N₂ 2 %, O₂  ≤ 1 %, H₂O traces.
    1. **[Venera‑7](venera_7.md)** (1970.08.17). Found the 474 °C & 9.2 MPa, & the atmo is CO₂ 97 %.
    1. **[Venera‑8](venera_8.md)** (1972.03.27). 1st atmo high‑altitude profile, wind speed & luminous flux in H = 55 ‑ 0 km. This explained the nature of high temperature due to the greenhouse effect & the presence of a sub‑cloud haze, & estimated the location of clouds.
@@ -680,9 +680,9 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Mariner‑2](mariner_2.md)** (1962.08.27). Flew past Venus 1962.12.14. Scanned with radiometers, finding that Venus have relatively cool clouds & an extremely hot surface.
    1. **[Zond‑1](zond_1.md)** (1964.04.02). Fly‑by at a distance of 100 000 km from Venus on 1964.07.19. Measured the interplanetary plasma, cosmic rays & density of atomic H lines.
    1. **[Venera‑2](venera_2_3.md)** (1965.11.12), **[Venera‑3](venera_2_3.md)** (1965.11.16). Venera 2 closest approach: 23 810 km, Venera 3 — 60 550 km. Both SC failed & didn’t transmit any data of Venus, but only data of space & near‑planetary space in the calm Sun year.
-   1. **[Mariner‑5](mariner_5.md)** (1967.06.14). Closest approach: October 19, 3 990 km. Obtained radio occultation data helped to understand the temp./pres. data from the Venera 4, so it was clear that Venus have a very hot surface & very dense atmo.
+   1. **[Mariner‑5](mariner_5.md)** (1967.06.14). Closest approach: October 19, 3 990 km. Obtained radio occultation data helped to understand the temp./pres. data from the Venera 4, so it was clear that Venus have a very hot surface & very dense atmo.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Closest approach: 5 768 km. 1st Venus image, showing an illuminated arc of clouds over the north; 4 165 images in total. Measured the atmo, its composition, clouds, their structure, & magnetosphere.
-   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Acted as a comms relay for the lander & explored cloud layers & atmo parameters. The Venera 9 entered Venus orbit on 1975.10.20, Venera 10 — 1975.10.23.
+   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Acted as a comms relay for the lander & explored cloud layers & atmo parameters. The Venera 9 entered Venus orbit on 1975.10.20, Venera 10 — 1975.10.23.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Venus orbit insertion: 1978.12.04. 1st radar topographic map: 80 % of the surface; found traces of the tectonic activity. Measured the detailed structure of the upper atmo, dynamics of the cloud cover & 4‑day superrotation. Observed Halley’s Comet.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Measured the upper atmo; origin & long‑term development, dynamics, energy balance & the influence of solar radiation & interplanetary space, interaction between the solar wind & Venus, photochemistry & heat distribution.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Closest approach: 35 000 km, transmitted data to Earth from the lander throughout the descent & the surface.
@@ -713,8 +713,8 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑8](venera_8.md)** (1972.03.27). Accurate in situ measurements of temp./pres. on the surface for 50 min 11 s, the light level was almost constant (~ twilight on a Earth’s cloudy day), found a relatively clean atmo below the clouds. The surface composition was similar to Alkali basalt.
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). 1st images from the surface of another planet: smooth with numerous stones, pancake shape lava & weathered rocks, 14 000 lux. Measured the surface wind speed (3.5 m/s), atmo temp./pres., light levels.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Two landers survived the impact of the surface, & one of them transmitted data for 67 min.
-   1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Venera 11 lasted for 95 min (458 ± 5 °C & 9.1 ± 0.2 MPa), Venera 12 (468 ± 5 °C & 9.2 ± 0.2 MPa) — 110 min. Obtained soil samples, but the analysis couldn’t be performed; cameras were damaged.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Venera 13 lasted for 127 min (457 °C & 8.9 MPa), Venera 14 — 57 min (465 °C & 9.4 MPa). Imaging panorama, soil samples are similar to the oceanic tholeiitic basalts, atmo noise records for wind speed calculations (0.3 ‑ 0.5 m/s).
+   1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Venera 11 lasted for 95 min (458 ± 5 °C & 9.1 ± 0.2 MPa), Venera 12 (468 ± 5 °C & 9.2 ± 0.2 MPa) — 110 min. Obtained soil samples, but the analysis couldn’t be performed; cameras were damaged.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Venera 13 lasted for 127 min (457 °C & 8.9 MPa), Venera 14 — 57 min (465 °C & 9.4 MPa). Imaging panorama, soil samples are similar to the oceanic tholeiitic basalts, atmo noise records for wind speed calculations (0.3 ‑ 0.5 m/s).
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Vega‑1 failed. Vega‑2 researched the surface for 56 min, collected soil & X‑ray fluorescence spectra of the rocks.
    1. ••• **Future/proposed missions:** •••
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). 1 orbiter, 2 balloons, 2 landers on different terrains. Landers to perform high‑fidelity analysis of the elemental & mineralogical content of rocks & soils on & beneath the surface, & hi‑res panoramic images.
@@ -1551,13 +1551,13 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 <p style="page-break-after:always"> </p>
 
-**EVN‑062 (Т).** Surface: obtaining & analysis of the surface samples.
+**EVN‑062 (Т).** Surface: samples obtaining & analysis, incl. in different places.
 
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Drilled a soil sample, & feed it through a pressure reduction system to an X‑ray fluorescence spectrometer. The penetrometers & analyzing systems failed on both landers.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 °C, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids similar to oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 °C, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids like an oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). VEGA‑2 collected soil & X‑ray fluorescence spectra of the Venusian rock.
    1. ••• **Future/proposed missions:** •••
-      1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). High‑res panoramic images of the landing sites would provide geologic context for the landing & sampling sites.
+      1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To take soil samples from 2 different sites.
 
 
 
@@ -1643,7 +1643,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <p style="page-break-after:always"> </p>
 
 **EVN‑069 (Т).** Prolonged surface-spacecraft functioning.  
-<small>(≤ 3 h — the onboard equipment isolation in a titan container with outer isolation layer & inner heat accumulator (sulfuric acid lithium on Venera 8 ‑ 16); 3 ‑ 5 h — the OE in the titan dewar (analysis in SU in 1985 after the Venera‑15/16 & Vega‑1/2, & US in 2007 in VFM); ≥ 5 h — to use high‑temperature electronics)</small>
+<small>(≤ 3 h — the onboard equipment isolation in a titan container with outer isolation layer & inner heat accumulator (sulfuric acid lithium on Venera 8 ‑ 16); 3 ‑ 5 h — the OE in the titan dewar (analysis in SU in 1985 after the Venera‑15/16 & Vega‑1/2, & US in 2007 in VFM); ≥ 5 h — to use high‑temperature electronics)</small>
 
    1. None.
    1. ••• **Future/proposed missions:** •••
@@ -1995,7 +1995,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Detected the lower cloud layers of H₂O vapor & higher than expected concentration of molecular O, concluding there were more water in the past.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Measured the rate of escape & confirmed that roughly twice as much H as O is escaping, confirmation that water is the source of these escaping ions.
    1. ••• **Future/proposed missions:** •••
-      1. **[Venus Observing System](venus_observing_system.md)** (…). To determine the loss rate of water from Venus over its history. Reliable measurements of the atmo escape over time are needed to estimate the quantity of surface water in the past. To provide a incoming solar wind measurements, & the plasma tail, the escaping ion flux sampling.
+      1. **[Venus Observing System](venus_observing_system.md)** (…). To determine the water loss rate over Venus history, the atmo escape over time, the surface water quantity in the past, an incoming solar wind, & the plasma tail, the escaping ion flux sampling.
 
 
 
@@ -2136,5 +2136,6 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
    1. <https://en.wikipedia.org/wiki/Mapping_of_Venus>
    1. <https://www.kiss.caltech.edu/workshops/venus/venus.html>
+
    1. 2016.07.25 [КА, способный выжить в аду Венеры ⎆](http://www.bbc.com/russian/vert-fut-36856774) — [archive ❐](f/aob/venus/20160725_001_created_20170930_saved.djvu) of 2017.09.30
    1. 2017.04.06 [РКС о миссиях СССР к Венере/Марсу ⎆](http://russianspacesystems.ru/2017/04/06/venera/) — [archive ❐](f/aob/venus/20170406_001_created_20171020_saved.djvu) of 2017.10.20

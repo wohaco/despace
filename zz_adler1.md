@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Physicist, Mathematician, Electrical Engineer, Rocket Scientist, Computer Programmer*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <madler@alumni.caltech.edu> |
 |B‑day, addr.| 1959.04.03 Miami, US / … |
 || [![](f/contact/a/adler_001_photo_thumb.jpg)](f/contact/a/adler_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <admin@maritimelaunch.com> |
 |Link| <https://www.maritimelaunch.com/><br> <https://en.wikipedia.org/wiki/Maritime_Launch_Services> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 **Maritime Launch Services (MLS)** is a Canadian space transport services company founded in 2016 & headquartered in Nova Scotia, Canada. MLS will rely on Ukrainian Cyclone-4M rockets by Yuzhnoye to launch polar & sun synchronous orbit from [Canso, Nova Scotia](canso.md). MLS is a joint venture of three U.S.-based firms.

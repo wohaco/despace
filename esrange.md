@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Esrange Space Center** (short form **Esrange**) — English term with no analogues in Russian. **Космический центр Эсрейндж** — literal translation to Russian.</small>
 
-**Esrange** — is a rocket range and research centre located about 40 km east of the town of Kiruna in northern Sweden and 200 km north of the Arctic Circle. It is a base for scientific research with high-altitude balloons, investigation of the aurora borealis, sounding rocket launches, and satellite tracking.
+**Esrange** — is a rocket range and research centre located about 40 km east of the town of Kiruna in northern Sweden and 200 km north of the Arctic Circle. It is a base for scientific research with high‑altitude balloons, investigation of the aurora borealis, sounding rocket launches, and satellite tracking.
 
 The name of the facility was originally ESRANGE, which was an abbreviation for ESRO Sounding Rocket Launching Range.
 

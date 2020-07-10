@@ -5,7 +5,8 @@
 
 ---
 
-> <small>*Terms:* **Венера-1 (Венера-1VA №2; Спутник 8)** — Russian term with no analogues in English. **Venera 1 (Venera 1VA No.2; Sputnik 8)** — English equivalent.</small>
+> <small>*Terms:* **Венера-1 (Венера-1VA №2; Спутник 8)** — Russian term with no analogues in English. **Venera 1 (Venera 1VA No.2; Sputnik 8)** — literal translation to English.</small>
+
 
 **Venera 1 (Венера‑1)**, also known as **Venera‑1VA No.2** and occasionally in the West as **Sputnik 8** was the first spacecraft to Venus, as part of the Soviet Union’s Venera programme. There were obtained some characteristics of the solar wind’s plasma near the Earth. Signal with SC was lost after 7 days of flight; theoretically SC fly by Venus at 100 000 km distance.
 
@@ -22,7 +23,7 @@
 |Launch| 1961.02.12 00:34:36 UTC, LV Molniya 8K78 |
 |Operator| OKB-1 |
 |Programme| Venera programme |
-|Similar to| • Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • Past: Luna 2 |
+|Similar to| • Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • Past: Luna 2 |
 |Target| Exploring of the Venus |
 |[Type](sc.md)| Venus impactor |
 |**Spacecraft:**|• • •|
@@ -38,7 +39,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -48,9 +49,9 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑005|T|Exploration: from Venusian orbit|  |D||F|||
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites|  |D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|  |D||F|||
 
 </small>
 
@@ -59,20 +60,20 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-Venera 1 was the second of two attempts to launch a spacecraft to Venus in February 1961, immediately following the launch of its sister ship Venera‑1VA No.1, which failed to leave Earth orbit. Soviet experts launched Venera‑1 using a Molniya carrier rocket from the Baikonur Cosmodrome. The launch took place at 00:34:36 UTC on 12 February 1961.
+Venera 1 was the second of two attempts to launch a spacecraft to Venus in February 1961, immediately following the launch of its sister ship Venera‑1VA No.1, which failed to leave Earth orbit. Soviet experts launched Venera‑1 using a Molniya carrier rocket from the [Baikonur Cosmodrome](baikonur.md). The launch took place 1961.02.12 at 00:34:36 UTC.
 
 The spacecraft, along with the rocket’s Blok‑L upper stage, were initially placed into a 229 × 282 km low Earth orbit, before the upper stage fired to place Venera 1 into a heliocentric orbit, directed towards Venus. The 11D33 engine was the world’s first staged‑combustion‑cycle rocket engine, and also the first use of an ullage engine to allow a liquid‑fuel rocket engine to start in space.
 
-Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic‑ray data near Earth ([EVN‑097](venus.md)), at the Earth’s Magnetopause, and on February 19 at a distance of 1 900 000 km. After discovering the solar wind with Luna 2, Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On May 19, 1961, Venera 1 passed within 100 000 km of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar‑direction sensor.
+Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic‑ray data near Earth ([EVN‑097](venus.md)), at the Earth’s Magnetopause, and on February 19 at a distance of 1 900 000 km. After discovering the solar wind with [Luna 2](luna_2.md), Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On 1961.05.19 Venera 1 passed within 100 000 km of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar‑direction sensor.
 
 
 
 <p style="page-break-after:always"> </p>
 
 ## Science goals & payload
-The main task of Venera 1 was to enter the atmosphere of Venus landing on the surface or water.
+The main task of Venera 1 was to enter the atmosphere of Venus landing on the surface or water.
 
-Venera 1 — spacecraft, designed to explore the planet Venus.
+Venera 1 — spacecraft, designed to explore the planet Venus.
 
    - flux‑gate magnetometer;
    - Geiger counter tubes;
@@ -93,11 +94,11 @@ The lander was equipped with scientific instruments including a flux‑gate magn
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-Venera 1 was a 643.5 kg spacecraft consisting of a cylindrical body 1.05 m in diameter topped by a dome, totalling 2.035 m in height. This was pressurized to 1.2 atm with dry nitrogen, with internal fans to maintain even distribution of heat. Two solar panels extended from the cylinder, charging a bank of silver‑zinc batteries. A 2 m parabolic wire‑mesh antenna was designed to send data from Venus to Earth on a frequency of 922.8 MHz. A 2.4 m antenna boom was used to transmit short‑wave signals during the near‑Earth phase of the mission. Semidirectional quadrupole antennas mounted on the solar panels provided routine telemetry and telecommand contact with Earth during the mission, on a circularly‑polarized decimetre radio band.
+Venera 1 was a 643.5 kg spacecraft consisting of a cylindrical body 1.05 m in diameter topped by a dome, totalling 2.035 m in height. This was pressurized to 1.2 atm with dry nitrogen, with internal fans to maintain even distribution of heat. Two solar panels extended from the cylinder, charging a bank of silver‑zinc batteries. A 2 m parabolic wire‑mesh antenna was designed to send data from Venus to Earth on a frequency of 922.8 MHz. A 2.4 m antenna boom was used to transmit short‑wave signals during the near‑Earth phase of the mission. Semidirectional quadrupole antennas mounted on the solar panels provided routine telemetry and telecommand contact with Earth during the mission, on a circularly‑polarized decimetre radio band.
 
 An experiment attached to one solar panel measured temperatures of experimental coatings. Infrared and/or ultraviolet radiometers may have been included. The dome contained a KDU‑414 engine used for mid‑course corrections. Temperature control was achieved by motorized thermal shutters.
 
-During most of its flight, Venera 1 was spin stabilized. It was the first spacecraft designed to perform mid‑course corrections, by entering a mode of 3‑axis stabilization, fixing on the Sun and the star Canopus. Had it reached Venus, it would have entered another mode of 3‑axis stabilization, fixing on the Sun and Earth, and using for the first time a parabolic antenna to relay data.
+During most of its flight, Venera 1 was spin stabilized. It was the first spacecraft designed to perform mid‑course corrections, by entering a mode of 3‑axis stabilization, fixing on the Sun and the star Canopus. Had it reached Venus, it would have entered another mode of 3‑axis stabilization, fixing on the Sun and Earth, and using for the first time a parabolic antenna to relay data.
 
 
 
@@ -108,13 +109,13 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spacec
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Mstislav Vsevolodovich Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) a Soviet scientist in the field of mathematics and mechanics.
-      1. [Sergei Pavlovich Korolev](zz_korolev1.md) (Сергей Павлович Королёв) a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
+      1. [Mstislav Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) a Soviet scientist in the field of mathematics and mechanics.
+      1. [Sergei Korolev](zz_korolev1.md) (Сергей Павлович Королёв) a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
-      1. Alla Genrikhovna Masevich (Алла Генриховна Масевич) a Soviet astronomer.
-      1. Boris Evseyevich Chertok (Борис Евсеевич Черток) a Russian electrical engineer and the control systems designer in the Soviet Union’s space program, and later the Roscosmos in Russia.
+      1. Alla Masevich (Алла Генриховна Масевич) a Soviet astronomer.
+      1. Boris Chertok (Борис Евсеевич Черток) a Russian electrical engineer and the control systems designer in the SU space program, and later the Roscosmos in Russia.
       1. Alfred Charles Bernard Lovell an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft’s disoriented nondirectional antenna.
-      1. Yuli Konstantinovich Khodarev (Юлий Константинович Ходарев) — developer of satellite communication systems (inc. Venera 1).
+      1. Yuli Khodarev (Юлий Константинович Ходарев) — developer of satellite communication systems (inc. Venera 1).
 
 **COMMUNITY:**
 
@@ -133,10 +134,9 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spacec
 
 **Docs:**
 
-   1. П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.: ил.
+   1. П.С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.: ил.
 
 **Links:**
 
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_1>
-   1. <https://ru.wikipedia.org/wiki/Венера-1>

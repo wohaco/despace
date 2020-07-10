@@ -6,7 +6,7 @@
 |B‑day, addr.| 1994.08.01 (Troy, Michigan, USA) / … |
 |E‑mail| <radke@jhu.edu>, <michael.radke@case.edu> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark>, skype: michael.j.radke |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark>, skype: michael.j.radke |
 || [![](f/contact/r/radke_001_photo_thumb.jpg)](f/contact/r/radke_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** PhD student with a background in geology & chemistry.

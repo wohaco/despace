@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), RU. Специалист по аэрокосмическим вопросам московского офиса НАСА*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1960.05.15 (Москва, РФ) / … |
 || ![](f/contact/m/maroko_001_animated.gif) <mark>нетподписи</mark> |
 

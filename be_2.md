@@ -6,7 +6,7 @@
 ---
 
 **BE-7** — жидкостной 2‑компонентный [двигатель](ps.md) производства [Blue Origin](blue_origin.md).  
-BE-7 is an additively manufactured, high-performance, dual-expander cycle engine.
+BE-7 is an additively manufactured, high‑performance, dual-expander cycle engine.
 
 <small>
 

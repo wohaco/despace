@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*UMD, US. Профессор*|
 |:--|:--|
 |B‑day, addr.| 1932.12.26 Москва, СССР / … |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| Sagdeev, Roald Zinnurovich |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/s/sagdeev_001_photo_thumb.jpg)](f/contact/s/sagdeev_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** Академик РАН (1991, академик АН СССР с 1968 года, член‑корреспондент АН СССР с 1964 года). Доктор физико‑математических наук.

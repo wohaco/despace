@@ -33,12 +33,12 @@
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): 1989-084B, SCN: 20298 |
 |Mass| **Dry mass**<br> Orbiter: 1 884 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)); Lander: 339 kg ([Minisatellite](спутник.md), [EVN‑070](venus.md)) |
 |Orbit / Site| Kronocentric |
-|Payload| Orbiter: Solid-state imaging camera, near‑infrared mapping spectrometer, ultlaviolet spectrometer, photopolarimeter radiometer, energetic particles detector, plasma investigation, plasma wave subsystem, dust detector, heavy ion counter |
+|Payload| Orbiter: Solid‑state imaging camera, near‑infrared mapping spectrometer, ultlaviolet spectrometer, photopolarimeter radiometer, energetic particles detector, plasma investigation, plasma wave subsystem, dust detector, heavy ion counter |
 |Power| Orbiter: 570 W; Lander: 730 W/h |
 
 Targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -63,7 +63,7 @@ Galileo flew by Venus at 05:58:48 UTC on February 10, 1990, at a range of 16 1
 
 On April 11, 1991, the controllers sent a command for Galileo to unfurl the high‑gain antenna. The antenna failed to open when the signal was sent. A fault analysis determined that some of the antenna’s «ribs» got stuck. To correct this error, an algorithm was developed to compress data for transmission to Earth so that Galileo could send full data to Earth.
 
-Galileo performed a second flyby of Earth at 303.1 km at 15:09:25 UTC on December 8, 1992, adding 13 320 km/h to its cumulative speed. Galileo performed close observations of a second asteroid, 243 Ida, at 16:51:59 UTC on August 28, 1993, at a range of 2 410 km. The spacecraft discovered Ida has a moon, Dactyl, the first discovery of a natural satellite orbiting an asteroid.
+Galileo performed a second fly‑by of Earth at 303.1 km at 15:09:25 UTC on December 8, 1992, adding 13 320 km/h to its cumulative speed. Galileo performed close observations of a second asteroid, 243 Ida, at 16:51:59 UTC on August 28, 1993, at a range of 2 410 km. The spacecraft discovered Ida has a moon, Dactyl, the first discovery of a natural satellite orbiting an asteroid.
 
 |![](f/project/g/galileo/gaspra.jpg)|![](f/project/g/galileo/ida.jpg)|
 |:--|:--|
@@ -74,7 +74,7 @@ One of Galileo’s first science targets was Comet Shoemaker-Levy 9. Jupiter’s
 Galileo was still flying at Jupiter when on July 13, 1995, it released a probe to smack the planet’s atmosphere in December. When the probe finished its descent, NASA was surprised at its measurements of helium — half of what they expected — and the dryness of the region in which the probe flew. After releasing its atmospheric probe, the Galileo Orbiter became the first man-made satellite of Jupiter at 01:16 UTC on December 8, 1995, after it fired its main engine to enter a 198 day parking orbit.
 
 
-The spacecraft traveled around Jupiter in elongated ellipses, each orbit lasting about two months. The differing distances from Jupiter afforded by these orbits allowed Galileo to sample different parts of the planet’s extensive magnetosphere. The orbits were designed for close-up flybys of Jupiter’s largest moons. Once the prime mission concluded, an extended mission started on December 7, 1997; the spacecraft made several flybys of Europa and Io. The closest approach was 180 km on October 15, 2001. The radiation environment near Io was very unhealthy for Galileo’s systems, and so these flybys were saved for the extended mission when loss of the spacecraft would be more acceptable. Galileo’s cameras were deactivated on January 17, 2002, after they had sustained irreparable radiation damage. NASA engineers were able to recover the damaged tape recorder electronics, and Galileo continued to return scientific data until it was deorbited, performing one last scientific experiment: a measurement of the moon Amalthea’s mass as the spacecraft swung by it.
+The spacecraft traveled around Jupiter in elongated ellipses, each orbit lasting about two months. The differing distances from Jupiter afforded by these orbits allowed Galileo to sample different parts of the planet’s extensive magnetosphere. The orbits were designed for close-up fly‑bys of Jupiter’s largest moons. Once the prime mission concluded, an extended mission started on December 7, 1997; the spacecraft made several fly‑bys of Europa and Io. The closest approach was 180 km on October 15, 2001. The radiation environment near Io was very unhealthy for Galileo’s systems, and so these fly‑bys were saved for the extended mission when loss of the spacecraft would be more acceptable. Galileo’s cameras were deactivated on January 17, 2002, after they had sustained irreparable radiation damage. NASA engineers were able to recover the damaged tape recorder electronics, and Galileo continued to return scientific data until it was deorbited, performing one last scientific experiment: a measurement of the moon Amalthea’s mass as the spacecraft swung by it.
 
 |![](f/project/g/galileo/galileo_europa_mission_and_prime_mission_tours.png)|
 |:--|
@@ -102,7 +102,7 @@ After completing 35 orbits around Jupiter throughout a nearly eight-year mission
 |:--|:--|
 |***Animation of ’s trajectory around Jupiter from August 1, 1995, to September 30, 2003***||
 
-On December 11, 2013, NASA reported, based on results from the Galileo mission, the detection of «clay-like minerals» (specifically, phyllosilicates), often associated with organic materials, on the icy crust of Europa. The presence of the minerals may have been the result of a collision with an asteroid or comet, according to the scientists.
+On December 11, 2013, NASA reported, based on results from the Galileo mission, the detection of «clay‑like minerals» (specifically, phyllosilicates), often associated with organic materials, on the icy crust of Europa. The presence of the minerals may have been the result of a collision with an asteroid or comet, according to the scientists.
 
 **Images of Jupiter’s moons taken by Galileo**
 
@@ -115,7 +115,7 @@ On December 11, 2013, NASA reported, based on results from the Galileo mission, 
 ## Science goals & payload
 ![](f/project/g/galileo/payload.jpg)
 
-Scientific instruments to measure fields and particles were mounted on the spinning section of the spacecraft, together with the main antenna, power supply, the propulsion module and most of Galileo’s computers and control electronics. The sixteen instruments, weighing 118 kg altogether, included magnetometer sensors mounted on an 11 m boom to minimize interference from the spacecraft; a plasma instrument for detecting low-energy charged particles and a plasma-wave detector to study waves generated by the particles; a high-energy particle detector; and a detector of cosmic and Jovian dust. It also carried the Heavy Ion Counter, an engineering experiment to assess the potentially hazardous charged particle environments the spacecraft flew through, and an extreme ultraviolet detector associated with the UV spectrometer on the scan platform.
+Scientific instruments to measure fields and particles were mounted on the spinning section of the spacecraft, together with the main antenna, power supply, the propulsion module and most of Galileo’s computers and control electronics. The sixteen instruments, weighing 118 kg altogether, included magnetometer sensors mounted on an 11 m boom to minimize interference from the spacecraft; a plasma instrument for detecting low‑energy charged particles and a plasma-wave detector to study waves generated by the particles; a high‑energy particle detector; and a detector of cosmic and Jovian dust. It also carried the Heavy Ion Counter, an engineering experiment to assess the potentially hazardous charged particle environments the spacecraft flew through, and an extreme ultraviolet detector associated with the UV spectrometer on the scan platform.
 
 The despun section’s instruments included the camera system; the near infrared mapping spectrometer to make multi-spectral images for atmospheric and moon surface chemical analysis; the ultraviolet spectrometer to study gases; and the photopolarimeter-radiometer to measure radiant and reflected energy. The camera system was designed to obtain images of Jupiter’s satellites at resolutions 20 to 1 000 times better than Voyager’s best, because Galileo flew closer to the planet and its inner moons, and because the more modern CCD sensor in Galileo’s camera was more sensitive and had a broader color detection band than the vidicons of Voyager.
 ### Orbiter
@@ -157,7 +157,7 @@ The despun section’s instruments included the camera system; the near infrared
 
 |||
 |:--|:--|
-|The EPD was designed to measure the numbers and energies of ions and electrons whose energies exceeded about 20 keV (3.2 fJ). The EPD could also measure the direction of travel of such particles and, in the case of ions, could determine their composition (whether the ion is oxygen or sulfur, for example). The EPD used silicon solid-state detectors and a time-of-flight detector system to measure changes in the energetic particle population at Jupiter as a function of position and time. These measurements helped determine how the particles got their energy and how they were transported through Jupiter’s magnetosphere. The EPD weighed 10.5 kg and used 10.1 W of power on average.|![](f/project/g/galileo/epd.jpg)|
+|The EPD was designed to measure the numbers and energies of ions and electrons whose energies exceeded about 20 keV (3.2 fJ). The EPD could also measure the direction of travel of such particles and, in the case of ions, could determine their composition (whether the ion is oxygen or sulfur, for example). The EPD used silicon solid‑state detectors and a time-of-flight detector system to measure changes in the energetic particle population at Jupiter as a function of position and time. These measurements helped determine how the particles got their energy and how they were transported through Jupiter’s magnetosphere. The EPD weighed 10.5 kg and used 10.1 W of power on average.|![](f/project/g/galileo/epd.jpg)|
 
    - *Heavy Ion Counter (**HIC**)*.
 
@@ -218,9 +218,9 @@ A radio transmitter was also used to measure wind speed by the Doppler effect.
 
 The Jet Propulsion Laboratory built the Galileo spacecraft and managed the Galileo mission for NASA. West Germany’s Messerschmitt-Bölkow-Blohm supplied the propulsion module. NASA’s Ames Research Center managed the atmospheric probe, which was built by Hughes Aircraft Company.
 
-One section of the **Orbiter** rotated at three rpm, keeping Galileo stable and holding six instruments that gathered data from many different directions, including the fields and particles instruments. The other section of the Orbiter was a 4.8 m wide, umbrella-like high‑gain antenna, and data were periodically transmitted to it. Back on the ground, the mission operations team used software containing 650 000 lines of programming code in the orbit sequence design process; 1 615 000 lines in the telemetry interpretation; and 550 000 lines of code in navigation.
+One section of the **Orbiter** rotated at three rpm, keeping Galileo stable and holding six instruments that gathered data from many different directions, including the fields and particles instruments. The other section of the Orbiter was a 4.8 m wide, umbrella‑like high‑gain antenna, and data were periodically transmitted to it. Back on the ground, the mission operations team used software containing 650 000 lines of programming code in the orbit sequence design process; 1 615 000 lines in the telemetry interpretation; and 550 000 lines of code in navigation.
 
-The Galileo **Lander** was an atmospheric-entry Lander carried by the main Galileo Orbiter on its way to Jupiter. It separated from the main spacecraft on July 10, 1995, five months before its rendezvous with the planet on December 7. After a rough deceleration, the Descent Module started to return data to the main spacecraft orbiting high above Jupiter. Inside the Lander’s heat shield, the Descent Module with its scientific instruments was protected from extreme heat and pressure during its high-speed journey into the Jovian atmosphere, entering at 47.8 km/s.
+The Galileo **Lander** was an atmospheric-entry Lander carried by the main Galileo Orbiter on its way to Jupiter. It separated from the main spacecraft on July 10, 1995, five months before its rendezvous with the planet on December 7. After a rough deceleration, the Descent Module started to return data to the main spacecraft orbiting high above Jupiter. Inside the Lander’s heat shield, the Descent Module with its scientific instruments was protected from extreme heat and pressure during its high‑speed journey into the Jovian atmosphere, entering at 47.8 km/s.
 
 During the 57 min of data collecting, the Galileo Lander returned data on Jupiter’s atmospheric conditions and composition and achieved some new discoveries.
 

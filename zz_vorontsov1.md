@@ -6,7 +6,7 @@
 |B‑day, addr.| 1952.05.07 / … |
 |E‑mail| <vorontsovspace@gmail.com>, <victor-vorontsov@yandex.ru> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* +7(916)907-33-68 |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* +7(916)907-33-68 |
 || [![](f/contact/v/voroncov_001_photo.gif)](f/contact/v/voroncov_001_photo.gif) [![](f/contact/v/voroncov_001_sign_thumb.jpg)](f/contact/v/voroncov_001_sign.png) |
 
    - **[Education](edu.md):** …

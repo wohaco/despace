@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*Smithsonian Institution, National Air & Space Museum, US. Director*|
 |:--|:--|
 |B‑day, addr.| 1961.02.24 Oberlin, Ohio, US / Washington D.C. Metro Area |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/s/stofan_001_photo_thumb.jpg)](f/contact/s/stofan_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Brown University, Geological Sciences, 1983 ‑ 1989. BS, College of William & Mary, Geology, 1979 ‑ 1983. Activities & Societies: Phi Beta Kappa, Pi Beta Phi, Sigma Gamma Epsilon.

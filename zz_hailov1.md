@@ -5,7 +5,7 @@
 |:--|:--|
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* …, секретарь: +7(495)631-93-95, fax: +7(495)631-89-93; *моб.:* +7(916)158-02-32, +7(916)170-34-11 |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1973.07.07, в Роскосмосе с 2008 / … |
 || ![](f/contact/h/haylov_001_photo.jpg) [![](f/contact/h/haylov_001_sign_thumb.jpg)](f/contact/h/haylov_001_sign.png) |
 

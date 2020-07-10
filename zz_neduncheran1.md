@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[UPES](zz_upes.md), IN, Department of Aerospace Engineering*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <adhithiyan.n@gmail.com> |
 |B‑day, addr.| 1997.05.17 (Ченнаи, Индия) / Дехрадун, Индия |
 || ![](f/contact/n/neduncheran_001_photo.jpg) <mark>нетподписи</mark> |

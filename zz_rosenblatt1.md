@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*GEOAZUR, FR. Senior Scientist in planetary geodesy*|
 |:--|:--|
 |B‑day, addr.| <mark>нетдаты</mark> 1966.… Paris, FR / … |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/r/rosenblatt_001_photo_thumb.jpg)](f/contact/r/rosenblatt_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** PhD, comparative planetology, Paul Sabatier Univ. in Toulouse, France, 1995. MS, mathematics & physics, Paul Sabatier Univ. in Toulouse, France, 1989. He studied geology & geophysics of terrestrial planets during his post‑doc activities (1996 ‑ 98), including a three‑month visit at Prof. [J. Head’s](zz_head1.md) laboratory in Brown University, Providence, USA.

@@ -7,7 +7,7 @@
 
 > <small>*Terms:* **Вега (ВеГа, ВЕГА)** — Russian term with no analogues in English. **Vega (VeGa, VEGA)** — English equivalent.</small>
 
-The spacecraft were designated VeGa, a contraction of Venera and Gallei («Венера» and «Галлей» respectively, the Russian words for «Venus» and «Halley»). Vega − two identical soviet spacecraft for the exploration of [Venus](venus.md) and Halley’s comet. The spacecraft design were based on the previous [Venera 9 and Venera 10 missions](venera_9_10.md).
+The spacecraft were designated VeGa, a contraction of Venera and Gallei («Венера» and «Галлей» respectively, the Russian words for «Venus» and «Halley»). Vega − two identical soviet spacecraft for the exploration of [Venus](venus.md) and Halley’s comet. The spacecraft design were based on the previous [Venera 9 and Venera 10 missions](venera_9_10.md).
 
 
 
@@ -24,7 +24,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |Programme| Venus‑Halley |
 |Similar to| • Proposed: …<br>  • Current: …<br> • Past: … |
 |Target| • Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near‑core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core. |
-|[Type](sc.md)| Flyby spacecraft; lander spacecraft; atmospheric spacecraft |
+|[Type](sc.md)| Fly‑by spacecraft; lander spacecraft; atmospheric spacecraft |
 |**Spacecraft:**|• • •|
 |Composition| Orbiter; Lander; Balloon Aerostat |
 |Comms| [L‑band](rf.md) |
@@ -32,13 +32,13 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |[ID](spaceid.md)| • «Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> • «Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857 |
 |Manufacturer| NPO Lavochkin |
 |Mass| • «Vega 1» 4 924 kg (dry − 4 169) ([EVN‑073](venus.md))<br> • «Vega 2» 4 926 kg (dry − 4 160) ([EVN‑073](venus.md)) |
-|Orbit / Site| Flyby trajectory of Venus, surface of Venus, cloud layer |
-|Payload| • Flyby spacecraft − plasma wave analyzers, neutral gas meter, magnetometer, spectrometers, dust particle counter, television system<br> • Lander − gas chromatograph, humidity meter, weather sensors, determination of physical and mechanical properties of the soil surface, temperature sensors, spectrometers, spectrophotometer.|
+|Orbit / Site| Fly‑by trajectory of Venus, surface of Venus, cloud layer |
+|Payload| • Fly‑by spacecraft − plasma wave analyzers, neutral gas meter, magnetometer, spectrometers, dust particle counter, television system<br> • Lander − gas chromatograph, humidity meter, weather sensors, determination of physical and mechanical properties of the soil surface, temperature sensors, spectrometers, spectrophotometer.|
 |Power| … |
 
 Achieved targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -58,7 +58,7 @@ Achieved targets & investigations:
 |EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
 |EVN‑026||Surface: elemental composition.|  ||C||||
 |EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑062|T|Surface: obtaining & analysis of the surface samples.|  ||C|||S|
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|  ||C|||S|
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
 |EVN‑074||Meteorological model.|  |D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
@@ -71,19 +71,19 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-The Vega spacecraft were created as part of the international Venus-Halley project and are intended for research in the flyby approach of Venus and Halley’s comet. Created two identical spacecraft Vega 1 and Vega 2, which increases the reliability of the mission and allows you to explore the various areas of Venus and Halley’s comet at different distances from the Sun.
+The Vega spacecraft were created as part of the international Venus-Halley project and are intended for research in the fly‑by approach of Venus and Halley’s comet. Created two identical spacecraft Vega 1 and Vega 2, which increases the reliability of the mission and allows you to explore the various areas of Venus and Halley’s comet at different distances from the Sun.
 
 
-In 1985 − 1986, there was a unique opportunity to combine a flight to Halley’s comet with a flyby of Venus and put the spacecraft on the trajectory of a flight to Halley’s comet as a result of [a gravitational maneuver](gravass.md).
+In 1985 − 1986, there was a unique opportunity to combine a flight to Halley’s comet with a fly‑by of Venus and put the spacecraft on the trajectory of a flight to Halley’s comet as a result of [a gravitational maneuver](gravass.md).
 
-The spacecraft that is being launched on a flight path to Venus, by its design, consists of two parts: the lander and the flyby. The lander is designed to explore Venus, and the flyby is designed to explore Halley’s comet. This scheme is implemented in the international project «Venus-Halley», developed by the USSR on a broad international basis.
+The spacecraft that is being launched on a flight path to Venus, by its design, consists of two parts: the lander and the fly‑by. The lander is designed to explore Venus, and the fly‑by is designed to explore Halley’s comet. This scheme is implemented in the international project «Venus-Halley», developed by the USSR on a broad international basis.
 
 **Lander operation**
 During the descent of the lander, the characteristics of the cloud layer ([EVN‑018](venus.md)) and atmospheric chemistry ([EVN‑077](venus.md)) were measured. The concentration of sulfuric acid aerosol in clouds was measured ([EVN‑009](venus.md)), the presence of sulfur, chlorine, and probably phosphorus was detected.
 
 The lander made a soft landing on the night side of Venus in the area of the plain of the Mermaid, at points 8°06' North latitude, 175°51' East longitude (Vega 1) and 7°08' South latitude, 117°40' East longitude (Vega 2). During the descent in the atmosphere, the equipment of the first lander, intended for research on the surface, turned on abnormally. The second lander successfully completed the surface research program ([EVN‑006] (venus.md)), the signal transmission lasted 56 minutes.
 
-The Vega 2 lander landed in a high-altitude area, where soil sampling and measurements of the X‑ray fluorescence spectra of the Venusian rock were performed ([EVN‑062](venus.md)).
+The Vega 2 lander landed in a high‑altitude area, where soil sampling and measurements of the X‑ray fluorescence spectra of the Venusian rock were performed ([EVN‑062](venus.md)).
 
 The gamma‑ray spectrometers of both landers, designed to measure the content of uranium, thorium and potassium in Venusian rocks, started working during the descent of the lander at an altitude of 25 km and functioned until the end of their functioning. Rocks with relatively low levels of natural radioactive elements were found at both points where the lander landed ([EVN‑026](venus.md)).
 
@@ -116,7 +116,7 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
       - introduction of free-floating aerostates into the Venusian atmosphere and subsequent tracking of their movement using a network of ground-based radio telescopes, thereby determining the speed and direction of the wind;
       - direct measurement of atmospheric parameters using sensors placed in the aerostate’s nacelle.
       - 
-**Halley’s comet research** − search approach of flyby spacecraft to Halley’s comet with the goal of ballistic movement through the comet’s coma at a short distance from its core; conducting a comprehensive explore of Halley’s comet from the flyby trajectory, including:
+**Halley’s comet research** − search approach of fly‑by spacecraft to Halley’s comet with the goal of ballistic movement through the comet’s coma at a short distance from its core; conducting a comprehensive explore of Halley’s comet from the fly‑by trajectory, including:
 
    - exploring the structure and dynamics of the near‑core coma region;
    - determination of gas composition in the near‑core region;
@@ -144,7 +144,7 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
 
    1. PrOP-V penetrometer;
    1. Sigma-3 gas chromatograph to study the chemical composition of the atmosphere and cloud layer of Venus (USSR);
-   1. GS-15-STsV gamma ray spectrometer to determine the content of natural radioactive elements in Venusian rocks − uranium, thorium, potassium − was also used on [Venera 8](venera_8.md) [− 10](venera_8.md) (USSR): sensor (Ø 6.3 × 100 cm) and electronic box − all inside the lander, no need of deployment or bring sample inside the lander, P = 12.5 W, m = 7.5 kg, 128 channels;
+   1. GS-15-STsV gamma ray spectrometer to determine the content of natural radioactive elements in Venusian rocks − uranium, thorium, potassium − was also used on [Venera 8](venera_8.md) [− 10](venera_8.md) (USSR): sensor (Ø 6.3 × 100 cm) and electronic box − all inside the lander, no need of deployment or bring sample inside the lander, P = 12.5 W, m = 7.5 kg, 128 channels;
    1. Meteocomplex T,P sensors (USSR);
    1. VM-4 hygrometer to determine the content of water vapor in the atmosphere (USSR);
    1. Malakhit-V mass spectrometer (USSR, France);
@@ -168,11 +168,11 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
 ## Spacecraft
 After 6 months of flight, the spacecraft covered 45 million km and approached Venus. On June 9 and 13, 1985, the reentry landers were separated from Vega 1 and Vega 2, which deliver landers and aerostats to Venus on June 11 and 15.
 
-The total mass of the station when fully equipped was 4 920 kg. The Vega series stations consisted of two parts − a 3 170 kg flyby and a 1 750 kg lander.
+The total mass of the station when fully equipped was 4 920 kg. The Vega series stations consisted of two parts − a 3 170 kg fly‑by and a 1 750 kg lander.
 
-Data from landers were relayed to the Earth via flyby, and from aerostates − directly to the 60 − 70 m antennas of a number of countries, including the USSR and the United States.
+Data from landers were relayed to the Earth via fly‑by, and from aerostates − directly to the 60 − 70 m antennas of a number of countries, including the USSR and the United States.
 
-The television systems of both **flyby spacecraft** were of the same type. They consisted of two TV cameras: a long-focus camera that gave a resolution of 100 m at a distance of 10 000 km, and a short-focus camera with a resolution of 800 m, but a large field of view. The image of each camera was taken on a 512 × 512 matrix of silicon solar cells, in the range of 400 − 1000 nm. When shooting the comet, Vega occupied a fixed position in the three-axis coordinate system thanks to gyroscopes that controlled the jet engines. The television system was located on a rotating platform, which, rotating according to the commands given by the television system, was directed to the comet. Other scientific equipment was also installed on the flyby.
+The television systems of both **fly‑by spacecraft** were of the same type. They consisted of two TV cameras: a long-focus camera that gave a resolution of 100 m at a distance of 10 000 km, and a short-focus camera with a resolution of 800 m, but a large field of view. The image of each camera was taken on a 512 × 512 matrix of silicon solar cells, in the range of 400 − 1000 nm. When shooting the comet, Vega occupied a fixed position in the three‑axis coordinate system thanks to gyroscopes that controlled the jet engines. The television system was located on a rotating platform, which, rotating according to the commands given by the television system, was directed to the comet. Other scientific equipment was also installed on the fly‑by.
 
 **The lander** was equipped with scientific instruments, as well as a drilling rig to study the composition of the soil ([WB 02](vb02.md) on Vega 2)
 

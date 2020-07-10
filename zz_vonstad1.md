@@ -6,7 +6,7 @@
 |B‑day, addr.| 1991.05.29 (Mo I Rana, Nordland, Norway) / London, UK |
 |E‑mail| <frida.sjovoll.13@ucl.ac.uk> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || ![](f/contact/v/vonstad_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** PhD candidate, Civil Engineering, UCL, 2016-2020.

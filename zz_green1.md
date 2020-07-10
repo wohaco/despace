@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Science Mission Directorate — Planetary Science Division. Head Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || [![](f/contact/g/green_001_photo_thumb.jpg)](f/contact/g/green_001_photo.jpg) [![](f/contact/g/green_001_sign_thumb.jpg)](f/contact/g/green_001_sign.png) |
 

@@ -41,7 +41,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -70,12 +70,12 @@ MESSENGER extensively used gravity assist maneuvers at Earth, Venus, and Mercury
 |*Date*|*Event*|
 |:--|:--|
 | August 3, 2004 | Spacecraft launched at 06:15:56 UTC |
-| August 2, 2005 | Flyby encounter with Earth |
-| October 24, 2006 | First flyby encounter with Venus |
-| June 5, 2007 | Second flyby encounter with Venus |
-| January 14, 2008 | First flyby encounter with Mercury |
-| October 2, 2008 | Second flyby encounter with Mercury |
-| September 28, 2009 | Third flyby encounter with Mercury |
+| August 2, 2005 | Fly‑by encounter with Earth |
+| October 24, 2006 | First fly‑by encounter with Venus |
+| June 5, 2007 | Second fly‑by encounter with Venus |
+| January 14, 2008 | First fly‑by encounter with Mercury |
+| October 2, 2008 | Second fly‑by encounter with Mercury |
+| September 28, 2009 | Third fly‑by encounter with Mercury |
 | March 18, 2011 | Mercury orbital insertion |
 | March 17, 2012 | Commencement of first extended mission |
 | March 17, 2013 | Completion of first extended mission / Commencement of second extended mission |
@@ -84,29 +84,29 @@ MESSENGER extensively used gravity assist maneuvers at Earth, Venus, and Mercury
 **Interplanetary trajectory of the MESSENGER orbiter.**
 ![](f/project/m/messenger/trajectory.png)
 
-**Earth flyby**
+**Earth fly‑by**
 
-MESSENGER performed an Earth flyby on August 2, 2005, with the closest approach at 19:13 UTC at an altitude of 2 347 km over central Mongolia.
+MESSENGER performed an Earth fly‑by on August 2, 2005, with the closest approach at 19:13 UTC at an altitude of 2 347 km over central Mongolia.
 
-During the Earth flyby, the MESSENGER team imaged the Earth and Moon using MDIS and checked the status of several other instruments observing the atmospheric and surface compositions and testing the magnetosphere and determining that all instruments tested were working as expected.
+During the Earth fly‑by, the MESSENGER team imaged the Earth and Moon using MDIS and checked the status of several other instruments observing the atmospheric and surface compositions and testing the magnetosphere and determining that all instruments tested were working as expected.
 
 |![](f/project/m/messenger/earth.jpg)|
 |:--|
-|***A view of Earth from MESSENGER during its Earth flyby.***|
+|***A view of Earth from MESSENGER during its Earth fly‑by.***|
 
-**Two Venus flybys**
+**Two Venus fly‑bys**
 
-On October 24, 2006 at 08:34 UTC, MESSENGER encountered Venus at an altitude of 2 992 km. During the encounter, MESSENGER passed behind Venus and entered superior conjunction, a period when Earth was on the exact opposite side of the Solar System, with the Sun inhibiting radio contact. For this reason, no scientific observations were conducted during the flyby. Communication with the spacecraft was reestablished in late November and performed a deep space maneuver on December 12, to correct the trajectory to encounter Venus in a second flyby.
+On October 24, 2006 at 08:34 UTC, MESSENGER encountered Venus at an altitude of 2 992 km. During the encounter, MESSENGER passed behind Venus and entered superior conjunction, a period when Earth was on the exact opposite side of the Solar System, with the Sun inhibiting radio contact. For this reason, no scientific observations were conducted during the fly‑by. Communication with the spacecraft was reestablished in late November and performed a deep space maneuver on December 12, to correct the trajectory to encounter Venus in a second fly‑by.
 
-On June 5, 2007, at 23:08 UTC, MESSENGER performed a second flyby of Venus at an altitude of 338 km, for the greatest velocity reduction of the mission. During the encounter, all instruments were used to observe Venus ([EVN‑005](evn_005.md)) and prepare for the following Mercury encounters. The encounter provided visible and near‑infrared imaging data of the upper atmosphere of Venus. Ultraviolet and X‑ray spectrometry of the upper atmosphere were also recorded, to characterize the composition ([EVN‑014](EVN_014)). The ESA’s [Venus Express](venus_express.md) was also orbiting during the encounter, providing the first opportunity for simultaneous measurement of particle-and-field characteristics of the planet.
+On June 5, 2007, at 23:08 UTC, MESSENGER performed a second fly‑by of Venus at an altitude of 338 km, for the greatest velocity reduction of the mission. During the encounter, all instruments were used to observe Venus ([EVN‑005](evn_005.md)) and prepare for the following Mercury encounters. The encounter provided visible and near‑infrared imaging data of the upper atmosphere of Venus. Ultraviolet and X‑ray spectrometry of the upper atmosphere were also recorded, to characterize the composition ([EVN‑014](EVN_014)). The ESA’s [Venus Express](venus_express.md) was also orbiting during the encounter, providing the first opportunity for simultaneous measurement of particle-and-field characteristics of the planet.
 
 |![](f/project/m/messenger/venus.jpg)|
 |:--|
-|***A detailed image of Venus MESSENGER on the second flyby of the planet.***|
+|***A detailed image of Venus MESSENGER on the second fly‑by of the planet.***|
 
-**Three Mercury flybys**
+**Three Mercury fly‑bys**
 
-MESSENGER made a flyby of Mercury on January 14, 2008 (making its closest approach of 200 km above the surface of Mercury at 19:04:39 UTC, followed by a second flyby on October 6, 2008. MESSENGER executed a final flyby on September 29, 2009, further slowing down the spacecraft. One last deep space maneuver, DSM-5, was executed on November 24, 2009, at 22:45 UTC to provide the required velocity change for the scheduled Mercury orbit insertion on March 18, 2011, marking the beginning of the orbital mission.
+MESSENGER made a fly‑by of Mercury on January 14, 2008 (making its closest approach of 200 km above the surface of Mercury at 19:04:39 UTC, followed by a second fly‑by on October 6, 2008. MESSENGER executed a final fly‑by on September 29, 2009, further slowing down the spacecraft. One last deep space maneuver, DSM-5, was executed on November 24, 2009, at 22:45 UTC to provide the required velocity change for the scheduled Mercury orbit insertion on March 18, 2011, marking the beginning of the orbital mission.
 
 On July 3, 2008, the MESSENGER team announced that the Orbiter had discovered large amounts of water present in Mercury’s exosphere, which was an unexpected finding. In the later years of its mission, MESSENGER also provided visual evidence of past volcanic activity on the surface of Mercury, as well as evidence for a liquid iron planetary core. The Orbiter also constructed the most detailed and accurate maps of Mercury to date, and furthermore discovered carbon-containing organic compounds and water ice inside permanently shadowed craters near the north pole.
 
@@ -114,7 +114,7 @@ On July 3, 2008, the MESSENGER team announced that the Orbiter had discovered la
 
 |![](f/project/m/messenger/mercury1.png)|![](f/project/m/messenger/mercury2.png) |![](f/project/m/messenger/mercury3.png) |
 |:--|:--|:--|
-|***The first high‑resolution color Wide Angle Camera image of Mercury acquired by MESSENGER.***|***Smooth plains on Mercury imaged by MESSENGER during the third flyby of the planet.***|***Lava-flooded craters and large expanses of smooth volcanic plains on Mercury.***|
+|***The first high‑resolution color Wide Angle Camera image of Mercury acquired by MESSENGER.***|***Smooth plains on Mercury imaged by MESSENGER during the third fly‑by of the planet.***|***Lava-flooded craters and large expanses of smooth volcanic plains on Mercury.***|
 
 <br>
 
@@ -158,7 +158,7 @@ Included two CCD cameras, a narrow-angle camera (NAC) and a wide-angle camera (W
 
 | | |
 |:--|:--|
-| **Objectives:**<br><br>*Flyby Phase*<br> • Acquisition of near‑global coverage at ≈500 m/px.<br> • Multispectral mapping at ≈2 km/px.<br>*Orbital Phase*<br> • A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> • A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> • Completion of the multispectral mapping begun during the flybys.<br> • High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures. |[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
+| **Objectives:**<br><br>*Fly‑by Phase*<br> • Acquisition of near‑global coverage at ≈500 m/px.<br> • Multispectral mapping at ≈2 km/px.<br>*Orbital Phase*<br> • A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> • A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> • Completion of the multispectral mapping begun during the fly‑bys.<br> • High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures. |[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
 
 ### Gamma‑ray Spectrometer (GRS)
 Measured gamma‑ray emissions from the surface of Mercury to determine the planet’s composition by detecting certain elements (oxygen, silicon, sulfur, iron, hydrogen, potassium, thorium, uranium) to a depth of 10 cm.
@@ -168,7 +168,7 @@ Measured gamma‑ray emissions from the surface of Mercury to determine the plan
 | **Objectives:**<br><br> • Provide surface abundances of major elements.<br> • Provide surface abundances of Fe, Si, and K, infer alkali depletion from K abundances, and provide abundance limits on H (water ice) and S (if present) at the poles.<br> • Map surface element abundances where possible, and otherwise provide surface-averaged abundances or establish upper limits. |[![](f/project/m/messenger/grs.jpg)](f/project/m/messenger/grs.jpg)|
 
 ### Neutron Spectrometer (NS)
-Determined the hydrogen mineral composition to a depth of 40 cm by detecting low-energy neutrons resulting from the collision of cosmic rays with the minerals.
+Determined the hydrogen mineral composition to a depth of 40 cm by detecting low‑energy neutrons resulting from the collision of cosmic rays with the minerals.
 
 | | |
 |:--|:--|
@@ -193,7 +193,7 @@ Provided detailed information regarding the height of landforms on the surface o
 
 | | |
 |:--|:--|
-| **Objectives:**<br><br> • Provide a high-precision topographic map of the high northern latitude regions.<br> • Measure the long-wavelength topographic features at mid-to-low northern latitudes.<br> • Determine topographic profiles across major geologic features in the northern hemisphere.<br> • Detect and quantify the planet’s forced physical librations by tracking the motion of large-scale topographic features as a function of time.<br> • Measure the surface reflectivity of Mercury at the MLA operating wavelength of 1 064 nm.|[![](f/project/m/messenger/mla.jpg)](f/project/m/messenger/mla.jpg)|
+| **Objectives:**<br><br> • Provide a high‑precision topographic map of the high northern latitude regions.<br> • Measure the long-wavelength topographic features at mid-to-low northern latitudes.<br> • Determine topographic profiles across major geologic features in the northern hemisphere.<br> • Detect and quantify the planet’s forced physical librations by tracking the motion of large-scale topographic features as a function of time.<br> • Measure the surface reflectivity of Mercury at the MLA operating wavelength of 1 064 nm.|[![](f/project/m/messenger/mla.jpg)](f/project/m/messenger/mla.jpg)|
 
 ### Mercury Atmospheric and Surface Composition Spectrometer (MASCS)
 Determined the characteristics of the tenuous atmosphere surrounding Mercury by measuring ultraviolet light emissions, and ascertained the prevalence of iron and titanium minerals on the surface by measuring the reflectance of infrared light.
@@ -245,7 +245,7 @@ The spacecraft was powered by a two-panel 1.5 × 1.65 m gallium arsenide/g
 
 **Computer**
 
-The spacecraft’s onboard computer system was contained in an Integrated Electronics Module. The computer featured two radiation-hardened IBM RAD6000s, a 25 MHz main processor, and a 10 MHz fault protection processor. For redundancy, the spacecraft carried a pair of identical IEMs. For data storage, the spacecraft carried two solid-state recorders able to store up to one gigabyte each. The IBM RAD6000 main processor collected, compressed, and stored data from MESSENGER’s instruments for later playback to Earth.
+The spacecraft’s onboard computer system was contained in an Integrated Electronics Module. The computer featured two radiation-hardened IBM RAD6000s, a 25 MHz main processor, and a 10 MHz fault protection processor. For redundancy, the spacecraft carried a pair of identical IEMs. For data storage, the spacecraft carried two solid‑state recorders able to store up to one gigabyte each. The IBM RAD6000 main processor collected, compressed, and stored data from MESSENGER’s instruments for later playback to Earth.
 
 <p style="page-break-after:always"> </p>
 

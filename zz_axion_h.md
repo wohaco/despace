@@ -3,7 +3,7 @@
 
 |[![](f/contact/a/axion_logo1_thumb.jpg)](f/contact/a/axion_logo1.png)|*Россия, 426000, Удмуртская Республика, Ижевск, ул. М. Горького, 90*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.axion.ru><br> <https://ru.wikipedia.org/wiki/Ижевский_мотозавод> |
 |Tel| +7(3412)56-08-99, fax: +7(3412)723–948 |
 |Etc| … |

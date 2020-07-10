@@ -245,7 +245,7 @@ Soon there will be something new, for example, links between targets/exploration
 ### Intro
 Comments:
 
-   - **T** — technical; **Draft** — minimum for working with object. **C** — contact exploration; **D** — distant exploration; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **Draft** — minimum for working with object. **C** — contact exploration; **D** — distant exploration; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -351,7 +351,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑022||Surface: map, precise|  ||D||||
 |EMN‑023||Surface: mineralogical composition|  |C|||||
 |EMN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
-|EMN‑062|T|Surface: obtaining & analysis of the surface samples|  |C||||S|
+|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places|  |C||||S|
 |EMN‑063|T|Surface: panoramic imaging|  |C|||||
 |EMN‑025||Surface: morphology|  |C|||||
 |EMN‑085|T|Surface: tessera investigations, remote|  ||D|F|||

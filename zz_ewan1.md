@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. International Program Specialist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>нетдаты</mark> 1982 / Washington |
 || ![](f/contact/e/ewan_001_photo.jpg) <mark>нетподписи</mark> |
 

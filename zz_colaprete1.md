@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[ARC](zz_arc.md), US. Planetary Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <Anthony.Colaprete-1@nasa.gov> |
 |B‑day, addr.| <mark>нетдаты</mark> 1971 ? / … |
 || [![](f/contact/c/colaprete_001_photo_thumb.jpg)](f/contact/c/colaprete_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

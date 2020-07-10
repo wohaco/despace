@@ -8,7 +8,7 @@
 |Tel| +1(778)988-63-43, fax: … |
 |Etc| … |
 
-**Geocentrix Technologies Ltd.** is a consulting, management, and development company for space missions and related high-tech industries. We bring over 20 years’ experience in design, analysis, management, operations, visualisation, education, and applications, to the benefit of our customers.
+**Geocentrix Technologies Ltd.** is a consulting, management, and development company for space missions and related high‑tech industries. We bring over 20 years’ experience in design, analysis, management, operations, visualisation, education, and applications, to the benefit of our customers.
 
    - Satellite Mission Design, Analysis, Operations, & Management
    - Launch Management & Consulting

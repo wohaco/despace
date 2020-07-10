@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*Berlin Technical University, DE. Researcher*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <leeyj@edu.k.u-tokyo.ac.jp> |
 |B‑day, addr.| <mark>нетдаты</mark> 1984 ? / … |
 || [![](f/contact/l/lee_001_photo_thumb.jpg)](f/contact/l/lee_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

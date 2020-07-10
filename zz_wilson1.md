@@ -6,7 +6,7 @@
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 |E‑mail| <Colin.Wilson@physics.ox.ac.uk> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || ![](f/contact/w/wilson_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** …

@@ -9,7 +9,7 @@
 
 **Cape Canaveral Air Force Station (CCAFS)** is an installation of the United States Space Force’s 45th Space Wing. Headquarters — Patrick Air Force Base, Florida.
 
-For GEO launches, the latitude of 28°27'N has a slight disadvantage compared to other launch sites located closer to the equator. The additional speed due to the rotation of the Earth is 405 m/s at Cape Canaveral against 465 m/s at the [Kourou](kourou.md) spaceport. In the case of launches to a high-inclination (polar) orbit, the latitude does not matter, but Cape Canaveral is not suitable due to the presence of settlements under the launch paths in this direction, so [Vandenberg Base](vandenberg.md) is used for such launches(vandenberg.md) on the opposite West coast of the United States.
+For GEO launches, the latitude of 28°27'N has a slight disadvantage compared to other launch sites located closer to the equator. The additional speed due to the rotation of the Earth is 405 m/s at Cape Canaveral against 465 m/s at the [Kourou](kourou.md) spaceport. In the case of launches to a high‑inclination (polar) orbit, the latitude does not matter, but Cape Canaveral is not suitable due to the presence of settlements under the launch paths in this direction, so [Vandenberg Base](vandenberg.md) is used for such launches(vandenberg.md) on the opposite West coast of the United States.
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|

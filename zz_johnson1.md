@@ -10,7 +10,7 @@
 || [![](f/contact/j/johnson_001_photo_thumb.jpg)](f/contact/j/johnson_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Earth & Planetary Sciences, WUSTL, 2002. AM, Earth & Planetary Sciences, WUSTL, 1998. BA, cum laude, Math/Geology/Comp. Sci./Physics, University of Arizona, Tucson, 1996.
-   - **Exp.:** Research Areas: Gas-grain catalytic reactions, Geochemical interaction of planetary surfaces and/or atmospheres, Production of organics in the pre‑solar nebula, Instrument development/fabrication.
+   - **Exp.:** Research Areas: Gas‑grain catalytic reactions, Geochemical interaction of planetary surfaces and/or atmospheres, Production of organics in the pre‑solar nebula, Instrument development/fabrication.
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** …

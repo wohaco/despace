@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || [![](f/contact/k/kolawa_001_photo_thumb.jpg)](f/contact/k/kolawa_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 

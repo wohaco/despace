@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Oxford Univ.](oxford_univ.md), EU. DPhil Student*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* +44(7810)436-705 |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +44(7810)436-705 |
 |E‑mail| <neil.lewis@physics.ox.ac.uk> |
 |B‑day, addr.| 1996.04.22 (Pembury, Kent, UK) / Winchcombe, Gloucestershire, UK |
 || ![](f/contact/l/lewis_001_photo.jpg) <mark>нетподписи</mark> |

@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* +7(916)628-61-39 |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +7(916)628-61-39 |
 |E‑mail| <neismont@iki.rssi.ru> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || ![](f/contact/e/eismont_001_animated.gif) <mark>нетподписи</mark> |

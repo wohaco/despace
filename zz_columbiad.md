@@ -3,9 +3,9 @@
 
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.columbiad.ca/><br> <https://www.linkedin.com/company/columbiad/> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 **Columbiad Launch Services** is a commercial space launch company dedicated to providing low‑cost access to space. We are developing a high‑volume Industrial Sounding System based on gun propulsion technology.

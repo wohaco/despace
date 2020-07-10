@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*Ростех, RU. Руководитель Группы советников, член Правления, председатель Научно‑технического совета*|
 |:--|:--|
 |i18n| Koptev, Yuri Nikolayevich |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <https://ru.wikipedia.org/wiki/Коптев,_Юрий_Николаевич> |
 |B‑day, addr.| 1940.03.13 Ставрополь / Москва |
 || [![](f/contact/k/koptev_001_photo_thumb.jpg)](f/contact/k/koptev_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

@@ -29,7 +29,7 @@
 |**Etc:**|• • •|
 |[ВБР](rams.md) за САС|  |
 |Dimensions, L×W×H, mm|  75 × 75 × 3.5  |
-|Интерфейсы|  • Four SpaceWire ports, maximum 200 Mbps full-duplex data rate;<br> • Redundant [MIL-STD-1553B](mil_std_1553b.md) BRM (BC/RT/BM) interface;<br> • Two CAN 2.0B bus controllers;<br> • Six UART ports, with 8-byte FIFO;<br> • Ethernet MAC with RMII 10/100 Mbps port;<br> • SPI master serial port;<br> • I2C master serial port;<br> • ASCS16 (STR) serial port;<br> • SLINK 6 MHz serial port;<br> • CCSDS/ECSS 5-channel Telecommand decoder, 10 Mbps input rate;<br> • CCSDS/ECSS Telemetry encoder, 50 Mbps output rate;<br> • 26 input and 38 input/output general purpose ports  |
+|Интерфейсы|  • Four SpaceWire ports, maximum 200 Mbps full-duplex data rate;<br> • Redundant [MIL-STD-1553B](mil_std_1553b.md) BRM (BC/RT/BM) interface;<br> • Two CAN 2.0B bus controllers;<br> • Six UART ports, with 8-byte FIFO;<br> • Ethernet MAC with RMII 10/100 Mbps port;<br> • SPI master serial port;<br> • I2C master serial port;<br> • ASCS16 (STR) serial port;<br> • SLINK 6 MHz serial port;<br> • CCSDS/ECSS 5‑channel Telecommand decoder, 10 Mbps input rate;<br> • CCSDS/ECSS Telemetry encoder, 50 Mbps output rate;<br> • 26 input and 38 input/output general purpose ports  |
 |Mass, kg|  0.017  |
 |[Voltage](voltage.md), V|  1.8 или 3.3 |
 |Overload, g|   |

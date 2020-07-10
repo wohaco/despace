@@ -23,7 +23,7 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 
 ***Targets and investigations:***
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -84,11 +84,11 @@ The data received by SAEVe will be transmitted directly to the Orbiter, which, i
 <p style="page-break-after:always"> </p>
 
 ## Description
-SAEVe is a potential mission contribution to deliver small landers (one to three) to the surface of Venus and have them return high-value science for about 4 months. The science implemented by SAEVe is primarily focused on seismometry and temporal meteorology measurements that are enabled only by long-duration operations, which remain long-standing gaps in our data on Venus ([EVN‑031](venus.md)).
+SAEVe is a potential mission contribution to deliver small landers (one to three) to the surface of Venus and have them return high‑value science for about 4 months. The science implemented by SAEVe is primarily focused on seismometry and temporal meteorology measurements that are enabled only by long-duration operations, which remain long-standing gaps in our data on Venus ([EVN‑031](venus.md)).
 
 The remarkable operating life of SAEVe is enabled by the same three key elements that enable LLISSE, namely:
 
-   - high-temperature electronics and systems that operate without cooling at Venus surface conditions ([EVN‑094](venus.md));
+   - high‑temperature electronics and systems that operate without cooling at Venus surface conditions ([EVN‑094](venus.md));
    - use of simple instrumentation and supporting avionics with emphasis on low data volume instruments and sensors;
    - minimizing energy utilization through a novel operations approach. 
    
@@ -140,7 +140,7 @@ Lander + LLISSE and Orbiter goals that SAEVe can study more fully (L − Lander 
    - O1: Vertical structure of mesosphere, temperature, clouds, and dynamics of cloud-born gases and vertical structure of troposphere, temperature, clouds, composition, and dynamics ([EVN‑010](venus.md), [EVN‑017](venus.md), [EVN‑074](venus.md)).
 
 
-A top science priority for SAEVe is to understand how seismically active Venus is and the rate and style of seismic activity ([EVN‑029](venus.md)). This is accomplished with a short-period MEMS seismometer sensor (based on Insight heritage) coupled with high-temperature electronics ([EVN‑058](venus.md), [EVN‑094](venus.md)). Meteorology is the second science priority to help address climate and its evolution by taking the first long-duration surface data ([EVN‑031](venus.md), [EVN‑069](venus.md), [EVN‑095](venus.md)). Energy-related questions are also tackled through the measurement of incident and reflected solar radiation at the surface and the heat flux sensor ([EVN‑019](venus.md)). Finally, the short-duration camera package not only provides engineering data related to the seismometer placement and coupling but also provides contact images of the landing site and morphology data to understand weathering processes ([EVN‑007](venus.md), [EVN‑041](venus.md)).
+A top science priority for SAEVe is to understand how seismically active Venus is and the rate and style of seismic activity ([EVN‑029](venus.md)). This is accomplished with a short-period MEMS seismometer sensor (based on Insight heritage) coupled with high‑temperature electronics ([EVN‑058](venus.md), [EVN‑094](venus.md)). Meteorology is the second science priority to help address climate and its evolution by taking the first long-duration surface data ([EVN‑031](venus.md), [EVN‑069](venus.md), [EVN‑095](venus.md)). Energy-related questions are also tackled through the measurement of incident and reflected solar radiation at the surface and the heat flux sensor ([EVN‑019](venus.md)). Finally, the short-duration camera package not only provides engineering data related to the seismometer placement and coupling but also provides contact images of the landing site and morphology data to understand weathering processes ([EVN‑007](venus.md), [EVN‑041](venus.md)).
 
 ***Composition of SAEVe scientific instruments:***
 <small>

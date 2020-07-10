@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*US. Independent Consultant*|
 |:--|:--|
 |B‑day, addr.| <mark>нетдаты</mark> 1953 ? / … |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/s/spilker_001_photo_thumb.jpg)](f/contact/s/spilker_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Electrical Engg, Planetary Sci, Radio Physics, Stanford Univ., 1990. BS, Geophysics, Computer Science, Summa Cum Laude, Kansas State Univ., 1975.

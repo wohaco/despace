@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Deputy [Principal Investigator](principal_investigator.md). Principal Scientist.*|
 |:--|:--|
 |B‑day, addr.| <mark>нетдаты</mark> (Rangeley, Maine, USA) / Sierra Madre, California, USA |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* +1(818)354-41-92, fax: +1(818)393-50-59; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/s/smrekar_001_photo_thumb.jpg)](f/contact/s/smrekar_001_photo.jpg) <mark>нетподписи</mark> |

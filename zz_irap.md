@@ -3,7 +3,7 @@
 
 |[![](f/contact/i/irap_logo1_thumb.jpg)](f/contact/i/irap_logo1.png)|*OBSERVATOIRE MIDI-PYRENEES, 14, avenue Edouard Belin, 31400 TOULOUSE, France*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.irap.omp.eu/en><br> <https://en.wikipedia.org/wiki/L'Institut_de_Recherche_en_Astrophysique_et_Planétologie> |
 |Tel| +33(0)561-33-29-29, fax: +33(0)561-33-28-88 |
 |Etc| … |

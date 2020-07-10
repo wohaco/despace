@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*Fondazione Bruno Kessler (FBK-irst), IT. Unit head (since 2013)*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <bovolo@fbk.eu> |
 |B‑day, addr.| <mark>нетдаты</mark> 1980 ? / … |
 || [![](f/contact/b/bovolo_001_photo_thumb.jpg)](f/contact/b/bovolo_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

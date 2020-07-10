@@ -34,7 +34,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), °C| от –40 до +80 °C  |
+|[Тепловой режим](tcs.md), °C| от –40 до +80 °C  |
 |Consumption, W| от 1 до 2  |
 || [![](f/sensor/s/sx-sr-micro_bokz_pic1_thumb.jpg)](f/sensor/s/sx-sr-micro_bokz_pic1.png) |
 

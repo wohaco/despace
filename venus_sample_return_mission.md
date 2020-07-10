@@ -41,7 +41,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -72,7 +72,7 @@ The basic mission idea is to use small samplers parachuted to the surface of the
 
 The ascent rocket would take the samples to Venus orbit where they would be transported by return vehicle to Earth orbit.
 
-The objective of the mission would be to return to Earth at least 1 kilogram (2.2 pounds) sample of the Venus surface for study.
+The objective of the mission would be to return to Earth at least 1 kg (2.2 pounds) sample of the Venus surface for study.
 
 The mission is considered to be similar in size and challenge to Mars or comet sample return mission, also currently under study by NASA, the team members said.
 

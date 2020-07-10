@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Wisconsin Univ.](zz_wisconsin_univ.md), US.*|
 |:--|:--|
 |i18n| Кордова, Хайми Адриан Мл. |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <jaime.cordova@wisc.edu> |
 |B‑day, addr.| <mark>нетдаты</mark> 1994 / … |
 || [![](f/contact/c/cordova_001_photo_thumb.jpg)](f/contact/c/cordova_001_photo.jpg) <mark>нетподписи</mark> |

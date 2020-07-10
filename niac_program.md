@@ -44,8 +44,8 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 | Akin, David | Innovative Offloading of Astronauts for More Effective Exploration | Univ. of Maryland, College Park, MD 20742‑0001 | 2020 Ph.II |
 | Arkin, Adam | A Synthetic Biology Architecture to Detoxify & Enrich Mars Soil for Agriculture | Univ. of California, Berkeley, Berkeley, CA 94704‑1345 | 2017 Ph.I |
 | Arrieta, Juan | The Regolith Biters: A Divide‑And‑Conquer Architecture for Sample‑Return Missions | [NASA JPL](zz_jpl.md), Pasadena, CA 91109‑8001 | 2012 Ph.I |
-| Atchison, Justin (Ph.I) | Swarm Flyby Gravimetry | [JHU](zz_jhu.md), Baltimore, MD 21218‑2680 | 2014 Ph.I |
-| Atchison, Justin (Ph.II) | Swarm Flyby Gravimetry | [JHU](zz_jhu.md), Laurel, MD 20723‑6005 | 2015 Ph.II |
+| Atchison, Justin (Ph.I) | Swarm Fly‑by Gravimetry | [JHU](zz_jhu.md), Baltimore, MD 21218‑2680 | 2014 Ph.I |
+| Atchison, Justin (Ph.II) | Swarm Fly‑by Gravimetry | [JHU](zz_jhu.md), Laurel, MD 20723‑6005 | 2015 Ph.II |
 | Bae, Young | Propellant‑less Spacecraft Formation‑Flying & Maneuvering with Photonic Laser Thrusters | Y.K. Bae Corporation, Tustin, CA 92780‑7709 | 2013 Ph.II |
 | Balcerski, Jeffrey | Lofted Environmental & Atmospheric Venus Sensors (LEAVES) | Ohio Aerospace Inst., Cleveland, OH 44135‑3127 | 2018 Ph.I |
 | Bandyopadhyay, Saptarshi | Lunar Crater Radio Telescope (LCRT) on the Far‑Side of the Moon | [NASA JPL](zz_jpl.md), Pasadena, CA 91109‑8001 | 2020 Ph.I |

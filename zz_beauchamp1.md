@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Program manager*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* +1(818)645-24-79 |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +1(818)645-24-79 |
 |E‑mail| <patricia.m.beauchamp@nasa.gov>, <pbeaucha@jpl.nasa.gov> |
 |B‑day, addr.| <mark>нетдаты</mark> 1958 / … |
 || [![](f/contact/b/beauchamp_001_photo_thumb.jpg)](f/contact/b/beauchamp_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

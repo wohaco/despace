@@ -3,9 +3,9 @@
 
 |[![](f/contact/c/c6_launch_logo1_thumb.jpg)](f/contact/c/c6_launch_logo1.png)|*Toronto, Ontario, Canada*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.c6launch.ca/><br> <https://ru.linkedin.com/company/c6-launch-systems-inc> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 **C6 Launch Systems** is dedicated to the Nano & Micro Satellite Industry & provides full logistical support including a proprietary launch vehicle which will send payloads of 25kg in to a 600KM low earth orbit, or up to 30 kg into SSO and custom orbits.  

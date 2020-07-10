@@ -12,7 +12,7 @@ The **Division for Planetary Sciences (DPS)** is a division within the American 
 |:--|:--|
 |E‑mail| <DPS.Webmaster@aas.org> |
 |Link| <https://dps.aas.org/><br> <https://twitter.com/DPSCommittee> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 DPS has held meetings annually since 1970. The current average attenders number is ~1700.

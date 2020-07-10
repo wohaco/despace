@@ -6,7 +6,7 @@
 |B‑day, addr.| <mark>нетдаты</mark> 1972 ? / … |
 |E‑mail| <arno.wielders@esa.int> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/w/wielders_001_photo_thumb.jpg)](f/contact/w/wielders_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** TWAIO, Astronomical instruments, Leiden Univ., 2000. MS. Physics (astronomy), Amsterdam Free Univ., 1997.

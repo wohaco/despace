@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Mission/Project Systems Engineer*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>нетдаты</mark> 1971 / … |
 || [![](f/contact/b/baker_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) [![](f/contact/b/baker_001_sign_thumb.jpg)](f/contact/b/baker_001_sign.png) |
 

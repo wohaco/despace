@@ -22,7 +22,7 @@
 |Launch| 2023; Rocket GSLV Mk III |
 |Operator| [ISRO](zz_isro.md) |
 |Programme| … |
-|Similar to| • Proposed: … <br> • Current: … <br> • Past: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md) |
+|Similar to| • Proposed: … <br> • Current: … <br> • Past: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md) |
 |Target| Mapping; studying the surface and atmosphere of Venus |
 |[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft |
 |**Spacecraft:**|• • •|
@@ -41,7 +41,7 @@
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.

@@ -8,9 +8,9 @@
 
 |[![](f/contact/c/cospar_logo1_thumb.jpg)](f/contact/c/cospar_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://cosparhq.cnes.fr/><br> <https://www.facebook.com/CommitteeOnSpaceResearch/><br> <https://twitter.com/cosparhq?lang=fr> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| … |
 
 The **Committee on Space Research (COSPAR)** was established by the International Council for Science (ICSU) in 1958. The Principles that COSPAR adheres to in pursuit of its Mission are:

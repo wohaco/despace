@@ -3,9 +3,9 @@
 
 |[![](f/contact/e/esa_logo1_thumb.jpg)](f/contact/e/esa_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.esa.int/><br> <https://en.wikipedia.org/wiki/European_Space_Agency><br> <https://ru.wikipedia.org/wiki/Европейское_космическое_агентство> |
-|Tel| <mark>нетрабочего</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, fax: … |
 |Etc| Штаб‑квартира: Париж, Франция.<br> Доп. центры: Нордвейк, Дармштадт, Кёльн, Фраскати, Вильянуэва‑де‑ла‑Каньяда, Куру (космодром) |
 
 **Европе́йское косми́ческое аге́нтство** (сокращённо ЕКА; англ. European Space Agency, ESA) — международная организация, созданная в 1975 году в целях исследования космоса. ЕКА состоит из 22 постоянных членов, в некоторых проектах также принимает участие Канада. Филиалы:

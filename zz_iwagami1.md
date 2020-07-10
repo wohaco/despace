@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*Tokyo Univ., JP. Graduate School of Science, Department of Earth and Planetary Science. Associate professor*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>нетдаты</mark> 1955 ? / … |
 || <mark>нетфото</mark> [![](f/contact//_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 

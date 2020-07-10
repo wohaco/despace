@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*НПО им. С.А. Лавочкина.*|
 |:--|:--|
 |i18n| Petrov, Maksim Evgenievich |
-|Телефон| *раб.:* <mark>нетрабочего</mark>; *моб.:* +7(999)989-84-62 |
+|Телефон| *раб.:* <mark>noworkphone</mark>; *моб.:* +7(999)989-84-62 |
 |E‑mail| <imax.petrov@yandex.ru> |
 |Д.р., адрес| 23.03.1995 / Москва, Конаковский проезд 12к1, 163 |
 || [![](f/contact/p/petrov_001_photo_thumb.jpg)](f/contact/p/petrov_001_photo.jpg) [![](f/contact/p/petrov_001_sign_thumb.jpg)](f/contact/p/petrov_001_sign.png) |

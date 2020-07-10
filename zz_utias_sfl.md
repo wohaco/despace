@@ -3,8 +3,8 @@
 
 |[![](f/contact/u/utias_sfl_logo1_thumb.jpg)](f/contact/u/utias_sfl_logo1.png)|*4925 Dufferin Street, Toronto, Ontario, M3H 5T6, Canada*|
 |:--|:--|
-|E‑mail| <info@utias-sfl.net> |
-|Link| <https://www.utias-sfl.net/> |
+|E‑mail| <info@utias‑sfl.net> |
+|Link| <https://www.utias‑sfl.net/> |
 |Tel| +1(416)667-74-00, fax: +1(416)667-74-78 |
 |Etc| … |
 

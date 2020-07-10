@@ -38,7 +38,7 @@
 
 Achieved targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -82,11 +82,11 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 
 |*Instrument*|*Description*|
 |:--|:--|
-| Venus Analytic Laboratory (VAL)  | Instruments would provide high-fidelity synergistic measurements throughout the probe’s descent, particularly in the upper clouds and the unexplored near‑surface environment. |
+| Venus Analytic Laboratory (VAL)  | Instruments would provide high‑fidelity synergistic measurements throughout the probe’s descent, particularly in the upper clouds and the unexplored near‑surface environment. |
 | Venus Mass Spectrometer (VMS) | Would provide the first comprehensive in situ surveys of noble and trace gases at Venus, and has the capability to discover new gas species in the Venusian atmosphere. |
 | Venus Tunable Laser Spectrometer (VTLS) | Would provide the first highly sensitive in situ measurements of targeted trace gases and associated isotope ratios at Venus, addressing key science questions about chemical processes in the upper clouds and the near‑surface environment. |
 | Venus Atmospheric Structure Investigation (VASI) | Would provide measurements of the structure and dynamics of Venus’ atmosphere during entry and descent, providing context for chemistry measurements and enabling reconstruction of the probe’s descent. |
-| Venus Descent Imager (VenDI) | Would provide high-contrast images of the tessera terrain at the descent location. |
+| Venus Descent Imager (VenDI) | Would provide high‑contrast images of the tessera terrain at the descent location. |
 
 
 <p style="page-break-after:always"> </p>

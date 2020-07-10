@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mission System Engineering. Section Manager*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <Johnny.H.Kwok@jpl.nasa.gov> |
 |B‑day, addr.| <mark>нетдаты</mark> 1981 ? / … |
 || [![](f/contact/k/kwok_001_photo_thumb.jpg)](f/contact/k/kwok_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

@@ -3,7 +3,7 @@
 
 |[![](f/contact/i/isas_logo1_thumb.jpg)](f/contact/i/isas_logo1.png)|*3 Chome-1-1 Yoshinodai, Chuo Ward, Sagamihara, Kanagawa 252-5210, JP.*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.isas.jaxa.jp/><br> <https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science> |
 |Tel| +81(42)751-39-11, fax: … |
 |Etc| … |
@@ -43,38 +43,38 @@ The deputy Director General, the Research Director, the Program Director of Spac
 | 1978.09.16 | EXOS-B | Jikiken | Magnetosphere & thermosphere observation |
 | 1979.02.21 | CORSA-b | Hakucho | X‑ray astronomy |
 | 1980.02.17 | MS-T4 | Tansei 4 | Technology experiment |
-| 1981.02.21 | ASTRO-A | Hinotori | Solar X‑ray observation |
-| 1983.02.20 | ASTRO-B | Tenma | X‑ray astronomy |
+| 1981.02.21 | astro‑A | Hinotori | Solar X‑ray observation |
+| 1983.02.20 | astro‑B | Tenma | X‑ray astronomy |
 | 1984.02.14 | EXOS-C | Ohzora | Mesosphere observation |
 | 1985.01.08 | MS-T5 | Sakigake | Technology experiment / Comet observation |
 | 1985.08.19 | PLANET-A | Suisei | Comet observation |
-| 1987.08.19 | ASTRO-C | Ginga | X‑ray astronomy |
+| 1987.08.19 | astro‑C | Ginga | X‑ray astronomy |
 | 1989.02.22 | EXOS-D | Akebono | Aurora observation |
 | 1990.01.24 | MUSES-A | Hiten | Interplanetary technology experiment |
 | 1991.08.30 | SOLAR-A | Yohkoh | Solar X‑ray observation (with [NASA](zz_nasa.md) / UK) |
 | 1992.07.24 | GEOTAIL | GEOTAIL | Magnetosphere observation (with [NASA](zz_nasa.md)) |
-| 1993.02.20 | ASTRO-D | ASCA | X‑ray astronomy (with [NASA](zz_nasa.md)) |
+| 1993.02.20 | astro‑D | ASCA | X‑ray astronomy (with [NASA](zz_nasa.md)) |
 | 1995.03.18 | SFU | SFU | Multi-purpose experiment flyer (with NASDA / NEDO / USEF) |
 | 1997.02.12 | MUSES-B | HALCA | Space VLBI technology development |
 | 1998.07.04 | PLANET-B | Nozomi | Mars atmosphere observation |
 | 2003.05.09 | MUSES-C | Hayabusa | Planetary sample return technology development |
 |||| **`After establishment of JAXA`** |
-| 2005.07.10 | ASTRO-EII | Suzaku | X‑ray astronomy |
+| 2005.07.10 | astro‑EII | Suzaku | X‑ray astronomy |
 | 2005.08.24 | INDEX | Reimei | Technology / Aurora research |
-| 2006.02.21 | ASTRO-F | Akari | Infrared astronomy |
+| 2006.02.21 | astro‑F | Akari | Infrared astronomy |
 | 2006.09.22 | SOLAR-B | Hinode | Solar observation |
 | 2007.09.14 | SELENE | Kaguya | Lunar orbiter |
 | 2010.05.20 | PLANET-C | [Akatsuki](Akatsuki.md) | Venus atmosphere observation |
 | 2013.09.14 | SPRINT-A | Hisaki | EUV observation |
 | 2014.12.03 | Hayabusa2 | Hayabusa2 | Asteroid sample return |
-| 2016.02.17 | ASTRO-H | Hitomi | X‑ray astronomy |
+| 2016.02.17 | astro‑H | Hitomi | X‑ray astronomy |
 | 2016.12.20 | ERG | Arase | Magnetosphere research |
 | 2018.10.20 | MMO | Mio | Exploration of Mercury as part of the BepiColombo (with [ESA](zz_esa.md)) |
 |||| **`Future missions`** |
 | 2022 | XRISM | | X‑ray astronomy |
 | 2022 | SLIM | | Lunar landing demonstration |
 | 2022 | JUICE | | Ganymede exploration (with [ESA](zz_esa.md) / [NASA](zz_nasa.md)) |
-| 2022 | DESTINY+ | | Near Earth objects multi-flyby |
+| 2022 | DESTINY+ | | Near Earth objects multi-fly‑by |
 | 2024 | MMX | | Phobos sample return |
 | 2024 | Small-JASMINE | | Infrared astrometry |
 | 2027 | LiteBIRD | | CMB astronomy |

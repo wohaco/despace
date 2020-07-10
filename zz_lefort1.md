@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU(FR).*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <Jayne.Lefort@sciops.esa.int> |
 |B‑day, addr.| <mark>нетдаты</mark> 1976 ? / … |
 || [![](f/contact/l/lefort_001_photo_thumb.jpg)](f/contact/l/lefort_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

@@ -17,9 +17,9 @@
    - Git: …
    - Facebook: <https://www.facebook.com/thomas.widemann.9>
    - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <https://in.linkedin.com/pub/thomas-widemann/3b/290/818>
+   - LinkedIn: <https://in.linkedin.com/pub/thomas‑widemann/3b/290/818>
    - Twitter: <https://twitter.com/widemannthomas>
-   - <http://www.lesia.obspm.fr/perso/thomas-widemann/>
-   - <http://www.dypac.uvsq.fr/widemann-thomas-331050.kjsp>
+   - <http://www.lesia.obspm.fr/perso/thomas‑widemann/>
+   - <http://www.dypac.uvsq.fr/widemann-thomas‑331050.kjsp>
    - **As a person:**
       1. …

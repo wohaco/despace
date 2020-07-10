@@ -5,9 +5,9 @@
 
 ---
 
-> <small>*Термины:* **SAIT High-speed X‑band Downlink Transmitter (HSXBDT)** — англоязычный термин, не имеющий аналога в русском языке. **Высокоскоростной радиопередатчик X-диапазона НПП Саит (HSXBDT)** — дословный перевод с английского на русский.</small>
+> <small>*Термины:* **SAIT High‑speed X‑band Downlink Transmitter (HSXBDT)** — англоязычный термин, не имеющий аналога в русском языке. **Высокоскоростной радиопередатчик X-диапазона НПП Саит (HSXBDT)** — дословный перевод с английского на русский.</small>
 
-**SAIT High-speed X‑band Downlink Transmitter (HSXBDT)** — радиопередатчик.  
+**SAIT High‑speed X‑band Downlink Transmitter (HSXBDT)** — радиопередатчик.  
 *Разработчик:* [НПП Саит](zz_sait_ltd.md). Разработано ранее 2016 года активное применение
 
 ||

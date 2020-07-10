@@ -3,7 +3,7 @@
 
 |[![](f/contact/p/psi_logo1_thumb.jpg)](f/contact/p/psi_logo1.png)|*1700 East Fort Lowell, Suite 106, Tucson, AZ 85719-2395, USA*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.psi.edu/><br> <https://en.wikipedia.org/wiki/Planetary_Science_Institute><br> <https://ru.wikipedia.org/wiki/Планетологический_институт_США> |
 |Tel| +1(520)622-63-00, fax: +1(520)622-80-60 |
 |Etc| … |

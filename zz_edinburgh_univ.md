@@ -3,7 +3,7 @@
 
 |[![](f/contact/e/edinburgh_univ_logo1_thumb.jpg)](f/contact/e/edinburgh_univ_logo1.png)|*WRV6+R8 Edinburgh, UK*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.ed.ac.uk/><br> <https://en.wikipedia.org/wiki/University_of_Edinburgh><br> <https://ru.wikipedia.org/wiki/Эдинбургский_университет> |
 |Tel| +44(131)650-1000, fax: … |
 |Etc| … |

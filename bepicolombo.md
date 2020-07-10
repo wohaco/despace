@@ -43,7 +43,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -65,9 +65,9 @@ Targets & investigations:
 ## Mission
 It was launched on an Ariane VA245 rocket on 20 October 2018 at 01:45 UTC, with an arrival at Mercury planned for December 2025.
 
- During this time it will use solar-electric propulsion (ion thrusters) and nine gravity assists, flying past the Earth and Moon in April 2020, Venus in 2020 and 2021, and six Mercury flybys between 2021 and 2025.
+ During this time it will use solar-electric propulsion (ion thrusters) and nine gravity assists, flying past the Earth and Moon in April 2020, Venus in 2020 and 2021, and six Mercury fly‑bys between 2021 and 2025.
 
-The stacked spacecraft left Earth with a hyperbolic excess velocity of 3.475 km/s. Initially the craft is placed in an orbit similar to that of the Earth. After both the spacecraft and the Earth completed one and a half orbits, it returns to Earth to perform a gravity-assist manoeuvre and is deflected towards Venus. Two consecutive Venus flybys reduce the perihelion nearly to Mercury distance with almost no need for thrust. A sequence of six Mercury flybys will lower the relative velocity to 1.76 km/s. After the fourth Mercury flyby the craft will be in an orbit similar to that of Mercury and will remain in the general vicinity of Mercury. Four final thrust arcs reduce the relative velocity to the point where Mercury will «weakly» capture the spacecraft on 5 December 2025 into polar orbit. Only a small manoeuvre is needed to bring the craft into an orbit around Mercury with an apocentre of 178 000 km. The Orbiters then separate and will adjust their orbits using chemical thrusters.
+The stacked spacecraft left Earth with a hyperbolic excess velocity of 3.475 km/s. Initially the craft is placed in an orbit similar to that of the Earth. After both the spacecraft and the Earth completed one and a half orbits, it returns to Earth to perform a gravity-assist manoeuvre and is deflected towards Venus. Two consecutive Venus fly‑bys reduce the perihelion nearly to Mercury distance with almost no need for thrust. A sequence of six Mercury fly‑bys will lower the relative velocity to 1.76 km/s. After the fourth Mercury fly‑by the craft will be in an orbit similar to that of Mercury and will remain in the general vicinity of Mercury. Four final thrust arcs reduce the relative velocity to the point where Mercury will «weakly» capture the spacecraft on 5 December 2025 into polar orbit. Only a small manoeuvre is needed to bring the craft into an orbit around Mercury with an apocentre of 178 000 km. The Orbiters then separate and will adjust their orbits using chemical thrusters.
 
 During the cruise phase, BepiColombo will be a one-piece spacecraft. Upon arrival to the planet Mercury, the spacecraft will be divided into 3 separate spacecraft:
 
@@ -84,16 +84,16 @@ As of 2018, the planned mission schedule is:
 |*Date*|*Event*|*Comment*|
 |:--|:--|:--|
 | 20 October 2018 | Launch | |
-| 6 April 2020 | Earth flyby | 1.5 years after launch |
-| 12 October 2020 | First Venus flyby ||
-| 11 August 2021 | Second Venus flyby | 1.35 Venus years after first Venus flyby |
-| 2 October 2021 | First Mercury flyby ||
-| 23 June 2022 | Second Mercury flyby | 2 orbits (3.00 Mercury years) after 1st Mercury flyby |
-| 20 June 2023 | Third Mercury flyby | > 3 orbits (4.12 Mercury years) after 2nd Mercury flyby |
-| 5 September 2024 | Fourth Mercury flyby | ~ 4 orbits (5.04 Mercury years) after 3rd Mercury flyby |
-| 2 December 2024 | Fifth Mercury flyby | 1 orbit (1.00 Mercury year) after 4th Mercury flyby |
-| 9 January 2025 | Sixth Mercury flyby | ~ 0.43 orbits (0.43 Mercury years) after 5th Mercury flyby |
-| 5 December 2025 | Mercury orbit insertion | Spacecraft separation; 3.75 Mercury years after 6th Mercury flyby |
+| 6 April 2020 | Earth fly‑by | 1.5 years after launch |
+| 12 October 2020 | First Venus fly‑by ||
+| 11 August 2021 | Second Venus fly‑by | 1.35 Venus years after first Venus fly‑by |
+| 2 October 2021 | First Mercury fly‑by ||
+| 23 June 2022 | Second Mercury fly‑by | 2 orbits (3.00 Mercury years) after 1st Mercury fly‑by |
+| 20 June 2023 | Third Mercury fly‑by | > 3 orbits (4.12 Mercury years) after 2nd Mercury fly‑by |
+| 5 September 2024 | Fourth Mercury fly‑by | ~ 4 orbits (5.04 Mercury years) after 3rd Mercury fly‑by |
+| 2 December 2024 | Fifth Mercury fly‑by | 1 orbit (1.00 Mercury year) after 4th Mercury fly‑by |
+| 9 January 2025 | Sixth Mercury fly‑by | ~ 0.43 orbits (0.43 Mercury years) after 5th Mercury fly‑by |
+| 5 December 2025 | Mercury orbit insertion | Spacecraft separation; 3.75 Mercury years after 6th Mercury fly‑by |
 | 14 March 2026 | MPO in final science orbit | 1.13 Mercury years after orbit insertion |
 | 1 May 2027 | End of nominal mission | 5.82 Mercury years after orbit insertion |
 | 1 May 2028 | End of extended mission | 9.98 Mercury years after orbit insertion |
@@ -143,8 +143,8 @@ Mio carries five groups of science instruments:
       - Mercury Electron Analyzers (**MEA1**) and (**MEA2**);
       - Mercury Ion Analyzer (**MIA**);
       - Mass Spectrum Analyzer (**MSA**);
-      - High-Energy Particle instrument for electrons (**HEP-ele**);
-      - High-Energy Particle instrument for Ions (**HEP-ion**);
+      - High‑Energy Particle instrument for electrons (**HEP-ele**);
+      - High‑Energy Particle instrument for Ions (**HEP-ion**);
       - Energetic Neutrals Analyzer (**ENA**).
    - Mercury Magnetometer (**MMO-MGF**), studies Mercury’s magnetic field, magnetosphere, and interplanetary solar wind;
    - Plasma Wave Investigation (**PWI**), studies the electric field, electromagnetic waves, and radio waves from the magnetosphere and solar wind;
@@ -175,7 +175,7 @@ The Mercury Transfer Module (MTM), developed by the European Space Agency, is lo
 
 The MTM is equipped with a solar electric propulsion system as the main spacecraft propulsion. Its four QinetiQ T6 ion thrusters operate singly or in pairs for a maximum combined thrust of 290 mN, making it the most powerful ion engine array ever operated in space. The MTM supplies electrical power for the two hibernating Orbiters as well as for its solar electric propulsion system thanks to two 14 meter-long solar panels. Depending on the probe’s distance to the Sun, the generated power will range between 7 and 14 kW, each T6 requiring between 2.5 and 4.5 kW according to the desired thrust level.
 
-The solar electric propulsion system has typically very high specific impulse and low thrust. This leads to a flight profile with months-long continuous low-thrust braking phases, interrupted by planetary gravity assists, to gradually reduce the velocity of the spacecraft. Moments before Mercury orbit insertion, the MTM will be jettisoned from the spacecraft stack. After separation from the MTM, the MPO will provide Mio all necessary power and data resources until Mio is delivered to its mission orbit; separation of Mio from MPO will be accomplished by spin-ejection.
+The solar electric propulsion system has typically very high specific impulse and low thrust. This leads to a flight profile with months-long continuous low‑thrust braking phases, interrupted by planetary gravity assists, to gradually reduce the velocity of the spacecraft. Moments before Mercury orbit insertion, the MTM will be jettisoned from the spacecraft stack. After separation from the MTM, the MPO will provide Mio all necessary power and data resources until Mio is delivered to its mission orbit; separation of Mio from MPO will be accomplished by spin-ejection.
 
 ### MPO
 
@@ -187,7 +187,7 @@ The MPO will have a mass of 1 150 kg and will use a single-sided solar array
 
 The MPO will carry a payload of 11 instruments, comprising cameras, spectrometers (IR, UV, X‑ray, γ‑ray, neutron), a radiometer, a laser altimeter, a magnetometer, particle analysers, a Ka‑band transponder, and an accelerometer. The payload components are mounted on the nadir side of the spacecraft to achieve low detector temperatures, apart from the MERTIS and PHEBUS spectrometers located directly at the main radiator to provide a better field of view.
 
-A high-temperature‑resistant 1.0 m diameter high‑gain antenna is mounted on a short boom on the zenith side of the spacecraft. Communications will be on the X and Ka band with an average bit rate of 50 Kb/s and a total data volume of 1550 Gb/year. ESA’s Cebreros 35-metre ground station is planned to be the primary ground facility for communications during all mission phases.
+A high‑temperature‑resistant 1.0 m diameter high‑gain antenna is mounted on a short boom on the zenith side of the spacecraft. Communications will be on the X and Ka band with an average bit rate of 50 Kb/s and a total data volume of 1550 Gb/year. ESA’s Cebreros 35-metre ground station is planned to be the primary ground facility for communications during all mission phases.
 
 ### Mio
 
@@ -206,7 +206,7 @@ Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equat
 
 **PEOPLE:**
 
-   1. Giuseppe «Bepi» Colombo — a scientist, mathematician and engineer at the University of Padua, Italy, who first proposed the interplanetary gravity assist manoeuvre used by the 1974 Mariner 10 mission, a technique now used frequently by planetary probes.
+   1. Giuseppe «Bepi» Colombo — a scientist, mathematician and engineer at the University of Padua, Italy, who first proposed the interplanetary gravity assist manoeuvre used by the 1974 Mariner 10 mission, a technique now used frequently by planetary probes.
 
 **COMMUNITY:**
 

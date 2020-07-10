@@ -16,7 +16,7 @@ The satellite was the 48-ton, third stage of a three-stage rocket in a flight fr
 
 The launch made Iraq the tenth nation with a rocket powerful enough for space launches. It was the first time Iraq had exposed its space research.
 
-**Scout-like.** Iraq’s 75-ft., three-stage rocket probably was similar to a U.S. Scout rocket used to send small satellites to low orbits.
+**Scout‑like.** Iraq’s 75-ft., three-stage rocket probably was similar to a U.S. Scout rocket used to send small satellites to low orbits.
 
 **Military missiles.** Iraq’s space booster may have been a modified version of Argentina’s Condor ballistic missile. Such a missile could carry a nuclear warhead 1,240 miles. Iraq also had a 600-mi. missile built around the USSR’s Scud.
 

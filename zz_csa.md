@@ -3,7 +3,7 @@
 
 |[![](f/contact/c/csa_logo1_thumb.jpg)](f/contact/c/csa_logo1.png)|*6767 Route de l'Aeroport, Saint-Hubert, Quebec, J3Y 8Y9, Canada*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.asc-csa.gc.ca/><br> <http://www.asc-csa.gc.ca/><br> <https://en.wikipedia.org/wiki/Canadian_Space_Agency><br> <https://ru.wikipedia.org/wiki/Канадское_космическое_агентство> |
 |Tel| +1(450)926-48-00, fax: +1(450)926-43-52 |
 |Etc| Миссия: The Canadian Space Agency (CSA) is responsible for advancing the knowledge of space through science; using its discoveries for the good of Canadians & all of humanity. |

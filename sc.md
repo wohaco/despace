@@ -51,7 +51,7 @@
          - high‑height
          - L1/L2
          - low‑height
-      - Flyby spacecraft (пролётный КА)
+      - Fly‑by spacecraft (пролётный КА)
       - Observatory (КА‑обсерватория)
          - high‑height
          - L1/L2

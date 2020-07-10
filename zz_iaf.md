@@ -3,7 +3,7 @@
 
 |[![](f/contact/i/iaf_logo1_thumb.jpg)](f/contact/i/iaf_logo1.png)|*100 Avenue de Suffren, 75015 Paris, France*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <http://www.iafastro.org/><br> <https://en.wikipedia.org/wiki/International_Astronautical_Federation><br> <https://ru.wikipedia.org/wiki/Международная_астронавтическая_федерация> |
 |Tel| +33(145)674-260, fax: +33(142)732-120 |
 |Etc| … |

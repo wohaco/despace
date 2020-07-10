@@ -38,7 +38,7 @@
 
 Targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -76,7 +76,7 @@ Targets & investigations:
 ## Description
 Exploring Venus helps get to know our planet better.
 
-It is believed that Venus and Earth appeared around the same time 4.6 billion years ago. At that time, Venus may have had earth-like oceans. However, today Venus has no oceans and is covered by an atmosphere of CO₂. Venus is closer to the Sun than Earth, so the temperature is higher and more water molecules are carried out of the atmosphere into space. This may mean that water vapor rising into the upper atmosphere was then broken up into oxygen and hydrogen by solar UV radiation, and then lighter hydrogen atoms were released into space. Without oceans, CO₂ cannot dissolve in water, as it does on Earth, and accumulates in large quantities in the atmosphere.
+It is believed that Venus and Earth appeared around the same time 4.6 billion years ago. At that time, Venus may have had earth‑like oceans. However, today Venus has no oceans and is covered by an atmosphere of CO₂. Venus is closer to the Sun than Earth, so the temperature is higher and more water molecules are carried out of the atmosphere into space. This may mean that water vapor rising into the upper atmosphere was then broken up into oxygen and hydrogen by solar UV radiation, and then lighter hydrogen atoms were released into space. Without oceans, CO₂ cannot dissolve in water, as it does on Earth, and accumulates in large quantities in the atmosphere.
 
 Unlike Earth, the upper atmosphere moves 60 times faster than the surface. Terrestrial meteorology cannot explain this phenomenon.
 
@@ -98,7 +98,7 @@ The oceans, magnetic field, and tectonics of the lithosphere present on Earth ar
 
 The cost of the mission is $ 290 million or 7 370 kg of [gold](sc_price.md) in 2010 prices (SC is $ 174 million or 4 422 kg of [gold](sc_price.md), launch is $ 116 million or 2 948 kg of [gold](sc_price.md), or ¥ 14.6 billion and ¥ 9.8 billion, respectively).
 
-The mission was supposed to fly for 7 months with an exit to a operating orbit of 300 × 80 000 km 24 h, but during braking, one of the fuel valves of the main engine failed. This caused the fuel components to mix in dangerous proportions, causing an explosion and damage to the engine nozzle. The spacecraft failed to reach the target orbit, and entered the solar orbit with a period of 203 days. Since the period of Venus ' rotation is 225 days, this allowed to catch up with Venus and enter the highly elongated orbit of the artificial satellite of Venus in 6 years. As a result, the rest of the braking and maneuvers were performed using low-thrust engines. Because of this, the mission was delayed longer than the calculated value, some of the devices began to fail. In the end, the spacecraft was released into its target orbit and began functioning.
+The mission was supposed to fly for 7 months with an exit to a operating orbit of 300 × 80 000 km 24 h, but during braking, one of the fuel valves of the main engine failed. This caused the fuel components to mix in dangerous proportions, causing an explosion and damage to the engine nozzle. The spacecraft failed to reach the target orbit, and entered the solar orbit with a period of 203 days. Since the period of Venus ' rotation is 225 days, this allowed to catch up with Venus and enter the highly elongated orbit of the artificial satellite of Venus in 6 years. As a result, the rest of the braking and maneuvers were performed using low‑thrust engines. Because of this, the mission was delayed longer than the calculated value, some of the devices began to fail. In the end, the spacecraft was released into its target orbit and began functioning.
 
 The cause of the problem is the deposition of salts in the pipeline between the boost tank (helium) and the fuel tank, as a result, the oxidizer became predominant in the combustion chamber and the increased temperature damaged the nozzle. A similar problem destroyed [Mars Observer](mars_observer.md) in 1993.
 
@@ -213,8 +213,8 @@ The payload includes 6 instruments, including 5 cameras for exploring Venus in t
    - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 — 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near‑IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 mm (f/4) and a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](zz_iwagami1.md) (ex. Tokyo Univ.).
    - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface and near ‑ surface atmosphere (1.74 — 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 mm (f/4) and FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](zz_satoh1.md) (ISAS/JAXA).
    - **Lightning and Airglow Camera (LAC)** — (range 552 — 777 nm). Camera with FOV of 16°. Detector based on an array of avalanche photodiodes, in the form of a matrix of 8 × 8 pixels. [PI](principal_investigator.md) — [Yukihiro Takahashi](zz_takahashi1.md) (Hokkaido Univ.).
-   - **Longwave infrared camera (LIR)** — to study the structure of high-altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV and 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](zz_taguchi1.md) (Rikkyo Univ.).
-   - **Ultra-Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](zz_imamura1.md) (Tokyo Univ.).
+   - **Longwave infrared camera (LIR)** — to study the structure of high‑altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV and 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](zz_taguchi1.md) (Rikkyo Univ.).
+   - **ultra‑Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](zz_imamura1.md) (Tokyo Univ.).
    - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide and an unknown UV absorber (range 283 — 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](zz_watanabe1.md) (Hokkaido Information Univ.).
 
 ![](f/project/a/akatsuki/payload01.png)
@@ -263,8 +263,8 @@ The IR spectrum at a wavelength of 10 µm is used to measure the temperature o
 
 <p style="page-break-after:always"> </p>
 
-### USO (Ultra-stable oscillator)
-When Akatsuki is obscured by Venus from observations from Earth, radio waves emitted by the spacecraft enter the atmosphere of Venus and reach the Earth ([EVN‑078](venus.md)). The transit of radio waves through the atmosphere of Venus causes a change in their frequency. By analyzing these changes, could be constructed vertical temperature profiles ([EVN‑010](venus.md)) and sulphuric acid mist ([EVN‑077](venus.md)). An ultra-stable oscillator is used to generate the radio wave.
+### USO (ultra‑stable oscillator)
+When Akatsuki is obscured by Venus from observations from Earth, radio waves emitted by the spacecraft enter the atmosphere of Venus and reach the Earth ([EVN‑078](venus.md)). The transit of radio waves through the atmosphere of Venus causes a change in their frequency. By analyzing these changes, could be constructed vertical temperature profiles ([EVN‑010](venus.md)) and sulphuric acid mist ([EVN‑077](venus.md)). An ultra‑stable oscillator is used to generate the radio wave.
 
 ![](f/project/a/akatsuki/payload06.jpg)
 

@@ -3,7 +3,7 @@
 
 |[![](f/contact/c/cnes_logo1_thumb.jpg)](f/contact/c/cnes_logo1.png)|*18 Avenue Edouard Belin, 31400 Toulouse, France*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://cnes.fr/><br> <https://en.wikipedia.org/wiki/CNES><br> <https://ru.wikipedia.org/wiki/Национальный_центр_космических_исследований> |
 |Tel| +33(561)27-31-31, fax: … |
 |Etc| … |

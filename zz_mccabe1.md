@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Hampton Univ.](hampton_univ.md), US. Graduate Research Assistant (2015)*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <rymccabe999@aol.com> |
 |B‑day, addr.| 1993.04.21 / Hampton, VA, USA |
 || [![](f/contact/m/mccabe_001_photo_thumb.jpg)](f/contact/m/mccabe_001_photo.jpg) <mark>нетподписи</mark> |

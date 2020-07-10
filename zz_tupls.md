@@ -3,7 +3,7 @@
 
 |[![](f/contact/t/tupls_logo1_thumb.jpg)](f/contact/t/tupls_logo1.png)|*Japan, 〒192‑0355 Tokyo, Hachioji, Horinouchi, 1432‑1*|
 |:--|:--|
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |Link| <https://www.toyaku.ac.jp/english_page/><br> <https://en.wikipedia.org/wiki/Tokyo_University_of_Pharmacy_and_Life_Sciences> |
 |Tel| +81(42)676-51-11, fax: … |
 |Etc| … |

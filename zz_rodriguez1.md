@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*[МАИ](zz_mai.md), MX.*|
 |:--|:--|
 |B‑day, addr.| <mark>нетдаты</mark> / … |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/r/rodriguez_001_photo_thumb.jpg)](f/contact/r/rodriguez_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** …

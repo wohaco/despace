@@ -5,7 +5,7 @@
 |:--|:--|
 |i18n| Dolgopolov, Vladimir Pavlovich |
 |Tel| *раб.:* 31-35; *моб.:* +7(903)775-55-56 |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1939.03.16, на НПОЛ с 1968 / … |
 || ![](f/contact/d/dolgopolov_001_animated.gif) [![](f/contact/d/dolgopolov_001_sign_thumb.jpg)](f/contact/d/dolgopolov_001_sign.png) |
 

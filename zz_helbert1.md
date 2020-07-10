@@ -5,7 +5,7 @@
 |:--|:--|
 |i18n| <mark>TBD</mark> |
 |Tel| *раб.:* +49(30)670-55-319; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || [![](f/contact/h/helbert_001_photo_thumb.jpg)](f/contact/h/helbert_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 

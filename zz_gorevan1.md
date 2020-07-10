@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*Honeybee, US. Founder, chairman*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <gorevan@honeybeerobotics.com> |
 |B‑day, addr.| 1955.06.07 Rockville Centre, New York, US / … |
 || [![](f/contact/g/gorevan_001_photo_thumb.jpg)](f/contact/g/gorevan_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

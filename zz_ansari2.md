@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[BSIP](zz_bsip.md), IN. Precambrian Palaeobiology*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* +91(841)805-28-12 |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +91(841)805-28-12 |
 |E‑mail| <a.h.ansari@bsip.res.in>, <arifenv@gmail.com> |
 |B‑day, addr.| <mark>нетдаты</mark> 1983 / … |
 || [![](f/contact/a/ansari_002_photo_thumb.jpg)](f/contact/a/ansari_002_photo.jpg) <mark>нетподписи</mark> |

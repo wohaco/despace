@@ -33,7 +33,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|  |
 |[Reliability](rams.md)|  |
 |Resource, h (y)|  |
-|[Thermal](tcs.md), °C| … ‑ 462 |
+|[Thermal](tcs.md), °C| … ‑ 462 |
 |[Voltage](voltage.md), V|  |
 
 

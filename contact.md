@@ -470,7 +470,7 @@
 | [Space Forge](zz_space_forge.md)   (UK) ||||R| Reusable sats for material manufacturing in space  |
 | [Space Mining T.](zz_space_mintech.md)   (EU) ||||| Moon & asteroids mining |
 | [Swedish SC](swedish_sc.md)   (SE) ||||| КА, кубсаты, аэростаты, НС |
-| [TAS-I](zz_tas_i.md)   (FR) ||||| … |
+| [Tas‑I](zz_tas_i.md)   (FR) ||||| … |
 | [Terma A/S](zz_terma.md)   (DK) ||||| … |
 | [TU Delft](tu_delft.md)   (NL) ||||| … |
 | [UCL](zz_ucl.md)   (UK) ||||| … |
@@ -555,7 +555,7 @@
 |:--|:--|:--|:--|:--|:--|
 |**··· Head ···**|•|•|•|•|• • •|
 | [JAXA](zz_jaxa.md) |E|L|P|R| Гос. агентство, космическая и авиационная программа Японии |
-| [ISAS](zz_isas.md) ||||R| Астрофизические исследования ракетами, ДЗЗ и КА. Часть JAXA |
+| [ISAS](zz_isas.md) ||||R| Astrophysical explorations with rockets, SC. A part of JAXA |
 | [SCJ](zz_scj.md) |N||P|C| Major Japanese science organization |
 |**··· Contractors ···**|•|•|•|•|• • •|
 | [3D Printing Corp.](zz_3d_printing_corp.md) ||||R| Composite 3D printing |
@@ -834,7 +834,7 @@
 | [Icarus Interstellar](zz_icarus_interstellar.md) |N||P|R| R&D technology that will assist the development of interstellar flight |
 | [ImageSat Int.](zz_imagesat_int.md) ||||| Geospatial solutions & services: imagery, data, analytics |
 | [Int. Moonbase Alliance](zz_i18n_moonbase_alc.md) ||||| Advancing the development/implementation of base on the Moon |
-| [Intuitive Machines](zz_intt_machines.md) ||||| Auto systems for industrial systems, drones, SC & spacesuit modeling/sim. services |
+| [Intuitive Machines](zz_intt_machines.md) ||||| Automatics for industrial systems, drones, SC & spacesuit modeling/sim. services |
 | [Jacobs](zz_jacobs.md) ||||C| Civil engineering & solutions |
 | [J.Hopkins Univ.](zz_jhu.md) ||||| … |
 | [Jena‑Optronik](zz_jenaoptronik.md) ||||| … |

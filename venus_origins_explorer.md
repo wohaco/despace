@@ -19,7 +19,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 |Launch| …, …, … |
 |Operator| … |
 |Programme| New Frontiers program 4 |
-|Similar to| • Proposed: …<br> • Current: …<br> • Past: [Pineer Venus Orbiter](pioneer_venus_1.md), [Venera 15 and 16](venera_15_16.md), [Magellan](magellan.md.md) |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: [Pineer Venus Orbiter](pioneer_venus_1.md), [Venera 15 and 16](venera_15_16.md), [Magellan](magellan.md.md) |
 |Target| Produce global, high resolution topography and imaging of Venus’ surface and produce the first maps of deformation and global surface composition, thermal emissivity, and gravity field to study the interior structure of the planet |
 |[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft |
 |**Spacecraft:**|• • •|
@@ -36,7 +36,7 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 
 **Projected** targets & objectives:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.

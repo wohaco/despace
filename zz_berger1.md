@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[IRAP](zz_irap.md), EU.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* +33(0)5-6133-2582 |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +33(0)5-6133-2582 |
 |E‑mail| <gilles.berger@irap.omp.eu> |
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 || [![](f/contact/b/berger_001_photo_thumb.jpg)](f/contact/b/berger_001_photo.jpg) <mark>нетподписи</mark> |

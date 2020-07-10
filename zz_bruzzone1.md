@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*Trento Univ., IT. Professor & Head of the Remote Sensing Laboratory (since 1999)*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <lorenzo.bruzzone@ing.unitn.it> |
 |B‑day, addr.| <mark>нетдаты</mark> 1970 ? / … |
 || [![](f/contact/b/bruzzone_001_photo_thumb.jpg)](f/contact/b/bruzzone_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

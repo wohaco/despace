@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[TU Delft](tu_delft.md), EU. Department of Space Exploration. PhD Candidate*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 |E‑mail| <G.Mahapatra@tudelft.nl> |
 |B‑day, addr.| <mark>нетдаты</mark> .08.22 / … |
 || [![](f/contact/m/mahapatra_001_photo_thumb.jpg)](f/contact/m/mahapatra_001_photo.jpg) <mark>нетподписи</mark> |

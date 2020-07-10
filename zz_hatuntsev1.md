@@ -6,7 +6,7 @@
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 |E‑mail| <khatuntsev@gmail.com> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* +7(495)333-41-02 |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* +7(495)333-41-02 |
 || [![](f/contact/h/hatuncev_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** …

@@ -420,7 +420,7 @@
 ### 11. Перезаправка в космосе (топливо, вода и пр.)
 <mark>TBD</mark>
 
-<https://techcrunch.com/2019/10/03/orbit-fab-gas-stations-in-space-seed-funding/>
+<https://techcrunch.com/2019/10/03/orbit-fab-gas‑stations-in-space-seed-funding/>
 
 
 

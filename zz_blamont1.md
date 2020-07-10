@@ -4,8 +4,8 @@
 |*[Org.](contact.md)*|*[CNES](zz_cnes.md), FR.*|
 |:--|:--|
 |i18n| Бламон, Жак |
-|Tel| *раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
-|E‑mail| <mark>нетпочты</mark> |
+|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1926.10.13 Paris, FR / … |
 || [![](f/contact/b/blamont_001_photo_thumb.jpg)](f/contact/b/blamont_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 

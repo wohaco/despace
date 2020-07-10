@@ -24,7 +24,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 |Launch| May 4, 1989, 18:47:00 UTC, Rocket: Space Shuttle Atlantis STS-30 / IUS |
 |Operator| NASA / JPL |
 |Programme| Magellan |
-|Similar to| • Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md) |
+|Similar to| • Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md) |
 |Target| Radar mapping of Venus |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
@@ -40,7 +40,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 
 Achieved targets & investigations:
 
-   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstration
+   - **T** — technical; **C** — contact research; **D** — distant research; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
    - **Sections of measurement and observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
@@ -94,7 +94,7 @@ During each orbit, the space probe captured radar data while the spacecraft was 
    - Goal: Complete primary objective.
    - September 15, 1990 — May 15, 1991
 
-The spacecraft began returning high-quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake‑shaped domes ([EVN‑025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 km to 290 km near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/px ([EVN‑022](venus.md)). The spacecraft returned 1 200 Gb of data.
+The spacecraft began returning high‑quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake‑shaped domes ([EVN‑025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 km to 290 km near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/px ([EVN‑022](venus.md)). The spacecraft returned 1 200 Gb of data.
 
 |![](f/project/m/magellan/venus1.jpg)|
 |:--|
@@ -162,11 +162,11 @@ The sixth and final orbiting cycle was another extension to the two previous gra
    - Goal: Collect data on atmospheric dynamics.
    - September 6, 1994 — September 14, 1994
 
-In September 1994, the orbit of Magellan was lowered to begin the «Windmill experiment». During the experiment, the spacecraft was oriented with the solar arrays broadly, perpendicular to the orbital path, where they could act as paddles as they impacted molecules of the upper-Venusian atmosphere. Countering this force, the thrusters fired to keep the spacecraft from spinning. This provided data on the basic oxygen gas-surface interaction. This was useful for understanding the impact of upper-atmospheric forces which aided in designing future Earth‑orbiting satellites, and methods for aerobraking during future planetary spacecraft missions.
+In September 1994, the orbit of Magellan was lowered to begin the «Windmill experiment». During the experiment, the spacecraft was oriented with the solar arrays broadly, perpendicular to the orbital path, where they could act as paddles as they impacted molecules of the upper-Venusian atmosphere. Countering this force, the thrusters fired to keep the spacecraft from spinning. This provided data on the basic oxygen gas‑surface interaction. This was useful for understanding the impact of upper-atmospheric forces which aided in designing future Earth‑orbiting satellites, and methods for aerobraking during future planetary spacecraft missions.
 
 **RESULTS**
 
-   - The most important result of the mission was a map of 98 % of the surface with a record resolution of up to 100 m/px. For the first time, information was obtained about the South pole of the planet. Its imagery contributed to the best high‑resolution radar maps of Venus’ surface to date, improving on the images returned by the Soviet [Venera 15 and 16](venera_15_16.md) in the 1980s ([EVN‑022](venus.md)).
+   - The most important result of the mission was a map of 98 % of the surface with a record resolution of up to 100 m/px. For the first time, information was obtained about the South pole of the planet. Its imagery contributed to the best high‑resolution radar maps of Venus’ surface to date, improving on the images returned by the Soviet [Venera 15 and 16](venera_15_16.md) in the 1980s ([EVN‑022](venus.md)).
    - Study of the Magellan high‑resolution global images is providing evidence to better understand Venusian geology and the role of impacts, volcanism, and tectonics in the formation of Venusian surface structures ([EVN‑044](venus.md)). The spacecraft found that such phenomena as continental drift are not evident on the planet.
    - Magellan found that at least 85 % of the Venusian surface is covered with volcanic flows ([EVN‑076](venus.md)). The spacecraft’s data suggested that despite the high surface temperatures or 475 degrees Celsius and high atmospheric pressures 92 atm, the complete lack of water makes erosion an extremely slow process on the planet ([EVN‑052](venus.md)). Magellan’s maps show no telltale signs of past major water bodies such as shorelines or ocean basins. As a result, surface features can persist for hundreds of millions of years.
    - From the craters visible in Magellan’s Venus maps, scientists believe they are looking at a relatively young planetary surface, perhaps about 500 million years old. Since Venus formed at the same time as Earth 4.6 billion years ago, some event or events 500 million years ago must have resurfaced the planet. Scientists believe that this may have been the work of massive outpourings of lava from planet-wide volcanic eruptions ([EVN‑042](venus.md), [EVN‑046](venus.md)). Although Venus may still have active volcanoes, no visible outpourings of lava have yet been detected in comparisons of Magellan images between one eight-month orbital cycle and another ([EVN‑029](venus.md), [EVN‑076](venus.md)).
@@ -223,7 +223,7 @@ To save costs, most of the Magellan probe was made up of spare parts from variou
 
 **Attitude control and propulsion**
 
-The spacecraft’s attitude control (orientation) was designed to be three-axis stabilized. Magellan design did not lend itself to spinning, so the resulting propulsion system design had to accommodate the challenging control issues with the large solid rocket motor «Star 48B». Due to high thrust, even a 0.5 % SRM alignment error could generate side forces of 445 N. Final conservative estimates of worst‑case side forces resulted in the need for eight 445 N thrusters, two in each quadrant, located out on booms at the maximum radius that the Space Shuttle Orbiter Payload Bay would accommodate (4.4 m diameter).
+The spacecraft’s attitude control (orientation) was designed to be three‑axis stabilized. Magellan design did not lend itself to spinning, so the resulting propulsion system design had to accommodate the challenging control issues with the large solid rocket motor «Star 48B». Due to high thrust, even a 0.5 % SRM alignment error could generate side forces of 445 N. Final conservative estimates of worst‑case side forces resulted in the need for eight 445 N thrusters, two in each quadrant, located out on booms at the maximum radius that the Space Shuttle Orbiter Payload Bay would accommodate (4.4 m diameter).
 
 |*Parameter of Star 48B*|*Value*|
 |:--|:--|

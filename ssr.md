@@ -69,4 +69,4 @@
 **Links:**
 
    1. Notable interwikies — …
-   1. <http://www.space-airbusds.com/en/equipment/ssr-solid-state-recorders-for-space-applications.html>
+   1. <http://www.space-airbusds.com/en/equipment/ssr-solid‑state-recorders-for-space-applications.html>

@@ -6,7 +6,7 @@
 |B‑day, addr.| <mark>нетдаты</mark> / … |
 |E‑mail| <manish.patel@open.ac.uk> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>нетрабочего</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
 || [![](f/contact/p/patel_001_photo_thumb.jpg)](f/contact/p/patel_001_photo.jpg) <mark>нетподписи</mark> |
 
    - **[Education](edu.md):** …
