@@ -1,5 +1,5 @@
 # Honeywell A/S
-> 2019.08.14 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/h/honeywell_as_logo1_thumb.jpg)](f/contact/h/honeywell_as_logo1.png)|*1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*|
 |:--|:--|
@@ -10,9 +10,6 @@
 
 **Honeywell Aerospace** is a manufacturer of aircraft engines & avionics, as well as a producer of auxiliary power units (APUs) & other aviation products. Founded in 1936.  
 A Honeywell APU was used in the notable emergency landing of US Airways Flight 1549, & a Honeywell blackbox survived under sea for years, thus exceeding by far its specified limits to reveal the details of the crash of Air France Flight 447. The company was also involved in the making of 2001: A Space Odyssey & in 90 percent of U.S. space missions. It’s involved in the U.S. NextGen program & Europe’s SESAR program for advancing avionics.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

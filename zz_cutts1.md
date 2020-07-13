@@ -1,12 +1,12 @@
 # Cutts, James Alfred
-> 2019.07.07 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Solar System Exploration Directorate, Program Manager*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)354-41-20; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* +1(818)354-41-20; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <James.A.Cutts@jpl.nasa.gov> |
-|B‑day, addr.| <mark>нетдаты</mark> 1945 ? / Pasadena, California, USA |
+|B‑day, addr.| <mark>nodate</mark> 1945 ? / Pasadena, California, USA |
 || [![](f/contact/c/cutts_001_photo_thumb.jpg)](f/contact/c/cutts_001_photo.jpg) [![](f/contact/c/cutts_001_sign_thumb.jpg)](f/contact/c/cutts_001_sign.png) |
 
    - **[Education](edu.md):** MS (Geophysics) & PhD, Caltech, 1972, Planetary Science. BA in Physics from Cambridge University.
@@ -16,9 +16,9 @@
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [IVC](ivc_2019.md)
    - Git: …
    - Facebook: <http://www.facebook.com/jajcutts>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/jim-cutts-33974011/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://vfm.jpl.nasa.gov/peoplevfm/>
    - <https://www.researchgate.net/profile/James_Cutts>
    - <https://jpl-nasa.academia.edu/JamesCutts>

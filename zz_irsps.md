@@ -1,5 +1,5 @@
 # IRSPS
-> 2019.08.04 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/i/irsps_logo1_thumb.jpg)](f/contact/i/irsps_logo1.png)|*IRSPS - Università "G.D'Annunzio", Viale Pindaro, 42, 65127 Pescara (PE), Italy*|
 |:--|:--|
@@ -13,9 +13,6 @@ The IRSPS is a small visiting institution with a limited number of untenured fac
 Planetary research mainly deals with the sub‑disciplines of geology, geochemistry, geophysics, petrology, & exobiology. However, the IRSPS is not limited to these subjects & it welcomes scientific contributions from any field of planetology. Also, the educational programs are not restricted to those fields & they will cover the entire spectrum of planetary disciplines by joint ventures & collaborations with other international institutions.
 
 Research activities: landing sites, sedimentary geology, impact craters, icy satellites, tectonics.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

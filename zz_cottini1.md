@@ -4,10 +4,10 @@
 |*[Org.](contact.md)*|*Maryland Univ., US. Associate Research Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* +1(301)286-79-32 ; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *work:* +1(301)286-79-32 ; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <valeria.cottini@nasa.gov> |
-|B‑day, addr.| <mark>нетдаты</mark> 1982 / … |
-|| [![](f/contact/c/cottini_001_photo_thumb.jpg)](f/contact/c/cottini_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|B‑day, addr.| <mark>nodate</mark> 1982 / … |
+|| [![](f/contact/c/cottini_001_photo_thumb.jpg)](f/contact/c/cottini_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** 2009, PhD, Astronomy, University of Rome Tor Vergata. 2005, MS, Physics, Sapienza Università di Roma.
    - **Exp.:** University of Maryland, US, Associate Research Scientist, 2013 ‑ Present. NASA Goddard Space Flight Center, US, NASA Postdoctoral Fellowship, 2011 ‑ 2013.
@@ -16,9 +16,9 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/valeria.cottini>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/valeria-cottini-96187291/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://science.gsfc.nasa.gov/sed/bio/valeria.cottini>
    - <https://www.astro.umd.edu/people/vcottini.html>
    - <https://www.iau.org/administration/membership/individual/13115/>

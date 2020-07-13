@@ -1,5 +1,5 @@
 # Планетоход
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Rover](rover.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Rover](rover.md)**
 
 [TOC]
 
@@ -55,12 +55,8 @@
 |*Sections & pages*|
 |**··• [Rover](rover.md) •··**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md) |
 
-**Docs:**
-
-   1. [Концепция самоходного шасси марсохода ExoMars. ❐](f/rover/20180329_iki_exomars_rover_concept.djvu) (Москва, ИКИ РАН, 2018)
-
-**Links:**
-
+   1. Docs:
+      - [Концепция самоходного шасси марсохода ExoMars. ❐](f/rover/20180329_iki_exomars_rover_concept.djvu) (Москва, ИКИ РАН, 2018)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Rover_(space_exploration)>
    1. <https://ru.wikipedia.org/wiki/Планетоход>

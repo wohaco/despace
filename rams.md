@@ -1,5 +1,5 @@
 # Надёжность
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Качество](quality.md), **[Надёжность](rams.md)**, [Риск](risk.md), [EMC](emc.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[Надёжность](rams.md)**, [Риск](risk.md), [EMC](emc.md)
 
 [TOC]
 
@@ -144,7 +144,7 @@
 
 
 # Безопасность
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Безопасность](rams.md)**, [КД](doc.md), [Space](index.md), [Риск](risk.md), [EMC](emc.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Безопасность](rams.md)**, [КД](doc.md), [Space](index.md), [Риск](risk.md), [EMC](emc.md)
 
 [TOC]
 
@@ -207,13 +207,9 @@ t — САС (ч)
 |**`Безопасность:`**<br> [NFPA 704](nfpa_704.md) ┊ [Класс опасности](danger_goods.md) ┊ [Класс чистоты](clean_lvl.md) |
 |**`Качество:`**<br> [Bus factor](bus_factor.md) ┊ [АВПКО](fmenca.md) ┊ [Авторский надзор](des_spv.md) ┊ [Бережливое производство](lean_man.md) ┊ [Валидация](validation.md) ┊ [Верификация](verification.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Конструктивное совершенство](con_vel.md) ┊ [Крит. технологии](kt.md) ┊ [Крит. элементы](sens_elem.md) ┊ [Метрология](metrology.md) ┊ [Надёжность](rams.md) ┊ [Нештатная ситуация](emergency.md) ┊ [Ошибки](error.md) ┊ [Система менеджмента качества](qms.md) ┊ [УГТ](trl.md)/[TRL](trl.md) |
 
-**Docs:**
-
-   1. [ГОСТ 20.39.302](гост_20_39_302.md) «Требования к ПОН и ПОСТ.»
-   1. [ГОСТ 27.1.02](гост_27_1_02.md) «ПОН. Общие требования.»
-
-**Links:**
-
+   1. Docs:
+      - [ГОСТ 20.39.302](гост_20_39_302.md) «Требования к ПОН и ПОСТ.»
+      - [ГОСТ 27.1.02](гост_27_1_02.md) «ПОН. Общие требования.»
    1. Notable interwikies — …
    1. <http://ru.wikipedia.org/wiki/Надёжность>
    1. <https://ru.wikipedia.org/wiki/Расчёт_надёжности>

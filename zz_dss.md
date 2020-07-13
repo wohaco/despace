@@ -1,5 +1,5 @@
 # DSS
-> 2019.11.06 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.11.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/d/dss_logo1_thumb.jpg)](f/contact/d/dss_logo1.png)|*Hart House (K Building), Office #304 – 1340 Barrington Street, Halifax, NS B3J 1Z1, CA-NS.*|
 |:--|:--|
@@ -11,9 +11,6 @@
 **Dalhousie Space Systems Lab (DSS)** is a multidisciplinary team of highly motivated students and faculty from Dalhousie University focused on the research and development of satellites called CubeSats. These are square‑shaped miniature satellite roughly the size of a Rubik’s cube that perform tasks in Earth’s orbit or space. The DSS also develops various space flight systems and manages operations.  
 Mission Statement: To be Atlantic Canada’s leading developer of spacecraft systems and components for future missions and satellite operations management.  
 Vision Statement: Spacecraft research, development, and satellite management from Atlantic Canada.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

@@ -1,5 +1,5 @@
 # Venus Sample Return Mission
-> 2019.10.10 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.10.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -168,12 +168,8 @@ The VSR team noted that the Venus Sample Return mission concept would be potenti
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Venus sample return mission revisited ❐](f/project/v/venus_sample_return_mission/valentiand_venus_sample_return_mission_revisited_r2.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Venus sample return mission revisited ❐](f/project/v/venus_sample_return_mission/valentiand_venus_sample_return_mission_revisited_r2.pdf)
    1. Notable interwikies — …
    1. <https://www.jpl.nasa.gov/news/news.php?feature=5902>
    1. <https://www.cosmos.esa.int/documents/1866264/3219248/ValentianD_Venus+sample+return+mission+revisited_r2.pdf>

@@ -1,5 +1,5 @@
 # Проекты
-> 2019.03.20 ┊ **🚀 [despace](index.md)** → **[Project](project.md)**
+> 2019.03.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
 
 [TOC]
 
@@ -444,12 +444,7 @@
 |*Sections & pages*|
 |**··• [Project](project.md) •··**<br> [Interferometer](interferometer.md) ┊ [NASA open](nasa_open.md) ┊ [NASA STI](nasa_sti.md) ┊ [NIH](nih.md) ┊ [Past, future and everything](pfaeverything.md) ┊ [PSDS](us_psds.md) [MGSC](mgsc.md) ┊ [Raman spectroscopy](raman_spsc.md) ┊ [SC price](sc_price.md) ┊ [SC typical forms](sc_ts.md) ┊ [Tech derivative laws](td_laws.md) ┊ [View](view.md) ┊ [XRF](xrf.md)|
 
-**Docs:**
-
-   1. [Проект, шаблон](template_project.md)
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://realcoffeemaker.com/index.php/china-in-space/pronun>
    1. <https://en.wikipedia.org/wiki/Megastructure>

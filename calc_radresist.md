@@ -1,5 +1,5 @@
 # Расчёт рад.стойкости
-> 2019.08.27 ┊ **🚀 [despace](index.md)** → **[КД](doc.md)**, [Расчёт](calc.md)
+> 2019.08.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[КД](doc.md)**, [Расчёт](calc.md)
 
 [TOC]
 
@@ -33,11 +33,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

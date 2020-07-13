@@ -1,5 +1,5 @@
 # Ядерный реактор
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [СЭС](sps.md), **[ЯР](nr.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [СЭС](sps.md), **[ЯР](nr.md)**
 
 [TOC]
 
@@ -62,12 +62,7 @@
 |**··• [Spacecraft power system (SPS)](sps.md) •··**<br> [ACUER](acuer.md) ┊ [Charge eff.](charge_eff.md) ┊ [EB](eb.md) ┊ [EMI, RFI](emi.md) ┊ [NR](nr.md) ┊ [Rotor](rotor.md) ┊ [RTG](rtg.md) ┊ [Solar cell](solar_cell.md) ┊ [SP](sp.md) ┊ [SPB/USPB](suspb.md) ┊ [Voltage](voltage.md) ┊ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK-01](bak_01.md) ┊ [Kas‑LOA](kas_loa.md)|
 |**`Ядерный реактор (ЯР):`**<br> … |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Ядерный_реактор>
    1. <https://ru.wikipedia.org/wiki/Ядерные_реакторы_на_космических_аппаратах>

@@ -1,5 +1,5 @@
 # Электронная компонентная база
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [OE](oe.md), **[ЭКБ](.md)**, [EMC](emc.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), **[ЭКБ](.md)**, [EMC](emc.md)
 
 [TOC]
 
@@ -36,12 +36,8 @@
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md) ┊ [Антенна](antenna.md) ┊ [АПС](hns.md) ┊ [БУ](sp.md) ┊ [ЗУ](ds.md) ┊ [Изделие](unit.md) ┊ [КЛЧ](clean_lvl.md) ┊ [ПЗР](fov.md) ┊ [ПО](soft.md) ┊ [Прототип](prototype.md) ┊ [Радиосвязь](comms.md) ┊ [СКЭ](elmsys.md) ┊ [ССИТД](tsdcs.md) ┊ [СИТ](etedp.md) ┊ [УГТ](trl.md) ┊ [ЭКБ](elc.md) ┊ [EMC](emc.md) |
 |**`Электронная компонентная база (ЭКБ):`**<br> … |
 
-**Docs:**
-
-   1. [РК‑11](const_rk11.md), стр.22‑23.
-
-**Links:**
-
+   1. Docs:
+      - [РК‑11](const_rk11.md), стр.22‑23.
    1. Notable interwikies — …
    1. <https://books.google.ru/books?id=-gLSBQAAQBAJ&pg=PA11&lpg=PA11&dq=Elizabeth+Kolawa+jpl&source=bl&ots=T9MwZv93Dh&sig=ACfU3U1DA6_hHDeWbcWCFdqw2NE_1xJATQ&hl=ru&sa=X&ved=2ahUKEwiMvu7fiZXlAhVRkMMKHYOMApw4ChDoATAAegQICRAB#v=onepage&q=Elizabeth%20Kolawa%20jpl&f=false>
 

@@ -1,5 +1,5 @@
 # Батарея солнечная
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[БС](sp.md)**, [СЭС](sps.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БС](sp.md)**, [СЭС](sps.md)
 
 [TOC]
 
@@ -41,12 +41,7 @@ Solar cells are manufactured in volume in Japan, Germany, China, Taiwan, Malaysi
 |**`Батарея солнечная:`**<br> [ФЭП](solar_cell.md) |
 |**··• [Spacecraft power system (SPS)](sps.md) •··**<br> [ACUER](acuer.md) ┊ [Charge eff.](charge_eff.md) ┊ [EB](eb.md) ┊ [EMI, RFI](emi.md) ┊ [NR](nr.md) ┊ [Rotor](rotor.md) ┊ [RTG](rtg.md) ┊ [Solar cell](solar_cell.md) ┊ [SP](sp.md) ┊ [SPB/USPB](suspb.md) ┊ [Voltage](voltage.md) ┊ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK-01](bak_01.md) ┊ [Kas‑LOA](kas_loa.md)|
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Солнечная_батарея>
    1. <https://en.wikipedia.org/wiki/Solar_panel>

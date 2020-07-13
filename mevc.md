@@ -1,5 +1,5 @@
 # Maneuverable Entry and Landing Vehicle (MEVC)
-> 2020.05.07 ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2020.05.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -87,11 +87,7 @@ The lander shape investigated can be easily balanced for the given   by simply a
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Kosenkova A.V. Investigation of the Possibilities of Aerodynamic Forms of a Lander Capable of Maneuverable Descent in the Venus Atmosphere ❐](f/project/m/mevc/doc_20191115.pdf) (2019.11.15 )
-
-**Links:**
-
+   1. Docs:
+      - [Kosenkova A.V. Investigation of the Possibilities of Aerodynamic Forms of a Lander Capable of Maneuverable Descent in the Venus Atmosphere ❐](f/project/m/mevc/doc_20191115.pdf) (2019.11.15)
    1. Notable interwikies — …
    1. <…>

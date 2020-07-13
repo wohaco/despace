@@ -1,5 +1,5 @@
 # Топливо
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [ДУ](ps.md), **[Топливо](fuel.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ДУ](ps.md), **[Топливо](fuel.md)**
 
 [TOC]
 
@@ -107,17 +107,12 @@
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md) ┊ [TALOS](talos.md) ┊ [Баки топливные](fuel_tank.md) ┊ [Варп‑двигатель](warp_drive.md) ┊ [Газовый двигатель](cgt.md) ┊ [Гибридный двигатель](гбрд.md) ┊ [Двигатель Бассарда](bussard_ramjet.md) ┊ [ЖРД](lpr.md) ┊ [ИПТ](ing.md) ┊ [Ионный двигатель](иод.md) ┊ [Как считать топливо?](si.md) ┊ [КЗУ](cinu.md) ┊ [КХГ](cgs.md) ┊ [Номинал](nominal.md) ┊ [Мятый газ](exhsteam.md) ┊ [РДТТ](spr.md) ┊ [Сильфон](сильфон.md) ┊ [СОЗ](соз.md) ┊ [СОИС](соис.md) ┊ [Солнечный парус](солнечный_парус.md) ┊ [ТНА](turbopump.md) ┊ [Топливные мембраны](топливные_мембраны.md) ┊ [Топливные мешки](топливные_мешки.md) ┊ [Топливо](fuel.md) ┊ [Тяговооружённость](ttwr.md) ┊ [ТЯРД](тярд.md) ┊ [УИ](isp.md) ┊ [Фотонный двигатель](фотонный_двигатель.md) ┊ [ЭРД](epsp.md) ┊ [Эффект Оберта](oberth_eff.md) ┊ [ЯРД](ntr.md) |
 |**`Топливо:`**<br> [Кавитация](cavitation.md) ┊ [Мятый газ](exhsteam.md) ┊ [Нейтрализация КРТ](нейтрализация_крт.md) |
 
-**Docs:**
-
-   1. [ГОСТ 53802](гост_53802.md), п. 11
-   1. [PROPEP ❐](f/doc/propep.7z) — ПО для расчёта характеристик топлива.
-
-**Links:**
-
+   1. Docs:
+      - [ГОСТ 53802](гост_53802.md), п. 11
+      - [PROPEP ❐](f/doc/propep.7z) — ПО для расчёта характеристик топлива
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Rocket_propellant>
    1. <https://ru.wikipedia.org/wiki/Ракетное_топливо>
    1. <http://rocketpolk44.narod.ru/stran/toplivo.htm> — [archive ❐](f/archive/rocketpolk44_narodru_stran_toplivo.pdf) of 2019.02.11)
    1. 2017.02.22 [Сага о ракетных топливах ⎆](https://habr.com/ru/post/401795/) — [archive ❐](f/archive/20170222_1.pdf) of 2019.02.11)
    1. 2017.02.28 [Сага о ракетных топливах — обратная сторона медали ⎆](https://habr.com/ru/post/401927/) — [archive ❐](f/archive/20170228_1.pdf) of 2019.02.11)
-

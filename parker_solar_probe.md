@@ -1,5 +1,5 @@
 # Parker Solar Probe
-> Ver. . ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> Ver. . ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -137,12 +137,7 @@ The primary power for the mission is a dual system of solar panels (photovoltaic
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Parker_Solar_Probe>
    1. <https://ru.wikipedia.org/wiki/Паркер_(солнечный_зонд)>

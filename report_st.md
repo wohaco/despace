@@ -1,5 +1,5 @@
 # Научно‑технический отчёт
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Док‑ты](doc.md), **[Отчёт](report.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Док‑ты](doc.md), **[Отчёт](report.md)**
 
 [TOC]
 
@@ -214,11 +214,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. Отчёт о НИР. [Пример ❐](f/doc/otchet_o_nir_sample.pdf). [Шаблон ❐](f/doc/otchet_o_nir_template.docx).
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

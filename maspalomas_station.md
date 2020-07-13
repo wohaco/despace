@@ -1,5 +1,5 @@
 # Maspalomas Station
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [НК](scs.md), **[НС](scs.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [НК](scs.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -34,12 +34,7 @@
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://en.wikipedia.org/wiki/Maspalomas_Station>
    1. <https://www.esa.int/Our_Activities/Operations/Estrack/Maspalomas_station>

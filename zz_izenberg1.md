@@ -1,10 +1,10 @@
 # Izenberg, Noam
-> 2019.07.12 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[JHUAPL](zz_jhuapl.md), US. Planetary Geologist; Planetary Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(240)228-79-18 ; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* +1(240)228-79-18 ; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <noam.izenberg@jhuapl.edu> |
 |B‑day, addr.| 1967.08.08 / … |
 || [![](f/contact/i/izenberg_001_photo_thumb.jpg)](f/contact/i/izenberg_001_photo.jpg) [![](f/contact/i/izenberg_001_sign_thumb.jpg)](f/contact/i/izenberg_001_sign.png) |
@@ -16,7 +16,7 @@
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [VD Workshop 2019](vdws2019.md)
    - Git: …
    - Facebook: <https://www.facebook.com/noam.izenberg.7>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/noam-izenberg-b774b8>
    - Twitter: <https://twitter.com/Izenplanet>
    - <http://nift.firedrake.org/>

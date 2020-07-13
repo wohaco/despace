@@ -1,5 +1,5 @@
 # NICM
-> 2019.11.26 ┊ **🚀 [despace](index.md)** → **[ТЭО](fs.md)**
+> 2019.11.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ТЭО](fs.md)**
 
 [TOC]
 
@@ -36,12 +36,8 @@ NICM is in wide use across many NASA centers (and any organization proposing ins
 |*Sections & pages*|
 |**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md) ┊ [Невозвратные затраты](sunk_cost.md) ┊ [Номинал](nominal.md) ┊ [Оценка стоимости работ на НПОЛ](zz_lav.md) ┊ [Секвестр](budget_seq.md) ┊ [Стоимость аппарата в граммах](sc_price.md) |
 
-**Docs:**
-
-   1. [Cost systems comparison ❐](f/fs/cost_systems_comparison_2004.pdf) (2004, ESA)
-   1. [NICM, impact of mission class on cost ❐](f/fs/nicm_2016symposium.pdf) (2016, NASA JPL)
-
-**Links:**
-
+   1. Docs:
+      - [Cost systems comparison ❐](f/fs/cost_systems_comparison_2004.pdf) (2004, ESA)
+      - [NICM, impact of mission class on cost ❐](f/fs/nicm_2016symposium.pdf) (2016, NASA JPL)
    1. Notable interwikies — …
    1. <https://www.nasa.gov/offices/ocfo/functions/models_tools/nicm>

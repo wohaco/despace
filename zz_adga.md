@@ -1,5 +1,5 @@
 # ADGA
-> 2019.08.29 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/a/adga_logo1_thumb.jpg)](f/contact/a/adga_logo1.png)|*110 Argyle Avenue, Ottawa, ON, K2P 1B4, Canada*|
 |:--|:--|
@@ -9,9 +9,6 @@
 |Etc| … |
 
 **ADGA** is a privately owned Canadian company, who is a leading provider of technology solutions in defence, security & enterprise computing. ADGA’s headquarters are in Ottawa, with offices in Gatineau, Montreal & Toronto. ADGA is dedicated to Defence, Aerospace Engineering & Technical Services.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

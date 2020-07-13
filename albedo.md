@@ -1,5 +1,5 @@
 # Albedo
-> 2020.05.14 ┊ **🚀 [despace](index.md)** → [SGM](sgm.md)
+> 2020.05.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [SGM](sgm.md)
 
 [TOC]
 
@@ -72,12 +72,7 @@ Two common albedos that are used in astronomy are the (V‑band) geometric albed
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Albedo>
    1. <https://ru.wikipedia.org/wiki/Альбедо>

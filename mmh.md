@@ -1,5 +1,5 @@
 # ММГ
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Топливо](fuel.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Топливо](fuel.md)**
 
 [TOC]
 
@@ -49,12 +49,7 @@
 |*Sections & pages*|
 |**`Топливо:`**<br> [Кавитация](cavitation.md) ┊ [Мятый газ](exhsteam.md) ┊ [Нейтрализация КРТ](нейтрализация_крт.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Monomethylhydrazine>
    1. <https://ru.wikipedia.org/wiki/Метилгидразин>

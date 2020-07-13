@@ -1,5 +1,5 @@
 # Venus Observing System
-> 2019.11.04 ┊ **🚀 [despace](index.md)** → **[Venus](venus.md)**, [Проекты](project.md)
+> 2019.11.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md)**, [Проекты](project.md)
 
 [TOC]
 
@@ -299,11 +299,7 @@ The science implemented by SAEVe (Kremic et al., 2018) is focused on seismology 
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [VOS White Paper VEXAG ❐](f/project/v/venus_observing_system/vos_white_paper_vexag.pdf), 29 October 2019
-
-**Links:**
-
+   1. Docs: …
+      - [VOS White Paper VEXAG ❐](f/project/v/venus_observing_system/vos_white_paper_vexag.pdf), 29 October 2019
    1. Notable interwikies — …
    1. <…>

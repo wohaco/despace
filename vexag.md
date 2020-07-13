@@ -1,5 +1,5 @@
 # VEXAG
-> 2019.11.08 ┊ **🚀 [despace](index.md)** → **[Events](event.md)**, [Venus](venus.md), [VEXAG](vexag.md)
+> 2019.11.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Events](event.md)**, [Venus](venus.md), [VEXAG](vexag.md)
 
 [TOC]
 
@@ -104,14 +104,9 @@ Janet Luhmann, and Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was form
 |*Sections & pages*|
 |**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
 
-**Docs:**
-
+   1. Docs:
+      - [VEXAG GOI 2016 ❐](f/event/vexag/vexag_goi_2016.pdf)
+      - [VEXAG GOI 2019 ❐](f/event/vexag/vexag_goi_2019.pdf)
+   1. Notable interwikies — …
    1. <https://www.lpi.usra.edu/vexag/>
    1. <https://www.lpi.usra.edu/vexag/reports/>
-   1. [VEXAG GOI 2016 ❐](f/event/vexag/vexag_goi_2016.pdf)
-   1. [VEXAG GOI 2019 ❐](f/event/vexag/vexag_goi_2019.pdf)
-
-**Links:**
-
-   1. Notable interwikies — …
-   1. <…>

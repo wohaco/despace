@@ -1,5 +1,5 @@
 # Чертежи, модели
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Док.](doc.md)**, [Схема](doc.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Док.](doc.md)**, [Схема](doc.md)
 
 [TOC]
 
@@ -213,12 +213,7 @@
 |*Sections & pages*|
 |**··• [Documents](doc.md) •··**<br> **Схема:** [КСС](ксс.md) ┊ [ПГС](пгс.md) ┊ [ПЛИС](плис.md) ┊ [СхД](wbs.md) ┊ [СхО](draft_model.md) ┊ [СхПЗ](draft_model.md) ┊ [СхЧ](unit_decd.md) ┊ [СхЭ](ei_diagram.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://gk-drawing.ru/plotting/general-view-drawing.php>
 

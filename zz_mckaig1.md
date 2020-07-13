@@ -1,13 +1,13 @@
 # McKaig, Jordan
-> 2019.07.17 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), NASA Ames Research Center, US. Research associate*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(810)423-95-86; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* +1(810)423-95-86; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <jmckaig@umich.edu> |
 |B‑day, addr.| 1997.05.14 / … |
-|| [![](f/contact/m/mckaig_001_photo_thumb.jpg)](f/contact/m/mckaig_001_photo.jpg) <mark>нетподписи</mark> |
+|| [![](f/contact/m/mckaig_001_photo_thumb.jpg)](f/contact/m/mckaig_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Biology & International Studies, Wisconsin Univ., 2019.
    - **Exp.:** …

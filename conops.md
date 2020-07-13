@@ -1,5 +1,5 @@
 # CONOPS
-> 2019.12.19 ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.12.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -55,12 +55,7 @@ A CONOPS Standard is available to guide the development of a CONOPS document. Th
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Concept_of_operations>
    1. <http://sewiki.ru/CONOPS>

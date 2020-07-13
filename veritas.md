@@ -124,11 +124,6 @@ Gravity science would be carried out using the spacecraft’s telecom system ([E
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/VERITAS_(spacecraft)>

@@ -1,5 +1,5 @@
 # 5D optical data storage
-> 2020.01.21 ┊ **🚀 [despace](index.md)** → **[ЗУ](ds.md)**
+> 2020.01.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
 
 [TOC]
 
@@ -37,11 +37,6 @@ The technique was first demonstrated in 2010 by Kazuyuki Hirao’s laboratory at
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8) ┊ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8) ┊ [OBMU](sait_obmu.md) (1.8) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/5D_optical_data_storage>

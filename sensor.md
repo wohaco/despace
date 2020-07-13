@@ -1,5 +1,5 @@
 # Датчик
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Датчик](sensor.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Датчик](sensor.md)**
 
 [TOC]
 
@@ -123,21 +123,16 @@ In typical sun sensors, a thin slit at the top of a rectangular chamber allows a
 |**`Конструктивные элементы, механизмы, материалы (КММ):`**<br> [Гермоконтейнер](гермоконтейнер.md) ┊ [Датчик](sensor.md) ┊ [Задел](margin.md) ┊ [Изделие](unit.md) ┊ [Испарение материалов](mat_sublime.md) ┊ [Кавитация](cavitation.md) ┊ [КЗУ](cinu.md) (ВБУ КТ) ┊ [КХГ](cgs.md) ┊ [Контейнеры для транспортировки](ship_contain.md) ┊ [Крейцкопф](crosshead.md) ┊ [Номинал](nominal.md) ┊ [ПУС](lag.md) ┊ [ПНА, ПОНА, ПСНА](aiad.md) ┊ [Резерв](reserve.md) ┊ [Слайс](слайс.md) ┊ [ТСП](tsp.md) ┊ [Типичные формы КА](sc_ts.md) ┊ [Толкатель](толкатель.md) ┊ [Унификация](commonality.md) |
 |**`Солнечный датчик (СД):`**<br> [ПЗр](fov.md) <br>• • •<br> (КА) **Европа:** [FSS](fss_jo.md) (650) ┊ [FSS](fss.md) (50 ‑ 375) ┊ [CSS](css.md) (275) ┊ [CoSS](coss.md) (15 ‑ 24)  ▮  **РФ:** [ТДС](tds.md) (2 300) ┊ [347К](347k.md) (700) ┊ [ОСД](osd.md) (650) ┊ [СДП-1](sdp_1.md) (400) ┊ [SX-SUNR-01](sx_sunr_01.md) (40)<br> *(Кубсаты) **США:** [MSS](mss_sm.md) (0.036) ┊ [CSS](css_sm.md) (0.02)*|
 
-**Docs:**
-
-   1. [ЗД, template](template_st.md) / [СД, template](template_ss.md)
-
-**Links:**
-
-   - Notable interwikies — …
-   - Sensor:
-      1. <https://en.wikipedia.org/wiki/Sensor> / <https://ru.wikipedia.org/wiki/Датчик>
-   - ЗД:
+   1. Docs:
+      - [ЗД, template](template_st.md) / [СД, template](template_ss.md)
+   1. Notable interwikies — …
+   1. Sensor:
+      1. <https://en.wikipedia.org/wiki/Sensor>
+   1. ЗД:
       1. <https://en.wikipedia.org/wiki/Star_tracker>
       1. <https://ru.wikipedia.org/wiki/Звёздный_датчик>
       1. <https://www.ball.com/aerospace/markets-capabilities/capabilities/technologies-components/star-trackers>
       1. <https://www.terma.com/space/space-segment/star-trackers/>
-   - СД:
+   1. СД:
       1. <https://en.wikipedia.org/wiki/Sun_sensor>
       1. <https://www.jvejournals.com/article/17518>
-

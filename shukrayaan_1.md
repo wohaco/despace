@@ -1,5 +1,5 @@
 # Shukrayaan-1
-> 2019.11.07 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.11.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -139,12 +139,7 @@ Allan Variance (1 30 sec): ≤1.2 × 10⁻¹³
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Shukrayaan-1>
    1. <https://www.reddit.com/r/ISRO/comments/dslc83/couple_of_slides_from_isro_presentation_at_venus/>

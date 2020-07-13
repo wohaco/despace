@@ -1,5 +1,5 @@
 # Полётное задание
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[НКУ](scs.md)**, [ПОЗ](fp.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[НКУ](scs.md)**, [ПОЗ](fp.md)
 
 [TOC]
 
@@ -24,12 +24,7 @@
 |*Sections & pages*|
 |**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md) ┊ [КИС](scs.md) ┊ [КСИСО](scs.md) ┊ [НИК](lm_sys.md) ┊ [НИП](scs.md) ┊ [НС](scs.md) ┊ [ПОЗ](fp.md) ┊ [СГК](cd_segm.md) ┊ [ССПД](mcntd.md) ┊ [ЦУП](mcc.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://encyclopedia.mil.ru/encyclopedia/dictionary/details_rvsn.htm?id=14607@morfDictionary>
 

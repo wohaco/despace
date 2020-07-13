@@ -1,12 +1,12 @@
 # Green, James Lauer
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Science Mission Directorate — Planetary Science Division. Head Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| <mark>нетдаты</mark> / … |
+|B‑day, addr.| <mark>nodate</mark> / … |
 || [![](f/contact/g/green_001_photo_thumb.jpg)](f/contact/g/green_001_photo.jpg) [![](f/contact/g/green_001_sign_thumb.jpg)](f/contact/g/green_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Space Physics, Iowa Univ., 1979.
@@ -16,9 +16,9 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/profile.php?id=100007346137654>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/james-green-a2a84a13/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/James_L._Green>
    - <https://science.nasa.gov/about-us/leadership/dr-jim-green>
    - **As a person:**

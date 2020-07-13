@@ -1,5 +1,5 @@
 # Proto flight model
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Test](test.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Test](test.md)
 
 [TOC]
 
@@ -26,13 +26,8 @@ This term is defined in ECSS-S-ST-00-01C as flight model on which a partial or c
 |*Sections & pages*|
 |**`Испытания:`**<br> [Proto fligt model](pfm.md) ┊ [Безэховая камера](ach.md) ┊ [Валидация](validation.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [КПЭО](ctpr.md) ┊ [Перечень методик испытаний](list_tp.md) ┊ [Программа и методика испытаний](pmot.md) ┊ [Опытный образец](pilot_sample.md) ┊ [Циклограмма](obc.md) ┊ [Штатный образец](flight_unit.md) ┊ [ЭО](test.md) ┊ [Экспериментально‑теоретический метод](etetm.md) |
 
-**Docs:**
-
-   1. [ГОСТ 56469](гост_56469.md)
-
-**Links:**
-
+   1. Docs:
+      - [ГОСТ 56469](гост_56469.md)
    1. Notable interwikies — …
    1. <https://ecss.nl/glossary/protoflight-model/>
    1. <https://www.eetimes.com/document.asp?doc_id=1318780>
-

@@ -1,5 +1,5 @@
 # ФЭП
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[БС](sp.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БС](sp.md)**
 
 [TOC]
 
@@ -77,12 +77,7 @@
 |*Sections & pages*|
 |**`Батарея солнечная:`**<br> [ФЭП](solar_cell.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Арсенид_галлия>
    1. <https://ru.wikipedia.org/wiki/Фотоэлемент>

@@ -1,12 +1,12 @@
 # Dyar, Darby Melinda
-> 2019.07.11 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[Mount Holyoke College](mtholyoke_college.md), US. Department of Astronomy. Professor of Astronomy*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(413)538-30-73; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* +1(413)538-30-73; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mdyar@mtholyoke.edu> |
-|B‑day, addr.| <mark>нетдаты</mark> 1958.. / … |
+|B‑day, addr.| <mark>nodate</mark> 1958.. / … |
 || ![](f/contact/d/dyar_001_photo.jpg) [![](f/contact/d/dyar_001_sign_thumb.jpg)](f/contact/d/dyar_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Geochemistry, Massachusetts Institute of Technology. BA, Geology & Art History, Wellesley College.
@@ -15,10 +15,10 @@
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/melinda-darby-dyar-81646b5>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://www.mtholyoke.edu/people/m-darby-dyar>
    - <https://solarsystem.nasa.gov/people/2180/darby-dyar/>
    - <https://www.psi.edu/about/staffpage/mdyar>

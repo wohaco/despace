@@ -1,5 +1,5 @@
 # Луна
-> 2019.03.21 ┊ **🚀 [despace](index.md)** → [Space](index.md), **[Moon](moon.md)**
+> 2019.03.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Space](index.md), **[Moon](moon.md)**
 
 [TOC]
 
@@ -379,13 +379,8 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |*Sections & pages*|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
-**Docs:**
-
-   1. [Проект, шаблон](template_project.md)
-   1. [Модели грунта ❐](f/aob/moon/moon_soil_model.7z)
-
-**Links:**
-
+   1. Docs:
+      - [Модели грунта ❐](f/aob/moon/moon_soil_model.7z)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Astronomical_symbols>
    1. <http://ru.wikipedia.org/wiki/Луна>

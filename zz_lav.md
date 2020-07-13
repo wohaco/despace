@@ -1,5 +1,5 @@
 # НПОЛ
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**, [LAV](zz_lav.md)
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**, [LAV](zz_lav.md)
 
 |[![](f/contact/n/npol_logo1_thumb.jpg)](f/contact/n/npol_logo1.png)|*Россия, 141402, Химки, Ленинградская 24*|
 |:--|:--|

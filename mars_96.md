@@ -1,5 +1,5 @@
 # Марс‑96
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Марс](mars.md), **[Project](project.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Марс](mars.md), **[Project](project.md)**
 
 [TOC]
 
@@ -39,12 +39,8 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Слайды ❐](f/project/марс‑96/mars_96_slides.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Слайды ❐](f/project/марс‑96/mars_96_slides.pdf)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Mars_96>
    1. <https://ru.wikipedia.org/wiki/Марс‑96>

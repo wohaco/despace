@@ -1,5 +1,5 @@
 # LASP
-> 2019.08.08 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/l/lasp_logo1_thumb.jpg)](f/contact/l/lasp_logo1.png)|*1234 Innovation Drive, Boulder, CO  80303-7814, 303-492-6412, USA*|
 |:--|:--|
@@ -10,9 +10,6 @@
 
 The **Laboratory for Atmospheric & Space Physics (LASP)** is a research organization at the University of Colorado Boulder. LASP is a research institute with over one hundred research scientists ranging in fields from solar influences, to Earth’s & other planetary atmospherics processes, space weather, space plasma & dusty plasma physics. LASP has advanced technical capabilities specializing in designing, building, & operating spacecraft & spacecraft  instruments.  
 Founded after World War II in 1948, a decade before NASA, the first scientific instruments built at LASP were launched into space using captured German V-2 rockets. To this day LASP continues a suborbital rocket program through periodic calibration instrument flights from White Sands Missile Range. It was originally called the Upper Air Laboratory, but changed to its current name in 1965. LASP has historical ties to Ball Aerospace Corporation & the Center for Astrophysics & Space Astronomy (CASA).
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

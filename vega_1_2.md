@@ -1,5 +1,5 @@
 # Vega 1, Vega 2
-> 2019.11.30 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.11.30 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -230,12 +230,8 @@ The aerostat’s electronics provided unidirectional communication with the Eart
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Vega, Description and scientific objectives ❐](f/project/вега/vg_desc.pdf) (1984 ‑ 1986)
-
-**Links:**
-
+   1. Docs:
+      - [Vega, Description and scientific objectives ❐](f/project/вега/vg_desc.pdf) (1984 ‑ 1986)
    1. Notable interwikies — …
    1. <ttps://ru.wikipedia.org/wiki/Вега_(АМС)>
    1. <https://en.wikipedia.org/wiki/Vega_program>

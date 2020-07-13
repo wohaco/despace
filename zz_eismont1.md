@@ -1,13 +1,13 @@
 # Эйсмонт, Натан Андреевич
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* +7(916)628-61-39 |
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +7(916)628-61-39 |
 |E‑mail| <neismont@iki.rssi.ru> |
-|B‑day, addr.| <mark>нетдаты</mark> / … |
-|| ![](f/contact/e/eismont_001_animated.gif) <mark>нетподписи</mark> |
+|B‑day, addr.| <mark>nodate</mark> / … |
+|| ![](f/contact/e/eismont_001_animated.gif) <mark>nosign</mark> |
 
    - Natan Eismont. 
    - **[Education](edu.md):** Кандидат технических наук, 2012. Доктор физ‑мат наук, математика, МГУ, 1968.
@@ -15,10 +15,10 @@
    - **SC/Equip.:** …
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/натан‑эйсмонт‑029a57113/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://www.hse.ru/org/persons/56549114>
    - <http://viperson.ru/people/eysmont-natan-andreevich>
    - **As a person:**

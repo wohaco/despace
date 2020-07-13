@@ -1,5 +1,5 @@
 # VEXAG, 11th
-> 2019.10.26 ┊ **🚀 [despace](index.md)** → [VEXAG](vexag.md), [Venus](venus.md), **[Events](event.md)**
+> 2019.10.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → [VEXAG](vexag.md), [Venus](venus.md), **[Events](event.md)**
 
 [TOC]
 
@@ -197,11 +197,6 @@ ROSES R&A Program 	Jim Green, Jonathon Rall
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

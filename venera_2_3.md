@@ -1,5 +1,5 @@
 # Venera 2, 3
-> 2019.12.10 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.12.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -171,12 +171,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_2>
    1. <https://en.wikipedia.org/wiki/Venera_3>

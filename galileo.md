@@ -1,5 +1,5 @@
 # Galileo
-> 2019.05.29 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.05.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -291,12 +291,7 @@ The RTGs produced about 570 W at launch. The power output initially decreased 
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Galileo_(spacecraft)>
    1. <https://www.space.com/18632-galileo-spacecraft.html> — Spacecraft Galileo: To Jupiter and Its Moons

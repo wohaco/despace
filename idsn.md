@@ -1,5 +1,5 @@
 # Indian Deep Space Network
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [ISRO](zz_isro.md), **[НС](scs.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ISRO](zz_isro.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -32,12 +32,7 @@ The network consists of the ISRO Telemetry, Tracking and Command Network (ISTRAC
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Indian_Deep_Space_Network>
    1. <http://www.isro.gov.in/about-isro/isro-telemetry-tracking-and-command-network-istrac>

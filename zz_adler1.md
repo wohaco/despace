@@ -1,13 +1,13 @@
 # Adler, Mark
-> 2019.10.21 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Physicist, Mathematician, Electrical Engineer, Rocket Scientist, Computer Programmer*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <madler@alumni.caltech.edu> |
 |B‑day, addr.| 1959.04.03 Miami, US / … |
-|| [![](f/contact/a/adler_001_photo_thumb.jpg)](f/contact/a/adler_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/a/adler_001_photo_thumb.jpg)](f/contact/a/adler_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Physics.
    - **Exp.:** …
@@ -16,7 +16,7 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/mark.adler>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/mark-adler-6770412>
    - Twitter: <https://twitter.com/madler>
    - <https://en.wikipedia.org/wiki/Mark_Adler>

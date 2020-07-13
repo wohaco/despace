@@ -1,5 +1,5 @@
 # ГОСТ Р ИСО 31010
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[НД](doc.md)**, [Риск](risk.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[НД](doc.md)**, [Риск](risk.md)
 
 [TOC]
 
@@ -53,11 +53,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [ГОСТ Р ИСО 31010 ❐](f/doc/gost_iso_31010.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [ГОСТ Р ИСО 31010 ❐](f/doc/gost_iso_31010.pdf)
    1. Notable interwikies — …
    1. <…>

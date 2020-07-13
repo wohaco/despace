@@ -1,5 +1,5 @@
 # Цветные книги
-> 2019.11.04 ┊ **🚀 [despace](index.md)** → **[Док](doc.md)**
+> 2019.11.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Док](doc.md)**
 
 [TOC]
 
@@ -161,12 +161,7 @@ The Blue Book of Building & Construction, was a yellow pages‑like buyers guide
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Белая_книга>
    1. <https://en.wikipedia.org/wiki/White_paper>

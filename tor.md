@@ -1,5 +1,5 @@
 # TOR
-> 2019.05.05 ┊ **🚀 [despace](index.md)** → **[Doc](doc.md)**, [R&D](rnd.md)
+> 2019.05.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Doc](doc.md)**, [R&D](rnd.md)
 
 [TOC]
 

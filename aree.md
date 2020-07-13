@@ -1,5 +1,5 @@
 # AREE
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Rover](rover.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Rover](rover.md)**
 
 [TOC]
 
@@ -57,12 +57,7 @@
 |*Sections & pages*|
 |**··• [Rover](rover.md) •··**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://www.nasa.gov/feature/automaton-rover-for-extreme-environments-aree>
    1. <https://en.wikipedia.org/wiki/Automaton_Rover_for_Extreme_Environments>

@@ -1,13 +1,13 @@
 # Vandaele, Ann Carine
-> 2019.10.20 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*Royal Belgian Institute for Space Aeronomy (BIRA-ISAB), EU (BE). Head of Planetary Aeronomy Group*|
 |:--|:--|
-|B‑day, addr.| <mark>нетдаты</mark> 1960 ? / … |
+|B‑day, addr.| <mark>nodate</mark> 1960 ? / … |
 |E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
-|| [![](f/contact/v/vandaele_001_photo_thumb.jpg)](f/contact/v/vandaele_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
+|| [![](f/contact/v/vandaele_001_photo_thumb.jpg)](f/contact/v/vandaele_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** Dr. Ir., Engineering, Université libre de Bruxelles, 1990.
    - **Exp.:** Belgian Institute for Space Aeronomy, Head of Planetary Aeronomy Group, 2006 ‑ Present: Head of a group of 10 persons dealing with different aspects of planetary sciences: design of instruments for space applications, data analysis & interpretation, modeling , etc. Senior Researcher, 1991 ‑ Present; Radiative transfer in planetary atmospheres - laboratory measurement of spectroscopic parameters IR, UV) - designing instruments. Société Royale belge d'Astronomie, de Météorologie et de Physique du Globe, Chief redactor, 2004 ‑ Present; Making sure that the Bulletin of the Society gets out on time!
@@ -16,9 +16,9 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/anncarine.vandaele>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/ann-carine-vandaele-761581a6/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/AC_Vandaele>
    - **As a person:**
       1. …

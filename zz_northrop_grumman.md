@@ -1,5 +1,5 @@
 # Northrop Grumman
-> 2019.08.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/n/northrop_grumman_logo1_thumb.jpg)](f/contact/n/northrop_grumman_logo1.png)|*2980 Fairview Park Drive, West Falls Church, Virginia, United States*|
 |:--|:--|
@@ -17,9 +17,6 @@
    1. Электроника
    1. Авиация и космос
    1. Судостроение
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

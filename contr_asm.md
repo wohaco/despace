@@ -1,5 +1,5 @@
 # Контрольная сборка (КСБ)
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[R&D](rnd.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
 
 [TOC]
 
@@ -20,11 +20,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [РК‑11](const_rk11.md), стр.17.
-
-**Links:**
-
+   1. Docs:
+      - [РК‑11](const_rk11.md), стр.17.
    1. Notable interwikies — …
    1. <…>

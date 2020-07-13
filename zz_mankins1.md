@@ -1,13 +1,13 @@
 # Mankins, John C.
-> 2020.05.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.05.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*Mankins Space Technology, Inc., USA.*|
 |:--|:--|
-|B‑day, addr.| <mark>нетдаты</mark> / … |
+|B‑day, addr.| <mark>nodate</mark> / … |
 |E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
-|| <mark>нетфото</mark> [![](f/contact//_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
+|| <mark>nophoto</mark> [![](f/contact//_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](образование.md):** …
    - **Exp.:** …
@@ -15,10 +15,10 @@
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/john-mankins-a89a7130/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/John_C._Mankins>
    - <http://www.artemisinnovation.com/aboutus.html>
    - <https://www.researchgate.net/profile/John_Mankins>

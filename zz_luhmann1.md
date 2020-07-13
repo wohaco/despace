@@ -1,13 +1,13 @@
 # Luhmann, Janet G.
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Space Sciences Laboratory, California Univ., Berkeley. Senior Space Fellow*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <jgluhman@ssl.berkeley.edu> |
-|B‑day, addr.| <mark>нетдаты</mark> 1946 / … |
-|| ![](f/contact/l/luhmann_001_photo.jpg) <mark>нетподписи</mark> |
+|B‑day, addr.| <mark>nodate</mark> 1946 / … |
+|| ![](f/contact/l/luhmann_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** Heliospheric & Planetary Physics. Her work focuses on the use of spacecraft observations & models to investigate the connections between the Sun & heliospheric conditions, & on the solar wind interactions with the planets.
    - **Exp.:** …
@@ -15,10 +15,10 @@
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Janet_Luhmann>
    - <https://science.nasa.gov/science-committee/members/dr-janet-g-luhmann>
    - <http://sprg.ssl.berkeley.edu/scientistslinks/luhmannj_home.html>

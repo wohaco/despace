@@ -1,5 +1,5 @@
 # GR712RC
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ЦВМ](obc.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЦВМ](obc.md)**
 
 [TOC]
 
@@ -71,12 +71,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. 3D‑модель <mark>TBD</mark>
-   1. Чертёж <mark>TBD</mark>
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://www.gaisler.com/index.php/products/components/gr712rc>

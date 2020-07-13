@@ -1,5 +1,5 @@
 # Осциллятор
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Модель](model.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Модель](model.md)**
 
 [TOC]
 
@@ -24,12 +24,7 @@
 |*Sections & pages*|
 |**`Модель:`**<br> [DEM](digital_elev_model.md) ┊ [SPICE](spice.md) ┊ [ВДМ](vd_model.md) ┊ [Лимит](limit.md) ┊ [МИХ](mic.md) ┊ [Осциллятор](oscillator.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Осциллятор>
 

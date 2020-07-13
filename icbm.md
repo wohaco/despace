@@ -1,5 +1,5 @@
 # Межконтинентальная баллистическая ракета
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[LV](lv.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 
@@ -22,12 +22,7 @@
 |*Sections & pages*|
 |**··• [Launch vehicle (LV)](lv.md) •··**<br> [Безракетный космический запуск](nrs.md) ┊ [Выводимая масса](throw_weight.md) ┊ [Космическая головная часть](lv.md) ┊ [МБР](icbm.md) ┊ [РКН](lv.md)<br>• • •<br> **Европа:**  [Arian](arian.md) ┊ [Vega](vega.md) / **Израиль:** [Shavit](shavit.md) / **Индия:** [GSLV](gslv.md) ┊ [PSLV](pslv.md) / **Китай:** [Long March](long_march.md) / **Корея с.:** [Unha](unha.md) / **Корея ю.:** *([Naro-1](naro_1.md))* / **РФ, СНГ:** [Ангара](angara.md) ┊ [Протон](proton.md) ┊ [Союз](soyuz.md) ┊ [СТК](yenisei.md) ┊ [Зенит](zenit.md) *([Корона](korona.md) ┊ [Н-1](n_1.md) ┊ [Р-1](r_7.md) ┊ [Энергия](energia.md))* / **США:** [Antares](antares.md) ┊ [Atlas](atlas.md) ┊ [BFR](bfr.md) ┊ [Delta](delta.md) ┊ [Electron](electron.md) ┊ [Falcon](falcon.md) ┊ [Firefly Alpha](firefly_alpha.md) ┊ [LauncherOne](launcherone.md) ┊ [New Armstrong](new_armstrong.md) ┊ [New Glenn](new_glenn.md) ┊ [Minotaur](minotaur.md) ┊ [Pegasus](pegasus.md) ┊ [Shuttle](shuttle.md) ┊ [SLS](sls.md) ┊ [Vulcan](vulcan.md) *([Saturn](saturn_lv.md) ┊ [Sea Dragon](sea_dragon.md))* / **Япония:** [Epsilon](epsilon.md) ┊ [H2](h2.md) ┊ [H3](h3.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Межконтинентальная_баллистическая_ракета>
    1. <https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile>

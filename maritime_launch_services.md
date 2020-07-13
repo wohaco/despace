@@ -1,5 +1,5 @@
 # Maritime Launch Services
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**, [Spaceport](spaceport.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**, [Spaceport](spaceport.md)
 
 [TOC]
 
@@ -24,11 +24,6 @@ If MLS gets a go-ahead from the government, the company plans on starting constr
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://www.maritimelaunch.com/>

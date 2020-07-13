@@ -1,5 +1,5 @@
 # SPAC
-> 2020.06.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.06.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/s/spac_logo1_thumb.jpg)](f/contact/s/spac_logo1.png)|*Kikai-Shinkou-Kaikan Bldg.3F, 3-5-8 Shibakoen, Minato-ku, Tokyo, 105-0011*|
 |:--|:--|

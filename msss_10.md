@@ -1,5 +1,5 @@
 # MSSS, 10th
-> 2019.06.14 ┊ **🚀 [despace](index.md)** → [MSSS](msss.md), **[Events](event.md)**
+> 2019.06.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [MSSS](msss.md), **[Events](event.md)**
 
 [TOC]
 
@@ -283,12 +283,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 |*Sections & pages*|
 |**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ms2019.cosmos.ru>
 

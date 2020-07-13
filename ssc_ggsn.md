@@ -1,5 +1,5 @@
 # SSC GGSN
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Swedish Space Corporation](swedish_sc.md), **[НС](scs.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Swedish Space Corporation](swedish_sc.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -48,11 +48,6 @@
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://www.sscspace.com/ssc-worldwide/ground-station-network/>

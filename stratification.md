@@ -1,5 +1,5 @@
 # Стратификация
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ГЗУ](sss.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ГЗУ](sss.md)**
 
 [TOC]
 
@@ -31,12 +31,7 @@
 |*Sections & pages*|
 |**`Грунтозаборное устройство (ГЗУ):`**<br> [Стратификация](stratification.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Stratification>
    1. <https://ru.wikipedia.org/wiki/Стратификация>

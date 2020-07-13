@@ -1,5 +1,5 @@
 # Payload Definition Document
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Doc](doc.md)**, [OE](oe.md), [R&D](rnd.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Doc](doc.md)**, [OE](oe.md), [R&D](rnd.md)
 
 [TOC]
 
@@ -53,12 +53,8 @@
 |**`Documents:`**<br> … |
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md) ┊ [Антенна](antenna.md) ┊ [АПС](hns.md) ┊ [БУ](sp.md) ┊ [ЗУ](ds.md) ┊ [Изделие](unit.md) ┊ [КЛЧ](clean_lvl.md) ┊ [ПЗР](fov.md) ┊ [ПО](soft.md) ┊ [Прототип](prototype.md) ┊ [Радиосвязь](comms.md) ┊ [СКЭ](elmsys.md) ┊ [ССИТД](tsdcs.md) ┊ [СИТ](etedp.md) ┊ [УГТ](trl.md) ┊ [ЭКБ](elc.md) ┊ [EMC](emc.md) |
 
-**Docs:**
-
-   1. [Solar Orbiter PDD ❐](f/doc/pdd_solar_orbiter_esa_2004.pdf) (2004 г)
-   1. [EChO PDD ❐](f/doc/pdd_echo_esa_2013.pdf) (2013 г)
-
-**Links:**
-
+   1. Docs:
+      - [Solar Orbiter PDD ❐](f/doc/pdd_solar_orbiter_esa_2004.pdf) (2004 г)
+      - [EChO PDD ❐](f/doc/pdd_echo_esa_2013.pdf) (2013 г)
    1. Notable interwikies — …
    1. <…>

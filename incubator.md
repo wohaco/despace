@@ -1,5 +1,5 @@
 # Инкубатор
-> 2019.11.29 ┊ **🚀 [despace](index.md)** → **[Don’t Panic](dont_panic.md)**
+> 2019.11.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Don’t Panic](dont_panic.md)**
 
 [TOC]
 
@@ -201,11 +201,6 @@
 |*Sections & pages*|
 |**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md) ┊ [Аналитика](incubator.md) ┊ [Конценсус](consensus.md) ┊ [НПОЛ процессы](zz_нпол_п.md) ┊ [Словоблудие](verbiage.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

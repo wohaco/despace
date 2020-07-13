@@ -1,12 +1,12 @@
 # Baker, Charles L.
-> 2019.12.02 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.12.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Mission/Project Systems Engineer*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| <mark>нетдаты</mark> 1971 / … |
+|B‑day, addr.| <mark>nodate</mark> 1971 / … |
 || [![](f/contact/b/baker_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) [![](f/contact/b/baker_001_sign_thumb.jpg)](f/contact/b/baker_001_sign.png) |
 
    - **[Education](edu.md):** Mech. engineering, Thermal engineering, Carnegie Mellon Univ., 1993.
@@ -15,9 +15,9 @@
    - **SC/Equip.:** 2009 [LRO](lunar_reconnaissance_orbiter.md), 2009 [Venus Mobile Explorer](venus_mobile_explorer.md)
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/charles-baker-a735604>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - **As a person:**
       1. …

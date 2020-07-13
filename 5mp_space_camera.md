@@ -1,5 +1,5 @@
 # 5MP Space Camera
-> 2019.07.31 ┊ **🚀 [despace](index.md)** → **[Камера](camera.md)**
+> 2019.07.31 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
 
 [TOC]
 
@@ -61,12 +61,7 @@
 |*Sections & pages*|
 |**`Камера:`**<br> [SAR](synthetic_aperture_radar.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … () |
 
-**Docs:**
-
-   1. [5MP Space Camera datasheet ❐](f/cam/nmb/5mp_space_camera_datasheet.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [5MP Space Camera datasheet ❐](f/cam/nmb/5mp_space_camera_datasheet.pdf)
    1. Notable interwikies — …
    1. <https://www.spacemicro.com/products/guidance-and-navigation.html>
-

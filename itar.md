@@ -1,5 +1,5 @@
 # ITAR
-> 2019.08.10 ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.08.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -50,11 +50,6 @@ The ITAR regulate defense articles and defense services. Defense articles can be
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/International_Traffic_in_Arms_Regulations>

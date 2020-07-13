@@ -1,5 +1,5 @@
 # ТСНН ШТК
-> 2019.08.02 ┊ **🚀 [despace](index.md)** → **[Камера](camera.md)**
+> 2019.08.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
 
 [TOC]
 
@@ -64,11 +64,6 @@
 |*Sections & pages*|
 |**`Камера:`**<br> [SAR](synthetic_aperture_radar.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … () |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://ofo.ikiweb.ru/tsnn.php>

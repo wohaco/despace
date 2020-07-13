@@ -1,5 +1,5 @@
 # ГОГУ
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Control](control.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 
@@ -23,11 +23,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. 2009 [Научные чтения Циолковского ⎆](http://readings.gmik.ru/lecture/2009-GLAVNAYA-OPERATIVNAYA-GRUPPA-UPRAVLENIYA-GOGU-ISTORIYA-SOZDANIYA-I-DEYATELNOSTI) — [archive ❐](f/archive/20090101_1.pdf) of 2019.02.18)

@@ -1,5 +1,5 @@
 # Digital elevation model
-> 2019.09.13 ┊ **🚀 [despace](index.md)** → **[Модель](model.md)**
+> 2019.09.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Модель](model.md)**
 
 [TOC]
 
@@ -56,12 +56,7 @@ Common uses of DEMs include:
 |*Sections & pages*|
 |**`Модель:`**<br> [DEM](digital_elev_model.md) ┊ [SPICE](spice.md) ┊ [ВДМ](vd_model.md) ┊ [Лимит](limit.md) ┊ [МИХ](mic.md) ┊ [Осциллятор](oscillator.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Digital_elevation_model>
 

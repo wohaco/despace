@@ -1,5 +1,5 @@
 # Future Launchers Preparatory Programme
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[LV](lv.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 
@@ -27,11 +27,6 @@ FLPP develops and matures technologies that are deemed promising for future appl
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Future_Launchers_Preparatory_Programme>

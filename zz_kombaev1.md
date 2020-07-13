@@ -1,13 +1,13 @@
 # Комбаев, Тимур Шикурович
-> 2019.12.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.12.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*НПОЛ, RU. КЛГ / 801, 509, «Филиал Калуга». Инженер‑конструктор 2‑й категории*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* Калуга: 154; 36-15, 56-15 — если он в Химках; *моб.:* +7(930)753-01-14, +7(910)512-69-32 |
+|Tel| *work:* Калуга: 154; 36-15, 56-15 — если он в Химках; *mobile:* +7(930)753-01-14, +7(910)512-69-32 |
 |E‑mail| <kombaev@laspace.ru> |
-|B‑day, addr.| <mark>нетдаты</mark> / … |
-|| [![](f/contact/k/kombaev_001_photo_thumb.jpg)](f/contact/k/kombaev_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|B‑day, addr.| <mark>nodate</mark> / … |
+|| [![](f/contact/k/kombaev_001_photo_thumb.jpg)](f/contact/k/kombaev_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -15,9 +15,9 @@
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
+   - Facebook: <mark>nofb</mark>
    - Instagram: <https://instagram.com/kombaew>
-   - LinkedIn: <mark>нетин</mark>
+   - LinkedIn: <mark>noli</mark>
    - Twitter: <https://twitter.com/kombaew>
    - <https://vk.com/planktos>
    - <https://ok.ru/profile/12784645777>

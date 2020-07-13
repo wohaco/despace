@@ -1,5 +1,5 @@
-# ВГВ (гипотетический)
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+# VGV (hypothetical)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -7,8 +7,8 @@
 
 > <small>*Terms:* **Возврат Грунта Венеры (ВГВ)** — Russian term with no analogues in English. **Venus sample return (VGV)** — literal translation to English.</small>
 
-**Venus sample return (VGV, Возврат Грунта Венеры, ВГВ)** is a hypothetical spacecraft that .  
-Начат 2019.05.12.
+**Venus sample return (VGV, Возврат Грунта Венеры, ВГВ)** is a hypothetical spacecraft that can .  
+Started 2019.05.12.
 
 **Задача:** спроектировать миссию, который мог бы взлететь с [Венеры](venus.md) с грунтом массой не менее 0.3 кг и доставить его на Землю.
 
@@ -85,11 +85,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

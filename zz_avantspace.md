@@ -1,5 +1,5 @@
 # AvantSpace
-> 2020.01.18 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.01.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/a/avantspace_logo1_thumb.jpg)](f/contact/a/avantspace_logo1.png)|*Луговая 4/7, Инновационный центр Сколково, г. Москва, 143026, RU.*|
 |:--|:--|
@@ -13,9 +13,6 @@
 We are working since 2010, providing cost-effective solutions, based on microsatellite technology, and a high level of technical support at all stages of the product life cycle, to our clients. Our approach is to being attentive to the customer’s wishes, working on time and flexible pricing. The core of small but efficient and professional team are young professionals with the real experience in the design and operation of spacecrafts, including microsatellites.
 
 Domestic technology, our own experience and promising developments of our cooperation are the basis of all our key developments.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

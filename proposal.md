@@ -1,5 +1,5 @@
 # Proposal
-> 2020.04.16 ┊ **🚀 [despace](index.md)** → **[R&D](rnd.md)** <mark>NOCAT</mark>
+> 2020.04.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -19,11 +19,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

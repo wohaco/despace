@@ -1,5 +1,5 @@
 # ISBN
-> 2020.03.04 ┊ **🚀 [despace](index.md)** → **[Док](doc.md)**
+> 2020.03.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Док](doc.md)**
 
 [TOC]
 
@@ -39,12 +39,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Международный_стандартный_номер_книги>
    1. <https://en.wikipedia.org/wiki/International_Standard_Book_Number>

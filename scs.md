@@ -1,5 +1,5 @@
 # Spacecraft system
-> 2019.05.05 ┊ **🚀 [despace](index.md)** → **[SCS](scs.md)**
+> 2019.05.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SCS](scs.md)**
 
 [TOC]
 
@@ -275,38 +275,31 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md) |
 |**`Наземный научный комплекс (ННК):`**<br> [АПС](hns.md) |
 
-**Docs:**
-
-   - SCS:
-      1. …
-   - КК:
-      1. [ГОСТ 53802](гост_53802.md), п. 1‑7
-      1. [РК‑11](const_rk11.md), стр. 17
-   - НКУ: [ГОСТ 53802](гост_53802.md), п.30-32
-   - БЦ: [ГОСТ 53802](гост_53802.md), п.43
-   - НКПОР: [ГОСТ 53802](гост_53802.md), п.50
-   - НАКУ: [ГОСТ 53802](гост_53802.md), п. 30‑32
-   - КСИСО: [ГОСТ 53802](гост_53802.md), п. 51
-   - КИК: <https://ru.wikipedia.org/wiki/Категория:Командно‑измерительный_комплекс>
-
-**Links:**
-
-   - Notable interwikies — …
-   - SCS:
+   1. Docs:
+      - SCS:
+         1. [ГОСТ 53802](гост_53802.md), п. 1‑7
+         1. [РК‑11](const_rk11.md), стр. 17
+      - НКУ: [ГОСТ 53802](гост_53802.md), п.30-32
+      - БЦ: [ГОСТ 53802](гост_53802.md), п.43
+      - НКПОР: [ГОСТ 53802](гост_53802.md), п.50
+      - НАКУ: [ГОСТ 53802](гост_53802.md), п. 30‑32
+      - КСИСО: [ГОСТ 53802](гост_53802.md), п. 51
+      - КИК: <https://ru.wikipedia.org/wiki/Категория:Командно‑измерительный_комплекс>
+   1. Notable interwikies — …
+   1. SCS:
       1. <https://en.wikipedia.org/wiki/Attitude_control>
       1. <https://en.wikipedia.org/wiki/Ground_segment>
       1. <https://en.wikipedia.org/wiki/Guidance,_navigation,_and_control>
       1. <https://en.wikipedia.org/wiki/Space_segment>
       1. <https://en.wikipedia.org/wiki/Fixed-satellite_service>
-   - КК:
       1. <https://ru.wikipedia.org/wiki/Научно‑измерительный_пункт>
-   - НС:
+   1. НС:
       1. <https://en.wikipedia.org/wiki/Ground_station>
       1. <https://ru.wikipedia.org/wiki/Восточный_центр_дальней_космической_связи>
       1. <https://ru.wikipedia.org/wiki/Калязинская_радиоастрономическая_обсерватория>
       1. <https://ru.wikipedia.org/wiki/РТ-70>
       1. <https://ru.wikipedia.org/wiki/Центр_космической_связи_«Медвежьи_озёра»>
-   - БЦ:
+   1. БЦ:
       1. <http://www.ngpedia.ru/id584007p1.html>
       1. <http://www.keldysh.ru/httpd/kiam-info_fr.html>
       1. <http://www.kiam1.rssi.ru/>

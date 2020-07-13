@@ -1,5 +1,5 @@
 # HTPB
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Топливо](fuel.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Топливо](fuel.md)**
 
 [TOC]
 
@@ -36,12 +36,8 @@ HTPB используется и в качестве топлива для ги�
 |*Sections & pages*|
 |**`Топливо:`**<br> [Кавитация](cavitation.md) ┊ [Мятый газ](exhsteam.md) ┊ [Нейтрализация КРТ](нейтрализация_крт.md) |
 
-**Docs:**
-
-   1. [Solid propellants: AP/HTPB composite propellants ❐](f/fuel/htpb_1-s2.0-s1878535215000106-main.djvu)
-
-**Links:**
-
+   1. Docs:
+      - [Solid propellants: AP/HTPB composite propellants ❐](f/fuel/htpb_1-s2.0-s1878535215000106-main.djvu)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Hydroxyl-terminated_polybutadiene>
    1. <https://ru.wikipedia.org/wiki/Полибутадиен_с_концевыми_гидроксильными_группами>

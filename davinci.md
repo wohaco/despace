@@ -1,5 +1,5 @@
 # DAVINCI
-> 2020.02.18 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2020.02.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -118,10 +118,5 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. <https://en.wikipedia.org/wiki/DAVINCI>

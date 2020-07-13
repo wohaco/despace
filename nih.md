@@ -1,5 +1,5 @@
 # Not invented here
-> 2020.03.18 ┊ **🚀 [despace](index.md)** → **[Research](project.md.md)**
+> 2020.03.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Research](project.md.md)**
 
 [TOC]
 
@@ -69,12 +69,7 @@ In some cases, software with the same functionality as an existing one is re‑i
 |*Sections & pages*|
 |**··• [Project](project.md) •··**<br> [Interferometer](interferometer.md) ┊ [NASA open](nasa_open.md) ┊ [NASA STI](nasa_sti.md) ┊ [NIH](nih.md) ┊ [Past, future and everything](pfaeverything.md) ┊ [PSDS](us_psds.md) [MGSC](mgsc.md) ┊ [Raman spectroscopy](raman_spsc.md) ┊ [SC price](sc_price.md) ┊ [SC typical forms](sc_ts.md) ┊ [Tech derivative laws](td_laws.md) ┊ [View](view.md) ┊ [XRF](xrf.md)|
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Not_invented_here>
    1. <https://ru.wikipedia.org/wiki/Синдром_неприятия_чужой_разработки>

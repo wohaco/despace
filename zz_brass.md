@@ -1,5 +1,5 @@
 # BRASS
-> 2019.08.14 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/b/brass_logo1_thumb.jpg)](f/contact/b/brass_logo1.png)|*BR Aerospace Solutions & Services, P.O Box 36088,  Northgate P.O., Brampton, Ontario, L6S 6A3, Canada*|
 |:--|:--|
@@ -11,9 +11,6 @@
 **BR Aerospace Solutions & Services (BRASS)** is a global aerospace company principally engaged in the research, design, development, & sustainment of advanced technology systems in almost all areas of Aerospace sector viz. Robotics/UAV’s, satellite operations, space mission analysis, earth observation, climate change & so on. Founded in 2016 & Incorporated in 2018, headquartered in Ontario, Canada.  
 *Our Vision:* To provide innovative engineering solutions to the most complex challenges, delivering effective solutions for the betterment of mankind.  
 *Our Mission:* To contribute to advancement in research & development, innovation, & scientific discovery globally in the field of Aerospace for delivering effective solutions.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

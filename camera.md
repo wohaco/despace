@@ -1,5 +1,5 @@
 # Камера
-> 2019.12.16 ┊ **🚀 [despace](index.md)** → **[Камера](camera.md)**
+> 2019.12.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
 
 [TOC]
 
@@ -38,11 +38,7 @@
 |*Sections & pages*|
 |**`Камера:`**<br> [SAR](synthetic_aperture_radar.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … () |
 
-**Docs:**
-
-   1. [Камера, template](template_camera.md)
-
-**Links:**
-
+   1. Docs:
+      - [Камера, template](template_camera.md)
    1. Notable interwikies — …
    1. <…>

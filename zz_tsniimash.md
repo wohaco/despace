@@ -1,5 +1,5 @@
 # ЦНИИмаш
-> 2019.08.06 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/t/tsniimash_logo1_thumb.jpg)](f/contact/t/tsniimash_logo1.png)|*Россия, 141070, Московская область, г. Королёв, ул. Пионерская, д. 4*|
 |:--|:--|
@@ -17,9 +17,6 @@
    - **Проезд на автотранспорте из г. Мытищи.** От ж/д станции «Мытищи» на автобусе № 28 до остановки «Проходная ЦНИИмаш» в г. Королёве.
 
 
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

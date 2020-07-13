@@ -1,5 +1,5 @@
 # CPSX
-> 2019.08.16 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/c/cpsx_logo1_thumb.jpg)](f/contact/c/cpsx_logo1.png)|*1151 Richmond Street, London, Ontario, N6A 3K7, Canada*|
 |:--|:--|
@@ -11,9 +11,6 @@
 **Centre for Planetary Science & Exploration (CPSX)** at Western University is the leading organization for planetary science & exploration research & training in Canada. Our goal is to provide Canada & the global space program with the necessary expertise to design & support future planetary mission activities.  
 Established in 2008, CPSX is home to the largest collection of graduate students & faculty in planetary science in the nation, with over 50 faculty & 30 graduate students from 11 different departments, & a growing number of alumni.  
 Centre faculty, representing the departments of Electrical & Computer Engineering, Mechanical & Materials Engineering, Civil & Environmental Engineering, Physics & Astronomy, Earth Sciences, Biology, & Geography, focus their research on five major themes.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

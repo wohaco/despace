@@ -1,5 +1,5 @@
 # SEDS
-> 2019.09.02 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.09.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/s/seds_logo1_thumb.jpg)](f/contact/s/seds_logo1.png)|*…*|
 |:--|:--|
@@ -11,9 +11,6 @@
 **Students for the Exploration & Development of Space (SEDS)** is an international student organization whose purpose is to promote space exploration & development through educational & engineering projects.
 
 Students for the Exploration & Development of Space was founded in 1980 at MIT by Peter Diamandis, Princeton University by Scott Scharfman, & Yale University by Richard Sorkin, & consists of an international group of high school, undergraduate, & graduate students from a diverse range of educational backgrounds who are working to promote space. SEDS is a chapter‑based organization with chapters in Canada, India, Israel, Mexico, Nepal, Nigeria, Philippines, Spain, Turkey, United Kingdom, & United States. The permanent National Headquarters for SEDS‑USA resides at MIT & that of SEDS‑India resides at Vellore Institute of Technology. Though collaboration is frequent, each branch & chapter is independent & coordinates their own activities & projects.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

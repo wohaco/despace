@@ -1,5 +1,5 @@
 # Draper Laboratory
-> 2020.02.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.02.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/d/draper_lab_logo1_thumb.jpg)](f/contact/d/draper_lab_logo1.png)|*The Charles Stark Draper Laboratory, Inc., 555 Technology Square, Cambridge, MA 02139, USA*|
 |:--|:--|
@@ -15,9 +15,6 @@ The laboratory was founded in 1932 by Charles Stark Draper at the Massachusetts 
 Draper has locations in several US cities: Cambridge, Massachusetts (headquarters); Houston, Texas at NASA Johnson Space Center; Reston, Virginia; Huntsville, Alabama. Former locations include Tampa, Florida at University of South Florida (Bioengineering Center), & St. Petersburg, Florida (Multichip Module Facility).
 
 According to its website, the laboratory staff applies its expertise to autonomous air, land, sea & space systems; information integration; distributed sensors & networks; precision‑guided munitions; biomedical engineering; chemical/biological defense; & energy system modeling & management. When appropriate, Draper works with partners to transition their technology to commercial production.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

@@ -1,5 +1,5 @@
 # Экология
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Экология](ecology.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Экология](ecology.md)**
 
 [TOC]
 
@@ -62,12 +62,7 @@
 |*Sections & pages*|
 |**`Экология:`**<br> [Класс опасности](danger_goods.md) ┊ [Нейтрализация КРТ](нейтрализация_крт.md) ┊ [Околоземное космическое пространство](near_sys.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Committee_on_Space_Research>
    1. <https://en.wikipedia.org/wiki/Ecology>

@@ -1,5 +1,5 @@
 # Documents
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Doc](doc.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Doc](doc.md)**
 
 [TOC]
 
@@ -417,12 +417,7 @@ List of common documents:
 |*Sections & pages*|
 |**··• [Documents](doc.md) •··**<br> **Схема:** [КСС](ксс.md) ┊ [ПГС](пгс.md) ┊ [ПЛИС](плис.md) ┊ [СхД](wbs.md) ┊ [СхО](draft_model.md) ┊ [СхПЗ](draft_model.md) ┊ [СхЧ](unit_decd.md) ┊ [СхЭ](ei_diagram.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    - Notable interwikies — …
    - Documents:
       1. [ESA: Requirements and standards ⎆](https://www.esa.int/Our_Activities/Space_Engineering_Technology/Requirements_and_standards)

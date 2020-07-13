@@ -1,13 +1,13 @@
 # Tilman, Justin Eugene
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Представитель НАСА в РФ*|
 |:--|:--|
 |B‑day, addr.| 1973.09.29 (Kansas City, Missouri, USA) / … |
 |E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
-|| [![](f/contact/t/tilman_001_photo_thumb.jpg)](f/contact/t/tilman_001_photo.jpg) <mark>нетподписи</mark> |
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
+|| [![](f/contact/t/tilman_001_photo_thumb.jpg)](f/contact/t/tilman_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -15,9 +15,9 @@
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - **As a person:**
       1. …

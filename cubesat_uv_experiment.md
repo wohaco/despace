@@ -1,5 +1,5 @@
 # Cubesat UV Experiment
-> 2019.12.08 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.12.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -142,12 +142,8 @@ This concept will address the nature of the UV-absorber (range 0.32 — 0.49 �
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [2017, CubeSat symposium ❐](f/project/c/cuve/2017_cubsatsymposiumgsfc_cottini_cuve_talk_26sept.pdf)
-   1. [2017, EPSC ❐](f/project/c/cuve/2017_epsc.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [2017, CubeSat symposium ❐](f/project/c/cuve/2017_cubsatsymposiumgsfc_cottini_cuve_talk_26sept.pdf)
+      - [2017, EPSC ❐](f/project/c/cuve/2017_epsc.pdf)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/CubeSat_UV_Experiment>

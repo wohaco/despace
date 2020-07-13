@@ -1,5 +1,5 @@
 # Principal investigator
-> 2019.10.18 ┊ **🚀 [despace](index.md)** → **[](.md)**
+> 2019.10.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)**
 
 [TOC]
 
@@ -31,11 +31,6 @@ There were 20 458 PIs on NIH R01 grants in US biomedical research in 2000. I
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Principal_investigator>

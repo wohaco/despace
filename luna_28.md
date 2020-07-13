@@ -1,5 +1,5 @@
 # Луна‑28
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Луна](moon.md), **[Project](project.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Луна](moon.md), **[Project](project.md)**
 
 [TOC]
 
@@ -125,11 +125,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Материалы НИР 2015 ❐](f/project/луна‑28/2015_lgr_nir_full_archive.7z)
-
-**Links:**
-
+   1. Docs:
+      - [Материалы НИР 2015 ❐](f/project/луна‑28/2015_lgr_nir_full_archive.7z)
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Луна‑28>

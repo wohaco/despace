@@ -1,5 +1,5 @@
 # NGC A/S
-> 2019.08.26 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/n/ngc_as_logo1_thumb.jpg)](f/contact/n/ngc_as_logo1.png)|*2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*|
 |:--|:--|
@@ -9,9 +9,6 @@
 |Etc| … |
 
 **NGC Aerospace Ltd** is a Canadian high‑tech SME recognised for the design & deployment of artificial vision, guidance, navigation & control systems for the autonomous operation of space, aeronautical & terrestrial vehicles. The analyses, algorithms, simulators & real-time software developed by NGC aim at increasing the autonomy, performance, reliability & safety of these intelligent vehicles while at the same time reducing their operational cost. From theoretical concepts & innovations to satellites & autonomous rovers currently in operation, NGC has demonstrated creativity, quality, excellence & performance consistent with its motto.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

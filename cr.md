@@ -1,5 +1,5 @@
 # Космические лучи
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ВВФ](ef.md)**, [Space](index.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ВВФ](ef.md)**, [Space](index.md)
 
 [TOC]
 
@@ -106,12 +106,7 @@
 |**`Внешние воздействующие факторы (ВВФ):`**<br> [Астрономический объект](aob.md) ┊ [Атмосфера](atmosphere.md) ┊ [Атмосфера Земли](earth_atmo.md) ┊ [Время](time.md) ┊ [Гравитационные волны](gravwave.md) ┊ [Диапазоны частот](rf.md) ┊ [Ионизирующее излучение](ion_rad.md) ┊ [Космические лучи](cr.md) ┊ [Космический мусор](sdeb.md) ┊ [Радиационные пояса Земли](varb.md) ┊ [Солнечная активность](solar_ph.md) ┊ [Стандартные условия](sctp.md) |
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Космические_лучи>
    1. <https://ru.wikipedia.org/wiki/Альфа‑частица>

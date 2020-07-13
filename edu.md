@@ -1,5 +1,5 @@
 # Образование
-> 2019.10.17 ┊ **🚀 [despace](index.md)** → **[Control](control.md)**
+> 2019.10.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 
@@ -49,12 +49,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Латинские_награды>
    1. <https://ru.wikipedia.org/wiki/Учёная_степень>

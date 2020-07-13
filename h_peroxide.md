@@ -1,5 +1,5 @@
 # Перекись водорода
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Топливо](fuel.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Топливо](fuel.md)**
 
 [TOC]
 
@@ -62,15 +62,10 @@
 |**`Конструктивные элементы, механизмы, материалы (КММ):`**<br> [Гермоконтейнер](гермоконтейнер.md) ┊ [Датчик](sensor.md) ┊ [Задел](margin.md) ┊ [Изделие](unit.md) ┊ [Испарение материалов](mat_sublime.md) ┊ [Кавитация](cavitation.md) ┊ [КЗУ](cinu.md) (ВБУ КТ) ┊ [КХГ](cgs.md) ┊ [Контейнеры для транспортировки](ship_contain.md) ┊ [Крейцкопф](crosshead.md) ┊ [Номинал](nominal.md) ┊ [ПУС](lag.md) ┊ [ПНА, ПОНА, ПСНА](aiad.md) ┊ [Резерв](reserve.md) ┊ [Слайс](слайс.md) ┊ [ТСП](tsp.md) ┊ [Типичные формы КА](sc_ts.md) ┊ [Толкатель](толкатель.md) ┊ [Унификация](commonality.md) |
 |**`Топливо:`**<br> [Кавитация](cavitation.md) ┊ [Мятый газ](exhsteam.md) ┊ [Нейтрализация КРТ](нейтрализация_крт.md) |
 
-**Docs:**
-
-   1. [Выжимка из «Новости космонавтики 2014.12» ❐](f/fuel/20141201_novosti_kosmonavtiki_h2o2.djvu)
-
-**Links:**
-
+   1. Docs:
+      - [Выжимка из «Новости космонавтики 2014.12» ❐](f/fuel/20141201_novosti_kosmonavtiki_h2o2.djvu)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Hydrogen_peroxide>
    1. <https://ru.wikipedia.org/wiki/Пероксид_водорода>
    1. 1975.01.01 [Двигательные установки на перекиси водорода для небольших спутников ⎆](http://www.airbase.ru/modelling/rockets/res/trans/h2o2/whitehead.html) — [archive ❐](f/archive/19750101_1.pdf) от …)
    1. 2007.10.11 [Перекись водорода ⎆](http://mosgird.ru/204/11/002.htm) — [archive ❐](f/archive/20071011_1.pdf) от )
-

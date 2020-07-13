@@ -1,10 +1,10 @@
 # Allen, Mark Andrew
-> 2019.10.14 ┊ **🚀 [despace](index.md)** → **[Archive](faq.md)**, [Contact](contact.md)
+> 2019.10.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Archive](faq.md)**, [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* +1(818)354-36-65 |
+|Tel| *work:* +1(818)354-36-65 |
 |E‑mail| <mark.a.allen@nasa.gov> |
 |B‑day, addr.| 1949.09.29 ‑ 2016.10.22 (67 лет, Died of complications from ALS (Lou Gehrig’s Disease)) / … |
 ||  [![](f/contact/a/allen_001_photo_thumb.jpg)](f/contact/a/allen_001_photo.jpg) |

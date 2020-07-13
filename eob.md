@@ -1,5 +1,5 @@
 # Дистанционное зондирование Земли
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Space](index.md), **[Project](project.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Space](index.md), **[Project](project.md)**
 
 [TOC]
 
@@ -34,11 +34,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://ru.wikipedia.org/wiki/Дистанционное_зондирование_Земли>

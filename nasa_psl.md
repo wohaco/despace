@@ -1,5 +1,5 @@
 # NASA Parts Selection List
-> 2019.07.31 ┊ **🚀 [despace](index.md)** → **[](.md)**
+> 2019.07.31 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)**
 
 [TOC]
 
@@ -82,11 +82,6 @@ NEPAG recommends selecting a Level 3 product when a higher Level part does not e
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://nepp.nasa.gov/npsl/npsl_UsePolicy.htm>

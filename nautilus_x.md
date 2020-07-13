@@ -1,5 +1,5 @@
 # Nautilus-X
-> 2019.03.20 ┊ **🚀 [despace](index.md)** → [косм.города‑бублики.md](rwss.md), **[Project](project.md)**
+> 2019.03.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → [косм.города‑бублики.md](rwss.md), **[Project](project.md)**
 
 [TOC]
 
@@ -63,11 +63,6 @@ In order to deploy this massive spacecraft as easily as possible, it would consi
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Nautilus-X>

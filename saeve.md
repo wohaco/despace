@@ -1,5 +1,5 @@
 # SAEVe
-> 2020.04.22 ┊ **🚀 [despace](index.md)** → **[Project](project.md)**
+> 2020.04.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
 
 [TOC]
 
@@ -170,10 +170,5 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. <https://www.lpi.usra.edu/vexag/meetings/archive/vexag_15/presentations/22-Kremic-SAEVe.pdf>

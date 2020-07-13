@@ -1,5 +1,5 @@
 # Удельный импульс
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ДУ](ps.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
 
 [TOC]
 
@@ -32,12 +32,7 @@
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md) ┊ [TALOS](talos.md) ┊ [Баки топливные](fuel_tank.md) ┊ [Варп‑двигатель](warp_drive.md) ┊ [Газовый двигатель](cgt.md) ┊ [Гибридный двигатель](гбрд.md) ┊ [Двигатель Бассарда](bussard_ramjet.md) ┊ [ЖРД](lpr.md) ┊ [ИПТ](ing.md) ┊ [Ионный двигатель](иод.md) ┊ [Как считать топливо?](si.md) ┊ [КЗУ](cinu.md) ┊ [КХГ](cgs.md) ┊ [Номинал](nominal.md) ┊ [Мятый газ](exhsteam.md) ┊ [РДТТ](spr.md) ┊ [Сильфон](сильфон.md) ┊ [СОЗ](соз.md) ┊ [СОИС](соис.md) ┊ [Солнечный парус](солнечный_парус.md) ┊ [ТНА](turbopump.md) ┊ [Топливные мембраны](топливные_мембраны.md) ┊ [Топливные мешки](топливные_мешки.md) ┊ [Топливо](fuel.md) ┊ [Тяговооружённость](ttwr.md) ┊ [ТЯРД](тярд.md) ┊ [УИ](isp.md) ┊ [Фотонный двигатель](фотонный_двигатель.md) ┊ [ЭРД](epsp.md) ┊ [Эффект Оберта](oberth_eff.md) ┊ [ЯРД](ntr.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://www.braeunig.us/space/propel.htm> — [archive ❐](f/ps/specific_impulse_basics_of_space_flight_rocket_propellants.djvu) of 2018.01.28)
    1. 2016.01.29 [В погоне за удельным импульсом ⎆](https://alex-anpilogov.livejournal.com/115661.html) — [archive ❐](f/archive/20160129_1.pdf) of 2019.02.17)

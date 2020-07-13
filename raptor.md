@@ -1,5 +1,5 @@
 # Raptor
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ДУ](ps.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
 
 [TOC]
 
@@ -78,15 +78,11 @@
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md) ┊ [TALOS](talos.md) ┊ [Баки топливные](fuel_tank.md) ┊ [Варп‑двигатель](warp_drive.md) ┊ [Газовый двигатель](cgt.md) ┊ [Гибридный двигатель](гбрд.md) ┊ [Двигатель Бассарда](bussard_ramjet.md) ┊ [ЖРД](lpr.md) ┊ [ИПТ](ing.md) ┊ [Ионный двигатель](иод.md) ┊ [Как считать топливо?](si.md) ┊ [КЗУ](cinu.md) ┊ [КХГ](cgs.md) ┊ [Номинал](nominal.md) ┊ [Мятый газ](exhsteam.md) ┊ [РДТТ](spr.md) ┊ [Сильфон](сильфон.md) ┊ [СОЗ](соз.md) ┊ [СОИС](соис.md) ┊ [Солнечный парус](солнечный_парус.md) ┊ [ТНА](turbopump.md) ┊ [Топливные мембраны](топливные_мембраны.md) ┊ [Топливные мешки](топливные_мешки.md) ┊ [Топливо](fuel.md) ┊ [Тяговооружённость](ttwr.md) ┊ [ТЯРД](тярд.md) ┊ [УИ](isp.md) ┊ [Фотонный двигатель](фотонный_двигатель.md) ┊ [ЭРД](epsp.md) ┊ [Эффект Оберта](oberth_eff.md) ┊ [ЯРД](ntr.md) |
 
-**Docs:**
-
+   1. Docs: …
+   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Raptor_(rocket_engine_family)>
    1. <https://en.wikipedia.org/wiki/SpaceX_rocket_engines>
    1. <https://ru.wikipedia.org/wiki/Raptor_(ракетный_двигатель)>
-
-**Links:**
-
-   1. Notable interwikies — …
    1. 2017.06.28 [Хабр: Подробный разбор ЖРД «Raptor» ⎆](https://geektimes.ru/post/290549/) — [archive ❐](f/archive/20170628_1.pdf) of 2019.02.13)
    1. 2017.10.18 [Всё, что известно о двигателях Раптор и даже больше ⎆](https://elonmusk.su/vse-chto-izvestno-o-dvigatelyakh-raptor-i-dazhe-bolshe/) — [archive ❐](f/archive/20171018_1.pdf) of 2019.02.13)
 

@@ -1,5 +1,5 @@
 # EnVision
-> 2019.10.10 ┊ **🚀 [despace](index.md)** → **[Venus](venus.md)**, [Проекты](project.md)
+> 2019.10.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md)**, [Проекты](project.md)
 
 [TOC]
 
@@ -453,14 +453,10 @@ The first international conference to discuss the scientific investigations of t
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Page directory](f/project/e/envision/)
-   1. [Proposal_M5_5oct2016 ❐](f/envision/doc001.pdf)
-   1. [EnVision_CDF_IFP_2018_Summary ❐](f/envision/doc002.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Page directory](f/project/e/envision/)
+      - [Proposal_M5_5oct2016 ❐](f/envision/doc001.pdf)
+      - [EnVision_CDF_IFP_2018_Summary ❐](f/envision/doc002.pdf)
    1. Notable interwikies — …
    1. <https://envisionvenus.eu/>
    1. <https://en.wikipedia.org/wiki/EnVision_(spacecraft)>

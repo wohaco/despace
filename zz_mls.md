@@ -1,5 +1,5 @@
 # MLS
-> 2019.08.14 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/m/mls_logo1_thumb.jpg)](f/contact/m/mls_logo1.png)|*Suite 900, 1959 Upper Water Street, Halifax, Nova Scotia  B3J 3N2, Canada*|
 |:--|:--|
@@ -9,9 +9,6 @@
 |Etc| … |
 
 **Maritime Launch Services (MLS)** is a Canadian space transport services company founded in 2016 & headquartered in Nova Scotia, Canada. MLS will rely on Ukrainian Cyclone-4M rockets by Yuzhnoye to launch polar & sun synchronous orbit from [Canso, Nova Scotia](canso.md). MLS is a joint venture of three U.S.-based firms.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

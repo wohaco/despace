@@ -1,5 +1,5 @@
 # LLISSE
-> .. ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> .. ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -155,10 +155,7 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Venera-D Phase II Final Report](Venera-DPhaseIIFinalReport.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Venera-D Phase II Final Report](Venera-DPhaseIIFinalReport.pdf)
    1. <https://www.lpi.usra.edu/vexag/meetings/archive/vexag_14/presentations/27-Kremic-Long-Lived%20Venus%20Station.pdf>
+   1. <…>

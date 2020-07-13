@@ -1,5 +1,5 @@
 # Риск
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Качество](quality.md), [КТЕХ](kt.md), **[Риск](risk.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), [КТЕХ](kt.md), **[Риск](risk.md)**
 
 [TOC]
 
@@ -169,15 +169,11 @@
 |*Sections & pages*|
 |**`Риск:`**<br> [Критичные элементы](sens_elem.md) |
 
-**Docs:**
-
-   1. [Оценка рисков в проекте «Венера‑Д» ❐](f/risk/20180322_venera-d_risk_summary_briefing.djvu) (2018.03.22, презентация)
-   1. Шаблоны: [таблица рисков ❐](f/risk/risks_summary.docx), [карточка риска ❐](f/risk/risk_card_template.docx)
-   1. [NASA Risk management handbook ❐](f/risk/nasa_sp_2011_3422.pdf)
-   1. [S3001: Guidelines for Risk Management ❐](f/risk/s3001_guidelines_for_risk_management.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Оценка рисков в проекте «Венера‑Д» ❐](f/risk/20180322_venera-d_risk_summary_briefing.djvu) (2018.03.22, презентация)
+      - Шаблоны: [таблица рисков ❐](f/risk/risks_summary.docx), [карточка риска ❐](f/risk/risk_card_template.docx)
+      - [NASA Risk management handbook ❐](f/risk/nasa_sp_2011_3422.pdf)
+      - [S3001: Guidelines for Risk Management ❐](f/risk/s3001_guidelines_for_risk_management.pdf)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Risk_management>
    1. <https://ru.wikipedia.org/wiki/Управление_рисками>

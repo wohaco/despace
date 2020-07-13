@@ -1,5 +1,5 @@
 # MCSS inc.
-> 2019.08.13 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/m/mcss_inc_logo1_thumb.jpg)](f/contact/m/mcss_inc_logo1.png)|*1125 Colonel By Drive, 311 St. Patrick’s Building, Ottawa, ON K1S 5B6, Canada*|
 |:--|:--|
@@ -12,9 +12,6 @@
 
 Our Mission Control Software streamlines end‑to‑end development & operations for robotic space missions. In both the space or ground segments it can make your development time faster, your operations more efficient, & your customer experience better.
 
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

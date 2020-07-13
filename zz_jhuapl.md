@@ -1,5 +1,5 @@
 # JHUAPL
-> 2019.08.08 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/j/jhuapl_logo1_thumb.jpg)](f/contact/j/jhuapl_logo1.png)|*11100 Johns Hopkins Road, Laurel, Maryland 20723-6099, USA*|
 |:--|:--|
@@ -11,9 +11,6 @@
 **Лаборато́рия прикладно́й фи́зики** *(сокр. ЛПФ, англ. Johns Hopkins Applied Physics Laboratory, APL)* — лаборатория в округе Хауард близ города Лорел в штате Мэриленд, на территории университета Джонса Хопкинса размером 360 акров. Лаборатория специализируется на исследованиях в интересах Министерства обороны США, НАСА и других структур федерального правительства США, а также иностранные правительственные заказы. Она была основана де‑факто в 1940 году (де‑юре в 1942 году) для разработки методов повышения эффективности ПВО союзников во время Второй мировой войны.
 
 We solve complex research, engineering, & analytical problems that present critical challenges to our nation. APL — the nation’s largest university affiliated research center — provides U.S. government agencies with deep expertise in specialized fields to support national priorities & technology development programs. We also serve as independent trusted technical agents to the government, providing continuity for highly complex, multigenerational technology development systems.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

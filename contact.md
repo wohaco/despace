@@ -1,5 +1,5 @@
 # Контакты
-> 2019.07.06 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 [TOC]
 
@@ -554,22 +554,22 @@
 |*• Organization (JP) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
 |**··· Head ···**|•|•|•|•|• • •|
-| [JAXA](zz_jaxa.md) |E|L|P|R| Гос. агентство, космическая и авиационная программа Японии |
-| [ISAS](zz_isas.md) ||||R| Astrophysical explorations with rockets, SC. A part of JAXA |
+| [JAXA](zz_jaxa.md) |E|L|P|R| National aerospace and space agency |
+| [ISAS](zz_isas.md) ||||R| Astrophysical explorations with rockets, SC; a part of [JAXA](zz_jaxa.md) |
 | [SCJ](zz_scj.md) |N||P|C| Major Japanese science organization |
 |**··· Contractors ···**|•|•|•|•|• • •|
 | [3D Printing Corp.](zz_3d_printing_corp.md) ||||R| Composite 3D printing |
-| [Astroscale](zz_astroscale.md) ||||| Removal of orbital debris |
+| [Astroscale](zz_astroscale.md) ||||R| Removal of orbital debris, sat life extension services, end‑of‑life services |
 | [Axelspace Corp.](zz_axelspace_corp.md) ||||| Ready‑to‑launch space solutions, micro‑satellite technology |
 | [Canon Electronics](zz_canon.md) ||||R| Small Earth satellites |
 | [Euroconsult](zz_euroconsult.md) ||||C| Strategic, research, summits, training programs |
 | [eVanTEC Co Ltd](zz_evantec_co_ltd.md) ||||| Software, satellite support |
-| [Hakuto](hakuto.md) ||||| … |
+| [Hakuto](hakuto.md) ||||| Moon lander; a part of [ispace](zz_ispace.md) |
 | [GITAI](zz_gitai.md) ||||| Remotely controlled robots |
 | [IHI](ihi.md) ||||| Разработка и создание двигателей, ТНА |
-| [Infostellar](zz_infostellar.md) ||||| Satellite 'Ground Segment as a Service' (GSaaS) provider |
+| [Infostellar](zz_infostellar.md) ||||| Satellite “Ground Segment as a Service” (GSaaS) provider |
 | [Interstellar Tech.](zz_interstellar_tech.md) ||L||| LV for small sats (≤ 100 kg) |
-| [ispace](zz_ispace.md) ||||| … |
+| [ispace](zz_ispace.md) ||||| Moon lander & base |
 | [JAMSS](zz_jamss.md) ||||| Japan Manned Space Systems Corporation |
 | [Japan Sat. Comms](zz_japan_sat_comms.md) ||||| … |
 | [Japan Space Imaging](zz_jspace_imaging.md) ||||| Satellite remote sensing commercial services |
@@ -775,7 +775,7 @@
 |**··· Head ···**|•|•|•|•|• • •|
 | [SSTA](zz_ssta.md) ||||| Singapore Space and Technology Association |
 |**··· Contractors ···**|•|•|•|•|• • •|
-| … ||||| … |
+| [Astroscale](zz_astroscale.md) ||||R| Removal of orbital debris, sat life extension services, end‑of‑life services |
 
 </small>
 
@@ -936,12 +936,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — [Skunk works](skunk_works.md)
    1. <http://mentallandscape.com/V_Biographies.htm>
    1. <https://en.wikipedia.org/wiki/List_of_government_space_agencies>

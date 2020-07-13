@@ -1,5 +1,5 @@
 # ГОСТ ИСО 9001
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Качество](quality.md), **[НД](doc.md#НД)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[НД](doc.md#НД)**
 
 [TOC]
 
@@ -20,11 +20,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [ГОСТ Р ИСО 9001-2015 ❐](f/doc/gost_iso_9001.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [ГОСТ Р ИСО 9001-2015 ❐](f/doc/gost_iso_9001.pdf)
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/ГОСТ_Р_ИСО_9001>

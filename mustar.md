@@ -1,5 +1,5 @@
 # µSTAR
-> 2019.07.29 ┊ **🚀 [despace](index.md)** → **[ЗД](sensor.md)**
+> 2019.07.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
 
 [TOC]
 
@@ -66,11 +66,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [µSTAR datasheet ❐](f/sensor/m/mustar_datasheet.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [µSTAR datasheet ❐](f/sensor/m/mustar_datasheet.pdf)
    1. Notable interwikies — …
    1. <…>

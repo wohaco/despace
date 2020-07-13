@@ -1,5 +1,5 @@
 # Астрономические периоды
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Space](index.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**
 
 [TOC]
 
@@ -100,12 +100,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://ru.wikipedia.org/wiki/Сидерический_период>
    1. <http://ru.wikipedia.org/wiki/Синодический_период>

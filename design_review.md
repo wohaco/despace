@@ -1,5 +1,5 @@
 # Design review
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[R&D](rnd.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
 
 [TOC]
 
@@ -81,12 +81,8 @@ In 21CFR820.3(h), design review is described as *“documented, comprehensive, s
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Design Review: MRR ❐](f/rnd/design_review_mrr.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Design Review: MRR ❐](f/rnd/design_review_mrr.pdf)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Design_review>
    1. <https://en.wikipedia.org/wiki/Design_review_(US_Government)>

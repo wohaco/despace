@@ -1,5 +1,5 @@
 # UFA
-> 2019.08.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/u/ufa_logo1_thumb.jpg)](f/contact/u/ufa_logo1.png)|*…*|
 |:--|:--|
@@ -9,9 +9,6 @@
 |Etc| … |
 
 **Институт атмосферной физики** (чеш. **Ústav fyziky atmosféry Akademie věd České republiky (UFA)**, междунар. **The Institute of Atmospheric Physics AS CR (IAP)** — университет Чехии, занимается изучением атмосферы. Основан в 1964 году.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

@@ -1,5 +1,5 @@
 # Chinese Deep Space Network
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [CNSA](zz_cnsa.md), **[НС](scs.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [CNSA](zz_cnsa.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -39,12 +39,7 @@ As of 2017, China was constructing an additional ground station in South America
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Chinese_Deep_Space_Network>
 

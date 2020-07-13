@@ -1,5 +1,5 @@
 # Zephyr
-> .. ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> .. ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -36,11 +36,6 @@
 |*Sections & pages*|
 |**··• [Rover](rover.md) •··**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

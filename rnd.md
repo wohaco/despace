@@ -1,5 +1,5 @@
 # Research & Development
-> 2019.03.21 ┊ **🚀 [despace](index.md)** → **[R&D](rnd.md)**
+> 2019.03.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
 
 [TOC]
 
@@ -101,12 +101,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/НИОКР>
    1. <https://en.wikipedia.org/wiki/Research_and_development>

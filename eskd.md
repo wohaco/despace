@@ -1,5 +1,5 @@
 # ЕСКД
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[НД](doc.md#НД)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[НД](doc.md#НД)**
 
 [TOC]
 
@@ -42,12 +42,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Единая_система_конструкторской_документации>
    1. <https://ru.wikisource.org/wiki/Категория:ГОСТы>

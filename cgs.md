@@ -1,5 +1,5 @@
 # КХГ
-> 2020.02.05 ┊ **🚀 [despace](index.md)** → [ДУ](ps.md), [Инкубатор](incubator.md), **[SGM](sgm.md)**
+> 2020.02.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ДУ](ps.md), [Инкубатор](incubator.md), **[SGM](sgm.md)**
 
 [TOC]
 
@@ -65,18 +65,13 @@
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md) ┊ [TALOS](talos.md) ┊ [Баки топливные](fuel_tank.md) ┊ [Варп‑двигатель](warp_drive.md) ┊ [Газовый двигатель](cgt.md) ┊ [Гибридный двигатель](гбрд.md) ┊ [Двигатель Бассарда](bussard_ramjet.md) ┊ [ЖРД](lpr.md) ┊ [ИПТ](ing.md) ┊ [Ионный двигатель](иод.md) ┊ [Как считать топливо?](si.md) ┊ [КЗУ](cinu.md) ┊ [КХГ](cgs.md) ┊ [Номинал](nominal.md) ┊ [Мятый газ](exhsteam.md) ┊ [РДТТ](spr.md) ┊ [Сильфон](сильфон.md) ┊ [СОЗ](соз.md) ┊ [СОИС](соис.md) ┊ [Солнечный парус](солнечный_парус.md) ┊ [ТНА](turbopump.md) ┊ [Топливные мембраны](топливные_мембраны.md) ┊ [Топливные мешки](топливные_мешки.md) ┊ [Топливо](fuel.md) ┊ [Тяговооружённость](ttwr.md) ┊ [ТЯРД](тярд.md) ┊ [УИ](isp.md) ┊ [Фотонный двигатель](фотонный_двигатель.md) ┊ [ЭРД](epsp.md) ┊ [Эффект Оберта](oberth_eff.md) ┊ [ЯРД](ntr.md) |
 |**`Конструктивные элементы, механизмы, материалы (КММ):`**<br> [Гермоконтейнер](гермоконтейнер.md) ┊ [Датчик](sensor.md) ┊ [Задел](margin.md) ┊ [Изделие](unit.md) ┊ [Испарение материалов](mat_sublime.md) ┊ [Кавитация](cavitation.md) ┊ [КЗУ](cinu.md) (ВБУ КТ) ┊ [КХГ](cgs.md) ┊ [Контейнеры для транспортировки](ship_contain.md) ┊ [Крейцкопф](crosshead.md) ┊ [Номинал](nominal.md) ┊ [ПУС](lag.md) ┊ [ПНА, ПОНА, ПСНА](aiad.md) ┊ [Резерв](reserve.md) ┊ [Слайс](слайс.md) ┊ [ТСП](tsp.md) ┊ [Типичные формы КА](sc_ts.md) ┊ [Толкатель](толкатель.md) ┊ [Унификация](commonality.md) |
 
-**Docs:**
-
-   1. [Сравнение обычных баллонов и капиллярных ❐](f/sgm/cgs_doc01.ods)
-   1. [Зависимость плотности водорода от давления и температуры ❐](f/sgm/h_density.ods)
-   1. [Статья о капиллярном хранении ❐](f/sgm/cgs_doc02.pdf) (Н.К. Жеваго, Курчатовский институт)
-
-**Links:**
-
+   1. Docs:
+      - [Сравнение обычных баллонов и капиллярных ❐](f/sgm/cgs_doc01.ods)
+      - [Зависимость плотности водорода от давления и температуры ❐](f/sgm/h_density.ods)
+      - [Статья о капиллярном хранении ❐](f/sgm/cgs_doc02.pdf) (Н.К. Жеваго, Курчатовский институт)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Carbon_nanotube>
    1. <https://en.wikipedia.org/wiki/Natural_gas_storage>
    1. <http://fundcnt.com/technology-2/>
    1. <https://habr.com/ru/post/450886/>
    1. <http://www.poisk-ltd.com/publications/marketnews/marketsnews_10.html>
-

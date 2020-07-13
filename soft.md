@@ -1,5 +1,5 @@
 # Программное обеспечение
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [OE](oe.md), [GNC](gnc.md), **[Soft](soft.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), [GNC](gnc.md), **[Soft](soft.md)**
 
 [TOC]
 
@@ -179,12 +179,8 @@ GPL предоставляет получателям компьютерных �
 |**`Бортовой комплекс управления (БКУ):`**<br> [АСН, САН](ans.md) ┊ [БНО](nnb.md) ┊ [БАППТ](acup.md) ┊ [БКС](cable.md) ┊ [БУ](sp.md) ┊ [БШВ](time.md) ┊ [Гироскоп](imu.md) ┊ [Дальномер](doppler.md) (ИСР) ┊ [ДМ](rw.md) ┊ [ЗД](sensor.md) ┊ [Компьютер](obc.md) (ЦВМ, БЦВМ) ┊ [Магнитометр](mag.md) ┊ [МИХ](mic.md) ┊ [МКО](mil_std_1553b.md) ┊ [ПО](soft.md) ┊ [ПНА, ПОНА, ПСНА](aiad.md) ┊ [СД](sensor.md) ┊ [Система координат](coord_sys.md) ┊ [СОСБ](spos.md) |
 |**··• [Software](soft.md) •··**<br> [ASP](asp.md) ┊ [Blender](blender.md) ┊ [C](c.md) ┊ [Cosmographia](cosmographia.md) ┊ [DOORS](doors.md) ┊ [DWG](cad_f.md) ┊ [GIMP](gimp.md) ┊ [Git](git.md) ┊ [IGES](cad_f.md) ┊ [ISIS](isis.md) ┊ [JT](cad_f.md) ┊ [NGT](neogeography_toolkit.md) ┊ [NX](nx.md) ┊ [Octave](gnu_octave.md) ┊ [PDF](pdf.md) ┊ [Python](python.md) ┊ [R](r.md) ┊ [SPICE](spice.md) ┊ [STEP](cad_f.md) ┊ [STL](systems_tool_kit.md) ┊ [SVG](cad_f.md) ┊ [Syncthing](syncthing.md) ┊ [Teamcenter](teamcenter.md) ┊ [Система управления версиями](vcs.md) ┊ [ХРИП](adra.md) |
 
-**Docs:**
-
-   1. [Каталог ПО NASA за 2019 ‑ 2020 гг. ❐](f/soft/nasa_software_catalog_2019_2020.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Каталог ПО NASA за 2019 ‑ 2020 гг. ❐](f/soft/nasa_software_catalog_2019_2020.pdf)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Software>
    1. <https://ru.wikipedia.org/wiki/Программное_обеспечение>

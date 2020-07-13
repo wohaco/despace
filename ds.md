@@ -1,5 +1,5 @@
 # Запоминающее устройство
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [OE](oe.md), **[ЗУ](ds.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), **[ЗУ](ds.md)**
 
 [TOC]
 
@@ -40,12 +40,8 @@
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md) ┊ [Антенна](antenna.md) ┊ [АПС](hns.md) ┊ [БУ](sp.md) ┊ [ЗУ](ds.md) ┊ [Изделие](unit.md) ┊ [КЛЧ](clean_lvl.md) ┊ [ПЗР](fov.md) ┊ [ПО](soft.md) ┊ [Прототип](prototype.md) ┊ [Радиосвязь](comms.md) ┊ [СКЭ](elmsys.md) ┊ [ССИТД](tsdcs.md) ┊ [СИТ](etedp.md) ┊ [УГТ](trl.md) ┊ [ЭКБ](elc.md) ┊ [EMC](emc.md) |
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8) ┊ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8) ┊ [OBMU](sait_obmu.md) (1.8) |
 
-**Docs:**
-
-   1. [ЗУ, template](template_ds.md)
-
-**Links:**
-
+   1. Docs:
+      - [ЗУ, template](template_ds.md)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Data_storage>
    1. <https://ru.wikipedia.org/wiki/Запоминающее_устройство>

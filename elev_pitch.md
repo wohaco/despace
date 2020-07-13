@@ -1,5 +1,5 @@
 # Презентация для лифта
-> 2019.10.19 ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.10.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -75,12 +75,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Презентация_для_лифта>
    1. <https://4brain.ru/blog/презентация‑в‑лифте‑elevator-pitch/>

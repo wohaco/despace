@@ -1,5 +1,5 @@
 # ASTRO 10
-> 2019.07.26 ┊ **🚀 [despace](index.md)** → **[ЗД](sensor.md)**
+> 2019.07.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
 
 [TOC]
 
@@ -65,11 +65,7 @@
 |*Sections & pages*|
 |**`Звёздный датчик (ЗД):`**<br> [Видимая звёздная величина](app_mag.md) ┊ [ПЗр](fov.md)<br>• • •<br> **Европа:** [ASTRO 15](astro_15.md) (6.15) ┊ [Hydra](hydra.md) (4.6) ┊ [ASTRO 10](astro_10.md) (3.8) ┊ [A-STR](a_str.md) (3.55) ┊ [AA-STR](aa_str.md) (2.6) ┊ [HE-5AS](he_5as.md) (2.2) ┊ [ASTRO APS](astro_aps.md) (2) ┊ [Horus](horus.md) (1.6) ┊ [T2](t2.md) (0.8) ┊ [T1](t1.md) (0.6 ‑ 1) ┊ [Auriga](auriga.md) (0.21)  ▮  **РФ:** [348К](348k.md) (3.45) ┊ [360К](360k.md) () ┊ [АД-1](ad_1.md) (3.8) ┊ [БОКЗ-МФ](bokz_mf.md) (2.8) ┊ [мБОКЗ-2](мбокз_2.md) (1.5) ┊ [SX-SR-MicroBOKZ](sx_sr_microbokz.md) (0.5)  ▮  **США:** [HAST](hast.md) (7.7) ┊ [CT-2020](ct_2020.md) (3) ┊ [µSTAR](mustar.md) (2.1) ┊ [MIST](mist.md) (0.55)  |
 
-**Docs:**
-
-   1. [ASTRO 10 Datasheet ❐](f/sensor/a/astro_10_datasheet.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [ASTRO 10 Datasheet ❐](f/sensor/a/astro_10_datasheet.pdf)
    1. Notable interwikies — …
    1. <…>

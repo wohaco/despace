@@ -1,13 +1,13 @@
 # Mason, Philippa J.
-> 2019.10.19 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*Imperial College, UK. Dept of Earth Science & Engineering. Senior Teaching Fellow*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* +44(0)20-7594-6528; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *work:* +44(0)20-7594-6528; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <p.j.mason@imperial.ac.uk> |
-|B‑day, addr.| <mark>нетдаты</mark> 1966 ? / … |
-|| [![](f/contact/m/mason_001_photo_thumb.jpg)](f/contact/m/mason_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|B‑day, addr.| <mark>nodate</mark> 1966 ? / … |
+|| [![](f/contact/m/mason_001_photo_thumb.jpg)](f/contact/m/mason_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Imperial College London, Geology, GIS & Remote Sensing, 1994 ‑ 1997. MS, Remote Sensing, UCL, 1992 ‑ 1993. BS, Geology, University of Southampton, 1984 ‑ 1987.
    - **Exp.:** HME Partnership, Senior Partner, 1999 ‑ Present, Geologist / Geospatial Consultant to mineral & petroleum exploration, engineering & environmental industries. Imperial College London, Senior Teaching Fellow, 1999 ‑ Present, Location Dept of Earth Science & Engineering, Teaching — lecturing, practicals & field training — supervising MSc, MSci & PhD projects — supervising independent mapping projects — tutoring & mentoring. Remote Sensing & Photogrammetry Society (RSPSoc), Honorary General Secretary, 2005 ‑ 2014, Ensuring the general healthy running of all aspects of the Society, including constitutional compliance under English Law & Charities Commission regulations. The Hon Gen Sec’s role is effectively the memory, conscience & vision of the Society.
@@ -16,7 +16,7 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/philippa.mason.16>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/philippajmason/>
    - Twitter: <https://twitter.com/phliptish>
    - <https://www.imperial.ac.uk/people/p.j.mason>

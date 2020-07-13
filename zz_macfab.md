@@ -1,5 +1,5 @@
 # Macfab
-> 2019.08.15 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/m/macfab_logo1_thumb.jpg)](f/contact/m/macfab_logo1.png)|*Macfab Manufacturing, 330 Britannia Road East, Mississauga, Ontario L4Z 1X9, Canada*|
 |:--|:--|
@@ -17,9 +17,6 @@ Macfab offers 12+ years of experience working directly with satellite developers
    - **Sensors:** Macfab manufactures components for numerous camera applications, not only for satellites but also for medical & scientific instruments, involving infrared sensors, hyperspectral imaging, & more.
    - **Separation systems:** We produce a variety of mechanical components & sub-assemblies, with particular expertise working with complex design, shapes, & virtually any material.
    - **Structures:** We provide structures machined from magnesium as well as composite honeycomb panels.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

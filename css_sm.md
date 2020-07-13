@@ -1,5 +1,5 @@
 # CSS
-> 2019.08.01 ┊ **🚀 [despace](index.md)** → **[СД](sensor.md)**
+> 2019.08.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[СД](sensor.md)**
 
 [TOC]
 
@@ -66,12 +66,7 @@
 |*Sections & pages*|
 |**`Солнечный датчик (СД):`**<br> [ПЗр](fov.md) <br>• • •<br> (КА) **Европа:** [FSS](fss_jo.md) (650) ┊ [FSS](fss.md) (50 ‑ 375) ┊ [CSS](css.md) (275) ┊ [CoSS](coss.md) (15 ‑ 24)  ▮  **РФ:** [ТДС](tds.md) (2 300) ┊ [347К](347k.md) (700) ┊ [ОСД](osd.md) (650) ┊ [СДП-1](sdp_1.md) (400) ┊ [SX-SUNR-01](sx_sunr_01.md) (40)<br> *(Кубсаты) **США:** [MSS](mss_sm.md) (0.036) ┊ [CSS](css_sm.md) (0.02)*|
 
-**Docs:**
-
-   1. [CSS datasheet ❐](f/sensor/c/css_sm_datasheet.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [CSS datasheet ❐](f/sensor/c/css_sm_datasheet.pdf)
    1. Notable interwikies — …
    1. <https://www.spacemicro.com/products/guidance-and-navigation.html>
-

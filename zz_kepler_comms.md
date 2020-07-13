@@ -1,5 +1,5 @@
 # Kepler Communications
-> 2019.08.28 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.28 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/k/kepler_comms_logo1_thumb.jpg)](f/contact/k/kepler_comms_logo1.png)|*196 Spadina Avenue, Suite 400 Toronto M5T 2C2 Canada*|
 |:--|:--|
@@ -10,9 +10,6 @@
 
 **Kepler Communications Inc.** is a privately held company based in Toronto, Ontario, Canada. The company’s stated mission is to deliver affordable network connectivity across the globe via a growing network of small satellites.  
 Kepler Communications is working to build a constellation of small, shoebox‑sized satellites based on the CubeSat standard that will deliver connectivity to other satellites & ground‑based stations, allowing for near real‑time exchange of data from IoT devices, large scale data backhaul (store‑and‑forward) services, & ultimately command & control for other space‑based assets.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

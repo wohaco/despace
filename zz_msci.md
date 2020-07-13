@@ -1,5 +1,5 @@
 # MSCI
-> 2019.08.27 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/m/msci_logo1_thumb.jpg)](f/contact/m/msci_logo1.png)|*6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*|
 |:--|:--|
@@ -9,9 +9,6 @@
 |Etc| … |
 
 **Microsat Systems Canada Inc. (MSCI)** is a privately held Canadian corporation applying dynamics & control technology in the space market for reaction wheels, rate measurement units & complete microsatellites. Formerly the space division of Dynacon Inc., MSCI has been the premiere builder of microsats in Canada for over a decade.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

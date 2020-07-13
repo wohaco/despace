@@ -1,5 +1,5 @@
 # Anechoic chamber
-> 2020.05.14 ┊ **🚀 [despace](index.md)** → **[Test](test.md)**, [EMC](emc.md)
+> 2020.05.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Test](test.md)**, [EMC](emc.md)
 
 [TOC]
 
@@ -46,12 +46,7 @@ Performance expectations (gain, efficiency, pattern characteristics, etc.) const
 |**`Испытания:`**<br> [Proto fligt model](pfm.md) ┊ [Безэховая камера](ach.md) ┊ [Валидация](validation.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [КПЭО](ctpr.md) ┊ [Перечень методик испытаний](list_tp.md) ┊ [Программа и методика испытаний](pmot.md) ┊ [Опытный образец](pilot_sample.md) ┊ [Циклограмма](obc.md) ┊ [Штатный образец](flight_unit.md) ┊ [ЭО](test.md) ┊ [Экспериментально‑теоретический метод](etetm.md) |
 |**`Электромагнитная совместимость (ЭМС):`**<br> [Безэховая камера](ach.md) ┊ [Помехи](emi.md) (EMI, RFI) ┊ [СКЭ](elmsys.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Anechoic_chamber>
    1. <https://ru.wikipedia.org/wiki/Безэховая_камера>

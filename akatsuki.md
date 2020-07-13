@@ -1,5 +1,5 @@
 # Akatsuki
-> 2019.05.29 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.05.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -326,14 +326,10 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Page directory](f/project/a/akatsuki/)
-   1. [Brochure ❐](f/project/a/akatsuki/brochure01.pdf)
-   1. [Overview of Venus orbiter, Akatsuki ❐](f/project/a/akatsuki/eps_2011_02_009.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Page directory](f/project/a/akatsuki/)
+      - [Brochure ❐](f/project/a/akatsuki/brochure01.pdf)
+      - [Overview of Venus orbiter, Akatsuki ❐](f/project/a/akatsuki/eps_2011_02_009.pdf)
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Акацуки_(космический_аппарат)>
    1. <https://en.wikipedia.org/wiki/Akatsuki_(spacecraft)>

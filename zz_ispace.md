@@ -1,5 +1,5 @@
 # ispace
-> 2020.07.04 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.07.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/i/ispace_logo1_thumb.jpg)](f/contact/i/ispace_logo1.png)|*2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
 |:--|:--|

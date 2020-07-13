@@ -1,13 +1,13 @@
 # Imamura, Takeshi
-> 2019.10.22 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Faculty of Science & Technology, Liberal Arts. Department of Complexity Science & Engineering / Planetary atmospheres, Planetary exploration. Professor*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* +81(4)7124-15-01; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *work:* +81(4)7124-15-01; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <ima@isas.jaxa.jp> |
-|B‑day, addr.| <mark>нетдаты</mark> 1969 / … |
-|| [![](f/contact/i/imamura_001_photo_thumb.jpg)](f/contact/i/imamura_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|B‑day, addr.| <mark>nodate</mark> 1969 / … |
+|| [![](f/contact/i/imamura_001_photo_thumb.jpg)](f/contact/i/imamura_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1998.
    - **Exp.:** Professor, Tokyo Univ., 2016. Associate Professor, [ISAS](zz_isas.md)/JAXA, 2002. Research associate, ISAS/JAXA, 1998.
@@ -15,10 +15,10 @@
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 DPS‑EPSC, 2019 [IVC](ivc_2019.md)
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/takeshi-imamura-82478b123/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://tus.elsevierpure.com/en/persons/takeshi-imamura>
    - <https://www.tus.ac.jp/en/fac/p/index.php?43cc>
    - <https://www.k.u-tokyo.ac.jp/pros-e/person/takeshi_imamura/takeshi_imamura.htm>

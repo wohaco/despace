@@ -1,5 +1,5 @@
 # SpaceX
-> 2019.08.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/s/spacex_logo1_thumb.jpg)](f/contact/s/spacex_logo1.png)|*1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
 |:--|:--|
@@ -17,9 +17,6 @@
    1. ракетные двигатели [Draco](draco.md), [Kestrel](kestrel.md), [Merlin](merlin.md), [Raptor](raptor.md);
    1. РН [BFR](bfr.md), [Falcon](falcon.md);
    1. владеют и эксплуатируют космодром [SpaceX STLS](spacex_stls.md).
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

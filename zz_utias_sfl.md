@@ -1,5 +1,5 @@
 # SFL
-> 2019.08.26 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/u/utias_sfl_logo1_thumb.jpg)](f/contact/u/utias_sfl_logo1.png)|*4925 Dufferin Street, Toronto, Ontario, M3H 5T6, Canada*|
 |:--|:--|
@@ -9,9 +9,6 @@
 |Etc| … |
 
 **The Space Flight Laboratory (SFL)** at the [UTIAS](zz_utias.md) maintains complete & comprehensive facilities to support the complete development cycle of [satellites & spacecraft](КА.md), from initial conception to final environmental testing. SFL also maintains ground support equipment, ground stations, & a mission control center to support needs in the field, including launch campaigns in other countries, commissioning & operation of satellites following launch.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

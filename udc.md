@@ -1,5 +1,5 @@
 # Универсальная десятичная классификация
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Документы](doc.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Документы](doc.md)**
 
 [TOC]
 
@@ -64,12 +64,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Universal_Decimal_Classification>
    1. <https://ru.wikipedia.org/wiki/Универсальная_десятичная_классификация>

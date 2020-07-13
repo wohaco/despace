@@ -1,5 +1,5 @@
 # Report
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Док‑ты](doc.md), **[Отчёт](report.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Док‑ты](doc.md), **[Отчёт](report.md)**
 
 [TOC]
 
@@ -25,7 +25,7 @@
 
 
 ## Пояснительная записка
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[КД](doc.md)**, [НД](doc.md), [R&D](rnd.md), [Отчёт](report.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[КД](doc.md)**, [НД](doc.md), [R&D](rnd.md), [Отчёт](report.md)
 
 [TOC]
 
@@ -154,11 +154,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Оценка качества документа по методике о.512 ❐](f/doc/doc_quality_512.xlsx)
-
-**Links:**
-
+   1. Docs:
+      - [Оценка качества документа по методике о.512 ❐](f/doc/doc_quality_512.xlsx)
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Доклад>

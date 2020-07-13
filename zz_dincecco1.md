@@ -1,13 +1,13 @@
 # D'Incecco, Piero
-> 2019.07.16 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[IRSPS](zz_irsps.md), EU. Planetary geologist*|
 |:--|:--|
 |i18n| Пьеро Д'Инчекко |
-|Tel|*раб.:* +49(176)329-814-72; *моб.:* +39(389)462-98-83 |
+|Tel|*раб.:* +49(176)329-814-72; *mobile:* +39(389)462-98-83 |
 |E‑mail| <piero.dincecco@unich.it>, <piero.dincecco@planetaryscience.de> |
 |B‑day, addr.| 1983.05.03 / … Italy |
-|| [![](f/contact/d/dincecco_001_photo_thumb.jpg)](f/contact/d/dincecco_001_photo.jpg) <mark>нетподписи</mark> |
+|| [![](f/contact/d/dincecco_001_photo_thumb.jpg)](f/contact/d/dincecco_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Department of Astronomy, University of Oulu.
    - **Exp.:** Planetary geologist, particularly focused on surface morphology of terrestrial bodies.

@@ -1,5 +1,5 @@
 # Euroconsult
-> 2020.07.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.07.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*86 Boulevard de Sebastopol, 75003 Paris, France*|
 |:--|:--|

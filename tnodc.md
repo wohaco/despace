@@ -1,5 +1,5 @@
 # Формуляр
-> 2019.09.23 ┊ **🚀 [despace](index.md)** → **[ЭД](doc.md)**
+> 2019.09.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЭД](doc.md)**
 
 [TOC]
 
@@ -44,11 +44,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

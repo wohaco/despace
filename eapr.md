@@ -1,5 +1,5 @@
 # Протокол разрешения применения
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[НД](doc.md)**, [R&D](rnd.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[НД](doc.md)**, [R&D](rnd.md)
 
 [TOC]
 
@@ -26,11 +26,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <…>

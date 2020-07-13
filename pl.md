@@ -1,5 +1,5 @@
 # Жизненный цикл изделия
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[](.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)**
 
 [TOC]
 
@@ -45,11 +45,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Жизненный_цикл_изделия>

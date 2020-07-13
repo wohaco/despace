@@ -1,5 +1,5 @@
 # Xcraft
-> 2019.01.21 ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.01.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -120,10 +120,5 @@ The standard XCRAFT is perfect for most missions.
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. <https://www.xplore.com/xcraft.html>

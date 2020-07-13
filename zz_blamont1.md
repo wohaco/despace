@@ -1,13 +1,13 @@
 # Blamont, Jacques
-> 2019.01.17 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.01.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[CNES](zz_cnes.md), FR.*|
 |:--|:--|
 |i18n| Бламон, Жак |
-|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1926.10.13 Paris, FR / … |
-|| [![](f/contact/b/blamont_001_photo_thumb.jpg)](f/contact/b/blamont_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/b/blamont_001_photo_thumb.jpg)](f/contact/b/blamont_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** [CV](f/contact/b/blamont_001_cv.pdf)
    - **Exp.:** …
@@ -15,10 +15,10 @@
    - **SC/Equip.:** 1986 [Venus Sample Return Mission](venus_sample_return_mission.md)
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Jacques_Blamont>
    - **As a person:**
       1. …

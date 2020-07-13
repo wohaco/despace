@@ -1,5 +1,5 @@
 # CSS
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[СД](sensor.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[СД](sensor.md)**
 
 [TOC]
 
@@ -65,14 +65,8 @@
 |*Sections & pages*|
 |**`Солнечный датчик (СД):`**<br> [ПЗр](fov.md) <br>• • •<br> (КА) **Европа:** [FSS](fss_jo.md) (650) ┊ [FSS](fss.md) (50 ‑ 375) ┊ [CSS](css.md) (275) ┊ [CoSS](coss.md) (15 ‑ 24)  ▮  **РФ:** [ТДС](tds.md) (2 300) ┊ [347К](347k.md) (700) ┊ [ОСД](osd.md) (650) ┊ [СДП-1](sdp_1.md) (400) ┊ [SX-SUNR-01](sx_sunr_01.md) (40)<br> *(Кубсаты) **США:** [MSS](mss_sm.md) (0.036) ┊ [CSS](css_sm.md) (0.02)*|
 
-**Docs:**
-
-   1. 3D-модель <mark>TBD</mark>
-   1. [Описание от 28.07.2017 ❐](f/sensor/c:css_laspace-css-be-p-0001_issue_1.0.djvu)
-   1. [CSS, ТО ❐](f/sensor/c/css_datasheet.djvu) (2017)
-
-**Links:**
-
+   1. Docs:
+      - [Описание от 28.07.2017 ❐](f/sensor/c/css_laspace-css-be-p-0001_issue_1.0.djvu)
+      - [CSS, ТО ❐](f/sensor/c/css_datasheet.djvu) (2017)
    1. Notable interwikies — …
    1. <http://bradford-space.com/products/aocs/css/>
-

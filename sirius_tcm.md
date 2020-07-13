@@ -1,5 +1,5 @@
 # Sirius TCM
-> 2019.08.06 ┊ **🚀 [despace](index.md)** → **[ЗУ](ds.md)**
+> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
 
 [TOC]
 
@@ -61,11 +61,7 @@
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8) ┊ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8) ┊ [OBMU](sait_obmu.md) (1.8) |
 
-**Docs:**
-
-   1. [Sirius TCM Datasheet ❐](f/comms/s/sirius_tcm_datasheet.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Sirius TCM Datasheet ❐](f/comms/s/sirius_tcm_datasheet.pdf)
    1. Notable interwikies — …
    1. <…>

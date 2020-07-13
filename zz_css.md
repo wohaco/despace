@@ -1,5 +1,5 @@
 # CSS
-> 2019.08.13 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/c/css_logo1_thumb.jpg)](f/contact/c/css_logo1.png)|*P.O. Box 19015, 360-A Bloor Street West, Toronto, Ontario, M5S 1X0, Canada*|
 |:--|:--|
@@ -12,9 +12,6 @@
 Inspired by the old L5 Society & other space-activist groups, its principal objective is to sponsor & promote the involvement of Canadians in the space sector, through its technical & outreach projects including regular chapter meetings, the annual Canadian Space Summit & more.  
 The CSS wishes to grow in cooperation, rather than in competition, with other space development organizations (such as the National Space Society & the British Interplanetary Society), while meeting a real need for an effective Canadian space advocacy group.
 
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

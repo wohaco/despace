@@ -1,10 +1,10 @@
 # Hall, Jeffery L.
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Senior Engineer*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)354-15-31, fax: +1(818)393-32-54; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* +1(818)354-15-31, fax: +1(818)393-32-54; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <jlhall@jpl.caltech.edu> |
 |B‑day, addr.| 1962.05.13 (Канада) / … |
 || ![](f/contact/h/hall_001_photo.jpg) [![](f/contact/h/hall_001_sign_thumb.jpg)](f/contact/h/hall_001_sign.png) |
@@ -16,9 +16,9 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/jeffery.hall.794>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/jeffery-hall-a1b991b7/>
-   - Twitter: <mark>неттви</mark>
+   - Twitter: <mark>notw</mark>
    - <https://www-robotics.jpl.nasa.gov/people/Jeffery_Hall/>
    - **As a person:**
       1. …

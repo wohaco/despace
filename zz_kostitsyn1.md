@@ -1,13 +1,13 @@
 # Костицын, Юрий Александрович
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*ГЕОХИ РАН](zz_geokhi_ras.md). Заведующий лабораторией*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)939-01-84; *моб.:* <mark>нетмобильного</mark> |
+|Tel|*раб.:* +7(495)939-01-84; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <kostitsyn@geokhi.ru>, <yuri.kostitsyn@gmail.com> |
 |B‑day, addr.| 1955.11.23 / … |
-|| ![](f/contact/k/kosticyn_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| ![](f/contact/k/kosticyn_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -15,10 +15,10 @@
    - **SC/Equip.:** …
    - **Conferences:** 2019 [MSSS 10](msss_10.md)
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - <http://www.geokhi.ru/Lab15/Костицын%20Юрий%20Александрович.aspx>
    - <http://www.geokhi.ru/GEO_Pages/Ю.А.%20Костицын.aspx>
    - <https://vk.com/yurikostitsyn>

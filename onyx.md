@@ -1,5 +1,5 @@
 # Оникс
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ТМС](tms.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ТМС](tms.md)**
 
 [TOC]
 
@@ -69,13 +69,7 @@
 |*Sections & pages*|
 |**`Телеметрическая система (ТМС):`**<br> … <br>• • •<br> **РФ:** [ТМС-Л](tms_l.md) (8.5) ┊ [ТМС-УФ](tms_uf.md) (7.25) ┊ [ТМС-РГ](tms_rg.md) (5) ┊ [Пирит](pirit.md) (2.6) ┊ [Оникс](onyx.md) (1.1) ┊ [Астра](astra.md) () |
 
-**Docs:**
-
-   1. 3D-модель <mark>TBD</mark>
-   1. [Чертёж ❐](f/tms/o/oniks_sketch1.png)
-
-**Links:**
-
+   1. Docs:
+      - [Чертёж ❐](f/tms/o/oniks_sketch1.png)
    1. Notable interwikies — …
    1. <http://www.npoit.ru/products/telemetricheskie-sistemy/malogabaritnaya-bortovaya-radiotelemetricheskaya-sistema-oniks> — [archive ❐](f/tms/o/oniks_npoit_ru.djvu) of 2018.03.27)
-

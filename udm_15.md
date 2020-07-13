@@ -1,5 +1,5 @@
 # УДМ-15
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[ДМ](rw.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДМ](rw.md)**
 
 [TOC]
 
@@ -65,12 +65,8 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [3D-модель ❐](f/rw/a/agat_25_udm-15-0.15_3d_2017.7z)
-   1. [Чертёж ❐](f/rw/a/agat_25_udm-15-0.15_sketch_2016.djvu)
-
-**Links:**
-
+   1. Docs:
+      - [3D-модель ❐](f/rw/a/agat_25_udm-15-0.15_3d_2017.7z)
+      - [Чертёж ❐](f/rw/a/agat_25_udm-15-0.15_sketch_2016.djvu)
    1. Notable interwikies — …
    1. <…>

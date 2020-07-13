@@ -1,5 +1,5 @@
 # Записки: докладная, объяснительная, служебная
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Док.](doc.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Док.](doc.md)**
 
 [TOC]
 
@@ -69,12 +69,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://working-papers.ru/dokladnaja-zapiska-obrazec1.html>
    1. <http://sovetnik.consultant.ru/obyasnitelnaya_zapiska/kak_pravilno_napisat_obyasnitelnuyu_zapisku_obrazec/>

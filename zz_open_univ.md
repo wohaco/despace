@@ -1,5 +1,5 @@
 # Open Univ.
-> 2019.08.09 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/o/open_univ_logo1_thumb.jpg)](f/contact/o/open_univ_logo1.png)|*The Open University, PO Box 197, Milton Keynes, MK7 6BJ, UK*|
 |:--|:--|
@@ -9,9 +9,6 @@
 |Etc| … |
 
 **The Open University (OU)** is a public research university, & the biggest university in the UK for undergraduate education. The majority of the OU’s undergraduate students are based in the United Kingdom & principally study off‑campus; many of its courses (both undergraduate & postgraduate) can also be studied anywhere in the world.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

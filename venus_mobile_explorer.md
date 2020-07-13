@@ -1,5 +1,5 @@
 # Venus Mobile Explorer
-> 2019.10.10 ┊ **🚀 [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.10.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -235,13 +235,8 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Page directory](f/project/v/venus_mobile_explorer/)
-   1. [Venus Mobile Explorer ❐](f/project/v/venus_mobile_explorer/20091218_nasa_venus_mobile_explorer.pdf) (NASA, 2009)
-
-**Links:**
-
+   1. Docs:
+      - [Venus Mobile Explorer ❐](f/project/v/venus_mobile_explorer/20091218_nasa_venus_mobile_explorer.pdf) (NASA, 2009)
    1. Notable interwikies — …
    1. <https://solarsystem.nasa.gov/studies/200/venus-mobile-explorer/>
    1. <https://www.researchgate.net/publication/326559184_Future_of_Venus_Research_and_Exploration>

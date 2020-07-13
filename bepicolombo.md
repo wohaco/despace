@@ -1,5 +1,5 @@
 # BepiColombo
-> Ver. . ┊ **🚀 [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> Ver. . ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 
@@ -221,12 +221,7 @@ Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equat
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
 
    1. <https://en.wikipedia.org/wiki/BepiColombo>

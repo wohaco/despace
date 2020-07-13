@@ -1,5 +1,5 @@
 # ESTEC
-> 2019.08.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/e/esa_logo1_thumb.jpg)](f/contact/e/esa_logo1.png)|*Keplerlaan 1, 2201 AZ Noordwijk, Нидерланды*|
 |:--|:--|
@@ -19,9 +19,6 @@
 **История.**
 
 
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

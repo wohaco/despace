@@ -1,13 +1,13 @@
 # Wielders, Arno
-> 2019.10.22 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU (NL). Payload engineer Future Missions*|
 |:--|:--|
-|B‑day, addr.| <mark>нетдаты</mark> 1972 ? / … |
+|B‑day, addr.| <mark>nodate</mark> 1972 ? / … |
 |E‑mail| <arno.wielders@esa.int> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* <mark>noworkphone</mark>; *моб.:* <mark>нетмобильного</mark> |
-|| [![](f/contact/w/wielders_001_photo_thumb.jpg)](f/contact/w/wielders_001_photo.jpg) <mark>нетподписи</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
+|| [![](f/contact/w/wielders_001_photo_thumb.jpg)](f/contact/w/wielders_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
 
    - **[Education](edu.md):** TWAIO, Astronomical instruments, Leiden Univ., 2000. MS. Physics (astronomy), Amsterdam Free Univ., 1997.
    - **Exp.:** Mars One: Co‑Founder, 2011 ‑ Present. ESA/ESTEC: Payload engineer Future Missions, 2005 ‑ Present. Carribean Spaceport: Founder, 2003 ‑ 2010. Space Horizon: Consultant for technical space projects, 2004 ‑ 2010. TNO: Research scientist, 2000 ‑ 2004. Dutch Space: Research metrologist, 1998 ‑ 2000.
@@ -16,7 +16,7 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/awielders>
-   - Instagram: <mark>нетинсты</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/arnowielders>
    - Twitter: <https://twitter.com/arnouxus>
    - <https://www.mars-one.com/about-mars-one/team/arno-wielders>

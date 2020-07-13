@@ -1,5 +1,5 @@
 # Beresheet
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [SpaceIL](spaceil.md), [Луна](moon.md), **[Project](project.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [SpaceIL](spaceil.md), [Луна](moon.md), **[Project](project.md)**
 
 [TOC]
 
@@ -98,12 +98,8 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Подборка материалов СМИ за 2019.02 ❐](f/project/b/beresheet/201902_docs.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Подборка материалов СМИ за 2019.02 ❐](f/project/b/beresheet/201902_docs.pdf)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/SpaceIL>
    1. <https://ru.wikipedia.org/wiki/SpaceIL>

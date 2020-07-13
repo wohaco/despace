@@ -1,5 +1,5 @@
 # BSIP
-> 2019.08.11 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/b/bsip_logo1_thumb.jpg)](f/contact/b/bsip_logo1.png)|*53, University Road, Lucknow, Uttar Pradesh 226007, India*|
 |:--|:--|
@@ -14,9 +14,6 @@
    - To constantly update data for interaction with allied disciplines.
    - To co-ordinate with other palaeobotanical & geological research centres in the areas of mutual interest, such as diversification of early life, exploration of fossil fuels, vegetational dynamics, climatic modelling, conservation of forests.
    - To disseminate palaeobotanical knowledge in universities, educational institutions & other organisations.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

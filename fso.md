@@ -1,5 +1,5 @@
 # Лазерная космическая связь
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Радиосвязь](comms.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Радиосвязь](comms.md)**
 
 [TOC]
 
@@ -47,12 +47,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Free-space_optical_communication>
    1. <https://en.wikipedia.org/wiki/Laser_communication_in_space>

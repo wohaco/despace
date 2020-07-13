@@ -1,12 +1,12 @@
 # Schubert, Gerald
-> 2019.10.16 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*UCLA, US. Institute of Geophysics & Planetary Physics. Department of Earth & Space Sciences. Professor*|
 |:--|:--|
 |B‑day, addr.| 1939.03.02 New York, US / … |
 |E‑mail| <schubert@ucla.edu> |
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* +1(310)825-45-77; *моб.:* +1(310)825-27-79 |
+|Tel| *work:* +1(310)825-45-77; *mobile:* +1(310)825-27-79 |
 || [![](f/contact/s/schubert_001_photo_thumb.jpg)](f/contact/s/schubert_001_photo.jpg) [![](f/contact/s/schubert_001_sign_thumb.jpg)](f/contact/s/schubert_001_sign.png) |
 
    - **[Education](edu.md):** PhD, Engineering Aeronautical Sciences, California Univ., Berkeley, 1964. MS, Aeronautical Engineering, Cornell Univ., 1961. BS, Engineering Physics & M.S. in Aeronautical Engineering, Cornell University, 1961.
@@ -15,10 +15,10 @@
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Gerald_Schubert>
    - <http://www2.ess.ucla.edu/~schubert/biography.html>
    - <https://epss.ucla.edu/people/faculty/580/>

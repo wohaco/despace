@@ -1,5 +1,5 @@
 # Стоимость грамма КА
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → [Проекты](project.md), **[ТЭО](fs.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Проекты](project.md), **[ТЭО](fs.md)**
 
 [TOC]
 
@@ -55,12 +55,7 @@
 |**··• [Project](project.md) •··**<br> [Interferometer](interferometer.md) ┊ [NASA open](nasa_open.md) ┊ [NASA STI](nasa_sti.md) ┊ [NIH](nih.md) ┊ [Past, future and everything](pfaeverything.md) ┊ [PSDS](us_psds.md) [MGSC](mgsc.md) ┊ [Raman spectroscopy](raman_spsc.md) ┊ [SC price](sc_price.md) ┊ [SC typical forms](sc_ts.md) ┊ [Tech derivative laws](td_laws.md) ┊ [View](view.md) ┊ [XRF](xrf.md)|
 |**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md) ┊ [Невозвратные затраты](sunk_cost.md) ┊ [Номинал](nominal.md) ┊ [Оценка стоимости работ на НПОЛ](zz_lav.md) ┊ [Секвестр](budget_seq.md) ┊ [Стоимость аппарата в граммах](sc_price.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://goldomania.ru/menu_003_003.html> — [archive ❐](f/archive/20191021_1.pdf) of 2019.10.21)
    1. 2017.10.09 [Сколько стоит космос](https://habr.com/ru/post/373875/) — [archive ❐](f/archive/20171009_1.pdf) of 2019.01.28)

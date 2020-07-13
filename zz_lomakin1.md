@@ -1,10 +1,10 @@
 # Ломакин, Илья Владимирович
-> 2020.03.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.03.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. 9/311, 510 «Проектный комплекс». Зам. начальника комплекса 510 (негласно И.о. начальника отдела 512)*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* 36-14, 55-00, +7(495)575-55-00; *моб.:* +7(910)462-48-34 |
+|Tel| *work:* 36-14, 55-00, +7(495)575-55-00; *mobile:* +7(910)462-48-34 |
 |E‑mail| <ilya_lomakin@laspace.ru>, <empirator@gmail.com> |
 |B‑day, addr.| 1983.06.09, на НПОЛ с 2004 / Москва, район Свиблово |
 || [![](f/contact/l/lomakin_001_photo.gif)](f/contact/l/lomakin_001_photo.gif) [![](f/contact/l/lomakin_001_sign_thumb.jpg)](f/contact/l/lomakin_001_sign.png) |
@@ -16,9 +16,9 @@
    - **Conferences:** …
    - Git: …
    - Facebook: <https://www.facebook.com/ilya.lomakin.94>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - <…>
    - **As a person:**
       1. Любит:

@@ -1,5 +1,5 @@
 # SpaceID
-> 2019.10.23 ┊ **🚀 [despace](index.md)** → **[Project](project.md)**
+> 2019.10.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
 
 [TOC]
 
@@ -111,12 +111,7 @@ ISS (ZARYA)
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    - Номер полёта:
       1. <https://ru.wikipedia.org/wiki/NSSDC_ID>
       1. <https://en.wikipedia.org/wiki/International_Designator>

@@ -1,5 +1,5 @@
 # Venera-D
-> 2019.10.10 ┊ **🚀 [despace](index.md)** → [Венера](venus.md), **[Проекты](project.md)**
+> 2019.10.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Венера](venus.md), **[Проекты](project.md)**
 
 [TOC]
 
@@ -705,18 +705,12 @@ The mass of the lander is assumed to be 1 750 kg, the mass of payload is 120
 |*Sections & pages*|
 |**`Проекты:`**<br> [PSDS](us_psds.md) ┊ [Индексы проектов на НПОЛ](zz_lav.md) ┊ [Маскоты](zz_lav.md) ┊ [Морская группировка космических аппаратов](mgsc.md) ┊ [О прошлом, будущем и всём таком](pfaeverything.md) ┊ [Стоимость грамма КА](sc_price.md) ┊ [Стоимость работ на НПОЛ](zz_lav.md) ┊ [Типовые формы КА](ка_типформы.md) |
 
-**Docs:**
-
-
-   1. [KK VD source data](f/project/v/venera_d/KK_VD_source_data.pdf)
-   1. [KK VD NTO 512 VD 1 2017)](f/project/v/venera_d/KK_VD_NTO_512_VD_1_2017.pdf)
-   1. [KK VD NTO IKI RAN](f/project/v/venera_d/KK_VD_NTO_IKI_RAN.pdf)
-   1. [Report 1](f/project/v/venera_d/Report_1.pdf)
-   1. [Venera-D Phase II Final Report](f/project/v/venera_d/Venera_DPhaseIIFinalReport.pdf)
-
-
-**Links:**
-
+   1. Docs:
+      - [KK VD source data](f/project/v/venera_d/KK_VD_source_data.pdf)
+      - [KK VD NTO 512 VD 1 2017)](f/project/v/venera_d/KK_VD_NTO_512_VD_1_2017.pdf)
+      - [KK VD NTO IKI RAN](f/project/v/venera_d/KK_VD_NTO_IKI_RAN.pdf)
+      - [Report 1](f/project/v/venera_d/Report_1.pdf)
+      - [Venera-D Phase II Final Report](f/project/v/venera_d/Venera_DPhaseIIFinalReport.pdf)
    1. Notable interwikies — …
    1. <http://venera-d.cosmos.ru/>
    1. <https://en.wikipedia.org/wiki/Venera-D>

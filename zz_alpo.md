@@ -1,5 +1,5 @@
 # ALPO
-> 2019.10.29 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/a/alpo_logo1_thumb.jpg)](f/contact/a/alpo_logo1.png)|*Springfield, Illinois, US and worldwide*|
 |:--|:--|
@@ -11,9 +11,6 @@
 The **Association of Lunar and Planetary Observers** (**ALPO** or **A.L.P.O.**) is an international scientific and educational organization established in March, 1947 in the United States by Walter H. Haas, and later incorporated in 1990. ALPO is an organization for advancing and conducting astronomical work by both professional and amateur astronomers who share an interest in solar system observations.
 
 ALPO studies solar system objects such as the Sun, the Earth’s Moon, planets, asteroids, meteors, and comets. ALPO stimulates, coordinates, and generally promotes the study of these bodies using methods and instruments available within the communities of both amateur and professional astronomers. The organization holds a conference each summer, usually in conjunction with other astronomical groups.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

@@ -1,5 +1,5 @@
 # JPL’s Innovation Foundry
-> 2019.10.16 ┊ **🚀 [despace](index.md)** → **[JPL](zz_jpl.md)**, [Contact](contact.md)
+> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[JPL](zz_jpl.md)**, [Contact](contact.md)
 
 [TOC]
 
@@ -145,13 +145,9 @@ A big part of the Team X philosophy is that good pre‑project design is just as
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [Презентация, 2013 год ❐](f/contact/j/jpl_2013_case_presentation.pdf)
-   1. [Презентация, 2017 год ❐](f/contact/j/jpl_2017_presentation.pdf)
-
-**Links:**
-
+   1. Docs:
+      - [Презентация, 2013 год ❐](f/contact/j/jpl_2013_case_presentation.pdf)
+      - [Презентация, 2017 год ❐](f/contact/j/jpl_2017_presentation.pdf)
    1. Notable interwikies — …
    1. [Skunk Works](skunk_works.md)
    1. <https://jplfoundry.jpl.nasa.gov/>

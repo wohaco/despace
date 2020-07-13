@@ -1,10 +1,10 @@
 # Mackwell, Stephen J.
-> 2019.10.14 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*American Institute of Physics, US. Deputy Executive Officer*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* +1(301)209-31-72; *моб.:* <mark>нетмобильного</mark> |
+|Tel| *work:* +1(301)209-31-72; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <smackwell@aip.org> |
 |B‑day, addr.| 1956.06.05 Christchurch, New Zealand / College Park, Maryland |
 || [![](f/contact/m/mackwell_001_photo_thumb.jpg)](f/contact/m/mackwell_001_photo.jpg) [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
@@ -15,8 +15,8 @@
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** [VEXAG](vexag.md)
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/stephen-mackwell-37266ab9/>
    - Twitter: <https://twitter.com/olopx1>
    - <https://en.wikipedia.org/wiki/Stephen_J._Mackwell>

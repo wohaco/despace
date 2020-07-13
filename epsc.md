@@ -1,5 +1,5 @@
 # EPSC
-> 2020.07.02 ┊ **🚀 [despace](index.md)** → [EPSC](epsc.md), **[Events](event.md)**
+> 2020.07.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → [EPSC](epsc.md), **[Events](event.md)**
 
 [TOC]
 
@@ -41,11 +41,6 @@ Originally known as the European Planetary Science Congress, the first EPSC was 
 |*Sections & pages*|
 |**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://www.europlanet-society.org/european-planetary-science-congress/>

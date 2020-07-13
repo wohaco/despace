@@ -1,5 +1,5 @@
 # Systems Tool Kit
-> 2019.01.01 ┊ **🚀 [despace](index.md)** → **[Soft](soft.md)**
+> 2019.01.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
 
 [TOC]
 
@@ -41,12 +41,7 @@ In 2019, Dutch amateur skywatcher Marco Langbroek used STK to analyze a high‑r
 |*Sections & pages*|
 |**··• [Software](soft.md) •··**<br> [ASP](asp.md) ┊ [Blender](blender.md) ┊ [C](c.md) ┊ [Cosmographia](cosmographia.md) ┊ [DOORS](doors.md) ┊ [DWG](cad_f.md) ┊ [GIMP](gimp.md) ┊ [Git](git.md) ┊ [IGES](cad_f.md) ┊ [ISIS](isis.md) ┊ [JT](cad_f.md) ┊ [NGT](neogeography_toolkit.md) ┊ [NX](nx.md) ┊ [Octave](gnu_octave.md) ┊ [PDF](pdf.md) ┊ [Python](python.md) ┊ [R](r.md) ┊ [SPICE](spice.md) ┊ [STEP](cad_f.md) ┊ [STL](systems_tool_kit.md) ┊ [SVG](cad_f.md) ┊ [Syncthing](syncthing.md) ┊ [Teamcenter](teamcenter.md) ┊ [Система управления версиями](vcs.md) ┊ [ХРИП](adra.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://www.agi.com/products>
    1. <https://en.wikipedia.org/wiki/Systems_Tool_Kit>

@@ -1,5 +1,5 @@
 # Эффект Оберта
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[БНО](nnb.md)**, [ДУ](ps.md), [Control](control.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БНО](nnb.md)**, [ДУ](ps.md), [Control](control.md)
 
 [TOC]
 
@@ -28,12 +28,7 @@
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md) ┊ [TALOS](talos.md) ┊ [Баки топливные](fuel_tank.md) ┊ [Варп‑двигатель](warp_drive.md) ┊ [Газовый двигатель](cgt.md) ┊ [Гибридный двигатель](гбрд.md) ┊ [Двигатель Бассарда](bussard_ramjet.md) ┊ [ЖРД](lpr.md) ┊ [ИПТ](ing.md) ┊ [Ионный двигатель](иод.md) ┊ [Как считать топливо?](si.md) ┊ [КЗУ](cinu.md) ┊ [КХГ](cgs.md) ┊ [Номинал](nominal.md) ┊ [Мятый газ](exhsteam.md) ┊ [РДТТ](spr.md) ┊ [Сильфон](сильфон.md) ┊ [СОЗ](соз.md) ┊ [СОИС](соис.md) ┊ [Солнечный парус](солнечный_парус.md) ┊ [ТНА](turbopump.md) ┊ [Топливные мембраны](топливные_мембраны.md) ┊ [Топливные мешки](топливные_мешки.md) ┊ [Топливо](fuel.md) ┊ [Тяговооружённость](ttwr.md) ┊ [ТЯРД](тярд.md) ┊ [УИ](isp.md) ┊ [Фотонный двигатель](фотонный_двигатель.md) ┊ [ЭРД](epsp.md) ┊ [Эффект Оберта](oberth_eff.md) ┊ [ЯРД](ntr.md) |
 |**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md) ┊ [Business travel](business_travel.md) ┊ [Chief designers council](cocd.md) ┊ [CML](cml.md) ┊ [Competence](competence.md) ┊ [Confident](confident.md) ┊ [Consp.theory](consp_theory.md) ┊ [Control sys. (CS)](cs.md) ┊ [Coordinate system](coord_sys.md) ┊ [Curator](curator.md) ┊ [Designer’s supervision](des_spv.md) ┊ [E‑sig](esig.md) ┊ [Engineer](engineer.md) ┊ [Errand](errand.md) ┊ [Federal law](fed_law.md) ┊ [Federal TP](fed_tp.md) ┊ [Federal SP](fed_sp.md) ┊ [GNC](gnc.md) ┊ [Gravity assist](gravass.md) ┊ [Industrial archaeology](ind_arch.md) ┊ [Instruction](instruction.md) ┊ [Lean manuf.](lean_man.md) ┊ [Lifetime](lifetime.md) ┊ [Manager](manager.md) ┊ [Meeting](meeting.md) ┊ [MCC](mcc.md) ┊ [MIC](mic.md) ┊ [MML](mml.md) ┊ [MoU](mou.md) ┊ [Nav. & ballistics (NB)](nnb.md) ┊ [Nonprofit org.](nonprof_org.md) ┊ [NX](nx.md) ┊ [Oberth effect](oberth_eff.md) | ┊ [Org.structure](orgstruct.md) ┊ [Outcomes commission](outccom.md) ┊ [Patent](patent_res.md) ┊ [Peter prin.](peter_principle.md) ┊ [Plan](plan.md) ┊ [PMBok](pmbok.md) ┊ [Quorum](quorum.md) ┊ [R&D management](rnd_mgmt.md) ┊ [R&D support](rnd_support.md) ┊ [Recursion](recurs.md) ┊ [Schulze_method](schulze_method.md) ┊ [Sci'N'Tech activities](st_act.md) ┊ [Sci'N'Tech council](satc.md) ┊ [Single-window system](sw_sys.md) ┊ [Situ.leadership](situ_leadership.md) ┊ [Skunk works](skunk_works.md) ┊ [State arm. plan](plan_sa.md) ┊ [Swamp](swamp.md) ┊ [Teamcenter](teamcenter.md) ┊ [TRIZ](triz.md) ┊ [TRL](trl.md) ┊ [Veto](veto.md) ┊ [Workflow](workflow.md) ┊ [Workgroup](wg.md)|
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Oberth_effect>
    1. <https://ru.wikipedia.org/wiki/Эффект_Оберта>

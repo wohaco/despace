@@ -1,5 +1,5 @@
 # Moog Inc.
-> 2019.08.05 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/m/moog_inc_logo1_thumb.jpg)](f/contact/m/moog_inc_logo1.png)|*East Aurora, New York, USA*|
 |:--|:--|
@@ -13,9 +13,6 @@
    1. ракетные двигатели [LEROS](leros.md);
    1. системы управления для турбин, самолётов, ракет‑носителей, космических аппаратов;
    1. медицинские насосы.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

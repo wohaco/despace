@@ -1,5 +1,5 @@
 # Радар с синтезированной апертурой
-> 2019.12.16 ┊ **🚀 [despace](index.md)** → **[Камера](camera.md)**
+> 2019.12.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
 
 [TOC]
 
@@ -37,12 +37,7 @@ SAR images have wide application in remote sensing and mapping of surfaces of th
 |*Sections & pages*|
 |**`Камера:`**<br> [SAR](synthetic_aperture_radar.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … () |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Synthetic-aperture_radar>
    1. <https://ru.wikipedia.org/wiki/Радиолокационное_синтезирование_апертуры>

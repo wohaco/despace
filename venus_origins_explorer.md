@@ -128,11 +128,6 @@ The spacecraft consists of an Orbiter containing all scientific equipment and an
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venus_Origins_Explorer>

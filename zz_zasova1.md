@@ -1,12 +1,12 @@
 # Засова, Людмила Вениаминовна
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Заведующий лабораторией*|
 |:--|:--|
 |B‑day, addr.| 1945.05.22 / |
 |E‑mail| <lzasova@gmail.com>, <zasova@iki.rssi.ru> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)3333-466; *моб.:* +7(903)628-23-22, +7(925)467-55-92 |
+|Tel|*раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92 |
 || ![](f/contact/z/zasova_001_animated.gif) [![](f/contact/z/zasova_001_sign_thumb.jpg)](f/contact/z/zasova_001_sign.png) |
 
    - **[Education](edu.md):** …
@@ -16,9 +16,9 @@
    - **Conferences:** 2019 [MSSS 10](msss_10.md), 2019 [VD Workshop 2019](vdws2019.md)
    - Git: …
    - Facebook: <https://www.facebook.com/profile.php?id=100008186858321>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - <http://www.planetary-department-iki.ru/labs/labs531.html>
    - <http://www.planetary-department-iki.ru/people.html>
    - <https://ok.ru/profile/148316222802>

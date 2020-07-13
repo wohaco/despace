@@ -1,5 +1,5 @@
 # Smart Dragon
-> 2019.07.04 ┊ **🚀 [despace](index.md)** → **[LV](lv.md)**
+> 2019.07.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 
@@ -62,11 +62,6 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://space.skyrocket.de/doc_lau/jielong-1.htm>

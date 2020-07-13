@@ -1,5 +1,5 @@
 # События
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Events](event.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Events](event.md)**
 
 [TOC]
 
@@ -190,12 +190,8 @@
 |*Sections & pages*|
 |**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
 
-**Docs:**
-
-   1. [События, template](template_event.md)
-   1. [Командировка зарубеж, расчёт стоимости ❐](f/event/meeting_calc.ods)
-
-**Links:**
-
+   1. Docs:
+      - [События, template](template_event.md)
+      - [Командировка зарубеж, расчёт стоимости ❐](f/event/meeting_calc.ods)
    1. Notable interwikies — …
    1. <…>

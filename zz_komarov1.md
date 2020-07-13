@@ -1,10 +1,10 @@
 # Комаров, Александр Юрьевич
-> 2019.04.01 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |*[Org.](contact.md)*|*НПОЛ, RU. 140 / 522, 202 «Дирекция по Лунной программе». Главный конструктор проекта [Луна‑Ресурс‑1](луна_27.md) (ПА)*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *раб.:* 41-34; *моб.:* +7(916)240-43-88 |
+|Tel| *work:* 41-34; *mobile:* +7(916)240-43-88 |
 |E‑mail| <komarov@laspace.ru> |
 |B‑day, addr.| 1977.01.20, на НПОЛ с 2002 / … |
 || [![](f/contact/k/komarov_001_photo_thumb.jpg)](f/contact/k/komarov_001_photo.jpg) [![](f/contact/k/komarov_001_sign_thumb.jpg)](f/contact/k/komarov_001_sign.png) |
@@ -15,10 +15,10 @@
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …
-   - Facebook: <mark>нетфб</mark>
-   - Instagram: <mark>нетинсты</mark>
-   - LinkedIn: <mark>нетин</mark>
-   - Twitter: <mark>неттви</mark>
+   - Facebook: <mark>nofb</mark>
+   - Instagram: <mark>noin</mark>
+   - LinkedIn: <mark>noli</mark>
+   - Twitter: <mark>notw</mark>
    - <https://vk.com/orlaolr> — возможно.
    - **As a person:**
       1. Умеет говорить уверенно о вещах, о которых не имеет понятия.

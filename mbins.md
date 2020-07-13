@@ -1,5 +1,5 @@
 # МБИНС
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Гироскоп](imu.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Гироскоп](imu.md)**
 
 [TOC]
 
@@ -81,13 +81,7 @@
 |*Sections & pages*|
 |**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](astrix_1090.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](ius_voa.md) (15.1) ┊ [БИУС-Л](bius_l.md) (10) ┊ [БИУС-М](bius_m.md) (5.1) ┊ [БИБ-ФГ](bib_fg.md) (1.36) ┊ [МБИНС](mbins.md) (1.34) ··· *([БИБ-ИГ](bib_ig.md) (3.6))*  ▮  **США:** [LN-200](ln_200.md) (1.25) |
 
-**Docs:**
-
-   1. 3D-модель <mark>TBD</mark>
-   1. Чертёж <mark>TBD</mark>
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://www.npoit.ru/products/telemetricheskie-sistemy/miniatyurnaya-besplatformennaya-inertsialnaya-navigatsionnaya-sistema-mbins> — [archive ❐](f/imu/m/mbins_npoit_ru.djvu) of 2018.03.26)
 

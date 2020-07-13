@@ -1,5 +1,5 @@
 # IAF
-> 2020.01.23 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.01.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/i/iaf_logo1_thumb.jpg)](f/contact/i/iaf_logo1.png)|*100 Avenue de Suffren, 75015 Paris, France*|
 |:--|:--|
@@ -19,9 +19,6 @@ IAF partners:
 
    - **Non-Governmental Organizations:** International Academy of Astronautics (IAA), International Institute of Space Law (IISL), [Committee on Space Research (COSPAR)](cospar.md), Space Generation Advisory Council (SGAC);
    - **Intergovernmental Organizations:** United Nations Office for Outer Space Affairs (UNOOSA), United Nations Educational, Scientific and Cultural Organisation (UNESCO), International Telecommunication Union (ITU), World Metereological Organization (WMO), [European Space Agency (ESA)](zz_esa.md), Group on Earth Observation (GEO), Asia-Pacific Space Cooperation Organization (APSCO).
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

@@ -1,5 +1,5 @@
 # Конкурс на ОКР (СЧ ОКР)
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[R&D](rnd.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
 
 [TOC]
 
@@ -24,12 +24,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <http://www.consultant.ru/law/podborki/zakrytyj_konkurs/>
    1. <http://www.my-tender.ru/?_escaped_fragment_=/content/otkrytyy_i_zakrytyy_konkurs#!/content/otkrytyy_i_zakrytyy_konkurs|my-tender.ru>

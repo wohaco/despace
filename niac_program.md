@@ -1,5 +1,5 @@
 # NIAC
-> 2020.05.15 ┊ **🚀 [despace](index.md)** → [Events](event.md), [NIAC](niac_program.md), **[Project](project.md)**
+> 2020.05.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Events](event.md), [NIAC](niac_program.md), **[Project](project.md)**
 
 [TOC]
 
@@ -274,12 +274,7 @@ Sources: <https://www.nasa.gov/directorates/spacetech/niac/NIAC_funded_studies.h
 |*Sections & pages*|
 |**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://www.nasa.gov/directorates/spacetech/niac/index.html>
    1. <https://www.nasa.gov/content/niac-symposium>

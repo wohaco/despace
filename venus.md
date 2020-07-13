@@ -1,5 +1,5 @@
 # Venus
-> 2019.11.06 ┊ **🚀 [despace](index.md)** → **[Venus](venus.md)**, [Space](index.md)
+> 2019.11.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md)**, [Space](index.md)
 
 [TOC]
 
@@ -2110,14 +2110,10 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 |*Sections & pages*|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Timezones](time.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
-**Docs:**
-
-   1. Current page notable contributors — [Dmitry Gorinov](zz_gorinov1.md), [Maxim Petrov](zz_petrov1.md)
-   1. [Atmospheric model VIRA-30 ❐](f/aob/venus/atmo_model_vira_30.ods) by Vega-1,2.
-   1. [Venus surface ❐](f/aob/venus/2003_alexander_t_basilevsky_rep_prog_phys_66_r04.djvu) (A. Basilevsky, J. Head, 2003)
-
-**Links:**
-
+   1. Docs:
+      - Current page notable contributors — [Dmitry Gorinov](zz_gorinov1.md), [Maxim Petrov](zz_petrov1.md)
+      - [Atmospheric model VIRA-30 ❐](f/aob/venus/atmo_model_vira_30.ods) by Vega-1,2.
+      - [Venus surface ❐](f/aob/venus/2003_alexander_t_basilevsky_rep_prog_phys_66_r04.djvu) (A. Basilevsky, J. Head, 2003)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera>
    1. <https://en.wikipedia.org/wiki/Venus>
@@ -2136,6 +2132,5 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
    1. <https://en.wikipedia.org/wiki/Mapping_of_Venus>
    1. <https://www.kiss.caltech.edu/workshops/venus/venus.html>
-
    1. 2016.07.25 [КА, способный выжить в аду Венеры ⎆](http://www.bbc.com/russian/vert-fut-36856774) — [archive ❐](f/aob/venus/20160725_001_created_20170930_saved.djvu) of 2017.09.30
    1. 2017.04.06 [РКС о миссиях СССР к Венере/Марсу ⎆](http://russianspacesystems.ru/2017/04/06/venera/) — [archive ❐](f/aob/venus/20170406_001_created_20171020_saved.djvu) of 2017.10.20

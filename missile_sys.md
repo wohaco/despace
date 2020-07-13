@@ -1,5 +1,5 @@
 # Ракетный комплекс
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[СхД](wbs.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[СхД](wbs.md)**
 
 [TOC]
 
@@ -24,11 +24,7 @@
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 
-**Docs:**
-
-   1. [РК‑11](const_rk11.md), стр.20.
-
-**Links:**
-
+   1. Docs:
+      - [РК‑11](const_rk11.md), стр.20.
    1. Notable interwikies — …
    1. <…>

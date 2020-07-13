@@ -1,5 +1,5 @@
 # Космический аппарат
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[КА](sc.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[КА](sc.md)**
 
 [TOC]
 
@@ -197,12 +197,8 @@
 |*Sections & pages*|
 |**`Космический аппарат (КА):`**<br> [Класс чистоты](clean_lvl.md) ┊ [Кубсат](sc.md) ┊ [ПКА](sc.md) ┊ [Спутник](sc.md) ┊ [СЧ](sui.md) ┊ [Типичные формы КА](sc_ts.md) |
 
-**Docs:**
-
-   1. [ГОСТ 53802](гост_53802.md), п. 102‑103
-
-**Links:**
-
+   1. Docs:
+      - [ГОСТ 53802](гост_53802.md), п. 102‑103
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Reusable_launch_system>
    1. <https://en.wikipedia.org/wiki/Spacecraft>
@@ -218,4 +214,3 @@
    1. <https://ru.wikipedia.org/wiki/Пилотируемый_космический_аппарат>
    1. <https://ru.wikipedia.org/wiki/Пилотируемый_космический_корабль>
    1. <https://www.nasa.gov/audience/forstudents/postsecondary/features/F_Spacecraft_Classification.html>
-

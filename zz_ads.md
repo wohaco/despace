@@ -1,5 +1,5 @@
 # ADS
-> 2019.08.29 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
 |[![](f/contact/a/ads_logo1_thumb.jpg)](f/contact/a/ads_logo1.png)|*Мюнхен, Германия*|
 |:--|:--|
@@ -14,9 +14,6 @@ ADS is present in dozens of countries on all continents. В 2013 году обр
    - [Astrium](zz_astrium.md) Satellites for spacecraft & ground segment
    - EADS Astrium Space Transportation for launchers & orbital infrastructure
    - Astrium Services for the development & delivery of satellite services.
-
-**Опыт кооперации.**  
-…
 
 
 <p style="page-break-after:always"> </p>

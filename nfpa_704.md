@@ -1,5 +1,5 @@
 # NFPA 704
-> 2019.05.12 ┊ **🚀 [despace](index.md)** → **[Безопасность](rams.md)**
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Безопасность](rams.md)**
 
 [TOC]
 
@@ -63,12 +63,7 @@
 |*Sections & pages*|
 |**`Безопасность:`**<br> [NFPA 704](nfpa_704.md) ┊ [Класс опасности](danger_goods.md) ┊ [Класс чистоты](clean_lvl.md) |
 
-**Docs:**
-
-   1. …
-
-**Links:**
-
+   1. Docs: …
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/NFPA_704>
    1. <https://ru.wikipedia.org/wiki/NFPA_704>
