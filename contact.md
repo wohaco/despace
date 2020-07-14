@@ -547,6 +547,8 @@
 <p style="page-break-after:always"> </p>
 
 ### ± Japan
+[![](f/contact/map_japan_political_thumb.png)](f/contact/map_japan_political.png)
+
 <small>
 
 (**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting

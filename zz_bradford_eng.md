@@ -6,7 +6,6 @@
 |E‑mail| <info@bradford-space.com> |
 |Link| <http://bradford-space.com/> |
 |Tel| +31(0)165-305-100, fax: +31(0)165-304-422 |
-|Etc| … |
 
 **Bradford Engineering BV** — европейский разработчик, производитель и тестировщик систем управления КА. Основано в 1984 году. Нынешняя продукция: [ДМ](rw.md), [СД](sensor.md), смесители топлива. Основные характеристики: 50 employees, Certified to ISO 9001:2008 & AS9100C standards, In-house design, engineering, production & test capabilities (electrical & mechanical), 350 m² clean room (class ISO8 & ISO7), In-house development for mechanics, software & electronics, Full space program focus.
 

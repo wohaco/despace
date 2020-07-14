@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://ispace-inc.com/><br> <https://www.linkedin.com/company/ispace-inc/><br> <https://www.facebook.com/ispace.technologies.inc/?ref=aymt_homepage_panel> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 **ispace** is a lunar exploration company with a vision to extend human presence to outer space. The company is developing a small commercial lunar lander and miniature lunar rovers to delivery customer payloads to the Moon and explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon and ultimately incorporate the Moon into Earth’s economic and living sphere. The company will land its first lander on the Moon in 2021 as part of its “HAKUTO-R” program—the world’s first commercial lunar exploration program. The missions for HAKUTO-R will launch on SpaceX’s Falcon 9 rocket.
 

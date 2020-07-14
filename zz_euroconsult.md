@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.euroconsult-ec.com/><br> <https://www.linkedin.com/company/euroconsult/> |
 |Tel| +33(149)23-75-30, fax: … |
-|Etc| … |
 
 **Euroconsult** is the leading global consulting firm specializing in space markets.
 

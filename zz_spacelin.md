@@ -6,7 +6,6 @@
 |E‑mail| <mail@spacelin.ru> |
 |Link| <http://spacelin.ru/><br> <https://vk.com/lin_industrial><br> <https://users.livejournal.com/---lin---/> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 **Лин Индастриал** — разработчик ракет‑носителей и суборбитальных кораблей. Создано 14.01.2014. Нынешняя продукция:
 

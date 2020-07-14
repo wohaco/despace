@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.interstellar.ca/><br> <https://www.linkedin.com/company/august-interstellar-technologies/> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 **August Interstellar Technologies** is a space infrastructure development company based in Toronto, Ontario. Dedicated to space exploration through research and development, education and commercialization of innovative solutions.
 

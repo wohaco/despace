@@ -6,7 +6,6 @@
 |E‑mail| <info@skywatch.com> |
 |Link| <https://www.skywatch.com/> |
 |Tel| +1(888)882-82-32 , fax: … |
-|Etc| … |
 
 **SkyWatch** provides a digital infrastructure for the distribution of Earth observation data & derived intelligence. EarthCache™ is a single access point to data & advanced processing algorithms for application developers.
 

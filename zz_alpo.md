@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://en.wikipedia.org/wiki/Association_of_Lunar_and_Planetary_Observers><br> <http://www.alpo-astronomy.org/><br> <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — ALPO Japan |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 The **Association of Lunar and Planetary Observers** (**ALPO** or **A.L.P.O.**) is an international scientific and educational organization established in March, 1947 in the United States by Walter H. Haas, and later incorporated in 1990. ALPO is an organization for advancing and conducting astronomical work by both professional and amateur astronomers who share an interest in solar system observations.
 

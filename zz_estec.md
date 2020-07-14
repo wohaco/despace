@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.esa.int/About_Us/ESTEC><br> <https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre><br> <https://en.wikipedia.org/wiki/Concurrent_Design_Facility> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 **European Space Research & Technology Centre (ESTEC)** — подразделение [ESA](esa.md), ответственное за разработку и создание космических технологий и аппаратов, проведение испытаний. ESTEC основан в 1968 году. Включает в себя:
 

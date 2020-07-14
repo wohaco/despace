@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://missioncontrolspaceservices.com/><br> <https://en.wikipedia.org/wiki/Mission_Control_Space_Services> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 **Mission Control Space Services inc. (MCSS inc.)** is a space exploration & robotics company with a focus on mission operations, onboard autonomy, & artificial intelligence. Mission Control Space Services is a Canadian space technology company located in Ottawa, ON, Canada. The company was founded in 2015, & has since operated out of the Carleton Led Accelerator at Carleton University. Primarily, Mission Control Space Services focuses on technology development, industry consulting, & education & outreach projects. We believe the right software can enable cheaper & more efficient missions, & live mission accessibility — the key to democratizing space exploration.
 

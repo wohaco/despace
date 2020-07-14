@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.jhuapl.edu/><br> <https://en.wikipedia.org/wiki/Applied_Physics_Laboratory><br> <https://ru.wikipedia.org/wiki/Лаборатория_прикладной_физики><br> <https://twitter.com/JHUAPL><br> <https://www.youtube.com/user/jhuapl><br> <https://www.facebook.com/JHUAPL/><br> <https://www.linkedin.com/company/johns-hopkins-university-applied-physics-laboratory/><br> <https://www.instagram.com/johnshopkinsapl/> |
 |Tel| +1(240)228-5000, fax: … |
-|Etc| … |
 
 **Лаборато́рия прикладно́й фи́зики** *(сокр. ЛПФ, англ. Johns Hopkins Applied Physics Laboratory, APL)* — лаборатория в округе Хауард близ города Лорел в штате Мэриленд, на территории университета Джонса Хопкинса размером 360 акров. Лаборатория специализируется на исследованиях в интересах Министерства обороны США, НАСА и других структур федерального правительства США, а также иностранные правительственные заказы. Она была основана де‑факто в 1940 году (де‑юре в 1942 году) для разработки методов повышения эффективности ПВО союзников во время Второй мировой войны.
 

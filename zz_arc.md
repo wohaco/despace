@@ -6,7 +6,6 @@
 |E‑mail| <arc-publicinquiries@mail.nasa.gov> |
 |Link| <https://www.nasa.gov/ames><br> <https://en.wikipedia.org/wiki/Ames_Research_Center><br> <https://ru.wikipedia.org/wiki/Исследовательский_центр_Эймса> |
 |Tel| +1(650)604-5000, fax: … |
-|Etc| … |
 
 **Исследовательский центр Эймса (Ames Research Center, ARC)** — отделение правительственного агентства НАСА, расположенное на территории аэропорта Моффет‑Филда, недалеко от Маунтин‑Вью (Калифорния). Основано 20 декабря 1939 как вторая лаборатория National Advisory Committee for Aeronautics (NACA), ставшая частью НАСА в   1958. Центр назван в честь профессора физики Джозефа Эймса, сооснователя и председателя (1919—1939) комитета NASA.
 

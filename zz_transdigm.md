@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.transdigm.com/> |
 |Tel| +1(216)706-29-60, fax: … |
-|Etc| … |
 
 **TransDigm Group Incorporated** develops, distributes & manufactures commercial & military aerospace components such as mechanical actuators & ignition systems.
 

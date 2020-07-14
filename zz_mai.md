@@ -6,9 +6,8 @@
 |E‑mail| <mai@mai.ru> |
 |Link| <https://mai.ru/><br> <https://en.wikipedia.org/wiki/Moscow_Aviation_Institute><br> <https://ru.wikipedia.org/wiki/Московский_авиационный_институт> |
 |Tel| +7(499)158-43-33, fax: +7(499)158-29-77 |
-|Etc| Член [IAF](zz_iaf.md) с 1990 г. |
 
-**Моско́вский авиацио́нный институ́т (национальный исследовательский университет) (МАИ)**, англ. **Moscow Aviation Institute (National Research University) (MAI)** — российское высшее учебное заведение, расположенное в Москве. Основан 20 марта 1930 года.
+**Моско́вский авиацио́нный институ́т (национальный исследовательский университет) (МАИ)**, англ. **Moscow Aviation Institute (National Research University) (MAI)** — российское высшее учебное заведение, расположенное в Москве. Основан 20 марта 1930 года. Член [IAF](zz_iaf.md) с 1990 г.
 
 Alumni of the institute form the backbone of many companies like Sukhoi, Mikoyan, Ilyushin, Tupolev, Yakovlev, Beriev, Myasishchev, Mil Moscow Helicopter Plant, OAO S.P. Korolev Rocket & Space Corporation Energia, [Lavochkin](zz_lav.md), Makeyev Rocket Design Bureau, Khrunichev State Research & Production Space Center, NPO Energomash, Almaz-Antey & others.
 

@@ -6,7 +6,6 @@
 |E‑mail| <webmaster@lpi.usra.edu> |
 |Link| <https://www.lpi.usra.edu/><br> <https://en.wikipedia.org/wiki/Lunar_and_Planetary_Institute> |
 |Tel| +1(281)486-21-00, fax: … |
-|Etc| … |
 
 The **Lunar & Planetary Institute (LPI)** is a scientific research institute dedicated to study of the solar system, its formation, evolution, & current state. The Institute is part of the Universities Space Research Association (USRA) & is supported by the Science Mission Directorate of the NASA. LPI maintains an extensive collection of lunar & planetary data, carries out education & public outreach programs, & offers meeting coordination & publishing services. The LPI sponsors & organizes several workshops & conferences throughout the year, including the [Lunar & Planetary Science Conference (LPSC)](lpsc.md) held in March in the Houston area.
 

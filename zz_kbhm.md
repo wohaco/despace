@@ -6,7 +6,6 @@
 |E‑mail| <kbhimmash@khrunichev.ru> |
 |Link| <http://www.kbhmisaeva.ru/><br> <http://www.khrunichev.ru/main.php?id=123><br> <https://en.wikipedia.org/wiki/A.M._Isayev_Chemical_Engineering_Design_Bureau><br> <https://ru.wikipedia.org/wiki/Конструкторское_бюро_химического_машиностроения_имени_А._М._Исаева> |
 |Tel| +7(499)429-03-55 — канцелярия, +7(499)429-03-04, fax: +7(499)429-03-02,  +7(499)429-03-03 |
-|Etc| 1653 ВП МО РФ, начальник — В.В. Смирнов |
 
 **КБхиммаш им. А.М. Исаева** — филиал [ГКНПЦ Хруничева](zz_khrunichev.md), занимается проектированием, экспериментальной отработкой, исследованиями и изготовлением двигателей космических аппаратов и ракет.
 

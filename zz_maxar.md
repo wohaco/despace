@@ -6,7 +6,6 @@
 |E‑mail| <info@maxar.com> |
 |Link| <https://www.maxar.com/><br> <https://en.wikipedia.org/wiki/Maxar_Technologies> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 **Maxar Technologies** Inc. is a space technology company headquartered in Westminster, Colorado, United States, specializing in manufacturing communication, Earth observation, radar, & on‑orbit servicing satellites, satellite products, & related services.  
 DigitalGlobe & [MDA Holdings Company](zz_mda.md) merged to become Maxar Technologies on 5 October 2017. In 2020 [MDA was sold ⎆](http://investor.maxar.com/investor-news/press-release-details/2019/Maxar-Technologies-to-Sell-MDA-to-Northern-Private-Capital-for-CAD1-Billion/default.aspx) to Northern Private Capital. Maxar Technologies is the parent holding company of MacDonald, Dettwiler & Associates, Ltd., headquartered in Vancouver, British Columbia, Canada; Space Systems Loral, headquartered in Palo Alto, California, US; DigitalGlobe, headquartered in Westminster, Colorado, US; & Radiant Solutions, headquartered in Herndon, Virginia, US.  

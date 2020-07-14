@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://umich.edu/><br> <https://en.wikipedia.org/wiki/University_of_Michigan><br> <https://ru.wikipedia.org/wiki/Мичиганский_университет><br> <https://twitter.com/umich><br> <https://www.facebook.com/universityofmichigan><br> <https://www.linkedin.com/edu/school?trk=edu-ca-head-title&id=18633><br> <http://instagram.com/uofmichigan> |
 |Tel| +1(734)764-18-17, fax: … |
-|Etc| … |
 
 **Мичига́нский университе́т (англ. University of Michigan; часто сокращается до U of M)** — публичный (государственный) исследовательский университет, расположенный в городе Энн‑Арбор в штате Мичиган, США. Основан в 1817 году в Детройте, но спустя двадцать лет (в 1837 году) переехал в Энн‑Арбор.
 

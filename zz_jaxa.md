@@ -6,11 +6,10 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.jaxa.jp/><br> <https://en.wikipedia.org/wiki/JAXA> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
-The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, literally “National Research & Development Agency on Aerospace Research & Development”) is the Japanese national aerospace & space agency. Through the merger of three previously independent organizations, JAXA was formed on 1 October 2003. JAXA has 1 545 regular staff members as of FY 2016. Many domestic & overseas researchers, graduate students & people from the private sector are also hired.
+The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, literally “National Research & Development Agency on Aerospace Research & Development”) is the Japanese national aerospace & space agency. Through the merger of three previously independent organizations, JAXA was formed on 2003.10.01. JAXA has 1 545 regular staff members as of FY 2016. Many domestic & overseas researchers, graduate students & people from the private sector are also hired.
 
-JAXA is responsible for research, technology development & launch of satellites into orbit, & is involved in many more advanced missions. JAXA is designated as a core executive organization that technically supports aerospace development & utilization for the Japanese Government. JAXA performs activities related to aerospace fields consistently from basic research & development to utilization.
+JAXA is responsible for research, technology development & launch of satellites into orbit, & is involved in many more advanced missions. JAXA is a core executive organization that technically supports aerospace development & utilization for the Japanese Government. JAXA performs activities related to aerospace fields consistently from basic research & development to utilization.
 
    1. Aviation technology research
    1. Contributing to [artificial satellites](SC.md) & explorers
@@ -28,9 +27,7 @@ JAXA is responsible for research, technology development & launch of satellites 
 
 ## JAXA, comments
 
-[JAXA Organization Chart ❐](f/contact/j/jaxa_org_chart.pdf)
-
-Notable divisions:
+[JAXA Organization Chart ❐](f/contact/j/jaxa_org_chart.pdf). Notable divisions:
 
    - **Chofu Aerospace Center** — JAXA’s headquarters & main development facility. Formed 1962, Tokyo.
    - **Earth Observation Center** — JAXA’s facility. Hatoyama, Saitama.

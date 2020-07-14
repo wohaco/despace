@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://astroscale.com/><br> <https://twitter.com/astroscale_HQ><br> <https://www.linkedin.com/company/astroscale/> |
 |Tel| +81-3-6658-8175, fax: … |
-|Etc| … |
 
 **Astroscale** is the 1st private company with a mission to secure long‑term spaceflight safety & orbital sustainability for the benefit of future generations. Founded in 2013, Astroscale is developing innovative & scalable solutions for satellite end‑of‑life & active debris removal services to mitigate the growing & hazardous build‑up of debris in space.
 

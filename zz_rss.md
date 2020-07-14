@@ -6,7 +6,6 @@
 |E‑mail| <contact@spacecorp.ru> |
 |Link| <http://russianspacesystems.ru/> |
 |Tel| +7(495)509-12-01, +7(495)509-12-02, fax: +7(495)509-12-00 |
-|Etc| … |
 
 **<mark>Осторожно! [Болото](swamp.md)!</mark>**
 

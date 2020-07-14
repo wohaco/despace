@@ -6,9 +6,8 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.isas.jaxa.jp/><br> <https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science> |
 |Tel| +81(42)751-39-11, fax: … |
-|Etc| … |
 
-**Institute of Space & Astronautical Science** (ISAS, 宇宙科学研究所, Uchū kagaku kenkyūjo) is a Japanese national research organization of astrophysics using [rockets](lv.md), [astronomical satellites & interplanetary probes](sc.md) which played a major role in Japan’s space development. The missions of ISAS aim to push ahead academic researchers through the planning, development, flying experiments, operations & result production of unique & excellent space science missions consistently with the cooperation from universities, institutes in Japan & foreign space institutes with the use of satellites, probes, sounding rocket, scientific balloons & the international space station.
+**Institute of Space & Astronautical Science** (ISAS, 宇宙科学研究所, Uchū kagaku kenkyūjo) is a Japanese national research organization of astrophysics using [rockets](lv.md), [astronomical satellites & interplanetary probes](sc.md) which played a major role in Japan’s space development. The missions of ISAS aim to push ahead academic researchers through the planning, development, flying experiments, operations & result production of unique & excellent space science missions consistently with the cooperation from universities, Japan’s & foreign space institutes with the use of satellites, probes, sounding rocket, scientific balloons & the international space station.
 
 In 2003, 3 national aerospace organizations (incl. ISAS) were merged to form [Japan Aerospace Exploration Agency (JAXA)](zz_jaxa.md). ISAS headquarters is located in Sagamihara City, Kanagawa Prefecture. The Institute also has close connections with other centers around Japan. Activities at these centers are coordinated to accomplish the whole range of ISAS projects:
 
@@ -26,9 +25,7 @@ In 2003, 3 national aerospace organizations (incl. ISAS) were merged to form [Ja
 ## ISAS, comments
 [Papercraft ⎆](http://www.isas.jaxa.jp/en/gallery/papercrafts/).
 
-ISAS comprises 5 research departments, the Management & Integration Department, the ISAS Program Office, the Systems Engineering Office, the Safety & Mission Assurance Officer, the Center for Science Satellite Operation & Data Archive as well as 11 projects, 5 groups & the Noshiro Rocket Testing Center.
-
-The deputy Director General, the Research Director, the Program Director of Space Science, the Senior Chief Officer of Space Science & Disciplinary Engineering, the Director of International Affairs, & the Director of Public Relations are assigned under the Director General.
+ISAS comprises 5 research departments, the Management & Integration Department, the ISAS Program Office, the Systems Engineering Office, the Safety & Mission Assurance Officer, the Center for Science Satellite Operation & Data Archive as well as 11 projects, 5 groups & the Noshiro Rocket Testing Center. The deputy Director General, the Research Director, the Program Director of Space Science, the Senior Chief Officer of Space Science & Disciplinary Engineering, the Director of International Affairs, & the Director of Public Relations are assigned under the Director General.
 
 **List of Satellites by ISAS**
 

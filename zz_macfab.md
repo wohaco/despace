@@ -6,7 +6,6 @@
 |E‑mail| <sales@macfab.ca>, <careers@macfab.ca> |
 |Link| <http://macfab.ca/> |
 |Tel| +1(905)238-12-10, fax: … |
-|Etc| … |
 
 Serving customers across North & South America, the United Kingdom, Europe, Australia & Asia, **Macfab** is a leading supplier of custom components in product development & production volumes, & offers a complete suite of precision machining, finishing, cleaning & assembly solutions.  
 Macfab offers 12+ years of experience working directly with satellite developers & manufacturers – & over 30 years of highly relevant experience with medical, scientific & technological applications. Macfab works across the full spectrum of the space & satellite sector’s key areas of hardware development:

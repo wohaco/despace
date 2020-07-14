@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.scj.go.jp/en/index.html><br> <https://en.wikipedia.org/wiki/Science_Council_of_Japan> |
 |Tel| <mark>noworkphone</mark>, fax: … |
-|Etc| … |
 
 **Science Council of Japan (SCJ)** is the representative organization of Japanese scientist community ranging over all fields of sciences subsuming humanities, social sciences, life sciences, natural sciences, and engineering.
 

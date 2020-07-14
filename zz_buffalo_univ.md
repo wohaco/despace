@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.buffalo.edu/><br> <https://en.wikipedia.org/wiki/University_at_Buffalo><br> <https://ru.wikipedia.org/wiki/Университет_штата_Нью‑Йорк_в_Буффало> |
 |Tel| +1(716)645-20-00, fax: … |
-|Etc| … |
 
 **Университет штата Нью‑Йорк в Буффало**. It is commonly referred to as **SUNY Buffalo** or the **University at Buffalo (UB)**, & was formerly known as the **University of Buffalo**. Государственный научно‑исследовательский университет в США, являющийся флагманом системы университетов штата Нью‑Йорк (SUNY). Университет Буффало имеет несколько кампусов — в Буффало и Амхерсте.
 

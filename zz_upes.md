@@ -6,7 +6,6 @@
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.upes.ac.in/><br> <https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies> |
 |Tel| +91(1800)102-87-37, fax: … |
-|Etc| … |
 
 The **University of Petroleum & Energy Studies (UPES)** is an Indian university located in Dehradun, Uttarakhand specialising in fields of petroleum, energy & power. Established in 2003, it has been expanding its business & legal studies.
 
