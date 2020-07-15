@@ -31,7 +31,7 @@
 |Длина/диаметр  | 26 м / 2.6 м  |
 |[Космодромы](spaceport.md)  | [Uchinoura](uchinoura.md) (LP-Mu)  |
 |Масса старт./сух.  | 95 400 кг / … кг  |
-|Разраб./изготов.  | [JAXA](zz_jaxa.md), [IHI](ihi.md) (Япония) / [IHI](ihi.md) (Япония)  |
+|Разраб./изготов.  | [JAXA](zz_jaxa.md), [IHI](zz_ihi.md) (Япония) / [IHI](zz_ihi.md) (Япония)  |
 |Ступени  | 3  |
 |[Топливо](fuel.md)  | [HTPB](htpb.md)  |
 || [![](f/lv/epsilon/epsilon2_01_thumb.jpg)](f/lv/epsilon/epsilon2_01.jpg) [![](f/lv/epsilon/epsilon2_02_thumb.jpg)](f/lv/epsilon/epsilon2_02.jpg)  |
@@ -60,7 +60,7 @@
 |Длина/диаметр  | 22.4 м / 2.6 м  |
 |[Космодромы](spaceport.md)  | [Uchinoura](uchinoura.md) (LP-Mu)  |
 |Масса старт./сух.  | 91 000 кг / … кг  |
-|Разраб./изготов.  | [JAXA](zz_jaxa.md), [IHI](ihi.md) (Япония) / [IHI](ihi.md) (Япония)  |
+|Разраб./изготов.  | [JAXA](zz_jaxa.md), [IHI](zz_ihi.md) (Япония) / [IHI](zz_ihi.md) (Япония)  |
 |Ступени  | 3  |
 |[Топливо](fuel.md)  | [HTPB](htpb.md)  |
 || [![](f/lv/epsilon/epsilon1_01_thumb.jpg)](f/lv/epsilon/epsilon1_01.jpg)  |

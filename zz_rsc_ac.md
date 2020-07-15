@@ -1,7 +1,7 @@
 # РНЦ ПХ
 > 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/r/rsc_ac_logo1_thumb.jpg)](f/contact/r/rsc_ac_logo1.png)|*Россия, 193232, Санкт‑Петербург, ул. Крыленко, 26А*|
+|[![](f/contact/r/rsc_ac_logo1_thumb.png)](f/contact/r/rsc_ac_logo1.png)|*Россия, 193232, Санкт‑Петербург, ул. Крыленко, 26А*|
 |:--|:--|
 |E‑mail| <giph@giph.su> |
 |Link| <http://www.giph.su/><br> <https://ru.wikipedia.org/wiki/Российский_научный_центр_«Прикладная_химия»><br> <https://ru.wikipedia.org/wiki/ГИПХ_(Капитолово)> |

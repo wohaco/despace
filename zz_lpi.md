@@ -1,7 +1,7 @@
 # LPI
 > 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/l/lpi_logo1_thumb.jpg)](f/contact/l/lpi_logo1.png)|*3600 Bay Area Blvd, Houston, TX 77058, USA*|
+|[![](f/contact/l/lpi_logo1_thumb.png)](f/contact/l/lpi_logo1.png)|*3600 Bay Area Blvd, Houston, TX 77058, USA*|
 |:--|:--|
 |E‑mail| <webmaster@lpi.usra.edu> |
 |Link| <https://www.lpi.usra.edu/><br> <https://en.wikipedia.org/wiki/Lunar_and_Planetary_Institute> |

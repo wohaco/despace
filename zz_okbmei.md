@@ -1,7 +1,7 @@
 # ОКБ МЭИ
 > 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/o/okb_mei_logo1_thumb.jpg)](f/contact/o/okb_mei_logo1.png)|*Россия, Москва, ул. Красноказарменная, д. 14*|
+|[![](f/contact/o/okb_mei_logo1_thumb.png)](f/contact/o/okb_mei_logo1.png)|*Россия, Москва, ул. Красноказарменная, д. 14*|
 |:--|:--|
 |E‑mail| <secretary@okbmei.ru> |
 |Link| <http://www.okbmei.ru/><br> <https://ru.wikipedia.org/wiki/Особое_конструкторское_бюро_МЭИ> |

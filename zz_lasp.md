@@ -1,7 +1,7 @@
 # LASP
 > 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/l/lasp_logo1_thumb.jpg)](f/contact/l/lasp_logo1.png)|*1234 Innovation Drive, Boulder, CO  80303-7814, 303-492-6412, USA*|
+|[![](f/contact/l/lasp_logo1_thumb.png)](f/contact/l/lasp_logo1.png)|*1234 Innovation Drive, Boulder, CO  80303-7814, 303-492-6412, USA*|
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://lasp.colorado.edu/home/><br> <https://en.wikipedia.org/wiki/Laboratory_for_Atmospheric_and_Space_Physics><br> <http://www.facebook.com/pages/Boulder-CO/Laboratory-for-Atmospheric-and-Space-Physics/21163648557?ref=ts><br> <http://www.youtube.com/user/LASPatCUBoulder?feature=CAQQwRs%3D><br> <https://twitter.com/LASPatCU> |

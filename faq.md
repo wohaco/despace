@@ -46,9 +46,9 @@ Special symbols have to be used: …°·•¹²³±×÷≤≥≈≠ ‑ −�
 ## Sources
 Pretty far from what they call the proper list of sources but that’s all we have.
 
-   1. <https://3dnews.ru/952315> <small>— [archive ❐](f/archive/20170524_1.pdf) of 2019.01.27)*</small>
+   1. <https://3dnews.ru/952315> <small>— [archive ❐](f/archive/20170524_1.pdf) of 2019.01.27</small>
    1. <https://www.academia.edu>
-   1. <https://alemak.livejournal.com/1379.html> <small>— [archive ❐](f/archive/20140213_1.pdf) of 2019.01.27)*</small>
+   1. <https://alemak.livejournal.com/1379.html> <small>— [archive ❐](f/archive/20140213_1.pdf) of 2019.01.27</small>
    1. <http://www.astronautix.com/>
    1. <https://britastro.org/>
    1. <http://ecoruspace.me/>

@@ -188,6 +188,7 @@
 || [Russell, Christopher Thomas](zz_russell1.md) |—| UCLA |
 || [Родионов, Даниил Станиславович](zz_rodionov1.md) | IKI RAS |—|
 |**S**| [Sasaki, Satoshi](zz_sasaki1.md) |—| Tokyo Univ |
+
 || [Satoh, Takehiko](zz_satoh1.md) | ISAS/JAXA |—|
 || [Sayanagi, Kunio](zz_sayanagi1.md) |—| Hampton Univ |
 || [Senske, David](zz_senske1.md) | JPL |—|
@@ -309,8 +310,6 @@
 ### ± Canada
 [![](f/contact/map_canada_political_ru_thumb.jpg)](f/contact/map_canada_political_ru.png)
 
-   - *Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)
-
 <small>
 
 (**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
@@ -375,7 +374,7 @@
 | [UTIAS SFL](zz_utias_sfl.md)   (ON) ||||| Разработка, создание спутников |
 | [Wyvern Space](zz_wyvern.md)   (AB) ||||| Съёмка Земли |
 | [Xiphos](zz_xiphos.md)   (QC) ||||| ЦВМ, ПО |
-|**··· Not space ···**|•|•|•|•| Avant Aerospace, CAE |
+|**··· Not space ···**|•|•|•|•| Avant Aerospace, CAE;<br> *Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry) |
 
 </small>
 
@@ -556,59 +555,59 @@
 |*• Organization (JP) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|
 |**··· Head ···**|•|•|•|•|• • •|
-| [JAXA](zz_jaxa.md) |E|L|P|R| National aerospace and space agency |
-| [ISAS](zz_isas.md) ||||R| Astrophysical explorations with rockets, SC; a part of [JAXA](zz_jaxa.md) |
-| [SCJ](zz_scj.md) |N||P|C| Major Japanese science organization |
+| [JAXA](zz_jaxa.md)   ⒀ |E|L|P|R| National aerospace and space agency |
+| [ISAS](zz_isas.md)   ⒁ ||||R| Astrophysical explorations with rockets, SC; a part of [JAXA](zz_jaxa.md) |
+| [SCJ](zz_scj.md)   ⒀ |N||P|C| Major Japanese science organization |
 |**··· Contractors ···**|•|•|•|•|• • •|
-| [3D Printing Corp.](zz_3d_printing_corp.md) ||||R| Composite 3D printing |
-| [Astroscale](zz_astroscale.md) ||||R| Removal of orbital debris, sat life extension services, end‑of‑life services |
-| [Axelspace Corp.](zz_axelspace_corp.md) ||||| Ready‑to‑launch space solutions, micro‑satellite technology |
-| [Canon Electronics](zz_canon.md) ||||R| Small Earth satellites |
-| [Euroconsult](zz_euroconsult.md) ||||C| Strategic, research, summits, training programs |
-| [eVanTEC Co Ltd](zz_evantec_co_ltd.md) ||||| Software, satellite support |
-| [Hakuto](hakuto.md) ||||| Moon lander; a part of [ispace](zz_ispace.md) |
-| [GITAI](zz_gitai.md) ||||| Remotely controlled robots |
-| [IHI](ihi.md) ||||| Разработка и создание двигателей, ТНА |
-| [Infostellar](zz_infostellar.md) ||||| Satellite “Ground Segment as a Service” (GSaaS) provider |
-| [Interstellar Tech.](zz_interstellar_tech.md) ||L||| LV for small sats (≤ 100 kg) |
-| [ispace](zz_ispace.md) ||||| Moon lander & base |
-| [JAMSS](zz_jamss.md) ||||| Japan Manned Space Systems Corporation |
-| [Japan Sat. Comms](zz_japan_sat_comms.md) ||||| … |
-| [Japan Space Imaging](zz_jspace_imaging.md) ||||| Satellite remote sensing commercial services |
-| [Japan Space Systems](zz_jspace_sys.md) ||||| R&D, HR, promotion activities creating business opportunities in space sector |
-| [JEPICO Corp.](zz_jepico_corp.md) ||||R| Electronic components |
-| [JpGU](jpgu.md) |N||P|| Japan geoscience academic union |
-| [JSASS](zz_jsass.md) |N||P|| Journals, conferences, awards, recommendations |
-| [Kawasaki HVI](zz_kawasaki_hwi.md) ||||R| Satellites, fairings |
-| [Kobe Univ.](kobe_univ.md) |E|||| … |
-| [Kratos IS Japan](zz_kratos.md) ||||| … |
-| [Kyushu Inst. of Tech.](zz_kyushu_inst_tech.md) ||||| … |
-| [Lab of Space Systems](zz_tokyo_univ.md) ||||| Engine researches |
-| [Maxar Japan](zz_maxar.md) ||||| … |
-| [Mitsubishi Electric](zz_mitsubishi.md) ||||| … |
-| [Mitsubishi HVI](zz_mitsubishi.md) ||||| … |
-| [NAOJ](zz_naoj.md) ||||| National Astronomical Observatory of Japan, astronomical research |
-| [NEC Space Tech.](zz_nec.md) ||||| … |
-| [Nihom Univ.](zz_nihon_univ.md) |E|||| … |
-| [Pale Blue Inc.](zz_pale_blue_inc.md) ||||| Propulsion systems for small sats |
-| [PASCO CORPORATION](zz_pasco_corp.md) ||||| Geospatial information |
-| [PD AeroSpace](zz_pd_as.md) ||||| Space transportation |
-| [RESTEC Japan](zz_restec.md) ||||| … |
-| [RIKEN](zz_riken.md) |E|||| Biology, Chemistry, Physics, and Research |
-| [Satellite Network, Inc.](zz_sat_network.md) ||||| Earth sats comms, Earth observation, ground segment, drones |
-| [SE4](zz_se4.md) ||||| Remote robotics using VR |
-| [SKY Perfect JSAT](zz_sky_perfect_jsat.md) ||||| Telecomms |
-| [SPAC](zz_spac.md) |N|||R| Addition to GPS |
-| [Space BD](zz_space_bd.md) ||||| Space for business, sats launch, ISS experiments, education |
-| [Space Cubics](zz_space_cubics.md) ||||R| CPU R&D |
-| [Space One Co Ltd](zz_space_one_co.md) ||||| Launch service that uses small rockets |
-| [Space Port Japan](zz_space_pj.md) ||||| Promote the country’s aerospace and related industries |
-| [Space Shift](zz_space_shift.md) ||||| Space consulting |
-| [Spacetide](zz_spacetide.md) |N||P|| Promotes newspace businesses worldwide, annual conference |
-| [Synspective Inc.](zz_synspective_inc.md) ||||| Utilize/integrate data from SAR sat const., big data, machine learning |
-| [Tokyo Univ.](zz_tokyo_univ.md) |E|||| … |
-| [TUPLS](zz_tupls.md) |E|||| Tokyo University of Pharmacy & Life Sciences |
-| [Yspace LLC](zz_yspace.md) |E|||C| VR |
+| [3D Printing Corp.](zz_3d_printing_corp.md)   … ||||R| Composite 3D printing |
+| [Astroscale](zz_astroscale.md)   ⒀ ||||R| Removal of orbital debris, sat life extension services, end‑of‑life services |
+| [Axelspace Corp.](zz_axelspace_corp.md)   … ||||| Ready‑to‑launch space solutions, micro‑satellite technology |
+| [Canon Electronics](zz_canon.md)   … ||||R| Small Earth satellites |
+| [Euroconsult](zz_euroconsult.md)   … ||||C| Strategic, research, summits, training programs |
+| [eVanTEC Co Ltd](zz_evantec_co_ltd.md)   … ||||| Software, satellite support |
+| [Hakuto](hakuto.md)   … ||||| Moon lander; a part of [ispace](zz_ispace.md) |
+| [GITAI](zz_gitai.md)   … ||||| Remotely controlled robots |
+| [IHI](zz_ihi.md)   … ||||| Разработка и создание двигателей, ТНА |
+| [Infostellar](zz_infostellar.md)   … ||||| Satellite “Ground Segment as a Service” (GSaaS) provider |
+| [Interstellar Tech.](zz_interstellar_tech.md)   … ||L||| LV for small sats (≤ 100 kg) |
+| [ispace](zz_ispace.md)   … ||||| Moon lander & base |
+| [JAMSS](zz_jamss.md)   … ||||| Japan Manned Space Systems Corporation |
+| [Jap. Sat. Comms](zz_japan_sat_comms.md)   … ||||| … |
+| [Jap. Space Imaging](zz_jspace_imaging.md)   … ||||| Satellite remote sensing commercial services |
+| [Jap. Space Systems](zz_jspace_sys.md)   … ||||| R&D, HR, promotion activities creating business opportunities in space sector |
+| [JEPICO Corp.](zz_jepico_corp.md)   … ||||R| Electronic components |
+| [JpGU](jpgu.md)   … |N||P|| Japan geoscience academic union |
+| [JSASS](zz_jsass.md)   … |N||P|| Journals, conferences, awards, recommendations |
+| [Kawasaki HVI](zz_kawasaki_hwi.md)   … ||||R| Satellites, fairings |
+| [Kobe Univ.](kobe_univ.md)   … |E|||| … |
+| [Kratos IS Japan](zz_kratos.md)   … ||||| … |
+| [Kyushu Tech. Inst.](zz_kyushu_inst_tech.md)   … ||||| … |
+| [Lab Space Systems](zz_lab_of_space_systems.md)   ⑴ ||||R| Engine researches |
+| [Maxar Japan](zz_maxar.md)   … ||||| … |
+| [Mitsubishi Electric](zz_mitsubishi.md)   … ||||| … |
+| [Mitsubishi HVI](zz_mitsubishi.md)   … ||||| … |
+| [NAOJ](zz_naoj.md)   … ||||| National Astronomical Observatory of Japan, astronomical research |
+| [NEC Space Tech.](zz_nec.md)   … ||||| … |
+| [Nihom Univ.](zz_nihon_univ.md)   … |E|||| … |
+| [Pale Blue Inc.](zz_pale_blue_inc.md)   … ||||| Propulsion systems for small sats |
+| [PASCO CORP.](zz_pasco_corp.md)   … ||||| Geospatial information |
+| [PD AeroSpace](zz_pd_as.md)   … ||||| Space transportation |
+| [RESTEC Japan](zz_restec.md)   … ||||| … |
+| [RIKEN](zz_riken.md)   … |E|||| Biology, Chemistry, Physics, and Research |
+| [Satellite Network](zz_sat_network.md)   … ||||| Earth sats comms, Earth observation, ground segment, drones |
+| [SE4](zz_se4.md)   … ||||| Remote robotics using VR |
+| [SKY Perfect JSAT](zz_sky_perfect_jsat.md)   … ||||| Telecomms |
+| [SPAC](zz_spac.md)   … |N|||R| Addition to GPS |
+| [Space BD](zz_space_bd.md)   ⒀ ||||| Space for business, sats launch, ISS experiments, education |
+| [Space Cubics](zz_space_cubics.md)   … ||||R| CPU R&D |
+| [Space One Co Ltd](zz_space_one_co.md)   ⒀ ||L||R| Launch service that uses small rockets |
+| [Space Port Japan](zz_space_pj.md)   … |||P|| Promote the country’s aerospace and related industries |
+| [Space Shift](zz_space_shift.md)   … ||||C| Space consulting |
+| [Spacetide](zz_spacetide.md)   … |N||P|| Promotes newspace businesses worldwide, annual conference |
+| [Synspective Inc.](zz_synspective_inc.md)   … ||||R| Utilize/integrate data from SAR sat const., big data, machine learning |
+| [Tokyo Univ.](zz_tokyo_univ.md)   ⒀ |E|||R| … |
+| [TUPLS](zz_tupls.md)   ⒀ |E|||| Tokyo University of Pharmacy & Life Sciences |
+| [Yspace LLC](zz_yspace.md)   ⑻ |E|||C| VR |
 |**··· Not space ···**|•|•|•|•| Panasonic Avionics Corp. |
 
 </small>

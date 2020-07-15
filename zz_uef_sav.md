@@ -1,7 +1,7 @@
 # UEF SAV
 > 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/u/uef_sav_logo1_thumb.jpg)](f/contact/u/uef_sav_logo1.png)|*Watsonova 47, 040 01 Košice, Slovenská republika*|
+|[![](f/contact/u/uef_sav_logo1_thumb.png)](f/contact/u/uef_sav_logo1.png)|*Watsonova 47, 040 01 Košice, Slovenská republika*|
 |:--|:--|
 |E‑mail| <sekr@saske.sk> |
 |Link| <http://uef.saske.sk/><br> <https://ru.wikipedia.org/wiki/Словацкая_академия_наук> |

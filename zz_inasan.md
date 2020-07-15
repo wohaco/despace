@@ -1,7 +1,7 @@
 # ИНАСАН
 > 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/i/inasan_logo1_thumb.jpg)](f/contact/i/inasan_logo1.png)|*Россия, 119017, Москва, ул. Пятницкая, д. 48*|
+|[![](f/contact/i/inasan_logo1_thumb.png)](f/contact/i/inasan_logo1.png)|*Россия, 119017, Москва, ул. Пятницкая, д. 48*|
 |:--|:--|
 |E‑mail| <admin@inasan.ru> |
 |Link| <http://www.inasan.ru/><br> <https://ru.wikipedia.org/wiki/Институт_астрономии_РАН> |

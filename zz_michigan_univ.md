@@ -1,7 +1,7 @@
 # Michigan Univ.
 > 2019.08.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/m/michigan_univ_logo1_thumb.jpg)](f/contact/m/michigan_univ_logo1.png)|*500 S State St, Ann Arbor, MI 48109, USA*|
+|[![](f/contact/m/michigan_univ_logo1_thumb.png)](f/contact/m/michigan_univ_logo1.png)|*500 S State St, Ann Arbor, MI 48109, USA*|
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://umich.edu/><br> <https://en.wikipedia.org/wiki/University_of_Michigan><br> <https://ru.wikipedia.org/wiki/Мичиганский_университет><br> <https://twitter.com/umich><br> <https://www.facebook.com/universityofmichigan><br> <https://www.linkedin.com/edu/school?trk=edu-ca-head-title&id=18633><br> <http://instagram.com/uofmichigan> |

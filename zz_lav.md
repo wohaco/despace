@@ -1,7 +1,7 @@
 # НПОЛ
 > 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**, [LAV](zz_lav.md)
 
-|[![](f/contact/n/npol_logo1_thumb.jpg)](f/contact/n/npol_logo1.png)|*Россия, 141402, Химки, Ленинградская 24*|
+|[![](f/contact/l/lav_logo1_thumb.png)](f/contact/l/lav_logo1.png)|*Россия, 141402, Химки, Ленинградская 24*|
 |:--|:--|
 |E‑mail| <npol@laspace.ru> |
 |Link| <http://www.laspace.ru/><br> <https://en.wikipedia.org/wiki/Lavochkin><br> <https://ru.wikipedia.org/wiki/НПО_имени_С._А._Лавочкина> |

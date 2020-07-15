@@ -1,7 +1,7 @@
 # Sinclair I/P
 > 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/s/sinclair_ip_logo1_thumb.jpg)](f/contact/s/sinclair_ip_logo1.png)|*268 Claremont St, Toronto, ON M6J 2N3, Canada*|
+|[![](f/contact/s/sinclair_ip_logo1_thumb.png)](f/contact/s/sinclair_ip_logo1.png)|*268 Claremont St, Toronto, ON M6J 2N3, Canada*|
 |:--|:--|
 |E‑mail| <dns@sinclairinterplanetary.com> |
 |Link| <http://www.sinclairinterplanetary.com/> |

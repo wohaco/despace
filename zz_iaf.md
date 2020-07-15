@@ -1,7 +1,7 @@
 # IAF
 > 2020.01.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/i/iaf_logo1_thumb.jpg)](f/contact/i/iaf_logo1.png)|*100 Avenue de Suffren, 75015 Paris, France*|
+|[![](f/contact/i/iaf_logo1_thumb.png)](f/contact/i/iaf_logo1.png)|*100 Avenue de Suffren, 75015 Paris, France*|
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.iafastro.org/><br> <https://en.wikipedia.org/wiki/International_Astronautical_Federation><br> <https://ru.wikipedia.org/wiki/Международная_астронавтическая_федерация> |

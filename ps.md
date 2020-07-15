@@ -46,7 +46,7 @@
 || [Nammo](nammo.md)  |**ЖРД (2к.)** — [LEROS 1b](leros.md) (65) ┊ [LEROS 1c](leros.md) (47) ┊ [LEROS 2b](leros.md) (42) ┊ [LEROS 4](leros.md) (102)  |
 || [SpaceX](zz_spacex.md)  |**ЖРД (2к.)** — [Draco](draco.md) (40 ‑ 7 000) ┊ [Merlin](merlin.md) (75 000) ┊ [Raptor](raptor.md) (173 000 ‑ 356 000);<br> **`Исторические:`** *ЖРД (2к.) — [Kestrel](kestrel.md) (3 000)*  |
 |•|• • • • • • • •|• • •|
-|**JP**| [IHI](ihi.md)  |**ЖРД (2к.)** — [BT‑4](bt_4.md) (51)  |
+|**JP**| [IHI](zz_ihi.md)  |**ЖРД (2к.)** — [BT‑4](bt_4.md) (51)  |
 
 Common engines:
 

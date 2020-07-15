@@ -1,7 +1,7 @@
 # MLS
 > 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/m/mls_logo1_thumb.jpg)](f/contact/m/mls_logo1.png)|*Suite 900, 1959 Upper Water Street, Halifax, Nova Scotia  B3J 3N2, Canada*|
+|[![](f/contact/m/mls_logo1_thumb.png)](f/contact/m/mls_logo1.png)|*Suite 900, 1959 Upper Water Street, Halifax, Nova Scotia  B3J 3N2, Canada*|
 |:--|:--|
 |E‑mail| <admin@maritimelaunch.com> |
 |Link| <https://www.maritimelaunch.com/><br> <https://en.wikipedia.org/wiki/Maritime_Launch_Services> |

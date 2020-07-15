@@ -1,7 +1,7 @@
 # Maxar
 > 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/m/maxar_logo1_thumb.jpg)](f/contact/m/maxar_logo1.png)|*Maxar, 1300 W 120th Avenue, Westminster, CO 80234, USA*|
+|[![](f/contact/m/maxar_logo1_thumb.png)](f/contact/m/maxar_logo1.png)|*Maxar, 1300 W 120th Avenue, Westminster, CO 80234, USA*|
 |:--|:--|
 |E‑mail| <info@maxar.com> |
 |Link| <https://www.maxar.com/><br> <https://en.wikipedia.org/wiki/Maxar_Technologies> |

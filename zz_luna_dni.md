@@ -1,7 +1,7 @@
 # Luna D&I
 > 2020.01.30 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/l/lunadni_logo1_thumb.jpg)](f/contact/l/lunadni_logo1.png)|*…, Toronto, ON, Canada.*|
+|[![](f/contact/l/lunadni_logo1_thumb.png)](f/contact/l/lunadni_logo1.png)|*…, Toronto, ON, Canada.*|
 |:--|:--|
 |E‑mail| <andrea@lunainnovates.com> |
 |Link| <https://www.lunainnovates.com/> |

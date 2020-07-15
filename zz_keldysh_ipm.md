@@ -1,7 +1,7 @@
 # ИПМ Келдыша
 > 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
 
-|[![](f/contact/i/ipm_keldysh_logo1_thumb.jpg)](f/contact/i/ipm_keldysh_logo1.png)|*Россия, 125047, Москва, Миусская пл., д. 4*|
+|[![](f/contact/i/ipm_keldysh_logo1_thumb.png)](f/contact/i/ipm_keldysh_logo1.png)|*Россия, 125047, Москва, Миусская пл., д. 4*|
 |:--|:--|
 |E‑mail| <office@keldysh.ru> |
 |Link| <http://www.keldysh.ru/> |
