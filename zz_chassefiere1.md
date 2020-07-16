@@ -1,5 +1,5 @@
 # Chassefière, Eric
-> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*University of Paris-Sud at Orsay, FR. IDES laboratory (Interaction & Dynamics of Surface Environments). Director*|
 |:--|:--|

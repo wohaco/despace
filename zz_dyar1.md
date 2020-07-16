@@ -1,5 +1,5 @@
 # Dyar, Darby Melinda
-> 2019.07.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Mount Holyoke College](mtholyoke_college.md), US. Department of Astronomy. Professor of Astronomy*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # РКЦ «Прогресс»
-> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/r/rkc_progress_logo1_thumb.jpg)](f/contact/r/rkc_progress_logo1.png)|*Россия, 443009, Россия, Самара, ул. Земеца, 18*|
 |:--|:--|

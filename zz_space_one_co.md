@@ -1,5 +1,5 @@
 # Space One
-> 2020.07.15 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.07.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/space_one_co_logo1_thumb.jpg)](f/contact/s/space_one_co_logo1.png)|*5-10 Shiba Koen 3-Chome, Minato-ku, Tokyo*|
 |:--|:--|
@@ -17,7 +17,7 @@ SPACE ONE is accelerating preparations to establish itself as an operating compa
 
 ## Space One, comments
 
-TOKYO, July 2, 2018 — New Generation Small Rocket Development Planning Co., Ltd. (the Business Planning Company) and its four shareholders ([CANON ELECTRONICS INC.](zz_canon.md), [IHI AEROSPACE Co.](zz_ihi.md), Ltd., Shimizu Corporation and Development Bank of Japan Inc.) have concluded their investigation into the establishment of a small rocket launch service as an operating company. As a result, the Business Planning Company announced today that the necessary procedures for increasing capital have been completed, and that it will be renamed SPACE ONE Co., Ltd. (SPACE ONE) and operate as a commercial space transport service business for small satellites.
+TOKYO, July 2, 2018 — New Generation Small Rocket Development Planning Co., Ltd. (the Business Planning Company) and its four shareholders ([CANON ELECTRONICS INC.](zz_ce_space.md), [IHI AEROSPACE Co.](zz_ihi.md), Ltd., Shimizu Corporation and Development Bank of Japan Inc.) have concluded their investigation into the establishment of a small rocket launch service as an operating company. As a result, the Business Planning Company announced today that the necessary procedures for increasing capital have been completed, and that it will be renamed SPACE ONE Co., Ltd. (SPACE ONE) and operate as a commercial space transport service business for small satellites.
 
 **Overview of Launch Complex:**
 

@@ -1,5 +1,5 @@
 # Bradford Engineering
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/b/bradford_logo1_thumb.jpg)](f/contact/b/bradford_logo1.png)|*Bradford Engineering B.V., De Wijper 26, 4726 TG Heerle, Нидерланды*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Berger, Gilles
-> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[IRAP](zz_irap.md), EU.*|
 |:--|:--|

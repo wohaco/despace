@@ -1,5 +1,5 @@
 # NGC A/S
-> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/n/ngc_as_logo1_thumb.png)](f/contact/n/ngc_as_logo1.png)|*2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*|
 |:--|:--|

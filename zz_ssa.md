@@ -1,5 +1,5 @@
 # Saudi Space Agency
-> 2020.03.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.03.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/ssa_logo1_thumb.jpg)](f/contact/s/ssa_logo1.png)|*…*|
 |:--|:--|

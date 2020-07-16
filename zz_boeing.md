@@ -1,5 +1,5 @@
 # Boeing
-> 2019.12.24 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.12.24 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](file/cooperation//_logo1_thumb.jpg)](file/cooperation//_logo1.png)|*…*|
 |:--|:--|

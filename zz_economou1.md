@@ -1,5 +1,5 @@
 # Economou, Thanasis
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Chicago Univ.](chicago_univ.md), US. Senior Scientist*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Domagal-Goldman, Shawn
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md) [GSFC](zz_gsfc.md), US. Planetary Systems Laboratory, Planetary Science Division, Science & Exploration Directorate. Lab head, Research Space Scientist*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # UrtheCast
-> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/u/urthecast_logo1_thumb.jpg)](f/contact/u/urthecast_logo1.png)|*1055 Canada Place - Suite 33, Vancouver, BC V6C 0C3, Canada*|
 |:--|:--|

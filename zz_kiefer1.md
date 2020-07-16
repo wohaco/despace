@@ -1,5 +1,5 @@
 # Kiefer, Walter S.
-> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Senior Staff Scientist*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Мороз, Василий Иванович
-> 2019.11.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.11.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ГАИШ МГУ](zz_sai_msu.md), SU. Профессор*|
 |:--|:--|

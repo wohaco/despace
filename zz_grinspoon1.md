@@ -1,5 +1,5 @@
 # Grinspoon, David
-> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[PSI](zz_psi.md), US.*|
 |:--|:--|

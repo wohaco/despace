@@ -1,5 +1,5 @@
 # Russell, Christopher Thomas
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*UCLA, US. Head of the Space Physics Center at the Institute of Geophysics & Planetary Physics (IGPP) at UCLA, professor in UCLA’s Department of Earth, Planetary, & Space Sciences, & Director of the UCLA Branch of the California Space Grant Consortium*|
 |:--|:--|

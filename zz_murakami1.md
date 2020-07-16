@@ -1,5 +1,5 @@
 # Murakami, Shin-ya
-> 2019.10.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
 |:--|:--|

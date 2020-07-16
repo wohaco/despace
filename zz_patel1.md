@@ -1,5 +1,5 @@
 # Patel, Manish
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Open Univ.](zz_open_univ.md), EU. Faculty of Science, Technology, Engineering & Mathematics School of Physical Sciences. Senior Lecturer*|
 |:--|:--|

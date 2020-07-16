@@ -1,5 +1,5 @@
 # ISA
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/isa_logo1_thumb.png)](f/contact/i/isa_logo1.png)|*Тель‑Авив, Derech Menachem Begin 52*|
 |:--|:--|

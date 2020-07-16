@@ -1,5 +1,5 @@
 # Yspace LLC
-> 2020.07.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.07.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/y/yspace_logo1_thumb.jpg)](f/contact/y/yspace_logo1.png)|*Japan, 〒305-0047 Ibaraki, Tsukuba, Sengen, 2 Chome−1−6 A-19-I*|
 |:--|:--|

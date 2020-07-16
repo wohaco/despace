@@ -1,5 +1,5 @@
 # ИСС
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/iss_logo1_thumb.jpg)](f/contact/i/iss_logo1.png)|*Россия, 662972, г. Железногорск Красноярского края, ул. Ленина 52*|
 |:--|:--|

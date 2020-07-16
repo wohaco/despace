@@ -1,5 +1,5 @@
 # UEF SAV
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/u/uef_sav_logo1_thumb.png)](f/contact/u/uef_sav_logo1.png)|*Watsonova 47, 040 01 Košice, Slovenská republika*|
 |:--|:--|

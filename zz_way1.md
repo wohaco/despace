@@ -1,5 +1,5 @@
 # Way, Michael Joseph
-> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md)/[GISS](zz_giss.md), US. Information Technology Specialist & Research Scientist*|
 |:--|:--|

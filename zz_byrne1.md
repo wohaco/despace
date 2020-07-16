@@ -1,5 +1,5 @@
 # Byrne, Paul K.
-> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NCSU](zz_ncsu.md), EU. Assistant Professor*|
 |:--|:--|

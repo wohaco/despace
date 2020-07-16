@@ -1,5 +1,5 @@
 # Vonstad, Frida Klæbo
-> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[UCL](zz_ucl.md), EU. Department of Civil, Environmental & Geomatic Engineering. Geotechnical engineer*|
 |:--|:--|

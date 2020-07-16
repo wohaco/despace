@@ -1,5 +1,5 @@
 # LASP
-> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/l/lasp_logo1_thumb.png)](f/contact/l/lasp_logo1.png)|*1234 Innovation Drive, Boulder, CO  80303-7814, 303-492-6412, USA*|
 |:--|:--|

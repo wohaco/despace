@@ -1,5 +1,5 @@
 # Болото
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**, [Control](control.md), [Экология](ecology.md)
+> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), [Control](control.md), [Экология](ecology.md)
 
 [TOC]
 

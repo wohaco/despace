@@ -1,5 +1,5 @@
 # IAF
-> 2020.01.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.01.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/iaf_logo1_thumb.png)](f/contact/i/iaf_logo1.png)|*100 Avenue de Suffren, 75015 Paris, France*|
 |:--|:--|

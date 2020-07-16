@@ -1,5 +1,5 @@
 # Ernst, Richard E.
-> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Carleton Univ., US. Tomsk SU, RU. Scientist in Residence*|
 |:--|:--|

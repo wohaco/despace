@@ -1,5 +1,5 @@
 # НИИМАШ
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/n/niimash_logo1_thumb.jpg)](f/contact/n/niimash_logo1.png)|*Россия, 624740, Свердловская область, г. Нижняя Салда, ул. Строителей, 72*|
 |:--|:--|

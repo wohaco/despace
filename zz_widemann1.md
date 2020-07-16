@@ -1,5 +1,5 @@
 # Widemann, Thomas
-> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Paris Obs.](paris_obs.md), EU. Associate professor University Versailles, France, since 1995. Astronomer Paris Observatory, since 1995. Chair Science Versailles Center Research Program, France, since 2007.*|
 |:--|:--|

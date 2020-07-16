@@ -1,5 +1,5 @@
 # Space Concordia
-> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/space_concordia_logo1_thumb.jpg)](f/contact/s/space_concordia_logo1.png)|*H 1029-7, 1455 De Maisonneuve West, Montreal, Quebec, H3G 1M8, Canada*|
 |:--|:--|

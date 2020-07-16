@@ -1,5 +1,5 @@
 # Bruzzone, Lorenzo
-> 2019.10.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Trento Univ., IT. Professor & Head of the Remote Sensing Laboratory (since 1999)*|
 |:--|:--|

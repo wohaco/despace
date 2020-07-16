@@ -1,5 +1,5 @@
 # O'Rourke, Joseph
-> 2019.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Arizona Univ.](arizona_univ.md), US.*|
 |:--|:--|

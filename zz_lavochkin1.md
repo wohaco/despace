@@ -1,5 +1,5 @@
 # Лавочкин, Семён Алексеевич
-> 2019.11.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.11.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*ОКБ-301, SU.*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # C6 Launch
-> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/c/c6_launch_logo1_thumb.jpg)](f/contact/c/c6_launch_logo1.png)|*Toronto, Ontario, Canada*|
 |:--|:--|

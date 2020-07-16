@@ -1,5 +1,5 @@
 # Venus Observing System
-> 2019.11.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md)**, [Проекты](project.md)
+> 2019.11.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), [Проекты](project.md)
 
 [TOC]
 

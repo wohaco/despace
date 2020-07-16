@@ -1,5 +1,5 @@
 # ИНАСАН
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/inasan_logo1_thumb.png)](f/contact/i/inasan_logo1.png)|*Россия, 119017, Москва, ул. Пятницкая, д. 48*|
 |:--|:--|

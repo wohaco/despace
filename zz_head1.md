@@ -1,5 +1,5 @@
 # Head, James W. III
-> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Brown Univ.](brown_univ.md), US. Distinguished Professor of Geological Sciences*|
 |:--|:--|

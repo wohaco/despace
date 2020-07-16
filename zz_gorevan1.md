@@ -1,5 +1,5 @@
 # Gorevan, Stephen Paul
-> 2019.10.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Honeybee, US. Founder, chairman*|
 |:--|:--|

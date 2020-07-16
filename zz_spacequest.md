@@ -1,5 +1,5 @@
 # SpaceQuest
-> 2019.08.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/spacequest_logo1_thumb.png)](f/contact/s/spacequest_logo1.png)|*3554 Chain Bridge Rd, Suite 400, Fairfax VA, 22030, US*|
 |:--|:--|

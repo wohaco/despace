@@ -1,5 +1,5 @@
 # Gregg, Tracy
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[University at Buffalo College of Arts & Sciences](zz_buffalo_univ.md), US. Department of Geology. Associate Professor of Geology*|
 |:--|:--|

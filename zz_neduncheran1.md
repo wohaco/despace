@@ -1,5 +1,5 @@
 # Neduncheran, Adhithiyan
-> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[UPES](zz_upes.md), IN, Department of Aerospace Engineering*|
 |:--|:--|

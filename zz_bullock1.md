@@ -1,5 +1,5 @@
 # Bullock, Mark
-> 2019.07.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Space Science Department. Principal scientist*|
 |:--|:--|

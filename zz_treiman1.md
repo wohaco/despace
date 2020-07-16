@@ -1,5 +1,5 @@
 # Treiman, Allan
-> 2019.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Associate Director & Senior Staff Scientist*|
 |:--|:--|

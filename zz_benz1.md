@@ -1,5 +1,5 @@
 # Benz, Alexis C.
-> 2019.10.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Lockheed Martin](lockheed_martin.md), US. Systems Engineer, Instrument Accomodator (since 2015)*|
 |:--|:--|

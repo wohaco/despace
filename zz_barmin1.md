@@ -1,5 +1,5 @@
 # Бармин, Владимир Павлович
-> 2019.11.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.11.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*МГТУ Баумана, SU.*|
 |:--|:--|

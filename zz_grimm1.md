@@ -1,5 +1,5 @@
 # Grimm, Robert E.
-> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Planetary Science Directorate. Program Director*|
 |:--|:--|

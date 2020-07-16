@@ -1,5 +1,5 @@
 # Dong, Chuanfei
-> 2019.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Princeton Univ.](princeton_univ.md), US. Astrophysical Sciences, Associate Research Scholar (2018)*|
 |:--|:--|

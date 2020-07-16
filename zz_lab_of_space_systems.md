@@ -1,5 +1,5 @@
 # Laboratory of Space Systems
-> 2020.07.15 ┊ **🚀 [despace](index.md)** → **[Contact](contact.md)**
+> 2020.07.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*Nishi8-Chome, Kita13-jo, Kita-ku, Sapporo-shi, Hokkaido 060-8628, JAPAN*|
 |:--|:--|

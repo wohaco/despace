@@ -1,5 +1,5 @@
 # AvantSpace
-> 2020.01.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.01.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/avantspace_logo1_thumb.jpg)](f/contact/a/avantspace_logo1.png)|*Луговая 4/7, Инновационный центр Сколково, г. Москва, 143026, RU.*|
 |:--|:--|

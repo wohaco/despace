@@ -1,5 +1,5 @@
 # Helbert, Jörn
-> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[DLR](zz_dlr.md), Institute for Planetary Research, DE. Professor*|
 |:--|:--|

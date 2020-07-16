@@ -1,5 +1,5 @@
 # Jindal, Abhinav
-> 2019.07.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Cornell Univ.](cornell_univ.md), US. Astronomy & Space Sciences. Graduate Teaching Assistant*|
 |:--|:--|

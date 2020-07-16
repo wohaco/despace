@@ -1,5 +1,5 @@
 # Cockell, Charles Seaton
-> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Edinburgh Univ.](zz_edinburgh_univ.md), EU. Chair of Astrobiology. Professor of Astrobiology*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Контакты
-> 2019.07.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 [TOC]
 
@@ -188,7 +188,6 @@
 || [Russell, Christopher Thomas](zz_russell1.md) |—| UCLA |
 || [Родионов, Даниил Станиславович](zz_rodionov1.md) | IKI RAS |—|
 |**S**| [Sasaki, Satoshi](zz_sasaki1.md) |—| Tokyo Univ |
-
 || [Satoh, Takehiko](zz_satoh1.md) | ISAS/JAXA |—|
 || [Sayanagi, Kunio](zz_sayanagi1.md) |—| Hampton Univ |
 || [Senske, David](zz_senske1.md) | JPL |—|
@@ -308,7 +307,7 @@
 <p style="page-break-after:always"> </p>
 
 ### ± Canada
-[![](f/contact/map_canada_political_ru_thumb.jpg)](f/contact/map_canada_political_ru.png)
+[![](f/contact/map/canada_political_ru_thumb.jpg)](f/contact/map/canada_political_ru.png)
 
 <small>
 
@@ -546,7 +545,7 @@
 <p style="page-break-after:always"> </p>
 
 ### ± Japan
-[![](f/contact/map_japan_political_thumb.png)](f/contact/map_japan_political.png)
+[![](f/contact/map/japan_political_thumb.png)](f/contact/map/japan_political.png)
 
 <small>
 
@@ -559,12 +558,12 @@
 | [ISAS](zz_isas.md)   ⒁ ||||R| Astrophysical explorations with rockets, SC; a part of [JAXA](zz_jaxa.md) |
 | [SCJ](zz_scj.md)   ⒀ |N||P|C| Major Japanese science organization |
 |**··· Contractors ···**|•|•|•|•|• • •|
-| [3D Printing Corp.](zz_3d_printing_corp.md)   … ||||R| Composite 3D printing |
+| [3D Printing Corp.](zz_3d_printing_corp.md)   ⒁ ||||R| Composite 3D printing |
 | [Astroscale](zz_astroscale.md)   ⒀ ||||R| Removal of orbital debris, sat life extension services, end‑of‑life services |
-| [Axelspace Corp.](zz_axelspace_corp.md)   … ||||| Ready‑to‑launch space solutions, micro‑satellite technology |
-| [Canon Electronics](zz_canon.md)   … ||||R| Small Earth satellites |
-| [Euroconsult](zz_euroconsult.md)   … ||||C| Strategic, research, summits, training programs |
-| [eVanTEC Co Ltd](zz_evantec_co_ltd.md)   … ||||| Software, satellite support |
+| [Axelspace Corp.](zz_axelspace_corp.md)   ⒀ ||L||R| Ready‑to‑launch space solutions, micro‑satellite technology |
+| [CE Space](zz_ce_space.md)   ⒀ ||||R| Small Earth satellites, their components |
+| [Euroconsult](zz_euroconsult.md)   ⒀ ||||C| Strategic, research, summits, training programs |
+| [eVanTEC Co Ltd](zz_evantec_co.md)   ⒀ ||||| Software, satellite support |
 | [Hakuto](hakuto.md)   … ||||| Moon lander; a part of [ispace](zz_ispace.md) |
 | [GITAI](zz_gitai.md)   … ||||| Remotely controlled robots |
 | [IHI](zz_ihi.md)   … ||||| Разработка и создание двигателей, ТНА |
@@ -617,6 +616,8 @@
 <p style="page-break-after:always"> </p>
 
 ### ± Korea South
+[![](f/contact/map/korea_south_political_thumb.png)](f/contact/map/korea_south_political.png)
+
 <small>
 
 (**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
@@ -785,7 +786,7 @@
 <p style="page-break-after:always"> </p>
 
 ### ✘ USA
-[![](f/contact/map_usa_political_thumb.jpg)](f/contact/map_usa_political.png)
+[![](f/contact/map/usa_political_thumb.jpg)](f/contact/map/usa_political.png)
 
 <small>
 

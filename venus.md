@@ -1,5 +1,5 @@
 # Venus
-> 2019.11.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md)**, [Space](index.md)
+> 2019.11.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), [Space](index.md)
 
 [TOC]
 
@@ -85,6 +85,8 @@ The CO₂‑rich atmosphere generates the strongest greenhouse effect in the Sol
 Thermal inertia & the heat transfer by the lower atmosphere winds mean that the surface temperature doesn’t vary significantly between the planet’s two hemispheres, those facing & not facing the Sun, despite Venus’s extremely slow rotation. Surface winds are slow (a few km/h), but because of the atmosphere high density at the surface they exert much force against obstructions, & transport dust & small stones across the surface. This alone would make it difficult for a human to walk through, even without the heat & pressure. The high altitude winds become faster over time.
 
 Above the dense CO₂ layer there are thick clouds consisting mainly of H₂SO₄ formed by a chemical reaction of SO₂ & H₂O. Clouds at different levels have different composition & particles size; they reflect & scatter ~ 90 % of the sunlight that falls on them back into space, & prevent surface visual observation. The permanent cloud cover means that although Venus is closer to the Sun than Earth, it receives less sunlight on the ground. Strong 300 km/h (185 mph) winds at the cloud tops go around Venus about every 4 ‑ 5 Earth days (**atmosphere superrotation**); the winds’re ≥ 60 times faster than its rotation, whereas Earth’s fastest winds’re only 10 ‑ 20 % of the rotation speed.
+
+The atmosphere is divided into 4 layers that never get mixed. <mark>TBD</mark>
 
 
 
@@ -331,6 +333,8 @@ See also section “[Projects](project.md)”.
 <p style="page-break-after:always"> </p>
 
 ## Science & tech targets
+> There is an [archived version of this section](faq_venus_20200618.md): far more complex.
+
 Just a preliminary list of the Venus targets/explorations. Based on [VEXAG ⎆](https://www.lpi.usra.edu/vexag/), Venus missions/units proposals, and anyone who can. The idea is to prepare a brief systematized list of the Venus targets & explorations of the retired, active, proposed SC suitable for scientists, & engineers, & managers, & passers by. The one which is able in the same time to tell about what was done & in what volume, what is processing now & why it’s so cool, what is proposed & why it’s so important. Something like a bridge between scientists & other humanity just to show that all of these complex scientific terms can be described with some statistic terms without a need to read a lot of literature or trust their words. Soon there will be something new, for example, links between targets/explorations, SC, & a couple of brief description of the each one current state.
 
 Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief — 97 targets in total (34 tech., 63 scientific) consisting of: 33 never occured (19 tech., 14 scientific), 57 was tried (11 tech., 46 scientific), 7 mostly done (4 tech., 3 scientific). Comments:
@@ -598,7 +602,6 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <p style="page-break-after:always"> </p>
 
 ### EVN‑001 ‑ 009
-> There is an [archived version of this section](faq_venus_20200618.md): far more complex.
 
 **EVN‑001.** Atmosphere: preliminary model.
 

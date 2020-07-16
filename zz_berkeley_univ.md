@@ -1,5 +1,5 @@
 # Berkeley Univ.
-> 2019.08.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/b/berkeley_univ_logo1_thumb.jpg)](f/contact/b/berkeley_univ_logo1.png)|*VPCR+QH Berkeley, California, USA*|
 |:--|:--|

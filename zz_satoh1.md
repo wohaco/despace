@@ -1,5 +1,5 @@
 # Satoh, Takehiko
-> 2019.10.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP. Department of Solar System Sciences. Professor*|
 |:--|:--|

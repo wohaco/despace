@@ -1,5 +1,5 @@
 # The Planetary Society
-> 2019.10.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/p/planetary_society_logo1_thumb.jpg)](f/contact/p/planetary_society_logo1.png)|*60 South Los Robles Avenue, Pasadena, CA 91101, USA*|
 |:--|:--|

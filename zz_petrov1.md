@@ -1,5 +1,5 @@
 # Петров, Максим Евгеньевич
-> 2020.04.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.04.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*НПО им. С.А. Лавочкина.*|
 |:--|:--|

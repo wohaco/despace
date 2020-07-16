@@ -1,5 +1,5 @@
 # NCSU
-> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/n/ncsu_logo1_thumb.jpg)](f/contact/n/ncsu_logo1.png)|*Campus Box 7001, A Holladay Hall, Raleigh, NC, 27695, USA*|
 |:--|:--|

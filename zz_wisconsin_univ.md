@@ -1,5 +1,5 @@
 # Wisconsin University
-> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/w/wisconsin_univ_logo1_thumb.jpg)](f/contact/w/wisconsin_univ_logo1.png)|*3HGQ+J2 Madisone, Wisconsin, USA*|
 |:--|:--|

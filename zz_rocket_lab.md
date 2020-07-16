@@ -1,5 +1,5 @@
 # Rocket Lab
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/r/rocket_lab_logo1_thumb.jpg)](f/contact/r/rocket_lab_logo1.png)|*14520 Delta Ln #101, Huntington Beach, CA 92647, USA*|
 |:--|:--|

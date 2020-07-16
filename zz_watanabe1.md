@@ -1,5 +1,5 @@
 # Watanabe, Shigeto
-> 2019.10.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Hokkaido Information Univ., JP. Department of Earth and Planetary Sciences. Professor*|
 |:--|:--|

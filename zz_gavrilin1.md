@@ -1,5 +1,5 @@
 # Гаврилин, Сергей Иванович
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. 127/216, 541 «Отдел аппаратуры аппаратных средств систем управления». Зам. начальника комплекса*|
 |:--|:--|

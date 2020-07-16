@@ -1,5 +1,5 @@
 # GRC
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/g/grc_logo1_thumb.jpg)](f/contact/g/grc_logo1.png)|*21000 Brookpark Rd, Cleveland, OH 44135, США*|
 |:--|:--|

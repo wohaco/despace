@@ -1,5 +1,5 @@
 # Arney, Giada Nicole
-> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Research AST, Planetary Studies*|
 |:--|:--|

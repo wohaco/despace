@@ -1,5 +1,5 @@
 # SpaceX
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/spacex_logo1_thumb.jpg)](f/contact/s/spacex_logo1.png)|*1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
 |:--|:--|

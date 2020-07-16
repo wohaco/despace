@@ -1,5 +1,5 @@
 # Zielona Univ.
-> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/z/zielona_univ_logo1_thumb.jpg)](f/contact/z/zielona_univ_logo1.png)|*Uniwersytet Zielonogórski, ul. Licealna 9, 65-417 Zielona Góra, Poland*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # ФИАН
-> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/f/fian_logo1_thumb.jpg)](f/contact/f/fian_logo1.png)|*Россия, 119991, ГСП‑1 Москва, Ленинский проспект, д. 53, ФИАН*|
 |:--|:--|

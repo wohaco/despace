@@ -1,5 +1,5 @@
 # Gentry, Diana M.
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA Ames Research Center](zz_arc.md), US. Biospheric Science Branch. Staff, Student Career Experience Program Student*|
 |:--|:--|

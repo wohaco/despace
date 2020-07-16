@@ -1,5 +1,5 @@
 # Kepler Communications
-> 2019.08.28 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.28 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/k/kepler_comms_logo1_thumb.jpg)](f/contact/k/kepler_comms_logo1.png)|*196 Spadina Avenue, Suite 400 Toronto M5T 2C2 Canada*|
 |:--|:--|

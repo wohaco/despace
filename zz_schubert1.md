@@ -1,5 +1,5 @@
 # Schubert, Gerald
-> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*UCLA, US. Institute of Geophysics & Planetary Physics. Department of Earth & Space Sciences. Professor*|
 |:--|:--|

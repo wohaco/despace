@@ -1,5 +1,5 @@
 # Lebonnois, Sebastien
-> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Sorbonne Univ.](sorbonne_univ.md)/[LMD](lmd.md), EU. Directeur de Recherche (CNRS senior scientist)*|
 |:--|:--|

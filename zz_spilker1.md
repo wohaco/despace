@@ -1,5 +1,5 @@
 # Spilker, Tom
-> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*US. Independent Consultant*|
 |:--|:--|

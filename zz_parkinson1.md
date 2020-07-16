@@ -1,5 +1,5 @@
 # Parkinson, Christopher Dennis
-> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), US. Department of Climate & Space Science & Engineering. Associate Research Scientist, Climate & Space Sciences & Engineering, College of Engineering*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # OPC LAM
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/o/opc_lam_logo1_thumb.jpg)](f/contact/o/opc_lam_logo1.png)|*ArianeGroup GmbH, Robert-Koch-Str. 1, 82024 Taufkirchen, Germany*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Magellan A/S
-> 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/m/magellan_as_logo1_thumb.jpg)](f/contact/m/magellan_as_logo1.png)|*3160 Derry Road East Mississauga, ON L4T 1A9, Canada*|
 |:--|:--|

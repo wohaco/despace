@@ -1,5 +1,5 @@
 # ДОГОЗ
-> 2019.08.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/d/dogoz_logo1_thumb.jpg)](f/contact/d/dogoz_logo1.png)|*Россия, 119160, г. Москва, ул. Знаменка, д. 19*|
 |:--|:--|

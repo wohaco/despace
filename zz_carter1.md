@@ -1,5 +1,5 @@
 # Carter, Lynn M
-> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Arizona Univ.](arizona_univ.md), US. Lunar & Planetary Laboratory. Planetary Sciences. Associate Professor*|
 |:--|:--|

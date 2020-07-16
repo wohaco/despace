@@ -1,5 +1,5 @@
 # McGovern, Patrick J.
-> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Science Staff*|
 |:--|:--|

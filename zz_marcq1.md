@@ -1,5 +1,5 @@
 # Marcq, Emmanuel
-> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LATMOS](zz_latmos.md)/[UVSQ](uvsq.md), EU. Associate Professor in Planetary Science.*|
 |:--|:--|

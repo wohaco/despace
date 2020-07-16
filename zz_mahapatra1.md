@@ -1,5 +1,5 @@
 # Mahapatra, Gourav
-> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[TU Delft](tu_delft.md), EU. Department of Space Exploration. PhD Candidate*|
 |:--|:--|

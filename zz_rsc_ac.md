@@ -1,5 +1,5 @@
 # РНЦ ПХ
-> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/r/rsc_ac_logo1_thumb.png)](f/contact/r/rsc_ac_logo1.png)|*Россия, 193232, Санкт‑Петербург, ул. Крыленко, 26А*|
 |:--|:--|

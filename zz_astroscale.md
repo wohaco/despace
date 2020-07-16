@@ -1,5 +1,5 @@
 # Astroscale
-> 2020.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/astroscale_logo1_thumb.png)](f/contact/a/astroscale_logo1.png)|*1-16-4 Kinshi, Sumida, Tokyo 130-0013, JP*|
 |:--|:--|

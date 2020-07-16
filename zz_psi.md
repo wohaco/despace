@@ -1,5 +1,5 @@
 # PSI
-> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/p/psi_logo1_thumb.jpg)](f/contact/p/psi_logo1.png)|*1700 East Fort Lowell, Suite 106, Tucson, AZ 85719-2395, USA*|
 |:--|:--|

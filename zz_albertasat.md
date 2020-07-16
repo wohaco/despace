@@ -1,5 +1,5 @@
 # AlbertaSat
-> 2020.06.28 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.06.28 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*…*|
 |:--|:--|

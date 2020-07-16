@@ -1,5 +1,5 @@
 # Пилотируемые исследования Венеры водородными аэростатами. Н.Н. Жолонко
-> 2020.03.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md)**, [Project](project.md)
+> 2020.03.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), [Project](project.md)
 
 [TOC]
 

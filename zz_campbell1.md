@@ -1,5 +1,5 @@
 # Campbell, Bruce A.
-> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Smithsonian Inst., National Air & Space Museum’s Center for Earth & Planetary Studies, US. Geophysicist, Senior Scientist*|
 |:--|:--|

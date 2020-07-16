@@ -1,5 +1,5 @@
 # Balint, Tibor
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Principal Human Centered Designer*|
 |:--|:--|

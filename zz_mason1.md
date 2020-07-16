@@ -1,5 +1,5 @@
 # Mason, Philippa J.
-> 2019.10.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Imperial College, UK. Dept of Earth Science & Engineering. Senior Teaching Fellow*|
 |:--|:--|

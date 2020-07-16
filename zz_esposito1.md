@@ -1,5 +1,5 @@
 # Esposito, Larry W.
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LASP](zz_lasp.md), US. Professor, Astrophysical & Planetary Sciences. [Principal Investigator](principal_investigator.md), UVIS Instrument on the Cassini Mission to Saturn*|
 |:--|:--|

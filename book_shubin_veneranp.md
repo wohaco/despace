@@ -1,5 +1,5 @@
 # Венера — неукротимая планета. Шубин.
-> 2020.03.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md)**
+> 2020.03.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md)
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Baker, Charles L.
-> 2019.12.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.12.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Mission/Project Systems Engineer*|
 |:--|:--|

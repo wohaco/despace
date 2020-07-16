@@ -1,5 +1,5 @@
 # Сагдеев, Роальд Зиннурович
-> 2019.11.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.11.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*UMD, US. Профессор*|
 |:--|:--|

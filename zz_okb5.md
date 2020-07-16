@@ -1,5 +1,5 @@
 # ОКБ Пятое Поколение
-> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/o/okb_5_logo1_thumb.jpg)](f/contact/o/okb_5_logo1.png)|*Россия, 630090, Новосибирск, ул. Николаева, д. 11*|
 |:--|:--|

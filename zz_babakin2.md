@@ -1,5 +1,5 @@
 # Бабакин, Николай Георгиевич
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[АКЦ ФИАН](zz_asc_fian.md), RU. Главный конструктор*|
 |:--|:--|

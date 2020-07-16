@@ -1,5 +1,5 @@
 # Maroko, Elena Vladimirovna
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), RU. Специалист по аэрокосмическим вопросам московского офиса НАСА*|
 |:--|:--|

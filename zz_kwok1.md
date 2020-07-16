@@ -1,5 +1,5 @@
 # Kwok, John
-> 2019.10.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mission System Engineering. Section Manager*|
 |:--|:--|

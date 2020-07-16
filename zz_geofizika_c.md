@@ -1,5 +1,5 @@
 # Геофизика‑Космос
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/g/geofizika_cosmos_logo1_thumb.jpg)](f/contact/g/geofizika_cosmos_logo1.png)|*Россия, 107497, Москва, ул. Иркутская, д. 11, корпус 1*|
 |:--|:--|

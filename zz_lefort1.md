@@ -1,5 +1,5 @@
 # Lefort, Jayne
-> 2019.10.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.10.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU(FR).*|
 |:--|:--|

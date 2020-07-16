@@ -1,5 +1,5 @@
 # SFL
-> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/u/utias_sfl_logo1_thumb.jpg)](f/contact/u/utias_sfl_logo1.png)|*4925 Dufferin Street, Toronto, Ontario, M3H 5T6, Canada*|
 |:--|:--|

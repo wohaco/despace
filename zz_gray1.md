@@ -1,5 +1,5 @@
 # Gray, Candace L.
-> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.07.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[New Mexico Univ.](nmexico_univ.md) / [Apache Obs.](apache_obs.md), US. Department of Astronomy. Support Astronomer.*|
 |:--|:--|

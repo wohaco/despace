@@ -1,5 +1,5 @@
 # Техномаш
-> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/t/tehnomash_logo1_thumb.jpg)](f/contact/t/tehnomash_logo1.png)|*Россия, 127018, Москва, 3‑й проезд Марьиной рощи, д. 40*|
 |:--|:--|

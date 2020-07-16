@@ -1,7 +1,7 @@
 # Euroconsult
-> 2020.07.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2020.07.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
-|[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*86 Boulevard de Sebastopol, 75003 Paris, France*|
+|[![](f/contact/e/euroconsult_logo1_thumb.jpg)](f/contact/e/euroconsult_logo1.png)|*86 Boulevard de Sebastopol, 75003 Paris, France*|
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.euroconsult-ec.com/><br> <https://www.linkedin.com/company/euroconsult/> |

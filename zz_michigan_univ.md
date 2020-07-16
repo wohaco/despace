@@ -1,5 +1,5 @@
 # Michigan Univ.
-> 2019.08.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.08.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/m/michigan_univ_logo1_thumb.png)](f/contact/m/michigan_univ_logo1.png)|*500 S State St, Ann Arbor, MI 48109, USA*|
 |:--|:--|

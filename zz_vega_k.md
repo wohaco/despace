@@ -1,5 +1,5 @@
 # Концерн Вега
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Contact](contact.md)**
+> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/k/koncern_vega_logo1_thumb.jpg)](f/contact/k/koncern_vega_logo1.png)|*Россия, 121170, Москва, Кутузовский проспект, 34*|
 |:--|:--|
