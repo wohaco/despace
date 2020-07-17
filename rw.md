@@ -1,5 +1,5 @@
 # Двигатель‑маховик
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[ДМ](rw.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[ДМ](rw.md)**
 
 [TOC]
 

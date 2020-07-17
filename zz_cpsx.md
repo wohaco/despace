@@ -1,5 +1,5 @@
 # CPSX
-> 2019.08.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/c/cpsx_logo1_thumb.jpg)](f/contact/c/cpsx_logo1.png)|*1151 Richmond Street, London, Ontario, N6A 3K7, Canada*|
 |:--|:--|

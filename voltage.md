@@ -1,5 +1,5 @@
 # Напряжение
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SPS](sps.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[SPS](sps.md)**
 
 [TOC]
 

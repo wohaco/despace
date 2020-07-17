@@ -1,5 +1,5 @@
 # Аксион‑холдинг
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/axion_logo1_thumb.jpg)](f/contact/a/axion_logo1.png)|*Россия, 426000, Удмуртская Республика, Ижевск, ул. М. Горького, 90*|
 |:--|:--|

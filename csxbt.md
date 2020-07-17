@@ -1,5 +1,5 @@
 # CSXBT
-> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Радиосвязь](comms.md)**
+> 2019.08.06 **[🚀](../index/index.md) [despace](index.md)** → **[Радиосвязь](comms.md)**
 
 [TOC]
 

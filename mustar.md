@@ -1,5 +1,5 @@
 # µSTAR
-> 2019.07.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
+> 2019.07.29 **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Kerzhanovich, Viktor Valentinovich
-> 2019.10.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.06 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mobility & Robotic Systems Section (347) of the Autonomous Systems Division (34). Principal Member of Technical Staff*|
 |:--|:--|

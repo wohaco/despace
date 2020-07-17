@@ -1,5 +1,5 @@
 # CASI
-> 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/c/casi_logo1_thumb.jpg)](f/contact/c/casi_logo1.png)|*350 Terry Fox Dr., Suite 104 Kanata, ON, K2K 2W5, Canada*|
 |:--|:--|

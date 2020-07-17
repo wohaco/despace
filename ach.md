@@ -1,5 +1,5 @@
 # Anechoic chamber
-> 2020.05.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Test](test.md)**, [EMC](emc.md)
+> 2020.05.14 **[🚀](../index/index.md) [despace](index.md)** → **[Test](test.md)**, [EMC](emc.md)
 
 [TOC]
 

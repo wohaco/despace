@@ -1,5 +1,5 @@
 # Контакты
-> 2019.07.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 [TOC]
 
@@ -563,23 +563,23 @@
 | [Axelspace Corp.](zz_axelspace_corp.md)   ⒀ ||L||R| Ready‑to‑launch space solutions, micro‑satellite technology |
 | [CE Space](zz_ce_space.md)   ⒀ ||||R| Small Earth satellites, their components |
 | [Euroconsult](zz_euroconsult.md)   ⒀ ||||C| Strategic, research, summits, training programs |
-| [eVanTEC Co Ltd](zz_evantec_co.md)   ⒀ ||||| Software, satellite support |
-| [Hakuto](hakuto.md)   … ||||| Moon lander; a part of [ispace](zz_ispace.md) |
-| [GITAI](zz_gitai.md)   … ||||| Remotely controlled robots |
-| [IHI](zz_ihi.md)   … ||||| Разработка и создание двигателей, ТНА |
-| [Infostellar](zz_infostellar.md)   … ||||| Satellite “Ground Segment as a Service” (GSaaS) provider |
-| [Interstellar Tech.](zz_interstellar_tech.md)   … ||L||| LV for small sats (≤ 100 kg) |
-| [ispace](zz_ispace.md)   … ||||| Moon lander & base |
-| [JAMSS](zz_jamss.md)   … ||||| Japan Manned Space Systems Corporation |
-| [Jap. Sat. Comms](zz_japan_sat_comms.md)   … ||||| … |
-| [Jap. Space Imaging](zz_jspace_imaging.md)   … ||||| Satellite remote sensing commercial services |
-| [Jap. Space Systems](zz_jspace_sys.md)   … ||||| R&D, HR, promotion activities creating business opportunities in space sector |
-| [JEPICO Corp.](zz_jepico_corp.md)   … ||||R| Electronic components |
-| [JpGU](jpgu.md)   … |N||P|| Japan geoscience academic union |
-| [JSASS](zz_jsass.md)   … |N||P|| Journals, conferences, awards, recommendations |
-| [Kawasaki HVI](zz_kawasaki_hwi.md)   … ||||R| Satellites, fairings |
+| [eVanTEC Co Ltd](zz_evantec_co.md)   ⒀ ||||R| Software, satellite support |
+| [Hakuto](zz_hakuto.md)   ⒀ ||||R| Moon lander; a part of [ispace](zz_ispace.md) |
+| [HIREC](zz_hirec.md)   ⒁ ||||C| Technology consulting, verification, testing, design, development |
+| [GITAI](zz_gitai.md)   ⒀ ||||R| Remotely controlled robots |
+| [IHI](zz_ihi.md)   ⒀ ||L||R| Разработка и создание двигателей, ТНА |
+| [Infostellar](zz_infostellar.md)   ⒀ ||||R| Satellite Ground Segment as a Service provider, cubesat components |
+| [Interstellar Tech.](zz_interstellar_tech.md)   ⑴ ||L||R| LV for small sats (≤ 100 kg) development, manufacturing, launch service |
+| [ispace](zz_ispace.md)   ⒀ ||||R| Moon lander & base |
+| [J-spacesystems](zz_jspacesys.md)   ⒀ ||||C| R&D, HR, promotion activities creating business opportunities in space sector |
+| [JAMSS](zz_jamss.md)   ⒀ ||L||R| Japan Manned Space Systems Corporation |
+| [JEPICO Corp.](zz_jepico_corp.md)   ⒀ ||||R| Electronic components |
+| [JpGU](jpgu.md)   ⒀ |N||P|| Japan geoscience academic union |
+| [JSASS](zz_jsass.md)   ⒀ |N||P|| Journals, conferences, awards, recommendations |
+| [JSI Corp](zz_jsi_corp.md)   ⒀ ||||R| Satellite remote sensing commercial services, imagery data |
+| [Kawasaki HVI](zz_kawasaki_hvi.md)   ⒀ ||||R| Satellites, fairings, rocket launch complex, space transport |
 | [Kobe Univ.](kobe_univ.md)   … |E|||| … |
-| [Kratos IS Japan](zz_kratos.md)   … ||||| … |
+| [Kratos IS Japan](zz_kratos.md)   ⒀ ||||R| R&D ground antennas, optimizing/managing satelllites, signals |
 | [Kyushu Tech. Inst.](zz_kyushu_inst_tech.md)   … ||||| … |
 | [Lab Space Systems](zz_lab_of_space_systems.md)   ⑴ ||||R| Engine researches |
 | [Maxar Japan](zz_maxar.md)   … ||||| … |

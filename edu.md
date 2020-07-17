@@ -1,5 +1,5 @@
 # Образование
-> 2019.10.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.10.17 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

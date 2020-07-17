@@ -1,5 +1,5 @@
 # ИРЗ
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/irz_logo1_thumb.png)](f/contact/i/irz_logo1.png)|*Россия, Удмуртская Республика, 426034, г. Ижевск, ул. Базисная, д. 19*|
 |:--|:--|

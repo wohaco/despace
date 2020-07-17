@@ -1,5 +1,5 @@
 # События
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Events](event.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Events](event.md)**
 
 [TOC]
 

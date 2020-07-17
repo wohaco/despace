@@ -1,5 +1,5 @@
 # ЦЭНКИ
-> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.06 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/t/tsenki_logo1_thumb.jpg)](f/contact/t/tsenki_logo1.png)|*Россия, 107996, Москва, ул. Щепкина, д. 42*|
 |:--|:--|

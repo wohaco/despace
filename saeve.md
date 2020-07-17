@@ -1,5 +1,5 @@
 # SAEVe
-> 2020.04.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
+> 2020.04.22 **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
 
 [TOC]
 

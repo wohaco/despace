@@ -1,5 +1,5 @@
 # SED26
-> 2019.07.25 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
+> 2019.07.25 **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
 
 [TOC]
 

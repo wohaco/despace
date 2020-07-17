@@ -1,5 +1,5 @@
 # НПЦАП
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/n/npcap_logo1_thumb.jpg)](f/contact/n/npcap_logo1.png)|*Россия, 117342, Москва, ул. Введенского, д. 1*|
 |:--|:--|

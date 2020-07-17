@@ -1,5 +1,5 @@
 # Digital elevation model
-> 2019.09.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Модель](model.md)**
+> 2019.09.13 **[🚀](../index/index.md) [despace](index.md)** → **[Модель](model.md)**
 
 [TOC]
 

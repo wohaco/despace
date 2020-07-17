@@ -1,5 +1,5 @@
 # Macfab
-> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/m/macfab_logo1_thumb.jpg)](f/contact/m/macfab_logo1.png)|*Macfab Manufacturing, 330 Britannia Road East, Mississauga, Ontario L4Z 1X9, Canada*|
 |:--|:--|

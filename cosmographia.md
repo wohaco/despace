@@ -1,5 +1,5 @@
 # Cosmographia
-> 2019.09.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
+> 2019.09.13 **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
 
 [TOC]
 

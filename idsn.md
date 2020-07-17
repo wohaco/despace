@@ -1,5 +1,5 @@
 # Indian Deep Space Network
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ISRO](zz_isro.md), **[НС](scs.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [ISRO](zz_isro.md), **[НС](scs.md)**
 
 [TOC]
 

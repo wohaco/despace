@@ -1,5 +1,5 @@
 # Апоцентр и перицентр
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БНО](nnb.md)**, [Space](index.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[БНО](nnb.md)**, [Space](index.md)
 
 [TOC]
 

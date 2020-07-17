@@ -1,5 +1,5 @@
 # КНД
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Антенна](antenna.md), **[Радиосвязь](comms.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Антенна](antenna.md), **[Радиосвязь](comms.md)**
 
 [TOC]
 

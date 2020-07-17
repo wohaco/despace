@@ -1,5 +1,5 @@
 # ANU
-> 2019.08.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/anu_logo1_thumb.jpg)](f/contact/a/anu_logo1.png)|*ANU Alumni Relations, 52 Collins St, Melbourne VIC 3000, Australia*|
 |:--|:--|

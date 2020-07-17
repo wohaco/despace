@@ -1,5 +1,5 @@
 # AIAC
-> 2019.08.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/aiac_logo1_thumb.jpg)](f/contact/a/aiac_logo1.png)|*255 Albert Street, Suite 703, Ottawa, Ontario, K1P 6A9, Canada*|
 |:--|:--|

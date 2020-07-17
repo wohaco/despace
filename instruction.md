@@ -1,5 +1,5 @@
 # Instruction
-> 2019.01.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.01.09 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

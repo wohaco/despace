@@ -1,5 +1,5 @@
 # НИИФИ
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/n/niifi_logo1_thumb.jpg)](f/contact/n/niifi_logo1.png)|*Россия, 440026, г. Пенза, ул. Володарского, д. 8/10*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # eVanTEC
-> 2020.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/e/evantec_logo1_thumb.png)](f/contact/e/evantec_logo1.png)|*5F Fugetsudo Bld., 6-6-1 Ginza, Chuo-ku, Tokyo, 104-0061 Japan*|
 |:--|:--|

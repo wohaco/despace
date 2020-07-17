@@ -1,5 +1,5 @@
 # Smart Dragon
-> 2019.07.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
+> 2019.07.04 **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 

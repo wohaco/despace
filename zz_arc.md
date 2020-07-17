@@ -1,5 +1,5 @@
 # ARC
-> 2019.08.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/arc_logo1_thumb.jpg)](f/contact/a/arc_logo1.png)|*Public Affairs Office, NASA Ames Research Center, Mail Stop 204-14, Moffett Field, CA, 94035-0001, USA*|
 |:--|:--|

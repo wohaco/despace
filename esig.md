@@ -1,5 +1,5 @@
 # Электронная подпись
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [НД](doc.md), [Control](control.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [НД](doc.md), [Control](control.md)
 
 [TOC]
 

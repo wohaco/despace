@@ -1,5 +1,5 @@
 # JpGU
-> 2020.07.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[Events](event.md)**, [JpGU](jpgu.md)
+> 2020.07.02 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[Events](event.md)**, [JpGU](jpgu.md)
 
 [TOC]
 

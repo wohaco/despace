@@ -1,5 +1,5 @@
 # Космические лучи
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ВВФ](ef.md)**, [Space](index.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[ВВФ](ef.md)**, [Space](index.md)
 
 [TOC]
 

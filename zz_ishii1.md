@@ -1,5 +1,5 @@
 # Ishii, Nobuaki
-> 2019.10.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.26 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP. Department of Space Flight Systems. Professor*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # ЕСТПП
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[НД](doc.md#НД)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[НД](doc.md#НД)**
 
 [TOC]
 

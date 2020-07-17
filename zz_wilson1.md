@@ -1,5 +1,5 @@
 # Wilson, Colin F.
-> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Oxford Univ.](oxford_univ.md), EU. Department of Physics*|
 |:--|:--|

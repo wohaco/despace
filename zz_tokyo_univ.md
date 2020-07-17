@@ -1,5 +1,5 @@
 # Tokyo Univ.
-> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.09 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/t/tokyo_univ_logo1_thumb.jpg)](f/contact/t/tokyo_univ_logo1.png)|*7-chōme-3-1 Hongō, Bunkyo City, Tōkyō-to 113-8654, Japan*|
 |:--|:--|

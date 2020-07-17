@@ -1,5 +1,5 @@
 # Баллистико‑навигационное обеспечение
-> 2019.05.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[БНО](nnb.md)**, [ДУ](ps.md), [Control](control.md)
+> 2019.05.02 **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[БНО](nnb.md)**, [ДУ](ps.md), [Control](control.md)
 
 [TOC]
 

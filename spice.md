@@ -1,5 +1,5 @@
 # SPICE
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [БНО](nnb.md), **[Модель](model.md)**
+> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [БНО](nnb.md), **[Модель](model.md)**
 
 [TOC]
 

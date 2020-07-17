@@ -1,5 +1,5 @@
 # РКС
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/r/rks_logo1_thumb.jpg)](f/contact/r/rks_logo1.png)|*Россия, 111250, Москва, ул. Авиамоторная, д. 53*|
 |:--|:--|

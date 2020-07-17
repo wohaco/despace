@@ -1,5 +1,5 @@
 # Planetary Science Decadal Survey
-> 2019.11.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
+> 2019.11.19 **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
 
 [TOC]
 

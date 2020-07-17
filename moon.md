@@ -1,5 +1,5 @@
 # Луна
-> 2019.03.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Space](index.md), **[Moon](moon.md)**
+> 2019.03.21 **[🚀](../index/index.md) [despace](index.md)** → [Space](index.md), **[Moon](moon.md)**
 
 [TOC]
 

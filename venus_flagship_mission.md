@@ -1,5 +1,5 @@
 # Venus Flagship Mission
-> 2019.09.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md))**, [Проекты](project.md)
+> 2019.09.12 **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md))**, [Проекты](project.md)
 
 [TOC]
 

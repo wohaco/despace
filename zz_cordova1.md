@@ -1,5 +1,5 @@
 # Cordova, Jaime Adrian Jr.
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Wisconsin Univ.](zz_wisconsin_univ.md), US.*|
 |:--|:--|

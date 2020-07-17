@@ -1,5 +1,5 @@
 # HAST
-> 2019.07.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
+> 2019.07.23 **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
 
 [TOC]
 

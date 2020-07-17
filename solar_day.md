@@ -1,5 +1,5 @@
 # Солнечные сутки
-> 2019.09.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**
+> 2019.09.19 **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**
 
 [TOC]
 

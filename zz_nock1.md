@@ -1,5 +1,5 @@
 # Nock, Kerry T.
-> 2019.01.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.01.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Global Aerospace Corporation](zz_gac.md), US. Founder, President, Chairman of the Board of Directors*|
 |:--|:--|

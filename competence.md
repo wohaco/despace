@@ -1,5 +1,5 @@
 # Компетенция
-> 2020.01.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2020.01.01 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

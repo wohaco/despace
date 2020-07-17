@@ -1,5 +1,5 @@
 # Google Lunar X Prize
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Проекты](project.md), [Events](event.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Проекты](project.md), [Events](event.md)
 
 [TOC]
 
@@ -19,7 +19,7 @@
 
 ## Участники
    - [Astrobotic](astrobotic.md), США
-   - [Hakuto](hakuto.md), Япония
+   - [Hakuto](zz_hakuto.md), Япония
    - [Moon Express](moon_express.md), США
    - [PTScientists](ptscientists.md), Европа, Германия
    - [Team Indus](team_indus.md), Индия

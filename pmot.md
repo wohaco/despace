@@ -1,5 +1,5 @@
 # Программа и методика испытаний
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [КД](doc.md), **[Test](test.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [КД](doc.md), **[Test](test.md)**
 
 [TOC]
 

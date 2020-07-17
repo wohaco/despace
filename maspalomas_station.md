@@ -1,5 +1,5 @@
 # Maspalomas Station
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [НК](scs.md), **[НС](scs.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [НК](scs.md), **[НС](scs.md)**
 
 [TOC]
 

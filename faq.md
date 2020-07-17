@@ -1,5 +1,5 @@
 # FAQ
-> 2020.06.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[FAQ](faq.md)**
+> 2020.06.27 **[🚀](../index/index.md) [despace](index.md)** → **[FAQ](faq.md)**
 
 [TOC]
 

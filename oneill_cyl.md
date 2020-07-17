@@ -1,5 +1,5 @@
 # Цилиндр О’Нилла
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [косм.города‑бублики.md](rwss.md), **[Project](project.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [косм.города‑бублики.md](rwss.md), **[Project](project.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # BE-2
-> 2019.05.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
+> 2019.05.11 **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
 
 [TOC]
 

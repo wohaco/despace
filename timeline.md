@@ -1,5 +1,5 @@
 # Циклограмма
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Test](test.md), [ЛИ](rnd_e.md), [ЦГМ](obc.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Test](test.md), [ЛИ](rnd_e.md), [ЦГМ](obc.md)
 
 [TOC]
 

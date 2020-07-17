@@ -1,5 +1,5 @@
 # Костицын, Юрий Александрович
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*ГЕОХИ РАН](zz_geokhi_ras.md). Заведующий лабораторией*|
 |:--|:--|

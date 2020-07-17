@@ -1,5 +1,5 @@
 # Hayashi, Yoshi-Yuki
-> 2019.07.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.10 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Kobe Univ.](kobe_univ.md), JP. Graduate School of Science & Center for Planetary Science, Faculty of Science. Professor*|
 |:--|:--|

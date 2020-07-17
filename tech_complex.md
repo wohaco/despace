@@ -1,5 +1,5 @@
 # ТК КА, РБ, КГЧ, РКН
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[СхД](wbs.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[СхД](wbs.md)**
 
 [TOC]
 

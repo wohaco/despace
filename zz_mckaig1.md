@@ -1,5 +1,5 @@
 # McKaig, Jordan
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), NASA Ames Research Center, US. Research associate*|
 |:--|:--|

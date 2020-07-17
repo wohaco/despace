@@ -1,5 +1,5 @@
 # McCabe, Ryan
-> 2019.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Hampton Univ.](hampton_univ.md), US. Graduate Research Assistant (2015)*|
 |:--|:--|

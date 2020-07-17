@@ -1,5 +1,5 @@
 # Коваленко, Ирина Дмитриевна
-> 2019.11.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.04 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Department of Space Flight Dynamics and Data Analysis. Научный сотрудник*|
 |:--|:--|

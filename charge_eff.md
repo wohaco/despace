@@ -1,5 +1,5 @@
 # Электрическая отдача
-> 2019.09.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SPS](sps.md)**, [ХИТ](eb.md)
+> 2019.09.19 **[🚀](../index/index.md) [despace](index.md)** → **[SPS](sps.md)**, [ХИТ](eb.md)
 
 [TOC]
 

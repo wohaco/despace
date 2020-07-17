@@ -1,5 +1,5 @@
 # Telesat
-> 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/t/telesat_logo1_thumb.png)](f/contact/t/telesat_logo1.png)|*160 Elgin Street, Suite 2100, Ottawa, Ontario, K2P 2P7, Canada*|
 |:--|:--|

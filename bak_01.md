@@ -1,5 +1,5 @@
 # БАК-01
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БАС](acuer.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[БАС](acuer.md)**
 
 [TOC]
 

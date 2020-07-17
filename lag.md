@@ -1,5 +1,5 @@
 # Посадочное устройство
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [SGM](sgm.md), **[ПУC](lag.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [SGM](sgm.md), **[ПУC](lag.md)**
 
 [TOC]
 

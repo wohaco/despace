@@ -1,5 +1,5 @@
 # Скунсовая фабрика
-> 2019.11.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[Control](control.md)**
+> 2019.11.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[Control](control.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # IAI
-> 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/iai_logo1_thumb.jpg)](f/contact/i/iai_logo1.png)|*2W33+X7 Бней‑Атарот, Израиль*|
 |:--|:--|

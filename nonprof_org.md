@@ -1,5 +1,5 @@
 # Некоммерческая организация
-> 2019.08.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[Control](control.md)**
+> 2019.08.27 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[Control](control.md)**
 
 [TOC]
 

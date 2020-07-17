@@ -1,5 +1,5 @@
 # ispace
-> 2020.07.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.04 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/ispace_logo1_thumb.jpg)](f/contact/i/ispace_logo1.png)|*2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
 |:--|:--|
@@ -7,11 +7,11 @@
 |Link| <http://ispace-inc.com/><br> <https://www.linkedin.com/company/ispace-inc/><br> <https://www.facebook.com/ispace.technologies.inc/?ref=aymt_homepage_panel> |
 |Tel| <mark>noworkphone</mark>, fax: … |
 
-**ispace** is a lunar exploration company with a vision to extend human presence to outer space. The company is developing a small commercial lunar lander and miniature lunar rovers to delivery customer payloads to the Moon and explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon and ultimately incorporate the Moon into Earth’s economic and living sphere. The company will land its first lander on the Moon in 2021 as part of its “HAKUTO-R” program—the world’s first commercial lunar exploration program. The missions for HAKUTO-R will launch on SpaceX’s Falcon 9 rocket.
+**ispace** is a lunar exploration company with a vision to extend human presence to outer space. The company is developing a small commercial lunar lander and miniature lunar rovers to delivery customer payloads to the Moon and explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon and ultimately incorporate the Moon into Earth’s economic and living sphere. The company will land its first lander on the Moon in 2021 as part of its “[HAKUTO-R](zz_hakuto.md)” program — the world’s first commercial lunar exploration program. The missions for HAKUTO-R will launch on SpaceX’s Falcon 9 rocket.
 
-ispace has operations in Japan, the United States, and Europe, and has signed partnerships with JAXA and the Government of Luxembourg. ispace was the managing company for Team HAKUTO, one of the 5 finalists in the Google Lunar XPRIZE competition.
+ispace has operations in Japan, the United States, and Europe, and has signed partnerships with [JAXA](zz_jaxa.md) and the Government of Luxembourg. ispace was the managing company for Team HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition.
 
-Business Overview: to construct a sustainable Earth and Moon ecosystem implementing space resources:
+Business: to construct a sustainable Earth and Moon ecosystem implementing space resources:
 
    - Marketing Support for Space Content Industries
    - Sale and Survey of Moon Surface Data

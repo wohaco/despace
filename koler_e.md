@@ -1,5 +1,5 @@
 # Колер‑Э
-> 2019.08.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДМ](rw.md)**
+> 2019.08.02 **[🚀](../index/index.md) [despace](index.md)** → **[ДМ](rw.md)**
 
 [TOC]
 

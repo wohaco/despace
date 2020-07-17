@@ -1,5 +1,5 @@
 # SX-MAGWR
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Магнитометр](mag.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Магнитометр](mag.md)**
 
 [TOC]
 

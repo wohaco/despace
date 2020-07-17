@@ -1,5 +1,5 @@
 # D'Incecco, Piero
-> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[IRSPS](zz_irsps.md), EU. Planetary geologist*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Sea launch
-> 2019.04.30 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**
+> 2019.04.30 **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**
 
 [TOC]
 

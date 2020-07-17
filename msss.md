@@ -1,5 +1,5 @@
 # MSSS
-> 2019.06.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [MSSS](msss.md), **[Events](event.md)**
+> 2019.06.14 **[🚀](../index/index.md) [despace](index.md)** → [MSSS](msss.md), **[Events](event.md)**
 
 [TOC]
 

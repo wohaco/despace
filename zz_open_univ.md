@@ -1,5 +1,5 @@
 # Open Univ.
-> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.09 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/o/open_univ_logo1_thumb.jpg)](f/contact/o/open_univ_logo1.png)|*The Open University, PO Box 197, Milton Keynes, MK7 6BJ, UK*|
 |:--|:--|

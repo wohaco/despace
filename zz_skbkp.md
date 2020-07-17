@@ -1,5 +1,5 @@
 # СКБ КП ИКИ РАН
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/skb_kp_iki_ran_logo1_thumb.jpg)](f/contact/s/skb_kp_iki_ran_logo1.png)|*Россия, 249810, Калужская обл., г. Таруса, ул. Горького, 33*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # МФТИ
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/m/mipt_logo1_thumb.jpg)](f/contact/m/mipt_logo1.png)|*Россия, 141701, Московская облаcть, г. Долгопрудный, Институтский пер., 9*|
 |:--|:--|

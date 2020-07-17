@@ -1,5 +1,5 @@
 # HTAE
-> 2019.05.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
+> 2019.05.07 **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
 
 [TOC]
 

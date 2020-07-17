@@ -1,5 +1,5 @@
 # NIAC
-> 2020.05.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Events](event.md), [NIAC](niac_program.md), **[Project](project.md)**
+> 2020.05.15 **[🚀](../index/index.md) [despace](index.md)** → [Events](event.md), [NIAC](niac_program.md), **[Project](project.md)**
 
 [TOC]
 

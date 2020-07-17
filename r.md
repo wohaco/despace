@@ -1,5 +1,5 @@
 # R
-> 2019.12.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
+> 2019.12.16 **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
 
 [TOC]
 

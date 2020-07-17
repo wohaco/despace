@@ -1,5 +1,5 @@
 # СКБ
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/sdbireras_logo1_thumb.jpg)](f/contact/s/sdbireras_logo1.png)|*Россия, 141190, Московская обл., г. Фрязино, Площадь имени академика Б.А. Введенского, д. 4*|
 |:--|:--|

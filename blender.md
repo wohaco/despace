@@ -1,5 +1,5 @@
 # Blender
-> 2019.09.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
+> 2019.09.15 **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
 
 [TOC]
 

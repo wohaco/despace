@@ -1,5 +1,5 @@
 # Унификация
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [SGM](sgm.md), **[R&D](rnd.md)**, [Проекты](project.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [SGM](sgm.md), **[R&D](rnd.md)**, [Проекты](project.md)
 
 [TOC]
 

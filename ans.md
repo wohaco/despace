@@ -1,5 +1,5 @@
 # Система автономной навигации
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[GNC](gnc.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[GNC](gnc.md)**
 
 [TOC]
 

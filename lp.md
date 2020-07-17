@@ -1,5 +1,5 @@
 # Стартовый комплекс
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Spaceport](spaceport.md), **[СхД](wbs.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Spaceport](spaceport.md), **[СхД](wbs.md)**
 
 [TOC]
 

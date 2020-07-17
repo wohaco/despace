@@ -1,5 +1,5 @@
 # Blue Marble
-> 2019.08.24 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**, [Земля](earth.md)
+> 2019.08.24 **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**, [Земля](earth.md)
 
 [TOC]
 

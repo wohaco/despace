@@ -1,5 +1,5 @@
 # Класс чистоты
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), [Безопасность](rams.md), [Test](test.md), **[Качество](quality.md)**, [КА](sc.md), [КК](scs.md), [Экология](ecology.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), [Безопасность](rams.md), [Test](test.md), **[Качество](quality.md)**, [КА](sc.md), [КК](scs.md), [Экология](ecology.md)
 
 [TOC]
 

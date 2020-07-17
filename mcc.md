@@ -1,5 +1,5 @@
 # Центр управления полётами
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [НКУ](scs.md), [Control](control.md), **[ЦУП](mcc.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [НКУ](scs.md), [Control](control.md), **[ЦУП](mcc.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # КХГ
-> 2020.02.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ДУ](ps.md), [Инкубатор](incubator.md), **[SGM](sgm.md)**
+> 2020.02.05 **[🚀](../index/index.md) [despace](index.md)** → [ДУ](ps.md), [Инкубатор](incubator.md), **[SGM](sgm.md)**
 
 [TOC]
 

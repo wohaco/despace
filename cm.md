@@ -1,5 +1,5 @@
 # Блок управления
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), [GNC](gnc.md), **[БУ](sp.md)**, [СЭА](ea_sys.md), [Control](control.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), [GNC](gnc.md), **[БУ](sp.md)**, [СЭА](ea_sys.md), [Control](control.md)
 
 [TOC]
 

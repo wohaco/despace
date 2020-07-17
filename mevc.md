@@ -1,5 +1,5 @@
 # Maneuverable Entry and Landing Vehicle (MEVC)
-> 2020.05.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2020.05.07 **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 

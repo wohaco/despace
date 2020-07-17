@@ -1,5 +1,5 @@
 # Principal investigator
-> 2019.10.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)**
+> 2019.10.18 **[🚀](../index/index.md) [despace](index.md)** → **[](.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Астрон Электроника
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/astron_electronics_logo1_thumb.jpg)](f/contact/a/astron_electronics_logo1.png)|*Россия, 302019, Орёл, ул. Весёлая, д. 2*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Словоблудие
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Don’t Panic!](dont_panic.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Don’t Panic!](dont_panic.md)**
 
 [TOC]
 

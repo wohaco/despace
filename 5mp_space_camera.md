@@ -1,5 +1,5 @@
 # 5MP Space Camera
-> 2019.07.31 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
+> 2019.07.31 **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
 
 [TOC]
 

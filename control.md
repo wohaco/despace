@@ -1,5 +1,5 @@
 # Управление
-> 2019.04.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.04.06 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Mackwell, Stephen J.
-> 2019.10.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*American Institute of Physics, US. Deputy Executive Officer*|
 |:--|:--|

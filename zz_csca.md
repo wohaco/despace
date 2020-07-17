@@ -1,5 +1,5 @@
 # CSCA
-> 2020.06.28 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Archive](faq.md)**, [Contact](contact.md)
+> 2020.06.28 **[🚀](../index/index.md) [despace](index.md)** → **[Archive](faq.md)**, [Contact](contact.md)
 
 |…|*…*|
 |:--|:--|

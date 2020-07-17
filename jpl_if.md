@@ -1,5 +1,5 @@
 # JPL’s Innovation Foundry
-> 2019.10.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[JPL](zz_jpl.md)**, [Contact](contact.md)
+> 2019.10.16 **[🚀](../index/index.md) [despace](index.md)** → **[JPL](zz_jpl.md)**, [Contact](contact.md)
 
 [TOC]
 

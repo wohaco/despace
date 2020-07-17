@@ -1,5 +1,5 @@
 # Smrekar, Suzanne
-> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Deputy [Principal Investigator](principal_investigator.md). Principal Scientist.*|
 |:--|:--|

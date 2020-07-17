@@ -1,5 +1,5 @@
 # ISBN
-> 2020.03.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Док](doc.md)**
+> 2020.03.04 **[🚀](../index/index.md) [despace](index.md)** → **[Док](doc.md)**
 
 [TOC]
 

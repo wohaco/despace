@@ -1,5 +1,5 @@
 # Deltion Innov. Ltd
-> 2019.08.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.26 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/d/deltion_logo1_thumb.jpg)](f/contact/d/deltion_logo1.png)|*1-26 Meehan St, Capreol, ON P0M 1H0, Canada*|
 |:--|:--|

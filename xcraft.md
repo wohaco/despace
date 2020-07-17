@@ -1,5 +1,5 @@
 # Xcraft
-> 2019.01.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.01.21 **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 

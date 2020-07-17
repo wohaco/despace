@@ -1,5 +1,5 @@
 # Spaceport
-> 2020.05.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**, [LV](lv.md)
+> 2020.05.10 **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**, [LV](lv.md)
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Организационная структура
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Руководитель](manager.md), **[Control](control.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Руководитель](manager.md), **[Control](control.md)**
 
 [TOC]
 

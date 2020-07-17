@@ -1,5 +1,5 @@
 # Robotics
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Robotics](robotics.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Robotics](robotics.md)**
 
 [TOC]
 

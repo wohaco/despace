@@ -1,5 +1,5 @@
 # Venus
-> 2019.11.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), [Space](index.md)
+> 2019.11.06 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), [Space](index.md)
 
 [TOC]
 

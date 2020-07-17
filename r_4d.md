@@ -1,5 +1,5 @@
 # R-4D
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
 
 [TOC]
 

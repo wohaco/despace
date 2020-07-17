@@ -1,5 +1,5 @@
 # Здоровье космонавтов
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Space](index.md), [ПКА](sc.md), [СЖО](ls.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Space](index.md), [ПКА](sc.md), [СЖО](ls.md)
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # DPS
-> 2020.07.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), [DPS](dps.md), **[Events](event.md)**
+> 2020.07.02 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), [DPS](dps.md), **[Events](event.md)**
 
 [TOC]
 

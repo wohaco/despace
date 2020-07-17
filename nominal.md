@@ -1,5 +1,5 @@
 # Номинал
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ДУ](ps.md), [SGM](sgm.md), **[Метрология](metrology.md)**, [ТЭО](fs.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [ДУ](ps.md), [SGM](sgm.md), **[Метрология](metrology.md)**, [ТЭО](fs.md)
 
 [TOC]
 

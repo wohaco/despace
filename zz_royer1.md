@@ -1,5 +1,5 @@
 # Royer, Emilie
-> 2019.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LASP](zz_lasp.md), US. Research Associate*|
 |:--|:--|

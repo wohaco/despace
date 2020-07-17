@@ -1,5 +1,5 @@
 # Payload Definition Document
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Doc](doc.md)**, [OE](oe.md), [R&D](rnd.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Doc](doc.md)**, [OE](oe.md), [R&D](rnd.md)
 
 [TOC]
 

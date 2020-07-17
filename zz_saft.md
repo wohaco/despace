@@ -1,5 +1,5 @@
 # Saft
-> 2019.08.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.04 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/saft_logo1_thumb.jpg)](f/contact/s/saft_logo1.png)|*Saft, 26, quai Charles Pasqua, 92300 Levallois-Perret, France*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Эйсмонт, Натан Андреевич
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|

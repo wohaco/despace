@@ -1,5 +1,5 @@
 # Blamont, Jacques
-> 2019.01.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.01.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[CNES](zz_cnes.md), FR.*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Space One
-> 2020.07.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/space_one_co_logo1_thumb.jpg)](f/contact/s/space_one_co_logo1.png)|*5-10 Shiba Koen 3-Chome, Minato-ku, Tokyo*|
 |:--|:--|

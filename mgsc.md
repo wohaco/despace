@@ -1,5 +1,5 @@
 # Морская группировка космических аппаратов
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
 
 [TOC]
 

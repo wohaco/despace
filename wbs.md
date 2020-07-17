@@ -1,5 +1,5 @@
 # Схема деления
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [КД](doc.md), [НД](doc.md), **[СхД](wbs.md)**, [Схема](doc.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [КД](doc.md), [НД](doc.md), **[СхД](wbs.md)**, [Схема](doc.md)
 
 [TOC]
 

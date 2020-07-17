@@ -1,5 +1,5 @@
 # Rodriguez, Aaron Garduño
-> 2019.07.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[МАИ](zz_mai.md), MX.*|
 |:--|:--|

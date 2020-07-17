@@ -1,5 +1,5 @@
 # Поле зрения
-> 2019.05.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [ЗД](sensor.md), [СД](sensor.md)
+> 2019.05.10 **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [ЗД](sensor.md), [СД](sensor.md)
 
 
 [TOC]

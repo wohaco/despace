@@ -1,5 +1,5 @@
 # КБХМ
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/k/kbhm_logo1_thumb.jpg)](f/contact/k/kbhm_logo1.png)|*Россия, 141070, Московская обл., г. Королёв, ул. Богомолова, д. 12*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Johnson, Natasha M.
-> 2019.10.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Astrochemistry Laboratory. Research Space Scientist*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Датчик
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Датчик](sensor.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Датчик](sensor.md)**
 
 [TOC]
 

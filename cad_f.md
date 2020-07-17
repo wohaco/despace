@@ -1,5 +1,5 @@
 # CAD-форматы
-> 2019.09.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Док.](doc.md), **[Soft](soft.md)**, [Чертежи и модели](draft_model.md)
+> 2019.09.20 **[🚀](../index/index.md) [despace](index.md)** → [Док.](doc.md), **[Soft](soft.md)**, [Чертежи и модели](draft_model.md)
 
 [TOC]
 

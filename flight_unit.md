@@ -1,5 +1,5 @@
 # Штатный образец
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Test](test.md), [ЛИ](rnd_e.md), [R&D](rnd.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Test](test.md), [ЛИ](rnd_e.md), [R&D](rnd.md)
 
 [TOC]
 

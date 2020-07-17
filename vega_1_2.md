@@ -1,5 +1,5 @@
 # Vega 1, Vega 2
-> 2019.11.30 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.11.30 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 

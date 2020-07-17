@@ -1,5 +1,5 @@
 # Spacecraft system
-> 2019.05.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SCS](scs.md)**
+> 2019.05.05 **[🚀](../index/index.md) [despace](index.md)** → **[SCS](scs.md)**
 
 [TOC]
 

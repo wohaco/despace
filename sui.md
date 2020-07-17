@@ -1,5 +1,5 @@
 # Составная часть
-> 2019.04.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → [КА](sc.md), [КК](scs.md)
+> 2019.04.29 **[🚀](../index/index.md) [despace](index.md)** → [КА](sc.md), [КК](scs.md)
 
 [TOC]
 

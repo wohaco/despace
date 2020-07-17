@@ -1,5 +1,5 @@
 # Mills, Franklin
-> 2019.07.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.11 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ANU](zz_anu.md), AU. Senior Fellow.*|
 |:--|:--|

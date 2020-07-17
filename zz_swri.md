@@ -1,5 +1,5 @@
 # SWRI
-> 2019.08.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.09 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/swri_logo1_thumb.jpg)](f/contact/s/swri_logo1.png)|*6220 Culebra Road, San Antonio, TX 78238-5166, USA*|
 |:--|:--|

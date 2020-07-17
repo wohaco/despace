@@ -1,5 +1,5 @@
 # GR712RC
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЦВМ](obc.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[ЦВМ](obc.md)**
 
 [TOC]
 

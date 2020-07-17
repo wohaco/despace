@@ -1,5 +1,5 @@
 # SatCan
-> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/satcan_logo1_thumb.jpg)](f/contact/s/satcan_logo1.png)|*227 Centrepointe Drive, Ottawa, ON, K2G 5L5, Canada*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Эскизный проект
-> 2019.04.09 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
+> 2019.04.09 **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
 
 [TOC]
 

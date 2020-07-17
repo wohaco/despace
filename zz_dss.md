@@ -1,5 +1,5 @@
 # DSS
-> 2019.11.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.06 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/d/dss_logo1_thumb.jpg)](f/contact/d/dss_logo1.png)|*Hart House (K Building), Office #304 – 1340 Barrington Street, Halifax, NS B3J 1Z1, CA-NS.*|
 |:--|:--|

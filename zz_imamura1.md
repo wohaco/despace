@@ -1,5 +1,5 @@
 # Imamura, Takeshi
-> 2019.10.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Faculty of Science & Technology, Liberal Arts. Department of Complexity Science & Engineering / Planetary atmospheres, Planetary exploration. Professor*|
 |:--|:--|

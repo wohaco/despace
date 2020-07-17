@@ -1,5 +1,5 @@
 # Titov, Dmitri
-> 2019.09.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.09.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESTEC](zz_estec.md), RU.*|
 |:--|:--|

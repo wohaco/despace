@@ -1,5 +1,5 @@
 # Voytek, Mary
-> 2019.07.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.18 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Headquarters. Director of the Astrobiology Program*|
 |:--|:--|

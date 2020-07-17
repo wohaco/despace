@@ -1,5 +1,5 @@
 # Презентация для лифта
-> 2019.10.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.10.19 **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 

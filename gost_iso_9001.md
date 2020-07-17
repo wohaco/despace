@@ -1,5 +1,5 @@
 # ГОСТ ИСО 9001
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[НД](doc.md#НД)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[НД](doc.md#НД)**
 
 [TOC]
 

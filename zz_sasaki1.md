@@ -1,5 +1,5 @@
 # Sasaki, Satoshi
-> 2019.07.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.10 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Bionics/Analytical Chemistry*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Типичные ошибки
-> 2019.12.19 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[НД](doc.md)**
+> 2019.12.19 **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[НД](doc.md)**
 
 [TOC]
 

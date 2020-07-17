@@ -1,5 +1,5 @@
 # Уровни зрелости концепта
-> 2019.10.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.10.18 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

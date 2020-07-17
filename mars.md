@@ -1,5 +1,5 @@
 # Марс
-> 2019.03.21 ┊ **[🚀](../index/index.md) [despace](index.md)** →  [Space](index.md), **[Марс](mars.md)**
+> 2019.03.21 **[🚀](../index/index.md) [despace](index.md)** →  [Space](index.md), **[Марс](mars.md)**
 
 [TOC]
 

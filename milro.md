@@ -1,5 +1,5 @@
 # Военное представительство
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # РИТЭГ
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[РИТЭГ](rtg.md)**, [СОТР](tcs.md), [СЭС](sps.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[РИТЭГ](rtg.md)**, [СОТР](tcs.md), [СЭС](sps.md)
 
 [TOC]
 

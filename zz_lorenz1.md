@@ -1,5 +1,5 @@
 # Lorenz, Ralph D.
-> 2019.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JHUAPL](zz_jhuapl.md), US. Planetary Scientist; Project Scientist*|
 |:--|:--|

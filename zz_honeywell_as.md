@@ -1,5 +1,5 @@
 # Honeywell A/S
-> 2019.08.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/h/honeywell_as_logo1_thumb.jpg)](f/contact/h/honeywell_as_logo1.png)|*1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*|
 |:--|:--|

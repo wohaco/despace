@@ -1,5 +1,5 @@
 # Интерферометр
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**, [Радиосвязь](comms.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**, [Радиосвязь](comms.md)
 
 [TOC]
 

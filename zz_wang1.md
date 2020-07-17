@@ -1,5 +1,5 @@
 # Wang, Alian
-> 2019.07.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.18 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[WUSTL](zz_wustl.md), US. Research Professor of Earth & Planetary Sciences (1993)*|
 |:--|:--|

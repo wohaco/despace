@@ -1,5 +1,5 @@
 # Бортовая кабельная сеть
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БКС](cable.md)**, [GNC](gnc.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[БКС](cable.md)**, [GNC](gnc.md)
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Yenisei
-> 2019.06.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
+> 2019.06.27 **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Привод направленной антенны
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Антенна](antenna.md), [GNC](gnc.md), **[SGM](sgm.md)**, [Радиосвязь](comms.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Антенна](antenna.md), [GNC](gnc.md), **[SGM](sgm.md)**, [Радиосвязь](comms.md)
 
 [TOC]
 

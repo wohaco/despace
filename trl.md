@@ -1,5 +1,5 @@
 # TRL
-> 2019.04.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [Качество](quality.md), [Риск](risk.md), [Control](control.md)
+> 2019.04.27 **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [Качество](quality.md), [Риск](risk.md), [Control](control.md)
 
 [TOC]
 

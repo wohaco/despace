@@ -1,5 +1,5 @@
 # Proto flight model
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Test](test.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Test](test.md)
 
 [TOC]
 

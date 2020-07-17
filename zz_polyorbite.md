@@ -1,5 +1,5 @@
 # PolyOrbite
-> 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/p/polyorbite_logo1_thumb.jpg)](f/contact/p/polyorbite_logo1.png)|*2500 Chemin de Polytechnique local m-3008, Montreal, QC H3T 1J4, Canada*|
 |:--|:--|

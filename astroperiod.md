@@ -1,5 +1,5 @@
 # Астрономические периоды
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**
 
 [TOC]
 

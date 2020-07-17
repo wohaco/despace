@@ -1,5 +1,5 @@
 # Ghail, Richard
-> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Imperial College London / Royal Holloway, University of London, UK. Department of Earth Sciences. Reader*|
 |:--|:--|

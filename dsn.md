@@ -1,5 +1,5 @@
 # NASA Deep Space Network
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [JPL](zz_jpl.md), [NASA](zz_nasa.md), **[НС](scs.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [JPL](zz_jpl.md), [NASA](zz_nasa.md), **[НС](scs.md)**
 
 [TOC]
 

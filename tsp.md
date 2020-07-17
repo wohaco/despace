@@ -1,5 +1,5 @@
 # Тепловая сотопанель
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**, [СОТР](tcs.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**, [СОТР](tcs.md)
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Lunar Precursor Robotic Program
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Луна](moon.md), **[Project](project.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Луна](moon.md), **[Project](project.md)**
 
 [TOC]
 

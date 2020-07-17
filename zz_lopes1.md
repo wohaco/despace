@@ -1,5 +1,5 @@
 # Lopes, Rosaly M.C.
-> 2019.07.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Earth & Space Sciences Division. Senior Research Scientist*|
 |:--|:--|

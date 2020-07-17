@@ -1,5 +1,5 @@
 # Одно окно
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

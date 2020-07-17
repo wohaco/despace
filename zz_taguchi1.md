@@ -1,5 +1,5 @@
 # Taguchi, Makoto
-> 2019.10.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.27 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Rikkyo Univ., JP. Department of Physics. Professor*|
 |:--|:--|

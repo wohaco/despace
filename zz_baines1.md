@@ -1,5 +1,5 @@
 # Baines, Kevin
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Planetary Science. Planetary & Exoplanetary Atmospheres. Principal Scientist (2003)*|
 |:--|:--|

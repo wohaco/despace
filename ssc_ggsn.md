@@ -1,5 +1,5 @@
 # SSC GGSN
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Swedish Space Corporation](swedish_sc.md), **[НС](scs.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Swedish Space Corporation](swedish_sc.md), **[НС](scs.md)**
 
 [TOC]
 

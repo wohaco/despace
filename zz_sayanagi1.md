@@ -1,5 +1,5 @@
 # Sayanagi, Kunio M.
-> 2019.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Hampton Univ.](hampton_univ.md), US. Atmospheric & Planetary Sciences. Associate Professor (2017)*|
 |:--|:--|

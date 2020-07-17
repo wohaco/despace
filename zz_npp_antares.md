@@ -1,5 +1,5 @@
 # НПП «Антарес»
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/n/npp_antares_logo1_thumb.jpg)](f/contact/n/npp_antares_logo1.png)|*Россия, 410012, г. Саратов, ул. Радищева, 27*|
 |:--|:--|

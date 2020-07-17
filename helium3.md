@@ -1,5 +1,5 @@
 # Гелий‑3
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**, [Топливо](fuel.md), [ЯР](nr.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**, [Топливо](fuel.md), [ЯР](nr.md)
 
 [TOC]
 

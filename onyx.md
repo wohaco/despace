@@ -1,5 +1,5 @@
 # Оникс
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ТМС](tms.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[ТМС](tms.md)**
 
 [TOC]
 

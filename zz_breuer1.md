@@ -1,5 +1,5 @@
 # Breuer, Doris
-> 2019.10.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.21 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[DLR](zz_dlr.md), EU(GR). Department of Planetary Physics. Head of the Department*|
 |:--|:--|

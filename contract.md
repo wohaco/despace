@@ -1,5 +1,5 @@
 # Договор
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [НД](doc.md), [ТЭО](fs.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [НД](doc.md), [ТЭО](fs.md)
 
 [TOC]
 

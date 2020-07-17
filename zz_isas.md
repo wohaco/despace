@@ -1,5 +1,5 @@
 # ISAS
-> 2019.01.28 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.01.28 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/isas_logo1_thumb.jpg)](f/contact/i/isas_logo1.png)|*3 Chome-1-1 Yoshinodai, Chuo Ward, Sagamihara, Kanagawa 252-5210, JP.*|
 |:--|:--|

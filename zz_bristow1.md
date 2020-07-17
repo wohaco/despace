@@ -1,5 +1,5 @@
 # Bristow, Thomas F.
-> 2019.07.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md) Ames Research Center, US. Research Scientist*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Кардашёв, Николай Семёнович
-> 2019.10.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Archive](faq.md)**, [Contact](contact.md)
+> 2019.10.17 **[🚀](../index/index.md) [despace](index.md)** → **[Archive](faq.md)**, [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[АКЦ ФИАН](zz_asc_fian.md), RU. Директор института*|
 |:--|:--|

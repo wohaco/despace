@@ -1,5 +1,5 @@
 # Svedhem, Håkan
-> 2019.10.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESTEC](zz_estec.md), EU. Project scientist*|
 |:--|:--|

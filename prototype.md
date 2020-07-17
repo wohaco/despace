@@ -1,5 +1,5 @@
 # Прототип
-> 2019.05.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [R&D](rnd.md)
+> 2019.05.10 **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [R&D](rnd.md)
 
 [TOC]
 

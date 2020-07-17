@@ -1,5 +1,5 @@
 # Bovolo, Francesca
-> 2019.10.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Fondazione Bruno Kessler (FBK-irst), IT. Unit head (since 2013)*|
 |:--|:--|

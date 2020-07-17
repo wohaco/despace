@@ -1,5 +1,5 @@
 # Takahashi, Yukihiro
-> 2019.10.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.27 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Hokkaido Univ., JP. Faculty of Science, Graduate School of Science, Department of Earth and Planetary Sciences, Cosmosciences. Professor*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Лин Индастриал
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/l/spacelin_logo1_thumb.jpg)](f/contact/l/spacelin_logo1.png)|*Россия, 115035, Москва, ул. Садовническая, д. 76/71, стр. 5*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Надёжность
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[Надёжность](rams.md)**, [Риск](risk.md), [EMC](emc.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Качество](quality.md), **[Надёжность](rams.md)**, [Риск](risk.md), [EMC](emc.md)
 
 [TOC]
 
@@ -144,7 +144,7 @@
 
 
 # Безопасность
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Безопасность](rams.md)**, [КД](doc.md), [Space](index.md), [Риск](risk.md), [EMC](emc.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Безопасность](rams.md)**, [КД](doc.md), [Space](index.md), [Риск](risk.md), [EMC](emc.md)
 
 [TOC]
 

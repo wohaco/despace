@@ -1,5 +1,5 @@
 # Околоземное космическое пространство
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Земля](earth.md)**, [Space](index.md), [Экология](ecology.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Земля](earth.md)**, [Space](index.md), [Экология](ecology.md)
 
 [TOC]
 

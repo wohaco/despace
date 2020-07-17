@@ -1,5 +1,5 @@
 # Systems Tool Kit
-> 2019.01.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
+> 2019.01.01 **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
 
 [TOC]
 

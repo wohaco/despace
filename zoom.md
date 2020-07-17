@@ -1,5 +1,5 @@
 # Zoom
-> 2020.04.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
+> 2020.04.16 **[🚀](../index/index.md) [despace](index.md)** → **[Soft](soft.md)**
 
 [TOC]
 

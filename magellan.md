@@ -1,5 +1,5 @@
 # Magellan
-> 2019.12.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.12.22 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 

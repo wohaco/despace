@@ -1,5 +1,5 @@
 # ЭРД
-> 2019.06.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
+> 2019.06.26 **[🚀](../index/index.md) [despace](index.md)** → **[ДУ](ps.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Smith, David Joseph
-> 2019.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ARC](zz_arc.md), US. Space Biosciences Research Branch. Deputy Branch Chief*|
 |:--|:--|

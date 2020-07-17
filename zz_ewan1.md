@@ -1,5 +1,5 @@
 # Ewan, Shannon
-> 2019.07.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. International Program Specialist*|
 |:--|:--|

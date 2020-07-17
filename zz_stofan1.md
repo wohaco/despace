@@ -1,5 +1,5 @@
 # Stofan, Ellen Renee
-> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Smithsonian Institution, National Air & Space Museum, US. Director*|
 |:--|:--|

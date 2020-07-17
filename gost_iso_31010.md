@@ -1,5 +1,5 @@
 # ГОСТ Р ИСО 31010
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[НД](doc.md)**, [Риск](risk.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[НД](doc.md)**, [Риск](risk.md)
 
 [TOC]
 

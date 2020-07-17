@@ -1,5 +1,5 @@
 # Simorgh
-> 2019.07.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
+> 2019.07.02 **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 

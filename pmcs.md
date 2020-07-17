@@ -1,5 +1,5 @@
 # 
-> .. ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> .. **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 

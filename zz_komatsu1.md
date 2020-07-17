@@ -1,5 +1,5 @@
 # Komatsu, Goro
-> 2019.10.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[IRSPS](zz_irsps.md), EU. Dipartimento di Ingegneria e Geologia (InGeo). Senior Scientist*|
 |:--|:--|

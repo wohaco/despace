@@ -1,5 +1,5 @@
 # NASA Parts Selection List
-> 2019.07.31 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)**
+> 2019.07.31 **[🚀](../index/index.md) [despace](index.md)** → **[](.md)**
 
 [TOC]
 

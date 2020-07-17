@@ -1,5 +1,5 @@
 # Стратификация
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ГЗУ](sss.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[ГЗУ](sss.md)**
 
 [TOC]
 

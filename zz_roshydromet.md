@@ -1,5 +1,5 @@
 # Росгидромет
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/r/rosgidromet_logo1_thumb.jpg)](f/contact/r/rosgidromet_logo1.png)|*Россия, 123995, Москва, ГСП‑5, Нововаганьковский пер., д. 12*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Esrange Space Center
-> 2019.03.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**
+> 2019.03.21 **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**
 
 [TOC]
 

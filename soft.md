@@ -1,5 +1,5 @@
 # Программное обеспечение
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), [GNC](gnc.md), **[Soft](soft.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), [GNC](gnc.md), **[Soft](soft.md)**
 
 [TOC]
 

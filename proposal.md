@@ -1,5 +1,5 @@
 # Proposal
-> 2020.04.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)** <mark>NOCAT</mark>
+> 2020.04.16 **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)** <mark>NOCAT</mark>
 
 [TOC]
 

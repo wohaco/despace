@@ -1,5 +1,5 @@
 # Модель
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Модель](model.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Модель](model.md)**
 
 [TOC]
 

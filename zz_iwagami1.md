@@ -1,5 +1,5 @@
 # Iwagami, Naomoto
-> 2019.10.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.27 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Tokyo Univ., JP. Graduate School of Science, Department of Earth and Planetary Science. Associate professor*|
 |:--|:--|

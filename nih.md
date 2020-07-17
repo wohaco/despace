@@ -1,5 +1,5 @@
 # Not invented here
-> 2020.03.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Research](project.md.md)**
+> 2020.03.18 **[🚀](../index/index.md) [despace](index.md)** → **[Research](project.md.md)**
 
 [TOC]
 

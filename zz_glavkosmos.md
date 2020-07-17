@@ -1,5 +1,5 @@
 # Главкосмос
-> 2019.08.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/g/glavkosmos_logo1_thumb.jpg)](f/contact/g/glavkosmos_logo1.png)|*Россия, 127473, Москва, ул. Краснопролетарская, д. 9*|
 |:--|:--|

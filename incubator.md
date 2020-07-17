@@ -1,5 +1,5 @@
 # Инкубатор
-> 2019.11.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Don’t Panic](dont_panic.md)**
+> 2019.11.29 **[🚀](../index/index.md) [despace](index.md)** → **[Don’t Panic](dont_panic.md)**
 
 [TOC]
 

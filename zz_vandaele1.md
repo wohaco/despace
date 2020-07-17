@@ -1,5 +1,5 @@
 # Vandaele, Ann Carine
-> 2019.10.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Royal Belgian Institute for Space Aeronomy (BIRA-ISAB), EU (BE). Head of Planetary Aeronomy Group*|
 |:--|:--|

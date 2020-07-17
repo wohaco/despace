@@ -1,5 +1,5 @@
 # NFPA 704
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Безопасность](rams.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Безопасность](rams.md)**
 
 [TOC]
 

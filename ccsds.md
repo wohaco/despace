@@ -1,5 +1,5 @@
 # Consultative Committee for Space Data Systems
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[НД](doc.md)**, [Радиосвязь](comms.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), **[НД](doc.md)**, [Радиосвязь](comms.md)
 
 [TOC]
 

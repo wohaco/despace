@@ -1,5 +1,5 @@
 # Electron
-> 2019.05.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
+> 2019.05.20 **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 

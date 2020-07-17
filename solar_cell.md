@@ -1,5 +1,5 @@
 # ФЭП
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БС](sp.md)**
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → **[БС](sp.md)**
 
 [TOC]
 

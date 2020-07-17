@@ -1,5 +1,5 @@
 # 5D optical data storage
-> 2020.01.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
+> 2020.01.21 **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
 
 [TOC]
 

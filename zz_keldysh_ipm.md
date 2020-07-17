@@ -1,5 +1,5 @@
 # ИПМ Келдыша
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/ipm_keldysh_logo1_thumb.png)](f/contact/i/ipm_keldysh_logo1.png)|*Россия, 125047, Москва, Миусская пл., д. 4*|
 |:--|:--|

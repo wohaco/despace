@@ -1,5 +1,5 @@
 # Sirius TCM
-> 2019.08.06 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
+> 2019.08.06 **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
 
 [TOC]
 

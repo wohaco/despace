@@ -1,5 +1,5 @@
 # Epsilon
-> 2019.05.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
+> 2019.05.23 **[🚀](../index/index.md) [despace](index.md)** → **[LV](lv.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Электронная компонентная база
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), **[ЭКБ](.md)**, [EMC](emc.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), **[ЭКБ](.md)**, [EMC](emc.md)
 
 [TOC]
 

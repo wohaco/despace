@@ -1,5 +1,5 @@
 # Солнечная постоянная
-> 2019.07.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**
+> 2019.07.20 **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**
 
 [TOC]
 

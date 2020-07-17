@@ -1,5 +1,5 @@
 # ТСНН УТК
-> 2019.08.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
+> 2019.08.02 **[🚀](../index/index.md) [despace](index.md)** → **[Камера](camera.md)**
 
 [TOC]
 

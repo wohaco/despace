@@ -1,5 +1,5 @@
 # Usuda Deep Space Center
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [JAXA](zz_jaxa.md), **[НС](scs.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [JAXA](zz_jaxa.md), **[НС](scs.md)**
 
 [TOC]
 

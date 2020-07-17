@@ -1,5 +1,5 @@
 # Метод Шульце
-> 2019.01.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.01.14 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

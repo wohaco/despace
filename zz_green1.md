@@ -1,5 +1,5 @@
 # Green, James Lauer
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Science Mission Directorate — Planetary Science Division. Head Scientist*|
 |:--|:--|

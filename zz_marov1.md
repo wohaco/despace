@@ -1,5 +1,5 @@
 # Маров, Михаил Яковлевич
-> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИПМ Келдыша](zz_keldysh_ipm.md), RU. Профессор*|
 |:--|:--|

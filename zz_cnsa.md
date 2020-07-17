@@ -1,6 +1,6 @@
 # CNSA
 > **[🚀](../index/index.md) [despace](index.md)**  
->  ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)Версия ..
+>  **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)Версия ..
 
 |[![](f/contact/c/cnsa_logo1_thumb.jpg)](f/contact/c/cnsa_logo1.png)|*…*|
 |:--|:--|

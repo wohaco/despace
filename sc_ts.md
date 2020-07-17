@@ -1,5 +1,5 @@
 # Типичные формы КА
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[КА](sc.md)**, [SGM](sgm.md), [Проекты](project.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[КА](sc.md)**, [SGM](sgm.md), [Проекты](project.md)
 
 [TOC]
 

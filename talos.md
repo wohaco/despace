@@ -1,5 +1,5 @@
 # TALOS
-> 2020.04.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [NASA](zz_nasa.md), **[PS](ps.md)**
+> 2020.04.04 **[🚀](../index/index.md) [despace](index.md)** → [NASA](zz_nasa.md), **[PS](ps.md)**
 
 [TOC]
 

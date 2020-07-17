@@ -1,5 +1,5 @@
 # БАППТ
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[СЭА](ea_sys.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[СЭА](ea_sys.md)**
 
 [TOC]
 

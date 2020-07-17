@@ -1,5 +1,5 @@
 # Изделие
-> 2019.05.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [SGM](sgm.md), [Проекты](project.md)
+> 2019.05.10 **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**, [SGM](sgm.md), [Проекты](project.md)
 
 [TOC]
 

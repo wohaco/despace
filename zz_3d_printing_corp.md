@@ -1,5 +1,5 @@
 # 3D Printing Corporation
-> 2020.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/3d_printing_corp_logo1_thumb.png)](f/contact/3d_printing_corp_logo1.png)|*75-1 Onocho, Tsurumi Ward, Yokohama, Kanagawa 230-0046, Japan*|
 |:--|:--|

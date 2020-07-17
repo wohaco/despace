@@ -1,5 +1,5 @@
 # ADS
-> 2019.08.29 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.29 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/ads_logo1_thumb.jpg)](f/contact/a/ads_logo1.png)|*Мюнхен, Германия*|
 |:--|:--|

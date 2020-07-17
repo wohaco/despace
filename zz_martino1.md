@@ -1,5 +1,5 @@
 # Martino, Paolo
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md) CDF, EU. System & cost engineering division. Cost & system engineering tasks*|
 |:--|:--|

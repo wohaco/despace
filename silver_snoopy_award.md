@@ -1,5 +1,5 @@
 # Silver Snoopy award
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Безопасность](rams.md), **[Space](index.md)**, [ПКА](sc.md), [Проекты](project.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Безопасность](rams.md), **[Space](index.md)**, [ПКА](sc.md), [Проекты](project.md)
 
 [TOC]
 

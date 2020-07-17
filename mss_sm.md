@@ -1,5 +1,5 @@
 # MSS
-> 2019.08.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[СД](sensor.md)**
+> 2019.08.01 **[🚀](../index/index.md) [despace](index.md)** → **[СД](sensor.md)**
 
 [TOC]
 

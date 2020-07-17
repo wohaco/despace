@@ -1,5 +1,5 @@
 # Ansari, Arif Husain
-> 2019.07.17 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[BSIP](zz_bsip.md), IN. Precambrian Palaeobiology*|
 |:--|:--|

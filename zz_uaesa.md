@@ -1,5 +1,5 @@
 # UAESA
-> 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/u/uaesa_logo1_thumb.jpg)](f/contact/u/uaesa_logo1.png)|*CJJC+Q5 Abu Dhabi, United Arab Emirates*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Свод знаний по управлению проектами
-> 2019.04.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.04.05 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

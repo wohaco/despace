@@ -1,5 +1,5 @@
 # COSPAR
-> 2020.07.02 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), [COSPAR](cospar.md), **[Events](event.md)**
+> 2020.07.02 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md), [COSPAR](cospar.md), **[Events](event.md)**
 
 [TOC]
 

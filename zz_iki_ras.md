@@ -1,5 +1,5 @@
 # ИКИ РАН
-> 2019.08.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.04 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/i/iki_ran_logo1_thumb.jpg)](f/contact//_logo1.png)|*Россия, 117997, Москва, Профсоюзная 84/32*|
 |:--|:--|

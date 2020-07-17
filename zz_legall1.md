@@ -1,5 +1,5 @@
 # Le Gall, Alice Anne
-> 2019.10.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.21 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LATMOS](zz_latmos.md), EU(FR). Associate Professor*|
 |:--|:--|

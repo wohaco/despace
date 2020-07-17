@@ -1,5 +1,5 @@
 # Peterson, Craig E.
-> 2019.10.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.11 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*US. Senior Spacecraft Systems Engineer & Space Mission Architect. Senior Private Consultant*|
 |:--|:--|

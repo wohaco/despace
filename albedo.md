@@ -1,5 +1,5 @@
 # Albedo
-> 2020.05.14 ┊ **[🚀](../index/index.md) [despace](index.md)** → [SGM](sgm.md)
+> 2020.05.14 **[🚀](../index/index.md) [despace](index.md)** → [SGM](sgm.md)
 
 [TOC]
 

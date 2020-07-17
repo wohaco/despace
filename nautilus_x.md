@@ -1,5 +1,5 @@
 # Nautilus-X
-> 2019.03.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → [косм.города‑бублики.md](rwss.md), **[Project](project.md)**
+> 2019.03.20 **[🚀](../index/index.md) [despace](index.md)** → [косм.города‑бублики.md](rwss.md), **[Project](project.md)**
 
 [TOC]
 

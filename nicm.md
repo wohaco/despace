@@ -1,5 +1,5 @@
 # NICM
-> 2019.11.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ТЭО](fs.md)**
+> 2019.11.26 **[🚀](../index/index.md) [despace](index.md)** → **[ТЭО](fs.md)**
 
 [TOC]
 

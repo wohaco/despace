@@ -1,5 +1,5 @@
 # Эффект Оберта
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БНО](nnb.md)**, [ДУ](ps.md), [Control](control.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[БНО](nnb.md)**, [ДУ](ps.md), [Control](control.md)
 
 [TOC]
 

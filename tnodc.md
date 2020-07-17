@@ -1,5 +1,5 @@
 # Формуляр
-> 2019.09.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЭД](doc.md)**
+> 2019.09.23 **[🚀](../index/index.md) [despace](index.md)** → **[ЭД](doc.md)**
 
 [TOC]
 

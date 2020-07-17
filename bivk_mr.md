@@ -1,5 +1,5 @@
 # БИВК-МР
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[ЦВМ](obc.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[ЦВМ](obc.md)**
 
 [TOC]
 

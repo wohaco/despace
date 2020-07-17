@@ -1,5 +1,5 @@
 # ITAR
-> 2019.08.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
+> 2019.08.10 **[🚀](../index/index.md) [despace](index.md)** → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 

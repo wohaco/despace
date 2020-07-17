@@ -1,5 +1,5 @@
 # VEXAG
-> 2019.11.08 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Events](event.md)**, [Venus](venus.md), [VEXAG](vexag.md)
+> 2019.11.08 **[🚀](../index/index.md) [despace](index.md)** → **[Events](event.md)**, [Venus](venus.md), [VEXAG](vexag.md)
 
 [TOC]
 

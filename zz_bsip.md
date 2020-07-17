@@ -1,5 +1,5 @@
 # BSIP
-> 2019.08.11 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.11 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/b/bsip_logo1_thumb.jpg)](f/contact/b/bsip_logo1.png)|*53, University Road, Lucknow, Uttar Pradesh 226007, India*|
 |:--|:--|

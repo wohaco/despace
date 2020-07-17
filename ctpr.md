@@ -1,5 +1,5 @@
 # КПЭО
-> 2019.11.22 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Документация](doc.md), **[Test](test.md)**
+> 2019.11.22 **[🚀](../index/index.md) [despace](index.md)** → [Документация](doc.md), **[Test](test.md)**
 
 [TOC]
 

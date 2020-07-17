@@ -1,5 +1,5 @@
 # Documents
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Doc](doc.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Doc](doc.md)**
 
 [TOC]
 

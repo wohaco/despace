@@ -1,5 +1,5 @@
 # SSR
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[ЗУ](ds.md)**
 
 [TOC]
 

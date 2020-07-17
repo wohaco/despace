@@ -1,5 +1,5 @@
 # Radke, Michael J.
-> 2019.07.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.10 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[J.Hopkins Univ.](zz_jhu.md), US. Planetary Science. Graduate Student*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Ротор
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ПУС](lag.md), [СЭС](sps.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [ПУС](lag.md), [СЭС](sps.md)
 
 [TOC]
 

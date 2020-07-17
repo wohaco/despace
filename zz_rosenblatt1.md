@@ -1,5 +1,5 @@
 # Rosenblatt, Pascal
-> 2019.10.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*GEOAZUR, FR. Senior Scientist in planetary geodesy*|
 |:--|:--|

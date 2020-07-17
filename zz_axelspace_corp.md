@@ -1,5 +1,5 @@
 # Axelspace
-> 2020.07.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/a/axelspace_logo1_thumb.jpg)](f/contact/a/axelspace_logo1.png)|*Clip Nihonbashi Building 2-3F, 3-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo 103-0023, Japan*|
 |:--|:--|

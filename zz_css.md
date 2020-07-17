@@ -1,5 +1,5 @@
 # CSS
-> 2019.08.13 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/c/css_logo1_thumb.jpg)](f/contact/c/css_logo1.png)|*P.O. Box 19015, 360-A Bloor Street West, Toronto, Ontario, M5S 1X0, Canada*|
 |:--|:--|

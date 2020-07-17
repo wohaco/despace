@@ -1,5 +1,5 @@
 # ЦНИИХМ
-> 2019.08.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/c/cniihm_logo1_thumb.jpg)](f/contact/c/cniihm_logo1.png)|*16-А, Нагатинская, Москва, 115487, Россия*|
 |:--|:--|

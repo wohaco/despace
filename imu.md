@@ -1,5 +1,5 @@
 # Гироскоп
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[Гироскоп](imu.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), **[Гироскоп](imu.md)**
 
 [TOC]
 

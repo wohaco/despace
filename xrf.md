@@ -1,5 +1,5 @@
 # XRF
-> 2020.01.24 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
+> 2020.01.24 **[🚀](../index/index.md) [despace](index.md)** → **[Project](project.md)**
 
 [TOC]
 

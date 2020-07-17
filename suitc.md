@@ -1,5 +1,5 @@
 # ТХСЧ
-> 2019.09.18 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
+> 2019.09.18 **[🚀](../index/index.md) [despace](index.md)** → **[R&D](rnd.md)**
 
 [TOC]
 

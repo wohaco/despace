@@ -1,5 +1,5 @@
 # Xplore
-> 2020.01.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.01.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/x/xplore_logo1_thumb.png)](f/contact/x/xplore_logo1.png)|*7683 SE 27th St. #308, Mercer Island, WA 98040, US*|
 |:--|:--|

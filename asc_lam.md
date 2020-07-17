@@ -1,5 +1,5 @@
 # Асботекстолит
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**
 
 [TOC]
 

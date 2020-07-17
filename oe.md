@@ -1,5 +1,5 @@
 # Бортовая аппаратура
-> 2019.05.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**
+> 2019.05.10 **[🚀](../index/index.md) [despace](index.md)** → **[OE](oe.md)**
 
 [TOC]
 

@@ -1,5 +1,5 @@
 # Report
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Док‑ты](doc.md), **[Отчёт](report.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Док‑ты](doc.md), **[Отчёт](report.md)**
 
 [TOC]
 
@@ -25,7 +25,7 @@
 
 
 ## Пояснительная записка
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[КД](doc.md)**, [НД](doc.md), [R&D](rnd.md), [Отчёт](report.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[КД](doc.md)**, [НД](doc.md), [R&D](rnd.md), [Отчёт](report.md)
 
 [TOC]
 

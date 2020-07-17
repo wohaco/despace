@@ -1,5 +1,5 @@
 # SX-SUNR-01
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[СД](sensor.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[СД](sensor.md)**
 
 [TOC]
 

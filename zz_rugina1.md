@@ -1,5 +1,5 @@
 # Rugina, Ana
-> 2019.10.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESTEC](zz_estec.md), UE (NL). System Engineer*|
 |:--|:--|

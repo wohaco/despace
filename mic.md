@@ -1,5 +1,5 @@
 # Массово‑инерционные характеристики
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), [МИХ](.md), **[Модель](model.md)**, [Control](control.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [GNC](gnc.md), [МИХ](.md), **[Модель](model.md)**, [Control](control.md)
 
 [TOC]
 

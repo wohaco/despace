@@ -1,5 +1,5 @@
 # LSF
-> 2020.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/l/lsf_logo1_thumb.png)](f/contact/l/lsf_logo1.png)|*Libre Space Foundation, PO Box 24063, 11110 Athens, Greece*|
 |:--|:--|

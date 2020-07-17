@@ -1,5 +1,5 @@
 # Экология
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Экология](ecology.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Экология](ecology.md)**
 
 [TOC]
 

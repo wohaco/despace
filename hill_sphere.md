@@ -1,5 +1,5 @@
 # Сфера Хилла
-> 2019.09.20 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[БНО](nnb.md)**, [Space](index.md)
+> 2019.09.20 **[🚀](../index/index.md) [despace](index.md)** → **[БНО](nnb.md)**, [Space](index.md)
 
 [TOC]
 

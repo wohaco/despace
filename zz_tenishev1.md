@@ -1,5 +1,5 @@
 # Tenishev, Valeriy
-> 2019.07.07 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), US. Department of Atmospheric, Oceanic & Space Sciences, Associate Research Scientist*|
 |:--|:--|

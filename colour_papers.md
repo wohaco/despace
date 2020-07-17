@@ -1,5 +1,5 @@
 # Цветные книги
-> 2019.11.04 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Док](doc.md)**
+> 2019.11.04 **[🚀](../index/index.md) [despace](index.md)** → **[Док](doc.md)**
 
 [TOC]
 

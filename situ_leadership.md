@@ -1,5 +1,5 @@
 # Ситуационное лидерство
-> 2019.07.26 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
+> 2019.07.26 **[🚀](../index/index.md) [despace](index.md)** → **[Control](control.md)**
 
 [TOC]
 

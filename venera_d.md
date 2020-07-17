@@ -1,5 +1,5 @@
 # Venera-D
-> 2019.10.10 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Венера](venus.md), **[Проекты](project.md)**
+> 2019.10.10 **[🚀](../index/index.md) [despace](index.md)** → [Венера](venus.md), **[Проекты](project.md)**
 
 [TOC]
 

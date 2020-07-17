@@ -1,5 +1,5 @@
 # УДМ-15
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ДМ](rw.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[ДМ](rw.md)**
 
 [TOC]
 

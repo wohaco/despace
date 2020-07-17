@@ -1,5 +1,5 @@
 # Hunter, Gary W.
-> 2019.07.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[GRC](zz_grc.md), US. Senior Electronics Engineering*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Девятая планета
-> 2019.11.27 ┊ **[🚀](../index/index.md) [despace](index.md)** → [9‑я планета](planet_9.md), **[Space](index.md)**
+> 2019.11.27 **[🚀](../index/index.md) [despace](index.md)** → [9‑я планета](planet_9.md), **[Space](index.md)**
 
 [TOC]
 

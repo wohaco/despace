@@ -1,5 +1,5 @@
 # Атмосфера Земли
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [ВВФ](ef.md), [Земля](earth.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [ВВФ](ef.md), [Земля](earth.md)
 
 [TOC]
 

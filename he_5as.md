@@ -1,5 +1,5 @@
 # HE-5AS
-> 2019.05.24 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
+> 2019.05.24 **[🚀](../index/index.md) [despace](index.md)** → **[ЗД](sensor.md)**
 
 [TOC]
 

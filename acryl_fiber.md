@@ -1,5 +1,5 @@
 # Нитрон
-> 2019.12.16 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**
+> 2019.12.16 **[🚀](../index/index.md) [despace](index.md)** → **[SGM](sgm.md)**
 
 [TOC]
 

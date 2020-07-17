@@ -1,5 +1,5 @@
 # Система контроля электризации
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), **[EMC](emc.md)**
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [OE](oe.md), **[EMC](emc.md)**
 
 [TOC]
 

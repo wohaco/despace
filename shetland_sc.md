@@ -1,5 +1,5 @@
 # Shetland Space Center
-> 2020.06.30 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**
+> 2020.06.30 **[🚀](../index/index.md) [despace](index.md)** → **[Spaceport](spaceport.md)**
 
 [TOC]
 

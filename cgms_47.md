@@ -1,5 +1,5 @@
 # CGMS 47
-> 2019.05.21 ┊ **[🚀](../index/index.md) [despace](index.md)** → [CGMS](cgms.md), **[Events](event.md)**
+> 2019.05.21 **[🚀](../index/index.md) [despace](index.md)** → [CGMS](cgms.md), **[Events](event.md)**
 
 [TOC]
 

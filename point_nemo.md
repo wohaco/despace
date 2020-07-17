@@ -1,5 +1,5 @@
 # Точка Немо
-> 2019.05.12 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Земля](earth.md), [Space](index.md)
+> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → [Земля](earth.md), [Space](index.md)
 
 [TOC]
 

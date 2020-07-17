@@ -1,5 +1,5 @@
 # JAXA
-> 2019.08.05 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|*Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Chalex, Remy
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), CDF, EU. System Engineer в ESA, Team Leader Concurrent Design Facility в ESA, System Engineer for the ESA в Terma.*|
 |:--|:--|

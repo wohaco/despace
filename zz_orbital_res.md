@@ -1,5 +1,5 @@
 # Orbital Research Ltd.
-> 2019.08.15 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/o/orbital_res_logo1_thumb.png)](f/contact/o/orbital_res_logo1.png)|*8652 Commerce Court, Burnaby, BC, V5A 4N6, Canada*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # Mankins, John C.
-> 2020.05.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.05.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Mankins Space Technology, Inc., USA.*|
 |:--|:--|

@@ -1,5 +1,5 @@
 # GEER
-> 2020.01.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → [GRC](zz_grc.md), [Venus](venus.md), **[Test](test.md)**
+> 2020.01.23 **[🚀](../index/index.md) [despace](index.md)** → [GRC](zz_grc.md), [Venus](venus.md), **[Test](test.md)**
 
 [TOC]
 

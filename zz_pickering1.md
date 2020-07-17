@@ -1,5 +1,5 @@
 # Pickering, Andrew
-> 2019.04.01 ┊ **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md) CDF, EU. Technical Author participating in design studies & writing reports on future ESA missions*|
 |:--|:--|

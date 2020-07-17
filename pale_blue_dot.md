@@ -1,5 +1,5 @@
 # Pale Blue Dot
-> 2019.08.23 ┊ **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**, [Земля](earth.md)
+> 2019.08.23 **[🚀](../index/index.md) [despace](index.md)** → **[Space](index.md)**, [Земля](earth.md)
 
 [TOC]
 
