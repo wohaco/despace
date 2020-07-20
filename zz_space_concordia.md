@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://spaceconcordia.github.io/><br> <https://www.concordia.ca/alumni-friends/giving-to-concordia/fundone/space-concordia.html> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Space Concordia** is a student society at [Concordia University](zz_concordia_univ.md) that throws its members at challenging space & aerospace projects, to yield awesome results. We win awards at national & international competitions, we showcase our school, but most importantly: Space Concordia teaches & trains excellent young scientists & engineers through hands-on work & an attitude of persistence & collaboration.
 

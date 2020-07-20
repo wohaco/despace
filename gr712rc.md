@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|  3 000 (300 000)   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)|  |
-|[Тепловой режим](tcs.md), °C|  от −55 до +125 °C  |
+|[Тепловой режим](tcs.md), ℃|  от −55 до +125 ℃  |
 |Consumption, W|   |
 
 </small>

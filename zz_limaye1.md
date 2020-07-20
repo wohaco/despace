@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Wisconsin Univ.](zz_wisconsin_univ.md), US. Space Science & Engineering Center. Senior scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(608)262-95-41, fax: +1(608)262-59-74; *mobile:* +1(608)235-43-02 |
+|Tel|*раб.:* +1(608)262-95-41, ℻: +1(608)262-59-74; *mobile:* +1(608)235-43-02 |
 |E‑mail| <sanjay.limaye@ssec.wisc.edu> |
 |B‑day, addr.| 1951.01.24 (Индия) / … |
 || ![](f/contact/l/limaye_001_photo.jpg) <mark>nosign</mark> |

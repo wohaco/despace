@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Senior Engineer*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)354-15-31, fax: +1(818)393-32-54; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(818)354-15-31, ℻: +1(818)393-32-54; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <jlhall@jpl.caltech.edu> |
 |B‑day, addr.| 1962.05.13 (Канада) / … |
 || ![](f/contact/h/hall_001_photo.jpg) [![](f/contact/h/hall_001_sign_thumb.jpg)](f/contact/h/hall_001_sign.png) |

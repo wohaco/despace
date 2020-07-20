@@ -34,7 +34,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| 100 (10 000)  | 100 (10 000) |
 |Resource, h (y)|   |  |
 |[Lifetime](lifetime.md), h (y)| 43 800 (5)  | 43 800 (5) |
-|[Тепловой режим](tcs.md), °C| от –50 до +85 °C  | от –50 до +85 °C |
+|[Тепловой режим](tcs.md), ℃| от –50 до +85 ℃  | от –50 до +85 ℃ |
 |Consumption, W| 0.25  |0 (пассивный)  |
 || [![](f/sensor/f/fss_pic1_thumb.jpg)](f/sensor/f/fss_pic1.jpg) | [![](f/sensor/f/fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_mini_pic1.jpg) |
 

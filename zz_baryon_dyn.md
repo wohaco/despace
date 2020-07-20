@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@baryondynamics.com> |
 |Link| <https://www.baryondynamics.com/> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Baryon Dynamics Incorporated** is a company specializes in Power and Propulsion.
 

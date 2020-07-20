@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@xiphos.com> |
 |Link| <http://xiphos.com/> |
-|Tel| +1(514)847-94-74, fax: … |
+|Tel| +1(514)847-94-74, ℻: … |
 
 **Xiphos Technologies** was created with the objective of migrating terrestrial computing & network communication techniques into harsh environments, particularly in the unmanned aviation & space sectors. This first took form with the development of high‑performance, networked processors designed for in‑situ control & data processing, linked by high‑speed, fault tolerant networks.
 

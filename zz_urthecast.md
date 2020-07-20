@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <cx@urthecast.com> |
 |Link| <http://www.urthecast.com/><br> <https://en.wikipedia.org/wiki/Urthecast> |
-|Tel| +1(604)265-62-66, fax: … |
+|Tel| +1(604)265-62-66, ℻: … |
 
 **UrtheCast** Corp. is a Vancouver-based technology company that serves the rapidly evolving geospatial & geoanalytics markets with a wide range of information-rich products & services.
 

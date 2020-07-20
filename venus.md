@@ -71,7 +71,7 @@ And a bit of animation.
 |[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 kg/m³.<br> **Pressure:** 9.3 MPa (93 bar), surface.<br> **Winds:** 0.3 ‑ 1 m/s (surface); up to 100 m/s (65 km). |
 |[Illumination](illum.md)| 200 (5.5°) ‑ 3 000 (90°) lx (surface, 0.2 Earth’s) |
 |Radiation| <mark>TBD</mark> |
-|Temperature| 737 К (464 °C) near surface |
+|Temperature| 737 К (464 ℃) near surface |
 
 
 
@@ -80,7 +80,7 @@ And a bit of animation.
 |:--|
 | ![](f/aob/venus/venus_atmosphere_ru.png) |
 
-The CO₂‑rich atmosphere generates the strongest greenhouse effect in the Solar System, creating the surface temperature of ~ 735 K (462 °C, 864 °F), higher than that used for sterilization, hotter than [Mercury’s](mercury.md) (min surface temperature of 53 K, −220 °C, −364 °F, & maximum — 700 K, 427 °C, 801 °F), even though Venus is nearly twice Mercury’s distance from the Sun & thus receives ~ 25 % of Mercury’s solar irradiance. The highest Venus point, Maxwell Montes, is the coolest point with a temperature of ~ 655 K (380 °C; 715 °F) & a pressure of ~ 4.5 MPa (45 bar).
+The CO₂‑rich atmosphere generates the strongest greenhouse effect in the Solar System, creating the surface temperature of ~ 735 K (462 ℃, 864 ℉), higher than that used for sterilization, hotter than [Mercury’s](mercury.md) (min surface temperature of 53 K, −220 ℃, −364 ℉, & maximum — 700 K, 427 ℃, 801 ℉), even though Venus is nearly twice Mercury’s distance from the Sun & thus receives ~ 25 % of Mercury’s solar irradiance. The highest Venus point, Maxwell Montes, is the coolest point with a temperature of ~ 655 K (380 ℃; 715 ℉) & a pressure of ~ 4.5 MPa (45 bar).
 
 Thermal inertia & the heat transfer by the lower atmosphere winds mean that the surface temperature doesn’t vary significantly between the planet’s two hemispheres, those facing & not facing the Sun, despite Venus’s extremely slow rotation. Surface winds are slow (a few km/h), but because of the atmosphere high density at the surface they exert much force against obstructions, & transport dust & small stones across the surface. This alone would make it difficult for a human to walk through, even without the heat & pressure. The high altitude winds become faster over time.
 
@@ -606,14 +606,14 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑001.** Atmosphere: preliminary model.
 
    1. **[Mariner‑2](mariner_2.md)** (1962.08.27). 1st Venusian observation. Found a hot surface & cool clouds.
-   1. **[Venera‑4](venera_4.md)** (1967.06.12). Direct measurements proving the hot surface. The SC was destroyed at 262 °C & 2.2 MPa, the atmo density was higher than expected. Atmo composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %.
+   1. **[Venera‑4](venera_4.md)** (1967.06.12). Direct measurements proving the hot surface. The SC was destroyed at 262 ℃ & 2.2 MPa, the atmo density was higher than expected. Atmo composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %.
    1. **[Mariner‑5](mariner_5.md)** (1967.06.14). Radio occultation data helped to understand the temp./pres. data from the Venera 4, so Venus have a very hot surface & the very dense atmo.
-   1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Landers during the descent (55 ‑ 18 km) measured the temperature (25 ‑ 320 °C), pressure (0.05 ‑ 2.7 MPa), illumination, chemical composition: CO₂ 97 %, N₂ 2 %, O₂  ≤ 1 %, H₂O traces.
-   1. **[Venera‑7](venera_7.md)** (1970.08.17). Found the 474 °C & 9.2 MPa, & the atmo is CO₂ 97 %.
+   1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Landers during the descent (55 ‑ 18 km) measured the temperature (25 ‑ 320 ℃), pressure (0.05 ‑ 2.7 MPa), illumination, chemical composition: CO₂ 97 %, N₂ 2 %, O₂  ≤ 1 %, H₂O traces.
+   1. **[Venera‑7](venera_7.md)** (1970.08.17). Found the 474 ℃ & 9.2 MPa, & the atmo is CO₂ 97 %.
    1. **[Venera‑8](venera_8.md)** (1972.03.27). 1st atmo high‑altitude profile, wind speed & luminous flux in H = 55 ‑ 0 km. This explained the nature of high temperature due to the greenhouse effect & the presence of a sub‑cloud haze, & estimated the location of clouds.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Detected 4 cloud layers that never get mixed, equatorial areas of high pressure with solar heat generated convective flows created vortices tending toward the poles; the cloud speed ~ 100 m/s, 200 m/s in the polar regions, & ultrasonic at the poles.
-   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Measured the clouds, atmo chemicals, surface of 485 °C & 9.1 MPa, & surface light levels, surface wind speed, pressure at all heights.
-   1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Measured the temperatures below the H = 50 km: 448 ‑ 459 °C on the surface, the ground pressure is 8.62 ‑ 9.45 MPa. The wind speed is 200 m/s in the middle cloud layer, 50 m/s at the lower layer, & 1 m/s at the ground.
+   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Measured the clouds, atmo chemicals, surface of 485 ℃ & 9.1 MPa, & surface light levels, surface wind speed, pressure at all heights.
+   1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Measured the temperatures below the H = 50 km: 448 ‑ 459 ℃ on the surface, the ground pressure is 8.62 ‑ 9.45 MPa. The wind speed is 200 m/s in the middle cloud layer, 50 m/s at the lower layer, & 1 m/s at the ground.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Determined the atmo density gradient, the region of opacity, the chemical composition of cloud aerosols, the overall composition of the atmo, profiles of H₂O vapor content, horizontal wind speed & direction.
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). A Northern hemisphere map in res 0.9 ‑ 2.5 km & 1 : 5 000 000, 25 % of the surface. Found various surface formations.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). The balloon & landers. Meteo parameters at H = 50 km: temp./pres., vertical wind gusts, visibility range in the clouds, average illumination, glow on the night side & the presence of light flashes from lightning.
@@ -642,11 +642,11 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 **EVN‑003 (Т).** Exploration: from inside of atmosphere.
 
-   1. **[Venera‑4](venera_4.md)** (1967.06.12). 1st entrance into the atmo, measurements during the descent (temp./pres., composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %) for 93 min partially with the parachute. SC failed at 262 °C & 2.2 MPa.
-   1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Venera 5 lander sent readouts for 53 min & failed at 320 °C & 2.61 MPa; Venera 4 results confirmed. Venera 6 lander — readouts for 51 min & failed at H = 10 ‑ 12 km. The photometer failed, the atmo sampled at 0.2 & 1 MPa.
+   1. **[Venera‑4](venera_4.md)** (1967.06.12). 1st entrance into the atmo, measurements during the descent (temp./pres., composition: CO₂ 90 ‑ 93 %, O₂ 0.4 ‑ 0.8 %, N₂ 7 %, H₂O 0.1 ‑ 1.6 %) for 93 min partially with the parachute. SC failed at 262 ℃ & 2.2 MPa.
+   1. **[Venera‑5](venera_5_6.md)** (1969.01.05), **[Venera‑6](venera_5_6.md)** (1969.01.10). Venera 5 lander sent readouts for 53 min & failed at 320 ℃ & 2.61 MPa; Venera 4 results confirmed. Venera 6 lander — readouts for 51 min & failed at H = 10 ‑ 12 km. The photometer failed, the atmo sampled at 0.2 & 1 MPa.
    1. **[Venera‑7](venera_7.md)** (1970.08.17). Atmo measurements during the descent from 60 km, CO₂ 97 %. 53 min of transmitted information, incl. ~ 20 min from the surface.
    1. **[Venera‑8](venera_8.md)** (1972.03.27). Accurate in situ measurements of atmo temp./pres. tied to the altitude, wind & light, structure of the clouds.
-   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Measured atmo chemicals incl. HCl, HF, Br, I, & cloud’s thickness; surface 485 °C & 9.1 MPa. Measured the surface wind speed of 3.5 m/s, & atmo temp./pres. at various heights, & light levels. Surface photos.
+   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Measured atmo chemicals incl. HCl, HF, Br, I, & cloud’s thickness; surface 485 ℃ & 9.1 MPa. Measured the surface wind speed of 3.5 m/s, & atmo temp./pres. at various heights, & light levels. Surface photos.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). 4 landers (1 large, 3 small) descend within an hour transmitting the obtained data. Confirmed presence of the mainly H₂SO₄ clouds. 2 landers survived the landing, & one was able to transmit for 67 min.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Measured the atmo temperature, density, aerosol composition, thunderstorm activity, cloud particles, altitude profiles of horizontal wind speed & direction. 1st realistic profile of the content of H₂O vapor. The microphones failed.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Measured the atmo density, structure, microphysical characteristics, horizontal wind profiles & turbulence estimates. The atmo content: CO₂ 97 %, molecular O 4.0 ± 0.3 %, Ar, Ne, Kr, Xe.
@@ -716,8 +716,8 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑8](venera_8.md)** (1972.03.27). Accurate in situ measurements of temp./pres. on the surface for 50 min 11 s, the light level was almost constant (~ twilight on a Earth’s cloudy day), found a relatively clean atmo below the clouds. The surface composition was similar to Alkali basalt.
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). 1st images from the surface of another planet: smooth with numerous stones, pancake shape lava & weathered rocks, 14 000 lux. Measured the surface wind speed (3.5 m/s), atmo temp./pres., light levels.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Two landers survived the impact of the surface, & one of them transmitted data for 67 min.
-   1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Venera 11 lasted for 95 min (458 ± 5 °C & 9.1 ± 0.2 MPa), Venera 12 (468 ± 5 °C & 9.2 ± 0.2 MPa) — 110 min. Obtained soil samples, but the analysis couldn’t be performed; cameras were damaged.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Venera 13 lasted for 127 min (457 °C & 8.9 MPa), Venera 14 — 57 min (465 °C & 9.4 MPa). Imaging panorama, soil samples are similar to the oceanic tholeiitic basalts, atmo noise records for wind speed calculations (0.3 ‑ 0.5 m/s).
+   1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Venera 11 lasted for 95 min (458 ± 5 ℃ & 9.1 ± 0.2 MPa), Venera 12 (468 ± 5 ℃ & 9.2 ± 0.2 MPa) — 110 min. Obtained soil samples, but the analysis couldn’t be performed; cameras were damaged.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Venera 13 lasted for 127 min (457 ℃ & 8.9 MPa), Venera 14 — 57 min (465 ℃ & 9.4 MPa). Imaging panorama, soil samples are similar to the oceanic tholeiitic basalts, atmo noise records for wind speed calculations (0.3 ‑ 0.5 m/s).
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Vega‑1 failed. Vega‑2 researched the surface for 56 min, collected soil & X‑ray fluorescence spectra of the rocks.
    1. ••• **Future/proposed missions:** •••
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). 1 orbiter, 2 balloons, 2 landers on different terrains. Landers to perform high‑fidelity analysis of the elemental & mineralogical content of rocks & soils on & beneath the surface, & hi‑res panoramic images.
@@ -777,7 +777,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Calculated the atmo density, temp./pres. at all altitudes. The temperature is higher closer to the surface; this pattern was reversed on some altitudes (56,61,63,81 km), which can signify the presence of clouds.
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Measured the atmo vertical structure.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Measured the clouds vertical distribution.
-   1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Measurements of temperatures at different altitudes confirmed the greenhouse effect. The upper atmo was colder than previously thought: −93 °C at 100 km, −40 ‑ −60 °C on the cloud’s upper boundary.
+   1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Measurements of temperatures at different altitudes confirmed the greenhouse effect. The upper atmo was colder than previously thought: −93 ℃ at 100 km, −40 ‑ −60 ℃ on the cloud’s upper boundary.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Measured the atmo density, temp./pres., opacity, chemical composition of aerosols, aerosol scattering, thunderstorm activity.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Obtained accurate information about the atmo vertical structure, which served as the basis for the Akatsuki.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Differentiation the atmo into levels. To  measure the upper atmo temperature to obtain the heights distribution, & horizontal/vertical flows in the upper atmo, & to build vertical temperature profiles.
@@ -1021,7 +1021,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑024.** Surface: common composition.  
 <small>(The overall surface structure & particles distribution. Collective task with the help of 023 & 026.)</small>
 
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Soil sample was placed in a airlock sealed chamber at 30 °C & 5 kPa. The composition determined by the X‑ray fluorescence spectrometer (plutonium, uranium‑235 & iron‑55 as a radiation sources) put it in the class of weakly differentiated melanocratic alkaline gabbroids, it was similar to oceanic tholeiitic basalts.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Soil sample was placed in a airlock sealed chamber at 30 ℃ & 5 kPa. The composition determined by the X‑ray fluorescence spectrometer (plutonium, uranium‑235 & iron‑55 as a radiation sources) put it in the class of weakly differentiated melanocratic alkaline gabbroids, it was similar to oceanic tholeiitic basalts.
    1. ••• **Future/proposed missions:** •••
       1. **[EnVision](envision.md)** (…). To characterize regional & local geological features, determine crustal support mechanisms & constrain mantle & core properties. The surface of Venus is not organized into large plates like Earth’s oceans but is partitioned into areas of low strain bounded by narrow margins of high strain.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). Studying the differences in the composition of the planet’s crust, as well as proving the existence of a continent‑like crust, will also help to understand where & when did the water go.
@@ -1039,7 +1039,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑7](venera_7.md)** (1970.08.17). From the lander’s rapid halt it was concluded that the SC had hit a solid surface with low levels of dust (the consistency is between sand & volcanic tuff).
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Determined the content of natural radioactive elements‑uranium, thorium & potassium in rocks.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Determined topography & surface characteristics when the SC was closer than 4 700 km over the planet. A 20 W S‑band signal was sent to the surface that reflected it, with the probe analyzing the echo. Resolution at periapsis was 23 × 7 km.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 °C, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids similar to oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 ℃, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids similar to oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). Radar survey & mapping, measurements of the surface relief & properties, & new types: “Coronae” — extensive round or oval formations with concentric rings; “Pancake” — flat almost circular elevations; “Arachnoid” — domes with radial cracks of arachnid shape; “Tessera” — vast areas with long mountain ranges & valleys.
    1. **[Magellan](magellan.md)** (1989.05.04). High‑quality terrain images, evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, & pancake‑shaped domes.
    1. ••• **Future/proposed missions:** •••
@@ -1057,7 +1057,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venera‑8](venera_8.md)** (1972.03.27). Measured the uranium/thorium/potassium ratio of the surface rock (it’s similar to Alkali basalt).
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Determined the content of natural radioactive elements‑uranium, thorium & potassium in rocks.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 °C, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids similar to oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 ℃, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids similar to oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Measured the content of U, Th & K in the rocks. Rocks with low levels of natural radioactive elements were found at both landing points.
    1. ••• **Future/proposed missions:** •••
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). Landers to perform high‑fidelity analyses of the elemental & mineralogical content of rocks & soils on & beneath the surface.
@@ -1427,7 +1427,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 **EVN‑052.** Role of water (fluids) in planetary geology.
 
-   1. **[Magellan](magellan.md)** (1989.05.04). Despite the high surface T ≈ 475 °C & P ≈ 92 bar, the complete lack of water makes erosion a very slow process on the planet. Magellan’s maps show no telltale signs of past water bodies. The surface features can persist for hundreds of millions of years.
+   1. **[Magellan](magellan.md)** (1989.05.04). Despite the high surface T ≈ 475 ℃ & P ≈ 92 bar, the complete lack of water makes erosion a very slow process on the planet. Magellan’s maps show no telltale signs of past water bodies. The surface features can persist for hundreds of millions of years.
    1. ••• **Future/proposed missions:** •••
       1. **[DAVINCI](davinci.md)** (…). To reveal the history of water on Venus & the chemical processes at work in the unexplored lower atmo.
       1. **[VERITAS](veritas.md)** (…). To determine if Venus hosted ancient aqueous environments.
@@ -1557,7 +1557,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑062 (Т).** Surface: samples obtaining & analysis, incl. in different places.
 
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Drilled a soil sample, & feed it through a pressure reduction system to an X‑ray fluorescence spectrometer. The penetrometers & analyzing systems failed on both landers.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 °C, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids like an oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 ℃, 5 kPa), the sample is in the class of weakly diff. melanocratic alkaline gabbroids like an oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). VEGA‑2 collected soil & X‑ray fluorescence spectra of the Venusian rock.
    1. ••• **Future/proposed missions:** •••
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To take soil samples from 2 different sites.
@@ -1740,12 +1740,12 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑074.** Meteorological model.  
 <small>(Overall complex model of the climate, winds, long‑term evolution.)</small>
 
-   1. **[Mariner‑2](mariner_2.md)** (1962.08.27). Found a hot surface & relatively cool clouds, collected information about the temperature of the surface: ~ 500 °C.
-   1. **[Venera‑8](venera_8.md)** (1972.03.27). Measured the atmo on the surface: T ≈ 470 ± 8 °C & P ≈ 9.3 ± 0.15 MPa. With the help of Venera 8 a high‑altitude atmo profile was built. 1st high‑altitude profiles of sunlight flux, 1st estimation of the clouds location, & the assumption about the sub‑cloud haze presence, altitude profiles of horizontal wind speed/direction, atmo superrotation.
+   1. **[Mariner‑2](mariner_2.md)** (1962.08.27). Found a hot surface & relatively cool clouds, collected information about the temperature of the surface: ~ 500 ℃.
+   1. **[Venera‑8](venera_8.md)** (1972.03.27). Measured the atmo on the surface: T ≈ 470 ± 8 ℃ & P ≈ 9.3 ± 0.15 MPa. With the help of Venera 8 a high‑altitude atmo profile was built. 1st high‑altitude profiles of sunlight flux, 1st estimation of the clouds location, & the assumption about the sub‑cloud haze presence, altitude profiles of horizontal wind speed/direction, atmo superrotation.
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Revealed meteorological nature of Venus atmo, measured the extent to which radio waves passing through the atmo were refracted, which was used to calculate the density, pressure, temperature at any given altitude.
-   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Refined the meteorological models: the surface T ≈ 485 °C & P ≈ 9.1 MPa, & the illumination corresponded to the level of illumination at the Earth’s mid‑latitudes on a cloudy summer day ~ 14 000 Lux, the wind speed ~ 3.5 m/s.
-   1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Surface T ≈ 448 ‑ 459 °C & P ≈ 8.62 ‑ 9.45 MPa, wind speed ~ 200 m/s in the middle cloud layer, 50 m/s at the base of the clouds, & 1 m/s at the ground.
-   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Surface T ≈ 457 ‑ 465 °C & P ≈ 8.9 ‑ 9.4 MPa, wind speed 0.3 & 0.5 m/s.
+   1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Refined the meteorological models: the surface T ≈ 485 ℃ & P ≈ 9.1 MPa, & the illumination corresponded to the level of illumination at the Earth’s mid‑latitudes on a cloudy summer day ~ 14 000 Lux, the wind speed ~ 3.5 m/s.
+   1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Surface T ≈ 448 ‑ 459 ℃ & P ≈ 8.62 ‑ 9.45 MPa, wind speed ~ 200 m/s in the middle cloud layer, 50 m/s at the base of the clouds, & 1 m/s at the ground.
+   1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Surface T ≈ 457 ‑ 465 ℃ & P ≈ 8.9 ‑ 9.4 MPa, wind speed 0.3 & 0.5 m/s.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons floated at H = 53 ‑ 55 km taking measurements of meteorological parameters: temperature, pressure, vertical wind gusts, visibility range in the clouds, average illumination, tracked the glow on the night side & the presence of light flashes from lightning, powerful ascending & descending flows.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Measured the cloud motions, patterns in the long‑term wind speeds, discovered the high level winds have become faster over time (300 → 400 km/h).
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). 3D study of the Venus atmo movement over time & the construction of the Venus meteorology.

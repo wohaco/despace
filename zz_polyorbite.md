@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://polyorbite.ca/><br> <https://twitter.com/polyorbits/><br> <https://en.wikipedia.org/wiki/Montreal_Student_Space_Associations> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **PolyOrbite** is a technical society from Polytechnique Montréal. Within it, 70 qualified students at the undergraduate & graduate level work to attend a common goal: build & launch the first CubeSat made by students in Quebec. It is also a very experienced organization which has already succeed in large-scale projects. As a matter of fact, Polyorbite rose two times to the podium of the Canadian Satellite Design Challenge.
 

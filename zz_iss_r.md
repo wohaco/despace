@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <office@iss‑reshetnev.ru> |
 |Link| <http://iss‑reshetnev.ru><br> <https://ru.wikipedia.org/wiki/Информационные_спутниковые_системы> |
-|Tel| +7(3919)72-80-08, fax: +7(3919)75-61-46 |
+|Tel| +7(3919)72-80-08, ℻: +7(3919)75-61-46 |
 
 **<mark>Осторожно! Дерзота!</mark>**
 

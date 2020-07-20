@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <support@integ-japan.com> |
 |Link| <http://www.integ-japan.com/><br> <https://www.kratosdefense.com/products/space> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Kratos Integral Systems** is a company aimed for R&D ground antennas, optimizing/managing satelllites, signals.
 

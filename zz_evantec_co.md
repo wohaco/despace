@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mikioszk@evan-tec.co.jp> |
 |Link| <http://evan-tec.co.jp/> |
-|Tel| +81-3-5537-6838, fax: +81-3-5537-5281 |
+|Tel| +81-3-5537-6838, ℻: +81-3-5537-5281 |
 
 **eVanTEC.Co.,LTD** is a Japanese software developing company. Founded in 2013.
 

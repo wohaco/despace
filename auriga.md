@@ -38,7 +38,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |   |
 |Resource, h (y)|   |   |
 |[Lifetime](lifetime.md), h (y)| НОО: 61 320 (7)  |   |
-|[Тепловой режим](tcs.md), °C| −30 ‑ +60  |   |
+|[Тепловой режим](tcs.md), ℃| −30 ‑ +60  |   |
 |Consumption, W| 1  |   |
 || [![](f/sensor/a/auriga_pic2_thumb.jpg)](f/sensor/a/auriga_pic2.jpg)  | [![](f/sensor/a/auriga_pic1_thumb.jpg)](f/sensor/a/auriga_pic1.jpg) |
 

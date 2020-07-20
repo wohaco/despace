@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |   |
 |Resource, h (y)|   |   |
 |[Lifetime](lifetime.md), h (y)| НОО: 87 600 (10)<br> ГСО: 157 680 (18)  | НОО: 87 600 (10)<br> ГСО: 157 680 (18)  |
-|[Тепловой режим](tcs.md), °C| −30 ‑ +60  | −30 ‑ +60  |
+|[Тепловой режим](tcs.md), ℃| −30 ‑ +60  | −30 ‑ +60  |
 |Consumption, W| 8  | 8  |
 || [![](f/sensor/h/hydra_pic2_thumb.jpg)](f/sensor/h/hydra_pic2.jpg)  |   |
 

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.concordia.ca/><br> <https://www.linkedin.com/school/concordia-university/><br> <https://twitter.com/Concordia> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Concordia University** is a next-generation university, one that reimagines the future of higher education on a continual basis. Located in the vibrant and multicultural city of Montreal, Concordia is among the most innovative universities in its approach to experiential learning, research and online education.
 

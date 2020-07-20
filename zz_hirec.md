@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.hirec.co.jp/> |
-|Tel| +81-44-201-1512, fax: +81-44-201-1531 |
+|Tel| +81-44-201-1512, ℻: +81-44-201-1531 |
 
 **High‑Reliability Engineering & Components Corporation (HIREC)** was established in 1988 on a mission to ensure the stable supply of high‑reliability components to be used on Japan’s primary large‑scale launch vehicle, applications satellites, & the Japanese Experiment Module “Kibo” of the International Space Station.
 

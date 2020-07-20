@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.sedsystems.ca/> |
-|Tel| +1(306)931-34-25, fax: +1(306)933-14-86 |
+|Tel| +1(306)931-34-25, ℻: +1(306)933-14-86 |
 
 **SED Systems** is a leading developer & integrator of systems, products & services used in communications, test & control applications.  
 Our primary market is the global satellite communications sector, & we serve satellite manufacturers, operators & service providers around the world. We also provide satellite operations services to control & monitor satellites for government & commercial clients. We apply our systems design & integration skills in terrestrial communications & military markets as well, providing test systems & contract manufacturing services to prime contractors & equipment manufacturers.  

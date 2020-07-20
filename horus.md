@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| НОО: 157 680 (18)  |
-|[Тепловой режим](tcs.md), °C|   |
+|[Тепловой режим](tcs.md), ℃|   |
 |Consumption, W| 5  |
 || [![](f/sensor/h/horus_pic1_thumb.jpg)](f/sensor/h/horus_pic1.jpg)  |
 

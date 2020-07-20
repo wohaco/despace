@@ -30,7 +30,7 @@
 |Overload, g|   |
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
-|[Тепловой режим](tcs.md), °C| от –40 до +60 °C  |
+|[Тепловой режим](tcs.md), ℃| от –40 до +60 ℃  |
 |[Lifetime](lifetime.md), h (y)|   |
 |Consumption, W| 0.05  |
 

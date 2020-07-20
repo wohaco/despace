@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <andrea@lunainnovates.com> |
 |Link| <https://www.lunainnovates.com/> |
-|Tel| +1(647)675-66-59, fax: … |
+|Tel| +1(647)675-66-59, ℻: … |
 
 **Luna Design & Innovation** — канадская компания, занимающаяся организацией и поддержкой биологических экспериментов в космосе. Основана в 2019 году Andrea Yip.
 

@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Earth & Space Sciences Division. Senior Research Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)393-45-84, fax: +1(818)393-44-45; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(818)393-45-84, ℻: +1(818)393-44-45; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <rosaly.m.lopes-gautier@jpl.nasa.gov> |
 |B‑day, addr.| 1957.01.08 (Rio de Janeiro, Brazilia) / … |
 || [![](f/contact/l/lopes_001_photo_thumb.jpg)](f/contact/l/lopes_001_photo.jpg) <mark>nosign</mark> |

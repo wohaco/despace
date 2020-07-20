@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.jpl.nasa.gov><br> <https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory><br> <https://ru.wikipedia.org/wiki/Лаборатория_реактивного_движения> |
-|Tel| <mark>noworkphone</mark>, fax: +1(818)354-43-21 |
+|Tel| <mark>noworkphone</mark>, ℻: +1(818)354-43-21 |
 
 **Лаборатория реактивного движения** *(**ЛРД**; англ. **Jet Propulsion Laboratory** или **JPL**)* — научно‑исследовательский центр [НАСА](nasa.md), расположенный рядом с городами Пасадина и Каньяда Флинтридж (англ. La Cañada Flintridge) около г. Лос‑Анджелеса США. Управляется Калифорнийским технологическим институтом (Калтех), занимается созданием и обслуживанием АКА для НАСА. Основана 31 октября 1936.
 

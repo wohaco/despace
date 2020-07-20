@@ -37,7 +37,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| 60 (6 000) при Al 1.5 г/cm², ≥40 МэВ·cm²/мг  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| 26 280 (3)  |
-|[Тепловой режим](tcs.md), °C| –20 ‑ +50, 1 датчик температуры DS18S20  |
+|[Тепловой режим](tcs.md), ℃| –20 ‑ +50, 1 датчик температуры DS18S20  |
 |Consumption, W| 16  |
 
 </small>

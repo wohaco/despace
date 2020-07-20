@@ -37,7 +37,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), °C| –50 ‑ +65  |
+|[Тепловой режим](tcs.md), ℃| –50 ‑ +65  |
 |Consumption, W| 1.8 для 9 В;<br> 5.4 для 27 В  |
 
 </small>

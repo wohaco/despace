@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| до 10 000 протон/с/cm²  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| 43 800 (5)  |
-|[Тепловой режим](tcs.md), °C| SSEU: −15 ‑ +52, SSH: −1 ‑ +32, Заслонка: −26 ‑ +27, Затенение: −60 ‑ +27  |
+|[Тепловой режим](tcs.md), ℃| SSEU: −15 ‑ +52, SSH: −1 ‑ +32, Заслонка: −26 ‑ +27, Затенение: −60 ‑ +27  |
 |Consumption, W|   |
 || [![](f/sensor/h/hast_pic1_thumb.jpg)](f/sensor/h/hast_pic1.jpg) |
 

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <contact@sputnix.ru> |
 |Link| <http://www.sputnix.ru/><br> <https://vk.com/sputnixru><br> <http://www.facebook.com/sputnixru><br> <https://twitter.com/SPUTNIX_ltd><br> <http://instagram.com/sputnixru><br> <https://ru.wikipedia.org/wiki/Спутникс> |
-|Tel| +7(499)322-43-15, fax: … |
+|Tel| +7(499)322-43-15, ℻: … |
 
 **ООО «Спутниковые инновационные космические системы» (СПУТНИКС)** — российская компания, разрабатывающая и создающая конструкцию и оборудования для малых космических аппаратов и <глоссарий:кубсат|кубсатов>.
 

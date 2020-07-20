@@ -6,7 +6,7 @@
 |B‑day, addr.| <mark>nodate</mark> 1953 / … |
 |E‑mail| <treiman@lpi.usra.edu> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(281)486-21-17, fax: +1(281)486-21-62; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(281)486-21-17, ℻: +1(281)486-21-62; *mobile:* <mark>nomobile</mark> |
 || [![](f/contact/t/treiman_001_photo_thumb.jpg)](f/contact/t/treiman_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** **[CV](f/contact/t/treiman_001_cv.pdf).** PhD, Igneous Petrology, Michigan Univ., 1982. MS, Metamorphic Geology, Stanford Univ., 1977. BA *magna cum laude*, Physical Chemistry, Pomona College, 1974.

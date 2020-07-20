@@ -157,7 +157,7 @@ There have also been dramatic variations in the average wind speeds observed bet
 
    5. **Snow on Venus.**
 
-Although the planet’s surface is like a red hot furnace, conditions are very different at an altitude of 125 km, where Venus Express revealed a very frigid layer with a temperature of around -175 °C. The unexpected cold layer is far chillier than any part of Earth’s atmosphere, despite Venus being much closer to the Sun.
+Although the planet’s surface is like a red hot furnace, conditions are very different at an altitude of 125 km, where Venus Express revealed a very frigid layer with a temperature of around -175 ℃. The unexpected cold layer is far chillier than any part of Earth’s atmosphere, despite Venus being much closer to the Sun.
 
 The discovery was made by studying light from the Sun as it passed through the atmosphere, revealing the concentration of carbon dioxide gas molecules at various altitudes along the terminator. Armed with information about the concentration of carbon dioxide and data on atmospheric pressure at each height, scientists could then calculate the corresponding temperatures.
 
@@ -277,7 +277,7 @@ To keep Venus Express within temperatures that are safe for the spacecraft, the 
 
 The two symmetric solar arrays, counting about six square metres, were based on a “triple junction” gallium arsenide (GaAs) technology.
 
-The solar cells, each composed by four layers of gallium arsenide, were more tolerant to high temperatures (up to around 120 °C), so they were more suitable for hot environments. They were able of exploiting a wider range of solar radiation. The solar cells were separated by aluminium strips that help to reject heat. All together, these aluminium strips covered half of the overall solar array surface.
+The solar cells, each composed by four layers of gallium arsenide, were more tolerant to high temperatures (up to around 120 ℃), so they were more suitable for hot environments. They were able of exploiting a wider range of solar radiation. The solar cells were separated by aluminium strips that help to reject heat. All together, these aluminium strips covered half of the overall solar array surface.
 
 When the spacecraft was in shadow (eclipse) or when its power demand exceeded the capacity of the solar arrays, electrical power was supplied by three lithium-ion batteries that were charged by the solar-generated power.
 

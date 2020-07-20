@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.jaxa.jp/><br> <https://global.jaxa.jp/about/centers/tokyo/index.html><br> <https://en.wikipedia.org/wiki/JAXA> |
-|Tel| +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), fax: … |
+|Tel| +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), ℻: … |
 
 The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, literally “National Research & Development Agency on Aerospace Research & Development”) is the Japanese national aerospace & space agency. Through the merger of three previously independent organizations, JAXA was formed on 2003.10.01. JAXA has 1 545 regular staff members as of FY 2016. Many domestic & overseas researchers, graduate students & people from the private sector are also hired.
 

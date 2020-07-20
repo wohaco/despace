@@ -131,9 +131,9 @@ The Venera 11 nephelometer measured cloud particles during the descent, and it
 
 **Measurements on the surface** ([EVN‑006](venus.md)).
 
-The temperature at the landing site of Venera 11 reached 458 ± 5 °C, and the pressure 91 ± 2 bar. The image of the surface could not be obtained because the camera covers did not open. The drill took a soil sample, but could not properly deliver it to the instrument compartment, and the soil analysis could not be performed.
+The temperature at the landing site of Venera 11 reached 458 ± 5 ℃, and the pressure 91 ± 2 bar. The image of the surface could not be obtained because the camera covers did not open. The drill took a soil sample, but could not properly deliver it to the instrument compartment, and the soil analysis could not be performed.
 
-The temperature at the landing site of Venera 12 was equal to 468 ± 5 °C, and the pressure 92 ± 2 bar. This lander also experienced problems with the camera, indicating a design flaw. No soil analysis was carried out. This time the reason was that during the descent of the vibration destroyed the system of delivery on the drill samples taken and measurements became impossible. The penetrometer also failed on both landers.
+The temperature at the landing site of Venera 12 was equal to 468 ± 5 ℃, and the pressure 92 ± 2 bar. This lander also experienced problems with the camera, indicating a design flaw. No soil analysis was carried out. This time the reason was that during the descent of the vibration destroyed the system of delivery on the drill samples taken and measurements became impossible. The penetrometer also failed on both landers.
 
 **Venera 11 and Venera 12 fly‑by spacecraft**
 
@@ -213,7 +213,7 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carryi
       - Orientation system nozzles;
       - Radiator-cooler.
 
-The spacecraft were generally identical to the preceding Venera 9 and 10 (Venera 11 and Venera 12 orbiters were built on the basis of 4MV, variant 4V-1, like [Venera 9](venera_9_10.md), [Venera 10](venera_9_10.md)). The data relay rate from the landers was increased to 3 Kb/s per channel. The configuration of the landing craft differed in the absence of illumination lamps, camera lens covers were also redesigned. Simplified scheme entry parachute system and reduced its mass. Instead of two successively introduced supersonic braking parachutes, one remained, and also instead of a system of three main parachutes, only one was left. Some scientific instruments were redesigned, others were added, and some instruments were mounted on the shock absorber ring.
+The spacecraft were generally identical to the preceding Venera 9 and 10 (Venera 11 and Venera 12 orbiters were built on the basis of 4MV, variant 4V-1, like [Venera 9](venera_9_10.md), [Venera 10](venera_9_10.md)). The data relay rate from the landers was increased to 3 Kb/s per channel. The configuration of the landing craft differed in the absence of illumination lamps, camera lens covers were also redesigned. Simplified scheme entry parachute system and reduced its mass. Instead of two successively introduced supersonic braking parachutes, one remained, and also instead of a system of three main parachutes, only one was left. Some scientific instruments were redesigned, others were added, and some instruments were mounted on the shock absorber ring.
 
 |*Parameter*|*Value*|
 |:--|:--|

@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Planetary Science Directorate. Program Director*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(720)240-01-49, fax: +1(303)546-96-87; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(720)240-01-49, ℻: +1(303)546-96-87; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <grimm@boulder.swri.edu> |
 |B‑day, addr.| <mark>nodate</mark> 1962 / … |
 || [![](f/contact/g/grimm_001_photo_thumb.jpg)](f/contact/g/grimm_001_photo.jpg) <mark>nosign</mark> |

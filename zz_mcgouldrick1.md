@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[LASP](zz_lasp.md), US. Research Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(303)492-29-51, fax: +1(303)735-37-37; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(303)492-29-51, ℻: +1(303)735-37-37; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <Kevin.McGouldrick@lasp.colorado.edu> |
 |B‑day, addr.| <mark>nodate</mark> / … |
 || [![](f/contact/m/mcgouldrick_001_photo_thumb.jpg)](f/contact/m/mcgouldrick_001_photo.jpg) <mark>nosign</mark> |

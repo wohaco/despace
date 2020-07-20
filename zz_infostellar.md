@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@istellar.jp> |
 |Link| <https://infostellar.net/><br> <https://www.stellarstation.com/><br> <https://makesat.com/><br> <https://www.linkedin.com/company/infostellar> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Infostellar** is a Japanese space communication infrastructure firm. Infostellar make space communications infrastructure, & are now developing our cloud‑based satellite antenna sharing platform, StellarStation. By lowering costs & increasing transmission time, Infostellar empowers satellite operators to improve the quality of their service & expand potential business. Founded 2016.01.04.
 

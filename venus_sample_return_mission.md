@@ -76,7 +76,7 @@ The objective of the mission would be to return to Earth at least 1 kg (2.2 
 
 The mission is considered to be similar in size and challenge to Mars or comet sample return mission, also currently under study by NASA, the team members said.
 
-The nearly 900 °F temperature of the Venusian surface and atmospheric pressure 90 times that of Earth added to the team’s problems in designing the mission.
+The nearly 900 ℉ temperature of the Venusian surface and atmospheric pressure 90 times that of Earth added to the team’s problems in designing the mission.
 
 After considering several approaches, the team settled on mission that would use small balloons, dropped by parachute. The balloons would self‑inflate and rise to high stable altitude where they could be captured by robotic aircraft and transferred to rocket carried by large hot «air» balloon. The «air» in this case means the Venus ambient atmosphere.
 

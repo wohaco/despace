@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@mbrsc.ae> |
 |Link| <http://www.mbrsc.ae/><br> <https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre><br> <https://ru.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre> |
-|Tel| +971(4)607-12-00, fax: … |
+|Tel| +971(4)607-12-00, ℻: … |
 
 **Космический центр имени Мухаммеда бин Рашида (Mohammed bin Rashid Space Centre, MBRSC)**, в состав которого входит Эмиратский институт передовых наук и технологий (EIAST) — правительственная организация Дубая, работающая над космической программой ОАЭ. Основан 2006.02.02 как EIAST, а 2015.04.17 расширен до MBRSC. Член [IAF](zz_iaf.md) с 2012 г.
 

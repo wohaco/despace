@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.northropgrumman.com/><br> <https://ru.wikipedia.org/wiki/Northrop_Grumman_Corporation><br> <https://en.wikipedia.org/wiki/Northrop_Grumman><br> <https://en.wikipedia.org/wiki/Grumman_LLV> |
-|Tel| <mark>noworkphone</mark>, fax: +1(703)280-29-00 |
+|Tel| <mark>noworkphone</mark>, ℻: +1(703)280-29-00 |
 
 **Northrop Grumman Corporation** — американская военно‑промышленная компания, работающая в области электроники и информационных технологий, авиакосмической отрасли, судостроении. Образована в 1994 году в результате слияния компаний «Northrop Corporation» и «Grumman Corporation». Деятельность компании сведена в основные группы:
 

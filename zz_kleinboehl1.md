@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Research Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)393-64-21, fax: +1(818)393-46-19; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(818)393-64-21, ℻: +1(818)393-46-19; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <kleinb@caesar.jpl.nasa.gov> |
 |B‑day, addr.| <mark>nodate</mark> 1978 / … |
 || ![](f/contact/k/kleinboehl_001_photo.jpg) <mark>nosign</mark> |

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.xplore.com/><br> <https://www.linkedin.com/company/xplore-inc/> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Xplore** «Space as a Service» — an agile space company dedicated to space exploration. Production: [spacecraft](sc.md).
 

@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), [GSFC](zz_gsfc.md), US. Planetary Geology, Geophys & Geochem Lab.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(301)614-64-66, fax: +1(301)614-60-15; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(301)614-64-66, ℻: +1(301)614-60-15; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <lori.s.glaze@nasa.gov> |
 |B‑day, addr.| 1964.07.19 (Техас) / … |
 || [![](f/contact/g/glaze_001_photo_thumb.jpg)](f/contact/g/glaze_001_photo.jpg) <mark>nosign</mark> |

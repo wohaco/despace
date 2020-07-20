@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[САС](lifetime.md) в космосе, ч (лет)| НОО: 157 680 (18)  |
-|[Тепловой режим](tcs.md), °C| −30 ‑ +60  |
+|[Тепловой режим](tcs.md), ℃| −30 ‑ +60  |
 |Consumption, W| 7.5  |
 || [![](f/sensor/s/sed26_pic1_thumb.jpg)](f/sensor/s/sed26_pic1.jpg)  |
 

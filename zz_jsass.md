@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <office@jsass.or.jp> |
 |Link| <https://www.jsass.or.jp/> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 The **Japan Society for Aeronautical and Space Sciences (JSASS)** has a mission to provide the opportunity to present and report the fundamental and applied researches, exchange their knowledge, and provide the information to enhance and promote the researches in aerospace field and contribute to further advancement of academia in Japan.
 

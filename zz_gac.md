@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@gaerospace.com> |
 |Link| <http://www.gaerospace.com/><br> <https://www.linkedin.com/company/global-aerospace-corp/><br> <https://www.facebook.com/pages/Global-Aerospace-Corporation/1649147128674779><br> <https://twitter.com/gaerospacecorp><br> <https://www.youtube.com/channel/UCqxMfdkNuUQLkvvE1cvkVRw> |
-|Tel| +1(626)960-83-00, fax: +1(626)960-83-37 |
+|Tel| +1(626)960-83-00, ℻: +1(626)960-83-37 |
 
 **Global Aerospace Corporation (GAC)** is a small, innovative aerospace research & development company with its main corporate office in Irwindale, CA (near the foothills northeast of Los Angeles). Global Aerospace Corporation does cutting edge aerospace R&D in the areas of space, undersea, lighter‑than‑air, re‑entry, defense, & power technologies; new concepts development; & software.
 

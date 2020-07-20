@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.ucl.ac.uk/><br> <https://en.wikipedia.org/wiki/University_College_London> <https://ru.wikipedia.org/wiki/Университетский_колледж_Лондона> |
-|Tel| +44(0)20-7679-2000 , fax: … |
+|Tel| +44(0)20-7679-2000 , ℻: … |
 
 **Университетский колледж Лондона** *(англ. University College London, UCL)* — университет города Лондон, входящий в состав Лондонского университета. Расположен в самом центре столицы, на Gower Street. Основанный в 1826 году как Лондонский университет (London University), UCL стал самым первым университетом Лондона.
 

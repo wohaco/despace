@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.albertasat.ca/><br> <https://www.linkedin.com/company/albertasat/><br> <https://twitter.com/albertasat><br> <https://www.instagram.com/alberta_sat/> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **AlbertaSat** is made up of close to 50 undergraduate and graduate students who work with the assistance of several faculty advisors at the University of Alberta. We represent a large range of backgrounds and capabilities with a common goal of a better future for humanity. We are human beings looking for a brighter tomorrow – a tomorrow that exists with the journey of humanity to the stars.
 

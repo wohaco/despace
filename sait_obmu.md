@@ -32,7 +32,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| 60 (6 000) при Al 1.5 г/cm², ≥40 МэВ·cm²/мг  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| 61 320 (7)  |
-|[Тепловой режим](tcs.md), °C| –20 ‑ +50  |
+|[Тепловой режим](tcs.md), ℃| –20 ‑ +50  |
 |Consumption, W| 12 чтение/запись, 0 в простое  |
 || [![](f/ds/s/sait_obmu_pic1_thumb.jpg)](f/ds/s/sait_obmu_pic1.jpg)  |
 

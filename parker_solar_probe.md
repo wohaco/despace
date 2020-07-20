@@ -105,7 +105,7 @@ To achieve these goals, the mission will perform five major experiments or inves
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-The spacecraft’s systems are protected from the extreme heat and radiation near the Sun by a solar shield. Incident solar radiation at perihelion is approximately 650 kW/m², or 475 times the intensity at Earth orbit. The solar shield is hexagonal, mounted on the Sun-facing side of the spacecraft, 2.3 m in diameter, 11.4 cm thick, and is made of reinforced carbon–carbon composite, which is designed to withstand temperatures outside the spacecraft of about 1 370 °C.
+The spacecraft’s systems are protected from the extreme heat and radiation near the Sun by a solar shield. Incident solar radiation at perihelion is approximately 650 kW/m², or 475 times the intensity at Earth orbit. The solar shield is hexagonal, mounted on the Sun-facing side of the spacecraft, 2.3 m in diameter, 11.4 cm thick, and is made of reinforced carbon–carbon composite, which is designed to withstand temperatures outside the spacecraft of about 1 370 ℃.
 
 A white reflective alumina surface layer minimizes absorption. The spacecraft systems and scientific instruments are located in the central portion of the shield’s shadow, where direct radiation from the Sun is fully blocked. As radio communication with Earth will take about eight minutes in each direction, the Parker Solar Probe will have to act autonomously and rapidly to protect itself. This will be done using four light sensors to detect the first traces of direct sun light coming from the shield limits and engaging movements from reaction wheels to reposition the spacecraft within the shadow again.
 

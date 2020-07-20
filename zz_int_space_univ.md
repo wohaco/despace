@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.isunet.edu/><br> <https://www.linkedin.com/school/international-space-university/> |
-|Tel| +33(0388)65-54-30, fax: … |
+|Tel| +33(0388)65-54-30, ℻: … |
 
 The **International Space University** provides graduate-level training to the future leaders of the emerging global space community at its Central Campus in Strasbourg, France, and at locations around the world.
 

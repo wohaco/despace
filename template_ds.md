@@ -23,7 +23,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), °C|   |
+|[Тепловой режим](tcs.md), ℃|   |
 |Consumption, W|   |
 || [![](f/ds//_pic1_thumb.jpg)](f/ds//_pic1.jpg)  |
 

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.jepico.co.jp/> |
-|Tel| +81-3-6386-0611, +81-3-5386-8234, fax: … |
+|Tel| +81-3-6386-0611, +81-3-5386-8234, ℻: … |
 
 **JEPICO Corporation** is a service‑oriented import distributor of electric components, single board computers and system level products for markets both within Japan and globally. Founded in 1972.11.17.
 

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.adga.ca/> |
-|Tel| +1(613)237-30-22, fax: … |
+|Tel| +1(613)237-30-22, ℻: … |
 
 **ADGA** is a privately owned Canadian company, who is a leading provider of technology solutions in defence, security & enterprise computing. ADGA’s headquarters are in Ottawa, with offices in Gatineau, Montreal & Toronto. ADGA is dedicated to Defence, Aerospace Engineering & Technical Services.
 

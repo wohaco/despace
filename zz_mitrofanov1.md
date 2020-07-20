@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Заведующий отделом, д.ф.м.н.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)333-41-23, fax: +7(495)333-12-48; *mobile:* +7(926)219-88-58 |
+|Tel|*раб.:* +7(495)333-41-23, ℻: +7(495)333-12-48; *mobile:* +7(926)219-88-58 |
 |E‑mail| mitrofanov@np.cosmos.ru|
 |B‑day, addr.| <mark>nodate</mark> / … |
 || ![](f/contact/m/mitrofanov_001_animated.gif) [![](f/contact/m/mitrofanov_001_sign_thumb.jpg)](f/contact/m/mitrofanov_001_sign.png) |

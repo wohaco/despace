@@ -24,55 +24,29 @@
 **Classification:**
 
    1. **Atmospheric** spacecraft (атмосферный КА)
-      - Balloon
-         - high‑height
-         - low‑height
-         - powered
-         - simple
-         - variable altitude
-      - Communications atmospheric spacecraft (КА для связи)
-      - Plane
-         - glider
-         - powered
-         - maneuverable
+      1. Balloon — ➀ high‑height, ➁ low‑height, ➂ powered, ➃ simple, ➄ variable altitude
+      1. Communications atmospheric spacecraft (КА для связи)
+      1. Plane — ➀ glider, ➁ powered, ➂ maneuverable
    1. **Base** (база)
-      - Ground
-      - Orbital
+      1. Ground
+      1. Orbital
    1. **Lander** spacecraft (посадочный КА)
-      - Communications lander (КА для связи)
-      - Penetrator (КА‑пенетратор)
-      - Plane
-         - glider
-         - powered
-         - maneuverable
-      - Rover (планетоход)
+      1. Communications lander (КА для связи)
+      1. Penetrator (КА‑пенетратор)
+      1. Plane — ➀ glider, ➁ powered, ➂ maneuverable
+      1. Rover (планетоход)
    1. **Orbiter** spacecraft, or **Satellite** (орбитальный КА)
-      - Communications orbiter (КА для связи)
-         - high‑height
-         - L1/L2
-         - low‑height
-      - Fly‑by spacecraft (пролётный КА)
-      - Observatory (КА‑обсерватория)
-         - high‑height
-         - L1/L2
-         - low‑height
+      1. Communications orbiter (КА для связи) — ➀ high‑height, ➁ L1/L2, ➂ low‑height
+      1. Fly‑by spacecraft (пролётный КА)
+      1. Observatory (КА‑обсерватория) — ➀ high‑height, ➁ L1/L2, ➂ low‑height
    1. **Robot**
-      - Arm
-      - Antropomorphic
-      - Digger
+      1. Arm
+      1. Antropomorphic
+      1. Digger
    1. **Other** that is applicable to almost any of the above mentioned
-      - Manned
-         - manned
-         - unmanned
-      - Size
-         - large
-         - medium
-         - micro
-         - nano
-         - small
-      - Swarm
-         - net
-         - single
+      1. Manned — ➀ manned, ➁ unmanned
+      1. Size — ➀ large, ➁ medium, ➂ micro, ➃ nano, ➄ small
+      1. Swarm — ➀ net, ➁ single
 
 **Описание.**
 
@@ -108,6 +82,7 @@
 |:--|:--|
 | **РФ** | НПОЛ, [AvantSpace](zz_avantspace.md) |
 | **США** | [Ball A&T](zz_ball_at.md), [Xplore](zz_xplore.md) |
+| **Japan** | [Mitsubishi Electric](zz_mitsubishi.md) |
 
 
 
@@ -124,7 +99,7 @@
 
 Кубсаты имеют стоимость выведения до нескольких десятков тысяч долларов, а покетсаты — до нескольких тысяч долларов.
 
-Кубсаты выводятся, как правило, сразу по несколько единиц либо посредством [ракет‑носителей](lv.md), либо с борта космических кораблей и орбитальных станций. Несколько компаний предоставляет услуги по выводу кубсатов на орбиту, в частности ISC Kosmotras и Eurokot. Для размещения на РН или КА, запуска и разведения кубсатов разработаны многоместные контейнеры‑платформы, в т.ч. с револьверным выводом на орбиту. Также для вывода кубсатов разрабатываются сверхмалые РН — наноносители.
+Кубсаты выводятся, как правило, сразу по несколько единиц либо посредством [ракет‑носителей](lv.md), либо с борта космических кораблей и орбитальных станций. Несколько компаний предоставляет услуги по выводу кубсатов на орбиту, в частности ISC Kosmotras и Eurokot. Для размещения на РН или КА, запуска и разведения кубсатов разработаны многоместные контейнеры‑платформы, в т.ч. с револьверным выводом на орбиту. Также для вывода кубсатов разрабатываются сверхмалые РН — наноносители.
 
 Термином «CubeSat» обозначаются наноспутники (Nano‑satellite), удовлетворяющие спецификациям стандарта, созданному под руководством профессора Bob Twiggs <small>(факультет аэронавтики и астронавтики, Стэнфорд)</small>, Спутники имеют размер 10×10×10 см и запускаются при помощи Poly‑PicoSatellite Orbital Deployer (P‑POD). Стандарт допускает объединение 2 или 3 стандартных кубов в составе одного спутника (обозначаются 2U и 3U и имеют размер 10×10×20 или 10×10×30 см). Один P‑POD имеет размеры, достаточные для запуска трёх спутников 10×10×10 см или меньшего количества, общим размером не более 3U.
 

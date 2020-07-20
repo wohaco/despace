@@ -183,7 +183,7 @@ The solar electric propulsion system has typically very high specific impulse an
 |:--|
 |***Mercury Planetary Orbiter in ESTEC before stacking***|
 
-The MPO will have a mass of 1 150 kg and will use a single-sided solar array capable of providing up to 1000 W and featuring Optical Solar Reflectors to keep its temperature below 200 °C. The solar array requires continuous rotation keeping the Sun at a low incidence angle in order to generate adequate power while at the same time limiting the temperature.
+The MPO will have a mass of 1 150 kg and will use a single-sided solar array capable of providing up to 1000 W and featuring Optical Solar Reflectors to keep its temperature below 200 ℃. The solar array requires continuous rotation keeping the Sun at a low incidence angle in order to generate adequate power while at the same time limiting the temperature.
 
 The MPO will carry a payload of 11 instruments, comprising cameras, spectrometers (IR, UV, X‑ray, γ‑ray, neutron), a radiometer, a laser altimeter, a magnetometer, particle analysers, a Ka‑band transponder, and an accelerometer. The payload components are mounted on the nadir side of the spacecraft to achieve low detector temperatures, apart from the MERTIS and PHEBUS spectrometers located directly at the main radiator to provide a better field of view.
 
@@ -197,7 +197,7 @@ A high‑temperature‑resistant 1.0 m diameter high‑gain antenna is mounted
 
 Mio developed and built mostly by Japan, has the shape of a short octagonal prism, 180 cm long from face to face and 90 cm high. It has a mass of 285 kg, including a 45 kg scientific payload consisting of 5 instrument groups.
 
-Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 km, outside of MPO’s orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X‑band phased array high‑gain antenna and two medium‑gain antennas operating in the X‑band. Telemetry will return 160 GB/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center’s 64 m antenna located in Nagano, Japan.
+Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 km, outside of MPO’s orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X‑band phased array high‑gain antenna and two medium‑gain antennas operating in the X‑band. Telemetry will return 160 GB/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center’s 64 m antenna located in Nagano, Japan.
 
 <p style="page-break-after:always"> </p>
 

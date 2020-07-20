@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@aacmicrotec.com> |
 |Link| <https://www.aac-clyde.space/><br> <https://twitter.com/ClydeSpace><br> <https://www.facebook.com/clydespace><br> <https://www.linkedin.com/company/clyde-space-ltd/><br> <https://www.instagram.com/clydespace/> |
-|Tel| +46(18)560-130, fax: … |
+|Tel| +46(18)560-130, ℻: … |
 
 **AAC Clyde Space** is the trading brand formed of ÅAC Microtec & its subsidiary Clyde Space. The company has its main operations in Sweden, the United Kingdom & the USA, with partner networks in Japan & South Korea.  
 At AAC Clyde Space we specialise in providing advanced small spacecraft, mission services, & subsystems. We are the market leader in small satellite solutions & services for government, commercial, & educational organisations. We specialise in advanced nanosatellite spacecraft, mission services, & reliable subsystems. Providing market-leading New Space solutions & services for government, commercial, & educational organisations. Our solutions have an impressive mission heritage, making AAC Clyde Space the market leading provider of New Space technologies & services that push the boundaries of Small Satellite capabilities.

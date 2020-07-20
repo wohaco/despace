@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Senior Research Scientist.*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(720)240-01-18, fax: +1(303)546-96-70; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(720)240-01-18, ℻: +1(303)546-96-70; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <kandislea.jessup@swri.org>, <knasaven@gmail.com> |
 |B‑day, addr.| 1970.11.23 (США, штат Мэриленд) / … |
 || ![](f/contact/j/jessup_001_photo.jpg) <mark>nosign</mark> |

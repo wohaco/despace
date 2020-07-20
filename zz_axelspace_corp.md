@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.axelspace.com/><br> <http://www.linkedin.com/company/axelspace> |
-|Tel| +81-3-4405-5085, fax: … |
+|Tel| +81-3-4405-5085, ℻: … |
 
 **Axelspace Corporation** founded 2008.08.08. Provides:
 

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://global.kawasaki.com/en/mobility/air/space/index.html><br> <https://en.wikipedia.org/wiki/Kawasaki_Aerospace_Company> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Kawasaki Heavy Industries Aerospace Company** (川崎重工業航空宇宙カンパニー, Kawasaki Jūkōgyō Kōkūuchū Kanpanii) is the aerospace division of Kawasaki Heavy Industries (KHI). It produces aircraft, space systems, simulators, jet engines, missiles, and electronic equipment.
 

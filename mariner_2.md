@@ -97,7 +97,7 @@ Besides the experiments with the scientific instruments, the objectives of both 
    - Evaluation of the entire power system.
    - Evaluation of the communication system.
 
-The data received during the flight consisted of two categories, namely: tracking data and telemetry. One of the most significant data collected by the spacecraft was information about the high temperature of the atmosphere of Venus ([EVN‑074](venus.md)), the value of which was close to 500 °C. For the first time, various properties of the solar wind were measured.
+The data received during the flight consisted of two categories, namely: tracking data and telemetry. One of the most significant data collected by the spacecraft was information about the high temperature of the atmosphere of Venus ([EVN‑074](venus.md)), the value of which was close to 500 ℃. For the first time, various properties of the solar wind were measured.
 
 Mariner 2 was equipped with scientific instruments for measuring the magnetic field, infrared and microwave radiation, detecting high‑energy particles, and meteor dust. The station did not have a camera.
 
@@ -117,7 +117,7 @@ Mariner 2 was equipped with scientific instruments for measuring the magnetic 
 |Frequency bands| 8 to 9 μm (F = 8.4 μm) and 10 to 10.8 μm (F = 10.4 μm) |
 |Mass| 1.3 kg |
 |Power| 2.4 W |
-|The range of measurement of radiation temperatures| 200 ‑ 500 K |
+|The range of measurement of radiation temperatures| 200 ‑ 500 K |
 
    - A three‑axis fluxgate magnetometer to measure planetary and interplanetary magnetic fields ([EVN‑028](venus.md)). Three probes were incorporated in its sensors, so it could obtain three mutually orthogonal components of the field vector. The field that the magnetometer observed was the superposition of a nearly constant spacecraft field and the interplanetary field. Thus, it effectively measured only the changes in the interplanetary field.
    - An ionization chamber with matched Geiger‑Müller tubes (also known as a cosmic ray detector) to measure high‑energy cosmic radiation.

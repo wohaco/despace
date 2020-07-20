@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <riame@sokol.ru> |
 |Link| <https://www.mai.ru/content/org/index.php?ID=7549><br> <https://www.mai.ru/content/org/index.php?ID=7549> |
-|Tel| +7(499)158-00-20, +7(499)158-20-79, fax: … |
+|Tel| +7(499)158-00-20, +7(499)158-20-79, ℻: … |
 
 **Научно‑исследовательский институт прикладной механики и электродинамики МАИ**.
 

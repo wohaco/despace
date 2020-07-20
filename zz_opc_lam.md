@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <susana.cortes-borgmeyer@ariane.group> |
 |Link| <http://www.space-propulsion.com/><br> <https://en.wikipedia.org/wiki/Orbital_Propulsion_Centre> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Orbital Propulsion Centre Lampoldshausen (LAM)** — европейский производитель двигателей и двигательных установок космических аппаратов. Является подразделением ArianeGroup GmbH. Founded in 1963 by Ludwig Bölkow as a branch of the Bölkow‑Entwicklungs‑KG, the centre is situated within the German Aerospace Center site at Lampoldshausen, Germany. Нынешняя продукция:
 

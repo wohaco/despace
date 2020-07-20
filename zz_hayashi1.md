@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[Kobe Univ.](kobe_univ.md), JP. Graduate School of Science & Center for Planetary Science, Faculty of Science. Professor*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +81(78)803-64-83, fax: +81(78)803-57-91; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +81(78)803-64-83, ℻: +81(78)803-57-91; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <shosuke@gfd-dennou.org>, <shosuke@ruby.kobe-u.ac.jp>, <shosuke@cps-jp.org> |
 |B‑day, addr.| <mark>nodate</mark> / … |
 || ![](f/contact/h/hayashi_001_photo.jpg) <mark>nosign</mark> |

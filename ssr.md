@@ -30,7 +30,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| 400 (40 000)  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| [НОО](nnb.md): 131 400 (15)  |
-|[Тепловой режим](tcs.md), °C| −25 ‑ +60 при работе;<br> −40 ‑ +75 при простое  |
+|[Тепловой режим](tcs.md), ℃| −25 ‑ +60 при работе;<br> −40 ‑ +75 при простое  |
 |Consumption, W| 10 ‑ 100  |
 
 </small>

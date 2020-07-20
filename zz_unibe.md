@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.unibe.ch/><br> <https://en.wikipedia.org/wiki/University_of_Bern><br> <https://ru.wikipedia.org/wiki/Бернский_университет> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Бернский университет** (нем. **Universität Bern (UNIBE)**) — учебное заведение в столице Швейцарии Берне. Основан в 1834 году на базе Бернской Академии, которая, в свою очередь, была создана в 1805 году на базе богословской высшей школы (*Hohe Schule*, существует с 1500 года).
 

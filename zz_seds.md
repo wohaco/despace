@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://seds.org/><br> <https://en.wikipedia.org/wiki/Students_for_the_Exploration_and_Development_of_Space> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Students for the Exploration & Development of Space (SEDS)** is an international student organization whose purpose is to promote space exploration & development through educational & engineering projects.
 

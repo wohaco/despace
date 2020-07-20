@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.jsicorp.jp/> |
-|Tel| +81-3-5204-2711, fax: … |
+|Tel| +81-3-5204-2711, ℻: … |
 
 **Japan Space Imaging Corporation (JSI)** is a pioneer of satellite remote sensing commercial services in Japan. Major Shareholders: Hitachi, Ltd. and Mitsubishi Corporation. Founded 1998.05.11.
 

@@ -97,7 +97,7 @@ The radio altimeter accurately measured the distance to the planet; from this da
 
 The on-board gamma ray spectrometer measured the uranium/thorium/potassium ratio of the surface rock, indicating it was similar to Alkali basalt ([EVN‑026](venus.md)).
 
-Venera 8 reliably measured the atmosphere on the planet’s surface. Direct measurements showed that the surface pressure is 93 ± 1.5 bar and temperature 470 ± 8 °C, confirming the measurements of Venera 7 ([EVN‑074](venus.md)).
+Venera 8 reliably measured the atmosphere on the planet’s surface. Direct measurements showed that the surface pressure is 93 ± 1.5 bar and temperature 470 ± 8 ℃, confirming the measurements of Venera 7 ([EVN‑074](venus.md)).
 
 The lander continued to send back data for 50 minutes, 11 seconds after landing ([EVN‑006](venus.md)) before failing due to the harsh surface conditions.
 

@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <sales@spacex.com> |
 |Link| <http://www.spacex.com/><br> <https://en.wikipedia.org/wiki/SpaceX><br> <https://ru.wikipedia.org/wiki/SpaceX><br> <https://www.facebook.com/SpaceX><br> <https://twitter.com/spacex><br> <http://www.youtube.com/spacex><br> <http://www.flickr.com/spacexphotos><br> <http://www.instagram.com/spacex> |
-|Tel| +7(310)363-60-00, fax: … |
+|Tel| +7(310)363-60-00, ℻: … |
 
 **Space Exploration Technologies Corporation** (**SpaceX**, произносится **«Спэйс‑Экс»**) — американская компания, производитель космической техники со штаб‑квартирой в городе Хоторн, Калифорния, США. Компания основана в 2002 году.
 

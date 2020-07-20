@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://gitai.tech/><br> <https://www.facebook.com/pg/GITAI-1515952648445089/> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **GITAI Inc.** is a robotics startup that develops remote controlled robots to replace astronaut’s operations in commercial space stations. The company aims to replace astronauts with robots that can work for a long time while being remotely controlled from Earth while in low Earth orbit space stations to decrease the burden on astronauts, shorten the time it takes to perform work in space, and reduce costs. Founded in July 2016.
 

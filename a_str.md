@@ -36,8 +36,8 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| ГСО: 157 680 (18)  |
-|[Тепловой режим](tcs.md), °C| −30 ‑ +60  |
-|Consumption, W| 9 при 20 °C, 13.5 при 60 °C  |
+|[Тепловой режим](tcs.md), ℃| −30 ‑ +60  |
+|Consumption, W| 9 при 20 ℃, 13.5 при 60 ℃  |
 || [![](f/sensor/a/a_str_pic1_thumb.jpg)](f/sensor/a/a_str_pic1.png)  |
 
 </small>

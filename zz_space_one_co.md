@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@space-one.co.jp> |
 |Link| <https://www.space-one.co.jp/> |
-|Tel| +81-3-6777-3310, fax: … |
+|Tel| +81-3-6777-3310, ℻: … |
 
 **SPACE ONE**, under the corporate philosophy of providing a convenient [space transport service](lv.md) at an unmatched launch frequency, will commence operation with the mission of serving as a reliable corporatepartner capable of supporting the space businesses of clients worldwide.
 

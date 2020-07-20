@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.airbus.com/> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Airbus Defence & Space (ADS)** is a division of Airbus Group responsible for defence & aerospace products & services. The division was formed in January 2014 during the corporate restructuring of European Aeronautic Defense & Space (EADS), & comprises the former Airbus Military, Astrium, & Cassidian divisions. Штаб‑квартира. Мюнхен, Германия.
 

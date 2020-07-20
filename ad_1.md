@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|    |
 |Resource, h (y)|    |
 |[Lifetime](lifetime.md), h (y)|    |
-|[Тепловой режим](tcs.md), °C|    |
+|[Тепловой режим](tcs.md), ℃|    |
 |Consumption, W|  15  |
 || [![](f/sensor/a/ad-1_thumb.jpg)](f/sensor/a/ad-1.png) |
 

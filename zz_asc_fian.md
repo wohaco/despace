@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://asc-lebedev.ru/> |
-|Tel| <mark>noworkphone</mark>, fax: +7(495)333-23-78 |
+|Tel| <mark>noworkphone</mark>, ℻: +7(495)333-23-78 |
 
 **Астрокосмический центр Физического института Академии Наук (АКЦ ФИАН, Astro Space Center of PN Lebedev Physics Institute, ASC LPI)** — научный центр при [Физическом Институте им. П.Н. Лебедева](zz_fian.md) Российской академии наук. Основные направления работ:
 

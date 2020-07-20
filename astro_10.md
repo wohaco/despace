@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| НОО: 105 120 (12)  |
-|[Тепловой режим](tcs.md), °C| −40 ‑ +40 (ОБ), −40 ‑ +50 (БЭ)  |
+|[Тепловой режим](tcs.md), ℃| −40 ‑ +40 (ОБ), −40 ‑ +50 (БЭ)  |
 |Consumption, W| 8 (+7 для охладителя)  |
 || [![](f/sensor/a/astro_10_pic1_thumb.jpg)](f/здa/astro_10_pic1.jpg)  |
 

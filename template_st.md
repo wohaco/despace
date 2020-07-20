@@ -28,7 +28,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), °C|   |
+|[Тепловой режим](tcs.md), ℃|   |
 |Consumption, W|   |
 || [![](f/sensor/_pic1_thumb.jpg)](f/sensor/_pic1.png) |
 

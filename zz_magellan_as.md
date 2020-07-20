@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <magellan.corporate@magellan.aero> |
 |Link| <http://magellan.aero/><br> <http://magellan.aero/product/space/><br> <https://en.wikipedia.org/wiki/Magellan_Aerospace><br> <https://www.linkedin.com/company/magellan-aerospace> |
-|Tel| +1(905)677-18-89, fax: +1(905)677-56-58 |
+|Tel| +1(905)677-18-89, ℻: +1(905)677-56-58 |
 
 **Magellan Aerospace Corporation** is a Canadian manufacturer of aerospace systems & components. Magellan also repairs & overhauls, tests, & provides aftermarket support services for engines, & engine structural components. The company’s business units are divided into the product areas of aeroengines, aerostructures, rockets & space, & specialty products. Its corporate offices in Mississauga, Ontario, Magellan operates in facilities throughout Canada, the United States, & the United Kingdom.
 

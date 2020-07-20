@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://www.rocketlabusa.com/><br> <https://en.wikipedia.org/wiki/Rocket_Lab><br> <https://ru.wikipedia.org/wiki/Rocket_Lab><br> <https://www.facebook.com/RocketLabUSA/><br> <https://twitter.com/rocketlab><br> <https://www.linkedin.com/company/rocket-lab-limited><br> <https://www.youtube.com/user/RocketLabNZ> |
-|Tel| +1(714)465-57-37, fax: … |
+|Tel| +1(714)465-57-37, ℻: … |
 
 **Rocket Lab** — американская частная космическая компания, имеющая дочернее подразделение в Новой Зеландии. Основная цель компании заключается в разработке лёгких, коммерчески эффективных [LV](lv.md) для доставки на орбиту небольших нагрузок, таких как спутники формата [CubeSat](sc.md).
 

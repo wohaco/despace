@@ -6,7 +6,7 @@
 |B‑day, addr.| 1977.10.01 / … |
 |E‑mail| <kunio.sayanagi@hamptonu.edu> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(757)728-67-45, fax: +1(757)727-50-90; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(757)728-67-45, ℻: +1(757)727-50-90; *mobile:* <mark>nomobile</mark> |
 || ![](f/contact/s/sayanagi_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Physics with Minor in Atmospheric Sciences, Arizona University, 2007 / MS, Physics, Arizona University, 2004.

@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Senior Staff Scientist*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *work:* +1(281)486-21-10, fax: +1(281) 486-21-62; *mobile:* <mark>nomobile</mark> |
+|Tel| *work:* +1(281)486-21-10, ℻: +1(281) 486-21-62; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <kiefer@lpi.usra.edu> |
 |B‑day, addr.| <mark>nodate</mark> 1962 ? / … |
 || [![](f/contact/k/kiefer_001_photo_thumb.jpg)](f/contact/k/kiefer_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

@@ -32,7 +32,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| 300 (30 000)  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| ГСО: 87 600 (10)  |
-|[Тепловой режим](tcs.md), °C| −20 ‑ +55  |
+|[Тепловой режим](tcs.md), ℃| −20 ‑ +55  |
 |Consumption, W| 4  |
 || [![](f/cam/nmb/5mp_space_camera_pic1_thumb.jpg)](f/cam/nmb/5mp_space_camera_pic1.jpg)  |
 

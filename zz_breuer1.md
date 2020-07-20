@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[DLR](zz_dlr.md), EU(GR). Department of Planetary Physics. Head of the Department*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel| *work:* +49(30)670-55-301, fax: +49(30)670-55-303; *mobile:* <mark>nomobile</mark> |
+|Tel| *work:* +49(30)670-55-301, ℻: +49(30)670-55-303; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>nodate</mark> 1965, Mönchengladbach, GR / … |
 || [![](f/contact/b/breuer_001_photo_thumb.jpg)](f/contact/b/breuer_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |

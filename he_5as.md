@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|1 000 (100 000)   |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), °C| −40 ‑ +70  |
+|[Тепловой режим](tcs.md), ℃| −40 ‑ +70  |
 |Consumption, W| 1.5 ОБ, 5.5 БЭ  |
 || [![](f/sensor/h/he_5as_pic1_thumb.jpg)](f/sensor/h/he_5as_pic1.jpg) [![](f/sensor/h/he_5as_pic2_thumb.jpg)](f/sensor/h/he_5as_pic2.jpg) [![](f/sensor/h/he_5as_pic3_thumb.jpg)](f/sensor/h/he_5as_pic3.jpg)  |
 

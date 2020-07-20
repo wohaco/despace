@@ -34,7 +34,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|    |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| 61 320 (7) |
-|[Тепловой режим](tcs.md), °C|   |
+|[Тепловой режим](tcs.md), ℃|   |
 |Consumption, W| не более 20 Вт в режиме холодного резерва (экономичном);<br> не более 35 Вт в режиме горячего резерва (активном)  |
 || ![](f/cpu/bivk_thumb.jpg) [❐](f/cpu/bivk.png) |
 

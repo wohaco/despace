@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <https://en.canon-elec.co.jp/space/> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Canon Electronic Space (CE Space)** is a Japanese manufacturer of a micro satellites & their components.
 

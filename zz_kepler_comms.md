@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.keplercommunications.com/><br> <https://en.wikipedia.org/wiki/Kepler_Communications> |
-|Tel| +1(437)537-53-71, fax: +1(437)537-53-72 |
+|Tel| +1(437)537-53-71, ℻: +1(437)537-53-72 |
 
 **Kepler Communications Inc.** is a privately held company based in Toronto, Ontario, Canada. The company’s stated mission is to deliver affordable network connectivity across the globe via a growing network of small satellites.  
 Kepler Communications is working to build a constellation of small, shoebox‑sized satellites based on the CubeSat standard that will deliver connectivity to other satellites & ground‑based stations, allowing for near real‑time exchange of data from IoT devices, large scale data backhaul (store‑and‑forward) services, & ultimately command & control for other space‑based assets.

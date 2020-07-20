@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
 |Link| <http://www.istellartech.com/><br> <https://en.wikipedia.org/wiki/Interstellar_Technologies> |
-|Tel| <mark>noworkphone</mark>, fax: … |
+|Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Interstellar Technologies Inc.** is a rocket development, manufacturing and launch service. Founded 2003.05.01.
 

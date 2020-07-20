@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <jamss-koho@jamss.co.jp> |
 |Link| <https://www.jamss.co.jp/> |
-|Tel| +81-3-3211-2002, fax: +81-3-3211-2004 |
+|Tel| +81-3-3211-2002, ℻: +81-3-3211-2004 |
 
 **Japan Manned Space Systems Corporation (JAMSS)** is a Japanese company involved in the operations of the “Kibo” and “KOUNOTORI”, the training of astronauts and flight controllers and the implementation of space experiments as part of the International Space Station (ISS) program, evaluating and providing advice on safety, reliability and maintainability of hardware and software in space, and are highly acclaimed by people in the space industry who consider JAMSS to be synonymous with safety. Founded in May 1990. [IAF](iaf.md)-member since 2013.
 

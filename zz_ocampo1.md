@@ -6,7 +6,7 @@
 |B‑day, addr.| 1955.01.05 (Колумбия) / … |
 |E‑mail| <adriana.c.ocampo@nasa.gov>, <aco@nasa.gov> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(202)358-21-52, fax: +1(202)358-30-97; *mobile:* +1(202)372-70-58 |
+|Tel|*раб.:* +1(202)358-21-52, ℻: +1(202)358-30-97; *mobile:* +1(202)372-70-58 |
 || ![](f/contact/o/ocampo_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** Uria PhD

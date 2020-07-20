@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|   |
 |Resource, h (y)| 46 000 (5.25)  |
 |[Lifetime](lifetime.md), h (y)| 46 000 (5.25)  |
-|[Тепловой режим](tcs.md), °C|   |
+|[Тепловой режим](tcs.md), ℃|   |
 |Consumption, W| 5  |
 || [![](f/sensor/m/mbokz-2_01_thumb.jpg)](f/sensor/m/mbokz-2_01.png) |
 

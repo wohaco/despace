@@ -32,7 +32,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| 300 (30 000)  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| НОО: 43 800 (5)  |
-|[Тепловой режим](tcs.md), °C| −30 ‑ +60  |
+|[Тепловой режим](tcs.md), ℃| −30 ‑ +60  |
 |Consumption, W| 1.3  |
 || [![](f/ds/s/sirius_tcm_pic1_thumb.jpg)](f/ds/s/sirius_tcm_pic1.jpg)  |
 

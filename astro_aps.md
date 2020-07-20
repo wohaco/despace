@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| для 25 лет на ГСО  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| НОО: 157 680 (18)  |
-|[Тепловой режим](tcs.md), °C| −30 ‑ +60  |
+|[Тепловой режим](tcs.md), ℃| −30 ‑ +60  |
 |Consumption, W| 6 (+6 с охладителем)  |
 || [![](f/sensor/a/astro_aps_pic1_thumb.jpg)](f/здa/astro_aps_pic1.jpg)  |
 

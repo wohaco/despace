@@ -31,7 +31,7 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 |Target| To detect activity & measure small‑scale changes on Venus, incl. geological & geochemical cycles involving the interior, surface, atmosphere |
 |[Type](sc.md)| Orbiter spacecraft |
 |**Spacecraft:**|• • •|
-|Comms| • X‑band (TT&C);<br> • Ka‑band (science transmit).<br> • GSs: 35 m [ESTRACK](estrack.md) (Malargue, New Norcia NNO‑1, Cebreros), NASA DSN, 15 m (Kourou 15 m, New Norcia 2 4.5 m). |
+|Comms| • X‑band (TT&C);<br> • Ka‑band (science transmit).<br> • GSs: 35 m [ESTRACK](estrack.md) (Malargue, New Norcia NNO‑1, Cebreros), NASA DSN, 15 m (Kourou 15 m, New Norcia 2 4.5 m). |
 |Composition| Venus orbiter |
 |Contractor| Arianespace |
 |[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |

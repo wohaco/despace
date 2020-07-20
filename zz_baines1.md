@@ -4,7 +4,7 @@
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Planetary Science. Planetary & Exoplanetary Atmospheres. Principal Scientist (2003)*|
 |:--|:--|
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)879-35-02, fax: +1(818)393-46-05; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(818)879-35-02, ℻: +1(818)393-46-05; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <kbaines@jpl.nasa.gov> |
 |B‑day, addr.| 1954.02.11 / … |
 || [![](f/contact/b/baines_001_photo_thumb.jpg)](f/contact/b/baines_001_photo.jpg) <mark>nosign</mark> |

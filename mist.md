@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| 300 (30 000)  |
 |Resource, h (y)|   |
 |[Lifetime](lifetime.md), h (y)| НОО: 17 520 (2),<br> ГСО: 87 600 (10)  |
-|[Тепловой режим](tcs.md), °C|   |
+|[Тепловой режим](tcs.md), ℃|   |
 |Consumption, W| 4  |
 || [![](f/sensor/m/mist_pic1_thumb.jpg)](f/sensor/m/mist_pic1.jpg) |
 

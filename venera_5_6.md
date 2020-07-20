@@ -8,7 +8,7 @@
 > <small>*Terms:* **Венера‑5** — Russian term with no analogues in English. **Venera 5** — English equivalent.</small>  
 > <small>**Венера‑6** — Russian term with no analogues in English. **Venera 6** — English equivalent.</small>
 
-**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 km, the lander took measurements of temperature (from 25 to 320 °C), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97 % CO₂, 2 % N₂, O₂<1 %, and traces of water vapor were found.
+**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 km, the lander took measurements of temperature (from 25 to 320 ℃), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97 % CO₂, 2 % N₂, O₂<1 %, and traces of water vapor were found.
 
 [![](f/project/v/venera_5_6/pic01_thumb.jpg)](f/project/v/venera_5_6/pic01.jpg)
 
@@ -71,7 +71,7 @@ Venera 5 and Venera 6 were launched towards Venus to obtain atmospheric data
 
 **Venera 5**
 
-Venera 5 was launched into an Earth parking orbit on 5 January 1969 at 06:28:08 UTC and then from a Tyazheliy Sputnik (69-001C) towards Venus. After a mid-course maneuver on 14 March 1969, the lander was released from the orbiter on 16 May 1969 at a distance of 37 000 km from Venus. The lander entered the nightside atmosphere at 06:01 UTC ([EVN‑003](venus.md)) and when the velocity slowed to 210 m/s the parachute deployed and transmissions to Earth began. The lander sent read-outs every 45 s for 53 min before finally succumbing to the temperature and pressure at roughly 320 °C, 26.1 bar.
+Venera 5 was launched into an Earth parking orbit on 5 January 1969 at 06:28:08 UTC and then from a Tyazheliy Sputnik (69-001C) towards Venus. After a mid-course maneuver on 14 March 1969, the lander was released from the orbiter on 16 May 1969 at a distance of 37 000 km from Venus. The lander entered the nightside atmosphere at 06:01 UTC ([EVN‑003](venus.md)) and when the velocity slowed to 210 m/s the parachute deployed and transmissions to Earth began. The lander sent read-outs every 45 s for 53 min before finally succumbing to the temperature and pressure at roughly 320 ℃, 26.1 bar.
 
 The lander confirmed the high temperatures, pressures, and carbon dioxide composition of the atmosphere found by Venera 4 ([EVN‑001](venus.md), [014](venus.md), [077](venus.md)). It landed at 3°S 18°E.
 
@@ -120,9 +120,9 @@ The main task of the spacecrafts was to obtain data about the atmosphere with th
 ## Spacecraft
 The spacecrafts comprised a lander, designed to enter the Venus atmosphere and parachute to the surface, and a carrier spacecraft, which carried the lander to Venus and served as a communications relay for the lander ([EVN‑092](venus.md)).
 
-The orbiters were idential to Venera 4. The landers were strenghtened, withstanding an overload of 450 G and pressure up to 25 bar. The heat shield withstood a temperature of 11 000 °C. The design of the Venera 5 was similar to the design of the Venera 4, only the lander underwent significant changes.
+The orbiters were idential to Venera 4. The landers were strenghtened, withstanding an overload of 450 G and pressure up to 25 bar. The heat shield withstood a temperature of 11 000 ℃. The design of the Venera 5 was similar to the design of the Venera 4, only the lander underwent significant changes.
 
-The area of the brake dome was reduced to 1.9 m² and the main dome to 12 m². The heat resistant parachute fabric was designed to operate at temperatures above 500 °C.
+The area of the brake dome was reduced to 1.9 m² and the main dome to 12 m². The heat resistant parachute fabric was designed to operate at temperatures above 500 ℃.
 
 The spacecrafts were equipped with parabolic high‑gain antennas (the antennas played the role of a radiator and were directed in the opposite direction from the solar panels).
 

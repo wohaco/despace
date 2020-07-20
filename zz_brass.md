@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@br-aerospace.com> |
 |Link| <https://www.br-aerospace.com/> |
-|Tel| +1(416)909-37-95, +1(437)223-22-55, fax: … |
+|Tel| +1(416)909-37-95, +1(437)223-22-55, ℻: … |
 
 **BR Aerospace Solutions & Services (BRASS)** is a global aerospace company principally engaged in the research, design, development, & sustainment of advanced technology systems in almost all areas of Aerospace sector viz. Robotics/UAV’s, satellite operations, space mission analysis, earth observation, climate change & so on. Founded in 2016 & Incorporated in 2018, headquartered in Ontario, Canada.  
 *Our Vision:* To provide innovative engineering solutions to the most complex challenges, delivering effective solutions for the betterment of mankind.  

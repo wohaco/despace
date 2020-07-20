@@ -34,7 +34,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)| —  | —  |
 |Resource, h (y)|   |   |
 |[Lifetime](lifetime.md), h (y)|   |   |
-|[Тепловой режим](tcs.md), °C| −40 ‑ +93  | −40 ‑ +93  |
+|[Тепловой режим](tcs.md), ℃| −40 ‑ +93  | −40 ‑ +93  |
 |Consumption, W| 0  | 0  |
 || [![](f/sensor/m/mss_sm_pic2_thumb.jpg)](f/sensor/m/mss_sm_pic2.jpg) | [![](f/sensor/m/mss_sm_pic3_thumb.jpg)](f/sensor/m/mss_sm_pic3.jpg) |
 

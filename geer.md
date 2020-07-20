@@ -30,12 +30,12 @@ Science, technology and/or mission applications:
 |**Давление**| 9.5 МПа (94 атм) номинал,<br> … МПа (… атм) макс. | 18.8 МПа (186 атм) номинал,<br> … МПа (… атм) макс. |
 |**Масса**| 14 000 кг |  |
 |**Объём**| 811 л (0.811 m³, 910 × 1220 мм) | 4 л (0.004 m³, 127 × 310 мм) |
-|**Температура**| 500 °C номинал,<br> 538 °C макс. | 510 °C номинал,<br> … °C макс. |
+|**Температура**| 500 ℃ номинал,<br> 538 ℃ макс. | 510 ℃ номинал,<br> … ℃ макс. |
 
    - Возможность подавать внутрь заданную газовую смесь. Specific gas quantities can be very accurately controlled down to parts per million accuracy depending on the gas. Available gases for Venus include CO₂, N₂, COS, H₂S, SO₂, HF, HCL, NO, & CO. Water may be added in small quantities.
    - Доступна для интернационального использования. Контакт в GRC — [Tibor Kremic](zz_kremic1.md).
    - GEER operated for a total of 274.5 Earth days at Venus conditions (на 2019.10).
-   - Chamber rated from ambient to 1 400 PSI & 500 °C (achieves Venus surface pressure & temperature conditions). Can achieve higher pressures at lower temperatures
+   - Chamber rated from ambient to 1 400 PSI & 500 ℃ (achieves Venus surface pressure & temperature conditions). Can achieve higher pressures at lower temperatures
    - Control atmosphere composition to ppb accuracy for any known atmospheric chemistry
    - System infrastructure is designed & sized to accommodate a larger or an additional chamber
    - Remote data & control access can be made available increasing efficiency & reducing costs
@@ -51,7 +51,7 @@ Science, technology and/or mission applications:
    - Ability to change gas mixtures during system operation
    - Currently configured for Venus surface conditions
       - CO₂, N₂, SO₂, HF, HCl, CO, OCS, H₂S, & H₂O
-      - 1 340 psia at 470 °C
+      - 1 340 psia at 470 ℃
 
 Major subsystems include:
 
@@ -104,9 +104,9 @@ There are currently three ways to do business with GEER:
 
 The Glenn Extreme Environments Rig successfully demonstrated the ability to reach & operate at Venus surface conditions for 24 days in November 2014. A custom gas mixer was used create the Venusian atmosphere containing 96.5 % CO₂, 3.5 % N₂, 180 ppm SO₂, 23 ppm CO, 0.4 ppm HCl, 0.05 ppm HF, 4.4 ppm OCS & deliver it to the vessel.
 
-After 2.5 days of heating at 7 °C/hr., the vessel reached Venus surface conditions of 460 °C & 1 334 psia while maintaining a leak free seal.
+After 2.5 days of heating at 7 ℃/hr., the vessel reached Venus surface conditions of 460 ℃ & 1 334 psia while maintaining a leak free seal.
 
-The system boundaries were tested by increasing temperature & pressure to 470 °C & 1 400 psia where the vessel remaining for 24 days. Over this period of time, the heaters & setpoints were varied to gain operational experience & knowledge of the system.
+The system boundaries were tested by increasing temperature & pressure to 470 ℃ & 1 400 psia where the vessel remaining for 24 days. Over this period of time, the heaters & setpoints were varied to gain operational experience & knowledge of the system.
 
 
 

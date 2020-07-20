@@ -36,7 +36,7 @@
 |[Rad.resist](ion_rad.md), Gy (rad)|    |
 |Resource, h (y)| 20 000 (2.28), не более 10 000 включений  |
 |[Lifetime](lifetime.md), h (y)| 41 000 (4 года 9 месяцев)  |
-|[Тепловой режим](tcs.md), °C|   |
+|[Тепловой режим](tcs.md), ℃|   |
 |Consumption, W| 11  |
 || [![](f/sensor/b/bokz-mf_pic1_thumb.jpg)](f/sensor/b/bokz-mf_pic1.jpg) [![](f/sensor/b/bokz-mf_pic2_thumb.jpg)](f/sensor/b/bokz-mf_pic2.jpg)  |
 

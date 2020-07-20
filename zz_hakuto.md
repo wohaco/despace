@@ -5,7 +5,7 @@
 |:--|:--|
 |E‑mail| <info@ispace-inc.com> |
 |Link| <https://ispace-inc.com/team-hakuto/><br> <https://ispace-inc.com/hakuto-r/> |
-|Tel| +81-3-6277-6451, fax: … |
+|Tel| +81-3-6277-6451, ℻: … |
 
 **HAKUTO** is a team comprising ispace, Tohoku University researchers and students, as well as pro bonos. Our diverse backgrounds include design, writing, programming, business, law, and engineering. We’ve gathered to bring our specialties together to take on the challenge of sending a rover to the [Moon](moon.md).
 

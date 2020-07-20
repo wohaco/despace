@@ -112,7 +112,7 @@ During its fly‑by of Venus, Mariner 10 discovered evidence of rotating cloud
 
 The spacecraft flew past Mercury three times. Owing to the geometry of its orbit — its orbital period was almost exactly twice Mercury’s — the same side of Mercury was sunlit each time, so it was only able to map 40 – 45 % of Mercury’s surface, taking over 2 800 photos. It revealed a more or less Moon‑like surface. It thus contributed enormously to our understanding of Mercury, whose surface had not been successfully resolved through telescopic observation.
 
-Mariner 10 also discovered that Mercury has a tenuous atmosphere consisting primarily of helium, as well as a magnetic field & a large iron-rich core. Its radiometer readings suggested that Mercury has a night time temperature of −183 °C & maximum daytime temperatures of 187 °C.
+Mariner 10 also discovered that Mercury has a tenuous atmosphere consisting primarily of helium, as well as a magnetic field & a large iron-rich core. Its radiometer readings suggested that Mercury has a night time temperature of −183 ℃ & maximum daytime temperatures of 187 ℃.
 
 Planning for MESSENGER, a spacecraft that surveyed Mercury until 2015, relied extensively on data & information collected by Mariner 10.
 
@@ -132,7 +132,7 @@ Mass of cameras were 43.6 kg & 67 W of electricity, the cameras were the mos
 
 **Infrared radiometer**
 
-The infrared radiometer detected infrared radiation given off by Mercury’s surface & Venus’ atmosphere, from which the temperature could be calculated. How quickly the surface lost heat as it rotated into the planet’s dark side revealed aspects about the surface’s composition, such as whether it was made out of rocks, or out of finer particles ([EVN‑041](venus.md)). The infrared radiometer contained a pair of Cassegrain telescopes fixed at an angle of 120 degrees to each other, & a pair of detectors made from antimony-bismuth thermopiles. The instrument was designed to measure temperatures as cold as -193 °C & as hot as 427 °C. Stillman C. Chase, Jr. of the Santa Barbara Research Center headed the infrared radiometer experiment.
+The infrared radiometer detected infrared radiation given off by Mercury’s surface & Venus’ atmosphere, from which the temperature could be calculated. How quickly the surface lost heat as it rotated into the planet’s dark side revealed aspects about the surface’s composition, such as whether it was made out of rocks, or out of finer particles ([EVN‑041](venus.md)). The infrared radiometer contained a pair of Cassegrain telescopes fixed at an angle of 120 degrees to each other, & a pair of detectors made from antimony-bismuth thermopiles. The instrument was designed to measure temperatures as cold as -193 ℃ & as hot as 427 ℃. Stillman C. Chase, Jr. of the Santa Barbara Research Center headed the infrared radiometer experiment.
 
 **Ultraviolet spectrometers**
 

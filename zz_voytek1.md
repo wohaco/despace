@@ -6,7 +6,7 @@
 |B‑day, addr.| <mark>nodate</mark> 1959 / … |
 |E‑mail| <mary.voytek-1@nasa.gov> |
 |i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(202)358-15-77, fax: +1(202)358-30-97; *mobile:* <mark>nomobile</mark> |
+|Tel|*раб.:* +1(202)358-15-77, ℻: +1(202)358-30-97; *mobile:* <mark>nomobile</mark> |
 || [![](f/contact/v/voytek_001_photo_thumb.jpg)](f/contact/v/voytek_001_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Biology/Ocean Sciences, California Univ., 1995. MS, Biological Oceanography, Rhode Island Univ., 1984. BA, Biology, J. Hopkins Univ., 1980.
