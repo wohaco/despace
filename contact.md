@@ -420,7 +420,7 @@
 | [ASP Equipment](zz_asp_equipment.md)   (DE) ||||R| Power: DC/DC converters, IPU, PCDU, EPC, propulsion power |
 | [Astrocast](zz_astrocast.md)   (CH) ||||| Satellite operator, constellation of nano‑sats on LEO, IoT communications |
 | [B2Space](zz_b2space.md)   (UK) ||||| Launch services (balloon and LV) for small‑micro sats |
-| [Bradford Eng.](zz_bradford_eng.md)   (NL) ||||| [СУ](cs.md) КА: [ДМ](rw.md), [СД](sensor.md), смесители топлива |
+| [Bradford Eng.](zz_bradford_eng.md)   (NL) ||||| [СУ](cs.md) КА: [ДМ](iu.md), [СД](sensor.md), смесители топлива |
 | [ClearSpace SA](zz_clearspace_sa.md)   (CH) ||||R| Space debris remova: technologies and services |
 | [Cobham](cobham.md)   (UK) ||||| СЧ КА, процессоры |
 | [CUNI](zz_cuni.md)   (CZ) ||||| Карлов университет. Один из старейших университетов мира |
@@ -567,11 +567,12 @@
 | [CE Space](zz_ce_space.md)   13 ||||R| Small Earth satellites, their components |
 | [Euroconsult](zz_euroconsult.md)   13 ||||C| Strategic, research, summits, training programs |
 | [eVanTEC Co Ltd](zz_evantec_co.md)   13 ||||R| Software, satellite support |
+| [GITAI](zz_gitai.md)   13 ||||R| Remotely controlled robots |
+| [GS Yuasa](zz_gs_yuasa.md)   26 ||||R| Batteries |
 | [Hakuto](zz_hakuto.md)   13 ||||R| Moon lander; a part of [ispace](zz_ispace.md) |
 | [HIREC](zz_hirec.md)   14 ||||C| Technology consulting, verification, testing, design, development |
-| [GITAI](zz_gitai.md)   13 ||||R| Remotely controlled robots |
 | [IHI](zz_ihi.md)   13 ||L||R| Engines & their components R&D |
-| [IMV Corp.](zz_imv_corp.md)   27 ||||R| Ground vibration test and measurement systems |
+| [IMV Corp.](zz_imv_corp.md)   27 ||||R| Ground vibration test & measurement systems |
 | [Infostellar](zz_infostellar.md)   13 ||||R| Satellite Ground Segment as a Service provider, cubesat components |
 | [Interstellar Tech.](zz_interstellar_tech.md)   1 ||L||R| LV for small sats (≤ 100 kg) development, manufacturing, launch service |
 | [ispace](zz_ispace.md)   13 ||||R| Moon lander & base |
@@ -588,20 +589,20 @@
 | [Lab Space Systems](zz_lab_of_space_systems.md)   1 ||||R| Engine researches |
 | [Maxar Japan](zz_maxar.md)   13 ||||R| SC platforms, robotics, servicing, geospatial information |
 | [Meisei](zz_meisei.md)   10 ||||R| Radiosondes, cameras, transceivers, magnetometers, power supplies, detectors, etc. |
-| [Meltin](zz_meltin.md)   13 ||||| Robots, medical equipment |
+| [Meltin](zz_meltin.md)   13 ||||R| Robots, medical equipment |
 | [Mitsubishi Electric](zz_mitsubishi.md)   13 ||||R| Near-Earth sats, their components, ground segment |
 | [Mitsubishi HVI](zz_mitsubishi.md)   13 ||L||R| Launch services, rocket engines manuf. & testing, RCS, temp. sensors |
 | [NAOJ](zz_naoj.md)   13 |E||P|R| Observations, astronomy researches, promotes joint research programs |
 | [NDK](zz_ndk.md)   13 ||||R| Outgas analysis system, crystal devices (oscillators, filters, transducers) |
-| [NEC Space Tech.](zz_necspace.md)   13 ||||R| Payload electrical & bus equipment, antennas/Spaceborne Radar |
-| [NEC Space Sys.](zz_necspace.md)   13 ||||R| Satellites, ground systems |
+| [NEC Space Tech.](zz_nec.md)   13 ||||R| Payload electrical & bus equipment, antennas/spaceborne radar |
+| [NEC Space Sys.](zz_nec.md)   13 ||||R| Satellites, ground systems |
 | [Nihom Univ.](zz_nihon_univ.md)   13 |E|||| Aerospace engineering |
 | [Outsense Inc.](zz_outsense.md)   13 ||||R| Space facilities & bases, space residence |
 | [Pale Blue Inc.](zz_pale_blue_inc.md)   12 ||||R| Propulsion systems for small sats, consulting of SC design & integration |
 | [PASCO CORP.](zz_pasco_corp.md)   13 ||||R| Geospatial information |
 | [PD AeroSpace](zz_pd_aerospace.md)   23 ||L||R| Space transportation, space tourism |
 | [RESTEC Japan](zz_restec.md)   13 ||||R| Earth sat’s data receiving, processing, providing; R&D remote sensing techs |
-| [RIKEN](zz_riken.md)   11 |E|||R| Biology, Chemistry, Physics, and Research |
+| [RIKEN](zz_riken.md)   11 |E|||R| Biology, chemistry, physics, & research |
 | [Sat. Biz Network](zz_sat_biz_network.md)   13 |E|||C| Technology consulting, space policy, strategy; space startups support |
 | [SE4](zz_se4.md)   13 ||||R| Remote robotics using VR |
 | [SKY Perfect JSAT](zz_sky_perfect_jsat.md)   13 ||||R| Telecomms |
@@ -618,7 +619,7 @@
 | [TUPLS](zz_tupls.md)   13 |E|||| Tokyo University of Pharmacy & Life Sciences |
 | [Warpspace Inc.](zz_warpspace.md)   8 ||||R| Communication infrastructure business for low orbit satellites; cubesats modules |
 | [Yspace LLC](zz_yspace.md)   8 |E|||C| VR |
-|**··· Not space ···**|•|•|•|•| Panasonic Avionics Corp.<br> *Org. lists:* [aerospacebiz.jaxa.jp ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/) |
+|**··· Not space ···**|•|•|•|•| Panasonic Avionics Corp.<br> *Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/) |
 
 </small>
 
@@ -711,7 +712,7 @@
 | [НИИ МТ](zz_mt_nc.md) (КДИЖ) ||||| … |
 | [НИИ ПМЭ](zz_niipme.md) ||||| … |
 | [НИИ ТП](zz_niitp.md) ||||| … |
-| [НИИКП](zz_niicom.md) ||||| Разработка и создание [ДМ](rw.md), управляющих приводов |
+| [НИИКП](zz_niicom.md) ||||| Разработка и создание [ДМ](iu.md), управляющих приводов |
 | [НИИМАШ](zz_niimash.md) ||||| Создание и производство ДУ |
 | [НИИФИ](zz_niifi.md) (СДАИ) ||||| Датчики, преобразователи, с‑мы контроля, управления |
 | [НИИЯФ МГУ](zz_ниияф_мгу.md) ||||| … |
@@ -945,7 +946,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 

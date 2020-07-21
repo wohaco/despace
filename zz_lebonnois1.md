@@ -9,7 +9,7 @@
 |B‑day, addr.| <mark>nodate</mark> 1973.. / … |
 || [![](f/contact/l/lebonnois_001_photo_thumb.jpg)](f/contact/l/lebonnois_001_photo.jpg) <mark>nosign</mark> |
 
-   - **[Education](edu.md):** PhD, planetary sciences, 'Centre d'Etude Spatiale des Rayonnements' (CNRS/Univ. Toulouse III, France), 2000.
+   - **[Education](edu.md):** PhD, planetary sciences, 'Centre d'Etude Spatiale des Rayonnements' (CNRS/Univ. Toulouse Ⅲ, France), 2000.
    - **Exp.:** CNRS researcher in the planetary science team at Laboratoire de Meteorologie Dynamique. My current research focuses on the atmospheres of Venus & Titan. I develop general circulation models, especially photochemical aspects, & couplings. Goal is to build Global Climate Models, useful tools for the interpretation of space missions' data. I was involved in the Venus-Express mission (VIRTIS et SPICAV instruments), & participate to various projects to go back to Venus. I have also done some work on Mars atmosphere, especially studying ozone distribution with data from the SPICAM instrument on-board Mars-Express.
    - …
    - **SC/Equip.:** …

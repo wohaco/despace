@@ -41,7 +41,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
    - Board of Directors of the National Space Society (NSS),
    - International Academy of Astronautics (IAA),
-   - Chair of the Academy Commission III (Space Systems and Technology Development),
+   - Chair of the Academy Commission Ⅲ (Space Systems and Technology Development),
    - [International Astronautical Federation (IAF)](zz_iaf.md),
    - American Institute of Aeronautics and Astronautics (AIAA),
    - Sigma Xi Research Honor Society.

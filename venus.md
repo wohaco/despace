@@ -43,9 +43,9 @@ And a bit of animation.
 |Day/year| 58.5 / … Earth’s |
 |[Eccentricity](keplerian.md) (e)| 0.0068 |
 |[Hill sphere](hill_sphere.md)| 1 000 000 km |
-|[Inclination](keplerian.md) (i)| 3.86° (to Sun’s equator); 3.39458° (to ecliptic); 2.5° (invar. plane) |
+|[Inclination](keplerian.md) (Ⅰ)| 3.86° (to Sun’s equator); 3.39458° (to ecliptic); 2.5° (invar. plane) |
 |[Longit. of asc.node](keplerian.md) (Ω)| 76.67069° |
-|Orbital velocity (v)| 35.02 km/s |
+|Orbital velocity (Ⅴ)| 35.02 km/s |
 |Satellite of| [Sun](sun.md) |
 |Satellites| none |
 |[Semimajor axis](keplerian.md) (a)| 108 208 930 km (0.723332 au) |
@@ -66,7 +66,7 @@ And a bit of animation.
 |Radius| 6 051 km (mean, 0.953 Earth’s, lesser on 320 km) |
 |Surface area (S)| 4.60·10⁸ km² (0.902 Earth’s) |
 |[Surface gravity](g.md)| 8.87 m/s² (0.904 Earth’s) |
-|Volume (V)| 9.38·10¹¹ km² (0.857 Earth’s) |
+|Volume (Ⅴ)| 9.38·10¹¹ km² (0.857 Earth’s) |
 |**Temperature & atmosph.:**|• • •|
 |[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 kg/m³.<br> **Pressure:** 9.3 MPa (93 bar), surface.<br> **Winds:** 0.3 ‑ 1 m/s (surface); up to 100 m/s (65 km). |
 |[Illumination](illum.md)| 200 (5.5°) ‑ 3 000 (90°) lx (surface, 0.2 Earth’s) |
@@ -314,7 +314,7 @@ See also section “[Projects](project.md)”.
 **Hypothetical and historical:**
 
    - In the section [Research](project.md):
-      - (1) Wireless electricity transmission for a Venusian SC
+      - ⑴ Wireless electricity transmission for a Venusian SC
       - (4) Materials for Venus
       - (12) Human on Venus
    - Despace hypothetical:
@@ -458,44 +458,44 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 
 **VEXAG Goals, Objectives & Investigations (2019).**
 
->Notes to the list below:<br>**I.** − **III.** are **Goals**;<br>**A.** − **B.** are **Objectives**<br>**(1)** − **(3)** are **Investigations**
+>Notes to the list below:<br>**I.** − **Ⅲ** are **Goals**;<br>**A.** − **B.** are **Objectives**<br>**⑴** − **⑶** are **Investigations**
 
-   - **I.** Understand Venus’ early evolution and potential habitability to constrain the evolution of Venus‑size (exo)planets.
+   - **Ⅰ** Understand Venus’ early evolution and potential habitability to constrain the evolution of Venus‑size (exo)planets.
       - **A.** Did Venus have temperate surface conditions and liquid water at early times?
-         - **HO. Hydrous Origins (1)**. Determine whether Venus shows evidence for abundant silicic igneous rocks and/or ancient sedimentary rocks.
-         - **RE. Recycling (1)**. Search for structural, geomorphic, and chemical evidence of crustal recycling on Venus.
-         - **AL. Atmospheric Losses (2)**. Quantify the processes by which the atmosphere of Venus loses mass to space, including interactions between magnetic fields and incident ions and electrons.
-         - **MA. Magnetism (3)**. Characterize the distribution of any remanent magnetism in the crust of Venus.
+         - **HO. Hydrous Origins ⑴**. Determine whether Venus shows evidence for abundant silicic igneous rocks and/or ancient sedimentary rocks.
+         - **RE. Recycling ⑴**. Search for structural, geomorphic, and chemical evidence of crustal recycling on Venus.
+         - **AL. Atmospheric Losses ⑵**. Quantify the processes by which the atmosphere of Venus loses mass to space, including interactions between magnetic fields and incident ions and electrons.
+         - **MA. Magnetism ⑶**. Characterize the distribution of any remanent magnetism in the crust of Venus.
       - **B.** How does Venus elucidate possible pathways for planetary evolution in general?
-         - **IS. Isotopes (1)**. Measure the isotopic ratios and abundances of D/H, noble gases, oxygen, nitrogen, and other elements in the atmosphere of Venus.
-         - **LI. Lithosphere (1)**. Determine lithospheric parameters on Venus that are critical to rheology and potential geodynamic transitions, including: stress state, water content, physical structure, and elastic and mechanical thicknesses.
-         - **HF. Heat flow (2)**. Determine the thermal structure of the lithosphere of Venus at present day and measure in situ heat flow.
-         - **CO. Core (2)**. Measure the size of the core of Venus and determine whether it remains partially liquid.
-   - **II.** Understand atmospheric dynamics and composition on Venus.
+         - **IS. Isotopes ⑴**. Measure the isotopic ratios and abundances of D/H, noble gases, oxygen, nitrogen, and other elements in the atmosphere of Venus.
+         - **LI. Lithosphere ⑴**. Determine lithospheric parameters on Venus that are critical to rheology and potential geodynamic transitions, including: stress state, water content, physical structure, and elastic and mechanical thicknesses.
+         - **HF. Heat flow ⑵**. Determine the thermal structure of the lithosphere of Venus at present day and measure in situ heat flow.
+         - **CO. Core ⑵**. Measure the size of the core of Venus and determine whether it remains partially liquid.
+   - **Ⅱ** Understand atmospheric dynamics and composition on Venus.
       - **A.** What processes drive the global atmospheric dynamics of Venus?
-         - **DD. Deep Dynamics (1)**. Characterize the dynamics of the lower atmosphere (below about 75km) of Venus, including: retrograde zonal super‑rotation, meridional circulation, radiative balances, mountain waves, and transfer of angular momentum.
-         - **UD. Upper Dynamics (1)**. In the upper atmosphere and thermosphere of Venus, characterize global dynamics and interactions between space weather and the ionosphere and magnetosphere.
-         - **MP. Mesoscale Processes (2)**. Determine the role of mesoscale dynamics in redistributing energy and momentum throughout the atmosphere of Venus.
+         - **DD. Deep Dynamics ⑴**. Characterize the dynamics of the lower atmosphere (below about 75km) of Venus, including: retrograde zonal super‑rotation, meridional circulation, radiative balances, mountain waves, and transfer of angular momentum.
+         - **UD. Upper Dynamics ⑴**. In the upper atmosphere and thermosphere of Venus, characterize global dynamics and interactions between space weather and the ionosphere and magnetosphere.
+         - **MP. Mesoscale Processes ⑵**. Determine the role of mesoscale dynamics in redistributing energy and momentum throughout the atmosphere of Venus.
       - **B.** What processes determine the baseline and variations in Venus atmospheric composition and global and local radiative balance?
-         - **RB. Radiative Balance (1)**. Characterize atmospheric radiative balance and how radiative transport drives atmospheric dynamics on Venus.
-         - **IN. Interactions (1)**. Characterize the nature of the physical, chemical, and possible biological interactions among the constituents of the Venus atmosphere.
-         - **AE. Aerosols (2)**. Determine the physical characteristics and chemical compositions of aerosols in Venus atmosphere as they vary with elevation, including discrimination of aerosol types/components.
-         - **UA. Unknown Absorber (2)**. Characterize the unknown shortwavelength absorber in the upper atmosphere of Venus and its influence on local and global processes.
-         - **OG. Outgassing (3)**. Determine the products of volcanic outgassing on Venus and their effects on atmospheric composition.
-   - **III.** Understand the geologic history preserved on the surface of Venus and the present‑day couplings between the surface and atmosphere.
+         - **RB. Radiative Balance ⑴**. Characterize atmospheric radiative balance and how radiative transport drives atmospheric dynamics on Venus.
+         - **IN. Interactions ⑴**. Characterize the nature of the physical, chemical, and possible biological interactions among the constituents of the Venus atmosphere.
+         - **AE. Aerosols ⑵**. Determine the physical characteristics and chemical compositions of aerosols in Venus atmosphere as they vary with elevation, including discrimination of aerosol types/components.
+         - **UA. Unknown Absorber ⑵**. Characterize the unknown shortwavelength absorber in the upper atmosphere of Venus and its influence on local and global processes.
+         - **OG. Outgassing ⑶**. Determine the products of volcanic outgassing on Venus and their effects on atmospheric composition.
+   - **Ⅲ** Understand the geologic history preserved on the surface of Venus and the present‑day couplings between the surface and atmosphere.
       - **A.** What geologic processes have shaped the surface of Venus?
-         - **GH. Geologic History (1)**. Develop a geologic history for Venus by characterizing the stratigraphy, modification state, and relative ages of surface units.
-         - **GC. Geochemistry (1)**. Determine elemental chemistry, mineralogy, and rock types at localities representative of global geologic units on Venus.
-         - **GA. Geologic Activity (1)**. Characterize current volcanic, tectonic, and sedimentary activity that modifies geologic units and impact craters and ejecta on Venus.
-   CR. Crust (2). Determine the structure of the crust of Venus in three dimensions and thickness across the surface.
+         - **GH. Geologic History ⑴**. Develop a geologic history for Venus by characterizing the stratigraphy, modification state, and relative ages of surface units.
+         - **GC. Geochemistry ⑴**. Determine elemental chemistry, mineralogy, and rock types at localities representative of global geologic units on Venus.
+         - **GA. Geologic Activity ⑴**. Characterize current volcanic, tectonic, and sedimentary activity that modifies geologic units and impact craters and ejecta on Venus.
+   CR. Crust ⑵. Determine the structure of the crust of Venus in three dimensions and thickness across the surface.
       - **B.** How do the atmosphere and surface of Venus interact?
-         - **LW. Local Weathering (1)**. Evaluate the mineralogy, oxidation state, and changes in chemistry of surface-weathered rock exteriors at localities representative of global geologic units on Venus.
-         - **GW. Global Weathering (2)**. Determine the causes and spatial extents of global weathering regimes on Venus.
-         - **CI. Chemical Interactions (3)**. Characterize atmospheric composition and chemical gradients from the surface to the cloud base both at key locations and globally.
+         - **LW. Local Weathering ⑴**. Evaluate the mineralogy, oxidation state, and changes in chemistry of surface-weathered rock exteriors at localities representative of global geologic units on Venus.
+         - **GW. Global Weathering ⑵**. Determine the causes and spatial extents of global weathering regimes on Venus.
+         - **CI. Chemical Interactions ⑶**. Characterize atmospheric composition and chemical gradients from the surface to the cloud base both at key locations and globally.
 
 Because understanding Venus as a planetary system requires progress in many scientific areas, *Goals and Objectives are not prioritized*.
 
-Investigations are typed as **Essential** (1), **Important** (2), or **Targeted** (3) based on their relationship to the corresponding Objective.
+Investigations are typed as **Essential** ⑴, **Important** ⑵, or **Targeted** ⑶ based on their relationship to the corresponding Objective.
 
 Completion of all **Essential** Investigations fundamentally addresses their Objective.
 
@@ -513,29 +513,29 @@ The list of **GOI 2019** and its relation to GOI 2016 can be viewed in the [docu
 
 |*Investigation in 2019 GOI*|*Related targets & explorations for Venus EVN*|
 |:--|:--|
-| I.A.HO. Hydrous Origins (1) | EVN‑023, EVN‑052 |
-| I.A.RE. Recycling (1) | EVN‑023, EVN‑025, EVN‑045, EVN‑046, EVN‑047, EVN‑062, EVN‑085, EVN‑086 |
-| I.A.AL. Atmospheric Losses (2) | EVN‑028, EVN‑033, EVN‑038, EVN‑050, EVN‑091, EVN‑097 |
-| I.A.MA. Magnetism (3) | EVN‑028, EVN‑096, EVN‑097 |
-| I.B.IS. Isotopes (1) | EVN‑014, EVN‑055, EVN‑077 |
-| I.B.LI. Lithosphere (1)  | EVN‑020, EVN‑025, EVN‑047, EVN‑052, EVN‑087 |
-| I.B.HF. Heat Flow (2) | EVN‑019 |
-| I.B.CO. Core (2) | EVN‑020, EVN‑051 |
-| II.A.DD. Deep Dynamics (1) | EVN‑007, EVN‑011, EVN‑019, EVN‑032, EVN‑034, EVN‑082, EVN‑083, EVN‑084 |
-| II.A.UD. Upper Dynamics (1) | EVN‑011, EVN‑028, EVN‑034, EVN‑067, EVN‑068, EVN‑097 |
-| II.A.MP. Mesoscale Processes (2) | EVN‑011, EVN‑019, EVN‑034 |
-| II.B.RB. Radiative Balance (1) | EVN‑011, EVN‑019, EVN‑034, EVN‑049, EVN‑077 |
-| II.B.IN. Interactions (1) | EVN‑019, EVN‑035, EVN‑036, EVN‑041, EVN‑048, EVN‑053, EVN‑095, EVN‑097 |
-| II.B.AE. Aerosols (2) | EVN‑014, EVN‑016, EVN‑018, EVN‑077 |
-| II.B.UA. Unknown Absorber (2) | EVN‑019, EVN‑035, EVN‑048, EVN‑077, EVN‑080 |
-| II.B.OG. Outgassing (3) | EVN‑009, EVN‑041, EVN‑042 |
-| III.A.GH. Geologic History (1) | EVN‑023, EVN‑024, EVN‑025, EVN‑042, EVN‑044, EVN‑045, EVN‑046, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
-| III.A.GC. Geochemistry (1) | EVN‑023, EVN‑024, EVN‑026, EVN‑044, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
-| III.A.GA. Geologic Activity (2) | EVN‑029, EVN‑036, EVN‑043, EVN‑058, EVN‑087 |
-| III.A.CR. Crust (2) | EVN‑020, EVN‑025, EVN‑087 |
-| III.B.LW. Local Weathering (1) | EVN‑023, EVN‑041, EVN‑044 |
-| III.B.GW. Global Weathering (2) | EVN‑007, EVN‑044, EVN‑046 |
-| III.B.CI. Chemical Interactions (3) | EVN‑010, EVN‑014, EVN‑077, EVN‑082, EVN‑083 |
+| I.A.HO. Hydrous Origins ⑴ | EVN‑023, EVN‑052 |
+| I.A.RE. Recycling ⑴ | EVN‑023, EVN‑025, EVN‑045, EVN‑046, EVN‑047, EVN‑062, EVN‑085, EVN‑086 |
+| I.A.AL. Atmospheric Losses ⑵ | EVN‑028, EVN‑033, EVN‑038, EVN‑050, EVN‑091, EVN‑097 |
+| I.A.MA. Magnetism ⑶ | EVN‑028, EVN‑096, EVN‑097 |
+| I.B.IS. Isotopes ⑴ | EVN‑014, EVN‑055, EVN‑077 |
+| I.B.LI. Lithosphere ⑴  | EVN‑020, EVN‑025, EVN‑047, EVN‑052, EVN‑087 |
+| I.B.HF. Heat Flow ⑵ | EVN‑019 |
+| I.B.CO. Core ⑵ | EVN‑020, EVN‑051 |
+| II.A.DD. Deep Dynamics ⑴ | EVN‑007, EVN‑011, EVN‑019, EVN‑032, EVN‑034, EVN‑082, EVN‑083, EVN‑084 |
+| II.A.UD. Upper Dynamics ⑴ | EVN‑011, EVN‑028, EVN‑034, EVN‑067, EVN‑068, EVN‑097 |
+| II.A.MP. Mesoscale Processes ⑵ | EVN‑011, EVN‑019, EVN‑034 |
+| II.B.RB. Radiative Balance ⑴ | EVN‑011, EVN‑019, EVN‑034, EVN‑049, EVN‑077 |
+| II.B.IN. Interactions ⑴ | EVN‑019, EVN‑035, EVN‑036, EVN‑041, EVN‑048, EVN‑053, EVN‑095, EVN‑097 |
+| II.B.AE. Aerosols ⑵ | EVN‑014, EVN‑016, EVN‑018, EVN‑077 |
+| II.B.UA. Unknown Absorber ⑵ | EVN‑019, EVN‑035, EVN‑048, EVN‑077, EVN‑080 |
+| II.B.OG. Outgassing ⑶ | EVN‑009, EVN‑041, EVN‑042 |
+| III.A.GH. Geologic History ⑴ | EVN‑023, EVN‑024, EVN‑025, EVN‑042, EVN‑044, EVN‑045, EVN‑046, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
+| III.A.GC. Geochemistry ⑴ | EVN‑023, EVN‑024, EVN‑026, EVN‑044, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
+| III.A.GA. Geologic Activity ⑵ | EVN‑029, EVN‑036, EVN‑043, EVN‑058, EVN‑087 |
+| III.A.CR. Crust ⑵ | EVN‑020, EVN‑025, EVN‑087 |
+| III.B.LW. Local Weathering ⑴ | EVN‑023, EVN‑041, EVN‑044 |
+| III.B.GW. Global Weathering ⑵ | EVN‑007, EVN‑044, EVN‑046 |
+| III.B.CI. Chemical Interactions ⑶ | EVN‑010, EVN‑014, EVN‑077, EVN‑082, EVN‑083 |
 
 </small>
  
@@ -2109,7 +2109,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 ## Docs & links
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Timezones](time.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 

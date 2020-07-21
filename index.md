@@ -3,7 +3,7 @@
 
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радиосв., **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эргоном., **[IMU](imu.md)**·Гироскоп, **[Incubator](incubator.md)**·Инкуб., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MAG](mag.md)**·Магнитом., **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[RW](rw.md)**·ДМ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 
 [TOC]
 
@@ -269,7 +269,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**[Безопасность](rams.md)**|= **Safety**|
 |**Белая книга** (см. [Цветные книги](colour_papers.md))|= **White paper**|
 |**[Бережливое производство](lean_man.md)**|= **Lean manufacturing / Lean production**|
-|**БИБ** — бесплатформенный инерциальный блок (см. [Гироскоп](imu.md)) |≠ **SDIRU** — strap down inertial reference unit |
+|**БИБ** — бесплатформенный инерциальный блок (см. [Гироскоп](iu.md)) |≠ **SDIRU** — strap down inertial reference unit |
 |**БИВК** — бортовой информационный вычислительный комплекс (см. [ЦВМ](obc.md))  |= **Computer**|
 |**БИК** — бортовой измерительный комплекс |≠ **Onboard measuring complex**|
 |**БИУС** — блок измерения угловых скоростей |≠ **Rotation sensing unit**|
@@ -346,7 +346,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ВК** — входной контроль |= **II** — incoming inspection |
 |**ВКИ** — выдача корректирующего импульса |= **DVMA** — delta-velocity maneuver |
 |**ВНС** — внешний сигнал |= **EXS** — external signal |
-|**ВОГ** — волоконно‑оптический гироскоп (см. [Гироскоп](imu.md)) |= **FOG** — fibre optic gyroscope |
+|**ВОГ** — волоконно‑оптический гироскоп (см. [Гироскоп](iu.md)) |= **FOG** — fibre optic gyroscope |
 |**ВОЛП** — [волоконно‑оптическая линия передачи](ofts.md) |= **OFTS** — optical fiber transmission system |
 |**ВОЛС** — волоконно‑оптическая линия связи (см. [ВОЛП](ofts.md)) |= **OFTS** — optical fiber transmission system |
 |**ВП** — [военное представительство](milro.md) |= **MILRO** — military representative office  |
@@ -395,10 +395,10 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ГГИ** — гелиогеофизическая информация |≠ **Heliogeophysical information**|
 |**ГЗК** — грунтозаборный комплекс (см. [ГЗУ](sss.md)) |= **SSS** — soil sampling system |
 |**ГЗУ** — [грунтозаборное устройство](sss.md) |= **SSS** — soil sampling system |
-|**Гиродин** (см. [ДМ](rw.md)) |= **CMG** — control moment gyroscope |
-|**[Гироскоп](imu.md)**|= **Gyroscope** / **IMU** — inertial measurement unit |
-|**Гиростабилизатор** (см. [Гироскоп](imu.md)) |= **IMU** — inertial measurement unit |
-|**ГИВУС** — гироскопический измеритель вектора угловой скорости (см. [Гироскоп](imu.md)) |= **ARS** — angular rate sensor |
+|**Гиродин** (см. [ДМ](iu.md)) |= **CMG** — control moment gyroscope |
+|**[Гироскоп](iu.md)**|= **Gyroscope** / **IMU** — inertial measurement unit |
+|**Гиростабилизатор** (см. [Гироскоп](iu.md)) |= **IMU** — inertial measurement unit |
+|**ГИВУС** — гироскопический измеритель вектора угловой скорости (см. [Гироскоп](iu.md)) |= **ARS** — angular rate sensor |
 |**ГИС** — главная измерительная система |≠ **MAMS** — major measurement system |
 |**ГК** — генеральный конструктор |≠ **General designer**|
 |**ГК, ГСК** — государственный контракт (см. [Договор](contract.md)) |= **Public contract**|
@@ -472,7 +472,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**ДИСД** — доплеровский измеритель скорости и дальности (см. [ИСР](doppler.md)) |= **Doppler**|
 |**ДК** — двигатель коррекции (см. [ДУ](ps.md)) |≠ **CEN** — correction engine |
 |**ДКА** — дальний космический аппарат |≠ **LDSC** — long-distance spacecraft |
-|**ДМ** — [двигатель‑маховик](rw.md) |= **RW** — reaction wheel |
+|**ДМ** — [двигатель‑маховик](iu.md) |= **RW** — reaction wheel |
 |**ДМВ** — декретное московское время (см. [Временные зоны](time.md)) |≠ **Decree Moscow time**|
 |**ДМТ** — двигатель малой тяги (см. [ДУ](ps.md)) |= **LTEN** — low thrust engine |
 |**ДН** — [диаграмма направленности](дн.md) |= **RP** — radiation pattern / antenna pattern / far-field pattern |
@@ -763,7 +763,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |*Ru*|*En*|
 |:--|:--|
 |![](f/px310.png)|![](f/px310.png)|
-|**[Магнитометр](mag.md)**|= **MAG** — [magnetometer](mag.md)|
+|**[Магнитометр](sensor.md)**|= **MAG** — [magnetometer](sensor.md)|
 |**МАК** — модуль автоконфигурации |= **Autoconfiguration module**|
 |**[Маскот](zz_lav.md)**|= **Mascot**|
 |**[Матрица квалификации](matrix_qual.md)**|= **Qualification matrix**|
@@ -1435,7 +1435,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**У**|**УАККиС** — Управление автоматическими космическими комплексами и системами |≠ **AOASS** — Administration of automatic spacesystems |
 ||**УГТ** — [уровень готовности технологии](trl.md) |= **TRL** — [technology readiness levels](trl.md) |
 ||**УДК** — [универсальная десятичная классификация](udc.md) |= **UDC** — universal decimal classification |
-||**УДМ** — управляющий двигатель‑маховик (см. [ДМ](rw.md)) |= **CMG** — control moment gyroscope |
+||**УДМ** — управляющий двигатель‑маховик (см. [ДМ](iu.md)) |= **CMG** — control moment gyroscope |
 ||**[Узел орбиты](nnb.md)**|= **Orbital node**|
 ||**УЗК** — [уровни зрелости концепта](cml.md) |= **CML** — concept maturity levels |
 ||**УЗУ** — [уровни зрелости управления](mml.md) |= **MML** — [modeling maturity mevels](mmlevels.md) |
