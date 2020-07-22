@@ -7,7 +7,7 @@
 |E‑mail| <khatuntsev@gmail.com> |
 |i18n| <mark>TBD</mark> |
 |Tel| *work:* <mark>noworkphone</mark>; *mobile:* +7(495)333-41-02 |
-|| [![](f/contact/h/hatuncev_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/h/hatuncev1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

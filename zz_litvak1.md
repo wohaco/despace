@@ -7,7 +7,7 @@
 |Tel|*раб.:* +7(495)333-15-22; *mobile:* +7(968)666-24-36 |
 |E‑mail| <mlitvak.iki@gmail.com> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/l/litvak_001_animated.gif) [![](f/contact/l/litvak_001_sign_thumb.jpg)](f/contact/l/litvak_001_sign.png) |
+|| ![](f/contact/l/litvak1_animated.gif) [![](f/contact/l/litvak1_sign_thumb.jpg)](f/contact/l/litvak1_sign.png) |
 
    - **[Education](edu.md):** Д.ф.м.н.
    - **Exp.:** …

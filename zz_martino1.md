@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <paolo.martino@esa.int> |
 |B‑day, addr.| <mark>nodate</mark> 1986 / Leiden, NL, EU |
-|| ![](f/contact/m/martino_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/m/martino1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** MS, Space engineering, Milan PU, 2009. BS, Aerospace engineering, Milan PU, 2007.
    - **Exp.:** He supported the procurement of major innovative European satellites in all application domains, from Earth Observation to Telecommunication, Navigation & Science. He is currently managing a number of Small Satellite missions & In-Orbit-Demonstration projects developed within the ESA GSTP Technology programme.

@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <adhithiyan.n@gmail.com> |
 |B‑day, addr.| 1997.05.17 (Ченнаи, Индия) / Дехрадун, Индия |
-|| ![](f/contact/n/neduncheran_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/n/neduncheran1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** B.Tech Aerospace Engineering with specialization in Avionics.
    - **Exp.:** …

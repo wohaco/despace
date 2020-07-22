@@ -7,7 +7,7 @@
 |Tel| |
 |E‑mail| |
 |B‑day, addr.| 1907.01.12 ‑ 1966.01.14 / Москва, СССР |
-|| [![](f/contact/k/korolev_001_photo_thumb.jpg)](f/contact/k/korolev_001_photo.jpg) [![](f/contact/k/korolev_001_sign_thumb.jpg)](f/contact/k/korolev_001_sign.png) |
+|| [![](f/contact/k/korolev1_photo_thumb.jpg)](f/contact/k/korolev1_photo.jpg) [![](f/contact/k/korolev1_sign_thumb.jpg)](f/contact/k/korolev1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

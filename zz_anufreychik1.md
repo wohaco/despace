@@ -7,7 +7,7 @@
 |Tel|*раб.:* +7(495)333-45-78; *mobile:* +7(903)125-76-11 |
 |E‑mail| <kos@iki.rssi.ru> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/a/anufreichik_001_photo.jpg) [![](f/contact/a/anufreichik_001_sign_thumb.jpg)](f/contact/a/anufreichik_001_sign.png) |
+|| ![](f/contact/a/anufreichik1_photo.jpg) [![](f/contact/a/anufreichik1_sign_thumb.jpg)](f/contact/a/anufreichik1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -7,7 +7,7 @@
 |Tel|*раб.:* +33(0)180-28-52-83; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <emmanuel.marcq@latmos.ipsl.fr> |
 |B‑day, addr.| <mark>nodate</mark> 1980.. / … |
-|| ![](f/contact/m/marcq_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/m/marcq1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** Diplome d'Études Approfondies, Astrophysique, Observatoire de Paris, 2002‑2003. Magistère, Physique, Ecole normale supérieure, 1999‑2003.
    - **Exp.:** My research domain deals with atmospheric science in telluric atmospheres. I have mostly worked on the Venus’ atmosphere in order to constrain its chemistry, dynamics & volcanic activity. I mostly used spectroscopic remote-sensing (UV, IR) from both ground-based facilities & Venus Express (2006‑2014) ESA orbiter, & have been involved in related instrumental development for future missions towards Venus. I also have experience in atmospheric modeling, having used the LMD‑IPSL general circulation model of both early Mars & present day Venus, as well as developed a 1D radiative‑convective model for hot & dense H₂O‑CO₂ atmospheres around young magma ocean planets. I teach general physics, thermodynamics, radiative transfer & planetary atmospheric science for undergraduate & graduate students.

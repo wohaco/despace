@@ -7,7 +7,7 @@
 |Link| <https://www.meltin.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/meltin/> |
 |Tel| <mark>noworkphone</mark>, ℻: … |
 
-**MELTIN MMI** was established in July 2013. With forming initial members, CEO Kasuya and CTO Seki participated SRI International entrepreneur training program in Silicon Valley in 2014.MELTIN MMI is expertise in R&D and commercialization of medical devices and avatar robots.
+**MELTIN MMI** was established in July 2013. With forming initial members, CEO Kasuya and CTO Seki participated SRI International entrepreneur training program in Silicon Valley in 2014. MELTIN MMI is expertise in R&D and commercialization of medical devices and avatar robots.
 
 Our ultimate goal is to realize Cyborg Technology that is well known as artificial body and brain‑machine interface (interface between brain and machine) for unleashing human’s physical limitation and maximizing our creativity for embodying a world where everyone can make their dreams come true.
 

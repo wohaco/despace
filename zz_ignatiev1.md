@@ -7,7 +7,7 @@
 |Tel| *work:* +7(495)333-15-02; *mobile:* +7(903)120-11-93 |
 |E‑mail| <niignatiev@gmail.com> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/i/ignatiev_001_photo_thumb.jpg)](f/contact/i/ignatiev_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/i/ignatiev1_photo_thumb.jpg)](f/contact/i/ignatiev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

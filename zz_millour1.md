@@ -7,7 +7,7 @@
 |Tel|*раб.:* +(33)144-27-52-86; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <ehouarn.millour@lmd.jussieu.fr> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/m/millour_001_photo_thumb.jpg)](f/contact/m/millour_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/m/millour1_photo_thumb.jpg)](f/contact/m/millour1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** Planetary climate modelling.

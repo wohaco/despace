@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(303)492-73-25; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <larry.esposito@lasp.colorado.edu> |
 |B‑day, addr.| 1951.04.15 / … |
-|| [![](f/contact/e/esposito_001_photo_thumb.jpg)](f/contact/e/esposito_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/e/esposito1_photo_thumb.jpg)](f/contact/e/esposito1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** A 1973 graduate at the Massachusetts Institute of Technology. PhD in astronomy.
    - **Exp.:** Observational & theoretical studies of planetary atmospheres & rings; chemistry & dynamics of Venus clouds; waves in Saturn’s rings; numerical methods for radiation transfer.

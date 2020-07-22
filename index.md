@@ -3,7 +3,7 @@
 
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Управ., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Errors](error.md)**·Ошибки, **[Events](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 
 [TOC]
 
@@ -67,6 +67,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**[Ad hoc](ad_hoc.md)**|= **Специально для этого**|
 ||**ADCS** — attitude determination and control system |   |      |
 ||**ACS** — [attitude control system](acs.md) |  |
+||**AIV** — Assembly, integration, validation |≠ Сборка, интеграция, проверка |
 ||**AMBR** — [advanced material bipropellant rocket](ambr.md) |≠ **AMBR** — двухкомпонентный двигатель из передовых материалов |
 ||**ASAP** — as soon as possible |≠ Как можно скорее |
 ||**ASP** — [Ames stereo pipeline](ames_stereo_pipeline.md) |≠ **Стереотруба центра Эймса**|
@@ -156,7 +157,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 ||**[Python](python.md)**|= **Питон**|
 |**R**|**[R](r.md)**|≠ **R**|
 ||**RFI** — radio frequency interference |= [Помехи](emi.md) |
-|**S**|**SAR** — [synthetic-aperture radar](synthetic_aperture_radar.md)|= **РСА** — радар с синтезированной апертурой|
+|**S**|**SAR** — [synthetic-aperture radar](sar.md)|= **РСА** — радар с синтезированной апертурой|
 ||**SciRD** — [science requirements document](scird.md) |  |
 ||**SCN** — satellite catalog number (см. [SpaceID](spaceid.md))|= **Номер по спутниковому каталогу** (см. [SpaceID](spaceid.md))|
 ||**[SpaceID](spaceid.md)**|= **Идентификатор космического объекта**|
@@ -1170,7 +1171,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**РПТ** — рабочий план по теме |= **Project work schedule**|
 |**РР** — [регламент радиосвязи](rr.md) |= **RR** — [ITU Radio Regulations](rr.md) |
 |**РРД** — [разработка рабочей документации](rnd_rkd.md) |= **Phase C**|
-|**РСА** — [радар с синтезированной апертурой](synthetic_aperture_radar.md)|= **SAR** — synthetic-aperture radar|
+|**РСА** — [радар с синтезированной апертурой](sar.md)|= **SAR** — synthetic-aperture radar|
 |**РСВ** — разработка, согласование и выпуск (применительно к планированию работ) |≠ **Designing, agreeing & launching**|
 |**РТ** — радиотелескоп |= **Radiotelescope**|
 |**РТО** — радиационный теплообменник‑охладитель |= **Radiative heat exchanger**|

@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(520)621-69-63; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <lmcarter@lpl.arizona.edu> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/c/carter_001_photo_thumb.jpg)](f/contact/c/carter_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/c/carter1_photo_thumb.jpg)](f/contact/c/carter1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD & MS, Astronomy, Cornell Univ.
    - **Exp.:** Research interests: volcanism & impact cratering on the terrestrial planets, surface properties of asteroids, climate change, & the development of radar remote sensing techniques including polarimetric imaging & ground penetrating radar. She has used the Arecibo radar system to study Venus, the Moon & asteroids, is Deputy PI of the Mini‑RF radar on Lunar Reconnaissance Orbiter, & is a Co‑I on the SHARAD on Mars Reconnaissance Orbiter, REASON on the NASA Europa Mission & RIMFAX on the Mars2020 rover.

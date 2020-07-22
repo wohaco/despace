@@ -7,7 +7,7 @@
 |Tel| *work:* 51-41; *mobile:* +7(916)560-40-01 |
 |E‑mail| <s_ivanov@laspace.ru> |
 |B‑day, addr.| 1954.10.31, на НПОЛ с 1972 / … |
-|| [![](f/contact/i/ivanov_006_photo_thumb.jpg)](f/contact/i/ivanov_006_photo.jpg) [![](f/contact/i/ivanov_006_sign_thumb.jpg)](f/contact/i/ivanov_006_sign.png) |
+|| [![](f/contact/i/ivanov6_photo_thumb.jpg)](f/contact/i/ivanov6_photo.jpg) [![](f/contact/i/ivanov6_sign_thumb.jpg)](f/contact/i/ivanov6_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

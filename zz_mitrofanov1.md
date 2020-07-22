@@ -7,7 +7,7 @@
 |Tel|*раб.:* +7(495)333-41-23, ℻: +7(495)333-12-48; *mobile:* +7(926)219-88-58 |
 |E‑mail| mitrofanov@np.cosmos.ru|
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/m/mitrofanov_001_animated.gif) [![](f/contact/m/mitrofanov_001_sign_thumb.jpg)](f/contact/m/mitrofanov_001_sign.png) |
+|| ![](f/contact/m/mitrofanov1_animated.gif) [![](f/contact/m/mitrofanov1_sign_thumb.jpg)](f/contact/m/mitrofanov1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

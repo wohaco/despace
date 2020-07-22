@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <david@funkyscience.net> |
 |B‑day, addr.| <mark>nodate</mark> 1959.. / … |
-|| [![](f/contact/g/grinspoon_001_photo_thumb.jpg)](f/contact/g/grinspoon_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/g/grinspoon1_photo_thumb.jpg)](f/contact/g/grinspoon1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD in Arizona Univ. B.A & BS in Brown University.
    - **Exp.:** Astrobiologist, award-winning science communicator, & prize-winning author. His research focuses on climate evolution on Earth‑like planets & potential conditions for life elsewhere in the universe. He is involved with several interplanetary spacecraft missions for NASA, the European Space Agency & the Japanese Space Agency.

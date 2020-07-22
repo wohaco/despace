@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <kotsor@hotmail.com> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/k/kotsyurbenko_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/k/kotsyurbenko1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** Доктор биологических наук.
    - **Exp.:** …

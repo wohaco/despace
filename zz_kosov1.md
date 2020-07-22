@@ -7,7 +7,7 @@
 |Tel|*раб.:* +7(495)333-22-67; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <akosov@iki.rssi.ru> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/k/kosov_001_photo.jpg) ![](f/contact/k/kosov_001_sign.png) |
+|| ![](f/contact/k/kosov1_photo.jpg) ![](f/contact/k/kosov1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

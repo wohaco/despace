@@ -7,7 +7,7 @@
 |E‑mail| <aymeric.spiga@sorbonne-universite.fr> |
 |i18n| Спига, Эмерик |
 |Tel|*раб.:* +33(0)144-27-28-47; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/s/spiga_001_photo_thumb.jpg)](f/contact/s/spiga_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/s/spiga1_photo_thumb.jpg)](f/contact/s/spiga1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Université Pierre et Marie Curie in Planetary Science, 2008. MSc degree from UPMC in climate science, atmospheric physics & remote sensing, 2005.
    - **Exp.:** Research scientist in planetary science (LMD, Paris) Maître de conférences (Sorbonne Université, Paris). My research domain lies in between astrophysics & geophysical fluid dynamics. I am interested in how the most prominent atmospheric manifestations, witnessed at the planetary scale by telescopes & orbiting spacecraft, arise from smaller-scale atmospheric phenomena: turbulence, waves & instabilities. I work on various planetary atmospheres in the Solar System: from telluric planets (Mars, Venus) to giant planets (Saturn, Jupiter).

@@ -7,7 +7,7 @@
 |Tel| *work:* Калуга: 154; 36-15, 56-15 — если он в Химках; *mobile:* +7(930)753-01-14, +7(910)512-69-32 |
 |E‑mail| <kombaev@laspace.ru> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/k/kombaev_001_photo_thumb.jpg)](f/contact/k/kombaev_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/k/kombaev1_photo_thumb.jpg)](f/contact/k/kombaev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

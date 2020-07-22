@@ -7,7 +7,7 @@
 |E‑mail| <denis.rebuffat@esa.int> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/r/rebuffat_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/r/rebuffat1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

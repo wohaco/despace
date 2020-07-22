@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(818)879-35-02, ℻: +1(818)393-46-05; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <kbaines@jpl.nasa.gov> |
 |B‑day, addr.| 1954.02.11 / … |
-|| [![](f/contact/b/baines_001_photo_thumb.jpg)](f/contact/b/baines_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/b/baines1_photo_thumb.jpg)](f/contact/b/baines1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Physics, Washington Univ., 1982. MA, Physics, Washington Univ., 1978. BA, Physics, Astronomy (with honors, summa cum laude), Amherst College, 1976.
    - **Exp.:** …

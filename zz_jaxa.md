@@ -7,9 +7,9 @@
 |Link| <http://www.jaxa.jp/><br> <https://global.jaxa.jp/about/centers/tokyo/index.html><br> <https://en.wikipedia.org/wiki/JAXA> |
 |Tel| +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), ℻: … |
 
-The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, literally “National Research & Development Agency on Aerospace Research & Development”) is the Japanese national aerospace & space agency. Through the merger of three previously independent organizations, JAXA was formed on 2003.10.01. JAXA has 1 545 regular staff members as of FY 2016. Many domestic & overseas researchers, graduate students & people from the private sector are also hired.
+The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, literally “National Research & Development Agency on Aerospace Research & Development”) is the Japanese national aerospace & space agency. JAXA is responsible for research, technology development & launch of satellites into orbit, & is involved in many more advanced missions. A core executive organization that technically supports [aerospace development & utilization](project.md) for the Japanese Government. JAXA performs activities related to aerospace fields consistently from basic research & development to utilization.
 
-JAXA is responsible for research, technology development & launch of satellites into orbit, & is involved in many more advanced missions. JAXA is a core executive organization that technically supports aerospace development & utilization for the Japanese Government. JAXA performs activities related to aerospace fields consistently from basic research & development to utilization.
+Through the merger of three previously independent organizations, JAXA was formed on 2003.10.01. JAXA has 1 545 regular staff members as of FY 2016. Many domestic & overseas researchers, graduate students & people from the private sector are also hired.
 
    1. Aviation technology research
    1. Contributing to [artificial satellites](SC.md) & explorers
@@ -29,12 +29,13 @@ JAXA is responsible for research, technology development & launch of satellites 
 
 [JAXA Organization Chart ❐](f/contact/j/jaxa_org_chart.pdf). Notable divisions:
 
+
    - **Chofu Aerospace Center** — JAXA’s HQ & main development facility. Formed 1962, Tokyo.
    - **Earth Observation Center** — JAXA’s facility. Hatoyama, Saitama.
-   - **Extraterrestrial Sample Curation Center** — works of extraterrestrial materials retrieved by a sample‑return missions: documentation, preservation, preparation, distribution of samples.
-   - **[ISAS](zz_isas.md)** (Institute of Space & Aeronautical Science) — researches of astrophysics using rockets, astronomical satellites & interplanetary probes. Founded in 1950s.
+   - **[ISAS](zz_isas.md)** (Institute of Space & Aeronautical Science) — researches of astrophysics using rockets, astronomical [satellites & interplanetary probes](sc.md). Founded in 1950s.
+      - **[Extraterrestrial Sample Curation Center](zz_isas.md)** — works of extraterrestrial materials by a sample‑return missions: documentation, preservation, preparation, distribution of samples.
+      - **Sagamihara Campus** — ISAS’s facility. Sagamihara City.
    - **JSEC** (JAXA Space Exploration Center) — to integrate JAXA’s capabilities & expertise to promote its missions to the Moon & Mars. Formed 2018.
-   - **Kakuda Space Center** — development & testing of rocket engines & space propulsion systems. Formed 1965, Kakuda, Miyagi Prefecture.
-   - **Noshiro Rocket Testing Center** — R&D, testing of rockets & rocket’s engines. Formed 1962, Noshiro, Akita Prefecture.
-   - **TKSC** or **Tsukuba** (Tsukuba Space Center) — the operations facility, astronauts training, headquarters for JAXA. The complex has several factories to manufacture satellites & ISS modules. Formed 1972, Ibaraki Prefecture.
-   - **Sagamihara Campus** — ISAS’s facility. Sagamihara City.
+   - **[Kakuda Space Center](zz_kakuda_sc.md)** — development & testing of [rocket engines](ps.md) & space propulsion systems. Formed 1965, Kakuda, Miyagi Prefecture.
+   - **[Noshiro Rocket Testing Center](zz_noshiro_rtc.md)** — R&D, testing of rockets & [rocket engines](ps.md). Formed 1962, Noshiro, Akita Prefecture.
+   - **[TKSC](zz_tsukuba_sc.md)** or **Tsukuba** (Tsukuba Space Center) — operations facility, astronauts training, HQ for JAXA, manufactures [satellites](sc.md) & ISS modules. Formed 1972, Ibaraki Prefecture.

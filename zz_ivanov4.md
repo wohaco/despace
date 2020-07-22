@@ -7,7 +7,7 @@
 |Tel|*раб.:* 2-89; *mobile:* +7(905)524-06-14 |
 |E‑mail| <mikhail_ivanov@brown.edu> |
 |B‑day, addr.| <mark>nodate</mark> / … Корп. 2, каб. 326. |
-|| ![](f/contact/i/ivanov_004_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/i/ivanov4_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** Кандидат геолого‑минералогических наук.
    - **Exp.:** …

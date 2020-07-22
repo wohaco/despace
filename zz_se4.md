@@ -1,4 +1,4 @@
-# SE4, Inc
+# SE4
 > 2020.07.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
 
 |[![](f/contact/s/se4_logo1_thumb.jpg)](f/contact/s/se4_logo1.png)|*No.8 Kikuboshi Tower, 3 Chome-20-18 Asakusabashi, Taito City, Tokyo 111-0053, Japan*|
@@ -13,7 +13,7 @@ SE4’s vision is to combine AI and VR effectively to enable off‑world robot d
 
 <p style="page-break-after:always"> </p>
 
-## , comments
+## SE4, comments
 
 …
 

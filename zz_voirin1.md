@@ -7,7 +7,7 @@
 |E‑mail| <Thomas.Voirin@esa.int> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/v/voirin_001_photo_thumb.jpg)](f/contact/v/voirin_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/v/voirin1_photo_thumb.jpg)](f/contact/v/voirin1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -7,7 +7,7 @@
 |E‑mail| <ppd@laspace.ru>, <pavel-pisarenko@inbox.ru> |
 |i18n| <mark>TBD</mark> |
 |Tel| *work:* 64-08; *mobile:* +7(903)243-46-40, +7(977)882-73-11 |
-|| [![](f/contact/p/pisarenko_001_photo_thumb.jpg)](f/contact/p/pisarenko_001_photo.jpg) [![](f/contact/p/pisarenko_001_sign_thumb.jpg)](f/contact/p/pisarenko_001_sign.png) |
+|| [![](f/contact/p/pisarenko1_photo_thumb.jpg)](f/contact/p/pisarenko1_photo.jpg) [![](f/contact/p/pisarenko1_sign_thumb.jpg)](f/contact/p/pisarenko1_sign.png) |
 
    - **[Education](edu.md):** Космические аппараты и разгонные блоки.
    - **Exp.:** …

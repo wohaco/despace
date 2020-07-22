@@ -7,7 +7,7 @@
 |Tel| *work:* +33(0)251-125-497; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <veronique.ansan@univ-nantes.fr> |
 |B‑day, addr.| <mark>nodate</mark> 1968 ? / … |
-|| [![](f/contact/a/ansan_001_photo_thumb.jpg)](f/contact/a/ansan_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/a/ansan1_photo_thumb.jpg)](f/contact/a/ansan1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** Géologie / sciences de la Terre, général/ Planétologie, Université paris XI orsay, 1986 ‑ 1993.
    - **Exp.:** Université de Nantes, MCF, 2008 ‑ Present. Université Paris XI orsay, MCF, 1997 ‑ 2008.

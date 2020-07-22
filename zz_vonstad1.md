@@ -7,7 +7,7 @@
 |E‑mail| <frida.sjovoll.13@ucl.ac.uk> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/v/vonstad_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/v/vonstad1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD candidate, Civil Engineering, UCL, 2016-2020.
    - **Exp.:** …

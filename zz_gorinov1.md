@@ -7,7 +7,7 @@
 |Tel|*раб.:* +7(495)333-41-02; *mobile:* +7(910)474-10-32 |
 |E‑mail| <gorinov-dmitry@yandex.ru> |
 |B‑day, addr.| <mark>nodate</mark> / |
-|| ![](f/contact/g/gorinov_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/g/gorinov1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

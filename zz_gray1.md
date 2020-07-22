@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <candaceg@nmsu.edu> |
 |B‑day, addr.| <mark>nodate</mark> 1980 / … |
-|| [![](f/contact/g/gray_001_photo_thumb.jpg)](f/contact/g/gray_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/g/gray1_photo_thumb.jpg)](f/contact/g/gray1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Astronomy, New Mexico Univ., 2015.
    - **Exp.:** …

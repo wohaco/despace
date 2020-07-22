@@ -7,7 +7,7 @@
 |E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
 |Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/g/gavrik_001_photo_thumb.jpg)](f/contact/g/gavrik_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/g/gavrik1_photo_thumb.jpg)](f/contact/g/gavrik1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

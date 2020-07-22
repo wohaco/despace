@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(650)604-54-41; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <diana.gentry@nasa.gov> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/g/gentry_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/g/gentry1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

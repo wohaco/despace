@@ -10,7 +10,7 @@
 **UrtheCast** Corp. is a Vancouver-based technology company that serves the rapidly evolving geospatial & geoanalytics markets with a wide range of information-rich products & services.
 
 **UrtheCast** is a Vancouver-based Canadian earth observation company. The company went public on the Toronto Stock Exchange in June 2013. It is well known for putting two cameras on the International Space Station. One of these is a medium resolution camera & the other is the first ultra‑high definition video camera in space.  
-On June 22, 2015 UrtheCast announced plans to place a 16 satellite constellation in orbit called "OptiSar" to image the earth with proprietary cutting edge SAR ([synthetic aperture radar](synthetic_aperture_radar.md)) & optical cameras in order to provide earth observation day or night, rain or shine. On June 23, 2015 UrtheCast announced it had reached an agreement to buy Spanish based earth observation company Deimos Imaging & its two satellites. On March 31, 2016 Urthecast announced plans to place an additional 8 satellite constellation in orbit called "UrtheDaily" to monitor the entire earth every day.
+On June 22, 2015 UrtheCast announced plans to place a 16 satellite constellation in orbit called "OptiSar" to image the earth with proprietary cutting edge SAR ([synthetic aperture radar](sar.md)) & optical cameras in order to provide earth observation day or night, rain or shine. On June 23, 2015 UrtheCast announced it had reached an agreement to buy Spanish based earth observation company Deimos Imaging & its two satellites. On March 31, 2016 Urthecast announced plans to place an additional 8 satellite constellation in orbit called "UrtheDaily" to monitor the entire earth every day.
 
 
 <p style="page-break-after:always"> </p>

@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(303)944-94-76; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <bullock@boulder.swri.edu> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/b/bullock_001_photo.jpg) [![](f/contact/b/bullock_001_sign_thumb.jpg)](f/contact/b/bullock_001_sign.png) |
+|| ![](f/contact/b/bullock1_photo.jpg) [![](f/contact/b/bullock1_sign_thumb.jpg)](f/contact/b/bullock1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** Skills & Expertise: Astronomy & Astrophysics, Atmosphere, Space, Planetary Science, Optical Astronomy, Space Exploration, Space Technology, Planets, Planetary Sciences & Astrogeology, Solar System, Space Technology for Development, Planet Formation, Planetary Evolution, Planetary Geology, Exoplanets, Space Science, Extrasolar Planets, Mars, Chemical Evolution, Mars Exploration, Exobiology, Theoretical Planetology, Noble Gases, Cultural Astronomy, Planetary Exploration, Moon, Planetary Atmospheres, Origin of Life, Lunar Science, Remote Spectroscopy. В 2000-х писал proposal'ы для NASA для больших венерианских миссий.

@@ -7,7 +7,7 @@
 |Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| <mark>nodate</mark> 1955 ? / … |
-|| <mark>nophoto</mark> [![](f/contact//_001_photo_thumb.jpg)](f/contact//_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| <mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** PhD
    - **Exp.:** Tokyo Univ., Research Associate, 1981 ‑ 1990. Japan Society of Promoting Science, Researcher, 1980 ‑ 1981.

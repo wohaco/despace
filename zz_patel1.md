@@ -7,7 +7,7 @@
 |E‑mail| <manish.patel@open.ac.uk> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/p/patel_001_photo_thumb.jpg)](f/contact/p/patel_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/p/patel1_photo_thumb.jpg)](f/contact/p/patel1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** President of the Astrobiology Society of Britain. Astrobiological investigation of planetary environments. Radiative transfer modelling of UV & visible light through planetary atmospheres. Opacity studies of dust storms & dust devils. Environmental simulation of planetary/icy body surface environments. Hypervelocity impact investigations within the solar system.

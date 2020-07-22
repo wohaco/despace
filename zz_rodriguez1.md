@@ -7,7 +7,7 @@
 |E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/r/rodriguez_001_photo_thumb.jpg)](f/contact/r/rodriguez_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/r/rodriguez1_photo_thumb.jpg)](f/contact/r/rodriguez1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

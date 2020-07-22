@@ -7,7 +7,7 @@
 |E‑mail| <lzelenyi@iki.rssi.ru> |
 |i18n| Zeleny, Lev Matveevich |
 |Tel|*раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/z/zeleniy_001_animated.gif) [![](f/contact/z/zeleniy_001_sign_thumb.jpg)](f/contact/z/zeleniy_001_sign.png) |
+|| ![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.jpg)](f/contact/z/zeleniy1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

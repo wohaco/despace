@@ -7,7 +7,7 @@
 |Tel|*раб.:* +(351)213-616-731; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <geral@iastro.pt> |
 |B‑day, addr.| 1983.11.28 (Лиссабон, Португалия) / Лиссабон, Португалия |
-|| [![](f/contact/g/gonsalves_001_photo_thumb.jpg)](f/contact/g/gonsalves_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/g/gonsalves1_photo_thumb.jpg)](f/contact/g/gonsalves1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

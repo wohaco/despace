@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +7(916)628-61-39 |
 |E‑mail| <neismont@iki.rssi.ru> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/e/eismont_001_animated.gif) <mark>nosign</mark> |
+|| ![](f/contact/e/eismont1_animated.gif) <mark>nosign</mark> |
 
    - Natan Eismont. 
    - **[Education](edu.md):** Кандидат технических наук, 2012. Доктор физ‑мат наук, математика, МГУ, 1968.

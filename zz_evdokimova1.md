@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mark>noemail</mark> |
 |B‑day, addr.| 1993.09.23 (Москва, РФ) / Москва, РФ |
-|| [![](f/contact/e/evdokimova_001_photo_thumb.jpg)](f/contact/e/evdokimova_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/e/evdokimova1_photo_thumb.jpg)](f/contact/e/evdokimova1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(413)538-30-73; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <mdyar@mtholyoke.edu> |
 |B‑day, addr.| <mark>nodate</mark> 1958.. / … |
-|| ![](f/contact/d/dyar_001_photo.jpg) [![](f/contact/d/dyar_001_sign_thumb.jpg)](f/contact/d/dyar_001_sign.png) |
+|| ![](f/contact/d/dyar1_photo.jpg) [![](f/contact/d/dyar1_sign_thumb.jpg)](f/contact/d/dyar1_sign.png) |
 
    - **[Education](edu.md):** PhD, Geochemistry, Massachusetts Institute of Technology. BA, Geology & Art History, Wellesley College.
    - **Exp.:** Targets: Earth, Mars, Mercury, Moon, Venus. Mineralogist & spectroscopist interested in a wide range of problems relating to the evolution of the solar system. Study the redox state of iron & the abundance of hydrogen in solar system materials using Mossbauer, x‑ray absorption, & FTIR spectroscopy. Has pioneered use of machine learning tools to interpret spectroscopic data. Participating Scientist on the Mars Science Laboratory science team. In addition to being a Senior Scientist at [PSI](zz_psi.md), Darby Dyar is also Kennedy‑Schelkunoff Professor of Astronomy at Mt. Holyoke College.

@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <tcaro@berkeley.edu> |
 |B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/c/caro_001_photo_thumb.jpg)](f/contact/c/caro_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/c/caro1_photo_thumb.jpg)](f/contact/c/caro1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** BA, Molecular & Cell Biology, Berkeley Univ.
    - **Exp.:** …

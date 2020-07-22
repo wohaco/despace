@@ -7,7 +7,7 @@
 |E‑mail| <tverdislov@mail.ru> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* +7(495)939-11-95; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/t/tverdislov_001_photo_thumb.jpg)](f/contact/t/tverdislov_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/t/tverdislov1_photo_thumb.jpg)](f/contact/t/tverdislov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** Доктор физико‑математических наук с 1984 года.
    - **SC/Equip.:** …

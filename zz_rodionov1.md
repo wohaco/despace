@@ -7,7 +7,7 @@
 |E‑mail| <rodionov@iki.rssi.ru> |
 |i18n| <mark>TBD</mark> |
 |Tel| *work:* +7(495)333-13-34; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/r/rodionov_001_photo_thumb.jpg)](f/contact/r/rodionov_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/r/rodionov1_photo_thumb.jpg)](f/contact/r/rodionov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

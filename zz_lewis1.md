@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +44(7810)436-705 |
 |E‑mail| <neil.lewis@physics.ox.ac.uk> |
 |B‑day, addr.| 1996.04.22 (Pembury, Kent, UK) / Winchcombe, Gloucestershire, UK |
-|| ![](f/contact/l/lewis_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/l/lewis1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** Geophysical fluid dynamics, planetary science, climate. Understanding the large-scale dynamics of terrestrial planetary atmospheres. The aim of my DPhil project is to develop a better understanding of superrotation in terrestrial atmospheres. Студент профессора [Питера Рида](zz_read1.md).

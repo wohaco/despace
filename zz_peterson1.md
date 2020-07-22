@@ -7,7 +7,7 @@
 |E‑mail| <mark>noemail</mark> |
 |i18n| <mark>TBD</mark> |
 |Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/p/peterson_001_photo_thumb.jpg)](f/contact/p/peterson_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/p/peterson1_photo_thumb.jpg)](f/contact/p/peterson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** Graduate Course, California Institute of Technology, Space Systems Engineering, 1996 ‑ 1997. BA, Mathematics, Gustavus, 1973 ‑ 1977.
    - **Exp.:** 1985 ‑ 2009 JPL.

@@ -7,7 +7,7 @@
 |Tel| *work:* 44-59; *mobile:* +7(910)491-43-73 |
 |E‑mail| <lukav@laspace.ru> |
 |B‑day, addr.| 1962.07.02, на НПОЛ с 1985 / … |
-|| [![](f/contact/l/lukyanchikov_001_photo_thumb.jpg)](f/contact/l/lukyanchikov_001_photo.jpg) [![](f/contact/l/lukyanchikov_001_sign_thumb.jpg)](f/contact/l/lukyanchikov_001_sign.png) |
+|| [![](f/contact/l/lukyanchikov1_photo_thumb.jpg)](f/contact/l/lukyanchikov1_photo.jpg) [![](f/contact/l/lukyanchikov1_sign_thumb.jpg)](f/contact/l/lukyanchikov1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

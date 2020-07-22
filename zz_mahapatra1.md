@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <G.Mahapatra@tudelft.nl> |
 |B‑day, addr.| <mark>nodate</mark> .08.22 / … |
-|| [![](f/contact/m/mahapatra_001_photo_thumb.jpg)](f/contact/m/mahapatra_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/m/mahapatra1_photo_thumb.jpg)](f/contact/m/mahapatra1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** Atmosphere modelling, Clouds modelling, Radiative transfer, Venus, Atmosphere of Venus. Went to Delft University of Technology with a major in Aerospace Engineering. I love to work with complex algorithms & primarily work in Python.

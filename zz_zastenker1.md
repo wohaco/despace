@@ -7,7 +7,7 @@
 |E‑mail| <gzastenk@iki.rssi.ru> |
 |i18n| <mark>TBD</mark> |
 |Tel| *work:* +7(495)333-13-88; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/z/zastenker_001_photo_thumb.jpg)](f/contact/z/zastenker_001_photo.jpg) [![](f/contact/z/zastenker_001_sign_thumb.jpg)](f/contact/z/zastenker_001_sign.png) |
+|| [![](f/contact/z/zastenker1_photo_thumb.jpg)](f/contact/z/zastenker1_photo.jpg) [![](f/contact/z/zastenker1_sign_thumb.jpg)](f/contact/z/zastenker1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

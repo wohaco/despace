@@ -7,11 +7,11 @@
 |Tel|*раб.:* +1(301)614-64-66, ℻: +1(301)614-60-15; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <lori.s.glaze@nasa.gov> |
 |B‑day, addr.| 1964.07.19 (Техас) / … |
-|| [![](f/contact/g/glaze_001_photo_thumb.jpg)](f/contact/g/glaze_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/g/glaze1_photo_thumb.jpg)](f/contact/g/glaze1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Volcanic eruption plume dynamics, Lancaster Univ., 1994. MS, Physics, Texas Univ., 1989. BS, Physics, Texas Univ., 1985.
    - **Exp.:** Venus exploration.
-   - [Визитка (2018)](f/contact/g/glaze_001_card01.png). Паспорт: 821529569, истекает 2020.09.03.
+   - [Визитка (2018)](f/contact/g/glaze1_card01.png). Паспорт: 821529569, истекает 2020.09.03.
    - **SC/Equip.:** 2017 [Cubesat UV Experiment](cubesat_uv_experiment.md), 2009 [Venus Mobile Explorer](venus_mobile_explorer.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
    - Git: …

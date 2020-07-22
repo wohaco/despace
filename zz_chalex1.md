@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <remy.chalex@esa.int> |
 |B‑day, addr.| <mark>nodate</mark> 1979 / … |
-|| [![](f/contact/c/chalex_001_photo_thumb.jpg)](f/contact/c/chalex_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/c/chalex1_photo_thumb.jpg)](f/contact/c/chalex1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** System Engineer active in the fields of space missions design, project management, team work & feasibility evaluation (eg. mission concept).

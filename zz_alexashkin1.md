@@ -7,7 +7,7 @@
 |Tel| *work:* 40-01, 52-12, +7(495)575-52-12; *mobile:* +7(495)763-90-56 |
 |E‑mail| <alexashkin@laspace.ru> |
 |B‑day, addr.| 1955.07.04, на НПОЛ с 1978 / … |
-|| [![](f/contact/a/alexashkin_001_animated.gif)](f/contact/a/alexashkin_001_photo.jpg) [![](f/contact/a/alexashkin_001_sign_thumb.jpg)](f/contact/a/alexashkin_001_sign.png) |
+|| [![](f/contact/a/alexashkin1_animated.gif)](f/contact/a/alexashkin1_photo.jpg) [![](f/contact/a/alexashkin1_sign_thumb.jpg)](f/contact/a/alexashkin1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

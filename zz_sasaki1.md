@@ -7,7 +7,7 @@
 |E‑mail| <sasaki@stf.teu.ac.jp> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/s/sasaki_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/s/sasaki1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

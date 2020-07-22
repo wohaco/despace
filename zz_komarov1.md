@@ -7,7 +7,7 @@
 |Tel| *work:* 41-34; *mobile:* +7(916)240-43-88 |
 |E‑mail| <komarov@laspace.ru> |
 |B‑day, addr.| 1977.01.20, на НПОЛ с 2002 / … |
-|| [![](f/contact/k/komarov_001_photo_thumb.jpg)](f/contact/k/komarov_001_photo.jpg) [![](f/contact/k/komarov_001_sign_thumb.jpg)](f/contact/k/komarov_001_sign.png) |
+|| [![](f/contact/k/komarov1_photo_thumb.jpg)](f/contact/k/komarov1_photo.jpg) [![](f/contact/k/komarov1_sign_thumb.jpg)](f/contact/k/komarov1_sign.png) |
 
    - **[Education](edu.md):** …
    - **Exp.:** …

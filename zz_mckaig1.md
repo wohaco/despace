@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(810)423-95-86; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <jmckaig@umich.edu> |
 |B‑day, addr.| 1997.05.14 / … |
-|| [![](f/contact/m/mckaig_001_photo_thumb.jpg)](f/contact/m/mckaig_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/m/mckaig1_photo_thumb.jpg)](f/contact/m/mckaig1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, Biology & International Studies, Wisconsin Univ., 2019.
    - **Exp.:** …

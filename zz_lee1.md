@@ -7,7 +7,7 @@
 |Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <leeyj@edu.k.u-tokyo.ac.jp> |
 |B‑day, addr.| <mark>nodate</mark> 1984 ? / … |
-|| [![](f/contact/l/lee_001_photo_thumb.jpg)](f/contact/l/lee_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/l/lee1_photo_thumb.jpg)](f/contact/l/lee1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** PhD, Planets & Comets, Max Planck Institute for Solar System Research: Göttingen, DE, 2009 ‑ 2012. 2006-09-01 to 2008-08-29 | MS, Atmospheric Sciences, Yonsei University: Seodaemun-gu, Seoul, KR, 2006 ‑ 2008. BS, Physics, Atmospheric Sciences, Yonsei University: Seodaemun-gu, Seoul, KR / Chung-Ang University, Seoul, KR, 2002 ‑ 2006.
    - **Exp.:** Berlin Technical University: Researcher, 2019 ‑ Present. Tokyo Univ.: Graduate school of frontier sciences, 2017 ‑ 2018.

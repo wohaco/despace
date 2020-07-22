@@ -7,7 +7,7 @@
 |Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <zorigto@gmail.com> |
 |B‑day, addr.| <mark>nodate</mark> 1974 (Пущино, МО, РФ) / … |
-|| [![](f/contact/n/namsaraev_001_photo_thumb.jpg)](f/contact/n/namsaraev_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/n/namsaraev1_photo_thumb.jpg)](f/contact/n/namsaraev1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** Кандидат биологических наук, Микробиология. Область научных интересов — микроорганизмы, способные к использованию электроэнергии, фотосинтезирующие бактерии и микроорганизмы, способные существовать в экстремальных условиях.
    - **Exp.:** …

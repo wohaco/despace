@@ -7,7 +7,7 @@
 |Tel|*раб.:* +1(240)228-79-18 ; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <noam.izenberg@jhuapl.edu> |
 |B‑day, addr.| 1967.08.08 / … |
-|| [![](f/contact/i/izenberg_001_photo_thumb.jpg)](f/contact/i/izenberg_001_photo.jpg) [![](f/contact/i/izenberg_001_sign_thumb.jpg)](f/contact/i/izenberg_001_sign.png) |
+|| [![](f/contact/i/izenberg1_photo_thumb.jpg)](f/contact/i/izenberg1_photo.jpg) [![](f/contact/i/izenberg1_sign_thumb.jpg)](f/contact/i/izenberg1_sign.png) |
 
    - **[Education](edu.md):** PhD, Earth & Planetary Sciences, 1996, Washington Univ. ScB, Geology, 1989, Brown Univ.
    - **Exp.:** Interested in the remote sensing & in situ measurement of the surface composition, morphology, stratigraphy, & active geologic processes of rocky planetary & solar system small bodies. Research interests include the hydrologic cycle & surface/atmosphere interface processes of said celestial bodies in extreme environments.

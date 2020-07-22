@@ -7,7 +7,7 @@
 |Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <alexis.c.benz@jpl.nasa.gov> |
 |B‑day, addr.| <mark>nodate</mark> 1984 ? / … |
-|| [![](f/contact/b/benz_001_photo_thumb.jpg)](f/contact/b/benz_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/b/benz1_photo_thumb.jpg)](f/contact/b/benz1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** MS, Space systems, Michigan Univ., 2007. BS, Aerospace, Michigan Univ., 2006
    - **Exp.:** Lockheed Martin, Instrument Accommodator, 2015 ‑ Present. JPL, Deputy Mission Operations Systems Engineer, 2007 ‑ 2010: Successfully negotiated MSL Operational Interface agreements, & thread tests between the 5 project elements; Developed plans & procedures to enable 8 hour turn around time between downlink & uplink; Owner & co-author of the MSL Flight Design Document; Maintained Master Equipment Lists (MEL),  Power Equipment Lists (PEL), & budget for competed & directed mission studies; monitored resource margins; Systems engineer for [Team-X](jpl_if.md); responsible for managing all subsystem leads in dynamic, time critical, iterative design environment; Guided 2 day workshop (27 scientists & engineers from around US) down selecting  instruments  for Venus Flagship road mapping effort.  Presented results on behalf of team; Developed & maintained project requirements for Orbiter Exomars Design Team; Routinely calculated mass & cost for propulsion & structural subsystems; Deputy Proposal Manager for Snowpacks Ventures proposal, Deputy Systems Engineer on Venus Flagship Study; Assisted with 3 Venus balloon helicopter drop tests.

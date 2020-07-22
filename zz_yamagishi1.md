@@ -7,7 +7,7 @@
 |E‑mail| <yamagish@ls.toyaku.ac.jp> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* +81-426-76-7139; факс: +81-426-76-7145; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/y/yamagishi_001_photo_thumb.jpg)](f/contact/y/yamagishi_001_photo.jpg) <mark>nosign</mark> |
+|| [![](f/contact/y/yamagishi1_photo_thumb.jpg)](f/contact/y/yamagishi1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** PhD, University of Tokyo. Associate professor Tokyo University of Pharmacy & Life Science, Tokyo, since 1995, professor, since 2005. Research associate Tokyo University, 1982-1984. Visiting scientist University California, Berkeley, 1984-1986. Assistant professor Tokyo Institute of Technology, 1987-1995.
    - **Exp.:** …

@@ -7,7 +7,7 @@
 |Tel| *work:* +1(818)354-90-75; факс: +1(818)393-50-07 *mobile:* <mark>nomobile</mark> |
 |E‑mail| <Viktor.V.Kerzhanovich@jpl.nasa.gov> |
 |B‑day, addr.| <mark>nodate</mark> 1940 ? / … |
-|| [![](f/contact/k/kerzhanovich_001_photo_thumb.jpg)](f/contact/k/kerzhanovich_001_photo.jpg) <mark>nosign</mark> [![](f/contact//_001_sign_thumb.jpg)](f/contact//_001_sign.png) |
+|| [![](f/contact/k/kerzhanovich1_photo_thumb.jpg)](f/contact/k/kerzhanovich1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
 
    - **[Education](edu.md):** Doctor of Sciences, Physics & Mathematics, Space Research Institute, Moscow, Russia. Candidate of Sciences & Doctor of Sciences, Physics, Space Research Institute of Russian Academy of Sciences. BS, Physics, Moscow State University, 1961.
    - **Exp.:** He pioneered & led experiments on atmospheric dynamics & was Co-Investigator for other experiments on 15 Soviet Venera & Mars missions that include probes, balloons & orbiters. Viktor participated at all phases from concept development to implementation & mission operations. He received the USSR State Prize & several NASA Group Achievement Awards. He joined JPL in 1997 & since he’s actively involved in development of planetary robotic balloons incl. conceptual design, modeling, simulation & flight tests. Some of these concepts were base of five Discovery mission proposals. Research Interests. Planetary Aerobots: concepts, design, development, modeling, implementation, testing. Concept development of planetary entry probes. Tracking & communication with planetary probes. Doppler wind experiments.

@@ -7,7 +7,7 @@
 |E‑mail| <adriana.c.ocampo@nasa.gov>, <aco@nasa.gov> |
 |i18n| <mark>TBD</mark> |
 |Tel|*раб.:* +1(202)358-21-52, ℻: +1(202)358-30-97; *mobile:* +1(202)372-70-58 |
-|| ![](f/contact/o/ocampo_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/o/ocampo1_photo.jpg) <mark>nosign</mark> |
 
    - **[Education](edu.md):** Uria PhD
    - **Exp.:** New Frontiers Lead Program Executive, Lucy Program Executive, Venus Lead Scientist, Akatsuki Program Scientist, VEXAG Program Officer, EnVision Mission Study Lead, Venera-D Mission Study Lead

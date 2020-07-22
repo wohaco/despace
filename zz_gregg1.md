@@ -7,9 +7,9 @@
 |Tel|*раб.:* +1(716)645-43-28; *mobile:* <mark>nomobile</mark> |
 |E‑mail| <tgregg@buffalo.edu> |
 |B‑day, addr.| 1968.09.12 (Nebraska, USA) / |
-|| ![](f/contact/g/gregg_001_photo.jpg) <mark>nosign</mark> |
+|| ![](f/contact/g/gregg1_photo.jpg) <mark>nosign</mark> |
 
-   - **[CV](f/contact/g/gregg_001_cv_17-18.pdf)**.
+   - **[CV](f/contact/g/gregg1_cv_17-18.pdf)**.
    - **Exp.:** Volcanic eruptions in extreme environments (mid‑ocean ridges & extraterrestrial surfaces); lava flow eruption & emplacement on Earth & other planets; constraining physics of eruptions from resulting volcanic morphologies.
    - …
    - **SC/Equip.:** …
