@@ -4,7 +4,7 @@
 |[![](f/contact/m/maxar_logo1_thumb.png)](f/contact/m/maxar_logo1.png)|*Maxar, 1300 W 120th Avenue, Westminster, CO 80234, USA*|
 |:--|:--|
 |E‑mail| <info@maxar.com> |
-|Link| <https://www.maxar.com/><br> <https://en.wikipedia.org/wiki/Maxar_Technologies> |
+|Link| <https://www.maxar.com/><br> <https://en.wikipedia.org/wiki/Maxar_Technologies><br> <https://www.linkedin.com/company/maxar-technologies-ltd/> |
 |Tel| <mark>noworkphone</mark>, ℻: … |
 
 **Maxar Technologies** Inc. is a space technology company headquartered in Westminster, Colorado, United States, specializing in manufacturing communication, Earth observation, radar, & on‑orbit servicing satellites, satellite products, & related services.

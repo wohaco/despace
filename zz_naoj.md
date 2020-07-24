@@ -7,9 +7,9 @@
 |Link| <https://www.nao.ac.jp/><br> <https://en.wikipedia.org/wiki/National_Astronomical_Observatory_of_Japan><br> <https://www.linkedin.com/company/national-astronomical-observatory-of-japan/> |
 |Tel| +81 422-34-3600, ℻: … |
 
-**National Astronomical Observatory of Japan (NAOJ)** is the national center for astronomy research in Japan. It provides observational facilities to researchers throughout the country and promotes joint research programs. It also utilizes the development of astronomy and other related fields as opportunities for international cooperation. Founded in 1988.
+**National Astronomical Observatory of Japan (NAOJ)** is the national center for astronomy research in Japan. It provides observational facilities to researchers throughout the country & promotes joint research programs. It also utilizes the development of astronomy & other related fields as opportunities for international cooperation. Founded in 1988.
 
-In 2004, NAOJ, in alliance with four other national institutes — the National Institute for Basic Biology, the National Institute for Fusion Science, the National Institute for Physiological Sciences, and the Institute for Molecular Science — established the National Institutes of Natural Sciences (NINS) to promote collaboration among researchers of the five constituent institutes.
+In 2004, NAOJ, in alliance with four other national institutes — the National Institute for Basic Biology, the National Institute for Fusion Science, the National Institute for Physiological Sciences, & the Institute for Molecular Science — established the National Institutes of Natural Sciences (NINS) to promote collaboration among researchers of the five constituent institutes.
 
 <p style="page-break-after:always"> </p>
 
@@ -18,7 +18,7 @@ In 2004, NAOJ, in alliance with four other national institutes — the National 
 Facilities:
 
    1. **Mitaka Campus (Mitaka, Tokyo. 35°40′31″N 139°32′17″E)**
-      - The Headquarters, Astronomy Data Center, Advanced Technology Center, Public Relations Center
+      - HQ, Astronomy Data Center, Advanced Technology Center, Public Relations Center
       - Solar Flare Telescope, Sunspot Telescope, TAMA 300 gravitational wave detector
       - Tokyo Photoelectric Meridian Circle
       - Historical instruments: Solar Tower Telescope, 65cm refractor dome, 20cm refractor dome

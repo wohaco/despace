@@ -9,9 +9,9 @@
 
 **PASCO CORPORATION** is a Japanese company which provides geospatial Information: collecting, processing, providing. Founded 1953.10.27.
 
-Nowadays geospatial information is recognized as an important social infrastructure, as it serves as fundamental information for the national land and for corporate management.
+Nowadays geospatial information is recognized as an important social infrastructure, as it serves as fundamental information for the national land & for corporate management.
 
-PASCO CORPORATION is constantly in pursuit of the most advanced technologies in the areas of the acquisition and processing of geospatial information. Based on the results obtained through the active utilization of these technologies, the PASCO Group provides products and services that underpin secure and comfortable lives for the people around the world.
+PASCO CORPORATION is constantly in pursuit of the most advanced technologies in the areas of the acquisition & processing of geospatial information. Based on the results obtained through the active utilization of these technologies, the PASCO Group provides products & services that underpin secure & comfortable lives for the people around the world.
 
 <p style="page-break-after:always"> </p>
 

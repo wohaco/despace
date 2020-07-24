@@ -7,9 +7,9 @@
 |Link| <https://www.jepico.co.jp/> |
 |Tel| +81-3-6386-0611, +81-3-5386-8234, ℻: … |
 
-**JEPICO Corporation** is a service‑oriented import distributor of electric components, single board computers and system level products for markets both within Japan and globally. Founded in 1972.11.17.
+**JEPICO Corporation** is a service‑oriented import distributor of electric components, single board computers & system level products for markets both within Japan & globally. Founded in 1972.11.17.
 
-JEPICO has also developed Custom LSI, Module, Board and engages in system integration. JEPICO has the knowledge and experience to handle a wide variety of transactions as needed to succeed within the international trade environment. As JEPICO is admitted Export License, it contributes to a smooth trading. The products we provide can be found across the Aerospace, Defense and high‑end Industry Markets. JEPICO has developed a reputation for high reliability, targeting niche and focused markets that depend on that extra effort.
+JEPICO has also developed Custom LSI, Module, Board & engages in system integration. JEPICO has the knowledge & experience to handle a wide variety of transactions as needed to succeed within the international trade environment. As JEPICO is admitted Export License, it contributes to a smooth trading. The products we provide can be found across the Aerospace, Defense & high‑end Industry Markets. JEPICO has developed a reputation for high reliability, targeting niche & focused markets that depend on that extra effort.
 
 <p style="page-break-after:always"> </p>
 
@@ -18,10 +18,10 @@ JEPICO has also developed Custom LSI, Module, Board and engages in system integr
 Market:
 
    - Aerospace & Defense
-   - Bluetooth and Wireless Communication
+   - Bluetooth & Wireless Communication
    - Construction Vehicle
    - Harsh Environments
-   - High-end Industries
+   - High‑end Industries
    - Measurement & Mapping & Positioning
    - Railways
    - Satellite Communications
@@ -33,14 +33,14 @@ Main Customers:
 
    - Fujitsu Group
    - Hitachi Group
-   - [Institute of Physical and Chemical Research (RIKEN)](zz_riken.md)
+   - [Institute of Physical & Chemical Research (RIKEN)](zz_riken.md)
    - Ishikawajima-Harima Heavy Industries Group
    - JAE Group
    - [JAXA](zz_kaxa.md)
-   - Kawasaki Heavy Industries Group
+   - [Kawasaki Heavy Industries Group](zz_kawasaki_hvi.md)
    - [Mitsubishi Electric Group](zz_mitsubishi.md)
    - [Mitsubishi Heavy Industries Group](zz_mitsubishi.md)
-   - NEC Group /NICT
+   - [NEC Group / NICT](zz_nec.md)
    - OKI Group
    - Panasonic Group
    - SHIMADZU Group

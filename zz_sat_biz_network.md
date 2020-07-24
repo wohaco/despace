@@ -11,12 +11,11 @@
 
 Our mission is to be the bridge between Japanese & Global Space Business by connecting companies of all sizes through business & technical consultation services. We aim to offer the extensive knowledge of well‑experienced companies to start‑ups, while identifying & implementing disruptive innovations of the passionate new companies into corporations.
 
-   - Technical consulting & support services for space industry companies & government organizations, including space policy & strategy, market surveys, market development, & overseas business development.
-   - Space technology startup support, including planning, implementation, management, & evaluations.
+   - Education, experience‑based training, & skills & knowledge training.
    - Corporate consultation regarding space business & technology. (policy/strategy analysis & formulation, market research/analysis, business plan formulation, overseas expansion/collaboration/M&A support, due diligence, technical investigation/analysis, consultation/proposals, etc.)
    - Introduction/planning/support for satellite data utilization services.
-   - Education, experience‑based training, & skills & knowledge training.
-
+   - Space technology startup support, including planning, implementation, management, & evaluations.
+   - Technical consulting & support services for space industry companies & government organizations, including space policy & strategy, market surveys, market development, & overseas business development.
 
 <p style="page-break-after:always"> </p>
 

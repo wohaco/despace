@@ -7,15 +7,15 @@
 |Link| <https://mech-hm.eng.hokudai.ac.jp/~spacesystem/index_e.html> |
 |Tel| <mark>noworkphone</mark>, ℻: … |
 
-Division of Mechanical and Space Engineering,Graduate School of Engineering, Hokkaido University, Japan.
+**Laboratory of Space Systems** is a division of Mechanical & Space Engineering, Graduate School of Engineering, Hokkaido University, Japan.
 
 Projects:
 
    - CAMUI Hybrid Rocket Engine
-   - The staged combustion hybrid rocket
-   - SOTV (The solar orbit transfer vehicle)
    - Liquid Droplet Radiator
    - Pulse Detonation Engine
+   - SOTV (The solar orbit transfer vehicle)
+   - The staged combustion hybrid rocket
 
 <p style="page-break-after:always"> </p>
 

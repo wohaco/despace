@@ -9,11 +9,11 @@
 
 **Pale Blue Inc.** is a Japanese company which mission is to provide the mobility for sustainable space development.
 
-   - Propulsion Systems
    - Consulting of Spacecraft Design & Integration
-   - Rent Test Equipments
+   - [Propulsion Systems](ps.md)
+   - [Rent Test Equipments](test.md)
 
-Pale Blue was founded in 2020 by reseachers in The University of Tokyo who wanted to prove that science and technology maximizes human well-being. Drives small-satellite business by using our small propulsion technology.
+Pale Blue was founded in 2020 by reseachers in [The University of Tokyo](zz_tokyo_univ.md) who wanted to prove that science & technology maximizes human well-being. Drives small-satellite business by using our small propulsion technology.
 
 <p style="page-break-after:always"> </p>
 

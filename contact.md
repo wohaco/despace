@@ -5,241 +5,6 @@
 
 ---
 
-## Persons
-
-<small>
-
-|*#*|*Person*|*Agencies*|*Etc*|
-|:--|:--|:--|:--|
-|**A**| [Adler, Mark](zz_adler1.md) | JPL |—|
-|| ~~[Allen, Mark Andrew](zz_allen1.md)~~ |—||
-|| [Ansari, Arif Husain](zz_ansari2.md) |—| BSIP |
-|| [Ansari, R. Rafat](zz_ansari1.md) | GRC |—|
-|| [Ansan, Veronique](zz_ansan1.md) |—| LPG |
-|| [Arney, Giada](zz_arney1.md) | GSFC |—|
-|| [Алексашкин, Сергей Николаевич](zz_alexashkin1.md) | LAV |—|
-|| [Ануфрейчик, Константин Владимирович](zz_anufreychik1.md) | IKI RAS |—|
-|| Асмус Василий Валентинович |—| Planeta |
-|**B**| [Baines, Kevin](zz_baines1.md) | JPL |—|
-|| [Baker, Charles L.](zz_baker1.md) | GSFC |—|
-|| [Balint, Tibor](zz_balint1.md) | JPL |—|
-|| [Beauchamp, Patricia](zz_beauchamp1.md) | JPL |—|
-|| [Benz, Alexis C.](zz_benz1.md) |—| Lockheed Martin |
-|| [Berger, Gilles](zz_berger1.md) |—| IRAP |
-|| [Blamont, Jacques](zz_blamont1.md) | CNES |—|
-|| [Bovolo, Francesca](zz_bovolo1.md) |—| FBK-irst |
-|| [Bradburne, Chris](zz_bradburne1.md) |—| JHU APL |
-|| [Breuer, Doris](zz_breuer1.md) | DLR |—|
-|| [Bristow, Thomas F.](zz_bristow1.md) | NASA |—|
-|| [Bruzzone, Lorenzo](zz_bruzzone1.md) |—| Trento Univ |
-|| [Bullock, Mark](zz_bullock1.md) |—| SWRI |
-|| [Byrne, Paul K.](zz_byrne1.md) |—| NCSU |
-|| ~~[Бабакин, Георгий Николаевич](zz_babakin1.md)~~ | LAV |—|
-|| [Бабакин, Николай Георгиевич](zz_babakin2.md) |—| ASC |
-|| ~~[Бармин, Владимир Павлович](zz_barmin1.md)~~ |—| BMSTU |
-|| [Буров, Алексей Анатольевич](zz_burov1.md) | LAV |—|
-|| [Бурданов, Антон Владимирович](zz_burdanov1.md) | TSNIImash |—|
-|**C**| [Campbell, Bruce A.](zz_campbell1.md) |—| SI NASM |
-|| [Caro, Tristan](zz_caro1.md) |—| Berkeley Univ |
-|| [Carter, Lynn](zz_carter1.md) |—| Arizona Univ |
-|| [Chalex, Remy](zz_chalex1.md) | ESA |—|
-|| [Chassefiere, Eric](zz_chassefiere1.md) |—| Université Paris-Saclay |
-|| [Colaprete, Anthony](zz_colaprete1.md) |—| ARC |
-|| [Cordova, Jaime A.](zz_cordova1.md) |—| Wisconsin Univ |
-|| [Cottini, Valeria](zz_cottini1.md) |—| Maryland Univ |
-|| [Cutts, James Alfred](zz_cutts1.md) | JPL |—|
-|| ~~[Челомей, Владимир Николаевич](zz_chelomei1.md)~~ |—| CIAM |
-|| [Чулков, Илья Владиленович](zz_chulkov1.md) | IKI RAS |—|
-|**D**| [D'Incecco, Piero](zz_dincecco1.md) |—| IRSPS |
-|| [Domagal-Goldman, Shawn](zz_domagalgoldman1.md) | GSFC |—|
-|| [Dong, Chuanfei](zz_dong1.md) |—| Princeton Univ |
-|| [Dumoulin, Caroline](zz_dumoulin1.md) |—| LPG |
-|| [Dyar, Darby](zz_dyar1.md) |—| Mount Holyoke College |
-|| [Долгополов, Владимир Павлович](zz_dolgopolov1.md) | LAV |—|
-|**E**| [Economou, Thanasis](zz_economou1.md) |—| Chicago Univ |
-|| [Ernst, Richard E.](zz_ernst1.md) |—| Carleton Univ., Tomsk SU |
-|| [Esposito, Larry W.](zz_esposito1.md) |—| LASP |
-|| [Ewan, Shannon](zz_ewan1.md) | NASA |—|
-|| [Евдокимова, Дарья Геннадьевна](zz_evdokimova1.md) | IKI RAS |—|
-|| [Елшанский, Леонид Борисович](zz_елшанский1.md) | Roscosmos |—|
-|| Ефанов Владимир Владимирович | LAV |—|
-|| [Ёлкин, Константин Сергеевич](zz_elkin1.md) | TSNIImash |—|
-|| [Эйсмонт, Натан Андреевич](zz_eismont1.md) | IKI RAS |—|
-|**G**| [Gentry, Diana M.](zz_gentry1.md) |—| ARC |
-|| [Ghail, Richard](zz_ghail1.md) |—| Royal Holloway |
-|| [Glaze, Lori S.](zz_glaze1.md) | GSFC |—|
-|| [Cockell, Charles Seaton](zz_cockell1.md) |—| Edinburgh Univ |
-|| [Gonçalves, Ruben](zz_gonzalves1.md) |—| IA |
-|| [Gorevan, Stephen Paul](zz_gorevan1.md) |—| Honeybee |
-|| [Gray, Candice](zz_gray1.md) |—| New Mexico Univ |
-|| [Green, James Lauer](zz_green1.md) | NASA |—|
-|| [Gregg, Tracy](zz_gregg1.md) |—| UB |
-|| [Grimm, Robert E.](zz_grimm1.md) |—| SWRI |
-|| [Grinspoon, David](zz_grinspoon1.md) |—| PSI |
-|| [Гаврик, Анатолий Леонидович](zz_gavrik1.md) |—| IRE RAS |
-|| [Гаврилин, Сергей Иванович](zz_gavrilin1.md) | LAV |—|
-|| [Герасимов, Михаил Владимирович](zz_gerasimov1.md) | IKI RAS |—|
-|| [Горинов, Дмитрий Алексеевич](zz_gorinov1.md) | IKI RAS |—|
-|| [Губайдуллин Валерий Шарифьянович](zz_gubaydullin1.md) | TSNIImash |—|
-|**H**| [Hashimoto, George L.](zz_hashimoto1.md) |—| Okayama Univ |
-|| [Hayashi, Yoshi-Yuki](zz_hayashi1.md) |—| Kobe Univ |
-|| [Hall, Jeffery L.](zz_hall1.md) | JPL |—|
-|| [Head, James W.](zz_head1.md) |—| Brown Univ |
-|| [Helbert, Jörn](zz_helbert1.md) | DLR |—|
-|| [Hino, Takafumi](zz_hino1.md) |—| Matsue Coll |
-|| [Hunter, Gary W.](zz_hunter1.md) | GRC |—|
-|| [Хайлов, Михаил Николаевич](zz_hailov1.md) | Roscosmos |—|
-|| [Хатунцев, Игорь Валерьевич](zz_hatuntsev1.md) | IKI RAS |—|
-|**I**| [Imamura, Takeshi](zz_imamura1.md) |—| Tokyo Univ |
-|| [Ishii, Nobuaki](zz_ishii1.md) | ISAS/JAXA |—|
-|| [Iwagami, Naomoto](zz_iwagami1.md) |—| Tokyo Univ |
-|| [Izenberg, Noam](zz_izenberg1.md) |—| JHUAPL |
-|| [Иванов, Михаил Арсеньевич](zz_ivanov4.md) |—| GEOKHI |
-|| [Иванов, Сергей Вениаминович](zz_ivanov6.md) | LAV |—|
-|| [Игнатьев, Николай Игоревич](zz_ignatiev1.md) | IKI RAS |—|
-|**J**| [Jessup, Kandis Lea](zz_jessup1.md) | NASA |—|
-|| [Jindal, Abhinav](zz_jindal1.md) |—| Cornell Univ |
-|| [Johnson, Natasha M.](zz_johnson1.md) | GSFC |—|
-|**K**| [Kerzhanovich, Viktor V.](zz_kerzhanovich1.md) | JPL |—|
-|| [Kiefer, Walter S.](zz_kiefer1.md) |—| LPI |
-|| [Kleinboehl, Armin](zz_kleinboehl1.md) | JPL |—|
-|| [Kohler, Erika](zz_kohler1.md) | GSFC |—|
-|| [Kolawa, Elizabeth A.](zz_kolawa1.md) | JPL |—|
-|| [Komatsu, Goro](zz_komatsu1.md) |—| IRSPS |
-|| [Kremic, Tibor](zz_kremic1.md) | GRC |—|
-|| [Kwok, John H.](zz_kwok1.md) | JPL |—|
-|| [Казмерчук, Павел Владимирович](zz_kazmerchuk1.md) | LAV |—|
-|| ~~[Кардашёв, Николай Семёнович](zz_kardashev1.md)~~ |—| ASC |
-|| ~~[Келдыш, Мстислав Всеволодович](zz_keldysh1.md)~~ |—| AS USSR |
-|| [Коваленко, Ирина Дмитриевна](zz_kovalenko1.md) | IKI RAS |—|
-|| [Комаров, Александр Юрьевич](zz_komarov1.md) | LAV |—|
-|| [Комбаев, Тимур Шикурович](zz_kombaev1.md) | LAV |—|
-|| [Компаниченко, Владимир Николаевич](zz_kompanichenko1.md) |—| IKARP |
-|| [Коптев, Юрий Николаевич](zz_koptev1.md) |—| Rostec |
-|| [Кораблёв, Олег Игоревич](zz_korablev1.md) | IKI RAS |—|
-|| ~~[Королёв, Сергей Павлович](zz_korolev1.md)~~ |—| OKB-1 |
-|| Косенкова Анастасия Владимировна | LAV |—|
-|| [Косов, Александр Сергеевич](zz_kosov1.md) | IKI RAS |—|
-|| [Костицын, Юрий Александрович](zz_kostitsyn1.md) |—| GEOKHI |
-|| [Котляров, Евгений Юрьевич](zz_kotlyarov1.md) | LAV |—|
-|| [Коцюрбенко, Олег Ролландович](zz_kotsurbenko1.md) |—| UGRA |
-|| ~~[Ксанфомалити, Леонид Васильевич](zz_ksanfomaliti1.md)~~ | IKI RAS |—|
-|| Кусь Олег Николаевич |—| OKB 5 |
-|**L**| [Le Gall, Alice Anne](zz_legall1.md) |—| LATMOS |
-|| [Lebonnois, Sebastien](zz_lebonnois1.md) |—| Sorbonne Univ., LMD |
-|| [Lee, Yeon Joo](zz_lee1.md) |—| Berlin Tech.Univ |
-|| [Lefevre, Maxence](zz_lefevre1.md) |—| Oxford Univ |
-|| [Lefort, Jayne](zz_lefort1.md) | ESA |—|
-|| [Lewis, Neil Tamas](zz_lewis1.md) |—| Oxford Univ |
-|| [Limaye, Sanjay Shridhar](zz_limaye1.md) |—| Wisconsin Univ |
-|| [Lopes, Rosaly M.C.](zz_lopes1.md) | JPL |—|
-|| [Lorenz, Ralph](zz_lorenz1.md) |—| JHUAPL |
-|| [Luhmann, Janet G.](zz_luhmann1.md) |—| NASA, Berkley |
-|| ~~[Лавочкин, Семён Алексеевич](zz_lavochkin1.md)~~ | OKB-301 |—|
-|| [Литвак, Максим Леонидович](zz_litvak1.md) | IKI RAS |—|
-|| [Лукьянчиков, Александр Владимирович](zz_lukianchikov1.md) | LAV |—|
-|**M**| [Mackwell, Stephen J.](zz_mackwell1.md) |—| AIP |
-|| [Mahapatra, Gourav](zz_mahapatra1.md) |—| TU Delft |
-|| [Mankins, John C.](zz_mankins1.md) |—| Mankins Space Tech |
-|| [Marcq, Emmanuel](zz_marcq1.md) |—| LATMOS, UVSQ |
-|| [Maroko, Elena](zz_maroko1.md) | NASA |—|
-|| [Martino, Paolo](zz_martino1.md) | ESA |—|
-|| [Mason, Philippa J.](zz_mason1.md) |—| Imperial College |
-|| [McCabe, Ryan](zz_mccabe1.md) |—| Hampton Univ |
-|| [McGouldrick, Kevin](zz_mcgouldrick1.md) |—| LASP |
-|| [McGovern, Patrick J.](zz_mcgovern1.md) |—| LPI |
-|| [McKaig, Jordan](zz_mckaig1.md) |—| Michigan Univ |
-|| [Millour, Ehouarn](zz_millour1.md) |—| LMD |
-|| [Mills, Franklin](zz_mills1.md) |—| ANU |
-|| [Mogul, Rakesh](zz_mogul1.md) |—| CPP |
-|| [Murakami, Shin-ya](zz_murakami1.md) | ISAS/JAXA |—|
-|| [Мальцев, Михаил Владимирович](zz_maltsev1.md) |—| KBHM |
-|| [Маров, Михаил Яковлевич](zz_marov1.md) |—| IPM Keldysh |
-|| Мартынов, Алексей Борисович | LAV |—|
-|| [Митрофанов, Игорь Георгиевич](zz_mitrofanov1.md) | IKI RAS |—|
-|| ~~[Мороз, Василий Иванович](zz_moroz1.md)~~ |—| GAISh |
-|| [Морозов, Владимир Иванович](zz_morozov1.md) |—| KBHM |
-|**N**| [Nakamura, Masato](zz_nakamura1.md) |—| JAXA |
-|| [Neduncheran, Adhithiyan](zz_neduncheran1.md) |—| UPES |
-|| [Nock, Kerry T.](zz_nock1.md) | GAC |—|
-|| [Намсараев, Зоригто Баирович](zz_namsaraev1.md) |—| Kurchatov Inst. |
-|**O**| [Ocampo, Adriana Christian](zz_ocampo1.md) | JPL |—|
-|| [Ogawa, Masaki](zz_ogawa1.md) |—| Tokyo Univ |
-|| [O'Rourke, Joseph](zz_orourke1.md) |—| Arizona Univ |
-|**P**| [Patel, Manish](zz_patel1.md) |—| Open Univ |
-|| [Parkinson, Christopher Dennis](zz_parkinson1.md) |—| Michigan Univ |
-|| [Peralta, Javier Calvillo](zz_peralta1.md) | ISAS/JAXA |—|
-|| [Peterson, Craig E.](zz_peterson1.md) |—||
-|| [Pickering, Andrew](zz_pickering1.md) | ESA |—|
-|| Павлинский, Михаил Николаевич | IKI RAS |—|
-|| [Павлов, Анатолий Константинович](zz_pavlov1.md) |—| Ioffe Inst. |
-|| [Петров, Максим Евгеньевич](zz_petrov1.md) | LAV |—|
-|| [Петрукович, Анатолий Алексеевич](zz_petrukovich1.md) | IKI RAS |—|
-|| [Писаренко, Павел Дмитриевич](zz_pisarenko1.md) | LAV |—|
-|**R**| [Rabinovitch, Jason](zz_rabinovitch1.md) | JPL |—|
-|| [Radke, Michael J.](zz_radke1.md) |—| J.Hopkins Univ |
-|| [Read, Peter](zz_read1.md) |—| Oxford Univ |
-|| [Rebuffat, Denis](zz_rebuffat1.md) | ESA |—|
-|| [Rodriguez, Aaron Garduño](zz_rodriguez1.md) |—| MAI |
-|| [Romstedt, Jens](zz_romstedt1.md) |—| ESTEC |
-|| [Rosenblatt, Pascal](zz_rosenblatt1.md) |—| Geoazur |
-|| [Royer, Emilie](zz_royer1.md) |—| LASP |
-|| [Rugina, Ana](zz_rugina1.md) |—| ESTEC |
-|| [Russell, Christopher Thomas](zz_russell1.md) |—| UCLA |
-|| [Родионов, Даниил Станиславович](zz_rodionov1.md) | IKI RAS |—|
-|**S**| [Sasaki, Satoshi](zz_sasaki1.md) |—| Tokyo Univ |
-|| [Satoh, Takehiko](zz_satoh1.md) | ISAS/JAXA |—|
-|| [Sayanagi, Kunio](zz_sayanagi1.md) |—| Hampton Univ |
-|| [Senske, David](zz_senske1.md) | JPL |—|
-|| [Schubert, Gerald](zz_schubert1.md) |—| UCLA |
-|| [Slowik, Grzegorz](zz_slowik1.md) |—| Zielona Univ |
-|| [Smith, David Joseph](zz_smith1.md) |—| ARC |
-|| [Smrekar, Suzanne](zz_smrekar1.md) | JPL |—|
-|| [Spiga, Aymeric](zz_spiga1.md) |—| Sorbonne Univ., LMD |
-|| [Spilker, Tom](zz_spilker1.md) |—||
-|| [Stofan, Ellen R.](zz_stofan1.md) |—| National Air & Space Museum |
-|| [Sugiyama, Koichiro](zz_sugiyama1.md) |—| Matsue Coll |
-|| [Svedhem, Håkan](zz_svedhem1.md) |—| ESTEC |
-|| [Сагдеев, Роальд Зиннурович](zz_sagdeev1.md) |—| UMD |
-|| [Симонов, Александр Владимирович](zz_simonov1.md) | LAV |—|
-|| [Сысоев, Валентин Константинович](zz_sysoev1.md) | LAV |—|
-|| [Щеглов, Георгий Александрович](zz_scheglov1.md) |—| BMSTU |
-|**T**| [Taguchi, Makoto](zz_taguchi1.md) |—| Rikkyo Univ |
-|| [Takahashi, Yukihiro](zz_takahashi1.md) |—| Hokkaido Univ |
-|| [Tenishev, Valeriy](zz_tenishev1.md) |—| Michigan Univ |
-|| [Thompson, Thomas W.](zz_thompson1.md) | JPL |—|
-|| [Tilman, Justin Eugene](zz_tilman1.md) | NASA |—|
-|| [Titov, Dmitri](zz_titov1.md) |—| ESTEC |
-|| [Treiman, Allan](zz_treiman1.md) |—| LPI |
-|| [Твердислов, Всеволод Александрович](zz_tverdislov1.md) |—| MSU |
-|| [Третьяков, Владислав Иванович](zz_tretiakov1.md) | IKI RAS |—|
-|| [Тучин, Андрей Георгиевич](zz_tuchin1.md) |—| IPM Keldysh |
-|| Тучин, Денис Андреевич |—| IPM Keldysh |
-|**U**| Устинов Святослав Николаевич | LAV |—|
-|**V**| [Vandaele, Ann Carine](zz_vandaele1.md) |—| BIRA |
-|| [Voirin, Thomas](zz_voirin1.md) | ESA |—|
-|| [Vonstad, Frida Klæbo](zz_vonstad1.md) |—| UCL |
-|| [Voytek, Mary](zz_voytek1.md) | NASA |—|
-|| [Вайсберг, Олег Леонидович](zz_vaysberg1.md) | IKI RAS |—|
-|| [Ворон, Виктор Владимирович](zz_voron1.md) | Roscosmos |—|
-|| [Воронцов, Виктор Александрович](zz_voronцов1.md) |—| MAI |
-|**W**| [Wang, Alian](zz_wang1.md) |—| WUSTL |
-|| [Watanabe, Shigeto](zz_watanabe1.md) |—| Hokkaido Information Univ |
-|| [Way, Michael Joseph](zz_way1.md) | NASA/GISS |—|
-|| [Widemann, Thomas](zz_widemann1.md) |—| Paris Obs |
-|| [Wielders, Arno](zz_wielders1.md) | ESA |—|
-|| [Wilson, Colin F.](zz_wilson1.md) |—| Oxford Univ |
-|**Y**| [Yamagishi, Akihiko](zz_yamagishi1.md) |—| TUPLS |
-|**Z**| [Занин, Кирилл Анатольевич](zz_zanin1.md) | LAV |—|
-|| [Засова, Людмила Вениаминовна](zz_zasova1.md) | IKI RAS |—|
-|| [Застенкер, Георгий Наумович](zz_zastenker1.md) | IKI RAS |—|
-|| [Захаров, Александр Валентинович](zz_zaharov1.md) | IKI RAS |—|
-|| [Зелёный, Лев Матвеевич](zz_zelenyi1.md) | IKI RAS |—|
-
-</small>
-
-
-
 <p style="page-break-after:always"> </p>
 
 
@@ -573,7 +338,7 @@
 |8| [eVanTEC Co Ltd](zz_evantec_co.md)   13 ||||R| Software, satellite support |
 |9| [GITAI](zz_gitai.md)   13 ||||R| Remotely controlled robots |
 |10| [GS Yuasa](zz_gs_yuasa.md)   26 ||||R| Batteries |
-|11| [Hamamatsu Phot.](zz_hamamatsu_phot.md)   22 ||||R| Optical sensors, trackers |
+|11| [Hamamatsu Phot.](zz_hamamatsu_phot.md)   22 ||||R| Optical sensors, trackers, cameras |
 |12| [Harada Seiki](zz_harada_seiki.md)   22 ||||R| Parts for satellites, rovers, small telescopes for observing Earth |
 |13| [HIREC](zz_hirec.md)   14 ||||C| Technology consulting, verification, testing, design, development |
 |14| [IHI](zz_ihi.md)   13 ||L||R| Engines & their components R&D |
@@ -581,54 +346,53 @@
 |16| [Infostellar](zz_infostellar.md)   13 ||||R| Satellite Ground Segment as a Service provider, cubesat components |
 |17| [Interstellar Tech.](zz_interstellar_tech.md)   1 ||L||R| LV for small sats (≤ 100 kg) development, manufacturing, launch service |
 |18| [iQPS](zz_iqps.md)   40 |E|||R| Earth sats for near real-time SAR data |
-|19| [ispace](zz_ispace.md)   13 ||||R| Moon lander & base |
-|20| [ispace Hakuto](zz_hakuto.md)   13 ||||R| Moon lander; a part of [ispace](zz_ispace.md) |
-|21| [J-spacesystems](zz_jspacesys.md)   13 ||||C| R&D, HR, promotion activities creating business opportunities in space sector |
-|22| [JAMSS](zz_jamss.md)   13 ||L||R| Japan Manned Space Systems Corporation |
-|23| [JEPICO Corp.](zz_jepico_corp.md)   13 ||||R| Electronic components |
-|24| [JpGU](jpgu.md)   13 |N||P|| Japan geoscience academic union |
-|25| [JSASS](zz_jsass.md)   13 |N||P|| Journals, conferences, awards, recommendations |
-|26| [JSI Corp](zz_jsi_corp.md)   13 ||||R| Satellite remote sensing commercial services, imagery data |
-|27| [Kawasaki HVI](zz_kawasaki_hvi.md)   13 ||||R| Satellites, fairings, rocket launch complex, space transport |
-|28| [Kobe Univ.](zz_kobe_univ.md)   28 |E|||R| A leading Japanese national university |
-|29| [Kratos IS Japan](zz_kratos.md)   13 ||||R| Ground antennas, optimizing/managing satelllites, signals |
-|30| [Kyocera](zz_kyocera.md)   26 ||||R| Ceramics |
-|31| [Kyutech](zz_kyutech.md)   40 |E|||R| Scientific & technological institute |
-|32| [Lab Space Systems](zz_lab_of_space_systems.md)   1 ||||R| Engine researches |
-|33| [Maxar Japan](zz_maxar.md)   13 ||||R| SC platforms, robotics, servicing, geospatial information |
-|34| [Meisei](zz_meisei.md)   10 ||||R| Radiosondes, cameras, transceivers, magnetometers, power sup., detectors |
-|35| [Meltin](zz_meltin.md)   13 ||||R| Robots, medical equipment |
-|36| [Mitsubishi Electric](zz_mitsubishi.md)   13 ||||R| Near-Earth sats, their components, ground segment |
-|37| [Mitsubishi HVI](zz_mitsubishi.md)   13 ||L||R| Launch services, rocket engines manuf. & testing, RCS, temp. sensors |
-|38| [NAOJ](zz_naoj.md)   13 |E||P|R| Observations, astronomy researches, promotes joint research programs |
-|39| [NDK](zz_ndk.md)   13 ||||R| Outgas analysis system, crystal devices (oscillators, filters, transducers) |
-|40| [NEC Space Tech.](zz_nec.md)   13 ||||R| Payload electrical & bus equipment, antennas/spaceborne radar |
-|41| [NEC Space Sys.](zz_nec.md)   13 ||||R| Satellites, ground systems |
-|42| [Nihom Univ.](zz_nihon_univ.md)   13 |E|||| Aerospace engineering |
-|43| [Outsense Inc.](zz_outsense.md)   13 ||||R| Space facilities & bases, space residence |
-|44| [Pale Blue Inc.](zz_pale_blue_inc.md)   12 ||||R| Propulsion systems for small sats, consulting of SC design & integration |
-|45| [PASCO CORP.](zz_pasco_corp.md)   13 ||||R| Geospatial information |
-|46| [PD AeroSpace](zz_pd_aerospace.md)   23 ||L||R| Space transportation, space tourism |
-|47| [RESTEC Japan](zz_restec.md)   13 ||||R| Earth sat’s data receiving, processing, providing; R&D remote sensing techs |
-|48| [RIKEN](zz_riken.md)   11 |E|||R| Biology, chemistry, physics, & research |
-|49| [Sat. Biz Network](zz_sat_biz_network.md)   13 |E|||C| Technology consulting, space policy, strategy; space startups support |
-|50| [SE4](zz_se4.md)   13 ||||R| Remote robotics using VR |
-|51| [SKY Perfect JSAT](zz_sky_perfect_jsat.md)   13 ||||R| Telecomms, multi‑channel pay TV company |
-|52| [SNET](zz_snet.md)   13 ||||R| Earth sats comms, Earth observation, ground segment, drones |
-|53| [SPAC](zz_spac.md)   13 |N|||R| Addition to GPS |
-|54| [Space BD](zz_space_bd.md)   13 |E|L||C| Space for business, sats launch, ISS experiments, education |
-|55| [Space Cubics](zz_spacecubics.md)   1 ||||R| CPU, application software, FPGA, consult on space project management |
-|56| [Space One Co Ltd](zz_space_one_co.md)   13 ||L||R| Launch service that uses small rockets |
-|57| [Space Port Japan](zz_spaceportjapan.md)   13 |E||P|| Promote the country’s aerospace and related industries |
-|58| [Space Walker Inc.](zz_space_walker.md)   13 ||L||R| Launch services; space transport/tourism, researches, small sats launch |
-|59| [Spacetide](zz_spacetide.md)   13 |N||P|| Promotes newspace businesses worldwide, annual conference |
-|60| [Sumitomo PP](zz_sumitomo_pp.md)   28 ||||R| Heat exchangers & control, semiconductor/MEMS equipment, sensors |
-|61| [Synspective Inc.](zz_synspective.md)   13 ||||R| Utilize/integrate data from SAR sat constel., big data, machine learning |
-|62| [Tamagawa Seiki](zz_tamagawa_seiki.md)   20 ||||R| Servo components, motor controllers, robots, IMU, autom. control devices  |
-|63| [Tokyo Univ.](zz_tokyo_univ.md)   13 |E|||R| Tokyo University |
-|64| [TUPLS](zz_tupls.md)   13 |E|||| Tokyo University of Pharmacy & Life Sciences |
-|65| [Warpspace Inc.](zz_warpspace.md)   8 ||||R| Communication infrastructure business for LEO sats; cubesats modules |
-|66| [Yspace LLC](zz_yspace.md)   8 |E|||C| VR |
+|19| [ispace / Hakuto](zz_ispace.md)   13 ||||R| Moon lander & base |
+|20| [J-spacesystems](zz_jspacesys.md)   13 ||||C| R&D, HR, promotion activities creating business opportunities in space sector |
+|21| [JAMSS](zz_jamss.md)   13 ||L||R| Space experiments operations, austronaut training, satellite utilization |
+|22| [JEPICO Corp.](zz_jepico_corp.md)   13 ||||R| Electronic components |
+|23| [JpGU](jpgu.md)   13 |N||P|| Japan geoscience academic union |
+|24| [JSASS](zz_jsass.md)   13 |N||P|| Journals, conferences, awards, recommendations |
+|25| [JSI Corp](zz_jsi_corp.md)   13 ||||R| Satellite remote sensing commercial services, imagery data |
+|26| [Kawasaki HVI](zz_kawasaki_hvi.md)   13 ||||R| Satellites, fairings, rocket launch complex, space transport |
+|27| [Kobe Univ.](zz_kobe_univ.md)   28 |E|||R| A leading Japanese national university |
+|28| [Kratos IS Japan](zz_kratos.md)   13 ||||R| Ground antennas, optimizing/managing satelllites, signals |
+|29| [Kyocera](zz_kyocera.md)   26 ||||R| Ceramics |
+|30| [Kyutech](zz_kyutech.md)   40 |E|||R| Scientific & technological institute |
+|31| [Lab Space Systems](zz_lab_of_space_systems.md)   1 ||||R| Engine researches |
+|32| [Maxar Japan](zz_maxar.md)   13 ||||R| SC platforms, robotics, servicing, geospatial information |
+|33| [Meisei](zz_meisei.md)   10 ||||R| Radiosondes, cameras, transceivers, MGMs, power sup., detectors, microsats |
+|34| [Meltin](zz_meltin.md)   13 ||||R| Robots, medical equipment |
+|35| [Mitsubishi Electric](zz_mitsubishi.md)   13 ||||R| Near-Earth sats, their components, ground segment |
+|36| [Mitsubishi HVI](zz_mitsubishi.md)   13 ||L||R| Launch services, rocket engines manuf. & testing, RCS, temp. sensors |
+|37| [NAOJ](zz_naoj.md)   13 |E||P|R| Observations, astronomy researches, promotes joint research programs |
+|38| [NDK](zz_ndk.md)   13 ||||R| Outgas analysis system, crystal devices (oscillators, filters, transducers) |
+|39| [NEC Space Tech.](zz_nec.md)   13 ||||R| Payload electrical & bus equipment, antennas/spaceborne radar |
+|40| [NEC Space Sys.](zz_nec.md)   13 ||||R| Satellites, ground systems |
+|41| [Nihom Univ.](zz_nihon_univ.md)   13 |E|||| Aerospace engineering |
+|42| [Outsense Inc.](zz_outsense.md)   13 ||||R| Space facilities & bases, space residence |
+|43| [Pale Blue Inc.](zz_pale_blue_inc.md)   12 ||||R| Propulsion systems for small sats, consulting of SC design & integration |
+|44| [PASCO CORP.](zz_pasco_corp.md)   13 ||||R| Geospatial information |
+|45| [PD AeroSpace](zz_pd_aerospace.md)   23 ||L||R| Space transportation, space tourism |
+|46| [RESTEC Japan](zz_restec.md)   13 ||||R| Earth sat’s data receiving, processing, providing; R&D remote sensing techs |
+|47| [RIKEN](zz_riken.md)   11 |E|||R| Biology, chemistry, physics, & research |
+|48| [Sat. Biz Network](zz_sat_biz_network.md)   13 |E|||C| Technology consulting, space policy, strategy; space startups support |
+|49| [SE4](zz_se4.md)   13 ||||R| Remote robotics using VR |
+|50| [SKY Perfect JSAT](zz_sky_perfect_jsat.md)   13 ||||R| Telecomms, multi‑channel pay TV company |
+|51| [SNET](zz_snet.md)   13 ||||R| Earth sats comms, Earth observation, ground segment, drones |
+|52| [SPAC](zz_spac.md)   13 |N|||R| Addition to GPS |
+|53| [Space BD](zz_space_bd.md)   13 |E|L||C| Space for business, sats launch, ISS experiments, education |
+|54| [Space Cubics](zz_spacecubics.md)   1 ||||R| CPU, application software, FPGA, consult on space project management |
+|55| [Space One Co Ltd](zz_space_one_co.md)   13 ||L||R| Launch service that uses small rockets |
+|56| [Space Port Japan](zz_spaceportjapan.md)   13 |E||P|| Promote the country’s aerospace and related industries |
+|57| [Space Walker Inc.](zz_space_walker.md)   13 ||L||R| Launch services; space transport/tourism, researches, small sats launch |
+|58| [Spacetide](zz_spacetide.md)   13 |N||P|| Promotes newspace businesses worldwide, annual conference |
+|59| [Sumitomo PP](zz_sumitomo_pp.md)   28 ||||R| Heat exchangers & control, semiconductor/MEMS equipment, sensors |
+|60| [Synspective Inc.](zz_synspective.md)   13 ||||R| Utilize/integrate data from SAR sat constel., big data, machine learning |
+|61| [Tamagawa Seiki](zz_tamagawa_seiki.md)   20 ||||R| Servo components, motor controllers, robots, IMU, autom. control devices  |
+|62| [Tokyo Univ.](zz_tokyo_univ.md)   13 |E|||R| Tokyo University |
+|63| [TUPLS](zz_tupls.md)   13 |E|||| Tokyo University of Pharmacy & Life Sciences |
+|64| [Warpspace Inc.](zz_warpspace.md)   8 ||||R| Communication infrastructure business for LEO sats; cubesats modules |
+|65| [Yspace LLC](zz_yspace.md)   8 |E|||C| VR |
 ||**··· Not space ···**|•|•|•|•| Panasonic Avionics Corp.<br> *Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program) |
 
 </small>
@@ -647,16 +411,16 @@
 |*№*|*• Organization (KR) •*|*E*|*L*|*P*|*R*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
 ||**··· Head ···**|•|•|•|•|• • •|
-|1| [KARI](zz_kari.md) |E|L|P|R| Korea Aerospace Research Institute |
+|1| [KARI](zz_kari.md)   6 |E|L|P|R| Korea Aerospace Research Institute |
 ||**··· Contractors ···**|•|•|•|•|• • •|
-|1| [INNOSPACE](zz_innospace.md) ||L||R| Hybrid Rocket Propulsion, satellite launch |
-|2| [KAI](zz_kai.md) ||L||R| R&D [satellites](sc.md) & [LV](lv.md) |
-|3| [KAIST](zz_kaist.md) |E|||| Higher education |
-|4| [KASI](zz_kasi.md) |E|||R| Research institute in astronomy & space science |
-|5| [Perigee Aerospace](zz_perigee_as.md) ||L||R| Small/medium orbital & sub‑orbital LV |
-|6| [Satrec Initiative](zz_satrec_initiative.md) ||||R| Earth observation, satellites, ground systems, analytics |
-|7| [SI Imaging Serv.](zz_si_img_serv.md) ||||R| Satellite Imagery Provider for Remote Sensing & Earth Observation |
-||**··· Not space ···**|•|•|•|•| Hanwha |
+|1| [Hanwha](zz_hanwha.md)   15 ||||R| Engines |
+|2| [INNOSPACE](zz_innospace.md)   … ||L||R| Hybrid Rocket Propulsion, satellite launch |
+|3| [KAI](zz_kai.md)   15 ||L||R| R&D satellites & LV |
+|4| [KAIST](zz_kaist.md)   6 |E|||| Higher education |
+|5| [KASI](zz_kasi.md)   6 |E|||R| Research institute in astronomy & space science |
+|6| [Perigee Aerospace](zz_perigee_as.md)   6 ||L||R| Small/medium orbital & sub‑orbital LV |
+|7| [Satrec Initiative](zz_satreci.md)   6 ||||R| Earth obs., sats & their components, ground systems, analytics |
+||**··· Not space ···**|•|•|•|•|  |
 
 </small>
 
@@ -858,14 +622,14 @@
 || [Icarus Interstellar](zz_icarus_interstellar.md) |N||P|R| R&D technology that will assist the development of interstellar flight |
 || [ImageSat Int.](zz_imagesat_int.md) ||||| Geospatial solutions & services: imagery, data, analytics |
 || [Int. Moonbase Alliance](zz_i18n_moonbase_alc.md) ||||| Advancing the development/implementation of base on the Moon |
-|| [Intuitive Machines](zz_intt_machines.md) ||||| Automatics for industrial systems, drones, SC & spacesuit modeling/sim. services |
+|| [Intuitive Machines](zz_intt_machines.md) ||||| Automatics for industrial systems, drones, SC & spacesuit model./sim. services |
 || [Jacobs](zz_jacobs.md) ||||C| Civil engineering & solutions |
 || [J.Hopkins Univ.](zz_jhu.md) ||||| … |
 || [Jena‑Optronik](zz_jenaoptronik.md) ||||| … |
 || [JHUAPL](zz_jhuapl.md) ||||| Applied Physics Laboratory |
 || [JPL](zz_jpl.md) ||||| Создание и обслуживание беспилотных [КА](sc.md) для NASA |
 || [Keck Inst. SS](zz_keck_inst_ss.md) ||||| Policy, research & advocacy for space mission concepts and technology |
-|| [Kepler Space Institute](zz_kepler_spin.md) ||||| Education, research, publications in Space Exploration, Commerc., Colonization |
+|| [Kepler Space Institute](zz_kepler_spin.md) ||||| Education, research, publications in space exploration, commerc., colonization |
 || [KinetX A/S](zz_kinetx_as.md) ||||| Deep space missions' nav.services, innovative R&D of SC & telecom systems |
 || [LASP](zz_lasp.md) ||||| Laboratory for Atmospheric and Space Physics |
 || [Lockheed Martin](lockheed_martin.md) ||||| Разработка и эксплутация [LV](lv.md), [КА](sc.md), [ПКА](sc.md); пусковые услуги |
@@ -899,7 +663,7 @@
 || [SpaceQuest](zz_spacequest.md) ||||| Кубсаты и их СЧ |
 || [SpaceX](zz_spacex.md) ||||| Разработка и эксплутация [LV](lv.md), [ПКА](sc.md), двигателей; пусковые услуги |
 || [Space Foundation](zz_space_foundation.md) |N||P|| Inspire, educate, connect & advocate on behalf of the global space community |
-|| [Spire](zz_spire.md) ||||| Space-to-cloud analytics, sats constellation, maritime, aviation, weather tracking |
+|| [Spire](zz_spire.md) ||||| Space-to-cloud analytics, sats constel., maritime, aviation, weather tracking |
 || [SWRI](zz_swri.md) ||||| Southwest Research Institute |
 || [Tau Zero](zz_tau_zero.md) |N|||| Pioneering advancements toward interstellar flight |
 || [TransDigm](zz_transdigm.md) ||||| Космическая электроника и механизмы |
@@ -954,10 +718,247 @@
 
 <p style="page-break-after:always"> </p>
 
+## Persons
+
+<small>
+
+|*#*|*Person*|*Agencies*|*Etc*|
+|:--|:--|:--|:--|
+|**A**| [Adler, Mark](zz_adler1.md) | JPL |—|
+|| ~~[Allen, Mark Andrew](zz_allen1.md)~~ |—||
+|| [Ansari, Arif Husain](zz_ansari2.md) |—| BSIP |
+|| [Ansari, R. Rafat](zz_ansari1.md) | GRC |—|
+|| [Ansan, Veronique](zz_ansan1.md) |—| LPG |
+|| [Arney, Giada](zz_arney1.md) | GSFC |—|
+|| [Алексашкин, Сергей Николаевич](zz_alexashkin1.md) | LAV |—|
+|| [Ануфрейчик, Константин Владимирович](zz_anufreychik1.md) | IKI RAS |—|
+|| Асмус Василий Валентинович |—| Planeta |
+|**B**| [Baines, Kevin](zz_baines1.md) | JPL |—|
+|| [Baker, Charles L.](zz_baker1.md) | GSFC |—|
+|| [Balint, Tibor](zz_balint1.md) | JPL |—|
+|| [Beauchamp, Patricia](zz_beauchamp1.md) | JPL |—|
+|| [Benz, Alexis C.](zz_benz1.md) |—| Lockheed Martin |
+|| [Berger, Gilles](zz_berger1.md) |—| IRAP |
+|| [Blamont, Jacques](zz_blamont1.md) | CNES |—|
+|| [Bovolo, Francesca](zz_bovolo1.md) |—| FBK-irst |
+|| [Bradburne, Chris](zz_bradburne1.md) |—| JHU APL |
+|| [Breuer, Doris](zz_breuer1.md) | DLR |—|
+|| [Bristow, Thomas F.](zz_bristow1.md) | NASA |—|
+|| [Bruzzone, Lorenzo](zz_bruzzone1.md) |—| Trento Univ |
+|| [Bullock, Mark](zz_bullock1.md) |—| SWRI |
+|| [Byrne, Paul K.](zz_byrne1.md) |—| NCSU |
+|| ~~[Бабакин, Георгий Николаевич](zz_babakin1.md)~~ | LAV |—|
+|| [Бабакин, Николай Георгиевич](zz_babakin2.md) |—| ASC |
+|| ~~[Бармин, Владимир Павлович](zz_barmin1.md)~~ |—| BMSTU |
+|| [Буров, Алексей Анатольевич](zz_burov1.md) | LAV |—|
+|| [Бурданов, Антон Владимирович](zz_burdanov1.md) | TSNIImash |—|
+|**C**| [Campbell, Bruce A.](zz_campbell1.md) |—| SI NASM |
+|| [Caro, Tristan](zz_caro1.md) |—| Berkeley Univ |
+|| [Carter, Lynn](zz_carter1.md) |—| Arizona Univ |
+|| [Chalex, Remy](zz_chalex1.md) | ESA |—|
+|| [Chassefiere, Eric](zz_chassefiere1.md) |—| Université Paris-Saclay |
+|| [Colaprete, Anthony](zz_colaprete1.md) |—| ARC |
+|| [Cordova, Jaime A.](zz_cordova1.md) |—| Wisconsin Univ |
+|| [Cottini, Valeria](zz_cottini1.md) |—| Maryland Univ |
+|| [Cutts, James Alfred](zz_cutts1.md) | JPL |—|
+|| ~~[Челомей, Владимир Николаевич](zz_chelomei1.md)~~ |—| CIAM |
+|| [Чулков, Илья Владиленович](zz_chulkov1.md) | IKI RAS |—|
+|**D**| [D'Incecco, Piero](zz_dincecco1.md) |—| IRSPS |
+|| [Domagal-Goldman, Shawn](zz_domagalgoldman1.md) | GSFC |—|
+|| [Dong, Chuanfei](zz_dong1.md) |—| Princeton Univ |
+|| [Dumoulin, Caroline](zz_dumoulin1.md) |—| LPG |
+|| [Dyar, Darby](zz_dyar1.md) |—| Mount Holyoke College |
+|| [Долгополов, Владимир Павлович](zz_dolgopolov1.md) | LAV |—|
+|**E**| [Economou, Thanasis](zz_economou1.md) |—| Chicago Univ |
+|| [Ernst, Richard E.](zz_ernst1.md) |—| Carleton Univ., Tomsk SU |
+|| [Esposito, Larry W.](zz_esposito1.md) |—| LASP |
+|| [Ewan, Shannon](zz_ewan1.md) | NASA |—|
+|| [Евдокимова, Дарья Геннадьевна](zz_evdokimova1.md) | IKI RAS |—|
+|| [Елшанский, Леонид Борисович](zz_елшанский1.md) | Roscosmos |—|
+|| Ефанов Владимир Владимирович | LAV |—|
+|| [Ёлкин, Константин Сергеевич](zz_elkin1.md) | TSNIImash |—|
+|| [Эйсмонт, Натан Андреевич](zz_eismont1.md) | IKI RAS |—|
+|**G**| [Gentry, Diana M.](zz_gentry1.md) |—| ARC |
+|| [Ghail, Richard](zz_ghail1.md) |—| Royal Holloway |
+|| [Glaze, Lori S.](zz_glaze1.md) | GSFC |—|
+|| [Cockell, Charles Seaton](zz_cockell1.md) |—| Edinburgh Univ |
+|| [Gonçalves, Ruben](zz_gonzalves1.md) |—| IA |
+|| [Gorevan, Stephen Paul](zz_gorevan1.md) |—| Honeybee |
+|| [Gray, Candice](zz_gray1.md) |—| New Mexico Univ |
+|| [Green, James Lauer](zz_green1.md) | NASA |—|
+|| [Gregg, Tracy](zz_gregg1.md) |—| UB |
+|| [Grimm, Robert E.](zz_grimm1.md) |—| SWRI |
+|| [Grinspoon, David](zz_grinspoon1.md) |—| PSI |
+|| [Гаврик, Анатолий Леонидович](zz_gavrik1.md) |—| IRE RAS |
+|| [Гаврилин, Сергей Иванович](zz_gavrilin1.md) | LAV |—|
+|| [Герасимов, Михаил Владимирович](zz_gerasimov1.md) | IKI RAS |—|
+|| [Горинов, Дмитрий Алексеевич](zz_gorinov1.md) | IKI RAS |—|
+|| [Губайдуллин Валерий Шарифьянович](zz_gubaydullin1.md) | TSNIImash |—|
+|**H**| [Hashimoto, George L.](zz_hashimoto1.md) |—| Okayama Univ |
+|| [Hayashi, Yoshi-Yuki](zz_hayashi1.md) |—| Kobe Univ |
+|| [Hall, Jeffery L.](zz_hall1.md) | JPL |—|
+|| [Head, James W.](zz_head1.md) |—| Brown Univ |
+|| [Helbert, Jörn](zz_helbert1.md) | DLR |—|
+|| [Hino, Takafumi](zz_hino1.md) |—| Matsue Coll |
+|| [Hunter, Gary W.](zz_hunter1.md) | GRC |—|
+|| [Хайлов, Михаил Николаевич](zz_hailov1.md) | Roscosmos |—|
+|| [Хатунцев, Игорь Валерьевич](zz_hatuntsev1.md) | IKI RAS |—|
+|**I**| [Imamura, Takeshi](zz_imamura1.md) |—| Tokyo Univ |
+|| [Ishii, Nobuaki](zz_ishii1.md) | ISAS/JAXA |—|
+|| [Iwagami, Naomoto](zz_iwagami1.md) |—| Tokyo Univ |
+|| [Izenberg, Noam](zz_izenberg1.md) |—| JHUAPL |
+|| [Иванов, Михаил Арсеньевич](zz_ivanov4.md) |—| GEOKHI |
+|| [Иванов, Сергей Вениаминович](zz_ivanov6.md) | LAV |—|
+|| [Игнатьев, Николай Игоревич](zz_ignatiev1.md) | IKI RAS |—|
+|**J**| [Jessup, Kandis Lea](zz_jessup1.md) | NASA |—|
+|| [Jindal, Abhinav](zz_jindal1.md) |—| Cornell Univ |
+|| [Johnson, Natasha M.](zz_johnson1.md) | GSFC |—|
+|**K**| [Kerzhanovich, Viktor V.](zz_kerzhanovich1.md) | JPL |—|
+|| [Kiefer, Walter S.](zz_kiefer1.md) |—| LPI |
+|| [Kleinboehl, Armin](zz_kleinboehl1.md) | JPL |—|
+|| [Kohler, Erika](zz_kohler1.md) | GSFC |—|
+|| [Kolawa, Elizabeth A.](zz_kolawa1.md) | JPL |—|
+|| [Komatsu, Goro](zz_komatsu1.md) |—| IRSPS |
+|| [Kremic, Tibor](zz_kremic1.md) | GRC |—|
+|| [Kwok, John H.](zz_kwok1.md) | JPL |—|
+|| [Казмерчук, Павел Владимирович](zz_kazmerchuk1.md) | LAV |—|
+|| ~~[Кардашёв, Николай Семёнович](zz_kardashev1.md)~~ |—| ASC |
+|| ~~[Келдыш, Мстислав Всеволодович](zz_keldysh1.md)~~ |—| AS USSR |
+|| [Коваленко, Ирина Дмитриевна](zz_kovalenko1.md) | IKI RAS |—|
+|| [Комаров, Александр Юрьевич](zz_komarov1.md) | LAV |—|
+|| [Комбаев, Тимур Шикурович](zz_kombaev1.md) | LAV |—|
+|| [Компаниченко, Владимир Николаевич](zz_kompanichenko1.md) |—| IKARP |
+|| [Коптев, Юрий Николаевич](zz_koptev1.md) |—| Rostec |
+|| [Кораблёв, Олег Игоревич](zz_korablev1.md) | IKI RAS |—|
+|| ~~[Королёв, Сергей Павлович](zz_korolev1.md)~~ |—| OKB-1 |
+|| Косенкова Анастасия Владимировна | LAV |—|
+|| [Косов, Александр Сергеевич](zz_kosov1.md) | IKI RAS |—|
+|| [Костицын, Юрий Александрович](zz_kostitsyn1.md) |—| GEOKHI |
+|| [Котляров, Евгений Юрьевич](zz_kotlyarov1.md) | LAV |—|
+|| [Коцюрбенко, Олег Ролландович](zz_kotsurbenko1.md) |—| UGRA |
+|| ~~[Ксанфомалити, Леонид Васильевич](zz_ksanfomaliti1.md)~~ | IKI RAS |—|
+|| Кусь Олег Николаевич |—| OKB 5 |
+|**L**| [Le Gall, Alice Anne](zz_legall1.md) |—| LATMOS |
+|| [Lebonnois, Sebastien](zz_lebonnois1.md) |—| Sorbonne Univ., LMD |
+|| [Lee, Yeon Joo](zz_lee1.md) |—| Berlin Tech.Univ |
+|| [Lefevre, Maxence](zz_lefevre1.md) |—| Oxford Univ |
+|| [Lefort, Jayne](zz_lefort1.md) | ESA |—|
+|| [Lewis, Neil Tamas](zz_lewis1.md) |—| Oxford Univ |
+|| [Limaye, Sanjay Shridhar](zz_limaye1.md) |—| Wisconsin Univ |
+|| [Lopes, Rosaly M.C.](zz_lopes1.md) | JPL |—|
+|| [Lorenz, Ralph](zz_lorenz1.md) |—| JHUAPL |
+|| [Luhmann, Janet G.](zz_luhmann1.md) |—| NASA, Berkley |
+|| ~~[Лавочкин, Семён Алексеевич](zz_lavochkin1.md)~~ | OKB-301 |—|
+|| [Литвак, Максим Леонидович](zz_litvak1.md) | IKI RAS |—|
+|| [Лукьянчиков, Александр Владимирович](zz_lukianchikov1.md) | LAV |—|
+|**M**| [Mackwell, Stephen J.](zz_mackwell1.md) |—| AIP |
+|| [Mahapatra, Gourav](zz_mahapatra1.md) |—| TU Delft |
+|| [Mankins, John C.](zz_mankins1.md) |—| Mankins Space Tech |
+|| [Marcq, Emmanuel](zz_marcq1.md) |—| LATMOS, UVSQ |
+|| [Maroko, Elena](zz_maroko1.md) | NASA |—|
+|| [Martino, Paolo](zz_martino1.md) | ESA |—|
+|| [Mason, Philippa J.](zz_mason1.md) |—| Imperial College |
+|| [McCabe, Ryan](zz_mccabe1.md) |—| Hampton Univ |
+|| [McGouldrick, Kevin](zz_mcgouldrick1.md) |—| LASP |
+|| [McGovern, Patrick J.](zz_mcgovern1.md) |—| LPI |
+|| [McKaig, Jordan](zz_mckaig1.md) |—| Michigan Univ |
+|| [Millour, Ehouarn](zz_millour1.md) |—| LMD |
+|| [Mills, Franklin](zz_mills1.md) |—| ANU |
+|| [Mogul, Rakesh](zz_mogul1.md) |—| CPP |
+|| [Murakami, Shin-ya](zz_murakami1.md) | ISAS/JAXA |—|
+|| [Мальцев, Михаил Владимирович](zz_maltsev1.md) |—| KBHM |
+|| [Маров, Михаил Яковлевич](zz_marov1.md) |—| IPM Keldysh |
+|| Мартынов, Алексей Борисович | LAV |—|
+|| [Митрофанов, Игорь Георгиевич](zz_mitrofanov1.md) | IKI RAS |—|
+|| ~~[Мороз, Василий Иванович](zz_moroz1.md)~~ |—| GAISh |
+|| [Морозов, Владимир Иванович](zz_morozov1.md) |—| KBHM |
+|**N**| [Nakamura, Masato](zz_nakamura1.md) |—| JAXA |
+|| [Neduncheran, Adhithiyan](zz_neduncheran1.md) |—| UPES |
+|| [Nock, Kerry T.](zz_nock1.md) | GAC |—|
+|| [Намсараев, Зоригто Баирович](zz_namsaraev1.md) |—| Kurchatov Inst. |
+|**O**| [Ocampo, Adriana Christian](zz_ocampo1.md) | JPL |—|
+|| [Ogawa, Masaki](zz_ogawa1.md) |—| Tokyo Univ |
+|| [O'Rourke, Joseph](zz_orourke1.md) |—| Arizona Univ |
+|**P**| [Patel, Manish](zz_patel1.md) |—| Open Univ |
+|| [Parkinson, Christopher Dennis](zz_parkinson1.md) |—| Michigan Univ |
+|| [Peralta, Javier Calvillo](zz_peralta1.md) | ISAS/JAXA |—|
+|| [Peterson, Craig E.](zz_peterson1.md) |—||
+|| [Pickering, Andrew](zz_pickering1.md) | ESA |—|
+|| Павлинский, Михаил Николаевич | IKI RAS |—|
+|| [Павлов, Анатолий Константинович](zz_pavlov1.md) |—| Ioffe Inst. |
+|| [Петров, Максим Евгеньевич](zz_petrov1.md) | LAV |—|
+|| [Петрукович, Анатолий Алексеевич](zz_petrukovich1.md) | IKI RAS |—|
+|| [Писаренко, Павел Дмитриевич](zz_pisarenko1.md) | LAV |—|
+|**R**| [Rabinovitch, Jason](zz_rabinovitch1.md) | JPL |—|
+|| [Radke, Michael J.](zz_radke1.md) |—| J.Hopkins Univ |
+|| [Read, Peter](zz_read1.md) |—| Oxford Univ |
+|| [Rebuffat, Denis](zz_rebuffat1.md) | ESA |—|
+|| [Rodriguez, Aaron Garduño](zz_rodriguez1.md) |—| MAI |
+|| [Romstedt, Jens](zz_romstedt1.md) |—| ESTEC |
+|| [Rosenblatt, Pascal](zz_rosenblatt1.md) |—| Geoazur |
+|| [Royer, Emilie](zz_royer1.md) |—| LASP |
+|| [Rugina, Ana](zz_rugina1.md) |—| ESTEC |
+|| [Russell, Christopher Thomas](zz_russell1.md) |—| UCLA |
+|| [Родионов, Даниил Станиславович](zz_rodionov1.md) | IKI RAS |—|
+|**S**| [Sasaki, Satoshi](zz_sasaki1.md) |—| Tokyo Univ |
+|| [Satoh, Takehiko](zz_satoh1.md) | ISAS/JAXA |—|
+|| [Sayanagi, Kunio](zz_sayanagi1.md) |—| Hampton Univ |
+|| [Senske, David](zz_senske1.md) | JPL |—|
+|| [Schubert, Gerald](zz_schubert1.md) |—| UCLA |
+|| [Slowik, Grzegorz](zz_slowik1.md) |—| Zielona Univ |
+|| [Smith, David Joseph](zz_smith1.md) |—| ARC |
+|| [Smrekar, Suzanne](zz_smrekar1.md) | JPL |—|
+|| [Spiga, Aymeric](zz_spiga1.md) |—| Sorbonne Univ., LMD |
+|| [Spilker, Tom](zz_spilker1.md) |—||
+|| [Stofan, Ellen R.](zz_stofan1.md) |—| National Air & Space Museum |
+|| [Sugiyama, Koichiro](zz_sugiyama1.md) |—| Matsue Coll |
+|| [Svedhem, Håkan](zz_svedhem1.md) |—| ESTEC |
+|| [Сагдеев, Роальд Зиннурович](zz_sagdeev1.md) |—| UMD |
+|| [Симонов, Александр Владимирович](zz_simonov1.md) | LAV |—|
+|| [Сысоев, Валентин Константинович](zz_sysoev1.md) | LAV |—|
+|| [Щеглов, Георгий Александрович](zz_scheglov1.md) |—| BMSTU |
+|**T**| [Taguchi, Makoto](zz_taguchi1.md) |—| Rikkyo Univ |
+|| [Takahashi, Yukihiro](zz_takahashi1.md) |—| Hokkaido Univ |
+|| [Tenishev, Valeriy](zz_tenishev1.md) |—| Michigan Univ |
+|| [Thompson, Thomas W.](zz_thompson1.md) | JPL |—|
+|| [Tilman, Justin Eugene](zz_tilman1.md) | NASA |—|
+|| [Titov, Dmitri](zz_titov1.md) |—| ESTEC |
+|| [Treiman, Allan](zz_treiman1.md) |—| LPI |
+|| [Твердислов, Всеволод Александрович](zz_tverdislov1.md) |—| MSU |
+|| [Третьяков, Владислав Иванович](zz_tretiakov1.md) | IKI RAS |—|
+|| [Тучин, Андрей Георгиевич](zz_tuchin1.md) |—| IPM Keldysh |
+|| Тучин, Денис Андреевич |—| IPM Keldysh |
+|**U**| Устинов Святослав Николаевич | LAV |—|
+|**V**| [Vandaele, Ann Carine](zz_vandaele1.md) |—| BIRA |
+|| [Voirin, Thomas](zz_voirin1.md) | ESA |—|
+|| [Vonstad, Frida Klæbo](zz_vonstad1.md) |—| UCL |
+|| [Voytek, Mary](zz_voytek1.md) | NASA |—|
+|| [Вайсберг, Олег Леонидович](zz_vaysberg1.md) | IKI RAS |—|
+|| [Ворон, Виктор Владимирович](zz_voron1.md) | Roscosmos |—|
+|| [Воронцов, Виктор Александрович](zz_voronцов1.md) |—| MAI |
+|**W**| [Wang, Alian](zz_wang1.md) |—| WUSTL |
+|| [Watanabe, Shigeto](zz_watanabe1.md) |—| Hokkaido Information Univ |
+|| [Way, Michael Joseph](zz_way1.md) | NASA/GISS |—|
+|| [Widemann, Thomas](zz_widemann1.md) |—| Paris Obs |
+|| [Wielders, Arno](zz_wielders1.md) | ESA |—|
+|| [Wilson, Colin F.](zz_wilson1.md) |—| Oxford Univ |
+|**Y**| [Yamagishi, Akihiko](zz_yamagishi1.md) |—| TUPLS |
+|**Z**| [Занин, Кирилл Анатольевич](zz_zanin1.md) | LAV |—|
+|| [Засова, Людмила Вениаминовна](zz_zasova1.md) | IKI RAS |—|
+|| [Застенкер, Георгий Наумович](zz_zastenker1.md) | IKI RAS |—|
+|| [Захаров, Александр Валентинович](zz_zaharov1.md) | IKI RAS |—|
+|| [Зелёный, Лев Матвеевич](zz_zelenyi1.md) | IKI RAS |—|
+
+</small>
+
+
+
+<p style="page-break-after:always"> </p>
+
 ## Docs & links (TRANSLATEME ALREADY)
 |…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](camera.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](quality.md)**·QA, **[R&D](rnd.md)**·НИОКР, **[RAMS](rams.md)**·НиБ, **[Risk](risk.md)**·Риск, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·Циклограмма, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark> |
 

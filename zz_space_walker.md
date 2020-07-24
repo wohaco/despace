@@ -7,11 +7,11 @@
 |Link| <https://space-walker.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/spacewalker/> |
 |Tel| <mark>noworkphone</mark>, ℻: … |
 
-**SPACE WALKER Inc. (SW)** is a Japanese university start-up aiming at manned and unmanned suborbital spaceplanes, which has been established in December 25, 2017. Management team has various backgrounds and experience.
+**SPACE WALKER Inc. (SW)** is a Japanese university start‑up aiming at manned & unmanned [suborbital spaceplanes](sc.md). Management team has various backgrounds & experience. Founded 2017.12.25.
 
-Especially SW has a team of engineers who have been researching winged space vehicle for over 40 years. SW inherits heritages of HIMES (ISAS of Ministry of Education) and HOPE-X (NAL and NASDA) and enhances WIRES of Tokyo University Of science(TUS) / Kyushu Institute Of Technology(Kyutech). SW transfers the research results and technologies from the university and starts the suborbital spaceplane development concluding the partnership agreement with TUS, JAXA, IHI Corporation, IHI Aerospace Corporation, Kawasaki Heavy Industries Ltd. And other non-aerospace industries.
+Especially SW has a team of engineers who have been researching winged space vehicle for over 40 years. SW inherits heritages of HIMES (ISAS of Ministry of Education) & HOPE-X (NAL & NASDA) & enhances WIRES of Tokyo University Of science (TUS) / [Kyushu Institute Of Technology (Kyutech)](kyutech.md). SW transfers the research results & technologies from the university & starts the suborbital spaceplane development concluding the partnership agreement with TUS, [JAXA](zz_jaxa.md), [IHI Corporation](zz_ihi.md), IHI Aerospace Corporation, [Kawasaki Heavy Industries Ltd.](zz_kawasaki_hvi.md) & other non‑aerospace industries.
 
-Business. SW realizes a future for everyone to enjoy space flight like an airplane. “Space travel in no longer a dream.” As the first step, SW designs and develops Reusable suborbital winged space planes and provides Services for Scientific Research such as Astronomical Observation and Microgravity Research. SW plans to launch a suborbital spaceplane for Scientific Research in 2022, for small Satellite Launch in 2024 and for Space tourism in 2027.
+Business. SW realizes a future for everyone to enjoy space flight like an airplane. “Space travel in no longer a dream.” As the first step, SW designs & develops Reusable suborbital winged space planes & provides Services for Scientific Research such as Astronomical Observation & Microgravity Research. SW plans to launch a suborbital spaceplane for Scientific Research in 2022, for small Satellite Launch in 2024 & for Space tourism in 2027.
 
 <p style="page-break-after:always"> </p>
 

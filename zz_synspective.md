@@ -10,7 +10,7 @@
 **Synspective Inc.** provides solutions for customers’ challenges with utilizing & integrating data from [Synthetic Aperture Radar](sar.md) (SAR) satellite constellations, etc. Founded 2018.02.
 
    - Solutions. Effective use of geospatial data that can measure human activity over a wide area coupled with data analysis to retrieve necessary information quickly.
-   - SAR satellite & Data. Synspective’s SAR satellite constellation system can observe wide areas on earth, regardless of time or weather. Thanks to Synspective’s small [satellite](sc.md) technology we’re able to achieve significant cost reductions compared to conventional products.
+   - SAR satellite & Data. Synspective’s SAR [satellite](sc.md) constellation system can observe wide areas on earth, regardless of time or weather. Thanks to Synspective’s small [satellite](sc.md) technology we’re able to achieve significant cost reductions compared to conventional products.
 
 <p style="page-break-after:always"> </p>
 

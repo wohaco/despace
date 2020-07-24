@@ -4,7 +4,7 @@
 |[![](f/contact/h/hirec_logo1_thumb.jpg)](f/contact/h/hirec_logo1.jpg)|*Muza Kawasaki Central Tower 12th Floor, 1310, Omiya-cho, Saiwai-ku, Kawasaki-shi, Kanagawa, 212-8554, Japan*|
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
-|Link| <http://www.hirec.co.jp/> |
+|Link| <http://www.hirec.co.jp/><br> <https://www.linkedin.com/company/ｈｉｒｅｃ（株）/about/> |
 |Tel| +81-44-201-1512, ℻: +81-44-201-1531 |
 
 **High‑Reliability Engineering & Components Corporation (HIREC)** was established in 1988 on a mission to ensure the stable supply of high‑reliability components to be used on Japan’s primary large‑scale launch vehicle, applications satellites, & the Japanese Experiment Module “Kibo” of the International Space Station.
@@ -22,7 +22,7 @@ HIREC provides the following services based on the track record & cultivated tec
       - Environmental test
       - Parts qualification
       - Radiation test
-      - Screening test anf QCI
+      - Screening test & QCI
       - Structural analysis & failure analysis
    - **Reliability & Quality Assurance**
       - Forming the basis
@@ -43,12 +43,12 @@ HIREC provides the following services based on the track record & cultivated tec
 Spacecraft project supported by HIREC:
 
    - Commercial satellite:
-      - High-performance communications satellite SUPERBIRD-C2 (7), SKY perfect JSAT
+      - High‑performance communications satellite SUPERBIRD-C2 (7), SKY perfect JSAT
    - Communications & positioning satellite:
       - Data relay test satellite “KODAMA” (DRTS), JAXA
-      - Optical inter-orbit communications engineering test satellite “KIRARI” (OICETS), JAXA
+      - Optical inter‑orbit communications engineering test satellite “KIRARI” (OICETS), JAXA
       - Wideband internetworking engineering test satellite “KIZUNA” (WINDS), JAXA
-      - Quasi-zenith satellite-1 “MICHIBIKI” (QZS), JAXA
+      - Quasi‑zenith satellite-1 “MICHIBIKI” (QZS), JAXA
    - Earth observation satellite:
       - Advanced Earth observing satellite-II “MIDORI II” (ADEOS-II), JAXA
       - Advanced land observing satellite “DAICHI” (ALOS), JAXA
@@ -62,7 +62,7 @@ Spacecraft project supported by HIREC:
       - Engineering test satellite VIII “KIKU No.8” (ETS-VIII), JAXA
    - International space station:
       - Japanese experiment module “KIBO” (JEM), JAXA
-      - H-II transfer vehicle “KOUNOTORI2 & 3” (HTV2 & 3), JAXA/NASA
+      - [H-II](h2.md) transfer vehicle “KOUNOTORI2 & 3” (HTV2 & 3), JAXA/NASA
    - Launch vehicle:
       - [H-II](h2.md) Launch Vehicle, JAXA
       - [H-IIA](h2.md) Launch Vehicle, JAXA

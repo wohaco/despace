@@ -4,7 +4,7 @@
 |[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|*Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*|
 |:--|:--|
 |E‑mail| <mark>noemail</mark> |
-|Link| <http://www.jaxa.jp/><br> <https://global.jaxa.jp/about/centers/tokyo/index.html><br> <https://en.wikipedia.org/wiki/JAXA> |
+|Link| <http://www.jaxa.jp/><br> <https://global.jaxa.jp/about/centers/tokyo/index.html><br> <https://en.wikipedia.org/wiki/JAXA><br> <https://www.linkedin.com/company/jaxanasdanalisas/> |
 |Tel| +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), ℻: … |
 
 The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, literally “National Research & Development Agency on Aerospace Research & Development”) is the Japanese national aerospace & space agency. JAXA is responsible for research, technology development & launch of satellites into orbit, & is involved in many more advanced missions. A core executive organization that technically supports [aerospace development & utilization](project.md) for the Japanese Government. JAXA performs activities related to aerospace fields consistently from basic research & development to utilization.
