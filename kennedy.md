@@ -13,14 +13,14 @@ At the moment, only 9 % of the area of the cosmodrome is used for its intended p
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1962 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Falcon](falcon.md) ┊ [Shuttle](shuttle.md) ┊ [SLS](sls.md)  |
-| Operator  | [NASA](zz_nasa.md)  |
-| Location  | 28°31′26.61″N 80°39′3.06″W<br> Merritt Island, Florida, USA  |
-| Distance  | 3 400 km — to the equator;<br> 11 000 km — to [NPO Lavochkin](zz_lav.md);<br> 3 700 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 2  |
-|| [![](f/spaceport/kennedy/pic1_thumb.jpg)](f/spaceport/kennedy/pic1.jpg)  [![](f/spaceport/kennedy/map1_thumb.jpg)](f/spaceport/kennedy/map1.png)   [![](f/spaceport/kennedy/map2_thumb.jpg)](f/spaceport/kennedy/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1962 ‑ …)|
+|[Launch vehicles](lv.md)|[Falcon](falcon.md) ┊ [Shuttle](shuttle.md) ┊ [SLS](sls.md)|
+|Operator|[NASA](zz_nasa.md)|
+|Location|28°31′26.61″N 80°39′3.06″W<br> Merritt Island, Florida, USA|
+|Distance|3 400 km — to the equator;<br> 11 000 km — to [NPO Lavochkin](zz_lav.md);<br> 3 700 km — to [JPL](zz_jpl.md)|
+|Launch pad|2|
+||[![](f/spaceport/kennedy/pic1_thumb.jpg)](f/spaceport/kennedy/pic1.jpg)  [![](f/spaceport/kennedy/map1_thumb.jpg)](f/spaceport/kennedy/map1.png)   [![](f/spaceport/kennedy/map2_thumb.jpg)](f/spaceport/kennedy/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

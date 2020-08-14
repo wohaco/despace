@@ -3,9 +3,9 @@
 
 |[![](f/contact/c/css_logo1_thumb.jpg)](f/contact/c/css_logo1.png)|*P.O. Box 19015, 360-A Bloor Street West, Toronto, Ontario, M5S 1X0, Canada*|
 |:--|:--|
-|E‑mail| <general@css.ca> |
-|Link| <https://css.ca/><br> <https://www.facebook.com/CanadianSpaceSociety/><br> <https://ca.linkedin.com/company/canadian-space-society><br> <https://twitter.com/cdnspacesociety> |
-|Tel| +1(416)836-320-54, ℻: … |
+|E‑mail|<general@css.ca>|
+|Link|<https://css.ca/><br> <https://www.facebook.com/CanadianSpaceSociety/><br> <https://ca.linkedin.com/company/canadian-space-society><br> <https://twitter.com/cdnspacesociety>|
+|Tel|+1(416)836-320-54, ℻: …|
 
 **Canadian Space Society (CSS)**. Founded in 1983, the Canadian Space Society (CSS) has been a federally-incorporated [non-profit organization](nonprof_org.md) & charity. With many of Canada’s top space professionals on board, the CSS is made up of enthusiasts of all backgrounds pursuing the exploration & development of the Solar System & beyond.  
 Inspired by the old L5 Society & other space-activist groups, its principal objective is to sponsor & promote the involvement of Canadians in the space sector, through its technical & outreach projects including regular chapter meetings, the annual Canadian Space Summit & more.  

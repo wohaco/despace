@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Space Sciences Laboratory, California Univ., Berkeley. Senior Space Fellow*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <jgluhman@ssl.berkeley.edu> |
-|B‑day, addr.| <mark>nodate</mark> 1946 / … |
-|| ![](f/contact/l/luhmann1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<jgluhman@ssl.berkeley.edu>|
+|B‑day, addr.|<mark>nodate</mark> 1946 / …|
+||![](f/contact/l/luhmann1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Heliospheric & Planetary Physics. Her work focuses on the use of spacecraft observations & models to investigate the connections between the Sun & heliospheric conditions, & on the solar wind interactions with the planets.
    - **Exp.:** …

@@ -13,14 +13,14 @@ Spaceport America is «the world’s first purpose-built commercial spaceport»,
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (2011 ‑ …)  |
-| [Launch vehicles](lv.md)  |  |
-| Operator  | New Mexico Spaceport Authority |
-| Location  | 32°59′25″N 106°58′11″W<br> desert in Sierra County, new Mexico, USA |
-| Distance  | 3 900 km — to the equator;<br> 12 800 km — to [NPO Lavochkin](zz_lav.md);<br> 1 100 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 1  |
-|| [![](f/spaceport/america/pic1_thumb.jpg)](f/spaceport/america/pic1.jpg)  [![](f/spaceport/america/map1_thumb.jpg)](f/spaceport/america/map1.png)   [![](f/spaceport/america/map2_thumb.jpg)](f/spaceport/america/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (2011 ‑ …)|
+|[Launch vehicles](lv.md)||
+|Operator|New Mexico Spaceport Authority|
+|Location|32°59′25″N 106°58′11″W<br> desert in Sierra County, new Mexico, USA|
+|Distance|3 900 km — to the equator;<br> 12 800 km — to [NPO Lavochkin](zz_lav.md);<br> 1 100 km — to [JPL](zz_jpl.md)|
+|Launch pad|1|
+||[![](f/spaceport/america/pic1_thumb.jpg)](f/spaceport/america/pic1.jpg)  [![](f/spaceport/america/map1_thumb.jpg)](f/spaceport/america/map1.png)   [![](f/spaceport/america/map2_thumb.jpg)](f/spaceport/america/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

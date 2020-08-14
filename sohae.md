@@ -11,14 +11,14 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (2011 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Unha-3](unha.md)  |
-| Operator  | Korean Committee of Space Technology |
-| Location  | 39.660°N 124.705°E<br> Phyŏnganbukto, North Korea  |
-| Distance  | 4 900 km — to the equator;<br> 7 500 km — to [NPO Lavochkin](zz_lav.md);<br> 11 200 km — to [JPL](zz_jpl.md);<br> 200 km — to Korean Committee of Space Technology  |
-| Launch pad  | 1  |
-|| [![](f/spaceport/sohae/pic1_thumb.jpg)](f/spaceport/sohae/pic1.jpg)  [![](f/spaceport/sohae/map1_thumb.jpg)](f/spaceport/sohae/map1.png)   [![](f/spaceport/sohae/map2_thumb.jpg)](f/spaceport/sohae/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (2011 ‑ …)|
+|[Launch vehicles](lv.md)|[Unha-3](unha.md)|
+|Operator|Korean Committee of Space Technology|
+|Location|39.660°N 124.705°E<br> Phyŏnganbukto, North Korea|
+|Distance|4 900 km — to the equator;<br> 7 500 km — to [NPO Lavochkin](zz_lav.md);<br> 11 200 km — to [JPL](zz_jpl.md);<br> 200 km — to Korean Committee of Space Technology|
+|Launch pad|1|
+||[![](f/spaceport/sohae/pic1_thumb.jpg)](f/spaceport/sohae/pic1.jpg)  [![](f/spaceport/sohae/map1_thumb.jpg)](f/spaceport/sohae/map1.png)   [![](f/spaceport/sohae/map2_thumb.jpg)](f/spaceport/sohae/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

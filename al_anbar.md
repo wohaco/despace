@@ -28,14 +28,14 @@ Al-Anbar Space Research Center and other Iraqi launch sites were damaged in the 
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity | *Closed* (1989 ‑ 1991) |
-| Coordinates | 32.78220°N 44.29962°E |
-| Distanse | 3 700 km to the equator;<br> 2 800 km to [LAV](zz_lav.md);<br> 17 400 km  to [JPL](zz_jpl.md);<br> 50 km to Baghdad |
-| Launch pads | 1 |
-| [Launched vehicles](lv.md) | **Abid** <small>(modified version of Argentina’s Condor ballistic missile and USSR’s Scud rocket)</small> |
-| Operator |  |
-|| [![](f/spaceport/al_anbar/map1_thumb.jpg)](f/spaceport/al_anbar/map1.png) ![](f/spaceport/al_anbar/map3.png) |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*Мировая карта космодромов*</small>  |
+|Activity|*Closed* (1989 ‑ 1991)|
+|Coordinates|32.78220°N 44.29962°E|
+|Distanse|3 700 km to the equator;<br> 2 800 km to [LAV](zz_lav.md);<br> 17 400 km  to [JPL](zz_jpl.md);<br> 50 km to Baghdad|
+|Launch pads|1|
+|[Launched vehicles](lv.md)|**Abid** <small>(modified version of Argentina’s Condor ballistic missile and USSR’s Scud rocket)</small>|
+|Operator||
+||[![](f/spaceport/al_anbar/map1_thumb.jpg)](f/spaceport/al_anbar/map1.png) ![](f/spaceport/al_anbar/map3.png)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*Мировая карта космодромов*</small>|
 
 
 

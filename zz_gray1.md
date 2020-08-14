@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[New Mexico Univ.](nmexico_univ.md) / [Apache Obs.](apache_obs.md), US. Department of Astronomy. Support Astronomer.*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <candaceg@nmsu.edu> |
-|B‑day, addr.| <mark>nodate</mark> 1980 / … |
-|| [![](f/contact/g/gray1_photo_thumb.jpg)](f/contact/g/gray1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<candaceg@nmsu.edu>|
+|B‑day, addr.|<mark>nodate</mark> 1980 / …|
+||[![](f/contact/g/gray1_photo_thumb.jpg)](f/contact/g/gray1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy, New Mexico Univ., 2015.
    - **Exp.:** …

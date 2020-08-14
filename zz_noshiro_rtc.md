@@ -3,9 +3,9 @@
 
 |[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|*Asanai, Noshiro-city, Akita 016-0179, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://global.jaxa.jp/about/centers/ntc/index.html><br> <http://www.isas.jaxa.jp/en/about/facilities/noshiro.html><br> <https://en.wikipedia.org/wiki/Noshiro_Rocket_Testing_Center> |
-|Tel| +81-185-52-7123, ℻: +81-185-52-3189 |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://global.jaxa.jp/about/centers/ntc/index.html><br> <http://www.isas.jaxa.jp/en/about/facilities/noshiro.html><br> <https://en.wikipedia.org/wiki/Noshiro_Rocket_Testing_Center>|
+|Tel|+81-185-52-7123, ℻: +81-185-52-3189|
 
 The **Noshiro Rocket Testing Center** (能代ロケット実験場, Noshiro Roketto Jikkenjo) is a facility of the [JAXA](zz_jaxa.md), aimed for research, development & testing of liquid-fuel rocket [engines](ps.md). Located on the coast of the Sea of Japan in the city of Noshiro in Akita Prefecture, Japan. Founded in 1965.
 

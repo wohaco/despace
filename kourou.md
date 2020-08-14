@@ -14,14 +14,14 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity |**Active** (1968 ‑ …) |
-| [Launch vehicles](lv.md) | [Arian‑4, 5](arian.md) ┊ [Vega](vega.md) ┊ [Союз‑2](soyuz.md) |
-| Operator | [ESA](zz_esa.md) |
-| Location | 5°13′20″N 52°46′25″W<br> Kourou, French Guiana |
-| Distance | 600 km — to the equator;<br> 11 500 km — to [NPO Lavochkin](zz_lav.md);<br> 7 800 km — to [JPL](zz_jpl.md);<br> 7 200 km — to ESA Headquarters in Paris |
-| Launch pad | 4 |
-|| [![](f/spaceport/kourou/pic1_thumb.jpg)](f/spaceport/kourou/pic1.jpg)  [![](f/spaceport/kourou/map1_thumb.jpg)](f/spaceport/kourou/map1.png)   [![](f/spaceport/kourou/map2_thumb.jpg)](f/spaceport/kourou/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1968 ‑ …)|
+|[Launch vehicles](lv.md)|[Arian‑4, 5](arian.md) ┊ [Vega](vega.md) ┊ [Союз‑2](soyuz.md)|
+|Operator|[ESA](zz_esa.md)|
+|Location|5°13′20″N 52°46′25″W<br> Kourou, French Guiana|
+|Distance|600 km — to the equator;<br> 11 500 km — to [NPO Lavochkin](zz_lav.md);<br> 7 800 km — to [JPL](zz_jpl.md);<br> 7 200 km — to ESA Headquarters in Paris|
+|Launch pad|4|
+||[![](f/spaceport/kourou/pic1_thumb.jpg)](f/spaceport/kourou/pic1.jpg)  [![](f/spaceport/kourou/map1_thumb.jpg)](f/spaceport/kourou/map1.png)   [![](f/spaceport/kourou/map2_thumb.jpg)](f/spaceport/kourou/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

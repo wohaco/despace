@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[IRAP](zz_irap.md), EU.*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +33(0)5-6133-2582 |
-|E‑mail| <gilles.berger@irap.omp.eu> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/b/berger1_photo_thumb.jpg)](f/contact/b/berger1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +33(0)5-6133-2582|
+|E‑mail|<gilles.berger@irap.omp.eu>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||[![](f/contact/b/berger1_photo_thumb.jpg)](f/contact/b/berger1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

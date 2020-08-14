@@ -16,26 +16,26 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| $ 262 million or 18 323 kg [gold](sc_price.md) in 2005 prices |
-|[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| 2001 — 2005 |
-|Duration| planned: 2 years;<br>  final: 9 y 2 m 9 d |
-|Launch| 9 November 2005, 03:33:34 UTC;<br>Rocket: Soyuz-FG/Fregat |
-|Operator| European Space Agency |
-|Programme| Venus Express |
-|Similar to| • Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • Past: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975). |
-|Target| To perform a global investigation of the Venusian atmosphere |
-|[Type](sc.md)| Orbiter spacecraft |
+|Cost|$ 262 million or 18 323 kg [gold](sc_price.md) in 2005 prices|
+|[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
+|Development|2001 — 2005|
+|Duration|planned: 2 years;<br>  final: 9 y 2 m 9 d|
+|Launch|9 November 2005, 03:33:34 UTC;<br>Rocket: Soyuz-FG/Fregat|
+|Operator|European Space Agency|
+|Programme|Venus Express|
+|Similar to|• Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • Past: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975).|
+|Target|To perform a global investigation of the Venusian atmosphere|
+|[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| 2 high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas |
-|Composition| Orbiter |
-|Contractor| [EADS Astrium](zz_astrium.md) |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): [2005-045A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2005-045A), SCN: 28901 |
-|Manufacturer| [EADS Astrium](zz_astrium.md) |
-|Mass| Dry: 700 kg ([Medium satellite](sc.md), [EVN‑072](venus.md)) |
-|Orbit / Site| Cytherocentric: 250 x 66 000 km; i = 90 °; T = 24 h |
-|Power| 1 100 W |
-|Payload| Venus Monitoring Camera; Analyser of Space Plasma and Energetic Atoms; Planetary Fourier Spectrometer; Visible/Ultraviolet/Near-infrared Mapping Spectrometer; Venus Express Magnetometer; Venus Radio Science Experiment; Ultraviolet and Infrared Atmospheric Spectrometer |
+|Comms|2 high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas|
+|Composition|Orbiter|
+|Contractor|[EADS Astrium](zz_astrium.md)|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [2005-045A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2005-045A), SCN: 28901|
+|Manufacturer|[EADS Astrium](zz_astrium.md)|
+|Mass|Dry: 700 kg ([Medium satellite](sc.md), [EVN‑072](venus.md))|
+|Orbit / Site|Cytherocentric: 250 x 66 000 km; i = 90 °; T = 24 h|
+|Power|1 100 W|
+|Payload|Venus Monitoring Camera; Analyser of Space Plasma and Energetic Atoms; Planetary Fourier Spectrometer; Visible/Ultraviolet/Near-infrared Mapping Spectrometer; Venus Express Magnetometer; Venus Radio Science Experiment; Ultraviolet and Infrared Atmospheric Spectrometer|
 
 Achieved targets & investigations:
 
@@ -49,35 +49,35 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑008||Atmosphere: nightglows.|  |D|||||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑014||Atmosphere: composition|  ||D||F||
-|EVN‑015||Atmosphere: structure of the mesosphere.| All A |D|||||
-|EVN‑020||Inner structure of the planet.|  |D|||||
-|EVN‑028||Magnetosphere structure.|  |D||F|||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑033||Atmosphere: nature/rate of its escape|  ||D||||
-|EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
-|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
-|EVN‑049||Nature & characteristics of the thermal tides|  ||D||||
-|EVN‑050||Causes of the water loss.|  |D|||||
-|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑079||Precise duration of the Venusian day.|  |D|||||
-|EVN‑091||The loss rate of water from Venus.|  |D||F|||
-|EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
-|EVN‑096||Atmosphere: ionosphere.|  |D||F|||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
-|EVN‑080||Albedo: changes in time| Gi ||D|F|||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑008||Atmosphere: nightglows.||D|||||
+|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.||D|||||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑014||Atmosphere: composition|||D||F||
+|EVN‑015||Atmosphere: structure of the mesosphere.|All A|D|||||
+|EVN‑020||Inner structure of the planet.||D|||||
+|EVN‑028||Magnetosphere structure.||D||F|||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑033||Atmosphere: nature/rate of its escape|||D||||
+|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
+|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
+|EVN‑046||Surface: causes of the changes during the last billion years.||D|C|F|||
+|EVN‑049||Nature & characteristics of the thermal tides|||D||||
+|EVN‑050||Causes of the water loss.||D|||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.||D|||||
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑076||Surface: volcanoes, their presence.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑078|T|Atmosphere: radiography.||D|||||
+|EVN‑079||Precise duration of the Venusian day.||D|||||
+|EVN‑091||The loss rate of water from Venus.||D||F|||
+|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
+|EVN‑096||Atmosphere: ionosphere.||D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
+|EVN‑080||Albedo: changes in time|Gi||D|F|||
 
 </small>
 
@@ -105,7 +105,7 @@ The existence of the polar vortices on Venus has been known for many years, but 
 
 <small>
 
-| *Thermal infrared radiation (at a wavelength of 3.8 microns).* |
+|*Thermal infrared radiation (at a wavelength of 3.8 microns).*|
 |:--|
 |![](f/project/v/venus_express/vortex.gif)
 |**Reconstruction of the motion of the polar atmosphere of Venus. The cross marks the South Pole and the white circle marks the centre of rotation of the polar atmospheric vortex**|
@@ -123,7 +123,7 @@ The centre of rotation drifts right around the pole over a period of 5 ‑ 1
 
 Small-scale temperature variations on the planet’s surface are extremely difficult to measure. The VIRTIS instrument and the VMC have both contributed to the study of volcanism on Venus. These instruments can observe thermal emission from the surface at a wavelength of around 1 micron, where it is weakly absorbed by the planet’s atmosphere.
 
-| *Surface warmth on a volcano on Venus.* |
+|*Surface warmth on a volcano on Venus.*|
 |:--|
 |![](f/project/v/venus_express/volcano.jpg)|
 
@@ -133,7 +133,7 @@ The VMC has also detected some bright, transient features, including an apparent
 
 Indirect evidence of a major volcanic eruption has come from large changes in the sulphur dioxide content of the planet’s atmosphere ([EVN‑009](venus.md)). Immediately after arriving at Venus in 2006, the spacecraft recorded a significant increase in the average density of sulphur dioxide in the upper atmosphere, followed by a sharp decrease. One possibility is that the dramatic swing in atmospheric composition was caused by buoyant plumes of volcanic gases released by a large eruption and floating upward ([EVN‑029](venus.md)).
 
-| *Surface warmth on a volcano on Venus.* |
+|*Surface warmth on a volcano on Venus.*|
 |:--|
 |![](f/project/v/venus_express/sulphur.jpg)|
 
@@ -161,7 +161,7 @@ Although the planet’s surface is like a red hot furnace, conditions are very d
 
 The discovery was made by studying light from the Sun as it passed through the atmosphere, revealing the concentration of carbon dioxide gas molecules at various altitudes along the terminator. Armed with information about the concentration of carbon dioxide and data on atmospheric pressure at each height, scientists could then calculate the corresponding temperatures.
 
-| *Surface warmth on a volcano on Venus.* |
+|*Surface warmth on a volcano on Venus.*|
 |:--|
 |![](f/project/v/venus_express/cold.jpg)|
 
@@ -255,13 +255,13 @@ The combination of data from the PFS, SPICAV, and VIRTUS instruments made it pos
 ## Spacecraft
 |*Parameter*|*Value*|
 |:--|:--|
-| Spacecraft bus dimensions | 1.5 x 1.8 x 1.4 m |
-| Spacecraft mass | 1 270 kg (including 93 kg of payload and 570 kg fuel) |
-| Thrust of main engine | 400 N |
-| Attitude thrusters | Two sets of four, each delivering 10 N each |
-| Solar arrays | Two triple-junction Ga As; 5.7 m²; generating 800 W near Earth and 1 100 W at Venus |
-| Power storage | Three lithium-ion batteries |
-| Antennas | Two high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas |
+|Spacecraft bus dimensions|1.5 x 1.8 x 1.4 m|
+|Spacecraft mass|1 270 kg (including 93 kg of payload and 570 kg fuel)|
+|Thrust of main engine|400 N|
+|Attitude thrusters|Two sets of four, each delivering 10 N each|
+|Solar arrays|Two triple-junction Ga As; 5.7 m²; generating 800 W near Earth and 1 100 W at Venus|
+|Power storage|Three lithium-ion batteries|
+|Antennas|Two high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas|
 
 ![](f/project/v/venus_express/spacecraft.jpg)
 
@@ -343,7 +343,7 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

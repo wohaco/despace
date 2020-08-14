@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP. Department of Solar System Sciences. Professor*|
 |:--|:--|
-|B‑day, addr.| 1962.12.05 Tokyo, JP / … |
-|E‑mail| <satoh@stp.isas.jaxa.jp> |
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +81(50)3362-3838; факс: +81(42)759-8178 *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/s/satoh1_photo_thumb.jpg)](f/contact/s/satoh1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|B‑day, addr.|1962.12.05 Tokyo, JP / …|
+|E‑mail|<satoh@stp.isas.jaxa.jp>|
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +81(50)3362-3838; факс: +81(42)759-8178 *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/s/satoh1_photo_thumb.jpg)](f/contact/s/satoh1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** **[CV](f/contact/s/satoh1_cv.pdf).** PhD, Physics, Science University of Tokyo, 1992. MS, Physics, Science University of Tokyo, 1989. BS, Physics, Science University of Tokyo, 1987.
    - **Exp.:** Department of Space & Astronautical Science, School of Physical Sciences, SOKENDAI, Sagamihara‑shi, Kanagawa, Japan, Professor, 2006 ‑ present. Department of Solar System Sciences, Institute of Space & Astronautical Science, JAXA, Sagamihara‑shi, Kanagawa, Japan, Professor, 2006 ‑ present. Faculty of Education, Kumamoto Univ., Kumamoto‑shi, Kumamoto, Japan, Associate Professor, 2001 ‑ 2006. Frontier Research Center for Computational Sciences, Science Univ. of Tokyo, Noda‑shi, Chiba, Japan, Lecturer, 1997 ‑ 2001. Hughes STX Corporation at NASA GSFC, Greenbelt, Maryland, USA, Astrophysicist, 1993 ‑ 1997. Institute for Astronomy, Univ. of Hawaii, Honolulu, Hawaii, USA, Visiting Scientist, 1992 ‑ 1993.

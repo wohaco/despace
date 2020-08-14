@@ -13,52 +13,52 @@
 
 |*Луна*|*Луна*|*Луна*|*Карта*|
 |:--|:--|:--|:--|
-| [![](f/aob/moon/moon_fullmoon2010_thumb.jpg)](f/aob/moon/moon_fullmoon2010.jpg) | [![](f/aob/moon/moon_map1_thumb.jpg)](f/aob/moon/moon_map1.jpg) | [![](f/aob/moon/moon_map2_thumb.jpg)](f/aob/moon/moon_map2.jpg) | [![](f/aob/moon/moon_map3_thumb.jpg)](f/aob/moon/moon_map3.jpg) |
+|[![](f/aob/moon/moon_fullmoon2010_thumb.jpg)](f/aob/moon/moon_fullmoon2010.jpg)|[![](f/aob/moon/moon_map1_thumb.jpg)](f/aob/moon/moon_map1.jpg)|[![](f/aob/moon/moon_map2_thumb.jpg)](f/aob/moon/moon_map2.jpg)|[![](f/aob/moon/moon_map3_thumb.jpg)](f/aob/moon/moon_map3.jpg)|
 
 
 
 ## Характеристики
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Flight from Earth| 4.5 ‑ 5.5 суток на ЖРДУ |
-|Signal from Earth| 1.17 ‑ 1.36 секунды |
-|Distance from Earth| 356 ‑ 407 тыс. км |
-|Breaking to the orbit|  |
+|Flight from Earth|4.5 ‑ 5.5 суток на ЖРДУ|
+|Signal from Earth|1.17 ‑ 1.36 секунды|
+|Distance from Earth|356 ‑ 407 тыс. км|
+|Breaking to the orbit||
 |**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Апогей);<br> [Pericentre](apopericentre.md) (Перигей)| 405 696 км (404 000 ‑ 406 700 км);<br> 363 104 км (356 400 ‑ 370 400 км) |
-|[Argument of periapsis](keplerian.md) (ω)| (возрастание) 1 оборот за 8.85 лет |
-|[Semimajor axis](keplerian.md) (a)| 384 399 км (0.00257 [а.е.](si.md)) |
-|Day/year| 14 сут 18 ч / … земных |
-|[Longit. of asc.node](keplerian.md) (Ω)| (убывание) 1 оборот за 18.6 лет |
-|[Inclination](keplerian.md) (Ⅰ)| 5.145° (относительно эклиптики) |
-|Orbital velocity (Ⅴ)| 1.023 km/s (средняя) |
-|[Sider. rotat.period](astroperiod.md) (T, day)| 27.321661 дня, синхронизирован<br> (всегда повёрнута к Земле одной стороной) |
-|[Sidereal period](astroperiod.md) (year)| 27.321582 дней (27 д 7 ч 43 мин 1 с) |
-|[Synodic period](astroperiod.md)| 29.530588 дней (29 д 12 ч 44 мин 0 с) |
-|Satellites| нет |
-|[Hill sphere](hill_sphere.md)| 66 000 |
-|Satellite of| [Земля](earth.md) |
-|[Eccentricity](keplerian.md) (e)| 0.0549 (средний) |
+|[Apocentre](apopericentre.md) (Апогей);<br> [Pericentre](apopericentre.md) (Перигей)|405 696 км (404 000 ‑ 406 700 км);<br> 363 104 км (356 400 ‑ 370 400 км)|
+|[Argument of periapsis](keplerian.md) (ω)|(возрастание) 1 оборот за 8.85 лет|
+|[Semimajor axis](keplerian.md) (a)|384 399 км (0.00257 [а.е.](si.md))|
+|Day/year|14 сут 18 ч / … земных|
+|[Longit. of asc.node](keplerian.md) (Ω)|(убывание) 1 оборот за 18.6 лет|
+|[Inclination](keplerian.md) (Ⅰ)|5.145° (относительно эклиптики)|
+|Orbital velocity (Ⅴ)|1.023 km/s (средняя)|
+|[Sider. rotat.period](astroperiod.md) (T, day)|27.321661 дня, синхронизирован<br> (всегда повёрнута к Земле одной стороной)|
+|[Sidereal period](astroperiod.md) (year)|27.321582 дней (27 д 7 ч 43 мин 1 с)|
+|[Synodic period](astroperiod.md)|29.530588 дней (29 д 12 ч 44 мин 0 с)|
+|Satellites|нет|
+|[Hill sphere](hill_sphere.md)|66 000|
+|Satellite of|[Земля](earth.md)|
+|[Eccentricity](keplerian.md) (e)|0.0549 (средний)|
 |**Physics:**|• • •|
-|[1st escape velocity](esc_vel.md) (v₁)| 1.68 km/s <small>(0.212 земной)</small> |
-|[2nd escape velocity](esc_vel.md) (v₂)| 2.38 km/s <small>(0.212 земной)</small> |
-|[Albedo](albedo.md)| 0.12 |
-|[Apparent magnitude](app_mag.md) (m)| −2.5/−12.9 (−12.74 при полной Луне) |
-|[Magnetic field](mag_field.md)| 0.02785 А/м <small>(0.0007 земного)</small> |
-|Mass (m)| 7.3477·10²² кг <small>(0.0123 земной)</small> |
-|Axial tilt| 1.5424° (относительно плоскости эклиптики) |
-|Volume (Ⅴ)| 2.1958·10¹⁰ km³ <small>(0.020 земного)</small> |
-|Mean density (ρ)| 3.3464 г/cm³ (средняя, <small>0.607 земной</small>) |
-|Surface area (S)| 3.793·10⁷ km² <small>(0.074 земной, 2.2 РФ)</small>  |
-|Flattening| 0.00125 <small>(0.372 земного)</small> |
-|Radius| 1 738.14 км (экватор., <small>0.273 земного</small>);<br> 1 735.97 км (полярный, <small>0.273 земного</small>);<br> 1 737.10 км (средний, <small>0.273 земного</small>) |
-|[Surface gravity](g.md)| 1.62 m/s² (экватор, <small>0.165 земного</small>) |
-|Equatorial rotation velocity| 16.657 км/ч <small>(0.0099 земной)</small> |
+|[1st escape velocity](esc_vel.md) (v₁)|1.68 km/s <small>(0.212 земной)</small>|
+|[2nd escape velocity](esc_vel.md) (v₂)|2.38 km/s <small>(0.212 земной)</small>|
+|[Albedo](albedo.md)|0.12|
+|[Apparent magnitude](app_mag.md) (m)|−2.5/−12.9 (−12.74 при полной Луне)|
+|[Magnetic field](mag_field.md)|0.02785 А/м <small>(0.0007 земного)</small>|
+|Mass (m)|7.3477·10²² кг <small>(0.0123 земной)</small>|
+|Axial tilt|1.5424° (относительно плоскости эклиптики)|
+|Volume (Ⅴ)|2.1958·10¹⁰ km³ <small>(0.020 земного)</small>|
+|Mean density (ρ)|3.3464 г/cm³ (средняя, <small>0.607 земной</small>)|
+|Surface area (S)|3.793·10⁷ km² <small>(0.074 земной, 2.2 РФ)</small>|
+|Flattening|0.00125 <small>(0.372 земного)</small>|
+|Radius|1 738.14 км (экватор., <small>0.273 земного</small>);<br> 1 735.97 км (полярный, <small>0.273 земного</small>);<br> 1 737.10 км (средний, <small>0.273 земного</small>)|
+|[Surface gravity](g.md)|1.62 m/s² (экватор, <small>0.165 земного</small>)|
+|Equatorial rotation velocity|16.657 км/ч <small>(0.0099 земной)</small>|
 |**Temperature & atmosph.:**|• • •|
-|[Атмосфера](atmosphere.md)| крайне разрежена,<br> имеются следы водорода, гелия, неона и аргона. |
-|[Освещённость](illum.md)|  |
-|Радиация|  |
-|Температура| Мин. 100 К (−173 ℃);<br> Ср. 220 К (−53 ℃);<br> Макс. 390 К (+117 ℃);<br> на экваторе Мин. 33 К (−240 ℃);<br> на экваторе Ср. 130 К (−143 ℃);<br> на экваторе Макс. 230 К (−43 ℃) |
+|[Атмосфера](atmosphere.md)|крайне разрежена,<br> имеются следы водорода, гелия, неона и аргона.|
+|[Освещённость](illum.md)||
+|Радиация||
+|Температура|Мин. 100 К (−173 ℃);<br> Ср. 220 К (−53 ℃);<br> Макс. 390 К (+117 ℃);<br> на экваторе Мин. 33 К (−240 ℃);<br> на экваторе Ср. 130 К (−143 ℃);<br> на экваторе Макс. 230 К (−43 ℃)|
 
 
 
@@ -161,71 +161,71 @@
 |*✔*|*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |—|**Proposed:**|—|—|—|—|—|—|—|—|
-|CN| [Chang'e-5](chang_e_5.md) |  ||||||| <mark>TBD</mark> |
-|CN| [Chang'e-4](chang_e_4.md) |  ||C||||| <mark>TBD</mark> |
-|RU| [Луна‑29](луна_29.md) Ⓛ |  ||C|||S|| <mark>TBD</mark> |
+|CN|[Chang'e-5](chang_e_5.md)||||||||<mark>TBD</mark>|
+|CN|[Chang'e-4](chang_e_4.md)|||C|||||<mark>TBD</mark>|
+|RU|[Луна‑29](луна_29.md) Ⓛ|||C|||S||<mark>TBD</mark>|
 |—|**Developing:**|—|—|—|—|—|—|—|—|
-|RU| [Луна‑28](луна‑28.md) (ЛГР) Ⓛ | 2025 ||C||||| <mark>TBD</mark> |
-|RU| [Луна‑27](луна_27.md) (ЛР1) Ⓛ | 2025 ||C||||| <mark>TBD</mark> |
-|RU| [Луна‑26](луна_26.md) (ЛРОА) Ⓛ | 2021 |D|||||| <mark>TBD</mark> |
-|RU| [Луна‑25](луна_25.md) (ЛГ) Ⓛ | 2021 ||C||||| <mark>TBD</mark> |
+|RU|[Луна‑28](луна‑28.md) (ЛГР) Ⓛ|2025||C|||||<mark>TBD</mark>|
+|RU|[Луна‑27](луна_27.md) (ЛР1) Ⓛ|2025||C|||||<mark>TBD</mark>|
+|RU|[Луна‑26](луна_26.md) (ЛРОА) Ⓛ|2021|D||||||<mark>TBD</mark>|
+|RU|[Луна‑25](луна_25.md) (ЛГ) Ⓛ|2021||C|||||<mark>TBD</mark>|
 |—|**Active:**|—|—|—|—|—|—|—|—|
-|…| … | … ||||||| <mark>TBD</mark> |
+|…|…|…|||||||<mark>TBD</mark>|
 |`—`|**`Разработанные:`**|—|—|—|—|—|—|—|—|
-|IL| [Beresheet](beresheet.md) | 2019.02.22 ||C||||X| <mark>TBD</mark> |
-|JP| [SELENE-2](selene_2.md) | 2018 |D|C||||| <mark>TBD</mark> |
-|EU| [Lunar Lander](lunar_lander.md) | 2018 ||C||||| <mark>TBD</mark> |
-|IN| [Chandrayaan-2](chandrayaan_2.md) | 2018 |D|C||||| <mark>TBD</mark> |
-|CN| [Chang'e-3](chang_e_3.md) | 2013.12.01 ||C||||| <mark>TBD</mark> |
-|US| [LADEE](ladee.md) | 2013.09.07 |D|||||X| <mark>TBD</mark> |
-|US| [GRAIL](grail.md) | 2011.09.10 |D|||||| <mark>TBD</mark> |
-|CN| [Chang'e-2](chang_e_2.md) | 2010.10.01 |D|||||| <mark>TBD</mark> |
-|US| [LRO](lunar_reconnaissance_orbiter.md) | 2009.06.19 |D|||||| <mark>TBD</mark> |
-|US| [LCROSS](lcross.md) | 2009.06.19 |D|||||| <mark>TBD</mark> |
-|IN| [Chandrayaan-1](chandrayaan_1.md) | 2008.10.22 |D|C||||X| <mark>TBD</mark> |
-|CN| [Chang'E-1](chang_e_1.md) | 2007.10.24 |D|C||||| <mark>TBD</mark> |
-|JP| [SELENE](selene.md) | 2007.09.14 |D|||||| <mark>TBD</mark> |
-|US| [THEMIS](themis.md) | 2007.02.17 |D|||||| <mark>TBD</mark> |
-|EU| [SMART-1](smart_1.md) | 2003.09.27 |D|||||X| <mark>TBD</mark> |
-|US| [Clementine](clementine.md) | 1998.01.07 |D|||||| <mark>TBD</mark> |
-|US| [Lunar Prospector](lunar_prospector.md) | 1994.01.25 |D|||||| <mark>TBD</mark> |
-|JP| [Hiten](hiten.md) | 1990.01.24 |D|C||||| <mark>TBD</mark> |
-|SU| [Луна‑24](луна_24.md) Ⓛ | 1976.08.09 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑23](луна_23.md) Ⓛ | 1974.10.28 ||C|||S|| <mark>TBD</mark> |
-|SU| [Луна‑22](луна_22.md) Ⓛ | 1974.04.29 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑21](луна_21.md) Ⓛ | 1973.01.08 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑20](луна_20.md) Ⓛ | 1972.02.14 |D|C|||S|| <mark>TBD</mark> |
-|US| [Apollo 17](apollo_17.md) | 1972.12.07 ||||H||| <mark>TBD</mark> |
-|US| [Apollo 16](apollo_16.md) | 1972.04.16 ||||H||| <mark>TBD</mark> |
-|SU| [Луна‑19](луна_19.md) Ⓛ | 1971.09.28 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑18](луна_18.md) Ⓛ | 1971.09.02 ||C||||| <mark>TBD</mark> |
-|US| [Apollo 15](apollo_15.md) | 1971.07.26 ||||H||| <mark>TBD</mark> |
-|US| [Apollo 14](apollo_14.md) | 1971.01.31 ||||H||| <mark>TBD</mark> |
-|SU| [Луна‑17](луна_17.md) Ⓛ | 1970.11.10 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑16](луна_16.md) Ⓛ | 1970.09.12 ||C|||S|| <mark>TBD</mark> |
-|US| [Apollo 13](apollo_13.md) | 1970.04.11 ||||H||| <mark>TBD</mark> |
-|US| [Apollo 12](apollo_12.md) | 1969.11.14 ||||H||| <mark>TBD</mark> |
-|US| [Apollo 11](apollo_11.md) | 1969.07.16 ||||H||| <mark>TBD</mark> |
-|SU| [Луна‑15](луна_15.md) Ⓛ | 1969.07.13 ||C|||S|| <mark>TBD</mark> |
-|US| [Apollo 10](apollo_10.md) | 1969.05.18 ||||H||| <mark>TBD</mark> |
-|US| [Apollo 9](apollo_9.md) | 1969.03.03 |D|||||| <mark>TBD</mark> |
-|US| [Apollo 8](apollo_8.md) | 1968.12.21 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑14](луна_14.md) Ⓛ | 1968.04.07 |D|||||| <mark>TBD</mark> |
-|US| [Surveyor 7](surveyor_7.md) | 1968.01.07 ||C||||| <mark>TBD</mark> |
-|US| [Explorer 35](explorer_35.md) | 1967.07.19 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑13](луна_13.md) Ⓛ | 1966.12.21 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑12](луна_12.md) Ⓛ | 1966.10.22 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑11](луна_11.md) Ⓛ | 1966.08.27 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑10](луна_10.md) Ⓛ | 1966.03.31 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑9](луна_9.md) Ⓛ | 1966.01.31 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑8](луна_8.md) Ⓛ | 1965.12.03 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑7](луна_7.md) Ⓛ | 1965.10.04 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑6](луна_6.md) Ⓛ | 1965.06.08 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑5](луна_5.md) Ⓛ | 1965.05.09 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑4](луна_4.md) Ⓛ | 1963.04.02 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑3](луна_3.md) Ⓛ | 1959.10.04 |D|||||| <mark>TBD</mark> |
-|SU| [Луна‑2](луна_2.md) Ⓛ | 1959.09.12 ||C||||| <mark>TBD</mark> |
-|SU| [Луна‑1](луна_1.md) Ⓛ | 1959.01.02 |D|C||||| <mark>TBD</mark> |
+|IL|[Beresheet](beresheet.md)|2019.02.22||C||||X|<mark>TBD</mark>|
+|JP|[SELENE-2](selene_2.md)|2018|D|C|||||<mark>TBD</mark>|
+|EU|[Lunar Lander](lunar_lander.md)|2018||C|||||<mark>TBD</mark>|
+|IN|[Chandrayaan-2](chandrayaan_2.md)|2018|D|C|||||<mark>TBD</mark>|
+|CN|[Chang'e-3](chang_e_3.md)|2013.12.01||C|||||<mark>TBD</mark>|
+|US|[LADEE](ladee.md)|2013.09.07|D|||||X|<mark>TBD</mark>|
+|US|[GRAIL](grail.md)|2011.09.10|D||||||<mark>TBD</mark>|
+|CN|[Chang'e-2](chang_e_2.md)|2010.10.01|D||||||<mark>TBD</mark>|
+|US|[LRO](lunar_reconnaissance_orbiter.md)|2009.06.19|D||||||<mark>TBD</mark>|
+|US|[LCROSS](lcross.md)|2009.06.19|D||||||<mark>TBD</mark>|
+|IN|[Chandrayaan-1](chandrayaan_1.md)|2008.10.22|D|C||||X|<mark>TBD</mark>|
+|CN|[Chang'E-1](chang_e_1.md)|2007.10.24|D|C|||||<mark>TBD</mark>|
+|JP|[SELENE](selene.md)|2007.09.14|D||||||<mark>TBD</mark>|
+|US|[THEMIS](themis.md)|2007.02.17|D||||||<mark>TBD</mark>|
+|EU|[SMART-1](smart_1.md)|2003.09.27|D|||||X|<mark>TBD</mark>|
+|US|[Clementine](clementine.md)|1998.01.07|D||||||<mark>TBD</mark>|
+|US|[Lunar Prospector](lunar_prospector.md)|1994.01.25|D||||||<mark>TBD</mark>|
+|JP|[Hiten](hiten.md)|1990.01.24|D|C|||||<mark>TBD</mark>|
+|SU|[Луна‑24](луна_24.md) Ⓛ|1976.08.09||C|||||<mark>TBD</mark>|
+|SU|[Луна‑23](луна_23.md) Ⓛ|1974.10.28||C|||S||<mark>TBD</mark>|
+|SU|[Луна‑22](луна_22.md) Ⓛ|1974.04.29|D||||||<mark>TBD</mark>|
+|SU|[Луна‑21](луна_21.md) Ⓛ|1973.01.08||C|||||<mark>TBD</mark>|
+|SU|[Луна‑20](луна_20.md) Ⓛ|1972.02.14|D|C|||S||<mark>TBD</mark>|
+|US|[Apollo 17](apollo_17.md)|1972.12.07||||H|||<mark>TBD</mark>|
+|US|[Apollo 16](apollo_16.md)|1972.04.16||||H|||<mark>TBD</mark>|
+|SU|[Луна‑19](луна_19.md) Ⓛ|1971.09.28|D||||||<mark>TBD</mark>|
+|SU|[Луна‑18](луна_18.md) Ⓛ|1971.09.02||C|||||<mark>TBD</mark>|
+|US|[Apollo 15](apollo_15.md)|1971.07.26||||H|||<mark>TBD</mark>|
+|US|[Apollo 14](apollo_14.md)|1971.01.31||||H|||<mark>TBD</mark>|
+|SU|[Луна‑17](луна_17.md) Ⓛ|1970.11.10||C|||||<mark>TBD</mark>|
+|SU|[Луна‑16](луна_16.md) Ⓛ|1970.09.12||C|||S||<mark>TBD</mark>|
+|US|[Apollo 13](apollo_13.md)|1970.04.11||||H|||<mark>TBD</mark>|
+|US|[Apollo 12](apollo_12.md)|1969.11.14||||H|||<mark>TBD</mark>|
+|US|[Apollo 11](apollo_11.md)|1969.07.16||||H|||<mark>TBD</mark>|
+|SU|[Луна‑15](луна_15.md) Ⓛ|1969.07.13||C|||S||<mark>TBD</mark>|
+|US|[Apollo 10](apollo_10.md)|1969.05.18||||H|||<mark>TBD</mark>|
+|US|[Apollo 9](apollo_9.md)|1969.03.03|D||||||<mark>TBD</mark>|
+|US|[Apollo 8](apollo_8.md)|1968.12.21|D||||||<mark>TBD</mark>|
+|SU|[Луна‑14](луна_14.md) Ⓛ|1968.04.07|D||||||<mark>TBD</mark>|
+|US|[Surveyor 7](surveyor_7.md)|1968.01.07||C|||||<mark>TBD</mark>|
+|US|[Explorer 35](explorer_35.md)|1967.07.19|D||||||<mark>TBD</mark>|
+|SU|[Луна‑13](луна_13.md) Ⓛ|1966.12.21||C|||||<mark>TBD</mark>|
+|SU|[Луна‑12](луна_12.md) Ⓛ|1966.10.22|D||||||<mark>TBD</mark>|
+|SU|[Луна‑11](луна_11.md) Ⓛ|1966.08.27|D||||||<mark>TBD</mark>|
+|SU|[Луна‑10](луна_10.md) Ⓛ|1966.03.31|D||||||<mark>TBD</mark>|
+|SU|[Луна‑9](луна_9.md) Ⓛ|1966.01.31||C|||||<mark>TBD</mark>|
+|SU|[Луна‑8](луна_8.md) Ⓛ|1965.12.03||C|||||<mark>TBD</mark>|
+|SU|[Луна‑7](луна_7.md) Ⓛ|1965.10.04||C|||||<mark>TBD</mark>|
+|SU|[Луна‑6](луна_6.md) Ⓛ|1965.06.08||C|||||<mark>TBD</mark>|
+|SU|[Луна‑5](луна_5.md) Ⓛ|1965.05.09||C|||||<mark>TBD</mark>|
+|SU|[Луна‑4](луна_4.md) Ⓛ|1963.04.02||C|||||<mark>TBD</mark>|
+|SU|[Луна‑3](луна_3.md) Ⓛ|1959.10.04|D||||||<mark>TBD</mark>|
+|SU|[Луна‑2](луна_2.md) Ⓛ|1959.09.12||C|||||<mark>TBD</mark>|
+|SU|[Луна‑1](луна_1.md) Ⓛ|1959.01.02|D|C|||||<mark>TBD</mark>|
 
 </small>
 
@@ -258,115 +258,115 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |•|•|**Never occurred:**|•|•|•|•|•|•|
-|EMN‑…|||  ||||||
+|EMN‑…|||||||||
 |•|•|**Was tried:**|•|•|•|•|•|•|
-|EMN‑…|||  ||||||
+|EMN‑…|||||||||
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EMN‑…|||  ||||||
+|EMN‑…|||||||||
 
 </small>
 
 <mark>TBD</mark> 
 
 |•|•|**Never occurred:**|•|•|•|•|•|•|
-|EMN‑080||Albedo: changes in time| Gi ||D|F|||
-|EMN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|  ||D||||
-|EMN‑037||Atmosphere: cause of the retrograde moving|  ||D||||
-|EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid| Ac, Ai, Am, At ||D||||
-|EMN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
-|EMN‑033||Atmosphere: nature/rate of its escape|  ||D||||
-|EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
-|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km| All A ||||||
-|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km| All A ||||||
-|EMN‑054|T|Atmosphere: sample return| As |C|||||
-|EMN‑015||Atmosphere: structure of the mesosphere| All A ||D||||
-|EMN‑030||Atmosphere: was it lost during some cataclysm or event|  ||D||||
-|EMN‑095||Climate: history & causes of changes|  ||D||||
-|EMN‑087||Crustal support mechanisms|  ||D||||
-|EMN‑051||Dimensions & characteristics of the mantle & the core|  ||D||||
-|EMN‑057|T|Exploration with [satellites](sc.md): microsatellites|  ||D|F|||
-|EMN‑071|T|Exploration with [satellites](sc.md): nanosatellites|  ||D|F|||
-|EMN‑058|T|Exploration: directed seismoexperiment|  ||D|F|||
-|EMN‑056|T|Exploration: from L1/L2| Ai, Am, At, Gi ||D||||
-|EMN‑059|T|Exploration: with [rover](rover.md)| All A/S |C|||||
-|EMN‑081|T|Extreme environment electronics|  |C|D|F|||
-|EMN‑094|T|High temperature electronics|  |C|D|F|||
-|EMN‑066|T|Human: on the surface|  |C|||H||
-|EMN‑065|T|Human: on the orbit|  ||D||H||
-|EMN‑060|T|Human: manned fly‑by|  ||D|F|H||
-|EMN‑043||Mechanisms of the mantle’s convection|  ||D|F|||
-|EMN‑048||Nature & sources of the greenhouse effect|  ||D|F|||
-|EMN‑049||Nature & characteristics of the thermal tides|  ||D||||
-|EMN‑069|T|Prolonged surface‑spacecraft functioning|  |C|||||
-|EMN‑064|T|Planetary terraforming|  |C|||H||
-|EMN‑045||Surface: nature of the tessera|  ||D||||
-|EMN‑061|T|Surface: sample return|  |C||||S|
-|EMN‑088|T|Surface: subsurface investigations|  |C|||||
-|EMN‑086|T|Surface: tessera investigations, in‑situ|  |C|||||
-|EMN‑047||Surface: structure‑composition connection of different regions & planet’s evolution|  |C|||||
-|EMN‑039||Was the planet inhabited & for how long|  |C|D||||
-|EMN‑040||Were there oceans & why have they gone|  |C|D|F|||
+|EMN‑080||Albedo: changes in time|Gi||D|F|||
+|EMN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|||D||||
+|EMN‑037||Atmosphere: cause of the retrograde moving|||D||||
+|EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid|Ac, Ai, Am, At||D||||
+|EMN‑007||Atmosphere: connection between the topography & the atmo circulation|||D||||
+|EMN‑033||Atmosphere: nature/rate of its escape|||D||||
+|EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|||D||||
+|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km|All A||||||
+|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km|All A||||||
+|EMN‑054|T|Atmosphere: sample return|As|C|||||
+|EMN‑015||Atmosphere: structure of the mesosphere|All A||D||||
+|EMN‑030||Atmosphere: was it lost during some cataclysm or event|||D||||
+|EMN‑095||Climate: history & causes of changes|||D||||
+|EMN‑087||Crustal support mechanisms|||D||||
+|EMN‑051||Dimensions & characteristics of the mantle & the core|||D||||
+|EMN‑057|T|Exploration with [satellites](sc.md): microsatellites|||D|F|||
+|EMN‑071|T|Exploration with [satellites](sc.md): nanosatellites|||D|F|||
+|EMN‑058|T|Exploration: directed seismoexperiment|||D|F|||
+|EMN‑056|T|Exploration: from L1/L2|Ai, Am, At, Gi||D||||
+|EMN‑059|T|Exploration: with [rover](rover.md)|All A/S|C|||||
+|EMN‑081|T|Extreme environment electronics||C|D|F|||
+|EMN‑094|T|High temperature electronics||C|D|F|||
+|EMN‑066|T|Human: on the surface||C|||H||
+|EMN‑065|T|Human: on the orbit|||D||H||
+|EMN‑060|T|Human: manned fly‑by|||D|F|H||
+|EMN‑043||Mechanisms of the mantle’s convection|||D|F|||
+|EMN‑048||Nature & sources of the greenhouse effect|||D|F|||
+|EMN‑049||Nature & characteristics of the thermal tides|||D||||
+|EMN‑069|T|Prolonged surface‑spacecraft functioning||C|||||
+|EMN‑064|T|Planetary terraforming||C|||H||
+|EMN‑045||Surface: nature of the tessera|||D||||
+|EMN‑061|T|Surface: sample return||C||||S|
+|EMN‑088|T|Surface: subsurface investigations||C|||||
+|EMN‑086|T|Surface: tessera investigations, in‑situ||C|||||
+|EMN‑047||Surface: structure‑composition connection of different regions & planet’s evolution||C|||||
+|EMN‑039||Was the planet inhabited & for how long||C|D||||
+|EMN‑040||Were there oceans & why have they gone||C|D|F|||
 |•|•|**Was tried:**|•|•|•|•|•|•|
-|EMN‑093|T|Atmosphere/surface imaging|  ||D|F|||
-|EMN‑077||Atmosphere: chemical elements distribution|  ||D|F|||
-|EMN‑018||Atmosphere: clouds, their chemistry|  ||D|F|||
-|EMN‑075||Atmosphere: clouds, their nature|  ||D|F|||
-|EMN‑016||Atmosphere: clouds, their structure|  ||D|F|||
-|EMN‑011||Atmosphere: common circulation model|  ||D||||
-|EMN‑014||Atmosphere: composition|  ||D||F||
-|EMN‑019||Atmosphere: energetic balance|  ||D||||
-|EMN‑008||Atmosphere: flashing on the night side|  ||D||||
-|EMN‑013||Atmosphere: illumination of the surface & the atmo layers|  ||D||||
-|EMN‑096||Atmosphere: ionosphere|  ||D|F|||
-|EMN‑012||Atmosphere: lightnings|  ||D||||
-|EMN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|  ||D||||
-|EMN‑067||Atmosphere: nature of the polar dipole & turbulence|  ||D||||
-|EMN‑034||Atmosphere: nature of the superrotation|  ||D||||
-|EMN‑035||Atmosphere: nature of the UV‑absorber|  ||D||||
-|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|  ||D||||
-|EMN‑078|T|Atmosphere: radiography|  ||D||||
-|EMN‑055|T|Atmosphere: sample obtaining & analysis|  |C|||||
-|EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|  ||D||||
-|EMN‑017||Atmosphere: common structure|  ||D||||
-|EMN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|  ||D|F|||
-|EMN‑010||Atmosphere: vertical model|  ||D||||
-|EMN‑050||Causes of the water loss|  ||D||||
-|EMN‑041||Common connection between the atmosphere & the surface|  ||D||||
-|EMN‑073|T|Exploration with [satellites](sc.md): large satellites|  ||D|F|||
-|EMN‑072|T|Exploration with [satellites](sc.md): medium satellites|  ||D|F|||
-|EMN‑070|T|Exploration with [satellites](sc.md): minisatellites|  ||D|F|||
-|EMN‑042||History & causes of the planet’s volcanic & tectonic evolution|  ||D||||
-|EMN‑020||Inner structure of the planet|  ||D||||
-|EMN‑029||Is Venus geologically active?|  |C|D|F|||
-|EMN‑028||Magnetosphere structure|  ||D|F|||
-|EMN‑089||Measuring the planetary gravitational field|  ||D|F|||
-|EMN‑074||Meteorological model|  ||D|F|||
-|EMN‑079||Precise duration of the Venusian day|  ||D||||
-|EMN‑052||Role of water (fluids) in planetary geology|  |C|D|F|||
-|EMN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|  ||D||||
-|EMN‑046||Surface: causes of the changes during the last billion years|  |C|D|F|||
-|EMN‑024||Surface: common composition|  |C|||||
-|EMN‑026||Surface: elemental composition|  |C|||||
-|EMN‑021||Surface: map, 3D|  |C|D||||
-|EMN‑022||Surface: map, precise|  ||D||||
-|EMN‑023||Surface: mineralogical composition|  |C|||||
-|EMN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
-|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places|  |C||||S|
-|EMN‑063|T|Surface: panoramic imaging|  |C|||||
-|EMN‑025||Surface: morphology|  |C|||||
-|EMN‑085|T|Surface: tessera investigations, remote|  ||D|F|||
-|EMN‑076||Surface: volcanoes, their presence|  ||D|F|||
-|EMN‑027||The causes why Venus evolved in a planet so different from Earth|  |C|D|F|||
-|EMN‑091||The loss rate of water from Venus|  ||D|F|||
-|EMN‑053||Traces of life in the atmosphere & on the surface|  |C|||||
+|EMN‑093|T|Atmosphere/surface imaging|||D|F|||
+|EMN‑077||Atmosphere: chemical elements distribution|||D|F|||
+|EMN‑018||Atmosphere: clouds, their chemistry|||D|F|||
+|EMN‑075||Atmosphere: clouds, their nature|||D|F|||
+|EMN‑016||Atmosphere: clouds, their structure|||D|F|||
+|EMN‑011||Atmosphere: common circulation model|||D||||
+|EMN‑014||Atmosphere: composition|||D||F||
+|EMN‑019||Atmosphere: energetic balance|||D||||
+|EMN‑008||Atmosphere: flashing on the night side|||D||||
+|EMN‑013||Atmosphere: illumination of the surface & the atmo layers|||D||||
+|EMN‑096||Atmosphere: ionosphere|||D|F|||
+|EMN‑012||Atmosphere: lightnings|||D||||
+|EMN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|||D||||
+|EMN‑067||Atmosphere: nature of the polar dipole & turbulence|||D||||
+|EMN‑034||Atmosphere: nature of the superrotation|||D||||
+|EMN‑035||Atmosphere: nature of the UV‑absorber|||D||||
+|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|||D||||
+|EMN‑078|T|Atmosphere: radiography|||D||||
+|EMN‑055|T|Atmosphere: sample obtaining & analysis||C|||||
+|EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|||D||||
+|EMN‑017||Atmosphere: common structure|||D||||
+|EMN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|||D|F|||
+|EMN‑010||Atmosphere: vertical model|||D||||
+|EMN‑050||Causes of the water loss|||D||||
+|EMN‑041||Common connection between the atmosphere & the surface|||D||||
+|EMN‑073|T|Exploration with [satellites](sc.md): large satellites|||D|F|||
+|EMN‑072|T|Exploration with [satellites](sc.md): medium satellites|||D|F|||
+|EMN‑070|T|Exploration with [satellites](sc.md): minisatellites|||D|F|||
+|EMN‑042||History & causes of the planet’s volcanic & tectonic evolution|||D||||
+|EMN‑020||Inner structure of the planet|||D||||
+|EMN‑029||Is Venus geologically active?||C|D|F|||
+|EMN‑028||Magnetosphere structure|||D|F|||
+|EMN‑089||Measuring the planetary gravitational field|||D|F|||
+|EMN‑074||Meteorological model|||D|F|||
+|EMN‑079||Precise duration of the Venusian day|||D||||
+|EMN‑052||Role of water (fluids) in planetary geology||C|D|F|||
+|EMN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|||D||||
+|EMN‑046||Surface: causes of the changes during the last billion years||C|D|F|||
+|EMN‑024||Surface: common composition||C|||||
+|EMN‑026||Surface: elemental composition||C|||||
+|EMN‑021||Surface: map, 3D||C|D||||
+|EMN‑022||Surface: map, precise|||D||||
+|EMN‑023||Surface: mineralogical composition||C|||||
+|EMN‑044||Surface: nature & causes of forming of the current rocks & soils||C|||||
+|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places||C||||S|
+|EMN‑063|T|Surface: panoramic imaging||C|||||
+|EMN‑025||Surface: morphology||C|||||
+|EMN‑085|T|Surface: tessera investigations, remote|||D|F|||
+|EMN‑076||Surface: volcanoes, their presence|||D|F|||
+|EMN‑027||The causes why Venus evolved in a planet so different from Earth||C|D|F|||
+|EMN‑091||The loss rate of water from Venus|||D|F|||
+|EMN‑053||Traces of life in the atmosphere & on the surface||C|||||
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EMN‑001||Atmosphere: preliminary model|  |C|D|F|||
-|EMN‑004|T|Exploration: from Earth|  ||D||||
-|EMN‑003|T|Exploration: from inside of atmosphere|  |C|D||||
-|EMN‑006|T|Exploration: from surface|  |C|||||
-|EMN‑005|T|Exploration: from Venusian orbit|  ||D|F|||
-|EMN‑090||Spin axis|  ||D||||
-|EMN‑002||Surface: preliminary map|  |C|D||||
+|EMN‑001||Atmosphere: preliminary model||C|D|F|||
+|EMN‑004|T|Exploration: from Earth|||D||||
+|EMN‑003|T|Exploration: from inside of atmosphere||C|D||||
+|EMN‑006|T|Exploration: from surface||C|||||
+|EMN‑005|T|Exploration: from Venusian orbit|||D|F|||
+|EMN‑090||Spin axis|||D||||
+|EMN‑002||Surface: preliminary map||C|D||||
 
 
 

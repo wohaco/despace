@@ -57,13 +57,13 @@
 
 |*№*|*Страница*|
 |:--|:--|
-| | [Апоцентр и перицентр](apopericentre.md) ┊ [Грав.манёвр](gravass.md) ┊ Кеплеровы элементы <sup>(аргумент перицентра ┊ большая полуось ┊ долгота восходящего узла ┊ наклонение ┊ средняя аномалия ┊ эксцентриситет)</sup>
-|**В:**  | Высокая эллиптическая орбита (ВЭО)  |
-|**Г:**  | Гелиоцентрическая орбита ┊ Геосинхронная орбита (ГСО) ┊ Геопереходная орбита (ГПО) ┊ Геостационарная орбита (ГСО) ┊ Геоцентрическая орбита (ГЦО)  |
-|**К:**  | Квази‑геостационарная орбита (КГО)  |
-|**Н:**  | Низкая опорная орбита (НОО)  |
-|**С:**  | Синхронная орбита (СО) ┊ Солнечно‑синхронная орбита (ССО)  |
-|| [![](f/nav/orbit_001.png) |
+||[Апоцентр и перицентр](apopericentre.md) ┊ [Грав.манёвр](gravass.md) ┊ Кеплеровы элементы <sup>(аргумент перицентра ┊ большая полуось ┊ долгота восходящего узла ┊ наклонение ┊ средняя аномалия ┊ эксцентриситет)</sup>
+|**В:**|Высокая эллиптическая орбита (ВЭО)|
+|**Г:**|Гелиоцентрическая орбита ┊ Геосинхронная орбита (ГСО) ┊ Геопереходная орбита (ГПО) ┊ Геостационарная орбита (ГСО) ┊ Геоцентрическая орбита (ГЦО)|
+|**К:**|Квази‑геостационарная орбита (КГО)|
+|**Н:**|Низкая опорная орбита (НОО)|
+|**С:**|Синхронная орбита (СО) ┊ Солнечно‑синхронная орбита (ССО)|
+||[![](f/nav/orbit_001.png)|
 
 
 
@@ -93,8 +93,8 @@
 
 ||
 |:--|
-| ![](f/nav/orbit_002.png)  |
-|Плоскости орбиты и эклиптики с надписанным восходящим узлом орбиты, нисходящий узел орбиты — дальняя точка пересечения этих плоскостей.  |
+|![](f/nav/orbit_002.png)|
+|Плоскости орбиты и эклиптики с надписанным восходящим узлом орбиты, нисходящий узел орбиты — дальняя точка пересечения этих плоскостей.|
 
 Условной плоскостью здесь в большинстве случаев является эклиптика, реже небесный экватор. Относительно избранной плоскости в обоих случаях определяются и небесные полушария. Иногда саму эклиптику, то есть годовой путь Солнца по небесной сфере, фактически являющийся проекцией орбиты самой Земли, рассматривают в отношении небесного экватора, в этом смысле иногда называют точку весеннего равноденствия «восходящим узлом эклиптики», а осеннего — «заходящим».
 
@@ -110,8 +110,8 @@
 
 ||
 |:--|
-| ![](f/nav/orbit_heliocentric_trans-mars_injection.png) |
-|Trans-Mars injection diagram.<br> A = Hohmann transfer orbit.<br> B = Conjunction mission.<br> C = Opposition mission |
+|![](f/nav/orbit_heliocentric_trans-mars_injection.png)|
+|Trans-Mars injection diagram.<br> A = Hohmann transfer orbit.<br> B = Conjunction mission.<br> C = Opposition mission|
 
 A **trans-Mars injection (TMI)** is a heliocentric orbit in which a propulsive maneuver is used to set a spacecraft on a trajectory, also known as Mars transfer orbit, which will cause it to arrive at Mars.
 
@@ -126,8 +126,8 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ||
 |:--|
-| ![](f/nav/orbit_orbit-nasa_molniya_oblique.png) |
-|Типичная орбита КА «Молния». Красными точками отмечено<br> время движения спутника по орбите в часах  |
+|![](f/nav/orbit_orbit-nasa_molniya_oblique.png)|
+|Типичная орбита КА «Молния». Красными точками отмечено<br> время движения спутника по орбите в часах|
 
 **Предназначение.**
 
@@ -245,20 +245,20 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 Таблица наблюдаемого сектора ГСО в зависимости от широты места. Данные приведены в ° и их долях.
 
-|*Широта<br> местности*| <small>*Видимый сектор<br> орбиты<br> теоретический*| <small>*Видимый сектор<br> орбиты реальный<br> (с учётом рельефа)*|
+|*Широта<br> местности*|<small>*Видимый сектор<br> орбиты<br> теоретический*|<small>*Видимый сектор<br> орбиты реальный<br> (с учётом рельефа)*|
 |:--|:--|:--|
-|  90  |  —  |  —  |
-|  82  |  —  |  —  |
-|  81  |  29.7  |  —  |
-|  80  |  58.9  |  —  |
-|  79  |  75.2  |  —  |
-|  78  |  86.7  |  26.2  |
-|  75  |  108.5  |  77  |
-|  60  |  144.8  |  132.2  |
-|  50  |  152.8  |  143.3  |
-|  40  |  157.2  |  149.3  |
-|  20  |  161.5  |  155.1  |
-|  0  |  162.6  |  156.6  |
+|90|—|—|
+|82|—|—|
+|81|29.7|—|
+|80|58.9|—|
+|79|75.2|—|
+|78|86.7|26.2|
+|75|108.5|77|
+|60|144.8|132.2|
+|50|152.8|143.3|
+|40|157.2|149.3|
+|20|161.5|155.1|
+|0|162.6|156.6|
 
 Из вышележащей таблицы видно, например, что если на широте Санкт‑Петербурга (~60°) видимый сектор орбиты (и соответственно количество принимаемых спутников) равен 84 % от максимально возможного (на экваторе), то на широте полуострова Таймыр (~75°) видимый сектор составляет 49 %, а на широте Шпицбергена и мыса Челюскина (~78°) — лишь 16 % от наблюдаемого на экваторе. В этот сектор орбиты в районе Сибири попадает 1‑2 спутника (не всегда необходимой страны).
 
@@ -290,13 +290,13 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 |*Пример траектории от Земли к орбите Лиссажу вокруг точки Лагранжа L2 в системе Солнце‑Земля. На нижней части иллюстрации, представляющей вид сбоку, Земля и Луна убраны для лучшего обзора траектории.*|
 |:--|
-| ![](f/nav/lissajous_orbit_l2_01.jpg) |
+|![](f/nav/lissajous_orbit_l2_01.jpg)|
 |···|
 |**SC WMAP, Oblique view**|
-| ![](f/nav/lissajous_orbit_l2_02.gif) |
+|![](f/nav/lissajous_orbit_l2_02.gif)|
 |···|
 |**SC WMAP, Viewed from Earth**|
-| ![](f/nav/lissajous_orbit_l2_03.gif) |
+|![](f/nav/lissajous_orbit_l2_03.gif)|
 
 
 
@@ -312,8 +312,8 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ||
 |:--|
-| ![](f/nav/orbit_orbit-nasa_molniya_oblique.png) |
-|Типичная орбита КА «Молния». Красными точками отмечено<br> время движения спутника по орбите в часах  |
+|![](f/nav/orbit_orbit-nasa_molniya_oblique.png)|
+|Типичная орбита КА «Молния». Красными точками отмечено<br> время движения спутника по орбите в часах|
 
 **Особенности орбиты.**
 
@@ -416,8 +416,8 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md) ┊ [Апоцентр и перицентр](apopericentre.md) ┊ [Гравманёвр](gravass.md) ┊ [Кеплеровы элементы](keplerian.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Терминатор](terminator.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эффект Оберта](oberth_eff.md) |
-|**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md) ┊ [Business travel](business_travel.md) ┊ [Chief designers council](cocd.md) ┊ [CML](cml.md) ┊ [Competence](competence.md) ┊ [Confident](confident.md) ┊ [Consp.theory](consp_theory.md) ┊ [Control sys. (CS)](cs.md) ┊ [Coordinate system](coord_sys.md) ┊ [Curator](curator.md) ┊ [Designer’s supervision](des_spv.md) ┊ [E‑sig](esig.md) ┊ [Engineer](engineer.md) ┊ [Errand](errand.md) ┊ [Federal law](fed_law.md) ┊ [Federal TP](fed_tp.md) ┊ [Federal SP](fed_sp.md) ┊ [GNC](gnc.md) ┊ [Gravity assist](gravass.md) ┊ [Industrial archaeology](ind_arch.md) ┊ [Instruction](instruction.md) ┊ [Lean manuf.](lean_man.md) ┊ [Lifetime](lifetime.md) ┊ [Manager](manager.md) ┊ [Meeting](meeting.md) ┊ [MCC](mcc.md) ┊ [MIC](mic.md) ┊ [MML](mml.md) ┊ [MoU](mou.md) ┊ [Nav. & ballistics (NB)](nnb.md) ┊ [Nonprofit org.](nonprof_org.md) ┊ [NX](nx.md) ┊ [Oberth effect](oberth_eff.md) | ┊ [Org.structure](orgstruct.md) ┊ [Outcomes commission](outccom.md) ┊ [Patent](patent_res.md) ┊ [Peter prin.](peter_principle.md) ┊ [Plan](plan.md) ┊ [PMBok](pmbok.md) ┊ [Quorum](quorum.md) ┊ [R&D management](rnd_mgmt.md) ┊ [R&D support](rnd_support.md) ┊ [Recursion](recurs.md) ┊ [Schulze_method](schulze_method.md) ┊ [Sci'N'Tech activities](st_act.md) ┊ [Sci'N'Tech council](satc.md) ┊ [Single-window system](sw_sys.md) ┊ [Situ.leadership](situ_leadership.md) ┊ [Skunk works](skunk_works.md) ┊ [State arm. plan](plan_sa.md) ┊ [Swamp](swamp.md) ┊ [Teamcenter](teamcenter.md) ┊ [TRIZ](triz.md) ┊ [TRL](trl.md) ┊ [Veto](veto.md) ┊ [Workflow](workflow.md) ┊ [Workgroup](wg.md)|
+|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md) ┊ [Апоцентр и перицентр](apopericentre.md) ┊ [Гравманёвр](gravass.md) ┊ [Кеплеровы элементы](keplerian.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Терминатор](terminator.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эффект Оберта](oberth_eff.md)|
+|**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md) ┊ [Business travel](business_travel.md) ┊ [Chief designers council](cocd.md) ┊ [CML](cml.md) ┊ [Competence](competence.md) ┊ [Confident](confident.md) ┊ [Consp.theory](consp_theory.md) ┊ [Control sys. (CS)](cs.md) ┊ [Coordinate system](coord_sys.md) ┊ [Curator](curator.md) ┊ [Designer’s supervision](des_spv.md) ┊ [E‑sig](esig.md) ┊ [Engineer](engineer.md) ┊ [Errand](errand.md) ┊ [Federal law](fed_law.md) ┊ [Federal TP](fed_tp.md) ┊ [Federal SP](fed_sp.md) ┊ [GNC](gnc.md) ┊ [Gravity assist](gravass.md) ┊ [Industrial archaeology](ind_arch.md) ┊ [Instruction](instruction.md) ┊ [Lean manuf.](lean_man.md) ┊ [Lifetime](lifetime.md) ┊ [Manager](manager.md) ┊ [Meeting](meeting.md) ┊ [MCC](mcc.md) ┊ [MIC](mic.md) ┊ [MML](mml.md) ┊ [MoU](mou.md) ┊ [Nav. & ballistics (NB)](nnb.md) ┊ [Nonprofit org.](nonprof_org.md) ┊ [NX](nx.md) ┊ [Oberth effect](oberth_eff.md)| ┊ [Org.structure](orgstruct.md) ┊ [Outcomes commission](outccom.md) ┊ [Patent](patent_res.md) ┊ [Peter prin.](peter_principle.md) ┊ [Plan](plan.md) ┊ [PMBok](pmbok.md) ┊ [Quorum](quorum.md) ┊ [R&D management](rnd_mgmt.md) ┊ [R&D support](rnd_support.md) ┊ [Recursion](recurs.md) ┊ [Schulze_method](schulze_method.md) ┊ [Sci'N'Tech activities](st_act.md) ┊ [Sci'N'Tech council](satc.md) ┊ [Single-window system](sw_sys.md) ┊ [Situ.leadership](situ_leadership.md) ┊ [Skunk works](skunk_works.md) ┊ [State arm. plan](plan_sa.md) ┊ [Swamp](swamp.md) ┊ [Teamcenter](teamcenter.md) ┊ [TRIZ](triz.md) ┊ [TRL](trl.md) ┊ [Veto](veto.md) ┊ [Workflow](workflow.md) ┊ [Workgroup](wg.md)|
 
    1. Docs: …
    1. Notable interwikies — …

@@ -16,25 +16,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| $100 million or 19 312 kg of [gold](sc_price.md) |
-|Development| 1969 — 1973 |
-|Duration| 1 year 4 months 21 days |
-|Launch| November 3, 1973, 05:45:00 UTC, Rocket Atlas SLV-3D Centaur-D1A |
-|Operator| NASA / JPL |
-|Programme| Mariner |
-|Similar to| • Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • Past: [Mariner 2](mariner_2.md) |
-|Target| Measurement Mercury’s environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus |
-|[Type](sc.md)| Fly‑by spacecraft |
+|Cost|$100 million or 19 312 kg of [gold](sc_price.md)|
+|Development|1969 — 1973|
+|Duration|1 year 4 months 21 days|
+|Launch|November 3, 1973, 05:45:00 UTC, Rocket Atlas SLV-3D Centaur-D1A|
+|Operator|NASA / JPL|
+|Programme|Mariner|
+|Similar to|• Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • Past: [Mariner 2](mariner_2.md)|
+|Target|Measurement Mercury’s environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus|
+|[Type](sc.md)|Fly‑by spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| S‑band |
-|Composition| Orbiter |
-|Contractor| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1973-085A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-085A), SCN: 06919 |
-|Manufacturer| Jet Propulsion Laboratory |
-|Mass| 502.9 kg ([medium satellite](sc.md), [EVN‑072](venus.md))|
-|Orbit / Site| … |
-|Payload| 2 Telescopes, Infrared radiometer, Ultraviolet spectrometers, Plasma detectors, Charged particle telescopes, Magnetometers |
-|Power| 820 W (at Venus encounter) |
+|Comms|S‑band|
+|Composition|Orbiter|
+|Contractor|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1973-085A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-085A), SCN: 06919|
+|Manufacturer|Jet Propulsion Laboratory|
+|Mass|502.9 kg ([medium satellite](sc.md), [EVN‑072](venus.md))|
+|Orbit / Site|…|
+|Payload|2 Telescopes, Infrared radiometer, Ultraviolet spectrometers, Plasma detectors, Charged particle telescopes, Magnetometers|
+|Power|820 W (at Venus encounter)|
 
 Achieved targets & investigations:
 
@@ -48,24 +48,24 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑008||Atmosphere: nightglows.|  |D|||||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑016||Atmosphere: clouds, their structure.|  |D||F|||
-|EVN‑017||Atmosphere: structure.|  |D|||||
-|EVN‑028||Magnetosphere structure.|  |D||F|||
-|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
-|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑001||Atmosphere: preliminary model.||D|C|F|||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑008||Atmosphere: nightglows.||D|||||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑016||Atmosphere: clouds, their structure.||D||F|||
+|EVN‑017||Atmosphere: structure.||D|||||
+|EVN‑028||Magnetosphere structure.||D||F|||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
+|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.||D|||||
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑078|T|Atmosphere: radiography.||D|||||
+|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
 
 </small>
 
@@ -200,7 +200,7 @@ Thermal blankets & a sunshade were installed on the main body. After evaluating 
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. — 352 стр.: ил.

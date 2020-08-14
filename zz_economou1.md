@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Chicago Univ.](chicago_univ.md), US. Senior Scientist*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <tecon@tecon.uchicago.edu> |
-|B‑day, addr.| 1937.05.06 (Greece) / … |
-|| ![](f/contact/e/economou1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<tecon@tecon.uchicago.edu>|
+|B‑day, addr.|1937.05.06 (Greece) / …|
+||![](f/contact/e/economou1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** **Таназис (Том) Экономоу.** Понимает и говорит по‑русски.

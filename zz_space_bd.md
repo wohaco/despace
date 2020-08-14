@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/space_bd_logo1_thumb.png)](f/contact/s/space_bd_logo1.png)|*1 Chome-5-3 Nihonbashimuromachi, Chuo City, Tokyo 103-0022, Japan*|
 |:--|:--|
-|E‑mail| <d.takahashi@space-bd.com> |
-|Link| <https://space-bd.com/><br> <https://www.linkedin.com/company/space-bd-inc> |
-|Tel| +81-3-6264-7177, ℻: … |
+|E‑mail|<d.takahashi@space-bd.com>|
+|Link|<https://space-bd.com/><br> <https://www.linkedin.com/company/space-bd-inc>|
+|Tel|+81-3-6264-7177, ℻: …|
 
 **Space BD Inc.** delivers the optimum plan to transport things to Space for customers aiming to launch satellites or perform experiments in the space environment. Founded in 2017.
 

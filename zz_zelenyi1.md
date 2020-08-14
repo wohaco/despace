@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|
-|B‑day, addr.| 1948.08.23 / … |
-|E‑mail| <lzelenyi@iki.rssi.ru> |
-|i18n| Zeleny, Lev Matveevich |
-|Tel|*раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.jpg)](f/contact/z/zeleniy1_sign.png) |
+|B‑day, addr.|1948.08.23 / …|
+|E‑mail|<lzelenyi@iki.rssi.ru>|
+|i18n|Zeleny, Lev Matveevich|
+|Tel|*раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark>|
+||![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.jpg)](f/contact/z/zeleniy1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

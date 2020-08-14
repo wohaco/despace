@@ -20,29 +20,29 @@
 
 ||
 |:--|
-| [![](f/sensor/o/osd_pic1_thumb.jpg)](f/sensor/o/osd_pic1.jpg)  |
+|[![](f/sensor/o/osd_pic1_thumb.jpg)](f/sensor/o/osd_pic1.jpg)|
 
 <small>
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Диапазон °, ≥| ± 60º в плоскости XOZ, ± 31º в плоскости YOZ  |
-|Исполнение| Моноблок  |
-|Режим готовности| 60 с после подачи питания  |
-|Точность| при скорости до 0.1 °/с — 3”, при скорости до 1.0 °/с — 5”  |
-|Частота обновл., Гц| 4  |
+|Диапазон °, ≥|± 60º в плоскости XOZ, ± 31º в плоскости YOZ|
+|Исполнение|Моноблок|
+|Режим готовности|60 с после подачи питания|
+|Точность|при скорости до 0.1 °/с — 3”, при скорости до 1.0 °/с — 5”|
+|Частота обновл., Гц|4|
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|   |
-|Dimensions, L×W×H, mm| 120 × 112 × 73  |
-|Интерфейсы|  [МКО](mil_std_1553b.md)  |
-| Масса, не более  |0.65  |
-|[Voltage](voltage.md), V|   |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)|   |
-|Resource, h (y)| 20 000 (2.28)  |
-|[Lifetime](lifetime.md), h (y)| 131 400 (15)  |
-|[Тепловой режим](tcs.md), ℃|   |
-|Consumption, W| 2.5  |
+|[ВБР](srrq.md) за САС||
+|Dimensions, L×W×H, mm|120 × 112 × 73|
+|Интерфейсы|[МКО](mil_std_1553b.md)|
+|Масса, не более|0.65|
+|[Voltage](voltage.md), V||
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)|20 000 (2.28)|
+|[Lifetime](lifetime.md), h (y)|131 400 (15)|
+|[Temp. range](tcs.md), ℃||
+|Consumption, W|2.5|
 
 </small>
 

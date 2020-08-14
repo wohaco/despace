@@ -65,32 +65,32 @@ Flagship missions are not under the purview of any larger "Flagship Program", un
 |*Mission name*|*Mission start*|
 |:--|:--|
 |**`Astrophysics Division`**||
-| Compton Gamma‑ray Observatory | 1991 |
-| Hubble Space Telescope | 1990 |
-| Chandra X‑ray Observatory | 1999 |
-| James Webb Space Telescope | In development (2021 launch) |
-| Wide-Field Infrared Survey Telescope (WFIRST) | In formulation (mid-2020s launch) |
+|Compton Gamma‑ray Observatory|1991|
+|Hubble Space Telescope|1990|
+|Chandra X‑ray Observatory|1999|
+|James Webb Space Telescope|In development (2021 launch)|
+|Wide-Field Infrared Survey Telescope (WFIRST)|In formulation (mid-2020s launch)|
 |**`Earth Science Division`**||
-| Terra | 1999 |
-| Aqua | 2002 |
-| ICESat | 2003 |
-| Aura | 2004 |
-| Joint Polar Satellite System (JPSS) - a constellation | 2011 |
-| Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) | In development |
+|Terra|1999|
+|Aqua|2002|
+|ICESat|2003|
+|Aura|2004|
+|Joint Polar Satellite System (JPSS) - a constellation|2011|
+|Plankton, Aerosol, Cloud, ocean Ecosystem (PACE)|In development|
 |**`Heliophysics Division`**||
-| Solar Dynamics Observatory | 2010 |
-| Van Allen Probes | 2012 |
-| Magnetospheric Multiscale Mission (MMS) | 2015 |
-| Parker Solar Probe | 2018 |
+|Solar Dynamics Observatory|2010|
+|Van Allen Probes|2012|
+|Magnetospheric Multiscale Mission (MMS)|2015|
+|Parker Solar Probe|2018|
 |**`Planetary Science Division`**||
-| Viking 1, 2 | 1975 |
-| Voyager 1, 2 | 1977 |
-| Galileo | 1989 |
-| Cassini | 1999 |
-| Mars Science Laboratory/Curiosity rover | 2011 |
-| Mars 2020 rover | In development (2020 launch) |
-| Europa Clipper | In development (2022-25 launch) |
-| Europa Lander | Proposed (2024 launch) |
+|Viking 1, 2|1975|
+|Voyager 1, 2|1977|
+|Galileo|1989|
+|Cassini|1999|
+|Mars Science Laboratory/Curiosity rover|2011|
+|Mars 2020 rover|In development (2020 launch)|
+|Europa Clipper|In development (2022-25 launch)|
+|Europa Lander|Proposed (2024 launch)|
 
 
 <p style="page-break-after:always"> </p>
@@ -100,7 +100,7 @@ Flagship missions are not under the purview of any larger "Flagship Program", un
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md) ┊ [Невозвратные затраты](sunk_cost.md) ┊ [Номинал](nominal.md) ┊ [Оценка стоимости работ на НПОЛ](zz_lav.md) ┊ [Секвестр](budget_seq.md) ┊ [Стоимость аппарата в граммах](sc_price.md) |
+|**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md) ┊ [Невозвратные затраты](sunk_cost.md) ┊ [Номинал](nominal.md) ┊ [Оценка стоимости работ на НПОЛ](zz_lav.md) ┊ [Секвестр](budget_seq.md) ┊ [Стоимость аппарата в граммах](sc_price.md)|
 
    1. Docs: …
    1. Notable interwikies — …

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ESTEC](zz_estec.md), RU.*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <dmitri.titov@esa.int> |
-|i18n| Титов, Дмитрий |
-|Tel| *work:* +31(71)565-37-70; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/t/titov1_photo_thumb.jpg)](f/contact/t/titov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<dmitri.titov@esa.int>|
+|i18n|Титов, Дмитрий|
+|Tel|*work:* +31(71)565-37-70; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/t/titov1_photo_thumb.jpg)](f/contact/t/titov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -3,9 +3,9 @@
 
 |[![](f/contact/k/kai_logo1_thumb.png)](f/contact/k/kai_logo1.png)|*78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <http://www.koreaaero.com/><br> <https://en.wikipedia.org/wiki/Korea_Aerospace_Industries> |
-|Tel| +82-55-851-1000, ℻: +82-55-851-1004 |
+|E‑mail|<mark>noemail</mark>|
+|Link|<http://www.koreaaero.com/><br> <https://en.wikipedia.org/wiki/Korea_Aerospace_Industries><br> <https://www.linkedin.com/company/korea-aerospace-industries/>|
+|Tel|+82-55-851-1000, ℻: +82-55-851-1004|
 
 **Korea Aerospace Industries** (Korean: 한국항공우주산업, Hanja: 韓國航空宇宙産業) (**KAI**) is a South Korean aerospace & defense company. KAI has developed various aerospace products, including the Korea Space [Launch Vehicle](lv.md) (KSLV)-II & various [satellites](sc.md). Both the company’s headquarters & several key manufacturing facilities are located in Sacheon, South Gyeongsang Province.
 

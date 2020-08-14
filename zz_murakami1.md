@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <murashin@gfd-dennou.org> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| <mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<murashin@gfd-dennou.org>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

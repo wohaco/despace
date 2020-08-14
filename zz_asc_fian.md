@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/asc_lebedev_logo1_thumb.jpg)](f/contact/a/asc_lebedev_logo1.png)|*Россия, 117997, Москва, ГСП‑7, Профсоюзная, 84/32. (м. Калужская) — фактический.<br> Россия, 119991, Москва, В‑333, Ленинский пр., 53 — юридический.*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <http://asc-lebedev.ru/> |
-|Tel| <mark>noworkphone</mark>, ℻: +7(495)333-23-78 |
+|E‑mail|<mark>noemail</mark>|
+|Link|<http://asc-lebedev.ru/>|
+|Tel|<mark>noworkphone</mark>, ℻: +7(495)333-23-78|
 
 **Астрокосмический центр Физического института Академии Наук (АКЦ ФИАН, Astro Space Center of PN Lebedev Physics Institute, ASC LPI)** — научный центр при [Физическом Институте им. П.Н. Лебедева](zz_fian.md) Российской академии наук. Основные направления работ:
 

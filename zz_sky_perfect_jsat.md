@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/sky_perfect_jsat_logo1_thumb.png)](f/contact/s/sky_perfect_jsat_logo1.png)|*Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.skyperfectjsat.space/><br> <https://www.jsat.net/en/><br> <https://en.wikipedia.org/wiki/SKY_Perfect_JSAT><br> <https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.skyperfectjsat.space/><br> <https://www.jsat.net/en/><br> <https://en.wikipedia.org/wiki/SKY_Perfect_JSAT><br> <https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 The **SKY Perfect JSAT Group** is a Japanese corporate group that claims to be Asia's largest [satellite](sc.md) communication & multi‑channel pay TV company. It owns the SKY PerfecTV! satellite broadcasting service & the SKY Perfect Well Think content studio, among other businesses.
 

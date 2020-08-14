@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/sputnix_logo1_thumb.jpg)](f/contact/s/sputnix_logo1.png)|*Россия, 121205, Москва, Технопарк Сколково, Большой бульвар, д. 42, стр. 1, оф.358, 359*|
 |:--|:--|
-|E‑mail| <contact@sputnix.ru> |
-|Link| <http://www.sputnix.ru/><br> <https://vk.com/sputnixru><br> <http://www.facebook.com/sputnixru><br> <https://twitter.com/SPUTNIX_ltd><br> <http://instagram.com/sputnixru><br> <https://ru.wikipedia.org/wiki/Спутникс> |
-|Tel| +7(499)322-43-15, ℻: … |
+|E‑mail|<contact@sputnix.ru>|
+|Link|<http://www.sputnix.ru/><br> <https://vk.com/sputnixru><br> <http://www.facebook.com/sputnixru><br> <https://twitter.com/SPUTNIX_ltd><br> <http://instagram.com/sputnixru><br> <https://ru.wikipedia.org/wiki/Спутникс>|
+|Tel|+7(499)322-43-15, ℻: …|
 
 **ООО «Спутниковые инновационные космические системы» (СПУТНИКС)** — российская компания, разрабатывающая и создающая конструкцию и оборудования для малых космических аппаратов и <глоссарий:кубсат|кубсатов>.
 

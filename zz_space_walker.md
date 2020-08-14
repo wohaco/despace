@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/spacewalker_logo1_thumb.jpg)](f/contact/s/spacewalker_logo1.png)|*〒105-0004 3-chome 16-12 Shinbashi, Minato-ku, Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <yasuda@space-walker.co.jp> |
-|Link| <https://space-walker.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/spacewalker/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<yasuda@space-walker.co.jp>|
+|Link|<https://space-walker.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/spacewalker/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **SPACE WALKER Inc. (SW)** is a Japanese university start‑up aiming at manned & unmanned [suborbital spaceplanes](sc.md). Management team has various backgrounds & experience. Founded 2017.12.25.
 

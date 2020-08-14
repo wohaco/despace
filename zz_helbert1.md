@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[DLR](zz_dlr.md), Institute for Planetary Research, DE. Professor*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +49(30)670-55-319; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/h/helbert1_photo_thumb.jpg)](f/contact/h/helbert1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +49(30)670-55-319; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||[![](f/contact/h/helbert1_photo_thumb.jpg)](f/contact/h/helbert1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

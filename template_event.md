@@ -8,18 +8,18 @@
 
 |**||
 |:--|:--|
-|Date |  |
-|Venue |  |
-|Host Org. |  |
-|Co‑host Org. |  |
-|Supported by |  |
-|Accepted by |  |
-|Content |  |
-|Focus |  |
-|Reg. Fee |  |
-|Attendees |  |
-|Related Mtg. |  |
-|Contact |  |
+|Date||
+|Venue||
+|Host Org.||
+|Co‑host Org.||
+|Supported by||
+|Accepted by||
+|Content||
+|Focus||
+|Reg. Fee||
+|Attendees||
+|Related Mtg.||
+|Contact||
 
 **Science Organizing committee:**
 
@@ -47,10 +47,10 @@
 
 |*Страна*|*Участники*|*Презентации*|*Постеры*|
 |:--|:--|:--|:--|
-| США | … <small>(… [NASA](zz_nasa.md)/JPL, … университеты)</small> | … | … |
-| Япония | … <small>(… JAXA, … университеты)</small> | … | … |
-| Европа | … | … | … |
-| Россия | … <small>(… НПОЛ, … университеты)</small> | … | … |
+|США|… <small>(… [NASA](zz_nasa.md)/JPL, … университеты)</small>|…|…|
+|Япония|… <small>(… JAXA, … университеты)</small>|…|…|
+|Европа|…|…|…|
+|Россия|… <small>(… НПОЛ, … университеты)</small>|…|…|
 |**Итого**|**…**|**…**|**…**|
 
 
@@ -62,5 +62,5 @@
 |°|*Имя*|*Орг.*|*Название*|
 |:--|:--|:--|:--|
 |—|**<small>`Презентации`</small>**|—|—|
-|<small>****</small>| <small></small> |  <small></small> | <small></small> |
+|<small>****</small>|<small></small>|<small></small>|<small></small>|
 

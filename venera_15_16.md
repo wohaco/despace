@@ -17,25 +17,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) |
-|Development| 1977-1983 |
-|Duration| **Venera 15:** Overall: 1 year, 1 month, 7 days; At Venus: 9 months<br> **Venera 16:** Overall: 1 year, 1 month; At Venus: 9 months |
-|Launch| **Venera 15:** June 2, 1983, 02:38:39 UTC, Rocket: Proton-K/D-1<br> **Venera 16:** June 7, 1983, 02:32 UTC, Rocket: Proton-K/D-1 |
-|Operator| Soviet Academy of Sciences |
-|Programme| Venera programme |
-|Similar to| • Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> • Current: … <br> • Past: [Pioneer Venus 1](pioneer_venus_1.md) |
-|Target| Mapping the Northern hemisphere of Venus in high resolution |
-|[Type](sc.md)| Orbiter spacecraft |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|1977-1983|
+|Duration|**Venera 15:** Overall: 1 year, 1 month, 7 days; At Venus: 9 months<br> **Venera 16:** Overall: 1 year, 1 month; At Venus: 9 months|
+|Launch|**Venera 15:** June 2, 1983, 02:38:39 UTC, Rocket: Proton-K/D-1<br> **Venera 16:** June 7, 1983, 02:32 UTC, Rocket: Proton-K/D-1|
+|Operator|Soviet Academy of Sciences|
+|Programme|Venera programme|
+|Similar to|• Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> • Current: … <br> • Past: [Pioneer Venus 1](pioneer_venus_1.md)|
+|Target|Mapping the Northern hemisphere of Venus in high resolution|
+|[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| 2.6 m HGA, C‑band |
-|Composition| Orbiter |
-|Contractor| … |
-|[ID](spaceid.md)| **Venera 15:** NSSDC ID (COSPAR ID): [1983-053A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-053A), SCN: [14104 ⎆](http://www.n2yo.com/satellite/?s=14104)<br> **Venera 16:** NSSDC ID (COSPAR ID): [1983-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-054A), SCN: [14107 ⎆](http://www.n2yo.com/satellite/?s=14107) |
-|Manufacturer| NPO Lavochkin |
+|Comms|2.6 m HGA, C‑band|
+|Composition|Orbiter|
+|Contractor|…|
+|[ID](spaceid.md)|**Venera 15:** NSSDC ID (COSPAR ID): [1983-053A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-053A), SCN: [14104 ⎆](http://www.n2yo.com/satellite/?s=14104)<br> **Venera 16:** NSSDC ID (COSPAR ID): [1983-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-054A), SCN: [14107 ⎆](http://www.n2yo.com/satellite/?s=14107)|
+|Manufacturer|NPO Lavochkin|
 |Mass|**Venera 15** Dry: 2 807 kg ([large satellite](sc.md), [EVN‑073](venus.md))<br> **Venera 16** Dry: 2 780 kg ([large satellite](sc.md), [EVN‑073](venus.md))|
-|Orbit / Site| Cytherocentric ~ 1 000 × ~ 65 000 km; i = 87.5°; T = 24 h |
-|Payload| Synthetic Aperture Radar, Radar Altimeter, Infrared Fourier Spectrometer, magnetometer, detectors of cosmic rays and solar plasma |
-|Power| … |
+|Orbit / Site|Cytherocentric ~ 1 000 × ~ 65 000 km; i = 87.5°; T = 24 h|
+|Payload|Synthetic Aperture Radar, Radar Altimeter, Infrared Fourier Spectrometer, magnetometer, detectors of cosmic rays and solar plasma|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -49,22 +49,22 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model|  |C|D|F|||
-|EVN‑002||Surface: preliminary map.|  |D|C||||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
-|EVN‑022||Surface: map, precise.|  |D|||||
-|EVN‑025||Surface: structure.|  ||C||||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
-|EVN‑049||Nature & characteristics of the thermal tides|  ||D||||
-|EVN‑020||Inner structure of the planet.|  |D|||||
-|EVN‑053||Traces of life in the atmosphere & on the surface.|  ||C||||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑085|T|Surface: tessera investigations, remote|  |D||F|||
-|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
+|EVN‑001||Atmosphere: preliminary model||C|D|F|||
+|EVN‑002||Surface: preliminary map.||D|C||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑018||Atmosphere: clouds, their chemistry.||D||F|||
+|EVN‑022||Surface: map, precise.||D|||||
+|EVN‑025||Surface: structure.|||C||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
+|EVN‑049||Nature & characteristics of the thermal tides|||D||||
+|EVN‑020||Inner structure of the planet.||D|||||
+|EVN‑053||Traces of life in the atmosphere & on the surface.|||C||||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑078|T|Atmosphere: radiography.||D|||||
+|EVN‑085|T|Surface: tessera investigations, remote||D||F|||
+|EVN‑093|T|Atmosphere/surface imaging|||D|F|||
 
 </small>
 
@@ -136,16 +136,16 @@ The radar and radio altimeter systems used the same components, except for the a
 
 |*Parameter*|*Value*|
 |:--|:--|
-| Dimensions of the antenna SAR | 1.4 x 6.0 m |
-| Mass of SAR system | 298.6 kg |
-| SAR deviation from the longitudinal axis of the spacecraft | 10° |
-| Radar wavelength | 8 cm |
-| The strip of the captured territory for 1 passage of periapsis | 120 x 7 500 km |
-| Spatial resolution | 0.9 — 2.5 km |
-| The duration of one cycle of the SAR | 0.3 seconds |
-| The time of one irradiation of the surface | 3.9 milliseconds |
-| Number of repetitions/cycle | 20 |
-| Phase shifts | 127 |
+|Dimensions of the antenna SAR|1.4 x 6.0 m|
+|Mass of SAR system|298.6 kg|
+|SAR deviation from the longitudinal axis of the spacecraft|10°|
+|Radar wavelength|8 cm|
+|The strip of the captured territory for 1 passage of periapsis|120 x 7 500 km|
+|Spatial resolution|0.9 — 2.5 km|
+|The duration of one cycle of the SAR|0.3 seconds|
+|The time of one irradiation of the surface|3.9 milliseconds|
+|Number of repetitions/cycle|20|
+|Phase shifts|127|
 
    - Radar Altimeter **Omega**
 
@@ -153,15 +153,15 @@ During the height measurement, the antenna transmitted a code sequence, and afte
 
 |*Parameter*|*Value*|
 |:--|:--|
-| Antenna diameter | 1 m |
-| Mass | 22.95 kg |
-| The coverage area of the beam in the low resolution mode | 70 x 40 km |
-| The coverage area of the beam in the high resolution mode | 40 x 10 km |
-| Coverage error | ~1 km |
-| The accuracy of determining the height | 50 m |
-| The duration of the sent pulse | 1.54 microseconds |
-| Number of pulses/cycle | 31 |
-| Recording time of the reflected signal | 0.67 milliseconds |
+|Antenna diameter|1 m|
+|Mass|22.95 kg|
+|The coverage area of the beam in the low resolution mode|70 x 40 km|
+|The coverage area of the beam in the high resolution mode|40 x 10 km|
+|Coverage error|~1 km|
+|The accuracy of determining the height|50 m|
+|The duration of the sent pulse|1.54 microseconds|
+|Number of pulses/cycle|31|
+|Recording time of the reflected signal|0.67 milliseconds|
 
    - Thermal Infrared Fourier Spectrometer
 
@@ -169,9 +169,9 @@ The spectrometer provided a higher spectral resolution than the infrared radiome
 
 |*Parameter*|*Value*|
 |:--|:--|
-| Mass | 35 kg |
-| Spectral range | 6 — 35 μm |
-| Field of vision | 100 x 100 km |
+|Mass|35 kg|
+|Spectral range|6 — 35 μm|
+|Field of vision|100 x 100 km|
 
    - Cosmic‑ray Detectors (6 sensors)
    - Solar-Plasma Detectors
@@ -235,7 +235,7 @@ General view of the spacecraft Venera 15 and Venera 16 with radar equipment 
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.

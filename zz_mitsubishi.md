@@ -3,9 +3,9 @@
 
 |[![](f/contact/m/mitsubishi_logo1_thumb.png)](f/contact/m/mitsubishi_logo1.png)|*Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <http://www.mitsubishielectric.com/bu/space/><br> <https://www.mhi.com/products/space><br> <https://www.linkedin.com/company/mitsubishielectric/><br> <https://www.linkedin.com/company/mitsubishi-heavy-industries/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<http://www.mitsubishielectric.com/bu/space/><br> <https://www.mhi.com/products/space><br> <https://www.linkedin.com/company/mitsubishielectric/><br> <https://www.linkedin.com/company/mitsubishi-heavy-industries/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Mitsubishi Electric** is a pioneer of space technology in Japan since the 1960s, & is committed to international space development & satellite construction. Its **Space Division** has participated in a wide range of high‑performance payloads & bus components in multiple world satellite programs. **Mitsubishi Electric** as Japan’s only manufacturer with integrated capabilities covering the entire satellite development process from development & design to assembly & testing, Mitsubishi Electric has played a key role in dozens of satellite programs for a variety of government agencies & communications providers both inside & outside Japan.
 

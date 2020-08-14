@@ -11,13 +11,13 @@
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-|Duration| ≥ 90 days (~117 days in the best case)|
-|Program| [Venera-D](venera_d_open_ru.md) |
-|Goal| Returning compositional and physical information about near‑surface winds |
-|Developer| NASA |
-|Mass| 10 kg |
-|Orbit / Place| Surface |
-|Payload| METEO, MEMS chemical sensor |
+|Duration|≥ 90 days (~117 days in the best case)|
+|Program|[Venera-D](venera_d_open_ru.md)|
+|Goal|Returning compositional and physical information about near‑surface winds|
+|Developer|NASA|
+|Mass|10 kg|
+|Orbit / Place|Surface|
+|Payload|METEO, MEMS chemical sensor|
 
 ***Targets and investigations:***
 
@@ -31,23 +31,23 @@
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑007||Atmosphere: connection between the topography & the atmo circulation.|  |D|||||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑019||Atmosphere: energetic balance.|  |D|||||
-|EVN‑025||Surface: structure.|  ||C||||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
-|EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
-|EVN‑058|T|Exploration: directed seismoexperiment.|  |D||F|||
-|EVN‑069|T|Prolonged surface‑spacecraft functioning.|  ||C||||
-|EVN‑089||Measuring the planetary gravitational field.|  |D||F|||
-|EVN‑094|T|High temperature electronics.|  |D|C|F|||
-|EVN‑095||Climate: history & causes of changes.|  |D|||||
+|EVN‑006|T|Exploration: from surface.|||C||||
+|EVN‑007||Atmosphere: connection between the topography & the atmo circulation.||D|||||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑019||Atmosphere: energetic balance.||D|||||
+|EVN‑025||Surface: structure.|||C||||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.||D|||||
+|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
+|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
+|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|||C||||
+|EVN‑058|T|Exploration: directed seismoexperiment.||D||F|||
+|EVN‑069|T|Prolonged surface‑spacecraft functioning.|||C||||
+|EVN‑089||Measuring the planetary gravitational field.||D||F|||
+|EVN‑094|T|High temperature electronics.||D|C|F|||
+|EVN‑095||Climate: history & causes of changes.||D|||||
 
 </small>
 
@@ -113,9 +113,9 @@ The key goals of LLISSE and its long-duration measurements are to increase our k
 
 |*Objective Title*|*Science Objectives*|*Measurements*|*Priority*|
 |:--|:--|:--|:--|
-| L2b. Near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md)) | Long-term study of possible variation of near‑surface atmospheric composition | Measure abundances of predefined components | High |
-| L3b. Near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑031](venus.md)) | Study of long-term characteristics of near‑surface dynamics, waves, thermal tides, and atmosphere-surface interaction | Long-term measurements of near‑surface temperature, pressure, wind speed, and direction; incident and reflected radiation | High |
-| L4b. Solar fluxes on the surface ([EVN‑013](venus.md), [EVN‑019](venus.md), [EVN‑080](venus.md)) | Surface albedo. Study of factors that influence solar illumination (cloud opacity, local time, local relief, etc.) | Measurements of incident and reflected solar radiation over 60 days | Medium |
+|L2b. Near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md))|Long-term study of possible variation of near‑surface atmospheric composition|Measure abundances of predefined components|High|
+|L3b. Near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑031](venus.md))|Study of long-term characteristics of near‑surface dynamics, waves, thermal tides, and atmosphere-surface interaction|Long-term measurements of near‑surface temperature, pressure, wind speed, and direction; incident and reflected radiation|High|
+|L4b. Solar fluxes on the surface ([EVN‑013](venus.md), [EVN‑019](venus.md), [EVN‑080](venus.md))|Surface albedo. Study of factors that influence solar illumination (cloud opacity, local time, local relief, etc.)|Measurements of incident and reflected solar radiation over 60 days|Medium|
 
 </small>
 
@@ -134,8 +134,8 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 
 |*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, MB/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| ☑ | METEO | Temperature, pressures, radiance, and wind speed and direction sensors | Fits on 20 mm station | <0.2 | — | — | High | 4 to 5 | 5 | TRL driven by radiance sensing |
-| ☑ | Microelectromechanical systems chemical sensor | Detect and measure concentration of preselected element set | Fits on 20 mm station | <0.2 | — | — | High | 5 | 3 |  |
+|☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 mm station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
+|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 mm station|<0.2|—|—|High|5|3||
 
 </small>
 
@@ -153,7 +153,7 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Venera-D Phase II Final Report](Venera-DPhaseIIFinalReport.pdf)

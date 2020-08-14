@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*Hokkaido Information Univ., JP. Department of Earth and Planetary Sciences. Professor*|
 |:--|:--|
-|B‑day, addr.| 1953.11.02 / … |
-|E‑mail| <watanabe.shi@do-johodai.ac.jp>, <shw@ep.sci.hokudai.ac.jp> |
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +81(11)385-44-11 ext216; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/w/watanabe1_photo_thumb.jpg)](f/contact/w/watanabe1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|B‑day, addr.|1953.11.02 / …|
+|E‑mail|<watanabe.shi@do-johodai.ac.jp>, <shw@ep.sci.hokudai.ac.jp>|
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +81(11)385-44-11 ext216; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/w/watanabe1_photo_thumb.jpg)](f/contact/w/watanabe1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD
    - **Exp.:** …

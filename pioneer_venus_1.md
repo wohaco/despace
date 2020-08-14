@@ -16,25 +16,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| US $125 million or 20 126 kg of [gold](sc_price.md) |
-|Development| … |
-|Duration| 14 years 4 months 18 days |
-|Launch| May 20, 1978, 13:13:00 UTC, Rocket Atlas SLV-3D Centaur-D1AR |
-|Operator| NASA / ARC |
-|Programme| Pioneer Venus project |
-|Similar to| • Proposed: … <br> • Current: [Magellan](magellan.md)<br> • Past: [Venera-9,10](venera_9_10.md), [Mariner 10](mariner_10.md) |
-|Target| Mapping the surface of Venus, studying the atmosphere (including observation of the rotation of the atmosphere) |
-|[Type](sc.md)| Orbiter spacecraft |
+|Cost|US $125 million or 20 126 kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|14 years 4 months 18 days|
+|Launch|May 20, 1978, 13:13:00 UTC, Rocket Atlas SLV-3D Centaur-D1AR|
+|Operator|NASA / ARC|
+|Programme|Pioneer Venus project|
+|Similar to|• Proposed: … <br> • Current: [Magellan](magellan.md)<br> • Past: [Venera-9,10](venera_9_10.md), [Mariner 10](mariner_10.md)|
+|Target|Mapping the surface of Venus, studying the atmosphere (including observation of the rotation of the atmosphere)|
+|[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| High‑gain antenna; S‑band, X‑band |
-|Composition| Orbiter |
-|Contractor| United Launch Alliance |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1978-051A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-051A), SCN: [10911 ⎆](http://www.n2yo.com/satellite/?s=10911) |
-|Manufacturer| Hughes |
-|Mass| Dry: 360 kg ([minisatellite](sc.md), [EVN‑070](venus.md)) |
-|Orbit / Site| Cytherocentric; 142 ‑ 253 × 66 900 km; T = 24 h; i = 105 ° |
-|Payload| Radio science, Photo polarimeter, Radar, Infrared radiometer, Spectrometers, Analzer plasma, Magnetometer, Measure the electric fields of Venus, Electron temperature gauge, Ion charge meter, Gamma‑ray burst detector |
-|Power| 312 W |
+|Comms|High‑gain antenna; S‑band, X‑band|
+|Composition|Orbiter|
+|Contractor|United Launch Alliance|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1978-051A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-051A), SCN: [10911 ⎆](http://www.n2yo.com/satellite/?s=10911)|
+|Manufacturer|Hughes|
+|Mass|Dry: 360 kg ([minisatellite](sc.md), [EVN‑070](venus.md))|
+|Orbit / Site|Cytherocentric; 142 ‑ 253 × 66 900 km; T = 24 h; i = 105 °|
+|Payload|Radio science, Photo polarimeter, Radar, Infrared radiometer, Spectrometers, Analzer plasma, Magnetometer, Measure the electric fields of Venus, Electron temperature gauge, Ion charge meter, Gamma‑ray burst detector|
+|Power|312 W|
 
 Achieved targets & investigations:
 
@@ -48,23 +48,23 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑002||Surface: preliminary map.|  |D|C||||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑012||Atmosphere: lightnings.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑017||Atmosphere: structure.|  |D|||||
-|EVN‑025||Surface: structure.|  ||C||||
-|EVN‑028||Magnetosphere structure.|  |D||F|||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
-|EVN‑085|T|Surface: tessera investigations, remote|  ||D|F|||
-|EVN‑089||Measuring the planetary gravitational field.|  |D||F|||
-|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
-|EVN‑096||Atmosphere: ionosphere.|  |D||F|||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑002||Surface: preliminary map.||D|C||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑012||Atmosphere: lightnings.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑017||Atmosphere: structure.||D|||||
+|EVN‑025||Surface: structure.|||C||||
+|EVN‑028||Magnetosphere structure.||D||F|||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.||D|||||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
+|EVN‑085|T|Surface: tessera investigations, remote|||D|F|||
+|EVN‑089||Measuring the planetary gravitational field.||D||F|||
+|EVN‑093|T|Atmosphere/surface imaging|||D|F|||
+|EVN‑096||Atmosphere: ionosphere.||D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
 
 </small>
 
@@ -135,18 +135,18 @@ The Pioneer Venus Orbiter carried 17 experiments:
 
 |*Name*|*Complete designation*|*Type*|*Manufacturer*|*Responsible scientist*|*Mass*|*Electrical consumption*|
 |:--|:--|:--|:--|:--|:--|:--|
-| **OCPP** | Orbiter Cloud Photopolarimeter	 | Photo polarimeter | GISS | J. Hansen | 5 kg  | 5.4 W |
-| **ORAD** | Orbiter Radar Mapper Instrument | Radar | MIT | G. Pettengill | 9 kg  | 18 W |
-| **OIR** | Orbiter Infrared Radiometer | Infrared radiometer | JPL | F. Taylor | 5.9 kg  | 5.2 W |
-| **OUVS** | Orbiter Ultraviolet Spectrometer | Ultraviolet spectrometer | LASP | A. Stewart | 3.1 kg | 1.7 W |
-| **ONMS** | Orbiter Neutral Mass Spectrometer | Neutral mass spectrometer | GSFC | H. Neimann | 3.8 kg | 12 W |
-| **OPA** | Orbiter Plasma Analyzer | Analzer plasma | ARC | J. Wolfe | 3.9 kg | 5 W |
-| **OMAG** | Orbiter Magnetometer | Magnetometer | UCLA | C. Russell | 2 kg | 2.2 W |
-| **OEFD** | Orbiter Electric Field Detector | Measure the electric fields of Venus | TRW | F. Scarf | 0.8 kg | 0.7 W |
-| **OETP** | Orbiter Electron Temperature Probe | Electron temperature gauge | GSFC | L. Brace | 2.2 kg | 4.8 W|
-| **OIMS** | Orbiter Ion Mass Spectrometer | Ion mass spectrometer | GSFC | H. Taylor | 3 kg | 1.5 W |
-| **ORPA** | Orbiter Retarding Potential Analyzer | Ion charge meter | LPARL | W. Knudsen | 2.8 kg | 2.4 W |
-| **OGBD** | Orbiter Gamma‑ray Burst Detector | Gamma‑ray burst detector | LASL | W. Evans | 2.8 kg | 1.3 W |
+|**OCPP**|Orbiter Cloud Photopolarimeter	|Photo polarimeter|GISS|J. Hansen|5 kg|5.4 W|
+|**ORAD**|Orbiter Radar Mapper Instrument|Radar|MIT|G. Pettengill|9 kg|18 W|
+|**OIR**|Orbiter Infrared Radiometer|Infrared radiometer|JPL|F. Taylor|5.9 kg|5.2 W|
+|**OUVS**|Orbiter Ultraviolet Spectrometer|Ultraviolet spectrometer|LASP|A. Stewart|3.1 kg|1.7 W|
+|**ONMS**|Orbiter Neutral Mass Spectrometer|Neutral mass spectrometer|GSFC|H. Neimann|3.8 kg|12 W|
+|**OPA**|Orbiter Plasma Analyzer|Analzer plasma|ARC|J. Wolfe|3.9 kg|5 W|
+|**OMAG**|Orbiter Magnetometer|Magnetometer|UCLA|C. Russell|2 kg|2.2 W|
+|**OEFD**|Orbiter Electric Field Detector|Measure the electric fields of Venus|TRW|F. Scarf|0.8 kg|0.7 W|
+|**OETP**|Orbiter Electron Temperature Probe|Electron temperature gauge|GSFC|L. Brace|2.2 kg|4.8 W|
+|**OIMS**|Orbiter Ion Mass Spectrometer|Ion mass spectrometer|GSFC|H. Taylor|3 kg|1.5 W|
+|**ORPA**|Orbiter Retarding Potential Analyzer|Ion charge meter|LPARL|W. Knudsen|2.8 kg|2.4 W|
+|**OGBD**|Orbiter Gamma‑ray Burst Detector|Gamma‑ray burst detector|LASL|W. Evans|2.8 kg|1.3 W|
 
 
 
@@ -200,7 +200,7 @@ Pioneer Venus Orbiter was based on the HS-507 bus. The spacecraft was a flat cyl
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.

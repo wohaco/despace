@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/ale_logo1_thumb.jpg)](f/contact/a/ale_logo1.png)|*Sumitomo Fudosan Shibadaimon-NichomeBldg. 2F 2-11-8 Shibadaimon, Minato-ku, Tokyo 105-0012, Japan*|
 |:--|:--|
-|E‑mail| <info@star-ale.com> |
-|Link| <http://star-ale.com/en><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/ale/><br> <https://www.linkedin.com/company/ale-co--ltd-/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<info@star-ale.com>|
+|Link|<http://star-ale.com/en><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/ale/><br> <https://www.linkedin.com/company/ale-co--ltd-/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **ALE Co., Ltd** provides small [satellites](sc.md) R&D, & man‑made shooting star. Founded in 2011.
 

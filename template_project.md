@@ -4,26 +4,26 @@
 |*Параметр*|*[Значение](si.md)*|
 |:--|:--|
 ||**`Миссия`**|
-|Длительность| … |
-|Оператор| … |
-|Программа| … |
-|Разработка| … |
-|Старт| … |
-|Схожие<br> миссии| • Предлагаемые: ….<br> • Разрабатываемые: ….<br> • Разработанные: …. |
-|[Тип](sc.md)| … |
-|Цель| … |
-|Цена| ₽ ┊ или … кг [золота](sc_price.md) в ценах … г |
+|Длительность|…|
+|Оператор|…|
+|Программа|…|
+|Разработка|…|
+|Старт|…|
+|Схожие<br> миссии|• Предлагаемые: ….<br> • Разрабатываемые: ….<br> • Разработанные: ….|
+|[Тип](sc.md)|…|
+|Цель|…|
+|Цена|₽ ┊ или … кг [золота](sc_price.md) в ценах … г|
 ||**`Космический аппарат`**|
-|Подрядчик| … |
-|Разработчик| … |
-|Состав| … |
+|Подрядчик|…|
+|Разработчик|…|
+|Состав|…|
 ||**`…`**|
-|Масса| … ([…спутник](sc.md)) |
-|[Номер](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
-|Орбита / Место| … |
-|ПН| … |
-|Связь| … |
-|Эл.мощность| … |
+|Масса|… ([…спутник](sc.md))|
+|[Номер](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
+|Орбита / Место|…|
+|ПН|…|
+|Связь|…|
+|Эл.мощность|…|
 
 Задачи и исследования:
 
@@ -31,7 +31,7 @@
 
 |*EVN‑XXX*|*T*|*EN*|*RU*|
 |:--|:--|:--|:--|
-| … || … | … |
+|…||…|…|
 
 </small>
 
@@ -40,27 +40,27 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) in … prices |
-|[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| … ‑ … |
-|Duration| … |
-|Launch| …, …, … |
-|Operator| … |
-|Programme| … |
-|Similar to| • Proposed: …<br> • Current: …<br> • Past: … |
-|Target| … |
-|[Type](sc.md)| … |
+|Cost|… or … kg of [gold](sc_price.md) in … prices|
+|[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
+|Development|… ‑ …|
+|Duration|…|
+|Launch|…, …, …|
+|Operator|…|
+|Programme|…|
+|Similar to|• Proposed: …<br> • Current: …<br> • Past: …|
+|Target|…|
+|[Type](sc.md)|…|
 |**Spacecraft:**|• • •|
-|Composition| … |
-|Contractor| … |
-|Manufacturer| … |
+|Composition|…|
+|Contractor|…|
+|Manufacturer|…|
 ||**`…`**|
-|Comms| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
-|Mass| … ([…satellite](sc.md)) |
-|Orbit / Site| … |
-|Power| … |
-|Payload| … |
+|Comms|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
+|Mass|… ([…satellite](sc.md))|
+|Orbit / Site|…|
+|Power|…|
+|Payload|…|
 
 Achieved targets & investigations:
 
@@ -68,7 +68,7 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*RU*|
 |:--|:--|:--|:--|
-| … || … | … |
+|…||…|…|
 
 </small>
 

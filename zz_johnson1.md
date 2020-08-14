@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Astrochemistry Laboratory. Research Space Scientist*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +1(301)286-39-19; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <natasha.m.johnson@nasa.gov> |
-|B‑day, addr.| <mark>nodate</mark> 1974 ? / … |
-|| [![](f/contact/j/johnson1_photo_thumb.jpg)](f/contact/j/johnson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +1(301)286-39-19; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<natasha.m.johnson@nasa.gov>|
+|B‑day, addr.|<mark>nodate</mark> 1974 ? / …|
+||[![](f/contact/j/johnson1_photo_thumb.jpg)](f/contact/j/johnson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Earth & Planetary Sciences, WUSTL, 2002. AM, Earth & Planetary Sciences, WUSTL, 1998. BA, cum laude, Math/Geology/Comp. Sci./Physics, University of Arizona, Tucson, 1996.
    - **Exp.:** Research Areas: Gas‑grain catalytic reactions, Geochemical interaction of planetary surfaces and/or atmospheres, Production of organics in the pre‑solar nebula, Instrument development/fabrication.

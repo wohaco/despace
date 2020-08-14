@@ -16,25 +16,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| US $ 1.4 billion or 114 155 kg of [gold](sc_price.md) in 1977 prices |
-|Development| 1977 ‑ 1986 |
-|Duration| **Planned:** 8 y 1 m 19 d, **In orbit:** 7 y 9 m 13 d, **Final:** 13 y 11 m 3 d |
-|Launch| October 18, 1989, 16:53:40 UTC, Rocket: Space Shuttle Atlantis STS-34 / IUS |
-|Operator| NASA |
-|Programme| Galileo |
-|Similar to| • Proposed: [Cassini-Guygens](cassini.md) <br> • Current: … <br> • Past: … |
-|Target| Research of Jupiter’s system |
-|[Type](sc.md)| Orbiter spacecraft; Atmospheric Spacecraft |
+|Cost|US $ 1.4 billion or 114 155 kg of [gold](sc_price.md) in 1977 prices|
+|Development|1977 ‑ 1986|
+|Duration|**Planned:** 8 y 1 m 19 d, **In orbit:** 7 y 9 m 13 d, **Final:** 13 y 11 m 3 d|
+|Launch|October 18, 1989, 16:53:40 UTC, Rocket: Space Shuttle Atlantis STS-34 / IUS|
+|Operator|NASA|
+|Programme|Galileo|
+|Similar to|• Proposed: [Cassini-Guygens](cassini.md) <br> • Current: … <br> • Past: …|
+|Target|Research of Jupiter’s system|
+|[Type](sc.md)|Orbiter spacecraft; Atmospheric Spacecraft|
 |**Spacecraft:**|• • •|
-|Composition| Orbiter; Lander |
-|Contractor| … |
-|Manufacturer| JPL; Messerschmitt-Bölkow-Blohm; General Electric; Hughes Aircraft Company |
-|Comms| 4.8 m high‑gain antenna (during the flight did not open) |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): 1989-084B, SCN: 20298 |
-|Mass| **Dry mass**<br> Orbiter: 1 884 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)); Lander: 339 kg ([Minisatellite](спутник.md), [EVN‑070](venus.md)) |
-|Orbit / Site| Kronocentric |
-|Payload| Orbiter: Solid‑state imaging camera, near‑infrared mapping spectrometer, ultlaviolet spectrometer, photopolarimeter radiometer, energetic particles detector, plasma investigation, plasma wave subsystem, dust detector, heavy ion counter |
-|Power| Orbiter: 570 W; Lander: 730 W/h |
+|Composition|Orbiter; Lander|
+|Contractor|…|
+|Manufacturer|JPL; Messerschmitt-Bölkow-Blohm; General Electric; Hughes Aircraft Company|
+|Comms|4.8 m high‑gain antenna (during the flight did not open)|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): 1989-084B, SCN: 20298|
+|Mass|**Dry mass**<br> Orbiter: 1 884 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)); Lander: 339 kg ([Minisatellite](спутник.md), [EVN‑070](venus.md))|
+|Orbit / Site|Kronocentric|
+|Payload|Orbiter: Solid‑state imaging camera, near‑infrared mapping spectrometer, ultlaviolet spectrometer, photopolarimeter radiometer, energetic particles detector, plasma investigation, plasma wave subsystem, dust detector, heavy ion counter|
+|Power|Orbiter: 570 W; Lander: 730 W/h|
 
 Targets & investigations:
 
@@ -48,9 +48,9 @@ Targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑093|T|Atmosphere/surface imaging|||D|F|||
 
 </small>
 
@@ -92,13 +92,13 @@ After completing 35 orbits around Jupiter throughout a nearly eight-year mission
    - Jupiter’s ring system is formed by dust kicked up as interplanetary meteoroids smash into the planet’s four small inner moons. The outermost ring is actually two rings, one embedded with the other. There is probably a separate ring along Amalthea’s orbit, as well.
    - The Galileo spacecraft identified the global structure and dynamics of a giant planet’s magnetosphere.
 
-|![](f/project/g/galileo/animation_of_galileo_trajectory.gif)|Pink — Galileo <br><br> Inner dim green — Venus <br><br> Blue — Earth <br><br> Turquoise — 243 Ida <br><br> Outer bright green — Jupiter <br><br> Yellow ellipse — 951 Gaspra <br><br> Yellow dot — Sun |
+|![](f/project/g/galileo/animation_of_galileo_trajectory.gif)|Pink — Galileo <br><br> Inner dim green — Venus <br><br> Blue — Earth <br><br> Turquoise — 243 Ida <br><br> Outer bright green — Jupiter <br><br> Yellow ellipse — 951 Gaspra <br><br> Yellow dot — Sun|
 |:--|:--|
 |***Animation of ’s trajectory from October 19, 1989, to September 30, 2003***||
 
 <br><br>
 
-|![](f/project/g/galileo/animation_of_galileo_trajectory_around_jupiter.gif)|Pink — Galileo <br><br> Green — Jupiter <br><br> Red — Io <br><br> Blue — Europa <br><br> Yellow — Ganymede <br><br> Turquoise — Callisto |
+|![](f/project/g/galileo/animation_of_galileo_trajectory_around_jupiter.gif)|Pink — Galileo <br><br> Green — Jupiter <br><br> Red — Io <br><br> Blue — Europa <br><br> Yellow — Ganymede <br><br> Turquoise — Callisto|
 |:--|:--|
 |***Animation of ’s trajectory around Jupiter from August 1, 1995, to September 30, 2003***||
 
@@ -106,7 +106,7 @@ On December 11, 2013, NASA reported, based on results from the Galileo mission, 
 
 **Images of Jupiter’s moons taken by Galileo**
 
-|![](f/project/g/galileo/io.jpg)|![](f/project/g/galileo/europa.jpg) |![](f/project/g/galileo/callisto.jpg) |![](f/project/g/galileo/ganymede.jpg) |
+|![](f/project/g/galileo/io.jpg)|![](f/project/g/galileo/europa.jpg)|![](f/project/g/galileo/callisto.jpg)|![](f/project/g/galileo/ganymede.jpg)|
 |:--|:--|:--|:--|
 |**Io**|**Europa**|**Callisto**|**Ganymede**|
 
@@ -188,16 +188,16 @@ The despun section’s instruments included the camera system; the near infrared
 
 |*Instrument*|*Mass*|*Power input*|
 |:--|:--|:--|
-| **SSI** | 29.7 kg | 15 W |
-| **NIMS** | 18 kg | 12 W |
-| **UVS/EUV** | 9.7 kg | 5.9 W |
-| **PPR** | 5 kg | 5 W |
-| **DDS** | 4.2 kg | 5.4 W |
-| **EPD** | 10.5 kg | 10.1 W |
-| **HIC** | 8 kg | 2.8 W |
-| **MAG** | 7 kg | 3.9 W |
-| **PLS** | 13.2 kg | 10.7 W |
-| **PWS** | 7.1 kg | 9.8 W |
+|**SSI**|29.7 kg|15 W|
+|**NIMS**|18 kg|12 W|
+|**UVS/EUV**|9.7 kg|5.9 W|
+|**PPR**|5 kg|5 W|
+|**DDS**|4.2 kg|5.4 W|
+|**EPD**|10.5 kg|10.1 W|
+|**HIC**|8 kg|2.8 W|
+|**MAG**|7 kg|3.9 W|
+|**PLS**|13.2 kg|10.7 W|
+|**PWS**|7.1 kg|9.8 W|
 
 
 ### Probe
@@ -229,16 +229,16 @@ At launch, the Orbiter and Lander together had a mass of 2 562 kg and stood 
 |*Parameter*|*Value*|
 |:--|:--|
 |**`Orbiter`**||
-| Launch mass | 2 223 kg |
-| Science instruments mass | 118 kg |
-| Propellant mass | 925 kg |
-| High | 5.3 m |
-| Diameter of the antenna | 4.8 kg |
-| Power | 570 W |
+|Launch mass|2 223 kg|
+|Science instruments mass|118 kg|
+|Propellant mass|925 kg|
+|High|5.3 m|
+|Diameter of the antenna|4.8 kg|
+|Power|570 W|
 |**`Lander`**||
-| Mass | 339 kg |
-| High | 0.91 m |
-| Diameter | 1.27 m |
+|Mass|339 kg|
+|High|0.91 m|
+|Diameter|1.27 m|
 
 **Command and Data Handling (CDH)**
 
@@ -289,7 +289,7 @@ The RTGs produced about 570 W at launch. The power output initially decreased 
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

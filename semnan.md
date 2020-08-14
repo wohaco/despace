@@ -11,14 +11,14 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (2008 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Safir](safir.md) (Iran) ┊ [Simorgh](simorgh.md) (Iran)  |
-| Operator  | Iranian Space Agency |
-| Location  | 35°13′19″N 53°53′42″E<br> the Semnan province, Iran  |
-| Distance  | 4 300 km — to the equator;<br> 2 700 km — to [NPO Lavochkin](zz_lav.md);<br> 18 800 km — to [JPL](zz_jpl.md);<br> 250 km — to Iranian Space Agency  |
-| Launch pad  | 1  |
-|| [![](f/spaceport/semnan/pic1_thumb.jpg)](f/spaceport/semnan/pic1.jpg)  [![](f/spaceport/semnan/map1_thumb.jpg)](f/spaceport/semnan/map1.png)   [![](f/spaceport/semnan/map2_thumb.jpg)](f/spaceport/semnan/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (2008 ‑ …)|
+|[Launch vehicles](lv.md)|[Safir](safir.md) (Iran) ┊ [Simorgh](simorgh.md) (Iran)|
+|Operator|Iranian Space Agency|
+|Location|35°13′19″N 53°53′42″E<br> the Semnan province, Iran|
+|Distance|4 300 km — to the equator;<br> 2 700 km — to [NPO Lavochkin](zz_lav.md);<br> 18 800 km — to [JPL](zz_jpl.md);<br> 250 km — to Iranian Space Agency|
+|Launch pad|1|
+||[![](f/spaceport/semnan/pic1_thumb.jpg)](f/spaceport/semnan/pic1.jpg)  [![](f/spaceport/semnan/map1_thumb.jpg)](f/spaceport/semnan/map1.png)   [![](f/spaceport/semnan/map2_thumb.jpg)](f/spaceport/semnan/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

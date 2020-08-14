@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[CNES](zz_cnes.md), FR.*|
 |:--|:--|
-|i18n| Бламон, Жак |
-|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| 1926.10.13 Paris, FR / … |
-|| [![](f/contact/b/blamont1_photo_thumb.jpg)](f/contact/b/blamont1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|Бламон, Жак|
+|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|1926.10.13 Paris, FR / …|
+||[![](f/contact/b/blamont1_photo_thumb.jpg)](f/contact/b/blamont1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** [CV](f/contact/b/blamont1_cv.pdf)
    - **Exp.:** …

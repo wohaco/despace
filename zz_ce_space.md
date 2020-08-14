@@ -3,9 +3,9 @@
 
 |[![](f/contact/c/canon_elec_logo1_thumb.jpg)](f/contact/c/canon_elec_logo1.png)|*Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://en.canon-elec.co.jp/space/><br> <https://www.linkedin.com/company/canon-electronics-inc-/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://en.canon-elec.co.jp/space/><br> <https://www.linkedin.com/company/canon-electronics-inc-/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Canon Electronic Space (CE Space)** is a Japanese manufacturer of a [micro satellites & their components](sc.md).
 

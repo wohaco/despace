@@ -18,26 +18,26 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| US$1.5 billion or 36 780 kg of [gold](sc_price.md) |
-|Development| 2008-2018 |
-|Duration| Planned: 6 years, 321 days |
-|Launch| August 12, 2018, 07:31 UTC, Rocket Delta IV Heavy / Star-48BV |
-|Operator| NASA · Applied Physics Laboratory |
-|Programme| Parker Solar Probe |
-|Similar to| • Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • Past: [MESSENGER](messnger.md) |
-|Target| Trace the flow of energy that heats the corona and accelerates the solar wind.<br>Determine the structure and dynamics of the magnetic fields at the sources of solar wind.<br>Determine what mechanisms accelerate and transport energetic particles. |
-|[Type](sc.md)| Fly‑by spacecraft; orbiter spacecraft |
+|Cost|US$1.5 billion or 36 780 kg of [gold](sc_price.md)|
+|Development|2008-2018|
+|Duration|Planned: 6 years, 321 days|
+|Launch|August 12, 2018, 07:31 UTC, Rocket Delta IV Heavy / Star-48BV|
+|Operator|NASA · Applied Physics Laboratory|
+|Programme|Parker Solar Probe|
+|Similar to|• Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • Past: [MESSENGER](messnger.md)|
+|Target|Trace the flow of energy that heats the corona and accelerates the solar wind.<br>Determine the structure and dynamics of the magnetic fields at the sources of solar wind.<br>Determine what mechanisms accelerate and transport energetic particles.|
+|[Type](sc.md)|Fly‑by spacecraft; orbiter spacecraft|
 |**Spacecraft:**|• • •|
-|Composition| Probe |
-|Contractor| United Launch Alliance |
-|Manufacturer| Applied Physics Laboratory |
+|Composition|Probe|
+|Contractor|United Launch Alliance|
+|Manufacturer|Applied Physics Laboratory|
 ||**`…`**|
-|Comms| Ka band, X‑band |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): 2018-065A, SCN: 43592 |
-|Mass| Dry: 555 kg ([Medium satellite](спутник.md), [EVN‑072](evn_072.md)) |
-|Orbit / Site| Heliocentric; 0.046 × 0.73 AU; T = 88 days |
-|Payload| Electromagnetic Fields Investigation, Integrated Science Investigation of the Sun, Wide-field Imager for Solar Probe, Solar Wind Electrons Alphas and Protons, Heliospheric Origins with Solar Probe Plus |
-|Power| 343 W |
+|Comms|Ka band, X‑band|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): 2018-065A, SCN: 43592|
+|Mass|Dry: 555 kg ([Medium satellite](спутник.md), [EVN‑072](evn_072.md))|
+|Orbit / Site|Heliocentric; 0.046 × 0.73 AU; T = 88 days|
+|Payload|Electromagnetic Fields Investigation, Integrated Science Investigation of the Sun, Wide-field Imager for Solar Probe, Solar Wind Electrons Alphas and Protons, Heliospheric Origins with Solar Probe Plus|
+|Power|343 W|
 
 Targets & investigations:
 
@@ -51,7 +51,7 @@ Targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.||D||F|||
 
 </small>
 
@@ -135,7 +135,7 @@ The primary power for the mission is a dual system of solar panels (photovoltaic
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

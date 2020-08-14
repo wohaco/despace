@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/snet_logo1_thumb.png)](f/contact/s/snet_logo1.png)|*13F, Ark Mori Building, 1-12-32, Akasaka, Minato-ku, Tokyo, 107-6013, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.snet.co.jp/> |
-|Tel| +81-03-5561-1075, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.snet.co.jp/>|
+|Tel|+81-03-5561-1075, ℻: …|
 
 **Satellite Network, Inc.** is a Japan’s first type Ⅱ telecommunications carrire utilizing private telecommunications satellites, aimed for Earth sats comms, Earth observation, ground segment, drones. Founded 1987.08.18.
 

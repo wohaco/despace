@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mechanical Engineer*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> 1987 (Toronto, CA) / Los Angeles, US |
-|E‑mail| <jason.rabinovitch@jpl.nasa.gov> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(626)487-49-17; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/r/rabinovitch1_photo_thumb.jpg)](f/contact/r/rabinovitch1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|<mark>nodate</mark> 1987 (Toronto, CA) / Los Angeles, US|
+|E‑mail|<jason.rabinovitch@jpl.nasa.gov>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(626)487-49-17; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/r/rabinovitch1_photo_thumb.jpg)](f/contact/r/rabinovitch1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Aeronautics, Caltech, 2014. MS, Mécanique des Fluides Fondements & Applications, École Polytechnique Paris, 2011. MS, Aerospace Engineering, Caltech, 2009. BS, Mechanical Engineering, Yale Univ., 2008.
    - **Exp.:** Skills & Expertise: Fluid Mechanics, Computational Fluid Dynamics, Numerical Modeling, CFD Simulation, Computational, Fluid Mechanics, Vortex, Multiphase Flow, Hypervelocity Flows. ┊ In 2020 took part of the team developing fat-production IMUs for COVID-19.

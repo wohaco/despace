@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[UPES](zz_upes.md), IN, Department of Aerospace Engineering*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <adhithiyan.n@gmail.com> |
-|B‑day, addr.| 1997.05.17 (Ченнаи, Индия) / Дехрадун, Индия |
-|| ![](f/contact/n/neduncheran1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<adhithiyan.n@gmail.com>|
+|B‑day, addr.|1997.05.17 (Ченнаи, Индия) / Дехрадун, Индия|
+||![](f/contact/n/neduncheran1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** B.Tech Aerospace Engineering with specialization in Avionics.
    - **Exp.:** …

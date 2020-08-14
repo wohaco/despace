@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Earth & Space Sciences Division. Senior Research Scientist*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)393-45-84, ℻: +1(818)393-44-45; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <rosaly.m.lopes-gautier@jpl.nasa.gov> |
-|B‑day, addr.| 1957.01.08 (Rio de Janeiro, Brazilia) / … |
-|| [![](f/contact/l/lopes1_photo_thumb.jpg)](f/contact/l/lopes1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(818)393-45-84, ℻: +1(818)393-44-45; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<rosaly.m.lopes-gautier@jpl.nasa.gov>|
+|B‑day, addr.|1957.01.08 (Rio de Janeiro, Brazilia) / …|
+||[![](f/contact/l/lopes1_photo_thumb.jpg)](f/contact/l/lopes1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Розали Лопес. [CV](f/contact/l/lopes1_cv.pdf). PhD, Planetary Science, London Univ., 1986. B.Sc., Astronomy, London Univ., 1978.
    - **Exp.:** Planetary geologist, volcanologist, an author of numerous scientific papers & several books, as well as a proponent of education. Her major research interests are in planetary & terrestrial surface processes with an emphasis on volcanology. Use of remote sensing data collected from SC to further develop theoretical models of surface processes, in close collaboration with instrument investigations. Recent research efforts’ve been directed towards: Analysis of Io’s infrared spectra obtained by Galileo’s Near-Infrared Mapping Spectrometer & New Horizons Data & Analysis of geologic features on Titan (Cassini Radar Mapper), with particular emphasis on cryovolcanic features.

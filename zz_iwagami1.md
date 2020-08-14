@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*Tokyo Univ., JP. Graduate School of Science, Department of Earth and Planetary Science. Associate professor*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| <mark>nodate</mark> 1955 ? / … |
-|| <mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|<mark>nodate</mark> 1955 ? / …|
+||<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD
    - **Exp.:** Tokyo Univ., Research Associate, 1981 ‑ 1990. Japan Society of Promoting Science, Researcher, 1980 ‑ 1981.

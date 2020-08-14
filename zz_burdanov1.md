@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ЦНИИмаш](zz_tsniimash.md), RU. Центр системного проектирования, Отдел 1322. Главный специалист отдела проектно‑поисковых исследований в обеспечение разработки программ, космических комплексов и приборного ряда для фундаментальных космических исследований*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)513-40-81; *mobile:* +7(926)273-80-51 |
-|E‑mail| <burdanovav@tsniimash.ru> |
-|B‑day, addr.| 1980.11.03 / … |
-|| ![](f/contact/b/burdanov1_photo.jpg) [![](f/contact/b/burdanov1_sign_thumb.jpg)](f/contact/b/burdanov1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)513-40-81; *mobile:* +7(926)273-80-51|
+|E‑mail|<burdanovav@tsniimash.ru>|
+|B‑day, addr.|1980.11.03 / …|
+||![](f/contact/b/burdanov1_photo.jpg) [![](f/contact/b/burdanov1_sign_thumb.jpg)](f/contact/b/burdanov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

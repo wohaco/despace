@@ -18,25 +18,25 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … of [gold](sc_price.md) |
-|Development| 1983 ‑ 1989 |
-|Duration| 4 years 5 months 8 days 13 hours 18 minutes |
-|Launch| May 4, 1989, 18:47:00 UTC, Rocket: Space Shuttle Atlantis STS-30 / IUS |
-|Operator| NASA / JPL |
-|Programme| Magellan |
-|Similar to| • Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md) |
-|Target| Radar mapping of Venus |
-|[Type](sc.md)| Orbiter spacecraft |
+|Cost|… or … of [gold](sc_price.md)|
+|Development|1983 ‑ 1989|
+|Duration|4 years 5 months 8 days 13 hours 18 minutes|
+|Launch|May 4, 1989, 18:47:00 UTC, Rocket: Space Shuttle Atlantis STS-30 / IUS|
+|Operator|NASA / JPL|
+|Programme|Magellan|
+|Similar to|• Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md)|
+|Target|Radar mapping of Venus|
+|[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| 3.7 m HGA (Voyager) and a medium‑gain antenna (Mariner 9)<br> S‑band — receiving data<br> X‑band — transmission |
-|Composition| Orbiter |
-|Contractor| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1989-033B ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-033B), SCN: [19969 ⎆](http://www.n2yo.com/satellite/?s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?s=19969) |
-|Manufacturer| Martin Marietta<br> Hughes Aircraft |
-|Mass| Dry 1 035 kg ([large satellite](sc.md)) |
-|Orbit / Site| The initial orbit (after the corrections): Cytherocentric 297 x 8 463 km, T = 3.25 h, i = 85.5° |
-|Payload| Radar System |
-|Power| 1 200 W |
+|Comms|3.7 m HGA (Voyager) and a medium‑gain antenna (Mariner 9)<br> S‑band — receiving data<br> X‑band — transmission|
+|Composition|Orbiter|
+|Contractor|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1989-033B ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-033B), SCN: [19969 ⎆](http://www.n2yo.com/satellite/?s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?s=19969)|
+|Manufacturer|Martin Marietta<br> Hughes Aircraft|
+|Mass|Dry 1 035 kg ([large satellite](sc.md))|
+|Orbit / Site|The initial orbit (after the corrections): Cytherocentric 297 x 8 463 km, T = 3.25 h, i = 85.5°|
+|Payload|Radar System|
+|Power|1 200 W|
 
 Achieved targets & investigations:
 
@@ -50,26 +50,26 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑002||Surface: preliminary map|  |C|D||||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑020||Inner structure of the planet.|  |D|||||
-|EVN‑021||Surface: map, 3D.|  |D|C||||
-|EVN‑022||Surface: map, precise.|  |D|||||
-|EVN‑025||Surface: structure.|  ||C||||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
-|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
-|EVN‑045||Surface: nature of the tessera|  ||D||||
-|EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
-|EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
-|EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑079||Precise duration of the Venusian day.|  |D|||||
-|EVN‑085|T|Surface: tessera investigations, remote|  ||D|F|||
-|EVN‑089||Measuring the planetary gravitational field.|  |D||F|||
-|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
+|EVN‑002||Surface: preliminary map||C|D||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑020||Inner structure of the planet.||D|||||
+|EVN‑021||Surface: map, 3D.||D|C||||
+|EVN‑022||Surface: map, precise.||D|||||
+|EVN‑025||Surface: structure.|||C||||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
+|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|||C||||
+|EVN‑045||Surface: nature of the tessera|||D||||
+|EVN‑046||Surface: causes of the changes during the last billion years.||D|C|F|||
+|EVN‑052||Role of water (fluids) in planetary geology.||D|C|F|||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑076||Surface: volcanoes, their presence.||D||F|||
+|EVN‑078|T|Atmosphere: radiography.||D|||||
+|EVN‑079||Precise duration of the Venusian day.||D|||||
+|EVN‑085|T|Surface: tessera investigations, remote|||D|F|||
+|EVN‑089||Measuring the planetary gravitational field.||D||F|||
+|EVN‑093|T|Atmosphere/surface imaging|||D|F|||
 
 </small>
 
@@ -201,7 +201,7 @@ Radar System (RDRS)
 
 |*Instrument*|*Description*|
 |:--|:--|
-| ![](f/project/m/magellan/rls.png) | The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> • In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 cm microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> • In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> • In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL. |
+|![](f/project/m/magellan/rls.png)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> • In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 cm microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> • In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> • In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
 
 In addition to the radar data, Magellan collected several other types of scientific measurements. These included detailed measurements of the Venus gravitational field ([EVN‑089](venus.md)), measurements of the atmospheric density, and radio occultation data on the atmospheric profile.
 
@@ -215,11 +215,11 @@ To save costs, most of the Magellan probe was made up of spare parts from variou
 
 |*Parameter*|*Value*|
 |:--|:--|
-| Launch mass | 3 600 kg |
-| Dry mass | 1 035 kg |
-| The altitude of the spacecraft | 6.4 m |
-| The altitude of the spacecraft (without the solid‑fuel propulsion) | 4.6 m |
-| The outer diameter of the spacecraft (the diameter of the antenna) | 3.6 m |
+|Launch mass|3 600 kg|
+|Dry mass|1 035 kg|
+|The altitude of the spacecraft|6.4 m|
+|The altitude of the spacecraft (without the solid‑fuel propulsion)|4.6 m|
+|The outer diameter of the spacecraft (the diameter of the antenna)|3.6 m|
 
 **Attitude control and propulsion**
 
@@ -227,9 +227,9 @@ The spacecraft’s attitude control (orientation) was designed to be three‑axi
 
 |*Parameter of Star 48B*|*Value*|
 |:--|:--|
-| Mass of solid propellant propulsion system | 2 145 kg |
-| Mass of solid propellant | 2 014 kg |
-| Thrust  SRM | 89 000 N |
+|Mass of solid propellant propulsion system|2 145 kg|
+|Mass of solid propellant|2 014 kg|
+|Thrust  SRM|89 000 N|
 
 The actual propulsion system design consisted of a total of 24 monopropellant hydrazine thrusters.
 
@@ -274,7 +274,7 @@ The computing system on the spacecraft, partially modified equipment from the Ga
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.

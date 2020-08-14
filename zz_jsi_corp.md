@@ -3,9 +3,9 @@
 
 |[![](f/contact/j/jsi_corp_logo1_thumb.jpg)](f/contact/j/jsi_corp_logo1.png)|*KYOBASHI EDOGRAND 20th Floor 2-2-1, Kyobashi, Chuo-Ku, Tokyo 104-0031, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.jsicorp.jp/> |
-|Tel| +81-3-5204-2711, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.jsicorp.jp/>|
+|Tel|+81-3-5204-2711, ℻: …|
 
 **Japan Space Imaging Corporation (JSI)** is a pioneer of satellite remote sensing commercial services in Japan. Major Shareholders: Hitachi and Mitsubishi. Founded 1998.05.11.
 

@@ -12,30 +12,30 @@
    - **Разработчик и изготовитель:** [НПЦ Полюс](zz_polus_tomsk.md)
    - **Разработан** в 2005 году Активное использование. Покупное изделие. (по состоянию на 21.06.2017)
 
-|  |  |  Система координат УДМ‑15  |
+|||Система координат УДМ‑15|
 |:--|:--|:--|
-| [![ ❐](f/iu/a/agat_25_udm-15_pic002.png)](f/iu/a/agat_25_udm-15_pic002.png)  | [![](f/iu/a/agat_25_udm-15_pic003_thumb.jpg)](f/iu/a/agat_25_udm-15_pic003.jpg)  | [![](f/iu/a/agat_25_udm-15_pic001_thumb.jpg)](f/iu/a/agat_25_udm-15_pic001.png)  |
+|[![ ❐](f/iu/a/agat_25_udm-15_pic002.png)](f/iu/a/agat_25_udm-15_pic002.png)|[![](f/iu/a/agat_25_udm-15_pic003_thumb.jpg)](f/iu/a/agat_25_udm-15_pic003.jpg)|[![](f/iu/a/agat_25_udm-15_pic001_thumb.jpg)](f/iu/a/agat_25_udm-15_pic001.png)|
 
 <small>
 
 |*Характеристика*|*[Значение](si.md) <small>()</small>*|
 |:--|:--|
-|[УГТ](trl.md)|    |
-|Исполнение| Моноблок  |
-|Кинет. момент, Н·м·с|± 15  |
-|Режим готовности| 1 с с момента подачи напряжения  |
+|[TRL](trl.md)||
+|Исполнение|Моноблок|
+|Кинет. момент, Н·м·с|± 15|
+|Режим готовности|1 с с момента подачи напряжения|
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС| 0.98  |
-| Габариты, ⌀ × в, мм  |80 × 315  |
-|Интерфейсы|   |
-|Mass, kg| 3.7  |
-|[Voltage](voltage.md), V| 27 — штатное;<br> от 24 до 28 — допустимое  |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)|     |
-|Resource, h (y)| … ();<br> 2 500 циклов вкл/выкл  |
-|[Lifetime](lifetime.md), h (y)| … ();<br> 1 000 при выходе кинетического момента за допустимые нормы  |
-|[Тепловой режим](tcs.md), ℃|   |
-|Consumption, W| от –37.5 до +72.5 Вт (для 2 работающих УДМ)  |
+|[ВБР](srrq.md) за САС|0.98|
+|Габариты, ⌀ × в, мм|80 × 315|
+|Интерфейсы||
+|Mass, kg|3.7|
+|[Voltage](voltage.md), V|27 — штатное;<br> от 24 до 28 — допустимое|
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)|… ();<br> 2 500 циклов вкл/выкл|
+|[Lifetime](lifetime.md), h (y)|… ();<br> 1 000 при выходе кинетического момента за допустимые нормы|
+|[Temp. range](tcs.md), ℃||
+|Consumption, W|от –37.5 до +72.5 Вт (для 2 работающих УДМ)|
 
 </small>
 
@@ -63,7 +63,7 @@
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [3D-модель ❐](f/iu/a/agat_25_udm-15-0.15_3d_2017.7z)

@@ -12,31 +12,31 @@
 
 ||
 |:--|
-| [![](f/sensor/m/mss_sm_pic1_thumb.jpg)](f/sensor/m/mss_sm_pic1.jpg)  |
+|[![](f/sensor/m/mss_sm_pic1_thumb.jpg)](f/sensor/m/mss_sm_pic1.jpg)|
 
 <small>
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(MSS-01)</small>*|*[Значение](si.md) <small>(MSS-02)</small>*|
 |:--|:--|:--|
-|[УГТ](trl.md)| 9  |   |
-|Диапазон °, ≥| 48, круг  | 120, круг  |
-|Исполнение|   |   |
-|Режим готовности|   |   |
-|Точность| 1°  |   |
-|Частота обновл., Гц|   |   |
+|[TRL](trl.md)|9||
+|Диапазон °, ≥|48, круг|120, круг|
+|Исполнение|||
+|Режим готовности|||
+|Точность|1°||
+|Частота обновл., Гц|||
 |**Etc:**|• • •|• • •|
-|[ВБР](srrq.md) за САС|   |   |
-|Dimensions, L×W×H, mm| 34.9 × 19.1 × 24.3  | 34.9 × 19.1 × 10.3  |
-|Интерфейсы| Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire  | Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire  |
-|Mass, kg| 0.036  | 0.026  |
-|[Voltage](voltage.md), V|   |   |
-|Overload, g| 14.1 gRMS вибрации, 60 g ударные  | 14.1 gRMS вибрации, 60 g ударные  |
-|[Rad.resist](ion_rad.md), Gy (rad)| —  | —  |
-|Resource, h (y)|   |   |
-|[Lifetime](lifetime.md), h (y)|   |   |
-|[Тепловой режим](tcs.md), ℃| −40 ‑ +93  | −40 ‑ +93  |
-|Consumption, W| 0  | 0  |
-|| [![](f/sensor/m/mss_sm_pic2_thumb.jpg)](f/sensor/m/mss_sm_pic2.jpg) | [![](f/sensor/m/mss_sm_pic3_thumb.jpg)](f/sensor/m/mss_sm_pic3.jpg) |
+|[ВБР](srrq.md) за САС|||
+|Dimensions, L×W×H, mm|34.9 × 19.1 × 24.3|34.9 × 19.1 × 10.3|
+|Интерфейсы|Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire|Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire|
+|Mass, kg|0.036|0.026|
+|[Voltage](voltage.md), V|||
+|Overload, g|14.1 gRMS вибрации, 60 g ударные|14.1 gRMS вибрации, 60 g ударные|
+|[Rad.resist](ion_rad.md), Gy (rad)|—|—|
+|Resource, h (y)|||
+|[Lifetime](lifetime.md), h (y)|||
+|[Temp. range](tcs.md), ℃|−40 ‑ +93|−40 ‑ +93|
+|Consumption, W|0|0|
+||[![](f/sensor/m/mss_sm_pic2_thumb.jpg)](f/sensor/m/mss_sm_pic2.jpg)|[![](f/sensor/m/mss_sm_pic3_thumb.jpg)](f/sensor/m/mss_sm_pic3.jpg)|
 
 </small>
 

@@ -17,13 +17,13 @@ It’s one of the 4 terrestrial planets in the Solar System — it’s a rocky E
 
 |*Venus*|*Map*|*Map*|*Map*|
 |:--|:--|:--|:--|
-| [![](f/aob/venus/venus_real_color-1974_thumb.jpg)](f/aob/venus/venus_real_color-1974.jpg) | [![](f/aob/venus/venus_map1_thumb.jpg)](f/aob/venus/venus_map1.png) | [![](f/aob/venus/venus_map2_thumb.jpg)](f/aob/venus/venus_map2.jpg) | [![](f/aob/venus/venus_map3_thumb.jpg)](f/aob/venus/venus_map3.png) |
+|[![](f/aob/venus/venus_real_color-1974_thumb.jpg)](f/aob/venus/venus_real_color-1974.jpg)|[![](f/aob/venus/venus_map1_thumb.jpg)](f/aob/venus/venus_map1.png)|[![](f/aob/venus/venus_map2_thumb.jpg)](f/aob/venus/venus_map2.jpg)|[![](f/aob/venus/venus_map3_thumb.jpg)](f/aob/venus/venus_map3.png)|
 
 And a bit of animation.
 
 |*The topographic<br> Globe of Venus*|*The Radar<br> Globe of Venus*|*Orbit*|
 |:--|:--|:--|
-| ![](f/aob/venus/radar_globe_of_venus.gif) | ![](f/aob/venus/topographic_globe_of_venus.gif) | ![](f/aob/venus/venusorbitsolarsystem.gif) |
+|![](f/aob/venus/radar_globe_of_venus.gif)|![](f/aob/venus/topographic_globe_of_venus.gif)|![](f/aob/venus/venusorbitsolarsystem.gif)|
 
 
 
@@ -32,53 +32,53 @@ And a bit of animation.
 ## Description & Characteristics
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Breaking to the orbit| no more than 10 ‑ 15 min |
-|Distance from Earth| 38 ‑ 261 mega km |
-|Flight from Earth| 3.5 ‑ 6.1 months w/ [LPS](ps.md) (109 ‑ 144 days) |
-|Signal from Earth| 2.1 ‑ 14.5 min |
-|Velocity from Earth| 3.5 ‑ 5 km/s |
+|Breaking to the orbit|no more than 10 ‑ 15 min|
+|Distance from Earth|38 ‑ 261 mega km|
+|Flight from Earth|3.5 ‑ 6.1 months w/ [LPS](ps.md) (109 ‑ 144 days)|
+|Signal from Earth|2.1 ‑ 14.5 min|
+|Velocity from Earth|3.5 ‑ 5 km/s|
 |**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Aphelion);<br> [Pericentre](apopericentre.md) (Perihelion)| 108 942 109 km (0.72823128 au);<br> 107 476 259 km (0.71843270 [au](si.md)) |
-|[Argument of periapsis](keplerian.md) (ω)| 54.85229° |
-|Day/year| 58.5 / … Earth’s |
-|[Eccentricity](keplerian.md) (e)| 0.0068 |
-|[Hill sphere](hill_sphere.md)| 1 000 000 km |
-|[Inclination](keplerian.md) (Ⅰ)| 3.86° (to Sun’s equator); 3.39458° (to ecliptic); 2.5° (invar. plane) |
-|[Longit. of asc.node](keplerian.md) (Ω)| 76.67069° |
-|Orbital velocity (Ⅴ)| 35.02 km/s |
-|Satellite of| [Sun](sun.md) |
-|Satellites| none |
-|[Semimajor axis](keplerian.md) (a)| 108 208 930 km (0.723332 au) |
-|[Sider. rotat.period](astroperiod.md) (T, day)| 243.0187 days (retrograde, sync with Earth) |
-|[Sidereal period](astroperiod.md) (year)| 224.698 days (224 d 16 h 45 m 7 s) |
-|[Synodic period](astroperiod.md)| 583.92 days (583 d 2 h 12 m 29 s) |
+|[Apocentre](apopericentre.md) (Aphelion);<br> [Pericentre](apopericentre.md) (Perihelion)|108 942 109 km (0.72823128 au);<br> 107 476 259 km (0.71843270 [au](si.md))|
+|[Argument of periapsis](keplerian.md) (ω)|54.85229°|
+|Day/year|58.5 / … Earth’s|
+|[Eccentricity](keplerian.md) (e)|0.0068|
+|[Hill sphere](hill_sphere.md)|1 000 000 km|
+|[Inclination](keplerian.md) (Ⅰ)|3.86° (to Sun’s equator); 3.39458° (to ecliptic); 2.5° (invar. plane)|
+|[Longit. of asc.node](keplerian.md) (Ω)|76.67069°|
+|Orbital velocity (Ⅴ)|35.02 km/s|
+|Satellite of|[Sun](sun.md)|
+|Satellites|none|
+|[Semimajor axis](keplerian.md) (a)|108 208 930 km (0.723332 au)|
+|[Sider. rotat.period](astroperiod.md) (T, day)|243.0187 days (retrograde, sync with Earth)|
+|[Sidereal period](astroperiod.md) (year)|224.698 days (224 d 16 h 45 m 7 s)|
+|[Synodic period](astroperiod.md)|583.92 days (583 d 2 h 12 m 29 s)|
 |**Physics:**|• • •|
-|[1st escape velocity](esc_vel.md) (v₁)| 7.328 km/s (0.926 Earth’s) |
-|[2nd escape velocity](esc_vel.md) (v₂)| 10.363 km/s (0.926 Earth’s) |
-|[Albedo](albedo.md)| 0.689 (geometric); 0.76 (Bond) |
-|[Apparent magnitude](app_mag.md) (m)| −4.6 |
-|Axial tilt| 177.36° |
-|Density (ρ)| 5.24 g/cm³ (mean, 0.951 Earth’s) |
-|Equatorial rotation velocity| 6.52 km/h (0.0039 Earth’s) |
-|Flattening| 0 |
-|[Magnetic field](mag_field.md)| 1.98934 ‑ 3.97887 A/m (0.05 ‑ 0.1 Earth’s) |
-|Mass (m)| 4.8675·10²⁴ kg (0.815 Earth’s) |
-|Radius| 6 051 km (mean, 0.953 Earth’s, lesser on 320 km) |
-|Surface area (S)| 4.60·10⁸ km² (0.902 Earth’s) |
-|[Surface gravity](g.md)| 8.87 m/s² (0.904 Earth’s) |
-|Volume (Ⅴ)| 9.38·10¹¹ km² (0.857 Earth’s) |
+|[1st escape velocity](esc_vel.md) (v₁)|7.328 km/s (0.926 Earth’s)|
+|[2nd escape velocity](esc_vel.md) (v₂)|10.363 km/s (0.926 Earth’s)|
+|[Albedo](albedo.md)|0.689 (geometric); 0.76 (Bond)|
+|[Apparent magnitude](app_mag.md) (m)|−4.6|
+|Axial tilt|177.36°|
+|Density (ρ)|5.24 g/cm³ (mean, 0.951 Earth’s)|
+|Equatorial rotation velocity|6.52 km/h (0.0039 Earth’s)|
+|Flattening|0|
+|[Magnetic field](mag_field.md)|1.98934 ‑ 3.97887 A/m (0.05 ‑ 0.1 Earth’s)|
+|Mass (m)|4.8675·10²⁴ kg (0.815 Earth’s)|
+|Radius|6 051 km (mean, 0.953 Earth’s, lesser on 320 km)|
+|Surface area (S)|4.60·10⁸ km² (0.902 Earth’s)|
+|[Surface gravity](g.md)|8.87 m/s² (0.904 Earth’s)|
+|Volume (Ⅴ)|9.38·10¹¹ km² (0.857 Earth’s)|
 |**Temperature & atmosph.:**|• • •|
-|[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 kg/m³.<br> **Pressure:** 9.3 MPa (93 bar), surface.<br> **Winds:** 0.3 ‑ 1 m/s (surface); up to 100 m/s (65 km). |
-|[Illumination](illum.md)| 200 (5.5°) ‑ 3 000 (90°) lx (surface, 0.2 Earth’s) |
-|Radiation| <mark>TBD</mark> |
-|Temperature| 737 К (464 ℃) near surface |
+|[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.0017 % carbon monoxide (CO)<br> 0.0012 % helium (He)<br> 0.0007 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 kg/m³.<br> **Pressure:** 9.3 MPa (93 bar), surface.<br> **Winds:** 0.3 ‑ 1 m/s (surface); up to 100 m/s (65 km).|
+|[Illumination](illum.md)|200 (5.5°) ‑ 3 000 (90°) lx (surface, 0.2 Earth’s)|
+|Radiation|<mark>TBD</mark>|
+|Temperature|737 К (464 ℃) near surface|
 
 
 
 ### Atmosphere & climate
 |*Dependence temperature(pressure)/height;*<br> [Atmospheric model VIRA-30 ❐](f/aob/venus/atmo_model_vira_30.ods) made by Vega-1,2.|
 |:--|
-| ![](f/aob/venus/venus_atmosphere_ru.png) |
+|![](f/aob/venus/venus_atmosphere_ru.png)|
 
 The CO₂‑rich atmosphere generates the strongest greenhouse effect in the Solar System, creating the surface temperature of ~ 735 K (462 ℃, 864 ℉), higher than that used for sterilization, hotter than [Mercury’s](mercury.md) (min surface temperature of 53 K, −220 ℃, −364 ℉, & maximum — 700 K, 427 ℃, 801 ℉), even though Venus is nearly twice Mercury’s distance from the Sun & thus receives ~ 25 % of Mercury’s solar irradiance. The highest Venus point, Maxwell Montes, is the coolest point with a temperature of ~ 655 K (380 ℃; 715 ℉) & a pressure of ~ 4.5 MPa (45 bar).
 
@@ -105,21 +105,21 @@ Common areas and possible landing sites.
 |*Stratigraphic Unit*|•|*Area,<br> M km²*|*Area,<br> %*|*Unsafe*|*Moder.<br> safe*|*Safe*|
 |:--|:--|:--|:--|:--|:--|:--|
 |**Tectonic**|—|**92.82**|**20**|—|—|—|
-| · Densely lineated plains |pdl| · 7.72 | · 1.69 |unsafe|||
-| · Groove belt |gb| · 39.51 | · 8.66 |unsafe|||
-| · Ridged plains |pr,rp| · 10.20 | · 2.24 ||mod.safe||
-| · Tessera |t| · 35.38 | · 7.75 |unsafe|||
+|· Densely lineated plains|pdl|· 7.72|· 1.69|unsafe|||
+|· Groove belt|gb|· 39.51|· 8.66|unsafe|||
+|· Ridged plains|pr,rp|· 10.20|· 2.24||mod.safe||
+|· Tessera|t|· 35.38|· 7.75|unsafe|||
 |**Volcanic**|—|**279.95**|**61.35**|—|—|—|
-| · Regional planes, lower |rp1| · 150.68 | · 33.02 |||safe|
-| · Regional planes, upper |rp2| · 44.79 | · 9.81 ||mod.safe||
-| · Shield plains |psh| · 84.48 | · 18.51 ||mod.safe||
+|· Regional planes, lower|rp1|· 150.68|· 33.02|||safe|
+|· Regional planes, upper|rp2|· 44.79|· 9.81||mod.safe||
+|· Shield plains|psh|· 84.48|· 18.51||mod.safe||
 |**Volcano‑tectonic**|—|**78.94**|**17.30**|—|—|—|
-| · Lobate plains |pl| · 40.32 | · 8.84 |unsafe|||
-| · Rift zones |rz| · 24.08 | · 5.28 |unsafe|||
-| · Shield clusters |sc| · 3.56 | · 0.78 |?|?|?|
-| · Smooth plains |ps,sp| · 10.98 | · 2.41 |?|?|?|
-| ··· Smooth plains, impact |spi| ··· ? | ··· 1 |||safe|
-| ··· Smooth plains, volcanic |spv| ··· ? | ··· 1 |||safe|
+|· Lobate plains|pl|· 40.32|· 8.84|unsafe|||
+|· Rift zones|rz|· 24.08|· 5.28|unsafe|||
+|· Shield clusters|sc|· 3.56|· 0.78|?|?|?|
+|· Smooth plains|ps,sp|· 10.98|· 2.41|?|?|?|
+|··· Smooth plains, impact|spi|··· ?|··· 1|||safe|
+|··· Smooth plains, volcanic|spv|··· ?|··· 1|||safe|
 
 **Tessera**
 
@@ -260,54 +260,54 @@ See also section “[Projects](project.md)”.
 |*✔*|*Mission/SC (index)*|*Date (UTC)*|*C*|*D*|*F*|*H*|*S*|*X*|*Notes*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |—|**Proposed:**|—|—|—|—|—|—|—|—|
-|US| [DAVINCI / DAVINCI+](davinci.md) | … ||D||||| <mark>TBD</mark> concept of 2015 |
-|US| [Cubesat UV Experiment](cubesat_uv_experiment.md) (CUVE) | … ||D||||| concept of 2017 |
-|US| [Venus Flagship Mission](venus_flagship_mission.md) (VFM) | … |C|D||||X| concept of 2007 |
-|US| [Venus Mobile Explorer](venus_mobile_explorer.md) (VME) | … |C|||||X| <mark>TBD</mark> concept of 2009 |
-|US| [Venus Observing System](venus_observing_system.md) (VOS) | … |C|D||||X| concept of 2019 |
-|US| [Venus Origins Explorer](venus_origins_explorer.md) (VOX) | … ||D||||| <mark>TBD</mark> concept of 2017 |
-|EU·US| [Venus Sample Return Mission](venus_sample_return_mission.md) (VSRM) | … |C||||S|X| <mark>TBD</mark> concept of 1986 |
-|US| [VERITAS](veritas.md) | … ||D||||| <mark>TBD</mark> concept of 2015 |
-|EU| [EnVision](envision.md) | 2032 ||D|||||  |
-|RU| [Venera‑D](venera_d.md) (ВД) Ⓛ | 2029 |C|D||||| <mark>TBD</mark> |
+|US|[DAVINCI / DAVINCI+](davinci.md)|…||D|||||<mark>TBD</mark> concept of 2015|
+|US|[Cubesat UV Experiment](cubesat_uv_experiment.md) (CUVE)|…||D|||||concept of 2017|
+|US|[Venus Flagship Mission](venus_flagship_mission.md) (VFM)|…|C|D||||X|concept of 2007|
+|US|[Venus Mobile Explorer](venus_mobile_explorer.md) (VME)|…|C|||||X|<mark>TBD</mark> concept of 2009|
+|US|[Venus Observing System](venus_observing_system.md) (VOS)|…|C|D||||X|concept of 2019|
+|US|[Venus Origins Explorer](venus_origins_explorer.md) (VOX)|…||D|||||<mark>TBD</mark> concept of 2017|
+|EU·US|[Venus Sample Return Mission](venus_sample_return_mission.md) (VSRM)|…|C||||S|X|<mark>TBD</mark> concept of 1986|
+|US|[VERITAS](veritas.md)|…||D|||||<mark>TBD</mark> concept of 2015|
+|EU|[EnVision](envision.md)|2032||D||||||
+|RU|[Venera‑D](venera_d.md) (ВД) Ⓛ|2029|C|D|||||<mark>TBD</mark>|
 |—|**Developing:**|—|—|—|—|—|—|—|—|
-|IN| [Shukrayaan‑1](shukrayaan_1.md) | 2023 ||D||||| <mark>TBD</mark> |
-|US| [Xcraft](xcraft.md) | 2022 ||||||X| <mark>TBD</mark> |
+|IN|[Shukrayaan‑1](shukrayaan_1.md)|2023||D|||||<mark>TBD</mark>|
+|US|[Xcraft](xcraft.md)|2022||||||X|<mark>TBD</mark>|
 |—|**Active:**|—|—|—|—|—|—|—|—|
-|EU·JP| [BepiColombo](bepicolombo.md) | 2018.10.20 ||D|F|||| <mark>TBD</mark> |
-|US| [Parker Solar Probe](parker_solar_probe.md) | 2018.08.12 ||D|F|||| <mark>TBD</mark> |
-|JP| [Akatsuki](akatsuki.md) | 2010.05.21 ||D||||| |
+|EU·JP|[BepiColombo](bepicolombo.md)|2018.10.20||D|F||||<mark>TBD</mark>|
+|US|[Parker Solar Probe](parker_solar_probe.md)|2018.08.12||D|F||||<mark>TBD</mark>|
+|JP|[Akatsuki](akatsuki.md)|2010.05.21||D||||||
 |—|**Past:**|—|—|—|—|—|—|—|—|
-|EU| [Venus Express](venus_express.md) (VEX) | 2005.11.09 ||D||||| <mark>TBD</mark> |
-|US| [Messenger](messenger.md) | 2004.08.03 ||D|F|||X| <mark>TBD</mark> |
-|US| [Cassini Huygens](cassini_huygens.md) | 1997.10.15 ||D|F|||X| <mark>TBD</mark> |
-|US| [Galileo](galileo.md) | 1989.10.18 ||D|F|||X| <mark>TBD</mark> |
-|US| [Magellan](magellan.md) | 1989.05.04 ||D|F|||| ±<mark>TBD</mark> |
-|SU| [VeGa‑2](vega_1_2.md) (5ВК) Ⓛ | 1984.12.21 |C|D||||| ±<mark>TBD</mark> |
-|SU| [VeGa‑1](vega_1_2.md) (5ВК) Ⓛ | 1984.12.15 |C|D||||| ±<mark>TBD</mark> |
-|SU| [Venera‑16](venera_15_16.md) (4В2) Ⓛ | 1983.06.07 ||D||||| ±<mark>TBD</mark> maps N.pole |
-|SU| [Venera‑15](venera_15_16.md) (4В2) Ⓛ | 1983.06.02 ||D||||| ±<mark>TBD</mark> maps N.pole |
-|US| ~~[Venus Orbiting Imaging Radar](venus_orbiting_imaging_radar.md) (VOIR)~~ | 1983.05 ||D||||X| ±<mark>TBD</mark> hi‑res images |
-|SU| [Venera‑14](venera_13_14.md) (4В1М) Ⓛ | 1981.11.04 |C|||||| ±<mark>TBD</mark> color surface imgs |
-|SU| [Venera‑13](venera_13_14.md) (4В1М) Ⓛ | 1981.10.30 |C|||||| ±<mark>TBD</mark> color surface imgs |
-|SU| [Venera‑12](venera_11_12.md) (4В1) Ⓛ | 1978.09.14 |C|D||||| ±<mark>TBD</mark> |
-|SU| [Venera‑11](venera_11_12.md) (4В1) Ⓛ | 1978.09.09 |C|D||||| ±<mark>TBD</mark> |
-|US| [Pioneer‑Venus‑2](pioneer_venus_2.md) | 1978.08.08 ||D||||| ±<mark>TBD</mark> surface map |
-|US| [Pioneer‑Venus‑1](pioneer_venus_1.md) | 1978.05.20 ||D||||| ±<mark>TBD</mark> surface map |
-|SU| [Venera‑10](venera_9_10.md) (4В1) Ⓛ | 1975.06.14 |C|D||||| ±<mark>TBD</mark> 1st surface img |
-|SU| [Venera‑9](venera_9_10.md) (4В1) Ⓛ | 1975.06.08 |C|D||||| ±<mark>TBD</mark> 1st Vsat, surface img |
-|US| [Mariner‑10](mariner_10.md) | 1973.11.04 ||D|F|||| ±<mark>TBD</mark> |
-|SU| [Venera‑8](venera_8.md) (В‑72) Ⓛ | 1972.03.27 |C|||||| ±<mark>TBD</mark> 1st relief imgs |
-|SU| [Venera‑7](venera_7.md) (В‑70) Ⓛ | 1970.08.17 |C|||||| ±<mark>TBD</mark> 1st soft landing |
-|SU| [Venera‑6](venera_5_6.md) (2В, В‑69) Ⓛ | 1969.01.10 ||D||||| ±<mark>TBD</mark> |
-|SU| [Venera‑5](venera_5_6.md) (2В, В‑69) Ⓛ | 1969.01.05 ||D||||| ±<mark>TBD</mark> |
-|US| [Mariner‑5](mariner_5.md) | 1967.06.14 ||D||||| ±<mark>TBD</mark> |
-|SU| [Venera‑4](venera_4.md) (1В, В‑67) Ⓛ | 1967.06.12 ||D||||| ±<mark>TBD</mark> |
-|SU| [Venera‑3](venera_2_3.md) (3МВ‑3) | 1965.11.16 |C|D||||| ±<mark>TBD</mark> 1st fly/land Venus SC |
-|SU| [Venera‑2](venera_2_3.md) (3МВ‑4) | 1965.11.12 ||D||||| ±<mark>TBD</mark> |
-|SU| [Zond‑1](zond_1.md) | 1964.04.02 ||D|F|||| ±<mark>TBD</mark> |
-|US| [Mariner‑2](mariner_2.md) | 1962.08.27 ||D||||| ±<mark>TBD</mark> |
-|SU| [Venera‑1](venera_1.md) (1ВА) | 1961.02.12 ||D|F|||| ±<mark>TBD</mark> |
+|EU|[Venus Express](venus_express.md) (VEX)|2005.11.09||D|||||<mark>TBD</mark>|
+|US|[Messenger](messenger.md)|2004.08.03||D|F|||X|<mark>TBD</mark>|
+|US|[Cassini Huygens](cassini_huygens.md)|1997.10.15||D|F|||X|<mark>TBD</mark>|
+|US|[Galileo](galileo.md)|1989.10.18||D|F|||X|<mark>TBD</mark>|
+|US|[Magellan](magellan.md)|1989.05.04||D|F||||±<mark>TBD</mark>|
+|SU|[VeGa‑2](vega_1_2.md) (5ВК) Ⓛ|1984.12.21|C|D|||||±<mark>TBD</mark>|
+|SU|[VeGa‑1](vega_1_2.md) (5ВК) Ⓛ|1984.12.15|C|D|||||±<mark>TBD</mark>|
+|SU|[Venera‑16](venera_15_16.md) (4В2) Ⓛ|1983.06.07||D|||||±<mark>TBD</mark> maps N.pole|
+|SU|[Venera‑15](venera_15_16.md) (4В2) Ⓛ|1983.06.02||D|||||±<mark>TBD</mark> maps N.pole|
+|US|~~[Venus Orbiting Imaging Radar](venus_orbiting_imaging_radar.md) (VOIR)~~|1983.05||D||||X|±<mark>TBD</mark> hi‑res images|
+|SU|[Venera‑14](venera_13_14.md) (4В1М) Ⓛ|1981.11.04|C||||||±<mark>TBD</mark> color surface imgs|
+|SU|[Venera‑13](venera_13_14.md) (4В1М) Ⓛ|1981.10.30|C||||||±<mark>TBD</mark> color surface imgs|
+|SU|[Venera‑12](venera_11_12.md) (4В1) Ⓛ|1978.09.14|C|D|||||±<mark>TBD</mark>|
+|SU|[Venera‑11](venera_11_12.md) (4В1) Ⓛ|1978.09.09|C|D|||||±<mark>TBD</mark>|
+|US|[Pioneer‑Venus‑2](pioneer_venus_2.md)|1978.08.08||D|||||±<mark>TBD</mark> surface map|
+|US|[Pioneer‑Venus‑1](pioneer_venus_1.md)|1978.05.20||D|||||±<mark>TBD</mark> surface map|
+|SU|[Venera‑10](venera_9_10.md) (4В1) Ⓛ|1975.06.14|C|D|||||±<mark>TBD</mark> 1st surface img|
+|SU|[Venera‑9](venera_9_10.md) (4В1) Ⓛ|1975.06.08|C|D|||||±<mark>TBD</mark> 1st Vsat, surface img|
+|US|[Mariner‑10](mariner_10.md)|1973.11.04||D|F||||±<mark>TBD</mark>|
+|SU|[Venera‑8](venera_8.md) (В‑72) Ⓛ|1972.03.27|C||||||±<mark>TBD</mark> 1st relief imgs|
+|SU|[Venera‑7](venera_7.md) (В‑70) Ⓛ|1970.08.17|C||||||±<mark>TBD</mark> 1st soft landing|
+|SU|[Venera‑6](venera_5_6.md) (2В, В‑69) Ⓛ|1969.01.10||D|||||±<mark>TBD</mark>|
+|SU|[Venera‑5](venera_5_6.md) (2В, В‑69) Ⓛ|1969.01.05||D|||||±<mark>TBD</mark>|
+|US|[Mariner‑5](mariner_5.md)|1967.06.14||D|||||±<mark>TBD</mark>|
+|SU|[Venera‑4](venera_4.md) (1В, В‑67) Ⓛ|1967.06.12||D|||||±<mark>TBD</mark>|
+|SU|[Venera‑3](venera_2_3.md) (3МВ‑3)|1965.11.16|C|D|||||±<mark>TBD</mark> 1st fly/land Venus SC|
+|SU|[Venera‑2](venera_2_3.md) (3МВ‑4)|1965.11.12||D|||||±<mark>TBD</mark>|
+|SU|[Zond‑1](zond_1.md)|1964.04.02||D|F||||±<mark>TBD</mark>|
+|US|[Mariner‑2](mariner_2.md)|1962.08.27||D|||||±<mark>TBD</mark>|
+|SU|[Venera‑1](venera_1.md) (1ВА)|1961.02.12||D|F||||±<mark>TBD</mark>|
 
 </small>
 
@@ -323,10 +323,10 @@ See also section “[Projects](project.md)”.
 
 |*Type*|*Unit*|
 |:--|:--|
-| **Fly‑bys** | [Europa Clipper](europa_clipper.md) ┊ Mercury-P ┊ Laplace-P ┊ NASA Uranus orbiter & probe |
-| **Missions** | [HAVOC](havoc.md) ┊ [HOVER](hover.md) ┊ [VICI](vici.md) ┊ [VISAGE](visage.md) ┊ [VISE](vise.md) |
-| **Rovers** | [AREE](aree.md) (concept of 2016) ┊ [Zephyr](zephyr.md) (concept of 2012) |
-| **Standalone** | [LLISSE](llisse.md) ┊ [MEVC](mevc.md) ┊ [SAEVe](saeve.md) ┊ [Solar Aircraft](solar_aircraft.md) by GRC ┊ [VAMP](vamp.md) |
+|**Fly‑bys**|[Europa Clipper](europa_clipper.md) ┊ Mercury-P ┊ Laplace-P ┊ NASA Uranus orbiter & probe|
+|**Missions**|[HAVOC](havoc.md) ┊ [HOVER](hover.md) ┊ [VICI](vici.md) ┊ [VISAGE](visage.md) ┊ [VISE](vise.md)|
+|**Rovers**|[AREE](aree.md) (concept of 2016) ┊ [Zephyr](zephyr.md) (concept of 2012)|
+|**Standalone**|[LLISSE](llisse.md) ┊ [MEVC](mevc.md) ┊ [SAEVe](saeve.md) ┊ [Solar Aircraft](solar_aircraft.md) by GRC ┊ [VAMP](vamp.md)|
 
 
 
@@ -350,105 +350,105 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |•|•|**Never occurred:**|•|•|•|•|•|•|
-|EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|  ||D||||
-|EVN‑037||Atmosphere: cause of the retrograde moving|  ||D||||
-|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid| Ac, Ai, Am, At ||D||||
-|EVN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
-|EVN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km| All A ||||||
-|EVN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km| All A ||||||
-|EVN‑054|T|Atmosphere: sample return| As |C|||||
-|EVN‑015||Atmosphere: structure of the mesosphere| All A ||D||||
-|EVN‑030||Atmosphere: was it lost during some cataclysm or event|  ||D||||
-|EVN‑095||Climate: history & causes of changes|  ||D||||
-|EVN‑087||Crustal support mechanisms|  ||D||||
-|EVN‑051||Dimensions & characteristics of the mantle & the core|  ||D||||
-|EVN‑057|T|Exploration with [satellites](sc.md): microsatellites|  ||D|F|||
-|EVN‑071|T|Exploration with [satellites](sc.md): nanosatellites|  ||D|F|||
-|EVN‑058|T|Exploration: directed seismoexperiment|  ||D|F|||
-|EVN‑056|T|Exploration: from L1/L2| Ai, Am, At, Gi ||D||||
-|EVN‑059|T|Exploration: with [rover](rover.md)| All A/S |C|||||
-|EVN‑081|T|Extreme environment electronics|  |C|D|F|||
-|EVN‑094|T|High temperature electronics|  |C|D|F|||
-|EVN‑060|T|Human: manned fly‑by|  ||D|F|H||
-|EVN‑065|T|Human: on the orbit|  ||D||H||
-|EVN‑066|T|Human: on the surface|  |C|||H||
-|EVN‑043||Mechanisms of the mantle’s convection|  ||D|F|||
-|EVN‑048||Nature & sources of the greenhouse effect|  ||D|F|||
-|EVN‑068|T|Precise landing|  |C|||||
-|EVN‑069|T|Prolonged surface‑spacecraft functioning|  |C|||||
-|EVN‑064|T|Planetary terraforming|  |C|||H||
-|EVN‑061|T|Surface: sample return|  |C||||S|
-|EVN‑047||Surface: structure‑composition connection of different regions & planet’s evolution|  |C|||||
-|EVN‑088|T|Surface: subsurface investigations|  |C|||||
-|EVN‑086|T|Surface: tessera investigations, in‑situ|  |C|||||
-|EVN‑039||Was the planet inhabited & for how long|  |C|D||||
-|EVN‑040||Were there oceans & why have they gone|  |C|D|F|||
+|EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|||D||||
+|EVN‑037||Atmosphere: cause of the retrograde moving|||D||||
+|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid|Ac, Ai, Am, At||D||||
+|EVN‑038||Atmosphere: processes of the atmospheric parts dissipation|||D||||
+|EVN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km|All A||||||
+|EVN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km|All A||||||
+|EVN‑054|T|Atmosphere: sample return|As|C|||||
+|EVN‑015||Atmosphere: structure of the mesosphere|All A||D||||
+|EVN‑030||Atmosphere: was it lost during some cataclysm or event|||D||||
+|EVN‑095||Climate: history & causes of changes|||D||||
+|EVN‑087||Crustal support mechanisms|||D||||
+|EVN‑051||Dimensions & characteristics of the mantle & the core|||D||||
+|EVN‑057|T|Exploration with [satellites](sc.md): microsatellites|||D|F|||
+|EVN‑071|T|Exploration with [satellites](sc.md): nanosatellites|||D|F|||
+|EVN‑058|T|Exploration: directed seismoexperiment|||D|F|||
+|EVN‑056|T|Exploration: from L1/L2|Ai, Am, At, Gi||D||||
+|EVN‑059|T|Exploration: with [rover](rover.md)|All A/S|C|||||
+|EVN‑081|T|Extreme environment electronics||C|D|F|||
+|EVN‑094|T|High temperature electronics||C|D|F|||
+|EVN‑060|T|Human: manned fly‑by|||D|F|H||
+|EVN‑065|T|Human: on the orbit|||D||H||
+|EVN‑066|T|Human: on the surface||C|||H||
+|EVN‑043||Mechanisms of the mantle’s convection|||D|F|||
+|EVN‑048||Nature & sources of the greenhouse effect|||D|F|||
+|EVN‑068|T|Precise landing||C|||||
+|EVN‑069|T|Prolonged surface‑spacecraft functioning||C|||||
+|EVN‑064|T|Planetary terraforming||C|||H||
+|EVN‑061|T|Surface: sample return||C||||S|
+|EVN‑047||Surface: structure‑composition connection of different regions & planet’s evolution||C|||||
+|EVN‑088|T|Surface: subsurface investigations||C|||||
+|EVN‑086|T|Surface: tessera investigations, in‑situ||C|||||
+|EVN‑039||Was the planet inhabited & for how long||C|D||||
+|EVN‑040||Were there oceans & why have they gone||C|D|F|||
 |•|•|**Was tried:**|•|•|•|•|•|•|
-|EVN‑080||Albedo: changes in time| Gi ||D|F|||
-|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
-|EVN‑077||Atmosphere: chemical elements distribution|  ||D|F|||
-|EVN‑018||Atmosphere: clouds, their chemistry|  ||D|F|||
-|EVN‑075||Atmosphere: clouds, their nature|  ||D|F|||
-|EVN‑016||Atmosphere: clouds, their structure|  ||D|F|||
-|EVN‑011||Atmosphere: common circulation model|  ||D||||
-|EVN‑014||Atmosphere: composition|  ||D||F||
-|EVN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
-|EVN‑019||Atmosphere: energetic balance|  ||D||||
-|EVN‑008||Atmosphere: flashing on the night side|  ||D||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers|  ||D||||
-|EVN‑096||Atmosphere: ionosphere|  ||D|F|||
-|EVN‑012||Atmosphere: lightnings|  ||D||||
-|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|  ||D||||
-|EVN‑033||Atmosphere: nature/rate of its escape|  ||D||||
-|EVN‑067||Atmosphere: nature of the polar dipole & turbulence|  ||D||||
-|EVN‑034||Atmosphere: nature of the superrotation|  ||D||||
-|EVN‑035||Atmosphere: nature of the UV‑absorber|  ||D||||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|  ||D||||
-|EVN‑078|T|Atmosphere: radiography|  ||D||||
-|EVN‑055|T|Atmosphere: sample obtaining & analysis|  |C|||||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations|  ||D||||
-|EVN‑017||Atmosphere: common structure|  ||D||||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|  ||D|F|||
-|EVN‑010||Atmosphere: vertical model|  ||D||||
-|EVN‑050||Causes of the water loss|  ||D||||
-|EVN‑041||Common connection between the atmosphere & the surface|  ||D||||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites|  ||D|F|||
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites|  ||D|F|||
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites|  ||D|F|||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution|  ||D||||
-|EVN‑020||Inner structure of the planet|  ||D||||
-|EVN‑029||Is Venus geologically active?|  |C|D|F|||
-|EVN‑028||Magnetosphere structure|  ||D|F|||
-|EVN‑089||Measuring the planetary gravitational field|  ||D|F|||
-|EVN‑074||Meteorological model|  ||D|F|||
-|EVN‑049||Nature & characteristics of the thermal tides|  ||D||||
-|EVN‑079||Precise duration of the Venusian day|  ||D||||
-|EVN‑052||Role of water (fluids) in planetary geology|  |C|D|F|||
-|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|  ||D||||
-|EVN‑046||Surface: causes of the changes during the last billion years|  |C|D|F|||
-|EVN‑024||Surface: common composition|  |C|||||
-|EVN‑026||Surface: elemental composition|  |C|||||
-|EVN‑021||Surface: map, 3D|  |C|D||||
-|EVN‑022||Surface: map, precise|  ||D||||
-|EVN‑023||Surface: mineralogical composition|  |C|||||
-|EVN‑025||Surface: morphology|  |C|||||
-|EVN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
-|EVN‑045||Surface: nature of the tessera|  ||D||||
-|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places|  |C||||S|
-|EVN‑063|T|Surface: panoramic imaging|  |C|||||
-|EVN‑085|T|Surface: tessera investigations, remote|  ||D|F|||
-|EVN‑076||Surface: volcanoes, their presence|  ||D|F|||
-|EVN‑027||The causes why Venus evolved in a planet so different from Earth|  |C|D|F|||
-|EVN‑091||The loss rate of water from Venus|  ||D|F|||
-|EVN‑053||Traces of life in the atmosphere & on the surface|  |C|||||
+|EVN‑080||Albedo: changes in time|Gi||D|F|||
+|EVN‑093|T|Atmosphere/surface imaging|||D|F|||
+|EVN‑077||Atmosphere: chemical elements distribution|||D|F|||
+|EVN‑018||Atmosphere: clouds, their chemistry|||D|F|||
+|EVN‑075||Atmosphere: clouds, their nature|||D|F|||
+|EVN‑016||Atmosphere: clouds, their structure|||D|F|||
+|EVN‑011||Atmosphere: common circulation model|||D||||
+|EVN‑014||Atmosphere: composition|||D||F||
+|EVN‑007||Atmosphere: connection between the topography & the atmo circulation|||D||||
+|EVN‑019||Atmosphere: energetic balance|||D||||
+|EVN‑008||Atmosphere: flashing on the night side|||D||||
+|EVN‑013||Atmosphere: illumination of the surface & the atmo layers|||D||||
+|EVN‑096||Atmosphere: ionosphere|||D|F|||
+|EVN‑012||Atmosphere: lightnings|||D||||
+|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|||D||||
+|EVN‑033||Atmosphere: nature/rate of its escape|||D||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence|||D||||
+|EVN‑034||Atmosphere: nature of the superrotation|||D||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber|||D||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|||D||||
+|EVN‑078|T|Atmosphere: radiography|||D||||
+|EVN‑055|T|Atmosphere: sample obtaining & analysis||C|||||
+|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations|||D||||
+|EVN‑017||Atmosphere: common structure|||D||||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|||D|F|||
+|EVN‑010||Atmosphere: vertical model|||D||||
+|EVN‑050||Causes of the water loss|||D||||
+|EVN‑041||Common connection between the atmosphere & the surface|||D||||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites|||D|F|||
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites|||D|F|||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites|||D|F|||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution|||D||||
+|EVN‑020||Inner structure of the planet|||D||||
+|EVN‑029||Is Venus geologically active?||C|D|F|||
+|EVN‑028||Magnetosphere structure|||D|F|||
+|EVN‑089||Measuring the planetary gravitational field|||D|F|||
+|EVN‑074||Meteorological model|||D|F|||
+|EVN‑049||Nature & characteristics of the thermal tides|||D||||
+|EVN‑079||Precise duration of the Venusian day|||D||||
+|EVN‑052||Role of water (fluids) in planetary geology||C|D|F|||
+|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|||D||||
+|EVN‑046||Surface: causes of the changes during the last billion years||C|D|F|||
+|EVN‑024||Surface: common composition||C|||||
+|EVN‑026||Surface: elemental composition||C|||||
+|EVN‑021||Surface: map, 3D||C|D||||
+|EVN‑022||Surface: map, precise|||D||||
+|EVN‑023||Surface: mineralogical composition||C|||||
+|EVN‑025||Surface: morphology||C|||||
+|EVN‑044||Surface: nature & causes of forming of the current rocks & soils||C|||||
+|EVN‑045||Surface: nature of the tessera|||D||||
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places||C||||S|
+|EVN‑063|T|Surface: panoramic imaging||C|||||
+|EVN‑085|T|Surface: tessera investigations, remote|||D|F|||
+|EVN‑076||Surface: volcanoes, their presence|||D|F|||
+|EVN‑027||The causes why Venus evolved in a planet so different from Earth||C|D|F|||
+|EVN‑091||The loss rate of water from Venus|||D|F|||
+|EVN‑053||Traces of life in the atmosphere & on the surface||C|||||
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EVN‑001||Atmosphere: preliminary model|  |C|D|F|||
-|EVN‑004|T|Exploration: from Earth|  ||D||||
-|EVN‑003|T|Exploration: from inside of atmosphere|  |C|D||||
-|EVN‑006|T|Exploration: from surface|  |C|||||
-|EVN‑005|T|Exploration: from Venusian orbit|  ||D|F|||
-|EVN‑090||Spin axis|  ||D||||
-|EVN‑002||Surface: preliminary map|  |C|D||||
+|EVN‑001||Atmosphere: preliminary model||C|D|F|||
+|EVN‑004|T|Exploration: from Earth|||D||||
+|EVN‑003|T|Exploration: from inside of atmosphere||C|D||||
+|EVN‑006|T|Exploration: from surface||C|||||
+|EVN‑005|T|Exploration: from Venusian orbit|||D|F|||
+|EVN‑090||Spin axis|||D||||
+|EVN‑002||Surface: preliminary map||C|D||||
 
 </small>
 
@@ -513,29 +513,29 @@ The list of **GOI 2019** and its relation to GOI 2016 can be viewed in the [docu
 
 |*Investigation in 2019 GOI*|*Related targets & explorations for Venus EVN*|
 |:--|:--|
-| I.A.HO. Hydrous Origins ⑴ | EVN‑023, EVN‑052 |
-| I.A.RE. Recycling ⑴ | EVN‑023, EVN‑025, EVN‑045, EVN‑046, EVN‑047, EVN‑062, EVN‑085, EVN‑086 |
-| I.A.AL. Atmospheric Losses ⑵ | EVN‑028, EVN‑033, EVN‑038, EVN‑050, EVN‑091, EVN‑097 |
-| I.A.MA. Magnetism ⑶ | EVN‑028, EVN‑096, EVN‑097 |
-| I.B.IS. Isotopes ⑴ | EVN‑014, EVN‑055, EVN‑077 |
-| I.B.LI. Lithosphere ⑴  | EVN‑020, EVN‑025, EVN‑047, EVN‑052, EVN‑087 |
-| I.B.HF. Heat Flow ⑵ | EVN‑019 |
-| I.B.CO. Core ⑵ | EVN‑020, EVN‑051 |
-| II.A.DD. Deep Dynamics ⑴ | EVN‑007, EVN‑011, EVN‑019, EVN‑032, EVN‑034, EVN‑082, EVN‑083, EVN‑084 |
-| II.A.UD. Upper Dynamics ⑴ | EVN‑011, EVN‑028, EVN‑034, EVN‑067, EVN‑068, EVN‑097 |
-| II.A.MP. Mesoscale Processes ⑵ | EVN‑011, EVN‑019, EVN‑034 |
-| II.B.RB. Radiative Balance ⑴ | EVN‑011, EVN‑019, EVN‑034, EVN‑049, EVN‑077 |
-| II.B.IN. Interactions ⑴ | EVN‑019, EVN‑035, EVN‑036, EVN‑041, EVN‑048, EVN‑053, EVN‑095, EVN‑097 |
-| II.B.AE. Aerosols ⑵ | EVN‑014, EVN‑016, EVN‑018, EVN‑077 |
-| II.B.UA. Unknown Absorber ⑵ | EVN‑019, EVN‑035, EVN‑048, EVN‑077, EVN‑080 |
-| II.B.OG. Outgassing ⑶ | EVN‑009, EVN‑041, EVN‑042 |
-| III.A.GH. Geologic History ⑴ | EVN‑023, EVN‑024, EVN‑025, EVN‑042, EVN‑044, EVN‑045, EVN‑046, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
-| III.A.GC. Geochemistry ⑴ | EVN‑023, EVN‑024, EVN‑026, EVN‑044, EVN‑061, EVN‑062, EVN‑085, EVN‑086 |
-| III.A.GA. Geologic Activity ⑵ | EVN‑029, EVN‑036, EVN‑043, EVN‑058, EVN‑087 |
-| III.A.CR. Crust ⑵ | EVN‑020, EVN‑025, EVN‑087 |
-| III.B.LW. Local Weathering ⑴ | EVN‑023, EVN‑041, EVN‑044 |
-| III.B.GW. Global Weathering ⑵ | EVN‑007, EVN‑044, EVN‑046 |
-| III.B.CI. Chemical Interactions ⑶ | EVN‑010, EVN‑014, EVN‑077, EVN‑082, EVN‑083 |
+|I.A.HO. Hydrous Origins ⑴|EVN‑023, EVN‑052|
+|I.A.RE. Recycling ⑴|EVN‑023, EVN‑025, EVN‑045, EVN‑046, EVN‑047, EVN‑062, EVN‑085, EVN‑086|
+|I.A.AL. Atmospheric Losses ⑵|EVN‑028, EVN‑033, EVN‑038, EVN‑050, EVN‑091, EVN‑097|
+|I.A.MA. Magnetism ⑶|EVN‑028, EVN‑096, EVN‑097|
+|I.B.IS. Isotopes ⑴|EVN‑014, EVN‑055, EVN‑077|
+|I.B.LI. Lithosphere ⑴|EVN‑020, EVN‑025, EVN‑047, EVN‑052, EVN‑087|
+|I.B.HF. Heat Flow ⑵|EVN‑019|
+|I.B.CO. Core ⑵|EVN‑020, EVN‑051|
+|II.A.DD. Deep Dynamics ⑴|EVN‑007, EVN‑011, EVN‑019, EVN‑032, EVN‑034, EVN‑082, EVN‑083, EVN‑084|
+|II.A.UD. Upper Dynamics ⑴|EVN‑011, EVN‑028, EVN‑034, EVN‑067, EVN‑068, EVN‑097|
+|II.A.MP. Mesoscale Processes ⑵|EVN‑011, EVN‑019, EVN‑034|
+|II.B.RB. Radiative Balance ⑴|EVN‑011, EVN‑019, EVN‑034, EVN‑049, EVN‑077|
+|II.B.IN. Interactions ⑴|EVN‑019, EVN‑035, EVN‑036, EVN‑041, EVN‑048, EVN‑053, EVN‑095, EVN‑097|
+|II.B.AE. Aerosols ⑵|EVN‑014, EVN‑016, EVN‑018, EVN‑077|
+|II.B.UA. Unknown Absorber ⑵|EVN‑019, EVN‑035, EVN‑048, EVN‑077, EVN‑080|
+|II.B.OG. Outgassing ⑶|EVN‑009, EVN‑041, EVN‑042|
+|III.A.GH. Geologic History ⑴|EVN‑023, EVN‑024, EVN‑025, EVN‑042, EVN‑044, EVN‑045, EVN‑046, EVN‑061, EVN‑062, EVN‑085, EVN‑086|
+|III.A.GC. Geochemistry ⑴|EVN‑023, EVN‑024, EVN‑026, EVN‑044, EVN‑061, EVN‑062, EVN‑085, EVN‑086|
+|III.A.GA. Geologic Activity ⑵|EVN‑029, EVN‑036, EVN‑043, EVN‑058, EVN‑087|
+|III.A.CR. Crust ⑵|EVN‑020, EVN‑025, EVN‑087|
+|III.B.LW. Local Weathering ⑴|EVN‑023, EVN‑041, EVN‑044|
+|III.B.GW. Global Weathering ⑵|EVN‑007, EVN‑044, EVN‑046|
+|III.B.CI. Chemical Interactions ⑶|EVN‑010, EVN‑014, EVN‑077, EVN‑082, EVN‑083|
 
 </small>
  

@@ -20,36 +20,36 @@ The original report dates back to 2007.
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| $ 2.7 B ‑ 3.8 B or 86 370 ‑ 121 560 kg of [gold](sc_price.md) in 2009 prices |
-|[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| … ‑ … |
-|Duration| 2.5 years |
-|Launch| 2032, [Canaveral](canaveral.md), [Atlas V 551](atlas.md) (one for the orbiter, the other for the in situ vehicles & carrier) |
-|Operator| NASA |
-|Programme| … |
-|Similar to| • Proposed: [Venera‑D](venera_d.md) (RU);<br> • Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> • Past: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978). |
-|Target| To understand the venusian greenhouse effect, atmospheric superrotation, climate changing, geo activity, water, atmosphere & surface evolution, inner structure, chemical structures etc.  |
-|[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft; lander spacecraft |
+|Cost|$ 2.7 B ‑ 3.8 B or 86 370 ‑ 121 560 kg of [gold](sc_price.md) in 2009 prices|
+|[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
+|Development|… ‑ …|
+|Duration|2.5 years|
+|Launch|2032, [Canaveral](canaveral.md), [Atlas V 551](atlas.md) (one for the orbiter, the other for the in situ vehicles & carrier)|
+|Operator|NASA|
+|Programme|…|
+|Similar to|• Proposed: [Venera‑D](venera_d.md) (RU);<br> • Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> • Past: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978).|
+|Target|To understand the venusian greenhouse effect, atmospheric superrotation, climate changing, geo activity, water, atmosphere & surface evolution, inner structure, chemical structures etc.|
+|[Type](sc.md)|Orbiter spacecraft; atmospheric spacecraft; lander spacecraft|
 |**Spacecraft:**|• • •|
-|Composition| • 1 orbiter,<br> • 1 carrier (incl. 2 balloons in the clouds, 2 landers) |
-|Contractor| … |
-|Manufacturer| … |
+|Composition|• 1 orbiter,<br> • 1 carrier (incl. 2 balloons in the clouds, 2 landers)|
+|Contractor|…|
+|Manufacturer|…|
 ||**`Orbiter`**|
-|Comms| Ka/X‑band (to‑Earth, 52.6 GB/day); S‑band (to‑in situ) |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
-|Duration| 2.5 y (incl. 6 m for transit, 2 y for work) |
-|Mass| wet: 5 306 kg, dry: 2 275 kg, payload: 290.4 kg ([large satellite](sc.md), ([EVN‑073](venus.md)))  |
-|Orbit / Site| 230 × 230 km |
-|Payload| [SAR](sar.md), spectrometers, magnetomeeters, sounder, oscillator |
-|Power| 32 m² solar panels (9 868 W EOL) |
+|Comms|Ka/X‑band (to‑Earth, 52.6 GB/day); S‑band (to‑in situ)|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
+|Duration|2.5 y (incl. 6 m for transit, 2 y for work)|
+|Mass|wet: 5 306 kg, dry: 2 275 kg, payload: 290.4 kg ([large satellite](sc.md), ([EVN‑073](venus.md)))|
+|Orbit / Site|230 × 230 km|
+|Payload|[SAR](sar.md), spectrometers, magnetomeeters, sounder, oscillator|
+|Power|32 m² solar panels (9 868 W EOL)|
 ||**`Carrier`**|
-|Comms| • carrier: X/S‑band (to‑Earth, to‑in situ), S‑band (to‑in situ) |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
-|Duration| • balloons: 30 d in atmosphere;<br> • landers: 5 h on surface + 1 h of descent |
-|Mass| • carrier wet: 5 578 kg;<br> • balloons: 162.5 kg (22.5 kg payload);<br> • landers: 686 kg (106.2 kg payload) |
-|Orbit / Site| … |
-|Power| • carrier: 4.4 m² solar panels;<br> • balloons: batterie 10.5 kWh;<br> • landers: batterie 6 kWh |
-|Payload| • balloons: pressure/temp/wind detectors, spectrometer, nephelometer, magnetometer, camera;<br> • landers: cameras, magneetometer, nephelometer, radiometer, drilling rig, gamma detector |
+|Comms|• carrier: X/S‑band (to‑Earth, to‑in situ), S‑band (to‑in situ)|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
+|Duration|• balloons: 30 d in atmosphere;<br> • landers: 5 h on surface + 1 h of descent|
+|Mass|• carrier wet: 5 578 kg;<br> • balloons: 162.5 kg (22.5 kg payload);<br> • landers: 686 kg (106.2 kg payload)|
+|Orbit / Site|…|
+|Power|• carrier: 4.4 m² solar panels;<br> • balloons: batterie 10.5 kWh;<br> • landers: batterie 6 kWh|
+|Payload|• balloons: pressure/temp/wind detectors, spectrometer, nephelometer, magnetometer, camera;<br> • landers: cameras, magneetometer, nephelometer, radiometer, drilling rig, gamma detector|
 
 <p style="page-break-after:always"> </p>
 
@@ -65,34 +65,34 @@ Targets & objectives:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑019||Atmosphere: energetic balance.|  |D|||||
-|EVN‑020||Inner structure of the planet.|  |D|||||
-|EVN‑022||Surface: map, precise.|  |D|||||
-|EVN‑023||Surface: mineralogical composition.|  ||C||||
-|EVN‑024||Surface: composition.|  ||C||||
-|EVN‑025||Surface: structure.|  ||C||||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑040||Were there oceans & why have they gone|  |D|C|F|||
-|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
-|EVN‑048||Nature & sources of the greenhouse effect.|  |D||F|||
-|EVN‑050||Causes of the water loss.|  |D|||||
-|EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
-|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|  ||C|||S|
-|EVN‑063|T|Surface: panoramic imaging.|  ||C||||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.|  |D|||||
-|EVN‑088|T|Surface: subsurface investigations.|  ||C||||
-|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
-|EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
-|EVN‑095||Climate: history & causes of changes.|  |D|||||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑006|T|Exploration: from surface.|||C||||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑019||Atmosphere: energetic balance.||D|||||
+|EVN‑020||Inner structure of the planet.||D|||||
+|EVN‑022||Surface: map, precise.||D|||||
+|EVN‑023||Surface: mineralogical composition.|||C||||
+|EVN‑024||Surface: composition.|||C||||
+|EVN‑025||Surface: structure.|||C||||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑027||The causes why Venus evolved in a planet so different from Earth.||D|C|F|||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
+|EVN‑040||Were there oceans & why have they gone||D|C|F|||
+|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
+|EVN‑048||Nature & sources of the greenhouse effect.||D||F|||
+|EVN‑050||Causes of the water loss.||D|||||
+|EVN‑055|T|Atmosphere: sample obtaining & analysis.|||C||||
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|||C|||S|
+|EVN‑063|T|Surface: panoramic imaging.|||C||||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.||D|||||
+|EVN‑088|T|Surface: subsurface investigations.|||C||||
+|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
+|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
+|EVN‑095||Climate: history & causes of changes.||D|||||
 
 </small>
 
@@ -106,8 +106,8 @@ Findings from the report will be used in NASA’s program planning activities & 
 
 |||
 |:--|:--|
-| ![](f/project/v/venus_flagship_mission/vfm_01.jpg) | ![](f/project/v/venus_flagship_mission/vfm_04.jpg) |
-| ![](f/project/v/venus_flagship_mission/vfm_02.jpg) | ![](f/project/v/venus_flagship_mission/vfm_03.png) |
+|![](f/project/v/venus_flagship_mission/vfm_01.jpg)|![](f/project/v/venus_flagship_mission/vfm_04.jpg)|
+|![](f/project/v/venus_flagship_mission/vfm_02.jpg)|![](f/project/v/venus_flagship_mission/vfm_03.png)|
 
 
 
@@ -152,9 +152,9 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))? The science drivin
 
 |*Science Theme*|*Science Objective*|
 |:--|:--|
-| 1. What does the<br> Venus greenhouse<br> tells about<br> climate change | • Understand radiation balance in atmo, clouds & chemical cycles that affect it.<br> • Understand how superrotation ([EVN‑034](venus.md)) & the general circulation work ([EVN‑011](venus.md)).<br> • Look for evidence of climate change at the surface. |
-| 2. How active<br> is Venus | • Current geologic activity, understand the geologic history.<br> • How surface/atmo interactions affect rock chemistry & climate ([EVN‑041](venus.md)).<br> • Place constraints on the structure & dynamics of the interior. |
-| 3. When & where<br> did the water go | • Determine how the early atmosphere evolved.<br> • Identify chemical & isotopic signs of a past ocean. ([EVN‑040](venus.md))<br> • Crustal composition differences & evidence of continent‑like crust. ([EVN‑024,025](venus.md)) |
+|1. What does the<br> Venus greenhouse<br> tells about<br> climate change|• Understand radiation balance in atmo, clouds & chemical cycles that affect it.<br> • Understand how superrotation ([EVN‑034](venus.md)) & the general circulation work ([EVN‑011](venus.md)).<br> • Look for evidence of climate change at the surface.|
+|2. How active<br> is Venus|• Current geologic activity, understand the geologic history.<br> • How surface/atmo interactions affect rock chemistry & climate ([EVN‑041](venus.md)).<br> • Place constraints on the structure & dynamics of the interior.|
+|3. When & where<br> did the water go|• Determine how the early atmosphere evolved.<br> • Identify chemical & isotopic signs of a past ocean. ([EVN‑040](venus.md))<br> • Crustal composition differences & evidence of continent‑like crust. ([EVN‑024,025](venus.md))|
 
 **MAJOR OPEN SCIENTIFIC QUESTIONS ABOUT VENUS**
 
@@ -199,14 +199,14 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))? The science drivin
 ### VDRM Baseline Science Payload
 |*Orbiter*|*2 Balloons*|*Lander 1*|*Lander 2*|
 |:--|:--|:--|:--|
-| Lifetime (4 years) | In atmosphere (1 month) | Descent Phase (1 ‑ 1.5 hour) | Landed Phase (5 hours) |
-| InSAR — Interferometric [Synthetic Aperture Radar](sar.md) | ASI — Atmospheric Science Instrument (pressure, temperature, wind speed) | ASI | Microscopic imager |
-| Vis‑NIR Imaging Spectrometer | GC/MS — Gas Chromatograph / Mass Spectrometer | Vis‑NIR Cameras with spot spectrometry | XRD / XRF |
-| Neutral Ion Mass Spectrometer | Nephelometer | GC / MS | Heat Flux Plate |
-| Sub‑mm Sounder | Vis‑NIR camera | Magnetometer | Passive Gamma Ray Detector |
-| Magnetometer | Magnetometer | Net Flux Radiometer | Sample acquisition, transfer, & preparation |
-| Langmuir Probe | Radio tracking | Nephelometer | Drill to ~10 cm |
-| Radio Subsystem (USO — Ultra Stable Oscillator) |  |  | Microwave Corner reflector |
+|Lifetime (4 years)|In atmosphere (1 month)|Descent Phase (1 ‑ 1.5 hour)|Landed Phase (5 hours)|
+|InSAR — Interferometric [Synthetic Aperture Radar](sar.md)|ASI — Atmospheric Science Instrument (pressure, temperature, wind speed)|ASI|Microscopic imager|
+|Vis‑NIR Imaging Spectrometer|GC/MS — Gas Chromatograph / Mass Spectrometer|Vis‑NIR Cameras with spot spectrometry|XRD / XRF|
+|Neutral Ion Mass Spectrometer|Nephelometer|GC / MS|Heat Flux Plate|
+|Sub‑mm Sounder|Vis‑NIR camera|Magnetometer|Passive Gamma Ray Detector|
+|Magnetometer|Magnetometer|Net Flux Radiometer|Sample acquisition, transfer, & preparation|
+|Langmuir Probe|Radio tracking|Nephelometer|Drill to ~10 cm|
+|Radio Subsystem (USO — Ultra Stable Oscillator)|||Microwave Corner reflector|
 
 
 
@@ -577,12 +577,12 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 |*Photo*|*Bio*||*Photo*|*Bio*|
 |:--|:--|:--|:--|:--|
-|![](f/project/v/venus_flagship_mission/person_balint.jpg)| **[Tibor S. Balint](zz_balint1.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov> | • |![](f/project/v/venus_flagship_mission/person_bullock.jpg)| **[Mark A. Bullock](zz_bullock1.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu> |
-|![](f/project/v/venus_flagship_mission/person_cutts.jpg)| **[James A. Cutts](zz_cutts1.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov> | • |![](f/project/v/venus_flagship_mission/person_grinspoon.jpg)| **[David H. Grinspoon](zz_grinspoon1.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org> |
-|![](f/project/v/venus_flagship_mission/person_hall.jpg)| **[Jeffery L. Hall](zz_hall1.md)**<br> Study Lead Phase 2,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Jeffery.L.Hall@jpl.nasa.gov> | • |![](f/project/v/venus_flagship_mission/person_head.jpg)| **[Jim W. Head](zz_head1.md)**<br> Venus Flagship Mission Science & Technology Definition Team,<br> Brown University,<br> E‑mail:<br> <james_head@brown.edu> |
-|![](f/project/v/venus_flagship_mission/person_kerzhanovich.jpg)| **[Viktor Kerzhanovich](zz_kerzhanovich1.md)**<br> Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Viktor.V.Kerzhanovich@jpl.nasa.gov> | • |![](f/project/v/venus_flagship_mission/person_kolawa.jpg)| **[Elizabeth Kolawa](zz_kolawa1.md)**<br> Lead, Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <elizabeth.a.kolawa@jpl.nasa.gov> |
-|![](f/project/v/venus_flagship_mission/person_kwok.jpg)| **[Johnny Kwok](zz_kwok1.md)**<br> Phase 1 Study Lead,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Johnny.H.Kwok@jpl.nasa.gov> | • |![](f/project/v/venus_flagship_mission/person_peterson.jpg)| **[Craig Peterson](zz_peterson1.md)**<br> JPL Venus Flagship Mission Architecture Study Team,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Craig.E.Peterson@jpl.nasa.gov> |
-|![](f/project/v/venus_flagship_mission/person_senske.jpg)| **[David Senske](zz_senske1.md)**<br> Venus Science & Technology Definition Team (STDT) Vice‑Chair,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <David.A.Senske@jpl.nasa.gov> | • |![](f/project/v/venus_flagship_mission/person_stofan.jpg)| **[Ellen Stofan](zz_stofan1.md)**<br> Former Chair, Venus Exploration Analysis Group (VEXAG),<br> E‑mail:<br> <estofan@starpower.net> |
+|![](f/project/v/venus_flagship_mission/person_balint.jpg)|**[Tibor S. Balint](zz_balint1.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_bullock.jpg)|**[Mark A. Bullock](zz_bullock1.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu>|
+|![](f/project/v/venus_flagship_mission/person_cutts.jpg)|**[James A. Cutts](zz_cutts1.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_grinspoon.jpg)|**[David H. Grinspoon](zz_grinspoon1.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org>|
+|![](f/project/v/venus_flagship_mission/person_hall.jpg)|**[Jeffery L. Hall](zz_hall1.md)**<br> Study Lead Phase 2,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Jeffery.L.Hall@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_head.jpg)|**[Jim W. Head](zz_head1.md)**<br> Venus Flagship Mission Science & Technology Definition Team,<br> Brown University,<br> E‑mail:<br> <james_head@brown.edu>|
+|![](f/project/v/venus_flagship_mission/person_kerzhanovich.jpg)|**[Viktor Kerzhanovich](zz_kerzhanovich1.md)**<br> Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Viktor.V.Kerzhanovich@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_kolawa.jpg)|**[Elizabeth Kolawa](zz_kolawa1.md)**<br> Lead, Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <elizabeth.a.kolawa@jpl.nasa.gov>|
+|![](f/project/v/venus_flagship_mission/person_kwok.jpg)|**[Johnny Kwok](zz_kwok1.md)**<br> Phase 1 Study Lead,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Johnny.H.Kwok@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_peterson.jpg)|**[Craig Peterson](zz_peterson1.md)**<br> JPL Venus Flagship Mission Architecture Study Team,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Craig.E.Peterson@jpl.nasa.gov>|
+|![](f/project/v/venus_flagship_mission/person_senske.jpg)|**[David Senske](zz_senske1.md)**<br> Venus Science & Technology Definition Team (STDT) Vice‑Chair,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <David.A.Senske@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_stofan.jpg)|**[Ellen Stofan](zz_stofan1.md)**<br> Former Chair, Venus Exploration Analysis Group (VEXAG),<br> E‑mail:<br> <estofan@starpower.net>|
 
 
 
@@ -593,7 +593,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Page directory](f/project/v/venus_flagship_mission/)

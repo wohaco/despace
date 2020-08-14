@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. 127/216, 541 «Отдел аппаратуры аппаратных средств систем управления». Зам. начальника комплекса*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* 45-96, 53-01, +7(495)575-53-01; *mobile:* +7(903)112-22-28 |
-|E‑mail| <gavrilin@laspace.ru> |
-|B‑day, addr.| 1952.10.27, на НПОЛ с 1970 / … |
-|| [![](f/contact/g/gavrilin1_photo_thumb.jpg)](f/contact/g/gavrilin1_photo.jpg) [![](f/contact/g/gavrilin1_sign_thumb.jpg)](f/contact/g/gavrilin1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* 45-96, 53-01, +7(495)575-53-01; *mobile:* +7(903)112-22-28|
+|E‑mail|<gavrilin@laspace.ru>|
+|B‑day, addr.|1952.10.27, на НПОЛ с 1970 / …|
+||[![](f/contact/g/gavrilin1_photo_thumb.jpg)](f/contact/g/gavrilin1_photo.jpg) [![](f/contact/g/gavrilin1_sign_thumb.jpg)](f/contact/g/gavrilin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

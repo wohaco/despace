@@ -20,22 +20,22 @@
 
 |*[Меркурий](mercury.md)*|*[Venus](venus.md)*|*[Земля](earth.md)*|*[Луна](moon.md)*|*[Марс](mars.md)*|*[и далее](index.md)*|
 |:--|:--|:--|:--|:--|:--|
-| — | <small>на орбите | + | + | + | + |
+|—|<small>на орбите|+|+|+|+|
 
 **Изображения**
 
-| РИТЭГ КА «[New Horizons](new_horizons.md)» | Схема РИТЭГа, используемого на КА «[Cassini Huygens](cassini_huygens.md)» | РИТЭГ SNAP‑27, применявшийся в полёте «[Аполлона‑14](apollo_14.md)» (в центре) |
+|РИТЭГ КА «[New Horizons](new_horizons.md)»|Схема РИТЭГа, используемого на КА «[Cassini Huygens](cassini_huygens.md)»|РИТЭГ SNAP‑27, применявшийся в полёте «[Аполлона‑14](apollo_14.md)» (в центре)|
 |:--|:--|:--|
-| [![](f/rtg/rtg_new_horizons_rtg_in_phsf_thumb.jpg)](f/rtg/rtg_new_horizons_rtg_in_phsf.jpg)  | [![](f/rtg/rtg_cutdrawing_of_an_gphs-rtg_thumb.jpg)](f/rtg/rtg_cutdrawing_of_an_gphs-rtg.jpg)  | [![](f/rtg/rtg_alsep_apollo_14_rtg_thumb.jpg)](f/rtg/rtg_alsep_apollo_14_rtg.jpg)  |
+|[![](f/rtg/rtg_new_horizons_rtg_in_phsf_thumb.jpg)](f/rtg/rtg_new_horizons_rtg_in_phsf.jpg)|[![](f/rtg/rtg_cutdrawing_of_an_gphs-rtg_thumb.jpg)](f/rtg/rtg_cutdrawing_of_an_gphs-rtg.jpg)|[![](f/rtg/rtg_alsep_apollo_14_rtg_thumb.jpg)](f/rtg/rtg_alsep_apollo_14_rtg.jpg)|
 
 
 
 ## Разновидности
 |*°*|*[Фирма](contact.md)*|*Актуальные*|
 |:--|:--|:--|
-|**RU**| [РФЯЦ-ВНИИЭФ](zz_vniief.md)  |**РИТЭГ:** [РИТЭГ-238-6,5/3](rtg_238_6_5_3.md)<br> **РИТ:** [ТБ-8,5](tb_8_5.md)  |
+|**RU**|[РФЯЦ-ВНИИЭФ](zz_vniief.md)|**РИТЭГ:** [РИТЭГ-238-6,5/3](rtg_238_6_5_3.md)<br> **РИТ:** [ТБ-8,5](tb_8_5.md)|
 |•|• • • • • • • • • • •|• • •|
-|**US**| City Labs | P200  |
+|**US**|City Labs|P200|
 
 
 
@@ -88,8 +88,8 @@
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Радиоизотопный термоэлектрический генератор (РИТЭГ):`**<br> … <br>• • •<br> **РФ:** [РИТЭГ-238-6,5/3](rtg_238_6_5_3.md) ┊ [ТБ-8,5](tb_8_5.md) |
-|**`Средства обеспечения теплового режима (СОТР):`**<br> [Гермоконтейнер](гермоконтейнер.md) ┊ [Насосы для СОТР](сотр_насос.md) ┊ [Покрытия для СОТР](сотр_покрытия.md) ┊ [Радиатор](радиатор.md) ┊ [РИТ (РИТЭГ)](rtg.md) ┊ [Стандартные условия](sctp.md) ┊ [Тепловая труба](hp.md) ┊ [ТЗП](hs.md) ┊ [Тепловой аккумулятор](heat_bank.md) ┊ [ТСП](tsp.md) ┊ [Шторка](thermal_curtain.md) ┊ [ЭВТИ](mli.md) |
+|**`Радиоизотопный термоэлектрический генератор (РИТЭГ):`**<br> … <br>• • •<br> **РФ:** [РИТЭГ-238-6,5/3](rtg_238_6_5_3.md) ┊ [ТБ-8,5](tb_8_5.md)|
+|**`Средства обеспечения теплового режима (СОТР):`**<br> [Гермоконтейнер](гермоконтейнер.md) ┊ [Насосы для СОТР](сотр_насос.md) ┊ [Покрытия для СОТР](сотр_покрытия.md) ┊ [Радиатор](радиатор.md) ┊ [РИТ (РИТЭГ)](rtg.md) ┊ [Стандартные условия](sctp.md) ┊ [Тепловая труба](hp.md) ┊ [ТЗП](hs.md) ┊ [Тепловой аккумулятор](heat_bank.md) ┊ [ТСП](tsp.md) ┊ [Шторка](thermal_curtain.md) ┊ [ЭВТИ](mli.md)|
 |**··• [Spacecraft power system (SPS)](sps.md) •··**<br> [ACUER](acuer.md) ┊ [Charge eff.](charge_eff.md) ┊ [EB](eb.md) ┊ [EMI, RFI](emi.md) ┊ [NR](nr.md) ┊ [Rotor](rotor.md) ┊ [RTG](rtg.md) ┊ [Solar cell](solar_cell.md) ┊ [SP](sp.md) ┊ [SPB/USPB](suspb.md) ┊ [Voltage](voltage.md) ┊ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK-01](bak_01.md) ┊ [KAS‑LOA](kas_loa.md)|
 
    1. Docs: …

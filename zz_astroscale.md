@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/astroscale_logo1_thumb.png)](f/contact/a/astroscale_logo1.png)|*1-16-4 Kinshi, Sumida, Tokyo 130-0013, JP*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://astroscale.com/><br> <https://twitter.com/astroscale_HQ><br> <https://www.linkedin.com/company/astroscale/> |
-|Tel| +81-3-6658-8175, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://astroscale.com/><br> <https://twitter.com/astroscale_HQ><br> <https://www.linkedin.com/company/astroscale/>|
+|Tel|+81-3-6658-8175, ℻: …|
 
 **Astroscale** is the 1st private company with a mission to secure long‑term spaceflight safety & orbital sustainability for the benefit of future generations. Founded in 2013, Astroscale is developing innovative & scalable solutions for [satellite](sc.md) end‑of‑life & active debris removal services to mitigate the growing & hazardous build‑up of debris in space.
 

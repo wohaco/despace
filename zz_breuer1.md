@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[DLR](zz_dlr.md), EU(GR). Department of Planetary Physics. Head of the Department*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +49(30)670-55-301, ℻: +49(30)670-55-303; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| <mark>nodate</mark> 1965, Mönchengladbach, GR / … |
-|| [![](f/contact/b/breuer1_photo_thumb.jpg)](f/contact/b/breuer1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +49(30)670-55-301, ℻: +49(30)670-55-303; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|<mark>nodate</mark> 1965, Mönchengladbach, GR / …|
+||[![](f/contact/b/breuer1_photo_thumb.jpg)](f/contact/b/breuer1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geophysics, Westfälische-Wilhelms-Universität (WWU) in Münster, Germany, 1995. PostDoc, Department of Geology & Geophysics, Univ. of Minnesota & at the Minnesota Supercomputer Institute, US, 1997.
    - **Exp.:** After 1997, she was Assistant Professor at the Institute of Planetology (WWU) in Münster, for 6 years. She currently works at the DLR, Institute of Planetary Research in Berlin, where she is Head of the Department of Planetary Physics since 2004. She is also Associate Professor at the Institute de Physique du Globe de Paris (since 2005). She has been involved in scientific teams for various space experiments, such as HP3 (Heat Flow & Physical Properties Package) for ExoMars, MORE (Mercury Orbiter Radioscience Experiment) & BELA (BepiColombo Laser altimeter) on the BepiColombo mission to Mercury.

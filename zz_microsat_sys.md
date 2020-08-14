@@ -3,9 +3,9 @@
 
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| … |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|…|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 …
 

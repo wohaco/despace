@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
 |:--|:--|
-|B‑day, addr.| 1979.10.31 Algeciras, Spain / … |
-|E‑mail| <javier.peralta@jaxa.jp> |
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +81(5)033-624-802; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/p/peralta1_photo_thumb.jpg)](f/contact/p/peralta1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|B‑day, addr.|1979.10.31 Algeciras, Spain / …|
+|E‑mail|<javier.peralta@jaxa.jp>|
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +81(5)033-624-802; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/p/peralta1_photo_thumb.jpg)](f/contact/p/peralta1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Physics, University of the Basque Country, Spain, 2009. BS/MS, Physics (Astrophysics & Applied Physics), University of La Laguna, Spain, 2003.
    - **Exp.:** …

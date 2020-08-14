@@ -10,45 +10,45 @@
 ## Характеристики
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Flight from Earth| … ‑ … мес на ЖРДУ (… ‑ … суток) |
-|Signal from Earth| … ‑ … минут |
-|Distance from Earth| … ‑ … млн км |
-|Breaking to the orbit| не более … ‑ … минут |
+|Flight from Earth|… ‑ … мес на ЖРДУ (… ‑ … суток)|
+|Signal from Earth|… ‑ … минут|
+|Distance from Earth|… ‑ … млн км|
+|Breaking to the orbit|не более … ‑ … минут|
 |**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)| … км (… а.е.);<br> … км (… [а.е.](si.md)) |
-|[Argument of periapsis](keplerian.md) (ω)| … |
-|[Semimajor axis](keplerian.md) (a)| … км (… а.е.) |
-|Orbital velocity (Ⅴ)| … km/s |
-|Day/year| … / … земных |
-|[Longit. of asc.node](keplerian.md) (Ω)| … |
-|[Inclination](keplerian.md) (Ⅰ)| …° (от солнечного экватора);<br> …° (от эклиптики);<br> …° (от инвариантной плоскости) |
-|[Sider. rotat.period](astroperiod.md) (T, day)| … дня |
-|[Sidereal period](astroperiod.md) (year)| … дней (… д … ч … мин … с) |
-|[Synodic period](astroperiod.md)| … дней (… д … ч … мин … с) |
-|Satellites| … |
-|[Hill sphere](hill_sphere.md)| … км |
-|Satellite of| … |
-|[Eccentricity](keplerian.md) (e)| … |
+|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|… км (… а.е.);<br> … км (… [а.е.](si.md))|
+|[Argument of periapsis](keplerian.md) (ω)|…|
+|[Semimajor axis](keplerian.md) (a)|… км (… а.е.)|
+|Orbital velocity (Ⅴ)|… km/s|
+|Day/year|… / … земных|
+|[Longit. of asc.node](keplerian.md) (Ω)|…|
+|[Inclination](keplerian.md) (Ⅰ)|…° (от солнечного экватора);<br> …° (от эклиптики);<br> …° (от инвариантной плоскости)|
+|[Sider. rotat.period](astroperiod.md) (T, day)|… дня|
+|[Sidereal period](astroperiod.md) (year)|… дней (… д … ч … мин … с)|
+|[Synodic period](astroperiod.md)|… дней (… д … ч … мин … с)|
+|Satellites|…|
+|[Hill sphere](hill_sphere.md)|… км|
+|Satellite of|…|
+|[Eccentricity](keplerian.md) (e)|…|
 |**Physics:**|• • •|
-|[1st escape velocity](esc_vel.md) (v₁)| … km/s <small>(… земной)</small> |
-|[2nd escape velocity](esc_vel.md) (v₂)| … km/s <small>(… земной)</small> |
-|[Albedo](albedo.md)| … (геометрическое);<br> … (Бонда) |
-|[Apparent magnitude](app_mag.md) (m)| … |
-|[Magnetic field](mag_field.md)| … ‑ … А/м <small>(… ‑ … земного)</small> |
-|Mass (m)| … кг <small>(… земной)</small> |
-|Axial tilt| …° |
-|Volume (Ⅴ)| … km³ <small>(… земного)</small> |
-|Mean density (ρ)| … г/cm³ (средняя, <small>… земной</small>) |
-|Surface area (S)| … km² <small>(… земной)</small> |
-|Flattening| … |
-|Radius| … км (средний, <small>… земного</small>) |
-|[Surface gravity](g.md)| … m/s² <small>(… земного)</small> |
-|Equatorial rotation velocity| … км/ч <small>(… земной)</small> |
+|[1st escape velocity](esc_vel.md) (v₁)|… km/s <small>(… земной)</small>|
+|[2nd escape velocity](esc_vel.md) (v₂)|… km/s <small>(… земной)</small>|
+|[Albedo](albedo.md)|… (геометрическое);<br> … (Бонда)|
+|[Apparent magnitude](app_mag.md) (m)|…|
+|[Magnetic field](mag_field.md)|… ‑ … А/м <small>(… ‑ … земного)</small>|
+|Mass (m)|… кг <small>(… земной)</small>|
+|Axial tilt|…°|
+|Volume (Ⅴ)|… km³ <small>(… земного)</small>|
+|Mean density (ρ)|… г/cm³ (средняя, <small>… земной</small>)|
+|Surface area (S)|… km² <small>(… земной)</small>|
+|Flattening|…|
+|Radius|… км (средний, <small>… земного</small>)|
+|[Surface gravity](g.md)|… m/s² <small>(… земного)</small>|
+|Equatorial rotation velocity|… км/ч <small>(… земной)</small>|
 |**Temperature & atmosph.:**|• • •|
-|[Atmosphere](atmosphere.md)|**Pressure** … МПа (… бар).<br> **Плотность** … kg/m³.<br> **Ветер:**<br> … ‑ … m/s (поверхность).<br> **Состав:**<br> …. |
-|[Освещённость](illum.md)|  |
-|Радиация|  |
-|Температура|  |
+|[Atmosphere](atmosphere.md)|**Pressure** … МПа (… бар).<br> **Плотность** … kg/m³.<br> **Ветер:**<br> … ‑ … m/s (поверхность).<br> **Состав:**<br> ….|
+|[Освещённость](illum.md)||
+|Радиация||
+|Температура||
 
 
 
@@ -112,13 +112,13 @@
 |Ⓛ|*✔*|*Космич.аппарат (инд.)*|*Дата (UTC)*|*Д*|*К*|*Г*|*Т*|*Л*|*П*|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |`—`|—|**Proposed:**|—|—|—|—|—|—|—|—|
-||…| … | … ||||||| <mark>TBD</mark> |
+||…|…|…|||||||<mark>TBD</mark>|
 |`—`|—|**Developing:**|—|—|—|—|—|—|—|—|
-||…| … | … ||||||| <mark>TBD</mark> |
+||…|…|…|||||||<mark>TBD</mark>|
 |`—`|—|**Active:**|—|—|—|—|—|—|—|—|
-||…| … | … ||||||| <mark>TBD</mark> |
+||…|…|…|||||||<mark>TBD</mark>|
 |`—`|—|**Past:**|—|—|—|—|—|—|—|—|
-||…| … | … ||||||| <mark>TBD</mark> |
+||…|…|…|||||||<mark>TBD</mark>|
 
 </small>
 
@@ -149,20 +149,20 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 
 |*…‑XXX*|*T*|*RU*|*EN*|
 |:--|:--|:--|:--|
-||| **`Не проводилось`** | **`Never occured`** |
-| […‑001](….md) || Атмосфера: модель, черновая. | Atmosphere: preliminary model. |
-| […‑007](….md) || Наклон оси. | Spin axis. |
-| […‑002](….md) || Поверхность: карта, черновая. | Surface: preliminary map. |
-| […‑003](….md) |T| Исследование: изнутри атмосферы. | Exploration: from inside of atmosphere. |
-| […‑004](….md) |T| Исследование: с Земли. | Exploration: from Earth. |
-| […‑005](….md) |T| Исследование: с ОИСВ. | Exploration: from venusian orbit. |
-| […‑006](….md) |T| Исследование: с поверхности. | Exploration: from surface. |
+|||**`Не проводилось`**|**`Never occured`**|
+|[…‑001](….md)||Атмосфера: модель, черновая.|Atmosphere: preliminary model.|
+|[…‑007](….md)||Наклон оси.|Spin axis.|
+|[…‑002](….md)||Поверхность: карта, черновая.|Surface: preliminary map.|
+|[…‑003](….md)|T|Исследование: изнутри атмосферы.|Exploration: from inside of atmosphere.|
+|[…‑004](….md)|T|Исследование: с Земли.|Exploration: from Earth.|
+|[…‑005](….md)|T|Исследование: с ОИСВ.|Exploration: from venusian orbit.|
+|[…‑006](….md)|T|Исследование: с поверхности.|Exploration: from surface.|
 |• • •|•|• • •|• • •|
-||| **`Завершено частично`** | **`Was tried`** |
-| … || … | … |
+|||**`Завершено частично`**|**`Was tried`**|
+|…||…|…|
 |• • •|•|• • •|• • •|
-||| **`В целом завершено`** | **`Mostly done`** |
-| … || … | … |
+|||**`В целом завершено`**|**`Mostly done`**|
+|…||…|…|
 
 </small>
 

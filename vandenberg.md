@@ -15,14 +15,14 @@ Vandenberg’s location is North of the Pacific ocean — as opposed to [the Ken
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1941 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Atlas 5](atlas.md) ┊ [Delta 4](delta.md) ┊ [Falcon](falcon.md) ┊ [Minotaur](minotaur.md) ┊ [Pegasus](pegasus.md) ┊ **Taurus** ┊ **different ICBMs**  |
-| Operator  | United States Air Force |
-| Location  | 34°43′57″N 120°34′05″W<br> Santa Barbara County, California, USA  |
-| Distance  | 4 200 km — to the equator;<br> 14 300 km — to [NPO Lavochkin](zz_lav.md);<br> 250 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 11 (6 active)  |
-|| [![](f/spaceport/vandenberg/pic1_thumb.jpg)](f/spaceport/vandenberg/pic1.jpg)  [![](f/spaceport/vandenberg/map1_thumb.jpg)](f/spaceport/vandenberg/map1.png)   [![](f/spaceport/vandenberg/map2_thumb.jpg)](f/spaceport/vandenberg/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1941 ‑ …)|
+|[Launch vehicles](lv.md)|[Atlas 5](atlas.md) ┊ [Delta 4](delta.md) ┊ [Falcon](falcon.md) ┊ [Minotaur](minotaur.md) ┊ [Pegasus](pegasus.md) ┊ **Taurus** ┊ **different ICBMs**|
+|Operator|United States Air Force|
+|Location|34°43′57″N 120°34′05″W<br> Santa Barbara County, California, USA|
+|Distance|4 200 km — to the equator;<br> 14 300 km — to [NPO Lavochkin](zz_lav.md);<br> 250 km — to [JPL](zz_jpl.md)|
+|Launch pad|11 (6 active)|
+||[![](f/spaceport/vandenberg/pic1_thumb.jpg)](f/spaceport/vandenberg/pic1.jpg)  [![](f/spaceport/vandenberg/map1_thumb.jpg)](f/spaceport/vandenberg/map1.png)   [![](f/spaceport/vandenberg/map2_thumb.jpg)](f/spaceport/vandenberg/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

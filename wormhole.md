@@ -11,9 +11,9 @@
 
 
 ## Иллюстрации
-| Кротовая нора и смелый путешественник.  |
+|Кротовая нора и смелый путешественник.|
 |:--|
-| ![](f/aob/universe/krotovaya-nora-and-krot.jpg)  |
+|![](f/aob/universe/krotovaya-nora-and-krot.jpg)|
 
 
 

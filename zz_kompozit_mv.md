@@ -3,9 +3,9 @@
 
 |[![](f/contact/k/kompozit_logo1_thumb.jpg)](f/contact/k/kompozit_logo1.png)|*Россия, 141070, г. Королёв, Московская обл., Пионерская ул., 4*|
 |:--|:--|
-|E‑mail| <info@kompozit-mv.ru> |
-|Link| <http://kompozit-mv.ru/><br> <http://www.federalspace.ru/1532/> |
-|Tel| +7(495)513-20-28 — приёмная, +7(495)513-22-56 — канцелярия, ℻: +7(495)516-06-17 |
+|E‑mail|<info@kompozit-mv.ru>|
+|Link|<http://kompozit-mv.ru/><br> <http://www.federalspace.ru/1532/>|
+|Tel|+7(495)513-20-28 — приёмная, +7(495)513-22-56 — канцелярия, ℻: +7(495)516-06-17|
 
 **Композит** — головная организация России в области материаловедения по ракетно‑космической технике.
 

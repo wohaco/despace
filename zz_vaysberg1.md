@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU.*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <olegv@iki.rssi.ru> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)333-34-56; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/v/vaysberg1_photo.jpg) [![](f/contact/v/vaysberg1_sign_thumb.jpg)](f/contact/v/vaysberg1_sign.png) |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<olegv@iki.rssi.ru>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)333-34-56; *mobile:* <mark>nomobile</mark>|
+||![](f/contact/v/vaysberg1_photo.jpg) [![](f/contact/v/vaysberg1_sign_thumb.jpg)](f/contact/v/vaysberg1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

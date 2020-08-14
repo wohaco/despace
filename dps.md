@@ -10,9 +10,9 @@ The **Division for Planetary Sciences (DPS)** is a division within the American 
 
 |[![](f/contact/d/dps_logo1_thumb.jpg)](f/contact/d/dps_logo1.png)|*American Astronomical Society, 1667 K Street NW, Suite 800, Washington, DC 20006*|
 |:--|:--|
-|E‑mail| <DPS.Webmaster@aas.org> |
-|Link| <https://dps.aas.org/><br> <https://twitter.com/DPSCommittee> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<DPS.Webmaster@aas.org>|
+|Link|<https://dps.aas.org/><br> <https://twitter.com/DPSCommittee>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 DPS has held meetings annually since 1970. The current average attenders number is ~1700.
 
@@ -50,58 +50,58 @@ If you are not an active member of one of the above societies, you may neverthel
 
 |*№*|*City*|*Date*|*Science Organizing Chairs*|*Local Organizing Chairs*|
 |:--|:--|:--|:--|:--|
-| 51st | Geneva, Switzerland | Sep 2019 | Maria Cristina De Sanctis, Joe<br> Spitale, Frank Sohl, & Devon Burr | Stéphane Udry, Ravit Helled, & Josh Emery |
-| 50th | Knoxville, TN | Oct 2018 | Devon Burr | Josh Emery |
-| 49th | Provo, UT | Oct 2017 | David O'Brien | Jani Radebaugh |
-| 48th | Pasadena, CA | Oct 2016 | Kevin Baines | Diana Blaney |
-| 47th | National Harbor, MD | Nov 2015 | Neil Dello Russo | Andy Rivkin |
-| 46th | Tucson, AZ | Nov 2014 | Faith Vilas | Joe Spitale |
-| 45th | Denver, CO | Oct 2013 | John Spencer | Fran Bagenal |
-| 44th | Reno, NV | Oct 2012 | Nancy Chanover | Marla Moore |
-| 43rd | Nantes, France | Oct 2011 | Manuel Grande & Renu Malhorta | Olivier Grasset & Melissa McGrath |
-| 42nd | Pasadena, CA | Oct 2010 | Kevin Baines | Amanda Hendrix |
-| 41st | Fajardo, Puerto Rico | Oct 2009 | Ellen Howell | Mike Nolan |
-| 40th | Ithaca, NY | Oct 2008 | Jean-Luc Margot | Jim Bell & Beth Clark |
-| 39th | Orlando, FL | Oct 2007 | Dan Britt | Humbero Campins |
-| 38th | Pasadena, CA | Oct 2006 | Kevin Baines | Alan W. Harris |
-| 37th | Cambridge, England | Sep 2005 | Carl Murray | Simon Mitton |
-| 36th | Louisville, KY | Nov 2004 | Dan Britt | Timothy Dowling |
-| 35th | Monterey, CA | Sep 2003 | Jeffrey Moore | Ted Roush |
-| 34th | Birmingham, AL | Oct 2002 | Philip B. James | Hunter Waite |
-| 33rd | New Orleans, LA | Nov 2001 | William McKinnon & S. Alan Stern | S. Alan Stern & Marc Buie |
-| 32nd | Pasadena, CA | Oct 2000 | Paul Weissman | William Smythe & Rosaly Lopes |
-| 31st | Padova, Italy | Oct 1999 | Guy Consolmagno | Gianluca Bianchini |
-| 30th | Madison, WI | Oct 1998 | Lawrence Sromovsky | Sanjay Limaye |
-| 29th | Cambridge, MA | July 1997 | Heidi Hammel | Richard Binzel |
-| 28th | Tucson, AZ | Oct 1996 | Mark Sykes | Stephen Larson |
-| 27th | Kona, HI | Oct 1995 | Thomas B. McCord | Karen Meech |
-| 26th | Bethesda, MD | Oct 1994 | Barney Conrath | Michael Mumma |
-| 25th | Boulder, CO | Oct 1993 | Nick Schneider | Bruce Jakosky |
-| 24th | Munich, Germany | Oct 1992 | Michael J. Belton | Gerhard Neukum |
-| 23rd | Palo Alto, CA | Nov 1991 | Carol Stoker | Christopher McKay |
-| 22nd | Charlottesville, VA | Oct 1990 | Alan Howard | Robert Johnson |
-| 21st | Providence, RI | Oct 1989 | Michael J. Gaffey | Carle Pieters |
-| 20th | Austin, TX | Oct 1988 | Ed Barker | Anita Cochran & William Cochran |
-| 19th | Pasadena, CA | Nov 1987 | Terry Martin | Kevin Baines |
-| 18th | Paris, France | Nov 1986 | Andre Brahic | Catherine de Bergh |
-| 17th | Baltimore, MD | Oct 1985 | Darrell Strobel | Paul Feldman |
-| 16th | Kailua-Kona, HI | Oct 1984 | Thomas B. McCord | David Morrison |
-| 15th | Ithaca, NY | Oct 1983 | Steven J. Ostro | Joseph Burns |
-| 14th | Boulder, CO | Oct 1982 | Robert West | Larry Esposito |
-| 13th | Pittsburgh, PA | Oct 1981 | Michael J. Belton | Bruce Hapke |
-| 12th | Tucson, AZ | Oct 1980 | Bradford Smith | William Boynton |
-| 11th | St. Louis, MO | Oct 1979 | Raymond E. Arvidson | L. Gehret |
-| 10th | Pasadena, CA | Oct 1978 | Jay T. Bergstralh | Glenn Orton |
-| 9th | Boston, MA | Oct 1977 | Aviva Brecher | William Ward |
-| 8th | Honolulu, HI | Jan 1977 | Clark Chapman | Carl Pilcher |
-| 7th | Austin, TX | Mar 1976 | Laurence Trafton | Harlan J. Smith |
-| 6th | Columbia, MD | Feb 1975 | Dale Cruikshank | Norman Spencer |
-| 5th | Palo Alto, CA | Apr 1974 | Joseph Veverka | James B. Pollack |
-| 4th | Tucson, AZ | Mar 1973 | Bradford Smith | Truman Parkinson |
-| 3rd | Kailua-Kona, HI | Mar 1972 | Thomas B. McCord | Robert Murphy & David Morrison |
-| 2nd | Tallahassee, FL | Feb 1971 | Guido Munch | Seymour Hess |
-| 1st | San Francisco, CA | Jan 1970 | Richard Goody | Joseph W. Chamberlain |
-| 0th | Austin, TX | Dec 1968 | Carl Sagan | Harlan J. Smith |
+|51st|Geneva, Switzerland|Sep 2019|Maria Cristina De Sanctis, Joe<br> Spitale, Frank Sohl, & Devon Burr|Stéphane Udry, Ravit Helled, & Josh Emery|
+|50th|Knoxville, TN|Oct 2018|Devon Burr|Josh Emery|
+|49th|Provo, UT|Oct 2017|David O'Brien|Jani Radebaugh|
+|48th|Pasadena, CA|Oct 2016|Kevin Baines|Diana Blaney|
+|47th|National Harbor, MD|Nov 2015|Neil Dello Russo|Andy Rivkin|
+|46th|Tucson, AZ|Nov 2014|Faith Vilas|Joe Spitale|
+|45th|Denver, CO|Oct 2013|John Spencer|Fran Bagenal|
+|44th|Reno, NV|Oct 2012|Nancy Chanover|Marla Moore|
+|43rd|Nantes, France|Oct 2011|Manuel Grande & Renu Malhorta|Olivier Grasset & Melissa McGrath|
+|42nd|Pasadena, CA|Oct 2010|Kevin Baines|Amanda Hendrix|
+|41st|Fajardo, Puerto Rico|Oct 2009|Ellen Howell|Mike Nolan|
+|40th|Ithaca, NY|Oct 2008|Jean-Luc Margot|Jim Bell & Beth Clark|
+|39th|Orlando, FL|Oct 2007|Dan Britt|Humbero Campins|
+|38th|Pasadena, CA|Oct 2006|Kevin Baines|Alan W. Harris|
+|37th|Cambridge, England|Sep 2005|Carl Murray|Simon Mitton|
+|36th|Louisville, KY|Nov 2004|Dan Britt|Timothy Dowling|
+|35th|Monterey, CA|Sep 2003|Jeffrey Moore|Ted Roush|
+|34th|Birmingham, AL|Oct 2002|Philip B. James|Hunter Waite|
+|33rd|New Orleans, LA|Nov 2001|William McKinnon & S. Alan Stern|S. Alan Stern & Marc Buie|
+|32nd|Pasadena, CA|Oct 2000|Paul Weissman|William Smythe & Rosaly Lopes|
+|31st|Padova, Italy|Oct 1999|Guy Consolmagno|Gianluca Bianchini|
+|30th|Madison, WI|Oct 1998|Lawrence Sromovsky|Sanjay Limaye|
+|29th|Cambridge, MA|July 1997|Heidi Hammel|Richard Binzel|
+|28th|Tucson, AZ|Oct 1996|Mark Sykes|Stephen Larson|
+|27th|Kona, HI|Oct 1995|Thomas B. McCord|Karen Meech|
+|26th|Bethesda, MD|Oct 1994|Barney Conrath|Michael Mumma|
+|25th|Boulder, CO|Oct 1993|Nick Schneider|Bruce Jakosky|
+|24th|Munich, Germany|Oct 1992|Michael J. Belton|Gerhard Neukum|
+|23rd|Palo Alto, CA|Nov 1991|Carol Stoker|Christopher McKay|
+|22nd|Charlottesville, VA|Oct 1990|Alan Howard|Robert Johnson|
+|21st|Providence, RI|Oct 1989|Michael J. Gaffey|Carle Pieters|
+| 20th|Austin, TX|Oct 1988|Ed Barker|Anita Cochran & William Cochran|
+|19th|Pasadena, CA|Nov 1987|Terry Martin|Kevin Baines|
+|18th|Paris, France|Nov 1986|Andre Brahic|Catherine de Bergh|
+|17th|Baltimore, MD|Oct 1985|Darrell Strobel|Paul Feldman|
+|16th|Kailua-Kona, HI|Oct 1984|Thomas B. McCord|David Morrison|
+|15th|Ithaca, NY|Oct 1983|Steven J. Ostro|Joseph Burns|
+|14th|Boulder, CO|Oct 1982|Robert West|Larry Esposito|
+|13th|Pittsburgh, PA|Oct 1981|Michael J. Belton|Bruce Hapke|
+|12th|Tucson, AZ|Oct 1980|Bradford Smith|William Boynton|
+|11th|St. Louis, MO|Oct 1979|Raymond E. Arvidson|L. Gehret|
+|10th|Pasadena, CA|Oct 1978|Jay T. Bergstralh|Glenn Orton|
+|9th|Boston, MA|Oct 1977|Aviva Brecher|William Ward|
+|8th|Honolulu, HI|Jan 1977|Clark Chapman|Carl Pilcher|
+|7th|Austin, TX|Mar 1976|Laurence Trafton|Harlan J. Smith|
+|6th|Columbia, MD|Feb 1975|Dale Cruikshank|Norman Spencer|
+|5th|Palo Alto, CA|Apr 1974|Joseph Veverka|James B. Pollack|
+|4th|Tucson, AZ|Mar 1973|Bradford Smith|Truman Parkinson|
+|3rd|Kailua-Kona, HI|Mar 1972|Thomas B. McCord|Robert Murphy & David Morrison|
+|2nd|Tallahassee, FL|Feb 1971|Guido Munch|Seymour Hess|
+|1st|San Francisco, CA|Jan 1970|Richard Goody|Joseph W. Chamberlain|
+|0th|Austin, TX|Dec 1968|Carl Sagan|Harlan J. Smith|
 
 </small>
 
@@ -112,7 +112,7 @@ If you are not an active member of one of the above societies, you may neverthel
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
+|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
 
    1. Docs: …
    1. Notable interwikies — …

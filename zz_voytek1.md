@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Headquarters. Director of the Astrobiology Program*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> 1959 / … |
-|E‑mail| <mary.voytek-1@nasa.gov> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(202)358-15-77, ℻: +1(202)358-30-97; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/v/voytek1_photo_thumb.jpg)](f/contact/v/voytek1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|<mark>nodate</mark> 1959 / …|
+|E‑mail|<mary.voytek-1@nasa.gov>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(202)358-15-77, ℻: +1(202)358-30-97; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/v/voytek1_photo_thumb.jpg)](f/contact/v/voytek1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biology/Ocean Sciences, California Univ., 1995. MS, Biological Oceanography, Rhode Island Univ., 1984. BA, Biology, J. Hopkins Univ., 1980.
    - **Exp.:** Dr. Voytek’s primary scientific interests are biogeochemistry & aquatic microbial ecology; more particularly, environmental controls on microbial transformations of nutrients, xenobiotics, & metals in freshwater & marine systems. She has worked in several extreme environments, including Antarctica, hypersaline lakes, deep-sea hydrothermal vents, & terrestrial deep-subsurface sites. Dr. Voytek has conducted deep-biosphere studies at the Chesapeake Bay Impact Structure.

@@ -11,9 +11,9 @@
 
 |*Version*|*Description*|*Activity*|
 |:--|:--|:--|
-|Протон  (УР‑500, 8К82)  |Базовый вариант. | Экспл. завершена (1965 ‑ 1966)  |
-|├ Протон‑К  (УР‑500К, 8К82К)  |Модификация Протон. | Экспл. завершена (1967 ‑ 2012)  |
-|┕ Протон‑М  (8К82КМ)  |Модификация Протон‑К. |**Активен** (2001 ‑ …)  |
+|Протон  (УР‑500, 8К82)|Базовый вариант.|Экспл. завершена (1965 ‑ 1966)|
+|├ Протон‑К  (УР‑500К, 8К82К)|Модификация Протон.|Экспл. завершена (1967 ‑ 2012)|
+|┕ Протон‑М  (8К82КМ)|Модификация Протон‑К.|**Активен** (2001 ‑ …)|
 
 [![](f/lv/proton/early_proton-k_rocket_versions_thumb.jpg)](f/lv/proton/early_proton-k_rocket_versions.jpg)
 
@@ -36,24 +36,24 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Активность  |**Активен** (2001.04.07 ‑ …)  |
-|[Аналоги](analogue.md)  | [Ariane 5](arian.md) (Европа) ┊ [Atlas 5](atlas.md) (США) ┊ [Delta‑4 Heavy](delta.md) (США) ┊ [Falcon 9](falcon.md) (США) ┊ [GSLV Mk.III](gslv.md) (Индия) ┊ [H‑IIB](h2.md) (Япония) ┊ [Long March 3B](long_march.md) (Китай) ┊ [Long March 5](long_march.md) (Китай) ┊ [Ангара‑А5](angara.md) (РФ) ┊ [Зенит‑3SL](zenit.md) (РФ)  |
-|Длина/диаметр  | 58.2 м / 4.1 ‑ 7.4 м  |
-|[Космодромы](spaceport.md)  | [Байконур](baikonur.md) ┊ [Восточный](vostochny.md)  |
-|Масса старт./сух.  | 705 000 кг / 30 600 кг  |
-|Разраб./изготов.  | [ГКНПЦ Хруничева](zz_khrunichev.md) (КБ «Салют», Россия) / [ГКНПЦ Хруничева](zz_khrunichev.md) (КБ «Салют», Россия)  |
-|Ступени  | 3‑4 (РБ: [Блок ДМ](блок_д.md), [Бриз‑М](бриз.md))  |
-|[Топливо](fuel.md)  | [АТ + НДМГ](at_plus.md)  |
-|| [![](f/lv/proton/proton-m_thumb.jpg)](f/lv/proton/proton-m.jpg)  |
+|Активность|**Активен** (2001.04.07 ‑ …)|
+|[Аналоги](analogue.md)|[Ariane 5](arian.md) (Европа) ┊ [Atlas 5](atlas.md) (США) ┊ [Delta‑4 Heavy](delta.md) (США) ┊ [Falcon 9](falcon.md) (США) ┊ [GSLV Mk.III](gslv.md) (Индия) ┊ [H‑IIB](h2.md) (Япония) ┊ [Long March 3B](long_march.md) (Китай) ┊ [Long March 5](long_march.md) (Китай) ┊ [Ангара‑А5](angara.md) (РФ) ┊ [Зенит‑3SL](zenit.md) (РФ)|
+|Длина/диаметр|58.2 м / 4.1 ‑ 7.4 м|
+|[Космодромы](spaceport.md)|[Байконур](baikonur.md) ┊ [Восточный](vostochny.md)|
+|Масса старт./сух.|705 000 кг / 30 600 кг|
+|Разраб./изготов.|[ГКНПЦ Хруничева](zz_khrunichev.md) (КБ «Салют», Россия) / [ГКНПЦ Хруничева](zz_khrunichev.md) (КБ «Салют», Россия)|
+|Ступени|3‑4 (РБ: [Блок ДМ](блок_д.md), [Бриз‑М](бриз.md))|
+|[Топливо](fuel.md)|[АТ + НДМГ](at_plus.md)|
+||[![](f/lv/proton/proton-m_thumb.jpg)](f/lv/proton/proton-m.jpg)|
 
 **Выводимые массы.**
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-| [Байконур](baikonur.md)  | Протон‑М<br> + [Бриз‑М](бриз.md)  | 23 | 3.7 | 5.5 ‑ 5.7 | 5.05 ‑ 5.6 | 5.05 ‑ 5.6 | Пуск — $ 65 млн (2017 г);<br> ПН 3.26 % от ст.массы  |
-| [Байконур](baikonur.md)  | Протон‑М<br> + [ДМ-03](блок‑д.md)  | 21.38  |  3.44  |  5.7 ‑ 5.9  |  5.12 ‑ 5.75  |  5.12 ‑ 5.75 | Пуск — $ 65 млн (2017 г);<br> ПН 3.03 % от ст.массы  |
-| [Восточный](vostochny.md)  | Протон‑М<br> + [Бриз‑М](бриз.md)  | 23  |  3.7  |  5.5 ‑ 5.7  |  5.05 ‑ 5.6  |  5.05 ‑ 5.6 | Пуск — $ 65 млн (2017 г);<br> ПН 3.26 % от ст.массы  |
-| [Восточный](vostochny.md)  | Протон‑М<br> + [ДМ-03](блок‑д.md)  | 21.38  |  3.44  |  5.7 ‑ 5.9  |  5.12 ‑ 5.75  |  5.12 ‑ 5.75 | Пуск — $ 65 млн (2017 г);<br> ПН 3.03 % от ст.массы  |
+|[Байконур](baikonur.md)|Протон‑М<br> + [Бриз‑М](бриз.md)|23|3.7|5.5 ‑ 5.7|5.05 ‑ 5.6|5.05 ‑ 5.6|Пуск — $ 65 млн (2017 г);<br> ПН 3.26 % от ст.массы|
+|[Байконур](baikonur.md)|Протон‑М<br> + [ДМ-03](блок‑д.md)|21.38|3.44|5.7 ‑ 5.9|5.12 ‑ 5.75|5.12 ‑ 5.75|Пуск — $ 65 млн (2017 г);<br> ПН 3.03 % от ст.массы|
+|[Восточный](vostochny.md)|Протон‑М<br> + [Бриз‑М](бриз.md)|23|3.7|5.5 ‑ 5.7|5.05 ‑ 5.6|5.05 ‑ 5.6|Пуск — $ 65 млн (2017 г);<br> ПН 3.26 % от ст.массы|
+|[Восточный](vostochny.md)|Протон‑М<br> + [ДМ-03](блок‑д.md)|21.38|3.44|5.7 ‑ 5.9|5.12 ‑ 5.75|5.12 ‑ 5.75|Пуск — $ 65 млн (2017 г);<br> ПН 3.03 % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
 
@@ -69,15 +69,15 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Активность  | Экспл. завершена (1965.07.16 ‑ 1966.07.06)  |
-|[Аналоги](analogue.md)  | в годы активности отсутствуют  |
-|Длина/диаметр  | 58.2 м / 4.1 ‑ 7.4 м  |
-|[Космодромы](spaceport.md)  | [Байконур](baikonur.md)  |
-|Масса старт./сух.  | 656 000 кг / 42 500 кг  |
-|Разраб./изготов.  | [ОКБ‑23](zz_khrunichev.md) (СССР) / [ОКБ‑23](zz_khrunichev.md) (СССР)  |
-|Ступени  | 2  |
-|[Топливо](fuel.md)  | [АТ + НДМГ](at_plus.md)  |
-|| [![](f/lv/proton/proton_1965_thumb.jpg)](f/lv/proton/proton_1965.jpg)  |
+|Активность|Экспл. завершена (1965.07.16 ‑ 1966.07.06)|
+|[Аналоги](analogue.md)|в годы активности отсутствуют|
+|Длина/диаметр|58.2 м / 4.1 ‑ 7.4 м|
+|[Космодромы](spaceport.md)|[Байконур](baikonur.md)|
+|Масса старт./сух.|656 000 кг / 42 500 кг|
+|Разраб./изготов.|[ОКБ‑23](zz_khrunichev.md) (СССР) / [ОКБ‑23](zz_khrunichev.md) (СССР)|
+|Ступени|2|
+|[Топливо](fuel.md)|[АТ + НДМГ](at_plus.md)|
+||[![](f/lv/proton/proton_1965_thumb.jpg)](f/lv/proton/proton_1965.jpg)|
 
 
 
@@ -88,22 +88,22 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Активность  | Экспл. завершена (1967.03.10 ‑ 2012.03.30)  |
-|[Аналоги](analogue.md)  | [Ariane 5](arian.md) (Европа) ┊ [Atlas 5](atlas.md) (США) ┊ [Delta‑4 Heavy](delta.md) (США) ┊ [H‑IIB](h2.md) (Япония) ┊ [Long March 3B](long_march.md) (Китай) ┊ [Зенит‑3SL](zenit.md) (РФ)  |
-|Длина/диаметр  | 58.2 м / 4.1 ‑ 7.4 м  |
-|[Космодромы](spaceport.md)  | [Байконур](baikonur.md)  |
-|Масса старт./сух.  | 700 000 кг / 31 000 кг  |
-|Разраб./изготов.  | [ОКБ‑23](zz_khrunichev.md) (СССР) / [ОКБ‑23](zz_khrunichev.md) (СССР, в России — [ГКНПЦ Хруничева](zz_khrunichev.md))  |
-|Ступени  | 3 (РБ: [Блок Д](блок_д.md), [Блок ДМ](блок_д.md))  |
-|[Топливо](fuel.md)  | [АТ + НДМГ](at_plus.md)  |
-|| [![](f/lv/proton/proton_k_zvezda_crop_thumb.jpg)](f/lv/proton/proton_k_zvezda_crop.jpg)  |
+|Активность|Экспл. завершена (1967.03.10 ‑ 2012.03.30)|
+|[Аналоги](analogue.md)|[Ariane 5](arian.md) (Европа) ┊ [Atlas 5](atlas.md) (США) ┊ [Delta‑4 Heavy](delta.md) (США) ┊ [H‑IIB](h2.md) (Япония) ┊ [Long March 3B](long_march.md) (Китай) ┊ [Зенит‑3SL](zenit.md) (РФ)|
+|Длина/диаметр|58.2 м / 4.1 ‑ 7.4 м|
+|[Космодромы](spaceport.md)|[Байконур](baikonur.md)|
+|Масса старт./сух.|700 000 кг / 31 000 кг|
+|Разраб./изготов.|[ОКБ‑23](zz_khrunichev.md) (СССР) / [ОКБ‑23](zz_khrunichev.md) (СССР, в России — [ГКНПЦ Хруничева](zz_khrunichev.md))|
+|Ступени|3 (РБ: [Блок Д](блок_д.md), [Блок ДМ](блок_д.md))|
+|[Топливо](fuel.md)|[АТ + НДМГ](at_plus.md)|
+||[![](f/lv/proton/proton_k_zvezda_crop_thumb.jpg)](f/lv/proton/proton_k_zvezda_crop.jpg)|
 
 **Выводимые массы.**
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-| [Байконур](baikonur.md)  | Протон‑К<br> + [ДМ](блок‑д.md)  | 19.76 | … | … | … | … | Пуск — $ … млн (… г);<br> ПН 2.82 % от ст.массы  |
-| [Байконур](baikonur.md)  | Протон‑К<br> + [ДМ-2М](блок‑д.md)  | 20.7 ‑ 20.9 | … | … | … | … | Пуск — $ … млн (… г);<br> ПН 2.97 % от ст.массы  |
+|[Байконур](baikonur.md)|Протон‑К<br> + [ДМ](блок‑д.md)|19.76|…|…|…|…|Пуск — $ … млн (… г);<br> ПН 2.82 % от ст.массы|
+|[Байконур](baikonur.md)|Протон‑К<br> + [ДМ-2М](блок‑д.md)|20.7 ‑ 20.9|…|…|…|…|Пуск — $ … млн (… г);<br> ПН 2.97 % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
 
@@ -116,7 +116,7 @@
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md) ┊ [Integrated payload unit](lv.md) ┊ [Non‑rocket spacelaunch](nrs.md) ┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))* |
+|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md) ┊ [Integrated payload unit](lv.md) ┊ [Non‑rocket spacelaunch](nrs.md) ┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 
    1. Docs: …
    1. Notable interwikies — …

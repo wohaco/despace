@@ -3,9 +3,9 @@
 
 |[![](f/contact/n/ndk_logo1_thumb.jpg)](f/contact/n/ndk_logo1.png)|*Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <bio-m@ndk.com> |
-|Link| <https://www.ndk.com/en/index.html><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/ndk/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<bio-m@ndk.com>|
+|Link|<https://www.ndk.com/en/index.html><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/ndk/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **NIHON DEMPA Kogyo Co., LTD. (NDK)** has been providing crystal devices since the foundation, & is one of [JAXA](zz_jaxa.md)’s qualified electrical parts manufacturer. Utilizing its accumulated crystal technology, the company started selling outgas analysis system with crystal sensor known as “QTGA (QCM Thermogravimetric Gas Analysis)” system in 2019.
 

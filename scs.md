@@ -263,14 +263,14 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 |*Изображение*|*Описание*|
 |:--|:--|
-| [![](f/gs/cdsn_pic1_thumb.jpg)](f/gs/cdsn_pic1.png)  |**[Chinese Deep Space Network](cdsn.md)**<br> (Китай)  |
-| [![](f/gs/estrack_pic1_thumb.jpg)](f/gs/estrack_pic1.jpg)  |**[ESTRACK](estrack.md)**<br> (Европа)  |
-| [![](f/gs/idsn_pic1_thumb.jpg)](f/gs/idsn_pic1.png)  |**[Indian Deep Space Network](idsn.md)**<br> (Индия)  |
-| [![](f/gs/dsn_antenna_thumb2.jpg)](f/gs/dsn_antenna.png)  |**[NASA Deep Space Network](dsn.md)**<br> (США)  |
-| [![](f/gs/ssc_ggsn_thumb2.jpg)](f/gs/ssc_ggsn.png)  |**[SSC’s Global Ground Station Network](ssc_ggsn.md)**<br> (Европа, Швеция)  |
-| [![](f/gs/udsc_pic1_thumb.jpg)](f/gs/udsc_pic1.png)  |**[Usuda Deep Space Center](udsc.md)**<br> (Япония)  |
-| [![](f/gs/map_world_ground_stations_thumb2.jpg)](f/gs/map_world_ground_stations.jpg)  |**Мировые НС**  |
-| [![](f/gs/map_world_ground_stations_nkudka_thumb2.jpg)](f/gs/map_world_ground_stations_nkudka.jpg)  |**НС в рамках НКУ-ДКА**<br> (примерное расположение)  |
+|[![](f/gs/cdsn_pic1_thumb.jpg)](f/gs/cdsn_pic1.png)|**[Chinese Deep Space Network](cdsn.md)**<br> (Китай)|
+|[![](f/gs/estrack_pic1_thumb.jpg)](f/gs/estrack_pic1.jpg)|**[ESTRACK](estrack.md)**<br> (Европа)|
+|[![](f/gs/idsn_pic1_thumb.jpg)](f/gs/idsn_pic1.png)|**[Indian Deep Space Network](idsn.md)**<br> (Индия)|
+|[![](f/gs/dsn_antenna_thumb2.jpg)](f/gs/dsn_antenna.png)|**[NASA Deep Space Network](dsn.md)**<br> (США)|
+|[![](f/gs/ssc_ggsn_thumb2.jpg)](f/gs/ssc_ggsn.png)|**[SSC’s Global Ground Station Network](ssc_ggsn.md)**<br> (Европа, Швеция)|
+|[![](f/gs/udsc_pic1_thumb.jpg)](f/gs/udsc_pic1.png)|**[Usuda Deep Space Center](udsc.md)**<br> (Япония)|
+|[![](f/gs/map_world_ground_stations_thumb2.jpg)](f/gs/map_world_ground_stations.jpg)|**Мировые НС**|
+|[![](f/gs/map_world_ground_stations_nkudka_thumb2.jpg)](f/gs/map_world_ground_stations_nkudka.jpg)|**НС в рамках НКУ-ДКА**<br> (примерное расположение)|
 
 **Известные НС**
 
@@ -278,9 +278,9 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 |*Россия*|*Описание*|*Изобр.*|
 |:--|:--|:--|
-| Калязинская<br> радио&shy;астрономическая<br> обсерватория  | Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> • Радиотелескоп ТНА‑1500 или РТ-64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 см, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> • Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ГГц.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.  | [![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.jpg)  |
-| Центр<br> космической связи<br> «Медвежьи озёра»  | Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> • Радиотелескоп ТНА‑1500 или РТ-64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 см, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> • Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.  | [![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.jpg)  |
-| Восточный центр<br> дальней космической<br> связи (Уссурийск)  | 44°00′57″ с.ш. 131°45′25″ в.д. <sup>[H](https://tools.wmflabs.org/geohack/geohack.php?language=ru&pagename=%D0 %A0 %D0 %A2-70&params=44_0_57.90_N_131_45_25.13_E) [G](https://maps.google.com/maps?ll=44.0160833,131.7569806&q=44.0160833,131.7569806&spn=0.03,0.03&t=h&hl=ru) [Я](https://yandex.ru/maps/?ll=131.7569806,44.0160833&pt=131.7569806,44.0160833&spn=0.03,0.03&l=sat,skl) [O](https://www.openstreetmap.org/?mlat=44.0160833&mlon=131.7569806&zoom=14)</sup><br> • Радиотелескоп П‑2500 или РТ-70.   | [![](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru_thumb.jpg)](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru.jpg)  |
+|Калязинская<br> радио&shy;астрономическая<br> обсерватория|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> • Радиотелескоп ТНА‑1500 или РТ-64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 см, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> • Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ГГц.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.jpg)|
+|Центр<br> космической связи<br> «Медвежьи озёра»|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> • Радиотелескоп ТНА‑1500 или РТ-64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 см, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> • Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.jpg)|
+|Восточный центр<br> дальней космической<br> связи (Уссурийск)|44°00′57″ с.ш. 131°45′25″ в.д. <sup>[H](https://tools.wmflabs.org/geohack/geohack.php?language=ru&pagename=%D0 %A0 %D0 %A2-70&params=44_0_57.90_N_131_45_25.13_E) [G](https://maps.google.com/maps?ll=44.0160833,131.7569806&q=44.0160833,131.7569806&spn=0.03,0.03&t=h&hl=ru) [Я](https://yandex.ru/maps/?ll=131.7569806,44.0160833&pt=131.7569806,44.0160833&spn=0.03,0.03&l=sat,skl) [O](https://www.openstreetmap.org/?mlat=44.0160833&mlon=131.7569806&zoom=14)</sup><br> • Радиотелескоп П‑2500 или РТ-70.|[![](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru_thumb.jpg)](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru.jpg)|
 
 </small>
 
@@ -288,12 +288,12 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 |*Ведомство*|*НК*|
 |:--|:--|
-|Европа| Raisting Satellite Earth Station (Германия), [Maspalomas Station](maspalomas_station.md) |
-|Индия|  |
-|Китай|  |
-|РФ|  |
-|США|  |
-|Япония|  |
+|Европа|Raisting Satellite Earth Station (Германия), [Maspalomas Station](maspalomas_station.md)|
+|Индия||
+|Китай||
+|РФ||
+|США||
+|Япония||
 
 
 
@@ -304,10 +304,10 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md) ┊ [ГО и ПхО](lv.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Контейнеры для транспортировки](ship_contain.md) ┊ [СЧ](sui.md) |
-|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md) ┊ [КИС](scs.md) ┊ [КСИСО](scs.md) ┊ [НИК](lm_sys.md) ┊ [НИП](scs.md) ┊ [НС](scs.md) ┊ [ПОЗ](fp.md) ┊ [СГК](cd_segm.md) ┊ [ССПД](mcntd.md) ┊ [ЦУП](mcc.md) |
-|**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md) |
-|**`Наземный научный комплекс (ННК):`**<br> [АПС](hns.md) |
+|**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md) ┊ [ГО и ПхО](lv.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Контейнеры для транспортировки](ship_contain.md) ┊ [СЧ](sui.md)|
+|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md) ┊ [КИС](scs.md) ┊ [КСИСО](scs.md) ┊ [НИК](lm_sys.md) ┊ [НИП](scs.md) ┊ [НС](scs.md) ┊ [ПОЗ](fp.md) ┊ [СГК](cd_segm.md) ┊ [ССПД](mcntd.md) ┊ [ЦУП](mcc.md)|
+|**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md)|
+|**`Наземный научный комплекс (ННК):`**<br> [АПС](hns.md)|
 
    1. Docs:
       - SCS:

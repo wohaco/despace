@@ -9,9 +9,9 @@
 
 |[![](f/contact/j/jpgu_logo1_thumb.jpg)](f/contact/j/jpgu_logo1.png)|*4F Gakkai Center Bldg., 2-4-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan*|
 |:--|:--|
-|E‑mail| <office@jpgu.org> |
-|Link| <http://www.jpgu.org/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<office@jpgu.org>|
+|Link|<http://www.jpgu.org/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 The **Japan Geoscience Union (JpGU, 公益社団法人日本地球惑星科学連合, 以下)**, is a public interest incorporated association as defined under the Japanese law. We are an academic union that covers all the disciplines of Earth & planetary sciences & related fields. Our main activities are:
 
@@ -43,29 +43,29 @@ Averaged fees for meetings:
 
 |*Category*|*JpGU Member Rate<br> (AGU, AOGS & EGU Member)*|*Nonmember Rate*|
 |:--|:--|:--|
-| Regular | 14 300 JPY | 23 100 JPY |
-| School Teacher | 7 700 JPY | 14 300 JPY |
-| Graduate Student | 7 700 JPY | 14 300 JPY |
-| Senior (70 or over) | 7 700 JPY | — |
-| Undergraduate Student or younger | Free of charge | Free of charge |
+|Regular|14 300 JPY|23 100 JPY|
+|School Teacher|7 700 JPY|14 300 JPY|
+|Graduate Student|7 700 JPY|14 300 JPY|
+|Senior (70 or over)|7 700 JPY|—|
+|Undergraduate Student or younger|Free of charge|Free of charge|
 
 **Previous meetings.**
 
 |*Event*|*Dates*|*Comments*|
 |:--|:--|:--|
-| JpGU 2021 | 2021.05.30-03 |  |
-| Joint JpGU-AGU 2020 (Virtual) | 2020.07.12-14 | <http://www.jpgu.org/meeting_e2020v/> |
-| JpGU 2019 | 2019.05.26-30 | <http://www.jpgu.org/meeting_e2019/> |
-| JpGU 2018 | 2018.05.20-24 | <http://www.jpgu.org/meeting_e2018/> |
-| Joint JpGU-AGU 2017 | 2017.05.20-25 | <http://www.jpgu.org/meeting_e2017/> |
-| JpGU 2016 | 2016.05.20-25 | <http://www.jpgu.org/meeting_e2016/> |
-| JpGU 2015 | 2015.05.20-28 | <http://www.jpgu.org/meeting_e2015/> |
-| JpGU 2014 | 2014.04.28-02 | <http://www.jpgu.org/meeting_e2014/> |
-| JpGU 2013 | 2013.05.19-24 | <http://www.jpgu.org/meeting_e2013/> |
-| JpGU 2012 | 2012.05.20-25 | <http://www.jpgu.org/meeting_e2012/> |
-| JpGU 2011 | 2011.05.20-25 | <http://www.jpgu.org/meeting_e2011/> |
-| JpGU 2010 | 2010.05.23-28 | <http://www.jpgu.org/meeting_e2010/> |
-| JpGU 2009 | 2009.05.16-21 | <http://www.jpgu.org/meeting_e2009/> |
+|JpGU 2021|2021.05.30-03||
+|Joint JpGU-AGU 2020 (Virtual)|2020.07.12-14|<http://www.jpgu.org/meeting_e2020v/>|
+|JpGU 2019|2019.05.26-30|<http://www.jpgu.org/meeting_e2019/>|
+|JpGU 2018|2018.05.20-24|<http://www.jpgu.org/meeting_e2018/>|
+|Joint JpGU-AGU 2017|2017.05.20-25|<http://www.jpgu.org/meeting_e2017/>|
+|JpGU 2016|2016.05.20-25|<http://www.jpgu.org/meeting_e2016/>|
+|JpGU 2015|2015.05.20-28|<http://www.jpgu.org/meeting_e2015/>|
+|JpGU 2014|2014.04.28-02|<http://www.jpgu.org/meeting_e2014/>|
+|JpGU 2013|2013.05.19-24|<http://www.jpgu.org/meeting_e2013/>|
+|JpGU 2012|2012.05.20-25|<http://www.jpgu.org/meeting_e2012/>|
+|JpGU 2011|2011.05.20-25|<http://www.jpgu.org/meeting_e2011/>|
+|JpGU 2010|2010.05.23-28|<http://www.jpgu.org/meeting_e2010/>|
+|JpGU 2009|2009.05.16-21|<http://www.jpgu.org/meeting_e2009/>|
 
 
 
@@ -74,7 +74,7 @@ Averaged fees for meetings:
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md) |
+|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
 
    1. Docs: …
    1. Notable interwikies — …

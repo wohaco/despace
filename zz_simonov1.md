@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*НПОЛ, RU. 517, Отдел баллистики и навигации. Зам. начальника отдела*|
 |:--|:--|
-|E‑mail| <alex.simonov@laspace.ru> |
-|B‑day, addr.| 1981.05.16, на НПОЛ с 2004 / … |
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* 54-19, +7(495)575-54-19, 62-86; *mobile:* +7(910)441-01-52 |
-|| [![](f/contact/s/simonov1_photo_thumb.jpg)](f/contact/s/simonov1_photo.jpg) [![](f/contact/s/simonov1_sign_thumb.jpg)](f/contact/s/simonov1_sign.png) |
+|E‑mail|<alex.simonov@laspace.ru>|
+|B‑day, addr.|1981.05.16, на НПОЛ с 2004 / …|
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* 54-19, +7(495)575-54-19, 62-86; *mobile:* +7(910)441-01-52|
+||[![](f/contact/s/simonov1_photo_thumb.jpg)](f/contact/s/simonov1_photo.jpg) [![](f/contact/s/simonov1_sign_thumb.jpg)](f/contact/s/simonov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

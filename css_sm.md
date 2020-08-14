@@ -12,30 +12,30 @@
 
 ||
 |:--|
-| [![](f/sensor/c/css_sm_pic1_thumb.jpg)](f/sensor/c/css_sm_pic1.jpg)  |
+|[![](f/sensor/c/css_sm_pic1_thumb.jpg)](f/sensor/c/css_sm_pic1.jpg)|
 
 <small>
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(CSS-01,02)</small>*|
 |:--|:--|
-|[УГТ](trl.md)| 9  |
-|Диапазон °, ≥| 120, круг  |
-|Исполнение| моноблок  |
-|Режим готовности|   |
-|Точность| 5°  |
-|Частота обновл., Гц|   |
+|[TRL](trl.md)|9|
+|Диапазон °, ≥|120, круг|
+|Исполнение|моноблок|
+|Режим готовности||
+|Точность|5°|
+|Частота обновл., Гц||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|   |
-|Dimensions, L×W×H, mm| 12.7 × 23.8 × 9  |
-|Интерфейсы| 0 to 3.5 mA (typical) current sources on two flying leads: 50” (1.27m) in length, M22759/ 33-26, 26 AWG wire  |
-|Mass, kg| 0.02  |
-|[Voltage](voltage.md), V|   |
-|Overload, g| 14.1 gRMS вибрации, 60 g ударные  |
-|[Rad.resist](ion_rad.md), Gy (rad)| —  |
-|Resource, h (y)|   |
-|[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), ℃| −40 ‑ +93  |
-|Consumption, W| 0  |
+|[ВБР](srrq.md) за САС||
+|Dimensions, L×W×H, mm|12.7 × 23.8 × 9|
+|Интерфейсы|0 to 3.5 mA (typical) current sources on two flying leads: 50” (1.27m) in length, M22759/ 33-26, 26 AWG wire|
+|Mass, kg|0.02|
+|[Voltage](voltage.md), V||
+|Overload, g|14.1 gRMS вибрации, 60 g ударные|
+|[Rad.resist](ion_rad.md), Gy (rad)|—|
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)||
+|[Temp. range](tcs.md), ℃|−40 ‑ +93|
+|Consumption, W|0|
 
 </small>
 

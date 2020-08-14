@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Senior Engineer*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(818)354-15-31, ℻: +1(818)393-32-54; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <jlhall@jpl.caltech.edu> |
-|B‑day, addr.| 1962.05.13 (Канада) / … |
-|| ![](f/contact/h/hall1_photo.jpg) [![](f/contact/h/hall1_sign_thumb.jpg)](f/contact/h/hall1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(818)354-15-31, ℻: +1(818)393-32-54; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<jlhall@jpl.caltech.edu>|
+|B‑day, addr.|1962.05.13 (Канада) / …|
+||![](f/contact/h/hall1_photo.jpg) [![](f/contact/h/hall1_sign_thumb.jpg)](f/contact/h/hall1_sign.png)|
 
 
    - **[Education](edu.md):** PhD & MS, Aeronautics, Caltech. BS, Engineering Science, Toronto Univ.

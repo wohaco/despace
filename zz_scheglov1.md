@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[МГТУ Баумана](zz_мгтубаумана.md), RU. Факультет «Специальное машиностроение», кафедра «Аэрокосмические системы». Профессор*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <shcheglov_ga@bmstu.ru> |
-|i18n| Schheglov, Georgii A. |
-|Tel| *work:* +7(499)263-63-10; *mobile:* +7(910)481-69-06 |
-|| [![](f/contact/s/scheglov1_photo_thumb.jpg)](f/contact/s/scheglov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<shcheglov_ga@bmstu.ru>|
+|i18n|Schheglov, Georgii A.|
+|Tel|*work:* +7(499)263-63-10; *mobile:* +7(910)481-69-06|
+||[![](f/contact/s/scheglov1_photo_thumb.jpg)](f/contact/s/scheglov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** 1996, Д.т.н. (ScD), МГТУ Баумана.
    - **Exp.:** Специалист в области динамики и прочности летательных аппаратов, аэрогидроупругости и вихревых методов вычислительной гидродинамики, занимается также вопросами проектирования космических аппаратов. Автор 97 научных работ.

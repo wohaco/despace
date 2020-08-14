@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Лаб. 711 «Проектирования аппаратуры и комплексов космических аппаратов». Начальник лаборатории*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)333-45-78; *mobile:* +7(903)125-76-11 |
-|E‑mail| <kos@iki.rssi.ru> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/a/anufreichik1_photo.jpg) [![](f/contact/a/anufreichik1_sign_thumb.jpg)](f/contact/a/anufreichik1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)333-45-78; *mobile:* +7(903)125-76-11|
+|E‑mail|<kos@iki.rssi.ru>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||![](f/contact/a/anufreichik1_photo.jpg) [![](f/contact/a/anufreichik1_sign_thumb.jpg)](f/contact/a/anufreichik1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

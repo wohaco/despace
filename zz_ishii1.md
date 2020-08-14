@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP. Department of Space Flight Systems. Professor*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <ishii@newslan.isas.jaxa.jp>, <ishii.nobuaki@jaxa.jp>, <ishii@isas.jaxa.jp> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| <mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<ishii@newslan.isas.jaxa.jp>, <ishii.nobuaki@jaxa.jp>, <ishii@isas.jaxa.jp>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

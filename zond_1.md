@@ -16,25 +16,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) |
-|Development| … |
-|Duration| 53 d |
-|Launch| 1964.04.02 02:42:40 UTC, Rocket: Molniya 8K78M |
-|Operator| OKB-1 |
-|Programme| Venera programme |
-|Similar to| • Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: [Venera 1](venera_1.md) |
-|Target| [Venus](venus.md) exploration |
-|[Type](sc.md)| Lander spacecraft |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|53 d|
+|Launch|1964.04.02 02:42:40 UTC, Rocket: Molniya 8K78M|
+|Operator|OKB-1|
+|Programme|Venera programme|
+|Similar to|• Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: [Venera 1](venera_1.md)|
+|Target|[Venus](venus.md) exploration|
+|[Type](sc.md)|Lander spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| 2 m parabolic high‑gain antenna (decimeter range) |
-|Composition| Venus orbiter, lander |
-|Contractor| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1964-016D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-016D), SCN: 00785 |
-|Manufacturer| Lavochkin |
-|Mass| Dry: 290 kg ([minisatellite](sc.md), [EVN‑070](venus.md)) |
-|Orbit / Site| Heliocentric; 0.652 AU × 1.001 AU; T = 274 days; i = 3.7° |
-|Payload| Containing experiments for chemical analysis of the atmosphere, gamma‑ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water |
-|Power| … |
+|Comms|2 m parabolic high‑gain antenna (decimeter range)|
+|Composition|Venus orbiter, lander|
+|Contractor|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1964-016D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-016D), SCN: 00785|
+|Manufacturer|Lavochkin|
+|Mass|Dry: 290 kg ([minisatellite](sc.md), [EVN‑070](venus.md))|
+|Orbit / Site|Heliocentric; 0.652 AU × 1.001 AU; T = 274 days; i = 3.7°|
+|Payload|Containing experiments for chemical analysis of the atmosphere, gamma‑ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -42,9 +42,9 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
 
 </small>
 
@@ -140,7 +140,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

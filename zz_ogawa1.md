@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Earth Sciences & Astronomy. Associate Professor*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <cmaogawa@mail.ecc.u-tokyo.ac.jp> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| <mark>nophoto</mark> <mark>nosign</mark> |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<cmaogawa@mail.ecc.u-tokyo.ac.jp>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+||<mark>nophoto</mark> <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD. Solid Earth & planetary physics. The evolution of the inteior of terrestrial planets. Numerical Modeling, Planets, Plate Tectonics, Modeling & Simulation, CFD Simulation.
    - **Exp.:** …

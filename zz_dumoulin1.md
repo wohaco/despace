@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*LPG, Université de Nantes, EU (FR). Enseignant-chercheur*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +33(0)251-125-480; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <caroline.dumoulin@univ-nantes.fr> |
-|B‑day, addr.| <mark>nodate</mark> 1972 ?, FR / … |
-|| [![](f/contact/d/dumoulin1_photo_thumb.jpg)](f/contact/d/dumoulin1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +33(0)251-125-480; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<caroline.dumoulin@univ-nantes.fr>|
+|B‑day, addr.|<mark>nodate</mark> 1972 ?, FR / …|
+||[![](f/contact/d/dumoulin1_photo_thumb.jpg)](f/contact/d/dumoulin1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Convection mantellique et structure de la lithosphère, Sciences de la Terre, 2000.
    - **Exp.:** …

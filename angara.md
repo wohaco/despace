@@ -16,16 +16,16 @@
 
 |*Version*|*Description*|*Activity*|
 |:--|:--|:--|
-|Ангара‑А1  |Базовый вариант. | Отменена (2014)  |
-|├ Ангара‑А1.1  |Модификация Ангара‑А1. | Отменена (2014)  |
-|┕ Ангара‑А1.2  |Модификация Ангара‑А1. |**Активен** (2014 ‑ …)  |
-|Ангара‑А3  |Модификация Ангара‑А1. | Не создавалась  |
-|Ангара‑А5  |Модификация Ангара‑А1. |**Активен** (2014 ‑ …)  |
-|├ Ангара‑А5В  |Модификация Ангара‑А5. |*В разработке* (2027 ‑ …)  |
-|├ Ангара‑А5М  |Модификация Ангара‑А5. |*В разработке* (2025 ‑ …)  |
-|┕ Ангара‑А5П  |Модификация Ангара‑А5. |*В разработке* (2025 ‑ …)  |
-|Ангара‑А7  |Модификация Ангара‑А1. | Не создавалась  |
-|┕ Ангара‑А7.2В  |Модификация Ангара‑А7. | Не создавалась  |
+|Ангара‑А1|Базовый вариант.|Отменена (2014)|
+|├ Ангара‑А1.1|Модификация Ангара‑А1.|Отменена (2014)|
+|┕ Ангара‑А1.2|Модификация Ангара‑А1.|**Активен** (2014 ‑ …)|
+|Ангара‑А3|Модификация Ангара‑А1.|Не создавалась|
+|Ангара‑А5|Модификация Ангара‑А1.|**Активен** (2014 ‑ …)|
+|├ Ангара‑А5В|Модификация Ангара‑А5.|*В разработке* (2027 ‑ …)|
+|├ Ангара‑А5М|Модификация Ангара‑А5.|*В разработке* (2025 ‑ …)|
+|┕ Ангара‑А5П|Модификация Ангара‑А5.|*В разработке* (2025 ‑ …)|
+|Ангара‑А7|Модификация Ангара‑А1.|Не создавалась|
+|┕ Ангара‑А7.2В|Модификация Ангара‑А7.|Не создавалась|
 
 [![](f/lv/angara/a1-a3-a5_thumb.jpg)](f/lv/angara/a1-a3-a5.png) [![](f/lv/angara/a1-a5_thumb.jpg)](f/lv/angara/a1-a5.png) [![](f/lv/angara/a5-a7_thumb.jpg)](f/lv/angara/a5-a7.jpg) [![](f/lv/angara/angara_variations_thumb.jpg)](f/lv/angara/angara_variations.png)
 
@@ -44,31 +44,31 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Активность  | А5: **Активен** (2014.12.23 ‑ …);<br> А5В: *В разработке* (2027 ‑ …);<br> А5М: *В разработке* (2025 ‑ …);<br> А5П: *В разработке* (2025 ‑ …)  |
-|[Аналоги](analogue.md)  | [Ariane 5/6](arian.md) (Европа) ┊ [Ангара‑А5](angara.md) (РФ)  |
-|Длина/диаметр  | 55.23 м / 8.86 м  |
-|[Космодромы](spaceport.md)  | [Восточный](vostochny.md) ┊ [Плесецк](plesetsk.md)  |
-|Масса старт./сух.  | 773 000 кг / … кг  |
-|Разраб./изготов.  | [ГКНПЦ Хруничева](zz_khrunichev.md) (Россия) / [ГКНПЦ Хруничева](zz_khrunichev.md) (Россия)  |
-|Ступени  | 3  |
-|[Топливо](fuel.md)  | [Кислород + Керосин](o_plus.md)  |
-|| [![](f/lv/falcon/falcon9_2018_thumb.jpg)](f/lv/falcon/falcon9_2018.jpg)  |
+|Активность|А5: **Активен** (2014.12.23 ‑ …);<br> А5В: *В разработке* (2027 ‑ …);<br> А5М: *В разработке* (2025 ‑ …);<br> А5П: *В разработке* (2025 ‑ …)|
+|[Аналоги](analogue.md)|[Ariane 5/6](arian.md) (Европа) ┊ [Ангара‑А5](angara.md) (РФ)|
+|Длина/диаметр|55.23 м / 8.86 м|
+|[Космодромы](spaceport.md)|[Восточный](vostochny.md) ┊ [Плесецк](plesetsk.md)|
+|Масса старт./сух.|773 000 кг / … кг|
+|Разраб./изготов.|[ГКНПЦ Хруничева](zz_khrunichev.md) (Россия) / [ГКНПЦ Хруничева](zz_khrunichev.md) (Россия)|
+|Ступени|3|
+|[Топливо](fuel.md)|[Кислород + Керосин](o_plus.md)|
+||[![](f/lv/falcon/falcon9_2018_thumb.jpg)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**
 
 |*Космодром*|*РН*|*Масса,<br> [НОО](nnb.md), т<br> ([ГСО](nnb.md), т)*|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|*Док.*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|[Восточный](vostochny.md)| Ангара‑А5<br> + [Бриз‑М](бриз.md) | 24.5 |  |  |  | Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы |  |
-|[Восточный](vostochny.md)| Ангара‑А5<br> + [ДМ-3](блок_д.md) | 24.5<br> (3.9) | 7.1 | 6.2 ‑ 6.9 | 6.2 ‑ 6.9 | Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы |  |
-|[Восточный](vostochny.md)| Ангара‑А5<br> + [КВТК](квтк.md) | 24.5<br> (5) | 8.5 | 6.3 ‑ 7.0 | 6.3 ‑ 7.0 | Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы |  |
-|[Восточный](vostochny.md)| Ангара‑А5В<br> + [ДМ-УЗ](блок_д.md) | 37.5<br> (8) | 13.5 | 10.6 ‑ 11 | 10.6 ‑ 11 | Пуск — $ 100 млн (2017 г);<br> ПН 4.85 % от ст.массы |  |
-|[Восточный](vostochny.md)| Ангара‑А5В<br> + [КВТК-УЗ](квтк.md) |  |  |  | 10 ‑ 11.8 | Пуск — $ 100 млн (2017 г);<br> ПН … % от ст.массы | [zip ❐](f/lv/angara/angara_a5v_kvtk_uz_doc01.zip) |
-|[Восточный](vostochny.md)| Ангара‑А5М | 27<br> (4.1) | 7.4 | 6.3  | 6.3 | Пуск — $ 100 млн (2017 г);<br> ПН 3.49 % от ст.массы |  |
-|[Восточный](vostochny.md)| Ангара‑А5П |  |  |  |  | Пуск — $ 100 млн (2017 г);<br> ПН … % от ст.массы |  |
-| [Плесецк](plesetsk.md) | Ангара‑А5<br> + [Бриз‑М](бриз.md) | 24<br> (2.8) |  |  |  | Пуск — $ 100 млн (2017 г);<br> ПН 3.1 % от ст.массы |  |
-| [Плесецк](plesetsk.md) | Ангара‑А5<br> + [ДМ-3](блок_д.md) | 24<br> (2.6) |  |  |  | Пуск — $ 100 млн (2017 г);<br> ПН 3.1 % от ст.массы |  |
-| [Плесецк](plesetsk.md) | Ангара‑А5<br> + [КВТК](квтк.md) | 24<br> (4.5) |  |  |  | Пуск — $ 100 млн (2017 г);<br> ПН 3.1 % от ст.массы |  |
-| [Плесецк](plesetsk.md) | Ангара‑А5П |  |  |  |  | Пуск — $ 100 млн (2017 г);<br> ПН … % от ст.массы |  |
+|[Восточный](vostochny.md)|Ангара‑А5<br> + [Бриз‑М](бриз.md)|24.5||||Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы||
+|[Восточный](vostochny.md)|Ангара‑А5<br> + [ДМ-3](блок_д.md)|24.5<br> (3.9)|7.1|6.2 ‑ 6.9|6.2 ‑ 6.9|Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы||
+|[Восточный](vostochny.md)|Ангара‑А5<br> + [КВТК](квтк.md)|24.5<br> (5)|8.5|6.3 ‑ 7.0|6.3 ‑ 7.0|Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы||
+|[Восточный](vostochny.md)|Ангара‑А5В<br> + [ДМ-УЗ](блок_д.md)|37.5<br> (8)|13.5|10.6 ‑ 11|10.6 ‑ 11|Пуск — $ 100 млн (2017 г);<br> ПН 4.85 % от ст.массы||
+|[Восточный](vostochny.md)|Ангара‑А5В<br> + [КВТК-УЗ](квтк.md)||||10 ‑ 11.8|Пуск — $ 100 млн (2017 г);<br> ПН … % от ст.массы|[zip ❐](f/lv/angara/angara_a5v_kvtk_uz_doc01.zip)|
+|[Восточный](vostochny.md)|Ангара‑А5М|27<br> (4.1)|7.4|6.3 |6.3|Пуск — $ 100 млн (2017 г);<br> ПН 3.49 % от ст.массы||
+|[Восточный](vostochny.md)|Ангара‑А5П|||||Пуск — $ 100 млн (2017 г);<br> ПН … % от ст.массы||
+|[Плесецк](plesetsk.md)|Ангара‑А5<br> + [Бриз‑М](бриз.md)|24<br> (2.8)||||Пуск — $ 100 млн (2017 г);<br> ПН 3.1 % от ст.массы||
+|[Плесецк](plesetsk.md)|Ангара‑А5<br> + [ДМ-3](блок_д.md)|24<br> (2.6)||||Пуск — $ 100 млн (2017 г);<br> ПН 3.1 % от ст.массы||
+|[Плесецк](plesetsk.md)|Ангара‑А5<br> + [КВТК](квтк.md)|24<br> (4.5)||||Пуск — $ 100 млн (2017 г);<br> ПН 3.1 % от ст.массы||
+|[Плесецк](plesetsk.md)|Ангара‑А5П|||||Пуск — $ 100 млн (2017 г);<br> ПН … % от ст.массы||
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
 
@@ -114,7 +114,7 @@
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md) ┊ [Integrated payload unit](lv.md) ┊ [Non‑rocket spacelaunch](nrs.md) ┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))* |
+|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md) ┊ [Integrated payload unit](lv.md) ┊ [Non‑rocket spacelaunch](nrs.md) ┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 
    1. Docs: …
    1. Notable interwikies — …

@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/satcan_logo1_thumb.jpg)](f/contact/s/satcan_logo1.png)|*227 Centrepointe Drive, Ottawa, ON, K2G 5L5, Canada*|
 |:--|:--|
-|E‑mail| <info@satcan.ca> |
-|Link| <https://www.satellitecanada.org/><br> <https://twitter.com/SatelliteCanada><br> <https://www.linkedin.com/company/satellite-canada-innovation-network/> |
-|Tel| +1(613)265-46-31, ℻: … |
+|E‑mail|<info@satcan.ca>|
+|Link|<https://www.satellitecanada.org/><br> <https://twitter.com/SatelliteCanada><br> <https://www.linkedin.com/company/satellite-canada-innovation-network/>|
+|Tel|+1(613)265-46-31, ℻: …|
 
 **Satellite Canada Innovation Network (SatCan)** is a member-based, [non-for-profit organization](nonprof_org.md) dedicated to driving the global competitiveness of the Canadian space industry by facilitating the development of new companies, revolutionary products, & disruptive services with the speed & success of industry.  
 SatCan is an engineering & business services organization offering extensive support to companies in the satellite telecom & space technology sectors.  

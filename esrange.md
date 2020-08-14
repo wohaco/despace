@@ -15,14 +15,14 @@ Esrange was built in 1964 by ESRO, European Space Research Organisation, which l
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity |**Active as a polygon** (1966 ‑ …) |
-| [Launch vehicles](lv.md)  | Sounding and suborbital rockets, such as the **Skylark**, **Scua**, **Centaure** and other rocket lines |
-| Operator | [ESA](zz_esa.md) |
-| Location | 67°53′38″N, 21°6′25″E<br> |
-| Distance | 7 550 km — to the equator;<br> 1 600 km — to [NPO Lavochkin](zz_lav.md);<br> 9 000 km — to [JPL](zz_jpl.md);<br> 2 400 km — to ESA Headquarters in Paris |
-| Launch pad | 6 |
-||[![](f/spaceport/esrange/skylark_launch_thumb.jpg)](f/spaceport/esrange/skylark_launch.jpg)  [![](f/spaceport/esrange/map_thumb.jpg)](f/spaceport/esrange/map.jpg) |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active as a polygon** (1966 ‑ …)|
+|[Launch vehicles](lv.md)|Sounding and suborbital rockets, such as the **Skylark**, **Scua**, **Centaure** and other rocket lines|
+|Operator|[ESA](zz_esa.md)|
+|Location|67°53′38″N, 21°6′25″E<br>|
+|Distance|7 550 km — to the equator;<br> 1 600 km — to [NPO Lavochkin](zz_lav.md);<br> 9 000 km — to [JPL](zz_jpl.md);<br> 2 400 km — to ESA Headquarters in Paris|
+|Launch pad|6|
+||[![](f/spaceport/esrange/skylark_launch_thumb.jpg)](f/spaceport/esrange/skylark_launch.jpg)  [![](f/spaceport/esrange/map_thumb.jpg)](f/spaceport/esrange/map.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

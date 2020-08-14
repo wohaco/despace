@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*Институт Иоффе, RU. Лаборатория масс‑спектрометрии. Старший научный сотрудник*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <anatoli.pavlov@mail.ioffe.ru> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(911)985-88-38; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/p/pavlov1_photo_thumb.jpg)](f/contact/p/pavlov1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<anatoli.pavlov@mail.ioffe.ru>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(911)985-88-38; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/p/pavlov1_photo_thumb.jpg)](f/contact/p/pavlov1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

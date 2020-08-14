@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Edinburgh Univ.](zz_edinburgh_univ.md), EU. Chair of Astrobiology. Professor of Astrobiology*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +44(131)650-29-61; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <c.s.cockell@ed.ac.uk> |
-|B‑day, addr.| 1967.05.21 / … |
-|| [![](f/contact/c/cockell1_photo_thumb.jpg)](f/contact/c/cockell1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +44(131)650-29-61; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<c.s.cockell@ed.ac.uk>|
+|B‑day, addr.|1967.05.21 / …|
+||[![](f/contact/c/cockell1_photo_thumb.jpg)](f/contact/c/cockell1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Molecular Biophysics, Oxford Univ., 1994.
    - **Exp.:** His scientific interests have focused on astrobiology, geomicrobiology & life in extreme environments. He has published over 300 scientific papers & books in these areas. He has contributed to plans for the human exploration of Mars.

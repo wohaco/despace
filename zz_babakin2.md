@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[АКЦ ФИАН](zz_asc_fian.md), RU. Главный конструктор*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +7(495)333-21-33, факс +7(495)333-23-01; *mobile:* +7(917)544-54-71 |
-|E‑mail| <nbabakin@asc.rssi.ru> |
-|B‑day, addr.| 1944.10.31 / … |
-|| [![](f/contact/b/babakin2_animated.gif)](f/contact/b/babakin2_photo.jpg) [![](f/contact/b/babakin2_sign_thumb.jpg)](f/contact/b/babakin2_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +7(495)333-21-33, факс +7(495)333-23-01; *mobile:* +7(917)544-54-71|
+|E‑mail|<nbabakin@asc.rssi.ru>|
+|B‑day, addr.|1944.10.31 / …|
+||[![](f/contact/b/babakin2_animated.gif)](f/contact/b/babakin2_photo.jpg) [![](f/contact/b/babakin2_sign_thumb.jpg)](f/contact/b/babakin2_sign.png)|
 
    - **[Education](edu.md):** Кандидат технических наук.
    - **Exp.:** …

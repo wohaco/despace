@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/skywatch_logo1_thumb.png)](f/contact/s/skywatch_logo1.png)|*14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*|
 |:--|:--|
-|E‑mail| <info@skywatch.com> |
-|Link| <https://www.skywatch.com/> |
-|Tel| +1(888)882-82-32 , ℻: … |
+|E‑mail|<info@skywatch.com>|
+|Link|<https://www.skywatch.com/>|
+|Tel|+1(888)882-82-32 , ℻: …|
 
 **SkyWatch** provides a digital infrastructure for the distribution of Earth observation data & derived intelligence. EarthCache™ is a single access point to data & advanced processing algorithms for application developers.
 

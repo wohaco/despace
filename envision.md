@@ -20,26 +20,26 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| € 544 M or 12 290 kg of [gold](sc_price.md) in 2019 prices |
-|[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| 2021 — 2032 |
-|Duration| • Total: 5.16 years (baseline) & 6.29 years (backup);<br> • Flight: 2.5 years (baseline) & 3.63 years (backup);<br> • Work: 2.66 years. |
-|Launch| 2032.11 (baseline) & 2033 (backup), [Guiana Space Centre](kourou.md) (CSG), [Ariane 6.2](arian.md) |
-|Operator| [ESA](zz_esa.md) |
-|Programme| Cosmic Vision |
-|Similar to| • Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US), [Venera‑D](venera_d.md) (RU);<br> • Current: [Akatsuki](akatsuki.md) (JP 2010);<br> • Past: [Venus Express](venus_express.md) (EU 2005), [Венера‑15/16](venera_15_16.md) (SU 1983), [Pioneer-Venus-1](pioneer_venus_1.md) (US 1978), [Pioneer-Venus-2](pioneer_venus_2.md) (US 1978). |
-|Target| To detect activity & measure small‑scale changes on Venus, incl. geological & geochemical cycles involving the interior, surface, atmosphere |
-|[Type](sc.md)| Orbiter spacecraft |
+|Cost|€ 544 M or 12 290 kg of [gold](sc_price.md) in 2019 prices|
+|[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
+|Development|2021 — 2032|
+|Duration|• Total: 5.16 years (baseline) & 6.29 years (backup);<br> • Flight: 2.5 years (baseline) & 3.63 years (backup);<br> • Work: 2.66 years.|
+|Launch|2032.11 (baseline) & 2033 (backup), [Guiana Space Centre](kourou.md) (CSG), [Ariane 6.2](arian.md)|
+|Operator|[ESA](zz_esa.md)|
+|Programme|Cosmic Vision|
+|Similar to|• Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US), [Venera‑D](venera_d.md) (RU);<br> • Current: [Akatsuki](akatsuki.md) (JP 2010);<br> • Past: [Venus Express](venus_express.md) (EU 2005), [Венера‑15/16](venera_15_16.md) (SU 1983), [Pioneer-Venus-1](pioneer_venus_1.md) (US 1978), [Pioneer-Venus-2](pioneer_venus_2.md) (US 1978).|
+|Target|To detect activity & measure small‑scale changes on Venus, incl. geological & geochemical cycles involving the interior, surface, atmosphere|
+|[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| • X‑band (TT&C);<br> • Ka‑band (science transmit).<br> • GSs: 35 m [ESTRACK](estrack.md) (Malargue, New Norcia NNO‑1, Cebreros), NASA DSN, 15 m (Kourou 15 m, New Norcia 2 4.5 m). |
-|Composition| Venus orbiter |
-|Contractor| Arianespace |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
-|Manufacturer| [Thales Alenia Space](zz_tas_i.md) |
-|Mass| • Launch: 2 611.3 kg (baseline) & 2 781.5  kg (backup);<br> • Wet: 2 561.3 kg (baseline) & 2 731.5 kg (backup);<br> • Dry: 1 295.4 kg; ([large satellite](sc.md), [EVN‑073](venus.md))<br> • Payload: 255 kg. |
-|Orbit / Site| 220 × 470 km 88° ([EVN‑005](venus.md)) |
-|Power| 2 350 W (max.) |
-|Payload| 1. VenSAR;<br> 2. VenSpec (VenSpec‑H, VenSpec‑M, VenSpec‑U);<br> 3. SRS |
+|Comms|• X‑band (TT&C);<br> • Ka‑band (science transmit).<br> • GSs: 35 m [ESTRACK](estrack.md) (Malargue, New Norcia NNO‑1, Cebreros), NASA DSN, 15 m (Kourou 15 m, New Norcia 2 4.5 m).|
+|Composition|Venus orbiter|
+|Contractor|Arianespace|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
+|Manufacturer|[Thales Alenia Space](zz_tas_i.md)|
+|Mass|• Launch: 2 611.3 kg (baseline) & 2 781.5  kg (backup);<br> • Wet: 2 561.3 kg (baseline) & 2 731.5 kg (backup);<br> • Dry: 1 295.4 kg; ([large satellite](sc.md), [EVN‑073](venus.md))<br> • Payload: 255 kg.|
+|Orbit / Site|220 × 470 km 88° ([EVN‑005](venus.md))|
+|Power|2 350 W (max.)|
+|Payload|1. VenSAR;<br> 2. VenSpec (VenSpec‑H, VenSpec‑M, VenSpec‑U);<br> 3. SRS|
 
 <p style="page-break-after:always"> </p>
 
@@ -55,36 +55,36 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑017||Atmosphere: structure.|  |D|||||
-|EVN‑019||Atmosphere: energetic balance.|  |D|||||
-|EVN‑020||Inner structure of the planet.|  |D|||||
-|EVN‑021||Surface: map, 3D.|  |D|C||||
-|EVN‑022||Surface: map, precise.|  |D|||||
-|EVN‑023||Surface: mineralogical composition.|  ||C||||
-|EVN‑024||Surface: composition.|  ||C||||
-|EVN‑025||Surface: structure.|  ||C||||
-|EVN‑027||The causes why Venus evolved in a planet so different from Earth.|  |D|C|F|||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
-|EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.|  |D|||||
-|EVN‑040||Were there oceans & why have they gone|  |D|C|F|||
-|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
-|EVN‑045||Surface: nature of the tessera.|  |D|||||
-|EVN‑046||Surface: causes of the changes during the last billion years.|  |D|C|F|||
-|EVN‑051||Dimensions & characteristics of the mantle & the core.|  |D|||||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑079||Precise duration of the Venusian day.|  |D|||||
-|EVN‑085|T|Surface: tessera investigations, remote|  |D||F|||
-|EVN‑087||Crustal support mechanisms.|  |D|||||
-|EVN‑088|T|Surface: subsurface investigations.|  ||C||||
-|EVN‑089||Measuring the planetary gravitational field.|  |D||F|||
-|EVN‑090||Spin axis.|  |D|||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑017||Atmosphere: structure.||D|||||
+|EVN‑019||Atmosphere: energetic balance.||D|||||
+|EVN‑020||Inner structure of the planet.||D|||||
+|EVN‑021||Surface: map, 3D.||D|C||||
+|EVN‑022||Surface: map, precise.||D|||||
+|EVN‑023||Surface: mineralogical composition.|||C||||
+|EVN‑024||Surface: composition.|||C||||
+|EVN‑025||Surface: structure.|||C||||
+|EVN‑027||The causes why Venus evolved in a planet so different from Earth.||D|C|F|||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
+|EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.||D|||||
+|EVN‑040||Were there oceans & why have they gone||D|C|F|||
+|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
+|EVN‑045||Surface: nature of the tessera.||D|||||
+|EVN‑046||Surface: causes of the changes during the last billion years.||D|C|F|||
+|EVN‑051||Dimensions & characteristics of the mantle & the core.||D|||||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑076||Surface: volcanoes, their presence.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑079||Precise duration of the Venusian day.||D|||||
+|EVN‑085|T|Surface: tessera investigations, remote||D||F|||
+|EVN‑087||Crustal support mechanisms.||D|||||
+|EVN‑088|T|Surface: subsurface investigations.|||C||||
+|EVN‑089||Measuring the planetary gravitational field.||D||F|||
+|EVN‑090||Spin axis.||D|||||
 
 </small>
 
@@ -451,7 +451,7 @@ The first international conference to discuss the scientific investigations of t
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Page directory](f/project/e/envision/)

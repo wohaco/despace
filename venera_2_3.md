@@ -16,25 +16,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) |
-|Development| … |
-|Duration| **Venera 2** 3 m 15 d;<br>**Venera 3** 3 m 13 d |
-|Launch| **Venera 2** 1965.11.12 05:02 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M;<br> **Venera 3** 1965.11.16 04:19 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M |
-|Operator| OKB-1 |
-|Programme| Venera programme |
-|Similar to| • Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: Luna 2, [Mariner 2](mariner_2.md) |
-|Target| [Venus](venus.md) exploration |
-|[Type](sc.md)| Orbiter; lander |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|**Venera 2** 3 m 15 d;<br>**Venera 3** 3 m 13 d|
+|Launch|**Venera 2** 1965.11.12 05:02 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M;<br> **Venera 3** 1965.11.16 04:19 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M|
+|Operator|OKB-1|
+|Programme|Venera programme|
+|Similar to|• Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: Luna 2, [Mariner 2](mariner_2.md)|
+|Target|[Venus](venus.md) exploration|
+|[Type](sc.md)|Orbiter; lander|
 |**Spacecraft:**|• • •|
-|Composition| **Venera 2** Orbiter, **Venera 3** Lander, orbiter |
-|Comms| 2 m parabolic high‑gain antenna (decimeter range) |
-|Contractor| … |
-|[ID](spaceid.md)| **Venera 2** NSSDC ID (COSPAR ID): [1965-091A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-091A), SCN: 1730<br> **Venera 3** NSSDC ID (COSPAR ID): [1965-092A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-092A), SCN: 1733 |
-|Manufacturer| OKB-1 |
-|Mass| **Venera 2** 963 kg ([medium satellite](sc.md), [EVN‑072](venus.md))<br> **Venera 3** 960 kg ([medium satellite](sc.md), [EVN‑072](venus.md)) |
-|Orbit / Site| **Venera 2** Heliocentric 0.72 AU × 1.2 AU, T = 341 days.<br> **Venera3** Heliocentric 0.68 AU × 0.99 AU; T = 277 days |
-|Payload| **Venera 2** Camera, spectrometers, detectors, magnitometer;<br> **Venera 3**: *Orbiter*: Magnitometers, Discharge Counters and Semiconductor Detector<br> *Lander*: Photometer, Gas Analyzer, Temperature, pressure and density sensors, Movement detector, Gamma Ray Counter |
-|Power| … |
+|Composition|**Venera 2** Orbiter, **Venera 3** Lander, orbiter|
+|Comms|2 m parabolic high‑gain antenna (decimeter range)|
+|Contractor|…|
+|[ID](spaceid.md)|**Venera 2** NSSDC ID (COSPAR ID): [1965-091A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-091A), SCN: 1730<br> **Venera 3** NSSDC ID (COSPAR ID): [1965-092A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-092A), SCN: 1733|
+|Manufacturer|OKB-1|
+|Mass|**Venera 2** 963 kg ([medium satellite](sc.md), [EVN‑072](venus.md))<br> **Venera 3** 960 kg ([medium satellite](sc.md), [EVN‑072](venus.md))|
+|Orbit / Site|**Venera 2** Heliocentric 0.72 AU × 1.2 AU, T = 341 days.<br> **Venera3** Heliocentric 0.68 AU × 0.99 AU; T = 277 days|
+|Payload|**Venera 2** Camera, spectrometers, detectors, magnitometer;<br> **Venera 3**: *Orbiter*: Magnitometers, Discharge Counters and Semiconductor Detector<br> *Lander*: Photometer, Gas Analyzer, Temperature, pressure and density sensors, Movement detector, Gamma Ray Counter|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -48,8 +48,8 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.||D||F|||
 
 </small>
 
@@ -169,7 +169,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Research AST, Planetary Studies*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(301)614-66-27 ; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <giada.n.arney@nasa.gov> |
-|B‑day, addr.| <mark>nodate</mark> 1988 / … |
-|| [![](f/contact/a/arney1_photo_thumb.jpg)](f/contact/a/arney1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(301)614-66-27 ; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<giada.n.arney@nasa.gov>|
+|B‑day, addr.|<mark>nodate</mark> 1988 / …|
+||[![](f/contact/a/arney1_photo_thumb.jpg)](f/contact/a/arney1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrobiology, 2016 & MS, Astronomy, Washington Univ., 2012.
    - **Exp.:** Research has involved modeling & measuring properties of planets with an emphasis on worlds enshrouded by global cloud & haze layers because aerosols appear to be a common planetary phenomeon. I have a dual focus on both solar system bodies & on exoplanets. My current & near‑future research focuses on modeling the atmospheric & climatic states of exoplanets, understanding the observational requirements to discriminate between different planetary states with current & future observatories, & re-visiting Venus with new observations.

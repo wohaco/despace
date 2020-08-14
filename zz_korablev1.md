@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел №53 «Физики планет и малых тел солнечной системы». Заведующий отделом, зам. директора ИКИ РАН*|
 |:--|:--|
-|i18n| Korablev, Oleg Igorevich |
-|Tel|*раб.:* +7(495)333-00-17; *mobile:* +7(903)961-76-27 |
-|E‑mail| <korab@iki.rssi.ru> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/k/korablev1_animated.gif) [![](f/contact/k/korablev1_sign_thumb.jpg)](f/contact/k/korablev1_sign.png) |
+|i18n|Korablev, Oleg Igorevich|
+|Tel|*раб.:* +7(495)333-00-17; *mobile:* +7(903)961-76-27|
+|E‑mail|<korab@iki.rssi.ru>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||![](f/contact/k/korablev1_animated.gif) [![](f/contact/k/korablev1_sign_thumb.jpg)](f/contact/k/korablev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Skills & Expertise: Spectra, Spectrometers, Experimental Physics, Remote Sensing, Optics, Astronomy & Astrophysics, Atmosphere, Atmospheric Physics, Climatology, Geophysics.

@@ -17,25 +17,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md)|
-|Development| … |
-|Duration| **Venera 9:** Orbiter: 158 days; Lander: 53 minutes <br>**Venera 10:** Orbiter: 144 days; Lander: 65 minutes |
-|Launch| **Venera 9:** June 8, 1975, 02:38 UTC<br>**Venera 10:** June 14, 1975, 03:00:31 UTC<br>Rocket: Proton-K/DM |
-|Operator| Lavochkin |
-|Programme| Venera programme |
-|Similar to| • Proposed: [Venera 11 and 12](venera_11_12.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md) |
-|Target| Delivery of the lander to the surface of Venus. A study of the soil, the atmosphere and clouds. Photographing the surface of the planet (including panoramic) |
-|[Type](sc.md)| Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|**Venera 9:** Orbiter: 158 days; Lander: 53 minutes <br>**Venera 10:** Orbiter: 144 days; Lander: 65 minutes|
+|Launch|**Venera 9:** June 8, 1975, 02:38 UTC<br>**Venera 10:** June 14, 1975, 03:00:31 UTC<br>Rocket: Proton-K/DM|
+|Operator|Lavochkin|
+|Programme|Venera programme|
+|Similar to|• Proposed: [Venera 11 and 12](venera_11_12.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md)|
+|Target|Delivery of the lander to the surface of Venus. A study of the soil, the atmosphere and clouds. Photographing the surface of the planet (including panoramic)|
+|[Type](sc.md)|Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft|
 |**Spacecraft:**|• • •|
-|[ID](spaceid.md)| **Venera 9:** NSSDC ID (COSPAR ID): [1975-050A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050A), [1975-050D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050D), SCN: 7915, 8411<br>**Venera 10:** NSSDC ID (COSPAR ID): [1975-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054A), [1975-054D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054D), SCN: 7947, 8423 |
-|Comms| Orbiter: high gain parabolic antenna (wavelenght 8 and 32 cm) |
-|Composition| Orbiter; Lander |
-|Contractor| … |
-|Manufacturer| Lavochkin |
-|Mass| **Venera 9** Launch: 4 936 kg<br>Dry Orbiter: 2283 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)) Lander: 660 kg ([Medium satellite](спутник.md), [EVN‑072](venus.md)) <br>**Venera 10** Launch: 5 033 kg<br>Dry Orbiter: 2314 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)), Lander: 660 kg ([Medium satellite](спутник.md), [EVN‑072](evn_072.md)) |
-|Orbit / Site| Cytherocentric<br>**Venera 9:** 7 625 km × 118 072 km; T = 48.3 hours<br>**Venera 10:** 1 620 km × 113 900 km; T = 49.4 hours |
-|Payload| Spectrometers, cameras, different sensors for determining temperature, pressure, etc., photometer, radiometer, magnetometer |
-|Power| … |
+|[ID](spaceid.md)|**Venera 9:** NSSDC ID (COSPAR ID): [1975-050A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050A), [1975-050D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050D), SCN: 7915, 8411<br>**Venera 10:** NSSDC ID (COSPAR ID): [1975-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054A), [1975-054D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054D), SCN: 7947, 8423|
+|Comms|Orbiter: high gain parabolic antenna (wavelenght 8 and 32 cm)|
+|Composition|Orbiter; Lander|
+|Contractor|…|
+|Manufacturer|Lavochkin|
+|Mass|**Venera 9** Launch: 4 936 kg<br>Dry Orbiter: 2283 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)) Lander: 660 kg ([Medium satellite](спутник.md), [EVN‑072](venus.md)) <br>**Venera 10** Launch: 5 033 kg<br>Dry Orbiter: 2314 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)), Lander: 660 kg ([Medium satellite](спутник.md), [EVN‑072](evn_072.md))|
+|Orbit / Site|Cytherocentric<br>**Venera 9:** 7 625 km × 118 072 km; T = 48.3 hours<br>**Venera 10:** 1 620 km × 113 900 km; T = 49.4 hours|
+|Payload|Spectrometers, cameras, different sensors for determining temperature, pressure, etc., photometer, radiometer, magnetometer|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -49,29 +49,29 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑008||Atmosphere: nightglows.|  |D|||||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑016||Atmosphere: clouds, their structure.|  |D||F|||
-|EVN‑017||Atmosphere: structure.|  |D|||||
-|EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
-|EVN‑025||Surface: morphology|  |C|||||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑063|T|Surface: panoramic imaging.|  ||C||||
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.|  |D||F|||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑075||Atmosphere: clouds, their nature.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
-|EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑001||Atmosphere: preliminary model.||D|C|F|||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑006|T|Exploration: from surface.|||C||||
+|EVN‑008||Atmosphere: nightglows.||D|||||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑016||Atmosphere: clouds, their structure.||D||F|||
+|EVN‑017||Atmosphere: structure.||D|||||
+|EVN‑018||Atmosphere: clouds, their chemistry.||D||F|||
+|EVN‑025||Surface: morphology||C|||||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑063|T|Surface: panoramic imaging.|||C||||
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.||D||F|||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑075||Atmosphere: clouds, their nature.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑078|T|Atmosphere: radiography.||D|||||
+|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
+|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
 
 </small>
 
@@ -160,14 +160,14 @@ The main scientific task of the lander was to obtain a panoramic image from the 
 
 |*Characteristic*|*Value*|
 |:--|:--|
-|Angle of view| 30° |
-|Filters| Violet Ultraviolet |
-|Scanning resolution| 500 reads/line |
-|Frequency| 2 rows/s |
-|Transfer resolution| 256 pixels/row |
-|Pixel size| 6 bits |
-|Panoramic image resolution (standart)| 6 000 pixels in length |
-|Spatial resolution (at an altitude ~5 000 m)| 6 – 30 km |
+|Angle of view|30°|
+|Filters|Violet Ultraviolet|
+|Scanning resolution|500 reads/line|
+|Frequency|2 rows/s|
+|Transfer resolution|256 pixels/row|
+|Pixel size|6 bits|
+|Panoramic image resolution (standart)|6 000 pixels in length|
+|Spatial resolution (at an altitude ~5 000 m)|6 – 30 km|
 
 **LANDER**
 
@@ -190,18 +190,18 @@ The main scientific task of the lander was to obtain a panoramic image from the 
 
 |*Characteristic*|*Value*|
 |:--|:--|
-|Mass| 5.8 kg |
-|Number of items per row| 115 |
-|The transmission time line| 3.5 s |
-|Number of rows in the panorama| 17 |
-|The transmission time of the panorama| 1 800 s |
-|The number of quantization levels of the video signal| 64 |
-|Power input| 5 W |
-|Full angular field of view| 40 x 180° |
-|Image size| 128 x 512 px |
-|Pixel size| 6 bits |
-|Shooting time limit| 1 800 s |
-|Data rate| 256 bit/s |
+|Mass|5.8 kg|
+|Number of items per row|115|
+|The transmission time line|3.5 s|
+|Number of rows in the panorama|17|
+|The transmission time of the panorama|1 800 s|
+|The number of quantization levels of the video signal|64|
+|Power input|5 W|
+|Full angular field of view|40 x 180°|
+|Image size|128 x 512 px|
+|Pixel size|6 bits|
+|Shooting time limit|1 800 s|
+|Data rate|256 bit/s|
 
 Panoramas were transmitted simultaneously on independent VHF channels. Each camera was equipped with a backlight system with two lamps for 10 000 Lux. The camera was located inside a sealed and thermally insulated enclosure. The surface was photographed through a cylindrical porthole, inside which a scanning mirror and elements of its drive were installed.
 
@@ -287,7 +287,7 @@ The lander was a sealed double-walled titanium pressure vessel of spherical shap
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.: ил.

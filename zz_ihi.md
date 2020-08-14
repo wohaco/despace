@@ -3,9 +3,9 @@
 
 |[![](f/contact/i/ihi_logo1_thumb.png)](f/contact/i/ihi_logo1.png)|*Toyosu IHI Bldg., 1-1, Toyosu 3-chome, Koto-ku, Tokyo, 135-0061, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.ihi.co.jp/ia/en/products/space/index.html><br> <https://www.linkedin.com/company/ihi-aerospace> |
-|Tel| +81-3-6204-8000, ℻: +81-3-6204-8810  |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.ihi.co.jp/ia/en/products/space/index.html><br> <https://www.linkedin.com/company/ihi-aerospace>|
+|Tel|+81-3-6204-8000, ℻: +81-3-6204-8810|
 
 **IHI Corporation** (株式会社IHI, Kabushiki-gaisha IHI), formerly known as **Ishikawajima-Harima Heavy Industries Co., Ltd.** (石川島播磨重工業株式会社, Ishikawajima Harima Jūkōgyō Kabushiki-gaisha), is a Japanese company which produces ships, aircraft engines, turbochargers for automobiles, industrial machines, marine diesel engines, power station boilers & other facilities, suspension bridges & other transport‑related machinery. Founded in 1853.
 

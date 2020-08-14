@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*Carleton Univ., US. Tomsk SU, RU. Scientist in Residence*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(613)295-79-55; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <richard.ernst@ernstgeosciences.com> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/e/ernst1_photo_thumb.jpg)](f/contact/e/ernst1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(613)295-79-55; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<richard.ernst@ernstgeosciences.com>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||[![](f/contact/e/ernst1_photo_thumb.jpg)](f/contact/e/ernst1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, P.Geo., Carleton Univ., 1989.
    - **Exp.:** Skills & Expertise: Tectonics, Geological Mapping, Geology, Mining, Geochemistry, Plate Tectonics, Geochronology, Gas, Geodynamics, Petrology, Paleomagnetism, Meteorites, TIMS.

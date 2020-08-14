@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Заведующий лабораторией*|
 |:--|:--|
-|B‑day, addr.| 1945.05.22 / |
-|E‑mail| <lzasova@gmail.com>, <zasova@iki.rssi.ru> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92 |
-|| ![](f/contact/z/zasova1_animated.gif) [![](f/contact/z/zasova1_sign_thumb.jpg)](f/contact/z/zasova1_sign.png) |
+|B‑day, addr.|1945.05.22 /|
+|E‑mail|<lzasova@gmail.com>, <zasova@iki.rssi.ru>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92|
+||![](f/contact/z/zasova1_animated.gif) [![](f/contact/z/zasova1_sign_thumb.jpg)](f/contact/z/zasova1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

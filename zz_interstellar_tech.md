@@ -3,9 +3,9 @@
 
 |[![](f/contact/i/interstellar_tech_logo1_thumb.png)](f/contact/i/interstellar_tech_logo1.png)|*690-4 Memu, Taiki, Hiroo-gun, Hokkaido, Japan 089-2113*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <http://www.istellartech.com/><br> <https://en.wikipedia.org/wiki/Interstellar_Technologies> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<http://www.istellartech.com/><br> <https://en.wikipedia.org/wiki/Interstellar_Technologies><br> <https://www.linkedin.com/company/isterllar/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Interstellar Technologies Inc.** is a [rocket](lv.md) development, manufacturing & launch service. Founded 2003.05.01.
 

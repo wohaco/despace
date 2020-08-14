@@ -11,14 +11,14 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1946 ‑ …)  |
-| [Launch vehicles](lv.md)  | Military missiles  |
-| Operator  | Ministry of Defence (Russia) |
-| Location  | 48.586°N 45.72°E<br> Astrakhan Oblast, Russia  |
-| Distance  | 5 400 km — to the equator;<br> 1 000 km — to [NPO Lavochkin](zz_lav.md);<br> 18 000 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 4  |
-|| [![](f/spaceport/kapustin_yar/pic1_thumb.jpg)](f/spaceport/kapustin_yar/pic1.jpg)  [![](f/spaceport/kapustin_yar/map1_thumb.jpg)](f/spaceport/kapustin_yar/map1.png)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1946 ‑ …)|
+|[Launch vehicles](lv.md)|Military missiles|
+|Operator|Ministry of Defence (Russia)|
+|Location|48.586°N 45.72°E<br> Astrakhan Oblast, Russia|
+|Distance|5 400 km — to the equator;<br> 1 000 km — to [NPO Lavochkin](zz_lav.md);<br> 18 000 km — to [JPL](zz_jpl.md)|
+|Launch pad|4|
+||[![](f/spaceport/kapustin_yar/pic1_thumb.jpg)](f/spaceport/kapustin_yar/pic1.jpg)  [![](f/spaceport/kapustin_yar/map1_thumb.jpg)](f/spaceport/kapustin_yar/map1.png)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

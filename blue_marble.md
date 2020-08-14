@@ -11,7 +11,7 @@
 
 |*Экипаж «Аполлона‑17».<br> Синий марбл. 1972. The Blue Marble*|*Blue Marble 2012*|
 |:--|:--|
-| [![](f/aob/universe/blue_marble_thumb.jpg)](f/aob/universe/blue_marble.jpg) | [![](f/aob/universe/blue_marble_2012_thumb.jpg)](f/aob/universe/blue_marble_2012.jpg) |
+|[![](f/aob/universe/blue_marble_thumb.jpg)](f/aob/universe/blue_marble.jpg)|[![](f/aob/universe/blue_marble_2012_thumb.jpg)](f/aob/universe/blue_marble_2012.jpg)|
 
 
 

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[University at Buffalo College of Arts & Sciences](zz_buffalo_univ.md), US. Department of Geology. Associate Professor of Geology*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(716)645-43-28; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <tgregg@buffalo.edu> |
-|B‑day, addr.| 1968.09.12 (Nebraska, USA) / |
-|| ![](f/contact/g/gregg1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(716)645-43-28; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<tgregg@buffalo.edu>|
+|B‑day, addr.|1968.09.12 (Nebraska, USA) /|
+||![](f/contact/g/gregg1_photo.jpg) <mark>nosign</mark>|
 
    - **[CV](f/contact/g/gregg1_cv_17-18.pdf)**.
    - **Exp.:** Volcanic eruptions in extreme environments (mid‑ocean ridges & extraterrestrial surfaces); lava flow eruption & emplacement on Earth & other planets; constraining physics of eruptions from resulting volcanic morphologies.

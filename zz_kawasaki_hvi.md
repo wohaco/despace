@@ -3,9 +3,9 @@
 
 |[![](f/contact/k/kawasaki_hvi_logo1_thumb.jpg)](f/contact/k/kawasaki_hvi_logo1.png)|*1-3, Higashikawasaki-cho 1-chome,, Chuo-ku, Kobe,, Hyogo 650-8680, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <http://global.kawasaki.com/en/mobility/air/space/index.html><br> <https://en.wikipedia.org/wiki/Kawasaki_Aerospace_Company><br> <https://www.linkedin.com/company/kawasaki-heavy-industries/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<http://global.kawasaki.com/en/mobility/air/space/index.html><br> <https://en.wikipedia.org/wiki/Kawasaki_Aerospace_Company><br> <https://www.linkedin.com/company/kawasaki-heavy-industries/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Kawasaki Heavy Industries Aerospace Company** (川崎重工業航空宇宙カンパニー, Kawasaki Jūkōgyō Kōkūuchū Kanpanii) is the aerospace division of Kawasaki Heavy Industries (KHI). It produces aircraft, space systems, simulators, jet engines, missiles, & electronic equipment.
 

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Zielona Univ.](zz_zielona_univ.md), EU.*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <grzegslowik@o2.pl> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +48(695)042-497, ℻: +48(683)264-886; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/s/slowik1_photo_thumb.jpg)](f/contact/s/slowik1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<grzegslowik@o2.pl>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +48(695)042-497, ℻: +48(683)264-886; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/s/slowik1_photo_thumb.jpg)](f/contact/s/slowik1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

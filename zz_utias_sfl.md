@@ -3,9 +3,9 @@
 
 |[![](f/contact/u/utias_sfl_logo1_thumb.jpg)](f/contact/u/utias_sfl_logo1.png)|*4925 Dufferin Street, Toronto, Ontario, M3H 5T6, Canada*|
 |:--|:--|
-|E‑mail| <info@utias‑sfl.net> |
-|Link| <https://www.utias‑sfl.net/> |
-|Tel| +1(416)667-74-00, ℻: +1(416)667-74-78 |
+|E‑mail|<info@utias‑sfl.net>|
+|Link|<https://www.utias‑sfl.net/>|
+|Tel|+1(416)667-74-00, ℻: +1(416)667-74-78|
 
 **The Space Flight Laboratory (SFL)** at the [UTIAS](zz_utias.md) maintains complete & comprehensive facilities to support the complete development cycle of [satellites & spacecraft](КА.md), from initial conception to final environmental testing. SFL also maintains ground support equipment, ground stations, & a mission control center to support needs in the field, including launch campaigns in other countries, commissioning & operation of satellites following launch.
 

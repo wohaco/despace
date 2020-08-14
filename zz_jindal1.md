@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Cornell Univ.](cornell_univ.md), US. Astronomy & Space Sciences. Graduate Teaching Assistant*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +1(607)261-21-67 |
-|E‑mail| <asj59@cornell.edu> |
-|B‑day, addr.| 1994.10.12 (Мумбаи, Индия) / Итака, Нью‑Йорк, США |
-|| [![](f/contact/j/jindal1_photo_thumb.jpg)](f/contact/j/jindal1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +1(607)261-21-67|
+|E‑mail|<asj59@cornell.edu>|
+|B‑day, addr.|1994.10.12 (Мумбаи, Индия) / Итака, Нью‑Йорк, США|
+||[![](f/contact/j/jindal1_photo_thumb.jpg)](f/contact/j/jindal1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrophysics, Cornell Univ., USA. B.Tech., Engineering Physics, Indian Institute of Technology, 2012-2016.
    - **Exp.:** My research interests include understanding the evolution of terrestrial planets & what makes a planet habitable. I am also interested in the search for life beyond Earth.

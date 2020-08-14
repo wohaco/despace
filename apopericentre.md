@@ -18,7 +18,7 @@
 
 |*Апоцентр*|*Перицентр*|
 |:--|:--|
-|  ![](f/nav/orbit_apocentr.png)  |  ![](f/nav/orbit_pericentr.png)  |
+|![](f/nav/orbit_apocentr.png)|![](f/nav/orbit_pericentr.png)|
 
 
 
@@ -35,9 +35,9 @@
 
 Точка апогея прямо противоположна точке перигея, так как обе эти точки — концы линии апсид, и изменяют свое положение с изменением положения линии апсид. Таким образом, изменение направления линии апогея, например, Луны непосредственно получается из изменения положения перигея её орбиты. Что касается расстояния точки апогея, то изменение этого расстояния зависит от изменений эксцентриситета лунной орбиты и её большой оси.
 
-| <small>1 Земля<br> 2 орбита спутника<br> 3 спутник Земли<br> 4 линия земного экватора<br> 5 ось вращения Земли<br> 6 перигей<br> 7 апогей<br> 8 линия апсид</small>  |
+|<small>1 Земля<br> 2 орбита спутника<br> 3 спутник Земли<br> 4 линия земного экватора<br> 5 ось вращения Земли<br> 6 перигей<br> 7 апогей<br> 8 линия апсид</small>|
 |:--|
-| ![](f/nav/orbit_apside_general_scheme.png)  |
+|![](f/nav/orbit_apside_general_scheme.png)|
 
 
 
@@ -48,7 +48,7 @@
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md) ┊ [Апоцентр и перицентр](apopericentre.md) ┊ [Гравманёвр](gravass.md) ┊ [Кеплеровы элементы](keplerian.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Терминатор](terminator.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эффект Оберта](oberth_eff.md) |
+|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md) ┊ [Апоцентр и перицентр](apopericentre.md) ┊ [Гравманёвр](gravass.md) ┊ [Кеплеровы элементы](keplerian.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Терминатор](terminator.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эффект Оберта](oberth_eff.md)|
 
    1. Docs: …
    1. Notable interwikies — …

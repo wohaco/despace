@@ -3,9 +3,9 @@
 
 |[![](f/contact/i/imv_corp_logo1_thumb.jpg)](f/contact/i/imv_corp_logo1.png)|*6, 西淀川区竹島２丁目６−１０, Nishiyodogawa Ward, 〒555-0011 Osaka, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.imv.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/imv/><br> <https://www.linkedin.com/company/imv-corporation/> |
-|Tel| +81 6-6478-2565, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.imv.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/imv/><br> <https://www.linkedin.com/company/imv-corporation/>|
+|Tel|+81 6-6478-2565, ℻: …|
 
 **IMV Corporation** is a world’s leading supplier of high reliability vibration [test & measurement systems](test.md). Founded in 1957.
 

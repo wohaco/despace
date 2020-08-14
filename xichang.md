@@ -11,14 +11,14 @@ The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Spac
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1984 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Long March 2, 3](long_march.md)  |
-| Operator  | [CNSA](zz_cnsa.md) |
-| Location  | 28°14′45.66″N 102°1′35.60″E<br> Xichang, Liangshan Yi Autonomous Prefecture in Sichuan, China |
-| Distance  | 3 200 km — to the equator;<br> 6 700 to [NPO Lavochkin](zz_lav.md);<br> 15 500 km — to [JPL](zz_jpl.md);<br> 1 900 km — to [CNSA](zz_cnsa.md)  |
-| Launch pad  | 3  |
-|| [![](f/spaceport/xichang/pic1_thumb.jpg)](f/spaceport/xichang/pic1.jpg)  [![](f/spaceport/xichang/map1_thumb.jpg)](f/spaceport/xichang/map1.png)   [![](f/spaceport/xichang/map2_thumb.jpg)](f/spaceport/xichang/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1984 ‑ …)|
+|[Launch vehicles](lv.md)|[Long March 2, 3](long_march.md)|
+|Operator|[CNSA](zz_cnsa.md)|
+|Location|28°14′45.66″N 102°1′35.60″E<br> Xichang, Liangshan Yi Autonomous Prefecture in Sichuan, China|
+|Distance|3 200 km — to the equator;<br> 6 700 to [NPO Lavochkin](zz_lav.md);<br> 15 500 km — to [JPL](zz_jpl.md);<br> 1 900 km — to [CNSA](zz_cnsa.md)|
+|Launch pad|3|
+||[![](f/spaceport/xichang/pic1_thumb.jpg)](f/spaceport/xichang/pic1.jpg)  [![](f/spaceport/xichang/map1_thumb.jpg)](f/spaceport/xichang/map1.png)   [![](f/spaceport/xichang/map2_thumb.jpg)](f/spaceport/xichang/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

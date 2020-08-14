@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/astrocean_logo1_thumb.png)](f/contact/a/astrocean_logo1.png)|*Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <takuma.mori@astrocean.jp> |
-|Link| <https://astrocean.jp><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/astrocean/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<takuma.mori@astrocean.jp>|
+|Link|<https://astrocean.jp><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/astrocean/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Astrocean** provides sea launch service to various sized rockets. At the beginning, Astroceanhas founded to improve future shortage of spaceport. Founded in November 2018.
 

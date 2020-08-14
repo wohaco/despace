@@ -3,9 +3,9 @@
 
 |[![](f/contact/c/canadensys_logo1_thumb.jpg)](f/contact/c/canadensys_logo1.png)|*Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <http://www.canadensys.com/><br> <https://community.canadensys.net/><br> <https://www.linkedin.com/company/canadensys-aerospace-corporation/><br> <https://twitter.com/canadensys> |
-|Tel| +1(514)343-61-11, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<http://www.canadensys.com/><br> <https://community.canadensys.net/><br> <https://www.linkedin.com/company/canadensys-aerospace-corporation/><br> <https://twitter.com/canadensys>|
+|Tel|+1(514)343-61-11, ℻: …|
 
 **Canadensys Aerospace Corporation** is a space systems & services company with a focus on accessible space. The company is founded on heritage & expertise that spans a number of Canada’s historic space achievements of the last 3 decades, blending them with micro & nano space technology, & modern, commercial business models for effective space program & mission development.
 

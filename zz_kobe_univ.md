@@ -3,9 +3,9 @@
 
 |[![](f/contact/k/kobe_univ_logo1_thumb.jpg)](f/contact/k/kobe_univ_logo1.png)|*1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.kobe-u.ac.jp/><br> <https://en.wikipedia.org/wiki/Kobe_University><br> <https://www.linkedin.com/company/kobe-university/><br> <https://www.linkedin.com/school/神戸大学/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.kobe-u.ac.jp/><br> <https://en.wikipedia.org/wiki/Kobe_University><br> <https://www.linkedin.com/company/kobe-university/><br> <https://www.linkedin.com/school/神戸大学/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Kobe University** (神戸大学, Kōbe daigaku), also known in the Kansai region as Shindai (神大), is a leading Japanese national university located in the city of Kobe, in Hyōgo.
 

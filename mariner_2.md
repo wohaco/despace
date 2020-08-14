@@ -16,25 +16,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … of [gold](sc_price.md) |
-|Development| … |
-|Duration| 4 m 7 d |
-|Launch| 1962.08.27 06:53:14 UTC, Rocket: Atlas Agena B |
-|Operator| [NASA](zz_nasa.md) / [JPL](zz_jpl.md) |
-|Programme| Space program Mariner |
-|Similar to| • Proposed: [Mariner 5](mariner_5.md)<br> • Current: …<br> • Past: [Luna 1](luna_1.md) |
-|Target| Venus exploration |
-|[Type](sc.md)| Fly‑by spacecraft |
+|Cost|… or … of [gold](sc_price.md)|
+|Development|…|
+|Duration|4 m 7 d|
+|Launch|1962.08.27 06:53:14 UTC, Rocket: Atlas Agena B|
+|Operator|[NASA](zz_nasa.md) / [JPL](zz_jpl.md)|
+|Programme|Space program Mariner|
+|Similar to|• Proposed: [Mariner 5](mariner_5.md)<br> • Current: …<br> • Past: [Luna 1](luna_1.md)|
+|Target|Venus exploration|
+|[Type](sc.md)|Fly‑by spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| Pointed parabolic antenna, 1.2 m in diameter |
-|Composition| Orbiter |
-|Contractor| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1962-041A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-041A), SCN: 00374 |
-|Manufacturer| JPL |
-|Mass| 202.8 kg ([minisatellite](sc.md), [EVN‑070](venus.md)) |
-|Orbit / Site| Heliocentric, apocenter 1.0 AU; pericenter 0.72 AU |
-|Payload| Instruments for measuring magnetic fields, infrared and microwave radiation, detecting high‑energy particles, and meteor dust |
-|Power| 220 W |
+|Comms|Pointed parabolic antenna, 1.2 m in diameter|
+|Composition|Orbiter|
+|Contractor|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1962-041A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-041A), SCN: 00374|
+|Manufacturer|JPL|
+|Mass|202.8 kg ([minisatellite](sc.md), [EVN‑070](venus.md))|
+|Orbit / Site|Heliocentric, apocenter 1.0 AU; pericenter 0.72 AU|
+|Payload|Instruments for measuring magnetic fields, infrared and microwave radiation, detecting high‑energy particles, and meteor dust|
+|Power|220 W|
 
 Achieved targets & investigations:
 
@@ -48,14 +48,14 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑028||Magnetosphere structure.|  |D||F|||
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑090||Spin axis.|  |D|||||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑001||Atmosphere: preliminary model.||D|C|F|||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑028||Magnetosphere structure.||D||F|||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑090||Spin axis.||D|||||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
 
 </small>
 
@@ -105,19 +105,19 @@ Mariner 2 was equipped with scientific instruments for measuring the magnetic 
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-|Frequency bands| 13.5 mm and 19.0 mm |
-|Mass| 10 kg |
-|Average power| 4 W |
-|Peak power| 9 W |
+|Frequency bands|13.5 mm and 19.0 mm|
+|Mass|10 kg|
+|Average power|4 W|
+|Peak power|9 W|
 
    - A two‑channel infrared radiometer to measure the effective temperatures of small areas of Venus ([EVN‑074](venus.md)). The radiation that was received could originate from the planetary surface, clouds in the atmosphere, the atmosphere itself or a combination of these. The radiation was received in two spectral ranges: 8 ‑ 9 μm (focused on 8.4 μm) and 10 ‑ 10.8 μm (focused on 10.4 μm). The latter corresponding to the carbon dioxide band ([EVN‑077](venus.md)).
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-|Frequency bands| 8 to 9 μm (F = 8.4 μm) and 10 to 10.8 μm (F = 10.4 μm) |
-|Mass| 1.3 kg |
-|Power| 2.4 W |
-|The range of measurement of radiation temperatures| 200 ‑ 500 K |
+|Frequency bands|8 to 9 μm (F = 8.4 μm) and 10 to 10.8 μm (F = 10.4 μm)|
+|Mass|1.3 kg|
+|Power|2.4 W|
+|The range of measurement of radiation temperatures|200 ‑ 500 K|
 
    - A three‑axis fluxgate magnetometer to measure planetary and interplanetary magnetic fields ([EVN‑028](venus.md)). Three probes were incorporated in its sensors, so it could obtain three mutually orthogonal components of the field vector. The field that the magnetometer observed was the superposition of a nearly constant spacecraft field and the interplanetary field. Thus, it effectively measured only the changes in the interplanetary field.
    - An ionization chamber with matched Geiger‑Müller tubes (also known as a cosmic ray detector) to measure high‑energy cosmic radiation.
@@ -161,7 +161,7 @@ Scientific experiments were based on the base of the spacecraft and the mast. Th
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

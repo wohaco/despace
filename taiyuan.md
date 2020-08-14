@@ -11,14 +11,14 @@ The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chine
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1988 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Long March 1, 2, 4, 6](long_march.md)  |
-| Operator  | [CNSA](zz_cnsa.md) |
-| Location  | 38°50′56.71″N 111°36′30.59″E<br> Kelan County, Xinzhou, Shanxi Province, China |
-| Distance  | 4 500 km — to the equator;<br> 6 400 km — to [NPO Lavochkin](zz_lav.md);<br> 12 800 km — to [JPL](zz_jpl.md);<br> 450 km — to [CNSA](zz_cnsa.md)  |
-| Launch pad  | 16  |
-|| [![](f/spaceport/taiyuan/pic1_thumb.jpg)](f/spaceport/taiyuan/pic1.jpg)  [![](f/spaceport/taiyuan/map1_thumb.jpg)](f/spaceport/taiyuan/map1.png)   [![](f/spaceport/taiyuan/map2_thumb.jpg)](f/spaceport/taiyuan/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1988 ‑ …)|
+|[Launch vehicles](lv.md)|[Long March 1, 2, 4, 6](long_march.md)|
+|Operator|[CNSA](zz_cnsa.md)|
+|Location|38°50′56.71″N 111°36′30.59″E<br> Kelan County, Xinzhou, Shanxi Province, China|
+|Distance|4 500 km — to the equator;<br> 6 400 km — to [NPO Lavochkin](zz_lav.md);<br> 12 800 km — to [JPL](zz_jpl.md);<br> 450 km — to [CNSA](zz_cnsa.md)|
+|Launch pad|16|
+||[![](f/spaceport/taiyuan/pic1_thumb.jpg)](f/spaceport/taiyuan/pic1.jpg)  [![](f/spaceport/taiyuan/map1_thumb.jpg)](f/spaceport/taiyuan/map1.png)   [![](f/spaceport/taiyuan/map2_thumb.jpg)](f/spaceport/taiyuan/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

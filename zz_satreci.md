@@ -3,13 +3,15 @@
 
 |[![](f/contact/s/satreci_logo1_thumb.png)](f/contact/s/satreci_logo1.png)|*21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*|
 |:--|:--|
-|E‑mail| <inquiries@satreci.com> |
-|Link| <https://www.satreci.com/><br> <https://en.wikipedia.org/wiki/Satrec_Initiative><br> <https://www.linkedin.com/company/satrec-initiative> |
-|Tel| +82-42-365-7474, ℻: +82-42-365-7790 |
+|E‑mail|<inquiries@satreci.com>|
+|Link|<https://www.satreci.com/><br> <https://en.wikipedia.org/wiki/Satrec_Initiative><br> <https://www.linkedin.com/company/satrec-initiative><br> <https://www.linkedin.com/company/satrec-initiative/><br> <https://www.linkedin.com/company/si-imaging-services/>|
+|Tel|+82-42-365-7474, ℻: +82-42-365-7790|
 
 **Satrec Initiative Co., Ltd.** (Korean: 쎄트렉아이) or **SI** or **Satrec I** is a South Korean [satellite](sc.md) manufacturing company headquartered in Daejeon, South Korea. The company designs & builds Earth observation satellites platform called SpaceEye‑series, & SI provides various space components, including high resolution electro‑optical payloads & star‑trackers.
 
 The company was founded in 1999 by the engineers who developed the first Korean satellite (KITSAT-1) at [KAIST](kaist.md) Satellite Technology Research Center (SaTRec). SI’s market entering began with a Malaysian Earth observation satellite, RazakSAT. SI has two subsidiaries, SI Imaging Service (SIIS), which is the main image data provider of KOMPSAT‑series & SI Detection (SID), which provides radiation monitoring solutions.
+
+**SI Imaging Services (SIIS)** is a leading Satellite Imagery Provider for Remote Sensing & Earth Observation. The SIIS has the Exclusive Worldwide Marketing & Sales Representative of KOMPSAT series which is KOMPSAT-2, KOMPSAT-3 & KOMPSAT-5. Also the SIIS serves DubaiSAT-2 satellite imagery worldwide.
 
 Satellites & launches
 

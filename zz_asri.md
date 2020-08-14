@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/asri_logo1_thumb.jpg)](f/contact/a/asri_logo1.png)|*PO Box 266, Mt Ommaney QLD 4074, AUSTRALIA*|
 |:--|:--|
-|E‑mail| <asri@asri.org.au> |
-|Link| <http://asri.org.au/><br> <https://en.wikipedia.org/wiki/Australian_Space_Research_Institute><br> <https://ru.wikipedia.org/wiki/Австралийский_институт_космических_исследований> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<asri@asri.org.au>|
+|Link|<http://asri.org.au/><br> <https://en.wikipedia.org/wiki/Australian_Space_Research_Institute><br> <https://ru.wikipedia.org/wiki/Австралийский_институт_космических_исследований>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Австралийский институт космических исследований** (англ. **Australian Space Research Institute**, сокр. **ASRI**) — космическое агентство Австралии, некоммерческая организация, деятельность которой полностью осуществляется волонтёрами.  
 ASRI появился в начале 1990‑х годов в результате слияния Группы разработки средств запуска (AUSROC) из Университета Монаша в Мельбурне и Австралийской космической инженерно‑исследовательской ассоциации (ASERA).  

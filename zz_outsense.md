@@ -3,9 +3,9 @@
 
 |[![](f/contact/o/outsense_logo1_thumb.jpg)](f/contact/o/outsense_logo1.png)|*Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <info@outsense.jp> |
-|Link| <https://outsense.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/outsense/> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<info@outsense.jp>|
+|Link|<https://outsense.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/outsense/>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **OUTSENSE Inc.** was established in 2018 by Yozan TAKAHASHI who are interested in space architecture, & studied 3‑Dimentional Expanded Structure (special ORIGAMI‑structure for space architecture) at Tokai Univ. in Japan. Now it’s in R&D phase. The future plan is providing facilities for space‑activity on the moon without human by 2025, & constructing moon base by 2030.
 

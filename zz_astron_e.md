@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/astron_electronics_logo1_thumb.jpg)](f/contact/a/astron_electronics_logo1.png)|*Россия, 302019, Орёл, ул. Весёлая, д. 2*|
 |:--|:--|
-|E‑mail| <info@astronel.ru> |
-|Link| <http://www.astronel.ru/> |
-|Tel| +7(4862)43-36-93, ℻: +7(4862)43-36-93 |
+|E‑mail|<info@astronel.ru>|
+|Link|<http://www.astronel.ru/>|
+|Tel|+7(4862)43-36-93, ℻: +7(4862)43-36-93|
 
 **ООО «НПП «Астрон Электроника»** — разработка и производство аппаратуры для космических аппаратов.
 

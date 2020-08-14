@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/sdnx_logo1_thumb.jpg)](f/contact/s/sdnx_logo1.png)|*D1/B-31, Palam Kunj, Ramphal Chowk, Sector 7, Dwarka, New Delhi, Delhi 110075, India*|
 |:--|:--|
-|E‑mail| <info@spacedevelopmentnexus.com>, <sdnxseed@gmail.com> |
-|Link| <http://www.spacedevelopmentnexus.com/><br> <https://www.linkedin.com/company/space-development-nexus/> |
-|Tel| +91-7755862698, ℻: … |
+|E‑mail|<info@spacedevelopmentnexus.com>, <sdnxseed@gmail.com>|
+|Link|<http://www.spacedevelopmentnexus.com/><br> <https://www.linkedin.com/company/space-development-nexus/>|
+|Tel|+91-7755862698, ℻: …|
 
 **Space Development Nexus (SDNx).** The pursuit of space colonization through a global cooperative effort. Specialties: Asteroids and Space Mining, Space Colony Habitate Settellment, Life Extension Transhumanism, Innovations Spaceships Space Weapons, Cubesats Satellites Rockets RLV VTVL, Artificial Intelligence Robotics Rovers Probe, and Orbital Systems 3D Printing.
 

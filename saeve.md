@@ -13,13 +13,13 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-|Duration| 120 days |
-|Program| [Venera-D](venera_d_open_ru.md) |
-|Goal| Determine how seismically active Venus is, determining the speed and style of seismic activity. Meteorology: climate and its evolution |
-|Developer| `NASA?` |
-|Mass| 25 kg (~40 kg together with aeroshell) |
-|Orbit / Place| Surface |
-|Payload| METEO, MEMS chemical sensor, Seismometer, Heat flux sensor |
+|Duration|120 days|
+|Program|[Venera-D](venera_d_open_ru.md)|
+|Goal|Determine how seismically active Venus is, determining the speed and style of seismic activity. Meteorology: climate and its evolution|
+|Developer|`NASA?`|
+|Mass|25 kg (~40 kg together with aeroshell)|
+|Orbit / Place|Surface|
+|Payload|METEO, MEMS chemical sensor, Seismometer, Heat flux sensor|
 
 ***Targets and investigations:***
 
@@ -33,29 +33,29 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑007||Atmosphere: connection between the topography & the atmo circulation.|  |D|||||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑017||Atmosphere: structure.|  |D|||||
-|EVN‑019||Atmosphere: energetic balance.|  |D|||||
-|EVN‑020||Inner structure of the planet.|  |D|||||
-|EVN‑023||Surface: mineralogical composition.|  ||C||||
-|EVN‑024||Surface: composition.|  ||C||||
-|EVN‑025||Surface: structure.|  ||C||||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.|  |D|||||
-|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|  ||C||||
-|EVN‑047||Surface: structure‑composition connection of different regions & planet’s evolution.|  ||C||||
-|EVN‑058|T|Exploration: directed seismoexperiment.|  |D||F|||
-|EVN‑069|T|Prolonged surface‑spacecraft functioning.|  ||C||||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑094|T|High temperature electronics.|  |D|C|F|||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑006|T|Exploration: from surface.|||C||||
+|EVN‑007||Atmosphere: connection between the topography & the atmo circulation.||D|||||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑017||Atmosphere: structure.||D|||||
+|EVN‑019||Atmosphere: energetic balance.||D|||||
+|EVN‑020||Inner structure of the planet.||D|||||
+|EVN‑023||Surface: mineralogical composition.|||C||||
+|EVN‑024||Surface: composition.|||C||||
+|EVN‑025||Surface: structure.|||C||||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.||D|||||
+|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
+|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|||C||||
+|EVN‑047||Surface: structure‑composition connection of different regions & planet’s evolution.|||C||||
+|EVN‑058|T|Exploration: directed seismoexperiment.||D||F|||
+|EVN‑069|T|Prolonged surface‑spacecraft functioning.|||C||||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑094|T|High temperature electronics.||D|C|F|||
 
 </small>
 
@@ -147,10 +147,10 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 
 |*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, MB/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-| ☑ | METEO | Temperature, pressures, radiance, and wind speed and direction sensors | Fits on 20 mm station | <0.2 | — | — | High | 4 to 5 | 5 | TRL driven by radiance sensing |
-| ☑ | Microelectromechanical systems chemical sensor | Detect and measure concentration of preselected element set | Fits on 20 mm station | <0.2 | — | — | High | 5 | 3 |  |
-|  | Seismometer | Detect and measure seismic events for one Venus solar day. Three axis, 0.1 to 100 s period. Sensitivity better than 1 ng/rtHz | Fits inside SAEVe aeroshell and the lander envelope | 0.3 | — | — | High | 2 | 6 |  |
-|  | Heat flux sensor | Detect and measure heat from the interior over a Venus solar day. Range is 10 mW/m² to 1 W/m² | Fits inside SAEVe aeroshell and the lander envelope | 0.3 | — | — | High | 3 | 6 |  |
+|☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 mm station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
+|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 mm station|<0.2|—|—|High|5|3||
+||Seismometer|Detect and measure seismic events for one Venus solar day. Three axis, 0.1 to 100 s period. Sensitivity better than 1 ng/rtHz|Fits inside SAEVe aeroshell and the lander envelope|0.3|—|—|High|2|6||
+||Heat flux sensor|Detect and measure heat from the interior over a Venus solar day. Range is 10 mW/m² to 1 W/m²|Fits inside SAEVe aeroshell and the lander envelope|0.3|—|—|High|3|6||
 
 </small>
 
@@ -168,7 +168,7 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. <https://www.lpi.usra.edu/vexag/meetings/archive/vexag_15/presentations/22-Kremic-SAEVe.pdf>

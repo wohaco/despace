@@ -16,25 +16,25 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) |
-|Development| … |
-|Duration| • «Vega 1» 15 Dec. 1984 — 6 Mar. 1986<br> • «Vega 2» 21 Dec. 1984 — 9 Mar. 1986 |
-|Launch| • «Vega 1» 15 Dec. 1984, 09:16:24, Baikonur, «[Proton-K](proton.md)»<br> • «Vega 2» 21 Dec. 1984, 09:13:52, Baikonur, «[Proton-K](proton.md)» |
-|Operator| … |
-|Programme| Venus‑Halley |
-|Similar to| • Proposed: …<br>  • Current: …<br> • Past: … |
-|Target| • Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near‑core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core. |
-|[Type](sc.md)| Fly‑by spacecraft; lander spacecraft; atmospheric spacecraft |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|• «Vega 1» 15 Dec. 1984 — 6 Mar. 1986<br> • «Vega 2» 21 Dec. 1984 — 9 Mar. 1986|
+|Launch|• «Vega 1» 15 Dec. 1984, 09:16:24, Baikonur, «[Proton-K](proton.md)»<br> • «Vega 2» 21 Dec. 1984, 09:13:52, Baikonur, «[Proton-K](proton.md)»|
+|Operator|…|
+|Programme|Venus‑Halley|
+|Similar to|• Proposed: …<br>  • Current: …<br> • Past: …|
+|Target|• Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near‑core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core.|
+|[Type](sc.md)|Fly‑by spacecraft; lander spacecraft; atmospheric spacecraft|
 |**Spacecraft:**|• • •|
-|Composition| Orbiter; Lander; Balloon Aerostat |
-|Comms| [L‑band](rf.md) |
-|Contractor| … |
-|[ID](spaceid.md)| • «Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> • «Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857 |
-|Manufacturer| NPO Lavochkin |
-|Mass| • «Vega 1» 4 924 kg (dry − 4 169) ([EVN‑073](venus.md))<br> • «Vega 2» 4 926 kg (dry − 4 160) ([EVN‑073](venus.md)) |
-|Orbit / Site| Fly‑by trajectory of Venus, surface of Venus, cloud layer |
-|Payload| • Fly‑by spacecraft − plasma wave analyzers, neutral gas meter, magnetometer, spectrometers, dust particle counter, television system<br> • Lander − gas chromatograph, humidity meter, weather sensors, determination of physical and mechanical properties of the soil surface, temperature sensors, spectrometers, spectrophotometer.|
-|Power| … |
+|Composition|Orbiter; Lander; Balloon Aerostat|
+|Comms|[L‑band](rf.md)|
+|Contractor|…|
+|[ID](spaceid.md)|• «Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> • «Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857|
+|Manufacturer|NPO Lavochkin|
+|Mass|• «Vega 1» 4 924 kg (dry − 4 169) ([EVN‑073](venus.md))<br> • «Vega 2» 4 926 kg (dry − 4 160) ([EVN‑073](venus.md))|
+|Orbit / Site|Fly‑by trajectory of Venus, surface of Venus, cloud layer|
+|Payload|• Fly‑by spacecraft − plasma wave analyzers, neutral gas meter, magnetometer, spectrometers, dust particle counter, television system<br> • Lander − gas chromatograph, humidity meter, weather sensors, determination of physical and mechanical properties of the soil surface, temperature sensors, spectrometers, spectrophotometer.|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -48,21 +48,21 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model|  |C|D|F|||
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.|  |D|||||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑012||Atmosphere: lightnings.|  |D|||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
-|EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|  ||C|||S|
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.|  |D|||||
+|EVN‑001||Atmosphere: preliminary model||C|D|F|||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑006|T|Exploration: from surface.|||C||||
+|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.||D|||||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑012||Atmosphere: lightnings.||D|||||
+|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
+|EVN‑018||Atmosphere: clouds, their chemistry.||D||F|||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|||C|||S|
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.||D|||||
 
 </small>
 
@@ -228,7 +228,7 @@ The aerostat’s electronics provided unidirectional communication with the Eart
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Vega, Description and scientific objectives ❐](f/project/вега/vg_desc.pdf) (1984 ‑ 1986)

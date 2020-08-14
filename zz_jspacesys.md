@@ -3,9 +3,9 @@
 
 |[![](f/contact/j/jspacesys_logo1_thumb.jpg)](f/contact/j/jspacesys_logo1.png)|*Kikai Shinko Kaikan building 3F, 3-5-8 Shibakoen, Minato-ku, Tokyo 105-0011 JAPAN*|
 |:--|:--|
-|E‑mail| <Sasaki-Kenjij@spacesystems.or.jp> |
-|Link| <http://www.jspacesystems.or.jp/><br> <https://en.wikipedia.org/wiki/Japan_Space_Systems><br> <https://www.linkedin.com/company/japan-space-systems> |
-|Tel| +81-3-6809-1410 , ℻: … |
+|E‑mail|<Sasaki-Kenjij@spacesystems.or.jp>|
+|Link|<http://www.jspacesystems.or.jp/><br> <https://en.wikipedia.org/wiki/Japan_Space_Systems><br> <https://www.linkedin.com/company/japan-space-systems>|
+|Tel|+81-3-6809-1410 , ℻: …|
 
 **Japan Space Systems (J-spacesystems)** is a Japanese space company aimed to technology development, especially the testing of commercial off-the-shelf parts (COTS), robotics, material sciences & technology for optical Earth observations.
 

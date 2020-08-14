@@ -16,14 +16,14 @@ Features:
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (2016 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Angara](angara.md) ┊ [Soyuz](soyuz.md)  |
-| Operator  | [Roskosmos](zz_roskosmos.md) |
-| Location  | 51°53′N 128°20′E<br> Tsiolkovsky, Amur oblast, Russia  |
-| Distance  | 5 500 km — to the equator;<br> 6 700 km — to [NPO Lavochkin](zz_lav.md);<br> 12 500 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 3  |
-|| [![](f/spaceport/vostochny/pic1_thumb.jpg)](f/spaceport/vostochny/pic1.jpg)  [![](f/spaceport/vostochny/map1_thumb.jpg)](f/spaceport/vostochny/map1.png)   [![](f/spaceport/vostochny/map2_thumb.jpg)](f/spaceport/vostochny/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (2016 ‑ …)|
+|[Launch vehicles](lv.md)|[Angara](angara.md) ┊ [Soyuz](soyuz.md)|
+|Operator|[Roskosmos](zz_roskosmos.md)|
+|Location|51°53′N 128°20′E<br> Tsiolkovsky, Amur oblast, Russia|
+|Distance|5 500 km — to the equator;<br> 6 700 km — to [NPO Lavochkin](zz_lav.md);<br> 12 500 km — to [JPL](zz_jpl.md)|
+|Launch pad|3|
+||[![](f/spaceport/vostochny/pic1_thumb.jpg)](f/spaceport/vostochny/pic1.jpg)  [![](f/spaceport/vostochny/map1_thumb.jpg)](f/spaceport/vostochny/map1.png)   [![](f/spaceport/vostochny/map2_thumb.jpg)](f/spaceport/vostochny/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

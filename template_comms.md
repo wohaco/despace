@@ -3,33 +3,33 @@
 
 ||
 |:--|
-| [![](f/comms//_pic1_thumb.jpg)](f/comms//_pic1.png)  |
+|[![](f/comms//_pic1_thumb.jpg)](f/comms//_pic1.png)|
 
 <small>
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(…)</small>*|
 |:--|:--|
-|[УГТ](trl.md)|   |
-|Вид модуляции|   |
-|Время непр. работы, ч|   |
-|Вых. мощность, Вт|   |
-|Дальность, км|   |
-|[Диапазон частот](rf.md), Гц|   |
-|Нестаб. частоты|   |
-|[Скорость](битрейт.md), bit/s|   |
-|Структура сигнала|   |
+|[TRL](trl.md)||
+|Вид модуляции||
+|Время непр. работы, ч||
+|Вых. мощность, Вт||
+|Дальность, км||
+|[Диапазон частот](rf.md), Гц||
+|Нестаб. частоты||
+|[Скорость](битрейт.md), bit/s||
+|Структура сигнала||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|   |
-|Габариты, Д×Ш×В, мм|   |
-|Интерфейсы|   |
-|Mass, kg|   |
-|[Voltage](voltage.md), V|   |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)|   |
-|Resource, h (y)|   |
-|[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), ℃|   |
-|Consumption, W|   |
+|[ВБР](srrq.md) за САС||
+|Габариты, Д×Ш×В, мм||
+|Интерфейсы||
+|Mass, kg||
+|[Voltage](voltage.md), V||
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)||
+|[Temp. range](tcs.md), ℃||
+|Consumption, W||
 
 </small>
 

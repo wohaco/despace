@@ -11,14 +11,14 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1969 ‑ …)  |
-| [Launch vehicles](lv.md)  | [H2](h2.md), H3 |
-| Operator  | [JAXA](zz_jaxa.md) |
-| Location  | 30°24′00″N 130°58′12″E<br> Tanegashima , Kagoshima Prefecture, Japan |
-| Distance  | 3 400 km — to the equator;<br> 8 700 km — to [NPO Lavochkin](zz_lav.md);<br> 10 900 km — to [JPL](zz_jpl.md);<br> 1 000 km — to [JAXA](zz_jaxa.md)  |
-| Launch pad  | 2  |
-|| [![](f/spaceport/tanegashima/pic1_thumb.jpg)](f/spaceport/tanegashima/pic1.jpg)  [![](f/spaceport/tanegashima/map1_thumb.jpg)](f/spaceport/tanegashima/map1.png)   [![](f/spaceport/tanegashima/map2_thumb.jpg)](f/spaceport/tanegashima/map2.jpg) |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1969 ‑ …)|
+|[Launch vehicles](lv.md)|[H2](h2.md), H3|
+|Operator|[JAXA](zz_jaxa.md)|
+|Location|30°24′00″N 130°58′12″E<br> Tanegashima , Kagoshima Prefecture, Japan|
+|Distance|3 400 km — to the equator;<br> 8 700 km — to [NPO Lavochkin](zz_lav.md);<br> 10 900 km — to [JPL](zz_jpl.md);<br> 1 000 km — to [JAXA](zz_jaxa.md)|
+|Launch pad|2|
+||[![](f/spaceport/tanegashima/pic1_thumb.jpg)](f/spaceport/tanegashima/pic1.jpg)  [![](f/spaceport/tanegashima/map1_thumb.jpg)](f/spaceport/tanegashima/map1.png)   [![](f/spaceport/tanegashima/map2_thumb.jpg)](f/spaceport/tanegashima/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

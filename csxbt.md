@@ -12,33 +12,33 @@
 
 ||
 |:--|
-| [![](f/comms/c/csxbt_pic1_thumb.jpg)](f/comms/c/csxbt_pic1.jpg)  |
+|[![](f/comms/c/csxbt_pic1_thumb.jpg)](f/comms/c/csxbt_pic1.jpg)|
 
 <small>
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(CSXBT)</small>*|
 |:--|:--|
-|[УГТ](trl.md)| 9  |
-|Вид модуляции| QPSK, 8PSK, 16APSK, 32APSK  |
-|Время непр. работы, ч|   |
-|Вых. мощность, Вт| 2.5  |
-|Дальность, км|   |
-|[Диапазон частот](rf.md), Гц| X: 8 200 000 000 (настройка 8.1 ‑ 8.5 ГГц)  |
-|Нестаб. частоты| ±10 ppm  |
-|[Скорость](битрейт.md), bit/s| (внутр. до 1 Гбит/с)  |
-|Структура сигнала|   |
+|[TRL](trl.md)|9|
+|Вид модуляции|QPSK, 8PSK, 16APSK, 32APSK|
+|Время непр. работы, ч||
+|Вых. мощность, Вт|2.5|
+|Дальность, км||
+|[Диапазон частот](rf.md), Гц|X: 8 200 000 000 (настройка 8.1 ‑ 8.5 ГГц)|
+|Нестаб. частоты|±10 ppm|
+|[Скорость](битрейт.md), bit/s|(внутр. до 1 Гбит/с)|
+|Структура сигнала||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС| 0.9392  |
-|Габариты, Д×Ш×В, мм| 87 × 93 × 28  |
-|Интерфейсы| Customizable LVDS or CMOS. 5 pairs for serial data (clock input/output, data, optional enable). RS-485 или I2C или CAN-2B. Micro-D (MIL-DTL-83513) female (9-pin power, 21-pin data/control). SMA female 50 Ω RF output  |
-|Mass, kg| 0.38  |
-|[Voltage](voltage.md), V| 12 (11 ‑ 16)  |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)| 60 (6 000) при Al 1.5 г/cm², ≥40 МэВ·cm²/мг  |
-|Resource, h (y)|   |
-|[Lifetime](lifetime.md), h (y)| 26 280 (3)  |
-|[Тепловой режим](tcs.md), ℃| –20 ‑ +50, 1 датчик температуры DS18S20  |
-|Consumption, W| 16  |
+|[ВБР](srrq.md) за САС|0.9392|
+|Габариты, Д×Ш×В, мм|87 × 93 × 28|
+|Интерфейсы|Customizable LVDS or CMOS. 5 pairs for serial data (clock input/output, data, optional enable). RS-485 или I2C или CAN-2B. Micro-D (MIL-DTL-83513) female (9-pin power, 21-pin data/control). SMA female 50 Ω RF output|
+|Mass, kg|0.38|
+|[Voltage](voltage.md), V|12 (11 ‑ 16)|
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)|60 (6 000) при Al 1.5 г/cm², ≥40 МэВ·cm²/мг|
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)|26 280 (3)|
+|[Temp. range](tcs.md), ℃|–20 ‑ +50, 1 датчик температуры DS18S20|
+|Consumption, W|16|
 
 </small>
 

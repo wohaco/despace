@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[IA](ia.md), EU. Solar System, Planetary Atmospheres*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +(351)213-616-731; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <geral@iastro.pt> |
-|B‑day, addr.| 1983.11.28 (Лиссабон, Португалия) / Лиссабон, Португалия |
-|| [![](f/contact/g/gonsalves1_photo_thumb.jpg)](f/contact/g/gonsalves1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +(351)213-616-731; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<geral@iastro.pt>|
+|B‑day, addr.|1983.11.28 (Лиссабон, Португалия) / Лиссабон, Португалия|
+||[![](f/contact/g/gonsalves1_photo_thumb.jpg)](f/contact/g/gonsalves1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

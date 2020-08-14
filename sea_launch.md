@@ -15,14 +15,14 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Suspended from 2014, frozen from 2020** (1995 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Zenit-3SL](zenit.md) ┊ [Soyuz-5](soyuz.md)  |
-| Operator  | International consortium Sea Launch Company (SLC) |
-| Location  | 0°N 154°W<br> international waters of the Pacific ocean, near Christmas Island  |
-| Distance  | 0 km — to the equator;<br> 19 300 km — to [NPO Lavochkin](zz_lav.md);<br> 5 600 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 1  |
-|| [![](f/spaceport/sea_launch/pic1_thumb.jpg)](f/spaceport/sea_launch/pic1.jpg) [![](f/spaceport/sea_launch/pic2_thumb.jpg)](f/spaceport/sea_launch/pic2.jpg)  [![](f/spaceport/sea_launch/map1_thumb.jpg)](f/spaceport/sea_launch/map1.png)   [![](f/spaceport/sea_launch/map2_thumb.jpg)](f/spaceport/sea_launch/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Suspended from 2014, frozen from 2020** (1995 ‑ …)|
+|[Launch vehicles](lv.md)|[Zenit-3SL](zenit.md) ┊ [Soyuz-5](soyuz.md)|
+|Operator|International consortium Sea Launch Company (SLC)|
+|Location|0°N 154°W<br> international waters of the Pacific ocean, near Christmas Island|
+|Distance|0 km — to the equator;<br> 19 300 km — to [NPO Lavochkin](zz_lav.md);<br> 5 600 km — to [JPL](zz_jpl.md)|
+|Launch pad|1|
+||[![](f/spaceport/sea_launch/pic1_thumb.jpg)](f/spaceport/sea_launch/pic1.jpg) [![](f/spaceport/sea_launch/pic2_thumb.jpg)](f/spaceport/sea_launch/pic2.jpg)  [![](f/spaceport/sea_launch/map1_thumb.jpg)](f/spaceport/sea_launch/map1.png)   [![](f/spaceport/sea_launch/map2_thumb.jpg)](f/spaceport/sea_launch/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

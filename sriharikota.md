@@ -11,14 +11,14 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1971 ‑ …)  |
-| [Launch vehicles](lv.md)  | ASLV ┊ [GSLV](gslv.md) ┊ [PSLV](pslv.md) ┊ Rohini ┊ SLV  |
-| Operator  | [ISRO](zz_isro.md) |
-| Location  | 13°43′12″N 80°13′49″E<br> Sriharikota, India  |
-| Distance  | 1 600 km — to the equator;<br> 6 400 km — to [NPO Lavochkin](zz_lav.md);<br> 16 600 km — to [JPL](zz_jpl.md);<br> 300 km — to [ISRO](zz_isro.md)  |
-| Launch pad  | 3  |
-|| [![](f/spaceport/sriharikota/pic1_thumb.jpg)](f/spaceport/sriharikota/pic1.jpg)  [![](f/spaceport/sriharikota/map1_thumb.jpg)](f/spaceport/sriharikota/map1.png)   [![](f/spaceport/sriharikota/map2_thumb.jpg)](f/spaceport/sriharikota/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1971 ‑ …)|
+|[Launch vehicles](lv.md)|ASLV ┊ [GSLV](gslv.md) ┊ [PSLV](pslv.md) ┊ Rohini ┊ SLV|
+|Operator|[ISRO](zz_isro.md)|
+|Location|13°43′12″N 80°13′49″E<br> Sriharikota, India|
+|Distance|1 600 km — to the equator;<br> 6 400 km — to [NPO Lavochkin](zz_lav.md);<br> 16 600 km — to [JPL](zz_jpl.md);<br> 300 km — to [ISRO](zz_isro.md)|
+|Launch pad|3|
+||[![](f/spaceport/sriharikota/pic1_thumb.jpg)](f/spaceport/sriharikota/pic1.jpg)  [![](f/spaceport/sriharikota/map1_thumb.jpg)](f/spaceport/sriharikota/map1.png)   [![](f/spaceport/sriharikota/map2_thumb.jpg)](f/spaceport/sriharikota/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*US. Senior Spacecraft Systems Engineer & Space Mission Architect. Senior Private Consultant*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> 1955 ? / Los Angeles, California |
-|E‑mail| <mark>noemail</mark> |
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/p/peterson1_photo_thumb.jpg)](f/contact/p/peterson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|B‑day, addr.|<mark>nodate</mark> 1955 ? / Los Angeles, California|
+|E‑mail|<mark>noemail</mark>|
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/p/peterson1_photo_thumb.jpg)](f/contact/p/peterson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** Graduate Course, California Institute of Technology, Space Systems Engineering, 1996 ‑ 1997. BA, Mathematics, Gustavus, 1973 ‑ 1977.
    - **Exp.:** 1985 ‑ 2009 JPL.

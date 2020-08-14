@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU. Solar System & Robotic Exploration Missions. System Engineer*|
 |:--|:--|
-|B‑day, addr.| 1978.01.23 / … |
-|E‑mail| <Thomas.Voirin@esa.int> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/v/voirin1_photo_thumb.jpg)](f/contact/v/voirin1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|1978.01.23 / …|
+|E‑mail|<Thomas.Voirin@esa.int>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/v/voirin1_photo_thumb.jpg)](f/contact/v/voirin1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

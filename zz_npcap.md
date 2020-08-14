@@ -3,9 +3,9 @@
 
 |[![](f/contact/n/npcap_logo1_thumb.jpg)](f/contact/n/npcap_logo1.png)|*Россия, 117342, Москва, ул. Введенского, д. 1*|
 |:--|:--|
-|E‑mail| <info@npcap.ru> |
-|Link| <http://www.npcap.ru/><br> <https://en.wikipedia.org/wiki/Academician_Pilyugin_Center><br> <https://ru.wikipedia.org/wiki/НПЦАП> |
-|Tel| +7(495)330-65-70, ℻: +7(495)334-83-80 |
+|E‑mail|<info@npcap.ru>|
+|Link|<http://www.npcap.ru/><br> <https://en.wikipedia.org/wiki/Academician_Pilyugin_Center><br> <https://ru.wikipedia.org/wiki/НПЦАП>|
+|Tel|+7(495)330-65-70, ℻: +7(495)334-83-80|
 
 **Федеральное государственное унитарное предприятие «Научно‑производственный центр автоматики и приборостроения имени академика Н.А. Пилюгина» (ФГУП «НПЦАП»)** — разработик и производитель систем управления для ракет‑носителей, разгонных блоков и космических аппаратов. Год основания — 1946.
 

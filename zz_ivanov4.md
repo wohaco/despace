@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ГЕОХИ РАН](zz_geokhi_ras.md), RU. Отдел планетных исследований. Лаборатория 44 «Сравнительной планетологии». Старший научный сотрудник*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* 2-89; *mobile:* +7(905)524-06-14 |
-|E‑mail| <mikhail_ivanov@brown.edu> |
-|B‑day, addr.| <mark>nodate</mark> / … Корп. 2, каб. 326. |
-|| ![](f/contact/i/ivanov4_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* 2-89; *mobile:* +7(905)524-06-14|
+|E‑mail|<mikhail_ivanov@brown.edu>|
+|B‑day, addr.|<mark>nodate</mark> / … Корп. 2, каб. 326.|
+||![](f/contact/i/ivanov4_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Кандидат геолого‑минералогических наук.
    - **Exp.:** …

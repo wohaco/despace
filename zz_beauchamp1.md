@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Program manager*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +1(818)645-24-79 |
-|E‑mail| <patricia.m.beauchamp@nasa.gov>, <pbeaucha@jpl.nasa.gov> |
-|B‑day, addr.| <mark>nodate</mark> 1958 / … |
-|| [![](f/contact/b/beauchamp1_photo_thumb.jpg)](f/contact/b/beauchamp1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +1(818)645-24-79|
+|E‑mail|<patricia.m.beauchamp@nasa.gov>, <pbeaucha@jpl.nasa.gov>|
+|B‑day, addr.|<mark>nodate</mark> 1958 / …|
+||[![](f/contact/b/beauchamp1_photo_thumb.jpg)](f/contact/b/beauchamp1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Caltech, 1981.
    - **Exp.:** …

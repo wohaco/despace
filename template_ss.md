@@ -3,30 +3,30 @@
 
 ||
 |:--|
-| [![](f/sensor//_pic1_thumb.jpg)](f/sensor//_pic1.jpg)  |
+|[![](f/sensor//_pic1_thumb.jpg)](f/sensor//_pic1.jpg)|
 
 <small>
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(…)</small>*|
 |:--|:--|
-|[УГТ](trl.md)|   |
-|Диапазон °, ≥|   |
-|Исполнение|   |
-|Режим готовности|   |
-|Точность|   |
-|Частота обновл., Гц|   |
+|[TRL](trl.md)||
+|Диапазон °, ≥||
+|Исполнение||
+|Режим готовности||
+|Точность||
+|Частота обновл., Гц||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|   |
-|Dimensions, L×W×H, mm|   |
-|Интерфейсы|   |
-|Mass, kg|   |
-|[Voltage](voltage.md), V|   |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)|   |
-|Resource, h (y)|   |
-|[Lifetime](lifetime.md), h (y)|   |
-|[Тепловой режим](tcs.md), ℃|   |
-|Consumption, W|   |
+|[ВБР](srrq.md) за САС||
+|Dimensions, L×W×H, mm||
+|Интерфейсы||
+|Mass, kg||
+|[Voltage](voltage.md), V||
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)||
+|[Temp. range](tcs.md), ℃||
+|Consumption, W||
 
 </small>
 

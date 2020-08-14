@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*ГЕОХИ РАН](zz_geokhi_ras.md). Заведующий лабораторией*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)939-01-84; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <kostitsyn@geokhi.ru>, <yuri.kostitsyn@gmail.com> |
-|B‑day, addr.| 1955.11.23 / … |
-|| ![](f/contact/k/kosticyn1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)939-01-84; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<kostitsyn@geokhi.ru>, <yuri.kostitsyn@gmail.com>|
+|B‑day, addr.|1955.11.23 / …|
+||![](f/contact/k/kosticyn1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

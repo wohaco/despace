@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US.*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <thomas.w.thompson@jpl.nasa.gov> |
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +1(818)354-38-81; *mobile:* <mark>nomobile</mark> |
-|| [![](f/contact/t/thompson1_photo_thumb.jpg)](f/contact/t/thompson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<thomas.w.thompson@jpl.nasa.gov>|
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +1(818)354-38-81; *mobile:* <mark>nomobile</mark>|
+||[![](f/contact/t/thompson1_photo_thumb.jpg)](f/contact/t/thompson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

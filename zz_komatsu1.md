@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[IRSPS](zz_irsps.md), EU. Dipartimento di Ingegneria e Geologia (InGeo). Senior Scientist*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +39(085)453-78-84; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <goro@irsps.unich.it>, <goro.komatsu@unich.it> |
-|B‑day, addr.| <mark>nodate</mark> 1966 ? / … |
-|| [![](f/contact/k/komatsu1_photo_thumb.jpg)](f/contact/k/komatsu1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +39(085)453-78-84; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<goro@irsps.unich.it>, <goro.komatsu@unich.it>|
+|B‑day, addr.|<mark>nodate</mark> 1966 ? / …|
+||[![](f/contact/k/komatsu1_photo_thumb.jpg)](f/contact/k/komatsu1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):**  PhD, Planetary Sciences, University of Arizona, Tucson, Arizona, US, 1993. BS, Earth Sciences, Waseda University, Tokyo, Japan, 1988.
    - **Exp.:** Geological Institute, University of Tokyo, Japan. School of Sciences & Applications, International Space University, Strasbourg, France. Lunar & Planetary Laboratory, University of Arizona, U.S.A.

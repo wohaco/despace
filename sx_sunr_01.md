@@ -10,29 +10,29 @@
 
 ||
 |:--|
-| [![](f/sensor/s/sx-sunr-01_pic1_thumb.jpg)](f/sensor/s/sx-sunr-01_pic1.png)  |
+|[![](f/sensor/s/sx-sunr-01_pic1_thumb.jpg)](f/sensor/s/sx-sunr-01_pic1.png)|
 
 <small>
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Диапазон °, ≥| 60±1°   |
-|Исполнение| Моноблок  |
-|Режим готовности|   |
-|Точность| 1° (3σ)  |
-|Частота обновл., Гц|   |
+|Диапазон °, ≥|60±1°|
+|Исполнение|Моноблок|
+|Режим готовности||
+|Точность|1° (3σ)|
+|Частота обновл., Гц||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|   |
-|Dimensions, L×W×H, mm| 50 × 46 × 17  |
-|Интерфейсы| RS‑485  |
-|Mass, kg| 0.04  |
-|[Voltage](voltage.md), V| 5  |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)|   |
-|Resource, h (y)|   |
-|[Тепловой режим](tcs.md), ℃| от –40 до +60 ℃  |
-|[Lifetime](lifetime.md), h (y)|   |
-|Consumption, W| 0.05  |
+|[ВБР](srrq.md) за САС||
+|Dimensions, L×W×H, mm|50 × 46 × 17|
+|Интерфейсы|RS‑485|
+|Mass, kg|0.04|
+|[Voltage](voltage.md), V|5|
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)||
+|[Temp. range](tcs.md), ℃|от –40 до +60 ℃|
+|[Lifetime](lifetime.md), h (y)||
+|Consumption, W|0.05|
 
 </small>
 

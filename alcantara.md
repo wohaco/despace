@@ -11,14 +11,14 @@
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1990 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Shavit](shavit.md) ┊ **Sonda** ┊ **VLS**, in perspective [Long March](long_march.md) ┊ [Proton](proton.md)  |
-| Operator  | Brazilian Space Agency |
-| Location  | 2°22′23″S 44°23′47″W<br> Alcantara, Maranhão, Brazil  |
-| Distance  | 260 km — to the equator;<br> 11 400 km — to [NPO Lavochkin](zz_lav.md);<br> 8 800 km — to [JPL](zz_jpl.md);<br> 22 km (460 km by road) — to the Brazilian Space Agency  |
-| Launch pad  | 9  |
-|| [![](f/spaceport/alcantara/pic1_thumb.jpg)](f/spaceport/alcantara/pic1.jpg)  [![](f/spaceport/alcantara/map1_thumb.jpg)](f/spaceport/alcantara/map1.png)   [![](f/spaceport/alcantara/map2_thumb.jpg)](f/spaceport/alcantara/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1990 ‑ …)|
+|[Launch vehicles](lv.md)|[Shavit](shavit.md) ┊ **Sonda** ┊ **VLS**, in perspective [Long March](long_march.md) ┊ [Proton](proton.md)|
+|Operator|Brazilian Space Agency|
+|Location|2°22′23″S 44°23′47″W<br> Alcantara, Maranhão, Brazil|
+|Distance|260 km — to the equator;<br> 11 400 km — to [NPO Lavochkin](zz_lav.md);<br> 8 800 km — to [JPL](zz_jpl.md);<br> 22 km (460 km by road) — to the Brazilian Space Agency|
+|Launch pad|9|
+||[![](f/spaceport/alcantara/pic1_thumb.jpg)](f/spaceport/alcantara/pic1.jpg)  [![](f/spaceport/alcantara/map1_thumb.jpg)](f/spaceport/alcantara/map1.png)   [![](f/spaceport/alcantara/map2_thumb.jpg)](f/spaceport/alcantara/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 <p style="page-break-after:always"> </p>

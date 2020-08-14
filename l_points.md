@@ -11,9 +11,9 @@
 
 Более точно точки Лагранжа представляют собой частный случай при решении так называемой ограниченной задачи трёх тел — когда орбиты всех тел являются круговыми и масса одного из них намного меньше массы любого из двух других. В этом случае можно считать, что два массивных тела обращаются вокруг их общего центра масс с постоянной угловой скоростью. В пространстве вокруг них существуют пять точек, в которых третье тело с пренебрежимо малой массой может оставаться неподвижным во вращающейся системе отсчёта, связанной с массивными телами. В этих точках гравитационные силы, действующие на малое тело, уравновешиваются центробежной силой.
 
-|*Точки Лагранжа и эквипотенциальные поверхности<br> системы двух тел (с учётом центробежного потенциала)*  |
+|*Точки Лагранжа и эквипотенциальные поверхности<br> системы двух тел (с учётом центробежного потенциала)*|
 |:--|
-|![](f/nav/lagrange_points2-1056px.png) |
+|![](f/nav/lagrange_points2-1056px.png)|
 
 
 
@@ -22,10 +22,10 @@
 
 |*Система*|*L1, км*|*L2, км*|*L3, км*|*L4, км*|*L5, км*|
 |:--|:--|:--|:--|:--|:--|
-| Венера‑Солнце | 1 011 150 | 1 011 150 |  |  |  |
-| Земля‑Луна |  |  |  |  |  |
-| Земля‑Солнце | 1 496 524 | 1 496 524 |  |  |  |
-| Марс‑Солнце |  |  |  |  |  |
+|Венера‑Солнце|1 011 150|1 011 150||||
+|Земля‑Луна||||||
+|Земля‑Солнце|1 496 524|1 496 524||||
+|Марс‑Солнце||||||
 
 L1 находится между двумя телами системы, ближе к менее массивному телу, L2 — снаружи, за менее массивным телом и L3 — за более массивным. Расстояния от центра масс системы до этих точек в первом приближении по α рассчитываются с помощью следующих формул:
 
@@ -37,7 +37,7 @@ M2 — масса второго тела.
 
 |*Схема пяти лагранжевых точек в системе двух тел, когда<br> одно тело намного массивнее другого (Солнце и Земля). В такой системе точки L3, L4, L5 показаны на самой орбите,   хотя фактически они будут находиться немного за ней.*|
 |:--|
-| ![](f/nav/lagrange_points2-lagrange_very_massive.png) |
+|![](f/nav/lagrange_points2-lagrange_very_massive.png)|
 
 
 <br>
@@ -76,7 +76,7 @@ M2 — масса второго тела.
 
 |*Точка L2 в системе Солнце ‑ Земля, располагающаяся далеко за пределами орбиты Луны.*|
 |:--|
-| ![](f/nav/lagrange_points2-l2_rendering.jpg) |
+|![](f/nav/lagrange_points2-l2_rendering.jpg)|
 
 <br>
 
@@ -91,7 +91,7 @@ M2 — масса второго тела.
 
 |*Три из пяти точек Лагранжа расположены на одной оси, соединяющей два тела.*|
 |:--|
-| ![](f/nav/lagrange_points2-formule_lagrange.jpg)  |
+|![](f/nav/lagrange_points2-formule_lagrange.jpg)|
 
 <br>
 
@@ -119,7 +119,7 @@ M2 — масса второго тела.
 
 |*Гравитационное ускорение в точке L4*|
 |:--|
-| ![](f/nav/lagrange_points2-l4_diagram.png) |
+|![](f/nav/lagrange_points2-l4_diagram.png)|
 
 <br>
 
@@ -139,7 +139,7 @@ M2 — масса второго тела.
 ## Практическое применение
 |*Полости Роша для двойной звёздной системы (обозначены жёлтым)*|
 |:--|
-| ![](f/nav/lagrange_points2-rochelobesdetailed.png) |
+|![](f/nav/lagrange_points2-rochelobesdetailed.png)|
 
 Исследователи в области космонавтики давно уже обратили внимание на точки Лагранжа. Например, в точке L1 системы Земля ‑ Солнце удобно разместить космическую солнечную обсерваторию — она никогда не будет попадать в тень Земли, а значит, наблюдения могут вестись непрерывно. Точка L2 подходит для космического телескопа — здесь Земля почти полностью заслоняет солнечный свет, да и сама не мешает наблюдениям, поскольку обращена к L2 неосвещенной стороной. Точка L1 системы Земля ‑ Луна удобна для размещения ретрансляционной станции в период освоения Луны. Она будет находиться в зоне прямой видимости для большей части обращённого к Земле полушария Луны, а для связи с ней понадобятся передатчики в десятки раз менее мощные, чем для связи с Землёй.
 
@@ -203,9 +203,9 @@ M2 — масса второго тела.
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md) ┊ [Апоцентр и перицентр](apopericentre.md) ┊ [Гравманёвр](gravass.md) ┊ [Кеплеровы элементы](keplerian.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Терминатор](terminator.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эффект Оберта](oberth_eff.md) |
+|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md) ┊ [Апоцентр и перицентр](apopericentre.md) ┊ [Гравманёвр](gravass.md) ┊ [Кеплеровы элементы](keplerian.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Терминатор](terminator.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эффект Оберта](oberth_eff.md)|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
-|**`Циклограмма (ЦГМ):`**<br> [Точки Лагранжа](l_points.md) |
+|**`Циклограмма (ЦГМ):`**<br> [Точки Лагранжа](l_points.md)|
 
    1. Docs: …
    1. Notable interwikies — …

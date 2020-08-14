@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/aiac_logo1_thumb.jpg)](f/contact/a/aiac_logo1.png)|*255 Albert Street, Suite 703, Ottawa, Ontario, K1P 6A9, Canada*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://aiac.ca/> |
-|Tel| +1(613)232-42-97, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://aiac.ca/>|
+|Tel|+1(613)232-42-97, ℻: …|
 
 For over fifty years, the **Aerospace Industries Association of Canada (AIAC)** has worked with its members to develop what is today the fifth-largest national aerospace industry in the world. By collaborating with industry & with government to develop products, services, programs & policies that enhance Canadian aerospace companies, AIAC helps the industry to invest, innovate, & develop best-in-class capabilities in the civil, defence & space sectors.
 

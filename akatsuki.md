@@ -16,25 +16,25 @@
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Duration| 2 years (plan) и 4.5 years (estimated maximum);<br> 2010.05.21 - <mark>TBD</mark> (fact) |
-|Operator| [JAXA](zz_jaxa.md) |
-|Program| … |
-|Development| … ‑ … |
-|Launch| 2010.05.20 21:58:22 UTC (00:58 MSK) [Tanegashima YLP-1](tanegashima.md) with [H-IIA 202](h2.md) |
-|Similar to| • Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US).<br> • Current: ….<br> • Past: [Venus Express](venus_express.md) (EU 2005), [VeGa‑1/2](vega_1_2.md) (SU 1984), [Venera‑11/12](venera_11_12.md) (SU 1978), [Venera‑9/10](venera_9_10.md) (SU 1975). |
-|[Type](sc.md)| Orbiter spacecraft |
-|Goal| Investigations of atmospheric stratification, dynamics, physics of clouds, hydrodynamic gravitational waves; survey of clouds and surface; exploring Venusian meteorology and super rotation of the atmosphere, the presence of lightning and volcanism |
-|Price| $ 290M ot 7 370 kg of [gold](sc_price.md) in 2010 priсes |
+|Duration|2 years (plan) и 4.5 years (estimated maximum);<br> 2010.05.21 - <mark>TBD</mark> (fact)|
+|Operator|[JAXA](zz_jaxa.md)|
+|Program|…|
+|Development|… ‑ …|
+|Launch|2010.05.20 21:58:22 UTC (00:58 MSK) [Tanegashima YLP-1](tanegashima.md) with [H-IIA 202](h2.md)|
+|Similar to|• Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US).<br> • Current: ….<br> • Past: [Venus Express](venus_express.md) (EU 2005), [VeGa‑1/2](vega_1_2.md) (SU 1984), [Venera‑11/12](venera_11_12.md) (SU 1978), [Venera‑9/10](venera_9_10.md) (SU 1975).|
+|[Type](sc.md)|Orbiter spacecraft|
+|Goal|Investigations of atmospheric stratification, dynamics, physics of clouds, hydrodynamic gravitational waves; survey of clouds and surface; exploring Venusian meteorology and super rotation of the atmosphere, the presence of lightning and volcanism|
+|Price|$ 290M ot 7 370 kg of [gold](sc_price.md) in 2010 priсes|
 |**Spacecraft:**|• • •|
-|Mass| 517.6 kg, (dry: 320 kg) ([minisatellite](спутник.md), [EVN‑070](venus.md)) |
-|[Number](spaceid.md)| NSSDC ID (COSPAR ID): 2010-020D, SCN: 36576 |
-|Orbit / Place| 300 × 80 000 km, 172°, 30 hr |
-|Payload| • 5 cameras for: lightning, glow, IR, UV;<br> • equipment for radiography |
-|Contractor| … |
-|Developer| NEC Space Technologies |
-|Communication| [X‑band](rf.md), 20 W, 1.6 m² dish antenna |
-|Structure| Orbiter |
-|Power| 700 W, 2 × 1.4 m² |
+|Mass|517.6 kg, (dry: 320 kg) ([minisatellite](спутник.md), [EVN‑070](venus.md))|
+|[Number](spaceid.md)|NSSDC ID (COSPAR ID): 2010-020D, SCN: 36576|
+|Orbit / Place|300 × 80 000 km, 172°, 30 hr|
+|Payload|• 5 cameras for: lightning, glow, IR, UV;<br> • equipment for radiography|
+|Contractor|…|
+|Developer|NEC Space Technologies|
+|Communication|[X‑band](rf.md), 20 W, 1.6 m² dish antenna|
+|Structure|Orbiter|
+|Power|700 W, 2 × 1.4 m²|
 
 Targets & investigations:
 
@@ -48,24 +48,24 @@ Targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑012||Atmosphere: lightnings.|  |D|||||
-|EVN‑023||Surface: mineralogical composition.|  ||C||||
-|EVN‑034||Atmosphere: nature of the superrotation.|  |D|||||
-|EVN‑035||Atmosphere: nature of the UV‑absorber.|  |D|||||
-|EVN‑049||Nature & characteristics of the thermal tides|  ||D||||
-|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.|  |D|||||
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑075||Atmosphere: clouds, their nature.|  |D||F|||
-|EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑080||Albedo: changes in time| Gi ||D|F|||
-|EVN‑093|T|Atmosphere/surface imaging|  ||D|F|||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑007||Atmosphere: connection between the topography & the atmo circulation|||D||||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑012||Atmosphere: lightnings.||D|||||
+|EVN‑023||Surface: mineralogical composition.|||C||||
+|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
+|EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
+|EVN‑049||Nature & characteristics of the thermal tides|||D||||
+|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.||D|||||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑075||Atmosphere: clouds, their nature.||D||F|||
+|EVN‑076||Surface: volcanoes, their presence.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑078|T|Atmosphere: radiography.||D|||||
+|EVN‑080||Albedo: changes in time|Gi||D|F|||
+|EVN‑093|T|Atmosphere/surface imaging|||D|F|||
 
 </small>
 
@@ -134,26 +134,26 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 
 |*Complex/system*|*Mass, kg*|*Comments*|
 |:--|:--|:--|
-|1. Spacecraft  | 284.9 | <mark>TBD</mark> |
-|·· Accelerometers |··  | <mark>TBD</mark> |
-|·· Gyroscopes  |··  | <mark>TBD</mark> |
-|·· Flywheel engines  |··  | <mark>TBD</mark> |
-|·· Stellar sensors  |··  | <mark>TBD</mark> |
-|·· Solar sensors  |··  | <mark>TBD</mark> |
-|·· <mark>TBD</mark>  |··  | <mark>TBD</mark> |
-|2. Payload  | 36.4 |  |
-|·· IR1  |·· 6.7 |  |
-|·· IR2  |·· 18 | Including the cryocooler and on-board cable system shared with IR1 (~3.9 kg) |
-|·· LAC  |·· 2.3 |  |
-|·· LIR  |·· 3.3 |  |
-|·· USO  |·· 2 |  |
-|·· UVI  |·· 4.1 |  |
-|3. Fuel  | 196.3 |  |
-|·· Dinitrogen tetroxide  |··  | <mark>TBD</mark> |
-|·· Hydrazine  |··  | <mark>TBD</mark> |
-|·· Helium  |··  | <mark>TBD</mark> |
+|1. Spacecraft|284.9|<mark>TBD</mark>|
+|·· Accelerometers|··|<mark>TBD</mark>|
+|·· Gyroscopes|··|<mark>TBD</mark>|
+|·· Flywheel engines|··|<mark>TBD</mark>|
+|·· Stellar sensors|··|<mark>TBD</mark>|
+|·· Solar sensors|··|<mark>TBD</mark>|
+|·· <mark>TBD</mark>|··|<mark>TBD</mark>|
+|2. Payload|36.4||
+|·· IR1|·· 6.7||
+|·· IR2|·· 18|Including the cryocooler and on-board cable system shared with IR1 (~3.9 kg)|
+|·· LAC|·· 2.3||
+|·· LIR|·· 3.3||
+|·· USO|·· 2||
+|·· UVI|·· 4.1||
+|3. Fuel|196.3||
+|·· Dinitrogen tetroxide|··|<mark>TBD</mark>|
+|·· Hydrazine|··|<mark>TBD</mark>|
+|·· Helium|··|<mark>TBD</mark>|
 ||||
-|**Total:**  |**517.6**|  |
+|**Total:**|**517.6**||
 
 **Propulsion system** includes:  
 • 1 × 500 N (51 kgf) primary engine on [Dinitrogen tetroxide + Hydrazine](at_plus.md),  
@@ -324,7 +324,7 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Page directory](f/project/a/akatsuki/)

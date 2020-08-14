@@ -15,29 +15,29 @@
 
 ||
 |:--|
-| [![](f/sensor/f/fss_jo_pic1_thumb.jpg)](f/sensor/f/fss_jo_pic1.jpg)  |
+|[![](f/sensor/f/fss_jo_pic1_thumb.jpg)](f/sensor/f/fss_jo_pic1.jpg)|
 
 <small>
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(FSS)</small>*|
 |:--|:--|
-|Диапазон измерения °, ≤|   |
-|Исполнение|  |
-|Режим готовности|  |
-|Точность| 0.15°  |
-|Частота обновл., Гц|  |
+|Диапазон измерения °, ≤||
+|Исполнение||
+|Режим готовности||
+|Точность|0.15°|
+|Частота обновл., Гц||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|  |
-|Dimensions, L×W×H, mm| 160 × 145 × 56  |
-|Интерфейсы|  |
-|Mass, kg| 0.65  |
-|[Voltage](voltage.md), V| 14 (13 ‑ 15)  |
-|Overload, g|  |
-|[Rad.resist](ion_rad.md), Gy (rad)|   |
-|Resource, h (y)|  |
-|[Lifetime](lifetime.md), h (y)| НОО: 113 880 (13)  |
-|[Тепловой режим](tcs.md), ℃| −30 ‑ +65  |
-|Consumption, W| 0.4  |
+|[ВБР](srrq.md) за САС||
+|Dimensions, L×W×H, mm|160 × 145 × 56|
+|Интерфейсы||
+|Mass, kg|0.65|
+|[Voltage](voltage.md), V|14 (13 ‑ 15)|
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)|НОО: 113 880 (13)|
+|[Temp. range](tcs.md), ℃|−30 ‑ +65|
+|Consumption, W|0.4|
 
 </small>
 

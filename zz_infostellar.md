@@ -3,9 +3,9 @@
 
 |[![](f/contact/i/infostellar_logo1_thumb.jpg)](f/contact/i/infostellar_logo1.png)|*Kearney Place 3F, 8 Chome-8-15 Nishigotanda, Shinagawa City, Tokyo 141-0031, Japan*|
 |:--|:--|
-|E‑mail| <info@istellar.jp> |
-|Link| <https://infostellar.net/><br> <https://www.stellarstation.com/><br> <https://makesat.com/><br> <https://www.linkedin.com/company/infostellar> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<info@istellar.jp>|
+|Link|<https://infostellar.net/><br> <https://www.stellarstation.com/><br> <https://makesat.com/><br> <https://www.linkedin.com/company/infostellar>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Infostellar** is a Japanese space communication infrastructure firm making space communications infrastructure, & are now developing our cloud‑based satellite [antenna sharing platform](scs.md), StellarStation. By lowering costs & increasing transmission time, Infostellar empowers satellite operators to improve the quality of their service & expand potential business. Founded 2016.01.04.
 

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Hampton Univ.](hampton_univ.md), US. Graduate Research Assistant (2015)*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <rymccabe999@aol.com> |
-|B‑day, addr.| 1993.04.21 / Hampton, VA, USA |
-|| [![](f/contact/m/mccabe1_photo_thumb.jpg)](f/contact/m/mccabe1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<rymccabe999@aol.com>|
+|B‑day, addr.|1993.04.21 / Hampton, VA, USA|
+||[![](f/contact/m/mccabe1_photo_thumb.jpg)](f/contact/m/mccabe1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** A fourth-year Planetary Science PhD candidate at Hampton University. BS, Physics, Gettysburg College, 2015.
    - **Exp.:** My current research interests focus on using cloud-tracking techniques & ground-based observations to gather information about the dynamics of Venus’s atmosphere.

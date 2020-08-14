@@ -12,27 +12,27 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) in … prices |
-|[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| … ‑ … |
-|Duration| … |
-|Launch| …, …, … |
-|Operator| … |
-|Programme| New Frontiers program 4 |
-|Similar to| • Proposed: …<br> • Current: …<br> • Past: [Pineer Venus Orbiter](pioneer_venus_1.md), [Venera 15 and 16](venera_15_16.md), [Magellan](magellan.md.md) |
-|Target| Produce global, high resolution topography and imaging of Venus’ surface and produce the first maps of deformation and global surface composition, thermal emissivity, and gravity field to study the interior structure of the planet |
-|[Type](sc.md)| Orbiter spacecraft; atmospheric spacecraft |
+|Cost|… or … kg of [gold](sc_price.md) in … prices|
+|[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
+|Development|… ‑ …|
+|Duration|…|
+|Launch|…, …, …|
+|Operator|…|
+|Programme|New Frontiers program 4|
+|Similar to|• Proposed: …<br> • Current: …<br> • Past: [Pineer Venus Orbiter](pioneer_venus_1.md), [Venera 15 and 16](venera_15_16.md), [Magellan](magellan.md.md)|
+|Target|Produce global, high resolution topography and imaging of Venus’ surface and produce the first maps of deformation and global surface composition, thermal emissivity, and gravity field to study the interior structure of the planet|
+|[Type](sc.md)|Orbiter spacecraft; atmospheric spacecraft|
 |**Spacecraft:**|• • •|
-|Composition| Orbiter; atmospheric probe |
-|Contractor| … |
-|Manufacturer| … |
+|Composition|Orbiter; atmospheric probe|
+|Contractor|…|
+|Manufacturer|…|
 ||**`…`**|
-|Comms| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
-|Mass| … ([…satellite](sc.md)) |
-|Orbit / Site| … |
-|Power| … |
-|Payload| … |
+|Comms|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
+|Mass|… ([…satellite](sc.md))|
+|Orbit / Site|…|
+|Power|…|
+|Payload|…|
 
 **Projected** targets & objectives:
 
@@ -46,20 +46,20 @@ VOX would produce global, high resolution topography ([EVN‑022](venus.md)) and
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑020||Inner structure of the planet.|  |D|||||
-|EVN‑022||Surface: map, precise.|  |D|||||
-|EVN‑023||Surface: mineralogical composition.|  ||C||||
-|EVN‑024||Surface: composition.|  ||C||||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑041||Common connection between the atmosphere & the surface.|  |D|||||
-|EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
-|EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
-|EVN‑076||Surface: volcanoes, their presence.|  |D||F|||
-|EVN‑089||Measuring the planetary gravitational field.|  |D||F|||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑020||Inner structure of the planet.||D|||||
+|EVN‑022||Surface: map, precise.||D|||||
+|EVN‑023||Surface: mineralogical composition.|||C||||
+|EVN‑024||Surface: composition.|||C||||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
+|EVN‑052||Role of water (fluids) in planetary geology.||D|C|F|||
+|EVN‑055|T|Atmosphere: sample obtaining & analysis.|||C||||
+|EVN‑076||Surface: volcanoes, their presence.||D||F|||
+|EVN‑089||Measuring the planetary gravitational field.||D||F|||
 
 </small>
 
@@ -126,7 +126,7 @@ The spacecraft consists of an Orbiter containing all scientific equipment and an
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

@@ -9,40 +9,42 @@
 
 We’re trying to follow the rules of fair use and to keep the information true, but sadly we’re only human, we were born to die. And occasionally you may see some Russian words. It’s due to it was the first language of this DB.
 
-**Q: For what?**  
-**A:** Started as just another pocket notebook from tiny spacecraft engineering group of some space & spacecraft brief facts which have to always be with you. Now it’s for science, for future planning and for spacecraft creating.
+**Q1: For what?**  
+**A1:** Started as just another pocket notebook from tiny spacecraft engineering group of some space & spacecraft brief facts which have to always be with you. Now it’s for science, for future planning and for spacecraft creating.
 
-**Q: For whom?**  
-**A:** For scientists, for engineers and for sympathetic living beings. For those who wants to create, to plan and to be in a stream.
+**Q2: For who?**  
+**A2:** For scientists, for engineers and for sympathetic living beings. For those who wants to create, to plan and to be in a stream.
 
-**Q: Who is now?**  
-**A:** Almost as from the start but a bit wider — a group of spacecraft engineers and scientists.
+**Q3: Who is now?**  
+**A3:** Almost as from the start but a bit wider — a group of spacecraft engineers and scientists.
 
-**Q: Who is able?**  
-**A:** In terms of git and CC0 — everybody can clone. In terms of this very db — at least bachelor in a near spacecraft area (engineering or science) shall take such a great responsibility.
+**Q4: Who is able?**  
+**A4:** In terms of git and CC0 — everybody can clone. In terms of this very db — at least bachelor in a near spacecraft area (engineering or science) shall take such a great responsibility.
 
-**Q: Why not just Wikipedia?**  
-**A:** And Wikipedia too, occasionally. But mainly not Wikipedia because of the speciallity in SC designing and the ability to take with you.
+**Q5: Why not just Wikipedia?**  
+**A5:** And Wikipedia too, occasionally. But mainly not Wikipedia because of the speciallity in SC designing and the ability to take it with you.
 
 
 
 ## Some technical issues
-Database consist of text files with markdown. For not to be vendor-locked. And to be able to use it anywhere if you have a markdown editor/viewer.
+Database consist of text files with markdown. For not to be vendor‑locked. And to be able to use it anywhere if you have a markdown editor/viewer.
 
 Special symbols have to be used: …°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→ ✘☐☑🗹├┕┆←↑→↓↔↕↖↗↘↙ ªⁱⁿº⁰¹²³⁴⁵⁶⁷⁸⁹ ⁺⁻⁼⁽⁾₀₁₂₃₄₅₆₇₈₉ ₊₋₌₍₎ₐₑₒₓₔₕₖₗₘₙₚₛₜ №©®™ ±×÷¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞π⌀∑∞√∛∜‰ ⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ αβγδεζηθικλμνξο03C0πρςστυφχψωΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡ΢ΣΤΥΦΧΨΩ ➊➋➌➍➎➏➐➑➒➓➀➁➂➃➄➅➆➇➈➉⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇  ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛ ♳♴♵♶♷♸♹ etc. ℃℉K№℡℻
 
 Notes and requirements: (in historical order)
 
    1. The database pages are supposed to be printed on the A4 pages. The proposed themes for the proposed editors renders pages in the width of A4.
-   1. Each database page have to be as self-sufficient as possible.
+   1. Each database page have to be as self‑sufficient as possible.
    1. Verdana font.
    1. Files/pages names consist only lower case Latin letter, digits, and underline.
-   1. Photo miniatures: less than 160×175 px (160×160 px for photo + 15 px for year). Pictures of LV and OE miniatures: less than 120×120 px.
-   1. [Contact/cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logos/signs — png, other — jpg 77. Miniatures less than 100×90 & 60×50 px (for cooperation — strictly 60×50), jpg 67.
+   1. Miniatures: photo — ≤ 160×175 px (160×160 px photo + 15 px year). [LV](lv.md)/[OE](oe.md) — ≤ 120×120 px.
+   1. [Contact/cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logos/signs — png, other — jpg 77. Miniatures ≤ 100×90 & 60×50 px (for cooperation — strictly 60×50), jpg 67.
    1. There is a Spacecraft (SC) as a major unit, then it divides to modules (which can function separately) or to units.
    1. Dates are used in YYYY.MM.DD format, for example: 1947.02.20.
    1. Long digits are divided with the small unbreakable space “ ”, for example: 1 234 567.89 W.
    1. Tables. Use the left align. Try to fit lists in a single line.
+   1. 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²
+   1. Use KISS (keep it simple, stupid) for everything. It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away.
 
 
 
@@ -56,7 +58,7 @@ Pretty far from what they call the proper list of sources but that’s all we ha
    1. <https://britastro.org/>
    1. <http://ecoruspace.me/>
    1. <https://epizodyspace.ru/>
-   1. <https://www.factoriesinspace.com/> — In-Space Manufacturing & Orbital Economy
+   1. <https://www.factoriesinspace.com/> — In‑Space Manufacturing & Orbital Economy
    1. <https://www.jpl.nasa.gov/missions/?type=current>
    1. <https://kosmolenta.com/>
    1. <https://www.multitran.com/>
@@ -97,7 +99,7 @@ Just some hysterical pages.
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

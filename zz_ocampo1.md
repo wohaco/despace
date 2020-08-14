@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Section of Planetary Sciences. Lead Program Executive*|
 |:--|:--|
-|B‑day, addr.| 1955.01.05 (Колумбия) / … |
-|E‑mail| <adriana.c.ocampo@nasa.gov>, <aco@nasa.gov> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +1(202)358-21-52, ℻: +1(202)358-30-97; *mobile:* +1(202)372-70-58 |
-|| ![](f/contact/o/ocampo1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|1955.01.05 (Колумбия) / …|
+|E‑mail|<adriana.c.ocampo@nasa.gov>, <aco@nasa.gov>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +1(202)358-21-52, ℻: +1(202)358-30-97; *mobile:* +1(202)372-70-58|
+||![](f/contact/o/ocampo1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Uria PhD
    - **Exp.:** New Frontiers Lead Program Executive, Lucy Program Executive, Venus Lead Scientist, Akatsuki Program Scientist, VEXAG Program Officer, EnVision Mission Study Lead, Venera-D Mission Study Lead

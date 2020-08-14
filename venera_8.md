@@ -18,25 +18,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) |
-|Development| … |
-|Duration| Travel: 117 days<br> Lander: 50 min |
-|Launch| 27 March 1972, 04:15:01 UTC, Rocket: Molniya-M/MVL |
-|Operator| Lavochkin |
-|Programme| Venera programme |
-|Similar to| • Proposed: [Venera 9 and 10](venera_9_10.md), [Vega 1 and 2](vega_1_2.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md) |
-|Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface. |
-|[Type](sc.md)| Atmospheric spacecraft; lander spacecraft |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|Travel: 117 days<br> Lander: 50 min|
+|Launch|27 March 1972, 04:15:01 UTC, Rocket: Molniya-M/MVL|
+|Operator|Lavochkin|
+|Programme|Venera programme|
+|Similar to|• Proposed: [Venera 9 and 10](venera_9_10.md), [Vega 1 and 2](vega_1_2.md) <br> • Current: …<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md)|
+|Target|Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface.|
+|[Type](sc.md)|Atmospheric spacecraft; lander spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| A funnel‑shaped antenna; a resetable antenna |
-|Composition| Orbiter, lander |
-|Contractor| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): [1972-021A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-021A), SCN: [5912 ⎆](http://www.n2yo.com/satellite/?s=05912) |
-|Manufacturer| Lavochkin |
-|Mass| Lander: 495 kg ([minisatellite](sc.md), [EVN‑070](venus.md)) |
-|Orbit / Site| Heliocentric |
-|Payload| Temperature, pressure, and light sensors as well as an altimeter, gamma ray spectrometer, gas analyzer, and radio transmitters. |
-|Power| … |
+|Comms|A funnel‑shaped antenna; a resetable antenna|
+|Composition|Orbiter, lander|
+|Contractor|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1972-021A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-021A), SCN: [5912 ⎆](http://www.n2yo.com/satellite/?s=05912)|
+|Manufacturer|Lavochkin|
+|Mass|Lander: 495 kg ([minisatellite](sc.md), [EVN‑070](venus.md))|
+|Orbit / Site|Heliocentric|
+|Payload|Temperature, pressure, and light sensors as well as an altimeter, gamma ray spectrometer, gas analyzer, and radio transmitters.|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -50,18 +50,18 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
-|EVN‑002||Surface: preliminary map.|  |D|C||||
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑010||Atmosphere: vertical model.|  |D|||||
-|EVN‑011||Atmosphere: common circulation model.|  |D|||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑017||Atmosphere: structure.|  |D|||||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
+|EVN‑001||Atmosphere: preliminary model.||D|C|F|||
+|EVN‑002||Surface: preliminary map.||D|C||||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑006|T|Exploration: from surface.|||C||||
+|EVN‑010||Atmosphere: vertical model.||D|||||
+|EVN‑011||Atmosphere: common circulation model.||D|||||
+|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑017||Atmosphere: structure.||D|||||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
 
 </small>
 
@@ -80,10 +80,10 @@ Venera 8 carried out accurate direct (in situ) measurements of atmospheric tem
 
 |*Heigth*|*Wind speed*|
 |:--|:--|
-| 50 km | 100 m/s |
-| 45 km | 70 – 40 m/s |
-| 45 – 20 km | 40 – 20 m/s |
-| 10 – 0 km | 1 m/s |
+|50 km|100 m/s|
+|45 km|70 – 40 m/s|
+|45 – 20 km|40 – 20 m/s|
+|10 – 0 km|1 m/s|
 
 Measurements of the horizontal wind speed, almost coinciding with the speed of the ultraviolet inhomogeneities at the top of the clouds, indicated the presence of a superrotation of the atmosphere of Venus ([EVN‑034](venus.md)). Detailed study of high‑altitude temperature profiles and variations of the frequency signal allowed to obtain estimates of the nature of turbulence in the lower atmosphere of Venus ([EVN‑010](venus.md)).
 
@@ -124,15 +124,15 @@ The purpose of the launch of the automatic station Venera 8 was to deliver the
 
 |*Location*|*Instrument*|*Function*|*Mass, kg*|*Power, W*|
 |:--|:--|:--|:--|:--|
-|Orbiter| **КС-18-4М** | Instrument to study the flows of cosmic particles | ≤1.6 | 2.0 |
-|Orbiter| **ЛА-4** | Measuring the density of H₂ and H₃ | ≤2.0 | ≤2.0 |
-|Lander| **ИТД**, **МД** | Temperature and pressure sensors  | ≤0.7 | — |
-|Lander| **ИТД** | Temperature and pressure sensors | 0.2 | 4.0 |
-|Lander| **ДОУ1-М** | Accelerometer | 0.25 | — |
-|Lander| **ГС-4М** | Gamma ray spectrometer | 8.3 | ≤5.0 |
-|Lander| **ИОВ-72** | Cadmium sulfide Photometers | ≤1.4 | 2.0 ‑ 3.0 |
-|Lander| **ИАВ-72** | Ammonia analyser | ≤0.7 | ≤2.0 |
-|Lander| The onboard radio complex of the lander and ground installations  | Radio Doppler experiment |—|—|
+|Orbiter|**КС-18-4М**|Instrument to study the flows of cosmic particles|≤1.6|2.0|
+|Orbiter|**ЛА-4**|Measuring the density of H₂ and H₃|≤2.0|≤2.0|
+|Lander|**ИТД**, **МД**|Temperature and pressure sensors|≤0.7|—|
+|Lander|**ИТД**|Temperature and pressure sensors|0.2|4.0|
+|Lander|**ДОУ1-М**|Accelerometer|0.25|—|
+|Lander|**ГС-4М**|Gamma ray spectrometer|8.3|≤5.0|
+|Lander|**ИОВ-72**|Cadmium sulfide Photometers|≤1.4|2.0 ‑ 3.0|
+|Lander|**ИАВ-72**|Ammonia analyser|≤0.7|≤2.0|
+|Lander|The onboard radio complex of the lander and ground installations|Radio Doppler experiment|—|—|
 
    - Radar altimeter;
 
@@ -176,7 +176,7 @@ In order to determine the illumination of the surface of the planet, necessary f
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.

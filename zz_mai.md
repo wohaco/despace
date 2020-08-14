@@ -3,9 +3,9 @@
 
 |[![](f/contact/m/mai_logo1_thumb.jpg)](f/contact/m/mai_logo1.png)|*Волоколамское шоссе, д. 4, г. Москва, 125993, Россия*|
 |:--|:--|
-|E‑mail| <mai@mai.ru> |
-|Link| <https://mai.ru/><br> <https://en.wikipedia.org/wiki/Moscow_Aviation_Institute><br> <https://ru.wikipedia.org/wiki/Московский_авиационный_институт> |
-|Tel| +7(499)158-43-33, ℻: +7(499)158-29-77 |
+|E‑mail|<mai@mai.ru>|
+|Link|<https://mai.ru/><br> <https://en.wikipedia.org/wiki/Moscow_Aviation_Institute><br> <https://ru.wikipedia.org/wiki/Московский_авиационный_институт>|
+|Tel|+7(499)158-43-33, ℻: +7(499)158-29-77|
 
 **Моско́вский авиацио́нный институ́т (национальный исследовательский университет) (МАИ)**, англ. **Moscow Aviation Institute (National Research University) (MAI)** — российское высшее учебное заведение, расположенное в Москве. Основан 20 марта 1930 года. Член [IAF](zz_iaf.md) с 1990 г.
 

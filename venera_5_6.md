@@ -17,25 +17,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md) |
-|Development| … |
-|Duration| **Venera 5:** Travel: 131 days; Atmosphere: 53 minutes<br> **Venera 6:** Travel: 127 days, Atmosphere: 51 minutes |
-|Launch| **Venera 5:** January 5, 1969, 06:28:08 UTC Rocket: Molniya 8K78M<br> **Venera 6:** January 10, 1969, 05:51:52 UTC Rocket: Molniya 8K78M |
-|Operator| Lavochkin |
-|Programme| Venera programme |
-|Similar to| • Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • Past: [Venera 4](venera_4.md) |
-|Target| Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface |
-|[Type](sc.md)| Atmospheric spacecraft |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|**Venera 5:** Travel: 131 days; Atmosphere: 53 minutes<br> **Venera 6:** Travel: 127 days, Atmosphere: 51 minutes|
+|Launch|**Venera 5:** January 5, 1969, 06:28:08 UTC Rocket: Molniya 8K78M<br> **Venera 6:** January 10, 1969, 05:51:52 UTC Rocket: Molniya 8K78M|
+|Operator|Lavochkin|
+|Programme|Venera programme|
+|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • Past: [Venera 4](venera_4.md)|
+|Target|Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface|
+|[Type](sc.md)|Atmospheric spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| 2 m parabolic HGA (decimeter range) |
-|Composition| Lander, orbiter |
-|Contractor| … |
-|[ID](spaceid.md)| **Venera 5:** NSSDC ID (COSPAR ID): [1969-001A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-001A), SCN: 3642<br> **Venera 6:** NSSDC ID (COSPAR ID): [1969-002A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-002A), SCN: 3648 |
-|Manufacturer| Lavochkin |
-|Mass| SC 1 130 kg, Lander dry 410 kg ([large satellite](sc.md), [EVN‑073](venus.md)) |
-|Orbit / Site| **Venera 5:** Heliocentric 0.72 × 0.98 AU; T = 286 days<br> **Venera 6:** Heliocentric 0.71 × 0.98 AU; T = 285 days |
-|Payload| **Spacecraft:** Instrument to study the flows of cosmic particles, to determine the distribution of oxygen and hydrogen in the planet’s atmosphere<br> **Lander:** Equipment for Making Atmospheric Measurements |
-|Power| … |
+|Comms|2 m parabolic HGA (decimeter range)|
+|Composition|Lander, orbiter|
+|Contractor|…|
+|[ID](spaceid.md)|**Venera 5:** NSSDC ID (COSPAR ID): [1969-001A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-001A), SCN: 3642<br> **Venera 6:** NSSDC ID (COSPAR ID): [1969-002A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-002A), SCN: 3648|
+|Manufacturer|Lavochkin|
+|Mass|SC 1 130 kg, Lander dry 410 kg ([large satellite](sc.md), [EVN‑073](venus.md))|
+|Orbit / Site|**Venera 5:** Heliocentric 0.72 × 0.98 AU; T = 286 days<br> **Venera 6:** Heliocentric 0.71 × 0.98 AU; T = 285 days|
+|Payload|**Spacecraft:** Instrument to study the flows of cosmic particles, to determine the distribution of oxygen and hydrogen in the planet’s atmosphere<br> **Lander:** Equipment for Making Atmospheric Measurements|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -49,16 +49,16 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model.|  |D|C|F|||
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑008||Atmosphere: nightglows.|  |D|||||
-|EVN‑012||Atmosphere: lightnings.|  |D|||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.|  |D||F|||
+|EVN‑001||Atmosphere: preliminary model.||D|C|F|||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑008||Atmosphere: nightglows.||D|||||
+|EVN‑012||Atmosphere: lightnings.||D|||||
+|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
+|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
 
 </small>
 
@@ -151,7 +151,7 @@ The spacecrafts were equipped with parabolic high‑gain antennas (the antennas 
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.

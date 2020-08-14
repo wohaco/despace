@@ -3,9 +3,9 @@
 
 |[![](f/contact/e/esa_logo1_thumb.jpg)](f/contact/e/esa_logo1.png)|*Keplerlaan 1, 2201 AZ Noordwijk, Нидерланды*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <http://www.esa.int/About_Us/ESTEC><br> <https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre><br> <https://en.wikipedia.org/wiki/Concurrent_Design_Facility> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<http://www.esa.int/About_Us/ESTEC><br> <https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre><br> <https://en.wikipedia.org/wiki/Concurrent_Design_Facility>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **European Space Research & Technology Centre (ESTEC)** — подразделение [ESA](esa.md), ответственное за разработку и создание космических технологий и аппаратов, проведение испытаний. ESTEC основан в 1968 году. Включает в себя:
 

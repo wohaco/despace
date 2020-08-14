@@ -15,27 +15,27 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| $450M or 10 051 kg of [gold](sc_price.md) in 2019 prices |
-|[CML](cml.md) / [TRL](trl.md)| CML: <mark>TBD</mark>, TRL: <mark>TBD</mark> |
-|Development| 2019 ‑ … |
-|Duration| 2 years (proposed) |
-|Launch| 2021 (proposed) |
-|Operator| NASA’s JPL |
-|Programme| Discovery Program |
-|Similar to| • Proposed: [EnVision](envision.md)<br> • Current: …<br> • Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md) |
-|Target| Would produce global, high resolution topography and imaging of Venus’ surface |
-|[Type](sc.md)| Orbiter spacecraft |
+|Cost|$450M or 10 051 kg of [gold](sc_price.md) in 2019 prices|
+|[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
+|Development|2019 ‑ …|
+|Duration|2 years (proposed)|
+|Launch|2021 (proposed)|
+|Operator|NASA’s JPL|
+|Programme|Discovery Program|
+|Similar to|• Proposed: [EnVision](envision.md)<br> • Current: …<br> • Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md)|
+|Target|Would produce global, high resolution topography and imaging of Venus’ surface|
+|[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
-|Composition| Orbiter |
-|Contractor| … |
-|Manufacturer| … |
+|Composition|Orbiter|
+|Contractor|…|
+|Manufacturer|…|
 ||**`…`**|
-|Comms| … |
-|[ID](spaceid.md)| NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark> |
-|Mass| … ([…satellite](sc.md)) |
-|Orbit / Site| … |
-|Power| … |
-|Payload| Emissivity Mapper, Interferometric Synthetic Aperture Radar |
+|Comms|…|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
+|Mass|… ([…satellite](sc.md))|
+|Orbit / Site|…|
+|Power|…|
+|Payload|Emissivity Mapper, Interferometric Synthetic Aperture Radar|
 
 **Projected** targets & objectives:
 
@@ -49,15 +49,15 @@
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑022||Surface: map, precise.|  |D|||||
-|EVN‑024||Surface: composition.|  ||C||||
-|EVN‑029||Is Venus geologically active?|  |D|C|F|||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.|  |D|||||
-|EVN‑052||Role of water (fluids) in planetary geology.|  |D|C|F|||
-|EVN‑055|T|Atmosphere: sample obtaining & analysis.|  ||C||||
-|EVN‑078|T|Atmosphere: radiography.|  |D|||||
-|EVN‑089||Measuring the planetary gravitational field.|  |D||F|||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑022||Surface: map, precise.||D|||||
+|EVN‑024||Surface: composition.|||C||||
+|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
+|EVN‑052||Role of water (fluids) in planetary geology.||D|C|F|||
+|EVN‑055|T|Atmosphere: sample obtaining & analysis.|||C||||
+|EVN‑078|T|Atmosphere: radiography.||D|||||
+|EVN‑089||Measuring the planetary gravitational field.||D||F|||
 
 </small>
 
@@ -87,8 +87,8 @@ The primary mission goals require two instruments and a gravity science investig
 
 |*Instrument*|*Description*|
 |:--|:--|
-| Venus Emissivity Mapper (VEM) | Would map surface emissivity using six spectral bands in five atmospheric windows that see through the clouds. |
-| Venus Interferometric Synthetic Aperture Radar (VISAR) | would generate a DEM (digital elevation model) with an accuracy of 250 m horizontal by 5 m height. |
+|Venus Emissivity Mapper (VEM)|Would map surface emissivity using six spectral bands in five atmospheric windows that see through the clouds.|
+|Venus Interferometric Synthetic Aperture Radar (VISAR)|would generate a DEM (digital elevation model) with an accuracy of 250 m horizontal by 5 m height.|
 
 Gravity science would be carried out using the spacecraft’s telecom system ([EVN‑089](venus.md)). The mission design also would enable the opportunity to send a nanosat probe into the atmosphere of Venus, carrying a mass spectrometer to sample the noble gases and their isotopes ([EVN‑055](venus.md)).
 
@@ -122,7 +122,7 @@ Gravity science would be carried out using the spacecraft’s telecom system ([E
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — …

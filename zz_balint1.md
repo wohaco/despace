@@ -3,12 +3,12 @@
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Principal Human Centered Designer*|
 |:--|:--|
-|Место/центр| NASA, JPL |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <tibor.balint@jpl.nasa.gov>, <tibor.balint@network.rca.ac.uk> |
-|B‑day, addr.| <mark>nodate</mark> 1963 / … |
-|| [![](f/contact/b/balint1_photo_thumb.jpg)](f/contact/b/balint1_photo.jpg) <mark>nosign</mark> |
+|Место/центр|NASA, JPL|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<tibor.balint@jpl.nasa.gov>, <tibor.balint@network.rca.ac.uk>|
+|B‑day, addr.|<mark>nodate</mark> 1963 / …|
+||[![](f/contact/b/balint1_photo_thumb.jpg)](f/contact/b/balint1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD at the Royal College of Art, School of Design, in Innovation Design Engineering.
    - **Exp.:** …

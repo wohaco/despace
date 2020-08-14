@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU. Ariane 6 Launch System Engineer*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> 1976 / … |
-|E‑mail| <denis.rebuffat@esa.int> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/r/rebuffat1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|<mark>nodate</mark> 1976 / …|
+|E‑mail|<denis.rebuffat@esa.int>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+||![](f/contact/r/rebuffat1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

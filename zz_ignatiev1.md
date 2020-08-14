@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Каб. 616. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Старший научный сотрудник*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* +7(495)333-15-02; *mobile:* +7(903)120-11-93 |
-|E‑mail| <niignatiev@gmail.com> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| [![](f/contact/i/ignatiev1_photo_thumb.jpg)](f/contact/i/ignatiev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* +7(495)333-15-02; *mobile:* +7(903)120-11-93|
+|E‑mail|<niignatiev@gmail.com>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||[![](f/contact/i/ignatiev1_photo_thumb.jpg)](f/contact/i/ignatiev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

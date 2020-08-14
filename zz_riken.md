@@ -3,9 +3,9 @@
 
 |[![](f/contact/r/riken_logo1_thumb.png)](f/contact/r/riken_logo1.png)|*2-1 Hirosawa, Wako, Saitama 351-0198, Japan*|
 |:--|:--|
-|E‑mail| <pr@riken.jp> |
-|Link| <https://www.riken.jp/><br> <https://en.wikipedia.org/wiki/Riken><br> <https://www.linkedin.com/company/riken> |
-|Tel| +81-48-462-1111, ℻: … |
+|E‑mail|<pr@riken.jp>|
+|Link|<https://www.riken.jp/><br> <https://en.wikipedia.org/wiki/Riken><br> <https://www.linkedin.com/company/riken>|
+|Tel|+81-48-462-1111, ℻: …|
 
 **Riken** (理研, stylized as **RIKΞN**) is a large scientific research institute in Japan. Founded in 1917.
 

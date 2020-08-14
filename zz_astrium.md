@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/astrium_logo1_thumb.jpg)](f/contact/a/astrium_logo1.png)|*…*|
 |:--|:--|
-|E‑mail| … |
-|Link| <https://en.wikipedia.org/wiki/Astrium><br> <https://ru.wikipedia.org/wiki/EADS_Astrium> |
-|Tel| … |
+|E‑mail|…|
+|Link|<https://en.wikipedia.org/wiki/Astrium><br> <https://ru.wikipedia.org/wiki/EADS_Astrium>|
+|Tel|…|
 
 **Astrium** — бывшая дочерняя компания ADS, крупнейший производитель космических аппаратов. Основана в декабре 2006. В 2009 имела оборот €4.8 млрд, и 15 000 работников во Франции, Германии, Великобритании, Испании и Нидерландах.  Штаб‑квартира. Франция: Париж. Германия: Оттобрунн.
 

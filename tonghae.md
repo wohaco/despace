@@ -13,14 +13,14 @@ The orbital inclination is about 86°. The choice of the site location was influ
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1984 ‑ …)  |
-| [Launch vehicles](lv.md)  |**Taepodong-1** ┊ [은하 2호 (Galaxy 2)](unha.md)  |
-| Operator  | Korean Committee of Space Technology |
-| Location  | 40°51′N 129°40′E<br> Hwadae County, North Hamgyong Province, North Korea  |
-| Distance  | 4 700 km — to the equator;<br> 7 900 km — to [NPO Lavochkin](zz_lav.md);<br> 10 800 km — to [JPL](zz_jpl.md);<br> 400 km — to Korean Committee of Space Technology  |
-| Launch pad  | 2  |
-|| [![](f/spaceport/tonghae/pic1_thumb.jpg)](f/spaceport/tonghae/pic1.jpg)  [![](f/spaceport/tonghae/map1_thumb.jpg)](f/spaceport/tonghae/map1.png)   [![](f/spaceport/tonghae/map2_thumb.jpg)](f/spaceport/tonghae/map2.jpg)  |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1984 ‑ …)|
+|[Launch vehicles](lv.md)|**Taepodong-1** ┊ [은하 2호 (Galaxy 2)](unha.md)|
+|Operator|Korean Committee of Space Technology|
+|Location|40°51′N 129°40′E<br> Hwadae County, North Hamgyong Province, North Korea|
+|Distance|4 700 km — to the equator;<br> 7 900 km — to [NPO Lavochkin](zz_lav.md);<br> 10 800 km — to [JPL](zz_jpl.md);<br> 400 km — to Korean Committee of Space Technology|
+|Launch pad|2|
+||[![](f/spaceport/tonghae/pic1_thumb.jpg)](f/spaceport/tonghae/pic1.jpg)  [![](f/spaceport/tonghae/map1_thumb.jpg)](f/spaceport/tonghae/map1.png)   [![](f/spaceport/tonghae/map2_thumb.jpg)](f/spaceport/tonghae/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

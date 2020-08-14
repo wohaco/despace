@@ -12,31 +12,31 @@
 
 ||
 |:--|:--|
-| [![](f/sensor/f/fss_fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_fss_mini_pic1.jpg)  |
+|[![](f/sensor/f/fss_fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_fss_mini_pic1.jpg)|
 
 <small>
 
 |*Характеристика*|*[Значение](si.md)<br> (FSS)*|*[Значение](si.md)<br> (Mini FSS)*|
 |:--|:--|:--|
-|[УГТ](trl.md)|   |   |
-|Диапазон °, ≥| 128 × 128  | 128 × 128  |
-|Исполнение| Моноблок  | Моноблок |
-|Режим готовности|   |  |
-|Точность| 0.3° (3σ)  |от 0.2 до 1.5° (3σ)  |
-|Частота обновл., Гц|   |  |
+|[TRL](trl.md)|||
+|Диапазон °, ≥|128 × 128|128 × 128|
+|Исполнение|Моноблок|Моноблок|
+|Режим готовности|||
+|Точность|0.3° (3σ)|от 0.2 до 1.5° (3σ)|
+|Частота обновл., Гц|||
 |**Etc:**|• • •|• • •|
-|[ВБР](srrq.md) за САС| 0.997  | 0.997 |
-|Dimensions, L×W×H, mm| 108 × 108 × 53  |50 × 46 × 17  |
-|Интерфейсы|   |  |
-|Mass, kg| 0.375  |0.05  |
-|[Voltage](voltage.md), V| ± 15  |  |
-|Overload, g|   |  |
-|[Rad.resist](ion_rad.md), Gy (rad)| 100 (10 000)  | 100 (10 000) |
-|Resource, h (y)|   |  |
-|[Lifetime](lifetime.md), h (y)| 43 800 (5)  | 43 800 (5) |
-|[Тепловой режим](tcs.md), ℃| от –50 до +85 ℃  | от –50 до +85 ℃ |
-|Consumption, W| 0.25  |0 (пассивный)  |
-|| [![](f/sensor/f/fss_pic1_thumb.jpg)](f/sensor/f/fss_pic1.jpg) | [![](f/sensor/f/fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_mini_pic1.jpg) |
+|[ВБР](srrq.md) за САС|0.997|0.997|
+|Dimensions, L×W×H, mm|108 × 108 × 53|50 × 46 × 17|
+|Интерфейсы|||
+|Mass, kg|0.375|0.05|
+|[Voltage](voltage.md), V|± 15||
+|Overload, g|||
+|[Rad.resist](ion_rad.md), Gy (rad)|100 (10 000)|100 (10 000)|
+|Resource, h (y)|||
+|[Lifetime](lifetime.md), h (y)|43 800 (5)|43 800 (5)|
+|[Temp. range](tcs.md), ℃|от –50 до +85 ℃|от –50 до +85 ℃|
+|Consumption, W|0.25|0 (пассивный)|
+||[![](f/sensor/f/fss_pic1_thumb.jpg)](f/sensor/f/fss_pic1.jpg)|[![](f/sensor/f/fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_mini_pic1.jpg)|
 
 </small>
 

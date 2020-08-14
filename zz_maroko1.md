@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), RU. Специалист по аэрокосмическим вопросам московского офиса НАСА*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| 1960.05.15 (Москва, РФ) / … |
-|| ![](f/contact/m/maroko1_animated.gif) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|1960.05.15 (Москва, РФ) / …|
+||![](f/contact/m/maroko1_animated.gif) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

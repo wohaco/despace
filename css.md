@@ -15,29 +15,29 @@
 
 ||
 |:--|
-| [![](f/sensor/c/css_pic1_thumb.jpg)](f/sensor/c/css_pic1.jpg)  |
+|[![](f/sensor/c/css_pic1_thumb.jpg)](f/sensor/c/css_pic1.jpg)|
 
 <small>
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Диапазон °, ≥| ± 90° × ± 90°, линейная зона ± 12° × ±12°  |
-|Исполнение| Моноблок  |
-|Режим готовности|   |
-|Точность| 1.0 ‑ 1.5° (3σ)  |
-|Частота обновл., Гц|   |
+|Диапазон °, ≥|± 90° × ± 90°, линейная зона ± 12° × ±12°|
+|Исполнение|Моноблок|
+|Режим готовности||
+|Точность|1.0 ‑ 1.5° (3σ)|
+|Частота обновл., Гц||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|   |
-|Dimensions, L×W×H, mm| 110 × 110 × 30  |
-|Интерфейсы| 4 дублированных аналоговых сигнала  |
-|Mass, kg| 0.225 (203 ‑ 248) кг  |
-|[Voltage](voltage.md), V|    |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)|    |
-|Resource, h (y)|   |
-|[Lifetime](lifetime.md), h (y)| 131 400 (15)  |
-|[Тепловой режим](tcs.md), ℃| от −80 до +120 ℃  |
-|Consumption, W| 0  |
+|[ВБР](srrq.md) за САС||
+|Dimensions, L×W×H, mm|110 × 110 × 30|
+|Интерфейсы|4 дублированных аналоговых сигнала|
+|Mass, kg|0.225 (203 ‑ 248) кг|
+|[Voltage](voltage.md), V||
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)|131 400 (15)|
+|[Temp. range](tcs.md), ℃|от −80 до +120 ℃|
+|Consumption, W|0|
 
 </small>
 

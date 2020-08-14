@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Лаб. № 633 «Исследований элементного состава грунта Луны и планет». Научный сотрудник*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <vladtr@mx.iki.rssi.ru> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)333-41-23, ℻: +7(495)333-12-48; *mobile:* +7(916)638-14-18 |
-|| ![](f/contact/t/tretyakov1_photo.jpg) [![](f/contact/t/tretyakov1_sign_thumb.jpg)](f/contact/t/tretyakov1_sign.png) |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<vladtr@mx.iki.rssi.ru>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)333-41-23, ℻: +7(495)333-12-48; *mobile:* +7(916)638-14-18|
+||![](f/contact/t/tretyakov1_photo.jpg) [![](f/contact/t/tretyakov1_sign_thumb.jpg)](f/contact/t/tretyakov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

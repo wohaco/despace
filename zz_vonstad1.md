@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[UCL](zz_ucl.md), EU. Department of Civil, Environmental & Geomatic Engineering. Geotechnical engineer*|
 |:--|:--|
-|B‑day, addr.| 1991.05.29 (Mo I Rana, Nordland, Norway) / London, UK |
-|E‑mail| <frida.sjovoll.13@ucl.ac.uk> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/v/vonstad1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|1991.05.29 (Mo I Rana, Nordland, Norway) / London, UK|
+|E‑mail|<frida.sjovoll.13@ucl.ac.uk>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+||![](f/contact/v/vonstad1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD candidate, Civil Engineering, UCL, 2016-2020.
    - **Exp.:** …

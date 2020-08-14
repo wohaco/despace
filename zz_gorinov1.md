@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Младший научный сотрудник*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)333-41-02; *mobile:* +7(910)474-10-32 |
-|E‑mail| <gorinov-dmitry@yandex.ru> |
-|B‑day, addr.| <mark>nodate</mark> / |
-|| ![](f/contact/g/gorinov1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)333-41-02; *mobile:* +7(910)474-10-32|
+|E‑mail|<gorinov-dmitry@yandex.ru>|
+|B‑day, addr.|<mark>nodate</mark> /|
+||![](f/contact/g/gorinov1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -12,33 +12,33 @@
 
 ||
 |:--|
-| [![](f/comms/h/hsxbdt_pic1_thumb.jpg)](f/comms/h/hsxbdt_pic1.jpg)  |
+|[![](f/comms/h/hsxbdt_pic1_thumb.jpg)](f/comms/h/hsxbdt_pic1.jpg)|
 
 <small>
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(HSXBDT)</small>*|
 |:--|:--|
-|[УГТ](trl.md)| 9  |
-|Вид модуляции| QPSK, 8PSK, 16APSK и 32APSK  |
-|Время непр. работы, ч|   |
-|Вых. мощность, Вт| 8  |
-|Дальность, км|   |
-|[Диапазон частот](rf.md), Гц| X: 8 225 000 000 (настройка 8.1 ‑ 8.5 ГГц)  |
-|Нестаб. частоты| ±4 ppm  |
-|[Скорость](битрейт.md), bit/s| до 520 Мб/с (CCSDS), до 880 Мб/с (DVB-S2)  |
-|Структура сигнала|   |
+|[TRL](trl.md)|9|
+|Вид модуляции|QPSK, 8PSK, 16APSK и 32APSK|
+|Время непр. работы, ч||
+|Вых. мощность, Вт|8|
+|Дальность, км||
+|[Диапазон частот](rf.md), Гц|X: 8 225 000 000 (настройка 8.1 ‑ 8.5 ГГц)|
+|Нестаб. частоты|±4 ppm|
+|[Скорость](битрейт.md), bit/s|до 520 Мб/с (CCSDS), до 880 Мб/с (DVB-S2)|
+|Структура сигнала||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС| 0.9392  |
-|Габариты, Д×Ш×В, мм| 230 × 154 × 45  |
-|Интерфейсы| Customizable LVDS. Two ports with 4 pairs each (clock input/output, data, optional enable). RS-422 or [MIL-STD-1553](mil_std_1553b.md)  |
-|Mass, kg| 1.8  |
-|[Voltage](voltage.md), V| 27 (23 ‑ 34)  |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)| 60 (6 000) при Al 1.5 г/cm², ≥40 МэВ·cm²/мг  |
-|Resource, h (y)|   |
-|[Lifetime](lifetime.md), h (y)| 61 320 (7)  |
-|[Тепловой режим](tcs.md), ℃| –20 ‑ +50, 2 датчика температуры  |
-|Consumption, W| 70  |
+|[ВБР](srrq.md) за САС|0.9392|
+|Габариты, Д×Ш×В, мм|230 × 154 × 45|
+|Интерфейсы|Customizable LVDS. Two ports with 4 pairs each (clock input/output, data, optional enable). RS-422 or [MIL-STD-1553](mil_std_1553b.md)|
+|Mass, kg|1.8|
+|[Voltage](voltage.md), V|27 (23 ‑ 34)|
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)|60 (6 000) при Al 1.5 г/cm², ≥40 МэВ·cm²/мг|
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)|61 320 (7)|
+|[Temp. range](tcs.md), ℃|–20 ‑ +50, 2 датчика температуры|
+|Consumption, W|70|
 
 </small>
 

@@ -12,29 +12,29 @@
 
 ||
 |:--|
-| [![](f/sensor/s/sdp-1_pic1_thumb.jpg)](f/sensor/s/sdp-1_pic1.png)  |
+|[![](f/sensor/s/sdp-1_pic1_thumb.jpg)](f/sensor/s/sdp-1_pic1.png)|
 
 <small>
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Диапазон °, ≥| 185° × 5°  |
-|Исполнение| Моноблок  |
-|Режим готовности|   |
-|Точность|   |
-|Частота обновл., Гц|   |
+|Диапазон °, ≥|185° × 5°|
+|Исполнение|Моноблок|
+|Режим готовности||
+|Точность||
+|Частота обновл., Гц||
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС|   |
-|Dimensions, L×W×H, mm| 93 × 33 × 54  |
-|Интерфейсы|   |
-|Mass, kg| 0.4  |
-|[Voltage](voltage.md), V| 15  |
-|Overload, g|   |
-|[Rad.resist](ion_rad.md), Gy (rad)|   |
-|Resource, h (y)|   |
-|[Lifetime](lifetime.md), h (y)|  |
-|[Тепловой режим](tcs.md), ℃|   |
-|Consumption, W| 0.85  |
+|[ВБР](srrq.md) за САС||
+|Dimensions, L×W×H, mm|93 × 33 × 54|
+|Интерфейсы||
+|Mass, kg|0.4|
+|[Voltage](voltage.md), V|15|
+|Overload, g||
+|[Rad.resist](ion_rad.md), Gy (rad)||
+|Resource, h (y)||
+|[Lifetime](lifetime.md), h (y)||
+|[Temp. range](tcs.md), ℃||
+|Consumption, W|0.85|
 
 </small>
 

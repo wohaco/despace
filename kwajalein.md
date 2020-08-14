@@ -12,14 +12,14 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1960 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Falcon 1](falcon.md) ┊ **different ICBMs**  |
-| Operator  | United States Air Force |
-| Location  | 8°43′N 167°44′E<br> Marshall islands |
-| Distance  | 1 000 km — to the equator;<br> 14 300 km — to [NPO Lavochkin](zz_lav.md);<br> 8 300 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 3:<br> Illeginni Island (9.08631°N 167.47303°E)<br> Roi-Namur Island (9.4012°N 167.4663°E)<br> Kwajalein Drop Zone (7.6500°N 167.7000°E)  |
-|| [![](f/spaceport/kwajalein/pic1_thumb.jpg)](f/spaceport/kwajalein/pic1.jpg)  [![](f/spaceport/kwajalein/map1_thumb.jpg)](f/spaceport/kwajalein/map1.png)   [![](f/spaceport/kwajalein/map2_thumb.jpg)](f/spaceport/kwajalein/map2.jpg) |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>  |
+|Activity|**Active** (1960 ‑ …)|
+|[Launch vehicles](lv.md)|[Falcon 1](falcon.md) ┊ **different ICBMs**|
+|Operator|United States Air Force|
+|Location|8°43′N 167°44′E<br> Marshall islands|
+|Distance|1 000 km — to the equator;<br> 14 300 km — to [NPO Lavochkin](zz_lav.md);<br> 8 300 km — to [JPL](zz_jpl.md)|
+|Launch pad|3:<br> Illeginni Island (9.08631°N 167.47303°E)<br> Roi-Namur Island (9.4012°N 167.4663°E)<br> Kwajalein Drop Zone (7.6500°N 167.7000°E)|
+||[![](f/spaceport/kwajalein/pic1_thumb.jpg)](f/spaceport/kwajalein/pic1.jpg)  [![](f/spaceport/kwajalein/map1_thumb.jpg)](f/spaceport/kwajalein/map1.png)   [![](f/spaceport/kwajalein/map2_thumb.jpg)](f/spaceport/kwajalein/map2.jpg)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

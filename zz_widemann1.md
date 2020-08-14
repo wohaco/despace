@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Paris Obs.](paris_obs.md), EU. Associate professor University Versailles, France, since 1995. Astronomer Paris Observatory, since 1995. Chair Science Versailles Center Research Program, France, since 2007.*|
 |:--|:--|
-|B‑day, addr.| 1961.04.24 (Boulogne-Billancourt, France) / … |
-|E‑mail| <thomas.widemann@obspm.fr> |
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +3(313)925-56-44</mark>; *mobile:* <mark>nomobile</mark> |
-|| ![](f/contact/w/widemann1_photo.jpg) <mark>nosign</mark> |
+|B‑day, addr.|1961.04.24 (Boulogne-Billancourt, France) / …|
+|E‑mail|<thomas.widemann@obspm.fr>|
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +3(313)925-56-44</mark>; *mobile:* <mark>nomobile</mark>|
+||![](f/contact/w/widemann1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, University Paris, 1991.
    - **Exp.:** Astronomer, educator. Achievements include research in solar system science, atmospheric physics, history of science. Recipient Asteroid Widemann award, International Astronomical Union, 2008.

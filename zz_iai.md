@@ -3,9 +3,9 @@
 
 |[![](f/contact/i/iai_logo1_thumb.jpg)](f/contact/i/iai_logo1.png)|*2W33+X7 Бней‑Атарот, Израиль*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.iai.co.il/><br> <https://en.wikipedia.org/wiki/Israel_Aerospace_Industries><br> <https://ru.wikipedia.org/wiki/Israel_Aerospace_Industries> |
-|Tel| +972(3)935-31-11, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.iai.co.il/><br> <https://en.wikipedia.org/wiki/Israel_Aerospace_Industries><br> <https://ru.wikipedia.org/wiki/Israel_Aerospace_Industries>|
+|Tel|+972(3)935-31-11, ℻: …|
 
 **Israel Aerospace Industries, IAI** («Авиационная промышленность Израиля»; ивр. ‏התעשייה האווירית לישראל‏‎ — «ха‑Таасия́ ха‑авири́т ле‑Исраэ́ль») — израильский концерн, основной офис которого фактически находится в аэропорту «Бен Гурион» в районе «большого Тель‑Авива». Является известной фирмой израильского ВПК. Компания основана в 1953 году. Производство авиатехники и авионики, выпуск приборов и оборудования для космических спутников, связи и разведки. Один из ведущих в мире разработчиков и производителей БПЛА, некоторые из них не имеют аналогов в мировой практике авиастроения.
 

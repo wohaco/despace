@@ -17,25 +17,25 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost| … or … kg of [gold](sc_price.md)|
-|Development| … |
-|Duration| **Venera 13:** Travel: 4 months, 2 days, Lander: 127 minutes<br> **Venera 14:** Travel: 4 months and 1 day, Lander: 57 minutes |
-|Launch| **Venera 13:** October 30, 1981, 06:04:00 UTC, Rocket: Proton-K/D-1 8K82K<br> **Venera 14:** November 4, 1981, 05:31:00 UTC, Rocket: Proton-K/D-1 8K82K |
-|Operator| Soviet Academy of Sciences |
-|Programme| Venera programme |
-|Similar to| • Proposed: … <br> • Current: … <br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md) |
-|Target| Panoramic photography of Venus, sampling and analysis of the soil, the study of the atmosphere. |
-|[Type](sc.md)| Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft |
+|Cost|… or … kg of [gold](sc_price.md)|
+|Development|…|
+|Duration|**Venera 13:** Travel: 4 months, 2 days, Lander: 127 minutes<br> **Venera 14:** Travel: 4 months and 1 day, Lander: 57 minutes|
+|Launch|**Venera 13:** October 30, 1981, 06:04:00 UTC, Rocket: Proton-K/D-1 8K82K<br> **Venera 14:** November 4, 1981, 05:31:00 UTC, Rocket: Proton-K/D-1 8K82K|
+|Operator|Soviet Academy of Sciences|
+|Programme|Venera programme|
+|Similar to|• Proposed: … <br> • Current: … <br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md)|
+|Target|Panoramic photography of Venus, sampling and analysis of the soil, the study of the atmosphere.|
+|[Type](sc.md)|Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft|
 |**Spacecraft:**|• • •|
-|Comms| Orbiter: high‑gain parabolic antenna |
-|Composition| Orbiter / Lander |
-|Contractor| … |
-|[ID](spaceid.md)| **Venera 13:** NSSDC ID (COSPAR ID): [1981-106A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106A), [1981-106D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106D), SCN: [12927 ⎆](http://www.n2yo.com/satellite/?s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?s=15599)<br> **Venera 14:** NSSDC ID (COSPAR ID): [1981-110A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110A), [1981-110D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110D), SCN: [12939 ⎆](http://www.n2yo.com/satellite/?s=12939), [15600 ⎆](http://www.n2yo.com/satellite/?s=15600) |
-|Manufacturer| NPO Lavochkin |
-|Mass| **Venera 13** Launch: 4 397.85 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg<br> **Venera 14** Launch: 4 394.5 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg |
-|Orbit / Site| **Venera 13:** Heliocentric 0.70 x 0.99 AU; i = 2.3°; T = 285 days<br> **Venera 14:** Heliocentric 0.71 x 0.99 AU; i = 2.3°; T = 286 days|
-|Payload| 2 cameras, accelerometer, thermometer, barometer, nephelometer, spectrometers (including mass, fluorescent), photometer, hydrometer, radio seismograph, chromographs, drill and penetrometer |
-|Power| … |
+|Comms|Orbiter: high‑gain parabolic antenna|
+|Composition|Orbiter / Lander|
+|Contractor|…|
+|[ID](spaceid.md)|**Venera 13:** NSSDC ID (COSPAR ID): [1981-106A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106A), [1981-106D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106D), SCN: [12927 ⎆](http://www.n2yo.com/satellite/?s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?s=15599)<br> **Venera 14:** NSSDC ID (COSPAR ID): [1981-110A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110A), [1981-110D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110D), SCN: [12939 ⎆](http://www.n2yo.com/satellite/?s=12939), [15600 ⎆](http://www.n2yo.com/satellite/?s=15600)|
+|Manufacturer|NPO Lavochkin|
+|Mass|**Venera 13** Launch: 4 397.85 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg<br> **Venera 14** Launch: 4 394.5 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg|
+|Orbit / Site|**Venera 13:** Heliocentric 0.70 x 0.99 AU; i = 2.3°; T = 285 days<br> **Venera 14:** Heliocentric 0.71 x 0.99 AU; i = 2.3°; T = 286 days|
+|Payload|2 cameras, accelerometer, thermometer, barometer, nephelometer, spectrometers (including mass, fluorescent), photometer, hydrometer, radio seismograph, chromographs, drill and penetrometer|
+|Power|…|
 
 Achieved targets & investigations:
 
@@ -49,24 +49,24 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑003|T|Exploration: from inside of atmosphere.|  |D|C||||
-|EVN‑005|T|Exploration: from Venusian orbit.|  |D||F|||
-|EVN‑006|T|Exploration: from surface.|  ||C||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.|  |D|||||
-|EVN‑014||Atmosphere: composition.|  |D|||F||
-|EVN‑016||Atmosphere: clouds, their structure.|  |D||F|||
-|EVN‑017||Atmosphere: structure.|  |D|||||
-|EVN‑018||Atmosphere: clouds, their chemistry.|  |D||F|||
-|EVN‑024||Surface: composition.|  ||C||||
-|EVN‑025||Surface: morphology|  |C|||||
-|EVN‑026||Surface: elemental composition.|  ||C||||
-|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|  ||C|||S|
-|EVN‑063|T|Surface: panoramic imaging.|  ||C||||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.|  |D||F|||
-|EVN‑074||Meteorological model.|  |D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.|  |D||F|||
-|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.|  |D|||||
-|EVN‑093|T|Atmosphere/surface imaging.|  |D||F|||
+|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
+|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
+|EVN‑006|T|Exploration: from surface.|||C||||
+|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
+|EVN‑014||Atmosphere: composition.||D|||F||
+|EVN‑016||Atmosphere: clouds, their structure.||D||F|||
+|EVN‑017||Atmosphere: structure.||D|||||
+|EVN‑018||Atmosphere: clouds, their chemistry.||D||F|||
+|EVN‑024||Surface: composition.|||C||||
+|EVN‑025||Surface: morphology||C|||||
+|EVN‑026||Surface: elemental composition.|||C||||
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|||C|||S|
+|EVN‑063|T|Surface: panoramic imaging.|||C||||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑074||Meteorological model.||D||F|||
+|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
+|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
+|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
 
 </small>
 
@@ -119,33 +119,33 @@ The Venera 14 lander performed the same set of measurements during descent in 
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
 |:--|:--|
-| Carbon dioxide | 97 % |
-| Molecular hydrogen | 4.0 ± 0.3 % |
-| Argon | 100 ppm |
-| Neon | 7.6 ppm |
-| Krypton | 0.035 ppm |
-| Xenon | ≤0.020 ppm |
+|Carbon dioxide|97 %|
+|Molecular hydrogen|4.0 ± 0.3 %|
+|Argon|100 ppm|
+|Neon|7.6 ppm|
+|Krypton|0.035 ppm|
+|Xenon|≤0.020 ppm|
 
 The ratio of isotopes:
 
 |*Isotopic ratios*|*Value*|
 |:--|:--|
-| Carbon (13C/12C) | 0.0108 |
-| Argon (40Ar/36Ar) | 1.11 ± 0.02 |
-| Argon (38Ar/36Ar) | 0.183 ± 0.003 |
-| Neon (20Ne/22Ne) | 12.15 ± 0.1 |
+|Carbon (13C/12C)|0.0108|
+|Argon (40Ar/36Ar)|1.11 ± 0.02|
+|Argon (38Ar/36Ar)|0.183 ± 0.003|
+|Neon (20Ne/22Ne)|12.15 ± 0.1|
 
 Gas chromatograph measurements yielded the following values:
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
 |:--|:--|
-| Water vapor | 700 ± 300 ppm |
-| Molecular oxygen | 18 ± 4 ppm |
-| Molecular hydrogen | 25 700 ± 10 ppm |
-| Krypton  | 0.77 ± 0.3 ppm |
-| Hydrogen sulfide | 80 700 ± 40 ppm |
-| Carbonyl sulfide  | 40 700 ± 20 ppm |
-| Sulfur hexafluoride  | 0.27 ± 0.1 ppm |
+|Water vapor|700 ± 300 ppm|
+|Molecular oxygen|18 ± 4 ppm|
+|Molecular hydrogen|25 700 ± 10 ppm|
+|Krypton|0.77 ± 0.3 ppm|
+|Hydrogen sulfide|80 700 ± 40 ppm|
+|Carbonyl sulfide|40 700 ± 20 ppm|
+|Sulfur hexafluoride|0.27 ± 0.1 ppm|
 
 **Surface**
 
@@ -165,16 +165,16 @@ The results of the analysis of the elemental composition of Venusian rocks accor
 
 |*Chemical element*|*Value, % (Venera 13)*|*Value, % (Venera 14)*|
 |:--|:--|:--|
-| Silicon | 45 |49 |
-| Titanium | 1.6 |1.3 |
-| Aluminum | 16 |18 |
-| Iron | 9.3 |8.8 |
-| Manganese | 0.2 |0.2 |
-| Magnesium | 11 |8.1 |
-| Calcium | 7.1 |10 |
-| Potassium | 4.0 |0.2 |
-| Sulfur | 0.65 |0.35 |
-| Chlorine | ≤0.3 |≤0.4 |
+|Silicon|45|49|
+|Titanium|1.6|1.3|
+|Aluminum|16|18|
+|Iron|9.3|8.8|
+|Manganese|0.2|0.2|
+|Magnesium|11|8.1|
+|Calcium|7.1|10|
+|Potassium|4.0|0.2|
+|Sulfur|0.65|0.35|
+|Chlorine|≤0.3|≤0.4|
 
 Comparison of the composition of typical Venus rocks with the composition of rocks of similar structural and morphological provinces of the Earth indicates some differences in the formation of the surface and crust of the Earth and Venus .
 
@@ -230,9 +230,9 @@ Orbiter payload mass: 92 kg.
 
 |*Parameter*|*Value*|
 |:--|:--|
-| Light filter | Neutral / transparent, Red, Green, Blue |
-| Viewing angle | 180° |
-| Transmission speed | 64 kbps |
+|Light filter|Neutral / transparent, Red, Green, Blue|
+|Viewing angle|180°|
+|Transmission speed|64 kbps|
 
 Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x‑ray spectrometer for aerosols, mass spectrometer and gas chromatograph were improved. The payload mass of the Lander:  100 kg.
 
@@ -262,11 +262,11 @@ Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, 
 
 |*Parameter*|*Mass, kg*|
 |:--|:--|
-| Launch mass of Venera 13 | 4 397.85 |
-| Launch mass of Venera 14 | 4 394.5 |
-| Fly‑by spacecraft’s mass (with fuel) | 2 718 |
-| Lander’s mass (with atmosphere entry system) | 1 645 |
-| Lander’s mass | 760 |
+|Launch mass of Venera 13|4 397.85|
+|Launch mass of Venera 14|4 394.5|
+|Fly‑by spacecraft’s mass (with fuel)|2 718|
+|Lander’s mass (with atmosphere entry system)|1 645|
+|Lander’s mass|760|
 
 **Orbiter**
 
@@ -310,7 +310,7 @@ The cameras were installed inside the airtight and thermally insulated compartme
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark> |
+|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.

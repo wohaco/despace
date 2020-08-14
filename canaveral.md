@@ -13,14 +13,14 @@ For GEO launches, the latitude of 28°27'N has a slight disadvantage compared to
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-| Activity  |**Active** (1940 ‑ …)  |
-| [Launch vehicles](lv.md)  | [Atlas](atlas.md) ┊ [Delta](delta.md) ┊ [Falcon](falcon.md) ┊ **Titan**  |
-| Operator  | Air Force Space Command  |
-| Location  | 28°28′03″N 80°33′59″W<br> Cape Canaveral, Florida, USA  |
-| Distance  | 3 400 km — to the equator;<br> 11 000 km — to [NPO Lavochkin](zz_lav.md);<br> 3 800 km — to [JPL](zz_jpl.md)  |
-| Launch pad  | 13 (3 active)  |
-|| [![](f/spaceport/canaveral/pic1_thumb.jpg)](f/spaceport/canaveral/pic1.jpg)  [![](f/spaceport/canaveral/map1_thumb.jpg)](f/spaceport/canaveral/map1.png)   [![](f/spaceport/canaveral/map2_thumb.jpg)](f/spaceport/canaveral/map2.png) |
-|| [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small> |
+|Activity|**Active** (1940 ‑ …)|
+|[Launch vehicles](lv.md)|[Atlas](atlas.md) ┊ [Delta](delta.md) ┊ [Falcon](falcon.md) ┊ **Titan**|
+|Operator|Air Force Space Command|
+|Location|28°28′03″N 80°33′59″W<br> Cape Canaveral, Florida, USA|
+|Distance|3 400 km — to the equator;<br> 11 000 km — to [NPO Lavochkin](zz_lav.md);<br> 3 800 km — to [JPL](zz_jpl.md)|
+|Launch pad|13 (3 active)|
+||[![](f/spaceport/canaveral/pic1_thumb.jpg)](f/spaceport/canaveral/pic1.jpg)  [![](f/spaceport/canaveral/map1_thumb.jpg)](f/spaceport/canaveral/map1.png)   [![](f/spaceport/canaveral/map2_thumb.jpg)](f/spaceport/canaveral/map2.png)|
+||[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*World map of spaceports*</small>|
 
 
 

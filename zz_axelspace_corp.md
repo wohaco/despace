@@ -3,9 +3,9 @@
 
 |[![](f/contact/a/axelspace_logo1_thumb.jpg)](f/contact/a/axelspace_logo1.png)|*Clip Nihonbashi Building 2-3F, 3-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo 103-0023, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://www.axelspace.com/><br> <http://www.linkedin.com/company/axelspace> |
-|Tel| +81-3-4405-5085, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://www.axelspace.com/><br> <http://www.linkedin.com/company/axelspace>|
+|Tel|+81-3-4405-5085, ℻: …|
 
 **Axelspace Corporation** founded 2008.08.08. Provides:
 

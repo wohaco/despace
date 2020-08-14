@@ -18,45 +18,45 @@
 ## Характеристики
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Flight from Earth| 55.34 лет на ЖРДУ (20 200 суток) |
-|Signal from Earth| 1 666 ‑ 10 000 минут (27.76 ‑ 166.66 часов) |
-|Distance from Earth| 30 ‑ 180 млрд км |
-|Breaking to the orbit| не более … ‑ … минут |
+|Flight from Earth|55.34 лет на ЖРДУ (20 200 суток)|
+|Signal from Earth|1 666 ‑ 10 000 минут (27.76 ‑ 166.66 часов)|
+|Distance from Earth|30 ‑ 180 млрд км|
+|Breaking to the orbit|не более … ‑ … минут|
 |**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)| 180 000 000 000 км (1 200 а.е.);<br> 30 000 000 000 км (200 [а.е.](si.md)) |
-|[Argument of periapsis](keplerian.md) (ω)| 150° |
-|[Semimajor axis](keplerian.md) (a)| 98.1 млрд км (654 а.е.),<br> или 99.75 млрд км (665 а.е.), или 105 млрд км (700 а.е.) |
-|Orbital velocity (Ⅴ)| … km/s |
-|Day/year| … / … земных |
-|[Longit. of asc.node](keplerian.md) (Ω)| –5° при i=48°, или 101° при i=18°, или 102° или 150° |
-|[Inclination](keplerian.md) (Ⅰ)| 48° при Ω=–5°, или 18° при Ω=101°, или 30° |
-|[Sider. rotat.period](astroperiod.md) (T, day)| … дня |
-|[Sidereal period](astroperiod.md) (year)| 16 725 лет (6 104 625 д),<br> либо 17 117 лет (6 247 705 д),<br> либо 10 000 ‑ 20 000 лет (3 650 000 ‑ 7 300 000 д) |
-|[Synodic period](astroperiod.md)| … дней (… д … ч … мин … с) |
-|Satellites| … |
-|[Hill sphere](hill_sphere.md)| … км |
-|Satellite of| [Солнце](sun.md) |
-|[Eccentricity](keplerian.md) (e)| 0.7 |
+|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|180 000 000 000 км (1 200 а.е.);<br> 30 000 000 000 км (200 [а.е.](si.md))|
+|[Argument of periapsis](keplerian.md) (ω)|150°|
+|[Semimajor axis](keplerian.md) (a)|98.1 млрд км (654 а.е.),<br> или 99.75 млрд км (665 а.е.), или 105 млрд км (700 а.е.)|
+|Orbital velocity (Ⅴ)|… km/s|
+|Day/year|… / … земных|
+|[Longit. of asc.node](keplerian.md) (Ω)|–5° при i=48°, или 101° при i=18°, или 102° или 150°|
+|[Inclination](keplerian.md) (Ⅰ)|48° при Ω=–5°, или 18° при Ω=101°, или 30°|
+|[Sider. rotat.period](astroperiod.md) (T, day)|… дня|
+|[Sidereal period](astroperiod.md) (year)|16 725 лет (6 104 625 д),<br> либо 17 117 лет (6 247 705 д),<br> либо 10 000 ‑ 20 000 лет (3 650 000 ‑ 7 300 000 д)|
+|[Synodic period](astroperiod.md)|… дней (… д … ч … мин … с)|
+|Satellites|…|
+|[Hill sphere](hill_sphere.md)|… км|
+|Satellite of|[Солнце](sun.md)|
+|[Eccentricity](keplerian.md) (e)|0.7|
 |**Physics:**|• • •|
-|[1st escape velocity](esc_vel.md) (v₁)| … km/s <small>(… земной)</small> |
-|[2nd escape velocity](esc_vel.md) (v₂)| … km/s <small>(… земной)</small> |
-|[Albedo](albedo.md)| 0.4 |
-|[Apparent magnitude](app_mag.md) (m)| 22 |
-|[Magnetic field](mag_field.md)| … ‑ … А/м <small>(… ‑ … земного)</small> |
-|Mass (m)| 6·10²⁵ кг <small>(10 земных)</small> |
-|Axial tilt| …° |
-|Volume (Ⅴ)| … km³ <small>(… земного)</small> |
-|Mean density (ρ)| … г/cm³ (средняя, <small>… земной</small>) |
-|Surface area (S)| … km² <small>(… земной)</small> |
-|Flattening| … |
-|Radius| 23 300 км при 10 M⊕ (средний, <small>3.66 земного</small>),<br> либо 18 600 км при 5 M⊕ (средний, <small>2.92 земного</small>),<br> либо 29 400 км при 20 M⊕ (средний, <small>4.62 земного</small>),<br> либо 17 866 ‑ 26 120 км (средний, <small>2.80 ‑ 4.10 земного</small>),<br> либо 13 000 ‑ 26 000 км (средний, <small>2.04 ‑ 4.08 земного</small>) |
-|[Surface gravity](g.md)| … m/s² <small>(… земного)</small> |
-|Equatorial rotation velocity| … км/ч <small>(… земной)</small> |
+|[1st escape velocity](esc_vel.md) (v₁)|… km/s <small>(… земной)</small>|
+|[2nd escape velocity](esc_vel.md) (v₂)|… km/s <small>(… земной)</small>|
+|[Albedo](albedo.md)|0.4|
+|[Apparent magnitude](app_mag.md) (m)|22|
+|[Magnetic field](mag_field.md)|… ‑ … А/м <small>(… ‑ … земного)</small>|
+|Mass (m)|6·10²⁵ кг <small>(10 земных)</small>|
+|Axial tilt|…°|
+|Volume (Ⅴ)|… km³ <small>(… земного)</small>|
+|Mean density (ρ)|… г/cm³ (средняя, <small>… земной</small>)|
+|Surface area (S)|… km² <small>(… земной)</small>|
+|Flattening|…|
+|Radius|23 300 км при 10 M⊕ (средний, <small>3.66 земного</small>),<br> либо 18 600 км при 5 M⊕ (средний, <small>2.92 земного</small>),<br> либо 29 400 км при 20 M⊕ (средний, <small>4.62 земного</small>),<br> либо 17 866 ‑ 26 120 км (средний, <small>2.80 ‑ 4.10 земного</small>),<br> либо 13 000 ‑ 26 000 км (средний, <small>2.04 ‑ 4.08 земного</small>)|
+|[Surface gravity](g.md)|… m/s² <small>(… земного)</small>|
+|Equatorial rotation velocity|… км/ч <small>(… земной)</small>|
 |**Temperature & atmosph.:**|• • •|
-|[Atmosphere](atmosphere.md)|**Pressure** … МПа (… бар).<br> **Плотность** … kg/m³.<br> **Ветер:**<br> … ‑ … m/s (поверхность).<br> **Состав:**<br> …. |
-|[Освещённость](illum.md)|  |
-|Радиация|  |
-|Температура| –226 ℃ |
+|[Atmosphere](atmosphere.md)|**Pressure** … МПа (… бар).<br> **Плотность** … kg/m³.<br> **Ветер:**<br> … ‑ … m/s (поверхность).<br> **Состав:**<br> ….|
+|[Освещённость](illum.md)||
+|Радиация||
+|Температура|–226 ℃|
 
 
 
@@ -154,13 +154,13 @@ As of September 2019, no observation of Planet Nine had been announced. While sk
 |*✔*|*Космический аппарат (индекс)*|*Дата (UTC)*|*C*|*D*|*F*|*H*|*S*|*X*|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |—|**Proposed:**|—|—|—|—|—|—|—|—|
-|…| … | … ||||||| <mark>TBD</mark> |
+|…|…|…|||||||<mark>TBD</mark>|
 |—|**Developing:**|—|—|—|—|—|—|—|—|
-|…| … | … ||||||| <mark>TBD</mark> |
+|…|…|…|||||||<mark>TBD</mark>|
 |—|**Active:**|—|—|—|—|—|—|—|—|
-|…| … | … ||||||| <mark>TBD</mark> |
+|…|…|…|||||||<mark>TBD</mark>|
 |—|**Past:**|—|—|—|—|—|—|—|—|
-|…| … | … ||||||| <mark>TBD</mark> |
+|…|…|…|||||||<mark>TBD</mark>|
 
 </small>
 
@@ -177,11 +177,11 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |•|•|**Never occurred:**|•|•|•|•|•|•|
-|EMN‑…|||  ||||||
+|EMN‑…|||||||||
 |•|•|**Was tried:**|•|•|•|•|•|•|
-|EMN‑…|||  ||||||
+|EMN‑…|||||||||
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EMN‑…|||  ||||||
+|EMN‑…|||||||||
 
 </small>
 
@@ -200,112 +200,112 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |[…‑005](planet_9.md)|T|Exploration: from surface.|Исследование: с поверхности.||||||
 |• • •|•|• • •|• • •|•|•|•|•|•|
 |||**Was tried:**|**`Завершено частично`**||||||
-| … || … | … ||||||
+|…||…|…||||||
 |• • •|•|• • •|• • •|•|•|•|•|•|
 |||**Mostly done:**|**`В целом завершено`**||||||
-| … || … | … ||||||
+|…||…|…||||||
 
 1
 
 |•|•|**Never occurred:**|•|•|•|•|•|•|
-|EMN‑080||Albedo: changes in time| Gi ||D|F|||
-|EMN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|  ||D||||
-|EMN‑037||Atmosphere: cause of the retrograde moving|  ||D||||
-|EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid| Ac, Ai, Am, At ||D||||
-|EMN‑007||Atmosphere: connection between the topography & the atmo circulation|  ||D||||
-|EMN‑033||Atmosphere: nature/rate of its escape|  ||D||||
-|EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|  ||D||||
-|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km| All A ||||||
-|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km| All A ||||||
-|EMN‑054|T|Atmosphere: sample return| As |C|||||
-|EMN‑015||Atmosphere: structure of the mesosphere| All A ||D||||
-|EMN‑030||Atmosphere: was it lost during some cataclysm or event|  ||D||||
-|EMN‑095||Climate: history & causes of changes|  ||D||||
-|EMN‑087||Crustal support mechanisms|  ||D||||
-|EMN‑051||Dimensions & characteristics of the mantle & the core|  ||D||||
-|EMN‑057|T|Exploration with [satellites](sc.md): microsatellites|  ||D|F|||
-|EMN‑071|T|Exploration with [satellites](sc.md): nanosatellites|  ||D|F|||
-|EMN‑058|T|Exploration: directed seismoexperiment|  ||D|F|||
-|EMN‑056|T|Exploration: from L1/L2| Ai, Am, At, Gi ||D||||
-|EMN‑059|T|Exploration: with [rover](rover.md)| All A/S |C|||||
-|EMN‑081|T|Extreme environment electronics|  |C|D|F|||
-|EMN‑094|T|High temperature electronics|  |C|D|F|||
-|EMN‑066|T|Human: on the surface|  |C|||H||
-|EMN‑065|T|Human: on the orbit|  ||D||H||
-|EMN‑060|T|Human: manned fly‑by|  ||D|F|H||
-|EMN‑043||Mechanisms of the mantle’s convection|  ||D|F|||
-|EMN‑048||Nature & sources of the greenhouse effect|  ||D|F|||
-|EMN‑049||Nature & characteristics of the thermal tides|  ||D||||
-|EMN‑069|T|Prolonged surface‑spacecraft functioning|  |C|||||
-|EMN‑064|T|Planetary terraforming|  |C|||H||
-|EMN‑045||Surface: nature of the tessera|  ||D||||
-|EMN‑061|T|Surface: sample return|  |C||||S|
-|EMN‑088|T|Surface: subsurface investigations|  |C|||||
-|EMN‑086|T|Surface: tessera investigations, in‑situ|  |C|||||
-|EMN‑047||Surface: structure‑composition connection of different regions & planet’s evolution|  |C|||||
-|EMN‑039||Was the planet inhabited & for how long|  |C|D||||
-|EMN‑040||Were there oceans & why have they gone|  |C|D|F|||
+|EMN‑080||Albedo: changes in time|Gi||D|F|||
+|EMN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|||D||||
+|EMN‑037||Atmosphere: cause of the retrograde moving|||D||||
+|EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid|Ac, Ai, Am, At||D||||
+|EMN‑007||Atmosphere: connection between the topography & the atmo circulation|||D||||
+|EMN‑033||Atmosphere: nature/rate of its escape|||D||||
+|EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|||D||||
+|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km|All A||||||
+|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km|All A||||||
+|EMN‑054|T|Atmosphere: sample return|As|C|||||
+|EMN‑015||Atmosphere: structure of the mesosphere|All A||D||||
+|EMN‑030||Atmosphere: was it lost during some cataclysm or event|||D||||
+|EMN‑095||Climate: history & causes of changes|||D||||
+|EMN‑087||Crustal support mechanisms|||D||||
+|EMN‑051||Dimensions & characteristics of the mantle & the core|||D||||
+|EMN‑057|T|Exploration with [satellites](sc.md): microsatellites|||D|F|||
+|EMN‑071|T|Exploration with [satellites](sc.md): nanosatellites|||D|F|||
+|EMN‑058|T|Exploration: directed seismoexperiment|||D|F|||
+|EMN‑056|T|Exploration: from L1/L2|Ai, Am, At, Gi||D||||
+|EMN‑059|T|Exploration: with [rover](rover.md)|All A/S|C|||||
+|EMN‑081|T|Extreme environment electronics||C|D|F|||
+|EMN‑094|T|High temperature electronics||C|D|F|||
+|EMN‑066|T|Human: on the surface||C|||H||
+|EMN‑065|T|Human: on the orbit|||D||H||
+|EMN‑060|T|Human: manned fly‑by|||D|F|H||
+|EMN‑043||Mechanisms of the mantle’s convection|||D|F|||
+|EMN‑048||Nature & sources of the greenhouse effect|||D|F|||
+|EMN‑049||Nature & characteristics of the thermal tides|||D||||
+|EMN‑069|T|Prolonged surface‑spacecraft functioning||C|||||
+|EMN‑064|T|Planetary terraforming||C|||H||
+|EMN‑045||Surface: nature of the tessera|||D||||
+|EMN‑061|T|Surface: sample return||C||||S|
+|EMN‑088|T|Surface: subsurface investigations||C|||||
+|EMN‑086|T|Surface: tessera investigations, in‑situ||C|||||
+|EMN‑047||Surface: structure‑composition connection of different regions & planet’s evolution||C|||||
+|EMN‑039||Was the planet inhabited & for how long||C|D||||
+|EMN‑040||Were there oceans & why have they gone||C|D|F|||
 |•|•|**Was tried:**|•|•|•|•|•|•|
-|EMN‑093|T|Atmosphere/surface imaging|  ||D|F|||
-|EMN‑077||Atmosphere: chemical elements distribution|  ||D|F|||
-|EMN‑018||Atmosphere: clouds, their chemistry|  ||D|F|||
-|EMN‑075||Atmosphere: clouds, their nature|  ||D|F|||
-|EMN‑016||Atmosphere: clouds, their structure|  ||D|F|||
-|EMN‑011||Atmosphere: common circulation model|  ||D||||
-|EMN‑014||Atmosphere: composition|  ||D||F||
-|EMN‑019||Atmosphere: energetic balance|  ||D||||
-|EMN‑008||Atmosphere: flashing on the night side|  ||D||||
-|EMN‑013||Atmosphere: illumination of the surface & the atmo layers|  ||D||||
-|EMN‑096||Atmosphere: ionosphere|  ||D|F|||
-|EMN‑012||Atmosphere: lightnings|  ||D||||
-|EMN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|  ||D||||
-|EMN‑067||Atmosphere: nature of the polar dipole & turbulence|  ||D||||
-|EMN‑034||Atmosphere: nature of the superrotation|  ||D||||
-|EMN‑035||Atmosphere: nature of the UV‑absorber|  ||D||||
-|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|  ||D||||
-|EMN‑078|T|Atmosphere: radiography|  ||D||||
-|EMN‑055|T|Atmosphere: sample obtaining & analysis|  |C|||||
-|EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|  ||D||||
-|EMN‑017||Atmosphere: common structure|  ||D||||
-|EMN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|  ||D|F|||
-|EMN‑010||Atmosphere: vertical model|  ||D||||
-|EMN‑050||Causes of the water loss|  ||D||||
-|EMN‑041||Common connection between the atmosphere & the surface|  ||D||||
-|EMN‑073|T|Exploration with [satellites](sc.md): large satellites|  ||D|F|||
-|EMN‑072|T|Exploration with [satellites](sc.md): medium satellites|  ||D|F|||
-|EMN‑070|T|Exploration with [satellites](sc.md): minisatellites|  ||D|F|||
-|EMN‑042||History & causes of the planet’s volcanic & tectonic evolution|  ||D||||
-|EMN‑020||Inner structure of the planet|  ||D||||
-|EMN‑029||Is Venus geologically active?|  |C|D|F|||
-|EMN‑028||Magnetosphere structure|  ||D|F|||
-|EMN‑089||Measuring the planetary gravitational field|  ||D|F|||
-|EMN‑074||Meteorological model|  ||D|F|||
-|EMN‑079||Precise duration of the Venusian day|  ||D||||
-|EMN‑052||Role of water (fluids) in planetary geology|  |C|D|F|||
-|EMN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|  ||D||||
-|EMN‑046||Surface: causes of the changes during the last billion years|  |C|D|F|||
-|EMN‑024||Surface: common composition|  |C|||||
-|EMN‑026||Surface: elemental composition|  |C|||||
-|EMN‑021||Surface: map, 3D|  |C|D||||
-|EMN‑022||Surface: map, precise|  ||D||||
-|EMN‑023||Surface: mineralogical composition|  |C|||||
-|EMN‑044||Surface: nature & causes of forming of the current rocks & soils|  |C|||||
-|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places|  |C||||S|
-|EMN‑063|T|Surface: panoramic imaging|  |C|||||
-|EMN‑025||Surface: morphology|  |C|||||
-|EMN‑085|T|Surface: tessera investigations, remote|  ||D|F|||
-|EMN‑076||Surface: volcanoes, their presence|  ||D|F|||
-|EMN‑027||The causes why Venus evolved in a planet so different from Earth|  |C|D|F|||
-|EMN‑091||The loss rate of water from Venus|  ||D|F|||
-|EMN‑053||Traces of life in the atmosphere & on the surface|  |C|||||
+|EMN‑093|T|Atmosphere/surface imaging|||D|F|||
+|EMN‑077||Atmosphere: chemical elements distribution|||D|F|||
+|EMN‑018||Atmosphere: clouds, their chemistry|||D|F|||
+|EMN‑075||Atmosphere: clouds, their nature|||D|F|||
+|EMN‑016||Atmosphere: clouds, their structure|||D|F|||
+|EMN‑011||Atmosphere: common circulation model|||D||||
+|EMN‑014||Atmosphere: composition|||D||F||
+|EMN‑019||Atmosphere: energetic balance|||D||||
+|EMN‑008||Atmosphere: flashing on the night side|||D||||
+|EMN‑013||Atmosphere: illumination of the surface & the atmo layers|||D||||
+|EMN‑096||Atmosphere: ionosphere|||D|F|||
+|EMN‑012||Atmosphere: lightnings|||D||||
+|EMN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|||D||||
+|EMN‑067||Atmosphere: nature of the polar dipole & turbulence|||D||||
+|EMN‑034||Atmosphere: nature of the superrotation|||D||||
+|EMN‑035||Atmosphere: nature of the UV‑absorber|||D||||
+|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|||D||||
+|EMN‑078|T|Atmosphere: radiography|||D||||
+|EMN‑055|T|Atmosphere: sample obtaining & analysis||C|||||
+|EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|||D||||
+|EMN‑017||Atmosphere: common structure|||D||||
+|EMN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|||D|F|||
+|EMN‑010||Atmosphere: vertical model|||D||||
+|EMN‑050||Causes of the water loss|||D||||
+|EMN‑041||Common connection between the atmosphere & the surface|||D||||
+|EMN‑073|T|Exploration with [satellites](sc.md): large satellites|||D|F|||
+|EMN‑072|T|Exploration with [satellites](sc.md): medium satellites|||D|F|||
+|EMN‑070|T|Exploration with [satellites](sc.md): minisatellites|||D|F|||
+|EMN‑042||History & causes of the planet’s volcanic & tectonic evolution|||D||||
+|EMN‑020||Inner structure of the planet|||D||||
+|EMN‑029||Is Venus geologically active?||C|D|F|||
+|EMN‑028||Magnetosphere structure|||D|F|||
+|EMN‑089||Measuring the planetary gravitational field|||D|F|||
+|EMN‑074||Meteorological model|||D|F|||
+|EMN‑079||Precise duration of the Venusian day|||D||||
+|EMN‑052||Role of water (fluids) in planetary geology||C|D|F|||
+|EMN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|||D||||
+|EMN‑046||Surface: causes of the changes during the last billion years||C|D|F|||
+|EMN‑024||Surface: common composition||C|||||
+|EMN‑026||Surface: elemental composition||C|||||
+|EMN‑021||Surface: map, 3D||C|D||||
+|EMN‑022||Surface: map, precise|||D||||
+|EMN‑023||Surface: mineralogical composition||C|||||
+|EMN‑044||Surface: nature & causes of forming of the current rocks & soils||C|||||
+|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places||C||||S|
+|EMN‑063|T|Surface: panoramic imaging||C|||||
+|EMN‑025||Surface: morphology||C|||||
+|EMN‑085|T|Surface: tessera investigations, remote|||D|F|||
+|EMN‑076||Surface: volcanoes, their presence|||D|F|||
+|EMN‑027||The causes why Venus evolved in a planet so different from Earth||C|D|F|||
+|EMN‑091||The loss rate of water from Venus|||D|F|||
+|EMN‑053||Traces of life in the atmosphere & on the surface||C|||||
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EMN‑001||Atmosphere: preliminary model|  |C|D|F|||
-|EMN‑004|T|Exploration: from Earth|  ||D||||
-|EMN‑003|T|Exploration: from inside of atmosphere|  |C|D||||
-|EMN‑006|T|Exploration: from surface|  |C|||||
-|EMN‑005|T|Exploration: from Venusian orbit|  ||D|F|||
-|EMN‑090||Spin axis|  ||D||||
-|EMN‑002||Surface: preliminary map|  |C|D||||
+|EMN‑001||Atmosphere: preliminary model||C|D|F|||
+|EMN‑004|T|Exploration: from Earth|||D||||
+|EMN‑003|T|Exploration: from inside of atmosphere||C|D||||
+|EMN‑006|T|Exploration: from surface||C|||||
+|EMN‑005|T|Exploration: from Venusian orbit|||D|F|||
+|EMN‑090||Spin axis|||D||||
+|EMN‑002||Surface: preliminary map||C|D||||
 
 <p style="page-break-after:always"> </p>
 

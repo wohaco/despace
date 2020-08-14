@@ -3,9 +3,9 @@
 
 |[![](f/contact/l/lav_logo1_thumb.png)](f/contact/l/lav_logo1.png)|*Россия, 141402, Химки, Ленинградская 24*|
 |:--|:--|
-|E‑mail| <npol@laspace.ru> |
-|Link| <http://www.laspace.ru/><br> <https://en.wikipedia.org/wiki/Lavochkin><br> <https://ru.wikipedia.org/wiki/НПО_имени_С._А._Лавочкина> |
-|Tel| +7(495)573-56-75, ℻: +7(495)573-35-95 |
+|E‑mail|<npol@laspace.ru>|
+|Link|<http://www.laspace.ru/><br> <https://en.wikipedia.org/wiki/Lavochkin><br> <https://ru.wikipedia.org/wiki/НПО_имени_С._А._Лавочкина>|
+|Tel|+7(495)573-56-75, ℻: +7(495)573-35-95|
 
 **Акционерное общество «Научно‑производственное объединение им. С.А. Лавочкина»** (АО «НПО Лавочкина», НПОЛ, Lavochkin Science & Production Association, Lavochkin Association, LAV) — предприятие российской ракетно‑космической промышленности. Член [IAF](zz_iaf.md) с 2002 г (кроме 2019 и 2020).
 

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Mission/Project Systems Engineer*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel| *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <mark>noemail</mark> |
-|B‑day, addr.| <mark>nodate</mark> 1971 / … |
-|| [![](f/contact/b/baker1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/b/baker1_sign_thumb.jpg)](f/contact/b/baker1_sign.png) |
+|i18n|<mark>TBD</mark>|
+|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|<mark>nodate</mark> 1971 / …|
+||[![](f/contact/b/baker1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/b/baker1_sign_thumb.jpg)](f/contact/b/baker1_sign.png)|
 
    - **[Education](edu.md):** Mech. engineering, Thermal engineering, Carnegie Mellon Univ., 1993.
    - **Exp.:** GFSC: 2009 ‑ ┊ Mission/Project systems enginer, Lead mission studies in the planetary and astrophysics line of business. 2004 ‑ 2009, Lead thermal engineer, Led [LRO](lunar_reconnaissance_orbiter.md) thermal team.

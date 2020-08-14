@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[ИПМ Келдыша](zz_keldysh_ipm.md), RU. Баллистический центр ИПМ РАН. Заведующий сектором, руководитель баллистического центра*|
 |:--|:--|
-|B‑day, addr.| <mark>nodate</mark> / … |
-|E‑mail| <tag@kiam1.rssi.ru> |
-|i18n| Tuchin, Andrey Georgievich |
-|Tel| *work:* +7(495)333-80-67; *mobile:* +7(915)326-66-92 |
-|| [![](f/contact/t/tuchin1_photo_thumb.jpg)](f/contact/t/tuchin1_photo.jpg) [![](f/contact/t/tuchin1_sign_thumb.jpg)](f/contact/t/tuchin1_sign.png) |
+|B‑day, addr.|<mark>nodate</mark> / …|
+|E‑mail|<tag@kiam1.rssi.ru>|
+|i18n|Tuchin, Andrey Georgievich|
+|Tel|*work:* +7(495)333-80-67; *mobile:* +7(915)326-66-92|
+||[![](f/contact/t/tuchin1_photo_thumb.jpg)](f/contact/t/tuchin1_photo.jpg) [![](f/contact/t/tuchin1_sign_thumb.jpg)](f/contact/t/tuchin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -3,11 +3,11 @@
 
 |*[Org.](contact.md)*|*[Роскосмос](zz_roskosmos.md), RU. Консультант*|
 |:--|:--|
-|i18n| <mark>TBD</mark> |
-|Tel|*раб.:* +7(495)631-91-22; *mobile:* <mark>nomobile</mark> |
-|E‑mail| <elshanskiy.lb@roscosmos.ru> |
-|B‑day, addr.| <mark>nodate</mark> / … |
-|| ![](f/contact/e/elshanskiy1_photo.jpg) <mark>nosign</mark> |
+|i18n|<mark>TBD</mark>|
+|Tel|*раб.:* +7(495)631-91-22; *mobile:* <mark>nomobile</mark>|
+|E‑mail|<elshanskiy.lb@roscosmos.ru>|
+|B‑day, addr.|<mark>nodate</mark> / …|
+||![](f/contact/e/elshanskiy1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

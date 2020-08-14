@@ -3,9 +3,9 @@
 
 |[![](f/contact/s/synspective_logo1_thumb.jpg)](f/contact/s/synspective_logo1.png)|*3-10-3, Miyoshi, Koto City, 〒135-0022 Tokyo, Japan*|
 |:--|:--|
-|E‑mail| <mark>noemail</mark> |
-|Link| <https://synspective.com/><br> <https://www.linkedin.com/company/synspective> |
-|Tel| <mark>noworkphone</mark>, ℻: … |
+|E‑mail|<mark>noemail</mark>|
+|Link|<https://synspective.com><br> <https://www.linkedin.com/company/synspective>|
+|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Synspective Inc.** provides solutions for customers’ challenges with utilizing & integrating data from [Synthetic Aperture Radar](sar.md) (SAR) satellite constellations, etc. Founded 2018.02.
 
