@@ -1,12 +1,11 @@
 # Satoh, Takehiko
-> 2019.10.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP. Department of Solar System Sciences. Professor*|
 |:--|:--|
 |B‑day, addr.|1962.12.05 Tokyo, JP / …|
-|E‑mail|<satoh@stp.isas.jaxa.jp>|
+|Contact|<satoh@stp.isas.jaxa.jp>, *work:* +81(50)3362-3838; факс: +81(42)759-8178 *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +81(50)3362-3838; факс: +81(42)759-8178 *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/s/satoh1_photo_thumb.jpg)](f/contact/s/satoh1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** **[CV](f/contact/s/satoh1_cv.pdf).** PhD, Physics, Science University of Tokyo, 1992. MS, Physics, Science University of Tokyo, 1989. BS, Physics, Science University of Tokyo, 1987.

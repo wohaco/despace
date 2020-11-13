@@ -1,12 +1,11 @@
 # Mogul, Rakesh
-> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[CPP](zz_cpp.md), US. Professor, Biochemistry*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(909)869-43-09; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<rmogul@cpp.edu>|
 |B‑day, addr.|<mark>nodate</mark> 1970 / Pomona, California, US|
+|Contact|<rmogul@cpp.edu>, *раб.:* +1(909)869-43-09; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/m/mogul1_photo_thumb.jpg)](f/contact/m/mogul1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biological & Organic Chemistry, UC Davis, 1998. BS, Chemistry, Redlands Univ., 1992.

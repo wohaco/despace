@@ -1,12 +1,11 @@
 # Долгополов, Владимир Павлович
-> 2019.11.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*НПОЛ, RU. 9/301. Отдел 512 «Проектно‑конструкторский». Ведущий специалист*|
 |:--|:--|
-|i18n|Dolgopolov, Vladimir Pavlovich|
-|Tel|*work:* 31-35; *mobile:* +7(903)775-55-56|
-|E‑mail|<mark>noemail</mark>|
 |B‑day, addr.|1939.03.16, на НПОЛ с 1968 / …|
+|Contact|<mark>noemail</mark>, *work:* 31-35; *mobile:* +7(903)775-55-56|
+|i18n|Dolgopolov, Vladimir Pavlovich|
 ||![](f/contact/d/dolgopolov1_animated.gif) [![](f/contact/d/dolgopolov1_sign_thumb.jpg)](f/contact/d/dolgopolov1_sign.png)|
 
    - **[Education](edu.md):** …

@@ -1,12 +1,11 @@
 # Bullock, Mark
-> 2019.07.10 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.10 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Space Science Department. Principal scientist*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(303)944-94-76; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<bullock@boulder.swri.edu>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<bullock@boulder.swri.edu>, *раб.:* +1(303)944-94-76; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/b/bullock1_photo.jpg) [![](f/contact/b/bullock1_sign_thumb.jpg)](f/contact/b/bullock1_sign.png)|
 
    - **[Education](edu.md):** …
@@ -21,6 +20,6 @@
    - Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Mark_Bullock>
    - <https://www.boulder.swri.edu/about/staff/doss/embed/Bullock.Mark.html>
-   - <https://scholar.google.com/citations?user=SuxFoxAAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=SuxFoxAAAAAJ&hl=en>
    - **As a person:**
       1. …

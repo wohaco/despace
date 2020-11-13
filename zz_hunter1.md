@@ -1,12 +1,11 @@
 # Hunter, Gary W.
-> 2019.07.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[GRC](zz_grc.md), US. Senior Electronics Engineering*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(216)433-64-59; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<gary.w.hunter@nasa.gov>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<gary.w.hunter@nasa.gov>, *раб.:* +1(216)433-64-59; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/h/hunter1_photo_thumb.jpg)](f/contact/h/hunter1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

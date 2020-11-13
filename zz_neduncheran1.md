@@ -1,11 +1,10 @@
 # Neduncheran, Adhithiyan
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[UPES](zz_upes.md), IN, Department of Aerospace Engineering*|
 |:--|:--|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<adhithiyan.n@gmail.com>|
+|Contact|<adhithiyan.n@gmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |B‑day, addr.|1997.05.17 (Ченнаи, Индия) / Дехрадун, Индия|
 ||![](f/contact/n/neduncheran1_photo.jpg) <mark>nosign</mark>|
 

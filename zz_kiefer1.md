@@ -1,12 +1,11 @@
 # Kiefer, Walter S.
-> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Senior Staff Scientist*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1962  / …|
+|Contact|<kiefer@lpi.usra.edu>, *work:* +1(281)486-21-10, Fax: +1(281) 486-21-62; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +1(281)486-21-10, ℻: +1(281) 486-21-62; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<kiefer@lpi.usra.edu>|
-|B‑day, addr.|<mark>nodate</mark> 1962 ? / …|
 ||[![](f/contact/k/kiefer1_photo_thumb.jpg)](f/contact/k/kiefer1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[CV](f/contact/k/kiefer1_cv.pdf)**. PhD, Planetary Science & Geophysics, CalTech, 1990 (Models for the Formation of Highland Regions on Venus). MS, Planetary Science, CalTech, 1986. BS, Physics & Astronomy, Texas Christian University, 1984, summa cum laude (Fourier Transform Infrared Spectroscopy of Clay Minerals & Tar Sands).
@@ -21,6 +20,6 @@
    - Twitter: <mark>notw</mark>
    - <https://www.lpi.usra.edu/science/staff/kiefer/>
    - <https://www.lpi.usra.edu/science/kiefer/home.html>
-   - <https://scholar.google.com/citations?user=Ga6b0uUAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=Ga6b0uUAAAAJ&hl=en>
    - **As a person:**
       1. …

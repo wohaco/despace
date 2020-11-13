@@ -1,12 +1,11 @@
 # Economou, Thanasis
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Chicago Univ.](chicago_univ.md), US. Senior Scientist*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<tecon@tecon.uchicago.edu>|
 |B‑day, addr.|1937.05.06 (Greece) / …|
+|Contact|<tecon@tecon.uchicago.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/e/economou1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

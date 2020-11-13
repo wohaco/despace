@@ -1,12 +1,11 @@
 # Dyar, Darby Melinda
-> 2019.07.11 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.11 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Mount Holyoke College](mtholyoke_college.md), US. Department of Astronomy. Professor of Astronomy*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(413)538-30-73; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mdyar@mtholyoke.edu>|
 |B‑day, addr.|<mark>nodate</mark> 1958.. / …|
+|Contact|<mdyar@mtholyoke.edu>, *раб.:* +1(413)538-30-73; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/d/dyar1_photo.jpg) [![](f/contact/d/dyar1_sign_thumb.jpg)](f/contact/d/dyar1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geochemistry, Massachusetts Institute of Technology. BA, Geology & Art History, Wellesley College.
@@ -22,6 +21,6 @@
    - <https://www.mtholyoke.edu/people/m-darby-dyar>
    - <https://solarsystem.nasa.gov/people/2180/darby-dyar/>
    - <https://www.psi.edu/about/staffpage/mdyar>
-   - <https://mars.nasa.gov/people/profile/?id=22857>
+   - <https://mars.nasa.gov/people/profile/?:id=22857>
    - **As a person:**
       1. …

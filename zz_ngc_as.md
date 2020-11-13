@@ -1,18 +1,14 @@
 # NGC A/S
-> 2019.08.26 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.26 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/ngc_as_logo1_thumb.png)](f/contact/n/ngc_as_logo1.png)|*2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*|
+|[![](f/contact/n/ngc_as_logo1_thumb.png)](f/contact/n/ngc_as_logo1.png)|<mark>noemail</mark>, +1(819)348-94-83, Fax: +1(819)348-94-30;<br> *2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.ngcaerospace.com/><br> <https://www.linkedin.com/company/ngc-aerospace-ltd>|
-|Tel|+1(819)348-94-83, ℻: +1(819)348-94-30|
 
 **NGC Aerospace Ltd** is a Canadian high‑tech SME recognised for the design & deployment of artificial vision, guidance, navigation & control systems for the autonomous operation of space, aeronautical & terrestrial vehicles. The analyses, algorithms, simulators & real-time software developed by NGC aim at increasing the autonomy, performance, reliability & safety of these intelligent vehicles while at the same time reducing their operational cost. From theoretical concepts & innovations to satellites & autonomous rovers currently in operation, NGC has demonstrated creativity, quality, excellence & performance consistent with its motto.
 
 
 <p style="page-break-after:always"> </p>
-
-## NGC A/S, comments
 
 NGC’s satellite GNC solutions & services include:
 

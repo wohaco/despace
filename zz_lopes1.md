@@ -1,12 +1,11 @@
 # Lopes, Rosaly M.C.
-> 2019.07.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Earth & Space Sciences Division. Senior Research Scientist*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(818)393-45-84, ℻: +1(818)393-44-45; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<rosaly.m.lopes-gautier@jpl.nasa.gov>|
 |B‑day, addr.|1957.01.08 (Rio de Janeiro, Brazilia) / …|
+|Contact|<rosaly.m.lopes-gautier@jpl.nasa.gov>, *раб.:* +1(818)393-45-84, Fax: +1(818)393-44-45; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/l/lopes1_photo_thumb.jpg)](f/contact/l/lopes1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Розали Лопес. [CV](f/contact/l/lopes1_cv.pdf). PhD, Planetary Science, London Univ., 1986. B.Sc., Astronomy, London Univ., 1978.
@@ -20,7 +19,7 @@
    - LinkedIn: <https://www.linkedin.com/in/rosaly-lopes-9395174>
    - Twitter: <https://twitter.com/rosaly_lopes>
    - <https://en.wikipedia.org/wiki/Rosaly_Lopes>
-   - <https://scholar.google.com/citations?user=2ST5QooAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=2ST5QooAAAAJ&hl=en>
    - <https://science.jpl.nasa.gov/people/Lopes/>
    - **As a person:**
       1. …

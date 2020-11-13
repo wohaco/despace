@@ -1,12 +1,11 @@
 # Bruzzone, Lorenzo
-> 2019.10.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Trento Univ., IT. Professor & Head of the Remote Sensing Laboratory (since 1999)*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1970  / …|
+|Contact|<lorenzo.bruzzone@ing.unitn.it>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<lorenzo.bruzzone@ing.unitn.it>|
-|B‑day, addr.|<mark>nodate</mark> 1970 ? / …|
 ||[![](f/contact/b/bruzzone1_photo_thumb.jpg)](f/contact/b/bruzzone1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PostDoc, Remote Sensing & Signal Processing, University of Genoa, Italy, 1999. PhD, Telecommunication Engineering, University of Genoa, Italy, 1998. BS, Electronic Engineering, 1993.
@@ -20,7 +19,7 @@
    - LinkedIn: <https://www.linkedin.com/in/lorenzo-bruzzone-043636/>
    - Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Lorenzo_Bruzzone2>
-   - <https://scholar.google.com/citations?user=ff9-TK4AAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=ff9-TK4AAAAJ&hl=en>
    - <https://rslab.disi.unitn.it/people/#LorenzoBruzzone>
    - <https://dblp.uni-trier.de/pers/hd/b/Bruzzone:Lorenzo>
    - **As a person:**

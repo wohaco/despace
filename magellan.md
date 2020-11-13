@@ -1,5 +1,5 @@
 # Magellan
-> 2019.12.22 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.12.22 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -31,7 +31,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 |Comms|3.7 m HGA (Voyager) and a medium‑gain antenna (Mariner 9)<br> S‑band — receiving data<br> X‑band — transmission|
 |Composition|Orbiter|
 |Contractor|…|
-|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1989-033B ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-033B), SCN: [19969 ⎆](http://www.n2yo.com/satellite/?s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?s=19969)|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1989-033B ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-033B), SCN: [19969 ⎆](http://www.n2yo.com/satellite/?:s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?:s=19969)|
 |Manufacturer|Martin Marietta<br> Hughes Aircraft|
 |Mass|Dry 1 035 kg ([large satellite](sc.md))|
 |Orbit / Site|The initial orbit (after the corrections): Cytherocentric 297 x 8 463 km, T = 3.25 h, i = 85.5°|
@@ -57,7 +57,7 @@ Achieved targets & investigations:
 |EVN‑021||Surface: map, 3D.||D|C||||
 |EVN‑022||Surface: map, precise.||D|||||
 |EVN‑025||Surface: structure.|||C||||
-|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑029||Is Venus geologically active?:||D|C|F|||
 |EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
 |EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|||C||||
 |EVN‑045||Surface: nature of the tessera|||D||||
@@ -81,7 +81,7 @@ Beginning in the late 1970s, scientists pushed for a radar mapping mission to Ve
 
 A simplified radar mission proposal was recommended by the Solar System Exploration Committee, and this one was submitted and accepted as the Venus Radar Mapper program in 1983. The proposal included a limited focus and a single primary scientific instrument. In 1985, the mission was renamed Magellan, in honor of the sixteenth-century Portuguese explorer Ferdinand Magellan, known for his exploration, mapping, and circumnavigation of the Earth.
 
-Magellan was launched on May 4, 1989, at 18:46:59 UTC by the National Aeronautics and Space Administration from KSC Launch Complex 39B at the Kennedy Space Center in Florida, aboard Space Shuttle Atlantis during mission STS-30. Once in orbit, the Magellan and its attached Inertial Upper Stage booster were deployed from Atlantis and launched on May 5, 1989 01:06:00 UTC, sending the spacecraft into a Type IV heliocentric orbit where it would circle the Sun 1.5 times, before reaching Venus 15 months later on August 10, 1990.
+Magellan was launched on May 4, 1989, at 18:46:59 UTC by the National Aeronautics and Space Administration from KSC Launch Complex 39B at the Kennedy Space Center in Florida, aboard Space Shuttle Atlantis during mission STS-30. Once in orbit, the Magellan and its attached Inertial Upper Stage booster were deployed from Atlantis and launched on May 5, 1989 01:06:00 UTC, sending the spacecraft into a Type IV heliocentric orbit where it would circle the Sun 1.5 times, before reaching Venus 15 months later on August 10, 1990.
 
 **Orbital encounter of Venus**
 
@@ -270,7 +270,7 @@ The computing system on the spacecraft, partially modified equipment from the Ga
 <p style="page-break-after:always"> </p>
 
 ## Docs & links
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

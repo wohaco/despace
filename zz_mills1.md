@@ -1,12 +1,11 @@
 # Mills, Franklin
-> 2019.07.11 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.11 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ANU](zz_anu.md), AU. Senior Fellow.*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +612(61)250-116 & +612(61)255-015; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<frank.mills@anu.edu.au>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<frank.mills@anu.edu.au>, *раб.:* +612(61)250-116 & +612(61)255-015; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/m/mills1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD (Planetary science), MS (Physics) (Caltech), BSE (Mechanical & Aerospace Engineering) (Princeton Univ.).

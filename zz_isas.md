@@ -1,11 +1,9 @@
 # ISAS
-> 2019.01.28 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.01.28 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/isas_logo1_thumb.jpg)](f/contact/i/isas_logo1.png)|*3 Chome-1-1 Yoshinodai, Chuo Ward, Sagamihara, Kanagawa 252-5210, JP.*|
+|[![](f/contact/i/isas_logo1_thumb.jpg)](f/contact/i/isas_logo1.png)|<mark>noemail</mark>, +81(42)751-39-11, Fax: …;<br> *3 Chome-1-1 Yoshinodai, Chuo Ward, Sagamihara, Kanagawa 252-5210, JP.*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.isas.jaxa.jp/><br> <https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science>|
-|Tel|+81(42)751-39-11, ℻: …|
 
 **Institute of Space & Astronautical Science** (ISAS, 宇宙科学研究所, Uchū kagaku kenkyūjo) is a Japanese national research organization of astrophysics using [rockets](lv.md), [astronomical satellites & interplanetary probes](sc.md) which played a major role in Japan’s space development. The missions of ISAS aim to push ahead academic researchers through the planning, development, flying experiments, operations & result production of unique & excellent space science missions consistently with the cooperation from universities, Japan’s & foreign space institutes with the use of satellites, probes, sounding rocket, scientific balloons & the international space station.
 
@@ -25,7 +23,6 @@ In 2003, 3 national aerospace organizations (incl. ISAS) were merged to form [Ja
 
 <p style="page-break-after:always"> </p>
 
-## ISAS, comments
 [Papercraft ⎆](http://www.isas.jaxa.jp/en/gallery/papercrafts/).
 
 ISAS comprises 5 research departments, the Management & Integration Department, the ISAS Program Office, the Systems Engineering Office, the Safety & Mission Assurance Officer, the Center for Science Satellite Operation & Data Archive as well as 11 projects, 5 groups & the Noshiro Rocket Testing Center. The deputy Director General, the Research Director, the Program Director of Space Science, the Senior Chief Officer of Space Science & Disciplinary Engineering, the Director of International Affairs, & the Director of Public Relations are assigned under the Director General.

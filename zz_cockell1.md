@@ -1,12 +1,11 @@
 # Cockell, Charles Seaton
-> 2019.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Edinburgh Univ.](zz_edinburgh_univ.md), EU. Chair of Astrobiology. Professor of Astrobiology*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +44(131)650-29-61; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<c.s.cockell@ed.ac.uk>|
 |B‑day, addr.|1967.05.21 / …|
+|Contact|<c.s.cockell@ed.ac.uk>, *раб.:* +44(131)650-29-61; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/c/cockell1_photo_thumb.jpg)](f/contact/c/cockell1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Molecular Biophysics, Oxford Univ., 1994.

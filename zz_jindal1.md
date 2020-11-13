@@ -1,12 +1,11 @@
 # Jindal, Abhinav
-> 2019.07.10 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.10 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Cornell Univ.](cornell_univ.md), US. Astronomy & Space Sciences. Graduate Teaching Assistant*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +1(607)261-21-67|
-|E‑mail|<asj59@cornell.edu>|
 |B‑day, addr.|1994.10.12 (Мумбаи, Индия) / Итака, Нью‑Йорк, США|
+|Contact|<asj59@cornell.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +1(607)261-21-67|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/j/jindal1_photo_thumb.jpg)](f/contact/j/jindal1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrophysics, Cornell Univ., USA. B.Tech., Engineering Physics, Indian Institute of Technology, 2012-2016.

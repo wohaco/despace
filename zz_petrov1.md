@@ -1,12 +1,11 @@
 # Петров, Максим Евгеньевич
-> 2020.04.23 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.04.23 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*НПО им. С.А. Лавочкина.*|
 |:--|:--|
-|i18n|Petrov, Maksim Evgenievich|
-|Телефон|*раб.:* <mark>noworkphone</mark>; *mobile:* +7(999)989-84-62|
-|E‑mail|<imax.petrov@yandex.ru>|
 |Д.р., адрес|23.03.1995 / Москва, Конаковский проезд 12к1, 163|
+|i18n|Petrov, Maksim Evgenievich|
+|Contact|<imax.petrov@yandex.ru>, *раб.:* <mark>noworkphone</mark>; *mobile:* +7(999)989-84-62|
 ||[![](f/contact/p/petrov1_photo_thumb.jpg)](f/contact/p/petrov1_photo.jpg) [![](f/contact/p/petrov1_sign_thumb.jpg)](f/contact/p/petrov1_sign.png)|
 
    - **[Education](образование.md):** Московский авиационный институт (МАИ)

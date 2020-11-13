@@ -1,12 +1,11 @@
 # Коваленко, Ирина Дмитриевна
-> 2019.11.04 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.04 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Department of Space Flight Dynamics and Data Analysis. Научный сотрудник*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1988  / …|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mark>noemail</mark>|
-|B‑day, addr.|<mark>nodate</mark> 1988 ? / …|
 ||[![](f/contact/k/kovalenko1_photo_thumb.jpg)](f/contact/k/kovalenko1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Astronomy and Astrophysics, Paris Observatory, 2013 ‑ 2016. My PhD thesis implied two themes of research: Markov chain Monte Carlo algorithms in Celestial Mechanics and Physical parameters of Trans-Neptunian Binary Objects. Master 2 (M2), Gravitational Systems Dynamics, Observatoire de Paris, 2012 ‑ 2013. Engineering degree, Aerospace Engineering, Bauman Moscow State Technical University, 2006 ‑ 2012.

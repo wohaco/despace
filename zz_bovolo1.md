@@ -1,12 +1,11 @@
 # Bovolo, Francesca
-> 2019.10.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Fondazione Bruno Kessler (FBK-irst), IT. Unit head (since 2013)*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1980  / …|
+|Contact|<bovolo@fbk.eu>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<bovolo@fbk.eu>|
-|B‑day, addr.|<mark>nodate</mark> 1980 ? / …|
 ||[![](f/contact/b/bovolo1_photo_thumb.jpg)](f/contact/b/bovolo1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Trento Univ., Italy, Information & Communication Techologies, 2006. MS, Trento Univ., Italy, Communication Engineering, 2003. BS (summa cum laude), Trento Univ., Italy, Communication Engineering, 2001.

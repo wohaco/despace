@@ -1,12 +1,11 @@
 # Эйсмонт, Натан Андреевич
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +7(916)628-61-39|
-|E‑mail|<neismont@iki.rssi.ru>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<neismont@iki.rssi.ru>, *раб.:* <mark>noworkphone</mark>; *mobile:* +7(916)628-61-39|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/e/eismont1_animated.gif) <mark>nosign</mark>|
 
    - Natan Eismont. 

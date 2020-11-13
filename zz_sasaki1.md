@@ -1,12 +1,11 @@
 # Sasaki, Satoshi
-> 2019.07.10 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.10 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Bionics/Analytical Chemistry*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
-|E‑mail|<sasaki@stf.teu.ac.jp>|
+|Contact|<sasaki@stf.teu.ac.jp>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||![](f/contact/s/sasaki1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
@@ -19,7 +18,7 @@
    - Instagram: <mark>noin</mark>
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
-   - <https://www.teu.ac.jp/grad/english/teacher/bs_spc/index.html?id=14>
+   - <https://www.teu.ac.jp/grad/english/teacher/bs_spc/index.html?:id=14>
    - <http://www2.teu.ac.jp/sasaki/>
    - <https://www.researchgate.net/scientific-contributions/2049714356_Satoshi_Sasaki>
    - **As a person:**

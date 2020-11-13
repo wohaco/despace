@@ -1,12 +1,11 @@
 # Cutts, James Alfred
-> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Solar System Exploration Directorate, Program Manager*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1945  / Pasadena, California, USA|
+|Contact|<James.A.Cutts@jpl.nasa.gov>, *раб.:* +1(818)354-41-20; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(818)354-41-20; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<James.A.Cutts@jpl.nasa.gov>|
-|B‑day, addr.|<mark>nodate</mark> 1945 ? / Pasadena, California, USA|
 ||[![](f/contact/c/cutts1_photo_thumb.jpg)](f/contact/c/cutts1_photo.jpg) [![](f/contact/c/cutts1_sign_thumb.jpg)](f/contact/c/cutts1_sign.png)|
 
    - **[Education](edu.md):** MS (Geophysics) & PhD, Caltech, 1972, Planetary Science. BA in Physics from Cambridge University.

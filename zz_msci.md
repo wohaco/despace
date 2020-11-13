@@ -1,18 +1,14 @@
 # MSCI
-> 2019.08.27 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.27 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/msci_logo1_thumb.jpg)](f/contact/m/msci_logo1.png)|*6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*|
+|[![](f/contact/m/msci_logo1_thumb.jpg)](f/contact/m/msci_logo1.png)|<mark>noemail</mark>, +1(905)364-03-88, Fax: +1(905)364-03-89;<br> *6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.mscinc.ca/>|
-|Tel|+1(905)364-03-88, ℻: +1(905)364-03-89|
 
 **Microsat Systems Canada Inc. (MSCI)** is a privately held Canadian corporation applying dynamics & control technology in the space market for reaction wheels, rate measurement units & complete microsatellites. Formerly the space division of Dynacon Inc., MSCI has been the premiere builder of microsats in Canada for over a decade.
 
 
 <p style="page-break-after:always"> </p>
-
-## MSCI, comments
 
 Our reputation for excellence in solving the most difficult of control systems challenges, & in providing innovative systems thinking, is well established. MSCI was selected as prime contractor for the MOST microsatellite by the Canadian Space Agency. This innovative space telescope was successfully launched on June 30, 2003. MSCI was also selected as prime contractor for the NEOSSat microsatellite, now in production. The MSCI microsatellite design was chosen by the [CSA](zz_csa.md) as the baseline design for their Multi Mission Microsatellite Bus (MMMB).
 

@@ -1,12 +1,11 @@
 # Ghail, Richard
-> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Imperial College London / Royal Holloway, University of London, UK. Department of Earth Sciences. Reader*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1970  / …|
+|Contact|<Richard.Ghail@rhul.ac.uk>, *work:* +44(1784)27-67-66; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +44(1784)27-67-66; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<Richard.Ghail@rhul.ac.uk>|
-|B‑day, addr.|<mark>nodate</mark> 1970 ? / …|
 ||[![](f/contact/g/ghail1_photo_thumb.jpg)](f/contact/g/ghail1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …

@@ -1,15 +1,13 @@
-# Луна
-> 2019.03.21 **[🚀](../index/index.md) [despace](index.md)** → [Space](index.md), **[Moon](moon.md)**
+# Moon
+> 2019.03.21 [🚀](../index/index.md) [despace](index.md) → [Moon](moon.md), [Space](index.md)
 
 [TOC]
 
 ---
 
-> <small>*Термины:* **Луна** — русскоязычный термин. **Moon** — англоязычный эквивалент.</small>
+> <small>*Terms:* **Moon** — English term. **Луна** — Russian equivalent.</small>
 
-**Луна́** (астр. ☾ [ ❐](f/aob/moon/moon_symbol_svg.png), лат. *Luna*) — естественный спутник [Земли](earth.md). Самый близкий к [Солнцу](sun.md) спутник планеты, так как у ближайших к Солнцу планет, [Меркурия](mercury.md) и [Венеры](venus.md), спутников нет. Второй по яркости объект на земном небосводе после Солнца и пятый по величине естественный спутник планеты [Солнечной системы](солнечная_система.md). Среднее расстояние между центрами Земли и Луны — 384 467 км (~30 диаметров Земли).  
-Имеет огромные запасы [гелия‑3](helium3.md).  
-Символы Луны: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
+**Луна́** (астр. ☾ [ ❐](f/aob/moon/moon_symbol_svg.png), лат. *Luna*) — естественный спутник [Земли](earth.md). Самый близкий к [Солнцу](sun.md) спутник планеты, так как у ближайших к Солнцу планет, [Меркурия](mercury.md) и [Венеры](venus.md), спутников нет. Второй по яркости объект на земном небосводе после Солнца и пятый по величине естественный спутник планеты [Солнечной системы](солнечная_система.md). Среднее расстояние между центрами Земли и Луны — 384 467 km (~30 диаметров Земли). Имеет огромные запасы [гелия‑3](helium3.md). Символы Луны: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
 
 |*Луна*|*Луна*|*Луна*|*Карта*|
 |:--|:--|:--|:--|
@@ -17,56 +15,50 @@
 
 
 
-## Характеристики
+## Description & Characteristics
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
-|Flight from Earth|4.5 ‑ 5.5 суток на ЖРДУ|
-|Signal from Earth|1.17 ‑ 1.36 секунды|
-|Distance from Earth|356 ‑ 407 тыс. км|
-|Breaking to the orbit||
+|Breaking to the orbit|…|
+|Distance from Earth|356 000 ‑ 407 000 km|
+|Flight from Earth|4.5 ‑ 5.5 days w/ [LPS](ps.md)|
+|Signal from Earth|1.17 ‑ 1.36 s|
+|Velocity from Earth|… km/s|
 |**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Апогей);<br> [Pericentre](apopericentre.md) (Перигей)|405 696 км (404 000 ‑ 406 700 км);<br> 363 104 км (356 400 ‑ 370 400 км)|
-|[Argument of periapsis](keplerian.md) (ω)|(возрастание) 1 оборот за 8.85 лет|
-|[Semimajor axis](keplerian.md) (a)|384 399 км (0.00257 [а.е.](si.md))|
-|Day/year|14 сут 18 ч / … земных|
-|[Longit. of asc.node](keplerian.md) (Ω)|(убывание) 1 оборот за 18.6 лет|
-|[Inclination](keplerian.md) (Ⅰ)|5.145° (относительно эклиптики)|
-|Orbital velocity (Ⅴ)|1.023 km/s (средняя)|
-|[Sider. rotat.period](astroperiod.md) (T, day)|27.321661 дня, синхронизирован<br> (всегда повёрнута к Земле одной стороной)|
-|[Sidereal period](astroperiod.md) (year)|27.321582 дней (27 д 7 ч 43 мин 1 с)|
-|[Synodic period](astroperiod.md)|29.530588 дней (29 д 12 ч 44 мин 0 с)|
-|Satellites|нет|
-|[Hill sphere](hill_sphere.md)|66 000|
-|Satellite of|[Земля](earth.md)|
-|[Eccentricity](keplerian.md) (e)|0.0549 (средний)|
+|[Apocentre](apopericentre.md) (Apogee);<br> [Pericentre](apopericentre.md) (Perigee)|405 696 km (404 000 ‑ 406 700 km);<br> 363 104 km (356 400 ‑ 370 400 km)|
+|[Argument of periapsis](keplerian.md) (ω)|Progressing by one revolution in 8.85 years|
+|Day/year|14 d 18 h / … Earth’s|
+|[Eccentricity](keplerian.md) (e)|0.0549 (average)|
+|[Hill sphere](hill_sphere.md)|66 000 km|
+|[Inclination](keplerian.md) (Ⅰ)|5.145° (to ecliptic)|
+|[Longit. of asc.node](keplerian.md) (Ω)|Regressing by one revolution in 18.61 years|
+|Orbital velocity (Ⅴ)|1.023 km/s (average)|
+|Satellite of|[Earth](earth.md)|
+|Satellites|none|
+|[Semimajor axis](keplerian.md) (a)|384 399 km (0.00257 [au](si.md))|
+|[Sider. rotat.period](astroperiod.md) (T, day)|27.321661 days (synced w/ Earth)|
+|[Sidereal period](astroperiod.md) (year)|27.321582 days (27 d 7 h 43 min 1 s)|
+|[Synodic period](astroperiod.md)|29.530588 days (29 d 12 h 44 min 0 s)|
 |**Physics:**|• • •|
-|[1st escape velocity](esc_vel.md) (v₁)|1.68 km/s <small>(0.212 земной)</small>|
-|[2nd escape velocity](esc_vel.md) (v₂)|2.38 km/s <small>(0.212 земной)</small>|
+|[1st escape velocity](esc_vel.md) (v₁)|1.68 km/s (0.212 Earth’s)|
+|[2nd escape velocity](esc_vel.md) (v₂)|2.38 km/s (0.212 Earth’s)|
 |[Albedo](albedo.md)|0.12|
-|[Apparent magnitude](app_mag.md) (m)|−2.5/−12.9 (−12.74 при полной Луне)|
-|[Magnetic field](mag_field.md)|0.02785 А/м <small>(0.0007 земного)</small>|
-|Mass (m)|7.3477·10²² кг <small>(0.0123 земной)</small>|
-|Axial tilt|1.5424° (относительно плоскости эклиптики)|
-|Volume (Ⅴ)|2.1958·10¹⁰ km³ <small>(0.020 земного)</small>|
-|Mean density (ρ)|3.3464 г/cm³ (средняя, <small>0.607 земной</small>)|
-|Surface area (S)|3.793·10⁷ km² <small>(0.074 земной, 2.2 РФ)</small>|
-|Flattening|0.00125 <small>(0.372 земного)</small>|
-|Radius|1 738.14 км (экватор., <small>0.273 земного</small>);<br> 1 735.97 км (полярный, <small>0.273 земного</small>);<br> 1 737.10 км (средний, <small>0.273 земного</small>)|
-|[Surface gravity](g.md)|1.62 m/s² (экватор, <small>0.165 земного</small>)|
-|Equatorial rotation velocity|16.657 км/ч <small>(0.0099 земной)</small>|
+|[Apparent magnitude](app_mag.md) (m)|−2.5/−12.9 (−12.74 full Moon)|
+|Axial tilt|1.5424° (to ecliptic)|
+|Equatorial rotation velocity|16.657 km/h (0.0099 Earth’s)|
+|Flattening|0.00125 (0.372 Earth’s)|
+|[Magnetic field](mag_field.md)|0.02785 A/m (0.0007 Earth’s)|
+|Mass (m)|7.3477·10²² kg (0.0123 Earth’s)|
+|Mean density (ρ)|3.3464 g/cm³ (average, 0.607 Earth’s)|
+|Radius|1 738.14 km (equator, 0.273 Earth’s);<br> 1 735.97 km (polar, 0.273 Earth’s);<br> 1 737.10 km (average, 0.273 Earth’s)|
+|Solar constant|1 360 W/m², 1 321 ‑ 1 412 W/m² (1.0 Earth’s)|
+|Surface area (S)|3.793·10⁷ km² (0.074 Earth’s, 2.2 RU)|
+|[Surface gravity](g.md)|1.62 m/s² (equator, 0.165 Earth’s)|
+|Volume (Ⅴ)|2.1958·10¹⁰ km³ (0.020 Earth’s)|
 |**Temperature & atmosph.:**|• • •|
-|[Атмосфера](atmosphere.md)|крайне разрежена,<br> имеются следы водорода, гелия, неона и аргона.|
-|[Освещённость](illum.md)||
-|Радиация||
-|Температура|Мин. 100 К (−173 ℃);<br> Ср. 220 К (−53 ℃);<br> Макс. 390 К (+117 ℃);<br> на экваторе Мин. 33 К (−240 ℃);<br> на экваторе Ср. 130 К (−143 ℃);<br> на экваторе Макс. 230 К (−43 ℃)|
-
-
-
----
-
-<p style="page-break-after:always"> </p>
-
-## Общее описание
+|[Atmosphere](atmosphere.md)|**Composition:** He, Ar, Ne, Na, K, H, Rn.<br> **Density:** 1.2·10⁻¹³ kg/m³ (10⁻¹³ Earth’s).<br> **Pressure:** 10⁻⁷ Pa (1 picobar, day), 10⁻¹⁰ Pa (1 femtobar, night).<br> **Winds:** none.|
+|[Illumination](illum.md)|200 (5.5°) ‑ 3 000 (90°) lx (surface, 0.2 Earth’s)|
+|[Radiation](ion_rad.md)|1 369×10⁻⁶ Sv / 24 h (surface, 285 Earth’s)|
+|Temperature|Min. 100 K (−173 ℃);<br> Aver. 220 K (−53 ℃);<br> Max. 390 K (+117 ℃);<br> equator Min. 33 K (−240 ℃);<br> equator Aver. 130 K (−143 ℃);<br> equator Max. 230 K (−43 ℃)|
 
 ![](f/aob/moon/lunar_earth_signal.gif)  
 *Радиосигнал от Земли до Луны.*
@@ -76,12 +68,40 @@
 
 
 
-### Маскон
+### Atmosphere & climate
+
+
+
+### Magnetic field & core
+
+
+
+### Surface
+
+<https://www.lpi.usra.edu/resources/mapcatalog/>
+
+
+
+### Developing features
+**Литература:**
+
+   1. …
+
+**Орбитальный КА:**
+
+   1. Не забывайте про масконы.
+
+**Посадочный КА:**
+
+   1. Не забывайте про масконы.
+
 **Маскон** (от англ. *mass concentration* — «концентрация массы») — регион литосферы планеты или естественного спутника, вызывающий положительные гравитационные аномалии. Масконы были обнаружены и локализованы по возмущениям в движениях искусственных спутников Луны. Чаще всего масконы расположены под лунными морями, имеющими округлую форму.
 
 ![](f/aob/moon/moon_mascon-lp150q_grav_150.png)
 
-### Лунный заяц
+
+
+### Moon rabbit
 ![](f/aob/moon/moon_rabbit_in_the_moon_standing_by_pot.png)
 
 **Лунный заяц** — в фольклоре разных народов мира заяц или кролик, обитающий на Луне. Это представление возникло в силу парейдолической зрительной иллюзии — тёмные пятна на поверхности Луны воспринимались в виде фигуры зайца или кролика.
@@ -98,40 +118,27 @@
 
 
 
-## Особенности проектирования
-**Литература:**
+## Moon exploration
 
-   1. …
-
-**Орбитальный КА:**
-
-   1. Не забывайте про масконы.
-
-**Посадочный КА:**
-
-   1. Не забывайте про масконы.
-
-
-
-## Освоение Луны
-
-### Зачем исследовать
+### What for?
 <mark>TBD</mark>
 
 
 
-<p style="page-break-after:always"> </p>
-
-### Краткая хронология
+### Timeline
 <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
 
 <mark>TBD</mark>
 
 
 
+### Communities & persons
+
+
+
 <p style="page-break-after:always"> </p>
 
-### Проекты
+### Projects
 См. также раздел «[Проекты](project.md)».
 
 **Гипотетические и исторические:**
@@ -234,15 +241,15 @@
 <p style="page-break-after:always"> </p>
 
 ## Science & tech targets
-Just a preliminary list of the targets and explorations for the Venus. Based on the investigations of VEXAG (<https://www.lpi.usra.edu/vexag/>), Venera-D mission work-group (LAV, IKI RAS, NASA, etc.) and anyone who can.
+Just a preliminary list of the targets and explorations for the Moon.
 
-The main idea is to prepare a brief (sic!) systematized list of the Venusian targets and explorations of the retired/active/proposed spacecraft suitable both for scientists, and engineers, and managers, and passers by. The one which is able in the same time to tell about what was done and in what volume, what is processing now and why it’s cool, what is proposed and why it’s so important. Something like a bridge between scientists and other humanity just to show that all of these complex scientific terms can be described with some statistic terms without need to read a lot of literature or trust their words.
+The main idea is to prepare a brief (sic!) systematized list of the Lunar targets and explorations of the retired/active/proposed spacecraft suitable both for scientists, and engineers, and managers, and passers‑by. The one which is able in the same time to tell about what was done and in what volume, what is processing now and why it’s cool, what is proposed and why it’s so important. Something like a bridge between scientists and other humanity just to show that all of these complex scientific terms can be described with some statistic terms without need to read a lot of literature or trust their words.
 
 Soon there will be something new, for example, links between targets/explorations, spacecraft, and a couple of brief description of the current state of each one.
 
 
 
-### Intro
+### What was & what will be
 Comments:
 
    - **T** — technical; **Draft** — minimum for working with object. **C** — contact exploration; **D** — distant exploration; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
@@ -251,7 +258,7 @@ Comments:
       - General — **Gi** planet’s interactions with outer space.
       - Soil/surface — **Sc** composition, **Si** imaging, **Sm** mapping, **Ss** samples.
 
-In brief — 97 targets in total (33 technical, 64 scientific) consisting of: <mark>TBD</mark> never occured (<mark>TBD</mark> technical, <mark>TBD</mark> scientific), <mark>TBD</mark> was tried (<mark>TBD</mark> technical, <mark>TBD</mark> scientific), <mark>TBD</mark> mostly done (<mark>TBD</mark> technical, <mark>TBD</mark> scientific).
+In brief — 97 targets in total (33 technical, 64 scientific) consisting of: <mark>TBD</mark> never occurred (<mark>TBD</mark> technical, <mark>TBD</mark> scientific), <mark>TBD</mark> was tried (<mark>TBD</mark> technical, <mark>TBD</mark> scientific), <mark>TBD</mark> mostly done (<mark>TBD</mark> technical, <mark>TBD</mark> scientific).
 
 <small>
 
@@ -337,7 +344,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑070|T|Exploration with [satellites](sc.md): minisatellites|||D|F|||
 |EMN‑042||History & causes of the planet’s volcanic & tectonic evolution|||D||||
 |EMN‑020||Inner structure of the planet|||D||||
-|EMN‑029||Is Venus geologically active?||C|D|F|||
+|EMN‑029||Is Venus geologically active?:||C|D|F|||
 |EMN‑028||Magnetosphere structure|||D|F|||
 |EMN‑089||Measuring the planetary gravitational field|||D|F|||
 |EMN‑074||Meteorological model|||D|F|||
@@ -373,17 +380,16 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 <p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
-|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](blue_marble.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_sys.md) ┊ [Pale Blue Dot](pale_blue_dot.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](point_nemo.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
+|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](earth.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_space.md) ┊ [Pale Blue Dot](earth.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](earth.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 
    1. Docs:
       - [Модели грунта ❐](f/aob/moon/moon_soil_model.7z)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Astronomical_symbols>
-   1. <http://ru.wikipedia.org/wiki/Луна>
    1. <https://en.wikipedia.org/wiki/Moon>
    1. <http://ru.wikipedia.org/wiki/Маскон>
    1. <http://ru.wikipedia.org/wiki/Список_прилунений>
@@ -393,4 +399,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
    1. <http://dsastro.ru/2018/02/01/moon_map/>
    1. <http://clrn.uwo.ca/>
    1. <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
-
+   1. <http://www.astronet.ru/db/msg/1180522/index.html>
+   1. <http://luna26.cosmos.ru/>
+   1. <https://www.lpi.usra.edu/resources/mapcatalog/> — Moon maps
+   1. <https://www.lpi.usra.edu/expmoon/> — LPI, exploring the Moon

@@ -1,12 +1,11 @@
 # Patel, Manish
-> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Open Univ.](zz_open_univ.md), EU. Faculty of Science, Technology, Engineering & Mathematics School of Physical Sciences. Senior Lecturer*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
-|E‑mail|<manish.patel@open.ac.uk>|
+|Contact|<manish.patel@open.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/p/patel1_photo_thumb.jpg)](f/contact/p/patel1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

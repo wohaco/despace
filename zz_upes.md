@@ -1,18 +1,14 @@
 # UPES
-> 2019.08.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/u/upes_logo1_thumb.png)](f/contact/u/upes_logo1.png)|*Bidholi, Via Prem Nagar, Dehradun, Uttarakhand, India*|
+|[![](f/contact/u/upes_logo1_thumb.png)](f/contact/u/upes_logo1.png)|<mark>noemail</mark>, +91(1800)102-87-37, Fax: …;<br> *Bidholi, Via Prem Nagar, Dehradun, Uttarakhand, India*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://www.upes.ac.in/><br> <https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies>|
-|Tel|+91(1800)102-87-37, ℻: …|
 
 The **University of Petroleum & Energy Studies (UPES)** is an Indian university located in Dehradun, Uttarakhand specialising in fields of petroleum, energy & power. Established in 2003, it has been expanding its business & legal studies.
 
 
 <p style="page-break-after:always"> </p>
-
-## UPES, comments
 
 UPES has five schools & centres for continuing education.
 

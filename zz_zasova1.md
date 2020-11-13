@@ -1,12 +1,11 @@
 # Засова, Людмила Вениаминовна
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Заведующий лабораторией*|
 |:--|:--|
 |B‑day, addr.|1945.05.22 /|
-|E‑mail|<lzasova@gmail.com>, <zasova@iki.rssi.ru>|
+|Contact|<lzasova@gmail.com>, <zasova@iki.rssi.ru>, *раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92|
 ||![](f/contact/z/zasova1_animated.gif) [![](f/contact/z/zasova1_sign_thumb.jpg)](f/contact/z/zasova1_sign.png)|
 
    - **[Education](edu.md):** …
@@ -15,7 +14,7 @@
    - **SC/Equip.:** …
    - **Conferences:** 2019 [MSSS 10](msss_10.md), 2019 [VD Workshop 2019](vdws2019.md)
    - Git: …
-   - Facebook: <https://www.facebook.com/profile.php?id=100008186858321>
+   - Facebook: <https://www.facebook.com/profile.php?:id=100008186858321>
    - Instagram: <mark>noin</mark>
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>

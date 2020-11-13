@@ -1,12 +1,11 @@
 # Комаров, Александр Юрьевич
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*НПОЛ, RU. 140 / 522, 202 «Дирекция по Лунной программе». Главный конструктор проекта [Луна‑Ресурс‑1](луна_27.md) (ПА)*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* 41-34; *mobile:* +7(916)240-43-88|
-|E‑mail|<komarov@laspace.ru>|
 |B‑day, addr.|1977.01.20, на НПОЛ с 2002 / …|
+|Contact|<komarov@laspace.ru>, *work:* 41-34; *mobile:* +7(916)240-43-88|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/k/komarov1_photo_thumb.jpg)](f/contact/k/komarov1_photo.jpg) [![](f/contact/k/komarov1_sign_thumb.jpg)](f/contact/k/komarov1_sign.png)|
 
    - **[Education](edu.md):** …

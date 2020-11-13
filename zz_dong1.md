@@ -1,12 +1,11 @@
 # Dong, Chuanfei
-> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Princeton Univ.](princeton_univ.md), US. Astrophysical Sciences, Associate Research Scholar (2018)*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +1(404)824-39-66; *skype* — scfyln|
-|E‑mail|<dcfy@princeton.edu>|
 |B‑day, addr.|1984.04.30 (Китай) / Princeton, USA|
+|Contact|<dcfy@princeton.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +1(404)824-39-66; *skype* — scfyln|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/d/dong1_photo_thumb.jpg)](f/contact/d/dong1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Space & planetary sciences & scientific computing, University of Michigan USA, 2015 / MS, Nuclear Engineering & Radiological Sciences, University of Michigan, 2014 / MS, Space & Planetary Sciences, University of Michigan USA, 2012 / MS, Earth & Atmospheric Sciences, Georgia Institute of Technology USA, 2010 / BS, Geophysics (Space Physics), Physics (Theoretical Physics), & Math (Mathematical Physics), University of Science & Technology of China, 2009.

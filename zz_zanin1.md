@@ -1,12 +1,11 @@
 # Занин, Кирилл Анатольевич
-> 2019.12.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.12.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*НПОЛ, RU. Отдел 500, 127 / 501а. Ведущий научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|1973.09.07, на НПОЛ с 2001 / Химки|
-|E‑mail|<pc4a@laspace.ru>|
+|Contact|<pc4a@laspace.ru>, *work:* 36-03, 59-74, +7(495)575-59-74; *mobile:* +7(916)619-03-43|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* 36-03, 59-74, +7(495)575-59-74; *mobile:* +7(916)619-03-43|
 ||[![](f/contact/z/zanin1_photo_thumb.jpg)](f/contact/z/zanin1_photo.jpg) [![](f/contact/z/zanin1_sign_thumb.jpg)](f/contact/z/zanin1_sign.png)|
 
    - **[Education](edu.md):**  к.т.н. (2001). Окончил кафедру 604 МАИ (1997), аспирант МАИ (1998 ‑ 2001), ведущий математик на НПО Лавочкина (2001 ‑ 2006). Специалист в области системного анализа и динамики полёта ЛА.
@@ -15,11 +14,11 @@
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …
-   - Facebook: <https://www.facebook.com/profile.php?id=100006177181131>
+   - Facebook: <https://www.facebook.com/profile.php?:id=100006177181131>
    - Instagram: <https://instagram.com/123_1973>
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
-   - <https://mai.ru/content/people/index.php?ID=85932>
+   - <https://mai.ru/content/people/index.php?:ID=85932>
    - <https://sites.google.com/site/kaf604/prepodavateli-kafedry/zanin-k-a>
    - **As a person:**
       1. …

@@ -1,12 +1,11 @@
 # Smrekar, Suzanne
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Deputy [Principal Investigator](principal_investigator.md). Principal Scientist.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> (Rangeley, Maine, USA) / Sierra Madre, California, USA|
-|E‑mail|<mark>noemail</mark>|
+|Contact|<mark>noemail</mark>, *раб.:* +1(818)354-41-92, Fax: +1(818)393-50-59; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(818)354-41-92, ℻: +1(818)393-50-59; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/s/smrekar1_photo_thumb.jpg)](f/contact/s/smrekar1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in geophysics, Southern Methodist University, 1990. BS in geophysics & mathematics, Brown University, 1984.

@@ -1,12 +1,11 @@
 # Wielders, Arno
-> 2019.10.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU (NL). Payload engineer Future Missions*|
 |:--|:--|
-|B‑day, addr.|<mark>nodate</mark> 1972 ? / …|
-|E‑mail|<arno.wielders@esa.int>|
+|B‑day, addr.|<mark>nodate</mark> 1972 - … / …|
+|Contact|<arno.wielders@esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/w/wielders1_photo_thumb.jpg)](f/contact/w/wielders1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** TWAIO, Astronomical instruments, Leiden Univ., 2000. MS. Physics (astronomy), Amsterdam Free Univ., 1997.

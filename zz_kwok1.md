@@ -1,12 +1,11 @@
 # Kwok, John
-> 2019.10.06 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.06 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mission System Engineering. Section Manager*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1981  / …|
+|Contact|<Johnny.H.Kwok@jpl.nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<Johnny.H.Kwok@jpl.nasa.gov>|
-|B‑day, addr.|<mark>nodate</mark> 1981 ? / …|
 ||[![](f/contact/k/kwok1_photo_thumb.jpg)](f/contact/k/kwok1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** BS Electrical Engineering, California Univ. San Diego, Photonics, 2003.

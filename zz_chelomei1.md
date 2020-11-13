@@ -1,12 +1,11 @@
 # Челомей, Владимир Николаевич
-> 2019.11.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*ЦИАМ, ОКБ-51, SU.*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel||
-|E‑mail||
 |B‑day, addr.|1914.06.30 ‑ 1984.12.08 / …|
+|Contact|, |
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/c/chelomey1_photo_thumb.jpg)](f/contact/c/chelomey1_photo.jpg)|
 
    - **[Education](edu.md):** …

@@ -1,12 +1,11 @@
 # Mahapatra, Gourav
-> 2019.07.09 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[TU Delft](tu_delft.md), EU. Department of Space Exploration. PhD Candidate*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<G.Mahapatra@tudelft.nl>|
 |B‑day, addr.|<mark>nodate</mark> .08.22 / …|
+|Contact|<G.Mahapatra@tudelft.nl>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/m/mahapatra1_photo_thumb.jpg)](f/contact/m/mahapatra1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
@@ -19,7 +18,7 @@
    - Instagram: <https://instagram.com/singularity90>
    - LinkedIn: <https://nl.linkedin.com/in/gouravmahapatra>
    - Twitter: <https://twitter.com/gouravmahapatra>
-   - <https://scholar.google.co.uk/citations?user=by05KxwAAAAJ&hl=en>
+   - <https://scholar.google.co.uk/citations?:user=by05KxwAAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Gourav_Mahapatra>
    - <https://www.tudelft.nl/lr/organisatie/afdelingen/space-engineering/astrodynamics-and-space-missions/people/>
    - <https://angel.co/gourav-mahapatra>

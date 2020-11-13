@@ -1,5 +1,5 @@
 # Venus Express
-> 2019.11.01 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.11.01 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -30,7 +30,7 @@
 |Comms|2 high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas|
 |Composition|Orbiter|
 |Contractor|[EADS Astrium](zz_astrium.md)|
-|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [2005-045A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2005-045A), SCN: 28901|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [2005-045A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=2005-045A), SCN: 28901|
 |Manufacturer|[EADS Astrium](zz_astrium.md)|
 |Mass|Dry: 700 kg ([Medium satellite](sc.md), [EVN‑072](venus.md))|
 |Orbit / Site|Cytherocentric: 250 x 66 000 km; i = 90 °; T = 24 h|
@@ -58,7 +58,7 @@ Achieved targets & investigations:
 |EVN‑015||Atmosphere: structure of the mesosphere.|All A|D|||||
 |EVN‑020||Inner structure of the planet.||D|||||
 |EVN‑028||Magnetosphere structure.||D||F|||
-|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑029||Is Venus geologically active?:||D|C|F|||
 |EVN‑033||Atmosphere: nature/rate of its escape|||D||||
 |EVN‑034||Atmosphere: nature of the superrotation.||D|||||
 |EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
@@ -119,7 +119,7 @@ Images from the Venus Monitoring Camera and from  the VIRTIS instrument show tha
 
 The centre of rotation drifts right around the pole over a period of 5 ‑ 10 Earth days. Its average displacement from the South Pole is about three degrees of latitude, or several hundred kilometres ([EVN‑011](venus.md)).
 
-   2. **Recent volcanism?**
+   2. **Recent volcanism?:**
 
 Small-scale temperature variations on the planet’s surface are extremely difficult to measure. The VIRTIS instrument and the VMC have both contributed to the study of volcanism on Venus. These instruments can observe thermal emission from the surface at a wavelength of around 1 micron, where it is weakly absorbed by the planet’s atmosphere.
 
@@ -173,7 +173,7 @@ Using observations made with the SPICAV instrument, scientists were able to dete
 
 The ozone was detected by means of stellar occultations — analysing light from distant stars as it passed through different layers of the atmosphere. The method relies on the availability of stars in the line of sight, meaning that it yields an uneven coverage of the planet and is limited to the night side.
 
-Ozone is located at varying altitudes in the Venusian atmosphere, between 90 and 120 km ([EVN‑015](venus.md)), compared with 15-50 km on Earth, and is always confined to a rather thin layer, measuring 5 to 10 km across. The ozone layer on Venus is also very tenuous — up to 1000 times less dense than that on Earth.
+Ozone is located at varying altitudes in the Venusian atmosphere, between 90 and 120 km ([EVN‑015](venus.md)), compared with 15-50 km on Earth, and is always confined to a rather thin layer, measuring 5 to 10 km across. The ozone layer on Venus is also very tenuous — up to 1000 times less dense than that on Earth.
 
    7. **Water loss.**
 
@@ -222,19 +222,19 @@ Venus Express studied its complex dynamics and chemistry, and the interactions b
 
 In the most comprehensive study of the Venusian atmosphere ever, Venus Express had many open questions to tackle:
 
-   - How do the complex global dynamics of the planet work?
-      - What causes the super-fast atmospheric rotation and the hurricane-force winds?
-      - What maintains the double atmospheric vortex at the poles?
-   - How does the cloud system work?
-      - How do clouds and haze form and evolve at different altitudes?
-      - What is at the origin of mysterious ultraviolet marks at the clouds tops?
-   - What processes govern the chemical state of the atmosphere?
-   - What role does the “green-house effect” play in the global evolution of the Venusian climate?
-   - What governs the escape processes of the atmosphere?
-   - Are there water, carbon dioxide or sulphuric acid cycles on Venus?
-   - What caused the global volcanic resurfacing of Venus 500 million years ago?
-   - Why are some areas on the surface so reflective to radar?
-   - Is there present volcanic or seismic activity on the planet?
+   - How do the complex global dynamics of the planet work?:
+      - What causes the super-fast atmospheric rotation and the hurricane-force winds?:
+      - What maintains the double atmospheric vortex at the poles?:
+   - How does the cloud system work?:
+      - How do clouds and haze form and evolve at different altitudes?:
+      - What is at the origin of mysterious ultraviolet marks at the clouds tops?:
+   - What processes govern the chemical state of the atmosphere?:
+   - What role does the “green-house effect” play in the global evolution of the Venusian climate?:
+   - What governs the escape processes of the atmosphere?:
+   - Are there water, carbon dioxide or sulphuric acid cycles on Venus?:
+   - What caused the global volcanic resurfacing of Venus 500 million years ago?:
+   - Why are some areas on the surface so reflective to radar?:
+   - Is there present volcanic or seismic activity on the planet?:
 
 **Payload**
 
@@ -339,7 +339,7 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
 <p style="page-break-after:always"> </p>
 
 ## Docs & links
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|
@@ -351,4 +351,4 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
    1. <https://ru.wikipedia.org/wiki/Венера-экспресс>
    1. <https://sci.esa.int/web/venus-express>
    1. <http://www.esa.int/Science_Exploration/Space_Science/Venus_Express>
-   1. <https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2005-045A>
+   1. <https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=2005-045A>

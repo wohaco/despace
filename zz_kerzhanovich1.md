@@ -1,12 +1,11 @@
 # Kerzhanovich, Viktor Valentinovich
-> 2019.10.06 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.06 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mobility & Robotic Systems Section (347) of the Autonomous Systems Division (34). Principal Member of Technical Staff*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1940  / …|
+|Contact|<Viktor.V.Kerzhanovich@jpl.nasa.gov>, *work:* +1(818)354-90-75; факс: +1(818)393-50-07 *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +1(818)354-90-75; факс: +1(818)393-50-07 *mobile:* <mark>nomobile</mark>|
-|E‑mail|<Viktor.V.Kerzhanovich@jpl.nasa.gov>|
-|B‑day, addr.|<mark>nodate</mark> 1940 ? / …|
 ||[![](f/contact/k/kerzhanovich1_photo_thumb.jpg)](f/contact/k/kerzhanovich1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** Doctor of Sciences, Physics & Mathematics, Space Research Institute, Moscow, Russia. Candidate of Sciences & Doctor of Sciences, Physics, Space Research Institute of Russian Academy of Sciences. BS, Physics, Moscow State University, 1961.

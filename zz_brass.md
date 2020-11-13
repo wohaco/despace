@@ -1,11 +1,9 @@
 # BRASS
-> 2019.08.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/b/brass_logo1_thumb.jpg)](f/contact/b/brass_logo1.png)|*BR Aerospace Solutions & Services, P.O Box 36088,  Northgate P.O., Brampton, Ontario, L6S 6A3, Canada*|
+|[![](f/contact/b/brass_logo1_thumb.jpg)](f/contact/b/brass_logo1.png)|<info@br-aerospace.com>, +1(416)909-37-95, +1(437)223-22-55, Fax: …;<br> *BR Aerospace Solutions & Services, P.O Box 36088,  Northgate P.O., Brampton, Ontario, L6S 6A3, Canada*|
 |:--|:--|
-|E‑mail|<info@br-aerospace.com>|
 |Link|<https://www.br-aerospace.com/>|
-|Tel|+1(416)909-37-95, +1(437)223-22-55, ℻: …|
 
 **BR Aerospace Solutions & Services (BRASS)** is a global aerospace company principally engaged in the research, design, development, & sustainment of advanced technology systems in almost all areas of Aerospace sector viz. Robotics/UAV’s, satellite operations, space mission analysis, earth observation, climate change & so on. Founded in 2016 & Incorporated in 2018, headquartered in Ontario, Canada.  
 *Our Vision:* To provide innovative engineering solutions to the most complex challenges, delivering effective solutions for the betterment of mankind.  
@@ -13,8 +11,6 @@
 
 
 <p style="page-break-after:always"> </p>
-
-## BRASS, comments
 
 BRASS is organized to work around 6 business areas starting from ergonomics, design & size of Space Robotics & unmanned Aerial Vehicles for commercial & defense purposes, satellite operations & communication, space mission analysis & design, applications & data analysis for earth observation, research & solutions for climate change & research & development of advanced systems. What we do is:
 

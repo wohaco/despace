@@ -1,12 +1,11 @@
 # Stofan, Ellen Renee
-> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Smithsonian Institution, National Air & Space Museum, US. Director*|
 |:--|:--|
 |B‑day, addr.|1961.02.24 Oberlin, Ohio, US / Washington D.C. Metro Area|
-|E‑mail|<mark>noemail</mark>|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/s/stofan1_photo_thumb.jpg)](f/contact/s/stofan1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Brown University, Geological Sciences, 1983 ‑ 1989. BS, College of William & Mary, Geology, 1979 ‑ 1983. Activities & Societies: Phi Beta Kappa, Pi Beta Phi, Sigma Gamma Epsilon.

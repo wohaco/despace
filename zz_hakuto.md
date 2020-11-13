@@ -1,19 +1,15 @@
 # HAKUTO
-> 2020.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/h/hakuto_r_logo1_thumb.jpg)](f/contact/h/hakuto_r_logo1.png)|*2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
+|[![](f/contact/h/hakuto_r_logo1_thumb.jpg)](f/contact/h/hakuto_r_logo1.png)|<info@ispace-inc.com>, +81-3-6277-6451, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
 |:--|:--|
-|E‑mail|<info@ispace-inc.com>|
 |Link|<https://ispace-inc.com/team-hakuto/><br> <https://ispace-inc.com/hakuto-r/>|
-|Tel|+81-3-6277-6451, ℻: …|
 
 **HAKUTO** is a team comprising ispace, Tohoku University researchers and students, as well as pro bonos. Our diverse backgrounds include design, writing, programming, business, law, and engineering. We’ve gathered to bring our specialties together to take on the challenge of sending a rover to the [Moon](moon.md).
 
 **HAKUTO-R** is the Program Name for [ispace’s](zz_ispace.md) first two lunar missions  (Mission 1 & Mission 2). It is the world’s first commercial lunar exploration program. Mission 1 will perform a soft landing in 2021. Mission 2 will perform a soft landing & deploy a rover to explore the lunar surface in 2023. For both missions, ispace has secured launch contracts as secondary payloads on SpaceX’s [Falcon 9 rocket](falcon.md).
 
 <p style="page-break-after:always"> </p>
-
-## HAKUTO, comments
 
 “HAKUTO” means “white rabbit” in Japanese. In legendary folklore in Japan, it is said that a white rabbit lives on the Moon. This was the inspiration for the name HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition — a race for the first private lunar exploration mission.
 

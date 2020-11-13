@@ -1,12 +1,11 @@
 # Косов, Александр Сергеевич (ИКИ)
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел 61. Заведующий лабораторией*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +7(495)333-22-67; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<akosov@iki.rssi.ru>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<akosov@iki.rssi.ru>, *раб.:* +7(495)333-22-67; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/k/kosov1_photo.jpg) ![](f/contact/k/kosov1_sign.png)|
 
    - **[Education](edu.md):** …

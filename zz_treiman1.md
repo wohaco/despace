@@ -1,12 +1,11 @@
 # Treiman, Allan
-> 2019.07.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Associate Director & Senior Staff Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1953 / …|
-|E‑mail|<treiman@lpi.usra.edu>|
+|Contact|<treiman@lpi.usra.edu>, *раб.:* +1(281)486-21-17, Fax: +1(281)486-21-62; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(281)486-21-17, ℻: +1(281)486-21-62; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/t/treiman1_photo_thumb.jpg)](f/contact/t/treiman1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/t/treiman1_cv.pdf).** PhD, Igneous Petrology, Michigan Univ., 1982. MS, Metamorphic Geology, Stanford Univ., 1977. BA *magna cum laude*, Physical Chemistry, Pomona College, 1974.

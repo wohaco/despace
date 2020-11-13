@@ -1,12 +1,11 @@
 # Marcq, Emmanuel
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LATMOS](zz_latmos.md)/[UVSQ](uvsq.md), EU. Associate Professor in Planetary Science.*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +33(0)180-28-52-83; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<emmanuel.marcq@latmos.ipsl.fr>|
 |B‑day, addr.|<mark>nodate</mark> 1980.. / …|
+|Contact|<emmanuel.marcq@latmos.ipsl.fr>, *раб.:* +33(0)180-28-52-83; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/m/marcq1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Diplome d'Études Approfondies, Astrophysique, Observatoire de Paris, 2002‑2003. Magistère, Physique, Ecole normale supérieure, 1999‑2003.
@@ -20,7 +19,7 @@
    - LinkedIn: <https://www.linkedin.com/in/emmanuel-marcq-7b400b5b/>
    - Twitter: <https://twitter.com/marcqplanets>
    - <https://www.researchgate.net/profile/Emmanuel_Marcq>
-   - <https://scholar.google.com/citations?user=Cf1oPYsAAAAJ&hl=fr>
+   - <https://scholar.google.com/citations?:user=Cf1oPYsAAAAJ&hl=fr>
    - <http://marcq.page.latmos.ipsl.fr/>
    - <http://sesp.esep.pro/fr/pages_auteurs/marcq.html>
    - <https://www.latmos.ipsl.fr/index.php/fr/annuaire/43-pages-perso-officielles/3744-Emmanuel-Marcq-ici-latmos-ipsl-fr>

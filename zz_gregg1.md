@@ -1,12 +1,11 @@
 # Gregg, Tracy
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[University at Buffalo College of Arts & Sciences](zz_buffalo_univ.md), US. Department of Geology. Associate Professor of Geology*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(716)645-43-28; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<tgregg@buffalo.edu>|
 |B‑day, addr.|1968.09.12 (Nebraska, USA) /|
+|Contact|<tgregg@buffalo.edu>, *раб.:* +1(716)645-43-28; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/g/gregg1_photo.jpg) <mark>nosign</mark>|
 
    - **[CV](f/contact/g/gregg1_cv_17-18.pdf)**.

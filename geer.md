@@ -1,5 +1,5 @@
 # GEER
-> 2020.01.23 **[🚀](../index/index.md) [despace](index.md)** → [GRC](zz_grc.md), [Venus](venus.md), **[Test](test.md)**
+> 2020.01.23 [🚀](../index/index.md) [despace](index.md) → [GRC](zz_grc.md), [Venus](venus.md), **[Test](test.md)**
 
 [TOC]
 
@@ -28,7 +28,7 @@ Science, technology and/or mission applications:
 |:--|:--|:--|
 |**Газовых потоков**|8|3, быстрая смена смесей|
 |**Давление**|9.5 МПа (94 атм) номинал,<br> … МПа (… атм) макс.|18.8 МПа (186 атм) номинал,<br> … МПа (… атм) макс.|
-|**Масса**|14 000 кг||
+|**Масса**|14 000 kg||
 |**Объём**|811 л (0.811 m³, 910 × 1220 мм)|4 л (0.004 m³, 127 × 310 мм)|
 |**Температура**|500 ℃ номинал,<br> 538 ℃ макс.|510 ℃ номинал,<br> … ℃ макс.|
 
@@ -69,12 +69,12 @@ Smaller vessels being incorporated.
 
 
 ## ЧаВо
-   - **What is GEER?** Glenn Extreme Environments Rig (GEER) is a unique & world class ground‑based test rig that can accurately most simulate atmospheric conditions for any planet or moon in the solar system & beyond. This capability enables science investigations & pre‑flight development & validation of spacecraft systems & instrumentation in extreme environments. GEER has gas mixing capabilities to reproduce unique planetary environments, such as the very caustic sulfuric acid found in Venus’ atmosphere, or hydrocarbons like methane found in the atmosphere of Satern’s moon Titan.
-   - **How long can GEER run?** GEER is designed to handle extreme temperatures & pressures for long durations. The length of time needed to complete a test will vary depending on customers requirements. Recently, we ran a test lasting 24 days, & could have extended if needed.
-   - **How can my test article be supported?** Each test is different & will require various level of support. We meet with all of our customers to understand their goals & mission, & then we design custom sample holder to meet their test requirements.
-   - **Can GEER be customized to meet any test conditions?** Yes, GEER can provide access to specialized extreme environments including simulating the atmospheres of Venus, Jupiter, Saturn, & numerous exoplanets. GEER can be configured for almost any combination of gasses, temperature & pressure within the vessel structural limits. GEER capabilities are unique in the world.
-   - **Can you use hydrogen in GEER?** Yes, the GEER facility is equip to handle the generation, installation, storage, piping, use, & handling of hydrogen in compressed gas (GH₂) form. If you are interested in using hydrogen, please contact us for additional information.
-   - **Who uses GEER?** Science, technology & planetary mission communities have a growing interest in components & systems that are capable of working in extreme (high) temperature & pressure conditions. Terrestrial applications range from scientific research, aerospace, defense automotive systems, energy storage & power distribution, deep mining & others.
+   - **What is GEER?:** Glenn Extreme Environments Rig (GEER) is a unique & world class ground‑based test rig that can accurately most simulate atmospheric conditions for any planet or moon in the solar system & beyond. This capability enables science investigations & pre‑flight development & validation of spacecraft systems & instrumentation in extreme environments. GEER has gas mixing capabilities to reproduce unique planetary environments, such as the very caustic sulfuric acid found in Venus’ atmosphere, or hydrocarbons like methane found in the atmosphere of Satern’s moon Titan.
+   - **How long can GEER run?:** GEER is designed to handle extreme temperatures & pressures for long durations. The length of time needed to complete a test will vary depending on customers requirements. Recently, we ran a test lasting 24 days, & could have extended if needed.
+   - **How can my test article be supported?:** Each test is different & will require various level of support. We meet with all of our customers to understand their goals & mission, & then we design custom sample holder to meet their test requirements.
+   - **Can GEER be customized to meet any test conditions?:** Yes, GEER can provide access to specialized extreme environments including simulating the atmospheres of Venus, Jupiter, Saturn, & numerous exoplanets. GEER can be configured for almost any combination of gasses, temperature & pressure within the vessel structural limits. GEER capabilities are unique in the world.
+   - **Can you use hydrogen in GEER?:** Yes, the GEER facility is equip to handle the generation, installation, storage, piping, use, & handling of hydrogen in compressed gas (GH₂) form. If you are interested in using hydrogen, please contact us for additional information.
+   - **Who uses GEER?:** Science, technology & planetary mission communities have a growing interest in components & systems that are capable of working in extreme (high) temperature & pressure conditions. Terrestrial applications range from scientific research, aerospace, defense automotive systems, energy storage & power distribution, deep mining & others.
 
 **Facility Details:**
 
@@ -113,7 +113,7 @@ The system boundaries were tested by increasing temperature & pressure to 470 
 <p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

@@ -1,12 +1,11 @@
 # Бабакин, Георгий Николаевич
-> 2019.11.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*НПОЛ, SU.*|
 |:--|:--|
-|i18n|Babakin, Georgy Nikolayevich|
-|Tel||
-|E‑mail||
 |B‑day, addr.|1914.11.13 ‑ 1971.08.03 / Москва, СССР|
+|Contact||
+|i18n|Babakin, Georgy Nikolayevich|
 ||[![](f/contact/b/babakin1_photo_thumb.jpg)](f/contact/b/babakin1_photo.jpg)|
 
    - **[Education](edu.md):** Член‑корреспондент Академии наук СССР (c 24.11.1970). Доктор технических наук (1968). Герой Социалистического Труда (1970). Лауреат Ленинской премии (1966).

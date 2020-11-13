@@ -1,12 +1,11 @@
 # Read, Peter
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Oxford Univ.](oxford_univ.md), EU. Professor*|
 |:--|:--|
 |B‑day, addr.|1953.10.18 (London, UK) / Tackley, UK|
-|E‑mail|<Peter.Read@physics.ox.ac.uk>|
+|Contact|<Peter.Read@physics.ox.ac.uk>, *раб.:* +44(0)1865-272-082 ; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +44(0)1865-272-082 ; *mobile:* <mark>nomobile</mark>|
 ||![](f/contact/r/read1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in observational galactic radioastronomy, Cambrige Univ.

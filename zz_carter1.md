@@ -1,12 +1,11 @@
 # Carter, Lynn M
-> 2019.07.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Arizona Univ.](arizona_univ.md), US. Lunar & Planetary Laboratory. Planetary Sciences. Associate Professor*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(520)621-69-63; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<lmcarter@lpl.arizona.edu>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<lmcarter@lpl.arizona.edu>, *раб.:* +1(520)621-69-63; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/c/carter1_photo_thumb.jpg)](f/contact/c/carter1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD & MS, Astronomy, Cornell Univ.

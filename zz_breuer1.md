@@ -1,12 +1,11 @@
 # Breuer, Doris
-> 2019.10.21 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.21 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[DLR](zz_dlr.md), EU(GR). Department of Planetary Physics. Head of the Department*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* +49(30)670-55-301, ℻: +49(30)670-55-303; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mark>noemail</mark>|
 |B‑day, addr.|<mark>nodate</mark> 1965, Mönchengladbach, GR / …|
+|Contact|<mark>noemail</mark>, *work:* +49(30)670-55-301, Fax: +49(30)670-55-303; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/b/breuer1_photo_thumb.jpg)](f/contact/b/breuer1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geophysics, Westfälische-Wilhelms-Universität (WWU) in Münster, Germany, 1995. PostDoc, Department of Geology & Geophysics, Univ. of Minnesota & at the Minnesota Supercomputer Institute, US, 1997.
@@ -20,7 +19,7 @@
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
    - <https://sci.esa.int/web/mars-express/-/49525-doris-breuer>
-   - <https://scholar.google.de/citations?user=koJ_AWYAAAAJ&hl=de>
+   - <https://scholar.google.de/citations?:user=koJ_AWYAAAAJ&hl=de>
    - <https://sci.esa.int/web/mars-express/-/49525-doris-breuer>
    - <https://www.researchgate.net/profile/Doris_Breuer>
    - <https://www.dlr.de/pf/en/desktopdefault.aspx/tabid-156/220_read-1025/start-b/>

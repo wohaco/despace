@@ -1,12 +1,11 @@
 # Горинов, Дмитрий Алексеевич
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Младший научный сотрудник*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +7(495)333-41-02; *mobile:* +7(910)474-10-32|
-|E‑mail|<gorinov-dmitry@yandex.ru>|
 |B‑day, addr.|<mark>nodate</mark> /|
+|Contact|<gorinov-dmitry@yandex.ru>, *раб.:* +7(495)333-41-02; *mobile:* +7(910)474-10-32|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/g/gorinov1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

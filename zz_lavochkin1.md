@@ -1,12 +1,11 @@
 # Лавочкин, Семён Алексеевич
-> 2019.11.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*ОКБ-301, SU.*|
 |:--|:--|
-|i18n|Lavochkin, Semyon Alekseyevich|
-|Tel||
-|E‑mail||
 |B‑day, addr.|1900.09.11 ‑ 1960.06.06 СССР / Химки, СССР|
+|Contact||
+|i18n|Lavochkin, Semyon Alekseyevich|
 ||[![](f/contact/l/lavochkin1_photo_thumb.jpg)](f/contact/l/lavochkin1_photo.jpg)|
 
    - **[Education](edu.md):** …

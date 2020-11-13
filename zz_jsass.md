@@ -1,11 +1,9 @@
 # JSASS
-> 2020.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jsass_logo1_thumb.jpg)](f/contact/j/jsass_logo1.png)|*4-1-21 Nihonbashi-Muromachi, Chuo-ku, Tokyo 103-0022, Japan*|
+|[![](f/contact/j/jsass_logo1_thumb.jpg)](f/contact/j/jsass_logo1.png)|<office@jsass.or.jp>, <mark>noworkphone</mark>, Fax: …;<br> *4-1-21 Nihonbashi-Muromachi, Chuo-ku, Tokyo 103-0022, Japan*|
 |:--|:--|
-|E‑mail|<office@jsass.or.jp>|
 |Link|<https://www.jsass.or.jp/>|
-|Tel|<mark>noworkphone</mark>, ℻: …|
 
 The **Japan Society for Aeronautical & Space Sciences (JSASS)** has a mission to provide the opportunity to present & report the fundamental & applied researches, exchange their knowledge, & provide the information to enhance & promote the researches in aerospace field & contribute to further advancement of academia in Japan.
 
@@ -22,8 +20,6 @@ Activities
 
 
 <p style="page-break-after:always"> </p>
-
-## JSASS, comments
 
 …
 

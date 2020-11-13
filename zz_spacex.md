@@ -1,11 +1,9 @@
 # SpaceX
-> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/spacex_logo1_thumb.jpg)](f/contact/s/spacex_logo1.png)|*1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
+|[![](f/contact/s/spacex_logo1_thumb.jpg)](f/contact/s/spacex_logo1.png)|<sales@spacex.com>, +7(310)363-60-00, Fax: …;<br> *1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
 |:--|:--|
-|E‑mail|<sales@spacex.com>|
 |Link|<http://www.spacex.com/><br> <https://en.wikipedia.org/wiki/SpaceX><br> <https://ru.wikipedia.org/wiki/SpaceX><br> <https://www.facebook.com/SpaceX><br> <https://twitter.com/spacex><br> <http://www.youtube.com/spacex><br> <http://www.flickr.com/spacexphotos><br> <http://www.instagram.com/spacex>|
-|Tel|+7(310)363-60-00, ℻: …|
 
 **Space Exploration Technologies Corporation** (**SpaceX**, произносится **«Спэйс‑Экс»**) — американская компания, производитель космической техники со штаб‑квартирой в городе Хоторн, Калифорния, США. Компания основана в 2002 году.
 
@@ -19,7 +17,5 @@
 
 
 <p style="page-break-after:always"> </p>
-
-## SpaceX, comments
 
 …

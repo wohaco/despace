@@ -1,11 +1,9 @@
 # Satellite Business Network
-> 2020.07.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/sat_biz_network_logo1_thumb.jpg)](f/contact/s/sat_biz_network_logo1.png)|*1-5-212, Iwaicho, Hodogaya, Yokohama, 240-0023, Japan*|
+|[![](f/contact/s/sat_biz_network_logo1_thumb.jpg)](f/contact/s/sat_biz_network_logo1.png)|<mark>noemail</mark>, +81-802-052-13-48, Fax: …;<br> *1-5-212, Iwaicho, Hodogaya, Yokohama, 240-0023, Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://sat-biznet.com/><br> <https://www.linkedin.com/pub/shigeki-kuzuoka/16/6a0/398>|
-|Tel|+81-802-052-13-48, ℻: …|
 
 **Satellite Business Network Co., Ltd.** is a business & consulting firm focusing on the realm of space. We help businesses & technologies gain the traction they need to do business in space. The company is somewhat [Euroconsult](zz_euroconsult.md) Japan office. Founded in 2013.
 
@@ -18,8 +16,6 @@ Our mission is to be the bridge between Japanese & Global Space Business by conn
    - Technical consulting & support services for space industry companies & government organizations, including space policy & strategy, market surveys, market development, & overseas business development.
 
 <p style="page-break-after:always"> </p>
-
-## Satellite Business Network, comments
 
 Consultation Details
 

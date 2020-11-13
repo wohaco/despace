@@ -1,11 +1,9 @@
 # AvantSpace
-> 2020.01.18 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.01.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/avantspace_logo1_thumb.jpg)](f/contact/a/avantspace_logo1.png)|*Луговая 4/7, Инновационный центр Сколково, г. Москва, 143026, RU.*|
+|[![](f/contact/a/avantspace_logo1_thumb.jpg)](f/contact/a/avantspace_logo1.png)|<info@avantspace.com>, +7(499)994-95-05, Fax: …;<br> *Луговая 4/7, Инновационный центр Сколково, г. Москва, 143026, RU.*|
 |:--|:--|
-|E‑mail|<info@avantspace.com>|
 |Link|<http://www.avantspace.com/><br> <http://projects.avantspace.com/><br> <https://www.linkedin.com/company/avant-space-systems/>|
-|Tel|+7(499)994-95-05, ℻: …|
 
 **AvantSpace** — Сколковский стартап, производящий малые [спутники](sc.md), ионные [двигатели](ps.md), [радиопередатчики](comms.md).
 
@@ -15,8 +13,6 @@ Domestic technology, our own experience and promising developments of our cooper
 
 
 <p style="page-break-after:always"> </p>
-
-## AvantSpace, comments
 
 **Продукция:**
 

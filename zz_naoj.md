@@ -1,19 +1,15 @@
 # NAOJ
-> 2020.07.18 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/naoj_logo1_thumb.jpg)](f/contact/n/naoj_logo1.png)|*2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan*|
+|[![](f/contact/n/naoj_logo1_thumb.jpg)](f/contact/n/naoj_logo1.png)|<mark>noemail</mark>, +81 422-34-3600, Fax: …;<br> *2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://www.nao.ac.jp/><br> <https://en.wikipedia.org/wiki/National_Astronomical_Observatory_of_Japan><br> <https://www.linkedin.com/company/national-astronomical-observatory-of-japan/>|
-|Tel|+81 422-34-3600, ℻: …|
 
 **National Astronomical Observatory of Japan (NAOJ)** is the national center for astronomy research in Japan. It provides observational facilities to researchers throughout the country & promotes joint research programs. It also utilizes the development of astronomy & other related fields as opportunities for international cooperation. Founded in 1988.
 
 In 2004, NAOJ, in alliance with four other national institutes — the National Institute for Basic Biology, the National Institute for Fusion Science, the National Institute for Physiological Sciences, & the Institute for Molecular Science — established the National Institutes of Natural Sciences (NINS) to promote collaboration among researchers of the five constituent institutes.
 
 <p style="page-break-after:always"> </p>
-
-## NAOJ, comments
 
 Facilities:
 

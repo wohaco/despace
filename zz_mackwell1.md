@@ -1,12 +1,11 @@
 # Mackwell, Stephen J.
-> 2019.10.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*American Institute of Physics, US. Deputy Executive Officer*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* +1(301)209-31-72; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<smackwell@aip.org>|
 |B‑day, addr.|1956.06.05 Christchurch, New Zealand / College Park, Maryland|
+|Contact|<smackwell@aip.org>, *work:* +1(301)209-31-72; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/m/mackwell1_photo_thumb.jpg)](f/contact/m/mackwell1_photo.jpg) [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geophysics/Earth Sciences, Australian National University, 1984. MS, Physics & Astronomy, University of Canterbury, 1979. BS, Physics & Mathematics, University of Canterbury, 1978.

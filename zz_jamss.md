@@ -1,11 +1,9 @@
 # JAMSS
-> 2020.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jamss_logo1_thumb.jpg)](f/contact/j/jamss_logo1.png)|*1-6-1, Otemachi Otemachi Bldg. Chiyoda-ku, 100-0004 Japan*|
+|[![](f/contact/j/jamss_logo1_thumb.jpg)](f/contact/j/jamss_logo1.png)|<jamss-koho@jamss.co.jp>, +81-3-3211-2002, Fax: +81-3-3211-2004;<br> *1-6-1, Otemachi Otemachi Bldg. Chiyoda-ku, 100-0004 Japan*|
 |:--|:--|
-|E‑mail|<jamss-koho@jamss.co.jp>|
 |Link|<https://www.jamss.co.jp/>|
-|Tel|+81-3-3211-2002, ℻: +81-3-3211-2004|
 
 **Japan Manned Space Systems Corporation (JAMSS)** is a Japanese company involved in the operations of the “Kibo” & “KOUNOTORI”, the training of astronauts & flight controllers & the implementation of space experiments as part of the International Space Station (ISS) program, evaluating & providing advice on safety, reliability & maintainability of hardware & software in space, & are highly acclaimed by people in the space industry who consider JAMSS to be synonymous with safety. Founded in May 1990. [IAF](iaf.md)-member since 2013.
 
@@ -24,7 +22,5 @@ The business operations of JAMSS is classified into following 4 areas.
    1. The new business development. We are working on research & development projects, in order to help human live comfort ability in space, for the forthcoming manned space missions, & also to make space technology useful in daily life.
 
 <p style="page-break-after:always"> </p>
-
-## JAMSS, comments
 
 …

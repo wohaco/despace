@@ -1,11 +1,9 @@
 # Tsukuba Space Center
-> 2020.07.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|*2-1-1 Sengen, Tsukuba-shi, Ibaraki 305-8505, Japan*|
+|[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-29-868-5000, Fax: …;<br> *2-1-1 Sengen, Tsukuba-shi, Ibaraki 305-8505, Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://global.jaxa.jp/about/centers/tksc/index.html><br> <https://en.wikipedia.org/wiki/Tsukuba_Space_Center>|
-|Tel|+81-29-868-5000, ℻: …|
 
 The **Tsukuba Space Center (TKSC)** also known by its radio callsign **Tsukuba**, is the operations facility & headquarters for the [JAXA](zz_jaxa.md) located in Tsukuba Science City in Ibaraki Prefecture. The complex has several factories that are used to manufacture JAXA’s [satellites](sc.md), & the Japanese Experiment Module for the International Space Station. The facility opened in 1972 & serves as the primary location for Japan’s space operations & research programs. Japanese astronauts involved in the International Space Station are trained in part here in addition to the training they receive at the Lyndon B. Johnson Space Center, in Houston, Texas.
 
@@ -17,8 +15,6 @@ Main Facilities:
    - **Aerospace Information Reference Center.** (Tsukuba Library) The library at the JAXA Tsukuba Space Center is a special library for the space field. Everyone is welcome there. Please contact us before you visit the library.
 
 <p style="page-break-after:always"> </p>
-
-## Tsukuba Space Center, comments
 
 …
 

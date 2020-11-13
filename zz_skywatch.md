@@ -1,11 +1,9 @@
 # SkyWatch
-> 2019.08.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/skywatch_logo1_thumb.png)](f/contact/s/skywatch_logo1.png)|*14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*|
+|[![](f/contact/s/skywatch_logo1_thumb.png)](f/contact/s/skywatch_logo1.png)|<info@skywatch.com>, +1(888)882-82-32 , Fax: …;<br> *14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*|
 |:--|:--|
-|E‑mail|<info@skywatch.com>|
 |Link|<https://www.skywatch.com/>|
-|Tel|+1(888)882-82-32 , ℻: …|
 
 **SkyWatch** provides a digital infrastructure for the distribution of Earth observation data & derived intelligence. EarthCache™ is a single access point to data & advanced processing algorithms for application developers.
 
@@ -13,8 +11,6 @@
 
 
 <p style="page-break-after:always"> </p>
-
-## SkyWatch, comments
 
 …
 

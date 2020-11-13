@@ -1,12 +1,11 @@
 # Maroko, Elena Vladimirovna
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), RU. Специалист по аэрокосмическим вопросам московского офиса НАСА*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mark>noemail</mark>|
 |B‑day, addr.|1960.05.15 (Москва, РФ) / …|
+|Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/m/maroko1_animated.gif) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

@@ -1,12 +1,11 @@
 # Case, Kelley
-> 2019.10.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Technical Supervisor, Concept Design Methods Chief*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* +1(818)354‑58-70; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<Kelley.Case@jpl.nasa.gov>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<Kelley.Case@jpl.nasa.gov>, *work:* +1(818)354‑58-70; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/c/case1_photo_thumb.jpg)](f/contact/c/case1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …

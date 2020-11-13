@@ -1,11 +1,9 @@
 # IRSPS
-> 2019.08.04 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.04 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/irsps_logo1_thumb.jpg)](f/contact/i/irsps_logo1.png)|*IRSPS - Università "G.D'Annunzio", Viale Pindaro, 42, 65127 Pescara (PE), Italy*|
+|[![](f/contact/i/irsps_logo1_thumb.jpg)](f/contact/i/irsps_logo1.png)|<info@irsps.unich.it>, +39(085)453-75-12;<br> *IRSPS - Università "G.D'Annunzio", Viale Pindaro, 42, 65127 Pescara (PE), Italy*|
 |:--|:--|
-|E‑mail|<info@irsps.unich.it>|
 |Link|<http://www.irsps.it/>|
-|Tel|+39(085)453-75-12|
 
 The **International Research School of Planetary Sciences (IRSPS)** is a [non‑profit organisation](nonprof_org.md) devoted to research & post‑graduate education. The School is an emanation of the Universita' d'Annunzio & hosted by Dipartimento di Ingegneria e Geologia (InGeo), but it is autonomously governed. IRSPS is part of the Europlanet Research Infrastructure.  
 The IRSPS is a small visiting institution with a limited number of untenured faculty positions, some of them provided by the Faculty of Sciences of the Universita' d'Annunzio. Many research scientists joined IRSPS for a variable amount of time as postdoctoral fellows, graduate students & senior professors. The aim of IRSPS is to constitute an enthusiastic, creative, & multi‑disciplinary gathering environment.  
@@ -15,7 +13,5 @@ Research activities: landing sites, sedimentary geology, impact craters, icy sat
 
 
 <p style="page-break-after:always"> </p>
-
-## IRSPS, comments
 
 …

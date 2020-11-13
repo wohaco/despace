@@ -1,12 +1,11 @@
 # Martino, Paolo
-> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md) CDF, EU. System & cost engineering division. Cost & system engineering tasks*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<paolo.martino@esa.int>|
 |B‑day, addr.|<mark>nodate</mark> 1986 / Leiden, NL, EU|
+|Contact|<paolo.martino@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/m/martino1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** MS, Space engineering, Milan PU, 2009. BS, Aerospace engineering, Milan PU, 2007.

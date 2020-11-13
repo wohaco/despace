@@ -1,12 +1,11 @@
 # Spilker, Tom
-> 2019.10.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*US. Independent Consultant*|
 |:--|:--|
-|B‑day, addr.|<mark>nodate</mark> 1953 ? / …|
-|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|<mark>nodate</mark> 1953  / …|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/s/spilker1_photo_thumb.jpg)](f/contact/s/spilker1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Electrical Engg, Planetary Sci, Radio Physics, Stanford Univ., 1990. BS, Geophysics, Computer Science, Summa Cum Laude, Kansas State Univ., 1975.

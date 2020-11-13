@@ -1,12 +1,11 @@
 # Rosenblatt, Pascal
-> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*GEOAZUR, FR. Senior Scientist in planetary geodesy*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1966.… Paris, FR / …|
-|E‑mail|<mark>noemail</mark>|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/r/rosenblatt1_photo_thumb.jpg)](f/contact/r/rosenblatt1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, comparative planetology, Paul Sabatier Univ. in Toulouse, France, 1995. MS, mathematics & physics, Paul Sabatier Univ. in Toulouse, France, 1989. He studied geology & geophysics of terrestrial planets during his post‑doc activities (1996 ‑ 98), including a three‑month visit at Prof. [J. Head’s](zz_head1.md) laboratory in Brown University, Providence, USA.
@@ -19,7 +18,7 @@
    - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/pascal-rosenblatt-9645ab76/>
    - Twitter: <mark>notw</mark>
-   - <https://scholar.google.be/citations?user=n4mJ_DYAAAAJ&hl=fr>
+   - <https://scholar.google.be/citations?:user=n4mJ_DYAAAAJ&hl=fr>
    - <https://www.researchgate.net/profile/Pascal_Rosenblatt>
    - <http://www.raa-journal.org/docs/authors/1008_invited_authors.html>
    - **As a person:**

@@ -1,12 +1,11 @@
 # Ansari, Arif Husain
-> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[BSIP](zz_bsip.md), IN. Precambrian Palaeobiology*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +91(841)805-28-12|
-|E‑mail|<a.h.ansari@bsip.res.in>, <arifenv@gmail.com>|
 |B‑day, addr.|<mark>nodate</mark> 1983 / …|
+|Contact|<a.h.ansari@bsip.res.in>, <arifenv@gmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* +91(841)805-28-12|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/a/ansari2_photo_thumb.jpg)](f/contact/a/ansari2_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Sheffield Univ., Department of Geography, 2013. MS, Environmental Sciences, Jawaharlal Nehru Univ., 2006. BS, Botany, Chemistry, Zoology, Gorakhpur University, 2004.
@@ -20,6 +19,6 @@
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Arif_Ansari>
-   - <https://scholar.google.co.in/citations?user=_U4h0VkAAAAJ&hl=en>
+   - <https://scholar.google.co.in/citations?:user=_U4h0VkAAAAJ&hl=en>
    - **As a person:**
       1. …

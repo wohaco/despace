@@ -1,11 +1,9 @@
 # MDA
-> 2019.08.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/mda_logo1_thumb.jpg)](f/contact/m/mda_logo1.png)|*Somewhere in Canada*|
+|[![](f/contact/m/mda_logo1_thumb.jpg)](f/contact/m/mda_logo1.png)|<info@mdacorporation.com>, +1(604)278-34-11, Fax: +1(604)231-27-68;<br> *Somewhere in Canada*|
 |:--|:--|
-|E‑mail|<info@mdacorporation.com>|
 |Link|<http://mdacorporation.com/><br> <https://en.wikipedia.org/wiki/MDA_Space_Missions>|
-|Tel|+1(604)278-34-11, ℻: +1(604)231-27-68|
 
 **MDA’s Robotics & Automation** is a Canadian manufacturer subsidiary of MacDonald, Dettwiler & Associates Ltd. In 2020 [MDA was sold ⎆](http://investor.maxar.com/investor-news/press-release-details/2019/Maxar-Technologies-to-Sell-MDA-to-Northern-Private-Capital-for-CAD1-Billion/default.aspx) to Northern Private Capital. It specialized in the manufacture of robotic arms & equipment for space applications, most notably the Canadarm on the space shuttle orbiters, & Canadarm-2 on the International Space Station. In addition to design, safety, reliability, & quality assurance engineering services, MDA’s previous contracted products include:
 
@@ -18,8 +16,6 @@
 
 
 <p style="page-break-after:always"> </p>
-
-## MDA, comments
 
 Canada Locations
 

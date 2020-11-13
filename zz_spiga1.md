@@ -1,12 +1,11 @@
 # Spiga, Aymeric
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Sorbonne Univ.](sorbonne_univ.md)/[LMD](lmd.md), EU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1982.. / …|
-|E‑mail|<aymeric.spiga@sorbonne-universite.fr>|
+|Contact|<aymeric.spiga@sorbonne-universite.fr>, *раб.:* +33(0)144-27-28-47; *mobile:* <mark>nomobile</mark>|
 |i18n|Спига, Эмерик|
-|Tel|*раб.:* +33(0)144-27-28-47; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/s/spiga1_photo_thumb.jpg)](f/contact/s/spiga1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Université Pierre et Marie Curie in Planetary Science, 2008. MSc degree from UPMC in climate science, atmospheric physics & remote sensing, 2005.
@@ -21,6 +20,6 @@
    - Twitter: <https://twitter.com/aymeric_spiga>
    - <http://www.lmd.jussieu.fr/~aslmd/>
    - <https://github.com/aymeric-spiga>
-   - <https://scholar.google.com/citations?user=sbcePYgAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=sbcePYgAAAAJ&hl=en>
    - **As a person:**
       1. …

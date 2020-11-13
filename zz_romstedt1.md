@@ -1,12 +1,11 @@
 # Romstedt, Jens
-> 2019.10.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESTEC](zz_estec.md), EU.*|
 |:--|:--|
-|B‑day, addr.|<mark>nodate</mark> 1965 ?, GE / …|
-|E‑mail|<jens.romstedt@esa.int>|
+|B‑day, addr.|<mark>nodate</mark> 1965, GE / …|
+|Contact|<jens.romstedt@esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/r/romstedt1_photo_thumb.jpg)](f/contact/r/romstedt1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Planetology, Wilhelms University of Münster, Germany, 1995. MS, Mineralogy, University of Hamburg, Germany, in 1990.

@@ -1,12 +1,11 @@
 # Smith, David Joseph
-> 2019.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ARC](zz_arc.md), US. Space Biosciences Research Branch. Deputy Branch Chief*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1986 / …|
-|E‑mail|<david.j.smith-3@nasa.gov>|
+|Contact|<david.j.smith-3@nasa.gov>, *раб.:* +1(650)604-48-19; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(650)604-48-19; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/s/smith1_photo_thumb.jpg)](f/contact/s/smith1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biology & Astrobiology, Washington Univ., 2012. BA, Ecological & Evolutionary Biology, Princeton Univ., 2007.
@@ -21,7 +20,7 @@
    - Twitter: <mark>notw</mark>
    - <https://www.nasa.gov/ames/research/space-biosciences/david-j-smith>
    - <https://www.nasa.gov/ames/research/space-biosciences/david-j-smith-laboratory>
-   - <https://scholar.google.com/citations?user=mKcp6SoAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=mKcp6SoAAAAJ&hl=en>
    - <https://www.researchgate.net/profile/David_Smith61>
    - **As a person:**
       1. …

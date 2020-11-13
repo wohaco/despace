@@ -1,11 +1,9 @@
 # Hamamatsu Photonics
-> 2020.07.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/h/hamamatsu_phot_logo1_thumb.png)](f/contact/h/hamamatsu_phot_logo1.png)|*325-6, Sunayama-cho, Naka-ku, Hamamatsu City, Shizuoka, 430-8587, Japan*|
+|[![](f/contact/h/hamamatsu_phot_logo1_thumb.png)](f/contact/h/hamamatsu_phot_logo1.png)|<mark>noemail</mark>, +81-53-962-5245, Fax: +81-53-962-2205;<br> *325-6, Sunayama-cho, Naka-ku, Hamamatsu City, Shizuoka, 430-8587, Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://hamamatsu.com/><br> <https://aerospacebiz.jaxa.jp/en/partner/company/07/><br> <https://en.wikipedia.org/wiki/Hamamatsu_Photonics><br> <https://www.linkedin.com/company/hamamatsu/>|
-|Tel|+81-53-962-5245, ℻: +81-53-962-2205|
 
 **Hamamatsu Photonics K.K.** (浜松ホトニクス株式会社, Hamamatsu Hotonikusu Kabushiki-gaisha) is a Japanese manufacturer of optical [sensors](sensor.md) (incl. photomultiplier tubes), electric light sources, other optical devices & their applied instruments for scientific, technical, medical use. In the space sector, Hamamatsu Photonics’ rocket tracking system that utilizes high‑speed television cameras, X‑ray charge‑coupled devices (CCDs), visible light & near‑infrared semiconductor sensors & other products are widely used for the Earth observation satellites, astronomical satellites, the International Space Station (ISS) & elsewhere. Founded 1953.09.29.
 
@@ -18,8 +16,6 @@
       - The near‑infrared sensors for Ibuki, the Greenhouse gases Observation SATellite (GOSAT) & [Akatsuki](akatsuki.md), the Venus Climate Orbiter & more.
 
 <p style="page-break-after:always"> </p>
-
-## Hamamatsu Photonics, comments
 
 …
 

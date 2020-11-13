@@ -1,11 +1,9 @@
 # Space One
-> 2020.07.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/space_one_co_logo1_thumb.jpg)](f/contact/s/space_one_co_logo1.png)|*5-10 Shiba Koen 3-Chome, Minato-ku, Tokyo*|
+|[![](f/contact/s/space_one_co_logo1_thumb.jpg)](f/contact/s/space_one_co_logo1.png)|<info@space-one.co.jp>, +81-3-6777-3310, Fax: …;<br> *5-10 Shiba Koen 3-Chome, Minato-ku, Tokyo*|
 |:--|:--|
-|E‑mail|<info@space-one.co.jp>|
 |Link|<https://www.space-one.co.jp/>|
-|Tel|+81-3-6777-3310, ℻: …|
 
 **SPACE ONE**, under the corporate philosophy of providing a convenient [space transport service](lv.md) at an unmatched launch frequency, will commence operation with the mission of serving as a reliable corporatepartner capable of supporting the space businesses of clients worldwide.
 
@@ -14,8 +12,6 @@ The name SPACE ONE reflects the aforementioned corporate philosophy & the coming
 SPACE ONE is accelerating preparations to establish itself as an operating company by 2021, with the goal of achieving 20 launches per year by the mid‑2020s.
 
 <p style="page-break-after:always"> </p>
-
-## Space One, comments
 
 TOKYO, July 2, 2018 — New Generation Small Rocket Development Planning Co., Ltd. (the Business Planning Company) & its four shareholders ([CANON ELECTRONICS INC.](zz_ce_space.md), [IHI AEROSPACE Co.](zz_ihi.md), Ltd., Shimizu Corporation & Development Bank of Japan Inc.) have concluded their investigation into the establishment of a small rocket launch service as an operating company. As a result, the Business Planning Company announced today that the necessary procedures for increasing capital have been completed, & that it will be renamed SPACE ONE Co., Ltd. (SPACE ONE) & operate as a commercial space transport service business for small satellites.
 

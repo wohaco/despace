@@ -1,12 +1,11 @@
 # Nakamura, Masato
-> 2019.10.21 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.21 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1959  / …|
+|Contact|<mnakamur@isas.jaxa.jp>, *work:* +81(50)336-239-36; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +81(50)336-239-36; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mnakamur@isas.jaxa.jp>|
-|B‑day, addr.|<mark>nodate</mark> 1959 ? / …|
 ||[![](f/contact/n/nakamura1_photo_thumb.jpg)](f/contact/n/nakamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1977 ‑ 1987.

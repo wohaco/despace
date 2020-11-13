@@ -1,12 +1,11 @@
 # Елшанский, Леонид Борисович
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Роскосмос](zz_roskosmos.md), RU. Консультант*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +7(495)631-91-22; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<elshanskiy.lb@roscosmos.ru>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<elshanskiy.lb@roscosmos.ru>, *раб.:* +7(495)631-91-22; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/e/elshanskiy1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
@@ -15,7 +14,7 @@
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …
-   - Facebook: <https://www.facebook.com/profile.php?id=100004568714766>
+   - Facebook: <https://www.facebook.com/profile.php?:id=100004568714766>
    - Instagram: <mark>noin</mark>
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>

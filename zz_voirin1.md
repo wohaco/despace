@@ -1,12 +1,11 @@
 # Voirin, Thomas
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU. Solar System & Robotic Exploration Missions. System Engineer*|
 |:--|:--|
 |B‑day, addr.|1978.01.23 / …|
-|E‑mail|<Thomas.Voirin@esa.int>|
+|Contact|<Thomas.Voirin@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/v/voirin1_photo_thumb.jpg)](f/contact/v/voirin1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

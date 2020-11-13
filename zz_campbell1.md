@@ -1,12 +1,11 @@
 # Campbell, Bruce A.
-> 2019.10.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Smithsonian Inst., National Air & Space Museum’s Center for Earth & Planetary Studies, US. Geophysicist, Senior Scientist*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1964  / …|
+|Contact|<campbellb@si.edu>, *work:* +1(202)633-24-72; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +1(202)633-24-72; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<campbellb@si.edu>|
-|B‑day, addr.|<mark>nodate</mark> 1964 ? / …|
 ||[![](f/contact/c/campbell1_photo_thumb.jpg)](f/contact/c/campbell1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** **[CV](f/contact/c/campbell1_cv.pdf)**. PhD, Geology & Geophysics, University of Hawaii, 1991. BS, Geophysics, Texas A&M University, 1986.

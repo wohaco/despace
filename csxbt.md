@@ -1,5 +1,5 @@
 # CSXBT
-> 2019.08.06 **[🚀](../index/index.md) [despace](index.md)** → **[Радиосвязь](comms.md)**
+> 2019.08.06 [🚀](../index/index.md) [despace](index.md) → **[Радиосвязь](comms.md)**
 
 [TOC]
 
@@ -21,7 +21,7 @@
 |[TRL](trl.md)|9|
 |Вид модуляции|QPSK, 8PSK, 16APSK, 32APSK|
 |Время непр. работы, ч||
-|Вых. мощность, Вт|2.5|
+|Вых. мощность, W|2.5|
 |Дальность, км||
 |[Диапазон частот](rf.md), Гц|X: 8 200 000 000 (настройка 8.1 ‑ 8.5 ГГц)|
 |Нестаб. частоты|±10 ppm|
@@ -29,12 +29,12 @@
 |Структура сигнала||
 |**Etc:**|• • •|
 |[ВБР](srrq.md) за САС|0.9392|
-|Габариты, Д×Ш×В, мм|87 × 93 × 28|
+|Габариты, Д×Ш×В, mm|87 × 93 × 28|
 |Интерфейсы|Customizable LVDS or CMOS. 5 pairs for serial data (clock input/output, data, optional enable). RS-485 или I2C или CAN-2B. Micro-D (MIL-DTL-83513) female (9-pin power, 21-pin data/control). SMA female 50 Ω RF output|
 |Mass, kg|0.38|
 |[Voltage](voltage.md), V|12 (11 ‑ 16)|
 |Overload, g||
-|[Rad.resist](ion_rad.md), Gy (rad)|60 (6 000) при Al 1.5 г/cm², ≥40 МэВ·cm²/мг|
+|[Rad.resist](ion_rad.md), Gy (rad)|60 (6 000) при Al 1.5 g/cm², ≥40 МэВ·cm²/мг|
 |Resource, h (y)||
 |[Lifetime](lifetime.md), h (y)|26 280 (3)|
 |[Temp. range](tcs.md), ℃|–20 ‑ +50, 1 датчик температуры DS18S20|
@@ -59,7 +59,7 @@
 <p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

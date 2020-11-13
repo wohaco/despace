@@ -1,12 +1,11 @@
 # Kleinboehl, Armin
-> 2019.07.10 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.10 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Research Scientist*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(818)393-64-21, ℻: +1(818)393-46-19; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<kleinb@caesar.jpl.nasa.gov>|
 |B‑day, addr.|<mark>nodate</mark> 1978 / …|
+|Contact|<kleinb@caesar.jpl.nasa.gov>, *раб.:* +1(818)393-64-21, Fax: +1(818)393-46-19; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/k/kleinboehl1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Atmospheric Physics, University of Bremen, Germany (2003). MS, Physics, University of Frankfurt (Main), Germany (1999).

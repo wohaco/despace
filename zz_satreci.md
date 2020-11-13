@@ -1,11 +1,9 @@
 # Satrec Initiative
-> 2020.07.24 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/satreci_logo1_thumb.png)](f/contact/s/satreci_logo1.png)|*21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*|
+|[![](f/contact/s/satreci_logo1_thumb.png)](f/contact/s/satreci_logo1.png)|<inquiries@satreci.com>, +82-42-365-7474, Fax: +82-42-365-7790;<br> *21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*|
 |:--|:--|
-|E‑mail|<inquiries@satreci.com>|
 |Link|<https://www.satreci.com/><br> <https://en.wikipedia.org/wiki/Satrec_Initiative><br> <https://www.linkedin.com/company/satrec-initiative><br> <https://www.linkedin.com/company/satrec-initiative/><br> <https://www.linkedin.com/company/si-imaging-services/>|
-|Tel|+82-42-365-7474, ℻: +82-42-365-7790|
 
 **Satrec Initiative Co., Ltd.** (Korean: 쎄트렉아이) or **SI** or **Satrec I** is a South Korean [satellite](sc.md) manufacturing company headquartered in Daejeon, South Korea. The company designs & builds Earth observation satellites platform called SpaceEye‑series, & SI provides various space components, including high resolution electro‑optical payloads & star‑trackers.
 
@@ -35,8 +33,6 @@ Satellites & launches
    - GEO-KOMPSAT-2A/B (2018/2019): electric modules, space weather sensor, image receiving & processing station, & mission control subsystems
 
 <p style="page-break-after:always"> </p>
-
-## Satrec Initiative, comments
 
 Platforms
 

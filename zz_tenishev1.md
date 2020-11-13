@@ -1,12 +1,11 @@
 # Tenishev, Valeriy
-> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), US. Department of Atmospheric, Oceanic & Space Sciences, Associate Research Scientist*|
 |:--|:--|
 |B‑day, addr.|1974.12.05 (РФ, Астрахань) / Ann Arbor, United States|
-|E‑mail|<vtenishe@umich.edu>|
+|Contact|<vtenishe@umich.edu>, *раб.:* +1(734)763-62-46, +1(734)763-62-21; *mobile:* +1(734)272-27-01|
 |i18n|Тенишев, Валерий|
-|Tel|*раб.:* +1(734)763-62-46, +1(734)763-62-21; *mobile:* +1(734)272-27-01|
 ||[![](f/contact/t/tenishev1_photo_thumb.jpg)](f/contact/t/tenishev1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Space Science & Scientific Computing, Michigan Univ., 2001‑2006. MS, Engineering Physics/Applied Physics, Moscow Institute of Physics & Technology (MIPT) 1999‑2001.

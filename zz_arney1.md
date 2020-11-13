@@ -1,12 +1,11 @@
 # Arney, Giada Nicole
-> 2019.07.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Research AST, Planetary Studies*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(301)614-66-27 ; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<giada.n.arney@nasa.gov>|
 |B‑day, addr.|<mark>nodate</mark> 1988 / …|
+|Contact|<giada.n.arney@nasa.gov>, *раб.:* +1(301)614-66-27 ; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/a/arney1_photo_thumb.jpg)](f/contact/a/arney1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrobiology, 2016 & MS, Astronomy, Washington Univ., 2012.
@@ -21,6 +20,6 @@
    - Twitter: <https://twitter.com/giadaplanet>
    - <https://science.gsfc.nasa.gov/sed/bio/giada.n.arney>
    - <https://solarsystem.nasa.gov/people/4174/giada-arney/>
-   - <https://scholar.google.com/citations?user=Lw2r2-YAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=Lw2r2-YAAAAJ&hl=en>
    - **As a person:**
       1. …

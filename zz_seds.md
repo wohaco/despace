@@ -1,11 +1,9 @@
 # SEDS
-> 2019.09.02 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.09.02 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/seds_logo1_thumb.jpg)](f/contact/s/seds_logo1.png)|*…*|
+|[![](f/contact/s/seds_logo1_thumb.jpg)](f/contact/s/seds_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://seds.org/><br> <https://en.wikipedia.org/wiki/Students_for_the_Exploration_and_Development_of_Space>|
-|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Students for the Exploration & Development of Space (SEDS)** is an international student organization whose purpose is to promote space exploration & development through educational & engineering projects.
 
@@ -13,8 +11,6 @@ Students for the Exploration & Development of Space was founded in 1980 at MIT b
 
 
 <p style="page-break-after:always"> </p>
-
-## SEDS, comments
 
 SEDS is organized by country, region, & chapter. There is a large contingent of SEDS chapters in the United States, which are governed regionally & nationally by SEDS‑USA. SEDS India has nine SEDS chapters under it & is headquartered at Vellore Institute of Technology. There are other national sections of SEDS across the world, notably SEDS‑Canada & UKSEDS, & student leaders of the international groups convene as SEDS‑Earth, the global governing body of SEDS. SEDS is an organization member of the Alliance for Space Development.
 

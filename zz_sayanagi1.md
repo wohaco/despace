@@ -1,12 +1,11 @@
 # Sayanagi, Kunio M.
-> 2019.07.07 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.07 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Hampton Univ.](hampton_univ.md), US. Atmospheric & Planetary Sciences. Associate Professor (2017)*|
 |:--|:--|
 |B‑day, addr.|1977.10.01 / …|
-|E‑mail|<kunio.sayanagi@hamptonu.edu>|
+|Contact|<kunio.sayanagi@hamptonu.edu>, *раб.:* +1(757)728-67-45, Fax: +1(757)727-50-90; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(757)728-67-45, ℻: +1(757)727-50-90; *mobile:* <mark>nomobile</mark>|
 ||![](f/contact/s/sayanagi1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Physics with Minor in Atmospheric Sciences, Arizona University, 2007 / MS, Physics, Arizona University, 2004.

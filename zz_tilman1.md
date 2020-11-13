@@ -1,12 +1,11 @@
 # Tilman, Justin Eugene
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Представитель НАСА в РФ*|
 |:--|:--|
 |B‑day, addr.|1973.09.29 (Kansas City, Missouri, USA) / …|
-|E‑mail|<mark>noemail</mark>|
+|Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/t/tilman1_photo_thumb.jpg)](f/contact/t/tilman1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

@@ -1,18 +1,14 @@
 # Global Aerospace Corporation
-> 2019.01.18 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.01.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/g/gac_logo1_thumb.jpg)](f/contact/g/gac_logo1.png)|*12981 Ramona Blvd, Suite E, Irwindale, CA 91706-3750, US.*|
+|[![](f/contact/g/gac_logo1_thumb.jpg)](f/contact/g/gac_logo1.png)|<info@gaerospace.com>, +1(626)960-83-00, Fax: +1(626)960-83-37;<br> *12981 Ramona Blvd, Suite E, Irwindale, CA 91706-3750, US.*|
 |:--|:--|
-|E‑mail|<info@gaerospace.com>|
 |Link|<http://www.gaerospace.com/><br> <https://www.linkedin.com/company/global-aerospace-corp/><br> <https://www.facebook.com/pages/Global-Aerospace-Corporation/1649147128674779><br> <https://twitter.com/gaerospacecorp><br> <https://www.youtube.com/channel/UCqxMfdkNuUQLkvvE1cvkVRw>|
-|Tel|+1(626)960-83-00, ℻: +1(626)960-83-37|
 
 **Global Aerospace Corporation (GAC)** is a small, innovative aerospace research & development company with its main corporate office in Irwindale, CA (near the foothills northeast of Los Angeles). Global Aerospace Corporation does cutting edge aerospace R&D in the areas of space, undersea, lighter‑than‑air, re‑entry, defense, & power technologies; new concepts development; & software.
 
 
 <p style="page-break-after:always"> </p>
-
-## Global Aerospace Corporation, comments
 
 **Core Competencies:**
 

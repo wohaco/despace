@@ -1,5 +1,5 @@
 # Venus Flagship Mission
-> 2019.09.12 **[🚀](../index/index.md) [despace](index.md)** → **[Venus](venus.md))**, [Проекты](project.md)
+> 2019.09.12 [🚀](../index/index.md) [despace](index.md) → **[Venus](venus.md))**, [Проекты](project.md)
 
 [TOC]
 
@@ -77,7 +77,7 @@ Targets & objectives:
 |EVN‑025||Surface: structure.|||C||||
 |EVN‑026||Surface: elemental composition.|||C||||
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.||D|C|F|||
-|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑029||Is Venus geologically active?:||D|C|F|||
 |EVN‑034||Atmosphere: nature of the superrotation.||D|||||
 |EVN‑040||Were there oceans & why have they gone||D|C|F|||
 |EVN‑041||Common connection between the atmosphere & the surface.||D|||||
@@ -116,7 +116,7 @@ Findings from the report will be used in NASA’s program planning activities & 
 ## Venus Design Reference Mission
 The Venus Flagship Design Reference Mission (DRM) is optimized to achieve the highest number of high‑priority science goals & objectives of Venus exploration, & it is comprised of a highly capable orbiter ([EVN‑005](venus.md)), 2 balloons in the clouds ([EVN‑003](venus.md)), & 2 landers on different terrains ([EVN‑06](venus.md)).
 
-The orbiter would provide telecom relay support for the month‑long balloon campaign & for the two five‑hour landers ([EVN‑092](venus.md)) (not including the 1 hour descent phase). Following the telecom support phase, the orbiter would aerobrake into a 230‑km circular science‑mapping orbit for a two‑year mapping mission. Extremely high‑resolution radar & altimetry mapping would explore the surface at resolutions up to two orders of magnitude greater than was achieved with [Magellan](magellan.md) ([EVN‑022](venus.md)), opening a new door to studies of comparative geology. While the balloons circumnavigate the planet up to 7 times, they would continually sample gases & cloud aerosols ([EVN‑055](venus.md)) & measure the solar & thermal radiation within the clouds ([EVN‑019](venus.md)). The landers would perform descent science, obtaining atmospheric measurements in complementary vertical slices & taking images of the surface on the way down ([EVN‑093](venus.md)). While on the surface, they would perform high‑fidelity analyses of the elemental ([EVN‑026](venus.md)) & mineralogical ([EVN‑023](venus.md)) content of rocks & soils on & beneath the surface ([EVN‑088](venus.md)). Panoramic images ([EVN‑063](venus.md)) of the landing sites at an order of magnitude higher resolution than achieved with previous landers would provide geologic context for the landing & sampling sites ([EVN‑062](venus.md)). The mission concept requires two [Atlas V 551](atlas.md) launch vehicles in the 2020 ‑ 2025 timeframe: one for the orbiter, the other for the in situ vehicles & carrier. The preliminary cost analysis for the DRM gives a range of $2.7 B to $3.8 B in $FY09.
+The orbiter would provide telecom relay support for the month‑long balloon campaign & for the two five‑hour landers ([EVN‑092](venus.md)) (not including the 1 hour descent phase). Following the telecom support phase, the orbiter would aerobrake into a 230‑km circular science‑mapping orbit for a two‑year mapping mission. Extremely high‑resolution radar & altimetry mapping would explore the surface at resolutions up to two orders of magnitude greater than was achieved with [Magellan](magellan.md) ([EVN‑022](venus.md)), opening a new door to studies of comparative geology. While the balloons circumnavigate the planet up to 7 times, they would continually sample gases & cloud aerosols ([EVN‑055](venus.md)) & measure the solar & thermal radiation within the clouds ([EVN‑019](venus.md)). The landers would perform descent science, obtaining atmospheric measurements in complementary vertical slices & taking images of the surface on the way down ([EVN‑093](venus.md)). While on the surface, they would perform high‑fidelity analyses of the elemental ([EVN‑026](venus.md)) & mineralogical ([EVN‑023](venus.md)) content of rocks & soils on & beneath the surface ([EVN‑088](venus.md)). Panoramic images ([EVN‑063](venus.md)) of the landing sites at an order of magnitude higher resolution than achieved with previous landers would provide geologic context for the landing & sampling sites ([EVN‑062](venus.md)). The mission concept requires two [Atlas V 551](atlas.md) launch vehicles in the 2020 ‑ 2025 timeframe: one for the orbiter, the other for the in situ vehicles & carrier. The preliminary cost analysis for the DRM gives a range of $2.7 B to $3.8 B in $FY09.
 
 Clearly, the technological challenges for in situ exploration of Venus are high. The STDT considered mission architectures & payloads whose components & instruments could be at [Technical Readiness Level (TRL)](trl.md) 6 or higher by 2015. This ruled out a large number of scientifically promising approaches. Therefore, beyond the DRM, we considered the extra capabilities of a slightly enhanced mission that could be accommodated with the DRM architecture & entirely new capabilities for different architectures that would require a moderate, sustained technology program to achieve extraordinary science return from Venus.
 
@@ -128,10 +128,10 @@ The DRM accomplishes a very wide range of atmospheric, geologic, & geochemical i
 
 <p style="page-break-after:always"> </p>
 
-### Why Venus?
+### Why Venus?:
 There is a compelling motivation of great global concern for exploring Venus: *As we discover how climate & geology work on a world similar to our own, we gain a deeper understanding of the processes at work in our own environment.*
 
-With the realization that the Earth’s climate system is not sufficiently well understood, & the threat of accelerating anthropogenic changes to the atmosphere, comes a valid concern about the natural vulnerability of the world in which we have thrived. What are the limits of stability of the global system under the influence of human consumption & effluent? Could rapid or irreversible changes be triggered by the current unprecedented pace of greenhouse gas input to the atmosphere? Are there climate tipping points beyond which there is no return? To this last question, because of planetary exploration, we know the answer. Yes. Venus’ oceans boiled away in a dramatic runaway greenhouse & were eventually lost to space. If this happened to Venus, could it happen to Earth? Again, the answer is yes. Earth will someday pass the tipping point, its oceans will boil, & a desiccated, hot Earth will be like Venus today. We know this because main sequence stars like the Sun slowly increase in luminosity as their fuel is used up. Subtler discontinuities in climate, with real consequences for society, are certainly possible & climate feedbacks that might be difficult to discern in the Earth system might be illuminated by the deeper understanding of planetary climate gained by studying the climate of Venus.
+With the realization that the Earth’s climate system is not sufficiently well understood, & the threat of accelerating anthropogenic changes to the atmosphere, comes a valid concern about the natural vulnerability of the world in which we have thrived. What are the limits of stability of the global system under the influence of human consumption & effluent?: Could rapid or irreversible changes be triggered by the current unprecedented pace of greenhouse gas input to the atmosphere?: Are there climate tipping points beyond which there is no return?: To this last question, because of planetary exploration, we know the answer. Yes. Venus’ oceans boiled away in a dramatic runaway greenhouse & were eventually lost to space. If this happened to Venus, could it happen to Earth?: Again, the answer is yes. Earth will someday pass the tipping point, its oceans will boil, & a desiccated, hot Earth will be like Venus today. We know this because main sequence stars like the Sun slowly increase in luminosity as their fuel is used up. Subtler discontinuities in climate, with real consequences for society, are certainly possible & climate feedbacks that might be difficult to discern in the Earth system might be illuminated by the deeper understanding of planetary climate gained by studying the climate of Venus.
 
 Our great progress in exploring Mars illustrates how in‑depth exploration of a nearby terrestrial planet can successfully illuminate Earth processes. Mars’s dynamic surface, accessible to our eyes for centuries & comparatively benign as an environment for spacecraft exploration, has revealed how physics & chemistry have shaped another rocky world. This cold, dry planet has a history of water, climate, & potential habitability starkly different from our own. Other planets will, of course, offer radically different comparisons. Venus, too, we believe, had early oceans but lost this habitable environment for completely different reasons. Verifying & quantifying this story will immensely improve our understanding of how Earth‑like worlds come to be & how they might evolve to either encourage life or extinguish it. More immediately, the nature of climate feedbacks that might ultimately determine the physical safety & economic security of society must be understood. Some of the most revealing secrets to the formation of the solar system, the evolution of climate on our own planet, & the habitability of terrestrial planets around other stars can be found only on Venus. But the searching is difficult: Venus’ obscuring cloud layer & hostile environment have made it a challenging planet to explore.
 
@@ -144,11 +144,11 @@ Nevertheless, many of the scientific investigations that should be done to under
 <p style="page-break-after:always"> </p>
 
 ### VDRM Science Goals & Objectives
-Why is Venus so different from Earth ([EVN‑027](venus.md))? The science driving a flagship‑class mission to Venus can be summarized by its 3 themes. These themes & objectives are summarized in the table below.
+Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science driving a flagship‑class mission to Venus can be summarized by its 3 themes. These themes & objectives are summarized in the table below.
 
-   1. **What does the Venus greenhouse tell us about climate change?** ([EVN‑048](venus.md)) The Venus greenhouse is poorly understood because it is coupled to the still mysterious atmospheric dynamics & cloud physics. To better understand the atmosphere, experiments that simultaneously probe dynamics, chemical cycles, energy balance ([EVN‑019](venus.md)), & isotopic abundances must be performed, mostly in situ.
-   2. **How active is Venus?** ([EVN‑029](venus.md)) The search for Venus’ activity ranges from detecting active volcanic processes, to tracking the clouds & logging meteorological data such as the winds, pressures, & temperatures. Detecting ground movement at one location & monitoring the planet globally for seismic events are the most definitive tests for internal structure ([EVN‑020](venus.md)) & activity.
-   3. **When & where did the water go?** ([EVN‑050](venus.md)) Mineralogical ([EVN‑023](venus.md)) & chemical ([EVN‑026](venus.md)) analyses of Venus’ surface, if done with sufficient precision, have the potential to revolutionize our understanding of Venus’ geology. The ability to analyze both rocks & soils & to drill to depths within pristine rocks holds the key to past changes in atmo conditions, volcanism, & climate ([EVN‑042](venus.md), [EVN‑095](venus.md)). Volcanism, tectonism & weathering affect the climate of Earth in profound ways.
+   1. **What does the Venus greenhouse tell us about climate change?:** ([EVN‑048](venus.md)) The Venus greenhouse is poorly understood because it is coupled to the still mysterious atmospheric dynamics & cloud physics. To better understand the atmosphere, experiments that simultaneously probe dynamics, chemical cycles, energy balance ([EVN‑019](venus.md)), & isotopic abundances must be performed, mostly in situ.
+   2. **How active is Venus?:** ([EVN‑029](venus.md)) The search for Venus’ activity ranges from detecting active volcanic processes, to tracking the clouds & logging meteorological data such as the winds, pressures, & temperatures. Detecting ground movement at one location & monitoring the planet globally for seismic events are the most definitive tests for internal structure ([EVN‑020](venus.md)) & activity.
+   3. **When & where did the water go?:** ([EVN‑050](venus.md)) Mineralogical ([EVN‑023](venus.md)) & chemical ([EVN‑026](venus.md)) analyses of Venus’ surface, if done with sufficient precision, have the potential to revolutionize our understanding of Venus’ geology. The ability to analyze both rocks & soils & to drill to depths within pristine rocks holds the key to past changes in atmo conditions, volcanism, & climate ([EVN‑042](venus.md), [EVN‑095](venus.md)). Volcanism, tectonism & weathering affect the climate of Earth in profound ways.
 
 |*Science Theme*|*Science Objective*|
 |:--|:--|
@@ -160,39 +160,39 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))? The science drivin
 
 **Venus atmosphere**
 
-   - How did Venus evolve to become so different from Earth?
-   - Was Venus ever habitable, & for how long?
-   - Did Venus lose a primary atmosphere due to impacts or loss to space?
-   - What drives Venus’ atmospheric superrotation?
-   - How do geologic activity & chemical cycles affect the clouds & climate?
-   - How are atmospheric gases lost to space?
+   - How did Venus evolve to become so different from Earth?:
+   - Was Venus ever habitable, & for how long?:
+   - Did Venus lose a primary atmosphere due to impacts or loss to space?:
+   - What drives Venus’ atmospheric superrotation?:
+   - How do geologic activity & chemical cycles affect the clouds & climate?:
+   - How are atmospheric gases lost to space?:
 
 **Venus geology**
 
-   - What is the volcanic & tectonic resurfacing history of Venus?
-   - How were the heavily deformed highlands made?
-   - Is Venus geologically active?
-   - Did Venus ever have plate tectonics & if so, when did it cease?
-   - How are geology & climate connected on Venus?
-   - What has been the role of water & other volatiles in Venus geology?
+   - What is the volcanic & tectonic resurfacing history of Venus?:
+   - How were the heavily deformed highlands made?:
+   - Is Venus geologically active?:
+   - Did Venus ever have plate tectonics & if so, when did it cease?:
+   - How are geology & climate connected on Venus?:
+   - What has been the role of water & other volatiles in Venus geology?:
 
 **Venus interior structure**
 
-   - Does Venus have Earth‑like continents?
-   - What are the chemical, physical, & thermal conditions of the interior?
-   - How does mantle convection work on Venus?
-   - What is the size & physical state of the core?
-   - What is the structure of the Venus lithosphere?
-   - How have water & other volatiles affected Venus’ interior evolution?
+   - Does Venus have Earth‑like continents?:
+   - What are the chemical, physical, & thermal conditions of the interior?:
+   - How does mantle convection work on Venus?:
+   - What is the size & physical state of the core?:
+   - What is the structure of the Venus lithosphere?:
+   - How have water & other volatiles affected Venus’ interior evolution?:
 
 **Venus geochemistry**
 
-   - Was there ever an ocean on Venus, & if so, when & how did it disappear?
-   - What caused the resurfacing of Venus over the past billion years?
-   - What is the nature of chemical interactions between surface & atmosphere?
-   - What are the tectonic forces behind Venus’ volcanism?
-   - How were the rocks & soils of Venus formed?
-   - What do chemical differences of terrains say about the evolution of Venus?
+   - Was there ever an ocean on Venus, & if so, when & how did it disappear?:
+   - What caused the resurfacing of Venus over the past billion years?:
+   - What is the nature of chemical interactions between surface & atmosphere?:
+   - What are the tectonic forces behind Venus’ volcanism?:
+   - How were the rocks & soils of Venus formed?:
+   - What do chemical differences of terrains say about the evolution of Venus?:
 
 
 
@@ -368,7 +368,7 @@ As a consequence, in 1968, Soviet & American scientists met in Tucson, Arizona, 
 
 Mariner 10 was launched in 1973, & it was the seventh successful launch in the Mariner series & the first spacecraft to visit Mercury. It was also the first spacecraft to use the gravitational pull of one planet (Venus) to reach another (Mercury), & the first spacecraft mission to visit two planets. The spacecraft flew by Mercury three times in a retrograde heliocentric orbit & returned images & data on the planet. Mariner 10 returned the first‑ever close‑up images of Venus & Mercury. The primary scientific objectives of the mission were to measure Mercury’s environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus. Secondary objectives were to perform experiments in the interplanetary medium & to obtain experience with a dual‑planet gravity‑assist mission.
 
-For further details, see:   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1967-060A> (for Mariner 5), &   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1973-085A> (for Mariner 10)
+For further details, see:   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1967-060A> (for Mariner 5), &   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1973-085A> (for Mariner 10)
 
 ![](f/project/v/venus_flagship_mission/vfm_20.jpg)
 
@@ -547,7 +547,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 **Past:**
 
-   - [Mariner 10 fly‑by Mission ⎆](http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1973-085A)
+   - [Mariner 10 fly‑by Mission ⎆](http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?:sc=1973-085A)
    - [Pioneer-Venus Probes Mission ⎆](http://www.nasa.gov/mission_pages/pioneer-venus/index.html)
    - [Magellan Orbiter Mission ⎆](http://www2.jpl.nasa.gov/magellan/)
 
@@ -589,7 +589,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 <br><br><br><p style="page-break-after:always"> </p>
 
 ## Docs & links
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

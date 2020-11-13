@@ -1,12 +1,11 @@
 # Lefort, Jayne
-> 2019.10.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md), EU(FR).*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1976  / …|
+|Contact|<Jayne.Lefort@sciops.esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<Jayne.Lefort@sciops.esa.int>|
-|B‑day, addr.|<mark>nodate</mark> 1976 ? / …|
 ||[![](f/contact/l/lefort1_photo_thumb.jpg)](f/contact/l/lefort1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** MS, Spacecraft Technology and Satellite Communications, UCL, 1999. BS, Physics, University of Liverpool, 1997.

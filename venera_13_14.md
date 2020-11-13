@@ -1,5 +1,5 @@
 # Venera 13, 14
-> 2019.12.16 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.12.16 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -30,7 +30,7 @@
 |Comms|Orbiter: high‑gain parabolic antenna|
 |Composition|Orbiter / Lander|
 |Contractor|…|
-|[ID](spaceid.md)|**Venera 13:** NSSDC ID (COSPAR ID): [1981-106A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106A), [1981-106D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-106D), SCN: [12927 ⎆](http://www.n2yo.com/satellite/?s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?s=15599)<br> **Venera 14:** NSSDC ID (COSPAR ID): [1981-110A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110A), [1981-110D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-110D), SCN: [12939 ⎆](http://www.n2yo.com/satellite/?s=12939), [15600 ⎆](http://www.n2yo.com/satellite/?s=15600)|
+|[ID](spaceid.md)|**Venera 13:** NSSDC ID (COSPAR ID): [1981-106A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-106A), [1981-106D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-106D), SCN: [12927 ⎆](http://www.n2yo.com/satellite/?:s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?:s=15599)<br> **Venera 14:** NSSDC ID (COSPAR ID): [1981-110A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-110A), [1981-110D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-110D), SCN: [12939 ⎆](http://www.n2yo.com/satellite/?:s=12939), [15600 ⎆](http://www.n2yo.com/satellite/?:s=15600)|
 |Manufacturer|NPO Lavochkin|
 |Mass|**Venera 13** Launch: 4 397.85 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg<br> **Venera 14** Launch: 4 394.5 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg|
 |Orbit / Site|**Venera 13:** Heliocentric 0.70 x 0.99 AU; i = 2.3°; T = 285 days<br> **Venera 14:** Heliocentric 0.71 x 0.99 AU; i = 2.3°; T = 286 days|
@@ -95,7 +95,7 @@ The nephelometer data on the structure and microphysical characteristics of the 
 
 The humidity sensor showed ten times more water content in the atmosphere than was obtained by spectrometric method in the range of heights from 46 to 50 km. the Amount of water vapor at an altitude of 48 km was estimated at 0.2 %.
 
-New mass-spectrometer data showed an increased neon content at altitudes from 26 km to the surface. The ratio of 40argon/36argon is 4 times lower than the Earth’s. The gas chromatograph recorded several new and refined contents of previously detected atmospheric gas constituents, including molecular hydrogen, hydrogen sulfide, and carbonyl sulfide. Other reported components included molecular oxygen, water vapor, krypton, and sulfur hexafluoride ([EVN‑077](venus.md)).
+New mass-spectrometer data showed an increased neon content at altitudes from 26 km to the surface. The ratio of 40argon/36argon is 4 times lower than the Earth’s. The gas chromatograph recorded several new and refined contents of previously detected atmospheric gas constituents, including molecular hydrogen, hydrogen sulfide, and carbonyl sulfide. Other reported components included molecular oxygen, water vapor, krypton, and sulfur hexafluoride ([EVN‑077](venus.md)).
 
 **Surface**
 
@@ -211,7 +211,7 @@ Orbiter payload mass: 92 kg.
    - Accelerometer **Bison-M** to measure the density of the atmosphere from the fly‑by orbit to 63 km to analyze the landing pattern of the lander;
    - Temperature and pressure sensors **ITD**;
    - Gas chromatograph **Sigma-2** to study the chemical composition of the atmosphere ([EVN‑014](venus.md)). It was equipped with a detector that could detect more atmospheric components and was capable of operating in the cloud layer;
-   - Mass spectrometer **MKh-6411** to study the chemical and isotopic composition of the atmosphere ([EVN‑077](venus.md)). The upgraded mass spectrometer provided significantly better resolution (2 to 40 times) and 10 to 30 times greater sensitivity. The reason for the anomalous measurement of krypton during the 1978 program was understood and appropriate changes were made;
+   - Mass spectrometer **MKh-6411** to study the chemical and isotopic composition of the atmosphere ([EVN‑077](venus.md)). The upgraded mass spectrometer provided significantly better resolution (2 to 40 times) and 10 to 30 times greater sensitivity. The reason for the anomalous measurement of krypton during the 1978 program was understood and appropriate changes were made;
    - Hygrometer **VM-3R** for measuring the content of water vapor in the atmosphere. The humidity sensor was not installed in previous missions;
    - Backscatter Nephelometer **MNV-78-2** — determined the structure of the atmosphere ([EVN‑017](venus.md)) to study the spatial heterogeneity of cloud layers in different regions of the planet ([EVN‑016](venus.md));
    - [X‑ray fluorescence (XRF)](xrf.md) spectrometer **BDRA-1V** for the study of the elemental composition of aerosols ([EVN‑018](venus.md));
@@ -306,7 +306,7 @@ The cameras were installed inside the airtight and thermally insulated compartme
 <p style="page-break-after:always"> </p>
 
 ## Docs & links
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

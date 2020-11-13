@@ -1,19 +1,15 @@
 # Canadensys
-> 2019.08.14 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/c/canadensys_logo1_thumb.jpg)](f/contact/c/canadensys_logo1.png)|*Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*|
+|[![](f/contact/c/canadensys_logo1_thumb.jpg)](f/contact/c/canadensys_logo1.png)|<mark>noemail</mark>, +1(514)343-61-11, Fax: …;<br> *Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.canadensys.com/><br> <https://community.canadensys.net/><br> <https://www.linkedin.com/company/canadensys-aerospace-corporation/><br> <https://twitter.com/canadensys>|
-|Tel|+1(514)343-61-11, ℻: …|
 
 **Canadensys Aerospace Corporation** is a space systems & services company with a focus on accessible space. The company is founded on heritage & expertise that spans a number of Canada’s historic space achievements of the last 3 decades, blending them with micro & nano space technology, & modern, commercial business models for effective space program & mission development.
 
 
 
 <p style="page-break-after:always"> </p>
-
-## Canadensys, comments
 
 The management team at Canadensys is anchored by veterans of the Canadian aerospace sector with executives having multiple decades of experience from both agency & industry sides of NASA, CSA & ESA’s human spaceflight, ISS & space exploration programs.  
 All staff have flight mission experience with heritage spanning the range of spaceflight & space robotic programs, from the Canadarm ISS robotics & planetary instruments successfully deployed on the surface of Mars to industry‑leading microsatellite & micro‑payload technologies.  

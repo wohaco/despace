@@ -1,12 +1,11 @@
 # Коптев, Юрий Николаевич
-> 2020.01.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.01.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Ростех, RU. Руководитель Группы советников, член Правления, председатель Научно‑технического совета*|
 |:--|:--|
-|i18n|Koptev, Yuri Nikolayevich|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<https://ru.wikipedia.org/wiki/Коптев,_Юрий_Николаевич>|
 |B‑day, addr.|1940.03.13 Ставрополь / Москва|
+|Contact|<https://ru.wikipedia.org/wiki/Коптев,_Юрий_Николаевич>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|Koptev, Yuri Nikolayevich|
 ||[![](f/contact/k/koptev1_photo_thumb.jpg)](f/contact/k/koptev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …

@@ -1,12 +1,11 @@
 # Wilson, Colin F.
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Oxford Univ.](oxford_univ.md), EU. Department of Physics*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
-|E‑mail|<Colin.Wilson@physics.ox.ac.uk>|
+|Contact|<Colin.Wilson@physics.ox.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||![](f/contact/w/wilson1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
@@ -19,7 +18,7 @@
    - Instagram: <mark>noin</mark>
    - LinkedIn: <https://www.linkedin.com/in/colin-wilson-51408520>
    - Twitter: <https://twitter.com/planetarycolin>
-   - <https://scholar.google.com/citations?user=9GFpkdMAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=9GFpkdMAAAAJ&hl=en>
    - <https://www2.physics.ox.ac.uk/contacts/people/wilsonc>
    - <https://www.researchgate.net/profile/Colin_Wilson5>
    - **As a person:**

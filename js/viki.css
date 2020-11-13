@@ -1,37 +1,13 @@
-body {
-    font-family: Verdana, "DejaVu Sans Condensed", "DejaVu Sans Mono", Helvetica, sans-serif, Tahoma, Arial, Geneva, Georgia, Palatino, "Times New Roman", "Hiragino Sans GB", "冬青黑体", "Microsoft YaHei", "微软雅黑", "Microsoft YaHei UI", "WenQuanYi Micro Hei", "文泉驿雅黑", Dengxian, "等线体", STXihei, "华文细黑", "Liberation Sans", "Droid Sans", NSimSun, "新宋体", SimSun, "宋体";
-    color: #222222;
-    line-height: 1.15;
-    background: #F5F5F5;
-    font-size: 13px;
-}
+body {font-family: Tahoma, Arial, Helvetica, Verdana, sans-serif; color: #222222; line-height: 1.15; background: #F5F5F5; font-size: 13.5px;}
 
-a {
-    word-break: normal;
-    color: #1100D5;
-}
+a {word-break: normal; color: #1100D5;}
 
-.viki-img-package {
-    text-align: left;
-}
+ul, ol {padding-left: 25px; margin-top:-14px}
+li ul, li ol {margin-left: 0; margin-top:1px}
 
-img.viki-img-center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-span.viki-img-caption {
-    min-width: 20%;
-    max-width: 80%;
-    display: inline-block;
-    padding: 10px;
-    margin: 0 auto;
-    border-bottom: 1px solid #c0c0c0;
-    color: #6c6c6c;
-    text-align: left;
-    line-height: 1.5;
-}
+.viki-img-package {text-align: left;}
+img.viki-img-center {display: block; margin-left: auto; margin-right: auto;}
+span.viki-img-caption {min-width: 20%; max-width: 80%; display: inline-block; padding: 10px; margin: 0 auto; border-bottom: 1px solid #c0c0c0; color: #6c6c6c; text-align: left; line-height: 1.5;}
 
 /* View Image */
 .viki-view-image,.viki-view-svg {
@@ -106,7 +82,7 @@ pre {
 }
 
 code {
-    font-family: DejaVu Sans Mono, Consolas, Monaco, Monospace, Courier;
+    font-family: Courier, DejaVu Sans Mono, Consolas, Monaco, Monospace;
     color: #8E24AA;
     word-break: break-all;
 }
@@ -118,7 +94,7 @@ pre code {
     color: #222222;
     background-color: #E0E0E0;
     border-left: .5em solid #00897B;
-    font-family: DejaVu Sans Mono, Consolas, Monaco, Monospace, Courier;
+    font-family: Courier, DejaVu Sans Mono, Consolas, Monaco, Monospace;
     white-space: pre;
 }
 
@@ -171,7 +147,7 @@ table {
 }
 
 table tr {
-   border-top: 2px solid #cccccc;
+   border-top: 1px solid #c6c6c6;
    background-color: white;
    margin: 0;
    padding: 0;
@@ -185,16 +161,16 @@ table tr:nth-child(2n) {
 
 table tr th {
    font-weight: bold;
-   border: 2px solid #cccccc;
+   border: 1px solid #c6c6c6;
    margin: 0;
-   padding: 1px 3px;
+   padding: 1px 1px;
    vertical-align: top;
 }
 
 table tr td {
-   border: 2px solid #cccccc;
+   border: 1px solid #c6c6c6;
    margin: 0;
-   padding: 1px 3px;
+   padding: 1px 1px;
    vertical-align: top;
 }
 
@@ -224,7 +200,6 @@ table.hljs-ln tr td.hljs-ln-numbers {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-
     text-align: center;
     color: #AAA;
     border-right: 1px solid #CCC;

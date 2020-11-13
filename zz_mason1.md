@@ -1,12 +1,11 @@
 # Mason, Philippa J.
-> 2019.10.19 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.19 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Imperial College, UK. Dept of Earth Science & Engineering. Senior Teaching Fellow*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1966  / …|
+|Contact|<p.j.mason@imperial.ac.uk>, *work:* +44(0)20-7594-6528; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +44(0)20-7594-6528; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<p.j.mason@imperial.ac.uk>|
-|B‑day, addr.|<mark>nodate</mark> 1966 ? / …|
 ||[![](f/contact/m/mason1_photo_thumb.jpg)](f/contact/m/mason1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Imperial College London, Geology, GIS & Remote Sensing, 1994 ‑ 1997. MS, Remote Sensing, UCL, 1992 ‑ 1993. BS, Geology, University of Southampton, 1984 ‑ 1987.

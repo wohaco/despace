@@ -1,12 +1,11 @@
 # Мороз, Василий Иванович
-> 2019.11.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ГАИШ МГУ](zz_sai_msu.md), SU. Профессор*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel||
-|E‑mail||
 |B‑day, addr.|1931.05.20 ‑ 2004.06.23 / Москва, Россия|
+|Contact|, |
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/m/moroz1_photo_thumb.jpg)](f/contact/m/moroz1_photo.jpg)|
 
    - **[Education](edu.md):** Доктор физико‑математических наук, МГУ.

@@ -1,12 +1,11 @@
 # Byrne, Paul K.
-> 2019.07.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NCSU](zz_ncsu.md), EU. Assistant Professor*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(919)513-25-78; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<paul.byrne@ncsu.edu>|
 |B‑day, addr.|<mark>nodate</mark> 1984 / …|
+|Contact|<paul.byrne@ncsu.edu>, *раб.:* +1(919)513-25-78; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/b/byrne1_photo_thumb.jpg)](f/contact/b/byrne1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Planetary Geology, Trinity College Dublin, 2010. BA (Mod.) Hons., Geology, Trinity College Dublin, 2005.
@@ -21,7 +20,7 @@
    - Twitter: <https://twitter.com/theplanetaryguy>
    - <https://cnr.ncsu.edu/geospatial/directory/paul-byrne/>
    - <https://meas.sciences.ncsu.edu/people/pkbyrne/>
-   - <https://scholar.google.com/citations?user=Lb6BrKEAAAAJ&hl>
+   - <https://scholar.google.com/citations?:user=Lb6BrKEAAAAJ&hl>
    - <https://www.researchgate.net/scientific-contributions/58872363_Paul_K_Byrne>
    - <http://www.planetary.org/connect/our-experts/profiles/paul-byrne.html>
    - **As a person:**

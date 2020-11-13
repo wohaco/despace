@@ -1,19 +1,15 @@
 # JEPICO
-> 2020.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jepico_corp_logo1_thumb.jpg)](f/contact/j/jepico_corp_logo1.png)|*Shinjuku Front Tower, 21-1,Kita-Shinjuku 2-Chome, Shinjuku-Ku,Tokyo 169-0074, Japan*|
+|[![](f/contact/j/jepico_corp_logo1_thumb.jpg)](f/contact/j/jepico_corp_logo1.png)|<mark>noemail</mark>, +81-3-6386-0611, +81-3-5386-8234, Fax: …;<br> *Shinjuku Front Tower, 21-1,Kita-Shinjuku 2-Chome, Shinjuku-Ku,Tokyo 169-0074, Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://www.jepico.co.jp/>|
-|Tel|+81-3-6386-0611, +81-3-5386-8234, ℻: …|
 
 **JEPICO Corporation** is a service‑oriented import distributor of electric components, single board computers & system level products for markets both within Japan & globally. Founded in 1972.11.17.
 
 JEPICO has also developed Custom LSI, Module, Board & engages in system integration. JEPICO has the knowledge & experience to handle a wide variety of transactions as needed to succeed within the international trade environment. As JEPICO is admitted Export License, it contributes to a smooth trading. The products we provide can be found across the Aerospace, Defense & high‑end Industry Markets. JEPICO has developed a reputation for high reliability, targeting niche & focused markets that depend on that extra effort.
 
 <p style="page-break-after:always"> </p>
-
-## JEPICO, comments
 
 Market:
 

@@ -1,12 +1,11 @@
 # Сагдеев, Роальд Зиннурович
-> 2019.11.16 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.11.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*UMD, US. Профессор*|
 |:--|:--|
 |B‑day, addr.|1932.12.26 Москва, СССР / …|
-|E‑mail|<mark>noemail</mark>|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Sagdeev, Roald Zinnurovich|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/s/sagdeev1_photo_thumb.jpg)](f/contact/s/sagdeev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** Академик РАН (1991, академик АН СССР с 1968 года, член‑корреспондент АН СССР с 1964 года). Доктор физико‑математических наук.

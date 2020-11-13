@@ -1,12 +1,11 @@
 # Pickering, Andrew
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESA](zz_esa.md) CDF, EU. Technical Author participating in design studies & writing reports on future ESA missions*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
-|E‑mail|<Andrew.Pickering@esa.int>|
+|Contact|<Andrew.Pickering@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||![](f/contact/p/pickering1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

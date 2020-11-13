@@ -1,12 +1,11 @@
 # Imamura, Takeshi
-> 2019.10.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Faculty of Science & Technology, Liberal Arts. Department of Complexity Science & Engineering / Planetary atmospheres, Planetary exploration. Professor*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* +81(4)7124-15-01; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<ima@isas.jaxa.jp>|
 |B‑day, addr.|<mark>nodate</mark> 1969 / …|
+|Contact|<ima@isas.jaxa.jp>, *work:* +81(4)7124-15-01; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/i/imamura1_photo_thumb.jpg)](f/contact/i/imamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1998.
@@ -20,7 +19,7 @@
    - LinkedIn: <https://www.linkedin.com/in/takeshi-imamura-82478b123/>
    - Twitter: <mark>notw</mark>
    - <https://tus.elsevierpure.com/en/persons/takeshi-imamura>
-   - <https://www.tus.ac.jp/en/fac/p/index.php?43cc>
+   - <https://www.tus.ac.jp/en/fac/p/index.php?:43cc>
    - <https://www.k.u-tokyo.ac.jp/pros-e/person/takeshi_imamura/takeshi_imamura.htm>
    - <http://www.astrobio.k.u-tokyo.ac.jp/imamura/>
    - <https://global.jaxa.jp/article/2016/interview/vol95/>

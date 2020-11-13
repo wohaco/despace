@@ -1,12 +1,11 @@
 # Lewis, Neil Tamas
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Oxford Univ.](oxford_univ.md), EU. DPhil Student*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* +44(7810)436-705|
-|E‑mail|<neil.lewis@physics.ox.ac.uk>|
 |B‑day, addr.|1996.04.22 (Pembury, Kent, UK) / Winchcombe, Gloucestershire, UK|
+|Contact|<neil.lewis@physics.ox.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* +44(7810)436-705|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/l/lewis1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
@@ -20,6 +19,6 @@
    - LinkedIn: <https://www.linkedin.com/in.neil-lewis-181622178>
    - Twitter: <mark>notw</mark>
    - <https://www2.physics.ox.ac.uk/contacts/people/lewis>
-   - <https://scholar.google.co.uk/citations?user=6TR2vckAAAAJ&hl=en>
+   - <https://scholar.google.co.uk/citations?:user=6TR2vckAAAAJ&hl=en>
    - **As a person:**
       1. …

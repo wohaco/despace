@@ -1,12 +1,11 @@
 # Royer, Emilie
-> 2019.07.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LASP](zz_lasp.md), US. Research Associate*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1984 / …|
-|E‑mail|<emilie.royer@colorado.edu>, <emilieroyer@psi.edu>|
+|Contact|<emilie.royer@colorado.edu>, <emilieroyer@psi.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||![](f/contact/r/royer1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrophysics, 2011, Uiversité Paris VI, France. MS, Planetary Science, 2007, University Paris VI, France.

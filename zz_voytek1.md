@@ -1,12 +1,11 @@
 # Voytek, Mary
-> 2019.07.18 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Headquarters. Director of the Astrobiology Program*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1959 / …|
-|E‑mail|<mary.voytek-1@nasa.gov>|
+|Contact|<mary.voytek-1@nasa.gov>, *раб.:* +1(202)358-15-77, Fax: +1(202)358-30-97; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(202)358-15-77, ℻: +1(202)358-30-97; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/v/voytek1_photo_thumb.jpg)](f/contact/v/voytek1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biology/Ocean Sciences, California Univ., 1995. MS, Biological Oceanography, Rhode Island Univ., 1984. BA, Biology, J. Hopkins Univ., 1980.
@@ -20,7 +19,7 @@
    - LinkedIn: <https://www.linkedin.com/in/mary-voytek-01118a31>
    - Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Mary_Voytek>
-   - <https://scholar.google.co.jp/citations?user=VrcyXmgAAAAJ&hl=en>
+   - <https://scholar.google.co.jp/citations?:user=VrcyXmgAAAAJ&hl=en>
    - <https://nai.nasa.gov/directory/voytek-mary/>
    - **As a person:**
       1. …

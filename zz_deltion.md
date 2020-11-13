@@ -1,11 +1,9 @@
 # Deltion Innov. Ltd
-> 2019.08.26 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.26 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/d/deltion_logo1_thumb.jpg)](f/contact/d/deltion_logo1.png)|*1-26 Meehan St, Capreol, ON P0M 1H0, Canada*|
+|[![](f/contact/d/deltion_logo1_thumb.jpg)](f/contact/d/deltion_logo1.png)|<mark>noemail</mark>, +1(705)824-15-00, Fax: +1(705)858-69-47;<br> *1-26 Meehan St, Capreol, ON P0M 1H0, Canada*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://www.deltion.ca/><br> <https://www.facebook.com/DeltionInnovations/>|
-|Tel|+1(705)824-15-00, ℻: +1(705)858-69-47|
 
 **Deltion Innovations Ltd** is a technology development company specializing in automation & robotics with a focus on new product development, troubleshooting & existing product improvement for the resource sector.  We have decades of electromechanical design experience derived from the mining & pulp & paper sectors.  We apply this to other sectors, including mining in space.  A key goal of our mining in space work is to spin back the technologies developed to improve productivity & safety in the resource sector.
 
@@ -13,8 +11,6 @@ Since 1999, we have been developing capabilities related to the prospecting for,
 
 
 <p style="page-break-after:always"> </p>
-
-## Deltion Innov. Ltd, comments
 
    - cost effective solutions
    - leading edge technology though work with NASA & Canadian Space Agency

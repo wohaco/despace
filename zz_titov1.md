@@ -1,12 +1,11 @@
 # Titov, Dmitri
-> 2019.09.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.09.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ESTEC](zz_estec.md), RU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
-|E‑mail|<dmitri.titov@esa.int>|
+|Contact|<dmitri.titov@esa.int>, *work:* +31(71)565-37-70; *mobile:* <mark>nomobile</mark>|
 |i18n|Титов, Дмитрий|
-|Tel|*work:* +31(71)565-37-70; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/t/titov1_photo_thumb.jpg)](f/contact/t/titov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …

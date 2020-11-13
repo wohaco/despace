@@ -1,12 +1,11 @@
 # Komatsu, Goro
-> 2019.10.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[IRSPS](zz_irsps.md), EU. Dipartimento di Ingegneria e Geologia (InGeo). Senior Scientist*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1966  / …|
+|Contact|<goro@irsps.unich.it>, <goro.komatsu@unich.it>, *work:* +39(085)453-78-84; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +39(085)453-78-84; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<goro@irsps.unich.it>, <goro.komatsu@unich.it>|
-|B‑day, addr.|<mark>nodate</mark> 1966 ? / …|
 ||[![](f/contact/k/komatsu1_photo_thumb.jpg)](f/contact/k/komatsu1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):**  PhD, Planetary Sciences, University of Arizona, Tucson, Arizona, US, 1993. BS, Earth Sciences, Waseda University, Tokyo, Japan, 1988.
@@ -20,7 +19,7 @@
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
    - <https://www.irsps.it/goro-komatsu.html>
-   - <https://scholar.google.com/citations?user=GFMhh64AAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=GFMhh64AAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Goro_Komatsu>
    - **As a person:**
       1. …

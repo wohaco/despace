@@ -1,12 +1,11 @@
 # Head, James W. Ⅲ
-> 2019.07.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Brown Univ.](brown_univ.md), US. Distinguished Professor of Geological Sciences*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(401)863-25-26; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<James_Head@brown.edu>|
 |B‑day, addr.|<mark>nodate</mark> 1943 / …|
+|Contact|<James_Head@brown.edu>, *раб.:* +1(401)863-25-26; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/h/head1_photo_thumb.jpg)](f/contact/h/head1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/h/head1_cv.pdf)**. PhD, Brown Univ., 1969. BS, Washington & Lee Univ., 1964.
@@ -21,6 +20,6 @@
    - Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/James_W._Head>
    - <http://planetary.brown.edu/html_pages/head.htm>
-   - <https://scholar.google.com/citations?user=GgICCQIAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=GgICCQIAAAAJ&hl=en>
    - **As a person:**
       1. …

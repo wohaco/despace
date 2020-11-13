@@ -1,5 +1,5 @@
 # Датчик
-> 2019.05.12 **[🚀](../index/index.md) [despace](index.md)** → **[Датчик](sensor.md)**
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[Датчик](sensor.md)**
 
 [TOC]
 
@@ -23,7 +23,7 @@
 
 |*Тип датчика*|*Масса, г*|<small>*Электро‑<br> потребление, А*</small>|<small>*Напря&shy;жение,<br> В*</small>|<small>*Диапазон<br> измерений*</small>|<small>*Погреш&shy;ность<br> измерений*</small>|
 |:--|:--|:--|:--|:--|:--|
-|**Давления,<br> аналоговый**|180 ‑ 250 (L<sub>кабеля</sub> 400 мм)|0.01 ‑ 0.046|6.5|0 ‑ 140 кгс/cm²|2.5 %|
+|**Давления,<br> аналоговый**|180 ‑ 250 (L<sub>кабеля</sub> 400 мм)|0.01 ‑ 0.046|6.5|0 ‑ 140 kgf/cm²|2.5 %|
 |**Давления,<br> цифровой**||||||
 |**Температурный,<br> аналоговый**|9 (L<sub>кабеля</sub> 400 мм);<br> 12 (L<sub>кабеля</sub> 1 000 мм);<br> 22 (L<sub>кабеля</sub> 2 000 мм)|0.0035 за 10 мс|12|–199 ‑ +200 ℃|1 %|
 |**Температурный,<br> цифровой**|9.3 (L<sub>кабеля</sub> 300 мм);<br> 13.2 (L<sub>кабеля</sub> 800 мм);<br> 24 (L<sub>кабеля</sub> 1 500 мм)|0.0015 за  750 мс|12|–120 ‑ +150 ℃|0.1 %|
@@ -79,7 +79,7 @@
 
 В конце 1980‑х начали применяться широкопольные датчики на основе ПЗС‑матриц, которые сравнивают полученное изображение звёздного неба с имеющимся в памяти звёздным каталогом. Датчик может быть как автономным прибором, содержащим блок обработки данных, так и использовать для этой цели вычислительные мощности [бортовой ЭВМ](obc.md).
 
-|*°*|*[Фирма](contact.md)*|*Модели ЗД (масса, кг)*|
+|*°*|*[Фирма](contact.md)*|*Модели ЗД (масса, kg)*|
 |:--|:--|:--|
 |**EU**|[Leonardo](leonardo.md)|[A-STR](a_str.md) (3.55) ┊ [AA-STR](aa_str.md) (2.6)|
 ||[Jena‑Optronik](zz_jenaoptronik.md)|[ASTRO 15](astro_15.md) (6.15) ┊ [ASTRO 10](astro_10.md) (3.8) ┊ [ASTRO APS](astro_aps.md) (2)|
@@ -172,7 +172,7 @@ There are various types of sun sensors, which differ in their technology and per
 
 In typical sun sensors, a thin slit at the top of a rectangular chamber allows a line of light to fall on an array of photodetector cells at the bottom of the chamber. A voltage is induced in these cells, which is registered electronically. By orienting two sensors perpendicular to each other, the direction of the sun can be fully determined. Often, multiple sensors will share processing electronics.
 
-|*°*|*[Фирма](contact.md)*|*Модели СД (масса, кг)*|
+|*°*|*[Фирма](contact.md)*|*Модели СД (масса, kg)*|
 |:--|:--|:--|
 |**EU**|[Bradford](zz_bradford_eng.md)|[FSS](fss.md) (0.05 ‑ 0.375) ┊ [CSS](css.md) (0.275) ┊ [CoSS](coss.md) (0.015 ‑ 0.024)|
 ||[Jena‑Optronik](zz_jenaoptronik.md)|[FSS](fss_jo.md) (0.65)|
@@ -208,11 +208,11 @@ Etc:
    - <https://lens-rnd.com/sun-sensors/>
    - <https://www.cgsatellite.com/>
    - <http://lasp.colorado.edu/home/wp-content/uploads/2018/07/700.Fine-Sun-Sensor.pdf>
-   - <http://www.vniiem.ru/ru/index.php?option=com_content&view=article&id=705:2015-08-04-07-29-07&catid=98:2015-08-04-07-15-09&Itemid=62>
+   - <http://www.vniiem.ru/ru/index.php?:option=com_content&view=article&id=705:2015-08-04-07-29-07&catid=98:2015-08-04-07-15-09&Itemid=62>
 
 **Кубсаты:**
 
-|*°*|*[Фирма](contact.md)*|*Модели СД для кубсатов (масса, кг)*|
+|*°*|*[Фирма](contact.md)*|*Модели СД для кубсатов (масса, kg)*|
 |:--|:--|:--|
 |**US**|[Space Micro](space_micro.md)|[MSS](mss_sm.md) (0.036) ┊ [CSS](css_sm.md) (0.02)|
 
@@ -224,7 +224,7 @@ Etc:
 <p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

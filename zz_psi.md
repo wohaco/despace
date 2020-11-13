@@ -1,11 +1,9 @@
 # PSI
-> 2019.08.09 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/p/psi_logo1_thumb.jpg)](f/contact/p/psi_logo1.png)|*1700 East Fort Lowell, Suite 106, Tucson, AZ 85719-2395, USA*|
+|[![](f/contact/p/psi_logo1_thumb.jpg)](f/contact/p/psi_logo1.png)|<mark>noemail</mark>, +1(520)622-63-00, Fax: +1(520)622-80-60;<br> *1700 East Fort Lowell, Suite 106, Tucson, AZ 85719-2395, USA*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://www.psi.edu/><br> <https://en.wikipedia.org/wiki/Planetary_Science_Institute><br> <https://ru.wikipedia.org/wiki/Планетологический_институт_США>|
-|Tel|+1(520)622-63-00, ℻: +1(520)622-80-60|
 
 **Планетологический институт США (англ. Planetary Science Institute (PSI))** — научно‑исследовательский институт, основанный в Тусоне, штат Аризона. C момента его создания ориентирован на планетологию.
 
@@ -13,8 +11,6 @@
 
 
 <p style="page-break-after:always"> </p>
-
-## PSI, comments
 
 The **Planetary Science Institute** is a private, [nonprofit 501(c)(3) corporation](nonprof_org.md) dedicated to Solar System exploration. It is headquartered in Tucson, AZ, where it was founded in 1972. In 2016 PSI established a second office in Lakewood, CO (near Denver).
 

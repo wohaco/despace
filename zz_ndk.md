@@ -1,11 +1,9 @@
 # Nihon Dempa Kogyo
-> 2020.07.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/ndk_logo1_thumb.jpg)](f/contact/n/ndk_logo1.png)|*Tokyo, Japan*|
+|[![](f/contact/n/ndk_logo1_thumb.jpg)](f/contact/n/ndk_logo1.png)|<bio-m@ndk.com>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
-|E‑mail|<bio-m@ndk.com>|
 |Link|<https://www.ndk.com/en/index.html><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/ndk/>|
-|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **NIHON DEMPA Kogyo Co., LTD. (NDK)** has been providing crystal devices since the foundation, & is one of [JAXA](zz_jaxa.md)’s qualified electrical parts manufacturer. Utilizing its accumulated crystal technology, the company started selling outgas analysis system with crystal sensor known as “QTGA (QCM Thermogravimetric Gas Analysis)” system in 2019.
 
@@ -19,8 +17,6 @@ Main products:
    - Synthetic Quartz & Crystal Blank.
 
 <p style="page-break-after:always"> </p>
-
-## Nihon Dempa Kogyo, comments
 
 …
 

@@ -1,11 +1,9 @@
 # NASA
-> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/nasa_logo1_thumb.jpg)](f/contact/n/nasa_logo1.png)|*NASA Headquarters, 300 E. Street SW, Suite 5R30, Washington, DC 20546, USA*|
+|[![](f/contact/n/nasa_logo1_thumb.jpg)](f/contact/n/nasa_logo1.png)|<mark>noemail</mark>, +1(202)358-00-01, Fax: +1(202)358-43-38;<br> *NASA Headquarters, 300 E. Street SW, Suite 5R30, Washington, DC 20546, USA*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.nasa.gov/home/index.html><br> <https://ru.wikipedia.org/wiki/НАСА>|
-|Tel|+1(202)358-00-01, ℻: +1(202)358-43-38|
 
 **Национальное управление по аэронавтике и исследованию космического пространства** *(англ. National Aeronautics & Space Administration, сокр. NASA)* — ведомство федерального правительства США, подчиняется Президенту США. Осуществляет гражданскую космическую программу страны, а также научные исследования воздушного и космического пространств и научно‑технологические исследования в области авиации, воздухоплавания и космонавтики (по терминологии США — астронавтики). Создано 29 июля 1958 года.
 
@@ -34,7 +32,6 @@
 
 <p style="page-break-after:always"> </p>
 
-## NASA, comments
 **Структура NASA:** <https://www.nasa.gov/about/org_index.html>
 
    1. **Administrator / Deputy Administrator**

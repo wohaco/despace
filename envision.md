@@ -1,5 +1,5 @@
 # EnVision
-> 2019.10.10 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), [Проекты](project.md)
+> 2019.10.10 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), [Проекты](project.md)
 
 [TOC]
 
@@ -67,7 +67,7 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 |EVN‑024||Surface: composition.|||C||||
 |EVN‑025||Surface: structure.|||C||||
 |EVN‑027||The causes why Venus evolved in a planet so different from Earth.||D|C|F|||
-|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑029||Is Venus geologically active?:||D|C|F|||
 |EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
 |EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.||D|||||
 |EVN‑040||Were there oceans & why have they gone||D|C|F|||
@@ -99,7 +99,7 @@ EnVision would be capable of detecting cm‑scale surface changes that would ena
 
 **WHY VENUS**
 
-Despite the emphasis on Venus of early space exploration (Mariner, Venera, Vega, & Pioneer), & the more recent [Magellan](magellan.md), [Venus Express](venus_express.md), & [Akatsuki](akatsuki.md) Missions, Venus remains a global mystery. Sitting in our own planetary back yard, Venus represents an unusual example of terrestrial planet formation & evolution that obviously differs from Earth & the other solid planets of the inner solar system. Many fundamental questions remain unanswered. For example, did Venus have oceans, how has that atmosphere evolved over time, & when & why did the runaway greenhouse begin? How does Venus lose its heat, how volcanicly & tectonicly active has Venus been over the last billion years? Has Venus always had a «stagnant‑lid», or was a plate tectonics regime ever present earlier in her history? What is the composition of the highland tessera terrain, are these regions the oldest rocks exposed on the Venus surface, how oxidized are those rocks & do these surfaces retain evidence of an earlier time when water was more prevalent?  
+Despite the emphasis on Venus of early space exploration (Mariner, Venera, Vega, & Pioneer), & the more recent [Magellan](magellan.md), [Venus Express](venus_express.md), & [Akatsuki](akatsuki.md) Missions, Venus remains a global mystery. Sitting in our own planetary back yard, Venus represents an unusual example of terrestrial planet formation & evolution that obviously differs from Earth & the other solid planets of the inner solar system. Many fundamental questions remain unanswered. For example, did Venus have oceans, how has that atmosphere evolved over time, & when & why did the runaway greenhouse begin?: How does Venus lose its heat, how volcanicly & tectonicly active has Venus been over the last billion years?: Has Venus always had a «stagnant‑lid», or was a plate tectonics regime ever present earlier in her history?: What is the composition of the highland tessera terrain, are these regions the oldest rocks exposed on the Venus surface, how oxidized are those rocks & do these surfaces retain evidence of an earlier time when water was more prevalent?:  
 The NASA Magellan, ESA Venus Express, & JAXA’s Akatsuki missions to Venus have revealed a complex, dynamic planet with surprising similarities as well as differences from Earth, & yet it remains the least understood of the terrestrial planets. The dramatic discovery of volcanic hotspots in Venus Express data suggest that the next stage of Venus exploration must focus on its surface: the geological interface between its dense, hostile atmosphere & its Earth‑like but puzzling interior. Magellan data reveal an incredible number of volcanoes, as well as rift systems, mountain belts, & a range of features still poorly understood, on a world with a crater count indicative of mean surface age of only 500 Ma.
 
 **Role of Venus investigations in understanding the Earth**  
@@ -111,7 +111,7 @@ The prime focus of astrobiology research is the search for life elsewhere in the
 
 **Naming conventions of Venus landscape**  
 Venus features are named after females goddesses, mythological heroines & famous women in international history (poets, writers, artists, scientists) by the [International Astronomical Union’s (IAU) ⎆](https://planetarynames.wr.usgs.gov/Page/VENUS/target) Working Group for Planetary System Nomenclature, with the exception of Alpha Regio, Beta Regio, & Maxwell Montes named after James Clerk Maxwell (1831 — 1879).  
-The naming of Venus Paterae include [89 famous women in history ⎆](https://planetarynames.wr.usgs.gov/SearchResults?target=VENUS&featureType=Patera,%20paterae). More than 900 craters on Venus are named after [famous women or female first names ⎆](https://planetarynames.wr.usgs.gov/SearchResults?target=VENUS&featureType=Crater,%20craters), such as Inge Lehmann (1888 — 1993), a Danish pioneer geophysicist, pictured below.  As thousands of never‑seen‑before geological structures will be discovered by EnVision, there will be renewed opportunities to expand the list in honour of women.
+The naming of Venus Paterae include [89 famous women in history ⎆](https://planetarynames.wr.usgs.gov/SearchResults?:target=VENUS&featureType=Patera,%20paterae). More than 900 craters on Venus are named after [famous women or female first names ⎆](https://planetarynames.wr.usgs.gov/SearchResults?:target=VENUS&featureType=Crater,%20craters), such as Inge Lehmann (1888 — 1993), a Danish pioneer geophysicist, pictured below.  As thousands of never‑seen‑before geological structures will be discovered by EnVision, there will be renewed opportunities to expand the list in honour of women.
 
 **The European Spaceport**
 
@@ -163,10 +163,10 @@ The core goal of EnVision is to detect activity & measure small‑scale changes 
 
 **The specific mission’s goals are:**
 
-   - Change — Is Venus geologically active today? How? ([EVN‑029](venus.md))
-   - Surface — What is Venus’ geological history? ([EVN‑042](venus.md))
-   - Atmosphere — How is Venus’ atmosphere linked to geological activity? ([EVN‑041](venus.md))
-   - Planetary Interior — What happens inside Venus? ([EVN‑020](venus.md))
+   - Change — Is Venus geologically active today?: How?: ([EVN‑029](venus.md))
+   - Surface — What is Venus’ geological history?: ([EVN‑042](venus.md))
+   - Atmosphere — How is Venus’ atmosphere linked to geological activity?: ([EVN‑041](venus.md))
+   - Planetary Interior — What happens inside Venus?: ([EVN‑020](venus.md))
 
 **Science investigation**
 
@@ -186,11 +186,11 @@ Venus’ global hypsometry (variations in surface elevation relative to a mean) 
 
 **Plains**
 
-About 70 % of Venus topography lies near the global mean average, consisting variously of smooth, gently undulating or ridged terrain. There is a huge variety of features found on these plains — from volcanic features (see‑sides domes etc), tectonic features (e.g. wrinkle ridges etc), evidence of flows (canali), aeolian features (dune fields, parabolae). Are canali or other specific magmatic features confined to a past regime or still active today? Is there a correlation between mesospheric SO₂ concentration & volcanic activity? Are crater floors effusively infilled & buried from below? Were the plains formed from a few massive outpourings in a short period of time or from many thousands of small flows over their entire history? Or were they formed, or modified, in an entirely different way?
+About 70 % of Venus topography lies near the global mean average, consisting variously of smooth, gently undulating or ridged terrain. There is a huge variety of features found on these plains — from volcanic features (see‑sides domes etc), tectonic features (e.g. wrinkle ridges etc), evidence of flows (canali), aeolian features (dune fields, parabolae). Are canali or other specific magmatic features confined to a past regime or still active today?: Is there a correlation between mesospheric SO₂ concentration & volcanic activity?: Are crater floors effusively infilled & buried from below?: Were the plains formed from a few massive outpourings in a short period of time or from many thousands of small flows over their entire history?: Or were they formed, or modified, in an entirely different way?:
 
 **Tectonic features**
 
-The surface of Venus is not organised into large plates like Earth’s oceans but it is partitioned into areas of low strain bounded by narrow margins of high strain ([EVN‑024,025](venus.md)), analogous to continental basins & microplates. Are these regions actively created & destroyed, like Earth’s oceans, or simply mobilised locally? What is the significance of the global network of elevated rift systems, similar in extent to mid‑ocean ridges but very different in appearance? Unique to Venus are coronae, quasi‑circular tectonic features, typically 100 — 500 km across, with a range of associated volcanic features. Are coronae the surface expression of plumes or magmatic intrusions? What role do they play in global tectonic & volcanic change?
+The surface of Venus is not organised into large plates like Earth’s oceans but it is partitioned into areas of low strain bounded by narrow margins of high strain ([EVN‑024,025](venus.md)), analogous to continental basins & microplates. Are these regions actively created & destroyed, like Earth’s oceans, or simply mobilised locally?: What is the significance of the global network of elevated rift systems, similar in extent to mid‑ocean ridges but very different in appearance?: Unique to Venus are coronae, quasi‑circular tectonic features, typically 100 — 500 km across, with a range of associated volcanic features. Are coronae the surface expression of plumes or magmatic intrusions?: What role do they play in global tectonic & volcanic change?:
 
 [![](f/project/e/envision/pic04_thumb.jpg)](f/project/e/envision/pic04.jpg)<br> <small>*(Volcanic & Tectonic Features (after Ghail et al. 2018). Rifts follow topographic rises along great circle arcs, similar to Earth’s mid‑ocean ridges; wrinkle ridges are predominantly in the lowlands. Tesserae are highly deformed terrain across a range of elevations, & are possibly continental crust.)*</small>
 
@@ -447,7 +447,7 @@ The first international conference to discuss the scientific investigations of t
 <p style="page-break-after:always"> </p>
 
 ## Docs & links
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

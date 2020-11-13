@@ -1,12 +1,11 @@
 # Воронцов, Виктор Александрович
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*МАИ, RU. Профессор*|
 |:--|:--|
 |B‑day, addr.|1952.05.07 / …|
-|E‑mail|<vorontsovspace@gmail.com>, <victor-vorontsov@yandex.ru>|
+|Contact|<vorontsovspace@gmail.com>, <victor-vorontsov@yandex.ru>, *work:* <mark>noworkphone</mark>; *mobile:* +7(916)907-33-68|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* +7(916)907-33-68|
 ||[![](f/contact/v/voroncov1_photo.gif)](f/contact/v/voroncov1_photo.gif) [![](f/contact/v/voroncov1_sign_thumb.jpg)](f/contact/v/voroncov1_sign.png)|
 
    - **[Education](edu.md):** …

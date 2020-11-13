@@ -1,11 +1,9 @@
 # Kyocera
-> 2020.07.22 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kyocera_logo1_thumb.png)](f/contact/k/kyocera_logo1.png)|*6 Takeda Tobadono-cho, Fushimi-ku, Kyoto-shi, Kyoto, 612-8501 Japan*|
+|[![](f/contact/k/kyocera_logo1_thumb.png)](f/contact/k/kyocera_logo1.png)|<mark>noemail</mark>, +81-75-604-3500, Fax: +81-75-604-3501;<br> *6 Takeda Tobadono-cho, Fushimi-ku, Kyoto-shi, Kyoto, 612-8501 Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://global.kyocera.com/><br> <https://en.wikipedia.org/wiki/Kyocera><br> <https://www.linkedin.com/company/kyocera-global/>|
-|Tel|+81-75-604-3500, ℻: +81-75-604-3501|
 
 **Kyocera Corporation** (京セラ株式会社, Kyōsera Kabushiki-gaisha, pronounced kʲoːseɾa) is a Japanese multinational ceramics & electronics manufacturer headquartered in Kyoto, Japan. Founded in 1959.
 
@@ -22,8 +20,6 @@ It manufactures industrial ceramics, solar power generating systems, telecommuni
       - Fuel tank penetration flange for H-I rockets.
 
 <p style="page-break-after:always"> </p>
-
-## Kyocera, comments
 
 …
 

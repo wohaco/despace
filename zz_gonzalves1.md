@@ -1,12 +1,11 @@
 # Gonçalves, Ruben Henrique Machado
-> 2019.07.09 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[IA](ia.md), EU. Solar System, Planetary Atmospheres*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +(351)213-616-731; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<geral@iastro.pt>|
 |B‑day, addr.|1983.11.28 (Лиссабон, Португалия) / Лиссабон, Португалия|
+|Contact|<geral@iastro.pt>, *раб.:* +(351)213-616-731; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/g/gonsalves1_photo_thumb.jpg)](f/contact/g/gonsalves1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

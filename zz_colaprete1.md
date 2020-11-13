@@ -1,12 +1,11 @@
 # Colaprete, Anthony
-> 2019.10.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ARC](zz_arc.md), US. Planetary Scientist*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1971  / …|
+|Contact|<Anthony.Colaprete-1@nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<Anthony.Colaprete-1@nasa.gov>|
-|B‑day, addr.|<mark>nodate</mark> 1971 ? / …|
 ||[![](f/contact/c/colaprete1_photo_thumb.jpg)](f/contact/c/colaprete1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Astrophysical, Planetary & Atmospheric Science, University of Colorado, 2000. MS, Astrophysical, Planetary & Atmospheric Science, University of Colorado, 1998. BA, Physics, University of Colorado, 1992.
@@ -20,6 +19,6 @@
    - LinkedIn: <https://www.linkedin.com/in/anthony-colaprete-6737a28b/>
    - Twitter: <mark>notw</mark>
    - <https://www.nasa.gov/centers/ames/research/2007/colaprete.html>
-   - <https://scholar.google.com/citations?user=Ajm2yy4AAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=Ajm2yy4AAAAJ&hl=en>
    - **As a person:**
       1. …

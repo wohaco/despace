@@ -1,11 +1,9 @@
 # WARPSPACE
-> 2020.07.20 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/w/warpspace_logo1_thumb.jpg)](f/contact/w/warpspace_logo1.png)|*2-5-1-203 Azuma, Tsukuba science city, Ibaraki, Japan*|
+|[![](f/contact/w/warpspace_logo1_thumb.jpg)](f/contact/w/warpspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2-5-1-203 Azuma, Tsukuba science city, Ibaraki, Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://warpspace.jp><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/warpspace/><br> <https://www.linkedin.com/company/warpspace-inc/>|
-|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **WARPSPACE Inc.** was founded 2016.08.03 as a space field startup after 5 years satellites development experiences at the University of Tsukuba, Japan.
 
@@ -16,11 +14,7 @@ We have experienced two real [satellite](sc.md) developments & launch under the 
    - Communication Infrastructure Business for Low Orbit Satellites.
    - WarpHub InterSat Service. Anytime Anywhere. Delivering the internet anywhere in space. User satellites can connect the hub satellite & have a fast 24/7 link with equipping only an ultra‑compact communication module of optical laser component. WarpHub will realize a full‑time connection & overwhelming high cost performance for satellite communication.
 
-
-
 <p style="page-break-after:always"> </p>
-
-## WARPSPACE, comments
 
 Our Services
 

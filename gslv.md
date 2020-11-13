@@ -1,5 +1,5 @@
 # GSLV
-> 2019.06.25 **[🚀](../index/index.md) [despace](index.md)** → [LV](lv.md)
+> 2019.06.25 [🚀](../index/index.md) [despace](index.md) → [LV](lv.md)
 
 [TOC]
 
@@ -32,7 +32,7 @@
 |[Аналоги](analogue.md)|[Delta‑4 Medium](delta.md) (США) ┊ [H‑IIA](h2.md) (Япония) ┊ [LongMarch‑3B](long_march.md) (Китай)|
 |Длина/диаметр|49.13 м (с ГЧ) / 2.8 м|
 |[Космодромы](spaceport.md)|[Sriharikota](sriharikota.md)|
-|Масса старт./сух.|414 750 кг / 53 450 кг|
+|Масса старт./сух.|414 750 kg / 53 450 kg|
 |Разраб./изготов.|[ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)|
 |Ступени|3|
 |[Топливо](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
@@ -59,7 +59,7 @@
 |[Аналоги](analogue.md)|[Arian 5](arian.md) (Европа) ┊ [Atlas 5](atlas.md) (США) ┊ [Delta 4 Heavy](delta.md) (США) ┊ [Falcon‑9](falcon.md) (США) ┊ [H‑IIB](h2.md) (Япония) ┊ [LongMarch‑3B (5)](long_march.md) (Китай) ┊ [Ангара‑А5](angara.md) (РФ) ┊ [Зенит‑3SL](zenit.md) (РФ) ┊ [Протон‑М](proton.md) (РФ) ┊ [Союз‑5.1](soyuz.md) (РФ)|
 |Длина/диаметр|43.5 м (с ГЧ) / 4 м|
 |[Космодромы](spaceport.md)|[Sriharikota](sriharikota.md)|
-|Масса старт./сух.|644 750 кг / 76 000 кг|
+|Масса старт./сух.|644 750 kg / 76 000 kg|
 |Разраб./изготов.|[ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)|
 |Ступени|3|
 |[Топливо](fuel.md)|[HTPB](htpb.md) (ускорители), [АТ + НДМГ](at_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
@@ -69,7 +69,7 @@
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|[Sriharikota](sriharikota.md)|GSLV Mk.III|8 <small>(600 км)</small>|2.1|…|…|…|Пуск — $ 46‑62 млн (2017 г);<br> ПН 1.24 % от ст.массы|
+|[Sriharikota](sriharikota.md)|GSLV Mk.III|8 <small>(600 km)</small>|2.1|…|…|…|Пуск — $ 46‑62 млн (2017 г);<br> ПН 1.24 % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
 
@@ -88,7 +88,7 @@
 |[Аналоги](analogue.md)|[Delta‑4 Medium](delta.md) (США) ┊ [H‑IIA](h2.md) (Япония) ┊ [LongMarch‑3B](long_march.md) (Китай)|
 |Длина/диаметр|49.13 м (с ГЧ) / 2.8 м|
 |[Космодромы](spaceport.md)|[Sriharikota](sriharikota.md)|
-|Масса старт./сух.|414 750 кг / 53 450 кг|
+|Масса старт./сух.|414 750 kg / 53 450 kg|
 |Разраб./изготов.|[ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)|
 |Ступени|3|
 |[Топливо](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
@@ -107,7 +107,7 @@
 <p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

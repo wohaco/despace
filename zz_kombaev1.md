@@ -1,12 +1,11 @@
 # Комбаев, Тимур Шикурович
-> 2019.12.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.12.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*НПОЛ, RU. КЛГ / 801, 509, «Филиал Калуга». Инженер‑конструктор 2‑й категории*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* Калуга: 154; 36-15, 56-15 — если он в Химках; *mobile:* +7(930)753-01-14, +7(910)512-69-32|
-|E‑mail|<kombaev@laspace.ru>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<kombaev@laspace.ru>, *work:* Калуга: 154; 36-15, 56-15 — если он в Химках; *mobile:* +7(930)753-01-14, +7(910)512-69-32|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/k/kombaev1_photo_thumb.jpg)](f/contact/k/kombaev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
@@ -21,6 +20,6 @@
    - Twitter: <https://twitter.com/kombaew>
    - <https://vk.com/planktos>
    - <https://ok.ru/profile/12784645777>
-   - <https://mai.ru/content/people/index.php?ID=41769>
+   - <https://mai.ru/content/people/index.php?:ID=41769>
    - **As a person:**
       1. …

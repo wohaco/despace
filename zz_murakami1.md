@@ -1,12 +1,11 @@
 # Murakami, Shin-ya
-> 2019.10.23 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.23 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<murashin@gfd-dennou.org>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<murashin@gfd-dennou.org>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
@@ -20,6 +19,6 @@
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Shin_Ya_Murakami>
-   - <https://scholar.google.co.jp/citations?hl=en&user=j24AdawAAAAJ>
+   - <https://scholar.google.co.jp/citations?:hl=en&user=j24AdawAAAAJ>
    - **As a person:**
       1. …

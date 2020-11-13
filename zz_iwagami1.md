@@ -1,12 +1,11 @@
 # Iwagami, Naomoto
-> 2019.10.27 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.27 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*Tokyo Univ., JP. Graduate School of Science, Department of Earth and Planetary Science. Associate professor*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1955  / …|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mark>noemail</mark>|
-|B‑day, addr.|<mark>nodate</mark> 1955 ? / …|
 ||<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD
@@ -19,7 +18,7 @@
    - Instagram: <mark>noin</mark>
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
-   - <https://researchmap.jp/read0007762/?lang=english>
+   - <https://researchmap.jp/read0007762/?:Lang=english>
    - <https://www.researchgate.net/profile/Naomoto_Iwagami>
    - <https://nrid.nii.ac.jp/nrid/1000030143374/>
    - <https://ci.nii.ac.jp/nrid/1000030143374/en/>

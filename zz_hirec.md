@@ -1,11 +1,9 @@
 # HIREC
-> 2020.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/h/hirec_logo1_thumb.jpg)](f/contact/h/hirec_logo1.jpg)|*Muza Kawasaki Central Tower 12th Floor, 1310, Omiya-cho, Saiwai-ku, Kawasaki-shi, Kanagawa, 212-8554, Japan*|
+|[![](f/contact/h/hirec_logo1_thumb.jpg)](f/contact/h/hirec_logo1.jpg)|<mark>noemail</mark>, +81-44-201-1512, Fax: +81-44-201-1531;<br> *Muza Kawasaki Central Tower 12th Floor, 1310, Omiya-cho, Saiwai-ku, Kawasaki-shi, Kanagawa, 212-8554, Japan*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.hirec.co.jp/><br> <https://www.linkedin.com/company/ｈｉｒｅｃ（株）/about/>|
-|Tel|+81-44-201-1512, ℻: +81-44-201-1531|
 
 **High‑Reliability Engineering & Components Corporation (HIREC)** was established in 1988 on a mission to ensure the stable supply of high‑reliability components to be used on Japan’s primary large‑scale launch vehicle, applications satellites, & the Japanese Experiment Module “Kibo” of the International Space Station.
 
@@ -37,8 +35,6 @@ HIREC provides the following services based on the track record & cultivated tec
       - Satellite communications consulting
 
 <p style="page-break-after:always"> </p>
-
-## HIREC, comments
 
 Spacecraft project supported by HIREC:
 

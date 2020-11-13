@@ -1,11 +1,9 @@
 # Draper Laboratory
-> 2020.02.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2020.02.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/d/draper_lab_logo1_thumb.jpg)](f/contact/d/draper_lab_logo1.png)|*The Charles Stark Draper Laboratory, Inc., 555 Technology Square, Cambridge, MA 02139, USA*|
+|[![](f/contact/d/draper_lab_logo1_thumb.jpg)](f/contact/d/draper_lab_logo1.png)|<mark>noemail</mark>, +1(617)258-10-00, Fax: …;<br> *The Charles Stark Draper Laboratory, Inc., 555 Technology Square, Cambridge, MA 02139, USA*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<https://www.draper.com/><br> <https://en.wikipedia.org/wiki/Draper_Laboratory>|
-|Tel|+1(617)258-10-00, ℻: …|
 
 **Draper Laboratory** is an American not-for-profit research & development organization; its official name is "The Charles Stark Draper Laboratory, Inc". The laboratory specializes in the design, development, & deployment of advanced technology solutions to problems in national security, space exploration, health care & energy.
 
@@ -18,7 +16,6 @@ According to its website, the laboratory staff applies its expertise to autonomo
 
 <p style="page-break-after:always"> </p>
 
-## Draper Laboratory, comments
 The laboratory encompasses seven areas of technical expertise:
 
    - Strategic Systems: Application of guidance, navigation, & control (GN&C) expertise to hybrid GPS‑aided technologies & to submarine navigation & strategic weapons security.

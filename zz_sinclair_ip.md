@@ -1,19 +1,15 @@
 # Sinclair I/P
-> 2019.08.15 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/sinclair_ip_logo1_thumb.png)](f/contact/s/sinclair_ip_logo1.png)|*268 Claremont St, Toronto, ON M6J 2N3, Canada*|
+|[![](f/contact/s/sinclair_ip_logo1_thumb.png)](f/contact/s/sinclair_ip_logo1.png)|<dns@sinclairinterplanetary.com>, +1(647)286-37-61, Fax: …;<br> *268 Claremont St, Toronto, ON M6J 2N3, Canada*|
 |:--|:--|
-|E‑mail|<dns@sinclairinterplanetary.com>|
 |Link|<http://www.sinclairinterplanetary.com/>|
-|Tel|+1(647)286-37-61, ℻: …|
 
 **Sinclair Interplanetary** is a supplier of hardware, software, training & expertise to the spacecraft community. The primary focus is on low‑cost, rapid‑schedule programs to produce micro‑ or nano‑satellites. Founded in 2001 by Doug Sinclair. A part of [Rocket Lab](zz_rocket_lab.md) from 2020.03.  
 Star Trackers, Reaction Wheels, Optical Comms, software, training & expertise.
 
 
 <p style="page-break-after:always"> </p>
-
-## Sinclair I/P, comments
 
 Sinclair Interplanetary has designed & built flight hardware for the following missions:
 

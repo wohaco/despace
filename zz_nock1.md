@@ -1,12 +1,11 @@
 # Nock, Kerry T.
-> 2019.01.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.01.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Global Aerospace Corporation](zz_gac.md), US. Founder, President, Chairman of the Board of Directors*|
 |:--|:--|
-|B‑day, addr.|<mark>nodate</mark> 1946 ? / …|
-|E‑mail|<mark>noemail</mark>|
+|B‑day, addr.|<mark>nodate</mark> 1946  / …|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Нок, Керри|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/n/nock1_photo_thumb.jpg)](f/contact/n/nock1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** MS, 1966 ‑ 1972, Space Science & Engineering, UCLA.

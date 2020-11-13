@@ -1,11 +1,9 @@
 # Moog Inc.
-> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/moog_inc_logo1_thumb.jpg)](f/contact/m/moog_inc_logo1.png)|*East Aurora, New York, USA*|
+|[![](f/contact/m/moog_inc_logo1_thumb.jpg)](f/contact/m/moog_inc_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *East Aurora, New York, USA*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.moog.com/><br> <https://en.wikipedia.org/wiki/Moog_Inc.>|
-|Tel|<mark>noworkphone</mark>, ℻: …|
 
 **Moog Inc.** — американский разработчик и производитель подвижных и жидкостных компонентов и систем управления в области авиации, космоса, наземной индустрии и медицинского оборудования. Штаб‑квартира расположена в East Aurora, Нью‑Йорк, США. Подразделения и фабрики расположены в 26 странах. Компания основана в апреле 1950 года Биллом Мугом. Нынешняя продукция:
 
@@ -15,7 +13,5 @@
 
 
 <p style="page-break-after:always"> </p>
-
-## Moog Inc., comments
 
 …

@@ -1,12 +1,11 @@
 # Izenberg, Noam
-> 2019.07.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[JHUAPL](zz_jhuapl.md), US. Planetary Geologist; Planetary Scientist*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(240)228-79-18 ; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<noam.izenberg@jhuapl.edu>|
 |B‑day, addr.|1967.08.08 / …|
+|Contact|<noam.izenberg@jhuapl.edu>, *раб.:* +1(240)228-79-18 ; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/i/izenberg1_photo_thumb.jpg)](f/contact/i/izenberg1_photo.jpg) [![](f/contact/i/izenberg1_sign_thumb.jpg)](f/contact/i/izenberg1_sign.png)|
 
    - **[Education](edu.md):** PhD, Earth & Planetary Sciences, 1996, Washington Univ. ScB, Geology, 1989, Brown Univ.

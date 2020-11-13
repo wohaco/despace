@@ -1,5 +1,5 @@
 # Venera 4
-> 2019.12.10 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.12.10 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -70,7 +70,7 @@ During entry into the Venusian atmosphere, the heat shield temperature rose to 1
 
 **Radar altimeter.** Altitude of the Venera lander relative to the surface was measured during using a radar altimeter operating at 770 MHz. The altimeter had an integer ambiguity of 30 km (an effect known as «aliasing»). At the time the distance of the cloudtops above the surface was not known, and due to this ambiguity, the first radar return, now believed to be at an actual altitude of about 55 km, was initially misinterpreted as 26 km. Therefore, based on the misinterpreted radar results, the Soviet team initially announced the lander descended to the surface.
 
-**Achievements.** For the first time, in situ analysis of the atmosphere of another planet was performed and the data sent back to Earth; the analysis included chemical composition, temperature and pressure ([EVN‑014](venus.md)). The measured ratio of carbon dioxide to nitrogen of about 13 corrected the previous estimates so much (an inverse ratio was expected in some quarters) that some scientists contested the observations. The main station detected no radiation belts; relative to Earth, the measured magnetic field was 3 000 times weaker ([EVN‑028](venus.md)), and the hydrogen corona was 1 000 times less dense. No atomic oxygen was detected. All the data suggested that water, if it had been present, had leaked from the planet long before. This conclusion was unexpected considering the thick Venusian clouds.
+**Achievements.** For the first time, in situ analysis of the atmosphere of another planet was performed and the data sent back to Earth; the analysis included chemical composition, temperature and pressure ([EVN‑014](venus.md)). The measured ratio of carbon dioxide to nitrogen of about 13 corrected the previous estimates so much (an inverse ratio was expected in some quarters) that some scientists contested the observations. The main station detected no radiation belts; relative to Earth, the measured magnetic field was 3 000 times weaker ([EVN‑028](venus.md)), and the hydrogen corona was 1 000 times less dense. No atomic oxygen was detected. All the data suggested that water, if it had been present, had leaked from the planet long before. This conclusion was unexpected considering the thick Venusian clouds.
 
 
 
@@ -141,7 +141,7 @@ The lander was equipped with a rechargeable battery with a capacity sufficient f
 <p style="page-break-after:always"> </p>
 
 ## Docs & links
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

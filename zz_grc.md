@@ -1,11 +1,9 @@
 # GRC
-> 2019.08.05 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/g/grc_logo1_thumb.jpg)](f/contact/g/grc_logo1.png)|*21000 Brookpark Rd, Cleveland, OH 44135, США*|
+|[![](f/contact/g/grc_logo1_thumb.jpg)](f/contact/g/grc_logo1.png)|<mark>noemail</mark>, +1(216)433-40-00, Fax: …;<br> *21000 Brookpark Rd, Cleveland, OH 44135, США*|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
 |Link|<http://www.nasa.gov/glenn><br> <https://en.wikipedia.org/wiki/Glenn_Research_Center>|
-|Tel|+1(216)433-40-00, ℻: …|
 
 **NASA John H. Glenn Research Center at Lewis Field** is a NASA center, located within the cities of Brook Park & Cleveland between Cleveland Hopkins International Airport & the Cleveland Metroparks’s Rocky River Reservation, with a subsidiary facility in Sandusky, Ohio. Glenn Research Center is one of 10 major NASA field centers, whose primary mission is to develop science & technology for use in aeronautics & space.  
 The installation was established in 1942 as a laboratory for aircraft engine research. As early as 1951, researchers at the Lewis Flight Propulsion Laboratory were studying the combustion processes in liquid rocket engines.  
@@ -23,7 +21,5 @@ The Glenn Research Center, along with its partners in industry, are credited wit
 
 
 <p style="page-break-after:always"> </p>
-
-## GRC, comments
 
 …

@@ -1,12 +1,11 @@
 # Baker, Charles L.
-> 2019.12.02 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.12.02 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Mission/Project Systems Engineer*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mark>noemail</mark>|
 |B‑day, addr.|<mark>nodate</mark> 1971 / …|
+|Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/b/baker1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/b/baker1_sign_thumb.jpg)](f/contact/b/baker1_sign.png)|
 
    - **[Education](edu.md):** Mech. engineering, Thermal engineering, Carnegie Mellon Univ., 1993.

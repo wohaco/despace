@@ -1,12 +1,11 @@
 # McGovern, Patrick J.
-> 2019.07.13 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Science Staff*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(281)486-21-87; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<mcgovern@lpi.usra.edu>|
 |B‑day, addr.|<mark>nodate</mark> 1965 / …|
+|Contact|<mcgovern@lpi.usra.edu>, *раб.:* +1(281)486-21-87; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||[![](f/contact/m/mcgovern1_photo_thumb.jpg)](f/contact/m/mcgovern1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/m/mcgovern1_cv.pdf)**. PhD, Geophysics, 1996 & S.B., Aeronautics & Astronautics, Massachusetts Institute of Technology, 1986.

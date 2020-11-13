@@ -1,12 +1,11 @@
 # Gentry, Diana M.
-> 2019.07.17 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA Ames Research Center](zz_arc.md), US. Biospheric Science Branch. Staff, Student Career Experience Program Student*|
 |:--|:--|
-|i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(650)604-54-41; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<diana.gentry@nasa.gov>|
 |B‑day, addr.|<mark>nodate</mark> / …|
+|Contact|<diana.gentry@nasa.gov>, *раб.:* +1(650)604-54-41; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
 ||![](f/contact/g/gentry1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …

@@ -1,5 +1,5 @@
 # Pioneer Venus 1
-> 2019.12.16 **[🚀](../index/index.md) [despace](index.md)** → [Venus](venus.md), **[Project](project.md)**
+> 2019.12.16 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), **[Project](project.md)**
 
 [TOC]
 
@@ -29,7 +29,7 @@
 |Comms|High‑gain antenna; S‑band, X‑band|
 |Composition|Orbiter|
 |Contractor|United Launch Alliance|
-|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1978-051A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1978-051A), SCN: [10911 ⎆](http://www.n2yo.com/satellite/?s=10911)|
+|[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1978-051A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-051A), SCN: [10911 ⎆](http://www.n2yo.com/satellite/?:s=10911)|
 |Manufacturer|Hughes|
 |Mass|Dry: 360 kg ([minisatellite](sc.md), [EVN‑070](venus.md))|
 |Orbit / Site|Cytherocentric; 142 ‑ 253 × 66 900 km; T = 24 h; i = 105 °|
@@ -56,7 +56,7 @@ Achieved targets & investigations:
 |EVN‑017||Atmosphere: structure.||D|||||
 |EVN‑025||Surface: structure.|||C||||
 |EVN‑028||Magnetosphere structure.||D||F|||
-|EVN‑029||Is Venus geologically active?||D|C|F|||
+|EVN‑029||Is Venus geologically active?:||D|C|F|||
 |EVN‑034||Atmosphere: nature of the superrotation.||D|||||
 |EVN‑067||Atmosphere: nature of the polar dipole & turbulence.||D|||||
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
@@ -89,7 +89,7 @@ The Pioneer Venus orbiter measured the detailed structure of the upper atmospher
 
 The diagram illustrates the solar wind, shock wave, magnetic field, ion and electron clouds and streams from Venus. The impact of solar wind on the atmosphere of Venus according to the data from the Board Pioneer Venus 1.
 
-The most mysterious properties had a cloud formation in the form of Y, discovered in the early 60s and only in ultraviolet images. It had two symmetrical arms relative to the equator and extended to latitudes of 45°. Initially, this formation was associated with zonal advection of UV markers due to the superfluid atmosphere of Venus. The researchers concluded that such a large structure is an atmospheric wave. Determining the nature of this wave has become a crucial problem, as its enormous size may indicate an explanation for why Venus’ atmosphere rotates 60 times faster than the planet itself — atmospheric superrotation. The spacecraft provided new data on the dynamics of the planet’s cloud cover and its four‑day atmospheric superrotation ([EVN‑034](venus.md)). In addition, frequent thunderstorms were detected, concentrated in limited areas ([EVN‑012](venus.md)).
+The most mysterious properties had a cloud formation in the form of Y, discovered in the early 60s and only in ultraviolet images. It had two symmetrical arms relative to the equator and extended to latitudes of 45°. Initially, this formation was associated with zonal advection of UV markers due to the superfluid atmosphere of Venus. The researchers concluded that such a large structure is an atmospheric wave. Determining the nature of this wave has become a crucial problem, as its enormous size may indicate an explanation for why Venus’ atmosphere rotates 60 times faster than the planet itself — atmospheric superrotation. The spacecraft provided new data on the dynamics of the planet’s cloud cover and its four‑day atmospheric superrotation ([EVN‑034](venus.md)). In addition, frequent thunderstorms were detected, concentrated in limited areas ([EVN‑012](venus.md)).
 
 ![](f/project/p/pioneer_venus_1/pic06.jpg)
 
@@ -196,7 +196,7 @@ Pioneer Venus Orbiter was based on the HS-507 bus. The spacecraft was a flat cyl
 <p style="page-break-after:always"> </p>
 
 ## Docs & links
-|…°·•¹²³±×÷≤≥≈≠ ‑ −— ⎆✉ ❐“”’«»✔→✘☐☑├┕┆ 1 lb = 0.453592 kg; 1 g = 9.80665 m/s²|
+|Navigation|
 |:--|
 |<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
 |*Sections & pages*|

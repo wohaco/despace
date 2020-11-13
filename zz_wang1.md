@@ -1,12 +1,11 @@
 # Wang, Alian
-> 2019.07.18 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[WUSTL](zz_wustl.md), US. Research Professor of Earth & Planetary Sciences (1993)*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1954 / …|
-|E‑mail|<alianw@levee.wustl.edu>|
+|Contact|<alianw@levee.wustl.edu>, *раб.:* +1(314)935-58-51; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(314)935-58-51; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/w/wang1_photo_thumb.jpg)](f/contact/w/wang1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/w/wang1_cv.jpg)**. PhD, Université des Sciences, Techniques de Lille Flandres Artois, France, 1987. MS, Spectroscopy & Quantum Electronics, Peking University, China, 1982. BS, Optics, Shandong Univ., China, 1975.
@@ -20,7 +19,7 @@
    - LinkedIn: <mark>noli</mark>
    - Twitter: <mark>notw</mark>
    - <https://eps.wustl.edu/people/alian-wang>
-   - <https://scholar.google.com/citations?user=dEH4ZtIAAAAJ&hl=en>
+   - <https://scholar.google.com/citations?:user=dEH4ZtIAAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Alian_Wang>
    - **As a person:**
       1. …

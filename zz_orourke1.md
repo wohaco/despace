@@ -1,12 +1,11 @@
 # O'Rourke, Joseph
-> 2019.07.12 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[Arizona Univ.](arizona_univ.md), US.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1991 / …|
-|E‑mail|<gorourk@asu.edu>|
+|Contact|<gorourk@asu.edu>, *раб.:* +1(574)274-90-15; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(574)274-90-15; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/o/orourke1_photo_thumb.jpg)](f/contact/o/orourke1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/o/orourke1_cv.pdf)**. PhD in Planetary Science, Caltech.

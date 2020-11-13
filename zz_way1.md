@@ -1,12 +1,11 @@
 # Way, Michael Joseph
-> 2019.07.08 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.07.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[NASA](zz_nasa.md)/[GISS](zz_giss.md), US. Information Technology Specialist & Research Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
-|E‑mail|<michael.way@nasa.gov>|
+|Contact|<michael.way@nasa.gov>, *раб.:* +1(212)678-56-65; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*раб.:* +1(212)678-56-65; *mobile:* <mark>nomobile</mark>|
 ||[![](f/contact/w/way1_photo_thumb.jpg)](f/contact/w/way1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Physics 1999, University of Missouri.

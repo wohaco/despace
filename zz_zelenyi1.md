@@ -1,12 +1,11 @@
 # Зелёный, Лев Матвеевич
-> 2019.04.01 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|1948.08.23 / …|
-|E‑mail|<lzelenyi@iki.rssi.ru>|
+|Contact|<lzelenyi@iki.rssi.ru>, *раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark>|
 |i18n|Zeleny, Lev Matveevich|
-|Tel|*раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark>|
 ||![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.jpg)](f/contact/z/zeleniy1_sign.png)|
 
    - **[Education](edu.md):** …

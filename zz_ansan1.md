@@ -1,12 +1,11 @@
 # Ansan, Veronique
-> 2019.10.21 **[🚀](../index/index.md) [despace](index.md)** → [Contact](contact.md)
+> 2019.10.21 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 |*[Org.](contact.md)*|*LPG, EU (FR). Laboratoire de Planétologie. MCF*|
 |:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1968  / …|
+|Contact|<veronique.ansan@univ-nantes.fr>, *work:* +33(0)251-125-497; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-|Tel|*work:* +33(0)251-125-497; *mobile:* <mark>nomobile</mark>|
-|E‑mail|<veronique.ansan@univ-nantes.fr>|
-|B‑day, addr.|<mark>nodate</mark> 1968 ? / …|
 ||[![](f/contact/a/ansan1_photo_thumb.jpg)](f/contact/a/ansan1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** Géologie / sciences de la Terre, général/ Planétologie, Université paris XI orsay, 1986 ‑ 1993.
