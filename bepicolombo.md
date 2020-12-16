@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **BepiColombo** — English term with no analogues in Russian. **БепиКоломбо** — rough Russian equivalent.</small>
+> <small>**BepiColombo** — EN term. **БепиКоломбо** — rough RU analogue.</small>
 
 
 
@@ -20,13 +20,13 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|US$2 billion or 46 512 kg of [gold](sc_price.md) in January 2018 prices|
+|Cost|US$2 billion or 46 512 ㎏ of [gold](sc_price.md) in January 2018 prices|
 |Development|2004 — 2018|
 |Duration|Cruise: 7 years; Science phase: 1 year|
 |Launch|20 October 2018, 01:45 UTC, Rocket: Ariane 5 ECA|
 |Operator|ESA, JAXA|
 |Programme|BepiColombo|
-|Similar to|• Proposed: Меркурий‑П (2031)<br> • Current: …<br> • Past: [MESSENGER](messenger.md), [Mariner-10](mariner_10.md)|
+|Similar to|• Proposed: Меркурий‑П (2031)<br> • Current: …<br> • ㎩st: [MESSENGER](messenger.md), [Mariner-10](mariner_10.md)|
 |Target|Performing a comprehensive study of mercury, including characterization of its magnetic field, magnetosphere, and internal and surface structure.|
 |[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
@@ -36,8 +36,8 @@
 ||**`…`**|
 |Comms|MPO: X- and Ka‑band, diameter=1 m;<br>Mio: X‑band, diameter=0.8 m|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): 2018-080A, SCN: 43653|
-|Mass|**Dry mass:** 2 700 kg<br>**BOL mass**: *MPO*: 1 230 kg ([Large satellite](спутник.md), [EVN‑073](venus.md)); *Mio*: 255 kg ([Minisatellite](спутник.md), [EVN‑070](venus.md))|
-|Orbit / Site|**MPO**: 480 × 1 500 km; Inclination 90° <br>**Mio**: 590 × 1 500 km; Inclination 90°|
+|Mass|**Dry mass:** 2 700 ㎏<br>**BOL mass**: *MPO*: 1 230 ㎏ ([Large satellite](спутник.md), [EVN‑073](venus.md)); *Mio*: 255 ㎏ ([Minisatellite](спутник.md), [EVN‑070](venus.md))|
+|Orbit / Site|**MPO**: 480 × 1 500 ㎞; Inclination 90° <br>**Mio**: 590 × 1 500 ㎞; Inclination 90°|
 |Payload|**MPO** − instruments for studying the surface and internal structure of the planet<br>**Mio** − instruments for the study of the magnetic field and magnetosphere|
 |Power|MPO: 150 W; Mio: 90 W|
 
@@ -67,7 +67,7 @@ It was launched on an Ariane VA245 rocket on 20 October 2018 at 01:45 UTC, with 
 
  During this time it will use solar-electric propulsion (ion thrusters) and nine gravity assists, flying past the Earth and Moon in April 2020, Venus in 2020 and 2021, and six Mercury fly‑bys between 2021 and 2025.
 
-The stacked spacecraft left Earth with a hyperbolic excess velocity of 3.475 km/s. Initially the craft is placed in an orbit similar to that of the Earth. After both the spacecraft and the Earth completed one and a half orbits, it returns to Earth to perform a gravity-assist manoeuvre and is deflected towards Venus. Two consecutive Venus fly‑bys reduce the perihelion nearly to Mercury distance with almost no need for thrust. A sequence of six Mercury fly‑bys will lower the relative velocity to 1.76 km/s. After the fourth Mercury fly‑by the craft will be in an orbit similar to that of Mercury and will remain in the general vicinity of Mercury. Four final thrust arcs reduce the relative velocity to the point where Mercury will «weakly» capture the spacecraft on 5 December 2025 into polar orbit. Only a small manoeuvre is needed to bring the craft into an orbit around Mercury with an apocentre of 178 000 km. The Orbiters then separate and will adjust their orbits using chemical thrusters.
+The stacked spacecraft left Earth with a hyperbolic excess velocity of 3.475 ㎞/s. Initially the craft is placed in an orbit similar to that of the Earth. After both the spacecraft and the Earth completed one and a half orbits, it returns to Earth to perform a gravity-assist manoeuvre and is deflected towards Venus. Two consecutive Venus fly‑bys reduce the perihelion nearly to Mercury distance with almost no need for thrust. A sequence of six Mercury fly‑bys will lower the relative velocity to 1.76 ㎞/s. After the fourth Mercury fly‑by the craft will be in an orbit similar to that of Mercury and will remain in the general vicinity of Mercury. Four final thrust arcs reduce the relative velocity to the point where Mercury will «weakly» capture the spacecraft on 5 December 2025 into polar orbit. Only a small manoeuvre is needed to bring the craft into an orbit around Mercury with an apocentre of 178 000 ㎞. The Orbiters then separate and will adjust their orbits using chemical thrusters.
 
 During the cruise phase, BepiColombo will be a one-piece spacecraft. Upon arrival to the planet Mercury, the spacecraft will be divided into 3 separate spacecraft:
 
@@ -116,7 +116,7 @@ The main objectives of the mission are:
    - Verify Einstein’s theory of general relativity by measuring the parameters gamma and beta of the parameterized post-Newtonian formalism with high accuracy.
 
 ### MPO
-MPO developed by the European Space Agency — an Orbiter for studying the surface and internal structure of the planet with a slightly elongated polar orbit (400 km by 1500 km). In particular, it is planned to create a multi-wave map of the planet’s surface.
+MPO developed by the European Space Agency — an Orbiter for studying the surface and internal structure of the planet with a slightly elongated polar orbit (400 ㎞ by 1500 ㎞). In particular, it is planned to create a multi-wave map of the planet’s surface.
 
 The science payload of the MPO consists of eleven instruments:
 
@@ -131,11 +131,11 @@ The science payload of the MPO consists of eleven instruments:
    - Mercury Orbiter Radio-science Experiment (**MORE**), developed by Italy and the United States;
    - Probing of Hermean Exosphere by Ultraviolet Spectroscopy (**PHEBUS**) — for measuring the composition and dynamics of Mercury’s exosphere, developed by France and Russia;
    - Search for Exosphere Refilling and Emitted Neutral Abundances (**SERENA**), made up of 2 neutral and 2 ionised particle analysers: (**ELENA**) (Emitted Low-Energy Neutral Atoms) developed by Italy; (**STROFIO**) (Start from a ROtating Field mass spectrOmeter) developed by United States; (**MIPA**) (Miniature Ion Precipitation Analyser) developed by Sweden; (**PICAM**) (Planetary Ion CAMera) — panoramic energy-mass spectrometer of positively charged ions developed by Austria. The main objective of the experiment is to study the flow of ions from the planet’s surface and solar wind ions in the Mercury magnetosphere, and thus to study the Mercury soil and its interaction with the planet’s exosphere. The purpose of the experiment is to determine the chemical composition of the soil, to study the physical processes of emission from the surface of neutral particles and to measure the flows of magnetospheric ions that return to the surface; to understand whether Mercury has an ionosphere and how plasma convection occurs near it, to clarify the structure of the magnetosphere and the features of its interaction with the solar wind;
-   - Spectrometers and Imagers for MPO BepiColombo Integrated Observatory System (**SIMBIO-SYS**), high resolution stereo cameras and a visual and near infrared spectrometer, developed by Italy, France and Switzerland;
+   - Spectrometers and Imagers for MPO BepiColombo Integrated Observatory System (**SI㎆IO-SYS**), high resolution stereo cameras and a visual and near infrared spectrometer, developed by Italy, France and Switzerland;
    - Solar Intensity X‑ray and Particle Spectrometer (**SIXS**), developed by Finland and UK.
 
 ### Mio
-Mio developed by the Japan Aerospace Exploration Agency, is an Orbiter for studying the magnetic field and magnetosphere of mercury from a highly elliptical polar orbit (400 km by 12 000 km).
+Mio developed by the Japan Aerospace Exploration Agency, is an Orbiter for studying the magnetic field and magnetosphere of mercury from a highly elliptical polar orbit (400 ㎞ by 12 000 ㎞).
 
 Mio carries five groups of science instruments:
 
@@ -159,7 +159,7 @@ Mio carries five groups of science instruments:
 |:--|:--|
 |Type|Kaufman Ion Engine|
 |Units on board|4|
-|Diameter|22 cm|
+|Diameter|22 ㎝|
 |Max. thrust|145 mN each|
 |Specific impulse (Isp)|4 300 s|
 |Propellant|Xenon|
@@ -183,7 +183,7 @@ The solar electric propulsion system has typically very high specific impulse an
 |:--|
 |***Mercury Planetary Orbiter in ESTEC before stacking***|
 
-The MPO will have a mass of 1 150 kg and will use a single-sided solar array capable of providing up to 1000 W and featuring Optical Solar Reflectors to keep its temperature below 200 ℃. The solar array requires continuous rotation keeping the Sun at a low incidence angle in order to generate adequate power while at the same time limiting the temperature.
+The MPO will have a mass of 1 150 ㎏ and will use a single-sided solar array capable of providing up to 1000 W and featuring Optical Solar Reflectors to keep its temperature below 200 ℃. The solar array requires continuous rotation keeping the Sun at a low incidence angle in order to generate adequate power while at the same time limiting the temperature.
 
 The MPO will carry a payload of 11 instruments, comprising cameras, spectrometers (IR, UV, X‑ray, γ‑ray, neutron), a radiometer, a laser altimeter, a magnetometer, particle analysers, a Ka‑band transponder, and an accelerometer. The payload components are mounted on the nadir side of the spacecraft to achieve low detector temperatures, apart from the MERTIS and PHEBUS spectrometers located directly at the main radiator to provide a better field of view.
 
@@ -195,9 +195,9 @@ A high‑temperature‑resistant 1.0 m diameter high‑gain antenna is mounted
 |:--|
 |***Mio in ESTEC before stacking***|
 
-Mio developed and built mostly by Japan, has the shape of a short octagonal prism, 180 cm long from face to face and 90 cm high. It has a mass of 285 kg, including a 45 kg scientific payload consisting of 5 instrument groups.
+Mio developed and built mostly by Japan, has the shape of a short octagonal prism, 180 ㎝ long from face to face and 90 ㎝ high. It has a mass of 285 ㎏, including a 45 ㎏ scientific payload consisting of 5 instrument groups.
 
-Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 km, outside of MPO’s orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X‑band phased array high‑gain antenna and two medium‑gain antennas operating in the X‑band. Telemetry will return 160 GB/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center’s 64 m antenna located in Nagano, Japan.
+Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equator of Mercury and it will enter polar orbit at an altitude of 590 × 11 640 ㎞, outside of MPO’s orbit. The top and bottom of the octagon act as radiators with louvers for active temperature control. The sides are covered with solar cells which provide 90 W. Communications with Earth will be through a 0.8 m diameter X‑band phased array high‑gain antenna and two medium‑gain antennas operating in the X‑band. Telemetry will return 160 ㎇/year, about 5 Kb/s over the lifetime of the spacecraft, which is expected to be greater than one year. The reaction and control system is based on cold gas thrusters. After its release in Mercury orbit, Mio will be operated by Sagamihara Space Operation Center using Usuda Deep Space Center’s 64 m antenna located in Nagano, Japan.
 
 <p style="page-break-after:always"> </p>
 
@@ -217,7 +217,7 @@ Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equat
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

@@ -9,7 +9,7 @@
 
 Vehicles:
 
-   1. **Blue Whale 1.** The two‑stage Blue Whale 1 is planned to become the smallest orbital rocket in the world with a mass of only 1 790 kg. Launching from a pad owned by Southern Launch at [Whalers Way](whalers_way.md) in South Australia it can deliver up to 50 kg to a sun‑synchronous orbit or 63 kg to LEO with an altitude of 500 km. The maiden flight is planned for July 2020. Perigee Aerospace plans to launch up to 40 Blue Whale 1 rockets per year at a price of $ 2 million.
+   1. **Blue Whale 1.** The two‑stage Blue Whale 1 is planned to become the smallest orbital rocket in the world with a mass of only 1 790 ㎏. Launching from a pad owned by Southern Launch at [Whalers Way](whalers_way.md) in South Australia it can deliver up to 50 kg to a sun‑synchronous orbit or 63 kg to LEO with an altitude of 500 ㎞. The maiden flight is planned for July 2020. Perigee Aerospace plans to launch up to 40 Blue Whale 1 rockets per year at a price of $ 2 million.
    1. **Sounding Rockets.** According to an interview posted on the website of Explore University, an educational program by Dong-A Science, Perigee Aerospace also plans to launch a sounding rocket developed in collaboration with [KAIST](zz_kaist.md). The exact specifications & launch date are yet to be confirmed.
 
 <p style="page-break-after:always"> </p>

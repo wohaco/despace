@@ -4,7 +4,7 @@
 [TOC]
 
 ---
-> <small>*Термины:* **Идентификатор космического объекта** — русскоязычный термин. **Space ID** — англоязычный эквивалент.</small>
+> <small>**Идентификатор космического объекта** — русскоязычный термин. **Space ID** — англоязычный эквивалент.</small>
 
 **Идентификатор космического объекта** — общий термин для существующих каталожных номеров космических объектов (космических аппаратов, планет, метеоритов и пр.).
 
@@ -13,7 +13,7 @@
 <p style="page-break-after:always"> </p>
 
 ## COSPAR ID, NSSDC ID, Номер полёта
-> <small>*Термины:* **Номер полёта** — русскоязычный термин. **International designator / COSPAR ID / NSSDC ID** — англоязычный эквивалент.</small>
+> <small>**Номер полёта** — русскоязычный термин. **International designator / COSPAR ID / NSSDC ID** — англоязычный эквивалент.</small>
 
 **Номер полёта** (англ. *International designator* — международный идентификатор, сокращённо **NSSDC ID** — номер по каталогу Национального центра анализа данных космических исследований США (англ. National Space Science Data Center, сокр. NSSDC) представляет собой каталожный номер каждого летающего космического объекта, находящегося на орбите и зарегистрированного в [COSPAR](cospar.md).
 
@@ -48,7 +48,7 @@ Designators are assigned to objects by USSTRATCOM along with satellite catalog n
 <p style="page-break-after:always"> </p>
 
 ## SCN, Номер по спутниковому каталогу
-> <small>*Термины:* **Номер по спутниковому каталогу** — русскоязычный термин. **Satellite Catalog Number (SCN)** — англоязычный эквивалент.</small>
+> <small>**Номер по спутниковому каталогу** — русскоязычный термин. **Satellite Catalog Number (SCN)** — англоязычный эквивалент.</small>
 
 **Номер по спутниковому каталогу** *(англ. Satellite Catalog Number, SCN, ранее также номер НОРАД или номер объекта USSPACECOM)* представляет собой уникальный пятизначный идентификационный номер искусственных спутников Земли.
 
@@ -61,7 +61,7 @@ The **Satellite Catalog Number** (also known as **NORAD Catalog Number, NORAD ID
 
 В каталог заносятся параметры орбит объектов в виде двустрочных элементов (TLE). В каталоге отсутствуют данные о секретных военных спутниках США. По состоянию на 2008 год в каталоге насчитывалось до 900 активных спутников, около 400 из которых находились на [ГСО](nnb.md).
 
-Открытая часть каталога содержит данные о почти 12 800 объектах на земной орбите, размеры которых превышают 10 см. Среди них около 8 130 частей разрушенных спутников, отработанных ступеней ракет и предметов, потерянных во время работ в открытом космосе (по состоянию на март 2009). Количество объектов размером более 1 см оценивается в 600 000.
+Открытая часть каталога содержит данные о почти 12 800 объектах на земной орбите, размеры которых превышают 10 ㎝. Среди них около 8 130 частей разрушенных спутников, отработанных ступеней ракет и предметов, потерянных во время работ в открытом космосе (по состоянию на март 2009). Количество объектов размером более 1 ㎝ оценивается в 600 000.
 
 Альтернативной системой нумерации спутников является **номер полёта (NSSDC ID)**.
 
@@ -107,7 +107,7 @@ ISS (ZARYA)
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

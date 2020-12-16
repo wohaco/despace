@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Pioneer Venus Multiprobe (Pioneer Venus 2, Pioneer 13)** — English term with no analogues in Russian. **Пионер‑Венера‑2** — rough Russian equivalent.</small>
+> <small>**Pioneer Venus Multiprobe (Pioneer Venus 2, Pioneer 13)** — EN term. **Пионер‑Венера‑2** — rough RU analogue.</small>
 
 **The Pioneer Venus Multiprobe**, also known as *Pioneer Venus 2* or *Pioneer 13*, was a spacecraft launched in 1978 to explore Venus as part of NASA’s Pioneer program. This part of the mission included a spacecraft bus which was launched from Earth carrying one large and three smaller probes, which after separating penetrated the Venusian atmosphere at a different location, returning data as they descended into the planet’s thick atmosphere. The entry occurred on December 9, 1978.
 
@@ -22,7 +22,7 @@
 |Launch|August 8, 1978, 07:33 UTC, Rocket Atlas SLV-3D Centaur-D1AR|
 |Operator|NASA / ARC|
 |Programme|Pioneer Venus project|
-|Similar to|• Proposed: [Magellan](magellan.md), [Galileo Probe](galileo.md) <br> • Current: … <br> • Past: …|
+|Similar to|• Proposed: [Magellan](magellan.md), [Galileo Probe](galileo.md) <br> • Current: … <br> • ㎩st: …|
 |Target|Studying the structure and composition of clouds from inside the atmosphere|
 |[Type](sc.md)|Atmospheric spacecraft|
 |**Spacecraft:**|• • •|
@@ -31,7 +31,7 @@
 |Contractor|United Launch Alliance|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1978-078A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-078A), SCN: [11001 ⎆](http://www.n2yo.com/satellite/?:s=11001)|
 |Manufacturer|Hughes|
-|Mass|Dry mass: 904 kg (bus 290 kg [minisatellite](sc.md), [EVN‑070](venus.md)), large probe 315 kg, small probe 3 × 90 kg)|
+|Mass|Dry mass: 904 ㎏ (bus 290 ㎏ [minisatellite](sc.md), [EVN‑070](venus.md)), large probe 315 ㎏, small probe 3 × 90 ㎏)|
 |Orbit / Site|Heliocentric; 0.69 × 1.01 AU; T = 284 days; i = 2.3°|
 |Payload|Instruments for determining the composition of the atmosphere, temperature and pressure; detection and observation of particles; studying the interaction of the atmosphere with the solar wind|
 |Power|241 W|
@@ -79,17 +79,17 @@ The Pioneer Venus Multiprobe was launched by an Atlas SLV-3D Centaur-D1AR rocket
 
 Prior to the Multiprobe reaching Venus, the four probes were deployed from the main Bus. The large probe was released on November 15, 1978, and the three small probes on November 19.
 
-All probes entered the venusian atmosphere within 11 minutes of each other, and descended toward the surface over approximately an hour-long period, sending back data to the Earth ([EVN‑003](venus.md)). Two of the probes survived impact, and one of them transmitted data for 67 minutes before being crushed ([EVN‑006](venus.md)). These probes confirmed clouds composed mainly of sulfuric acid droplets ([EVN‑018](venus.md)). The Bus entered the atmosphere at 20:21:52 UTC, and returned its last signal at 20:22:55 from an altitude of 110 km.
+All probes entered the venusian atmosphere within 11 minutes of each other, and descended toward the surface over approximately an hour-long period, sending back data to the Earth ([EVN‑003](venus.md)). Two of the probes survived impact, and one of them transmitted data for 67 minutes before being crushed ([EVN‑006](venus.md)). These probes confirmed clouds composed mainly of sulfuric acid droplets ([EVN‑018](venus.md)). The Bus entered the atmosphere at 20:21:52 UTC, and returned its last signal at 20:22:55 from an altitude of 110 ㎞.
 
 [![](f/project/p/pioneer_venus_2/pic04_thumb.jpg)](f/project/p/pioneer_venus_2/pic04.png)
 
 **Scientific results**
 
-Below the altitude of 50 km the temperatures measured by the four probes are identical to within a few degrees. They are between +448 ℃ and +459 ℃ on the surface. The ground pressure is between 86.2 bar and 94.5 bar ([EVN‑001](venus.md)). The reconstituted trajectory of atmospheric probes was determined that the wind averaged a speed of 200 m/s in the middle cloud layer at 50 m/s at the base of these clouds and just 1 m/s at the ground ([EVN‑074](venus.md)). Overall data from airborne sensors confirmed, while specifying the data obtained by the Soviet space probe Venera program that preceded this mission.
+Below the altitude of 50 ㎞ the temperatures measured by the four probes are identical to within a few degrees. They are between +448 ℃ and +459 ℃ on the surface. The ground pressure is between 86.2 ㍴ and 94.5 ㍴ ([EVN‑001](venus.md)). The reconstituted trajectory of atmospheric probes was determined that the wind averaged a speed of 200 ㎧ in the middle cloud layer at 50 ㎧ at the base of these clouds and just 1 ㎧ at the ground ([EVN‑074](venus.md)). Overall data from airborne sensors confirmed, while specifying the data obtained by the Soviet space probe Venera program that preceded this mission.
 
-Nephelometers identified three cloud layers with different characteristics ([EVN‑016](venus.md)). The upper layer (height 65 — 70 km), contains drops of concentrated sulfuric acid. The middle layer in addition to sulfuric acid contains a large number of liquid and solid sulfur particles. The lower layer (height about 50 km) contains larger sulfur particles ([EVN‑018](venus.md)). It has been determined that at a level below 30 km the atmosphere is relatively transparent.
+Nephelometers identified three cloud layers with different characteristics ([EVN‑016](venus.md)). The upper layer (height 65 — 70 ㎞), contains drops of concentrated sulfuric acid. The middle layer in addition to sulfuric acid contains a large number of liquid and solid sulfur particles. The lower layer (height about 50 ㎞) contains larger sulfur particles ([EVN‑018](venus.md)). It has been determined that at a level below 30 ㎞ the atmosphere is relatively transparent.
 
-Measurements of temperatures at different altitudes confirmed the hypothesis of a greenhouse effect. The upper atmosphere of Venus was colder than previously thought: at an altitude of 100 km — 93 ℃ below zero, on the upper boundary of the clouds — 40 — 60 ℃ below zero ([EVN‑010](venus.md)).
+Measurements of temperatures at different altitudes confirmed the hypothesis of a greenhouse effect. The upper atmosphere of Venus was colder than previously thought: at an altitude of 100 ㎞ — 93 ℃ below zero, on the upper boundary of the clouds — 40 — 60 ℃ below zero ([EVN‑010](venus.md)).
 
 The most remarkable discovery was that the ratio of 36argon/40argon isotopes much higher than in the atmosphere of Earth (exceeds 50 — 500 times) which seems to indicate that the genesis of the Venusian atmosphere is very different from that of Earth — the concentration of inert gases can be judged on the evolution of the planet and volcanic activity ([EVN‑027](venus.md), [EVN‑042](venus.md)).
 
@@ -106,7 +106,7 @@ One of the main experiments conducted by the probes was temperature — it is ne
 
 All four probes were to enter the planet’s atmosphere at the same time and conduct parallel probes at four points as far apart as possible. The radio signals from probes were used to characterize the winds, turbulence, and propagation in the atmosphere.
 
-The instrument composition of the large probe included a neutral particle mass spectrometer, a gas chromatograph, temperature, pressure, acceleration sensors, solar and infrared radiometers, a cloud particle spectrometer and a nephelometer. Three small probes, weighing 90 kg each, using temperature sensors, pressure, acceleration, nephelometers and balance radiometer to study the radiation balance in the atmosphere.
+The instrument composition of the large probe included a neutral particle mass spectrometer, a gas chromatograph, temperature, pressure, acceleration sensors, solar and infrared radiometers, a cloud particle spectrometer and a nephelometer. Three small probes, weighing 90 ㎏ each, using temperature sensors, pressure, acceleration, nephelometers and balance radiometer to study the radiation balance in the atmosphere.
 
 [![](f/project/p/pioneer_venus_2/pic06_thumb.jpg)](f/project/p/pioneer_venus_2/pic06.jpg)
 
@@ -114,8 +114,8 @@ The instrument composition of the large probe included a neutral particle mass s
 
 With no heat shield or parachute, the Bus made upper atmospheric measurements with two instruments: ([EVN‑005](venus.md))
 
-   - **BIMS** — an ion mass spectrometer to determine the origin and long-term development of the Venusian atmosphere, the dynamics of the upper atmosphere layers, its energy balance ([EVN‑019](venus.md)) and the effect of solar radiation and interplanetary space ([EVN‑097](venus.md)) on those layers. This instrument had a range of 1 to 46 u, used 6 W of power and weighed 5 kg.
-   - **BNMS** — a neutral mass spectrometer. This made measurements of the interaction between the solar wind and Venus ([EVN‑097](venus.md)), the photochemistry of the upper layers of and heat distribution in the Venusian atmosphere ([EVN‑019](venus.md)). It had a range of 1 to 60 u, weighed 1 kg, and used ~1 W of power.
+   - **BIMS** — an ion mass spectrometer to determine the origin and long-term development of the Venusian atmosphere, the dynamics of the upper atmosphere layers, its energy balance ([EVN‑019](venus.md)) and the effect of solar radiation and interplanetary space ([EVN‑097](venus.md)) on those layers. This instrument had a range of 1 to 46 u, used 6 W of power and weighed 5 ㎏.
+   - **BNMS** — a neutral mass spectrometer. This made measurements of the interaction between the solar wind and Venus ([EVN‑097](venus.md)), the photochemistry of the upper layers of and heat distribution in the Venusian atmosphere ([EVN‑019](venus.md)). It had a range of 1 to 60 u, weighed 1 ㎏, and used ~1 W of power.
 
 **Large probe**
 
@@ -140,7 +140,7 @@ With no heat shield or parachute, the Bus made upper atmospheric measurements wi
 ## Spacecraft
 **HS-507 Bus**
 
-The Pioneer Venus Multiprobe Bus was constructed by the Hughes Aircraft Company, built around the HS-507 Bus. It was cylindrical in shape, with a diameter of 2.5 m and a mass of 290 kg. Unlike the probes, which did not begin making direct measurements until they had decelerated lower in the atmosphere, the Bus returned data on Venus’ upper atmosphere.
+The Pioneer Venus Multiprobe Bus was constructed by the Hughes Aircraft Company, built around the HS-507 Bus. It was cylindrical in shape, with a diameter of 2.5 m and a mass of 290 ㎏. Unlike the probes, which did not begin making direct measurements until they had decelerated lower in the atmosphere, the Bus returned data on Venus’ upper atmosphere.
 
 The Bus was targeted to enter the Venusian atmosphere at a shallow entry angle and transmit data until destruction by the heat of atmospheric friction ([EVN‑003](venus.md)).
 
@@ -152,7 +152,7 @@ The spacecraft carried one large and three small atmospheric probes, designed to
 
 **Large probe**
 
-This pressure vessel was encased in a nose cone and aft protective cover. After deceleration from initial atmospheric entry at about 11.5 km/s near the equator on the night side of Venus, a parachute was deployed at 67 km altitude. The large probe was about 150 cm in diameter and the pressure vessel itself was 73.2 cm in diameter. The 315 kg spherical titanium alloy container was fitted with a detachable brake shield and two exhaust chutes. Had a large set of scientific equipment, compared with small probes.
+This pressure vessel was encased in a nose cone and aft protective cover. After deceleration from initial atmospheric entry at about 11.5 ㎞/s near the equator on the night side of Venus, a parachute was deployed at 67 ㎞ altitude. The large probe was about 150 ㎝ in diameter and the pressure vessel itself was 73.2 ㎝ in diameter. The 315 ㎏ spherical titanium alloy container was fitted with a detachable brake shield and two exhaust chutes. Had a large set of scientific equipment, compared with small probes.
 
 The service equipment of the large probe included a silver-oxide battery with a capacity of 40 A·h, a software-time device designed to operate for 24 days with an accuracy of ±32 s, a transmitter and antenna for transmitting information to Earth, as well as a recording device for recording information during the period of signal loss, when the plasma cloud formed around the probe at the entrance to the atmosphere of Venus, prevents communication with the Earth.
 
@@ -193,7 +193,7 @@ The small probes were each targeted at different parts of the planet and were na
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

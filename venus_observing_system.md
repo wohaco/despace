@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Venus Observing System (VOS)** — English term with no analogues in Russian. **Венерианская обзорная система (ВОС)** — literal translation to Russian.</small>
+> <small>**Venus Observing System (VOS)** — EN term. **Венерианская обзорная система (ВОС)** — literal RU translation.</small>
 
 **Venus Observing System (VOS)** — monitoring climate, surface, atmospheric escape, and searching for signs of life.
 
@@ -16,14 +16,14 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md) in … prices|
+|Cost|… or … ㎏ of [gold](sc_price.md) in … prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
 |Duration|…|
 |Launch|…, …, …|
 |Operator|…|
 |Programme|…|
-|Similar to|• Proposed: …<br> • Current: …<br> • Past: …|
+|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: …|
 |Target|…|
 |[Type](sc.md)|…|
 |**Spacecraft:**|• • •|
@@ -74,8 +74,8 @@
 |EVN‑074||Meteorological model.||D||F|||
 |EVN‑076||Surface: volcanoes, their presence.||D||F|||
 |EVN‑080||Albedo: changes in time.|Gi|D||F|||
-|EVN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km.|All A||||||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.||D|||||
+|EVN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 ㎞.|All A||||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.||D|||||
 |EVN‑091||The loss rate of water from Venus.||D||F|||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
 |EVN‑093|T|Atmosphere/surface imaging.||D||F|||
@@ -140,8 +140,8 @@ For monitoring the climate/radiative balance of Venus, measurements of the albed
 **Monitoring Emitted Radiation from Venus.** ([EVN‑019](venus.md), [EVN‑056](venus.md))  
 Monitoring the emitted thermal radiation from Venus as measured by continuous imaging at 8 — 12 µm from L1 & L2 orbiters will cover all local times & enable continuous assessment of the radiative balance of Venus over a solar cycle. The near‑polar orbiter will provide additional high latitude coverage.
 
-**Thermal Structure (40 — 80 km).** ([EVN‑084](venus.md))  
-The possibility of climate variation in the cloud layer over a solar cycle can be assessed by monitoring the thermal structure in the 40 — 80 km altitude range from the dense coverage offered by the mutual radio occultation events between the two short period Venus orbiters & the two Lagrange orbiters (113 day period). There are dozens of occultation events between the four orbiters each day except for some short gaps during each L1/L2 orbital period. The eccentricity & the orbital periods of the two Venus orbiters can be optimized to address competing science goals.
+**Thermal Structure (40 — 80 ㎞).** ([EVN‑084](venus.md))  
+The possibility of climate variation in the cloud layer over a solar cycle can be assessed by monitoring the thermal structure in the 40 — 80 ㎞ altitude range from the dense coverage offered by the mutual radio occultation events between the two short period Venus orbiters & the two Lagrange orbiters (113 day period). There are dozens of occultation events between the four orbiters each day except for some short gaps during each L1/L2 orbital period. The eccentricity & the orbital periods of the two Venus orbiters can be optimized to address competing science goals.
 
 **Cloud Layer atmospheric circulation.** ([EVN‑011](venus.md))  
 VOS will provide continuous imaging from the Lagrange Point orbiters & will yield complete daily local time coverage of cloud motions, far better than any Venus orbiters. These measurements will significantly improve the global (horizontal & vertical) coverage of the cloud motion measurements & detect long term changes reported previously (Khatuntsev et al., 2013; Kouyama et al., 2013) & now from Akatsuki data (Horinouchi et al., 2018). Further, the vastly improved thermal profile coverage from mutual occultation events will yield a much better mean thermal structure in the cloud layer & yield much better estimates of the cyclostrophically balanced zonal flow.
@@ -150,7 +150,7 @@ VOS will provide continuous imaging from the Lagrange Point orbiters & will yiel
 Maps of the near‑IR Venus surface emissivity at one wavelength (1.02 μm) were made for the first time using the VIRTIS instrument on Venus Express (Helbert et al., 2008; Mueller et al., 2008). Emission from the surface can be seen through windows in Venus’ spectrum, although VEX’s orbit allowed only the southern hemisphere of Venus to be mapped. Nevertheless, numerous geologic features, including large shield volcanoes ([EVN‑076](venus.md), Smrekar et al., 2010) correlate with surface emissivity differences. VOS will map the nightside thermal emissivity from the L2 spacecraft in 5 wavelengths, producing 5‑point near‑IR spectra over the entire globe (([EVN‑056](venus.md))). With increasingly available laboratory spectra at Venus surface conditions, these measurements will place strong constraints on Venus’ surface mineralogy ([EVN‑023](venus.md)) & how it may change over time due to reactions with the atmosphere ([EVN‑041](venus.md)). VOS will also be able to definitively determine whether granitic continent‑like crust exists on Venus, which could only have been emplaced when there was abundant water at the surface ([EVN‑040](venus.md), Hashimoto et al., 2008).
 
 **Search for Biogenic signatures.** ([EVN‑053](venus.md))  
-The possibility of life in the niche of Venus’ clouds has been sporadically considered for more than half a century & has recently received more attention due to advances in studying life in extreme environments. Since the physical properties of any microorganisms are likely to be similar to the known cloud particle properties in the mid & upper cloud layers (e.g. Mode 1 & Mode 2 particles), a means of discrimination is required. To make these measurements, aerial platforms capable of sampling the habitable region which may extend from about 48 to 62 km above the mean surface are required. Potential measurements include:  
+The possibility of life in the niche of Venus’ clouds has been sporadically considered for more than half a century & has recently received more attention due to advances in studying life in extreme environments. Since the physical properties of any microorganisms are likely to be similar to the known cloud particle properties in the mid & upper cloud layers (e.g. Mode 1 & Mode 2 particles), a means of discrimination is required. To make these measurements, aerial platforms capable of sampling the habitable region which may extend from about 48 to 62 ㎞ above the mean surface are required. Potential measurements include:  
 (Ⅰ) spectral properties,  
 (Ⅱ) physical properties,  
 (Ⅲ) chemical properties.  
@@ -160,7 +160,7 @@ The spectral properties of single particles can be measured in the lab but are n
 Knowing the ambient cloud layer properties is essential to understand the cloud particle characteristics & possible biogenic signatures. These can be obtained from a nephelometer, miniature MEMS chemical sensor suite for specific gases (SO₂, H₂S, CH₄, COS, HF, HCl, others) & a pH sensor. Additionally, a spectrometer (UV‑NIR) is needed to measure the absorption properties on the day & night sides (using a white light lamp).
 
 **Impact of cosmic ray & high energy particles on microorganisms.** ([EVN‑014](venus.md), [EVN‑097](venus.md))  
-The peak ionization level due to cosmic rays is estimated to occur at about 63 km (Dartnell, 2011; Dartnell et al., 2015), somewhat above where the peak abundance of microorganisms may be present on Venus (48 — 52 km). As conjectured, the atmospheric circulation may bring any microorganisms to higher levels (Limaye et al., 2018) & subject them to a higher dosage of radiation, although a high radiation environment does not exclude extremophile microorganism survival (Levin‑Zaidman et al., 2003). Cosmic ray flux has never been measured in Venus atmosphere & the aerial platform offers an attractive opportunity to learn about its impact on the Venus cloud layer.
+The peak ionization level due to cosmic rays is estimated to occur at about 63 ㎞ (Dartnell, 2011; Dartnell et al., 2015), somewhat above where the peak abundance of microorganisms may be present on Venus (48 — 52 ㎞). As conjectured, the atmospheric circulation may bring any microorganisms to higher levels (Limaye et al., 2018) & subject them to a higher dosage of radiation, although a high radiation environment does not exclude extremophile microorganism survival (Levin‑Zaidman et al., 2003). Cosmic ray flux has never been measured in Venus atmosphere & the aerial platform offers an attractive opportunity to learn about its impact on the Venus cloud layer.
 
 **Atmospheric Escape & Solar wind interaction.** ([EVN‑033](venus.md), [EVN‑091](venus.md))  
 Reliable measurements of the atmospheric escape from Venus over time are needed to estimate the quantity of surface water in the past. Only Venus Express & Pioneer Venus have done experiments to estimate rates of water loss during different phases of the solar cycle & these estimates vary by three orders of magnitude Ion escape at low energy range (0 – 0.5 KeV) is significant & has yet to be measured during high solar activity conditions. It is also important to have spacecraft in suitable orbits; VOS will provide a near polar & a near equatorial orbiter around Venus with incoming solar wind measured near L1, & the far Venus plasma tail measured from the L2 orbiter. The orbit inclination is important for sampling the escaping ion flux. The Pioneer Venus orbit (polar) was more suitable than the Venus Express orbit (low latitude periapsis).
@@ -200,9 +200,9 @@ The payload to be prioritized based on mass constraints. The notional list inclu
 
 The modular (deployed in segments), scalable (adding more small satellites or in‑situ platforms), & affordable architecture that can realize the science objectives includes:
 
-   - Two small spacecraft in orbit around L1 & L2 Lagrange points (about one million km from Venus) to observe Venus continuously with ~10 km resolution multispectral imaging & UV‑IR spectroscopy
+   - Two small spacecraft in orbit around L1 & L2 Lagrange points (about one million km from Venus) to observe Venus continuously with ~10 ㎞ resolution multispectral imaging & UV‑IR spectroscopy
    - Two small spacecraft in short period orbits (4 — 8 hours) around Venus – one in polar orbit & the other in an equatorial orbit.
-   - An instrumented flying/gliding/floating platform to sample the lower cloud layer on Venus (48 — 52 km) for habitability (water, phosphates, redox energy sources), bio‑signatures (compartmentalization, biopolymers), cloud particle properties, & environmental conditions.
+   - An instrumented flying/gliding/floating platform to sample the lower cloud layer on Venus (48 — 52 ㎞) for habitability (water, phosphates, redox energy sources), bio‑signatures (compartmentalization, biopolymers), cloud particle properties, & environmental conditions.
    - Three to five long‑lived surface stations distributed around the planet for obtaining atmospheric measurements during descent & monitoring surface conditions after landing. High temperature sensors, command & data handling electronics, & telecom allow these landers to survive as long as their high temperature batteries last (about four months).
 
 Lagrange Point Orbiters (LPOs) are being considered for the Venera‑D mission being studied jointly by Roscosmos/IKI & NASA (Zasova et al., 2019) & the science value of LPOs for monitoring Venus has been described by Limaye & Kovalenko (2019). Their deployment at L1 & L2 has been described by Kovalenko et al. (2019). These & other VOS elements are described below along with each of the measurements to be considered.
@@ -224,7 +224,7 @@ Two small orbiters carrying the same instrument suite as the Lagrange point orbi
 
 **Aerial Platform(s).**
 
-The aim of the aerial platform is to sample a limited vertical portion of the Venus cloud layer, which extends from 47 km to 70 km altitude at low latitudes, but up to only about 67 km at polar latitudes. The science goals for the aerial platform are:
+The aim of the aerial platform is to sample a limited vertical portion of the Venus cloud layer, which extends from 47 ㎞ to 70 ㎞ altitude at low latitudes, but up to only about 67 ㎞ at polar latitudes. The science goals for the aerial platform are:
 
    1. search for substances that are responsible for absorption of solar radiation (0.2 — 1.0 μm) & which may account for some of the opacity at near infrared wavelengths (1 — 3 μm),
    2. characterize the bounds of habitability & potential bio‑signatures by measuring cloud particle physical, chemical & optical properties,
@@ -295,7 +295,7 @@ The science implemented by SAEVe (Kremic et al., 2018) is focused on seismology 
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

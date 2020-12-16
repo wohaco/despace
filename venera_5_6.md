@@ -5,10 +5,10 @@
 
 ---
 
-> <small>*Terms:* **Венера‑5** — Russian term with no analogues in English. **Venera 5** — English equivalent.</small>  
-> <small>**Венера‑6** — Russian term with no analogues in English. **Venera 6** — English equivalent.</small>
+> <small>**Венера‑5** — RU term w/o analogues in English. **Venera 5** — English equivalent.</small>  
+> <small>**Венера‑6** — RU term w/o analogues in English. **Venera 6** — English equivalent.</small>
 
-**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 km, the lander took measurements of temperature (from 25 to 320 ℃), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97 % CO₂, 2 % N₂, O₂<1 %, and traces of water vapor were found.
+**Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 ㎞, the lander took measurements of temperature (from 25 to 320 ℃), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97 % CO₂, 2 % N₂, O₂<1 %, and traces of water vapor were found.
 
 [![](f/project/v/venera_5_6/pic01_thumb.jpg)](f/project/v/venera_5_6/pic01.jpg)
 
@@ -23,7 +23,7 @@
 |Launch|**Venera 5:** January 5, 1969, 06:28:08 UTC Rocket: Molniya 8K78M<br> **Venera 6:** January 10, 1969, 05:51:52 UTC Rocket: Molniya 8K78M|
 |Operator|Lavochkin|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • Past: [Venera 4](venera_4.md)|
+|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • ㎩st: [Venera 4](venera_4.md)|
 |Target|Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface|
 |[Type](sc.md)|Atmospheric spacecraft|
 |**Spacecraft:**|• • •|
@@ -32,7 +32,7 @@
 |Contractor|…|
 |[ID](spaceid.md)|**Venera 5:** NSSDC ID (COSPAR ID): [1969-001A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1969-001A), SCN: 3642<br> **Venera 6:** NSSDC ID (COSPAR ID): [1969-002A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1969-002A), SCN: 3648|
 |Manufacturer|Lavochkin|
-|Mass|SC 1 130 kg, Lander dry 410 kg ([large satellite](sc.md), [EVN‑073](venus.md))|
+|Mass|SC 1 130 ㎏, Lander dry 410 ㎏ ([large satellite](sc.md), [EVN‑073](venus.md))|
 |Orbit / Site|**Venera 5:** Heliocentric 0.72 × 0.98 AU; T = 286 days<br> **Venera 6:** Heliocentric 0.71 × 0.98 AU; T = 285 days|
 |Payload|**Spacecraft:** Instrument to study the flows of cosmic particles, to determine the distribution of oxygen and hydrogen in the planet’s atmosphere<br> **Lander:** Equipment for Making Atmospheric Measurements|
 |Power|…|
@@ -71,7 +71,7 @@ Venera 5 and Venera 6 were launched towards Venus to obtain atmospheric data
 
 **Venera 5**
 
-Venera 5 was launched into an Earth parking orbit on 5 January 1969 at 06:28:08 UTC and then from a Tyazheliy Sputnik (69-001C) towards Venus. After a mid-course maneuver on 14 March 1969, the lander was released from the orbiter on 16 May 1969 at a distance of 37 000 km from Venus. The lander entered the nightside atmosphere at 06:01 UTC ([EVN‑003](venus.md)) and when the velocity slowed to 210 m/s the parachute deployed and transmissions to Earth began. The lander sent read-outs every 45 s for 53 min before finally succumbing to the temperature and pressure at roughly 320 ℃, 26.1 bar.
+Venera 5 was launched into an Earth parking orbit on 5 January 1969 at 06:28:08 UTC and then from a Tyazheliy Sputnik (69-001C) towards Venus. After a mid-course maneuver on 14 March 1969, the lander was released from the orbiter on 16 May 1969 at a distance of 37 000 ㎞ from Venus. The lander entered the nightside atmosphere at 06:01 UTC ([EVN‑003](venus.md)) and when the velocity slowed to 210 ㎧ the parachute deployed and transmissions to Earth began. The lander sent read-outs every 45 s for 53 min before finally succumbing to the temperature and pressure at roughly 320 ℃, 26.1 ㍴.
 
 The lander confirmed the high temperatures, pressures, and carbon dioxide composition of the atmosphere found by Venera 4 ([EVN‑001](venus.md), [014](venus.md), [077](venus.md)). It landed at 3°S 18°E.
 
@@ -79,9 +79,9 @@ None of the photometers did not register any glow of the atmosphere ([EVN‑008]
 
 **Venera 6**
 
-Venera 6 was launched into an Earth parking orbit on January 10, 1969 at 05:51:52 UTC and then from a Tyazheliy Sputnik (69-002C) towards Venus. After a mid-course maneuver on March 16 the Venera 6 spacecraft was released on May 17, 1969, 25 000 km from the planet.
+Venera 6 was launched into an Earth parking orbit on January 10, 1969 at 05:51:52 UTC and then from a Tyazheliy Sputnik (69-002C) towards Venus. After a mid-course maneuver on March 16 the Venera 6 spacecraft was released on May 17, 1969, 25 000 ㎞ from the planet.
 
-It entered the nightside atmosphere at 06:05 UTC ([EVN‑003](venus.md)) and deployed the parachute. The lander sent back readouts every 45 s for 51 min and ceased operation due the temperature and pressure effects at roughly 10 to 12 km altitude. The photometer failed to operate, but the atmosphere was sampled at 2 bar and 10 bar pressures. It landed at 5°S 23°E.
+It entered the nightside atmosphere at 06:05 UTC ([EVN‑003](venus.md)) and deployed the parachute. The lander sent back readouts every 45 s for 51 min and ceased operation due the temperature and pressure effects at roughly 10 to 12 ㎞ altitude. The photometer failed to operate, but the atmosphere was sampled at 2 bar and 10 ㍴ pressures. It landed at 5°S 23°E.
 
 After analyzing data obtained, the composition of the atmosphere according to the updated data was: carbon dioxide 97 %, nitrogen 2 % ([EVN‑001](venus.md), [014](venus.md), [077](venus.md)). A sensor with a sensitivity limit of 0.1 % of oxygen could not detect.
 
@@ -107,7 +107,7 @@ The main task of the spacecrafts was to obtain data about the atmosphere with th
 
 **Lander**
 
-   - Pressure sensors **MDDA-A** type to measure atmospheric pressure in the range from 100 to 30 000 mm Hg Art. (0.13 — 40 atm);
+   - Pressure sensors **MDDA-A** type to measure atmospheric pressure in the range from 100 to 30 000 ㎜ Hg Art. (0.13 — 40 atm);
    - **G-8** gas analyzers to determine the chemical composition of the atmosphere ([EVN‑014](venus.md));
    - **VIP** device for determining the density of the atmosphere at an altitude;
    - **FD-69** for illumination measurements in the atmosphere ([EVN‑013](venus.md));
@@ -120,7 +120,7 @@ The main task of the spacecrafts was to obtain data about the atmosphere with th
 ## Spacecraft
 The spacecrafts comprised a lander, designed to enter the Venus atmosphere and parachute to the surface, and a carrier spacecraft, which carried the lander to Venus and served as a communications relay for the lander ([EVN‑092](venus.md)).
 
-The orbiters were idential to Venera 4. The landers were strenghtened, withstanding an overload of 450 G and pressure up to 25 bar. The heat shield withstood a temperature of 11 000 ℃. The design of the Venera 5 was similar to the design of the Venera 4, only the lander underwent significant changes.
+The orbiters were idential to Venera 4. The landers were strenghtened, withstanding an overload of 450 G and pressure up to 25 ㍴. The heat shield withstood a temperature of 11 000 ℃. The design of the Venera 5 was similar to the design of the Venera 4, only the lander underwent significant changes.
 
 The area of the brake dome was reduced to 1.9 m² and the main dome to 12 m². The heat resistant parachute fabric was designed to operate at temperatures above 500 ℃.
 
@@ -149,7 +149,7 @@ The spacecrafts were equipped with parabolic high‑gain antennas (the antennas 
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

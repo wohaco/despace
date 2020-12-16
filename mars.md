@@ -5,13 +5,13 @@
 
 ---
 
-> <small>*Термины:* **Марс** — русскоязычный термин. **Mars** — англоязычный эквивалент.</small>
+> <small>**Марс** — русскоязычный термин. **Mars** — англоязычный эквивалент.</small>
 
-**Марс** (астр. ♂ [ ❐](f/aob/mars/mars_symbol.png)) — четвёртая по удалённости от [Солнца](sun.md) и седьмая по размерам планета Солнечной системы; масса планеты составляет 10.7 % массы [Земли](earth.md). Названа в честь Марса — древнеримского бога войны, соответствующего древнегреческому Аресу. Иногда Марс называют «красной планетой» из‑за красноватого оттенка поверхности, придаваемого ей оксидом железа.
+**Марс** (астр. ♂ [ ❐](f/aob/mars/mars_symbol.png)) — четвёртая по удалённости от [Солнца](sun.md) и седьмая по размерам [планета](aob.md) Солнечной системы; масса планеты составляет 10.7 % массы [Земли](earth.md). Названа в честь Марса — древнеримского бога войны, соответствующего древнегреческому Аресу. Иногда Марс называют «красной планетой» из‑за красноватого оттенка поверхности, придаваемого ей оксидом железа.
 
 Марс — планета земной группы с разреженной атмосферой (давление у поверхности в 160 раз меньше [земного](earth.md)). Особенностями рельефа Марса считаются ударные кратеры наподобие лунных, а также вулканы, долины, пустыни и полярные ледниковые шапки наподобие земных.
 
-У Марса два естественных спутника — [Фобос](phobos.md) и [Деймос](deimos.md) (в переводе с древнегреческого — «страх» и «ужас», имена двух сыновей Ареса, сопровождавших его в бою), которые малы (Фобос — 26.8×22.4×18.4 km, Деймос — 15×12.2×10.4 km) и имеют неправильную форму.
+У Марса два естественных спутника — [Фобос](phobos.md) и [Деймос](deimos.md) (в переводе с древнегреческого — «страх» и «ужас», имена двух сыновей Ареса, сопровождавших его в бою), которые малы (Фобос — 26.8×22.4×18.4 ㎞, Деймос — 15×12.2×10.4 ㎞) и имеют неправильную форму.
 
 Начиная с 1960‑х годов непосредственным исследованием Марса с помощью АМС занимались СССР (программы «Марс» и «Фобос»), США (программы «Маринер», «Викинг», «Mars Global Surveyor» и другие), Европа (программа «Марс‑экспресс») и Индия (программа «Мангальян»). На сегодняшний день, после Земли, Марс — самая подробно изученная планета Солнечной системы.
 
@@ -25,41 +25,41 @@
 |:--|:--|
 |Flight from Earth|7 мес на ЖРДУ (~ 210 суток)|
 |Signal from Earth|3 ‑ 22 минут|
-|Distance from Earth|55.76 ‑ 401 млн km|
+|Distance from Earth|55.76 ‑ 401 млн ㎞|
 |Breaking to the orbit||
 |**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|249 232 000 km (1.666 [а.e.](si.md));<br> 206 655 000 km (1.381 [а.e.](si.md))|
+|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|249 232 000 ㎞ (1.666 [а.e.](si.md));<br> 206 655 000 ㎞ (1.381 [а.e.](si.md))|
 |[Argument of periapsis](keplerian.md) (ω)|286.46230°|
-|[Semimajor axis](keplerian.md) (a)|2.2794382·10⁸ km (1.523662 а.e.) <small>(1.524 земной)</small>|
+|[Semimajor axis](keplerian.md) (a)|2.2794382·10⁸ ㎞ (1.523662 а.e.) <small>(1.524 земной)</small>|
 |Day/year|…/… земных|
 |[Longit. of asc.node](keplerian.md) (Ω)|49.57854°|
 |[Inclination](keplerian.md) (Ⅰ)|1.85061° (относительно эклиптики);<br> 5.65° (относительно солнечного экватора)|
-|Orbital velocity (Ⅴ)|24.13 km/s (средн.);<br> 24.077 km/s|
+|Orbital velocity (Ⅴ)|24.13 ㎞/s (средн.);<br> 24.077 ㎞/s|
 |[Sider. rotat.period](astroperiod.md) (T, day)|1.02595675 дня (24 h 39 min 35.244 s)|
 |[Sidereal period](astroperiod.md) (year)|686.98 земных суток <small>(1.8808476 земных лет)</small>|
 |[Synodic period](astroperiod.md)|779.94 земных суток|
 |Satellites|[Деймос](deimos.md), [Фобос](phobos.md)|
-|[Hill sphere](hill_sphere.md)|950 000 km|
+|[Hill sphere](hill_sphere.md)|950 000 ㎞|
 |Satellite of|[Солнце](sun.md)|
 |[Eccentricity](keplerian.md) (e)|0.0933941|
 |**Physics:**|• • •|
-|[1st escape velocity](esc_vel.md) (v₁)|3.546 km/s <small>(0.45 земной)</small>|
-|[2nd escape velocity](esc_vel.md) (v₂)|5.03 km/s <small>(0.45 земной)</small>|
+|[1st escape velocity](esc_vel.md) (v₁)|3.546 ㎞/s <small>(0.45 земной)</small>|
+|[2nd escape velocity](esc_vel.md) (v₂)|5.03 ㎞/s <small>(0.45 земной)</small>|
 |[Albedo](albedo.md)|0.250 (Бонд); 0.150 (геом. альбедо); 0.170|
 |[Apparent magnitude](app_mag.md) (m)|–2,91<small>m</small> (при макс. сближении с Землёй)|
 |[Magnetic field](mag_field.md)|0.04775 ‑ 0.09549 А/м <small>(0.001 ‑ 0.0024 земного)</small>|
-|Mass (m)|6.4185·10²³ kg <small>(0.107 земной)</small>|
+|Mass (m)|6.4185·10²³ ㎏ <small>(0.107 земной)</small>|
 |Axial tilt|25.1919°|
-|Volume (Ⅴ)|1.6318·10¹¹ km³ <small>(0.151 земного)</small>|
-|Mean density (ρ)|3.933 g/cm³ (средняя, <small>0.714 земной</small>)|
-|Surface area (S)|144 371 391 km² <small>(0.283 земной)</small>|
+|Volume (Ⅴ)|1.6318·10¹¹ ㎞³ <small>(0.151 земного)</small>|
+|Mean density (ρ)|3.933 g/㎝³ (средняя, <small>0.714 земной</small>)|
+|Surface area (S)|144 371 391 ㎞² <small>(0.283 земной)</small>|
 |Flattening|0.00589 <small>(1.76 земного)</small>|
-|Radius|3 396.2 km (экватор., <small>0.532 земного</small>);<br> 3 376.2 km (полярный, <small>0.531 земного</small>);<br> 3 389.5 km (средний, <small>0.5320 земного</small>)|
+|Radius|3 396.2 ㎞ (экватор., <small>0.532 земного</small>);<br> 3 376.2 ㎞ (полярный, <small>0.531 земного</small>);<br> 3 389.5 ㎞ (средний, <small>0.5320 земного</small>)|
 |Solar constant|586 W/m², 569 ‑ 608 W/m² (0.4308 Earth’s)|
-|[Surface gravity](g.md)|3.711 m/s² (экватор, <small>0.378 земного</small>)|
-|Equatorial rotation velocity|868.22 km/h <small>(0.518 земного)</small>|
+|[Surface gravity](g.md)|3.711 ㎧² (экватор, <small>0.378 земного</small>)|
+|Equatorial rotation velocity|868.22 ㎞/h <small>(0.518 земного)</small>|
 |**Temperature & atmosph.:**|• • •|
-|[Атмосфера](atmosphere.md)|**Давление** 0.4 ‑ 0.87 кПа (4·10⁻³ ‑ 8,7·10⁻³ атм).<br> **Состав:**<br> 95.32 % углекислый газ;<br> 2.7 % азот;<br> 1.6 % аргон;<br> 0.13 % кислород;<br> 0.08 % угарный газ;<br> 0.021 % водяной пар;<br> 0.01 % окись азота|
+|[Атмосфера](atmosphere.md)|**Давление** 0.4 ‑ 0.87 ㎪ (4·10⁻³ ‑ 8,7·10⁻³ атм).<br> **Состав:**<br> 95.32 % углекислый газ;<br> 2.7 % азот;<br> 1.6 % аргон;<br> 0.13 % кислород;<br> 0.08 % угарный газ;<br> 0.021 % водяной пар;<br> 0.01 % окись азота|
 |[Освещённость](illum.md)||
 |[Radiation](ion_rad.md)||
 |Температура|на поверхности от –140 ℃ до +20 ℃;<br> по всей планете Мин. 186 К (−87 ℃);<br> по всей планете Ср. 210 K (−63 ℃);<br> по всей планете Макс. 268 К (−5 ℃)|
@@ -67,11 +67,11 @@
 
 
 ### Орбитальные
-Минимальное расстояние от Марса до Земли составляет 55.76 млн km (когда Земля находится точно между Солнцем и Марсом), максимальное — около 401 млн km (когда Солнце находится точно между Землёй и Марсом).
+Минимальное расстояние от Марса до Земли составляет 55.76 млн ㎞ (когда Земля находится точно между Солнцем и Марсом), максимальное — около 401 млн ㎞ (когда Солнце находится точно между Землёй и Марсом).
 
-Среднее расстояние от Марса до Солнца составляет 228 млн km (1.52 а.e.), период обращения вокруг Солнца равен 687 земным суткам. Орбита Марса имеет довольно заметный эксцентриситет (0.0934), поэтому расстояние до Солнца меняется от 206.6 до 249.2 млн km. Наклонение орбиты Марса к плоскости эклиптики равно 1.85°.
+Среднее расстояние от Марса до Солнца составляет 228 млн ㎞ (1.52 а.e.), период обращения вокруг Солнца равен 687 земным суткам. Орбита Марса имеет довольно заметный эксцентриситет (0.0934), поэтому расстояние до Солнца меняется от 206.6 до 249.2 млн ㎞. Наклонение орбиты Марса к плоскости эклиптики равно 1.85°.
 
-Марс ближе всего к Земле во время противостояния, когда планета находится на небе в направлении, противоположном Солнцу. Противостояния повторяются каждые 26 месяцев в разных точках орбиты Марса и Земли. Раз в 15 ‑ 17 лет противостояния приходятся на то время, когда Марс находится вблизи своего перигелия; в этих традиционно называемых великими противостояниях расстояние до планеты минимально (менее 60 млн km), и Марс достигает наибольшего углового размера 25.1″ и яркости −2.88m.
+Марс ближе всего к Земле во время противостояния, когда планета находится на небе в направлении, противоположном Солнцу. Противостояния повторяются каждые 26 месяцев в разных точках орбиты Марса и Земли. Раз в 15 ‑ 17 лет противостояния приходятся на то время, когда Марс находится вблизи своего перигелия; в этих традиционно называемых великими противостояниях расстояние до планеты минимально (менее 60 млн ㎞), и Марс достигает наибольшего углового размера 25.1″ и яркости −2.88m.
 
 |Расстояние между Землёй и Марсом (в [а.е.](si.md))<br> во время противостояний 2014 ‑ 2061 гг.|
 |:--|
@@ -144,7 +144,7 @@
 |—|**Proposed:**|—|—|—|—|—|—|—|—|
 ||…||||||||<mark>TBD</mark>|
 |—|**Developing:**|—|—|—|—|—|—|—|—|
-|EU·RU|[Экспедиция‑М](экспедиция_м.md) (ЭМБ) Ⓛ|2022|C|D|||S|X|<mark>TBD</mark>|
+|EU·RU|[Экспедиция‑М](экспедиция_м.md) (Э㎆) Ⓛ|2022|C|D|||S|X|<mark>TBD</mark>|
 |EU·RU|[ЭкзоМарс‑2020](экзомарс_2020.md) (ЭКЗ) Ⓛ|2020|C||||||<mark>TBD</mark>|
 |—|**Active:**|—|—|—|—|—|—|—|—|
 |…|…|…|||||||<mark>TBD</mark>|
@@ -186,7 +186,7 @@ Targets & explorations for Mars. (Comments: **T** — technical; **Draft** — m
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](earth.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_space.md) ┊ [Pale Blue Dot](earth.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](earth.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 

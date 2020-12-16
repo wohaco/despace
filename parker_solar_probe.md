@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Parker Solar Probe (Solar Probe, Solar Probe Plus, Solar Probe+, PSP)** — English term with no analogues in Russian. **Солнечный зонд «Паркер»** — literal translation to Russian.</small>
+> <small>**Parker Solar Probe (Solar Probe, Solar Probe Plus, Solar Probe+, PSP)** — EN term. **Солнечный зонд «Паркер»** — literal RU translation.</small>
 
 **Parker Solar Probe** is a NASA robotic spacecraft launched in 2018, with the mission of repeatedly probing and making observations of the outer corona of the Sun. 
 
@@ -18,13 +18,13 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|US$1.5 billion or 36 780 kg of [gold](sc_price.md)|
+|Cost|US$1.5 billion or 36 780 ㎏ of [gold](sc_price.md)|
 |Development|2008-2018|
 |Duration|Planned: 6 years, 321 days|
 |Launch|August 12, 2018, 07:31 UTC, Rocket Delta IV Heavy / Star-48BV|
 |Operator|NASA · Applied Physics Laboratory|
 |Programme|Parker Solar Probe|
-|Similar to|• Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • Past: [MESSENGER](messnger.md)|
+|Similar to|• Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • ㎩st: [MESSENGER](messnger.md)|
 |Target|Trace the flow of energy that heats the corona and accelerates the solar wind.<br>Determine the structure and dynamics of the magnetic fields at the sources of solar wind.<br>Determine what mechanisms accelerate and transport energetic particles.|
 |[Type](sc.md)|Fly‑by spacecraft; orbiter spacecraft|
 |**Spacecraft:**|• • •|
@@ -34,7 +34,7 @@
 ||**`…`**|
 |Comms|Ka band, X‑band|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): 2018-065A, SCN: 43592|
-|Mass|Dry: 555 kg ([Medium satellite](спутник.md), [EVN‑072](evn_072.md))|
+|Mass|Dry: 555 ㎏ ([Medium satellite](спутник.md), [EVN‑072](evn_072.md))|
 |Orbit / Site|Heliocentric; 0.046 × 0.73 AU; T = 88 days|
 |Payload|Electromagnetic Fields Investigation, Integrated Science Investigation of the Sun, Wide-field Imager for Solar Probe, Solar Wind Electrons Alphas and Protons, Heliospheric Origins with Solar Probe Plus|
 |Power|343 W|
@@ -59,7 +59,7 @@ Targets & investigations:
 
 
 ## Mission
-It will approach to within 9.86 solar radii from the center of the Sun and by 2025 will travel, at closest approach, as fast as 690 000 km/h, or 0.064 % the speed of light.
+It will approach to within 9.86 solar radii from the center of the Sun and by 2025 will travel, at closest approach, as fast as 690 000 ㎞/h, or 0.064 % the speed of light.
 
 The Parker Solar Probe will be the first spacecraft to fly into the low solar corona. It will assess the structure and dynamics of the Sun’s coronal plasma and magnetic field, the energy flow that heats the solar corona and impels the solar wind, and the mechanisms that accelerate energetic particles.
 
@@ -79,9 +79,9 @@ After the first Venus fly‑by, the probe will be in an elliptical orbit with a 
    - The first scientific observations were transmitted in December 2018.
    - NASA announced that on January 19, 2019, the Parker Solar Probe reached its first aphelion, thus completing its first full orbit.
 
-On December 4, 2019, the first four research papers were published describing findings during the spacecraft’s first two dives near the Sun. They reported the direction and strength of the Sun’s magnetic field, and described the unusually frequent and short-lived changes in the direction of the Sun’s magnetic field. These measurements confirm the hypothesis that Alfvén waves are the leading candidates for understanding the mechanisms that underlie the coronal heating problem. The probe observed approximately a thousand «rogue» magnetic waves in the solar atmosphere that instantly increase solar winds by as much as 480 000 km/h and in some cases completely reverse the local magnetic field. They also reported that, using the «beam of electrons that stream along the magnetic field», they were able to observe that «the reversals in the Sun’s magnetic field are often associated with localized enhancements in the radial component of the plasma velocity (the velocity in the direction away from the Sun’s centre)». The researchers found a «surprisingly large azimuthal component of the plasma velocity (the velocity perpendicular to the radial direction). This component results from the force with which the Sun’s rotation slingshots plasma out of the corona when the plasma is released from the coronal magnetic field».
+On December 4, 2019, the first four research papers were published describing findings during the spacecraft’s first two dives near the Sun. They reported the direction and strength of the Sun’s magnetic field, and described the unusually frequent and short-lived changes in the direction of the Sun’s magnetic field. These measurements confirm the hypothesis that Alfvén waves are the leading candidates for understanding the mechanisms that underlie the coronal heating problem. The probe observed approximately a thousand «rogue» magnetic waves in the solar atmosphere that instantly increase solar winds by as much as 480 000 ㎞/h and in some cases completely reverse the local magnetic field. They also reported that, using the «beam of electrons that stream along the magnetic field», they were able to observe that «the reversals in the Sun’s magnetic field are often associated with localized enhancements in the radial component of the plasma velocity (the velocity in the direction away from the Sun’s centre)». The researchers found a «surprisingly large azimuthal component of the plasma velocity (the velocity perpendicular to the radial direction). This component results from the force with which the Sun’s rotation slingshots plasma out of the corona when the plasma is released from the coronal magnetic field».
 
-Parker discovered evidence of a cosmic dust free zone of 5.6 million km radius from the Sun, due to vaporisation of cosmic dust particles by the Sun’s radiation.
+Parker discovered evidence of a cosmic dust free zone of 5.6 million ㎞ radius from the Sun, due to vaporisation of cosmic dust particles by the Sun’s radiation.
 
 <p style="page-break-after:always"> </p>
 
@@ -105,7 +105,7 @@ To achieve these goals, the mission will perform five major experiments or inves
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-The spacecraft’s systems are protected from the extreme heat and radiation near the Sun by a solar shield. Incident solar radiation at perihelion is approximately 650 kW/m², or 475 times the intensity at Earth orbit. The solar shield is hexagonal, mounted on the Sun-facing side of the spacecraft, 2.3 m in diameter, 11.4 cm thick, and is made of reinforced carbon–carbon composite, which is designed to withstand temperatures outside the spacecraft of about 1 370 ℃.
+The spacecraft’s systems are protected from the extreme heat and radiation near the Sun by a solar shield. Incident solar radiation at perihelion is approximately 650 kW/m², or 475 times the intensity at Earth orbit. The solar shield is hexagonal, mounted on the Sun-facing side of the spacecraft, 2.3 m in diameter, 11.4 ㎝ thick, and is made of reinforced carbon–carbon composite, which is designed to withstand temperatures outside the spacecraft of about 1 370 ℃.
 
 A white reflective alumina surface layer minimizes absorption. The spacecraft systems and scientific instruments are located in the central portion of the shield’s shadow, where direct radiation from the Sun is fully blocked. As radio communication with Earth will take about eight minutes in each direction, the Parker Solar Probe will have to act autonomously and rapidly to protect itself. This will be done using four light sensors to detect the first traces of direct sun light coming from the shield limits and engaging movements from reaction wheels to reposition the spacecraft within the shadow again.
 
@@ -133,7 +133,7 @@ The primary power for the mission is a dual system of solar panels (photovoltaic
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

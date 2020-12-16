@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Venus Flagship Mission (VFM)** — English term with no analogues in Russian. **Венерианская флагманская миссия (ВФМ)** literal translation to Russian.</small>
+> <small>**Venus Flagship Mission (VFM)** — EN term. **Венерианская флагманская миссия (ВФМ)** literal translation to Russian.</small>
 
 **Venus Flagship Mission (VFM)** — proposed flagship mission ([Class A, Flagship](fs.md)) [NASA](zz_nasa.md) to exploration of [Venus](venus.md)) by remote and contact methods.
 
@@ -20,14 +20,14 @@ The original report dates back to 2007.
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|$ 2.7 B ‑ 3.8 B or 86 370 ‑ 121 560 kg of [gold](sc_price.md) in 2009 prices|
+|Cost|$ 2.7 B ‑ 3.8 B or 86 370 ‑ 121 560 ㎏ of [gold](sc_price.md) in 2009 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
 |Duration|2.5 years|
 |Launch|2032, [Canaveral](canaveral.md), [Atlas V 551](atlas.md) (one for the orbiter, the other for the in situ vehicles & carrier)|
 |Operator|NASA|
 |Programme|…|
-|Similar to|• Proposed: [Venera‑D](venera_d.md) (RU);<br> • Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> • Past: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978).|
+|Similar to|• Proposed: [Venera‑D](venera_d.md) (RU);<br> • Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> • ㎩st: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978).|
 |Target|To understand the venusian greenhouse effect, atmospheric superrotation, climate changing, geo activity, water, atmosphere & surface evolution, inner structure, chemical structures etc.|
 |[Type](sc.md)|Orbiter spacecraft; atmospheric spacecraft; lander spacecraft|
 |**Spacecraft:**|• • •|
@@ -35,18 +35,18 @@ The original report dates back to 2007.
 |Contractor|…|
 |Manufacturer|…|
 ||**`Orbiter`**|
-|Comms|Ka/X‑band (to‑Earth, 52.6 GB/day); S‑band (to‑in situ)|
+|Comms|Ka/X‑band (to‑Earth, 52.6 ㎇/day); S‑band (to‑in situ)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
 |Duration|2.5 y (incl. 6 m for transit, 2 y for work)|
-|Mass|wet: 5 306 kg, dry: 2 275 kg, payload: 290.4 kg ([large satellite](sc.md), ([EVN‑073](venus.md)))|
-|Orbit / Site|230 × 230 km|
+|Mass|wet: 5 306 ㎏, dry: 2 275 ㎏, payload: 290.4 ㎏ ([large satellite](sc.md), ([EVN‑073](venus.md)))|
+|Orbit / Site|230 × 230 ㎞|
 |Payload|[SAR](sar.md), spectrometers, magnetomeeters, sounder, oscillator|
 |Power|32 m² solar panels (9 868 W EOL)|
 ||**`Carrier`**|
 |Comms|• carrier: X/S‑band (to‑Earth, to‑in situ), S‑band (to‑in situ)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
 |Duration|• balloons: 30 d in atmosphere;<br> • landers: 5 h on surface + 1 h of descent|
-|Mass|• carrier wet: 5 578 kg;<br> • balloons: 162.5 kg (22.5 kg payload);<br> • landers: 686 kg (106.2 kg payload)|
+|Mass|• carrier wet: 5 578 ㎏;<br> • balloons: 162.5 ㎏ (22.5 ㎏ payload);<br> • landers: 686 ㎏ (106.2 ㎏ payload)|
 |Orbit / Site|…|
 |Power|• carrier: 4.4 m² solar panels;<br> • balloons: batterie 10.5 kWh;<br> • landers: batterie 6 kWh|
 |Payload|• balloons: pressure/temp/wind detectors, spectrometer, nephelometer, magnetometer, camera;<br> • landers: cameras, magneetometer, nephelometer, radiometer, drilling rig, gamma detector|
@@ -88,7 +88,7 @@ Targets & objectives:
 |EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|||C|||S|
 |EVN‑063|T|Surface: panoramic imaging.|||C||||
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.||D|||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.||D|||||
 |EVN‑088|T|Surface: subsurface investigations.|||C||||
 |EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
 |EVN‑093|T|Atmosphere/surface imaging.||D||F|||
@@ -205,7 +205,7 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science drivi
 |Neutral Ion Mass Spectrometer|Nephelometer|GC / MS|Heat Flux Plate|
 |Sub‑mm Sounder|Vis‑NIR camera|Magnetometer|Passive Gamma Ray Detector|
 |Magnetometer|Magnetometer|Net Flux Radiometer|Sample acquisition, transfer, & preparation|
-|Langmuir Probe|Radio tracking|Nephelometer|Drill to ~10 cm|
+|Langmuir Probe|Radio tracking|Nephelometer|Drill to ~10 ㎝|
 |Radio Subsystem (USO — Ultra Stable Oscillator)|||Microwave Corner reflector|
 
 
@@ -219,17 +219,17 @@ Further details on the timeline are provided in Figure 3.
 
    - **Step 1**: Carrier spacecraft launch: April 30, 2021 on an Atlas V 551 L/V (w/ 5 m diameter fairing); on a Type IV trajectory to Venus (arrives second).
    - **Step 2**: Orbiter spacecraft launch: October 29, 2021 on an Atlas V 551 L/V (w/ 5 m diameter fairing); on a Type II trajectory to Venus (arrives first).
-   - **Step 3**: Orbiter arrives on April 6, 2022 (159‑day cruise) Venus Orbit Insertion (VOI) maneuver; 300 × 40 000 km orbit for telecom relay support for (balloons & landers).
+   - **Step 3**: Orbiter arrives on April 6, 2022 (159‑day cruise) Venus Orbit Insertion (VOI) maneuver; 300 × 40 000 ㎞ orbit for telecom relay support for (balloons & landers).
    - **Step 4**: Carrier fly‑by on July 30, 2022 (436 days of cruise) Entry system #1 release: 20 days before carrier’s Venus fly‑by; Entry system #2 release: 10 days before carrier’s Venus fly‑by; Backup relay telecom support during lander’s lifetime.
    - **Step 5**: Staggered entry for entry systems (13 hours — one orbiter revolution); Entry, Descent, & Inflation (EDI) phases for the balloons; Entry, Descent, & Landing (EDL) phases for the landers.
       - **Step 5a**: Pre‑entry phase: entry system (w/ balloon & lander) cruises to Venus.
       - **Step 5b**: Atmospheric entry; entry heating; deceleration; Deployment of drogue parachute.
       - **Step 5c**: Separation of aeroshell into two parts; Main chutes open for balloon & lander elements; Balloon released from storage container.
       - **Step 5d**: Full balloon inflation in ~5 minutes.
-      - **Step 5e**: Helium inflation system jettisoned; Balloon rises to 55.5 km equilibrium altitude; Lander continues its descent to the surface; descent science.
+      - **Step 5e**: Helium inflation system jettisoned; Balloon rises to 55.5 ㎞ equilibrium altitude; Lander continues its descent to the surface; descent science.
       - **Step 5f**: Balloon cord extended: One‑month balloon science mission phase begins. Balloon data relayed to orbiter.
       - **Step 5g**: Lander reaches the ground after 1 hour of descent; Begin 5‑hour surface science operations phase; Lander data relayed to orbiter.
-   - **Step 6**: Orbiter completes relay telecom support: 6 months of aerobraking to 230 km circular orbit; 2 years of orbiter science operations in prime mission (sufficient propellant for 2‑year extended mission).
+   - **Step 6**: Orbiter completes relay telecom support: 6 months of aerobraking to 230 ㎞ circular orbit; 2 years of orbiter science operations in prime mission (sufficient propellant for 2‑year extended mission).
 
 [![](f/project/v/venus_flagship_mission/vfm_07_thumb.jpg)](f/project/v/venus_flagship_mission/vfm_07.jpg)<br> **Figure 1**
 
@@ -247,14 +247,14 @@ Further details on the timeline are provided in Figure 3.
 
 ### VDRM Orbiter
    - Launch Vehicle: Atlas V‑551 (w/ 5 m diameter fairing)
-   - Mass (CBE + Cont.): 5 306 kg (wet); 2 275 kg (dry) ([EVN‑073](venus.md))
-   - Payload mass (CBE + Cont.): 290.4 kg
+   - Mass (CBE + Cont.): 5 306 ㎏ (wet); 2 275 ㎏ (dry) ([EVN‑073](venus.md))
+   - Payload mass (CBE + Cont.): 290.4 ㎏
    - Design: Dual string design
    - Power: 32 m² solar panels (9 868 W EOL)
    - Attitude Control: 3 axis stabilized
    - Comms: 4 m Ka/X‑band (Orbiter‑to‑Earth to 34‑m DSN antennas); 0.5 m S‑band (Orbiter‑to‑in situ); 2.5 m S‑band (Orbiter‑to‑in situ);
    - Functions: Relay telecom support ([EVN‑092](venus.md)) for in situ elements (30 days); 6 months of aerobraking to science orbit; Science orbiter (2 years baseline & 2 years extended)
-   - Science data return: ~300 Tbits of data to Earth over 2 years of science ops. *(~52.6 GB/day, or 2.5 MB/s during a 6 h transmit session)*
+   - Science data return: ~300 Tbits of data to Earth over 2 years of science ops. *(~52.6 ㎇/day, or 2.5 ㎆/s during a 6 h transmit session)*
 
 ![](f/project/v/venus_flagship_mission/vfm_03.png)
 
@@ -264,7 +264,7 @@ Further details on the timeline are provided in Figure 3.
 
 ### VDRM Carrier
    - Launch Vehicle: Atlas V‑551 (5 m diameter fairing)
-   - Mass (CBE + Cont.): 5 578 kg (wet) w/ entry systems; 1 640 kg (wet) w/o entry systems; 1 117 kg (dry) w/o entry systems; (Two entry systems: 3 938 kg)
+   - Mass (CBE + Cont.): 5 578 ㎏ (wet) w/ entry systems; 1 640 ㎏ (wet) w/o entry systems; 1 117 ㎏ (dry) w/o entry systems; (Two entry systems: 3 938 ㎏)
    - Design: Dual string design
    - Power: 4.4 m² solar panels
    - Attitude Control: 3‑axis stabilized; (Spin up for release of entry systems)
@@ -279,7 +279,7 @@ Further details on the timeline are provided in Figure 3.
 
 ### VDRM Entry Systems
    - Each entry system carries a balloon & a lander with supporting subsystems
-   - Mass (CBE + Cont.): 1 969 kg each
+   - Mass (CBE + Cont.): 1 969 ㎏ each
    - Design: Thermal Protection System: Carbon‑Phenolic
    - Aeroshell: 45° half cone angle (Pioneer‑Venus heritage); 2.65 m diameter
    - Spin stabilized after release from carrier
@@ -292,14 +292,14 @@ Further details on the timeline are provided in Figure 3.
 <p style="page-break-after:always"> </p>
 
 ### VDRM Balloons
-   - Mass (CBE + Cont.): 162.5 kg; Payload mass: 22.5 kg
+   - Mass (CBE + Cont.): 162.5 ㎏; Payload mass: 22.5 ㎏
    - Design: Single string, redundancy through multiple elements
    - 7.1 m diameter He filled superpressure balloon
    - Teflon coated for sulfuric acid resistance
    - Vectran fabric plus Mylar film construction; metalized for low solar heating
-   - Power: lithium‑thionyl chloride (Li‑SOCl₂) primary batteries (10.5 kWh, 22 kg)
+   - Power: lithium‑thionyl chloride (Li‑SOCl₂) primary batteries (10.5 kWh, 22 ㎏)
    - Comms: S‑band to Orbiter (backup to carrier fly‑by SC); (+ short carrier signal to Earth for Doppler & VLBI data)
-   - Functions: 30 days science operation at 55.5 km float altitude ([EVN‑084](venus.md))
+   - Functions: 30 days science operation at 55.5 ㎞ float altitude ([EVN‑084](venus.md))
 
 ![](f/project/v/venus_flagship_mission/vfm_12.jpg)
 
@@ -308,12 +308,12 @@ Further details on the timeline are provided in Figure 3.
 <p style="page-break-after:always"> </p>
 
 ### VDRM Landers
-   - Mass (CBE + Cont.): 686 kg; Payload mass: 106.2 kg
+   - Mass (CBE + Cont.): 686 ㎏; Payload mass: 106.2 ㎏
    - Design: Single string, redundancy through multiple elements
-   - 0.9 m diameter titanium shell (1 cm wall thickness)
-   - Rotating pressure vessel; Drill to 10 cm (2 samples)
-   - Thermal design: Passive thermal management: Lithium nitrate with phase change material; Silica insulation: 5 cm external; 1 cm internal; CO₂ backfilled pressure vessel
-   - Power: lithium‑thionyl chloride primary batteries (the same cells used on the balloons), (6 kWh, 12.6 kg)
+   - 0.9 m diameter titanium shell (1 ㎝ wall thickness)
+   - Rotating pressure vessel; Drill to 10 ㎝ (2 samples)
+   - Thermal design: Passive thermal management: Lithium nitrate with phase change material; Silica insulation: 5 ㎝ external; 1 ㎝ internal; CO₂ backfilled pressure vessel
+   - Power: lithium‑thionyl chloride primary batteries (the same cells used on the balloons), (6 kWh, 12.6 ㎏)
    - Comms: S‑band LGA to Orbiter with Electra (backup to fly‑by s/c)
    - Functions: Descent science for ~1 hour; Surface science for 5 hours
 
@@ -339,13 +339,13 @@ The Soviet Venus exploration program extended over more than two decades from th
 
 The Soviet program began with the Venera 1 probe. After 1961, the Soviet RKA developed a new spacecraft architecture consisting of an orbital module connected to a descent probe or lander for in situ missions, or to an instrument module for orbital or fly‑by missions. This architecture was implemented in all Venus missions from Zond 1 (1964) up to Venera 8 (1972). After the initial attempt with Venera 1, the Zond 1 impactor & the Venera 2 (1965) probe soon followed, but didn’t succeed due to telecom system failure. The next step was the Venera 3 probe (1965), the first man‑made object to land on another planet.
 
-During the late 1960s, the Soviet RKA continued to improve both the Venus orbiting module & descent capsule. At the time, it was thought that the surface temperature of Venus was approximately 300 ℃, with an atmosphere consisting mainly of carbon dioxide & nitrogen at about 20 bars. Consequently, the capsule was designed to survive 300 ℃ & 25 bars. Venera 4, launched in 1967, reached Venus & transmitted data on the atmosphere & environment until it reached an attitude of about 26 km after 93 minutes of descent. Venera 5 & Venera 6 were launched in 1969 within a week of one another. Both were equipped with a set of sensors to further characterize the Venus atmospheric temperature, pressure, & composition. Because they were designed to survive 25 bars, they were not expected to deliver any surface data. Although mission designers were aware of the new analysis of the Venus environment, it was too late to significantly redesign the landing capsule without missing the next launch opportunity. However, based on the experience with Venera 4, the parachutes were modified to accelerate the capsule’s descent, allowing it to reach greater depths prior to overheating the capsule’s electronics. Both Venera 5 & 6 survived the descent for about 50 minutes & reached altitudes of approximately 20 km, where the pressure exceeded 27 bars & temperature exceeded 300 ℃. Their failures were most likely due to crushing of the pressure vessel.
+During the late 1960s, the Soviet RKA continued to improve both the Venus orbiting module & descent capsule. At the time, it was thought that the surface temperature of Venus was approximately 300 ℃, with an atmosphere consisting mainly of carbon dioxide & nitrogen at about 20 ㍴s. Consequently, the capsule was designed to survive 300 ℃ & 25 ㍴s. Venera 4, launched in 1967, reached Venus & transmitted data on the atmosphere & environment until it reached an attitude of about 26 ㎞ after 93 minutes of descent. Venera 5 & Venera 6 were launched in 1969 within a week of one another. Both were equipped with a set of sensors to further characterize the Venus atmospheric temperature, pressure, & composition. Because they were designed to survive 25 ㍴s, they were not expected to deliver any surface data. Although mission designers were aware of the new analysis of the Venus environment, it was too late to significantly redesign the landing capsule without missing the next launch opportunity. However, based on the experience with Venera 4, the parachutes were modified to accelerate the capsule’s descent, allowing it to reach greater depths prior to overheating the capsule’s electronics. Both Venera 5 & 6 survived the descent for about 50 minutes & reached altitudes of approximately 20 ㎞, where the pressure exceeded 27 ㍴s & temperature exceeded 300 ℃. Their failures were most likely due to crushing of the pressure vessel.
 
 The next series of missions, Venera 7 (1970) to 10 (1975), represented a leap forward for in situ science as the first data were returned from another planet. These spacecraft were designed to sufficiently mitigate the challenging conditions experienced during descent through the Venus atmosphere, as well as on the surface. With Venera 9 (1975) & 10, the Soviet space agency introduced a completely redesigned spacecraft, used for all later Venus missions. Venera 9 & 10 transmitted data from the surface for 53 & 65 minutes, respectively. The landers’ capabilities were not the limiting factors in the surface survival time; instead, each mission terminated when its orbiter exited the communication range.
 
 The next series of landers, Venera missions 11, 12, 13, 14, (all launched in 1978 within a few days from each other) improved upon the successes of the ongoing Soviet Venus exploration program. These missions all descended to the surface in approximately one hour & lasted on the surface for up to two hours. The Venera 11 & 12 spacecraft were quite similar to Venera 9 & 10, with a few modifications & new instruments. They descended through the clouds & atmosphere to reach the surface in about one hour. Venera 11 transmitted data for about 95 minutes, until the fly‑by spacecraft used as relays were out of reach. Venera 12 transmitted data for 110 min. Unfortunately, not all the experiments on Venera 11 & 12 succeeded. Venera 13 was very similar to Venera 12, except for increased battery power & more instruments. Venera 13 included some aerodynamic modifications that increased the lander’s stability during free fall. The Venera 13 & 14 landers featured an improved sample acquisition system. Venera 13 transmitted for 127 min & Venera 14 for 57 min to the relay bus, until the relay moved out of the lander’s communication range.
 
-The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two identical spacecraft containing a lander & a balloon. This mission combined a Venus swingby & a Comet Halley fly‑by (thus the name Venera‑Gallei, or Vega). Two identical spacecraft, Vega 1 & Vega 2, were launched December 15 & 21, 1984, respectively. After carrying Venus entry probes to the vicinity of Venus, the two spacecraft were retargeted using Venus gravity field assistance to intercept Comet Halley in March 1986. The Vega architecture was similar to Venera 14, but it included new instruments focused on measuring the composition & size distribution of cloud particles, as well as on the direct detection of sulfuric acid. Each of the two Vega entry systems carried a Venera‑like lander & a 3.4 m diameter superpressure balloon. The balloons were designed to deploy & float high in the atmospheric clouds (~53 km) where the temperature was near that of Earth. The balloons traversed ~12 000 km & stopped transmitting after approximately 48 hrs of operation, after exhausting their batteries.
+The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two identical spacecraft containing a lander & a balloon. This mission combined a Venus swingby & a Comet Halley fly‑by (thus the name Venera‑Gallei, or Vega). Two identical spacecraft, Vega 1 & Vega 2, were launched December 15 & 21, 1984, respectively. After carrying Venus entry probes to the vicinity of Venus, the two spacecraft were retargeted using Venus gravity field assistance to intercept Comet Halley in March 1986. The Vega architecture was similar to Venera 14, but it included new instruments focused on measuring the composition & size distribution of cloud particles, as well as on the direct detection of sulfuric acid. Each of the two Vega entry systems carried a Venera‑like lander & a 3.4 m diameter superpressure balloon. The balloons were designed to deploy & float high in the atmospheric clouds (~53 ㎞) where the temperature was near that of Earth. The balloons traversed ~12 000 ㎞ & stopped transmitting after approximately 48 hrs of operation, after exhausting their batteries.
 
 ![](f/project/v/venus_flagship_mission/vfm_14.jpg) ![](f/project/v/venus_flagship_mission/vfm_15.jpg) ![](f/project/v/venus_flagship_mission/vfm_16.jpg) ![](f/project/v/venus_flagship_mission/vfm_17.jpg) ![](f/project/v/venus_flagship_mission/vfm_18.jpg)
 
@@ -356,9 +356,9 @@ The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two
 ### Fly‑by missions (Mariner, Galileo, MESSENGER)
 **Mariner 5**
 
-American probe Mariner 5 was originally built as a backup for Mariner 4 to Mars, but later it was refurbished & modified to go to Venus. The spacecraft was launched on June 14, 1967, & flew by Venus on October 19, 1967 (a day after Venera 4), at a distance of 3 990 km (2 480 miles). With its more sensitive instruments than aboard Mariner 2, it revealed new information about Venus’ atmosphere, including its composition of 85 ‑ 99 % carbon dioxide. Mariner 5 also studied the interplanetary space in the vicinity of Venus & advanced science & the art of building & operating interplanetary spacecraft.
+American probe Mariner 5 was originally built as a backup for Mariner 4 to Mars, but later it was refurbished & modified to go to Venus. The spacecraft was launched on June 14, 1967, & flew by Venus on October 19, 1967 (a day after Venera 4), at a distance of 3 990 ㎞ (2 480 miles). With its more sensitive instruments than aboard Mariner 2, it revealed new information about Venus’ atmosphere, including its composition of 85 ‑ 99 % carbon dioxide. Mariner 5 also studied the interplanetary space in the vicinity of Venus & advanced science & the art of building & operating interplanetary spacecraft.
 
-As a consequence, in 1968, Soviet & American scientists met in Tucson, Arizona, to discuss & compare results from both the Venera series & Mariner. This meeting led to a new estimate of 427 ℃ for the surface temperature & an estimate of 75 bars for the pressure, levels that exceeded the design limits of the Venera 4, 5, & 6 spacecraft family.
+As a consequence, in 1968, Soviet & American scientists met in Tucson, Arizona, to discuss & compare results from both the Venera series & Mariner. This meeting led to a new estimate of 427 ℃ for the surface temperature & an estimate of 75 ㍴s for the pressure, levels that exceeded the design limits of the Venera 4, 5, & 6 spacecraft family.
 
 ![](f/project/v/venus_flagship_mission/vfm_19.jpg)
 
@@ -376,11 +376,11 @@ For further details, see:   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do
 
 **Galileo Venus Fly‑by**
 
-Galileo was launched on October 18, 1989, aboard space shuttle Atlantis. To achieve sufficient velocity to reach Jupiter directly, the trajectory design included Venus‑Earth‑Earth gravity assist (swingby) scheme. The Venus gravity assist fly‑by occurred on February 9 ‑ 10, 1990, at a distance of 16 000 km above the cloudtops. Although the sole objective of this fly‑by was to pump up Galileo’s orbit, scientists used this opportunity to turn the spacecraft’s planetary sensors on the cloud‑shrouded planet, in order to study its atmosphere & environment. The scientific data was stored on the spacecraft tape recorder until late October, 1990, when Galileo was close enough to Earth to play them back over its low‑gain antenna. The Venus observations were selected on the basis of (1) not risking Jupiter observations in the 1995 ‑ 1997 Jovian orbital phase, (2) not exceeding the capacity of the tape, & (3) getting the best new scientific information about Venus.
+Galileo was launched on October 18, 1989, aboard space shuttle Atlantis. To achieve sufficient velocity to reach Jupiter directly, the trajectory design included Venus‑Earth‑Earth gravity assist (swingby) scheme. The Venus gravity assist fly‑by occurred on February 9 ‑ 10, 1990, at a distance of 16 000 ㎞ above the cloudtops. Although the sole objective of this fly‑by was to pump up Galileo’s orbit, scientists used this opportunity to turn the spacecraft’s planetary sensors on the cloud‑shrouded planet, in order to study its atmosphere & environment. The scientific data was stored on the spacecraft tape recorder until late October, 1990, when Galileo was close enough to Earth to play them back over its low‑gain antenna. The Venus observations were selected on the basis of (1) not risking Jupiter observations in the 1995 ‑ 1997 Jovian orbital phase, (2) not exceeding the capacity of the tape, & (3) getting the best new scientific information about Venus.
 
 Details on the Galileo mission can be found at <http://www2.jpl.nasa.gov/galileo/>
 
-During the 1990 Venus fly‑by of the Galileo spacecraft, the Near‑Infrared Mapping Spectrometer investigated the night‑side atmosphere of Venus in the spectral range 0.7 to 5.2 micrometers. Multispectral images at high spatial resolution indicated substantial cloud opacity variations in the lower cloud levels, centered at 50 km altitude. Zonal & meridional winds were derived for this level & are consistent with motion of the upper branch of a Hadley cell. Northern & southern hemisphere clouds appear to be markedly different. Spectral profiles were used to derive lower atmosphere abundances of water vapor & other species. (Ref: Carlson et al., «Galileo Infrared Imaging Spectroscopy Measurements at Venus», Science 27 September 1991: Vol. 253. no. 5027, pp. 1541 ‑ 1548, DOI: 10.1126/science.253.5027.1541)
+During the 1990 Venus fly‑by of the Galileo spacecraft, the Near‑Infrared Mapping Spectrometer investigated the night‑side atmosphere of Venus in the spectral range 0.7 to 5.2 micrometers. Multispectral images at high spatial resolution indicated substantial cloud opacity variations in the lower cloud levels, centered at 50 ㎞ altitude. Zonal & meridional winds were derived for this level & are consistent with motion of the upper branch of a Hadley cell. Northern & southern hemisphere clouds appear to be markedly different. Spectral profiles were used to derive lower atmosphere abundances of water vapor & other species. (Ref: Carlson et al., «Galileo Infrared Imaging Spectroscopy Measurements at Venus», Science 27 September 1991: Vol. 253. no. 5027, pp. 1541 ‑ 1548, DOI: 10.1126/science.253.5027.1541)
 
 ![](f/project/v/venus_flagship_mission/vfm_21.jpg)
 
@@ -388,9 +388,9 @@ During the 1990 Venus fly‑by of the Galileo spacecraft, the Near‑Infrared Ma
 
 **MESSENGER**
 
-Following the footsteps of Mariner 10 over 30 years earlier (1975), the MESSENGER spacecraft (MErcury Surface, Space ENvironment, GEochemistry & Ranging) was launched on August 3, 2004, to study the characteristics & environment of Mercury from orbit. It was designed to characterize the chemical composition of Mercury’s surface, the geologic history, the nature of the magnetic field, the size & state of the core, the volatile inventory at the poles, & the nature of Mercury’s exosphere & magnetosphere over a nominal orbital mission of one Earth year. MESSENGER will perform significantly improved science investigations over Mariner, with vastly improved scanning capability, & cameras capable of resolving surface features to 18 m (59 ft), providing global imaging of Mercury. (In comparison, Mariner 10 was a fly‑by mission, which only observed the sunlit hemisphere with a resolution of 1.6 km (0.99 mi).)
+Following the footsteps of Mariner 10 over 30 years earlier (1975), the MESSENGER spacecraft (MErcury Surface, Space ENvironment, GEochemistry & Ranging) was launched on August 3, 2004, to study the characteristics & environment of Mercury from orbit. It was designed to characterize the chemical composition of Mercury’s surface, the geologic history, the nature of the magnetic field, the size & state of the core, the volatile inventory at the poles, & the nature of Mercury’s exosphere & magnetosphere over a nominal orbital mission of one Earth year. MESSENGER will perform significantly improved science investigations over Mariner, with vastly improved scanning capability, & cameras capable of resolving surface features to 18 m (59 ft), providing global imaging of Mercury. (In comparison, Mariner 10 was a fly‑by mission, which only observed the sunlit hemisphere with a resolution of 1.6 ㎞ (0.99 mi).)
 
-MESSENGER made two Venus fly‑bys. Its first fly‑by of Venus on October 24, 2006 was made at an altitude of 2 992 km (1 859 mi). A second fly‑by of Venus was made on June 5, 2007 at an altitude of 338 km (210 mi). During the fly‑bys, a comprehensive set of science observations was obtained with the instrument suite onboard.
+MESSENGER made two Venus fly‑bys. Its first fly‑by of Venus on October 24, 2006 was made at an altitude of 2 992 ㎞ (1 859 mi). A second fly‑by of Venus was made on June 5, 2007 at an altitude of 338 ㎞ (210 mi). During the fly‑bys, a comprehensive set of science observations was obtained with the instrument suite onboard.
 
 Details on the mission can be found at: <http://messenger.jhuapl.edu/index.php>
 
@@ -533,9 +533,9 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 **LIBRARY**
 
-   - **[Venus Flagship Mission Study, Final Report of the Venus Science & Technology Definition Team ❐](f/project/v/venus_flagship_mission/vfm_doc001.pdf)** (PDF, 15.99 MB), April 17, 2009 (Doc. Review Clearance # 09‑1690)
+   - **[Venus Flagship Mission Study, Final Report of the Venus Science & Technology Definition Team ❐](f/project/v/venus_flagship_mission/vfm_doc001.pdf)** (PDF, 15.99 ㎆), April 17, 2009 (Doc. Review Clearance # 09‑1690)
    - **[Extreme Environments Technologies for Future Space Science Missions ❐](f/project/v/venus_flagship_mission/vfm_doc002.pdf)** (Final Report)
-   - **[Extreme Environments Technologies for Future Space Science Missions — Final Report ❐](f/project/v/venus_flagship_mission/vfm_doc003.pdf)** (PDF, 11.41 MB) September 19, 2007 (JPL # D‑32832)
+   - **[Extreme Environments Technologies for Future Space Science Missions — Final Report ❐](f/project/v/venus_flagship_mission/vfm_doc003.pdf)** (PDF, 11.41 ㎆) September 19, 2007 (JPL # D‑32832)
    - **[Evaluating Low Concept Maturity Mission Elements & Architectures for a Venus Flagship Mission ❐](f/project/v/venus_flagship_mission/vfm_doc004.pdf)** (PDF, 238 KB) Peterson, C., Balint, T., Cutts, J., Kwok, J., Hall, J., Senske, D., Kolowa, E.,AIAA SPACE 2009 Conference & Exposition, Paper # TN177778, Pasadena, California, September 14 ‑ 17, 2009
    - **[Mission Architecture & Technology Options for a Flagship Class Venus In Situ Mission ❐](f/project/v/venus_flagship_mission/vfm_doc005.pdf)**, Balint T.S., Kwok, J.H., Kolawa, E.A., Cutts, J.A., & Senske, D.A., 59th International Astronautical Congress, Paper number: IAC‑08‑A3.6.9, Glasgow, Scotland, October 2008
    - **[Chapter 13: Technology Perspectives in the Future Exploration of Venus ❐](f/project/v/venus_flagship_mission/vfm_doc006.pdf)**, Cutts, J.A., Balint, T.S., Chassefiere, E., Kolawa, Chapman Monograph — Exploring Venus as a Terrestrial Planet, Publisher: AGU, Editors: L.W. Esposito, E.R. Stofan, R.E. Cravens, ISBN 978‑0‑87590‑441‑2, 2007
@@ -591,7 +591,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

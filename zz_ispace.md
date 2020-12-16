@@ -1,56 +1,42 @@
 # ispace
 > 2020.07.04 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/ispace_logo1_thumb.jpg)](f/contact/i/ispace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
+|[![](f/contact/i/ispace_logo1_thumb.jpg)](f/contact/i/ispace_logo1.png)|<info@ispace-inc.com>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
 |:--|:--|
-|Link|<http://ispace-inc.com/><br> <https://www.linkedin.com/company/ispace-inc/><br> <https://www.facebook.com/ispace.technologies.inc/?:ref=aymt_homepage_panel>|
+|Link|<http://ispace-inc.com/><br> <https://www.linkedin.com/company/ispace-inc/><br> <https://www.facebook.com/ispace.technologies.inc/><br> <https://twitter.com/ispace_inc>|
 
-**ispace** is a lunar exploration company with a vision to extend human presence to outer space. The company is developing a small commercial lunar [lander](sc.md) & miniature lunar [rovers](rover.md) to delivery customer payloads to the Moon & explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon & ultimately incorporate the Moon into Earth’s economic & living sphere. The company will land its first lander on the Moon in 2021 as part of its “[HAKUTO-R](zz_hakuto.md)” program — the world’s first commercial lunar exploration program. The missions for HAKUTO-R will launch on SpaceX’s [Falcon 9 rocket](falcon.md).
+**ispace** is a lunar exploration company with a vision to extend human presence to outer space. Has offices in JP, US, EU, & has signed partnerships with [JAXA](zz_jaxa.md), [NASA](zz_nasa.md), & the Gov. of Luxembourg. Founded 2010.09.
 
-ispace has operations in Japan, the United States, & Europe, & has signed partnerships with [JAXA](zz_jaxa.md) & the Government of Luxembourg. ispace was the managing company for Team HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition.
+   - **Mission.** …
+   - **Vision.** To extend human presence to outer space.
+   - **Values.** …
+   - **Business:** to construct a sustainable Earth & Moon ecosystem (in 2040) implementing space resources. [Payload user guide for Missions 1 ‑ 2 ❐](f/contact/i/ispace_payladuserguide_m1m2_202001.pdf)
+      - High frequency lunar transport, incl. rovers
+      - Marketing support for space content industries
+      - Payload development for lunar orbiting & landing
+      - R&D for space resource development, incl. water
+      - Sale & survey of Moon surface data
+   - **Management:**
+      - Founder & [CEO](mgmt.md) — Takeshi Hakamada
+      - Director & [COO](mgmt.md) — Takahiro Nakamura
+      - Director & [CFO](mgmt.md) — Jumpei Nozaki
+      - Director & Technology Advisor — Kazuya Yoshida
+      - [CTO](mgmt.md) — Hideki Shimomura
+      - [VP](mgmt.md) & Technology — Nozomu Iwata
 
-Business: to construct a sustainable Earth & Moon ecosystem implementing space resources:
+The company is developing a small commercial lunar [lander](sc.md) & miniature lunar [rovers](rover.md) to delivery customer payloads to the Moon & explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon & ultimately incorporate the Moon into Earth’s economic & living sphere. The company will land its 1st lander on the Moon as part of its “[HAKUTO‑R](zz_hakuto.md)” program — the world’s 1st commercial lunar exploration program; the missions will launch on [Falcon 9](falcon.md). ispace was the managing company for Team HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition.
 
-   - High Frequency Lunar Transport
-   - Marketing Support for Space Content Industries
-   - Payload Development for Lunar Orbiting & Landing
-   - R&D for Space Resource Development
-   - Sale & Survey of Moon Surface Data
+Timeline:
 
-Management:
-
-   - Founder & CEO — Takeshi Hakamada
-   - Director & COO — Takahiro Nakamura
-   - Director & CFO — Jumpei Nozaki
-   - Director & Technology Advisor — Kazuya Yoshida
-   - VP & Technology — Nozomu Iwata
+   - Mission 1 — 2022 — Lunar soft landing. This will be the 1st privately‑led Japanese mission to land on the lunar surface. SC is 2.3 m high and 2.6 m wide with deployed legs, mass is 1 050 ㎏.
+   - Mission 2 — 2023 — Lunar surface exploration. The 2nd mission will perform a soft landing & deploy a rover carrying customer payloads for surface exploration & data collection on the Moon: high‑definition, color photo & video, & terrain mapping capabilities, among other data acquisition technologies.
+   - Mission 3 ‑ 9 — … — High‑frequency, cost‑effective lunar transportation system. During Mission 3 ‑ 9, we will establish a payload delivery system to the Moon, map water resources in the polar regions, acquire & self data for future lunar missions, & increase the frequency of lunar landings & rover expeditions to transport customer payloads to the Moon. We will deploy swarms of rovers to pioneer the discovery & development of lunar resources, enabling the steady development of lunar industry & human presence on the Moon. From this point forward, the rover technology will undergo advancements in autonomy & machine learning to enable swarm‑robotic capabilities, the ability to withstand extreme temperatures in the lunar polar regions & the standardization of its payload interface. Rovers will not simply be mobile, but they will also be equipped with tools, such as drills & manipulators, to meet the various needs of surface exploration & to scout potential candidates for a future manned moon base.
+   - Mission 10+ — … — Construction of an industrial platform. We aim to build an industrial platform that enables stable lunar development by utilizing the water resources available on the Moon.
 
 <p style="page-break-after:always"> </p>
 
-**Глобальная цель кексов:** Создание лунного бизнес-города к 2040 году
+**Technology.** Our small, robotic lunar landers/rovers are designed to provide low‑cost, high‑frequency transportation of customer payloads to the Moon. By leveraging JP manufacturing expertise in the miniaturization of high‑tech goods, we’re able to dramatically reduce weight/scale. And by challenging conventional processes & adopting agile development methods, we can speed up development & reduce costs, while maintaining quality. All of this effort minimizes the clients’ burden & provides more flexible transport services.
+   - **Lunar Rover.** The smallest & lightest rover in the world. Based on the original infrastructure of SORATO — the tested‑ & flight‑ready rover designed by Team HAKUTO over the greater part of a decade out of by Tohoku University’s Space Robotics Lab, developed to compete in the Google Lunar XPRIZE competition — ispace’s small & lightweight rover is equipped with four wheels, mobility to traverse difficult terrain, 360° high‑definition video & photo capabilities, the ability to conduct detailed terrain mapping, & capacity to carry customer payloads to the lunar surface. The rover will continuously undergo advancements in artificial intelligence & swarm robotic functions in order to communicate with other rovers & map & collect data about lunar resources. Eventually, the rovers will be instrumental in extracting lunar resources.
+   - **Lunar Lander.** A small commercial lunar lander used for delivering customer payloads to the Moon. The lunar lander is a spacecraft designed to land on the Moon. With the capacity to carry instruments & other supplies, it acts as a transportation system to the Moon. ispace is designing a small, unmanned lander for low‑cost, high‑frequency transportation to the Moon. By reducing the mass of the lander, ispace is able to ride as a secondary payload on a rocket, dramatically decreasing launch costs.
 
-Текущие цели кексов:
-
-   - совершить посадку на Луну;
-   - используя множество легких луноходов, найти места скопления воды для выбора места развёртывания будущей лунной базы/лунного города;
-   - привлечение инвестиция для расширения и, возможно, выполнения всего этого
-
-Кексы имеют:
-
-   - грубый план по реализации целей;
-   - «легкую» посадочную платформу (ПП);
-   - «легкий» луноход;
-   - амбиции;
-   - неплохого маркетолога
-
-Кексы предлагают:
-
-   - услуги по доставке грузов на Луну (ПП);
-   - услуги по перемещению грузов по Луне (луноход);
-   - информацию о ресурсах, разведанных в процессе работы луноходов
-
-Судя по всему, они участвовали в конкурсе от гугл по предложению программы освоения Луны, предложили глобальную цель по созданию там города, возможно, заняли какие-то призовые места.
-
-На данный момент, исходя из их рекламных роликов, у них есть только проекты легких ПП и лунохода, амбиции по постепенному освоению ресурсов, созданию базы, созданию города, пока нет проектов тяжелых «рабочих лошадок», нет проектов по освоению ресурсов, нет никакой конкретики об ожидаемых ресурсах, нет описания каких-либо характеристик и проектов жизнеобеспечения.
-
-З.ы. когда увидел этот проект, возник вопрос: «А почему не сделать такой бизнес-город в Антарктиде?: Там условия получше будут и работать там безопасней»
+> <small>**A world where the Earth & Moon are one ecosystem.**<br> Life on Earth in the future will not be sustainable without satellite‑based space infrastructure. Communications, agriculture, transportation, finance, environmental sustainability, as well as a variety of industries will all depend on this extraterrestrial infrastructure. Furthermore, its importance will continue to rise as technology continues to evolve with innovations such as IoT & self‑driving vehicles.<br> How should we develop space infrastructure to make it sustainable & efficient? The key is how we use space resources.<br> At ispace, we’ve turned our attention to the Moon. By taking advantage of lunar water resources, we can develop the space infrastructure needed to enrich our daily lives on Earth — as well as expand our living sphere into space. Also, by making the Earth & Moon one system, a new economy with space infrastructure at its core will support human life, making sustainability a reality. This result is our ultimate goal, & our search for water on the Moon is the 1st step to achieving that goal.<br> However, we face many challenges. While technology is important, it alone can’t overcome every difficulty. Finance, law, policy, science, education, & environmental conservation all comprise a social system that must integrate into the planning process. Our vision has attracted the attention of many potential stakeholders around the world who we need to succeed at creating this new ecosystem.<br> The time has come for the world to reconsider how to explore & develop space. Until now, governments have taken on the task & risks of space development, & any setbacks reflected on administrations. We feel that this system has led to a slowing of growth in the space industry. Start‑ups, such as ours, tend to be more willing to take risks, which equates to better potential to achieve results with more speed.<br> Recently, the space industry has witnessed many breakthroughs thanks to progress & the afore mentioned increased speed of development as different fields come together to bring new innovations.<br> At ispace, we’re enthusiastic about our systematic thinking & bringing different disciplines together to form a more comprehensive perspective on the industry while optimizing methods.<br> With Japan’s high‑quality craftsmanship & coordinated leadership, ispace contributes to the construction of a cosmic‑scale sphere of life that will support humankind. We invite you to contribute in developing a sustainable world by making the Earth & Moon one ecosystem that brings abundance to our lives.<br> *CEO Takeshi Hakamada*</small>

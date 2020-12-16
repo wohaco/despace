@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Вега (ВеГа, ВЕГА)** — Russian term with no analogues in English. **Vega (VeGa, VEGA)** — English equivalent.</small>
+> <small>**Вега (ВеГа, ВЕГА)** — RU term w/o analogues in English. **Vega (VeGa, VEGA)** — English equivalent.</small>
 
 The spacecraft were designated VeGa, a contraction of Venera and Gallei («Венера» and «Галлей» respectively, the Russian words for «Venus» and «Halley»). Vega − two identical soviet spacecraft for the exploration of [Venus](venus.md) and Halley’s comet. The spacecraft design were based on the previous [Venera 9 and Venera 10 missions](venera_9_10.md).
 
@@ -22,7 +22,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |Launch|• «Vega 1» 15 Dec. 1984, 09:16:24, Baikonur, «[Proton-K](proton.md)»<br> • «Vega 2» 21 Dec. 1984, 09:13:52, Baikonur, «[Proton-K](proton.md)»|
 |Operator|…|
 |Programme|Venus‑Halley|
-|Similar to|• Proposed: …<br>  • Current: …<br> • Past: …|
+|Similar to|• Proposed: …<br>  • Current: …<br> • ㎩st: …|
 |Target|• Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near‑core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core.|
 |[Type](sc.md)|Fly‑by spacecraft; lander spacecraft; atmospheric spacecraft|
 |**Spacecraft:**|• • •|
@@ -31,7 +31,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |Contractor|…|
 |[ID](spaceid.md)|• «Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> • «Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857|
 |Manufacturer|NPO Lavochkin|
-|Mass|• «Vega 1» 4 924 kg (dry − 4 169) ([EVN‑073](venus.md))<br> • «Vega 2» 4 926 kg (dry − 4 160) ([EVN‑073](venus.md))|
+|Mass|• «Vega 1» 4 924 ㎏ (dry − 4 169) ([EVN‑073](venus.md))<br> • «Vega 2» 4 926 ㎏ (dry − 4 160) ([EVN‑073](venus.md))|
 |Orbit / Site|Fly‑by trajectory of Venus, surface of Venus, cloud layer|
 |Payload|• Fly‑by spacecraft − plasma wave analyzers, neutral gas meter, magnetometer, spectrometers, dust particle counter, television system<br> • Lander − gas chromatograph, humidity meter, weather sensors, determination of physical and mechanical properties of the soil surface, temperature sensors, spectrometers, spectrophotometer.|
 |Power|…|
@@ -62,7 +62,7 @@ Achieved targets & investigations:
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
 |EVN‑074||Meteorological model.||D||F|||
 |EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km.||D|||||
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.||D|||||
 
 </small>
 
@@ -85,13 +85,13 @@ The lander made a soft landing on the night side of Venus in the area of the pla
 
 The Vega 2 lander landed in a high‑altitude area, where soil sampling and measurements of the X‑ray fluorescence spectra of the Venusian rock were performed ([EVN‑062](venus.md)).
 
-The gamma‑ray spectrometers of both landers, designed to measure the content of uranium, thorium and potassium in Venusian rocks, started working during the descent of the lander at an altitude of 25 km and functioned until the end of their functioning. Rocks with relatively low levels of natural radioactive elements were found at both points where the lander landed ([EVN‑026](venus.md)).
+The gamma‑ray spectrometers of both landers, designed to measure the content of uranium, thorium and potassium in Venusian rocks, started working during the descent of the lander at an altitude of 25 ㎞ and functioned until the end of their functioning. Rocks with relatively low levels of natural radioactive elements were found at both points where the lander landed ([EVN‑026](venus.md)).
 
 **Operation of aerostats**
 
-The aerostats were pulled out of their compartments in the landers at an altitude of about 60 km using secondary parachutes. After descending to an altitude of about 50 km, the ballast was dropped, and the aerostats began to rise. They soon reached a stable altitude and began to drift in the planet’s atmosphere at an altitude of 53 − 55 km (the most active layer of the three-layer system of Venusian clouds), making measurements ([EVN‑003](venus.md)) of meteorological parameters ([EVN‑074](venus.md)).
+The aerostats were pulled out of their compartments in the landers at an altitude of about 60 ㎞ using secondary parachutes. After descending to an altitude of about 50 ㎞, the ballast was dropped, and the aerostats began to rise. They soon reached a stable altitude and began to drift in the planet’s atmosphere at an altitude of 53 − 55 ㎞ (the most active layer of the three-layer system of Venusian clouds), making measurements ([EVN‑003](venus.md)) of meteorological parameters ([EVN‑074](venus.md)).
 
-This cloud layer is the densest in the atmosphere of Venus, and it was assumed that the super rotation of the atmosphere of Venus should be most clearly manifested in it ([EVN‑034](venus.md)). Aerostats measured along the flight path temperature, pressure, and vertical wind gusts ([EVN‑011](venus.md)), range of visibility in clouds, average illumination ([EVN‑013](venus.md)), tracked the glow on the night side ([EVN‑008](venus.md)) and the presence of lightning flashes ([EVN‑012](venus.md)). The first aerostat drifted along the equator in the Northern hemisphere, the second − in the southern hemisphere. The aerostats operated for 46 hours and 30 minutes each, at an altitude of 53 − 55 km, until the transmission of information stopped due to the depletion of the onboard power source.
+This cloud layer is the densest in the atmosphere of Venus, and it was assumed that the super rotation of the atmosphere of Venus should be most clearly manifested in it ([EVN‑034](venus.md)). Aerostats measured along the flight path temperature, pressure, and vertical wind gusts ([EVN‑011](venus.md)), range of visibility in clouds, average illumination ([EVN‑013](venus.md)), tracked the glow on the night side ([EVN‑008](venus.md)) and the presence of lightning flashes ([EVN‑012](venus.md)). The first aerostat drifted along the equator in the Northern hemisphere, the second − in the southern hemisphere. The aerostats operated for 46 hours and 30 minutes each, at an altitude of 53 − 55 ㎞, until the transmission of information stopped due to the depletion of the onboard power source.
 
 These aerostats showed the presence of very active processes in the cloud layer of Venus, characterized by powerful updraft and downdraft.
 
@@ -99,7 +99,7 @@ These aerostats showed the presence of very active processes in the cloud layer 
 
 The difficulty was that it was impossible to calculate the comet’s trajectory with the necessary accuracy in advance. For ground-based astrometric support in the USSR was developed and implemented program SoProG (Soviet Program of studies of Halley’s comet). Clarification of the comet’s orbit continued until the passage of both Vega past its core.
 
-On March 6 and 9, 1986, Vega 1 and 2 passed at a distance of 8 890 and 8 030 km from the comet’s core.
+On March 6 and 9, 1986, Vega 1 and 2 passed at a distance of 8 890 and 8 030 ㎞ from the comet’s core.
 
 On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 images of the inner regions of Halley’s comet, including ~70 images of its core, information about the dust situation inside the comet, plasma characteristics, measured the rate of ice evaporation, and other data. In addition, Vega 1 and Vega 2 found the presence of complex organic molecules.
 
@@ -122,7 +122,7 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
    - determination of gas composition in the near‑core region;
    - determination of the composition of dust particles and their mass distribution at different distances from the core;
    - determination of physical characteristics of the comet core (size, shape, surface properties, temperature);
-   - getting TV images of its core from a distance of about 10 000 km;
+   - getting TV images of its core from a distance of about 10 000 ㎞;
    - studying the interaction of the solar wind with the comet’s atmosphere and ionosphere.
 
 **Orbiter:**
@@ -144,14 +144,14 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
 
    1. PrOP-V penetrometer;
    1. Sigma-3 gas chromatograph to study the chemical composition of the atmosphere and cloud layer of Venus (USSR);
-   1. GS-15-STsV gamma ray spectrometer to determine the content of natural radioactive elements in Venusian rocks − uranium, thorium, potassium − was also used on [Venera 8](venera_8.md) [− 10](venera_8.md) (USSR): sensor (⌀ 6.3 × 100 cm) and electronic box − all inside the lander, no need of deployment or bring sample inside the lander, P = 12.5 W, m = 7.5 kg, 128 channels;
+   1. GS-15-STsV gamma ray spectrometer to determine the content of natural radioactive elements in Venusian rocks − uranium, thorium, potassium − was also used on [Venera 8](venera_8.md) [− 10](venera_8.md) (USSR): sensor (⌀ 6.3 × 100 ㎝) and electronic box − all inside the lander, no need of deployment or bring sample inside the lander, P = 12.5 W, m = 7.5 ㎏, 128 channels;
    1. Meteocomplex T,P sensors (USSR);
    1. VM-4 hygrometer to determine the content of water vapor in the atmosphere (USSR);
    1. Malakhit-V mass spectrometer (USSR, France);
    1. IFP aerosol analyzer (USSR);
    1. LSA particle size spectrometer (USSR).
    1. ISAV-A nephelometer/scatterometer (USSR);
-   1. GZU VB-02 drill + BDRP-AM25 soil [X‑ray fluorescence](xrf.md) spectrometer (USSR): 216 × 142 × 128 mm, m = 8 kg, 384 channels for analysis (3 × 128), P = 12.5 W, sensor and electronic box − all inside the lander, no need of deployment;
+   1. GZU VB-02 drill + BDRP-AM25 soil [X‑ray fluorescence](xrf.md) spectrometer (USSR): 216 × 142 × 128 ㎜, m = 8 ㎏, 384 channels for analysis (3 × 128), P = 12.5 W, sensor and electronic box − all inside the lander, no need of deployment;
    1. ISAV-S UV spectrometer (USSR, France).
    1. **Aerostat**. Sensors for measuring meteorological parameters:
       - vertical wind speed (vertical anemometer),
@@ -166,22 +166,22 @@ On March 4, the transfer of images began. Vega 1 and 2 transmitted ~1 500 imag
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-After 6 months of flight, the spacecraft covered 45 million km and approached Venus. On June 9 and 13, 1985, the reentry landers were separated from Vega 1 and Vega 2, which deliver landers and aerostats to Venus on June 11 and 15.
+After 6 months of flight, the spacecraft covered 45 million ㎞ and approached Venus. On June 9 and 13, 1985, the reentry landers were separated from Vega 1 and Vega 2, which deliver landers and aerostats to Venus on June 11 and 15.
 
-The total mass of the station when fully equipped was 4 920 kg. The Vega series stations consisted of two parts − a 3 170 kg fly‑by and a 1 750 kg lander.
+The total mass of the station when fully equipped was 4 920 ㎏. The Vega series stations consisted of two parts − a 3 170 ㎏ fly‑by and a 1 750 ㎏ lander.
 
 Data from landers were relayed to the Earth via fly‑by, and from aerostates − directly to the 60 − 70 m antennas of a number of countries, including the USSR and the United States.
 
-The television systems of both **fly‑by spacecraft** were of the same type. They consisted of two TV cameras: a long-focus camera that gave a resolution of 100 m at a distance of 10 000 km, and a short-focus camera with a resolution of 800 m, but a large field of view. The image of each camera was taken on a 512 × 512 matrix of silicon solar cells, in the range of 400 − 1000 nm. When shooting the comet, Vega occupied a fixed position in the three‑axis coordinate system thanks to gyroscopes that controlled the jet engines. The television system was located on a rotating platform, which, rotating according to the commands given by the television system, was directed to the comet. Other scientific equipment was also installed on the fly‑by.
+The television systems of both **fly‑by spacecraft** were of the same type. They consisted of two TV cameras: a long-focus camera that gave a resolution of 100 m at a distance of 10 000 ㎞, and a short-focus camera with a resolution of 800 m, but a large field of view. The image of each camera was taken on a 512 × 512 matrix of silicon solar cells, in the range of 400 − 1000 nm. When shooting the comet, Vega occupied a fixed position in the three‑axis coordinate system thanks to gyroscopes that controlled the jet engines. The television system was located on a rotating platform, which, rotating according to the commands given by the television system, was directed to the comet. Other scientific equipment was also installed on the fly‑by.
 
 **The lander** was equipped with scientific instruments, as well as a drilling rig to study the composition of the soil ([WB 02](vb02.md) on Vega 2)
 
-**The aerostat** consisted of a teflon shell with a diameter of 3.4 m, filled with helium, and a 6.9 kg gondola suspended from a 13 m long nylon halyard. Equipment for measuring meteorological parameters, a radio system and a power supply are installed on the supporting structure of the gondola. The envelope of the aerostat in the operating state was filled with helium over-pressure. The shell was transparent to radio waves.
+**The aerostat** consisted of a teflon shell with a diameter of 3.4 m, filled with helium, and a 6.9 ㎏ gondola suspended from a 13 m long nylon halyard. Equipment for measuring meteorological parameters, a radio system and a power supply are installed on the supporting structure of the gondola. The envelope of the aerostat in the operating state was filled with helium over-pressure. The shell was transparent to radio waves.
 
 
 The aerostat’s gondola was 1.2 m high and consisted of three parts connected by flexible slings. The gondola was covered with a white protective paint to prevent corrosion caused by sulfuric acid and increase the surface albedo.
 
-The aerostat’s electronics provided unidirectional communication with the Earth, without receiving commands. Radio transmitter (carrier frequency 1.6679 GHz, 4.5 W output power) it could operate in two modes. 20 antennas on Earth − 6 on the territory of the USSR, coordinated by the Institute of Space Research of the USSR Academy of Sciences, 11 astronomical radio telescopes and 3 antennas of the NASA [Deep Space Communication Network](dsn.md) were used for very-long-baseline interferometry tracking of aerostates.
+The aerostat’s electronics provided unidirectional communication with the Earth, without receiving commands. Radio transmitter (carrier frequency 1.6679 ㎓, 4.5 W output power) it could operate in two modes. 20 antennas on Earth − 6 on the territory of the USSR, coordinated by the Institute of Space Research of the USSR Academy of Sciences, 11 astronomical radio telescopes and 3 antennas of the NASA [Deep Space Communication Network](dsn.md) were used for very-long-baseline interferometry tracking of aerostates.
 
 
 
@@ -226,7 +226,7 @@ The aerostat’s electronics provided unidirectional communication with the Eart
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

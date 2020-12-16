@@ -5,10 +5,10 @@
 
 ---
 
-> <small>*Terms:* **Венера-1 (Венера-1VA №2; Спутник 8)** — Russian term with no analogues in English. **Venera 1 (Venera 1VA No.2; Sputnik 8)** — literal translation to English.</small>
+> <small>**Венера-1 (Венера-1VA №2; Спутник 8)** — RU term w/o analogues in English. **Venera 1 (Venera 1VA No.2; Sputnik 8)** — literal EN translation.</small>
 
 
-**Venera 1 (Венера‑1)**, also known as **Venera‑1VA No.2** and occasionally in the West as **Sputnik 8** was the first spacecraft to Venus, as part of the Soviet Union’s Venera programme. There were obtained some characteristics of the solar wind’s plasma near the Earth. Signal with SC was lost after 7 days of flight; theoretically SC fly by Venus at 100 000 km distance.
+**Venera 1 (Венера‑1)**, also known as **Venera‑1VA No.2** and occasionally in the West as **Sputnik 8** was the first spacecraft to Venus, as part of the Soviet Union’s Venera programme. There were obtained some characteristics of the solar wind’s plasma near the Earth. Signal with SC was lost after 7 days of flight; theoretically SC fly by Venus at 100 000 ㎞ distance.
 
 [![](f/project/v/venera_1/pic01_thumb.jpg)](f/project/v/venera_1/pic01.jpg)
 
@@ -21,18 +21,18 @@
 |Development|…|
 |Duration|7 days|
 |Launch|1961.02.12 00:34:36 UTC, LV Molniya 8K78|
-|Operator|OKB-1|
+|Operator|O㎅-1|
 |Programme|Venera programme|
-|Similar to|• Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • Past: Luna 2|
+|Similar to|• Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • ㎩st: Luna 2|
 |Target|Exploring of the Venus|
 |[Type](sc.md)|Venus impactor|
 |**Spacecraft:**|• • •|
-|Comms|2.4 m parabolic wire‑mesh antenna; 922.8 MHz; wavelenth 32 cm|
+|Comms|2.4 m parabolic wire‑mesh antenna; 922.8 ㎒; wavelenth 32 ㎝|
 |Composition|Orbiter, lander|
 |Contractor|…|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1961-003A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1961-003A), SCN: 80|
-|Manufacturer|OKB-1|
-|Mass|Dry 643.5 kg ([medium satellite](sc.md), [EVN‑072](venus.md))|
+|Manufacturer|O㎅-1|
+|Mass|Dry 643.5 ㎏ ([medium satellite](sc.md), [EVN‑072](venus.md))|
 |Orbit / Site|Heliocentric|
 |Payload|a flux‑gate magnetometer, two ion traps, micrometeorite detectors, Geiger counter tubes, a sodium iodide scintillator|
 |Power|…|
@@ -62,9 +62,9 @@ Achieved targets & investigations:
 ## Mission
 Venera 1 was the second of two attempts to launch a spacecraft to Venus in February 1961, immediately following the launch of its sister ship Venera‑1VA No.1, which failed to leave Earth orbit. Soviet experts launched Venera‑1 using a Molniya carrier rocket from the [Baikonur Cosmodrome](baikonur.md). The launch took place 1961.02.12 at 00:34:36 UTC.
 
-The spacecraft, along with the rocket’s Blok‑L upper stage, were initially placed into a 229 × 282 km low Earth orbit, before the upper stage fired to place Venera 1 into a heliocentric orbit, directed towards Venus. The 11D33 engine was the world’s first staged‑combustion‑cycle rocket engine, and also the first use of an ullage engine to allow a liquid‑fuel rocket engine to start in space.
+The spacecraft, along with the rocket’s Blok‑L upper stage, were initially placed into a 229 × 282 ㎞ low Earth orbit, before the upper stage fired to place Venera 1 into a heliocentric orbit, directed towards Venus. The 11D33 engine was the world’s first staged‑combustion‑cycle rocket engine, and also the first use of an ullage engine to allow a liquid‑fuel rocket engine to start in space.
 
-Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic‑ray data near Earth ([EVN‑097](venus.md)), at the Earth’s Magnetopause, and on February 19 at a distance of 1 900 000 km. After discovering the solar wind with [Luna 2](luna_2.md), Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On 1961.05.19 Venera 1 passed within 100 000 km of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar‑direction sensor.
+Three successful telemetry sessions were conducted, gathering solar‑wind and cosmic‑ray data near Earth ([EVN‑097](venus.md)), at the Earth’s Magnetopause, and on February 19 at a distance of 1 900 000 ㎞. After discovering the solar wind with [Luna 2](luna_2.md), Venera 1 provided the first verification that this plasma was uniformly present in deep space. Seven days later, the next scheduled telemetry session failed to occur. On 1961.05.19 Venera 1 passed within 100 000 ㎞ of Venus ([EVN‑005](venus.md)). With the help of the British radio telescope at Jodrell Bank, some weak signals from Venera 1 may have been detected in June. Soviet engineers believed that Venera 1 failed due to the overheating of a solar‑direction sensor.
 
 
 
@@ -94,7 +94,7 @@ The lander was equipped with scientific instruments including a flux‑gate magn
 <p style="page-break-after:always"> </p>
 
 ## Spacecraft
-Venera 1 was a 643.5 kg spacecraft consisting of a cylindrical body 1.05 m in diameter topped by a dome, totalling 2.035 m in height. This was pressurized to 1.2 atm with dry nitrogen, with internal fans to maintain even distribution of heat. Two solar panels extended from the cylinder, charging a bank of silver‑zinc batteries. A 2 m parabolic wire‑mesh antenna was designed to send data from Venus to Earth on a frequency of 922.8 MHz. A 2.4 m antenna boom was used to transmit short‑wave signals during the near‑Earth phase of the mission. Semidirectional quadrupole antennas mounted on the solar panels provided routine telemetry and telecommand contact with Earth during the mission, on a circularly‑polarized decimetre radio band.
+Venera 1 was a 643.5 ㎏ spacecraft consisting of a cylindrical body 1.05 m in diameter topped by a dome, totalling 2.035 m in height. This was pressurized to 1.2 atm with dry nitrogen, with internal fans to maintain even distribution of heat. Two solar panels extended from the cylinder, charging a bank of silver‑zinc batteries. A 2 m parabolic wire‑mesh antenna was designed to send data from Venus to Earth on a frequency of 922.8 ㎒. A 2.4 m antenna boom was used to transmit short‑wave signals during the near‑Earth phase of the mission. Semidirectional quadrupole antennas mounted on the solar panels provided routine telemetry and telecommand contact with Earth during the mission, on a circularly‑polarized decimetre radio band.
 
 An experiment attached to one solar panel measured temperatures of experimental coatings. Infrared and/or ultraviolet radiometers may have been included. The dome contained a KDU‑414 engine used for mid‑course corrections. Temperature control was achieved by motorized thermal shutters.
 
@@ -128,7 +128,7 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spac
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

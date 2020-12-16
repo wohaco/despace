@@ -1,4 +1,4 @@
-# Контакты
+# Contacts
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
 [TOC]
@@ -10,8 +10,6 @@
 
 ## Cooperation
 > И эти люди запрещают нам ковыряться в носу!
-
-Здесь представлена информация о кооперации НПОЛ (ИКИ, ЦНИИмаш, ИСС и пр). Краткое описание, область работ кооперации, опыт работы с ними. Заодно приведены некоторые иностранные фирмы, работающие в космической промышленности и сочувствующие ей.
 
    1. [ALPO](zz_alpo.md) — Association of Lunar & Planetary Observers
    1. [CCSDS](ccsds.md) — международный Консультативный Комитет по косм. системам передачи данных.
@@ -72,8 +70,6 @@
 <p style="page-break-after:always"> </p>
 
 ### ± Canada
-[![](f/contact/map/canada_political_ru_thumb.jpg)](f/contact/map/canada_political_ru.png)
-
 <small>
 
 (**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
@@ -143,6 +139,8 @@
 
 </small>
 
+[![](f/contact/map/canada_political_ru_thumb.jpg)](f/contact/map/canada_political_ru.png)
+
 
 
 <p style="page-break-after:always"> </p>
@@ -182,6 +180,7 @@
 ||**··· Contractors ···**|•|•|•|•|• • •|
 ||[AAC CS](zz_aac_cs.md)   (SE)|||||Кубсаты, малые КА, СЧ|
 ||[ADS](zz_ads.md)   (GR)|||||Military Aircraft; [SCS](scs.md), Electronics, Comms, Intelligence, Security|
+||**[Airbus](zz_airbus.md)**   (FR)|||||…|
 ||[ARCA Dynamics](zz_arca_dymanics.md)   (IT)|||||Cubesats, GNC, space robotics, AI|
 ||[ASP Equipment](zz_asp_equipment.md)   (DE)||||R|Power: DC/DC converters, IPU, PCDU, EPC, propulsion power|
 ||[Astrocast](zz_astrocast.md)   (CH)|||||Satellite operator, constellation of nano‑sats on LEO, IoT communications|
@@ -215,7 +214,7 @@
 ||[Morpheus Space](zz_morpheus_space.md)   (DE)||||R|Electric propulsion & Artificial Intelligence|
 ||[Nammo](nammo.md)   (NO)|||||Двигатели|
 ||[Neutron Star Sys.](zz_dlr.md)   (GR)|||||Electric propulsion (EP) systems & subsystems|
-||[OHB SE](zz_ohb_se.md)   (DE)|||||Satellites, exploration, human spaceflight|
+||**[OHB SE](zz_ohb_se.md)**   (DE)|||||Satellites, exploration, human spaceflight|
 ||[Open Cosmos](zz_open_cosmos.md)   (UK)|||||R&D satellites|
 ||[OPC LAM](zz_opc_lam.md)   (GR)|||||Разработка и создание двигателей, ДУ|
 ||[OQ Technology ](zz_oq_technology.md)   (LU)||||R|Sats constellation for IoT|
@@ -235,7 +234,7 @@
 ||[Space Forge](zz_space_forge.md)   (UK)||||R|Reusable sats for material manufacturing in space|
 ||[Space Mining T.](zz_space_mintech.md)   (EU)|||||Moon & asteroids mining|
 ||[Swedish SC](swedish_sc.md)   (SE)|||||КА, кубсаты, аэростаты, НС|
-||[Tas‑I](zz_tas_i.md)   (FR)|||||…|
+||**[Tas‑I](zz_tas_i.md)**   (FR)|||||…|
 ||[Terma A/S](zz_terma.md)   (DK)|||||…|
 ||[TU Delft](tu_delft.md)   (NL)|||||…|
 ||[UCL](zz_ucl.md)   (UK)|||||…|
@@ -313,8 +312,6 @@
 <p style="page-break-after:always"> </p>
 
 ### Japan
-[![](f/contact/map/japan_political_thumb.png)](f/contact/map/japan_political.png)
-
 <small>
 
 (**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
@@ -343,10 +340,10 @@
 |11|[Hamamatsu Phot.](zz_hamamatsu_phot.md)   22||||R|Optical sensors, trackers, cameras|
 |12|[Harada Seiki](zz_harada_seiki.md)   22||||R|Parts for satellites, rovers, small telescopes for observing Earth|
 |13|[HIREC](zz_hirec.md)   14||||C|Technology consulting, verification, testing, design, development|
-|14|[IHI](zz_ihi.md)   13||L||R|Engines & their components R&D|
+|14|[IHI](zz_ihi.md)   13||L||R|LV, engines & their components R&D|
 |15|[IMV Corp.](zz_imv_corp.md)   27||||R|Ground vibration test & measurement systems|
 |16|[Infostellar](zz_infostellar.md)   13||||R|Satellite Ground Segment as a Service provider, cubesat components|
-|17|[Interstellar Tech.](zz_interstellar_tech.md)   1||L||R|LV for small sats (≤ 100 kg) development, manufacturing, launch service|
+|17|[Interstellar Tech.](zz_interstellar_tech.md)   1||L||R|LV for small sats (≤ 100 ㎏) development, manufacturing, launch service|
 |18|[iQPS Inc.](zz_iqps.md)   40|E|||R|Earth sats for near real-time SAR data|
 |19|[ispace / Hakuto](zz_ispace.md)   13||||R|Moon lander & base|
 |20|[J-spacesystems](zz_jspacesys.md)   13||||C|R&D, HR, promotion activities creating business opportunities in space sector|
@@ -366,48 +363,51 @@
 |34|[Meisei](zz_meisei.md)   10||||R|Radiosondes, cameras, transceivers, MGMs, power sup., detectors, microsats|
 |35|[Meltin](zz_meltin.md)   13||||R|Robots, medical equipment|
 |36|[Mitsubishi Electric](zz_mitsubishi.md)   13||||R|Near-Earth sats, their components, ground segment|
-|37|[Mitsubishi HVI](zz_mitsubishi.md)   13||L||R|Launch services, rocket engines manuf. & testing, RCS, temp. sensors|
+|37|[Mitsubishi HVI](zz_mitsubishi.md)   13||L||R|LV, rocket engines manuf. & testing, RCS, temp. sensors|
 |38|[NAOJ](zz_naoj.md)   13|E||P|R|Observations, astronomy researches, promotes joint research programs|
 |39|[NDK](zz_ndk.md)   13||||R|Outgas analysis system, crystal devices (oscillators, filters, transducers)|
 |40|[NEC Space Tech.](zz_nec.md)   13||||R|Payload electrical & bus equipment, antennas/spaceborne radar|
 |41|[NEC Space Sys.](zz_nec.md)   13||||R|Satellites, ground systems|
-|42|[Nihom Univ.](zz_nihon_univ.md)   13|E||||Aerospace engineering|
-|43|[Outsense Inc.](zz_outsense.md)   13||||R|Space facilities & bases, space residence|
-|44|[Pale Blue Inc.](zz_pale_blue_inc.md)   12||||R|Propulsion systems for small sats, consulting of SC design & integration|
-|45|[PASCO CORP.](zz_pasco_corp.md)   13||||R|Geospatial information|
-|46|[PD AeroSpace](zz_pd_aerospace.md)   23||L||R|Space transportation, space tourism|
-|47|[RESTEC Japan](zz_restec.md)   13||||R|Earth sat’s data receiving, processing, providing; R&D remote sensing techs|
-|48|[RIKEN](zz_riken.md)   11|E|||R|Biology, chemistry, physics, & research|
-|49|[Sat. Biz Network](zz_sat_biz_network.md)   13|E|||C|Technology consulting, space policy, strategy; space startups support|
-|50|[SE4](zz_se4.md)   13||||R|Remote robotics using VR|
-|51|[SKY Perf. JSAT](zz_sky_perfect_jsat.md)   13||||R|Telecomms, multi‑channel pay TV company|
-|52|[SNET](zz_snet.md)   13||||R|Earth sats comms, Earth observation, ground segment, drones|
-|53|[SPAC](zz_spac.md)   13|N|||R|Addition to GPS|
-|54|[Space BD](zz_space_bd.md)   13|E|L||C|Space for business, sats launch, ISS experiments, education|
-|55|[Space Cubics](zz_spacecubics.md)   1||||R|CPU, application software, FPGA, consult on space project management|
-|56|[Space One](zz_space_one_co.md)   13||L||R|Launch service that uses small rockets|
-|57|[Space Port Japan](zz_spaceportjapan.md)   13|E||P||Promote the country’s aerospace & related industries|
-|58|[Space Walker](zz_space_walker.md)   13||L||R|Launch services; space transport/tourism, researches, small sats launch|
-|59|[Spacetide](zz_spacetide.md)   13|N||P||Promotes newspace businesses worldwide, annual conference|
-|60|[Sumitomo PP](zz_sumitomo_pp.md)   28||||R|Heat exchangers & control, semiconductor/MEMS equipment, sensors|
-|61|[Synspective Inc.](zz_synspective.md)   13||||R|Utilize/integrate data from SAR sat constel., big data, machine learning|
-|62|[Tamagawa Seiki](zz_tamagawa_seiki.md)   20||||R|Servo components, motor controllers, robots, IMU, autom. control devices|
-|63|[Tokyo Univ.](zz_tokyo_univ.md)   13|E|||R|Tokyo University|
-|64|[Umitron](zz_umitron.md)   13||||R|Aquafarmers support: IoT, sat remote sensing, machine learning|
-|65|[TUPLS](zz_tupls.md)   13|E||||Tokyo University of Pharmacy & Life Sciences|
-|66|[Warpspace Inc.](zz_warpspace.md)   8||||R|Communication infrastructure for LEO sats; cubesats modules|
-|67|[Yspace LLC](zz_yspace.md)   8|E|||C|VR|
+|42|[NGSL](zz_ngsl.md)|N||P|R|Solving global issues utilizing Japanese space technology|
+|43|[Nihom Univ.](zz_nihon_univ.md)   13|E||||Aerospace engineering|
+|44|[Outsense Inc.](zz_outsense.md)   13||||R|Space facilities & bases, space residence|
+|45|[Pale Blue Inc.](zz_pale_blue_inc.md)   12||||R|Propulsion systems for small sats, consulting of SC design & integration|
+|46|[PASCO CORP.](zz_pasco_corp.md)   13||||R|Geospatial information|
+|47|[PD AeroSpace](zz_pd_aerospace.md)   23||L||R|Suborbital spaceplane, space transportation, space tourism|
+|48|[Polar Star Space](zz_polar_star_space.md)   13||L||R|Launch service that uses small rockets|
+|49|[RESTEC Japan](zz_restec.md)   13||||R|Earth sat’s data receiving, processing, providing; R&D remote sensing techs|
+|50|[RIKEN](zz_riken.md)   11|E|||R|Biology, chemistry, physics, & research|
+|51|[Sat. Biz Network](zz_sat_biz_network.md)   13|E|||C|Technology consulting, space policy, strategy; space startups support|
+|52|[SE4](zz_se4.md)   13||||R|Remote robotics using VR|
+|53|[SKY Perf. JSAT](zz_sky_perfect_jsat.md)   13||||R|Telecomms, multi‑channel pay TV company|
+|54|[Skygate tech.](zz_skygate_tech.md)   13||||R|Ground Station as a Service for satellites|
+|55|[SNET](zz_snet.md)   13||||R|Earth sats comms, Earth observation, ground segment, drones|
+|56|[SPAC](zz_spac.md)   13|N|||R|Addition to GPS|
+|57|[Space BD](zz_space_bd.md)   13|E|L||C|Space for business, sats launch, ISS experiments, education|
+|58|[Space Cubics](zz_spacecubics.md)   1||||R|CPU, application software, FPGA, consult on space project management|
+|59|[Space One](zz_space_one_co.md)   13||L||R|Launch service that uses small rockets|
+|60|[Space Port Japan](zz_spaceportjapan.md)   13|E||P||Promote the country’s aerospace & related industries|
+|61|[Space Walker](zz_space_walker.md)   13||L||R|Suborbital spaceplane, space transport/tourism, small sats launch|
+|62|[Spacetide](zz_spacetide.md)   13|N||P||Promotes newspace businesses worldwide, annual conference|
+|63|[Sumitomo PP](zz_sumitomo_pp.md)   28||||R|Heat exchangers & control, semiconductor/MEMS equipment, sensors|
+|64|[Synspective Inc.](zz_synspective.md)   13||||R|Utilize/integrate data from SAR sat constel., big data, machine learning|
+|65|[Tamagawa Seiki](zz_tamagawa_seiki.md)   20||||R|Servo components, motor controllers, robots, IMU, autom. control devices|
+|66|[Tokyo Univ.](zz_tokyo_univ.md)   13|E|||R|Tokyo University|
+|67|[Umitron](zz_umitron.md)   13||||R|Aquafarmers support: IoT, sat remote sensing, machine learning|
+|68|[TUPLS](zz_tupls.md)   13|E||||Tokyo University of Pharmacy & Life Sciences|
+|69|[Warpspace Inc.](zz_warpspace.md)   8||||R|Communication infrastructure for LEO sats; cubesats modules|
+|70|[Yspace LLC](zz_yspace.md)   8|E|||C|VR|
 ||**··· Not space ···**|•|•|•|•|Panasonic Avionics Corp.<br> *Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)|
 
 </small>
+
+[![](f/contact/map/japan_political_thumb.png)](f/contact/map/japan_political.png)
 
 
 
 <p style="page-break-after:always"> </p>
 
 ### Korea South
-[![](f/contact/map/korea_south_political_thumb.png)](f/contact/map/korea_south_political.png)
-
 <small>
 
 (**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
@@ -428,6 +428,8 @@
 ||**··· Not space ···**|•|•|•|•||
 
 </small>
+
+[![](f/contact/map/korea_south_political_thumb.png)](f/contact/map/korea_south_political.png)
 
 
 
@@ -577,8 +579,6 @@
 <p style="page-break-after:always"> </p>
 
 ### ✘ USA
-[![](f/contact/map/usa_political_thumb.jpg)](f/contact/map/usa_political.png)
-
 <small>
 
 (**E**)ducation / (**N**)on‑profit, (**L**)aunch services, (**P**)romote, (**R**)&D&Manufacture / (**C**)onsulting
@@ -682,6 +682,8 @@
 ||[Xplore](zz_xplore.md)|||||Космические аппараты|
 
 </small>
+
+[![](f/contact/map/usa_political_thumb.jpg)](f/contact/map/usa_political.png)
 
 
 
@@ -835,14 +837,14 @@
 ||[Компаниченко, Владимир Николаевич](zz_kompanichenko1.md)|—|IKARP|
 ||[Коптев, Юрий Николаевич](zz_koptev1.md)|—|Rostec|
 ||[Кораблёв, Олег Игоревич](zz_korablev1.md)|IKI RAS|—|
-||~~[Королёв, Сергей Павлович](zz_korolev1.md)~~|—|OKB-1|
+||~~[Королёв, Сергей Павлович](zz_korolev1.md)~~|—|O㎅-1|
 ||Косенкова Анастасия Владимировна|LAV|—|
 ||[Косов, Александр Сергеевич](zz_kosov1.md)|IKI RAS|—|
 ||[Костицын, Юрий Александрович](zz_kostitsyn1.md)|—|GEOKHI|
 ||[Котляров, Евгений Юрьевич](zz_kotlyarov1.md)|LAV|—|
 ||[Коцюрбенко, Олег Ролландович](zz_kotsurbenko1.md)|—|UGRA|
 ||~~[Ксанфомалити, Леонид Васильевич](zz_ksanfomaliti1.md)~~|IKI RAS|—|
-||Кусь Олег Николаевич|—|OKB 5|
+||Кусь Олег Николаевич|—|O㎅ 5|
 |**L**|[Le Gall, Alice Anne](zz_legall1.md)|—|LATMOS|
 ||[Lebonnois, Sebastien](zz_lebonnois1.md)|—|Sorbonne Univ., LMD|
 ||[Lee, Yeon Joo](zz_lee1.md)|—|Berlin Tech.Univ|
@@ -853,7 +855,7 @@
 ||[Lopes, Rosaly M.C.](zz_lopes1.md)|JPL|—|
 ||[Lorenz, Ralph](zz_lorenz1.md)|—|JHUAPL|
 ||[Luhmann, Janet G.](zz_luhmann1.md)|—|NASA, Berkley|
-||~~[Лавочкин, Семён Алексеевич](zz_lavochkin1.md)~~|OKB-301|—|
+||~~[Лавочкин, Семён Алексеевич](zz_lavochkin1.md)~~|O㎅-301|—|
 ||[Литвак, Максим Леонидович](zz_litvak1.md)|IKI RAS|—|
 ||[Лукьянчиков, Александр Владимирович](zz_lukianchikov1.md)|LAV|—|
 |**M**|[Mackwell, Stephen J.](zz_mackwell1.md)|—|AIP|
@@ -871,12 +873,12 @@
 ||[Mills, Franklin](zz_mills1.md)|—|ANU|
 ||[Mogul, Rakesh](zz_mogul1.md)|—|CPP|
 ||[Murakami, Shin-ya](zz_murakami1.md)|ISAS/JAXA|—|
-||[Мальцев, Михаил Владимирович](zz_maltsev1.md)|—|KBHM|
+||[Мальцев, Михаил Владимирович](zz_maltsev1.md)|—|㎅HM|
 ||[Маров, Михаил Яковлевич](zz_marov1.md)|—|IPM Keldysh|
 ||Мартынов, Алексей Борисович|LAV|—|
 ||[Митрофанов, Игорь Георгиевич](zz_mitrofanov1.md)|IKI RAS|—|
 ||~~[Мороз, Василий Иванович](zz_moroz1.md)~~|—|GAISh|
-||[Морозов, Владимир Иванович](zz_morozov1.md)|—|KBHM|
+||[Морозов, Владимир Иванович](zz_morozov1.md)|—|㎅HM|
 |**N**|[Nakamura, Masato](zz_nakamura1.md)|—|JAXA|
 ||[Neduncheran, Adhithiyan](zz_neduncheran1.md)|—|UPES|
 ||[Nock, Kerry T.](zz_nock1.md)|GAC|—|
@@ -963,7 +965,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

@@ -26,7 +26,7 @@ SoE offers B.Tech., M.Tech. & Ph.D. programs across a wide spectrum of specialis
    - Department of Civil Engineering
 
 **School of Business (SoB)**  
-SoB is situated at Kandoli Campus of UPES & offers BBA, MBA & Ph.D. programs in domains including Oil & Gas, Energy Trading, Power, Aviation, Port, Supply Chain & Logistics, Agri Business, Tourism & Hospitality, Marketing, Finance, Human Resources, Operations, Business Analytics, & International Business.
+SoB is situated at Kandoli Campus of UPES & offers BBA, ㎆A & Ph.D. programs in domains including Oil & Gas, Energy Trading, Power, Aviation, Port, Supply Chain & Logistics, Agri Business, Tourism & Hospitality, Marketing, Finance, Human Resources, Operations, Business Analytics, & International Business.
 
 **School of Law (SoL)**  
 SoL offers basic & specialised law courses in Corporate Law, Energy Specialization, & Taxation Laws in addition to technical courses such as Intellectual Property Rights & Cyber Law & integrated & specialised programs which are the first of their kind in the South Asian region. These include a BA LLB with specialisation in Energy Laws, a BBA LLB (Hons) in Corporate Law, a B.Com + LLB with specialisation in Taxation Laws, a B.Tech Energy Technology + LLB with specialisation in Intellectual Property Rights, & a B. Tech in Computer Science & Engineering with specialisation in Cyber Laws.

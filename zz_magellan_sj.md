@@ -18,7 +18,7 @@ Business:
    - Development both hardware & software regarding GNSS technology
    - Importer & seller of GNSS related products
 
-Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1, block 12, Moscow, 127083, Russia. CEO Sergey Lyusin. Established 2015.10.21.
+Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1, block 12, Moscow, 127083, Russia. [CEO](mgmt.md) Sergey Lyusin. Established 2015.10.21.
 
 **History**
 

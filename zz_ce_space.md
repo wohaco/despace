@@ -15,7 +15,7 @@
 
 **Major milestones in CE Space**
 
-   - 2017.06: Launch of the prototype micro satellite CE-SAT-I from the Satish Dhawan Space Centre in India onboard PSLV-C38. The satellite entered a 500 km sun‑synchronous orbit. This marks the 1st successful launch of a self‑funded satellite by a private company in Japan’s history.
+   - 2017.06: Launch of the prototype micro satellite CE-SAT-I from the Satish Dhawan Space Centre in India onboard PSLV-C38. The satellite entered a 500 ㎞ sun‑synchronous orbit. This marks the 1st successful launch of a self‑funded satellite by a private company in Japan’s history.
    - 2017.08: Canon Electronics, in partnership with IHI Aerospace, Shimizu corporation, & Development Bank of Japan, establishes the “New Generation Small Rocket Development Planning Co. Ltd.”.
    - 2018.02: Successful launch of the 10 m [JAXA](zz_jaxa.md) sounding rocket SS-520-5. Canon Electronics provided several components including avionics.
    - 2018.07: Canon Electronics, in partnership with [IHI Aerospace](zz_ihi.md), Shimizu Corporation, & Development Bank of Japan, establishes [Space One Co., Ltd.](zz_space_one_co.md) to operate as a commercial space transport service business for small satellites.

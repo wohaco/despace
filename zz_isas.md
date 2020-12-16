@@ -36,7 +36,7 @@ ISAS comprises 5 research departments, the Management & Integration Department, 
 ||||**Future missions:**|
 |2027-2028|SPICA||Infrared astronomy (with [ESA](zz_esa.md))|
 |2028|ATHENA||X‑ray astronomy (with [ESA](zz_esa.md) / [NASA](zz_nasa.md))|
-|2027|LiteBIRD||CMB astronomy|
+|2027|LiteBIRD||C㎆ astronomy|
 |2024|Small-JASMINE||Infrared astrometry|
 |2024|MMX||Phobos sample return|
 |2022|DESTINY+||Near Earth objects multi-fly‑by|

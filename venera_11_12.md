@@ -5,8 +5,8 @@
 
 ---
 
-> <small>*Terms:* **Венера-11** — Russian term with no analogues in English. **Venera 11** — English equivalent.</small>
-> <small>**Венера-12** — Russian term with no analogues in English. **Venera 12** — English equivalent.</small>
+> <small>**Венера-11** — RU term w/o analogues in English. **Venera 11** — English equivalent.</small>
+> <small>**Венера-12** — RU term w/o analogues in English. **Venera 12** — English equivalent.</small>
 
 **Venera 11** (**Венера-11**) and **Venera 12** (**Венера-12**) were Soviet unmanned space mission parts to Venus.
 
@@ -23,7 +23,7 @@
 |Launch|**Venera 11:** September 9, 1978, 03:25:39 UTC<br> **Venera 12:** 14 September 1978, 02:25:13 UTC<br>Rocket: Proton-K/D-1 8K82K|
 |Operator|Soviet Academy of Sciences|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: [Pioneer Venus 1.md](pioneer_venus_1.md), [Pioneer Venus 2.md](pioneer_venus_2.md)<br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Mariner 10](mariner_10.md), [Venera 9 and 10](venera_9_10.md)|
+|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: [Pioneer Venus 1.md](pioneer_venus_1.md), [Pioneer Venus 2.md](pioneer_venus_2.md)<br> • ㎩st: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Mariner 10](mariner_10.md), [Venera 9 and 10](venera_9_10.md)|
 |Target|To study the planet Venus and interplanetary space.|
 |[Type](sc.md)|Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft|
 |**Spacecraft:**|• • •|
@@ -32,7 +32,7 @@
 |Contractor|…|
 |[ID](spaceid.md)|**Venera 11:** NSSDC ID (COSPAR ID): [1978-084A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-084A), [1978-084D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-084D), SCN: [11020 ⎆](http://www.n2yo.com/satellite/?:s=11020), [11027 ⎆](http://www.n2yo.com/satellite/?:s=11027)<br> **Venera 12:** NSSDC ID (COSPAR ID): [1978-086A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-086A), [1978-086C ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-086C), SCN: [11025 ⎆](http://www.n2yo.com/satellite/?:s=11025), [12028 ⎆](http://www.n2yo.com/satellite/?:s=11028)|
 |Manufacturer|Lavochkin|
-|Mass|**Venera 11** Launch: 4 447 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 731 kg<br> **Venera 12** Launch: 4 458 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 731 kg|
+|Mass|**Venera 11** Launch: 4 447 ㎏ ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 731 ㎏<br> **Venera 12** Launch: 4 458 ㎏ ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 731 ㎏|
 |Orbit / Site|Heliocentric|
 |Payload|The instruments were designed to study the gamma rays of the Sun; the equipment on the landing modules was designed to study the composition of the atmosphere and soil, measure temperature, detect lightning, study scattered solar radiation, as well as to photograph the surface|
 |Power|…|
@@ -79,9 +79,9 @@ Venera 11 was launched on 9 September 1978 at 03:25:39 UTC. Venera 12 was la
 
 Venera 11 separated from Orbiter on December 23, 1978, Venera 12 on December 19. Despite the fact that Venera 12 was launched later, the separation of the lander and its landing on the surface were faster than Venera 11, as Venera 12 reached a faster trajectory with the help of correction maneuvers.
 
-Both lander entered the atmosphere of Venus at a speed of 11.2 m/s 2 days after separation from the orbiters, descended for one hour and landed at a speed of about 7 — 8 m/s on the day side of the planet ([EVN‑006](venus.md)). Lander Venera 11 worked on the surface of the planet for 95 min. The Venera 12’s lander transmitted from the planet’s surface for 110 min until the Orbiter went below the horizon, so it is not known when it failed.
+Both lander entered the atmosphere of Venus at a speed of 11.2 ㎧ 2 days after separation from the orbiters, descended for one hour and landed at a speed of about 7 — 8 ㎧ on the day side of the planet ([EVN‑006](venus.md)). Lander Venera 11 worked on the surface of the planet for 95 min. The Venera 12’s lander transmitted from the planet’s surface for 110 min until the Orbiter went below the horizon, so it is not known when it failed.
 
-After performing the withdrawal maneuver, each space station flew near Venus at a distance of about 35 000 km ([EVN‑005](venus.md)), transmitting data to Earth from its lander throughout the descent and work on the planet’s surface ([EVN‑092](venus.md)). The last signals from space stations were received in January 1980 (Venera 11) and in March 1981 (Venera 12).
+After performing the withdrawal maneuver, each space station flew near Venus at a distance of about 35 000 ㎞ ([EVN‑005](venus.md)), transmitting data to Earth from its lander throughout the descent and work on the planet’s surface ([EVN‑092](venus.md)). The last signals from space stations were received in January 1980 (Venera 11) and in March 1981 (Venera 12).
 
 ![](f/project/v/venera_11_12/pic03.jpg)
 
@@ -89,9 +89,9 @@ After performing the withdrawal maneuver, each space station flew near Venus at 
 
 **Measurements during atmospheric descent** ([EVN‑003](venus.md), [001](venus.md)).
 
-According to the accelerometer at the entrance to the atmosphere was measured atmospheric density in the altitude range from 100 to 65 km. With instruments to measure temperature and atmospheric pressure was carried out direct in situ measurements of these parameters from 61 km up to the surface ([EVN‑010](venus.md)). The opacity of the atmosphere was measured in the range of heights from 64 km to the surface, the chemical composition of aerosols ([EVN‑018](venus.md)) − from 64 to 49 km. Aerosol scattering was measured from 51 km to the surface, and thunderstorm activity − from 60 km to the surface ([EVN‑012](venus.md)). The gas chromatograph analyzed nine atmospheric samples at altitudes ranging from 42 km to the surface. The new mass-spectrometer measured the composition of the atmosphere in the range from 32 to 1 km. Altitude profiles of horizontal wind speed and direction were obtained from measurements of Doppler frequency shift of the radio transmitter ([EVN‑010](venus.md)).
+According to the accelerometer at the entrance to the atmosphere was measured atmospheric density in the altitude range from 100 to 65 ㎞. With instruments to measure temperature and atmospheric pressure was carried out direct in situ measurements of these parameters from 61 ㎞ up to the surface ([EVN‑010](venus.md)). The opacity of the atmosphere was measured in the range of heights from 64 ㎞ to the surface, the chemical composition of aerosols ([EVN‑018](venus.md)) − from 64 to 49 ㎞. Aerosol scattering was measured from 51 ㎞ to the surface, and thunderstorm activity − from 60 ㎞ to the surface ([EVN‑012](venus.md)). The gas chromatograph analyzed nine atmospheric samples at altitudes ranging from 42 ㎞ to the surface. The new mass-spectrometer measured the composition of the atmosphere in the range from 32 to 1 ㎞. Altitude profiles of horizontal wind speed and direction were obtained from measurements of Doppler frequency shift of the radio transmitter ([EVN‑010](venus.md)).
 
-According to the spectrometer, the first more or less realistic profile of the content of water vapor in the atmosphere was constructed, which serve as the second most important (after carbon dioxide) greenhouse gas in the atmosphere of Venus. Measurements of Venera 11 and Venera 12 indicated a decrease in water vapor content from 200 ppm at the base of the cloud layer to 20 ppm at the surface (many years later, when re-analysis of the data were refined and spoke about a constant vapor content at about 30 ppm from 50 km to the surface). Data from the mass-spectrometers of the Venera 11 and 12 lander resulted in values of relative water vapor content up to 0.5 % at 44 km and up to 0.1 % at 24 km, which was significantly higher than those obtained by spectrometers and other remote spectral measurements from Earth, so they were considered doubtful.
+According to the spectrometer, the first more or less realistic profile of the content of water vapor in the atmosphere was constructed, which serve as the second most important (after carbon dioxide) greenhouse gas in the atmosphere of Venus. Measurements of Venera 11 and Venera 12 indicated a decrease in water vapor content from 200 ppm at the base of the cloud layer to 20 ppm at the surface (many years later, when re-analysis of the data were refined and spoke about a constant vapor content at about 30 ppm from 50 ㎞ to the surface). Data from the mass-spectrometers of the Venera 11 and 12 lander resulted in values of relative water vapor content up to 0.5 % at 44 ㎞ and up to 0.1 % at 24 ㎞, which was significantly higher than those obtained by spectrometers and other remote spectral measurements from Earth, so they were considered doubtful.
 
 Based on the analysis of 176 full spectra of 22 samples taken ([EVN‑055](venus.md)), the following results of mass spectrometry measurements were obtained ([EVN‑077](venus.md)):
 
@@ -107,7 +107,7 @@ Based on the analysis of 176 full spectra of 22 samples taken ([EVN‑055](venus
 |Argon (40Ar/36Ar)|1.19 ± 0.07|
 |Argon (38Ar/36Ar)|0.197 ± 0.002|
 
-The gas chromatograph made eight measurements between 42 km and the surface with the following results ([EVN‑077](venus.md)):
+The gas chromatograph made eight measurements between 42 ㎞ and the surface with the following results ([EVN‑077](venus.md)):
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
 |:--|:--|
@@ -123,17 +123,17 @@ The gas chromatograph made eight measurements between 42 km and the surface wi
 
 The study of optical spectra revealed a wide absorption band, which has not yet been identified with known gases.
 
-The Venera 12’s x‑ray fluorescence spectrometer measured cloud particles at an altitude of 64 to 49 km, and then failed to withstand the high ambient temperature. It did not find sulfur in cloud inclusions (at the upper detection threshold < 0.1 mg/m³), but found chlorine (0.43 ± 0.06 mg/m³). Also, with its help, it was possible to completely eliminate mercury at a concentration of up to one billionth ([EVN‑018](venus.md)).
+The Venera 12’s x‑ray fluorescence spectrometer measured cloud particles at an altitude of 64 to 49 ㎞, and then failed to withstand the high ambient temperature. It did not find sulfur in cloud inclusions (at the upper detection threshold < 0.1 mg/m³), but found chlorine (0.43 ± 0.06 mg/m³). Also, with its help, it was possible to completely eliminate mercury at a concentration of up to one billionth ([EVN‑018](venus.md)).
 
-During the descent at an altitude of 32 to 2 km, Venera 11 and Venera 12 registered a large number of electromagnetic pulses similar to distant thunderstorms on Earth ([EVN‑012](venus.md)). The activity was higher in the case of Venera 11 than in the case of Venera 12, and the intensity decreased toward the surface. After landing, Venera 11 did not register such pulses, but one intense burst was noted by Venera 12 already on the surface. The microphones were in saturation mode due to aerodynamic noise during descent and did not register acoustic noise on the surface.
+During the descent at an altitude of 32 to 2 ㎞, Venera 11 and Venera 12 registered a large number of electromagnetic pulses similar to distant thunderstorms on Earth ([EVN‑012](venus.md)). The activity was higher in the case of Venera 11 than in the case of Venera 12, and the intensity decreased toward the surface. After landing, Venera 11 did not register such pulses, but one intense burst was noted by Venera 12 already on the surface. The microphones were in saturation mode due to aerodynamic noise during descent and did not register acoustic noise on the surface.
 
-The Venera 11 nephelometer measured cloud particles during the descent, and its results confirmed the homogeneity of the cloud layers ([EVN‑016](venus.md)). The main cloud layer was localized between 51 and 48 km, with fog underneath. Photometric measurements confirmed that only 3 − 6 % of sunlight reaches the surface, and intense Rayleigh scattering in a dense atmosphere greatly impairs visibility. The horizon was visible at surface level, but details of the landscape were rapidly disappearing in an orange haze. There was no sun disk to be seen, the light of the Sun almost uniformly flooding the misty sky ([EVN‑013](venus.md)).
+The Venera 11 nephelometer measured cloud particles during the descent, and its results confirmed the homogeneity of the cloud layers ([EVN‑016](venus.md)). The main cloud layer was localized between 51 and 48 ㎞, with fog underneath. Photometric measurements confirmed that only 3 − 6 % of sunlight reaches the surface, and intense Rayleigh scattering in a dense atmosphere greatly impairs visibility. The horizon was visible at surface level, but details of the landscape were rapidly disappearing in an orange haze. There was no sun disk to be seen, the light of the Sun almost uniformly flooding the misty sky ([EVN‑013](venus.md)).
 
 **Measurements on the surface** ([EVN‑006](venus.md)).
 
-The temperature at the landing site of Venera 11 reached 458 ± 5 ℃, and the pressure 91 ± 2 bar. The image of the surface could not be obtained because the camera covers did not open. The drill took a soil sample, but could not properly deliver it to the instrument compartment, and the soil analysis could not be performed.
+The temperature at the landing site of Venera 11 reached 458 ± 5 ℃, and the pressure 91 ± 2 ㍴. The image of the surface could not be obtained because the camera covers did not open. The drill took a soil sample, but could not properly deliver it to the instrument compartment, and the soil analysis could not be performed.
 
-The temperature at the landing site of Venera 12 was equal to 468 ± 5 ℃, and the pressure 92 ± 2 bar. This lander also experienced problems with the camera, indicating a design flaw. No soil analysis was carried out. This time the reason was that during the descent of the vibration destroyed the system of delivery on the drill samples taken and measurements became impossible. The penetrometer also failed on both landers.
+The temperature at the landing site of Venera 12 was equal to 468 ± 5 ℃, and the pressure 92 ± 2 ㍴. This lander also experienced problems with the camera, indicating a design flaw. No soil analysis was carried out. This time the reason was that during the descent of the vibration destroyed the system of delivery on the drill samples taken and measurements became impossible. The penetrometer also failed on both landers.
 
 **Venera 11 and Venera 12 fly‑by spacecraft**
 
@@ -165,7 +165,7 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carryi
 
 **Instruments for operation during re-entry, descent and landing:**
 
-   - Backscatter Nephelometer − determined the structure of the atmosphere ([EVN‑017](venus.md)) in the range of heights from 105 to 70 km to study the spatial heterogeneity of cloud layers in different regions of the planet ([EVN‑016](venus.md));
+   - Backscatter Nephelometer − determined the structure of the atmosphere ([EVN‑017](venus.md)) in the range of heights from 105 to 70 ㎞ to study the spatial heterogeneity of cloud layers in different regions of the planet ([EVN‑016](venus.md));
    - Bennett radio frequency mass spectrometer **MKh-6411** − determined the chemical and isotopic composition of the atmosphere ([EVN‑014](venus.md));
    - Gas chromatograph – **Sigma**, determined the composition of the atmosphere (based on Neon) ([EVN‑014](venus.md));
    - X‑ray fluorospectrometer for estimation of chemical and elemental composition of cloud layer particles ([EVN‑018](venus.md));
@@ -173,11 +173,11 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carryi
    - Scanning spectrophotometer − studies the scattering and absorption of solar radiation in the atmosphere ([EVN‑097](venus.md)). It measured radiation from the Zenith every 10 seconds using an interference filter with a resolution of 20 nm in a continuous spectrum from 430 to 1170 nm;
    - Microphone/anemometer;
    - Low-frequency radio sensor;
-   - 4 Thermometers (for heights from 50 km to the surface);
-   - 3 Barometers (for heights from 50 km to the surface);
-   - Accelerometer – **Bizon**  to determine the structure of the atmosphere in the range of heights from 105 to 70 km ([EVN‑017](venus.md));
+   - 4 Thermometers (for heights from 50 ㎞ to the surface);
+   - 3 Barometers (for heights from 50 ㎞ to the surface);
+   - Accelerometer – **Bizon**  to determine the structure of the atmosphere in the range of heights from 105 to 70 ㎞ ([EVN‑017](venus.md));
    - Small solar batteries – **MSB**.
-   - Instrument **GROZA**. It included an acoustic detector and an electromagnetic wave detector. Measurements were carried out using four narrowband receivers at 10, 18, 36 and 80 kHz, as well as using a broadband receiver 8 − 95 kHz. The instrument began measuring at an altitude of 60 km and continued to work until the landing of the lander on the surface. The electromagnetic wave detector could detect lightning discharges and acoustic signals that could be interpreted as accompanying thunder, as well as wind speed relative to the lander during descent and even possible seismic activity on the surface.
+   - Instrument **GROZA**. It included an acoustic detector and an electromagnetic wave detector. Measurements were carried out using four narrowband receivers at 10, 18, 36 and 80 ㎑, as well as using a broadband receiver 8 − 95 ㎑. The instrument began measuring at an altitude of 60 ㎞ and continued to work until the landing of the lander on the surface. The electromagnetic wave detector could detect lightning discharges and acoustic signals that could be interpreted as accompanying thunder, as well as wind speed relative to the lander during descent and even possible seismic activity on the surface.
 
 **Instruments for surface operation:**
 
@@ -191,7 +191,7 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carryi
 |Quality|252 x 1024 pixels|
 |Coding|9 bits|
 |Parity check|1 bit|
-|Spatial resolution (at distance of about 1.5 m)|4 – 5 mm|
+|Spatial resolution (at distance of about 1.5 m)|4 – 5 ㎜|
 |Transmission bandwidth|3 072 bits/s|
 
 
@@ -217,12 +217,12 @@ The spacecraft were generally identical to the preceding Venera 9 and 10 (Vene
 
 |*Parameter*|*Value*|
 |:--|:--|
-|Launch mass of Venera 11|4 450 kg|
-|Launch mass of Venera 12|4 461 kg|
-|Fly‑by spacecraft’s mass (without fuel)|2 127 kg|
+|Launch mass of Venera 11|4 450 ㎏|
+|Launch mass of Venera 12|4 461 ㎏|
+|Fly‑by spacecraft’s mass (without fuel)|2 127 ㎏|
 
-|Lander’s mass (with atmosphere entry system)|1 600 kg|
-|Lander’s mass|731 kg|
+|Lander’s mass (with atmosphere entry system)|1 600 ㎏|
+|Lander’s mass|731 ㎏|
 
 The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The central section of the bus has a diameter of about one meter and contained propellant. The main engine (KRD-425A) is encircled by a conical instrument compartment with the diameter of 2.35 m at the base.
 
@@ -249,7 +249,7 @@ The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The ce
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Термины:* **Ангара** — русскоязычный термин, не имеющий аналога в английском языке. **Angara** — дословный перевод с русского на английский.</small>
+> <small>**Ангара** — русскоязычный термин, не имеющий аналога в английском языке. **Angara** — дословный перевод с русского на английский.</small>
 
 **«Ангарá»** — семейство российских одноразовых жидкостных [ракет‑носителей](lv.md) от лёгкого до тяжёлого классов. Различные варианты «Ангары» реализуются с помощью различного числа универсальных ракетных модулей (УРМ). Ангара призвана заменить большинство типов РН, созданных в СССР:
 
@@ -17,15 +17,15 @@
 |*Version*|*Description*|*Activity*|
 |:--|:--|:--|
 |Ангара‑А1|Базовый вариант.|Отменена (2014)|
-|├ Ангара‑А1.1|Модификация Ангара‑А1.|Отменена (2014)|
-|┕ Ангара‑А1.2|Модификация Ангара‑А1.|**Активен** (2014 ‑ …)|
+|╟ Ангара‑А1.1|Модификация Ангара‑А1.|Отменена (2014)|
+|╙ Ангара‑А1.2|Модификация Ангара‑А1.|**Активен** (2014 ‑ …)|
 |Ангара‑А3|Модификация Ангара‑А1.|Не создавалась|
 |Ангара‑А5|Модификация Ангара‑А1.|**Активен** (2014 ‑ …)|
-|├ Ангара‑А5В|Модификация Ангара‑А5.|*В разработке* (2027 ‑ …)|
-|├ Ангара‑А5М|Модификация Ангара‑А5.|*В разработке* (2025 ‑ …)|
-|┕ Ангара‑А5П|Модификация Ангара‑А5.|*В разработке* (2025 ‑ …)|
+|╟ Ангара‑А5В|Модификация Ангара‑А5.|*В разработке* (2027 ‑ …)|
+|╟ Ангара‑А5М|Модификация Ангара‑А5.|*В разработке* (2025 ‑ …)|
+|╙ Ангара‑А5П|Модификация Ангара‑А5.|*В разработке* (2025 ‑ …)|
 |Ангара‑А7|Модификация Ангара‑А1.|Не создавалась|
-|┕ Ангара‑А7.2В|Модификация Ангара‑А7.|Не создавалась|
+|╙ Ангара‑А7.2В|Модификация Ангара‑А7.|Не создавалась|
 
 [![](f/lv/angara/a1-a3-a5_thumb.jpg)](f/lv/angara/a1-a3-a5.png) [![](f/lv/angara/a1-a5_thumb.jpg)](f/lv/angara/a1-a5.png) [![](f/lv/angara/a5-a7_thumb.jpg)](f/lv/angara/a5-a7.jpg) [![](f/lv/angara/angara_variations_thumb.jpg)](f/lv/angara/angara_variations.png)
 
@@ -48,7 +48,7 @@
 |[Аналоги](analogue.md)|[Ariane 5/6](arian.md) (Европа) ┊ [Ангара‑А5](angara.md) (РФ)|
 |Длина/диаметр|55.23 м / 8.86 м|
 |[Космодромы](spaceport.md)|[Восточный](vostochny.md) ┊ [Плесецк](plesetsk.md)|
-|Масса старт./сух.|773 000 kg / … kg|
+|Масса старт./сух.|773 000 ㎏ / … ㎏|
 |Разраб./изготов.|[ГКНПЦ Хруничева](zz_khrunichev.md) (Россия) / [ГКНПЦ Хруничева](zz_khrunichev.md) (Россия)|
 |Ступени|3|
 |[Топливо](fuel.md)|[Кислород + Керосин](o_plus.md)|
@@ -112,7 +112,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md) ┊ [Integrated payload unit](lv.md) ┊ [Non‑rocket spacelaunch](nrs.md) ┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 

@@ -7,12 +7,25 @@
 
 **Astroscale** is the 1st private company with a mission to secure long‑term spaceflight safety & orbital sustainability for the benefit of future generations. Founded in 2013, Astroscale is developing innovative & scalable solutions across the spectrum of on-orbit servicing missions, including Life Extension, In-situ Space Situational Awareness, End of Life services, & Active Debris Removal, to create sustainable space systems & mitigate the growing & hazardous buildup of debris in space. Astroscale is also defining business cases & working with government & commercial stakeholders to develop norms, regulations, & incentives for the responsible use of space.
 
-   - *Our Mission.* Develop innovative technologies, advance business cases, & inform international policies that reduce orbital debris & support long‑term, sustainable use of space.
-   - *Our Vision.* Secure safe & sustainable development of space for the benefit of future generations.
-   - *“Astroscale was born out of the necessity to protect one of our precious natural resources — Earth’s orbits. While I cannot promise you an easy & quiet ride, I can guarantee an exciting career in a rapidly evolving industry. Together we will grow & learn a lot as a team as we tackle one of the biggest issues facing the world.”* Nobu Okada, Founder & CEO​
+   - **Mission.** Develop innovative technologies, advance business cases, & inform international policies that reduce orbital debris & support long‑term, sustainable use of space.
+   - **Vision.** Secure safe & sustainable development of space for the benefit of future generations.
+   - **Values.** …
+   - **Business:** …
+   - **Management:**
+      - Founder & [CEO](mgmt.md) — Nobu Okada
+      - Group [COO](mgmt.md) & Director, Japan — Chris Blackerby
+      - Chief Commercial Officer & Director, UK — John Auburn
+      - Chief Financial Officer — Atsuyuki Uenaka
+      - Chief Information Officer — Ai Makino
+      - President & Managing Director, Astroscale U.S. Inc. — Ron Lopez
+      - Chief Engineer — Gene Fujii
+      - Chief Technology Officer — Mike Lindsay
+      - General Manager, Japan — Miki Ito
+
+*“Astroscale was born out of the necessity to protect one of our precious natural resources — Earth’s orbits. While I cannot promise you an easy & quiet ride, I can guarantee an exciting career in a rapidly evolving industry. Together we will grow & learn a lot as a team as we tackle one of the biggest issues facing the world.”* Nobu Okada, Founder & CEO​
 
 **Protecting our Orbital Highways**  
-Our orbital highways are already polluted with more than 23 000 pieces of debris larger than 10 cm in diameter & hundreds of millions that are smaller. With up to tens of thousands of satellites launching in the coming years, these pieces of debris endanger a flourishing ecosystem in space. That’s why we exist — to develop the technology & ensure policies facilitate on-orbit servicing & active debris removal to secure safe & sustainable orbits for generations to come.
+Our orbital highways are already polluted with more than 23 000 pieces of debris larger than 10 ㎝ in diameter & hundreds of millions that are smaller. With up to tens of thousands of satellites launching in the coming years, these pieces of debris endanger a flourishing ecosystem in space. That’s why we exist — to develop the technology & ensure policies facilitate on-orbit servicing & active debris removal to secure safe & sustainable orbits for generations to come.
 
 With its headquarters in Singapore, a Research & Development facility in Tokyo & an Operations Centre in Harwell (UK), Astroscale is a rapidly expanding venture company, preparing to solve a growing environmental concern.
 
@@ -21,18 +34,6 @@ With its headquarters in Singapore, a Research & Development facility in Tokyo &
    - **Singapore.** The HQ is home to the Administration & Finance functions. Astroscale Singapore Pte. Ltd. 7 Straits View #05-01 Marina One East Tower Singapore 018936. +65 6911 6978
    - **UK.** The UK office is situated within the Harwell Space Cluster, in Oxfordshire & is also home to the Astroscale Operations Centre. Astroscale Ltd, Harwell Innovation Centre, Building 173, Curie Avenue, Harwell, Oxford, Didcot, Oxfordshire OX11 0QG. +44 (0) 1235 612238
    - **US.** The US office is home to business development & technology growth. Astroscale U.S. Inc, 1401 Lawrence Street, Ste 1600, Denver CO 80202. +1 206 889 7384
-
-**Management Team:**
-
-   - Nobu Okada. Founder & CEO
-   - Chris Blackerby. Group COO & Director, Japan
-   - John Auburn. Chief Commercial Officer & Director, UK
-   - Atsuyuki Uenaka. Chief Financial Officer
-   - Ai Makino. Chief Information Officer
-   - Ron Lopez. President & Managing Director, Astroscale U.S. Inc.
-   - Gene Fujii. Chief Engineer
-   - Mike Lindsay. Chief Technology Officer
-   - Miki Ito. General Manager, Japan
 
 <p style="page-break-after:always"> </p>
 

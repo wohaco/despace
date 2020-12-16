@@ -12,7 +12,7 @@
 |Схожие<br> миссии|• Предлагаемые: ….<br> • Разрабатываемые: ….<br> • Разработанные: ….|
 |[Тип](sc.md)|…|
 |Цель|…|
-|Цена|₽ ┊ или … kg [золота](sc_price.md) в ценах … г|
+|Цена|₽ ┊ или … ㎏ [золота](sc_price.md) в ценах … г|
 ||**`Космический аппарат`**|
 |Подрядчик|…|
 |Разработчик|…|
@@ -40,14 +40,14 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md) in … prices|
+|Cost|… or … ㎏ of [gold](sc_price.md) in … prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
 |Duration|…|
 |Launch|…, …, …|
 |Operator|…|
 |Programme|…|
-|Similar to|• Proposed: …<br> • Current: …<br> • Past: …|
+|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: …|
 |Target|…|
 |[Type](sc.md)|…|
 |**Spacecraft:**|• • •|

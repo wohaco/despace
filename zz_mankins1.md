@@ -26,7 +26,7 @@
 
 John C. Mankins is a former NASA physicist known for his work on space‑based solar power.
 
-Mankins holds a bachelor of science from Harvey Mudd College, a master of science in physics from UCLA, and an MBA in Public Policy Analysis from The Drucker School at Claremont Graduate University. His 25-year career at NASA and CalTech’s Jet Propulsion Laboratory (JPL) ranged from flight projects and space mission operations, to systems level innovation and advanced technology research & development management.
+Mankins holds a bachelor of science from Harvey Mudd College, a master of science in physics from UCLA, and an ㎆A in Public Policy Analysis from The Drucker School at Claremont Graduate University. His 25-year career at NASA and CalTech’s Jet Propulsion Laboratory (JPL) ranged from flight projects and space mission operations, to systems level innovation and advanced technology research & development management.
 
 Mankins is currently (2018) President of Artemis Innovation Management Solutions.
 

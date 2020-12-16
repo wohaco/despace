@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Зонд 1** — Russian term with no analogues in English. **Zond 1 (Zond 3MV-1 No. 4), Probe-1** — literal translation to English.</small>
+> <small>**Зонд 1** — RU term w/o analogues in English. **Zond 1 (Zond 3MV-1 No. 4), Probe-1** — literal EN translation.</small>
 
 **Zond 1** was a spacecraft of the Soviet Zond program. It was the second Soviet research spacecraft to reach [Venus](venus.md), although communications had failed by that time.
 
@@ -20,9 +20,9 @@
 |Development|…|
 |Duration|53 d|
 |Launch|1964.04.02 02:42:40 UTC, Rocket: Molniya 8K78M|
-|Operator|OKB-1|
+|Operator|O㎅-1|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: [Venera 1](venera_1.md)|
+|Similar to|• Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • ㎩st: [Venera 1](venera_1.md)|
 |Target|[Venus](venus.md) exploration|
 |[Type](sc.md)|Lander spacecraft|
 |**Spacecraft:**|• • •|
@@ -31,7 +31,7 @@
 |Contractor|…|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1964-016D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1964-016D), SCN: 00785|
 |Manufacturer|Lavochkin|
-|Mass|Dry: 290 kg ([minisatellite](sc.md), [EVN‑070](venus.md))|
+|Mass|Dry: 290 ㎏ ([minisatellite](sc.md), [EVN‑070](venus.md))|
 |Orbit / Site|Heliocentric; 0.652 AU × 1.001 AU; T = 274 days; i = 3.7°|
 |Payload|Containing experiments for chemical analysis of the atmosphere, gamma‑ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water|
 |Power|…|
@@ -53,7 +53,7 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-The third space station was successfully launched to Venus on 1964.04.02, but it initial trajectory was not enough accurate, and the next day it took to make the maneuver into the intermediate portion of the path at a distance 564 000 km from Earth. This was the first successful correction of the trajectory by the Soviet planetary space station. Recall that this opportunity also had the station “[Venera 1](venera_1.md)” and “[Mars 1](mars_1.md)”, but neither one of them had a chance to use it. However, the station faced a serious problem: shortly after start was discovered leak in a sealed compartment with the control system due to poor quality weld quartz dome, providing a field of view of navigation sensors of the Sun and stars. The location of the leak determined from the analysis of the perturbations that have provided the station attendant gas. A week later the transmitters and other electronic devices out of order, engaged when the pressure fell to 5 millibars. This resulted in a corona discharge and short circuits in electrical circuits. Ion the engines also worked emergency. However, the availability of a competent booking system allowed to communicate with the station via the system module apparatus and the second trajectory correction was held on May 14 at a distance of more than 13 million km from the Earth. A new trajectory has enabled the station to fly at a distance 100 000 km from Venus because the initial trajectory is passed so far off track that stock at the correction speed V is not enough to the station could go on the course of the meeting with Venus, even if she was functioning normally. For this reason, and due to depressurization of the Soviet the researchers did not consider Venus as the destination of the flight station, and it was announced that the program is aimed at engineering test systems in terms of far space. The station was called “Probe 1” and not “Venera 2”. The leak was fatal, May 25 thermal control system completely out of order and system connection was disconnected. Space station flew past Venus on 1964.07.19. ([EVN‑005](venus.md))
+The third space station was successfully launched to Venus on 1964.04.02, but it initial trajectory was not enough accurate, and the next day it took to make the maneuver into the intermediate portion of the path at a distance 564 000 ㎞ from Earth. This was the first successful correction of the trajectory by the Soviet planetary space station. Recall that this opportunity also had the station “[Venera 1](venera_1.md)” and “[Mars 1](mars_1.md)”, but neither one of them had a chance to use it. However, the station faced a serious problem: shortly after start was discovered leak in a sealed compartment with the control system due to poor quality weld quartz dome, providing a field of view of navigation sensors of the Sun and stars. The location of the leak determined from the analysis of the perturbations that have provided the station attendant gas. A week later the transmitters and other electronic devices out of order, engaged when the pressure fell to 5 millibars. This resulted in a corona discharge and short circuits in electrical circuits. Ion the engines also worked emergency. However, the availability of a competent booking system allowed to communicate with the station via the system module apparatus and the second trajectory correction was held on May 14 at a distance of more than 13 million km from the Earth. A new trajectory has enabled the station to fly at a distance 100 000 ㎞ from Venus because the initial trajectory is passed so far off track that stock at the correction speed V is not enough to the station could go on the course of the meeting with Venus, even if she was functioning normally. For this reason, and due to depressurization of the Soviet the researchers did not consider Venus as the destination of the flight station, and it was announced that the program is aimed at engineering test systems in terms of far space. The station was called “Probe 1” and not “Venera 2”. The leak was fatal, May 25 thermal control system completely out of order and system connection was disconnected. Space station flew past Venus on 1964.07.19. ([EVN‑005](venus.md))
 
 **Results**
 
@@ -64,11 +64,11 @@ The third space station was successfully launched to Venus on 1964.04.02, but it
 <p style="page-break-after:always"> </p>
 
 ## Science goals & payload
-Zond 1 carried a 90 cm spherical landing capsule, containing experiments for chemical analysis of the atmosphere, gamma‑ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water.
+Zond 1 carried a 90 ㎝ spherical landing capsule, containing experiments for chemical analysis of the atmosphere, gamma‑ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water.
 
 The payload of the space station for the test flight to Venus was similar to that used for the test flight to [Mars](mars.md).
 
-Scientific instruments for measuring atmospheric parameters consisted of two platinum wire thermistors, worked in bands −60 ‑ +460 ℃ and 0 ‑ +330 ℃, the aneroid barometer, designed for a pressure 0.13 ‑ 6.9 bar, and densitometer‑based ionization chambers, using beta‑radiation. The densitometer was integrated with a thermometer and worked in the range 0.0005 ‑ 0.015 g/cm³ with a 5 % margin of error. Devices to determine the atmospheric composition, pH, and conductivity consisted of a set of cartridges‑gas analyzer with chemical reagents and sensors to conduct the electrical tests for various gases, including carbon dioxide, nitrogen, oxygen, and water vapor. The photometer was sensitive in the range of 0.001 ‑ 10 000 Lux and was intended for measurement of a luminescence of atmosphere during a night descent. A device for determining the tilt level measurement of mercury intended for measuring wave motion in your ocean. Gas discharge detector based on the schema of antisubmarine, scintillation detector of cosmic rays and the gamma‑ray detector intended primarily for the detection of gamma radiation the surface of the radioactive elements the composition of the soil, including uranium, thorium and potassium. They were also used during the interplanetary flight to measure the intensity of cosmic rays.
+Scientific instruments for measuring atmospheric parameters consisted of two platinum wire thermistors, worked in bands −60 ‑ +460 ℃ and 0 ‑ +330 ℃, the aneroid barometer, designed for a pressure 0.13 ‑ 6.9 ㍴, and densitometer‑based ionization chambers, using beta‑radiation. The densitometer was integrated with a thermometer and worked in the range 0.0005 ‑ 0.015 g/㎝³ with a 5 % margin of error. Devices to determine the atmospheric composition, pH, and conductivity consisted of a set of cartridges‑gas analyzer with chemical reagents and sensors to conduct the electrical tests for various gases, including carbon dioxide, nitrogen, oxygen, and water vapor. The photometer was sensitive in the range of 0.001 ‑ 10 000 Lux and was intended for measurement of a luminescence of atmosphere during a night descent. A device for determining the tilt level measurement of mercury intended for measuring wave motion in your ocean. Gas discharge detector based on the schema of antisubmarine, scintillation detector of cosmic rays and the gamma‑ray detector intended primarily for the detection of gamma radiation the surface of the radioactive elements the composition of the soil, including uranium, thorium and potassium. They were also used during the interplanetary flight to measure the intensity of cosmic rays.
 At landers stations 3MV “Venus” and “Mars” was planned to install the detector microorganisms, but they never included in the list of scientific instruments.
 
    - **Orbiter:**
@@ -95,7 +95,7 @@ At landers stations 3MV “Venus” and “Mars” was planned to install the de
 
 **Orbital Compartment**
 
-The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft’s control electronics, radio transmitters and receivers, batteries, astro‑orientation equipment, and so on. The compartment was pressurized to around 100 kPa and thermally controlled to simulate Earth‑like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions. On Zond 1 the module depressurized in flight, severely damaging the spacecraft’s systems.
+The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft’s control electronics, radio transmitters and receivers, batteries, astro‑orientation equipment, and so on. The compartment was pressurized to around 100 ㎪ and thermally controlled to simulate Earth‑like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions. On Zond 1 the module depressurized in flight, severely damaging the spacecraft’s systems.
 
 Mounted on the outside of the Orbital Compartment were two solar panels which supplied power to the spacecraft. They were folded against the body of the spacecraft during launch and were only deployed when the spacecraft was already on its interplanetary trajectory. On the ends of each solar panel was a hemispherical radiator which radiated excess heat from the orbital compartment into through a coolant loop.
 
@@ -109,7 +109,7 @@ Below the Orbital Compartment was a second pressurized compartment called the Pl
 
 Course correction capabilities were provided by a KDU 414 engine attached to the top of the Orbital Compartment. It provided a maximum thrust of around 2 kN used UDMH and nitric acid as propellants. Attitude control was achieved by several small cold gas thrusters.
 
-The whole stack was 3.6 m high and weighted around 1 000 kg.
+The whole stack was 3.6 m high and weighted around 1 000 ㎏.
 
 
 
@@ -125,7 +125,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
    - **Members:**
       1. Aleksandr Platonov (Александр Константинович Платонов) was a Soviet scientist, ballistics KIAM (ИПМ), analyzed the method of “solar correction”.
       1. Alfred Charles Bernard Lovell was an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft’s disoriented nondirectional antenna.
-      1. Valeri Kubasov (Валерий Николаевич Кубасов) was a Soviet/Russian cosmonaut. Ballistics OKB-1, analyzed the method of “solar correction”.
+      1. Valeri Kubasov (Валерий Николаевич Кубасов) was a Soviet/Russian cosmonaut. Ballistics O㎅-1, analyzed the method of “solar correction”.
 
 **COMMUNITY:**
 
@@ -138,7 +138,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

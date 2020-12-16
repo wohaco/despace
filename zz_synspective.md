@@ -5,18 +5,27 @@
 |:--|:--|
 |Link|<https://synspective.com><br> <https://www.linkedin.com/company/synspective>|
 
-**Synspective Inc.** provides solutions for customers’ challenges with utilizing/integrating data from [Synthetic Aperture Radar](sar.md) (SAR) sat constellations, etc. Founded 2018.02.22. Founder & CEO Dr. Motoyuki Arai.
+**Synspective Inc.** provides solutions for customers’ challenges with utilizing/integrating data from [Synthetic Aperture Radar](sar.md) (SAR) sat constellations, etc. Founded 2018.02.22.
 
-   - *Mission.* Synthetic Data for Perspective.
-   - *Vision.* Efficient, accountable & resilient world.
-   - *Business.* Solutions services with satellite data. Development & operation of small SAR satellites.
+   - **Mission.** Synthetic Data for Perspective.
+   - **Vision.** Efficient, accountable & resilient world.
+   - **Values.** …
+   - **Business.** Solutions services with satellite data. Development & operation of small SAR satellites.
       1. Solutions. Effective use of geospatial data that can measure human activity over a wide area coupled with data analysis to retrieve necessary information quickly.
          - **SAR satellite & Data.** Synspective’s SAR [satellite](sc.md) constellation system can observe wide areas on Earth, regardless of time or weather. Thanks to Synspective’s small [satellite](sc.md) technology we’re able to achieve significant cost reductions compared to conventional products.
          - **Customized solution service.** We collaborate together to develop new bespoke solutions for you by targeting your specific needs & combining your data (when applicable) with our sat data & analytics technology. Considering the end‑users’ “business specifics”, “needs & challenges” & “know‑how & data”, solution scenarios are newly built by utilizing sat data. We develop the prototype using an agile analytics dev.approach based on scenario, then verify the product effectiveness through real‑world implementation. We commercialize the prototype & keep improving the product with your feedback to get the solutions adjusted to the market needs. We believe that the co‑creation is key. Our sat data solution is developed together with our customers & takes the vantage point of the end‑users rather than that of the developers.
          - **Standard solution service.** Synspective’s SaaS service, developed based on the needs of more than 100 potential satellite data users in the private sector. Our standard solutions services are now under development & expected to launch in 2020. Given the great advantages of SAR data our aim is to make satellite data & solutions a preferred option across various industries by making it more accessible both through pricing & ease in implementation.
       1. Our product. **Land displacement monitoring.** Our unique inSAR analysis detects fluctuations over a large surface area, in chronological order, with SAR sat data which has a millimetre-level accuracy. You can reduce the time & costs of traditional observation or management techniques. (InSAR — Interferometric SAR. The technology to detect land displacement with millimetre accuracy.)
+   - **Management:**
+      - Founder & [CEO](mgmt.md) — Dr. Motoyuki Arai.
+      - Founder & Board Director — Seiko Shirasaka
+      - Board Director — Toshihiro Obata
+      - Outside Director — Tomotake Kitazawa (JAFCO Co., Ltd.)
+      - Outside Director — Hideki Kanayama (SHIMIZU CORPORATION)
+      - Outside Director — Kazumasa Watanabe (a START Co.,Ltd.) 
+      - Auditor Ryugo — Yoshimura (Morrison & Foerster LLP)
 
-**Our Satellite: StriX.** Named after “Strix uralensis”, the scientific name of the owl, our 100 kg class SAR sat can gather data 24/7, regardless of weather conditions. The owl is known for its keen eyesight, & like its animal namesake, the StriX sat constellation can target data with a ground res of 1 ‑ 3 m, single polarized (VV), & a swath width of more than 10 ‑ 30 km. The StriX observation modes are Stripmap & Sliding Spotlight mode & each sat has an SAR antenna that is 5 meters in length & stowed during launch. The simple design of the sats allows for affordable development of the constellation. The development of the SAR originally began as part of the Japanese government’s program called ImPACT (Impulsing Paradigm Change through Disruptive Technologies Program). As a result, the development team consists of experienced members & reviewers from space & consumer product industries with universities & space agencies.
+**Our Satellite: StriX.** Named after “Strix uralensis”, the scientific name of the owl, our 100 ㎏ class SAR sat can gather data 24/7, regardless of weather conditions. The owl is known for its keen eyesight, & like its animal namesake, the StriX sat constellation can target data with a ground res of 1 ‑ 3 m, single polarized (VV), & a swath width of more than 10 ‑ 30 ㎞. The StriX observation modes are Stripmap & Sliding Spotlight mode & each sat has an SAR antenna that is 5 meters in length & stowed during launch. The simple design of the sats allows for affordable development of the constellation. The development of the SAR originally began as part of the Japanese government’s program called ImPACT (Impulsing Paradigm Change through Disruptive Technologies Program). As a result, the development team consists of experienced members & reviewers from space & consumer product industries with universities & space agencies.
 
 Where Satellite Development Meets Data Analysis
 
@@ -24,3 +33,6 @@ Where Satellite Development Meets Data Analysis
    - **Global Monitoring System for Society's Needs.** In order to maintain a reliable knowledge of the global economy, we’re in the process of developing a global monitoring system which will be launched in 2020 & 2021, these will be the 1st generation of sats, StriX-α & StriX-β. The 2nd generation of sats are 4 sats that allow for commercial data acquisition. They will be built in an industrialized manner & will reflect an updated experience, as well as cater to updated customer needs. They will achieve the daily monitoring & data extraction of major Asian cities. The 3rd generation would be the creation of an SAR sat constellation of more than 30 sats which will collate the data of all metropolitan centres on a daily basis.
 
 <p style="page-break-after:always"> </p>
+
+<small> **Dr.Motoyuki Arai**<br> Synspective Inc. Founder CEO / Ph.D. in Engineering<br> Dr. Motoyuki Arai began his career working at a US-based consulting firm in Tokyo, Japan for 5 years. During that period, he supported more than 15 global companies in designing new business and technology strategies that could formulate corporate governance in order to build the internal controls necessary to run global companies.<br> He received his Ph.D. in Technology Management for Innovation from the University of Tokyo. During his time there, he focused his research on construction of energy systems to promote economic growth in developing countries. He then implemented his knowledge of business development to solve social issues in areas such as energy, water and sanitation, agriculture, and recycling in Saudi Arabia, Bangladesh, Laos, Cambodia, Kenya, Tanzania, and devastated areas in Japan.</small>
+

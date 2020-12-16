@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Mariner 10** — English term with no analogues in Russian. **Маринер‑10** — rough Russian equivalent.</small>
+> <small>**Mariner 10** — EN term. **Маринер‑10** — rough RU analogue.</small>
 
 **Mariner 10** was an American spacecraft launched by NASA on November 3, 1973, to fly by the planets Mercury & Venus. It was the first spacecraft to perform fly‑bys of multiple planets. Mariner 10 was the last spacecraft in the Mariner program.
 
@@ -16,13 +16,13 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|$100 million or 19 312 kg of [gold](sc_price.md)|
+|Cost|$100 million or 19 312 ㎏ of [gold](sc_price.md)|
 |Development|1969 — 1973|
 |Duration|1 year 4 months 21 days|
 |Launch|November 3, 1973, 05:45:00 UTC, Rocket Atlas SLV-3D Centaur-D1A|
 |Operator|NASA / JPL|
 |Programme|Mariner|
-|Similar to|• Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • Past: [Mariner 2](mariner_2.md)|
+|Similar to|• Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • ㎩st: [Mariner 2](mariner_2.md)|
 |Target|Measurement Mercury’s environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus|
 |[Type](sc.md)|Fly‑by spacecraft|
 |**Spacecraft:**|• • •|
@@ -31,7 +31,7 @@
 |Contractor|…|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1973-085A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1973-085A), SCN: 06919|
 |Manufacturer|Jet Propulsion Laboratory|
-|Mass|502.9 kg ([medium satellite](sc.md), [EVN‑072](venus.md))|
+|Mass|502.9 ㎏ ([medium satellite](sc.md), [EVN‑072](venus.md))|
 |Orbit / Site|…|
 |Payload|2 Telescopes, Infrared radiometer, Ultraviolet spectrometers, Plasma detectors, Charged particle telescopes, Magnetometers|
 |Power|820 W (at Venus encounter)|
@@ -82,29 +82,29 @@ During its first week of flight, the Mariner 10 camera system was tested by ta
 
 **Venus fly‑by**
 
-The spacecraft passed Venus on February 5, 1974, the closest approach being 5 768 km at 17:01 UTC ([EVN‑005](venus.md)). Mariner 10 had a camera. As Mariner 10 veered around Venus, from the planet’s night side to daylight, the cameras snapped the probe’s first image of Venus, showing an illuminated arc of clouds over the north pole emerging from darkness ([EVN‑008](venus.md)).
+The spacecraft passed Venus on February 5, 1974, the closest approach being 5 768 ㎞ at 17:01 UTC ([EVN‑005](venus.md)). Mariner 10 had a camera. As Mariner 10 veered around Venus, from the planet’s night side to daylight, the cameras snapped the probe’s first image of Venus, showing an illuminated arc of clouds over the north pole emerging from darkness ([EVN‑008](venus.md)).
 
 Earth occultation occurred between 17:07 UT & 17:11 UTC, during which the spacecraft transmitted X‑band radio waves through Venus’ atmosphere ([EVN‑078](venus.md)), gathering data on cloud structure ([EVN‑016](venus.md)) & temperature. Although Venus’s cloud cover is nearly featureless in visible light, it was discovered that extensive cloud detail could be seen through Mariner’s ultraviolet camera filters. The spacecraft continued photographing Venus until February 13 ([EVN‑093](venus.md)). Among the encounter’s 4 165 acquired photographs, one resulting series of images captured a thick & distinctly patterned ([EVN‑017](venus.md)) atmosphere making a full revolution every four days ([EVN‑011](venus.md)), just as terrestrial observations had suggested.
 
-The mission revealed the composition ([EVN‑014](venus.md)) & meteorological nature ([EVN‑074](venus.md)) of Venus’ atmosphere. Data from the radio science experiment measured the extent to which radio waves passing through the atmosphere were refracted, which was used to calculate the density, pressure, & temperature of the atmosphere at any given altitude ([EVN‑010](venus.md)). Overall, atmospheric temperature is higher closer to the planet’s surface, but Mariner 10 found four altitudes where the pattern was reversed, which could signify the presence of a layer of clouds. The inversions occurred at the 56, 61, 63, & 81 km levels. The ultraviolet spectrometers identified the chemical substances that comprise Venus’ atmosphere ([EVN‑077](venus.md)). The elevated concentration of atomic oxygen in the upper atmosphere showed that the atmosphere is stratified into upper & lower layers that do not mix with each other; photographs of the upper & lower cloud layers corroborated this hypothesis. Mariner 10’s ultraviolet photographs were an invaluable information source for studying the churning clouds of Venus’ atmosphere ([EVN‑016](venus.md)). The mission researchers believed the cloud features they photographed were located in the stratosphere & upper troposphere, created by condensation; they also concluded that the contrast between darker & lighter features was due to differences in the cloud’s absorptivity of UV light ([EVN‑035](venus.md)). The subsolar region was of particular interest: as the sun is straight overhead, it imparts more solar energy to this area than other part of the planet. Compared to the rest of the planet’s atmosphere, the subsolar region was highly active & irregular. "Cells" of air lifted by convection, each up to 500 km wide, were observed forming & dissipating within the span of a few hours; some had polygonal outlines ([EVN‑011](venus.md)).
+The mission revealed the composition ([EVN‑014](venus.md)) & meteorological nature ([EVN‑074](venus.md)) of Venus’ atmosphere. Data from the radio science experiment measured the extent to which radio waves passing through the atmosphere were refracted, which was used to calculate the density, pressure, & temperature of the atmosphere at any given altitude ([EVN‑010](venus.md)). Overall, atmospheric temperature is higher closer to the planet’s surface, but Mariner 10 found four altitudes where the pattern was reversed, which could signify the presence of a layer of clouds. The inversions occurred at the 56, 61, 63, & 81 ㎞ levels. The ultraviolet spectrometers identified the chemical substances that comprise Venus’ atmosphere ([EVN‑077](venus.md)). The elevated concentration of atomic oxygen in the upper atmosphere showed that the atmosphere is stratified into upper & lower layers that do not mix with each other; photographs of the upper & lower cloud layers corroborated this hypothesis. Mariner 10’s ultraviolet photographs were an invaluable information source for studying the churning clouds of Venus’ atmosphere ([EVN‑016](venus.md)). The mission researchers believed the cloud features they photographed were located in the stratosphere & upper troposphere, created by condensation; they also concluded that the contrast between darker & lighter features was due to differences in the cloud’s absorptivity of UV light ([EVN‑035](venus.md)). The subsolar region was of particular interest: as the sun is straight overhead, it imparts more solar energy to this area than other part of the planet. Compared to the rest of the planet’s atmosphere, the subsolar region was highly active & irregular. "Cells" of air lifted by convection, each up to 500 ㎞ wide, were observed forming & dissipating within the span of a few hours; some had polygonal outlines ([EVN‑011](venus.md)).
 
-According to Mariner 10, the atmosphere consisted of a giant vortex encircling the entire planet. Along the equator, areas of high pressure were found where solar heating generated convective flows that disrupted the main movement of clouds & created vortices tending toward the poles ([EVN‑011](venus.md), [067](venus.md)). At the equator, the speed of clouds was about 100 m/s, in the polar regions it reached 200 m/s, at the poles it could be transonic ([EVN‑001](venus.md)).
+According to Mariner 10, the atmosphere consisted of a giant vortex encircling the entire planet. Along the equator, areas of high pressure were found where solar heating generated convective flows that disrupted the main movement of clouds & created vortices tending toward the poles ([EVN‑011](venus.md), [067](venus.md)). At the equator, the speed of clouds was about 100 ㎧, in the polar regions it reached 200 ㎧, at the poles it could be transonic ([EVN‑001](venus.md)).
 
-The gravity assist was also a success, coming well within the acceptable margin for error. In the four hours between 16:00 UTC & 20:00 UTC on February 5, Mariner 10’s heliocentric velocity dropped from 37.008 km/s to 32.283 km/s. This changed the shape of the spacecraft’s elliptical orbit around the Sun, so that the perihelion now coincided with the orbit of Mercury.
+The gravity assist was also a success, coming well within the acceptable margin for error. In the four hours between 16:00 UTC & 20:00 UTC on February 5, Mariner 10’s heliocentric velocity dropped from 37.008 ㎞/s to 32.283 ㎞/s. This changed the shape of the spacecraft’s elliptical orbit around the Sun, so that the perihelion now coincided with the orbit of Mercury.
 
 It was also possible to determine the mass of Venus even more precisely from the trajectory measurements of the station.
 
 **First Mercury fly‑by**
 
-The spacecraft flew past Mercury three times. The first Mercury encounter took place at 20:47 UTC on March 29, 1974, at a range of 703 km, passing on the shadow side.
+The spacecraft flew past Mercury three times. The first Mercury encounter took place at 20:47 UTC on March 29, 1974, at a range of 703 ㎞, passing on the shadow side.
 
 **Second Mercury fly‑by**
 
-After looping once around the Sun while Mercury completed two orbits, Mariner 10 flew by Mercury again on September 21, 1974, at a more distant range of 48 069 km below the southern hemisphere.
+After looping once around the Sun while Mercury completed two orbits, Mariner 10 flew by Mercury again on September 21, 1974, at a more distant range of 48 069 ㎞ below the southern hemisphere.
 
 **Third Mercury fly‑by**
 
-After losing roll control in October 1974, a third & final encounter, the closest to Mercury, took place on March 16, 1975, at a range of 327 km, passing almost over the north pole.
+After losing roll control in October 1974, a third & final encounter, the closest to Mercury, took place on March 16, 1975, at a range of 327 ㎞, passing almost over the north pole.
 
 **Discoveries**
 
@@ -126,9 +126,9 @@ The mission objectives were to measure Mercury’s environment, atmosphere, surf
 
 **Television photography**
 
-The imaging system, the Television Photography Experiment, consisted of two 15 cm Cassegrain telescopes feeding vidicon tubes. The main telescope could be bypassed to a smaller wide angle optic, but using the same tube. It had an 8-position filter wheel, with one position occupied by a mirror for the wide-angle bypass.
+The imaging system, the Television Photography Experiment, consisted of two 15 ㎝ Cassegrain telescopes feeding vidicon tubes. The main telescope could be bypassed to a smaller wide angle optic, but using the same tube. It had an 8-position filter wheel, with one position occupied by a mirror for the wide-angle bypass.
 
-Mass of cameras were 43.6 kg & 67 W of electricity, the cameras were the most weight & power than the other five instruments combined. The system returned about 7 000 photographs of Mercury & Venus during Mariner 10’s fly‑bys ([EVN‑093](venus.md)).
+Mass of cameras were 43.6 ㎏ & 67 W of electricity, the cameras were the most weight & power than the other five instruments combined. The system returned about 7 000 photographs of Mercury & Venus during Mariner 10’s fly‑bys ([EVN‑093](venus.md)).
 
 **Infrared radiometer**
 
@@ -198,7 +198,7 @@ Thermal blankets & a sunshade were installed on the main body. After evaluating 
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

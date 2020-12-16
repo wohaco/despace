@@ -38,11 +38,11 @@
 
 **Mitsubishi Heavy Industries, Ltd.**
 
-   1. MHI [Launch Services](lv.md). Launch services since 2007 with the [H-IIA](h2.md)/[B](h2.md), [H3](h3.md). We provide total support from contract to launch & we will deliver sats to any place on the target date.
+   1. MHI [Launch Services](lv.md), LV R&D. Launch services since 2007 with the [H-IIA](h2.md)/[B](h2.md), [H3](h3.md). We provide total support from contract to launch & we will deliver sats to any place on the target date.
    1. Electronic Parts: [Temperature Sensor](sensor.md) For Space Application
    1. [Reaction Control System](iu.md)
    1. [Rocket Engine Combustion Test Facility](test.md)
-   1. [Rocket Engines](ps.md): MB-XX, LE-7A, LE-5B
+   1. [Rocket Engines](ps.md): ㎆-XX, LE-7A, LE-5B
    1. [Rocket Launcher](lv.md)
    1. Space Station: JEM (Japanese Experiment Module), H-II Transfer Vehicle (HTV)
 

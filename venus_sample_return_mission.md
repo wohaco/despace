@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Venus Sample Return Mission (VSRM)** — English term with no analogues in Russian. **Венерианская миссия по возврату грунта (ВМВГ)** — literal translation to Russian.</small>
+> <small>**Venus Sample Return Mission (VSRM)** — EN term. **Венерианская миссия по возврату грунта (ВМВГ)** — literal RU translation.</small>
 
 **Venus Sample Return Mission** — proposed EU/US mission to return venusian surface samples to Earth.
 
@@ -17,14 +17,14 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md) in … prices|
+|Cost|… or … ㎏ of [gold](sc_price.md) in … prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
 |Duration|…|
 |Launch|…, …, …|
 |Operator|…|
 |Programme|…|
-|Similar to|• Proposed: …<br> • Current: …<br> • Past: …|
+|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: …|
 |Target|…|
 |[Type](sc.md)|…|
 |**Spacecraft:**|• • •|
@@ -72,7 +72,7 @@ The basic mission idea is to use small samplers parachuted to the surface of the
 
 The ascent rocket would take the samples to Venus orbit where they would be transported by return vehicle to Earth orbit.
 
-The objective of the mission would be to return to Earth at least 1 kg (2.2 pounds) sample of the Venus surface for study.
+The objective of the mission would be to return to Earth at least 1 ㎏ (2.2 pounds) sample of the Venus surface for study.
 
 The mission is considered to be similar in size and challenge to Mars or comet sample return mission, also currently under study by NASA, the team members said.
 
@@ -86,7 +86,7 @@ The strategy, the team members said, is to make the systems which must operate i
 
 The concept trades simple systems on the surface for complex systems at high altitude where the temperature and pressure are more Earth‑like.
 
-In phase one of the mission, the combination of vehicles that make up the Venus Sample Return (VSR) would be assembled at the space station or low Earth orbit. Then the 20 000 kg (44 000 pounds) spacecraft would be fired into 140‑day trajectory to Venus.
+In phase one of the mission, the combination of vehicles that make up the Venus Sample Return (VSR) would be assembled at the space station or low Earth orbit. Then the 20 000 ㎏ (44 000 pounds) spacecraft would be fired into 140‑day trajectory to Venus.
 
 At Venus, the spacecraft would go into 300 kilometer (186 miles) circular orbit around the equator of the planet.
 
@@ -96,7 +96,7 @@ In phase two, the first descent module, similar to the entry probes that were ea
 
 The packages would have about an hour to acquire soil sample. Several different mechanisms for picking up sample are being evaluated. By the end of an hour, liquid ammonia in the balloons would vaporize and expand in the Venusian heat and the balloon would begin to rise carrying the samples.
 
-Each balloon would carry either transponder or radio frequency reflector to aid in its detection. The balloons would rise to about 50 − 60 km (31 − 37 miles) altitude over four hours. Winds would carry them about 500 km (310 miles) from their starting point.
+Each balloon would carry either transponder or radio frequency reflector to aid in its detection. The balloons would rise to about 50 − 60 ㎞ (31 − 37 miles) altitude over four hours. Winds would carry them about 500 ㎞ (310 miles) from their starting point.
 
 In the third phase, the second descent module would be released and perform deorbit burn. The vehicles that make up the module — the hot air balloon, the ascent rocket and the Venus airplanes — would be packaged in an aeroshell that allows the module to maneuver close to the sampler balloons.
 
@@ -110,7 +110,7 @@ The airplanes would have about 50 hours, the estimated lifetime of the hot air
 
 In the final two phases, the ascent vehicle would carry the samples back to the Venus Orbiting Vehicle where they would be transferred to the Earth Return Vehicle.
 
-At Earth orbit, an Earth Orbiting Canister (EOC) containing the samples would be ejected into 280 km (173.6 miles) by 40 000 km (24 800 miles) orbit around Earth. The canister would be retrieved by an orbit transfer vehicle.
+At Earth orbit, an Earth Orbiting Canister (EOC) containing the samples would be ejected into 280 ㎞ (173.6 miles) by 40 000 ㎞ (24 800 miles) orbit around Earth. The canister would be retrieved by an orbit transfer vehicle.
 
 The Aquila‑type remote aircraft has the capability to be launched from truck, fly pre‑programmed course and autonomously maneuver back to the launcher for recovery into net. The remotely‑piloted airplane engine, which burns hydrazine, was developed in 1978. Other technologies, including navigation, rendezvous, docking and snaring tethered balloon, were more recently developed.
 
@@ -164,15 +164,15 @@ The VSR team noted that the Venus Sample Return mission concept would be potenti
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Venus sample return mission revisited ❐](f/project/v/venus_sample_return_mission/valentiand_venus_sample_return_mission_revisited_r2.pdf)
    1. Notable interwikies — …
-   1. <https://www.jpl.nasa.gov/news/news.php?:feature=5902>
+   1. <https://www.jpl.nasa.gov/news/news.php?feature=5902>
    1. <https://www.cosmos.esa.int/documents/1866264/3219248/ValentianD_Venus+sample+return+mission+revisited_r2.pdf>
-   1. <https://forum.kerbalspaceprogram.com/index.php?:/topic/113010-venus-surface-sample-return-mission/>
-   1. <https://forum.nasaspaceflight.com/index.php?:topic=29296.0>
+   1. <https://forum.kerbalspaceprogram.com/index.php?/topic/113010-venus-surface-sample-return-mission/>
+   1. <https://forum.nasaspaceflight.com/index.php?topic=29296.0>
    1. <https://www.researchgate.net/publication/245139929_Venus_sample_return_missions-a_range_of_science_a_range_of_costs>

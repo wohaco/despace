@@ -24,7 +24,7 @@ Products / Space‑related
    - **High Voltage Power Supply for Spacecraft.** This is a HVPS (high voltage [power supply](sps.md)) to be installed on scientific satellite for supplying voltage to detectors in the space environment.
    - **Magnetic Torque Actuator for Spacecraft.** The magnetic torque actuator is an equipment to control spacecraft attitude due to the effects of the geomagnetic field.
    - **3‑Axis [Magnetometer](sensor.ru) for Small Satellite.** This sensor measures the magnetic field strength in the space environment, which is necessary for the attitude control of satellite.
-   - **1Mbps S‑band Transceiver for Satellite.** It will be installed on the small satellite & perform the command reception from the ground, & the telemetry transmission to the ground using 2 GHz wave band.
+   - **1Mbps S‑band Transceiver for Satellite.** It will be installed on the small satellite & perform the command reception from the ground, & the telemetry transmission to the ground using 2 ㎓ wave band.
 
 <p style="page-break-after:always"> </p>
 

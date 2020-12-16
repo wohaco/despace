@@ -1,16 +1,16 @@
 # Лётные испытания
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[R&D](rnd.md)**
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [R&D](rnd.md)
 
 [TOC]
 
 ---
 
-|*Этапы*|||<small>*ОКР*</small>|||||<small>*серийное пр‑во:*</small>||
+|*Phase*|||*Design*|||||*Mass prod.:*||
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|<small>**[R&D](rnd.md)**</small>|<small>[НИР](rnd_0.md)</small>|<small>[АП](rnd_ap.md)</small>|<small>[ЭП](rnd_ep.md)</small>|<small>[ТП](rnd_tp.md)</small>|<small>[РКД (РРД)](rnd_rkd.md)</small>|<small>[Макеты, НЭО](rnd_neo.md)</small>|<small>[ЛИ](rnd_e.md)</small>|<small>ПСП → СП → ПЭ</small>|<small>Вывод</small>|
-|<small>**[R&D phases](rnd.md)**</small>|<small>0 (pre‑A)</small>|<small>A</small>|<small>≈ B</small>|<small>≈ B</small>|<small>≈ C</small>|<small>≈ C/D</small>|<small>≈ E</small>|<small>…</small>|<small>F</small>|
+|**[R&D phases](rnd.md)**|0 (pre‑A)|A|≈ B|≈ B|≈ C|≈ C/D|≈ E|…|F|
+|**[НИОКР](rnd.md)**|[НИР](rnd_0.md)|[АП](rnd_ap.md)|[ЭП](rnd_ep.md)|[ТП](rnd_tp.md)|[РКД (РРД)](rnd_rkd.md)|[Макеты, НЭО](rnd_neo.md)|[ЛИ](rnd_e.md)|ПСП → СП → ПЭ|Вывод|
 
-> <small>*Термины:* **Лётные испытания (ЛИ)** — русскоязычный термин. **Phase E** — англоязычный эквивалент.</small>
+> <small>**Лётные испытания (ЛИ)** — русскоязычный термин. **Phase E** — англоязычный эквивалент.</small>
 
 **Лётные испытания (ЛИ)** — испытания [комплекса](scs.md) (его [изделий](unit.md)) в реальных натурных условиях функционирования и выполнения целевых задач.
 
@@ -53,9 +53,9 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
+|**··• [R&D](rnd.md) •··**<br> [Design review](design_review.md) ┊ [Management](mgmt.md) ┊ [Proposal](proposal.md)<br> [АП](rnd_ap.md) ┊ [ЛИ](rnd_e.md) ┊ [Макеты, НЭО](rnd_neo.md) ┊ [НИР](rnd_0.md) ┊ [РКД (РРД)](rnd_rkd.md) ┊ [ТП](rnd_tp.md) ┊ [ЭП](rnd_ep.md)|
 
    1. Docs: …
    1. Notable interwikies — …

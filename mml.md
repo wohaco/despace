@@ -5,38 +5,36 @@
 
 ---
 
-> <small>*Термины:* **Уровни зрелости управления** — русскоязычный термин. **Modeling Maturity Levels** — англоязычный эквивалент.</small>
+> <small>**Modeling Maturity Levels (MML)** — EN term. **Уровни зрелости управления (УЗУ)** — RU analogue.</small>
 
 **Уровни зрелости управления** (англ. Modeling Maturity Levels) — этапы развития организации в соответствии со стандартизованными моделями оценки уровня зрелости управления. Проходятся каждой организацией последовательно и определяются различными характеристиками, включающими миссию, ценности, стратегию, организационную структуру. Переходы с уровня на уровень делают организацию более конкурентоспособной.
 
+   - Универсальные модели оценки уровня зрелости управления:
+      - CMMI — Capability Maturity Model Integration — набор моделей (методологий) совершенствования процессов в организациях разных размеров и видов деятельности
+   - В сфере информационных технологий:
+      - CMM — Capability Maturity Model — модель зрелости возможностей создания ПО
+      - ГОСТ Р ИСО/МЭК 15504-xx Информационные технологии. Оценка процесса (англ.: ISO/IEC 15504),
+      - Серия стандартов на базе ГОСТ Р ИСО/МЭК 33001 "Информационные технологии - оценка Процесса" (англ.: ISO/IEC 33001),
+   - В сфере управления проектами:
+      - P3M3 — Portfolio, Programme and Project Management Maturity Model — Модель зрелости управления портфелями, программами и проектами
+      - OPM3 — Organizational Project Management Maturity Model — Модель зрелости организационного управления проектами
 
+**Modeling Maturity Levels**
 
-## Модели уровня зрелости управления
-
-Универсальные модели оценки уровня зрелости управления:
-
-   - CMMI — Capability Maturity Model Integration — набор моделей (методологий) совершенствования процессов в организациях разных размеров и видов деятельности
-
-В сфере информационных технологий:
-
-   - CMM — Capability Maturity Model — модель зрелости возможностей создания ПО
-   - ГОСТ Р ИСО/МЭК 15504-xx Информационные технологии. Оценка процесса (англ.: ISO/IEC 15504),
-   - Серия стандартов на базе ГОСТ Р ИСО/МЭК 33001 "Информационные технологии - оценка Процесса" (англ.: ISO/IEC 33001),
-
-В сфере управления проектами:
-
-   - P3M3 — Portfolio, Programme and Project Management Maturity Model — Модель зрелости управления портфелями, программами и проектами
-   - OPM3 — Organizational Project Management Maturity Model — Модель зрелости организационного управления проектами
+|*Level*|*1) Ad Hoc, Chaotic*|*2) Managed*|*3) Standardized*|*4) Semi-Integrated*|*5) Integrated & Optimizing*|
+|:--|:--|:--|:--|:--|:--|
+|**Focus**|Just get it done|Plan & manage|Standard, repeatable process|Reduce costs|Automate & integrate|
+|**Strategy**|Individual heroics|Outside counsel manages many vendors|Vetted & trusted vendor(s)|Legal manages blend of vendor and in‑house resources|Legal & Tech manage in-house with strategic vendor use|
+|**Expertise**|None|Expert at outside counsel|Expert at trusted vendor|Single expert in either legal or tech|Expert team of legal & tech|
+|**Costs**|Surprising|Overruns, unexpected costs|Controlled|Targeted reductions|Shared costs, mainly with tech|
 
 
 
 <p style="page-break-after:always"> </p>
 
-## Уровни зрелости управления
+## Список уровней
 
-Совершенствование процессов — поэтапный/плавный процесс. В CMMI, CMM, ISO 15504, P3M3 существует 5 уровней зрелости процессов организации.
-
-<small>
+Совершенствование процессов — поэтапный/плавный процесс. В CMMI, CMM, ISO 15504, P3M3 существует 5 уровней зрелости процессов организации. **«+»** — означает, что по мере повышения уровня зрелости управления, органично добавляется соответствующий дополнительный стиль управления, при этом, добавляемый стиль управления базируется на предыдущих стилях управления, не противоречит им, не исключает их, но накладывает дополнительные ограничения и условия.
 
 |*Уровень зрелости управления*|*0. Отсутст&shy;вующий*|*1. Начальный*|*2. Управля&shy;емый, Повторя&shy;емый*|*3. Определя&shy;емый, Стандарти&shy;зуемый*|*4. Измеряемый*|*5. Улучша&shy;емый, Оптими&shy;зируемый*|
 |:--|:--|:--|:--|:--|:--|:--|
@@ -46,10 +44,8 @@
 |**Кредитный рейтинг**|D|C, CC|CCC, B|BB, BBB|A, AA|AAA, AAA+|
 |**Характ. методы управления**|нет|+ Ситуационное управление<br> («[Ad hoc](ad_hoc.md)»)<br>+ Контроль исполнения поручений|+ Управление проектами<br> + Тайм‑менеджмент|+ Управление процессами<br> + Управление качеством|+ Управление по целям (Стратегическое управление)<br> + Управление по показателям|+ Управление знаниями<br> + Управление инновациями<br> + Управление изменениями|
 |**Характ. орг. структура**|нет|+ Иерархи&shy;ческая структура|+ Проектные команды|+ Конвейеры|+ Матричная орг. структура|+ Сетевая орг. структура|
-|**Характ. вопросы**|нет|Кто (делает)?:|Где (делать)?:<br> Когда (делать)?:|Как (делать)?:<br> Что (обраба&shy;тывается, должно получиться)?:|Зачем (всё это делать)?:<br> Сколько (делать)?:|Почему (это происходит)?:<br> Как иначе (это можно сделать)?:<br> Что модерни&shy;зировать?:|
-|**Характ. мотивация**|нет|Кто главнее?:|Кто быстрее?:|Кто качественнее?:|Кто эффективнее?:|Кто изобрета&shy;тельнее?:|
-
-**«+»** — означает, что по мере повышения уровня зрелости управления, органично добавляется соответствующий дополнительный стиль управления, при этом, добавляемый стиль управления базируется на предыдущих стилях управления, не противоречит им, не исключает их, но накладывает дополнительные ограничения и условия.</small>
+|**Характ. вопросы**|нет|Кто (делает)?|Где (делать)?<br> Когда (делать)?|Как (делать)?<br> Что (обраба&shy;тывается, должно получиться)?|Зачем (всё это делать)?<br> Сколько (делать)?|Почему (это происходит)?<br> Как иначе (это сделать)?<br> Что модерни&shy;зировать?|
+|**Характ. мотивация**|нет|Кто главнее?|Кто быстрее?|Кто качественнее?|Кто эффективнее?|Кто изобрета&shy;тельнее?|
 
 
 
@@ -58,11 +54,12 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md) ┊ [Business travel](business_travel.md) ┊ [Chief designers council](cocd.md) ┊ [CML](cml.md) ┊ [Competence](competence.md) ┊ [Confident](confident.md) ┊ [Consp.theory](consp_theory.md) ┊ [Control sys. (CS)](cs.md) ┊ [Coordinate system](coord_sys.md) ┊ [Curator](curator.md) ┊ [Designer’s supervision](des_spv.md) ┊ [E‑sig](esig.md) ┊ [Engineer](engineer.md) ┊ [Errand](errand.md) ┊ [Federal law](fed_law.md) ┊ [Federal TP](fed_tp.md) ┊ [Federal SP](fed_sp.md) ┊ [GNC](gnc.md) ┊ [Gravity assist](gravass.md) ┊ [Industrial archaeology](ind_arch.md) ┊ [Instruction](instruction.md) ┊ [Lean manuf.](lean_man.md) ┊ [Lifetime](lifetime.md) ┊ [Manager](manager.md) ┊ [Meeting](meeting.md) ┊ [MCC](mcc.md) ┊ [MIC](mic.md) ┊ [MML](mml.md) ┊ [MoU](mou.md) ┊ [Nav. & ballistics (NB)](nnb.md) ┊ [Nonprofit org.](nonprof_org.md) ┊ [NX](nx.md) ┊ [Oberth effect](oberth_eff.md)| ┊ [Org.structure](orgstruct.md) ┊ [Outcomes commission](outccom.md) ┊ [Patent](patent_res.md) ┊ [Peter prin.](peter_principle.md) ┊ [Plan](plan.md) ┊ [PMBok](pmbok.md) ┊ [Quorum](quorum.md) ┊ [R&D management](mgmt.md) ┊ [R&D support](rnd_support.md) ┊ [Recursion](recurs.md) ┊ [Schulze_method](schulze_method.md) ┊ [Sci'N'Tech activities](st_act.md) ┊ [Sci'N'Tech council](satc.md) ┊ [Single-window system](sw_sys.md) ┊ [Situ.leadership](situ_leadership.md) ┊ [Skunk works](skunk_works.md) ┊ [State arm. plan](plan_sa.md) ┊ [Swamp](swamp.md) ┊ [Teamcenter](teamcenter.md) ┊ [TRIZ](triz.md) ┊ [TRL](trl.md) ┊ [Veto](veto.md) ┊ [Workflow](workflow.md) ┊ [Workgroup](wg.md)|
+|**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md) ┊ [Business travel](business_travel.md) ┊ [Chief designers council](cocd.md) ┊ [CML](cml.md) ┊ [Competence](competence.md) ┊ [Confident](confident.md) ┊ [Consp.theory](consp_theory.md) ┊ [Control sys. (CS)](cs.md) ┊ [Coordinate system](coord_sys.md) ┊ [Curator](curator.md) ┊ [Designer’s supervision](des_spv.md) ┊ [E‑sig](esig.md) ┊ [Engineer](engineer.md) ┊ [Errand](errand.md) ┊ [Federal law](fed_law.md) ┊ [Federal TP](fed_tp.md) ┊ [Federal SP](fed_sp.md) ┊ [GNC](gnc.md) ┊ [Gravity assist](gravass.md) ┊ [Industrial archaeology](ind_arch.md) ┊ [Instruction](instruction.md) ┊ [Lean manuf.](lean_man.md) ┊ [Lifetime](lifetime.md) ┊ [Manager](manager.md) ┊ [Meeting](meeting.md) ┊ [MCC](mcc.md) ┊ [MIC](mic.md) ┊ [MML](mml.md) ┊ [MoU](mou.md) ┊ [Nav. & ballistics (NB)](nnb.md) ┊ [Nonprofit org.](nonprof_org.md) ┊ [NX](nx.md) ┊ [Oberth effect](oberth_eff.md)| ┊ [Org.structure](orgstruct.md) ┊ [Outcomes commission](outccom.md) ┊ [Patent](patent_res.md) ┊ [Peter prin.](peter_principle.md) ┊ [Plan](plan.md) ┊ [P㎆ok](pmbok.md) ┊ [Quorum](quorum.md) ┊ [R&D management](mgmt.md) ┊ [R&D support](rnd_support.md) ┊ [Recursion](recurs.md) ┊ [Schulze_method](schulze_method.md) ┊ [Sci'N'Tech activities](st_act.md) ┊ [Sci'N'Tech council](satc.md) ┊ [Single-window system](sw_sys.md) ┊ [Situ.leadership](situ_leadership.md) ┊ [Skunk works](skunk_works.md) ┊ [State arm. plan](plan_sa.md) ┊ [Swamp](swamp.md) ┊ [Teamcenter](teamcenter.md) ┊ [TRIZ](triz.md) ┊ [TRL](trl.md) ┊ [Veto](veto.md) ┊ [Workflow](workflow.md) ┊ [Workgroup](wg.md)|
 
    1. Docs: …
    1. Notable interwikies — …
    1. [Руководитель](manager.md)
    1. <https://ru.wikipedia.org/wiki/Уровни_зрелости_управления>
+   1. <https://en.wikipedia.org/wiki/Modeling_Maturity_Levels>

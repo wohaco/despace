@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Seismic and Atmospheric Exploration of Venus (SAEVe)** — English term with no analogues in Russian. **Сейсмическое и Атмосферное Исследование Венеры (САИВе)** — literal translation to Russian.</small>
+> <small>**Seismic and Atmospheric Exploration of Venus (SAEVe)** — EN term. **Сейсмическое и Атмосферное Исследование Венеры (САИВе)** — literal RU translation.</small>
 
 Science return from a Venera-D mission would be enhanced with the addition (augmentations) of optional mission elements. Incorporating one or more long-lived small stations capable of measuring seismicity and heat flux — Seismic and Atmospheric Exploration of Venus (SAEVe), would provide views of Venus’ interior for the first time, and the JSDT considers this to be a high science priority. 
 
@@ -17,7 +17,7 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 |Program|[Venera-D](venera_d_open_ru.md)|
 |Goal|Determine how seismically active Venus is, determining the speed and style of seismic activity. Meteorology: climate and its evolution|
 |Developer|`NASA?:`|
-|Mass|25 kg (~40 kg together with aeroshell)|
+|Mass|25 ㎏ (~40 ㎏ together with aeroshell)|
 |Orbit / Place|Surface|
 |Payload|METEO, MEMS chemical sensor, Seismometer, Heat flux sensor|
 
@@ -65,13 +65,13 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 
 ## Mission
 
-The SAEVe stations inside their aeroshells will be delivered to Venus by the orbiter. The orbiter will need to release the stations into the correct entry trajectory and, when the orbiter is in orbit, listen for transmitted data and relay it back to Earth. The release is accomplished through a standard spin table interface. As with [LLISSE](llisse.md), there are no power, data, or thermal controls required for SAEVe during cruise. Several weeks before Venus orbit insertion, the orbiter will orient itself in the correct angle and send the signal to release one of the stations. Shortly thereafter, the orbiter will make the needed pointing adjustments and release the second SAEVe station, and so on. Surface distance between stations should be between 300 and 800 km. The stations will stay dormant during cruise and initial entry, but the entry shell will power on and send critical event data during entry. Details on SAEVe landing sites relative to the main lander will be worked during landing site and mission operations planning.
+The SAEVe stations inside their aeroshells will be delivered to Venus by the orbiter. The orbiter will need to release the stations into the correct entry trajectory and, when the orbiter is in orbit, listen for transmitted data and relay it back to Earth. The release is accomplished through a standard spin table interface. As with [LLISSE](llisse.md), there are no power, data, or thermal controls required for SAEVe during cruise. Several weeks before Venus orbit insertion, the orbiter will orient itself in the correct angle and send the signal to release one of the stations. Shortly thereafter, the orbiter will make the needed pointing adjustments and release the second SAEVe station, and so on. Surface distance between stations should be between 300 and 800 ㎞. The stations will stay dormant during cruise and initial entry, but the entry shell will power on and send critical event data during entry. Details on SAEVe landing sites relative to the main lander will be worked during landing site and mission operations planning.
 
 After release of the SAEVe stations, the orbiter continues with its planned insertion and main lander delivery processes. No additional actions are required from the orbiter during cruise; however, communication with the stations is required during entry and descent. The 24-hr, highly elliptical orbit planned for Venera-D is well-suited for returning data from the SAEVe stations. That orbit period, distance, and frequency of communication contact is the right balance between the transmit power required and view time to allow the mission to maximize station life and science data returned.
 
-As with LLISSE, SAEVe will rely on the orbiter to capture transmitted data and relay it to Earth. Science and engineering data from the lander will be transmitted periodically at data rates of 200 bps or better between 100 and 150 MHz, so the orbiter would need to carry the appropriate receiving antenna and hardware, some of which may also be used for the main lander.
+As with LLISSE, SAEVe will rely on the orbiter to capture transmitted data and relay it to Earth. Science and engineering data from the lander will be transmitted periodically at data rates of 200 bps or better between 100 and 150 ㎒, so the orbiter would need to carry the appropriate receiving antenna and hardware, some of which may also be used for the main lander.
 
-SAEVe includes the required entry capsule and all support elements needed to allow safe entry and landing on the Venus surface. SAEVe enters the atmosphere and gradually slows down during descent due to the thickening atmosphere. At approximately 6 km above the Venus surface, SAEVe separates from the shell, begins taking images, and transmits them as it completes its descent and touches down at under 5 m/s. Temperature, pressure, and chemistry measurements are also collected during this portion of the descent ([EVN‑003](venus.md)).
+SAEVe includes the required entry capsule and all support elements needed to allow safe entry and landing on the Venus surface. SAEVe enters the atmosphere and gradually slows down during descent due to the thickening atmosphere. At approximately 6 ㎞ above the Venus surface, SAEVe separates from the shell, begins taking images, and transmits them as it completes its descent and touches down at under 5 ㎧. Temperature, pressure, and chemistry measurements are also collected during this portion of the descent ([EVN‑003](venus.md)).
 
 After touchdown, an image (supporting morphology and seismometer coupling) is taken. The seismometer and heat flux instruments are dropped to the surface and the remaining images are taken and transmitted. Once all images are returned, the other instruments begin operating and SAEVe continues to transmit data for up to 1 hr continually as long as it does not interfere with main lander science return. After this initial period, SAEVe goes into its nominal operating mode where it turns on and collects and transmits all instrument data for 2 min every 8 hr. The precise frequency and duration of transmissions will be negotiated in later mission planning stages. At all times, SAEVe will be monitoring the vertical axis of the seismometer. This serves as a fast trigger so if an event of specified magnitude is detected, it turns on within 100 ms and begins transmitting data from all three axis of the seismometer as well as wind and pressure data continually for 10 min ([EVN‑058](venus.md)).
 
@@ -94,7 +94,7 @@ The remarkable operating life of SAEVe is enabled by the same three key elements
    
 Indeed, SAEVe is an enhanced version of LLISSE with longer and increased payload that is made possible with larger mass and volume allocation and with the option of an independent entry and landing on Venus.
 
-Each SAEVe lander will have a mass of approximately 25 kg (~40 kg together with aeroshell and will carry a suite of synergistic instruments and sensors. The instruments are a seismometer, meteorology suite, chemical sensors, heat flux instrument, and an imaging package, consisting of two cubesat cameras, which will operate for a short time at the beginning of the mission. A potential Sun position sensor may be included as a technology demonstration for a possible simple but coarse orientation technique.
+Each SAEVe lander will have a mass of approximately 25 ㎏ (~40 ㎏ together with aeroshell and will carry a suite of synergistic instruments and sensors. The instruments are a seismometer, meteorology suite, chemical sensors, heat flux instrument, and an imaging package, consisting of two cubesat cameras, which will operate for a short time at the beginning of the mission. A potential Sun position sensor may be included as a technology demonstration for a possible simple but coarse orientation technique.
 
 ***SAEVe lander concept with subset of instruments and basic dimensions:***
 
@@ -145,10 +145,10 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 ***Composition of SAEVe scientific instruments:***
 <small>
 
-|*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, MB/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 mm station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
-|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 mm station|<0.2|—|—|High|5|3||
+|☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 ㎜ station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
+|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 ㎜ station|<0.2|—|—|High|5|3||
 ||Seismometer|Detect and measure seismic events for one Venus solar day. Three axis, 0.1 to 100 s period. Sensitivity better than 1 ng/rtHz|Fits inside SAEVe aeroshell and the lander envelope|0.3|—|—|High|2|6||
 ||Heat flux sensor|Detect and measure heat from the interior over a Venus solar day. Range is 10 mW/m² to 1 W/m²|Fits inside SAEVe aeroshell and the lander envelope|0.3|—|—|High|3|6||
 
@@ -166,7 +166,7 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

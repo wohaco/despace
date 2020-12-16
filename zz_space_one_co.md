@@ -25,7 +25,7 @@ TOKYO, July 2, 2018 — New Generation Small Rocket Development Planning Co., Lt
 
    - Service provided — Launch of Spacecraft into Earth orbit
    - Vision — Launch services with the objectives of providing the world’s most competitive mission  integration schedule from contract to launch & the world’s greatest launch frequency. Contribute to the lowering of cost of access to space through specialized rockets & launch facilities, & expand the scope of space‑related business.
-   - Launch capability — Sun‑synchronous orbit (SSO): 150 kg, orbital inclination 97 °, altitude 500 km. Low earth orbit (LEO): 250 kg, orbital inclination 33 °, altitude 500 km.
+   - Launch capability — Sun‑synchronous orbit (SSO): 150 ㎏, orbital inclination 97 °, altitude 500 ㎞. Low earth orbit (LEO): 250 ㎏, orbital inclination 33 °, altitude 500 ㎞.
    - Cadence per year — 20 (from the mid‑2020s).
    - Launch Vehicle Overview — Configuration: three solid propellant stages & a liquid propellant kick stage, PBS (Post Boost Stage). Overall length: ~ 18 m. Liftoff mass: ~23 metric‑tons.
    - Start of services — 2021.

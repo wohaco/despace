@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Long-Lived In-situ Solar System Explorer (LLISSE)** — English term with no analogues in Russian. **Местный Долгоживущий Исследователь Солнечной Системы (МДИСС)** — literal translation to Russian.</small>
+> <small>**Long-Lived In-situ Solar System Explorer (LLISSE)** — EN term. **Местный Долгоживущий Исследователь Солнечной Системы (МДИСС)** — literal RU translation.</small>
 
 <p style="page-break-after:always"> </p>
 
@@ -15,7 +15,7 @@
 |Program|[Venera-D](venera_d_open_ru.md)|
 |Goal|Returning compositional and physical information about near‑surface winds|
 |Developer|NASA|
-|Mass|10 kg|
+|Mass|10 ㎏|
 |Orbit / Place|Surface|
 |Payload|METEO, MEMS chemical sensor|
 
@@ -58,7 +58,7 @@
 
 ## Technology Readiness Level
 
-As of December 2018, the LLISSE project has made notable progress toward its objectives. The capability of the core electronics has been increased by over an order of magnitude since the start of the project less than 2 year ago. Components of some of the important subsystems, like communications, have been developed and proof-of-concepts have been demonstrated. A recent test verified successful integrated operations between driving electronics and the supported sensor. If the project continues on its successful path, it will demonstrate a battery-powered version of a breadboard fidelity probe in late 2019 to early 2020. The system-level demonstration test will be conducted in the NASA Glenn Extreme Environments Rig (GEER), which will replicate Venus surface temperature, pressure, and chemistry. The system is planned to have full functional capability (although not with a flight‑like structure and not at the final communication frequency it will have in flight). This demonstration will provide a high degree of confidence that the probe will work on Venus. Final demonstration of full communication capability (operations between 50 and 150 MHz) is planned in the project schedule in 2021. A lower fidelity wind-powered version of LLISSE is also being developed in the same timeframe. 
+As of December 2018, the LLISSE project has made notable progress toward its objectives. The capability of the core electronics has been increased by over an order of magnitude since the start of the project less than 2 year ago. Components of some of the important subsystems, like communications, have been developed and proof-of-concepts have been demonstrated. A recent test verified successful integrated operations between driving electronics and the supported sensor. If the project continues on its successful path, it will demonstrate a battery-powered version of a breadboard fidelity probe in late 2019 to early 2020. The system-level demonstration test will be conducted in the NASA Glenn Extreme Environments Rig (GEER), which will replicate Venus surface temperature, pressure, and chemistry. The system is planned to have full functional capability (although not with a flight‑like structure and not at the final communication frequency it will have in flight). This demonstration will provide a high degree of confidence that the probe will work on Venus. Final demonstration of full communication capability (operations between 50 and 150 ㎒) is planned in the project schedule in 2021. A lower fidelity wind-powered version of LLISSE is also being developed in the same timeframe. 
 
 Demonstration full performance for the desired life is expected to occur in the 2019 to 2021 timeframe. Until that happens, LLISSE as a system will be in the TRL 3 to 4 range and relatively high technology risk. 
 
@@ -82,7 +82,7 @@ A baseline Venera-D mission would consist of an orbiter and a VEGA-type lander w
 
 As with [SAEVe](saeve.md), there are no power, data, or thermal controls required for LLISSE during cruise. The LLISSE battery, and therefore, probe would stay dormant during cruise and launch.  To provide comparative measurements, the chemical and atmospheric sensor suite on the LLISSE will commence taking measurements when it reaches a specific internal temperature (details will be worked out for Phase Ⅲ) and communications to the main orbiter are established.
 
-LLISSE probes are small and lightweight (~200 mm and 10 kg) but will function on the surface of Venus for 90 days or longer ([EVN‑069](venus.md)). The LLISSE project includes the design and development of two probes (battery and wind powered) and demonstration tests to confirm functionality over the desired life at Venus surface conditions.
+LLISSE probes are small and lightweight (~200 ㎜ and 10 ㎏) but will function on the surface of Venus for 90 days or longer ([EVN‑069](venus.md)). The LLISSE project includes the design and development of two probes (battery and wind powered) and demonstration tests to confirm functionality over the desired life at Venus surface conditions.
 
 As a power supply, 2 options are offered: a primary battery designed for a working time of about 3000 hours and a wind battery with a small wind turbine. The wind-powered version could theoretically have indefinite life.
 
@@ -132,10 +132,10 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 
 <small>
 
-|*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, MB/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 mm station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
-|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 mm station|<0.2|—|—|High|5|3||
+|☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 ㎜ station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
+|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 ㎜ station|<0.2|—|—|High|5|3||
 
 </small>
 
@@ -151,7 +151,7 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

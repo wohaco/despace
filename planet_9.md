@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Термины:* **Девятая планета** — русскоязычный термин. **Planet Nine** — англоязычный эквивалент.</small>
+> <small>**Девятая планета** — русскоязычный термин. **Planet Nine** — англоязычный эквивалент.</small>
 
 **Девятая планета** — гипотетическая планета во внешней области Солнечной системы. Открыта расчётным путём 2016.01.20.
 
@@ -20,13 +20,13 @@
 |:--|:--|
 |Flight from Earth|55.34 лет на ЖРДУ (20 200 суток)|
 |Signal from Earth|1 666 ‑ 10 000 минут (27.76 ‑ 166.66 часов)|
-|Distance from Earth|30 ‑ 180 млрд km|
+|Distance from Earth|30 ‑ 180 млрд ㎞|
 |Breaking to the orbit|не более … ‑ … минут|
 |**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|180 000 000 000 km (1 200 а.е.);<br> 30 000 000 000 km (200 [а.е.](si.md))|
+|[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|180 000 000 000 ㎞ (1 200 а.е.);<br> 30 000 000 000 ㎞ (200 [а.е.](si.md))|
 |[Argument of periapsis](keplerian.md) (ω)|150°|
-|[Semimajor axis](keplerian.md) (a)|98.1 млрд km (654 а.е.),<br> или 99.75 млрд km (665 а.е.), или 105 млрд km (700 а.е.)|
-|Orbital velocity (Ⅴ)|… km/s|
+|[Semimajor axis](keplerian.md) (a)|98.1 млрд ㎞ (654 а.е.),<br> или 99.75 млрд ㎞ (665 а.е.), или 105 млрд ㎞ (700 а.е.)|
+|Orbital velocity (Ⅴ)|… ㎞/s|
 |Day/year|… / … земных|
 |[Longit. of asc.node](keplerian.md) (Ω)|–5° при i=48°, или 101° при i=18°, или 102° или 150°|
 |[Inclination](keplerian.md) (Ⅰ)|48° при Ω=–5°, или 18° при Ω=101°, или 30°|
@@ -34,26 +34,26 @@
 |[Sidereal period](astroperiod.md) (year)|16 725 лет (6 104 625 д),<br> либо 17 117 лет (6 247 705 д),<br> либо 10 000 ‑ 20 000 лет (3 650 000 ‑ 7 300 000 д)|
 |[Synodic period](astroperiod.md)|… дней (… d … h … min … s)|
 |Satellites|…|
-|[Hill sphere](hill_sphere.md)|… km|
+|[Hill sphere](hill_sphere.md)|… ㎞|
 |Satellite of|[Солнце](sun.md)|
 |[Eccentricity](keplerian.md) (e)|0.7|
 |**Physics:**|• • •|
-|[1st escape velocity](esc_vel.md) (v₁)|… km/s <small>(… земной)</small>|
-|[2nd escape velocity](esc_vel.md) (v₂)|… km/s <small>(… земной)</small>|
+|[1st escape velocity](esc_vel.md) (v₁)|… ㎞/s <small>(… земной)</small>|
+|[2nd escape velocity](esc_vel.md) (v₂)|… ㎞/s <small>(… земной)</small>|
 |[Albedo](albedo.md)|0.4|
 |[Apparent magnitude](app_mag.md) (m)|22|
 |[Magnetic field](mag_field.md)|… ‑ … А/м <small>(… ‑ … земного)</small>|
-|Mass (m)|6·10²⁵ kg <small>(10 земных)</small>|
+|Mass (m)|6·10²⁵ ㎏ <small>(10 земных)</small>|
 |Axial tilt|…°|
-|Volume (Ⅴ)|… km³ <small>(… земного)</small>|
-|Mean density (ρ)|… g/cm³ (средняя, <small>… земной</small>)|
-|Surface area (S)|… km² <small>(… земной)</small>|
+|Volume (Ⅴ)|… ㎞³ <small>(… земного)</small>|
+|Mean density (ρ)|… g/㎝³ (средняя, <small>… земной</small>)|
+|Surface area (S)|… ㎞² <small>(… земной)</small>|
 |Flattening|…|
-|Radius|23 300 km при 10 M⊕ (средний, <small>3.66 земного</small>),<br> либо 18 600 km при 5 M⊕ (средний, <small>2.92 земного</small>),<br> либо 29 400 km при 20 M⊕ (средний, <small>4.62 земного</small>),<br> либо 17 866 ‑ 26 120 km (средний, <small>2.80 ‑ 4.10 земного</small>),<br> либо 13 000 ‑ 26 000 km (средний, <small>2.04 ‑ 4.08 земного</small>)|
-|[Surface gravity](g.md)|… m/s² <small>(… земного)</small>|
-|Equatorial rotation velocity|… km/h <small>(… земной)</small>|
+|Radius|23 300 ㎞ при 10 M⊕ (средний, <small>3.66 земного</small>),<br> либо 18 600 ㎞ при 5 M⊕ (средний, <small>2.92 земного</small>),<br> либо 29 400 ㎞ при 20 M⊕ (средний, <small>4.62 земного</small>),<br> либо 17 866 ‑ 26 120 ㎞ (средний, <small>2.80 ‑ 4.10 земного</small>),<br> либо 13 000 ‑ 26 000 ㎞ (средний, <small>2.04 ‑ 4.08 земного</small>)|
+|[Surface gravity](g.md)|… ㎧² <small>(… земного)</small>|
+|Equatorial rotation velocity|… ㎞/h <small>(… земной)</small>|
 |**Temperature & atmosph.:**|• • •|
-|[Atmosphere](atmosphere.md)|**Pressure** … МПа (… бар).<br> **Плотность** … kg/m³.<br> **Ветер:**<br> … ‑ … m/s (поверхность).<br> **Состав:**<br> ….|
+|[Atmosphere](atmosphere.md)|**Pressure** … ㎫ (… ㍴).<br> **Плотность** … ㎏/m³.<br> **Ветер:**<br> … ‑ … ㎧ (поверхность).<br> **Состав:**<br> ….|
 |[Освещённость](illum.md)||
 |Радиация||
 |Температура|–226 ℃|
@@ -215,8 +215,8 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑007||Atmosphere: connection between the topography & the atmo circulation|||D||||
 |EMN‑033||Atmosphere: nature/rate of its escape|||D||||
 |EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|||D||||
-|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 km|All A||||||
-|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 km|All A||||||
+|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 ㎞|All A||||||
+|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 ㎞|All A||||||
 |EMN‑054|T|Atmosphere: sample return|As|C|||||
 |EMN‑015||Atmosphere: structure of the mesosphere|All A||D||||
 |EMN‑030||Atmosphere: was it lost during some cataclysm or event|||D||||
@@ -262,7 +262,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑067||Atmosphere: nature of the polar dipole & turbulence|||D||||
 |EMN‑034||Atmosphere: nature of the superrotation|||D||||
 |EMN‑035||Atmosphere: nature of the UV‑absorber|||D||||
-|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 km|||D||||
+|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞|||D||||
 |EMN‑078|T|Atmosphere: radiography|||D||||
 |EMN‑055|T|Atmosphere: sample obtaining & analysis||C|||||
 |EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|||D||||
@@ -312,7 +312,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](earth.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_space.md) ┊ [Pale Blue Dot](earth.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](earth.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 

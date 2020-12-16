@@ -5,9 +5,9 @@
 
 ---
 
-> <small>*Terms:* **Magellan** — English term with no analogues in Russian. **Магеллан** — Russian equivalent.</small>
+> <small>**Magellan** — EN term. **Магеллан** — RU analogue.</small>
 
-The **Magellan** spacecraft, also referred to as the ***Venus Radar Mapper***, was a 1 035 kg ([EVN‑073](venus.md)) robotic space probe launched by [NASA](zz_nasa.md) on 1989.05.04, to map the surface of Venus by using [synthetic aperture radar](sar.md) and to measure the planetary gravitational field ([EVN‑089](venus.md)).
+The **Magellan** spacecraft, also referred to as the ***Venus Radar Mapper***, was a 1 035 ㎏ ([EVN‑073](venus.md)) robotic space probe launched by [NASA](zz_nasa.md) on 1989.05.04, to map the surface of Venus by using [synthetic aperture radar](sar.md) and to measure the planetary gravitational field ([EVN‑089](venus.md)).
 
 The Magellan probe was the first interplanetary mission to be launched from the Space Shuttle, the 1st one to use the Inertial Upper Stage booster for launching, and the 1st SC to test aerobraking as a method for circularizing its orbit. Magellan was the fifth successful NASA mission to Venus.
 
@@ -24,7 +24,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 |Launch|May 4, 1989, 18:47:00 UTC, Rocket: Space Shuttle Atlantis STS-30 / IUS|
 |Operator|NASA / JPL|
 |Programme|Magellan|
-|Similar to|• Proposed: …<br> • Current: …<br> • Past: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md)|
+|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md)|
 |Target|Radar mapping of Venus|
 |[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
@@ -33,8 +33,8 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 |Contractor|…|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1989-033B ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-033B), SCN: [19969 ⎆](http://www.n2yo.com/satellite/?:s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?:s=19969)|
 |Manufacturer|Martin Marietta<br> Hughes Aircraft|
-|Mass|Dry 1 035 kg ([large satellite](sc.md))|
-|Orbit / Site|The initial orbit (after the corrections): Cytherocentric 297 x 8 463 km, T = 3.25 h, i = 85.5°|
+|Mass|Dry 1 035 ㎏ ([large satellite](sc.md))|
+|Orbit / Site|The initial orbit (after the corrections): Cytherocentric 297 x 8 463 ㎞, T = 3.25 h, i = 85.5°|
 |Payload|Radar System|
 |Power|1 200 W|
 
@@ -85,7 +85,7 @@ Magellan was launched on May 4, 1989, at 18:46:59 UTC by the National Aeronautic
 
 **Orbital encounter of Venus**
 
-After three en route trajectory corrections (May 21, 1989, March 13, 1990, and July 25, 1990), Magellan arrived in Venus orbit Aug. 10, 1990. Orbital parameters were 297 × 8 463 km at 85.5 ° inclination ([EVN‑005](venus.md)).
+After three en route trajectory corrections (May 21, 1989, March 13, 1990, and July 25, 1990), Magellan arrived in Venus orbit Aug. 10, 1990. Orbital parameters were 297 × 8 463 ㎞ at 85.5 ° inclination ([EVN‑005](venus.md)).
 
 During each orbit, the space probe captured radar data while the spacecraft was closest to the surface, and then transmit it back to Earth as it moved away from Venus. This maneuver required extensive use of the reaction wheels to rotate the spacecraft as it imaged the surface for 37 minutes and as it pointed toward Earth for two hours. The primary mission intended for the spacecraft to return images of at least 70 % of the surface during one Venusian day, which lasts 243 Earth days ([EVN‑079](venus.md)) as the planet slowly spins. To avoid overly-redundant data at the highest and lowest latitudes, the Magellan probe alternated between a Northern-swath, a region designated as 90 ° north latitude to 54 ° south latitude, and a Southern-swath, designated as 76 ° north latitude to 68 degrees south latitude. However, due to periapsis being 10 ° north of the equatorial line, imaging the South Pole region was unlikely.
 
@@ -94,7 +94,7 @@ During each orbit, the space probe captured radar data while the spacecraft was 
    - Goal: Complete primary objective.
    - September 15, 1990 — May 15, 1991
 
-The spacecraft began returning high‑quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake‑shaped domes ([EVN‑025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 km to 290 km near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/px ([EVN‑022](venus.md)). The spacecraft returned 1 200 Gb of data.
+The spacecraft began returning high‑quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake‑shaped domes ([EVN‑025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 ㎞ to 290 ㎞ near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/px ([EVN‑022](venus.md)). The spacecraft returned 1 200 Gb of data.
 
 |![](f/project/m/magellan/venus1.jpg)|
 |:--|
@@ -148,7 +148,7 @@ At the end of the fourth cycle, the orbit of Magellan was circularized using a t
    - Goal: To enter a circular orbit.
    - May 24, 1993 — August 2, 1993
 
-Aerobraking had long been sought as a method for slowing the orbit of interplanetary spacecraft. Previous suggestions included the need for aeroshells that proved too complicated and expensive for most missions. Testing a new approach to the method, a plan was devised to drop the orbit of Magellan into the outermost region of the Venusian atmosphere. Slight friction on the spacecraft slowed the velocity over a period, slightly longer than two months, bringing the spacecraft into an approximately circular orbit 180 km height. The method has since been used extensively on later interplanetary missions.
+Aerobraking had long been sought as a method for slowing the orbit of interplanetary spacecraft. Previous suggestions included the need for aeroshells that proved too complicated and expensive for most missions. Testing a new approach to the method, a plan was devised to drop the orbit of Magellan into the outermost region of the Venusian atmosphere. Slight friction on the spacecraft slowed the velocity over a period, slightly longer than two months, bringing the spacecraft into an approximately circular orbit 180 ㎞ height. The method has since been used extensively on later interplanetary missions.
 
 **Mapping cycle 6**
 
@@ -177,7 +177,7 @@ In September 1994, the orbit of Magellan was lowered to begin the «Windmill exp
 
 **End of mission**
 
-On October 11, 1994, moving at a velocity of 7 km/s, the final orbital trim maneuver was performed, placing the spacecraft 139.7 km above the surface, well within the atmosphere.
+On October 11, 1994, moving at a velocity of 7 ㎞/s, the final orbital trim maneuver was performed, placing the spacecraft 139.7 ㎞ above the surface, well within the atmosphere.
 
 On October 13, 1994 at 10:05:00 UTC, communication was lost when the spacecraft entered radio occultation behind Venus. The team continued to listen for another signal from the spacecraft until 18:00:00 UTC, when the mission was determined to have concluded.
 
@@ -188,9 +188,9 @@ On October 13, 1994 at 10:05:00 UTC, communication was lost when the spacecraft 
 ## Science goals & payload
 The objectives of the mission included:
 
-   - Obtain near‑global radar images of the Venusian surface with a resolution equivalent to optical imaging of 1.0 km per line pair (primary).
-   - Obtain a near‑global topographic map with 50 km spatial and 100 m vertical resolution.
-   - Obtain near‑global gravity field data with 700 km resolution and two to three milligals of accuracy.
+   - Obtain near‑global radar images of the Venusian surface with a resolution equivalent to optical imaging of 1.0 ㎞ per line pair (primary).
+   - Obtain a near‑global topographic map with 50 ㎞ spatial and 100 m vertical resolution.
+   - Obtain near‑global gravity field data with 700 ㎞ resolution and two to three milligals of accuracy.
    - Develop an understanding of the geological structure of the planet, including its density distribution and dynamics ([EVN‑020](venus.md)).
 
 Thick and opaque, the atmosphere of Venus required a method beyond optical survey, to map the surface of the planet. The resolution of conventional radar depends entirely on the size of the antenna. Magellan addressed this problem by using a method known as synthetic aperture, where a large antenna is imitated by processing the information gathered by ground computers ([EVN‑078](venus.md)).
@@ -201,7 +201,7 @@ Radar System (RDRS)
 
 |*Instrument*|*Description*|
 |:--|:--|
-|![](f/project/m/magellan/rls.png)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> • In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 cm microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> • In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> • In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
+|![](f/project/m/magellan/rls.png)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> • In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 ㎝ microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> • In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> • In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
 
 In addition to the radar data, Magellan collected several other types of scientific measurements. These included detailed measurements of the Venus gravitational field ([EVN‑089](venus.md)), measurements of the atmospheric density, and radio occultation data on the atmospheric profile.
 
@@ -211,12 +211,12 @@ In addition to the radar data, Magellan collected several other types of scienti
 ## Spacecraft
 The spacecraft was designed and built by the Martin Marietta Company, and the Jet Propulsion Laboratory (JPL) managed the mission for NASA.
 
-To save costs, most of the Magellan probe was made up of spare parts from various missions, including the Voyager program, Galileo, Ulysses, and Mariner 9. The total number of borrowed parts reached 70 %. The overall design of the spacecraft together with the thrusters (from the Voyager missions), was a 10-sided aluminum bus, containing the computers, data recorders, and other subsystems. The height of the spacecraft was 6.4 m, taking into account the solid‑fuel propulsion system, or 4.6 m without it. The mass of the spacecraft at launch was equal to 3 600 kg.
+To save costs, most of the Magellan probe was made up of spare parts from various missions, including the Voyager program, Galileo, Ulysses, and Mariner 9. The total number of borrowed parts reached 70 %. The overall design of the spacecraft together with the thrusters (from the Voyager missions), was a 10-sided aluminum bus, containing the computers, data recorders, and other subsystems. The height of the spacecraft was 6.4 m, taking into account the solid‑fuel propulsion system, or 4.6 m without it. The mass of the spacecraft at launch was equal to 3 600 ㎏.
 
 |*Parameter*|*Value*|
 |:--|:--|
-|Launch mass|3 600 kg|
-|Dry mass|1 035 kg|
+|Launch mass|3 600 ㎏|
+|Dry mass|1 035 ㎏|
 |The altitude of the spacecraft|6.4 m|
 |The altitude of the spacecraft (without the solid‑fuel propulsion)|4.6 m|
 |The outer diameter of the spacecraft (the diameter of the antenna)|3.6 m|
@@ -227,8 +227,8 @@ The spacecraft’s attitude control (orientation) was designed to be three‑axi
 
 |*Parameter of Star 48B*|*Value*|
 |:--|:--|
-|Mass of solid propellant propulsion system|2 145 kg|
-|Mass of solid propellant|2 014 kg|
+|Mass of solid propellant propulsion system|2 145 ㎏|
+|Mass of solid propellant|2 014 ㎏|
 |Thrust  SRM|89 000 N|
 
 The actual propulsion system design consisted of a total of 24 monopropellant hydrazine thrusters.
@@ -272,7 +272,7 @@ The computing system on the spacecraft, partially modified equipment from the Ga
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

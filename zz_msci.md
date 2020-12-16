@@ -10,7 +10,7 @@
 
 <p style="page-break-after:always"> </p>
 
-Our reputation for excellence in solving the most difficult of control systems challenges, & in providing innovative systems thinking, is well established. MSCI was selected as prime contractor for the MOST microsatellite by the Canadian Space Agency. This innovative space telescope was successfully launched on June 30, 2003. MSCI was also selected as prime contractor for the NEOSSat microsatellite, now in production. The MSCI microsatellite design was chosen by the [CSA](zz_csa.md) as the baseline design for their Multi Mission Microsatellite Bus (MMMB).
+Our reputation for excellence in solving the most difficult of control systems challenges, & in providing innovative systems thinking, is well established. MSCI was selected as prime contractor for the MOST microsatellite by the Canadian Space Agency. This innovative space telescope was successfully launched on June 30, 2003. MSCI was also selected as prime contractor for the NEOSSat microsatellite, now in production. The MSCI microsatellite design was chosen by the [CSA](zz_csa.md) as the baseline design for their Multi Mission Microsatellite Bus (MM㎆).
 
 **WHAT WE DO**  
 MSCI is Canada’s leader in the design, development & delivery of cost‑effective, adaptable Multi Mission Microsatellite Buses capable of hosting a wide variety of remote sensing, communications, scientific & military payloads. MSCI also has proven capabilities in systems engineering analysis, the development of sophisticated, cost-effective attitude control system solutions & their implementation into flight hardware & software.  

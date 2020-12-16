@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **Mariner 5** — English term with no analogues in Russian. **Маринер‑5** — rough Russian equivalent.</small>
+> <small>**Mariner 5** — EN term. **Маринер‑5** — rough RU analogue.</small>
 
 **Mariner 5 (Mariner Venus 1967)** was a spacecraft of the Mariner program that carried a complement of experiments to probe Venus’s atmosphere by radio occultation, measure the hydrogen Lyman‑alpha (hard ultraviolet) spectrum, and sample the solar particles and magnetic field fluctuations above the planet.
 
@@ -22,7 +22,7 @@
 |Launch|June 14, 1967, 06:01:00 UTC, Rocket: Atlas‑SLV3 Agena-D|
 |Operator|NASA / JPL|
 |Programme|Mariner|
-|Similar to|• Proposed: …<br> • Current: [Venera 4](venera_4.md)<br> • Past: [Mariner 2](mariner_2.md)|
+|Similar to|• Proposed: …<br> • Current: [Venera 4](venera_4.md)<br> • ㎩st: [Mariner 2](mariner_2.md)|
 |Target|Determine the parameters of the signal in the radio illumination of the atmosphere; measurement interplanetary and Venusian magnetic fields, charged particles, plasma, radio refractivity and UV emissions of the Venusian atmosphere|
 |[Type](sc.md)|Fly‑by spacecraft|
 |**Spacecraft:**|• • •|
@@ -31,7 +31,7 @@
 |Contractor|…|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [1967-060A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1967-060A), SCN: 02845|
 |Manufacturer|JPL|
-|Mass|Dry 244.9 kg ([minisatellite](sc.md), [EVN‑070](venus.md))|
+|Mass|Dry 244.9 ㎏ ([minisatellite](sc.md), [EVN‑070](venus.md))|
 |Orbit / Site|Heliocentric|
 |Payload|Instruments for measuring magnetic fields, charged particles, plasma, radio refractivity and UV emissions of the atmosphere|
 |Power|170 W|
@@ -90,7 +90,7 @@ Also, Mariner 5’s goals included to measure interplanetary and Venusian magnet
 ## Spacecraft
 Mariner 5 was actually built as a backup to Mariner 4, but after the success of the Mariner 4 mission, it was modified for the Venus mission by removing the TV camera, reversing and reducing the four solar panels, and adding extra thermal insulation.
 
-The Mariner 5 consisted of an octagonal magnesium frame, 127 cm across a diagonal and 45.7 cm high. A 116.8 cm diameter was mounted at the top of the frame as well. An omnidirectional low‑gain antenna was mounted on a 223.5 cm tall mast next to the high‑gain antenna. The overall height of the spacecraft was 2.89 m. The octagonal frame housed the electronic equipment, cabling, midcourse propulsion system, and attitude control gas supplies and regulators.
+The Mariner 5 consisted of an octagonal magnesium frame, 127 ㎝ across a diagonal and 45.7 ㎝ high. A 116.8 ㎝ diameter was mounted at the top of the frame as well. An omnidirectional low‑gain antenna was mounted on a 223.5 ㎝ tall mast next to the high‑gain antenna. The overall height of the spacecraft was 2.89 m. The octagonal frame housed the electronic equipment, cabling, midcourse propulsion system, and attitude control gas supplies and regulators.
 
 
 
@@ -113,7 +113,7 @@ The Mariner 5 consisted of an octagonal magnesium frame, 127 cm across a diago
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

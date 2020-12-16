@@ -5,8 +5,8 @@
 
 ---
 
-> <small>*Terms:* **Венера‑13** — Russian term with no analogues in English. **Venera 13** — English equivalent.</small>
-> <small>**Венера‑14** — Russian term with no analogues in English. **Venera 14** — English equivalent.</small>
+> <small>**Венера‑13** — RU term w/o analogues in English. **Venera 13** — English equivalent.</small>
+> <small>**Венера‑14** — RU term w/o analogues in English. **Venera 14** — English equivalent.</small>
 
 **Venera 13** and **Venera 14** were spacecraft in the Soviet Venera program for the exploration of Venus.
 
@@ -23,7 +23,7 @@
 |Launch|**Venera 13:** October 30, 1981, 06:04:00 UTC, Rocket: Proton-K/D-1 8K82K<br> **Venera 14:** November 4, 1981, 05:31:00 UTC, Rocket: Proton-K/D-1 8K82K|
 |Operator|Soviet Academy of Sciences|
 |Programme|Venera programme|
-|Similar to|• Proposed: … <br> • Current: … <br> • Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md)|
+|Similar to|• Proposed: … <br> • Current: … <br> • ㎩st: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md)|
 |Target|Panoramic photography of Venus, sampling and analysis of the soil, the study of the atmosphere.|
 |[Type](sc.md)|Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft|
 |**Spacecraft:**|• • •|
@@ -32,7 +32,7 @@
 |Contractor|…|
 |[ID](spaceid.md)|**Venera 13:** NSSDC ID (COSPAR ID): [1981-106A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-106A), [1981-106D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-106D), SCN: [12927 ⎆](http://www.n2yo.com/satellite/?:s=12927), [15599 ⎆](http://www.n2yo.com/satellite/?:s=15599)<br> **Venera 14:** NSSDC ID (COSPAR ID): [1981-110A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-110A), [1981-110D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1978-110D), SCN: [12939 ⎆](http://www.n2yo.com/satellite/?:s=12939), [15600 ⎆](http://www.n2yo.com/satellite/?:s=15600)|
 |Manufacturer|NPO Lavochkin|
-|Mass|**Venera 13** Launch: 4 397.85 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg<br> **Venera 14** Launch: 4 394.5 kg ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 kg|
+|Mass|**Venera 13** Launch: 4 397.85 ㎏ ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 ㎏<br> **Venera 14** Launch: 4 394.5 ㎏ ([large satellite](sc.md), [EVN‑073](venus.md)), Landing: 760 ㎏|
 |Orbit / Site|**Venera 13:** Heliocentric 0.70 x 0.99 AU; i = 2.3°; T = 285 days<br> **Venera 14:** Heliocentric 0.71 x 0.99 AU; i = 2.3°; T = 286 days|
 |Payload|2 cameras, accelerometer, thermometer, barometer, nephelometer, spectrometers (including mass, fluorescent), photometer, hydrometer, radio seismograph, chromographs, drill and penetrometer|
 |Power|…|
@@ -75,7 +75,7 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-Venera 13 and 14 were identical spacecraft built to take advantage of the 1981 Venus launch opportunity and launched 5 days apart, Venera 13 on 30 October 1981 at 06:04 UTC and Venera 14 on 4 November 1981 at 05:31 UTC, both with an on‑orbit dry mass of 760 kg. Each mission consisted of a fly‑by and a landing craft. The landing site was chosen in collaboration with scientists from the United States using maps based on radar measurements made by the Pioneer Venus Orbiter in 1978.
+Venera 13 and 14 were identical spacecraft built to take advantage of the 1981 Venus launch opportunity and launched 5 days apart, Venera 13 on 30 October 1981 at 06:04 UTC and Venera 14 on 4 November 1981 at 05:31 UTC, both with an on‑orbit dry mass of 760 ㎏. Each mission consisted of a fly‑by and a landing craft. The landing site was chosen in collaboration with scientists from the United States using maps based on radar measurements made by the Pioneer Venus Orbiter in 1978.
 
 **ORBITER**
 
@@ -89,19 +89,19 @@ After launch and a four-month cruise to Venus the descent vehicles separated fro
 
 **Descent**
 
-The accelerometer turned on at an altitude of 100 km and carried out measurements of atmospheric density until the opening of the parachute. The parachute opened at an altitude of 62 km, and after 9 min was unhooked at an altitude of 47 km. Scientific instruments turned on immediately after the opening of the main parachute, and the descent time from the moment of opening the parachute to landing was a little more than an hour ([EVN‑003](venus.md)).
+The accelerometer turned on at an altitude of 100 ㎞ and carried out measurements of atmospheric density until the opening of the parachute. The parachute opened at an altitude of 62 ㎞, and after 9 min was unhooked at an altitude of 47 ㎞. Scientific instruments turned on immediately after the opening of the main parachute, and the descent time from the moment of opening the parachute to landing was a little more than an hour ([EVN‑003](venus.md)).
 
-The nephelometer data on the structure and microphysical characteristics of the atmosphere ([EVN‑017](venus.md)) confirmed the results that the main cloud system consists of three different layers of clouds: the dense upper layer from 62 km (the beginning of the measurement) to 57 km, the less dense layer from 57 to 50 km, and the densest layer from 50 to 48 km ([EVN‑016](venus.md)). According to Doppler shear measurements, high‑altitude horizontal wind profiles were constructed and turbulence estimates were made.
+The nephelometer data on the structure and microphysical characteristics of the atmosphere ([EVN‑017](venus.md)) confirmed the results that the main cloud system consists of three different layers of clouds: the dense upper layer from 62 ㎞ (the beginning of the measurement) to 57 ㎞, the less dense layer from 57 to 50 ㎞, and the densest layer from 50 to 48 ㎞ ([EVN‑016](venus.md)). According to Doppler shear measurements, high‑altitude horizontal wind profiles were constructed and turbulence estimates were made.
 
-The humidity sensor showed ten times more water content in the atmosphere than was obtained by spectrometric method in the range of heights from 46 to 50 km. the Amount of water vapor at an altitude of 48 km was estimated at 0.2 %.
+The humidity sensor showed ten times more water content in the atmosphere than was obtained by spectrometric method in the range of heights from 46 to 50 ㎞. the Amount of water vapor at an altitude of 48 ㎞ was estimated at 0.2 %.
 
-New mass-spectrometer data showed an increased neon content at altitudes from 26 km to the surface. The ratio of 40argon/36argon is 4 times lower than the Earth’s. The gas chromatograph recorded several new and refined contents of previously detected atmospheric gas constituents, including molecular hydrogen, hydrogen sulfide, and carbonyl sulfide. Other reported components included molecular oxygen, water vapor, krypton, and sulfur hexafluoride ([EVN‑077](venus.md)).
+New mass-spectrometer data showed an increased neon content at altitudes from 26 ㎞ to the surface. The ratio of 40argon/36argon is 4 times lower than the Earth’s. The gas chromatograph recorded several new and refined contents of previously detected atmospheric gas constituents, including molecular hydrogen, hydrogen sulfide, and carbonyl sulfide. Other reported components included molecular oxygen, water vapor, krypton, and sulfur hexafluoride ([EVN‑077](venus.md)).
 
 **Surface**
 
-Venera 13 landed at around 7 – 8 m/s at 7.55 °S 303.69 °E, just east of the eastern extension of an elevated region known as Phoebe Regio.
+Venera 13 landed at around 7 – 8 ㎧ at 7.55 °S 303.69 °E, just east of the eastern extension of an elevated region known as Phoebe Regio.
 
-The area was composed of bedrock outcrops surrounded by dark, fine-grained soil ([EVN‑006](venus.md)). After landing, an imaging panorama was started. Venera 13 transmitted both black-and-white and the first color panoramic images from the surface of Venus ([EVN‑063](venus.md)). A mechanical drilling arm reached to the surface and obtained a sample, which was placed in a three stage airlock sealed chamber ([EVN‑062](venus.md)), maintained at 30 ℃ and a pressure of about 5 kPa. Information about the drilling speed and movement of the rig rod, the depth of penetration of the drill and the amount of current consumed by the motor during drilling, allowed to find out the physical and mechanical properties of the surface. The composition of the sample determined by the X‑ray fluorescence spectrometer (plutonium, uranium-235 and iron-55 were used as radiation sources) put it in the class of weakly differentiated melanocratic alkaline gabbroids ([EVN‑026](venus.md)).
+The area was composed of bedrock outcrops surrounded by dark, fine-grained soil ([EVN‑006](venus.md)). After landing, an imaging panorama was started. Venera 13 transmitted both black-and-white and the first color panoramic images from the surface of Venus ([EVN‑063](venus.md)). A mechanical drilling arm reached to the surface and obtained a sample, which was placed in a three stage airlock sealed chamber ([EVN‑062](venus.md)), maintained at 30 ℃ and a pressure of about 5 ㎪. Information about the drilling speed and movement of the rig rod, the depth of penetration of the drill and the amount of current consumed by the motor during drilling, allowed to find out the physical and mechanical properties of the surface. The composition of the sample determined by the X‑ray fluorescence spectrometer (plutonium, uranium-235 and iron-55 were used as radiation sources) put it in the class of weakly differentiated melanocratic alkaline gabbroids ([EVN‑026](venus.md)).
 
 The lander functioned for at least 127 min (the planned design life was 32 min) in an environment with a temperature of 457 ℃ and a pressure of 89 atm. Only 2.4 % of the sunlight reached the surface ([EVN‑013](venus.md)). The lander transmitted data to the Orbiter, which acted as a data relay as it flew by Venus ([EVN‑092](venus.md)).
 
@@ -113,7 +113,7 @@ Microphones on the probe recorded atmospheric wind noises in an effort to measur
 
 The parameters of the descent of Venera 14 were similar to the descent of Venera 13.
 
-X‑ray fluorescence spectrometer measured the composition of cloud aerosols at altitudes from 63 to 47 km. It registered sulfur in the amount of 1.07 ± 0.13 mg/m³ and chlorine in the amount of 0.167 ± 0.04 mg/m³ ([EVN‑018](venus.md))
+X‑ray fluorescence spectrometer measured the composition of cloud aerosols at altitudes from 63 to 47 ㎞. It registered sulfur in the amount of 1.07 ± 0.13 mg/m³ and chlorine in the amount of 0.167 ± 0.04 mg/m³ ([EVN‑018](venus.md))
 
 The Venera 14 lander performed the same set of measurements during descent in the atmosphere and after landing as Venera 13, and obtained very similar results. Below are the combined results of mass spectroscopic measurements on both devices ([EVN‑014](venus.md)):
 
@@ -149,7 +149,7 @@ Gas chromatograph measurements yielded the following values:
 
 **Surface**
 
-Venera 14 landed at 13.055 °S 310.19 °E (about 950 km southwest of Venera 13) near the eastern flank of Phoebe Regio on a basaltic plain ([EVN‑006](venus.md)).
+Venera 14 landed at 13.055 °S 310.19 °E (about 950 ㎞ southwest of Venera 13) near the eastern flank of Phoebe Regio on a basaltic plain ([EVN‑006](venus.md)).
 
 The lander functioned for at least 57 min (the planned design life was 32 min) in an environment with a temperature of 465 ℃ and a pressure of 94 atm. Telemetry had been maintained by means of the Orbiter that carried signals from the Lander’s uplink antenna ([EVN‑092](venus.md)).
 
@@ -157,7 +157,7 @@ Similar to Venera 13, panoramic images of the planet’s surface were taken. F
 
 Panorama of Venus in a spherical projection, after correcting the perspective. On the left is camera 1 of Venera 13, on the right is camera 1 of Venera 14.
 
-The Lander was equipped with acoustic microphones designed to record atmospheric noise which was later used in calculations to determine the average wind speed on the Venusian surface. Later analysis of said data determined the average wind speed at the surface to be between 0.3 and 0.5 m/s (|[EVN‑074](venus.md)).
+The Lander was equipped with acoustic microphones designed to record atmospheric noise which was later used in calculations to determine the average wind speed on the Venusian surface. Later analysis of said data determined the average wind speed at the surface to be between 0.3 and 0.5 ㎧ (|[EVN‑074](venus.md)).
 
 The composition of the surface samples showed similarities with oceanic tholeiitic basalts ([EVN‑026](venus.md)).
 
@@ -202,13 +202,13 @@ The Orbiter payload was reduced to compensate for the increased payload of the L
    - High‑energy particle detectors — included 4 semiconductor counters, 2 gas‑discharge counters and 4 scintillation counters;
    - Detectors of particles of the solar wind.
 
-Orbiter payload mass: 92 kg.
+Orbiter payload mass: 92 ㎏.
 
 **LANDER**
 
 **Instruments for operation during reentry and descent:**
 
-   - Accelerometer **Bison-M** to measure the density of the atmosphere from the fly‑by orbit to 63 km to analyze the landing pattern of the lander;
+   - Accelerometer **Bison-M** to measure the density of the atmosphere from the fly‑by orbit to 63 ㎞ to analyze the landing pattern of the lander;
    - Temperature and pressure sensors **ITD**;
    - Gas chromatograph **Sigma-2** to study the chemical composition of the atmosphere ([EVN‑014](venus.md)). It was equipped with a detector that could detect more atmospheric components and was capable of operating in the cloud layer;
    - Mass spectrometer **MKh-6411** to study the chemical and isotopic composition of the atmosphere ([EVN‑077](venus.md)). The upgraded mass spectrometer provided significantly better resolution (2 to 40 times) and 10 to 30 times greater sensitivity. The reason for the anomalous measurement of krypton during the 1978 program was understood and appropriate changes were made;
@@ -217,7 +217,7 @@ Orbiter payload mass: 92 kg.
    - [X‑ray fluorescence (XRF)](xrf.md) spectrometer **BDRA-1V** for the study of the elemental composition of aerosols ([EVN‑018](venus.md));
    - Spectrometer **IOAV-2** to study the spectral and angular distribution of solar radiation. Measured the radiation spectrum in the range from 470 to 1200 nm using a wide-angle view of the sky and a set of six receivers with a narrow field of view;
    - Ultraviolet photometer in the range from 320 to 390 nm;
-   -  Radio receiver **GROZA-2** for the study of electrical activity with a microphone for recording acoustic and seismic vibrations. The **GROZA-2** instrument included a modified 10 kHz detector, a new detector in the 2 kHz band, and was better suited for measuring seismic activity after landing;
+   -  Radio receiver **GROZA-2** for the study of electrical activity with a microphone for recording acoustic and seismic vibrations. The **GROZA-2** instrument included a modified 10 ㎑ detector, a new detector in the 2 ㎑ band, and was better suited for measuring seismic activity after landing;
    - On-Board transmitters for measuring wind and turbulence by Doppler shift of the carrier frequency.
 
 **Instruments for operation on the surface of Venus:**
@@ -234,7 +234,7 @@ Orbiter payload mass: 92 kg.
 |Viewing angle|180°|
 |Transmission speed|64 kbps|
 
-Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x‑ray spectrometer for aerosols, mass spectrometer and gas chromatograph were improved. The payload mass of the Lander:  100 kg.
+Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x‑ray spectrometer for aerosols, mass spectrometer and gas chromatograph were improved. The payload mass of the Lander:  100 ㎏.
 
 ![](f/project/v/venera_13_14/pic06.jpg)
 
@@ -308,7 +308,7 @@ The cameras were installed inside the airtight and thermally insulated compartme
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

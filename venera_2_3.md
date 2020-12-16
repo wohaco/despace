@@ -5,9 +5,9 @@
 
 ---
 
-> <small>*Terms:* **Венера-2, Венера-3** — Russian terms with no analogues in English. **Venera 2 (3MV-4 No.4), Venera 3 (3MV-3 No.1)** — literal translation to English.</small>
+> <small>**Венера-2, Венера-3** — Russian terms with no analogues in English. **Venera 2 (3MV-4 No.4), Venera 3 (3MV-3 No.1)** — literal EN translation.</small>
 
-**Venera 2** (**Венера-2**) and **Venera 3** (**Венера-3**) were a Soviet spacecrafts intended to explore [Venus](venus.md). A 3MV-4 spacecraft launched as part of the Venera programme, it failed to return data after flying past Venus. Venera 2 flew at a distance of 24 000 km from Venus, Venera 3, probably landed on Venus. In addition to data on space and near‑planet space in the year of the calm Sun, scientific data on Venus itself was not received.
+**Venera 2** (**Венера-2**) and **Venera 3** (**Венера-3**) were a Soviet spacecrafts intended to explore [Venus](venus.md). A 3MV-4 spacecraft launched as part of the Venera programme, it failed to return data after flying past Venus. Venera 2 flew at a distance of 24 000 ㎞ from Venus, Venera 3, probably landed on Venus. In addition to data on space and near‑planet space in the year of the calm Sun, scientific data on Venus itself was not received.
 
 [![](f/project/v/venera_2_3/pic01_thumb.jpg)](f/project/v/venera_2_3/pic01.jpg)
 
@@ -20,9 +20,9 @@
 |Development|…|
 |Duration|**Venera 2** 3 m 15 d;<br>**Venera 3** 3 m 13 d|
 |Launch|**Venera 2** 1965.11.12 05:02 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M;<br> **Venera 3** 1965.11.16 04:19 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M|
-|Operator|OKB-1|
+|Operator|O㎅-1|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • Past: Luna 2, [Mariner 2](mariner_2.md)|
+|Similar to|• Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • ㎩st: Luna 2, [Mariner 2](mariner_2.md)|
 |Target|[Venus](venus.md) exploration|
 |[Type](sc.md)|Orbiter; lander|
 |**Spacecraft:**|• • •|
@@ -30,8 +30,8 @@
 |Comms|2 m parabolic high‑gain antenna (decimeter range)|
 |Contractor|…|
 |[ID](spaceid.md)|**Venera 2** NSSDC ID (COSPAR ID): [1965-091A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1965-091A), SCN: 1730<br> **Venera 3** NSSDC ID (COSPAR ID): [1965-092A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1965-092A), SCN: 1733|
-|Manufacturer|OKB-1|
-|Mass|**Venera 2** 963 kg ([medium satellite](sc.md), [EVN‑072](venus.md))<br> **Venera 3** 960 kg ([medium satellite](sc.md), [EVN‑072](venus.md))|
+|Manufacturer|O㎅-1|
+|Mass|**Venera 2** 963 ㎏ ([medium satellite](sc.md), [EVN‑072](venus.md))<br> **Venera 3** 960 ㎏ ([medium satellite](sc.md), [EVN‑072](venus.md))|
 |Orbit / Site|**Venera 2** Heliocentric 0.72 AU × 1.2 AU, T = 341 days.<br> **Venera3** Heliocentric 0.68 AU × 0.99 AU; T = 277 days|
 |Payload|**Venera 2** Camera, spectrometers, detectors, magnitometer;<br> **Venera 3**: *Orbiter*: Magnitometers, Discharge Counters and Semiconductor Detector<br> *Lander*: Photometer, Gas Analyzer, Temperature, pressure and density sensors, Movement detector, Gamma Ray Counter|
 |Power|…|
@@ -63,7 +63,7 @@ Achieved targets & investigations:
 
 Venera 2 was launched by a Molniya carrier rocket, flying from Site 31/6 at the Baikonur Cosmodrome. The launch occurred 1965.11.12 at 05:02 UTC.
 
-The spacecraft made its closest approach to Venus at 1966.02.27 02:52 UTC, at a distance of 23 810 km ([EVN‑005](venus.md)).
+The spacecraft made its closest approach to Venus at 1966.02.27 02:52 UTC, at a distance of 23 810 ㎞ ([EVN‑005](venus.md)).
 
 During the fly‑by, all of Venera 2’s instruments were activated, requiring that radio contact with the spacecraft be suspended. The spacecraft was to have stored data using onboard recorders, and then transmitted it to Earth once contact was restored. Following the fly‑by the spacecraft failed to reestablish communications with the ground. It was declared lost on 1966.05.04. An investigation into the failure determined that the spacecraft had overheated due to a radiator malfunction.
 
@@ -71,7 +71,7 @@ During the fly‑by, all of Venera 2’s instruments were activated, requiring
 
 Venera 3 was launched 1965.11.16 at 04:19 UTC from Baikonur.
 
-The spacecraft’s initial trajectory missed Venus by 60 550 km and a course correction manoeuvre was carried out on 1965.12.26 which brought the spacecraft onto a collision course with the planet ([EVN‑005](venus.md)). Contact with the spacecraft was lost on 1966.02.15 probably due to overheating.
+The spacecraft’s initial trajectory missed Venus by 60 550 ㎞ and a course correction manoeuvre was carried out on 1965.12.26 which brought the spacecraft onto a collision course with the planet ([EVN‑005](venus.md)). Contact with the spacecraft was lost on 1966.02.15 probably due to overheating.
 
 The lander crashed on Venus on 1966.03.01, making Venera 3 the first lander to hit the surface of another planet.
 
@@ -90,13 +90,13 @@ Venera 2 and 3 were not able to transmit data on Venus itself, but scientific 
       - Charged particles detectors;
       - Gas‑discharge and solid‑state cosmic ray detectors; Cosmic ray detectors were of two types and consisted of gas‑discharge meters and solid‑state silicon detectors. The parabolic antenna of the decimeter range radiometer was mounted on a ring between the control compartment and the instrument compartment;
       - Micrometeorite detector;
-      - Receivers of space radio emission in the range 20 ‑ 2 000 kHz;
+      - Receivers of space radio emission in the range 20 ‑ 2 000 ㎑;
       - Solar plasma detector in decimeter radio range;
       - Spectrometer on the oxygen and hydrogen line in Lyman‑alpha;
       - Three‑axis fluxgate magnetometer.
    - **Fly‑by compartment:**
-      - Facsimile system of photo and image transmission. The camera was equipped with a 200 mm lens;
-      - Infrared spectrometer. It was designed to measure the thermal radiation of the atmosphere and clouds. It captured two bands, each split into 150 intervals, with a receiver from *InAs* used for measurements in the first band and a receiver from *LiF* in the second. The weight of the device was in the range of 13 ‑ 15 kg, its characteristic size was 50 cm. The device was mounted on the outside of the instrument compartment coaxially with the photography system and also included a visible range photometer as a reference signal source. The infrared spectrometer could also perform a spatial scan of the planet at two wavelengths: 9.5 and 18.5 microns.
+      - Facsimile system of photo and image transmission. The camera was equipped with a 200 ㎜ lens;
+      - Infrared spectrometer. It was designed to measure the thermal radiation of the atmosphere and clouds. It captured two bands, each split into 150 intervals, with a receiver from *InAs* used for measurements in the first band and a receiver from *LiF* in the second. The weight of the device was in the range of 13 ‑ 15 ㎏, its characteristic size was 50 ㎝. The device was mounted on the outside of the instrument compartment coaxially with the photography system and also included a visible range photometer as a reference signal source. The infrared spectrometer could also perform a spatial scan of the planet at two wavelengths: 9.5 and 18.5 microns.
       - Ultraviolet spectrometer in the range 285 ‑ 355 nm, built into the photosystem;
       - Ultraviolet spectrometer for ozone detection in the range 190 ‑ 275 nm;
 
@@ -128,7 +128,7 @@ Venera 3 comprised an lander, designed to enter the Venus atmosphere and parac
 
 **Orbital Compartment**
 
-The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft’s control electronics, radio transmitters and receivers, batteries, astro‑orientation equipment, and so on. The compartment was pressurized to around 100 kPa and thermally controlled to simulate earth‑like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions (on [Zond 1](zond_1.md) the module depressurized in flight, severely damaging the spacecraft’s systems).
+The core of the stack was a pressurized compartment called the Orbital Compartment. This part housed the spacecraft’s control electronics, radio transmitters and receivers, batteries, astro‑orientation equipment, and so on. The compartment was pressurized to around 100 ㎪ and thermally controlled to simulate earth‑like conditions, which removed the need for special electronic components that could reliably operate in extreme conditions (on [Zond 1](zond_1.md) the module depressurized in flight, severely damaging the spacecraft’s systems).
 
 Mounted on the outside of the Orbital Compartment were two solar panels which supplied power to the spacecraft. They were folded against the body of the spacecraft during launch and were only deployed when the spacecraft was already on its interplanetary trajectory. On the ends of each solar panel was a hemispherical radiator which radiated excess heat from the orbital compartment into through a coolant loop.
 
@@ -142,7 +142,7 @@ Below the Orbital Compartment was a second pressurized compartment called the Pl
 
 Course correction capabilities were provided by a KDU 414 engine attached to the top of the Orbital Compartment. It provided a maximum thrust of around 2 kN used [UDMH](udmh.md) and nitric acid as propellants. Attitude control was achieved by several small cold gas thrusters.
 
-The whole stack was 3.6 m high and weighted around 1 000 kg.
+The whole stack was 3.6 m high and weighted around 1 000 ㎏.
 
 
 
@@ -167,7 +167,7 @@ The whole stack was 3.6 m high and weighted around 1 000 kg.
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

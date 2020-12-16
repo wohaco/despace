@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Terms:* **MESSENGER (MErcury Surface, Space ENvironment, GEochemistry and Ranging)** — English term with no analogues in Russian. **Мессенджер** — Russian equivalent.</small>
+> <small>**MESSENGER (MErcury Surface, Space ENvironment, GEochemistry and Ranging)** — EN term. **Мессенджер** — RU analogue.</small>
 
 **MESSENGER** was a NASA robotic spacecraft that orbited the planet Mercury between 2011 and 2015, studying Mercury’s chemical composition, geology, and magnetic field.
 
@@ -18,13 +18,13 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|US$450 million or 34 161 kg of [gold](sc_price.md)|
+|Cost|US$450 million or 34 161 ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|10 years, 8 months and 27 days|
 |Launch|August 3, 2004, 06:15:56 UTC, Rocket: Delta II 7925H-9.5|
 |Operator|NASA|
 |Programme|Discovery Program|
-|Similar to|• Proposed: Меркурий‑П (2031), [BepiColombo](bepicolombo.md) <br> • Current: … <br> • Past: [mariner_10](mariner_10.md)|
+|Similar to|• Proposed: Меркурий‑П (2031), [BepiColombo](bepicolombo.md) <br> • Current: … <br> • ㎩st: [mariner_10](mariner_10.md)|
 |Target|Study of the planet Mercury: geological history, global magnetic field, size and state of the core, exosphere.|
 |[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
@@ -34,8 +34,8 @@
 ||**`…`**|
 |Comms|Circularly polarized X‑band phased-array antennas|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): 2004-030A, SCN: 28391|
-|Mass|**Launch:** 1 107.9 kg ([Large satellite](спутник.md), [EVN‑073](evn_073.md))|
-|Orbit / Site|Hermiocentric; 200 × 10 300 km; I = 80 degrees; T = 12 h|
+|Mass|**Launch:** 1 107.9 ㎏ ([Large satellite](спутник.md), [EVN‑073](evn_073.md))|
+|Orbit / Site|Hermiocentric; 200 × 10 300 ㎞; I = 80 degrees; T = 12 h|
 |Payload|Radio Science, 5 Spectometers, Mercury Dual Imaging System, Magnetometer, Mercury Laser Altimeter|
 |Power|450 W|
 
@@ -86,7 +86,7 @@ MESSENGER extensively used gravity assist maneuvers at Earth, Venus, and Mercury
 
 **Earth fly‑by**
 
-MESSENGER performed an Earth fly‑by on August 2, 2005, with the closest approach at 19:13 UTC at an altitude of 2 347 km over central Mongolia.
+MESSENGER performed an Earth fly‑by on August 2, 2005, with the closest approach at 19:13 UTC at an altitude of 2 347 ㎞ over central Mongolia.
 
 During the Earth fly‑by, the MESSENGER team imaged the Earth and Moon using MDIS and checked the status of several other instruments observing the atmospheric and surface compositions and testing the magnetosphere and determining that all instruments tested were working as expected.
 
@@ -96,9 +96,9 @@ During the Earth fly‑by, the MESSENGER team imaged the Earth and Moon using MD
 
 **Two Venus fly‑bys**
 
-On October 24, 2006 at 08:34 UTC, MESSENGER encountered Venus at an altitude of 2 992 km. During the encounter, MESSENGER passed behind Venus and entered superior conjunction, a period when Earth was on the exact opposite side of the Solar System, with the Sun inhibiting radio contact. For this reason, no scientific observations were conducted during the fly‑by. Communication with the spacecraft was reestablished in late November and performed a deep space maneuver on December 12, to correct the trajectory to encounter Venus in a second fly‑by.
+On October 24, 2006 at 08:34 UTC, MESSENGER encountered Venus at an altitude of 2 992 ㎞. During the encounter, MESSENGER passed behind Venus and entered superior conjunction, a period when Earth was on the exact opposite side of the Solar System, with the Sun inhibiting radio contact. For this reason, no scientific observations were conducted during the fly‑by. Communication with the spacecraft was reestablished in late November and performed a deep space maneuver on December 12, to correct the trajectory to encounter Venus in a second fly‑by.
 
-On June 5, 2007, at 23:08 UTC, MESSENGER performed a second fly‑by of Venus at an altitude of 338 km, for the greatest velocity reduction of the mission. During the encounter, all instruments were used to observe Venus ([EVN‑005](evn_005.md)) and prepare for the following Mercury encounters. The encounter provided visible and near‑infrared imaging data of the upper atmosphere of Venus. Ultraviolet and X‑ray spectrometry of the upper atmosphere were also recorded, to characterize the composition ([EVN‑014](EVN_014)). The ESA’s [Venus Express](venus_express.md) was also orbiting during the encounter, providing the first opportunity for simultaneous measurement of particle-and-field characteristics of the planet.
+On June 5, 2007, at 23:08 UTC, MESSENGER performed a second fly‑by of Venus at an altitude of 338 ㎞, for the greatest velocity reduction of the mission. During the encounter, all instruments were used to observe Venus ([EVN‑005](evn_005.md)) and prepare for the following Mercury encounters. The encounter provided visible and near‑infrared imaging data of the upper atmosphere of Venus. Ultraviolet and X‑ray spectrometry of the upper atmosphere were also recorded, to characterize the composition ([EVN‑014](EVN_014)). The ESA’s [Venus Express](venus_express.md) was also orbiting during the encounter, providing the first opportunity for simultaneous measurement of particle-and-field characteristics of the planet.
 
 |![](f/project/m/messenger/venus.jpg)|
 |:--|
@@ -106,7 +106,7 @@ On June 5, 2007, at 23:08 UTC, MESSENGER performed a second fly‑by of Venus at
 
 **Three Mercury fly‑bys**
 
-MESSENGER made a fly‑by of Mercury on January 14, 2008 (making its closest approach of 200 km above the surface of Mercury at 19:04:39 UTC, followed by a second fly‑by on October 6, 2008. MESSENGER executed a final fly‑by on September 29, 2009, further slowing down the spacecraft. One last deep space maneuver, DSM-5, was executed on November 24, 2009, at 22:45 UTC to provide the required velocity change for the scheduled Mercury orbit insertion on March 18, 2011, marking the beginning of the orbital mission.
+MESSENGER made a fly‑by of Mercury on January 14, 2008 (making its closest approach of 200 ㎞ above the surface of Mercury at 19:04:39 UTC, followed by a second fly‑by on October 6, 2008. MESSENGER executed a final fly‑by on September 29, 2009, further slowing down the spacecraft. One last deep space maneuver, DSM-5, was executed on November 24, 2009, at 22:45 UTC to provide the required velocity change for the scheduled Mercury orbit insertion on March 18, 2011, marking the beginning of the orbital mission.
 
 On July 3, 2008, the MESSENGER team announced that the Orbiter had discovered large amounts of water present in Mercury’s exosphere, which was an unexpected finding. In the later years of its mission, MESSENGER also provided visual evidence of past volcanic activity on the surface of Mercury, as well as evidence for a liquid iron planetary core. The Orbiter also constructed the most detailed and accurate maps of Mercury to date, and furthermore discovered carbon-containing organic compounds and water ice inside permanently shadowed craters near the north pole.
 
@@ -158,17 +158,17 @@ Included two CCD cameras, a narrow-angle camera (NAC) and a wide-angle camera (W
 
 |||
 |:--|:--|
-|**Objectives:**<br><br>*Fly‑by Phase*<br> • Acquisition of near‑global coverage at ≈500 m/px.<br> • Multispectral mapping at ≈2 km/px.<br>*Orbital Phase*<br> • A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> • A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> • Completion of the multispectral mapping begun during the fly‑bys.<br> • High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures.|[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
+|**Objectives:**<br><br>*Fly‑by Phase*<br> • Acquisition of near‑global coverage at ≈500 m/px.<br> • Multispectral mapping at ≈2 ㎞/px.<br>*Orbital Phase*<br> • A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> • A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> • Completion of the multispectral mapping begun during the fly‑bys.<br> • High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures.|[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
 
 ### Gamma‑ray Spectrometer (GRS)
-Measured gamma‑ray emissions from the surface of Mercury to determine the planet’s composition by detecting certain elements (oxygen, silicon, sulfur, iron, hydrogen, potassium, thorium, uranium) to a depth of 10 cm.
+Measured gamma‑ray emissions from the surface of Mercury to determine the planet’s composition by detecting certain elements (oxygen, silicon, sulfur, iron, hydrogen, potassium, thorium, uranium) to a depth of 10 ㎝.
 
 |||
 |:--|:--|
 |**Objectives:**<br><br> • Provide surface abundances of major elements.<br> • Provide surface abundances of Fe, Si, and K, infer alkali depletion from K abundances, and provide abundance limits on H (water ice) and S (if present) at the poles.<br> • Map surface element abundances where possible, and otherwise provide surface-averaged abundances or establish upper limits.|[![](f/project/m/messenger/grs.jpg)](f/project/m/messenger/grs.jpg)|
 
 ### Neutron Spectrometer (NS)
-Determined the hydrogen mineral composition to a depth of 40 cm by detecting low‑energy neutrons resulting from the collision of cosmic rays with the minerals.
+Determined the hydrogen mineral composition to a depth of 40 ㎝ by detecting low‑energy neutrons resulting from the collision of cosmic rays with the minerals.
 
 |||
 |:--|:--|
@@ -227,7 +227,7 @@ Objectives:
 |:--|
 |![](f/project/m/messenger/inside.jpg)|
 
-The MESSENGER bus measured 1.85 m tall, 1.42 m wide, and 1.27 m deep. The bus was primarily constructed with four graphite fiber / cyanate ester composite panels that supported the propellant tanks, the large velocity adjust thruster, attitude monitors and correction thrusters, the antennas, the instrument pallet, and a large ceramic-cloth sunshade, measuring 2.5 m tall and 2 m wide, for passive thermal control. At launch, the spacecraft weighed approximately 1 100 km with its full load of propellant. The body of the spacecraft is closed in a multi-layer thermal insulation, and for heat removal radiators and heat pipes are provided.
+The MESSENGER bus measured 1.85 m tall, 1.42 m wide, and 1.27 m deep. The bus was primarily constructed with four graphite fiber / cyanate ester composite panels that supported the propellant tanks, the large velocity adjust thruster, attitude monitors and correction thrusters, the antennas, the instrument pallet, and a large ceramic-cloth sunshade, measuring 2.5 m tall and 2 m wide, for passive thermal control. At launch, the spacecraft weighed approximately 1 100 ㎞ with its full load of propellant. The body of the spacecraft is closed in a multi-layer thermal insulation, and for heat removal radiators and heat pipes are provided.
 
 **Attitude control and propulsion**
 
@@ -237,7 +237,7 @@ Four 22 N monopropellant thrusters provided spacecraft steering during main th
 
 **Communications**
 
-The Orbiter included two small deep space transponders for communications with the Deep Space Network and three kinds of antennas: a high gain phased array whose main beam could be electronically steered in one plane, a medium‑gain «fan-beam» antenna and a low gain horn with a broad pattern. The high gain antenna was used as transmit-only at 8.4 GHz, the medium‑gain and low gain antennas transmit at 8.4 GHz and receive at 7.2 GHz, and all three antennas operate with right-hand circularly polarized radiation. One of each of these antennas was mounted on the front of the Orbiter facing the Sun, and one of each was mounted to the back of the Orbiter facing away from the Sun.
+The Orbiter included two small deep space transponders for communications with the Deep Space Network and three kinds of antennas: a high gain phased array whose main beam could be electronically steered in one plane, a medium‑gain «fan-beam» antenna and a low gain horn with a broad pattern. The high gain antenna was used as transmit-only at 8.4 ㎓, the medium‑gain and low gain antennas transmit at 8.4 ㎓ and receive at 7.2 ㎓, and all three antennas operate with right-hand circularly polarized radiation. One of each of these antennas was mounted on the front of the Orbiter facing the Sun, and one of each was mounted to the back of the Orbiter facing away from the Sun.
 
 **Power**
 
@@ -245,7 +245,7 @@ The spacecraft was powered by a two-panel 1.5 × 1.65 m gallium arsenide/g
 
 **Computer**
 
-The spacecraft’s onboard computer system was contained in an Integrated Electronics Module. The computer featured two radiation-hardened IBM RAD6000s, a 25 MHz main processor, and a 10 MHz fault protection processor. For redundancy, the spacecraft carried a pair of identical IEMs. For data storage, the spacecraft carried two solid‑state recorders able to store up to one gigabyte each. The IBM RAD6000 main processor collected, compressed, and stored data from MESSENGER’s instruments for later playback to Earth.
+The spacecraft’s onboard computer system was contained in an Integrated Electronics Module. The computer featured two radiation-hardened IBM RAD6000s, a 25 ㎒ main processor, and a 10 ㎒ fault protection processor. For redundancy, the spacecraft carried a pair of identical IEMs. For data storage, the spacecraft carried two solid‑state recorders able to store up to one gigabyte each. The IBM RAD6000 main processor collected, compressed, and stored data from MESSENGER’s instruments for later playback to Earth.
 
 <p style="page-break-after:always"> </p>
 
@@ -281,7 +281,7 @@ The spacecraft’s onboard computer system was contained in an Integrated Electr
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

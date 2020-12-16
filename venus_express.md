@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Термины:* **Venus Express (VEX)** — English term with no analogues in Russian. **Венера‑Экспресс (ВЕКС)** — Russian equivalent.</small>
+> <small>**Venus Express (VEX)** — EN term. **Венера‑Экспресс (ВЕКС)** — RU analogue.</small>
 
 **Venus Express (VEX)** — Venus spacecraft for ranged investigations. It was based on the [Mars Express](mars_express.md), what lead to lower the costa and to make a rapid development.
 
@@ -16,14 +16,14 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|$ 262 million or 18 323 kg [gold](sc_price.md) in 2005 prices|
+|Cost|$ 262 million or 18 323 ㎏ [gold](sc_price.md) in 2005 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|2001 — 2005|
 |Duration|planned: 2 years;<br>  final: 9 y 2 m 9 d|
 |Launch|9 November 2005, 03:33:34 UTC;<br>Rocket: Soyuz-FG/Fregat|
 |Operator|European Space Agency|
 |Programme|Venus Express|
-|Similar to|• Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • Past: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975).|
+|Similar to|• Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • ㎩st: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975).|
 |Target|To perform a global investigation of the Venusian atmosphere|
 |[Type](sc.md)|Orbiter spacecraft|
 |**Spacecraft:**|• • •|
@@ -32,8 +32,8 @@
 |Contractor|[EADS Astrium](zz_astrium.md)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [2005-045A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=2005-045A), SCN: 28901|
 |Manufacturer|[EADS Astrium](zz_astrium.md)|
-|Mass|Dry: 700 kg ([Medium satellite](sc.md), [EVN‑072](venus.md))|
-|Orbit / Site|Cytherocentric: 250 x 66 000 km; i = 90 °; T = 24 h|
+|Mass|Dry: 700 ㎏ ([Medium satellite](sc.md), [EVN‑072](venus.md))|
+|Orbit / Site|Cytherocentric: 250 x 66 000 ㎞; i = 90 °; T = 24 h|
 |Power|1 100 W|
 |Payload|Venus Monitoring Camera; Analyser of Space Plasma and Energetic Atoms; Planetary Fourier Spectrometer; Visible/Ultraviolet/Near-infrared Mapping Spectrometer; Venus Express Magnetometer; Venus Radio Science Experiment; Ultraviolet and Infrared Atmospheric Spectrometer|
 
@@ -147,9 +147,9 @@ These detailed measurements from orbit are helping scientists determine whether 
 
    4. **Super‑rotation is speeding up.**
 
-After its arrival at the planet in 2006, Venus Express was able to conduct the most detailed survey of cloud motions in the atmosphere of Venus, with the surprising discovery that the planet’s high level winds have become faster over time. By tracking the movements of distinct cloud features in the cloud tops some 70 km above the planet’s surface over a period of 10 Venusian years, scientists were able to monitor patterns in the long-term global wind speeds.
+After its arrival at the planet in 2006, Venus Express was able to conduct the most detailed survey of cloud motions in the atmosphere of Venus, with the surprising discovery that the planet’s high level winds have become faster over time. By tracking the movements of distinct cloud features in the cloud tops some 70 ㎞ above the planet’s surface over a period of 10 Venusian years, scientists were able to monitor patterns in the long-term global wind speeds.
 
-In 2006, average cloud-top wind speeds between latitudes 50° on either side of the equator were clocked at roughly 300 km/h. However, detailed cloud tracking studies revealed that these already remarkably rapid winds are becoming even faster, increasing to 400 km/h over the course of the mission. The reason for this dramatic increase is unknown.
+In 2006, average cloud-top wind speeds between latitudes 50° on either side of the equator were clocked at roughly 300 ㎞/h. However, detailed cloud tracking studies revealed that these already remarkably rapid winds are becoming even faster, increasing to 400 ㎞/h over the course of the mission. The reason for this dramatic increase is unknown.
 
 On top of this long-term increase in the average wind speed, studies have also revealed regular variations linked to the local time of day and the altitude of the Sun above the horizon, as well as the rotation period of Venus.
 
@@ -157,7 +157,7 @@ There have also been dramatic variations in the average wind speeds observed bet
 
    5. **Snow on Venus.**
 
-Although the planet’s surface is like a red hot furnace, conditions are very different at an altitude of 125 km, where Venus Express revealed a very frigid layer with a temperature of around -175 ℃. The unexpected cold layer is far chillier than any part of Earth’s atmosphere, despite Venus being much closer to the Sun.
+Although the planet’s surface is like a red hot furnace, conditions are very different at an altitude of 125 ㎞, where Venus Express revealed a very frigid layer with a temperature of around -175 ℃. The unexpected cold layer is far chillier than any part of Earth’s atmosphere, despite Venus being much closer to the Sun.
 
 The discovery was made by studying light from the Sun as it passed through the atmosphere, revealing the concentration of carbon dioxide gas molecules at various altitudes along the terminator. Armed with information about the concentration of carbon dioxide and data on atmospheric pressure at each height, scientists could then calculate the corresponding temperatures.
 
@@ -173,7 +173,7 @@ Using observations made with the SPICAV instrument, scientists were able to dete
 
 The ozone was detected by means of stellar occultations — analysing light from distant stars as it passed through different layers of the atmosphere. The method relies on the availability of stars in the line of sight, meaning that it yields an uneven coverage of the planet and is limited to the night side.
 
-Ozone is located at varying altitudes in the Venusian atmosphere, between 90 and 120 km ([EVN‑015](venus.md)), compared with 15-50 km on Earth, and is always confined to a rather thin layer, measuring 5 to 10 km across. The ozone layer on Venus is also very tenuous — up to 1000 times less dense than that on Earth.
+Ozone is located at varying altitudes in the Venusian atmosphere, between 90 and 120 ㎞ ([EVN‑015](venus.md)), compared with 15-50 ㎞ on Earth, and is always confined to a rather thin layer, measuring 5 to 10 ㎞ across. The ozone layer on Venus is also very tenuous — up to 1000 times less dense than that on Earth.
 
    7. **Water loss.**
 
@@ -240,7 +240,7 @@ In the most comprehensive study of the Venusian atmosphere ever, Venus Express h
 
    1. **ASPERA-4**: An acronym for “**A**nalyzer of **S**pace **P**lasmas and **E**nergetic **A**toms”, ASPERA-4 investigated the interaction between the solar wind and the Venusian atmosphere ([EVN‑097](venus.md)), determine the impact of plasma processes on the atmosphere, determine global distribution of plasma and neutral gas, study energetic neutral atoms, ions and electrons, and analyze other aspects of the near Venus environment. ASPERA-4 is a re-use of the ASPERA-3 design used on Mars Express, but adapted for the harsher near‑Venus environment.
    1. **MAG**: The magnetometer is designed to measure the strength of Venus’s magnetic field and the direction of it as affected by the solar wind and Venus itself ([EVN‑028](venus.md)). It mapped the magnetosheath, magnetotail, ionosphere, and magnetic barrier in high resolution in three-dimensions, aid ASPERA-4 in the study of the interaction of the solar wind with the atmosphere of Venus, identify the boundaries between plasma regions, and carry planetary observations as well (such as the search for and characterization of Venus lightning). MAG is derived from the Rosetta lander’s ROMAP instrument. One measuring device is placed on the body of the craft. The identical second of the pair is placed the necessary distance away from the body by unfolding a 1 m long boom (carbon composite tube). Two redundant pyrotechnical cutters cut one loop of thin rope to free the power of metal springs. The driven knee lever rotates the boom perpendicularly outwards and latches it in place. Only the use of a pair of sensors together with the rotation of the sonde allows the spacecraft to resolve the small natural magnetic field beneath the disturbing fields of the Orbiter itself. The measurements to identify the fields produced by the craft took place on the route from Earth to Venus. The lack of magnetic cleanness was due to the reuse of the Mars Express spacecraft bus which did not carry a magnetometer. By combining the data from two-point simultaneous measurements and using software to identify and remove interference generated by Venus Express itself, it was possible to obtain results of a quality comparable to those produced by a magnetically clean craft.
-   1. **PFS**: The “**P**lanetary **F**ourier **S**pectrometer” operates in the infrared between the 0.9 µm and 45 µm wavelength range and is designed to perform vertical optical sounding of the Venus atmosphere. It performed global, long-term monitoring of the three-dimensional temperature field in the lower atmosphere (cloud level up to 100 km). Furthermore, it searched for minor atmospheric constituents that may be present, but had not yet been detected, analyzed atmospheric aerosols, and investigated surface to atmosphere exchange processes. The design is based on a spectrometer on Mars Express, but modified for optimal performance for the Venus Express mission.
+   1. **PFS**: The “**P**lanetary **F**ourier **S**pectrometer” operates in the infrared between the 0.9 µm and 45 µm wavelength range and is designed to perform vertical optical sounding of the Venus atmosphere. It performed global, long-term monitoring of the three-dimensional temperature field in the lower atmosphere (cloud level up to 100 ㎞). Furthermore, it searched for minor atmospheric constituents that may be present, but had not yet been detected, analyzed atmospheric aerosols, and investigated surface to atmosphere exchange processes. The design is based on a spectrometer on Mars Express, but modified for optimal performance for the Venus Express mission.
    1. **SPICAV**: The “**Sp**ectroscopy for **I**nvestigation of **C**haracteristics of the **A**tmosphere of **V**enus” is an imaging spectrometer that was used for analyzing radiation in the infrared and ultraviolet wavelengths. It’s derived from the SPICAM instrument flown on Mars Express. However, SPICAV has an additional channel known as **SOIR** (**S**olar **O**ccultation at **I**nfra**r**ed) that was used to observe the Sun through Venus’s atmosphere in the infrared. ([EVN‑014](venus.md))
    1. **VIRTIS**: The “**V**isible and **I**nfrared **T**hermal **I**maging **S**pectrometer” is an imaging spectrometer that observes in the near‑ultraviolet, visible, and infrared parts of the electromagnetic spectrum. It analyzed all layers of the atmosphere, surface temperature and surface/atmosphere interaction phenomena ([EVN‑014,041](venus.md)).
    1. **VeRa**: **Ve**nus **Ra**dio Science is a radio sounding experiment that transmitted radio waves from the spacecraft and passed them through the atmosphere or reflected them off the surface. These radio waves were received by a ground station on Earth for analysis of the ionosphere, atmosphere ([EVN‑078](venus.md)) and surface of Venus. It’s derived from the Radio Science Investigation instrument flown on Rosetta.
@@ -256,7 +256,7 @@ The combination of data from the PFS, SPICAV, and VIRTUS instruments made it pos
 |*Parameter*|*Value*|
 |:--|:--|
 |Spacecraft bus dimensions|1.5 x 1.8 x 1.4 m|
-|Spacecraft mass|1 270 kg (including 93 kg of payload and 570 kg fuel)|
+|Spacecraft mass|1 270 ㎏ (including 93 ㎏ of payload and 570 ㎏ fuel)|
 |Thrust of main engine|400 N|
 |Attitude thrusters|Two sets of four, each delivering 10 N each|
 |Solar arrays|Two triple-junction Ga As; 5.7 m²; generating 800 W near Earth and 1 100 W at Venus|
@@ -285,9 +285,9 @@ When the spacecraft was in shadow (eclipse) or when its power demand exceeded th
 
 The gravity of Venus, almost the same as Earth’s, is about eight times higher than that of Mars. This, plus the fact that the gravitational pull of the Sun is stronger at Venus, means that Venus Express needed more energy to brake and be captured into orbit around Venus.
 
-This energy was provided by part of the 570 kg of propellant on board. Major spacecraft manoeuvres, like the injection into orbit around Venus, were performed by firing the main engine located at the bottom floor of the spacecraft, while minor manoeuvres were made using four pairs of thrusters located at the four bottom corners of the spacecraft.
+This energy was provided by part of the 570 ㎏ of propellant on board. Major spacecraft manoeuvres, like the injection into orbit around Venus, were performed by firing the main engine located at the bottom floor of the spacecraft, while minor manoeuvres were made using four pairs of thrusters located at the four bottom corners of the spacecraft.
 
-The thrusters were used for small trajectory corrections, spacecraft attitude changes, and to corrected the altitude of the Venus Express orbit’s pericentre about every 50 days. In fact, due to the gravitational pull of the Sun while the spacecraft was farther away from the planet, the pericentre naturally drifted upwards at a rate of about 1.5 km/day.
+The thrusters were used for small trajectory corrections, spacecraft attitude changes, and to corrected the altitude of the Venus Express orbit’s pericentre about every 50 days. In fact, due to the gravitational pull of the Sun while the spacecraft was farther away from the planet, the pericentre naturally drifted upwards at a rate of about 1.5 ㎞/day.
 
 **Communications**
 
@@ -341,7 +341,7 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
 ## Docs & links
 |Navigation|
 |:--|
-|<small>**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Project](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[SRRQ](srrq.md)**·БКНР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Планетоход, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодром, **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ</small>|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

@@ -38,7 +38,7 @@ Platforms
 
    - **SpaceEye-X.** SpaceEye-X is a satellite bus, which was originally designed to carry very high resolution optical payload (≤0.5 m resolution). SpaceEye-X provides the capability to accommodate various payloads, including SAR antennas.
    - **SpaceEye-1.** SpaceEye-1 is an improved model & advanced variant of the SI-300 satellite bus, which was the platforms of DubaiSat-2 & DEIMOS-2. Current model is optimized for Earth observation purposes (≤1 m resolution).
-   - **SpaceEye-W.** SpaceEye-W is a mini-satellite platform (100 kg class). This platform has a very flexible configuration; it can support assorted missions from technical demonstration & science missions to Earth observation missions & telecommunications.
+   - **SpaceEye-W.** SpaceEye-W is a mini-satellite platform (100 ㎏ class). This platform has a very flexible configuration; it can support assorted missions from technical demonstration & science missions to Earth observation missions & telecommunications.
 
 Subsystem-level Products
 
