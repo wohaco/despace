@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<olegv@iki.rssi.ru>, *раб.:* +7(495)333-34-56; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/v/vaysberg1_photo.jpg) [![](f/contact/v/vaysberg1_sign_thumb.jpg)](f/contact/v/vaysberg1_sign.png)|
+| |![](f/contact/v/vaysberg1_photo.jpg) [![](f/contact/v/vaysberg1_sign_thumb.jpg)](f/contact/v/vaysberg1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

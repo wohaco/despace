@@ -3,7 +3,7 @@
 
 |[![](f/contact/i/ispace_logo1_thumb.jpg)](f/contact/i/ispace_logo1.png)|<info@ispace-inc.com>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
 |:--|:--|
-|Link|<http://ispace-inc.com/><br> <https://www.linkedin.com/company/ispace-inc/><br> <https://www.facebook.com/ispace.technologies.inc/><br> <https://twitter.com/ispace_inc>|
+|Link|<http://ispace-inc.com/><br> <https://www.linkedin.com/company/ispace-inc/><br> <https://www.facebook.com/ispace.technologies.inc/><br> <https://twitter.com/ispace_inc> & <https://twitter.com/HAKUTO_Reboot>|
 
 **ispace** is a lunar exploration company with a vision to extend human presence to outer space. Has offices in JP, US, EU, & has signed partnerships with [JAXA](zz_jaxa.md), [NASA](zz_nasa.md), & the Gov. of Luxembourg. Founded 2010.09.
 

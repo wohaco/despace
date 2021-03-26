@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1971  / …|
 |Contact|<Anthony.Colaprete-1@nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/c/colaprete1_photo_thumb.jpg)](f/contact/c/colaprete1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/c/colaprete1_photo_thumb.jpg)](f/contact/c/colaprete1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Astrophysical, Planetary & Atmospheric Science, University of Colorado, 2000. MS, Astrophysical, Planetary & Atmospheric Science, University of Colorado, 1998. BA, Physics, University of Colorado, 1992.
    - **Exp.:** Mars General Circulation Modeling, Atmosphere radiative transfer, cloud physics, volatile transport & processes, instrument design, operation, flight mission design & operations. Hired as a civil servant in 2003, Colaprete split his time between fundamental scientific research & developing flight instrumentation. Colaprete has been the [Principal Investigator (PI)](principal_investigator.md) for several flight projects & instruments, including the LCROSS mission & the Lunar Atmosphere & Dust Environment Explorer (LADEE) Ultraviolet & Visible Spectrometer (UVS). Currently, he is the Project Scientist for the RP mission, PI for the Near InfraRed Volatiles Spectrometer System (NIRVSS) & leads the Ames Flight Instrument Group.

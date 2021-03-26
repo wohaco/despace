@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1994 / …|
 |Contact|<jaime.cordova@wisc.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Кордова, Хайми Адриан Мл.|
-||[![](f/contact/c/cordova1_photo_thumb.jpg)](f/contact/c/cordova1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/c/cordova1_photo_thumb.jpg)](f/contact/c/cordova1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Genetics, Wisconsin Univ.
    - **Exp.:** …

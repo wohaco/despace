@@ -6,7 +6,7 @@
 |B‑day, addr.|1962.05.13 (Канада) / …|
 |Contact|<jlhall@jpl.caltech.edu>, *раб.:* +1(818)354-15-31, Fax: +1(818)393-32-54; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/h/hall1_photo.jpg) [![](f/contact/h/hall1_sign_thumb.jpg)](f/contact/h/hall1_sign.png)|
+| |![](f/contact/h/hall1_photo.jpg) [![](f/contact/h/hall1_sign_thumb.jpg)](f/contact/h/hall1_sign.png)|
 
    - **[Education](edu.md):** PhD & MS, Aeronautics, Caltech. BS, Engineering Science, Toronto Univ.
    - **Exp.:** Senior Engineer at JPL who leads its technology development & mission application efforts in planetary balloons (aerobots). His work includes design of aerobot vehicles & missions, & Earth flight testing of balloons & airships.

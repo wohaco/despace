@@ -6,7 +6,7 @@
 |B‑day, addr.|1983.06.09, на НПОЛ с 2004 / Москва, район Свиблово|
 |Contact|<ilya_lomakin@laspace.ru>, <empirator@gmail.com>, *work:* 36-14, 55-00, +7(495)575-55-00; *mobile:* +7(910)462-48-34|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/l/lomakin1_photo.gif)](f/contact/l/lomakin1_photo.gif) [![](f/contact/l/lomakin1_sign_thumb.jpg)](f/contact/l/lomakin1_sign.png)|
+| |[![](f/contact/l/lomakin1_photo.gif)](f/contact/l/lomakin1_photo.gif) [![](f/contact/l/lomakin1_sign_thumb.jpg)](f/contact/l/lomakin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

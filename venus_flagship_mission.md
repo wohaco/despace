@@ -34,7 +34,7 @@ The original report dates back to 2007.
 |Composition|• 1 orbiter,<br> • 1 carrier (incl. 2 balloons in the clouds, 2 landers)|
 |Contractor|…|
 |Manufacturer|…|
-||**`Orbiter`**|
+| |**`Orbiter`**|
 |Comms|Ka/X‑band (to‑Earth, 52.6 ㎇/day); S‑band (to‑in situ)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
 |Duration|2.5 y (incl. 6 m for transit, 2 y for work)|
@@ -42,7 +42,7 @@ The original report dates back to 2007.
 |Orbit / Site|230 × 230 ㎞|
 |Payload|[SAR](sar.md), spectrometers, magnetomeeters, sounder, oscillator|
 |Power|32 m² solar panels (9 868 W EOL)|
-||**`Carrier`**|
+| |**`Carrier`**|
 |Comms|• carrier: X/S‑band (to‑Earth, to‑in situ), S‑band (to‑in situ)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
 |Duration|• balloons: 30 d in atmosphere;<br> • landers: 5 h on surface + 1 h of descent|
@@ -65,34 +65,34 @@ Targets & objectives:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
-|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
-|EVN‑006|T|Exploration: from surface.|||C||||
-|EVN‑011||Atmosphere: common circulation model.||D|||||
-|EVN‑019||Atmosphere: energetic balance.||D|||||
-|EVN‑020||Inner structure of the planet.||D|||||
-|EVN‑022||Surface: map, precise.||D|||||
-|EVN‑023||Surface: mineralogical composition.|||C||||
-|EVN‑024||Surface: composition.|||C||||
-|EVN‑025||Surface: structure.|||C||||
-|EVN‑026||Surface: elemental composition.|||C||||
-|EVN‑027||The causes why Venus evolved in a planet so different from Earth.||D|C|F|||
-|EVN‑029||Is Venus geologically active?:||D|C|F|||
-|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
-|EVN‑040||Were there oceans & why have they gone||D|C|F|||
-|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
-|EVN‑048||Nature & sources of the greenhouse effect.||D||F|||
-|EVN‑050||Causes of the water loss.||D|||||
-|EVN‑055|T|Atmosphere: sample obtaining & analysis.|||C||||
-|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|||C|||S|
-|EVN‑063|T|Surface: panoramic imaging.|||C||||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.||D|||||
-|EVN‑088|T|Surface: subsurface investigations.|||C||||
-|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
-|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
-|EVN‑095||Climate: history & causes of changes.||D|||||
+|EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
+|EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
+|EVN‑006|T|Exploration: from surface.| | |C| | | |
+|EVN‑011| |Atmosphere: common circulation model.| |D| | | | |
+|EVN‑019| |Atmosphere: energetic balance.| |D| | | | |
+|EVN‑020| |Inner structure of the planet.| |D| | | | |
+|EVN‑022| |Surface: map, precise.| |D| | | | |
+|EVN‑023| |Surface: mineralogical composition.| | |C| | | |
+|EVN‑024| |Surface: composition.| | |C| | | |
+|EVN‑025| |Surface: structure.| | |C| | | |
+|EVN‑026| |Surface: elemental composition.| | |C| | | |
+|EVN‑027| |The causes why Venus evolved in a planet so different from Earth.| |D|C|F| | |
+|EVN‑029| |Is Venus geologically active?:| |D|C|F| | |
+|EVN‑034| |Atmosphere: nature of the superrotation.| |D| | | | |
+|EVN‑040| |Were there oceans & why have they gone| |D|C|F| | |
+|EVN‑041| |Common connection between the atmosphere & the surface.| |D| | | | |
+|EVN‑042| |History & causes of the planet’s volcanic & tectonic evolution.| |D| | | | |
+|EVN‑048| |Nature & sources of the greenhouse effect.| |D| |F| | |
+|EVN‑050| |Causes of the water loss.| |D| | | | |
+|EVN‑055|T|Atmosphere: sample obtaining & analysis.| | |C| | | |
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.| | |C| | |S|
+|EVN‑063|T|Surface: panoramic imaging.| | |C| | | |
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.| |D| | | | |
+|EVN‑088|T|Surface: subsurface investigations.| | |C| | | |
+|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.| |D| | | | |
+|EVN‑093|T|Atmosphere/surface imaging.| |D| |F| | |
+|EVN‑095| |Climate: history & causes of changes.| |D| | | | |
 
 </small>
 
@@ -104,7 +104,7 @@ This study group assessed science goals & investigations, & identified a suitabl
 
 Findings from the report will be used in NASA’s program planning activities & will provide important input to the ongoing NRC Decadal Survey update.
 
-|||
+| | |
 |:--|:--|
 |![](f/project/v/venus_flagship_mission/vfm_01.jpg)|![](f/project/v/venus_flagship_mission/vfm_04.jpg)|
 |![](f/project/v/venus_flagship_mission/vfm_02.jpg)|![](f/project/v/venus_flagship_mission/vfm_03.png)|
@@ -206,7 +206,7 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science drivi
 |Sub‑mm Sounder|Vis‑NIR camera|Magnetometer|Passive Gamma Ray Detector|
 |Magnetometer|Magnetometer|Net Flux Radiometer|Sample acquisition, transfer, & preparation|
 |Langmuir Probe|Radio tracking|Nephelometer|Drill to ~10 ㎝|
-|Radio Subsystem (USO — Ultra Stable Oscillator)|||Microwave Corner reflector|
+|Radio Subsystem (USO — Ultra Stable Oscillator)| | |Microwave Corner reflector|
 
 
 
@@ -376,7 +376,7 @@ For further details, see:   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do
 
 **Galileo Venus Fly‑by**
 
-Galileo was launched on October 18, 1989, aboard space shuttle Atlantis. To achieve sufficient velocity to reach Jupiter directly, the trajectory design included Venus‑Earth‑Earth gravity assist (swingby) scheme. The Venus gravity assist fly‑by occurred on February 9 ‑ 10, 1990, at a distance of 16 000 ㎞ above the cloudtops. Although the sole objective of this fly‑by was to pump up Galileo’s orbit, scientists used this opportunity to turn the spacecraft’s planetary sensors on the cloud‑shrouded planet, in order to study its atmosphere & environment. The scientific data was stored on the spacecraft tape recorder until late October, 1990, when Galileo was close enough to Earth to play them back over its low‑gain antenna. The Venus observations were selected on the basis of (1) not risking Jupiter observations in the 1995 ‑ 1997 Jovian orbital phase, (2) not exceeding the capacity of the tape, & (3) getting the best new scientific information about Venus.
+Galileo was launched on October 18, 1989, aboard space shuttle Atlantis. To achieve sufficient velocity to reach Jupiter directly, the trajectory design included Venus‑Earth‑Earth gravity assist (swingby) scheme. The Venus gravity assist fly‑by occurred on February 9 ‑ 10, 1990, at a distance of 16 000 ㎞ above the cloudtops. Although the sole objective of this fly‑by was to pump up Galileo’s orbit, scientists used this opportunity to turn the spacecraft’s planetary sensors on the cloud‑shrouded planet, in order to study its atmosphere & environment. The scientific data was stored on the spacecraft tape recorder until late October, 1990, when Galileo was close enough to Earth to play them back over its low‑gain antenna. The Venus observations were selected on the basis of ➀ not risking Jupiter observations in the 1995 ‑ 1997 Jovian orbital phase, ➁ not exceeding the capacity of the tape, & ➂ getting the best new scientific information about Venus.
 
 Details on the Galileo mission can be found at <http://www2.jpl.nasa.gov/galileo/>
 
@@ -575,7 +575,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 **Study Team — All**
 
-|*Photo*|*Bio*||*Photo*|*Bio*|
+|*Photo*|*Bio*| |*Photo*|*Bio*|
 |:--|:--|:--|:--|:--|
 |![](f/project/v/venus_flagship_mission/person_balint.jpg)|**[Tibor S. Balint](zz_balint1.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_bullock.jpg)|**[Mark A. Bullock](zz_bullock1.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu>|
 |![](f/project/v/venus_flagship_mission/person_cutts.jpg)|**[James A. Cutts](zz_cutts1.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_grinspoon.jpg)|**[David H. Grinspoon](zz_grinspoon1.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org>|
@@ -591,7 +591,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

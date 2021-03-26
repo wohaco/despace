@@ -43,7 +43,7 @@ With its headquarters in Singapore, a Research & Development facility in Tokyo &
 
 |*Date*|*Description*|
 |:--|:--|
-|2020 TBA|ELSA-d Launch. The Space Sweepers team work toward the launch of ELSA-d, a pioneering mission in the debris removal landscape.|
+|2021 TBA|ELSA-d Launch. The Space Sweepers team work toward the launch of ELSA-d, a pioneering mission in the debris removal landscape.|
 |2020.06.03|Enters the GEO Satellite Life Extension Market. Astroscale U.S. announces it will acquire the intellectual property & other assets & to hire members of the staff of Effective Space Solutions, an Israeli satellite life-extension & servicing company. These moves make Astroscale the only company solely dedicated to on-orbit services across low-earth & geostationary orbits.|
 |2020.02.12|Astroscale Selected as Partner for JAXA’s Commercial Removal of Debris Demonstration Project. The 1st mission phase which has been awarded to Astroscale, will be demonstrated by the end of the JP Fiscal Year 2022 & will focus on data acquisition on an upper stage JP rocket body.|
 |2018.12.12|Astroscale Enters Technical Cooperation with ESA. Astroscale & ESA agree to exchange data & expertise related to space debris collision avoidance, environmental monitoring of debris & the development of monitoring techniques.|

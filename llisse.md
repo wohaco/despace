@@ -31,23 +31,23 @@
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑006|T|Exploration: from surface.|||C||||
-|EVN‑007||Atmosphere: connection between the topography & the atmo circulation.||D|||||
-|EVN‑010||Atmosphere: vertical model.||D|||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
-|EVN‑014||Atmosphere: composition.||D|||F||
-|EVN‑019||Atmosphere: energetic balance.||D|||||
-|EVN‑025||Surface: structure.|||C||||
-|EVN‑026||Surface: elemental composition.|||C||||
-|EVN‑031||Atmosphere: long‑term variations of the surface meteo characteristics.||D|||||
-|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
-|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
-|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|||C||||
-|EVN‑058|T|Exploration: directed seismoexperiment.||D||F|||
-|EVN‑069|T|Prolonged surface‑spacecraft functioning.|||C||||
-|EVN‑089||Measuring the planetary gravitational field.||D||F|||
-|EVN‑094|T|High temperature electronics.||D|C|F|||
-|EVN‑095||Climate: history & causes of changes.||D|||||
+|EVN‑006|T|Exploration: from surface.| | |C| | | |
+|EVN‑007| |Atmosphere: connection between the topography & the atmo circulation.| |D| | | | |
+|EVN‑010| |Atmosphere: vertical model.| |D| | | | |
+|EVN‑013| |Atmosphere: illumination of the surface & the atmo layers.| |D| | | | |
+|EVN‑014| |Atmosphere: composition.| |D| | |F| |
+|EVN‑019| |Atmosphere: energetic balance.| |D| | | | |
+|EVN‑025| |Surface: structure.| | |C| | | |
+|EVN‑026| |Surface: elemental composition.| | |C| | | |
+|EVN‑031| |Atmosphere: long‑term variations of the surface meteo characteristics.| |D| | | | |
+|EVN‑034| |Atmosphere: nature of the superrotation.| |D| | | | |
+|EVN‑041| |Common connection between the atmosphere & the surface.| |D| | | | |
+|EVN‑044| |Surface: nature & causes of forming of the current rocks & soils.| | |C| | | |
+|EVN‑058|T|Exploration: directed seismoexperiment.| |D| |F| | |
+|EVN‑069|T|Prolonged surface‑spacecraft functioning.| | |C| | | |
+|EVN‑089| |Measuring the planetary gravitational field.| |D| |F| | |
+|EVN‑094|T|High temperature electronics.| |D|C|F| | |
+|EVN‑095| |Climate: history & causes of changes.| |D| | | | |
 
 </small>
 
@@ -64,7 +64,7 @@ Demonstration full performance for the desired life is expected to occur in the 
 
 Current LLISSE development scope does not include vibration or shock testing; however, LLISSE is being designed to successfully pass those and other relevant tests once the launch and other environments are known.
 
-In the recommended baseline mission, LLISSE serves as a companion to Venera-D in that (1) Venera-D will include a long-duration orbiter, which will perform the necessary data relay functionality, and (2) Venera-D will include a main lander, which will serve as host to help deliver the small LLISSE probes to the Venus surface. The main Venera-D lander will have sophisticated instruments and sensors that can complete their mission in ~2 hr. Inclusion of a contributed LLISSE probe will allow for continued weather and chemical species variability data to be collected at that site for three months, and thus enhancing the science in a unique way.
+In the recommended baseline mission, LLISSE serves as a companion to Venera-D in that ➀ Venera-D will include a long-duration orbiter, which will perform the necessary data relay functionality, and ➁ Venera-D will include a main lander, which will serve as host to help deliver the small LLISSE probes to the Venus surface. The main Venera-D lander will have sophisticated instruments and sensors that can complete their mission in ~2 hr. Inclusion of a contributed LLISSE probe will allow for continued weather and chemical species variability data to be collected at that site for three months, and thus enhancing the science in a unique way.
 
 The remarkable operating life of LLISSE is enabled by three key elements, namely:
 
@@ -135,7 +135,7 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 |*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 ㎜ station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
-|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 ㎜ station|<0.2|—|—|High|5|3||
+|☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 ㎜ station|<0.2|—|—|High|5|3| |
 
 </small>
 
@@ -151,7 +151,7 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<tag@kiam1.rssi.ru>, *work:* +7(495)333-80-67; *mobile:* +7(915)326-66-92|
 |i18n|Tuchin, Andrey Georgievich|
-||[![](f/contact/t/tuchin1_photo_thumb.jpg)](f/contact/t/tuchin1_photo.jpg) [![](f/contact/t/tuchin1_sign_thumb.jpg)](f/contact/t/tuchin1_sign.png)|
+| |[![](f/contact/t/tuchin1_photo_thumb.jpg)](f/contact/t/tuchin1_photo.jpg) [![](f/contact/t/tuchin1_sign_thumb.jpg)](f/contact/t/tuchin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

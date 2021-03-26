@@ -6,31 +6,31 @@
 <small>
 |*•    Характеристика    •*|*[Значение](si.md) (…)*|
 |:--|:--|
-|[TRL](trl.md)||
-|Время опознавания, с||
-|Вых. информация||
-|Допуст. угл. скор., °/с||
-|Запаздывание, с, ≤||
-|Исполнение||
-|Объектив||
-|Поле зрения, °||
-|Режим готовности||
-|Точность||
-|Частота обновл., Гц||
-|Яркость фона, кд/m²||
+|[TRL](trl.md)| |
+|Время опознавания, с| |
+|Вых. информация| |
+|Допуст. угл. скор., °/с| |
+|Запаздывание, с, ≤| |
+|Исполнение| |
+|Объектив| |
+|Поле зрения, °| |
+|Режим готовности| |
+|Точность| |
+|Частота обновл., Гц| |
+|Яркость фона, кд/m²| |
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС||
-|Dimensions, L×W×H, mm||
-|Интерфейсы||
-|Mass, kg||
-|[Voltage](voltage.md), V||
-|Overload, g||
-|[Rad.resist](ion_rad.md), Gy (rad)||
-|Resource, h (y)||
-|[Lifetime](lifetime.md), h (y)||
-|[Temp. range](tcs.md), ℃||
-|Consumption, W||
-||[![](f/sensor/_pic1_thumb.jpg)](f/sensor/_pic1.png)|
+|[ВБР](srrq.md) за САС| |
+|Dimensions, L×W×H, mm| |
+|Интерфейсы| |
+|Mass, kg| |
+|[Voltage](voltage.md), V| |
+|Overload, g| |
+|[Rad.resist](ion_rad.md), Gy (rad)| |
+|Resource, h (y)| |
+|[Lifetime](lifetime.md), h (y)| |
+|[Temp. range](tcs.md), ℃| |
+|Consumption, W| |
+| |[![](f/sensor/_pic1_thumb.jpg)](f/sensor/_pic1.png)|
 
 </small>
 

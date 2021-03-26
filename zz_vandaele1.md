@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1960 - … / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/v/vandaele1_photo_thumb.jpg)](f/contact/v/vandaele1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/v/vandaele1_photo_thumb.jpg)](f/contact/v/vandaele1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** Dr. Ir., Engineering, Université libre de Bruxelles, 1990.
    - **Exp.:** Belgian Institute for Space Aeronomy, Head of Planetary Aeronomy Group, 2006 ‑ Present: Head of a group of 10 persons dealing with different aspects of planetary sciences: design of instruments for space applications, data analysis & interpretation, modeling , etc. Senior Researcher, 1991 ‑ Present; Radiative transfer in planetary atmospheres - laboratory measurement of spectroscopic parameters IR, UV) - designing instruments. Société Royale belge d'Astronomie, de Météorologie et de Physique du Globe, Chief redactor, 2004 ‑ Present; Making sure that the Bulletin of the Society gets out on time!

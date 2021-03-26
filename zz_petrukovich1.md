@@ -6,7 +6,7 @@
 |B‑day, addr.|1967.08.29 / …|
 |Contact|<a.petrukovich@cosmos.ru>, <apetruko@iki.rssi.ru>, *раб.:* +7(495)3333-267; *mobile:* +7(915)007-03-99|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/p/petrukovich1_animated.gif) [![](f/contact/p/petrukovich1_sign_thumb.jpg)](f/contact/p/petrukovich1_sign.png)|
+| |![](f/contact/p/petrukovich1_animated.gif) [![](f/contact/p/petrukovich1_sign_thumb.jpg)](f/contact/p/petrukovich1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<elshanskiy.lb@roscosmos.ru>, *раб.:* +7(495)631-91-22; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/e/elshanskiy1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/e/elshanskiy1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

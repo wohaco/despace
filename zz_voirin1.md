@@ -6,7 +6,7 @@
 |B‑day, addr.|1978.01.23 / …|
 |Contact|<Thomas.Voirin@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/v/voirin1_photo_thumb.jpg)](f/contact/v/voirin1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/v/voirin1_photo_thumb.jpg)](f/contact/v/voirin1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

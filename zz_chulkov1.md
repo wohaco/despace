@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<chulkov@cosmos.ru>, *раб.:* +7(495)333-44-12, Fax: +7(495)913-30-40; *mobile:* +7(916)127-77-19|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/c/chulkov1_animated.gif)|
+| |![](f/contact/c/chulkov1_animated.gif)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

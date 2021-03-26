@@ -48,21 +48,21 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑001||Atmosphere: preliminary model||C|D|F|||
-|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
-|EVN‑006|T|Exploration: from surface.|||C||||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.||D|||||
-|EVN‑011||Atmosphere: common circulation model.||D|||||
-|EVN‑012||Atmosphere: lightnings.||D|||||
-|EVN‑013||Atmosphere: illumination of the surface & the atmo layers.||D|||||
-|EVN‑018||Atmosphere: clouds, their chemistry.||D||F|||
-|EVN‑026||Surface: elemental composition.|||C||||
-|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
-|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.|||C|||S|
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
-|EVN‑074||Meteorological model.||D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
-|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.||D|||||
+|EVN‑001| |Atmosphere: preliminary model| |C|D|F| | |
+|EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
+|EVN‑006|T|Exploration: from surface.| | |C| | | |
+|EVN‑009| |Atmosphere: SO₂ concentration & nature of its variations.| |D| | | | |
+|EVN‑011| |Atmosphere: common circulation model.| |D| | | | |
+|EVN‑012| |Atmosphere: lightnings.| |D| | | | |
+|EVN‑013| |Atmosphere: illumination of the surface & the atmo layers.| |D| | | | |
+|EVN‑018| |Atmosphere: clouds, their chemistry.| |D| |F| | |
+|EVN‑026| |Surface: elemental composition.| | |C| | | |
+|EVN‑034| |Atmosphere: nature of the superrotation.| |D| | | | |
+|EVN‑062|T|Surface: samples obtaining & analysis, incl. in different places.| | |C| | |S|
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
+|EVN‑074| |Meteorological model.| |D| |F| | |
+|EVN‑077| |Atmosphere: chemical elements distribution.| |D| |F| | |
+|EVN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.| |D| | | | |
 
 </small>
 
@@ -226,7 +226,7 @@ The aerostat’s electronics provided unidirectional communication with the Eart
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

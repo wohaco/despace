@@ -53,27 +53,27 @@ Original of NASA’s report: 2009.12.18 ([GSFC](zz_gsfc.md), [JPL](zz_jpl.md), [
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑003|T|Exploration: from inside of atmosphere.||D|C||||
-|EVN‑006|T|Exploration: from surface.|||C||||
-|EVN‑010||Atmosphere: vertical model.||D|||||
-|EVN‑022||Surface: map, precise.||D|||||
-|EVN‑023||Surface: mineralogical composition.|||C||||
-|EVN‑026||Surface: elemental composition.|||C||||
-|EVN‑028||Magnetosphere structure.||D||F|||
-|EVN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.|Ac, Ai, Am, At|D|||||
-|EVN‑040||Were there oceans & why have they gone||D|C|F|||
-|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
-|EVN‑044||Surface: nature & causes of forming of the current rocks & soils.|||C||||
-|EVN‑052||Role of water (fluids) in planetary geology.||D|C|F|||
-|EVN‑055|T|Atmosphere: sample obtaining & analysis.|||C||||
-|EVN‑068|T|Precise landing||C|||||
-|EVN‑074||Meteorological model.||D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
-|EVN‑085|T|Surface: tessera investigations, remote||D||F|||
-|EVN‑086|T|Surface: tessera investigations, in‑situ|||C||||
-|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.||D|||||
-|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
+|EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
+|EVN‑006|T|Exploration: from surface.| | |C| | | |
+|EVN‑010| |Atmosphere: vertical model.| |D| | | | |
+|EVN‑022| |Surface: map, precise.| |D| | | | |
+|EVN‑023| |Surface: mineralogical composition.| | |C| | | |
+|EVN‑026| |Surface: elemental composition.| | |C| | | |
+|EVN‑028| |Magnetosphere structure.| |D| |F| | |
+|EVN‑032| |Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.|Ac, Ai, Am, At|D| | | | |
+|EVN‑040| |Were there oceans & why have they gone| |D|C|F| | |
+|EVN‑041| |Common connection between the atmosphere & the surface.| |D| | | | |
+|EVN‑042| |History & causes of the planet’s volcanic & tectonic evolution.| |D| | | | |
+|EVN‑044| |Surface: nature & causes of forming of the current rocks & soils.| | |C| | | |
+|EVN‑052| |Role of water (fluids) in planetary geology.| |D|C|F| | |
+|EVN‑055|T|Atmosphere: sample obtaining & analysis.| | |C| | | |
+|EVN‑068|T|Precise landing| |C| | | | |
+|EVN‑074| |Meteorological model.| |D| |F| | |
+|EVN‑077| |Atmosphere: chemical elements distribution.| |D| |F| | |
+|EVN‑085|T|Surface: tessera investigations, remote| |D| |F| | |
+|EVN‑086|T|Surface: tessera investigations, in‑situ| | |C| | | |
+|EVN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments.| |D| | | | |
+|EVN‑093|T|Atmosphere/surface imaging.| |D| |F| | |
 
 </small>
 
@@ -135,7 +135,7 @@ VME’s primary science objectives are a subset of those defined by VEXAG and ar
 
 Instrument Resource Summary – the instruments in this table represent a notional instrument payload and to the extent possible, existing or proposed instruments were selected for which resources are known or have already been estimated. With the exception of the SAM heritage instruments, there is a substantial uncertainty associated with these numbers.
 
-||*Mass (kg)*|*Power (watts)*|*Volume (cm)*|*Data Volume*|*TRL/Heritage*|*Description*|
+| |*Mass (kg)*|*Power (watts)*|*Volume (cm)*|*Data Volume*|*TRL/Heritage*|*Description*|
 |:--|:--|:--|:--|:--|:--|:--|
 |Neutral Mass Spectrometer (NMS)|11|50|26 x 16 x 19|2 kbps|6-7 MSL/SAM|Provides in situ measurement of noble gas isotopes and multiple trace gas mixing ratios. The instrument consists of three modules: an ion source to convert gas phase sample molecules into ions; a mass analyzer, which applies electromagnetic fields to sort the ions by mass; and a detector, which measures the abundance of each ion present.|
 |Tunable Laser Spectrometer (TLS)|4.5|17|25 x 10 x 10|3.4 kbps|6-7 MSL/SAM|Measures trace gases, including multiple isotopes of sulfur and hydrogen-bearing species. The TLS measures the Deuterium/Hydrogen ratio in atmospheric water via measurement of molecular line parameters for infrared molecular absorption lines. Utilizing extremely small tunable laser spectrometers with room-temperature laser detector arrays in a Herriott cell configuration, TLS provides multi-wavelength in situ measurements of the Venusian atmosphere.|
@@ -198,7 +198,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 |░░░░░╙ Other|34|30|44|
 |**Satellite (SC+Probe) Dry**|**3 112**|**29**|**4 021**|
 |**Satellite Wet**|**3 478**|**26**|**4 390**|
-|LV throw mass|||5 141|
+|LV throw mass| | |5 141|
 
 **Radiolink**
 
@@ -231,7 +231,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

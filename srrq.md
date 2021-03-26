@@ -26,13 +26,13 @@
 
 |<small>*Этап*</small>|<small>*Наим. документа*</small>|<small>*Разраб.*</small>|<small>*Согл.*</small>|<small>*Утвер.*</small>|<small>*Основание*</small>|
 |:--|:--|:--|:--|:--|:--|
-|[НИР](rnd_0.md)|—|—|—|—||
-|[АП](rnd_ap.md)|Предварительная ПОБ|Исполнитель.|Исполнитель.|Исполнитель.||
-|[ЭП](rnd_ep.md)|ПОБ|Исполнитель.|Исполнитель.|Исполнитель.||
-|[ТП](rnd_tp.md)||||||
-|[РКД](ркд.md)||||||
-|[НЭО](rnd_neo.md)||||||
-|[ЛИ](rnd_e.md)||||||
+|[НИР](rnd_0.md)|—|—|—|—| |
+|[АП](rnd_ap.md)|Предварительная ПОБ|Исполнитель.|Исполнитель.|Исполнитель.| |
+|[ЭП](rnd_ep.md)|ПОБ|Исполнитель.|Исполнитель.|Исполнитель.| |
+|[ТП](rnd_tp.md)| | | | | |
+|[РКД](ркд.md)| | | | | |
+|[НЭО](rnd_neo.md)| | | | | |
+|[ЛИ](rnd_e.md)| | | | | |
 
 
 
@@ -97,11 +97,11 @@ t — САС (ч)
 |<small>*Этап*</small>|<small>*Наим. документа*</small>|<small>*Разраб.*</small>|<small>*Согл.*</small>|<small>*Утвер.*</small>|<small>*Основание*</small>|
 |:--|:--|:--|:--|:--|:--|
 |[НИР](rnd_0.md)|—|—|—|—|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2.</small>|
-|[АП](rnd_ap.md)|Предварительная ПОН||||<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2.</small>|
+|[АП](rnd_ap.md)|Предварительная ПОН| | | |<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2.</small>|
 |[ЭП](rnd_ep.md)|ПОНр|Исполнитель.|ГИ.|Исполнитель.|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2., [ГОСТ 15.203](гост_15_203.md) т.А.2 п.7.</small>|
-|[ТП](rnd_tp.md)|ПОНр <small>(корректировка)</small>||||<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2.</small>|
-|[РКД](ркд.md)|ПОНп||||<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.5.2.</small>|
-|[НЭО](rnd_neo.md)|ПОНэ <small>(при необходимости)</small>||||<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.5.3.</small>|
+|[ТП](rnd_tp.md)|ПОНр <small>(корректировка)</small>| | | |<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2.</small>|
+|[РКД](ркд.md)|ПОНп| | | |<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.5.2.</small>|
+|[НЭО](rnd_neo.md)|ПОНэ <small>(при необходимости)</small>| | | |<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.5.3.</small>|
 |[ЛИ](rnd_e.md)|—|—|—|—|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2.</small>|
 
 **Оценка стоимости документа.**  
@@ -174,18 +174,42 @@ t — САС (ч)
 |:--|:--|:--|:--|:--|:--|
 |[НИР](rnd_0.md)|—|—|—|—|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.</small>|
 |[АП](rnd_ap.md)|—|—|—|—|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.</small>|
-|[ЭП](rnd_ep.md)|Расчёт надёжности||||<small>Опыт работы с [ЦНИИмаш](zz_tsniimash.md).</small>|
-|[ТП](rnd_tp.md)|Расчёт надёжности||||<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.3.</small>|
+|[ЭП](rnd_ep.md)|Расчёт надёжности| | | |<small>Опыт работы с [ЦНИИмаш](zz_tsniimash.md).</small>|
+|[ТП](rnd_tp.md)|Расчёт надёжности| | | |<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.3.</small>|
 |[РКД](ркд.md)|—|—|—|—|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.</small>|
 |[НЭО](rnd_neo.md)|—|—|—|—|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.</small>|
 |[ЛИ](rnd_e.md)|—|—|—|—|<small>[ГОСТ 20.39.302](гост_20_39_302.md) п.6.</small>|
 
 Формулы:
 
-   - Пересчёта имеющегося времени 1 и ВБР 1 в целевое время 2 и искомый ВБР 2:<br>**ВБР2 = EXP( (время2/время1) \* LN(ВБР1) )**
+   - Пересчёта имеющегося времени 1 и ВБР 1 в целевое время 2 и искомый ВБР 2:<br>**ВБР2 = EXP((время2/время1) × LN(ВБР1))**
 
 **Оценка стоимости документа.** Расчёт надёжности оценивается по [тарифу №2](zz_lav.md).
+
    1. <mark>TBD</mark>
+
+
+
+### Redundancy
+In engineering, **redundancy** is the duplication of critical components or functions of a system with the intention of increasing reliability of the system, usually in the form of a backup or fail‑safe, or to improve actual system performance, such as in the case of GNSS receivers, or multi‑threaded computer processing.
+
+In many safety‑critical systems, such as fly‑by‑wire and hydraulic systems in aircraft, some parts of the control system may be triplicated, which is formally termed triple modular redundancy (TMR). An error in one component may then be out‑voted by the other two. In a triply redundant system, the system has three sub components, all three of which must fail before the system fails. Since each one rarely fails, and the sub components are expected to fail independently, the probability of all three failing is calculated to be extraordinarily small; often outweighed by other risk factors, such as human error. Redundancy may also be known by the terms “majority voting systems” or “voting logic”.
+
+Redundancy sometimes produces less, instead of greater reliability — it creates a more complex system which is prone to various issues, it may lead to human neglect of duty, and may lead to higher production demands which by overstressing the system may make it less safe.
+
+**Резерви́рование** — это метод повышения надёжности систем, объектов. Основные виды резервирования:
+
+   - Аппаратное резервирование, например, дублирование.
+   - Информационное резервирование, например — методы обнаружения и коррекции ошибок.
+   - Временное резервирование, например, методы альтернативной логики.
+   - Программное резервирование, применение независимых функционально равноценных программ.
+
+**Резервирование в технике** — метод повышения характеристик надёжности технических устройств или поддержания их на требуемом уровне посредством введения аппаратной избыточности за счёт включения запасных (резервных) элементов и связей, дополнительных по сравнению с минимально необходимым для выполнения заданных функций в данных условиях работы. По состоянию резервных элементов до момента включения их в работу различают:
+
+   - нагруженный (горячий) резерв — резервные элементы нагружены так же, как и основные;
+   - облегчённый (ждущий) резерв — резервные элементы нагружены меньше, чем основные;
+   - ненагруженный (холодный) резерв — резервные элементы практически не несут нагрузки.
+
 
 
 <p style="page-break-after:always"> </p>
@@ -193,7 +217,7 @@ t — САС (ч)
 ## Risk
 > <small>**Риск** — русскоязычный термин. **Risk** — англоязычный эквивалент.</small>
 
-**Риск** *(от лат. resecō — «отсекать», «сокращать» или др.-греч. ῥιζικόν — «опасность»)* — сочетание вероятности и последствий наступления неблагоприятных событий.
+**Риск** *(от лат. resecō — «отсекать», «сокращать» или др.‑греч. ῥιζικόν — «опасность»)* — сочетание вероятности и последствий наступления неблагоприятных событий.
 
    - **Анализ рисков** — процедуры выявления факторов рисков и оценки их значимости; по сути, анализ вероятности того, что произойдут определённые нежелательные события и отрицательно повлияют на достижение целей проекта. Анализ включает оценку рисков и методы снижения рисков или уменьшения связанных с ним неблагоприятных последствий.
    - **Оценка рисков** — определение количественным/качественным способом величины (степени) рисков.
@@ -215,32 +239,32 @@ t — САС (ч)
 
 ### Возможные риски КК и КА
 
-**Основные:**
+**Main:**
 
-   1. Installation timing and accessibility
-   1. Vibration effects
-   1. G‑loads
-   1. Manufacturing for Flight
-   1. Converter performance
-   1. Efficiency Tradeoffs
    1. Design Requirements/Constraints
-   1. Failure impacts to operations
-   1. Power interruptions/failures
-   1. Mass
    1. Communications
-   1. Schedule/timeline
-   1. Material composition
-   1. Conversion
    1. Compatibility
+   1. Conversion
+   1. Converter performance
+   1. Deviate from goals
+   1. Effects of waste heat
+   1. Efficiency Tradeoffs
+   1. Environments
+   1. Failure impacts to operations
+   1. G‑loads
    1. Heat transfer
+   1. Installation timing and accessibility
    1. Integration
    1. Load tolerance
-   1. Effects of waste heat
-   1. Deviate from goals
+   1. Manufacturing for Flight
+   1. Mass
+   1. Material composition
    1. Mission objective tradeoff
-   1. Environments
+   1. Power interruptions/failures
+   1. Schedule/timeline
+   1. Vibration effects
 
-**Второстепенные:**
+**Secondary:**
 
    1. Unrealistic schedule estimates or allocation
    1. Unrealistic cost estimates or budget allocation
@@ -361,10 +385,10 @@ t — САС (ч)
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Безопасность:`**<br> [NFPA 704](nfpa_704.md) ┊ [Класс опасности](danger_goods.md) ┊ [Класс чистоты](clean_lvl.md)|
-|**`Качество:`**<br> [Bus factor](bus_factor.md) ┊ [АВПКО](fmeca.md) ┊ [Авторский надзор](des_spv.md) ┊ [Бережливое производство](lean_man.md) ┊ [Валидация](validation.md) ┊ [Верификация](verification.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Конструктивное совершенство](con_vel.md) ┊ [Крит. технологии](kt.md) ┊ [Крит. элементы](sens_elem.md) ┊ [Метрология](metrology.md) ┊ [Надёжность](srrq.md) ┊ [Нештатная ситуация](emergency.md) ┊ [Ошибки](error.md) ┊ [Система менеджмента качества](qms.md) ┊ [УГТ](trl.md)/[TRL](trl.md)|
+|**`Качество:`**<br> [Bus factor](bus_factor.md) ┊ [АВПКО](fmeca.md) ┊ [Авторский надзор](des_spv.md) ┊ [Бережливое производство](lean_man.md) ┊ [Валидация, верификация](val_ver.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Конструктивное совершенство](con_vel.md) ┊ [Крит. технологии](kt.md) ┊ [Крит. элементы](sens_elem.md) ┊ [Метрология](metrology.md) ┊ [Надёжность](srrq.md) ┊ [Нештатная ситуация](emergency.md) ┊ [Ошибки](error.md) ┊ [Система менеджмента качества](qms.md) ┊ [УГТ](trl.md)/[TRL](trl.md)|
 |**`Риск:`**<br> [Критичные элементы](sens_elem.md)|
 
    1. Docs:
@@ -388,3 +412,4 @@ t — САС (ч)
    1. 2018.11.10 [Хабр: Управление рисками — почему процедуры так редко работают?:](https://habr.com/ru/post/429356/) — [archive ❐](f/archive/20181110_1.pdf) of 2019.04.22
    1. 2009.03.22 [Хабр: Немного теории об управлении рисками ⎆](https://habr.com/ru/post/55105/) — [archive ❐](f/archive/20090322_1.pdf) of 2019.01.30
    1. <https://studme.org/1970070521055/menedzhment/klassifikatsiya_proektnyh_riskov>
+   1. <https://en.wikipedia.org/wiki/Redundancy_(engineering)>

@@ -6,7 +6,7 @@
 |B‑day, addr.|1932.12.26 Москва, СССР / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Sagdeev, Roald Zinnurovich|
-||[![](f/contact/s/sagdeev1_photo_thumb.jpg)](f/contact/s/sagdeev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/s/sagdeev1_photo_thumb.jpg)](f/contact/s/sagdeev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** Академик РАН (1991, академик АН СССР с 1968 года, член‑корреспондент АН СССР с 1964 года). Доктор физико‑математических наук.
    - **Exp.:** С 1973 по 1988 годы был директором Института космических исследований АН СССР. Занял эту должность как ведущий специалист страны в области физики плазмы. Затем — руководителем научно‑методического центра аналитических исследований Института, главным научным сотрудником. Профессор, директор Центра «Восток‑Запад» Университета штата Мэриленд, США, эксперт НАСА, член Наблюдательного совета Международного Люксембургского форума по предотвращению ядерной катастрофы.

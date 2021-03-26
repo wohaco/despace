@@ -17,7 +17,7 @@
 
 <p style="page-break-after:always"> </p>
 
-|||
+| | |
 |:--|:--|
 |[![](f/contact/n/northrop_grumman_usaf_b_2_spirit_thumb.jpg)](f/contact/n/northrop_grumman_usaf_b_2_spirit.jpg)|[![](f/contact/n/northrop_grumman_small_usps_truck_thumb.jpg)](f/contact/n/northrop_grumman_small_usps_truck.jpg)|
 |Northrop Grumman manufactured<br> the B-2 Spirit strategic bomber.|Grumman Long Life Vehicle (LLV)|

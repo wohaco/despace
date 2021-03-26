@@ -6,7 +6,7 @@
 |B‑day, addr.|1952.10.27, на НПОЛ с 1970 / …|
 |Contact|<gavrilin@laspace.ru>, *work:* 45-96, 53-01, +7(495)575-53-01; *mobile:* +7(903)112-22-28|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/g/gavrilin1_photo_thumb.jpg)](f/contact/g/gavrilin1_photo.jpg) [![](f/contact/g/gavrilin1_sign_thumb.jpg)](f/contact/g/gavrilin1_sign.png)|
+| |[![](f/contact/g/gavrilin1_photo_thumb.jpg)](f/contact/g/gavrilin1_photo.jpg) [![](f/contact/g/gavrilin1_sign_thumb.jpg)](f/contact/g/gavrilin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

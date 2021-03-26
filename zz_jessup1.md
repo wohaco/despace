@@ -6,7 +6,7 @@
 |B‑day, addr.|1970.11.23 (США, штат Мэриленд) / …|
 |Contact|<kandislea.jessup@swri.org>, <knasaven@gmail.com>, *раб.:* +1(720)240-01-18, Fax: +1(303)546-96-70; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/j/jessup1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/j/jessup1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Astrophysics.

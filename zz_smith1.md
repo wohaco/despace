@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1986 / …|
 |Contact|<david.j.smith-3@nasa.gov>, *раб.:* +1(650)604-48-19; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/s/smith1_photo_thumb.jpg)](f/contact/s/smith1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/s/smith1_photo_thumb.jpg)](f/contact/s/smith1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biology & Astrobiology, Washington Univ., 2012. BA, Ecological & Evolutionary Biology, Princeton Univ., 2007.
    - **Exp.:** Researcher & project scientist who studies microbial dispersal with traditional & molecular methods. At Kennedy Space Center, he gained ground- & spaceflight-based project experience with NASA instruments & payloads in the space shuttle, International Space Station, & Reduced Gravity Research Programs. More recently, he led the design, construction, & validation of a novel NASA Planetary Protection payload (E-MIST) that was flown twice by the NASA Balloon Program. Skills & Expertise: Microbiology, Microbial Molecular Biology, Environmental Microbiology, Microbial Ecology, Bacteria, Atmosphere, Fungi, Microbial Diversity, Aerosols, Atmospheric Modeling, Microorganisms, Bacillus, Bacterial Cells, Microbiological Methods, Aerobiology, Extreme Environments.

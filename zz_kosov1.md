@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<akosov@iki.rssi.ru>, *раб.:* +7(495)333-22-67; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/k/kosov1_photo.jpg) ![](f/contact/k/kosov1_sign.png)|
+| |![](f/contact/k/kosov1_photo.jpg) ![](f/contact/k/kosov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<theshire@umich.edu>, *раб.:* +1(734)647-35-40; *mobile:* +1(626)818-92-93|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/p/parkinson1_photo_thumb.jpg)](f/contact/p/parkinson1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/p/parkinson1_photo_thumb.jpg)](f/contact/p/parkinson1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Earth & Space Science, York University, Toronto. Thesis: Photochemistry & radiative transfer studies in the atmospheres of Jupiter & Saturn (<http://www.gps.caltech.edu/~cdp/> Thesis). M.Sc., Earth & Space Science, York University, Toronto. Thesis: On approximating positive solutions to some nonlinear integro-differential equations. HBSc, Science, York University, Toronto.
    - **Exp.:** …

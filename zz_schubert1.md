@@ -6,7 +6,7 @@
 |B‑day, addr.|1939.03.02 New York, US / …|
 |Contact|<schubert@ucla.edu>, *work:* +1(310)825-45-77; *mobile:* +1(310)825-27-79|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/s/schubert1_photo_thumb.jpg)](f/contact/s/schubert1_photo.jpg) [![](f/contact/s/schubert1_sign_thumb.jpg)](f/contact/s/schubert1_sign.png)|
+| |[![](f/contact/s/schubert1_photo_thumb.jpg)](f/contact/s/schubert1_photo.jpg) [![](f/contact/s/schubert1_sign_thumb.jpg)](f/contact/s/schubert1_sign.png)|
 
    - **[Education](edu.md):** PhD, Engineering Aeronautical Sciences, California Univ., Berkeley, 1964. MS, Aeronautical Engineering, Cornell Univ., 1961. BS, Engineering Physics & M.S. in Aeronautical Engineering, Cornell University, 1961.
    - **Exp.:** Research interests: Physics of Earth & Planets, Dynamics of Planetary Interiors & Atmosphere, Evolution of Earth & Planets, Mantle Convection, Magnetic Fields of Earth & Planets, Planetary Dynamos & Geodynamo.

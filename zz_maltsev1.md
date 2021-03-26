@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* +7(499)427-07-25; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/m/malcev1_sign_thumb.jpg)](f/contact/m/malcev1_sign.png)|
+| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/m/malcev1_sign_thumb.jpg)](f/contact/m/malcev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

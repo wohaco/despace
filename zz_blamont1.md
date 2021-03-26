@@ -6,7 +6,7 @@
 |B‑day, addr.|1926.10.13 Paris, FR / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Бламон, Жак|
-||[![](f/contact/b/blamont1_photo_thumb.jpg)](f/contact/b/blamont1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/b/blamont1_photo_thumb.jpg)](f/contact/b/blamont1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** [CV](f/contact/b/blamont1_cv.pdf)
    - **Exp.:** …

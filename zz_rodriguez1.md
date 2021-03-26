@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/r/rodriguez1_photo_thumb.jpg)](f/contact/r/rodriguez1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/r/rodriguez1_photo_thumb.jpg)](f/contact/r/rodriguez1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

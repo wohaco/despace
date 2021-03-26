@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> (Hutto, Texas, USA) 1987.. / Washington, USA|
 |Contact|<erika.kohler@nasa.gov>, *раб.:* +1(301)614-57-56 ; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/k/kohler1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/k/kohler1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in Space & Planetary Sciences, Arkansas Univ. BS in Meteorology, Oklahoma Univ.
    - **Exp.:** While working on her PhD research, as a Harriet G. Jenkins Research Fellow she researched the interactions between Venus’ surface & its lower atmosphere, by using a Venus simulation chamber. She is now a postdoc at GSFC studying metallic & silicate components in the atmospheres of extrasolar planets.

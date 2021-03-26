@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<gilles.berger@irap.omp.eu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +33(0)5-6133-2582|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/b/berger1_photo_thumb.jpg)](f/contact/b/berger1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/b/berger1_photo_thumb.jpg)](f/contact/b/berger1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

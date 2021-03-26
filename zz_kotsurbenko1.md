@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<kotsor@hotmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/k/kotsyurbenko1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/k/kotsyurbenko1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Доктор биологических наук.
    - **Exp.:** …

@@ -6,7 +6,7 @@
 |B‑day, addr.|1955.11.23 / …|
 |Contact|<kostitsyn@geokhi.ru>, <yuri.kostitsyn@gmail.com>, *раб.:* +7(495)939-01-84; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/k/kosticyn1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |![](f/contact/k/kosticyn1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

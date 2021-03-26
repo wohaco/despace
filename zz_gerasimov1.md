@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mgerasim@mx.iki.rssi.ru>, <mvg001@mail.ru>, *раб.:* +7(495)333-11-55; *mobile:* +7(903)533-76-34|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/g/gerasimov1_animated.gif) <mark>nosign</mark>|
+| |![](f/contact/g/gerasimov1_animated.gif) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Кандидат физ‑мат наук.
    - **Exp.:** …

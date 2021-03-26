@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1943 / …|
 |Contact|<James_Head@brown.edu>, *раб.:* +1(401)863-25-26; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/h/head1_photo_thumb.jpg)](f/contact/h/head1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/h/head1_photo_thumb.jpg)](f/contact/h/head1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/h/head1_cv.pdf)**. PhD, Brown Univ., 1969. BS, Washington & Lee Univ., 1964.
    - **Exp.:** He studies the roles of volcanism in planetary crusts as well as the geological evolution of Mars, & has served as the investigator on many major international planetary investigation missions. He helped train Apollo astronauts under the NASA Apollo Lunar Exploration Program. He has published 25 chapters in books on planetary geology & over 300 refereed articles in scientific journals, & has supervised nearly 40 PhD students.

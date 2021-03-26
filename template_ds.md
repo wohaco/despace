@@ -5,27 +5,27 @@
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(…)</small>*|
 |:--|:--|
-|[TRL](trl.md)||
-|Алгоритмы сжатия||
-|Алгоритмы шифр.||
-|Входов||
-|Ёмкость, Мбит (Мбайт)||
-|Исполнение||
-|Скор., Мбит(Мбайт)/с||
-|Циклов перезаписи||
+|[TRL](trl.md)| |
+|Алгоритмы сжатия| |
+|Алгоритмы шифр.| |
+|Входов| |
+|Ёмкость, Мбит (Мбайт)| |
+|Исполнение| |
+|Скор., Мбит(Мбайт)/с| |
+|Циклов перезаписи| |
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС||
-|Габариты, Д×Ш×В, ㎜||
-|Интерфейсы||
-|Mass, kg||
-|[Voltage](voltage.md), V||
-|Overload, g||
-|[Rad.resist](ion_rad.md), Gy (rad)||
-|Resource, h (y)||
-|[Lifetime](lifetime.md), h (y)||
-|[Temp. range](tcs.md), ℃||
-|Consumption, W||
-||[![](f/ds//_pic1_thumb.jpg)](f/ds//_pic1.jpg)|
+|[ВБР](srrq.md) за САС| |
+|Габариты, Д×Ш×В, ㎜| |
+|Интерфейсы| |
+|Mass, kg| |
+|[Voltage](voltage.md), V| |
+|Overload, g| |
+|[Rad.resist](ion_rad.md), Gy (rad)| |
+|Resource, h (y)| |
+|[Lifetime](lifetime.md), h (y)| |
+|[Temp. range](tcs.md), ℃| |
+|Consumption, W| |
+| |[![](f/ds//_pic1_thumb.jpg)](f/ds//_pic1.jpg)|
 
 </small>
 

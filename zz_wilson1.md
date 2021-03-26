@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Colin.Wilson@physics.ox.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/w/wilson1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/w/wilson1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Study planets, in particular Mars & Venus, with a focus on using spacecraft to observe their atmospheres. I have built meteorological sensors for Beagle 2 & ExoMars 2016 Mars landers; I co-ordinated science operations for Venus Express, & am now an Inter-Disciplinary Scientist for ESA’s ExoMars Trace Gas Orbiter.

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mlitvak.iki@gmail.com>, *раб.:* +7(495)333-15-22; *mobile:* +7(968)666-24-36|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/l/litvak1_animated.gif) [![](f/contact/l/litvak1_sign_thumb.jpg)](f/contact/l/litvak1_sign.png)|
+| |![](f/contact/l/litvak1_animated.gif) [![](f/contact/l/litvak1_sign_thumb.jpg)](f/contact/l/litvak1_sign.png)|
 
    - **[Education](edu.md):** Д.ф.м.н.
    - **Exp.:** …

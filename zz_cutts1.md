@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1945  / Pasadena, California, USA|
 |Contact|<James.A.Cutts@jpl.nasa.gov>, *раб.:* +1(818)354-41-20; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/c/cutts1_photo_thumb.jpg)](f/contact/c/cutts1_photo.jpg) [![](f/contact/c/cutts1_sign_thumb.jpg)](f/contact/c/cutts1_sign.png)|
+| |[![](f/contact/c/cutts1_photo_thumb.jpg)](f/contact/c/cutts1_photo.jpg) [![](f/contact/c/cutts1_sign_thumb.jpg)](f/contact/c/cutts1_sign.png)|
 
    - **[Education](edu.md):** MS (Geophysics) & PhD, Caltech, 1972, Planetary Science. BA in Physics from Cambridge University.
    - **Exp.:** Responsible for the development & demonstration of advanced concepts for solar system exploration. A major focus — planetary aerobots or robotic balloons. He was Manager of the Planetary Science Institute of Science Applications International Corporation & a scientific investigator with the Mariner 9 & Viking Orbiter Imaging teams. He was Program Manager for Advanced Concepts & Deputy Director of the Center for Space Microelectronics Technology (1988 ‑ 1991). He has served as Chair of NASA’s Sensor Working Group (1988 ‑ 1990) & has served on other NASA & U.S. Air Force advisory committees. He has authored ~50 papers in planetary science, sensor technology & innovative space missions concepts.

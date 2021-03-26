@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<richard.ernst@ernstgeosciences.com>, *раб.:* +1(613)295-79-55; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/e/ernst1_photo_thumb.jpg)](f/contact/e/ernst1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/e/ernst1_photo_thumb.jpg)](f/contact/e/ernst1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, P.Geo., Carleton Univ., 1989.
    - **Exp.:** Skills & Expertise: Tectonics, Geological Mapping, Geology, Mining, Geochemistry, Plate Tectonics, Geochronology, Gas, Geodynamics, Petrology, Paleomagnetism, Meteorites, TIMS.

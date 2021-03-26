@@ -6,7 +6,7 @@
 |B‑day, addr.|1952.05.07 / …|
 |Contact|<vorontsovspace@gmail.com>, <victor-vorontsov@yandex.ru>, *work:* <mark>noworkphone</mark>; *mobile:* +7(916)907-33-68|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/v/voroncov1_photo.gif)](f/contact/v/voroncov1_photo.gif) [![](f/contact/v/voroncov1_sign_thumb.jpg)](f/contact/v/voroncov1_sign.png)|
+| |[![](f/contact/v/voroncov1_photo.gif)](f/contact/v/voroncov1_photo.gif) [![](f/contact/v/voroncov1_sign_thumb.jpg)](f/contact/v/voroncov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

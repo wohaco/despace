@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<khatuntsev@gmail.com>, *work:* <mark>noworkphone</mark>; *mobile:* +7(495)333-41-02|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/h/hatuncev1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/h/hatuncev1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

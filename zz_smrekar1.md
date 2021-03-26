@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> (Rangeley, Maine, USA) / Sierra Madre, California, USA|
 |Contact|<mark>noemail</mark>, *раб.:* +1(818)354-41-92, Fax: +1(818)393-50-59; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/s/smrekar1_photo_thumb.jpg)](f/contact/s/smrekar1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/s/smrekar1_photo_thumb.jpg)](f/contact/s/smrekar1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in geophysics, Southern Methodist University, 1990. BS in geophysics & mathematics, Brown University, 1984.
    - **Exp.:** Research Interests. Modeling of mantle upwelling & tectonic processes to understand the different evolutionary paths of Venus, Mars, & Earth, using numerical & analytic models of deformation. Analysis of gravity, topography, & magnetic field data to constrain the thermal evolution & history of the lithosphere using spatial & spectral methods as well as joint inversions. Development of instruments to measure thermal properties & heat flow on other planets. Emplacement mechanisms for planetary lava flows.

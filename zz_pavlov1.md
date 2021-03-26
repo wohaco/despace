@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<anatoli.pavlov@mail.ioffe.ru>, *раб.:* +7(911)985-88-38; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/p/pavlov1_photo_thumb.jpg)](f/contact/p/pavlov1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/p/pavlov1_photo_thumb.jpg)](f/contact/p/pavlov1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

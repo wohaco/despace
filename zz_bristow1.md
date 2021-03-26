@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Thomas.F.Bristow@nasa.gov>, *раб.:* +1(626)318-34-80; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/b/bristow1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/b/bristow1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Mineralogical Traces of Early Habitable Environments.

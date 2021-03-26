@@ -57,15 +57,15 @@
 |*Планета*|*Тип ФЭП*|*На орбите*|*На поверхности*|
 |:--|:--|:--|:--|
 |[Venus](venus.md)|GaAs, КПД 28.5 %|500 / 468 / 458|… / … / …|
-||Si, КПД 21.3 %|374 / 350 / 342|… / … / …|
+| |Si, КПД 21.3 %|374 / 350 / 342|… / … / …|
 |[Земля](earth.md)|GaAs, КПД 28.5 %|255 / 239 / 234|… / … / …|
-||Si, КПД 21.3 %|190 / 178 / 175|… / … / …|
+| |Si, КПД 21.3 %|190 / 178 / 175|… / … / …|
 |[Луна](moon.md)|GaAs, КПД 28.5 %|255 / 239 / 234|234 / 220 / 215|
-||Si, КПД 21.3 %|190 / 178 / 175|175 / 164 / 160|
+| |Si, КПД 21.3 %|190 / 178 / 175|175 / 164 / 160|
 |[Марс](mars.md)|GaAs, КПД 28.5 %|109 / 103 / 101|… / … / …|
-||Si, КПД 21.3 %|81 / 76 / 75|… / … / …|
+| |Si, КПД 21.3 %|81 / 76 / 75|… / … / …|
 |[Меркурий](mercury.md)|GaAs, КПД 28.5 %|1 500 / 1 405 / 1 375|… / … / …|
-||Si, КПД 21.3 %|1 121 / 1 050 / 1 027|… / … / …|
+| |Si, КПД 21.3 %|1 121 / 1 050 / 1 027|… / … / …|
 
 
 
@@ -96,7 +96,7 @@ Solar cells are manufactured in volume in Japan, Germany, China, Taiwan, Malaysi
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Батарея солнечная:`**<br> [ФЭП](sp.md)|
 |**··• [Spacecraft power system (SPS)](sps.md) •··**<br> [ACUER](acuer.md) ┊ [Charge eff.](charge_eff.md) ┊ [EB](eb.md) ┊ [EMI, RFI](emi.md) ┊ [NR](nr.md) ┊ [Rotor](rotor.md) ┊ [RTG](rtg.md) ┊ [Solar cell](sp.md) ┊ [SP](sp.md) ┊ [SPB/USPB](suspb.md) ┊ [Voltage](voltage.md) ┊ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK-01](bak_01.md) ┊ [KAS‑LOA](kas_loa.md)|

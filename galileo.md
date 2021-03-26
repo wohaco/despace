@@ -48,9 +48,9 @@ Targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
-|EVN‑093|T|Atmosphere/surface imaging|||D|F|||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.| |D| |F| | |
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
+|EVN‑093|T|Atmosphere/surface imaging| | |D|F| | |
 
 </small>
 
@@ -94,13 +94,13 @@ After completing 35 orbits around Jupiter throughout a nearly eight-year mission
 
 |![](f/project/g/galileo/animation_of_galileo_trajectory.gif)|Pink — Galileo <br><br> Inner dim green — Venus <br><br> Blue — Earth <br><br> Turquoise — 243 Ida <br><br> Outer bright green — Jupiter <br><br> Yellow ellipse — 951 Gaspra <br><br> Yellow dot — Sun|
 |:--|:--|
-|***Animation of ’s trajectory from October 19, 1989, to September 30, 2003***||
+|***Animation of ’s trajectory from October 19, 1989, to September 30, 2003***| |
 
 <br><br>
 
 |![](f/project/g/galileo/animation_of_galileo_trajectory_around_jupiter.gif)|Pink — Galileo <br><br> Green — Jupiter <br><br> Red — Io <br><br> Blue — Europa <br><br> Yellow — Ganymede <br><br> Turquoise — Callisto|
 |:--|:--|
-|***Animation of ’s trajectory around Jupiter from August 1, 1995, to September 30, 2003***||
+|***Animation of ’s trajectory around Jupiter from August 1, 1995, to September 30, 2003***| |
 
 On December 11, 2013, NASA reported, based on results from the Galileo mission, the detection of «clay‑like minerals» (specifically, phyllosilicates), often associated with organic materials, on the icy crust of Europa. The presence of the minerals may have been the result of a collision with an asteroid or comet, according to the scientists.
 
@@ -123,25 +123,25 @@ The despun section’s instruments included the camera system; the near infrared
 
    - *Solid State Imager (**SSI**)*.
 
-|||
+| | |
 |:--|:--|
 |The SSI was an 800 × 800 pixel solid state camera consisting of an array of silicon sensors called a charge-coupled device (CCD). Galileo was one of the first spacecraft to be equipped with a CCD camera. The optical portion of the camera was built as a Cassegrain telescope. Light was collected by the primary mirror and directed to a smaller secondary mirror that channeled it through a hole in the center of the primary mirror and onto the CCD. The CCD sensor was shielded from radiation, a particular problem within the harsh Jovian magnetosphere. The shielding was accomplished by means of a 10 ㎜ thick layer of tantalum surrounding the CCD except where the light enters the system. An eight-position filter wheel was used to obtain images at specific wavelengths. The images were then combined electronically on Earth to produce color images. The spectral response of the SSI ranged from about 400 to 1100 nm. The SSI weighed 29.7 ㎏ and consumed, on average, 15 W of power.|![](f/project/g/galileo/ssi.jpg)|
 
    - *Near-Infrared Mapping Spectrometer (**NIMS**)*.
 
-|||
+| | |
 |:--|:--|
 |The NIMS instrument was sensitive to 0.7 to 5.2 µm wavelength infrared light, overlapping the wavelength range of the SSI. The telescope associated with NIMS was all reflective (using only mirrors and no lenses) with an aperture of 229 ㎜. The spectrometer of NIMS used a grating to disperse the light collected by the telescope. The dispersed spectrum of light was focused on detectors of indium, antimonide and silicon. The NIMS weighed 18 ㎏ and used 12 W of power on average.|![](f/project/g/galileo/nims.jpg)|
 
    - *Ultraviolet Spectrometer / Extreme Ultraviolet Spectrometer (**UVS/EUV**)*.
 
-|||
+| | |
 |:--|:--|
 |The Cassegrain telescope of the UVS had a 250 ㎜ aperture and collected light from the observation target. Both the UVS and EUV instruments used a ruled grating to disperse this light for spectral analysis. This light then passed through an exit slit into photomultiplier tubes that produced pulses or «sprays» of electrons. These electron pulses were counted, and these count numbers constituted the data that were sent to Earth. The UVS was mounted on Galileo’s scan platform and could be pointed to an object in inertial space. The EUV was mounted on the spun section. As Galileo rotated, EUV observed a narrow ribbon of space perpendicular to the spin axis. The two instruments combined weighed about 9.7 ㎏ and used 5.9 W of power.|![](f/project/g/galileo/uvs.jpg)|
 
    - *Photopolarimeter-Radiometer (**PPR**)*.
 
-|||
+| | |
 |:--|:--|
 |The PPR had seven radiometry bands. One of these used no filters and observed all incoming radiation, both solar and thermal. Another band allowed only solar radiation through. The difference between the solar-plus-thermal and the solar-only channels gave the total thermal radiation emitted. The PPR also measured in five broadband channels that spanned the spectral range from 17 to 110 µm. The radiometer provided data on the temperatures of Jupiter’s atmosphere and satellites. The design of the instrument was based on that of an instrument flown on the [Pioneer Venus spacecraft](pioneer_venus_1.md). A 100 ㎜ aperture reflecting telescope collected light and directed it to a series of filters, and, from there, measurements were performed by the detectors of the PPR. The PPR weighed 5.0 ㎏ and consumed about 5 W of power.|![](f/project/g/galileo/ppr.jpg)|
 
@@ -149,37 +149,37 @@ The despun section’s instruments included the camera system; the near infrared
 
    - *Dust Detector Subsystem (**DDS**)*.
 
-|||
+| | |
 |:--|:--|
 |The DDS was used to measure the mass, electric charge, and velocity of incoming particles. The masses of dust particles that the DDS could detect go from 1,0 E−16 to 1,0 E−7 g. The speed of these small particles could be measured over the range of 1 to 70 ㎞/s. The instrument could measure impact rates from 1 particle per 115 days to 100 particles per second. Such data was used to help determine dust origin and dynamics within the magnetosphere. The DDS weighed 4.2 ㎏ and used an average of 5.4 W of power.|![](f/project/g/galileo/dds.jpg)|
 
    - *Energetic Particles Detector (**EPD**)*.
 
-|||
+| | |
 |:--|:--|
 |The EPD was designed to measure the numbers and energies of ions and electrons whose energies exceeded about 20 keV (3.2 fJ). The EPD could also measure the direction of travel of such particles and, in the case of ions, could determine their composition (whether the ion is oxygen or sulfur, for example). The EPD used silicon solid‑state detectors and a time-of-flight detector system to measure changes in the energetic particle population at Jupiter as a function of position and time. These measurements helped determine how the particles got their energy and how they were transported through Jupiter’s magnetosphere. The EPD weighed 10.5 ㎏ and used 10.1 W of power on average.|![](f/project/g/galileo/epd.jpg)|
 
    - *Heavy Ion Counter (**HIC**)*.
 
-|||
+| | |
 |:--|:--|
 |The HIC was, in effect, a repackaged and updated version of some parts of the flight spare of the Voyager Cosmic Ray System. The HIC detected heavy ions using stacks of single crystal silicon wafers. The HIC could measure heavy ions with energies as low as 6 MeV (1 pJ) and as high as 200 MeV (32 pJ) per nucleon. This range included all atomic substances between carbon and nickel. The HIC and the EUV shared a communications link and, therefore, had to share observing time. The HIC weighed 8.0 ㎏ and used an average of 2.8 W of power.|![](f/project/g/galileo/hic.jpg)|
 
    - *Magnetometer (**MAG**)*.
 
-|||
+| | |
 |:--|:--|
 |The MAG used two sets of three sensors. The three sensors allowed the three orthogonal components of the magnetic field section to be measured. One set was located at the end of the magnetometer boom and, in that position, was about 11 m from the spin axis of the spacecraft. The second set, designed to detect stronger fields, was 6.7 m from the spin axis. The boom was used to remove the MAG from the immediate vicinity of Galileo to minimize magnetic effects from the spacecraft. However, not all these effects could be eliminated by distancing the instrument. The rotation of the spacecraft was used to separate natural magnetic fields from engineering-induced fields. Another source of potential error in measurement came from the bending and twisting of the long magnetometer boom. To account for these motions, a calibration coil was mounted rigidly on the spacecraft to generate a reference magnetic field during calibrations. The magnetic field at the surface of the Earth has a strength of about 50 000 nT. At Jupiter, the outboard set of sensors could measure magnetic field strengths in the range from ±32 to ±512 nT, while the inboard set was active in the range from ±512 to ±16 384 nT. The MAG experiment weighed 7.0 ㎏ and used 3.9 W of power.|![](f/project/g/galileo/mag.jpg)|
 
    - *Plasma Subsystem (**PLS**)*.
 
-|||
+| | |
 |:--|:--|
 |The PLS used seven fields of view to collect charged particles for energy and mass analysis. These fields of view covered most angles from 0 to 180 degrees, fanning out from the spin axis. The rotation of the spacecraft carried each field of view through a full circle. The PLS measured particles in the energy range from 0.9 to 52 000 eV (0.14 to 8 300 aJ). The PLS weighed 13.2 ㎏ and used an average of 10.7 W of power.|![](f/project/g/galileo/pls.jpg)|
 
    - *Plasma Wave Subsystem (**PWS**)*.
 
-|||
+| | |
 |:--|:--|
 |An electric dipole antenna was used to study the electric fields of plasmas, while two search coil magnetic antennas studied the magnetic fields. The electric dipole antenna was mounted at the tip of the magnetometer boom. The search coil magnetic antennas were mounted on the high‑gain antenna feed. Nearly simultaneous measurements of the electric and magnetic field spectrum allowed electrostatic waves to be distinguished from electromagnetic waves. The PWS weighed 7.1 ㎏ and used an average of 9.8 W.|![](f/project/g/galileo/pws.jpg)|
 
@@ -228,14 +228,14 @@ At launch, the Orbiter and Lander together had a mass of 2 562 ㎏ and stood
 
 |*Parameter*|*Value*|
 |:--|:--|
-|**`Orbiter`**||
+|**`Orbiter`**| |
 |Launch mass|2 223 ㎏|
 |Science instruments mass|118 ㎏|
 |Propellant mass|925 ㎏|
 |High|5.3 m|
 |Diameter of the antenna|4.8 ㎏|
 |Power|570 W|
-|**`Lander`**||
+|**`Lander`**| |
 |Mass|339 ㎏|
 |High|0.91 m|
 |Diameter|1.27 m|
@@ -287,7 +287,7 @@ The RTGs produced about 570 W at launch. The power output initially decreased 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

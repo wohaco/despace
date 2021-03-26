@@ -6,7 +6,7 @@
 |B‑day, addr.|1981.04.06, на НПОЛ с 2003 / г. Химки, Панфилова 2А|
 |Contact|<merkulov@laspace.ru>, *work:* 47-07; *mobile:* +7(910)491-43-70|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/m/merkulov1_photo_thumb.jpg)](f/contact/m/merkulov1_photo.jpg) [![](f/contact/m/merkulov1_sign_thumb.jpg)](f/contact/m/merkulov1_sign.png)|
+| |[![](f/contact/m/merkulov1_photo_thumb.jpg)](f/contact/m/merkulov1_photo.jpg) [![](f/contact/m/merkulov1_sign_thumb.jpg)](f/contact/m/merkulov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

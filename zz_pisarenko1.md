@@ -6,7 +6,7 @@
 |B‑day, addr.|29.05.1992, на НПОЛ с 2016 / г. Долгопрудный|
 |Contact|<ppd@laspace.ru>, <pavel-pisarenko@inbox.ru>, *work:* 64-08; *mobile:* +7(903)243-46-40, +7(977)882-73-11|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/p/pisarenko1_photo_thumb.jpg)](f/contact/p/pisarenko1_photo.jpg) [![](f/contact/p/pisarenko1_sign_thumb.jpg)](f/contact/p/pisarenko1_sign.png)|
+| |[![](f/contact/p/pisarenko1_photo_thumb.jpg)](f/contact/p/pisarenko1_photo.jpg) [![](f/contact/p/pisarenko1_sign_thumb.jpg)](f/contact/p/pisarenko1_sign.png)|
 
    - **[Education](edu.md):** Космические аппараты и разгонные блоки.
    - **Exp.:** …

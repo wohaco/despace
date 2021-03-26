@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1969 / …|
 |Contact|<ima@isas.jaxa.jp>, *work:* +81(4)7124-15-01; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/i/imamura1_photo_thumb.jpg)](f/contact/i/imamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/i/imamura1_photo_thumb.jpg)](f/contact/i/imamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1998.
    - **Exp.:** Professor, Tokyo Univ., 2016. Associate Professor, [ISAS](zz_isas.md)/JAXA, 2002. Research associate, ISAS/JAXA, 1998.

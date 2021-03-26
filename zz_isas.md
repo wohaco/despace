@@ -33,17 +33,17 @@ ISAS comprises 5 research departments, the Management & Integration Department, 
 
 |*Launch date*|*Name*|*Name*|*Mission*|
 |:--|:--|:--|:--|
-||||**Future missions:**|
-|2027-2028|SPICA||Infrared astronomy (with [ESA](zz_esa.md))|
-|2028|ATHENA||X‑ray astronomy (with [ESA](zz_esa.md) / [NASA](zz_nasa.md))|
-|2027|LiteBIRD||C㎆ astronomy|
-|2024|Small-JASMINE||Infrared astrometry|
-|2024|MMX||Phobos sample return|
-|2022|DESTINY+||Near Earth objects multi-fly‑by|
-|2022|JUICE||Ganymede exploration (with [ESA](zz_esa.md) / [NASA](zz_nasa.md))|
-|2022|SLIM||Lunar landing demonstration|
-|2022|XRISM||X‑ray astronomy|
-||||**After establishment of JAXA:**|
+| | | |**Future missions:**|
+|2027-2028|SPICA| |Infrared astronomy (with [ESA](zz_esa.md))|
+|2028|ATHENA| |X‑ray astronomy (with [ESA](zz_esa.md) / [NASA](zz_nasa.md))|
+|2027|LiteBIRD| |C㎆ astronomy|
+|2024|Small-JASMINE| |Infrared astrometry|
+|2024|MMX| |Phobos sample return|
+|2022|DESTINY+| |Near Earth objects multi-fly‑by|
+|2022|JUICE| |Ganymede exploration (with [ESA](zz_esa.md) / [NASA](zz_nasa.md))|
+|2022|SLIM| |Lunar landing demonstration|
+|2022|XRISM| |X‑ray astronomy|
+| | | |**After establishment of JAXA:**|
 |2018.10.20|MMO|Mio|Exploration of Mercury as part of the BepiColombo (with [ESA](zz_esa.md))|
 |2016.12.20|ERG|Arase|Magnetosphere research|
 |2016.02.17|astro‑H|Hitomi|X‑ray astronomy|
@@ -55,7 +55,7 @@ ISAS comprises 5 research departments, the Management & Integration Department, 
 |2006.02.21|astro‑F|Akari|Infrared astronomy|
 |2005.08.24|INDEX|Reimei|Technology / Aurora research|
 |2005.07.10|astro‑EII|Suzaku|X‑ray astronomy|
-||||**Before establishment of JAXA:**|
+| | | |**Before establishment of JAXA:**|
 |2003.05.09|MUSES-C|Hayabusa|Planetary sample return technology development|
 |1998.07.04|PLANET-B|Nozomi|Mars atmosphere observation|
 |1997.02.12|MUSES-B|HALCA|Space VLBI technology development|
@@ -81,6 +81,6 @@ ISAS comprises 5 research departments, the Management & Integration Department, 
 |1972.08.19|REXS|Denpa|Ionosphere / magnetosphere observation|
 |1971.09.28|MS-F2|Shinsei|Ionosphere / cosmic‑ray / solar-radio observation|
 |1971.02.16|MS-T1|Tansei|Technology demonstration|
-|1970.02.11||Ohsumi|Technology demonstration|
+|1970.02.11| |Ohsumi|Technology demonstration|
 
 </small>

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<kombaev@laspace.ru>, *work:* Калуга: 154; 36-15, 56-15 — если он в Химках; *mobile:* +7(930)753-01-14, +7(910)512-69-32|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/k/kombaev1_photo_thumb.jpg)](f/contact/k/kombaev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/k/kombaev1_photo_thumb.jpg)](f/contact/k/kombaev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

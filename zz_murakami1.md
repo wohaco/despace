@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<murashin@gfd-dennou.org>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<diana.gentry@nasa.gov>, *раб.:* +1(650)604-54-41; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/g/gentry1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/g/gentry1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

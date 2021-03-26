@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1965 / …|
 |Contact|<mcgovern@lpi.usra.edu>, *раб.:* +1(281)486-21-87; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/m/mcgovern1_photo_thumb.jpg)](f/contact/m/mcgovern1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/m/mcgovern1_photo_thumb.jpg)](f/contact/m/mcgovern1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/m/mcgovern1_cv.pdf)**. PhD, Geophysics, 1996 & S.B., Aeronautics & Astronautics, Massachusetts Institute of Technology, 1986.
    - **Exp.:** Research focuses on the evolution of terrestrial planet surfaces, lithospheres, & interiors, with emphasis on growth & development of large volcano-tectonic structures on Mars, Venus, & Earth. His analysis of topography, gravity, & image data from planetary missions, is used to examine global thermal history, volcano morphology, & lithospheric strain. His work involves modeling of stresses & deformation in growing volcanic edifices & the lithosphere.

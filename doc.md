@@ -12,15 +12,14 @@
 
 **Докуме́нт** (от лат. documentum — «образец, свидетельство, доказательство») — материальный объект, содержащий информацию в зафиксированном виде и специально предназначенный для её передачи во времени и пространстве.
 
-В узком смысле **докуме́нт** — облечённый в письменную форму носитель информации, удостоверяющий наличие фактов определённого значения. В широком смысле и книга, и скульптура — документы.
-
-*Официальная формулировка в законодательстве России:<br> Документ — материальный носитель с зафиксированной на нём в любой форме информацией в виде текста, звукозаписи, изображения и (или) их сочетания, который имеет реквизиты, позволяющие его идентифицировать, и предназначен для передачи во времени и в пространстве в целях общественного использования и хранения.   — Федеральный закон № 77-ФЗ «Об обязательном экземпляре документов.*
+В узком смысле **докуме́нт** — облечённый в письменную форму носитель информации, удостоверяющий наличие фактов определённого значения. В широком смысле и книга, и скульптура — документы. Официальная формулировка в законодательстве России: *Документ — материальный носитель с зафиксированной на нём в любой форме информацией в виде текста, звукозаписи, изображения и (или) их сочетания, который имеет реквизиты, позволяющие его идентифицировать, и предназначен для передачи во времени и в пространстве в целях общественного использования и хранения.   — Федеральный закон № 77-ФЗ «Об обязательном экземпляре документов».*
 
 **Основные признаки документа**
 
+   1. дата;
    1. название;
-   1. номер;
    1. подписи;
+   1. принадлежность к системе;
    1. содержание.
 
 Other terms:
@@ -40,6 +39,11 @@ Regulations & terms:
    - [International Traffic in Arms Regulations (ITAR)](itar.md)
    - [NASA Systems Engineering Handbook](nasa_seh.md)
    - [Mission proposal](proposal.md)
+   - Links:
+      - <http://everyspec.com/>
+      - <https://en.wikipedia.org/wiki/United_States_Military_Standard> US Military Standard
+      - [ESA: Requirements & standards ⎆](https://www.esa.int/Our_Activities/Space_Engineering_Technology/Requirements_and_standards)
+      - <https://en.wikipedia.org/wiki/List_of_EIA_standards>
 
 List of common documents:
 
@@ -52,155 +56,154 @@ List of common documents:
    - **SciRD** — [science requirements document](scird.md)
    - **TOR** — [terms of reference](tor.md)
 
+Some notable standards:
+
+   - [MIL-STD-1553](mil_std_1553.md) — mechanical, electrical, & functional characteristics of a serial data bus.
+   - [RS-232, 422, 485](rs_xxx.md)
+
+
 
 ## JP
 Regulations & terms:
 
    - [Interface](interface.md)
+   - JMR/JERG. Common technical documentation. <https://sma.jaxa.jp/en/TechDoc/>, <https://sma.jaxa.jp/TechDoc/>
 
-JMR/JERG. Common technical documentation. <https://sma.jaxa.jp/en/TechDoc/>
+**JAXA Management Requirement**
 
-   1. **JAXA Management Requirement**
-      - JMR-001 — [System Safety Standard ❐](f/doc/jmr_001.pdf)
-      - JMR-002 — [Launch Vehicle Payload Safety Standard ❐](f/doc/jmr_002.pdf)
-      - JMR-003 — [Space Debris Mitigation Standard ❐](f/doc/jmr_003.pdf)
-      - JMR-004 — [Reliability Program Standard ❐](f/doc/jmr_004.pdf)
-      - JMR-005 — [Quality Assurance Program Standard ❐](f/doc/jmr_005.pdf)
-      - JMR-006 — [Configuration Management Standard ❐](f/doc/jmr_006.pdf)
-      - JMR-012 — [Electrical, Electronic, And Electromechanical Parts Program Standard ❐](f/doc/jmr_012.pdf)
-      - JMR-013 — [Quality Assurance Program Standard ❐](f/doc/jmr_013.pdf)
-   1. **JAXA Engineering Requirement**, Guideline — [Spacecraft Design Standards Tree ❐](f/doc/jerg_scguide.pdf)
-      - JERG-0-001 — [Technical Standard For High Pressure Gas Equipment For Space Use ❐](f/doc/jerg_0_001.pdf)
-      - JERG-0-049 — [Software Development Standard ❐](f/doc/jerg_0_049.pdf)
-      - JERG-1-007 — [Safety Regulation for Launch Site Operation ❐](f/doc/jerg_1_007.pdf)
-      - JERG-2-000 — [Spacecraft Design Standard ❐](f/doc/jerg_2_000.pdf)
-      - JERG-2-026 — [Safety Standard for ON-ORBIT Servicing Missions ❐](f/doc/jerg_2_026.pdf)
-      - JERG-2-143 — [Space Environment Effects Mitigation ❐](f/doc/jerg_2_143.pdf)
-      - JERG-2-144 — [Micro-debris Impact Survivability Assessment Procedure ❐](f/doc/jerg_2_144.pdf)
-      - JERG-2-152 — [Disturbance Control Standard ❐](f/doc/jerg_2_152.pdf)
-      - JERG-2-200-TP001 — [Template for Electrical Design Criteria for Scientific Spacecraft ❐](f/doc/jerg_2_200.pdf)
-      - JERG-2-211 — [Spacecraft Charging and Discharging ❐](f/doc/jerg_2_211.pdf)
-      - JERG-2-212 — [Wire Derating ❐](f/doc/jerg_2_212.pdf)
-      - JERG-2-213 — [Insulation ❐](f/doc/jerg_2_213.pdf)
-      - JERG-2-214 — [Power Sub System ❐](f/doc/jerg_2_214.pdf)
-      - JERG-2-215 — [Solar Array Paddle ❐](f/doc/jerg_2_215.pdf)
-      - JERG-2-241 — [EMC ❐](f/doc/jerg_2_241.pdf)
-      - JERG-2-310 — [Spacecraft Thermal Control System ❐](f/doc/jerg_2_310.pdf)
-      - JERG-2-330 — [Mechanisms ❐](f/doc/jerg_2_330.pdf)
-      - JERG-2-400 — [Communications ❐](f/doc/jerg_2_400.pdf)
-      - JERG-2-500 — [Control System ❐](f/doc/jerg_2_500.pdf)
-      - JERG-2-510 — [Attitude Control System ❐](f/doc/jerg_2_510.pdf)
-      - JERG-2-610 — [Software Development Standard For Spacecraft ❐](f/doc/jerg_2_610.pdf)
-      - JERG-3-003 — [Software Development Standard For Ground System ❐](f/doc/jerg_3_003.pdf)
+   - JMR-001 — System safety ([PDF ❐](f/doc/jp/jmr_001.pdf))
+   - JMR-002 — Launch vehicle payload safety ([PDF ❐](f/doc/jp/jmr_002.pdf))
+   - JMR-003 — Space debris mitigation ([PDF ❐](f/doc/jp/jmr_003.pdf))
+   - JMR-004 — Reliability program ([PDF ❐](f/doc/jp/jmr_004.pdf))
+   - JMR-005 — Quality assurance program ([PDF ❐](f/doc/jp/jmr_005.pdf))
+   - JMR-006 — Configuration management ([PDF ❐](f/doc/jp/jmr_006.pdf))
+   - JMR-010 — Contamination management
+   - JMR-011 — Risk management Handbook
+   - JMR-012 — Electrical, electronic, & electromechanical parts program ([PDF ❐](f/doc/jp/jmr_012.pdf))
+   - JMR-013 — Quality assurance program ([PDF ❐](f/doc/jp/jmr_013.pdf))
+   - JMR-014 — Planetary protection pProgram
 
+**JAXA Engineering Requirement**
+
+   1. **[Guideline](jerg_2_000.md)** — Spacecraft design standards tree ([PDF ❐](f/doc/jp/jerg_scguide.pdf))
+   1. **JERG-0-000** — Common
+      - JERG-0-001 — Technical standard for high pressure gas equipment for space use ([PDF ❐](f/doc/jp/jerg_0_001.pdf))
+      - JERG-0-002-HB001 — Space debris prevention measures design & operation Manual (Spacecraft edition)
+      - JERG-0-002-HB002 — Space debris prevention measures design & operation Manual (Rocket edition)
+      - JERG-0-017 — Quality assurance program Manual
+      - JERG-0-018 — Human factor analysis Handbook
+      - JERG-0-039 — Space soldering process
+      - JERG-0-040 — Engineering for adhesion of electronic equipment for space
+      - JERG-0-041 — Electricity wiring engineering for space
+      - JERG-0-042 — Printed circuit board & assembly design
+      - JERG-0-043 — Surface mount soldering process for space
+      - JERG-0-047 — Safety standards for re‑entry flight of re‑entry vehicles
+      - JERG-0-047-HB001 — Safety standards for re‑entry flight of re‑entry aircraft Manual
+      - JERG-0-049 — Software development ([PDF ❐](f/doc/jp/jerg_0_049.pdf))
+      - JERG-0-050 — Overseas parts quality assurance Handbook
+      - JERG-0-051 — Overseas component quality assurance Handbook
+      - JERG-0-052 — Space application for space divertable parts Handbook (Common edition)
+      - JERG-0-054 — BGA/CGA installation engineering
+   1. **JERG-1-000** — Rocket
+      - JERG-1-007 — Safety regulation for launch site operation ([PDF ❐](f/doc/jp/jerg_1_007.pdf))
+      - JERG-1-008 — Rocket‑mounted software development
+      - JERG-1-009 — Lead‑free parts for rocket equipment application process
+      - JERG-1-009-HB001 — Lead‑free parts application process standard for rocket equipment Manual
+      - JERG-1-010 — Space application for space divertable parts Handbook (Rocket edition)
+   1. **[JERG-2-000](jerg_2_000.md)** — Spacecraft
+      - JERG-2-000
+         - JERG-2-023 — Space application for space divertable parts Handbook (Long life satellite edition)
+         - JERG-2-024 — Space application for space divertable parts Handbook (Scientific satellite edition)
+         - JERG-2-025 — Public offering small subsatellite hazard analysis Handbook
+         - JERG-2-026 — Safety for on‑orbit servicing missions ([PDF ❐](f/doc/jp/jerg_2_026.pdf))
+      - JERG-2-100 — System design
+         - JERG-2-120 — Protection for single point of failure
+         - JERG-2-130 — General test standard for spacecraft
+         - JERG-2-130-HB001 — Impact test Handbook
+         - JERG-2-130-HB002 — Acoustic test Handbook
+         - JERG-2-130-HB003 — Vibration test Handbook
+         - JERG-2-130-HB004 — Force limit vibration test Handbook
+         - JERG-2-130-HB005 — Thermal vacuum test Handbook
+         - JERG-2-130-HB006 — Environmental testing reliability requirement Handbook
+         - JERG-2-130-HB007 — Spacecraft general test standard Handbook
+         - JERG-2-141 — Space environment
+         - JERG-2-142 — General environment (for spacecraft)
+         - JERG-2-143 — Space environment effects mitigation ([PDF ❐](f/doc/jp/jerg_2_143.pdf))
+         - JERG-2-144 — Micro‑debris impact survivability assessment procedure ([PDF ❐](f/doc/jp/jerg_2_144.pdf))
+         - JERG-2-151 — Mission & orbit design
+         - [JERG-2-152](jerg_2_152.md) — Disturbance control
+         - JERG-2-153 — Points to management
+      - JERG-2-200 — Electrical design
+         - JERG-2-200-TP001 — Template for electrical design criteria for scientific spacecraft ([PDF ❐](f/doc/jp/jerg_2_200.pdf))
+         - JERG-2-211 — Spacecraft charging & discharging ([PDF ❐](f/doc/jp/jerg_2_211.pdf))
+         - JERG-2-212 — Wire derating ([PDF ❐](f/doc/jp/jerg_2_212.pdf))
+         - JERG-2-213 — Insulation ([PDF ❐](f/doc/jp/jerg_2_213.pdf))
+         - JERG-2-214 — Power sub system ([PDF ❐](f/doc/jp/jerg_2_214.pdf))
+         - JERG-2-215 — Solar array paddle ([PDF ❐](f/doc/jp/jerg_2_215.pdf))
+         - JERG-2-241 — EMC ([PDF ❐](f/doc/jp/jerg_2_241.pdf))
+      - JERG-2-300 — Mechanical system design
+         - JERG-2-310 — Spacecraft thermal control system ([PDF ❐](f/doc/jp/jerg_2_310.pdf))
+         - JERG-2-311 — Prevention for detaching of the MLI
+         - JERG-2-320 — Structural design
+         - JERG-2-330 — Mechanisms ([PDF ❐](f/doc/jp/jerg_2_330.pdf))
+         - JERG-2-340 — Spacecraft propulsion design
+      - [JERG-2-400](jerg_2_400.md) — Communications design
+         - Overview of JERG-2-400-HB201 CCSDS (JAXA CCDSD HP)
+         - JERG-2-400-TP100 — Communication design standard template for scientific satellites, etc.
+         - JERG-2-400-TP101 — Communication / data handling architecture overview & satellite‑mounted / ground subnetwork protocol
+         - JERG-2-400-TP102 — Communication / data handling architecture end‑to‑end program
+         - JERG-2-400-TP103 — Communication / data handling architecture space link protocol
+         - JERG-2-401 — Telecommand datalink protocol design
+         - JERG-2-402 — AOS data link protocol design
+         - JERG-2-403 — Space communication end‑to‑end protocol design
+         - JERG-2-410 — RF communication design
+         - JERG-2-411 — RF communication system design
+         - JERG-2-420 — RF telecommunication link design
+         - JERG-2-431 — MIL-STD-1553B onboard subnetwork design
+         - JERG-2-432 — SpaceWire onboard subnetwork design
+      - [JERG-2-500](jerg_2_500.md) — Control system
+        - JERG-2-510 — Attitude control system ([PDF ❐](f/doc/jp/jerg_2_510.pdf))
+      - JERG-2-600 — Software development
+         - JERG-2-610 — Software development for spacecraft ([PDF ❐](f/doc/jp/jerg_2_610.pdf))
+      - JERG-2-700 — Operational design
+         - JERG-2-700-TP001 — Functional model of spacecraft (FMS)
+         - JERG-2-700-TP002 — Spacecraft monitoring & management protocol
+         - JERG-2-700-TP108 — Communication / data processing architecture time management
+         - JERG-2-701 — Operation preparation
+   1. **JERG-3-000**
+      - JERG-3-001 — Ground equipment / equipment quality program
+      - JERG-3-003 — Software development for ground system ([PDF ❐](f/doc/jp/jerg_3_003.pdf))
 
 
 
 ## RU
 > <small>**Оформление документации** — русскоязычный термин. **Paperwork** — англоязычный эквивалент.</small>
 
-**Требования к оформлению текстовой документации.** Текстовая докуентация оформляется в соответствии:
+**Требования к оформлению текстовой документации.** Текстовая документация оформляется в соответствии:
 
    - ГОСТ 2.105-95: ЕКД Общие требования к текстовым документам
    - ГОСТ 2.106.-95 : ЕКД Текстовые документы
    - СТО 301-116-2014: Требования оформления текстовых документов с применением редактора "Microsoft Word"
 
-**Построение документа**
-
-Текст документа при необходимости разделяют на разделы и подразделы.  
-При большом объеме документа допускается разделять его на части, а части, в случае необходимости, на книги.
-
-Разделы должны иметь порядковые номера в пределах всего документа, обозначенные арабскими цифрами без точки и записанные с абзацевого отступа. Подразделы должны иметь нумерацию в пределах каждого раздела. Номер подраздела состоит из номеров раздела и подраздела, разделенных точкой. В конце номера подраздела **точки не ставится**. Разделы, как и подразделы, могут состоять из одного или нескольких пунктов. Пример ниже.
-
-![](f/doc/oformlenie-texta-1.png)
-
-Примечание: всю нумерацию можно сделать автоматически, с помощью многоуровнего списка, выбрав уровень с Заголовками как показано на рис. ниже
-
-![](f/doc/oformlenie-texta-2.png)
-
-Примечание: каждый заголовок можно обновлять и приводить к нужному стилю.  
-Внутри пунктов или подпунктов могут быть приведены перечисления. Перед каждой позицией перечисления следует ставить дефис ( — )или при необходимости ссылки в тексте документа на одно из перечислений, строчную букву русского или латинского алфавитов, после которой ставится скобка, после цифры **точки на ставятся**:
-
-![](f/doc/oformlenie-texta-3.png)
-
-**Оформление текста**
-
-Требования относятся не только к оформлению текстовой документации в Siemens Teamcentr с применением текстового редактора «Microsoft Word», но и к документации в общем. <br> Текстовый документ следует выполнять при помощи стиля «Обычный». <br> Требования к стилю «Обычный»:
-
-   - гарнитура шрифта — «Times New Roman»;
-   - начертание — нормальное;
-   - размер шрифта — 14;
-   - выравнивание — «по ширине»;
-   - красная строка — отступ на 1,25 см;
-   - межстрочный интервал — 1,5;
-   - отступ (интервал) после абзаца — 0,7 строка
-
-При необходимости акцентирования внимания на определенные участки текста, стиль дополняется полужирным, курсивным или подчеркнутым начертанием, а также изменением цвета шрифта.
-
-**Оформление иллюстрации**
-
-Количество иллюстраций должно быть достаточным для пояснения излагаемого текста. Иллюстрации могут быть расположены как по тексту документа (возможно ближе к соответствующим частям текста), так и в конце его. Иллюстрации должны быть выполнены в соответствии с требованиями стандартов ЕСКД и СПДС.
-
-   - иллюстрации, за исключением иллюстраций приложений, следует нумеровать арабскими цифрами сквозной нумерацией;
-   - если рисунок один, то он обозначается «Рисунок 1»;
-   - иллюстрации каждого приложения обозначают отдельной нумерацией арабскими цифрами с добавлением перед цифрой обозначения приложения (Например‑Рисунок А.3);
-   - допускается не нумеровать мелкие иллюстрации (мелкие рисунки), размещенные непосредственно в тексте и на которые в дальнейшем нет ссылок;
-   - допускается нумеровать иллюстрации в пределах раздела, номер иллюстрации должен состоять из номера раздела и порядкового номера иллюстрации, разделенных точкой (например‑ Рисунок 1.3);
-   - при ссылках на иллюстрации следует использовать запись «… в соответствии с рисунком 2» при сквозной нумерации и «… в соответствии с рисунком 1.2» при нумерации в пределах раздела.
-   - иллюстрации, при необходимости, могут иметь наименование и пояснительные данные (подрисуночный текст). Слово «Рисунок» и наименование помещают после пояснительных данных и располагают следующим образом: Рисунок 1 ‑ КА "Спектр‑Р";
-   - иллюстрации должны быть расположены по центру страницы.
-
-![](f/doc/oformlenie-texta-4.png)
-
-Рисунок 1 (или 1.1) - КА "Спектр‑Р"
-
-**Оформление таблиц**
-
-Требования:
-
-   - таблицы должны быть расположены по центру страницы;
-   - горизонтальное выравнивание внутри ячеек таблицы — по левому краю, для числовых значений — по центру;
-   - таблицы, за исключением таблиц приложений, следует нумеровать арабскими цифрами (Таблица 1, Таблица 1.1.);
-   - таблицы каждого приложения обозначают отдельной нумерацией арабскими цифрами с добавлением перед цифрой обозначения приложения (Таблица А.1);
-   - если в документе одна таблица, она должна быть обозначена «Таблица 1» или «Таблица В.1» (если она приведена в приложении В);
-   - горизонтальные и вертикальные линии, разграничивающие строки таблицы, допускается не проводить, если их отсутствие не затрудняет пользование таблицей;
-   - заголовки граф, как правило, записывают параллельно строкам таблицы;
-   - при необходимости допускается перпендикулярное расположение заголовков граф.
-
-**Пример:**
-
-Таблица 4.3 — Контроль параметров ЭМС
-
-|Полоса обзора|Полоса пропускания|
-|:--|:--|
-|1-10 ㎑|100 ㎐|
-|10-150 ㎑|1 ㎑|
-|150 ㎑‑30 ㎒|10 ㎑|
-|30 ㎒‑1 ㎓|100 ㎑|
-|Свыше 1 ㎓|1 ㎒|
-
-
 
 ### ГОСТ, ISO, Инструкции, Положения, ОСТ, СТО
 |°|*Наименование*|*Описание*|
 |:--|:--|:--|
-||[ГОСТ ИСО 9001](gost_iso_9001.md)|Системы менеджмента качества. Требования|
-||[ГОСТ ИСО 14644‑1](gost_iso_14644_1.md)|Чистые помещения и контролируемые среды, ч.1. Чистота воздуха.|
-||[ГОСТ ИСО 31010](gost_iso_31010.md)|Методы оценки риска|
+| |[Типичные ошибки в документах](error.md)| |
+| |[Положение НА-99](const_na99.md)| |
+| |[РК‑11](const_rk11.md)| |
+| |[ГОСТ ИСО 9001](gost_iso_9001.md)|Системы менеджмента качества. Требования|
+| |[ГОСТ ИСО 14644‑1](gost_iso_14644_1.md)|Чистые помещения и контролируемые среды, ч.1. Чистота воздуха.|
+| |[ГОСТ ИСО 31010](gost_iso_31010.md)|Методы оценки риска|
 
 **ISO**
 
-   - ISO/IEC/IEEE 42010 Systems and software engineering — Architecture description
+   - ISO/IEC/IEEE 42010 Systems & software engineering — Architecture description
 
-|*Инструкции*|*Комментарии*|
-|:--|:--|
-|[Типичные ошибки в документах](error.md)||
-|[Положение НА-99](const_na99.md)||
-|[РК‑11](const_rk11.md)||
 
 **Отраслевой стандарт (ОСТ)** — документ по стандартизации, утверждённый (принятый) до 1 июля 2003 г. федеральным органом исполнительной власти в пределах его компетенции. В настоящее время в России может устанавливать требования к оборонной продукции, а также процессам и иным объектам стандартизации, связанным с такой продукцией (отраслевые стандарты применяются до их отмены, разработки на их основе иных документов по стандартизации оборонной продукции или перевода в категорию стандартов организаций).
 
-**Стандарт организации (СТО)**, *устар. Стандарт предприятия (СТП)* — стандарт, утверждённый и применяемый организацией для целей стандартизации, а также для совершенствования производства и обеспечения качества продукции, выполнения работ, оказания услуг, а также для распространения и использования полученных в различных областях знаний результатов исследований (испытаний), измерений и разработок. <small>(ГОСТ Р 1.12‑2004: Стандартизация в РФ. Термины и определения.)</small>
+**Стандарт организации (СТО)**, *устар. Стандарт предприятия (СТП)* — стандарт, утверждённый и применяемый организацией для целей стандартизации, а также для совершенствования производства и обеспечения качества продукции, выполнения работ, оказания услуг, а также для распространения и использования полученных в различных областях знаний результатов исследований (испытаний), измерений и разработок. (ГОСТ Р 1.12‑2004: Стандартизация в РФ. Термины и определения.)
 
    1. В соответствии с п. 1 ст. 17 ФЗ «О техническом регулировании» к организациям, имеющим право утверждать стандарты соответствующего уровня, в частности, относятся коммерческие, общественные, научные, саморегулируемые организации, объединения юридических лиц.
    1. В соответствии со ст. 11 ФЗ «О техническом регулировании» к целям стандартизации относятся:
@@ -278,7 +281,7 @@ JMR/JERG. Common technical documentation. <https://sma.jaxa.jp/en/TechDoc/>
 
 
 
-### Распорядительная
+### Распорядительная, Ремонтная, Техническая, Технологическая
 К распорядительной документации относятся:
 
    1. **Постановление** — правовой акт, принимаемый высшим и некоторыми центральными органами коллегиального управления в целях разрешения наиболее важных и принципиальных задач, стоящих перед данными органами, и установления стабильных норм, правил поведения.
@@ -291,9 +294,6 @@ JMR/JERG. Common technical documentation. <https://sma.jaxa.jp/en/TechDoc/>
 
    - **Приказ** — это всегда документ (управленческий акт). **Распоряжение** — и документ (акт управления) и действие (связанное с управлением).
 
-
-
-### Ремонтная, Техническая, Технологическая
 **Ремонтная документация** — по [ГОСТ 2.102](гост_2_102.md) — документация, содержащая данные для проведения ремонтных работ на специализированных предприятиях. В соответствии с ГОСТ 2.102 входят в состав конструкторской документации. Разрабатываются по [ГОСТ 2.602](гост_2_602.md).
 
 **Техническая**
@@ -388,37 +388,37 @@ JMR/JERG. Common technical documentation. <https://sma.jaxa.jp/en/TechDoc/>
 |**7.**|Система стандартов по информации, библиотечному и издательскому делу (СИБИД)|
 |**8.**|[Государственная система обеспечения единства измерений](sseum.md) (ГСИ)|
 |**9.**|Единая система защиты от коррозии и старения (ЕСЗКС)|
-|**10.**||
+|**10.**| |
 |**11.**|Прикладная статистика|
 |**12.**|Система стандартов безопасности труда (ССБТ)|
 |**13.**|Репрография (Р)|
 |**14.**|[Единая система технологической подготовки производства](estpp.md) (ЕСТПП)|
 |**15.**|[Система разработки и постановки продукции на производство](spdlim.md) (СРПП)|
-|**16.**||
+|**16.**| |
 |**17.**|Система стандартов по охране природы и улучшению использования природных ресурсов (ОП)|
-|**18.**||
+|**18.**| |
 |**19.**|[Единая система программной документации](espd.md) (ЕСПД)|
 |**20.**|**20.39.** Комплексная система общих технических требований (КСОТТ)|
-||**20.57.** Комплексная система контроля качества (КСКК)|
+| |**20.57.** Комплексная система контроля качества (КСКК)|
 |**21.**|[Система проектной документации для строительства](sddfc.md) (СПДС)|
 |**22.**|Безопасность в чрезвычайных ситуациях (БЧС)|
-|**23.**||
+|**23.**| |
 |**24.**|Единая система стандартов автоматизированных систем управления (ЕССАСУ)|
 |**25.**|Расчёты и испытания на прочность|
 |**26.**|Единая система стандартов приборостроения|
 |**27.**|Надёжность в технике (НТ)|
-|**28.**||
+|**28.**| |
 |**29.**|Система стандартов эргономических требований и эргономического обеспечения|
 |**30.**|Система стандартов эргономики и технической эстетики (ССЭТЭ)|
-|**31.**||
-|**32.**||
+|**31.**| |
+|**32.**| |
 |**33.**|Единый российский страховой фонд документации (ЕРСФД)|
 |**34.**|Стандарты информационных технологий (СТИ)|
-|**35.**||
-|**36.**||
-|**37.**||
-|**38.**||
-|**39.**||
+|**35.**| |
+|**36.**| |
+|**37.**| |
+|**38.**| |
+|**39.**| |
 |**40.**|Стандарты по сертификации продукции и фирм (ССПФ)|
 |**00…**|Всё вышеуказанное, только для военной техники.|
 
@@ -431,13 +431,13 @@ JMR/JERG. Common technical documentation. <https://sma.jaxa.jp/en/TechDoc/>
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [Documents](doc.md) •··**<br> **Схема:** [КСС](ксс.md) ┊ [ПГС](пгс.md) ┊ [ПЛИС](плис.md) ┊ [СхД](wbs.md) ┊ [СхО](draft_model.md) ┊ [СхПЗ](draft_model.md) ┊ [СхЧ](unit_decd.md) ┊ [СхЭ](ei_diagram.md)<br> [Interface](interface.md) ┊ [Mission proposal](proposal.md)|
 
    1. Docs: …
    1. Notable interwikies — …
-   1. [ESA: Requirements and standards ⎆](https://www.esa.int/Our_Activities/Space_Engineering_Technology/Requirements_and_standards)
+   1. <http://everyspec.com/>
    1. <https://en.wikipedia.org/wiki/Documentation>
    1. <https://ru.wikipedia.org/wiki/Документация>
    1. <http://certcentr.ru/ekspluatacionnaya-dokumentaciya>

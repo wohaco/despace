@@ -6,7 +6,7 @@
 |B‑day, addr.|1992.04.22, на НПОЛ с 2015 / Химки|
 |Contact|<burov@laspace.ru>, *work:* 64-08; *mobile:* +7(926)833-55-86, +7(495)793-91-68 — домашний стационарный|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/b/burov1_photo_thumb.jpg)](f/contact/b/burov1_photo.jpg) [![](f/contact/b/burov1_sign_thumb.jpg)](f/contact/b/burov1_sign.png)|
+| |[![](f/contact/b/burov1_photo_thumb.jpg)](f/contact/b/burov1_photo.jpg) [![](f/contact/b/burov1_sign_thumb.jpg)](f/contact/b/burov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

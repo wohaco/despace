@@ -6,7 +6,7 @@
 |B‑day, addr.|1980.11.03 / …|
 |Contact|<burdanovav@tsniimash.ru>, *раб.:* +7(495)513-40-81; *mobile:* +7(926)273-80-51|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/b/burdanov1_photo.jpg) [![](f/contact/b/burdanov1_sign_thumb.jpg)](f/contact/b/burdanov1_sign.png)|
+| |![](f/contact/b/burdanov1_photo.jpg) [![](f/contact/b/burdanov1_sign_thumb.jpg)](f/contact/b/burdanov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

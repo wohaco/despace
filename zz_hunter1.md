@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<gary.w.hunter@nasa.gov>, *раб.:* +1(216)433-64-59; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/h/hunter1_photo_thumb.jpg)](f/contact/h/hunter1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/h/hunter1_photo_thumb.jpg)](f/contact/h/hunter1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Technical Lead for the Chemical Species Gas Sensors Team & Lead for Intelligent System Hardware in the Smart Sensors & Electronics Systems Branch at NASA GRC. Has served as Element Lead across NASA for a range Propulsion & Vehicle Health Management activities in the Aviation Safety program. Since his arrival at NASA Glenn, he has been involved with the design, fabrication, & testing of sensors. He has worked closely with academia & industry in developing a range of sensor technologies & sensor systems using a number of different sensor materials & sensing approaches.

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1982 / Washington|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/e/ewan1_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/e/ewan1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** MA, International Relations & International Economics, Concentration: International Energy Policy, J.Hopkins Univ., 2009. BA, Political Science/French, Notre Dame Univ., 2003. Proficient in Russia, fluent in French. Russian language immersion at Moscow State University in January 2009.
    - **Exp.:** Specialties: Plutonium disposition, MOX fuel, HEU downblending, fissile material disposition, nuclear & radiological security, physical security, nuclear nonproliferation, federal budgeting, project management, energy security, U.S. energy policy, international science cooperation, EU-Russian energy relations, legislative process.

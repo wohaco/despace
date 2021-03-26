@@ -4,9 +4,9 @@
 |*[Org.](contact.md)*|*АН СССР, SU.*|
 |:--|:--|
 |B‑day, addr.|1911.02.10 ‑ 1978.06.24 / Москва, СССР|
-|Contact||
+|Contact| |
 |i18n|Keldysh, Mstislav Vsevolodovich|
-||[![](f/contact/k/keldysh1_photo_thumb.jpg)](f/contact/k/keldysh1_photo.jpg) [![](f/contact/k/keldysh1_sign_thumb.jpg)](f/contact/k/keldysh1_sign.png)|
+| |[![](f/contact/k/keldysh1_photo_thumb.jpg)](f/contact/k/keldysh1_photo.jpg) [![](f/contact/k/keldysh1_sign_thumb.jpg)](f/contact/k/keldysh1_sign.png)|
 
    - **[Education](edu.md):** Академик АН СССР (1946; член‑корреспондент 1943). Трижды Герой Социалистического Труда (1956, 1961, 1971). Лауреат Ленинской премии (1957) и двух Сталинских премий (1942, 1946). Член КПСС с 1949. Член ЦК КПСС (1961 ‑ 1978).
    - **Exp.:** …

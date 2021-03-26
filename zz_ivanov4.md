@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / … Корп. 2, каб. 326.|
 |Contact|<mikhail_ivanov@brown.edu>, *раб.:* 2-89; *mobile:* +7(905)524-06-14|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/i/ivanov4_photo.jpg) <mark>nosign</mark>|
+| |![](f/contact/i/ivanov4_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Кандидат геолого‑минералогических наук.
    - **Exp.:** …

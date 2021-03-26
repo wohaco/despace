@@ -6,7 +6,7 @@
 |B‑day, addr.|1967.05.21 / …|
 |Contact|<c.s.cockell@ed.ac.uk>, *раб.:* +44(131)650-29-61; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/c/cockell1_photo_thumb.jpg)](f/contact/c/cockell1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/c/cockell1_photo_thumb.jpg)](f/contact/c/cockell1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Molecular Biophysics, Oxford Univ., 1994.
    - **Exp.:** His scientific interests have focused on astrobiology, geomicrobiology & life in extreme environments. He has published over 300 scientific papers & books in these areas. He has contributed to plans for the human exploration of Mars.

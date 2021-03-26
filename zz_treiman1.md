@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1953 / …|
 |Contact|<treiman@lpi.usra.edu>, *раб.:* +1(281)486-21-17, Fax: +1(281)486-21-62; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/t/treiman1_photo_thumb.jpg)](f/contact/t/treiman1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/t/treiman1_photo_thumb.jpg)](f/contact/t/treiman1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** **[CV](f/contact/t/treiman1_cv.pdf).** PhD, Igneous Petrology, Michigan Univ., 1982. MS, Metamorphic Geology, Stanford Univ., 1977. BA *magna cum laude*, Physical Chemistry, Pomona College, 1974.
    - **Exp.:** Geology, petrology, & geochemistry across the Solar System. Study planetary materials, particularly Moon rocks & martian meteorites, from which, he teases out the early histories of the terrestrial planets (incl. large asteroids), emphasizing their volatiles — water, halogens, carbon, etc. His background is in chemistry, & he approaches planetary sciences from both geological & thermochemical perspectives.

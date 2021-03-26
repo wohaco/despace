@@ -6,7 +6,7 @@
 |B‑day, addr.|1983.11.28 (Лиссабон, Португалия) / Лиссабон, Португалия|
 |Contact|<geral@iastro.pt>, *раб.:* +(351)213-616-731; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/g/gonsalves1_photo_thumb.jpg)](f/contact/g/gonsalves1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/g/gonsalves1_photo_thumb.jpg)](f/contact/g/gonsalves1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …
 |Contact|<ehouarn.millour@lmd.jussieu.fr>, *раб.:* +(33)144-27-52-86; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/m/millour1_photo_thumb.jpg)](f/contact/m/millour1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/m/millour1_photo_thumb.jpg)](f/contact/m/millour1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Planetary climate modelling.

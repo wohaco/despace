@@ -6,7 +6,7 @@
 |B‑day, addr.|1963.10.13 (Сербия) / …|
 |Contact|<tibor.kremic@nasa.gov>, *раб.:* +1(216)433-50-03, Fax: +1(216)433-21-41; *mobile:* +1(216)337-51-55|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/k/kremic1_photo.jpg) [![](f/contact/k/kremic1_sign_thumb.jpg)](f/contact/k/kremic1_sign.png)|
+| |![](f/contact/k/kremic1_photo.jpg) [![](f/contact/k/kremic1_sign_thumb.jpg)](f/contact/k/kremic1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

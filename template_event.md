@@ -6,20 +6,20 @@
 ---
 
 
-|**||
+|**| |
 |:--|:--|
-|Date||
-|Venue||
-|Host Org.||
-|Co‑host Org.||
-|Supported by||
-|Accepted by||
-|Content||
-|Focus||
-|Reg. Fee||
-|Attendees||
-|Related Mtg.||
-|Contact||
+|Date| |
+|Venue| |
+|Host Org.| |
+|Co‑host Org.| |
+|Supported by| |
+|Accepted by| |
+|Content| |
+|Focus| |
+|Reg. Fee| |
+|Attendees| |
+|Related Mtg.| |
+|Contact| |
 
 **Science Organizing committee:**
 

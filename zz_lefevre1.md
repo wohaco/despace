@@ -6,7 +6,7 @@
 |B‑day, addr.|1991.10.01 (Руан, Франция) / Париж, Франция|
 |Contact|<maxence.lefevre@physics.ox.ac.uk>, <maxence.lefevre@lmd.jussieu.fr>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/l/lefevre1_photo_thumb.jpg)](f/contact/l/lefevre1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/l/lefevre1_photo_thumb.jpg)](f/contact/l/lefevre1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD at Laboratoire de Météorologie Dynamique in Paris under the supervision of [Sébastien Lebonnois](zz_lebonnois1.md) & [Aymeric Spiga](zz_spiga1.md) about mesoscale modeling of the turbulence in the Venus atmosphere.
    - **Exp.:** …

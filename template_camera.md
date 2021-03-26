@@ -5,27 +5,27 @@
 
 |*•    Характеристика    •*|*[Значение](si.md) <small>(…)</small>*|
 |:--|:--|
-|[TRL](trl.md)||
-|Исполнение||
-|Объектив||
-|Поле зрения, °||
-|Разрешение, пикс||
-|Режимы съёмки||
-|Частота, кадр/с||
-|Яркость фона, кд/m²||
+|[TRL](trl.md)| |
+|Исполнение| |
+|Объектив| |
+|Поле зрения, °| |
+|Разрешение, пикс| |
+|Режимы съёмки| |
+|Частота, кадр/с| |
+|Яркость фона, кд/m²| |
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС||
-|Dimensions, L×W×H, mm||
-|Интерфейсы||
-|Mass, kg||
-|[Voltage](voltage.md), V||
-|Overload, g||
-|[Rad.resist](ion_rad.md), Gy (rad)||
-|Resource, h (y)||
-|[Lifetime](lifetime.md), h (y)||
-|[Temp. range](tcs.md), ℃||
-|Consumption, W||
-||[![](f/cam//_pic1_thumb.jpg)](f/cam//_pic1.jpg)|
+|[ВБР](srrq.md) за САС| |
+|Dimensions, L×W×H, mm| |
+|Интерфейсы| |
+|Mass, kg| |
+|[Voltage](voltage.md), V| |
+|Overload, g| |
+|[Rad.resist](ion_rad.md), Gy (rad)| |
+|Resource, h (y)| |
+|[Lifetime](lifetime.md), h (y)| |
+|[Temp. range](tcs.md), ℃| |
+|Consumption, W| |
+| |[![](f/cam//_pic1_thumb.jpg)](f/cam//_pic1.jpg)|
 
 </small>
 

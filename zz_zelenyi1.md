@@ -6,7 +6,7 @@
 |B‑day, addr.|1948.08.23 / …|
 |Contact|<lzelenyi@iki.rssi.ru>, *раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark>|
 |i18n|Zeleny, Lev Matveevich|
-||![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.jpg)](f/contact/z/zeleniy1_sign.png)|
+| |![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.jpg)](f/contact/z/zeleniy1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

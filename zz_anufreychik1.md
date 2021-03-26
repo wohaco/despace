@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<kos@iki.rssi.ru>, *раб.:* +7(495)333-45-78; *mobile:* +7(903)125-76-11|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/a/anufreichik1_photo.jpg) [![](f/contact/a/anufreichik1_sign_thumb.jpg)](f/contact/a/anufreichik1_sign.png)|
+| |![](f/contact/a/anufreichik1_photo.jpg) [![](f/contact/a/anufreichik1_sign_thumb.jpg)](f/contact/a/anufreichik1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

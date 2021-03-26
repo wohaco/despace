@@ -6,7 +6,7 @@
 |B‑day, addr.|1956.06.05 Christchurch, New Zealand / College Park, Maryland|
 |Contact|<smackwell@aip.org>, *work:* +1(301)209-31-72; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/m/mackwell1_photo_thumb.jpg)](f/contact/m/mackwell1_photo.jpg) [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/m/mackwell1_photo_thumb.jpg)](f/contact/m/mackwell1_photo.jpg) [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geophysics/Earth Sciences, Australian National University, 1984. MS, Physics & Astronomy, University of Canterbury, 1979. BS, Physics & Mathematics, University of Canterbury, 1978.
    - **Exp.:** Stephen Mackwell is an internationally recognized researcher in geophysics, specializing in laboratory‑based studies of the physical, chemical & mechanical properties of geological materials. He is also interested in the transport of fluid components in mantle & crustal rocks on the microscopic & macroscopic scales, & on the effects of such components on mechanical properties. He has authored or co-authored over 80 articles in international scientific journals & is an editor of a book on comparative climatology of terrestrial planets published by the University of Arizona Press. Experienced Science Leader with a demonstrated history of working in the Academic & Space industries. Skilled in Academic Leadership, Research (Planetary Science, Materials Science, Geochemistry & Geophysics), & Educational & Program Management. Strong administrative professional with a Doctor of Philosophy (PhD) focused in Geophysics/Earth Sciences from The Australian National University.

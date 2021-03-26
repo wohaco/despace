@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1971 / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/b/baker1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/b/baker1_sign_thumb.jpg)](f/contact/b/baker1_sign.png)|
+| |[![](f/contact/b/baker1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/b/baker1_sign_thumb.jpg)](f/contact/b/baker1_sign.png)|
 
    - **[Education](edu.md):** Mech. engineering, Thermal engineering, Carnegie Mellon Univ., 1993.
    - **Exp.:** GFSC: 2009 ‑ ┊ Mission/Project systems enginer, Lead mission studies in the planetary and astrophysics line of business. 2004 ‑ 2009, Lead thermal engineer, Led [LRO](lunar_reconnaissance_orbiter.md) thermal team.

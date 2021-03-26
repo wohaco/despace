@@ -6,7 +6,7 @@
 |B‑day, addr.|1943.09.05 (St. Albans, England) / …|
 |Contact|<ctrussel@igpp.ucla.edu>, *раб.:* +1(310)825-31-88; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/r/russell1_photo_thumb.jpg)](f/contact/r/russell1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/r/russell1_photo_thumb.jpg)](f/contact/r/russell1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, California Univ. Univ., Los Angeles, 1968. BS, Toronto Univ., 1964.
    - **Exp.:** Research. He led the Magnetic Fields Experiments on NASA’s Polar satellite to map the earth’s magnetosphere. He leads NASA’s Dawn Mission team. Dawn orbited Vesta in 2011 & 2012 & has entered the orbit of Ceres in 2015. It is the first spacecraft to orbit two celestial bodies. In collaboration with John L. Philips he has studied the ashen light on Venus. He has studied the solar wind through his participation in NASA’s STEREO & the European Space Agency’s Venus Express missions.

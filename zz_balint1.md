@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1963 / …|
 |Contact|<tibor.balint@jpl.nasa.gov>, <tibor.balint@network.rca.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/b/balint1_photo_thumb.jpg)](f/contact/b/balint1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/b/balint1_photo_thumb.jpg)](f/contact/b/balint1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD at the Royal College of Art, School of Design, in Innovation Design Engineering.
    - **Exp.:** …

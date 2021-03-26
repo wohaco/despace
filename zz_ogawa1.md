@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<cmaogawa@mail.ecc.u-tokyo.ac.jp>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||<mark>nophoto</mark> <mark>nosign</mark>|
+| |<mark>nophoto</mark> <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD. Solid Earth & planetary physics. The evolution of the inteior of terrestrial planets. Numerical Modeling, Planets, Plate Tectonics, Modeling & Simulation, CFD Simulation.
    - **Exp.:** …

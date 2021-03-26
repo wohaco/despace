@@ -18,14 +18,14 @@
 |:--|:--|:--|:--|:--|
 |**УКВ / VHF**|en. *very high frequency*|0.05 ‑ 0.33|90 ‑ 600|Ультракороткие волны.<br> • УКВ по регламенту допустим для связи КА‑КА.<br> • 121.5, 243 ㎒ — сигнал бедствия, вещание запрещено.<br> • 406 - 406.1 — для радиопеленгации|
 |**ДМВ / UHF**|en. *ultra high frequency*|0.3 ‑ 3|10 ‑ 100|Дециметровые волны.<br> • 1 420.40575 ㎒, 21.1 ㎝ — нейтральный водород.|
-|**L**|en. *Long*|1 ‑ 2|15 ‑ 30||
+|**L**|en. *Long*|1 ‑ 2|15 ‑ 30| |
 |**S**|en. *Short*|2 ‑ 4|7.5 ‑ 15|2 ㎓ по регламенту допустимо для связи КА‑КА:<br> • 2 025 ‑ 2 100 ㎒ Земля‑космос, космос‑космос;<br> • 2 110 ‑ 2 120 ㎒ дальний космос;<br> • 2 200 ‑ 2 290 ㎒ Земля‑космос, космос‑космос;<br> • 2 290 ‑ 2 300 ㎒ дальний космос|
-|**C**|en. *Compromise*|4 ‑ 8|3.75 ‑ 7.5||
-|**X**||8 ‑ 12|2.5 ‑ 3.75|Управление оружием, ракетами, морские радары, погода, картографирование среднего разрешения; в США 10 525 ± 25 ㎒ используется в РЛС аэропортов.<br> • Для связи КА-Земля разрешена полоса в 10 ㎒;<br> • 8 400 ‑ 8 450 ㎒ для дальнего космоса;<br> • 8 450 ‑ 8 500 ㎒ для ближнего космоса.|
-|**Ku**|en. *under K*|12 ‑ 18|1.67 ‑ 2.5||
+|**C**|en. *Compromise*|4 ‑ 8|3.75 ‑ 7.5| |
+|**X**| |8 ‑ 12|2.5 ‑ 3.75|Управление оружием, ракетами, морские радары, погода, картографирование среднего разрешения; в США 10 525 ± 25 ㎒ используется в РЛС аэропортов.<br> • Для связи КА-Земля разрешена полоса в 10 ㎒;<br> • 8 400 ‑ 8 450 ㎒ для дальнего космоса;<br> • 8 450 ‑ 8 500 ㎒ для ближнего космоса.|
+|**Ku**|en. *under K*|12 ‑ 18|1.67 ‑ 2.5| |
 |**K**|нем. *kurz* — «короткий»|18 ‑ 27|1.11 ‑ 1.67|Использование ограничено из‑за сильного поглощения водяным паром, поэтому используются Ku и Ka.|
-|**Ka**|en. *above K*|27 ‑ 40|0.75 ‑ 1.11||
-|<small>**Видимое<br> излучение**</small>||385k ‑ 790k|||
+|**Ka**|en. *above K*|27 ‑ 40|0.75 ‑ 1.11| |
+|<small>**Видимое<br> излучение**</small>| |385k ‑ 790k| | |
 
 **Сверхвысокие частоты (СВЧ)** — этот термин может означать:
 
@@ -63,20 +63,20 @@
 |*Дальность*|*Диапазон*|*Скорость,<br> кбит/с (Мбит/с)*|*Антенна*|*Примечание*|
 |:--|:--|:--|:--|:--|
 |**Луна**|X|4 096 (4)|CНА|Полоса 10 ㎒.|
-||X|10 240 (10)|ОНА|Полоса 10 ㎒.|
-||X|19 350 (18.9)|ОНА|Полоса 10 ㎒.|
-||Ka|102 400 (100)|ОНА||
-||||||
+| |X|10 240 (10)|ОНА|Полоса 10 ㎒.|
+| |X|19 350 (18.9)|ОНА|Полоса 10 ㎒.|
+| |Ka|102 400 (100)|ОНА| |
+| | | | | |
 |**Венера**|X|32 ‑ 256|ОНА|Полоса 10 ㎒.|
-||X|64 ‑ 512|ОНА|Полоса 10 ㎒.|
-||Ka|26 624 (26)|ОНА||
-||ЛКС|56 320 (55)|||
+| |X|64 ‑ 512|ОНА|Полоса 10 ㎒.|
+| |Ka|26 624 (26)|ОНА| |
+| |ЛКС|56 320 (55)| | |
 
 
 
 ## Инфографика
 
-|||
+| | |
 |:--|:--|
 |[![](f/comms/electromagnetic-spectrum-xkcd_thumb.jpg)](f/comms/electromagnetic-spectrum-xkcd.png)|[![](f/comms/electromagnetic-spectrum-1_thumb.jpg)](f/comms/electromagnetic-spectrum-1.png)|
 
@@ -87,7 +87,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [External factors (EF)](ef.md) •··**<br> [Astro.object](aob.md) ┊ [Atmosphere](atmosphere.md) ┊ [Atmosphere of Earth](earth.md) ┊ [Cosmic rays](cr.md) ┊ [EMI](emi.md) ┊ [Grav.waves](gravwave.md) ┊ [Ion.radiation](ion_rad.md)┊ [Radio frequency](rf.md) ┊ [Solar phenomena](solar_ph.md) ┊ [Space debris](sdeb.md) ┊ [Standart conditions](sctp.md) ┊ [Time](time.md) ┊ [VA radiation belts](varb.md)|
 |**`Радиосвязь:`**<br> [CCSDS](ccsds.md) ┊ [Антенна](antenna.md) ┊ [АФУ](afdev.md) ┊ [Битрейт](bitrate.md) ┊ [ВОЛП](ofts.md) ┊ [ДНА](дна.md) ┊ [Диапазоны частот](rf.md) ┊ [Зрение](view.md) ┊ [Интерферометр](interferometer.md) ┊ [Информация](info.md) ┊ [КНД](directivity.md) ┊ [Код Рида‑Соломона](rsco.md) ┊ [КПДА](antenna_ap.md) ┊ [КСВ](swr.md) ┊ [КУ](ку.md) ┊ [ЛКС, АОЛС, FSO](fso.md) ┊ [Несущий сигнал](carrwave.md) ┊ [ПНА, ПОНА, ПСНА](aiad.md) ┊ [Помехи](emi.md) (EMI, RFI) ┊ [Последняя миля](last_mile.md) ┊ [Регламент радиосвязи](rr.md) ┊ [СИТ](etedp.md) ┊ [Фидер](feeder.md) <br>• • •<br> **РФ:** [БА КИС](ба_кис.md) (21) ┊ [БРК](brk_lav.md) (12) ┊ [РУ ПНИ](ру_пни.md) () ┊ [HSXBDT](hsxbdt.md) (1.8) ┊ [CSXBT](csxbt.md) (0.38) ┊ [ПРИЗЫВ-3](prizyv_3.md) (0.17) *([ПРИЗЫВ-1](prizyv_1.md) (0.075))*|

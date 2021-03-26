@@ -33,7 +33,7 @@
 |Composition|2 Orbiters; Transfer Module|
 |Contractor|Arianespace|
 |Manufacturer|Airbus, [ISAS](zz_isas.md)|
-||**`…`**|
+| |**`…`**|
 |Comms|MPO: X- and Ka‑band, diameter=1 m;<br>Mio: X‑band, diameter=0.8 m|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): 2018-080A, SCN: 43653|
 |Mass|**Dry mass:** 2 700 ㎏<br>**BOL mass**: *MPO*: 1 230 ㎏ ([Large satellite](спутник.md), [EVN‑073](venus.md)); *Mio*: 255 ㎏ ([Minisatellite](спутник.md), [EVN‑070](venus.md))|
@@ -53,8 +53,8 @@ Targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.||D||F|||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.| |D| |F| | |
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
 
 </small>
 
@@ -83,11 +83,11 @@ As of 2018, the planned mission schedule is:
 
 |*Date*|*Event*|*Comment*|
 |:--|:--|:--|
-|20 October 2018|Launch||
+|20 October 2018|Launch| |
 |6 April 2020|Earth fly‑by|1.5 years after launch|
-|12 October 2020|First Venus fly‑by||
+|12 October 2020|First Venus fly‑by| |
 |11 August 2021|Second Venus fly‑by|1.35 Venus years after first Venus fly‑by|
-|2 October 2021|First Mercury fly‑by||
+|2 October 2021|First Mercury fly‑by| |
 |23 June 2022|Second Mercury fly‑by|2 orbits (3.00 Mercury years) after 1st Mercury fly‑by|
 |20 June 2023|Third Mercury fly‑by|> 3 orbits (4.12 Mercury years) after 2nd Mercury fly‑by|
 |5 September 2024|Fourth Mercury fly‑by|~ 4 orbits (5.04 Mercury years) after 3rd Mercury fly‑by|
@@ -101,7 +101,7 @@ As of 2018, the planned mission schedule is:
 
 |![](f/project/b/bepicolombo/animation_of_bepicolombo_trajectory.gif)|Pink — BepiColombo <br><br> Blue — Earth <br><br> Aqua — Venus <br><br> Green — Mercury <br><br> Yellow — Sun|
 |:--|:--|
-|***Animation of BepiColombo’s trajectory from 20 October 2018 to 2 November 2025***||
+|***Animation of BepiColombo’s trajectory from 20 October 2018 to 2 November 2025***| |
 
 <p style="page-break-after:always"> </p>
 
@@ -217,7 +217,7 @@ Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equat
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

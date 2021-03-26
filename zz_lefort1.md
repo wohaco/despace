@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1976  / …|
 |Contact|<Jayne.Lefort@sciops.esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/l/lefort1_photo_thumb.jpg)](f/contact/l/lefort1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/l/lefort1_photo_thumb.jpg)](f/contact/l/lefort1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** MS, Spacecraft Technology and Satellite Communications, UCL, 1999. BS, Physics, University of Liverpool, 1997.
    - **Exp.:** ESA: Operations Engineer, 2013 ‑ Present; Science Ground Segment System Engineer, 2009 ‑ 2013 (Lead System Engineer for the BepiColombo Science Ground Segment). CNES: Ground Operations Engineer, 2005 ‑ 2006 (Ground Operations Engineer for the Ground Operations Team of the ATV (Jules Verne), responsible for the Monitoring and Control Subsystem); Expriement Operations Engineer, 2001 ‑ 2004 (Rosetta/Philae Experiment Operations Engineer, Responsible for the planning of Lander Experiment Operations and requirement definition of the SONC systems for planning and data visualization). ESTEC, 1999 ‑ 2001 (Research of innovative technologies for TRP and General Studies Programme. Development of database of S/C systems and subsystems for use in CDF).

@@ -55,36 +55,36 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.||D|||||
-|EVN‑014||Atmosphere: composition.||D|||F||
-|EVN‑017||Atmosphere: structure.||D|||||
-|EVN‑019||Atmosphere: energetic balance.||D|||||
-|EVN‑020||Inner structure of the planet.||D|||||
-|EVN‑021||Surface: map, 3D.||D|C||||
-|EVN‑022||Surface: map, precise.||D|||||
-|EVN‑023||Surface: mineralogical composition.|||C||||
-|EVN‑024||Surface: composition.|||C||||
-|EVN‑025||Surface: structure.|||C||||
-|EVN‑027||The causes why Venus evolved in a planet so different from Earth.||D|C|F|||
-|EVN‑029||Is Venus geologically active?:||D|C|F|||
-|EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
-|EVN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.||D|||||
-|EVN‑040||Were there oceans & why have they gone||D|C|F|||
-|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
-|EVN‑042||History & causes of the planet’s volcanic & tectonic evolution.||D|||||
-|EVN‑045||Surface: nature of the tessera.||D|||||
-|EVN‑046||Surface: causes of the changes during the last billion years.||D|C|F|||
-|EVN‑051||Dimensions & characteristics of the mantle & the core.||D|||||
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
-|EVN‑076||Surface: volcanoes, their presence.||D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
-|EVN‑079||Precise duration of the Venusian day.||D|||||
-|EVN‑085|T|Surface: tessera investigations, remote||D||F|||
-|EVN‑087||Crustal support mechanisms.||D|||||
-|EVN‑088|T|Surface: subsurface investigations.|||C||||
-|EVN‑089||Measuring the planetary gravitational field.||D||F|||
-|EVN‑090||Spin axis.||D|||||
+|EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
+|EVN‑009| |Atmosphere: SO₂ concentration & nature of its variations.| |D| | | | |
+|EVN‑014| |Atmosphere: composition.| |D| | |F| |
+|EVN‑017| |Atmosphere: structure.| |D| | | | |
+|EVN‑019| |Atmosphere: energetic balance.| |D| | | | |
+|EVN‑020| |Inner structure of the planet.| |D| | | | |
+|EVN‑021| |Surface: map, 3D.| |D|C| | | |
+|EVN‑022| |Surface: map, precise.| |D| | | | |
+|EVN‑023| |Surface: mineralogical composition.| | |C| | | |
+|EVN‑024| |Surface: composition.| | |C| | | |
+|EVN‑025| |Surface: structure.| | |C| | | |
+|EVN‑027| |The causes why Venus evolved in a planet so different from Earth.| |D|C|F| | |
+|EVN‑029| |Is Venus geologically active?:| |D|C|F| | |
+|EVN‑035| |Atmosphere: nature of the UV‑absorber.| |D| | | | |
+|EVN‑036| |Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.| |D| | | | |
+|EVN‑040| |Were there oceans & why have they gone| |D|C|F| | |
+|EVN‑041| |Common connection between the atmosphere & the surface.| |D| | | | |
+|EVN‑042| |History & causes of the planet’s volcanic & tectonic evolution.| |D| | | | |
+|EVN‑045| |Surface: nature of the tessera.| |D| | | | |
+|EVN‑046| |Surface: causes of the changes during the last billion years.| |D|C|F| | |
+|EVN‑051| |Dimensions & characteristics of the mantle & the core.| |D| | | | |
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
+|EVN‑076| |Surface: volcanoes, their presence.| |D| |F| | |
+|EVN‑077| |Atmosphere: chemical elements distribution.| |D| |F| | |
+|EVN‑079| |Precise duration of the Venusian day.| |D| | | | |
+|EVN‑085|T|Surface: tessera investigations, remote| |D| |F| | |
+|EVN‑087| |Crustal support mechanisms.| |D| | | | |
+|EVN‑088|T|Surface: subsurface investigations.| | |C| | | |
+|EVN‑089| |Measuring the planetary gravitational field.| |D| |F| | |
+|EVN‑090| |Spin axis.| |D| | | | |
 
 </small>
 
@@ -449,7 +449,7 @@ The first international conference to discuss the scientific investigations of t
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

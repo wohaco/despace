@@ -6,7 +6,7 @@
 |B‑day, addr.|1994.10.12 (Мумбаи, Индия) / Итака, Нью‑Йорк, США|
 |Contact|<asj59@cornell.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +1(607)261-21-67|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/j/jindal1_photo_thumb.jpg)](f/contact/j/jindal1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/j/jindal1_photo_thumb.jpg)](f/contact/j/jindal1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrophysics, Cornell Univ., USA. B.Tech., Engineering Physics, Indian Institute of Technology, 2012-2016.
    - **Exp.:** My research interests include understanding the evolution of terrestrial planets & what makes a planet habitable. I am also interested in the search for life beyond Earth.

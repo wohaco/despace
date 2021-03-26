@@ -6,7 +6,7 @@
 |B‑day, addr.|1960.05.15 (Москва, РФ) / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/m/maroko1_animated.gif) <mark>nosign</mark>|
+| |![](f/contact/m/maroko1_animated.gif) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

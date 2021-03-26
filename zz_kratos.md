@@ -3,7 +3,7 @@
 
 |[![](f/contact/k/kratos_is_logo1_thumb.jpg)](f/contact/k/kratos_is_logo1.png)|<support@integ-japan.com>, <mark>noworkphone</mark>, Fax: …;<br> *3-chōme-7-26 Ariake, Koto City, Tōkyō-to 135-0063, Japan*|
 |:--|:--|
-|Contact||
+|Contact| |
 |Link|<http://www.integ-japan.com/><br> <https://www.kratosdefense.com/products/space><br> <https://www.linkedin.com/company/integral-systems-inc./>|
 
 **Kratos Integral Systems** is a company aimed for R&D [ground antennas](scs.md), optimizing/managing satelllites, signals.

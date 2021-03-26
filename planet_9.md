@@ -54,8 +54,8 @@
 |Equatorial rotation velocity|… ㎞/h <small>(… земной)</small>|
 |**Temperature & atmosph.:**|• • •|
 |[Atmosphere](atmosphere.md)|**Pressure** … ㎫ (… ㍴).<br> **Плотность** … ㎏/m³.<br> **Ветер:**<br> … ‑ … ㎧ (поверхность).<br> **Состав:**<br> ….|
-|[Освещённость](illum.md)||
-|Радиация||
+|[Освещённость](illum.md)| |
+|Радиация| |
 |Температура|–226 ℃|
 
 
@@ -154,13 +154,13 @@ As of September 2019, no observation of Planet Nine had been announced. While sk
 |*✔*|*Космический аппарат (индекс)*|*Дата (UTC)*|*C*|*D*|*F*|*H*|*S*|*X*|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |—|**Proposed:**|—|—|—|—|—|—|—|—|
-|…|…|…|||||||<mark>TBD</mark>|
+|…|…|…| | | | | | |<mark>TBD</mark>|
 |—|**Developing:**|—|—|—|—|—|—|—|—|
-|…|…|…|||||||<mark>TBD</mark>|
+|…|…|…| | | | | | |<mark>TBD</mark>|
 |—|**Active:**|—|—|—|—|—|—|—|—|
-|…|…|…|||||||<mark>TBD</mark>|
+|…|…|…| | | | | | |<mark>TBD</mark>|
 |—|**Past:**|—|—|—|—|—|—|—|—|
-|…|…|…|||||||<mark>TBD</mark>|
+|…|…|…| | | | | | |<mark>TBD</mark>|
 
 </small>
 
@@ -177,11 +177,11 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |•|•|**Never occurred:**|•|•|•|•|•|•|
-|EMN‑…|||||||||
+|EMN‑…| | | | | | | | |
 |•|•|**Was tried:**|•|•|•|•|•|•|
-|EMN‑…|||||||||
+|EMN‑…| | | | | | | | |
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EMN‑…|||||||||
+|EMN‑…| | | | | | | | |
 
 </small>
 
@@ -189,130 +189,130 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 
 |*…‑XXX*|*T*|*EN*|*RU*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|||**`Never occurred`**|**`Не проводилось`**||||||
-|[…‑007](planet_9.md)||Atmosphere: preliminary model.|Атмосфера: модель, черновая.||||||
-|[…‑006](planet_9.md)||Spin axis.|Наклон оси.||||||
-|[…‑008](planet_9.md)||Surface: preliminary map.|Поверхность: карта, черновая.||||||
-|[…‑001](planet_9.md)||Confirm the existence.|Подтвердить наличие.||||||
-|[…‑004](planet_9.md)|T|Exploration: from inside of atmosphere.|Исследование: изнутри атмосферы.||||||
-|[…‑002](planet_9.md)|T|Exploration: from Earth.|Исследование: с Земли.||||||
-|[…‑003](planet_9.md)|T|Exploration: from venusian orbit.|Исследование: с ОИСВ.||||||
-|[…‑005](planet_9.md)|T|Exploration: from surface.|Исследование: с поверхности.||||||
+| | |**`Never occurred`**|**`Не проводилось`**| | | | | |
+|[…‑007](planet_9.md)| |Atmosphere: preliminary model.|Атмосфера: модель, черновая.| | | | | |
+|[…‑006](planet_9.md)| |Spin axis.|Наклон оси.| | | | | |
+|[…‑008](planet_9.md)| |Surface: preliminary map.|Поверхность: карта, черновая.| | | | | |
+|[…‑001](planet_9.md)| |Confirm the existence.|Подтвердить наличие.| | | | | |
+|[…‑004](planet_9.md)|T|Exploration: from inside of atmosphere.|Исследование: изнутри атмосферы.| | | | | |
+|[…‑002](planet_9.md)|T|Exploration: from Earth.|Исследование: с Земли.| | | | | |
+|[…‑003](planet_9.md)|T|Exploration: from venusian orbit.|Исследование: с ОИСВ.| | | | | |
+|[…‑005](planet_9.md)|T|Exploration: from surface.|Исследование: с поверхности.| | | | | |
 |• • •|•|• • •|• • •|•|•|•|•|•|
-|||**Was tried:**|**`Завершено частично`**||||||
-|…||…|…||||||
+| | |**Was tried:**|**`Завершено частично`**| | | | | |
+|…| |…|…| | | | | |
 |• • •|•|• • •|• • •|•|•|•|•|•|
-|||**Mostly done:**|**`В целом завершено`**||||||
-|…||…|…||||||
+| | |**Mostly done:**|**`В целом завершено`**| | | | | |
+|…| |…|…| | | | | |
 
 1
 
 |•|•|**Never occurred:**|•|•|•|•|•|•|
-|EMN‑080||Albedo: changes in time|Gi||D|F|||
-|EMN‑036||Atmosphere: cause & influence of geological & chemical activity on the climate & clouds|||D||||
-|EMN‑037||Atmosphere: cause of the retrograde moving|||D||||
-|EMN‑032||Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid|Ac, Ai, Am, At||D||||
-|EMN‑007||Atmosphere: connection between the topography & the atmo circulation|||D||||
-|EMN‑033||Atmosphere: nature/rate of its escape|||D||||
-|EMN‑038||Atmosphere: processes of the atmospheric parts dissipation|||D||||
-|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 ㎞|All A||||||
-|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 ㎞|All A||||||
-|EMN‑054|T|Atmosphere: sample return|As|C|||||
-|EMN‑015||Atmosphere: structure of the mesosphere|All A||D||||
-|EMN‑030||Atmosphere: was it lost during some cataclysm or event|||D||||
-|EMN‑095||Climate: history & causes of changes|||D||||
-|EMN‑087||Crustal support mechanisms|||D||||
-|EMN‑051||Dimensions & characteristics of the mantle & the core|||D||||
-|EMN‑057|T|Exploration with [satellites](sc.md): microsatellites|||D|F|||
-|EMN‑071|T|Exploration with [satellites](sc.md): nanosatellites|||D|F|||
-|EMN‑058|T|Exploration: directed seismoexperiment|||D|F|||
-|EMN‑056|T|Exploration: from L1/L2|Ai, Am, At, Gi||D||||
-|EMN‑059|T|Exploration: with [rover](rover.md)|All A/S|C|||||
-|EMN‑081|T|Extreme environment electronics||C|D|F|||
-|EMN‑094|T|High temperature electronics||C|D|F|||
-|EMN‑066|T|Human: on the surface||C|||H||
-|EMN‑065|T|Human: on the orbit|||D||H||
-|EMN‑060|T|Human: manned fly‑by|||D|F|H||
-|EMN‑043||Mechanisms of the mantle’s convection|||D|F|||
-|EMN‑048||Nature & sources of the greenhouse effect|||D|F|||
-|EMN‑049||Nature & characteristics of the thermal tides|||D||||
-|EMN‑069|T|Prolonged surface‑spacecraft functioning||C|||||
-|EMN‑064|T|Planetary terraforming||C|||H||
-|EMN‑045||Surface: nature of the tessera|||D||||
-|EMN‑061|T|Surface: sample return||C||||S|
-|EMN‑088|T|Surface: subsurface investigations||C|||||
-|EMN‑086|T|Surface: tessera investigations, in‑situ||C|||||
-|EMN‑047||Surface: structure‑composition connection of different regions & planet’s evolution||C|||||
-|EMN‑039||Was the planet inhabited & for how long||C|D||||
-|EMN‑040||Were there oceans & why have they gone||C|D|F|||
+|EMN‑080| |Albedo: changes in time|Gi| |D|F| | |
+|EMN‑036| |Atmosphere: cause & influence of geological & chemical activity on the climate & clouds| | |D| | | |
+|EMN‑037| |Atmosphere: cause of the retrograde moving| | |D| | | |
+|EMN‑032| |Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid|Ac, Ai, Am, At| |D| | | |
+|EMN‑007| |Atmosphere: connection between the topography & the atmo circulation| | |D| | | |
+|EMN‑033| |Atmosphere: nature/rate of its escape| | |D| | | |
+|EMN‑038| |Atmosphere: processes of the atmospheric parts dissipation| | |D| | | |
+|EMN‑082|T|Atmosphere: prolonged investigations on the H = 0 ‑ 10 ㎞|All A| | | | | |
+|EMN‑083|T|Atmosphere: prolonged investigations on the H = 10 ‑ 30 ㎞|All A| | | | | |
+|EMN‑054|T|Atmosphere: sample return|As|C| | | | |
+|EMN‑015| |Atmosphere: structure of the mesosphere|All A| |D| | | |
+|EMN‑030| |Atmosphere: was it lost during some cataclysm or event| | |D| | | |
+|EMN‑095| |Climate: history & causes of changes| | |D| | | |
+|EMN‑087| |Crustal support mechanisms| | |D| | | |
+|EMN‑051| |Dimensions & characteristics of the mantle & the core| | |D| | | |
+|EMN‑057|T|Exploration with [satellites](sc.md): microsatellites| | |D|F| | |
+|EMN‑071|T|Exploration with [satellites](sc.md): nanosatellites| | |D|F| | |
+|EMN‑058|T|Exploration: directed seismoexperiment| | |D|F| | |
+|EMN‑056|T|Exploration: from L1/L2|Ai, Am, At, Gi| |D| | | |
+|EMN‑059|T|Exploration: with [rover](rover.md)|All A/S|C| | | | |
+|EMN‑081|T|Extreme environment electronics| |C|D|F| | |
+|EMN‑094|T|High temperature electronics| |C|D|F| | |
+|EMN‑066|T|Human: on the surface| |C| | |H| |
+|EMN‑065|T|Human: on the orbit| | |D| |H| |
+|EMN‑060|T|Human: manned fly‑by| | |D|F|H| |
+|EMN‑043| |Mechanisms of the mantle’s convection| | |D|F| | |
+|EMN‑048| |Nature & sources of the greenhouse effect| | |D|F| | |
+|EMN‑049| |Nature & characteristics of the thermal tides| | |D| | | |
+|EMN‑069|T|Prolonged surface‑spacecraft functioning| |C| | | | |
+|EMN‑064|T|Planetary terraforming| |C| | |H| |
+|EMN‑045| |Surface: nature of the tessera| | |D| | | |
+|EMN‑061|T|Surface: sample return| |C| | | |S|
+|EMN‑088|T|Surface: subsurface investigations| |C| | | | |
+|EMN‑086|T|Surface: tessera investigations, in‑situ| |C| | | | |
+|EMN‑047| |Surface: structure‑composition connection of different regions & planet’s evolution| |C| | | | |
+|EMN‑039| |Was the planet inhabited & for how long| |C|D| | | |
+|EMN‑040| |Were there oceans & why have they gone| |C|D|F| | |
 |•|•|**Was tried:**|•|•|•|•|•|•|
-|EMN‑093|T|Atmosphere/surface imaging|||D|F|||
-|EMN‑077||Atmosphere: chemical elements distribution|||D|F|||
-|EMN‑018||Atmosphere: clouds, their chemistry|||D|F|||
-|EMN‑075||Atmosphere: clouds, their nature|||D|F|||
-|EMN‑016||Atmosphere: clouds, their structure|||D|F|||
-|EMN‑011||Atmosphere: common circulation model|||D||||
-|EMN‑014||Atmosphere: composition|||D||F||
-|EMN‑019||Atmosphere: energetic balance|||D||||
-|EMN‑008||Atmosphere: flashing on the night side|||D||||
-|EMN‑013||Atmosphere: illumination of the surface & the atmo layers|||D||||
-|EMN‑096||Atmosphere: ionosphere|||D|F|||
-|EMN‑012||Atmosphere: lightnings|||D||||
-|EMN‑031||Atmosphere: long‑term variations of the surface meteo characteristics|||D||||
-|EMN‑067||Atmosphere: nature of the polar dipole & turbulence|||D||||
-|EMN‑034||Atmosphere: nature of the superrotation|||D||||
-|EMN‑035||Atmosphere: nature of the UV‑absorber|||D||||
-|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞|||D||||
-|EMN‑078|T|Atmosphere: radiography|||D||||
-|EMN‑055|T|Atmosphere: sample obtaining & analysis||C|||||
-|EMN‑009||Atmosphere: SO₂ concentration & nature of its variations|||D||||
-|EMN‑017||Atmosphere: common structure|||D||||
-|EMN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo|||D|F|||
-|EMN‑010||Atmosphere: vertical model|||D||||
-|EMN‑050||Causes of the water loss|||D||||
-|EMN‑041||Common connection between the atmosphere & the surface|||D||||
-|EMN‑073|T|Exploration with [satellites](sc.md): large satellites|||D|F|||
-|EMN‑072|T|Exploration with [satellites](sc.md): medium satellites|||D|F|||
-|EMN‑070|T|Exploration with [satellites](sc.md): minisatellites|||D|F|||
-|EMN‑042||History & causes of the planet’s volcanic & tectonic evolution|||D||||
-|EMN‑020||Inner structure of the planet|||D||||
-|EMN‑029||Is Venus geologically active?:||C|D|F|||
-|EMN‑028||Magnetosphere structure|||D|F|||
-|EMN‑089||Measuring the planetary gravitational field|||D|F|||
-|EMN‑074||Meteorological model|||D|F|||
-|EMN‑079||Precise duration of the Venusian day|||D||||
-|EMN‑052||Role of water (fluids) in planetary geology||C|D|F|||
-|EMN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments|||D||||
-|EMN‑046||Surface: causes of the changes during the last billion years||C|D|F|||
-|EMN‑024||Surface: common composition||C|||||
-|EMN‑026||Surface: elemental composition||C|||||
-|EMN‑021||Surface: map, 3D||C|D||||
-|EMN‑022||Surface: map, precise|||D||||
-|EMN‑023||Surface: mineralogical composition||C|||||
-|EMN‑044||Surface: nature & causes of forming of the current rocks & soils||C|||||
-|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places||C||||S|
-|EMN‑063|T|Surface: panoramic imaging||C|||||
-|EMN‑025||Surface: morphology||C|||||
-|EMN‑085|T|Surface: tessera investigations, remote|||D|F|||
-|EMN‑076||Surface: volcanoes, their presence|||D|F|||
-|EMN‑027||The causes why Venus evolved in a planet so different from Earth||C|D|F|||
-|EMN‑091||The loss rate of water from Venus|||D|F|||
-|EMN‑053||Traces of life in the atmosphere & on the surface||C|||||
+|EMN‑093|T|Atmosphere/surface imaging| | |D|F| | |
+|EMN‑077| |Atmosphere: chemical elements distribution| | |D|F| | |
+|EMN‑018| |Atmosphere: clouds, their chemistry| | |D|F| | |
+|EMN‑075| |Atmosphere: clouds, their nature| | |D|F| | |
+|EMN‑016| |Atmosphere: clouds, their structure| | |D|F| | |
+|EMN‑011| |Atmosphere: common circulation model| | |D| | | |
+|EMN‑014| |Atmosphere: composition| | |D| |F| |
+|EMN‑019| |Atmosphere: energetic balance| | |D| | | |
+|EMN‑008| |Atmosphere: flashing on the night side| | |D| | | |
+|EMN‑013| |Atmosphere: illumination of the surface & the atmo layers| | |D| | | |
+|EMN‑096| |Atmosphere: ionosphere| | |D|F| | |
+|EMN‑012| |Atmosphere: lightnings| | |D| | | |
+|EMN‑031| |Atmosphere: long‑term variations of the surface meteo characteristics| | |D| | | |
+|EMN‑067| |Atmosphere: nature of the polar dipole & turbulence| | |D| | | |
+|EMN‑034| |Atmosphere: nature of the superrotation| | |D| | | |
+|EMN‑035| |Atmosphere: nature of the UV‑absorber| | |D| | | |
+|EMN‑084|T|Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞| | |D| | | |
+|EMN‑078|T|Atmosphere: radiography| | |D| | | |
+|EMN‑055|T|Atmosphere: sample obtaining & analysis| |C| | | | |
+|EMN‑009| |Atmosphere: SO₂ concentration & nature of its variations| | |D| | | |
+|EMN‑017| |Atmosphere: common structure| | |D| | | |
+|EMN‑097| |Atmosphere: effect of solar Rad & interplanetary space on the atmo| | |D|F| | |
+|EMN‑010| |Atmosphere: vertical model| | |D| | | |
+|EMN‑050| |Causes of the water loss| | |D| | | |
+|EMN‑041| |Common connection between the atmosphere & the surface| | |D| | | |
+|EMN‑073|T|Exploration with [satellites](sc.md): large satellites| | |D|F| | |
+|EMN‑072|T|Exploration with [satellites](sc.md): medium satellites| | |D|F| | |
+|EMN‑070|T|Exploration with [satellites](sc.md): minisatellites| | |D|F| | |
+|EMN‑042| |History & causes of the planet’s volcanic & tectonic evolution| | |D| | | |
+|EMN‑020| |Inner structure of the planet| | |D| | | |
+|EMN‑029| |Is Venus geologically active?:| |C|D|F| | |
+|EMN‑028| |Magnetosphere structure| | |D|F| | |
+|EMN‑089| |Measuring the planetary gravitational field| | |D|F| | |
+|EMN‑074| |Meteorological model| | |D|F| | |
+|EMN‑079| |Precise duration of the Venusian day| | |D| | | |
+|EMN‑052| |Role of water (fluids) in planetary geology| |C|D|F| | |
+|EMN‑092|T|Serve as a relay to Earth for stand‑alone SC/instruments| | |D| | | |
+|EMN‑046| |Surface: causes of the changes during the last billion years| |C|D|F| | |
+|EMN‑024| |Surface: common composition| |C| | | | |
+|EMN‑026| |Surface: elemental composition| |C| | | | |
+|EMN‑021| |Surface: map, 3D| |C|D| | | |
+|EMN‑022| |Surface: map, precise| | |D| | | |
+|EMN‑023| |Surface: mineralogical composition| |C| | | | |
+|EMN‑044| |Surface: nature & causes of forming of the current rocks & soils| |C| | | | |
+|EMN‑062|T|Surface: samples obtaining & analysis, incl. in different places| |C| | | |S|
+|EMN‑063|T|Surface: panoramic imaging| |C| | | | |
+|EMN‑025| |Surface: morphology| |C| | | | |
+|EMN‑085|T|Surface: tessera investigations, remote| | |D|F| | |
+|EMN‑076| |Surface: volcanoes, their presence| | |D|F| | |
+|EMN‑027| |The causes why Venus evolved in a planet so different from Earth| |C|D|F| | |
+|EMN‑091| |The loss rate of water from Venus| | |D|F| | |
+|EMN‑053| |Traces of life in the atmosphere & on the surface| |C| | | | |
 |•|•|**Mostly done:**|•|•|•|•|•|•|
-|EMN‑001||Atmosphere: preliminary model||C|D|F|||
-|EMN‑004|T|Exploration: from Earth|||D||||
-|EMN‑003|T|Exploration: from inside of atmosphere||C|D||||
-|EMN‑006|T|Exploration: from surface||C|||||
-|EMN‑005|T|Exploration: from Venusian orbit|||D|F|||
-|EMN‑090||Spin axis|||D||||
-|EMN‑002||Surface: preliminary map||C|D||||
+|EMN‑001| |Atmosphere: preliminary model| |C|D|F| | |
+|EMN‑004|T|Exploration: from Earth| | |D| | | |
+|EMN‑003|T|Exploration: from inside of atmosphere| |C|D| | | |
+|EMN‑006|T|Exploration: from surface| |C| | | | |
+|EMN‑005|T|Exploration: from Venusian orbit| | |D|F| | |
+|EMN‑090| |Spin axis| | |D| | | |
+|EMN‑002| |Surface: preliminary map| |C|D| | | |
 
 <p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](earth.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_space.md) ┊ [Pale Blue Dot](earth.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](earth.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
 

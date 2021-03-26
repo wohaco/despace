@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<vladtr@mx.iki.rssi.ru>, *раб.:* +7(495)333-41-23, Fax: +7(495)333-12-48; *mobile:* +7(916)638-14-18|
 |i18n|<mark>TBD</mark>|
-||![](f/contact/t/tretyakov1_photo.jpg) [![](f/contact/t/tretyakov1_sign_thumb.jpg)](f/contact/t/tretyakov1_sign.png)|
+| |![](f/contact/t/tretyakov1_photo.jpg) [![](f/contact/t/tretyakov1_sign_thumb.jpg)](f/contact/t/tretyakov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<chris.bradburne@jhuapl.edu>, *раб.:* +1(443)414-71-40; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/b/bradburne1_photo_thumb.jpg)](f/contact/b/bradburne1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/b/bradburne1_photo_thumb.jpg)](f/contact/b/bradburne1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biosciences, George Mason Univ.
    - **Exp.:** Skills & Expertise: PCR, Cell Culture, Material Characterization, Materials, Gel Electrophoresis, DNA, Nanomaterials, Cloning, Thin Films & Nanotechnology, Thin Film Deposition, Phylogenetic Analysis, Semiconductor, Cells, Luminescence, Peptides, Quantum Dots, Wetlands, Cyanobacteria, rRNA Genes, Targeting.

@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1946  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Нок, Керри|
-||[![](f/contact/n/nock1_photo_thumb.jpg)](f/contact/n/nock1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/n/nock1_photo_thumb.jpg)](f/contact/n/nock1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** MS, 1966 ‑ 1972, Space Science & Engineering, UCLA.
    - **Exp.:** Past Fellow of NASA Institute for Advanced Concepts (NIAC) & PI for 2 NIAC Phase II studies, one developing a concept for networks of guided balloons for Earth science & the other study to develop an Earth‑to‑Mars transportation architecture. Principal inventor of 2 new devices including a safe & low cost satellite de‑orbit system for low‑Earth orbit spacecraft & a revolutionary & scalable entry system that can offer more returned mass for same launch mass while enabling the use of small diameter launchers. PI of a unique subsea & aerospace system development for the Defense Dept. Has authored or co‑authored over 80 papers & articles & is a past associate editor of the American Institute of Aeronautics & Astronautics (AIAA) Journal of Spacecraft & Rockets. An expert in systems engineering, celestial mechanics, mission design & analysis, advanced studies & technology development & flight operations planning. He has carried out a variety of activities in aerospace systems development. Managed the first studies of planetary aerobraking that was eventually used at Mars & Venus. A friend of [V. Dolgopolov](zz_dolgopolov1.md).

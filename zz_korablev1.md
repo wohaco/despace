@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<korab@iki.rssi.ru>, *раб.:* +7(495)333-00-17; *mobile:* +7(903)961-76-27|
 |i18n|Korablev, Oleg Igorevich|
-||![](f/contact/k/korablev1_animated.gif) [![](f/contact/k/korablev1_sign_thumb.jpg)](f/contact/k/korablev1_sign.png)|
+| |![](f/contact/k/korablev1_animated.gif) [![](f/contact/k/korablev1_sign_thumb.jpg)](f/contact/k/korablev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Skills & Expertise: Spectra, Spectrometers, Experimental Physics, Remote Sensing, Optics, Astronomy & Astrophysics, Atmosphere, Atmospheric Physics, Climatology, Geophysics.

@@ -6,7 +6,7 @@
 |B‑day, addr.|1953.01.22 (Fukui-ken, Japan) / 1432-1 Horinouchi, Hachioji, Tokyo, 192-0392, Japan|
 |Contact|<yamagish@ls.toyaku.ac.jp>, *раб.:* +81-426-76-7139; факс: +81-426-76-7145; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/y/yamagishi1_photo_thumb.jpg)](f/contact/y/yamagishi1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/y/yamagishi1_photo_thumb.jpg)](f/contact/y/yamagishi1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, University of Tokyo. Associate professor Tokyo University of Pharmacy & Life Science, Tokyo, since 1995, professor, since 2005. Research associate Tokyo University, 1982-1984. Visiting scientist University California, Berkeley, 1984-1986. Assistant professor Tokyo Institute of Technology, 1987-1995.
    - **Exp.:** …

@@ -7,68 +7,23 @@
 
 > <small>**Interface** — EN term. **Интерфейс** — RU analogue.</small>
 
-An **interface** is a shared boundary across which two or more separate components exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, etc. Interfaces can provide both input and output, or just one of them.
+An **interface** is a shared boundary across which two or more separate components exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, etc. Interfaces can provide both input & output, or just one of them. Spacecraft interfaces are combining [external factors](ef.md), budgets, rates, & include:
 
-Spacecraft interfaces are combining [external factors](ef.md), budgets, speeds, and include:
-
-   1. **Overall description:**
-      - Reliability,
-      - [Standards](doc.md),
-      - Timeline of tests & functioning.
-   1. **Electrical & electromagnetic**
-      - **Environment:**
-         1. [Electromagnetic interference (EMI), & Radio frequency interference](eni.md),
-         1. [Magnetic fields](mag_field.md),
-         1. Magnetic materials,
-         1. Radiated emissions,
-         1. Radiated susceptibility.
-      - **Interfaces:**
-         1. Commands & Data budgets,
-         1. [Communications](comms.md),
-         1. Connectors,
-         1. Exchange protocols,
-         1. Fields & Points of view,
-         1. Metallization,
-         1. [Power](sps.md) & Consumption timeline,
-         1. [Voltage](voltage.md).
-   1. **Mechanical**
-      - **Environment:**
-         1. Acoustic,
-         1. [Meteorites](aob.md), Dust, & Liquids,
-         1. Quasi‑static loads,
-         1. Random loads,
-         1. Shock events,
-         1. Sine vibration.
-      - **Interfaces:** (incl. their evolutions)
-         1. Accuracy,
-         1. Connectors,
-         1. Deployment & Moving parts,
-         1. [Dimensions](draft_model.md),
-         1. Fields & Points of view,
-         1. Hydraulic characteristics: location, evolution, connectors,
-         1. Mass allocation & Center on mass,
-         1. [Materials](sgm.md) & their [emission](mat_sublime.md),
-         1. Mounting points,
-         1. Orientation,
-         1. Oscillator circuit,
-         1. Pressurization level.
-   1. **[Radiation](ion_rad.md):** (incl. [cosmic rays](cr.md))
-      - **Environment:**
-         1. Non‑ionising displacement damage dose (DDD),
-         1. Non‑ionising linear energy transfer (LET),
-         1. Total ionising dose (TID).
-      - **Interfaces:**
-         1. Protection.
-   1. **[Thermal](tcs.md):**
-      - **Environment:**
-         1. Atmosphere & its Temperature ranges & timeline,
-         1. Solar & Surrounding bodies [thermal radiation, illumination](illum.md), & placement.
-      - **Interfaces:**
-         1. Heaters, covers & their mounting points, optical characteristics, radiators,
-         1. Temperature ranges,
-         1. Thermal emission,
-         1. Thermal lines, Exchange spots, & Exchange protocols,
-         1. Thermal resistance.
+| | |
+|:--|:--|
+|**Overall:**|・Human‑system interfaces<br> ・[Reliability](srrq.md)<br> ・[Risks](srrq.md)<br> ・[Standards](doc.md)<br> ・Timeline of [tests](test.md) & [functioning](timeline.md)|
+|—|—|
+|**[Electrical &<br> electromagnetic](sps.md)<br> Environment:**|・[Electromagnetic interference (EMI), & Radio frequency interference](eni.md)<br> ・[Magnetic fields](mag_field.md)<br> ・Magnetic materials<br> ・Radiated emissions<br> ・Radiated suspectibility|
+|**Interfaces:**|・Commands & Data budgets<br> ・[Communications](comms.md)<br> ・[Connectors](cable.md)<br> ・Exchange & Testing protocols<br> ・Fields & Points of view<br> ・Metallization<br> ・[Power](sps.md) & Consumption timeline<br> ・[Voltage](voltage.md)|
+|—|—|
+|**[Mechanical](sgm.md)<br> Environment:**|・Acoustic<br> ・[Meteorites](aob.md), Dust, & Liquids<br> ・Quasi‑static loads<br> ・Random loads<br> ・[Shock events](vibration.md)<br> ・[Sine vibration](vibration.md)<br> ・Tensions|
+|**Interfaces:**<br> (incl. their<br> evolutions)|・Accuracy<br> ・[Connectors](cable.md)<br> ・Deployment & Moving parts<br> ・[Dimensions](draft_model.md)<br> ・Fields/Points of view<br> ・Hydraulic characteristics: location, evolution, connectors<br> ・Mass allocation & Center on mass<br> ・[Materials](sgm.md) & their [emission](mat_sublime.md)<br> ・Mounting points<br> ・Orientation<br> ・Oscillator circuit<br> ・Pressurization level|
+|—|—|
+|**[Radiation](ion_rad.md)/[CR](cr.md):<br> Environment:**|・Non‑ionising displacement damage dose (DDD)<br> ・Non‑ionising linear energy transfer (LET)<br> ・Total ionising dose (TID)|
+|**Interfaces:**|・Protection<br> ・Working/recovery time|
+|—|—|
+|**[Thermal](tcs.md):<br> Environment:**|・Atmosphere & its Temperature ranges & timeline<br> ・Solar & Surrounding bodies [thermal radiation, illumination](illum.md), & placement|
+|**Interfaces:**|・Heaters, covers & their mounting points, optical characteristics, radiators<br> ・Temperature ranges<br> ・Thermal emission<br> ・Thermal lines, Exchange spots, & Exchange protocols<br> ・Thermal resistance|
 
 List of common documents:
 
@@ -111,36 +66,36 @@ An adequately defined interface will allow one team to test its implementation o
 Interface Requirements Document Outline (according to [NASA Systems Engineering Handbook, App. L](https://www.nasa.gov/seh/appendix-l-interface-requirements-document-outline))
 
    1. Introduction
-      - 1.1 Purpose and Scope. State the purpose of this document and briefly identify the interface to be defined. (For example, “This IRD defines and controls the interface(s) requirements between ______ and ______.”)
-      - 1.2 Precedence. Define the relationship of this document to other program documents and specify which is controlling in the event of a conflict.
-      - 1.3 Responsibility and Change Authority. State the responsibilities of the interfacing organizations for development of this document and its contents. Define document approval authority (including change approval authority).
+      - 1.1 Purpose & Scope. State the purpose of this document & briefly identify the interface to be defined. (For example, “This IRD defines & controls the interface(s) requirements between ______ & ______.”)
+      - 1.2 Precedence. Define the relationship of this document to other program documents & specify which is controlling in the event of a conflict.
+      - 1.3 Responsibility & Change Authority. State the responsibilities of the interfacing organizations for development of this document & its contents. Define document approval authority (including change approval authority).
    2. Documents
-      - 2.1 Applicable Documents. List binding documents that are invoked to the extent specified in this IRD. The latest revision or most recent version should be listed. Documents and requirements imposed by higher-level documents (higher order of precedence) should not be repeated.
+      - 2.1 Applicable Documents. List binding documents that are invoked to the extent specified in this IRD. The latest revision or most recent version should be listed. Documents & requirements imposed by higher-level documents (higher order of precedence) should not be repeated.
       - 2.2 Reference Documents. List any document that is referenced in the text in this subsection.
    3. Interfaces
-      - 3.1 General. In the subsections that follow, provide the detailed description, responsibilities, coordinate systems, and numerical requirements as they relate to the interface plane.
+      - 3.1 General. In the subsections that follow, provide the detailed description, responsibilities, coordinate systems, & numerical requirements as they relate to the interface plane.
          - 3.1.1 Interface Description. Describe the interface as defined in the system specification. Use tables, figures, or drawings as appropriate.
-         - 3.1.2 Interface Responsibilities. Define interface hardware and interface boundary responsibilities to depict the interface plane. Use tables, figures, or drawings as appropriate.
+         - 3.1.2 Interface Responsibilities. Define interface hardware & interface boundary responsibilities to depict the interface plane. Use tables, figures, or drawings as appropriate.
          - 3.1.3 Coordinate Systems. Define the coordinate system used for interface requirements on each side of the interface. Use tables, figures, or drawings as appropriate.
-         - 3.1.4 Engineering Units, Tolerances, and Conversion. Define the measurement units along with tolerances. If required, define the conversion between measurement systems.
-      - 3.2 Interface Requirements. In the subsections that follow, define structural limiting values at the interface, such as interface loads, forcing functions, and dynamic conditions. Define the interface requirements on each side of the interface plane.
+         - 3.1.4 Engineering Units, Tolerances, & Conversion. Define the measurement units along with tolerances. If required, define the conversion between measurement systems.
+      - 3.2 Interface Requirements. In the subsections that follow, define structural limiting values at the interface, such as interface loads, forcing functions, & dynamic conditions. Define the interface requirements on each side of the interface plane.
          - 3.2.1 Mass Properties. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover the mass of the element.
-         - 3.2.2 Structural/Mechanical. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover attachment, stiffness, latching, and mechanisms.
-         - 3.2.3 Fluid. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover fluid areas such as thermal control, O2 and N2, potable and waste water, fuel cell water, and atmospheric sampling.
-         - 3.2.4 Electrical (Power). Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover various electric current, voltage, wattage, and resistance levels.
-         - 3.2.5 Electronic (Signal). Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover various signal types such as audio, video, command data handling, and navigation.
-         - 3.2.6 Software and Data. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover various data standards, message timing, protocols, error detection/correction, functions, initialization, and status.
+         - 3.2.2 Structural/Mechanical. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover attachment, stiffness, latching, & mechanisms.
+         - 3.2.3 Fluid. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover fluid areas such as thermal control, O2 & N2, potable & waste water, fuel cell water, & atmospheric sampling.
+         - 3.2.4 Electrical (Power). Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover various electric current, voltage, wattage, & resistance levels.
+         - 3.2.5 Electronic (Signal). Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover various signal types such as audio, video, command data handling, & navigation.
+         - 3.2.6 Software & Data. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, this subsection should cover various data standards, message timing, protocols, error detection/correction, functions, initialization, & status.
          - 3.2.7 Environments. Define the derived interface requirements based on the allocated requirements contained in the applicable specification pertaining to that side of the interface. For example, cover the dynamic envelope measures of the element in English units or the metric equivalent on this side of the interface.
             - 3.2.7.1 Electromagnetic Effects
                - 3.2.7.1.a Electromagnetic Compatibility. Define the appropriate electromagnetic compatibility requirements. For example, the end-item-1-to-end-item-2 interface shall meet the requirements [to be determined] of systems requirements for electromagnetic compatibility.
-               - 3.2.7.1.b Electromagnetic Interference. Define the appropriate electromagnetic interference requirements. For example, the end-item-1-to-end-item-2 interface shall meet the requirements [to be determined] of electromagnetic emission and susceptibility requirements for electromagnetic compatibility.
+               - 3.2.7.1.b Electromagnetic Interference. Define the appropriate electromagnetic interference requirements. For example, the end-item-1-to-end-item-2 interface shall meet the requirements [to be determined] of electromagnetic emission & susceptibility requirements for electromagnetic compatibility.
                - 3.2.7.1.c Grounding. Define the appropriate grounding requirements. For example, the end-item-1-to-end-item-2 interface shall meet the requirements [to be determined] of grounding requirements.
                - 3.2.7.1.d Bonding. Define the appropriate bonding requirements. For example, the end-item-1-to-end-item-2 structural/mechanical interface shall meet the requirements [to be determined] of electrical bonding requirements.
-               - 3.2.7.1.e Cable and Wire Design. Define the appropriate cable and wire design requirements. For example, the end-item-1-to-end-item-2 cable and wire interface shall meet the requirements [to be determined] of cable/wire design and control requirements for electromagnetic compatibility.
+               - 3.2.7.1.e Cable & Wire Design. Define the appropriate cable & wire design requirements. For example, the end-item-1-to-end-item-2 cable & wire interface shall meet the requirements [to be determined] of cable/wire design & control requirements for electromagnetic compatibility.
             - 3.2.7.2 Acoustic. Define the appropriate acoustics requirements. Define the acoustic noise levels on each side of the interface in accordance with program or project requirements.
             - 3.2.7.3 Structural Loads. Define the appropriate structural loads requirements. Define the mated loads that each end item should accommodate.
             - 3.2.7.4 Vibroacoustics. Define the appropriate vibroacoustics requirements. Define the vibroacoustic loads that each end item should accommodate.
-            - 3.2.7.5 Human Operability. Define the appropriate human interface requirements. Define the human-centered design considerations, constraints, and capabilities that each end item should accommodate.
+            - 3.2.7.5 Human Operability. Define the appropriate human interface requirements. Define the human-centered design considerations, constraints, & capabilities that each end item should accommodate.
          - 3.2.8 Other Types of Interface Requirements. Define other types of unique interface requirements that may be applicable.
 
 
@@ -149,7 +104,7 @@ Interface Requirements Document Outline (according to [NASA Systems Engineering 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [Documents](doc.md) •··**<br> **Схема:** [КСС](ксс.md) ┊ [ПГС](пгс.md) ┊ [ПЛИС](плис.md) ┊ [СхД](wbs.md) ┊ [СхО](draft_model.md) ┊ [СхПЗ](draft_model.md) ┊ [СхЧ](unit_decd.md) ┊ [СхЭ](ei_diagram.md)<br> [Interface](interface.md) ┊ [Mission proposal](proposal.md)|
 |**··• [Spacecraft (SC)](sc.md) •··**<br> [Cleanliness level](clean_lvl.md) ┊ [Cubesat](sc.md) ┊ [Interface](interface.md) ┊ [Manned SC](sc.md) ┊ [Satellite](sc.md) ┊ [Sub-item](sui.md) ┊ [Typical forms](sc_ts.md)|

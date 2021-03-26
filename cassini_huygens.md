@@ -31,7 +31,7 @@ The **Cassini–Huygens** is a joint mission of the space‑research mission, in
 |Composition|Cassini Orbiter; Huygens Lander|
 |Contractor|Aérospatiale|
 |Manufacturer|Cassini: Jet Propulsion Laboratory <br> Huygens: Thales Alenia Space|
-||**`…`**|
+| |**`…`**|
 |Comms|S-, X- and Ka‑band, diameter=4 m (high‑gain radio antenna)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): 1997-061A, SCN: 25008|
 |Mass|2 523 ㎏ ([Large satellite](спутник.md), [EVN‑073](venus.md))|
@@ -51,7 +51,7 @@ Targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.||D||F|||
+|EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
 
 </small>
 
@@ -91,7 +91,7 @@ Cassini had its first fly‑by of Saturn’s largest moon, **Titan**, on July 2,
 
 **The Huygens** Lander traveled with Cassini until its separation from the spacecraft. Cassini released the Huygens Lander on December 24, 2004, by means of a spring and spiral rails intended to rotate the Lander for greater stability. It entered the atmosphere of Titan on January 14, 2005, and after a 2.5 h descent by parachute landed on solid ground. It returned data to Earth for around 90 min, using the Orbiter as a relay. This was the first landing ever accomplished in the outer Solar System and the first landing on a moon other than Earth’s Moon. The Huygens Lander investigated the chemical composition and surface properties of the Saturnian moon.
 
-|**Animation of Cassini’s trajectory from 15 October 1997 to 4 May 2008**||
+|**Animation of Cassini’s trajectory from 15 October 1997 to 4 May 2008**| |
 |:--|:--|
 |![](f/project/c/cassini_huygens/animation_of_huygens_trajectory.gif)|**Pink — Huygens <br><br> Blue — Saturn <br><br> Green — Titan**|
 
@@ -115,7 +115,7 @@ On March 12, 2008, Cassini made a close fly-by of Enceladus, passing within 50�
 
 On April 15, 2008, Cassini received funding for a 27 month extended mission. The  Cassini’s primary mission was completed in June 2008. The **extended mission** began on July 1, 2008, and was renamed the **Cassini Equinox Mission** as the mission coincided with Saturn’s equinox, which happened in August 2009. It mission consisted of 60 more orbits of Saturn, with 21 more close Titan fly‑bys, seven of Enceladus, six of Mimas, eight of Tethys, and one targeted fly‑by each of Dione, Rhea, and Helene.
 
-|**Animation of Cassini’s trajectory from 15 October 1997 to 4 May 2008**||
+|**Animation of Cassini’s trajectory from 15 October 1997 to 4 May 2008**| |
 |:--|:--|
 |![](f/project/c/cassini_huygens/animation_of_cassini_trajectory.gif)|**Pink — Cassini–Huygens <br><br> Blue — Earth <br><br> Turquoise — Venus <br><br> Yellow ellipce — Jupiter <br><br> Green — Saturn <br><br> Red — 2685 Masursky <br><br> Yellow dot — Sun**|
 
@@ -141,7 +141,7 @@ The first map showing the global geology of Saturn’s largest moon, Titan, has 
 
 At the end of its mission, the Cassini spacecraft executed its «Grand Finale»: a number of risky passes through the gaps between Saturn and Saturn’s inner rings. This phase aimed to maximize Cassini’s scientific outcome before the spacecraft was disposed. The mission ended on September 15, 2017, when Cassini’s trajectory took it into Saturn’s upper atmosphere and it burned up. This method was chosen because it is imperative to ensure protection and prevent biological contamination to any of the moons of Saturn thought to offer potential habitability. The atmospheric entry of Cassini ended the mission, but analyses of the returned data will continue for many years.
 
-|***Animation of Cassini’s trajectory around Saturn from 1 May 2004 to 15 September 2017***||
+|***Animation of Cassini’s trajectory around Saturn from 1 May 2004 to 15 September 2017***| |
 |:--|:--|
 |![](f/project/c/cassini_huygens/animation_of_cassini_trajectory_around_saturn.gif)|**Pink — Cassini <br><br> Turquoise — Iapetus <br><br> Yellow — Titan <br><br> Green — Saturn <br><br> Red — Enceladus**|
 
@@ -254,7 +254,7 @@ ASI:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

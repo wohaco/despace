@@ -6,7 +6,7 @@
 |B‑day, addr.|1969.08.24 / Maryland, Columbia, USA|
 |Contact|<ralph.lorenz@jhuapl.edu>, *раб.:* +1(240)228-29-03, +1(443)778-29-03, факс +1(443)778-89-39; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/l/lorenz1_photo_thumb.jpg)](f/contact/l/lorenz1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/l/lorenz1_photo_thumb.jpg)](f/contact/l/lorenz1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Space Sciences, 1994, Kent Univ., UK. B.Eng., Aerospace Systems Engineering, 1990, Southampton Univ., UK.
    - **Exp.:** My background: broad scientific & engineering experience, especially relating to planetary science (with an emphasis on surface/atmosphere interactions on Titan, Venus & Mars), & doing science from small spacecraft & innovative sensor platforms such as probes, landers, balloons, penetrators, & boats. I have been involved in the life cycle of flight investigations incl. concept formulation, mission & system design, science planning, observation design, instrument development, data analysis, & publication of results. My experience incl. radar remote sensing, in-situ instrumentation, geomorphology, meteorology, oceanography, vehicle dynamics & trajectory measurements, & astrobiology. My field experiments focus on desert areas. My books: "Dune Worlds: How Wind-Blown Sand Shapes Planetary Landscapes" (Springer, 2014),  "Space Systems Failures" (Springer 2006), & "Titan Unveiled" (Princeton, 2008).

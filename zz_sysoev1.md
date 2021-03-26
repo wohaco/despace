@@ -6,7 +6,7 @@
 |B‑day, addr.|1950.06.03, на НПОЛ с 1986 / …|
 |Contact|<sysoev@laspace.ru>, *work:* 41-29; *mobile:* +7(916)857-96-39|
 |i18n|Sysoev, Valentin Konstantinovich|
-||[![](f/contact/s/sysoev1_photo_thumb.jpg)](f/contact/s/sysoev1_photo.jpg) [![](f/contact/s/sysoev1_sign_thumb.jpg)](f/contact/s/sysoev1_sign.png)|
+| |[![](f/contact/s/sysoev1_photo_thumb.jpg)](f/contact/s/sysoev1_photo.jpg) [![](f/contact/s/sysoev1_sign_thumb.jpg)](f/contact/s/sysoev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

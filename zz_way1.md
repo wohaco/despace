@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<michael.way@nasa.gov>, *раб.:* +1(212)678-56-65; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/w/way1_photo_thumb.jpg)](f/contact/w/way1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/contact/w/way1_photo_thumb.jpg)](f/contact/w/way1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Physics 1999, University of Missouri.
    - **Exp.:** Research Interests. Multi-Scale Structure of the Universe. Worked for several years on novel algorithms for estimating the multi-scale stucture of the physical universe using the Sloan Digital Sky Survey. This was compared with results derived from N-Body simulations such as a the Millennium Simulation.These types of comparisons tell one how well our present knowledge of how structures grow via gravitation fit the natural world. General Circulation Modeling as applied to Planetary Atmospheres. Using the GISS General Circulation Model for modern day Earth simulations, in recent years we have expanded it’s capabilities to model paleo Earth, modern & paleo Mars, & paleo Venus. We currently have funding to expand the model to the atmosphere of Titan.

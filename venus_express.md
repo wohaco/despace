@@ -49,35 +49,35 @@ Achieved targets & investigations:
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|EVN‑005|T|Exploration: from Venusian orbit.||D||F|||
-|EVN‑008||Atmosphere: nightglows.||D|||||
-|EVN‑009||Atmosphere: SO₂ concentration & nature of its variations.||D|||||
-|EVN‑010||Atmosphere: vertical model.||D|||||
-|EVN‑011||Atmosphere: common circulation model.||D|||||
-|EVN‑014||Atmosphere: composition|||D||F||
-|EVN‑015||Atmosphere: structure of the mesosphere.|All A|D|||||
-|EVN‑020||Inner structure of the planet.||D|||||
-|EVN‑028||Magnetosphere structure.||D||F|||
-|EVN‑029||Is Venus geologically active?:||D|C|F|||
-|EVN‑033||Atmosphere: nature/rate of its escape|||D||||
-|EVN‑034||Atmosphere: nature of the superrotation.||D|||||
-|EVN‑035||Atmosphere: nature of the UV‑absorber.||D|||||
-|EVN‑041||Common connection between the atmosphere & the surface.||D|||||
-|EVN‑046||Surface: causes of the changes during the last billion years.||D|C|F|||
-|EVN‑049||Nature & characteristics of the thermal tides|||D||||
-|EVN‑050||Causes of the water loss.||D|||||
-|EVN‑067||Atmosphere: nature of the polar dipole & turbulence.||D|||||
-|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.||D||F|||
-|EVN‑074||Meteorological model.||D||F|||
-|EVN‑076||Surface: volcanoes, their presence.||D||F|||
-|EVN‑077||Atmosphere: chemical elements distribution.||D||F|||
-|EVN‑078|T|Atmosphere: radiography.||D|||||
-|EVN‑079||Precise duration of the Venusian day.||D|||||
-|EVN‑091||The loss rate of water from Venus.||D||F|||
-|EVN‑093|T|Atmosphere/surface imaging.||D||F|||
-|EVN‑096||Atmosphere: ionosphere.||D||F|||
-|EVN‑097||Atmosphere: effect of solar Rad & interplanetary space on the atmo.||D||F|||
-|EVN‑080||Albedo: changes in time|Gi||D|F|||
+|EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
+|EVN‑008| |Atmosphere: nightglows.| |D| | | | |
+|EVN‑009| |Atmosphere: SO₂ concentration & nature of its variations.| |D| | | | |
+|EVN‑010| |Atmosphere: vertical model.| |D| | | | |
+|EVN‑011| |Atmosphere: common circulation model.| |D| | | | |
+|EVN‑014| |Atmosphere: composition| | |D| |F| |
+|EVN‑015| |Atmosphere: structure of the mesosphere.|All A|D| | | | |
+|EVN‑020| |Inner structure of the planet.| |D| | | | |
+|EVN‑028| |Magnetosphere structure.| |D| |F| | |
+|EVN‑029| |Is Venus geologically active?:| |D|C|F| | |
+|EVN‑033| |Atmosphere: nature/rate of its escape| | |D| | | |
+|EVN‑034| |Atmosphere: nature of the superrotation.| |D| | | | |
+|EVN‑035| |Atmosphere: nature of the UV‑absorber.| |D| | | | |
+|EVN‑041| |Common connection between the atmosphere & the surface.| |D| | | | |
+|EVN‑046| |Surface: causes of the changes during the last billion years.| |D|C|F| | |
+|EVN‑049| |Nature & characteristics of the thermal tides| | |D| | | |
+|EVN‑050| |Causes of the water loss.| |D| | | | |
+|EVN‑067| |Atmosphere: nature of the polar dipole & turbulence.| |D| | | | |
+|EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.| |D| |F| | |
+|EVN‑074| |Meteorological model.| |D| |F| | |
+|EVN‑076| |Surface: volcanoes, their presence.| |D| |F| | |
+|EVN‑077| |Atmosphere: chemical elements distribution.| |D| |F| | |
+|EVN‑078|T|Atmosphere: radiography.| |D| | | | |
+|EVN‑079| |Precise duration of the Venusian day.| |D| | | | |
+|EVN‑091| |The loss rate of water from Venus.| |D| |F| | |
+|EVN‑093|T|Atmosphere/surface imaging.| |D| |F| | |
+|EVN‑096| |Atmosphere: ionosphere.| |D| |F| | |
+|EVN‑097| |Atmosphere: effect of solar Rad & interplanetary space on the atmo.| |D| |F| | |
+|EVN‑080| |Albedo: changes in time|Gi| |D|F| | |
 
 </small>
 
@@ -341,7 +341,7 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[Sensor](sensor.md)**·Датчик, **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

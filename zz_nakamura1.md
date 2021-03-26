@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1959  / …|
 |Contact|<mnakamur@isas.jaxa.jp>, *work:* +81(50)336-239-36; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/n/nakamura1_photo_thumb.jpg)](f/contact/n/nakamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/n/nakamura1_photo_thumb.jpg)](f/contact/n/nakamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1977 ‑ 1987.
    - **Exp.:** ISAS/JAXA, Professor, 2002 ‑ Present. Tokyo Univ., Associate Professor, 1993 ‑ 2002.

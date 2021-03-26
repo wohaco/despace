@@ -6,7 +6,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-||[![](f/contact/k/kolawa1_photo_thumb.jpg)](f/contact/k/kolawa1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/contact/k/kolawa1_photo_thumb.jpg)](f/contact/k/kolawa1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Elizabeth Kolawa has been with the Jet Propulsion Laboratory, Pasadena, CA, since 1993. Presently, she is responsible for developing thermal cycle resistant electronics for the Mars focused technology program & managing the advanced measurement & detection technology program for JPL. Her research interest includes electrical contacts to semiconductors, diffusion barriers, & integration of microsystems, electronics packaging & technologies for extreme environments. (Based on 24 April 2009).
