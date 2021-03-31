@@ -46,7 +46,7 @@
 |[Escape velocity](esc_vel.md)|3.546 ㎞/s (v₁, 0.45 земной);<br> 5.03 ㎞/s (v₂, 0.45 земной)|
 |[Albedo](albedo.md)|0.250 (Бонд); 0.150 (геом. альбедо); 0.170|
 |[Apparent magnitude](app_mag.md) (m)|–2,91<small>m</small> (при макс. сближении с Землёй)|
-|[Magnetic field](mag_field.md)|0.0477 5 ‑ 0.095 49 А/м <small>(0.001 ‑ 0.002 4 земного)</small>|
+|[Magnetic field](mag_field.md)|0.000 000 1 T (0.02 Earth’s)|
 |Mass (m)|6.418 5·10²³ ㎏ <small>(0.107 земной)</small>|
 |Axial tilt|25.191 9°|
 |Volume (Ⅴ)|1.631 8·10¹¹ ㎞³ <small>(0.151 земного)</small>|

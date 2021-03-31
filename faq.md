@@ -47,13 +47,14 @@ Pretty far from what they call the proper list of sources, but that’s all we h
    1. <http://ecoruspace.me/>
    1. <https://epizodyspace.ru/>
    1. <https://factoriesinspace.com/> — In‑Space Manufacturing & Orbital Economy
+   1. <https://incose.org/> — International Council on Systems Engineering
    1. <https://trade.glavkosmos.com/>
    1. <https://globalspaceexploration.org/>
    1. <https://kosmolenta.com/>
    1. <https://multitran.com/>
    1. <https://nanosats.eu/> — nanosats database
    1. <https://nasa.gov/offices/education/about/index.html>
-   1. <https://jpl.nasa.gov/missions/?type=current>
+      - <https://jpl.nasa.gov/missions/?type=current>
       - <https://nasa.gov/connect/ebooks/index.html> — NASA ebooks
       - <https://forum.nasaspaceflight.com/index.php?topic=32901.0>
       - <https://ntrs.nasa.gov/>
@@ -67,7 +68,6 @@ Pretty far from what they call the proper list of sources, but that’s all we h
    1. <http://sewiki.ru/> — Systems engineering thinking wiki
    1. <https://space.skyrocket.de/doc/acronyms.htm>
    1. <https://spaceflightinsider.com/>
-   1. <https://www.incose.org/> — International Council on Systems Engineering
    1. <https://en.wikipedia.org/>
       - <https://ru.wikipedia.org/>
       - <https://ru.wiktionary.org/>

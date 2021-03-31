@@ -385,13 +385,14 @@
 |56|[SPAC](zz_spac.md)   13|N| | |R|Addition to GPS|
 |57|[Space BD](zz_space_bd.md)   13|E|L| |C|Space for business, sats launch, ISS experiments, education|
 |58|[Space Cubics](zz_spacecubics.md)   1| | | |R|CPU, application software, FPGA, consult on space project management|
-|59|[Space One](zz_space_one_co.md)   13| |L| |R|Launch service that uses small rockets|
+|59|[Space One](zz_space_one_co.md)   13| |L| |R|Launch service that uses small rockets. Small LV and dedicated launch site|
 |60|[Space Port Japan](zz_spaceportjapan.md)   13|E| |P| |Promote the country’s aerospace & related industries|
 |61|[Space Walker](zz_space_walker.md)   13| |L| |R|Suborbital spaceplane, space transport/tourism, small sats launch|
 |62|[Spacetide](zz_spacetide.md)   13|N| |P| |Promotes newspace businesses worldwide, annual conference|
 |63|[Sumitomo PP](zz_sumitomo_pp.md)   28| | | |R|Heat exchangers & control, semiconductor/MEMS equipment, sensors|
 |64|[Synspective Inc.](zz_synspective.md)   13| | | |R|Utilize/integrate data from SAR sat constel., big data, machine learning|
 |65|[Tamagawa Seiki](zz_tamagawa_seiki.md)   20| | | |R|Servo components, motor controllers, robots, IMU, autom. control devices|
+||[Tenchijin](tenchijin.md)| | | |R|Business solution using Earth observation data. Startup for big data|
 |66|[Tokyo Univ.](zz_tokyo_univ.md)   13|E| | |R|Tokyo University|
 |67|[Umitron](zz_umitron.md)   13| | | |R|Aquafarmers support: IoT, sat remote sensing, machine learning|
 |68|[TUPLS](zz_tupls.md)   13|E| | | |Tokyo University of Pharmacy & Life Sciences|

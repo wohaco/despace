@@ -1,21 +1,21 @@
-# Тепловой аккумулятор
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[СОТР](tcs.md)**
+# Heat bank
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [TCS](tcs.md)
 
 [TOC]
 
 ---
 
-> <small>**Тепловой аккумулятор (ТА)** — русскоязычный термин. **Storage heater (SH) / Heat bank** — англоязычный эквивалент.</small>
+> <small>**Storage heater (SH) / Heat bank** — EN term. **Тепловой аккумулятор (ТА)** — RU analogue.</small>
 
-**Тепловой аккумулятор (ТА)** — устройство для накопления тепла/холода с целью его дальнейшего использования. Применяется в индивидуальных домах, квартирах и в промышленности (например, для запаса тепловой энергии на ТЭЦ), а также для запуска двигателей.
+**Heat accumulator (TA)** — a device for accumulating heat/cold for the purpose of its further use. It is used in individual houses, apartments and in industry (for example, for the supply of thermal energy at a thermal power plant), as well as for starting engines.
 
-Существуют тепловые аккумуляторы с твёрдым либо плавящимся теплоаккумулирующим материалом; жидкостные; паровые; термохимические; с электронагревательным элементом.
+There are heat accumulators with solid or melting heat storage material; liquid; steam; thermochemical; with electric heating element.
 
 
 
 <p style="page-break-after:always"> </p>
 
-## Docs & links (TRANSLATEME ALREADY)
+## Docs & links
 |Navigation|
 |:--|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|

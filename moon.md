@@ -7,9 +7,9 @@
 
 > <small>**Moon** — EN term. **Луна** — RU analogue.</small>
 
-**Луна́** (астр. ☾ [ ❐](f/aob/moon/moon_symbol_svg.png), лат. *Luna*) — естественный спутник [Земли](earth.md). Самый близкий к [Солнцу](sun.md) спутник планеты, так как у ближайших к Солнцу планет, [Меркурия](mercury.md) и [Венеры](venus.md), спутников нет. Второй по яркости объект на земном небосводе после Солнца и пятый по величине естественный спутник планеты [Солнечной системы](солнечная_система.md). Среднее расстояние между центрами Земли и Луны — 384 467 ㎞ (~30 диаметров Земли). Имеет огромные запасы [гелия‑3](helium3.md). Символы Луны: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
+**Moon** (astr. ☾ [❐](f/aob/moon/moon_symbol_svg.png), lat. *Luna*) is a natural satellite [of the Earth](earth.md). The closest satellite to the [Sun] (sun.md) planet, since the planets closest to the Sun, [Mercury](mercury.md) & [Venus](venus.md), have no satellites. The second brightest object in the Earth’s firmament after the Sun & the fifth largest natural satellite of the planet [solar system](solar_system.md). The average distance between the centers of the Earth & the Moon is 384 467 ㎞ (~30 Earth diameters). Has huge reserves of [helium-3](helium3.md). Moon Symbols: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
 
-|*Луна*| | |*Карта*|
+|*Moon*| | |*Map*|
 |:--|:--|:--|:--|
 |[![](f/aob/moon/moon_fullmoon2010_thumb.jpg)](f/aob/moon/moon_fullmoon2010.jpg)|[![](f/aob/moon/moon_map1_thumb.jpg)](f/aob/moon/moon_map1.jpg)|[![](f/aob/moon/moon_map2_thumb.jpg)](f/aob/moon/moon_map2.jpg)|[![](f/aob/moon/moon_map3_thumb.jpg)](f/aob/moon/moon_map3.jpg)|
 
@@ -19,9 +19,7 @@
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 |Breaking to the orbit|…|
-|Distance from Earth|356 000 ‑ 407 000 ㎞|
-|Flight from Earth|4.5 ‑ 5.5 days w/ [LPS](ps.md)|
-|Signal from Earth|1.17 ‑ 1.36 s|
+|Distance from Earth|356 000 ‑ 407 000 ㎞, flight for 4.5 ‑ 5.5 days w/ [LPS](ps.md), signal is 1.17 ‑ 1.36 s|
 |Velocity from Earth|… ㎞/s|
 |**Orbits:**|• • •|
 |[Apocentre](apopericentre.md) (Apogee);<br> [Pericentre](apopericentre.md) (Perigee)|405 696 ㎞ (404 000 ‑ 406 700 ㎞);<br> 363 104 ㎞ (356 400 ‑ 370 400 ㎞)|
@@ -45,7 +43,7 @@
 |Equatorial rotation velocity|16.657 ㎞/h (0.009 9 Earth’s)|
 |[Escape velocity](esc_vel.md)|1.68 ㎞/s (v₁, 0.212 Earth’s);<br> 2.38 ㎞/s (v₂, 0.212 Earth’s)|
 |Flattening|0.001 25 (0.372 Earth’s)|
-|[Magnetic field](mag_field.md)|0.027 85 A/m (0.000 7 Earth’s)|
+|[Magnetic field](mag_field.md)|0.000 005 T (0.1 Earth’s)|
 |Mass (m)|7.347 7·10²² ㎏ (0.012 3 Earth’s)|
 |Mean density (ρ)|3.346 4 g/㎝³ (average, 0.607 Earth’s)|
 |Radius|1 738.14 ㎞ (equator, 0.273 Earth’s);<br> 1 735.97 ㎞ (polar, 0.273 Earth’s);<br> 1 737.10 ㎞ (average, 0.273 Earth’s)|
@@ -60,33 +58,36 @@
 |Temperature|Min. 100 K (−173 ℃);<br> Aver. 220 K (−53 ℃);<br> Max. 390 K (+117 ℃);<br> equator Min. 33 K (−240 ℃);<br> equator Aver. 130 K (−143 ℃);<br> equator Max. 230 K (−43 ℃)|
 
 ![](f/aob/moon/lunar_earth_signal.gif)  
-*Радиосигнал от Земли до Луны.*
+*Signal from Earth to Moon.*
 
 [![](f/aob/moon/moov_v1_thumb.jpg)](f/aob/moon/moov_v1.png)  
-*Скорости торможения по годам.*
+*Breaking velocity depending on the year (straight flight).*
 
 ![](f/aob/moon/moon_rabbit_in_the_moon_standing_by_pot.png)
 
-**Лунный заяц** — в фольклоре разных народов мира заяц или кролик, обитающий на Луне. Это представление возникло в силу парейдолической зрительной иллюзии — тёмные пятна на поверхности Луны воспринимались в виде фигуры зайца или кролика.
-
-Наверное, наиболее ранним упоминанием о Лунном зайце является поэтический сборник «Чуские строфы», написанный в древнем Китае во времена династии Западная Хань: там говорится, что в Лунном дворце живёт белый лунный заяц, который, сидя в тени коричного дерева гуйхуа, круглый год толчёт в ступе снадобье бессмертия. Другие поэты того времени часто называли лунного зайца «нефритовым зайцем» или «золотым зайцем», и эти фразы стали часто использоваться для обозначения Луны.
-
-Чуть позднее в Китае появился миф о Чанъэ, жене стрелка Хоу И, которая украла снадобье бессмертия, улетела на Луну и превратилась там в жабу. В более поздних версиях предания о Чанъэ и лунном зайце постепенно слились воедино, и стали говорить, что Чанъэ стала богиней Луны и живёт в Лунном дворце вместе с лунным зайцем.
-
-В индийском фольклоре говорилось, что зайца на Луну поместил бог Индра: заяц, принимая божественного гостя в образе нищего, не нашёл для него никакой еды и зажарил себя сам. Восхищённый таким поступком Индра воскресил зайца и поместил его на Луну, сделав таким образом бессмертным.
-
-В доколумбовой Месоамерике тоже бытовало представление о лунном зайце. Так, ацтекский миф о начале пятой, современной эпохи мира представляет появление светил таким образом: боги Нанауацин и Теккистекатль сожгли себя на жертвенном костре, став соответственно Солнцем и Луной. Луна‑Теккистекатль был почти таким же ярким, как Солнце‑Нанауацин, поэтому один из богов схватил с земли зайца и швырнул его в Теккистекатля, что умерило свет луны.
-
-Первый китайский луноход, успешно прилунившийся 15.12.2013, назван «Юйту» — «Нефритовый заяц».
+The **moon rabbit** or **moon hare** is a mythical figure who lives on the Moon in Far Eastern folklore, based on pareidolia interpretations that identify the dark markings on the near side of the Moon as a rabbit or hare. The folklore originated in China & then spread to other Asian cultures. In East Asian folklore, the rabbit is seen as pounding with a mortar & pestle, but the contents of the mortar differ among Chinese, Japanese & Korean folklore. In Chinese folklore, the rabbit often is portrayed as a companion of the Moon goddess Chang'e, constantly pounding the elixir of life for her & some show the making of cakes or rice cakes; but in Japanese & Korean versions, the rabbit is pounding the ingredients for mochi or some other type of rice cakes. In some Chinese versions, the rabbit pounds medicine for the mortals & some include making of mooncakes. Unrelated moon folklore from certain native cultures of the Americas also has rabbit themes & characters.
 
 
 
 ### Atmosphere & climate
 
+The radiation dose for the lunar surface is 285 higher than for Earth (5.95 ㏜ / 24 h) which means that without protection an inhabitant in 25 minutes will obtain the radiation dose that will dramatically increase the risk of cancer, & will be possibly dead in a couple of days after the 8 hours of exposure. In addition to this, the cosmic ionizing radiation & heavy particles (that are almost completely blocked by the Van Allen belts & Earth’s atmosphere) are not blocked at all on the lunar surface.
+
+The possible acceptable dose for the surface operations can be assumed as 0.05 ‑ 0.1 ㏜/y. The average absorbed dose of solar & cosmic rays during the 5‑ 14 days of flight from Earth to the Lunar surface is 9.74 ㏜/y for the 3.7 ㎜ thick aluminum shield (45 % of the dose per year with the same shielding on the lunar surface). The major contribution (~99.986 %) is coming from the solar radiation while the aluminum shielding does not make any sufficient effect for cosmic rays. The average absorbed dose on the surface is:
+
+|*Solar & cosmic rays, ㏜/y*|*Cosmic rays only, ㏜/y*|*Aluminum shield thickness, ㎜*|
+|:--|:--|:--|
+|285|0.037 5|0.37|
+|21.5|0.038|3.7|
+|1.25|0.034 7|37|
+|0.05|0.031|450|
+
+Meteorites are moving with a speed up to 72 km/s & have a mass from 0.000001 to 0.01 g. Their distribution is almost even & their activity is almost constant. Meteorites with higher mass are eventual & not described here.
+
 
 
 ### Magnetic field & core
-
+<mark>TBD</mark>
 
 
 ### Surface & Maps
@@ -105,29 +106,33 @@
    1. <https://www.nasa.gov/feature/moon-s-south-pole-in-nasa-s-landing-sites> — NASA South Pole landing sites
    1. <https://trek.nasa.gov/moon/>
 
-Other extremes at the Moon’s South Pole are not so dark and cold ­— there are also areas, near Shackleton crater for instance, that are bathed in sunlight for extended periods of time, over 200 Earth days of constant illumination. This happens also because of the Moon’s tilt and is a phenomenon that we experience at our own polar regions on Earth. Unrelenting sunlight is a boon to Moon missions, allowing explorers to harvest sunlight in order to light up a lunar base and power its equipment.
+<mark>TBD</mark> The text in this section is a bit bulky.
 
-Состав лунного реголита: осколки камней, минералов, агглютинации (соединённые стреловидным связующим грунтовые элементы), брекчии и стекла (аморфные вещества). На лунной поверхности было обнаружено менее сотни разных типов минералов (на Земле несколько тысяч). Образец, взятый с поверхности морей, в основном состоит из осколков базальтовых  камней (вулканический камень, обычно мелкозернист вследствие быстрого охлаждения). Эти камни содержат минералы: пироксены (группа минералов с формулой ABSi₂O₄, где A — магний/железо/кальций/натрий, B — магний/железо/алюминий), оливин, ильменит FeTiO₃. Образец, взятый с поверхности высот (земель), в основном состоит из плагиоклазов. Особые свойства: пыль обладает электрическим зарядом и магнитными свойствами;
+The lunar surface consists mostly of basalt & basalt rocks of different dimensions & forms & is covered by a thin layer of dust that has an electrical charge & magnetic characteristics. Due to the lack of atmosphere dust, particles, & rocks were not eroded, so they are sharp.
 
-Даже невооруженным глазом заметен контраст лунной поверхности — она состоит из темных и светлых областей. Области принято называть соответственно морями (maria / mare) и землями (terrae /terra, также «возвышенности»).
+Other extremes at the Moon’s South Pole are not so dark & cold ­— there are also areas, near Shackleton crater for instance, that are bathed in sunlight for extended periods of time, over 200 Earth days of constant illumination. This happens also because of the Moon’s tilt & is a phenomenon that we experience at our own polar regions on Earth. Unrelenting sunlight is a boon to Moon missions, allowing explorers to harvest sunlight in order to light up a lunar base & power its equipment.
 
-Моря находятся ниже по высоте, чем возвышенности, и их поверхность действительно темная — она состоит из отвердевшей лавы, свидетельствующей о бывшей вулканической активности Луны. Моря составляют ~16 %, а земли ~84 % от лунной поверхности. Полусфера Луны, наблюдаемая с Земли, называется ближней. На ближней полусфере моря составляют 30 % от всей поверхности полусферы. Различные исследования (среди которых исследования по данным, полученным с советский лунных миссий) показывают, что на дальней полусфере (темная сторона Луны) моря составляют всего 2 % от поверхности. При этом в южной области дальней полусферы больше морей, чем в южной области ближней.
+The composition of the lunar regolith: fragments of stones, minerals, agglutination (connected by arrow‑shaped binder by ground elements), breccias & glasses (amorphous substances). Less different types of minerals have been found on the surface of the lunar surface (there are several thousand on Earth). The sample taken from the surface of the seas mainly consists of fragments of basalt stones. These stones contain minerals: pyroxenes (a group of minerals with the formula ABSi₂O₄, where A — magnesium / iron / calcium / sodium, B — magnesium / iron / aluminum), olivine, ilmenite FeTiO₃. The sample taken from the surface of heights (lands) mainly consists of plagioclases. Special properties: has an electric charge & magnetic properties;
 
-И моря, и земли имеют большое количество кратеров, появившихся от ударов метеоритов. Большинство морей имеют округлую форму, окантованную кольцевыми или дугообразными горами. Замкнутые структуры поверхности, внутри которых находятся моря, называются бассейнами. Основное отличие кратеров от бассейнов — размер. Образовавшееся от удара метеорита углубление считается бассейном, если его диаметр не менее 300 км.
+Even with a non‑military eye, the contrast of the lunar surface is noticeable — it is from dark & light areas. Areas are taken to be called, respectively, seas & lands (terrae / terra, also “hills”).
 
-На внутреннюю форму кратера влияет его размер. Маленькие кратеры (менее 15 км в диаметре) имеют чашеобразную форму. Кратеры среднего размера (от 20 до 175 км) обладают плоской нишей с небольшим холмом в центре кратера. Кратеры диаметра более 175 км имеют сложные концентричные структуры — с возрастанием диаметра кратера кольцевые хребты заменяют холмы.
+The seas are lower in height than the hills, & their surface is really dark — it consists of hardened lava, indicative of a former volcanic moon. Seas make up ~16 % & lands ~84 % of the lunar surface. The hemisphere of the Moon, observed from the Earth, is called the near one. In the near hemisphere, the sea makes up 30 % of the entire surface of the hemisphere. Various studies (among studies based on data obtained from Soviet lunar missions) show that in the far hemisphere (the dark side of the moon) the seas make up only 2 % of the surface. At the same time, there are more seas in the southern region of the far hemisphere than in the southern region of the near one.
 
-По количеству кратеров можно судить о геологическом возрасте поверхности — чем больше кратеров, тем старше поверхность (молодые поверхности еще не успели обзавестись кратерами). Например, поверхности Земли считается относительно молодой, так как она содержит мало кратеров. Следствием геологической активности планеты является постоянное изменение её поверхности, за счет чего давние кратеры исчезают. В то же время, поверхность Луны очень старая — на ней много кратеров. Причем поверхность Луны неравномерна — моря считаются более молодыми, так как на их поверхности меньше кратеров. Наистарейшими поверхностями в солнечной системе считаются поверхности, обладающие максимальной плотностью по количеству кратеров. Это означает, что кратеров на поверхности небесного тела настолько много, что никакой метеорит более не изменит их количество при любом столкновении с поверхностью. Некоторые области лунной поверхности близки к такому состоянию, что показывает, насколько они стары.
+Both seas & lands have a large number of craters that appeared from impacts of meteorites. Most of the seas are rounded, edged with ring or arched mountains. The closed surface structures that are inside are called pools. The main difference between craters & pools is size. A depression formed from a meteorite impact is considered a basin if its diameter is at least 300 ㎞.
 
-Поверхность Луны покрыта умеренно передвигающимся слоем порошкообразного грунта, по которому разбросаны камни — реголитом. Реголит формируется из пыли, песка и обломков, выбрасываемых из кратера во время его формирования при ударе метеоритом. Каждый уважающий себя  кратер окружен слоем «выброшенного» материала — «выброшенным полотном». При вылете из места столкновения большие камни следуют по гиперболической траектории, поэтому многие из них являются причиной возникновения близлежащих вторичных кратеров.
+The internal shape of the crater is influenced by its size. Small craters (less than 15 ㎞ in diameter) are bowl‑shaped. Medium craters (20 to 175 ㎞) have a flat niche with a small hill in the center of the crater. Craters with a diameter of more than 175 ㎞ have complex concentric structures — with an increase in the diameter of the crater, ring ridges replace hills.
 
-Средняя температура поверхности в течение лунного дня (около месяца по Земным меркам) меняется в диапазоне от 400 K до 100 K со скоростью 5 K/ч. Многие кратеры полярных регионов находятся в постоянной тени, поэтому температура их поверхности низкая (около 40-80 K) и почти не изменяется.
+By the number of craters, one can judge the geological age of the surface — the more craters, the older the surface (young surfaces have not yet had time to acquire craters). For example, the Earth's surface is considered young because it contains few craters. A consequence of the planet's geological activity is a constant change in its surface, due to which ancient craters disappear. At the same time, the surface of the Moon is very old — there are many craters on it. Moreover, the surface of the moon is uneven — the seas are considered younger, since there are fewer craters on their surface. The oldest surfaces in the solar system are those with the highest density in terms of the number of craters. This means that there are so many craters on the surface of a celestial body that no meteorite will any longer change their number in any collision with the surface. Some areas of the lunar surface are close to this state.
 
-На основании различных наблюдений (миссии Аполлон, Сервейер-3 и проч.) была сформирована статистика наблюдаемого количества микрократеров (ям) в год на один квадратный метр.
+The lunar surface is covered with a moderately moving layer of powdery soil, along given stones — regolith. Regolith is formed from dust, sand & debris ejected from the crater during its formation when struck by a meteorite. Each self‑respecting crater is surrounded by a layer of “discarded” material — “discarded canvas”. When leaving the collision site, large stones follow a hyperbolic trajectory.
 
-Ожидаемое количество микрократеров
+The average surface temperature during a lunar day (about a month by Earth standards) varies in the range from 400 K to 100 K at a rate of 5 K / h. Many craters in the polar regions are in constant shadow, so their surface temperature is low (about 40 ‑ 80 K) & almost does not change.
 
-|*Диаметр кратера, 10⁻⁶ m*|*Количество, 1/(m²·year)*|
+Based on various observations (missions Apollo, Surveyor‑3, etc.), statistics were formed on the observed number of microcraters (pits) per year per square meter.
+
+Expected number of microcraters
+
+|*Crater’s diameter, 10⁻⁶ m*|*Quantity, 1/(m²·year)*|
 |:--|:--|
 |≥ 0.1|30 000|
 |≥ 1.0|1 200|
@@ -135,73 +140,100 @@ Other extremes at the Moon’s South Pole are not so dark and cold ­— there a
 |≥ 100|0.6|
 |≥ 1 000|0.001|
 
-**Геологический состав**
+**Geological composition**
 
-Считается, что слой в несколько первых сотен от поверхности в глубь Луны возник посредством бомбардировки метеоритами в течение многих лет. Одни только удары микрометеоритов перемешивают весь реголит каждые 40 миллионов лет. Процесс формирования грунта сопровождается воздействиями радиации и солнечного ветра, из-за чего возникает эрозия (буквально выветривание) поверхности, благодаря чему поверхность имеет относительно мелкозернистую структуру.
+It’s believed that a layer in the first few hundred from the surface to the interior of the moon was created by bombardment by meteorites over many years. The impact of micrometeorites alone mixes the entire regolith every 40 million years. The process of soil formation is accompanied by the effects of radiation & solar wind, which causes erosion (literally weathering) of the surface, due to which the surface has a relatively fine‑grained structure.
 
-Состав зерен образца грунта, взятого в ходе миссии Аполлон-11
+Composition of grains of a soil sample taken during the Apollo 11 mission
 
-|*Размер зерна, mm*|*Процентное содержание (по массе), %*|
+|*Grain size, mm*|*Percentage (by weight),%*|
 |:--|:--|
-|10 — 4|1.67|
-|4 — 2|2.39|
-|2 — 1|3.20|
-|1 — 0.5|4.01|
-|0.5 — 0.25|7.72|
-|0.25 — 0.15|8.23|
-|0.15 — 0.090|11.51|
-|0.090 — 0.075|4.01|
-|0.075 — 0.045|12.40|
-|0.045 — 0.020|18.02|
-|≤ 0.020|26.85|
+|10 ‑ 4|1.67|
+|4 ‑ 2|2.39|
+|2 ‑ 1|3.20|
+|1 ‑ 0.5|4.01|
+|0.5 ‑ 0.25|7.72|
+|0.25 ‑ 0.15|8.23|
+|0.15 ‑ 0.090|11.51|
+|0.090 ‑ 0.075|4.01|
+|0.075 ‑ 0.045|12.40|
+|0.045 ‑ 0.020|18.02|
+|≤ 0.020|26.85|
 
-Наибольшая разница между материалами на поверхности Земли и Луны состоит в виде находящихся на ней камней. Большинство камней на Земле осадочные — результат атмосферной и водной эрозии. На Луне многие камни вулканического происхождения.
+The biggest difference between materials on the surface of the Earth & the Moon is in the form of stones on it. Most of the rocks on Earth are sedimentary — the result of atmospheric & water erosion. There are many volcanic rocks on the moon.
 
-Моря состоят в основном из темных базальтовых пород, сформированных в процессе быстрого остывания потоков лавы. Возвышенности (земли) по большей части породы Анортозит — порода вулканического происхождения, но формирующаяся в процессе менее быстрого остывания лавы, чем в случае с базальтом. Факт, что первоначально находящиеся в одинаковом расплавленном состоянии камни морей и земель остывали с различной скоростью, доказывает их возникновение в различных условиях.
+The seas are composed primarily of dark basaltic rocks formed by the rapid cooling of lava flows. Uplands (land) for the most part of the Anorthosite rock is a rock of volcanic origin, but formed in the process of a slower cooling of lava than in the case of basalt. The fact that the stones of the seas & lands, originally in the same molten state, cooled at different rates, proves their occurrence in different conditions.
 
-В тех и других областях присутствуют брекчии - осколки нескольких камней, соединенных воедино ударом метеорита. В возвышенностях брекчии встречаются чаще. Также лунный грунт содержит стеклообразные частицы, не встречающиеся на Земле. Скорее всего они были сформированы теплом и давлением при ударах метеоритов.
+In both areas there are breccias — fragments of several stones connected together by a meteorite impact. At higher elevations, breccias are more common. Also, the lunar soil contains glassy particles that are not found on Earth. Most likely they were formed by the heat & pressure from the impact of meteorites.
 
-**Химический состав**
+**Chemical composition**
 
-Лунный реголит состоит из различных химических элементов и соединений. Наиболее часто встречаемые элементы — углерод, водород и азот — распространены по всей лунной поверхности солнечными ветрами. По сравнению с Земным грунтом, в лунном грунте большие концентрации серы, железа, магния, марганца, кальция и никеля. Многие из них обнаружены в оксидах FeO, MnO, MgO и т.д. Наибольшим источником кислорода является ильменит (FeTiO₃), в основном присутствующий в «морях».
+Lunar regolith consists of various chemical elements & compounds. The most common elements — carbon, hydrogen & nitrogen — are distributed over the entire lunar surface by solar winds. Compared to the Earth's soil, the lunar soil contains high concentrations of sulfur, iron, magnesium, manganese, calcium & nickel. Many of them are found in the oxides FeO, MnO, MgO, etc. The largest source of oxygen is ilmenite (FeTiO₃), which is mainly found in the “seas”.
 
-Камни на поверхности Луны содержат в большом количестве огнеупорные элементы, образующие соединения с высокой точкой плавления, такие как: кальций, алюминий, титан. При этом в них немного легковесных элементов, например, водорода, но они богаты кремнием и кислородом.
+The stones on the lunar surface contain a large number of refractory elements that form compounds with a high melting point, such as: calcium, aluminum, titanium. At the same time, there are few lightweight elements in them, for example, hydrogen, but they are rich in silicon & oxygen.
 
-Большие концентрации редких металлов (например, титана) и обильное количество кремния и кислорода — вот почему Луна привлекательна с точки зрения добычи и производства.
+High concentrations of rare metals (such as titanium) & abundant amounts of silicon & oxygen make the Moon attractive in terms of mining & production.
 
-**Возраст материала**
+**Material age**
 
-О возрасте материала можно судить по его насыщенности радиоактивными элементами. Метод, позволяющий определить возраст объекта по радиоактивному содержанию, называется радиометрическим датированием.
+The age of a material can be judged by its saturation with radioactive elements. The method for determining the age of an object from its radioactive content is called radiometric dating.
 
-Некоторые результаты таких исследований:
+Some of the results of such studies:
 
-   - Возраст образцов взятых с поверхностей Моря Дождей и Океана Бурь (доставленных на Землю миссиями Аполлон-11 и Аполлон-12) около 3.5 млрд лет. Это сопоставимо с самыми старыми камнями, обнаруженными на Земле.
-   - Образцы «выброшенного полотна», лежащего вблизи бассейна Моря Дождей (доставлены экспедицией Аполлон-14), более древние — их возраст порядка 3.9 млрд лет.
-   - Камни с поверхности «земель» (Аполлон-16) обладают возрастом около 4 млрд лет.
-   - Возраст самого старого камня (обнаружен в ходе миссии Аполлон-17) из всех исследованных — около 4.5 млрд лет.
+   - The age of samples taken from the surfaces of the Sea of ​​Rains & the Ocean of Storms (brought to Earth by the Apollo 11 & Apollo 12 missions) is about 3.5 billion years. This is comparable to the oldest stones found on Earth.
+   - Samples of the “discarded canvas” lying near the basin of the Sea of ​​Rains (delivered by the Apollo 14 expedition) are more ancient — their age is about 3.9 billion years.
+   - Stones from the surface of the “earth” (Apollo 16) are about 4 billion years old.
+   - The age of the oldest stone (discovered during the Apollo 17 mission) of all investigated is about 4.5 billion years.
 
-Приведенные результаты позволяют сделать вывод о том, что изучение лунного грунта и камней позволит больше узнать об истории развития солнечной системы, так как возраст самых древних образцов соответствует предположительному возрасту самой солнечной системы. С помощью образцов с Земли невозможно провести такие фундаментальные исследования — она постоянно обновляется, уничтожая настолько старые материалы.
+The above results allow us to conclude that the study of the lunar soil & stones will allow us to learn more about the history of the development of the solar system, since the age of the most ancient samples corresponds to the estimated age of the solar system itself. With the help of samples from the Earth, it is impossible to carry out such fundamental research — it is constantly renewed, destroying such old materials.
 
 
 
 ### Developing features
-**Литература:**
+
+**Literature:**
 
    1. …
 
-**Орбитальный КА:**
+**Orbiter:**
 
-   1. Не забывайте про масконы.
+   - **Constraints**:
+      1. Do not forget maskons.
+      1. Solar & cosmic rays may damage electronic/mechanical/bio elements.
 
-**Посадочный КА:**
+**Lander:**
 
-   1. Не забывайте про масконы.
-   1. Механические средства должны быть спроектированы с учетом защиты от частиц пыли — иметь закрытые и крепкие соединительные части.
-   1. Один из перспективных методов уменьшения влияния пыли основан на важном свойстве пыли — пыль имеет электрический заряд. Потому, с помощью устройств, обладающих электромагнитными полями, можно оказывать влияние на движение пыли. Например, установленная в скафандр электромагнитная цепь позволит очисть скафандр от пыли, электромагнитный экран удалит пыль с иллюминаторов КА. Пыль также обладает магнитными свойствами.
-   1. Для снижения влияния пыли могут выбираться соответствующие материалы — на тефлоне пыль почти не оседает. Также выдвигаются идеи по уменьшению количества пыли с помощью лунной «газонокосилки», которая воздействием микроволнового излучения спекает пыль.
-   1. Лунный грунт плавится за 30 секунд при мощности 250 Вт. Это свойство грунта также может быть использовано для формирования дорог или установочных мест под телескопы.
+   - **Constraints**:
+      1. **Do not forget maskons.** Through, the lunar gravity is ⅙ of Earth's.
+      1. **Almost no atmosphere.**
+      1. **Lack of the Sun.** Completely no sunlight for a couple of Earth days or weeks. Thus, no solar power, low temperature, & significant temperature range during the day‑night change.
+      1. **Solar & cosmic rays** may damage electronic/mechanical/bio elements.
+      1. **Dust.** Has sharp corners, electrical & magnetic characteristics. May damage lungs & moving mechanical parts, conduct short circuits, adhere to metallic & magnetic surfaces. On the other hand, the dust can be removed using a generated electromagnetic field.
+      1. **The communication** with Earth may not be constant or direct.
+      1. **Meteorites** are moving at speeds of 3 ‑ 72 km/s, not blocked by an atmosphere, have mostly small dimensions. Thus, there has to be protection or availability to maintain damages.
+   - **Possible [energy](sps.md) & [heat](tcs.md) solutions** (gather, store, convert):
+      1. Electro‑mechanical accumulators
+      1. Fueled sources
+      1. Heat‑to‑electricity converters
+      1. Lunar surface ionized by cosmic rays
+      1. Mirror systems. E.g. [NASA NIAC Light Bender ⎆](https://www.nasa.gov/directorates/spacetech/niac/2021_Phase_I/Light_Bender/).
+      1. [Nuclear reactors](nr.md)
+      1. [Rechargeable electrical](eb.md) & [heat](heat_bank.md) accumulators
+      1. [Solar panels](sp.md)
+      1. [RTG](RTG.MD)
+   - **Possible [communications](comms.md) solutions:**
+      1. High/medium/low gained antennas to trace Earth & Orbiters
+      1. Radio repeaters (passive & active)
+   - **Possible [external factors](ef.md) protection solutions** (meteorites, radiation, thermal, vacuum, dust):
+      1. Ballistic covers
+      1. Electromagnetic fields to get rid of a dust
+      1. Hermetic seals
+      1. Thick man‑made constructions
+      1. Thin structures covered in the lunar soil
 
-**Маскон** (от англ. *mass concentration* — «концентрация массы») — регион литосферы планеты или естественного спутника, вызывающий положительные гравитационные аномалии. Масконы были обнаружены и локализованы по возмущениям в движениях искусственных спутников Луны. Чаще всего масконы расположены под лунными морями, имеющими округлую форму.
+In astronomy & astrophysics, a **mass concentration** (or **mascon**) is a region of a planet or moon’s crust that contains a large positive gravitational anomaly. In general, the word “mascon” can be used as a noun to refer to an excess distribution of mass on or beneath the surface of an astronomical body (with respect to some suitable average), such as is found around Hawaii on Earth. However, this term is most often used to describe a geologic structure that has a positive gravitational anomaly associated with a feature (e.g. depressed basin) that might otherwise have been expected to have a negative anomaly, such as the “mascon basins” on the Moon.
+
+The Moon is the most gravitationally “lumpy” major body known in the solar system. Its largest mascons can cause a plumb bob to hang about ⅓ of a degree off vertical, pointing toward the mascon, & increase the force of gravity by one‑half percent.
 
 ![](f/aob/moon/moon_mascon-lp150q_grav_150.png)
 
@@ -210,6 +242,7 @@ Other extremes at the Moon’s South Pole are not so dark and cold ­— there a
 ## Moon exploration
 
 ### What for?
+
 <mark>TBD</mark>
 
 
@@ -223,34 +256,36 @@ Other extremes at the Moon’s South Pole are not so dark and cold ­— there a
 
 ### Communities & persons
 
+<mark>TBD</mark>
+
 
 
 <p style="page-break-after:always"> </p>
 
 ### Projects
-См. также раздел «[Проекты](project.md)».
+See also «[Projects](project.md)».
 
-**Гипотетические и исторические:**
+**Hypothetical & Historical:**
 
    - [MEAEM](hptc_meaem.md)
-   - [Лунагрузик](hptc_lunagruzik.md)
-   - [ОЧБПЛИЕГ](hptc_ochbplieg.md)
+   - [Lunagruzik](hptc_lunagruzik.md)
+   - [OCHBPLIEG](hptc_ochbplieg.md)
 
-**[Луноходы](rover.md):**
+**[Lunar rovers](rover.md):**
 
    - [Chandrayaan-2-rover](chandrayaan_2_rover.md) <mark>TBD</mark>
    - [LRV](lrv.md) <mark>TBD</mark>
    - [Yutu](yutu.md) <mark>TBD</mark>
    - [Yutu-2](yutu_2.md) <mark>TBD</mark>
-   - [Луноход‑1](луноход_1.md) <mark>TBD</mark>
-   - [Луноход‑2](луноход_2.md) <mark>TBD</mark>
-   - [Робот‑геолог](робот_геолог.md) <mark>TBD</mark>
+   - [Lunokhod‑1](луноход_1.md) <mark>TBD</mark>
+   - [Lunokhod‑2](луноход_2.md) <mark>TBD</mark>
+   - [Robot‑geolog](робот_геолог.md) <mark>TBD</mark>
 
-**Список прилунений:**
+**List of lunar lands:**
 
 ![](f/aob/moon/moon_landing_sites_ru.png)
 
-**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
+**Table.** Missions/spacecraft of past & future. <small>(**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
 
 <small>
 
@@ -326,15 +361,29 @@ Other extremes at the Moon’s South Pole are not so dark and cold ­— there a
 </small>
 
 
+#### Artemis
+
+Content: <mark>TBD</mark>
+
+   1. Need, targets, major participants
+   1. Links (NASA site, news sites, groups in Facebook/Linkedin, etc.)
+   1. Gerenal description of Artemis
+   1. Current status of major elements (based on point 2)
+
+**Links:**
+
+   - [LinkedIn: Artemis Lunar Base Development & Human Lunar Exploration ⎆](https://www.linkedin.com/groups/13941062/)
+
+
 
 <p style="page-break-after:always"> </p>
 
 ## Science & tech targets
-Just a preliminary list of the targets and explorations for the Moon.
+Just a preliminary list of the targets & explorations for the Moon.
 
-The main idea is to prepare a brief (sic!) systematized list of the Lunar targets and explorations of the retired/active/proposed spacecraft suitable both for scientists, and engineers, and managers, and passers‑by. The one which is able in the same time to tell about what was done and in what volume, what is processing now and why it’s cool, what is proposed and why it’s so important. Something like a bridge between scientists and other humanity just to show that all of these complex scientific terms can be described with some statistic terms without need to read a lot of literature or trust their words.
+The main idea is to prepare a brief (sic!) systematized list of the Lunar targets & explorations of the retired/active/proposed spacecraft suitable both for scientists, & engineers, & managers, & passers‑by. The one which is able in the same time to tell about what was done & in what volume, what is processing now & why it’s cool, what is proposed & why it’s so important. Something like a bridge between scientists & other humanity just to show that all of these complex scientific terms can be described with some statistic terms without need to read a lot of literature or trust their words.
 
-Soon there will be something new, for example, links between targets/explorations, spacecraft, and a couple of brief description of the current state of each one.
+Soon there will be something new, for example, links between targets/explorations, spacecraft, & a couple of brief description of the current state of each one.
 
 
 
@@ -342,7 +391,7 @@ Soon there will be something new, for example, links between targets/exploration
 Comments:
 
    - **T** — technical; **Draft** — minimum for working with object. **C** — contact exploration; **D** — distant exploration; **F** — fly‑by; **H** — manned; **S** — soil sample return; **X** — technology demonstration
-   - **Sections of measurement and observation:**
+   - **Sections of measurement & observation:**
       - Atmospheric/climate — **Ac** composition, **Ai** imaging, **Am** mapping, **Ap** pressure, **As** samples, **At** temperature, **Aw** wind speed/direction.
       - General — **Gi** planet’s interactions with outer space.
       - Soil/surface — **Sc** composition, **Si** imaging, **Sm** mapping, **Ss** samples.
@@ -486,7 +535,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Astronomical_symbols>
    1. <https://en.wikipedia.org/wiki/Moon>
-   1. <http://ru.wikipedia.org/wiki/Маскон>
+   1. <https://en.wikipedia.org/wiki/Mass_concentration_(astronomy)>
    1. <http://ru.wikipedia.org/wiki/Список_прилунений>
    1. <http://ru.wikipedia.org/wiki/Исследование_Луны>
    1. <https://ru.wikipedia.org/wiki/Лунный_заяц>

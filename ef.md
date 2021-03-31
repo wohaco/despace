@@ -9,14 +9,17 @@
 
 **External factors (EF)** — mechanical, climatical, biological factors, ionizing radiation, outer environment during the operations, including such as:
 
-   - acoustic
-   - [EMI](emi.md)
-   - [illumination](illum.md)
-   - [magnetic field](mag_field.md)
-   - [meteorites](aob.md)
-   - overloads
-   - [radiation](ion_rad.md)
-   - [vibration and shocks](vibration.md)
+   1. acoustic
+   1. atmosphere
+   1. dust
+   1. [EMI](emi.md)
+   1. [illumination](illum.md)
+   1. [magnetic field](mag_field.md)
+   1. [meteorites](aob.md)
+   1. overloads
+   1. [radiation](ion_rad.md)
+   1. vacuum and pressure
+   1. [vibration and shocks](vibration.md)
 
 
 

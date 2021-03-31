@@ -27,6 +27,12 @@ A simplified validation asks the questions: Does the system work as expected? Ho
 
 **Верификация** — *по [ГОСТ 56469](гост_56469.md)* — подтверждение с помощью объективных данных того факта, что заданные требования выполнены.
 
+At least one method of verification have to be used. Verification methods:
+
+   - **Testing.** Testing is a verification method using technical aids, such as special equipment, instruments, simulation methods & application of common principles & methonds to assess components, subsystems & systems for cimpliance to the requirements. Testing is a primary method of verification & is applied when analytical methods do not produce necessary results, when there are failures which may endanger the safety of personnel, have negative effect on in‑flight systems or payload functioning, or may endanger mission objectives.
+   - **Analysis.** Verification by analysis applied together with or instead of other verification methods to confirm compliance to the specification requirements. The methods selected may include without limitation technical analysis, statistical & qualitative analysis, software & hardware simulation & analogue modeling. Analysis may be used when ➀ thorough & precise analys is possible, ➁ testing is unpractical due to costs, ➂ verification by inspection is insufficient.
+   - **Design Review.** Design Review is a verification method where the verification is carried out by means of checking documented data or by demonstration of approved Basic Design documents or approved design reports, technical descriptions or drawings definitely supporting compliance to a requirement.
+   - **Inspection.** During the Inspection principal attention is paid to examination of physical characteristics of the product to support compliance to the requirements to design elements, compliance to documentation & drawings, quality standards & physical conditions without application of special laboratory equipment, methods, testing instrumentation or services.
 
 
 

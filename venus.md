@@ -60,7 +60,7 @@ And a bit of animation.
 |Equatorial rotation velocity|6.52 ㎞/h (0.003 9 Earth’s)|
 |[Escape velocity](esc_vel.md)|7.328 ㎞/s (v₁, 0.926 Earth’s);<br> 10.363 ㎞/s (v₂, 0.926 Earth’s)|
 |Flattening|0|
-|[Magnetic field](mag_field.md)|1.989 34 ‑ 3.978 87 A/m (0.05 ‑ 0.1 Earth’s)|
+|[Magnetic field](mag_field.md)|0.000 002 5 ‑ 0.000 005 T (0.05 ‑ 0.1 Earth’s)|
 |Mass (m)|4.867 5·10²⁴ ㎏ (0.815 Earth’s)|
 |Radius|6 051 ㎞ (mean, 0.953 Earth’s, lesser on 320 ㎞)|
 |Solar constant|2 600 W/m², 2 525 ‑ 2 700 W/m² (1.911 7 Earth’s)|
