@@ -4,13 +4,15 @@
 |[![](f/contact/p/psi_logo1_thumb.jpg)](f/contact/p/psi_logo1.png)|<mark>noemail</mark>, +1(520)622-63-00, Fax: +1(520)622-80-60;<br> *1700 East Fort Lowell, Suite 106, Tucson, AZ 85719-2395, USA*|
 |:--|:--|
 |Link|<https://www.psi.edu/><br> <https://en.wikipedia.org/wiki/Planetary_Science_Institute><br> <https://ru.wikipedia.org/wiki/Планетологический_институт_США>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Планетологический институт США (англ. Planetary Science Institute (PSI))** — научно‑исследовательский институт, основанный в Тусоне, штат Аризона. C момента его создания ориентирован на планетологию.
 
 Основанный в 1972 году на некоммерческой основе институт участвует во многих миссиях [НАСА](zz_nasa.md), исследовании Марса, астероидов, комет, межпланетной пыли, формирования Солнечной системы, экзопланет, возникновения жизни и других научных тем.
-
-
-<p style="page-break-after:always"> </p>
 
 The **Planetary Science Institute** is a private, [nonprofit 501(c)(3) corporation](nonprof_org.md) dedicated to Solar System exploration. It is headquartered in Tucson, AZ, where it was founded in 1972. In 2016 PSI established a second office in Lakewood, CO (near Denver).
 
@@ -19,3 +21,8 @@ PSI scientists & educators are involved in numerous NASA & international mission
 PSI is the largest non-governmental employer of planetary scientists in the world.  PSI scientists & educators are based in 28 states & the District of Columbia, as well as Australia, Canada, France, Germany, Ireland, Israel, Latvia, New Zealand, Russia, Serbia, & the United Kingdom. As of 2018, 43 percent of PSI [Principal Investigators](principal_investigator.md) are women.
 
 In 2014, PSI was ranked 20th in the nation for workplace efficiency & flexibility among US corporations by the Families & Work Institute & the Society for Human Resource Management.
+
+
+<p style="page-break-after:always"> </p>
+
+…

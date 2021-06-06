@@ -11,7 +11,7 @@
 
 ![](f/project/d/davinci/davinci.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -62,7 +62,7 @@ Achieved targets & investigations:
 </small>
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 DAVINCI would study the chemical composition of Venus’ ([EVN‑014](venus.md)) atmosphere during descent ([EVN‑003](venus.md)). The DAVINCI probe would travel through the Venus atmosphere, sampling the air ([EVN‑055](venus.md)), and returning measurements down to the surface. These measurements are important to understanding the origin of the Venus atmosphere, how it has evolved, and how and why it is different from Earth ([EVN‑027](venus.md)) and Mars. DAVINCI’s measurements would reveal the history of water ([EVN‑052](venus.md)) on Venus and the chemical processes at work in the unexplored lower atmosphere. Before it reaches the surface, the DAVINCI probe would take the photos of the planet’s ridged terrain − «tesserae» ([EVN‑093](venus.md), [EVN‑085](venus.md)) to explore its origin and tectonic, volcanic, and weathering history ([EVN‑042](venus.md), [EVN‑095](venus.md)).
@@ -73,7 +73,7 @@ DAVINCI’s in situ measurements would answer multiple questions regarding Venus
 
 It is part of the Discovery Program, and it was one of the finalists for Discovery 13 and 14. In the selection, the Lucy and Psyche spacecraft were selected as the next missions. The total allocated budget for the winners was $450M. On February 13, 2020, it joined the Discovery 15 and 16 finalists, becoming DAVINCI+.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
    1. Atmospheric origin and evolution: Understand the origin of the Venus atmosphere, how it has evolved, and how and why it is different from the atmospheres of Earth and Mars.
@@ -89,13 +89,13 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 |Venus Descent Imager (VenDI)|Would provide high‑contrast images of the tessera terrain at the descent location.|
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 
 <mark>TBD</mark>
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
@@ -109,12 +109,12 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

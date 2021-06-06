@@ -4,6 +4,11 @@
 |[![](f/contact/s/spac_logo1_thumb.jpg)](f/contact/s/spac_logo1.png)|<office@eiseisokui.or.jp>, +81-3-5402-4738, Fax: +81-3-5402-4712;<br> *Kikai-Shinkou-Kaikan Bldg.3F, 3-5-8 Shibakoen, Minato-ku, Tokyo, 105-0011*|
 |:--|:--|
 |Link|<http://www.eiseisokui.or.jp/en/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Satellite Positioning Research & Application Center (SPAC)** is a Japan organization aimed to expand the utilization of geospatial information within industrial & economic sectors including linkage with companies & associations related to satellite positioning. Founded in 2007.02.05.
 
@@ -18,7 +23,7 @@ It is owned by 4 Japanese government departments:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Message from Chairperson**
 

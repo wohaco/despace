@@ -15,7 +15,7 @@ Original of NASA’s report: 2009.12.18 ([GSFC](zz_gsfc.md), [JPL](zz_jpl.md), [
 
 ![](f/project/v/venus_mobile_explorer/pic01.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -78,7 +78,7 @@ Original of NASA’s report: 2009.12.18 ([GSFC](zz_gsfc.md), [JPL](zz_jpl.md), [
 </small>
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 The VME mission concept affords unique science opportunities and vantage points not previously attainable at Venus. The ability to characterize the surface composition and mineralogy ([EVN‑023](venus.md)) in two locations within the Venus highlands (or volcanic regions) will provide essential new constraints on the origin of crustal material, the history of water in Venus’ past, and the variability of the surface composition within the unexplored Venusian highlands. As the VME floats (~3 ㎞ above the surface) between the two surface locations, it offers new, high spatial resolution, views of the surface at near infrared (IR) wavelengths ([EVN‑022](venus.md)). These data provide insights into the processes that have contributed to the evolution of the Venus surface. The science objectives are achieved by a nominal payload that conducts in situ measurements of noble and trace gases in the atmosphere ([EVN‑077](venus.md)), conducts elemental chemistry and mineralogy at two surface locations separated by ~8–16 ㎞, images the surface on descent and along the airborne traverse connecting the two surface locations, measures physical attributes of the atmosphere ([EVN‑074](venus.md)), and detects potential signatures of a crustal dipole magnetic field ([EVN‑028](venus.md)).
@@ -109,7 +109,7 @@ The scientifically compelling highland regions known as tessera hold the most po
 [![](f/project/v/venus_mobile_explorer/pic04_thumb.jpg)](f/project/v/venus_mobile_explorer/pic04.png)
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 **SCIENCE GOALS**
@@ -126,8 +126,8 @@ VME’s primary science objectives are a subset of those defined by VEXAG and ar
 |Determine whether Venus has a secondary atmosphere resulting from late bombardment and the introduction of significant outer-solar system materials, including volatiles|Measure atmospheric Noble gas isotopes in situ|Neutral Mass Spectrometer|In situ sample of atmosphere — 1 bulk sample on descent ([EVN‑055](venus.md))|
 |Characterize major geologic units in terms of major elements, rock forming minerals in which those elements are sited, and isotopes|Identify mineralogy (SiO₂, FeO, MgO, sulfur bearing, OHbearing) and elemental chemistry of surface rocks ([EVN‑023](venus.md), [EVN‑026](venus.md)) in ≥ 2 surface locations (separated by > 8 ㎞)|Raman/LIBS|Land in ≥ 2 locations; ~ 2 m path-length for observation; stable platform for measurement duration|
 |Characterize the morphology and relative stratigraphy of surface units ([EVN‑044](venus.md))|Near IR imaging along an airborne traverse > 8 ㎞ in length, at < 5 m spatial resolution|Near-infrared (~1.1 micron) imager with field of view TBD and SNR > 100|Near surface aerial mobility (bellows); Nadir-looking position on gondola to image the surface; platform stability for non-blurred images; > 45° solar incidence angle, acquire contiguous images of the surface during aerial traverse > 8 ㎞ (requires ~5 h lifetime|
-|Determine the rates of exchange of key chemical species (S, C, O) between the surface and atmosphere ([EVN‑041](venus.md))|Measure trace gases in the near surface atmosphere (within one scale height)|Neutral Mass Spectrometer; Tunable Laser Spectrometer|In situ sampling of atmosphere as functions of altitude and time [f(z,t)] ([EVN‑055](venus.md))|
-|Place constraints on the size and temporal extent of a possible ocean in Venus’s past ([EVN‑040](venus.md))|Measure D/H ratio in atmospheric water, at least twice|Neutral Mass Spectrometer; Tunable Laser Spectrometer|In situ sampling of atmosphere [f(z,t)] ([EVN‑055](venus.md))|
+|Determine the rates of exchange of key chemical species (S, C, O) between the surface and atmosphere ([EVN‑041](venus.md))|Measure trace gases in the near surface atmosphere (within one scale height)|Neutral Mass Spectrometer; Tunable Laser Spectrometer|In situ sampling of atmosphere as functions of altitude and time [f(z,t)]([EVN‑055](venus.md))|
+|Place constraints on the size and temporal extent of a possible ocean in Venus’s past ([EVN‑040](venus.md))|Measure D/H ratio in atmospheric water, at least twice|Neutral Mass Spectrometer; Tunable Laser Spectrometer|In situ sampling of atmosphere [f(z,t)]([EVN‑055](venus.md))|
 |Characterize variability in physical parameters of the near surface atmosphere (pressure, temperature, winds) ([EVN‑074](venus.md))|Atmospheric temperature, pressure, winds|Temperature, pressure, accelerometers, USO|In situ measurements of T/P, Doppler measurement using communications system for winds|
 |Measure ambient magnetic field from lowand near‑surface elevations ([EVN‑028](venus.md))|Detection of existence or absence of surface magnetic signal|Flux‑gate magnetometer|Must be able to detect surface «signal» above a 5-10 nT threshold, over and above any payload «noise»|
 
@@ -145,7 +145,7 @@ Instrument Resource Summary – the instruments in this table represent a notion
 |Atmospheric Structure Investigation (ASI)|2.0|3.2|10 x 10 x 10|2.5 kbps (descent)<br>0.25 kbps (surface)|6/Venus Flagship|Has sensors located on the outside of the lander that are used to characterize gross atmospheric properties, including temperature and pressure. This package consists of a temperature sensor, a pressure transducer, and an accelerometer.|
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 **CARRIER**
@@ -208,7 +208,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
@@ -216,8 +216,8 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
    1. Michael L. Adams — Study lead
    1. Michael J. Amato — Planetary & Lunar buisness lead
-   1. [Charles L. Baker](zz_baker1.md) — Study systems lead
-   1. [Lori S. Glaze](zz_glaze1.md) — Science champion
+   1. [Charles L. Baker](person.md) — Study systems lead
+   1. [Lori S. Glaze](person.md) — Science champion
    1. Gabriel Karpati — Decadal studies system lead
 
 **COMMUNITY:**
@@ -226,12 +226,12 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

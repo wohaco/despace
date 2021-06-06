@@ -4,6 +4,11 @@
 |[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|<info@baryondynamics.com>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
 |Link|<https://www.baryondynamics.com/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Baryon Dynamics Incorporated** is a company specializes in Power and Propulsion.
 
@@ -19,7 +24,7 @@ Our secondary specialization, power, concentrates on converting solar, thermal, 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

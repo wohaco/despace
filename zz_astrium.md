@@ -9,6 +9,6 @@
 
 **В 2013 году была расформирована и вошла в состав [ADS](ads.md).**
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

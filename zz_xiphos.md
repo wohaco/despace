@@ -4,10 +4,15 @@
 |[![](f/contact/x/xiphos_logo1_thumb.jpg)](f/contact/x/xiphos_logo1.png)|<info@xiphos.com>, +1(514)847-94-74, Fax: …;<br> *3981 St-Laurent Boulevard, Suite 500, Montreal, Quebec, H2W 1Y5, Canada*|
 |:--|:--|
 |Link|<http://xiphos.com/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Xiphos Technologies** was created with the objective of migrating terrestrial computing & network communication techniques into harsh environments, particularly in the unmanned aviation & space sectors. This first took form with the development of high‑performance, networked processors designed for in‑situ control & data processing, linked by high‑speed, fault tolerant networks.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 The communications domain grew from its initial focus on onboard networks to the seamless integration of ground control networks as well. This led to the first high‑fidelity, commercial implementation of the Space Communication Protocol Standard, or SCPS‑TP (MIL‑STD‑2045‑44000). This SCPS adaptation of the Internet protocols also had a profound ability to increase the capacity of existing commercial satellite‑based data links, & quickly found a home in the nascent, high‑value satcom data acceleration market. In 2007, Xiphos spun‑off its XipLink business unit as an independent company that now provides commercial products to customers worldwide, for accelerating wireless & satellite data transmission.
 

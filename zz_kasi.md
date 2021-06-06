@@ -4,10 +4,15 @@
 |[![](f/contact/k/kasi_logo1_thumb.png)](f/contact/k/kasi_logo1.png)|<mark>noemail</mark>, +82-42-865-3332, Fax: +82-42-861-5610;<br> *Korea Astronomy and Space Science Institute, Daedeokdae-ro 776, Yuseong-gu, Daejeon 34055, Republic of Korea*|
 |:--|:--|
 |Link|<https://www.kasi.re.kr/><br> <https://en.wikipedia.org/wiki/Korea_Astronomy_and_Space_Science_Institute><br> <https://www.linkedin.com/company/korea-astronomy-and-space-science-institute/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 The **Korea Astronomy & Space Science Institute (KASI)** is the national research institute in astronomy & space science of South Korea funded by the South Korean Government. Its headquarters are located in Daejeon, in the Daedeok Science Town. Research at KASI covers main areas of modern astronomy, including Optical Astronomy, Radio Astronomy, Space Science, & Theoretical Astronomy. Founded 1974.09.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

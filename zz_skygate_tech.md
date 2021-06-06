@@ -4,10 +4,13 @@
 |[![](f/contact/s/skygate_tech_logo1_thumb.png)](f/contact/s/skygate_tech_logo1.png)|<skygate@skygate-tech.com>, <mark>noworkphone</mark>, Fax: …; *東京都江東区青海二丁目5番10号 テレコムセンタービル東棟14F. Koto, Tokyo, Japan*|
 |:--|:--|
 |Link|<https://www.skygate-tech.com/><br> <https://linkedin.com/company/skygate-tech><br> <https://www.facebook.com/skygatetech><br> <https://twitter.com/skygate_tech>|
+|**Mission**|To give every developer the power to change the world by earth observation data.|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Skygate Technologies Inc.** affords Ground Station as a Service for satellites. Founded 2020.02.12.
-
-*Mission.* To give every developer the power to change the world by earth observation data.
 
 Founded in 2020, Skygate Technologies is building a network to deliver a large volume of data from observation satellites around the Earth to the ground and integrating the network into the web architecture. “Make Space accessible on the Web” is its motto, and the ability to develop both hardware and software is its strength.
 
@@ -18,5 +21,5 @@ Founded in 2020, Skygate Technologies is building a network to deliver a large v
    - Scaling by software. Skygate has a unified antenna specification and a software radio. The communication point can be scaled in any way.
    - Support your setup. We can help you with licensing and communications testing. No need to bother with compatibility testing and frequency licensing.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 

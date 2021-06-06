@@ -10,7 +10,7 @@
 The university has ten faculties, 15 graduate schools and enrolls about 30 000 students, 2 100 of whom are international students. Its five campuses are in Hongō, Komaba, Kashiwa, Shirokane and Nakano. It is among the top echelon of the select Japanese universities assigned additional funding under the MEXT's Top Global University Project to enhance Japan's global educational competitiveness.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

@@ -4,6 +4,11 @@
 |[![](f/contact/a/anu_logo1_thumb.jpg)](f/contact/a/anu_logo1.png)|<innovation@anu.edu.au>, +61(2)6125-5111, Fax: …;<br> *ANU Alumni Relations, 52 Collins St, Melbourne VIC 3000, Australia*|
 |:--|:--|
 |Link|<http://www.anu.edu.au/><br> <https://en.wikipedia.org/wiki/Australian_National_University><br> <https://ru.wikipedia.org/wiki/Австралийский_национальный_университет>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Австрали́йский национа́льный университе́т (англ. The Australian National University, ANU)** — государственный университет, расположенный в Канберре (Австралия). Создан 1 августа 1946 года. Вначале специализировался на исследовательской работе. В 1960 году объединился с Университетским колледжем Канберры и стал предоставлять также и высшее образование.
 
@@ -12,7 +17,7 @@
 При университете существует Исследовательская школа астрономии и астрофизики на базе которой основана обсерватория Сайдинг‑Спринг — крупнейшая обсерватория на Австралийском континенте.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

@@ -85,7 +85,7 @@
 
 
 
-## Особенности проектирования
+## Developing features
 **Литература:**
 
    1. …
@@ -109,7 +109,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Краткая хронология
 <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
@@ -134,20 +134,18 @@
    - [Spirit](spirit.md)
    - [Проп_М](проп_м.md)
 
-**Table.** Missions/spacecraft of past and future. <small>(**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
+**Table.** Missions/spacecraft of past & future. (**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)
 
-<small>
-
-|*✔*|*Космический аппарат (индекс)*|*Дата (UTC)*|*C*|*D*|*F*|*H*|*S*|*X*|*Примечания*|
+| |*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|—|**Proposed:**|—|—|—|—|—|—|—|—|
+|—|**・Proposed・**|—|•|•|•|•|•|•|—|
 | |…| | | | | | | |<mark>TBD</mark>|
-|—|**Developing:**|—|—|—|—|—|—|—|—|
+|—|**・Developing・**|—|•|•|•|•|•|•|—|
 |EU·RU|[Экспедиция‑М](экспедиция_м.md) (Э㎆) Ⓛ|2022|C|D| | |S|X|<mark>TBD</mark>|
 |EU·RU|[ЭкзоМарс‑2020](экзомарс_2020.md) (ЭКЗ) Ⓛ|2020|C| | | | | |<mark>TBD</mark>|
-|—|**Active:**|—|—|—|—|—|—|—|—|
+|—|**・Active・**|—|•|•|•|•|•|•|—|
 |…|…|…| | | | | | |<mark>TBD</mark>|
-|`—`|**`Разработанные:`**|—|—|—|—|—|—|—|—|
+|—|**・Past・**|—|•|•|•|•|•|•|—|
 |US|[MarCO](marco.md)|2018.05.05| |D| | | | |<mark>TBD</mark>|
 |EU·RU|[ЭкзоМарс‑2016](экзомарс_2016.md) (ЭКЗ) Ⓛ|2016.03.14| |D| | | | |<mark>TBD</mark>|
 |US|[MSL](msl.md)|2011.11.26|C| | | | | |<mark>TBD</mark>|
@@ -155,11 +153,9 @@
 |JP|[Nozomi](nozomi.md)|1998.07.04| |D| | | | |<mark>TBD</mark>|
 |RU|[Марс‑96](mars_96.md) Ⓛ|1996.11.16|C| | | | | |<mark>TBD</mark>|
 
-</small>
 
 
-
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Научные и технические задачи
 [Задачи и исследования](project.md) для Марса. (Примечания: **Т** — техническая задача; **Черновая версия** — минимально доступная для работы с предметом.)  
@@ -180,14 +176,14 @@ Targets & explorations for Mars. (Comments: **T** — technical; **Draft** — m
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](earth.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_space.md) ┊ [Pale Blue Dot](earth.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](earth.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
+|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md)┊ [Astro.object](aob.md)┊ [Blue Marble](earth.md)┊ [Cosmic rays](cr.md)┊ [Ecliptic](ecliptic.md)┊ [Escape velocity](esc_vel.md)┊ [Health](health.md)┊ [Hill sphere](hill_sphere.md)┊ [Information](info.md)┊ [Lagrangian points](l_points.md)┊ [Near space](near_space.md)┊ [Pale Blue Dot](earth.md)┊ [Parallax](parallax.md)┊ [Point Nemo](earth.md)┊ [Silver Snoopy award](silver_snoopy_award.md)┊ [Solar constant](solar_const.md)┊ [Terminator](terminator.md)┊ [Time](time.md)┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)┊ [Callisto](callisto.md)┊ [Ceres](ceres.md)┊ [Deimos](deimos.md)┊ [Earth](earth.md)┊ [Enceladus](enceladus.md)┊ [Eris](eris.md)┊ [Europa](europa.md)┊ [Ganymede](ganymede.md)┊ [Haumea](haumea.md)┊ [Iapetus](iapetus.md)┊ [Io](io.md)┊ [Jupiter](jupiter.md)┊ [Makemake](makemake.md)┊ [Mars](mars.md)┊ [Mercury](mercury.md)┊ [Moon](moon.md)┊ [Neptune](neptune.md)┊ [Nereid](nereid.md)┊ [Nibiru](nibiru.md)┊ [Oberon](oberon.md)┊ [Phobos](phobos.md)┊ [Pluto](pluto.md)┊ [Proteus](proteus.md)┊ [Rhea](rhea.md)┊ [Saturn](saturn.md)┊ [Sedna](sedna.md)┊ [Solar day](solar_day.md)┊ [Sun](sun.md)┊ [Titan](titan.md)┊ [Titania](titania.md)┊ [Triton](triton.md)┊ [Umbriel](umbriel.md)┊ [Uranus](uranus.md)┊ [Venus](venus.md)|
 
    1. Docs: …
    1. Notable interwikies — …

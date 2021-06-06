@@ -4,15 +4,17 @@
 |[![](f/contact/a/avantspace_logo1_thumb.jpg)](f/contact/a/avantspace_logo1.png)|<info@avantspace.com>, +7(499)994-95-05, Fax: …;<br> *Луговая 4/7, Инновационный центр Сколково, г. Москва, 143026, RU.*|
 |:--|:--|
 |Link|<http://www.avantspace.com/><br> <http://projects.avantspace.com/><br> <https://www.linkedin.com/company/avant-space-systems/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **AvantSpace** — Сколковский стартап, производящий малые [спутники](sc.md), ионные [двигатели](ps.md), [радиопередатчики](comms.md).
 
 We are working since 2010, providing cost-effective solutions, based on microsatellite technology, and a high level of technical support at all stages of the product life cycle, to our clients. Our approach is to being attentive to the customer’s wishes, working on time and flexible pricing. The core of small but efficient and professional team are young professionals with the real experience in the design and operation of spacecrafts, including microsatellites.
 
 Domestic technology, our own experience and promising developments of our cooperation are the basis of all our key developments.
-
-
-<p style="page-break-after:always"> </p>
 
 **Продукция:**
 
@@ -35,3 +37,7 @@ Domestic technology, our own experience and promising developments of our cooper
    - Screening and lot qualification
    - Total ionizing dose and single event effects
 
+
+<p style="page-break-after:always"> </p>
+
+…

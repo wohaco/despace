@@ -11,7 +11,7 @@
 
 [![](f/project/z/zond_1/pic01_thumb.jpg)](f/project/z/zond_1/pic01.jpg) [![](f/project/z/zond_1/pic02_thumb.jpg)](f/project/z/zond_1/pic02.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -50,7 +50,7 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 The third space station was successfully launched to Venus on 1964.04.02, but it initial trajectory was not enough accurate, and the next day it took to make the maneuver into the intermediate portion of the path at a distance 564 000 ㎞ from Earth. This was the first successful correction of the trajectory by the Soviet planetary space station. Recall that this opportunity also had the station “[Venera 1](venera_1.md)” and “[Mars 1](mars_1.md)”, but neither one of them had a chance to use it. However, the station faced a serious problem: shortly after start was discovered leak in a sealed compartment with the control system due to poor quality weld quartz dome, providing a field of view of navigation sensors of the Sun and stars. The location of the leak determined from the analysis of the perturbations that have provided the station attendant gas. A week later the transmitters and other electronic devices out of order, engaged when the pressure fell to 5 millibars. This resulted in a corona discharge and short circuits in electrical circuits. Ion the engines also worked emergency. However, the availability of a competent booking system allowed to communicate with the station via the system module apparatus and the second trajectory correction was held on May 14 at a distance of more than 13 million km from the Earth. A new trajectory has enabled the station to fly at a distance 100 000 ㎞ from Venus because the initial trajectory is passed so far off track that stock at the correction speed V is not enough to the station could go on the course of the meeting with Venus, even if she was functioning normally. For this reason, and due to depressurization of the Soviet the researchers did not consider Venus as the destination of the flight station, and it was announced that the program is aimed at engineering test systems in terms of far space. The station was called “Probe 1” and not “Venera 2”. The leak was fatal, May 25 thermal control system completely out of order and system connection was disconnected. Space station flew past Venus on 1964.07.19. ([EVN‑005](venus.md))
@@ -61,7 +61,7 @@ The third space station was successfully launched to Venus on 1964.04.02, but it
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 Zond 1 carried a 90 ㎝ spherical landing capsule, containing experiments for chemical analysis of the atmosphere, gamma‑ray measurements of surface rocks, a photometer, temperature and pressure gauges, and a motion/rocking sensor in case it landed in water.
@@ -88,7 +88,7 @@ At landers stations 3MV “Venus” and “Mars” was planned to install the de
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
  **Zond 1** was built on the basis of 3MV (3MV-1 No. 4).
@@ -113,15 +113,15 @@ The whole stack was 3.6 m high and weighted around 1 000 ㎏.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
 **PEOPLE:**
 
    - **Leaders:**
-      1. [Mstislav Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics.
-      1. [Sergei Korolev](zz_korolev1.md) (Сергей Павлович Королёв) was a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
+      1. [Mstislav Keldysh](person.md) (Мстислав Всеволодович Келдыш) was a Soviet scientist in the field of mathematics and mechanics.
+      1. [Sergei Korolev](person.md) (Сергей Павлович Королёв) was a lead Soviet rocket engineer and spacecraft designer during the Space Race between the United States and the Soviet Union in the 1950s and 1960s.
    - **Members:**
       1. Aleksandr Platonov (Александр Константинович Платонов) was a Soviet scientist, ballistics KIAM (ИПМ), analyzed the method of “solar correction”.
       1. Alfred Charles Bernard Lovell was an English physicist and radio astronomer. Theoretically couuld receive a signal from the spacecraft’s disoriented nondirectional antenna.
@@ -133,12 +133,12 @@ The whole stack was 3.6 m high and weighted around 1 000 ㎏.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

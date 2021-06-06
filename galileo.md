@@ -11,7 +11,7 @@
 
 ![](f/project/g/galileo/galileo.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -54,7 +54,7 @@ Targets & investigations:
 
 </small>
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 Work on the spacecraft began at Jet Propulsion Laboratory in 1977. As the shuttle program got underway, Galileo was scheduled for launch in 1984, but this later slipped to 1985 and then to 1986. The mission was further delayed by the hiatus in launches that occurred after the Space Shuttle Challenger disaster. New safety protocols introduced as a result of the disaster prohibited the use of the Centaur-G stage on the Shuttle, forcing Galileo to use a lower-powered Inertial Upper Stage solid‑fuel booster. The mission was re-profiled in 1987 to use several gravitational slingshots, referred to as the Venus-Earth-Earth Gravity Assist or VEEGA maneuvers, to provide the additional velocity required to reach its destination. It was finally launched on October 18, 1989, by Space Shuttle Atlantis on the STS-34 mission.
@@ -110,7 +110,7 @@ On December 11, 2013, NASA reported, based on results from the Galileo mission, 
 |:--|:--|:--|:--|
 |**Io**|**Europa**|**Callisto**|**Ganymede**|
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 ![](f/project/g/galileo/payload.jpg)
@@ -211,7 +211,7 @@ The despun section’s instruments included the camera system; the near infrared
 
 A radio transmitter was also used to measure wind speed by the Doppler effect.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 ![](f/project/g/galileo/spacecraft.jpg)
@@ -267,7 +267,7 @@ Two radioisotope thermoelectric generators (RTGs) which powered the spacecraft t
 The RTGs produced about 570 W at launch. The power output initially decreased at the rate of 0.6 W per month and was 493 W when Galileo arrived at Jupiter.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
@@ -282,12 +282,12 @@ The RTGs produced about 570 W at launch. The power output initially decreased 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

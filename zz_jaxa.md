@@ -4,6 +4,11 @@
 |[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), Fax: …;<br> *Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*|
 |:--|:--|
 |Link|<http://www.jaxa.jp/><br> <https://global.jaxa.jp/about/centers/tokyo/index.html><br> <https://en.wikipedia.org/wiki/JAXA><br> <https://www.linkedin.com/company/jaxanasdanalisas/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, “National Research & Development Agency on Aerospace Research & Development”) is the JP national aerospace & space agency. JAXA is responsible for research, technology development & launch of sats into orbit, & many more advanced missions. A core executive organization that technically supports [aerospace development & utilization](project.md) for the JP Government. Through the merger of 3 previously independent organizations, JAXA was formed 2003.10.01, has 1 545 regular staff members as of FY 2016.
 
@@ -31,7 +36,7 @@ The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇�
    - **[Noshiro Rocket Testing Center](zz_noshiro_rtc.md)** — R&D, testing of rockets & [rocket engines](ps.md). Formed 1962, Noshiro, Akita Prefecture.
    - **[TKSC](zz_tsukuba_sc.md)** or **Tsukuba** (Tsukuba Space Center) — operations facility, astronauts training, HQ for JAXA, manufactures [satellites](sc.md) & ISS modules. Formed 1972, Ibaraki Prefecture.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 > <small><https://global.jaxa.jp/about/president/index.html>;<br> *Message from JAXA President, YAMAKAWA Hiroshi.* **Challenging Space Frontiers.** To incorporate the results of our R&D into the social system & continue to serve the public, JAXA must continue to accumulate successes every year. To implement our medium/long-term plan & fulfill our role, I believe that JAXA should be an organization whose staff share the following 5 principles as we continue to challenge the frontiers of human knowledge:<br> ➀ Having a strong sense of contribution to Japan through space & aeronautics field;<br> ➁ Enhancing our capabilities in planning, R&D, project implementation, & organization management;<br> ➂ Taking pride in our endeavours in the exploration of space & aeronautics, & thus showing our international presence in this field;<br> ➃ Promoting space & aeronautics as an integral part of society by making it more valuable & closely involved with everyday life; and<br> ➄ Aiming diversity & maximizing the potential of individuals.<br>As the core implementing agency to support the Japanese government’s development & utilization of space with technology, we work with pride in challenging in space & aeronautics field.</small>
 

@@ -4,10 +4,15 @@
 |[![](f/contact/k/koncern_vega_logo1_thumb.jpg)](f/contact/k/koncern_vega_logo1.png)|<mail@vega.su>, +7(499)753-40-04, Fax: +7(495)933-15-63;<br> *Россия, 121170, Москва, Кутузовский проспект, 34*|
 |:--|:--|
 |Link|<http://www.vega.su>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Концерн радиостроения «Вега»** — разработка и создание приборов радиолокации наземного, авиационного и космического назначения.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

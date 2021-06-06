@@ -12,7 +12,7 @@
 
 [![](f/project/v/venera_9_10/pic01_thumb.jpg)](f/project/v/venera_9_10/pic01.jpg) [![](f/project/v/venera_9_10/pic05_thumb.jpg)](f/project/v/venera_9_10/pic05.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -77,7 +77,7 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 **Venera 9** (Венера-9), **4V-1 No. 660**, was a Soviet unmanned space mission to Venus. It was launched on June 8, 1975, at 02:38:00 UTC and had a mass of 4 936 ㎏. The orbiter was the first spacecraft to orbit Venus, while the lander was the first to return images from the surface of another planet.
@@ -135,7 +135,7 @@ Venera 10 measured a surface windspeed of 3.5 ㎧. Other measurements includ
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 The main scientific task of the lander was to obtain a panoramic image from the surface of Venus, and it was necessary to achieve it as quickly as possible to maximize the time of work in situ. On the other hand, it was considered equally important to continue studying the cloud layer. The clouds had to be passed at low speed. This determined the minimum operating time of the lander on the surface, as well as the speed of data transmission through the satellite ([EVN‑092](venus.md)). Along with this, the new capabilities and the large mass of the lander allowed it to be equipped with a number of instruments for the study of the atmosphere at the surface, which until then had never been launched into space. These included instruments (nephelometers) for measuring the vertical structure ([EVN‑010](venus.md)), microphysical properties and composition of aerosols inside and under clouds ([EVN‑018](venus.md)), the vertical and spectral distribution of the flow of sunlight penetrating the clouds at several angles of view ([EVN‑013](venus.md)), analysis of the chemical and isotopic composition of the atmosphere ([EVN‑014](venus.md)) and direct measurements of wind at the surface. For the first studies in orbit of the Venus satellite, the space station was equipped with instruments to study the structure of the middle and upper atmosphere ([EVN‑017](venus.md)), the upper layer of clouds, the thermal radiation of the planet and its plasma environment ([EVN‑097](venus.md)).
@@ -207,7 +207,7 @@ Panoramas were transmitted simultaneously on independent VHF channels. Each came
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 
@@ -260,19 +260,19 @@ The lander was a sealed double-walled titanium pressure vessel of spherical shap
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
 **PEOPLE:**
 
    - **Leaders**
-      1. [Mstislav Vsevolodovich Keldysh](zz_keldysh1.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
+      1. [Mstislav Vsevolodovich Keldysh](person.md) (Мстислав Всеволодович Келдыш) — a Soviet scientist in the field of mathematics and mechanics. He was part of the management of the flight of Venera programme.
    - **Members**
       1. Arnold Sergeevich Selivanov (Арнольд Сергеевич Селиванов) — a doctor of technical Sciences, Professor. Developer of telephotometers for the Venera 9 and Venera 10 missions.
       1. Mikhail Sergeyevich Ryazanskiy (Михаил Сергеевич Рязанский) — Deputy for scientific work of Tikhomirov Scientific Research Institute of Instrument Design
-      1. [Dolgopolov Vladimir Pavlovich](zz_dolgopolov1.md) (Долгополов Владимир Павлович)
-      1. [Маров, Михаил Яковлевич](zz_marov1.md)
+      1. [Dolgopolov Vladimir Pavlovich](person.md) (Долгополов Владимир Павлович)
+      1. [Маров, Михаил Яковлевич](person.md)
 
 **COMMUNITY:**
 
@@ -280,12 +280,12 @@ The lander was a sealed double-walled titanium pressure vessel of spherical shap
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

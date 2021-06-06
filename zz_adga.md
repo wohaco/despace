@@ -4,11 +4,16 @@
 |[![](f/contact/a/adga_logo1_thumb.jpg)](f/contact/a/adga_logo1.png)|<mark>noemail</mark>, +1(613)237-30-22, Fax: …;<br> *110 Argyle Avenue, Ottawa, ON, K2P 1B4, Canada*|
 |:--|:--|
 |Link|<http://www.adga.ca/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **ADGA** is a privately owned Canadian company, who is a leading provider of technology solutions in defence, security & enterprise computing. ADGA’s headquarters are in Ottawa, with offices in Gatineau, Montreal & Toronto. ADGA is dedicated to Defence, Aerospace Engineering & Technical Services.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 We offer project management, space engineering, space specialty services provision & systems for space‑based data delivery in near real‑time. With every project, we provide subject matter experts armed with the competencies & technology to develop & deploy space‑based solutions & associated support services. Our first responder solution uses Earth Observation (OE) data to support all phases of emergency management: prevention, preparation, detection, response, & recovery. We use real‑time space‑derived data to support disaster recovery & first responders.
 

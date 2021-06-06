@@ -25,12 +25,12 @@ The **Tenth Moscow international Solar System Symposium (10M‑S³)** will be he
 |Contact|<ms2019@cosmos.ru> ✉|
 
 **Local Organizing Committee (LOC).**  
-Chair: [Zakharov, A.V.](zz_zaharov1.md) (Chair)  
+Chair: [Zakharov, A.V.](person.md) (Chair)  
 Secretary: Antonenko, Elena, <antonenko@iki.rssi.ru> ✉  
-Members: Antonenko, E.A., Davydov, V.M., [Korablev, O.I.](zz_korablev1.md), Korableva, E.O., Roste, O.Z., Smirnova, A.V., Ustinov, A.N., Zakharov, A.N., Zharkova, T.D.
+Members: Antonenko, E.A., Davydov, V.M., [Korablev, O.I.](person.md), Korableva, E.O., Roste, O.Z., Smirnova, A.V., Ustinov, A.N., Zakharov, A.N., Zharkova, T.D.
 
 **Program Committee.**  
-Chair: [Zelenyi, L.M.](zz_zelenyi1.md) (IKI RAS, RU)  
+Chair: [Zelenyi, L.M.](person.md) (IKI RAS, RU)  
 Secretary: Roste, O.Z. (IKI RAS, RU), <ms3@iki.rssi.ru> ✉  
 Members:
 
@@ -40,22 +40,22 @@ Members:
    - Borovin, G.K. (Keldysh AMI, RU)
    - Chicarro, A. (ESTEC, EU)
    - Duxbury, T. (George Mason University, US)
-   - [Head, J.](zz_head1.md)  (Brown University, US)
-   - [Korablev, O.I.](zz_korablev1.md) (IKI RAS, RU)
-   - [Kostitsyn, Y.A.](zz_kostitsyn1.md) (GEOHI RAS, RU)
-   - [Marov, M.Ya.](zz_marov1.md) (GEOHI RAS, RU)
-   - [Mitrofanov, I.G.](zz_mitrofanov1.md) (IKI RAS, RU)
+   - [Head, J.](person.md)  (Brown University, US)
+   - [Korablev, O.I.](person.md) (IKI RAS, RU)
+   - [Kostitsyn, Y.A.](person.md) (GEOHI RAS, RU)
+   - [Marov, M.Ya.](person.md) (GEOHI RAS, RU)
+   - [Mitrofanov, I.G.](person.md) (IKI RAS, RU)
    - Rodin, A.V. (IKI RAS, RU)
    - Shevchenko, V.V.  (GAISH MSU, RU)
    - Smirnov, V.M. (IRE RAS, RU)
-   - [Svedhem, H.](zz_svedhem1.md) (ESTEC, EU)
-   - [Vaisberg, O.L.](zz_vaysberg1.md) (IKI RAS, RU)
+   - [Svedhem, H.](person.md) (ESTEC, EU)
+   - [Vaisberg, O.L.](person.md) (IKI RAS, RU)
    - Vorobyova, E.A. (MSU, RU)
    - Witasse, O. (ESTEC, EU)
    - Wu, Ji (China)
    - Zharkov, V.N. (IFZ RAS, RU)
-   - [Zakharov, A.V.](zz_zaharov1.md) (IKI RAS, RU)
-   - [Zasova, L.V.](zz_zasova1.md) (IKI RAS, RU) — Chair of the Venus session
+   - [Zakharov, A.V.](person.md) (IKI RAS, RU)
+   - [Zasova, L.V.](person.md) (IKI RAS, RU) — Chair of the Venus session
 
 
 
@@ -115,7 +115,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 |*Конференция*|*Участники*|
 |:--|:--|
 |**[IVC 2019](ivc_2019.md)**|Anastasia Kosenkova, Alexey Martynov|
-|**[2019 VD Workshop](vdws2019.md)**|[Andrey Belov](zz_belov2.md), [Richard Ernst](zz_ernst1.md), [Mikhail Ivanov](zz_ivanov4.md), Anastasia Kosenkova, [Oleg Kotsyurbenko](zz_kotsurbenko1.md), [Margarita Kruchkova](zz_kruchkova1.md), Alexey Martynov, Pavel Pisarenko, [Ludmila Zasova](zz_zasova1.md)|
+|**[2019 VD Workshop](vdws2019.md)**|[Andrey Belov](zz_belov2.md), [Richard Ernst](person.md), [Mikhail Ivanov](person.md), Anastasia Kosenkova, [Oleg Kotsyurbenko](person.md), [Margarita Kruchkova](zz_kruchkova1.md), Alexey Martynov, Pavel Pisarenko, [Ludmila Zasova](person.md)|
 |**[VEXAG, 17th](vexag_2019.md)**| |
 
 **Таблица.** Презентации, постеры и прочие участники в порядке выступления.  
@@ -126,26 +126,26 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 |°|*Имя*|*Орг.*|*Название*|
 |:--|:--|:--|:--|
 |—|—|—|**`Session. Mars`**|
-| |[James Head](zz_head1.md)| |Toward an Understanding of Early Mars Climate History: New Themes, Directions & Tests|
+| |[James Head](person.md)| |Toward an Understanding of Early Mars Climate History: New Themes, Directions & Tests|
 | |Ashley Palumbo| |Volcanism on Early Mars: Exploring the Influence of the SO2 Plume on Localized & Short-Term Climate Change|
-| |Ashley Palumbo & [James Head](zz_head1.md)| |Rainfall as an erosive mechanism on Noachian Mars: Rain splash, infiltration, & surface runoff|
-| |Ben Boatwright & [James Head](zz_head1.md)| |Fluvial Geology of the Northwest Hellas Region, Mars|
-| |[Hakan Svedhem](zz_svedhem1.md)| |ExoMars TGO status & future activities|
-| |[Oleg Korablev](zz_korablev1.md)| |The Atmospheric Chemistry Suite (ACS) Experiment on Board the ExoMars Trace Gas Orbiter: the First Results|
+| |Ashley Palumbo & [James Head](person.md)| |Rainfall as an erosive mechanism on Noachian Mars: Rain splash, infiltration, & surface runoff|
+| |Ben Boatwright & [James Head](person.md)| |Fluvial Geology of the Northwest Hellas Region, Mars|
+| |[Hakan Svedhem](person.md)| |ExoMars TGO status & future activities|
+| |[Oleg Korablev](person.md)| |The Atmospheric Chemistry Suite (ACS) Experiment on Board the ExoMars Trace Gas Orbiter: the First Results|
 | |Alexey Malakhov| |Martian subsurface hydrogen measured with high resolution by FREND onboard TGO. Results half way through the schience phase|
 | |Jordanka Semkova| |Radiation environment in the interplanetary space & Mars’ orbit according FREND’s Liulin-MO dosimeter aboard ExoMars TGO data|
 | |Imant Vinogradov & the M-DLS team| |M-DLS experiment for the ExoMars-2020 mission Stationery Landing Platform: instrument calibration results|
-| |[Alexander Kosov](zz_kosov1.md), Veronique Dehant| |LaRa (Lander Radioscience) on the ExoMars-2020 Surface Platform – VLBI & Doppler Positioning measurement|
+| |[Alexander Kosov](person.md), Veronique Dehant| |LaRa (Lander Radioscience) on the ExoMars-2020 Surface Platform – VLBI & Doppler Positioning measurement|
 | |Anatoly Manukin| |Measurement of the seismic activity of Mars using the device SEM in the framework of the program "ExoMars"|
 | |Diego Rodríguez Díaz| |AMR instrument for ExoMars 2020 mission: Scientific goals concerning the martian magnetic field|
 | |José Luis Mesa Uña| |Development of magnetic instrumentation for planetary applications: Evolution of the NEWTON magnetic susceptometer|
 | |Mikhail Verigin & Galina Kotova| |Measurements of the Martian crust magnetization 25 years before its discovery|
 | |Tamara Gudkova| |On the zones of potencial seismicity on Mars|
 | |Salvador Jimenez| |Crustal & non crustal magnetic fields in Mars ionosphere from MARSIS data|
-| |Marina Díaz Michelena| |• Magnetic investigations of terrestrial analogues of Mars.<br> • Magnetic measurements to investigate the origin of the Phobos & Deimos.|
+| |Marina Díaz Michelena| |• Magnetic investigations of terrestrial analogues of Mars.<br> ・Magnetic measurements to investigate the origin of the Phobos & Deimos.|
 | |Jessica Flahaut & C. Brustel| |News views of Mars crust|
 | |Boris Ivanov| |Traces of atmospheric shock waves near new Martian craters|
-| |[Mikhail Ivanov](zz_ivanov4.md)| |Acidalia Mensa on Mars: A test of the mars ocean hypothesis|
+| |[Mikhail Ivanov](person.md)| |Acidalia Mensa on Mars: A test of the mars ocean hypothesis|
 | |Ekaterina Grishakina| |Western Utopia plain: geological characterization (clarification) & cryological processes|
 | |Anatoliy Pavlov| |A novel mechanism for rapid methane destruction by cosmic rays on Mars|
 | |Vladimir Ogibalov & G.M. Shved| |Effect of aerosol scattering on radiative transfer in the CO2 & CO infrared bands in the daytime Martian atmosphere under breakdown of vibrational LTE|
@@ -159,13 +159,13 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |Manuel Dominguez| |Control of sensors for optimal performance: application to planetary missions|
 |•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
 |—|—|—|**`Session. Venus`**|
-| |[Ludmila Zasova](zz_zasova1.md)| |Venera-D: a perspective planetary mission|
-| |[Richard Ernst](zz_ernst1.md)| |Geological tests of global warming models on Venus|
+| |[Ludmila Zasova](person.md)| |Venera-D: a perspective planetary mission|
+| |[Richard Ernst](person.md)| |Geological tests of global warming models on Venus|
 | |Evgeniya Guseva| |Morphological analysis of the coronae of Venus|
 | |Vladimir Zharkov & Tamara Gudkova| |On the structure of the gravitational field for the earth‑like interior sructure of Venus|
 | |Vladimir N. Gubenko & Ivan A. Kirillovich| |Internal waves characteristics in the Venus’s atmosphere revealed from the Magellan & Venus Express radio occultation data by two independent methods|
-| |Vladimir Gromov & [Alexander Kosov](zz_kosov1.md)| |A model of millimeter wave atmospheric absorption of the sulfur dioxide & the sulphuric acid vapour for the radiometric experiment in the Venera-D mission|
-| |[Leonid Ksanfomality](zz_ksanfomaliti1.md)| |Hypothetical living forms on planet Venus & their possible nature|
+| |Vladimir Gromov & [Alexander Kosov](person.md)| |A model of millimeter wave atmospheric absorption of the sulfur dioxide & the sulphuric acid vapour for the radiometric experiment in the Venera-D mission|
+| |[Leonid Ksanfomality](person.md)| |Hypothetical living forms on planet Venus & their possible nature|
 |•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
 |—|—|—|**`Session. Extrasolar planets`**|
 | |Shingo Kameda| |Exoplanets Exosphere Detecting Ultraviolet Spectrograph (UVSPEX) onboard World Space Observatory Ultraviolet (WSO-UV)|
@@ -174,7 +174,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |Alexander Tavrov| |Stellar Coronagraph for Exoplanets Direct Imaging onboard World Space Observatory Ultraviolet (WSO-UV)|
 | |Andrey Yudaev| |Nulling Rotational-Shear Interferometer for Ground-based Telescopes Aiming High Contrast Imaging Towards Exoplanets|
 | |Ildar Shaikhislamov| |3d gasdynamic modeling of transiting hot exoplanets|
-| |[Leonid Ksanfomality](zz_ksanfomaliti1.md)| |Exo-rings of 1708.04600 type as satellites of the KIC 8462852 Kepler object|
+| |[Leonid Ksanfomality](person.md)| |Exo-rings of 1708.04600 type as satellites of the KIC 8462852 Kepler object|
 | |Valery I. Shematovich| |Atmospheric mass loss of close-in neptunes & super-earths|
 | |Marina Rumenskikh| |Numerical simulation of processes occuring in the space environment of Gliese-436b Session. Solar wind interactions with planets & small bodies|
 | |Vladimir V. Busarev| |Solar wind interaction with the surface of primitive asteroids & their sublimation activity|
@@ -187,10 +187,10 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |Alexander Bazilevskiy| |Potential lunar base on Mons Malapert on Mons Malapert: topographic, geologic & trafficability consideration|
 | |[Evgenyi Slyuta](zz_sluta1.md)| |Formation of the scientific program of research of the Moon: from priority scientific tasks to scientific equipment|
 | |Vladislav Shevchenko| |The far side of the Moon - 60 years of history (1959 – 2019)|
-| |[James Head](zz_head1.md) & L. Wilson| |Rethinking Lunar Mare Basalt Regolith Formation: New Concepts of Lava Flow Protolith & Evolution of Regolith Thickness & Internal Structure|
+| |[James Head](person.md) & L. Wilson| |Rethinking Lunar Mare Basalt Regolith Formation: New Concepts of Lava Flow Protolith & Evolution of Regolith Thickness & Internal Structure|
 | |Jessica Flahaut, J. N. Schnuriger| |Long-term, complex volcanic history of the Arago region of the Moon|
 | |Ariel Deutsch| |Distribution of surface water ice on the Moon: An analysis of host crater ages provides insights into the ages & sources of ice at the lunar south pole|
-| |[James Head](zz_head1.md)| |Volcanically-Induced Transient Atmospheres on the Moon: Assessment of Duration & Significance|
+| |[James Head](person.md)| |Volcanically-Induced Transient Atmospheres on the Moon: Assessment of Duration & Significance|
 | |Olga Nosova| |Problems of choice of the Lunokhod route for research & exploration of the volatile components in the south polar region of Moon|
 | |Sergey Voropaev & A.Yu.Dnestrovskii| |Features of the Fossil Tidal Bulge Formation for the Early Moon|
 | |Sergey Voropaev| |Experimental Study of degassing of the early Earth & Moon during accretion|
@@ -232,7 +232,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |Daniel Hestroffer| |BIRDY deep-space CubeSat to probe the internal structure of small bodies|
 | |Vladimir V. Busarev| |Modeling of small bodies' migration from the formation zone of Jupiter to the main asteroid belt|
 | |Sergey Voropaev & Y. Jianguo| |Small Bodies’ Strength: Failure Model|
-| |Sergey Ipatov & Mikhail [Marov](zz_marov1.md)| |Migration of planetesimals from different distances outside Mars’ orbit to the terrestrial planets & the Moon|
+| |Sergey Ipatov & Mikhail [Marov](person.md)| |Migration of planetesimals from different distances outside Mars’ orbit to the terrestrial planets & the Moon|
 | |Sergey Ipatov| |Probabilities of collisions of bodies from different zones of the feeding zone of the terrestrial planets with the forming planets, the Moon, & their embryos|
 | |Daniel Hestroffer| |Gaia & dynamics of Solar System Objects|
 | |[Evgenyi Slyuta](zz_sluta1.md)| |Gravitational deformation of small rocky bodies|
@@ -240,9 +240,9 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |Ilan Roth| |The puzzle of meteorite abundance: anomalous enhancement of Mg-26 in Ca-Al inclusions|
 | | | |Silicate & iron spherules in regolite of the Moon: origin & characteristic features|
 | |A. I. Bakhtin| | |
-| |[Leonid Ksanfomality](zz_ksanfomaliti1.md)| |Physics of comets Hale-Bopp C/1995 O1 & 1P/Halley as different stages of the evolution of giant comet nuclei|
+| |[Leonid Ksanfomality](person.md)| |Physics of comets Hale-Bopp C/1995 O1 & 1P/Halley as different stages of the evolution of giant comet nuclei|
 | |Dmitry Shestopalov| |Polarimetric properties of asteroid (3200) Phaethon|
-| |Gennady Kochemasov| |• Octahedron tectonism of cosmic bodies including Earth.<br> • Small bodies - Broken asteroid Ultima Thule.|
+| |Gennady Kochemasov| |• Octahedron tectonism of cosmic bodies including Earth.<br> ・Small bodies - Broken asteroid Ultima Thule.|
 | |Sergey I. Popel| |Dusty plasmas at Phobos & Deimos: Effects of meteroids|
 | |Sergey Ipatov| |Migration of interplanetary dust particles from different distances from the Sun to the terrestrial planets & the Moon|
 | |Tatiana Salnikova| |Existence of elusive Kordylewski cosmic dust clouds|
@@ -267,21 +267,21 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |[Andrey Belov](zz_belov2.md)| |Edaphic bacterial communities of the extreme-arid Mojave desert: astrobiological implication|
 | |E.A. Deshevaya| |Space Experiment "Test". ISS as an Outpost of the Knowledge of the Universe|
 | |Andrey Kharitonov| |The Galactic cycles & Biological changes|
-| |[Oleg Kotsyurbenko](zz_kotsurbenko1.md)| |Methanogens as the model microbial group for astrobiology|
+| |[Oleg Kotsyurbenko](person.md)| |Methanogens as the model microbial group for astrobiology|
 | |[Margarita Kruchkova](zz_kruchkova1.md)| |How do the fungal communities from desert soils react to the impact of proton irradiation?: Astrobiological model experiment|
 
 </small>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md) ┊ [CGMS](cgms.md) ┊ [COSPAR](cospar.md) ┊ [DPS](dps.md) ┊ [EGU](egu.md) ┊ [EPSC](epsc.md) ┊ [FHS](fhs.md) ┊ [IPDW](ipdw.md) ┊ [IVC](ivc.md) ┊ [JpGU](jpgu.md) ┊ [LPSC](lpsc.md) ┊ [MAKS](maks.md) ┊ [MSSS](msss.md) ┊ [NIAC](niac_program.md) ┊ [VEXAG](vexag.md) ┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
+|**··• [Events](event.md) •··**<br> **Meetings:** [AGU](agu.md)┊ [CGMS](cgms.md)┊ [COSPAR](cospar.md)┊ [DPS](dps.md)┊ [EGU](egu.md)┊ [EPSC](epsc.md)┊ [FHS](fhs.md)┊ [IPDW](ipdw.md)┊ [IVC](ivc.md)┊ [JpGU](jpgu.md)┊ [LPSC](lpsc.md)┊ [MAKS](maks.md)┊ [MSSS](msss.md)┊ [NIAC](niac_program.md)┊ [VEXAG](vexag.md)┊ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
 
    1. Docs: …
    1. Notable interwikies — …

@@ -4,6 +4,11 @@
 |[![](f/contact/m/meisei_logo1_thumb.jpg)](f/contact/m/meisei_logo1.png)|<aerospace@meisei.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2223 Naganumamachi, Isesaki-shi, Gunma 372-8585, Japan*|
 |:--|:--|
 |Link|<http://www.meisei.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/meisei/><br> <https://www.linkedin.com/company/meisei-electric/about/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Meisei Electric**, based on disaster prevention, environmental measurement, & information technology, Meisei strives to offer the best value added solutions for the needs of a world market. Meisei Electric has developed & manufactured more than 3 000 space‑related instruments since 1950’s. Meisei Electric can provide all kinds of satellite components, such as “Mission Equipment” & “Bus Components”. We are developing [CubeSat, Nano Satellites, & Micro Satellites](sc.md) as well.
 
@@ -26,6 +31,6 @@ Products / Space‑related
    - **3‑Axis [Magnetometer](sensor.ru) for Small Satellite.** This sensor measures the magnetic field strength in the space environment, which is necessary for the attitude control of satellite.
    - **1Mbps S‑band Transceiver for Satellite.** It will be installed on the small satellite & perform the command reception from the ground, & the telemetry transmission to the ground using 2 ㎓ wave band.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

@@ -13,7 +13,7 @@ This document provides a brief description of the mission and apparatus; the des
 • **Sketch:** in [PDF ❐](f/project/v/venera_d/sketch_vd.pdf), in [DWG ❐](f/project/v/venera_d/sketch_vd.xlsx).
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
@@ -107,7 +107,7 @@ Targets and investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 
@@ -187,7 +187,7 @@ The total development time ranges from 7 to 10 yr and will be a function of spee
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Goals and Payload
 
@@ -449,7 +449,7 @@ It should be noted that the composition of the target instruments has not been f
 
 
  
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 
@@ -610,8 +610,8 @@ Main components of the Lander:
    1. On-board control system.
    1. On-board radio system: 2 low‑directional antennas − transmitting and receiving, 1 mid-directional − transmitting.
    1. Construction of the Lander.
-   1. Thermal control system: thermal insulation, thermal storage batteries, sensors, etc.<br>The following temperature ranges of elements and equipment location are supported:<br> • –50 ℃ up to +50 ℃ — for mechanisms;<br> • –20 ℃ up to +40 ℃ — for scientific equipment.
-   1. Power system. <br> • A rechargeable battery (Li-Ion with a capacity of 90 A·h) or a chemical current source of similar capacity.
+   1. Thermal control system: thermal insulation, thermal storage batteries, sensors, etc.<br>The following temperature ranges of elements and equipment location are supported:<br> ・–50 ℃ up to +50 ℃ — for mechanisms;<br> ・–20 ℃ up to +40 ℃ — for scientific equipment.
+   1. Power system. <br> ・A rechargeable battery (Li-Ion with a capacity of 90 A·h) or a chemical current source of similar capacity.
    1. Telemetry system.
    1. Lander’s payload.
 
@@ -619,7 +619,7 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, links, people
 
@@ -663,27 +663,27 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 | |**[Institute of Radio-engineering and Electronics (ИРЭ РАН)](zz_ирэ_ран.md)**|[Gavrik Anatoly Leonidovich](zz_гаврик1.md)<br>Гаврик, Анатолий Леонидович) — …|
 | | | |
 | |**[Roscosmos (Роскосмос)](zz_роскосмос.md)**|[Voron Viktor Vladimirovich](zz_ворон1.md)<br>(Ворон, Виктор Владимирович) — chair of the working group|
-| | |[Elshansky Leonid Borisovich](zz_елшанский1.md)<br>(Елшанский, Леонид Борисович) — **main contact person**|
+| | |[Elshansky Leonid Borisovich](person.md)<br>(Елшанский, Леонид Борисович) — **main contact person**|
 | | | |
 | |**[TsNIIMash (ЦНИИмаш)](zz_tsniimash.md)**|[Burdanov Anton Vladimirovich](zz_бурданов1.md)<br>(Бурданов, Антон Владимирович) — technologies|
 |°|• • •|• • •|
-|**US**|**[Chicago Univ.](chicago_univ.md)**|[Economou, Thanasis](zz_economou1.md)<br> — chemical analysis|
+|**US**|**[Chicago Univ.](chicago_univ.md)**|[Economou, Thanasis](person.md)<br> — chemical analysis|
 | | | |
-| |**[GRC](zz_grc.md)**|[Kremic, Tibor](zz_kremic1.md) — technologies, small landers|
+| |**[GRC](zz_grc.md)**|[Kremic, Tibor](person.md) — technologies, small landers|
 | | | |
-| |~~**[GSFC](zz_gsfc.md)**~~|~~[Glaze, Lori](zz_glaze1.md)~~|
+| |~~**[GSFC](zz_gsfc.md)**~~|~~[Glaze, Lori](person.md)~~|
 | | | |
-| |**[JPL](zz_jpl.md)**|[Hall, Jeffery L.](zz_hall1.md) — technical realizability assessment|
-| | |[Ocampo, Adriana Christian](zz_ocampo1.md) — administrator JSDT (NASA); the lead scientist for NASA’s exploration of Venus|
+| |**[JPL](zz_jpl.md)**|[Hall, Jeffery L.](person.md) — technical realizability assessment|
+| | |[Ocampo, Adriana Christian](person.md) — administrator JSDT (NASA); the lead scientist for NASA’s exploration of Venus|
 | | | |
-| |**[NASA](zz_nasa.md)**|~~[Ewan, Shannon](zz_ewan1.md)~~|
-| | |[Maroko, Elena](zz_maroko1.md) — aerospace specialist at the NASA Moscow office|
-| | |~~[Tilman, Justin Eugene](zz_tilman1.md) — NASA representative in Russia~~|
+| |**[NASA](zz_nasa.md)**|~~[Ewan, Shannon](person.md)~~|
+| | |[Maroko, Elena](person.md) — aerospace specialist at the NASA Moscow office|
+| | |~~[Tilman, Justin Eugene](person.md) — NASA representative in Russia~~|
 | | | |
-| |**[SWRI](zz_swri.md)**|[Limaye, Sanjay Shridhar](zz_limaye1.md) — atmosphere of Venus|
-| | |[Jessup, Kandis Lea](zz_jessup1.md) — observation and modeling of the atmosphere|
+| |**[SWRI](zz_swri.md)**|[Limaye, Sanjay Shridhar](person.md) — atmosphere of Venus|
+| | |[Jessup, Kandis Lea](person.md) — observation and modeling of the atmosphere|
 | | | |
-| |**[UB](zz_buffalo_univ.md)**|[Gregg, Tracy](zz_gregg1.md) — co-chair of JSDT (USA side); geology|
+| |**[UB](zz_buffalo_univ.md)**|[Gregg, Tracy](person.md) — co-chair of JSDT (USA side); geology|
 
 </small>
 
@@ -693,7 +693,7 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 
    - **JSDT** — Joint Science Definition Team — a joint research group (NASA and ICI / Roscosmos) to evaluate the concept of the Venus-D mission.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 
 ---
@@ -701,9 +701,9 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Проекты:`**<br> [PSDS](us_psds.md) ┊ [Индексы проектов на НПОЛ](zz_lav.md) ┊ [Маскоты](zz_lav.md) ┊ [Морская группировка космических аппаратов](mgsc.md) ┊ [О прошлом, будущем и всём таком](pfaeverything.md) ┊ [Стоимость грамма КА](sc_price.md) ┊ [Стоимость работ на НПОЛ](zz_lav.md) ┊ [Типовые формы КА](ка_типформы.md)|
+|**`Проекты:`**<br> [PSDS](us_psds.md)┊ [Индексы проектов на НПОЛ](zz_lav.md)┊ [Маскоты](zz_lav.md)┊ [Морская группировка космических аппаратов](mgsc.md)┊ [О прошлом, будущем и всём таком](pfaeverything.md)┊ [Стоимость грамма КА](sc_price.md)┊ [Стоимость работ на НПОЛ](zz_lav.md)┊ [Типовые формы КА](ка_типформы.md)|
 
    1. Docs:
       - [KK VD source data](f/project/v/venera_d/KK_VD_source_data.pdf)

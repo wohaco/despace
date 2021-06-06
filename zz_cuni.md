@@ -4,11 +4,15 @@
 |[![](f/contact/c/cuni_logo1_thumb.jpg)](f/contact/c/cuni_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
 |Link|<http://www.cuni.cz/><br> <https://en.wikipedia.org/wiki/Charles_University><br> <https://ru.wikipedia.org/wiki/Карлов_университет>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
-**Ка́рлов университе́т** в Праге (чеш. **Univerzita Karlova v Praze**, междунар. **Charles University in Prague (CUNI)** — главный университет Чехии, старейший университет Центральной Европы и один из старейших университетов мира.  
-Был основан императором Карлом IV в 1348 году.
+**Ка́рлов университе́т** в Праге (чеш. **Univerzita Karlova v Praze**, междунар. **Charles University in Prague (CUNI)** — главный университет Чехии, старейший университет Центральной Европы и один из старейших университетов мира. Был основан императором Карлом IV в 1348 году.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

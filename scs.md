@@ -1,19 +1,19 @@
 # Spacecraft system
-> 2019.05.05 [🚀](../index/index.md) [despace](index.md) → **[SCS](scs.md)**
+> 2019.05.05 [🚀](../index/index.md) [despace](index.md) → [SCS](scs.md)
 
 [TOC]
 
 ---
 
-> <small>**• Spacecraft system (SCS)** — EN term. **Космический комплекс (КК)** — RU analogue.<br> **• Многоразовая космическая система (МКС)** — русскоязычный термин. **Reusable space system** — англоязычный эквивалент.</small>
+> <small>**・ Spacecraft system (SCS)** — EN term. **Космический комплекс (КК)** — RU analogue.<br> **・ Многоразовая космическая система (МКС)** — русскоязычный термин. **Reusable space system** — англоязычный эквивалент.</small>
 
 **Spacecraft system (SCS)** — combination of space & ground segments.
 
 **Космический комплекс (КК)** — совокупность функционально взаимосвязанных орбитальных и наземных технических средств, обеспечивающих как самостоятельное решение целевых задач на основе использования космического пространства, так и в состав космической системы.
 
-   - **Космическая система (КС)** — по [ГОСТ 53802](гост_53802.md) п. 1‑7 — совокупность одного или нескольких космических и специальных комплексов, предназначенных для решения целевых задач.
-   - **Космическая система (КС)** — по [Положению РК‑11‑КТ](const_rk11.md) стр. 17 — совокупность согласованно действующих и взаимосвязанных [КА](sc.md) и других технических средств космического комплекса и наземного специального комплекса, предназначенных для решения целевых задач. В состав космической системы могут входить несколько космических комплексов.
-   - **Многоразовая космическая система (МКС)** — космическая система с орбитальными средствами многократного использования.
+   - **Космическая система (КС)** — по [ГОСТ 53802](гост_53802.md) п. 1‑7 — совокупность одного или нескольких КК и специальных комплексов, предназначенных для решения целевых задач.
+   - **Космическая система (КС)** — по [Положению РК‑11‑КТ](const_rk11.md) стр. 17 — совокупность согласованно действующих и взаимосвязанных [КА](sc.md) и других технических средств КК и наземного специального комплекса, предназначенных для решения целевых задач. В состав КС могут входить несколько КК.
+   - **Многоразовая космическая система (МКС)** — КС с орбитальными средствами многократного использования.
 
 Связанные страницы:
 
@@ -22,7 +22,8 @@
    1. [О выводимых массах](throw_weight.md);
 
 
-<p style="page-break-after:always"> </p>
+
+<p style="page-break-after:always"> </p>
 
 ## Description
 Common dividing SCS into parts:
@@ -34,8 +35,12 @@ Common dividing SCS into parts:
 ░║ ╟ [Ground (or Earth) stations](scs.md)  
 ░║ ╟ Integration & test facilities  
 ░║ ╟ Launch facilities  
-░║ ╟ [Mission (or flight) control (or operations) centers](mcc.md)  
-░║ ╙ Remote terminals  
+░║ ║ ╟ [Launch vehicle](lv.md)  
+░║ ║ ╟ [Spaceport](spaceport.md)  
+░║ ║ ╙ Transport & supporting facilities  
+░║ ╟ [Mission (or flight) control (or operations) centers](mcc.md) (MCC)  
+░║ ╟ Remote terminals  
+░║ ╙ [Search & rescue complex](sarc.md) (SARC)  
 ░║  
 ░╟ **User segment** (US)  
 ░║ ╙ Customer terminals  
@@ -43,20 +48,50 @@ Common dividing SCS into parts:
 ░╙ **Space segment** (SS)  
 ░░░╙ [Spacecraft](sc.md) (SC)  
 ░░░░░╟ [Attitude control system](acs.md)  
-░░░░░╟ [C&DH](c_n_dh.md)  
+░░░░░╟ [Cables](cable.md)  
+░░░░░╟ [Command & Data Handling](c_n_dh.md) *(C&DH)*  
 ░░░░░╟ [Communications](comms.md)  
-░░░░░╟ [GNC](gnc.md) (guidance, navigation, & control)  
+░░░░░╟ [Guidance, navigation, & control](gnc.md) *(GNC)*  
 ░░░░░╟ [Life support](ls.md)  
-░░░░░╟ Payload *(см. [OE](oe.md))*  
-░░░░░╟ Power *(см. [СЭС](sps.md))*  
-░░░░░╟ Thermal control *(TCS, см. [СОТР](tcs.md))*  
-░░░░░╟ Spacecraft propulsion *(см. [ДУ](ps.md))*  
-░░░░░╙ Structures *(см. [SGM](sgm.md))*
+░░░░░╟ [Payload](oe.md) *(OE, см. [БА](oe.md))*  
+░░░░░╟ [Power](sps.md) *(SPS, см. [СЭС](sps.md))*  
+░░░░░╟ [Thermal control](tcs.md) *(TCS, см. [СОТР](tcs.md))*  
+░░░░░╟ [Spacecraft propulsion](ps.md) *(PS, см. [ДУ](ps.md))*  
+░░░░░╙ [Structures, gears, materials](sgm.md) *(SGM, см. [КММ](sgm.md))*
+
+**And logics:**
+
+   - [Communications](comms.md)
+      1. Ground & onboard antennas
+      1. [RF agreements](rf.md)
+   - [Control](control.md)
+      1. [Management](mgmt.md)
+   - [Documents](doc.md), incl. major ones:
+      1. [Drafts, models](draft_model.md)
+      1. [Report](report.md)
+      1. [Terms of reference](tor.md) (TOR)
+   - [Ecology](ecology.md)
+   - [Electronic components](elc.md) (ElC)
+   - [External factors](ef.md)
+   - [Errors](error.md)
+   - [Human factors & ergonomics](hfe.md) (HF&E)
+   - [Interfaces](interface.md)
+   - [International System of Units](si.md) (SI)
+   - [Key technologies](kt.md) (KT)
+   - [Model](model.md)
+   - [Navigation & ballistics](nnb.md) (NB)
+   - [Research & Development](rnd.md) (R&D)
+   - [Safety, Reliability, Risk, Quality](qa.md) (SRRQ)
+   - [Software](soft.md)
+   - [Systems engineering](se.md)
+   - [Tests](test.md)
+   - [Timeline](timeline.md)
+   - [TRL](trl.md) & [CML](cml.md)
 
 
 
 ### Ground segment
-A **ground segment (GS)** consists of all the ground-based control elements of a spacecraft system, as opposed to the space segment & user segment. The GS serves to enable control of a spacecraft, & distribution of payload data & telemetry among interested parties on the ground.
+A **ground segment (GS)** consists of all the ground‑based control elements of a spacecraft system, as opposed to the space segment & user segment. The GS serves to enable control of a spacecraft, & distribution of payload data & telemetry among interested parties on the ground.
 
 The ground segment, though not technically part of the spacecraft, is vital to the operation of the spacecraft. Typical components of a GS in use during normal operations include a mission operations facility where the flight operations team conducts the operations of the spacecraft, a data processing & storage facility, ground stations to radiate signals to & receive signals from the spacecraft, & a voice & data communications network to connect all mission elements.
 
@@ -67,14 +102,14 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ### Space segment
    - **Attitude control.** A Spacecraft needs an attitude control subsystem to be correctly oriented in space & respond to external torques & forces properly. The attitude control subsystem consists of sensors & actuators, together with controlling algorithms. The attitude‑control subsystem permits proper pointing for the science objective, sun pointing for power to the solar arrays & earth pointing for communications.
    - **Command & data handling.** The CDH subsystem receives commands from the communications subsystem, performs validation & decoding of the commands, & distributes the commands to the appropriate spacecraft subsystems & components. The CDH also receives housekeeping data & science data from the other spacecraft subsystems & components, & packages the data for storage on a data recorder or transmission to the ground via the communications subsystem. Other functions of the CDH include maintaining the spacecraft clock & state‑of‑health monitoring.
-   - **Communications.** SC, both robotic & crewed, utilize various communications systems for communication with terrestrial stations as well as for communication between spacecraft in space. Technologies utilized include RF & optical communication. In addition, some spacecraft payloads are explicitly for the purpose of ground–ground communication using receiver/retransmitter electronic technologies.
+   - **Communications.** SC, both robotic & crewed, utilize various communications systems for communication with terrestrial stations as well as for communication between spacecraft in space. Technologies utilized include RF & optical communication. In addition, some spacecraft payloads are explicitly for the purpose of ground‑ground communication using receiver/retransmitter electronic technologies.
    - **GNC.** Guidance refers to the calculation of the commands (usually done by the CDH subsystem) needed to steer the spacecraft where it is desired to be. Navigation means determining a spacecraft’s orbital elements or position. Control means adjusting the path of the spacecraft to meet mission requirements.
    - **Life support.** SC intended for human spaceflight must also include a life support system for the crew.
-   - **Payload.** The payload depends on the mission of the SC, & is typically regarded as the part of the spacecraft “that pays the bills”. Typical payloads could include scientific instruments (cameras, telescopes, or particle detectors, for example), cargo, or a human crew.
+   - **Payload.** The payload depends on the mission of the SC, & is typically regarded as the part of the SC “that pays the bills”. Typical payloads could include scientific instruments (cameras, telescopes, or particle detectors, for example), cargo, or a human crew.
    - **Power.** SC need an electrical power generation & distribution subsystem for powering the various SC subsystems. For spacecraft near the Sun, solar panels are frequently used to generate electrical power. SC designed to operate in more distant locations, for example Jupiter, might employ a radioisotope thermoelectric generator (RTG) to generate electrical power. Electrical power is sent through power conditioning equipment before it passes through a power distribution unit over an electrical bus to other spacecraft components. Batteries are typically connected to the bus via a battery charge regulator, & the batteries are used to provide electrical power during periods when primary power is not available, for example when a low Earth orbit spacecraft is eclipsed by Earth.
-   - **Thermal control.** SC must be engineered to withstand transit through Earth’s atmosphere & the space environment. They must operate in a vacuum with temperatures potentially ranging across hundreds of ℃ as well as (if subject to reentry) in the presence of plasmas. Material requirements are such that either high melting temperature, low density materials such as beryllium & reinforced carbon–carbon or (possibly due to the lower thickness requirements despite its high density) tungsten or ablative carbon–carbon composites are used. Depending on mission profile, spacecraft may also need to operate on the surface of another planetary body. The thermal control subsystem (TCS) can be passive, dependent on the selection of materials with specific radiative properties. Active TCS makes use of electrical heaters & certain actuators such as louvers to control temperature of equipments within specific ranges.
+   - **Thermal control.** SC must be engineered to withstand transit through Earth’s atmosphere & the space environment. They must operate in a vacuum with temperatures potentially ranging across hundreds of ℃ as well as (if subject to reentry) in the presence of plasmas. Material requirements are such that either high melting temperature, low density materials such as beryllium & reinforced carbon‑carbon or (possibly due to the lower thickness requirements despite its high density) tungsten or ablative carbon‑carbon composites are used. Depending on mission profile, spacecraft may also need to operate on the surface of another planetary body. The thermal control subsystem (TCS) can be passive, dependent on the selection of materials with specific radiative properties. Active TCS makes use of electrical heaters & certain actuators such as louvers to control temperature of equipments within specific ranges.
    - **Spacecraft propulsion.** SC may or may not have a propulsion subsystem, depending on whether or not the mission profile calls for propulsion. The Swift spacecraft is an example of a spacecraft that does not have a propulsion subsystem. Typically though, LEO spacecraft include a propulsion subsystem for altitude adjustments (drag make‑up maneuvers) & inclination adjustment maneuvers. A propulsion system is also needed for spacecraft that perform momentum management maneuvers. Components of a conventional propulsion subsystem include fuel, tankage, valves, pipes, & thrusters. The thermal control system interfaces with the propulsion subsystem by monitoring the temperature of those components, & by preheating tanks & thrusters in preparation for a spacecraft maneuver.
-   - **Structures.** SC must be engineered to withstand launch loads imparted by the launch vehicle, & must have a point of attachment for all the other subsystems. Depending on mission profile, the structural subsystem might need to withstand loads imparted by entry into the atmosphere of another planetary body, & landing on the surface of another planetary body.
+   - **Structures.** SC must be engineered to withstand launch loads imparted by a [LV](lv.md), & must have a point of attachment for all the other subsystems. Depending on mission profile, the structural subsystem might need to withstand loads imparted by entry into the atmosphere of another planetary body, & landing on the surface of another planetary body.
 
 
 
@@ -83,9 +118,9 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Описание КК и СЧ КК
+## (RU) КК и СЧ КК
 Стандартная схема деления КК:
 
 **Космический комплекс** (КК)  
@@ -105,15 +140,15 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ░║ ╟ Комплекс приёма и анализа научных и телеметрических данных (КПНД)  
 ░║ ╙ Комплекс связи и коммуникации (КСК)  
 ░║  
-░╙ **Ракетно-космический комплекс** (РКК)  
+░╙ **Ракетно‑космический комплекс** (РКК)  
 ░░░╟ Комплекс разгонного блока (КРБ)  
-░░░╟ Комплекс ракеты-носителя (ТК РКН)  
+░░░╟ Комплекс ракеты‑носителя (ТК РН)  
 ░░░╟ Комплес средств измерений, сбора и обработки (КСИСО)  
 ░░░╟ Технический комплекс космического аппарата (ТК КА)  
 ░░░╟ Технический комплекс космической головной части (ТК КГЧ)  
 ░░░╟ Технический комплекс ракеты космического назначения (ТК РКН)  
 ░░░╙ Ракета космического назначения (РКН)  
-░░░░░╟ [Ракета-носитель](lv.md) (РН)  
+░░░░░╟ [Ракета‑носитель](lv.md) (РН)  
 ░░░░░╙ Космическая головная часть (КГЧ)  
 ░░░░░░░╟ [Головной обтекатель](lv.md) (ГО)  
 ░░░░░░░╟ Разгонный блок (РБ)  
@@ -122,14 +157,17 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ░░░░░░░░░╟ Адаптер с устройством отделения  
 ░░░░░░░░░╟ Бортовой комплекс управления (БКУ)  
 ░░░░░░░░░║ ╟ Бортовая кабельная сеть (БКС)  
+░░░░░░░░░║ ╟ Высотомер  
 ░░░░░░░░░║ ╟ Гироскоп  
-░░░░░░░░░║ ╟ Двигатель-маховик (ДМ)  
+░░░░░░░░░║ ╟ Датчик звёздный (ЗД)  
+░░░░░░░░░║ ╟ Датчик контроля электризации  
+░░░░░░░░░║ ╟ Датчик относительной ориентации (GPS, GLONASS)  
+░░░░░░░░░║ ╟ Датчик солнечный (СД)  
+░░░░░░░░░║ ╟ Двигатель‑маховик (ДМ)  
 ░░░░░░░░░║ ╟ Запоминающее устройство (ЗУ)  
-░░░░░░░░░║ ╟ Звёздный датчик (ЗД)  
 ░░░░░░░░░║ ╟ Привод антенны  
 ░░░░░░░░░║ ╟ Привод солнечных панелей (ПСП)  
 ░░░░░░░░░║ ╟ Программное обеспечение (ПО)  
-░░░░░░░░░║ ╟ Солнечный датчик (СД)  
 ░░░░░░░░░║ ╙ Цифровая вычислительная машина (ЦВМ)  
 ░░░░░░░░░╟ Бортовая кабельная сеть (БКС)  
 ░░░░░░░░░╟ Двигательная установка (ДУ)  
@@ -143,9 +181,9 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ░░░░░░░░░╟ Комплекс научной аппаратуры (КНА)  
 ░░░░░░░░░╟ Конструкция и механизмы (КММ)  
 ░░░░░░░░░╟ Радиокомплекс (РК)  
-░░░░░░░░░║ ╟ Антенно-фидерная система (АФС)  
+░░░░░░░░░║ ╟ Антенно‑фидерная система (АФС)  
 ░░░░░░░░░║ ╟ Бортовая кабельная сеть (БКС)  
-░░░░░░░░░║ ╙ Приёмо-передатчик  
+░░░░░░░░░║ ╙ Приёмо‑передатчик  
 ░░░░░░░░░╟ Система электроавтоматики (СЭА)  
 ░░░░░░░░░╟ Система электроснабжения (СЭС)  
 ░░░░░░░░░║ ╟ Аккумуляторная батарея (АБ)  
@@ -156,7 +194,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ░░░░░░░░░║ ╟ Нагреватели, тепловые датчики  
 ░░░░░░░░░║ ╟ Покрытия  
 ░░░░░░░░░║ ╟ Радиаторы, коллекторы, тепловые трубы  
-░░░░░░░░░║ ╙ Экранно-вакуумная теплоизоляция (ЭВТИ)  
+░░░░░░░░░║ ╙ Экранно‑вакуумная теплоизоляция (ЭВТИ)  
 ░░░░░░░░░╙ Телеметрическая система (ТМС)
 
 
@@ -174,7 +212,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 
 ### КИК
-> <small>**Русский** — русскоязычный термин, не имеющий аналога в английском языке. **Сommand and measurement complex (CAMC)** — дословный перевод с русского на английский.</small>
+> <small>**Русский** — русскоязычный термин, не имеющий аналога в английском языке. **Сommand & measurement complex (CAMC)** — дословный перевод с русского на английский.</small>
 
 **Командно‑измерительный комплекс (КИК)** — совокупность Земных средств и служб, с помощью которых осуществляется управление полётом [космических аппаратов](sc.md), [ракет‑носителей](lv.md) и космических объектов.
 
@@ -200,7 +238,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 
 ### КСИСО
-> <small>**Комплекс средств измерения, сбора и обработки информации (КСИСО)** — русскоязычный термин, не имеющий аналога в английском языке. **System of measuring instruments, data acquisition and processing (SMIDAP)** — дословный перевод с русского на английский.</small>
+> <small>**Комплекс средств измерения, сбора и обработки информации (КСИСО)** — русскоязычный термин, не имеющий аналога в английском языке. **System of measuring instruments, data acquisition & processing (SMIDAP)** — дословный перевод с русского на английский.</small>
 
 **Комплекс средств измерения, сбора и обработки информации (КСИСО)** — совокупность сооружений, взаимосвязанных между собой технических средств и программного обеспечения [НКУ](scs.md) и [НАКУ](scs.md) [космическими аппаратами](sc.md) и измерений, предназначенных для автоматизированного контроля за функционированием [РКН](lv.md) в процессе предстартовой подготовки и на участке выведения, обеспечивающих обработку, документирование и распределение результатов измерений между потребителями.
 
@@ -249,7 +287,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 |[![](f/gs/ssc_ggsn_thumb2.jpg)](f/gs/ssc_ggsn.png)|**[SSC’s Global Ground Station Network](ssc_ggsn.md)**<br> (Европа, Швеция)|
 |[![](f/gs/udsc_pic1_thumb.jpg)](f/gs/udsc_pic1.png)|**[Usuda Deep Space Center](udsc.md)**<br> (Япония)|
 |[![](f/gs/map_world_ground_stations_thumb2.jpg)](f/gs/map_world_ground_stations.jpg)|**Мировые НС**|
-|[![](f/gs/map_world_ground_stations_nkudka_thumb2.jpg)](f/gs/map_world_ground_stations_nkudka.jpg)|**НС в рамках НКУ-ДКА**<br> (примерное расположение)|
+|[![](f/gs/map_world_ground_stations_nkudka_thumb2.jpg)](f/gs/map_world_ground_stations_nkudka.jpg)|**НС в рамках НКУ‑ДКА**<br> (примерное расположение)|
 
 **Известные НС**
 
@@ -257,9 +295,9 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 |*Россия*|*Описание*|*Изобр.*|
 |:--|:--|:--|
-|Калязинская<br> радио&shy;астрономическая<br> обсерватория|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> • Радиотелескоп ТНА‑1500 или РТ-64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> • Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ㎓.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.jpg)|
-|Центр<br> космической связи<br> «Медвежьи озёра»|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> • Радиотелескоп ТНА‑1500 или РТ-64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> • Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.jpg)|
-|Восточный центр<br> дальней космической<br> связи (Уссурийск)|44°00′57″ с.ш. 131°45′25″ в.д. <sup>[H](https://tools.wmflabs.org/geohack/geohack.php?:language=ru&pagename=%D0 %A0 %D0 %A2-70&params=44_0_57.90_N_131_45_25.13_E) [G](https://maps.google.com/maps?:ll=44.0160833,131.7569806&q=44.0160833,131.7569806&spn=0.03,0.03&t=h&hl=ru) [Я](https://yandex.ru/maps/?:ll=131.7569806,44.0160833&pt=131.7569806,44.0160833&spn=0.03,0.03&l=sat,skl) [O](https://www.openstreetmap.org/?:mlat=44.0160833&mlon=131.7569806&zoom=14)</sup><br> • Радиотелескоп П‑2500 или РТ-70.|[![](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru_thumb.jpg)](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru.jpg)|
+|Калязинская<br> радио&shy;астрономическая<br> обсерватория|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> ・Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ㎓.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.jpg)|
+|Центр<br> космической связи<br> «Медвежьи озёра»|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> ・Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.jpg)|
+|Восточный центр<br> дальней космической<br> связи (Уссурийск)|44°00′57″ с.ш. 131°45′25″ в.д. <sup>[H](https://tools.wmflabs.org/geohack/geohack.php?:language=ru&pagename=%D0 %A0 %D0 %A2-70&params=44_0_57.90_N_131_45_25.13_E) [G](https://maps.google.com/maps?:ll=44.0160833,131.7569806&q=44.0160833,131.7569806&spn=0.03,0.03&t=h&hl=ru) [Я](https://yandex.ru/maps/?:ll=131.7569806,44.0160833&pt=131.7569806,44.0160833&spn=0.03,0.03&l=sat,skl) [O](https://www.openstreetmap.org/?:mlat=44.0160833&mlon=131.7569806&zoom=14)</sup><br> ・Радиотелескоп П‑2500 или РТ‑70.|[![](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru_thumb.jpg)](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru.jpg)|
 
 </small>
 
@@ -301,7 +339,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 
 ### Наземный комплекс
-> <small>**Наземный комплекс (НК)** — русскоязычный термин, не имеющий аналога в английском языке. **Ground-based complex** — дословный перевод с русского на английский.</small>
+> <small>**Наземный комплекс (НК)** — русскоязычный термин, не имеющий аналога в английском языке. **Ground‑based complex** — дословный перевод с русского на английский.</small>
 
 **Наземный комплекс** ─ общее негостированное название всех наземных элементов, предназначенных для управления и обмена информацией с космическим аппаратом.
 
@@ -371,23 +409,23 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md) ┊ [ГО и ПхО](lv.md) ┊ [Класс чистоты](clean_lvl.md) ┊ [Контейнеры для транспортировки](ship_contain.md) ┊ [СЧ](sui.md)|
-|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md) ┊ [КИС](scs.md) ┊ [КСИСО](scs.md) ┊ [НИК](lm_sys.md) ┊ [НИП](scs.md) ┊ [НС](scs.md) ┊ [ПОЗ](fp.md) ┊ [СГК](cd_segm.md) ┊ [ССПД](mcntd.md) ┊ [ЦУП](mcc.md)|
-|**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md) ┊ [DSN](dsn.md) ┊ [ESTRACK](estrack.md) ┊ [IDSN](idsn.md) ┊ [SSC_GGSN](ssc_ggsn.md) ┊ [UDSC](udsc.md)|
+|**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)┊ [ГО и ПхО](lv.md)┊ [Класс чистоты](clean_lvl.md)┊ [Контейнеры для транспортировки](ship_contain.md)┊ [СЧ](sui.md)|
+|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)┊ [КИС](scs.md)┊ [КСИСО](scs.md)┊ [НИК](lm_sys.md)┊ [НИП](scs.md)┊ [НС](scs.md)┊ [ПОЗ](fp.md)┊ [СГК](cd_segm.md)┊ [ССПД](mcntd.md)┊ [ЦУП](mcc.md)|
+|**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)┊ [DSN](dsn.md)┊ [ESTRACK](estrack.md)┊ [IDSN](idsn.md)┊ [SSC_GGSN](ssc_ggsn.md)┊ [UDSC](udsc.md)|
 |**`Наземный научный комплекс (ННК):`**<br> [АПС](hns.md)|
 
    1. Docs:
       - SCS:
          1. [ГОСТ 53802](гост_53802.md), п. 1‑7
          1. [РК‑11](const_rk11.md), стр. 17
-      - НКУ: [ГОСТ 53802](гост_53802.md), п.30-32
+      - НКУ: [ГОСТ 53802](гост_53802.md), п.30‑32
       - БЦ: [ГОСТ 53802](гост_53802.md), п.43
       - НКПОР: [ГОСТ 53802](гост_53802.md), п.50
       - НАКУ: [ГОСТ 53802](гост_53802.md), п. 30‑32

@@ -4,6 +4,11 @@
 |[![](f/contact/r/riken_logo1_thumb.png)](f/contact/r/riken_logo1.png)|<pr@riken.jp>, +81-48-462-1111, Fax: …;<br> *2-1 Hirosawa, Wako, Saitama 351-0198, Japan*|
 |:--|:--|
 |Link|<https://www.riken.jp/><br> <https://en.wikipedia.org/wiki/Riken><br> <https://www.linkedin.com/company/riken>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Riken** (理研, stylized as **RIKΞN**) is a large scientific research institute in Japan. Founded in 1917.
 
@@ -11,7 +16,7 @@ Riken conducts research in many areas of science, including physics, chemistry, 
 
 It now has ~ 3 000 scientists on seven campuses across Japan, including the main site at Wakō, Saitama Prefecture, just outside Tokyo. Riken is a Designated National Research & Development Institute, & was formerly an Independent Administrative Institution. “Riken” is a portmanteau of the formal name Rikagaku Kenkyūjo (理化学研究所), & its full name in Japanese is Kokuritsu Kenkyū Kaihatsu Hōjin Rikagaku Kenkyūsho (国立研究開発法人理化学研究所) & in English is the Institute of Physical & Chemical Research.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 The main divisions of Riken are listed here. Purely administrative divisions are omitted.
 

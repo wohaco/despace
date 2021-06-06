@@ -15,7 +15,7 @@
 |Макс. упр. момент, Н·м| |
 |Режим готовности| |
 |**Etc:**|• • •|
-|[ВБР](srrq.md) за САС| |
+|[ВБР](qa.md) за САС| |
 |Dimensions, L×W×H, mm| |
 |Интерфейсы| |
 |Mass, kg| |
@@ -31,7 +31,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Примечания
    1. …

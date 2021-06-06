@@ -4,6 +4,11 @@
 |[![](f/contact/g/gs_yuasa_logo1_thumb.png)](f/contact/g/gs_yuasa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *〒601-8520 Kyōto-fu, Kyōto-shi, Minami-ku, Kisshōin Nishinoshō Inobabachō, Kyōto, 601 8520, Japan*|
 |:--|:--|
 |Link|<https://www.gs-yuasa.com/><br> <https://en.wikipedia.org/wiki/GS_Yuasa><br> <https://www.linkedin.com/company/gs-yuasa/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **GS Yuasa Corporation** (株式会社ジーエス・ユアサ コーポレーション, Kabushiki-gaisha GS Yuasa Kōporēshon) is a Japanese company that makes lead acid automobile & motorcycle batteries. It also develops & produces advanced battery technology for various aerospace & defense applications. Founded 2004.04.01.
 
@@ -13,7 +18,7 @@
    - [Lithium-ion Batteries](eb.md). Lithium-ion Batteries for Automobiles, Industry & Aerospace.
    - Lighting Equipment, Ultraviolet Systems. Street Lamps, Ultraviolet lamps, etc.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

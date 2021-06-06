@@ -4,11 +4,16 @@
 |[![](f/contact/a/agat_logo1_thumb.jpg)](f/contact/a/agat_logo1.png)|<info@agat-roscosmos.ru>, +7(499)972-90-00, Fax: +7(499)972-91-11;<br> *Россия, 125047, Москва, ул. Бутырский вал, д. 18, стр. 1<br> Филиал — Россия, 141070, г. Королёв, Московская обл., Пионерская ул., 4*|
 |:--|:--|
 |Link|<http://agat-roscosmos.ru/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Акционерное общество «Организация «Агат»** — головной экономический научно‑исследовательский институт ракетно‑космической промышленности с 1973 года.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

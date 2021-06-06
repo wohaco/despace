@@ -15,7 +15,7 @@ The original report dates back to 2007.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -51,7 +51,7 @@ The original report dates back to 2007.
 |Power|• carrier: 4.4 m² solar panels;<br> • balloons: batterie 10.5 kWh;<br> • landers: batterie 6 kWh|
 |Payload|• balloons: pressure/temp/wind detectors, spectrometer, nephelometer, magnetometer, camera;<br> • landers: cameras, magneetometer, nephelometer, radiometer, drilling rig, gamma detector|
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 Targets & objectives:
 
@@ -111,7 +111,7 @@ Findings from the report will be used in NASA’s program planning activities & 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Venus Design Reference Mission
 The Venus Flagship Design Reference Mission (DRM) is optimized to achieve the highest number of high‑priority science goals & objectives of Venus exploration, & it is comprised of a highly capable orbiter ([EVN‑005](venus.md)), 2 balloons in the clouds ([EVN‑003](venus.md)), & 2 landers on different terrains ([EVN‑06](venus.md)).
@@ -126,7 +126,7 @@ The DRM accomplishes a very wide range of atmospheric, geologic, & geochemical i
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Why Venus?:
 There is a compelling motivation of great global concern for exploring Venus: *As we discover how climate & geology work on a world similar to our own, we gain a deeper understanding of the processes at work in our own environment.*
@@ -141,7 +141,7 @@ Nevertheless, many of the scientific investigations that should be done to under
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VDRM Science Goals & Objectives
 Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science driving a flagship‑class mission to Venus can be summarized by its 3 themes. These themes & objectives are summarized in the table below.
@@ -152,9 +152,9 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science drivi
 
 |*Science Theme*|*Science Objective*|
 |:--|:--|
-|1. What does the<br> Venus greenhouse<br> tells about<br> climate change|• Understand radiation balance in atmo, clouds & chemical cycles that affect it.<br> • Understand how superrotation ([EVN‑034](venus.md)) & the general circulation work ([EVN‑011](venus.md)).<br> • Look for evidence of climate change at the surface.|
-|2. How active<br> is Venus|• Current geologic activity, understand the geologic history.<br> • How surface/atmo interactions affect rock chemistry & climate ([EVN‑041](venus.md)).<br> • Place constraints on the structure & dynamics of the interior.|
-|3. When & where<br> did the water go|• Determine how the early atmosphere evolved.<br> • Identify chemical & isotopic signs of a past ocean. ([EVN‑040](venus.md))<br> • Crustal composition differences & evidence of continent‑like crust. ([EVN‑024,025](venus.md))|
+|1. What does the<br> Venus greenhouse<br> tells about<br> climate change|• Understand radiation balance in atmo, clouds & chemical cycles that affect it.<br> ・Understand how superrotation ([EVN‑034](venus.md)) & the general circulation work ([EVN‑011](venus.md)).<br> ・Look for evidence of climate change at the surface.|
+|2. How active<br> is Venus|• Current geologic activity, understand the geologic history.<br> ・How surface/atmo interactions affect rock chemistry & climate ([EVN‑041](venus.md)).<br> ・Place constraints on the structure & dynamics of the interior.|
+|3. When & where<br> did the water go|• Determine how the early atmosphere evolved.<br> ・Identify chemical & isotopic signs of a past ocean. ([EVN‑040](venus.md))<br> ・Crustal composition differences & evidence of continent‑like crust. ([EVN‑024,025](venus.md))|
 
 **MAJOR OPEN SCIENTIFIC QUESTIONS ABOUT VENUS**
 
@@ -210,7 +210,7 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science drivi
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VDRM Mission Design
 The Venus DRM mission timeline in the form of a mission architecture storyboard is shown in Figures 1 & 2, & consists of six key steps. The first figure shows the interplanetary trajectories & the various mission phases associated with the two launches, while the second figure provides a storyboard for the Entry, Descent & Inflation (EDI) & Entry, Descent & Landing (EDL) phases of the in situ elements.
@@ -243,7 +243,7 @@ Further details on the timeline are provided in Figure 3.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VDRM Orbiter
    - Launch Vehicle: Atlas V‑551 (w/ 5 m diameter fairing)
@@ -260,7 +260,7 @@ Further details on the timeline are provided in Figure 3.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VDRM Carrier
    - Launch Vehicle: Atlas V‑551 (5 m diameter fairing)
@@ -275,7 +275,7 @@ Further details on the timeline are provided in Figure 3.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VDRM Entry Systems
    - Each entry system carries a balloon & a lander with supporting subsystems
@@ -289,7 +289,7 @@ Further details on the timeline are provided in Figure 3.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VDRM Balloons
    - Mass (CBE + Cont.): 162.5 ㎏; Payload mass: 22.5 ㎏
@@ -305,7 +305,7 @@ Further details on the timeline are provided in Figure 3.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VDRM Landers
    - Mass (CBE + Cont.): 686 ㎏; Payload mass: 106.2 ㎏
@@ -323,7 +323,7 @@ Further details on the timeline are provided in Figure 3.
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Other Venus Missions
 Over the past 3 decades more than [20 Missions ⎆](http://www.planetary.org/explore/topics/venus/missions.html) succeeded to explore Venus, with orbiters, probes, landers & balloons. In addition, many attempts have failed, teaching us valuable lessons about the challenges of space exploration & the extreme environments of our sister planet.
@@ -351,7 +351,7 @@ The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Fly‑by missions (Mariner, Galileo, MESSENGER)
 **Mariner 5**
@@ -362,7 +362,7 @@ As a consequence, in 1968, Soviet & American scientists met in Tucson, Arizona, 
 
 ![](f/project/v/venus_flagship_mission/vfm_19.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Mariner 10**
 
@@ -372,7 +372,7 @@ For further details, see:   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do
 
 ![](f/project/v/venus_flagship_mission/vfm_20.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Galileo Venus Fly‑by**
 
@@ -384,7 +384,7 @@ During the 1990 Venus fly‑by of the Galileo spacecraft, the Near‑Infrared Ma
 
 ![](f/project/v/venus_flagship_mission/vfm_21.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **MESSENGER**
 
@@ -398,7 +398,7 @@ Details on the mission can be found at: <http://messenger.jhuapl.edu/index.php>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Pioneer‑Venus — USA
 The NASA program of in situ Venus exploration has to date launched only one mission, [Pioneer‑Venus ⎆](http://www.nasa.gov/mission_pages/pioneer-venus/index.html), launched in 1978. Pioneer‑Venus consisted of one Large Probe with a parachute to prolong its descent & three small probes. These probes were designed to operate deep in the atmosphere but there was no requirement for them to survive a landing on Venus. Ultimately, even though they all experienced a number of anomalies in the lower atmosphere, they all operated until surface impact, with one continuing to send data after impact. One Multiprobe Bus carried all probes until they were separated sequentially near Venus to reach different regions. It then entered the atmosphere & obtained atmospheric composition data until burnup.
@@ -409,7 +409,7 @@ Details about the Pioneer‑Venus mission elements & technologies are provided i
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Venus Climate Observer (Planet C) — JAXA
 The Venus Climate Orbiter mission (PLANET‑C), one of the future planetary missions of Japan, aims at understanding the atmospheric circulation of Venus. Meteorological information will be obtained by globally mapping clouds & minor constituents successively with 4 cameras at ultraviolet & infrared wavelengths, detecting lightning with a high‑speed imager, & observing the vertical structure of the atmosphere with radio science technique. The equatorial elongated orbit with westward revolution fits the observations of the movement & temporal variation of the Venusian atmosphere, which rotates westward. The systematic, continuous imaging observations will provide us with an unprecedented large dataset of the Venusian atmospheric dynamics. Additional targets of the mission are the exploration of the ground surface & the observation of zodiacal light. The mission will complement the ESA’s Venus Express, which also explores the Venusian environment with different approaches. The spacecraft will be launched & arrive at Venus in 2010, & will perform 2 Earth years of operation.
@@ -420,7 +420,7 @@ Further information on the mission can be found at: <http://www.stp.isas.jaxa.jp
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Venus Express — ESA
 Venus Express is a follow on from the Mars Express mission. Many of the instruments on the mission are simply upgraded versions of those on the Mars Express platform. After a 153 day cruise to Venus the spacecraft entered Venusian orbit on 11 April 2006. Venus Express is studying the Venusian atmosphere & clouds in unprecedented detail & accuracy. It is ESA’s first spacecraft to visit this planet.
@@ -431,7 +431,7 @@ Details on the mission can be found at:  <http://www.esa.int/esaMI/Venus_Express
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Magellan (Orbiter)
 The Magellan spacecraft was launched on May 4, 1989, & arrived at Venus on August 10, 1990. Magellan’s solid rocket motor placed it into a near‑polar elliptical orbit around the planet. During the first 8‑month mapping cycle around Venus, Magellan collected radar images of 84 % of the planet’s surface, with resolution 10 times better than that of the earlier Soviet Venera 15 & 16 missions. Altimetry & radiometry data also measured the surface topography & electrical characteristics. During the extended mission, two further mapping cycles from May 15, 1991 to September 14, 1992 brought mapping coverage to 98 % of the planet, with a resolution of approx. 100 m.
@@ -444,7 +444,7 @@ Further details on the mission can be found at: <http://www2.jpl.nasa.gov/magell
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
@@ -452,84 +452,84 @@ Further details on the mission can be found at: <http://www2.jpl.nasa.gov/magell
 
 **Venus Science & Technology Definition Team (STDT) Members**
 
-   - **Chair:** [Mark A. Bullock](zz_bullock1.md), Southwest Research Institute, Boulder, CO, USA
-   - **Co‑Chair:** [David Senske](zz_senske1.md), Jet Propulsion Laboratory, Pasadena, CA, USA
+   - **Chair:** [Mark A. Bullock](person.md), Southwest Research Institute, Boulder, CO, USA
+   - **Co‑Chair:** [David Senske](person.md), Jet Propulsion Laboratory, Pasadena, CA, USA
 
 **Atmosphere Sub‑Group of the STDT**
 
-   - [David H. Grinspoon](zz_grinspoon1.md), (**Lead**) Denver Museum of Nature & Science, Denver, CO, USA
-   - [Eric Chassefiere](zz_chassefiere1.md), Service d’Aeronomie, Paris, France
-   - [Anthony Colaprete](zz_colaprete1.md), NASA / Ames Research Center, Mountain View, CA, USA
-   - [George L. Hashimoto](zz_hashimoto1.md), Kobe University, Japan
-   - [Sanjay S. Limaye](zz_limaye1.md), University of Wisconsin, Madison, WI, USA
-   - [Hakan Svedhem](zz_svedhem1.md), ESA, Noordwijk, Netherlands
-   - [Dimitri V. Titov](zz_titov1.md), Max Planck Institute for Solar System Research, Germany
-   - [Mikhail Y. Marov](zz_marov1.md), Keldysh Institute of Applied Mathematics, Moscow, Russia
+   - [David H. Grinspoon](person.md), (**Lead**) Denver Museum of Nature & Science, Denver, CO, USA
+   - [Eric Chassefiere](person.md), Service d’Aeronomie, Paris, France
+   - [Anthony Colaprete](person.md), NASA / Ames Research Center, Mountain View, CA, USA
+   - [George L. Hashimoto](person.md), Kobe University, Japan
+   - [Sanjay S. Limaye](person.md), University of Wisconsin, Madison, WI, USA
+   - [Hakan Svedhem](person.md), ESA, Noordwijk, Netherlands
+   - [Dimitri V. Titov](person.md), Max Planck Institute for Solar System Research, Germany
+   - [Mikhail Y. Marov](person.md), Keldysh Institute of Applied Mathematics, Moscow, Russia
 
 **Geochemistry Sub‑Group of the STDT**
 
-   - [Allan H. Treiman](zz_treiman1.md), (**Lead**) Lunar & Planetary Institute, Houston, TX, USA
-   - [Natasha Johnson](zz_johnson1.md), NASA / Goddard Space Flight Center, Greenbelt, MD, USA
-   - [Steve J. Mackwell](zz_mackwell1.md), Lunar & Planetary Institute, Houston, TX, USA
+   - [Allan H. Treiman](person.md), (**Lead**) Lunar & Planetary Institute, Houston, TX, USA
+   - [Natasha Johnson](person.md), NASA / Goddard Space Flight Center, Greenbelt, MD, USA
+   - [Steve J. Mackwell](person.md), Lunar & Planetary Institute, Houston, TX, USA
 
 **Geology & Geophysics Sub‑Group of the STDT**
 
-   - [Dave A. Senske](zz_senske1.md), (**Lead**) Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Bruce A. Campbell](zz_campbell1.md), Smithsonian Institution, Washington, DC, USA
-   - [Lori Glaze](zz_glaze1.md), NASA/Goddard Space Flight Center, Greenbelt, MD, USA
-   - [Jim W. Head](zz_head1.md), Brown University, Providence, Rhode Island, USA
-   - [Walter S. Kiefer](zz_kiefer1.md), Lunar & Planetary Institute, Houston, TX, USA
-   - [Gerald Schubert](zz_schubert1.md), University of California at Los Angeles, CA, USA
+   - [Dave A. Senske](person.md), (**Lead**) Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Bruce A. Campbell](person.md), Smithsonian Institution, Washington, DC, USA
+   - [Lori Glaze](person.md), NASA/Goddard Space Flight Center, Greenbelt, MD, USA
+   - [Jim W. Head](person.md), Brown University, Providence, Rhode Island, USA
+   - [Walter S. Kiefer](person.md), Lunar & Planetary Institute, Houston, TX, USA
+   - [Gerald Schubert](person.md), University of California at Los Angeles, CA, USA
 
 **Technology Sub‑Group of the STDT**
 
-   - [Elizabeth A. Kolawa](zz_kolawa1.md), (**Lead**) Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Steve Gorevan](zz_gorevan1.md), Honeybee Robotics, New York, NY, USA
-   - [Gary Hunter](zz_hunter1.md), NASA / Glenn Research Center, Cleveland, USA
-   - [Viktor V. Kerzhanovich](zz_kerzhanovich1.md), Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Elizabeth A. Kolawa](person.md), (**Lead**) Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Steve Gorevan](person.md), Honeybee Robotics, New York, NY, USA
+   - [Gary Hunter](person.md), NASA / Glenn Research Center, Cleveland, USA
+   - [Viktor V. Kerzhanovich](person.md), Jet Propulsion Laboratory, Pasadena, CA, USA
 
 **Ex Officio**
 
-   - [Ellen R. Stofan](zz_stofan1.md), VEXAG Chair & Proxemy Research, Virginia, USA
-   - [Tibor Kremic](zz_kremic1.md), NASA / Glenn Research Center, Cleveland, USA
+   - [Ellen R. Stofan](person.md), VEXAG Chair & Proxemy Research, Virginia, USA
+   - [Tibor Kremic](person.md), NASA / Glenn Research Center, Cleveland, USA
 
 **JPL Venus Flagship Mission Architecture Study Team**
 
-   - [Jeffery L. Hall](zz_hall1.md), (**Study Lead**) Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Tibor S. Balint](zz_balint1.md), (Mission Lead) Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Craig E. Peterson](zz_peterson1.md), Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Tom Spilker](zz_spilker1.md), Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Alexis C. Benz](zz_benz1.md), Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Johnny H. Kwok](zz_kwok1.md), (Phase 1 Study Lead) Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Jeffery L. Hall](person.md), (**Study Lead**) Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Tibor S. Balint](person.md), (Mission Lead) Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Craig E. Peterson](person.md), Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Tom Spilker](person.md), Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Alexis C. Benz](person.md), Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Johnny H. Kwok](person.md), (Phase 1 Study Lead) Jet Propulsion Laboratory, Pasadena, CA, USA
    - [Team X Design Team](jpl_if.md), Jet Propulsion Laboratory, Pasadena, CA, USA
 
 **NASA & JPL**
 
-   - [James A. Cutts](zz_cutts1.md), Jet Propulsion Laboratory, Pasadena, CA, USA
-   - [Adriana C. Ocampo](zz_ocampo1.md), NASA HQ, Washington, DC, USA
+   - [James A. Cutts](person.md), Jet Propulsion Laboratory, Pasadena, CA, USA
+   - [Adriana C. Ocampo](person.md), NASA HQ, Washington, DC, USA
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **COMMUNITY**
 
 **Venus Exploration Analysis Group (VEXAG)**  
-The United States Venus science & technology community is represented by the [Venus Exploration Analysis Group (VEXAG)](vexag.md), which was established by NASA in July 2005 to identify scientific priorities & strategy for exploration of Venus. VEXAG is currently composed of two co‑chairs, [Sue Smrekar](zz_smrekar1.md) & [Sanjay Limaye](zz_limaye1.md), & four focus groups. Past VEXAG chairs & co‑chairs were [Ellen Stofan](zz_stofan1.md), Sushil Atreya & [Janet Luhmann](zz_luhmann1.md). The Focus Groups are:  
-• Venus‑Earth Climate Connections. Lead: [David Grinspoon](zz_grinspoon1.md), Denver Museum of Nature & Science.  
-• Venus Exploration Laboratory Measurements. Lead: [Mark Allen](zz_allen1.md), JPL.  
-• Planetary Formation/Evolution: Surface & Interior, Volcanism, Geodynamics, etc. Lead: [Steve Mackwell](zz_mackwell1.md), LPI.  
-• Atmo Evolution: Dynamics/Meteorology, Chem, Solar Wind Interaction, Escape, etc. Lead: [Kevin Baines](zz_baines1.md), JPL.  
-• Venus Exploration Technologies. Lead: [James Cutts](zz_cutts1.md), JPL.  
+The United States Venus science & technology community is represented by the [Venus Exploration Analysis Group (VEXAG)](vexag.md), which was established by NASA in July 2005 to identify scientific priorities & strategy for exploration of Venus. VEXAG is currently composed of two co‑chairs, [Sue Smrekar](person.md) & [Sanjay Limaye](person.md), & four focus groups. Past VEXAG chairs & co‑chairs were [Ellen Stofan](person.md), Sushil Atreya & [Janet Luhmann](person.md). The Focus Groups are:  
+• Venus‑Earth Climate Connections. Lead: [David Grinspoon](person.md), Denver Museum of Nature & Science.  
+• Venus Exploration Laboratory Measurements. Lead: [Mark Allen](person.md), JPL.  
+• Planetary Formation/Evolution: Surface & Interior, Volcanism, Geodynamics, etc. Lead: [Steve Mackwell](person.md), LPI.  
+• Atmo Evolution: Dynamics/Meteorology, Chem, Solar Wind Interaction, Escape, etc. Lead: [Kevin Baines](person.md), JPL.  
+• Venus Exploration Technologies. Lead: [James Cutts](person.md), JPL.  
 The focus groups will actively solicit input from the scientific community. VEXAG will report its findings & provide input to NASA, but will not make recommendations. In addition to interested members of the scientific community, each focus group will include technology experts, NASA representatives, international partner representatives, Education & Public Outreach (EPO) experts, & the VEXAG chair. The current focus groups & their leads’re listed above. Other focus groups may be added, as needed. Further information on VEXAG & its activities can be found at: <http://www.lpi.usra.edu/vexag/>. NASA & LPI contacts:  
-• Dr. [Adriana Ocampo](zz_ocampo1.md), NASA Headquarters  
-• Dr. [Thomas W. Thompson](zz_thompson1.md), NASA/JPL  
-• Dr. [Steve Mackwell](zz_mackwell1.md), LPI
+• Dr. [Adriana Ocampo](person.md), NASA Headquarters  
+• Dr. [Thomas W. Thompson](person.md), NASA/JPL  
+• Dr. [Steve Mackwell](person.md), LPI
 
 **European Venus Explorer (EVE)**  
 In Europe, the European Venus Explorer (EVE) is a mission proposed to the European Space Agency (ESA). While it was not selected in the first round under ESA’s Cosmic Vision program, the mission will be re‑proposed for the next opportunity, to be launched after 2020. The EVE mission would focus on the evolution of Venus & its climate, with relevance to terrestrial planets everywhere. The originally proposed architecture included an orbiter, a cloud level balloon, & a lander. This would be an international project, with participation from across Europe, Russia, the USA, Japan & Canada. Further details can be found at: <http://www.aero.jussieu.fr/EVE/index.htm>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **LIBRARY**
 
@@ -571,27 +571,27 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Study Team — All**
 
 |*Photo*|*Bio*| |*Photo*|*Bio*|
 |:--|:--|:--|:--|:--|
-|![](f/project/v/venus_flagship_mission/person_balint.jpg)|**[Tibor S. Balint](zz_balint1.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_bullock.jpg)|**[Mark A. Bullock](zz_bullock1.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu>|
-|![](f/project/v/venus_flagship_mission/person_cutts.jpg)|**[James A. Cutts](zz_cutts1.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_grinspoon.jpg)|**[David H. Grinspoon](zz_grinspoon1.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org>|
-|![](f/project/v/venus_flagship_mission/person_hall.jpg)|**[Jeffery L. Hall](zz_hall1.md)**<br> Study Lead Phase 2,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Jeffery.L.Hall@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_head.jpg)|**[Jim W. Head](zz_head1.md)**<br> Venus Flagship Mission Science & Technology Definition Team,<br> Brown University,<br> E‑mail:<br> <james_head@brown.edu>|
-|![](f/project/v/venus_flagship_mission/person_kerzhanovich.jpg)|**[Viktor Kerzhanovich](zz_kerzhanovich1.md)**<br> Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Viktor.V.Kerzhanovich@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_kolawa.jpg)|**[Elizabeth Kolawa](zz_kolawa1.md)**<br> Lead, Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <elizabeth.a.kolawa@jpl.nasa.gov>|
-|![](f/project/v/venus_flagship_mission/person_kwok.jpg)|**[Johnny Kwok](zz_kwok1.md)**<br> Phase 1 Study Lead,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Johnny.H.Kwok@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_peterson.jpg)|**[Craig Peterson](zz_peterson1.md)**<br> JPL Venus Flagship Mission Architecture Study Team,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Craig.E.Peterson@jpl.nasa.gov>|
-|![](f/project/v/venus_flagship_mission/person_senske.jpg)|**[David Senske](zz_senske1.md)**<br> Venus Science & Technology Definition Team (STDT) Vice‑Chair,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <David.A.Senske@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_stofan.jpg)|**[Ellen Stofan](zz_stofan1.md)**<br> Former Chair, Venus Exploration Analysis Group (VEXAG),<br> E‑mail:<br> <estofan@starpower.net>|
+|![](f/project/v/venus_flagship_mission/person_balint.jpg)|**[Tibor S. Balint](person.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_bullock.jpg)|**[Mark A. Bullock](person.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu>|
+|![](f/project/v/venus_flagship_mission/person_cutts.jpg)|**[James A. Cutts](person.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_grinspoon.jpg)|**[David H. Grinspoon](person.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org>|
+|![](f/project/v/venus_flagship_mission/person_hall.jpg)|**[Jeffery L. Hall](person.md)**<br> Study Lead Phase 2,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Jeffery.L.Hall@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_head.jpg)|**[Jim W. Head](person.md)**<br> Venus Flagship Mission Science & Technology Definition Team,<br> Brown University,<br> E‑mail:<br> <james_head@brown.edu>|
+|![](f/project/v/venus_flagship_mission/person_kerzhanovich.jpg)|**[Viktor Kerzhanovich](person.md)**<br> Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Viktor.V.Kerzhanovich@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_kolawa.jpg)|**[Elizabeth Kolawa](person.md)**<br> Lead, Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <elizabeth.a.kolawa@jpl.nasa.gov>|
+|![](f/project/v/venus_flagship_mission/person_kwok.jpg)|**[Johnny Kwok](person.md)**<br> Phase 1 Study Lead,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Johnny.H.Kwok@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_peterson.jpg)|**[Craig Peterson](person.md)**<br> JPL Venus Flagship Mission Architecture Study Team,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Craig.E.Peterson@jpl.nasa.gov>|
+|![](f/project/v/venus_flagship_mission/person_senske.jpg)|**[David Senske](person.md)**<br> Venus Science & Technology Definition Team (STDT) Vice‑Chair,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <David.A.Senske@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_stofan.jpg)|**[Ellen Stofan](person.md)**<br> Former Chair, Venus Exploration Analysis Group (VEXAG),<br> E‑mail:<br> <estofan@starpower.net>|
 
 
 
-<br><br><br><p style="page-break-after:always"> </p>
+<br><br><br><p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

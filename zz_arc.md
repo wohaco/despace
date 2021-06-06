@@ -4,11 +4,13 @@
 |[![](f/contact/a/arc_logo1_thumb.jpg)](f/contact/a/arc_logo1.png)|<arc-publicinquiries@mail.nasa.gov>, +1(650)604-5000, Fax: …;<br> *Public Affairs Office, NASA Ames Research Center, Mail Stop 204-14, Moffett Field, CA, 94035-0001, USA*|
 |:--|:--|
 |Link|<https://www.nasa.gov/ames><br> <https://en.wikipedia.org/wiki/Ames_Research_Center><br> <https://ru.wikipedia.org/wiki/Исследовательский_центр_Эймса>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Исследовательский центр Эймса (Ames Research Center, ARC)** — отделение правительственного агентства НАСА, расположенное на территории аэропорта Моффет‑Филда, недалеко от Маунтин‑Вью (Калифорния). Основано 20 декабря 1939 как вторая лаборатория National Advisory Committee for Aeronautics (NACA), ставшая частью НАСА в   1958. Центр назван в честь профессора физики Джозефа Эймса, сооснователя и председателя (1919—1939) комитета NASA.
-
-
-<p style="page-break-after:always"> </p>
 
 Центр Эймса является одним из основных центров НАСА, и расположен в Кремниевой долине, вблизи от множества высокотехнологичных компаний, корпоративных инвестфондов, университетов и множества лабораторий которые заслужили для этой местности репутацию места где развиваются новые технологии. Значение центра, если учесть его 2300 исследователей и 860 млн ежегодный бюджет, также достаточно велико.
 
@@ -16,3 +18,7 @@
 
 Ames является центром нескольких ключевых научных миссий НАСА (Миссии Кеплера, LCROSS, SOFIA, LADEE). Значительный вклад внесен в проект Exploration (КА Orion и РН Ares I). 
 
+
+<p style="page-break-after:always"> </p>
+
+…

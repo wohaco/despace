@@ -11,7 +11,7 @@
 
 [![](f/project/v/venera_7/pic01_thumb.jpg)](f/project/v/venera_7/pic01.jpg) [![](f/project/v/venera_7/pic02_thumb.jpg)](f/project/v/venera_7/pic02.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -61,7 +61,7 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 The spacecraft was launched from Earth on 17 August 1970, at 05:38 UTC. It consisted of an orbiter based on the 3MV system and a lander. During the flight to Venus two in-course corrections were made using the bus’s on-board KDU-414 engine.
@@ -78,7 +78,7 @@ The lander provided information about the surface of Venus ([EVN‑006](venus.md
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 The purpose of the launch of the automatic station Venera 7 was to deliver the lander to the surface of Venus. This would be the first landing of a workable spacecraft on another planet.
@@ -98,7 +98,7 @@ The composition of scientific equipment was completely changed. The orbiter carr
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 The lander was designed to be able to survive pressure of up to 180 ㍴ (18 000 ㎪) and temperatures of 580 ℃. Design of the Venera 7 took into account the data obtained by the previous [Venera 4](venera_4.md), [Venera 5](venera_5_6.md) and [Venera 6](venera_5_6.md) spacecraft. From calculations made on the basis of data obtained during previous expeditions, it was assumed that the surface pressure can teach values of 100 atm, the temperature is 500 ℃ and the wind speed at the surface is 1.5 ㎧. To withstand such pressure, the body of the lander was not made of aluminum-magnesium alloy «АМг6» as the previous Venera, but of titanium, so it was able to withstand pressures up to 180 atm.
@@ -113,18 +113,18 @@ In connection with the increase of almost 100 ㎏ of the mass of the lander in
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
 **PEOPLE:**
 
    - **Leaders**
-      1. [Georgiy Nikolayevich Babakin](zz_babakin1.md) (Георгий Николаевич Бабакин) — chief design engineer.
+      1. [Georgiy Nikolayevich Babakin](person.md) (Георгий Николаевич Бабакин) — chief design engineer.
    - **Members**
-      1. [Mikhail Yakovlevich Marov](zz_marov1.md) (Михаил Яковлевич Маров) — led the team to decode data from Venera 7, astronomer.
+      1. [Mikhail Yakovlevich Marov](person.md) (Михаил Яковлевич Маров) — led the team to decode data from Venera 7, astronomer.
       1. Oleg Nikolaevich Rzhiga (Олег Николаевич Ржига) — astronomer, scientist.
-      1. [Vladimir Pavlovich Dolgopolov](zz_dolgopolov1.md) (Владимир Павлович Долгополов)
+      1. [Vladimir Pavlovich Dolgopolov](person.md) (Владимир Павлович Долгополов)
 
 **COMMUNITY:**
 
@@ -132,12 +132,12 @@ In connection with the increase of almost 100 ㎏ of the mass of the lander in
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

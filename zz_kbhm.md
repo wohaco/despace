@@ -4,6 +4,11 @@
 |[![](f/contact/k/kbhm_logo1_thumb.jpg)](f/contact/k/kbhm_logo1.png)|<kbhimmash@khrunichev.ru>, +7(499)429-03-55 — канцелярия, +7(499)429-03-04, Fax: +7(499)429-03-02,  +7(499)429-03-03;<br> *Россия, 141070, Московская обл., г. Королёв, ул. Богомолова, д. 12*|
 |:--|:--|
 |Link|<http://www.kbhmisaeva.ru/><br> <http://www.khrunichev.ru/main.php?:id=123><br> <https://en.wikipedia.org/wiki/A.M._Isayev_Chemical_Engineering_Design_Bureau><br> <https://ru.wikipedia.org/wiki/Конструкторское_бюро_химического_машиностроения_имени_А._М._Исаева>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **КБхиммаш им. А.М. Исаева (КБХМ)** — филиал [ГКНПЦ Хруничева](zz_khrunichev.md), занимается проектированием, экспериментальной отработкой, исследованиями и изготовлением двигателей КА и ракет. КБХМ имеет опыт и возможности, позволяющие разрабатывать, отрабатывать и поставлять:
 
@@ -26,4 +31,4 @@
    - товары народного потребления;
    - продукция технического назначения и услуги.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>

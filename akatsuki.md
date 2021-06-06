@@ -11,7 +11,7 @@
 
 [![](f/project/a/akatsuki/pic01_thumb.jpg)](f/project/a/akatsuki/pic01.png) [![](f/project/a/akatsuki/pic04_thumb.jpg)](f/project/a/akatsuki/pic04.png)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
@@ -71,7 +71,7 @@ Targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Description
 Exploring Venus helps get to know our planet better.
@@ -106,7 +106,7 @@ From October 2009 to January 2010, a public campaign was conducted by the [Plane
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Goals & Payload
 **The goal of the project** Akatsuki is a three-dimensional investigation of the movement of the Venusian atmosphere over time & the construction of the meteorology of Venus ([EVN‑074](venus.md)).
@@ -125,7 +125,7 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Spacecraft
 [![](f/project/a/akatsuki/pic03_thumb.jpg)](f/project/a/akatsuki/pic03.png)
@@ -205,17 +205,17 @@ The method of ringing the surface using the near‑IR range is also slightly dif
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Payload
 The payload includes 6 instruments, including 5 cameras for exploring Venus in the [range](rf.md) UV to mid-IR, as well as one instrument for radio transmission:
 
-   - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 ‑ 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near‑IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 ㎜ (f/4) & a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](zz_iwagami1.md) (ex. Tokyo Univ.).
-   - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface & near ‑ surface atmosphere (1.74 ‑ 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 ㎜ (f/4) & FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](zz_satoh1.md) (ISAS/JAXA).
-   - **Lightning & Airglow Camera (LAC)** — (range 552 ‑ 777 nm). Camera with FOV of 16°. Detector based on an array of avalanche photodiodes, in the form of a matrix of 8 × 8 pixels. [PI](principal_investigator.md) — [Yukihiro Takahashi](zz_takahashi1.md) (Hokkaido Univ.).
-   - **Longwave infrared camera (LIR)** — to study the structure of high‑altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV & 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](zz_taguchi1.md) (Rikkyo Univ.).
-   - **ultra‑Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](zz_imamura1.md) (Tokyo Univ.).
-   - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide & an unknown UV absorber (range 283 ‑ 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](zz_watanabe1.md) (Hokkaido Information Univ.).
+   - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 ‑ 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near‑IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 ㎜ (f/4) & a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](person.md) (ex. Tokyo Univ.).
+   - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface & near ‑ surface atmosphere (1.74 ‑ 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 ㎜ (f/4) & FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](person.md) (ISAS/JAXA).
+   - **Lightning & Airglow Camera (LAC)** — (range 552 ‑ 777 nm). Camera with FOV of 16°. Detector based on an array of avalanche photodiodes, in the form of a matrix of 8 × 8 pixels. [PI](principal_investigator.md) — [Yukihiro Takahashi](person.md) (Hokkaido Univ.).
+   - **Longwave infrared camera (LIR)** — to study the structure of high‑altitude clouds at the wavelengths at which they emit heat (range 10 µm). Camera with f/1.4, 12° FOV & 0.05° resolution. Detector with an uncooled microbolometer matrix with a resolution of 240 × 240 pixels. [PI](principal_investigator.md) — [Makoto Taguchi](person.md) (Rikkyo Univ.).
+   - **ultra‑Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](person.md) (Tokyo Univ.).
+   - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide & an unknown UV absorber (range 283 ‑ 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](person.md) (Hokkaido Information Univ.).
 
 ![](f/project/a/akatsuki/payload01.png)
 
@@ -225,7 +225,7 @@ The six instruments placed on Akatsuki are designed to study various aspects of 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### IR1 (1 µm camera)
 The observation of radio waves with a length of about 1 µm allows us to observe the lower layer of clouds & the near‑surface part of Venus, & by comparing the intensity of radiation at different IR wavelengths, it is possible to study the movement of the lower layer of clouds ([EVN‑011](venus.md)), water vapor distribution ([EVN‑077](venus.md)), surface mineral composition ([EVN‑023](venus.md)), & detect the presence of active volcanoes ([EVN‑076](venus.md)).
@@ -234,7 +234,7 @@ The observation of radio waves with a length of about 1 µm allows us to obser
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### IR2 (2 µm camera)
 Radio waves with a length of 2 µm coming from the regions of the bottom of the lower layer of the atmosphere allow to judge their density, cloud particle size, CO distribution, & other parameters, allowing to judge the movement of the atmosphere at low altitudes ([EVN‑011](venus.md)) & understand how the clouds of Venus are formed ([EVN‑075](venus.md)). The instrument also allows to measure the zodiacal light along the path of Venus in order to investigate the distribution of dust in the solar system ([ECT-002](ect2.md)).
@@ -243,7 +243,7 @@ Radio waves with a length of 2 µm coming from the regions of the bottom of th
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### LAC (Lightning & airglow camera)
 LAC allows to record flashes lasting up to 1/30 000 s, record lightning discharges of short duration & resolve the question of the presence of lightning in the atmosphere of Venus ([EVN‑012](venus.md)). It also allows to record the glow in the atmosphere caused by oxygen at the very top of the atmosphere at an altitude of about 100 ㎞, allowing to build a model of the movement of the atmosphere between the Sun & the shadow side of Venus ([EVN‑011](venus.md)).
@@ -252,7 +252,7 @@ LAC allows to record flashes lasting up to 1/30 000 s, record lightning disc
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### LIR (Long-wave infrared camera)
 The IR spectrum at a wavelength of 10 µm is used to measure the temperature of the upper atmosphere. This information can be used to obtain the distribution of altitudes, as well as horizontal & vertical flows in the upper atmosphere ([EVN‑010](venus.md)).
@@ -261,7 +261,7 @@ The IR spectrum at a wavelength of 10 µm is used to measure the temperature o
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### USO (ultra‑stable oscillator)
 When Akatsuki is obscured by Venus from observations from Earth, radio waves emitted by the spacecraft enter the atmosphere of Venus & reach the Earth ([EVN‑078](venus.md)). The transit of radio waves through the atmosphere of Venus causes a change in their frequency. By analyzing these changes, could be constructed vertical temperature profiles ([EVN‑010](venus.md)) & sulphuric acid mist ([EVN‑077](venus.md)). An ultra‑stable oscillator is used to generate the radio wave.
@@ -272,7 +272,7 @@ When Akatsuki is obscured by Venus from observations from Earth, radio waves emi
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### UVI (Ultraviolet imager)
 UVI takes pictures in the UV range, allowing to determine the distribution of SO₂ ([EVN‑077](venus.md)) related to the formation of clouds & the distribution of unidentified chemical substances that absorb UV rays ([EVN‑035](venus.md)). The instrument can also measure the wind speed of upper clouds ([EVN‑011](venus.md)), observing the spread of UV rays in the clouds of Venus.
@@ -281,7 +281,7 @@ UVI takes pictures in the UV range, allowing to determine the distribution of SO
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, links, people
 
@@ -293,22 +293,22 @@ UVI takes pictures in the UV range, allowing to determine the distribution of SO
 
 **Leadership:**
 
-   1. [Takeshi Imamura](zz_imamura1.md) — Member of the scientific group (former scientific director of the project), Tokyo Univ. (**Vice-manager**)
-   1. [Masato Nakamura](zz_nakamura1.md) — **Project manager**, ISAS/JAXA (**Director**)
-   1. [Takehiko Satoh](zz_satoh1.md) — Scientific director of the project, ISAS/JAXA
+   1. [Takeshi Imamura](person.md) — Member of the scientific group (former scientific director of the project), Tokyo Univ. (**Vice-manager**)
+   1. [Masato Nakamura](person.md) — **Project manager**, ISAS/JAXA (**Director**)
+   1. [Takehiko Satoh](person.md) — Scientific director of the project, ISAS/JAXA
 
 **Members:**
 
-   1. [Takafumi Hino](zz_hino1.md) — Network manager, National Inst. of Technology Matsue College
-   1. [Nobuaki Ishii](zz_ishii1.md) — **Main contact person**, ISAS/JAXA
-   1. [Naomoto Iwagami](zz_iwagami1.md) — former Tokyo Univ.
-   1. [Yeon Joo Lee](zz_lee1.md) — Member of the scientific group, Tokyo Univ.
-   1. [Shin-ya Murakami](zz_murakami1.md) — Member of the scientific group, ISAS/JAXA
-   1. [Javier Peralta](zz_peralta1.md) — Member of the scientific group, ISAS/JAXA
-   1. [Koichiro Sugiyama](zz_sugiyama1.md) — Member of the scientific group / Network manager, National Inst. of Technology, Matsue Coll.
-   1. [Makoto Taguchi](zz_taguchi1.md) — Rikkyo Univ.
-   1. [Yukihiro Takahashi](zz_takahashi1.md) — Hokkaido Univ.
-   1. [Shigeto Watanabe](zz_watanabe1.md) — Hokkaido Information Univ.
+   1. [Takafumi Hino](person.md) — Network manager, National Inst. of Technology Matsue College
+   1. [Nobuaki Ishii](person.md) — **Main contact person**, ISAS/JAXA
+   1. [Naomoto Iwagami](person.md) — former Tokyo Univ.
+   1. [Yeon Joo Lee](person.md) — Member of the scientific group, Tokyo Univ.
+   1. [Shin-ya Murakami](person.md) — Member of the scientific group, ISAS/JAXA
+   1. [Javier Peralta](person.md) — Member of the scientific group, ISAS/JAXA
+   1. [Koichiro Sugiyama](person.md) — Member of the scientific group / Network manager, National Inst. of Technology, Matsue Coll.
+   1. [Makoto Taguchi](person.md) — Rikkyo Univ.
+   1. [Yukihiro Takahashi](person.md) — Hokkaido Univ.
+   1. [Shigeto Watanabe](person.md) — Hokkaido Information Univ.
    1. Masatoshi Ebara — [linkedin ⎆](https://www.linkedin.com/in/masatoshi-ebara-944683160/) — NEC, System Manager and Deputy Project Manager.
 
 **COMMUNITIES:**
@@ -318,12 +318,12 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

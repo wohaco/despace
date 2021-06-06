@@ -4,10 +4,15 @@
 |[![](f/contact/t/tas_i_logo1_thumb.png)](f/contact/t/tas_i_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Канны, Франция*|
 |:--|:--|
 |Link|<http://www.thalesgroup.com/en/worldwide/space?:LangType=2057>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Thales Alenia Space**, также **Аления**, они же **Саления** — франко‑итальянский производитель в области аэрокосмической техники.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

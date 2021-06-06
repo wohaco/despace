@@ -5,6 +5,11 @@
 |:--|:--|
 |Contact| |
 |Link|<http://www.integ-japan.com/><br> <https://www.kratosdefense.com/products/space><br> <https://www.linkedin.com/company/integral-systems-inc./>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Kratos Integral Systems** is a company aimed for R&D [ground antennas](scs.md), optimizing/managing satelllites, signals.
 
@@ -30,7 +35,7 @@
       - Sizes Ranging from 2.4M to 18M
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

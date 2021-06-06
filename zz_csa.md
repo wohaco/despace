@@ -4,8 +4,14 @@
 |[![](f/contact/c/csa_logo1_thumb.jpg)](f/contact/c/csa_logo1.png)|<mark>noemail</mark>, +1(450)926-48-00, Fax: +1(450)926-43-52;<br> *6767 Route de l'Aeroport, Saint-Hubert, Quebec, J3Y 8Y9, Canada*|
 |:--|:--|
 |Link|<http://www.asc-csa.gc.ca/><br> <http://www.asc-csa.gc.ca/><br> <https://en.wikipedia.org/wiki/Canadian_Space_Agency><br> <https://ru.wikipedia.org/wiki/Канадское_космическое_агентство>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
-**Канадское космическое агентство (ККА)** *(англ. Canadian Space Agency, CSA, фр. Agence spatiale canadienne, ASC)* — канадское правительственное космическое агентство ответственное за канадскую космическую программу. Агентство было основано соответствующим актом о канадском космическом агентстве (Canadian Space Agency Act). Руководителем предприятия является президент, который отчитывается непосредственно министру промышленности. Основано 1 марта 1989 года.  
+**Канадское космическое агентство (ККА)** *(англ. Canadian Space Agency, CSA, фр. Agence spatiale canadienne, ASC)* — канадское правительственное космическое агентство ответственное за канадскую космическую программу. Агентство было основано соответствующим актом о канадском космическом агентстве (Canadian Space Agency Act). Руководителем предприятия является президент, который отчитывается непосредственно министру промышленности. Основано 1 марта 1989 года.
+
 Головной офис ККА находится в космическом центре Джона Чепмэна, расположенном в городке Сен‑Хуберт (Квебек). Ещё имеется офис агентства в Оттаве в лаборатории имени Дэвида Флориды, а также есть несколько отделов связи в Вашингтоне, Париже, Мысе Канаверал и Хьюстоне. The CSA has approximately **670 employees**. Nearly 90 % of its personnel work at its headquarters, the John H. Chapman Space Centre, located in Saint-Hubert, Quebec. The other staff members work out of the Gatineau office & the David Florida Laboratory, as well as in Houston, Washington & Paris.  
 
 The CSA focuses its activities & resources on three main areas:
@@ -16,7 +22,7 @@ The CSA focuses its activities & resources on three main areas:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 Миссия: The Canadian Space Agency (CSA) is responsible for advancing the knowledge of space through science; using its discoveries for the good of Canadians & all of humanity.
 

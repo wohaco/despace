@@ -4,12 +4,17 @@
 |[![](f/contact/r/rks_logo1_thumb.jpg)](f/contact/r/rks_logo1.png)|<contact@spacecorp.ru>, +7(495)509-12-01, +7(495)509-12-02, Fax: +7(495)509-12-00;<br> *Россия, 111250, Москва, ул. Авиамоторная, д. 53*|
 |:--|:--|
 |Link|<http://russianspacesystems.ru/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **<mark>Осторожно! [Болото](swamp.md)!</mark>**
 
 **АО «Российские космические системы»** — ведущее предприятие ракетно‑космической отрасли, специализирующееся на разработке, изготовлении, авторском сопровождении и эксплуатации космических информационных систем.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Продукция:**
 

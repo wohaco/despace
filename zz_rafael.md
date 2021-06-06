@@ -4,11 +4,16 @@
 |[![](f/contact/r/rafael_logo1_thumb.jpg)](f/contact/r/rafael_logo1.png)|<intl-mkt@rafael.co.il>, +972(73)335-4444, Fax: …;<br> *POB 2250, Haifa, 3102102 Israel*|
 |:--|:--|
 |Link|<https://www.rafael.co.il/><br> <https://en.wikipedia.org/wiki/Rafael_Advanced_Defense_Systems><br> <https://ru.wikipedia.org/wiki/Rafael>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Rafael** — израильская компания, производитель вооружения, входит в четвёрку крупнейших израильских фирм‑экспортёров вооружений. Создана в 1948 году. Основная область исследований: ракетные и авиационные технологии, системы ПВО, тактическое ракетное оружие.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

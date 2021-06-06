@@ -4,10 +4,13 @@
 |[![](f/contact/s/sat_biz_network_logo1_thumb.jpg)](f/contact/s/sat_biz_network_logo1.png)|<mark>noemail</mark>, +81-802-052-13-48, Fax: …;<br> *1-5-212, Iwaicho, Hodogaya, Yokohama, 240-0023, Japan*|
 |:--|:--|
 |Link|<https://sat-biznet.com/><br> <https://www.linkedin.com/pub/shigeki-kuzuoka/16/6a0/398>|
+|**Mission**|To be the bridge between Japanese & Global Space Business by connecting companies of all sizes through business & technical consultation services. We aim to offer the extensive knowledge of well‑experienced companies to start‑ups, while identifying & implementing disruptive innovations of the passionate new companies into corporations.|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Satellite Business Network Co., Ltd.** is a business & consulting firm focusing on the realm of space. We help businesses & technologies gain the traction they need to do business in space. The company is somewhat [Euroconsult](zz_euroconsult.md) Japan office. Founded in 2013.
-
-Our mission is to be the bridge between Japanese & Global Space Business by connecting companies of all sizes through business & technical consultation services. We aim to offer the extensive knowledge of well‑experienced companies to start‑ups, while identifying & implementing disruptive innovations of the passionate new companies into corporations.
 
    - Education, experience‑based training, & skills & knowledge training.
    - Corporate consultation regarding space business & technology. (policy/strategy analysis & formulation, market research/analysis, business plan formulation, overseas expansion/collaboration/M&A support, due diligence, technical investigation/analysis, consultation/proposals, etc.)
@@ -15,7 +18,7 @@ Our mission is to be the bridge between Japanese & Global Space Business by conn
    - Space technology startup support, including planning, implementation, management, & evaluations.
    - Technical consulting & support services for space industry companies & government organizations, including space policy & strategy, market surveys, market development, & overseas business development.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 Consultation Details
 

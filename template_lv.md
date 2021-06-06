@@ -14,7 +14,7 @@
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Falcon 9
 **…** — израильская одноразовая твердотопливная ракета‑носитель лёгкого класса.
@@ -22,7 +22,7 @@
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 |Активность|**Активен** (… ‑ …)|
-|[Аналоги](analogue.md)|[Ariane 5/6](arian.md) (Европа) ┊ [Ангара‑А5](angara.md) (РФ)|
+|[Аналоги](analogue.md)|[Ariane 5/6](arian.md) (Европа)┊ [Ангара‑А5](angara.md) (РФ)|
 |Длина/диаметр|… м / … м|
 |[Космодромы](spaceport.md)|[…](….md) (…)|
 |Масса старт./сух.|… ㎏ / … ㎏|
@@ -41,7 +41,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Архивные
 

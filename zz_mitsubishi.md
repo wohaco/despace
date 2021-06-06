@@ -4,6 +4,11 @@
 |[![](f/contact/m/mitsubishi_logo1_thumb.png)](f/contact/m/mitsubishi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
 |Link|<http://www.mitsubishielectric.com/bu/space/><br> <https://www.mhi.com/products/space><br> <https://www.linkedin.com/company/mitsubishielectric/><br> <https://www.linkedin.com/company/mitsubishi-heavy-industries/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Mitsubishi Electric (MELCO)** is a international space development & satellite construction company. Its *Space Division* has participated in high‑performance payloads & bus components in multiple world sat programs. MELCO is Japan’s only manufacturer with integrated capabilities covering the entire process from development & design to assembly & testing. Services & products of our near‑Earth sat programs: Ground Systems, Sat Platform DS2000, Sat Programs, Sat Communications, Sat Components.
 
@@ -46,4 +51,4 @@
    1. [Rocket Launcher](lv.md)
    1. Space Station: JEM (Japanese Experiment Module), H-II Transfer Vehicle (HTV)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>

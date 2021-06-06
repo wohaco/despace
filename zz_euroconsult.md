@@ -4,12 +4,17 @@
 |[![](f/contact/e/euroconsult_logo1_thumb.jpg)](f/contact/e/euroconsult_logo1.png)|<mark>noemail</mark>, +33(149)23-75-30, Fax: …;<br> *86 Boulevard de Sebastopol, 75003 Paris, France*|
 |:--|:--|
 |Link|<http://www.euroconsult-ec.com/><br> <https://www.linkedin.com/company/euroconsult/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Euroconsult** is the leading global consulting firm specializing in space markets.
 
 As a privately‑owned, fully independent firm, we provide first‑class strategic consulting, develop comprehensive research & organize executive‑level annual summits & training programs for the satellite industry. With more than 30 years of experience, Euroconsult is trusted by 600 clients in over 50 countries. Euroconsult is headquartered in France, with offices in the U.S., Canada & Japan.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
    - **Euroconsult - United States.** 2816 N Street, NW Washington, DC 2007, United States, +1(202)489‑50‑16
    - **Euroconsult - Canada.** 465 Rue McGill, Suite 1103, Montreal (QC) H2Y 2H1, Canada, +1(514)750‑96‑98

@@ -13,7 +13,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -57,7 +57,7 @@ Targets & investigations:
 
 </small>
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 
 ## Mission
@@ -137,7 +137,7 @@ In November 2011, NASA announced that the MESSENGER mission would be extended by
 MESSENGER’s **second extended mission** lasted for over two years, but as its low orbit degraded, it required reboosts to avoid impact. In November 2013, MESSENGER was among the numerous space assets that imaged Comet Encke (2P/Encke) and Comet ISON (C/2012 S1). As its orbit began to decay in early 2015, MESSENGER was able to take highly detailed close-up photographs of ice-filled craters and other landforms at Mercury’s north pole. After the mission was completed, review of the radio ranging data provided the first measurement of the rate of mass loss from the Sun. MESSENGER conducted its final reboost burns on October 24, 2014, and January 21, 2015, before crashing into Mercury on April 30, 2015.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 Mercury is one of the most poorly studied objects in the Solar system. Before MESSENGER it was investigated only by one spacecraft − Mariner-10, 3 times flew near the planet in 1974-1975. Less than half of the surface of Mercury was captured, and there was no data on the chemical composition, structure of the planet, and much more. To fill these gaps, NASA organized the Messenger mission. Specifically, the scientific objectives of the mission were:
@@ -158,56 +158,56 @@ Included two CCD cameras, a narrow-angle camera (NAC) and a wide-angle camera (W
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br>*Fly‑by Phase*<br> • Acquisition of near‑global coverage at ≈500 m/px.<br> • Multispectral mapping at ≈2 ㎞/px.<br>*Orbital Phase*<br> • A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> • A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> • Completion of the multispectral mapping begun during the fly‑bys.<br> • High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures.|[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
+|**Objectives:**<br><br>*Fly‑by Phase*<br> ・Acquisition of near‑global coverage at ≈500 m/px.<br> ・Multispectral mapping at ≈2 ㎞/px.<br>*Orbital Phase*<br> ・A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> ・A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> ・Completion of the multispectral mapping begun during the fly‑bys.<br> ・High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures.|[![](f/project/m/messenger/mdis.jpg)](f/project/m/messenger/mdis.jpg)|
 
 ### Gamma‑ray Spectrometer (GRS)
 Measured gamma‑ray emissions from the surface of Mercury to determine the planet’s composition by detecting certain elements (oxygen, silicon, sulfur, iron, hydrogen, potassium, thorium, uranium) to a depth of 10 ㎝.
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br> • Provide surface abundances of major elements.<br> • Provide surface abundances of Fe, Si, and K, infer alkali depletion from K abundances, and provide abundance limits on H (water ice) and S (if present) at the poles.<br> • Map surface element abundances where possible, and otherwise provide surface-averaged abundances or establish upper limits.|[![](f/project/m/messenger/grs.jpg)](f/project/m/messenger/grs.jpg)|
+|**Objectives:**<br><br> ・Provide surface abundances of major elements.<br> ・Provide surface abundances of Fe, Si, and K, infer alkali depletion from K abundances, and provide abundance limits on H (water ice) and S (if present) at the poles.<br> ・Map surface element abundances where possible, and otherwise provide surface-averaged abundances or establish upper limits.|[![](f/project/m/messenger/grs.jpg)](f/project/m/messenger/grs.jpg)|
 
 ### Neutron Spectrometer (NS)
 Determined the hydrogen mineral composition to a depth of 40 ㎝ by detecting low‑energy neutrons resulting from the collision of cosmic rays with the minerals.
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br> • Establish and map the abundance of hydrogen over most of the northern hemisphere of Mercury.<br> • Investigate the possible presence of water ice within and near permanently shaded craters near the north pole.<br> • Provide secondary evidence to aid in interpreting GRS measured gamma‑ray line strengths in terms of elemental abundances.<br> • Outline surface domains at the base of both northern and southern cusps of the magnetosphere where the solar wind can implant hydrogen in surface material.|[![](f/project/m/messenger/ns.jpg)](f/project/m/messenger/ns.jpg)|
+|**Objectives:**<br><br> ・Establish and map the abundance of hydrogen over most of the northern hemisphere of Mercury.<br> ・Investigate the possible presence of water ice within and near permanently shaded craters near the north pole.<br> ・Provide secondary evidence to aid in interpreting GRS measured gamma‑ray line strengths in terms of elemental abundances.<br> ・Outline surface domains at the base of both northern and southern cusps of the magnetosphere where the solar wind can implant hydrogen in surface material.|[![](f/project/m/messenger/ns.jpg)](f/project/m/messenger/ns.jpg)|
 
 ### X‑ray Spectrometer (XRS)
 Mapped mineral composition within the top millimeter of the surface on Mercury by detecting X‑ray spectral lines from magnesium, aluminum, sulphur, calcium, titanium, and iron, in the 1 – 10 keV range.
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br> • Determine the history of the formation of Mercury. <br> • Characterize the composition of surface elements by measuring the X‑ray emissions induced by the incident solar flux.|[![](f/project/m/messenger/xrs.jpg)](f/project/m/messenger/xrs.jpg)|
+|**Objectives:**<br><br> ・Determine the history of the formation of Mercury. <br> ・Characterize the composition of surface elements by measuring the X‑ray emissions induced by the incident solar flux.|[![](f/project/m/messenger/xrs.jpg)](f/project/m/messenger/xrs.jpg)|
 
 ### Magnetometer (MAG)
 Measured the magnetic field around Mercury in detail to determine the strength and average position of the field.
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br> • Investigate the structure of Mercury’s magnetic field and its interaction with the solar wind.<br> • Characterize the geometry and time variability of the magnetospheric field.<br> • Detect wave-particle interactions with the magnetosphere.<br> • Observe magnetotail dynamics, including phenomena possibly analogous to substorms in the Earth’s magnetosphere.<br> • Characterize the magnetopause structure and dynamics.<br> • Characterize field-aligned currents that link the planet with the magnetosphere.|[![](f/project/m/messenger/mag.jpg)](f/project/m/messenger/mag.jpg)|
+|**Objectives:**<br><br> ・Investigate the structure of Mercury’s magnetic field and its interaction with the solar wind.<br> ・Characterize the geometry and time variability of the magnetospheric field.<br> ・Detect wave-particle interactions with the magnetosphere.<br> ・Observe magnetotail dynamics, including phenomena possibly analogous to substorms in the Earth’s magnetosphere.<br> ・Characterize the magnetopause structure and dynamics.<br> ・Characterize field-aligned currents that link the planet with the magnetosphere.|[![](f/project/m/messenger/mag.jpg)](f/project/m/messenger/mag.jpg)|
 
 ### Mercury Laser Altimeter (MLA)
 Provided detailed information regarding the height of landforms on the surface of Mercury by detecting the light of an infrared laser as the light bounced off the surface.
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br> • Provide a high‑precision topographic map of the high northern latitude regions.<br> • Measure the long-wavelength topographic features at mid-to-low northern latitudes.<br> • Determine topographic profiles across major geologic features in the northern hemisphere.<br> • Detect and quantify the planet’s forced physical librations by tracking the motion of large-scale topographic features as a function of time.<br> • Measure the surface reflectivity of Mercury at the MLA operating wavelength of 1 064 nm.|[![](f/project/m/messenger/mla.jpg)](f/project/m/messenger/mla.jpg)|
+|**Objectives:**<br><br> ・Provide a high‑precision topographic map of the high northern latitude regions.<br> ・Measure the long-wavelength topographic features at mid-to-low northern latitudes.<br> ・Determine topographic profiles across major geologic features in the northern hemisphere.<br> ・Detect and quantify the planet’s forced physical librations by tracking the motion of large-scale topographic features as a function of time.<br> ・Measure the surface reflectivity of Mercury at the MLA operating wavelength of 1 064 nm.|[![](f/project/m/messenger/mla.jpg)](f/project/m/messenger/mla.jpg)|
 
 ### Mercury Atmospheric and Surface Composition Spectrometer (MASCS)
 Determined the characteristics of the tenuous atmosphere surrounding Mercury by measuring ultraviolet light emissions, and ascertained the prevalence of iron and titanium minerals on the surface by measuring the reflectance of infrared light.
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br> • Characterize the composition, structure, and temporal behavior of the exosphere.<br> • Investigate the processes that generate and maintain the exosphere.<br> • Determine the relationship between exospheric and surface composition.<br> • Search for polar deposits of volatile material, and determine how are the accumulation of these deposits are related to exospheric processes.|[![](f/project/m/messenger/mascs.jpg)](f/project/m/messenger/mascs.jpg)|
+|**Objectives:**<br><br> ・Characterize the composition, structure, and temporal behavior of the exosphere.<br> ・Investigate the processes that generate and maintain the exosphere.<br> ・Determine the relationship between exospheric and surface composition.<br> ・Search for polar deposits of volatile material, and determine how are the accumulation of these deposits are related to exospheric processes.|[![](f/project/m/messenger/mascs.jpg)](f/project/m/messenger/mascs.jpg)|
 
 ### Energetic Particle and Plasma Spectrometer (EPPS)
 Measured the charged particles in the magnetosphere around Mercury using an energetic particle spectrometer (EPS) and the charged particles that come from the surface using a fast imaging plasma spectrometer (FIPS).
 
 | | |
 |:--|:--|
-|**Objectives:**<br><br> • Determine the structure of the planet’s magnetic field.<br> • Characterize exosphere neutrals and accelerated magnetospheric ions.<br> • Determine the composition of the radar-reflective materialmaterials gyms at Mercury’s poles.<br> • Determine the electrical properties of the crust/atmosphere/environment interface.<br> • Determine characteristics of the dynamics of Mercury’s magnetosphere and their relationships to external drivers and their internal conditions.<br> • Measure interplanetary plasma properties in cruise and in Mercury vicinity.|[![](f/project/m/messenger/epps.jpg)](f/project/m/messenger/epps.jpg)|
+|**Objectives:**<br><br> ・Determine the structure of the planet’s magnetic field.<br> ・Characterize exosphere neutrals and accelerated magnetospheric ions.<br> ・Determine the composition of the radar-reflective materialmaterials gyms at Mercury’s poles.<br> ・Determine the electrical properties of the crust/atmosphere/environment interface.<br> ・Determine characteristics of the dynamics of Mercury’s magnetosphere and their relationships to external drivers and their internal conditions.<br> ・Measure interplanetary plasma properties in cruise and in Mercury vicinity.|[![](f/project/m/messenger/epps.jpg)](f/project/m/messenger/epps.jpg)|
 
 ### Radio Science (RS)
 Measured the gravity of Mercury and the state of the planetary core by utilizing the spacecraft’s positioning data.
@@ -219,7 +219,7 @@ Objectives:
    - Provide precise measurements of the range of the MESSENGER spacecraft to the surface of Mercury for determining proper altitude mapping with the MLA.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 
@@ -247,7 +247,7 @@ The spacecraft was powered by a two-panel 1.5 × 1.65 m gallium arsenide/g
 
 The spacecraft’s onboard computer system was contained in an Integrated Electronics Module. The computer featured two radiation-hardened IBM RAD6000s, a 25 ㎒ main processor, and a 10 ㎒ fault protection processor. For redundancy, the spacecraft carried a pair of identical IEMs. For data storage, the spacecraft carried two solid‑state recorders able to store up to one gigabyte each. The IBM RAD6000 main processor collected, compressed, and stored data from MESSENGER’s instruments for later playback to Earth.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 
 
@@ -276,12 +276,12 @@ The spacecraft’s onboard computer system was contained in an Integrated Electr
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

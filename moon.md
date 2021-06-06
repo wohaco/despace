@@ -7,7 +7,7 @@
 
 > <small>**Moon** — EN term. **Луна** — RU analogue.</small>
 
-**Moon** (astr. ☾ [❐](f/aob/moon/moon_symbol_svg.png), lat. *Luna*) is a natural satellite [of the Earth](earth.md). The closest satellite to the [Sun] (sun.md) planet, since the planets closest to the Sun, [Mercury](mercury.md) & [Venus](venus.md), have no satellites. The second brightest object in the Earth’s firmament after the Sun & the fifth largest natural satellite of the planet [solar system](solar_system.md). The average distance between the centers of the Earth & the Moon is 384 467 ㎞ (~30 Earth diameters). Has huge reserves of [helium-3](helium3.md). Moon Symbols: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
+**Moon** (astr. ☾ [❐](f/aob/moon/moon_symbol_svg.png), lat. *Luna*) is a natural satellite [of the Earth](earth.md). The closest satellite to the [Sun](sun.md) planet, since the planets closest to the Sun, [Mercury](mercury.md) & [Venus](venus.md), have no satellites. The second brightest object in the Earth’s firmament after the Sun & the fifth largest natural satellite of the planet [solar system](solar_system.md). The average distance between the centers of the Earth & the Moon is 384 467 ㎞ (~30 Earth diameters). Has huge reserves of [helium‑3](helium3.md). Moon Symbols: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
 
 |*Moon*| | |*Map*|
 |:--|:--|:--|:--|
@@ -24,7 +24,7 @@
 |**Orbits:**|• • •|
 |[Apocentre](apopericentre.md) (Apogee);<br> [Pericentre](apopericentre.md) (Perigee)|405 696 ㎞ (404 000 ‑ 406 700 ㎞);<br> 363 104 ㎞ (356 400 ‑ 370 400 ㎞)|
 |[Argument of periapsis](keplerian.md) (ω)|Progressing by one revolution in 8.85 years|
-|Day/year|14 d 18 h / … Earth’s|
+|Day/year|14 d 18 h (29.5306 d or 708.7344 h) / … Earth’s|
 |[Eccentricity](keplerian.md) (e)|0.054 9 (average)|
 |[Hill sphere](hill_sphere.md)|66 000 ㎞|
 |[Inclination](keplerian.md) (Ⅰ)|5.145° (to ecliptic)|
@@ -55,10 +55,10 @@
 |[Atmosphere](atmosphere.md)|**Composition:** He, Ar, Ne, Na, K, H, Rn.<br> **Density:** 1.2·10⁻¹³ ㎏/m³ (10⁻¹³ Earth’s).<br> **Pressure:** 10⁻⁷ ㎩ (1 pico㍴, day), 10⁻¹⁰ ㎩ (1 femto㍴, night).<br> **Winds:** none.|
 |[Illumination](illum.md)|200 (5.5°) ‑ 3 000 (90°) ㏓ (surface, 0.2 Earth’s)|
 |[Radiation](ion_rad.md)|(285 Earth’s):<br> 285 ㏜ / y (surface, 0.37 ㎜ aluminum);<br> 21.5 ㏜ / y (surface, 3.7 ㎜ aluminum);<br> 1.25 ㏜ / y (surface, 37 ㎜ aluminum);<br> 0.05 ㏜ / y (surface, 450 ㎜ thick aluminum shield)|
-|Temperature|Min. 100 K (−173 ℃);<br> Aver. 220 K (−53 ℃);<br> Max. 390 K (+117 ℃);<br> equator Min. 33 K (−240 ℃);<br> equator Aver. 130 K (−143 ℃);<br> equator Max. 230 K (−43 ℃)|
+|Temperature|Min. 100 K (−173 ℃)・ Aver. 220 K (−53 ℃)・ Max. 390 K (+117 ℃);<br> Equator: Min. 33 K (−240 ℃)・ Aver. 130 K (−143 ℃)・ Max. 230 K (−43 ℃)|
 
 ![](f/aob/moon/lunar_earth_signal.gif)  
-*Signal from Earth to Moon.*
+*Signal Earth → Moon.*
 
 [![](f/aob/moon/moov_v1_thumb.jpg)](f/aob/moon/moov_v1.png)  
 *Breaking velocity depending on the year (straight flight).*
@@ -71,7 +71,7 @@ The **moon rabbit** or **moon hare** is a mythical figure who lives on the Moon 
 
 ### Atmosphere & climate
 
-The radiation dose for the lunar surface is 285 higher than for Earth (5.95 ㏜ / 24 h) which means that without protection an inhabitant in 25 minutes will obtain the radiation dose that will dramatically increase the risk of cancer, & will be possibly dead in a couple of days after the 8 hours of exposure. In addition to this, the cosmic ionizing radiation & heavy particles (that are almost completely blocked by the Van Allen belts & Earth’s atmosphere) are not blocked at all on the lunar surface.
+The [radiation dose](ion_rad.md) for the lunar surface is 285 higher than for Earth (5.95 ㏜ / 24 h) which means that without protection an inhabitant in 25 minutes will obtain the radiation dose that will dramatically increase the risk of cancer, & will be possibly dead in a couple of days after the 8 hours of exposure. In addition to this, the cosmic ionizing radiation & heavy particles (that are almost completely blocked by the Van Allen belts & Earth’s atmosphere) are not blocked at all on the lunar surface.
 
 The possible acceptable dose for the surface operations can be assumed as 0.05 ‑ 0.1 ㏜/y. The average absorbed dose of solar & cosmic rays during the 5‑ 14 days of flight from Earth to the Lunar surface is 9.74 ㏜/y for the 3.7 ㎜ thick aluminum shield (45 % of the dose per year with the same shielding on the lunar surface). The major contribution (~99.986 %) is coming from the solar radiation while the aluminum shielding does not make any sufficient effect for cosmic rays. The average absorbed dose on the surface is:
 
@@ -82,7 +82,7 @@ The possible acceptable dose for the surface operations can be assumed as 0.05�
 |1.25|0.034 7|37|
 |0.05|0.031|450|
 
-Meteorites are moving with a speed up to 72 km/s & have a mass from 0.000001 to 0.01 g. Their distribution is almost even & their activity is almost constant. Meteorites with higher mass are eventual & not described here.
+Meteorites are moving with a speed up to 72 ㎞/s & have a mass from 0.000 001 to 0.01 g. Their distribution is almost even & their activity is almost constant. Meteorites with higher mass are eventual & not described here.
 
 
 
@@ -112,7 +112,7 @@ The lunar surface consists mostly of basalt & basalt rocks of different dimensio
 
 Other extremes at the Moon’s South Pole are not so dark & cold ­— there are also areas, near Shackleton crater for instance, that are bathed in sunlight for extended periods of time, over 200 Earth days of constant illumination. This happens also because of the Moon’s tilt & is a phenomenon that we experience at our own polar regions on Earth. Unrelenting sunlight is a boon to Moon missions, allowing explorers to harvest sunlight in order to light up a lunar base & power its equipment.
 
-The composition of the lunar regolith: fragments of stones, minerals, agglutination (connected by arrow‑shaped binder by ground elements), breccias & glasses (amorphous substances). Less different types of minerals have been found on the surface of the lunar surface (there are several thousand on Earth). The sample taken from the surface of the seas mainly consists of fragments of basalt stones. These stones contain minerals: pyroxenes (a group of minerals with the formula ABSi₂O₄, where A — magnesium / iron / calcium / sodium, B — magnesium / iron / aluminum), olivine, ilmenite FeTiO₃. The sample taken from the surface of heights (lands) mainly consists of plagioclases. Special properties: has an electric charge & magnetic properties;
+The composition of the lunar regolith: fragments of stones, minerals, agglutination (connected by arrow‑shaped binder by ground elements), breccias & glasses (amorphous substances). Less different types of minerals have been found on the surface of the lunar surface (there are several thousand on Earth). The sample taken from the surface of the seas mainly consists of fragments of basalt stones. These stones contain minerals: pyroxenes (a group of minerals with the formula ABSi₂O₄, where A — magnesium / iron / calcium / sodium, B — magnesium / iron / aluminum), olivine, ilmenite FeTiO₃. The sample taken from the surface of heights (lands) mainly consists of plagioclases. Special properties: has an electric charge & magnetic properties.
 
 Even with a non‑military eye, the contrast of the lunar surface is noticeable — it is from dark & light areas. Areas are taken to be called, respectively, seas & lands (terrae / terra, also “hills”).
 
@@ -122,11 +122,11 @@ Both seas & lands have a large number of craters that appeared from impacts of m
 
 The internal shape of the crater is influenced by its size. Small craters (less than 15 ㎞ in diameter) are bowl‑shaped. Medium craters (20 to 175 ㎞) have a flat niche with a small hill in the center of the crater. Craters with a diameter of more than 175 ㎞ have complex concentric structures — with an increase in the diameter of the crater, ring ridges replace hills.
 
-By the number of craters, one can judge the geological age of the surface — the more craters, the older the surface (young surfaces have not yet had time to acquire craters). For example, the Earth's surface is considered young because it contains few craters. A consequence of the planet's geological activity is a constant change in its surface, due to which ancient craters disappear. At the same time, the surface of the Moon is very old — there are many craters on it. Moreover, the surface of the moon is uneven — the seas are considered younger, since there are fewer craters on their surface. The oldest surfaces in the solar system are those with the highest density in terms of the number of craters. This means that there are so many craters on the surface of a celestial body that no meteorite will any longer change their number in any collision with the surface. Some areas of the lunar surface are close to this state.
+By the number of craters, one can judge the geological age of the surface — the more craters, the older the surface (young surfaces have not yet had time to acquire craters). For example, the Earth’s surface is considered young because it contains few craters. A consequence of the planet’s geological activity is a constant change in its surface, due to which ancient craters disappear. At the same time, the surface of the Moon is very old — there are many craters on it. Moreover, the surface of the moon is uneven — the seas are considered younger, since there are fewer craters on their surface. The oldest surfaces in the solar system are those with the highest density in terms of the number of craters. This means that there are so many craters on the surface of a celestial body that no meteorite will any longer change their number in any collision with the surface. Some areas of the lunar surface are close to this state.
 
 The lunar surface is covered with a moderately moving layer of powdery soil, along given stones — regolith. Regolith is formed from dust, sand & debris ejected from the crater during its formation when struck by a meteorite. Each self‑respecting crater is surrounded by a layer of “discarded” material — “discarded canvas”. When leaving the collision site, large stones follow a hyperbolic trajectory.
 
-The average surface temperature during a lunar day (about a month by Earth standards) varies in the range from 400 K to 100 K at a rate of 5 K / h. Many craters in the polar regions are in constant shadow, so their surface temperature is low (about 40 ‑ 80 K) & almost does not change.
+The average surface temperature during a lunar day (about a month by Earth standards) varies in the range from 400 K to 100 K at a rate of 5 K/h. Many craters in the polar regions are in constant shadow, so their surface temperature is low (about 40 ‑ 80 K) & almost does not change.
 
 Based on various observations (missions Apollo, Surveyor‑3, etc.), statistics were formed on the observed number of microcraters (pits) per year per square meter.
 
@@ -168,7 +168,7 @@ In both areas there are breccias — fragments of several stones connected toget
 
 **Chemical composition**
 
-Lunar regolith consists of various chemical elements & compounds. The most common elements — carbon, hydrogen & nitrogen — are distributed over the entire lunar surface by solar winds. Compared to the Earth's soil, the lunar soil contains high concentrations of sulfur, iron, magnesium, manganese, calcium & nickel. Many of them are found in the oxides FeO, MnO, MgO, etc. The largest source of oxygen is ilmenite (FeTiO₃), which is mainly found in the “seas”.
+Lunar regolith consists of various chemical elements & compounds. The most common elements — carbon, hydrogen & nitrogen — are distributed over the entire lunar surface by solar winds. Compared to the Earth’s soil, the lunar soil contains high concentrations of sulfur, iron, magnesium, manganese, calcium & nickel. Many of them are found in the oxides FeO, MnO, MgO, etc. The largest source of oxygen is ilmenite (FeTiO₃), which is mainly found in the “seas”.
 
 The stones on the lunar surface contain a large number of refractory elements that form compounds with a high melting point, such as: calcium, aluminum, titanium. At the same time, there are few lightweight elements in them, for example, hydrogen, but they are rich in silicon & oxygen.
 
@@ -181,7 +181,7 @@ The age of a material can be judged by its saturation with radioactive elements.
 Some of the results of such studies:
 
    - The age of samples taken from the surfaces of the Sea of ​​Rains & the Ocean of Storms (brought to Earth by the Apollo 11 & Apollo 12 missions) is about 3.5 billion years. This is comparable to the oldest stones found on Earth.
-   - Samples of the “discarded canvas” lying near the basin of the Sea of ​​Rains (delivered by the Apollo 14 expedition) are more ancient — their age is about 3.9 billion years.
+   - Samples of the “discarded canvas” lying near the basin of the Sea of ​​Rains (delivered by the Apollo 14 expedition) are more ancient — their age is about 3.9 billion years.
    - Stones from the surface of the “earth” (Apollo 16) are about 4 billion years old.
    - The age of the oldest stone (discovered during the Apollo 17 mission) of all investigated is about 4.5 billion years.
 
@@ -189,7 +189,7 @@ The above results allow us to conclude that the study of the lunar soil & stones
 
 
 
-### Developing features
+## Developing features
 
 **Literature:**
 
@@ -197,20 +197,20 @@ The above results allow us to conclude that the study of the lunar soil & stones
 
 **Orbiter:**
 
-   - **Constraints**:
+   - **Constraints:**
       1. Do not forget maskons.
       1. Solar & cosmic rays may damage electronic/mechanical/bio elements.
 
 **Lander:**
 
-   - **Constraints**:
-      1. **Do not forget maskons.** Through, the lunar gravity is ⅙ of Earth's.
+   - **Constraints:**
+      1. **Do not forget maskons.** Through, the lunar gravity is ⅙ of Earth’s.
       1. **Almost no atmosphere.**
       1. **Lack of the Sun.** Completely no sunlight for a couple of Earth days or weeks. Thus, no solar power, low temperature, & significant temperature range during the day‑night change.
       1. **Solar & cosmic rays** may damage electronic/mechanical/bio elements.
       1. **Dust.** Has sharp corners, electrical & magnetic characteristics. May damage lungs & moving mechanical parts, conduct short circuits, adhere to metallic & magnetic surfaces. On the other hand, the dust can be removed using a generated electromagnetic field.
       1. **The communication** with Earth may not be constant or direct.
-      1. **Meteorites** are moving at speeds of 3 ‑ 72 km/s, not blocked by an atmosphere, have mostly small dimensions. Thus, there has to be protection or availability to maintain damages.
+      1. **Meteorites** are moving at speeds of 3 ‑ 72 ㎞/s, not blocked by an atmosphere, have mostly small dimensions. Thus, there has to be protection or availability to maintain damages.
    - **Possible [energy](sps.md) & [heat](tcs.md) solutions** (gather, store, convert):
       1. Electro‑mechanical accumulators
       1. Fueled sources
@@ -231,11 +231,41 @@ The above results allow us to conclude that the study of the lunar soil & stones
       1. Thick man‑made constructions
       1. Thin structures covered in the lunar soil
 
+**Effects of Lunar conditions to Earthlings** by Low gravity, Radiation, Isolation, Working in a small group, Small & sealed rooms, Not seeing Earth:
+
+   - Behavioural
+   - Cognitive
+   - Neurological
+   - Physiological
+   - Psychological
+   - Sociological
+
+Required [average ΔV](nnb.md):
+
+   - Earth → Low Earth orbit: 9.5 ㎞/s
+   - Low Earth orbit → Moon surface: 5.9 ㎞/s
+      - Low Earth orbit → Low lunar orbit: 4.0 ㎞/s
+      - Low lunar orbit → Lunar surface: 1.9 ㎞/s
+   - Moon surface → Earth re‑entry: 2.7 ㎞/s
+      - Lunar surface → Low lunar orbit: 1.9 ㎞/s
+      - Low lunar orbit → Low Earth orbit: 0.9 ㎞/s
+      - Replacing LEO with immediate re‑entry reduces ΔV
+   - To reach polar regions, a lunar polar orbit is required. This would increase the ΔV only marginally (~0.1 ㎞/s). However, polar orbits need specific launch windows, achievable only every ~2 weeks.
+
+Retrieval of ”space materials” (e.g., lunar, asteroidal, etc.) to Earth is not feasible for economic gain. As of 2021, no minerals, molecules, elements, or isotopes are worth fetching from space. H₂O has space applications. Retrieving it from space sources would be immediately economically beneficial. May be used for spacecraft propulsion, life‑support.
+
 In astronomy & astrophysics, a **mass concentration** (or **mascon**) is a region of a planet or moon’s crust that contains a large positive gravitational anomaly. In general, the word “mascon” can be used as a noun to refer to an excess distribution of mass on or beneath the surface of an astronomical body (with respect to some suitable average), such as is found around Hawaii on Earth. However, this term is most often used to describe a geologic structure that has a positive gravitational anomaly associated with a feature (e.g. depressed basin) that might otherwise have been expected to have a negative anomaly, such as the “mascon basins” on the Moon.
 
 The Moon is the most gravitationally “lumpy” major body known in the solar system. Its largest mascons can cause a plumb bob to hang about ⅓ of a degree off vertical, pointing toward the mascon, & increase the force of gravity by one‑half percent.
 
-![](f/aob/moon/moon_mascon-lp150q_grav_150.png)
+![](f/aob/moon/moon_mascon_lp150q_grav_150.png)
+
+**Q&A.**
+
+   - **“For the small lunar lander, which propulsion system is recommended? And what will be the recommended thruster configuration for braking, landing, & attitude control?”**<br> If there is a plan to land on a precise place then the chemical engines are the preferred ones. The more thrust & Isp you can reach, the more precise you can land. Surely, there can be used solid‑fueled or electric thrusters with deep modifications of the landing system, but this will lead to some kind of new technology for landing & possibly a pretty complex GNC system, but everything is possible.<br> The chemical thruster configuration depends on thruster manufacture possibilities, flight program (especially, requirements for the solar orientation), dealing with malfunctions leading to spacecraft destabilization, the GNC system possibilities, and, maybe the most important point, is how spacecraft designers can deal with this configuration, because, for example, Beresheet team had used, let’s say, the common configuration, but the spacecraft still failed. There can be marked out 3 major variants.<br> ➀ A single powerful thruster for everything with a deep regulation of thrust with(out) a small number of tiny thrusters for minor orientation. This allows to simplify a propulsion system but you have to deal with lowering the Isp during the non‑nominal thrusts. But that may lead to high demands to a GNC, & possibly the spacecraft has the lowest possibilities to handle failures. But possibly the most effective way.<br> ➁ A small number of not‑so‑powerful thrusters for major burns with several small thrusters for orientation & stabilization. Seems to be classic & the most used variant. Results may vary but looks like it may be pretty simple & can handle almost all possible failures even if the manufacturing quality is low.<br> ➂ A large number of low‑powerful thrusters for major burns with several small thrusters for orientation & stabilization. For the situation when you have high‑quality unified thrusters this can be a way to reduce time, cost. May lead to a pretty complex & heavy propulsion system design, but can be leveled by good characteristics of proven thrusters.
+   - **“What should be considered in designing the landing leg & footpad?”**<br> The spacecraft’s mass, dimensions, the position of CoM, supposed position after landing, landing speeds, overloads, surface relief, obstacles, payload, & other onboard equipment requirements possible risks, & other specific mission requirements.
+   - **“What will be the mandatory & optional sensors for the navigation during the landing phase? And for a high accurate land on the Moon.”**<br> Depending on the way you want to land, propulsion system configuration, GNC abilities, & the precision you can acquire on the lunar orbit, there can be 3 major variants.<br> ➀ LIDAR is mandatory, the camera is optional. Classic variant. Using the precise positioning on the lunar orbit, precise GNC, & propulsion, the landing can be performed using the only LIDAR. If all of these systems will be able to perform their duties with high quality then the LIDAR’s major role will be only to control the landing near the surface to avoid major obstacles. This variant may be the most complex to demonstrate a highly accurate land, but possibly it’s the most effective way, especially with cameras onboard.<br> ➁ Camera is mandatory, LIDAR is optional. Have less strict requirements for a spacecraft’s systems, but binded to the landing sites & dates due to the possibility to recognize obstacles only using shadows. It would be useful to obtain a high‑resolution 3D map of a landing site to perform a precise landing. Without a LIDAR there risks of not recognizing obstacles, but surely the precision of positioning is higher than ➀. Adding a LIDAR will place this variant on the same level with ➀.<br> ➂ Camera & LIDAR are mandatory. The most effective way, which can lower requirements for other systems.
+   - **“What should be considered in determining landing location on the Moon?”**<br> That depends on the design of a lander & landing device, acceptable overloads, & regions. If we’re talking about a classic 4‑legged soft landing then matters that have to be taken into account are: dimensions & distribution of obstacles & slopes which can damage a spacecraft or let it lose its stability, distribution of inclinations which a spacecraft can handle, possible risks of a slight missing of the supposed region, GNC’s & propulsion’s abilities, payload requirements, power requirements, Earth’s accessibility, & other specific mission requirements.
 
 
 
@@ -248,9 +278,10 @@ The Moon is the most gravitationally “lumpy” major body known in the solar s
 
 
 ### Timeline
-<https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
 
 <mark>TBD</mark>
+
+<https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
 
 
 
@@ -258,12 +289,19 @@ The Moon is the most gravitationally “lumpy” major body known in the solar s
 
 <mark>TBD</mark>
 
+   - **Conferences.** ([List of meetings and conferences ⎆](https://www.hou.usra.edu/meetings/calendar/) by Lunar and Planetary Institute)
+      1. [AAS Division for Planetary Sciences Annual meeting ⎆](https://dps.aas.org/meetings/future)
+      1. [Earth and Planetary Science Conference ⎆](https://www.meetingsint.com/conferences/earthscience)
+      1. [Lunar and Planetary Science Conference ⎆](https://www.hou.usra.edu/meetings/lpsc2021/)
+      1. [Lunar Exploration Analysis Group ⎆](https://www.hou.usra.edu/meetings/leag2020/)
+      1. [Lunar Surface Science Workshop ⎆](https://www.hou.usra.edu/meetings/lunarsurface2020/)
 
 
-<p style="page-break-after:always"> </p>
+
+<p style="page-break-after:always"> </p>
 
 ### Projects
-See also «[Projects](project.md)».
+See also “[Projects](project.md)”.
 
 **Hypothetical & Historical:**
 
@@ -285,24 +323,22 @@ See also «[Projects](project.md)».
 
 ![](f/aob/moon/moon_landing_sites_ru.png)
 
-**Table.** Missions/spacecraft of past & future. <small>(**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)</small>
+**Table.** Missions/spacecraft of past & future. (**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)
 
-<small>
-
-|*✔*|*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
+| |*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|—|**Proposed:**|—|—|—|—|—|—|—|—|
+|—|**・Proposed・**|—|•|•|•|•|•|•|—|
 |CN|[Chang'e-5](chang_e_5.md)| | | | | | | |<mark>TBD</mark>|
 |CN|[Chang'e-4](chang_e_4.md)| | |C| | | | |<mark>TBD</mark>|
 |RU|[Луна‑29](луна_29.md) Ⓛ| | |C| | |S| |<mark>TBD</mark>|
-|—|**Developing:**|—|—|—|—|—|—|—|—|
+|—|**・Developing・**|—|•|•|•|•|•|•|—|
 |RU|[Луна‑28](луна‑28.md) (ЛГР) Ⓛ|2025| |C| | | | |<mark>TBD</mark>|
 |RU|[Луна‑27](луна_27.md) (ЛР1) Ⓛ|2025| |C| | | | |<mark>TBD</mark>|
 |RU|[Луна‑26](луна_26.md) (ЛРОА) Ⓛ|2021|D| | | | | |<mark>TBD</mark>|
 |RU|[Луна‑25](луна_25.md) (ЛГ) Ⓛ|2021| |C| | | | |<mark>TBD</mark>|
-|—|**Active:**|—|—|—|—|—|—|—|—|
+|—|**・Active・**|—|•|•|•|•|•|•|—|
 |…|…|…| | | | | | |<mark>TBD</mark>|
-|`—`|**`Разработанные:`**|—|—|—|—|—|—|—|—|
+|—|**・Past・**|—|•|•|•|•|•|•|—|
 |IL|[Beresheet](beresheet.md)|2019.02.22| |C| | | |X|<mark>TBD</mark>|
 |JP|[SELENE-2](selene_2.md)|2018|D|C| | | | |<mark>TBD</mark>|
 |EU|[Lunar Lander](lunar_lander.md)|2018| |C| | | | |<mark>TBD</mark>|
@@ -358,7 +394,6 @@ See also «[Projects](project.md)».
 |SU|[Луна‑2](луна_2.md) Ⓛ|1959.09.12| |C| | | | |<mark>TBD</mark>|
 |SU|[Луна‑1](луна_1.md) Ⓛ|1959.01.02|D|C| | | | |<mark>TBD</mark>|
 
-</small>
 
 
 #### Artemis
@@ -376,7 +411,7 @@ Content: <mark>TBD</mark>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science & tech targets
 Just a preliminary list of the targets & explorations for the Moon.
@@ -515,20 +550,20 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### EMN‑001 ‑ 009
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Docs & links (TRANSLATEME ALREADY)
+## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md) ┊ [Astro.object](aob.md) ┊ [Blue Marble](earth.md) ┊ [Cosmic rays](cr.md) ┊ [Ecliptic](ecliptic.md) ┊ [Escape velocity](esc_vel.md) ┊ [Health](health.md) ┊ [Hill sphere](hill_sphere.md) ┊ [Information](info.md) ┊ [Lagrangian points](l_points.md) ┊ [Near space](near_space.md) ┊ [Pale Blue Dot](earth.md) ┊ [Parallax](parallax.md) ┊ [Point Nemo](earth.md) ┊ [Silver Snoopy award](silver_snoopy_award.md) ┊ [Solar constant](solar_const.md) ┊ [Terminator](terminator.md) ┊ [Time](time.md) ┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md) ┊ [Callisto](callisto.md) ┊ [Ceres](ceres.md) ┊ [Deimos](deimos.md) ┊ [Earth](earth.md) ┊ [Enceladus](enceladus.md) ┊ [Eris](eris.md) ┊ [Europa](europa.md) ┊ [Ganymede](ganymede.md) ┊ [Haumea](haumea.md) ┊ [Iapetus](iapetus.md) ┊ [Io](io.md) ┊ [Jupiter](jupiter.md) ┊ [Makemake](makemake.md) ┊ [Mars](mars.md) ┊ [Mercury](mercury.md) ┊ [Moon](moon.md) ┊ [Neptune](neptune.md) ┊ [Nereid](nereid.md) ┊ [Nibiru](nibiru.md) ┊ [Oberon](oberon.md) ┊ [Phobos](phobos.md) ┊ [Pluto](pluto.md) ┊ [Proteus](proteus.md) ┊ [Rhea](rhea.md) ┊ [Saturn](saturn.md) ┊ [Sedna](sedna.md) ┊ [Solar day](solar_day.md) ┊ [Sun](sun.md) ┊ [Titan](titan.md) ┊ [Titania](titania.md) ┊ [Triton](triton.md) ┊ [Umbriel](umbriel.md) ┊ [Uranus](uranus.md) ┊ [Venus](venus.md)|
+|**··• [Space](index.md) •··**<br> [Apparent magnitude](app_mag.md)┊ [Astro.object](aob.md)┊ [Blue Marble](earth.md)┊ [Cosmic rays](cr.md)┊ [Ecliptic](ecliptic.md)┊ [Escape velocity](esc_vel.md)┊ [Health](health.md)┊ [Hill sphere](hill_sphere.md)┊ [Information](info.md)┊ [Lagrangian points](l_points.md)┊ [Near space](near_space.md)┊ [Pale Blue Dot](earth.md)┊ [Parallax](parallax.md)┊ [Point Nemo](earth.md)┊ [Silver Snoopy award](silver_snoopy_award.md)┊ [Solar constant](solar_const.md)┊ [Terminator](terminator.md)┊ [Time](time.md)┊ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)┊ [Callisto](callisto.md)┊ [Ceres](ceres.md)┊ [Deimos](deimos.md)┊ [Earth](earth.md)┊ [Enceladus](enceladus.md)┊ [Eris](eris.md)┊ [Europa](europa.md)┊ [Ganymede](ganymede.md)┊ [Haumea](haumea.md)┊ [Iapetus](iapetus.md)┊ [Io](io.md)┊ [Jupiter](jupiter.md)┊ [Makemake](makemake.md)┊ [Mars](mars.md)┊ [Mercury](mercury.md)┊ [Moon](moon.md)┊ [Neptune](neptune.md)┊ [Nereid](nereid.md)┊ [Nibiru](nibiru.md)┊ [Oberon](oberon.md)┊ [Phobos](phobos.md)┊ [Pluto](pluto.md)┊ [Proteus](proteus.md)┊ [Rhea](rhea.md)┊ [Saturn](saturn.md)┊ [Sedna](sedna.md)┊ [Solar day](solar_day.md)┊ [Sun](sun.md)┊ [Titan](titan.md)┊ [Titania](titania.md)┊ [Triton](triton.md)┊ [Umbriel](umbriel.md)┊ [Uranus](uranus.md)┊ [Venus](venus.md)|
 
    1. Docs:
       - [Модели грунта ❐](f/aob/moon/moon_soil_model.7z)

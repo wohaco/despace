@@ -4,6 +4,11 @@
 |[![](f/contact/p/polar_star_space_logo1_thumb.png)](f/contact/p/polar_star_space_logo1.jpg)|<pss_info@polarstarspace.com>, <+81-011-299-5502>, Fax: …; *〒001-0022 2-2-11 Kita 22 Jonishi, Kita-ku, Sapporo-shi, Hokkaido, Japan*|
 |:--|:--|
 |Link|<http://polarstarspace.com/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Polar Star Space CO., Ltd** is a venture company started by Hokkaido University that utilizes the technologies of Hokkaido University, Tohoku University and Shiga University of Medical Science as a base, in order to provide data-driven problem-solving services in the fields of agriculture, fishery, resources and energy, disaster prevention, etc. Founded 2017.09.
 
@@ -25,5 +30,6 @@ We make use of our proprietary measurement method with our proprietary smartphon
 Implementing a high-precision BRDF spectrum library can be a source of powerful competitive advantage for understanding the state of any target.
 The mission of Polar Star Space is to realize high-precision remote sensing ahead of the rest of the world, and contribute to solving global issues.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
+…

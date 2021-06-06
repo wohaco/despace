@@ -4,6 +4,11 @@
 |[![](f/contact/i/irap_logo1_thumb.jpg)](f/contact/i/irap_logo1.png)|<mark>noemail</mark>, +33(0)561-33-29-29, Fax: +33(0)561-33-28-88;<br> *OBSERVATOIRE MIDI-PYRENEES, 14, avenue Edouard Belin, 31400 TOULOUSE, France*|
 |:--|:--|
 |Link|<http://www.irap.omp.eu/en><br> <https://en.wikipedia.org/wiki/L'Institut_de_Recherche_en_Astrophysique_et_Planétologie>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 The **L'Institut de Recherche en Astrophysique et Planétologie (IRAP)**, formerly the Centre d'Etude Spatiale des Rayonnements (CESR), is a French laboratory of space astrophysics. It is located in Toulouse. The center’s main areas of investigation are: space plasmas, planetology, the high energy universe, & the cold universe. The center is jointly operated by CNRS & Toulouse’s Paul Sabatier University, & was opened on 1 January 2011.
 
@@ -12,7 +17,7 @@ The scientific objectives of the IRAP are the study & the understanding of the U
 With technical employees specialized in the field of conception, construction, integration & operation of ground & space instruments & laboratory experiments leading to characterise physical process, this new UMR of the  UPS backing on to the CNES is one of the main poles of the ground-space astrophysics in Fran
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

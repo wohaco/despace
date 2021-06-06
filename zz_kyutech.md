@@ -4,6 +4,11 @@
 |[![](f/contact/k/kyutech_logo1_thumb.jpg)](f/contact/k/kyutech_logo1.png)|<kok-ryugaku@jimu.kyutech.ac.jp>, +81-(0)93-884-3061, Fax: +81-(0)93-884-3059;<br> *1-1 Sensui-cho, Tobata-ku, Kitakyushu-shi, Fukuoka, 804-8550, Japan*|
 |:--|:--|
 |Link|<https://www.kyutech.ac.jp/><br> <https://www.linkedin.com/company/kyutech-institute-of-technology/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Kyushu Institute of Technology** (九州工業大学, Kyūshū Kōgyō Daigaku) is one of the 87 national universities in Japan. Located in Fukuoka Prefecture on the island of Kyushu, it is dedicated to education & research in the fields of science & technology. It’s often abbreviated to **KIT** & sometimes to **Kyutech**.
 
@@ -11,7 +16,7 @@ Notable space activities:
 
    - <https://kyutech-cent.net/seic/about.html> Space engineering international course (SEIC)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

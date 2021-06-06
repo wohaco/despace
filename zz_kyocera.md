@@ -4,6 +4,11 @@
 |[![](f/contact/k/kyocera_logo1_thumb.png)](f/contact/k/kyocera_logo1.png)|<mark>noemail</mark>, +81-75-604-3500, Fax: +81-75-604-3501;<br> *6 Takeda Tobadono-cho, Fushimi-ku, Kyoto-shi, Kyoto, 612-8501 Japan*|
 |:--|:--|
 |Link|<https://global.kyocera.com/><br> <https://en.wikipedia.org/wiki/Kyocera><br> <https://www.linkedin.com/company/kyocera-global/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Kyocera Corporation** (京セラ株式会社, Kyōsera Kabushiki-gaisha, pronounced kʲoːseɾa) is a Japanese multinational ceramics & electronics manufacturer headquartered in Kyoto, Japan. Founded in 1959.
 
@@ -19,7 +24,7 @@ It manufactures industrial ceramics, solar power generating systems, telecommuni
       - terminals for lithium-ion batteries used on the Hayabusa, an asteroid space probe, & the [Akatsuki](akatsuki.md), a space probe for exploring Venus,
       - Fuel tank penetration flange for H-I rockets.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

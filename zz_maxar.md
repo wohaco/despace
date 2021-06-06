@@ -4,6 +4,11 @@
 |[![](f/contact/m/maxar_logo1_thumb.png)](f/contact/m/maxar_logo1.png)|<info@maxar.com>, <mark>noworkphone</mark>, Fax: …;<br> *Maxar, 1300 W 120th Avenue, Westminster, CO 80234, USA*|
 |:--|:--|
 |Link|<https://www.maxar.com/><br> <https://en.wikipedia.org/wiki/Maxar_Technologies><br> <https://www.linkedin.com/company/maxar-technologies-ltd/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Maxar Technologies** Inc. is a space technology company headquartered in Westminster, Colorado, United States, specializing in manufacturing communication, Earth observation, radar, & on‑orbit servicing satellites, satellite products, & related services.
 
@@ -16,7 +21,7 @@ Offices:
    - Japan. Roppongi Hills North Tower 17F 6-2-31 Roppongi, Minato-ku, Tokyo, Japan 106-0032
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 Maxar’s most visible products include the Canadarm used on NASA’s Space Shuttle, as well as the Canadarm2 & Dextre remote manipulator systems used on the International Space Station.
 

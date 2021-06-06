@@ -4,6 +4,11 @@
 |[![](f/contact/g/geofizika_cosmos_logo1_thumb.jpg)](f/contact/g/geofizika_cosmos_logo1.png)|<info@geofizika-cosmos.ru>, +7(495)462-03-43, Fax: +7(495)462-13-14;<br> *Россия, 107497, Москва, ул. Иркутская, д. 11, корпус 1*|
 |:--|:--|
 |Link|<http://www.geofizika-cosmos.ru/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Акционерное общество "Научно‑производственное предприятие "Геофизика‑Космос"** — разработка и производство оптико‑электроники для систем ориентации и навигации космических аппаратов.
 
@@ -14,6 +19,6 @@
    - отдел кадров находится в фойе справа от входа.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

@@ -15,7 +15,7 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -41,7 +41,7 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 |Power|2 350 W (max.)|
 |Payload|1. VenSAR;<br> 2. VenSpec (VenSpec‑H, VenSpec‑M, VenSpec‑U);<br> 3. SRS|
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Projected** targets & objectives:
 
@@ -90,7 +90,7 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 The concept was selected in May 2018 as a finalist to become the fifth Medium‑class mission (M5) of the Cosmic Vision programme by the ESA. The other two finalists are SPICA (an infrared space telescope), & THESEUS (a gamma‑ray space observatory). The winner will be selected in 2021 & it would launch in 2032.
@@ -143,7 +143,7 @@ Considering the volume available on the launcher fairing, different configuratio
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 [![](f/project/e/envision/pic03_thumb.jpg)](f/project/e/envision/pic03.jpg)
@@ -208,20 +208,20 @@ Representing about 10 % of the Venus surface, tesserae may represent the oldes
 
 Given its similar size & bulk composition as Earth, Venus is expected to be volcanicly & tectonicly active today (unlike Mars, which, being only a tenth of Earth’s mass, has lost more of its internal heat). Steep slopes & landslides are common on Venus’ surface geology, implying active uplift, but existing data provide no constraint on current rates of tectonic activity. Comparaison of gravity mapping & topography have revealed some regions which appear to be at higher elevation than would be the case if the mantle were stagnant, implying that they lie atop magmatic upwelling. There are regions where volcanic activity is particularly likely to occur. Sites of potential volcanism identified in Venus Express data were in these locations. Therefore the observation & characterization of these regions are of high priority ([EVN‑029,076](venus.md)).
 
-**Radio Science Experiment**. To measure the gravity field of Venus at an unprecedented resolution.<br> [PI](principal_investigator.md) — [Caroline Dumoulin](zz_dumoulin1.md), LPG, Université de Nantes, France; [Pascal Rosenblatt](zz_rosenblatt1.md), LPG, Université de Nantes, France.
+**Radio Science Experiment**. To measure the gravity field of Venus at an unprecedented resolution.<br> [PI](principal_investigator.md) — [Caroline Dumoulin](person.md), LPG, Université de Nantes, France; [Pascal Rosenblatt](person.md), LPG, Université de Nantes, France.
 
 The notional payload consists of 3 instruments:
 
-   1. **VenSAR (Venus Synthetic Aperture Radar)** operates at 3.2 ㎓ in the S band (9.4 ㎝ wavelength) for spatial resolutions of 1 — 30 m. Operating at a frequency below 30 ㎒ has the advantage that the signal penetrates the ground, providing information on subsurface structures that are crucial to understanding the history of Venus. A sounder in the 9 — 30 ㎒ range is able to penetrate to a crustal depth of 750 — 340 m respectively & image subsurface features at a vertical resolution of 5 — 16 m. ([EVN‑042](venus.md), [EVN‑088](venus.md)) An earlier version of the proposal intended to use spare parts produced for the Earth‑orbiting Sentinel‑1 satellite.<br> [PI](principal_investigator.md) — [Richard Ghail](zz_ghail1.md), Royal Holloway, University of London, UK.
+   1. **VenSAR (Venus Synthetic Aperture Radar)** operates at 3.2 ㎓ in the S band (9.4 ㎝ wavelength) for spatial resolutions of 1 — 30 m. Operating at a frequency below 30 ㎒ has the advantage that the signal penetrates the ground, providing information on subsurface structures that are crucial to understanding the history of Venus. A sounder in the 9 — 30 ㎒ range is able to penetrate to a crustal depth of 750 — 340 m respectively & image subsurface features at a vertical resolution of 5 — 16 m. ([EVN‑042](venus.md), [EVN‑088](venus.md)) An earlier version of the proposal intended to use spare parts produced for the Earth‑orbiting Sentinel‑1 satellite.<br> [PI](principal_investigator.md) — [Richard Ghail](person.md), Royal Holloway, University of London, UK.
    2. **VenSpec (Venus Spectroscopy suite)** consists of 3 channels: VenSpec‑M (VEM), VenSpec‑U (VeSUV), VenSpec‑H (VIVO). This suite would search for temporal variations in surface temperatures & tropospheric concentrations of volcanic gases, indicative of volcanic eruptions.
-      - **VEM (VenSpec‑M)** would provide compositional data on rock types;<br> [PI](principal_investigator.md) — [Jörn Helbert](zz_helbert1.md), DLR Institute of Planetary Research, Berlin, Germany;
-      - **VeSUV (VenSpec‑U)** would monitor sulphured minor species (mainly SO & SO₂) as well as the mysterious UV absorber ([EVN‑035](venus.md)) in Venusian upper clouds;<br> [PI](principal_investigator.md) — [Emmanuel Marcq](zz_marcq1.md), LATMOS, IPSL, France;
-      - **VIVO (VenSpec‑H)** would perform extremely high resolution atmospheric measurements;<br> [PI](principal_investigator.md) — [Ann Carine Vandaele](zz_vandaele1.md), Royal Belgian Institute for Space Aeronomy (BIRA/IASB), Belgium.
-   3. **SRS (Subsurface Radar Sounder)** would image faults, stratigraphy & weathering in the upper ~100 m of the areas mapped by VenSAR, to identify structural relationships & geological history ([EVN‑041](venus.md)).<br> [PI](principal_investigator.md) — [Lorenzo Bruzzone](zz_bruzzone1.md), Università di Trento, Italy.
+      - **VEM (VenSpec‑M)** would provide compositional data on rock types;<br> [PI](principal_investigator.md) — [Jörn Helbert](person.md), DLR Institute of Planetary Research, Berlin, Germany;
+      - **VeSUV (VenSpec‑U)** would monitor sulphured minor species (mainly SO & SO₂) as well as the mysterious UV absorber ([EVN‑035](venus.md)) in Venusian upper clouds;<br> [PI](principal_investigator.md) — [Emmanuel Marcq](person.md), LATMOS, IPSL, France;
+      - **VIVO (VenSpec‑H)** would perform extremely high resolution atmospheric measurements;<br> [PI](principal_investigator.md) — [Ann Carine Vandaele](person.md), Royal Belgian Institute for Space Aeronomy (BIRA/IASB), Belgium.
+   3. **SRS (Subsurface Radar Sounder)** would image faults, stratigraphy & weathering in the upper ~100 m of the areas mapped by VenSAR, to identify structural relationships & geological history ([EVN‑041](venus.md)).<br> [PI](principal_investigator.md) — [Lorenzo Bruzzone](person.md), Università di Trento, Italy.
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VenSAR
 VenSAR is based on the NovaSAR‑S instrument built for the UK Space Agency & launched in 2018. NovaSAR‑S SAR Payload developed by Airbus Defence & Space is an active antenna is configured from an array of 18 identical phase centres each comprising a 2 × 2 array of dual polar, 6‑element sub‑arrays, designed for low‑cost Earth Observations & operating at 3.2 ㎓ (9.4 ㎝) in the S‑band, ideal for the Venus atmosphere. VenSAR adapts this modular design by taking 24 of these phase centres & configuring them into a six columns of four rows, producing a 5.47 × 0.60 m active phased array antenna capable of delivering five key science modes: InSAR (VI1 as standard, VI2 for orbit‑to‑orbit, & VI3 for opposite‑look), stereo polarimetry (VP1 StereoPolSAR), all at Reconnaissance scale (30 m resolution); Exploration scale imagery (VH1 HiRes at 6 m resolution); Locality‑scale Sliding Spotlight (VS1 Spotlight at 1 m resolution); & Zonal‑scale microwave brightness temperature (VR1 Radiometry).
@@ -234,7 +234,7 @@ Differential InSAR (DInSAR) is the only tool capable of measuring geological‑s
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VenSpec Suite
 
@@ -260,7 +260,7 @@ Thermally VenSpec will require a stabilized temperature reference point (e.g. a 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VenSpec‑H
 VenSpec‑H is a high‑resolution infrared spectrometer working in nadir viewing mode. It is an echelle grating spectrometer coupled to a high‑performance, actively‑cooled SOFRADIR HgCdTe detector, with an Acousto‑Optic Tunable Filter (AOTF) at its entrance for order selection (. These components are optimised for Venus atmospheric observations in the spectral range 1.0 — 2.5 μm.
@@ -279,7 +279,7 @@ The optics of the VenSpec‑H channel are divided in three main units :
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VenSpec‑M
 VenSpec‑M will use the methodology pioneered by VIRTIS on Venus Express but with more & wider spectral bands, the VenSAR‑derived DEM, & EnVision’s circular orbit to deliver near‑global multichannel spectroscopy with wider spectral coverage & an order of magnitude improvement in sensitivity. It will obtain repeated imagery of surface thermal emission, constraining current rates of volcanic activity following earlier observations from Venus Express.
@@ -296,14 +296,14 @@ The VenSpec‑M optics has a field of view (FOV) of 45°, equivalent to 307 �
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### VenSpec‑U
 VenSpec‑U is a dual channel (low resolution, hereafter LR: 190 — 380 nm; & high resolution, hereafter HR: 210 — 240 nm) UV spectral imager designed to monitor cloud top abundances of volcanic sulphured gases (SO, SO₂) as well as UV contrasts through spectral analysis of backscattered sunlight on the day side of Venus. The entrance objective is shared by both channels & consists in two lenses forming the image of the field of view (FOV) onto a common plane including two slits. Both slits (LR & HR) are parallel, & their corresponding FOV are slightly shifted in their narrow direction, equivalent to 9° (corresponding to 30 ㎞ at the cloud top level of observation). Each slit image is then spectrally dispersed by their respective toroidal holographic grating, & is formed on a shared E2V Capella CMOS detector. Therefore, the narrow‑slit axis of the detector contains the spectral information, whereas the long‑slit axis contains the spatial information along the 22.5° FOV of each slit. Binning on the spatial axis is performed on the CMOS, enabling a SNR ~ 100 for both channels (resulting in a coarser spatial resolution on the more dispersed HR channel). The remaining spatial direction is provided through orbital scrolling, an observational strategy known as pushbroom. Observations can be conducted in a strict nadir geometry (null emission angle), or in near‑nadir geometry (emission angle < 30°).
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### SRS
 The Subsurface Radar Sounder (SRS) is a nadir‑looking radar sounder instrument, which transmits low‑frequency radio waves with the unique capability to penetrate into the subsurface. When these radio waves travel through the subsurface, their reflected signal varies in power through the interaction with subsurface horizons & structures representing dielectric discontinuities. These varying reflections are detected by the radar sounder & used to create a depth image of the subsurface (referred to as radargram) & so map unexposed subsurface features. The design of the SRS instrument depends on the physical & electromagnetic modelling of the surface & subsurface targets.
@@ -333,7 +333,7 @@ In the nominal mode for science operation different parameters can be combined t
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### RSGE
 **Mapping the local gravity field**
@@ -352,7 +352,7 @@ The use of Ka‑band will provide for the first time the **opportunity to distin
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 Key principles of EnVision:
@@ -384,7 +384,7 @@ Chemical, electric & hybrid propulsion options were assessed, even if the hybrid
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 **PEOPLE:**
@@ -393,49 +393,49 @@ Chemical, electric & hybrid propulsion options were assessed, even if the hybrid
 
 **ESA‑NASA consortium**
 
-The mission is studied in collaboration with [NASA](zz_nasa.md), with the potential sharing of responsibilities currently under assessment. Main contact: [Ocampo, Adriana Christian](zz_ocampo1.md).
+The mission is studied in collaboration with [NASA](zz_nasa.md), with the potential sharing of responsibilities currently under assessment. Main contact: [Ocampo, Adriana Christian](person.md).
 
 **EnVision proposal team**
 
-   1. [Lorenzo Bruzzone](zz_bruzzone1.md) — Subsurface Sounding (SRS)
-   1. [Caroline Dumoulin](zz_dumoulin1.md) — Interior Structure & Dynamics
-   1. [Richard Ghail](zz_ghail1.md) — Radar Systems Engineering, **Lead proposer** (VenSAR)
-   1. [Jörn Helbert](zz_helbert1.md) — Thermal Infrared Mapping, Mineralogy (VenSpec‑M)
-   1. [Emmanuel Marcq](zz_marcq1.md) — UV Spectroscopy, Volcanic Gases (VenSpec‑U)
-   1. [Philippa Mason](zz_mason1.md) — Surface Processes
-   1. [Pascal Rosenblatt](zz_rosenblatt1.md) — Spin Dynamics
-   1. [Ann Carine Vandaele](zz_vandaele1.md) — IR Spectroscopy, Volcanic Gases (VenSpec‑H)
-   1. [Thomas Widemann](zz_widemann1.md) — UV, Visible & Infrared Spectroscopy, **Deputy lead**
-   1. [Colin Wilson](zz_wilson1.md) — Atmospheric Science, **Deputy lead**
+   1. [Lorenzo Bruzzone](person.md) — Subsurface Sounding (SRS)
+   1. [Caroline Dumoulin](person.md) — Interior Structure & Dynamics
+   1. [Richard Ghail](person.md) — Radar Systems Engineering, **Lead proposer** (VenSAR)
+   1. [Jörn Helbert](person.md) — Thermal Infrared Mapping, Mineralogy (VenSpec‑M)
+   1. [Emmanuel Marcq](person.md) — UV Spectroscopy, Volcanic Gases (VenSpec‑U)
+   1. [Philippa Mason](person.md) — Surface Processes
+   1. [Pascal Rosenblatt](person.md) — Spin Dynamics
+   1. [Ann Carine Vandaele](person.md) — IR Spectroscopy, Volcanic Gases (VenSpec‑H)
+   1. [Thomas Widemann](person.md) — UV, Visible & Infrared Spectroscopy, **Deputy lead**
+   1. [Colin Wilson](person.md) — Atmospheric Science, **Deputy lead**
 
 **Science Study Team (SST)**
 
-   1. [Veronique Ansan](zz_ansan1.md), LPG, University de Nantes, France
-   1. [Francesca Bovolo](zz_bovolo1.md), CICT, Fondazione Bruno Kessler, Italy
-   1. [Doris Breuer](zz_breuer1.md), DLR Institute of Planetary Research, Berlin, Germany
-   1. [Bruce Campbell](zz_campbell1.md), Center for Earth & Planetary Studies, National Air & Space Museum, Washington, DC
-   1. [Richard Ghail](zz_ghail1.md), Dpt. Earth Sciences, Royal Holloway, University of London, UK
-   1. [Walter Kiefer](zz_kiefer1.md), Lunar & Planetary Institute, Houston, TX
-   1. [Goro Komatsu](zz_komatsu1.md), IRSPS, Università degli Studi G. d’Annunzio Chieti e Pescara, Italy
-   1. [Alice Le Gall](zz_legall1.md), LATMOS, IPSL, France
-   1. [Philippa Mason](zz_mason1.md), Dpt. Earth Science & Engineering, Imperial College, London, UK
-   1. [Thomas Widemann](zz_widemann1.md), LESIA, Observatoire de Paris, France
-   1. [Colin Wilson](zz_wilson1.md), Dpt. Physics, University of Oxford, UK
+   1. [Veronique Ansan](person.md), LPG, University de Nantes, France
+   1. [Francesca Bovolo](person.md), CICT, Fondazione Bruno Kessler, Italy
+   1. [Doris Breuer](person.md), DLR Institute of Planetary Research, Berlin, Germany
+   1. [Bruce Campbell](person.md), Center for Earth & Planetary Studies, National Air & Space Museum, Washington, DC
+   1. [Richard Ghail](person.md), Dpt. Earth Sciences, Royal Holloway, University of London, UK
+   1. [Walter Kiefer](person.md), Lunar & Planetary Institute, Houston, TX
+   1. [Goro Komatsu](person.md), IRSPS, Università degli Studi G. d’Annunzio Chieti e Pescara, Italy
+   1. [Alice Le Gall](person.md), LATMOS, IPSL, France
+   1. [Philippa Mason](person.md), Dpt. Earth Science & Engineering, Imperial College, London, UK
+   1. [Thomas Widemann](person.md), LESIA, Observatoire de Paris, France
+   1. [Colin Wilson](person.md), Dpt. Physics, University of Oxford, UK
 
 **ESA Study Team**
 
-   1. [Jayne Lefort](zz_lefort1.md) — EnVision study operations manager
-   1. [Jens Romstedt](zz_romstedt1.md) — EnVision study payload manager
-   1. [Ana Rugina](zz_rugina1.md) — EnVision study system manager
-   1. [Dmitrij Titov](zz_titov1.md) — EnVision study scientist
-   1. [Thomas Voirin](zz_voirin1.md) — EnVision study manager
-   1. [Arno Wielders](zz_wielders1.md) — EnVision study deputy payload manager
+   1. [Jayne Lefort](person.md) — EnVision study operations manager
+   1. [Jens Romstedt](person.md) — EnVision study payload manager
+   1. [Ana Rugina](person.md) — EnVision study system manager
+   1. [Dmitrij Titov](person.md) — EnVision study scientist
+   1. [Thomas Voirin](person.md) — EnVision study manager
+   1. [Arno Wielders](person.md) — EnVision study deputy payload manager
 
 **EnVision Science Team**
 
 The EnVision Science study team & the EnVision proposal team are gathering support from the larger science community to form the EnVision Science Team.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **COMMUNITY:**
 
@@ -444,12 +444,12 @@ The first international conference to discuss the scientific investigations of t
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

@@ -4,6 +4,11 @@
 |[![](f/contact/p/pd_aerospace_logo1_thumb.jpg)](f/contact/p/pd_aerospace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3519 Arimatsu, Midori-ku, Nagoya, Aichi 458-0924, JP*|
 |:--|:--|
 |Link|<https://pdas.co.jp/><br> <https://en.wikipedia.org/wiki/PD_AeroSpace><br> <https://www.linkedin.com/company/pd-aerospace-ltd./>|
+|**Mission**|“Bringing Space Closer”. There are so many amazing possibilities in space, waiting to be discovered & understood. Perhaps, a new kind of resources or energy source is just around the corner. Space also enables us to reflect upon ourselves & Earth, to deeply understand the preciousness of life & nature. There are & will be challenges never seen or predicted during our journey to reach the stars. However, we chose to take upon this challenge, because we believe humanity can earn so much from space exploration. In order to bring space closer to us & move towards a more peaceful & prosperous world, PD Aerospace will continue to pursue the challenge in the field of space transportation.|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **PD Aerospace** (ＰＤエアロスペース株式会社, Pī Dī Earosupēsu Kabushiki-gaisha), often abbreviated **PDAS**, is a Japanese space tourism company based in Nagoya founded in 2007.05.30 by Shuji Ogawa.
 
@@ -11,9 +16,7 @@ The “PD” in the company’s name stands for “pulse detonation”. PDAS is 
 
 PDAS plans to develop a hybrid engine that produces jet & rocket thrust, using pulse detonation jet & pulse combustion rocket modes. To reduce the cost of development & keep the vehicle low‑cost, PDAS plans to use commercially available hardware, instead of custom‑designed parts. PDAS plans to launch an unmanned prototype in 2019, perform manned testing by 2020, & start commercial flights in 2023. H.I.S. & ANA own 10 % & 7 % of the company, respectively.
 
-<p style="page-break-after:always"> </p>
-
-**Mission Statement.** “Bringing Space Closer”. There are so many amazing possibilities in space, waiting to be discovered & understood. Perhaps, a new kind of resources or energy source is just around the corner. Space also enables us to reflect upon ourselves & Earth, to deeply understand the preciousness of life & nature. There are & will be challenges never seen or predicted during our journey to reach the stars. However, we chose to take upon this challenge, because we believe humanity can earn so much from space exploration. In order to bring space closer to us & move towards a more peaceful & prosperous world, PD Aerospace will continue to pursue the challenge in the field of space transportation.
+<p style="page-break-after:always"> </p>
 
 Corporate Philosophy
 

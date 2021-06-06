@@ -4,12 +4,17 @@
 |[![](f/contact/r/restec_logo1_thumb.jpg)](f/contact/r/restec_logo1.png)|<mark>noemail</mark>, +81-3-6435-6700, Fax: …;<br> *3 Chome-17-1 Toranomon, Minato City, Tokyo 105-0001, Japan*|
 |:--|:--|
 |Link|<https://www.restec.or.jp/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 The **Remote Sensing Technology Center of Japan (RESTEC)** founded in August 1975. For the last 35 years since its foundation, RESTEC has been receiving & processing data acquired by both domestic & foreign Earth‑observation satellites & providing those data to researchers & operational users under the contract with [JAXA](zz_jaxa.md) & other related organizations. In parallel with those activities RESTEC has been conducting R&D of remote sensing technologies under the contract with pertinent agencies as well as independently & endeavoring to disseminate the achievement of those R&D.
 
 RESTEC, as the core organization of satellite remote sensing in Japan, aspires to build remote sensing technologies as a social infrastructure, through providing policy makers, researchers & other satellite data users with remote sensing solutions by collecting, archiving, processing & analyzing remote sensing data required by the users.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
    1. Capacity Building
       - Capacity building for developing countries including technology transfer

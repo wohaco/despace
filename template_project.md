@@ -1,5 +1,5 @@
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Параметр*|*[Значение](si.md)*|
 |:--|:--|
@@ -74,7 +74,7 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Миссия
 ## Mission
@@ -82,7 +82,7 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Задачи и ПН
 ## Science goals & payload
@@ -90,7 +90,7 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Космический аппарат
 ## Spacecraft
@@ -98,7 +98,7 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Сообщество, ссылки, люди
 ## Community, library, links
@@ -115,5 +115,5 @@ Achieved targets & investigations:
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 

@@ -4,6 +4,11 @@
 |[![](f/contact/k/kari_logo1_thumb.jpg)](f/contact/k/kari_logo1.png)|<mark>noemail</mark>, 042-860-2114, Fax: …;<br> *KARI, 169-84, Gwahak-ro, Yusong-gu, Daejeon*|
 |:--|:--|
 |Link|<http://www.kari.re.kr/><br> <https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute><br> <https://www.linkedin.com/company/kari/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 The **Korea Aerospace Research Institute (KARI)** established 1989.10.10, is the aeronautics & space agency of South Korea.
 
@@ -23,7 +28,7 @@ Mission & Major Functions
       - Joint utilization of testing facilities & equipment with industries & academia, & training of scientists & engineers
       - Transfer of technology from research & development & provisions for commercialization support
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 KARI began in 1989 to develop its own rockets. It produced the KSR-I & KSR-II, one & two‑stage rockets in the early 1990s.
 

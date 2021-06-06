@@ -4,11 +4,13 @@
 |[![](f/contact/m/mls_logo1_thumb.png)](f/contact/m/mls_logo1.png)|<admin@maritimelaunch.com>, <mark>noworkphone</mark>, Fax: …;<br> *Suite 900, 1959 Upper Water Street, Halifax, Nova Scotia  B3J 3N2, Canada*|
 |:--|:--|
 |Link|<https://www.maritimelaunch.com/><br> <https://en.wikipedia.org/wiki/Maritime_Launch_Services>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Maritime Launch Services (MLS)** is a Canadian space transport services company founded in 2016 & headquartered in Nova Scotia, Canada. MLS will rely on Ukrainian Cyclone-4M rockets by Yuzhnoye to launch polar & sun synchronous orbit from [Canso, Nova Scotia](canso.md). MLS is a joint venture of three U.S.-based firms.
-
-
-<p style="page-break-after:always"> </p>
 
 On March 14, 2017, MLS selected Canso, Nova Scotia as MLS’s launch site. MLS has applied to lease 15 hectares of land outside the town from the provincial Department of Natural Resources, & construction is slated to begin in 2018. The $110 million rocket spaceport will be used to launch commercial satellites into space as early as 2020 with a goal for up to eight launches annually by 2022. The site will include a 10-15 metre-tall control centre & rocket assembly facility, with a launch pad positioned 2.4 ㎞ away, linked by a custom rail system for rocket transportation. It will be the only operational spaceport in Canada, after the abandonment of the Churchill Rocket Research Range in the 1990s, & the first commercial spaceport for orbital launches in the country.
 
@@ -18,3 +20,7 @@ MLS hopes to launch eight rockets annually by 2022 with two southward launch opt
 
 MLS relies on Ukrainian 2-stage Cyclone-4M rockets by Yuzhnoye Design Office. It uses a Zenit-derived first stage powered by four unspecified Ukrainian-built Kerosene/LOX engines & upper stage stack developed for the original hypergolic Cyclone 4 rocket.
 
+
+<p style="page-break-after:always"> </p>
+
+…

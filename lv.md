@@ -5,7 +5,7 @@
 
 ---
 
-> <small>• **Ракета‑носитель (РН)** — русскоязычный термин. **Launch vehicle (LV) / Launcher / Carrier rocket / Expendable launch vehicle** — англоязычный эквивалент.<br> • **Разгонный блок (РБ)** — русскоязычный термин. **Upper stage (UST)** — англоязычный эквивалент.<br> • **Головной обтекатель (ГО)** — русскоязычный термин. **Payload fairing (PLF) / Fairing** — англоязычный эквивалент. **Nose cone (NC)** — примерный англоязычный эквивалент.<br> • **Переходный отсек (ПхО)** — русскоязычный термин. **Spacecraft adapter (SCA)** — англоязычный эквивалент.</small>
+> <small>・**Ракета‑носитель (РН)** — русскоязычный термин. **Launch vehicle (LV) / Launcher / Carrier rocket / Expendable launch vehicle** — англоязычный эквивалент.<br> ・**Разгонный блок (РБ)** — русскоязычный термин. **Upper stage (UST)** — англоязычный эквивалент.<br> ・**Головной обтекатель (ГО)** — русскоязычный термин. **Payload fairing (PLF) / Fairing** — англоязычный эквивалент. **Nose cone (NC)** — примерный англоязычный эквивалент.<br> ・**Переходный отсек (ПхО)** — русскоязычный термин. **Spacecraft adapter (SCA)** — англоязычный эквивалент.</small>
 
 **Раке́та‑носи́тель** (**РН**, также **[раке́та косми́ческого назначе́ния, РКН](lv.md)**) — ракета, предназначенная для выведения полезной нагрузки в космическое пространство.
 
@@ -15,9 +15,7 @@
 
 Также ㎝. [Контейнеры для транспортировки](ship_contain.md) и [Космическая головная часть](lv.md).
 
-
-
-## Тенденции
+**Тенденции.**
 
    - **У России:**
       - вывести из употребления «Союз‑2» и «Протон»;
@@ -26,13 +24,11 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## РН
 
-<small>
-
-|*Наименование*|*ПН на<br> [НОО](nnb.md), т*|*ПН на<br> [ГПО](nnb.md), т*|*[Цена](fs.md),<br> млн \$*|*[Цена](fs.md) ([НОО](nnb.md)),<br> тыс.\$/кг*|*Страна<br> (дата оценки)*|*% ПН от<br> ст.массы*|
+|*Наименование*|*ПН на<br> [НОО](nnb.md)-200, т*|*ПН на<br> [ГПО](nnb.md), т*|*[Цена](fs.md),<br> млн \$*|*[Цена](fs.md) ([НОО](nnb.md)),<br> тыс.\$/кг*|*Страна<br> (дата оценки)*|*% ПН от<br> ст.массы*|
 |:--|:--|:--|:--|:--|:--|:--|
 |[Antares](antares.md)|8|2.8|80 ‑ 85|10.6 ‑ 10.0|США (2019)| |
 |[Arian 5](arian.md)|16 ‑ 20|6.1 ‑ 10.8|165 ‑ 220|10.3|Европа (2017)| |
@@ -51,31 +47,23 @@
 |[Long March 7](long_march.md)|13.5|7| | |Китай (2017)| |
 |[Minotaur 4 и 5](minotaur.md)|1.7|0.34|50|34.7|США (2017)| |
 |[Momo](momo.md)|0.02|—|0.44|22|Japan (2017)|2|
-|[Nuri](nuri.md)|1.5|—|—|—|Кор.Ю. (2020)|—|
+|[Nuri](nuri.md)|3.0|—|—|—|Корея Юж. (2020)|—|
 |[Pegasus](pegasus.md)|0.45|—|56.3|140.8|США (2017)| |
 |[PSLV](pslv.md)|3.8|1.3|15|4|Индия (2017)| |
 |[Safir](safir.md)|0.065|—| | |Иран (2019)|0.25|
 |[Shavit](shavit.md)|0.38|—|25|65.7|Израиль (2005)|1.24|
 |[Simorgh](simorgh.md)|0.15|—| | |Иран (2019)|0.17|
 |[Smart Dragon 1](smart_dragon.md)|0.25|—| | |Китай (2019)|1.08|
-|[Unha](unha.md)|0.2|—| | |Корея сев. (…)| |
+|[Unha](unha.md)|0.2|—| | |Корея Сев. (…)| |
 |[Vega](vega.md)|2|0.5|25|12.5|Европа (2017)| |
 |[Ангара](angara.md)|3.8 ‑ 25.8|3.6 ‑ 12.5|100|26.3 ‑ 3.9|Россия (2017)| |
 |[Протон‑М](proton.md)|23|7.1|65|2.9|Россия (2017)|3.03 ‑ 3.26|
 |[Союз‑2](soyuz.md)|9|3.2|48|5.3|Россия (2017)| |
-
-</small>
-
-![](f/lv/comparison_pic01.png)
-
-<small>
-
-|*Наименование*|*ПН на<br> [НОО](nnb.md), т*|*ПН на<br> [ГПО](nnb.md), т*|*[Цена](fs.md),<br> млн \$*|*[Цена](fs.md) ([НОО](nnb.md)),<br> тыс.\$/кг*|*Страна<br> (дата оценки)*|*% ПН от<br> ст.массы*|
-|:--|:--|:--|:--|:--|:--|:--|
-|**`Планируемые`**|• • •|• • •|• • •|• • •|• • •|• • •|
+| | | | | | | |
+|**Планируемые**|• • •|• • •|• • •|• • •|• • •|• • •|
 |[Arian 6](arian.md)|20|4.5 ‑ 12|90|4.5|Европа (2017)| |
 |[BFR](bfr.md)|100|29| | |США (2019)| |
-|[Blue Whale 1](blue_whale.md)|0.065|0.05| | |Ю.Корея (2020)| |
+|[Blue Whale 1](blue_whale.md)|0.065|0.05| | |Корея Юж. (2020)| |
 |[Firefly Alpha](firefly_alpha.md)|0.4|—|9|22.5|США (2017)| |
 |[Hyperbola-1](hyperbola.md)| | | | |Китай (2019)| |
 |[Arian 6](arian.md)|20|4.5 ‑ 12|90|4.5|Европа (2017)| |
@@ -91,8 +79,9 @@
 |[Зенит‑3SL](zenit.md)|21|6.1|67 ‑ 72|3.4 ‑ 3.2|Россия (2018)| |
 |[Союз‑5](soyuz.md)| | | | |Россия (…)| |
 |[СТК](yenisei.md)|70 ‑ 140|26 ‑ 29| | |Россия (2019)|3.15 ‑ 4.86|
-|**`Исторические`**|• • •|• • •|• • •|• • •|• • •|• • •|
-|[Naro-1](naro_1.md)| | | | |Корея юж. (…)| |
+| | | | | | | |
+|**Исторические**|• • •|• • •|• • •|• • •|• • •|• • •|
+|[Naro-1](naro_1.md)| | | | |Корея Юж. (…)| |
 |[Saturn](saturn_lv.md)| | | | |США (…)| |
 |[Sea Dragon](sea_dragon.md)| | | | | | |
 |[Shuttle](shuttle.md)| | | | |США (…)| |
@@ -101,7 +90,7 @@
 |[Р-1](r_7.md)| | | | |СССР (…)| |
 |[Энергия](energia.md)| | | | |СССР (…)| |
 
-</small>
+![](f/lv/comparison_pic01.png)
 
 **Классификация**
 
@@ -131,7 +120,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### РБ
 **РБ** включает в свой состав:
@@ -146,7 +135,7 @@
 |**Китай**| | |
 |**Корея северная**| | |
 |**Корея южная**| | |
-|**РФ, СНГ**|[Бриз](бриз.md) ┊ [Блок Д](блок_д.md) ┊ [Волга](волга.md) ┊ [КВТК](квтк.md) ┊ [Фрегат](фрегат.md)| |
+|**РФ, СНГ**|[Бриз](бриз.md)┊ [Блок Д](блок_д.md)┊ [Волга](волга.md)┊ [КВТК](квтк.md)┊ [Фрегат](фрегат.md)| |
 |**США**| | |
 |**Япония**| | |
 |**Прочие**| | |
@@ -184,7 +173,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Головной обтекатель
 **Головной обтекатель** (ГО) предназначен для защиты КА и РБ от аэродинамических и тепловых нагрузок во время прохождения РКН плотных слоев атмосферы, а также от внешних воздействий при транспортировании КГЧ автономно, в составе РН на стартовый комплекс (СК) и нахождении на нём.  
@@ -272,15 +261,15 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md) ┊ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md) ┊ [Блок Д](блок_д.md) ┊ [Волга](волга.md) ┊ [КВТК](квтк.md) ┊ [Фрегат](фрегат.md)|
-|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md) ┊ [Integrated payload unit](lv.md) ┊ [Non‑rocket spacelaunch](nrs.md) ┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
+|**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md)┊ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md)┊ [Блок Д](блок_д.md)┊ [Волга](волга.md)┊ [КВТК](квтк.md)┊ [Фрегат](фрегат.md)|
+|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md)┊ [Integrated payload unit](lv.md)┊ [Non‑rocket spacelaunch](nrs.md)┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 
    1. Docs:
       - РН

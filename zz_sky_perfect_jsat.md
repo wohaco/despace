@@ -4,6 +4,11 @@
 |[![](f/contact/s/sky_perfect_jsat_logo1_thumb.png)](f/contact/s/sky_perfect_jsat_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
 |Link|<https://www.skyperfectjsat.space/><br> <https://www.jsat.net/en/><br> <https://en.wikipedia.org/wiki/SKY_Perfect_JSAT><br> <https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 The **SKY Perfect JSAT Group** is a Japanese corporate group that claims to be Asia's largest [satellite](sc.md) communication & multi‑channel pay TV company. It owns the SKY PerfecTV! satellite broadcasting service & the SKY Perfect Well Think content studio, among other businesses.
 
@@ -11,7 +16,7 @@ The **SKY Perfect JSAT Group** is a Japanese corporate group that claims to be A
 
 JSAT & SKY Perfect transferred their stock to a joint holding company, SKY Perfect JSAT Corporation, on 2007.04.02. SKY Perfect JSAT Corporation changed its name to SKY Perfect JSAT Holdings Inc. on 2008.06.27. The SKY Perfect JSAT Corporation name was re‑adopted by JSAT Corporation, SKY Perfect Communications & Space Communications Corporation when they merged on 2008.10.01.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 Satellite fleet
 

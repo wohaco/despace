@@ -4,6 +4,11 @@
 |[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-224-68-3111, Fax: …;<br> *1 Koganesawa, Kimigaya, Kakuda-shi, Miyagi 981-1525, Japan*|
 |:--|:--|
 |Link|<https://global.jaxa.jp/about/centers/kspc/index.html><br> <https://en.wikipedia.org/wiki/Kakuda_Space_Center>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Kakuda Space Center** (角田宇宙センター, Kakuda Uchu Sentaa) is a facility of the [JAXA](zz_jaxa.md), located in the city of Kakuda in Miyagi Prefecture in northern Japan, specializing in the development and testing of [rocket engines and space propulsion systems](ps.md). Founded in 1965.
 
@@ -19,7 +24,7 @@ Main Facilities
    - Ramjet Engine Test Facility
    - Reseacher Interchange Bldg
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …
 

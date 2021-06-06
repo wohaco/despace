@@ -4,6 +4,11 @@
 |[![](f/contact/n/nasa_logo1_thumb.jpg)](f/contact/n/nasa_logo1.png)|<mark>noemail</mark>, +1(301)286-2000, Fax: …;<br> *8800 Greenbelt Rd, Greenbelt, MD 20771, USA*|
 |:--|:--|
 |Link|<https://www.nasa.gov/goddard><br> <https://www.nasa.gov/centers/goddard/about/index.html><br> <https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center><br> <https://ru.wikipedia.org/wiki/Центр_космических_полётов_Годдарда>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Goddard Space Flight Center (GSFC, Центр космических полетов имени Годдарда)** — крупная исследовательская лаборатория NASA, основанная 1 мая 1959 года. В GSFC занято около 10 000 гражданских служащих и работников подрядчиков NASA. Центр расположен в 10 ㎞ к северо‑востоку от Washington, D.C. в Гринбелт (Мэриленд), США. GSFC — один из десяти основных центров NASA. Назван в честь доктора Роберта Годдарда (1882—1945), пионера ракетной техники.
 
@@ -14,7 +19,7 @@
 The **Goddard Space Flight Center (GSFC)** is a major [NASA](zz_nasa.md) space research laboratory located approximately 6.5 miles (10.5 ㎞) northeast of Washington, D.C. in Greenbelt, Maryland, United States. Established on May 1, 1959 as NASA’s first space flight center, GSFC employs approximately 10 000 civil servants and contractors. It is one of ten major NASA field centers, named in recognition of American rocket propulsion pioneer Dr. Robert H. Goddard.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 GSFC is the largest combined organization of scientists and engineers in the United States dedicated to increasing knowledge of the Earth, the Solar System, and the Universe via observations from space. GSFC is a major US laboratory for developing and operating unmanned scientific spacecraft. GSFC conducts scientific investigation, development and operation of space systems, and development of related technologies. Goddard scientists can develop and support a mission, and Goddard engineers and technicians can design and build the spacecraft for that mission. Goddard scientist John C. Mather shared the 2006 Nobel Prize in Physics for his work on COBE.
 

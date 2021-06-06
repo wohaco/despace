@@ -27,7 +27,7 @@
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Протон‑М
 **Прото́н‑М**, также **8К82КМ** — советско‑российская одноразовая жидкостная ракета‑носитель тяжёлого класса. Отличается от предшественника (Протон‑К) повышенной экологичностью, цифровой системой управления и новым РБ 14С43 [Бриз‑М](бриз.md), увеличением тяги двигателей, снижением массы конструкции РН, а также возможностью установки обтекателей бо́льших размеров, что позволило заметно увеличить ПН на ГПО и ГСО.
@@ -37,9 +37,9 @@
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 |Активность|**Активен** (2001.04.07 ‑ …)|
-|[Аналоги](analogue.md)|[Ariane 5](arian.md) (Европа) ┊ [Atlas 5](atlas.md) (США) ┊ [Delta‑4 Heavy](delta.md) (США) ┊ [Falcon 9](falcon.md) (США) ┊ [GSLV Mk.III](gslv.md) (Индия) ┊ [H‑IIB](h2.md) (Япония) ┊ [Long March 3B](long_march.md) (Китай) ┊ [Long March 5](long_march.md) (Китай) ┊ [Ангара‑А5](angara.md) (РФ) ┊ [Зенит‑3SL](zenit.md) (РФ)|
+|[Аналоги](analogue.md)|[Ariane 5](arian.md) (Европа)┊ [Atlas 5](atlas.md) (США)┊ [Delta‑4 Heavy](delta.md) (США)┊ [Falcon 9](falcon.md) (США)┊ [GSLV Mk.III](gslv.md) (Индия)┊ [H‑IIB](h2.md) (Япония)┊ [Long March 3B](long_march.md) (Китай)┊ [Long March 5](long_march.md) (Китай)┊ [Ангара‑А5](angara.md) (РФ)┊ [Зенит‑3SL](zenit.md) (РФ)|
 |Длина/диаметр|58.2 м / 4.1 ‑ 7.4 м|
-|[Космодромы](spaceport.md)|[Байконур](baikonur.md) ┊ [Восточный](vostochny.md)|
+|[Космодромы](spaceport.md)|[Байконур](baikonur.md)┊ [Восточный](vostochny.md)|
 |Масса старт./сух.|705 000 ㎏ / 30 600 ㎏|
 |Разраб./изготов.|[ГКНПЦ Хруничева](zz_khrunichev.md) (КБ «Салют», Россия) / [ГКНПЦ Хруничева](zz_khrunichev.md) (КБ «Салют», Россия)|
 |Ступени|3‑4 (РБ: [Блок ДМ](блок_д.md), [Бриз‑М](бриз.md))|
@@ -59,7 +59,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Архивные
 
@@ -81,7 +81,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Протон‑К
 **Прото́н‑К**, также **8К82К** — советско‑российская одноразовая жидкостная ракета‑носитель тяжёлого класса. Разработана на базе УР‑500 с изменениями на 1‑й и 2‑й ступеней и с добавлением 3‑й и 4‑й ступеней. Это позволило увеличить массу ПН на НОО и выводить КА на более высокие орбиты. «Протон‑К» унаследовала первую ступень УР‑500; позже тяга двигателей первой ступени РД-253 была увеличена на 7.7 %. 2‑я ступень «Протон‑К» была разработана на базе 2‑й ступени УР‑500; для увеличения массы ПН были увеличены топливные баки и изменена конструкция переходного отсека, соединяющего её с 1‑й ступенью.
@@ -89,7 +89,7 @@
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 |Активность|Экспл. завершена (1967.03.10 ‑ 2012.03.30)|
-|[Аналоги](analogue.md)|[Ariane 5](arian.md) (Европа) ┊ [Atlas 5](atlas.md) (США) ┊ [Delta‑4 Heavy](delta.md) (США) ┊ [H‑IIB](h2.md) (Япония) ┊ [Long March 3B](long_march.md) (Китай) ┊ [Зенит‑3SL](zenit.md) (РФ)|
+|[Аналоги](analogue.md)|[Ariane 5](arian.md) (Европа)┊ [Atlas 5](atlas.md) (США)┊ [Delta‑4 Heavy](delta.md) (США)┊ [H‑IIB](h2.md) (Япония)┊ [Long March 3B](long_march.md) (Китай)┊ [Зенит‑3SL](zenit.md) (РФ)|
 |Длина/диаметр|58.2 м / 4.1 ‑ 7.4 м|
 |[Космодромы](spaceport.md)|[Байконур](baikonur.md)|
 |Масса старт./сух.|700 000 ㎏ / 31 000 ㎏|
@@ -109,14 +109,14 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md) ┊ [Integrated payload unit](lv.md) ┊ [Non‑rocket spacelaunch](nrs.md) ┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
+|**··• [Launch vehicle (LV)](lv.md) •··**<br> [ICBM](icbm.md)┊ [Integrated payload unit](lv.md)┊ [Non‑rocket spacelaunch](nrs.md)┊ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 
    1. Docs: …
    1. Notable interwikies — …

@@ -4,19 +4,13 @@
 |[![](f/contact/m/magellan_sj_logo1_thumb.jpg)](f/contact/m/magellan_sj_logo1.png)|<mark>noemail</mark>, +81-6-4950-5520, Fax: +81-6-4950-5521;<br> *Amagasaki Research Incubation Center, #315, 7-1-3, Doicho, Amagasaki, Hyogo, 660-0083, Japan*|
 |:--|:--|
 |Link|<https://www.magellan.jp/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|・R&D & licence of super high sensitivity & high precision satellite positioning system<br> ・R&D & licence of semi-software GPS & software GPS<br> ・R&D & licence of UWB & high sensitivity digital signal processing technology<br> ・R&D regarding next generation GNSS technology<br> ・Development both hardware & software regarding GNSS technology<br> ・Importer & seller of GNSS related products|
+|**[Manage-<br>ment](mgmt.md)**|CEO — Nobuhiro Kishimoto|
 
 Established 1993.07.06, founded 1987.02.03.
-
-CEO — Nobuhiro Kishimoto
-
-Business:
-
-   - R&D & licence of super high sensitivity & high precision satellite positioning system
-   - R&D & licence of semi-software GPS & software GPS
-   - R&D & licence of UWB & high sensitivity digital signal processing technology
-   - R&D regarding next generation GNSS technology
-   - Development both hardware & software regarding GNSS technology
-   - Importer & seller of GNSS related products
 
 Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1, block 12, Moscow, 127083, Russia. [CEO](mgmt.md) Sergey Lyusin. Established 2015.10.21.
 
@@ -45,5 +39,5 @@ Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1,
 
 </small>
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 

@@ -4,10 +4,15 @@
 |[![](f/contact/x/xplore_logo1_thumb.png)](f/contact/x/xplore_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *7683 SE 27th St. #308, Mercer Island, WA 98040, US*|
 |:--|:--|
 |Link|<https://www.xplore.com/><br> <https://www.linkedin.com/company/xplore-inc/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Xplore** «Space as a Service» — an agile space company dedicated to space exploration. Production: [spacecraft](sc.md).
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 We believe the opportunity space presents is without limit. Embracing this opportunity will reveal mysteries never before known and give us a deeper understanding of the universe and our place within it.  
 We are an agile space company dedicated to science. We are infinitely curious about our solar system, and we believe in pushing the boundaries of human knowledge.  

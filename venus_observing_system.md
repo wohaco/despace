@@ -11,7 +11,7 @@
 
 [![](f/project/v/venus_observing_system/pic01_thumb2.jpg)](f/project/v/venus_observing_system/pic01.jpg)
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -38,7 +38,7 @@
 |Power|…|
 |Payload|…|
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Projected** targets & objectives:
 
@@ -86,7 +86,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Mission
 [![](f/project/v/venus_observing_system/pic01_thumb2.jpg)](f/project/v/venus_observing_system/pic01.jpg)  
@@ -102,7 +102,7 @@ After numerous survey & monitoring missions to Venus with fly‑by spacecraft, o
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Science goals & payload
 VOS science goals are to:
@@ -193,7 +193,7 @@ The payload to be prioritized based on mass constraints. The notional list inclu
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Spacecraft
 **Venus Observing System Architecture.**
@@ -247,39 +247,39 @@ The science implemented by SAEVe (Kremic et al., 2018) is focused on seismology 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Community, library, links
 
 **PEOPLE:**
 
-   1. [Sanjay S. Limaye](zz_limaye1.md), UW-Madison — **[Principal investigator](principal_investigator.md)**
+   1. [Sanjay S. Limaye](person.md), UW-Madison — **[Principal investigator](principal_investigator.md)**
    1. M.N. Abedin, NASA/ARC
    1. C. O. Ao, CalTech/JPL
    1. T. Bocanegra, CalTech/JPL
-   1. [M. A. Bullock](zz_bullock1.md), STC
+   1. [M. A. Bullock](person.md), STC
    1. J. P. Carrico, Space Exploration Eng.
    1. V. Cottini, NASA/GSFC
    1. S. M. Curry, UC-Berkeley
    1. W. Eckles, Northrup Grumman Innovation Systems
    1. J. S. Elston, Black Swift Technology
    1. P. M. Fry, UW-Madison
-   1. [D. M. Gentry](zz_gentry1.md), NASA/ARC
+   1. [D. M. Gentry](person.md), NASA/ARC
    1. A. P. Girija, Purdue Univ.
    1. A. G. Hayes, Cornell University
-   1. [A. S. Jindal](zz_jindal1.md), Cornell University
-   1. [N. M. Johnson](zz_johnson1.md), NASA/GSFC
+   1. [A. S. Jindal](person.md), Cornell University
+   1. [N. M. Johnson](person.md), NASA/GSFC
    1. N. M. Komerath, Georgia Inst. of Technology
-   1. [I. D. Kovalenko](zz_kovalenko1.md), Space Research Institute
-   1. [T. Kremic](zz_kremic1.md), NASA/GRC
+   1. [I. D. Kovalenko](person.md), Space Research Institute
+   1. [T. Kremic](person.md), NASA/GRC
    1. Y. J. Lee, Tech. U. Berlin
    1. R. Mathies, UC-Berkeley
    1. R. A. Pertzborn, UW-Madison
    1. V. Raghav, Auburn Univ.
    1. S. J Saikia, Purdue Univ.
-   1. [S. Sasaki](zz_sasaki1.md), Tokoyo U.
+   1. [S. Sasaki](person.md), Tokoyo U.
    1. S. K. Sharma, U. Hawaii
-   1. [D. J. Smith](zz_smith1.md), NASA/ARC
+   1. [D. J. Smith](person.md), NASA/ARC
    1. D. Sokol, Northrop Grumman, A.C.
    1. T. Svitek, Stellar Exploratation Inc.
    1. B. Yoza, U. Hawaii
@@ -290,12 +290,12 @@ The science implemented by SAEVe (Kremic et al., 2018) is focused on seismology 
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

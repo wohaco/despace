@@ -5,7 +5,7 @@
 
 ---
 
-> <small>*Термины:* • **Телеметрия** — русскоязычный термин. **Telemetry** — англоязычный эквивалент.<br> • **Телеметрическая система (ТМС)** — русскоязычный термин. **Telemetry system (TMS)** — англоязычный эквивалент.</small>
+> <small>*Термины:* • **Телеметрия** — русскоязычный термин. **Telemetry** — англоязычный эквивалент.<br> ・**Телеметрическая система (ТМС)** — русскоязычный термин. **Telemetry system (TMS)** — англоязычный эквивалент.</small>
 
 **Телеметрия, телеизмерение** *(от др.-греч. τῆλε «далеко» + μέτρεω — «измеряю»)* — получение информации о значениях измеряемых параметров (напряжения, тока, давления, температуры и т.п.) контролируемых и управляемых объектов методами и средствами телемеханики.
 
@@ -28,13 +28,13 @@
 ## Разновидности
 |*Страна*|*[Фирма](contact.md)*|*Актуальные <small>(масса, ㎏)</small>*|*Исторические <small>(масса, ㎏)</small>*|
 |:--|:--|:--|:--|
-|**Россия**|<small>**[ИРЗ](zz_irz.md)**</small>|<small>[ТМС-Л](tms_l.md) (8.5) ┊ [ТМС-УФ](tms_uf.md) (7.25) ┊ [ТМС-РГ](tms_rg.md) (5)</small>| |
+|**Россия**|<small>**[ИРЗ](zz_irz.md)**</small>|<small>[ТМС-Л](tms_l.md) (8.5)┊ [ТМС-УФ](tms_uf.md) (7.25)┊ [ТМС-РГ](tms_rg.md) (5)</small>| |
 | |<small>**[НИИ МП Гуськова](zz_niimp.md)**</small>| |<small>[ТМС-ЛР1](tms_lr1.md) (4.5)</small>|
-| |<small>**[НПО ИТ](zz_npoit.md)**</small>|<small>[Пирит](pirit.md) (2.6) ┊ [Оникс](onyx.md) (1.1) ┊ [Астра](astra.md) ()</small>| |
+| |<small>**[НПО ИТ](zz_npoit.md)**</small>|<small>[Пирит](pirit.md) (2.6)┊ [Оникс](onyx.md) (1.1)┊ [Астра](astra.md) ()</small>| |
 
 
 
-## Производители
+## Designers, manufacturers
    - **Россия**
      1. [Аксион‑холдинг](zz_axion_h.md) — ТМС для РН.
      1. [ИРЗ](zz_irz.md)
@@ -46,14 +46,14 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Телеметрическая система (ТМС):`**<br> … <br>• • •<br> **РФ:** [ТМС-Л](tms_l.md) (8.5) ┊ [ТМС-УФ](tms_uf.md) (7.25) ┊ [ТМС-РГ](tms_rg.md) (5) ┊ [Пирит](pirit.md) (2.6) ┊ [Оникс](onyx.md) (1.1) ┊ [Астра](astra.md) ()|
+|**`Телеметрическая система (ТМС):`**<br> … <br>• • •<br> **РФ:** [ТМС-Л](tms_l.md) (8.5)┊ [ТМС-УФ](tms_uf.md) (7.25)┊ [ТМС-РГ](tms_rg.md) (5)┊ [Пирит](pirit.md) (2.6)┊ [Оникс](onyx.md) (1.1)┊ [Астра](astra.md) ()|
 
    1. Docs: …
    1. Notable interwikies — …

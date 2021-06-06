@@ -4,27 +4,15 @@
 |[![](f/contact/i/ispace_logo1_thumb.jpg)](f/contact/i/ispace_logo1.png)|<info@ispace-inc.com>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
 |:--|:--|
 |Link|<http://ispace-inc.com/><br> <https://www.linkedin.com/company/ispace-inc/><br> <https://www.facebook.com/ispace.technologies.inc/><br> <https://twitter.com/ispace_inc> & <https://twitter.com/HAKUTO_Reboot>|
+|**Mission**|…|
+|**Vision**|To extend human presence to outer space.|
+|**Values**|…|
+|**Business**|To construct a sustainable Earth & Moon ecosystem (in 2040) implementing space resources. [Payload user guide for Missions 1 ‑ 2 ❐](f/contact/i/ispace_payladuserguide_m1m2_202001.pdf)<br> ・High frequency lunar transport, incl. rovers<br> ・Marketing support for space content industries<br> ・Payload development for lunar orbiting & landing<br> ・R&D for space resource development, incl. water<br> ・Sale & survey of Moon surface data|
+|**[Manage-<br>ment](mgmt.md)**|・Founder & CEO — Takeshi Hakamada<br> ・Director & COO — Takahiro Nakamura<br> ・Director & CFO — Jumpei Nozaki<br> ・Director & Technology Advisor — Kazuya Yoshida<br> ・CTO — Hideki Shimomura<br> ・VP & Technology — Nozomu Iwata|
 
 **ispace** is a lunar exploration company with a vision to extend human presence to outer space. Has offices in JP, US, EU, & has signed partnerships with [JAXA](zz_jaxa.md), [NASA](zz_nasa.md), & the Gov. of Luxembourg. Founded 2010.09.
 
-   - **Mission.** …
-   - **Vision.** To extend human presence to outer space.
-   - **Values.** …
-   - **Business:** to construct a sustainable Earth & Moon ecosystem (in 2040) implementing space resources. [Payload user guide for Missions 1 ‑ 2 ❐](f/contact/i/ispace_payladuserguide_m1m2_202001.pdf)
-      - High frequency lunar transport, incl. rovers
-      - Marketing support for space content industries
-      - Payload development for lunar orbiting & landing
-      - R&D for space resource development, incl. water
-      - Sale & survey of Moon surface data
-   - **Management:**
-      - Founder & [CEO](mgmt.md) — Takeshi Hakamada
-      - Director & [COO](mgmt.md) — Takahiro Nakamura
-      - Director & [CFO](mgmt.md) — Jumpei Nozaki
-      - Director & Technology Advisor — Kazuya Yoshida
-      - [CTO](mgmt.md) — Hideki Shimomura
-      - [VP](mgmt.md) & Technology — Nozomu Iwata
-
-The company is developing a small commercial lunar [lander](sc.md) & miniature lunar [rovers](rover.md) to delivery customer payloads to the Moon & explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon & ultimately incorporate the Moon into Earth’s economic & living sphere. The company will land its 1st lander on the Moon as part of its “[HAKUTO‑R](zz_hakuto.md)” program — the world’s 1st commercial lunar exploration program; the missions will launch on [Falcon 9](falcon.md). ispace was the managing company for Team HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition.
+The company is developing a small commercial lunar [lander](sc.md) & [rovers](rover.md) to delivery customer payloads to the Moon & explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon & ultimately incorporate the Moon into Earth’s economic & living sphere. The company will land its 1st lander on the Moon as part of its “[HAKUTO‑R](zz_hakuto.md)” program — the world’s 1st commercial lunar exploration program; the missions will launch on [Falcon 9](falcon.md). ispace was the managing company for Team HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition.
 
 Timeline:
 
@@ -33,7 +21,7 @@ Timeline:
    - Mission 3 ‑ 9 — … — High‑frequency, cost‑effective lunar transportation system. During Mission 3 ‑ 9, we will establish a payload delivery system to the Moon, map water resources in the polar regions, acquire & self data for future lunar missions, & increase the frequency of lunar landings & rover expeditions to transport customer payloads to the Moon. We will deploy swarms of rovers to pioneer the discovery & development of lunar resources, enabling the steady development of lunar industry & human presence on the Moon. From this point forward, the rover technology will undergo advancements in autonomy & machine learning to enable swarm‑robotic capabilities, the ability to withstand extreme temperatures in the lunar polar regions & the standardization of its payload interface. Rovers will not simply be mobile, but they will also be equipped with tools, such as drills & manipulators, to meet the various needs of surface exploration & to scout potential candidates for a future manned moon base.
    - Mission 10+ — … — Construction of an industrial platform. We aim to build an industrial platform that enables stable lunar development by utilizing the water resources available on the Moon.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Technology.** Our small, robotic lunar landers/rovers are designed to provide low‑cost, high‑frequency transportation of customer payloads to the Moon. By leveraging JP manufacturing expertise in the miniaturization of high‑tech goods, we’re able to dramatically reduce weight/scale. And by challenging conventional processes & adopting agile development methods, we can speed up development & reduce costs, while maintaining quality. All of this effort minimizes the clients’ burden & provides more flexible transport services.
    - **Lunar Rover.** The smallest & lightest rover in the world. Based on the original infrastructure of SORATO — the tested‑ & flight‑ready rover designed by Team HAKUTO over the greater part of a decade out of by Tohoku University’s Space Robotics Lab, developed to compete in the Google Lunar XPRIZE competition — ispace’s small & lightweight rover is equipped with four wheels, mobility to traverse difficult terrain, 360° high‑definition video & photo capabilities, the ability to conduct detailed terrain mapping, & capacity to carry customer payloads to the lunar surface. The rover will continuously undergo advancements in artificial intelligence & swarm robotic functions in order to communicate with other rovers & map & collect data about lunar resources. Eventually, the rovers will be instrumental in extracting lunar resources.

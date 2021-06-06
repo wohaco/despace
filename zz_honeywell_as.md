@@ -4,12 +4,18 @@
 |[![](f/contact/h/honeywell_as_logo1_thumb.jpg)](f/contact/h/honeywell_as_logo1.png)|<mark>noemail</mark>, +1(602)365-30-99, Fax: …;<br> *1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*|
 |:--|:--|
 |Link|<https://aerospace.honeywell.com/><br> <https://en.wikipedia.org/wiki/Honeywell_Aerospace>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
-**Honeywell Aerospace** is a manufacturer of aircraft engines & avionics, as well as a producer of auxiliary power units (APUs) & other aviation products. Founded in 1936.  
+**Honeywell Aerospace** is a manufacturer of aircraft engines & avionics, as well as a producer of auxiliary power units (APUs) & other aviation products. Founded in 1936.
+
 A Honeywell APU was used in the notable emergency landing of US Airways Flight 1549, & a Honeywell blackbox survived under sea for years, thus exceeding by far its specified limits to reveal the details of the crash of Air France Flight 447. The company was also involved in the making of 2001: A Space Odyssey & in 90 percent of U.S. space missions. It’s involved in the U.S. NextGen program & Europe’s SESAR program for advancing avionics.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 Honeywell Aerospace has been involved in most major space missions & projects. Some notable projects include:
 
@@ -22,7 +28,7 @@ Honeywell Aerospace has been involved in most major space missions & projects. S
 
 Honeywell provided controls to the international space station.
 
-Space-related business didn’t recover for Honeywell after the end of the space race until the 1990s. Honeywell was awarded a notable contract to provide controls to the International Space Station, a joint project of the Russian, European, Italian, Japanese, Canadian & US space agencies.
+Space‑related business didn’t recover for Honeywell after the end of the space race until the 1990s. Honeywell was awarded a notable contract to provide controls to the International Space Station, a joint project of the Russian, European, Italian, Japanese, Canadian & US space agencies.
 
 Honeywell also manufactures Manned Mobile Units (MMUs), commonly known as space suits. Honeywell’s space division is focused on three areas:
 

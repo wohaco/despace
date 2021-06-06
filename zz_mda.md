@@ -3,7 +3,12 @@
 
 |[![](f/contact/m/mda_logo1_thumb.jpg)](f/contact/m/mda_logo1.png)|<info@mdacorporation.com>, +1(604)278-34-11, Fax: +1(604)231-27-68;<br> *Somewhere in Canada*|
 |:--|:--|
-|Link|<http://mdacorporation.com/><br> <https://en.wikipedia.org/wiki/MDA_Space_Missions>|
+|Link|<https://mda.space/><br> <https://en.wikipedia.org/wiki/MDA_Space_Missions>|
+|**Mission**|Tempered & tested by generations of space innovation, MDA has a track record of making ambitions come true. We’re fueled by a pioneering spirit that carries us above & beyond. And together we enable highly skilled people to continually push boundaries, tackle big challenges, & imagine solutions that inspire & endure.|
+|**Vision**|…|
+|**Values**|**Integrity** — We stand behind our promises & deliver, every time. We take pride in our work. And our integrity is reflected in the openness we practice, the solutions we create & the support we provide. **Collaboration** — We take our partners where they want to go by listening, adapting, solving problems & staying a step ahead to achieve greatness together. **Operational excellence** — Our work speaks for itself. For decades, our team of industry experts have been solving mission critical problems that people, our country, & our sovereignty depend on. **Inspiration** — Fueled by our love of space, we’re driven to make dreams come true, lead the charge, & awaken that same drive in all, just as we have done throughout our mission history. **Responsible** — We’re Canada’s original space pioneers, & for 50 years we’ve approached every mission the Canadian way: proudly, sustainably, equitably & ethically.|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **MDA’s Robotics & Automation** is a Canadian manufacturer subsidiary of MacDonald, Dettwiler & Associates Ltd. In 2020 [MDA was sold ⎆](http://investor.maxar.com/investor-news/press-release-details/2019/Maxar-Technologies-to-Sell-MDA-to-Northern-Private-Capital-for-CAD1-Billion/default.aspx) to Northern Private Capital. It specialized in the manufacture of robotic arms & equipment for space applications, most notably the Canadarm on the space shuttle orbiters, & Canadarm-2 on the International Space Station. In addition to design, safety, reliability, & quality assurance engineering services, MDA’s previous contracted products include:
 
@@ -13,9 +18,6 @@
    - RADARSAT-2, the world’s most advanced civilian radar earth observation satellite
    - Special Purpose Dexterous Manipulator also known as «Dextre» or the «Canada Arm»
    - The robotic arm & weather station on Phoenix mission to Mars
-
-
-<p style="page-break-after:always"> </p>
 
 Canada Locations
 
@@ -29,3 +31,8 @@ Canada Locations
 International Locations
 
    - Didcot, UK
+
+
+<p style="page-break-after:always"> </p>
+
+…

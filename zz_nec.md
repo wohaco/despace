@@ -4,14 +4,13 @@
 |[![](f/contact/n/nec_logo1_thumb.png)](f/contact/n/nec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
 |Link|<https://www.necspace.co.jp/><br> <https://www.nec.com/en/global/solutions/space/><br> <https://www.linkedin.com/company/nec/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **NEC Corporation** (日本電気株式会社, Nippon Denki Kabushiki-gaisha) is a Japanese multinational information technology & electronics company, headquartered in Minato, Tokyo. The company was known as the Nippon Electric Company, Limited, before rebranding in 1983 as NEC. It provides IT & network solutions, including cloud computing, AI, IoT platform, & 5G network, to business enterprises, comms services providers & to government agencies, & has also been the biggest JP PC vendor since the 1980s.
-
-   - **Mission.** …
-   - **Vision.** …
-   - **Values.** …
-   - **Business:** …
-   - **Management:** …
 
 **NEC Space Technologies.** Founded 2001.04.02.
 
@@ -27,6 +26,6 @@
       - [Akatsuki](akatsuki.md) (2010)
    1. **Ground Systems.** GROUND NEXTAR, Satellite Control subsystem, [Mission Data Reception subsystem](scs), NEC [Satellite Operation Center](mcc.md).
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 …

@@ -47,7 +47,7 @@
 |[Эллипс‑ВКК](эллипс_вкк.md) №1, 2|2019|Земля|
 
 **Прочая продукция НПОЛ:**  
-[Двина‑ТМ](двина_тм.md) ┊ [Карат](карат.md) ┊ [Навигатор](навигатор.md) ┊ [Фрегат](фрегат.md)
+[Двина‑ТМ](двина_тм.md)┊ [Карат](карат.md)┊ [Навигатор](навигатор.md)┊ [Фрегат](фрегат.md)
 
 **Гипотетические**  
 > <small>Не забывайте мечтать!</small>
@@ -78,7 +78,7 @@
       - **[Сатурн](saturn.md)**
       - **[Юпитер](jupiter.md)**
    - *Платформы:*
-      - **РФ:** [Двина‑ТМ](двина_тм.md) ┊ [Карат](карат.md) ┊ [Навигатор](навигатор.md)
+      - **РФ:** [Двина‑ТМ](двина_тм.md)┊ [Карат](карат.md)┊ [Навигатор](навигатор.md)
       - **США:** [MCSB](mcsb.md)
    - [Deep space gateway](deep_space_gateway.md)
    - [Deep space network](deep_space_network.md)
@@ -188,7 +188,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### По годам, первые и знаковые
 
@@ -250,7 +250,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### Это уже было в Симпсонах
 
@@ -265,7 +265,7 @@
 
 <mark>TBD</mark>
 
-|**Солнечная система**|[Солнце](sun.md), [Макемаке](makemake.md) ┊ [Нибиру](nibiru.md) ┊ [Плутон](pluto.md) ┊ [Седна](sedna.md) ┊ [Хаумеа](haumea.md) ┊ [Церера](ceres.md) ┊ [Эрида](eris.md)|
+|**Солнечная система**|[Солнце](sun.md), [Макемаке](makemake.md)┊ [Нибиру](nibiru.md)┊ [Плутон](pluto.md)┊ [Седна](sedna.md)┊ [Хаумеа](haumea.md)┊ [Церера](ceres.md)┊ [Эрида](eris.md)|
 | |[Меркурий](mercury.md)|
 | |[Venus](venus.md)|
 | |[Земля](earth.md), спутник:|
@@ -276,7 +276,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Инкубатор
 > <small>*Термины:*</small>  
@@ -298,7 +298,7 @@
 |*Дата помещения*|*Описание*|
 |:--|:--|
 |2020.02.11|**[Капиллярное хранение газов](cgs.md).**<br> Технология позволяет хранить водород и, теоретически, прочие газы в стеклянных капиллярах при высоком давлении и плотности, по расчётам позволяя упаковать в тот же объём бака больше массы газа. На момент помещения в инкубатор технология проигрывала существующим композитным бакам высокого давления и имела TRL 1.|
-|2020.02.10|**[Баумана, ПУСМ с краш-опорами ❐](f/lag/lags_2020baumana.pdf).**<br> Сминаемые опоры без направляющих. На момент помещения в инкубатор технология имела TRL 1 и была диссертационным проектом Луковкина Романа и его руководителя [Г.А. Щеглова](zz_scheglov1.md).|
+|2020.02.10|**[Баумана, ПУСМ с краш-опорами ❐](f/lag/lags_2020baumana.pdf).**<br> Сминаемые опоры без направляющих. На момент помещения в инкубатор технология имела TRL 1 и была диссертационным проектом Луковкина Романа и его руководителя [Г.А. Щеглова](person.md).|
 
    - Единовременно в воздухе находится 11 000 самолётов. В расчётах принята средняя скорость расхода топлива в 2 600 ㎏/ч для каждого самолёта, соответствующая Boeing 737 800. (Sources [#1 ⎆](https://aeroportgid.com/aviatsiya/samolyoty/kolichestvo-samolyotov-v-nebe), [#2 ⎆](https://lenta.ru/news/2018/07/02/recordflightnumber/))
    - В качестве эталонной РН принята Н1Ф с заправкой в 2 650 000 ㎏ смеси керосина и жидкого кислорода, для удобства принята пропорция 1:1, т.е. 1 325 000 ㎏ керосина. Время работы принято в 1 650 с. (Souce [#1 ⎆](https://ru.wikipedia.org/wiki/Н-1))
@@ -447,7 +447,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Ключевые вопросы
 
@@ -465,7 +465,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 2. Оружие в космосе
 <mark>TBD</mark>
@@ -483,7 +483,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 3. Лунная база
 <mark>TBD</mark>
@@ -502,7 +502,7 @@
 **Звезда (1964‑1974, СССР)**  
 **Звезда** — проект советской лунной базы (1964 ‑ 1974 год), первый в мире детально проработанный подобный проект. Программа предусматривала запуск на Луну в беспилотном режиме основного модуля лунной базы. После этого запускалось бы несколько автоматических аппаратов, один из которых доставил бы на Землю образцы лунного грунта в месте посадки основного базового обитаемого модуля, а второй представлял собой подвижный луноход, который обследовал бы внешнюю поверхность первого модуля базы. В перспективе обитаемые модули лунной базы могли устанавливаться на колёсные шасси, сцепляться друг с другом и образовывать целый подвижный поезд, работающий на электроэнергии, производимой ядерным реактором.
 
-В 1962 году [Сергей Павлович Королёв](zz_korolev1.md) поручил ГСКБ «Спецмаш», которым руководил [Владимир Бармин](zz_barmin1.md), разработать проект лунной базы. Проектировщики Бармина приступили к работе. Она заняла более десяти лет. В документах ГСКБ «Спецмаш» проект проходил под обозначением «ДЛБ» (Долговременная лунная база), в ОКБ‑1 его знали под названием «Звезда». Неофициально проект также именовался «Барминград».
+В 1962 году [Сергей Павлович Королёв](person.md) поручил ГСКБ «Спецмаш», которым руководил [Владимир Бармин](person.md), разработать проект лунной базы. Проектировщики Бармина приступили к работе. Она заняла более десяти лет. В документах ГСКБ «Спецмаш» проект проходил под обозначением «ДЛБ» (Долговременная лунная база), в ОКБ‑1 его знали под названием «Звезда». Неофициально проект также именовался «Барминград».
 
 В конструкторском бюро «Спецмаша» изучался самый широкий круг вопросов:
 
@@ -516,7 +516,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 4. Материалы для Венеры
 <mark>TBD</mark>
@@ -529,35 +529,35 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 5. Обитание в космосе в замкнутых пространствах
 <mark>TBD</mark>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 6. Межзвёздные корабли
 <mark>TBD</mark>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 7. Строительство в космосе
 <mark>TBD</mark>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 8. Утилизация КА и СЧ
 <mark>TBD</mark>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 9. Шутливые расчёты
 <mark>TBD</mark>
@@ -579,14 +579,14 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 10. Добыча ископаемых на небесных телах
 <mark>TBD</mark>
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 11. Перезаправка в космосе (топливо, вода и пр.)
 <mark>TBD</mark>
@@ -595,7 +595,7 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ### 12. Человек на Венере
 <mark>TBD</mark>
@@ -606,15 +606,15 @@
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md) ┊ [Аналитика](project.md) ┊ [Конценсус](consensus.md) ┊ [НПОЛ процессы](zz_нпол_п.md) ┊ [Словоблудие](verbiage.md)|
-|**··• [Project](project.md) •··**<br> [Interferometer](interferometer.md) ┊ [NASA open](nasa_open.md) ┊ [NASA STI](nasa_sti.md) ┊ [NIH](nih.md) ┊ [Past, future and everything](pfaeverything.md) ┊ [PSDS](us_psds.md) [MGSC](mgsc.md) ┊ [Raman spectroscopy](raman_spsc.md) ┊ [SC price](sc_price.md) ┊ [SC typical forms](sc_ts.md) ┊ [Tech derivative laws](td_laws.md) ┊ [View](view.md) ┊ [XRF](xrf.md)|
+|**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md)┊ [Аналитика](project.md)┊ [Конценсус](consensus.md)┊ [НПОЛ процессы](zz_нпол_п.md)┊ [Словоблудие](verbiage.md)|
+|**··• [Project](project.md) •··**<br> [Interferometer](interferometer.md)┊ [NASA open](nasa_open.md)┊ [NASA STI](nasa_sti.md)┊ [NIH](nih.md)┊ [Past, future and everything](pfaeverything.md)┊ [PSDS](us_psds.md) [MGSC](mgsc.md)┊ [Raman spectroscopy](raman_spsc.md)┊ [SC price](sc_price.md)┊ [SC typical forms](sc_ts.md)┊ [Tech derivative laws](td_laws.md)┊ [View](view.md)┊ [XRF](xrf.md)|
 
    1. Docs: …
    1. Notable interwikies — …

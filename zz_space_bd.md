@@ -4,12 +4,17 @@
 |[![](f/contact/s/space_bd_logo1_thumb.png)](f/contact/s/space_bd_logo1.png)|<d.takahashi@space-bd.com>, +81-3-6264-7177, Fax: …;<br> *1 Chome-5-3 Nihonbashimuromachi, Chuo City, Tokyo 103-0022, Japan*|
 |:--|:--|
 |Link|<https://space-bd.com/><br> <https://www.linkedin.com/company/space-bd-inc>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Space BD Inc.** delivers the optimum plan to transport things to Space for customers aiming to launch satellites or perform experiments in the space environment. Founded in 2017.
 
 We provide one‑stop support for all matters right from technical coordination to launch execution & operations support. Furthermore, project creation to explore new possibilities of space utilization & open up Space to other industry sectors is also one of our core services.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
    1. **Satellite Launch Service.** We propose the launch solution tailored to customer’s needs & support the technical coordination & various reviews up to launch to offer our customers total support for their satellite launch campaign.
       - Mission definition

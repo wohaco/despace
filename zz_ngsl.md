@@ -4,6 +4,11 @@
 |[![](f/contact/n/ngsl_logo1_thumb.jpg)](f/contact/n/ngsl_logo1.png)|<info@ngsl.or.jp>, <mark>noworkphone</mark>, Fax: …; *1-5-3 Nihonbashi Muromachi, Chuo-ku, Tokyo, Japan*|
 |:--|:--|
 |Link|<https://ngsl.or.jp/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **New Space Global Strategy Lab (NGSL)** from New Space International Institute for Strategic Studies is a JP non‑profit company aimed to promote solving global issues utilizing Japanese space technology.
 
@@ -14,5 +19,5 @@
       - Purpose 3. We aim to “create a new space business” by fusing conventional space development with new space and different industries.
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 

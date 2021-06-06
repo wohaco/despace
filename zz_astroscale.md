@@ -4,23 +4,13 @@
 |[![](f/contact/a/astroscale_logo1_thumb.png)](f/contact/a/astroscale_logo1.png)|<mark>noemail</mark>, +81-3-6658-8175, Fax: …;<br> *1-16-4 Kinshi, Sumida, Tokyo 130-0013, JP*|
 |:--|:--|
 |Link|<https://astroscale.com/><br> <https://twitter.com/astroscale_HQ><br> <https://www.linkedin.com/company/astroscale/>|
+|**Mission**|Develop innovative technologies, advance business cases, & inform international policies that reduce orbital debris & support long‑term, sustainable use of space.|
+|**Vision**|Secure safe & sustainable development of space for the benefit of future generations.|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|・Founder & CEO — Nobu Okada<br> ・Group COO & Director, Japan — Chris Blackerby<br> ・Chief Commercial Officer & Director, UK — John Auburn<br> ・Chief Financial Officer — Atsuyuki Uenaka<br> ・Chief Information Officer — Ai Makino<br> ・President & Managing Director, Astroscale U.S. Inc. — Ron Lopez<br> ・Chief Engineer — Gene Fujii<br> ・Chief Technology Officer — Mike Lindsay<br> ・General Manager, Japan — Miki Ito|
 
 **Astroscale** is the 1st private company with a mission to secure long‑term spaceflight safety & orbital sustainability for the benefit of future generations. Founded in 2013, Astroscale is developing innovative & scalable solutions across the spectrum of on-orbit servicing missions, including Life Extension, In-situ Space Situational Awareness, End of Life services, & Active Debris Removal, to create sustainable space systems & mitigate the growing & hazardous buildup of debris in space. Astroscale is also defining business cases & working with government & commercial stakeholders to develop norms, regulations, & incentives for the responsible use of space.
-
-   - **Mission.** Develop innovative technologies, advance business cases, & inform international policies that reduce orbital debris & support long‑term, sustainable use of space.
-   - **Vision.** Secure safe & sustainable development of space for the benefit of future generations.
-   - **Values.** …
-   - **Business:** …
-   - **Management:**
-      - Founder & [CEO](mgmt.md) — Nobu Okada
-      - Group [COO](mgmt.md) & Director, Japan — Chris Blackerby
-      - Chief Commercial Officer & Director, UK — John Auburn
-      - Chief Financial Officer — Atsuyuki Uenaka
-      - Chief Information Officer — Ai Makino
-      - President & Managing Director, Astroscale U.S. Inc. — Ron Lopez
-      - Chief Engineer — Gene Fujii
-      - Chief Technology Officer — Mike Lindsay
-      - General Manager, Japan — Miki Ito
 
 *“Astroscale was born out of the necessity to protect one of our precious natural resources — Earth’s orbits. While I cannot promise you an easy & quiet ride, I can guarantee an exciting career in a rapidly evolving industry. Together we will grow & learn a lot as a team as we tackle one of the biggest issues facing the world.”* Nobu Okada, Founder & CEO​
 
@@ -35,7 +25,7 @@ With its headquarters in Singapore, a Research & Development facility in Tokyo &
    - **UK.** The UK office is situated within the Harwell Space Cluster, in Oxfordshire & is also home to the Astroscale Operations Centre. Astroscale Ltd, Harwell Innovation Centre, Building 173, Curie Avenue, Harwell, Oxford, Didcot, Oxfordshire OX11 0QG. +44 (0) 1235 612238
    - **US.** The US office is home to business development & technology growth. Astroscale U.S. Inc, 1401 Lawrence Street, Ste 1600, Denver CO 80202. +1 206 889 7384
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Notable [timeline ⎆](https://astroscale.com/about-astroscale/timeline/):**
 

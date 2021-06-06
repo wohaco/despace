@@ -4,12 +4,15 @@
 |[![](f/contact/i/interstellar_tech_logo1_thumb.png)](f/contact/i/interstellar_tech_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *690-4 Memu, Taiki, Hiroo-gun, Hokkaido, Japan 089-2113*|
 |:--|:--|
 |Link|<http://www.istellartech.com/><br> <https://en.wikipedia.org/wiki/Interstellar_Technologies><br> <https://www.linkedin.com/company/isterllar/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Interstellar Technologies Inc.** is a [rocket](lv.md) development, manufacturing & launch service. Founded 2003.05.01.
 
 **Interstellar Technologies, Inc.** (Japanese: インターステラテクノロジズ（株）, Hepburn: Intāsutera Tekunorojizu (kabu)) is a Japanese NewSpace company aiming to eventually build a [launch vehicle](lv.md) for smallsats under 100 ㎏. It is a rocket spacelaunch company developing the [MOMO](momo.md) & [Zero](Zero.md) launchers. Interstellar’s stated goal is to reduce the cost of access to space.
-
-<p style="page-break-after:always"> </p>
 
 **MOMO sounding rocket.** The initial rocket the company is developing is the MOMO sounding rocket:
 
@@ -27,3 +30,7 @@
 
    - First launch: 2022 (estimated)
    - Payload to 500 ㎞ (310 mi) Sun‑Synchronous Orbit: 100 ㎏ (220 lb)
+
+<p style="page-break-after:always"> </p>
+
+…

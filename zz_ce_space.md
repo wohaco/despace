@@ -4,6 +4,11 @@
 |[![](f/contact/c/canon_elec_logo1_thumb.jpg)](f/contact/c/canon_elec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
 |Link|<https://en.canon-elec.co.jp/space/><br> <https://www.linkedin.com/company/canon-electronics-inc-/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **Canon Electronic Space (CE Space)** is a Japanese manufacturer of a [micro satellites & their components](sc.md).
 
@@ -11,7 +16,7 @@
 
 **From manufacture to launch: a one‑stop shop.** Canon Electronics’ goal is to become a global leader in the space industry. The first step is to begin mass production of micro satellites for sale to various customers. At the same time, internally developed components & photo/video data gathered by CE’s satellites will create additional business opportunities. In the future, the CE group aims to also produce [launch vehicles](lv.md) & dedicated [launch sites](spaceport.md). Customers will be able to come to Canon Electronics as a complete space‑business solution, from satellite manufacture to launch, freeing them to focus on their unique innovations & solutions.
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 **Major milestones in CE Space**
 

@@ -9,15 +9,15 @@
 
 **Баллистико‑навигационное обеспечение (БНО)** — математическая модель и комплекс мероприятий по построению траектории движения [космического аппарата](sc.md).
 
-
-
-## Описание
 Включает в себя вопросы:
 
-   - [Апоцентр и перицентр](apopericentre.md)
-   - орбит;
-   - траекторий взлёта;
-   - траекторий посадки.
+   - [апоцентр и перицентр](apopericentre.md)
+   - длительности перелёта
+   - довыведения
+   - орбит
+   - траекторий взлёта
+   - траекторий посадки
+   - характеристических скоростей
 
 <mark>TBD</mark> Перелёт через L2 к Луне:
 
@@ -27,22 +27,13 @@
       1. сход с галоорбиты в сторону Луны — 7 суток;
    1. Перелёт L2-Луна — 11 суток.
 
-
-
-### Скорости
 [![](f/nav/solar_system_subway_map_thumb.png)](f/nav/solar_system_subway_map.png)
 
 
 
-### Производители
+## Designers, manufacturers
    - **РФ:**
       1. [ИПМ Келдыша](zz_keldysh_ipm.md)
-
-
-
----
-
-## Орбиты
 > <small>**Орбита** — русскоязычный термин. **Orbit** — англоязычный эквивалент.</small>
 
 **Орби́та** *(от лат. orbita — колея, дорога, путь)* — траектория движения материальной точки в наперёд заданной системе пространственных координат для заданной в этих координатах конфигурации поля сил, которые на неё действуют.
@@ -57,7 +48,7 @@
 
 |*№*|*Страница*|
 |:--|:--|
-| |[Апоцентр и перицентр](apopericentre.md) ┊ [Грав.манёвр](gravass.md) ┊ Кеплеровы элементы <sup>(аргумент перицентра ┊ большая полуось ┊ долгота восходящего узла ┊ наклонение ┊ средняя аномалия ┊ эксцентриситет)</sup>
+| |[Апоцентр и перицентр](apopericentre.md)┊ [Грав.манёвр](gravass.md) ┊ Кеплеровы элементы <sup>(аргумент перицентра ┊ большая полуось ┊ долгота восходящего узла ┊ наклонение ┊ средняя аномалия ┊ эксцентриситет)</sup>
 |**В:**|Высокая эллиптическая орбита (ВЭО)|
 |**Г:**|Гелиоцентрическая орбита ┊ Геосинхронная орбита (ГСО) ┊ Геопереходная орбита (ГПО) ┊ Геостационарная орбита (ГСО) ┊ Геоцентрическая орбита (ГЦО)|
 |**К:**|Квази‑геостационарная орбита (КГО)|
@@ -67,7 +58,7 @@
 
 
 
-### Кеплеровы орбиты
+## Кеплеровы орбиты
 Долго считалось, что планеты должны иметь круговую орбиту. После долгих и безуспешных попыток подобрать круговую орбиту для Марса, Кеплер отверг данное утверждение и, впоследствии, используя данные измерений Тихо Браге сформулировал 3 закона, описывающих орбитальное движение тел.
 
 [Кеплеровыми элементами орбиты](keplerian.md) являются:
@@ -84,7 +75,7 @@
 
 
 
-### Узел орбиты
+## Узел орбиты
 > <small>**Узел орбиты** — русскоязычный термин. **Orbital node** — англоязычный эквивалент.</small>
 
 **Узел орбиты** — одна из двух диаметрально противоположенных точек небесной сферы, в которых орбита какого‑либо небесного тела пересекается с некоторой условной плоскостью, выступающей как система отсчёта, а также геоцентрическая проекция этой точки на небесную сферу. Таковой плоскостью для планет Солнечной системы и Луны является плоскость эклиптики. Для отслеживания ИСЗ обычно используют экваториальную систему координат и, соответственно, плоскость небесного экватора. Поскольку таких точек две, различают восходящий и нисходящий узлы орбиты.
@@ -102,10 +93,19 @@
 
 
 
-<p style="page-break-after:always"> </p>
-<a name="tmi"></a>
+## Developing features
 
-## Trans-Mars injection
+**Q&A.**
+
+   - **“If the capability of the [LV](lv.md) for lunar lander mission is relatively small, for example, 3 300 ㎏ to the 200 ㎞ LEO with high orbit inclination, what will be the best way (trajectory) to the Moon with maximum landing mass?”**<br> That depends on what is the high inclination. The best way is to launch to the Moon from the South hemisphere region. It will be good if there will be a possibility to lower the inclination by using, for example, a second launcher or some kind of servicing spacecraft to improve the major spacecraft’s orbit. But maybe the inclination is not as sufficient as it can be.<br> Anyway, there can be variants. For the transfer, there can be used both chemical & electric engines, but electric ones seem to be not enough for such a low orbit without any support.<br> If we have to deal with trajectory only with a spacecraft itself, then the proper way may be to increase the duration of the flight & the number of orbit corrections. In this case, you can gradually increase the Earth’s orbit height, get into the Hill sphere of the Moon, go into its orbit, & gradually lower it. In this case, you will have to pay special attention to the duration of the departure from the Earth, since there will be gravitational losses near the Earth. It would be useful to have detached tanks to lower a spacecraft dry mass after some period.
+
+
+
+<p style="page-break-after:always"> </p>
+
+## Орбиты
+
+### Trans-Mars injection
 > <small>**Trans-Mars injection (TMI)** — англоязычный термин, не имеющий аналога в русском языке. **Выход на орбиту Марса** — дословный перевод с английского на русский.</small>
 
 | |
@@ -119,9 +119,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Высокая эллиптическая орбита
+### Высокая эллиптическая орбита
 **Высокая эллиптическая орбита (ВЭО)**, англ. **highly elliptical orbit (HEO)** — также «Квази‑геостационарная орбита» — это тип эллиптической орбиты, у которой высота в апогее во много раз превышает высоту в перигее.
 
 | |
@@ -158,9 +158,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Гелиоцентрическая орбита
+### Гелиоцентрическая орбита
 **Гелиоцентрическая орбита**, англ. **heliocentric orbit или circumsolar orbit** — эллиптическая траектория движения небесного тела вокруг [Солнца](солнца.md). Один из двух фокусов эллипса, по которому движется небесное тело, совпадает с центром Солнца.
 
 ![](f/nav/orbit_heliocentric_orbit.jpg)
@@ -179,9 +179,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Геопереходная орбита
+### Геопереходная орбита
 **Геопереходная орбита (ГПО)**, англ. **geosynchronous transfer orbit** или **geostationary transfer orbit (GTO)** — орбита, являющаяся переходной между НОО (высота порядка 200 км) и геостационарной орбитой (ГСО) (35 786 км). В отличие от НОО и ГСО, которые в первом приближении являются круговыми, переходная орбита — это сильно вытянутая эллиптическая траектория движения КА, перигей которой лежит на расстоянии НОО от Земли, а апогей на расстоянии ГСО (орбита Гомана — Ветчинкина).
 
 Завершение вывода КА на ГСО происходит, когда он достигает апогея при движении по геопереходной орбите. В этот момент разгонный блок сообщает аппарату разгонный импульс, который превращает его эллиптическое движение в круговое с периодом обращения вокруг Земли, равным одним суткам.
@@ -194,9 +194,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Геосинхронная орбита
+### Геосинхронная орбита
 **Геосинхро́нная орби́та (ГСО)**, англ. **geosynchronous orbit (GSO)** — орбита вращающегося вокруг Земли КА, на которой период обращения равен звёздному периоду вращения Земли — 23 час. 56 мин. 4.1 с.
 
 ![](f/nav/orbit_geosynchronous_orbit.gif)
@@ -219,9 +219,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Геостационарная орбита
+### Геостационарная орбита
 **Геостациона́рная орби́та (ГСО)**, англ. **geostationary orbit, geostationary Earth orbit или geosynchronous equatorial orbit (GEO)** — круговая орбита, расположенная над экватором Земли (0° широты), находясь на которой, искусственный спутник обращается вокруг планеты с угловой скоростью, равной угловой скорости вращения Земли вокруг оси. В горизонтальной системе координат направление на спутник не изменяется ни по азимуту, ни по высоте над горизонтом, спутник «висит» в небе неподвижно. Поэтому спутниковая антенна, однажды направленная на такой спутник, всё время остаётся направленной на него. Геостационарная орбита является разновидностью геосинхронной орбиты и используется для размещения искусственных спутников (коммуникационных, телетрансляционных и т.п.).
 
 Геостационарная орбита (GEO) — это круговая геосинхронная орбита в плоскости земного экватора с радиусом около 42 164 ㎞ (измеряется от центра Земли). Спутник на такой орбите находится на высоте около 35 786 ㎞ от среднего уровня моря. Подобная орбита иногда также называется орбитой Кларка в честь Артура Кларка. Данные орбиты удобны для телекоммуникационных спутников.
@@ -266,9 +266,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Геоцентрическая орбита
+### Геоцентрическая орбита
 **Геоцентрическая орбита** — траектория движения небесного тела по эллиптической траектории вокруг Земли. Один из двух фокусов эллипса, по которому движется небесное тело, совпадает с Землёй. Для того, чтобы космический корабль оказался на этой орбите, ему необходимо сообщить скорость, которая меньше второй космической скорости, но не меньше чем первая космическая скорость.
 
 ![](f/nav/orbit_geocentr-wikipedia.jpg)
@@ -277,9 +277,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Лиссажу
+### Лиссажу
 **Орбита Лиссажу** — квазипериодическая орбитальная траектория, по которой тело может двигаться вокруг [точки Лагранжа](l_points.md) в рамках задачи трёх тел без включения двигателей. Орбиты Ляпунова вокруг точек Лагранжа являются кривыми, лежащими в одной плоскости с двумя главными телами в системе трёх тел. Орбиты Лиссажу, напротив, включают участки как в этой плоскости, так и в перпендикулярной к ней, и следуют кривым Лиссажу. Гало‑орбиты также включают компоненты в перпендикулярной плоскости, но гало‑орбиты, в отличие от орбит Лиссажу, являются периодическими.
 
 На практике, любая орбита вокруг точек Лагранжа L1, L2, L3 динамически неустойчива, и малые возмущения орбиты со временем возрастают. В результате космический аппарат должен включать двигатели для коррекции орбиты. В отсутствие других воздействий орбиты вокруг точек L4 и L5 (при отношении масс главных тел более 25) устойчивы, причём в случае возникновения отклонений от траектории возникает сила, возвращающая тело на орбиту вблизи точки Лагранжа. Такие орбиты могут всё же быть выведены из состояния устойчивости при наличии поблизости других массивных тел. Было выявлено, что точки L4 и L5 в системе Земля‑Луна будут устойчивы в течение миллиардов лет даже при учёте возмущений от Солнца; но при учёте возмущений от планет орбиты вокруг этих точек могут существовать только в течение нескольких миллионов лет.
@@ -302,9 +302,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## «Молния»
+### «Молния»
 
 **Орбита «Молния»** — один из типов высокой эллиптической орбиты с наклонением в 63,4°, аргументом перицентра −90° и периодом обращения в половину звёздных суток. Данный тип орбиты получил название по серии советских космических аппаратов «Молния» двойного назначения, впервые использовавших эту орбиту в своей работе.
 
@@ -333,9 +333,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Низкая околоземная орбита
+### Низкая околоземная орбита
 **Низкая околоземная орбита** (НОО, англ. low‑Earth orbit, LEO) — орбита КА вокруг Земли, имеющая высоту над поверхностью планеты в диапазоне от 160 ㎞ (период обращения около 88 минут) до 2 000 ㎞ (период около 127 минут). Объекты, находящиеся на более низких высотах, чем 160 ㎞, испытывают сильное влияние атмосферы и нестабильны. За исключением пилотируемых полётов к Луне (программа Аполлон, США), все космические полеты человека проходили либо в области НОО, либо являлись суборбитальными. Наибольшую высоту среди пилотируемых полётов в области НОО имел КА Gemini 11 с апогеем в 1 374 ㎞. Ныне все обитаемые космические станции и большая часть ИСЗ используют или использовали НОО. Также, на НОО сосредоточена большая часть космического мусора.
 
 **Низкая опорная орбита** *(НОО)* — орбита КА около Земли. Орбиту правомерно называть «опорной», если предполагается её значительное изменение — увеличение высоты или изменение наклонения. Если же маневры не предусмотрены или КА вообще не имеет собственной ДУ, предпочтительно использование названия «низкая околоземная орбита». В общем случае считается, что КА находится на опорной орбите, если он движется с первой космической скоростью, и находится на высоте, где соответствующая плотность верхних слоёв атмосферы, в первом приближении, допускает круговое или эллиптическое движение. При этом на орбите такого типа КА может находиться не менее одного витка. Типичные параметры опорной орбиты, на примере космического корабля «Союз‑ТМА», могут составлять:
@@ -368,9 +368,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Синхронная орбита
+### Синхронная орбита
 **Синхро́нная орби́та (СО)**, англ. synchronous orbit (SO) — такая орбита, на которой период обращения спутника равен периоду осевого вращения центрального тела. Если СО круговая и её плоскость совпадает с плоскостью экватора центрального тела, то такую орбиту называют стационарной. Спутник на стационарной орбите кажется неподвижным с точки зрения наблюдателей, находящихся на центральном теле. Соответствующие орбиты Земли называют геосинхронной и геостационарной.
 
 ![](f/nav/orbit_geostationary_orbit.gif)
@@ -379,9 +379,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## Солнечно‑синхронная орбита
+### Солнечно‑синхронная орбита
 **Со́лнечно‑синхро́нная орби́та** *(иногда гелиосинхронная)*, англ. **Sun-synchronous orbit (SSO)** — геоцентрическая орбита с такими параметрами, что объект на ней проходит над любой точкой земной поверхности примерно в одно и то же местное солнечное время. Т.е. угол освещения земной поверхности будет примерно одинаковым на всех проходах КА. Такие постоянные условия освещения хорошо подходят для КА, получающих изображения земной поверхности (в т.ч. спутников ДЗЗ, метеоспутников). Однако присутствуют годовые колебания солнечного времени, вызванные эллиптичностью земной орбиты.
 
 ![](f/nav/orbit_sun-synchronous_orbit.gif)
@@ -398,9 +398,9 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 ---
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
-## «Тундра»
+### «Тундра»
 Орбиты «Тундра» являются эллиптическими геосинхронными орбитами, их типичный эксцентриситет от 0,25 до 0,4. Наклонение таких орбит составляет от 62,15° до 63,4°;
 
 Такие орбиты используется, в частности, компанией «Sirius XM Radio» (система «Sirius XM» из трёх КА) и японской навигационной системой QZSS.
@@ -409,16 +409,16 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 
 
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[Contact](contact.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SRRQ](srrq.md)**·БКНР, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md) ┊ [Апоцентр и перицентр](apopericentre.md) ┊ [Гравманёвр](gravass.md) ┊ [Кеплеровы элементы](keplerian.md) ┊ [Космическая скорость](esc_vel.md) ┊ [Сфера Хилла](hill_sphere.md) ┊ [Терминатор](terminator.md) ┊ [Точки Лагранжа](l_points.md) ┊ [Эффект Оберта](oberth_eff.md)|
-|**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md) ┊ [Business travel](business_travel.md) ┊ [Chief designers council](cocd.md) ┊ [CML](cml.md) ┊ [Competence](competence.md) ┊ [Confident](confident.md) ┊ [Consp.theory](consp_theory.md) ┊ [Control sys. (CS)](cs.md) ┊ [Coordinate system](coord_sys.md) ┊ [Curator](curator.md) ┊ [Designer’s supervision](des_spv.md) ┊ [E‑sig](esig.md) ┊ [Engineer](se.md) ┊ [Errand](errand.md) ┊ [Federal law](fed_law.md) ┊ [Federal TP](fed_tp.md) ┊ [Federal SP](fed_sp.md) ┊ [GNC](gnc.md) ┊ [Gravity assist](gravass.md) ┊ [Industrial archaeology](ind_arch.md) ┊ [Instruction](instruction.md) ┊ [Lean manuf.](lean_man.md) ┊ [Lifetime](lifetime.md) ┊ [Manager](manager.md) ┊ [MBSE](mbse.md) ┊ [Meeting](meeting.md) ┊ [MCC](mcc.md) ┊ [MIC](mic.md) ┊ [MML](mml.md) ┊ [MoU](mou.md) ┊ [Nav. & ballistics (NB)](nnb.md) ┊ [Nonprofit org.](nonprof_org.md) ┊ [NX](nx.md) ┊ [Oberth effect](oberth_eff.md) ┊ [Org.structure](orgstruct.md) ┊ [Outcomes commission](outccom.md) ┊ [Patent](patent_res.md) ┊ [Peter prin.](peter_principle.md) ┊ [Plan](plan.md) ┊ [PMBok](pmbok.md) ┊ [Quorum](quorum.md) ┊ [R&D management](mgmt.md) ┊ [R&D support](rnd_support.md) ┊ [Recursion](recurs.md) ┊ [Schulze_method](schulze_method.md) ┊ [Sci'N'Tech activities](st_act.md) ┊ [Sci'N'Tech council](satc.md) ┊ [Single-window system](sw_sys.md) ┊ [Situ.leadership](situ_leadership.md) ┊ [Skunk works](skunk_works.md) ┊ [State arm. plan](plan_sa.md) ┊ [Swamp](swamp.md) ┊ [Teamcenter](teamcenter.md) ┊ [Tennis racket theorem](tr_theorem.md) ┊ [TRIZ](triz.md) ┊ [TRL](trl.md) ┊ [V‑model](v_model.md) ┊ [Veto](veto.md) ┊ [Workflow](workflow.md) ┊ [Workgroup](wg.md)|
-|**··• [Systems engineering](se.md) •··**<br> [Competence](competence.md) ┊ [Coordinate system](coord_sys.md) ┊ [Designer’s supervision](des_spv.md) ┊ [Industrial archaeology](ind_arch.md) ┊ [Instruction](instruction.md) ┊ [Lean manuf.](lean_man.md) ┊ [Lifetime](lifetime.md) ┊ [MBSE](mbse.md) ┊ [MML](mml.md) ┊ [Nav. & ballistics (NB)](nnb.md) ┊ [NASA SEH](nasa_seh.md) ┊ [Oberth effect](oberth_eff.md) ┊ [PMBok](pmbok.md) ┊ [Quorum](quorum.md) ┊ [R&D management](mgmt.md) ┊ [R&D support](rnd_support.md) ┊ [Recursion](recurs.md) ┊ [Schulze_method](schulze_method.md) ┊ [Sci'N'Tech activities](st_act.md) ┊ [Sci'N'Tech council](satc.md) ┊ [Skunk works](skunk_works.md) ┊ [SysML](sysml.md) ┊ [Tennis racket theorem](tr_theorem.md) ┊ [TRIZ](triz.md) ┊ [TRL](trl.md) ┊ [V‑model](v_model.md) ┊ [Workflow](workflow.md) ┊ [Workgroup](wg.md)|
+|**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md)┊ [Апоцентр и перицентр](apopericentre.md)┊ [Гравманёвр](gravass.md)┊ [Кеплеровы элементы](keplerian.md)┊ [Космическая скорость](esc_vel.md)┊ [Сфера Хилла](hill_sphere.md)┊ [Терминатор](terminator.md)┊ [Точки Лагранжа](l_points.md)┊ [Эффект Оберта](oberth_eff.md)|
+|**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md)┊ [Business travel](business_travel.md)┊ [Chief designers council](cocd.md)┊ [CML](cml.md)┊ [Competence](competence.md)┊ [Confident](confident.md)┊ [Consp.theory](consp_theory.md)┊ [Control sys. (CS)](cs.md)┊ [Coordinate system](coord_sys.md)┊ [Curator](curator.md)┊ [Designer’s supervision](des_spv.md)┊ [E‑sig](esig.md)┊ [Engineer](se.md)┊ [Errand](errand.md)┊ [Federal law](fed_law.md)┊ [Federal TP](fed_tp.md)┊ [Federal SP](fed_sp.md)┊ [GNC](gnc.md)┊ [Gravity assist](gravass.md)┊ [Industrial archaeology](ind_arch.md)┊ [Instruction](instruction.md)┊ [Lean manuf.](lean_man.md)┊ [Lifetime](lifetime.md)┊ [Manager](manager.md)┊ [MBSE](mbse.md)┊ [Meeting](meeting.md)┊ [MCC](mcc.md)┊ [MIC](mic.md)┊ [MML](mml.md)┊ [MoU](mou.md)┊ [Nav. & ballistics (NB)](nnb.md)┊ [Nonprofit org.](nonprof_org.md)┊ [NX](nx.md)┊ [Oberth effect](oberth_eff.md)┊ [Org.structure](orgstruct.md)┊ [Outcomes commission](outccom.md)┊ [Patent](patent_res.md)┊ [Peter prin.](peter_principle.md)┊ [Plan](plan.md)┊ [PMBok](pmbok.md)┊ [Quorum](quorum.md)┊ [R&D management](mgmt.md)┊ [R&D support](rnd_support.md)┊ [Recursion](recurs.md)┊ [Schulze_method](schulze_method.md)┊ [Sci'N'Tech activities](st_act.md)┊ [Sci'N'Tech council](satc.md)┊ [Single-window system](sw_sys.md)┊ [Situ.leadership](situ_leadership.md)┊ [Skunk works](skunk_works.md)┊ [State arm. plan](plan_sa.md)┊ [Swamp](swamp.md)┊ [Teamcenter](teamcenter.md)┊ [Tennis racket theorem](tr_theorem.md)┊ [TRIZ](triz.md)┊ [TRL](trl.md)┊ [V‑model](v_model.md)┊ [Veto](veto.md)┊ [Workflow](workflow.md)┊ [Workgroup](wg.md)|
+|**··• [Systems engineering](se.md) •··**<br> [Competence](competence.md)┊ [Coordinate system](coord_sys.md)┊ [Designer’s supervision](des_spv.md)┊ [Industrial archaeology](ind_arch.md)┊ [Instruction](instruction.md)┊ [Lean manuf.](lean_man.md)┊ [Lifetime](lifetime.md)┊ [MBSE](mbse.md)┊ [MML](mml.md)┊ [Nav. & ballistics (NB)](nnb.md)┊ [NASA SEH](nasa_seh.md)┊ [Oberth effect](oberth_eff.md)┊ [PMBok](pmbok.md)┊ [Quorum](quorum.md)┊ [R&D management](mgmt.md)┊ [R&D support](rnd_support.md)┊ [Recursion](recurs.md)┊ [Schulze_method](schulze_method.md)┊ [Sci'N'Tech activities](st_act.md)┊ [Sci'N'Tech council](satc.md)┊ [Skunk works](skunk_works.md)┊ [SysML](sysml.md)┊ [Tennis racket theorem](tr_theorem.md)┊ [TRIZ](triz.md)┊ [TRL](trl.md)┊ [V‑model](v_model.md)┊ [Workflow](workflow.md)┊ [Workgroup](wg.md)|
 
    1. Docs: …
    1. Notable interwikies — …

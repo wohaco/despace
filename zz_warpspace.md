@@ -4,17 +4,17 @@
 |[![](f/contact/w/warpspace_logo1_thumb.jpg)](f/contact/w/warpspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2-5-1-203 Azuma, Tsukuba science city, Ibaraki, Japan*|
 |:--|:--|
 |Link|<https://warpspace.jp><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/warpspace/><br> <https://www.linkedin.com/company/warpspace-inc/>|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|・Communication Infrastructure Business for Low Orbit Satellites.<br> ・WarpHub InterSat Service. Anytime Anywhere. Delivering the internet anywhere in space. User satellites can connect the hub satellite & have a fast 24/7 link with equipping only an ultra‑compact communication module of optical laser component. WarpHub will realize a full‑time connection & overwhelming high cost performance for satellite communication.|
+|**[Manage-<br>ment](mgmt.md)**|…|
 
 **WARPSPACE Inc.** was founded 2016.08.03 as a space field startup after 5 years satellites development experiences at the University of Tsukuba, Japan.
 
 We have experienced two real [satellite](sc.md) developments & launch under the JAXA program. In addition to our professional knowledge & experiences, we pursue the space development for everyone through our close partnership with JAXA & access to various research institutes located in Tsukuba Science City.
 
-**Business:**
-
-   - Communication Infrastructure Business for Low Orbit Satellites.
-   - WarpHub InterSat Service. Anytime Anywhere. Delivering the internet anywhere in space. User satellites can connect the hub satellite & have a fast 24/7 link with equipping only an ultra‑compact communication module of optical laser component. WarpHub will realize a full‑time connection & overwhelming high cost performance for satellite communication.
-
-<p style="page-break-after:always"> </p>
+<p style="page-break-after:always"> </p>
 
 Our Services
 
