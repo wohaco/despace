@@ -77,22 +77,22 @@ For the person's info page see **[Persons](person.md)**.
 |**・ Contractors ・**|•|•|•|•|•|• • •|
 |[ADGA](zz_adga.md)   (ON)|·|·|·|C|·|Advanced technology solutions, professional engineering & consultancy|
 |[AQST Canada](zz_aqst_ca.md)   (QC)|·|·|·|R|·|GEO sats, electric propulsion, materials solutions, remote sensing, robotics|
-|[AIAC](zz_aiac.md)   (ON)|·|·|·|·|·|Aerospace Industries Association of Canada|
-|[AlbertaSat](zz_albertasat.md)   (AB)|N|·|·|·|·|Cubesats|
-|[August IS Tech](zz_august_is_tech.md)   (ON)|E|·|·|R|·|Space infrastructure, R&D, education, commercialization of innovative solutions|
-|[Baryon Dynam.](zz_baryon_dyn.md)   (ON)|·|·|·|·|·|Power & space propulsion, engineering designs & expertise|
-|[BRASS](zz_brass.md)   (ON)|·|·|·|·|·|Разработка новых космических технологий|
-|[C-CORE](zz_c_core.md)   (ON)|·|·|·|·|·|Risks mitigation, remote sensing systems, ice/geotechnical engineering|
-|[C6 Launch](zz_c6_launch.md)   (ON)|·|·|·|·|·|Пуск кубсатов|
-|[Canadensys](zz_canadensys.md)   (ON)|·|·|·|·|·|Cubesats, rovers, SC systems|
-|[CASI](zz_casi.md)   (ON)|E|·|·|·|·|Canadian Aeronautics & Space Institute|
-|[CCERA](zz_ccera.md)   (ON)|·|·|·|·|·|Canadian Center for Experimental Radio Astronomy|
+|[AIAC](zz_aiac.md)   (ON)|·|·|P|·|·|Aerospace Industries Association of Canada|
+|[AlbertaSat](zz_albertasat.md)   (AB)|N|·|·|R|·|Cubesats|
+|[August IST](zz_august_ist.md)   (ON)|E|·|·|R|·|Space infrastructure, R&D, education, commercialization of innovative solutions|
+|[Baryon Dynam.](zz_baryon_dyn.md)   (ON)|·|·|·|R|·|Power & space propulsion, engineering designs & expertise|
+|[BRASS](zz_brass.md)   (ON)|E|·|P|C|·|Разработка новых космических технологий|
+|[C-CORE](zz_c_core.md)   (ON)|·|·|·|C|·|Risks mitigation, remote sensing systems, ice/geotechnical engineering|
+|[C6 Launch](zz_c6_launch.md)   (ON)|·|L|·|R|·|Пуск кубсатов|
+|[Canadensys](zz_canadensys.md)   (ON)|·|·|·|R|·|Cubesats, rovers, SC systems, avionics, sensors|
+|[CASI](zz_casi.md)   (ON)|E|·|P|·|·|Canadian Aeronautics & Space Institute|
+|[CCERA](zz_ccera.md)   (ON)|E|·|·|·|·|Canadian Center for Experimental Radio Astronomy|
 |[Columbiad](zz_columbiad.md)   (ON)|·|L|·|·|·|Commercial low‑cost space launch|
 |[Concordia Univ.](zz_concordia_univ.md)   (QC)|E|·|·|·|·|…|
-|[CPSX](zz_cpsx.md)   (ON)|·|·|·|·|·|Planetary science, exploration research, training|
-|[CSS](zz_css.md)   (ON)|N|·|·|·|·|Канада в космосе|
-|[Deltion Ltd](zz_deltion.md)   (ON)|·|·|·|·|·|Добыча ресурсов, роботизация, разработка астероидов|
-|[DSS](zz_dsslabs.md)   (NS)|N|·|·|·|·|Кубсаты. Студенческое общество|
+|[CPSX](zz_cpsx.md)   (ON)|E|·|P|·|·|Planetary science, exploration research, training|
+|[CSS](zz_css.md)   (ON)|N|·|P|·|·|Канада в космосе|
+|[Deltion Ltd](zz_deltion.md)   (ON)|·|·|·|R|·|Technology dev./improvement mostly for automation & robotics, Moon mining|
+|[DSS](zz_dss.md)   (NS)|N|·|·|R|·|CubeSats development. Student community|
 |[Euroconsult](zz_euroconsult.md)   (QC)|·|·|·|C|·|Strategic, research, summits, training programs|
 |[Geocentrix Tech.](zz_geocentrix_tech.md)   (BC)|·|·|·|·|·|Satellite/Launch mission design, analysis, operations, management, consulting|
 |[GHGSat](zz_ghgsat.md)   (QC)|·|·|·|·|·|Съёмка Земли|
@@ -134,7 +134,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Xiphos](zz_xiphos.md)   (QC)|·|·|·|·|·|ЦВМ, ПО|
 |**・ Not space ・**|•|•|•|•|•|Avant Aerospace, CAE;<br> *Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)|
 
-[![](f/contact/map/canada_political_ru_thumb.jpg)](f/contact/map/canada_political_ru.png)
+[![](f/con/map/canada_political_ru_thumb.jpg)](f/con/map/canada_political_ru.png)
 
 
 
@@ -385,7 +385,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Yspace LLC](zz_yspace.md)   8|E|·|·|C|·|VR|
 |**・ Not space ・**|•|•|•|•|·|Panasonic Avionics Corp.<br> *Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)|
 
-[![](f/contact/map/japan_political_thumb.png)](f/contact/map/japan_political.png)
+[![](f/con/map/japan_political_thumb.png)](f/con/map/japan_political.png)
 
 
 
@@ -411,7 +411,7 @@ For the person's info page see **[Persons](person.md)**.
 |[SIIS](zz_siis.md)   6|·|·|·|R|·|Sat imagery provider|
 |**・ Not space ・**|•|•|•|•|•|• • •|
 
-[![](f/contact/map/korea_south_political_thumb.png)](f/contact/map/korea_south_political.png)
+[![](f/con/map/korea_south_political_thumb.png)](f/con/map/korea_south_political.png)
 
 
 
@@ -436,7 +436,7 @@ For the person's info page see **[Persons](person.md)**.
 |[ИКИ РАН](zz_iki_ras.md) (НРДК)|·|·|·|·|·|Исследование космоса, НА, ННК, научные задачи|
 |[Главкосмос](zz_glavkosmos.md)|·|·|·|·|·|Внешне‑экономическая деятельность РКТ, НИОКР|
 |[Роскосмос](zz_roskosmos.md)|·|·|·|·|·|Федеральный орган исполн. власти по косм. деятельности|
-|[ЦНИИмаш](zz_tsniimash.md)|·|·|·|·|·|ГНИО РФ. Проектирование, экспер. и исследования КТ|
+|[ЦНИИмаш](zz_tsniimash.md)|·|·|·|·|·|[ГНИО РФ](hrorsi.md). Проектирование, экспер. и исследования КТ|
 |**・ Contractors ・**|•|•|•|•|•|• • •|
 |[AvantSpace](zz_avantspace.md)|·|·|·|·|·|Малые спутники, ионные двигатели, радиопередатчики|
 |[АВЭКС](zz_aveks.md) (МКТН)|·|·|·|·|·|Проектирование и изготовление систем электроснабжения|
@@ -505,6 +505,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Сафит](zz_safit.md)|·|·|·|·|·|Трубы, баллоны|
 |[СКБ](zz_sdb_ire_ras.md) (ТИДН)|·|·|·|·|·|…|
 |[СКБ КП](zz_skbkp.md)|·|·|·|·|·|[OE](oe.md) для фундаментальных космических исследований|
+|[Совзонд](zz_sovzond.md)|·|·|·|·|·|Изображения Земли, аналитика|
 |[Спутникс](zz_sputnix.md)|·|·|·|·|·|…|
 |[Техномаш](zz_tehnomash.md)|·|·|·|·|·|Метрологическая аттестация, сертификация, аудит|
 |[ФАНО](фано.md)|·|·|·|·|·|Регулирование, услуги науки, образ., здравоохр., агропрома|
@@ -652,7 +653,7 @@ For the person's info page see **[Persons](person.md)**.
 |[XISP-Inc](zz_xisp_inc.md)|·|·|·|·|·|Mission/product R&D, sales, support|
 |[Xplore](zz_xplore.md)|·|·|·|·|·|Космические аппараты|
 
-[![](f/contact/map/usa_political_thumb.jpg)](f/contact/map/usa_political.png)
+[![](f/con/map/usa_political_thumb.jpg)](f/con/map/usa_political.png)
 
 
 
@@ -691,7 +692,7 @@ For the person's info page see **[Persons](person.md)**.
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**··• [](.md) •··**<br> <mark>NOCAT</mark>|
 

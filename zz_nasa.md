@@ -1,9 +1,9 @@
 # NASA
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/nasa_logo1_thumb.jpg)](f/contact/n/nasa_logo1.png)|<mark>noemail</mark>, +1(202)358-00-01, Fax: +1(202)358-43-38;<br> *NASA Headquarters, 300 E. Street SW, Suite 5R30, Washington, DC 20546, USA*|
+|[![](f/con/n/nasa_logo1_thumb.jpg)](f/con/n/nasa_logo1.png)|<mark>noemail</mark>, +1(202)358-00-01, Fax: +1(202)358-43-38;<br> *NASA Headquarters, 300 E. Street SW, Suite 5R30, Washington, DC 20546, USA*|
 |:--|:--|
-|Link|<http://www.nasa.gov/home/index.html><br> <https://ru.wikipedia.org/wiki/НАСА>|
+|Link|<http://www.nasa.gov/home/index.html>・ <https://ru.wikipedia.org/wiki/НАСА>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

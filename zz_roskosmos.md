@@ -1,9 +1,9 @@
 # Роскосмос
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/r/roscosmos_logo1_thumb.jpg)](f/contact/r/roscosmos_logo1.png)|<info@roscosmos.ru>, +7(495)631-90-00 (+ доб.номер), Fax: +7(495)631-9900;<br> *Россия, 107996, ГСП‑6, Москва, ул. Щепкина, д. 42*|
+|[![](f/con/r/roscosmos_logo1_thumb.jpg)](f/con/r/roscosmos_logo1.png)|<info@roscosmos.ru>, +7(495)631-90-00 (+ доб.номер), Fax: +7(495)631-9900;<br> *Россия, 107996, ГСП‑6, Москва, ул. Щепкина, д. 42*|
 |:--|:--|
-|Link|<http://www.roscosmos.ru/><br> <http://www.federalspace.ru/><br> [Новые 10 заповедей Роскосмоса ⎆](https://habr.com/post/415831/)|
+|Link|<http://www.roscosmos.ru/>・ <http://www.federalspace.ru/><br> [Новые 10 заповедей Роскосмоса ⎆](https://habr.com/post/415831/)|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

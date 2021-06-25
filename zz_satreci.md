@@ -1,9 +1,9 @@
 # Satrec Initiative
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/satreci_logo1_thumb.png)](f/contact/s/satreci_logo1.png)|<inquiries@satreci.com>, +82-42-365-7474, Fax: +82-42-365-7790;<br> *21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*|
+|[![](f/con/s/satreci_logo1_thumb.png)](f/con/s/satreci_logo1.png)|<inquiries@satreci.com>, +82-42-365-7474, Fax: +82-42-365-7790;<br> *21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*|
 |:--|:--|
-|Link|<https://www.satreci.com/><br> <https://en.wikipedia.org/wiki/Satrec_Initiative><br> <https://www.linkedin.com/company/satrec-initiative><br> <https://www.linkedin.com/company/satrec-initiative/><br> <https://www.linkedin.com/company/si-imaging-services/>|
+|Link|<https://www.satreci.com/>・ <https://en.wikipedia.org/wiki/Satrec_Initiative>・ <https://www.linkedin.com/company/satrec-initiative>・ <https://www.linkedin.com/company/satrec-initiative/>・ <https://www.linkedin.com/company/si-imaging-services/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

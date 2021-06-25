@@ -1,9 +1,9 @@
 # NCSU
 > 2019.08.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/ncsu_logo1_thumb.jpg)](f/contact/n/ncsu_logo1.png)|<newstips@ncsu.edu>, +1(919)515-20-11, Fax: …;<br> *Campus Box 7001, A Holladay Hall, Raleigh, NC, 27695, USA*|
+|[![](f/con/n/ncsu_logo1_thumb.jpg)](f/con/n/ncsu_logo1.png)|<newstips@ncsu.edu>, +1(919)515-20-11, Fax: …;<br> *Campus Box 7001, A Holladay Hall, Raleigh, NC, 27695, USA*|
 |:--|:--|
-|Link|<https://www.ncsu.edu/><br> <https://ru.wikipedia.org/wiki/Университет_штата_Северная_Каролина><br> <https://en.wikipedia.org/wiki/North_Carolina_State_University><br> <http://www.facebook.com/ncstate><br> <http://www.youtube.com/ncstate><br> <https://twitter.com/ncstate><br> <https://instagram.com/ncstate><br> <https://www.linkedin.com/edu/north-carolina‑state-university-18786>|
+|Link|<https://www.ncsu.edu/>・ <https://ru.wikipedia.org/wiki/Университет_штата_Северная_Каролина>・ <https://en.wikipedia.org/wiki/North_Carolina_State_University>・ <http://www.facebook.com/ncstate>・ <http://www.youtube.com/ncstate>・ <https://twitter.com/ncstate>・ <https://instagram.com/ncstate>・ <https://www.linkedin.com/edu/north-carolina‑state-university-18786>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

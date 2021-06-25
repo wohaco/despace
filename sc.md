@@ -9,50 +9,7 @@
 
 **Космический аппарат (КА)**, нар. **Махарайка, пепелац** — техническое устройство, предназначенное для функционирования в космическом пространстве с целью решения задач в соответствии с назначением [КК (КС)](scs.md).
 
-**Разновидности:**
-
-   - **Авиационно‑космическая система (АКС)** — *Aerospace system* — РН с КА стартует с летящего самолёта.
-   - **Автоматический космический аппарат (АКА)**.
-   - **Композитный космический аппарат (ККА)** — КА, включающий в себя другие КА.
-   - **Кубсат**.
-   - **Многоразовая космическая транспортная система (МКТС, МТКС)** — *Reusable space transport system* — разновидность МКА.
-   - **Многоразовый космический аппарат (МКА)**, иногда *«космический аппарат многоразового использования»* — *Re‑entry space vehicle* — КА, конструкция которого предусматривает повторное использование КА или его СЧ после возвращения из космического полёта.
-   - **Модуль** — в некоторой степени автономная составная часть КА.
-   - **Пилотируемый космический аппарат (ПКА)** — manned spacecraft (MSC) — КА для путешествия живых существ в космос.
-   - **Спутник**.
-
-**Classification:**
-
-   1. **Atmospheric** spacecraft (атмосферный КА)
-      1. Balloon — ➀ high‑height, ➁ low‑height, ➂ powered, ➃ simple, ➄ variable altitude
-      1. Communications atmospheric spacecraft (КА для связи)
-      1. Plane — ➀ glider, ➁ powered, ➂ maneuverable
-   1. **Base** (база)
-      1. Ground
-      1. Orbital
-   1. **Lander** spacecraft (посадочный КА)
-      1. Communications lander (КА для связи)
-      1. Penetrator (КА‑пенетратор)
-      1. Plane — ➀ glider, ➁ powered, ➂ maneuverable
-      1. Rover (планетоход)
-   1. **Orbiter** spacecraft, or **Satellite** (орбитальный КА)
-      1. Communications orbiter (КА для связи) — ➀ high‑height, ➁ L1/L2, ➂ low‑height
-      1. Fly‑by spacecraft (пролётный КА)
-      1. Observatory (КА‑обсерватория) — ➀ high‑height, ➁ L1/L2, ➂ low‑height
-   1. **Robot**
-      1. Arm
-      1. Antropomorphic
-      1. Digger
-   1. **Other** that is applicable to almost any of the above mentioned
-      1. Manned — ➀ manned, ➁ unmanned
-      1. Size — ➀ large, ➁ medium, ➂ micro, ➃ nano, ➄ small
-      1. Swarm — ➀ net, ➁ single
-
-**Описание.**
-
-Любой КА прост как смартфон среднего уровня 2015 года выпуска. Осталось только решить вопросы температур, перегрузок, радиации и вперёд.
-
-**Таблица.** [Что общего](wbs.md) ~~у ворона и письменного стола~~ у КА и смартфона 2015 года выпуска.
+Любой КА прост как смартфон среднего уровня. Осталось решить вопросы температур, перегрузок, радиации и вперёд. [Что же общего](draft_model.md) ~~у ворона и письменного стола~~ у КА и смартфона 2015 года выпуска.
 
 |*СЧ*|*КА*|*Смартфон*|
 |:--|:--|:--|
@@ -78,49 +35,60 @@
 
 **Производители.**
 
-   - **Australia:** …
-   - **Canada:** …
-   - **China:** …
-   - **Europe:** …
-   - **India:** …
-   - **Israel:** …
-   - **Japan:**
-      1. [ALE Co., Ltd](zz_ale.md) — small Earth satellites
-      1. [Axelspace](zz_axelspace.md) — microsats
-      1. [CE Space](zz_ce_space.md) — microsats
-      1. [ispace](zz_ispace.md)
-      1. [JAMSS](zz_jamss.md) — Earth sats
-      1. JAXA [ISAS](zz_isas.md)
-      1. JAXA [Tsukuba Space Center](zz_tsukuba_sc.md)
-      1. [Kawasaki HVI](zz_kawasaki_hvi.md)
-      1. [Meisei](zz_meisei.md) — microsats
-      1. [Mitsubishi Electric](zz_mitsubishi.md)
-      1. [NEC](zz_nec.md)
-      1. [PDAS](zz_pd_aerospace.md) — suborbital spaceplane for tourism
-      1. [SKY Perfect JSAT](zz_sky_perfect_jsat.md)
-      1. [Space Walker](zz_space_walker.md) — suborbital spaceplane for tourism
-      1. [Synspective](zz_synspective.md) — small Earth sats
-      1. [Warpspace](zz_warpspace.md)
-   - **Korea South:**
-      1. [KAI](zz_kai.md)
-      1. [KARI](zz_kari.md)
-      1. [Satrec Initiative](zz_satreci.md)
-   - **Russia:**
-      1. Lavochkin Association
-      1. [VNIIEM](zz_vniiem.md)
-      1. [РКК Энергия](ркк_энергия.md)
-      1. [AvantSpace](zz_avantspace.md)
-   - **Saudi Arabia:** …
-   - **Singapore:** …
-   - **USA:**
-      1. [Ball A&T](zz_ball_at.md)
-      1. [Xplore](zz_xplore.md)
-   - **UAE:** …
-   - **Vietnam:** …
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|・[ADGA](zz_adga.md) — space systems engineering<br> ・[AQST Canada](zz_aqst_ca.md)<br> ・[BRASS](zz_brass.md) — design consultancy<br> ・[C-CORE](zz_c_core.md) — technology consultancy<br> ・[Canadensys](zz_canadensys.md)|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|・[ALE Co., Ltd](zz_ale.md) — small Earth satellites<br> ・[Astroscale](zz_astroscale.md) — space debris<br> ・[Axelspace](zz_axelspace.md) — microsats<br> ・[CE Space](zz_ce_space.md) — microsats<br> ・[ispace](zz_ispace.md)<br> ・[JAMSS](zz_jamss.md) — Earth sats<br> ・JAXA [ISAS](zz_isas.md)<br> ・JAXA [Tsukuba Space Center](zz_tsukuba_sc.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md)<br> ・[Meisei](zz_meisei.md) — microsats<br> ・[Mitsubishi Electric](zz_mitsubishi.md)<br> ・[NEC](zz_nec.md)<br> ・[PDAS](zz_pd_aerospace.md) — suborbital spaceplane for tourism<br> ・[SKY Perfect JSAT](zz_sky_perfect_jsat.md)<br> ・[Space Walker](zz_space_walker.md) — suborbital spaceplane for tourism<br> ・[Synspective](zz_synspective.md) — small Earth sats<br> ・[Warpspace](zz_warpspace.md)|
+|**Korea South**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Satrec Initiative](zz_satreci.md)|
+|**Russia**|・Lavochkin Association<br> ・[VNIIEM](zz_vniiem.md)<br> ・[РКК Энергия](ркк_энергия.md)<br> ・[AvantSpace](zz_avantspace.md)|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|・[Ball A&T](zz_ball_at.md)<br> ・[Xplore](zz_xplore.md)|
+|**UAE**|…|
+|**Vietnam**|…|
 
 
 
-## Кубсат
+## Разновидности и типичные формы
+> <small>**Типичные формы КА** — русскоязычный термин, не имеющий аналога в английском языке. **Typical spacecrafts shapes** — дословный перевод с русского на английский.</small>
+
+   - **Гайка** — [Фобос‑Грунт](фобос_грунт.md)
+   - **Гнездо** — [Луна‑Грунт](luna_28.md)
+   - **Голубятня** — [Луна‑25](луна_25.md), [Луна‑27](луна_27.md)
+   - **Куб** — …
+   - **Скворечник** — [Луна‑26](луна_26.md)
+
+**Разновидности:**
+
+   - **Авиационно‑космическая система (АКС)** — *Aerospace system* — РН с КА стартует с летящего самолёта.
+   - **Автоматический космический аппарат (АКА)**.
+   - **Композитный космический аппарат (ККА)** — КА, включающий в себя другие КА.
+   - **Кубсат**.
+   - **Многоразовая космическая транспортная система (МКТС, МТКС)** — *Reusable space transport system* — разновидность МКА.
+   - **Многоразовый космический аппарат (МКА)**, иногда *«космический аппарат многоразового использования»* — *Re‑entry space vehicle* — КА, конструкция которого предусматривает повторное использование КА или его СЧ после возвращения из космического полёта.
+   - **Модуль** — в некоторой степени автономная составная часть КА.
+   - **Пилотируемый космический аппарат (ПКА)** — manned spacecraft (MSC) — КА для путешествия живых существ в космос.
+   - **Спутник**.
+
+|*Classification*| |
+|:--|:--|
+|1. **Atmospheric** spacecraft<br> (атмосферный КА) |1. Balloon — ➀ high‑height, ➁ low‑height, ➂ powered, ➃ simple, ➄ variable altitude<br> 2. Communications atmospheric spacecraft (КА для связи)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable|
+|2. **Base**<br> (база)|1. Ground<br> 2. Orbital|
+|3. **Lander** spacecraft<br> (посадочный КА)|1. Communications lander (КА для связи)<br> 2. Penetrator (КА‑пенетратор)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable<br> 4. Rover (планетоход)|
+|4. **Orbiter** spacecraft,<br> or **Satellite**<br> (орбитальный КА)|1. [Communications orbiter](sc_comm.md) (КА для связи) — ➀ high‑height, ➁ L1/L2, ➂ low‑height<br> 2. Fly‑by spacecraft (пролётный КА)<br> 3. Observatory (КА‑обсерватория) — ➀ high‑height, ➁ L1/L2, ➂ low‑height|
+|5. **Robot**|1. Arm<br> 2. Antropomorphic<br> 3. Digger|
+|6. **Other** that is<br> applicable to almost<br> any of the above mentioned|1. Manned — ➀ manned, ➁ unmanned<br> 2. Size — ➀ large, ➁ medium, ➂ micro, ➃ nano, ➄ small<br> 3. Swarm — ➀ net, ➁ single|
+
+
+
+## Подвиды
+
+### Кубсат
 > <small>**Кубсат** — русскоязычный термин. **Cubesat** — англоязычный эквивалент.</small>
 
 **Кубсат, CubeSat**, также **вошь**, **горох** — формат малых (сверхмалых) искусственных спутников, имеющих объём 1 литр и массу не более 1.33 ㎏ или несколько (кратно) более. Имеется ещё более малый формат покетсат (буквально карманный) в несколько сотен или десятков грамм и несколько сантиметров.
@@ -135,47 +103,68 @@
 
 Кубсаты выводятся, как правило, сразу по несколько единиц либо посредством [ракет‑носителей](lv.md), либо с борта космических кораблей и орбитальных станций. Несколько компаний предоставляет услуги по выводу кубсатов на орбиту, в частности ISC Kosmotras и Eurokot. Для размещения на РН или КА, запуска и разведения кубсатов разработаны многоместные контейнеры‑платформы, в т.ч. с револьверным выводом на орбиту. Также для вывода кубсатов разрабатываются сверхмалые РН — наноносители.
 
-Термином «CubeSat» обозначаются наноспутники (Nano‑satellite), удовлетворяющие спецификациям стандарта, созданному под руководством профессора Bob Twiggs <small>(факультет аэронавтики и астронавтики, Стэнфорд)</small>, Спутники имеют размер 10×10×10 ㎝ и запускаются при помощи Poly‑PicoSatellite Orbital Deployer (P‑POD). Стандарт допускает объединение 2 или 3 стандартных кубов в составе одного спутника (обозначаются 2U и 3U и имеют размер 10×10×20 или 10×10×30 ㎝). Один P‑POD имеет размеры, достаточные для запуска трёх спутников 10×10×10 ㎝ или меньшего количества, общим размером не более 3U.
+Термином «CubeSat» обозначаются наноспутники (Nano‑satellite), удовлетворяющие спецификациям стандарта, созданному под руководством профессора Bob Twiggs (факультет аэронавтики и астронавтики, Стэнфорд), Спутники имеют размер 10×10×10 ㎝ и запускаются при помощи Poly‑PicoSatellite Orbital Deployer (P‑POD). Стандарт допускает объединение 2 или 3 стандартных кубов в составе одного спутника (обозначаются 2U и 3U и имеют размер 10×10×20 или 10×10×30 ㎝). Один P‑POD имеет размеры, достаточные для запуска трёх спутников 10×10×10 ㎝ или меньшего количества, общим размером не более 3U.
 
-На 2004 год, спутники в формате CubeSats могли быть изготовлены и запущены на околоземную орбиту за $ 65 ‑ 80 тысяч. На 2012 год типичная стоимость запуска CubeSat оценивалась в $ 40 тысяч (иногда доходя также до 80, хотя NASA заявило и о возможности запуска за 20 тысяч). Несколько покетсатов могут компоноваться и запускаться в контейнерном месте и по цене одного кубсата, т.е. за несколько тысяч долларов каждый. Столь низкая стоимость и унификация платформ и комплектующих позволяет разрабатывать и запускать кубсаты университетам и даже школам, небольшим частным компаниям и любительским объединениям, а покетсаты — частным лицам.
+На 2004 год, спутники в формате CubeSats могли быть изготовлены и запущены на околоземную орбиту за $ 65 000 ‑ 80 000. На 2012 год типичная стоимость запуска CubeSat оценивалась в $ 40 000 (иногда доходя также до 80 000, хотя NASA заявило и о возможности запуска за 20 000). Несколько покетсатов могут компоноваться и запускаться в контейнерном месте и по цене одного кубсата, т.е. за несколько тысяч долларов каждый. Столь низкая стоимость и унификация платформ и комплектующих позволяет разрабатывать и запускать кубсаты университетам и даже школам, небольшим частным компаниям и любительским объединениям, а покетсаты — частным лицам.
 
 Большинство CubeSat имеют один или два научных прибора, некоторые имеют небольшие выдвижные антенны и поверхностные или распахивающиеся солнечные батареи.
 
 **Производители**
 
-|*Страна*|*Фирма*|
+| | |
 |:--|:--|
-|**Канада**|[SFL](zz_utias_sfl.md)|
-|**РФ**|[AvantSpace](zz_avantspace.md), [Спутникс](zz_sputnix.md)|
+|**Australia**|…|
+|**Canada**|・[AlbertaSat](zz_albertasat.md)<br> ・[DSS](zz_dsslabs.md)<br> ・[SFL](zz_utias_sfl.md)|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|…|
+|**Korea South**|…|
+|**Russia**|・[AvantSpace](zz_avantspace.md)<br> ・[Спутникс](zz_sputnix.md)|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|…|
+|**UAE**|…|
+|**Vietnam**|…|
 
 
 
-## ПКА
+### ПКА
 > <small>**Пилотируемый космический аппарат (ПКА)** — русскоязычный термин. **Manned spacecraft** — англоязычный эквивалент.</small>
 
 **Пилотируемый космический аппарат (ПКА)** — космический аппарат, снабжённый [системами жизнеобеспечения](ls.md) и управления полётом, и предназначенный для жизни, работы или иной деятельности одного или нескольких человек в космическом пространстве. Встречаются также наименования *пилотируемый космический корабль (ПКК)* и *пилотируемая орбитальная станция (ПОС)*.
 
 Управление ПКА может осуществляться экипажем, операторами наземных [ЦУП](mcc.md), системами автоматики или комбинацией этих методов.
 
-В состав ПКА, в дополнение к [обычным системам](wbs.md) [КА](sc.md), входят:
+В состав ПКА, в дополнение к [обычным системам](draft_model.md) [КА](sc.md), входят:
 
    1. [Система аварийного спасения](les.md) (САС)
    1. [Система жизнеобеспечения](ls.md) (СЖО)
-   1. **Спускаемый аппарат** или **космоплан** для возврата экипажа на Землю
+   1. **Спускаемый аппарат** или **Космоплан** для возврата экипажа на Землю
 
 **Производители**
 
-|*Страна*|*Фирма*|
+| | |
 |:--|:--|
-|**Европа**|[ESA](zz_esa.md)|
-|**Китай**|[CNSA](zz_cnsa.md)|
-|**РФ**|[РКК Энергия](ркк_энергия.md)|
-|**США**|[Blue Origin](blue_origin.md)<br> [Boeing](zz_boeing.md)<br> [Lockheed Martin](lockheed_martin.md)<br> [SpaceX](zz_spacex.md) — [Dragon](dragon.md)|
-|**Япония**|[JAXA](zz_jaxa.md)|
+|**Australia**|…|
+|**Canada**|…|
+|**China**|・[CNSA](zz_cnsa.md)|
+|**Europe**|・[ESA](zz_esa.md)|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|・[JAXA](zz_jaxa.md)|
+|**Korea South**|…|
+|**Russia**|・[РКК Энергия](ркк_энергия.md)|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|・[Blue Origin](blue_origin.md)<br> ・[Boeing](zz_boeing.md)<br> ・[Lockheed Martin](lockheed_martin.md)<br> ・[SpaceX](zz_spacex.md) — [Dragon](dragon.md)|
+|**UAE**|…|
+|**Vietnam**|…|
 
 
 
-## Спутник
+### Спутник
 > <small>**Спутник** — русскоязычный термин. **Satellite** — англоязычный эквивалент.</small>
 
 **Satellite mass classification**  
@@ -203,9 +192,9 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Spacecraft (SC)](sc.md) •··**<br> [Cleanliness level](clean_lvl.md)┊ [Cubesat](sc.md)┊ [Interface](interface.md)┊ [Manned SC](sc.md)┊ [Satellite](sc.md)┊ [Sub-item](sui.md)┊ [Typical forms](sc_ts.md)|
+|**··• [Spacecraft (SC)](sc.md) •··**<br> [Cleanliness level](clean_lvl.md)・ [Communication SC](sc_comm.md)・ [Cubesat](sc.md)・ [FSS](sc_comm.md)・ [HTS](sc_comm.md)・ [Interface](interface.md)・ [Manned SC](sc.md)・ [Satellite](sc.md)・ [Sub-item](sui.md)・ [Typical forms](sc.md)|
 
    1. Docs:
       - [ГОСТ 53802](гост_53802.md), п. 102‑103

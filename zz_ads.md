@@ -1,7 +1,7 @@
 # ADS
 > 2019.08.29 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/ads_logo1_thumb.jpg)](f/contact/a/ads_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Мюнхен, Германия*|
+|[![](f/con/a/ads_logo1_thumb.jpg)](f/con/a/ads_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Мюнхен, Германия*|
 |:--|:--|
 |Link|<https://www.airbus.com/>|
 

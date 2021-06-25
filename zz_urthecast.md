@@ -1,9 +1,9 @@
 # UrtheCast
 > 2019.08.26 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/u/urthecast_logo1_thumb.jpg)](f/contact/u/urthecast_logo1.png)|<cx@urthecast.com>, +1(604)265-62-66, Fax: …;<br> *1055 Canada Place - Suite 33, Vancouver, BC V6C 0C3, Canada*|
+|[![](f/con/u/urthecast_logo1_thumb.jpg)](f/con/u/urthecast_logo1.png)|<cx@urthecast.com>, +1(604)265-62-66, Fax: …;<br> *1055 Canada Place - Suite 33, Vancouver, BC V6C 0C3, Canada*|
 |:--|:--|
-|Link|<http://www.urthecast.com/><br> <https://en.wikipedia.org/wiki/Urthecast>|
+|Link|<http://www.urthecast.com/>・ <https://en.wikipedia.org/wiki/Urthecast>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

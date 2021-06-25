@@ -1,9 +1,9 @@
 # Skygate Technologies
 > 2020.11.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/skygate_tech_logo1_thumb.png)](f/contact/s/skygate_tech_logo1.png)|<skygate@skygate-tech.com>, <mark>noworkphone</mark>, Fax: …; *東京都江東区青海二丁目5番10号 テレコムセンタービル東棟14F. Koto, Tokyo, Japan*|
+|[![](f/con/s/skygate_tech_logo1_thumb.png)](f/con/s/skygate_tech_logo1.png)|<skygate@skygate-tech.com>, <mark>noworkphone</mark>, Fax: …; *東京都江東区青海二丁目5番10号 テレコムセンタービル東棟14F. Koto, Tokyo, Japan*|
 |:--|:--|
-|Link|<https://www.skygate-tech.com/><br> <https://linkedin.com/company/skygate-tech><br> <https://www.facebook.com/skygatetech><br> <https://twitter.com/skygate_tech>|
+|Link|<https://www.skygate-tech.com/>・ <https://linkedin.com/company/skygate-tech>・ <https://www.facebook.com/skygatetech>・ <https://twitter.com/skygate_tech>|
 |**Mission**|To give every developer the power to change the world by earth observation data.|
 |**Vision**|…|
 |**Values**|…|

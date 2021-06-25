@@ -14,16 +14,16 @@
 |Скор., Мбит(Мбайт)/с| |
 |Циклов перезаписи| |
 |**Etc:**|• • •|
-|[ВБР](qa.md) за САС| |
+|[Reliability](qm.md)/[lifetime](lifetime.md)| |
 |Габариты, Д×Ш×В, ㎜| |
-|Интерфейсы| |
-|Mass, kg| |
+|Interfaces| |
+|Mass, ㎏| |
 |[Voltage](voltage.md), V| |
 |Overload, g| |
-|[Rad.resist](ion_rad.md), Gy (rad)| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |Resource, h (y)| |
 |[Lifetime](lifetime.md), h (y)| |
-|[Temp. range](tcs.md), ℃| |
+|[Thermal range](tcs.md), ℃| |
 |Consumption, W| |
 | |[![](f/ds//_pic1_thumb.jpg)](f/ds//_pic1.jpg)|
 

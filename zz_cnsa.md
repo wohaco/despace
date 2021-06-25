@@ -2,9 +2,9 @@
 > [🚀](../index/index.md) [despace](index.md)**  
 >  [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)Версия ..
 
-|[![](f/contact/c/cnsa_logo1_thumb.jpg)](f/contact/c/cnsa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
+|[![](f/con/c/cnsa_logo1_thumb.jpg)](f/con/c/cnsa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
-|Link|<http://www.cnsa.gov.cn/><br> <https://en.wikipedia.org/wiki/China_National_Space_Administration><br> <https://ru.wikipedia.org/wiki/Китайское_национальное_космическое_управление>|
+|Link|<http://www.cnsa.gov.cn/>・ <https://en.wikipedia.org/wiki/China_National_Space_Administration>・ <https://ru.wikipedia.org/wiki/Китайское_национальное_космическое_управление>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

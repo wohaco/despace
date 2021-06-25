@@ -1,9 +1,9 @@
 # SI Imaging Services
 > 2021.05.25 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/siis_logo1_thumb.png)](f/contact/s/siis_logo1.jpg)|<PublicRelations@si-imaging.com>, +82-70-7835-1922, Fax: … ;<br> *SI Imaging Services, 169-84, Gwahak-ro, Yuseong-gu, Dae-jeon, 34133, Republic of Korea*|
+|[![](f/con/s/siis_logo1_thumb.png)](f/con/s/siis_logo1.jpg)|<PublicRelations@si-imaging.com>, +82-70-7835-1922, Fax: … ;<br> *SI Imaging Services, 169-84, Gwahak-ro, Yuseong-gu, Dae-jeon, 34133, Republic of Korea*|
 |:--|:--|
-|Link|<https://www.si-imaging.com/><br> <https://www.linkedin.com/company/si-imaging-services/><br> <https://twitter.com/si_imaging>|
+|Link|<https://www.si-imaging.com/>・ <https://www.linkedin.com/company/si-imaging-services/>・ <https://twitter.com/si_imaging>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

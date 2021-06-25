@@ -1,9 +1,9 @@
 # Meltin
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/meltin_logo1_thumb.jpg)](f/contact/m/meltin_logo1.png)|<inquiry@metin.jp>, <mark>noworkphone</mark>, Fax: …;<br> *NMF Kayabacho Bldg. 5F, 1-17-24 Shinkawa Chuo-ku, Tokyo 104-0033*|
+|[![](f/con/m/meltin_logo1_thumb.jpg)](f/con/m/meltin_logo1.png)|<inquiry@metin.jp>, <mark>noworkphone</mark>, Fax: …;<br> *NMF Kayabacho Bldg. 5F, 1-17-24 Shinkawa Chuo-ku, Tokyo 104-0033*|
 |:--|:--|
-|Link|<https://www.meltin.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/meltin/>|
+|Link|<https://www.meltin.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/meltin/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

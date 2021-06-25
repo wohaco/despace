@@ -1,9 +1,9 @@
 # Noshiro Rocket Testing Center
 > 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jaxa_logo1_thumb.jpg)](f/contact/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-185-52-7123, Fax: +81-185-52-3189;<br> *Asanai, Noshiro-city, Akita 016-0179, Japan*|
+|[![](f/con/j/jaxa_logo1_thumb.jpg)](f/con/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-185-52-7123, Fax: +81-185-52-3189;<br> *Asanai, Noshiro-city, Akita 016-0179, Japan*|
 |:--|:--|
-|Link|<https://global.jaxa.jp/about/centers/ntc/index.html><br> <http://www.isas.jaxa.jp/en/about/facilities/noshiro.html><br> <https://en.wikipedia.org/wiki/Noshiro_Rocket_Testing_Center>|
+|Link|<https://global.jaxa.jp/about/centers/ntc/index.html>・ <http://www.isas.jaxa.jp/en/about/facilities/noshiro.html>・ <https://en.wikipedia.org/wiki/Noshiro_Rocket_Testing_Center>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

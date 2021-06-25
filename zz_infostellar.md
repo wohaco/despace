@@ -1,9 +1,9 @@
 # Infostellar
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/infostellar_logo1_thumb.jpg)](f/contact/i/infostellar_logo1.png)|<info@istellar.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Kearney Place 3F, 8 Chome-8-15 Nishigotanda, Shinagawa City, Tokyo 141-0031, Japan*|
+|[![](f/con/i/infostellar_logo1_thumb.jpg)](f/con/i/infostellar_logo1.png)|<info@istellar.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Kearney Place 3F, 8 Chome-8-15 Nishigotanda, Shinagawa City, Tokyo 141-0031, Japan*|
 |:--|:--|
-|Link|<https://infostellar.net/><br> <https://www.stellarstation.com/><br> <https://makesat.com/><br> <https://www.linkedin.com/company/infostellar>|
+|Link|<https://infostellar.net/>・ <https://www.stellarstation.com/>・ <https://makesat.com/>・ <https://www.linkedin.com/company/infostellar>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

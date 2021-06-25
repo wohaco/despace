@@ -1,9 +1,9 @@
 # НПЦАП
 > 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/npcap_logo1_thumb.jpg)](f/contact/n/npcap_logo1.png)|<info@npcap.ru>, +7(495)330-65-70, Fax: +7(495)334-83-80;<br> *Россия, 117342, Москва, ул. Введенского, д. 1*|
+|[![](f/con/n/npcap_logo1_thumb.jpg)](f/con/n/npcap_logo1.png)|<info@npcap.ru>, +7(495)330-65-70, Fax: +7(495)334-83-80;<br> *Россия, 117342, Москва, ул. Введенского, д. 1*|
 |:--|:--|
-|Link|<http://www.npcap.ru/><br> <https://en.wikipedia.org/wiki/Academician_Pilyugin_Center><br> <https://ru.wikipedia.org/wiki/НПЦАП>|
+|Link|<http://www.npcap.ru/>・ <https://en.wikipedia.org/wiki/Academician_Pilyugin_Center>・ <https://ru.wikipedia.org/wiki/НПЦАП>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

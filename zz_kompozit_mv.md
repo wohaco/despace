@@ -1,9 +1,9 @@
 # Композит
 > 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kompozit_logo1_thumb.jpg)](f/contact/k/kompozit_logo1.png)|<info@kompozit-mv.ru>, +7(495)513-20-28 — приёмная, +7(495)513-22-56 — канцелярия, Fax: +7(495)516-06-17;<br> *Россия, 141070, г. Королёв, Московская обл., Пионерская ул., 4*|
+|[![](f/con/k/kompozit_logo1_thumb.jpg)](f/con/k/kompozit_logo1.png)|<info@kompozit-mv.ru>, +7(495)513-20-28 — приёмная, +7(495)513-22-56 — канцелярия, Fax: +7(495)516-06-17;<br> *Россия, 141070, г. Королёв, Московская обл., Пионерская ул., 4*|
 |:--|:--|
-|Link|<http://kompozit-mv.ru/><br> <http://www.federalspace.ru/1532/>|
+|Link|<http://kompozit-mv.ru/>・ <http://www.federalspace.ru/1532/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

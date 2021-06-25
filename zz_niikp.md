@@ -1,9 +1,9 @@
 # НИИ КП
 > 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/nii_kp_logo1_thumb.jpg)](f/contact/n/nii_kp_logo1.png)|<info@orkkniikp.ru>, +7(495)517-92-00, Fax: +7(495)673-47-19;<br> *Россия, 111250, г. Москва, Авиамоторная ул., д. 53*|
+|[![](f/con/n/nii_kp_logo1_thumb.jpg)](f/con/n/nii_kp_logo1.png)|<info@orkkniikp.ru>, +7(495)517-92-00, Fax: +7(495)673-47-19;<br> *Россия, 111250, г. Москва, Авиамоторная ул., д. 53*|
 |:--|:--|
-|Link|<http://oaoniikp.ru/><br> <http://www.federalspace.ru/1536/>|
+|Link|<http://oaoniikp.ru/>・ <http://www.federalspace.ru/1536/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

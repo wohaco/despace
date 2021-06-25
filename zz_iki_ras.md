@@ -1,9 +1,9 @@
 # ИКИ РАН
 > 2019.08.04 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/iki_ran_logo1_thumb.jpg)](f/contact//_logo1.png)|<iki@cosmos.ru>, +7(495)333-52-12, Fax: +7(495)333-12-48;<br> *Россия, 117997, Москва, Профсоюзная 84/32*|
+|[![](f/con/i/iki_ran_logo1_thumb.jpg)](f/con//_logo1.png)|<iki@cosmos.ru>, +7(495)333-52-12, Fax: +7(495)333-12-48;<br> *Россия, 117997, Москва, Профсоюзная 84/32*|
 |:--|:--|
-|Link|<http://www.iki.rssi.ru/><br> <https://ru.wikipedia.org/wiki/Институт_космических_исследований_РАН>|
+|Link|<http://www.iki.rssi.ru/>・ <https://ru.wikipedia.org/wiki/Институт_космических_исследований_РАН>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

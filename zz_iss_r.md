@@ -1,9 +1,9 @@
 # ИСС
 > 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/iss_logo1_thumb.jpg)](f/contact/i/iss_logo1.png)|<office@iss‑reshetnev.ru>, +7(3919)72-80-08, Fax: +7(3919)75-61-46;<br> *Россия, 662972, г. Железногорск Красноярского края, ул. Ленина 52*|
+|[![](f/con/i/iss_logo1_thumb.jpg)](f/con/i/iss_logo1.png)|<office@iss‑reshetnev.ru>, +7(3919)72-80-08, Fax: +7(3919)75-61-46;<br> *Россия, 662972, г. Железногорск Красноярского края, ул. Ленина 52*|
 |:--|:--|
-|Link|<http://iss‑reshetnev.ru><br> <https://ru.wikipedia.org/wiki/Информационные_спутниковые_системы>|
+|Link|<http://iss‑reshetnev.ru>・ <https://ru.wikipedia.org/wiki/Информационные_спутниковые_системы>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

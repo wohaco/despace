@@ -1,9 +1,9 @@
 # AvantSpace
 > 2020.01.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/avantspace_logo1_thumb.jpg)](f/contact/a/avantspace_logo1.png)|<info@avantspace.com>, +7(499)994-95-05, Fax: …;<br> *Луговая 4/7, Инновационный центр Сколково, г. Москва, 143026, RU.*|
+|[![](f/con/a/avantspace_logo1_thumb.jpg)](f/con/a/avantspace_logo1.png)|<info@avantspace.com>, +7(499)994-95-05, Fax: …;<br> *Луговая 4/7, Инновационный центр Сколково, г. Москва, 143026, RU.*|
 |:--|:--|
-|Link|<http://www.avantspace.com/><br> <http://projects.avantspace.com/><br> <https://www.linkedin.com/company/avant-space-systems/>|
+|Link|<http://www.avantspace.com/>・ <http://projects.avantspace.com/>・ <https://www.linkedin.com/company/avant-space-systems/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

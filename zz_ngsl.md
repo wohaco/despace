@@ -1,7 +1,7 @@
 # NGSL
 > 2020.11.19 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/ngsl_logo1_thumb.jpg)](f/contact/n/ngsl_logo1.png)|<info@ngsl.or.jp>, <mark>noworkphone</mark>, Fax: …; *1-5-3 Nihonbashi Muromachi, Chuo-ku, Tokyo, Japan*|
+|[![](f/con/n/ngsl_logo1_thumb.jpg)](f/con/n/ngsl_logo1.png)|<info@ngsl.or.jp>, <mark>noworkphone</mark>, Fax: …; *1-5-3 Nihonbashi Muromachi, Chuo-ku, Tokyo, Japan*|
 |:--|:--|
 |Link|<https://ngsl.or.jp/>|
 |**Mission**|…|

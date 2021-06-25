@@ -1,9 +1,9 @@
 # PSI
 > 2019.08.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/p/psi_logo1_thumb.jpg)](f/contact/p/psi_logo1.png)|<mark>noemail</mark>, +1(520)622-63-00, Fax: +1(520)622-80-60;<br> *1700 East Fort Lowell, Suite 106, Tucson, AZ 85719-2395, USA*|
+|[![](f/con/p/psi_logo1_thumb.jpg)](f/con/p/psi_logo1.png)|<mark>noemail</mark>, +1(520)622-63-00, Fax: +1(520)622-80-60;<br> *1700 East Fort Lowell, Suite 106, Tucson, AZ 85719-2395, USA*|
 |:--|:--|
-|Link|<https://www.psi.edu/><br> <https://en.wikipedia.org/wiki/Planetary_Science_Institute><br> <https://ru.wikipedia.org/wiki/Планетологический_институт_США>|
+|Link|<https://www.psi.edu/>・ <https://en.wikipedia.org/wiki/Planetary_Science_Institute>・ <https://ru.wikipedia.org/wiki/Планетологический_институт_США>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

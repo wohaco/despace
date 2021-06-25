@@ -1,9 +1,9 @@
 # KASI
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kasi_logo1_thumb.png)](f/contact/k/kasi_logo1.png)|<mark>noemail</mark>, +82-42-865-3332, Fax: +82-42-861-5610;<br> *Korea Astronomy and Space Science Institute, Daedeokdae-ro 776, Yuseong-gu, Daejeon 34055, Republic of Korea*|
+|[![](f/con/k/kasi_logo1_thumb.png)](f/con/k/kasi_logo1.png)|<mark>noemail</mark>, +82-42-865-3332, Fax: +82-42-861-5610;<br> *Korea Astronomy and Space Science Institute, Daedeokdae-ro 776, Yuseong-gu, Daejeon 34055, Republic of Korea*|
 |:--|:--|
-|Link|<https://www.kasi.re.kr/><br> <https://en.wikipedia.org/wiki/Korea_Astronomy_and_Space_Science_Institute><br> <https://www.linkedin.com/company/korea-astronomy-and-space-science-institute/>|
+|Link|<https://www.kasi.re.kr/>・ <https://en.wikipedia.org/wiki/Korea_Astronomy_and_Space_Science_Institute>・ <https://www.linkedin.com/company/korea-astronomy-and-space-science-institute/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -1,9 +1,9 @@
 # iQPS Inc.
 > 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/iqps_logo1_thumb.png)](f/contact/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*|
+|[![](f/con/i/iqps_logo1_thumb.png)](f/con/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*|
 |:--|:--|
-|Link|<https://i-qps.net/><br> <https://twitter.com/QPS_Inc><br> <https://facebook.com/qpslaboratory/>|
+|Link|<https://i-qps.net/>・ <https://twitter.com/QPS_Inc>・ <https://facebook.com/qpslaboratory/>|
 |**Mission**|Expand the possibilities of space & contribute to the development of the world.|
 |**Vision**|OBSERVE THE EARTH. Anytime, Anywhere.|
 |**Values**|iQPS exists, in order to excite people & to contribute to the development of the world by tackling Essential & Original things & matters to expand the space possibilities by the Crazy way of thinking.<br> ・*Essential.* We focus on expanding the possibilities of the space & targeting the things & matters which’re really necessary for society development as well as the Earth rather than commercial gain.<br> ・*Original.* There is no need to do what has been achieved or done by somebody else already. We only find it the worth challenging when it’s unknown or unprecedented.<br> ・*Crazy.* We create a new world which can thrill, surprise & excite ourselves & people all over the world, free from existing frameworks & technologies, with creative & truly original way of thinking like a child. We call such mind as “Crazy” in a good sense.|

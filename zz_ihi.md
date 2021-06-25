@@ -1,9 +1,9 @@
 # IHI
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/ihi_logo1_thumb.png)](f/contact/i/ihi_logo1.png)|<mark>noemail</mark>, +81-3-6204-8000, Fax: +81-3-6204-8810;<br> *Toyosu IHI Bldg., 1-1, Toyosu 3-chome, Koto-ku, Tokyo, 135-0061, Japan*|
+|[![](f/con/i/ihi_logo1_thumb.png)](f/con/i/ihi_logo1.png)|<mark>noemail</mark>, +81-3-6204-8000, Fax: +81-3-6204-8810;<br> *Toyosu IHI Bldg., 1-1, Toyosu 3-chome, Koto-ku, Tokyo, 135-0061, Japan*|
 |:--|:--|
-|Link|<https://www.ihi.co.jp/ia/en/products/space/index.html><br> <https://www.linkedin.com/company/ihi-aerospace>|
+|Link|<https://www.ihi.co.jp/ia/en/products/space/index.html>・ <https://www.linkedin.com/company/ihi-aerospace>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

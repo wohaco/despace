@@ -1,9 +1,9 @@
 # JHUAPL
 > 2019.08.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jhuapl_logo1_thumb.jpg)](f/contact/j/jhuapl_logo1.png)|<mark>noemail</mark>, +1(240)228-5000, Fax: …;<br> *11100 Johns Hopkins Road, Laurel, Maryland 20723-6099, USA*|
+|[![](f/con/j/jhuapl_logo1_thumb.jpg)](f/con/j/jhuapl_logo1.png)|<mark>noemail</mark>, +1(240)228-5000, Fax: …;<br> *11100 Johns Hopkins Road, Laurel, Maryland 20723-6099, USA*|
 |:--|:--|
-|Link|<https://www.jhuapl.edu/><br> <https://en.wikipedia.org/wiki/Applied_Physics_Laboratory><br> <https://ru.wikipedia.org/wiki/Лаборатория_прикладной_физики><br> <https://twitter.com/JHUAPL><br> <https://www.youtube.com/user/jhuapl><br> <https://www.facebook.com/JHUAPL/><br> <https://www.linkedin.com/company/johns-hopkins-university-applied-physics-laboratory/><br> <https://www.instagram.com/johnshopkinsapl/>|
+|Link|<https://www.jhuapl.edu/>・ <https://en.wikipedia.org/wiki/Applied_Physics_Laboratory>・ <https://ru.wikipedia.org/wiki/Лаборатория_прикладной_физики>・ <https://twitter.com/JHUAPL>・ <https://www.youtube.com/user/jhuapl>・ <https://www.facebook.com/JHUAPL/>・ <https://www.linkedin.com/company/johns-hopkins-university-applied-physics-laboratory/>・ <https://www.instagram.com/johnshopkinsapl/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

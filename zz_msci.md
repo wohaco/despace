@@ -1,7 +1,7 @@
 # MSCI
 > 2019.08.27 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/msci_logo1_thumb.jpg)](f/contact/m/msci_logo1.png)|<mark>noemail</mark>, +1(905)364-03-88, Fax: +1(905)364-03-89;<br> *6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*|
+|[![](f/con/m/msci_logo1_thumb.jpg)](f/con/m/msci_logo1.png)|<mark>noemail</mark>, +1(905)364-03-88, Fax: +1(905)364-03-89;<br> *6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*|
 |:--|:--|
 |Link|<http://www.mscinc.ca/>|
 |**Mission**|…|

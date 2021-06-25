@@ -1,9 +1,9 @@
 # Tamagawa Seiki
 > 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/t/tamagawa_seiki_logo1_thumb.jpg)](f/contact/t/tamagawa_seiki_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1879 Ohyasumi, Iida, Nagano Prefecture, 395-8515 Japan*|
+|[![](f/con/t/tamagawa_seiki_logo1_thumb.jpg)](f/con/t/tamagawa_seiki_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1879 Ohyasumi, Iida, Nagano Prefecture, 395-8515 Japan*|
 |:--|:--|
-|Link|<https://www.tamagawa-seiki.com/><br> <https://aerospacebiz.jaxa.jp/en/partner/company/01/><br> <https://www.linkedin.com/company/tamagawa-seiki-co-.ltd.>|
+|Link|<https://www.tamagawa-seiki.com/>・ <https://aerospacebiz.jaxa.jp/en/partner/company/01/>・ <https://www.linkedin.com/company/tamagawa-seiki-co-.ltd.>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -1,9 +1,9 @@
 # UFA
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/u/ufa_logo1_thumb.jpg)](f/contact/u/ufa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
+|[![](f/con/u/ufa_logo1_thumb.jpg)](f/con/u/ufa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
-|Link|<http://www.ufa.cas.cz/><br> <https://en.wikipedia.org/wiki/Institute_of_Atmospheric_Physics_AS_CR><br> <https://cs.wikipedia.org/wiki/Ústav_fyziky_atmosféry_Akademie_věd_České_republiky>|
+|Link|<http://www.ufa.cas.cz/>・ <https://en.wikipedia.org/wiki/Institute_of_Atmospheric_Physics_AS_CR>・ <https://cs.wikipedia.org/wiki/Ústav_fyziky_atmosféry_Akademie_věd_České_republiky>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

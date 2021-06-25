@@ -67,25 +67,37 @@ The most effective, from the power engineering point of view, devices for conver
 
 
 
+### MJ, ZTJ
+> <small>**Multi‑junction (MJ) solar cells** — EN term. **Многокаскадный солнечный элемент** — RU analogue.</small>  
+> <small>**3rd Generation Triple-Junction (ZTJ)** — EN term. **3-е поколение трёхкаскадных солнечных элементов** — RU analogue.</small>
+
+**Multi‑junction (MJ) solar cells** are solar cells with multiple p–n junctions made of different semiconductor materials. Each material's p‑n junction will produce electric current in response to different wavelengths of light. The use of multiple semiconducting materials allows the absorbance of a broader range of wavelengths, improving the cell's sunlight to electrical energy conversion efficiency.
+
+Traditional single‑junction cells have a maximum theoretical efficiency of 33.16 %. Theoretically, an infinite number of junctions would have a limiting efficiency of 86.8 % under highly concentrated sunlight. Currently, the best lab examples of traditional crystalline silicon (c‑Si) solar cells have efficiencies of 20 ‑ 25 %, while lab examples of multi‑junction cells have demonstrated performance over 46 % under concentrated sunlight. Commercial examples of tandem cells are widely available at 30 % under one‑sun illumination, & improve to around 40 % under concentrated sunlight. However, this efficiency is gained at the cost of increased complexity & manufacturing price. To date, their higher price & higher price‑to‑performance ratio have limited their use to special roles, notably in aerospace where their high power‑to‑weight ratio is desirable. In terrestrial applications, these solar cells are emerging in concentrator photovoltaics (CPV), with a growing number of installations around the world.
+
+Tandem fabrication techniques have been used to improve the performance of existing designs. In particular, the technique can be applied to lower cost thin‑film solar cells using amorphous silicon, as opposed to conventional crystalline silicon, to produce a cell with ~10 % efficiency that is lightweight & flexible. This approach has been used by several commercial vendors, but these products are currently limited to certain niche roles, like roofing materials.
+
+
+
 ## Designers, manufacturers
 Solar cells are manufactured in volume in Japan, Germany, China, Taiwan, Malaysia & the United States, whereas Europe, China, the U.S., & Japan have dominated (94 % or more as of 2013) in installed systems. Other nations are acquiring significant solar cell production capacity.
 
-   - **Australia:** …
-   - **Canada:** …
-   - **China:** …
-   - **Europe:** …
-   - **India:** …
-   - **Israel:** …
-   - **Japan:**
-      1. [Mitsubishi](zz_mitsubishi.md)
-      1. [NEC](zz_nec.md)
-   - **Korea South:** …
-   - **Russia:** [PAO Saturn](zz_pao_saturn.md)
-   - **Saudi Arabia:** …
-   - **Singapore:** …
-   - **USA:** …
-   - **UAE:** …
-   - **Vietnam:** …
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|…|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|・[Mitsubishi](zz_mitsubishi.md)<br> ・[NEC](zz_nec.md)|
+|**Korea South**|…|
+|**Russia**|・[PAO Saturn](zz_pao_saturn.md)|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|…|
+|**UAE**|…|
+|**Vietnam**|…|
 
 
 
@@ -94,9 +106,9 @@ Solar cells are manufactured in volume in Japan, Germany, China, Taiwan, Malaysi
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Spacecraft power system (SPS)](sps.md) •··**<br> [ACUER](acuer.md)┊ [Charge eff.](charge_eff.md)┊ [EB](eb.md)┊ [EMI, RFI](emi.md)┊ [NR](nr.md)┊ [Rotor](rotor.md)┊ [RTG](rtg.md)┊ [Solar cell](sp.md)┊ [SP](sp.md)┊ [SPB/USPB](suspb.md)┊ [Voltage](voltage.md)┊ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK-01](bak_01.md)┊ [KAS‑LOA](kas_loa.md)|
+|**··• [Spacecraft power system (SPS)](sps.md) •··**<br> [ACUER](acuer.md)・ [Charge eff.](charge_eff.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](rotor.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](voltage.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK-01](bak_01.md)・ [KAS‑LOA](kas_loa.md)|
 
    1. Docs: …
    1. Notable interwikies — …
@@ -104,3 +116,4 @@ Solar cells are manufactured in volume in Japan, Germany, China, Taiwan, Malaysi
    1. <https://ru.wikipedia.org/wiki/Арсенид_галлия>
    1. <https://ru.wikipedia.org/wiki/Фотоэлемент>
    1. <https://en.wikipedia.org/wiki/Solar_cell>
+   1. <https://en.wikipedia.org/wiki/Multi-junction_solar_cell>

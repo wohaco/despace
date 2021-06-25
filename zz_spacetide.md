@@ -1,9 +1,9 @@
 # SPACETIDE
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/spacetide_logo1_thumb.jpg)](f/contact/s/spacetide_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3-11-3, Ginza, Chuo-ku, Tokyo, Japan*|
+|[![](f/con/s/spacetide_logo1_thumb.jpg)](f/con/s/spacetide_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3-11-3, Ginza, Chuo-ku, Tokyo, Japan*|
 |:--|:--|
-|Link|<https://spacetide.jp/><br> <https://www.linkedin.com/company/spacetide-foundation>|
+|Link|<https://spacetide.jp/>・ <https://www.linkedin.com/company/spacetide-foundation>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

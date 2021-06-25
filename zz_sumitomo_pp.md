@@ -1,9 +1,9 @@
 # Sumitomo PP
 > 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/sumitomo_pp_logo1_thumb.png)](f/contact/s/sumitomo_pp_logo1.png)|<mark>noemail</mark>, +81-3-3217-2812, Fax: +81-3-3217-2822;<br> *1-3-2 Otemachi, Chiyoda-ku, Tokyo, 100-004, Japan*|
+|[![](f/con/s/sumitomo_pp_logo1_thumb.png)](f/con/s/sumitomo_pp_logo1.png)|<mark>noemail</mark>, +81-3-3217-2812, Fax: +81-3-3217-2822;<br> *1-3-2 Otemachi, Chiyoda-ku, Tokyo, 100-004, Japan*|
 |:--|:--|
-|Link|<https://www.spp.co.jp/><br> <https://en.wikipedia.org/wiki/Sumitomo_Precision_Products>|
+|Link|<https://www.spp.co.jp/>・ <https://en.wikipedia.org/wiki/Sumitomo_Precision_Products>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

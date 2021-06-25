@@ -1,9 +1,9 @@
 # ГКА
 > 2019.08.07 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/g/gka_logo1_thumb.jpg)](f/contact/g/gka_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
+|[![](f/con/g/gka_logo1_thumb.jpg)](f/con/g/gka_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
-|Link|<http://www.nkau.gov.ua/NSAU/nkau.nsf><br> <https://ru.wikipedia.org/wiki/Государственное_космическое_агентство_Украины><br> <https://uk.wikipedia.org/wiki/Державне_космічне_агентство_України>|
+|Link|<http://www.nkau.gov.ua/NSAU/nkau.nsf>・ <https://ru.wikipedia.org/wiki/Государственное_космическое_агентство_Украины>・ <https://uk.wikipedia.org/wiki/Державне_космічне_агентство_України>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

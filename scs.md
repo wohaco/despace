@@ -81,7 +81,7 @@ Common dividing SCS into parts:
    - [Model](model.md)
    - [Navigation & ballistics](nnb.md) (NB)
    - [Research & Development](rnd.md) (R&D)
-   - [Safety, Reliability, Risk, Quality](qa.md) (SRRQ)
+   - [Safety, Reliability, Risk, Quality](qm.md) (SRRQ)
    - [Software](soft.md)
    - [Systems engineering](se.md)
    - [Tests](test.md)
@@ -96,6 +96,23 @@ A **ground segment (GS)** consists of all the ground‑based control elements of
 The ground segment, though not technically part of the spacecraft, is vital to the operation of the spacecraft. Typical components of a GS in use during normal operations include a mission operations facility where the flight operations team conducts the operations of the spacecraft, a data processing & storage facility, ground stations to radiate signals to & receive signals from the spacecraft, & a voice & data communications network to connect all mission elements.
 
 The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, through the atmosphere, & into an orbit, the exact orbit being dependent on the mission configuration. The launch vehicle may be expendable or reusable.
+
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|…|
+|**Korea South**|…|
+|**Russia**|…|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|…|
+|**UAE**|…|
+|**Vietnam**|…|
 
 
 
@@ -233,7 +250,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
    1. <mark>TBD</mark>
 
-Согласно типовой [схеме деления](wbs.md) КИС не входит в состав КК (КС), однако функционально входит в состав [НКУ](scs.md).
+Согласно типовой [схеме деления](draft_model.md) КИС не входит в состав КК (КС), однако функционально входит в состав [НКУ](scs.md).
 
 
 
@@ -259,24 +276,22 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 **Производители, операторы:**
 
-   - **Australia:** …
-   - **Canada:** …
-   - **China:** …
-   - **Europe:** …
-   - **India:** …
-   - **Israel:** …
-   - **Japan:**
-      1. [Infostellar](zz_infostellar.md) — space communication infrastructure, 10+ UHF/S/X antennas
-      1. [Kratos IS](zz_kratos.md) — R&D ground antennas, optimizing/managing satelllites, signals
-      1. [Mitsubishi Elecric](zz_mitsubishi.md) — ground control stations for satellite tracking, & optical/radio telescopes for astronomical observation, antennas, transmitters & receivers
-      1. [RESTEC](zz_restec.md)
-   - **Korea South:** …
-   - **Russia:** [ОКБ МЭИ](zz_okbmei.md)
-   - **Saudi Arabia:** …
-   - **Singapore:** …
-   - **USA:** …
-   - **UAE:** …
-   - **Vietnam:** …
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|…|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|・[Infostellar](zz_infostellar.md) — space communication infrastructure, 10+ UHF/S/X antennas<br> ・[Kratos IS](zz_kratos.md) — R&D ground antennas, optimizing/managing satelllites, signals<br> ・[Mitsubishi Elecric](zz_mitsubishi.md) — ground control stations for satellite tracking, & optical/radio telescopes for astronomical observation, antennas, transmitters & receivers<br> ・[RESTEC](zz_restec.md)|
+|**Korea South**|…|
+|**Russia**|・[ОКБ МЭИ](zz_okbmei.md)|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|…|
+|**UAE**|…|
+|**Vietnam**|…|
 
 |*Изображение*|*Описание*|
 |:--|:--|
@@ -321,20 +336,22 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 По факту ННК представляет собой группу серверов со специализированным ПО и каналы связи.
 
-   - **Australia:** …
-   - **Canada:** …
-   - **China:** …
-   - **Europe:** …
-   - **India:** …
-   - **Israel:** …
-   - **Japan:** [NEC](zz_nec.md)
-   - **Korea South:** …
-   - **Russia:** …
-   - **Saudi Arabia:** …
-   - **Singapore:** …
-   - **USA:** …
-   - **UAE:** …
-   - **Vietnam:** …
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|…|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|・[NEC](zz_nec.md)|
+|**Korea South**|…|
+|**Russia**|…|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|…|
+|**UAE**|…|
+|**Vietnam**|…|
 
 
 
@@ -363,7 +380,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 **Наземный комплекс управления (НКУ)** — совокупность взаимосвязанных технических средств с информационным и математическим обеспечением, сооружений, [центра управления полётом](mcc.md) и отдельных командно‑измерительных комплексов, предназначенных для автоматизированного управления КА на всех этапах полёта КА после его отделения от [разгонного блока](lv.md).
 
-**НКУ** обычно включает в свой [состав](wbs.md):
+**НКУ** обычно включает в свой [состав](draft_model.md):
 
    - [Баллистический центр](scs.md) (БЦ)
    - Наземная станция (НС)
@@ -380,7 +397,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 **Наземный автоматизированный комплекс управления (НАКУ)** — по [ГОСТ 53802](гост_53802.md), п. 30‑32 — совокупность необходимой инфраструктуры, технических систем, средств из состава командно‑измерительных и измерительных пунктов, центров и пунктов управления орбитальными средствами, центров обработки измерительной информации, предназначенных для формирования наземных комплексов, обеспечивающих реализацию автоматизированных процессов контроля параметров полёта [изделий](unit.md) ракетно‑космической техники, состояния бортовой аппаратуры и управления их функционированием.
 
-Согласно типовой [схеме деления](wbs.md) НАКУ является самостоятельной структурой и не входит в состав [КК (КС)](scs.md).
+Согласно типовой [схеме деления](draft_model.md) НАКУ является самостоятельной структурой и не входит в состав [КК (КС)](scs.md).
 
 
 
@@ -405,7 +422,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 **Наземный комплекс приёма, обработки и распределения информации (НКПОР)** — совокупность взаимосвязанных технических средств с программным обеспечением, расположенных на [Земле](earth.md) и предназначенных для обеспечения заказчика и его потребителей целевой информацией, полученной на основе космических данных.
 
-Согласно типовой [схеме деления](wbs.md) НКПОР не входит никуда.
+Согласно типовой [схеме деления](draft_model.md) НКПОР не входит никуда.
 
 
 
@@ -414,11 +431,11 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)┊ [ГО и ПхО](lv.md)┊ [Класс чистоты](clean_lvl.md)┊ [Контейнеры для транспортировки](ship_contain.md)┊ [СЧ](sui.md)|
-|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)┊ [КИС](scs.md)┊ [КСИСО](scs.md)┊ [НИК](lm_sys.md)┊ [НИП](scs.md)┊ [НС](scs.md)┊ [ПОЗ](fp.md)┊ [СГК](cd_segm.md)┊ [ССПД](mcntd.md)┊ [ЦУП](mcc.md)|
-|**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)┊ [DSN](dsn.md)┊ [ESTRACK](estrack.md)┊ [IDSN](idsn.md)┊ [SSC_GGSN](ssc_ggsn.md)┊ [UDSC](udsc.md)|
+|**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)・ [ГО и ПхО](lv.md)・ [Класс чистоты](clean_lvl.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [СЧ](sui.md)|
+|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)・ [КИС](scs.md)・ [КСИСО](scs.md)・ [НИК](lm_sys.md)・ [НИП](scs.md)・ [НС](scs.md)・ [ПОЗ](fp.md)・ [СГК](cd_segm.md)・ [ССПД](mcntd.md)・ [ЦУП](mcc.md)|
+|**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|
 |**`Наземный научный комплекс (ННК):`**<br> [АПС](hns.md)|
 
    1. Docs:

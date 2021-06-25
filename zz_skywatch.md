@@ -1,7 +1,7 @@
 # SkyWatch
 > 2019.08.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/skywatch_logo1_thumb.png)](f/contact/s/skywatch_logo1.png)|<info@skywatch.com>, +1(888)882-82-32 , Fax: …;<br> *14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*|
+|[![](f/con/s/skywatch_logo1_thumb.png)](f/con/s/skywatch_logo1.png)|<info@skywatch.com>, +1(888)882-82-32 , Fax: …;<br> *14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*|
 |:--|:--|
 |Link|<https://www.skywatch.com/>|
 |**Mission**|…|

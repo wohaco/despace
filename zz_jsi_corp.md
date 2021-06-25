@@ -1,7 +1,7 @@
 # JSI Corp
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jsi_corp_logo1_thumb.jpg)](f/contact/j/jsi_corp_logo1.png)|<mark>noemail</mark>, +81-3-5204-2711, Fax: …;<br> *KYOBASHI EDOGRAND 20th Floor 2-2-1, Kyobashi, Chuo-Ku, Tokyo 104-0031, Japan*|
+|[![](f/con/j/jsi_corp_logo1_thumb.jpg)](f/con/j/jsi_corp_logo1.png)|<mark>noemail</mark>, +81-3-5204-2711, Fax: …;<br> *KYOBASHI EDOGRAND 20th Floor 2-2-1, Kyobashi, Chuo-Ku, Tokyo 104-0031, Japan*|
 |:--|:--|
 |Link|<https://www.jsicorp.jp/>|
 |**Mission**|…|

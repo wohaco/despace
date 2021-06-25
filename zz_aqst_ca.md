@@ -1,9 +1,9 @@
 # AQST Canada Inc.
 > 2021.04.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/aqst_ca_logo1_thumb.jpg)](f/contact/a/aqst_ca_logo1.png)|<info@aqst-space.ca>, +1-450-500-5700, Fax: …;<br> *300 Joseph Carrier,Vaudreuil-Dorion, Québec, Canada J7V 9M4, CA*|
+|[![](f/con/a/aqst_ca_logo1_thumb.jpg)](f/con/a/aqst_ca_logo1.png)|<info@aqst-space.ca>, +1-450-500-5700, Fax: …;<br> *300 Joseph Carrier,Vaudreuil-Dorion, Québec, Canada J7V 9M4, CA*|
 |:--|:--|
-|Link|<https://www.aqst-space.ca/><br> <https://www.linkedin.com/company/aqstcompany><br> [space-tech.aerospacedefensereview.com ⎆](https://space-tech.aerospacedefensereview.com/vendor/advanced-quantum-scientific-technology-aqst-delivering-innovative-space-engineering-solutions-cid-25-mid-5.html)|
+|Link|<https://www.aqst-space.ca/>・ <https://www.linkedin.com/company/aqstcompany><br> [space-tech.aerospacedefensereview.com ⎆](https://space-tech.aerospacedefensereview.com/vendor/advanced-quantum-scientific-technology-aqst-delivering-innovative-space-engineering-solutions-cid-25-mid-5.html)|
 |**Mission**|…|
 |**Vision**|To provide innovative business opportunities with disruptive technological developments, for present & future humankind.|
 |**Values**|…|

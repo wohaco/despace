@@ -1,9 +1,9 @@
 # Open Univ.
 > 2019.08.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/o/open_univ_logo1_thumb.jpg)](f/contact/o/open_univ_logo1.png)|<mark>noemail</mark>, +44(300)303-02-66, Fax: …;<br> *The Open University, PO Box 197, Milton Keynes, MK7 6BJ, UK*|
+|[![](f/con/o/open_univ_logo1_thumb.jpg)](f/con/o/open_univ_logo1.png)|<mark>noemail</mark>, +44(300)303-02-66, Fax: …;<br> *The Open University, PO Box 197, Milton Keynes, MK7 6BJ, UK*|
 |:--|:--|
-|Link|<http://www.open.ac.uk/><br> <https://en.wikipedia.org/wiki/Open_University><br> <https://ru.wikipedia.org/wiki/Открытый_университет_(Великобритания)><br> <https://www.facebook.com/theopenuniversityinternational><br> <https://twitter.com/theouglobal>|
+|Link|<http://www.open.ac.uk/>・ <https://en.wikipedia.org/wiki/Open_University>・ <https://ru.wikipedia.org/wiki/Открытый_университет_(Великобритания)>・ <https://www.facebook.com/theopenuniversityinternational>・ <https://twitter.com/theouglobal>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

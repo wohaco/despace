@@ -1,9 +1,9 @@
 # AvalonSpace Ltd.
 > 2020.07.31 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/avalonspace_logo1_thumb.jpg)](f/contact/a/avalonspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Bristol, Avon BS11AA, GB*|
+|[![](f/con/a/avalonspace_logo1_thumb.jpg)](f/con/a/avalonspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Bristol, Avon BS11AA, GB*|
 |:--|:--|
-|Link|<http://www.avalon-space.co.uk/><br> <https://www.linkedin.com/company/avalonspace/>|
+|Link|<http://www.avalon-space.co.uk/>・ <https://www.linkedin.com/company/avalonspace/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

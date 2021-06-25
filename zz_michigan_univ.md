@@ -1,9 +1,9 @@
 # Michigan Univ.
 > 2019.08.11 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/michigan_univ_logo1_thumb.png)](f/contact/m/michigan_univ_logo1.png)|<mark>noemail</mark>, +1(734)764-18-17, Fax: …;<br> *500 S State St, Ann Arbor, MI 48109, USA*|
+|[![](f/con/m/michigan_univ_logo1_thumb.png)](f/con/m/michigan_univ_logo1.png)|<mark>noemail</mark>, +1(734)764-18-17, Fax: …;<br> *500 S State St, Ann Arbor, MI 48109, USA*|
 |:--|:--|
-|Link|<https://umich.edu/><br> <https://en.wikipedia.org/wiki/University_of_Michigan><br> <https://ru.wikipedia.org/wiki/Мичиганский_университет><br> <https://twitter.com/umich><br> <https://www.facebook.com/universityofmichigan><br> <https://www.linkedin.com/edu/school?:trk=edu-ca-head-title&id=18633><br> <http://instagram.com/uofmichigan>|
+|Link|<https://umich.edu/>・ <https://en.wikipedia.org/wiki/University_of_Michigan>・ <https://ru.wikipedia.org/wiki/Мичиганский_университет>・ <https://twitter.com/umich>・ <https://www.facebook.com/universityofmichigan>・ <https://www.linkedin.com/edu/school?:trk=edu-ca-head-title&id=18633>・ <http://instagram.com/uofmichigan>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

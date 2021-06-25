@@ -1,7 +1,7 @@
 # JSASS
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/j/jsass_logo1_thumb.jpg)](f/contact/j/jsass_logo1.png)|<office@jsass.or.jp>, <mark>noworkphone</mark>, Fax: …;<br> *4-1-21 Nihonbashi-Muromachi, Chuo-ku, Tokyo 103-0022, Japan*|
+|[![](f/con/j/jsass_logo1_thumb.jpg)](f/con/j/jsass_logo1.png)|<office@jsass.or.jp>, <mark>noworkphone</mark>, Fax: …;<br> *4-1-21 Nihonbashi-Muromachi, Chuo-ku, Tokyo 103-0022, Japan*|
 |:--|:--|
 |Link|<https://www.jsass.or.jp/>|
 |**Mission**|…|

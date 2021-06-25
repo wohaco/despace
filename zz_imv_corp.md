@@ -1,9 +1,9 @@
 # IMV
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/imv_corp_logo1_thumb.jpg)](f/contact/i/imv_corp_logo1.png)|<mark>noemail</mark>, +81 6-6478-2565, Fax: …;<br> *6, 西淀川区竹島２丁目６−１０, Nishiyodogawa Ward, 〒555-0011 Osaka, Japan*|
+|[![](f/con/i/imv_corp_logo1_thumb.jpg)](f/con/i/imv_corp_logo1.png)|<mark>noemail</mark>, +81 6-6478-2565, Fax: …;<br> *6, 西淀川区竹島２丁目６−１０, Nishiyodogawa Ward, 〒555-0011 Osaka, Japan*|
 |:--|:--|
-|Link|<https://www.imv.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/imv/><br> <https://www.linkedin.com/company/imv-corporation/>|
+|Link|<https://www.imv.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/imv/>・ <https://www.linkedin.com/company/imv-corporation/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

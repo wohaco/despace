@@ -29,38 +29,32 @@
 
 
 
-|*Страна*|*[Фирма](contact.md)*|*Актуальные <small>(масса, ㎏)</small>*|*Исторические <small>(масса, ㎏)</small>*|
+|*Страна*|*[Фирма](contact.md)*|*Актуальные (масса, ㎏)*|*Исторические (масса, ㎏)*|
 |:--|:--|:--|:--|
-|*Европа*|<small>[ADS](zz_ads.md)</small>|<small>[Astrix 1090](astrix_1090.md) (4.8)</small>| |
-|*Россия*|<small>[НПП Антарес](zz_npp_antares.md)</small>|<small>[ИУС-ВОА](ius_voa.md) (15.1)┊ [БИУС-М](bius_m.md) (5.1)</small>| |
-| |<small>[НПО ИТ](zz_npoit.md)</small>|<small>[БИБ-ФГ](bib_fg.md) (1.36)┊ [㎆ИНС](mbins.md) (1.34)</small>|<small>[БИБ-ИГ](bib_ig.md) (3.6)</small>|
-| |<small>[НПЦАП](zz_npcap.md)</small>|<small>[БИУС-Л](bius_l.md) (10)</small>| |
-|*США*|<small>[Northrop Grumman](zz_northrop_grumman.md)</small>|<small>[LN-200](ln_200.md) (1.25)</small>| |
+|*Европа*|[ADS](zz_ads.md)|[Astrix 1090](astrix_1090.md) (4.8)| |
+|*Россия*|[НПП Антарес](zz_npp_antares.md)|[ИУС-ВОА](ius_voa.md) (15.1)・ [БИУС-М](bius_m.md) (5.1)| |
+| |[НПО ИТ](zz_npoit.md)|[БИБ-ФГ](bib_fg.md) (1.36)・ [㎆ИНС](mbins.md) (1.34)|[БИБ-ИГ](bib_ig.md) (3.6)|
+| |[НПЦАП](zz_npcap.md)|[БИУС-Л](bius_l.md) (10)| |
+|*США*|[Northrop Grumman](zz_northrop_grumman.md)|[LN-200](ln_200.md) (1.25)| |
 
 **Производители**
 
-   - **Australia:** …
-   - **Canada:** …
-   - **China:** …
-   - **Europe:**
-      1. [ADS](zz_ads.md)
-   - **India:** …
-   - **Israel:** …
-   - **Japan:**
-      1. [Sumitomo PP](zz_sumitomo_pp.md)
-      1. [Tamagawa Seiki](zz_tamagawa_seiki.md)
-   - **Korea South:** …
-   - **Russia:**
-      1. [НИИКП](zz_niicom.md)
-      1. [НПП Антарес](zz_npp_antares.md) — не очень опытные в своём деле. <small>(на 2017 ‑ 2018 гг)</small>
-      1. [НПО ИТ](zz_npoit.md)
-      1. [НПЦАП](zz_npcap.md)
-   - **Saudi Arabia:** …
-   - **Singapore:** …
-   - **USA:**
-      1. [Northrop Grumman](zz_northrop_grumman.md)
-   - **UAE:** …
-   - **Vietnam:** …
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|・[Macfab](zz_macfab.md) — rotors<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)|
+|**China**|…|
+|**Europe**|・[ADS](zz_ads.md)|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|・[Sumitomo PP](zz_sumitomo_pp.md)<br> ・[Tamagawa Seiki](zz_tamagawa_seiki.md)|
+|**Korea South**|…|
+|**Russia**|・[НИИКП](zz_niicom.md)<br> ・[НПП Антарес](zz_npp_antares.md) — не очень опытные в своём деле. (на 2017 ‑ 2018 гг)<br> ・[НПО ИТ](zz_npoit.md)<br> ・[НПЦАП](zz_npcap.md)|
+|**Saudi Arabia**|…|
+|**Singapore**|…|
+|**USA**|・[Northrop Grumman](zz_northrop_grumman.md)|
+|**UAE**|…|
+|**Vietnam**|…|
 
 
 
@@ -79,13 +73,13 @@
 
 **Разновидности**
 
-|*°*|*[Фирма](contact.md)*|*Модели (кин. момент, Н·м·с/макс.упр.м., Н·м)*|
+| |*[Фирма](contact.md)*|*Модели (кин. момент, Н·м·с/макс.упр.м., Н·м)*|
 |:--|:--|:--|
-|**RU**|[ВНИИЭМ](zz_vniiem.md)|[Д㎆](dmb.md) (29.4/350)┊ [ДМ20-250](dm20_250.md) (20/250)┊ [ДМ14-120](dm14_120.md) (14/120)┊ [ДМ5-50](dm5_50.md) (5/50)┊ [ДМ10-25](dm10_25.md) (10/25)┊ [ДМ1-20](dm1_20.md) (1/20)|
+|**RU**|[ВНИИЭМ](zz_vniiem.md)|[Д㎆](dmb.md) (29.4/350)・ [ДМ20-250](dm20_250.md) (20/250)・ [ДМ14-120](dm14_120.md) (14/120)・ [ДМ5-50](dm5_50.md) (5/50)・ [ДМ10-25](dm10_25.md) (10/25)・ [ДМ1-20](dm1_20.md) (1/20)|
 | |[НИИКП](zz_niicom.md)|…<br> **`Исторические:`** *[Колер‑Э](koler_e.md) (18/…)*|
 | |[НПЦАП](zz_npcap.md)| |
-| |[НПЦ Полюс](zz_polus_tomsk.md)|[Агат‑10](agat_10.md) (250/0.1)┊ [ГД-200-125](gd_200_125.md) (200/125)┊ [ГД-02-150](gd_02_150.md) (150/2)┊ [Агат‑5](agat_5.md) (100/0.125)┊ [Агат‑40](agat_40.md) (40/…)┊ [СГК-20-20](sgk_20_20.md) (20/20)┊ [Агат‑15](agat_15.md) (15/0.15)┊ [МДМ-2-50](mdm_2_50.md) (2/0.05)┊ [МДМ-1,0](mdm_1_0.md) (1/0.02)┊ [МДМ-0,5](mdm_0_5.md) (0.5/0.015)|
-| |[Спутникс](zz_sputnix.md)|[SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)┊ [SX-GY](sx_gy.md) (0.04/…)|
+| |[НПЦ Полюс](zz_polus_tomsk.md)|[Агат‑10](agat_10.md) (250/0.1)・ [ГД-200-125](gd_200_125.md) (200/125)・ [ГД-02-150](gd_02_150.md) (150/2)・ [Агат‑5](agat_5.md) (100/0.125)・ [Агат‑40](agat_40.md) (40/…)・ [СГК-20-20](sgk_20_20.md) (20/20)・ [Агат‑15](agat_15.md) (15/0.15)・ [МДМ-2-50](mdm_2_50.md) (2/0.05)・ [МДМ-1,0](mdm_1_0.md) (1/0.02)・ [МДМ-0,5](mdm_0_5.md) (0.5/0.015)|
+| |[Спутникс](zz_sputnix.md)|[SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)・ [SX-GY](sx_gy.md) (0.04/…)|
 |•|• • • • • • • •|• • •|
 |**US**|[Collins A/S](zz_collins_aerospace.md)| |
 
@@ -100,11 +94,11 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Guidance, Navigation & Control (GNC)](gnc.md) •··**<br> [CAN](can.md)┊ [LVDS](lvds.md)┊ [MIL‑STD‑1553](mil_std_1553.md) (МКО)┊ [RS‑232, 422, 485](rs_xxx.md)┊ [SpaceWire](spacewire.md)┊ [АСН, САН](ans.md)┊ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](acup.md)┊ [БКС](cable.md)┊ [БУ](sp.md)┊ [БШВ](time.md)┊ [Гироскоп](iu.md)┊ [Дальномер](doppler.md) (ИСР)┊ [ДМ](iu.md)┊ [ЗД](sensor.md)┊ [Компьютер](obc.md) (ЦВМ, БЦВМ)┊ [Магнитометр](sensor.md)┊ [МИХ](mic.md)┊ [МКО](mil_std_1553.md)┊ [ПО](soft.md)┊ [ПНА, ПОНА, ПСНА](aiad.md)┊ [СД](sensor.md)┊ [Система координат](coord_sys.md)┊ [СОСБ](spos.md)|
-|**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](astrix_1090.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](ius_voa.md) (15.1)┊ [БИУС-Л](bius_l.md) (10)┊ [БИУС-М](bius_m.md) (5.1)┊ [БИБ-ФГ](bib_fg.md) (1.36)┊ [㎆ИНС](mbins.md) (1.34) ··· *([БИБ-ИГ](bib_ig.md) (3.6))*  ▮  **США:** [LN-200](ln_200.md) (1.25)|
-|**`Двигатель‑маховик (ДМ):`**<br> …<br>• • •<br> **РФ:** [Д㎆](dmb.md) (29.4/350)┊ [Агат‑10](agat_10.md) (250/0.1)┊ [ДМ20-250](dm20_250.md) (20/250)┊ [ГД-200-125](gd_200_125.md) (200/125)┊ [ГД-02-150](gd_02_150.md) (150/2)┊ [ДМ14-120](dm14_120.md) (14/120)┊ [Агат‑5](agat_5.md) (100/0.125)┊ [ДМ5-50](dm5_50.md) (5/50)┊ [Агат‑40](agat_40.md) (40/…)┊ [ДМ10-25](dm10_25.md) (10/25)┊ [ДМ1-20](dm1_20.md) (1/20)┊ [СГК-20-20](sgk_20_20.md) (20/20)┊ [Агат‑15](agat_15.md) (15/0.15)┊ [МДМ-2-50](mdm_2_50.md) (2/0.05)┊ [МДМ-1,0](mdm_1_0.md) (1/0.02)┊ [МДМ-0,5](mdm_0_5.md) (0.5/0.015)┊ [SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)┊ [SX-GY](sx_gy.md) (0.04/…)|
+|**··• [Guidance, Navigation & Control (GNC)](gnc.md) •··**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](acup.md)・ [БКС](cable.md)・ [БУ](sp.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](aiad.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](spos.md)|
+|**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](astrix_1090.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](ius_voa.md) (15.1)・ [БИУС-Л](bius_l.md) (10)・ [БИУС-М](bius_m.md) (5.1)・ [БИБ-ФГ](bib_fg.md) (1.36)・ [㎆ИНС](mbins.md) (1.34) ··· *([БИБ-ИГ](bib_ig.md) (3.6))*  ▮  **США:** [LN-200](ln_200.md) (1.25)|
+|**`Двигатель‑маховик (ДМ):`**<br> …<br>• • •<br> **РФ:** [Д㎆](dmb.md) (29.4/350)・ [Агат‑10](agat_10.md) (250/0.1)・ [ДМ20-250](dm20_250.md) (20/250)・ [ГД-200-125](gd_200_125.md) (200/125)・ [ГД-02-150](gd_02_150.md) (150/2)・ [ДМ14-120](dm14_120.md) (14/120)・ [Агат‑5](agat_5.md) (100/0.125)・ [ДМ5-50](dm5_50.md) (5/50)・ [Агат‑40](agat_40.md) (40/…)・ [ДМ10-25](dm10_25.md) (10/25)・ [ДМ1-20](dm1_20.md) (1/20)・ [СГК-20-20](sgk_20_20.md) (20/20)・ [Агат‑15](agat_15.md) (15/0.15)・ [МДМ-2-50](mdm_2_50.md) (2/0.05)・ [МДМ-1,0](mdm_1_0.md) (1/0.02)・ [МДМ-0,5](mdm_0_5.md) (0.5/0.015)・ [SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)・ [SX-GY](sx_gy.md) (0.04/…)|
 
    1. Docs: …
    1. Notable interwikies — …

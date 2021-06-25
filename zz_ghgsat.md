@@ -1,7 +1,7 @@
 # GHGSat
 > 2019.08.29 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/g/ghgsat_logo1_thumb.jpg)](f/contact/g/ghgsat_logo1.png)|<mark>noemail</mark>, +1(514)847-94-74, Fax: …;<br> *3981 St Laurent Blvd Suite 500, Montreal, QC H2W 1Y5, Canada*|
+|[![](f/con/g/ghgsat_logo1_thumb.jpg)](f/con/g/ghgsat_logo1.png)|<mark>noemail</mark>, +1(514)847-94-74, Fax: …;<br> *3981 St Laurent Blvd Suite 500, Montreal, QC H2W 1Y5, Canada*|
 |:--|:--|
 |Link|<https://www.ghgsat.com/>|
 |**Mission**|…|

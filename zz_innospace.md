@@ -1,9 +1,9 @@
 # INNOSPACE
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/innospace_logo1_thumb.png)](f/contact/i/innospace_logo1.png)|<mark>noemail</mark>, +82-44-998-2157, Fax: …;<br> *Sejong Business Center A-412, No. 232, Gareum-ro, Sejong City, Sejong 30121, Korea*|
+|[![](f/con/i/innospace_logo1_thumb.png)](f/con/i/innospace_logo1.png)|<mark>noemail</mark>, +82-44-998-2157, Fax: …;<br> *Sejong Business Center A-412, No. 232, Gareum-ro, Sejong City, Sejong 30121, Korea*|
 |:--|:--|
-|Link|<http://www.innospc.com/><br> <https://www.linkedin.com/company/inno-space>|
+|Link|<http://www.innospc.com/>・ <https://www.linkedin.com/company/inno-space>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

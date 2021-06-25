@@ -1,9 +1,9 @@
 # Space BD
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/space_bd_logo1_thumb.png)](f/contact/s/space_bd_logo1.png)|<d.takahashi@space-bd.com>, +81-3-6264-7177, Fax: …;<br> *1 Chome-5-3 Nihonbashimuromachi, Chuo City, Tokyo 103-0022, Japan*|
+|[![](f/con/s/space_bd_logo1_thumb.png)](f/con/s/space_bd_logo1.png)|<d.takahashi@space-bd.com>, +81-3-6264-7177, Fax: …;<br> *1 Chome-5-3 Nihonbashimuromachi, Chuo City, Tokyo 103-0022, Japan*|
 |:--|:--|
-|Link|<https://space-bd.com/><br> <https://www.linkedin.com/company/space-bd-inc>|
+|Link|<https://space-bd.com/>・ <https://www.linkedin.com/company/space-bd-inc>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

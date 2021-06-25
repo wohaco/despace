@@ -1,9 +1,9 @@
 # Space Walker
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/spacewalker_logo1_thumb.jpg)](f/contact/s/spacewalker_logo1.png)|<yasuda@space-walker.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *〒105-0004 3-chome 16-12 Shinbashi, Minato-ku, Tokyo, Japan*|
+|[![](f/con/s/spacewalker_logo1_thumb.jpg)](f/con/s/spacewalker_logo1.png)|<yasuda@space-walker.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *〒105-0004 3-chome 16-12 Shinbashi, Minato-ku, Tokyo, Japan*|
 |:--|:--|
-|Link|<https://space-walker.co.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/spacewalker/>|
+|Link|<https://space-walker.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/spacewalker/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

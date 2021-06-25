@@ -1,7 +1,7 @@
 # Техномаш
 > 2019.08.06 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/t/tehnomash_logo1_thumb.jpg)](f/contact/t/tehnomash_logo1.png)|<info@tmnpo.ru>, +7(495)689-50-66, Fax: +7(495)689-73-45;<br> *Россия, 127018, Москва, 3‑й проезд Марьиной рощи, д. 40*|
+|[![](f/con/t/tehnomash_logo1_thumb.jpg)](f/con/t/tehnomash_logo1.png)|<info@tmnpo.ru>, +7(495)689-50-66, Fax: +7(495)689-73-45;<br> *Россия, 127018, Москва, 3‑й проезд Марьиной рощи, д. 40*|
 |:--|:--|
 |Link|<http://www.tmnpo.ru/>|
 |**Mission**|…|

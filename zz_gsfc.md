@@ -1,9 +1,9 @@
 # GSFC
 > 2019.08.11 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/nasa_logo1_thumb.jpg)](f/contact/n/nasa_logo1.png)|<mark>noemail</mark>, +1(301)286-2000, Fax: …;<br> *8800 Greenbelt Rd, Greenbelt, MD 20771, USA*|
+|[![](f/con/n/nasa_logo1_thumb.jpg)](f/con/n/nasa_logo1.png)|<mark>noemail</mark>, +1(301)286-2000, Fax: …;<br> *8800 Greenbelt Rd, Greenbelt, MD 20771, USA*|
 |:--|:--|
-|Link|<https://www.nasa.gov/goddard><br> <https://www.nasa.gov/centers/goddard/about/index.html><br> <https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center><br> <https://ru.wikipedia.org/wiki/Центр_космических_полётов_Годдарда>|
+|Link|<https://www.nasa.gov/goddard>・ <https://www.nasa.gov/centers/goddard/about/index.html>・ <https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center>・ <https://ru.wikipedia.org/wiki/Центр_космических_полётов_Годдарда>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

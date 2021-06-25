@@ -1,9 +1,9 @@
 # Outsense
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/o/outsense_logo1_thumb.jpg)](f/contact/o/outsense_logo1.png)|<info@outsense.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
+|[![](f/con/o/outsense_logo1_thumb.jpg)](f/con/o/outsense_logo1.png)|<info@outsense.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
-|Link|<https://outsense.jp/><br> <https://aerospacebiz.jaxa.jp/en/spacecompany/outsense/>|
+|Link|<https://outsense.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/outsense/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

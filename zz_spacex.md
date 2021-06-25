@@ -1,9 +1,9 @@
 # SpaceX
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/spacex_logo1_thumb.jpg)](f/contact/s/spacex_logo1.png)|<sales@spacex.com>, +7(310)363-60-00, Fax: …;<br> *1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
+|[![](f/con/s/spacex_logo1_thumb.jpg)](f/con/s/spacex_logo1.png)|<sales@spacex.com>, +7(310)363-60-00, Fax: …;<br> *1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
 |:--|:--|
-|Link|<http://www.spacex.com/><br> <https://en.wikipedia.org/wiki/SpaceX><br> <https://ru.wikipedia.org/wiki/SpaceX><br> <https://www.facebook.com/SpaceX><br> <https://twitter.com/spacex><br> <http://www.youtube.com/spacex><br> <http://www.flickr.com/spacexphotos><br> <http://www.instagram.com/spacex>|
+|Link|<http://www.spacex.com/>・ <https://en.wikipedia.org/wiki/SpaceX>・ <https://ru.wikipedia.org/wiki/SpaceX>・ <https://www.facebook.com/SpaceX>・ <https://twitter.com/spacex>・ <http://www.youtube.com/spacex>・ <http://www.flickr.com/spacexphotos>・ <http://www.instagram.com/spacex>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

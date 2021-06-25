@@ -1,9 +1,9 @@
 # Concordia University
 > 2020.06.28 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
+|[![](f/con/c/concordia_univ_logo1_thumb.png)](f/con/c/concordia_univ_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
-|Link|<http://www.concordia.ca/><br> <https://www.linkedin.com/school/concordia-university/><br> <https://twitter.com/Concordia>|
+|Link|<http://www.concordia.ca/>・ <https://www.linkedin.com/school/concordia-university/>・ <https://twitter.com/Concordia>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

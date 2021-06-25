@@ -1,9 +1,9 @@
 # ALPO
 > 2019.10.29 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/alpo_logo1_thumb.jpg)](f/contact/a/alpo_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Springfield, Illinois, US and worldwide*|
+|[![](f/con/a/alpo_logo1_thumb.jpg)](f/con/a/alpo_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Springfield, Illinois, US and worldwide*|
 |:--|:--|
-|Link|<https://en.wikipedia.org/wiki/Association_of_Lunar_and_Planetary_Observers><br> <http://www.alpo-astronomy.org/><br> <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — ALPO Japan|
+|Link|<https://en.wikipedia.org/wiki/Association_of_Lunar_and_Planetary_Observers>・ <http://www.alpo-astronomy.org/>・ <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — ALPO Japan|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

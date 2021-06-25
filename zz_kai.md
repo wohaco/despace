@@ -1,9 +1,9 @@
 # KAI
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kai_logo1_thumb.png)](f/contact/k/kai_logo1.png)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*|
+|[![](f/con/k/kai_logo1_thumb.png)](f/con/k/kai_logo1.png)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*|
 |:--|:--|
-|Link|<http://www.koreaaero.com/><br> <https://en.wikipedia.org/wiki/Korea_Aerospace_Industries><br> <https://www.linkedin.com/company/korea-aerospace-industries/>|
+|Link|<http://www.koreaaero.com/>・ <https://en.wikipedia.org/wiki/Korea_Aerospace_Industries>・ <https://www.linkedin.com/company/korea-aerospace-industries/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

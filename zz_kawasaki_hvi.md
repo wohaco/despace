@@ -1,9 +1,9 @@
 # Kawasaki HVI
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kawasaki_hvi_logo1_thumb.jpg)](f/contact/k/kawasaki_hvi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-3, Higashikawasaki-cho 1-chome,, Chuo-ku, Kobe,, Hyogo 650-8680, Japan*|
+|[![](f/con/k/kawasaki_hvi_logo1_thumb.jpg)](f/con/k/kawasaki_hvi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-3, Higashikawasaki-cho 1-chome,, Chuo-ku, Kobe,, Hyogo 650-8680, Japan*|
 |:--|:--|
-|Link|<http://global.kawasaki.com/en/mobility/air/space/index.html><br> <https://en.wikipedia.org/wiki/Kawasaki_Aerospace_Company><br> <https://www.linkedin.com/company/kawasaki-heavy-industries/>|
+|Link|<http://global.kawasaki.com/en/mobility/air/space/index.html>・ <https://en.wikipedia.org/wiki/Kawasaki_Aerospace_Company>・ <https://www.linkedin.com/company/kawasaki-heavy-industries/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

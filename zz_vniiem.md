@@ -1,9 +1,9 @@
 # ВНИИЭМ
 > 2019.08.07 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/v/vniiem_logo1_thumb.jpg)](f/contact/v/vniiem_logo1.png)|<vniiem@orc.ru>, <vniiem@vniiem.ru>, +7(495)608-84-67, +7(495)365-56-10, Fax: +7(495)624-86-65, +7(495)366-26-38;<br> *Россия, 107078, Москва, Хоромный тупик, д. 4, стр. 1*|
+|[![](f/con/v/vniiem_logo1_thumb.jpg)](f/con/v/vniiem_logo1.png)|<vniiem@orc.ru>, <vniiem@vniiem.ru>, +7(495)608-84-67, +7(495)365-56-10, Fax: +7(495)624-86-65, +7(495)366-26-38;<br> *Россия, 107078, Москва, Хоромный тупик, д. 4, стр. 1*|
 |:--|:--|
-|Link|<http://www.vniiem.ru><br> <https://ru.wikipedia.org/wiki/ВНИИЭМ>|
+|Link|<http://www.vniiem.ru>・ <https://ru.wikipedia.org/wiki/ВНИИЭМ>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

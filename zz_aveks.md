@@ -1,7 +1,7 @@
 # АВЭКС
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/avecs_logo1_thumb.jpg)](f/contact/a/avecs_logo1.png)|<avecs@avecs.ru>, +7(499)551-55-88, Fax: +7(499)257-04-59;<br> *Россия, 125124, Москва, 1‑я улица Ямского поля, д. 17, с. 12*|
+|[![](f/con/a/avecs_logo1_thumb.jpg)](f/con/a/avecs_logo1.png)|<avecs@avecs.ru>, +7(499)551-55-88, Fax: +7(499)257-04-59;<br> *Россия, 125124, Москва, 1‑я улица Ямского поля, д. 17, с. 12*|
 |:--|:--|
 |Link|<http://avecs.ru/>|
 |**Mission**|…|

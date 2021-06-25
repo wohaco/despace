@@ -3,7 +3,7 @@
 
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 
 [TOC]
 
@@ -22,7 +22,7 @@
 |B‑day, addr.|1959.04.03 Miami, US / …|
 |Contact|<madler@alumni.caltech.edu>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/adler1_photo_thumb.jpg)](f/contact/a/adler1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/a/adler1_photo_thumb.jpg)](f/con/a/adler1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Physics.
    - **Exp.:** …
@@ -48,7 +48,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1983 / …|
 |Contact|<a.h.ansari@bsip.res.in>, <arifenv@gmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* +91(841)805-28-12|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/ansari2_photo_thumb.jpg)](f/contact/a/ansari2_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/a/ansari2_photo_thumb.jpg)](f/con/a/ansari2_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Sheffield Univ., Department of Geography, 2013. MS, Environmental Sciences, Jawaharlal Nehru Univ., 2006. BS, Botany, Chemistry, Zoology, Gorakhpur University, 2004.
    - **Exp.:** Research interest: Biogeochemical Cycling, Stable Isotope Geochemistry, Astrobiology. My current work explores sedimentary rocks geochemistry using stable isotopes & trace elements to understand the Precambrian oceanic & atmospheric environement & their relationship with the evolutiion of life. Skills & Expertise: Geochemistry, Biogeochemistry, Environment, Oceanography, Isotope Geochemistry, Stable Isotope Analysis, Aquatic Ecosystems, Marine Ecology, Ecosystems, Paleogeography.
@@ -72,7 +72,7 @@
 |B‑day, addr.|1949.09.29 ‑ 2016.10.22 (67 лет, Died of complications from ALS (Lou Gehrig’s Disease)) / …|
 |Contact|<mark.a.allen@nasa.gov>, *work:* +1(818)354-36-65|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/allen1_photo_thumb.jpg)](f/contact/a/allen1_photo.jpg)|
+| |[![](f/con/a/allen1_photo_thumb.jpg)](f/con/a/allen1_photo.jpg)|
 
    - **Exp.:** His career interest in chemistry was already well established by the time he enrolled as an undergraduate at Columbia University. In a 2012 alumni profile, he commented, “In my senior year, I learned about the discovery of molecules in interstellar space…, an environment where conventional wisdom at the time would suggest that molecules shouldn’t exist. I chose this burgeoning field of astrochemistry as my future research interest.” (Columbia College Today, Winter 2011-2012, p. 75.) Allen graduated Summa Cum Laude & Phi Beta Kappa from Columbia in 1971, & subsequently received his PhD from Caltech in 1976, both degrees in chemistry. Allen returned to New York City for a two-year fellowship at NASA’s Goddard Institute for Space Studies, & in 1978 accepted a postdoctoral position in planetary sciences at Caltech with Prof. Yuk Yung. He joined the staff of the Jet Propulsion Laboratory (JPL) in 1981, where he spent the majority of his professional career, developing chemical models of planetary & exoplanetary atmospheres, comets, & cold interstellar molecular clouds. He was the principal designer of the comprehensive chemical code KINETICS, an integrated dynamical/chemical computational model for simulating chemical processes in planetary atmospheres. Allen was a team member of NASA’s Astrobiology Institute (NAI) & Virtual Planet Lab, & was [Principal Investigator](principal_investigator.md) of NAI’s “Titan as a Prebiotic Chemical System” project. He was also involved in a number of NASA & ESA missions & mission concepts, including proposals for orbiting spacecraft to examine the atmospheres of Venus, Mars, & Titan.
    - Reflecting on his own training, Allen acknowledged the value of a broad undergraduate education in his work as a scientist: “I was told by a very senior JPL program manager that I prepared the clearest mission proposals he had ever read.” A long-time friend writes that Mark Allen “was a regular guy who had a sense of humor. He was very sweet, very thoughtful.”
@@ -90,7 +90,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1968  / …|
 |Contact|<veronique.ansan@univ-nantes.fr>, *work:* +33(0)251-125-497; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/ansan1_photo_thumb.jpg)](f/contact/a/ansan1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/a/ansan1_photo_thumb.jpg)](f/con/a/ansan1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Géologie / sciences de la Terre, général/ Planétologie, Université paris XI orsay, 1986 ‑ 1993.
    - **Exp.:** Université de Nantes, MCF, 2008 ‑ Present. Université Paris XI orsay, MCF, 1997 ‑ 2008.
@@ -113,7 +113,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1988 / …|
 |Contact|<giada.n.arney@nasa.gov>, *раб.:* +1(301)614-66-27 ; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/arney1_photo_thumb.jpg)](f/contact/a/arney1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/a/arney1_photo_thumb.jpg)](f/con/a/arney1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrobiology, 2016 & MS, Astronomy, Washington Univ., 2012.
    - **Exp.:** Research has involved modeling & measuring properties of planets with an emphasis on worlds enshrouded by global cloud & haze layers because aerosols appear to be a common planetary phenomeon. I have a dual focus on both solar system bodies & on exoplanets. My current & near‑future research focuses on modeling the atmospheric & climatic states of exoplanets, understanding the observational requirements to discriminate between different planetary states with current & future observatories, & re-visiting Venus with new observations.
@@ -138,7 +138,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<rafat.r.ansari@nasa.gov>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/ansari1_photo_thumb.jpg)](f/contact/a/ansari1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/a/ansari1_photo_thumb.jpg)](f/con/a/ansari1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Dr. Ansari is a researcher at the Glenn Research Center in Cleveland, Ohio where he has advanced the light scattering technology for space experiments on-board the space shuttle orbiter, space station, & biomedical applications here on earth. His research thrust is to diagnose diseases noninvasively & quantitatively before the clinical symptoms appear. Dr. Ansari is recognized nationally & internationally for his contributions to science & technology. He is frequently invited to deliver lectures all over the world, has served on several national & international scientific advisory panels, & as a guest faculty at several prestigious universities in the U.S. & overseas. He has over 85 published papers (basic, applied, & clinical research) in peer-reviewed journals & proceedings, three issued patents, & 6 invited book chapters.
@@ -162,7 +162,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<kos@iki.rssi.ru>, *раб.:* +7(495)333-45-78; *mobile:* +7(903)125-76-11|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/a/anufreichik1_photo.jpg) [![](f/contact/a/anufreichik1_sign_thumb.jpg)](f/contact/a/anufreichik1_sign.png)|
+| |![](f/con/a/anufreichik1_photo.jpg) [![](f/con/a/anufreichik1_sign_thumb.jpg)](f/con/a/anufreichik1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -185,7 +185,7 @@
 |B‑day, addr.|1955.07.04, на НПОЛ с 1978 / …|
 |Contact|<alexashkin@laspace.ru>, *work:* 40-01, 52-12, +7(495)575-52-12; *mobile:* +7(495)763-90-56|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/alexashkin1_animated.gif)](f/contact/a/alexashkin1_photo.jpg) [![](f/contact/a/alexashkin1_sign_thumb.jpg)](f/contact/a/alexashkin1_sign.png)|
+| |[![](f/con/a/alexashkin1_animated.gif)](f/con/a/alexashkin1_photo.jpg) [![](f/con/a/alexashkin1_sign_thumb.jpg)](f/con/a/alexashkin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -212,7 +212,7 @@
 |B‑day, addr.|1954.02.11 / …|
 |Contact|<kbaines@jpl.nasa.gov>, *раб.:* +1(818)879-35-02, Fax: +1(818)393-46-05; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/baines1_photo_thumb.jpg)](f/contact/b/baines1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/b/baines1_photo_thumb.jpg)](f/con/b/baines1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Physics, Washington Univ., 1982. MA, Physics, Washington Univ., 1978. BA, Physics, Astronomy (with honors, summa cum laude), Amherst College, 1976.
    - **Exp.:** …
@@ -236,7 +236,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1971 / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/baker1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/b/baker1_sign_thumb.jpg)](f/contact/b/baker1_sign.png)|
+| |[![](f/con/b/baker1_photo_thumb.jpg)](f/con//1_photo.jpg) [![](f/con/b/baker1_sign_thumb.jpg)](f/con/b/baker1_sign.png)|
 
    - **[Education](edu.md):** Mech. engineering, Thermal engineering, Carnegie Mellon Univ., 1993.
    - **Exp.:** GFSC: 2009 ‑ … Mission/Project systems enginer, Lead mission studies in the planetary and astrophysics line of business. 2004 ‑ 2009, Lead thermal engineer, Led [LRO](lunar_reconnaissance_orbiter.md) thermal team.
@@ -258,7 +258,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1963 / …|
 |Contact|<tibor.balint@jpl.nasa.gov>, <tibor.balint@network.rca.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/balint1_photo_thumb.jpg)](f/contact/b/balint1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/b/balint1_photo_thumb.jpg)](f/con/b/balint1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD at the Royal College of Art, School of Design, in Innovation Design Engineering.
    - **Exp.:** …
@@ -284,7 +284,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1958 / …|
 |Contact|<patricia.m.beauchamp@nasa.gov>, <pbeaucha@jpl.nasa.gov>, *раб.:* <mark>noworkphone</mark>; *mobile:* +1(818)645-24-79|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/beauchamp1_photo_thumb.jpg)](f/contact/b/beauchamp1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/b/beauchamp1_photo_thumb.jpg)](f/con/b/beauchamp1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Caltech, 1981.
    - **Exp.:** …
@@ -309,7 +309,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1984  / …|
 |Contact|<alexis.c.benz@jpl.nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/benz1_photo_thumb.jpg)](f/contact/b/benz1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/b/benz1_photo_thumb.jpg)](f/con/b/benz1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** MS, Space systems, Michigan Univ., 2007. BS, Aerospace, Michigan Univ., 2006
    - **Exp.:** Lockheed Martin, Instrument Accommodator, 2015 ‑ Present. JPL, Deputy Mission Operations Systems Engineer, 2007 ‑ 2010: Successfully negotiated MSL Operational Interface agreements, & thread tests between the 5 project elements; Developed plans & procedures to enable 8 hour turn around time between downlink & uplink; Owner & co-author of the MSL Flight Design Document; Maintained Master Equipment Lists (MEL),  Power Equipment Lists (PEL), & budget for competed & directed mission studies; monitored resource margins; Systems engineer for [Team-X](jpl_if.md); responsible for managing all subsystem leads in dynamic, time critical, iterative design environment; Guided 2 day workshop (27 scientists & engineers from around US) down selecting  instruments  for Venus Flagship road mapping effort.  Presented results on behalf of team; Developed & maintained project requirements for Orbiter Exomars Design Team; Routinely calculated mass & cost for propulsion & structural subsystems; Deputy Proposal Manager for Snowpacks Ventures proposal, Deputy Systems Engineer on Venus Flagship Study; Assisted with 3 Venus balloon helicopter drop tests.
@@ -331,7 +331,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<gilles.berger@irap.omp.eu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +33(0)5-6133-2582|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/berger1_photo_thumb.jpg)](f/contact/b/berger1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/b/berger1_photo_thumb.jpg)](f/con/b/berger1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -354,9 +354,9 @@
 |B‑day, addr.|1926.10.13 Paris, FR / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Бламон, Жак|
-| |[![](f/contact/b/blamont1_photo_thumb.jpg)](f/contact/b/blamont1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/b/blamont1_photo_thumb.jpg)](f/con/b/blamont1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
-   - **[Education](edu.md):** [CV](f/contact/b/blamont1_cv.pdf)
+   - **[Education](edu.md):** [CV](f/con/b/blamont1_cv.pdf)
    - **Exp.:** …
    - Jacques Emile Blamont is a French astrophysicist author and the founder scientific and technical director of National Centre for Space Studies (CNES-Centre national d'études spatiales), known to have contributed to the development of Veronique, the first rocket launched by France in 1957. He is an elected fellow of the French Academy of Technologies and a professor emeritus of the Pierre and Marie Curie University (University of Paris VI). Blamont is a recipient of several national honours such as Commander of the Legion of Honour, the third highest French civilian honour, Grand Officer of the National Order of Merit, the second highest French civilian honour, Commander of the Academic Palms, Grand Cross of the National Order of Merit, the highest French civilian honour, President’s Silver Medal, Soviet Order of Friendship of Peoples and Padma Shri, the fourth highest Indian civilian award.
    - **SC/Equip.:** 1986 [Venus Sample Return Mission](venus_sample_return_mission.md)
@@ -377,7 +377,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1980  / …|
 |Contact|<bovolo@fbk.eu>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/bovolo1_photo_thumb.jpg)](f/contact/b/bovolo1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/b/bovolo1_photo_thumb.jpg)](f/con/b/bovolo1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Trento Univ., Italy, Information & Communication Techologies, 2006. MS, Trento Univ., Italy, Communication Engineering, 2003. BS (summa cum laude), Trento Univ., Italy, Communication Engineering, 2001.
    - **Exp.:** She is the founder & the head of the Remote Sensing for Digital Earth unit at Fondazione Bruno Kessler (FBK), Trento, Italy since July 2013. Her main research interests are in remote-sensing image processing, signal processing, & pattern recognition. Her interests are related to multitemporal image analysis, change detection in multispectral, hyperspectral, [SAR](sar.md) images, time series analysis, domain adaptation, LiDAR & radar sounder systems. She conducts research & on these topics within the context of several national & international projects. She is the author (or coauthor) of 47 scientific publications in referred international journals (more than 40 in IEEE journals), more than 90 papers in conference proceedings, & 8 book chapters. She is editor/co-editor of 2 conference proceedings & 2 journal special issue. She is a member of the program & scientific committee of several international conferences & workshops & a referee for several international journals.
@@ -401,7 +401,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<chris.bradburne@jhuapl.edu>, *раб.:* +1(443)414-71-40; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/bradburne1_photo_thumb.jpg)](f/contact/b/bradburne1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/b/bradburne1_photo_thumb.jpg)](f/con/b/bradburne1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biosciences, George Mason Univ.
    - **Exp.:** Skills & Expertise: PCR, Cell Culture, Material Characterization, Materials, Gel Electrophoresis, DNA, Nanomaterials, Cloning, Thin Films & Nanotechnology, Thin Film Deposition, Phylogenetic Analysis, Semiconductor, Cells, Luminescence, Peptides, Quantum Dots, Wetlands, Cyanobacteria, rRNA Genes, Targeting.
@@ -426,7 +426,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1965, Mönchengladbach, GR / …|
 |Contact|<mark>noemail</mark>, *work:* +49(30)670-55-301, Fax: +49(30)670-55-303; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/breuer1_photo_thumb.jpg)](f/contact/b/breuer1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/b/breuer1_photo_thumb.jpg)](f/con/b/breuer1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geophysics, Westfälische-Wilhelms-Universität (WWU) in Münster, Germany, 1995. PostDoc, Department of Geology & Geophysics, Univ. of Minnesota & at the Minnesota Supercomputer Institute, US, 1997.
    - **Exp.:** After 1997, she was Assistant Professor at the Institute of Planetology (WWU) in Münster, for 6 years. She currently works at the DLR, Institute of Planetary Research in Berlin, where she is Head of the Department of Planetary Physics since 2004. She is also Associate Professor at the Institute de Physique du Globe de Paris (since 2005). She has been involved in scientific teams for various space experiments, such as HP3 (Heat Flow & Physical Properties Package) for ExoMars, MORE (Mercury Orbiter Radioscience Experiment) & BELA (BepiColombo Laser altimeter) on the BepiColombo mission to Mercury.
@@ -453,7 +453,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Thomas.F.Bristow@nasa.gov>, *раб.:* +1(626)318-34-80; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/b/bristow1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/b/bristow1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Mineralogical Traces of Early Habitable Environments.
@@ -477,7 +477,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1970  / …|
 |Contact|<lorenzo.bruzzone@ing.unitn.it>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/bruzzone1_photo_thumb.jpg)](f/contact/b/bruzzone1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/b/bruzzone1_photo_thumb.jpg)](f/con/b/bruzzone1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PostDoc, Remote Sensing & Signal Processing, University of Genoa, Italy, 1999. PhD, Telecommunication Engineering, University of Genoa, Italy, 1998. BS, Electronic Engineering, 1993.
    - **Exp.:** Dr. Bruzzone is the founder & the director of the Remote Sensing Laboratory in the Department of Information Engineering & Computer Science, Univ. of Trento. His research interests are in the areas of remote sensing, radar & [SAR](sar.md), signal processing, machine learning & pattern recognition. Among the others, he’s currently the [Principal Investigator](principal_investigator.md) of the Radar for icy Moon exploration (RIME) instrument in the framework of the JUpiter ICy moons Explorer (JUICE) mission of the European Space Agency (ESA) & the Science Lead for the High Resolution Land Cover project in the framework of the Climate Change Initiative of ESA. He is the author (or coauthor) of 247 scientific publications in international journals (183 in IEEE journals), 310 papers in conference proceedings, 21 book chapters.
@@ -503,7 +503,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<bullock@boulder.swri.edu>, *раб.:* +1(303)944-94-76; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/b/bullock1_photo.jpg) [![](f/contact/b/bullock1_sign_thumb.jpg)](f/contact/b/bullock1_sign.png)|
+| |![](f/con/b/bullock1_photo.jpg) [![](f/con/b/bullock1_sign_thumb.jpg)](f/con/b/bullock1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Skills & Expertise: Astronomy & Astrophysics, Atmosphere, Space, Planetary Science, Optical Astronomy, Space Exploration, Space Technology, Planets, Planetary Sciences & Astrogeology, Solar System, Space Technology for Development, Planet Formation, Planetary Evolution, Planetary Geology, Exoplanets, Space Science, Extrasolar Planets, Mars, Chemical Evolution, Mars Exploration, Exobiology, Theoretical Planetology, Noble Gases, Cultural Astronomy, Planetary Exploration, Moon, Planetary Atmospheres, Origin of Life, Lunar Science, Remote Spectroscopy. В 2000-х писал proposal'ы для NASA для больших венерианских миссий.
@@ -528,7 +528,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1984 / …|
 |Contact|<paul.byrne@ncsu.edu>, *раб.:* +1(919)513-25-78; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/byrne1_photo_thumb.jpg)](f/contact/b/byrne1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/b/byrne1_photo_thumb.jpg)](f/con/b/byrne1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Planetary Geology, Trinity College Dublin, 2010. BA (Mod.) Hons., Geology, Trinity College Dublin, 2005.
    - **Exp.:** Planetary geologist, interested in how & why planets look the way they do. He uses remote sensing, laboratory & numerical modeling & fieldwork in analog sites around the world to examine how volcanic, tectonic & impact processes have shaped planetary surfaces. His interests include exploring what Earth can reveal about other bodies in the solar system — like Mars, Mercury & Earth’s moon — & what these worlds can, in turn, reveal about the history & evolution of Earth.
@@ -555,7 +555,7 @@
 |B‑day, addr.|1944.10.31 / …|
 |Contact|<nbabakin@asc.rssi.ru>, *work:* +7(495)333-21-33, факс +7(495)333-23-01; *mobile:* +7(917)544-54-71|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/babakin2_animated.gif)](f/contact/b/babakin2_photo.jpg) [![](f/contact/b/babakin2_sign_thumb.jpg)](f/contact/b/babakin2_sign.png)|
+| |[![](f/con/b/babakin2_animated.gif)](f/con/b/babakin2_photo.jpg) [![](f/con/b/babakin2_sign_thumb.jpg)](f/con/b/babakin2_sign.png)|
 
    - **[Education](edu.md):** Кандидат технических наук.
    - **Exp.:** …
@@ -578,7 +578,7 @@
 |B‑day, addr.|1909.03.17 ‑ 1993.07.17 / Москва, СССР|
 |Contact| |
 |i18n|Barmin, Vladimir Pavlovich|
-| |[![](f/contact/b/barmin1_photo_thumb.jpg)](f/contact/b/barmin1_photo.jpg)|
+| |[![](f/con/b/barmin1_photo_thumb.jpg)](f/con/b/barmin1_photo.jpg)|
 
    - **[Education](edu.md):** Доктор технических наук (1959). Академик АН СССР (с 1966 года, с 1991 года — академик РАН), Герой Социалистического Труда (1956). Лауреат Ленинской премии и трёх Государственных премий СССР.
    - **Exp.:** С 1947 года под руководством Бармина были разработаны стартовые комплексы для многих ракет конструкции Королёва: Р-1, Р-2, Р-11, Р-5, Р-5М — первой стратегической ракеты с ядерным боезарядом Р-5М. В 1957 году завершены работы над стартовым комплексом первой в мире межконтинентальной баллистической ракеты Р-7, которая вывела на орбиту Земли первый искусственный спутник Земли и первого космонавта Юрия Гагарина. В ГСКБ «Спецмаш» при участии Бармина созданы шахтные комплексы для боевых ракет Р-12, Р-14, Р-9А, УР-100. Под его руководством были разработаны и созданы стартовые комплексы для ракет‑носителей «Протон» и многоразовой ракетно‑космической системы «Энергия‑Буран». Основатель и первый заведующий кафедрой «Стартовые ракетные комплексы» МГТУ имени Н. Э. Баумана. Руководил конструкторским бюро по разработке стартовых комплексов (Главный конструктор). Бармин руководил созданием автоматических грунтозаборных устройств для исследования Луны и Венеры. С помощью одного из них была взята проба лунного грунта с глубины около 2,5 метра и обеспечена доставка его на Землю. С помощью другого был осуществлен забор образцов грунта в трёх точках поверхности Венеры, получена и передана по радиоканалу на Землю научная информация о его химическом составе.
@@ -597,7 +597,7 @@
 |B‑day, addr.|1914.11.13 ‑ 1971.08.03 / Москва, СССР|
 |Contact| |
 |i18n|Babakin, Georgy Nikolayevich|
-| |[![](f/contact/b/babakin1_photo_thumb.jpg)](f/contact/b/babakin1_photo.jpg)|
+| |[![](f/con/b/babakin1_photo_thumb.jpg)](f/con/b/babakin1_photo.jpg)|
 
    - **[Education](edu.md):** Член‑корреспондент Академии наук СССР (c 24.11.1970). Доктор технических наук (1968). Герой Социалистического Труда (1970). Лауреат Ленинской премии (1966).
    - **Exp.:** НПО имени С. А. Лавочкина (Химки, Московская область) под руководством Бабакина работало над совершенствованием техники, систем тестирования и управления, добившись целого ряда успехов там, где у КБ Королёва не получилось — первая мягкая посадка на Луну аппарата Луна‑9, первый в мире планетоход Луноход‑1, первый зонд Венера‑4 в атмосфере Венеры.
@@ -617,7 +617,7 @@
 |B‑day, addr.|1980.11.03 / …|
 |Contact|<burdanovav@tsniimash.ru>, *раб.:* +7(495)513-40-81; *mobile:* +7(926)273-80-51|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/b/burdanov1_photo.jpg) [![](f/contact/b/burdanov1_sign_thumb.jpg)](f/contact/b/burdanov1_sign.png)|
+| |![](f/con/b/burdanov1_photo.jpg) [![](f/con/b/burdanov1_sign_thumb.jpg)](f/con/b/burdanov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -640,7 +640,7 @@
 |B‑day, addr.|1992.04.22, на НПОЛ с 2015 / Химки|
 |Contact|<burov@laspace.ru>, *work:* 64-08; *mobile:* +7(926)833-55-86, +7(495)793-91-68 — домашний стационарный|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/burov1_photo_thumb.jpg)](f/contact/b/burov1_photo.jpg) [![](f/contact/b/burov1_sign_thumb.jpg)](f/contact/b/burov1_sign.png)|
+| |[![](f/con/b/burov1_photo_thumb.jpg)](f/con/b/burov1_photo.jpg) [![](f/con/b/burov1_sign_thumb.jpg)](f/con/b/burov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -667,9 +667,9 @@
 |B‑day, addr.|<mark>nodate</mark> 1964  / …|
 |Contact|<campbellb@si.edu>, *work:* +1(202)633-24-72; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/campbell1_photo_thumb.jpg)](f/contact/c/campbell1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/c/campbell1_photo_thumb.jpg)](f/con/c/campbell1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
-   - **[Education](edu.md):** **[CV](f/contact/c/campbell1_cv.pdf)**. PhD, Geology & Geophysics, University of Hawaii, 1991. BS, Geophysics, Texas A&M University, 1986.
+   - **[Education](edu.md):** **[CV](f/con/c/campbell1_cv.pdf)**. PhD, Geology & Geophysics, University of Hawaii, 1991. BS, Geophysics, Texas A&M University, 1986.
    - **Exp.:** Since 1992 he has been with the Smithsonian’s Center for Earth & Planetary Studies at the National Air & Space Museum, & is currently department chair. His research focuses on the surface & subsurface geology of the Moon, Mars, Venus, & the icy moons of the outer planets, resulting in more than 100 scientific publications. Much of this work uses radar observations with orbiting probes & the giant Arecibo & Green Bank radio telescopes. Radar signals can probe from a few meters to several kilometers below the surface, revealing the events that formed the features we now see. For Venus, radar can penetrate the thick clouds to map the volcanic landscape & watch for changes from possible eruptions. To support future human exploration, radar illuminates areas near the lunar poles to search for ice, reveals layering in the polar caps of Mars, & can identify ground ice on Mars that could supply water. Dr. Campbell has led several proposal teams for an orbiting radar mission to locate that ice on Mars, co-chaired a 2015 study group for the next Mars orbiter mission, & has been on teams to develop new mission concepts for Venus. He is a science team member for radar sounder instruments on the Mars Reconnaissance Orbiter, the Jupiter Icy Moons Explorer, & the Europa Clipper missions. As part of the National Air & Space Museum, he works to bring the excitement & discoveries of planetary exploration to museum visitors. This includes new gallery sections on Venus, Mars exploration & the three generations of rovers, the exploration of Pluto & the distant Kuiper Belt, & the radar image of the Moon that serves as a backdrop for the museum’s Lunar Module.
    - …
    - **SC/Equip.:** … [EnVision](envision.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md)
@@ -690,7 +690,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<tcaro@berkeley.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/caro1_photo_thumb.jpg)](f/contact/c/caro1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/c/caro1_photo_thumb.jpg)](f/con/c/caro1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** BA, Molecular & Cell Biology, Berkeley Univ.
    - **Exp.:** …
@@ -712,7 +712,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<lmcarter@lpl.arizona.edu>, *раб.:* +1(520)621-69-63; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/carter1_photo_thumb.jpg)](f/contact/c/carter1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/c/carter1_photo_thumb.jpg)](f/con/c/carter1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD & MS, Astronomy, Cornell Univ.
    - **Exp.:** Research interests: volcanism & impact cratering on the terrestrial planets, surface properties of asteroids, climate change, & the development of radar remote sensing techniques including polarimetric imaging & ground penetrating radar. She has used the Arecibo radar system to study Venus, the Moon & asteroids, is Deputy PI of the Mini‑RF radar on Lunar Reconnaissance Orbiter, & is a Co‑I on the SHARAD on Mars Reconnaissance Orbiter, REASON on the NASA Europa Mission & RIMFAX on the Mars2020 rover.
@@ -737,7 +737,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Kelley.Case@jpl.nasa.gov>, *work:* +1(818)354‑58-70; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/case1_photo_thumb.jpg)](f/contact/c/case1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/c/case1_photo_thumb.jpg)](f/con/c/case1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** She is responsible for managing JPL’s advanced design team, internationally recognized as [Team X](jpl_if.md). While Team X consists of over 200 lab wide members, individual study teams are comprised of approximately twenty subsystem engineers that architect a new conceptual space mission over the course of one to three weeks. In addition, Kelley has managed various Earth Science formulation activities and proposals. Previous job assignments include serving as the Science Data Engineering technical group supervisor in the Instruments and Science Data Systems Division, as well as the Collaborative Engineering technical group supervisor in the Systems and Software Division.
@@ -759,7 +759,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1979 / …|
 |Contact|<remy.chalex@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/chalex1_photo_thumb.jpg)](f/contact/c/chalex1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/c/chalex1_photo_thumb.jpg)](f/con/c/chalex1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** System Engineer active in the fields of space missions design, project management, team work & feasibility evaluation (eg. mission concept).
@@ -781,9 +781,9 @@
 |B‑day, addr.|<mark>nodate</mark> 1956 Montpellier, FR / …|
 |Contact|<eric.chassefiere@u-psud.fr>, *work:* +33(169)156-748; *mobile:* +33(169)154-911|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/chassefiere1_photo_thumb.jpg)](f/contact/c/chassefiere1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/c/chassefiere1_photo_thumb.jpg)](f/con/c/chassefiere1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
-   - **[CV](f/contact/c/chassefiere1_cv.jpg)**. Doctorant, puis post‑doctorant au Service d’Aéronomie (SA), 1988.
+   - **[CV](f/con/c/chassefiere1_cv.jpg)**. Doctorant, puis post‑doctorant au Service d’Aéronomie (SA), 1988.
    - **Exp.:** He is specialized in the study of Earth & planetary surfaces & subsurfaces. He has been the [principal investigator](principal_investigator.md) of the UV spectrometer to be flown on the BepiColombo mission, & co‑investigator of numerous experiments flown on Phobos, Huygens, Mars Express & Venus Express. His research activities encompass studies of the interplanetary medium & planetary atmospheres.
    - …
    - **SC/Equip.:** 2018 [BepiColombo](bepicolombo.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2005 [Venus Express](venus_express.md), 1997 [Cassini Huygens](cassini_huygens.md)
@@ -806,7 +806,7 @@
 |B‑day, addr.|1967.05.21 / …|
 |Contact|<c.s.cockell@ed.ac.uk>, *раб.:* +44(131)650-29-61; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/cockell1_photo_thumb.jpg)](f/contact/c/cockell1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/c/cockell1_photo_thumb.jpg)](f/con/c/cockell1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Molecular Biophysics, Oxford Univ., 1994.
    - **Exp.:** His scientific interests have focused on astrobiology, geomicrobiology & life in extreme environments. He has published over 300 scientific papers & books in these areas. He has contributed to plans for the human exploration of Mars.
@@ -834,7 +834,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1971  / …|
 |Contact|<Anthony.Colaprete-1@nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/colaprete1_photo_thumb.jpg)](f/contact/c/colaprete1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/c/colaprete1_photo_thumb.jpg)](f/con/c/colaprete1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Astrophysical, Planetary & Atmospheric Science, University of Colorado, 2000. MS, Astrophysical, Planetary & Atmospheric Science, University of Colorado, 1998. BA, Physics, University of Colorado, 1992.
    - **Exp.:** Mars General Circulation Modeling, Atmosphere radiative transfer, cloud physics, volatile transport & processes, instrument design, operation, flight mission design & operations. Hired as a civil servant in 2003, Colaprete split his time between fundamental scientific research & developing flight instrumentation. Colaprete has been the [Principal Investigator (PI)](principal_investigator.md) for several flight projects & instruments, including the LCROSS mission & the Lunar Atmosphere & Dust Environment Explorer (LADEE) Ultraviolet & Visible Spectrometer (UVS). Currently, he is the Project Scientist for the RP mission, PI for the Near InfraRed Volatiles Spectrometer System (NIRVSS) & leads the Ames Flight Instrument Group.
@@ -858,7 +858,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1994 / …|
 |Contact|<jaime.cordova@wisc.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Кордова, Хайми Адриан Мл.|
-| |[![](f/contact/c/cordova1_photo_thumb.jpg)](f/contact/c/cordova1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/c/cordova1_photo_thumb.jpg)](f/con/c/cordova1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Genetics, Wisconsin Univ.
    - **Exp.:** …
@@ -880,7 +880,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1982 / …|
 |Contact|<valeria.cottini@nasa.gov>, *work:* +1(301)286-79-32 ; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/cottini1_photo_thumb.jpg)](f/contact/c/cottini1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/c/cottini1_photo_thumb.jpg)](f/con/c/cottini1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** 2009, PhD, Astronomy, University of Rome Tor Vergata. 2005, MS, Physics, Sapienza Università di Roma.
    - **Exp.:** University of Maryland, US, Associate Research Scientist, 2013 ‑ Present. NASA Goddard Space Flight Center, US, NASA Postdoctoral Fellowship, 2011 ‑ 2013.
@@ -906,7 +906,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1945  / Pasadena, California, USA|
 |Contact|<James.A.Cutts@jpl.nasa.gov>, *раб.:* +1(818)354-41-20; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/cutts1_photo_thumb.jpg)](f/contact/c/cutts1_photo.jpg) [![](f/contact/c/cutts1_sign_thumb.jpg)](f/contact/c/cutts1_sign.png)|
+| |[![](f/con/c/cutts1_photo_thumb.jpg)](f/con/c/cutts1_photo.jpg) [![](f/con/c/cutts1_sign_thumb.jpg)](f/con/c/cutts1_sign.png)|
 
    - **[Education](edu.md):** MS (Geophysics) & PhD, Caltech, 1972, Planetary Science. BA in Physics from Cambridge University.
    - **Exp.:** Responsible for the development & demonstration of advanced concepts for solar system exploration. A major focus — planetary aerobots or robotic balloons. He was Manager of the Planetary Science Institute of Science Applications International Corporation & a scientific investigator with the Mariner 9 & Viking Orbiter Imaging teams. He was Program Manager for Advanced Concepts & Deputy Director of the Center for Space Microelectronics Technology (1988 ‑ 1991). He has served as Chair of NASA’s Sensor Working Group (1988 ‑ 1990) & has served on other NASA & U.S. Air Force advisory committees. He has authored ~50 papers in planetary science, sensor technology & innovative space missions concepts.
@@ -931,7 +931,7 @@
 |B‑day, addr.|1914.06.30 ‑ 1984.12.08 / …|
 |Contact|, |
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/c/chelomey1_photo_thumb.jpg)](f/contact/c/chelomey1_photo.jpg)|
+| |[![](f/con/c/chelomey1_photo_thumb.jpg)](f/con/c/chelomey1_photo.jpg)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Участвовал в создании ряда двигателей и прочих важнейших объектов ракетной, космической и авиационной техники. Под его руководством были разработаны ракеты‑носители («Протон» активно используется до сих пор), искусственные спутники Земли «Протон» и «Полёт», орбитальные станции серии «Алмаз», пилотируемый корабль ТКС и т. п. Являлся одним из ключевых создателей советского «ядерного щита». Однако же, один из крупнейших проектов учёного — интегрированный оборонно‑наступательный океаническо‑сухопутно‑космический комплекс — не был реализован и остался невостребованным советской и российской оборонной промышленностью. Основные научные труды по конструкции и динамике машин, теории колебаний, динамической устойчивости упругих систем, теории сервомеханизмов. Посмертно академик В. Н. Челомей в 1986 г. признан соавтором открытия (вместе с д.т. н. О. Н. Кудриным и А. В. Квасниковым) «Явления аномально высокого прироста тяги в газовом эжекционном процессе с пульсирующей активной струей». Открытие зарегистрировано в Государственном реестре открытий СССР под номером 314.
@@ -950,7 +950,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<chulkov@cosmos.ru>, *раб.:* +7(495)333-44-12, Fax: +7(495)913-30-40; *mobile:* +7(916)127-77-19|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/c/chulkov1_animated.gif)|
+| |![](f/con/c/chulkov1_animated.gif)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -978,7 +978,7 @@
 |B‑day, addr.|1983.05.03 / … Italy|
 |Contact|<piero.dincecco@unich.it>, <piero.dincecco@planetaryscience.de>, *раб.:* +49(176)329-814-72; *mobile:* +39(389)462-98-83|
 |i18n|Пьеро Д'Инчекко|
-| |[![](f/contact/d/dincecco1_photo_thumb.jpg)](f/contact/d/dincecco1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/d/dincecco1_photo_thumb.jpg)](f/con/d/dincecco1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Department of Astronomy, University of Oulu.
    - **Exp.:** Planetary geologist, particularly focused on surface morphology of terrestrial bodies.
@@ -1002,7 +1002,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<shawn.goldman@nasa.gov>, *раб.:* +1(301)614-62-45; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/d/domagalgoldman1_photo_thumb.jpg)](f/contact/d/domagalgoldman1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/d/domagalgoldman1_photo_thumb.jpg)](f/con/d/domagalgoldman1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in Geosciences & Astrobiology.
    - **Exp.:** Research interests: Exoplanets, Archean geochemistry, planetary atmospheres, astrobiology. My research focuses on ascertaining as much as possible about «alien planets» using sparse data sets. For early Earth & other terrestrial planets, I work on utilizing isotopic trends as proxies for atmospheric processes & elemental cycling. This includes work on the fundamental controls on Fe isotope fractionation & on global controls on mass‑independent Sulfur isotope fractionation (S‑MIF). For extrasolar planets, I help develop spectroscopy‑based characterization techniques that can inform us about a planet’s surface climate, habitability, & ecosystems. I'm also extremely passionate about science communication, & believe it is our responsibility as publicly‑funded scientists to bring the results of our research back to the public. To this end, I’ve helped organize FameLab events in the US… & am always looking for new opportunities to talk about NASA science in public forums.
@@ -1029,7 +1029,7 @@
 |B‑day, addr.|1984.04.30 (Китай) / Princeton, USA|
 |Contact|<dcfy@princeton.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +1(404)824-39-66; *skype* — scfyln|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/d/dong1_photo_thumb.jpg)](f/contact/d/dong1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/d/dong1_photo_thumb.jpg)](f/con/d/dong1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Space & planetary sciences & scientific computing, University of Michigan USA, 2015 / MS, Nuclear Engineering & Radiological Sciences, University of Michigan, 2014 / MS, Space & Planetary Sciences, University of Michigan USA, 2012 / MS, Earth & Atmospheric Sciences, Georgia Institute of Technology USA, 2010 / BS, Geophysics (Space Physics), Physics (Theoretical Physics), & Math (Mathematical Physics), University of Science & Technology of China, 2009.
    - **Exp.:** My research interests include: star-planet interactions, (exo-) planetary habitability & astrobiology, solar wind interaction with planets/moons (e.g., Mars, Venus, Mercury, Titan & Ganymede), ion/electron heating by Alfvén/whistler waves via non/sub‑resonant interaction, high intensity laser-plasma interaction, electrons & coherent radiation (in traveling wave tube, klystron, gyrotron, magnetron), magnetic reconnection & turbulence, information feedback in intelligent transportation systems (ITSs), application of the evolutionary game theory to traffic networks.
@@ -1053,7 +1053,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1972, FR / …|
 |Contact|<caroline.dumoulin@univ-nantes.fr>, *work:* +33(0)251-125-480; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/d/dumoulin1_photo_thumb.jpg)](f/contact/d/dumoulin1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/d/dumoulin1_photo_thumb.jpg)](f/con/d/dumoulin1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Convection mantellique et structure de la lithosphère, Sciences de la Terre, 2000.
    - **Exp.:** …
@@ -1076,7 +1076,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1958.. / …|
 |Contact|<mdyar@mtholyoke.edu>, *раб.:* +1(413)538-30-73; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/d/dyar1_photo.jpg) [![](f/contact/d/dyar1_sign_thumb.jpg)](f/contact/d/dyar1_sign.png)|
+| |![](f/con/d/dyar1_photo.jpg) [![](f/con/d/dyar1_sign_thumb.jpg)](f/con/d/dyar1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geochemistry, Massachusetts Institute of Technology. BA, Geology & Art History, Wellesley College.
    - **Exp.:** Targets: Earth, Mars, Mercury, Moon, Venus. Mineralogist & spectroscopist interested in a wide range of problems relating to the evolution of the solar system. Study the redox state of iron & the abundance of hydrogen in solar system materials using Mossbauer, x‑ray absorption, & FTIR spectroscopy. Has pioneered use of machine learning tools to interpret spectroscopic data. Participating Scientist on the Mars Science Laboratory science team. In addition to being a Senior Scientist at [PSI](zz_psi.md), Darby Dyar is also Kennedy‑Schelkunoff Professor of Astronomy at Mt. Holyoke College.
@@ -1102,7 +1102,7 @@
 |B‑day, addr.|1939.03.16, на НПОЛ с 1968 / …|
 |Contact|<mark>noemail</mark>, *work:* 31-35; *mobile:* +7(903)775-55-56|
 |i18n|Dolgopolov, Vladimir Pavlovich|
-| |![](f/contact/d/dolgopolov1_animated.gif) [![](f/contact/d/dolgopolov1_sign_thumb.jpg)](f/contact/d/dolgopolov1_sign.png)|
+| |![](f/con/d/dolgopolov1_animated.gif) [![](f/con/d/dolgopolov1_sign_thumb.jpg)](f/con/d/dolgopolov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** С 2017.05.05 ведущий специалист отдела 512 в составе группы «Лунатиков» *(позывной — «Профессор Звёздочкин»)*. До 2017.05.05 ведущий специалист Дирекции 202.
@@ -1128,7 +1128,7 @@
 |B‑day, addr.|1937.05.06 (Greece) / …|
 |Contact|<tecon@tecon.uchicago.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/e/economou1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/e/economou1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** **Таназис (Том) Экономоу.** Понимает и говорит по‑русски.
@@ -1152,7 +1152,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<richard.ernst@ernstgeosciences.com>, *раб.:* +1(613)295-79-55; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/e/ernst1_photo_thumb.jpg)](f/contact/e/ernst1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/e/ernst1_photo_thumb.jpg)](f/con/e/ernst1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, P.Geo., Carleton Univ., 1989.
    - **Exp.:** Skills & Expertise: Tectonics, Geological Mapping, Geology, Mining, Geochemistry, Plate Tectonics, Geochronology, Gas, Geodynamics, Petrology, Paleomagnetism, Meteorites, TIMS.
@@ -1177,7 +1177,7 @@
 |B‑day, addr.|1951.04.15 / …|
 |Contact|<larry.esposito@lasp.colorado.edu>, *раб.:* +1(303)492-73-25; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/e/esposito1_photo_thumb.jpg)](f/contact/e/esposito1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/e/esposito1_photo_thumb.jpg)](f/con/e/esposito1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** A 1973 graduate at the Massachusetts Institute of Technology. PhD in astronomy.
    - **Exp.:** Observational & theoretical studies of planetary atmospheres & rings; chemistry & dynamics of Venus clouds; waves in Saturn’s rings; numerical methods for radiation transfer.
@@ -1202,7 +1202,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1982 / Washington|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/e/ewan1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/e/ewan1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** MA, International Relations & International Economics, Concentration: International Energy Policy, J.Hopkins Univ., 2009. BA, Political Science/French, Notre Dame Univ., 2003. Proficient in Russia, fluent in French. Russian language immersion at Moscow State University in January 2009.
    - **Exp.:** Specialties: Plutonium disposition, MOX fuel, HEU downblending, fissile material disposition, nuclear & radiological security, physical security, nuclear nonproliferation, federal budgeting, project management, energy security, U.S. energy policy, international science cooperation, EU-Russian energy relations, legislative process.
@@ -1224,7 +1224,7 @@
 |B‑day, addr.|1960.06.02 / …|
 |Contact|<elkin@tsniimash.ru>, <elkin_konst@mail.ru>, *раб.:* +7(495)513-56-90, секретарь: +7(495)513-42-92; *mobile:* +7(926)601-82-41|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/e/elkin1_photo.jpg) [![](f/contact/e/elkin1_sign_thumb.jpg)](f/contact/e/elkin1_sign.png)|
+| |![](f/con/e/elkin1_photo.jpg) [![](f/con/e/elkin1_sign_thumb.jpg)](f/con/e/elkin1_sign.png)|
 
    - **[Education](edu.md):** МГУ
    - **Exp.:** …
@@ -1246,7 +1246,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<elshanskiy.lb@roscosmos.ru>, *раб.:* +7(495)631-91-22; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/e/elshanskiy1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/e/elshanskiy1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1269,7 +1269,7 @@
 |B‑day, addr.|1993.09.23 (Москва, РФ) / Москва, РФ|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/e/evdokimova1_photo_thumb.jpg)](f/contact/e/evdokimova1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/e/evdokimova1_photo_thumb.jpg)](f/con/e/evdokimova1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1292,7 +1292,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<neismont@iki.rssi.ru>, *раб.:* <mark>noworkphone</mark>; *mobile:* +7(916)628-61-39|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/e/eismont1_animated.gif) <mark>nosign</mark>|
+| |![](f/con/e/eismont1_animated.gif) <mark>nosign</mark>|
 
    - Natan Eismont. 
    - **[Education](edu.md):** Кандидат технических наук, 2012. Доктор физ‑мат наук, математика, МГУ, 1968.
@@ -1322,7 +1322,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1970  / …|
 |Contact|<Richard.Ghail@rhul.ac.uk>, *work:* +44(1784)27-67-66; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/ghail1_photo_thumb.jpg)](f/contact/g/ghail1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/g/ghail1_photo_thumb.jpg)](f/con/g/ghail1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** As a Reader in Planetary & Engineering Geology I am interested in most areas of geology, but principally my research has been on tectonic processes away from plate boundaries, on continental areas of Earth, particularly the London Basin, & on Venus, where the lack of erosion means that these processes are more clearly discernible. I have worked with synthetic aperture radar ([SAR](sar.md)) data for more than 25 years & understand its strangeness as an imaging system, & the use of phase information for change detection. For the first time we now have a tool that can measure the mm/yr rate of horizontal & vertical movement characteristic of low seismicity continental interiors. I am applying these techniques to help predict ground engineering problems & groundwater flow, & am developing new tools using the full amplitude, phase & polarimetric components of SAR data. The London Basin appears to be modestly active at present but poorly understood, posing significant hazards to both the deeper (e.g., Crossrail) & older (e.g., the Northern Line) parts of London’s infrastructure. Of particular concern is the presence of local anoxic air pockets underground caused by cavitation & reduction by green rust during dewatering, & then trapped by rising groundwater in fault-bounded blocks. Understanding their origin & location is the subject of ongoing research with the Tideway Thames Tunnel project. I am lead proposer of EnVision, an ambitious European Medium Class mission to detect & measure the rates of internal, surface & atmospheric changes on Venus, using the most advanced Earth Observation SAR technology & experience. These new data are essential to understanding volcanic, tectonic & atmospheric processes on Venus & ultimately to explaining why a planet so similar to Earth has evolved so differently.
@@ -1346,11 +1346,11 @@
 |B‑day, addr.|1964.07.19 (Техас) / …|
 |Contact|<lori.s.glaze@nasa.gov>, *раб.:* +1(301)614-64-66, Fax: +1(301)614-60-15; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/glaze1_photo_thumb.jpg)](f/contact/g/glaze1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/g/glaze1_photo_thumb.jpg)](f/con/g/glaze1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Volcanic eruption plume dynamics, Lancaster Univ., 1994. MS, Physics, Texas Univ., 1989. BS, Physics, Texas Univ., 1985.
    - **Exp.:** Venus exploration.
-   - [Визитка (2018)](f/contact/g/glaze1_card01.png). Паспорт: 821529569, истекает 2020.09.03.
+   - [Визитка (2018)](f/con/g/glaze1_card01.png). Паспорт: 821529569, истекает 2020.09.03.
    - **SC/Equip.:** 2017 [Cubesat UV Experiment](cubesat_uv_experiment.md), 2009 [Venus Mobile Explorer](venus_mobile_explorer.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
    - Git: …・ [Facebook ⎆](https://www.facebook.com/lori.o.glaze)・ [Instagram ⎆](https://instagram.com/lori.glaze)・ [LinkedIn ⎆](https://www.linkedin.com/in/lori-s-glaze-b65b8119)・ [Twitter ⎆](https://twitter.com/loriglaze)
@@ -1371,7 +1371,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<diana.gentry@nasa.gov>, *раб.:* +1(650)604-54-41; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/g/gentry1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/g/gentry1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1395,7 +1395,7 @@
 |B‑day, addr.|1983.11.28 (Лиссабон, Португалия) / Лиссабон, Португалия|
 |Contact|<geral@iastro.pt>, *раб.:* +(351)213-616-731; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/gonsalves1_photo_thumb.jpg)](f/contact/g/gonsalves1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/g/gonsalves1_photo_thumb.jpg)](f/con/g/gonsalves1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1418,7 +1418,7 @@
 |B‑day, addr.|1955.06.07 Rockville Centre, New York, US / …|
 |Contact|<gorevan@honeybeerobotics.com>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/gorevan1_photo_thumb.jpg)](f/contact/g/gorevan1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/g/gorevan1_photo_thumb.jpg)](f/con/g/gorevan1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** BS, Music, New York Univ., 1978. BS, Science in Mechanical Engineering, City College of New York, 1983.
    - **Exp.:** Stephen Gorevan co‑founded Honeybee Robotics in 1983 & currently serves as the company’s Chairman. He is principally responsible for guiding the company’s direction toward the application of advanced robotic & automation techniques to new applications in the aerospace sector. His responsibilities include new technology development, company & engineering management, design & systems engineering. Mr. Gorevan has over 25 years of experience in leading advanced robotics & automation design, development, & implementation efforts for NASA, defense & industry. He currently serves as a Co‑Investigator on the science teams for the Mars Exploration Rovers (MER) & the Mars Science Laboratory (MSL) SAM instrument & is a member of the Venus Science Definition Team.
@@ -1442,7 +1442,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1980 / …|
 |Contact|<candaceg@nmsu.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/gray1_photo_thumb.jpg)](f/contact/g/gray1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/g/gray1_photo_thumb.jpg)](f/con/g/gray1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy, New Mexico Univ., 2015.
    - **Exp.:** …
@@ -1466,7 +1466,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/green1_photo_thumb.jpg)](f/contact/g/green1_photo.jpg) [![](f/contact/g/green1_sign_thumb.jpg)](f/contact/g/green1_sign.png)|
+| |[![](f/con/g/green1_photo_thumb.jpg)](f/con/g/green1_photo.jpg) [![](f/con/g/green1_sign_thumb.jpg)](f/con/g/green1_sign.png)|
 
    - **[Education](edu.md):** PhD, Space Physics, Iowa Univ., 1979.
    - **Exp.:** Astronomy, Physics. He has written over 100 scientific articles in refereed journals involving various aspects of the Earth’s & Jupiter’s magnetospheres & over 50 technical articles on various aspects of data systems & networks.
@@ -1490,9 +1490,9 @@
 |B‑day, addr.|1968.09.12 (Nebraska, USA) /|
 |Contact|<tgregg@buffalo.edu>, *раб.:* +1(716)645-43-28; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/g/gregg1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/g/gregg1_photo.jpg) <mark>nosign</mark>|
 
-   - **[CV](f/contact/g/gregg1_cv_17-18.pdf)**.
+   - **[CV](f/con/g/gregg1_cv_17-18.pdf)**.
    - **Exp.:** Volcanic eruptions in extreme environments (mid‑ocean ridges & extraterrestrial surfaces); lava flow eruption & emplacement on Earth & other planets; constraining physics of eruptions from resulting volcanic morphologies.
    - …
    - **SC/Equip.:** …
@@ -1513,7 +1513,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1962 / …|
 |Contact|<grimm@boulder.swri.edu>, *раб.:* +1(720)240-01-49, Fax: +1(303)546-96-87; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/grimm1_photo_thumb.jpg)](f/contact/g/grimm1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/g/grimm1_photo_thumb.jpg)](f/con/g/grimm1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Massachusetts Institute of Technology, 1988. BA, College Scholars, Tennessee Univ., 1983.
    - **Exp.:** Geophysics, planetary science. Geophysicist with interests in both planetary & terrestrial exploration. Much of my work was on the geodynamics of Venus, also investigated the thermal, collisional, & hydrogeological histories of meteorite parent bodies. Specializing in seismic exploration (detection of gas in naturally fractured reservoirs), electromagnetic discrimination of unexploded ordnance, & electrical detection of soil contaminants. My research focuses on geophysics & hydrogeology of Mars & asteroids, & electromagnetic sounding of planetary interiors.
@@ -1538,7 +1538,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1959.. / …|
 |Contact|<david@funkyscience.net>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/grinspoon1_photo_thumb.jpg)](f/contact/g/grinspoon1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/g/grinspoon1_photo_thumb.jpg)](f/con/g/grinspoon1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in Arizona Univ. B.A & BS in Brown University.
    - **Exp.:** Astrobiologist, award-winning science communicator, & prize-winning author. His research focuses on climate evolution on Earth‑like planets & potential conditions for life elsewhere in the universe. He is involved with several interplanetary spacecraft missions for NASA, the European Space Agency & the Japanese Space Agency.
@@ -1562,7 +1562,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/gavrik1_photo_thumb.jpg)](f/contact/g/gavrik1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/g/gavrik1_photo_thumb.jpg)](f/con/g/gavrik1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1584,7 +1584,7 @@
 |B‑day, addr.|1952.10.27, на НПОЛ с 1970 / …|
 |Contact|<gavrilin@laspace.ru>, *work:* 45-96, 53-01, +7(495)575-53-01; *mobile:* +7(903)112-22-28|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/g/gavrilin1_photo_thumb.jpg)](f/contact/g/gavrilin1_photo.jpg) [![](f/contact/g/gavrilin1_sign_thumb.jpg)](f/contact/g/gavrilin1_sign.png)|
+| |[![](f/con/g/gavrilin1_photo_thumb.jpg)](f/con/g/gavrilin1_photo.jpg) [![](f/con/g/gavrilin1_sign_thumb.jpg)](f/con/g/gavrilin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1607,7 +1607,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mgerasim@mx.iki.rssi.ru>, <mvg001@mail.ru>, *раб.:* +7(495)333-11-55; *mobile:* +7(903)533-76-34|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/g/gerasimov1_animated.gif) <mark>nosign</mark>|
+| |![](f/con/g/gerasimov1_animated.gif) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Кандидат физ‑мат наук.
    - **Exp.:** …
@@ -1631,7 +1631,7 @@
 |B‑day, addr.|<mark>nodate</mark> /|
 |Contact|<gorinov-dmitry@yandex.ru>, *раб.:* +7(495)333-41-02; *mobile:* +7(910)474-10-32|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/g/gorinov1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/g/gorinov1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1659,7 +1659,7 @@
 |B‑day, addr.|1962.05.13 (Канада) / …|
 |Contact|<jlhall@jpl.caltech.edu>, *раб.:* +1(818)354-15-31, Fax: +1(818)393-32-54; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/h/hall1_photo.jpg) [![](f/contact/h/hall1_sign_thumb.jpg)](f/contact/h/hall1_sign.png)|
+| |![](f/con/h/hall1_photo.jpg) [![](f/con/h/hall1_sign_thumb.jpg)](f/con/h/hall1_sign.png)|
 
    - **[Education](edu.md):** PhD & MS, Aeronautics, Caltech. BS, Engineering Science, Toronto Univ.
    - **Exp.:** Senior Engineer at JPL who leads its technology development & mission application efforts in planetary balloons (aerobots). His work includes design of aerobot vehicles & missions, & Earth flight testing of balloons & airships.
@@ -1681,7 +1681,7 @@
 |B‑day, addr.|1972.02.… Tokyo, JP / …|
 |Contact|<george@okayama-u.ac.jp>, <george@gfd-dennou.org>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geophysics, Tokyo Univ., JP, 1999. MS, Geophysics, Tokyo Univ., JP, 1996. BS, Geophysics, Tokyo Univ., JP, 1994.
    - **Exp.:** Research Interest: Planetary climatology, Evolution of surface environments on terrestrial planets, Planetary meteorology (Venus Climate Orbiter), Development of meteorological sensors for martian lander.
@@ -1705,7 +1705,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<shosuke@gfd-dennou.org>, <shosuke@ruby.kobe-u.ac.jp>, <shosuke@cps-jp.org>, *раб.:* +81(78)803-64-83, Fax: +81(78)803-57-91; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/h/hayashi1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/h/hayashi1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Research Interests. Geophysical fluid dynamics; wave & shear instability, dry and/or moist convection, rotating turbulence. Structures of planetary atmospheres; thermal structures, convection & general circulations of the atmospheres. Computation & information meteorology; development of simulation models for geophysical fluids & planetary atmospheres, development of analysis & visualization tools for multidimensional numerical data.
@@ -1729,9 +1729,9 @@
 |B‑day, addr.|<mark>nodate</mark> 1943 / …|
 |Contact|<James_Head@brown.edu>, *раб.:* +1(401)863-25-26; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/h/head1_photo_thumb.jpg)](f/contact/h/head1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/h/head1_photo_thumb.jpg)](f/con/h/head1_photo.jpg) <mark>nosign</mark>|
 
-   - **[Education](edu.md):** **[CV](f/contact/h/head1_cv.pdf)**. PhD, Brown Univ., 1969. BS, Washington & Lee Univ., 1964.
+   - **[Education](edu.md):** **[CV](f/con/h/head1_cv.pdf)**. PhD, Brown Univ., 1969. BS, Washington & Lee Univ., 1964.
    - **Exp.:** He studies the roles of volcanism in planetary crusts as well as the geological evolution of Mars, & has served as the investigator on many major international planetary investigation missions. He helped train Apollo astronauts under the NASA Apollo Lunar Exploration Program. He has published 25 chapters in books on planetary geology & over 300 refereed articles in scientific journals, & has supervised nearly 40 PhD students.
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
@@ -1754,7 +1754,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* +49(30)670-55-319; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/h/helbert1_photo_thumb.jpg)](f/contact/h/helbert1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/h/helbert1_photo_thumb.jpg)](f/con/h/helbert1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1777,7 +1777,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1799,7 +1799,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<gary.w.hunter@nasa.gov>, *раб.:* +1(216)433-64-59; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/h/hunter1_photo_thumb.jpg)](f/contact/h/hunter1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/h/hunter1_photo_thumb.jpg)](f/con/h/hunter1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Technical Lead for the Chemical Species Gas Sensors Team & Lead for Intelligent System Hardware in the Smart Sensors & Electronics Systems Branch at NASA GRC. Has served as Element Lead across NASA for a range Propulsion & Vehicle Health Management activities in the Aviation Safety program. Since his arrival at NASA Glenn, he has been involved with the design, fabrication, & testing of sensors. He has worked closely with academia & industry in developing a range of sensor technologies & sensor systems using a number of different sensor materials & sensing approaches.
@@ -1823,7 +1823,7 @@
 |B‑day, addr.|1973.07.07, в Роскосмосе с 2008 / …|
 |Contact|<mark>noemail</mark>, *раб.:* …, секретарь: +7(495)631-93-95, Fax: +7(495)631-89-93; *mobile:* +7(916)158-02-32, +7(916)170-34-11|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/h/haylov1_photo.jpg) [![](f/contact/h/haylov1_sign_thumb.jpg)](f/contact/h/haylov1_sign.png)|
+| |![](f/con/h/haylov1_photo.jpg) [![](f/con/h/haylov1_sign_thumb.jpg)](f/con/h/haylov1_sign.png)|
 
    - **[Education](edu.md):** M.S., Космические летательные аппараты и разгонные блоки, МАИ, РФ, 1996.
    - **SC/Equip.:** …
@@ -1845,7 +1845,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<khatuntsev@gmail.com>, *work:* <mark>noworkphone</mark>; *mobile:* +7(495)333-41-02|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/h/hatuncev1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/h/hatuncev1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1872,7 +1872,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1969 / …|
 |Contact|<ima@isas.jaxa.jp>, *work:* +81(4)7124-15-01; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/i/imamura1_photo_thumb.jpg)](f/contact/i/imamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/i/imamura1_photo_thumb.jpg)](f/con/i/imamura1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1998.
    - **Exp.:** Professor, Tokyo Univ., 2016. Associate Professor, [ISAS](zz_isas.md)/JAXA, 2002. Research associate, ISAS/JAXA, 1998.
@@ -1899,7 +1899,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<ishii@newslan.isas.jaxa.jp>, <ishii.nobuaki@jaxa.jp>, <ishii@isas.jaxa.jp>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1924,7 +1924,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1955  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD
    - **Exp.:** Tokyo Univ., Research Associate, 1981 ‑ 1990. Japan Society of Promoting Science, Researcher, 1980 ‑ 1981.
@@ -1950,7 +1950,7 @@
 |B‑day, addr.|1967.08.08 / …|
 |Contact|<noam.izenberg@jhuapl.edu>, *раб.:* +1(240)228-79-18 ; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/i/izenberg1_photo_thumb.jpg)](f/contact/i/izenberg1_photo.jpg) [![](f/contact/i/izenberg1_sign_thumb.jpg)](f/contact/i/izenberg1_sign.png)|
+| |[![](f/con/i/izenberg1_photo_thumb.jpg)](f/con/i/izenberg1_photo.jpg) [![](f/con/i/izenberg1_sign_thumb.jpg)](f/con/i/izenberg1_sign.png)|
 
    - **[Education](edu.md):** PhD, Earth & Planetary Sciences, 1996, Washington Univ. ScB, Geology, 1989, Brown Univ.
    - **Exp.:** Interested in the remote sensing & in situ measurement of the surface composition, morphology, stratigraphy, & active geologic processes of rocky planetary & solar system small bodies. Research interests include the hydrologic cycle & surface/atmosphere interface processes of said celestial bodies in extreme environments.
@@ -1975,7 +1975,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<niignatiev@gmail.com>, *work:* +7(495)333-15-02; *mobile:* +7(903)120-11-93|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/i/ignatiev1_photo_thumb.jpg)](f/contact/i/ignatiev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/i/ignatiev1_photo_thumb.jpg)](f/con/i/ignatiev1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2002,7 +2002,7 @@
 |B‑day, addr.|1970.11.23 (США, штат Мэриленд) / …|
 |Contact|<kandislea.jessup@swri.org>, <knasaven@gmail.com>, *раб.:* +1(720)240-01-18, Fax: +1(303)546-96-70; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/j/jessup1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/j/jessup1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Astrophysics.
@@ -2025,7 +2025,7 @@
 |B‑day, addr.|1994.10.12 (Мумбаи, Индия) / Итака, Нью‑Йорк, США|
 |Contact|<asj59@cornell.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +1(607)261-21-67|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/j/jindal1_photo_thumb.jpg)](f/contact/j/jindal1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/j/jindal1_photo_thumb.jpg)](f/con/j/jindal1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrophysics, Cornell Univ., USA. B.Tech., Engineering Physics, Indian Institute of Technology, 2012-2016.
    - **Exp.:** My research interests include understanding the evolution of terrestrial planets & what makes a planet habitable. I am also interested in the search for life beyond Earth.
@@ -2051,7 +2051,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1974  / …|
 |Contact|<natasha.m.johnson@nasa.gov>, *work:* +1(301)286-39-19; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/j/johnson1_photo_thumb.jpg)](f/contact/j/johnson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/j/johnson1_photo_thumb.jpg)](f/con/j/johnson1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Earth & Planetary Sciences, WUSTL, 2002. AM, Earth & Planetary Sciences, WUSTL, 1998. BA, cum laude, Math/Geology/Comp. Sci./Physics, University of Arizona, Tucson, 1996.
    - **Exp.:** Research Areas: Gas‑grain catalytic reactions, Geochemical interaction of planetary surfaces and/or atmospheres, Production of organics in the pre‑solar nebula, Instrument development/fabrication.
@@ -2080,7 +2080,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1940  / …|
 |Contact|<Viktor.V.Kerzhanovich@jpl.nasa.gov>, *work:* +1(818)354-90-75; факс: +1(818)393-50-07 *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kerzhanovich1_photo_thumb.jpg)](f/contact/k/kerzhanovich1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/kerzhanovich1_photo_thumb.jpg)](f/con/k/kerzhanovich1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Doctor of Sciences, Physics & Mathematics, Space Research Institute, Moscow, Russia. Candidate of Sciences & Doctor of Sciences, Physics, Space Research Institute of Russian Academy of Sciences. BS, Physics, Moscow State University, 1961.
    - **Exp.:** He pioneered & led experiments on atmospheric dynamics & was Co-Investigator for other experiments on 15 Soviet Venera & Mars missions that include probes, balloons & orbiters. Viktor participated at all phases from concept development to implementation & mission operations. He received the USSR State Prize & several NASA Group Achievement Awards. He joined JPL in 1997 & since he’s actively involved in development of planetary robotic balloons incl. conceptual design, modeling, simulation & flight tests. Some of these concepts were base of five Discovery mission proposals. Research Interests. Planetary Aerobots: concepts, design, development, modeling, implementation, testing. Concept development of planetary entry probes. Tracking & communication with planetary probes. Doppler wind experiments.
@@ -2105,9 +2105,9 @@
 |B‑day, addr.|<mark>nodate</mark> 1962  / …|
 |Contact|<kiefer@lpi.usra.edu>, *work:* +1(281)486-21-10, Fax: +1(281) 486-21-62; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kiefer1_photo_thumb.jpg)](f/contact/k/kiefer1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/kiefer1_photo_thumb.jpg)](f/con/k/kiefer1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
-   - **[CV](f/contact/k/kiefer1_cv.pdf)**. PhD, Planetary Science & Geophysics, CalTech, 1990 (Models for the Formation of Highland Regions on Venus). MS, Planetary Science, CalTech, 1986. BS, Physics & Astronomy, Texas Christian University, 1984, summa cum laude (Fourier Transform Infrared Spectroscopy of Clay Minerals & Tar Sands).
+   - **[CV](f/con/k/kiefer1_cv.pdf)**. PhD, Planetary Science & Geophysics, CalTech, 1990 (Models for the Formation of Highland Regions on Venus). MS, Planetary Science, CalTech, 1986. BS, Physics & Astronomy, Texas Christian University, 1984, summa cum laude (Fourier Transform Infrared Spectroscopy of Clay Minerals & Tar Sands).
    - **Exp.:** I study the geophysical evolution of the Moon, Mars, Venus, & differentiated meteorite parent bodies. My research activities are in the field of planetary geophysics. I develop computer simulations of mantle convection & heat transport in the interiors of planets, & I analyze observations of planets made by NASA spacecraft, particularly measurements of planetary gravity & topography & images of surface features. I also participate in lab studies of the physical properties of rocks, such as their densities & melting temperatures, which help to constrain the computer models. My goal is to combine models & observations in order to understand the current internal structure of Mars, Venus, the Moon, & Earth, as well as the processes that have controlled the evolution of these planets. I was a member of the science team for NASA’s GRAIL mission & am using gravity & topography observations of the Moon to better understand the structure & origin of its volcanos & impact basins. My lab studies of lunar rocks help to constrain the densities used in the gravity models. My models of mantle convection on Mars emphasize both the long term thermal evolution of Mars as well as magma genearation in present‑day mantle plumes. These studies involve both computer models as well as laboratory studies of the melting of the martian mantle. My models of the gravity anomalies at large highland volcanos such as Syrtis Major & Apollinaris Mons reveal details of the magma chambers that fed these volcanos & provide our first clear look at the magmatic plumbing of Mars. My studies of Venus focus on the relationship between mantle convection & surface features, such as large shield volcanos & rift zones. The results of these studies demonstrate the dynamic nature of the interior of Venus.
    - …
    - **SC/Equip.:** … [EnVision](envision.md), 2018 SAEVe, 2011 [GRAIL](grail.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md)
@@ -2130,7 +2130,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1978 / …|
 |Contact|<kleinb@caesar.jpl.nasa.gov>, *раб.:* +1(818)393-64-21, Fax: +1(818)393-46-19; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/k/kleinboehl1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/k/kleinboehl1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Atmospheric Physics, University of Bremen, Germany (2003). MS, Physics, University of Frankfurt (Main), Germany (1999).
    - Research Interests. Retrieval of atmospheric parameters from measurements of the Martian atmosphere to study its structure, dynamics, & composition. Measurement of structure & chemical composition of Earth’s middle atmosphere. Remote sensing of atmospheres in the infrared & microwave wavelength regions.
@@ -2156,7 +2156,7 @@
 |B‑day, addr.|<mark>nodate</mark> (Hutto, Texas, USA) 1987.. / Washington, USA|
 |Contact|<erika.kohler@nasa.gov>, *раб.:* +1(301)614-57-56 ; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/k/kohler1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/k/kohler1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in Space & Planetary Sciences, Arkansas Univ. BS in Meteorology, Oklahoma Univ.
    - **Exp.:** While working on her PhD research, as a Harriet G. Jenkins Research Fellow she researched the interactions between Venus’ surface & its lower atmosphere, by using a Venus simulation chamber. She is now a postdoc at GSFC studying metallic & silicate components in the atmospheres of extrasolar planets.
@@ -2180,7 +2180,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kolawa1_photo_thumb.jpg)](f/contact/k/kolawa1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/kolawa1_photo_thumb.jpg)](f/con/k/kolawa1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Elizabeth Kolawa has been with the Jet Propulsion Laboratory, Pasadena, CA, since 1993. Presently, she is responsible for developing thermal cycle resistant electronics for the Mars focused technology program & managing the advanced measurement & detection technology program for JPL. Her research interest includes electrical contacts to semiconductors, diffusion barriers, & integration of microsystems, electronics packaging & technologies for extreme environments. (Based on 24 April 2009).
@@ -2203,7 +2203,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1966  / …|
 |Contact|<goro@irsps.unich.it>, <goro.komatsu@unich.it>, *work:* +39(085)453-78-84; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/komatsu1_photo_thumb.jpg)](f/contact/k/komatsu1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/komatsu1_photo_thumb.jpg)](f/con/k/komatsu1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):**  PhD, Planetary Sciences, University of Arizona, Tucson, Arizona, US, 1993. BS, Earth Sciences, Waseda University, Tokyo, Japan, 1988.
    - **Exp.:** Geological Institute, University of Tokyo, Japan. School of Sciences & Applications, International Space University, Strasbourg, France. Lunar & Planetary Laboratory, University of Arizona, U.S.A.
@@ -2228,7 +2228,7 @@
 |B‑day, addr.|1963.10.13 (Сербия) / …|
 |Contact|<tibor.kremic@nasa.gov>, *раб.:* +1(216)433-50-03, Fax: +1(216)433-21-41; *mobile:* +1(216)337-51-55|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/k/kremic1_photo.jpg) [![](f/contact/k/kremic1_sign_thumb.jpg)](f/contact/k/kremic1_sign.png)|
+| |![](f/con/k/kremic1_photo.jpg) [![](f/con/k/kremic1_sign_thumb.jpg)](f/con/k/kremic1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2250,7 +2250,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1981  / …|
 |Contact|<Johnny.H.Kwok@jpl.nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kwok1_photo_thumb.jpg)](f/contact/k/kwok1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/kwok1_photo_thumb.jpg)](f/con/k/kwok1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** BS Electrical Engineering, California Univ. San Diego, Photonics, 2003.
    - **Exp.:** …
@@ -2272,7 +2272,7 @@
 |B‑day, addr.|1932.04.25 ‑ 2019.08.03 (87 лет) / …|
 |Contact|<nkardash@asc.rssi.ru>, *раб.:* +7(495)333-21-89; *mobile:* +7(916)127-54-02|
 |i18n|Kardashev, Nikolai Semenovich|
-| |![](f/contact/k/kardashev1_animated.gif) [![](f/contact/k/kardashev1_sign_thumb.jpg)](f/contact/k/kardashev1_sign.png)|
+| |![](f/con/k/kardashev1_animated.gif) [![](f/con/k/kardashev1_sign_thumb.jpg)](f/con/k/kardashev1_sign.png)|
 
    - **[Education](edu.md):** Доктор физико‑математических наук.
    - Советский и российский астроном, академик РАН (1994); директор Астрокосмического центра ФИАН (с 1990 года); труды по экспериментальной и теоретической астрофизике, радиоастрономии; лауреат Государственной премии СССР (1980, 1988)
@@ -2291,7 +2291,7 @@
 |B‑day, addr.|1977.01.14, на НПОЛ с 2001 / …|
 |Contact|<mockus@laspace.ru>, *work:* 47-09; *mobile:* +7(910)491-43-60|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kazmerchuk1_photo.gif)](f/contact/k/kazmerchuk1_photo.gif) [![](f/contact/k/kazmerchuk1_sign_thumb.jpg)](f/contact/k/kazmerchuk1_sign.png)|
+| |[![](f/con/k/kazmerchuk1_photo.gif)](f/con/k/kazmerchuk1_photo.gif) [![](f/con/k/kazmerchuk1_sign_thumb.jpg)](f/con/k/kazmerchuk1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2314,7 +2314,7 @@
 |B‑day, addr.|1911.02.10 ‑ 1978.06.24 / Москва, СССР|
 |Contact| |
 |i18n|Keldysh, Mstislav Vsevolodovich|
-| |[![](f/contact/k/keldysh1_photo_thumb.jpg)](f/contact/k/keldysh1_photo.jpg) [![](f/contact/k/keldysh1_sign_thumb.jpg)](f/contact/k/keldysh1_sign.png)|
+| |[![](f/con/k/keldysh1_photo_thumb.jpg)](f/con/k/keldysh1_photo.jpg) [![](f/con/k/keldysh1_sign_thumb.jpg)](f/con/k/keldysh1_sign.png)|
 
    - **[Education](edu.md):** Академик АН СССР (1946; член‑корреспондент 1943). Трижды Герой Социалистического Труда (1956, 1961, 1971). Лауреат Ленинской премии (1957) и двух Сталинских премий (1942, 1946). Член КПСС с 1949. Член ЦК КПСС (1961 ‑ 1978).
    - **Exp.:** …
@@ -2333,7 +2333,7 @@
 |B‑day, addr.|1977.01.20, на НПОЛ с 2002 / …|
 |Contact|<komarov@laspace.ru>, *work:* 41-34; *mobile:* +7(916)240-43-88|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/komarov1_photo_thumb.jpg)](f/contact/k/komarov1_photo.jpg) [![](f/contact/k/komarov1_sign_thumb.jpg)](f/contact/k/komarov1_sign.png)|
+| |[![](f/con/k/komarov1_photo_thumb.jpg)](f/con/k/komarov1_photo.jpg) [![](f/con/k/komarov1_sign_thumb.jpg)](f/con/k/komarov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2360,7 +2360,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<kombaev@laspace.ru>, *work:* Калуга: 154; 36-15, 56-15 — если он в Химках; *mobile:* +7(930)753-01-14, +7(910)512-69-32|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kombaev1_photo_thumb.jpg)](f/contact/k/kombaev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/kombaev1_photo_thumb.jpg)](f/con/k/kombaev1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2385,7 +2385,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1950 / …|
 |Contact|<kompanv@yandex.ru>, *раб.:* +7(426)226-13-62; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/k/kompanichenko1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/k/kompanichenko1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Кандидат геолого‑минералогических наук, Дальневосточный геологический институт, Владивосток, 1983. Междисциплинарные исследования живых систем в контексте астробиологии, включая формулирование их принципиальных характеристик и обоснование механизмов их первоначального возникновения в геологической среде.
    - **Exp.:** …
@@ -2408,7 +2408,7 @@
 |B‑day, addr.|1940.03.13 Ставрополь / Москва|
 |Contact|<https://ru.wikipedia.org/wiki/Коптев,_Юрий_Николаевич>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Koptev, Yuri Nikolayevich|
-| |[![](f/contact/k/koptev1_photo_thumb.jpg)](f/contact/k/koptev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/koptev1_photo_thumb.jpg)](f/con/k/koptev1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** С 2008.03 года работает в Госкорпорации «Ростех» — руководитель Группы советников, член Правления (с 2008.06.30), в настоящее время — председатель Научно‑технического совета. Член Межведомственной экспертной комиссии по космосу. Сопредседатель Комитета российско‑американской комиссии по экономическому и технологическому сотрудничеству. Действительный государственный советник Российской Федерации 1 класса. 2004 ‑ 2008 — директор Департамента оборонно‑промышленного комплекса Министерства промышленности и энергетики Российской Федерации. В ноябре 2004 года избран председателем совета директоров ОАО «Корпорация „Аэрокосмическое оборудование“». 1992 ‑ 2004 — генеральный директор Российского космического агентства (в 1999 году переименовано в Российское авиационно‑космическое агентство). 1991 ‑ 1992 — вице‑президент корпорации «Рособщемаш». 1969 ‑ 1991 — в Министерстве общего машиностроения СССР (старший инженер, начальник отдела Главного управления, главный инженер — первый заместитель начальника Главного управления, начальник Главного управления — член коллегии, заместитель Министра). 1965 ‑ 1969 — инженер, инженер‑конструктор, начальник бригады Машиностроительного завода имени Лавочкина.
@@ -2431,7 +2431,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<korab@iki.rssi.ru>, *раб.:* +7(495)333-00-17; *mobile:* +7(903)961-76-27|
 |i18n|Korablev, Oleg Igorevich|
-| |![](f/contact/k/korablev1_animated.gif) [![](f/contact/k/korablev1_sign_thumb.jpg)](f/contact/k/korablev1_sign.png)|
+| |![](f/con/k/korablev1_animated.gif) [![](f/con/k/korablev1_sign_thumb.jpg)](f/con/k/korablev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Skills & Expertise: Spectra, Spectrometers, Experimental Physics, Remote Sensing, Optics, Astronomy & Astrophysics, Atmosphere, Atmospheric Physics, Climatology, Geophysics.
@@ -2455,7 +2455,7 @@
 |B‑day, addr.|1907.01.12 ‑ 1966.01.14 / Москва, СССР|
 |Contact| |
 |i18n|Korolev, Sergei Pavlovich|
-| |[![](f/contact/k/korolev1_photo_thumb.jpg)](f/contact/k/korolev1_photo.jpg) [![](f/contact/k/korolev1_sign_thumb.jpg)](f/contact/k/korolev1_sign.png)|
+| |[![](f/con/k/korolev1_photo_thumb.jpg)](f/con/k/korolev1_photo.jpg) [![](f/con/k/korolev1_sign_thumb.jpg)](f/con/k/korolev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2474,7 +2474,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<akosov@iki.rssi.ru>, *раб.:* +7(495)333-22-67; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/k/kosov1_photo.jpg) ![](f/contact/k/kosov1_sign.png)|
+| |![](f/con/k/kosov1_photo.jpg) ![](f/con/k/kosov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2497,7 +2497,7 @@
 |B‑day, addr.|1955.11.23 / …|
 |Contact|<kostitsyn@geokhi.ru>, <yuri.kostitsyn@gmail.com>, *раб.:* +7(495)939-01-84; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/k/kosticyn1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |![](f/con/k/kosticyn1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2523,7 +2523,7 @@
 |B‑day, addr.|1960.12.07, на НПОЛ с 2009 / …|
 |Contact|<key@laspace.ru>, *work:* 43-56; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kotlyarov1_photo_thumb.jpg)](f/contact/k/kotlyarov1_photo.jpg) [![](f/contact/k/kotlyarov1_sign_thumb.jpg)](f/contact/k/kotlyarov1_sign.png)|
+| |[![](f/con/k/kotlyarov1_photo_thumb.jpg)](f/con/k/kotlyarov1_photo.jpg) [![](f/con/k/kotlyarov1_sign_thumb.jpg)](f/con/k/kotlyarov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2545,7 +2545,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<kotsor@hotmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/k/kotsyurbenko1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/k/kotsyurbenko1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Доктор биологических наук.
    - **Exp.:** …
@@ -2569,7 +2569,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1988  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kovalenko1_photo_thumb.jpg)](f/contact/k/kovalenko1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/k/kovalenko1_photo_thumb.jpg)](f/con/k/kovalenko1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Astronomy and Astrophysics, Paris Observatory, 2013 ‑ 2016. My PhD thesis implied two themes of research: Markov chain Monte Carlo algorithms in Celestial Mechanics and Physical parameters of Trans-Neptunian Binary Objects. Master 2 (M2), Gravitational Systems Dynamics, Observatoire de Paris, 2012 ‑ 2013. Engineering degree, Aerospace Engineering, Bauman Moscow State Technical University, 2006 ‑ 2012.
    - **Exp.:** ISAE-SUPAERO: Postdoctoral researcher, FR, 2019 ‑ Present. IKI RAS: Research Associate, Moscow, RU, 2017 ‑ Present; Department of Space Flight Dynamics and Data Analysis; My research focuses on trajectory and orbit design for scientific missions: Lagrangian Points Missions: Spektr‑RG, System of Observation of Daytime Asteroids, End-of-life disposal from HEO for the RadioAstron mission, Venera-D project (space probe to Venus): trajectory design for orbiter and entry capsule. ЦУП ЦНИИмаш: I worked as a part-time engineer on Satellite Data Relay Network "Луч".
@@ -2591,7 +2591,7 @@
 |B‑day, addr.|1932… ‑ 2019.10.07 (87 лет) / …|
 |Contact| |
 |i18n|Ksanfomaliti, Leonid Vasilievich|
-| |![](f/contact/k/ksanfomaliti1_animated.gif)|
+| |![](f/con/k/ksanfomaliti1_animated.gif)|
 
    - **[Education](edu.md):** Советский, российский учёный, специалист по исследованию планет Солнечной системы, популяризатор науки; доктор физико‑математических наук, профессор, заслуженный деятель науки Российской Федерации, член Научного совета РАН по астробиологии, член комиссии РАН по космической топонимике, главный научный сотрудник и руководитель лаборатории фотометрии и ИК‑радиометрии Отдела физики планет и малых тел Солнечной системы Института космических исследований РАН. Автор более 300 научных публикаций, в т.ч. 4 книг (научные и научно‑популярные монографии).
    - <https://ru.wikipedia.org/wiki/Ксанфомалити,_Леонид_Васильевич>
@@ -2613,7 +2613,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1973.. / …|
 |Contact|<sebastien.lebonnois@lmd.jussieu.fr>, *раб.:* +33(0)144-272-314; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/lebonnois1_photo_thumb.jpg)](f/contact/l/lebonnois1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/l/lebonnois1_photo_thumb.jpg)](f/con/l/lebonnois1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, planetary sciences, 'Centre d'Etude Spatiale des Rayonnements' (CNRS/Univ. Toulouse Ⅲ, France), 2000.
    - **Exp.:** CNRS researcher in the planetary science team at Laboratoire de Meteorologie Dynamique. My current research focuses on the atmospheres of Venus & Titan. I develop general circulation models, especially photochemical aspects, & couplings. Goal is to build Global Climate Models, useful tools for the interpretation of space missions' data. I was involved in the Venus-Express mission (VIRTIS et SPICAV instruments), & participate to various projects to go back to Venus. I have also done some work on Mars atmosphere, especially studying ozone distribution with data from the SPICAM instrument on-board Mars-Express.
@@ -2636,7 +2636,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1984  / …|
 |Contact|<leeyj@edu.k.u-tokyo.ac.jp>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/lee1_photo_thumb.jpg)](f/contact/l/lee1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/l/lee1_photo_thumb.jpg)](f/con/l/lee1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Planets & Comets, Max Planck Institute for Solar System Research: Göttingen, DE, 2009 ‑ 2012. 2006-09-01 to 2008-08-29|MS, Atmospheric Sciences, Yonsei University: Seodaemun-gu, Seoul, KR, 2006 ‑ 2008. BS, Physics, Atmospheric Sciences, Yonsei University: Seodaemun-gu, Seoul, KR / Chung-Ang University, Seoul, KR, 2002 ‑ 2006.
    - **Exp.:** Berlin Technical University: Researcher, 2019 ‑ Present. Tokyo Univ.: Graduate school of frontier sciences, 2017 ‑ 2018.
@@ -2661,7 +2661,7 @@
 |B‑day, addr.|1991.10.01 (Руан, Франция) / Париж, Франция|
 |Contact|<maxence.lefevre@physics.ox.ac.uk>, <maxence.lefevre@lmd.jussieu.fr>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/lefevre1_photo_thumb.jpg)](f/contact/l/lefevre1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/l/lefevre1_photo_thumb.jpg)](f/con/l/lefevre1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD at Laboratoire de Météorologie Dynamique in Paris under the supervision of [Sébastien Lebonnois](person.md) & [Aymeric Spiga](person.md) about mesoscale modeling of the turbulence in the Venus atmosphere.
    - **Exp.:** …
@@ -2687,7 +2687,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1976  / …|
 |Contact|<Jayne.Lefort@sciops.esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/lefort1_photo_thumb.jpg)](f/contact/l/lefort1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/l/lefort1_photo_thumb.jpg)](f/con/l/lefort1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** MS, Spacecraft Technology and Satellite Communications, UCL, 1999. BS, Physics, University of Liverpool, 1997.
    - **Exp.:** ESA: Operations Engineer, 2013 ‑ Present; Science Ground Segment System Engineer, 2009 ‑ 2013 (Lead System Engineer for the BepiColombo Science Ground Segment). CNES: Ground Operations Engineer, 2005 ‑ 2006 (Ground Operations Engineer for the Ground Operations Team of the ATV (Jules Verne), responsible for the Monitoring and Control Subsystem); Expriement Operations Engineer, 2001 ‑ 2004 (Rosetta/Philae Experiment Operations Engineer, Responsible for the planning of Lander Experiment Operations and requirement definition of the SONC systems for planning and data visualization). ESTEC, 1999 ‑ 2001 (Research of innovative technologies for TRP and General Studies Programme. Development of database of S/C systems and subsystems for use in CDF).
@@ -2710,7 +2710,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1982  / …|
 |Contact|<alice.legall@latmos.ipsl.fr>, <alice.le-gall-gilabert@uvsq.fr>, *work:* +33(1)80-28-52-35, +33(1)44-27-21-63; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/legall1_photo_thumb.jpg)](f/contact/l/legall1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/l/legall1_photo_thumb.jpg)](f/con/l/legall1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Depuis, Maître de Conférences, LATMOS, UVSQ, Chaire CNES/UVSQ, 2011. PostDoc, NASA, JPL, Caltech, 2011. PhD, CETP, Paris VI, 2007. MS, d’Astrophysique, Observatoire de Paris-Meudon, Paris VII, 2004. Ecole Supérieure d’Electricité (SUPELEC), Gif-sur-Yvette, 2003.
    - **Exp.:** Alice Le Gall received the degree in radio-communication & electronic engineering from the Ecole Supérieure d'Electricité (SUPELEC), Gif-sur-Yvette, France, in 2003 & the Ph.D. degree in astrophysics from the University of Paris 6, Paris, France, in 2007.,For three years, she was a NASA Postdoctoral Fellow at the JPL, Pasadena, CA, USA. In 2011, she became an Associate Professor at Laboratoire ATmosphère, Milieux, Observations Spatiales-Université de Versailles Saint-Quentin-en-Yvelines (LATMOS-UVSQ), Guyancourt, France, with a chair UVSQ-CNES (French Space Agency).
@@ -2737,7 +2737,7 @@
 |B‑day, addr.|1996.04.22 (Pembury, Kent, UK) / Winchcombe, Gloucestershire, UK|
 |Contact|<neil.lewis@physics.ox.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* +44(7810)436-705|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/l/lewis1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/l/lewis1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Geophysical fluid dynamics, planetary science, climate. Understanding the large-scale dynamics of terrestrial planetary atmospheres. The aim of my DPhil project is to develop a better understanding of superrotation in terrestrial atmospheres. Студент профессора [Питера Рида](person.md).
@@ -2761,7 +2761,7 @@
 |B‑day, addr.|1951.01.24 (Индия) / …|
 |Contact|<sanjay.limaye@ssec.wisc.edu>, *раб.:* +1(608)262-95-41, Fax: +1(608)262-59-74; *mobile:* +1(608)235-43-02|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/l/limaye1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/l/limaye1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Topics. Solar system planets with atmospheres: Venus, Mars, Jupiter, Saturn, Uranus, Neptune. Global warming & climate change.
@@ -2785,9 +2785,9 @@
 |B‑day, addr.|1957.01.08 (Rio de Janeiro, Brazilia) / …|
 |Contact|<rosaly.m.lopes-gautier@jpl.nasa.gov>, *раб.:* +1(818)393-45-84, Fax: +1(818)393-44-45; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/lopes1_photo_thumb.jpg)](f/contact/l/lopes1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/l/lopes1_photo_thumb.jpg)](f/con/l/lopes1_photo.jpg) <mark>nosign</mark>|
 
-   - **[Education](edu.md):** Розали Лопес. [CV](f/contact/l/lopes1_cv.pdf). PhD, Planetary Science, London Univ., 1986. B.Sc., Astronomy, London Univ., 1978.
+   - **[Education](edu.md):** Розали Лопес. [CV](f/con/l/lopes1_cv.pdf). PhD, Planetary Science, London Univ., 1986. B.Sc., Astronomy, London Univ., 1978.
    - **Exp.:** Planetary geologist, volcanologist, an author of numerous scientific papers & several books, as well as a proponent of education. Her major research interests are in planetary & terrestrial surface processes with an emphasis on volcanology. Use of remote sensing data collected from SC to further develop theoretical models of surface processes, in close collaboration with instrument investigations. Recent research efforts’ve been directed towards: Analysis of Io’s infrared spectra obtained by Galileo’s Near-Infrared Mapping Spectrometer & New Horizons Data & Analysis of geologic features on Titan (Cassini Radar Mapper), with particular emphasis on cryovolcanic features.
    - …
    - **SC/Equip.:** 1997 [Cassini Huygens](cassini_huygens.md)
@@ -2810,7 +2810,7 @@
 |B‑day, addr.|1969.08.24 / Maryland, Columbia, USA|
 |Contact|<ralph.lorenz@jhuapl.edu>, *раб.:* +1(240)228-29-03, +1(443)778-29-03, факс +1(443)778-89-39; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/lorenz1_photo_thumb.jpg)](f/contact/l/lorenz1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/l/lorenz1_photo_thumb.jpg)](f/con/l/lorenz1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Space Sciences, 1994, Kent Univ., UK. B.Eng., Aerospace Systems Engineering, 1990, Southampton Univ., UK.
    - **Exp.:** My background: broad scientific & engineering experience, especially relating to planetary science (with an emphasis on surface/atmosphere interactions on Titan, Venus & Mars), & doing science from small spacecraft & innovative sensor platforms such as probes, landers, balloons, penetrators, & boats. I have been involved in the life cycle of flight investigations incl. concept formulation, mission & system design, science planning, observation design, instrument development, data analysis, & publication of results. My experience incl. radar remote sensing, in-situ instrumentation, geomorphology, meteorology, oceanography, vehicle dynamics & trajectory measurements, & astrobiology. My field experiments focus on desert areas. My books: "Dune Worlds: How Wind-Blown Sand Shapes Planetary Landscapes" (Springer, 2014),  "Space Systems Failures" (Springer 2006), & "Titan Unveiled" (Princeton, 2008).
@@ -2835,7 +2835,7 @@
 |B‑day, addr.|<mark>nodate</mark> 1946 / …|
 |Contact|<jgluhman@ssl.berkeley.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/l/luhmann1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/l/luhmann1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Heliospheric & Planetary Physics. Her work focuses on the use of spacecraft observations & models to investigate the connections between the Sun & heliospheric conditions, & on the solar wind interactions with the planets.
    - **Exp.:** …
@@ -2862,7 +2862,7 @@
 |B‑day, addr.|1900.09.11 ‑ 1960.06.06 СССР / Химки, СССР|
 |Contact| |
 |i18n|Lavochkin, Semyon Alekseyevich|
-| |[![](f/contact/l/lavochkin1_photo_thumb.jpg)](f/contact/l/lavochkin1_photo.jpg)|
+| |[![](f/con/l/lavochkin1_photo_thumb.jpg)](f/con/l/lavochkin1_photo.jpg)|
 
    - **[Education](edu.md):** …
    - **Exp.:** В 1939 ‑ 1940 гг под руководством В.П. Горбунова в ОКБ‑301 (г. Химки Московской области) был одним из инициаторов и участников создания советского самолёта‑истребителя ЛаГГ‑3 из дельта‑древесины. Вместе с Горбуновым и Гудковым в 1939 г получил звание — главный конструктор по самолётостроению. Ряд последующих моделей — Ла‑5, Ла‑7 и различные их модификации, созданные уже в ОКБ‑21 под руководством Лавочкина в городе Горьком (назначен начальником ОКБ 1940.11.23), обнаружили высокие боевые качества и сыграли важную роль в ходе Великой Отечественной войны. В октябре 1945 г после возвращения из города Горького назначен начальником ОКБ‑301 (ныне АО «Научно‑производственное объединение им. С. А. Лавочкина»). После войны Лавочкин работал над созданием реактивных самолётов. В ОКБ‑301 были разработаны серийный (Ла‑15) и многие опытные реактивные истребители. В 1954 г начинает работу над межконтинентальной сверхзвуковой крылатой ракетой «Буря» (руководитель работ — Н.С. Черняков). В 1956 году присвоено звание — Генеральный конструктор по самолётостроению. С 1944 г Лавочкин — генерал‑майор инженерно‑технической службы, с 1958 г — член‑корреспондент АН СССР. Депутат ВС СССР 3 ‑ 5 созывов (1950 ‑ 1958), член КПСС с 1953 г.
@@ -2881,7 +2881,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mlitvak.iki@gmail.com>, *раб.:* +7(495)333-15-22; *mobile:* +7(968)666-24-36|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/l/litvak1_animated.gif) [![](f/contact/l/litvak1_sign_thumb.jpg)](f/contact/l/litvak1_sign.png)|
+| |![](f/con/l/litvak1_animated.gif) [![](f/con/l/litvak1_sign_thumb.jpg)](f/con/l/litvak1_sign.png)|
 
    - **[Education](edu.md):** Д.ф.м.н.
    - **Exp.:** …
@@ -2904,7 +2904,7 @@
 |B‑day, addr.|1962.07.02, на НПОЛ с 1985 / …|
 |Contact|<lukav@laspace.ru>, *work:* 44-59; *mobile:* +7(910)491-43-73|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/l/lukyanchikov1_photo_thumb.jpg)](f/contact/l/lukyanchikov1_photo.jpg) [![](f/contact/l/lukyanchikov1_sign_thumb.jpg)](f/contact/l/lukyanchikov1_sign.png)|
+| |[![](f/con/l/lukyanchikov1_photo_thumb.jpg)](f/con/l/lukyanchikov1_photo.jpg) [![](f/con/l/lukyanchikov1_sign_thumb.jpg)](f/con/l/lukyanchikov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2931,7 +2931,7 @@
 |B‑day, addr.|1956.06.05 Christchurch, New Zealand / College Park, Maryland|
 |Contact|<smackwell@aip.org>, *work:* +1(301)209-31-72; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mackwell1_photo_thumb.jpg)](f/contact/m/mackwell1_photo.jpg) [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/m/mackwell1_photo_thumb.jpg)](f/con/m/mackwell1_photo.jpg) [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geophysics/Earth Sciences, Australian National University, 1984. MS, Physics & Astronomy, University of Canterbury, 1979. BS, Physics & Mathematics, University of Canterbury, 1978.
    - **Exp.:** Stephen Mackwell is an internationally recognized researcher in geophysics, specializing in laboratory‑based studies of the physical, chemical & mechanical properties of geological materials. He is also interested in the transport of fluid components in mantle & crustal rocks on the microscopic & macroscopic scales, & on the effects of such components on mechanical properties. He has authored or co-authored over 80 articles in international scientific journals & is an editor of a book on comparative climatology of terrestrial planets published by the University of Arizona Press. Experienced Science Leader with a demonstrated history of working in the Academic & Space industries. Skilled in Academic Leadership, Research (Planetary Science, Materials Science, Geochemistry & Geophysics), & Educational & Program Management. Strong administrative professional with a Doctor of Philosophy (PhD) focused in Geophysics/Earth Sciences from The Australian National University.
@@ -2957,7 +2957,7 @@
 |B‑day, addr.|<mark>nodate</mark> .08.22 / …|
 |Contact|<G.Mahapatra@tudelft.nl>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mahapatra1_photo_thumb.jpg)](f/contact/m/mahapatra1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/m/mahapatra1_photo_thumb.jpg)](f/con/m/mahapatra1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Atmosphere modelling, Clouds modelling, Radiative transfer, Venus, Atmosphere of Venus. Went to Delft University of Technology with a major in Aerospace Engineering. I love to work with complex algorithms & primarily work in Python.
@@ -2983,7 +2983,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](образование.md):** …
    - **Exp.:** …
@@ -3029,7 +3029,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1980.. / …|
 |Contact|<emmanuel.marcq@latmos.ipsl.fr>, *раб.:* +33(0)180-28-52-83; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/m/marcq1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/m/marcq1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Diplome d'Études Approfondies, Astrophysique, Observatoire de Paris, 2002‑2003. Magistère, Physique, Ecole normale supérieure, 1999‑2003.
    - **Exp.:** My research domain deals with atmospheric science in telluric atmospheres. I have mostly worked on the Venus’ atmosphere in order to constrain its chemistry, dynamics & volcanic activity. I mostly used spectroscopic remote-sensing (UV, IR) from both ground-based facilities & Venus Express (2006‑2014) ESA orbiter, & have been involved in related instrumental development for future missions towards Venus. I also have experience in atmospheric modeling, having used the LMD‑IPSL general circulation model of both early Mars & present day Venus, as well as developed a 1D radiative‑convective model for hot & dense H₂O‑CO₂ atmospheres around young magma ocean planets. I teach general physics, thermodynamics, radiative transfer & planetary atmospheric science for undergraduate & graduate students.
@@ -3056,7 +3056,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1960.05.15 (Москва, РФ) / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/m/maroko1_animated.gif) <mark>nosign</mark>|
+| |![](f/con/m/maroko1_animated.gif) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3077,7 +3077,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1986 / Leiden, NL, EU|
 |Contact|<paolo.martino@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/m/martino1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/m/martino1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** MS, Space engineering, Milan PU, 2009. BS, Aerospace engineering, Milan PU, 2007.
    - **Exp.:** He supported the procurement of major innovative European satellites in all application domains, from Earth Observation to Telecommunication, Navigation & Science. He is currently managing a number of Small Satellite missions & In-Orbit-Demonstration projects developed within the ESA GSTP Technology programme.
@@ -3101,7 +3101,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1966  / …|
 |Contact|<p.j.mason@imperial.ac.uk>, *work:* +44(0)20-7594-6528; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mason1_photo_thumb.jpg)](f/contact/m/mason1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/m/mason1_photo_thumb.jpg)](f/con/m/mason1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Imperial College London, Geology, GIS & Remote Sensing, 1994 ‑ 1997. MS, Remote Sensing, UCL, 1992 ‑ 1993. BS, Geology, University of Southampton, 1984 ‑ 1987.
    - **Exp.:** HME Partnership, Senior Partner, 1999 ‑ Present, Geologist / Geospatial Consultant to mineral & petroleum exploration, engineering & environmental industries. Imperial College London, Senior Teaching Fellow, 1999 ‑ Present, Location Dept of Earth Science & Engineering, Teaching — lecturing, practicals & field training — supervising MSc, MSci & PhD projects — supervising independent mapping projects — tutoring & mentoring. Remote Sensing & Photogrammetry Society (RSPSoc), Honorary General Secretary, 2005 ‑ 2014, Ensuring the general healthy running of all aspects of the Society, including constitutional compliance under English Law & Charities Commission regulations. The Hon Gen Sec’s role is effectively the memory, conscience & vision of the Society.
@@ -3125,7 +3125,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1993.04.21 / Hampton, VA, USA
 |Contact|<rymccabe999@aol.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mccabe1_photo_thumb.jpg)](f/contact/m/mccabe1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/m/mccabe1_photo_thumb.jpg)](f/con/m/mccabe1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** A fourth-year Planetary Science PhD candidate at Hampton University. BS, Physics, Gettysburg College, 2015.
    - **Exp.:** My current research interests focus on using cloud-tracking techniques & ground-based observations to gather information about the dynamics of Venus’s atmosphere.
@@ -3150,7 +3150,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Kevin.McGouldrick@lasp.colorado.edu>, *раб.:* +1(303)492-29-51, Fax: +1(303)735-37-37; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mcgouldrick1_photo_thumb.jpg)](f/contact/m/mcgouldrick1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/m/mcgouldrick1_photo_thumb.jpg)](f/con/m/mcgouldrick1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD Astrophysical, Planetary, & Atmospheric Sciences & MS Astrophysical, Planetary, & Atmospheric Sciences, Univ. of Colorado Boulder. BS Astronomy, Astrophysics, Physics, Pennsylvania State Univ.
    - **Exp.:** The primary focus of my research is the nature & evolution of the clouds of Venus. The sulfuric acid clouds of Venus reside between about 50 & 70 ㎞ above the surface of the planet, where temperatures & pressures resemble those at the surface of the Earth. These clouds are part of a highly coupled system involving numerous chemical reactions, absorption of both incident solar & emitted infrared radiation, & the global atmospheric circulation.
@@ -3176,9 +3176,9 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1965 / …|
 |Contact|<mcgovern@lpi.usra.edu>, *раб.:* +1(281)486-21-87; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mcgovern1_photo_thumb.jpg)](f/contact/m/mcgovern1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/m/mcgovern1_photo_thumb.jpg)](f/con/m/mcgovern1_photo.jpg) <mark>nosign</mark>|
 
-   - **[Education](edu.md):** **[CV](f/contact/m/mcgovern1_cv.pdf)**. PhD, Geophysics, 1996 & S.B., Aeronautics & Astronautics, Massachusetts Institute of Technology, 1986.
+   - **[Education](edu.md):** **[CV](f/con/m/mcgovern1_cv.pdf)**. PhD, Geophysics, 1996 & S.B., Aeronautics & Astronautics, Massachusetts Institute of Technology, 1986.
    - **Exp.:** Research focuses on the evolution of terrestrial planet surfaces, lithospheres, & interiors, with emphasis on growth & development of large volcano-tectonic structures on Mars, Venus, & Earth. His analysis of topography, gravity, & image data from planetary missions, is used to examine global thermal history, volcano morphology, & lithospheric strain. His work involves modeling of stresses & deformation in growing volcanic edifices & the lithosphere.
    - …
    - **SC/Equip.:** …
@@ -3201,7 +3201,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1997.05.14 / …|
 |Contact|<jmckaig@umich.edu>, *раб.:* +1(810)423-95-86; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mckaig1_photo_thumb.jpg)](f/contact/m/mckaig1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/m/mckaig1_photo_thumb.jpg)](f/con/m/mckaig1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biology & International Studies, Wisconsin Univ., 2019.
    - **Exp.:** …
@@ -3224,7 +3224,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …
 |Contact|<ehouarn.millour@lmd.jussieu.fr>, *раб.:* +(33)144-27-52-86; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/millour1_photo_thumb.jpg)](f/contact/m/millour1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/m/millour1_photo_thumb.jpg)](f/con/m/millour1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Planetary climate modelling.
@@ -3247,7 +3247,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<frank.mills@anu.edu.au>, *раб.:* +612(61)250-116 & +612(61)255-015; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/m/mills1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/m/mills1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD (Planetary science), MS (Physics) (Caltech), BSE (Mechanical & Aerospace Engineering) (Princeton Univ.).
    - **Exp.:** I have a joint appointment at the ANU in the Research School of Physics & Engineering & The Fenner School of Environment & Society. I am also affiliated with the Planetary Science Institute, the Climate Change Institute, & the Energy Change Institute. I have supervised student research projects in the Astrophysics, Earth Science, Engineering, Environment, & Physics programmes. I convene & lecture in Thermal & Statistical Physics & contribute to Fundamentals of Climate System Science & Weather, Climate, & Fire. I am also a Supporting Investigator for the European Space Agency’s Venus Express mission & a member of the International Commission of Planetary Environments & their Evolution (ICPAE) of the International Association of Meteorology & Atmospheric Sciences (IAMAS). My principal resarch interests are the transmission of radiation through planetary atmospheres & its impact on atmospheric chemistry. My current research is in three areas: middle atmospheric chemistry on Venus & the Earth, analysis of data & simulations for Australian climate, & solar energy forecasting.
@@ -3271,7 +3271,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1970 / Pomona, California, US|
 |Contact|<rmogul@cpp.edu>, *раб.:* +1(909)869-43-09; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/mogul1_photo_thumb.jpg)](f/contact/m/mogul1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/m/mogul1_photo_thumb.jpg)](f/con/m/mogul1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biological & Organic Chemistry, UC Davis, 1998. BS, Chemistry, Redlands Univ., 1992.
    - **Exp.:** Expertise: Molecular Microbiology, Planetary Protection Policy, Protein Chemistry, Enzyme Kinetics, Biophysical Chemistry, Bioanalytical Approaches using Lanthanide Luminescence, Interactions of Radiation & Plasmas with Biological Matter. Areas of Research: Spacecraft Microbiology & Biochemistry, Soil Microbiology & Biochemistry, Lipoxygenase Kinetics, Detection of Biometabolites using Lanthanide Complexes, Biophysical Characterization of Cold Plasma Exposures.
@@ -3297,7 +3297,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<murashin@gfd-dennou.org>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3321,7 +3321,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* +7(499)427-07-25; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) [![](f/contact/m/malcev1_sign_thumb.jpg)](f/contact/m/malcev1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) [![](f/con/m/malcev1_sign_thumb.jpg)](f/con/m/malcev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3343,7 +3343,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1933.07.28 Москва, СССР / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/marov1_photo_thumb.jpg)](f/contact/m/marov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/m/marov1_photo_thumb.jpg)](f/con/m/marov1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Академик РАН (2008). Член‑корреспондент АН СССР (1990). Доктор физико‑математических наук (1970). Основные труды в области экспериментальной планетной астрономии, структуры, динамики, оптических характеристик и теплового режима планетных атмосфер. Один из инициаторов и научных руководителей программы исследования Венеры с помощью АКА СССР серии «Венера». Принимал участие в осуществлении первых прямых измерений параметров атмосферы, температуры и давления у поверхности Венеры. Изучал термодинамическое состояние газа в атмосфере Венеры и выявил ряд важных динамических характеристик, связанных с проблемами теплообмена и планетарной циркуляции. Был участником эксперимента на АКА «Марс‑6», на котором проведены первые прямые измерения параметров атмосферы Марса. В области физики верхней атмосферы (аэрономии) выполнил обширный цикл исследований по изучению структуры и динамики земной термосферы, где выявлен ряд новых эффектов и получены их количественные оценки. Предложил оригинальные подходы к моделированию структуры и физико‑химических процессов в верхних атмосферах планет с использованием методов многокомпонентной радиационной гидродинамики и химической кинетики, а также к изучению неравновесных элементарных процессов с использованием статистических методов в решении кинетических уравнений. Активно участвовал в программе СССР «Интеркосмос».
    - **Exp.:** …
@@ -3365,7 +3365,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1981.04.06, на НПОЛ с 2003 / г. Химки, Панфилова 2А|
 |Contact|<merkulov@laspace.ru>, *work:* 47-07; *mobile:* +7(910)491-43-70|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/merkulov1_photo_thumb.jpg)](f/contact/m/merkulov1_photo.jpg) [![](f/contact/m/merkulov1_sign_thumb.jpg)](f/contact/m/merkulov1_sign.png)|
+| |[![](f/con/m/merkulov1_photo_thumb.jpg)](f/con/m/merkulov1_photo.jpg) [![](f/con/m/merkulov1_sign_thumb.jpg)](f/con/m/merkulov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3388,7 +3388,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mitrofanov@np.cosmos.ru>, *раб.:* +7(495)333-41-23, Fax: +7(495)333-12-48; *mobile:* +7(926)219-88-58|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/m/mitrofanov1_animated.gif) [![](f/contact/m/mitrofanov1_sign_thumb.jpg)](f/contact/m/mitrofanov1_sign.png)|
+| |![](f/con/m/mitrofanov1_animated.gif) [![](f/con/m/mitrofanov1_sign_thumb.jpg)](f/con/m/mitrofanov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3412,7 +3412,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1931.05.20 ‑ 2004.06.23 / Москва, Россия|
 |Contact|, |
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/m/moroz1_photo_thumb.jpg)](f/contact/m/moroz1_photo.jpg)|
+| |[![](f/con/m/moroz1_photo_thumb.jpg)](f/con/m/moroz1_photo.jpg)|
 
    - **[Education](edu.md):** Доктор физико‑математических наук, МГУ.
    - **Exp.:** В 1954 ‑ 1956 годах работал в Астрофизическом институте АН КазССР, в 1956 ‑ 1974 годах — в ГАИШ, с 1974 года работал в Институте космических исследований АН СССР, заведующий отделом «Физика планет и малых тел Солнечной системы». Более 25 лет преподавал в МГУ, профессор.
@@ -3435,7 +3435,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1959  / …|
 |Contact|<mnakamur@isas.jaxa.jp>, *work:* +81(50)336-239-36; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/n/nakamura1_photo_thumb.jpg)](f/contact/n/nakamura1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/n/nakamura1_photo_thumb.jpg)](f/con/n/nakamura1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1977 ‑ 1987.
    - **Exp.:** ISAS/JAXA, Professor, 2002 ‑ Present. Tokyo Univ., Associate Professor, 1993 ‑ 2002.
@@ -3458,7 +3458,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |i18n|<mark>TBD</mark>|
 |Contact|<adhithiyan.n@gmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |B‑day, addr.|1997.05.17 (Ченнаи, Индия) / Дехрадун, Индия|
-| |![](f/contact/n/neduncheran1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/n/neduncheran1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** B.Tech Aerospace Engineering with specialization in Avionics.
    - **Exp.:** …
@@ -3481,7 +3481,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1946  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Нок, Керри|
-| |[![](f/contact/n/nock1_photo_thumb.jpg)](f/contact/n/nock1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/n/nock1_photo_thumb.jpg)](f/con/n/nock1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** MS, 1966 ‑ 1972, Space Science & Engineering, UCLA.
    - **Exp.:** Past Fellow of NASA Institute for Advanced Concepts (NIAC) & PI for 2 NIAC Phase II studies, one developing a concept for networks of guided balloons for Earth science & the other study to develop an Earth‑to‑Mars transportation architecture. Principal inventor of 2 new devices including a safe & low cost satellite de‑orbit system for low‑Earth orbit spacecraft & a revolutionary & scalable entry system that can offer more returned mass for same launch mass while enabling the use of small diameter launchers. PI of a unique subsea & aerospace system development for the Defense Dept. Has authored or co‑authored over 80 papers & articles & is a past associate editor of the American Institute of Aeronautics & Astronautics (AIAA) Journal of Spacecraft & Rockets. An expert in systems engineering, celestial mechanics, mission design & analysis, advanced studies & technology development & flight operations planning. He has carried out a variety of activities in aerospace systems development. Managed the first studies of planetary aerobraking that was eventually used at Mars & Venus. A friend of [V. Dolgopolov](person.md).
@@ -3506,7 +3506,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1974 (Пущино, МО, РФ) / …|
 |Contact|<zorigto@gmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/n/namsaraev1_photo_thumb.jpg)](f/contact/n/namsaraev1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/n/namsaraev1_photo_thumb.jpg)](f/con/n/namsaraev1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Кандидат биологических наук, Микробиология. Область научных интересов — микроорганизмы, способные к использованию электроэнергии, фотосинтезирующие бактерии и микроорганизмы, способные существовать в экстремальных условиях.
    - **Exp.:** …
@@ -3558,9 +3558,9 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1991 / …|
 |Contact|<gorourk@asu.edu>, *раб.:* +1(574)274-90-15; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/o/orourke1_photo_thumb.jpg)](f/contact/o/orourke1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/o/orourke1_photo_thumb.jpg)](f/con/o/orourke1_photo.jpg) <mark>nosign</mark>|
 
-   - **[Education](edu.md):** **[CV](f/contact/o/orourke1_cv.pdf)**. PhD in Planetary Science, Caltech.
+   - **[Education](edu.md):** **[CV](f/con/o/orourke1_cv.pdf)**. PhD in Planetary Science, Caltech.
    - **Exp.:** Interior dynamics inplanetary bodies made of metal, rock, & ice. Histories of planetary magnetic fields generated by dynamos. Applying Solar System discoveries to exoplanet characterization. Mission & instrument development for spacecraft exploration.
    - …
    - **SC/Equip.:** …
@@ -3581,7 +3581,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1955.01.05 (Колумбия) / …|
 |Contact|<adriana.c.ocampo@nasa.gov>, <aco@nasa.gov>, *раб.:* +1(202)358-21-52, Fax: +1(202)358-30-97; *mobile:* +1(202)372-70-58|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/o/ocampo1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/o/ocampo1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Uria PhD
    - **Exp.:** New Frontiers Lead Program Executive, Lucy Program Executive, Venus Lead Scientist, Akatsuki Program Scientist, VEXAG Program Officer, EnVision Mission Study Lead, Venera-D Mission Study Lead
@@ -3608,7 +3608,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<theshire@umich.edu>, *раб.:* +1(734)647-35-40; *mobile:* +1(626)818-92-93|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/p/parkinson1_photo_thumb.jpg)](f/contact/p/parkinson1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/p/parkinson1_photo_thumb.jpg)](f/con/p/parkinson1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Earth & Space Science, York University, Toronto. Thesis: Photochemistry & radiative transfer studies in the atmospheres of Jupiter & Saturn (<http://www.gps.caltech.edu/~cdp/> Thesis). M.Sc., Earth & Space Science, York University, Toronto. Thesis: On approximating positive solutions to some nonlinear integro-differential equations. HBSc, Science, York University, Toronto.
    - **Exp.:** …
@@ -3633,7 +3633,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<manish.patel@open.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/p/patel1_photo_thumb.jpg)](f/contact/p/patel1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/p/patel1_photo_thumb.jpg)](f/con/p/patel1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** President of the Astrobiology Society of Britain. Astrobiological investigation of planetary environments. Radiative transfer modelling of UV & visible light through planetary atmospheres. Opacity studies of dust storms & dust devils. Environmental simulation of planetary/icy body surface environments. Hypervelocity impact investigations within the solar system.
@@ -3656,7 +3656,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1979.10.31 Algeciras, Spain / …|
 |Contact|<javier.peralta@jaxa.jp>, *work:* +81(5)033-624-802; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/p/peralta1_photo_thumb.jpg)](f/contact/p/peralta1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/p/peralta1_photo_thumb.jpg)](f/con/p/peralta1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Physics, University of the Basque Country, Spain, 2009. BS/MS, Physics (Astrophysics & Applied Physics), University of La Laguna, Spain, 2003.
    - **Exp.:** …
@@ -3681,7 +3681,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1955  / Los Angeles, California|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/p/peterson1_photo_thumb.jpg)](f/contact/p/peterson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/p/peterson1_photo_thumb.jpg)](f/con/p/peterson1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Graduate Course, California Institute of Technology, Space Systems Engineering, 1996 ‑ 1997. BA, Mathematics, Gustavus, 1973 ‑ 1977.
    - **Exp.:** 1985 ‑ 2009 JPL.
@@ -3704,7 +3704,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Andrew.Pickering@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/p/pickering1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/p/pickering1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3726,7 +3726,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<anatoli.pavlov@mail.ioffe.ru>, *раб.:* +7(911)985-88-38; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/p/pavlov1_photo_thumb.jpg)](f/contact/p/pavlov1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/p/pavlov1_photo_thumb.jpg)](f/con/p/pavlov1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3748,7 +3748,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |Д.р., адрес|23.03.1995 / Москва, Конаковский проезд 12к1, 163|
 |i18n|Petrov, Maksim Evgenievich|
 |Contact|<imax.petrov@yandex.ru>, *раб.:* <mark>noworkphone</mark>; *mobile:* +7(999)989-84-62|
-| |[![](f/contact/p/petrov1_photo_thumb.jpg)](f/contact/p/petrov1_photo.jpg) [![](f/contact/p/petrov1_sign_thumb.jpg)](f/contact/p/petrov1_sign.png)|
+| |[![](f/con/p/petrov1_photo_thumb.jpg)](f/con/p/petrov1_photo.jpg) [![](f/con/p/petrov1_sign_thumb.jpg)](f/con/p/petrov1_sign.png)|
 
    - **[Education](образование.md):** Московский авиационный институт (МАИ)
    - **Exp.:** 01.11.2019 - по наст. время, НПО им. С.А. Лавочкина, инженер-конструктор
@@ -3770,7 +3770,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1967.08.29 / …|
 |Contact|<a.petrukovich@cosmos.ru>, <apetruko@iki.rssi.ru>, *раб.:* +7(495)3333-267; *mobile:* +7(915)007-03-99|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/p/petrukovich1_animated.gif) [![](f/contact/p/petrukovich1_sign_thumb.jpg)](f/contact/p/petrukovich1_sign.png)|
+| |![](f/con/p/petrukovich1_animated.gif) [![](f/con/p/petrukovich1_sign_thumb.jpg)](f/con/p/petrukovich1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3792,7 +3792,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|29.05.1992, на НПОЛ с 2016 / г. Долгопрудный|
 |Contact|<ppd@laspace.ru>, <pavel-pisarenko@inbox.ru>, *work:* 64-08; *mobile:* +7(903)243-46-40, +7(977)882-73-11|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/p/pisarenko1_photo_thumb.jpg)](f/contact/p/pisarenko1_photo.jpg) [![](f/contact/p/pisarenko1_sign_thumb.jpg)](f/contact/p/pisarenko1_sign.png)|
+| |[![](f/con/p/pisarenko1_photo_thumb.jpg)](f/con/p/pisarenko1_photo.jpg) [![](f/con/p/pisarenko1_sign_thumb.jpg)](f/con/p/pisarenko1_sign.png)|
 
    - **[Education](edu.md):** Космические аппараты и разгонные блоки.
    - **Exp.:** …
@@ -3819,7 +3819,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1987 (Toronto, CA) / Los Angeles, US|
 |Contact|<jason.rabinovitch@jpl.nasa.gov>, *раб.:* +1(626)487-49-17; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/rabinovitch1_photo_thumb.jpg)](f/contact/r/rabinovitch1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/r/rabinovitch1_photo_thumb.jpg)](f/con/r/rabinovitch1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Aeronautics, Caltech, 2014. MS, Mécanique des Fluides Fondements & Applications, École Polytechnique Paris, 2011. MS, Aerospace Engineering, Caltech, 2009. BS, Mechanical Engineering, Yale Univ., 2008.
    - **Exp.:** Skills & Expertise: Fluid Mechanics, Computational Fluid Dynamics, Numerical Modeling, CFD Simulation, Computational, Fluid Mechanics, Vortex, Multiphase Flow, Hypervelocity Flows. ┊ In 2020 took part of the team developing fat-production IMUs for COVID-19.
@@ -3844,7 +3844,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1994.08.01 (Troy, Michigan, USA) / …|
 |Contact|<radke@jhu.edu>, <michael.radke@case.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>, skype: michael.j.radke|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/radke1_photo_thumb.jpg)](f/contact/r/radke1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/r/radke1_photo_thumb.jpg)](f/con/r/radke1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD student with a background in geology & chemistry.
    - **Exp.:** I amcurrently studying the formation of cloud & haze particles in Venus’ atmosphere using laboratory photochemistry experiments. I am also measuring the spectral properties of Venus’ clouds in the lab by studying analogue cloud materials. In addition, I am interested in the chemical interactions between the surface & atmosphere of Venus (and other places in the Solar System).
@@ -3869,7 +3869,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1953.10.18 (London, UK) / Tackley, UK|
 |Contact|<Peter.Read@physics.ox.ac.uk>, *раб.:* +44(0)1865-272-082 ; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/r/read1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/r/read1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in observational galactic radioastronomy, Cambrige Univ.
    - **Exp.:** Researching fluid dynamical processes that determine the climate & predictability of the atmospheres of the Earth & other planets. I joined Oxford University in 1991 as Lecturer (then Professor in 2002), & as Fellow of Trinity College, where I am the senior Physics Tutor. My research is concerned with understanding the fundamental fluid dynamical processes that govern the climate & circulation of the atmospheres & oceans of planets, including (but not restricted to) the Earth. We tackle these problems in my research group using three different approaches – (a) by developing numerical simulation models of the atmospheric circulation of various observable planets, such as on Mars, Venus or Jupiter, (b) by analysing observations of those planets, many of which have been obtained from spacecraft launched by NASA & ESA, & (c) in laboratory fluid flow experiments that aim to reproduce particular dynamical phenomena under controlled conditions. Combinations of these approaches have led recently to a combined analysis of model simulations & spacecraft observations of Mars to enable detailed studies of Martian weather systems & dust storms. Some of our laboratory experiments also featured recently on the BBC’s Sky at Night.
@@ -3893,7 +3893,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1976 / …|
 |Contact|<denis.rebuffat@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/r/rebuffat1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/r/rebuffat1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3915,7 +3915,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/rodriguez1_photo_thumb.jpg)](f/contact/r/rodriguez1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/r/rodriguez1_photo_thumb.jpg)](f/con/r/rodriguez1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3937,7 +3937,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1965, GE / …|
 |Contact|<jens.romstedt@esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/romstedt1_photo_thumb.jpg)](f/contact/r/romstedt1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/r/romstedt1_photo_thumb.jpg)](f/con/r/romstedt1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Planetology, Wilhelms University of Münster, Germany, 1995. MS, Mineralogy, University of Hamburg, Germany, in 1990.
    - **Exp.:** After two years of research fellowship at ESA/ESTEC, Netherlands, as a team member of a group to develop an atomic force microscope for the Rosetta space mission, he became an appointed staff member to follow a variety of technology developments & give support to a variety of future space missions.
@@ -3960,7 +3960,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1966.… Paris, FR / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/rosenblatt1_photo_thumb.jpg)](f/contact/r/rosenblatt1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/r/rosenblatt1_photo_thumb.jpg)](f/con/r/rosenblatt1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, comparative planetology, Paul Sabatier Univ. in Toulouse, France, 1995. MS, mathematics & physics, Paul Sabatier Univ. in Toulouse, France, 1989. He studied geology & geophysics of terrestrial planets during his post‑doc activities (1996 ‑ 98), including a three‑month visit at Prof. [J. Head’s](person.md) laboratory in Brown University, Providence, USA.
    - **Exp.:** Since 2001, he is responsible at ROB for radio‑tracking data processing of planetary probes (using the GINS software). He is an expert in Precise Orbit Determination (POD) of SC orbiting around planet & in retrieval of geophysical parameters of the planet from the POD. Since 2009, he is Co‑I on the Mars Express (MEX) Radioscience experiment (MaRs) & on the [Venus Express](venus_express.md) (VEX) radio‑science experiment (VeRa). He is in charge of improving the determinations of the time variable Martian gravity field & of determining the gravity field of the Martian moons Phobos & Deimos, using the radio‑tracking data of MEX as well as Mars Global Surveyor (MGS) & Mars Odyssey SC (ODY) & Mars Reconnaissance Orbiter (MRO). His work also aims at determining the density of the high atmosphere of Venus, using the tracking data of VEX. Since 2009, he’s senior scientist & supervises the works, performed at ROB, which deals w/ present or future tracking data of planetary orbiter or Lander on planetary surface. He’s also teaching geophysics of planetary interior at Catholic Univ. of Louvain (UCL) & since 2010 he’s member of the Belgian National Committee of Geodesy & Geophysics. He’s (at 2010.07) author(co) of 161 comms in international meetings & of 16 publications in peer reviewed journals.
@@ -3985,7 +3985,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1984 / …|
 |Contact|<emilie.royer@colorado.edu>, <emilieroyer@psi.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/r/royer1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/r/royer1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Astronomy & Astrophysics, 2011, Uiversité Paris VI, France. MS, Planetary Science, 2007, University Paris VI, France.
    - **Exp.:** Aeronomy, Atmospheres, Geology, Photometry, Remote sensing, Space‑based observing, Spectroscopy. Data validation, Mission science team. Research focuses on Ultraviolet spectroscopy, toward a better understanding of the interactions of diverse Solar System objects with their immediate environment. She uses UV wavelengths to study icy surfaces of airless bodies & upper atmospheres. Research projects on upper atmospheres: analysis of the Nitric Oxide (NO) nightglow at Venus & Mars, & of the Titan airglow. Research projects on icy surfaces: analysis of the UV photometric & compositional properties of the icy satellites of Saturn: Mimas, Tethys, Dione, Enceladus & Rhea. [Principal Investigator](principal_investigator.md) of a multi‑wavelength study (from the UV to the InfraRed) of the the satellite Dione & its co‑orbital moon Helene.
@@ -4009,7 +4009,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1981  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/rugina1_photo_thumb.jpg)](f/contact/r/rugina1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/r/rugina1_photo_thumb.jpg)](f/con/r/rugina1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** MS, Space Systems & Business Engineering, Technische Universität Graz, 2017. Degree Name Doctor of Philosophy — PhD, Dependable systems, INP Toulouse, 2007. MS, Electrical Engineering & Automatic Control, ENSEEIHT — Ecole Nationale Supérieure d'Electrotechnique, d'Electronique, d'Informatique, d'Hydraulique et des Télécommunications, 2004. MS, Electrical Engineering & Computer Science, Universitatea „Politehnica” din București, 2004.
    - **Exp.:** European Space Agency / ESTEC, System Engineer, 2018 ‑ Present; Software & Operations Engineer, 2012 ‑ Present. EADS Astrium, Advanced Studies On‑Board Software Engineer, 2007 ‑ 2011: project definition & proposals (internal & external clients), project technical execution, project management (budget & planning management, interface with clients), internal improvement activities, dissemination & training.
@@ -4031,7 +4031,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1943.09.05 (St. Albans, England) / …|
 |Contact|<ctrussel@igpp.ucla.edu>, *раб.:* +1(310)825-31-88; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/russell1_photo_thumb.jpg)](f/contact/r/russell1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/r/russell1_photo_thumb.jpg)](f/con/r/russell1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, California Univ. Univ., Los Angeles, 1968. BS, Toronto Univ., 1964.
    - **Exp.:** Research. He led the Magnetic Fields Experiments on NASA’s Polar satellite to map the earth’s magnetosphere. He leads NASA’s Dawn Mission team. Dawn orbited Vesta in 2011 & 2012 & has entered the orbit of Ceres in 2015. It is the first spacecraft to orbit two celestial bodies. In collaboration with John L. Philips he has studied the ashen light on Venus. He has studied the solar wind through his participation in NASA’s STEREO & the European Space Agency’s Venus Express missions.
@@ -4057,7 +4057,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<rodionov@iki.rssi.ru>, *work:* +7(495)333-13-34; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/r/rodionov1_photo_thumb.jpg)](f/contact/r/rodionov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/r/rodionov1_photo_thumb.jpg)](f/con/r/rodionov1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4084,7 +4084,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<sasaki@stf.teu.ac.jp>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/s/sasaki1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/s/sasaki1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4109,9 +4109,9 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1962.12.05 Tokyo, JP / …|
 |Contact|<satoh@stp.isas.jaxa.jp>, *work:* +81(50)3362-3838; факс: +81(42)759-8178 *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/satoh1_photo_thumb.jpg)](f/contact/s/satoh1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/s/satoh1_photo_thumb.jpg)](f/con/s/satoh1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
-   - **[Education](edu.md):** **[CV](f/contact/s/satoh1_cv.pdf).** PhD, Physics, Science University of Tokyo, 1992. MS, Physics, Science University of Tokyo, 1989. BS, Physics, Science University of Tokyo, 1987.
+   - **[Education](edu.md):** **[CV](f/con/s/satoh1_cv.pdf).** PhD, Physics, Science University of Tokyo, 1992. MS, Physics, Science University of Tokyo, 1989. BS, Physics, Science University of Tokyo, 1987.
    - **Exp.:** Department of Space & Astronautical Science, School of Physical Sciences, SOKENDAI, Sagamihara‑shi, Kanagawa, Japan, Professor, 2006 ‑ present. Department of Solar System Sciences, Institute of Space & Astronautical Science, JAXA, Sagamihara‑shi, Kanagawa, Japan, Professor, 2006 ‑ present. Faculty of Education, Kumamoto Univ., Kumamoto‑shi, Kumamoto, Japan, Associate Professor, 2001 ‑ 2006. Frontier Research Center for Computational Sciences, Science Univ. of Tokyo, Noda‑shi, Chiba, Japan, Lecturer, 1997 ‑ 2001. Hughes STX Corporation at NASA GSFC, Greenbelt, Maryland, USA, Astrophysicist, 1993 ‑ 1997. Institute for Astronomy, Univ. of Hawaii, Honolulu, Hawaii, USA, Visiting Scientist, 1992 ‑ 1993.
    - Research interests: Planetary atmosphere, Radiation, Dynamics, Space probes, Space observation science using satellites & space exploration vehicles: Solar system science. The themes include planetary atmosphere, plasma, & solid body with observations from space probes & ground‑based instruments. Studying Venus (atmo dynamics & radiative transfer with light scattering by aerosols) with Akatsuki data is of special importance, while interactions of planetary magnetospheres & the solar wind are studied also.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
@@ -4134,7 +4134,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1977.10.01 / …|
 |Contact|<kunio.sayanagi@hamptonu.edu>, *раб.:* +1(757)728-67-45, Fax: +1(757)727-50-90; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/s/sayanagi1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/s/sayanagi1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Physics with Minor in Atmospheric Sciences, Arizona University, 2007 / MS, Physics, Arizona University, 2004.
    - **Exp.:** Dr. Sayanagi has taught the following courses at Hampton University: Introductory Astronomy / Atmospheric & Planetary Sciences Seminar / Atmospheric Structure & Dynamics / Geophysical Fluid Dynamics / Special Topics: Atmospheric Turbulence / Physics & Chemistry of Planetary Atmospheres. His research interests encompass a wide range of topics in planetary atmospheres. Research activities: 3 rough areas. 1st, he studies atmospheric dynamic phenomena by numerically modeling atmospheric features such as jetstreams, vortices & waves. 2nd, he analyzes images from space probes to analyze clouds; in particular, images from NASA’s Cassini to study motions & properties of clouds on Saturn. 3rd, he develops measurement methods & image processing techniques to improve & enable new analysis of images from space missions.
@@ -4159,7 +4159,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1939.03.02 New York, US / …|
 |Contact|<schubert@ucla.edu>, *work:* +1(310)825-45-77; *mobile:* +1(310)825-27-79|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/schubert1_photo_thumb.jpg)](f/contact/s/schubert1_photo.jpg) [![](f/contact/s/schubert1_sign_thumb.jpg)](f/contact/s/schubert1_sign.png)|
+| |[![](f/con/s/schubert1_photo_thumb.jpg)](f/con/s/schubert1_photo.jpg) [![](f/con/s/schubert1_sign_thumb.jpg)](f/con/s/schubert1_sign.png)|
 
    - **[Education](edu.md):** PhD, Engineering Aeronautical Sciences, California Univ., Berkeley, 1964. MS, Aeronautical Engineering, Cornell Univ., 1961. BS, Engineering Physics & M.S. in Aeronautical Engineering, Cornell University, 1961.
    - **Exp.:** Research interests: Physics of Earth & Planets, Dynamics of Planetary Interiors & Atmosphere, Evolution of Earth & Planets, Mantle Convection, Magnetic Fields of Earth & Planets, Planetary Dynamos & Geodynamo.
@@ -4184,7 +4184,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1961.06.18 (Oregon, USA) / …|
 |Contact|<David.A.Senske@jpl.nasa.gov>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/senske1_photo_thumb.jpg)](f/contact/s/senske1_photo.jpg) [![](f/contact/s/senske1_sign_thumb.jpg)](f/contact/s/senske1_sign.png)|
+| |[![](f/con/s/senske1_photo_thumb.jpg)](f/con/s/senske1_photo.jpg) [![](f/con/s/senske1_sign_thumb.jpg)](f/con/s/senske1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4206,7 +4206,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<grzegslowik@o2.pl>, *раб.:* +48(695)042-497, Fax: +48(683)264-886; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/slowik1_photo_thumb.jpg)](f/contact/s/slowik1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/s/slowik1_photo_thumb.jpg)](f/con/s/slowik1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4229,7 +4229,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1986 / …|
 |Contact|<david.j.smith-3@nasa.gov>, *раб.:* +1(650)604-48-19; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/smith1_photo_thumb.jpg)](f/contact/s/smith1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/s/smith1_photo_thumb.jpg)](f/con/s/smith1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biology & Astrobiology, Washington Univ., 2012. BA, Ecological & Evolutionary Biology, Princeton Univ., 2007.
    - **Exp.:** Researcher & project scientist who studies microbial dispersal with traditional & molecular methods. At Kennedy Space Center, he gained ground- & spaceflight-based project experience with NASA instruments & payloads in the space shuttle, International Space Station, & Reduced Gravity Research Programs. More recently, he led the design, construction, & validation of a novel NASA Planetary Protection payload (E-MIST) that was flown twice by the NASA Balloon Program. Skills & Expertise: Microbiology, Microbial Molecular Biology, Environmental Microbiology, Microbial Ecology, Bacteria, Atmosphere, Fungi, Microbial Diversity, Aerosols, Atmospheric Modeling, Microorganisms, Bacillus, Bacterial Cells, Microbiological Methods, Aerobiology, Extreme Environments.
@@ -4255,7 +4255,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> (Rangeley, Maine, USA) / Sierra Madre, California, USA|
 |Contact|<mark>noemail</mark>, *раб.:* +1(818)354-41-92, Fax: +1(818)393-50-59; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/smrekar1_photo_thumb.jpg)](f/contact/s/smrekar1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/s/smrekar1_photo_thumb.jpg)](f/con/s/smrekar1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD in geophysics, Southern Methodist University, 1990. BS in geophysics & mathematics, Brown University, 1984.
    - **Exp.:** Research Interests. Modeling of mantle upwelling & tectonic processes to understand the different evolutionary paths of Venus, Mars, & Earth, using numerical & analytic models of deformation. Analysis of gravity, topography, & magnetic field data to constrain the thermal evolution & history of the lithosphere using spatial & spectral methods as well as joint inversions. Development of instruments to measure thermal properties & heat flow on other planets. Emplacement mechanisms for planetary lava flows.
@@ -4279,7 +4279,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1982.. / …|
 |Contact|<aymeric.spiga@sorbonne-universite.fr>, *раб.:* +33(0)144-27-28-47; *mobile:* <mark>nomobile</mark>|
 |i18n|Спига, Эмерик|
-| |[![](f/contact/s/spiga1_photo_thumb.jpg)](f/contact/s/spiga1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/s/spiga1_photo_thumb.jpg)](f/con/s/spiga1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Université Pierre et Marie Curie in Planetary Science, 2008. MSc degree from UPMC in climate science, atmospheric physics & remote sensing, 2005.
    - **Exp.:** Research scientist in planetary science (LMD, Paris) Maître de conférences (Sorbonne Université, Paris). My research domain lies in between astrophysics & geophysical fluid dynamics. I am interested in how the most prominent atmospheric manifestations, witnessed at the planetary scale by telescopes & orbiting spacecraft, arise from smaller-scale atmospheric phenomena: turbulence, waves & instabilities. I work on various planetary atmospheres in the Solar System: from telluric planets (Mars, Venus) to giant planets (Saturn, Jupiter).
@@ -4304,7 +4304,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1953  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/spilker1_photo_thumb.jpg)](f/contact/s/spilker1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/s/spilker1_photo_thumb.jpg)](f/con/s/spilker1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Electrical Engg, Planetary Sci, Radio Physics, Stanford Univ., 1990. BS, Geophysics, Computer Science, Summa Cum Laude, Kansas State Univ., 1975.
    - **Exp.:** Orbital Assembly Corporation, Senior Vice President, 2019 ‑ Present. Independent Consultant, 2013 ‑ Present: I do the same things I did with SSSE (see below) but without the umbrella organization: Consulting for space flight mission architectures & proposals; Consulting for planetary & solar system science investigations; High‑level feasibility assessments & spacecraft system engineering for scientific space flight missions; Chief Architect for the Gateway Foundation. JPL, Principal Space Flight Mission Architect, 1991 ‑ 2012: Planetary atmospheres science, radio astronomy, radiative transfer modeling; Space flight mission architecture & system engineering; Space flight mission formulation & planning; High‑level space flight mission systems design & analysis; Worked on multiple missions in flight: Voyager, Cassini, Genesis, Rosetta (ESA comet mission).
@@ -4326,7 +4326,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1961.02.24 Oberlin, Ohio, US / Washington D.C. Metro Area|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/stofan1_photo_thumb.jpg)](f/contact/s/stofan1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/s/stofan1_photo_thumb.jpg)](f/con/s/stofan1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Brown University, Geological Sciences, 1983 ‑ 1989. BS, College of William & Mary, Geology, 1979 ‑ 1983. Activities & Societies: Phi Beta Kappa, Pi Beta Phi, Sigma Gamma Epsilon.
    - **Exp.:** Ellen Renee Stofan is the former Chief Scientist of NASA & served as principal advisor to NASA Administrator Charles Bolden on the agency’s science programs, planning & investments. She resigned from NASA in 2016.12. Previously, she served as vice president of Proxemy Research in Laytonsville, Maryland, & as an honorary professor in the Earth sciences department at the University College London. Stofan’s research has focused on the geology of [Venus](venus.md), [Mars](mars.md), Saturn’s moon [Titan](titan.md), & [Earth](earth.md). She is an associate member of the Cassini Mission to Saturn Radar Team & a co‑investigator on the Mars Express Mission’s MARSIS sounder. She was also the [principal investigator](principal_investigator.md) on the Titan Mare Explorer, a proposed mission for a floating lander to be sent to Titan. From 1991 through 2000, she held a number of senior scientist positions at NASA’s JPL in Pasadena, California, including chief scientist for NASA’s New Millennium Program, deputy project scientist for the Magellan Mission to Venus, & experiment scientist for Spaceborne Imaging Radar‑C (SIR‑C), an instrument that provided radar images of Earth on two Space Shuttle flights in 1994. Stofan has written & published numerous professional papers, books & chapters, & has chaired committees incl. the National Research Council Inner Planets Panel for the recent Planetary Science Decadal Survey & the [VEXAG](vexag.md).
@@ -4350,7 +4350,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4373,7 +4373,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1958.04.09 Göteborg, Sweden / …|
 |Contact|<hakan.svedhem@esa.int>, *work:* +31(71)565-33-70; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/svedhem1_photo_thumb.jpg)](f/contact/s/svedhem1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/s/svedhem1_photo_thumb.jpg)](f/con/s/svedhem1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Joined ESA in 1984 to work in the Microwave Instrumentation section. In 1986 he transferred to the Space Science Department to work on instrumentation for planetary science.
    - **Exp.:** His research interests are interplanetary dust & planetary atmospheres & surfaces. He has been co‑investigator on nine experiments on Russian, Japanese & ESA planetary missions, is Team Leader for the Titan Radar Altimetry team on the Huygens probe & has been involved in several additional space projects. He has authored or co‑authored over 60 scientific papers on subjects ranging from the flux of interstellar & interplanetary dust, to acoustic sounding in planetary atmospheres & space instrumentation design.
@@ -4397,7 +4397,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1932.12.26 Москва, СССР / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|Sagdeev, Roald Zinnurovich|
-| |[![](f/contact/s/sagdeev1_photo_thumb.jpg)](f/contact/s/sagdeev1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/s/sagdeev1_photo_thumb.jpg)](f/con/s/sagdeev1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Академик РАН (1991, академик АН СССР с 1968 года, член‑корреспондент АН СССР с 1964 года). Доктор физико‑математических наук.
    - **Exp.:** С 1973 по 1988 годы был директором Института космических исследований АН СССР. Занял эту должность как ведущий специалист страны в области физики плазмы. Затем — руководителем научно‑методического центра аналитических исследований Института, главным научным сотрудником. Профессор, директор Центра «Восток‑Запад» Университета штата Мэриленд, США, эксперт НАСА, член Наблюдательного совета Международного Люксембургского форума по предотвращению ядерной катастрофы.
@@ -4420,7 +4420,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1981.05.16, на НПОЛ с 2004 / …|
 |Contact|<alex.simonov@laspace.ru>, *work:* 54-19, +7(495)575-54-19, 62-86; *mobile:* +7(910)441-01-52|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/s/simonov1_photo_thumb.jpg)](f/contact/s/simonov1_photo.jpg) [![](f/contact/s/simonov1_sign_thumb.jpg)](f/contact/s/simonov1_sign.png)|
+| |[![](f/con/s/simonov1_photo_thumb.jpg)](f/con/s/simonov1_photo.jpg) [![](f/con/s/simonov1_sign_thumb.jpg)](f/con/s/simonov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4442,7 +4442,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1950.06.03, на НПОЛ с 1986 / …|
 |Contact|<sysoev@laspace.ru>, *work:* 41-29; *mobile:* +7(916)857-96-39|
 |i18n|Sysoev, Valentin Konstantinovich|
-| |[![](f/contact/s/sysoev1_photo_thumb.jpg)](f/contact/s/sysoev1_photo.jpg) [![](f/contact/s/sysoev1_sign_thumb.jpg)](f/contact/s/sysoev1_sign.png)|
+| |[![](f/con/s/sysoev1_photo_thumb.jpg)](f/con/s/sysoev1_photo.jpg) [![](f/con/s/sysoev1_sign_thumb.jpg)](f/con/s/sysoev1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4468,7 +4468,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |<mark>nophoto</mark> [![](f/contact//1_photo_thumb.jpg)](f/contact//1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |<mark>nophoto</mark> [![](f/con//1_photo_thumb.jpg)](f/con//1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Rikkyo University, Professor, 2008 ‑ Present
@@ -4492,7 +4492,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<yukihiro@mail.sci.hokudai.ac.jp>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/t/takahashi1_photo_thumb.jpg)](f/contact/t/takahashi1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/t/takahashi1_photo_thumb.jpg)](f/con/t/takahashi1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD
    - **Exp.:** …
@@ -4518,7 +4518,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1974.12.05 (РФ, Астрахань) / Ann Arbor, United States|
 |Contact|<vtenishe@umich.edu>, *раб.:* +1(734)763-62-46, +1(734)763-62-21; *mobile:* +1(734)272-27-01|
 |i18n|Тенишев, Валерий|
-| |[![](f/contact/t/tenishev1_photo_thumb.jpg)](f/contact/t/tenishev1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/t/tenishev1_photo_thumb.jpg)](f/con/t/tenishev1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Space Science & Scientific Computing, Michigan Univ., 2001‑2006. MS, Engineering Physics/Applied Physics, Moscow Institute of Physics & Technology (MIPT) 1999‑2001.
    - **Exp.:** Research interest: Computational Fluid Dynamics, Numerical Simulation, Turbulence, Computational Physics, Geophysics, Solar, Planetary Science, Space Physics, Space Environment, Planets. Characterization of the variability & dynamics of the energetic particles populating a region that extends from the altitude of tens Earth’s radii out into space down to Earth’s lower atmosphere. Energetic particles that are the subject of my study are of solar & galactic origin & impose major radiation exposure risks in space.
@@ -4542,7 +4542,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<thomas.w.thompson@jpl.nasa.gov>, *work:* +1(818)354-38-81; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/t/thompson1_photo_thumb.jpg)](f/contact/t/thompson1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/t/thompson1_photo_thumb.jpg)](f/con/t/thompson1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4565,7 +4565,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1973.09.29 (Kansas City, Missouri, USA) / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/t/tilman1_photo_thumb.jpg)](f/contact/t/tilman1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/t/tilman1_photo_thumb.jpg)](f/con/t/tilman1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4587,7 +4587,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<dmitri.titov@esa.int>, *work:* +31(71)565-37-70; *mobile:* <mark>nomobile</mark>|
 |i18n|Титов, Дмитрий|
-| |[![](f/contact/t/titov1_photo_thumb.jpg)](f/contact/t/titov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/t/titov1_photo_thumb.jpg)](f/con/t/titov1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4610,9 +4610,9 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1953 / …|
 |Contact|<treiman@lpi.usra.edu>, *раб.:* +1(281)486-21-17, Fax: +1(281)486-21-62; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/t/treiman1_photo_thumb.jpg)](f/contact/t/treiman1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/t/treiman1_photo_thumb.jpg)](f/con/t/treiman1_photo.jpg) <mark>nosign</mark>|
 
-   - **[Education](edu.md):** **[CV](f/contact/t/treiman1_cv.pdf).** PhD, Igneous Petrology, Michigan Univ., 1982. MS, Metamorphic Geology, Stanford Univ., 1977. BA *magna cum laude*, Physical Chemistry, Pomona College, 1974.
+   - **[Education](edu.md):** **[CV](f/con/t/treiman1_cv.pdf).** PhD, Igneous Petrology, Michigan Univ., 1982. MS, Metamorphic Geology, Stanford Univ., 1977. BA *magna cum laude*, Physical Chemistry, Pomona College, 1974.
    - **Exp.:** Geology, petrology, & geochemistry across the Solar System. Study planetary materials, particularly Moon rocks & martian meteorites, from which, he teases out the early histories of the terrestrial planets (incl. large asteroids), emphasizing their volatiles — water, halogens, carbon, etc. His background is in chemistry, & he approaches planetary sciences from both geological & thermochemical perspectives.
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
@@ -4634,7 +4634,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1941.01.07 (Москва, СССР) / Москва, РФ|
 |Contact|<tverdislov@mail.ru>, *раб.:* +7(495)939-11-95; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/t/tverdislov1_photo_thumb.jpg)](f/contact/t/tverdislov1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/t/tverdislov1_photo_thumb.jpg)](f/con/t/tverdislov1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Доктор физико‑математических наук с 1984 года.
    - **SC/Equip.:** …
@@ -4657,7 +4657,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<vladtr@mx.iki.rssi.ru>, *раб.:* +7(495)333-41-23, Fax: +7(495)333-12-48; *mobile:* +7(916)638-14-18|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/t/tretyakov1_photo.jpg) [![](f/contact/t/tretyakov1_sign_thumb.jpg)](f/contact/t/tretyakov1_sign.png)|
+| |![](f/con/t/tretyakov1_photo.jpg) [![](f/con/t/tretyakov1_sign_thumb.jpg)](f/con/t/tretyakov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4680,7 +4680,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<tag@kiam1.rssi.ru>, *work:* +7(495)333-80-67; *mobile:* +7(915)326-66-92|
 |i18n|Tuchin, Andrey Georgievich|
-| |[![](f/contact/t/tuchin1_photo_thumb.jpg)](f/contact/t/tuchin1_photo.jpg) [![](f/contact/t/tuchin1_sign_thumb.jpg)](f/contact/t/tuchin1_sign.png)|
+| |[![](f/con/t/tuchin1_photo_thumb.jpg)](f/con/t/tuchin1_photo.jpg) [![](f/con/t/tuchin1_sign_thumb.jpg)](f/con/t/tuchin1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4706,7 +4706,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1960 - … / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/v/vandaele1_photo_thumb.jpg)](f/contact/v/vandaele1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/v/vandaele1_photo_thumb.jpg)](f/con/v/vandaele1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** Dr. Ir., Engineering, Université libre de Bruxelles, 1990.
    - **Exp.:** Belgian Institute for Space Aeronomy, Head of Planetary Aeronomy Group, 2006 ‑ Present: Head of a group of 10 persons dealing with different aspects of planetary sciences: design of instruments for space applications, data analysis & interpretation, modeling , etc. Senior Researcher, 1991 ‑ Present; Radiative transfer in planetary atmospheres - laboratory measurement of spectroscopic parameters IR, UV) - designing instruments. Société Royale belge d'Astronomie, de Météorologie et de Physique du Globe, Chief redactor, 2004 ‑ Present; Making sure that the Bulletin of the Society gets out on time!
@@ -4729,7 +4729,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1978.01.23 / …|
 |Contact|<Thomas.Voirin@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/v/voirin1_photo_thumb.jpg)](f/contact/v/voirin1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/v/voirin1_photo_thumb.jpg)](f/con/v/voirin1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4751,7 +4751,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1991.05.29 (Mo I Rana, Nordland, Norway) / London, UK|
 |Contact|<frida.sjovoll.13@ucl.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/v/vonstad1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/v/vonstad1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD candidate, Civil Engineering, UCL, 2016-2020.
    - **Exp.:** …
@@ -4773,7 +4773,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1959 / …|
 |Contact|<mary.voytek-1@nasa.gov>, *раб.:* +1(202)358-15-77, Fax: +1(202)358-30-97; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/v/voytek1_photo_thumb.jpg)](f/contact/v/voytek1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/v/voytek1_photo_thumb.jpg)](f/con/v/voytek1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Biology/Ocean Sciences, California Univ., 1995. MS, Biological Oceanography, Rhode Island Univ., 1984. BA, Biology, J. Hopkins Univ., 1980.
    - **Exp.:** Dr. Voytek’s primary scientific interests are biogeochemistry & aquatic microbial ecology; more particularly, environmental controls on microbial transformations of nutrients, xenobiotics, & metals in freshwater & marine systems. She has worked in several extreme environments, including Antarctica, hypersaline lakes, deep-sea hydrothermal vents, & terrestrial deep-subsurface sites. Dr. Voytek has conducted deep-biosphere studies at the Chesapeake Bay Impact Structure.
@@ -4798,7 +4798,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<olegv@iki.rssi.ru>, *раб.:* +7(495)333-34-56; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/v/vaysberg1_photo.jpg) [![](f/contact/v/vaysberg1_sign_thumb.jpg)](f/contact/v/vaysberg1_sign.png)|
+| |![](f/con/v/vaysberg1_photo.jpg) [![](f/con/v/vaysberg1_sign_thumb.jpg)](f/con/v/vaysberg1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4820,7 +4820,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> ….10.31 / …|
 |Contact|<victorvoron@roscosmos.ru>, <voron.vv@roscosmos.ru>, *раб.:* +7(495)631-90-00 (доб 32-10); *mobile:* +7(916)590-54-84|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/v/voron1_animated.gif) [![](f/contact/v/voron1_sign_thumb.jpg)](f/contact/v/voron1_sign.png)|
+| |![](f/con/v/voron1_animated.gif) [![](f/con/v/voron1_sign_thumb.jpg)](f/con/v/voron1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4842,7 +4842,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1952.05.07 / …|
 |Contact|<vorontsovspace@gmail.com>, <victor-vorontsov@yandex.ru>, *work:* <mark>noworkphone</mark>; *mobile:* +7(916)907-33-68|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/v/voroncov1_photo.gif)](f/contact/v/voroncov1_photo.gif) [![](f/contact/v/voroncov1_sign_thumb.jpg)](f/contact/v/voroncov1_sign.png)|
+| |[![](f/con/v/voroncov1_photo.gif)](f/con/v/voroncov1_photo.gif) [![](f/con/v/voroncov1_sign_thumb.jpg)](f/con/v/voroncov1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4869,9 +4869,9 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1954 / …|
 |Contact|<alianw@levee.wustl.edu>, *раб.:* +1(314)935-58-51; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/w/wang1_photo_thumb.jpg)](f/contact/w/wang1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/w/wang1_photo_thumb.jpg)](f/con/w/wang1_photo.jpg) <mark>nosign</mark>|
 
-   - **[Education](edu.md):** **[CV](f/contact/w/wang1_cv.jpg)**. PhD, Université des Sciences, Techniques de Lille Flandres Artois, France, 1987. MS, Spectroscopy & Quantum Electronics, Peking University, China, 1982. BS, Optics, Shandong Univ., China, 1975.
+   - **[Education](edu.md):** **[CV](f/con/w/wang1_cv.jpg)**. PhD, Université des Sciences, Techniques de Lille Flandres Artois, France, 1987. MS, Spectroscopy & Quantum Electronics, Peking University, China, 1982. BS, Optics, Shandong Univ., China, 1975.
    - **Exp.:** Alian Wang studies fundamental planetary science with an emphasis on the phase transformations of hydrous salts (sulfates, chloride & oxychlorine salts) on Mars, the mechanisms & environmental conditions, the phase-transition rates & pathways. She also works with planetary mission preparation, operation, & data analysis.
    - …
    - **SC/Equip.:** Mars Exploration Rover, ExoMars missions
@@ -4894,7 +4894,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1953.11.02 / …|
 |Contact|<watanabe.shi@do-johodai.ac.jp>, <shw@ep.sci.hokudai.ac.jp>, *work:* +81(11)385-44-11 ext216; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/w/watanabe1_photo_thumb.jpg)](f/contact/w/watanabe1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/w/watanabe1_photo_thumb.jpg)](f/con/w/watanabe1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD
    - **Exp.:** …
@@ -4920,7 +4920,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<michael.way@nasa.gov>, *раб.:* +1(212)678-56-65; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/w/way1_photo_thumb.jpg)](f/contact/w/way1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/w/way1_photo_thumb.jpg)](f/con/w/way1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, Physics 1999, University of Missouri.
    - **Exp.:** Research Interests. Multi-Scale Structure of the Universe. Worked for several years on novel algorithms for estimating the multi-scale stucture of the physical universe using the Sloan Digital Sky Survey. This was compared with results derived from N-Body simulations such as a the Millennium Simulation.These types of comparisons tell one how well our present knowledge of how structures grow via gravitation fit the natural world. General Circulation Modeling as applied to Planetary Atmospheres. Using the GISS General Circulation Model for modern day Earth simulations, in recent years we have expanded it’s capabilities to model paleo Earth, modern & paleo Mars, & paleo Venus. We currently have funding to expand the model to the atmosphere of Titan.
@@ -4944,7 +4944,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1961.04.24 (Boulogne-Billancourt, France) / …|
 |Contact|<thomas.widemann@obspm.fr>, *раб.:* +3(313)925-56-44</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/w/widemann1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/w/widemann1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, University Paris, 1991.
    - **Exp.:** Astronomer, educator. Achievements include research in solar system science, atmospheric physics, history of science. Recipient Asteroid Widemann award, International Astronomical Union, 2008.
@@ -4968,7 +4968,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1972 - … / …|
 |Contact|<arno.wielders@esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/w/wielders1_photo_thumb.jpg)](f/contact/w/wielders1_photo.jpg) <mark>nosign</mark> [![](f/contact//1_sign_thumb.jpg)](f/contact//1_sign.png)|
+| |[![](f/con/w/wielders1_photo_thumb.jpg)](f/con/w/wielders1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** TWAIO, Astronomical instruments, Leiden Univ., 2000. MS. Physics (astronomy), Amsterdam Free Univ., 1997.
    - **Exp.:** Mars One: Co‑Founder, 2011 ‑ Present. ESA/ESTEC: Payload engineer Future Missions, 2005 ‑ Present. Carribean Spaceport: Founder, 2003 ‑ 2010. Space Horizon: Consultant for technical space projects, 2004 ‑ 2010. TNO: Research scientist, 2000 ‑ 2004. Dutch Space: Research metrologist, 1998 ‑ 2000.
@@ -4992,7 +4992,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Colin.Wilson@physics.ox.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/w/wilson1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/w/wilson1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** Study planets, in particular Mars & Venus, with a focus on using spacecraft to observe their atmospheres. I have built meteorological sensors for Beagle 2 & ExoMars 2016 Mars landers; I co-ordinated science operations for Venus Express, & am now an Inter-Disciplinary Scientist for ESA’s ExoMars Trace Gas Orbiter.
@@ -5021,7 +5021,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1953.01.22 (Fukui-ken, Japan) / 1432-1 Horinouchi, Hachioji, Tokyo, 192-0392, Japan|
 |Contact|<yamagish@ls.toyaku.ac.jp>, *раб.:* +81-426-76-7139; факс: +81-426-76-7145; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/y/yamagishi1_photo_thumb.jpg)](f/contact/y/yamagishi1_photo.jpg) <mark>nosign</mark>|
+| |[![](f/con/y/yamagishi1_photo_thumb.jpg)](f/con/y/yamagishi1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** PhD, University of Tokyo. Associate professor Tokyo University of Pharmacy & Life Science, Tokyo, since 1995, professor, since 2005. Research associate Tokyo University, 1982-1984. Visiting scientist University California, Berkeley, 1984-1986. Assistant professor Tokyo Institute of Technology, 1987-1995.
    - **Exp.:** …
@@ -5051,7 +5051,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1941.06.01 Москва / Москва|
 |Contact|<zakharov@iki.rssi.ru>, *раб.:* +7(495)333-20-45; *mobile:* +7(903)961-47-23|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/z/zaharov1_photo.jpg) <mark>nosign</mark>|
+| |![](f/con/z/zaharov1_photo.jpg) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Физика плазмы, Доктор физико‑математических наук. Докторская диссертация «Экспериментальные исследования ионного состава энергичной магнитосферной плазмы» (1995). МАИ.
    - **Exp.:** Член бюро секции «Солнечная система» Совета РАН по космосу, член секции «Астероидно‑кометная опасность» Экспертной рабочей группы по космическим угрозам. Учёный секретарь Научного совета по физике солнечной системы РАН. Член Международной академии астронавтики.
@@ -5074,7 +5074,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1973.09.07, на НПОЛ с 2001 / Химки|
 |Contact|<pc4a@laspace.ru>, *work:* 36-03, 59-74, +7(495)575-59-74; *mobile:* +7(916)619-03-43|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/z/zanin1_photo_thumb.jpg)](f/contact/z/zanin1_photo.jpg) [![](f/contact/z/zanin1_sign_thumb.jpg)](f/contact/z/zanin1_sign.png)|
+| |[![](f/con/z/zanin1_photo_thumb.jpg)](f/con/z/zanin1_photo.jpg) [![](f/con/z/zanin1_sign_thumb.jpg)](f/con/z/zanin1_sign.png)|
 
    - **[Education](edu.md):**  к.т.н. (2001). Окончил кафедру 604 МАИ (1997), аспирант МАИ (1998 ‑ 2001), ведущий математик на НПО Лавочкина (2001 ‑ 2006). Специалист в области системного анализа и динамики полёта ЛА.
    - **Exp.:** Основное направление исследований: оценка целевой эффективности и анализ характеристик информационного тракта космических информационных систем. Сменный технический руководитель наземного комплекса при лётно‑конструкторских испытаниях КА «Аркон‑1» (2003). Автор ряда научных трудов, в т.ч.: Управление аэродинамическим торможением низкоорбитальных космических аппаратов, Известия РАН. Теория и системы управления, 2001, №6. Анализ эволюции орбитальных параметров навигационных систем ГЛОНАСС, GALILEO и GPS на длительном интервале эксплуатации, Космонавтика и ракетостроение, 2005, №4.
@@ -5098,7 +5098,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1945.05.22 /|
 |Contact|<lzasova@gmail.com>, <zasova@iki.rssi.ru>, *раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/z/zasova1_animated.gif) [![](f/contact/z/zasova1_sign_thumb.jpg)](f/contact/z/zasova1_sign.png)|
+| |![](f/con/z/zasova1_animated.gif) [![](f/con/z/zasova1_sign_thumb.jpg)](f/con/z/zasova1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -5125,7 +5125,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> 1932 / …|
 |Contact|<gzastenk@iki.rssi.ru>, *work:* +7(495)333-13-88; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/z/zastenker1_photo_thumb.jpg)](f/contact/z/zastenker1_photo.jpg) [![](f/contact/z/zastenker1_sign_thumb.jpg)](f/contact/z/zastenker1_sign.png)|
+| |[![](f/con/z/zastenker1_photo_thumb.jpg)](f/con/z/zastenker1_photo.jpg) [![](f/con/z/zastenker1_sign_thumb.jpg)](f/con/z/zastenker1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -5144,7 +5144,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1948.08.23 / …|
 |Contact|<lzelenyi@iki.rssi.ru>, *раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark>|
 |i18n|Zeleny, Lev Matveevich|
-| |![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.jpg)](f/contact/z/zeleniy1_sign.png)|
+| |![](f/con/z/zeleniy1_animated.gif) [![](f/con/z/zeleniy1_sign_thumb.jpg)](f/con/z/zeleniy1_sign.png)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

@@ -1,9 +1,9 @@
 # OPC LAM
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/o/opc_lam_logo1_thumb.jpg)](f/contact/o/opc_lam_logo1.png)|<susana.cortes-borgmeyer@ariane.group>, <mark>noworkphone</mark>, Fax: …;<br> *ArianeGroup GmbH, Robert-Koch-Str. 1, 82024 Taufkirchen, Germany*|
+|[![](f/con/o/opc_lam_logo1_thumb.jpg)](f/con/o/opc_lam_logo1.png)|<susana.cortes-borgmeyer@ariane.group>, <mark>noworkphone</mark>, Fax: …;<br> *ArianeGroup GmbH, Robert-Koch-Str. 1, 82024 Taufkirchen, Germany*|
 |:--|:--|
-|Link|<http://www.space-propulsion.com/><br> <https://en.wikipedia.org/wiki/Orbital_Propulsion_Centre>|
+|Link|<http://www.space-propulsion.com/>・ <https://en.wikipedia.org/wiki/Orbital_Propulsion_Centre>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
@@ -17,7 +17,7 @@
    1. Двигатель [RIT µX](rit_mux.md)
    1. Двигатель [S400](s400.md)
 
-[Брошюры выпускаемой продукции ❐](f/contact/o/opc_lam_brochures.7z)
+[Брошюры выпускаемой продукции ❐](f/con/o/opc_lam_brochures.7z)
 
 
 <p style="page-break-after:always"> </p>

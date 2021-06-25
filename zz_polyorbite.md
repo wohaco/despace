@@ -1,9 +1,9 @@
 # PolyOrbite
 > 2019.08.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/p/polyorbite_logo1_thumb.jpg)](f/contact/p/polyorbite_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2500 Chemin de Polytechnique local m-3008, Montreal, QC H3T 1J4, Canada*|
+|[![](f/con/p/polyorbite_logo1_thumb.jpg)](f/con/p/polyorbite_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2500 Chemin de Polytechnique local m-3008, Montreal, QC H3T 1J4, Canada*|
 |:--|:--|
-|Link|<https://polyorbite.ca/><br> <https://twitter.com/polyorbits/><br> <https://en.wikipedia.org/wiki/Montreal_Student_Space_Associations>|
+|Link|<https://polyorbite.ca/>・ <https://twitter.com/polyorbits/>・ <https://en.wikipedia.org/wiki/Montreal_Student_Space_Associations>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

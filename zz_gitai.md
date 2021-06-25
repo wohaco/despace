@@ -1,9 +1,9 @@
 # GITAI
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/g/gitai_logo1_thumb.png)](f/contact/g/gitai_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2 Chome-8-10 Meguro, Meguro City, Tokyo 153-0063, Japan*|
+|[![](f/con/g/gitai_logo1_thumb.png)](f/con/g/gitai_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2 Chome-8-10 Meguro, Meguro City, Tokyo 153-0063, Japan*|
 |:--|:--|
-|Link|<https://gitai.tech/><br> <https://www.facebook.com/pg/GITAI-1515952648445089/><br> <https://www.linkedin.com/company/gitai/>|
+|Link|<https://gitai.tech/>・ <https://www.facebook.com/pg/GITAI-1515952648445089/>・ <https://www.linkedin.com/company/gitai/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

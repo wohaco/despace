@@ -1,9 +1,9 @@
 # НПК СПП
 > 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/npk_spp_logo1_thumb.jpg)](f/contact/n/npk_spp_logo1.png)|<spp@npk-spp.ru>, +7(495)707-13-48, Fax: +7(495)234-98-59;<br> *Россия, 111024, Москва, Авиамоторная, 53*|
+|[![](f/con/n/npk_spp_logo1_thumb.jpg)](f/con/n/npk_spp_logo1.png)|<spp@npk-spp.ru>, +7(495)707-13-48, Fax: +7(495)234-98-59;<br> *Россия, 111024, Москва, Авиамоторная, 53*|
 |:--|:--|
-|Link|<http://www.npk-spp.ru/><br> <https://ru.wikipedia.org/wiki/Системы_прецизионного_приборостроения>|
+|Link|<http://www.npk-spp.ru/>・ <https://ru.wikipedia.org/wiki/Системы_прецизионного_приборостроения>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

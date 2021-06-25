@@ -1,10 +1,10 @@
 # Kratos IS
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kratos_is_logo1_thumb.jpg)](f/contact/k/kratos_is_logo1.png)|<support@integ-japan.com>, <mark>noworkphone</mark>, Fax: …;<br> *3-chōme-7-26 Ariake, Koto City, Tōkyō-to 135-0063, Japan*|
+|[![](f/con/k/kratos_is_logo1_thumb.jpg)](f/con/k/kratos_is_logo1.png)|<support@integ-japan.com>, <mark>noworkphone</mark>, Fax: …;<br> *3-chōme-7-26 Ariake, Koto City, Tōkyō-to 135-0063, Japan*|
 |:--|:--|
 |Contact| |
-|Link|<http://www.integ-japan.com/><br> <https://www.kratosdefense.com/products/space><br> <https://www.linkedin.com/company/integral-systems-inc./>|
+|Link|<http://www.integ-japan.com/>・ <https://www.kratosdefense.com/products/space>・ <https://www.linkedin.com/company/integral-systems-inc./>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

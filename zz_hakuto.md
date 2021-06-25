@@ -1,9 +1,9 @@
 # HAKUTO
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/h/hakuto_r_logo1_thumb.jpg)](f/contact/h/hakuto_r_logo1.png)|<info@ispace-inc.com>, +81-3-6277-6451, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
+|[![](f/con/h/hakuto_r_logo1_thumb.jpg)](f/con/h/hakuto_r_logo1.png)|<info@ispace-inc.com>, +81-3-6277-6451, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
 |:--|:--|
-|Link|<https://ispace-inc.com/team-hakuto/><br> <https://ispace-inc.com/hakuto-r/>|
+|Link|<https://ispace-inc.com/team-hakuto/>・ <https://ispace-inc.com/hakuto-r/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

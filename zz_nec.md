@@ -1,9 +1,9 @@
 # NEC Space
 > 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/nec_logo1_thumb.png)](f/contact/n/nec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
+|[![](f/con/n/nec_logo1_thumb.png)](f/con/n/nec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
-|Link|<https://www.necspace.co.jp/><br> <https://www.nec.com/en/global/solutions/space/><br> <https://www.linkedin.com/company/nec/>|
+|Link|<https://www.necspace.co.jp/>・ <https://www.nec.com/en/global/solutions/space/>・ <https://www.linkedin.com/company/nec/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

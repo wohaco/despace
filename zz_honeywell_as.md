@@ -1,9 +1,9 @@
 # Honeywell A/S
 > 2019.08.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/h/honeywell_as_logo1_thumb.jpg)](f/contact/h/honeywell_as_logo1.png)|<mark>noemail</mark>, +1(602)365-30-99, Fax: …;<br> *1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*|
+|[![](f/con/h/honeywell_as_logo1_thumb.jpg)](f/con/h/honeywell_as_logo1.png)|<mark>noemail</mark>, +1(602)365-30-99, Fax: …;<br> *1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*|
 |:--|:--|
-|Link|<https://aerospace.honeywell.com/><br> <https://en.wikipedia.org/wiki/Honeywell_Aerospace>|
+|Link|<https://aerospace.honeywell.com/>・ <https://en.wikipedia.org/wiki/Honeywell_Aerospace>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

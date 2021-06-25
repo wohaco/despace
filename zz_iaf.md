@@ -1,9 +1,9 @@
 # IAF
 > 2020.01.23 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/i/iaf_logo1_thumb.png)](f/contact/i/iaf_logo1.png)|<mark>noemail</mark>, +33(145)674-260, Fax: +33(142)732-120;<br> *100 Avenue de Suffren, 75015 Paris, France*|
+|[![](f/con/i/iaf_logo1_thumb.png)](f/con/i/iaf_logo1.png)|<mark>noemail</mark>, +33(145)674-260, Fax: +33(142)732-120;<br> *100 Avenue de Suffren, 75015 Paris, France*|
 |:--|:--|
-|Link|<http://www.iafastro.org/><br> <https://en.wikipedia.org/wiki/International_Astronautical_Federation><br> <https://ru.wikipedia.org/wiki/Международная_астронавтическая_федерация>|
+|Link|<http://www.iafastro.org/>・ <https://en.wikipedia.org/wiki/International_Astronautical_Federation>・ <https://ru.wikipedia.org/wiki/Международная_астронавтическая_федерация>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

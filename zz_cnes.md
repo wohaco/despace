@@ -1,9 +1,9 @@
 # CNES
 > 2019.08.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/c/cnes_logo1_thumb.jpg)](f/contact/c/cnes_logo1.png)|<mark>noemail</mark>, +33(561)27-31-31, Fax: …;<br> *18 Avenue Edouard Belin, 31400 Toulouse, France*|
+|[![](f/con/c/cnes_logo1_thumb.jpg)](f/con/c/cnes_logo1.png)|<mark>noemail</mark>, +33(561)27-31-31, Fax: …;<br> *18 Avenue Edouard Belin, 31400 Toulouse, France*|
 |:--|:--|
-|Link|<https://cnes.fr/><br> <https://en.wikipedia.org/wiki/CNES><br> <https://ru.wikipedia.org/wiki/Национальный_центр_космических_исследований>|
+|Link|<https://cnes.fr/>・ <https://en.wikipedia.org/wiki/CNES>・ <https://ru.wikipedia.org/wiki/Национальный_центр_космических_исследований>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

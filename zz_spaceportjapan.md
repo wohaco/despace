@@ -1,7 +1,7 @@
 # SPJ
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/spaceportjapan_logo1_thumb.png)](f/contact/s/spaceportjapan_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *6 Chome−10−1 六本木ヒルズ森タワー２３階, Roppongi, Minato City, 〒106-0032 Tokyo, Japan*|
+|[![](f/con/s/spaceportjapan_logo1_thumb.png)](f/con/s/spaceportjapan_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *6 Chome−10−1 六本木ヒルズ森タワー２３階, Roppongi, Minato City, 〒106-0032 Tokyo, Japan*|
 |:--|:--|
 |Link|<https://www.spaceport-japan.org/>|
 |**Mission**|…|

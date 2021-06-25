@@ -1,7 +1,7 @@
 # Geocentrix Technologies
 > 2021.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact//_logo1_thumb.jpg)](f/contact//_logo1.png)|<info@geocentrix.ca>, +1(778)988-63-43, Fax: …;<br> *…*|
+|[![](f/con//_logo1_thumb.jpg)](f/con//_logo1.png)|<info@geocentrix.ca>, +1(778)988-63-43, Fax: …;<br> *…*|
 |:--|:--|
 |Link|<https://www.geocentrix.ca/>|
 |**Mission**|…|

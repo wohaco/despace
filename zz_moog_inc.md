@@ -1,9 +1,9 @@
 # Moog Inc.
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/moog_inc_logo1_thumb.jpg)](f/contact/m/moog_inc_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *East Aurora, New York, USA*|
+|[![](f/con/m/moog_inc_logo1_thumb.jpg)](f/con/m/moog_inc_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *East Aurora, New York, USA*|
 |:--|:--|
-|Link|<http://www.moog.com/><br> <https://en.wikipedia.org/wiki/Moog_Inc.>|
+|Link|<http://www.moog.com/>・ <https://en.wikipedia.org/wiki/Moog_Inc.>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

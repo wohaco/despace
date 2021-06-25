@@ -1,9 +1,9 @@
 # СПУТНИКС
 > 2019.08.06 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/sputnix_logo1_thumb.jpg)](f/contact/s/sputnix_logo1.png)|<contact@sputnix.ru>, +7(499)322-43-15, Fax: …;<br> *Россия, 121205, Москва, Технопарк Сколково, Большой бульвар, д. 42, стр. 1, оф.358, 359*|
+|[![](f/con/s/sputnix_logo1_thumb.jpg)](f/con/s/sputnix_logo1.png)|<contact@sputnix.ru>, +7(499)322-43-15, Fax: …;<br> *Россия, 121205, Москва, Технопарк Сколково, Большой бульвар, д. 42, стр. 1, оф.358, 359*|
 |:--|:--|
-|Link|<http://www.sputnix.ru/><br> <https://vk.com/sputnixru><br> <http://www.facebook.com/sputnixru><br> <https://twitter.com/SPUTNIX_ltd><br> <http://instagram.com/sputnixru><br> <https://ru.wikipedia.org/wiki/Спутникс>|
+|Link|<http://www.sputnix.ru/>・ <https://vk.com/sputnixru>・ <http://www.facebook.com/sputnixru>・ <https://twitter.com/SPUTNIX_ltd>・ <http://instagram.com/sputnixru>・ <https://ru.wikipedia.org/wiki/Спутникс>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

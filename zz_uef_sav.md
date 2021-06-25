@@ -1,9 +1,9 @@
 # UEF SAV
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/u/uef_sav_logo1_thumb.png)](f/contact/u/uef_sav_logo1.png)|<sekr@saske.sk>, +421-55-792-2201, Fax: +421-55-633-62-92;<br> *Watsonova 47, 040 01 Košice, Slovenská republika*|
+|[![](f/con/u/uef_sav_logo1_thumb.png)](f/con/u/uef_sav_logo1.png)|<sekr@saske.sk>, +421-55-792-2201, Fax: +421-55-633-62-92;<br> *Watsonova 47, 040 01 Košice, Slovenská republika*|
 |:--|:--|
-|Link|<http://uef.saske.sk/><br> <https://ru.wikipedia.org/wiki/Словацкая_академия_наук>|
+|Link|<http://uef.saske.sk/>・ <https://ru.wikipedia.org/wiki/Словацкая_академия_наук>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

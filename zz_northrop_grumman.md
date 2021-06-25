@@ -1,9 +1,9 @@
 # Northrop Grumman
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/northrop_grumman_logo1_thumb.jpg)](f/contact/n/northrop_grumman_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: +1(703)280-29-00;<br> *2980 Fairview ㎩rk Drive, West Falls Church, Virginia, United States*|
+|[![](f/con/n/northrop_grumman_logo1_thumb.jpg)](f/con/n/northrop_grumman_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: +1(703)280-29-00;<br> *2980 Fairview ㎩rk Drive, West Falls Church, Virginia, United States*|
 |:--|:--|
-|Link|<http://www.northropgrumman.com/><br> <https://ru.wikipedia.org/wiki/Northrop_Grumman_Corporation><br> <https://en.wikipedia.org/wiki/Northrop_Grumman><br> <https://en.wikipedia.org/wiki/Grumman_LLV>|
+|Link|<http://www.northropgrumman.com/>・ <https://ru.wikipedia.org/wiki/Northrop_Grumman_Corporation>・ <https://en.wikipedia.org/wiki/Northrop_Grumman>・ <https://en.wikipedia.org/wiki/Grumman_LLV>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
@@ -22,7 +22,7 @@
 
 | | |
 |:--|:--|
-|[![](f/contact/n/northrop_grumman_usaf_b_2_spirit_thumb.jpg)](f/contact/n/northrop_grumman_usaf_b_2_spirit.jpg)|[![](f/contact/n/northrop_grumman_small_usps_truck_thumb.jpg)](f/contact/n/northrop_grumman_small_usps_truck.jpg)|
+|[![](f/con/n/northrop_grumman_usaf_b_2_spirit_thumb.jpg)](f/con/n/northrop_grumman_usaf_b_2_spirit.jpg)|[![](f/con/n/northrop_grumman_small_usps_truck_thumb.jpg)](f/con/n/northrop_grumman_small_usps_truck.jpg)|
 |Northrop Grumman manufactured<br> the B-2 Spirit strategic bomber.|Grumman Long Life Vehicle (LLV)|
 
 <p style="page-break-after:always"> </p>

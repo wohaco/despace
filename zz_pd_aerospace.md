@@ -1,9 +1,9 @@
 # PD AeroSpace
 > 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/p/pd_aerospace_logo1_thumb.jpg)](f/contact/p/pd_aerospace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3519 Arimatsu, Midori-ku, Nagoya, Aichi 458-0924, JP*|
+|[![](f/con/p/pd_aerospace_logo1_thumb.jpg)](f/con/p/pd_aerospace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3519 Arimatsu, Midori-ku, Nagoya, Aichi 458-0924, JP*|
 |:--|:--|
-|Link|<https://pdas.co.jp/><br> <https://en.wikipedia.org/wiki/PD_AeroSpace><br> <https://www.linkedin.com/company/pd-aerospace-ltd./>|
+|Link|<https://pdas.co.jp/>・ <https://en.wikipedia.org/wiki/PD_AeroSpace>・ <https://www.linkedin.com/company/pd-aerospace-ltd./>|
 |**Mission**|“Bringing Space Closer”. There are so many amazing possibilities in space, waiting to be discovered & understood. Perhaps, a new kind of resources or energy source is just around the corner. Space also enables us to reflect upon ourselves & Earth, to deeply understand the preciousness of life & nature. There are & will be challenges never seen or predicted during our journey to reach the stars. However, we chose to take upon this challenge, because we believe humanity can earn so much from space exploration. In order to bring space closer to us & move towards a more peaceful & prosperous world, PD Aerospace will continue to pursue the challenge in the field of space transportation.|
 |**Vision**|…|
 |**Values**|…|

@@ -1,9 +1,9 @@
 # UTIAS
 > 2019.08.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/u/utias_logo1_thumb.jpg)](f/contact/u/utias_logo1.png)|<mark>noemail</mark>, +1(416)667-77-00, Fax: +1(416)667-77-99;<br> *4925 Dufferin St, North York, ON M3H 5T6, Canada*|
+|[![](f/con/u/utias_logo1_thumb.jpg)](f/con/u/utias_logo1.png)|<mark>noemail</mark>, +1(416)667-77-00, Fax: +1(416)667-77-99;<br> *4925 Dufferin St, North York, ON M3H 5T6, Canada*|
 |:--|:--|
-|Link|<http://www.utias.utoronto.ca/home/><br> <https://en.wikipedia.org/wiki/University_of_Toronto_Institute_for_Aerospace_Studies><br> <https://www.utias‑sfl.net/>|
+|Link|<http://www.utias.utoronto.ca/home/>・ <https://en.wikipedia.org/wiki/University_of_Toronto_Institute_for_Aerospace_Studies>・ <https://www.utias‑sfl.net/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

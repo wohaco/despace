@@ -1,9 +1,9 @@
 # КБХМ
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kbhm_logo1_thumb.jpg)](f/contact/k/kbhm_logo1.png)|<kbhimmash@khrunichev.ru>, +7(499)429-03-55 — канцелярия, +7(499)429-03-04, Fax: +7(499)429-03-02,  +7(499)429-03-03;<br> *Россия, 141070, Московская обл., г. Королёв, ул. Богомолова, д. 12*|
+|[![](f/con/k/kbhm_logo1_thumb.jpg)](f/con/k/kbhm_logo1.png)|<kbhimmash@khrunichev.ru>, +7(499)429-03-55 — канцелярия, +7(499)429-03-04, Fax: +7(499)429-03-02,  +7(499)429-03-03;<br> *Россия, 141070, Московская обл., г. Королёв, ул. Богомолова, д. 12*|
 |:--|:--|
-|Link|<http://www.kbhmisaeva.ru/><br> <http://www.khrunichev.ru/main.php?:id=123><br> <https://en.wikipedia.org/wiki/A.M._Isayev_Chemical_Engineering_Design_Bureau><br> <https://ru.wikipedia.org/wiki/Конструкторское_бюро_химического_машиностроения_имени_А._М._Исаева>|
+|Link|<http://www.kbhmisaeva.ru/>・ <http://www.khrunichev.ru/main.php?:id=123>・ <https://en.wikipedia.org/wiki/A.M._Isayev_Chemical_Engineering_Design_Bureau>・ <https://ru.wikipedia.org/wiki/Конструкторское_бюро_химического_машиностроения_имени_А._М._Исаева>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

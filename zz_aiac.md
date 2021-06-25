@@ -1,7 +1,7 @@
 # AIAC
 > 2019.08.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/a/aiac_logo1_thumb.jpg)](f/contact/a/aiac_logo1.png)|<mark>noemail</mark>, +1(613)232-42-97, Fax: …;<br> *255 Albert Street, Suite 703, Ottawa, Ontario, K1P 6A9, Canada*|
+|[![](f/con/a/aiac_logo1_thumb.jpg)](f/con/a/aiac_logo1.png)|<mark>noemail</mark>, +1(613)232-42-97, Fax: …;<br> *255 Albert Street, Suite 703, Ottawa, Ontario, K1P 6A9, Canada*|
 |:--|:--|
 |Link|<https://aiac.ca/>|
 |**Mission**|AIAC is the voice of Canada’s aerospace industry. Our mission is to understand, build consensus & provide leadership on policy issues of interest to the industry. We also work to increase Canada’s profile on the world stage by communicating our air & space accomplishments & by promoting Canadian aerospace companies in foreign markets.|

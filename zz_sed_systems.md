@@ -1,7 +1,7 @@
 # SED Systems
 > 2019.08.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/sed_systems_logo1_thumb.jpg)](f/contact/s/sed_systems_logo1.png)|<mark>noemail</mark>, +1(306)931-34-25, Fax: +1(306)933-14-86;<br> *18 Innovation Blvd Saskatoon, SK S7N 5B3, Canada*|
+|[![](f/con/s/sed_systems_logo1_thumb.jpg)](f/con/s/sed_systems_logo1.png)|<mark>noemail</mark>, +1(306)931-34-25, Fax: +1(306)933-14-86;<br> *18 Innovation Blvd Saskatoon, SK S7N 5B3, Canada*|
 |:--|:--|
 |Link|<https://www.sedsystems.ca/>|
 |**Mission**|…|

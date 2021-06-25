@@ -1,9 +1,9 @@
 # NGC A/S
 > 2019.08.26 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/n/ngc_as_logo1_thumb.png)](f/contact/n/ngc_as_logo1.png)|<mark>noemail</mark>, +1(819)348-94-83, Fax: +1(819)348-94-30;<br> *2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*|
+|[![](f/con/n/ngc_as_logo1_thumb.png)](f/con/n/ngc_as_logo1.png)|<mark>noemail</mark>, +1(819)348-94-83, Fax: +1(819)348-94-30;<br> *2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*|
 |:--|:--|
-|Link|<http://www.ngcaerospace.com/><br> <https://www.linkedin.com/company/ngc-aerospace-ltd>|
+|Link|<http://www.ngcaerospace.com/>・ <https://www.linkedin.com/company/ngc-aerospace-ltd>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

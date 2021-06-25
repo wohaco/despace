@@ -1,7 +1,7 @@
 # SPAC
 > 2020.06.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/spac_logo1_thumb.jpg)](f/contact/s/spac_logo1.png)|<office@eiseisokui.or.jp>, +81-3-5402-4738, Fax: +81-3-5402-4712;<br> *Kikai-Shinkou-Kaikan Bldg.3F, 3-5-8 Shibakoen, Minato-ku, Tokyo, 105-0011*|
+|[![](f/con/s/spac_logo1_thumb.jpg)](f/con/s/spac_logo1.png)|<office@eiseisokui.or.jp>, +81-3-5402-4738, Fax: +81-3-5402-4712;<br> *Kikai-Shinkou-Kaikan Bldg.3F, 3-5-8 Shibakoen, Minato-ku, Tokyo, 105-0011*|
 |:--|:--|
 |Link|<http://www.eiseisokui.or.jp/en/>|
 |**Mission**|…|

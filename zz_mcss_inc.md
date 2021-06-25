@@ -1,9 +1,9 @@
 # MCSS inc.
 > 2019.08.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/mcss_inc_logo1_thumb.jpg)](f/contact/m/mcss_inc_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1125 Colonel By Drive, 311 St. Patrick’s Building, Ottawa, ON K1S 5B6, Canada*|
+|[![](f/con/m/mcss_inc_logo1_thumb.jpg)](f/con/m/mcss_inc_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1125 Colonel By Drive, 311 St. Patrick’s Building, Ottawa, ON K1S 5B6, Canada*|
 |:--|:--|
-|Link|<https://missioncontrolspaceservices.com/><br> <https://en.wikipedia.org/wiki/Mission_Control_Space_Services>|
+|Link|<https://missioncontrolspaceservices.com/>・ <https://en.wikipedia.org/wiki/Mission_Control_Space_Services>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -1,9 +1,9 @@
 # МОКБ «Марс»
 > 2019.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/m/mokb_mars_logo1_thumb.jpg)](f/contact/m/mokb_mars_logo1.png)|<office@mars-mokb.ru>, +7(495)688-64-44, Fax: +7(499)973-18-96;<br> *Россия, 127473, г. Москва, 1‑й Щемиловский пер., 16*|
+|[![](f/con/m/mokb_mars_logo1_thumb.jpg)](f/con/m/mokb_mars_logo1.png)|<office@mars-mokb.ru>, +7(495)688-64-44, Fax: +7(499)973-18-96;<br> *Россия, 127473, г. Москва, 1‑й Щемиловский пер., 16*|
 |:--|:--|
-|Link|<http://www.mars-mokb.ru/><br> <https://ru.wikipedia.org/wiki/МОКБ_«Марс»>|
+|Link|<http://www.mars-mokb.ru/>・ <https://ru.wikipedia.org/wiki/МОКБ_«Марс»>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

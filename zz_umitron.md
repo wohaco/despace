@@ -1,9 +1,9 @@
 # Umitron
 > 2020.10.26 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/u/umitron_logo1_thumb.png)](f/contact/u/umitron_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *UMITRON K. K., Izumi Akasaka Building, 2-22-24 Akasaka, Minato, Tokyo, 107-0052, Japan*|
+|[![](f/con/u/umitron_logo1_thumb.png)](f/con/u/umitron_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *UMITRON K. K., Izumi Akasaka Building, 2-22-24 Akasaka, Minato, Tokyo, 107-0052, Japan*|
 |:--|:--|
-|Link|<https://umitron.com/><br> <https://www.linkedin.com/company/umitron><br> <https://twitter.com/umitron>|
+|Link|<https://umitron.com/>・ <https://www.linkedin.com/company/umitron>・ <https://twitter.com/umitron>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

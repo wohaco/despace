@@ -1,7 +1,7 @@
 # Luna D&I
 > 2020.01.30 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/l/lunadni_logo1_thumb.png)](f/contact/l/lunadni_logo1.png)|<andrea@lunainnovates.com>, +1(647)675-66-59, Fax: …;<br> *…, Toronto, ON, Canada.*|
+|[![](f/con/l/lunadni_logo1_thumb.png)](f/con/l/lunadni_logo1.png)|<andrea@lunainnovates.com>, +1(647)675-66-59, Fax: …;<br> *…, Toronto, ON, Canada.*|
 |:--|:--|
 |Link|<https://www.lunainnovates.com/>|
 |**Mission**|…|

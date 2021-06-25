@@ -1,9 +1,9 @@
 # Wyvern Space
 > 2019.08.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/w/wyvern_logo1_thumb.jpg)](f/contact/w/wyvern_logo1.png)|<info@wyvern.space>, <mark>noworkphone</mark>, Fax: …;<br> *Edmonton, Alberta, Canada*|
+|[![](f/con/w/wyvern_logo1_thumb.jpg)](f/con/w/wyvern_logo1.png)|<info@wyvern.space>, <mark>noworkphone</mark>, Fax: …;<br> *Edmonton, Alberta, Canada*|
 |:--|:--|
-|Link|<https://www.wyvern.space/><br> <https://twitter.com/wyvernspace><br> <https://www.linkedin.com/company/wyvern-space>|
+|Link|<https://www.wyvern.space/>・ <https://twitter.com/wyvernspace>・ <https://www.linkedin.com/company/wyvern-space>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -1,9 +1,9 @@
 # Rocket Lab
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/r/rocket_lab_logo1_thumb.jpg)](f/contact/r/rocket_lab_logo1.png)|<mark>noemail</mark>, +1(714)465-57-37, Fax: …;<br> *14520 Delta Ln #101, Huntington Beach, CA 92647, USA*|
+|[![](f/con/r/rocket_lab_logo1_thumb.jpg)](f/con/r/rocket_lab_logo1.png)|<mark>noemail</mark>, +1(714)465-57-37, Fax: …;<br> *14520 Delta Ln #101, Huntington Beach, CA 92647, USA*|
 |:--|:--|
-|Link|<https://www.rocketlabusa.com/><br> <https://en.wikipedia.org/wiki/Rocket_Lab><br> <https://ru.wikipedia.org/wiki/Rocket_Lab><br> <https://www.facebook.com/RocketLabUSA/><br> <https://twitter.com/rocketlab><br> <https://www.linkedin.com/company/rocket-lab-limited><br> <https://www.youtube.com/user/RocketLabNZ>|
+|Link|<https://www.rocketlabusa.com/>・ <https://en.wikipedia.org/wiki/Rocket_Lab>・ <https://ru.wikipedia.org/wiki/Rocket_Lab>・ <https://www.facebook.com/RocketLabUSA/>・ <https://twitter.com/rocketlab>・ <https://www.linkedin.com/company/rocket-lab-limited>・ <https://www.youtube.com/user/RocketLabNZ>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -1,9 +1,9 @@
 # SKY Perfect JSAT
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/sky_perfect_jsat_logo1_thumb.png)](f/contact/s/sky_perfect_jsat_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
+|[![](f/con/s/sky_perfect_jsat_logo1_thumb.png)](f/con/s/sky_perfect_jsat_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
 |:--|:--|
-|Link|<https://www.skyperfectjsat.space/><br> <https://www.jsat.net/en/><br> <https://en.wikipedia.org/wiki/SKY_Perfect_JSAT><br> <https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/>|
+|Link|<https://www.skyperfectjsat.space/>・ <https://www.jsat.net/en/>・ <https://en.wikipedia.org/wiki/SKY_Perfect_JSAT>・ <https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

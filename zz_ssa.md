@@ -1,7 +1,7 @@
 # Saudi Space Agency
 > 2020.03.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/ssa_logo1_thumb.jpg)](f/contact/s/ssa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
+|[![](f/con/s/ssa_logo1_thumb.jpg)](f/con/s/ssa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
 |Link|<https://ssc.gov.sa/>|
 |**Mission**|…|

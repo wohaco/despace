@@ -1,9 +1,9 @@
 # KARI
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/k/kari_logo1_thumb.jpg)](f/contact/k/kari_logo1.png)|<mark>noemail</mark>, 042-860-2114, Fax: …;<br> *KARI, 169-84, Gwahak-ro, Yusong-gu, Daejeon*|
+|[![](f/con/k/kari_logo1_thumb.jpg)](f/con/k/kari_logo1.png)|<mark>noemail</mark>, 042-860-2114, Fax: …;<br> *KARI, 169-84, Gwahak-ro, Yusong-gu, Daejeon*|
 |:--|:--|
-|Link|<http://www.kari.re.kr/><br> <https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute><br> <https://www.linkedin.com/company/kari/>|
+|Link|<http://www.kari.re.kr/>・ <https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute>・ <https://www.linkedin.com/company/kari/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

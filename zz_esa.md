@@ -1,9 +1,9 @@
 # ESA
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/e/esa_logo1_thumb.jpg)](f/contact/e/esa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
+|[![](f/con/e/esa_logo1_thumb.jpg)](f/con/e/esa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
 |:--|:--|
-|Link|<http://www.esa.int/><br> <https://en.wikipedia.org/wiki/European_Space_Agency><br> <https://ru.wikipedia.org/wiki/Европейское_космическое_агентство>|
+|Link|<http://www.esa.int/>・ <https://en.wikipedia.org/wiki/European_Space_Agency>・ <https://ru.wikipedia.org/wiki/Европейское_космическое_агентство>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

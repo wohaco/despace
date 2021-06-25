@@ -1,9 +1,9 @@
 # Perigee Aerospace
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/p/perigee_as_logo1_thumb.png)](f/contact/p/perigee_as_logo1.png)|<info@perigee.kr>, +82(0)42 710 3513, Fax: …;<br> *398 Daedeok-daero, 4th floor, Seo-gu, Daejeon, Republic of Korea 35203*|
+|[![](f/con/p/perigee_as_logo1_thumb.png)](f/con/p/perigee_as_logo1.png)|<info@perigee.kr>, +82(0)42 710 3513, Fax: …;<br> *398 Daedeok-daero, 4th floor, Seo-gu, Daejeon, Republic of Korea 35203*|
 |:--|:--|
-|Link|<https://perigee.kr/><br> <https://en.wikipedia.org/wiki/Perigee_Aerospace><br> <https://www.linkedin.com/company/perigee-aerospace/>|
+|Link|<https://perigee.kr/>・ <https://en.wikipedia.org/wiki/Perigee_Aerospace>・ <https://www.linkedin.com/company/perigee-aerospace/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

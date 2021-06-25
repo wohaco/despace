@@ -1,9 +1,9 @@
 # GRC
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/g/grc_logo1_thumb.jpg)](f/contact/g/grc_logo1.png)|<mark>noemail</mark>, +1(216)433-40-00, Fax: …;<br> *21000 Brookpark Rd, Cleveland, OH 44135, США*|
+|[![](f/con/g/grc_logo1_thumb.jpg)](f/con/g/grc_logo1.png)|<mark>noemail</mark>, +1(216)433-40-00, Fax: …;<br> *21000 Brookpark Rd, Cleveland, OH 44135, США*|
 |:--|:--|
-|Link|<http://www.nasa.gov/glenn><br> <https://en.wikipedia.org/wiki/Glenn_Research_Center>|
+|Link|<http://www.nasa.gov/glenn>・ <https://en.wikipedia.org/wiki/Glenn_Research_Center>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

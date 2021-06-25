@@ -239,7 +239,7 @@ Regulations & terms:
    1. [Программа и методика испытаний](pmot.md) (ПМ, ПИМС);
    1. [Расчёт](calc.md) (РР): *[рад.стойкости](calc_radresist.md) и пр.*;
    1. [Спецификация](specification.md);
-   1. [Схема](doc.md): *[деления](wbs.md), [членения](unit_decd.md), [электрическая](ei_diagram.md) по [ГОСТ 2.701](гост_2_701.md), [пневмо‑гидравлическая](пгс.md)*;
+   1. [Схема](doc.md): *[деления](draft_model.md), [членения](draft_model.md), [электрическая](draft_model.md) по [ГОСТ 2.701](гост_2_701.md), [пневмо‑гидравлическая](пгс.md)*;
    1. [Таблица](table.md);
    1. [Технические условия](specification.md) (ТУ);
    1. [Чертёж габаритный](draft_model.md) (ГЧ);
@@ -312,14 +312,14 @@ Regulations & terms:
 
 Разновидности схем:
 
-   1. [Конструктивно‑силовая схема](ксс.md)
-   1. [Пневмо‑гидравлическая схема](пгс.md)
-   1. [Программируемая логическая интегральная схема](плис.md)
-   1. [Схема деления](wbs.md)
+   1. [Схема деления](draft_model.md)
+   1. [Схема конструктивно‑силовая](ксс.md)
    1. [Схема осцилляторов](draft_model.md)
+   1. [Схема пневмо‑гидравлическая](пгс.md)
    1. [Схема полей зрения](draft_model.md)
-   1. [Схема членения](unit_decd.md)
-   1. [Схема электрическая](ei_diagram.md)
+   1. [Схема программируемая логическая интегральная](плис.md)
+   1. [Схема членения](draft_model.md)
+   1. [Схема электрическая](draft_model.md)
 
 
 
@@ -373,7 +373,7 @@ Regulations & terms:
 
 **Межотраслевая документация**
 
-Ныне используется 40 общетехнических систем нормативной документации, оформленной в виде стандартов. Перечисленные стандарты в совокупности создают условия обеспечения технической подготовки производства на высоком уровне, способной гарантировать конкурентоспособность и [качество](qa.md) выпускаемых изделий и сбыт их на внутреннем и международном рынках.
+Ныне используется 40 общетехнических систем нормативной документации, оформленной в виде стандартов. Перечисленные стандарты в совокупности создают условия обеспечения технической подготовки производства на высоком уровне, способной гарантировать конкурентоспособность и [качество](qm.md) выпускаемых изделий и сбыт их на внутреннем и международном рынках.
 
 <small>
 
@@ -431,9 +431,9 @@ Regulations & terms:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qa.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Documents](doc.md) •··**<br> **Схема:** [КСС](ксс.md)┊ [ПГС](пгс.md)┊ [ПЛИС](плис.md)┊ [СхД](wbs.md)┊ [СхО](draft_model.md)┊ [СхПЗ](draft_model.md)┊ [СхЧ](unit_decd.md)┊ [СхЭ](ei_diagram.md)<br> [Interface](interface.md)┊ [Mission proposal](proposal.md)|
+|**··• [Documents](doc.md) •··**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](draft_model.md)・ [СхО](draft_model.md)・ [СхПЗ](draft_model.md)・ [СхЧ](draft_model.md)・ [СхЭ](draft_model.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
 
    1. Docs: …
    1. Notable interwikies — …

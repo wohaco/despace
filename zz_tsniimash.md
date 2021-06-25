@@ -1,7 +1,7 @@
 # ЦНИИмаш
 > 2019.08.06 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/t/tsniimash_logo1_thumb.jpg)](f/contact/t/tsniimash_logo1.png)|<corp@tsniimash.ru>, +7(495)513-59-51, Fax: +7(495)512-21-00;<br> *Россия, 141070, Московская область, г. Королёв, ул. Пионерская, д. 4*|
+|[![](f/con/t/tsniimash_logo1_thumb.jpg)](f/con/t/tsniimash_logo1.png)|<corp@tsniimash.ru>, +7(495)513-59-51, Fax: +7(495)512-21-00;<br> *Россия, 141070, Московская область, г. Королёв, ул. Пионерская, д. 4*|
 |:--|:--|
 |Link|<http://new.tsniimash.ru/>|
 |**Mission**|…|

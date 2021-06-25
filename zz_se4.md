@@ -1,9 +1,9 @@
 # SE4
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/contact/s/se4_logo1_thumb.jpg)](f/contact/s/se4_logo1.png)|<contact@se4.space>, <mark>noworkphone</mark>, Fax: …;<br> *No.8 Kikuboshi Tower, 3 Chome-20-18 Asakusabashi, Taito City, Tokyo 111-0053, Japan*|
+|[![](f/con/s/se4_logo1_thumb.jpg)](f/con/s/se4_logo1.png)|<contact@se4.space>, <mark>noworkphone</mark>, Fax: …;<br> *No.8 Kikuboshi Tower, 3 Chome-20-18 Asakusabashi, Taito City, Tokyo 111-0053, Japan*|
 |:--|:--|
-|Link|<https://www.se4.space/><br> <https://www.linkedin.com/company/se4>|
+|Link|<https://www.se4.space/>・ <https://www.linkedin.com/company/se4>|
 |**Mission**|…|
 |**Vision**|To combine AI & VR effectively to enable off‑world robot driven industry to increase the prosperity & long term survivability of humanity.|
 |**Values**|…|
