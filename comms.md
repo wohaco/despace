@@ -47,15 +47,15 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|[C-CORE](zz_c_core.md) — from radio beacons & ice measurement radars to satellite transponders & space‑qualified hardware.|
+|**Canada**|・[C-CORE](zz_c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[MDA](zz_mda.md) — manufacturing & testing antennas & electronics|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
-|**Japan**|・[Meisei](zz_meisei.md) — transmitters<br> ・[Mitsubishi](zz_mitsubishi.md) — telemetry & beacon transmitters, power amplifier, low noise amplifiers, receiver & up/down converters.<br> ・[NEC](zz_nec.md) — low noise amplifiers (LNA), converters (CONV), receivers (RCVR), solid state power amplifiers (SSPA), & modulators (MOD), command receivers (CMDRX), telemetry transmitters (TLMTX), beacon transmitters (BCNTX), GPS receivers (GPSR), & multiuse interface modules (MIM), antennas/spaceborne radars, transponders.|
-|**Korea South**|・[Satrec Initiative](zz_satreci.md)|
+|**Japan**|・[Meisei](zz_meisei.md) — transmitters<br> ・[Mitsubishi](zz_mitsubishi.md) — telemetry & beacon transmitters, power & low noise amplifiers, receiver & ↑↓ converters<br> ・[NEC](zz_nec.md) — low noise & solid state power amplifiers (LNA, SSPA), converters (CONV), receivers (RCVR), & modulators (MOD), command receivers (CMDRX), telemetry & beacon transmitters (TLMTX, BCNTX), GPS receivers (GPSR), & multiuse interface modules (MIM), antennas/spaceborne radars, transponders|
+|**Korea S.**|・[Satrec Initiative](zz_satreci.md)|
 |**Russia**|・[AvantSpace](zz_avantspace.md)<br> ・[IRZ](zz_irz.md), [NII Guskova](нии_гуськова.md) — LNA, PE<br> ・[RADIS](zz_radis.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

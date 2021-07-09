@@ -78,43 +78,41 @@ For the person's info page see **[Persons](person.md)**.
 |[ADGA](zz_adga.md)   (ON)|·|·|·|C|·|Advanced technology solutions, professional engineering & consultancy|
 |[AQST Canada](zz_aqst_ca.md)   (QC)|·|·|·|R|·|GEO sats, electric propulsion, materials solutions, remote sensing, robotics|
 |[AIAC](zz_aiac.md)   (ON)|·|·|P|·|·|Aerospace Industries Association of Canada|
-|[AlbertaSat](zz_albertasat.md)   (AB)|N|·|·|R|·|Cubesats|
+|[AlbertaSat](zz_albertasat.md)   (AB)|N|·|·|R|·|CubeSats R&D. Student society|
 |[August IST](zz_august_ist.md)   (ON)|E|·|·|R|·|Space infrastructure, R&D, education, commercialization of innovative solutions|
 |[Baryon Dynam.](zz_baryon_dyn.md)   (ON)|·|·|·|R|·|Power & space propulsion, engineering designs & expertise|
-|[BRASS](zz_brass.md)   (ON)|E|·|P|C|·|Разработка новых космических технологий|
+|[BRASS](zz_brass.md)   (ON)|E|·|P|C|·|Mission design & analysis & planning, Operations, Project management & consultancy|
 |[C-CORE](zz_c_core.md)   (ON)|·|·|·|C|·|Risks mitigation, remote sensing systems, ice/geotechnical engineering|
-|[C6 Launch](zz_c6_launch.md)   (ON)|·|L|·|R|·|Пуск кубсатов|
+|[C6 Launch](zz_c6_launch.md)   (ON)|·|L|·|R|·|Launch services, Launcher design for CubeSats|
 |[Canadensys](zz_canadensys.md)   (ON)|·|·|·|R|·|Cubesats, rovers, SC systems, avionics, sensors|
 |[CASI](zz_casi.md)   (ON)|E|·|P|·|·|Canadian Aeronautics & Space Institute|
 |[CCERA](zz_ccera.md)   (ON)|E|·|·|·|·|Canadian Center for Experimental Radio Astronomy|
 |[Columbiad](zz_columbiad.md)   (ON)|·|L|·|·|·|Commercial low‑cost space launch|
-|[Concordia Univ.](zz_concordia_univ.md)   (QC)|E|·|·|·|·|…|
+|[Concordia Univ.](zz_concordia_univ.md)   (QC)|E|·|·|·|·|Higher education|
 |[CPSX](zz_cpsx.md)   (ON)|E|·|P|·|·|Planetary science, exploration research, training|
-|[CSS](zz_css.md)   (ON)|N|·|P|·|·|Канада в космосе|
+|[CSS](zz_css.md)   (ON)|N|·|P|·|·|Sponsorship & promotion for Canadians in the space sector|
 |[Deltion Ltd](zz_deltion.md)   (ON)|·|·|·|R|·|Technology dev./improvement mostly for automation & robotics, Moon mining|
 |[DSS](zz_dss.md)   (NS)|N|·|·|R|·|CubeSats development. Student community|
 |[Euroconsult](zz_euroconsult.md)   (QC)|·|·|·|C|·|Strategic, research, summits, training programs|
-|[Geocentrix Tech.](zz_geocentrix_tech.md)   (BC)|·|·|·|·|·|Satellite/Launch mission design, analysis, operations, management, consulting|
-|[GHGSat](zz_ghgsat.md)   (QC)|·|·|·|·|·|Съёмка Земли|
-|[Globvision Inc](zz_globvision.md)   (QC)|·|·|·|·|·|Software|
-|[Honeywell A/S](zz_honeywell_as.md)   ()|·|·|·|·|·|…|
-|[Kepler Comms](zz_kepler_comms.md)   (ON)|·|·|·|·|·|Съёмка Земли, IoT, Cubesats|
-|[Lassonde SoE](zz_lassonde_soe.md)   (ON)|E|·|·|·|·|…|
-|[Launch Canada](zz_launch_canada.md)   ()|N|·|·|R|·|Student community, LV & small sats building|
-|[Luna D&I](zz_luna_dni.md)   (ON)|·|·|·|·|·|Поддержка биоэкспериментов в космосе|
-|[Macfab](zz_macfab.md)   (ON)|·|·|·|·|·|ADCS, structures, comms/electronics, sensors, propulsion, separation systems|
-|[Magellan A/S](zz_magellan_as.md)   (ON)|·|·|·|·|·|СЧ КА и системы|
-|[MCSS inc](zz_mcss_inc.md)   (ON)|·|·|·|·|·|Роботы, планетоходы|
-|[MDA](zz_mda.md)   (ON,QC)|·|·|·|·|·|СЧ КА и системы|
-|[Microsat Sys.C.](zz_microsat_sys.md)   (ON)|·|·|·|R|·|Reaction wheels, rate measurement units, microsats|
-|[MLS](zz_mls.md)   (NS)|·|L|·|·|·|Космодром в Новой Шотландии|
-|[MSCI](zz_msci.md)   (ON)|·|·|·|·|·|Микроспутники, ДМ|
-|[NGC A/S](zz_ngc_as.md)   (QC)|·|·|·|·|·|ПО, алгоритмы, симуляция|
-|[Northstar ESI](zz_northstar_esi.md)   (QC)|·|·|·|·|·|Track orbital objects|
-|[Pale Blue Dot](zz_earth.md)   (ON)|N|·|P|·|·|·|…|
-|[PolyOrbite](zz_polyorbite.md)   (QC)|N|·|·|·|·|Кубсаты. Студенческое общество|
-|[Pratt & Whitney](zz_pratt_n_whitney.md)   (QC)|·|·|·|R|·|Rocket engines|
-|[Satcan](zz_satcan.md)   (ON)|N|·|·|·|·|Engineering & business services for satellite sector|
+|[Geocentrix Tech.](zz_geocentrix_tech.md)   (BC)|·|·|·|C|·|Satellite/Launch mission design, analysis, operations, management, consulting|
+|[GHGSat](zz_ghgsat.md)   (QC)|·|·|·|R|·|Greenhouse gases monitoring, gas sensors & imaging interferometers for Cubesats|
+|[Globvision](zz_globvision.md)   (QC)|·|·|·|R|·|Software for spacecraft, support & automate the design|
+|[Honeywell A/S](zz_honeywell_as.md)   ()|·|·|·|R|·|Software, signal & data processing, flight & ground operations|
+|[Kepler Comms](zz_kepler_comms.md)   (ON)|·|·|·|R|·|CubeSats for global comms & IoT, antennas, data retranslation|
+|[Lassonde SoE](zz_lassonde_soe.md)   (ON)|E|·|·|·|·|Higher education|
+|[Launch Canada](zz_launch_ca.md)   ()|N|·|·|R|·|Student community, LV & small sats building|
+|[Luna D&I](zz_luna_dni.md)   (ON)|·|L|·|·|·|Launch & support for experiments in space|
+|[Macfab](zz_macfab.md)   (ON)|·|·|·|R|·|ADCS, structures, comms/electronics, sensors, propulsion, separation systems|
+|[Magellan A/S](zz_magellan_as.md)   (ON)|·|·|·|R|·|Satellite's R&D, small sat bus platform, ground facilities|
+|[MCSS Inc](zz_mcss_inc.md)   (ON)|·|·|·|R|·|Software, simulation, mission operations, onboard autonomy, & AI|
+|[MDA](zz_mda.md)   (ON,QC)|·|·|·|R|·|Robotics, Space operations, Ground stations, Sat systems, Software|
+|[MLS](zz_mls.md)   (NS)|·|L|·|·|·|Launch services using Cyclone-4M LV in Nova Skotia|
+|[MSCI](zz_msci.md)   (ON)|·|·|·|R|·|Reaction wheels, rate measurement units, microsats, attitude control systems|
+|[NGC A/S](zz_ngc_as.md)   (QC)|·|·|·|R|·|Software for GNC, simulation, data processing|
+|[Northstar ESI](zz_northstar_esi.md)   (QC)|·|·|·|R|·|Monitor space (object tracking), from space, via a sat constellation|
+|[PolyOrbite](zz_polyorbite.md)   (QC)|N|·|·|R|·|CubeSat's R&D. Student society|
+|[Pratt & Whitney](zz_pratt_n_whitney.md)   (QC)|·|·|·|R|·|Engines, gas turbines|
+|[Satcan](zz_satcan.md)   (ON)|N|·|·|C|·|Engineering & business consultancy for sat telecom & space tech sectors|
 |[SED Systems](zz_sed_systems.md)   (SK,QC)|·|·|·|·|·|БРК, тестовое оборудование, наблюдение, управление|
 |[SEDS Canada](zz_seds.md)   (ON)|N|·|·|·|·|Students for the Exploration & Development of Space|
 |[Sinclair I/P](zz_sinclair_ip.md)   (ON)|·|·|·|·|·|Star trackers, reaction wheels, optical comms, software, training & expertise|
@@ -371,6 +369,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Space Cubics](zz_spacecubics.md)   1|·|·|·|R|·|CPU, application software, FPGA, consult on space project management|
 |[Space One](zz_space_one_co.md)   13|·|L|·|R|·|Launch service that uses small rockets. Small LV and dedicated launch site|
 |[Space Port Japan](zz_spaceportjapan.md)   13|E|·|P|·|·|Promote the country’s aerospace & related industries|
+|[Space Shift Inc.](zz_space_shift.md)   13|·|·|·|R|·|Software for sat data processing, consulting (marketing, software)|
 |[Space Walker](zz_space_walker.md)   13|·|L|·|R|·|Suborbital spaceplane, space transport/tourism, small sats launch|
 |[Spacetide](zz_spacetide.md)   13|N|·|P|·|·|Promotes newspace businesses worldwide, annual conference|
 |[Sumitomo PP](zz_sumitomo_pp.md)   28|·|·|·|R|·|Heat exchangers & control, semiconductor/MEMS equipment, sensors|

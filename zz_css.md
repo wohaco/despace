@@ -7,7 +7,7 @@
 |**Mission**|・**Inform.** We inform our membership & the public about Canada’s activities in space within the context of the broader international community.<br> ・**Educate.** We educate on space exploration, discovery, innovation & its values.<br> ・**Engage.** We engage our members through space related projects, activities, & networking opportunities.<br> ・**Shape.** We shape space policy, representing our membership & the public through activities that bring together members of government, academia, & business.|
 |**Vision**|To lead Canada in the effective cooperation between industry, government, academia, advocacy groups, & the public for the advancement of space endeavours.|
 |**Values**|…|
-|**Business**|…|
+|**Business**|Sponsorship & promotion for Canadians in the space sector|
 |**[Manage-<br>ment](mgmt.md)**|…|
 
 **Canadian Space Society (CSS)**. Founded in 1983, the Canadian Space Society (CSS) has been a federally‑incorporated [non‑profit organization](nonprof_org.md) & charity. With many of Canada’s top space professionals on board, the CSS is made up of enthusiasts of all backgrounds pursuing the exploration & development of the Solar System & beyond.

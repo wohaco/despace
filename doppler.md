@@ -15,6 +15,25 @@
 |•|• • •|• • •|
 |**US**|[Ball A&T](zz_ball_at.md)| |
 
+**Manufacturers**
+
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|・[MDA](zz_mda.md)|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|…|
+|**Korea S.**|…|
+|**Russia**|・[Концерн Вега](zz_vega_k_1_2.md)|
+|**Saudi Ar.**|…|
+|**Singapore**|…|
+|**USA**|・[Ball A&T](zz_ball_at.md)|
+|**UAE**|…|
+|**Vietnam**|…|
+
 
 
 <p style="page-break-after:always"> </p>

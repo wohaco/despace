@@ -44,9 +44,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Harada Seiki](zz_harada_seiki.md)<br> ・[ispace](zz_ispace.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

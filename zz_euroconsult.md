@@ -8,11 +8,11 @@
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[Manage-<br>ment](mgmt.md)**|・CEO — Pacôme Revillon<br> ・COO — Steve Bochinger|
 
 The **Euroconsult Group** is the leading global strategy consulting & market intelligence firm specialized in the space sector & satellite enabled verticals.
 
-Privately owned & fully independent, we have over thirty years of experience providing first-class strategic consulting, developing comprehensive market intelligence programs, organizing executive-level annual summits & training programs for the satellite industry. We accompany private companies & government entities in strategic decision making, providing end-to-end consulting services, from project strategy definition to implementation, bringing data-led perspectives on the most critical issues. We help our clients understand their business environment & provide them with the tools they need to make informed decisions & develop their business.
+Privately owned & fully independent, we have over thirty years of experience providing first‑class strategic consulting, developing comprehensive market intelligence programs, organizing executive‑level annual summits & training programs for the satellite industry. We accompany private companies & government entities in strategic decision making, providing end‑to‑end consulting services, from project strategy definition to implementation, bringing data‑led perspectives on the most critical issues. We help our clients understand their business environment & provide them with the tools they need to make informed decisions & develop their business.
 
 **Four complementary activities.** The uniqueness of our business model is based on synergies created by the complementarity of our four activities. Each activity increases our market knowledge and expertise and extends our network of key decision makers while at the same time maintaining a respect for client confidentiality.
 

@@ -46,7 +46,7 @@ A **spaceport** or **cosmodrome** is a site for [launching](lv.md) (or receiving
 |**Korea North**|**Active**|[Sohae](sohae.md)|4 900|39°39′36″N 124°42′18″E|
 | |**Active**|[Tonghae](tonghae.md)|4 700|40°51′N 129°40′E|
 | | | | | |
-|**Korea South**|**Active**|[Naro](naro.md)|4 000|34°25′54.72″N 127°32′6.25″E|
+|**Korea S.**|**Active**|[Naro](naro.md)|4 000|34°25′54.72″N 127°32′6.25″E|
 | | | | | |
 |**Russia, CIS**|**Active**|[Baikonur](baikonur.md)|5 200|45°57′54″N 63°18′18″E|
 | |**Active**|[Dombarovsky (Yasny)](dombarovsky.md)|5 500|51°05′38″N 59°50′32″E|

@@ -22,15 +22,15 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Sinclair Interplanetary](zz_sinclair_ip.md)|
+|**Canada**|・[Globvision](zz_globvision.md)<br> ・[Honeywell Aerospace](zz_honeywell_as.md)<br> ・[MCSS Inc](zz_mcss_inc.md) — software, simulation<br> ・[MDA](zz_mda.md)<br> ・[NGC Aerospace](zz_ngc_as.md)<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[SE4](zz_se4.md) — AI & VR for robots<br> ・[Space Cubics](zz_spacecubics.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

@@ -21,15 +21,15 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Deltion](zz_deltion.md)|
+|**Canada**|・[Deltion](zz_deltion.md)<br> ・[MDA](zz_mda.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Meltin](zz_meltin.md) — avatar robots|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

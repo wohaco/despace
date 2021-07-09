@@ -42,9 +42,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Space Cubics](zz_spacecubics.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・[ИРЗ](zz_irz.md)<br> ・[ИСС](zz_iss_r.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・<http://www.spacemicro.com/products/digital-systems.html>|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

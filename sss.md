@@ -31,9 +31,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|…|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・[ГЕОХИ РАН](zz_geokhi_ras.md) — концепция ГЗУ, создание зондов.<br> ・[ИКИ РАН](zz_iki_ras.md)<br> ・КБ ОМ|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

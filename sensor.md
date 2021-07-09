@@ -33,15 +33,15 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|…|
+|**Canada**|・[GHGSat](zz_ghgsat.md) — gas sensors for Cubesats|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Meisei](zz_meisei.md) — spectrometers|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
@@ -63,9 +63,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Mitsubishi](zz_mitsubishi.md) — temperature sensors<br> ・[NEC](zz_nec.md)<br> ・[Sumitomo PP](zz_sumitomo_pp.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
@@ -108,9 +108,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Hamamatsu Photonics](zz_hamamatsu_phot.md)|
-|**Korea South**|・[Satrec Initiative](zz_satreci.md)|
+|**Korea S.**|・[Satrec Initiative](zz_satreci.md)|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
@@ -158,9 +158,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Meisei](zz_meisei.md) — spectrometers|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・[Спутникс](zz_sputnix.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
@@ -204,9 +204,9 @@ In typical sun sensors, a thin slit at the top of a rectangular chamber allows a
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Hamamatsu Photonics](zz_hamamatsu_phot.md)|
-|**Korea South**|・[Satrec Initiative](zz_satreci.md)|
+|**Korea S.**|・[Satrec Initiative](zz_satreci.md)|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

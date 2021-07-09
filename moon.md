@@ -24,7 +24,7 @@
 |**Orbits:**|• • •|
 |[Apocentre](apopericentre.md) (Apogee);<br> [Pericentre](apopericentre.md) (Perigee)|405 696 ㎞ (404 000 ‑ 406 700 ㎞);<br> 363 104 ㎞ (356 400 ‑ 370 400 ㎞)|
 |[Argument of periapsis](keplerian.md) (ω)|Progressing by one revolution in 8.85 years|
-|Day/year|14 d 18 h (29.5306 d or 708.7344 h) / … Earth’s|
+|Day/year|14 d 18 h (29.530 6 d or 708.734 4 h) / … Earth’s|
 |[Eccentricity](keplerian.md) (e)|0.054 9 (average)|
 |[Hill sphere](hill_sphere.md)|66 000 ㎞|
 |[Inclination](keplerian.md) (Ⅰ)|5.145° (to ecliptic)|
@@ -204,6 +204,7 @@ The above results allow us to conclude that the study of the lunar soil & stones
 **Lander:**
 
    - **Constraints:**
+      1. Common [external factors](ef.md).
       1. **Do not forget maskons.** Through, the lunar gravity is ⅙ of Earth’s.
       1. **Almost no atmosphere.**
       1. **Lack of the Sun.** Completely no sunlight for a couple of Earth days or weeks. Thus, no solar power, low temperature, & significant temperature range during the day‑night change.
@@ -231,14 +232,7 @@ The above results allow us to conclude that the study of the lunar soil & stones
       1. Thick man‑made constructions
       1. Thin structures covered in the lunar soil
 
-**Effects of Lunar conditions to Earthlings** by Low gravity, Radiation, Isolation, Working in a small group, Small & sealed rooms, Not seeing Earth:
-
-   - Behavioural
-   - Cognitive
-   - Neurological
-   - Physiological
-   - Psychological
-   - Sociological
+**Effects of Lunar conditions to Earthlings** by Low gravity, Radiation, Isolation, Working in a small group, Small & sealed rooms, Not seeing Earth — Behavioural ・ Cognitive ・ Neurological ・ Physiological ・ Psychological ・ Sociological.
 
 Required [average ΔV](nnb.md):
 

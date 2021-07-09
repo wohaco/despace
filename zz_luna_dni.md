@@ -1,14 +1,14 @@
 # Luna D&I
 > 2020.01.30 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/l/lunadni_logo1_thumb.png)](f/con/l/lunadni_logo1.png)|<andrea@lunainnovates.com>, +1(647)675-66-59, Fax: …;<br> *…, Toronto, ON, Canada.*|
+|[![](f/con/l/lunadni_logo1_thumb.png)](f/con/l/lunadni_logo1.png)|<andrea@lunainnovates.com>, +1(647)675-66-59, Fax: …;<br> *…, Toronto, ON, Canada*|
 |:--|:--|
 |Link|<https://www.lunainnovates.com/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**Business**|Launch & support for experiments in space|
+|**[Manage-<br>ment](mgmt.md)**|・CEO — Andrea Yip|
 
 **Luna Design & Innovation** — канадская компания, занимающаяся организацией и поддержкой биологических экспериментов в космосе. Основана в 2019 году Andrea Yip.
 

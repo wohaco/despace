@@ -22,9 +22,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Mitsubishi Electric](zz_mitsubishi.md)<br> ・[Sumitomo PP](zz_sumitomo_pp.md) — heat exchangers|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

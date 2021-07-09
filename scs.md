@@ -100,15 +100,15 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations|
+|**Canada**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations<br> ・[Honeywell Aerospace](zz_honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](zz_mda.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|…|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
@@ -279,15 +279,15 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|…|
+|**Canada**|・[MDA](zz_mda.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Infostellar](zz_infostellar.md) — space communication infrastructure, 10+ UHF/S/X antennas<br> ・[Kratos IS](zz_kratos.md) — R&D ground antennas, optimizing/managing satelllites, signals<br> ・[Mitsubishi Elecric](zz_mitsubishi.md) — ground control stations for satellite tracking, & optical/radio telescopes for astronomical observation, antennas, transmitters & receivers<br> ・[RESTEC](zz_restec.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・[ОКБ МЭИ](zz_okbmei.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

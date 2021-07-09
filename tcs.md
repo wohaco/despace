@@ -74,9 +74,9 @@ Usually includes:
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Sumitomo PP](zz_sumitomo_pp.md) — heat exchangers & control systems|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・СОТР КА производят все, кто производит КА ([ВНИИЭМ](zz_vniiem.md), [ИСС](zz_iss_r.md), [LAV](zz_lav.md) и т.д.)<br> ・СОТР СЧ КА производят все, кто производит бортовую аппаратуру<br> ・[НИИ ТП](zz_niitp.md) — тепловые аккумуляторы<br> ・[НИИЯФ МГУ](zz_ниияф_мгу.md) — РИТ, РИТЭГ|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

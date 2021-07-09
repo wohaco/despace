@@ -34,9 +34,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|…|
-|**Korea South**|・[Satrec Initiative](zz_satreci.md)|
+|**Korea S.**|・[Satrec Initiative](zz_satreci.md)|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

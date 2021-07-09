@@ -38,15 +38,15 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[ADGA](zz_adga.md) — space systems engineering<br> ・[AQST Canada](zz_aqst_ca.md)<br> ・[BRASS](zz_brass.md) — design consultancy<br> ・[C-CORE](zz_c_core.md) — technology consultancy<br> ・[Canadensys](zz_canadensys.md)|
+|**Canada**|・[ADGA](zz_adga.md) — space systems engineering<br> ・[AQST Canada](zz_aqst_ca.md)<br> ・[BRASS](zz_brass.md) — design consultancy<br> ・[C-CORE](zz_c_core.md) — technology consultancy<br> ・[Canadensys](zz_canadensys.md)<br> ・[Magellan Aerospace](zz_magellan_as.md)<br> ・[MDA](zz_mda.md) — Earth sats<br> ・[MSCI](zz_msci.md)<br> ・[SatCan](zz_satcan.md) — engineering & business consultancy for sat telecom & space tech sectors|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[ALE Co., Ltd](zz_ale.md) — small Earth satellites<br> ・[Astroscale](zz_astroscale.md) — space debris<br> ・[Axelspace](zz_axelspace.md) — microsats<br> ・[CE Space](zz_ce_space.md) — microsats<br> ・[ispace](zz_ispace.md)<br> ・[JAMSS](zz_jamss.md) — Earth sats<br> ・JAXA [ISAS](zz_isas.md)<br> ・JAXA [Tsukuba Space Center](zz_tsukuba_sc.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md)<br> ・[Meisei](zz_meisei.md) — microsats<br> ・[Mitsubishi Electric](zz_mitsubishi.md)<br> ・[NEC](zz_nec.md)<br> ・[PDAS](zz_pd_aerospace.md) — suborbital spaceplane for tourism<br> ・[SKY Perfect JSAT](zz_sky_perfect_jsat.md)<br> ・[Space Walker](zz_space_walker.md) — suborbital spaceplane for tourism<br> ・[Synspective](zz_synspective.md) — small Earth sats<br> ・[Warpspace](zz_warpspace.md)|
-|**Korea South**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Satrec Initiative](zz_satreci.md)|
+|**Korea S.**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Satrec Initiative](zz_satreci.md)|
 |**Russia**|・Lavochkin Association<br> ・[VNIIEM](zz_vniiem.md)<br> ・[РКК Энергия](ркк_энергия.md)<br> ・[AvantSpace](zz_avantspace.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|・[Ball A&T](zz_ball_at.md)<br> ・[Xplore](zz_xplore.md)|
 |**UAE**|…|
@@ -72,18 +72,17 @@
    - **Многоразовая космическая транспортная система (МКТС, МТКС)** — *Reusable space transport system* — разновидность МКА.
    - **Многоразовый космический аппарат (МКА)**, иногда *«космический аппарат многоразового использования»* — *Re‑entry space vehicle* — КА, конструкция которого предусматривает повторное использование КА или его СЧ после возвращения из космического полёта.
    - **Модуль** — в некоторой степени автономная составная часть КА.
-   - **Пилотируемый космический аппарат (ПКА)** — manned spacecraft (MSC) — КА для путешествия живых существ в космос.
+   - **Пилотируемый космический аппарат (ПКА)** — manned spacecraft (MSC) — КА для живых существ в космосе.
    - **Спутник**.
 
-|*Classification*| |
-|:--|:--|
-|1. **Atmospheric** spacecraft<br> (атмосферный КА) |1. Balloon — ➀ high‑height, ➁ low‑height, ➂ powered, ➃ simple, ➄ variable altitude<br> 2. Communications atmospheric spacecraft (КА для связи)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable|
-|2. **Base**<br> (база)|1. Ground<br> 2. Orbital|
-|3. **Lander** spacecraft<br> (посадочный КА)|1. Communications lander (КА для связи)<br> 2. Penetrator (КА‑пенетратор)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable<br> 4. Rover (планетоход)|
-|4. **Orbiter** spacecraft,<br> or **Satellite**<br> (орбитальный КА)|1. [Communications orbiter](sc_comm.md) (КА для связи) — ➀ high‑height, ➁ L1/L2, ➂ low‑height<br> 2. Fly‑by spacecraft (пролётный КА)<br> 3. Observatory (КА‑обсерватория) — ➀ high‑height, ➁ L1/L2, ➂ low‑height|
-|5. **Robot**|1. Arm<br> 2. Antropomorphic<br> 3. Digger|
-|6. **Other** that is<br> applicable to almost<br> any of the above mentioned|1. Manned — ➀ manned, ➁ unmanned<br> 2. Size — ➀ large, ➁ medium, ➂ micro, ➃ nano, ➄ small<br> 3. Swarm — ➀ net, ➁ single|
-
+| |*Classification*| |
+|:--|:--|:--|
+|1|**Atmospheric**<br> (атмосферный КА) |1. Balloon — ➀ high‑height, ➁ low‑height, ➂ powered, ➃ simple, ➄ variable altitude<br> 2. Communications atmospheric spacecraft (КА для связи)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable|
+|2|**Base**<br> (база)|1. Ground<br> 2. Orbital|
+|3|**Lander**<br> (посадочный КА)|1. Communications lander (КА для связи)<br> 2. Penetrator (КА‑пенетратор)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable<br> 4. Rover (планетоход)|
+|4|**Orbiter / Satellite**<br> (орбитальный КА)|1. [Communications orbiter](sc_comm.md) (КА для связи) — ➀ high‑height, ➁ L1/L2, ➂ low‑height<br> 2. Fly‑by spacecraft (пролётный КА)<br> 3. Observatory (КА‑обсерватория) — ➀ high‑height, ➁ L1/L2, ➂ low‑height|
+|5|**Robot**|1. Arm<br> 2. Antropomorphic<br> 3. Digger|
+|6|**Other** (applicable<br> to almost any of the<br> above mentioned)|1. Manned — ➀ manned, ➁ unmanned<br> 2. Size — ➀ large, ➁ medium, ➂ micro, ➃ nano, ➄ small<br> 3. Swarm — ➀ net, ➁ single|
 
 
 ## Подвиды
@@ -114,15 +113,15 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[AlbertaSat](zz_albertasat.md)<br> ・[DSS](zz_dsslabs.md)<br> ・[SFL](zz_utias_sfl.md)|
+|**Canada**|・[AlbertaSat](zz_albertasat.md)<br> ・[Kepler Communications](zz_kepler_comms.md)<br> ・[DSS](zz_dsslabs.md)<br> ・[SFL](zz_utias_sfl.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|…|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・[AvantSpace](zz_avantspace.md)<br> ・[Спутникс](zz_sputnix.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
@@ -154,9 +153,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[JAXA](zz_jaxa.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・[РКК Энергия](ркк_энергия.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|・[Blue Origin](blue_origin.md)<br> ・[Boeing](zz_boeing.md)<br> ・[Lockheed Martin](lockheed_martin.md)<br> ・[SpaceX](zz_spacex.md) — [Dragon](dragon.md)|
 |**UAE**|…|

@@ -91,9 +91,9 @@ Solar cells are manufactured in volume in Japan, Germany, China, Taiwan, Malaysi
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Mitsubishi](zz_mitsubishi.md)<br> ・[NEC](zz_nec.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・[PAO Saturn](zz_pao_saturn.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

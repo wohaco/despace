@@ -72,9 +72,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[Meisei](zz_meisei.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|・SPS of an SC is produced by everyone who produces SC ([VNIIEM](zz_vniiem.md), [ISS](zz_iss_r.md), [LAV](zz_lav.md), etc.)<br> ・SPS sub‑item — see the corresponding sub‑item from the list above<br> ・[AVEKS](zz_aveks.md)|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

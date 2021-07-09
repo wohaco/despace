@@ -116,9 +116,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[IMV](zz_imv_corp.md)<br> ・[Mitsubishi](zz_mitsubishi.md) — Rocket Engine Combustion Test Facility<br> ・[Pale Blue Inc.](zz_pale_blue_inc.md)|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

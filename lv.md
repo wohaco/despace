@@ -27,15 +27,15 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[C6 Launch](zz_c6_launch.md) — for small sats<br> ・[Columbiad](zz_columbiad.md)|
+|**Canada**|・[C6 Launch](zz_c6_launch.md) — for small sats<br> ・[Columbiad](zz_columbiad.md)<br> ・[MLS](zz_mls.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|…|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
@@ -170,9 +170,9 @@
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[IHI](zz_ihi.md)<br> ・[Interstellar Technologies](zz_interstellar_tech.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md) — fairings<br> ・[Mitsubishi HVI](zz_mitsubishi.md)|
-|**Korea South**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Perigee Aerospace](zz_perigee_as.md) — small suborbital LV|
+|**Korea S.**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Perigee Aerospace](zz_perigee_as.md) — small suborbital LV|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|

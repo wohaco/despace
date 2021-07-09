@@ -73,17 +73,17 @@ Programs and technologies:
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Baryon Dynamics](zz_baryon_dyn.md) — mostly for CubeSats|
+|**Canada**|・[Baryon Dynamics](zz_baryon_dyn.md) — mostly for CubeSats<br> ・[Pratt & Whitney](zz_pratt_n_whitney.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
 |**Japan**|・[IHI](zz_ihi.md)<br> ・JAXA [Kakuda Space Center](zz_kakuda_sc.md)<br> ・JAXA [Noshiro Rocket Testing Center](zz_noshiro_rtc.md)<br> ・[Pale Blue Inc.](zz_pale_blue_inc.md) — PS for small sats<br> ・[Warpspace](zz_warpspace.md) — ion engines|
-|**Korea South**|・[Hanwha](zz_hanwha.md)<br> ・[INNOSPACE](zz_innospace.md)<br> ・[Satrec Initiative](zz_satreci.md)|
+|**Korea S.**|・[Hanwha](zz_hanwha.md)<br> ・[INNOSPACE](zz_innospace.md)<br> ・[Satrec Initiative](zz_satreci.md)|
 |**Russia**|・ДУ КА производят все, кто производит КА ([ВНИИЭМ](zz_vniiem.md), [ИСС](zz_iss_r.md), [LAV](zz_lav.md) и т.д.)<br> ・[КБХМ](zz_kbhm.md) — двигатели, клапаны<br> ・[НИИМАШ](zz_niimash.md) — двигатели, клапаны<br> ・[НИИФИ](zz_niifi.md) — датчики<br> ・[НПО ИТ](zz_npoit.md) — сигнализаторы уровня<br> ・[РКЦ Процесс](zz_progress_rsc.md) — клапаны<br> ・[РНЦ ПХ](zz_rsc_ac.md) — топливо, покрытия<br> ・[Сафит](zz_safit.md) — баллоны<br> ・[ОКБ Факел](zz_edb_fakel.md) — двигатели, клапаны|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
-|**USA**|・[Blue Origin](blue_origin.md) — двигатели, агрегаты<br> ・[Moog inc](zz_moog_inc.md) — двигатели, агрегаты<br> ・[SpaceX](zz_spacex.md) — двигатели, агрегаты|
+|**USA**|・[Blue Origin](blue_origin.md) — двигатели, агрегаты<br> ・[Moog inc](zz_moog_inc.md) — двигатели, агрегаты<br> ・[Pratt & Whitney](zz_pratt_n_whitney.md)<br> ・[SpaceX](zz_spacex.md) — двигатели, агрегаты|
 |**UAE**|…|
 |**Vietnam**|…|
 

@@ -5,21 +5,25 @@
 
 ---
 
-> <small>• **External conditions** — EN term. **Внешние условия (ВУ)** — RU analogue.<br> ・**External factors (EF)** — EN term. **Внешние воздействующие факторы (ВВФ)** — RU analogue.</small>
+> <small>・**External conditions** — EN term. **Внешние условия (ВУ)** — RU analogue.<br> ・**External factors (EF)** — EN term. **Внешние воздействующие факторы (ВВФ)** — RU analogue.</small>
 
 **External factors (EF)** — mechanical, climatical, biological factors, ionizing radiation, outer environment during the operations, including such as:
 
-   1. acoustic
-   1. atmosphere
-   1. dust
-   1. [EMI](emi.md)
-   1. [illumination](illum.md)
-   1. [magnetic field](mag_field.md)
-   1. [meteorites](aob.md)
-   1. overloads
-   1. [radiation](ion_rad.md)
-   1. vacuum and pressure
-   1. [vibration and shocks](vibration.md)
+   - Acoustic
+   - Atmosphere & Winds
+   - Dust
+   - Electric discharges
+   - [EMI](emi.md)
+   - [Illumination](illum.md)
+   - Liquids
+   - [Magnetic field](mag_field.md)
+   - [Meteorites](aob.md)
+   - Overloads
+   - [Radiation](ion_rad.md)
+   - Surface roughness
+   - [Thermal](tcs.md)
+   - Vacuum & Pressure
+   - [Vibration & Shocks](vibration.md)
 
 
 
@@ -30,6 +34,6 @@
 |*Sections & pages*|
 |**··• [External factors (EF)](ef.md) •··**<br> [Astro.object](aob.md)・ [Atmosphere](atmosphere.md)・ [Atmosphere of Earth](earth.md)・ [Cosmic rays](cr.md)・ [EMI](emi.md)・ [Grav.waves](gravwave.md)・ [Ion.radiation](ion_rad.md)・ [Radio frequency](rf.md)・ [Solar phenomena](solar_ph.md)・ [Space debris](sdeb.md)・ [Standart conditions](sctp.md)・ [Time](time.md)・ [VA radiation belts](varb.md)|
 
-   1. Docs: …
-   1. Notable interwikies — …
-   1. <…>
+   - Docs: …
+   - Notable interwikies — …
+   - <…>

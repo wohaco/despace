@@ -5,7 +5,7 @@
 
 ---
 
-> <small>• **Anechoic chamber (ACH)** — EN term. **Безэховая камера (БЭК)** — RU analogue.<br> ・**Anechoic gas chamber (ACHG)** — EN term. **Безэховая газовая камера (БЭКГ)** — RU analogue.</small>
+> <small>・**Anechoic chamber (ACH)** — EN term. **Безэховая камера (БЭК)** — RU analogue.<br> ・**Anechoic gas chamber (ACHG)** — EN term. **Безэховая газовая камера (БЭКГ)** — RU analogue.</small>
 
 **Anechoic chamber (ACH)** (an‑echoic meaning “non‑reflective, non‑echoing, echo‑free”) is a room designed to completely absorb reflections of either sound or electromagnetic waves.
 

@@ -42,9 +42,9 @@ The division of cells into galvanic and accumulators is somewhat arbitrary, sinc
 |**India**|…|
 |**Israel**|…|
 |**Japan**|…|
-|**Korea South**|…|
+|**Korea S.**|…|
 |**Russia**|…|
-|**Saudi Arabia**|…|
+|**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|…|
 |**UAE**|…|
