@@ -1,14 +1,13 @@
 # SkyWatch
 > 2019.08.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/skywatch_logo1_thumb.png)](f/con/s/skywatch_logo1.png)|<info@skywatch.com>, +1(888)882-82-32 , Fax: …;<br> *14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*|
+|[![](f/con/s/skywatch_logo1_thumb.png)](f/con/s/skywatch_logo1.png)|<info@skywatch.com>, +1(833)711-2090 , Fax: …;<br> *14 Erb St. Westm, Waterloo, ON, N2L1S7, Canada*<br> 【<https://www.skywatch.com/>】|
 |:--|:--|
-|Link|<https://www.skywatch.com/>|
-|**Mission**|…|
+|**Mission**|To make satellite data accessible to the world|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**Business**|Providing commercial satellite imagery|
+|**[MGMT](mgmt.md)**|…|
 
 **SkyWatch** provides a digital infrastructure for the distribution of Earth observation data & derived intelligence. EarthCache™ is a single access point to data & advanced processing algorithms for application developers.
 

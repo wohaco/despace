@@ -1,14 +1,13 @@
 # KAIST
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/k/kaist_logo1_thumb.jpg)](f/con/k/kaist_logo1.png)|<mark>noemail</mark>, +82-42-350-2114, Fax: +82-42-350-2210(2220);<br> *291 Daehak-ro, Eoeun-dong, Yuseong-gu, Daejeon, Korea*|
+|[![](f/con/k/kaist_logo1_thumb.jpg)](f/con/k/kaist_logo1.png)|<mark>noemail</mark>, +82-42-350-2114, Fax: +82-42-350-2210(2220);<br> *291 Daehak-ro, Eoeun-dong, Yuseong-gu, Daejeon, Korea*<br> 【<https://www.kaist.ac.kr/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/KAIST)・ [LinkeIn 1 ⎆](https://www.linkedin.com/school/한국과학기술원-kaist-/)・ [LinkeIn 2 ⎆](https://www.linkedin.com/company/korea-advanced-institute-of-science-and-technology/)|
 |:--|:--|
-|Link|<https://www.kaist.ac.kr/>・ <https://en.wikipedia.org/wiki/KAIST>・ <https://www.linkedin.com/school/한국과학기술원-kaist-/>・ <https://www.linkedin.com/company/korea-advanced-institute-of-science-and-technology/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **KAIST** (formally the **Korea Advanced Institute of Science & Technology**) is a national research university located in Daedeok Innopolis, Daejeon, South Korea.
 

@@ -47,7 +47,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[C-CORE](zz_c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[MDA](zz_mda.md) — manufacturing & testing antennas & electronics|
+|**Canada**|・[C-CORE](zz_c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[Calian AT](zz_calian_at.md) — frequency planning, sat resource management, satellite modulators<br> ・[MDA](zz_mda.md) — manufacturing & testing antennas & electronics<br> ・[Telesat](zz_telesat.md) — satellite communications & integration services, satellite operator|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

@@ -1,14 +1,13 @@
 # SpaceX
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/spacex_logo1_thumb.jpg)](f/con/s/spacex_logo1.png)|<sales@spacex.com>, +7(310)363-60-00, Fax: …;<br> *1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*|
+|[![](f/con/s/spacex_logo1_thumb.jpg)](f/con/s/spacex_logo1.png)|<sales@spacex.com>, +7(310)363-60-00, Fax: …;<br> *1030 15th Street N.W., Suite 220E, Washington, DC 20005-1503, USA*<br> 【<http://www.spacex.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/SpaceX)・ [Facebook ⎆](https://www.facebook.com/SpaceX)・ [Twitter ⎆](https://twitter.com/spacex)・ [Instagram ⎆](https://www.instagram.com/spacex)】|
 |:--|:--|
-|Link|<http://www.spacex.com/>・ <https://en.wikipedia.org/wiki/SpaceX>・ <https://ru.wikipedia.org/wiki/SpaceX>・ <https://www.facebook.com/SpaceX>・ <https://twitter.com/spacex>・ <http://www.youtube.com/spacex>・ <http://www.flickr.com/spacexphotos>・ <http://www.instagram.com/spacex>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Space Exploration Technologies Corporation** (**SpaceX**, произносится **«Спэйс‑Экс»**) — американская компания, производитель космической техники со штаб‑квартирой в городе Хоторн, Калифорния, США. Компания основана в 2002 году.
 

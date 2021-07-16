@@ -1,14 +1,13 @@
 # BSIP
 > 2019.08.11 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/b/bsip_logo1_thumb.jpg)](f/con/b/bsip_logo1.png)|<director@bsip.res.in>, +91(522)274-00-11, Fax: +91(0522)274-04-85;<br> *53, University Road, Lucknow, Uttar Pradesh 226007, India*|
+|[![](f/con/b/bsip_logo1_thumb.jpg)](f/con/b/bsip_logo1.png)|<director@bsip.res.in>, +91(522)274-00-11, Fax: +91(0522)274-04-85;<br> *53, University Road, Lucknow, Uttar Pradesh 226007, India*<br> 【<http://www.bsip.res.in/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Birbal_Sahni_Institute_of_Palaeobotany)】|
 |:--|:--|
-|Link|<http://www.bsip.res.in/>・ <https://en.wikipedia.org/wiki/Birbal_Sahni_Institute_of_Palaeobotany>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **The Birbal Sahni Institute of Palaeobotany (BSIP)** is an autonomous institute constituted under the Department of Science & Technology, Government of India. The Institute is a seat of higher learning in the field of plant fossil research; established in the 1946. The main objectives of the Institute are set as:
 

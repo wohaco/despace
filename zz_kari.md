@@ -1,14 +1,13 @@
 # KARI
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/k/kari_logo1_thumb.jpg)](f/con/k/kari_logo1.png)|<mark>noemail</mark>, 042-860-2114, Fax: …;<br> *KARI, 169-84, Gwahak-ro, Yusong-gu, Daejeon*|
+|[![](f/con/k/kari_logo1_thumb.jpg)](f/con/k/kari_logo1.png)|<mark>noemail</mark>, 042-860-2114, Fax: …;<br> *KARI, 169-84, Gwahak-ro, Yusong-gu, Daejeon*<br> 【<http://www.kari.re.kr/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute)・ [LinkedIn ⎆](https://www.linkedin.com/company/kari/)】|
 |:--|:--|
-|Link|<http://www.kari.re.kr/>・ <https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute>・ <https://www.linkedin.com/company/kari/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **Korea Aerospace Research Institute (KARI)** established 1989.10.10, is the aeronautics & space agency of South Korea.
 

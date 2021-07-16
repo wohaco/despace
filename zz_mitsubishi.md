@@ -1,14 +1,13 @@
 # Mitsubishi
 > 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/m/mitsubishi_logo1_thumb.png)](f/con/m/mitsubishi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
+|[![](f/con/m/mitsubishi_logo1_thumb.png)](f/con/m/mitsubishi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<http://www.mitsubishielectric.com/bu/space/>・ <https://www.mhi.com/products/space> ・ [LinkeIn 1 ⎆](https://www.linkedin.com/company/mitsubishielectric/)・ [LinkeIn 2 ⎆](https://www.linkedin.com/company/mitsubishi-heavy-industries/)】|
 |:--|:--|
-|Link|<http://www.mitsubishielectric.com/bu/space/>・ <https://www.mhi.com/products/space>・ <https://www.linkedin.com/company/mitsubishielectric/>・ <https://www.linkedin.com/company/mitsubishi-heavy-industries/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Mitsubishi Electric (MELCO)** is a international space development & satellite construction company. Its *Space Division* has participated in high‑performance payloads & bus components in multiple world sat programs. MELCO is Japan’s only manufacturer with integrated capabilities covering the entire process from development & design to assembly & testing. Services & products of our near‑Earth sat programs: Ground Systems, Sat Platform DS2000, Sat Programs, Sat Communications, Sat Components.
 

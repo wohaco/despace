@@ -1,14 +1,13 @@
 # ALPO
 > 2019.10.29 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/a/alpo_logo1_thumb.jpg)](f/con/a/alpo_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Springfield, Illinois, US and worldwide*|
+|[![](f/con/a/alpo_logo1_thumb.jpg)](f/con/a/alpo_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Springfield, Illinois, US and worldwide*<br> 【<http://www.alpo-astronomy.org/>・ <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — ALPO Japan ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Association_of_Lunar_and_Planetary_Observers)】|
 |:--|:--|
-|Link|<https://en.wikipedia.org/wiki/Association_of_Lunar_and_Planetary_Observers>・ <http://www.alpo-astronomy.org/>・ <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — ALPO Japan|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **Association of Lunar and Planetary Observers** (**ALPO** or **A.L.P.O.**) is an international scientific and educational organization established in March, 1947 in the United States by Walter H. Haas, and later incorporated in 1990. ALPO is an organization for advancing and conducting astronomical work by both professional and amateur astronomers who share an interest in solar system observations.
 

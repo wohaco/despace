@@ -1,14 +1,13 @@
 # SWRI
 > 2019.08.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/swri_logo1_thumb.jpg)](f/con/s/swri_logo1.png)|<mark>noemail</mark>, +1(210)684-51-11, Fax: …;<br> *6220 Culebra Road, San Antonio, TX 78238-5166, USA*|
+|[![](f/con/s/swri_logo1_thumb.jpg)](f/con/s/swri_logo1.png)|<mark>noemail</mark>, +1(210)684-51-11, Fax: …;<br> *6220 Culebra Road, San Antonio, TX 78238-5166, USA*<br> 【<https://www.swri.org/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Southwest_Research_Institute)】|
 |:--|:--|
-|Link|<https://www.swri.org/>・ <https://en.wikipedia.org/wiki/Southwest_Research_Institute>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Southwest Research Institute (SwRI)**, headquartered in San Antonio, Texas, is one of the oldest & largest independent, [nonprofit](nonprof_org.md), applied research & development (R&D) organizations in the United States. Founded in 1947 by oil businessman Thomas Slick, Jr., SwRI provides contract research & development services to government & industrial clients.
 

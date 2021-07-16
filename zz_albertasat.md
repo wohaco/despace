@@ -1,14 +1,13 @@
 # AlbertaSat
 > 2020.06.28 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con//_logo1_thumb.jpg)](f/con//_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*|
+|[![](f/con//_logo1_thumb.jpg)](f/con//_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://www.albertasat.ca/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/albertasat/)・ [Twitter ⎆](https://twitter.com/albertasat)・ [Instagram ⎆](https://www.instagram.com/alberta_sat/)】|
 |:--|:--|
-|Link|<http://www.albertasat.ca/>・ <https://www.linkedin.com/company/albertasat/>・ <https://twitter.com/albertasat>・ <https://www.instagram.com/alberta_sat/>|
 |**Mission**|To build a better future through the development of space technology. We believe that this will allow Alberta to augment many aspects of Albertan industry & society, & move towards a province capable of contributing to a worldwide push for global peace, prosperity & expansion into the solar system.|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|[CubeSats](sc.md) R&D. Student society|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **AlbertaSat** is made up of close to 50 undergraduate & graduate students who work with the assistance of several faculty advisors at the University of Alberta. We represent a large range of backgrounds & capabilities with a common goal of a better future for humanity. We are human beings looking for a brighter tomorrow — a tomorrow that exists with the journey of humanity to the stars.
 

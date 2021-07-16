@@ -1,14 +1,13 @@
 # Meisei
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/m/meisei_logo1_thumb.jpg)](f/con/m/meisei_logo1.png)|<aerospace@meisei.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2223 Naganumamachi, Isesaki-shi, Gunma 372-8585, Japan*|
+|[![](f/con/m/meisei_logo1_thumb.jpg)](f/con/m/meisei_logo1.png)|<aerospace@meisei.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2223 Naganumamachi, Isesaki-shi, Gunma 372-8585, Japan*<br> 【<http://www.meisei.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/meisei/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/meisei-electric/about/)】|
 |:--|:--|
-|Link|<http://www.meisei.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/meisei/>・ <https://www.linkedin.com/company/meisei-electric/about/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Meisei Electric**, based on disaster prevention, environmental measurement, & information technology, Meisei strives to offer the best value added solutions for the needs of a world market. Meisei Electric has developed & manufactured more than 3 000 space‑related instruments since 1950’s. Meisei Electric can provide all kinds of satellite components, such as “Mission Equipment” & “Bus Components”. We are developing [CubeSat, Nano Satellites, & Micro Satellites](sc.md) as well.
 

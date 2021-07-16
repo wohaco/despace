@@ -1,14 +1,13 @@
 # Space Walker
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/spacewalker_logo1_thumb.jpg)](f/con/s/spacewalker_logo1.png)|<yasuda@space-walker.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *〒105-0004 3-chome 16-12 Shinbashi, Minato-ku, Tokyo, Japan*|
+|[![](f/con/s/spacewalker_logo1_thumb.jpg)](f/con/s/spacewalker_logo1.png)|<yasuda@space-walker.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *〒105-0004 3-chome 16-12 Shinbashi, Minato-ku, Tokyo, Japan*<br> 【<https://space-walker.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/spacewalker/>】|
 |:--|:--|
-|Link|<https://space-walker.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/spacewalker/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|SW realizes a future for everyone to enjoy space flight like an airplane. “Space travel in no longer a dream.” As the first step, SW designs & develops Reusable suborbital winged space planes & provides Services for Scientific Research such as Astronomical Observation & Microgravity Research. SW plans to launch a suborbital spaceplane for Scientific Research in 2022, for small Satellite Launch in 2024 & for Space tourism in 2027.|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **SPACE WALKER Inc. (SW)** is a Japanese university start‑up aiming at manned & unmanned [suborbital spaceplanes](sc.md). Management team has various backgrounds & experience. Founded 2017.12.25.
 

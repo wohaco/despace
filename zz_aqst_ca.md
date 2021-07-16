@@ -1,14 +1,13 @@
 # AQST Canada Inc.
 > 2021.04.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/a/aqst_ca_logo1_thumb.jpg)](f/con/a/aqst_ca_logo1.png)|<info@aqst-space.ca>, +1-450-500-5700, Fax: …;<br> *300 Joseph Carrier,Vaudreuil-Dorion, Québec, Canada J7V 9M4, CA*|
+|[![](f/con/a/aqst_ca_logo1_thumb.jpg)](f/con/a/aqst_ca_logo1.png)|<info@aqst-space.ca>, +1-450-500-5700, Fax: …;<br> *300 Joseph Carrier,Vaudreuil-Dorion, Québec, Canada J7V 9M4, CA*<br> 【<https://www.aqst-space.ca/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/aqstcompany)・ [space-tech.aerospacedefensereview.com ⎆](https://space-tech.aerospacedefensereview.com/vendor/advanced-quantum-scientific-technology-aqst-delivering-innovative-space-engineering-solutions-cid-25-mid-5.html)】|
 |:--|:--|
-|Link|<https://www.aqst-space.ca/>・ <https://www.linkedin.com/company/aqstcompany><br> [space-tech.aerospacedefensereview.com ⎆](https://space-tech.aerospacedefensereview.com/vendor/advanced-quantum-scientific-technology-aqst-delivering-innovative-space-engineering-solutions-cid-25-mid-5.html)|
 |**Mission**|…|
 |**Vision**|To provide innovative business opportunities with disruptive technological developments, for present & future humankind.|
 |**Values**|…|
 |**Business**|・Contract R&D<br> ・Engineering consultants<br> ・Ground receiving stations & components<br> ・Industrial benefits consultants<br> ・Remote sensing equipment<br> ・Satellite launch consultants<br> ・Satellites, satellite systems & components<br> ・Sounding rockets<br> ・Technical illustration & drafting<br> ・Technical writing & editing<br> ・Unmanned vehicles|
-|**[Manage-<br>ment](mgmt.md)**|・CEO — Gurvinder Chohan<br> ・Director of Operations — Sunny Chohan|
+|**[MGMT](mgmt.md)**|・CEO — Gurvinder Chohan<br> ・Director of Operations — Sunny Chohan|
 
 **Advanced Quantum Scientific Technology (AQST) Canada Inc.** — [a member of AIAC ⎆](https://aiac.ca/members/aqst-canada-inc/) — provides advanced space engineering solutions that integrate an innovative proprietary portfolio of sat technologies & disruptive business solutions to support the domestic & international market through telecomms, IoT, data science, & additive manufacturing from our facilities in Canada. Though a start‑up, AQST possesses proven intellectual property & ready‑to‑build designs for space solutions, incl. commercial communication sats, propulsion systems, les & unmanned orbital spacecraft. **AQST** is an industry veteran with years of experience in Space industry. The senior management team includes executives with in‑depth international experience in space, aerospace, logistics, security & risk management. **AQST** is a global company offering multiple proprietary space & propulsion systems technologies, materials & services solutions to develop the most innovative space engineering solutions to solve the most critical challenges. [Founded ⎆](https://www.canadacompanyregistry.com/companies/aqst-canada-inc/) 2019.06.15.
 

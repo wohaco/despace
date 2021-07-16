@@ -29,7 +29,7 @@
    - Инженер программного обеспечения и активный участник исследования космоса. Он наиболее известен работой в сфере сжатия данных в качестве автора функции контрольной суммы Adler-32 и соавтора библиотеки zlib и утилиты gzip. Он вносил вклад в Info-ZIP и участвовал в разработке формата изображений PNG. Был архитектором исследовательских программ Марса в JPL с 1996 по 1998 годы, в результате чего стал нести ответственность за планирование исследовательских миссий с 2001 года и решение внутренних инженерных проблем, возникающих во время полётов и разработки проектов. Адлер также был менеджером миссии марсохода «Спирит» в программе Mars Exploration Rover. Разработал [УЗК](cml.md) ([CML](cml.md)).
    - **SC/Equip.:** 1997 [Cassini Huygens](cassini_huygens.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/mark.adler)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/mark-adler-6770412)・ [Twitter ⎆](https://twitter.com/madler)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/mark.adler)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/mark-adler-6770412)・ [Twitter ⎆](https://twitter.com/madler)
    - <https://en.wikipedia.org/wiki/Mark_Adler>
    - <https://ru.wikipedia.org/wiki/Адлер,_Марк>
    - <https://www.quora.com/profile/Mark-Adler-5>
@@ -55,7 +55,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Arif_Ansari>
    - <https://scholar.google.co.in/citations?:user=_U4h0VkAAAAJ&hl=en>
    - **As a person:**
@@ -97,7 +97,7 @@
    - Research interests: planetology (Mars, Vanus, etc).
    - **SC/Equip.:** … [EnVision](envision.md), Mars Express
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/veronique-ansan-394544a3/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/veronique-ansan-394544a3/)・ Twitter: <mark>notw</mark>
    - <https://lpg-umr6112.fr/ansan-v>
    - **As a person:**
       1. …
@@ -145,7 +145,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/scientific-contributions/2073430637_Rafat_R_Ansari>
    - <https://www.worldbrainmapping.org/About/Rafat-Ansari>
    - **As a person:**
@@ -169,7 +169,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://dep71.ikiweb.ru/structure/lab711/employees/>
    - **As a person:**
       1. …
@@ -192,7 +192,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <…>
    - **As a person:**
       1. Суетлив, разговорчив.
@@ -219,7 +219,7 @@
    - …
    - **SC/Equip.:** 1997 [Cassini Huygens](cassini_huygens.md), New Horizons, 2005 [Venus Express](venus_express.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/kevin.baines.56)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/kevin-baines-b568b313)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/kevin.baines.56)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/kevin-baines-b568b313)・ Twitter: <mark>notw</mark>
    - <https://science.jpl.nasa.gov/people/Baines/>
    - <https://scholar.google.com/citations?:user=l4HEIR8AAAAJ&hl=en>
    - **As a person:**
@@ -243,7 +243,7 @@
    - I am the Project Systems Engineer on an astrophysics International Space Station Payload called Neutron star Interior Composition Explorer, directly managing a team of 4 other systems engineer and the technical lead of a team of 30 engineers.
    - **SC/Equip.:** 2009 [LRO](lunar_reconnaissance_orbiter.md), 2009 [Venus Mobile Explorer](venus_mobile_explorer.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/charles-baker-a735604)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/charles-baker-a735604)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -265,7 +265,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/tibor-balint-b4b97b10a)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/tibor-balint-b4b97b10a)・ Twitter: <mark>notw</mark>
    - <http://vfm.jpl.nasa.gov/peoplevfm/>
    - <http://www.tiborbalint.com/>
    - <https://scholar.google.co.uk/citations?:user=3BMH7jUAAAAJ&hl=en>
@@ -291,7 +291,7 @@
    - Патриция Бишоп.
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/patricia.m.beauchamp)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/patricia-beauchamp-83524a29)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/patricia.m.beauchamp)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/patricia-beauchamp-83524a29)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Patricia_Beauchamp>
    - <https://nai.nasa.gov/directory/beauchamp-patricia/>
    - <https://scholar.google.com/citations?:user=pRzZFfIAAAAJ&hl=en>
@@ -316,7 +316,7 @@
    - Sterling academic background combined with a solid track record of success in the design, integration & operation of aerospace systems for critical, large-scale projects. Superlative team player & team leader who consistently provided technical leadership in solving the most demanding of 21st century engineering challenges. Superior communicator with exceptional poise; readily distills the most complex of materials into easily understood, compelling presentations.
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/alexis.benz)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/alexisbenz)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/alexis.benz)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/alexisbenz)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -338,7 +338,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/scientific-contributions/2113239913_Gilles_Berger>
    - **As a person:**
       1. …
@@ -361,7 +361,7 @@
    - Jacques Emile Blamont is a French astrophysicist author and the founder scientific and technical director of National Centre for Space Studies (CNES-Centre national d'études spatiales), known to have contributed to the development of Veronique, the first rocket launched by France in 1957. He is an elected fellow of the French Academy of Technologies and a professor emeritus of the Pierre and Marie Curie University (University of Paris VI). Blamont is a recipient of several national honours such as Commander of the Legion of Honour, the third highest French civilian honour, Grand Officer of the National Order of Merit, the second highest French civilian honour, Commander of the Academic Palms, Grand Cross of the National Order of Merit, the highest French civilian honour, President’s Silver Medal, Soviet Order of Friendship of Peoples and Padma Shri, the fourth highest Indian civilian award.
    - **SC/Equip.:** 1986 [Venus Sample Return Mission](venus_sample_return_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Jacques_Blamont>
    - **As a person:**
       1. …
@@ -384,7 +384,7 @@
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/francesca-bovolo-857928a/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/francesca-bovolo-857928a/)・ Twitter: <mark>notw</mark>
    - <https://rslab.disi.unitn.it/people/#FrancescaBovolo>
    - <https://www.researchgate.net/profile/Francesca_Bovolo>
    - **As a person:**
@@ -408,7 +408,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/bradburne)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/bradburne)・ Twitter: <mark>notw</mark>
    - <https://ep.jhu.edu/about-us/faculty-directory/1605-christopher-bradburne>
    - <https://scholar.google.com/citations?:user=R_k_kNIAAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Christopher_Bradburne>
@@ -433,7 +433,7 @@
    - Her main fields of research are the thermo-chemical evolution, the mantle dynamics & the interior structure of planetary bodies. Doris likes music, movies & reading.
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://sci.esa.int/web/mars-express/-/49525-doris-breuer>
    - <https://scholar.google.de/citations?:user=koJ_AWYAAAAJ&hl=de>
    - <https://sci.esa.int/web/mars-express/-/49525-doris-breuer>
@@ -460,7 +460,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://scholar.google.com/citations?:user=AvUx6NsAAAAJ&hl=en>
    - <https://www.nasa.gov/content/members-space‑science-astrobiology-division-code-ss>
    - **As a person:**
@@ -484,7 +484,7 @@
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/lorenzo-bruzzone-043636/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/lorenzo-bruzzone-043636/)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Lorenzo_Bruzzone2>
    - <https://scholar.google.com/citations?:user=ff9-TK4AAAAJ&hl=en>
    - <https://rslab.disi.unitn.it/people/#LorenzoBruzzone>
@@ -510,7 +510,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/mark.bullock.56863)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/mark-bullock-4256139)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/mark.bullock.56863)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/mark-bullock-4256139)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Mark_Bullock>
    - <https://www.boulder.swri.edu/about/staff/doss/embed/Bullock.Mark.html>
    - <https://scholar.google.com/citations?:user=SuxFoxAAAAAJ&hl=en>
@@ -535,7 +535,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/byrnepk)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/theplanetaryguy)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/byrnepk)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/theplanetaryguy)
    - <https://cnr.ncsu.edu/geospatial/directory/paul-byrne/>
    - <https://meas.sciences.ncsu.edu/people/pkbyrne/>
    - <https://scholar.google.com/citations?:user=Lb6BrKEAAAAJ&hl>
@@ -562,7 +562,7 @@
    -  Отец — [Георгий Николаевич Бабакин](person.md).
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <…>
    - **As a person:**
       1. …
@@ -624,7 +624,7 @@
    - Паспорт: 4608 181572, выдан 06.09.2008 ТП №2 УФМС по МО г. Королёв
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://vk.com/id214734180>
    - **As a person:**
       1. …
@@ -647,7 +647,7 @@
    - С.блок 108060. ┊ Учился в институте в одной группе с [Дробинко](zz_дробинко1.md) Е.О., Заикиным А.В.
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ [Instagram ⎆](https://instagram.com/mavelianko)・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ [Instagram ⎆](https://instagram.com/mavelianko)・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://vk.com/mavelian>
    - **As a person:**
       1. …
@@ -674,7 +674,7 @@
    - …
    - **SC/Equip.:** … [EnVision](envision.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/bruce-campbell-963167b3/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/bruce-campbell-963167b3/)・ Twitter: <mark>notw</mark>
    - <https://airandspace.si.edu/people/staff/bruce-campbell>
    - **As a person:**
       1. …
@@ -697,7 +697,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/tristan-caro-428542124)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/tristan-caro-428542124)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -719,7 +719,7 @@
    - …
    - **SC/Equip.:** 2009 [LRO](lunar_reconnaissance_orbiter.md), MRO, Europa Orbiter, Mars2020
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/lynn.carter)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/lynn_carter8)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/lynn.carter)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/lynn_carter8)
    - <https://www.researchgate.net/scientific-contributions/9779129_L_M_Carter>
    - <https://profiles.arizona.edu/person/lmcarter>
    - <https://www.lpl.arizona.edu/faculty/lynn-carter>
@@ -744,7 +744,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/kelley‑case-a8165431)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/kelley‑case-a8165431)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -766,7 +766,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/remy.chalex)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](http://nl.linkedin.com/in/chalex)・ [Twitter ⎆](http://twitter.com/eurospacedude)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/remy.chalex)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](http://nl.linkedin.com/in/chalex)・ [Twitter ⎆](http://twitter.com/eurospacedude)
    - **As a person:**
       1. …
 
@@ -788,7 +788,7 @@
    - …
    - **SC/Equip.:** 2018 [BepiColombo](bepicolombo.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2005 [Venus Express](venus_express.md), 1997 [Cassini Huygens](cassini_huygens.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/eric.chassefiere.9)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/eric-chassefi%C3 %A8re-5b8a5548/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/eric.chassefiere.9)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/eric-chassefi%C3 %A8re-5b8a5548/)・ Twitter: <mark>notw</mark>
    - <http://www.editionsalcyone.fr/425299709>
    - <http://geops.geol.u-psud.fr/spip.php?:article698&lang=fr>
    - <https://sci.esa.int/web/mars-express/-/49531-eric-chassefi-egrave-re>
@@ -813,7 +813,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/charles.cockell)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/charles.cockell)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Charles_S._Cockell>
    - <https://www.ph.ed.ac.uk/people/charles-cockell>
    - <https://www.research.ed.ac.uk/portal/en/persons/charles-cockell(20e254f7-d6ab-483f-a8fc-00d27b1c0ff3).html>
@@ -841,7 +841,7 @@
    - …
    - **SC/Equip.:** 2012 [LADEE](ladee.md), 2009 [LCROSS](lcross.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/tony.colaprete)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/anthony-colaprete-6737a28b/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/tony.colaprete)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/anthony-colaprete-6737a28b/)・ Twitter: <mark>notw</mark>
    - <https://www.nasa.gov/centers/ames/research/2007/colaprete.html>
    - <https://scholar.google.com/citations?:user=Ajm2yy4AAAAJ&hl=en>
    - **As a person:**
@@ -865,7 +865,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/jaime.cordova.9)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/jaimecordova)・ [Twitter ⎆](https://twitter.com/jaimecor_94)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/jaime.cordova.9)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/jaimecordova)・ [Twitter ⎆](https://twitter.com/jaimecor_94)
    - **As a person:**
       1. …
 
@@ -887,7 +887,7 @@
    - Atmospheres, radiative transfer computations, Mars’, Venus’, Titan’s, Saturn’s atmospheres, remote sensing and modeling of planetary atmospheres, multi‑wavelenghts — IR, UV, Visible — spectroscopy, atmospheric composition, planetary science., comparative studies of planetary atmospheres. Data processing and archiving. CubeSat missions design. Space missions’ concepts. Instrument concepts.
    - **SC/Equip.:** 2017 [Cubesat UV Experiment](cubesat_uv_experiment.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/valeria.cottini)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/valeria-cottini-96187291/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/valeria.cottini)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/valeria-cottini-96187291/)・ Twitter: <mark>notw</mark>
    - <https://science.gsfc.nasa.gov/sed/bio/valeria.cottini>
    - <https://www.astro.umd.edu/people/vcottini.html>
    - <https://www.iau.org/administration/membership/individual/13115/>
@@ -913,7 +913,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](http://www.facebook.com/jajcutts)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/jim-cutts-33974011/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](http://www.facebook.com/jajcutts)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/jim-cutts-33974011/)・ Twitter: <mark>notw</mark>
    - <https://vfm.jpl.nasa.gov/peoplevfm/>
    - <https://www.researchgate.net/profile/James_Cutts>
    - <https://jpl-nasa.academia.edu/JamesCutts>
@@ -957,7 +957,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/ilya.chulkov.31)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/ilya.chulkov.31)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://hea.iki.rssi.ru/HEAD_RUS/people_k.htm>
    - <https://ok.ru/profile/463141922>
    - **As a person:**
@@ -1009,7 +1009,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/shawndgoldman)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/shawn-domagal-goldman-42a6a39)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/shawndgoldman)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/shawn-domagal-goldman-42a6a39)・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Shawn_Domagal-Goldman>
    - <https://science.gsfc.nasa.gov/sed/bio/shawn.goldman>
    - <https://carnegiescience.edu/otherearths>
@@ -1060,7 +1060,7 @@
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/caroline-dumoulin-12b95537/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/caroline-dumoulin-12b95537/)・ Twitter: <mark>notw</mark>
    - <https://lpg-umr6112.fr/index.php?:option=com_content&view=article&id=599&lang=en>
    - **As a person:**
       1. …
@@ -1083,7 +1083,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/melinda-darby-dyar-81646b5)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/melinda-darby-dyar-81646b5)・ Twitter: <mark>notw</mark>
    - <https://www.mtholyoke.edu/people/m-darby-dyar>
    - <https://solarsystem.nasa.gov/people/2180/darby-dyar/>
    - <https://www.psi.edu/about/staffpage/mdyar>
@@ -1109,7 +1109,7 @@
    - Имеет интересную особенность организма — может плавно уснуть на пару минут, если не занят активным делом, и так же плавно проснуться. ┊ Знаком с [Kerry Nock](person.md).
    - **SC/Equip.:** … [Луна‑27](луна_27.md), … [Луна‑25](луна_25.md), 1984 [Вега‑1/2](vega_1_2.md), (1983) [Венера‑15/16](venera_15_16.md), (1981) [Венера‑13/14](venera_13_14.md), (1978) [Венера‑11/12](venera_11_12.md), 1976 [Луна‑24](луна_24.md), (1975) [Венера‑9/10](venera_9_10.md), (1972) [Венера‑8](venera_8.md), (1970) [Венера‑7](venera_7.md), (1969) [Венера‑5/6](venera_5_6.md), 1966 [Луна‑9](луна_9.md), (1965) [Венера‑3](venera_2_3.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -1135,7 +1135,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/tecon37)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/thanasis-economou-09096818/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/tecon37)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/thanasis-economou-09096818/)・ Twitter: <mark>notw</mark>
    - <https://news.uchicago.edu/profile/thanasis-economou>
    - <http://www.planetary.org/connect/our-experts/profiles/thanasis-economou.html>
    - **As a person:**
@@ -1159,7 +1159,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [MSSS 10](msss_10.md), 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/richard.ernst.792)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://ca.linkedin.com/in/richard-ernst-7b787729)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/richard.ernst.792)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://ca.linkedin.com/in/richard-ernst-7b787729)・ Twitter: <mark>notw</mark>
    - <https://scholar.google.ca/citations?:user=MVgMw54AAAAJ&hl=en>
    - <http://research.earthsci.carleton.ca/ernst-lab>
    - <http://ernstgeosciences.com>
@@ -1184,7 +1184,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/larry.esposito.503)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/larry.esposito.503)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Larry_W._Esposito>
    - <http://lasp.colorado.edu/~esposito/>
    - <https://www.colorado.edu/aps/larry-esposito>
@@ -1209,7 +1209,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/shannon.ewan.5)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/shannon-ewan-aa44261/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/shannon.ewan.5)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/shannon-ewan-aa44261/)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -1231,7 +1231,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/elkin.konst)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/elkin.konst)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -1253,7 +1253,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100004568714766)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100004568714766)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ok.ru/profile/344026053>
    - **As a person:**
       1. Бывший военный — хочет всегда знать что, почему, где и как. Со своей стороны же старается не давать информации.
@@ -1276,7 +1276,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/daria.evdokimova.9)・ [Instagram ⎆](https://instagram.com/phd_evdokimova), <https://instagram.com/d_tasmit>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/daria.evdokimova.9)・ [Instagram ⎆](https://instagram.com/phd_evdokimova), <https://instagram.com/d_tasmit> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://vk.com/tasmit>
    - **As a person:**
       1. Жмот.
@@ -1299,7 +1299,7 @@
    - Очень общительный и весёлый человек. И постоянно требует каких‑то чётких ответов. ┊ Область научных исследований: динамика полётов и управление КА. Участвовал в исследованиях траектории полётов практически всех научных КА. Автор ~70 научных статей по данной тематике.
    - **SC/Equip.:** …
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/натан‑эйсмонт‑029a57113/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/натан‑эйсмонт‑029a57113/)・ Twitter: <mark>notw</mark>
    - <https://www.hse.ru/org/persons/56549114>
    - <http://viperson.ru/people/eysmont-natan-andreevich>
    - **As a person:**
@@ -1329,7 +1329,7 @@
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/rich.ghail)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/richard-ghail/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/rich.ghail)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/richard-ghail/)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Richard_Ghail>
    - <https://pure.royalholloway.ac.uk/portal/en/persons/richard-ghail(a2ddf183-a73b-473b-af37-9532b6063b6f).html>
    - **As a person:**
@@ -1378,7 +1378,7 @@
    - …
    - **SC/Equip.:** 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.nasa.gov/centers/ames/earthscience/members/biosphericsciencebranch/Diana_Gentry>
    - <https://www.researchgate.net/scientific-contributions/2135434927_Diana_M_Gentry>
    - **As a person:**
@@ -1402,7 +1402,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/ruben.yshua)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/iastroPT)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/ruben.yshua)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/iastroPT)
    - <https://www.researchgate.net/profile/Ruben_Goncalves3>
    - **As a person:**
       1. …
@@ -1425,7 +1425,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/stephen.gorevan)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/stephen-gorevan-042a8620/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/stephen.gorevan)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/stephen-gorevan-042a8620/)・ Twitter: <mark>notw</mark>
    - <https://honeybeerobotics.com/about-us/history/>
    - <https://prabook.com/web/stephen_paul.gorevan/826918>
    - **As a person:**
@@ -1449,7 +1449,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/candace.gray.5667)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/candace-gray-626577b5/)・ [Twitter ⎆](https://twitter.com/aredheadofvenus)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/candace.gray.5667)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/candace-gray-626577b5/)・ [Twitter ⎆](https://twitter.com/aredheadofvenus)
    - <https://www.researchgate.net/profile/Candace_Gray2>
    - <https://www.lpi.usra.edu/vexag/interview_series/index.shtml#gray>
    - **As a person:**
@@ -1473,7 +1473,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100007346137654)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/james-green-a2a84a13/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100007346137654)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/james-green-a2a84a13/)・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/James_L._Green>
    - <https://science.nasa.gov/about-us/leadership/dr-jim-green>
    - **As a person:**
@@ -1497,7 +1497,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/tracy-gregg-402a3795)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/tracy-gregg-402a3795)・ Twitter: <mark>notw</mark>
    - <http://www.buffalo.edu/news/experts/tracy-gregg-faculty-expert-planetary-volcanology.html>
    - **As a person:**
       1. …
@@ -1520,7 +1520,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://scholar.google.com/citations?:user=7ssk2mEAAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Robert_Grimm7>
    - <https://www.boulder.swri.edu/~grimm/>
@@ -1545,7 +1545,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/david.grinspoon)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/david-grinspoon-2880b57/)・ [Twitter ⎆](https://twitter.com/drfunkyspoon)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/david.grinspoon)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/david-grinspoon-2880b57/)・ [Twitter ⎆](https://twitter.com/drfunkyspoon)
    - <https://en.wikipedia.org/wiki/David_Grinspoon>
    - <http://funkyscience.net/>
    - **As a person:**
@@ -1569,7 +1569,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -1591,7 +1591,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/sergey.gavrilin.16)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/sergey-gavrilin-82021aa2/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/sergey.gavrilin.16)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/sergey-gavrilin-82021aa2/)・ Twitter: <mark>notw</mark>
    - <…>
    - **As a person:**
       1. Увлекающийся человек, а увлекаясь, забывает обо всём другом.
@@ -1614,7 +1614,7 @@
    - Mikhail Gerasimov. ┊ Автомобиль SAAB 9-5 к738тр199
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/mikhail-gerasimov-a6233b25)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/mikhail-gerasimov-a6233b25)・ Twitter: <mark>notw</mark>
    - <http://www.planetary-department-iki.ru/labs/labs532.html>
    - <http://www.planetary-department-iki.ru/people.html>
    - **As a person:**
@@ -1638,7 +1638,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ [Instagram ⎆](https://instagram.com/shattered_process)・ [LinkedIn ⎆](https://www.linkedin.com/in/dmitry-gorinov-bb4277113/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ [Instagram ⎆](https://instagram.com/shattered_process)・ [LinkedIn ⎆](https://www.linkedin.com/in/dmitry-gorinov-bb4277113/)・ Twitter: <mark>notw</mark>
    - <https://vk.com/flowing_darkness>
    - <http://www.planetary-department-iki.ru/labs/labs531.html>
    - **As a person:**
@@ -1665,7 +1665,7 @@
    - **Exp.:** Senior Engineer at JPL who leads its technology development & mission application efforts in planetary balloons (aerobots). His work includes design of aerobot vehicles & missions, & Earth flight testing of balloons & airships.
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/jeffery.hall.794)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/jeffery-hall-a1b991b7/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/jeffery.hall.794)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/jeffery-hall-a1b991b7/)・ Twitter: <mark>notw</mark>
    - <https://www-robotics.jpl.nasa.gov/people/Jeffery_Hall/>
    - **As a person:**
       1. …
@@ -1688,7 +1688,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.gfd-dennou.org/member/george/eindex.html>
    - <https://www.researchgate.net/scientific-contributions/72707487_George_L_Hashimoto>
    - **As a person:**
@@ -1712,7 +1712,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://scholar.google.co.uk/citations?:user=nKbOLbQAAAAJ&hl=en>
    - <http://www.gfd-dennou.org/member/shosuke/index.html.en>
    - **As a person:**
@@ -1736,7 +1736,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [MSSS 10](msss_10.md), 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/James_W._Head>
    - <http://planetary.brown.edu/html_pages/head.htm>
    - <https://scholar.google.com/citations?:user=GgICCQIAAAAJ&hl=en>
@@ -1761,7 +1761,7 @@
    - …
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/jorn.helbert)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/jornhelbert/)・ [Twitter ⎆](https://twitter.com/planetguy_bln)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/jorn.helbert)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/jornhelbert/)・ [Twitter ⎆](https://twitter.com/planetguy_bln)
    - <https://scholar.google.com/citations?:user=X0lFw2IAAAAJ&hl=en>
    - **As a person:**
       1. Занятой. Может не отвечать еа письма (звонки, чаты и пр.).
@@ -1784,7 +1784,7 @@
    - …
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -1806,7 +1806,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/gary.w.hunter.5)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/gary-hunter-8a06244b/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/gary.w.hunter.5)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/gary-hunter-8a06244b/)・ Twitter: <mark>notw</mark>
    - <https://nari.arc.nasa.gov/hunter>
    - <https://www.researchgate.net/profile/Gary_Hunter3>
    - **As a person:**
@@ -1829,7 +1829,7 @@
    - **SC/Equip.:** …
    - …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.federalspace.ru/120/>
    - **As a person:**
       1. …
@@ -1852,7 +1852,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.planetary-department-iki.ru/labs/labs531.html>
    - **As a person:**
       1. …
@@ -1879,7 +1879,7 @@
    - Research Activities: 1) Exploration of planetary atmospheres — exploration of the atmosphere on Venus by the Japanese explorer AKATSUKI is ongoing. We use data collected by AKATSUKI to unveil the mysteries of Venusian meteorology, such as the high‑speed westward circulation "super‑rotation" & thick sulfuric acid clouds. The development of a Mars exploration program focused on water cycle & dust transport is also ongoing. 2) Radio occultation observations — in a radio occultation experiment, a spacecraft transmits radio waves toward a tracking station on the earth & sequentially goes behind the planet’s atmosphere. During such occultation events, the planetary atmosphere causes frequency & amplitude fluctuations from which information on the atmosphere can be obtained. We apply this technique to various planets & the solar corona. 3) Numerical modeling — common physical processes behind the apparent diversity of atmospheric phenomena on the planets are investigated with numerical modeling & theories. Other Activities: The Society of Geomagnetism & Earth, Planetary & Space Sciences (SGEPSS), Meteorological Society of Japan (MSJ), The Japanese Society for Planetary Sciences (JSPS).
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 DPS‑EPSC, 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/takeshi-imamura-82478b123/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/takeshi-imamura-82478b123/)・ Twitter: <mark>notw</mark>
    - <https://tus.elsevierpure.com/en/persons/takeshi-imamura>
    - <https://www.tus.ac.jp/en/fac/p/index.php?:43cc>
    - <https://www.k.u-tokyo.ac.jp/pros-e/person/takeshi_imamura/takeshi_imamura.htm>
@@ -1906,7 +1906,7 @@
    - Research interests: Mission Analysis of Lunar and Planetary Exploration, Study on mission analyses and system feasibilities of lunar and planetary exploration, based on orbital dyanamics.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2013 [VEXAG 11](vexag_11.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.isas.jaxa.jp/sokendai/e/about/staff/space_technologies.html#staff_4>
    - <http://www.isas.jaxa.jp/about/researchers/nobuaki_ishii.html>
    - <https://www.researchinsvalbard.no/profile/11309>
@@ -1931,7 +1931,7 @@
    - Research Areas: Earth and planetary science, Space and upper atmospheric physics. National Institute of Polar Research, Researcher, 1976 ‑ 1978.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://researchmap.jp/read0007762/?:Lang=english>
    - <https://www.researchgate.net/profile/Naomoto_Iwagami>
    - <https://nrid.nii.ac.jp/nrid/1000030143374/>
@@ -1957,7 +1957,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/noam.izenberg.7)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/noam-izenberg-b774b8)・ [Twitter ⎆](https://twitter.com/Izenplanet)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/noam.izenberg.7)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/noam-izenberg-b774b8)・ [Twitter ⎆](https://twitter.com/Izenplanet)
    - <http://nift.firedrake.org/>
    - <https://secwww.jhuapl.edu/SpaceScience/Staff/ProfileView/26>
    - <https://hemi.jhu.edu/news/dr-noam-r-izenberg-joins-hemi/>
@@ -1982,7 +1982,7 @@
    - Автомобиль Skoda Octavia с762ах190
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/nikolay.ignatiev.1)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/nikolay.ignatiev.1)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.planetary-department-iki.ru/labs/labs531.html>
    - **As a person:**
       1. …
@@ -2008,7 +2008,7 @@
    - **Exp.:** Astrophysics.
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.swri.org/iProfiles/ViewiProfile.asp?:k=8k8fy01aj15137m>
    - <https://www.lpi.usra.edu/vexag/interview_series/>
    - **As a person:**
@@ -2058,7 +2058,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/natasha-johnson-3bb32b12/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/natasha-johnson-3bb32b12/)・ Twitter: <mark>notw</mark>
    - <https://science.gsfc.nasa.gov/691/cv/johnson.html>
    - <https://nai.nasa.gov/directory/johnson-natasha/>
    - <https://www.researchgate.net/profile/Natasha_Johnson4>
@@ -2087,7 +2087,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/viktor.kerzhanovich)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/viktor-kerzhanovich-2ba1ba155/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/viktor.kerzhanovich)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/viktor-kerzhanovich-2ba1ba155/)・ Twitter: <mark>notw</mark>
    - <https://www-robotics.jpl.nasa.gov/people/Viktor_Kerzhanovich/personFull.cfm>
    - <http://www.planetary.org/connect/our-experts/profiles/viktor-kerzhanovich.html>
    - <https://www.researchgate.net/scientific-contributions/50855008_Viktor_Kerzhanovich>
@@ -2112,7 +2112,7 @@
    - …
    - **SC/Equip.:** … [EnVision](envision.md), 2018 SAEVe, 2011 [GRAIL](grail.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.lpi.usra.edu/science/staff/kiefer/>
    - <https://www.lpi.usra.edu/science/kiefer/home.html>
    - <https://scholar.google.com/citations?:user=Ga6b0uUAAAAJ&hl=en>
@@ -2138,7 +2138,7 @@
    - …
    - **SC/Equip.:** ExoMars Trace Gas Orbiter, ExoMars Climate Sounder, Mars Climate Sounder, Mars Reconnaissance Orbiter.
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://science.jpl.nasa.gov/people/Kleinboehl/>
    - <http://www.planetary.org/connect/our-experts/profiles/armin-kleinboehl.html>
    - <https://www.researchgate.net/scientific-contributions/18001440_A_Kleinboehl>
@@ -2163,7 +2163,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=9620423)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/erika-kohler-19967b77)・ [Twitter ⎆](https://twitter.com/xtrasolarkohler)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=9620423)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/erika-kohler-19967b77)・ [Twitter ⎆](https://twitter.com/xtrasolarkohler)
    - <https://science.gsfc.nasa.gov/sed/bio/erika.kohler>
    - <https://scholar.google.com/citations?:user=QsKQ_RsAAAAJ&hl=en>
    - **As a person:**
@@ -2187,7 +2187,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ieeexplore.ieee.org/author/37272882600>
    - **As a person:**
       1. …
@@ -2210,7 +2210,7 @@
    - My major research focus is surface landforms of terrestrial planets. I am interested in their formation processes & implications for the evolution of the planets. I studied channels & valleys on Venus. These enigmatic features were perhaps produced by actions of low viscosity lavas. For Mars, I am interested in processes of water, including oceans, outflow channels, valley networks, layered deposits, glaciation, & sedimentation. For Earth, I have been involved in cataclysmic flood research projects in northern Alaska & Central Asia, drainage evolution studies in northern Eurasia, Central Australia, & Central Mexico, & investigation of a possible impact crater in Mongolia. I also conducted a study of a paleolake system in the Gobi desert in order to reconstruct paleoenvironments in which paleolithic humans migrated & settled.
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.irsps.it/goro-komatsu.html>
    - <https://scholar.google.com/citations?:user=GFMhh64AAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Goro_Komatsu>
@@ -2234,7 +2234,7 @@
    - **Exp.:** …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://spaceflightsystems.grc.nasa.gov/PlanetaryScience/Bios/kremic.htm>
    - **As a person:**
       1. …
@@ -2257,7 +2257,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -2298,7 +2298,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/pavel.kazmerchuk)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/pavel.kazmerchuk)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://vk.com/id77682860>
    - **As a person:**
       1. …
@@ -2340,7 +2340,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://vk.com/orlaolr> — возможно.
    - **As a person:**
       1. Умеет говорить уверенно о вещах, о которых не имеет понятия.
@@ -2367,7 +2367,7 @@
    - Участвовал в финансировании книги Шубина «[Венера — неукротимая планета](book_shubin_veneranp.md)».
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ [Instagram ⎆](https://instagram.com/kombaew)・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/kombaew)
+   - Git: …・ Facebook: <mark>nofb</mark> ・ [Instagram ⎆](https://instagram.com/kombaew)・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/kombaew)
    - <https://vk.com/planktos>
    - <https://ok.ru/profile/12784645777>
    - <https://mai.ru/content/people/index.php?:ID=41769>
@@ -2392,7 +2392,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://икарп.рф/laboratorii/genetika/kompanichenko.php>
    - **As a person:**
       1. …
@@ -2415,7 +2415,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <…>
    - **As a person:**
       1. …
@@ -2438,7 +2438,7 @@
    - …
    - **SC/Equip.:** Луна‑26 (ЛУМИС, ЛЭВУС)
    - **Conferences:** 2019 [MSSS 10](msss_10.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.planetary-department-iki.ru/people.html>
    - <https://www.researchgate.net/profile/O_Korablev>
    - **As a person:**
@@ -2481,7 +2481,7 @@
    - …
    - **SC/Equip.:** Луна‑26 (ПКД)
    - **Conferences:** 2019 [MSSS 10](msss_10.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/alexander-kosov-0b420791/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/alexander-kosov-0b420791/)・ Twitter: <mark>notw</mark>
    - <>
    - **As a person:**
       1. …
@@ -2504,7 +2504,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [MSSS 10](msss_10.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.geokhi.ru/Lab15/Костицын%20Юрий%20Александрович.aspx>
    - <http://www.geokhi.ru/GEO_Pages/Ю.А.%20Костицын.aspx>
    - <https://vk.com/yurikostitsyn>
@@ -2530,7 +2530,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -2552,7 +2552,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.ugrasu.ru/detail-people.php?:IBLOCK_ID=135&ELEMENT_ID=15644>
    - <https://istina.msu.ru/profile/kocziurbencko/>
    - **As a person:**
@@ -2576,7 +2576,7 @@
    - My research interest focuses on trajectory design and analysis for scientific space exploration missions. 
    - **SC/Equip.:** 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/irina-kovalenko-240689147/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/irina-kovalenko-240689147/)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -2620,7 +2620,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.lmd.jussieu.fr/~sllmd/index.html>
    - **As a person:**
       1. …
@@ -2643,7 +2643,7 @@
    - リー　ヨンジュ. To investigate planetary atmospheric radiative & dynamical processes, through observational data analysis & model calculation. Currently, working in the exoplanet group in Technical University of Berlin & DLR, Berlin. Skills & Expertise: Venus, Image Analysis, IDL, Programming in Fortran, Planetary Science, Atmospheric Radiation, Numerical Modeling.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/yeonjoo.in.japan)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/yeon-joo-lee-520b0a9a)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/yeonjoo.in.japan)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/yeon-joo-lee-520b0a9a)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Yeon_Joo_Lee2>
    - <http://www.astrobio.k.u-tokyo.ac.jp/imamura/メンバー/yeon_joo_lee/>
    - <https://orcid.org/0000-0002-4571-0669>
@@ -2668,7 +2668,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/maxence.lefevre.75)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/maxence.lefevre.75)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://lefevrema.gitlab.io/website/>
    - <https://www.researchgate.net/profile/Maxence_Lefevre>
    - <https://www2.physics.ox.ac.uk/contacts/people/lefevre>
@@ -2694,7 +2694,7 @@
    - Solar Orbiter, Science Operations Engineer, ESAC, ESA. BepiColombo, System Engineer for Science Ground Segment , ESAC, ESA. ATV, Ground Operations Engineer, CNES. Rosetta (Philae), Experiment Operations Engineer, CNES.
    - **SC/Equip.:** … [EnVision](envision.md), 2018 [BepiColombo](bepicolombo.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/jayne-lefort-55018314)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/jayne-lefort-55018314)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Jayne_Lefort>
    - **As a person:**
       1. …
@@ -2717,7 +2717,7 @@
    -  Her field of interest includes remote sensing observation of planetary surfaces & subsurfaces by electromagnetic techniques.,Dr. Gall is presently the CoI on the WISDOM GPR experiment on the 2018 ExoMars Mission & on Permittivity Probe (PP) instrument on board the Philae lander of the ROSETTA mission (PP-SESAME/Philae/ROSETTA) & an Associate Member of the Cassini radar Team.
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/alice.legall)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/alice.legall)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.ovsq.uvsq.fr/equipe-pedagogique/le-gall-alice--326525.kjsp>
    - <https://www.iau.org/administration/membership/individual/18259/>
    - <http://www.cnrs.fr/fr/personne/alice-le-gall>
@@ -2744,7 +2744,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/victoriousmarshmallows)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in.neil-lewis-181622178)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/victoriousmarshmallows)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in.neil-lewis-181622178)・ Twitter: <mark>notw</mark>
    - <https://www2.physics.ox.ac.uk/contacts/people/lewis>
    - <https://scholar.google.co.uk/citations?:user=6TR2vckAAAAJ&hl=en>
    - **As a person:**
@@ -2767,7 +2767,7 @@
    - **Exp.:** Topics. Solar system planets with atmospheres: Venus, Mars, Jupiter, Saturn, Uranus, Neptune. Global warming & climate change.
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/sanjay-limaye-06797ba)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/sanjay-limaye-06797ba)・ Twitter: <mark>notw</mark>
    - <https://experts.news.wisc.edu/experts/sanjay-limaye>
    - <http://passporttoknowledge.com/hst/people/limaye.html>
    - <https://www.researchgate.net/scientific-contributions/3962720_S_S_Limaye>
@@ -2792,7 +2792,7 @@
    - …
    - **SC/Equip.:** 1997 [Cassini Huygens](cassini_huygens.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/rosaly.lopes.7)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/rosaly-lopes-9395174)・ [Twitter ⎆](https://twitter.com/rosaly_lopes)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/rosaly.lopes.7)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/rosaly-lopes-9395174)・ [Twitter ⎆](https://twitter.com/rosaly_lopes)
    - <https://en.wikipedia.org/wiki/Rosaly_Lopes>
    - <https://scholar.google.com/citations?:user=2ST5QooAAAAJ&hl=en>
    - <https://science.jpl.nasa.gov/people/Lopes/>
@@ -2817,7 +2817,7 @@
    - …
    - **SC/Equip.:** … Dragonfly
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](http://facebook.com/ralph.lorenz.3)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/ralph-lorenz-87557b7/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](http://facebook.com/ralph.lorenz.3)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/ralph-lorenz-87557b7/)・ Twitter: <mark>notw</mark>
    - <https://secwww.jhuapl.edu/SpaceScience/staff/ProfileView/51>
    - <http://www.lpl.arizona.edu/~rlorenz/>
    - <http://dragonfly.jhuapl.edu/Our-Team/>
@@ -2842,7 +2842,7 @@
    - Janet G. Luhmann (born 1946) is an American physicist and senior fellow of the Space Sciences Laboratory of the University of California, Berkeley. She has made major contributions to a wide range of topics in planetary, solar, magnetospheric, and heliospheric physics. She is the principal investigator of the IMPACT instrument suite on the twin-spacecraft STEREO mission. IMPACT stands for In-situ Measurements of Particles and Coronal mass ejection (CME) Transients. It consists of a, "suite of seven instruments that samples the 3-D distribution of solar wind plasma electrons, the characteristics of the solar energetic particle (SEP) ions and electrons, and the local vector magnetic field."
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Janet_Luhmann>
    - <https://science.nasa.gov/science-committee/members/dr-janet-g-luhmann>
    - <http://sprg.ssl.berkeley.edu/scientistslinks/luhmannj_home.html>
@@ -2888,7 +2888,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://l503.iki.rssi.ru/people.html>
    - **As a person:**
       1. …
@@ -2911,7 +2911,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <…>
    - **As a person:**
       1. Если дела плохи, может подставить в любой момент.
@@ -2938,7 +2938,7 @@
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** [VEXAG](vexag.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/stephen-mackwell-37266ab9/)・ [Twitter ⎆](https://twitter.com/olopx1)
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/stephen-mackwell-37266ab9/)・ [Twitter ⎆](https://twitter.com/olopx1)
    - <https://en.wikipedia.org/wiki/Stephen_J._Mackwell>
    - <https://www.researchgate.net/scientific-contributions/2053723931_S_Mackwell>
    - <https://www.lpi.usra.edu/science/staff/mackwell/>
@@ -2990,7 +2990,7 @@
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/john-mankins-a89a7130/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/john-mankins-a89a7130/)・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/John_C._Mankins>
    - <http://www.artemisinnovation.com/aboutus.html>
    - <https://www.researchgate.net/profile/John_Mankins>
@@ -3036,7 +3036,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** … [EnVision](envision.md) (VeSUV, VenSpec-U)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/emmanuel-marcq-7b400b5b/)・ [Twitter ⎆](https://twitter.com/marcqplanets)
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/emmanuel-marcq-7b400b5b/)・ [Twitter ⎆](https://twitter.com/marcqplanets)
    - <https://www.researchgate.net/profile/Emmanuel_Marcq>
    - <https://scholar.google.com/citations?:user=Cf1oPYsAAAAJ&hl=fr>
    - <http://marcq.page.latmos.ipsl.fr/>
@@ -3062,7 +3062,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - **Exp.:** …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [MSSS 10](msss_10.md), 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/elena.maroko.5)・ [Instagram ⎆](https://instagram.com/elena.maroko)・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/elena.maroko.5)・ [Instagram ⎆](https://instagram.com/elena.maroko)・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3084,7 +3084,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/paolo.martino85)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/paolo-martino-478b7522)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/paolo.martino85)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/paolo-martino-478b7522)・ Twitter: <mark>notw</mark>
    - <https://asteroidday.org/people/paolo-martino/>
    - <https://www.researchgate.net/profile/Paolo_Martino4>
    - **As a person:**
@@ -3108,7 +3108,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Dr Philippa Mason is a field geologist who specialises in using satellite imagery to study rocks, minerals, geological structures & tectonics, on Earth & other planets. Her teaching & research at Imperial College London involves the translation of terrestrial techniques in Interferometric [Synthetic Aperture Radar](sar.md) (InSAR) & imaging spectroscopy to assist in the understanding of geological features & processes on other Earth‑like planets, such as Venus & Mars. She is currently on the Science Team of EnVision, a truly international UK‑led mission heading to Venus in 2032, aimed at understanding why it is so different to Earth, establishing whether it is tectonicly active, & if it was ever hospitable to life.
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/philippa.mason.16)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/philippajmason/)・ [Twitter ⎆](https://twitter.com/phliptish)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/philippa.mason.16)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/philippajmason/)・ [Twitter ⎆](https://twitter.com/phliptish)
    - <https://www.imperial.ac.uk/people/p.j.mason>
    - <https://www.researchgate.net/profile/Philippa_Mason>
    - **As a person:**
@@ -3132,7 +3132,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/rymccabe999)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/ryan-mccabe-88850530/)・ [Twitter ⎆](https://twitter.com/rymccabe999)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/rymccabe999)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/ryan-mccabe-88850530/)・ [Twitter ⎆](https://twitter.com/rymccabe999)
    - <http://cas.hamptonu.edu/profile/ryan-m-mccabe/>
    - <https://www.youtube.com/user/MiscellaneousMcCabe>
    - <https://www.youtube.com/ryan1guitar>
@@ -3157,7 +3157,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/kevin.mcgouldrick)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/kevin-mcgouldrick-8a60648)・ [Twitter ⎆](https://twitter.com/wwwheniheard)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/kevin.mcgouldrick)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/kevin-mcgouldrick-8a60648)・ [Twitter ⎆](https://twitter.com/wwwheniheard)
    - <http://lasp.colorado.edu/home/personnel/kevin.mcgouldrick/>
    - <https://www.researchgate.net/scientific-contributions/71894664_Kevin_McGouldrick>
    - <https://www.researchgate.net/scientific-contributions/2147041353_Kevin_McGouldrick>
@@ -3183,7 +3183,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/planetpatman)
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/planetpatman)
    - <https://www.lpi.usra.edu/science/staff/mcgovern/>
    - <https://www.lpi.usra.edu/lpi/mcgovern/>
    - <https://www.researchgate.net/scientific-contributions/2036298384_Patrick_McGovern/amp>
@@ -3231,7 +3231,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/ehouarn-millour-4068b313a/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/ehouarn-millour-4068b313a/)・ Twitter: <mark>notw</mark>
    - <http://www.lmd.jussieu.fr/~emillour/>
    - **As a person:**
       1. …
@@ -3254,7 +3254,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://climate.anu.edu.au/about-us/people/frank-mills>
    - <https://fennerschool.anu.edu.au/people/academics/dr-frank-mills>
    - **As a person:**
@@ -3278,7 +3278,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/rakesh.mogul)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/rakesh-mogul-44493755)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/rakesh.mogul)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/rakesh-mogul-44493755)・ Twitter: <mark>notw</mark>
    - <http://www.cpp.edu/~rmogul>
    - <https://experts.cpp.edu/member/rakesh-mogul/>
    - <https://www.bmsis.org/affiliate/rakesh-mogul/>
@@ -3304,7 +3304,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Skills and Expertise: Fluid Mechanics, Computational Fluid Dynamics, Numerical Simulation, Numerical Modeling, Turbulence, Numerical Analysis, Direct Numerical Simulation, Geophysical Fluid Dynamics, Scientific Archives.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Shin_Ya_Murakami>
    - <https://scholar.google.co.jp/citations?:hl=en&user=j24AdawAAAAJ>
    - **As a person:**
@@ -3328,7 +3328,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3350,7 +3350,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Советский и российский астроном.
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 1970 [Венера‑7](venera_7.md)
    - **Conferences:** [2019 MSSS](msss_10.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100009896565104)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100009896565104)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3372,7 +3372,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ok.ru/profile/524807477278>
    - **As a person:**
       1. …
@@ -3395,7 +3395,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** [2019 MSSS](msss_10.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://np.cosmos.ru/lyudi>
    - **As a person:**
       1. Хитёр, рассудителен, алчен.
@@ -3442,7 +3442,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** [2019 IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/masato-nakamura-5290a375)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/masato-nakamura-5290a375)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Masato_Nakamura3>
    - **As a person:**
       1. …
@@ -3488,7 +3488,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Specialties: Program Management, Advanced Concept Development, Technology Development, Astrodynamics, Space Mission Design.
    - **SC/Equip.:** 1986 [Venus Sample Return Mission](venus_sample_return_mission.md), 1989 [Magellan](magellan.md), … Cassini, 1973 [Mariner 10](mariner_10.md), … Mariner 9, … Voyager, … Galileo
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/kerry-nock-3269a63)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/kerry-nock-3269a63)・ Twitter: <mark>notw</mark>
    - <http://www.gaerospace.com/about/>
    - <https://patents.justia.com/inventor/kerry-t-nock>
    - <https://www.researchgate.net/profile/Kerry_Nock>
@@ -3513,7 +3513,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://sciam.ru/persons/details/zorigto-bairovich-namsaraev>
    - **As a person:**
       1. …
@@ -3540,7 +3540,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Masaki_Ogawa5>
    - <https://www.u-tokyo.ac.jp/focus/en/people/people001925.html>
    - <https://researchmap.jp/read0046302/?:Lang=english>
@@ -3565,7 +3565,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/joe.orourke)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/geojgo)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/joe.orourke)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/geojgo)
    - <https://josephgorourke.com/>
    - **As a person:**
       1. …
@@ -3588,7 +3588,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Немного понимает по‑русски.
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/adriana-ocampo-phd-a799829)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/adriana-ocampo-phd-a799829)・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Adriana_Ocampo>
    - **As a person:**
       1. …
@@ -3615,7 +3615,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/christopher.parkinson.332)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/christopher-parkinson-546b146)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/christopher.parkinson.332)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/christopher-parkinson-546b146)・ Twitter: <mark>notw</mark>
    - <https://mcommunity.umich.edu/#profile:THESHIRE>
    - <https://www.researchgate.net/profile/Christopher_Parkinson2>
    - <https://clasp.engin.umich.edu/people/christopher-parkinson/>
@@ -3640,7 +3640,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** ExoMars TGO UVIS, ExoMars lander UVIS/AEP, Beagle 2 ESS & UV sensors.
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.open.ac.uk/people/mrp76>
    - **As a person:**
       1. …
@@ -3663,7 +3663,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Astrophysicist who studies waves & cloud dynamics in Venus’ atmosphere. He has experience in analysis of Venus Express data but currently holds an International Top Young Fellowship on the Akatsuki mission.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Javier_Peralta>
    - <https://scholar.google.es/citations?:user=SGa7g-IAAAAJ&hl=es>
    - <https://www.planetary.org/connect/our-experts/profiles/javier-peralta.html>
@@ -3688,7 +3688,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2003 [Venus Sample Return Mission](venus_sample_return_mission.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/craig.peterson.3323/)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/craig-peterson-b09a171/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/craig.peterson.3323/)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/craig-peterson-b09a171/)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Craig_Peterson4>
    - **As a person:**
       1. …
@@ -3711,7 +3711,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/andrew.pickering.5243)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/andy-pickering-74052125)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/andrew.pickering.5243)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/andy-pickering-74052125)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3733,7 +3733,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3754,7 +3754,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - **Exp.:** 01.11.2019 - по наст. время, НПО им. С.А. Лавочкина, инженер-конструктор
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: <https://github.com/rustyt0aster/>・ Facebook: <mark>nofb</mark>・ [Instagram ⎆](https://www.instagram.com/max__petrov/)・ [LinkedIn ⎆](https://www.linkedin.com/in/maxim-petrov-4300911a9/)・ Twitter: <mark>notw</mark>
+   - Git: <https://github.com/rustyt0aster/> ・ Facebook: <mark>nofb</mark> ・ [Instagram ⎆](https://www.instagram.com/max__petrov/)・ [LinkedIn ⎆](https://www.linkedin.com/in/maxim-petrov-4300911a9/)・ Twitter: <mark>notw</mark>
    - <https://vk.com/rusty_toaster>
    - **As a person:**
       1. …
@@ -3777,7 +3777,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3799,7 +3799,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - С.блок 141363, Пароль 108502. ┊ На НПОЛ — проектирование ОКР «Луна-Глоб», «Луна-Ресурс-1», «Луна-Ресурс-1» (ОА), «Луна-Грунт» в составе небольшой группы «Лунатиков» (позывной — «Винтик»).
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ [Instagram ⎆](https://instagram.com/motorcycle_rides)・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ [Instagram ⎆](https://instagram.com/motorcycle_rides)・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://vk.com/pavel_pisarenko>
    - **As a person:**
       1. …
@@ -3826,7 +3826,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/jason.rabinovitch)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/jason-rabinovitch-729b3185)・ [Twitter ⎆](https://twitter.com/j_rabinovitch)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/jason.rabinovitch)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/jason-rabinovitch-729b3185)・ [Twitter ⎆](https://twitter.com/j_rabinovitch)
    - <http://www.jasonrabinovitch.com/>
    - <https://scholar.google.com/citations?:user=hQRtV44AAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Jason_Rabinovitch>
@@ -3851,7 +3851,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/michael.j.radke)・ [Instagram ⎆](https://instagram.com/mj_radke)・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/RadPlanets)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/michael.j.radke)・ [Instagram ⎆](https://instagram.com/mj_radke)・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/RadPlanets)
    - <http://michaelradke.com/>
    - <https://eps.jhu.edu/directory/michael-radke/>
    - <https://scholar.google.com/citations?:user=mWtoBcEAAAAJ>
@@ -3876,7 +3876,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/peter.read.925)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://uk.linkedin.com/in/peter-read-7a8b3523)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/peter.read.925)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://uk.linkedin.com/in/peter-read-7a8b3523)・ Twitter: <mark>notw</mark>
    - <https://www2.physics.ox.ac.uk/contacts/people/read>
    - <https://www.trinity.ox.ac.uk/people/profiles/peter-read/>
    - **As a person:**
@@ -3900,7 +3900,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** Ariane 6
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/denis-rebuffat-891b583/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/denis-rebuffat-891b583/)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3922,7 +3922,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/aaron.gardunorodriguez)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/aaron.gardunorodriguez)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -3944,7 +3944,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** … [EnVision](envision.md), MarcoPolo-R
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ieeexplore.ieee.org/author/38096701900>
    - **As a person:**
       1. …
@@ -3967,7 +3967,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Experienced Researcher with a demonstrated history of fundamental research in academic positions. Skilled in Physics, data handling & processing. Strong research professional focused in scientific exploration of solar system.
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/pascal-rosenblatt-9645ab76/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/pascal-rosenblatt-9645ab76/)・ Twitter: <mark>notw</mark>
    - <https://scholar.google.be/citations?:user=n4mJ_DYAAAAJ&hl=fr>
    - <https://www.researchgate.net/profile/Pascal_Rosenblatt>
    - <http://www.raa-journal.org/docs/authors/1008_invited_authors.html>
@@ -3992,7 +3992,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** Cassini, MAVEN, 2005 [Venus Express](venus_express.md)
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/emilie.royer.75)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/emilieroyer)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/emilie.royer.75)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/emilieroyer)・ Twitter: <mark>notw</mark>
    - <http://www.psi.edu/about/staffpage/emilieroyer>
    - <https://experts.colorado.edu/display/fisid_153913>
    - **As a person:**
@@ -4016,7 +4016,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/ana-rugina-9379a5a/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/ana-rugina-9379a5a/)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4038,7 +4038,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** 1978 [Pioneer Venus 1](pioneer_venus_1.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Christopher_T._Russell>
    - <http://venus.wisc.edu/mission_participants.html>
    - <http://epss.ucla.edu/people/faculty/>
@@ -4064,7 +4064,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.planetary-department-iki.ru/labs/labs537.html>
    - **As a person:**
       1. …
@@ -4091,7 +4091,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.teu.ac.jp/grad/english/teacher/bs_spc/index.html?:id=14>
    - <http://www2.teu.ac.jp/sasaki/>
    - <https://www.researchgate.net/scientific-contributions/2049714356_Satoshi_Sasaki>
@@ -4116,7 +4116,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Research interests: Planetary atmosphere, Radiation, Dynamics, Space probes, Space observation science using satellites & space exploration vehicles: Solar system science. The themes include planetary atmosphere, plasma, & solid body with observations from space probes & ground‑based instruments. Studying Venus (atmo dynamics & radiative transfer with light scattering by aerosols) with Akatsuki data is of special importance, while interactions of planetary magnetospheres & the solar wind are studied also.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Takehiko_Satoh>
    - <http://www.isas.jaxa.jp/sokendai/e/about/staff/solar_system.html#staff_12>
    - <http://www.isas.jaxa.jp/about/researchers/takehiko_sato.html>
@@ -4141,7 +4141,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/kunio)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/kunio-sayanagi-04180213)・ [Twitter ⎆](https://twitter.com/windyplanets)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/kunio)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/kunio-sayanagi-04180213)・ [Twitter ⎆](https://twitter.com/windyplanets)
    - <https://youtube.com/channel/UCWd7dOVQJTZb13K64LWoiSg>
    - <http://cas.hamptonu.edu/profile/kunio-sayanagi/>
    - <https://science.hamptonu.edu/aps/faculty/sayanagi.cfm>
@@ -4166,7 +4166,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Professional societes: [American Geophysical Union](agu.md), American Association for the Advancement of Science, [Division of Planetary Sciences](dps.md), American Astronomical Society. Positions held: Professor, Department of Earth & Space Sciences, Institute of Geophysics & Planetary Physics, California Univ., Los Angeles (1974 ‑ present). Associate Professor, Department of Geophysics & Space Physics, California Univ., Los Angeles (1970 ‑ 1974). Assistant Professor, Department of Geophysics & Space Physics, California Univ., Los Angeles (1966 ‑ 1970). National Academy of Sciences National Research Council Postdoctoral Fellow, Department of Applied Mathematics & Theoretical Physics, Cambridge University, Cambridge, England (1965 ‑ 1966). Member of Technical Staff, Bell Telephone Research Lab., Whippany, New Jersey (1965). Head, Advanced Heat Transfer & Fluid Flow Department, Instructor in Nuclear Reactor Physics, U.S. Naval Nuclear Power School, Mare Island, California (1961‑1965).
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Gerald_Schubert>
    - <http://www2.ess.ucla.edu/~schubert/biography.html>
    - <https://epss.ucla.edu/people/faculty/580/>
@@ -4190,7 +4190,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - **Exp.:** …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://vfm.jpl.nasa.gov/peoplevfm/>
    - **As a person:**
       1. …
@@ -4213,7 +4213,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100006050507003)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100006050507003)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Grzegorz_Slowik>
    - **As a person:**
       1. …
@@ -4236,7 +4236,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** 2019 [Venus Observing System](venus_observing_system.md)
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/david.j.smith.566148)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/david-j-smith-b137b9177)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/david.j.smith.566148)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/david-j-smith-b137b9177)・ Twitter: <mark>notw</mark>
    - <https://www.nasa.gov/ames/research/space-biosciences/david-j-smith>
    - <https://www.nasa.gov/ames/research/space-biosciences/david-j-smith-laboratory>
    - <https://scholar.google.com/citations?:user=mKcp6SoAAAAJ&hl=en>
@@ -4262,7 +4262,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/sue.smrekar)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/suesmrekar)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/sue.smrekar)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/suesmrekar)
    - <https://en.wikipedia.org/wiki/Suzanne_Smrekar>
    - <https://www.researchgate.net/profile/Suzanne_Smrekar>
    - **As a person:**
@@ -4286,7 +4286,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ [Twitter ⎆](https://twitter.com/aymeric_spiga)
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ [Twitter ⎆](https://twitter.com/aymeric_spiga)
    - <http://www.lmd.jussieu.fr/~aslmd/>
    - <https://github.com/aymeric-spiga>
    - <https://scholar.google.com/citations?:user=sbcePYgAAAAJ&hl=en>
@@ -4311,7 +4311,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/tom.spilker.33)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/tom-spilker-677a3310)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/tom.spilker.33)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/tom-spilker-677a3310)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4357,7 +4357,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Research Areas: Earth and planetary science, Meteorology, Physical oceanography, Hydrology.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://researchmap.jp/sugiymki/?:Lang=english>
    - **As a person:**
       1. …
@@ -4380,7 +4380,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - **Хокан Сведхем**
    - **SC/Equip.:** 2018 [BepiColombo](bepicolombo.md), 2016 [ЭкзоМарс‑2016](экзомарс_2016.md), 2005 [Venus Express](venus_express.md), 1997 [Huygens](cassini_huygens.md), Rosetta
    - **Conferences:** 2019 [EGU](egu_2019.md), 2019 [MSSS 10](msss_10.md), 2018 EPSC
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.esa.int/Science_Exploration/Space_Science/Venus_Express/Project_Scientist_An_interview_with_Haakan_Svedhem>
    - <https://scholar.google.com/citations?:user=qE0NsUMAAAAJ&hl=en>
    - **As a person:**
@@ -4404,7 +4404,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Советский и американский физик. Действительный член РАН (академик АН СССР с 1968). В 1973—1988 гг. директор Института космических исследований АН СССР. Народный депутат Верховного Совета СССР (1987—1991). Герой Социалистического Труда (1986). Труды по физике плазмы (ударные волны, процессы переноса, неустойчивости), проблеме управляемого термоядерного синтеза, космической физике.
    - **SC/Equip.:** 1984 [Вега‑1/2](vega_1_2.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ru.wikipedia.org/wiki/Сагдеев,_Роальд_Зиннурович>
    - **As a person:**
       1. …
@@ -4427,7 +4427,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/александр‑симонов‑8a5b5b7b/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/александр‑симонов‑8a5b5b7b/)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4449,7 +4449,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. Хитёр, хотя и прикидывается простачком.
 
@@ -4475,7 +4475,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Research Fields: Planetary Atmosphere Physics.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/makoto-taguchi-949852a0/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/makoto-taguchi-949852a0/)・ Twitter: <mark>notw</mark>
    - <http://univdb.rikkyo.ac.jp/view?:l=en&u=1221>
    - <https://www.researchgate.net/profile/Makoto_Taguchi>
    - **As a person:**
@@ -4499,7 +4499,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Research Areas: Earth and planetary science, Space and upper atmospheric physics; Environmental science, Environmental dynamic analysis; Social/Safety system science, Natural disaster/Disaster prevention science; Social/Safety system science, Natural disaster science; Earth and planetary science, Meteorology/Physical oceanography/Hydrology; Earth and planetary science, Solid earth and planetary physics; Geography.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www2.sci.hokudai.ac.jp/faculty/en/researcher/yukihiro-takahashi-s>
    - <https://researchers.general.hokudai.ac.jp/profile/en.57de23d74593301a520e17560c007669.html>
    - <https://kkyoka.oeic.hokudai.ac.jp/frontier/en/researcher/05/vol3/029.html>
@@ -4525,7 +4525,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/val.ten.524)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/valeriy-tenishev-a5420076)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/val.ten.524)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/valeriy-tenishev-a5420076)・ Twitter: <mark>notw</mark>
    - <https://ok.ru/profile/65829265906>
    - <https://clasp.engin.umich.edu/people/valeriy-tenishev/>
    - **As a person:**
@@ -4549,7 +4549,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Thomas_Thompson4>
    - **As a person:**
       1. …
@@ -4572,7 +4572,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Паспорт 910287393. Гражданство: UNITED STATES OF AMERICA (США). Дата окончания: 31.05.2019.
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4594,7 +4594,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** … [EnVision](envision.md), 2007 [Venus Flagship Mission](venus_flagship_mission.md), 2005 [Venus Express](venus_express.md)
    - **Conferences:** 2019 [MSSS 10](msss_10.md), 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/scientific-contributions/26232878_D_Titov>
    - **As a person:**
       1. …
@@ -4617,7 +4617,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** 2007 [Venus Flagship Mission](venus_flagship_mission.md)
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/allan-treiman-83291a45)・ [Twitter ⎆](https://twitter.com/alha81005)
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/allan-treiman-83291a45)・ [Twitter ⎆](https://twitter.com/alha81005)
    - <https://www.lpi.usra.edu/science/treiman/>
    - <https://www.lpi.usra.edu/science/staff/treiman/>
    - **As a person:**
@@ -4640,7 +4640,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - **SC/Equip.:** …
    - Все́волод Алекса́ндрович Тверди́слов — советский и российский биофизик, заслуженный профессор МГУ, заведующий кафедрой биофизики физического факультета МГУ (с 1989 года). Дважды лауреат Ломоносовской премии в области науки (2001) и области образования (2009).
    - **Conferences:** [2019 VD Workshop](vdws2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ru.wikipedia.org/wiki/Твердислов,_Всеволод_Александрович>
    - <https://istina.msu.ru/profile/Tverdislov/>
    - **As a person:**
@@ -4664,7 +4664,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://np.cosmos.ru/lyudi>
    - **As a person:**
       1. …
@@ -4687,7 +4687,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Сын — [Тучин, Денис Андреевич](zz_tuchin2.md)
    - **SC/Equip.:** 1983 [Венера‑15-16](venera_15_16.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4713,7 +4713,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - I am a civil engineer specialized in Physics. I made my thesis on the detection of urban pollution using spectroscopy. Since then I have been working in the laboratory to measure spectroscopic parameters - cross sections in the UV or line parameters in the IR, & have been involved in Earth observation projects.  I am now busy with the study of the atmospheres of bodies other than Earth, primarily Venus & Mars. I am PI of an instrument on the ESA Venus Express mission (the SOIR instrument) & my team is now building one of the instruments that will be on board the next ESA mission towards the red planet, ExoMars.
    - **SC/Equip.:** … [EnVision](envision.md), 2005 [Venus Express](venus_express.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/anncarine.vandaele)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/ann-carine-vandaele-761581a6/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/anncarine.vandaele)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/ann-carine-vandaele-761581a6/)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/AC_Vandaele>
    - **As a person:**
       1. …
@@ -4736,7 +4736,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/thomas.voirin)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/thomas‑voirin-9b85612/)・ [Twitter ⎆](https://twitter.com/thomasvoirin)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/thomas.voirin)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/thomas‑voirin-9b85612/)・ [Twitter ⎆](https://twitter.com/thomasvoirin)
    - **As a person:**
       1. …
 
@@ -4758,7 +4758,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=739785175)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/frida-kl%C3 %A6bo-vonstad)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=739785175)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/frida-kl%C3 %A6bo-vonstad)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4780,7 +4780,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/mary.voytek.9)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/mary-voytek-01118a31)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/mary.voytek.9)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/mary-voytek-01118a31)・ Twitter: <mark>notw</mark>
    - <https://en.wikipedia.org/wiki/Mary_Voytek>
    - <https://scholar.google.co.jp/citations?:user=VrcyXmgAAAAJ&hl=en>
    - <https://nai.nasa.gov/directory/voytek-mary/>
@@ -4805,7 +4805,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Автомобиль Kia Soul о065ув777.
    - **SC/Equip.:** Луна‑26 (ЛИНА-Р, ЛИНА-С)
    - **Conferences:** 2019 [MSSS 10](msss_10.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/oleg.vaisberg)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/oleg-vaisberg-4114508a/)・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/oleg.vaisberg)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/oleg-vaisberg-4114508a/)・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4827,7 +4827,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 
@@ -4849,7 +4849,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/виктор-воронцов-041683107)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/виктор-воронцов-041683107)・ Twitter: <mark>notw</mark>
    - <…>
    - **As a person:**
       1. …
@@ -4876,7 +4876,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** Mars Exploration Rover, ExoMars missions
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://eps.wustl.edu/people/alian-wang>
    - <https://scholar.google.com/citations?:user=dEH4ZtIAAAAJ&hl=en>
    - <https://www.researchgate.net/profile/Alian_Wang>
@@ -4901,7 +4901,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Ватанабэ, Сигэто.
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md), 1998 [Nozomi](nozomi.md)
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Shigeto_Watanabe>
    - <https://www.cosmo.sci.hokudai.ac.jp/~shw/>
    - <https://sites.google.com/site/spaceshw/>
@@ -4927,7 +4927,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VD Workshop 2019](vdws2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/mjway)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/mjway)・ Twitter: <mark>notw</mark>
    - <https://www.giss.nasa.gov/staff/mway/>
    - <https://www.iau.org/administration/membership/individual/18815/>
    - **As a person:**
@@ -4951,7 +4951,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** 2019 [IVC](ivc_2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/thomas.widemann.9)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://in.linkedin.com/pub/thomas‑widemann/3b/290/818)・ [Twitter ⎆](https://twitter.com/widemannthomas)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/thomas.widemann.9)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://in.linkedin.com/pub/thomas‑widemann/3b/290/818)・ [Twitter ⎆](https://twitter.com/widemannthomas)
    - <http://www.lesia.obspm.fr/perso/thomas‑widemann/>
    - <http://www.dypac.uvsq.fr/widemann-thomas‑331050.kjsp>
    - **As a person:**
@@ -4975,7 +4975,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Wielders participated in the Human Exploration Architecture review of ESA & in 1998 co‑founded the Mars Society Nederland (part of the international Mars Society) with the intent of promoting & supporting a human mission to the Red planet. Currently he is a volunteer for the Planetary Society & organises, together with the Netherlands Association for Spaceflight many space related events. He currently divides his time between Mars One & working at the European Space Technology & Research Centre (ESTEC) of the European Space Agency as a payload study manager for new planetary mission studies & as a payload systems engineer for the Jupiter Icy Moons Explorer mission.
    - **SC/Equip.:** … [EnVision](envision.md), ExoMars (XRD)
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/awielders)・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/arnowielders)・ [Twitter ⎆](https://twitter.com/arnouxus)
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/awielders)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/arnowielders)・ [Twitter ⎆](https://twitter.com/arnouxus)
    - <https://www.mars-one.com/about-mars-one/team/arno-wielders>
    - <https://www.crunchbase.com/person/arno-wielders>
    - **As a person:**
@@ -4999,7 +4999,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md), 2019 [IVC](ivc_2019.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/colin-wilson-51408520)・ [Twitter ⎆](https://twitter.com/planetarycolin)
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/colin-wilson-51408520)・ [Twitter ⎆](https://twitter.com/planetarycolin)
    - <https://scholar.google.com/citations?:user=9GFpkdMAAAAJ&hl=en>
    - <https://www2.physics.ox.ac.uk/contacts/people/wilsonc>
    - <https://www.researchgate.net/profile/Colin_Wilson5>
@@ -5028,7 +5028,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Member American Society Microbiology, Protein Society.
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ [LinkedIn ⎆](https://www.linkedin.com/in/akihiko-yamagishi-5b848074/)・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/akihiko-yamagishi-5b848074/)・ Twitter: <mark>notw</mark>
    - <https://www.ls.toyaku.ac.jp/~lcb-7/yamagishi/english/index.html>
    - <https://www.researchgate.net/profile/Akihiko_Yamagishi>
    - <https://scholar.google.com/citations?:user=nJDv_1UAAAAJ&hl=en>
@@ -5058,7 +5058,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - …
    - **SC/Equip.:** Марс‑96, Фобос‑Грунт
    - **Conferences:** 2019 [MSSS 10](msss_10.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/alexander.zakharov1)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/alexander.zakharov1)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ru.wikipedia.org/wiki/Захаров,_Александр_Валентинович>
    - **As a person:**
       1. …
@@ -5081,7 +5081,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Член‑корреспондент Российской академии космонавтики (2009). Федерацией космонавтики России награждён медалью имени Г.Н.Бабакина за вклад в развитие отечественной космонавтики (2005).
    - **SC/Equip.:** …
    - **Conferences:** …
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100006177181131)・ [Instagram ⎆](https://instagram.com/123_1973)・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100006177181131)・ [Instagram ⎆](https://instagram.com/123_1973)・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://mai.ru/content/people/index.php?:ID=85932>
    - <https://sites.google.com/site/kaf604/prepodavateli-kafedry/zanin-k-a>
    - **As a person:**
@@ -5105,7 +5105,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Volvo т164мк777. ┊ Несколько суетлива: всё время хочет бежать, делать, встречаться, чтобы всё и сразу.
    - **SC/Equip.:** …
    - **Conferences:** 2019 [MSSS 10](msss_10.md), 2019 [VD Workshop 2019](vdws2019.md)
-   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100008186858321)・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ [Facebook ⎆](https://www.facebook.com/profile.php?:id=100008186858321)・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <http://www.planetary-department-iki.ru/labs/labs531.html>
    - <http://www.planetary-department-iki.ru/people.html>
    - <https://ok.ru/profile/148316222802>
@@ -5151,7 +5151,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Автомобиль Nissan а844ек197.
    - **SC/Equip.:** …
    - **Conferences:** 2019 [MSSS 10](msss_10.md)
-   - Git: …・ Facebook: <mark>nofb</mark>・ Instagram: <mark>noin</mark>・ LinkedIn: <mark>noli</mark>・ Twitter: <mark>notw</mark>
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - <https://ru.wikipedia.org/wiki/Зелёный,_Лев_Матвеевич>
    - <https://www.linkedin.com/in/lev-zelenyi-61608a35/>
    - **As a person:**

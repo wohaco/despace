@@ -1,14 +1,13 @@
 # Euroconsult
 > 2020.07.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/e/euroconsult_logo1_thumb.jpg)](f/con/e/euroconsult_logo1.png)|<mark>noemail</mark>, +33(149)23-75-30, Fax: …;<br> *86 Boulevard de Sebastopol, 75003 Paris, France*|
+|[![](f/con/e/euroconsult_logo1_thumb.jpg)](f/con/e/euroconsult_logo1.png)|<mark>noemail</mark>, +33(149)23-75-30, Fax: …;<br> *86 Boulevard de Sebastopol, 75003 Paris, France*<br> 【<http://www.euroconsult-ec.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/euroconsult/)】|
 |:--|:--|
-|Link|<http://www.euroconsult-ec.com/>・ <https://www.linkedin.com/company/euroconsult/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|・CEO — Pacôme Revillon<br> ・COO — Steve Bochinger|
+|**[MGMT](mgmt.md)**|・CEO — Pacôme Revillon<br> ・COO — Steve Bochinger|
 
 The **Euroconsult Group** is the leading global strategy consulting & market intelligence firm specialized in the space sector & satellite enabled verticals.
 

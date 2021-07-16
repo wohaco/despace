@@ -1,14 +1,13 @@
 # SI Imaging Services
 > 2021.05.25 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/siis_logo1_thumb.png)](f/con/s/siis_logo1.jpg)|<PublicRelations@si-imaging.com>, +82-70-7835-1922, Fax: … ;<br> *SI Imaging Services, 169-84, Gwahak-ro, Yuseong-gu, Dae-jeon, 34133, Republic of Korea*|
+|[![](f/con/s/siis_logo1_thumb.png)](f/con/s/siis_logo1.jpg)|<PublicRelations@si-imaging.com>, +82-70-7835-1922, Fax: … ;<br> *SI Imaging Services, 169-84, Gwahak-ro, Yuseong-gu, Dae-jeon, 34133, Republic of Korea*<br> 【<https://www.si-imaging.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/si-imaging-services/)・ [Twitter ⎆](https://twitter.com/si_imaging)】|
 |:--|:--|
-|Link|<https://www.si-imaging.com/>・ <https://www.linkedin.com/company/si-imaging-services/>・ <https://twitter.com/si_imaging>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **SI Imaging Services (SIIS)** is the exclusive worldwide marketing and sales representative of KOMPSAT series KOMPSAT-2, KOMPSAT-3, KOMPSAT-3A and KOMPSAT-5. A part of [Satrec Initiative (SI)](zz_satreci.md).
 

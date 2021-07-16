@@ -1,14 +1,13 @@
 # Interstellar Technologies
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/i/interstellar_tech_logo1_thumb.png)](f/con/i/interstellar_tech_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *690-4 Memu, Taiki, Hiroo-gun, Hokkaido, Japan 089-2113*|
+|[![](f/con/i/interstellar_tech_logo1_thumb.png)](f/con/i/interstellar_tech_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *690-4 Memu, Taiki, Hiroo-gun, Hokkaido, Japan 089-2113*<br> 【<http://www.istellartech.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Interstellar_Technologies)・ [LinkedIn ⎆](https://www.linkedin.com/company/isterllar/)|
 |:--|:--|
-|Link|<http://www.istellartech.com/>・ <https://en.wikipedia.org/wiki/Interstellar_Technologies>・ <https://www.linkedin.com/company/isterllar/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Interstellar Technologies Inc.** is a [rocket](lv.md) development, manufacturing & launch service. Founded 2003.05.01.
 

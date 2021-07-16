@@ -1,16 +1,16 @@
 # iQPS Inc.
 > 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/i/iqps_logo1_thumb.png)](f/con/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*|
+|[![](f/con/i/iqps_logo1_thumb.png)](f/con/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*<br> 【<https://i-qps.net/>・ [Twitter ⎆](https://twitter.com/QPS_Inc>・ [Facebook ⎆](https://facebook.com/qpslaboratory/)】|
 |:--|:--|
-|Link|<https://i-qps.net/>・ <https://twitter.com/QPS_Inc>・ <https://facebook.com/qpslaboratory/>|
 |**Mission**|Expand the possibilities of space & contribute to the development of the world.|
 |**Vision**|OBSERVE THE EARTH. Anytime, Anywhere.|
-|**Values**|iQPS exists, in order to excite people & to contribute to the development of the world by tackling Essential & Original things & matters to expand the space possibilities by the Crazy way of thinking.<br> ・*Essential.* We focus on expanding the possibilities of the space & targeting the things & matters which’re really necessary for society development as well as the Earth rather than commercial gain.<br> ・*Original.* There is no need to do what has been achieved or done by somebody else already. We only find it the worth challenging when it’s unknown or unprecedented.<br> ・*Crazy.* We create a new world which can thrill, surprise & excite ourselves & people all over the world, free from existing frameworks & technologies, with creative & truly original way of thinking like a child. We call such mind as “Crazy” in a good sense.|
+|**Values**|iQPS exists, in order to excite people & to contribute to the development of the world by tackling Essential & Original things & matters to expand the space possibilities by the Crazy way of thinking. **Essential** — we focus on expanding the possibilities of the space & targeting the things & matters which’re really necessary for society development as well as the Earth rather than commercial gain. **Original** — there is no need to do what has been achieved or done by somebody else already. We only find it the worth challenging when it’s unknown or unprecedented. **Crazy** — we create a new world which can thrill, surprise & excite ourselves & people all over the world, free from existing frameworks & technologies, with creative & truly original way of thinking like a child. We call such mind as “Crazy” in a good sense.|
 |**Business**|・R&D, design, manuf. & sales of sat, on‑sat equip., precision instrument, electronic equip. & software;<br> ・technical consultation for the above;<br> ・planning & operation of workshops, training sessions & seminars regarding space technologies;<br> ・translation & publication;<br> ・all business associated with all of above.|
-|**[Manage-<br>ment](mgmt.md)**|・CEO — Shunsuke Onishi.<br> ・COO — Toshimitsu Ichiki.|
+|**[MGMT](mgmt.md)**|・CEO — Shunsuke Onishi.<br> ・COO — Toshimitsu Ichiki.|
 
-**iQPS Inc.** (**Institute for Q-shu Pioneers of Space Inc.**) is a JP company aimed to capture radar imagery of Earth every 10 minutes — a “real‑time Google Maps” — by building a constellation of a small (~ 100 ㎏) SAR ([Synthetic Aperture Radar](sar.md)) sats. Thus to measure a weather even at nighttime. Founded 2005.06.
+**iQPS Inc.** (**Institute for Q-shu Pioneers of Space Inc.**) is a JP company aimed to capture radar imagery of Earth every 10 minutes — a “real‑time Google Maps” — by building a constellation of a small (~ 100 ㎏) SAR ([Synthetic Aperture Radar](sar.md)) sats. Thus to measure a weather even at nighttime. Founded 2005.06.  
+[iQPS' cooperation map ❐](f/con/iqps_coop1.png)
 
 Reason of Our Existence — expand the possibilities of space & contribute to the development of the world. There are rules & principles in the space, different from those on the Earth. That means, there lays an unknown territory where we, humankind have never been. In order to expand the possibilities in this infinite space & make our Earth a better place, iQPS Inc is working hard to develop new technologies & their applications with high aspirations & highly inquisitive minds.
 
@@ -23,7 +23,7 @@ Insights enabled by iQPS small SAR sat (example).
       - Confirm the navigation of a ship & analyze an efficient & safe route.
       - Analyze the behavior of a particular vehicle.
       - Establish a security system to cover an entire town in cooperation with security cameras at shops.
-      - Visualize the differences between locations A & B in terms of the flow of people & economy when holding the same events.
+      - Visualize the diffs between locations A & B in terms of the flow of people/economy when holding the same events.
    1. *AI.* Forecast the prospects in combination with meteorological, market & economic data.
       - Predict the economy of a country or region from its traffic conditions.
       - Predict future corn prices in a forward market from the growth of the crop.

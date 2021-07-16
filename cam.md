@@ -21,7 +21,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Canadensys](zz_canadensys.md)<br> ・[GHGSat](zz_ghgsat.md) — imaging interferometers for Cubesats<br> ・[Macfab](zz_macfab.md)<br> ・[MDA](zz_mda.md)<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)|
+|**Canada**|・[Canadensys](zz_canadensys.md)<br> ・[GHGSat](zz_ghgsat.md) — imaging interferometers for Cubesats<br> ・[Macfab](zz_macfab.md)<br> ・[MDA](zz_mda.md)<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)<br> ・[Thoth Tech.](zz_thoth_tech.md) — cameras, spectrometers|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

@@ -1,14 +1,13 @@
 # CPP
 > 2019.08.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/c/cpp_logo1_thumb.jpg)](f/con/c/cpp_logo1.png)|<mark>noemail</mark>, +1(909)869-76-59, Fax: …;<br> *3801 West Temple Avenue,Pomona, CA 91768, USA*|
+|[![](f/con/c/cpp_logo1_thumb.jpg)](f/con/c/cpp_logo1.png)|<mark>noemail</mark>, +1(909)869-76-59, Fax: …;<br> *3801 West Temple Avenue,Pomona, CA 91768, USA*<br> 【<https://www.cpp.edu/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Pomona)】|
 |:--|:--|
-|Link|<https://www.cpp.edu/>・ <https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Pomona>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **California State Polytechnic University, Pomona (Cal Poly Pomona, CPP, or Cal Poly)** is a public polytechnic university in Pomona, California in the Los Angeles metropolitan area. It is one of two polytechnics in the California State University system.
 

@@ -1,14 +1,13 @@
 # Macfab
 > 2019.08.15 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/m/macfab_logo1_thumb.jpg)](f/con/m/macfab_logo1.png)|<sales@macfab.ca>, +1(905)238-12-10, Fax: …;<br> *Macfab Manufacturing, 330 Britannia Road East, Mississauga, Ontario L4Z 1X9, Canada*|
+|[![](f/con/m/macfab_logo1_thumb.jpg)](f/con/m/macfab_logo1.png)|<sales@macfab.ca>, +1(905)238-12-10, Fax: …;<br> *Macfab Manufacturing, 330 Britannia Road East, Mississauga, Ontario L4Z 1X9, Canada*<br> 【<http://macfab.ca/>】|
 |:--|:--|
-|Link|<http://macfab.ca/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|[Reaction wheels](iu.md), [Star trackers](sensor.md), [Sun sensors](sensor.md), [Rotary sensors & positioners](iu.md), [Deployment & retrieval mechanisms](sgm.md), [Structures](sgm.md), Waveguides, [Torque rods](sgm.md)|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 Serving customers across North & South America, the United Kingdom, Europe, Australia & Asia, **Macfab** is a leading supplier of custom components in product development & production volumes, & offers a complete suite of precision machining, finishing, cleaning & assembly solutions.
 

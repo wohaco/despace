@@ -140,7 +140,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**L**|**LDO** — [Leonardo](leonardo.md)|≠ **LDO** — [Leonardo](leonardo.md)|
 | |**LOC** — local organization comitee|≠ Местный организационный комитет|
 | |**LPRP** — [Lunar precursor robotic program](lprp.md)|≠ Предварительная программа по изучению Луны автоматами|
-|**M**|**[MBSE](mbse.md)** — model based systems engineering|Системное проектирование на основе моделей|
+|**M**|**MBSE** — [model based systems engineering](mbse.md)|Системное проектирование на основе моделей|
 | |**MCC** — [mission control center](mcc.md)|**ЦУП** — центр управления полётами|
 | |**[Mission proposal](proposal.md)**|≠ Предложение миссии|
 | |**MML** — [modeling maturity mevels](mml.md)|**УЗУ** — [уровни зрелости управления](mml.md)|

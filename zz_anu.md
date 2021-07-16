@@ -1,14 +1,13 @@
 # ANU
 > 2019.08.07 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/a/anu_logo1_thumb.jpg)](f/con/a/anu_logo1.png)|<innovation@anu.edu.au>, +61(2)6125-5111, Fax: …;<br> *ANU Alumni Relations, 52 Collins St, Melbourne VIC 3000, Australia*|
+|[![](f/con/a/anu_logo1_thumb.jpg)](f/con/a/anu_logo1.png)|<innovation@anu.edu.au>, +61(2)6125-5111, Fax: …;<br> *ANU Alumni Relations, 52 Collins St, Melbourne VIC 3000, Australia*<br> 【<http://www.anu.edu.au/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Australian_National_University)】|
 |:--|:--|
-|Link|<http://www.anu.edu.au/>・ <https://en.wikipedia.org/wiki/Australian_National_University>・ <https://ru.wikipedia.org/wiki/Австралийский_национальный_университет>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Австрали́йский национа́льный университе́т (англ. The Australian National University, ANU)** — государственный университет, расположенный в Канберре (Австралия). Создан 1 августа 1946 года. Вначале специализировался на исследовательской работе. В 1960 году объединился с Университетским колледжем Канберры и стал предоставлять также и высшее образование.
 

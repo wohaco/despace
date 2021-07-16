@@ -1,14 +1,13 @@
 # РКС
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/r/rks_logo1_thumb.jpg)](f/con/r/rks_logo1.png)|<contact@spacecorp.ru>, +7(495)509-12-01, +7(495)509-12-02, Fax: +7(495)509-12-00;<br> *Россия, 111250, Москва, ул. Авиамоторная, д. 53*|
+|[![](f/con/r/rks_logo1_thumb.jpg)](f/con/r/rks_logo1.png)|<contact@spacecorp.ru>, +7(495)509-12-01, +7(495)509-12-02, Fax: +7(495)509-12-00;<br> *Россия, 111250, Москва, ул. Авиамоторная, д. 53*<br> 【<http://russianspacesystems.ru/>】|
 |:--|:--|
-|Link|<http://russianspacesystems.ru/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **<mark>Осторожно! [Болото](swamp.md)!</mark>**
 

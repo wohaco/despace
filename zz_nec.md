@@ -1,14 +1,13 @@
 # NEC Space
 > 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/n/nec_logo1_thumb.png)](f/con/n/nec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
+|[![](f/con/n/nec_logo1_thumb.png)](f/con/n/nec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://www.necspace.co.jp/>・ <https://www.nec.com/en/global/solutions/space/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/nec/)】|
 |:--|:--|
-|Link|<https://www.necspace.co.jp/>・ <https://www.nec.com/en/global/solutions/space/>・ <https://www.linkedin.com/company/nec/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **NEC Corporation** (日本電気株式会社, Nippon Denki Kabushiki-gaisha) is a Japanese multinational information technology & electronics company, headquartered in Minato, Tokyo. The company was known as the Nippon Electric Company, Limited, before rebranding in 1983 as NEC. It provides IT & network solutions, including cloud computing, AI, IoT platform, & 5G network, to business enterprises, comms services providers & to government agencies, & has also been the biggest JP PC vendor since the 1980s.
 

@@ -1,14 +1,13 @@
 # Nihon University
 > 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/n/nihon_univ_logo1_thumb.jpg)](f/con/n/nihon_univ_logo1.jpg)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *4-chōme-8-24 Kudanminami, Chiyoda City, Tōkyō-to 102-0074, Japan*|
+|[![](f/con/n/nihon_univ_logo1_thumb.jpg)](f/con/n/nihon_univ_logo1.jpg)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *4-chōme-8-24 Kudanminami, Chiyoda City, Tōkyō-to 102-0074, Japan*<br> 【<http://www.nihon-u.ac.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Nihon_University)・ [LinkedIn ⎆](https://www.linkedin.com/school/nihon-college/)】|
 |:--|:--|
-|Link|<http://www.nihon-u.ac.jp/>・ <https://en.wikipedia.org/wiki/Nihon_University>・ <https://www.linkedin.com/school/nihon-college/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Nihon University** (日本大学, Nihon Daigaku), abbreviated as Nichidai (日大), is a private research university in Japan.
 

@@ -1,14 +1,13 @@
 # СПУТНИКС
 > 2019.08.06 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/sputnix_logo1_thumb.jpg)](f/con/s/sputnix_logo1.png)|<contact@sputnix.ru>, +7(499)322-43-15, Fax: …;<br> *Россия, 121205, Москва, Технопарк Сколково, Большой бульвар, д. 42, стр. 1, оф.358, 359*|
+|[![](f/con/s/sputnix_logo1_thumb.jpg)](f/con/s/sputnix_logo1.png)|<contact@sputnix.ru>, +7(499)322-43-15, Fax: …;<br> *Россия, 121205, Москва, Технопарк Сколково, Большой бульвар, д. 42, стр. 1, оф.358, 359*<br> 【<http://www.sputnix.ru/>・ [Facebook ⎆](http://www.facebook.com/sputnixru)・ [Twitter ⎆](https://twitter.com/SPUTNIX_ltd)・ [Instagram ⎆](http://instagram.com/sputnixru)・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Спутникс)】|
 |:--|:--|
-|Link|<http://www.sputnix.ru/>・ <https://vk.com/sputnixru>・ <http://www.facebook.com/sputnixru>・ <https://twitter.com/SPUTNIX_ltd>・ <http://instagram.com/sputnixru>・ <https://ru.wikipedia.org/wiki/Спутникс>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **ООО «Спутниковые инновационные космические системы» (СПУТНИКС)** — российская компания, разрабатывающая и создающая конструкцию и оборудования для малых космических аппаратов и <глоссарий:кубсат|кубсатов>.
 

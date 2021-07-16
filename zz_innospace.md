@@ -1,14 +1,13 @@
 # INNOSPACE
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/i/innospace_logo1_thumb.png)](f/con/i/innospace_logo1.png)|<mark>noemail</mark>, +82-44-998-2157, Fax: …;<br> *Sejong Business Center A-412, No. 232, Gareum-ro, Sejong City, Sejong 30121, Korea*|
+|[![](f/con/i/innospace_logo1_thumb.png)](f/con/i/innospace_logo1.png)|<mark>noemail</mark>, +82-44-998-2157, Fax: …;<br> *Sejong Business Center A-412, No. 232, Gareum-ro, Sejong City, Sejong 30121, Korea*<br> 【<http://www.innospc.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/inno-space)|
 |:--|:--|
-|Link|<http://www.innospc.com/>・ <https://www.linkedin.com/company/inno-space>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **INNOSPACE** is an Aerospace Manufacturing Company & Aerospace Engineering Service Providers. Manufacture a [Hybrid rocket propulsion](ps.md). Founded in 2017.
 

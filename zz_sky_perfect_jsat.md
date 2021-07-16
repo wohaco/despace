@@ -1,14 +1,13 @@
 # SKY Perfect JSAT
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/sky_perfect_jsat_logo1_thumb.png)](f/con/s/sky_perfect_jsat_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*|
+|[![](f/con/s/sky_perfect_jsat_logo1_thumb.png)](f/con/s/sky_perfect_jsat_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://www.skyperfectjsat.space/>・ <https://www.jsat.net/en/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/SKY_Perfect_JSAT)・ [LinkedIn ⎆](https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/)】|
 |:--|:--|
-|Link|<https://www.skyperfectjsat.space/>・ <https://www.jsat.net/en/>・ <https://en.wikipedia.org/wiki/SKY_Perfect_JSAT>・ <https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **SKY Perfect JSAT Group** is a Japanese corporate group that claims to be Asia's largest [satellite](sc.md) communication & multi‑channel pay TV company. It owns the SKY PerfecTV! satellite broadcasting service & the SKY Perfect Well Think content studio, among other businesses.
 

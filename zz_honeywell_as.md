@@ -1,14 +1,13 @@
 # Honeywell Aerospace
 > 2019.08.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/h/honeywell_as_logo1_thumb.jpg)](f/con/h/honeywell_as_logo1.png)|<mark>noemail</mark>, +1(602)365-30-99, Fax: …;<br> *1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*|
+|[![](f/con/h/honeywell_as_logo1_thumb.jpg)](f/con/h/honeywell_as_logo1.png)|<mark>noemail</mark>, +1(602)365-30-99, Fax: …;<br> *1944 E Sky Harbor Cir N, Phoenix, AZ 85034, USA*<br> 【<https://aerospace.honeywell.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Honeywell_Aerospace)・ [LinkedIn ⎆](https://www.linkedin.com/company/honeywell-aerospace)】|
 |:--|:--|
-|Link|<https://aerospace.honeywell.com/>・ <https://en.wikipedia.org/wiki/Honeywell_Aerospace>・ <https://www.linkedin.com/company/honeywell-aerospace>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|[Software](soft.md), [signal & data processing, flight & ground operations](scs.md)|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Honeywell Aerospace** is a manufacturer of aircraft engines & avionics, as well as a producer of auxiliary power units (APUs) & other aviation products. Founded in 1936.
 

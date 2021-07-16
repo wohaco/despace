@@ -1,14 +1,13 @@
 # Umitron
 > 2020.10.26 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/u/umitron_logo1_thumb.png)](f/con/u/umitron_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *UMITRON K. K., Izumi Akasaka Building, 2-22-24 Akasaka, Minato, Tokyo, 107-0052, Japan*|
+|[![](f/con/u/umitron_logo1_thumb.png)](f/con/u/umitron_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *UMITRON K. K., Izumi Akasaka Building, 2-22-24 Akasaka, Minato, Tokyo, 107-0052, Japan*<br> 【<https://umitron.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/umitron)・ [Twitter ⎆](https://twitter.com/umitron)】|
 |:--|:--|
-|Link|<https://umitron.com/>・ <https://www.linkedin.com/company/umitron>・ <https://twitter.com/umitron>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 UMITRON is a Singapore and Japan based deeptech company whose aim is to solve worldwide food and environmental problems by empowering aquaculture through technology. We build user-friendly data platforms for aquaculture by using IoT, satellite remote sensing, and AI. Our technology helps farmers improve farm efficiency, manage environmental risks, and increase business revenues. Our final goal is to utilize computer models in combination with aquaculture to help the world sustainably and efficiently deliver protein in a human-friendly and nature-friendly way. Ultimately, we aim to “install Sustainable Aquaculture on Earth”. Founded 2016.04.21.
 

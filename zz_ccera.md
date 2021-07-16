@@ -1,14 +1,13 @@
 # CCERA
 > 2020.06.28 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/c/ccera_logo1_thumb.jpg)](f/con/c/ccera_logo1.png)|<info@ccera.ca>, <mark>noworkphone</mark>, Fax: …;<br> *Canadian Centre for Experimental Radio Astronomy, 361 Queen Street, Building 510, Suite 204, Smiths Falls, Ontario, K7A 0A6, Canada. Postal address: P.O. Box 862, Smiths Falls, ON, K7A 4W7*|
+|[![](f/con/c/ccera_logo1_thumb.jpg)](f/con/c/ccera_logo1.png)|<info@ccera.ca>, <mark>noworkphone</mark>, Fax: …;<br> *Canadian Centre for Experimental Radio Astronomy, 361 Queen Street, Building 510, Suite 204, Smiths Falls, Ontario, K7A 0A6, Canada. Postal address: P.O. Box 862, Smiths Falls, ON, K7A 4W7*<br> 【<http://www.ccera.ca/>・ <https://github.com/ccera-astro>】|
 |:--|:--|
-|Link|<http://www.ccera.ca/>・ <https://github.com/ccera-astro>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|Supporting education & research in radio astronomy techniques & applications|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Canadian Center for Experimental Radio Astronomy (CCERA)** is a membership association which supports education & research in radio astronomy techniques & applications targeted at smaller institutions & interested individuals. We are federally incorporated as a not‑for‑profit in Canada. We operate an observatory & research centre near Smiths Falls, Ontario, Canada. We have a scientific advisory board who provide direction & advice on an ad‑hoc basis.
 

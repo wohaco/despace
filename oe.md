@@ -35,7 +35,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[MDA](zz_mda.md)|
+|**Canada**|・[MDA](zz_mda.md)<br> ・[Thoth Tech.](zz_thoth_tech.md) — cameras, spectrometers|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

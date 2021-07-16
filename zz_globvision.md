@@ -1,14 +1,13 @@
 # GlobVision
 > 2021.09.26 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/g/globvision_logo1_thumb.png)](f/con/g/globvision_logo1.png)|<info@globvision.com>,  +1(514)855-04-55, Fax: +1(514)855-18-70;<br> *780 Ste-Croix Ave., Suite 100, St. Laurent, Montreal, Quebec, H4L 3Y2, Canada*|
+|[![](f/con/g/globvision_logo1_thumb.png)](f/con/g/globvision_logo1.png)|<info@globvision.com>,  +1(514)855-04-55, Fax: +1(514)855-18-70;<br> *780 Ste-Croix Ave., Suite 100, St. Laurent, Montreal, Quebec, H4L 3Y2, Canada*<br> 【<https://www.globvision.com/>】|
 |:--|:--|
-|Link|<https://www.globvision.com/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|[Software](soft.md) for spacecraft, support & automate the design|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **GlobVision** develops, integrates, & markets innovative software solutions that enable informed decision‑making & enhance the performance & reliability of safety‑critical, business‑critical & mission‑critical complex systems.
 

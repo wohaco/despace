@@ -1,14 +1,13 @@
 # Hamamatsu Photonics
 > 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/h/hamamatsu_phot_logo1_thumb.png)](f/con/h/hamamatsu_phot_logo1.png)|<mark>noemail</mark>, +81-53-962-5245, Fax: +81-53-962-2205;<br> *325-6, Sunayama-cho, Naka-ku, Hamamatsu City, Shizuoka, 430-8587, Japan*|
+|[![](f/con/h/hamamatsu_phot_logo1_thumb.png)](f/con/h/hamamatsu_phot_logo1.png)|<mark>noemail</mark>, +81-53-962-5245, Fax: +81-53-962-2205;<br> *325-6, Sunayama-cho, Naka-ku, Hamamatsu City, Shizuoka, 430-8587, Japan*<br> 【<http://hamamatsu.com/>・ <https://aerospacebiz.jaxa.jp/en/partner/company/07/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Hamamatsu_Photonics)・ [LinkedIn ⎆](https://www.linkedin.com/company/hamamatsu/)】|
 |:--|:--|
-|Link|<http://hamamatsu.com/>・ <https://aerospacebiz.jaxa.jp/en/partner/company/07/>・ <https://en.wikipedia.org/wiki/Hamamatsu_Photonics>・ <https://www.linkedin.com/company/hamamatsu/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Hamamatsu Photonics K.K.** (浜松ホトニクス株式会社, Hamamatsu Hotonikusu Kabushiki-gaisha) is a Japanese manufacturer of optical [sensors](sensor.md) (incl. photomultiplier tubes), electric light sources, other optical devices & their applied instruments for scientific, technical, medical use. In the space sector, Hamamatsu Photonics’ rocket tracking system that utilizes high‑speed television cameras, X‑ray charge‑coupled devices (CCDs), visible light & near‑infrared semiconductor sensors & other products are widely used for the Earth observation satellites, astronomical satellites, the International Space Station (ISS) & elsewhere. Founded 1953.09.29.
 

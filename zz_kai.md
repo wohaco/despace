@@ -1,14 +1,13 @@
 # KAI
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/k/kai_logo1_thumb.png)](f/con/k/kai_logo1.png)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*|
+|[![](f/con/k/kai_logo1_thumb.png)](f/con/k/kai_logo1.png)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*<br> 【<http://www.koreaaero.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Industries)・ [LinkedIn ⎆](https://www.linkedin.com/company/korea-aerospace-industries/)|
 |:--|:--|
-|Link|<http://www.koreaaero.com/>・ <https://en.wikipedia.org/wiki/Korea_Aerospace_Industries>・ <https://www.linkedin.com/company/korea-aerospace-industries/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Korea Aerospace Industries** (Korean: 한국항공우주산업, Hanja: 韓國航空宇宙産業) (**KAI**) is a South Korean aerospace & defense company. KAI has developed various aerospace products, including the Korea Space [Launch Vehicle](lv.md) (KSLV)-II & various [satellites](sc.md). Both the company’s headquarters & several key manufacturing facilities are located in Sacheon, South Gyeongsang Province.
 

@@ -1,14 +1,13 @@
 # MSCI
 > 2019.08.27 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/m/msci_logo1_thumb.jpg)](f/con/m/msci_logo1.png)|<mark>noemail</mark>, +1(905)364-03-88, Fax: +1(905)364-03-89;<br> *6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*|
+|[![](f/con/m/msci_logo1_thumb.jpg)](f/con/m/msci_logo1.png)|<mark>noemail</mark>, +1(905)364-03-88, Fax: +1(905)364-03-89;<br> *6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*<br> 【<http://www.mscinc.ca/> ・[LinkedIn ⎆](https://ca.linkedin.com/company/microsat-systems-canada-inc.)】|
 |:--|:--|
-|Link|<http://www.mscinc.ca/>・<https://ca.linkedin.com/company/microsat-systems-canada-inc.>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|[Reaction wheels](iu.md), rate measurement units, [microsats](sc.md), attitude control systems|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Microsat Systems Canada Inc. (MSCI)** is a privately held Canadian corporation applying dynamics & control technology in the space market for reaction wheels, rate measurement units & complete microsatellites. Formerly the space division of Dynacon Inc., MSCI has been the premiere builder of microsats in Canada for over a decade.
 

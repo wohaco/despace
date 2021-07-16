@@ -1,14 +1,13 @@
 # ㎆RSC
 > 2020.02.12 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/m/mbrsc_logo1_thumb.jpg)](f/con/m/mbrsc_logo1.png)|<info@mbrsc.ae>, +971(4)607-12-00, Fax: …;<br> *Al Khawaneej Street,Al Khawaneej, Dubai, ОАЭ*|
+|[![](f/con/m/mbrsc_logo1_thumb.jpg)](f/con/m/mbrsc_logo1.png)|<info@mbrsc.ae>, +971(4)607-12-00, Fax: …;<br> *Al Khawaneej Street,Al Khawaneej, Dubai, ОАЭ*<br> 【<http://www.mbrsc.ae/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre)】|
 |:--|:--|
-|Link|<http://www.mbrsc.ae/>・ <https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre>・ <https://ru.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Космический центр имени Мухаммеда бин Рашида (Mohammed bin Rashid Space Centre, ㎆RSC)**, в состав которого входит Эмиратский институт передовых наук и технологий (EIAST) — правительственная организация Дубая, работающая над космической программой ОАЭ. Основан 2006.02.02 как EIAST, а 2015.04.17 расширен до ㎆RSC. Член [IAF](zz_iaf.md) с 2012 г.
 

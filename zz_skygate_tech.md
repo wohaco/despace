@@ -1,14 +1,13 @@
 # Skygate Technologies
 > 2020.11.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/skygate_tech_logo1_thumb.png)](f/con/s/skygate_tech_logo1.png)|<skygate@skygate-tech.com>, <mark>noworkphone</mark>, Fax: …; *東京都江東区青海二丁目5番10号 テレコムセンタービル東棟14F. Koto, Tokyo, Japan*|
+|[![](f/con/s/skygate_tech_logo1_thumb.png)](f/con/s/skygate_tech_logo1.png)|<skygate@skygate-tech.com>, <mark>noworkphone</mark>, Fax: …; *東京都江東区青海二丁目5番10号 テレコムセンタービル東棟14F. Koto, Tokyo, Japan*<br> 【<https://www.skygate-tech.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/skygate-tech)・ [Facebook ⎆](https://www.facebook.com/skygatetech)・ [Twitter ⎆](https://twitter.com/skygate_tech)】|
 |:--|:--|
-|Link|<https://www.skygate-tech.com/>・ <https://linkedin.com/company/skygate-tech>・ <https://www.facebook.com/skygatetech>・ <https://twitter.com/skygate_tech>|
 |**Mission**|To give every developer the power to change the world by earth observation data.|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Skygate Technologies Inc.** affords Ground Station as a Service for satellites. Founded 2020.02.12.
 

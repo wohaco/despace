@@ -1,14 +1,13 @@
 # Kepler Communications
 > 2019.08.28 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/k/kepler_comms_logo1_thumb.jpg)](f/con/k/kepler_comms_logo1.png)|<mark>noemail</mark>, +1(437)537-53-71, Fax: +1(437)537-53-72;<br> *196 Spadina Avenue, Suite 400 Toronto M5T 2C2 Canada*|
+|[![](f/con/k/kepler_comms_logo1_thumb.jpg)](f/con/k/kepler_comms_logo1.png)|<mark>noemail</mark>, +1(437)537-53-71, Fax: +1(437)537-53-72;<br> *196 Spadina Avenue, Suite 400 Toronto M5T 2C2 Canada*<br> 【<http://www.keplercommunications.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kepler_Communications)】|
 |:--|:--|
-|Link|<http://www.keplercommunications.com/>・ <https://en.wikipedia.org/wiki/Kepler_Communications>|
 |**Mission**|**We are on a mission to build the Internet in space.** As we continue to build out our constellation, Kepler will bring in the Internet to space. We want to provide real-time communications to other satellites, space stations, launch vehicles, habitats, and any other space-borne assets. As we work towards that, Kepler is using our existing and emerging technology to reshape the satellite communications industry. We develop groundbreaking technology and provide real solution for global gaps in connectivity. We are passionate about helping businesses thrive in an increasingly data-heavy world.|
 |**Vision**|…|
 |**Values**|**Work Together** — to go far, go together; strive to ensure the bonds of teamwork, goodwill, & trust in others are continuously strengthened for both internal counterparts & external partners. **Speak up & Listen** — be honest & open when something needs addressing, but listen keenly when others are expressing themselves; in discussions, seek truth & a higher level of understanding. **Own & Entrust** — own responsibility for projects & problems; take the initiative to solve when you identify a problem; entrust others with responsibility & decision making; democratize the decision making. **Endeavor for the 10x** — constantly seek new opportunities for learning & improvement; do the hard stuff; encourage innovation by giving others freedom to try & fail. **Mission Driven** — maintain an intense drive to accomplish & a firm belief in the need for accomplishing the Kepler Mission.|
 |**Business**|[CubeSats](sc.md) for global comms & IoT, antennas, data retranslation|
-|**[Manage-<br>ment](mgmt.md)**|・CEO — Mina Mitry<br> ・CTO — Wen Cheng Chong|
+|**[MGMT](mgmt.md)**|・CEO — Mina Mitry<br> ・CTO — Wen Cheng Chong|
 
 **Kepler Communications Inc.** is a privately held company based in Toronto, Canada. The company’s stated mission is to deliver affordable network connectivity across the globe via a growing network of small satellites. Founded in 2015 by four graduates students from the University of Toronto.
 

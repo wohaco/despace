@@ -1,14 +1,13 @@
 # Lassonde School of Engineering
 > 2021.06.29 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/l/lassonde_soe_logo1_thumb.png)](f/con/l/lassonde_soe_logo1.png)|<ask@lassonde.yorku.ca>, +1(416)736-54-84, Fax: … ;<br> *4700 Keele Street, Toronto ON, M3J 1P3 Canada*|
+|[![](f/con/l/lassonde_soe_logo1_thumb.png)](f/con/l/lassonde_soe_logo1.png)|<ask@lassonde.yorku.ca>, +1(416)736-54-84, Fax: … ;<br> *4700 Keele Street, Toronto ON, M3J 1P3 Canada*<br> 【<https://lassonde.yorku.ca/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Lassonde_School_of_Engineering)】|
 |:--|:--|
-|Link|<https://lassonde.yorku.ca/>・ <https://en.wikipedia.org/wiki/Lassonde_School_of_Engineering>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|Higher education|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **Lassonde School of Engineering** is a professional engineering school of York University located in Toronto, Ontario, Canada. The school's stated goal is to create “renaissance engineers”, entrepreneurial engineers with a social conscience & a sense of global citizenship. Lassonde also incorporates crossover programming with York University’s Schulich School of Business & Osgoode Hall Law School to study law, business & entrepreneurship alongside the engineering program.
 

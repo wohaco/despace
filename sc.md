@@ -38,12 +38,12 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[ADGA](zz_adga.md) — space systems engineering<br> ・[AQST Canada](zz_aqst_ca.md)<br> ・[BRASS](zz_brass.md) — design consultancy<br> ・[C-CORE](zz_c_core.md) — technology consultancy<br> ・[Canadensys](zz_canadensys.md)<br> ・[Magellan Aerospace](zz_magellan_as.md)<br> ・[MDA](zz_mda.md) — Earth sats<br> ・[MSCI](zz_msci.md)<br> ・[SatCan](zz_satcan.md) — engineering & business consultancy for sat telecom & space tech sectors|
+|**Canada**|・[ADGA](zz_adga.md) — space systems engineering<br> ・[AQST Canada](zz_aqst_ca.md)<br> ・[BRASS](zz_brass.md) — design consultancy<br> ・[C-CORE](zz_c_core.md) — technology consultancy<br> ・[Canadensys](zz_canadensys.md)<br> ・[Magellan Aerospace](zz_magellan_as.md)<br> ・[MDA](zz_mda.md) — Earth sats<br> ・[MSCI](zz_msci.md)<br> ・[SatCan](zz_satcan.md) — engineering & business consultancy for sat telecom & space tech sectors<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) CubeSats<br> ・[UTIAS](zz_utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
 |**Israel**|…|
-|**Japan**|・[ALE Co., Ltd](zz_ale.md) — small Earth satellites<br> ・[Astroscale](zz_astroscale.md) — space debris<br> ・[Axelspace](zz_axelspace.md) — microsats<br> ・[CE Space](zz_ce_space.md) — microsats<br> ・[ispace](zz_ispace.md)<br> ・[JAMSS](zz_jamss.md) — Earth sats<br> ・JAXA [ISAS](zz_isas.md)<br> ・JAXA [Tsukuba Space Center](zz_tsukuba_sc.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md)<br> ・[Meisei](zz_meisei.md) — microsats<br> ・[Mitsubishi Electric](zz_mitsubishi.md)<br> ・[NEC](zz_nec.md)<br> ・[PDAS](zz_pd_aerospace.md) — suborbital spaceplane for tourism<br> ・[SKY Perfect JSAT](zz_sky_perfect_jsat.md)<br> ・[Space Walker](zz_space_walker.md) — suborbital spaceplane for tourism<br> ・[Synspective](zz_synspective.md) — small Earth sats<br> ・[Warpspace](zz_warpspace.md)|
+|**Japan**|・[ALE Co., Ltd](zz_ale.md) — small Earth satellites<br> ・[Astroflash](zz_astroflash.md) — small sats<br> ・[Astroscale](zz_astroscale.md) — space debris<br> ・[Axelspace](zz_axelspace.md) — microsats<br> ・[CE Space](zz_ce_space.md) — microsats<br> ・[ispace](zz_ispace.md)<br> ・[JAMSS](zz_jamss.md) — Earth sats<br> ・JAXA [ISAS](zz_isas.md)<br> ・JAXA [Tsukuba Space Center](zz_tsukuba_sc.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md)<br> ・[Meisei](zz_meisei.md) — microsats<br> ・[Mitsubishi Electric](zz_mitsubishi.md)<br> ・[NEC](zz_nec.md)<br> ・[PDAS](zz_pd_aerospace.md) — suborbital spaceplane for tourism<br> ・[SKY Perfect JSAT](zz_sky_perfect_jsat.md)<br> ・[Space Walker](zz_space_walker.md) — suborbital spaceplane for tourism<br> ・[Synspective](zz_synspective.md) — small Earth sats<br> ・[Warpspace](zz_warpspace.md)|
 |**Korea S.**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Satrec Initiative](zz_satreci.md)|
 |**Russia**|・Lavochkin Association<br> ・[VNIIEM](zz_vniiem.md)<br> ・[РКК Энергия](ркк_энергия.md)<br> ・[AvantSpace](zz_avantspace.md)|
 |**Saudi Ar.**|…|
@@ -113,7 +113,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[AlbertaSat](zz_albertasat.md)<br> ・[Kepler Communications](zz_kepler_comms.md)<br> ・[DSS](zz_dsslabs.md)<br> ・[SFL](zz_utias_sfl.md)|
+|**Canada**|・[AlbertaSat](zz_albertasat.md)<br> ・[Kepler Communications](zz_kepler_comms.md)<br> ・[DSS](zz_dsslabs.md)<br> ・[SFL](zz_utias.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

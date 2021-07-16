@@ -1,14 +1,13 @@
 # Kyocera
 > 2020.07.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/k/kyocera_logo1_thumb.png)](f/con/k/kyocera_logo1.png)|<mark>noemail</mark>, +81-75-604-3500, Fax: +81-75-604-3501;<br> *6 Takeda Tobadono-cho, Fushimi-ku, Kyoto-shi, Kyoto, 612-8501 Japan*|
+|[![](f/con/k/kyocera_logo1_thumb.png)](f/con/k/kyocera_logo1.png)|<mark>noemail</mark>, +81-75-604-3500, Fax: +81-75-604-3501;<br> *6 Takeda Tobadono-cho, Fushimi-ku, Kyoto-shi, Kyoto, 612-8501 Japan*<br> 【<https://global.kyocera.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kyocera)・ [LinkedIn ⎆](https://www.linkedin.com/company/kyocera-global/)】|
 |:--|:--|
-|Link|<https://global.kyocera.com/>・ <https://en.wikipedia.org/wiki/Kyocera>・ <https://www.linkedin.com/company/kyocera-global/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Kyocera Corporation** (京セラ株式会社, Kyōsera Kabushiki-gaisha, pronounced kʲoːseɾa) is a Japanese multinational ceramics & electronics manufacturer headquartered in Kyoto, Japan. Founded in 1959.
 

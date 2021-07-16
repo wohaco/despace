@@ -1,14 +1,13 @@
 # Kawasaki HVI
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/k/kawasaki_hvi_logo1_thumb.jpg)](f/con/k/kawasaki_hvi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-3, Higashikawasaki-cho 1-chome,, Chuo-ku, Kobe,, Hyogo 650-8680, Japan*|
+|[![](f/con/k/kawasaki_hvi_logo1_thumb.jpg)](f/con/k/kawasaki_hvi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-3, Higashikawasaki-cho 1-chome,, Chuo-ku, Kobe,, Hyogo 650-8680, Japan*<br> 【<http://global.kawasaki.com/en/mobility/air/space/index.html> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kawasaki_Aerospace_Company)・ [LinkedIn ⎆](https://www.linkedin.com/company/kawasaki-heavy-industries/)】|
 |:--|:--|
-|Link|<http://global.kawasaki.com/en/mobility/air/space/index.html>・ <https://en.wikipedia.org/wiki/Kawasaki_Aerospace_Company>・ <https://www.linkedin.com/company/kawasaki-heavy-industries/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Kawasaki Heavy Industries Aerospace Company** (川崎重工業航空宇宙カンパニー, Kawasaki Jūkōgyō Kōkūuchū Kanpanii) is the aerospace division of Kawasaki Heavy Industries (KHI). It produces aircraft, space systems, simulators, jet engines, missiles, & electronic equipment. **Kawasasaki Heavy Industries, Aerospace Systems Company** is a Japanese designer & manufacturer of the [satellites](sc.md), fairings, [rocket launch complex](spaceport.md), space transport.
 

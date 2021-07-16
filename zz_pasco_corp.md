@@ -1,14 +1,13 @@
 # PASCO Corporation
 > 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/p/pasco_corp_logo1_thumb.jpg)](f/con/p/pasco_corp_logo1.png)|<mark>noemail</mark>, +81-3-6412-2978, Fax: …;<br> *1-1-2 Higashiyama, Meguro-ku, Tokyo 153-0043, Japan*|
+|[![](f/con/p/pasco_corp_logo1_thumb.jpg)](f/con/p/pasco_corp_logo1.png)|<mark>noemail</mark>, +81-3-6412-2978, Fax: …;<br> *1-1-2 Higashiyama, Meguro-ku, Tokyo 153-0043, Japan*<br> 【<https://www.pasco.co.jp/>】|
 |:--|:--|
-|Link|<https://www.pasco.co.jp/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **PASCO CORPORATION** is a Japanese company which provides geospatial Information: collecting, processing, providing. Founded 1953.10.27.
 

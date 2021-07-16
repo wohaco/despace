@@ -1,14 +1,13 @@
 # GHGSat
 > 2019.08.29 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/g/ghgsat_logo1_thumb.png)](f/con/g/ghgsat_logo1.png)|<info@ghgsat.com>, +1(514)847-94-74, Fax: …;<br> *3981 St Laurent Blvd Suite 500, Montreal, QC H2W 1Y5, Canada*|
+|[![](f/con/g/ghgsat_logo1_thumb.png)](f/con/g/ghgsat_logo1.png)|<info@ghgsat.com>, +1(514)847-94-74, Fax: …;<br> *3981 St Laurent Blvd Suite 500, Montreal, QC H2W 1Y5, Canada*<br> 【<https://www.ghgsat.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/ghgsat-inc/)・ [Twitter ⎆](https://twitter.com/ghgsat)】|
 |:--|:--|
-|Link|<https://www.ghgsat.com/>・ <https://www.linkedin.com/company/ghgsat-inc/>・ <https://twitter.com/ghgsat>|
 |**Mission**|With evolving climate dynamics, we thrive to collaborate with the global communities to share our expertise & create a compelling perspective for the future of humanity. |
 |**Vision**|A leading‑edge space & data technology company, we accelerate the decarbonization of our planet. Through our emission monitoring solutions & analytics tools, we provide actionable metrics & insights that empower the economies of tomorrow.|
 |**Values**|…|
 |**Business**|Greenhouse gases monitoring, [gas sensors](sensor.md) & [imaging interferometers](cam.md) for Cubesats|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **GHGSat** provides global emissions monitoring services, currently for greenhouse gases & ultimately also for air quality & other trace gases from a wide range of sources.
 

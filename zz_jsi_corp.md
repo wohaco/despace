@@ -1,14 +1,13 @@
 # JSI Corp
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/j/jsi_corp_logo1_thumb.jpg)](f/con/j/jsi_corp_logo1.png)|<mark>noemail</mark>, +81-3-5204-2711, Fax: …;<br> *KYOBASHI EDOGRAND 20th Floor 2-2-1, Kyobashi, Chuo-Ku, Tokyo 104-0031, Japan*|
+|[![](f/con/j/jsi_corp_logo1_thumb.jpg)](f/con/j/jsi_corp_logo1.png)|<mark>noemail</mark>, +81-3-5204-2711, Fax: …;<br> *KYOBASHI EDOGRAND 20th Floor 2-2-1, Kyobashi, Chuo-Ku, Tokyo 104-0031, Japan*<br> 【<https://www.jsicorp.jp/>】|
 |:--|:--|
-|Link|<https://www.jsicorp.jp/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|・Geospatial information services (online services, value-added products, data analysis, GIS software, base map)<br> ・Satellite data services<br> ・Tasking services|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Japan Space Imaging Corporation (JSI)** is a pioneer of satellite remote sensing commercial services in Japan. Major Shareholders: Hitachi and Mitsubishi. Founded 1998.05.11.
 

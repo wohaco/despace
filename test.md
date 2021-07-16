@@ -18,6 +18,25 @@
 
 Испытываемое изделие допускается к следующему этапу испытаний только при условии успешного проведения предыдущих этапов, в т.ч. устранения всех замечаний, полученных на данном этапе, поэтому при планировании испытаний между разными стадиями закладывается интервал времени для их устранения (как правило, несколько месяцев). Данная организация позволяет экономить средства, затрачиваемые на испытания, так как каждый следующий этап дороже предыдущего как по стоимости проведения, так и по последствиям ошибок, выявляемых на более поздних этапах. Кроме того, проведение следующей стадии испытания с [изделием](unit.md), содержащим неустранённые замечания, если и возможно, то приводит к искажённой картине при последующих испытаниях (некоторые ошибки могут быть не выявлены из‑за их маскировки другими, некоторых видимых ошибок может на самом деле не быть — они могут быть наведены другими ошибками).
 
+**Manufacturers:**
+
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|・[Calian AT](zz_calian_at.md) — Ground testing equipment, In orbit test systems<br> ・[Telecan Space](zz_telecan_space.md) — Thermal testing<br> ・[Thoth Tech.](zz_thoth_tech.md) — thermal vacuum & vibration tests|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|・[IMV](zz_imv_corp.md)<br> ・[Mitsubishi](zz_mitsubishi.md) — Rocket Engine Combustion Test Facility<br> ・[Pale Blue Inc.](zz_pale_blue_inc.md)|
+|**Korea S.**|…|
+|**Russia**|…|
+|**Saudi Ar.**|…|
+|**Singapore**|…|
+|**USA**|…|
+|**UAE**|…|
+|**Vietnam**|…|
+
 
 
 ## Виды и цели
@@ -95,7 +114,7 @@
 
 
 
-## Оборудование, интерфейсы, производители
+## Оборудование, интерфейсы
 **[Interfaces](interface.md):**
 
    - [JTAG](jtag.md) — for electronic components testing
@@ -104,25 +123,6 @@
 
    - [AVEC](avec.md) (V = 0.0007 m³, [JHU APL](zz_jhuapl.md))
    - [GEER](geer.md) (V = 0.811 m³ и 0.004 m³, [GRC](zz_grc.md))
-
-**Manufacturers:**
-
-| | |
-|:--|:--|
-|**Australia**|…|
-|**Canada**|…|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[IMV](zz_imv_corp.md)<br> ・[Mitsubishi](zz_mitsubishi.md) — Rocket Engine Combustion Test Facility<br> ・[Pale Blue Inc.](zz_pale_blue_inc.md)|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
 
 
 

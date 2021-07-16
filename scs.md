@@ -100,7 +100,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations<br> ・[Honeywell Aerospace](zz_honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](zz_mda.md)|
+|**Canada**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations<br> ・[Calian AT](zz_calian_at.md) — Composite carbon fiber antenna, Comms systems, TT&C systems, Earth observation systems, Monitor & reconfiguration systems, Mission operations systems, Satellite gateway systems<br> ・[Honeywell Aerospace](zz_honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](zz_mda.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

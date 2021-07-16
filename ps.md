@@ -5,7 +5,7 @@
 
 ---
 
-> <small>・**Двигательная установка (ДУ)** — русскоязычный термин. **Propulsion system (PS)** — англоязычный эквивалент.<br> ・**Двигатель стабилизации (ДСТ)** — русскоязычный термин. **Stabilization engine (STEN)** — англоязычный эквивалент.<br> ・**Двигатель малой тяги (ДМТ)** — русскоязычный термин. **Low thrust engine (LTEN)** — англоязычный эквивалент.</small>
+> <small> ・**Двигательная установка (ДУ)** — русскоязычный термин. **Propulsion system (PS)** — англоязычный эквивалент.<br> ・**Двигатель стабилизации (ДСТ)** — русскоязычный термин. **Stabilization engine (STEN)** — англоязычный эквивалент.<br> ・**Двигатель малой тяги (ДМТ)** — русскоязычный термин. **Low thrust engine (LTEN)** — англоязычный эквивалент.</small>
 
 **Ракетный двигатель** — реактивный двигатель, источник энергии и [рабочее тело](fuel.md) которого находятся в самом средстве передвижения. Единственный практически освоенный способ вывода полезной нагрузки на орбиту Земли.
 
@@ -73,7 +73,7 @@ Programs and technologies:
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Baryon Dynamics](zz_baryon_dyn.md) — mostly for CubeSats<br> ・[Pratt & Whitney](zz_pratt_n_whitney.md)|
+|**Canada**|・[Baryon Dynamics](zz_baryon_dyn.md) — mostly for CubeSats<br> ・[Pratt & Whitney](zz_pratt_n_whitney.md)<br> ・[Space Engine Systems](zz_space_engs.md) — SSTO propulsion, pumps, compressors, gear boxes, Permanent Magnet Motors|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

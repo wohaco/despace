@@ -18,7 +18,28 @@
    1. 1 погонного метра силового кабеля: 0.0133 ㎏;
    1. 1 разъёма: 0.015 ㎏.
 
-**Connectors**
+**Manufacturers:**
+
+| | |
+|:--|:--|
+|**Australia**|…|
+|**Canada**|・[Calian AT](zz_calian_at.md) — Cable Modulators|
+|**China**|…|
+|**Europe**|…|
+|**India**|…|
+|**Israel**|…|
+|**Japan**|…|
+|**Korea S.**|…|
+|**Russia**|・БКС КА производят все, кто производит КА ([ВНИИЭМ](zz_vniiem.md), [ИСС](zz_iss_r.md), [LAV](zz_lav.md) и т.д.)<br> ・межблочную БКС производят все, кто производит бортовую аппаратуру|
+|**Saudi Ar.**|…|
+|**Singapore**|…|
+|**USA**|…|
+|**UAE**|…|
+|**Vietnam**|…|
+
+
+
+## Connectors
 
 |*Picture*|*Description*|
 |:--|:--|
@@ -30,12 +51,6 @@
 |![](f/cable/de_9_1_thumb.jpg)|[RS-422](rs_xxx.md) (DE-9)<br> (data exchange)|
 |![](f/cable/de_9_1_thumb.jpg)|[RS-485](rs_xxx.md) (DE-9)<br> (data exchange)|
 |![](f/cable/micro_d_1_thumb.jpg)|[SpaceWire](spacewire.md)<br> (data exchange, currently **most perspective**)|
-
-
-## Designers, manufacturers
-   - **РФ:**
-     1. БКС КА производят все, кто производит КА ([ВНИИЭМ](zz_vniiem.md), [ИСС](zz_iss_r.md), [LAV](zz_lav.md) и т.д.)
-     1. межблочную БКС производят все, кто производит бортовую аппаратуру
 
 
 

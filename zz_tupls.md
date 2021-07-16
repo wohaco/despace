@@ -3,12 +3,13 @@
 
 |[![](f/con/t/tupls_logo1_thumb.jpg)](f/con/t/tupls_logo1.png)|<mark>noemail</mark>, +81(42)676-51-11, Fax: …;<br> *Japan, 〒192‑0355 Tokyo, Hachioji, Horinouchi, 1432‑1*|
 |:--|:--|
-|Link|<https://www.toyaku.ac.jp/english_page/>・ <https://en.wikipedia.org/wiki/Tokyo_University_of_Pharmacy_and_Life_Sciences>・ <https://www.linkedin.com/company/tokyo-university-of-pharmacy-and-life-sciences/about/>|
+|Link|<https://www.toyaku.ac.jp/english_page/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Tokyo_University_of_Pharmacy_and_Life_Sciences)・ [LinkedIn ⎆](https://www.linkedin.com/company/tokyo-university-of-pharmacy-and-life-sciences/about/)|
+|:--|:--|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Tokyo University of Pharmacy & Life Sciences (TUPLS)**, (東京薬科大学, Tōkyō yakka daigaku) is a private university in Hachioji, Tokyo, Japan. The precursor of the school was founded in 1880 by Masataka Fujita, & it was chartered as a university in 1949. The school of Life sciences was established in 1994.
 

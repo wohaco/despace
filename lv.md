@@ -5,7 +5,7 @@
 
 ---
 
-> <small>・**Ракета‑носитель (РН)** — русскоязычный термин. **Launch vehicle (LV) / Launcher / Carrier rocket / Expendable launch vehicle** — англоязычный эквивалент.<br> ・**Разгонный блок (РБ)** — русскоязычный термин. **Upper stage (UST)** — англоязычный эквивалент.<br> ・**Головной обтекатель (ГО)** — русскоязычный термин. **Payload fairing (PLF) / Fairing** — англоязычный эквивалент. **Nose cone (NC)** — примерный англоязычный эквивалент.<br> ・**Переходный отсек (ПхО)** — русскоязычный термин. **Spacecraft adapter (SCA)** — англоязычный эквивалент.</small>
+> <small> ・**Ракета‑носитель (РН)** — русскоязычный термин. **Launch vehicle (LV) / Launcher / Carrier rocket / Expendable launch vehicle** — англоязычный эквивалент.<br> ・**Разгонный блок (РБ)** — русскоязычный термин. **Upper stage (UST)** — англоязычный эквивалент.<br> ・**Головной обтекатель (ГО)** — русскоязычный термин. **Payload fairing (PLF) / Fairing** — англоязычный эквивалент. **Nose cone (NC)** — примерный англоязычный эквивалент.<br> ・**Переходный отсек (ПхО)** — русскоязычный термин. **Spacecraft adapter (SCA)** — англоязычный эквивалент.</small>
 
 **Раке́та‑носи́тель** (**РН**, также **[раке́та косми́ческого назначе́ния, РКН](lv.md)**) — ракета, предназначенная для выведения полезной нагрузки в космическое пространство.
 
@@ -27,7 +27,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[C6 Launch](zz_c6_launch.md) — for small sats<br> ・[Columbiad](zz_columbiad.md)<br> ・[MLS](zz_mls.md)|
+|**Canada**|・[C6 Launch](zz_c6_launch.md) — for small sats<br> ・[Columbiad](zz_columbiad.md)<br> ・[MLS](zz_mls.md)<br> ・[SpaceRyde](zz_spaceryde.md) — dedicated launch for CubeSats using balloons<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) Small rockets|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

@@ -1,14 +1,13 @@
 # C-CORE
 > 2021.06.22 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/c/c_core_logo1_thumb.png)](f/con/c/c_core_logo1.png)|<info@c-core.ca>, +1(709)864-8354, Fax: +1(709)864-4706;<br> *Captain Robert A. Bartlett Building, 1 Morrissey Road, St. John’s, NL, Canada, A1B 3X5*|
+|[![](f/con/c/c_core_logo1_thumb.png)](f/con/c/c_core_logo1.png)|<info@c-core.ca>, +1(709)864-8354, Fax: +1(709)864-4706;<br> *Captain Robert A. Bartlett Building, 1 Morrissey Road, St. John’s, NL, Canada, A1B 3X5*<br> 【<https://www.c-core.ca/> ・ [Twitter ⎆](https://twitter.com/ccore1975)・ [LinkedIn ⎆](https://www.linkedin.com/company/c-core)】|
 |:--|:--|
-|Link|<https://www.c-core.ca/>・ <https://twitter.com/ccore1975>・ <https://ca.linkedin.com/company/c-core>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|Ice engineering, Earth observation remote sensing, Remote sensing systems, Geotechnical engineering, [RF systems](comms.md) |
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 Since 1975 **C-CORE** has provided research‑based advisory services & technology solutions to mitigate operational risk & help clients improve safety, efficiency & cost‑effectiveness in remote or challenging environments worldwide. We also address security, sustainability & safety issues for clients in the resource development, transportation & aerospace/defense sectors.
 

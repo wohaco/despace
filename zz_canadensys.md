@@ -1,14 +1,13 @@
 # Canadensys
 > 2019.08.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/c/canadensys_logo1_thumb.jpg)](f/con/c/canadensys_logo1.png)|<mark>noemail</mark>, +1(514)343-61-11, Fax: …;<br> *Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*|
+|[![](f/con/c/canadensys_logo1_thumb.jpg)](f/con/c/canadensys_logo1.png)|<mark>noemail</mark>, +1(514)343-61-11, Fax: …;<br> *Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*<br> 【<http://www.canadensys.com/>・ <https://community.canadensys.net/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/canadensys-aerospace-corporation/)・ [Twitter ⎆](https://twitter.com/canadensys)】|
 |:--|:--|
-|Link|<http://www.canadensys.com/>・ <https://community.canadensys.net/>・ <https://www.linkedin.com/company/canadensys-aerospace-corporation/>・ <https://twitter.com/canadensys>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|[Power management & distribution](sps.md), [Energy storage & battery management](eb.md), [OBC](obc.md) & data processing, [Advanced imaging](cam.md) & situational awareness, [Mechanisms & structures](sgm.md), [Thermal control](tcs.md), [Spacecraft & robotics](sc.md)|
-|**[Manage-<br>ment](mgmt.md)**|・President & CEO — Christian Sallaberger|
+|**[MGMT](mgmt.md)**|・President & CEO — Christian Sallaberger|
 
 **Canadensys Aerospace Corporation** is a space systems & services company with a focus on accessible space. The company is founded on heritage & expertise that spans a number of Canada’s historic space achievements of the last 3 decades, blending them with micro & nano space technology, & modern, commercial business models for effective space program & mission development.
 

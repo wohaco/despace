@@ -1,14 +1,13 @@
 # RIKEN
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/r/riken_logo1_thumb.png)](f/con/r/riken_logo1.png)|<pr@riken.jp>, +81-48-462-1111, Fax: …;<br> *2-1 Hirosawa, Wako, Saitama 351-0198, Japan*|
+|[![](f/con/r/riken_logo1_thumb.png)](f/con/r/riken_logo1.png)|<pr@riken.jp>, +81-48-462-1111, Fax: …;<br> *2-1 Hirosawa, Wako, Saitama 351-0198, Japan*<br> 【<https://www.riken.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Riken)・ [LinkedIn ⎆](https://www.linkedin.com/company/riken)】|
 |:--|:--|
-|Link|<https://www.riken.jp/>・ <https://en.wikipedia.org/wiki/Riken>・ <https://www.linkedin.com/company/riken>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Riken** (理研, stylized as **RIKΞN**) is a large scientific research institute in Japan. Founded in 1917.
 

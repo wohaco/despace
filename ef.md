@@ -5,7 +5,7 @@
 
 ---
 
-> <small>・**External conditions** — EN term. **Внешние условия (ВУ)** — RU analogue.<br> ・**External factors (EF)** — EN term. **Внешние воздействующие факторы (ВВФ)** — RU analogue.</small>
+> <small> ・**External conditions** — EN term. **Внешние условия (ВУ)** — RU analogue.<br> ・**External factors (EF)** — EN term. **Внешние воздействующие факторы (ВВФ)** — RU analogue.</small>
 
 **External factors (EF)** — mechanical, climatical, biological factors, ionizing radiation, outer environment during the operations, including such as:
 

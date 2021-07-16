@@ -1,14 +1,13 @@
 # JAXA
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/j/jaxa_logo1_thumb.jpg)](f/con/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), Fax: …;<br> *Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*|
+|[![](f/con/j/jaxa_logo1_thumb.jpg)](f/con/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), Fax: …;<br> *Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*<br> 【<http://www.jaxa.jp/>・ <https://global.jaxa.jp/about/centers/tokyo/index.html> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/JAXA)・ [LinkedIn ⎆](https://www.linkedin.com/company/jaxanasdanalisas/)】|
 |:--|:--|
-|Link|<http://www.jaxa.jp/>・ <https://global.jaxa.jp/about/centers/tokyo/index.html>・ <https://en.wikipedia.org/wiki/JAXA>・ <https://www.linkedin.com/company/jaxanasdanalisas/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇宙航空研究開発機構, Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō, “National Research & Development Agency on Aerospace Research & Development”) is the JP national aerospace & space agency. JAXA is responsible for research, technology development & launch of sats into orbit, & many more advanced missions. A core executive organization that technically supports [aerospace development & utilization](project.md) for the JP Government. Through the merger of 3 previously independent organizations, JAXA was formed 2003.10.01, has 1 545 regular staff members as of FY 2016.
 

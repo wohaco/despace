@@ -1,14 +1,13 @@
 # Wisconsin University
 > 2019.08.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/w/wisconsin_univ_logo1_thumb.jpg)](f/con/w/wisconsin_univ_logo1.png)|<guide-help@lists.wisc.edu>, +1(608)263-24-00, Fax: …;<br> *3HGQ+J2 Madisone, Wisconsin, USA*|
+|[![](f/con/w/wisconsin_univ_logo1_thumb.jpg)](f/con/w/wisconsin_univ_logo1.png)|<guide-help@lists.wisc.edu>, +1(608)263-24-00, Fax: …;<br> *3HGQ+J2 Madisone, Wisconsin, USA*<br> 【<https://www.wisc.edu/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_of_Wisconsin–Madison)】|
 |:--|:--|
-|Link|<https://www.wisc.edu/>・ <https://en.wikipedia.org/wiki/University_of_Wisconsin–Madison>・ <https://ru.wikipedia.org/wiki/Висконсинский_университет_в_Мадисоне>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Висконсинский университет в Мадисоне (англ. University of Wisconsin–Madison)** — государственный исследовательский университет, расположенный в Мадисоне, штат Висконсин, США. Ведущий кампус Висконсинского университета (англ.)русск., а также член‑основатель Ассоциации американских университетов. Основан в 1848 году.
 

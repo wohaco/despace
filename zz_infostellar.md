@@ -1,14 +1,13 @@
 # Infostellar
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/i/infostellar_logo1_thumb.jpg)](f/con/i/infostellar_logo1.png)|<info@istellar.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Kearney Place 3F, 8 Chome-8-15 Nishigotanda, Shinagawa City, Tokyo 141-0031, Japan*|
+|[![](f/con/i/infostellar_logo1_thumb.jpg)](f/con/i/infostellar_logo1.png)|<info@istellar.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Kearney Place 3F, 8 Chome-8-15 Nishigotanda, Shinagawa City, Tokyo 141-0031, Japan*<br> 【<https://infostellar.net/>・ <https://www.stellarstation.com/>・ <https://makesat.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/infostellar)】|
 |:--|:--|
-|Link|<https://infostellar.net/>・ <https://www.stellarstation.com/>・ <https://makesat.com/>・ <https://www.linkedin.com/company/infostellar>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Infostellar** is a Japanese space communication infrastructure firm making space communications infrastructure, & are now developing our cloud‑based satellite [antenna sharing platform](scs.md), StellarStation. By lowering costs & increasing transmission time, Infostellar empowers satellite operators to improve the quality of their service & expand potential business. Founded 2016.01.04.
 

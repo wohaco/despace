@@ -1,14 +1,13 @@
 # Satrec Initiative
 > 2020.07.24 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/satreci_logo1_thumb.png)](f/con/s/satreci_logo1.png)|<inquiries@satreci.com>, +82-42-365-7474, Fax: +82-42-365-7790;<br> *21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*|
+|[![](f/con/s/satreci_logo1_thumb.png)](f/con/s/satreci_logo1.png)|<inquiries@satreci.com>, +82-42-365-7474, Fax: +82-42-365-7790;<br> *21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*<br> 【<https://www.satreci.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Satrec_Initiative)・ [LinkeIn 1 ⎆](https://www.linkedin.com/company/satrec-initiative)・ [LinkeIn 2 ⎆](https://www.linkedin.com/company/si-imaging-services/)】|
 |:--|:--|
-|Link|<https://www.satreci.com/>・ <https://en.wikipedia.org/wiki/Satrec_Initiative>・ <https://www.linkedin.com/company/satrec-initiative>・ <https://www.linkedin.com/company/satrec-initiative/>・ <https://www.linkedin.com/company/si-imaging-services/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Satrec Initiative Co., Ltd.** (Korean: 쎄트렉아이) or **SI** or **Satrec I** is a South Korean [satellite](sc.md) manufacturing company headquartered in Daejeon, South Korea. The company designs & builds Earth observation satellites platform called SpaceEye‑series, & SI provides various space components, including high resolution electro‑optical payloads & star‑trackers.
 

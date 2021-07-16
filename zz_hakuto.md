@@ -1,14 +1,13 @@
 # HAKUTO
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/h/hakuto_r_logo1_thumb.jpg)](f/con/h/hakuto_r_logo1.png)|<info@ispace-inc.com>, +81-3-6277-6451, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
+|[![](f/con/h/hakuto_r_logo1_thumb.jpg)](f/con/h/hakuto_r_logo1.png)|<info@ispace-inc.com>, +81-3-6277-6451, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*<br> 【<https://ispace-inc.com/team-hakuto/>・ <https://ispace-inc.com/hakuto-r/>】|
 |:--|:--|
-|Link|<https://ispace-inc.com/team-hakuto/>・ <https://ispace-inc.com/hakuto-r/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **HAKUTO** is a team comprising ispace, Tohoku University researchers and students, as well as pro bonos. Our diverse backgrounds include design, writing, programming, business, law, and engineering. We’ve gathered to bring our specialties together to take on the challenge of sending a rover to the [Moon](moon.md).
 

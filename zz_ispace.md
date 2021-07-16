@@ -1,14 +1,13 @@
 # ispace
 > 2020.07.04 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/i/ispace_logo1_thumb.jpg)](f/con/i/ispace_logo1.png)|<info@ispace-inc.com>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*|
+|[![](f/con/i/ispace_logo1_thumb.jpg)](f/con/i/ispace_logo1.png)|<info@ispace-inc.com>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*<br> 【<http://ispace-inc.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/ispace-inc/)・ [Facebook ⎆](https://www.facebook.com/ispace.technologies.inc/)・ [Twitter 1 ⎆](https://twitter.com/ispace_inc) & [Twitter 2 ⎆](https://twitter.com/HAKUTO_Reboot)】|
 |:--|:--|
-|Link|<http://ispace-inc.com/>・ <https://www.linkedin.com/company/ispace-inc/>・ <https://www.facebook.com/ispace.technologies.inc/>・ <https://twitter.com/ispace_inc> & <https://twitter.com/HAKUTO_Reboot>|
 |**Mission**|…|
 |**Vision**|To extend human presence to outer space.|
 |**Values**|…|
 |**Business**|To construct a sustainable Earth & Moon ecosystem (in 2040) implementing space resources. [Payload user guide for Missions 1 ‑ 2 ❐](f/con/i/ispace_payladuserguide_m1m2_202001.pdf)<br> ・High frequency lunar transport, incl. rovers<br> ・Marketing support for space content industries<br> ・Payload development for lunar orbiting & landing<br> ・R&D for space resource development, incl. water<br> ・Sale & survey of Moon surface data|
-|**[Manage-<br>ment](mgmt.md)**|・Founder & CEO — Takeshi Hakamada<br> ・Director & COO — Takahiro Nakamura<br> ・Director & CFO — Jumpei Nozaki<br> ・Director & Technology Advisor — Kazuya Yoshida<br> ・CTO — Hideki Shimomura<br> ・VP & Technology — Nozomu Iwata|
+|**[MGMT](mgmt.md)**|・Founder & CEO — Takeshi Hakamada<br> ・Director & COO — Takahiro Nakamura<br> ・Director & CFO — Jumpei Nozaki<br> ・Director & Technology Advisor — Kazuya Yoshida<br> ・CTO — Hideki Shimomura<br> ・VP & Technology — Nozomu Iwata|
 
 **ispace** is a lunar exploration company with a vision to extend human presence to outer space. Has offices in JP, US, EU, & has signed partnerships with [JAXA](zz_jaxa.md), [NASA](zz_nasa.md), & the Gov. of Luxembourg. Founded 2010.09.
 

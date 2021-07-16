@@ -1,14 +1,13 @@
 # Kobe University
 > 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/k/kobe_univ_logo1_thumb.jpg)](f/con/k/kobe_univ_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan*|
+|[![](f/con/k/kobe_univ_logo1_thumb.jpg)](f/con/k/kobe_univ_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan*<br> 【<https://www.kobe-u.ac.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kobe_University)・ [LinkeIn 1 ⎆](https://www.linkedin.com/company/kobe-university/)・ [LinkeIn 2 ⎆](https://www.linkedin.com/school/神戸大学/)】|
 |:--|:--|
-|Link|<https://www.kobe-u.ac.jp/>・ <https://en.wikipedia.org/wiki/Kobe_University>・ <https://www.linkedin.com/company/kobe-university/>・ <https://www.linkedin.com/school/神戸大学/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Kobe University** (神戸大学, Kōbe daigaku), also known in the Kansai region as Shindai (神大), is a leading Japanese national university located in the city of Kobe, in Hyōgo.
 

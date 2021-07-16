@@ -1,14 +1,13 @@
 # The Planetary Society
 > 2019.10.06 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/p/planetary_society_logo1_thumb.jpg)](f/con/p/planetary_society_logo1.png)|<tps@planetary.org>, +1(626)793-51-00, Fax: +1(626)793-55-28;<br> *60 South Los Robles Avenue, Pasadena, CA 91101, USA*|
+|[![](f/con/p/planetary_society_logo1_thumb.jpg)](f/con/p/planetary_society_logo1.png)|<tps@planetary.org>, +1(626)793-51-00, Fax: +1(626)793-55-28;<br> *60 South Los Robles Avenue, Pasadena, CA 91101, USA*<br> 【<http://planetary.org/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/The_Planetary_Society)・ [Facebook ⎆](https://www.facebook.com/planetarysociety)・ [Twitter ⎆](https://twitter.com/exploreplanets)・ [Instagram ⎆](https://www.instagram.com/planetarysociety/)】|
 |:--|:--|
-|Link|<http://planetary.org/>・ <https://en.wikipedia.org/wiki/The_Planetary_Society>・ <https://ru.wikipedia.org/wiki/Планетарное_общество>・ <https://www.facebook.com/planetarysociety>・ <https://twitter.com/exploreplanets>・ <https://www.instagram.com/planetarysociety/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Планетарное общество** (англ. **The Planetary Society**) — американская неправительственная некоммерческая организация, занимающаяся проектами в областях астрономии, планетарных науках, исследовании космоса и популяризации науки. Основано в 1980 году Карлом Саганом, Брюсом Мюрреем и Луисом Фридманом. Целью является исследование Солнечной системы, поиск околоземных объектов и поиск внеземной жизни.  
 Число членов: 40 000.

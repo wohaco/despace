@@ -1,14 +1,13 @@
 # Magellan Aerospace
 > 2019.08.14 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/m/magellan_as_logo1_thumb.jpg)](f/con/m/magellan_as_logo1.png)|<magellan.corporate@magellan.aero>, +1(905)677-18-89, Fax: +1(905)677-56-58;<br> *3160 Derry Road East Mississauga, ON L4T 1A9, Canada*|
+|[![](f/con/m/magellan_as_logo1_thumb.jpg)](f/con/m/magellan_as_logo1.png)|<magellan.corporate@magellan.aero>, +1(905)677-18-89, Fax: +1(905)677-56-58;<br> *3160 Derry Road East Mississauga, ON L4T 1A9, Canada*<br> 【<http://magellan.aero/>・ <http://magellan.aero/product/space/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Magellan_Aerospace)・ [LinkedIn ⎆](https://www.linkedin.com/company/magellan-aerospace)】|
 |:--|:--|
-|Link|<http://magellan.aero/>・ <http://magellan.aero/product/space/>・ <https://en.wikipedia.org/wiki/Magellan_Aerospace>・ <https://www.linkedin.com/company/magellan-aerospace>|
 |**Mission**|By setting the standard in quality, delivery, innovation and value.|
 |**Vision**|To be the supplier of choice to the global aerospace industry.|
 |**Values**|**Integrity** — deliver our commitments. **Respect** — everyone is important. **Innovation** — finding ways to do things better. **Ethics** — act ethically in all we do. **Collaboration** — work together to succeed.|
 |**Business**|[Satellite's](sc.md) R&D, small sat bus platform, ground facilities|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Magellan Aerospace Corporation** is a Canadian manufacturer of aerospace systems & components. Magellan also repairs & overhauls, tests, & provides aftermarket support services for engines, & engine structural components. The company’s business units are divided into the product areas of aeroengines, aerostructures, rockets & space, & specialty products. Its corporate offices in Mississauga, Ontario, Magellan operates in facilities throughout CA, US, UK.
 

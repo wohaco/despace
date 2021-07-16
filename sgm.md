@@ -64,7 +64,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Canadensys](zz_canadensys.md) — mechanisms, structures<br> ・[Macfab](zz_macfab.md) —  housings & covers for mission-critical electronics, separation systems, structures machined from magnesium & composite honeycomb panels|
+|**Canada**|・[Canadensys](zz_canadensys.md) — mechanisms, structures<br> ・[Macfab](zz_macfab.md) —  housings & covers for mission-critical electronics, separation systems, structures machined from magnesium & composite honeycomb panels<br> ・[UTIAS](zz_utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

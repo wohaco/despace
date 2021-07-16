@@ -1,14 +1,13 @@
 # SNET
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/s/snet_logo1_thumb.png)](f/con/s/snet_logo1.png)|<mark>noemail</mark>, +81-03-5561-1075, Fax: …;<br> *13F, Ark Mori Building, 1-12-32, Akasaka, Minato-ku, Tokyo, 107-6013, Japan*|
+|[![](f/con/s/snet_logo1_thumb.png)](f/con/s/snet_logo1.png)|<mark>noemail</mark>, +81-03-5561-1075, Fax: …;<br> *13F, Ark Mori Building, 1-12-32, Akasaka, Minato-ku, Tokyo, 107-6013, Japan*<br> 【<https://www.snet.co.jp/>】|
 |:--|:--|
-|Link|<https://www.snet.co.jp/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Satellite Network, Inc.** is a Japan’s first type Ⅱ telecommunications carrire utilizing private telecommunications satellites, aimed for Earth sats comms, Earth observation, ground segment, drones. Founded 1987.08.18.
 

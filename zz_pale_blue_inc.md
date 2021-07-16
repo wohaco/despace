@@ -1,14 +1,13 @@
 # Pale Blue Inc.
 > 2020.07.18 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/p/pale_blue_inc_logo1_thumb.jpg)](f/con/p/pale_blue_inc_logo1.png)|<contact@pale-blue.co.jp>, +81-4-7136-4942, Fax: …;<br> *Room No. 610, Tokatsu Techno Plaza, 5-4-6 Kashiwanoha, Kashiwa-shi Chiba, Japan 277-0882*|
+|[![](f/con/p/pale_blue_inc_logo1_thumb.jpg)](f/con/p/pale_blue_inc_logo1.png)|<contact@pale-blue.co.jp>, +81-4-7136-4942, Fax: …;<br> *Room No. 610, Tokatsu Techno Plaza, 5-4-6 Kashiwanoha, Kashiwa-shi Chiba, Japan 277-0882*<br> 【<https://pale-blue.co.jp/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/pale-blue-inc/)】|
 |:--|:--|
-|Link|<https://pale-blue.co.jp/>・ <https://www.linkedin.com/company/pale-blue-inc/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|・Consulting of Spacecraft Design & Integration<br> ・[Propulsion Systems](ps.md)<br> ・[Rent Test Equipments](test.md)|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Pale Blue Inc.** is a Japanese company which mission is to provide the mobility for sustainable space development.
 

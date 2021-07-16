@@ -32,7 +32,7 @@
 
 |*Прочие страницы*|*в данной категории*|
 |:--|:--|
-|<small>・[Test](test.md);<br> ・[Конкурс на ОКР (СЧ ОКР)](pubprocom.md);<br> ・[Контрольная сборка](contr_asm.md);<br> ・[Рабочая группа](wg.md);<br> ・[Руководство ОКР](mgmt.md);</small>|<small>・[САС](lifetime.md);<br> ・[ТРИЗ](triz.md);<br> ・[Унификация](commonality.md);<br> ・[ТХСЧ](suitc.md)</small>|
+|<small> ・[Test](test.md);<br> ・[Конкурс на ОКР (СЧ ОКР)](pubprocom.md);<br> ・[Контрольная сборка](contr_asm.md);<br> ・[Рабочая группа](wg.md);<br> ・[Руководство ОКР](mgmt.md);</small>|<small> ・[САС](lifetime.md);<br> ・[ТРИЗ](triz.md);<br> ・[Унификация](commonality.md);<br> ・[ТХСЧ](suitc.md)</small>|
 
 | | |
 |:--|:--|
@@ -42,7 +42,9 @@
 
 <p style="page-break-after:always"> </p>
 
-## Formal steps
+## Steps
+
+### Formal steps
 | |*Этап*|*Phase*|
 |:--|:--|:--|
 | |**・НИОКР・**|**・R&D・**|
@@ -73,7 +75,7 @@
 
 <p style="page-break-after:always"> </p>
 
-## Logical steps
+### Logical steps
 > <small>**NGO** ​— need, goals, objectives. **НГО** ​— цель, вопросы, задачи.</small>
 
 Define NGOs (need, goals, objectives).
@@ -99,6 +101,67 @@ Define NGOs (need, goals, objectives).
    1. Negotiate the potential launch date & place.
    1. Provide your SC for the technical control & fit checks.
    1. Come to the cosmodrome & watch the launch of the rocket with your SC onboard!
+
+
+
+## People
+
+Common spacecraft R&D team:
+
+   1. **Lead Designer (Chief engineer)**
+   1. **Project manager**
+   1. Electrical engineer
+   1. External environment engineer
+   1. GNC engineer
+   1. Ground systems engineer
+   1. Mechanical engineer
+   1. Payload engineer
+   1. Production engineer
+   1. Propulsion engineer
+   1. Quality assurance engineer
+   1. RF engineer
+   1. Software engineer
+   1. Testing engineer
+   1. Thermal engineer
+
+Типовой состав рабочей группы по НИОКР:
+
+   1. **Руководитель проекта**
+   1. **Главный конструктор**
+   1. Главный технолог
+   1. Инженер по антенно-фидерным системам
+   1. Инженер по баллистике (баллистика, возмущения)
+   1. Инженер по БКС
+   1. Инженер по бортовому комплексу управления
+   1. Инженер по бортовому радиокомплексу
+   1. Инженер по вибродинамической модели
+   1. Инженер по внешним факторам
+   1. Инженер по двигательной системе
+   1. Инженер по конструкции
+   1. Инженер по логике управления
+   1. Инженер по материалам
+   1. Инженер по метрологии
+   1. Инженер по наземной отработке
+   1. Инженер по наземному научному комплексу
+   1. Инженер по наземным средствам
+   1. Инженер по патентам
+   1. Инженер по надёжности и безопасности
+   1. Инженер по общему проектированию
+   1. Инженер по полезной нагрузке
+   1. Инженер по прочности
+   1. Инженер по средствам выведения
+   1. Инженер по стандартизации
+   1. Инженер по телеметрии
+   1. Инженер по тепловому проектированию (СОТР, тепловые трубы, тепловой баланс)
+   1. Инженер по транспортированию и работам на космодроме
+   1. Инженер по условиям при выведении
+   1. Инженер по циклограмме функционирования и электропотребления
+   1. Инженер по электрическому проектированию
+   1. Инженер по электромагнитной совместимости
+   1. Инженер по ЭРИ
+   1. Менеджер по качеству
+   1. Экономист
+
 
 
 <p style="page-break-after:always"> </p>

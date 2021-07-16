@@ -49,7 +49,7 @@
 |**Israel**|…|
 |**Japan**|・[Sumitomo PP](zz_sumitomo_pp.md)<br> ・[Tamagawa Seiki](zz_tamagawa_seiki.md)|
 |**Korea S.**|…|
-|**Russia**|・[ВНИИЭМ](zz_vniiem.md)<br>・[НИИКП](zz_niicom.md)<br> ・[НПП Антарес](zz_npp_antares.md) — не очень опытные в своём деле. (на 2017 ‑ 2018 гг)<br> ・[НПО ИТ](zz_npoit.md)<br> ・[НПЦ Полюс](zz_polus_tomsk.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・[Спутникс](zz_sputnix.md)|
+|**Russia**|・[ВНИИЭМ](zz_vniiem.md)<br> ・[НИИКП](zz_niicom.md)<br> ・[НПП Антарес](zz_npp_antares.md) — не очень опытные в своём деле. (на 2017 ‑ 2018 гг)<br> ・[НПО ИТ](zz_npoit.md)<br> ・[НПЦ Полюс](zz_polus_tomsk.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・[Спутникс](zz_sputnix.md)|
 |**Saudi Ar.**|…|
 |**Singapore**|…|
 |**USA**|・[Collins A/S](zz_collins_aerospace.md)<br> ・[Northrop Grumman](zz_northrop_grumman.md)|
@@ -61,7 +61,7 @@
 <p style="page-break-after:always"> </p>
 
 ### Reaction wheel
-> <small>・**Двигатель‑маховик (ДМ)** — русскоязычный термин. **Reaction wheel (RW)** — англоязычный эквивалент.<br> ・**Гиродин** — русскоязычный термин. **Control moment gyroscope (CMG)** — англоязычный эквивалент.</small>
+> <small> ・**Двигатель‑маховик (ДМ)** — русскоязычный термин. **Reaction wheel (RW)** — англоязычный эквивалент.<br> ・**Гиродин** — русскоязычный термин. **Control moment gyroscope (CMG)** — англоязычный эквивалент.</small>
 
 **Двигатель‑маховик (ДМ)**, также **управляющий двигатель‑маховик (УДМ)** — вращающееся инерциальное устройство, применяемое для высокоточной ориентации и стабилизации, как правило, [КА](sc.md), обеспечивающее правильную ориентацию в полёте и предотвращающее беспорядочное вращение.
 

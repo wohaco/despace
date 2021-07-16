@@ -1,14 +1,13 @@
 # GISS
 > 2019.08.09 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/n/nasa_logo1_thumb.jpg)](f/con/n/nasa_logo1.png)|<webmaster@giss.nasa.gov>, +1(212)678-55-00, Fax: …;<br> *2880 Broadway, New York, NY 10025, USA*|
+|[![](f/con/n/nasa_logo1_thumb.jpg)](f/con/n/nasa_logo1.png)|<webmaster@giss.nasa.gov>, +1(212)678-55-00, Fax: …;<br> *2880 Broadway, New York, NY 10025, USA*<br> 【<https://www.giss.nasa.gov/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies)・ [Twitter ⎆](https://twitter.com/nasagiss)】|
 |:--|:--|
-|Link|<https://www.giss.nasa.gov/>・ <https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies>・ <https://twitter.com/nasagiss>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **Goddard Institute for Space Studies (GISS)** is a laboratory in the Earth Sciences Division of NASA’s [Goddard Space Flight Center](zz_gsfc.md) & a unit of the Columbia University Earth Institute. The institute is located at Columbia University in New York City. Founded in May 1961.
 

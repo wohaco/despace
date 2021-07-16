@@ -7,22 +7,22 @@
 
 > <small>**Model‑based systems engineering (MBSE)** — EN term. **Системное Проектирование На Основе Моделей (МБСЕ)** — RU analogue.</small>
 
-**Model‑based systems engineering (MBSE)** is a systems engineering methodology that focuses on creating and exploiting domain models as the primary means of information exchange between engineers, rather than on document‑based information exchange.
+**Model‑based systems engineering (MBSE)** is a systems engineering methodology that focuses on creating & exploiting domain models as the primary means of information exchange between engineers, rather than on document‑based information exchange.
 
 **History.**  
 In January 2007, the MBSE approach began to be popularized when the [INCOSE ⎆](https://www.incose.org/) introduced its [MBSE Initiative ⎆](http://www.omgwiki.org/MBSE/). Goals included increased productivity, by minimizing unnecessary manual transcription of concepts when coordinating the work of large teams. The MBSE approach is outlined in INCOSE’s “MBSE 2020 Vision”, with a methodology focusing on distributed but integrated model management.  
-As of 2014, the focus has also started to cover aspects related to the model execution in computer simulation experiment, to further overcome the gap between the system model specification and the respective simulation software. As a consequence, the term **modeling and simulation‑based systems engineering (M&SBSE)** has also been used along with MBSE.
+As of 2014, the focus has also started to cover aspects related to the model execution in computer simulation experiment, to further overcome the gap between the system model specification & the respective simulation software. As a consequence, the term **modeling & simulation‑based systems engineering (M&SBSE)** has also been used along with MBSE.
 
 
 ## NASA MBSE
 
-INCOSE defines MBSE as “Model‑based systems engineering (MBSE) is the formalized application of modeling to support system requirements, design, analysis, verification and validation activities beginning in the conceptual design phase and continuing throughout development and later life cycle phases.” In practice, System Markup Language (SysML) based models have gained the most prevelance in MBSE application. These models are system relationship models and are useful for showing relationships among system functions, requirements, developers, and users. These models support 3 aspects of systems engineering:
+INCOSE defines MBSE as “Model‑based systems engineering (MBSE) is the formalized application of modeling to support system requirements, design, analysis, verification & validation activities beginning in the conceptual design phase & continuing throughout development & later life cycle phases”. In practice, System Markup Language (SysML) based models have gained the most prevelance in MBSE application. These models are system relationship models & are useful for showing relationships among system functions, requirements, developers, & users. These models support 3 aspects of systems engineering:
 
    - System Functional Flows (i.e., System Architecture)
    - System Requirements Traceability
-   - System and Organizational Process Flows
+   - System & Organizational Process Flows
 
-There are several organizations that have been working to advance the SysML modeling capabilities and applications. These include the INCOSE MBSE Initiative and the NASA MBSE Pathfinder.  The INCOSE MBSE Initiative is looking at a broad list of topics in the application of MBSE.  The application of Hamilton’s Principle to the definition of patterns by the Pattern Based Working Group is of particular interest to the development of system models.  The NASA MBSE Pathfinder is demonstrating application of MBSE in space related systems. Links to the INCOSE MBSE Initiative and the NASA MBSE Community of Practice, which also hosts the MBSE Pathfinder page, are included below.
+There are several organizations that have been working to advance the SysML modeling capabilities & applications. These include the INCOSE MBSE Initiative & the NASA MBSE Pathfinder.  The INCOSE MBSE Initiative is looking at a broad list of topics in the application of MBSE.  The application of Hamilton’s Principle to the definition of patterns by the Pattern Based Working Group is of particular interest to the development of system models.  The NASA MBSE Pathfinder is demonstrating application of MBSE in space related systems. Links to the INCOSE MBSE Initiative & the NASA MBSE Community of Practice, which also hosts the MBSE Pathfinder page, are included below.
 
 
 
@@ -33,45 +33,40 @@ There are several organizations that have been working to advance the SysML mode
 
 Ключевая характеристика MBSE — это поддержка одновременного использования множества методов описания (viewpoints), т.е. одновременного применения множества методов моделирования для получения множества групп описаний (views), которые адресуют различные интересы соответствующих заинтересованных лиц. MBSE заканчивается в тот момент, когда вам удалось объединить все имеющиеся модели и софт солверов: вы можете определить вашу систему и по результатам моделирования понять, как она себя поведёт в тех или иных условиях.
 
-**Цели MBSE:**
-
-   1. улучшить коммуникацию стейкхолдеров
-   1. улучшить точность спецификации требований и дизайна
-   1. обеспечить интеграцию компонентов системы
-   1. предоставить возможность повторного использования артефактов дизайна системы
-   1. результатом MBSE является модель системы
-
-**Процесс MBSE:**
-
-   - Выявление и анализ интересов стейкхолдеров для формулировки проблем и целей системы, а также критериев (метрики) оценки эффективности и качества;
-   - Определение границ системы (system boundary), разграничение внутренних и внешних связей системы;
-   - Спецификация функциональности системы. Определение интерфейсов, физических и качественных характеристик, обеспечивающих достижение целей;
-   - Синтез альтернативных решений путем деления системы на компоненты, соответствующие требованиям к системе (декомпозиция);
-   - Анализ трудоемкости для оценки и выбора предпочтительных решений, удовлетворяющих требованиям и обеспечивающих оптимальный баланс для значений метрик эффективности и качества;
-   - Обеспечение контроля за выполнением требований к компонентам и достижением целей системы для удовлетворения всех стейкхолдеров.
+   - **Цели MBSE:**
+      1. улучшить коммуникацию стейкхолдеров
+      1. улучшить точность спецификации требований и дизайна
+      1. обеспечить интеграцию компонентов системы
+      1. предоставить возможность повторного использования артефактов дизайна системы
+      1. результатом MBSE является модель системы
+   - **Процесс MBSE:**
+      - Выявление и анализ интересов стейкхолдеров для формулировки проблем и целей системы, а также критериев (метрики) оценки эффективности и качества;
+      - Определение границ системы (system boundary), разграничение внутренних и внешних связей системы;
+      - Спецификация функциональности системы. Определение интерфейсов, физических и качественных характеристик, обеспечивающих достижение целей;
+      - Синтез альтернативных решений путем деления системы на компоненты, соответствующие требованиям к системе (декомпозиция);
+      - Анализ трудоемкости для оценки и выбора предпочтительных решений, удовлетворяющих требованиям и обеспечивающих оптимальный баланс для значений метрик эффективности и качества;
+      - Обеспечение контроля за выполнением требований к компонентам и достижением целей системы для удовлетворения всех стейкхолдеров.
+   - **Методологии MBSE**
+      - An Ontology for State Analysis Formalizing the Mapping to SysML
+      - IBM Rational Unified Process‑Systems Engineering (RUP‑SE) for Model‑Driven System Design (MDSD)
+      - IBM Telelogic Harmony‑SE
+      - Jet Propulsion Laboratory's State Analysis (JPL SA)
+      - MBSE Framework for Concept Development
+      - Object Process Methodology (OPM)
+      - SysML JumpStart Training with Enterprise Architect
+      - Vitech MBSE (STRATA)
+      - Weiliens Systems Modeling Process (SYSMOD)
+      - и многие другие
 
 **Стандарты MBSE**
 
 |*Раздел*|*Стандарт*|
 |:--|:--|
-|Процессные стандарты|• EIA 632: Processes for Engineering a System;<br> • ISO 15288: Systems and software engineering — System life cycle processes;<br> • IEEE 1220: Standard for Application and Management of the Systems Engineering Process;<br> • CMMI (Capability Maturity Model Integration)|
-|Архитектурные методологии<br> (frameworks)|• FEAF (Federal Enterprise Architecture Framework);<br> • DoDAF (The Department of Defense Architecture Framework );<br> • MODAF (The British Ministry of Defence Architecture Framework);<br> • PPOA (Fernandez Process Pipelines in Object oriented Architectures);<br> • ZF (Zachman Framework)|
-|Методы моделирования|• HP;<br> • OOSE (Object‑oriented software engineering) — прародитель UML;<br> • OOSEM (Object‑Oriented Systems Engineering Method);<br> • SADT;<br> • прочие|
-|Стандарты моделирования<br> и симуляции|*Системное моделирование:*<br> • IDEF0;<br> • [SysML](sysml.md);<br> • UPDM;<br> *Симуляция и анализ:*;<br> • Modelica;<br> • HLA;<br> • MathML|
-|Стандарты обмена<br> и метамоделирования|• MOF;<br> • QVT;<br> • XMI;<br> • [STEP/AP 233](cad_f.md)|
-
-**Методологии MBSE**
-
-   - IBM Telelogic Harmony‑SE
-   - IBM Rational Unified Process‑Systems Engineering (RUP‑SE) for Model‑Driven System Design (MDSD)
-   - Vitech MBSE (STRATA)
-   - Jet Propulsion Laboratory's State Analysis (JPL SA)
-   - Object Process Methodology (OPM)
-   - Weiliens Systems Modeling Process (SYSMOD)
-   - An Ontology for State Analysis Formalizing the Mapping to SysML
-   - SysML JumpStart Training with Enterprise Architect
-   - MBSE Framework for Concept Development
-   - и многие другие
+|Процессные<br> стандарты|・EIA 632: Processes for Engineering a System;<br> ・ISO 15288: Systems & software engineering — System life cycle processes;<br> ・IEEE 1220: Standard for Application & Management of the Systems Engineering Process;<br> ・CMMI (Capability Maturity Model Integration)|
+|Архитектурные<br> методологии<br> (frameworks)|・FEAF (Federal Enterprise Architecture Framework);<br> ・DoDAF (The Department of Defense Architecture Framework );<br> ・MODAF (The British Ministry of Defence Architecture Framework);<br> ・PPOA (Fernandez Process Pipelines in Object oriented Architectures);<br> ・ZF (Zachman Framework)|
+|Методы<br> моделирования|・HP;<br> ・OOSE (Object‑oriented software engineering) — прародитель UML;<br> ・OOSEM (Object‑Oriented Systems Engineering Method);<br> ・SADT;<br> ・прочие|
+|Стандарты<br> моделирования<br> и симуляции|*Системное моделирование:*<br> ・IDEF0;<br> ・[SysML](sysml.md);<br> ・UPDM;<br> *Симуляция и анализ:*;<br> ・Modelica;<br> ・HLA;<br> ・MathML|
+|Стандарты<br> обмена и<br> мета-<br>моделирования|・MOF;<br> ・QVT;<br> ・XMI;<br> ・[STEP/AP 233](cad_f.md)|
 
 
 

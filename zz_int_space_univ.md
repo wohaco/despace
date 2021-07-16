@@ -1,14 +1,13 @@
 # International Space University
 > 2021.04.01 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con//_logo1_thumb.jpg)](f/con//_logo1.png)|<mark>noemail</mark>, +33(0388)65-54-30, Fax: …;<br> *…*|
+|[![](f/con//_logo1_thumb.jpg)](f/con//_logo1.png)|<mark>noemail</mark>, +33(0388)65-54-30, Fax: …;<br> *…*<br> 【<https://www.isunet.edu/> ・ [LinkedIn ⎆](https://www.linkedin.com/school/international-space-university/)|
 |:--|:--|
-|Link|<https://www.isunet.edu/>・ <https://www.linkedin.com/school/international-space-university/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **International Space University** provides graduate‑level training to the future leaders of the emerging global space community at its Central Campus in Strasbourg, France, and at locations around the world.
 

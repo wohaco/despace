@@ -1,14 +1,13 @@
 # CSA
 > 2019.08.05 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/c/csa_logo1_thumb.jpg)](f/con/c/csa_logo1.png)|<mark>noemail</mark>, +1(450)926-48-00, Fax: +1(450)926-43-52;<br> *6767 Route de l'Aeroport, Saint-Hubert, Quebec, J3Y 8Y9, Canada*|
+|[![](f/con/c/csa_logo1_thumb.jpg)](f/con/c/csa_logo1.png)|<mark>noemail</mark>, +1(450)926-48-00, Fax: +1(450)926-43-52;<br> *6767 Route de l'Aeroport, Saint-Hubert, Quebec, J3Y 8Y9, Canada*<br> 【<http://www.asc-csa.gc.ca/>・ <http://www.asc-csa.gc.ca/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Canadian_Space_Agency)】|
 |:--|:--|
-|Link|<http://www.asc-csa.gc.ca/>・ <http://www.asc-csa.gc.ca/>・ <https://en.wikipedia.org/wiki/Canadian_Space_Agency>・ <https://ru.wikipedia.org/wiki/Канадское_космическое_агентство>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Канадское космическое агентство (ККА)** *(англ. Canadian Space Agency, CSA, фр. Agence spatiale canadienne, ASC)* — канадское правительственное космическое агентство ответственное за канадскую космическую программу. Агентство было основано соответствующим актом о канадском космическом агентстве (Canadian Space Agency Act). Руководителем предприятия является президент, который отчитывается непосредственно министру промышленности. Основано 1 марта 1989 года.
 

@@ -1,14 +1,13 @@
 # IRSPS
 > 2019.08.04 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/i/irsps_logo1_thumb.jpg)](f/con/i/irsps_logo1.png)|<info@irsps.unich.it>, +39(085)453-75-12;<br> *IRSPS - Università "G.D'Annunzio", Viale Pindaro, 42, 65127 Pescara (PE), Italy*|
+|[![](f/con/i/irsps_logo1_thumb.jpg)](f/con/i/irsps_logo1.png)|<info@irsps.unich.it>, +39(085)453-75-12;<br> *IRSPS - Università "G.D'Annunzio", Viale Pindaro, 42, 65127 Pescara (PE), Italy*<br> 【<http://www.irsps.it/>】|
 |:--|:--|
-|Link|<http://www.irsps.it/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 The **International Research School of Planetary Sciences (IRSPS)** is a [non‑profit organisation](nonprof_org.md) devoted to research & post‑graduate education. The School is an emanation of the Universita' d'Annunzio & hosted by Dipartimento di Ingegneria e Geologia (InGeo), but it is autonomously governed. IRSPS is part of the Europlanet Research Infrastructure.
 

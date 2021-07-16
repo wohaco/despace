@@ -41,14 +41,12 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ± Australia
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (AU) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (AU)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[ASRI](zz_asri.md)|·|·|·|·|·|Австралийский институт космических исследований|
-|[CSIRO](zz_csiro.md)|·|·|·|·|·|Government agency responsible for scientific research|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[ASRI](zz_asri.md)】|·|·|·|·|·|Австралийский институт космических исследований|
+|【[CSIRO](zz_csiro.md)】|·|·|·|·|·|Government agency responsible for scientific research|
 |[ANU](zz_anu.md)|·|·|·|·|·|Australian National University|
 |[Arlula](zz_arlula.md)|·|·|·|·|·|Provides a single point of access for a global network of sats imagery|
 |[ASL](zz_asl.md)|·|·|·|·|·|Australia Space Launch|
@@ -67,23 +65,22 @@ For the person's info page see **[Persons](person.md)**.
 
 <p style="page-break-after:always"> </p>
 
-## ± Canada
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+## Canada
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (CA) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (CA)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[CSA](zz_csa.md)   (QC)|·|·|·|·|·|Канадское правительственное космическое агентство|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[CSA](zz_csa.md)   (QC)】|·|·|·|·|·|Canadian Space Agency|
 |[ADGA](zz_adga.md)   (ON)|·|·|·|C|·|Advanced technology solutions, professional engineering & consultancy|
 |[AQST Canada](zz_aqst_ca.md)   (QC)|·|·|·|R|·|GEO sats, electric propulsion, materials solutions, remote sensing, robotics|
 |[AIAC](zz_aiac.md)   (ON)|·|·|P|·|·|Aerospace Industries Association of Canada|
-|[AlbertaSat](zz_albertasat.md)   (AB)|N|·|·|R|·|CubeSats R&D. Student society|
+|[AlbertaSat](zz_albertasat.md)   (AB)|N|·|·|R|·|(Student community) CubeSats R&D|
 |[August IST](zz_august_ist.md)   (ON)|E|·|·|R|·|Space infrastructure, R&D, education, commercialization of innovative solutions|
 |[Baryon Dynam.](zz_baryon_dyn.md)   (ON)|·|·|·|R|·|Power & space propulsion, engineering designs & expertise|
-|[BRASS](zz_brass.md)   (ON)|E|·|P|C|·|Mission design & analysis & planning, Operations, Project management & consultancy|
+|[BRASS](zz_brass.md)   (ON)|E|·|P|C|·|Mission design & analysis & planning, Operations, Project mgmt & consultancy|
 |[C-CORE](zz_c_core.md)   (ON)|·|·|·|C|·|Risks mitigation, remote sensing systems, ice/geotechnical engineering|
 |[C6 Launch](zz_c6_launch.md)   (ON)|·|L|·|R|·|Launch services, Launcher design for CubeSats|
+|[Calian AT](zz_calian_at.md)   (SK,QC)|·|·|·|·|·|R&D & integration of products & services in comms, test & control apps for comm sats|
 |[Canadensys](zz_canadensys.md)   (ON)|·|·|·|R|·|Cubesats, rovers, SC systems, avionics, sensors|
 |[CASI](zz_casi.md)   (ON)|E|·|P|·|·|Canadian Aeronautics & Space Institute|
 |[CCERA](zz_ccera.md)   (ON)|E|·|·|·|·|Canadian Center for Experimental Radio Astronomy|
@@ -93,6 +90,7 @@ For the person's info page see **[Persons](person.md)**.
 |[CSS](zz_css.md)   (ON)|N|·|P|·|·|Sponsorship & promotion for Canadians in the space sector|
 |[Deltion Ltd](zz_deltion.md)   (ON)|·|·|·|R|·|Technology dev./improvement mostly for automation & robotics, Moon mining|
 |[DSS](zz_dss.md)   (NS)|N|·|·|R|·|CubeSats development. Student community|
+|[EarthDaily](zz_earthdaily.md)   (BC)|·|·|·|R|D|Remote sensing, Geospatial information|
 |[Euroconsult](zz_euroconsult.md)   (QC)|·|·|·|C|·|Strategic, research, summits, training programs|
 |[Geocentrix Tech.](zz_geocentrix_tech.md)   (BC)|·|·|·|C|·|Satellite/Launch mission design, analysis, operations, management, consulting|
 |[GHGSat](zz_ghgsat.md)   (QC)|·|·|·|R|·|Greenhouse gases monitoring, gas sensors & imaging interferometers for Cubesats|
@@ -100,7 +98,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Honeywell A/S](zz_honeywell_as.md)   ()|·|·|·|R|·|Software, signal & data processing, flight & ground operations|
 |[Kepler Comms](zz_kepler_comms.md)   (ON)|·|·|·|R|·|CubeSats for global comms & IoT, antennas, data retranslation|
 |[Lassonde SoE](zz_lassonde_soe.md)   (ON)|E|·|·|·|·|Higher education|
-|[Launch Canada](zz_launch_ca.md)   ()|N|·|·|R|·|Student community, LV & small sats building|
+|[Launch Canada](zz_launch_ca.md)   ()|N|·|·|R|·|(Student community) LV & small sats building|
 |[Luna D&I](zz_luna_dni.md)   (ON)|·|L|·|·|·|Launch & support for experiments in space|
 |[Macfab](zz_macfab.md)   (ON)|·|·|·|R|·|ADCS, structures, comms/electronics, sensors, propulsion, separation systems|
 |[Magellan A/S](zz_magellan_as.md)   (ON)|·|·|·|R|·|Satellite's R&D, small sat bus platform, ground facilities|
@@ -113,23 +111,20 @@ For the person's info page see **[Persons](person.md)**.
 |[PolyOrbite](zz_polyorbite.md)   (QC)|N|·|·|R|·|CubeSat's R&D. Student society|
 |[Pratt & Whitney](zz_pratt_n_whitney.md)   (QC)|·|·|·|R|·|Engines, gas turbines|
 |[Satcan](zz_satcan.md)   (ON)|N|·|·|C|·|Engineering & business consultancy for sat telecom & space tech sectors|
-|[SED Systems](zz_sed_systems.md)   (SK,QC)|·|·|·|·|·|БРК, тестовое оборудование, наблюдение, управление|
-|[SEDS Canada](zz_seds.md)   (ON)|N|·|·|·|·|Students for the Exploration & Development of Space|
-|[Sinclair I/P](zz_sinclair_ip.md)   (ON)|·|·|·|·|·|Star trackers, reaction wheels, optical comms, software, training & expertise|
-|[SpaceRyde](zz_spaceryde.md)   (ON)|·|·|·|·|·|Affordable, on‑schedule, dedicated launch for CubeSats|
-|[Space Concordia](zz_space_concordia.md)   (QC)|N|·|·|·|·|Кубсаты, лёгкие РН|
-|[Space Eng. Sys.](zz_space_engs.md)   (AL)|·|·|·|R|·|Next gen. reusable propulsion technologies|
-|[SkyWatch](zz_skywatch.md)   (ON)|·|·|·|·|·|Открытая информация от съёмки Земли|
-|[SSCL](zz_sscl.md)   (ON)|·|·|·|·|·|Consulting, innovative solutions|
-|[Telecan Space](zz_telecan_space.md)   (QC)|·|·|·|·|·|Engineering, thermal testing, R&D, consulting & training services|
-|[Telesat](zz_telesat.md)   (ON)|·|·|·|·|·|Спутники Земли и телекоммуникации|
-|[Thales Canada](zz_thales.md)   (All)|·|·|·|·|·|Satellite & LV hardware|
-|[Thoth Tech.](zz_thoth_tech.md)   (ON)|·|·|·|·|·|Instruments for microsats & UAV platforms, space qualification services & tracking|
-|[UrtheCast](zz_urthecast.md)   (BC)|·|·|·|·|·|Съёмка Земли|
-|[UTIAS](zz_utias.md)   (ON)|·|·|·|·|·|Исследования и прикладная механика. Институт|
-|[UTIAS SFL](zz_utias_sfl.md)   (ON)|·|·|·|·|·|Разработка, создание спутников|
-|[Wyvern Space](zz_wyvern.md)   (AB)|·|·|·|·|·|Съёмка Земли|
-|[Xiphos](zz_xiphos.md)   (QC)|·|·|·|·|·|ЦВМ, ПО|
+|[SEDS Canada](zz_seds.md)   (ON)|N|·|P|·|·|(Student community) Promoting Exploration & Development of Space|
+|[Sinclair I/P](zz_sinclair_ip.md)   (ON)|·|·|·|R|·|Star trackers, reaction wheels, optical comms, software, training & expertise|
+|[SpaceRyde](zz_spaceryde.md)   (ON)|·|L|·|R|·|On‑schedule, dedicated launch for CubeSats using balloons|
+|[Space Concordia](zz_space_concordia.md)   (QC)|N|·|·|R|·|(Student community) CubeSats, small rockets, robots|
+|[Space Engine S.](zz_space_engs.md)   (AL)|·|·|·|R|·|SSTO propulsion, pumps, compressors, gear boxes, Permanent Magnet Motors|
+|[SkyWatch](zz_skywatch.md)   (ON)|·|·|·|C|D|Providing commercial satellite imagery|
+|[SSCL](zz_sscl.md)   (ON)|·|·|·|C|·|Consulting for space policy, planning, strategy, & technology|
+|[Telecan Space](zz_telecan_space.md)   (QC)|·|·|·|C|·|Consulting, Training, Thermal R&D & testing|
+|[Telesat](zz_telesat.md)   (ON)|·|·|·|R|D|Satellite communications & integration services, satellite operator|
+|[Thales Canada](zz_thales.md)   (All)|·|·|·|R|·|Satellite & LV hardware|
+|[Thoth Tech.](zz_thoth_tech.md)   (ON)|·|·|·|R|·|Cameras, In‑rbit objects tracking, thermo‑vac & vibr. tests, mission planning|
+|[UTIAS](zz_utias.md)   (ON)|E|·|·|R|·|Research for space mechatronics, robotics, microsats, fluid dynamics|
+|[Wyvern Space](zz_wyvern.md)   (AB)|·|·|·|C|D|Providing commercial satellite imagery from small sats|
+|[Xiphos](zz_xiphos.md)   (QC)|·|·|·|R|·|CPUs (OBCs), Firmware & Software|
 |**・ Not space ・**|•|•|•|•|•|Avant Aerospace, CAE;<br> *Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)|
 
 [![](f/con/map/canada_political_ru_thumb.jpg)](f/con/map/canada_political_ru.png)
@@ -140,13 +135,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ✘ China
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (CN) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (CN)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[CNSA](zz_cnsa.md)|·|·|·|·|·|Китайское национальное космическое управление|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[CNSA](zz_cnsa.md)】|·|·|·|·|·|Китайское национальное космическое управление|
 |[LandSpace ](zz_landspace.md)|·|L|·|R|·|·|Design, manufacturing & operations of small & medium LV|
 
 
@@ -155,18 +148,16 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ✘ Europe
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (EU) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (EU)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[CNES](zz_cnes.md)   (FR)|·|·|·|·|·|Французское космическое агентство|
-|[DLR](zz_dlr.md)   (GR)|·|·|·|·|·|Германское космическое агентство|
-|[ESA](zz_esa.md)   (EU)|·|·|·|·|·|Исследование космоса. [Роскосмос](zz_roskosmos.md) и  ГНИО в одном лице|
-|[ESTEC](zz_estec.md)   (NL)|·|·|·|·|·|Разработка и создание космических технологий и КА|
-|[SSO](zz_sso.md)   (CH)|·|·|·|·|·|Swiss Space Office, national space program of Switzerland|
-|[UKSA](zz_uksa.md)   (UK)|E|L|P|R|·|UK Space Agency|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[CNES](zz_cnes.md)   (FR)】|·|·|·|·|·|Французское космическое агентство|
+|【[DLR](zz_dlr.md)   (GR)】|·|·|·|·|·|Германское космическое агентство|
+|【[ESA](zz_esa.md)   (EU)】|·|·|·|·|·|Исследование космоса. [Роскосмос](zz_roskosmos.md) и  ГНИО в одном лице|
+|【[ESTEC](zz_estec.md)   (NL)】|·|·|·|·|·|Разработка и создание космических технологий и КА|
+|【[SSO](zz_sso.md)   (CH)】|·|·|·|·|·|Swiss Space Office, national space program of Switzerland|
+|【[UKSA](zz_uksa.md)   (UK)】|E|L|P|R|·|UK Space Agency|
 |[AAC CS](zz_aac_cs.md)   (SE)|·|·|·|·|·|Кубсаты, малые КА, СЧ|
 |[ADS](zz_ads.md)   (GR)|·|·|·|·|·|Military Aircraft; [SCS](scs.md), Electronics, Comms, Intelligence, Security|
 |[Airbus](zz_airbus.md)   (FR)|·|·|·|·|·|…|
@@ -204,7 +195,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Moon Village As.](zz_moon_village_a.md)   (AT)|N|·|·|·|·|Global info‑forum for gov./industry/academia, etc. for dev. of the Moon Village|
 |[Morpheus Space](zz_morpheus_space.md)   (DE)|·|·|·|R|·|Electric propulsion & Artificial Intelligence|
 |[Nammo](nammo.md)   (NO)|·|·|·|·|·|Двигатели|
-|[Neutron Star Sys.](zz_dlr.md)   (GR)|·|·|·|·|·|Electric propulsion (EP) systems & subsystems|
+|[Neutron Star S.](zz_dlr.md)   (GR)|·|·|·|·|·|Electric propulsion (EP) systems & subsystems|
 |[OHB SE](zz_ohb_se.md)   (DE)|·|·|·|·|·|Satellites, exploration, human spaceflight|
 |[Open Cosmos](zz_open_cosmos.md)   (UK)|·|·|·|·|·|R&D satellites|
 |[OPC LAM](zz_opc_lam.md)   (GR)|·|·|·|·|·|Разработка и создание двигателей, ДУ|
@@ -243,13 +234,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ✘ India
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (IN) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (IN)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[ISRO](zz_isro.md)|·|·|·|·|·|Индийское национальное космическое агентство|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[ISRO](zz_isro.md)】|·|·|·|·|·|Индийское национальное космическое агентство|
 |[BSIP](zz_bsip.md)|·|·|·|·|·|Birbal Sahni Institute of Palaeosciences|
 |[Skyroot A/S](zz_skyroot_as.md)|·|·|·|·|·|<mark>TBD</mark> Launch vehicles|
 |[Space Dev. Network](zz_space_dev_netw.md)|·|·|·|·|·|<mark>TBD</mark> Space Development Network|
@@ -265,13 +254,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ± Israel
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (IL) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (IL)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[ISA](zz_isa.md)|·|·|·|·|·|Координация научных/коммерческих программ исследования КП|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[ISA](zz_isa.md)】|·|·|·|·|·|Координация научных/коммерческих программ исследования КП|
 |[AMOS-Spacecom](zz_amos_spacecom.md)|·|·|·|·|·|Fixed‑satellite operator, communication solutions|
 |[Asher SRI](zz_asher_sri.md)|E|·|·|·|·|Asher Space Research Institute|
 |[D-MARS](zz_d_mars.md)|E|·|P|·|·|Promote the space sector. Simulations, training, tech testing, education|
@@ -296,22 +283,21 @@ For the person's info page see **[Persons](person.md)**.
 
 ## Japan
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (JP) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (JP)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[JAXA](zz_jaxa.md)   13|E|L|P|R|·|National aerospace & space agency|
-|[JAXA ESCC](zz_isas.md)   14|·|·|·|R|·|ET materials documentation, preservation, preparation, distribution|
-|[JAXA ISAS](zz_isas.md)   14|·|·|·|R|·|Astrophysical explorations with rockets, SC|
-|[JAXA Kakuda](zz_kakuda_sc.md)   4|·|·|·|R|·|R&D, testing engines & propulsion systems|
-|[JAXA Noshiro](zz_noshiro_rtc.md)   5|·|·|·|R|·|R&D, testing of rockets & engines|
-|[JAXA Tsukuba](zz_tsukuba_sc.md)   8|E|·|·|R|·|Astronauts training, manufactures satellites & ISS modules|
-|[SCJ](zz_scj.md)   13|N|·|P|C|·|Major Japanese science organization|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[JAXA](zz_jaxa.md)   13】|E|L|P|R|·|National aerospace & space agency|
+|【[JAXA ESCC](zz_isas.md)   14】|·|·|·|R|·|ET materials documentation, preservation, preparation, distribution|
+|【[JAXA ISAS](zz_isas.md)   14】|·|·|·|R|·|Astrophysical explorations with rockets, SC|
+|【[JAXA Kakuda](zz_kakuda_sc.md)   4】|·|·|·|R|·|R&D, testing engines & propulsion systems|
+|【[JAXA Noshiro](zz_noshiro_rtc.md)   5】|·|·|·|R|·|R&D, testing of rockets & engines|
+|【[JAXA Tsukuba](zz_tsukuba_sc.md)   8】|E|·|·|R|·|Astronauts training, manufactures satellites & ISS modules|
+|【[SCJ](zz_scj.md)   13】|N|·|P|C|·|Major Japanese science organization|
 |[3D Printing Corp.](zz_3d_printing_corp.md)   14|·|·|·|R|·|Composite 3D printing|
 |[ALE](zz_ale.md)   13|·|·|·|R|·|Space entertainment (sky canvas), data service, small sats|
 |[Astrocean](zz_astrocean.md)   13|·|L|·|·|·|Hybrid rocket sea launch, sub‑orbital & orbital rocket sea launch|
+|[Astroflash](zz_astroflash.md)   13|·|·|·|R|·|Small satellites|
 |[Astroscale](zz_astroscale.md)   13|·|·|·|R|·|Removal of orbital debris, sat life extension services, end‑of‑life services|
 |[Axelspace Corp.](zz_axelspace.md)   13|·|L|·|R|·|Ready‑to‑launch space solutions, micro‑satellite technology|
 |[Canon El. Space](zz_ce_space.md)   13|·|·|·|R|·|Small Earth satellites, their components|
@@ -321,19 +307,19 @@ For the person's info page see **[Persons](person.md)**.
 |[GS Yuasa](zz_gs_yuasa.md)   26|·|·|·|R|·|Batteries|
 |[Hamamatsu Phot.](zz_hamamatsu_phot.md)   22|·|·|·|R|·|Optical sensors, trackers, cameras|
 |[Harada Seiki](zz_harada_seiki.md)   22|·|·|·|R|·|Parts for satellites, rovers, small telescopes for observing Earth|
-|[HIREC](zz_hirec.md)   14|·|·|·|C|·|Technology consulting, verification, testing, design, development|
+|[HIREC](zz_hirec.md)   14|·|·|·|R|·|Electronic components, Reliability/quality assurance|
 |[IHI](zz_ihi.md)   13|·|L|·|R|·|LV, engines & their components R&D|
 |[IMV Corp.](zz_imv_corp.md)   27|·|·|·|R|·|Ground vibration test & measurement systems|
 |[Infostellar](zz_infostellar.md)   13|·|·|·|R|·|Satellite Ground Segment as a Service provider, cubesat components|
 |[Interstellar Tech.](zz_interstellar_tech.md)   1|·|L|·|R|·|LV for small sats (≤ 100 ㎏) development, manufacturing, launch service|
-|[iQPS Inc.](zz_iqps.md)   40|E|·|·|R|·|Earth sats for near real‑time SAR data|
+|[iQPS Inc.](zz_iqps.md)   40|E|·|·|R|D|Earth sats for near real‑time SAR data|
 |[ispace / Hakuto](zz_ispace.md)   13|·|·|·|R|·|Moon lander & base|
 |[J-spacesystems](zz_jspacesys.md)   13|·|·|·|C|·|R&D, HR, promotion activities creating business opportunities in space sector|
 |[JAMSS](zz_jamss.md)   13|·|L|·|R|·|Space experiments operations, austronaut training, satellite utilization|
 |[JEPICO Corp.](zz_jepico_corp.md)   13|·|·|·|R|·|Electronic components|
 |[JpGU](jpgu.md)   13|N|·|P|·|·|Japan geoscience academic union|
 |[JSASS](zz_jsass.md)   13|N|·|P|·|·|Journals, conferences, awards, recommendations|
-|[JSI Corp](zz_jsi_corp.md)   13|·|·|·|R|·|Satellite remote sensing commercial services, imagery data|
+|[JSI Corp](zz_jsi_corp.md)   13|·|·|·|R|D|Satellite remote sensing commercial services, imagery data|
 |[Kawasaki HVI](zz_kawasaki_hvi.md)   13|·|·|·|R|·|Satellites, fairings, rocket launch complex, space transport|
 |[Kobe Univ.](zz_kobe_univ.md)   28|E|·|·|R|·|A leading Japanese national university|
 |[Kratos IS Japan](zz_kratos.md)   13|·|·|·|R|·|Ground antennas, optimizing/managing satelllites, signals|
@@ -350,14 +336,14 @@ For the person's info page see **[Persons](person.md)**.
 |[NDK](zz_ndk.md)   13|·|·|·|R|·|Outgas analysis system, crystal devices (oscillators, filters, transducers)|
 |[NEC Space Tech.](zz_nec.md)   13|·|·|·|R|·|Payload electrical & bus equipment, antennas/spaceborne radar|
 |[NEC Space Sys.](zz_nec.md)   13|·|·|·|R|·|Satellites, ground systems|
-|[NGSL](zz_ngsl.md)|N|·|·|R|·|Solving global issues utilizing Japanese space technology|
+|[NGSL](zz_ngsl.md)   13|N|·|·|R|·|Solving global issues utilizing Japanese space technology|
 |[Nihom Univ.](zz_nihon_univ.md)   13|E|·|·|·|·|Aerospace engineering|
 |[Outsense Inc.](zz_outsense.md)   13|·|·|·|R|·|Space facilities & bases, space residence|
 |[Pale Blue Inc.](zz_pale_blue_inc.md)   12|·|·|·|R|·|Propulsion systems for small sats, consulting of SC design & integration|
-|[PASCO CORP.](zz_pasco_corp.md)   13|·|·|·|R|·|Geospatial information|
+|[PASCO CORP.](zz_pasco_corp.md)   13|·|·|·|R|D|Geospatial information|
 |[PD AeroSpace](zz_pd_aerospace.md)   23|·|L|·|R|·|Suborbital spaceplane, space transportation, space tourism|
 |[Polar Star Space](zz_polar_star_space.md)   13|·|L|·|R|·|Launch service that uses small rockets|
-|[RESTEC Japan](zz_restec.md)   13|·|·|·|R|·|Earth sat’s data receiving, processing, providing; R&D remote sensing techs|
+|[RESTEC Japan](zz_restec.md)   13|·|·|·|R|D|Earth sat’s data receiving, processing, providing; R&D remote sensing techs|
 |[RIKEN](zz_riken.md)   11|E|·|·|R|·|Biology, chemistry, physics, & research|
 |[Sat. Biz Network](zz_sat_biz_network.md)   13|E|·|·|C|·|Technology consulting, space policy, strategy; space startups support|
 |[SE4](zz_se4.md)   13|·|·|·|R|·|Remote robotics using VR|
@@ -392,13 +378,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## Korea South
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (KR) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (KR)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[KARI](zz_kari.md)   6|E|L|P|R|·|Korea Aerospace Research Institute|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[KARI](zz_kari.md)   6】|E|L|P|R|·|Korea Aerospace Research Institute|
 |[Hanwha](zz_hanwha.md)   15|·|·|·|R|·|Engines|
 |[INNOSPACE](zz_innospace.md)   17|·|L|·|R|·|·|Hybrid Rocket Propulsion, satellite launch|
 |[KAI](zz_kai.md)   15|·|L|·|R|·|·|R&D satellites & LV|
@@ -408,7 +392,6 @@ For the person's info page see **[Persons](person.md)**.
 |[Perigee Aerospace](zz_perigee_as.md)   6|·|L|·|R|·|·|Small/medium orbital & sub‑orbital LV|
 |[Satrec Initiative](zz_satreci.md)   6|·|·|·|R|·|Earth observ., sats & their components, ground systems, analytics|
 |[SIIS](zz_siis.md)   6|·|·|·|R|·|Sat imagery provider|
-|**・ Not space ・**|•|•|•|•|•|• • •|
 
 [![](f/con/map/korea_south_political_thumb.png)](f/con/map/korea_south_political.png)
 
@@ -425,33 +408,32 @@ For the person's info page see **[Persons](person.md)**.
 
 **Классификатор кооперации РФ**
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (RU) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (RU)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[4116 ВП МО РФ](milro.md)|·|·|·|·|·|Контролирующие работы на LAV|
-|[ДОГОЗ](zz_dogoz.md)|·|·|·|·|·|Размещение гособоронзаказа, контроль, учёт выполнения|
-|[ИКИ РАН](zz_iki_ras.md) (НРДК)|·|·|·|·|·|Исследование космоса, НА, ННК, научные задачи|
-|[Главкосмос](zz_glavkosmos.md)|·|·|·|·|·|Внешне‑экономическая деятельность РКТ, НИОКР|
-|[Роскосмос](zz_roskosmos.md)|·|·|·|·|·|Федеральный орган исполн. власти по косм. деятельности|
-|[ЦНИИмаш](zz_tsniimash.md)|·|·|·|·|·|[ГНИО РФ](hrorsi.md). Проектирование, экспер. и исследования КТ|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[4116 ВП МО РФ](milro.md)】|·|·|·|·|·|Контролирующие работы на LAV|
+|【[ДОГОЗ](zz_dogoz.md)】|·|·|·|·|·|Размещение гособоронзаказа, контроль, учёт выполнения|
+|【[ИКИ РАН](zz_iki_ras.md)】|·|·|·|·|·|Исследование космоса, НА, ННК, научные задачи (НРДК)|
+|【[Главкосмос](zz_glavkosmos.md)】|·|·|·|·|·|Внешне‑экономическая деятельность РКТ, НИОКР|
+|【[Роскосмос](zz_roskosmos.md)】|·|·|·|·|·|Федеральный орган исполн. власти по косм. деятельности|
+|【[ЦНИИмаш](zz_tsniimash.md)】|·|·|·|·|·|[ГНИО РФ](hrorsi.md). Проектирование, экспер. и исследования КТ|
 |[AvantSpace](zz_avantspace.md)|·|·|·|·|·|Малые спутники, ионные двигатели, радиопередатчики|
-|[АВЭКС](zz_aveks.md) (МКТН)|·|·|·|·|·|Проектирование и изготовление систем электроснабжения|
+|[АВЭКС](zz_aveks.md)|·|·|·|·|·|Проектирование и изготовление систем электроснабжения (МКТН)|
 |[Агат](zz_agat.md)|·|·|·|·|·|Технико‑экономическая экспертиза|
 |[Аксион‑холдинг](zz_axion_h.md)|·|·|·|·|·|Приборостроение|
 |[АКЦ ФИАН](zz_asc_fian.md)|·|·|·|·|·|Астроном. системы изучения космоса в различных спектрах|
 |[Андроидная техника](zz_андр_техника.md)|·|·|·|·|·|Робототехника|
 |[Астрон Электроника](zz_astron_e.md)|·|·|·|·|·|Разработка и производство аппаратуры для КА|
-|[ВНИИЭМ](zz_vniiem.md) (ТАИК)|·|·|·|·|·|Метеоспутники, ДЗЗ, автоматика для АЭС, электротехника|
+|[ВКА Можайского](zz_vka_m.md)|E|·|·|·|·|…|
+|[ВНИИЭМ](zz_vniiem.md)|·|·|·|·|·|Метеоспутники, ДЗЗ, автоматика для АЭС, электротехника (ТАИК)|
 |[ГАИШ МГУ](zz_sai_msu.md)|·|·|·|·|·|…|
 |[Геофизика‑Космос](zz_geofizika_s.md)|·|·|·|·|·|Автоматизированные системы управления|
 |[ГЕОХИ РАН](zz_geokhi_ras.md)|·|·|·|·|·|…|
 |[ГКНПЦ Хруничева](zz_khrunichev.md)|·|·|·|·|·|Разработка и создание [LV](lv.md)|
 |[ИНАСАН](zz_inasan.md)|·|·|·|·|·|…|
 |[ИПМ Келдыша](zz_keldysh_ipm.md)|·|·|·|·|·|Исследования математики, механики, кибернетики, информатики|
-|[ИРЗ](zz_irz.md) (ЦВИЯ)|·|·|·|·|·|Группа приборостроительных компаний|
+|[ИРЗ](zz_irz.md)|·|·|·|·|·|Группа приборостроительных компаний (ЦВИЯ)|
 |[ИРЭ РАН](zz_ire_ras.md)|·|·|·|·|·|…|
 |[ИСС](zz_iss_r.md)|·|·|·|·|·|КА связи, телевещания, ретрансляции, навигации, геодезии|
 |[ИЦ Келдыша](zz_keldysh_its.md)|·|·|·|·|·|[R&D](rnd.md), производство техники в области РКТ|
@@ -464,17 +446,17 @@ For the person's info page see **[Persons](person.md)**.
 |[МГТУ Баумана](zz_мгтубаумана.md)|·|·|·|·|·|…|
 |[МГУ](zz_msu.md)|·|·|·|·|·|…|
 |[МНИИРИП](zz_mniirip.md)|·|·|·|·|·|Исследования в области [ЭКБ](elc.md)|
-|[МОКБ Марс](zz_mars_mokb.md) (СИЯМ)|·|·|·|·|·|Бортовые системы автоматического управления и навигации КА|
+|[МОКБ Марс](zz_mars_mokb.md)|·|·|·|·|·|Бортовые системы автоматического управления и навигации КА (СИЯМ)|
 |[МФТИ](zz_mipt.md)|·|·|·|·|·|…|
-|[НГУ](zz_nsu.md) (ЮМП)|·|·|·|·|·|…|
+|[НГУ](zz_nsu.md)|·|·|·|·|·|… (ЮМП)|
 |[НИИ КП](zz_niikp.md)|·|·|·|·|·|Космическое приборостроение|
-|[НИИ Гуськова](zz_niimp.md) (ЭКПВЕ)|·|·|·|·|·|Микроэлектронная аппаратура|
-|[НИИ МТ](zz_mt_nc.md) (КДИЖ)|·|·|·|·|·|…|
+|[НИИ Гуськова](zz_niimp.md)|·|·|·|·|·|Микроэлектронная аппаратура (ЭКПВЕ)|
+|[НИИ МТ](zz_mt_nc.md)|·|·|·|·|·|… (КДИЖ)|
 |[НИИ ПМЭ](zz_niipme.md)|·|·|·|·|·|…|
 |[НИИ ТП](zz_niitp.md)|·|·|·|·|·|…|
 |[НИИКП](zz_niicom.md)|·|·|·|·|·|Разработка и создание [ДМ](iu.md), управляющих приводов|
 |[НИИМАШ](zz_niimash.md)|·|·|·|·|·|Создание и производство ДУ|
-|[НИИФИ](zz_niifi.md) (СДАИ)|·|·|·|·|·|Датчики, преобразователи, с‑мы контроля, управления|
+|[НИИФИ](zz_niifi.md)|·|·|·|·|·|Датчики, преобразователи, с‑мы контроля, управления (СДАИ)|
 |[НИИЯФ МГУ](zz_ниияф_мгу.md)|·|·|·|·|·|…|
 |[НИЦ Планета](zz_planeta_src.md)|·|·|·|·|·|Гидрометеорология|
 |[НИЦ РКП](zz_nic_rkp.md)|·|·|·|·|·|Отработка ДУ и КА|
@@ -482,39 +464,37 @@ For the person's info page see **[Persons](person.md)**.
 |[НПО ИТ](zz_npoit.md)|·|·|·|·|·|…|
 |[НПО Лавочкина](zz_lav.md)|·|·|·|·|·|…|
 |[НПП Антарес](zz_npp_antares.md)|·|·|·|·|·|Автоматизированные системы управления|
-|[НПП Саит](zz_sait_ltd.md) (СНГА)|·|·|·|·|·|Электросвязь|
-|[НПЦ Полюс](zz_polus_tomsk.md) (ЕИЖА)|·|·|·|·|·|Бортовая/наземная электротехника, точная механика|
+|[НПП Саит](zz_sait_ltd.md)|·|·|·|·|·|Электросвязь (СНГА)|
+|[НПЦ Полюс](zz_polus_tomsk.md)|·|·|·|·|·|Бортовая/наземная электротехника, точная механика (ЕИЖА)|
 |[НПЦАП](zz_npcap.md)|·|·|·|·|·|Разработка и создание гироскопов и ДМ|
 |[НТЦ Модуль](zz_ntc_module.md)|·|·|·|·|·|Обработка изображений, вычислительные комплексы|
 |[НСТР](нстр.md)|·|·|·|·|·|…|
-|[ОКБ 5](zz_okb5.md) (МКТУ)|·|·|·|·|·|Блоки управления и схемы|
-|[ОКБ МЭИ](zz_okbmei.md) (ЯГАИ)|·|·|·|·|·|Радиотехнические системы/комплексы РКТ, испытания ракет/КА|
+|[ОКБ 5](zz_okb5.md)|·|·|·|·|·|Блоки управления и схемы (МКТУ)|
+|[ОКБ МЭИ](zz_okbmei.md)|·|·|·|·|·|Радиотехнические системы/комплексы РКТ, испытания ракет/КА (ЯГАИ)|
 |[ОКБ Факел](zz_edb_fakel.md)|·|·|·|·|·|Создание и производство эл. двигателей, ДУ|
 |[Орион‑ХИТ](орион‑хит.md)|·|·|·|·|·|[ХИТ](eb.md)|
 |[РАН](ран.md)|·|·|·|·|·|…|
 |[РАДИС](zz_radis.md)|·|·|·|·|·|Оборудование для беспроводной связи|
 |[РИРВ](рирв.md)|·|·|·|·|·|…|
 |[РКК Энергия](ркк_энергия.md)|·|·|·|·|·|…|
-|[РКС](zz_rss.md) (ИВЯФ)|·|·|·|·|·|Космические информационные системы|
+|[РКС](zz_rss.md)|·|·|·|·|·|Космические информационные системы (ИВЯФ)|
 |[РКЦ Процесс](zz_progress_rsc.md)|·|·|·|·|·|Разработка, производство и эксплуатация РН среднего класса|
 |[РНЦ ПХ](zz_rsc_ac.md)|·|·|·|·|·|Химические вещества, композиционные/полимерные материалы|
 |[Росгидромет](zz_roshydromet.md)|·|·|·|·|·|Гидрометеорология, мониторинг природной среды, гос. надзор|
 |[РФЯЦ-ВНИИЭФ](zz_vniief.md)|·|·|·|·|·|…|
-|[ПАО Сатурн](пао_сатурн.md) (ЖЦПИ)|·|·|·|·|·|Солнечные и аккумуляторные батареи|
+|[ПАО Сатурн](пао_сатурн.md)|·|·|·|·|·|Солнечные и аккумуляторные батареи (ЖЦПИ)|
 |[Сафит](zz_safit.md)|·|·|·|·|·|Трубы, баллоны|
-|[СКБ](zz_sdb_ire_ras.md) (ТИДН)|·|·|·|·|·|…|
+|[СКБ](zz_sdb_ire_ras.md)|·|·|·|·|·|… (ТИДН)|
 |[СКБ КП](zz_skbkp.md)|·|·|·|·|·|[OE](oe.md) для фундаментальных космических исследований|
 |[Совзонд](zz_sovzond.md)|·|·|·|·|·|Изображения Земли, аналитика|
 |[Спутникс](zz_sputnix.md)|·|·|·|·|·|…|
 |[Техномаш](zz_tehnomash.md)|·|·|·|·|·|Метрологическая аттестация, сертификация, аудит|
 |[ФАНО](фано.md)|·|·|·|·|·|Регулирование, услуги науки, образ., здравоохр., агропрома|
 |[ФИАН](zz_fian.md)|·|·|·|·|·|Физический институт|
-|[ЦКБ ИУС](zz_ckbius.md) (АИТЛ)|·|·|·|·|·|Информационно‑управляющие системы, радиоэл. БА|
+|[ЦКБ ИУС](zz_ckbius.md)|·|·|·|·|·|Информационно‑управляющие системы, радиоэл. БА (АИТЛ)|
 |[ЦНИИХМ](zz_tsniihm.md)|·|·|·|·|·|…|
 |[ЦЭНКИ](zz_tsenki.md)|·|·|·|·|·|Предоставление пусковых услуг|
 |[Энергомаш](энергомаш.md)|·|·|·|·|·|Разработка и создание ракетных двигателей|
-|**Non‑profit**|•|•|•|•|•|• • •|
-|[ВКА Можайского](zz_vka_m.md)|·|·|·|·|·|…|
 
 
 
@@ -522,13 +502,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ✘ Saudi Arabia
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (SA) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (SA)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[SSA](zz_ssa.md)|·|·|·|·|·|Космическое агентство Саудовской Аравии|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[SSA](zz_ssa.md)】|·|·|·|·|·|Космическое агентство Саудовской Аравии|
 |…|·|·|·|·|·|…|
 
 
@@ -537,13 +515,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ✘ Singapore
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (SG) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (SG)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[SSTA](zz_ssta.md)|·|·|·|·|·|Singapore Space & Technology Association|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[SSTA](zz_ssta.md)】|·|·|·|·|·|Singapore Space & Technology Association|
 |[Astroscale](zz_astroscale.md)|·|·|·|R|·|Removal of orbital debris, sat life extension services, end‑of‑life services|
 
 
@@ -552,13 +528,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ✘ USA
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (US) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (US)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[NASA](zz_nasa.md)|E|L|P|R|·|Нац. управление США по аэронавтике и исследованию КП|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[NASA](zz_nasa.md)】|E|L|P|R|·|Нац. управление США по аэронавтике и исследованию КП|
 |[Advanced Space](zz_advanced_space.md)|·|·|·|·|·|Mission sheduling, research, design, analysis, support|
 |[Aerojet Rocketdyne](aerojet_rocketdyne.md)|·|·|·|·|·|Разработка и эксплуатация двигателей и ДУ|
 |[AI SpaceFactory](ai_spacefactory.md)|·|·|·|·|·|Extraplanetary habitats & systems|
@@ -591,13 +565,13 @@ For the person's info page see **[Persons](person.md)**.
 |[Frontier A/S](zz_frontier_as.md)|·|·|·|·|·|<mark>TBD</mark> Rocket propulsion|
 |[GFSC](zz_gfsc.md)|·|·|·|·|·|Goddard Space Flight Center|
 |[GISS](zz_giss.md)|·|·|·|·|·|…|
-|[Global Aerospace Corp.](zz_gac.md)|·|·|·|·|·|R&D. Engineering work, assembly, integration, & testing|
+|[Global Aerosp. Corp.](zz_gac.md)|·|·|·|·|·|R&D. Engineering work, assembly, integration, & testing|
 |[GRC](zz_grc.md)|·|·|·|·|·|Научные исследования, разработка аэрокосмических технологий|
 |[Hampton Univ.](hampton_univ.md)|·|·|·|·|·|…|
 |[Honeywell A/S](zz_honeywell_as.md)|·|·|·|·|·|…|
 |[Icarus Interstellar](zz_icarus_interstellar.md)|N|·|·|R|·|R&D technology that will assist the development of interstellar flight|
 |[ImageSat Int.](zz_imagesat_int.md)|·|·|·|·|·|Geospatial solutions & services: imagery, data, analytics|
-|[Int. Moonbase Alliance](zz_i18n_moonbase_alc.md)|·|·|·|·|·|Advancing the development/implementation of base on the Moon|
+|[Int. Moonbase Allia.](zz_i18n_moonbase_alc.md)|·|·|·|·|·|Advancing the development/implementation of base on the Moon|
 |[Intuitive Machines](zz_intt_machines.md)|·|·|·|·|·|Automatics for industrial systems, drones, SC & spacesuit model./sim. services|
 |[Jacobs](zz_jacobs.md)|·|·|·|C|·|Civil engineering & solutions|
 |[J.Hopkins Univ.](zz_jhu.md)|·|·|·|·|·|…|
@@ -622,7 +596,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Moon Express](moon_express.md)|·|·|·|·|·|Разработка и эксплуатация лунных грузовых [КА](sc.md)|
 |[Mount Holyoke Coll.](mtholyoke_college.md)|·|·|·|·|·|…|
 |[Nanoracks](zz_nanoracks.md)|·|·|L|R|·|…|
-|[National Space Society](zz_nspace_society.md)|N|·|·|·|·|Creation of a spacefaring civilization|
+|[National Space Soc.](zz_nspace_society.md)|N|·|·|·|·|Creation of a spacefaring civilization|
 |[NCSU](zz_ncsu.md)|·|·|·|·|·|NC State University|
 |[Northrop Grumman](zz_northrop_grumman.md)|·|·|·|·|·|Разработка/эксплуат. [КА](sc.md), лазерных систем, микроэлектроники|
 |[Open Univ.](zz_open_univ.md)|·|·|·|·|·|The Open University (OU)|
@@ -660,13 +634,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ✘ UAE
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (AE) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (AE)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[UAESA](zz_uaesa.md)|·|·|·|·|·|Космическое агентство Объединённых Арабских Эмиратов|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[UAESA](zz_uaesa.md)】|·|·|·|·|·|Космическое агентство Объединённых Арабских Эмиратов|
 |[MBRSC](zz_mbrsc.md)|·|·|·|·|·|Разработка и создание КА|
 
 
@@ -675,13 +647,11 @@ For the person's info page see **[Persons](person.md)**.
 
 ## ± Vietnam
 
-(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting
+(**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
-|*・ Organization (JP) ・*|*E*|*L*|*P*|*R*| |*Industry*|
+|*・Organization (JP)・*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|**・ Head ・**|•|•|•|•|•|• • •|
-|[VNSC](zz_vnsc.md)|E|·|·|R|·|Vietnam National Space Center|
-|**・ Contractors ・**|•|•|•|•|•|• • •|
+|【[VNSC](zz_vnsc.md)】|E|·|·|R|·|Vietnam National Space Center|
 |…|·|·|·|·|·|…|
 
 

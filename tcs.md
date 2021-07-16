@@ -68,7 +68,7 @@ Usually includes:
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Canadensys](zz_canadensys.md)|
+|**Canada**|・[Canadensys](zz_canadensys.md)<br> ・[Telecan Space](zz_telecan_space.md) — Thermal R&D|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

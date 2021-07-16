@@ -1,14 +1,13 @@
 # CPSX
 > 2019.08.16 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/c/cpsx_logo1_thumb.jpg)](f/con/c/cpsx_logo1.png)|<cpsx@uwo.ca>, +1(519)661-21-11 ext 88508, Fax: +1(519)488-47-21;<br> *1151 Richmond Street, London, Ontario, N6A 3K7, Canada*|
+|[![](f/con/c/cpsx_logo1_thumb.jpg)](f/con/c/cpsx_logo1.png)|<cpsx@uwo.ca>, +1(519)661-21-11 ext 88508, Fax: +1(519)488-47-21;<br> *1151 Richmond Street, London, Ontario, N6A 3K7, Canada*<br> 【<https://cpsx.uwo.ca/>】|
 |:--|:--|
-|Link|<https://cpsx.uwo.ca/>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|Space education, Promotion, Training|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Centre for Planetary Science & Exploration (CPSX)** at Western University is the leading organization for planetary science & exploration research & training in Canada. Our goal is to provide Canada & the global space program with the necessary expertise to design & support future planetary mission activities.
 

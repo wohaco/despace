@@ -1,14 +1,13 @@
 # ARC
 > 2019.08.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/a/arc_logo1_thumb.jpg)](f/con/a/arc_logo1.png)|<arc-publicinquiries@mail.nasa.gov>, +1(650)604-5000, Fax: …;<br> *Public Affairs Office, NASA Ames Research Center, Mail Stop 204-14, Moffett Field, CA, 94035-0001, USA*|
+|[![](f/con/a/arc_logo1_thumb.jpg)](f/con/a/arc_logo1.png)|<arc-publicinquiries@mail.nasa.gov>, +1(650)604-5000, Fax: …;<br> *Public Affairs Office, NASA Ames Research Center, Mail Stop 204-14, Moffett Field, CA, 94035-0001, USA*<br> 【<https://www.nasa.gov/ames> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Ames_Research_Center)】|
 |:--|:--|
-|Link|<https://www.nasa.gov/ames>・ <https://en.wikipedia.org/wiki/Ames_Research_Center>・ <https://ru.wikipedia.org/wiki/Исследовательский_центр_Эймса>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Исследовательский центр Эймса (Ames Research Center, ARC)** — отделение правительственного агентства НАСА, расположенное на территории аэропорта Моффет‑Филда, недалеко от Маунтин‑Вью (Калифорния). Основано 20 декабря 1939 как вторая лаборатория National Advisory Committee for Aeronautics (NACA), ставшая частью НАСА в   1958. Центр назван в честь профессора физики Джозефа Эймса, сооснователя и председателя (1919—1939) комитета NASA.
 

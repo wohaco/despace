@@ -1,14 +1,13 @@
 # GSFC
 > 2019.08.11 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/n/nasa_logo1_thumb.jpg)](f/con/n/nasa_logo1.png)|<mark>noemail</mark>, +1(301)286-2000, Fax: …;<br> *8800 Greenbelt Rd, Greenbelt, MD 20771, USA*|
+|[![](f/con/n/nasa_logo1_thumb.jpg)](f/con/n/nasa_logo1.png)|<mark>noemail</mark>, +1(301)286-2000, Fax: …;<br> *8800 Greenbelt Rd, Greenbelt, MD 20771, USA*<br> 【<https://www.nasa.gov/goddard>・ <https://www.nasa.gov/centers/goddard/about/index.html> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center)|
 |:--|:--|
-|Link|<https://www.nasa.gov/goddard>・ <https://www.nasa.gov/centers/goddard/about/index.html>・ <https://en.wikipedia.org/wiki/Goddard_Space_Flight_Center>・ <https://ru.wikipedia.org/wiki/Центр_космических_полётов_Годдарда>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Goddard Space Flight Center (GSFC, Центр космических полетов имени Годдарда)** — крупная исследовательская лаборатория NASA, основанная 1 мая 1959 года. В GSFC занято около 10 000 гражданских служащих и работников подрядчиков NASA. Центр расположен в 10 ㎞ к северо‑востоку от Washington, D.C. в Гринбелт (Мэриленд), США. GSFC — один из десяти основных центров NASA. Назван в честь доктора Роберта Годдарда (1882—1945), пионера ракетной техники.
 

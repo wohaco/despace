@@ -1,14 +1,13 @@
 # IAF
 > 2020.01.23 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/i/iaf_logo1_thumb.png)](f/con/i/iaf_logo1.png)|<mark>noemail</mark>, +33(145)674-260, Fax: +33(142)732-120;<br> *100 Avenue de Suffren, 75015 Paris, France*|
+|[![](f/con/i/iaf_logo1_thumb.png)](f/con/i/iaf_logo1.png)|<mark>noemail</mark>, +33(145)674-260, Fax: +33(142)732-120;<br> *100 Avenue de Suffren, 75015 Paris, France*<br> 【<http://www.iafastro.org/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/International_Astronautical_Federation)】|
 |:--|:--|
-|Link|<http://www.iafastro.org/>・ <https://en.wikipedia.org/wiki/International_Astronautical_Federation>・ <https://ru.wikipedia.org/wiki/Международная_астронавтическая_федерация>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|・**Promoting Cooperation.** The IAF’s International Astronautical Congress & various IAF committees provide unique collaborative platforms for experts from space agencies, industry & research.<br> ・**Advancing International Development.** The IAF is building a future of cooperation, development & international friendship, bringing together experts from experienced & emerging space nations alike.<br> ・**Sharing Knowledge.** The Federation has many well‑established channels to disseminate information within its global network & the wider space community.<br> ・**Recognizing Achievements.** The Federation’s prestigious awards are presented annually to individuals & groups who have distinguished themselves in the global space community.<br> ・**Preparing the Workforce of Tomorrow.** To nurture new talent, the Federation has many activities targeting students & young professionals.<br> ・**Raising Awarness.** The global network of the IAF, & IAF publications, help promote the public appreciation of space activities worldwide.|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **Международная астронавтическая федерация (МАФ, Международная федерация астронавтики, англ. International Astronautical Federation, IAF)** — международная неправительственная некоммерческая научная организация, которая занимается проблемами исследования и освоения космоса в мирных целях, а также вопросами ракетной техники и космоса с правовой точки зрения. Основана в 1950 году на 1‑м Международном астронавтическом конгрессе в Париже главами 8 стран: Австрии, Аргентины, Великобритании, Дании, Испании, Франции, ФРГ, Швеции. Федерация базируется в Париже. Органом управления МАФ является Генеральная Ассамблея, собирающаяся ежегодно во время конгресса МАФ и избирающая бюро в составе президента и нескольких вице‑президентов.
 

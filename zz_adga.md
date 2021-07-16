@@ -1,14 +1,13 @@
 # ADGA
 > 2019.08.29 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/a/adga_logo1_thumb.jpg)](f/con/a/adga_logo1.png)|<mark>noemail</mark>, +1(613)237-30-22, Fax: …;<br> *110 Argyle Avenue, Ottawa, ON, K2P 1B4, Canada*|
+|[![](f/con/a/adga_logo1_thumb.jpg)](f/con/a/adga_logo1.png)|<mark>noemail</mark>, +1(613)237-30-22, Fax: …;<br> *110 Argyle Avenue, Ottawa, ON, K2P 1B4, Canada*<br> 【<http://www.adga.ca/> ・ [Facebook ⎆](https://www.facebook.com/ADGAGroup/)・ [Twitter ⎆](https://twitter.com/adgagroup)・ [LinkedIn ⎆](https://www.linkedin.com/company/adga-group/)】|
 |:--|:--|
-|Link|<http://www.adga.ca/>・ <https://www.facebook.com/ADGAGroup/>・ <https://twitter.com/adgagroup>・ <https://www.linkedin.com/company/adga-group/>|
 |**Mission**|To provide client centric, value‑added, end‑to‑end engineering & consulting services, including systems analysis, technology‑based solution development & implementation support.|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|・CEO — Françoise Gagnon<br> ・President — Shaun McEwan|
+|**Business**|Advanced technology solutions, professional engineering & consultancy|
+|**[MGMT](mgmt.md)**|・CEO — Françoise Gagnon<br> ・President — Shaun McEwan|
 
 **ADGA** is a privately owned Canadian company, who is a leading provider of technology solutions in defence, security & enterprise computing. ADGA’s headquarters are in Ottawa, with offices in Gatineau, Montreal & Toronto. ADGA is dedicated to Defence, Aerospace Engineering & Technical Services.
 

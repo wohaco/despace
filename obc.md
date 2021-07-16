@@ -36,7 +36,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Canadensys](zz_canadensys.md)|
+|**Canada**|・[Canadensys](zz_canadensys.md)<br> ・[Xiphos](zz_xiphos.md)|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

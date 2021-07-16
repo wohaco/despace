@@ -1,14 +1,13 @@
 # MDA
 > 2019.08.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/m/mda_logo1_thumb.jpg)](f/con/m/mda_logo1.png)|<info@mdacorporation.com>, +1(604)278-34-11, Fax: +1(604)231-27-68;<br> *Somewhere in Canada*|
+|[![](f/con/m/mda_logo1_thumb.jpg)](f/con/m/mda_logo1.png)|<info@mdacorporation.com>, +1(604)278-34-11, Fax: +1(604)231-27-68;<br> *Somewhere in Canada*<br> 【<https://mda.space/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/MDA_Space_Missions)・ [LinkedIn ⎆](https://www.linkedin.com/company/mdaspace)】|
 |:--|:--|
-|Link|<https://mda.space/>・ <https://en.wikipedia.org/wiki/MDA_Space_Missions>・ <https://www.linkedin.com/company/mdaspace>|
 |**Mission**|Tempered & tested by generations of space innovation, MDA has a track record of making ambitions come true. We’re fueled by a pioneering spirit that carries us above & beyond. And together we enable highly skilled people to continually push boundaries, tackle big challenges, & imagine solutions that inspire & endure.|
 |**Vision**|…|
 |**Values**|**Integrity** — We stand behind our promises & deliver, every time. We take pride in our work. And our integrity is reflected in the openness we practice, the solutions we create & the support we provide. **Collaboration** — We take our partners where they want to go by listening, adapting, solving problems & staying a step ahead to achieve greatness together. **Operational excellence** — Our work speaks for itself. For decades, our team of industry experts have been solving mission critical problems that people, our country, & our sovereignty depend on. **Inspiration** — Fueled by our love of space, we’re driven to make dreams come true, lead the charge, & awaken that same drive in all, just as we have done throughout our mission history. **Responsible** — We’re Canada’s original space pioneers, & for 50 years we’ve approached every mission the Canadian way: proudly, sustainably, equitably & ethically.|
 |**Business**|Geointelligence, [Robotics](robotics.md) & Space operations, [Ground stations](scs.md), [Satellite systems](sc.md), Earth imagery, In-orbit servicing, [Cameras](cam.md), [LIDARs](doppler.md) & rangefinders, [Comms](comms.md) (antennas, electronics), [Software](soft.md)|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**[MGMT](mgmt.md)**|…|
 
 **MDA’s Robotics & Automation** is a Canadian manufacturer subsidiary of MacDonald, Dettwiler & Associates Ltd. In 2020 [MDA was sold ⎆](http://investor.maxar.com/investor-news/press-release-details/2019/Maxar-Technologies-to-Sell-MDA-to-Northern-Private-Capital-for-CAD1-Billion/default.aspx) to Northern Private Capital. It specialized in the manufacture of robotic arms & equipment for space applications, most notably the Canadarm on the space shuttle orbiters, & Canadarm-2 on the International Space Station. In addition to design, safety, reliability, & quality assurance engineering services, MDA’s previous contracted products include:
 

@@ -21,7 +21,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[Deltion](zz_deltion.md)<br> ・[MDA](zz_mda.md)|
+|**Canada**|・[Deltion](zz_deltion.md)<br> ・[MDA](zz_mda.md)<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) Robots<br> ・[UTIAS](zz_utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|

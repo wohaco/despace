@@ -1,17 +1,17 @@
 # Telesat
 > 2019.08.13 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/t/telesat_logo1_thumb.png)](f/con/t/telesat_logo1.png)|<mark>noemail</mark>, +1(613)748-01-23, Fax: +1(613)748-87-12;<br> *160 Elgin Street, Suite 2100, Ottawa, Ontario, K2P 2P7, Canada*|
+|[![](f/con/t/telesat_logo1_thumb.png)](f/con/t/telesat_logo1.png)|<mark>noemail</mark>, +1(613)748-01-23, Fax: +1(613)748-87-12;<br> *160 Elgin Street, Suite 2100, Ottawa, Ontario, K2P 2P7, Canada*<br> 【<https://www.telesat.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Telesat)・ [LinkedIn ⎆](https://www.linkedin.com/company/telesat.com)・ [Twitter ⎆](https://twitter.com/Telesat)】|
 |:--|:--|
-|Link|<https://www.telesat.com/>・ <https://en.wikipedia.org/wiki/Telesat>・ <https://ru.wikipedia.org/wiki/Telesat>・ <https://www.linkedin.com/company/telesat.com>・ <https://twitter.com/Telesat>|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
-|**[Manage-<br>ment](mgmt.md)**|…|
+|**Business**|Satellite [communications](comms.md) & integration services, satellite operator|
+|**[MGMT](mgmt.md)**|…|
 
-**Telesat Canada** — это канадский спутниковый оператор, основанный 2 мая 1969 года. Компания в настоящее время(начало 2013 года) занимает четвёртое место в мире на рынке фиксированных спутниковых услуг. Telesat Canada принадлежит 13 телекоммуникационных спутников, ещё 1 спутник (Anik G1) готовится к запуску, также компания работает с 13 спутниками других операторов.
+**Telesat** (formerly **Telesat Canada**) is a Canadian satellite communications company, the fourth-largest fixed satellite services provider in the world. Founded on 1969.03.02.
 
+The company owns a fleet of satellites (created by other companies), with others under construction, & operates additional satellites for other entities. Telesat carries Canada's two major DBS providers signals: Bell Satellite TV & Shaw Direct, as well as more than 200 of Canada's television channels. Telesat's Anik F2 carries a Ka‑band spot beam payload for satellite Internet access for Wildblue users in the United States & Xplornet users in Canada. The KA band system uses spot beams to manage bandwidth concerns, linking to multiple satellite ground stations connected to the Internet.
 
 <p style="page-break-after:always"> </p>
 
