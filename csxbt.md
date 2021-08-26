@@ -8,17 +8,24 @@
 > <small>**SAIT Cubesat X‑band Transmitter (CSXBT)** — англоязычный термин, не имеющий аналога в русском языке. **Радиопередатчик для кубсатов X-диапазона НПП Саит (CSXBT)** — дословный перевод с английского на русский.</small>
 
 **SAIT Cubesat X‑band Transmitter (CSXBT)** — радиопередатчик.  
-*Разработчик:* [НПП Саит](zz_sait_ltd.md). Разработано ранее 2016 года активное применение
+Разработчик [НПП Саит](zz_sait_ltd.md). Разработано ранее 2016 года, активное применение.
 
-| |
-|:--|
-|[![](f/comms/c/csxbt_pic1_thumb.jpg)](f/comms/c/csxbt_pic1.jpg)|
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(CSXBT)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(CSXBT)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|16|
+|Dimensions, ㎜|87 × 93 × 28|
+|[Interfaces](interface.md)|Customizable LVDS or CMOS. 5 pairs for serial data (clock input/output, data, optional enable). RS-485 или I2C или CAN-2B. Micro-D (MIL-DTL-83513) female (9-pin power, 21-pin data/control). SMA female 50 Ω RF output|
+|[Lifetime](lifetime.md)/Resource, h(y)|26 280 (3) / …|
+|Mass, ㎏|0.38|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|60 (6 000) при Al 1.5 g/㎝², ≥40 МэВ·cm²/мг|
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.9392|
+|[Thermal range](tcs.md), ℃|–20 ‑ +50, 1 датчик температуры DS18S20|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|12 (11 ‑ 16)|
+|**【Specific】**|• • •|
 |Вид модуляции|QPSK, 8PSK, 16APSK, 32APSK|
 |Время непр. работы, ч| |
 |Вых. мощность, W|2.5|
@@ -27,32 +34,13 @@
 |Нестаб. частоты|±10 ppm|
 |[Скорость](битрейт.md), bit/s|(внутр. до 1 Гбит/с)|
 |Структура сигнала| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.9392|
-|Габариты, Д×Ш×В, ㎜|87 × 93 × 28|
-|Interfaces|Customizable LVDS or CMOS. 5 pairs for serial data (clock input/output, data, optional enable). RS-485 или I2C или CAN-2B. Micro-D (MIL-DTL-83513) female (9-pin power, 21-pin data/control). SMA female 50 Ω RF output|
-|Mass, ㎏|0.38|
-|[Voltage](voltage.md), V|12 (11 ‑ 16)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|60 (6 000) при Al 1.5 g/㎝², ≥40 МэВ·cm²/мг|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|26 280 (3)|
-|[Thermal range](tcs.md), ℃|–20 ‑ +50, 1 датчик температуры DS18S20|
-|Consumption, W|16|
+| |[![](f/comms/c/csxbt_pic1_thumb.jpg)](f/comms/c/csxbt_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. Аист‑2Д
+   1. **Применяемость:**
+      - Аист‑2Д
 
 
 

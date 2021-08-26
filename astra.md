@@ -18,7 +18,6 @@
 
 |*Характеристика*|*Значение*|
 |:--|:--|
-|[TRL](trl.md)| |
 |Исполнение|Моноблок из [слайсов](слайс.md)|
 |Кол‑во входов информации|—|
 |<small> ・аналоговых генераторных милливольтового диапазона (термопар) и параметрических (термометров сопротивления)</small>| |
@@ -32,16 +31,16 @@
 |Объём памяти, кбайт| |
 |Скорость, кбит/с|… — записи;<br> … — НП|
 |**`Прочее`**| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm| |
-|Interfaces|RS‑485|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)|RS‑485|
 |Mass, ㎏| |
 |[Voltage](voltage.md), V| |
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)| |
 |Consumption, W| |
 
 </small>

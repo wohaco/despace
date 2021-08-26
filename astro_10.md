@@ -8,13 +8,23 @@
 > <small>**ASTRO 10** — англоязычный термин, не имеющий аналога в русском языке. **АСТРО 10** — дословный перевод с английского на русский.</small>
 
 **ASTRO 10** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в <mark>TBD</mark> году. Активное применение.
+Разработчик [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в <mark>TBD</mark> году. Активное применение.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(ASTRO 10)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(ASTRO 10)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|8 (+7 для охладителя)|
+|Dimensions, ㎜|ОБ ⌀140 × 264 для бленды 30°, ⌀130 × 205 для бленды 40°,<br> БЭ 150 × 145 × 75|
+|[Interfaces](interface.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 105 120 (12) / …|
+|Mass, ㎏|3.8 с блендой 30°, 3.55 с блендой 40°|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99937 (600 [FIT](qm.md))|
+|[Thermal range](tcs.md), ℃|−40 ‑ +40 (ОБ), −40 ‑ +50 (БЭ)|
 |[TRL](trl.md)| |
+|[Voltage](voltage.md), V|28 (22 ‑ 60)|
+|**【Specific】**|• • •|
 |Время опознавания, с| |
 |Вых. информация| |
 |Допуст. угл. скор., °/с|3|
@@ -26,33 +36,13 @@
 |Точность|12″|
 |Частота обновл., Гц| |
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99937 (600 [FIT](qm.md))|
-|Dimensions, L×W×H, mm|ОБ ⌀140 × 264 для бленды 30°, ⌀130 × 205 для бленды 40°,<br> БЭ 150 × 145 × 75|
-|Interfaces|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|3.8 с блендой 30°, 3.55 с блендой 40°|
-|[Voltage](voltage.md), V|28 (22 ‑ 60)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|НОО: 105 120 (12)|
-|[Thermal range](tcs.md), ℃|−40 ‑ +40 (ОБ), −40 ‑ +50 (БЭ)|
-|Consumption, W|8 (+7 для охладителя)|
 | |[![](f/sensor/a/astro_10_pic1_thumb.jpg)](f/здa/astro_10_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

@@ -10,45 +10,31 @@
 **Д㎆** — инерциальное устройство ([двигатель‑маховик](iu.md)), предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
 *Разработчик:* [ВНИИЭМ](zz_vniiem.md). Разработано ранее 2015 года активное применение
 
-| |
-|:--|
-|[![](f/iu/д/dmb_pic1_thumb.jpg)](f/iu/д/dmb_pic1.jpg)|
-
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(Д㎆)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(Д㎆)</small>*|
 |:--|:--|
+|Consumption, W|7 постоянно, 100 макс.|
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / 29 930 (3.4)|
+|Mass, ㎏|17.5 (13.8 УДМ, 3.7 БЭ)|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|24 ‑ 34|
+|**【Specific】**|• • •|
 |Исполнение|1 УДМ, 1 БЭ|
 |Кинет. момент, Н·м·с|29.4|
 |Макс. упр. момент, Н·м|350|
 |Режим готовности| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm| |
-|Interfaces| |
-|Mass, ㎏|17.5 (13.8 УДМ, 3.7 БЭ)|
-|[Voltage](voltage.md), V|24 ‑ 34|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)|29 930 (3.4)|
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|7 постоянно, 100 макс.|
+| |[![](f/iu/д/dmb_pic1_thumb.jpg)](f/iu/д/dmb_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

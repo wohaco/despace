@@ -13,8 +13,6 @@
 
 The name of eVanTEC is compounded with English words of “eVangelist” & “TEChnology”, which means the company recognizes the importance of transfer of technology as well as consultation like a match maker of different companies. (The company has nothing to do with religious affairs)
 
-<p style="page-break-after:always"> </p>
-
 Our vision:
 
    - **AGILE SOFTWARE DEVELOPMENT.** New Paradigm Shift arises in IT business as “Agile Software Development.” Agile has a different style of management upon cross‑functional teams & projects from Waterfall model. The values of Agile are described with the followings: ① Individuals & interactions over processes & tools, ② Working software over comprehensive documentation, ③ Customer collaboration over contract negotiation, ④ Responding to change over following a plan. We design a powerful team & take this method with Scrum (Software development) to accomplish ideal products for customers.
@@ -22,3 +20,7 @@ Our vision:
    - **SATELLITE BUSINESS.** One of important business field of eVanTEC, is satellite relating business as supporting [JAXA](zz_jaxa.md). Most highlighting theme is International Space Station.
    - **UBIQUITOUS CONCEPT.** Ubiquitous concept is now booming in the field of technology. But essentially we had better admit the trend of global competence or global work sharing, result in the movement of scattering of manufacturing production factories to lower labor cost countries. Accordingly Japanese companies are searching new direction of their technology. Ubiquitous is a new concept based on Xerox Maxhouser & my understanding is that anywhere microchips are located with communicated each other & providing in anytime anywhere telecommunication services. eVanTEC will providing consultation business in exploring ubiquitous network from conceptual level of planning or project making to practical level of development in the specific region of smart object relating to the technology of smart cards.
    - **ACCEPT FOREIGN INVESTOR.** You could invest eVanTEC, prosperous company. Especially eVanTEC accepts the Japanese branch to expand your business in form of the president Mikio, as the branch officer.
+
+<p style="page-break-after:always"> </p>
+
+…

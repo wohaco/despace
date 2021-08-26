@@ -10,45 +10,32 @@
 **МДМ-1,0** — инерциальное устройство ([двигатель‑маховик](iu.md)), предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
 *Разработчик:* [НПЦ Полюс](zz_polus_tomsk.md). Разработано в 2007 году активное применение
 
-| |
-|:--|
-|[![](f/iu/м/mdm_1_0_pic1_thumb.jpg)](f/iu/м/mdm_1_0_pic1.jpg)|
-
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(МДМ-1,0)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(МДМ-1,0)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|2 постоянно, 20 макс.|
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / 150 000 (17)|
+|Mass, ㎏|3.4 (1.5 УДМ, 0.4 БЭ)|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Исполнение|2 УДМ, 1 БЭ|
 |Кинет. момент, Н·м·с|1|
 |Макс. упр. момент, Н·м|0.02|
 |Режим готовности| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm| |
-|Interfaces| |
-|Mass, ㎏|3.4 (1.5 УДМ, 0.4 БЭ)|
-|[Voltage](voltage.md), V| |
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)|150 000 (17)|
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|2 постоянно, 20 макс.|
+| |[![](f/iu/m/mdm_1_0_pic1_thumb.jpg)](f/iu/m/mdm_1_0_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

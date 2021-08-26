@@ -10,16 +10,21 @@
 **ИУС ВОА** — волоконно‑оптический [гироскоп](iu.md) (ВОГ) в составе [КА](sc.md), предназначенный для определения положения КА в инерциальной системе отсчёта. ИУС ВОА представляет собой четырёхосную (с неортогональным расположением осей чувствительности) отказоустойчивую систему измерения проекций абсолютной угловой скорости и линейного ускорения объекта на оси приборной системы координат.  
 *Разработчик:* [НПП Антарес](zz_npp_antares.md). Разработано  
 
-| |
-|:--|
-|[![](f/iu/i/ius_voa_pic1_thumb.jpg)](f/iu/i/ius_voa_pic1.jpg)|
-
-<small>
-
-|*Характеристика*|*[Значение](si.md) <small>()</small>*|
+|*Characteristics*|*[Value](si.md)<br> (ИУС ВОА)*|
 |:--|:--|
+|Composition|Single unit|
+|Consumption, W|21 ‑ 35|
+|Dimensions, ㎜|380 × 350 × 300|
+|[Interfaces](interface.md)|[МКО](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|50 000 (5.7) / 50 000 (5.7)|
+|Mass, ㎏|15.1|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.998|
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
-|Исполнение|Моноблок|
+|[Voltage](voltage.md), V|23 ‑ 32|
+|**【Specific】**|• • •|
 |Диапазон измерения лин. ускорения|± 98 ㎧²|
 |Диапазон измерения угл. скорости|± 30 °/с|
 |Количество|—|
@@ -43,33 +48,14 @@
 |Шумовая составляющая в выходной информации, не более|—|
 |<small> ・в канале акселерометров</small>| |
 |<small> ・в углоизмерительном канале</small>| |
-|**`Прочее`**| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.998|
-|Габариты, ⌀ × в, ㎜|380 × 350 × 300|
-|Interfaces|[МКО](mil_std_1553.md)|
-|Масса, кг, ≤|15.1|
-|[Voltage](voltage.md), V|от 23 до 32|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)|50 000 (5.7)|
-|[Lifetime](lifetime.md), h (y)|50 000 (5.7)|
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|от 21 до 35|
+| |[![](f/iu/i/ius_voa_pic1_thumb.jpg)](f/iu/i/ius_voa_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. Персона №1
-   1. Лотос №1
+   1. **Применяемость:**
+      - Персона №1
+      - Лотос №1
 
 
 

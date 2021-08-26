@@ -26,16 +26,15 @@
 |Режим готовности| |
 |Точность|1.0 ‑ 1.5° (3σ)|
 |Частота обновл., Гц| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|110 × 110 × 30|
-|Interfaces|4 дублированных аналоговых сигнала|
+|**【Etc.】**|• • •|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|Dimensions, ㎜|110 × 110 × 30|
+|[Interfaces](interface.md)|4 дублированных аналоговых сигнала|
 |Mass, ㎏|0.225 (203 ‑ 248) ㎏|
 |[Voltage](voltage.md), V| |
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|131 400 (15)|
+|[Lifetime](lifetime.md)/Resource, h(y)|131 400 (15)|
 |[Thermal range](tcs.md), ℃|от −80 до +120 ℃|
 |Consumption, W|0|
 

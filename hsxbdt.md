@@ -8,17 +8,23 @@
 > <small>**SAIT High‑speed X‑band Downlink Transmitter (HSXBDT)** — англоязычный термин, не имеющий аналога в русском языке. **Высокоскоростной радиопередатчик X-диапазона НПП Саит (HSXBDT)** — дословный перевод с английского на русский.</small>
 
 **SAIT High‑speed X‑band Downlink Transmitter (HSXBDT)** — радиопередатчик.  
-*Разработчик:* [НПП Саит](zz_sait_ltd.md). Разработано ранее 2016 года активное применение
+Разработчик [НПП Саит](zz_sait_ltd.md). Разработано ранее 2016 года, активное применение.
 
-| |
-|:--|
-|[![](f/comms/h/hsxbdt_pic1_thumb.jpg)](f/comms/h/hsxbdt_pic1.jpg)|
-
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(HSXBDT)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(HSXBDT)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|70|
+|Dimensions, ㎜|230 × 154 × 45|
+|[Interfaces](interface.md)|Customizable LVDS. Two ports with 4 pairs each (clock input/output, data, optional enable). RS-422 or [MIL-STD-1553](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|61 320 (7) / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|60 (6 000) при Al 1.5 g/㎝², ≥40 МэВ·cm²/мг|
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.9392|
+|[Thermal range](tcs.md), ℃|–20 ‑ +50, 2 датчика температуры|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|27 (23 ‑ 34)|
+|**【Specific】**|• • •|
 |Вид модуляции|QPSK, 8PSK, 16APSK и 32APSK|
 |Время непр. работы, ч| |
 |Вых. мощность, W|8|
@@ -27,32 +33,13 @@
 |Нестаб. частоты|±4 ppm|
 |[Скорость](битрейт.md), bit/s|до 520 Мб/с (CCSDS), до 880 Мб/с (DVB-S2)|
 |Структура сигнала| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.9392|
-|Габариты, Д×Ш×В, ㎜|230 × 154 × 45|
-|Interfaces|Customizable LVDS. Two ports with 4 pairs each (clock input/output, data, optional enable). RS-422 or [MIL-STD-1553](mil_std_1553.md)|
-|Mass, ㎏|1.8|
-|[Voltage](voltage.md), V|27 (23 ‑ 34)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|60 (6 000) при Al 1.5 g/㎝², ≥40 МэВ·cm²/мг|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|61 320 (7)|
-|[Thermal range](tcs.md), ℃|–20 ‑ +50, 2 датчика температуры|
-|Consumption, W|70|
+| |[![](f/comms/h/hsxbdt_pic1_thumb.jpg)](f/comms/h/hsxbdt_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. Аист‑2Д
+   1. **Применяемость:**
+      - Аист‑2Д
 
 
 

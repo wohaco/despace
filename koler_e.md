@@ -10,45 +10,32 @@
 **Колер‑Э** — инерциальное устройство ([двигатель‑маховик](iu.md)), предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
 *Разработчик:* [НИИКП](zz_niicom.md). Разработано в … году архивное изделие
 
-| |
-|:--|
-|[![](f/iu/k/koler_e_pic1_thumb.jpg)](f/iu/k/koler_e_pic1.png)|
-
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(Колер‑Э)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(Колер‑Э)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|66 (0.5 УДМ, 65 БЭ)|
+|Dimensions, ㎜|УДМ: ⌀315 × 72.5, БЭ: 338 × 280 × 230|
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|87 600 (10) / …|
+|Mass, ㎏|22.8 (4.6 УДМ, 13.6 БЭ)|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.967|
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Исполнение|2 УДМ, 1 БЭ|
 |Кинет. момент, Н·м·с| |
 |Макс. упр. момент, Н·м| |
 |Режим готовности| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.967|
-|Dimensions, L×W×H, mm|УДМ: ⌀315 × 72.5, БЭ: 338 × 280 × 230|
-|Interfaces| |
-|Mass, ㎏|22.8 (4.6 УДМ, 13.6 БЭ)|
-|[Voltage](voltage.md), V| |
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|87 600 (10)|
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|66 (0.5 УДМ, 65 БЭ)|
+| |[![](f/iu/k/koler_e_pic1_thumb.jpg)](f/iu/k/koler_e_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

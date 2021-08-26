@@ -8,8 +8,8 @@
 |*Phase*| | |*Design*| | | | |*Mass prod.:*| |
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |**[R&D phases](rnd.md)**|0 (pre‑A)|A|≈ B|≈ B|≈ C|≈ C/D|≈ E|…|F|
-|**[НИОКР](rnd.md)**|[НИР](rnd_0.md)|[АП](rnd_ap.md)|[ЭП](rnd_ep.md)|[ТП](rnd_tp.md)|[РКД (РРД)](rnd_rkd.md)|[Макеты, НЭО](rnd_neo.md)|[ЛИ](rnd_e.md)|ПСП → СП → ПЭ|Вывод|
-| |*[NIR](rnd_0.md)*|*[AP](rnd_ap.md)*|*[EP](rnd_ep.md)*|*[TP](rnd_tp.md)*|*[RKD (RRD)](rnd_rkd.md)*|*[Models, Tests](rnd_neo.md)*|*[LI](rnd_e.md)*|*PSP → SP → PE*|*Closeout*|
+|**[НИОКР](rnd.md)**|[НИР](rnd_0.md)|[АП](rnd_ap.md)|[ЭП](rnd_ep.md)|[ТП](rnd_tp.md)|[РКД (РРД)](rnd_rkd.md)|[Макеты, НЭО](test.md)|[ЛИ](rnd_e.md)|ПСП → СП → ПЭ|Вывод|
+| |*[NIR](rnd_0.md)*|*[AP](rnd_ap.md)*|*[EP](rnd_ep.md)*|*[TP](rnd_tp.md)*|*[RKD (RRD)](rnd_rkd.md)*|*[Models, Tests](test.md)*|*[LI](rnd_e.md)*|*PSP → SP → PE*|*Closeout*|
 
 > <small>**Технический проект (ТП)** — русскоязычный термин. **Phase B** — примерный англоязычный эквивалент.</small>
 
@@ -17,15 +17,14 @@
 
 **Phase B.** Preliminary design & technology completion. At the end of phase B the system requirements together with a statement of work are sent out requesting proposals from industry.
 
-   - **[УЗК](cml.md)** — от 7 до 8.
-   - **Входные данные:**
-      - [ТЗ на ОКР](tor.md)
-      - [контракт](contract.md)
-      - материалы [ЭП](rnd_ep.md)
-      - прочие [ИД](init_data.md) от Заказчика
-   - **Процесс** — [формирование](dont_panic.md#Словоблудие) материалов ТП.
-   - **Выходные данные** — ТП и СЧ ТП.
-   - **Итог** — присвоение литеры «Т».
+| | |
+|:--|:--|
+|**[УЗК](cml.md)**|От 7 до 8|
+|**Входные<br> данные**|・[ТЗ на ОКР](tor.md)<br> ・[контракт](contract.md)<br> ・материалы [ЭП](rnd_ep.md)<br> ・прочие [ИД](init_data.md) от Заказчика|
+|**Процесс**|[формирование](dont_panic.md#Словоблудие) материалов ТП|
+|**Выходные<br> данные**|ТП и СЧ ТП|
+|**Итог**|присвоение литеры «Т»|
+|**[НД](doc.md)**| |
 
 
 
@@ -61,7 +60,7 @@
 |:--|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [R&D](rnd.md) •··**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [Proposal](proposal.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](rnd_neo.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
+|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 
    1. Docs: …
    1. Notable interwikies — …

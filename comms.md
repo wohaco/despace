@@ -11,7 +11,7 @@
 
    - **Antenna-feeder system (AFS)** — see AFS.
    - **Antenna-feeder device (AFD)** — a set of technical means designed to receive & emit radio waves in a given direction.
-   - **Onboard radio complex (ORC)** — a set of technical means intended for the implementation of radio communications. Includes receiving & transmitting equipment and AFD.
+   - **Onboard radio complex (ORC)** — a set of technical means intended for the implementation of radio communications. Includes receiving & transmitting equipment & AFD.
 
 
 
@@ -21,7 +21,7 @@
 |:--|:--|:--|
 |**On Earth**|50|Green Bank Telescope (GBT), Latitude: 38.433°N, Longitude: 79.84°W, ESA|
 | |60|Sardinia Radio Telescope (SRT), Latitude: 39.493°N, Longitude: 9.245°E, ESA|
-|**In space**|200|Space, Venus and Mars (average)|
+|**In space**|200|Space, Venus & Mars (average)|
 | |300|Near the Earth (average)|
 | |400|Surface of Venus (average)|
 | |450|Space, min.|
@@ -30,7 +30,7 @@
 
 
 ## Varieties
-*Radio communication (DBK and AFS).* Included in the [spacecraft](sc.md).
+*Radio communication (DBK & AFS).* Included in the [spacecraft](sc.md).
 
 | |*Company*|*Transmitters/receivers (mass, ㎏)*|
 |:--|:--|:--|
@@ -47,7 +47,7 @@
 | | |
 |:--|:--|
 |**Australia**|…|
-|**Canada**|・[C-CORE](zz_c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[Calian AT](zz_calian_at.md) — frequency planning, sat resource management, satellite modulators<br> ・[MDA](zz_mda.md) — manufacturing & testing antennas & electronics<br> ・[Telesat](zz_telesat.md) — satellite communications & integration services, satellite operator|
+|**Canada**|・[C-CORE](zz_c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[Calian AT](zz_calian_at.md) — frequency planning, sat resource management, satellite modulators<br> ・[MDA](zz_mda.md) — manufacturing & testing antennas & electronics<br> ・[SpaceBridge Inc.](zz_spacebridge.md) — broadcast modems for GEO & NGSO satellite constellations<br> ・[Telesat](zz_telesat.md) — satellite communications & integration services, satellite operator|
 |**China**|…|
 |**Europe**|…|
 |**India**|…|
@@ -79,7 +79,7 @@ TMP:
 **Frequency reuse (FR)** — technique for using a specified range of frequencies more than once in the same radio system so that the total capacity of the system is increased without increasing its allocated bandwidth. Frequency reuse schemes require sufficient isolation among the signals that use the same frequencies so that mutual interference among them is controlled at an acceptable level. For satellites, frequency reuse can be achieved by using **orthogonal polarization** states for transmission and/or by using satellite antenna **(spot) beams** that serve separate, non-overlapping geographic regions.
 
 ![](f/comms/frequency_reuse.png)  
-*This image shows an example of frequency reuse in cellular networks (in this case 4 frequencies are used). The image is an idealised representation with perfectly hexagonal cells. Eight separate cells are shown packed one next to the other. The first cell on the top left uses frequency 1. The cells which are next to it then use frequency 2 and 3. Beyond those cells, another cell again uses frequency 1. This pattern with the same frequency never being reused by direct neighbours repeats across the diagram. The frequency reuse pattern shown is typical example for a digital cellular system (i.e. GSM). For earlier analog systems a higher reuse pattern (7 or greater) is more usual.*
+*This image shows an example of frequency reuse in cellular networks (in this case 4 frequencies are used). The image is an idealised representation with perfectly hexagonal cells. Eight separate cells are shown packed one next to the other. The first cell on the top left uses frequency 1. The cells which are next to it then use frequency 2 & 3. Beyond those cells, another cell again uses frequency 1. This pattern with the same frequency never being reused by direct neighbours repeats across the diagram. The frequency reuse pattern shown is typical example for a digital cellular system (i.e. GSM). For earlier analog systems a higher reuse pattern (7 or greater) is more usual.*
 
 
 

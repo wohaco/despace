@@ -23,16 +23,15 @@
 |Режим готовности| |
 |Точность| |
 |Частота обновл., Гц| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|93 × 33 × 54|
-|Interfaces| |
+|**【Etc.】**|• • •|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|Dimensions, ㎜|93 × 33 × 54|
+|[Interfaces](interface.md)| |
 |Mass, ㎏|0.4|
 |[Voltage](voltage.md), V|15|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |[Thermal range](tcs.md), ℃| |
 |Consumption, W|0.85|
 

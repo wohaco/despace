@@ -8,13 +8,23 @@
 > <small>**Sirius TCM** — англоязычный термин, не имеющий аналога в русском языке. **Сириус ТСМ** — дословный перевод с английского на русский.</small>
 
 **Sirius TCM** — постоянное запоминающее устройство (ПЗУ) на основе твердотельного накопителя для хранения цифровой информации.  
-*Разработчик:* [AAC CS](zz_aac_cs.md). Разработано ранее 2019 года активное применение
+Разработчик [AAC CS](zz_aac_cs.md). Разработано ранее 2019 года активное применение
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(Sirius TCM)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(Sirius TCM)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|1.3|
+|Dimensions, ㎜|96 × 91 × 18|
+|[Interfaces](interface.md)|2 SpaceWire 50 Mbps, 3 RS422 / RS485 UARTs, 2 RS485-only UARTs, 1 PSS Interface RS485 PPS input|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 43 800 (5)|
+|Mass, ㎏|0.134|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|300 (30 000)|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|−30 ‑ +60|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|4.5 ‑ 16|
+|**【Specific】**|• • •|
 |Алгоритмы сжатия| |
 |Алгоритмы шифр.| |
 |Входов| |
@@ -22,33 +32,13 @@
 |Исполнение| |
 |Скор., Мбит(Мбайт)/с| |
 |Циклов перезаписи| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Габариты, Д×Ш×В, ㎜|96 × 91 × 18|
-|Interfaces|2 SpaceWire 50 Mbps, 3 RS422 / RS485 UARTs, 2 RS485-only UARTs, 1 PSS Interface RS485 PPS input|
-|Mass, ㎏|0.134|
-|[Voltage](voltage.md), V|4.5 ‑ 16|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|300 (30 000)|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|НОО: 43 800 (5)|
-|[Thermal range](tcs.md), ℃|−30 ‑ +60|
-|Consumption, W|1.3|
 | |[![](f/ds/s/sirius_tcm_pic1_thumb.jpg)](f/ds/s/sirius_tcm_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

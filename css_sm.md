@@ -8,52 +8,39 @@
 > <small>**Coarse Sun Sensor (CSS)** — англоязычный термин, не имеющий аналога в русском языке. **Грубый солнечный датчик** — дословный перевод с английского на русский.</small>
 
 **Coarse Sun Sensor (CSS)** — солнечный датчик, предназначенный для: 1) построения постоянной солнечной ориентации (ПСО) после отделения от [РБ](lv.md); 2) построения и поддержания ПСО, где при работе [научной аппаратуры](oe.md) ПСО используется в качестве рабочей ориентации; 3) построения и поддержания ПСО в нештатных ситуациях (НШС), когда парирование НШС в режиме инерциальной ориентации невозможно.  
-*Разработчик:*[Space Micro](space_micro.md). Разработано в 1996 году. Активное применение
+Разработчик: [Space Micro](space_micro.md). Разработано в 1996 году. Активное применение.
 
-| |
-|:--|
-|[![](f/sensor/c/css_sm_pic1_thumb.jpg)](f/sensor/c/css_sm_pic1.jpg)|
-
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(CSS-01,02)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(CSS-01,02)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|0|
+|Dimensions, ㎜|12.7 × 23.8 × 9|
+|[Interfaces](interface.md)|0 ‑ 3.5 mA (typical) current sources on two flying leads: 50” (1.27m) in length, M22759/ 33-26, 26 AWG wire|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|0.02|
+|[Overload](vibration.md), Grms|14.1 gRMS вибрации, 60 g ударные|
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|−40 ‑ +93|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Диапазон °, ≥|120, круг|
 |Исполнение|моноблок|
 |Режим готовности| |
 |Точность|5°|
 |Частота обновл., Гц| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|12.7 × 23.8 × 9|
-|Interfaces|0 to 3.5 mA (typical) current sources on two flying leads: 50” (1.27m) in length, M22759/ 33-26, 26 AWG wire|
-|Mass, ㎏|0.02|
-|[Voltage](voltage.md), V| |
-|Overload, g|14.1 gRMS вибрации, 60 g ударные|
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|—|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃|−40 ‑ +93|
-|Consumption, W|0|
+| |[![](f/sensor/c/css_sm_pic1_thumb.jpg)](f/sensor/c/css_sm_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. ALEXIS
-   1. CHIPSat
-   1. HETE
-   1. MOST
-   1. STPSat-1
+   1. **Применяемость:**
+      - ALEXIS
+      - CHIPSat
+      - HETE
+      - MOST
+      - STPSat-1
 
 
 

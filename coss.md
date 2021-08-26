@@ -8,50 +8,36 @@
 > <small>**Cosine Sun Sensor (CoSS)** — англоязычный термин, не имеющий аналога в русском языке. **Косинусный солнечный датчик** — дословный перевод с английского на русский.</small>
 
 **Cosine Sun Sensor (CoSS)**, *косинусный солнечный датчик* — аналоговый солнечный датчик, предназначенный для: 1) построения постоянной солнечной ориентации (ПСО) после отделения от [РБ](lv.md); 2) построения и поддержания ПСО, где при работе [научной аппаратуры](oe.md) ПСО используется в качестве рабочей ориентации; 3) построения и поддержания ПСО в нештатных ситуациях (НШС), когда парирование НШС в режиме инерциальной ориентации невозможно.  
-*Разработчик:* [Bradford Engineering](zz_bradford_eng.md). Разработано  
+Разработчик [Bradford Engineering](zz_bradford_eng.md). Разработано  
 
-|CoSS|CoSS‑R|
-|:--|:--|
-|[![](f/sensor/c/coss_pic1_thumb.jpg)](f/sensor/c/coss_pic1.png)|[![](f/sensor/c/coss-r_pic1_thumb.jpg)](f/sensor/c/coss-r_pic1.png)|
-
-<small>
-
-|*Характеристика*|*[Значение](si.md)<br> (CoSS)*|*[Значение](si.md)<br> (CoSS‑R)*|
+|*Characteristics*|*[Value](si.md)<br> (CoSS)*|*[Значение](si.md)<br> (CoSS-R)*|
 |:--|:--|:--|
+|Composition| | |
+|Consumption, W|0 (пассивен)|0 (пассивен)|
+|Dimensions, ㎜|30 × 30 × 15|45 × 37 × 6|
+|[Interfaces](interface.md)| | |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|
+|Mass, ㎏|0.024 (без кабеля);<br> 0.05 (с кабелем 1.5 м)|0.017 (без кабеля)|
+|[Overload](vibration.md), Grms|2 000|2 600|
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| | |
+|[Thermal range](tcs.md), ℃|–50 ‑ +80 ℃|–55 ‑ +115 ℃|
+|[TRL](trl.md)| | |
+|[Voltage](voltage.md), V| | |
+|**【Specific】**|• • •|• • •|
 |Диапазон °, ≥|160 × 160|180 × 180|
-|Исполнение|Моноблок|Моноблок|
+|Исполнение|Single unit|Single unit|
 |Режим готовности| | |
 |Точность|3°|3°|
 |Частота обновл., Гц| | |
-|**Etc:**|• • •| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| | |
-|Dimensions, L×W×H, mm|30 × 30 × 15|45 × 37 × 6|
-|Interfaces| | |
-|Mass, ㎏|0.024 (без кабеля);<br> 0.05 (с кабелем 1.5 м)|0.017 (без кабеля)|
-|[Voltage](voltage.md), V| | |
-|Overload, g|2 000|2 600|
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
-|Resource, h (y)| | |
-|[Lifetime](lifetime.md), h (y)| | |
-|[Thermal range](tcs.md), ℃|от –50 до +80 ℃|от –55 до +115 ℃|
-|Consumption, W|0 (пассивен)|0 (пассивен)|
+| |[![](f/sensor/c/coss_pic1_thumb.jpg)](f/sensor/c/coss_pic1.png)|[![](f/sensor/c/coss-r_pic1_thumb.jpg)](f/sensor/c/coss-r_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-По состоянию на 2018.03.28 прибор CoSS применяется в составе:
-
-   1. Galileo
-   1. Globalstar
+   1. **Применяемость:**
+      - Galileo
+      - Globalstar
 
 
 

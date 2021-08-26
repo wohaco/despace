@@ -8,13 +8,23 @@
 > <small>**мБОКЗ‑2** — RU term w/o analogues in English. **mBOKZ‑2** — literal EN translation.</small>
 
 **мБОКЗ‑2** — звёздный датчик, предназначенный для определения ориентации [КА](sc.md) относительно звёздного неба.  
-*Разработчик:* [ИКИ РАН](zz_iki_ras.md), RU. Разработано в 2016 году. покупное изделие.
+Разработчик [ИКИ РАН](zz_iki_ras.md), RU. Разработано в 2016 году, покупное изделие.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(мБОКЗ-2)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (мБОКЗ-2)*|
 |:--|:--|
+|Composition| |
+|Consumption, W|5|
+|Dimensions, ㎜|БО 184 × 170 × 66<br> БЭ 200 × 135.5 × 126|
+|[Interfaces](interface.md)|[МКО](mil_std_1553.md) (МПИ) по ГОСТ Р 52070|
+|[Lifetime](lifetime.md)/Resource, h(y)|46 000 (5.25) / 46 000 (5.25) / …|
+|Mass, ㎏|1.5 *(1 БЭ, 2 БО)*|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.96 (5 лет), 0.98 (3 года), 0.991 (1 год)|
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|27 ± 5|
+|**【Specific】**|• • •|
 |Время опознавания, с|3|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|0.8 при начальной ориентации, 5 в режиме слежения|
@@ -26,33 +36,13 @@
 |Точность|3″ — по направлению оптической оси;<br> 20″ — вокруг направления оптической оси|
 |Частота обновл., Гц|4|
 |Яркость фона, ㏅/m²|… для света с солнечным спектром|
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.96 (5 лет), 0.98 (3 года), 0.991 (1 год)|
-|Dimensions, L×W×H, mm|БО 184 × 170 × 66<br> БЭ 200 × 135.5 × 126|
-|Interfaces|[МКО](mil_std_1553.md) (МПИ) по ГОСТ Р 52070|
-|Mass, ㎏|1.5 *(1 БЭ, 2 БО)*|
-|[Voltage](voltage.md), V|27 ± 5|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)|46 000 (5.25)|
-|[Lifetime](lifetime.md), h (y)|46 000 (5.25)|
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|5|
 | |[![](f/sensor/m/mbokz-2_01_thumb.jpg)](f/sensor/m/mbokz-2_01.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. КА Аист‑2Д (старт 2016.04.28, ДЗЗ, полярная ОИСЗ 500 км)
+   1. **Применяемость:**
+      - КА Аист‑2Д (старт 2016.04.28, ДЗЗ, полярная ОИСЗ 500 км)
 
 
 

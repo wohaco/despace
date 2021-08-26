@@ -8,13 +8,23 @@
 > <small>**Hydra** — англоязычный термин, не имеющий аналога в русском языке. **Гидра** — дословный перевод с английского на русский.</small>
 
 **Hydra** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Sodern](zz_sodern.md), EU. Разработано в 2012 году получен УГТ 9. Активное применение.
+Разработчик [Sodern](zz_sodern.md), EU. Разработано в 2012 году получен УГТ 9. Активное применение.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(Hydra / Hydra-M)</small>*|*[Значение](si.md) <small>(Hydra-TC)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (Hydra / Hydra-M)*|*[Value](si.md)<br> (Hydra-TC)*|
 |:--|:--|:--|
+|Composition| | |
+|Consumption, W|8|8|
+|Dimensions, ㎜|⌀147 × 283 ОБ, 170 × 146 × 103 БЭ|⌀147 × 283 ОБ, 194 × 166 × 159 БЭ|
+|[Interfaces](interface.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 87 600 (10)<br> ГСО: 157 680 (18)|НОО: 87 600 (10)<br> ГСО: 157 680 (18)|
+|Mass, ㎏|4.6 (2 ОБ по 1.4, 1 БЭ по 1.8)|6.7 (2 ОБ по 1.4, 1 БЭ по 3.9)|
+|[Overload](vibration.md), Grms|28 случайные, 2 000 ударные|30 случайные, 2 350 ударные|
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99968 (200 FIT)|0.99968 (200 FIT)|
+|[Thermal range](tcs.md), ℃|−30 ‑ +60|−30 ‑ +60|
 |[TRL](trl.md)| | |
+|[Voltage](voltage.md), V|… (21 ‑ 52)|… (21 ‑ 52)|
+|**【Specific】**|• • •|• • •|
 |Время опознавания, с|1.5|2.5|
 |Вых. информация| | |
 |Допуст. угл. скор., °/с|10|7|
@@ -26,42 +36,21 @@
 |Точность|2.1″|3.1″|
 |Частота обновл., Гц|16 ‑ 30|10 ‑ 30|
 |Яркость фона, ㏅/m²| | |
-|**Etc:**|• • •|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99968 (200 FIT)|0.99968 (200 FIT)|
-|Dimensions, L×W×H, mm|⌀147 × 283 ОБ, 170 × 146 × 103 БЭ|⌀147 × 283 ОБ, 194 × 166 × 159 БЭ|
-|Interfaces|RS-422, [MIL-STD-1553B](mil_std_1553.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|4.6 (2 ОБ по 1.4, 1 БЭ по 1.8)|6.7 (2 ОБ по 1.4, 1 БЭ по 3.9)|
-|[Voltage](voltage.md), V|… (21 ‑ 52)|… (21 ‑ 52)|
-|Overload, gRMS|28 случайные, 2 000 ударные|30 случайные, 2 350 ударные|
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
-|Resource, h (y)| | |
-|[Lifetime](lifetime.md), h (y)|НОО: 87 600 (10)<br> ГСО: 157 680 (18)|НОО: 87 600 (10)<br> ГСО: 157 680 (18)|
-|[Thermal range](tcs.md), ℃|−30 ‑ +60|−30 ‑ +60|
-|Consumption, W|8|8|
 | |[![](f/sensor/h/hydra_pic2_thumb.jpg)](f/sensor/h/hydra_pic2.jpg)| |
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
-Hydra is available in four different versions:
-
-   - **Hydra** baseline, suited to all missions, optimized for earth-observation and science missions.
-   - **Hydra-TC**, designed for hardened radiation env. Fully redundant EU version for 2 OH, GEO shielding.
-   - **Hydra-M**, cost-optimized. Light LEO version for 1 or 2 OH without Thermo-Electric Cooler.
-   - **Hydra-CP** (centralized), optimized for easy S/C accommodation. Software hosted into On-Board Computer.
+   1. Hydra is available in four different versions:
+      - **Hydra** baseline, suited to all missions, optimized for earth-observation and science missions.
+      - **Hydra-TC**, designed for hardened radiation env. Fully redundant EU version for 2 OH, GEO shielding.
+      - **Hydra-M**, cost-optimized. Light LEO version for 1 or 2 OH without Thermo-Electric Cooler.
+      - **Hydra-CP** (centralized), optimized for easy S/C accommodation. Software hosted into On-Board Computer.
+   1. **Применяемость:**
+      - …
 
 | |
 |:--|
 |[![](f/sensor/h/hydra_pic1_thumb.jpg)](f/sensor/h/hydra_pic1.jpg) [![](f/sensor/a/auriga_hydra_pic1_thumb.jpg)](f/sensor/a/auriga_hydra_pic1.jpg) и **[Видео ❐](f/sensor/h/hydra_logo_sodern.mkv)**|
-
-
-
-## Применяемость
-   1. …
 
 
 

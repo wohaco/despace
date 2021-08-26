@@ -5,8 +5,6 @@
 
 ---
 
-<p style="page-break-after:always"> </p>
-
 > <small>**Quality management (QM)** — EN term. **Управление качеством** — RU analogue.</small>
 
 **Quality management (QM)** ensures that an organization, product or service is consistent. It has four main components: **quality planning**, **quality assurance**, **quality control** & **quality improvement**. QM is focused not only on product & service quality, but also on the means to achieve it. QM, therefore, uses quality assurance & control of processes as well as products to achieve more consistent quality. What a customer wants & is willing to pay for it determines quality. It is a written or unwritten commitment to a known or unknown consumer in the market. Thus, quality can be defined as fitness for intended use or, in other words, how well the product performs its intended function.
@@ -44,7 +42,7 @@
 |[ЭП](rnd_ep.md)|ПОБ|Испол&shy;нитель|Испол&shy;нитель|Испол&shy;нитель| |
 |[ТП](rnd_tp.md)| | | | | |
 |[РКД](ркд.md)| | | | | |
-|[НЭО](rnd_neo.md)| | | | | |
+|[НЭО](test.md)| | | | | |
 |[ЛИ](rnd_e.md)| | | | | |
 
 
@@ -135,7 +133,7 @@ t — Lifetime (h)
 |[ЭП](rnd_ep.md)|ПОНр|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2., [ГОСТ 15.203](гост_15_203.md) т.А.2 п.7|
 |[ТП](rnd_tp.md)|ПОНр (коррек&shy;тировка)| | | |[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 |[РКД](ркд.md)|ПОНп| | | |[ГОСТ 20.39.302](гост_20_39_302.md) п.5.2|
-|[НЭО](rnd_neo.md)|ПОНэ (при необх.)| | | |[ГОСТ 20.39.302](гост_20_39_302.md) п.5.3|
+|[НЭО](test.md)|ПОНэ (при необх.)| | | |[ГОСТ 20.39.302](гост_20_39_302.md) п.5.3|
 |[ЛИ](rnd_e.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 
 **Оценка стоимости документа.**  
@@ -156,7 +154,7 @@ t — Lifetime (h)
 |[ЭП](rnd_ep.md)|ПОСТ|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2, [ГОСТ 15.203](гост_15_203.md) т.А.2 п.7|
 |[ТП](rnd_tp.md)|ПОСТ|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 |[РКД](ркд.md)|ПОСТ|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
-|[НЭО](rnd_neo.md)|ПОСТ|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
+|[НЭО](test.md)|ПОСТ|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 |[ЛИ](rnd_e.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 
 **Содержание.** В ПОН и ПОСТ должны быть определены:
@@ -205,7 +203,7 @@ t — Lifetime (h)
 |[ЭП](rnd_ep.md)|Расчёт надёжности| | | |Опыт работы с [ЦНИИмаш](zz_tsniimash.md)|
 |[ТП](rnd_tp.md)|Расчёт надёжности| | | |[ГОСТ 20.39.302](гост_20_39_302.md) п.6.3|
 |[РКД](ркд.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.6|
-|[НЭО](rnd_neo.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.6|
+|[НЭО](test.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.6|
 |[ЛИ](rnd_e.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.6|
 
 Формулы:

@@ -18,7 +18,6 @@
 
 |*Характеристика*|*Значение*|
 |:--|:--|
-|[TRL](trl.md)| |
 |Исполнение|2 блока:<br> Моноблок формирования телеметрического кадра (МФТК);<br> Блок измерения температуры (БИТ)|
 |Кол‑во входов информации|—|
 |<small> ・аналоговых генераторных милливольтового диапазона (термопар) и параметрических (термометров сопротивления)</small>|32|
@@ -32,16 +31,16 @@
 |Объём памяти, кбайт| |
 |Скорость, кбит/с|… — записи;<br> … — НП|
 |**`Прочее`**| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|91 × 91 × 29 БИТ;<br> 90 × 89 × 84 МФТК|
-|Interfaces|RS‑422;<br> [МКО](mil_std_1553.md)|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|Dimensions, ㎜|91 × 91 × 29 БИТ;<br> 90 × 89 × 84 МФТК|
+|[Interfaces](interface.md)|RS‑422;<br> [МКО](mil_std_1553.md)|
 |Mass, ㎏|0.35 БИТ;<br> 0.75 МФТК.<br> **Итого:** 1.1|
 |[Voltage](voltage.md), V|27 (23 ‑ 34)|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)| |
 |Consumption, W|11.6|
 
 </small>

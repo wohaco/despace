@@ -12,44 +12,44 @@
 Ниже приведены руководящие должности, которые назначаются на каждую космическую [ОКР](project.md), начиная с этапа [аванпроект](rnd_ap.md), но могут быть назначены [и раньше](rnd_0.md). Обычно входят в состав [рабочей группы](рабочая_группа.md). В общем указанные должности существуют в том или ином виде при разработке КА в любой стране.
 
    - **Главный конструктор проекта (ГК, ГКП)**, англ. **Chief Engineer** or **Project Manager** ─ технико‑руководительская должность по совместительству. ГКП осуществляет руководство разработкой и производства ОКР (СЧ) на всех этапах жизненного цикла, отвечает за увязку изделия в целом. ГКП является, как правило, техническим специалистом, и осуществляет руководство в паре с Руководителем проекта ─ менеджером. Должность ГКП является обычно формальной в связи с большими объёмами и небольшими сроками производства космической техники, в связи с чем должностные обязанности ГКП де‑факто выполняются группой технических специалистов.
-   - **Главный технолог (ГТ)** — лицо, организующее разработку и внедрение прогрессивных, экономически обоснованных, ресурсо‑ и природосберегающих технологических процессов и режимов производства выпускаемой предприятием продукции, выполнения работ (услуг), обеспечивающих повышение уровня технологической подготовки и технического перевооружения производства, сокращение расходов сырья, материалов, затрат труда, улучшение качества продукции, работ (услуг) и рост производительности труда.
+   - **Главный технолог (ГТ)** — организует разработку и внедрение прогрессивных, экономически обоснованных, ресурсо‑ и природосберегающих тех. процессов и режимов производства выпускаемой предприятием продукции, выполнения работ (услуг), обеспечивающих повышение уровня технологической подготовки и технического перевооружения производства, сокращение расходов сырья, материалов, затрат труда, улучшение качества продукции, работ (услуг) и рост производительности труда.
    - **Менеджер по качеству (МК)** отвечает за [качество](qm.md) проекта. Регламентируется <mark>TBD</mark>.
-   - **Руководитель проекта (РП)**, англ. **Program Manager** осуществляет организацию работ по ОКР и управление проектом. Регламентируется <mark>TBD</mark>. В том числе отвечает за:
-      1. разработку, корректировку и отслеживание выполнения плана работ по этапу;
-      1. выписывание и закрытие плановых листов;
-      1. закрытие этапа.
+   - **Руководитель проекта (РП)**, англ. **Program Manager** осуществляет организацию работ по ОКР и управление проектом. Регламентируется <mark>TBD</mark>. В т.ч. отвечает за:
+      1. разработку, корректировку и отслеживание выполнения плана работ по этапу
+      1. выписывание и закрытие плановых листов
+      1. закрытие этапа
 
 |*Term*|*EN*|*RU*|
 |:--|:--|:--|
 |**CAE**|Chief audit executive|Директор по внутреннему аудиту|
-|**CAO**|Chief administrative officer; Chief analytics officer|Директор по административным вопросам; Главный аналитик|
-|**CBO,<br> CBDO**|Chief business officer; Chief business development officer|Директор по развитию бизнеса|
-|**CCO**|Chief commercial officer; Chief compliance officer|Коммерческий директор; Директор по согласовательным и исполнительным процедурам|
+|**CAO**|Chief administrative officer・ Chief analytics officer|Директор по административным вопросам・ Главный аналитик|
+|**CBO,<br> CBDO**|Chief business officer・ Chief business development officer|Директор по развитию бизнеса|
+|**CCO**|Chief commercial officer・ Chief compliance officer|Коммерческий директор・ Директор по согласовательным и исполнительным процедурам|
 |**CDO**|Chief data officer|Директор по управлению данными компании|
-|**CEO**|Chief executive officer|Генеральный директор; Главное должностное лицо компании|
+|**CEO**|Chief executive officer|Генеральный директор・ Главное должностное лицо компании|
 |**CFO**|Chief financial officer|Финансовый директор (компании)|
 |**CFS**|Credit file supervisor|Старший кредитный инспектор|
 |**CHRO**|Chief human resources officer|Руководитель службы персонала|
 |**CIO**|Chief information officer|Директор по информационным технологиям|
 |**CKO**|Chief knowledge officer|Директор по управлению интеллектуальными ресурсами|
-|**CLO**|Chief legal officer|Главный юрисконсульт; Руководитель юридического подразделения|
+|**CLO**|Chief legal officer|Главный юрисконсульт・ Руководитель юридического подразделения|
 |**СМО**|Chief marketing officer|Директор по маркетингу|
-|**COO**|Chief operating officer|Главный инженер (на предприятии); Должностное лицо, отвечающее за текущую деятельность|
-|**CPA**|Certified public accountant|Дипломированный бухгалтер; Присяжный бухгалтер; Дипломированный бухгалтер‑аудитор|
+|**COO**|Chief operating officer|Главный инженер (на предприятии)・ Должностное лицо, отвечающее за текущую деятельность|
+|**CPA**|Certified public accountant|Дипломированный бухгалтер・ Присяжный бухгалтер・ Дипломированный бухгалтер‑аудитор|
 |**CPC**|Chief professional consultant|Главный специалист‑консультант|
-|**CPO**|Chief procurement officer; Chief product officer|Директор по закупкам или производству|
+|**CPO**|Chief procurement officer・ Chief product officer|Директор по закупкам или производству|
 |**CQO**|Chief quality officer|Директор по качеству продукции|
-|**CRO**|Сhief research officer|Директор по научным исследованиям; Научный руководитель|
-|**CRMO**|Chief risk management officer|Директор по управлению рисками; Главный риск‑менеджер|
+|**CRMO**|Chief risk management officer|Директор по управлению рисками・ Главный риск‑менеджер|
+|**CRO**|Сhief research officer|Директор по научным исследованиям・ Научный руководитель|
 |**CSA**|Chief software architect|Главный архитектор программного обеспечения|
-|**CSO**|Chief security officer|Директор по обеспечению безопасности; Начальник службы безопасности|
+|**CSO**|Chief security officer|Директор по обеспечению безопасности・ Начальник службы безопасности|
 |**CSPO**|Chief strategic planning officer|Директор по стратегическому развитию|
 |**CTL**|Country team leader|Заведующий территориальным отделом (в междунар. фин.орг‑циях)|
-|**CTO**|Chief technical officer|Главный инженер; Технический директор|
+|**CTO**|Chief technical officer|Главный инженер・ Технический директор|
 |**EAM**|External asset manager|Независимый (внешний) распорядитель активами|
 |**ED**|Executive director|Исполнительный директор|
-|**OFS**|Operations file supervisor|Администратор проектов; Кредитный инспектор|
-|**OL**|Operation leader|Руководитель группы по разработке проекта; Руководитель операции; Руководитель проекта; Руководитель проектной группы|
+|**OFS**|Operations file supervisor|Администратор проектов・ Кредитный инспектор|
+|**OL**|Operation leader|Руководитель группы по разработке проекта・ Руководитель операции・ Руководитель проекта・ Руководитель проектной группы|
 |**PM**|Program manager|Руководитель проекта|
 |**STL**|Sector team leader|Заведующий отраслевым отделом (в междунар. фин.орг‑циях)|
 |**SVP**|Senior vice president|Первый вице‑президент|
@@ -86,9 +86,9 @@ Table. Comparison of management.
 |:--|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Control](Control.md) •··**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](mbse.md)・ [Meeting](meeting.md)・ [MCC](mcc.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](mou.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent_res.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](skunk_works.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
-|**··• [R&D](rnd.md) •··**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [Proposal](proposal.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](rnd_neo.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
-|**··• [Systems engineering](se.md) •··**<br> [Competence](competence.md)・ [Coordinate system](coord_sys.md)・ [Designer’s supervision](des_spv.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [MBSE](mbse.md)・ [MML](mml.md)・ [Nav. & ballistics (NB)](nnb.md)・ [NASA SEH](nasa_seh.md)・ [Oberth effect](oberth_eff.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Skunk works](skunk_works.md)・ [SysML](sysml.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
+|**【[Control](Control.md)】**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](mbse.md)・ [Meeting](meeting.md)・ [MCC](mcc.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](mou.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent_res.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](skunk_works.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
+|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
+|**【[Systems engineering](se.md)】**<br> [Competence](competence.md)・ [Coordinate system](coord_sys.md)・ [Designer’s supervision](des_spv.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [MBSE](mbse.md)・ [MML](mml.md)・ [Nav. & ballistics (NB)](nnb.md)・ [NASA SEH](nasa_seh.md)・ [Oberth effect](oberth_eff.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Skunk works](skunk_works.md)・ [SysML](sysml.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
 
    1. Docs: …
    1. Notable interwikies — …

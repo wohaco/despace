@@ -10,10 +10,21 @@ BE-7 is an additively manufactured, high‑performance, dual-expander cycle engi
 
 Характеристики указаны для вакуума и номинальных условий работы в непрерывном режиме. Режим работы считать установившимся со 2‑й секунды подачи напряжения на электроклапаны.
 
-|*Характеристика*|*[Значение](si.md) <small>(BE-7)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (BE-7)*|
 |:--|:--|
+|Composition| |
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|3|
-|Габариты, длина × ⌀ среза сопла, ㎜| |
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Давление: вход в двигатель, ㎫ (kgf/㎝²)| |
 |Давление: камера сгорания, ㎫ (kgf/㎝²)| |
 |Давление: срез сопла, ㎫ (kgf/㎝²)| |
@@ -21,9 +32,7 @@ BE-7 is an additively manufactured, high‑performance, dual-expander cycle engi
 |[Res.impulse](ing.md), N·s (kgf·s), ≤| |
 |Макс. расход, ㎏/s, ≤| |
 |Макс. частота включений, Гц| |
-|Mass, ㎏, ≤| |
 |Массовое соотношение КРТ| |
-|Мощность потребляемая, W| |
 |Обороты ТНА| |
 |Продукты горения|H₂, H₂O|
 |Раствор пучка, °| |
@@ -32,7 +41,6 @@ BE-7 is an additively manufactured, high‑performance, dual-expander cycle engi
 |Ресурс: сумм. импульс, Н·с (кгс·с), ≥| |
 |Ресурс: сумм. тяга, Н (кгс), ≥| |
 |Ресурс: топливо, ㎏, ≥| |
-|[САС](lifetime.md) в космосе, ч (лет)| |
 |Температура: камера сгорания, 10³ К (℃)| |
 |Температура: срез сопла, 10³ К (℃)| |
 |[Топливо](fuel.md)|[Кислород + Водород](o_plus.md)|
@@ -40,7 +48,7 @@ BE-7 is an additively manufactured, high‑performance, dual-expander cycle engi
 |Тяга: отклонение, %| |
 |[УИ тяги](isp.md), Н·с/кг (с), ≥| |
 |Число Маха / [Показатель адиабаты](heat_cr.md)| |
-|Изображения|[![](f/ps/b/be7_pic1_thumb.jpg)](f/ps/b/be7_pic1.png)  [![](f/ps/b/be7_pic2_thumb.jpg)](f/ps/b/be7_pic2.jpg)|
+| |[![](f/ps/b/be7_pic1_thumb.jpg)](f/ps/b/be7_pic1.png)  [![](f/ps/b/be7_pic2_thumb.jpg)](f/ps/b/be7_pic2.jpg)|
 
 **Примечания:**
 

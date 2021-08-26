@@ -10,45 +10,32 @@
 **Агат‑5** — инерциальное устройство ([двигатель‑маховик](iu.md)), предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
 *Разработчик:* [НПЦ Полюс](zz_polus_tomsk.md). Разработано в 1995 году активное применение
 
-| |
-|:--|
-|[![](f/iu/a/agat_5_pic1_thumb.jpg)](f/iu/a/agat_5_pic1.jpg)|
-
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(Агат‑5)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(Агат‑5)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|80 постоянно, 175 макс.|
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / 100 000 (11.4)|
+|Mass, ㎏|87|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Исполнение|моноблок (1 УДМ, 1 БЭ)|
 |Кинет. момент, Н·м·с|100|
 |Макс. упр. момент, Н·м|0.125|
 |Режим готовности| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm| |
-|Interfaces| |
-|Mass, ㎏|87|
-|[Voltage](voltage.md), V| |
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)|100 000 (11.4)|
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|80 постоянно, 175 макс.|
+|[![](f/iu/a/agat_5_pic1_thumb.jpg)](f/iu/a/agat_5_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

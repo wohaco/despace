@@ -9,9 +9,10 @@
 
 **Запоминающее устройство (ЗУ)** ─ устройство, предназначенное для записи и хранения данных. Устройство, реализующее компьютерную память.
 
+**Технологии:**
 
-
-## Разновидности
+   - **[5D optical data storage](5dods.md)** (sometimes known as **Superman memory crystal**) is a nanostructured glass for permanently recording 5‑D digital data using femtosecond laser writing process. The memory crystal is capable of storing up to 360 TB worth of data for billions of years. The concept was experimentally demonstrated in 2013. As of 2018 the technology is in production use by the Arch Mission Foundation.
+   - <mark>TBD</mark>
 
 | |*[Фирма](contact.md)*|*Модели ЗУ (масса, ㎏)*|
 |:--|:--|:--|
@@ -38,14 +39,9 @@
 |**Russia**|…|
 |**Saudi Ar.**|…|
 |**Singapore**|…|
-|**USA**|…|
+|**USA**|・[DDC](zz_ddc.md)|
 |**UAE**|…|
 |**Vietnam**|…|
-
-**Технологии:**
-
-   - **[5D optical data storage](5dods.md)** (sometimes known as **Superman memory crystal**) is a nanostructured glass for permanently recording 5‑D digital data using femtosecond laser writing process. The memory crystal is capable of storing up to 360 TB worth of data for billions of years. The concept was experimentally demonstrated in 2013. As of 2018 the technology is in production use by the Arch Mission Foundation.
-   - <mark>TBD</mark>
 
 
 

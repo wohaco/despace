@@ -18,7 +18,6 @@
 
 |*Характеристика*|*Значение<br> (ПП)*|*Значение<br> (ЛК)*|
 |:--|:--|:--|
-|[TRL](trl.md)| | |
 |Исполнение|Сборная структура из моноблоков:<br> программируемого модуля (ПП);<br> локального коммутатора (ЛК).|Сборная структура из моноблоков:<br> программируемого модуля (ПП);<br> локального коммутатора (ЛК).|
 |Кол‑во разовых команд| | |
 |Объём памяти, кбайт|86 016 (84 Мбайт)|86 016 (84 Мбайт)|
@@ -31,17 +30,17 @@
 |<small> ・цифровых датчиков температуры</small>|16| |
 |<small> ・цифровых датчиков давления</small>| | |
 |<small> ・массивов цифровой информации</small>| | |
-|**Etc:**|• • •|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| | |
-|Dimensions, L×W×H, mm| | |
-|Interfaces|[МКО](mil_std_1553.md);<br> RS-232;<br> BS-4421|[МКО](mil_std_1553.md);<br> RS-232;<br> BS-4421|
+|**【Etc.】**|• • •|• • •|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| | |
+|Dimensions, ㎜| | |
+|[Interfaces](interface.md)|[МКО](mil_std_1553.md);<br> RS-232;<br> BS-4421|[МКО](mil_std_1553.md);<br> RS-232;<br> BS-4421|
 |Mass, ㎏|от 1.5 до 1.7|от 0.8 до 0.9|
 |[Voltage](voltage.md), V|27 (23 ‑ 34)|27 (23 ‑ 34)|
-|Overload, g| | |
+|[Overload](vibration.md), Grms| | |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
-|Resource, h (y)|25 000 (2.8)|25 000 (2.8)|
-|[Lifetime](lifetime.md), h (y)| | |
+|[Lifetime](lifetime.md)/Resource, h(y)| / 25 000 (2.8) | / 25 000 (2.8)|
 |[Thermal range](tcs.md), ℃|от –50 до +50 ℃|от –50 до +50 ℃|
+|[TRL](trl.md)| | |
 |Consumption, W|от 2.7 до 6.8|от 1.2 до 3.3|
 
 </small>

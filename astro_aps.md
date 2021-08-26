@@ -8,51 +8,41 @@
 > <small>**ASTRO APS** — англоязычный термин, не имеющий аналога в русском языке. **АСТРО АПС** — дословный перевод с английского на русский.</small>
 
 **ASTRO APS** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в 2013 году. Активное применение.
+Разработчик [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в 2013 году. Активное применение.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(ASTRO APS)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(ASTRO APS)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|6 (+6 с охладителем)|
+|Dimensions, ㎜|154 × 154 × 237|
+|[Interfaces](interface.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 157 680 (18) / …|
+|Mass, ㎏|2|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|для 25 лет на ГСО|
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99927 (460 [FIT](qm.md))|
+|[Thermal range](tcs.md), ℃|−30 ‑ +60|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|28|
+|**【Specific】**|• • •|
 |Время опознавания, с|10|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|5|
 |Запаздывание, с, ≤| |
-|Исполнение|Моноблок|
+|Исполнение|Single unit|
 |Объектив|1024 × 1024|
 |Поле зрения, °|20|
 |Режим готовности| |
 |Точность|8″|
 |Частота обновл., Гц|16|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99927 (460 [FIT](qm.md))|
-|Dimensions, L×W×H, mm|154 × 154 × 237|
-|Interfaces|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|2|
-|[Voltage](voltage.md), V|28|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|для 25 лет на ГСО|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|НОО: 157 680 (18)|
-|[Thermal range](tcs.md), ℃|−30 ‑ +60|
-|Consumption, W|6 (+6 с охладителем)|
 | |[![](f/sensor/a/astro_aps_pic1_thumb.jpg)](f/здa/astro_aps_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

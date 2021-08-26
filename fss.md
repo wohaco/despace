@@ -8,52 +8,37 @@
 > <small>**Fine Sun Sensor (FSS)** — англоязычный термин, не имеющий аналога в русском языке. **Точный солнечный датчик** — дословный перевод с английского на русский.</small>
 
 **Fine Sun Sensor (FSS)** — аналоговый солнечный датчик, предназначенный для: 1) построения постоянной солнечной ориентации (ПСО) после отделения от [РБ](lv.md); 2) построения и поддержания ПСО, где при работе [научной аппаратуры](oe.md) ПСО используется в качестве рабочей ориентации; 3) построения и поддержания ПСО в нештатных ситуациях (НШС), когда парирование НШС в режиме инерциальной ориентации невозможно.  
-*Разработчик:* [Bradford Engineering](zz_bradford_eng.md). Разработано в 2005 году Активное использование. Покупное изделие. (на 2018.03.28)
+Разработчик [Bradford Engineering](zz_bradford_eng.md). Разработано в 2005 году Активное использование. Покупное изделие. (на 2018.03.28)
 
-| |
-|:--|:--|
-|[![](f/sensor/f/fss_fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_fss_mini_pic1.jpg)|
-
-<small>
-
-|*Характеристика*|*[Значение](si.md)<br> (FSS)*|*[Значение](si.md)<br> (Mini FSS)*|
+|*Characteristics*|*[Value](si.md)<br> (FSS)*|*[Значение](si.md)<br> (Mini FSS)*|
 |:--|:--|:--|
+|Composition| | |
+|Consumption, W|0.25|0 (пассивный)|
+|Dimensions, ㎜|108 × 108 × 53|50 × 46 × 17|
+|[Interfaces](interface.md)| | |
+|[Lifetime](lifetime.md)/Resource, h(y)|43 800 (5) / …|43 800 (5) / …|
+|Mass, ㎏|0.375|0.05|
+|[Overload](vibration.md), Grms| | |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|100 (10 000)|100 (10 000)|
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.997|0.997|
+|[Thermal range](tcs.md), ℃|–50 ‑ +85 ℃|–50 ‑ +85 ℃|
 |[TRL](trl.md)| | |
+|[Voltage](voltage.md), V|± 15| |
+|**【Specific】**|• • •|• • •|
 |Диапазон °, ≥|128 × 128|128 × 128|
-|Исполнение|Моноблок|Моноблок|
+|Исполнение|Single unit|Single unit|
 |Режим готовности| | |
 |Точность|0.3° (3σ)|от 0.2 до 1.5° (3σ)|
 |Частота обновл., Гц| | |
-|**Etc:**|• • •|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.997|0.997|
-|Dimensions, L×W×H, mm|108 × 108 × 53|50 × 46 × 17|
-|Interfaces| | |
-|Mass, ㎏|0.375|0.05|
-|[Voltage](voltage.md), V|± 15| |
-|Overload, g| | |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|100 (10 000)|100 (10 000)|
-|Resource, h (y)| | |
-|[Lifetime](lifetime.md), h (y)|43 800 (5)|43 800 (5)|
-|[Thermal range](tcs.md), ℃|от –50 до +85 ℃|от –50 до +85 ℃|
-|Consumption, W|0.25|0 (пассивный)|
 | |[![](f/sensor/f/fss_pic1_thumb.jpg)](f/sensor/f/fss_pic1.jpg)|[![](f/sensor/f/fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_mini_pic1.jpg)|
+| |[![](f/sensor/f/fss_fss_mini_pic1_thumb.jpg)](f/sensor/f/fss_fss_mini_pic1.jpg)| |
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-По состоянию на 2018.03.28 прибор FSS применяется в составе:
-
-   1. Galileo
-   1. Globalstar
+   1. **Применяемость:**
+      - Galileo
+      - Globalstar
 
 
 

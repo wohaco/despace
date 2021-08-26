@@ -8,13 +8,25 @@
 > <small>**HE-5AS** — англоязычный термин, не имеющий аналога в русском языке. **HE-5AS** — дословный перевод с английского на русский.</small>
 
 **HE-5AS** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Terma A/S](zz_terma.md), EU. Разработано в (ранее 2000) году. Активное применение.
+Разработчик [Terma A/S](zz_terma.md), EU. Разработано в (ранее 2000) году. Активное применение.
 
 <small>
 
-|*•    Характеристика    •*|*[Значение](si.md) <small>(HE-5AS)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(HE-5AS)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|1.5 ОБ, 5.5 БЭ|
+|Dimensions, ㎜|⌀120 × 33 ОБ, 245 × 165 × 29|
+|[Interfaces](interface.md)|[LVDS](lvds.md), [RS-422](rs_xxx.md), [MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|2.2 (1.0 ОБ, 1.2 БЭ)|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|1 000 (100 000)|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|−40 ‑ +70|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|… (22 ‑ 34)|
+|**【Specific】**|• • •|
 |Время опознавания, с|3 ‑ 10|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|2|
@@ -26,33 +38,13 @@
 |Точность|5″|
 |Частота обновл., Гц|4|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|⌀120 × 33 ОБ, 245 × 165 × 29|
-|Interfaces|[LVDS](lvds.md), [RS-422](rs_xxx.md), [MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|2.2 (1.0 ОБ, 1.2 БЭ)|
-|[Voltage](voltage.md), V|(22 ‑ 34)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|1 000 (100 000)|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃|−40 ‑ +70|
-|Consumption, W|1.5 ОБ, 5.5 БЭ|
 | |[![](f/sensor/h/he_5as_pic1_thumb.jpg)](f/sensor/h/he_5as_pic1.jpg) [![](f/sensor/h/he_5as_pic2_thumb.jpg)](f/sensor/h/he_5as_pic2.jpg) [![](f/sensor/h/he_5as_pic3_thumb.jpg)](f/sensor/h/he_5as_pic3.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

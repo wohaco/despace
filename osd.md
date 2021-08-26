@@ -31,16 +31,15 @@
 |Режим готовности|60 с после подачи питания|
 |Точность|при скорости до 0.1 °/с — 3”, при скорости до 1.0 °/с — 5”|
 |Частота обновл., Гц|4|
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|120 × 112 × 73|
-|Interfaces|[МКО](mil_std_1553.md)|
+|**【Etc.】**|• • •|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|Dimensions, ㎜|120 × 112 × 73|
+|[Interfaces](interface.md)|[МКО](mil_std_1553.md)|
 |Масса, не более|0.65|
 |[Voltage](voltage.md), V| |
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)|20 000 (2.28)|
-|[Lifetime](lifetime.md), h (y)|131 400 (15)|
+|[Lifetime](lifetime.md)/Resource, h(y)|131 400 (15) / 20 000 (2.28)|
 |[Thermal range](tcs.md), ℃| |
 |Consumption, W|2.5|
 

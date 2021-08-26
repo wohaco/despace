@@ -8,15 +8,25 @@
 > <small>**Auriga** — англоязычный термин, не имеющий аналога в русском языке. **Аурига** — дословный перевод с английского на русский.</small>
 
 **Auriga** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Sodern](zz_sodern.md), EU. Разработано в 2017 году. Активное применение.
-
-<small>
+Разработчик [Sodern](zz_sodern.md), EU. Разработано в 2017 году. Активное применение.
 
 Итоговый ЗД создаётся из нужных оптических блоков и БЭ.
 
-|*•    Характеристика    •*|*[Значение](si.md) <small>(Auriga, ОБ)</small>*|*[Значение](si.md) <small>(Auriga, БЭ)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (Auriga, ОБ)*|*[Значение](si.md)<br> (Auriga, БЭ)*|
 |:--|:--|:--|
+|Composition| | |
+|Consumption, W|1| |
+|Dimensions, ㎜|56 × 66 × 94|120 × 90 × 22|
+|[Interfaces](interface.md)|SpaceWire| |
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 61 320 (7) / …|… / …|
+|Mass, ㎏|0.21|0.35|
+|[Overload](vibration.md), Grms| | |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99386 (< 1 000 FIT)| |
+|[Thermal range](tcs.md), ℃|−30 ‑ +60| |
 |[TRL](trl.md)| | |
+|[Voltage](voltage.md), V|5| |
+|**【Specific】**|• • •|• • •|
 |Время опознавания, с|11| |
 |Вых. информация| | |
 |Допуст. угл. скор., °/с|3| |
@@ -28,33 +38,13 @@
 |Точность|11″| |
 |Частота обновл., Гц|5| |
 |Яркость фона, ㏅/m²| | |
-|**Etc:**|• • •|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99386 (< 1 000 FIT)| |
-|Dimensions, L×W×H, mm|56 × 66 × 94|120 × 90 × 22|
-|Interfaces|SpaceWire| |
-|Mass, ㎏|0.21|0.35|
-|[Voltage](voltage.md), V|5| |
-|Overload, g| | |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
-|Resource, h (y)| | |
-|[Lifetime](lifetime.md), h (y)|НОО: 61 320 (7)| |
-|[Thermal range](tcs.md), ℃|−30 ‑ +60| |
-|Consumption, W|1| |
 | |[![](f/sensor/a/auriga_pic2_thumb.jpg)](f/sensor/a/auriga_pic2.jpg)|[![](f/sensor/a/auriga_pic1_thumb.jpg)](f/sensor/a/auriga_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
-[![](f/sensor/a/auriga_hydra_pic1_thumb.jpg)](f/sensor/a/auriga_hydra_pic1.jpg) и **[Видео ❐](f/sensor/a/auriga_logo_sodern.mkv)**
-
-
-
-## Применяемость
-   1. …
+   1. [![](f/sensor/a/auriga_hydra_pic1_thumb.jpg)](f/sensor/a/auriga_hydra_pic1.jpg) и **[Видео ❐](f/sensor/a/auriga_logo_sodern.mkv)**
+   1. **Применяемость:**
+      - …
 
 
 

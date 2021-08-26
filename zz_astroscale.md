@@ -6,7 +6,7 @@
 |**Mission**|Develop innovative technologies, advance business cases, & inform international policies that reduce orbital debris & support long‑term, sustainable use of space.|
 |**Vision**|Secure safe & sustainable development of space for the benefit of future generations.|
 |**Values**|…|
-|**Business**|…|
+|**Business**|[Space debris removal, sat life extension services, end‑of‑life services](project.md)|
 |**[MGMT](mgmt.md)**|・Founder & CEO — Nobu Okada<br> ・Group COO & Director, Japan — Chris Blackerby<br> ・Chief Commercial Officer & Director, UK — John Auburn<br> ・Chief Financial Officer — Atsuyuki Uenaka<br> ・Chief Information Officer — Ai Makino<br> ・President & Managing Director, Astroscale U.S. Inc. — Ron Lopez<br> ・Chief Engineer — Gene Fujii<br> ・Chief Technology Officer — Mike Lindsay<br> ・General Manager, Japan — Miki Ito|
 
 **Astroscale** is the 1st private company with a mission to secure long‑term spaceflight safety & orbital sustainability for the benefit of future generations. Founded in 2013, Astroscale is developing innovative & scalable solutions across the spectrum of on-orbit servicing missions, including Life Extension, In-situ Space Situational Awareness, End of Life services, & Active Debris Removal, to create sustainable space systems & mitigate the growing & hazardous buildup of debris in space. Astroscale is also defining business cases & working with government & commercial stakeholders to develop norms, regulations, & incentives for the responsible use of space.

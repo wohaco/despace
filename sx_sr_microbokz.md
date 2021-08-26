@@ -6,13 +6,23 @@
 ---
 
 **SX‑SR‑MICRO_BOKZ** — звёздный датчик, предназначенный для определения ориентации [КА](sc.md) относительно звёздного неба.  
-*Разработчик:* [Спутникс](zz_sputnix.md), RU. Разработано  
+Разработчик [Спутникс](zz_sputnix.md), RU. Разработано  
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(SX-SR-MicroBOKZ)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(SX-SR-MicroBOKZ)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|1 ‑ 2|
+|Dimensions, ㎜|120 × 112 × 148|
+|[Interfaces](interface.md)|[RS-422](rs_xxx.md), [CAN2B](can.md), [SpaceWire](spacewire.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|0.5|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|–40 ‑ +80 ℃|
 |[TRL](trl.md)|2|
+|[Voltage](voltage.md), V|5 ± 0.3|
+|**【Specific】**|• • •|
 |Время опознавания, с|от 3 до 30|
 |Вых. информация|кватернион ориентации и угловая скорость|
 |Допуст. угл. скор., °/с|0.5 ‑ 3 <sup>(режим определения начальной ориентации)</sup>;<br> 1 ‑ 6 <sup>(режим слежения)</sup>|
@@ -24,33 +34,13 @@
 |Точность|1″ <sup>(СКО ошибка определения направления оптической оси)</sup>;<br> 6″ <sup>(СКО определения угла разворота вокруг оптической оси)</sup>|
 |Частота обновл., Гц|от 1 до 10|
 |Яркость фона, ㏅/m²|… для света с солнечным спектром|
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|120 × 112 × 148|
-|Interfaces|[RS-422](rs_xxx.md), [CAN2B](can.md), [SpaceWire](spacewire.md)|
-|Mass, ㎏|0.5|
-|[Voltage](voltage.md), V|5 ± 0.3|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃|от –40 до +80 ℃|
-|Consumption, W|от 1 до 2|
 | |[![](f/sensor/s/sx-sr-micro_bokz_pic1_thumb.jpg)](f/sensor/s/sx-sr-micro_bokz_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

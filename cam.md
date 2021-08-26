@@ -50,7 +50,6 @@
 
 |*•  Характеристика  •*|*[Значение](si.md) <small>(ВТК-10)</small>*|*[Значение](si.md) <small>(ВТК-50)</small>*|
 |:--|:--|:--|
-|[TRL](trl.md)|6|6|
 |Исполнение| | |
 |Объектив|КМОП-матрица|КМОП-матрица|
 |Поле зрения, °|17 × 9.6|76 × 47.45|
@@ -58,17 +57,17 @@
 |Режимы съёмки| | |
 |Частота, кадр/с|10 ‑ 25|10 ‑ 25|
 |Яркость фона, ㏅/m²| | |
-|**Etc:**|• • •|• • •|
+|**【Etc.】**|• • •|• • •|
 |Consumption, W|5|5|
 |Dimensions, ㎜|117 × 90 × 116|117 × 90 × 113|
-|Interfaces|HD-SDI|HD-SDI|
-|[Lifetime](lifetime.md), h (y)| | |
+|[Interfaces](interface.md)|HD-SDI|HD-SDI|
+|[Lifetime](lifetime.md)/Resource, h(y)| | |
 |Mass, ㎏|0.7|0.7|
-|Overload, g| | |
+|[Overload](vibration.md), Grms| | |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| | |
-|Resource, h (y)| | |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| | |
 |[Thermal range](tcs.md), ℃| | |
+|[TRL](trl.md)|6|6|
 |[Voltage](voltage.md), V|27|27|
 | |[![](f/cam/v/vtk_1050_pic1_thumb.jpg)](f/cam/v/vtk_1050_pic1.png)|[![](f/cam/v/vtk_1050_pic1_thumb.jpg)](f/cam/v/vtk_1050_pic1.png)|
 
@@ -99,15 +98,15 @@
 |Режимы съёмки|фотосъёмка|
 |Частота, кадр/с|0.3|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
+|**【Etc.】**|• • •|
 |Consumption, W|21|
 |Dimensions, ㎜|ОБ 285 × 340 × 166, БЭ 254 × 80 × 150|
-|Interfaces| |
-|[Lifetime](lifetime.md), h (y)|26 280 (3)|
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|26 280 (3)|
 |Mass, ㎏|8 (6 ОБ, 2 БЭ)|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)|200 (20 000)|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.96|
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.96|
 |Resource, h (y)|10 000 (1.14)|
 |[Thermal range](tcs.md), ℃|−20 ‑ +50|
 |[Voltage](voltage.md), V|27|
@@ -132,16 +131,15 @@
 |Режимы съёмки| |
 |Частота, кадр/с| |
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
+|**【Etc.】**|• • •|
 |Consumption, W|7|
 |Dimensions, ㎜| |
-|Interfaces|[MIL-STD-1553](mil_std_1553.md)|
-|[Lifetime](lifetime.md), h (y)| |
+|[Interfaces](interface.md)|[MIL-STD-1553](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |Mass, ㎏|2.5|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Resource, h (y)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[Voltage](voltage.md), V| |
 | | [![](f/cam/m/msu_50_pic1_thumb.jpg)](f/cam/m/msu_50_pic1.jpg) |
@@ -171,16 +169,15 @@
 |Режимы съёмки| |
 |Частота, кадр/с| |
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
+|**【Etc.】**|• • •|
 |Consumption, W|7|
 |Dimensions, ㎜| |
-|Interfaces|[MIL-STD-1553](mil_std_1553.md)|
-|[Lifetime](lifetime.md), h (y)| |
+|[Interfaces](interface.md)|[MIL-STD-1553](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |Mass, ㎏|3.2|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Resource, h (y)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[Voltage](voltage.md), V| |
 | | [![](f/cam/m/msu_100_pic1_thumb.jpg)](f/cam/m/msu_100_pic1.jpg) |
@@ -210,16 +207,15 @@
 |Режимы съёмки| |
 |Частота, кадр/с| |
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
+|**【Etc.】**|• • •|
 |Consumption, W|8|
 |Dimensions, ㎜| |
-|Interfaces| |
-|[Lifetime](lifetime.md), h (y)| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |Mass, ㎏|2.7|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Resource, h (y)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[Voltage](voltage.md), V| |
 | |[![](f/cam/t/tsnn_utk_pic1_thumb.jpg)](f/cam/t/tsnn_utk_pic1.jpg)|
@@ -249,16 +245,15 @@
 |Режимы съёмки| |
 |Частота, кадр/с| |
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
+|**【Etc.】**|• • •|
 |Consumption, W|8|
 |Dimensions, ㎜| |
-|Interfaces| |
-|[Lifetime](lifetime.md), h (y)| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |Mass, ㎏|1.7|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Resource, h (y)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[Voltage](voltage.md), V| |
 | |[![](f/cam/t/tsnn_shtk_pic1_thumb.jpg)](f/cam/t/tsnn_shtk_pic1.jpg)|
@@ -292,16 +287,15 @@
 |Режимы съёмки|Still Image Capture, 4K Video|
 |Частота, кадр/с|130|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
+|**【Etc.】**|• • •|
 |Consumption, W|60|
 |Dimensions, ㎜|165 × 178 × 153|
-|Interfaces|До 100 Гб/с: CAUI, CAN|
-|[Lifetime](lifetime.md), h (y)|НОО: 43 800 (5)|
+|[Interfaces](interface.md)|До 100 Гб/с: CAUI, CAN|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 43 800 (5)|
 |Mass, ㎏|1.75|
-|Overload, gRMS|10|
+|[Overload](vibration.md), Grms|10|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)|300 (30 000)|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.995, [NASA PSL](nasa_psl.md) Lv.1,2,3|
-|Resource, h (y)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.995, [NASA PSL](nasa_psl.md) Lv.1,2,3|
 |[Thermal range](tcs.md), ℃|−10 ‑ +50|
 |[Voltage](voltage.md), V|28 (22 ‑ 34)|
 | |[![](f/cam/nmb/4k_space_camera_pic1_thumb.jpg)](f/cam/nmb/4k_space_camera_pic1.jpg)|
@@ -332,16 +326,15 @@
 |Режимы съёмки|Still Image Capture|
 |Частота, кадр/с|100 (Rolling Shutter), 50 (Global Shutter)|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
+|**【Etc.】**|• • •|
 |Consumption, W|4|
 |Dimensions, ㎜|107 × 84 × 238|
-|Interfaces|SpaceWire 80 Mbps|
-|[Lifetime](lifetime.md), h (y)|ГСО: 87 600 (10)|
+|[Interfaces](interface.md)|SpaceWire 80 Mbps|
+|[Lifetime](lifetime.md)/Resource, h(y)|ГСО: 87 600 (10)|
 |Mass, ㎏|1|
-|Overload, gRMS|20|
+|[Overload](vibration.md), Grms|20|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)|300 (30 000)|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|[NASA PSL](nasa_psl.md) Lv.1,2,3|
-|Resource, h (y)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|[NASA PSL](nasa_psl.md) Lv.1,2,3|
 |[Thermal range](tcs.md), ℃|−20 ‑ +55|
 |[Voltage](voltage.md), V|5|
 | |[![](f/cam/nmb/5mp_space_camera_pic1_thumb.jpg)](f/cam/nmb/5mp_space_camera_pic1.jpg)|

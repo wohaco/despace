@@ -41,10 +41,11 @@ Usually includes:
          1. Pressurized container *(Гермоконтейнер)*
          1. Washer
       - Heat transfer device:
+         1. Fan
          1. Heat‑conductive structure
          1. [Heat pipes](hp.md)
          1. [Pump](pump.md)
-      - Thermal sensor
+      - [Thermal sensor](sensor.md)
 
 **Sources of a heat/cold energy:**
 

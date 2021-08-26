@@ -5,21 +5,18 @@
 
 ---
 
-<p style="page-break-after:always"> </p>
-
 > And these people forbid us to pick our noses!
 
    1. [ALPO](zz_alpo.md) — Association of Lunar & Planetary Observers
-   1. [CCSDS](ccsds.md) — международный Консультативный Комитет по косм. системам передачи данных.
-   1. [IAF](zz_iaf.md) — International astronautical federation, Международная астронавтическая федерация.
+   1. [CCSDS](ccsds.md) — международный Консультативный Комитет по косм. системам передачи данных
+   1. [IAF](zz_iaf.md) — International astronautical federation, Международная астронавтическая федерация
    1. [Project Management Institute](project_management_institute.md)
-   1. [SEDS](zz_seds.md) — Students for the Exploration & Development of Space.
-   1. [Space Generation Advisory Council](zz_sgac.md) (SGAC) represent students & young space professionals to the United Nations, States, & space agencies.
+   1. [SEDS](zz_seds.md) — Students for the Exploration & Development of Space
+   1. [SGAC](zz_sgac.md) represent students & young space professionals to the United Nations, States, & space agencies
    1. [Synergy Moon](synergy_moon.md)
    1. [Болото](swamp.md)
    1. [Worldview in different countries](wwidc.md)
-
-For the person's info page see **[Persons](person.md)**.
+   1. For the person's info page see **[Persons](person.md)**
 
 |*Агентство*|*Бюджет, $ млн*|*Год*|*Примечание*|
 |:--|:--|:--|:--|
@@ -57,7 +54,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Myriota](zz_myriota.md)|·|·|·|·|·|IoT with nanosat constellation|
 |[Optus](zz_optus.md)|·|·|·|·|·|Mobile, telephony, internet, satellite, entertainment & biz network services|
 |[Saber Astronautics](zz_saber_an.md)|·|·|·|·|·|Model the interaction between SC telemetry & the space environment|
-|[SERC](zz_serc.md)|·|·|·|·|·|Removal of orbital debris|
+|[SERC](zz_serc.md)|·|·|·|·|·|Space debris removal|
 |[Southern Launch](zz_southern_launch.md)|·|·|·|·|·|Infrastructure/logistics support for (sub)orbital launches|
 |[Space Services AU](zz_space_services_au.md)|·|·|·|C|·|Modelling, simulation, system analysis|
 
@@ -113,6 +110,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Satcan](zz_satcan.md)   (ON)|N|·|·|C|·|Engineering & business consultancy for sat telecom & space tech sectors|
 |[SEDS Canada](zz_seds.md)   (ON)|N|·|P|·|·|(Student community) Promoting Exploration & Development of Space|
 |[Sinclair I/P](zz_sinclair_ip.md)   (ON)|·|·|·|R|·|Star trackers, reaction wheels, optical comms, software, training & expertise|
+|[SpaceBridge Inc.](zz_spacebridge.md)   (QC)|·|·|·|R|·|Satellite network equipment & services|
 |[SpaceRyde](zz_spaceryde.md)   (ON)|·|L|·|R|·|On‑schedule, dedicated launch for CubeSats using balloons|
 |[Space Concordia](zz_space_concordia.md)   (QC)|N|·|·|R|·|(Student community) CubeSats, small rockets, robots|
 |[Space Engine S.](zz_space_engs.md)   (AL)|·|·|·|R|·|SSTO propulsion, pumps, compressors, gear boxes, Permanent Magnet Motors|
@@ -125,7 +123,7 @@ For the person's info page see **[Persons](person.md)**.
 |[UTIAS](zz_utias.md)   (ON)|E|·|·|R|·|Research for space mechatronics, robotics, microsats, fluid dynamics|
 |[Wyvern Space](zz_wyvern.md)   (AB)|·|·|·|C|D|Providing commercial satellite imagery from small sats|
 |[Xiphos](zz_xiphos.md)   (QC)|·|·|·|R|·|CPUs (OBCs), Firmware & Software|
-|**・ Not space ・**|•|•|•|•|•|Avant Aerospace, CAE;<br> *Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)|
+|**・ Not space ・**|•|•|•|•|•|Avant Aerospace, CAE;<br> 【*Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#satellite-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)】|
 
 [![](f/con/map/canada_political_ru_thumb.jpg)](f/con/map/canada_political_ru.png)
 
@@ -167,7 +165,7 @@ For the person's info page see **[Persons](person.md)**.
 |[AvalonSpace](zz_avalonspace.md)   (UK)|·|L|·|·|·|Green & cost‑effective UK launches|
 |[B2Space](zz_b2space.md)   (UK)|·|·|·|·|·|Launch services (balloon & LV) for small‑micro sats|
 |[Bradford Eng.](zz_bradford_eng.md)   (NL)|·|·|·|·|·|[СУ](cs.md) КА: [ДМ](iu.md), [СД](sensor.md), смесители топлива|
-|[ClearSpace SA](zz_clearspace_sa.md)   (CH)|·|·|·|R|·|Space debris remova: technologies & services|
+|[ClearSpace SA](zz_clearspace_sa.md)   (CH)|·|·|·|R|·|Space debris removal: technologies & services|
 |[Cobham](cobham.md)   (UK)|·|·|·|·|·|СЧ КА, процессоры|
 |[CUNI](zz_cuni.md)   (CZ)|·|·|·|·|·|Карлов университет. Один из старейших университетов мира|
 |[Disrupt Space](zz_disrupt_space.md)   (DE)|N|·|P|·|·|Startup accelerator, entrepreneurship, & community|
@@ -179,7 +177,7 @@ For the person's info page see **[Persons](person.md)**.
 |[GAUSS Srl](zz_gauss_srl.md)   (IT)|E|·|·|R|·|Cubesats, GS operations, space debris observation|
 |[Hisdesat](zz_hisdesat.md)   (ES)|·|·|·|·|·|…|
 |[IA](ia.md)   (PT)|·|·|·|·|·|Instituto de Astrofísica e Ciências do Espaço|
-|[Iceye](iceye.md)   (FL)|·|·|·|·|·|Разработка и создание микроспутников и кубсатов|
+|[ICEYE](iceye.md)   (FL)|·|·|·|·|·|Разработка и создание микроспутников и кубсатов|
 |[InnovaSpace](zz_innovaspace.md)   (UK)|E|·|P|·|·|Promote/conduct R&D, education, innovations for humanity in space|
 |[Int. Space Univ.](zz_int_space_univ.md)   (FR)|E|·|·|·|·|Space education for a changing world|
 |[IRAP](zz_irap.md)   (FR)|·|·|·|·|·|Research Institute in Astrophysics & Planetology|
@@ -298,7 +296,7 @@ For the person's info page see **[Persons](person.md)**.
 |[ALE](zz_ale.md)   13|·|·|·|R|·|Space entertainment (sky canvas), data service, small sats|
 |[Astrocean](zz_astrocean.md)   13|·|L|·|·|·|Hybrid rocket sea launch, sub‑orbital & orbital rocket sea launch|
 |[Astroflash](zz_astroflash.md)   13|·|·|·|R|·|Small satellites|
-|[Astroscale](zz_astroscale.md)   13|·|·|·|R|·|Removal of orbital debris, sat life extension services, end‑of‑life services|
+|[Astroscale](zz_astroscale.md)   13|·|·|·|R|·|Space debris removal, sat life extension services, end‑of‑life services|
 |[Axelspace Corp.](zz_axelspace.md)   13|·|L|·|R|·|Ready‑to‑launch space solutions, micro‑satellite technology|
 |[Canon El. Space](zz_ce_space.md)   13|·|·|·|R|·|Small Earth satellites, their components|
 |[Euroconsult](zz_euroconsult.md)   13|·|·|·|C|·|Strategic, research, summits, training programs|
@@ -368,7 +366,7 @@ For the person's info page see **[Persons](person.md)**.
 |[TUPLS](zz_tupls.md)   13|E|·|·|·|·|Tokyo University of Pharmacy & Life Sciences|
 |[Warpspace Inc.](zz_warpspace.md)   8|·|·|·|R|·|Communication infrastructure for LEO sats; cubesats modules|
 |[Yspace LLC](zz_yspace.md)   8|E|·|·|C|·|VR|
-|**・ Not space ・**|•|•|•|•|·|Panasonic Avionics Corp.<br> *Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)|
+|**・ Not space ・**|•|•|•|•|·|Panasonic Avionics Corp.<br> 【*Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)】|
 
 [![](f/con/map/japan_political_thumb.png)](f/con/map/japan_political.png)
 
@@ -553,6 +551,7 @@ For the person's info page see **[Persons](person.md)**.
 |[Chicago Univ.](chicago_univ.md)|·|·|·|·|·|…|
 |[Collins A/S](zz_collins_aerospace.md)|·|·|·|·|·|…|
 |[Cornell Univ.](cornell_univ.md)|·|·|·|·|·|…|
+|[DDC](zz_ddc.md)|·|·|·|R|·|OBC, memory modules, microelectronics, radiation shielding|
 |[Deep Space Ecology](zz_deep_space_ecology.md)|·|·|·|R|·|Closed ecological systems, space farming|
 |[Draper lab](zz_draper_lab.md)|·|·|·|·|·|GNC, space systems, technology solutions|
 |[Dynetics](zz_dynetics.md)|·|·|·|·|·|…|
@@ -663,7 +662,7 @@ For the person's info page see **[Persons](person.md)**.
 |:--|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [](.md) •··**<br> <mark>NOCAT</mark>|
+|**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    1. Notable interwikies — [Skunk works](skunk_works.md)

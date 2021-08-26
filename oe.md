@@ -30,6 +30,28 @@
       1. Сейсмометр
       1. Спектрометр (ИК, УФ, Фурье и пр.)
 
+In common any onboard equipment can be basically described using the following table.
+
+|*Characteristics*|*Value*|
+|:--|:--|
+|Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
+|Consumption, W| 【TBD: typical, basic timeline, etc.】 |
+|Dimensions, ㎜| 【TBD: general dimensions, not volume】 |
+|Interfaces| 【TBD: connectors, mounting points, orientation】 |
+|Lifetime/Resource, h(y)| 【TBD: lifetime for total lifetime, resource for active state】 |
+|Mass, ㎏| 【TBD: mass of the unit(s) in space】 |
+|[Overload](vibration.md), Grms| 【TBD: acceptable loads & their direction】 |
+|Rad.resist, ㏉ (㎭)| 【TBD: total ionising dose】 |
+|Reliability per lifetime| 【TBD: a calculated/proven reliability】 |
+|Thermal range, ℃| 【TBD: for an active condition & for transportation】 |
+|TRL| 【TBD: current TRL】 |
+|Voltage, V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
+|**【Specific】**|• • •|
+|Specific req. #1| |
+|Specific req. #2| |
+|…| |
+| | 【TBD: photo, sketch, scheme, render, etc.】 |
+
 **Manufacturers**
 
 | | |

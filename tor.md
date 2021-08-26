@@ -78,6 +78,8 @@ Please note these are the common sections of a TOR template. They can be changed
 
 
 
+<p style="page-break-after:always"> </p>
+
 ## (RU) Описание
 
 В целом ТЗ на ОКР (СЧ ОКР) по [ГОСТ 15.102](гост_15_102.md) состоит из следующих разделов:
@@ -140,7 +142,7 @@ Please note these are the common sections of a TOR template. They can be changed
 |[ЭП](rnd_ep.md)|ТЗ на ОКР (СЧ ОКР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
 |[ТП](rnd_tp.md)|ТЗ на ОКР (СЧ ОКР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
 |[РКД](ркд.md)|ТЗ на ОКР (СЧ ОКР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
-|[Макеты, НЭО](rnd_neo.md)|ТЗ на ОКР (СЧ ОКР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
+|[Макеты, НЭО](test.md)|ТЗ на ОКР (СЧ ОКР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
 |[ЛИ](rnd_e.md)|ТЗ на ОКР (СЧ ОКР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
 
 
@@ -258,8 +260,6 @@ Please note these are the common sections of a TOR template. They can be changed
 
 
 <p style="page-break-after:always"> </p>
-
----
 
 ## Docs & links
 |Navigation|

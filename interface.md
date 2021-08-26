@@ -7,23 +7,15 @@
 
 > <small>**Interface** — EN term. **Интерфейс** — RU analogue.</small>
 
-An **interface** is a shared boundary across which two or more separate components exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, etc. Interfaces can provide both input & output, or just one of them. Spacecraft interfaces are combining [external factors](ef.md), budgets, rates, & include:
+An **interface** is a shared boundary across which two or more separate components exchange information. The exchange can be between software, computer hardware, peripheral devices, humans, etc. Interfaces can provide both input & output, or just one of them. In common environment, factors and requirements for space applications can be divided to following sections. These sections are intersected and divided mostly for the purpose for arrangement of documents, workflows and specialists. Spacecraft interfaces are combining [external factors](ef.md), budgets, rates, & include:
 
-| | |
+|*Section*|*Description*|
 |:--|:--|
-|**Overall:**|・Human‑system interfaces<br> ・[Reliability](qm.md)<br> ・[Risks](qm.md)<br> ・[Standards](doc.md)<br> ・Timeline of [tests](test.md) & [functioning](timeline.md)|
-|—|—|
-|**[Electrical &<br> electromagnetic](sps.md)<br> Environment:**|・[Electromagnetic interference (EMI), & Radio frequency interference](eni.md)<br> ・[Magnetic fields](mag_field.md)<br> ・Magnetic materials<br> ・Radiated emissions<br> ・Radiated suspectibility|
-|**Interfaces:**|・Commands & Data budgets<br> ・[Communications](comms.md)<br> ・[Connectors](cable.md)<br> ・Exchange & Testing protocols<br> ・Fields & Points of view<br> ・Metallization<br> ・[Power](sps.md) & Consumption timeline<br> ・[Voltage](voltage.md)|
-|—|—|
-|**[Mechanical](sgm.md)<br> Environment:**|・Acoustic<br> ・[Meteorites](aob.md), Dust, & Liquids<br> ・Quasi‑static loads<br> ・Random loads<br> ・[Shock events](vibration.md)<br> ・[Sine vibration](vibration.md)<br> ・Tensions|
-|**Interfaces:**<br> (incl. their<br> evolutions)|・Accuracy<br> ・[Connectors](cable.md)<br> ・Deployment & Moving parts<br> ・[Dimensions](draft_model.md)<br> ・Fields/Points of view<br> ・Hydraulic characteristics: location, evolution, connectors<br> ・Mass allocation & Center on mass<br> ・[Materials](sgm.md) & their [emission](mat_sublime.md)<br> ・Mounting points<br> ・Orientation<br> ・Oscillator circuit<br> ・Pressurization level|
-|—|—|
-|**[Radiation](ion_rad.md)/[CR](cr.md):<br> Environment:**|・Non‑ionising displacement damage dose (DDD)<br> ・Non‑ionising linear energy transfer (LET)<br> ・Total ionising dose (TID)|
-|**Interfaces:**|・Protection<br> ・Working/recovery time|
-|—|—|
-|**[Thermal](tcs.md):<br> Environment:**|・Atmosphere & its Temperature ranges & timeline<br> ・Solar & Surrounding bodies [thermal radiation, illumination](illum.md), & placement|
-|**Interfaces:**|・Heaters, covers & their mounting points, optical characteristics, radiators<br> ・Temperature ranges<br> ・Thermal emission<br> ・Thermal lines, Exchange spots, & Exchange protocols<br> ・Thermal resistance|
+|**General**|・Human‑system interfaces<br> ・[Reliability](qm.md)<br> ・[Risks](qm.md)<br> ・[Standards](doc.md)<br> ・Space & planetary contamination (incl. bringing life)<br> ・Timeline of [tests](test.md) & [functioning](timeline.md), CONOPS|
+|**[Electrical &<br> electro&shy;magnetic](sps.md)**|**Environment:**<br> ・[Electromagnetic interference (EMI), Discharges & Radio frequency interference](emi.md)<br> ・[Magnetic Fields & Materials](mag_field.md)<br> ・Radiated emissions<br> ・Radiated susceptibility<br>**Interfaces:**<br> ・Commands & Data budgets<br> ・[Communications](comms.md)<br> ・[Connectors](cable.md)<br> ・Exchange & Testing protocols<br> ・Fields & Points of view<br> ・Metallization<br> ・[Power](sps.md) & Consumption timeline<br> ・[Voltage](voltage.md)|
+|**[Mechanical](sgm.md)**|**Environment:**<br> ・Acoustic influence<br> ・Atmospheres (incl. obtained atmosphere)<br> ・Gravities<br> ・[Meteorites](aob.md), Dust, Liquids, Space debris<br> ・Overloads (incl. Quasi‑static loads, Random loads, [Shock events](vibration.md), [Sine vibration](vibration.md))<br> ・Tensions<br> ・Vacuum & quick‑changing outer pressure<br> **Interfaces:** (incl. their evolutions)<br> ・Accuracy<br> ・[Connectors](cable.md)<br> ・Deployment, Moving parts, Oscillator circuit<br> ・[Dimensions](draft_model.md)<br> ・Fields/Points of view<br> ・Hydraulic characteristics (incl. location, evolution, connectors)<br> ・Mass allocation, Center on mass<br> ・[Materials](sgm.md) & their [emission](mat_sublime.md)<br> ・Mounting points<br> ・Orientation<br> ・Pressurization level|
+|**[Radiation](ion_rad.md),<br> [Cosmic rays](cr.md)**|**Environment:**<br> ・Non‑ionising displacement damage dose (DDD)<br> ・Non‑ionising linear energy transfer (LET)<br> ・Total ionising dose (TID)<br> **Interfaces:**<br> ・Protection<br> ・Working/recovery time|
+|**[Thermal](tcs.md)**|**Environment:**<br> ・Atmosphere & its Temperature ranges & timeline<br> ・Solar & Surrounding bodies [thermal radiation, illumination](illum.md), & placement<br> ・Unstable & quick‑changing thermal environment<br> **Interfaces:**<br> ・Heaters, covers & their mounting points, optical characteristics, radiators<br> ・Temperature ranges<br> ・Thermal emission<br> ・Thermal lines, Exchange spots, & Exchange protocols<br> ・Thermal resistance|
 
 List of common documents:
 
@@ -106,8 +98,8 @@ Interface Requirements Document Outline (according to [NASA Systems Engineering 
 |:--|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Documents](doc.md) •··**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](draft_model.md)・ [СхО](draft_model.md)・ [СхПЗ](draft_model.md)・ [СхЧ](draft_model.md)・ [СхЭ](draft_model.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
-|**··• [Spacecraft (SC)](sc.md) •··**<br> [Cleanliness level](clean_lvl.md)・ [Communication SC](sc_comm.md)・ [Cubesat](sc.md)・ [FSS](sc_comm.md)・ [HTS](sc_comm.md)・ [Interface](interface.md)・ [Manned SC](sc.md)・ [Satellite](sc.md)・ [Sub-item](sui.md)・ [Typical forms](sc.md)|
+|**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](draft_model.md)・ [СхО](draft_model.md)・ [СхПЗ](draft_model.md)・ [СхЧ](draft_model.md)・ [СхЭ](draft_model.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
+|**【[Spacecraft (SC)](sc.md)】**<br> [Cleanliness level](clean_lvl.md)・ [Communication SC](sc_comm.md)・ [Cubesat](sc.md)・ [FSS](sc_comm.md)・ [HTS](sc_comm.md)・ [Interface](interface.md)・ [Manned SC](sc.md)・ [Satellite](sc.md)・ [Sub-item](sui.md)・ [Typical forms](sc.md)|
 
    1. Docs: …
    1. Notable interwikies — …

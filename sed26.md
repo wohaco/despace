@@ -8,13 +8,23 @@
 > <small>**SED26** — англоязычный термин, не имеющий аналога в русском языке. **СЭД26** — дословный перевод с английского на русский.</small>
 
 **SED26** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Sodern](zz_sodern.md), EU. Разработано в 1995 году. архивное изделие (вывод из эксплуатации в 2021 году).
+Разработчик [Sodern](zz_sodern.md), EU. Разработано в 1995 году. архивное изделие (вывод из эксплуатации в 2021 году).
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(SED26)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(SED26)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|7.5|
+|Dimensions, ㎜|160 × 170 × 290|
+|[Interfaces](interface.md)|[MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 157 680 (18) / …|
+|Mass, ㎏|3.3|
+|[Overload](vibration.md), Grms|25 случайные, 1 500 ударные|
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99605 ‑ 0.99866 (850 ‑ 2 500 [FIT](qm.md))|
+|[Thermal range](tcs.md), ℃|−30 ‑ +60|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|… (20 ‑ 50)|
+|**【Specific】**|• • •|
 |Время опознавания, с|3|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|20|
@@ -26,33 +36,13 @@
 |Точность|15″|
 |Частота обновл., Гц|10|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99605 ‑ 0.99866 (850 ‑ 2 500 FIT)|
-|Dimensions, L×W×H, mm|160 × 170 × 290|
-|Interfaces|[MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|3.3|
-|[Voltage](voltage.md), V|… (20 ‑ 50)|
-|Overload, gRMS|25 случайные, 1 500 ударные|
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[САС](lifetime.md) в космосе, ч (лет)|НОО: 157 680 (18)|
-|[Thermal range](tcs.md), ℃|−30 ‑ +60|
-|Consumption, W|7.5|
 | |[![](f/sensor/s/sed26_pic1_thumb.jpg)](f/sensor/s/sed26_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

@@ -8,52 +8,39 @@
 > <small>**Coarse Sun Sensor (CSS)** — англоязычный термин, не имеющий аналога в русском языке. **Грубый солнечный датчик** — дословный перевод с английского на русский.</small>
 
 **Coarse Sun Sensor (CSS)** — солнечный датчик, предназначенный для: 1) построения постоянной солнечной ориентации (ПСО) после отделения от [РБ](lv.md); 2) построения и поддержания ПСО, где при работе [научной аппаратуры](oe.md) ПСО используется в качестве рабочей ориентации; 3) построения и поддержания ПСО в нештатных ситуациях (НШС), когда парирование НШС в режиме инерциальной ориентации невозможно.  
-*Разработчик:*[Space Micro](space_micro.md). Разработано в 1996 году активное применение
+Разработчик: [Space Micro](space_micro.md). Разработано в 1996 году, активное применение.
 
-| |
-|:--|
-|[![](f/sensor/m/mss_sm_pic1_thumb.jpg)](f/sensor/m/mss_sm_pic1.jpg)|
-
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(MSS-01)</small>*|*[Значение](si.md) <small>(MSS-02)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (MSS-01)*|*[Значение](si.md)<br> (MSS-02)*|
 |:--|:--|:--|
+|Composition| | |
+|Consumption, W|0|0|
+|Dimensions, ㎜|34.9 × 19.1 × 24.3|34.9 × 19.1 × 10.3|
+|[Interfaces](interface.md)|Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire|Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|
+|Mass, ㎏|0.036|0.026|
+|[Overload](vibration.md), Grms|14.1 gRMS вибрации, 60 g ударные|14.1 gRMS вибрации, 60 g ударные|
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| | |
+|[Thermal range](tcs.md), ℃|−40 ‑ +93|−40 ‑ +93|
 |[TRL](trl.md)|9| |
+|[Voltage](voltage.md), V| | |
+|**【Specific】**|• • •|• • •|
 |Диапазон °, ≥|48, круг|120, круг|
 |Исполнение| | |
 |Режим готовности| | |
 |Точность|1°| |
 |Частота обновл., Гц| | |
-|**Etc:**|• • •|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| | |
-|Dimensions, L×W×H, mm|34.9 × 19.1 × 24.3|34.9 × 19.1 × 10.3|
-|Interfaces|Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire|Four 0 to 4.5mA (typical) current sources on five flying leads: 1.27 m in length, M22759/33-26, 26 AWG wire|
-|Mass, ㎏|0.036|0.026|
-|[Voltage](voltage.md), V| | |
-|Overload, g|14.1 gRMS вибрации, 60 g ударные|14.1 gRMS вибрации, 60 g ударные|
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|—|—|
-|Resource, h (y)| | |
-|[Lifetime](lifetime.md), h (y)| | |
-|[Thermal range](tcs.md), ℃|−40 ‑ +93|−40 ‑ +93|
-|Consumption, W|0|0|
 | |[![](f/sensor/m/mss_sm_pic2_thumb.jpg)](f/sensor/m/mss_sm_pic2.jpg)|[![](f/sensor/m/mss_sm_pic3_thumb.jpg)](f/sensor/m/mss_sm_pic3.jpg)|
+| |[![](f/sensor/m/mss_sm_pic1_thumb.jpg)](f/sensor/m/mss_sm_pic1.jpg)| |
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. ALEXIS
-   1. FASTSAT
-   1. HETE
-   1. TERRIERS
+   1. **Применяемость:**
+      - ALEXIS
+      - FASTSAT
+      - HETE
+      - TERRIERS
 
 
 

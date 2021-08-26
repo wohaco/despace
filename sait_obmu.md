@@ -10,11 +10,21 @@
 **SAIT On-board Memory Unit (OBMU)** — постоянное запоминающее устройство (ПЗУ) на основе твердотельного накопителя для хранения цифровой информации.  
 *Разработчик:* [НПП Саит](zz_sait_ltd.md). Разработано ранее 2013 года активное применение
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(OBMU)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(OBMU)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|12 чтение/запись, 0 в простое|
+|Dimensions, ㎜|292 × 264 × 27|
+|[Interfaces](interface.md)|LVDS. Four ports with 4 pairs each (primary data/clock, redundant data/clock, spare). [MIL-STD-1553](mil_std_1553.md)/CAN-2B (dual redundant buses). 2 RS-422 for external devices control|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / 61 320 (7)|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|60 (6 000) при Al 1.5 g/㎝², ≥40 МэВ·cm²/мг|
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.995|
+|[Thermal range](tcs.md), ℃|–20 ‑ +50|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|27 (22 ‑ 35)|
+|**【Specific】**|• • •|
 |Алгоритмы сжатия| |
 |Алгоритмы шифр.| |
 |Входов|4|
@@ -22,33 +32,13 @@
 |Исполнение|Моноблок|
 |Скор., Мбит(Мбайт)/с|1 228 (153.6) запись, 800 (100) чтение|
 |Циклов перезаписи| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.995|
-|Габариты, Д×Ш×В, ㎜|292 × 264 × 27|
-|Interfaces|LVDS. Four ports with 4 pairs each (primary data/clock, redundant data/clock, spare). [MIL-STD-1553](mil_std_1553.md)/CAN-2B (dual redundant buses). 2 RS-422 for external devices control|
-|Mass, ㎏|1.8|
-|[Voltage](voltage.md), V|27 (22 ‑ 35)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|60 (6 000) при Al 1.5 g/㎝², ≥40 МэВ·cm²/мг|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|61 320 (7)|
-|[Thermal range](tcs.md), ℃|–20 ‑ +50|
-|Consumption, W|12 чтение/запись, 0 в простое|
 | |[![](f/ds/s/sait_obmu_pic1_thumb.jpg)](f/ds/s/sait_obmu_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. Ресурс‑П
+   1. **Применяемость:**
+      - Ресурс‑П
 
 
 

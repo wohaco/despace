@@ -8,11 +8,20 @@
 **Solid State Recorder (SSR)** *(твердотельное записывающее устройство)* ─ постоянное запоминающее устройство (ПЗУ) на основе твердотельного накопителя для хранения цифровой информации.  
 *Разработчик:* [ADS](zz_ads.md). Разработано в 1990 году. Активное применение.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(SSR)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(SSR)</small>*|
 |:--|:--|
+|Consumption, W|10 ‑ 100|
+|Dimensions, ㎜|300 ‑ 600 × 250 × 250|
+|[Interfaces](interface.md)|SpaceWire, LVDS link, [МКО](mil_std_1553.md), Wizard Link, Channel Link, GigaLink, RS‑422 UART, Parallel|
+|[Lifetime](lifetime.md)/Resource, h(y)|[НОО](nnb.md): 131 400 (15) / …|
+|Mass, ㎏|8 ‑ 20|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|400 (40 000)|
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99 за 7 лет на орбите|
+|[Thermal range](tcs.md), ℃|−25 ‑ +60 при работе;<br> −40 ‑ +75 при простое|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Алгоритмы сжатия|JPEG, WAVELET, [CCSDS](ccsds.md) 122 BPE, BAQ, FFT BAQ, advanced BAQ|
 |Алгоритмы шифр.|TRIPLE‑DES, AES и пр. для передачи информации (до 600 Мбит/с)|
 |Входов| |
@@ -20,34 +29,14 @@
 |Исполнение| |
 |Скор., Мбит(Мбайт)/с|8 192 (1 024)|
 |Циклов перезаписи| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99 за 7 лет на орбите|
-|Габариты, Д×Ш×В, ㎜|300 ‑ 600 × 250 × 250|
-|Interfaces|SpaceWire, LVDS link, [МКО](mil_std_1553.md), Wizard Link, Channel Link, GigaLink, RS‑422 UART, Parallel|
-|Mass, ㎏|8 ‑ 20|
-|[Voltage](voltage.md), V| |
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|400 (40 000)|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|[НОО](nnb.md): 131 400 (15)|
-|[Thermal range](tcs.md), ℃|−25 ‑ +60 при работе;<br> −40 ‑ +75 при простое|
-|Consumption, W|10 ‑ 100|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
-Устройство имеет в своём составе микропроцессор со средствами управления и диагностики памяти в ЗУ.
-
-
-
-## Применяемость
-   1. [Chandrayaan-1](chandrayaan_1.md)
-   1. [Chang'E-1](chang_e_1.md)
-   1. [LRO](lunar_reconnaissance_orbiter.md)
+   1. Устройство имеет в своём составе микропроцессор со средствами управления и диагностики памяти в ЗУ.
+   1. **Применяемость:**
+      - [Chandrayaan-1](chandrayaan_1.md)
+      - [Chang'E-1](chang_e_1.md)
+      - [LRO](lunar_reconnaissance_orbiter.md)
 
 
 

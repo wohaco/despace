@@ -8,51 +8,43 @@
 > <small>**A-STR** — англоязычный термин, не имеющий аналога в русском языке. **A-STR** — дословный перевод с английского на русский.</small>
 
 **A-STR** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Leonardo](leonardo.md), EU. Разработано в 2001 году. Активное применение.
+Разработчик [Leonardo](leonardo.md), EU. Разработано в 2001 году. Активное применение.
 
 <small>
 
-|*•    Характеристика    •*|*[Значение](si.md) <small>(A-STR)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(A-STR)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|9 при 20 ℃, 13.5 при 60 ℃|
+|Dimensions, ㎜|195 × 175 × 291 с блендой 40°|
+|[Interfaces](interface.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|ГСО: 157 680 (18) / …|
+|Mass, ㎏|3.55 с блендой 40°|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99787 (1 346 [FIT](qm.md)) или 0.99619 (2 415 [FIT](qm.md))|
+|[Thermal range](tcs.md), ℃|−30 ‑ +60|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|… (20 ‑ 50)|
+|**【Specific】**|• • •|
 |Время опознавания, с|6|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|2|
 |Запаздывание, с, ≤| |
-|Исполнение|Моноблок (ОБ + БЭ)|
+|Исполнение|Single unit (ОБ + БЭ)|
 |Объектив|MPP CCD|
 |Поле зрения, °|16.4 × 16.4|
 |Режим готовности| |
 |Точность|63″ (0.1 °/с), 230″ (2 °/с)|
 |Частота обновл., Гц|10|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99787 (1 346 [FIT](qm.md)) или 0.99619 (2 415 [FIT](qm.md))|
-|Dimensions, L×W×H, mm|195 × 175 × 291 с блендой 40°|
-|Interfaces|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|3.55 с блендой 40°|
-|[Voltage](voltage.md), V|… (20 ‑ 50)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|ГСО: 157 680 (18)|
-|[Thermal range](tcs.md), ℃|−30 ‑ +60|
-|Consumption, W|9 при 20 ℃, 13.5 при 60 ℃|
 | |[![](f/sensor/a/a_str_pic1_thumb.jpg)](f/sensor/a/a_str_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

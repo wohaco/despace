@@ -8,13 +8,24 @@
 > <small>**Horus** — англоязычный термин, не имеющий аналога в русском языке. **Хорус** — дословный перевод с английского на русский.</small>
 
 **Horus** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Sodern](zz_sodern.md), EU. Разработано в 2019 году. разработка.
+Разработчик [Sodern](zz_sodern.md), EU. Разработано в 2019 году. Разработка.
 
-<small>
 
-|*•    Характеристика    •*|*[Значение](si.md) <small>(Horus)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(Horus)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W| |
+|Dimensions, ㎜|140 × 140 × 240|
+|[Interfaces](interface.md)|[MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 157 680 (18) / …|
+|Mass, ㎏|5|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|7|
+|[Voltage](voltage.md), V|20 ‑ 100|
+|**【Specific】**|• • •|
 |Время опознавания, с|10|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|2|
@@ -26,33 +37,13 @@
 |Точность|2″|
 |Частота обновл., Гц| |
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|140 × 140 × 240|
-|Interfaces|[MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|1.6|
-|[Voltage](voltage.md), V|20 ‑ 100|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|НОО: 157 680 (18)|
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|5|
 | |[![](f/sensor/h/horus_pic1_thumb.jpg)](f/sensor/h/horus_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

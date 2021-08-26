@@ -8,51 +8,41 @@
 > <small>**AA-STR** — англоязычный термин, не имеющий аналога в русском языке. **AA-STR** — дословный перевод с английского на русский.</small>
 
 **AA-STR** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Leonardo](leonardo.md), EU. Разработано в 2001 году. Активное применение.
+Разработчик [Leonardo](leonardo.md), EU. Разработано в 2001 году. Активное применение.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(AA-STR)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(AA-STR)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|6 при 20 ℃, 13 при 60 ℃|
+|Dimensions, ㎜|164 × 156 × 348 с блендой 25°|
+|[Interfaces](interface.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|ГСО: 157 680 (18) / …|
+|Mass, ㎏|2.6 с блендой 40°|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.99866 (850 [FIT](qm.md)) или 0.99692 (1 950 [FIT](qm.md))|
+|[Thermal range](tcs.md), ℃|−30 ‑ +60|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|… (20 ‑ 52) или  … (60 ‑ 110)|
+|**【Specific】**|• • •|
 |Время опознавания, с|9|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|2|
 |Запаздывание, с, ≤| |
-|Исполнение|Моноблок (ОБ + БЭ)|
+|Исполнение|Single unit (ОБ + БЭ)|
 |Объектив|HAS APS|
 |Поле зрения, °|20 × 20|
 |Режим готовности| |
 |Точность|50″ (0.1 °/с), 288″ (2 °/с)|
 |Частота обновл., Гц|10|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)|0.99866 (850 [FIT](qm.md)) или 0.99692 (1 950 [FIT](qm.md))|
-|Dimensions, L×W×H, mm|164 × 156 × 348 с блендой 25°|
-|Interfaces|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|2.6 с блендой 40°|
-|[Voltage](voltage.md), V|… (20 ‑ 52) или  … (60 ‑ 110)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|ГСО: 157 680 (18)|
-|[Thermal range](tcs.md), ℃|−30 ‑ +60|
-|Consumption, W|6 при 20 ℃, 13 при 60 ℃|
 | |[![](f/sensor/a/aa_str_pic1_thumb.jpg)](f/sensor/a/aa_str_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

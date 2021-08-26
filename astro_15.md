@@ -8,51 +8,41 @@
 > <small>**ASTRO 15** — англоязычный термин, не имеющий аналога в русском языке. **АСТРО 15** — дословный перевод с английского на русский.</small>
 
 **ASTRO 15** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в 2010 году. Активное применение.
+Разработчик [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в 2010 году. Активное применение.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(ASTRO 15)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(ASTRO 15)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|10 (+5 для охладителя)|
+|Dimensions, ㎜|⌀192 × 496 для бленды 30°, ⌀192 × 552 для бленды 25°|
+|[Interfaces](interface.md)|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|НОО: 131 400 (15) / …|
+|Mass, ㎏|4.5 для 15 лет на ГСО или 4.35 для 5 лет на НОО,<br> 1.5 для бленды 30°, 1.65 для бленды 25°|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|для 25 лет на ГСО|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|−30 ‑ +55|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|… (30 ‑ 52)|
+|**【Specific】**|• • •|
 |Время опознавания, с|10|
 |Вых. информация| |
 |Допуст. угл. скор., °/с|2|
 |Запаздывание, с, ≤| |
-|Исполнение|Моноблок|
+|Исполнение|Single unit|
 |Объектив|1024 × 1024|
 |Поле зрения, °|13.8 × 13.8 физическое, 13.25 × 13.25 эффективное|
 |Режим готовности| |
 |Точность|10″|
 |Частота обновл., Гц| |
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|⌀192 × 496 для бленды 30°, ⌀192 × 552 для бленды 25°|
-|Interfaces|RS-422, [MIL-STD-1553B](mil_std_1553.md)|
-|Mass, ㎏|4.5 для 15 лет на ГСО или 4.35 для 5 лет на НОО,<br> 1.5 для бленды 30°, 1.65 для бленды 25°|
-|[Voltage](voltage.md), V|… (30 ‑ 52)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|для 25 лет на ГСО|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|НОО: 131 400 (15)|
-|[Thermal range](tcs.md), ℃|−30 ‑ +55|
-|Consumption, W|10 (+5 для охладителя)|
 | |[![](f/sensor/a/astro_15_pic1_thumb.jpg)](f/здa/astro_15_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

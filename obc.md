@@ -16,6 +16,16 @@
    1. В [ИСС](zz_iss_r.md) ЦВМ состоит из 2 блоков: вычислительного блока (скажем, [БИВК-МР](bivk_mr.md)) и блока [ТМС](tms.md).
    1. Все разновидности компьютера относятся к [АПС](hns.md).
 
+Varieties:
+
+   - Central processing unit (CPU) — for general use, runs most of the code of the operating system and apps.
+   - Graphics processing unit (GPU) — handles graphics-related tasks, such as visualizing an app’s user interface and gaming.
+   - Image processing unit (ISP) — can be used to speed up common tasks done by image processing applications.
+   - Digital signal processor (DSP) — handles more mathematically intensive functions than a CPU, includes decompressing music files.
+   - Neural processing unit (NPU) — used in high-end smartphones to accelerate machine learning (A.I.) tasks, these include voice recognition and camera processing.
+   - Video encoder/decoder — handles the power-efficient conversion of video files and formats.
+   - Secure Enclave — encryption, authentication, and security.
+
 
 
 ## Разновидности
@@ -46,7 +56,7 @@
 |**Russia**|・[ИРЗ](zz_irz.md)<br> ・[ИСС](zz_iss_r.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・<http://www.spacemicro.com/products/digital-systems.html>|
 |**Saudi Ar.**|…|
 |**Singapore**|…|
-|**USA**|…|
+|**USA**|・[DDC](zz_ddc.md)|
 |**UAE**|…|
 |**Vietnam**|…|
 
@@ -59,7 +69,7 @@
 |:--|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**··• [Guidance, Navigation & Control (GNC)](gnc.md) •··**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](acup.md)・ [БКС](cable.md)・ [БУ](sp.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](aiad.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](spos.md)|
+|**【[Guidance, Navigation & Control (GNC)](gnc.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](acup.md)・ [БКС](cable.md)・ [БУ](sp.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](aiad.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](spos.md)|
 |**`Цифровая вычислительная машина (ЦВМ):`**<br> … <br>• • •<br> **РФ:** [МПК-003](mpk_003.md) (9)・ [БИВК-МР](bivk_mr.md) (8)・ [МАРС 4](mars_4.md) (8)・ [БИВК-Р](bivk_r.md) (7.1)・ [МАРС 7](mars_7.md) (6)・ [МПК-002](mpk2.md) (3.9)・ [ЦВМ-12](cvm_12.md) (2.2)・ [БКУ_SXPA](bku_sxpa.md) (0.35)・ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](cvm22.md) (2.1))*|
 
    1. Docs: …

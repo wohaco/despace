@@ -6,57 +6,37 @@
 ---
 
 **Марс‑7** — цифровая вычислительная машина ([компьютер](obc.md)), предназначенная для использования в составе [КА](sc.md).  
-*Разработчик:* [МОКБ Марс](zz_mars_mokb.md). Разработано в рамках ОКР <mark>TBD</mark> в <mark>TBD</mark> году. 
-   - **Предшественник:** 
-   - **Преемник:** 
+Разработчик [МОКБ Марс](zz_mars_mokb.md). Разработано в рамках ОКР <mark>TBD</mark> в <mark>TBD</mark> году.
 
-| |
-|:--|
-|[![](f/cpu/m/mars-7_pic1_thumb.jpg)](f/cpu/m/mars-7_pic1.png)|
-
-<small>
-
-|*Характеристика*|*[Значение](si.md) <small>()</small>*|
+|*Characteristics*|*[Value](si.md) <small>()</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|20|
+|Dimensions, ㎜|147 × 204 × 158|
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|6|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Быстродействие|2 × 50 000 000 оп/с|
 |Время восстановления<br> работоспособности, с|<sup>(с момента фиксирования отказа автоматикой)</sup>|
-|Исполнение|Моноблок; 4‑кратное резервирование|
+|Исполнение|Single unit; 4‑кратное резервирование|
 |Команды, датчики, входы|… — команд управления;<br> … — релейных матричных команд управления;<br> … — ТМ‑датчиков;<br> … — входов прерываний от контактных датчиков;<br> … — входов прерываний от импульсных датчиков|
 |Объём, кбайт|4 096 — ОЗУ;<br> 8 192 — ЭППЗУ;<br> … — защищённой памяти|
 |Разрядность данных| |
 |Тип процессора|2 × 50 ㎒;<br> первый выполняет функции ЦП, второй — функции ввода‑вывода|
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|147 × 204 × 158|
-|Interfaces| |
-|Mass, ㎏|6|
-|[Voltage](voltage.md), V| |
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|20|
+| |[![](f/cpu/m/mars-7_pic1_thumb.jpg)](f/cpu/m/mars-7_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
-
-
-
-## Опыт использования
-…
+   1. **Применяемость:**
+      - …
 
 
 

@@ -46,18 +46,63 @@ Common dividing SCS into parts:
 ░║ ╙ Customer terminals  
 ░║  
 ░╙ **Space segment** (SS)  
-░░░╙ [Spacecraft](sc.md) (SC)  
+░░░╙ **[Spacecraft](sc.md)** (SC)  
 ░░░░░╟ [Attitude control system](acs.md)  
 ░░░░░╟ [Cables](cable.md)  
 ░░░░░╟ [Command & Data Handling](c_n_dh.md) *(C&DH)*  
-░░░░░╟ [Communications](comms.md)  
+░░░░░║ ╟ [Data storage system](ds.md)  
+░░░░░║ ╟ [Flight Software](soft.md)  
+░░░░░║ ╟ [On-board computer](obc.md) *(OBC)*  
+░░░░░║ ╙ [Telemetry system](obc.md) *(OBC)*  
+░░░░░╟ [Communication system](comms.md)  
+░░░░░║ ╟ Amplifiers  
+░░░░░║ ╟ Antennas  
+░░░░░║ ╙ Transmitters, receivers  
 ░░░░░╟ [Guidance, navigation, & control](gnc.md) *(GNC)*  
 ░░░░░╟ [Life support](ls.md)  
-░░░░░╟ [Payload](oe.md) *(OE, см. [БА](oe.md))*  
-░░░░░╟ [Power](sps.md) *(SPS, см. [СЭС](sps.md))*  
-░░░░░╟ [Thermal control](tcs.md) *(TCS, см. [СОТР](tcs.md))*  
-░░░░░╟ [Spacecraft propulsion](ps.md) *(PS, см. [ДУ](ps.md))*  
-░░░░░╙ [Structures, gears, materials](sgm.md) *(SGM, см. [КММ](sgm.md))*
+░░░░░╟ [Payload](oe.md) *(OE)*  
+░░░░░╟ [Power system](sps.md) *(SPS)*  
+░░░░░╟ [Propulsion system](ps.md) *(PS)*  
+░░░░░╟ [Structures, gears, materials, robotics](sgm.md) *(SGM)*  
+░░░░░║ ╟ Mounting gears, robotics, structures  
+░░░░░║ ╟ On-board gears  
+░░░░░║ ╟ On-board robotics  
+░░░░░║ ╙ On-board structures  
+░░░░░╙ [Thermal system](tcs.md) *(TCS)*
+
+
+░░░░░░░░░╟ Бортовой комплекс управления (БКУ)  
+░░░░░░░░░║ ╟ Высотомер  
+░░░░░░░░░║ ╟ Гироскоп  
+░░░░░░░░░║ ╟ Датчик звёздный (ЗД)  
+░░░░░░░░░║ ╟ Датчик контроля электризации  
+░░░░░░░░░║ ╟ Датчик относительной ориентации (GPS, GLONASS)  
+░░░░░░░░░║ ╟ Датчик солнечный (СД)  
+░░░░░░░░░║ ╟ Двигатель‑маховик (ДМ)  
+░░░░░░░░░║ ╟ Запоминающее устройство (ЗУ)  
+░░░░░░░░░║ ╟ Привод антенны  
+░░░░░░░░░║ ╟ Привод солнечных панелей (ПСП)  
+░░░░░░░░░║ ╟ Программное обеспечение (ПО)  
+░░░░░░░░░║ ╙ Цифровая вычислительная машина (ЦВМ)  
+░░░░░░░░░╟ Двигательная установка (ДУ)  
+░░░░░░░░░║ ╟ Агрегаты  
+░░░░░░░░░║ ╟ Баки  
+░░░░░░░░░║ ╟ Двигатели  
+░░░░░░░░░║ ╟ Защита, дренаж  
+░░░░░░░░░║ ╟ Конструкция  
+░░░░░░░░░║ ╟ Нагреватели, тепловые датчики  
+░░░░░░░░░║ ╙ Трубопроводы  
+░░░░░░░░░╟ Радиокомплекс (РК)  
+░░░░░░░░░║ ╟ Антенно‑фидерная система (АФС)  
+░░░░░░░░░║ ╟ Бортовая кабельная сеть (БКС)  
+░░░░░░░░░║ ╙ Приёмо‑передатчик  
+░░░░░░░░░╟ Система электроавтоматики (СЭА)  
+░░░░░░░░░╟ Система электроснабжения (СЭС)  
+░░░░░░░░░║ ╟ Аккумуляторная батарея (АБ)  
+░░░░░░░░░║ ╟ Бортовая кабельная сеть (БКС)  
+░░░░░░░░░║ ╟ Комплекс автоматики и стабилизации  
+░░░░░░░░░║ ╙ Солнечные панели  
+
 
 **And logics:**
 

@@ -10,17 +10,23 @@
 **МБИНС** — волоконно‑оптический [гироскоп](iu.md) (ВОГ) в составе [КА](sc.md), предназначенный для определения положения КА в инерциальной системе отсчёта. По заявлению разработчика, не уступает [LN-200](ln_200.md).  
 *Разработчик:* [НПО ИТ](zz_npoit.md). Разработано  
 
-| |
-|:--|
-|[![](f/iu/m/mbins_pic1_thumb.jpg)](f/iu/m/mbins_pic1.png)|
-
-<small>
-
-|*Характеристика*|*[Значение](si.md) <small>(МБИНС)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (МБИНС)*|
 |:--|:--|
+|Composition|Single unit|
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)|Манчестер‑2|
+|[Lifetime](lifetime.md)/Resource, h(y)|50 000 ‑ 100 000 (5.7 ‑ 11.4) / …|
+|Mass, ㎏|1.34|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)| |
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Диапазон измерения лин. ускорения| |
 |Диапазон измерения угл. скорости| |
-|Исполнение|Моноблок|
 |Количество|—|
 |<small> ・акселерометров в приборе</small>|3|
 |<small> ・ВОГ в приборе</small>|3|
@@ -36,39 +42,19 @@
 |Стабильность цены импульса, не более|—|
 |<small> ・в канале акселерометров</small>| |
 |<small> ・в углоизмерительном канале</small>| |
-|[TRL](trl.md)| |
 |Цена импульса (масштабный коэффициент), не более|—|
 |<small> ・в канале акселерометров</small>| |
 |<small> ・в углоизмерительном канале</small>| |
 |Шумовая составляющая в выходной информации, не более|—|
 |<small> ・в канале акселерометров</small>| |
 |<small> ・в углоизмерительном канале</small>| |
-|**`Прочее`**| |
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Габариты, ⌀ × в, ㎜| |
-|Interfaces|Манчестер‑2|
-|Масса, кг, ≤|1.34|
-|[Voltage](voltage.md), V| |
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)|от 50 000 до 100 000 (от 5.7 до 11.4)|
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W| |
+| |[![](f/iu/m/mbins_pic1_thumb.jpg)](f/iu/m/mbins_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:**
+      - …
 
 
 

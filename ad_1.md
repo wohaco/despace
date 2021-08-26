@@ -8,13 +8,23 @@
 > <small>**АД-1** — русскоязычный термин, не имеющий аналога в английском языке. **AD-1** — дословный перевод с русского на английский.</small>
 
 **АД‑1** — [звёздный датчик](sensor.md), предназначенный для определения ориентации [КА](sc.md) относительно звёздного неба.  
-*Разработчик:* [МОКБ Марс](zz_mars_mokb.md), RU. Разработано в 2005 году Активное использование.
+Разработчик [МОКБ Марс](zz_mars_mokb.md), RU. Разработано в 2005 году Активное использование.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(АД-1)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(АД-1)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|15|
+|Dimensions, ㎜|⌀ 238 × 426|
+|[Interfaces](interface.md)|[МКО](mil_std_1553.md)|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|3.85|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
+|[Voltage](voltage.md), V|27 ± 4|
+|**【Specific】**|• • •|
 |Время опознавания, с| |
 |Вых. информация| |
 |Допуст. угл. скор., °/с| |
@@ -26,36 +36,16 @@
 |Точность|5 ‑ 15″;<br> до 15 одновременно отслеживаемых звёзд|
 |Частота обновл., Гц|0.5|
 |Яркость фона, ㏅/m²|… для света с солнечным спектром|
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|⌀ 238 × 426|
-|Interfaces|[МКО](mil_std_1553.md)|
-|Mass, ㎏|3.85|
-|[Voltage](voltage.md), V|27 ± 4|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|15|
 | |[![](f/sensor/a/ad-1_thumb.jpg)](f/sensor/a/ad-1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. (2005) Монитор‑Э
-   1. (2006) КазСат
-   1. (2009) Экспресс‑МД1
-   1. (2011) [Электро‑Л](электро_л.md)
+   1. **Применяемость:**
+      - (2005) Монитор‑Э
+      - (2006) КазСат
+      - (2009) Экспресс‑МД1
+      - (2011) [Электро‑Л](электро_л.md)
 
 
 

@@ -6,54 +6,37 @@
 ---
 
 **ЦВМ‑12** — цифровая вычислительная машина ([компьютер](obc.md)), предназначенная для использования в составе [КА](sc.md).  
-*Разработчик:* [НТЦ Модуль](zz_ntc_module.md). Разработано в 2004 году. покупное изделие.
-   - **Предшественник:** 
-   - **Преемник:** 
+Разработчик [НТЦ Модуль](zz_ntc_module.md). Разработано в 2004 году. Покупное изделие.
 
-[![](f/cpu/t/cvm-12_pic1_thumb.jpg)](f/cpu/t/cvm-12_pic1.png)
-
-<small>
-
-|*Характеристика*|*[Значение](si.md) <small>()</small>*|
+|*Characteristics*|*[Value](si.md) <small>()</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W|20|
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|2.2|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|27|
+|**【Specific】**|• • •|
 |Быстродействие, ㎒|50|
 |Время восстановления работоспособности, с|<small>… (с момента фиксирования отказа аппаратурой автоматической реконфигурации)</small>|
-|Исполнение|Моноблок из 2 полукомплектов.|
+|Исполнение|Single unit из 2 полукомплектов.|
 |Команды, датчики, входы|… — команд управления;<br> … — релейных матричных команд управления;<br> … — ТМ‑датчиков;<br> … — входов прерываний от контактных датчиков;<br> … — входов прерываний от импульсных датчиков|
 |Объём, кбайт|4 096 — ОЗУ (с кодом Хэмминга);<br> 8 192 — ЭППЗУ (с кодом Хэмминга);<br> … — защищённой памяти|
 |Разрядность данных|64|
 |Тип процессора|R4000 (MIPS)|
-|**`Прочее`**| |v
-|Dimensions, L×W×H, mm| |
-|Interfaces| |
-|Mass, ㎏|2.2|
-|[Voltage](voltage.md), V|27|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)| |
-|[Thermal range](tcs.md), ℃| |
-|Consumption, W|20|
+| |[![](f/cpu/t/cvm-12_pic1_thumb.jpg)](f/cpu/t/cvm-12_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
-
-
-
-## Опыт использования
-…
+   1. **Применяемость:**
+      - …
 
 
 

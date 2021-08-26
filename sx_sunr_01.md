@@ -21,17 +21,16 @@
 |Режим готовности| |
 |Точность|1° (3σ)|
 |Частота обновл., Гц| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm|50 × 46 × 17|
-|Interfaces|[RS‑485](rs_xxx.md)|
+|**【Etc.】**|• • •|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|Dimensions, ㎜|50 × 46 × 17|
+|[Interfaces](interface.md)|[RS‑485](rs_xxx.md)|
 |Mass, ㎏|0.04|
 |[Voltage](voltage.md), V|5|
-|Overload, g| |
+|[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|Resource, h (y)| |
 |[Thermal range](tcs.md), ℃|от –40 до +60 ℃|
-|[Lifetime](lifetime.md), h (y)| |
+|[Lifetime](lifetime.md)/Resource, h(y)| |
 |Consumption, W|0.05|
 
 </small>

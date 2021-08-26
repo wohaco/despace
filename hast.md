@@ -8,13 +8,23 @@
 > <small>**High Accuracy Star Tracker (HAST)** — англоязычный термин, не имеющий аналога в русском языке. **Высокоточный звёздный датчик (HAST)** — дословный перевод с английского на русский.</small>
 
 **HAST** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
-*Разработчик:* [Ball A&T](zz_ball_at.md), US. Разработано в 1999 году. Активное применение.
+Разработчик [Ball A&T](zz_ball_at.md), US. Разработано в 1999 году. Активное применение.
 
-<small>
-
-|*•    Характеристика    •*|*[Значение](si.md) <small>(HAST)</small>*|
+|*Characteristics*|*[Value](si.md) <small>(HAST)</small>*|
 |:--|:--|
+|Composition| |
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|43 800 (5) / …|
+|Mass, ㎏|7.7|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)|до 10 000 протон/с/㎝²|
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|SSEU: −15 ‑ +52, SSH: −1 ‑ +32, Заслонка: −26 ‑ +27, Затенение: −60 ‑ +27|
 |[TRL](trl.md)|9|
+|[Voltage](voltage.md), V|28 (22 ‑ 36)|
+|**【Specific】**|• • •|
 |Время опознавания, с| |
 |Вых. информация| |
 |Допуст. угл. скор., °/с|8 (ускорение 8 °/с²)|
@@ -26,33 +36,13 @@
 |Точность|0.18″ для скорости ≤ 1 °/с; 0.50″ для скорости 1 ‑ 8 °/с|
 |Частота обновл., Гц|60 (8 опознаваемых звёзд) или 100 (4 звезды)|
 |Яркость фона, ㏅/m²| |
-|**Etc:**|• • •|
-|[Reliability](qm.md)/[lifetime](lifetime.md)| |
-|Dimensions, L×W×H, mm| |
-|Interfaces| |
-|Mass, ㎏|7.7|
-|[Voltage](voltage.md), V|28 (22 ‑ 36)|
-|Overload, g| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)|до 10 000 протон/с/㎝²|
-|Resource, h (y)| |
-|[Lifetime](lifetime.md), h (y)|43 800 (5)|
-|[Thermal range](tcs.md), ℃|SSEU: −15 ‑ +52, SSH: −1 ‑ +32, Заслонка: −26 ‑ +27, Затенение: −60 ‑ +27|
-|Consumption, W| |
 | |[![](f/sensor/h/hast_pic1_thumb.jpg)](f/sensor/h/hast_pic1.jpg)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. NASA Chandra X‑ray Observatory
+   1. **Применяемость:**
+      - NASA Chandra X‑ray Observatory
 
 
 
