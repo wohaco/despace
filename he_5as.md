@@ -12,7 +12,7 @@
 
 <small>
 
-|*Characteristics*|*[Value](si.md) <small>(HE-5AS)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (HE-5AS)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|1.5 ОБ, 5.5 БЭ|

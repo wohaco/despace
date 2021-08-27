@@ -27,7 +27,7 @@
 <p style="page-break-after:always"> </p>
 
 ## CML 1
-|*Параметр*|*[Значение](si.md)*|
+|*Параметр*|*[Value](si.md)*|
 |:--|:--|
 |[CML](cml.md)|**1** — Cocktail Napkin, Idea Generation, Overview & Advocacy (Записи на салфетках, Генерация идей)|
 |[TRL](trl.md)| |
@@ -43,7 +43,7 @@
 <p style="page-break-after:always"> </p>
 
 ## CML 2
-|*Параметр*|*[Значение](si.md)*|
+|*Параметр*|*[Value](si.md)*|
 |:--|:--|
 |[CML](cml.md)|**2** — Initial Feasibility (Оценка осуществимости)|
 |[TRL](trl.md)| |
@@ -53,7 +53,7 @@
 <p style="page-break-after:always"> </p>
 
 ## CML 3
-|*Параметр*|*[Значение](si.md)*|
+|*Параметр*|*[Value](si.md)*|
 |:--|:--|
 |[CML](cml.md)|**3** — Trade Space (Определение границ/лимитов)|
 |[TRL](trl.md)| |
@@ -63,7 +63,7 @@
 <p style="page-break-after:always"> </p>
 
 ## CML 4
-|*Параметр*|*[Значение](si.md)*|
+|*Параметр*|*[Value](si.md)*|
 |:--|:--|
 |[CML](cml.md)|**4** — Point Design, Architecture selected within Trade Space (Выборочное проектирование)|
 |[TRL](trl.md)| |

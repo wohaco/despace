@@ -10,7 +10,7 @@
 **MIST** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
 Разработчик [Space Micro](space_micro.md). Разработано ранее 2017 года активное применение
 
-|*Characteristics*|*[Value](si.md) <small>(MIST)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (MIST)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|4|

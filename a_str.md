@@ -12,7 +12,7 @@
 
 <small>
 
-|*Characteristics*|*[Value](si.md) <small>(A-STR)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (A-STR)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|9 при 20 ℃, 13.5 при 60 ℃|

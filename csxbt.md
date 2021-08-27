@@ -11,7 +11,7 @@
 Разработчик [НПП Саит](zz_sait_ltd.md). Разработано ранее 2016 года, активное применение.
 
 
-|*Characteristics*|*[Value](si.md) <small>(CSXBT)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (CSXBT)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|16|

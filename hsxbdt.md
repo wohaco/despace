@@ -10,7 +10,7 @@
 **SAIT High‑speed X‑band Downlink Transmitter (HSXBDT)** — радиопередатчик.  
 Разработчик [НПП Саит](zz_sait_ltd.md). Разработано ранее 2016 года, активное применение.
 
-|*Characteristics*|*[Value](si.md) <small>(HSXBDT)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (HSXBDT)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|70|

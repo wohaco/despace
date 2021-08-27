@@ -8,7 +8,7 @@
 **SX‑SR‑MICRO_BOKZ** — звёздный датчик, предназначенный для определения ориентации [КА](sc.md) относительно звёздного неба.  
 Разработчик [Спутникс](zz_sputnix.md), RU. Разработано  
 
-|*Characteristics*|*[Value](si.md) <small>(SX-SR-MicroBOKZ)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (SX-SR-MicroBOKZ)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|1 ‑ 2|

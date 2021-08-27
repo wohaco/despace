@@ -11,7 +11,7 @@
 Разработчик [Sodern](zz_sodern.md), EU. Разработано в 2019 году. Разработка.
 
 
-|*Characteristics*|*[Value](si.md) <small>(Horus)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (Horus)*|
 |:--|:--|
 |Composition| |
 |Consumption, W| |

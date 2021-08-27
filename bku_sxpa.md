@@ -9,7 +9,7 @@
 
 **БКУ‑SxPA** — цифровая вычислительная машина ([компьютер](obc.md)), предназначенная для использования в составе [КА](sc.md). Разработчик [Спутникс](zz_sputnix.md). Разработано  
 
-|*Characteristics*|*[Value](si.md) <small>()</small>*|
+|*Characteristics*|*[Value](si.md)<br> (BKU‑SxPA)*|
 |:--|:--|
 |Composition| |
 |Consumption, W| |

@@ -1,7 +1,7 @@
 
 <p style="page-break-after:always"> </p>
 
-|*Параметр*|*[Значение](si.md)*|
+|*Параметр*|*[Value](si.md)*|
 |:--|:--|
 | |**`Миссия`**|
 |Длительность|…|
@@ -37,7 +37,7 @@
 
 или
 
-|*Type*|*[Param.](si.md)*|
+|*Type*|*[Value](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md) in … prices|

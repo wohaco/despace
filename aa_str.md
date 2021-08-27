@@ -10,7 +10,7 @@
 **AA-STR** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
 Разработчик [Leonardo](leonardo.md), EU. Разработано в 2001 году. Активное применение.
 
-|*Characteristics*|*[Value](si.md) <small>(AA-STR)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (AA-STR)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|6 при 20 ℃, 13 при 60 ℃|

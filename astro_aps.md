@@ -10,7 +10,7 @@
 **ASTRO APS** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
 Разработчик [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в 2013 году. Активное применение.
 
-|*Characteristics*|*[Value](si.md) <small>(ASTRO APS)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (ASTRO APS)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|6 (+6 с охладителем)|

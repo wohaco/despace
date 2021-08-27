@@ -12,7 +12,7 @@
 
 Итоговый ЗД создаётся из нужных оптических блоков и БЭ.
 
-|*Characteristics*|*[Value](si.md)<br> (Auriga, ОБ)*|*[Значение](si.md)<br> (Auriga, БЭ)*|
+|*Characteristics*|*[Value](si.md)<br> (Auriga, ОБ)*|*[Value](si.md)<br> (Auriga, БЭ)*|
 |:--|:--|:--|
 |Composition| | |
 |Consumption, W|1| |

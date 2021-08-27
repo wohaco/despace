@@ -10,7 +10,7 @@
 **Sirius TCM** — постоянное запоминающее устройство (ПЗУ) на основе твердотельного накопителя для хранения цифровой информации.  
 Разработчик [AAC CS](zz_aac_cs.md). Разработано ранее 2019 года активное применение
 
-|*Characteristics*|*[Value](si.md) <small>(Sirius TCM)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (Sirius TCM)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|1.3|

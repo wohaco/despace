@@ -8,7 +8,7 @@
 **Марс‑7** — цифровая вычислительная машина ([компьютер](obc.md)), предназначенная для использования в составе [КА](sc.md).  
 Разработчик [МОКБ Марс](zz_mars_mokb.md). Разработано в рамках ОКР <mark>TBD</mark> в <mark>TBD</mark> году.
 
-|*Characteristics*|*[Value](si.md) <small>()</small>*|
+|*Characteristics*|*[Value](si.md)<br> (Марс-7)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|20|

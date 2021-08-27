@@ -10,7 +10,7 @@
 **SAIT On-board Memory Unit (OBMU)** — постоянное запоминающее устройство (ПЗУ) на основе твердотельного накопителя для хранения цифровой информации.  
 *Разработчик:* [НПП Саит](zz_sait_ltd.md). Разработано ранее 2013 года активное применение
 
-|*Characteristics*|*[Value](si.md) <small>(OBMU)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (OBMU)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|12 чтение/запись, 0 в простое|

@@ -8,7 +8,7 @@
 **ЦВМ‑12** — цифровая вычислительная машина ([компьютер](obc.md)), предназначенная для использования в составе [КА](sc.md).  
 Разработчик [НТЦ Модуль](zz_ntc_module.md). Разработано в 2004 году. Покупное изделие.
 
-|*Characteristics*|*[Value](si.md) <small>()</small>*|
+|*Characteristics*|*[Value](si.md)<br> (ЦВМ-12)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|20|

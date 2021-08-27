@@ -10,7 +10,7 @@
 **µSTAR** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
 Разработчик [Space Micro](space_micro.md). Разработано в 2017 году, активное применение.
 
-|*Characteristics*|*[Value](si.md)<br> (µSTAR-100M)*|*[Значение](si.md)<br> (µSTAR-200M)*|*[Значение](si.md)<br> (µSTAR-200H)*|*[Значение](si.md)<br> (µSTAR-400M)*|
+|*Characteristics*|*[Value](si.md)<br> (µSTAR-100M)*|*[Value](si.md)<br> (µSTAR-200M)*|*[Value](si.md)<br> (µSTAR-200H)*|*[Value](si.md)<br> (µSTAR-400M)*|
 |:--|:--|:--|:--|:--|
 |Composition| | | | |
 |Consumption, W|5|10|10|18|

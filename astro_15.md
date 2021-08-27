@@ -10,7 +10,7 @@
 **ASTRO 15** — звёздный датчик для определения и выдачи в [GNC](gnc.md) информации о положении и угловых скоростях системы координат (СК) изделия относительно геоцентрической СК.  
 Разработчик [Jena‑Optronik](zz_jenaoptronik.md), EU. Разработано в 2010 году. Активное применение.
 
-|*Characteristics*|*[Value](si.md) <small>(ASTRO 15)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (ASTRO 15)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|10 (+5 для охладителя)|

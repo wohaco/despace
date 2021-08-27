@@ -8,7 +8,7 @@
 **GR712RC** — процессор, предназначенный для использования в составе [КА](sc.md).  
 Разработчик [Cobham](cobham.md). Разработано в 2019 году. активное использование <small>(на 2019 год)</small>
 
-|*Characteristics*|*[Value](si.md) <small>()</small>*|
+|*Characteristics*|*[Value](si.md)<br> (GR712RC)*|
 |:--|:--|
 |Composition| |
 |Consumption, W| |

@@ -7,7 +7,7 @@
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions】 |
 |[Interfaces](interface.md)| 【TBD: connectors, mounting points】 |
-|[Lifetime](lifetime.md)/Resource, h(y)| 【TBD: lifetime for total lifetime, resource for active state】 |
+|[Lifetime](lifetime.md)/Resource, h(y)| … / … 【TBD: lifetime for total lifetime, resource for active state】 |
 |Mass, ㎏| 【TBD: mass of the unit(s) in space】 |
 |[Overload](vibration.md), Grms| 【TBD: acceptable loads & their direction】 |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| 【TBD: total ionising dose, heavy particles】 |

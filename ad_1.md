@@ -10,7 +10,7 @@
 **АД‑1** — [звёздный датчик](sensor.md), предназначенный для определения ориентации [КА](sc.md) относительно звёздного неба.  
 Разработчик [МОКБ Марс](zz_mars_mokb.md), RU. Разработано в 2005 году Активное использование.
 
-|*Characteristics*|*[Value](si.md) <small>(АД-1)</small>*|
+|*Characteristics*|*[Value](si.md)<br> (АД-1)*|
 |:--|:--|
 |Composition| |
 |Consumption, W|15|
