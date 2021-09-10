@@ -17,7 +17,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 9:** Orbiter: 158 days; Lander: 53 minutes <br>**Venera 10:** Orbiter: 144 days; Lander: 65 minutes|
 |Launch|**Venera 9:** June 8, 1975, 02:38 UTC<br>**Venera 10:** June 14, 1975, 03:00:31 UTC<br>Rocket: Proton-K/DM|

@@ -16,7 +16,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|4 months, 1 day, 13 hours, 22 minutes|
 |Launch|August 8, 1978, 07:33 UTC, Rocket Atlas SLV-3D Centaur-D1AR|

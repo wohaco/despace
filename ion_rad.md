@@ -157,6 +157,76 @@
 |[![](f/ef/radiation_dose_table_table_thumb.jpg)](f/ef/radiation_dose_table.png)|
 
 
+
+## Typical requirements
+
+**1.** During the flight, the OE & structure are exposed to ionizing radiation from outer space, namely:
+
+   - protons & ions of solar cosmic rays (SCR);
+   - protons & heavy nuclei of galactic cosmic rays (GCR);
+   - electrons & protons of the Earth’s radiation belts (ERB) at the stage of spacecraft insertion into the interplanetary trajectory. A ERB is a zone of energetic charged particles, most of which originate from the solar wind, that are captured by & held around a planet by that planet's magnetosphere. Earth has two such belts, & sometimes others may be temporarily created; two main belts are located at ~ 640 ‑ 58 000 ㎞ above the surface. The belts trap energetic electrons & protons.
+
+**2.** Radiation conditions are calculated using COSRAD & are unique in most cases. The value of the local absorbed dose depends on the location of the OE on the SC & its shielding by other elements. Some examples of the absorbed doses for a SC are provided below (protection by aluminum, absorbing by silicon, form of protection — sphere).
+
+Absorbed doses (in SI)  for 1 year of flight on the 1 000 ㎞ above the Earth’s surface, ㏉
+
+|*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons + Protons<br> ERB, SCR, GCR*|*Notes*|
+|:--|:--|:--|
+|0.01 (0.03703)|15 600 000|equal to open surface|
+|0.1 (0.3703)|3 450 000|equal to MLI|
+|0.5 (1.851)|50 000| |
+|0.7 (2.59)|9 500| |
+|1 (3.703)|1 220| |
+|2 (7.4)|23| |
+|3 (11.1)|12| |
+|10 (37)|1.8| |
+
+Absorbed doses (in SI)  for 1 year of flight on the Earth’s geostationary orbit, ㏉
+
+|*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons<br> ERB*|*Protons<br> ERB, SCR, GCR*|*Notes*|
+|:--|:--|:--|:--|
+|0.01 (0.03703)|18 000 000|3 800|equal to open surface|
+|0.1 (0.3703)|4 000 000|1 100|equal to MLI|
+|0.5 (1.851)|58 000|800| |
+|0.7 (2.59)|11 000|680| |
+|1 (3.703)|1 000|500| |
+|2 (7.4)|1|280| |
+|3 (11.1)|0|150| |
+|10 (37)|0|22| |
+
+Absorbed doses (in SI) at the stage of SC launching on an interplanetary trajectory & flight to the Moon in 14 days, ㏉
+
+|*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons<br> ERB*|*Protons<br> ERB*|*SCR*|*GCR*|*Total<br> dose*|*Notes*|
+|:--|:--|:--|:--|:--|:--|:--|
+|0.01 (0.03703)|61|440|115|0.00159|616|equal to open surface|
+|0.1 (0.3703)|4.84|0.498|75|0.000534|80.30|equal to MLI|
+|0.5 (1.851)|0.59|0.00424|30|0.000533|30.60| |
+|0.7 (2.59)|0.312|0.00164|20|0.000538|20.30| |
+|1 (3.703)|0.118|0.000629|9.5|0.000538|9.62| |
+|2 (7.4)|0.000720|0.000166|2.5|0.000532|2.50| |
+|3 (11.1)|0.000555|0.0000362|0.5|0.000524|0.501| |
+|10 (37)|0.000220|0|0.025|0.000484|0.0257| |
+
+Absorbed radiation doses (in Si) for 1 year of flight on a circular Lunar orbit, ㏉
+
+|*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons<br> ERB*|*Protons<br> ERB*|*SCR*|*GCR*|*Total<br> dose*|*Notes*|
+|:--|:--|:--|:--|:--|:--|:--|
+|0.01 (0.03703)|0|0|468|0.21|468|equal to open surface|
+|0.1 (0.3703)|0|0|88|0.134|88.9|equal to MLI|
+|1 (3.703)|0|0|6.2|0.129|6.39| |
+|3 (11.1)|0|0|1.81|0.125|1.936| |
+|10 (37)|0|0|0.315|0.116|0.431| |
+|31.6 (117)|0|0|0.045|0.091|0.136| |
+|100 (370)|0|0|0.00395|0.079|0.0829| |
+
+**3.** One of the most important physical characteristics necessary to estimate the amount of random single effects (reversible malfunctions & failures) for the period of flight are differential spectra of linear energy transfer (LET spectra) heavy charged particles: nuclei GCR (with charges of 2 ≤ z ≤ 92) & SCR ions (with charges 2 ≤ z ≤ 28). These characteristics must be calculated separately for each mission.
+
+**4.** To ensure the failure‑free operation of the OE, the electronic components must have the following sensitivity parameters to single failures: the threshold value of the linear energy transfer heavy particles Lₒ ≥ 40 MeV/(㎎/㎝²), the saturation cross section σₒ ≤ 0.01 ㎝² per chip. If it is impossible to meet the specified requirements for the sensitivity parameters of electronic components, the OE fault tolerance must be ensured by circuitry & structural‑functional methods.
+
+**5.** When choosing EEE products, the recommended dose resistance is at least 300 ㏉ (30 000 rad). If it is impossible to meet these requirements, the dose resistance of the OE is justified by calculating the dose safety factor.
+
+
+
 <p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)

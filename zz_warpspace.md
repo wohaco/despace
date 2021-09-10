@@ -1,9 +1,7 @@
 # WARPSPACE
 > 2020.07.20 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md)
 
-|[![](f/con/w/warpspace_logo1_thumb.jpg)](f/con/w/warpspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2-5-1-203 Azuma, Tsukuba science city, Ibaraki, Japan*|
-|:--|:--|
-|Link|<https://warpspace.jp> ・ <https://aerospacebiz.jaxa.jp/en/spacecompany/warpspace/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/warpspace-inc/)|
+|[![](f/con/w/warpspace_logo1_thumb.jpg)](f/con/w/warpspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2-5-1-203 Azuma, Tsukuba science city, Ibaraki, Japan*<br> 【<https://warpspace.jp> ・ <https://aerospacebiz.jaxa.jp/en/spacecompany/warpspace/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/warpspace-inc/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -15,8 +13,6 @@
 
 We have experienced two real [satellite](sc.md) developments & launch under the JAXA program. In addition to our professional knowledge & experiences, we pursue the space development for everyone through our close partnership with JAXA & access to various research institutes located in Tsukuba Science City.
 
-<p style="page-break-after:always"> </p>
-
 Our Services
 
    1. **Communication Infrastructure Business for Low Orbit Satellites.**
@@ -27,3 +23,7 @@ Our Services
       - Module for Small Satellite. We are developing low-cost modules for small satellites which bringing technology of WAPRPSPACE & University of Tsukuba together. (Each module for power supply, communication, OBC, GPS go on sale in the fall of 2019).
       - Development of World’s Smallest Modules. In collaboration with JAXA & University of Tsukuba, we’re developing world’s smallest attitude control module & [ion engine](ps.md) (electric propulsion engine).
    1. **Business Related Transferring Satellite Technology.** We provide support to government agencies & local companies in developing countries, for them to acquire the satellite technology. In the first year, we will invite the research personnel to the city of Tsukuba, & work on the actual satellite development & control. In the next year, the individual will move back to their country & we will support making satellite launch come true within two years.
+
+<p style="page-break-after:always"> </p>
+
+…

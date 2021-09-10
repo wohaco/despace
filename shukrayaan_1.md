@@ -16,7 +16,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|…|
 |Launch|2023; Rocket GSLV Mk III|

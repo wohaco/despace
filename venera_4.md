@@ -15,7 +15,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|127 days|
 |Launch|12 June 1967, 02:40 UTC, Rocket: Molniya 8K78M|

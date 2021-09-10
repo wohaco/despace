@@ -5,79 +5,86 @@
 
 ---
 
-> <small>**Типичные ошибки** — русскоязычный термин, не имеющий аналога в английском языке. **Typical mistakes** — дословный перевод с русского на английский.</small>  
->> <small>*Никогда нет времени сделать правильно, зато всегда есть время исправить.<br> Errare humanum est.*</small>
+> <small>**Typical mistakes** — EN term. **Типичные ошибки** — RU analogue.</small>  
+>> <small>*There is never time to do it right, but there is always time to fix it.・ Errare humanum est.*</small>
 
-В данном руководстве приведён перечень типичных ошибок в работе и [документации](doc.md).
+An **error** (from the Latin error, meaning “wandering”) is an action which is inaccurate or incorrect. In some usages, an error is synonymous with a mistake. In statistics, “error” refers to the difference between the value which has been computed & the correct value. An error could result in failure or in a deviation from the intended performance or behavior.
 
-Список ошибок собран из опыта работы над различными НИОКР, почти не привязан к какой‑то конкретной организации и в целом универсален. Предназначен для:
+Differences between an error & a mistake: an “**error**” — is a deviation from accuracy or correctness, A “**mistake**” — is an error caused by a fault: the fault being misjudgment, carelessness, or forgetfulness.
 
-   1. снижения затрат на последующие исправления,
-   1. повышения качества работ,
-   1. фокусировки на главном, а не второстепенном.
+This manual contains a list of common errors in operation & [documentation](doc.md). The list is compiled based on the experience of working on various R&D projects, is almost universal & is not tied to any particular organization. Created for:
+
+   1. reduce the cost of subsequent fixes
+   1. improving the quality of work
+   1. focusing on the main, not the secondary
 
 ![](f/doc/error_types.png)
 
+**Table.** Common mistakes, their causes & consequences. 
 
-<p style="page-break-after:always"> </p>
-
-## Основной список
-**Таблица.** Обычные ошибки, их причины и последствия.
-
-|*#*|*Наименование*|
-|:--|:--|
-|**1**|**Внедрять дополнительную систему для той же самой задачи.**<br> Приводит к накладным расходам и ошибкам при переписывании из одной в другую.|
-|**2**|**Глупость.**<br> «Есть 2 бесконечности — Вселенная и человеческая глупость. Насчёт Вселенной не уверен.»|
-|**3**|**Игра «залезть в жопу, а потом героически из неё вылезти».**<br> Классика. Принять неверное решение, а потом с потом и кровью разгребать последствия.|
-|**4**|**Изменять то, что работает, без изучения почему было сделано именно так.**<br> Приводит к поломкам/усложнениям — часто то, что выглядит несуразно, но сделано умными людьми, сделано именно так неспроста. Чернобыльская АЭС сгорела именно из‑за этого.|
-|**5**|**Малое количество времени.**<br> «Быстро, качественно, дёшего — выбирайте любые 2». Часто выбирают «быстро, дёшего».|
-|**6**|**Нерабочая атмосфера.**<br> Нервы, давление, шум, звонки и пр. отвлекают, сбивают с мысли, снижают концентрацию.|
-|**7**|**Передача информации на словах. [Договор](contract.md) на словах.**<br> Когда человек говорит что‑то, а не пишет это на бумаге и не ставит подпись, то [сквозной информационный тракт](etedp.md) выглядит примерно так: *«Что человек подумал → Что почувствовал → Что сказал → Что решил, что сказал → Что услышал оппонент → Что понял → Что запомнил»*; в каждом переходе возможно искажение информации. В мозгу человека есть «центр критики», через который проходит входящая информация, но не исходящая. Т.о. человек может говорить не то, что хочет, а оппонент — воспринимать не то, что слышит. Пишите протоколы и подписывайте их на месте.|
-|**8**|**Отрыв от процесса, частое переключение между процессами.**<br>|
-|**9**|**Попытка сделать последовательные процессы параллельными.**<br> См. статью [Рабочий процесс](workflow.md).|
-|**10**|**Систематическая ошибка выжившего.**<br> Делать вывод только на основе того, что было проще достать.|
-|**11**|**[Совещания](meeting.md) с быстрыми решениями.**<br> Часто на совещаниях принимают быстро решения без детального погружения в вопрос. Впоследствии приходится тратить ресурсы на исправление последствий этих решений.|
-|**12**|**Единоличное принятие решений.**<br> Всегда есть те, кто (не)осознанно искажает факты в личных интересах. Поэтому существует научный подход и рецензирование, и поэтому конценсус важен.|
-|**13**|**(Не)считать всех вокруг идиотами.**|
-|**14**|**Арфаграфия, граматика.**<br> Ну куда ж без них‑то. MS Word умеет, конечно, что‑то проверять, но всё же вычитывайте. Также читайте художественную литературу, повышайте собственную грамотность.|
-|**15**|**Беглое чтение документов.**<br> Дьявол — в деталях, а впопыхах деталей не разглядеть. А иногда бывает, что в документе почти нет воды, которую можно пропустить, а написанные слова написаны неспроста.|
-|**16**|**Дублирование информации в различных разделах/документах.**<br> Если некая информация (состав, масса, габариты и пр.) указывается больше, чем в одном месте, то при корректировках часто в одном месте она правится, а в других — забывается.|
-|**17**|**Заниматься не своей работой.**<br> [Не делайте за других их работу ❐](f/doc/20191106_1.pdf).|
-|**18**|**Излишняя информация.**<br> Мы пишем техническую документацию, которую, во‑первых, читают непонимающие в технике менеджеры и генералы, а во‑вторых, технические специалисты, которые потом по ней точат железки и осуществляют сборку. Поэтому не надо растекаться мыслей по древу, — пишите кратко, чётко и по делу, следуйте принципу [бритвы Оккама](dont_panic.md).|
-|**19**|**Использование одновременно [единиц измерения СИ](si.md) и не‑СИ.**<br> Часто при переводе одной размерности в другую будет допущена ошибка в размере.|
-|**20**|**Использование термина «энергообеспечение» и т.д.**<br> Правильный термин «электрообеспечение». Энергия — разная, а электричество — одно.|
-|**21**|**Мифическая «общеизвестная информация».**<br> То, что сегодня известно всем, завтра может потерять актуальность. Поэтому старайтесь ссылаться (а лучше приводить в тексте) на общепринятые системы, константы, расчёты, чтобы через 2, 10, 30 лет можно было понять как это всё работает и зачем.|
-|**22**|**Нарушение алфавитного порядка.**<br> При составлении списков работ, документов, сотрудников и пр. возникает желание сортировать их в не‑алфавитном порядке (по важности, значимости, этапам и пр.). Это приводит к тому, что, после согласования документа с автором такового порядка, требуется разъяснять этот порядок каждому, кто согласует впоследствии. А потом все забывают про смысл этой логики и тратят время на поиск нужного пункта. Алфавитный порядок хорош своей быстротой и непредвзятостью.|
-|**23**|**Отсутствие номеров у ссылочных документов.**<br> «Усы, лапы и хвост» любого документа — это название, номер и подписи. Документов с таким названием может быть много, документов с таким названием и номером — один.|
-|**24**|**Отсутствие явного выбора.**<br> Выбор должен быть прописан чётко: «по результатам такой‑то проработки выбрано то‑то и то‑то». Никаких условностей, предложений, отсылок типа «ну, мы в выводах написали одно, а вот в сносках на сотой странице мелким шрифтом написано, что выводам не верить».|
-|**25**|**Различные наименования одной и той же сущности.**<br> Часто в рамках одного документа/проекта приборы называются то по названию, то по названию с приставкой, то по индексу, то по обиходному названию, то ещё как‑нибудь. Это вызывает вопросы — а точно ли речь идёт об одном и том же приборе?: Иногда это не так и речь идёт о разных. То же касается названия документов, организаций, мест, этапов и пр.|
-|**26**|**Ссылки на не‑общедоступную документацию.**<br> Если имеется ссылка на не‑общедоступную документацию (внутренние распоряжения, СЗ, материалы другого ОКР и пр.), то они должны быть приложены. Нет гарантии, что они будут в наличии у Заказчика, а тем более при проверке прокурором через пару лет.|
-|**27**|**История не терпит сослагательного наклонения.**<br> При оценке истории неверно говорить вроде: «Если бы Македонский не дошёл до Индии, то…», т.к. история пошла так, как пошла, а всё остальное — безосновательные спекуляции.|
-|**28**|**Один дурак способен тысячу мудрецов поставить в тупик.**<br> Собственник «не обязан знать все технические детали» и ему ещё надо объяснить, что такой сотрудник генерит бред, для этого надо потратить уйму дорогостоящего времени на разжёвывание того, где эти идеи несостоятельны. Собственник видит «активно старающегося решить проблемы работника». Заканчивается это тем, что все устают и начинают этот бред тупо внедрять, параллельно сотрудники чаще появляются на собеседованиях других работодателей. После смены поколения сотрудников бизнес такого предприятия напоминает велокостылед, которого «могила исправит» или очень нехилые инвестиции в наведение порядка, а потом уже могила.|
-|**29**|**Судья и прокурор в одном лице.**<br> Обсуждать/решать должны равные, судить — третья сторона, если равные не договорились.|
-|**30**|**Неявность/нечёткость выражений и суждений.**<br> К документу не должен прилагаться человек. Всё должно быть: написано внятно, все цифры доступны, ссылки на месте и пр.|
-|**31**|**Цифры без разброса.**<br> Обычно считается, что цифра (масса, электричество, размеры и пр.) — это худшая граница, т.е. хуже значения не будет. Но иногда при недобросовестной/халатной работе исполнители склонны считать указанную цифру номиналом и впоследствии давать на неё допуски. Требуйте сразу либо писать допуски, либо указывать словами, что масса лимитная.|
-|**32**|**Что-то может быть откорректировано/уточнено.**<br> НД подразумевает, что любой документ или СЧ на любом этапе могут быть уточнены. Собственно, это и есть принцип НИОКР — уточнение через итерации, а потом согласование уточнений с заинтересованными сторонами. Однако, при недобросовестной работе подобные фразы в документах приводят к тому, что ненадёжные исполнители начинают требовать принятия изменений по факту. Поэтому подобные фразы должны исключаться из документов.|
-|**33**|**Закон Мерфи и его вариации.**<br> Если что‑то может пойти не так, то оно обязательно пойдёт не так. Если что‑то могут понять не так, то обязательно поймут не так. Если были предусмотрены 4 варианта неполадок и они были устранены, то обязательно появится пятый вариант.|
+| |*Name*|*Description*|
+|:--|:--|:--|
+|1|**Implement an additional system for the same task**|<small>Leads to overhead & errors when rewriting from one to another.</small>|
+|2|**Stupidity**|<small>“There are 2 infinities — the Universe & human stupidity. I’m not sure about the universe. ”</small>|
+|3|**Game “to get in the ass & get out of it heroically”**|<small>Classic. Make the wrong decision, & then clean up the consequences with sweat & blood.</small>|
+|4|**Change what works without learning why it was done this way**|<small>Leads to breakdowns / complications — often what looks awkward, but was done by smart people, was done that way with a reason. The Chernobyl nuclear power plant burned down precisely because of this.</small>|
+|5|**Small amount of time**|<small>“Fast, high quality, cheap — choose any 2”. They often choose “fast, cheap”.</small>|
+|6|**Non‑working atmosphere**|<small>Nerves, pressure, noise, calls, etc. distract, confuse thoughts, reduce concentration.</small>|
+|7|**Transfer of information by words. [Agreement](contract.md) in words**|<small>When a person speaks, & does not write on paper & does not sign, then the [end‑to‑end information path](etedp.md) looks something like this: *“What I thought → What I felt → What I said → What I decided about what I said → What my opponent heard → What he/she understood → What he/she remembered”*; distortion of information is possible in each transition. In the human brain there is a “center of criticism” through which incoming information passes, but not outgoing information. That. a person can say not what he wants, & the opponent can perceive not what he hears. Write protocols & sign them on the spot.</small>|
+|8|**Disconnection from the process, frequent switching between processes**|<small>…</small>|
+|9|**Make sequential processes parallel**|<small>In common leads to a lot of risks & overhead. The whole system can fail at once because of one small piece.</small>|
+|10|**Survivor Bias**|<small>*(rus. Систематическая ошибка выжившего)* is a type of selection bias, when there is a lot of data on one group (“survivors”), & practically none on the other (“dead”). So researchers try to look for similarities among the “survivors” & lose sight of the fact that equally important information is hidden among the “dead”. **Examples:**<br> ➀ In WW2, mathematician A. Wald from the New York SRG laboratory was instructed to find a solution to the problem: not all US bombers returned, & there were many holes on the returning ones, but they were unevenly distributed: many on the fuselage, fewer in the fuel system, & few — in the engine. So, more armor is needed in the holes? Wald replied: no, this shows that an aircraft with holes in these places can return. An aircraft that has been hit with an engine or gas tank will not be returned. Because hits in the 1st approximation are evenly distributed, it’s necessary to strengthen the places that the returnees have the most “clean”.<br> ➁ There is also an opinion about the kindness of dolphins, based on the stories of swimmers who were pushed by animals to the shore, but there is no data from those who were pushed in the opposite direction.<br> ➂ Labor safety research is complicated by the fact that workers who are not adapted to harmful conditions quickly leave (the so‑called healthy worker effect).</small>|
+|11|**[Meetings](meeting.md) with a quick decision**|<small>Often, in meetings, decisions are made quickly without a detailed immersion in the issue. Subsequently, you have to spend resources on correcting the consequences of these decisions.</small>|
+|12|**Single‑handed decision making**|<small>There are always those who (not)deliberately distort the facts in their personal interests. Therefore there is a scientific approach & peer review, & therefore consensus is important.</small>|
+|13|**(Not)consider everyone around as idiots**|<small>…</small>|
+|14|**Arphagraphy, gramar**|<small>Well, where can we go without them. MS Word can, of course, check something, but still check the document yourself. Also read fiction, improve your own literacy. </small>|
+|15|**A cursory reading of the documents**|<small>The devil is in the details, & in a hurry you can’t see the details. And sometimes it happens that there is almost no water in the document, which can be skipped, & the written words are written for a reason.</small>|
+|16|**Duplication of information**|<small>If some information (composition, dimensions, mass, etc.) is indicated in more than one place, then during corrections it’s often corrected in one place, & in others it’s forgotten.</small>|
+|17|**Do not do your job**|<small>[Do not do their work for others❐](f/doc/20191106_1.pdf).</small>|
+|18|**Superfluous information**|<small>We write technical documentation, which, firstly, is read by managers & generals who do not understand technology, & secondly, by technical specialists, who then use it to sharpen glands & carry out assembly. Therefore, there’s no need to spread thoughts along the tree — write briefly, clearly & to the point, follow the principle of [Oссams razor](dont_panic.md).</small>|
+|19|**Using both [SI](si.md) & non‑SI units**|<small>Often, when converting one dimension to another, a size error will be made.</small>|
+|20|**Mythical “generally known information”**|<small>What is known to everyone today may lose its relevance tomorrow. Therefore, try to refer (and it’s better to cite in the text) to generally accepted systems, constants, calculations, so that in 2, 10, 30 years you can understand how it all works & why. Some also think g = 10.</small>|
+|21|**Violation of alphabetical order**|<small>When compiling lists of jobs, documents, employees, etc., there is a desire to sort them in non‑alphabetical order (by importance, significance, stages, etc.). This leads to the fact that, after agreeing on the document with the author of such a procedure, it’s required to explain this procedure to everyone who agrees later. And then everyone forgets the meaning of this logic & spends time looking for the right item. Alphabetical order is good for its speed & impartiality.</small>|
+|22|**Lack of numbers for documents**|<small>“Mustache, paws & tail” of any document is the name, number & signatures. There can be many documents with this name, documents with the same name & number — only one.</small>|
+|23|**Absence of an explicit choice**|<small>The choice should be spelled out clearly: “based on the results of the given study, named matters were chosen”. No conventions, proposals, references like “well, we wrote one thing in the conclusions, but in the footnotes on the hundredth page it’s written in small print that the conclusions should not be trusted.”</small>|
+|24|**Different names of the same matter**|<small>Often, within the framework of one document/project, devices are called either by name, then by name with a prefix, then by index, then by everyday name, then somehow else. This raises questions — is it really the same device? Sometimes this is not the case & we are talking about different ones. The same applies to the names of documents, organizations, places, stages, etc.</small>|
+|25|**Links to non‑public documentation**|<small>If there is a link to non‑public documentation (internal orders, letters, materials of other R&D, etc.), then they should be attached. There is no guarantee that they will be available to the Customer, & even more so when checked by the prosecutor in a couple of years.</small>|
+|26|**History does not tolerate the subjunctive mood**|<small>When evaluating history, it’s wrong to say something like: “If Macedonian did not reach India, then…” history went the way it went, & the rest is unfounded speculation.</small>|
+|27|**One fool can confuse a thousand wise people**|<small>The owner “doesn’t have to know all the technical details” & for him it’s necessary to explain that such an employee generates nonsense, for this it’s necessary to spend a lot of expensive time chewing on where these ideas are untenable. The owner sees “an employee who is actively trying to solve problems”. It ends with the fact that everyone gets tired & starts to implement this nonsense, in parallel, employees often appear at interviews with other employers. After a generation of employees has changed, the business of such an enterprise resembles a bicycle bed, which “the grave will fix” or a very robust investment in putting things in order, & then the grave.</small>|
+|28|**The judge & the prosecutor rolled into one**|<small>Equals should discuss/decide, a third party should judge, unless the equals agree.</small>|
+|29|**Implicit/ nclear expressions & judgments**|<small>A person should not be attached to the document. Everything should be: written clearly, all numbers are available, links on the spot, etc.</small>|
+|30|**Figures without scatter**|<small>It’s usually considered that a number (dimensions, electricity, mass, etc.) is the worst boundary, i.e. there will be no worse value. But sometimes, in case of unscrupulous/negligent work, the performers consider the indicated figure to be the face value & subsequently give tolerances for it. Demand immediately either to write tolerances, or to indicate in words that the number is the limit.</small>|
+|31|**Pointing that something can be specified later**|<small>R&D process means that any document or unit at any stage can be specified. Actually, this is the principle of R&D — clarification through iterations, & then coordination of clarifications with stakeholders. However, in case of unfair work, such phrases in the documents lead to the fact that unreliable performers begin to demand the adoption of changes in fact. Therefore, such phrases shall be excluded from documents.</small>|
+|32|**Murphy’s Law & its variations**|<small>If something can go wrong, it will definitely go wrong. If something can be misunderstood, then they will definitely misunderstand. If 4 variants of malfunctions were envisaged & they were eliminated, then the 5th option will certainly appear.</small>|
+|33|**(Not‑to)doubt anything**|<small>…</small>|
+|34|**Not to use upper/lower UTF characters**|<small>Often, when copying from document to document, superscripts & subscripts (which were obtained by lifting numbers/letters using tags) are lost, and, say, 10⁴ ㎩ turn at 104 ㎩. And it happens the other way around, when 104 ㎩ is mistaken for a mistake & is regarded as 10 ㎪.</small>|
 
 
 
 <p style="page-break-after:always"> </p>
 
-## Метрология
-   - Можно применять только единицы СИ; в скобках можно указывать не‑СИ.
-   - Можно применять международные или русские обозначения, но не одновременно.
-   - Нельзя сокращать обозначения величин, если они употребляются без цифр, кроме величин в головах и боковиках таблиц и в расшифровках буквенных обозначений, входящих в формулы и рисунки.
-   - Недопустимо отделять название от цифры (переносить их на разные строки/страницы).
-   - В тексте документа, за исключением формул, таблиц, рисунков, не допускается:
-      - применять знак «−» (следует писать словом минус);
-      - применять знак «⌀» (следует писать словом диаметр);
-      - применять без числовых значений матем. знаки, например, \>, \< , =, ≤, ≥, ≠, №, %.
-   - В соотв. с ГОСТ 2.105 п. 4.2.3 в документе не допускается:
-      - применять обороты разговорной речи, техницизмы, профессионализмы;
-      - применять для одного и того же понятия различные близкие по смыслу термины, иностранные термины при наличии равнозначных терминов в русском языке;
-      - применять произвольные словообразования;
-      - применять сокращения слов, кроме установленных правилами орфографии, соответствующими государственными стандартами.
+## Metrology
+
+   - **Allowed:**
+      - use only SI units; non‑SI may be indicated in brackets;
+      - use international or national designations, but not simultaneously;
+      - apply decreasing indices up to 10⁻³ inclusive (㎝, ㎜, ㎳, ㎃, etc.), then — only numbers;
+      - apply from 10⁻¹ from 10⁻⁶ inclusive zeros after the decimal point, then — only powers of ten;
+      - apply increasing indices up to 10⁹ (㎞, ㎆, ㎬), then — only the power of ten;
+   - **Forbidden:**
+      - abbreviate the designations of quantities, if they are used without numbers, except for quantities in the heads and sides of tables and in the decoding of letter designations included in formulas and figures. (**ignored in this DB**)
+      - to separate the name from the number (or transfer them to different lines/pages).
+      - apply turns of colloquial speech, technicalism, professionalism; (**ignored in this DB**)
+      - to apply for the same concept various terms close to the meaning, foreign terms in the presence of equivalent terms in the national language;
+      - apply arbitrary word formations;
+      - apply abbreviations of words, except for those established by the spelling rules, the corresponding state standards;
+      - In the text of the document, with the exception of formulas, tables, figures:
+         - use the “−” sign (should be written with the word minus); (**ignored in this DB**)
+         - use the “⌀” sign (should be written with the word diameter); (**ignored in this DB**)
+         - apply without numerical values ​​mat. signs, for example, \>, \ <, =, ≤, ≥, ≠, №, %. (**ignored in this DB**)
+
+
+<u><big>**RU**</big></u>
 
 **Размерности**
 
@@ -97,7 +104,7 @@
 |К|°К| |
 |°/с или угловой градус в секунду|град/с| |
 |°/ч|град/час| |
-|Па (kgf/㎝²)|kgf/㎝²; кГс/㎝²; kg/㎝²| |
+|Па (kgf/㎝²)|kgf/㎝²; кГс/㎝²; ㎏/㎝²| |
 |Ом|Ом∙м| |
 |Гр или Гр (рад)|рад| |
 |Дж|дж| |
@@ -112,7 +119,7 @@
 |бит<br> Б, байт<br> кбит<br> Кбайт|б<br> бт<br> Кбит<br> кбайт| |
 |При нормальных условиях  m³|нm³| |
 |Lр (исх. 20 м㎪) = 20 дБ или<br> 20 дБ (исх. 20 м㎪)<br> Не более 80 дБ (исх. 1 мкА)<br> Не менее 120 дБ (исх. 1 мкВ/м)|Не более 80 дБ мкА<br> Не менее 120 дБ мкВ/м|<small>Пример обозначения уровня звукового давления. Необходимо указывать исходную величину, её значение помещают в скобках  за обозначением<br> логарифмической величины. При краткой форме записи значение исходной величины указывают в скобках за значением уровня.</small>|
-|100 кВт<br> 80 %<br> 20 ℃<br> 10 Ом<br> 20°<br> 1220×740 мм<br> 5,758°|100кВт<br> 80 %<br> 20℃<br> 10Ом<br> 20 °<br> 1220×740мм<br> 5°758| |
+|100 ㎸т<br> 80 %<br> 20 ℃<br> 10 Ом<br> 20°<br> 1220×740 ㎜<br> 5,758°|100кВт<br> 80 %<br> 20℃<br> 10Ом<br> 20 °<br> 1220×740мм<br> 5°758| |
 |㎪∙с/м|Па∙кс/м| |
 |v = 3,6 s/t,<br> где v – скорость,км/ч;<br> s – путь, м;<br> t – время, с|v = 3,6 s/t км/ч,<br> где  s – путь, м;<br> t – время, с| |
 |Вт/(м∙К)|Вт/м∙К| |
@@ -121,8 +128,8 @@
 |80 км/ч<br> 80 километров в час|80 км/час<br> 80 км в час| |
 |Провести испытания пяти труб, каждая длиной 5 м.<br> Отобрать 15 труб для испытания на давление.|Провести испытания 5‑ти труб, каждая длиной 5 м.|<small>Числовые значения величин с обозначением единиц величин и единиц счёта следует писать цифрами, а числа без обозначения единиц величин и единиц счёта от единицы до девяти – словами.</small>|
 |1,50; 1,75; 2,00 м|1,50 м; 1,75 м; 2,00 м| |
-|Диаметр крепёжных отверстий прибора должен соответствовать М 4 (4,5 ㎜)|Диаметр креп!жных отверстий прибора должен соответствовать М 4 (⌀ 4,5)| |
-|От 1 до 5 мм<br> От 10 до 100 кг<br> От плюс 10 до минус 40 ℃<br> От 8454,3 до 8464,3 ㎒|От 1 ㎜ до 5 ㎜<br> 10 … 100 ㎏<br> +10 ‑ −40 ℃<br> (8459,3 ± 5,0) ㎒| |
+|Диаметр крепёжных отверстий прибора должен соответствовать М 4 (4,5 ㎜)|Диаметр крепёжных отверстий прибора должен соответствовать М 4 (⌀ 4,5)| |
+|От 1 до 5 ㎜<br> От 10 до 100 кг<br> От плюс 10 до минус 40 ℃<br> От 8454,3 до 8464,3 ㎒|От 1 ㎜ до 5 ㎜<br> 10 … 100 ㎏<br> +10 ‑ −40 ℃<br> (8459,3 ± 5,0) ㎒| |
 |Не более (если допустимы все значения меньше указанного значения).<br> Не менее (если допустимы все значения больше указанного значения).<br> Знак «±» не ставят перед не более, ≥|Больше, ниже, выше, меньше, хуже.<br> Не более ± 5 ℃.<br> Не менее ± 5 ℃| |
 |Шероховатость поверхности.<br> Rₐ = 0,63 мкм<br> R<sub>z</sub>= 0,63 мкм|Чистота поверхности не хуже √ 0,63| |
 |1,22∙10⁴|1,22Е+04| |
@@ -155,7 +162,7 @@
 |Средство измерений или измерительный прибор|Для измерения применялось средство контроля|
 |Стандартный образец или измерительный прибор|Эталонная деталь|
 |Нормальные климатические условия с указанием конкретных значений величин|Комнатная температура|
-|Значение пусковой силы тока бортовой аппаратуры должна не превышать полуторократного номинального значения силы тока (указать значение или заменить термин номинального тока на потребляемый ток) электропотребления на время до 50 мс.|Величина пускового тока бортовой аппаратуры не должна превышать полуторократного значения номинального тока электро&shy;потребления на время до 50 мс.|
+|Значение пусковой силы тока бортовой аппаратуры должна не превышать полуторократного номинального значения силы тока (указать значение или заменить термин номинального тока на потребляемый ток) электропотребления на время до 50 ㎳.|Величина пускового тока бортовой аппаратуры не должна превышать полуторократного значения номинального тока электро&shy;потребления на время до 50 ㎳.|
 |Увеличение силы электрического тока до 23,5 А|Увеличение тока до 23,5 А|
 |Значение силы электрического тока|Величина тока|
 |Значение атмосферного давления 8,6∙10⁴ ㎩ (645 ㎜ рт. ст.)|Величина атмосферного давления 645 ㎜ рт. ст.|
@@ -168,20 +175,28 @@
 
 <p style="page-break-after:always"> </p>
 
-## Систематическая ошибка выжившего
-**Системати́ческая оши́бка вы́жившего** (англ. **survivorship bias**) — разновидность систематической ошибки отбора, когда по одной группе («выжившим») есть много данных, а по другой («погибшим») — практически нет. Так что исследователи пытаются искать общие черты среди «выживших» и упускают из вида, что не менее важная информация скрывается среди «погибших».
+## Common paths
 
-**Примеры:**
+### №1 A device broke down before the launch
 
-   1. В WW2 математику А. Вальду из нью‑йоркской лаборатории SRG поручили найти решение задачи: не все бомбардировщики США возвращались, а на вернувшихся было много пробоин, но распределены они были неравномерно: много — на фюзеляже, меньше — в топливной системе и мало — в двигателе. Значит, в пробитых местах нужно больше брони?: Вальд ответил: нет, исследование как раз показывает, что самолёт с пробоинами в этих местах может вернуться. Самолёт, которому попали в двигатель или бензобак, не возвращается. Т.к. попадания в первом приближении распределены равномерно, укреплять надо места, которые у вернувшихся наиболее «чистые».
-   1. Также известно мнение о доброте дельфинов, основанное на рассказах пловцов, которых животные толкали к берегу, но нет данных от тех, кого толкали в обратном направлении.
-   1. Исследования по охране труда осложняются тем, что не приспособленные к вредным условиям рабочие быстро увольняются (так называемый эффект здорового рабочего).
+**Situation.** A device can no longer be used, but you still have some time before the launch (broke, did not pass the tests, is no longer produced, etc.).
+
+**Solution.**
+
+As usual, you need to balance resources (equipment, money, people, time, etc.). Typical solutions look like this (to choose any or a combination of them):
+
+   1. Repair the device.
+   1. Buy a new one, the same (but working) device.
+   1. Buy a device with similar characteristics, modify the SC & the mission in minor terms.
+   1. Adapt the device, SC & mission, albeit with some deterioration.
+   1. Buy a device that is not very close in characteristics, modify the SC & the mission.
+   1. Create a device or order it on the side, taking additional risks & quickly going through the stages of R&D.
 
 
 
 <p style="page-break-after:always"> </p>
 
-## Docs & links (TRANSLATEME ALREADY)
+## Docs & links
 |Navigation|
 |:--|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|

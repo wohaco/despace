@@ -34,7 +34,7 @@
 
 | | |
 |:--|:--|
-|[![](f/rnd/cycle_of_research_and_development_svg_wikipedia_thumb.jpg)](f/rnd/cycle_of_research_and_development_svg_wikipedia.png)|[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.jpg)](f/rnd/reviews_in_nasa_projects_lifecycle.png)|
+|[![](f/rnd/cycle_of_research_and_development_svg_wikipedia_thumb.jpg)](f/rnd/cycle_of_research_and_development_svg_wikipedia.png)|[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.jpg)](f/rnd/reviews_in_nasa_projects_lifecycle.jpg)|
 
 
 

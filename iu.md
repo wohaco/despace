@@ -29,13 +29,13 @@
 
 
 
-|*Страна*|*[Фирма](contact.md)*|*Актуальные (масса, ㎏)*|*Исторические (масса, ㎏)*|
+| |*[Фирма](contact.md)*|*Актуальные (масса, ㎏)*|*Исторические (масса, ㎏)*|
 |:--|:--|:--|:--|
-|*Европа*|[ADS](zz_ads.md)|[Astrix 1090](astrix_1090.md) (4.8)| |
-|*Россия*|[НПП Антарес](zz_npp_antares.md)|[ИУС-ВОА](ius_voa.md) (15.1)・ [БИУС-М](bius_m.md) (5.1)| |
+|**EU**|[ADS](zz_ads.md)|[Astrix 1090](astrix_1090.md) (4.8)| |
+|**RU**|[НПП Антарес](zz_npp_antares.md)|[ИУС-ВОА](ius_voa.md) (15.1)・ [БИУС-М](bius_m.md) (5.1)| |
 | |[НПО ИТ](zz_npoit.md)|[БИБ-ФГ](bib_fg.md) (1.36)・ [МБИНС](mbins.md) (1.34)|[БИБ-ИГ](bib_ig.md) (3.6)|
 | |[НПЦАП](zz_npcap.md)|[БИУС-Л](bius_l.md) (10)| |
-|*США*|[Northrop Grumman](zz_northrop_grumman.md)|[LN-200](ln_200.md) (1.25)| |
+|**US**|[Northrop Grumman](zz_northrop_grumman.md)|[LN-200](ln_200.md) (1.25)| |
 
 **Производители**
 

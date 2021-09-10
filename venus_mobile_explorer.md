@@ -181,7 +181,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
 **Table.** Mass Breakdown <mark>(there are unclear mistakes in masses, but still these are masses from the original report)</mark>
 
-|*Component*|*CBE, kg*|*Allow, %*|*Max Mass, kg*|
+|*Component*|*CBE, ㎏*|*Allow, %*|*Max Mass, ㎏*|
 |:--|:--|:--|:--|
 |Spacecraft (carrier) Wet|1 212|21|1 470|
 |░╟ Spacecraft (carrier)|846|30|1 100|

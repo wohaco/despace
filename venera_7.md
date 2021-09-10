@@ -16,7 +16,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|Travel 120 days, lander 23 minutes|
 |Launch|17 August 1970, 05:38:22 UTC, Rocket Molniya 8K78M|

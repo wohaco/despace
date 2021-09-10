@@ -307,7 +307,7 @@ Surface Geology and Geophysics:
 
 <small>
 
-|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, мм*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |1 ☑|FS|Thermal IR Fourier transform spectrometer.<br>Spectrum 250 to 2 000 ㎝⁻¹<br>λ = от 5 to 40 μm,,<br>Δν =1 ㎝⁻¹<br>1 s/spectrum, whole mission|400х300х200|15|15|2.197|H|6 to 7|3| |
 |2 ☑|UV mapping spectrometer|Imaging UV spectrometer.<br>λ = 190 to 490 nm,,<br>Δλ = 0.3 nm,,<br>continuous imaging during mission, ~1 s/image|150х150х200|3|4|17.578|H|от 4 до 7|?:| |
@@ -332,7 +332,7 @@ Surface Geology and Geophysics:
 
 <small>
 
-|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, мм*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |1|XRD/XRF|Elemental composition|275×162×190|5|30|<0.098 ㎆/sample|H|5|?:|Sample volume required is 50 to 200 mg of <150 μm grain size. Ingested sample required|
 |2 ☑|Mössbauer spectrometer|Backscattering Spectrum of Mössbauer radiation. Mineralogy of Fe-containing rocks, oxidation state of iron, analysis of rock-forming elements. Bulk chemical composition|40×40×100|0.5|3|0.146 ㎆/sample|H|7|3|Detector cooling and integration time requirements may make this instrument infeasible for this lander concept. Distance to sample as close as possible (in the range 1 to 2 ㎝, or closer), if possible even mechanical contact (but not required). Pressure: high vacuum (10 to 6 bar) to several bar; temperature: (a) operating: -100 ℃ to about +30/+40 ℃; (b) nonoperational: –100 ℃ to +70/+90 ℃. Ingested sample required. Sample volume required is TBD|
@@ -357,7 +357,7 @@ The table below shows the additional modules that are being offered to expand th
 |Secondary sub-satellite L1 ([EVN‑056](venus.md))|Enables more complete study of orbiter Goal 1, 2, 3, and 5.|Complete continuous trace of the conditions upstream of the solar wind flow (via subsatellite), enabling high cadence two-point measurement of solar wind interaction based on daily in situ ionospheric processes observed from main orbiter at periapsis through lifetime of mission ([EVN‑097](venus.md)).<br>Complete continuous trace of full disk (=12-hr LST) day side atmosphere radiance through lifetime of mission at or near zero phase, tracing evolution of cloud top albedo (cloud opacity), allows self-calibration of main orbiter observations ([EVN‑080](venus.md)).<br>Complete high cadence radio occultation measurements of T over broad range of latitudes.<br>Sub-satellite at L1 can provide additional measurements for the Orbiter, as well as provide almost complete continuous radio visibility of the day side of Venus, thereby maintaining communication with potential long-lived stations on the surface and in the atmosphere of the day side of the planet, acting as a communications relay ([EVN‑092](venus.md)). This will significantly increase the amount of data collected, because in situ platforms are not expected to be able to store data. Thus, data collection is only possible if there is a communication channel. The period of active operation is about 3 years.|**3**|While subsatellites and small orbiters are common and seen as low relative technical risk, getting them to Venus L1 or L2 locations has not been done before and, depending on the scale of the subsatellites and the distance, propulsion and communication systems may need developed beyond what is available today. Therefore, relative readiness is deemed moderate.|Medium|
 |Secondary sub-satellite L2 ([EVN‑056](venus.md))|Enables more complete study of orbiter Goal 1, 2, 3, and 5.|Complete continuous trace of the conditions upstream of the solar wind flow (via subsatellite), enabling high cadence two-point measurement of solar wind interaction based on daily in situ ionospheric processes observed from main orbiter at periapsis through lifetime of mission ([EVN‑097](venus.md)).<br>Complete continuous trace of full disk (=12-hr LST) night side atmosphere radiance through lifetime of mission at or near zero phase, tracing evolution of atmospheric radiative properties (cloud opacity).<br>Complete high cadence radio occultation measurements of T over broad range of latitudes.<br>Sub-satellite at the L2 point can provide additional measurements for the Orbiter, as well as provide almost complete continuous radio visibility of the night side of Venus, thereby maintaining communication with potential long-lived stations on the surface and in the atmosphere of the night side of the planet, acting as a communications relay ([EVN‑092](venus.md)). This will significantly increase the amount of data collected, because in situ platforms are not expected to be able to store data. Thus, data collection is only possible if there is a communication channel. The period of active operation is about 3 years.|**4**|While subsatellites and small orbiters are common and seen as low relative technical risk, getting them to Venus L1 or L2 locations has not been done before and, depending on the scale of the subsatellites and the distance, propulsion and communication systems may need developed beyond what is available today. Therefore, relative readiness is deemed moderate.|Medium|
 |Secondary sub-satellite on elongated, elliptical orbit|Enables more complete study of orbiter Goal 5.|Complete periodic two-point measurement of solar wind interaction, tracing in situ ionospheric processes and upstream solar wind conditions (only accessible from second satellite). The period of active operation is about 3 years.|**5**|—|Medium|
-|[LLISSE](llisse.md) — Long-Lived In-Situ Solar System Explorer. The first LLISSE is currently part of the Venera-D base mission. This table describes **the potential contribution of the second LLISSE**.|Enables a more complete study of lander + LLISSE Goals 1, 2, 5, and 6; and orbiter Goal 1.|LLISSE probes are small and lightweight (10 kg, ~200 mm)but will function on the surface of Venus for 90 days or longer ([EVN‑069](venus.md)). The LLISSE project includes the design and development of two probes (battery and wind powered). The key goals of LLISSE and its long-duration measurements are to increase our knowledge of superrotation of the atmosphere ([EVN‑034](venus.md)), the climate and its evolution ([EVN‑095](venus.md)), monitoring of boundary conditions: the interaction between the surface and the atmosphere by taking measurements of wind speed and direction, temperature, pressure, incident and reflected solar radiance ([EVN‑041](venus.md)), and abundance of local selected atmospheric chemical species, morphology of rocks ([EVN‑044](venus.md)). These periodic measurements (assumed to be every 8 hr) would occur over 60 days, covering at least one terminator. The Lander takes LLISSE to the surface of the planet, while the Orbiter serves as a relay.|**6**|Almost all of the sensors have demonstrated their performance on the surface of Venus.|High|
+|[LLISSE](llisse.md) — Long-Lived In-Situ Solar System Explorer. The first LLISSE is currently part of the Venera-D base mission. This table describes **the potential contribution of the second LLISSE**.|Enables a more complete study of lander + LLISSE Goals 1, 2, 5, and 6; and orbiter Goal 1.|LLISSE probes are small and lightweight (10 ㎏, ~200 mm)but will function on the surface of Venus for 90 days or longer ([EVN‑069](venus.md)). The LLISSE project includes the design and development of two probes (battery and wind powered). The key goals of LLISSE and its long-duration measurements are to increase our knowledge of superrotation of the atmosphere ([EVN‑034](venus.md)), the climate and its evolution ([EVN‑095](venus.md)), monitoring of boundary conditions: the interaction between the surface and the atmosphere by taking measurements of wind speed and direction, temperature, pressure, incident and reflected solar radiance ([EVN‑041](venus.md)), and abundance of local selected atmospheric chemical species, morphology of rocks ([EVN‑044](venus.md)). These periodic measurements (assumed to be every 8 hr) would occur over 60 days, covering at least one terminator. The Lander takes LLISSE to the surface of the planet, while the Orbiter serves as a relay.|**6**|Almost all of the sensors have demonstrated their performance on the surface of Venus.|High|
 
 </small>
 
@@ -366,7 +366,7 @@ The table below shows the additional modules that are being offered to expand th
 
 <small>
 
-|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, мм*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |☑|METEO|Temperature, pressure, radiance, and wind speed and direction sensors|Fits on 200 ㎜ station|<0.2|—|—|H|4 to 5|5|TRL driven by radiance sensing|
 |☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 200 ㎜ station|<0.2|—|—|H|5|3| |
@@ -377,7 +377,7 @@ The table below shows the additional modules that are being offered to expand th
 
 <small>
 
-|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, мм*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |☑|METEO|Temperature, pressure, radiance, and wind speed and direction sensors|Fits on 200 ㎜ station|<0.2|—|—|H|4 to 5|5|TRL driven by radiance sensing|
 |☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 200 ㎜ station|<0.2|—|—|H|5|3| |
@@ -390,7 +390,7 @@ The table below shows the additional modules that are being offered to expand th
 
 <small>
 
-|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, мм*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |1 ☑|METEO package (sensors)|Meteorological instruments (T — temperature, P — pressure, W — wind direction, W' — wind speed, dT — temperature gradient, E — illumination, ω — speed of angular rotation, H — altitude)|1 dm³|0.5|2.5|0.14 KB/measurement|H|2 to 7|3| |
 |2 ☑|Raman|Raman, possibly in combination with LIDAR. Atmospheric aerosols, molecular species (e.g., H₂SO₄, SO₂, H₂S, CO₂).|304.8×304.8×254|8|80|31 500|H|5|3| |
@@ -406,7 +406,7 @@ The table below shows the additional modules that are being offered to expand th
 
 <small>
 
-|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, мм*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |1 ☑|Panoramic energy massanalyzer of ions|Panoramic ion energy-mass analyzer with energy range from 50 eV to 5 keV. Ion distribution function and ion mass composition in nearly 2π FOV|140×156×156|2.5|4|1.758|M|6 to 7|1 to 3|2π FOV should be directed to the Sun and should not be blocked|
 |2 ☑|ELSPEC|Fast electron energy analyzer with energy range 10 eV to 10 keV. Electron distribution function|114×120×165|2|2.5|1.758|M|3|1 to 3|FOV should be directed to 90° of the Sun|
@@ -489,7 +489,7 @@ In the future, the concept of VAMP was refused.
 
 <small>
 
-|*Complex/system*|*Mass, kg*|*Mass, kg (for the worst conditions)*|
+|*Complex/system*|*Mass, ㎏*|*Mass, ㎏ (for the worst conditions)*|
 |:--|:--|:--|
 |**1. Orbiter**|4 650|4 450|
 |1.1 Orbiter dry mass|990|990|
@@ -559,7 +559,7 @@ Solar sensors and star trackers, gyroscopes, and momentum wheels are used to ori
 
 For generation of thrust impulses during active maneuvers and creation of the control momentum around the three axes of the spacecraft, a two-component liquid-propellant unit.
 
-Fuel storage uses four tanks with an outer diameter of 1 000 ㎜ each and a total four-tank fuel and oxidizer capacity of 2 100 kg.
+Fuel storage uses four tanks with an outer diameter of 1 000 ㎜ each and a total four-tank fuel and oxidizer capacity of 2 100 ㎏.
 
 Orbiter uses one main thruster of 4 706 N of thrust and average specific impulse of 319 s to generate braking and correction impulses; eight thrusters of 98 N each and average specific impulse 302 s for correction impulses, orbit corrections, rough orientation, and stabilization; four thrusters of 6 N each and average specific impulse 207 s for precise orientation and stabilization.
 

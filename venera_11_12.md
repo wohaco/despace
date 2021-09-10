@@ -17,7 +17,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 11:** Travel: 3 months and 16 days, Lander: 95 minutes<br> **Venera 12:** Travel: 3 months and 6 days, Lander: 110 minutes|
 |Launch|**Venera 11:** September 9, 1978, 03:25:39 UTC<br> **Venera 12:** 14 September 1978, 02:25:13 UTC<br>Rocket: Proton-K/D-1 8K82K|

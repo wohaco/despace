@@ -11,7 +11,7 @@ A **conceptual model** is a representation of a system, made of the composition 
 
 Conceptual model may refer to models which are formed after a conceptualization or generalization process. Conceptual models are often abstractions of things in the real world, whether physical or social. Semantic studies are relevant to various stages of concept formation. Semantics is basically about concepts, the meaning that thinking beings give to various elements of their experience.
 
-**Концептуа́льная моде́ль** — это модель, представленная множеством понятий и связей между ними, определяющих смысловую структуру рассматриваемой предметной области или её конкретного объекта.
+**Концептуа́льная моде́ль** — это модель, представленная множеством понятий и связей между ними, определяющих смысловую структуру рассматриваемой предметной области или её конкретного объекта.
 
 Концептуальная модель — модель предметной области, состоящей из перечня взаимосвязанных понятий, используемых для описания этой области, вместе со свойствами и характеристиками, классификацией этих понятий, по типам, ситуациям, признакам в данной области и законов протекания процессов в ней.
 

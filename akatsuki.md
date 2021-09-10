@@ -132,7 +132,7 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 
 **Spacecraft** is a cube of 1.45 × 1.04 × 1.44 m.
 
-|*Complex/system*|*Mass, kg*|*Comments*|
+|*Complex/system*|*Mass, ㎏*|*Comments*|
 |:--|:--|:--|
 |1. Spacecraft|284.9|<mark>TBD</mark>|
 |·· Accelerometers|··|<mark>TBD</mark>|

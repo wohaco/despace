@@ -10,15 +10,21 @@
 **Универсальная малогабаритная радиотелеметрическая система (УМРТС) «Астра»** — [телеметрическая система](tms.md) (ТМС) — совокупность устройств, обеспечивающих сбор сигналов со средств первичного преобразования, формирование телеметрических сигналов, передачу их по каналу связи, регистрацию и отображение телеметрических сообщений на приёмной стороне.  
 *Разработчик:* [НПО ИТ](zz_npoit.md). Разработано  …
 
-| |
-|:--|
-|[![](f/tms/a/astra_pic1_thumb.jpg)](f/tms/a/astra_pic1.png)|
-
-<small>
-
-|*Характеристика*|*Значение*|
+|*Characteristics*|*[Value](si.md)<br> (Astra)*|
 |:--|:--|
-|Исполнение|Моноблок из [слайсов](слайс.md)|
+|Composition|Моноблок из [слайсов](слайс.md)|
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)|RS‑485|
+|[Lifetime](lifetime.md)/Resource, h(y)| |
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)| |
+|[Voltage](voltage.md), V| |
+|**【Specific】**|• • •|
 |Кол‑во входов информации|—|
 |<small> ・аналоговых генераторных милливольтового диапазона (термопар) и параметрических (термометров сопротивления)</small>| |
 |<small> ・аналоговых генераторных с напряжением положительной полярности</small>| |
@@ -30,32 +36,12 @@
 |Кол‑во разовых команд| |
 |Объём памяти, кбайт| |
 |Скорость, кбит/с|… — записи;<br> … — НП|
-|**`Прочее`**| |
-|[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|Dimensions, ㎜| |
-|[Interfaces](interface.md)|RS‑485|
-|Mass, ㎏| |
-|[Voltage](voltage.md), V| |
-|[Overload](vibration.md), Grms| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Lifetime](lifetime.md)/Resource, h(y)| |
-|[Thermal range](tcs.md), ℃| |
-|[TRL](trl.md)| |
-|Consumption, W| |
+| |[![](f/tms/a/astra_pic1_thumb.jpg)](f/tms/a/astra_pic1.png)|
 
-</small>
+**Примечания:**
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Примечания
    1. …
-
-
-
-## Применяемость
-   1. …
+   1. **Применяемость:** …
 
 
 

@@ -28,6 +28,18 @@
    - [NFPA 704](nfpa_704.md)
    - [Класс опасности](danger_goods.md)
 
+SC and OE must meet the safety requirements for avoiding the hazards listed in the table below:
+
+|*Danger*|*What caused*|
+|:--|:--|
+|**Electrical**|➀ Work with electrical equipment during testing;<br> ➁ Static electricity;<br> ➂ Supply voltage of the SC|
+|**Electro-<br>magnetic**|➀ The presence of radio transmitting and emitting devices in the composition of:<br> ・ground control facilities of the cosmodrome, as well as ground segment SUIs;<br> ・launch vehicles;<br> ・SC — radio transmitting devices of given ranges|
+|**Explosion hazard**|➀ The following are considered as potential sources of explosion hazard:<br> ・UDMH — capable of forming explosive mixtures with air; concentration limits of ignition with air: lower — 3 % of the volume, upper — 84 %;<br> ・pyrotechnic SUIs in the SC and LV;<br> ・the presence of high pressure systems (≥ 5·10¹⁴ ㎩) in the propulsion system of SC and LV;<br> ・process of filling SC and LV with compressed gases and fuel; <br> ・availability of high pressure systems (≥ 5·10¹⁴ ㎩) as part of filling and pneumatic equipment; <br> ・presence of electric batteries as part of the SC and the last stage of the LV — hazardous substances of I‑IV hazard categories (lithium cobalt, which is the active substance of the positive electrode, lithium hexafluorophosphate is a salt in the electrolyte)|
+|**Fire hazard**|➀ Using the fuel:<br> ・UDMH — self‑igniting poisonous liquid;<br> ・a large amount of heat and abundant vaporization occurs during water in nitric tetraxide; the spilling of the oxidizer is able to cause a fire;<br> ・liquid oxygen is not toxic, not flammable, does not explode, however, being a strong oxidizing agent, dramatically increases the ability of other materials to burning.<br> ➁ The greatest danger represent cases of leakage of fuel‑containing elements of refueling systems, leading To the straits, accumulation of fuel vapor and, as a result, accumulating fire‑hazardous mixtures.<br> ➂ The presence of pyrotechnic agents in the SC and LV;<br> ➃ The presence of an electric battery in the SC and the last stage of the LV.|
+|**Functional**|➀ Unauthorized or erroneous actions of personnel|
+|**Laser**|➀ Presence of laser radiation sources in the SC (Dopplers, payload, etc.), which is a danger to the human eyes|
+|**Toxic hazard**|➀ Using toxic fuel as part of the LV:<br> ・hazard class №1 — UDMH and hydrazine as part of the last stage of the LV;<br> ・hazard class №2 — AT and hydrogen peroxide as part of a LV;<br> ・hazard class №4 — hydrocarbon fuels in the LV;<br> ➁ The use of toxic fuel as part of the SC:<br> ・hazard class №1 — UDMH;<br> ・hazard class №2 — nitrogen tetroxide.<br> ➂ The greatest danger represents cases of leakage of the fuel‑containing elements of refueling systems, leading to the sheds and, as a result, their getting into other systems, as well as to the formation of spaces.<br> Helium, used as a gas in charge of SC and LV, are non‑combustible, explosion‑proof, non‑union inert gas. However, it may be a serious danger as asphyxant.|
+
 
 
 ### ПОБ (программа обеспечения безопасности)
@@ -94,7 +106,7 @@ t — Lifetime (h)
 |:--|:--|
 |・[Авторский надзор](des_spv.md)<br> ・[АВПКО](fmeca.md)|・[Ионизирующее излучение](ion_rad.md)<br> ・[Критичные элементы](sens_elem.md)|
 
-Интуитивно надёжность объектов связывают с недопустимостью отказов в работе. Это есть понимание надёжности в «узком» смысле — свойство объекта сохранять работоспособное состояние в течение некоторого времени или некоторой наработки. Иначе говоря, надёжность объекта заключается в отсутствии непредвиденных недопустимых изменений его качества в процессе эксплуатации и хранения. Надёжность тесно связана с различными сторонами процесса эксплуатации. Надёжность в «широком» смысле — комплексное свойство, которое в зависимости от назначения объекта и условий его эксплуатации может включать в себя свойства безотказности, долговечности, ремонтопригодности и сохраняемости, а также определённое сочетание этих свойств.
+Интуитивно надёжность объектов связывают с недопустимостью отказов в работе. Это есть понимание надёжности в «узком» смысле — свойство объекта сохранять работоспособное состояние в течение некоторого времени или некоторой наработки. Иначе говоря, надёжность объекта заключается в отсутствии непредвиденных недопустимых изменений его качества в процессе эксплуатации и хранения. Надёжность тесно связана с различными сторонами процесса эксплуатации. Надёжность в «широком» смысле — комплексное свойство, которое в зависимости от назначения объекта и условий его эксплуатации может включать в себя свойства безотказности, долговечности, ремонтопригодности и сохраняемости, а также определённое сочетание этих свойств.
 
 Для количественной оценки надёжности используют так называемые единичные показатели надёжности (характеризуют только одно свойство надёжности) и комплексные показатели надёжности (характеризуют несколько свойств надёжности).
 

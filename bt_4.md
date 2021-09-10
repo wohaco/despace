@@ -52,9 +52,9 @@
    1. Разработан в 2007 году для проекта Lunar-A.
    1. **[1]** — в вакууме.
    1. The BT-4 is a family that has been used as Liquid Apogee Engine, orbital maneuvering engine and as a thruster. Known Variations:
-       - **BT-4 (Cygnus):** Used mainly as thruster, it burns MMH/N2O4 with a thrust of 450 N (100 lbf). It weighs 4 kg (8.8 lb) and is 65 cm (26 in) tall.
+       - **BT-4 (Cygnus):** Used mainly as thruster, it burns MMH/N2O4 with a thrust of 450 N (100 lbf). It weighs 4 ㎏ (8.8 lb) and is 65 cm (26 in) tall.
        - **BT-4 (450N):** Used mainly as LAE, it burns Hydrazine/N2O4 in a 1.69 O/F ratio. It has a thrust of 450 N (100 lbf), a specific impulse of 329 s (3.23 km/s) and an input pressure of 1.62 ㎫ (235 psi). As of 2014, it had a demonstrated life of 32,850 seconds.
-       - **BT-4 (500N):** Used mainly as LAE, it burns Hydrazine/N2O4 with a thrust of 500 N (110 lbf), a specific impulse of 329 s (3.23 km/s). It weights 4 kg (8.8 lb) and is 80 cm (31 in) tall.
+       - **BT-4 (500N):** Used mainly as LAE, it burns Hydrazine/N2O4 with a thrust of 500 N (110 lbf), a specific impulse of 329 s (3.23 km/s). It weights 4 ㎏ (8.8 lb) and is 80 cm (31 in) tall.
        - **490N MON Thruster:** Burns MMH/MON-3 with a 478 N (107 lbf) nominal thrust, a specific impulse of 316 s (3.10 km/s) and an inlet pressure of 1.72 ㎫ (249 psi). As of 2014, it had a demonstrated life of 15,000 seconds.
        - **HBT-5:** Developed for the HTV to crew-rated standards, it burns MMH/MON-3, and has a thrust of 500 N (110 lbf). Used in HTV-3 and since HTV-5 onward.
        - **SELENE OME:** Based on the DRTS Liquid Apogee Engine, the SELENE Orbital Maneuvering Engine burned a Hydrazine/MON-3 mixture. It had a thrust of 547 ± 54 N (123 ± 12 lbf) and a specific impulse of 319.8 ± 5.1 s (3.136 ± 0.050 km/s) with an input pressure of 1.77 ㎫ (257 psi).

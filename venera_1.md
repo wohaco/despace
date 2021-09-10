@@ -17,7 +17,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|7 days|
 |Launch|1961.02.12 00:34:36 UTC, LV Molniya 8K78|

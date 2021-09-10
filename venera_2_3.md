@@ -16,7 +16,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 2** 3 m 15 d;<br>**Venera 3** 3 m 13 d|
 |Launch|**Venera 2** 1965.11.12 05:02 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M;<br> **Venera 3** 1965.11.16 04:19 UTC, [Baikonur](baikonur.md), Rocket: Molniya 8K78M|

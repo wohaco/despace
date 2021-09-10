@@ -16,7 +16,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|• «Vega 1» 15 Dec. 1984 — 6 Mar. 1986<br> • «Vega 2» 21 Dec. 1984 — 9 Mar. 1986|
 |Launch|• «Vega 1» 15 Dec. 1984, 09:16:24, Baikonur, «[Proton-K](proton.md)»<br> • «Vega 2» 21 Dec. 1984, 09:13:52, Baikonur, «[Proton-K](proton.md)»|

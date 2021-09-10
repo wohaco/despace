@@ -70,6 +70,7 @@ Common dividing SCS into parts:
 ░░░░░║ ╙ On-board structures  
 ░░░░░╙ [Thermal system](tcs.md) *(TCS)*
 
+【TBD】
 
 ░░░░░░░░░╟ Бортовой комплекс управления (БКУ)  
 ░░░░░░░░░║ ╟ Высотомер  

@@ -11,6 +11,8 @@
 
 Ниже приведены список и характеристики применяемых в космической (и не очень) промышленности материалов.
 
+The use of the following materials in spacecraft (and especially in parts interacting with the atmosphere or soil or affecting target actions) should be deliberately limited: diamond, platinoids, silicon carbide, Ag, As, Au, Bi, Cu, Ga, Ge, In, Ni, Sn, Sb, Se, Te, Zn.
+
 
 
 ## Конструкция и механизмы
@@ -54,7 +56,7 @@
       - [Гравимол](gravimol.md)
       - [Нитрон](acryl_fiber.md)
       - [Полиформальдегид](polyoxymethylene.md)
-      - [Углепластик](cfrp.md)|
+      - [Углепластик](cfrp.md)
       - [ЭВТИ](mli.md) (экранно‑вакуумная теплоизоляция)
 
 

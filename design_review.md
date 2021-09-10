@@ -34,7 +34,7 @@ In 21CFR820.3(h), design review is described as *“documented, comprehensive, s
 
 | |
 |:--|
-|[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.jpg)](f/rnd/reviews_in_nasa_projects_lifecycle.png)|
+|[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.jpg)](f/rnd/reviews_in_nasa_projects_lifecycle.jpg)|
 
 **List of reviews:**
 

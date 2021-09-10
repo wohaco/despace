@@ -17,7 +17,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 13:** Travel: 4 months, 2 days, Lander: 127 minutes<br> **Venera 14:** Travel: 4 months and 1 day, Lander: 57 minutes|
 |Launch|**Venera 13:** October 30, 1981, 06:04:00 UTC, Rocket: Proton-K/D-1 8K82K<br> **Venera 14:** November 4, 1981, 05:31:00 UTC, Rocket: Proton-K/D-1 8K82K|
@@ -260,7 +260,7 @@ Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, 
       - Orientation system nozzles;
       - Radiator-cooler.
 
-|*Parameter*|*Mass, kg*|
+|*Parameter*|*Mass, ㎏*|
 |:--|:--|
 |Launch mass of Venera 13|4 397.85|
 |Launch mass of Venera 14|4 394.5|

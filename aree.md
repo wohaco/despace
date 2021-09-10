@@ -19,7 +19,7 @@
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
 |Communication [rate](comms.md), bit/s| |
-|Mass (payload), kg| |
+|Mass (payload), ㎏| |
 |Readiness state| |
 |Speed of movement, m/s| |
 |[Storage](ds.md) volume, bit| |

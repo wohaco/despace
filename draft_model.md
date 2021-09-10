@@ -7,29 +7,6 @@
 
 > <small>**Чертежи, модели** — русскоязычный термин. **Drafts, models** — англоязычный эквивалент.</small>
 
-
-## 3D-модель и Электронная модель
-> <small> ・**3D-модель** — русскоязычный термин. **3D model** — англоязычный эквивалент.</small>  
-> <small> ・**Электронная модель изделия (ЭМИЗ)** — русскоязычный термин, не имеющий аналога в английском языке. **Electronic model of product (EMOP)** — дословный перевод с русского на английский.</small>
-
-**3D‑модель** — см. Электронная модель.
-
-   1. 3D‑модель. [Пример ❐](f/doc/3d_sample.7z)
-   1. 3D‑модель, отчёт о разработке. Пример. <mark>TBD</mark> Шаблон. <mark>TBD</mark>
-
-**Электронная модель изделия (ЭМИЗ)**, она же 3D‑модель ─ [КД](doc.md), содержащий электронную геометрическую модель изделия, соответствующие электронные геометрические модели его СЧ, свойства, характеристики и другие данные, необходимые для сборки (изготовления) и контроля. В зависимости от стадии разработки включает в себя предельные отклонения размеров, шероховатости поверхностей и др. По [ГОСТ 2.052](гост_2_052.md):
-
-   - В компьютерной среде ЭМИ представляется в виде набора данных, которые вместе определяют геометрию изделия и иные свойства, необходимые для изготовления и работ с изделием.
-   - ЭМИ, как правило, состоит из геометрической модели изделия, произвольного количества атрибутов модели и может включать технические требования. ЭМИ должна содержать полный набор параметров согласно [ГОСТ 2.109](гост_2_109.md), необходимых для расчётов, моделирования и т.д.
-
-Следующие электронные модели являются разновидностью ЭМИ и описываются [ГОСТ 2.052](гост_2_052.md):
-
-   1. Электронная модель детали;
-   1. Электронная модель сборочной единицы;
-   1. Электронный макет.
-
-
-
 <p style="page-break-after:always"> </p>
 
 ## Схемы
@@ -184,6 +161,31 @@
 
 ## Чертежи
 
+
+### 3D- и Электронная модель
+> <small> ・**3D-модель** — русскоязычный термин. **3D model** — англоязычный эквивалент.</small>  
+> <small> ・**Электронная модель изделия (ЭМИЗ)** — русскоязычный термин, не имеющий аналога в английском языке. **Electronic model of product (EMOP)** — дословный перевод с русского на английский.</small>
+
+**3D‑модель** — ㎝. Электронная модель.
+
+   1. 3D‑модель. [Пример ❐](f/doc/3d_sample.7z)
+   1. 3D‑модель, отчёт о разработке. Пример. <mark>TBD</mark> Шаблон. <mark>TBD</mark>
+
+**Электронная модель изделия (ЭМИЗ)**, она же 3D‑модель ─ [КД](doc.md), содержащий электронную геометрическую модель изделия, соответствующие электронные геометрические модели его СЧ, свойства, характеристики и другие данные, необходимые для сборки (изготовления) и контроля. В зависимости от стадии разработки включает в себя предельные отклонения размеров, шероховатости поверхностей и др. По [ГОСТ 2.052](гост_2_052.md):
+
+   - В компьютерной среде ЭМИ представляется в виде набора данных, которые вместе определяют геометрию изделия и иные свойства, необходимые для изготовления и работ с изделием.
+   - ЭМИ, как правило, состоит из геометрической модели изделия, произвольного количества атрибутов модели и может включать технические требования. ЭМИ должна содержать полный набор параметров согласно [ГОСТ 2.109](гост_2_109.md), необходимых для расчётов, моделирования и т.д.
+
+Следующие электронные модели являются разновидностью ЭМИ и описываются [ГОСТ 2.052](гост_2_052.md):
+
+   1. Электронная модель детали;
+   1. Электронная модель сборочной единицы;
+   1. Электронный макет.
+
+
+
+<p style="page-break-after:always"> </p>
+
 ### Чертёж габаритный
 > <small>**Габаритный чертёж (ГЧ)** — русскоязычный термин. **Mechanical interface control drawing (MICD), Dimensional drawing (DIDR)** — англоязычный эквивалент.</small>
 
@@ -206,7 +208,7 @@
       1. материал и толщину корпуса и покрытий прибора;
       1. место, способ крепления и момент затяжки крепежа;
       1. металлизацию (заземление) прибора: способ, точки, материалы;
-      1. ориентацию и оси прибора;
+      1. ориентацию, оси прибора и их материализацию;
       1. режимы работы прибора;
       1. режимы температурные посадочных мест;
       1. режимы температурные прибора во время дегазации;
@@ -214,9 +216,41 @@
       1. тепловыделение прибора (упрощённая циклограмма, либо разброс значений), площадь теплопроводящей поверхности и распределение тепла;
       1. термическое сопротивление между посадочным местом прибора и конструкцией КА;
       1. термодатчики: места расположения, количество, тип;
-      1. технологические блоки, снимаемые перед установкой прибора на КА;
+      1. технологические блоки, снимаемые перед установкой прибора на КА и до пуска;
       1. требования к посадочным местам прибора и установочной поверхности;
       1. электропотребление прибора (упрощённая циклограмма, либо разброс значений).
+
+<big><u>**ENG**</u></big>
+
+For each OE, a general drawing shall be provided containing a contour (simplified) image of the OE with general, installation and connection dimensions, keeping in mind that:
+
+   1. The drawing is not intended for the manufacture of the OE & does not contain data for manufacture/assembly.
+   1. The drawing is performed with maximum simplifications. The product is depicted so that the extreme positions of the moving/extending/folding parts/levers/carriages/hinged covers, etc. are visible. It’s allowed not to show elements that protrude beyond the main contour by an insignificant amount in comparison with the dimensions of the OE.
+   1. The number of views shall be minimal, but sufficient to give a comprehensive idea of ​​the external outlines of the product, the positions of its protruding parts (levers, handwheels, handles, buttons, etc.), the elements that should be constantly in the field of view (for example, scales), on the location of the elements of connection of the OE with other OE.
+   1. The image of the OE is performed with solid main lines, & the outlines of the moving parts in the extreme positions are dash‑dotted thin with two dots. It is allowed to depict the extreme positions of the moving parts in separate views. It’s permissible to depict parts & assembly units that are not part of the OE with solid thin lines.
+   1. Indicate the overall, installation & connection dimensions of the OE and, if necessary, the dimensions that determine the position of the protruding parts. Installation & connection dimensions required for linking with other units must be indicated with maximum allowed deviations. It is allowed to indicate the coordinates of the center of mass. Do not indicate that all sizes are for reference.
+   1. It’s permissible to indicate the conditions of use, storage, transportation & operation in the absence of these data in the technical description, specifications or other design documentation for the OE.
+   1. **Often (to obtain full information about a OE), it’s additionally required to indicate:**
+      1. allowed direction of overloads
+      1. grade of tightness of the OE
+      1. heat dissipation of the OE’s (simplified timeline, or the spread of values), the area of ​​the heat‑conducting surface & the distribution of heat
+      1. mass with tolerances — in stamp
+      1. mass‑inertial characteristics, center of mass of the OE in working & transport positions
+      1. material & thickness of the OE’s body & coatings of the device
+      1. metallization (grounding) of the OE: method, points, materials
+      1. moving parts
+      1. operating modes of the OE
+      1. orientation of the OE, it’s axes & their materialization
+      1. place, method of fastening & tightening torque of fasteners
+      1. power consumption of the device (simplified timeline, or the spread of values)
+      1. requirements for the seats of the OE & the mounting surface
+      1. scale of the drawing
+      1. technological units removed before installing the OE on the SC & before launch
+      1. temperature modes of seats
+      1. temperature modes of the OE during degassing
+      1. thermal resistance between the OE seat & the SC structure
+      1. thermal sensors: location, quantity, type
+      1. zones, types of location of MLI, coatings, & methods of their fastening
 
 
 

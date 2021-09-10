@@ -17,7 +17,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|1977-1983|
 |Duration|**Venera 15:** Overall: 1 year, 1 month, 7 days; At Venus: 9 months<br> **Venera 16:** Overall: 1 year, 1 month; At Venus: 9 months|
 |Launch|**Venera 15:** June 2, 1983, 02:38:39 UTC, Rocket: Proton-K/D-1<br> **Venera 16:** June 7, 1983, 02:32 UTC, Rocket: Proton-K/D-1|
@@ -137,7 +137,7 @@ The radar and radio altimeter systems used the same components, except for the a
 |*Parameter*|*Value*|
 |:--|:--|
 |Dimensions of the antenna SAR|1.4 x 6.0 m|
-|Mass of SAR system|298.6 kg|
+|Mass of SAR system|298.6 ㎏|
 |SAR deviation from the longitudinal axis of the spacecraft|10°|
 |Radar wavelength|8 ㎝|
 |The strip of the captured territory for 1 passage of periapsis|120 x 7 500 ㎞|

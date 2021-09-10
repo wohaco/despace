@@ -18,7 +18,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|Travel: 117 days<br> Lander: 50 min|
 |Launch|27 March 1972, 04:15:01 UTC, Rocket: Molniya-M/MVL|
@@ -122,7 +122,7 @@ The purpose of the launch of the automatic station Venera 8 was to deliver the
       - Registration of ammonia in the cloud layer (verification of hypotheses about the possible presence) − **ИАВ-72**;
       - Estimation of wind speed in the atmosphere − the onboard radio complex of the lander and ground installations were used.
 
-|*Location*|*Instrument*|*Function*|*Mass, kg*|*Power, W*|
+|*Location*|*Instrument*|*Function*|*Mass, ㎏*|*Power, W*|
 |:--|:--|:--|:--|:--|
 |Orbiter|**КС-18-4М**|Instrument to study the flows of cosmic particles|≤1.6|2.0|
 |Orbiter|**ЛА-4**|Measuring the density of H₂ and H₃|≤2.0|≤2.0|

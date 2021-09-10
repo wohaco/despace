@@ -145,7 +145,7 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 ***Composition of SAEVe scientific instruments:***
 <small>
 
-|*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, kg*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
+|*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 ㎜ station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
 |☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 ㎜ station|<0.2|—|—|High|5|3| |

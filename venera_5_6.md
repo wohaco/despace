@@ -17,7 +17,7 @@
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
 |**Mission:**|• • •|
-|Cost|… or … kg of [gold](sc_price.md)|
+|Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 5:** Travel: 131 days; Atmosphere: 53 minutes<br> **Venera 6:** Travel: 127 days, Atmosphere: 51 minutes|
 |Launch|**Venera 5:** January 5, 1969, 06:28:08 UTC Rocket: Molniya 8K78M<br> **Venera 6:** January 10, 1969, 05:51:52 UTC Rocket: Molniya 8K78M|
