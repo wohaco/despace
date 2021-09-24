@@ -24,29 +24,29 @@
 |[TRL](trl.md)| | |9|9|
 |[Voltage](voltage.md), V| | | | |
 |**【Specific】**|• • •|• • •|• • •|• • •|
-|Давление: вход в двигатель, ㎫ (kgf/㎝²)| | | | |
-|Давление: камера сгорания, ㎫ (kgf/㎝²)| | |6.77 (66.4)| |
-|Давление: срез сопла, ㎫ (kgf/㎝²)| | | | |
-|Длительность одного включения, с| | | | |
-|[Res.impulse](ing.md), N·s (kgf·s), ≤| | | | |
-|Макс. расход, ㎏/s, ≤| |141.318977|160.427807|122.205663|
-|Макс. частота включений, Гц| | | | |
-|Массовое соотношение КРТ|2.17|2.17|2.17|2.17|
-|Обороты ТНА|—|
-|Продукты горения| | | | |
-|[Топливо](fuel.md)|<small>[Кислород + Керосин](o_plus.md)</small>|<small>[Кислород + Керосин](o_plus.md)|<small>[Кислород + Керосин](o_plus.md)|<small>[Кислород + Керосин](o_plus.md)|
-|Раствор пучка, °| |
-|Ресурс: количество включений, ≥| | | | |
-|Ресурс: сумм. длит. включений, c, ≥| | |1 620|330|
-|Ресурс: сумм. импульс, Н·с (кгс·с), ≥| |
-|Ресурс: сумм. тяга, Н (кгс), ≥| | | | |
-|Ресурс: топливо, ㎏, ≥| | | | |
-|Температура: камера сгорания, 10³ К (℃)| | | | |
-|Температура: срез сопла, 10³ К (℃)| | | | |
-|Тяга: номинальная, N (kgf)|340 000 (34 658)|420 000 (42 813)|480 000 (49 930)|410 000 (41 896)|
-|Тяга: отклонение, %| | |60 ‑ 100| |
-|[УИ тяги](isp.md), Н·с/кг (с), ≥| |2 972 (303)|2 992 (305)|3 355 (342)|
-|Число Маха / [Показатель адиабаты](heat_cr.md)| | | | |
+|Pressure: engine entrance, ㎫ (kgf/㎝²)| | | | |
+|Pressure: comb. chamber, ㎫ (kgf/㎝²)| | |6.77 (66.4)| |
+|Pressure: nozzle cut, ㎫ (kgf/㎝²)| | | | |
+|Thrust: max. duration of one thrust, s| | | | |
+|Thrust: [res.impulse](ing.md), N·s (kgf·s), ≤| | | | |
+|Fuel: consumption, ㎏/s, ≤| |141.318977|160.427807|122.205663|
+|Thrust: max. switching frequency, ㎐| | | | |
+|Fuel: mass ratio of components|2.17|2.17|2.17|2.17|
+|Turbopump speed, rpm|—|
+|Fuel: combustion products| | | | |
+|[Fuel](fuel.md)|<small>[Кислород + Керосин](o_plus.md)</small>|<small>[Кислород + Керосин](o_plus.md)|<small>[Кислород + Керосин](o_plus.md)|<small>[Кислород + Керосин](o_plus.md)|
+|Thrust: torch angle, °| |
+|Resource: number of thrusts, ≥| | | | |
+|Resource: total thrust (duration), s, ≥| | |1 620|330|
+|Resource: total impulse, N·s (kgf·s), ≥| |
+|Resource: total thrust, N (kgf), ≥| | | | |
+|Resourse: fuel, ㎏, ≥| | | | |
+|Temperature: comb. chamber, К (℃)| | | | |
+|Temperature: nozzle cut, К (℃)| | | | |
+|Thrust: nominal, N (kgf)|340 000 (34 658)|420 000 (42 813)|480 000 (49 930)|410 000 (41 896)|
+|Thrust: deviation, N (kgf)| | |60 ‑ 100| |
+|Thrust: [Isp](isp.md), N·s/㎏ (s), ≥| |2 972 (303)|2 992 (305)|3 355 (342)|
+|Mach number / [Adiabatic exponent](heat_cr.md)| | | | |
 |Изображение|[![](f/ps/m/merlin_1a_pic1_thumb.jpg)](f/ps/m/merlin_1a_pic1.png)| |[![](f/ps/m/merlin_1c_pic1_thumb.jpg)](f/ps/m/merlin_1c_pic1.jpg)|[![](f/ps/m/merlin_1c_vac_pic1_thumb.jpg)](f/ps/m/merlin_1c_vac_pic1.jpg)|
 
 <p style="page-break-after:always"> </p>
@@ -68,31 +68,31 @@
 |[TRL](trl.md)|9|7|
 |[Voltage](voltage.md), V| | |
 |**【Specific】**|• • •|• • •|
-|Давление: вход в двигатель, ㎫ (kgf/㎝²)| | |
-|Давление: камера сгорания, ㎫ (kgf/㎝²)|9.7 (95.2)| |
-|Давление: срез сопла, ㎫ (kgf/㎝²)| | |
-|Длительность одного включения, с| | |
-|[Res.impulse](ing.md), N·s (kgf·s), ≤| | |
-|Макс. частота включений, Гц| | |
-|Массовое соотношение КРТ|2.34|2.36|
-|Обороты ТНА| | |
-|Продукты горения| | |
-|[Топливо](fuel.md)|<small>[Кислород + Керосин](o_plus.md)</small>|<small>[Кислород + Керосин](o_plus.md)|
-|Раствор пучка, °| | |
-|Ресурс: количество включений, ≥| | |
-|Ресурс: сумм. длит. включений, c, ≥| | |
-|Ресурс: сумм. импульс, Н·с (кгс·с), ≥| |
-|Ресурс: сумм. тяга, Н (кгс), ≥| | |
-|Ресурс: топливо, ㎏, ≥| | |
-|Температура: камера сгорания, 10³ К (℃)| | |
-|Температура: срез сопла, 10³ К (℃)| | |
-|Тяга: номинальная, N (kgf)|914 000 (93 170)|934 000 (95 208)|
-|Тяга: отклонение, %|40 ‑ 100|39 ‑ 100|
-|[УИ тяги](isp.md), Н·с/кг (с), ≥|3 051 (311)|3 413 (348)|
-|Число Маха / [Показатель адиабаты](heat_cr.md)| | |
+|Pressure: engine entrance, ㎫ (kgf/㎝²)| | |
+|Pressure: comb. chamber, ㎫ (kgf/㎝²)|9.7 (95.2)| |
+|Pressure: nozzle cut, ㎫ (kgf/㎝²)| | |
+|Thrust: max. duration of one thrust, s| | |
+|Thrust: [res.impulse](ing.md), N·s (kgf·s), ≤| | |
+|Thrust: max. switching frequency, ㎐| | |
+|Fuel: mass ratio of components|2.34|2.36|
+|Turbopump speed, rpm| | |
+|Fuel: combustion products| | |
+|[Fuel](fuel.md)|<small>[Кислород + Керосин](o_plus.md)</small>|<small>[Кислород + Керосин](o_plus.md)|
+|Thrust: torch angle, °| | |
+|Resource: number of thrusts, ≥| | |
+|Resource: total thrust (duration), s, ≥| | |
+|Resource: total impulse, N·s (kgf·s), ≥| |
+|Resource: total thrust, N (kgf), ≥| | |
+|Resourse: fuel, ㎏, ≥| | |
+|Temperature: comb. chamber, К (℃)| | |
+|Temperature: nozzle cut, К (℃)| | |
+|Thrust: nominal, N (kgf)|914 000 (93 170)|934 000 (95 208)|
+|Thrust: deviation, N (kgf)|40 ‑ 100|39 ‑ 100|
+|Thrust: [Isp](isp.md), N·s/㎏ (s), ≥|3 051 (311)|3 413 (348)|
+|Mach number / [Adiabatic exponent](heat_cr.md)| | |
 |Изображение|[![](f/ps/m/merlin_1d_pic1_thumb.jpg)](f/ps/m/merlin_1d_pic1.jpg)| |
 
-**Примечания:**
+**Notes:**
 
    1. Имеют [ТНА](turbopump.md).
    1. Существует в 6 вариациях:
@@ -102,8 +102,8 @@
       - **Merlin 1C Vac**.
       - **Merlin 1D**.
       - **Merlin 1D Vac**.
-   1. **[1]** — ㎝. <mark>TBD</mark>
-   1. **Применяемость:**
+   1. **[1]** — см. <mark>TBD</mark>
+   1. **Applicability:**
       - **Merlin 1A**. [Falcon 1](falcon.md) (2006 ‑ 2007)
       - **Merlin 1B**. [Falcon 1](falcon.md) (никогда)
       - **Merlin 1C**. [Falcon 1](falcon.md) (2008)・ [Falcon 9](falcon.md) (2010 ‑ 2013)
@@ -123,7 +123,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](warp_drive.md)・ [Газовый двигатель](cgt.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](bussard_ramjet.md)・ [ЖРД](lpr.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](spr.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](epsp.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](ntr.md)|
 

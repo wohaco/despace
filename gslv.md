@@ -35,7 +35,7 @@
 |Масса старт./сух.|414 750 ㎏ / 53 450 ㎏|
 |Разраб./изготов.|[ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)|
 |Ступени|3|
-|[Топливо](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
+|[Fuel](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
 | |[![](f/lv/gslv/gslv_mk2_thumb.jpg)](f/lv/gslv/gslv_mk2.jpg)|
 
 **Выводимые массы.**
@@ -62,7 +62,7 @@
 |Масса старт./сух.|644 750 ㎏ / 76 000 ㎏|
 |Разраб./изготов.|[ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)|
 |Ступени|3|
-|[Топливо](fuel.md)|[HTPB](htpb.md) (ускорители), [АТ + НДМГ](at_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
+|[Fuel](fuel.md)|[HTPB](htpb.md) (ускорители), [АТ + НДМГ](at_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
 | |[![](f/lv/gslv/gslv_mk3_thumb.jpg)](f/lv/gslv/gslv_mk3.jpg) [![](f/lv/gslv/gslv_mk3_launcher_thumb.jpg)](f/lv/gslv/gslv_mk3_launcher.jpg)|
 
 **Выводимые массы.**
@@ -91,7 +91,7 @@
 |Масса старт./сух.|414 750 ㎏ / 53 450 ㎏|
 |Разраб./изготов.|[ISRO](zz_isro.md) (Индия) / [ISRO](zz_isro.md) (Индия)|
 |Ступени|3|
-|[Топливо](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
+|[Fuel](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
 | |[![](f/lv/gslv/gslv_thumb.jpg)](f/lv/gslv/gslv.png)|
 
 **Выводимые массы.**
@@ -109,7 +109,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 

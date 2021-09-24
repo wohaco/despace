@@ -12,32 +12,31 @@
 
 |*Characteristics*|*[Value](si.md)<br> (СЗИ-М)*|
 |:--|:--|
-|Composition| |
-|Consumption, W|9 — каждый УП‑М;<br> 0.85 — УН‑М.<br> **Итого:** 18.85|
+|Composition|3 блока:<br> устройство преобразования УП‑М — 2 шт. (с возможностью расширения до 8);<br> устройство накопителя УН‑М в ударотеплозащищённом корпусе — 1 шт.|
+|Consumption, W|18.85 (9 — каждый УП‑М; 0.85 — УН‑М)|
 |Dimensions, ㎜| |
-|[Interfaces](interface.md)|[МКО](mil_std_1553.md) (2 дублированных), 1 вход регистрации речевой аналоговой информации до 4 500 Гц|
+|[Interfaces](interface.md)|[МКО](mil_std_1553.md) (2 дублированных), 1 вход регистрации речевой аналоговой информации до 4 500 ㎐|
 |[Lifetime](lifetime.md)/Resource, h(y)|… / 105 120 (12)|
-|Mass, ㎏|1.65 — каждый УП‑М;<br> 8.5 — УН‑М.<br> **Итого:** 11.8|
+|Mass, ㎏|11.8 (1.65 — каждый УП‑М; 8.5 — УН‑М)|
 |[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
-|[Voltage](voltage.md), V|… — для УП‑М;<br> +4.75 — для УН‑М|
+|[Voltage](voltage.md), V|… — для УП‑М; +4.75 — для УН‑М|
 |**【Specific】**|• • •|
-|Алгоритмы сжатия| |
-|Алгоритмы шифр.| |
-|Входов|до 32 — регистрации температурной информации с опросом до 100 Гц;<br> до 256 — регистрации параметров с опросом от 25 до 2 000 Гц;<br> увеличение частоты опроса до 32 000 Гц при соответствующем сокращении количества опрашиваемых входов|
-|Ёмкость, Мбит (Мбайт)|32 768 (4 096)|
-|Исполнение|3 блока:<br> устройство преобразования УП‑М — 2 шт. (с возможностью расширения до 8);<br> устройство накопителя УН‑М в ударотеплозащищённом корпусе — 1 шт.|
-|Скор., Мбит(Мбайт)/с|2 (0.25)|
-|Циклов перезаписи|100 000|
+|Algorithms (compr.)| |
+|Algorithms (encryp.)| |
+|Bitrate, Mbit/s (㎆/s)|2 (0.25)|
+|Capacity, Mbit (㎆)|32 768 (4 096)|
+|Cycles of rewrite|100 000|
+|Inputs|до 32 — регистрации температурной информации с опросом до 100 Гц;<br> до 256 — регистрации параметров с опросом от 25 до 2 000 Гц;<br> увеличение частоты опроса до 32 000 Гц при соответствующем сокращении количества опрашиваемых входов|
 | |[![](f/ds/s/szi-m_pic1_thumb.jpg)](f/ds/s/szi-m_pic1.png)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - …
 
 
@@ -47,7 +46,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8)・ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8)・ [OBMU](sait_obmu.md) (1.8)|
 

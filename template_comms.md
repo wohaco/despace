@@ -16,18 +16,18 @@
 |[TRL](trl.md)| 【TBD: current TRL】 |
 |[Voltage](voltage.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
-|Вид модуляции| |
-|Время непр. работы, ч| |
-|Вых. мощность, W| |
-|Дальность, км| |
-|[Диапазон частот](rf.md), Гц| |
-|Нестаб. частоты| |
-|[Скорость](битрейт.md), bit/s| |
-|Структура сигнала| |
+|Modulation type| |
+|Continuous work, h| |
+|Out. power, W| |
+|Distance, ㎞| |
+|[Frequency range](rf.md), ㎐| |
+|Frequency instability| |
+|[Bitrate](bitrate.md), bit/s| |
+|Signal structure| |
 | |[![](f/comms//_pic1_thumb.jpg)](f/comms//_pic1.png)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - …

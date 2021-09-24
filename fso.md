@@ -1,50 +1,41 @@
-# Лазерная космическая связь
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[Радиосвязь](comms.md)**
+# Free-space optics
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Comms](comms.md)
 
 [TOC]
 
 ---
+> <small>**Free-space optics (FSO)** — EN term. **Лазерная космическая связь (ЛКС)** — RU analogue.</small>
 
-> <small>**Лазерная космическая связь (ЛКС)** — русскоязычный термин. **Free-space optics (FSO)** — англоязычный эквивалент.</small>
+**Free-space optics (FSO)** — methods of transmitting information in space using beams [optical range](rf.md) in space.
 
-**Лазерная космическая связь (ЛКС)** — способы передачи информации в космосе при помощи лучей [оптического диапазона](rf.md) в космосе.
+**FSO** (also wireless optics, WO; rus. атмосферная оптическая линия связи, сокр. **АОЛС**) — a type of optical communications using electromagnetic waves [optical band](rf.md) (usually infrared) transmitted through the atmosphere. In English, the term also includes transmission through a vacuum or outer space.
 
-**FSO** *(сокр. от англ. free‑space optics — оптика свободного пространства, также англ. wireless optics, WO — беспроводная оптика; рус. атмосферная оптическая линия связи, сокр. **АОЛС**)* — вид оптической связи, использующий электромагнитные волны [оптического диапазона](rf.md) (как правило, инфракрасные), передаваемые через атмосферу. В английском языке термин также включает в себя передачу через вакуум или космическое пространство.
+The principle of operation is identical to the principle of operation of all other wireless radio devices, only optical waves are used. The wavelength in most systems implemented varies between 700‑950 ㎚ or 1 550 ㎚; frequency up to 1.5㎓.
 
-Принцип работ идентичен с принципами работы всех остальных беспроводных радиоустройств, только применяются волны оптического диапазона.
+The laser type of communication is resistant to interference in the form of terrestrial rain, while other ranges are resistant to fog.
 
-Длина волны в большинстве реализованных систем варьируется в пределах 700‑950 нм или 1 550 нм. Частота до 1.5 ㎓.
+**Usage.**
 
-Лазерный тип связи устойчив к помехам в виде земных дождей, в то время как прочие диапазоны устойчивы к туманам.
+Wireless optics are considered as a solution:
 
-
-
-## Применение
-Беспроводная оптика рассматривается в качестве решения:
-
-   - на участках последней мили в условиях городской застройки (для связи между многоэтажными домами, бизнес центрами и узловыми точками сети);
-   - для организации связи от узлов связи оператора до базовых станций сетей сотовой связи при больших объемах передаваемого цифрового трафика (3G, LTE);
-   - для связи объектов, когда прокладка кабеля невозможна (промзоны, горная местность, железная дорога) или стоимость этой прокладки велика;
-   - в качестве временного канала связи, а также в случаях когда необходимо срочно организовать канал связи (горячий резерв);
-   - когда требуется закрытый канал связи, не восприимчивый к радиопомехам и не создающий их (аэропорты, близость радиолокаторов, линий электропередач);
-   - при необходимости уменьшения задержек по сравнению с кабельными линиями.
-
-**В космической технике**
-
-В настоящее время осуществлена успешная передача оптического (лазерного) сигнала на расстояние нескольких сотен тысяч километров. В частности, рекордным достижением в этом смысле является приём лазерного сигнала с автоматической станции MESSENGER. Сигнал бортового лазерного излучателя (инфракрасный диодный неодимовый лазер) был успешно принят земным приемником на расстоянии 24 млн ㎞.
-
-На [LADEE](ladee.md) была продемонстрирована скорость передачи информации в линии Луна‑Земля со скоростью 622 Мбит/с, однако успешным был признан всего 1 сеанс связи с из 50.
+   - on sections of the last mile in urban development (for communication between multi‑storey buildings, business centers & network nodes);
+   - for the organization of communication from the operator’s communication centers to the base stations of cellular networks with large volumes of transmitted digital traffic (3G, LTE);
+   - for communication of objects, when cable laying is impossible (industrial zones, mountainous terrain, railway) or the cost of this laying is high;
+   - as a temporary communication channel, as well as in cases where it is urgently necessary to organize a communication channel (hot reserve);
+   - when you need a secure communication channel is required that is not susceptible to radio interference & does not create it (airports, the proximity of radars, power lines);
+   - if it is necessary to reduce delays in comparison with cable lines.
+   - **In space technology.** At present, the successful transmission of an optical (laser) signal over a distance of several hundred thousand kilometers has been carried out. In particular, a record achievement in this sense is the reception of a laser signal from the SC MESSENGER. The signal of the on‑board laser emitter (IR diode neodymium laser) was successfully received by the ground receiver at a distance of 24 000 000 ㎞. At [LADEE](ladee.md), the speed of data transmission in the Moon‑Earth link was ~622 Mbit/s was demonstrated, but only 1/50 communication session was recognized as successful.
 
 
 
 <p style="page-break-after:always"> </p>
 
-## Docs & links (TRANSLATEME ALREADY)
+## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**【[](.md)】**<br> <mark>NOCAT</mark>|
+|**【[Communications](comms.md)】**<br> [CCSDS](ccsds.md)・ [Антенна](antenna.md)・ [АФУ](afdev.md)・ [Битрейт](bitrate.md)・ [ВОЛП](ofts.md)・ [ДНА](дна.md)・ [Диапазоны частот](rf.md)・ [Зрение](view.md)・ [Интерферометр](interferometer.md)・ [Информация](info.md)・ [КНД](directivity.md)・ [Код Рида‑Соломона](rsco.md)・ [КПДА](antenna_ap.md)・ [КСВ](swr.md)・ [КУ](ку.md)・ [ЛКС, АОЛС, FSO](fso.md)・ [Несущий сигнал](carrwave.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Помехи](emi.md) (EMI, RFI)・ [Последняя миля](last_mile.md)・ [Регламент радиосвязи](rf.md)・ [СИТ](etedp.md)・ [Фидер](feeder.md) <br>• • •<br> **РФ:** [БА КИС](ба_кис.md) (21)・ [БРК](brk_lav.md) (12)・ [РУ ПНИ](ру_пни.md) ()・ [HSXBDT](hsxbdt.md) (1.8)・ [CSXBT](csxbt.md) (0.38)・ [ПРИЗЫВ-3](prizyv_3.md) (0.17) *([ПРИЗЫВ-1](prizyv_1.md) (0.075))*|
 
    1. Docs: …
    1. Notable interwikies — …

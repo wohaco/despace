@@ -16,21 +16,21 @@
 |[TRL](trl.md)| 【TBD: current TRL】 |
 |[Voltage](voltage.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
-|Время опознавания, с| |
-|Вых. информация| |
-|Допуст. угл. скор., °/с| |
-|Запаздывание, с, ≤| |
+|Identification time, s| |
+|Output data| |
+|Accept. ang. speed, °/s| |
+|Delay, s, ≤| |
 |Исполнение| |
-|Объектив| |
-|Поле зрения, °| |
-|Режим готовности| |
-|Точность| |
-|Частота обновл., Гц| |
-|Яркость фона, ㏅/m²| |
+|Lens| |
+|[FOV](fov.md), °| |
+|Ready mode| |
+|Accuracy| |
+|Refresh rate, ㎐| |
+|Back. brightn., ㏅/m²| |
 | |[![](f/sensor/_pic1_thumb.jpg)](f/sensor/_pic1.png)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - …

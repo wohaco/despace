@@ -13,7 +13,7 @@
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|75 × 75 × 3.5|
-|[Interfaces](interface.md)|• Four SpaceWire ports, maximum 200 Mbps full-duplex data rate;<br> ・Redundant [MIL-STD-1553B](mil_std_1553.md) BRM (BC/RT/BM) interface;<br> ・Two CAN 2.0B bus controllers;<br> ・Six UART ports, with 8-byte FIFO;<br> ・Ethernet MAC with RMII 10/100 Mbps port;<br> ・SPI master serial port;<br> ・I2C master serial port;<br> ・ASCS16 (STR) serial port;<br> ・SLINK 6 ㎒ serial port;<br> ・CCSDS/ECSS 5‑channel Telecommand decoder, 10 Mbps input rate;<br> ・CCSDS/ECSS Telemetry encoder, 50 Mbps output rate;<br> ・26 input and 38 input/output general purpose ports|
+|[Interfaces](interface.md)|• Four [SpaceWire](spacewire.md) ports, maximum 200 Mbps full-duplex data rate;<br> ・Redundant [MIL-STD-1553B](mil_std_1553.md) BRM (BC/RT/BM) interface;<br> ・Two CAN 2.0B bus controllers;<br> ・Six UART ports, with 8-byte FIFO;<br> ・Ethernet MAC with RMII 10/100 Mbps port;<br> ・SPI master serial port;<br> ・I2C master serial port;<br> ・ASCS16 (STR) serial port;<br> ・SLINK 6 ㎒ serial port;<br> ・CCSDS/ECSS 5‑channel Telecommand decoder, 10 Mbps input rate;<br> ・CCSDS/ECSS Telemetry encoder, 50 Mbps output rate;<br> ・26 input and 38 input/output general purpose ports|
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
 |Mass, ㎏|0.017|
 |[Overload](vibration.md), Grms| |
@@ -23,19 +23,19 @@
 |[TRL](trl.md)|9|
 |[Voltage](voltage.md), V|1.8 или 3.3|
 |**【Specific】**|• • •|
-|Быстродействие|100 ㎒ (200 MIPS, 200 MFLOPS)|
-|Время восстановления<br> работоспособности, с| |
+|Performance|100 ㎒ (200 MIPS, 200 MFLOPS)|
+|Recovery time, s| |
 |Исполнение|Single unit|
-|Команды, датчики, входы|… — команд управления;<br>… — релейных матричных команд управления;<br>… — ТМ‑датчиков;<br>… — входов прерываний от контактных датчиков;<br>… — входов прерываний от импульсных датчиков|
+|Commands,<br> sensors,<br> inputs|… — команд управления;<br>… — релейных матричных команд управления;<br>… — ТМ‑датчиков;<br>… — входов прерываний от контактных датчиков;<br>… — входов прерываний от импульсных датчиков|
 |Объём|16 KiB multi-way instruction cache and 16 KiB multi-way data cache, 192 kByte memory block with EDAC|
-|Разрядность данных|32 бит|
-|Тип процессора|dual-core LEON3FT SPARC V8, 180 nm standard CMOS, Tower Semiconductors Ltd|
+|Bit depth|32 бит|
+|CPU type|dual-core LEON3FT SPARC V8, 180 nm standard CMOS, Tower Semiconductors Ltd|
 | |[![](f/cpu/g/gr712rc_pic1_thumb.jpg)](f/cpu/g/gr712rc_pic1.jpg)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - [Beresheet](beresheet.md)
 
 
@@ -45,7 +45,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

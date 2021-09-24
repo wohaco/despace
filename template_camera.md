@@ -17,16 +17,16 @@
 |[Voltage](voltage.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
 |Исполнение| |
-|Объектив| |
-|Поле зрения, °| |
-|Разрешение, пикс| |
-|Режимы съёмки| |
-|Частота, кадр/с| |
-|Яркость фона, ㏅/m²| |
+|Lens| |
+|[FOV](fov.md), °| |
+|Resolution, px| |
+|Shooting modes| |
+|Frequency, frame/s| |
+|Back. brightn., ㏅/m²| |
 | |[![](f/cam//_pic1_thumb.jpg)](f/cam//_pic1.jpg)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - …

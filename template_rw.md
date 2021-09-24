@@ -17,13 +17,13 @@
 |[Voltage](voltage.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
 |Исполнение| |
-|Кинет. момент, Н·м·с| |
-|Макс. упр. момент, Н·м| |
-|Режим готовности| |
+|Kinetic moment, N·m·s| |
+|Max ctrl moment, N·m| |
+|Ready mode| |
 | |[![](f/iu//_pic1_thumb.jpg)](f/iu//_pic1.jpg)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - …

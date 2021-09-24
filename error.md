@@ -1,4 +1,4 @@
-# Типичные ошибки
+# Common mistakes and lessons learned
 > 2019.12.19 [🚀](../index/index.md) [despace](index.md) → [Качество](qm.md), **[НД](doc.md)**
 
 [TOC]
@@ -69,8 +69,8 @@ This manual contains a list of common errors in operation & [documentation](doc.
       - use only SI units; non‑SI may be indicated in brackets;
       - use international or national designations, but not simultaneously;
       - apply decreasing indices up to 10⁻³ inclusive (㎝, ㎜, ㎳, ㎃, etc.), then — only numbers;
-      - apply from 10⁻¹ from 10⁻⁶ inclusive zeros after the decimal point, then — only powers of ten;
-      - apply increasing indices up to 10⁹ (㎞, ㎆, ㎬), then — only the power of ten;
+      - apply from 10⁻¹ from 10⁻⁶ inclusive zeros after the decimal point, then — only powers of 10;
+      - apply increasing indices up to 10⁹ (㎞, ㎆, ㎬), then — only the power of 10;
    - **Forbidden:**
       - abbreviate the designations of quantities, if they are used without numbers, except for quantities in the heads and sides of tables and in the decoding of letter designations included in formulas and figures. (**ignored in this DB**)
       - to separate the name from the number (or transfer them to different lines/pages).
@@ -102,7 +102,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 |10 угловых градусов или 10°|10 угл. град.| |
 |окт/мин|октава/мин| |
 |К|°К| |
-|°/с или угловой градус в секунду|град/с| |
+|°/s или угловой градус в секунду|град/с| |
 |°/ч|град/час| |
 |Па (kgf/㎝²)|kgf/㎝²; кГс/㎝²; ㎏/㎝²| |
 |Ом|Ом∙м| |
@@ -152,7 +152,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 |Класс точности прибора указывается – 0,1; 0,2; 1, 2, 3.|Класс точности прибора ± 1,5 %|
 |Погрешность измерения не должна быть  более 0,01 г<br> Погрешность измерения ±0,01 г|Ошибка измерения 0,01 г|
 |Температура минус (60 ± 5) ℃|Температура – 60 ℃|
-|Диапазон измерений от минус 50 до плюс 200 ℃|Предел измерений (−50…200) ℃|
+|Диапазон измерений от минус 50 до плюс 200 ℃|Предел измерений (−50 ‑ 200) ℃|
 |Оси находились на одной высоте с допускаемыми отклонениями ± 1 ㎜|Оси находились на одной высоте с погрешностью ± 1 ㎜|
 |Погрешность измерений не должна быть более (не менее) 1 %;<br> Погрешность измерения ± 1 %|Точность измерений 1 %|
 |Погрешность измерений равна ± 5 %|Погрешность 3σ равна  ± 5 %|
@@ -177,9 +177,9 @@ This manual contains a list of common errors in operation & [documentation](doc.
 
 ## Common paths
 
-### №1 A device broke down before the launch
+### №1 — A device broke down before the launch
 
-**Situation.** A device can no longer be used, but you still have some time before the launch (broke, did not pass the tests, is no longer produced, etc.).
+**Situation** — a device can no longer be used, but you have time before the launch (broke, did not pass the tests, is no longer produced, etc.).
 
 **Solution.**
 
@@ -194,12 +194,31 @@ As usual, you need to balance resources (equipment, money, people, time, etc.). 
 
 
 
+### №2 — Requirements have not been verified
+
+**Situation** — some requirements cannot be verified (numbers are worse than expected).
+
+**Solution.**
+
+The group that are in charge (for the SUI, ground equipment, etc.) shall describe the following issues in order to understand what mistake had been done, how to fix it and how to avoid it in future. In case of fail that shall be done by that group with the help of the upper level designers.
+
+   1. what is the problem we try to solve
+   1. how we got to this point & what will be done to prevent this from happening in the future
+   1. why what was described in the previous documents (approved by a customer) doesn’t work now
+   1. what can be done so that what has already been approved will work
+   1. a description of the pros & cons of the proposed options
+   1. if it’s still impossible to satisfy the requirements, then what are the options for how the updated SUI will look like
+   1. a description of the pros and cons of the proposed options
+   1. what the developer ultimately proposes as the main option(s)
+
+
+
 <p style="page-break-after:always"> </p>
 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Качество:`**<br> [Bus factor](bus_factor.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 

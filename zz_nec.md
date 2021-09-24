@@ -23,7 +23,7 @@
    1. **[Satellites](sc.md).**
       - Ohsumi (1970)
       - [Akatsuki](akatsuki.md) (2010)
-   1. **Ground Systems.** GROUND NEXTAR, Satellite Control subsystem, [Mission Data Reception subsystem](scs), NEC [Satellite Operation Center](mcc.md).
+   1. **Ground Systems.** GROUND NEXTAR, Satellite Control subsystem, [Mission Data Reception subsystem](scs), NEC [Satellite Operation Center](scs.md).
 
 <p style="page-break-after:always"> </p>
 

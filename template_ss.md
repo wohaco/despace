@@ -16,15 +16,15 @@
 |[TRL](trl.md)| 【TBD: current TRL】 |
 |[Voltage](voltage.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
-|Диапазон °, ≥| |
+|Range °, ≥| |
 |Исполнение| |
-|Режим готовности| |
-|Точность| |
-|Частота обновл., Гц| |
+|Ready mode| |
+|Accuracy| |
+|Refresh rate, ㎐| |
 | |[![](f/sensor//_pic1_thumb.jpg)](f/sensor//_pic1.jpg)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - …

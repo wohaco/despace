@@ -16,17 +16,17 @@
 |[TRL](trl.md)| 【TBD: current TRL】 |
 |[Voltage](voltage.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
-|Алгоритмы сжатия| |
-|Алгоритмы шифр.| |
-|Входов| |
-|Ёмкость, Мбит (Мбайт)| |
+|Algorithms (compr.)| |
+|Algorithms (encryp.)| |
+|Inputs| |
+|Capacity, Mbit (㎆)| |
 |Исполнение| |
-|Скор., Мбит(Мбайт)/с| |
-|Циклов перезаписи| |
+|Bitrate, Mbit/s (㎆/s)| |
+|Cycles of rewrite| |
 | |[![](f/ds//_pic1_thumb.jpg)](f/ds//_pic1.jpg)|
 
-**Примечания:**
+**Notes:**
 
    1. …
-   1. **Применяемость:**
+   1. **Applicability:**
       - …

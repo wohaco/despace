@@ -25,29 +25,29 @@
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|4 **⁽²⁾**|
 |[Voltage](voltage.md), V| | | | |
 |**【Specific】**|• • •|• • •|• • •|• • •|
-|Давление: вход в двигатель, ㎫ (kgf/㎝²)|1.52 ‑ 2.03<br> (15‑20) **⁽¹⁾**|1.32 ‑ 2.03<br> (13 ‑ 20) **⁽¹⁾**|1.32 ‑ 1.73<br> (13 ‑ 17) **⁽¹⁾**|1.54<br> (15) **⁽²⁾**|
-|Давление: камера сгорания, ㎫ (kgf/㎝²)| | | | |
-|Давление: срез сопла, ㎫ (kgf/㎝²)| | | | |
-|Длительность одного включения, с|2 520 **⁽¹⁾**|5 800 **⁽¹⁾**|4 000 **⁽¹⁾**| |
-|[Res.impulse](ing.md), N·s (kgf·s), ≤| | | | |
-|Макс. расход, ㎏/s, ≤|0.204180|0.144115|0.130532|0.352790|
-|Макс. частота включений, Гц| | | |17 ‑ 34 **⁽³⁾**|
-|Массовое соотношение КРТ|0.8 ‑ 0.9 **⁽¹⁾**|0.78 ‑ 0.89 **⁽¹⁾**|1.43 ‑ 1.81 **⁽¹⁾**|1.5 ‑ 1.8 **⁽²⁾**|
-|Обороты ТНА|—|—|—|—|
-|Продукты горения| | | | |
-|Раствор пучка, °| | | | |
-|Ресурс: количество включений, ≥|10 500 **⁽¹⁾**|10 500 **⁽¹⁾**|10 500 **⁽¹⁾**| |
-|Ресурс: сумм. длит. включений, c, ≥|20 500 **⁽¹⁾**|31 000 **⁽¹⁾**|29 900 **⁽¹⁾**| |
-|Ресурс: сумм. импульс, Н·с (кгс·с), ≥| |
-|Ресурс: сумм. тяга, Н (кгс), ≥|13 000 000<br> (1 326 900)|14 198 000<br> (1 447 300)|12 169 000<br> (1 240 450)| |
-|Ресурс: топливо, ㎏, ≥|4 180|4 480|3 900| |
-|Температура: камера сгорания, 10³ К (℃)| | | | |
-|Температура: срез сопла, 10³ К (℃)| | | | |
-|[Топливо](fuel.md)|[АТ + Гидразин](at_plus.md) **⁽¹⁾**|[АТ + Гидразин](at_plus.md) **⁽¹⁾**|[АТ + ММГ](at_plus.md) **⁽¹⁾ ⁽²⁾**|[АТ + ММГ](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Тяга: номинальная, N (kgf)|635 (64.7) **⁽¹⁾**|458 (46.9) **⁽¹⁾**|407 (41.5) **⁽¹⁾**|1 100 (102) **⁽¹⁾**|
-|Тяга: отклонение, %|587 ‑ 707 **⁽¹⁾**<br> (59.8 ‑ 72)|386 ‑ 470 **⁽¹⁾**<br> (39.3 ‑ 49.7)|367 ‑ 456 **⁽¹⁾**<br> (37.4 ‑ 46.4)|900 ‑ 1 300 **⁽¹⁾**<br> (91.7 ‑ 132.5)|
-|[УИ тяги](isp.md), Н·с/кг (с), ≥|3 110 (317) **⁽¹⁾**|3 178 (324) **⁽¹⁾**|3 118 (318) **⁽¹⁾**|3 118 (323) **⁽²⁾**|
-|Число Маха / [Показатель адиабаты](heat_cr.md)| | | | |
+|Pressure: engine entrance, ㎫ (kgf/㎝²)|1.52 ‑ 2.03<br> (15‑20) **⁽¹⁾**|1.32 ‑ 2.03<br> (13 ‑ 20) **⁽¹⁾**|1.32 ‑ 1.73<br> (13 ‑ 17) **⁽¹⁾**|1.54<br> (15) **⁽²⁾**|
+|Pressure: comb. chamber, ㎫ (kgf/㎝²)| | | | |
+|Pressure: nozzle cut, ㎫ (kgf/㎝²)| | | | |
+|Thrust: max. duration of one thrust, s|2 520 **⁽¹⁾**|5 800 **⁽¹⁾**|4 000 **⁽¹⁾**| |
+|Thrust: [res.impulse](ing.md), N·s (kgf·s), ≤| | | | |
+|Fuel: consumption, ㎏/s, ≤|0.204180|0.144115|0.130532|0.352790|
+|Thrust: max. switching frequency, ㎐| | | |17 ‑ 34 **⁽³⁾**|
+|Fuel: mass ratio of components|0.8 ‑ 0.9 **⁽¹⁾**|0.78 ‑ 0.89 **⁽¹⁾**|1.43 ‑ 1.81 **⁽¹⁾**|1.5 ‑ 1.8 **⁽²⁾**|
+|Turbopump speed, rpm|—|—|—|—|
+|Fuel: combustion products| | | | |
+|Thrust: torch angle, °| | | | |
+|Resource: number of thrusts, ≥|10 500 **⁽¹⁾**|10 500 **⁽¹⁾**|10 500 **⁽¹⁾**| |
+|Resource: total thrust (duration), s, ≥|20 500 **⁽¹⁾**|31 000 **⁽¹⁾**|29 900 **⁽¹⁾**| |
+|Resource: total impulse, N·s (kgf·s), ≥| |
+|Resource: total thrust, N (kgf), ≥|13 000 000<br> (1 326 900)|14 198 000<br> (1 447 300)|12 169 000<br> (1 240 450)| |
+|Resourse: fuel, ㎏, ≥|4 180|4 480|3 900| |
+|Temperature: comb. chamber, К (℃)| | | | |
+|Temperature: nozzle cut, К (℃)| | | | |
+|[Fuel](fuel.md)|[АТ + Гидразин](at_plus.md) **⁽¹⁾**|[АТ + Гидразин](at_plus.md) **⁽¹⁾**|[АТ + ММГ](at_plus.md) **⁽¹⁾ ⁽²⁾**|[АТ + ММГ](at_plus.md) **⁽¹⁾ ⁽²⁾**|
+|Thrust: nominal, N (kgf)|635 (64.7) **⁽¹⁾**|458 (46.9) **⁽¹⁾**|407 (41.5) **⁽¹⁾**|1 100 (102) **⁽¹⁾**|
+|Thrust: deviation, N (kgf)|587 ‑ 707 **⁽¹⁾**<br> (59.8 ‑ 72)|386 ‑ 470 **⁽¹⁾**<br> (39.3 ‑ 49.7)|367 ‑ 456 **⁽¹⁾**<br> (37.4 ‑ 46.4)|900 ‑ 1 300 **⁽¹⁾**<br> (91.7 ‑ 132.5)|
+|Thrust: [Isp](isp.md), N·s/㎏ (s), ≥|3 110 (317) **⁽¹⁾**|3 178 (324) **⁽¹⁾**|3 118 (318) **⁽¹⁾**|3 118 (323) **⁽²⁾**|
+|Mach number / [Adiabatic exponent](heat_cr.md)| | | | |
 
 ## Примечания
    1. Существует в 4 вариациях:
@@ -55,10 +55,10 @@
       - LEROS 1c
       - LEROS 2b
       - LEROS 4
-   1. **[1]** — ㎝. Upper Stage Engines Rev 0913, 2018 год.
-   1. **[2]** — ㎝. An overview of LEROS 4, Space Propulsion 2014 Conference, 2014 год.
-   1. **[3]** — ㎝. An overview of LEROS 4, Space Propulsion 2012 Conference, 2012 год.
-   1. **Применяемость:**
+   1. **[1]** — см. Upper Stage Engines Rev 0913, 2018 год.
+   1. **[2]** — см. An overview of LEROS 4, Space Propulsion 2014 Conference, 2014 год.
+   1. **[3]** — см. An overview of LEROS 4, Space Propulsion 2012 Conference, 2012 год.
+   1. **Applicability:**
       - A2100 platform (including GPS Ⅲ, GOES-R/S, and SBIRS)・ 702MP Platform (including Intelsat)・ Mercury MESSENGER・ Mars Global Surveyor・ Mars Climate Orbiter・ Mars Odyssey・ [Juno](juno.md)
 
 
@@ -68,7 +68,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](warp_drive.md)・ [Газовый двигатель](cgt.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](bussard_ramjet.md)・ [ЖРД](lpr.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](spr.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](epsp.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](ntr.md)|
 

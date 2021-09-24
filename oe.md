@@ -10,25 +10,15 @@
 **Бортовая аппаратура (БА)** — общее название аппаратуры, устанавливаемой на [КА](sc.md). Включает в свой состав целевую и служебную аппаратуру.
 
    - **Служебная аппаратура (СА)** — общее название аппаратуры, обеспечивающей функционирование ЦА и выполнение КА целевой задачи. **Service equipment** — англоязычный эквивалент.
-   - **Целевая аппаратура (ЦА)**, англ. **Payload** — общее название аппаратуры, с помощью которой реализуется целевая задача [КА](sc.md) и [КК](scs.md). Возможные варианты термина ЦА: **Научная аппаратура (НА)** — для аппаратов научного назначения, **Комплекс научной аппаратуры (КНА)**, **Полезная нагрузка (ПН)**. Возможные варианты ЦА:
-      1. Газоанализатор
-      1. Грунтозаборник
-      1. [Датчик](sensor.md) ветра
-      1. [Датчик](sensor.md) газов
-      1. [Датчик](sensor.md) пыли
-      1. [Датчик](sensor.md) температуры
-      1. Измеритель звёздного ветра
-      1. Измеритель плазмы
-      1. Измеритель энергетичных частиц
-      1. Камера различных спектров
-      1. Камера трёхмерная
-      1. Магнитометр
-      1. Маяк
-      1. Отражатель
-      1. Радар
-      1. Радар подпочвенный
-      1. Сейсмометр
-      1. Спектрометр (ИК, УФ, Фурье и пр.)
+   - **Целевая аппаратура (ЦА)**, англ. **Payload** — общее название аппаратуры, с помощью которой реализуется целевая задача [КА](sc.md) и [КК](scs.md). Возможные варианты термина ЦА: **Научная аппаратура (НА)** — для аппаратов научного назначения, **Комплекс научной аппаратуры (КНА)**, **Полезная нагрузка (ПН)**.
+
+|*Служебная аппаратура (СА)*|*Целевая аппаратура (ЦА)*, англ. *Payload*|
+|:--|:--|
+|・**[Aimed antenna drive (AIAD)](devd.md)**·ПНА<br> ・**[Automatic control unit (ACU)](eas.md)**·БАППТ<br> ・**[Electro-automatic system (EAS)](ans.md)**·САН<br> ・**[Cable](cable.md)**·БКС<br> ・**[Camera](cam.md)**·Камера<br> ・**[Comms](comms.md)**·Радио<br> ・**[Control module (CM)](eas.md)**·БУ<br> ・**[Data storage (DS)](ds.md)**·ЗУ<br> ・**[Doppler](doppler.md)**·ИСР<br> ・**[Earth sensor](sensor.md)**·Датчик Земли<br> ・**[Ecology](ecology.md)**·Экология<br> ・**[Electronic components](elc.md)**·ЭКБ<br> ・**[Electric battery (EB)](eb.md)**·ХИТ<br> ・**[Electro-automatic system (EAS)](eas.md)**·СЭА<br> ・**[EMC](emc.md)**·ЭМС<br> ・**[Fuel](fuel.md)**·Топливо<br> ・**[GNC](gnc.md)**·БКУ<br> ・**[Inertial unit (UI)](iu.md)**·Гироскоп<br> ・**[Landing gear (LAG)](lag.md)**·ПУC<br> ・**[Launch escape system (LES)](les.md)**·САСП<br> ・**[Life support (LS)](ls.md)**·СЖО<br> ・**[Magnetometer](sensor.md)**·Магнитометр<br> ・**[Manned spacecraft (MSC)](sc.md)**·ПКА<br> ・**[Nuclear reactor (NR)](nr.md)**·ЯР<br> ・**[Onboard computer (OBC)](obc.md)**·ЦВМ<br> ・**[Propulsion system (PS)](ps.md)**·ДУ<br> ・**[Reaction wheel (RW)](iu.md)**·ДМ<br> ・**[Receiver](comms.md)**·Приёмник<br> ・**[Robot](robotics.md)**·Робот<br> ・**[Rover](rover.md)**·Ровер<br> ・**[RTG](rtg.md)**·РИТЭГ<br> ・**[Structures, gears, materials (SGM)](sgm.md)**·КММ<br> ・**[Software](soft.md)**·ПО<br> ・**[Soil sample system (SSS)](sss.md)**·ГЗУ<br> ・**[Solar panel (SP)](sp.md)**·БС<br> ・**[Solar panels orientation system (SPOS)](devd.md)**·СОСБ<br> ・**[Spacecraft power system (SPS)](sps.md)**·СЭС<br> ・**[Star tracker](sensor.md)**·Звёздный датчик<br> ・**[Sun sensor](sensor.md)**·Солнечный датчик<br> ・**[Systems engineering (SE)](se.md)**·СЭ<br> ・**[Telemetry system (TMS)](tms.md)**·ТМС<br> ・**[Thermal control system (TCS)](tcs.md)**·СОТР<br> ・**[Transmitter](comms.md)**·Передатчик|・Газоанализатор<br> ・Грунтозаборник<br> ・[Датчик](sensor.md) ветра<br> ・[Датчик](sensor.md) газов<br> ・[Датчик](sensor.md) пыли<br> ・[Датчик](sensor.md) температуры<br> ・Измеритель звёздного ветра<br> ・Измеритель плазмы<br> ・Измеритель энергетичных частиц<br> ・Камера различных спектров<br> ・Камера трёхмерная<br> ・Магнитометр<br> ・Маяк<br> ・Отражатель<br> ・Радар<br> ・Радар подпочвенный<br> ・Сейсмометр<br> ・Спектрометр (ИК, УФ, Фурье и пр.)|
+
+
+
+## Description and manufacturers
 
 In common any onboard equipment can be basically described using the following table.
 
@@ -78,9 +68,9 @@ In common any onboard equipment can be basically described using the following t
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
-|**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](sp.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|
+|**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|
 
    1. Docs: …
    1. Notable interwikies — …

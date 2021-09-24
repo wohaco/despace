@@ -15,12 +15,6 @@
    - **Космическая система (КС)** — по [Положению РК‑11‑КТ](const_rk11.md) стр. 17 — совокупность согласованно действующих и взаимосвязанных [КА](sc.md) и других технических средств КК и наземного специального комплекса, предназначенных для решения целевых задач. В состав КС могут входить несколько КК.
    - **Многоразовая космическая система (МКС)** — КС с орбитальными средствами многократного использования.
 
-Связанные страницы:
-
-   1. [Класс чистоты](clean_lvl.md);
-   1. [Контейнеры для транспортировки](ship_contain.md);
-   1. [О выводимых массах](throw_weight.md);
-
 
 
 <p style="page-break-after:always"> </p>
@@ -38,7 +32,7 @@ Common dividing SCS into parts:
 ░║ ║ ╟ [Launch vehicle](lv.md)  
 ░║ ║ ╟ [Spaceport](spaceport.md)  
 ░║ ║ ╙ Transport & supporting facilities  
-░║ ╟ [Mission (or flight) control (or operations) centers](mcc.md) (MCC)  
+░║ ╟ [Mission (or flight) control (or operations) centers](scs.md) (MCC)  
 ░║ ╟ Remote terminals  
 ░║ ╙ [Search & rescue complex](sarc.md) (SARC)  
 ░║  
@@ -46,7 +40,7 @@ Common dividing SCS into parts:
 ░║ ╙ Customer terminals  
 ░║  
 ░╙ **Space segment** (SS)  
-░░░╙ **[Spacecraft](sc.md)** (SC)  
+░░░╙ **[Spacecraft](sc.md)** (SC) or **[Manned spacecraft](sc.md)** (MSC, ПКА)  
 ░░░░░╟ [Attitude control system](acs.md)  
 ░░░░░╟ [Cables](cable.md)  
 ░░░░░╟ [Command & Data Handling](c_n_dh.md) *(C&DH)*  
@@ -104,7 +98,6 @@ Common dividing SCS into parts:
 ░░░░░░░░░║ ╟ Комплекс автоматики и стабилизации  
 ░░░░░░░░░║ ╙ Солнечные панели  
 
-
 **And logics:**
 
    - [Communications](comms.md)
@@ -133,6 +126,19 @@ Common dividing SCS into parts:
    - [Tests](test.md)
    - [Timeline](timeline.md)
    - [TRL](trl.md) & [CML](cml.md)
+   - **[Ecology](ecology.md)**·Экология
+   - **[Ground station (GS)](scs.md)**·НС
+   - **[Launch vehicle (LV)](lv.md)**·РН
+   - **[Manned spacecraft (MSC)](sc.md)**·ПКА
+   - **[Mission control center (MCC)](mcc.md)**·ЦУП
+   - **[Search & rescue complex (SARC)](sarc.md)**·ПСК
+   - **[Systems engineering (SE)](se.md)**·СЭ
+   - **[Software](soft.md)**·ПО
+   - **[Spaceport](spaceport.md)**·Космодром
+
+   1. [Класс чистоты](clean_lvl.md);
+   1. [Контейнеры для транспортировки](ship_contain.md);
+   1. [О выводимых массах](throw_weight.md);
 
 
 
@@ -159,6 +165,43 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 |**USA**|…|
 |**UAE**|…|
 |**Vietnam**|…|
+
+
+
+
+
+#### Mission control center (MCC)
+> <small>**Mission control center (MCC), Launch control center (LCC)** — EN term. **Центр управления полётами (ЦУП)** — RU analogue.</small>
+
+A **mission control center** (**MCC**, sometimes called a **flight control center** or **operations center**) — a part of a [SCS](scs.md) — is a facility that manages space flights, usually from the point of launch until landing or the end of the mission. It is part of the ground segment of spacecraft operations. A staff of flight controllers & other support personnel monitor all aspects of the mission using telemetry, & send commands to the vehicle using ground stations. Personnel supporting the mission from an MCC can include representatives of the attitude control system, power, propulsion, thermal, attitude dynamics, orbital operations & other subsystem disciplines. The training for these missions usually falls under the responsibility of the flight controllers, typically including extensive rehearsals in the MCC.
+
+![](f/control/mcc_global.png)
+
+**(RU) ЦУП**
+
+**Центр управле́ния полётами (ЦУП)** — сооружения с техническими системами и технологическими средствами командно‑программного, телеметрического и [баллистико‑навигационного обеспечения](nnb.md), вешних информационных обменов, магистральных и специальных связей, отображения, предназначенными для обеспечения деятельности обслуживающего персонала по формированию, передаче, приёму, обработке, хранению, документированию информации при непрерывном процессе управления полётами [космических аппаратов](sc.md) в период проведения [лётных испытаний](rnd_e.md) и эксплуатации [космических систем](scs.md).
+
+Согласно типовой [схеме деления](draft_model.md) ЦУП входит в состав [НКУ](scs.md). Часто в состав ЦУП входят также [баллистические центры](scs.md).
+
+В мире существует несколько агентств, среди которых крупнейшими являются следующие:
+
+   - [Европейское космическое агентство](zz_esa.md) (ЕКА)
+      1. Европейский центр управления космическими объектами — Дармштадт, Германия
+      1. ATV Control Centre — Тулуза, Франция
+      1. Columbus Control Center — Оберпфаффенхофен, Германия
+   - [Китайское национальное космическое управление](zz_cnsa.md) (CNSA)
+      1. Пекинский центр управления космическими полётами
+   - [Роскосмос](zz_roskosmos.md)
+      1. Центр управления полётами [ЦНИИмаш](zz_tsniimash.md) — Королёв, Московская область
+      1. Главный испытательный центр испытаний и управления космическими средствами имени Г.С. Титова — Краснознаменск, Московская область
+      1. Центр управления спутниками народно‑хозяйственного назначения (ЦУП-НХ) — ОАО «Информационные спутниковые системы» имени академика М.Ф. Решетнёва, Железногорск, Красноярский край
+      1. ЦУП‑Л — [LAV](zz_lav.md), Химки, Московская область
+      1. ЦУП Бонум (ЦКС Сколково) — ФГУП «Космическая связь», Сколково, Московская область
+   - [NASA](zz_nasa.md) (НАСА)
+      1. Центр управления полётами (НАСА) — Хьюстон, Техас
+      1. [JPL](zz_jpl.md) — Пасадина, Калифорния
+   - Япония
+      1. NEC Satellite Operation Center ([NEC](zz_nec.md)).
 
 
 
@@ -265,7 +308,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ### Баллистический центр
 > <small>**Баллистический центр (БЦ)** — русскоязычный термин. **Ballistic analysis center (BAC)** — англоязычный эквивалент.</small>
 
-**Баллистический центр (БЦ)** — комплекс программно‑аппаратных средств для определения орбит КА и расчётов траектории его движения, необходимых манёвров и для прочего баллистико‑навигационного обеспечения. Часто входит в состав [ЦУП](mcc.md).
+**Баллистический центр (БЦ)** — комплекс программно‑аппаратных средств для определения орбит КА и расчётов траектории его движения, необходимых манёвров и для прочего баллистико‑навигационного обеспечения. Часто входит в состав [ЦУП](scs.md).
 
 Известные БЦ РФ:
 
@@ -424,7 +467,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ### Наземный комплекс управления
 > <small>**Наземный комплекс управления (НКУ)** — русскоязычный термин. **Ground segment (GS)** — примерный англоязычный эквивалент.</small>
 
-**Наземный комплекс управления (НКУ)** — совокупность взаимосвязанных технических средств с информационным и математическим обеспечением, сооружений, [центра управления полётом](mcc.md) и отдельных командно‑измерительных комплексов, предназначенных для автоматизированного управления КА на всех этапах полёта КА после его отделения от [разгонного блока](lv.md).
+**Наземный комплекс управления (НКУ)** — совокупность взаимосвязанных технических средств с информационным и математическим обеспечением, сооружений, [центра управления полётом](scs.md) и отдельных командно‑измерительных комплексов, предназначенных для автоматизированного управления КА на всех этапах полёта КА после его отделения от [разгонного блока](lv.md).
 
 **НКУ** обычно включает в свой [состав](draft_model.md):
 
@@ -432,7 +475,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
    - Наземная станция (НС)
    - [Сектор главного конструктора](cd_segm.md) (СГК)
    - [Средства связи и передачи данных](mcntd.md) (ССПД)
-   - [Центр управления полётом](mcc.md) (ЦУП)
+   - [Центр управления полётом](scs.md) (ЦУП)
 
 На этапе выведения на орбиту перелёта НКУ не привлекается. На этом этапе полёта контроль за выполнением [полётных заданий](fp.md) [LV](lv.md) и [РБ](lv.md) осуществляется наземными средствами [КСИСО](scs.md) и [НИК](lm_sys.md) РБ. Также может включать в свой состав [КИС](scs.md) и [НИП](scs.md).
 
@@ -477,10 +520,10 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)・ [ГО и ПхО](lv.md)・ [Класс чистоты](clean_lvl.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [СЧ](sui.md)|
-|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)・ [КИС](scs.md)・ [КСИСО](scs.md)・ [НИК](lm_sys.md)・ [НИП](scs.md)・ [НС](scs.md)・ [ПОЗ](fp.md)・ [СГК](cd_segm.md)・ [ССПД](mcntd.md)・ [ЦУП](mcc.md)|
+|**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)・ [КИС](scs.md)・ [КСИСО](scs.md)・ [НИК](lm_sys.md)・ [НИП](scs.md)・ [НС](scs.md)・ [ПОЗ](fp.md)・ [СГК](cd_segm.md)・ [ССПД](mcntd.md)・ [ЦУП](scs.md)|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|
 |**`Наземный научный комплекс (ННК):`**<br> [АПС](hns.md)|
 
@@ -494,6 +537,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
       - НАКУ: [ГОСТ 53802](гост_53802.md), п. 30‑32
       - КСИСО: [ГОСТ 53802](гост_53802.md), п. 51
       - КИК: <https://ru.wikipedia.org/wiki/Категория:Командно‑измерительный_комплекс>
+      - ЦУП: [ГОСТ 53802](гост_53802.md), п. 41‑42
    1. Notable interwikies — …
    1. SCS:
       1. <https://en.wikipedia.org/wiki/Attitude_control>
@@ -512,3 +556,6 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
       1. <http://www.ngpedia.ru/id584007p1.html>
       1. <http://www.keldysh.ru/httpd/kiam-info_fr.html>
       1. <http://www.kiam1.rssi.ru/>
+   1. ЦУП:
+      1. <https://en.wikipedia.org/wiki/Mission_control_center>
+      1. <https://ru.wikipedia.org/wiki/Центр_управления_полётами_(организация)>

@@ -24,31 +24,31 @@
 |[TRL](trl.md)|3|3|6|6|
 |[Voltage](voltage.md), V| | | | |
 |**【Specific】**|• • •|• • •|• • •|• • •|
-|Давление: вход в двигатель, ㎫ (kgf/㎝²)| | | | |
-|Давление: камера сгорания, ㎫ (kgf/㎝²)|5.9 (57) - 30.6 (300)|5.9 (57) - 30.6 (300)| | |
-|Давление: срез сопла, ㎫ (kgf/㎝²)|0.0735 (0.721)|0.09 (0.883)| | |
-|Длительность одного включения, с| | | | |
-|[Res.impulse](ing.md), N·s (kgf·s), ≤| | | | |
-|Макс. расход, ㎏/s, ≤|922.5|934.08|486.82|516.58|
-|Макс. частота включений, Гц| | | | |
-|Массовое соотношение КРТ|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|
-|Обороты ТНА|—|—|—|—|
-|Продукты горения| | | | |
-|Раствор пучка, °| | | | |
-|Ресурс: количество включений, ≥| | | | |
-|Ресурс: сумм. длит. включений, c, ≥| | | | |
-|Ресурс: сумм. импульс, Н·с (кгс·с), ≥| |
-|Ресурс: сумм. тяга, Н (кгс), ≥| | | | |
-|Ресурс: топливо, ㎏, ≥| | | | |
-|Температура: камера сгорания, 10³ К (℃)|3 250|3 250|3 250|3 250|
-|Температура: срез сопла, 10³ К (℃)| | | | |
-|[Топливо](fuel.md)|<small>[Кислород + Метан](o_plus.md)</small>|<small>[Кислород + Метан](o_plus.md)|<small>[Кислород + Метан](o_plus.md)|<small>[Кислород + Метан](o_plus.md)|
-|Тяга: номинальная, N (kgf)|3 285 000<br> (334 860)|3 500 000<br> (356 770)|1 700 000<br> (173 290)|1 900 000<br> (193 680)|
+|Pressure: engine entrance, ㎫ (kgf/㎝²)| | | | |
+|Pressure: comb. chamber, ㎫ (kgf/㎝²)|5.9 (57) - 30.6 (300)|5.9 (57) - 30.6 (300)| | |
+|Pressure: nozzle cut, ㎫ (kgf/㎝²)|0.0735 (0.721)|0.09 (0.883)| | |
+|Thrust: max. duration of one thrust, s| | | | |
+|Thrust: [res.impulse](ing.md), N·s (kgf·s), ≤| | | | |
+|Fuel: consumption, ㎏/s, ≤|922.5|934.08|486.82|516.58|
+|Thrust: max. switching frequency, ㎐| | | | |
+|Fuel: mass ratio of components|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|
+|Turbopump speed, rpm|—|—|—|—|
+|Fuel: combustion products| | | | |
+|Thrust: torch angle, °| | | | |
+|Resource: number of thrusts, ≥| | | | |
+|Resource: total thrust (duration), s, ≥| | | | |
+|Resource: total impulse, N·s (kgf·s), ≥| |
+|Resource: total thrust, N (kgf), ≥| | | | |
+|Resourse: fuel, ㎏, ≥| | | | |
+|Temperature: combus. chamber, 10³ К (℃)|3 250|3 250|3 250|3 250|
+|Temperature: nozzle cut, К (℃)| | | | |
+|[Fuel](fuel.md)|<small>[Кислород + Метан](o_plus.md)</small>|<small>[Кислород + Метан](o_plus.md)|<small>[Кислород + Метан](o_plus.md)|<small>[Кислород + Метан](o_plus.md)|
+|Thrust: nominal, N (kgf)|3 285 000<br> (334 860)|3 500 000<br> (356 770)|1 700 000<br> (173 290)|1 900 000<br> (193 680)|
 |Тяга: отклонение, % |20 ‑ 100|20 ‑ 100| | |
-|[УИ тяги](isp.md), Н·с/кг (с), ≥|3 561 (363)|3 747 (382)|3 492 (356)|3 678 (375)|
-|Число Маха / [Показатель адиабаты](heat_cr.md)| | | | |
+|Thrust: [Isp](isp.md), N·s/㎏ (s), ≥|3 561 (363)|3 747 (382)|3 492 (356)|3 678 (375)|
+|Mach number / [Adiabatic exponent](heat_cr.md)| | | | |
 
-**Примечания:**
+**Notes:**
 
    1. Существует в 4 вариациях:
       - **ER40** — базовая версия, работает и в атмосфере и в вакууме.
@@ -56,7 +56,7 @@
       - **Raptor 2017‑SL** — разработка 2017 года, работает и в атмосфере и в вакууме.
       - **Raptor 2017‑V** — вариант 2017 для работы в вакууме.
    1. **[1]** — …
-   1. **Применяемость:** [BFR](bfr.md), [ITC](itc.md)
+   1. **Applicability:** [BFR](bfr.md), [ITC](itc.md)
 
 |Тестовая площадка двигателя Raptor, 2017.01.30<br> [Источник 1 ⎆](https://www.reddit.com/r/engineteststands/comments/43lmbn/spacexs_raptor_test_stand_under_construction_at/), [Источник 2 ⎆](http://pictures.jtbuice.com/SpaceX-2/McGregor-Flyover-1-30-2016/)|Сравнение [BE‑4](be_4.md), [Raptor](raptor.md), Merlin 1D|
 |:--|:--|
@@ -69,7 +69,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](warp_drive.md)・ [Газовый двигатель](cgt.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](bussard_ramjet.md)・ [ЖРД](lpr.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](spr.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](epsp.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](ntr.md)|
 

@@ -12,31 +12,27 @@
 |:--|:--|
 |Consumption, W|10 ‑ 100|
 |Dimensions, ㎜|300 ‑ 600 × 250 × 250|
-|[Interfaces](interface.md)|SpaceWire, LVDS link, [МКО](mil_std_1553.md), Wizard Link, Channel Link, GigaLink, RS‑422 UART, Parallel|
+|[Interfaces](interface.md)|[SpaceWire](spacewire.md), [LVDS](lvds.md) link, [МКО](mil_std_1553.md), Wizard Link, Channel Link, GigaLink, [RS-422](rs_xxx.md) UART, Parallel|
 |[Lifetime](lifetime.md)/Resource, h(y)|[НОО](nnb.md): 131 400 (15) / …|
 |Mass, ㎏|8 ‑ 20|
 |[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)|400 (40 000)|
 |[Reliability](qm.md) per [lifetime](lifetime.md)|0.99 за 7 лет на орбите|
-|[Thermal range](tcs.md), ℃|−25 ‑ +60 при работе;<br> −40 ‑ +75 при простое|
+|[Thermal range](tcs.md), ℃|−25 ‑ +60 при работе; −40 ‑ +75 при простое|
 |[TRL](trl.md)|9|
 |[Voltage](voltage.md), V| |
 |**【Specific】**|• • •|
-|Алгоритмы сжатия|JPEG, WAVELET, [CCSDS](ccsds.md) 122 BPE, BAQ, FFT BAQ, advanced BAQ|
-|Алгоритмы шифр.|TRIPLE‑DES, AES и пр. для передачи информации (до 600 Мбит/с)|
-|Входов| |
-|Ёмкость, Мбит (Мбайт)|1 024 ‑ 20 480 (128 ‑ 2 560)|
-|Исполнение| |
-|Скор., Мбит(Мбайт)/с|8 192 (1 024)|
-|Циклов перезаписи| |
+|Algorithms (compr.)|JPEG, WAVELET, [CCSDS](ccsds.md) 122 BPE, BAQ, FFT BAQ, advanced BAQ|
+|Algorithms (encryp.)|TRIPLE‑DES, AES и пр. для передачи информации (до 600 Мбит/с)|
+|Bitrate, Mbit/s (㎆/s)|8 192 (1 024)|
+|Capacity, Mbit (㎆)|1 024 ‑ 20 480 (128 ‑ 2 560)|
+|Cycles of rewrite| |
+|Inputs| |
 
-**Примечания:**
+**Notes:**
 
    1. Устройство имеет в своём составе микропроцессор со средствами управления и диагностики памяти в ЗУ.
-   1. **Применяемость:**
-      - [Chandrayaan-1](chandrayaan_1.md)
-      - [Chang'E-1](chang_e_1.md)
-      - [LRO](lunar_reconnaissance_orbiter.md)
+   1. **Applicability:** [Chandrayaan-1](chandrayaan_1.md)・ [Chang'E-1](chang_e_1.md)・ [LRO](lunar_reconnaissance_orbiter.md)
 
 
 
@@ -45,7 +41,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera](cam.md)**·Камера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](fuel.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](mcc.md)**·ЦУП, **[Model](model.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](oe.md)**·БА, **[Pat.](патент.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robotics.md)**·Робот, **[Rover](rover.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sgm.md)**·КММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8)・ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8)・ [OBMU](sait_obmu.md) (1.8)|
 
