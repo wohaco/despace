@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](mgmt.md)**|…|
 
-**3D Printing Corporation KK.** By integrating [3D printing technologies](sgm.md), we establish alternative supply chains for the support of Japanese manufacturers.
+**3D Printing Corporation KK.** By integrating [3D printing technologies](sc.md), we establish alternative supply chains for the support of Japanese manufacturers.
 
 <p style="page-break-after:always"> </p>
 

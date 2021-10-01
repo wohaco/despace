@@ -92,20 +92,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[Calian AT](zz_calian_at.md) — Ground testing equipment, In orbit test systems<br> ・[Telecan Space](zz_telecan_space.md) — Thermal testing<br> ・[Thoth Tech.](zz_thoth_tech.md) — thermal vacuum & vibration tests|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[IMV](zz_imv_corp.md)<br> ・[Mitsubishi](zz_mitsubishi.md) — Rocket Engine Combustion Test Facility<br> ・[Pale Blue Inc.](zz_pale_blue_inc.md)|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[Calian AT](zz_calian_at.md) — Ground testing equipment, In orbit test systems<br> ・[Telecan Space](zz_telecan_space.md) — Thermal testing<br> ・[Thoth Tech.](zz_thoth_tech.md) — thermal vacuum & vibration tests|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[IMV](zz_imv_corp.md)<br> ・[Mitsubishi](zz_mitsubishi.md) — Rocket Engine Combustion Test Facility<br> ・[Pale Blue Inc.](zz_pale_blue_inc.md)|
+|**KR**|…|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -201,7 +201,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 |**【[Test](test.md)】**<br> [JTAG](jtag.md)・ [Proto fligt model](pfm.md)・ [Безэховая камера](ach.md)・ [Валидация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [КПЭО](ctpr.md)・ [Перечень методик испытаний](list_tp.md)・ [Программа и методика испытаний](pmot.md)・ [Опытный образец](pilot_sample.md)・ [Циклограмма](obc.md)・ [Штатный образец](flight_unit.md)・ [ЭО](test.md)・ [Экспериментально‑теоретический метод](etetm.md)|

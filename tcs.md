@@ -68,20 +68,20 @@ Usually includes:
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[Canadensys](zz_canadensys.md)<br> ・[Telecan Space](zz_telecan_space.md) — Thermal R&D|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Sumitomo PP](zz_sumitomo_pp.md) — heat exchangers & control systems|
-|**Korea S.**|…|
-|**Russia**|・СОТР КА производят все, кто производит КА ([ВНИИЭМ](zz_vniiem.md), [ИСС](zz_iss_r.md), [LAV](zz_lav.md) и т.д.)<br> ・СОТР СЧ КА производят все, кто производит бортовую аппаратуру<br> ・[НИИ ТП](zz_niitp.md) — тепловые аккумуляторы<br> ・[НИИЯФ МГУ](zz_ниияф_мгу.md) — РИТ, РИТЭГ|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[Canadensys](zz_canadensys.md)<br> ・[Telecan Space](zz_telecan_space.md) — Thermal R&D|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Sumitomo PP](zz_sumitomo_pp.md) — heat exchangers & control systems|
+|**KR**|…|
+|**RU**|・TCS of a SC can design anyone who design SC ([VNIIEM](zz_vniiem.md), [ISS](zz_iss_r.md), [LAV](zz_lav.md), etc.)<br> ・TCS of a SC units can design anyone who design OE<br> ・[NII TP](zz_niitp.md) — thermal accumulators<br> ・[NIIYAF MSU](zz_ниияф_мгу.md) — RHU, RTG|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -90,9 +90,9 @@ Usually includes:
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Средства обеспечения теплового режима (СОТР):`**<br> [Thermal characteristics](thermal_chars.md)・ [Гермоконтейнер](гермоконтейнер.md)・ [Насосы для СОТР](сотр_насос.md)・ [Покрытия для СОТР](сотр_покрытия.md)・ [Радиатор](радиатор.md)・ [РИТ (РИТЭГ)](rtg.md)・ [Стандартные условия](sctp.md)・ [Тепловая труба](hp.md)・ [ТЗП](hs.md)・ [Тепловой аккумулятор](heat_bank.md)・ [ТСП](tsp.md)・ [Шторка](thermal_curtain.md)・ [ЭВТИ](mli.md)|
+|**【Thermal control system (TCS)】**<br> [Thermal characteristics](thermal_chars.md)・ [Гермоконтейнер](гермоконтейнер.md)・ [Насосы для СОТР](сотр_насос.md)・ [Покрытия для СОТР](сотр_покрытия.md)・ [Радиатор](радиатор.md)・ [РИТ (РИТЭГ)](rtg.md)・ [Стандартные условия](sctp.md)・ [Тепловая труба](hp.md)・ [ТЗП](hs.md)・ [Тепловой аккумулятор](heat_bank.md)・ [ТСП](tsp.md)・ [Шторка](thermal_curtain.md)・ [ЭВТИ](mli.md)|
 
    1. Docs: …
    1. Notable interwikies — …

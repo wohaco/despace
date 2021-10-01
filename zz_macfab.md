@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Reaction wheels](iu.md), [Star trackers](sensor.md), [Sun sensors](sensor.md), [Rotary sensors & positioners](iu.md), [Deployment & retrieval mechanisms](sgm.md), [Structures](sgm.md), Waveguides, [Torque rods](sgm.md)|
+|**Business**|[Reaction wheels](iu.md), [Star trackers](sensor.md), [Sun sensors](sensor.md), [Rotary sensors & positioners](iu.md), [Deployment & retrieval mechanisms](sc.md), [Structures](sc.md), Waveguides, [Torque rods](sc.md)|
 |**[MGMT](mgmt.md)**|…|
 
 Serving customers across North & South America, the United Kingdom, Europe, Australia & Asia, **Macfab** is a leading supplier of custom components in product development & production volumes, & offers a complete suite of precision machining, finishing, cleaning & assembly solutions.

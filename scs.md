@@ -54,10 +54,10 @@ Common dividing SCS into parts:
 ░░░░░║ ╙ Transmitters, receivers  
 ░░░░░╟ [Guidance, navigation, & control](gnc.md) *(GNC)*  
 ░░░░░╟ [Life support](ls.md)  
-░░░░░╟ [Payload](oe.md) *(OE)*  
+░░░░░╟ [Payload](sc.md) *(OE)*  
 ░░░░░╟ [Power system](sps.md) *(SPS)*  
 ░░░░░╟ [Propulsion system](ps.md) *(PS)*  
-░░░░░╟ [Structures, gears, materials, robotics](sgm.md) *(SGM)*  
+░░░░░╟ [Structures, gears, materials, robotics](sc.md) *(SGM)*  
 ░░░░░║ ╟ Mounting gears, robotics, structures  
 ░░░░░║ ╟ On-board gears  
 ░░░░░║ ╟ On-board robotics  
@@ -151,20 +151,20 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations<br> ・[Calian AT](zz_calian_at.md) — Composite carbon fiber antenna, Comms systems, TT&C systems, Earth observation systems, Monitor & reconfiguration systems, Mission operations systems, Satellite gateway systems<br> ・[Honeywell Aerospace](zz_honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](zz_mda.md)|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|…|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations<br> ・[Calian AT](zz_calian_at.md) — Composite carbon fiber antenna, Comms systems, TT&C systems, Earth observation systems, Monitor & reconfiguration systems, Mission operations systems, Satellite gateway systems<br> ・[Honeywell Aerospace](zz_honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](zz_mda.md)|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|…|
+|**KR**|…|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -367,20 +367,20 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[MDA](zz_mda.md)|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Infostellar](zz_infostellar.md) — space communication infrastructure, 10+ UHF/S/X antennas<br> ・[Kratos IS](zz_kratos.md) — R&D ground antennas, optimizing/managing satelllites, signals<br> ・[Mitsubishi Elecric](zz_mitsubishi.md) — ground control stations for satellite tracking, & optical/radio telescopes for astronomical observation, antennas, transmitters & receivers<br> ・[RESTEC](zz_restec.md)|
-|**Korea S.**|…|
-|**Russia**|・[ОКБ МЭИ](zz_okbmei.md)|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AU**|…|
+|**CA**|・[MDA](zz_mda.md)|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Infostellar](zz_infostellar.md) — space communication infrastructure, 10+ UHF/S/X antennas<br> ・[Kratos IS](zz_kratos.md) — R&D ground antennas, optimizing/managing satelllites, signals<br> ・[Mitsubishi Elecric](zz_mitsubishi.md) — ground control stations for satellite tracking, & optical/radio telescopes for astronomical observation, antennas, transmitters & receivers<br> ・[RESTEC](zz_restec.md)|
+|**KR**|…|
+|**RU**|・[ОКБ МЭИ](zz_okbmei.md)|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**AE**|…|
+|**VN**|…|
 
 |*Изображение*|*Описание*|
 |:--|:--|
@@ -407,14 +407,14 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 **Мировые**
 
-|*Ведомство*|*НК*|
+| |*НК*|
 |:--|:--|
-|Европа|Raisting Satellite Earth Station (Германия), [Maspalomas Station](maspalomas_station.md)|
-|Индия| |
-|Китай| |
-|РФ| |
-|США| |
-|Япония| |
+|EU|Raisting Satellite Earth Station (Германия), [Maspalomas Station](maspalomas_station.md)|
+|IN| |
+|JP| |
+|CN| |
+|RU| |
+|US| |
 
 
 
@@ -427,20 +427,20 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|…|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[NEC](zz_nec.md)|
+|**AE**|…|
+|**AU**|…|
+|**CA**|…|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[NEC](zz_nec.md)|
 |**Korea South**|…|
-|**Russia**|…|
+|**RU**|…|
 |**Saudi Arabia**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -520,7 +520,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)・ [ГО и ПхО](lv.md)・ [Класс чистоты](clean_lvl.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [СЧ](sui.md)|
 |**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)・ [КИС](scs.md)・ [КСИСО](scs.md)・ [НИК](lm_sys.md)・ [НИП](scs.md)・ [НС](scs.md)・ [ПОЗ](fp.md)・ [СГК](cd_segm.md)・ [ССПД](mcntd.md)・ [ЦУП](scs.md)|

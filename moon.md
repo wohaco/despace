@@ -303,7 +303,7 @@ See also “[Projects](project.md)”.
    - [Lunagruzik](hptc_lunagruzik.md)
    - [OCHBPLIEG](hptc_ochbplieg.md)
 
-**[Lunar rovers](rover.md):**
+**[Lunar rovers](robot.md):**
 
    - [Chandrayaan-2-rover](chandrayaan_2_rover.md) <mark>TBD</mark>
    - [LRV](lrv.md) <mark>TBD</mark>
@@ -327,9 +327,9 @@ See also “[Projects](project.md)”.
 |RU|[Луна‑29](луна_29.md) Ⓛ| | |C| | |S| |<mark>TBD</mark>|
 |—|**・Developing・**|—|•|•|•|•|•|•|—|
 |RU|[Луна‑28](луна‑28.md) (ЛГР) Ⓛ|2025| |C| | | | |<mark>TBD</mark>|
-|RU|[Луна‑27](луна_27.md) (ЛР1) Ⓛ|2025| |C| | | | |<mark>TBD</mark>|
+|RU|[Luna‑27](луна_27.md) (ЛР1) Ⓛ|2025| |C| | | | |<mark>TBD</mark>|
 |RU|[Луна‑26](луна_26.md) (ЛРОА) Ⓛ|2021|D| | | | | |<mark>TBD</mark>|
-|RU|[Луна‑25](луна_25.md) (ЛГ) Ⓛ|2021| |C| | | | |<mark>TBD</mark>|
+|RU|[Luna‑25](луна_25.md) (ЛГ) Ⓛ|2021| |C| | | | |<mark>TBD</mark>|
 |—|**・Active・**|—|•|•|•|•|•|•|—|
 |…|…|…| | | | | | |<mark>TBD</mark>|
 |—|**・Past・**|—|•|•|•|•|•|•|—|
@@ -462,7 +462,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑071|T|Exploration with [satellites](sc.md): nanosatellites| | |D|F| | |
 |EMN‑058|T|Exploration: directed seismoexperiment| | |D|F| | |
 |EMN‑056|T|Exploration: from L1/L2|Ai, Am, At, Gi| |D| | | |
-|EMN‑059|T|Exploration: with [rover](rover.md)|All A/S|C| | | | |
+|EMN‑059|T|Exploration: with [rover](robot.md)|All A/S|C| | | | |
 |EMN‑081|T|Extreme environment electronics| |C|D|F| | |
 |EMN‑094|T|High temperature electronics| |C|D|F| | |
 |EMN‑066|T|Human: on the surface| |C| | |H| |
@@ -555,7 +555,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Astro.object](aob.md)・ [Blue Marble](earth.md)・ [Cosmic rays](cr.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|
 

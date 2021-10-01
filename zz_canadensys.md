@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Power management & distribution](sps.md), [Energy storage & battery management](eb.md), [OBC](obc.md) & data processing, [Advanced imaging](cam.md) & situational awareness, [Mechanisms & structures](sgm.md), [Thermal control](tcs.md), [Spacecraft & robotics](sc.md)|
+|**Business**|[Power management & distribution](sps.md), [Energy storage & battery management](eb.md), [OBC](obc.md) & data processing, [Advanced imaging](cam.md) & situational awareness, [Mechanisms & structures](sc.md), [Thermal control](tcs.md), [Spacecraft & robotics](sc.md)|
 |**[MGMT](mgmt.md)**|・President & CEO — Christian Sallaberger|
 
 **Canadensys Aerospace Corporation** is a space systems & services company with a focus on accessible space. The company is founded on heritage & expertise that spans a number of Canada’s historic space achievements of the last 3 decades, blending them with micro & nano space technology, & modern, commercial business models for effective space program & mission development.

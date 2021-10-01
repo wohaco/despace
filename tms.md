@@ -23,18 +23,14 @@
       - обмена ТМ‑сигналами;
       - приёма управляющих команд.
 
-
-
-## Разновидности
 | |*[Фирма](contact.md)*|*Актуальные (масса, ㎏)*|*Исторические (масса, ㎏)*|
 |:--|:--|:--|:--|
 |**RU**|**[ИРЗ](zz_irz.md)**|[ТМС-Л](tms_l.md) (8.5)・ [ТМС-УФ](tms_uf.md) (7.25)・ [ТМС-РГ](tms_rg.md) (5)| |
 | |**[НИИ МП Гуськова](zz_niimp.md)**| |[ТМС-ЛР1](tms_lr1.md) (4.5)|
 | |**[НПО ИТ](zz_npoit.md)**|[Пирит](pirit.md) (2.6)・ [Оникс](onyx.md) (1.1)・ [Астра](astra.md) ()| |㋎
 
+**Designers, manufacturers**
 
-
-## Designers, manufacturers
    - **Россия**
      1. [Аксион‑холдинг](zz_axion_h.md) — ТМС для РН.
      1. [ИРЗ](zz_irz.md)
@@ -51,9 +47,9 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Телеметрическая система (ТМС):`**<br> … <br>• • •<br> **РФ:** [ТМС-Л](tms_l.md) (8.5)・ [ТМС-УФ](tms_uf.md) (7.25)・ [ТМС-РГ](tms_rg.md) (5)・ [Пирит](pirit.md) (2.6)・ [Оникс](onyx.md) (1.1)・ [Астра](astra.md) ()|
+|**【[Telemetry system (TMS)](tms.md)】**<br> … <br>• • •<br> **RU:** [TMS-L](tms_l.md) (8.5)・ [TMS-UF](tms_uf.md) (7.25)・ [TMS-RG](tms_rg.md) (5)・ [Pirit](pirit.md) (2.6)・ [Onyx](onyx.md) (1.1)・ [Astra](astra.md) ()|
 
    1. Docs: …
    1. Notable interwikies — …

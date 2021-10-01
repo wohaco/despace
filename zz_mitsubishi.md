@@ -23,7 +23,7 @@
       - *Positioning ones* — QZSS (Quasi-Zenith Satellite System)
       - *Science ones* — SOLAR-B
    1. **Satellite equipment.**
-      - *BUS Equip.* — [solar array panels](sp.md), [heat pipe panels](hp.md), [structural panel](sgm.md), & [batteries](eb.md).
+      - *BUS Equip.* — [solar array panels](sp.md), [heat pipe panels](hp.md), [structural panel](sc.md), & [batteries](eb.md).
       - *[RF Equip.](comms.md)* — telemetry/beacon transmitters, power/low noise amplifiers, receiver & ↑↓ converters.
    1. **[Ground Systems](scs.md).** Ground control stations for sat tracking, optic/radio telescopes for astro observation.
       - *Control Systems* — antenna equip. to track/control sats, the optic/radio telescopes to observe.

@@ -16,10 +16,10 @@ i = 51.5°,
 
 |*Место*|*РН*|*РБ*|*ГО*|*[НОО](nnb.md), ㎏*|*ГСО, ㎏*|*Перелёт<br> к Луне, ㎏*|
 |:--|:--|:--|:--|:--|:--|:--|
-|[Байконур](baikonur.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](фрегат.md)|1.750|6 500 ‑ 8 250| |2 200|
+|[Байконур](baikonur.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](fregat.md)|1.750|6 500 ‑ 8 250| |2 200|
 | | | |14С737|6 500 ‑ 8 250| |2 140|
 | | | |81 КС|6 500 ‑ 8 250| |2 130|
-|[Восточный](vostochny.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](фрегат.md)|81 КС| | | |
+|[Восточный](vostochny.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](fregat.md)|81 КС| | | |
 
 
 
@@ -28,10 +28,10 @@ i = 51.5°,
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)・ [ГО и ПхО](lv.md)・ [Класс чистоты](clean_lvl.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [СЧ](sui.md)|
-|**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md)・ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](фрегат.md)|
+|**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md)・ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](fregat.md)|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [Безракетный космический запуск](nrs.md)・ [Выводимая масса](throw_weight.md)・ [Космическая головная часть](lv.md)・ [㎆Р](icbm.md)・ [РКН](lv.md)<br>• • •<br> **Европа:**  [Arian](arian.md)・ [Vega](vega.md) / **Израиль:** [Shavit](shavit.md) / **Индия:** [GSLV](gslv.md)・ [PSLV](pslv.md) / **Китай:** [Long March](long_march.md) / **Корея с.:** [Unha](unha.md) / **Корея ю.:** *([Naro-1](naro_1.md))* / **РФ, СНГ:** [Ангара](angara.md)・ [Протон](proton.md)・ [Союз](soyuz.md)・ [СТК](yenisei.md)・ [Зенит](zenit.md) *([Корона](korona.md)・ [Н-1](n_1.md)・ [Р-1](r_7.md)・ [Энергия](energia.md))* / **США:** [Antares](antares.md)・ [Atlas](atlas.md)・ [BFR](bfr.md)・ [Delta](delta.md)・ [Electron](electron.md)・ [Falcon](falcon.md)・ [Firefly Alpha](firefly_alpha.md)・ [LauncherOne](launcherone.md)・ [New Armstrong](new_armstrong.md)・ [New Glenn](new_glenn.md)・ [Minotaur](minotaur.md)・ [Pegasus](pegasus.md)・ [Shuttle](shuttle.md)・ [SLS](sls.md)・ [Vulcan](vulcan.md) *([Saturn](saturn_lv.md)・ [Sea Dragon](sea_dragon.md))* / **Япония:** [Epsilon](epsilon.md)・ [H2](h2.md)・ [H3](h3.md)|
 
    1. Docs: …

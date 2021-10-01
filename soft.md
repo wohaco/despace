@@ -1,5 +1,5 @@
 # Программное обеспечение
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [OE](oe.md), [GNC](gnc.md), [Soft](soft.md)
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [OE](sc.md), [GNC](gnc.md), [Soft](soft.md)
 
 [TOC]
 
@@ -21,20 +21,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[Globvision](zz_globvision.md)<br> ・[Honeywell Aerospace](zz_honeywell_as.md)<br> ・[MCSS Inc](zz_mcss_inc.md) — software, simulation<br> ・[MDA](zz_mda.md)<br> ・[NGC Aerospace](zz_ngc_as.md)<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)<br> ・[Xiphos](zz_xiphos.md)|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[SE4](zz_se4.md) — AI & VR for robots<br> ・[Space Cubics](zz_spacecubics.md)|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[Globvision](zz_globvision.md)<br> ・[Honeywell Aerospace](zz_honeywell_as.md)<br> ・[MCSS Inc](zz_mcss_inc.md) — software, simulation<br> ・[MDA](zz_mda.md)<br> ・[NGC Aerospace](zz_ngc_as.md)<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)<br> ・[Xiphos](zz_xiphos.md)|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[SE4](zz_se4.md) — AI & VR for robots<br> ・[Space Cubics](zz_spacecubics.md)|
+|**KR**|…|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -74,7 +74,7 @@
       - [CAD-форматы](cad_f.md) (DWG, DXF, IGES, JT, STEP, SVG)
       - [PDF](pdf.md)
    - **Для совместной работы:**
-      - *Коференции* — [Jitsi ⎆](https://jitsi.org/), Skype, ~~[Zoom](zoom.md)~~
+      - *Конференции* — [Jitsi ⎆](https://jitsi.org/), Skype, ~~[Zoom](zoom.md)~~
       - *Работа с документами* — Git, Github, Google Docs
    - И немного ссылок:
       - <http://f9sim.mcrenox.com.ar/> — **F9sim** — Falcon 9 First Stage Simulator.
@@ -192,7 +192,7 @@ GPL предоставляет получателям компьютерных �
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|
 |**【[Guidance, Navigation & Control (GNC)](gnc.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](eas.md)・ [БКС](cable.md)・ [БУ](eas.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](devd.md)|

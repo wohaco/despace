@@ -1,13 +1,13 @@
 # Payload Definition Document
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Doc](doc.md), [OE](oe.md)
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Doc](doc.md), [OE](sc.md)
 
 [TOC]
 
 ---
 
-> <small>**Payload Definition Document (PDD)** — англоязычный термин, не имеющий аналога в русском языке. **_** — дословный перевод с английского на русский.</small>
+> <small>**Payload Definition Document (PDD)** — EN term. **Описание полезной нагрузки** — literal RU translation.</small>
 
-**Payload Definition Document (PDD)** — документ, используемый [ESA](zz_esa.md) в рамках разработки [R&D](rnd.md) — содержит в себе описание, требования и характеристики научных задач миссии и научной аппаратуры, а также анализ возможности реализации миссии данной научной аппаратурой.
+**Payload Definition Document (PDD)** — the document used by [ESA](zz_esa.md) during the [R&D](rnd.md) process which contains a description, requirements & characteristics of scientific tasks of the mission & payload, as well as an analysis of the possibility of implementing the mission with this payload.
 
 **Typical table of contents:**
 
@@ -40,18 +40,14 @@
 
 
 
-<p style="page-break-after:always"> </p>
-
-## Docs & links (TRANSLATEME ALREADY)
+## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Documents:`**<br> …|
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|
 
-   1. Docs:
-      - [Solar Orbiter PDD ❐](f/doc/pdd_solar_orbiter_esa_2004.pdf) (2004 г)
-      - [EChO PDD ❐](f/doc/pdd_echo_esa_2013.pdf) (2013 г)
+   1. Docs: [Solar Orbiter PDD ❐](f/doc/pdd_solar_orbiter_esa_2004.pdf) (2004 г)・ [EChO PDD ❐](f/doc/pdd_echo_esa_2013.pdf) (2013 г)
    1. Notable interwikies — …
    1. <…>

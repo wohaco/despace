@@ -15,7 +15,7 @@ Our ultimate goal is to realize Cyborg Technology that is well known as artifici
 
 Main Products:
 
-   - [Cyborg](robotics.md) (MELTANT Series (MELTANT-α, MELT-ARM, MELT-HAND)),
+   - [Cyborg](robot.md) (MELTANT Series (MELTANT-α, MELT-ARM, MELT-HAND)),
    - Medical Equipment, R&D
 
 <p style="page-break-after:always"> </p>

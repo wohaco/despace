@@ -3,7 +3,7 @@
 
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 
 [TOC]
 
@@ -1107,7 +1107,7 @@
    - **[Education](edu.md):** …
    - **Exp.:** С 2017.05.05 ведущий специалист отдела 512 в составе группы «Лунатиков» *(позывной — «Профессор Звёздочкин»)*. До 2017.05.05 ведущий специалист Дирекции 202.
    - Имеет интересную особенность организма — может плавно уснуть на пару минут, если не занят активным делом, и так же плавно проснуться. ┊ Знаком с [Kerry Nock](person.md).
-   - **SC/Equip.:** … [Луна‑27](луна_27.md), … [Луна‑25](луна_25.md), 1984 [Вега‑1/2](vega_1_2.md), (1983) [Венера‑15/16](venera_15_16.md), (1981) [Венера‑13/14](venera_13_14.md), (1978) [Венера‑11/12](venera_11_12.md), 1976 [Луна‑24](луна_24.md), (1975) [Венера‑9/10](venera_9_10.md), (1972) [Венера‑8](venera_8.md), (1970) [Венера‑7](venera_7.md), (1969) [Венера‑5/6](venera_5_6.md), 1966 [Луна‑9](луна_9.md), (1965) [Венера‑3](venera_2_3.md)
+   - **SC/Equip.:** … [Luna‑27](луна_27.md), … [Luna‑25](луна_25.md), 1984 [Вега‑1/2](vega_1_2.md), (1983) [Венера‑15/16](venera_15_16.md), (1981) [Венера‑13/14](venera_13_14.md), (1978) [Венера‑11/12](venera_11_12.md), 1976 [Луна‑24](луна_24.md), (1975) [Венера‑9/10](venera_9_10.md), (1972) [Венера‑8](venera_8.md), (1970) [Венера‑7](venera_7.md), (1969) [Венера‑5/6](venera_5_6.md), 1966 [Луна‑9](луна_9.md), (1965) [Венера‑3](venera_2_3.md)
    - **Conferences:** …
    - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
    - **As a person:**
@@ -3444,6 +3444,28 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - **Conferences:** [2019 IVC](ivc_2019.md)
    - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/masato-nakamura-5290a375)・ Twitter: <mark>notw</mark>
    - <https://www.researchgate.net/profile/Masato_Nakamura3>
+   - **As a person:**
+      1. …
+
+
+
+<p style="page-break-after:always"> </p>
+
+### Nakamura, Yuya
+
+|*[Org.](contact.md)*|*[Axelspace](zz_axelspace.md), JP.*|
+|:--|:--|
+|B‑day, addr.|<mark>nodate</mark> 1979.12.31 Osaka, JP / …|
+|Contact|<yuya@axelspace.com>, *work:* <mark>TBD</mark>; *mobile:* <mark>nomobile</mark>|
+|i18n|<mark>TBD</mark>|
+| |[![](f/con/n/nakamura2_photo_thumb.jpg)](f/con/n/nakamura2_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
+
+   - **[Education](edu.md):** PhD, Tokyo Univ., 1998 ‑ 2007, Dept. of Aeronautics & Astronautics.
+   - **Exp.:**
+   - …
+   - **SC/Equip.:**
+   - **Conferences:**
+   - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>TBD</mark>・ Twitter: <mark>notw</mark>
    - **As a person:**
       1. …
 

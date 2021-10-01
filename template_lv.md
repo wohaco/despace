@@ -28,7 +28,7 @@
 |Масса старт./сух.|… ㎏ / … ㎏|
 |Разраб./изготов.|[SpaceX](zz_spacex.md) (США) / [SpaceX](zz_spacex.md) (США)|
 |Ступени|…|
-|[Fuel](fuel.md)|[Кислород + Керосин](o_plus.md)|
+|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
 | |[![](f/lv/falcon/falcon9_2018_thumb.jpg)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**

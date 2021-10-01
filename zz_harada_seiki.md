@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](mgmt.md)**|…|
 
-**Harada Seiki Co., Ltd.** is a Japanese manufacturer of special‑purpose vehicles in the automotive industry, parts for satellites, [rovers](rover.md), ultra‑small satellites, small telescopes for observing Earth, prototyping. Founded in 2007.
+**Harada Seiki Co., Ltd.** is a Japanese manufacturer of special‑purpose vehicles in the automotive industry, parts for satellites, [rovers](robot.md), ultra‑small satellites, small telescopes for observing Earth, prototyping. Founded in 2007.
 
 <p style="page-break-after:always"> </p>
 

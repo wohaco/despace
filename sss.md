@@ -1,56 +1,75 @@
-# Грунтозаборное устройство
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[ГЗУ](sss.md)**
+# Soil sampling system
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [SSS](sss.md)
 
 [TOC]
 
 ---
 
-> <small>**Грунтозаборное устройство (ГЗУ)** — русскоязычный термин. **Soil sampling system (SSS)** — англоязычный эквивалент.</small>
+> <small>**Soil sampling system (SSS)** — EN term. **Грунтозаборное устройство (ГЗУ)** — RU analogue.</small>
 
-**Грунтозаборное устройство (ГЗУ)**, также **грунтозаборный комплекс (ГЗК)** — устройство для отбора проб грунта, в т.ч. из глубин и скважин, и для передачи их на исследования аналитическими приборами на борту КА.
+**Soil sampling system (SSS)** *(also Drilling rig, [Logging](sss.md)‑drilling rig)* — device for soil sampling, incl. from depths & wells, & for transferring them for research by analytical instruments on board the SC.
 
-**Варианты названия:**
-
-   - **Буровая установка (БУст)**.
-   - **[Каротажно](logging.md)‑буровая установка (КБУст)**.
-
-Для исключения техногенного засорения образцов не допускается применение алмаза и карбида кремния, также должно быть ограничено присутствие платиноидов, Ag, As, Au, Bi, Cu, Ni, Ga, Ge, In, Sb, Se, Sn, Te, Zn.
-
-| |*[Фирма](contact.md)*|*Модели ГЗУ*|
+| |*[Company](contact.md)*|*SSS models*|
 |:--|:--|:--|
-|**RU**| |[ГЗУ-ЛР1](гзу_лр1.md)・ [ЛБ-15](lb_15.md)<br> **`Исторические:`**<br> [ВБ02](vb02.md)・ [ЛБ-09](lb_09.md)・ [ЛБ-10](lb_10.md)|
+|**RU**| |[GZU-LR1](гзу_лр1.md)・ [LB-15](lb_15.md)<br> **【Archived】** [VB02](vb02.md)・ [LB-09](lb_09.md)・ [LB-10](lb_10.md)|
 
 **Manufacturers**
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[Deltion](zz_deltion.md)|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|…|
-|**Korea S.**|…|
-|**Russia**|・[ГЕОХИ РАН](zz_geokhi_ras.md) — концепция ГЗУ, создание зондов.<br> ・[ИКИ РАН](zz_iki_ras.md)<br> ・КБ ОМ|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[Deltion](zz_deltion.md)|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|…|
+|**KR**|…|
+|**RU**|・[GEOKHI RAS](zz_geokhi_ras.md) — design of SSS & zondes.<br> ・[IKI RAS](zz_iki_ras.md)<br> ・KB OM|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
-<p style="page-break-after:always"> </p>
+## Logging (carottage)
+> <small>**Logging** — EN term. **Каротаж** — RU analogue.</small>
 
-## Docs & links (TRANSLATEME ALREADY)
+**Logging, Carottage** *(fr. Carottage, from carotte — carrot, with which the similarity of the logging probe)* is the general name of the methods of the most common variety of geophysical studies of wells. The logging is a detailed study of the structure of the hole of the well using the descent‑lift in it of the geophysical probe.
+
+The method has a small radius of study around the well (from several ㎝ to several meters), but has a high detail that allows not only to determine the depth of the reservoir, but even the nature of the reservoir itself at all its low power.
+
+The numerous of the logging methods is due to the variety of ground‑based geophysic methods, for each of which a similar “underground” option has been developed. Moreover, there are special types of logging that have no analogues in ground geophysics. Therefore, the logging methods differ in the nature of the physical fields studied by them: electrical, nuclear & others.
+
+
+
+## Stratification
+> <small>**Stratification** — EN term. **Стратификация** — RU analogue.</small>
+
+**Stratification** (lat. stratum & facio — “splitting”):
+
+   - Earth sciences:
+      - Stable & unstable stratification
+      - Stratification, or stratum, the layering of rocks
+      - Stratification (archeology), the formation of layers (strata) in which objects are found
+      - Stratification (water), the formation of water layers based on temperature (and salinity, in oceans)
+      - Lake stratification, the formation of water layers based on temperature, with mixing in the spring & fall in seasonal climates.
+      - Atmospheric stratification, the dividing of the Earth's atmosphere into strata
+      - Inversion (meteorology)
+
+
+
+## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Грунтозаборное устройство (ГЗУ):`**<br> [Каротаж](logging.md)・ [Стратификация](stratification.md)<br>• • •<br> **РФ:** [ГЗУ-ЛР1](гзу_лр1.md)・ [ЛБ-15](lb_15.md) *([ВБ02](vb02.md)・ [ЛБ-09](lb_09.md)・ [ЛБ-10](lb_10.md))*|
+|**【Soil sampling system (SSS)】**<br> [Logging](sss.md)・ [Stratification](sss.md)<br>• • •<br> **RU:** [GZU-LR1](гзу_лр1.md)・ [LB-15](lb_15.md) *([VB02](vb02.md)・ [LB-09](lb_09.md)・ [LB-10](lb_10.md))*|
 
-   1. Docs:
-      - [Презентация по КА «Луна‑Грунт» ❐](f/sss/2018_ikiran_sluta.djvu) (Москва, ИКИ РАН, 2018, Е.Н. Слюта)
+   1. Docs: [Presentation for SC Luna‑Grunt ❐](f/sss/2018_ikiran_sluta.djvu) (Moscow, IKI RAS, 2018, Slyuta E.N.)
    1. Notable interwikies — …
    1. <http://geofpro.com/space-drilling.html>
+   1. <https://en.wikipedia.org/wiki/Stratification>
+   1. <https://ru.wikipedia.org/wiki/Каротаж>

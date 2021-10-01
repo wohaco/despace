@@ -10,14 +10,14 @@ A **spaceport** or **cosmodrome** is a site for [launching](lv.md) (or receiving
 
 |*Country*|*Activity*|*Spaceport*|*Km to<br> equator*|*Coordinates (location)*|
 |:--|:--|:--|:--|:--|
-|**Australia**|Future|[Whalers Way](whalers_way.md)|3 900|34.91°S 135.65°E|
+|**AU**|Future|[Whalers Way](whalers_way.md)|3 900|34.91°S 135.65°E|
 | |*Inactive*|[Woomera](woomera.md)|3 300|30°57′19″S 136°31′56″E|
 | | | | | |
-|**Brazil**|**Active**|[Alcântara](alcantara.md)|260|02°20′22″S 44°25′03″W|
+|**BR**|**Active**|[Alcântara](alcantara.md)|260|02°20′22″S 44°25′03″W|
 | | | | | |
-|**Canada**|Future|[Canso](canso.md)|5 000|45°20'10.7"N 60°59'40.4"W|
+|**CA**|Future|[Canso](canso.md)|5 000|45°20'10.7"N 60°59'40.4"W|
 | | | | | |
-|**China**|**Active**|[Jiuquan](jiuquan.md)|5 000|40°58′03″N 100°16′43″E|
+|**CN**|**Active**|[Jiuquan](jiuquan.md)|5 000|40°58′03″N 100°16′43″E|
 | |**Active**|[Taiyuan](taiyuan.md)|4 500|38°50′56.71″N 111°36′30.59″E|
 | |**Active**|[Wenchang](wenchang.md)|2 200|19°36′52.17″N 110°57′4.08″E|
 | |**Active**|[Xichang](xichang.md)|3 200|28°14′45.66″N 102°1′35.60″E|
@@ -29,33 +29,33 @@ A **spaceport** or **cosmodrome** is a site for [launching](lv.md) (or receiving
 | |Future|[Shetland](shetland_sc.md)|6 800|60°47'55.2"N 0°49'10.2"W|
 | |*Inactive*|[Spaceport Cornwall](sp_cornwall.md)|5 600|50°26'24.1"N 5°00'35.5"W|
 | | | | | |
-|**India**|**Active**|[Sriharikota](sriharikota.md)|1 600|13°43′12″N 80°13′49″E|
+|**IN**|**Active**|[Sriharikota](sriharikota.md)|1 600|13°43′12″N 80°13′49″E|
 | | | | | |
-|**International**|*Inactive*|[Sea Launch](sea_launch.md)|0|0°00′N 154°00′W|
+|**I11l**|*Inactive*|[Sea Launch](sea_launch.md)|0|0°00′N 154°00′W|
 | | | | | |
 |**Iran**|**Active**|[Semnan](semnan.md)|4 300|35°14′4.56″N 53°55′19.56″E|
 | | | | | |
 |**Iraq**|*Inactive*|[Al Anbar](al_anbar.md)|3 700|32°46′55.9″N 44°17′58.6″E|
 | | | | | |
-|**Israel**|**Active**|[Palmachim](palmachim.md)|3 700|31°53′52″N 34°41′26″E|
+|**IL**|**Active**|[Palmachim](palmachim.md)|3 700|31°53′52″N 34°41′26″E|
 | | | | | |
-|**Japan**|**Active**|[Taiki](taiki.md)|4 700|42°30'00.7"N 143°26'15.5"E|
+|**JP**|**Active**|[Taiki](taiki.md)|4 700|42°30'00.7"N 143°26'15.5"E|
 | |**Active**|[Tanegashima](tanegashima.md)|3 400|30°24′00″N 130°58′12″E|
 | |**Active**|[Uchinoura](uchinoura.md)|3 700|31°15′07″N 131°04′55″E|
 | | | | | |
 |**Korea North**|**Active**|[Sohae](sohae.md)|4 900|39°39′36″N 124°42′18″E|
 | |**Active**|[Tonghae](tonghae.md)|4 700|40°51′N 129°40′E|
 | | | | | |
-|**Korea S.**|**Active**|[Naro](naro.md)|4 000|34°25′54.72″N 127°32′6.25″E|
+|**KR**|**Active**|[Naro](naro.md)|4 000|34°25′54.72″N 127°32′6.25″E|
 | | | | | |
-|**Russia, CIS**|**Active**|[Baikonur](baikonur.md)|5 200|45°57′54″N 63°18′18″E|
+|**RU, CIS**|**Active**|[Baikonur](baikonur.md)|5 200|45°57′54″N 63°18′18″E|
 | |**Active**|[Dombarovsky (Yasny)](dombarovsky.md)|5 500|51°05′38″N 59°50′32″E|
 | |**Active**|[Kapustin Yar](kapustin_yar.md)|5 400|48°35′09.6″N 45°43′12.0″E|
 | |**Active**|[Plesetsk](plesetsk.md)|7 400|62°55′32″N 40°34′40″E|
 | |*Inactive*|[Svobodny](svobodny.md)|5 500|51°49′N 128°18′E|
 | |**Active**|[Vostochny](vostochny.md)|5 500|51°53′04.39″N 128°20′05.2″E|
 | | | | | |
-|**USA**|**Active**|[America](america.md)|3 900|32°59′25″N 106°58′11″W|
+|**US**|**Active**|[America](america.md)|3 900|32°59′25″N 106°58′11″W|
 | |**Active**|[Canaveral](canaveral.md)|3 400|28°29′20″N 80°34′40″W|
 | |**Active**|[Kennedy](kennedy.md)|3 400|28°31′27″N 80°39′03″W|
 | |**Active**|[Kodiak](kodiak.md)|6 600|57°26′9″N 152°20′16″W|
@@ -65,7 +65,7 @@ A **spaceport** or **cosmodrome** is a site for [launching](lv.md) (or receiving
 | |**Active**|[Vandenberg](vandenberg.md)|4 200|34°43′58″N 120°34′05″W|
 | |**Active**|[Wallops](wallops.md)|4 500|37°56′24.7″N 75°27′59.0″W|
 | | | | | |
-|**Equator**| |**Countries on the equator:**<br> ➀ Brazil<br> ➁ Gabon<br> ➂ Indonesia<br> ➃ Kenya<br> ➄ Colombia<br> ➅ Congo<br> ➆ São Tomé & Príncipe<br> ➇ Somalia<br> ➈ Uganda<br> ➉ Ecuador| |*Map of spaceports*<br> [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+|**EQ**| |**Countries on the equator:**<br> ➀ Brazil<br> ➁ Gabon<br> ➂ Indonesia<br> ➃ Kenya<br> ➄ Colombia<br> ➅ Congo<br> ➆ São Tomé & Príncipe<br> ➇ Somalia<br> ➈ Uganda<br> ➉ Ecuador| |*Map of spaceports*<br> [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Maps**
 
@@ -82,7 +82,7 @@ The name is given by analogy with an airport for aircraft. Usually spaceports oc
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Spaceport](spaceport.md)】**<br> … <br>• • •<br> **Brazil:** ... ··· inactive: [Whalers Way](whalers_way.md) (3 900), [Woomera](woomera.md) (3 300) ┊ **Brazil:** [Alcantara](alcantara.md) (260) ┊ **Canada:** [Canso](canso.md) (5 000) ┊ **China:** [Jiuquan](jiuquan.md) (5 000), [Taiyuan](taiyuan.md) (4 500), [Wenchang](wenchang.md) (2 200), [Xichang](xichang.md) (3 200) ┊ **EU:** [Esrange](esrange.md) (7 550), [Guiana (Kourou)](kourou.md) (650) ··· inactive: [Hammaguir](hammaguir.md) (3 450), [San Marco](san_marco.md) (300), [Spaceport Cornwall](sp_cornwall.md) (5 600), [Shetland](shetland_sc.md) (6 800) ┊ **India:** [Sriharikota](sriharikota.md) (1 600) ┊ **Int.:** … ··· inactive: [Sea Launch](sea_launch.md) (0) ┊ **Iran:** [Semnan](semnan.md) (4 300)) ┊ **Iraq:** … ··· inactive: [Al Anbar](al_anbar.md) (3 700) ┊ **Israel:** [Palmachim](palmachim.md) (3 700) ┊ **Japan:** [Taiki](taiki.md) (4 700), [Tanegashima](tanegashima.md) (3 400), [Uchinoura](uchinoura.md) (3 700) ┊ **Korea N.:** [Sohae](sohae.md) (4 900), [Tonghae](tonghae.md) (4 700) ┊ **Korea S.:** [Naro](naro.md) (4 000) ┊ **RF,CIF:** [Baikonur](baikonur.md) (5 200), [Dombarovsky](dombarovsky.md) (5 500), [Kapustin Yar](kapustin_yar.md) (5 400), [Plesetsk](plesetsk.md) (7 400), [Vostochny](vostochny.md) (5 500) ··· inactive: [Svobodny](svobodny.md) (5 500) ┊ **USA:** [America](america.md) (3 900), [Canaveral](canaveral.md) (3 400), [Kennedy](kennedy.md) (3 400), [Kodiak](kodiak.md) (6 600), [Kwajalein](kwajalein.md) (1 000), [Rocket Lab LC1](rocket_lab_lc1.md) (4 700), [SpaceX STLS](spacex_stls.md) (2 800), [Vandenberg](vandenberg.md) (4 200), [Wallops](wallops.md) (4 500)|
 

@@ -16,7 +16,7 @@
    1. Двигатель [RIT µX](rit_mux.md)
    1. Двигатель [S400](s400.md)
 
-[Брошюры выпускаемой продукции ❐](f/con/o/opc_lam_brochures.7z)
+[Products brochures ❐](f/con/o/opc_lam_brochures.7z)
 
 
 <p style="page-break-after:always"> </p>

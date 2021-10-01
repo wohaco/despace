@@ -26,20 +26,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[C6 Launch](zz_c6_launch.md) — for small sats<br> ・[Columbiad](zz_columbiad.md)<br> ・[MLS](zz_mls.md)<br> ・[SpaceRyde](zz_spaceryde.md) — dedicated launch for CubeSats using balloons<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) Small rockets|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|…|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[C6 Launch](zz_c6_launch.md) — for small sats<br> ・[Columbiad](zz_columbiad.md)<br> ・[MLS](zz_mls.md)<br> ・[SpaceRyde](zz_spaceryde.md) — dedicated launch for CubeSats using balloons<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) Small rockets|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|…|
+|**KR**|…|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -154,7 +154,7 @@
 |**Китай**| | |
 |**Корея северная**| | |
 |**Корея южная**| | |
-|**РФ, СНГ**|[Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](фрегат.md)| |
+|**РФ, СНГ**|[Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](fregat.md)| |
 |**США**| | |
 |**Япония**| | |
 |**Прочие**| | |
@@ -163,20 +163,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|…|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[IHI](zz_ihi.md)<br> ・[Interstellar Technologies](zz_interstellar_tech.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md) — fairings<br> ・[Mitsubishi HVI](zz_mitsubishi.md)|
-|**Korea S.**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Perigee Aerospace](zz_perigee_as.md) — small suborbital LV|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AU**|…|
+|**CA**|…|
+|**CN**|…|
+|**EU**|…|
+|**IN**|…|
+|**IL**|…|
+|**JP**|・[IHI](zz_ihi.md)<br> ・[Interstellar Technologies](zz_interstellar_tech.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md) — fairings<br> ・[Mitsubishi HVI](zz_mitsubishi.md)|
+|**KR**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Perigee Aerospace](zz_perigee_as.md) — small suborbital LV|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**AE**|…|
+|**VN**|…|
 
 
 
@@ -280,9 +280,9 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md)・ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](фрегат.md)|
+|**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md)・ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](fregat.md)|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 
    1. Docs:

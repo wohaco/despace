@@ -73,15 +73,15 @@ This manual contains a list of common errors in operation & [documentation](doc.
       - apply increasing indices up to 10⁹ (㎞, ㎆, ㎬), then — only the power of 10;
    - **Forbidden:**
       - abbreviate the designations of quantities, if they are used without numbers, except for quantities in the heads and sides of tables and in the decoding of letter designations included in formulas and figures. (**ignored in this DB**)
-      - to separate the name from the number (or transfer them to different lines/pages).
+      - separate the name from the number (or transfer them to different lines/pages).
       - apply turns of colloquial speech, technicalism, professionalism; (**ignored in this DB**)
-      - to apply for the same concept various terms close to the meaning, foreign terms in the presence of equivalent terms in the national language;
+      - apply for the same concept various terms close to the meaning, foreign terms in the presence of equivalent terms in the national language;
       - apply arbitrary word formations;
       - apply abbreviations of words, except for those established by the spelling rules, the corresponding state standards;
       - In the text of the document, with the exception of formulas, tables, figures:
          - use the “−” sign (should be written with the word minus); (**ignored in this DB**)
          - use the “⌀” sign (should be written with the word diameter); (**ignored in this DB**)
-         - apply without numerical values ​​mat. signs, for example, \>, \ <, =, ≤, ≥, ≠, №, %. (**ignored in this DB**)
+         - apply without numerical values ​​mat. signs, for example, \>, \<, =, ≤, ≥, ≠, №, %. (**ignored in this DB**)
 
 
 <u><big>**RU**</big></u>
@@ -121,12 +121,12 @@ This manual contains a list of common errors in operation & [documentation](doc.
 |Lр (исх. 20 м㎪) = 20 дБ или<br> 20 дБ (исх. 20 м㎪)<br> Не более 80 дБ (исх. 1 мкА)<br> Не менее 120 дБ (исх. 1 мкВ/м)|Не более 80 дБ мкА<br> Не менее 120 дБ мкВ/м|<small>Пример обозначения уровня звукового давления. Необходимо указывать исходную величину, её значение помещают в скобках  за обозначением<br> логарифмической величины. При краткой форме записи значение исходной величины указывают в скобках за значением уровня.</small>|
 |100 ㎸т<br> 80 %<br> 20 ℃<br> 10 Ом<br> 20°<br> 1220×740 ㎜<br> 5,758°|100кВт<br> 80 %<br> 20℃<br> 10Ом<br> 20 °<br> 1220×740мм<br> 5°758| |
 |㎪∙с/м|Па∙кс/м| |
-|v = 3,6 s/t,<br> где v – скорость,км/ч;<br> s – путь, м;<br> t – время, с|v = 3,6 s/t км/ч,<br> где  s – путь, м;<br> t – время, с| |
+|v = 3,6 s/t,<br> где v — скорость,км/ч;<br> s — путь, м;<br> t — время, с|v = 3,6 s/t км/ч,<br> где  s — путь, м;<br> t — время, с| |
 |Вт/(м∙К)|Вт/м∙К| |
 |Н∙м<br> А∙m²<br> Па∙с|НмНхм<br> Аm² Ахm²<br> Пас| |
 |Вт∙м⁻²∙К⁻¹<br> Вт/(m²·К)|W/m²/К| |
 |80 км/ч<br> 80 километров в час|80 км/час<br> 80 км в час| |
-|Провести испытания пяти труб, каждая длиной 5 м.<br> Отобрать 15 труб для испытания на давление.|Провести испытания 5‑ти труб, каждая длиной 5 м.|<small>Числовые значения величин с обозначением единиц величин и единиц счёта следует писать цифрами, а числа без обозначения единиц величин и единиц счёта от единицы до девяти – словами.</small>|
+|Провести испытания пяти труб, каждая длиной 5 м.<br> Отобрать 15 труб для испытания на давление.|Провести испытания 5‑ти труб, каждая длиной 5 м.|<small>Числовые значения величин с обозначением единиц величин и единиц счёта следует писать цифрами, а числа без обозначения единиц величин и единиц счёта от единицы до девяти — словами.</small>|
 |1,50; 1,75; 2,00 м|1,50 м; 1,75 м; 2,00 м| |
 |Диаметр крепёжных отверстий прибора должен соответствовать М 4 (4,5 ㎜)|Диаметр крепёжных отверстий прибора должен соответствовать М 4 (⌀ 4,5)| |
 |От 1 до 5 ㎜<br> От 10 до 100 кг<br> От плюс 10 до минус 40 ℃<br> От 8454,3 до 8464,3 ㎒|От 1 ㎜ до 5 ㎜<br> 10 … 100 ㎏<br> +10 ‑ −40 ℃<br> (8459,3 ± 5,0) ㎒| |
@@ -149,9 +149,9 @@ This manual contains a list of common errors in operation & [documentation](doc.
 |Температура выражается в кельвинах|Температура измеряется в кельвинах|
 |Единица скорости|Размерность скорости|
 |Погрешность средств измерений|Погрешность показания прибора|
-|Класс точности прибора указывается – 0,1; 0,2; 1, 2, 3.|Класс точности прибора ± 1,5 %|
+|Класс точности прибора указывается — 0,1; 0,2; 1, 2, 3.|Класс точности прибора ± 1,5 %|
 |Погрешность измерения не должна быть  более 0,01 г<br> Погрешность измерения ±0,01 г|Ошибка измерения 0,01 г|
-|Температура минус (60 ± 5) ℃|Температура – 60 ℃|
+|Температура минус (60 ± 5) ℃|Температура — 60 ℃|
 |Диапазон измерений от минус 50 до плюс 200 ℃|Предел измерений (−50 ‑ 200) ℃|
 |Оси находились на одной высоте с допускаемыми отклонениями ± 1 ㎜|Оси находились на одной высоте с погрешностью ± 1 ㎜|
 |Погрешность измерений не должна быть более (не менее) 1 %;<br> Погрешность измерения ± 1 %|Точность измерений 1 %|
@@ -175,55 +175,14 @@ This manual contains a list of common errors in operation & [documentation](doc.
 
 <p style="page-break-after:always"> </p>
 
-## Common paths
-
-### №1 — A device broke down before the launch
-
-**Situation** — a device can no longer be used, but you have time before the launch (broke, did not pass the tests, is no longer produced, etc.).
-
-**Solution.**
-
-As usual, you need to balance resources (equipment, money, people, time, etc.). Typical solutions look like this (to choose any or a combination of them):
-
-   1. Repair the device.
-   1. Buy a new one, the same (but working) device.
-   1. Buy a device with similar characteristics, modify the SC & the mission in minor terms.
-   1. Adapt the device, SC & mission, albeit with some deterioration.
-   1. Buy a device that is not very close in characteristics, modify the SC & the mission.
-   1. Create a device or order it on the side, taking additional risks & quickly going through the stages of R&D.
-
-
-
-### №2 — Requirements have not been verified
-
-**Situation** — some requirements cannot be verified (numbers are worse than expected).
-
-**Solution.**
-
-The group that are in charge (for the SUI, ground equipment, etc.) shall describe the following issues in order to understand what mistake had been done, how to fix it and how to avoid it in future. In case of fail that shall be done by that group with the help of the upper level designers.
-
-   1. what is the problem we try to solve
-   1. how we got to this point & what will be done to prevent this from happening in the future
-   1. why what was described in the previous documents (approved by a customer) doesn’t work now
-   1. what can be done so that what has already been approved will work
-   1. a description of the pros & cons of the proposed options
-   1. if it’s still impossible to satisfy the requirements, then what are the options for how the updated SUI will look like
-   1. a description of the pros and cons of the proposed options
-   1. what the developer ultimately proposes as the main option(s)
-
-
-
-<p style="page-break-after:always"> </p>
-
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
+|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 
-   1. Docs:
-      - [Не делайте за других их работу ❐](f/doc/20191106_1.pdf)
+   1. Docs: [Do not do their work for others ❐](f/doc/20191106_1.pdf)
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/List_of_common_misconceptions>
    1. <https://en.wikipedia.org/wiki/Survivorship_bias>

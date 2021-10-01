@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](mgmt.md)**|…|
 
-**Tamagawa Seiki Co., Ltd.** is a Japanese company designing & manufacturing [servo components](sgm.md) (encoders, resolvers, rate sensors, gyros, AC servo motors, DC servo motors, step motors, torque motors, alternators, LVDTs, etc.); Motor driver controllers; Robots; [Inertial measuring units](iu.md); Automatic control devices.
+**Tamagawa Seiki Co., Ltd.** is a Japanese company designing & manufacturing [servo components](sc.md) (encoders, resolvers, rate sensors, gyros, AC servo motors, DC servo motors, step motors, torque motors, alternators, LVDTs, etc.); Motor driver controllers; Robots; [Inertial measuring units](iu.md); Automatic control devices.
 
    - Tokyo Office: 3-19-9 Shinkamata, Ohta-ku, Tokyo, 144-0054 Japan
    - 2nd Plant: 1020 Kega, Iida, Nagano Pref., 395-8520 Japan

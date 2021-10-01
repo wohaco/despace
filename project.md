@@ -56,17 +56,17 @@
 
 **Таблица.** Аппараты прошлого НПОЛ.
 
-|*Страна*|*Проект*|*Дата*|*Описание ([Номер полёта](spaceid.md), [Номер по СПК](spaceid.md))*|
+| |*Проект*|*Дата*|*Описание ([Номер полёта](spaceid.md), [Номер по СПК](spaceid.md))*|
 |:--|:--|:--|:--|
-|Европа, РФ|[ЭкзоМарс‑2016](экзомарс_2016.md)|2016.03.14|Планеты|
-|РФ|[Электро‑Л](электро_л.md) №2|2015.12.11|Гидрометеорология, мониторинг климата Земли.|
-|РФ|[МКА-ФКИ](мка‑фки.md) ПН2|2014.06.08|Гидрометеорология, мониторинг климата Земли.|
-|РФ|[МКА-ФКИ](мка‑фки.md) ПН1|2012.06.22|Гидрометеорология, мониторинг климата Земли.|
-|РФ|[Чибис‑М](чибис_м.md)|2012.01.25|Земля|
-|РФ|[Фобос‑Грунт](фобос_грунт.md)|2011.11.08|Планеты|
-|РФ|[Спектр‑Р](спектр_р.md)|2011.07.18|Земля|
+|EU, RU|[ЭкзоМарс‑2016](экзомарс_2016.md)|2016.03.14|Планеты|
+|RU|[Электро‑Л](электро_л.md) №2|2015.12.11|Гидрометеорология, мониторинг климата Земли.|
+|RU|[МКА-ФКИ](мка‑фки.md) ПН2|2014.06.08|Гидрометеорология, мониторинг климата Земли.|
+|RU|[МКА-ФКИ](мка‑фки.md) ПН1|2012.06.22|Гидрометеорология, мониторинг климата Земли.|
+|RU|[Чибис‑М](чибис_м.md)|2012.01.25|Земля|
+|RU|[Фобос‑Грунт](фобос_грунт.md)|2011.11.08|Планеты|
+|RU|[Спектр‑Р](спектр_р.md)|2011.07.18|Земля|
 |Россия|[Электро‑Л](электро_л.md) №1|2011.01.20|Гидрометеорология, мониторинг климата Земли.|
-|США|[Voyager](voyager.md)|1977.09.05<br> 1977.08.20|Планеты|
+|US|[Voyager](voyager.md)|1977.09.05<br> 1977.08.20|Планеты|
 
 
 
@@ -99,7 +99,7 @@
 |[Лаплас‑П](лаплас_п.md)|2026|Земля|
 |[Эллипс‑ВКК](эллипс_вкк.md) №1, 2|2019|Земля|
 
-**Прочая продукция НПОЛ** — [Двина‑ТМ](двина_тм.md)・ [Карат](карат.md)・ [Навигатор](навигатор.md)・ [Фрегат](фрегат.md)
+**Прочая продукция НПОЛ** — [Двина‑ТМ](двина_тм.md)・ [Карат](карат.md)・ [Навигатор](навигатор.md)・ [Фрегат](fregat.md)
 
 **Гипотетические.** *(Не забывайте мечтать!)* Ниже представлены проекты, разрабатываемые нами на инициативной основе.
 
@@ -193,7 +193,7 @@
 |**1970.12.15**|мягкая посадка на Венеру ([Венера‑7](venera_7.md), СССР)|
 |**1971.12.02**|мягкая посадка АКА на Марс (Марс‑3, СССР)|
 |**1971.11.27**|посадка АКА на Марс (Марс‑2, СССР)|
-|**1970.11.17**|посадка и работа управляемого с Земли [планетохода](rover.md) (Луноход‑1, СССР)|
+|**1970.11.17**|посадка и работа управляемого с Земли [планетохода](robot.md) (Луноход‑1, СССР)|
 |**1971.11.13**|первый [ИСМ](mars.md) (Маринер‑9, СССР)|
 |**1970.09.24**|забор и доставка на Землю породы с космического тела (Луна‑16, СССР)|
 |**1969.07.21**|высадка человека на Луну; пробы грунта (Н. Армстронг, Аполлон‑11, США)|
@@ -263,20 +263,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|・[SERC](zz_serc.md) — space debris removal|
-|**Canada**|…|
-|**China**|…|
-|**Europe**|・[ClearSpace SA](zz_clearspace_sa.md) — space debris removal: technologies & services<br> ・Share My Space — collision warning & debris monitoring|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[ALE](zz_ale.md) — space debris prevention<br> ・[Astroscale](zz_astroscale.md) — space debris removal, sat life extension services, end‑of‑life services<br> ・[Axelspace](zz_axelspace.md) — space debris solutions|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|・Obruta — tethered-net removal technology<br> ・OrbitGuardians — low-cost active debris removal (LCADR) service for debris ≤20 ㎝|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|・[SERC](zz_serc.md) — space debris removal|
+|**CA**|…|
+|**CN**|…|
+|**EU**|・[ClearSpace SA](zz_clearspace_sa.md) — space debris removal: technologies & services<br> ・Share My Space — collision warning & debris monitoring|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[ALE](zz_ale.md) — space debris prevention<br> ・[Astroscale](zz_astroscale.md) — space debris removal, sat life extension services, end‑of‑life services<br> ・[Axelspace](zz_axelspace.md) — space debris solutions|
+|**KR**|…|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|・Obruta — tethered‑net removal technology<br> ・OrbitGuardians — low‑cost active debris removal (LCADR) service for debris ≤20 ㎝|
+|**VN**|…|
 
 
 
@@ -615,7 +615,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md)・ [Аналитика](project.md)・ [Конценсус](consensus.md)・ [НПОЛ процессы](zz_нпол_п.md)・ [Словоблудие](verbiage.md)|
 |**【[Project](project.md)】**<br> [Interferometer](interferometer.md)・ [NASA open](nasa_open.md)・ [NASA STI](nasa_sti.md)・ [NIH](nih.md)・ [Past, future and everything](pfaeverything.md)・ [PSDS](us_psds.md) [MGSC](mgsc.md)・ [Raman spectroscopy](raman_spsc.md)・ [SC price](sc_price.md)・ [SC typical forms](sc.md)・ [Tech derivative laws](td_laws.md)・ [View](view.md)・ [XRF](xrf.md)|

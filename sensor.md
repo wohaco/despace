@@ -32,20 +32,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[GHGSat](zz_ghgsat.md) — gas sensors for Cubesats|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Meisei](zz_meisei.md) — spectrometers|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[GHGSat](zz_ghgsat.md) — gas sensors for Cubesats|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Meisei](zz_meisei.md) — spectrometers|
+|**KR**|…|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -56,20 +56,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|…|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Mitsubishi](zz_mitsubishi.md) — temperature sensors<br> ・[NEC](zz_nec.md)<br> ・[Sumitomo PP](zz_sumitomo_pp.md)|
-|**Korea S.**|…|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|…|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Mitsubishi](zz_mitsubishi.md) — temperature sensors<br> ・[NEC](zz_nec.md)<br> ・[Sumitomo PP](zz_sumitomo_pp.md)|
+|**KR**|…|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -99,20 +99,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[Macfab](zz_macfab.md)|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Hamamatsu Photonics](zz_hamamatsu_phot.md)|
-|**Korea S.**|・[Satrec Initiative](zz_satreci.md)|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[Macfab](zz_macfab.md)|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Hamamatsu Photonics](zz_hamamatsu_phot.md)|
+|**KR**|・[Satrec Initiative](zz_satreci.md)|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 **Кубсаты:**
 
@@ -149,20 +149,20 @@
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|…|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Meisei](zz_meisei.md) — spectrometers|
-|**Korea S.**|…|
-|**Russia**|・[Спутникс](zz_sputnix.md)|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|…|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Meisei](zz_meisei.md) — spectrometers|
+|**KR**|…|
+|**RU**|・[Спутникс](zz_sputnix.md)|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 
 
@@ -172,7 +172,7 @@
 **Солнечный датчик (СД)**, также **солнечный датчик положения (СДП)** предназначен для:
 
    1. первоначального построения **постоянной солнечной ориентации (ПСО)** после отделения от [РБ](lv.md);
-   1. построения и поддержания ПСО на [КА](sc.md), где условия работы [научной аппаратуры](oe.md) предполагают использование ПСО в качестве рабочей ориентации;
+   1. построения и поддержания ПСО на [КА](sc.md), где условия работы [научной аппаратуры](sc.md) предполагают использование ПСО в качестве рабочей ориентации;
    1. построения и поддержания ПСО в нештатных ситуациях, в случаях, когда парирование нештатной ситуации в режиме инерциальной ориентации невозможно.
 
 There are various types of sun sensors, which differ in their technology and performance characteristics. Sun presence sensors provide a binary output, indicating when the sun is within the sensor’s field of view. Analog and digital sun sensors, in contrast, indicate the angle of the sun by continuous and discrete signal outputs, respectively.
@@ -195,20 +195,20 @@ In typical sun sensors, a thin slit at the top of a rectangular chamber allows a
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[Macfab](zz_macfab.md)<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Hamamatsu Photonics](zz_hamamatsu_phot.md)|
-|**Korea S.**|・[Satrec Initiative](zz_satreci.md)|
-|**Russia**|…|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|…|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[Macfab](zz_macfab.md)<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Hamamatsu Photonics](zz_hamamatsu_phot.md)|
+|**KR**|・[Satrec Initiative](zz_satreci.md)|
+|**RU**|…|
+|**SA**|…|
+|**SG**|…|
+|**US**|…|
+|**VN**|…|
 
 Etc:
 
@@ -237,11 +237,11 @@ Etc:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Датчик:`**<br> …|
 |**`Звёздный датчик (ЗД):`**<br> [Видимая звёздная величина](app_mag.md)・ [ПЗр](fov.md)<br>• • •<br> **Европа:** [ASTRO 15](astro_15.md) (6.15)・ [Hydra](hydra.md) (4.6)・ [ASTRO 10](astro_10.md) (3.8)・ [A-STR](a_str.md) (3.55)・ [AA-STR](aa_str.md) (2.6)・ [HE-5AS](he_5as.md) (2.2)・ [ASTRO APS](astro_aps.md) (2)・ [Horus](horus.md) (1.6)・ [T2](t2.md) (0.8)・ [T1](t1.md) (0.6 ‑ 1)・ [Auriga](auriga.md) (0.21)  ▮  **РФ:** [348К](348k.md) (3.45)・ [360К](360k.md) ()・ [АД-1](ad_1.md) (3.8)・ [БОКЗ-МФ](bokz_mf.md) (2.8)・ [мБОКЗ-2](мбокз_2.md) (1.5)・ [SX-SR-MicroBOKZ](sx_sr_microbokz.md) (0.5)  ▮  **США:** [HAST](hast.md) (7.7)・ [CT-2020](ct_2020.md) (3)・ [µSTAR](mustar.md) (2.1)・ [MIST](mist.md) (0.55) |
-|**`Конструктивные элементы, механизмы, материалы (КММ):`**<br> [Гермоконтейнер](гермоконтейнер.md)・ [Датчик](sensor.md)・ [Задел](margin.md)・ [Изделие](unit.md)・ [Испарение материалов](mat_sublime.md)・ [Кавитация](cavitation.md)・ [КЗУ](cinu.md) (ВБУ КТ)・ [КХГ](cgs.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [Крейцкопф](crosshead.md)・ [Номинал](nominal.md)・ [ПУС](lag.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Резерв](reserve.md)・ [Слайс](слайс.md)・ [ТСП](tsp.md)・ [Типичные формы КА](sc.md)・ [Толкатель](толкатель.md)・ [Унификация](commonality.md)|
+|**【[Structures, gears, materials (SGM)](sc.md)】**<br> [Гермоконтейнер](гермоконтейнер.md)・ [Датчик](sensor.md)・ [Задел](margin.md)・ [Изделие](unit.md)・ [Испарение материалов](mat_sublime.md)・ [Кавитация](cavitation.md)・ [КЗУ](cinu.md) (ВБУ КТ)・ [КХГ](cgs.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [Крейцкопф](crosshead.md)・ [Номинал](nominal.md)・ [ПУС](lag.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Резерв](reserve.md)・ [Слайс](слайс.md)・ [ТСП](tsp.md)・ [Типичные формы КА](sc.md)・ [Толкатель](толкатель.md)・ [Унификация](commonality.md)|
 |**`Магнитометр:`**<br> … <br>• • •<br> **РФ:** [SX-MAGWR](sx_magwr.md) (100)|
 |**`Солнечный датчик (СД):`**<br> [ПЗр](fov.md) <br>• • •<br> (КА) **Европа:** [FSS](fss_jo.md) (650)・ [FSS](fss.md) (50 ‑ 375)・ [CSS](css.md) (275)・ [CoSS](coss.md) (15 ‑ 24)  ▮  **РФ:** [ТДС](tds.md) (2 300)・ [347К](347k.md) (700)・ [ОСД](osd.md) (650)・ [СДП-1](sdp_1.md) (400)・ [SX-SUNR-01](sx_sunr_01.md) (40)<br> *(Кубсаты) **США:** [MSS](mss_sm.md) (0.036)・ [CSS](css_sm.md) (0.02)*|
 

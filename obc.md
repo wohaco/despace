@@ -45,20 +45,20 @@ Varieties:
 
 | | |
 |:--|:--|
-|**Australia**|…|
-|**Canada**|・[Canadensys](zz_canadensys.md)<br> ・[Xiphos](zz_xiphos.md)|
-|**China**|…|
-|**Europe**|…|
-|**India**|…|
-|**Israel**|…|
-|**Japan**|・[Space Cubics](zz_spacecubics.md)|
-|**Korea S.**|…|
-|**Russia**|・[ИРЗ](zz_irz.md)<br> ・[ИСС](zz_iss_r.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・<http://www.spacemicro.com/products/digital-systems.html>|
-|**Saudi Ar.**|…|
-|**Singapore**|…|
-|**USA**|・[DDC](zz_ddc.md)|
-|**UAE**|…|
-|**Vietnam**|…|
+|**AE**|…|
+|**AU**|…|
+|**CA**|・[Canadensys](zz_canadensys.md)<br> ・[Xiphos](zz_xiphos.md)|
+|**CN**|…|
+|**EU**|…|
+|**IL**|…|
+|**IN**|…|
+|**JP**|・[Space Cubics](zz_spacecubics.md)|
+|**KR**|…|
+|**RU**|・[ИРЗ](zz_irz.md)<br> ・[ИСС](zz_iss_r.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・<http://www.spacemicro.com/products/digital-systems.html>|
+|**SA**|…|
+|**SG**|…|
+|**US**|・[DDC](zz_ddc.md)|
+|**VN**|…|
 
 
 
@@ -67,7 +67,7 @@ Varieties:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC](sc.md)**·КА, **[OE](oe.md)**·БА, **[SGM](sgm.md)**·КММ】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Патент, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TRL](trl.md)**·УГТ|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Guidance, Navigation & Control (GNC)](gnc.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](eas.md)・ [БКС](cable.md)・ [БУ](eas.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](devd.md)|
 |**【[On-board computer (OBC)](obc.md)】**<br> … <br>• • •<br> **RU:** [МПК-003](mpk_003.md) (9)・ [БИВК-МР](bivk_mr.md) (8)・ [МАРС 4](mars_4.md) (8)・ [БИВК-Р](bivk_r.md) (7.1)・ [МАРС 7](mars_7.md) (6)・ [МПК-002](mpk2.md) (3.9)・ [ЦВМ-12](cvm_12.md) (2.2)・ [БКУ_SXPA](bku_sxpa.md) (0.35)・ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](cvm22.md) (2.1))*|
