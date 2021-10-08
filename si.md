@@ -171,6 +171,33 @@
    - 1 кулон (Кл) = 1 А·с = 1/3 600 А·ч
 
 
+### Paper size
+> <small>**Paper size** — EN term. **Формат бумаги** — RU analogue.</small>
+
+**Paper size** standards govern the size of sheets of paper used as writing paper, stationery, cards, & for printed documents.
+
+The ISO 216 standard, which includes the commonly used A4 size, is the international standard for paper size. It is used across the world except in North America & parts of Central & South America, where North American paper sizes such as “Letter” & “Legal” are used. The international standard for envelopes is the C series of ISO 269.
+
+Some major paper sizes in a portrait orientation.
+
+|*Size*|*A, ㎜ × ㎜*|*B, ㎜ × ㎜*|*C, ㎜ × ㎜*|*D, ㎜ × ㎜*|*Unusual, ㎜ × ㎜*|
+|:--|:--|:--|:--|:--|:--|
+|0|841 × 1 189|1 000 × 1 414|917 × 1 297|771 × 1 090| |
+|1|594 × 841|707 × 1 000|648 × 917|545 × 771| |
+|2|420 × 594|500 × 707|458 × 648|385 × 545| |
+|3|297 × 420|353 × 500|324 × 458|272 × 385|297 × 420 (Ledger)|
+|4|210 × 297|250 × 353|229 × 324|192 × 272|216 × 280 (Letter)<br> 216 × 356 (Legal)|
+|5|148 × 210|176 × 250|162 × 229|136 × 192| |
+|6|105 × 148|125 × 176|114 × 162|96 × 136| |
+|7|74 × 105|88 × 125|81 × 114|68 × 96| |
+|8|52 × 74|62 × 88|57 × 81|48 × 68| |
+|9|37 × 52|44 × 62|40 × 57|—| |
+|10|26 × 37|31 × 44|28 × 40|—| |
+
+[![](f/doc/paper_size_01_thumb.png)](f/doc/paper_size_01.png)
+
+
+
 
 ## Формулы
 
@@ -220,7 +247,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`СИ, формулы:`**<br> [Атмосфера](atmosphere.md)・ [Квази](quasi.md)・ [Параллакс](parallax.md)・ [Парсек](parsec.md)・ [Ускорение свободного падения](g.md)|
 
@@ -232,3 +259,4 @@
    1. <https://ru.wikipedia.org/wiki/Скорость_света>
    1. <https://ru.wikipedia.org/wiki/Электрический_заряд>
    1. <https://www.translatorscafe.com/unit-converter/RU/illumination/1-11/>
+   1. <https://en.wikipedia.org/wiki/Paper_size>

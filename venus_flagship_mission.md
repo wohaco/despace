@@ -7,7 +7,7 @@
 
 > <small>**Venus Flagship Mission (VFM)** — EN term. **Венерианская флагманская миссия (ВФМ)** literal translation to Russian.</small>
 
-**Venus Flagship Mission (VFM)** — proposed flagship mission ([Class A, Flagship](fs.md)) [NASA](zz_nasa.md) to exploration of [Venus](venus.md)) by remote and contact methods.
+**Venus Flagship Mission (VFM)** — proposed flagship mission ([Class A, Flagship](fs.md)) [NASA](contact/nasa.md) to exploration of [Venus](venus.md)) by remote and contact methods.
 
 The original report dates back to 2007.
 
@@ -24,7 +24,7 @@ The original report dates back to 2007.
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
 |Duration|2.5 years|
-|Launch|2032, [Canaveral](canaveral.md), [Atlas V 551](atlas.md) (one for the orbiter, the other for the in situ vehicles & carrier)|
+|Launch|2032, [Canaveral](spaceport.md), [Atlas V 551](atlas.md) (one for the orbiter, the other for the in situ vehicles & carrier)|
 |Operator|NASA|
 |Programme|…|
 |Similar to|• Proposed: [Venera‑D](venera_d.md) (RU);<br> • Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> • ㎩st: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978).|
@@ -40,7 +40,7 @@ The original report dates back to 2007.
 |Duration|2.5 y (incl. 6 m for transit, 2 y for work)|
 |Mass|wet: 5 306 ㎏, dry: 2 275 ㎏, payload: 290.4 ㎏ ([large satellite](sc.md), ([EVN‑073](venus.md)))|
 |Orbit / Site|230 × 230 ㎞|
-|Payload|[SAR](sar.md), spectrometers, magnetomeeters, sounder, oscillator|
+|Payload|[SAR](cam.md), spectrometers, magnetomeeters, sounder, oscillator|
 |Power|32 m² solar panels (9 868 W EOL)|
 | |**`Carrier`**|
 |Comms|• carrier: X/S‑band (to‑Earth, to‑in situ), S‑band (to‑in situ)|
@@ -96,9 +96,9 @@ Targets & objectives:
 
 </small>
 
-In response to recommendations from the National Research Council (NRC) [Decadal Survey](us_psds.md) (2003), & [NASA’s Solar System Exploration (SSE) Roadmap (2006) ❐](f/project/n/nasa_sse_roadmap_2006.pdf), over the past year [NASA](zz_nasa.md) has funded a mission concept study to better understand the science goals & technology requirements for a future [Venus](venus.md)) Flagship‑class mission.
+In response to recommendations from the National Research Council (NRC) [Decadal Survey](us_psds.md) (2003), & [NASA’s Solar System Exploration (SSE) Roadmap (2006) ❐](f/project/n/nasa_sse_roadmap_2006.pdf), over the past year [NASA](contact/nasa.md) has funded a mission concept study to better understand the science goals & technology requirements for a future [Venus](venus.md)) Flagship‑class mission.
 
-The study was guided by a NASA appointed Venus Science & Technology Definition Team (STDT) — which comprised of an international group of scientists & engineers from the United States, the Russian Federation, France, Germany, the Netherlands, & Japan — with support from [JPL](zz_jpl.md) through a dedicated engineering core team, & the Advanced Project Design Team, also known as [Team X](jpl_if.md).
+The study was guided by a NASA appointed Venus Science & Technology Definition Team (STDT) — which comprised of an international group of scientists & engineers from the United States, the Russian Federation, France, Germany, the Netherlands, & Japan — with support from [JPL](contact/jpl.md) through a dedicated engineering core team, & the Advanced Project Design Team, also known as [Team X](jpl_if.md).
 
 This study group assessed science goals & investigations, & identified a suitable mission architecture — including a notional instrument payload, subsystems & technologies — to achieve mission objectives. Based on NASA guidelines for the study, this mission concept targeted a launch opportunity between 2020 & 2025, & a cost cap between $3B & $4B. It is also expected that a future Venus Flagship mission will be built on international partnerships. Such a mission would revolutionize our understanding of the climate of terrestrial planets, including the coupling between volcanism, tectonism, the interior, & the atmosphere; & the habitability of extrasolar terrestrial planets. It could also contribute to resolving the geologic history of Venus, including the existence of a past ocean. The chosen mission architecture pointed to specific technology development needs, such as sample acquisition & handling; aerial mobility; & high temperature tolerant components (e.g., sensors, electronics, mechanisms, instruments, & power storage).
 
@@ -200,7 +200,7 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science drivi
 |*Orbiter*|*2 Balloons*|*Lander 1*|*Lander 2*|
 |:--|:--|:--|:--|
 |Lifetime (4 years)|In atmosphere (1 month)|Descent Phase (1 ‑ 1.5 hour)|Landed Phase (5 hours)|
-|InSAR — Interferometric [Synthetic Aperture Radar](sar.md)|ASI — Atmospheric Science Instrument (pressure, temperature, wind speed)|ASI|Microscopic imager|
+|InSAR — Interferometric [Synthetic Aperture Radar](cam.md)|ASI — Atmospheric Science Instrument (pressure, temperature, wind speed)|ASI|Microscopic imager|
 |Vis‑NIR Imaging Spectrometer|GC/MS — Gas Chromatograph / Mass Spectrometer|Vis‑NIR Cameras with spot spectrometry|XRD / XRF|
 |Neutral Ion Mass Spectrometer|Nephelometer|GC / MS|Heat Flux Plate|
 |Sub‑mm Sounder|Vis‑NIR camera|Magnetometer|Passive Gamma Ray Detector|
@@ -591,7 +591,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

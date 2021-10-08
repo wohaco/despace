@@ -1,5 +1,5 @@
 # ESTRACK
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [ESA](zz_esa.md), **[НС](scs.md)**
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [ESA](contact/esa.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -7,7 +7,7 @@
 
 > <small>**European space tracking network (ESTRACK)** — англоязычный термин, не имеющий аналога в русском языке. **Европейская сеть космического слежения** — дословный перевод с английского на русский.</small>
 
-**European space tracking network (ESTRACK)** — a number of ground‑based space‑tracking stations for the [European Space Agency](zz_esa.md) (ESA).
+**European space tracking network (ESTRACK)** — a number of ground‑based space‑tracking stations for the [European Space Agency](contact/esa.md) (ESA).
 
 | |
 |:--|
@@ -56,7 +56,7 @@ The station in Santa-Maria can be used to track Ariane launches and it is also c
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|
 

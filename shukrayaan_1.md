@@ -20,7 +20,7 @@
 |Development|…|
 |Duration|…|
 |Launch|2023; Rocket GSLV Mk III|
-|Operator|[ISRO](zz_isro.md)|
+|Operator|[ISRO](contact/isro.md)|
 |Programme|…|
 |Similar to|• Proposed: … <br> • Current: … <br> • ㎩st: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md)|
 |Target|Mapping; studying the surface and atmosphere of Venus|
@@ -87,7 +87,7 @@ Collaborative payloads: India/Germany: 1, India/Sweden: 1</mark>
 
 |*Indian Payloads selected*|*Surface/<br>Subsurface*|*Atmospheric*|*Ionospheric*|*Sun-Venus<br> Environment*|
 |:--|:--|:--|:--|:--|
-|Venus L&S Band Synthetic Aperture Radar ([SAR](sar.md))|×| | | |
+|Venus L&S Band Synthetic Aperture Radar ([SAR](cam.md))|×| | | |
 |Advanced Radar for Topside Ionosphere and subsurface sounding (VARTISS) (HF radar)|×| |×|×|
 |VSEAM (Surface Emissivity)|×|×| | |
 |VTC (Thermal Camera)| |×| | |
@@ -135,7 +135,7 @@ Allan Variance (1 30 sec): ≤1.2 × 10⁻¹³
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

@@ -31,11 +31,13 @@
 
 | |*[Фирма](contact.md)*|*Актуальные (масса, ㎏)*|*Исторические (масса, ㎏)*|
 |:--|:--|:--|:--|
-|**EU**|[ADS](zz_ads.md)|[Astrix 1090](astrix_1090.md) (4.8)| |
-|**RU**|[НПП Антарес](zz_npp_antares.md)|[ИУС-ВОА](ius_voa.md) (15.1)・ [БИУС-М](bius_m.md) (5.1)| |
-| |[НПО ИТ](zz_npoit.md)|[БИБ-ФГ](bib_fg.md) (1.36)・ [МБИНС](mbins.md) (1.34)|[БИБ-ИГ](bib_ig.md) (3.6)|
-| |[НПЦАП](zz_npcap.md)|[БИУС-Л](bius_l.md) (10)| |
-|**US**|[Northrop Grumman](zz_northrop_grumman.md)|[LN-200](ln_200.md) (1.25)| |
+|**EU**|[ADS](contact/ads.md)|[Astrix 1090](imu_lst.md) (4.8)| |
+|•|• • • • • • • • • • • • •|• • •|
+|**RU**|[НПП Антарес](contact/npp_antares.md)|[ИУС-ВОА](imu_lst.md) (15.1)・ [БИУС-М](imu_lst.md) (5.1)| |
+| |[НПО ИТ](contact/npoit.md)|[БИБ-ФГ](imu_lst.md) (1.36)・ [МБИНС](imu_lst.md) (1.34)|[БИБ-ИГ](imu_lst.md) (3.6)|
+| |[НПЦАП](contact/npcap.md)|[БИУС-Л](imu_lst.md) (10)| |
+|•|• • • • • • • • • • • • •|• • •|
+|**US**|[Northrop Grumman](contact/northrop_grumman.md)|[LN-200](imu_lst.md) (1.25)| |
 
 **Производители**
 
@@ -43,17 +45,17 @@
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Macfab](zz_macfab.md) — rotors<br> ・[MSCI](zz_msci.md) — reaction wheels, rate measurement units<br> ・[Sinclair Interplanetary](zz_sinclair_ip.md)|
+|**CA**|・[Macfab](contact/macfab.md) — rotors<br> ・[MSCI](contact/msci.md) — reaction wheels, rate measurement units<br> ・[Sinclair Interplanetary](contact/sinclair_ip.md)|
 |**CN**|…|
-|**EU**|・[ADS](zz_ads.md)|
+|**EU**|・[ADS](contact/ads.md)|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Sumitomo PP](zz_sumitomo_pp.md)<br> ・[Tamagawa Seiki](zz_tamagawa_seiki.md)|
+|**JP**|・[Sumitomo PP](contact/sumitomo_pp.md)<br> ・[Tamagawa Seiki](contact/tamagawa_seiki.md)|
 |**KR**|…|
-|**RU**|・[ВНИИЭМ](zz_vniiem.md)<br> ・[НИИКП](zz_niicom.md)<br> ・[НПП Антарес](zz_npp_antares.md) — не очень опытные в своём деле. (на 2017 ‑ 2018 гг)<br> ・[НПО ИТ](zz_npoit.md)<br> ・[НПЦ Полюс](zz_polus_tomsk.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・[Спутникс](zz_sputnix.md)|
+|**RU**|・[ВНИИЭМ](contact/vniiem.md)<br> ・[НИИКП](contact/niicom.md)<br> ・[НПП Антарес](contact/npp_antares.md) — не очень опытные в своём деле. (на 2017 ‑ 2018 гг)<br> ・[НПО ИТ](contact/npoit.md)<br> ・[НПЦ Полюс](contact/polus_tomsk.md)<br> ・[НПЦАП](contact/npcap.md)<br> ・[Спутникс](contact/sputnix.md)|
 |**SA**|…|
 |**SG**|…|
-|**US**|・[Collins A/S](zz_collins_aerospace.md)<br> ・[Northrop Grumman](zz_northrop_grumman.md)|
+|**US**|・[Collins A/S](contact/collins_aerospace.md)<br> ・[Northrop Grumman](contact/northrop_grumman.md)|
 |**VN**|…|
 
 
@@ -69,19 +71,36 @@
 
 Технически ДМ и гиродин представляют собой управляющий силовой [гироскоп](iu.md), выступающий в роли гиростабилизатора. Принцип работы этих инерциальных устройств основан на законе сохранения момента импульса. Например, когда ДМ раскручивается в одну сторону, то КА, соответственно, начинает крутиться в другую сторону. Если под влиянием внешних факторов КА начал разворачиваться в определённом направлении, достаточно увеличить скорость вращения маховика в ту же сторону, чтобы он скомпенсировал момент («принял вращение на себя») и нежелательный поворот КА прекратится. Принцип же работы гиродина заключается в создании гироскопического момента, действующего через опоры гироскопа.
 
-ДМ, не являющийся управляющим, может использоваться в качестве накопителя электрической энергии (см. [Ротор](rotor.md)).
+ДМ, не являющийся управляющим, может использоваться в качестве накопителя электрической энергии (см. [Ротор](iu.md)).
 
 **Разновидности**
 
 | |*[Фирма](contact.md)*|*Модели (кин. момент, Н·м·с/макс.упр.м., Н·м)*|
 |:--|:--|:--|
-|**RU**|[ВНИИЭМ](zz_vniiem.md)|[ДМБ](dmb.md) (29.4/350)・ [ДМ20-250](dm20_250.md) (20/250)・ [ДМ14-120](dm14_120.md) (14/120)・ [ДМ5-50](dm5_50.md) (5/50)・ [ДМ10-25](dm10_25.md) (10/25)・ [ДМ1-20](dm1_20.md) (1/20)|
-| |[НИИКП](zz_niicom.md)|…<br> **`Исторические:`** *[Колер‑Э](koler_e.md) (18/…)*|
-| |[НПЦАП](zz_npcap.md)| |
-| |[НПЦ Полюс](zz_polus_tomsk.md)|[Агат‑10](agat_10.md) (250/0.1)・ [ГД-200-125](gd_200_125.md) (200/125)・ [ГД-02-150](gd_02_150.md) (150/2)・ [Агат‑5](agat_5.md) (100/0.125)・ [Агат‑40](agat_40.md) (40/…)・ [СГК-20-20](sgk_20_20.md) (20/20)・ [Агат‑15](agat_15.md) (15/0.15)・ [МДМ-2-50](mdm_2_50.md) (2/0.05)・ [МДМ-1,0](mdm_1_0.md) (1/0.02)・ [МДМ-0,5](mdm_0_5.md) (0.5/0.015)|
-| |[Спутникс](zz_sputnix.md)|[SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)・ [SX-GY](sx_gy.md) (0.04/…)|
+|**RU**|[ВНИИЭМ](contact/vniiem.md)|[ДМБ](rw_lst.md) (29.4/350)・ [ДМ20-250](rw_lst.md) (20/250)・ [ДМ14-120](rw_lst.md) (14/120)・ [ДМ5-50](rw_lst.md) (5/50)・ [ДМ10-25](rw_lst.md) (10/25)・ [ДМ1-20](rw_lst.md) (1/20)|
+| |[НИИКП](contact/niicom.md)|…<br> **`Исторические:`** *[Колер‑Э](rw_lst.md) (18/…)*|
+| |[НПЦАП](contact/npcap.md)| |
+| |[НПЦ Полюс](contact/polus_tomsk.md)|[Агат‑10](rw_lst.md) (250/0.1)・ [ГД-200-125](rw_lst.md) (200/125)・ [ГД-02-150](rw_lst.md) (150/2)・ [Агат‑5](rw_lst.md) (100/0.125)・ [Агат‑40](rw_lst.md) (40/…)・ [СГК-20-20](rw_lst.md) (20/20)・ [Агат‑15](rw_lst.md) (15/0.15)・ [МДМ-2-50](rw_lst.md) (2/0.05)・ [МДМ-1,0](rw_lst.md) (1/0.02)・ [МДМ-0,5](rw_lst.md) (0.5/0.015)|
+| |[Спутникс](contact/sputnix.md)|[SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)・ [SX-GY](sx_gy.md) (0.04/…)|
 |•|• • • • • • • •|• • •|
-|**US**|[Collins A/S](zz_collins_aerospace.md)| |
+|**US**|[Collins A/S](contact/collins_aerospace.md)| |
+
+
+
+<p style="page-break-after:always"> </p>
+
+## Rotor
+> <small>**Rotor** — EN term. **Ротор** — RU analogue.</small>
+
+**Rotor** — a rotating inertial device used for:
+
+   1. storage and subsequent delivery of electrical energy; (see [SPS](sps.md))
+   1. providing descent into the atmosphere. (see [LAG](lag.md))
+
+The principle of operation is similar to [reaction wheel](iu.md), only it is not a control.
+
+   1. <https://en.wikipedia.org/wiki/Rotor>
+   1. <https://ru.wikipedia.org/wiki/Ротор>
 
 
 
@@ -90,11 +109,11 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Guidance, Navigation & Control (GNC)](gnc.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](eas.md)・ [БКС](cable.md)・ [БУ](eas.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](devd.md)|
-|**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](astrix_1090.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](ius_voa.md) (15.1)・ [БИУС-Л](bius_l.md) (10)・ [БИУС-М](bius_m.md) (5.1)・ [БИБ-ФГ](bib_fg.md) (1.36)・ [МБИНС](mbins.md) (1.34) ··· *([БИБ-ИГ](bib_ig.md) (3.6))*  ▮  **США:** [LN-200](ln_200.md) (1.25)|
-|**`Двигатель‑маховик (ДМ):`**<br> …<br>• • •<br> **РФ:** [ДМБ](dmb.md) (29.4/350)・ [Агат‑10](agat_10.md) (250/0.1)・ [ДМ20-250](dm20_250.md) (20/250)・ [ГД-200-125](gd_200_125.md) (200/125)・ [ГД-02-150](gd_02_150.md) (150/2)・ [ДМ14-120](dm14_120.md) (14/120)・ [Агат‑5](agat_5.md) (100/0.125)・ [ДМ5-50](dm5_50.md) (5/50)・ [Агат‑40](agat_40.md) (40/…)・ [ДМ10-25](dm10_25.md) (10/25)・ [ДМ1-20](dm1_20.md) (1/20)・ [СГК-20-20](sgk_20_20.md) (20/20)・ [Агат‑15](agat_15.md) (15/0.15)・ [МДМ-2-50](mdm_2_50.md) (2/0.05)・ [МДМ-1,0](mdm_1_0.md) (1/0.02)・ [МДМ-0,5](mdm_0_5.md) (0.5/0.015)・ [SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)・ [SX-GY](sx_gy.md) (0.04/…)|
+|**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](imu_lst.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](imu_lst.md) (15.1)・ [БИУС-Л](imu_lst.md) (10)・ [БИУС-М](imu_lst.md) (5.1)・ [БИБ-ФГ](imu_lst.md) (1.36)・ [МБИНС](imu_lst.md) (1.34) ··· *([БИБ-ИГ](imu_lst.md) (3.6))*  ▮  **США:** [LN-200](imu_lst.md) (1.25)|
+|**`Двигатель‑маховик (ДМ):`**<br> …<br>• • •<br> **РФ:** [ДМБ](rw_lst.md) (29.4/350)・ [Агат‑10](rw_lst.md) (250/0.1)・ [ДМ20-250](rw_lst.md) (20/250)・ [ГД-200-125](rw_lst.md) (200/125)・ [ГД-02-150](rw_lst.md) (150/2)・ [ДМ14-120](rw_lst.md) (14/120)・ [Агат‑5](rw_lst.md) (100/0.125)・ [ДМ5-50](rw_lst.md) (5/50)・ [Агат‑40](rw_lst.md) (40/…)・ [ДМ10-25](rw_lst.md) (10/25)・ [ДМ1-20](rw_lst.md) (1/20)・ [СГК-20-20](rw_lst.md) (20/20)・ [Агат‑15](rw_lst.md) (15/0.15)・ [МДМ-2-50](rw_lst.md) (2/0.05)・ [МДМ-1,0](rw_lst.md) (1/0.02)・ [МДМ-0,5](rw_lst.md) (0.5/0.015)・ [SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)・ [SX-GY](sx_gy.md) (0.04/…)|
 
    1. Docs: …
    1. Notable interwikies — …

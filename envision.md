@@ -7,9 +7,9 @@
 
 > <small>**EnVision** — EN term. **ЭнВижн** — rough RU analogue.</small>
 
-**EnVision** is a [ESA’s](zz_esa.md) proposed orbital mission to [Venus](venus.md) (the [M5 mission candidate in the ESA Science Programme ⎆](https://www.esa.int/Our_Activities/Space_Science/ESA_selects_three_new_mission_concepts_for_study)) that would perform high‑resolution radar mapping & atmospheric studies.
+**EnVision** is a [ESA’s](contact/esa.md) proposed orbital mission to [Venus](venus.md) (the [M5 mission candidate in the ESA Science Programme ⎆](https://www.esa.int/Our_Activities/Space_Science/ESA_selects_three_new_mission_concepts_for_study)) that would perform high‑resolution radar mapping & atmospheric studies.
 
-EnVision will investigate Venus from its inner core to its atmosphere at an unprecedented scale of resolution, characterising in particular, core & mantle structure ([EVN‑051](venus.md)), signs of active ([EVN‑029](venus.md)) & past geologic processes ([EVN‑042](venus.md)) & looking for evidence of the past existence of oceans ([EVN‑040](venus.md)). The mission would help scientists understand the relationships between its geological activity & atmosphere ([EVN‑036](venus.md)), & it would investigate why Venus & [Earth](earth.md) took such different evolutionary paths ([EVN‑027](venus.md)). The mission is studied in collaboration with [NASA](zz_nasa.md), with the potential sharing of responsibilities.
+EnVision will investigate Venus from its inner core to its atmosphere at an unprecedented scale of resolution, characterising in particular, core & mantle structure ([EVN‑051](venus.md)), signs of active ([EVN‑029](venus.md)) & past geologic processes ([EVN‑042](venus.md)) & looking for evidence of the past existence of oceans ([EVN‑040](venus.md)). The mission would help scientists understand the relationships between its geological activity & atmosphere ([EVN‑036](venus.md)), & it would investigate why Venus & [Earth](earth.md) took such different evolutionary paths ([EVN‑027](venus.md)). The mission is studied in collaboration with [NASA](contact/nasa.md), with the potential sharing of responsibilities.
 
 [![](f/project/e/envision/pic01_thumb.jpg)](f/project/e/envision/pic01.jpg) [![](f/project/e/envision/logo1_thumb.jpg)](f/project/e/envision/logo1.jpg)
 
@@ -24,8 +24,8 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|2021 — 2032|
 |Duration|• Total: 5.16 years (baseline) & 6.29 years (backup);<br> • Flight: 2.5 years (baseline) & 3.63 years (backup);<br> • Work: 2.66 years.|
-|Launch|2032.11 (baseline) & 2033 (backup), [Guiana Space Centre](kourou.md) (CSG), [Ariane 6.2](arian.md)|
-|Operator|[ESA](zz_esa.md)|
+|Launch|2032.11 (baseline) & 2033 (backup), [Guiana Space Centre](spaceport.md) (CSG), [Ariane 6.2](arian.md)|
+|Operator|[ESA](contact/esa.md)|
 |Programme|Cosmic Vision|
 |Similar to|• Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US), [Venera‑D](venera_d.md) (RU);<br> • Current: [Akatsuki](akatsuki.md) (JP 2010);<br> • ㎩st: [Venus Express](venus_express.md) (EU 2005), [Венера‑15/16](venera_15_16.md) (SU 1983), [Pioneer-Venus-1](pioneer_venus_1.md) (US 1978), [Pioneer-Venus-2](pioneer_venus_2.md) (US 1978).|
 |Target|To detect activity & measure small‑scale changes on Venus, incl. geological & geochemical cycles involving the interior, surface, atmosphere|
@@ -35,7 +35,7 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 |Composition|Venus orbiter|
 |Contractor|Arianespace|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
-|Manufacturer|[Thales Alenia Space](zz_tas_i.md)|
+|Manufacturer|[Thales Alenia Space](contact/tas_i.md)|
 |Mass|• Launch: 2 611.3 ㎏ (baseline) & 2 781.5  ㎏ (backup);<br> • Wet: 2 561.3 ㎏ (baseline) & 2 731.5 ㎏ (backup);<br> • Dry: 1 295.4 ㎏; ([large satellite](sc.md), [EVN‑073](venus.md))<br> • ㎩yload: 255 ㎏.|
 |Orbit / Site|220 × 470 ㎞ 88° ([EVN‑005](venus.md))|
 |Power|2 350 W (max.)|
@@ -129,11 +129,11 @@ Our baseline launch in November 2032 encompasses a comparably short transfer dur
 
 One of the main trade‑offs involved revisiting the operational orbit options between quasi‑circular, periodic eccentricity, highly elliptical.
 
-The selected science orbit is a quasi‑polar slightly elliptical low Venus orbit. Its Apocytherion & Pericytherion are evolving in the 220 × 470 ㎞ altitude range. Its specificity is that it has a periodic eccentricity. This means that the eccentricity vector, describing the eccentricity & argument of pericentre, evolves in time, but the initial value is such that at the end of the cycle it is back to its initial point. This characteristic enables cycle‑to‑cycle InSAR measurements, which require that the repeat & the reference orbits are such that the angular separation between the spacecraft positions at the acquisitions of two [SAR](sar.md) images of a given InSAR pair, as seen by any point imaged on the surface of Venus within the targeted Regions of Interest, remains smaller than the critical angular baseline or 1.4 deg (this includes the maximum frequency shift capability of the SAR to compensate for spectral baseline shift), provided this viewing angle is known better than 0.5 mrad.
+The selected science orbit is a quasi‑polar slightly elliptical low Venus orbit. Its Apocytherion & Pericytherion are evolving in the 220 × 470 ㎞ altitude range. Its specificity is that it has a periodic eccentricity. This means that the eccentricity vector, describing the eccentricity & argument of pericentre, evolves in time, but the initial value is such that at the end of the cycle it is back to its initial point. This characteristic enables cycle‑to‑cycle InSAR measurements, which require that the repeat & the reference orbits are such that the angular separation between the spacecraft positions at the acquisitions of two [SAR](cam.md) images of a given InSAR pair, as seen by any point imaged on the surface of Venus within the targeted Regions of Interest, remains smaller than the critical angular baseline or 1.4 deg (this includes the maximum frequency shift capability of the SAR to compensate for spectral baseline shift), provided this viewing angle is known better than 0.5 mrad.
 
 From a nominal frozen eccentricity ~250 ㎞ altitude elliptical orbit, the imaging radar will operate in three different modes across four cycles. Each four‑orbit sequence will consist of one stereo pair stripmap; two interferometric pass‑to‑pass stripmaps; & a targeted acquisition of high resolution multipolar images.
 
-The imaging strategy permits collection of nested image data products: [SAR](sar.md) imagery at 30 m resolution of the 20 % of the planet, repeated interferometric pairs & multi‑polarimetric imagery, for change detection & surface material mapping, over this same 20 %, & high resolution (<5 m) imaging of approximately 2 % of the planet’s surface. Core mission instruments will also provide subsurface sounder profiles, & global infrared emissivity mapping from nightside observations & spectroscopic data to identify key volcanic gases.
+The imaging strategy permits collection of nested image data products: [SAR](cam.md) imagery at 30 m resolution of the 20 % of the planet, repeated interferometric pairs & multi‑polarimetric imagery, for change detection & surface material mapping, over this same 20 %, & high resolution (<5 m) imaging of approximately 2 % of the planet’s surface. Core mission instruments will also provide subsurface sounder profiles, & global infrared emissivity mapping from nightside observations & spectroscopic data to identify key volcanic gases.
 
 **Ariane 6.2 fairing**
 
@@ -393,7 +393,7 @@ Chemical, electric & hybrid propulsion options were assessed, even if the hybrid
 
 **ESA‑NASA consortium**
 
-The mission is studied in collaboration with [NASA](zz_nasa.md), with the potential sharing of responsibilities currently under assessment. Main contact: [Ocampo, Adriana Christian](person.md).
+The mission is studied in collaboration with [NASA](contact/nasa.md), with the potential sharing of responsibilities currently under assessment. Main contact: [Ocampo, Adriana Christian](person.md).
 
 **EnVision proposal team**
 
@@ -449,7 +449,7 @@ The first international conference to discuss the scientific investigations of t
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

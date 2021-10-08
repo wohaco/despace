@@ -3,7 +3,7 @@
 
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 
 [TOC]
 
@@ -17,7 +17,7 @@
 
 ### Adler, Mark
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Physicist, Mathematician, Electrical Engineer, Rocket Scientist, Computer Programmer*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Physicist, Mathematician, Electrical Engineer, Rocket Scientist, Computer Programmer*|
 |:--|:--|
 |B‑day, addr.|1959.04.03 Miami, US / …|
 |Contact|<madler@alumni.caltech.edu>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -43,7 +43,7 @@
 
 ### Ansari, Arif Husain
 
-|*[Org.](contact.md)*|*[BSIP](zz_bsip.md), IN. Precambrian Palaeobiology*|
+|*[Org.](contact.md)*|*[BSIP](contact/bsip.md), IN. Precambrian Palaeobiology*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1983 / …|
 |Contact|<a.h.ansari@bsip.res.in>, <arifenv@gmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* +91(841)805-28-12|
@@ -67,7 +67,7 @@
 
 ### (✗) Allen, Mark Andrew
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US.*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US.*|
 |:--|:--|
 |B‑day, addr.|1949.09.29 ‑ 2016.10.22 (67 лет, Died of complications from ALS (Lou Gehrig’s Disease)) / …|
 |Contact|<mark.a.allen@nasa.gov>, *work:* +1(818)354-36-65|
@@ -108,7 +108,7 @@
 
 ### Arney, Giada Nicole
 
-|*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Research AST, Planetary Studies*|
+|*[Org.](contact.md)*|*[GFSC](contact/gfsc.md), US. Research AST, Planetary Studies*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1988 / …|
 |Contact|<giada.n.arney@nasa.gov>, *раб.:* +1(301)614-66-27 ; *mobile:* <mark>nomobile</mark>|
@@ -133,7 +133,7 @@
 
 ### Ansari, R. Rafat
 
-|*[Org.](contact.md)*|*[GRC](zz_grc.md), US. Senior researcher*|
+|*[Org.](contact.md)*|*[GRC](contact/grc.md), US. Senior researcher*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<rafat.r.ansari@nasa.gov>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -157,7 +157,7 @@
 
 ### Ануфрейчик, Константин Владимирович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Лаб. 711 «Проектирования аппаратуры и комплексов космических аппаратов». Начальник лаборатории*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Лаб. 711 «Проектирования аппаратуры и комплексов космических аппаратов». Начальник лаборатории*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<kos@iki.rssi.ru>, *раб.:* +7(495)333-45-78; *mobile:* +7(903)125-76-11|
@@ -207,7 +207,7 @@
 
 ### Baines, Kevin
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Planetary Science. Planetary & Exoplanetary Atmospheres. Principal Scientist (2003)*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Planetary Science. Planetary & Exoplanetary Atmospheres. Principal Scientist (2003)*|
 |:--|:--|
 |B‑day, addr.|1954.02.11 / …|
 |Contact|<kbaines@jpl.nasa.gov>, *раб.:* +1(818)879-35-02, Fax: +1(818)393-46-05; *mobile:* <mark>nomobile</mark>|
@@ -231,7 +231,7 @@
 
 ### Baker, Charles L.
 
-|*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Mission/Project Systems Engineer*|
+|*[Org.](contact.md)*|*[GFSC](contact/gfsc.md), US. Mission/Project Systems Engineer*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1971 / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -253,7 +253,7 @@
 
 ### Balint, Tibor
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Principal Human Centered Designer*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Principal Human Centered Designer*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1963 / …|
 |Contact|<tibor.balint@jpl.nasa.gov>, <tibor.balint@network.rca.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -279,7 +279,7 @@
 
 ### Beauchamp, Patricia
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Program manager*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Program manager*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1958 / …|
 |Contact|<patricia.m.beauchamp@nasa.gov>, <pbeaucha@jpl.nasa.gov>, *раб.:* <mark>noworkphone</mark>; *mobile:* +1(818)645-24-79|
@@ -326,7 +326,7 @@
 
 ### Berger, Gilles
 
-|*[Org.](contact.md)*|*[IRAP](zz_irap.md), EU.*|
+|*[Org.](contact.md)*|*[IRAP](contact/irap.md), EU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<gilles.berger@irap.omp.eu>, *раб.:* <mark>noworkphone</mark>; *mobile:* +33(0)5-6133-2582|
@@ -349,7 +349,7 @@
 
 ### Blamont, Jacques
 
-|*[Org.](contact.md)*|*[CNES](zz_cnes.md), FR.*|
+|*[Org.](contact.md)*|*[CNES](contact/cnes.md), FR.*|
 |:--|:--|
 |B‑day, addr.|1926.10.13 Paris, FR / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -380,7 +380,7 @@
 | |[![](f/con/b/bovolo1_photo_thumb.jpg)](f/con/b/bovolo1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Trento Univ., Italy, Information & Communication Techologies, 2006. MS, Trento Univ., Italy, Communication Engineering, 2003. BS (summa cum laude), Trento Univ., Italy, Communication Engineering, 2001.
-   - **Exp.:** She is the founder & the head of the Remote Sensing for Digital Earth unit at Fondazione Bruno Kessler (FBK), Trento, Italy since July 2013. Her main research interests are in remote-sensing image processing, signal processing, & pattern recognition. Her interests are related to multitemporal image analysis, change detection in multispectral, hyperspectral, [SAR](sar.md) images, time series analysis, domain adaptation, LiDAR & radar sounder systems. She conducts research & on these topics within the context of several national & international projects. She is the author (or coauthor) of 47 scientific publications in referred international journals (more than 40 in IEEE journals), more than 90 papers in conference proceedings, & 8 book chapters. She is editor/co-editor of 2 conference proceedings & 2 journal special issue. She is a member of the program & scientific committee of several international conferences & workshops & a referee for several international journals.
+   - **Exp.:** She is the founder & the head of the Remote Sensing for Digital Earth unit at Fondazione Bruno Kessler (FBK), Trento, Italy since July 2013. Her main research interests are in remote-sensing image processing, signal processing, & pattern recognition. Her interests are related to multitemporal image analysis, change detection in multispectral, hyperspectral, [SAR](cam.md) images, time series analysis, domain adaptation, LiDAR & radar sounder systems. She conducts research & on these topics within the context of several national & international projects. She is the author (or coauthor) of 47 scientific publications in referred international journals (more than 40 in IEEE journals), more than 90 papers in conference proceedings, & 8 book chapters. She is editor/co-editor of 2 conference proceedings & 2 journal special issue. She is a member of the program & scientific committee of several international conferences & workshops & a referee for several international journals.
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
@@ -396,7 +396,7 @@
 
 ### Bradburne, Chris
 
-|*[Org.](contact.md)*|*[JHUAPL](zz_jhuapl.md), US. Chief Scientist, Associate Professor*|
+|*[Org.](contact.md)*|*[JHUAPL](contact/jhuapl.md), US. Chief Scientist, Associate Professor*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<chris.bradburne@jhuapl.edu>, *раб.:* +1(443)414-71-40; *mobile:* <mark>nomobile</mark>|
@@ -421,7 +421,7 @@
 
 ### Breuer, Doris
 
-|*[Org.](contact.md)*|*[DLR](zz_dlr.md), EU(GR). Department of Planetary Physics. Head of the Department*|
+|*[Org.](contact.md)*|*[DLR](contact/dlr.md), EU(GR). Department of Planetary Physics. Head of the Department*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1965, Mönchengladbach, GR / …|
 |Contact|<mark>noemail</mark>, *work:* +49(30)670-55-301, Fax: +49(30)670-55-303; *mobile:* <mark>nomobile</mark>|
@@ -448,7 +448,7 @@
 
 ### Bristow, Thomas F.
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md) Ames Research Center, US. Research Scientist*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md) Ames Research Center, US. Research Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Thomas.F.Bristow@nasa.gov>, *раб.:* +1(626)318-34-80; *mobile:* <mark>nomobile</mark>|
@@ -480,7 +480,7 @@
 | |[![](f/con/b/bruzzone1_photo_thumb.jpg)](f/con/b/bruzzone1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PostDoc, Remote Sensing & Signal Processing, University of Genoa, Italy, 1999. PhD, Telecommunication Engineering, University of Genoa, Italy, 1998. BS, Electronic Engineering, 1993.
-   - **Exp.:** Dr. Bruzzone is the founder & the director of the Remote Sensing Laboratory in the Department of Information Engineering & Computer Science, Univ. of Trento. His research interests are in the areas of remote sensing, radar & [SAR](sar.md), signal processing, machine learning & pattern recognition. Among the others, he’s currently the [Principal Investigator](principal_investigator.md) of the Radar for icy Moon exploration (RIME) instrument in the framework of the JUpiter ICy moons Explorer (JUICE) mission of the European Space Agency (ESA) & the Science Lead for the High Resolution Land Cover project in the framework of the Climate Change Initiative of ESA. He is the author (or coauthor) of 247 scientific publications in international journals (183 in IEEE journals), 310 papers in conference proceedings, 21 book chapters.
+   - **Exp.:** Dr. Bruzzone is the founder & the director of the Remote Sensing Laboratory in the Department of Information Engineering & Computer Science, Univ. of Trento. His research interests are in the areas of remote sensing, radar & [SAR](cam.md), signal processing, machine learning & pattern recognition. Among the others, he’s currently the [Principal Investigator](principal_investigator.md) of the Radar for icy Moon exploration (RIME) instrument in the framework of the JUpiter ICy moons Explorer (JUICE) mission of the European Space Agency (ESA) & the Science Lead for the High Resolution Land Cover project in the framework of the Climate Change Initiative of ESA. He is the author (or coauthor) of 247 scientific publications in international journals (183 in IEEE journals), 310 papers in conference proceedings, 21 book chapters.
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
@@ -498,7 +498,7 @@
 
 ### Bullock, Mark
 
-|*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Space Science Department. Principal scientist*|
+|*[Org.](contact.md)*|*[SWRI](contact/swri.md), US. Space Science Department. Principal scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<bullock@boulder.swri.edu>, *раб.:* +1(303)944-94-76; *mobile:* <mark>nomobile</mark>|
@@ -523,7 +523,7 @@
 
 ### Byrne, Paul K.
 
-|*[Org.](contact.md)*|*[NCSU](zz_ncsu.md), EU. Assistant Professor*|
+|*[Org.](contact.md)*|*[NCSU](contact/ncsu.md), EU. Assistant Professor*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1984 / …|
 |Contact|<paul.byrne@ncsu.edu>, *раб.:* +1(919)513-25-78; *mobile:* <mark>nomobile</mark>|
@@ -550,7 +550,7 @@
 
 ### Бабакин, Николай Георгиевич
 
-|*[Org.](contact.md)*|*[АКЦ ФИАН](zz_asc_fian.md), RU. Главный конструктор*|
+|*[Org.](contact.md)*|*[АКЦ ФИАН](contact/asc_fian.md), RU. Главный конструктор*|
 |:--|:--|
 |B‑day, addr.|1944.10.31 / …|
 |Contact|<nbabakin@asc.rssi.ru>, *work:* +7(495)333-21-33, факс +7(495)333-23-01; *mobile:* +7(917)544-54-71|
@@ -612,7 +612,7 @@
 
 ### Бурданов, Антон Владимирович
 
-|*[Org.](contact.md)*|*[ЦНИИмаш](zz_tsniimash.md), RU. Центр системного проектирования, Отдел 1322. Главный специалист отдела проектно‑поисковых исследований в обеспечение разработки программ, космических комплексов и приборного ряда для фундаментальных космических исследований*|
+|*[Org.](contact.md)*|*[ЦНИИмаш](contact/tsniimash.md), RU. Центр системного проектирования, Отдел 1322. Главный специалист отдела проектно‑поисковых исследований в обеспечение разработки программ, космических комплексов и приборного ряда для фундаментальных космических исследований*|
 |:--|:--|
 |B‑day, addr.|1980.11.03 / …|
 |Contact|<burdanovav@tsniimash.ru>, *раб.:* +7(495)513-40-81; *mobile:* +7(926)273-80-51|
@@ -635,7 +635,7 @@
 
 ### Буров, Алексей Анатольевич
 
-|*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. 9/301. 512 «Проектно-конструкторский отдел». Ведущий инженер-конструктор*|
+|*[Org.](contact.md)*|*[НПО Лавочкина](contact/lav.md), RU. 9/301. 512 «Проектно-конструкторский отдел». Ведущий инженер-конструктор*|
 |:--|:--|
 |B‑day, addr.|1992.04.22, на НПОЛ с 2015 / Химки|
 |Contact|<burov@laspace.ru>, *work:* 64-08; *mobile:* +7(926)833-55-86, +7(495)793-91-68 — домашний стационарный|
@@ -644,7 +644,7 @@
 
    - **[Education](edu.md):** …
    - **Exp.:** …
-   - С.блок 108060. ┊ Учился в институте в одной группе с [Дробинко](zz_дробинко1.md) Е.О., Заикиным А.В.
+   - С.блок 108060. ┊ Учился в институте в одной группе с [Дробинко](contact/дробинко1.md) Е.О., Заикиным А.В.
    - **SC/Equip.:** …
    - **Conferences:** …
    - Git: …・ Facebook: <mark>nofb</mark> ・ [Instagram ⎆](https://instagram.com/mavelianko)・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
@@ -685,7 +685,7 @@
 
 ### Caro, Tristan
 
-|*[Org.](contact.md)*|*[Berkeley Univ.](zz_berkeley_univ.md), Koskella Lab, US. Departments of Ecology & Evolutionary Biology & Geological Sciences. Lab Technician*|
+|*[Org.](contact.md)*|*[Berkeley Univ.](contact/berkeley_univ.md), Koskella Lab, US. Departments of Ecology & Evolutionary Biology & Geological Sciences. Lab Technician*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<tcaro@berkeley.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -732,7 +732,7 @@
 
 ### Case, Kelley
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Technical Supervisor, Concept Design Methods Chief*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Technical Supervisor, Concept Design Methods Chief*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Kelley.Case@jpl.nasa.gov>, *work:* +1(818)354‑58-70; *mobile:* <mark>nomobile</mark>|
@@ -754,7 +754,7 @@
 
 ### Chalex, Remy
 
-|*[Org.](contact.md)*|*[ESA](zz_esa.md), CDF, EU. System Engineer в ESA, Team Leader Concurrent Design Facility в ESA, System Engineer for the ESA в Terma.*|
+|*[Org.](contact.md)*|*[ESA](contact/esa.md), CDF, EU. System Engineer в ESA, Team Leader Concurrent Design Facility в ESA, System Engineer for the ESA в Terma.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1979 / …|
 |Contact|<remy.chalex@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -801,7 +801,7 @@
 
 ### Cockell, Charles Seaton
 
-|*[Org.](contact.md)*|*[Edinburgh Univ.](zz_edinburgh_univ.md), EU. Chair of Astrobiology. Professor of Astrobiology*|
+|*[Org.](contact.md)*|*[Edinburgh Univ.](contact/edinburgh_univ.md), EU. Chair of Astrobiology. Professor of Astrobiology*|
 |:--|:--|
 |B‑day, addr.|1967.05.21 / …|
 |Contact|<c.s.cockell@ed.ac.uk>, *раб.:* +44(131)650-29-61; *mobile:* <mark>nomobile</mark>|
@@ -829,7 +829,7 @@
 
 ### Colaprete, Anthony
 
-|*[Org.](contact.md)*|*[ARC](zz_arc.md), US. Planetary Scientist*|
+|*[Org.](contact.md)*|*[ARC](contact/arc.md), US. Planetary Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1971  / …|
 |Contact|<Anthony.Colaprete-1@nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -853,7 +853,7 @@
 
 ### Cordova, Jaime Adrian Jr.
 
-|*[Org.](contact.md)*|*[Wisconsin Univ.](zz_wisconsin_univ.md), US.*|
+|*[Org.](contact.md)*|*[Wisconsin Univ.](contact/wisconsin_univ.md), US.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1994 / …|
 |Contact|<jaime.cordova@wisc.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -901,7 +901,7 @@
 
 ### Cutts, James Alfred
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Solar System Exploration Directorate, Program Manager*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Solar System Exploration Directorate, Program Manager*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1945  / Pasadena, California, USA|
 |Contact|<James.A.Cutts@jpl.nasa.gov>, *раб.:* +1(818)354-41-20; *mobile:* <mark>nomobile</mark>|
@@ -945,7 +945,7 @@
 
 ### Чулков, Илья Владиленович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел 71 «Проектирования и экспериментальной отработки бортовой и специализированной аппаратуры и комплексов». Заместитель директора - начальник отдела*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел 71 «Проектирования и экспериментальной отработки бортовой и специализированной аппаратуры и комплексов». Заместитель директора - начальник отдела*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<chulkov@cosmos.ru>, *раб.:* +7(495)333-44-12, Fax: +7(495)913-30-40; *mobile:* +7(916)127-77-19|
@@ -973,7 +973,7 @@
 
 ### D'Incecco, Piero
 
-|*[Org.](contact.md)*|*[IRSPS](zz_irsps.md), EU. Planetary geologist*|
+|*[Org.](contact.md)*|*[IRSPS](contact/irsps.md), EU. Planetary geologist*|
 |:--|:--|
 |B‑day, addr.|1983.05.03 / … Italy|
 |Contact|<piero.dincecco@unich.it>, <piero.dincecco@planetaryscience.de>, *раб.:* +49(176)329-814-72; *mobile:* +39(389)462-98-83|
@@ -997,7 +997,7 @@
 
 ### Domagal-Goldman, Shawn
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md) [GSFC](zz_gsfc.md), US. Planetary Systems Laboratory, Planetary Science Division, Science & Exploration Directorate. Lab head, Research Space Scientist*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md) [GSFC](contact/gsfc.md), US. Planetary Systems Laboratory, Planetary Science Division, Science & Exploration Directorate. Lab head, Research Space Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<shawn.goldman@nasa.gov>, *раб.:* +1(301)614-62-45; *mobile:* <mark>nomobile</mark>|
@@ -1079,7 +1079,7 @@
 | |![](f/con/d/dyar1_photo.jpg) [![](f/con/d/dyar1_sign_thumb.jpg)](f/con/d/dyar1_sign.png)|
 
    - **[Education](edu.md):** PhD, Geochemistry, Massachusetts Institute of Technology. BA, Geology & Art History, Wellesley College.
-   - **Exp.:** Targets: Earth, Mars, Mercury, Moon, Venus. Mineralogist & spectroscopist interested in a wide range of problems relating to the evolution of the solar system. Study the redox state of iron & the abundance of hydrogen in solar system materials using Mossbauer, x‑ray absorption, & FTIR spectroscopy. Has pioneered use of machine learning tools to interpret spectroscopic data. Participating Scientist on the Mars Science Laboratory science team. In addition to being a Senior Scientist at [PSI](zz_psi.md), Darby Dyar is also Kennedy‑Schelkunoff Professor of Astronomy at Mt. Holyoke College.
+   - **Exp.:** Targets: Earth, Mars, Mercury, Moon, Venus. Mineralogist & spectroscopist interested in a wide range of problems relating to the evolution of the solar system. Study the redox state of iron & the abundance of hydrogen in solar system materials using Mossbauer, x‑ray absorption, & FTIR spectroscopy. Has pioneered use of machine learning tools to interpret spectroscopic data. Participating Scientist on the Mars Science Laboratory science team. In addition to being a Senior Scientist at [PSI](contact/psi.md), Darby Dyar is also Kennedy‑Schelkunoff Professor of Astronomy at Mt. Holyoke College.
    - …
    - **SC/Equip.:** …
    - **Conferences:** 2019 [VEXAG 17](vexag_2019.md)
@@ -1172,7 +1172,7 @@
 
 ### Esposito, Larry W.
 
-|*[Org.](contact.md)*|*[LASP](zz_lasp.md), US. Professor, Astrophysical & Planetary Sciences. [Principal Investigator](principal_investigator.md), UVIS Instrument on the Cassini Mission to Saturn*|
+|*[Org.](contact.md)*|*[LASP](contact/lasp.md), US. Professor, Astrophysical & Planetary Sciences. [Principal Investigator](principal_investigator.md), UVIS Instrument on the Cassini Mission to Saturn*|
 |:--|:--|
 |B‑day, addr.|1951.04.15 / …|
 |Contact|<larry.esposito@lasp.colorado.edu>, *раб.:* +1(303)492-73-25; *mobile:* <mark>nomobile</mark>|
@@ -1197,7 +1197,7 @@
 
 ### Ewan, Shannon
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. International Program Specialist*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), US. International Program Specialist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1982 / Washington|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -1219,7 +1219,7 @@
 
 ### Ёлкин, Константин Сергеевич
 
-|*[Org.](contact.md)*|*[ЦНИИмаш](zz_tsniimash.md), RU. Центр системного проектирования. Заместитель начальника отделения*|
+|*[Org.](contact.md)*|*[ЦНИИмаш](contact/tsniimash.md), RU. Центр системного проектирования. Заместитель начальника отделения*|
 |:--|:--|
 |B‑day, addr.|1960.06.02 / …|
 |Contact|<elkin@tsniimash.ru>, <elkin_konst@mail.ru>, *раб.:* +7(495)513-56-90, секретарь: +7(495)513-42-92; *mobile:* +7(926)601-82-41|
@@ -1241,7 +1241,7 @@
 
 ### Елшанский, Леонид Борисович
 
-|*[Org.](contact.md)*|*[Роскосмос](zz_roskosmos.md), RU. Консультант*|
+|*[Org.](contact.md)*|*[Роскосмос](contact/roskosmos.md), RU. Консультант*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<elshanskiy.lb@roscosmos.ru>, *раб.:* +7(495)631-91-22; *mobile:* <mark>nomobile</mark>|
@@ -1264,7 +1264,7 @@
 
 ### Евдокимова, Дарья Геннадьевна
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md) ([LATMOS](zz_latmos.md), [UVSQ](uvsq.md)), RU. 536 Лаборатория экспериментальной спектроскопии. Старший лаборант.*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md) ([LATMOS](contact/latmos.md), [UVSQ](uvsq.md)), RU. 536 Лаборатория экспериментальной спектроскопии. Старший лаборант.*|
 |:--|:--|
 |B‑day, addr.|1993.09.23 (Москва, РФ) / Москва, РФ|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -1287,7 +1287,7 @@
 
 ### Эйсмонт, Натан Андреевич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<neismont@iki.rssi.ru>, *раб.:* <mark>noworkphone</mark>; *mobile:* +7(916)628-61-39|
@@ -1325,7 +1325,7 @@
 | |[![](f/con/g/ghail1_photo_thumb.jpg)](f/con/g/ghail1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** …
-   - **Exp.:** As a Reader in Planetary & Engineering Geology I am interested in most areas of geology, but principally my research has been on tectonic processes away from plate boundaries, on continental areas of Earth, particularly the London Basin, & on Venus, where the lack of erosion means that these processes are more clearly discernible. I have worked with synthetic aperture radar ([SAR](sar.md)) data for more than 25 years & understand its strangeness as an imaging system, & the use of phase information for change detection. For the first time we now have a tool that can measure the mm/yr rate of horizontal & vertical movement characteristic of low seismicity continental interiors. I am applying these techniques to help predict ground engineering problems & groundwater flow, & am developing new tools using the full amplitude, phase & polarimetric components of SAR data. The London Basin appears to be modestly active at present but poorly understood, posing significant hazards to both the deeper (e.g., Crossrail) & older (e.g., the Northern Line) parts of London’s infrastructure. Of particular concern is the presence of local anoxic air pockets underground caused by cavitation & reduction by green rust during dewatering, & then trapped by rising groundwater in fault-bounded blocks. Understanding their origin & location is the subject of ongoing research with the Tideway Thames Tunnel project. I am lead proposer of EnVision, an ambitious European Medium Class mission to detect & measure the rates of internal, surface & atmospheric changes on Venus, using the most advanced Earth Observation SAR technology & experience. These new data are essential to understanding volcanic, tectonic & atmospheric processes on Venus & ultimately to explaining why a planet so similar to Earth has evolved so differently.
+   - **Exp.:** As a Reader in Planetary & Engineering Geology I am interested in most areas of geology, but principally my research has been on tectonic processes away from plate boundaries, on continental areas of Earth, particularly the London Basin, & on Venus, where the lack of erosion means that these processes are more clearly discernible. I have worked with synthetic aperture radar ([SAR](cam.md)) data for more than 25 years & understand its strangeness as an imaging system, & the use of phase information for change detection. For the first time we now have a tool that can measure the mm/yr rate of horizontal & vertical movement characteristic of low seismicity continental interiors. I am applying these techniques to help predict ground engineering problems & groundwater flow, & am developing new tools using the full amplitude, phase & polarimetric components of SAR data. The London Basin appears to be modestly active at present but poorly understood, posing significant hazards to both the deeper (e.g., Crossrail) & older (e.g., the Northern Line) parts of London’s infrastructure. Of particular concern is the presence of local anoxic air pockets underground caused by cavitation & reduction by green rust during dewatering, & then trapped by rising groundwater in fault-bounded blocks. Understanding their origin & location is the subject of ongoing research with the Tideway Thames Tunnel project. I am lead proposer of EnVision, an ambitious European Medium Class mission to detect & measure the rates of internal, surface & atmospheric changes on Venus, using the most advanced Earth Observation SAR technology & experience. These new data are essential to understanding volcanic, tectonic & atmospheric processes on Venus & ultimately to explaining why a planet so similar to Earth has evolved so differently.
    - …
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
@@ -1341,7 +1341,7 @@
 
 ### Glaze, Lori S.
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), [GSFC](zz_gsfc.md), US. Planetary Geology, Geophys & Geochem Lab.*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), [GSFC](contact/gsfc.md), US. Planetary Geology, Geophys & Geochem Lab.*|
 |:--|:--|
 |B‑day, addr.|1964.07.19 (Техас) / …|
 |Contact|<lori.s.glaze@nasa.gov>, *раб.:* +1(301)614-64-66, Fax: +1(301)614-60-15; *mobile:* <mark>nomobile</mark>|
@@ -1366,7 +1366,7 @@
 
 ### Gentry, Diana M.
 
-|*[Org.](contact.md)*|*[NASA Ames Research Center](zz_arc.md), US. Biospheric Science Branch. Staff, Student Career Experience Program Student*|
+|*[Org.](contact.md)*|*[NASA Ames Research Center](contact/arc.md), US. Biospheric Science Branch. Staff, Student Career Experience Program Student*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<diana.gentry@nasa.gov>, *раб.:* +1(650)604-54-41; *mobile:* <mark>nomobile</mark>|
@@ -1461,7 +1461,7 @@
 
 ### Green, James Lauer
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Science Mission Directorate — Planetary Science Division. Head Scientist*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), US. Science Mission Directorate — Planetary Science Division. Head Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -1485,7 +1485,7 @@
 
 ### Gregg, Tracy
 
-|*[Org.](contact.md)*|*[University at Buffalo College of Arts & Sciences](zz_buffalo_univ.md), US. Department of Geology. Associate Professor of Geology*|
+|*[Org.](contact.md)*|*[University at Buffalo College of Arts & Sciences](contact/buffalo_univ.md), US. Department of Geology. Associate Professor of Geology*|
 |:--|:--|
 |B‑day, addr.|1968.09.12 (Nebraska, USA) /|
 |Contact|<tgregg@buffalo.edu>, *раб.:* +1(716)645-43-28; *mobile:* <mark>nomobile</mark>|
@@ -1508,7 +1508,7 @@
 
 ### Grimm, Robert E.
 
-|*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Planetary Science Directorate. Program Director*|
+|*[Org.](contact.md)*|*[SWRI](contact/swri.md), US. Planetary Science Directorate. Program Director*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1962 / …|
 |Contact|<grimm@boulder.swri.edu>, *раб.:* +1(720)240-01-49, Fax: +1(303)546-96-87; *mobile:* <mark>nomobile</mark>|
@@ -1533,7 +1533,7 @@
 
 ### Grinspoon, David
 
-|*[Org.](contact.md)*|*[PSI](zz_psi.md), US.*|
+|*[Org.](contact.md)*|*[PSI](contact/psi.md), US.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1959.. / …|
 |Contact|<david@funkyscience.net>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -1557,7 +1557,7 @@
 
 ### Гаврик, Анатолий Леонидович
 
-|*[Org.](contact.md)*|*[ИРЭ РАН](zz_ire_ras.md), RU.*|
+|*[Org.](contact.md)*|*[ИРЭ РАН](contact/ire_ras.md), RU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -1579,7 +1579,7 @@
 
 ### Гаврилин, Сергей Иванович
 
-|*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. 127/216, 541 «Отдел аппаратуры аппаратных средств систем управления». Зам. начальника комплекса*|
+|*[Org.](contact.md)*|*[НПО Лавочкина](contact/lav.md), RU. 127/216, 541 «Отдел аппаратуры аппаратных средств систем управления». Зам. начальника комплекса*|
 |:--|:--|
 |B‑day, addr.|1952.10.27, на НПОЛ с 1970 / …|
 |Contact|<gavrilin@laspace.ru>, *work:* 45-96, 53-01, +7(495)575-53-01; *mobile:* +7(903)112-22-28|
@@ -1602,7 +1602,7 @@
 
 ### Герасимов, Михаил Владимирович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 532 «Прямых физико‑химических исследований планет». Заведующий лабораторией*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 532 «Прямых физико‑химических исследований планет». Заведующий лабораторией*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mgerasim@mx.iki.rssi.ru>, <mvg001@mail.ru>, *раб.:* +7(495)333-11-55; *mobile:* +7(903)533-76-34|
@@ -1626,7 +1626,7 @@
 
 ### Горинов, Дмитрий Алексеевич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Младший научный сотрудник*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Младший научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> /|
 |Contact|<gorinov-dmitry@yandex.ru>, *раб.:* +7(495)333-41-02; *mobile:* +7(910)474-10-32|
@@ -1654,7 +1654,7 @@
 
 ### Hall, Jeffery L.
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Senior Engineer*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Senior Engineer*|
 |:--|:--|
 |B‑day, addr.|1962.05.13 (Канада) / …|
 |Contact|<jlhall@jpl.caltech.edu>, *раб.:* +1(818)354-15-31, Fax: +1(818)393-32-54; *mobile:* <mark>nomobile</mark>|
@@ -1749,7 +1749,7 @@
 
 ### Helbert, Jörn
 
-|*[Org.](contact.md)*|*[DLR](zz_dlr.md), Institute for Planetary Research, DE. Professor*|
+|*[Org.](contact.md)*|*[DLR](contact/dlr.md), Institute for Planetary Research, DE. Professor*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* +49(30)670-55-319; *mobile:* <mark>nomobile</mark>|
@@ -1794,7 +1794,7 @@
 
 ### Hunter, Gary W.
 
-|*[Org.](contact.md)*|*[GRC](zz_grc.md), US. Senior Electronics Engineering*|
+|*[Org.](contact.md)*|*[GRC](contact/grc.md), US. Senior Electronics Engineering*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<gary.w.hunter@nasa.gov>, *раб.:* +1(216)433-64-59; *mobile:* <mark>nomobile</mark>|
@@ -1818,7 +1818,7 @@
 
 ### Хайлов, Михаил Николаевич
 
-|*[Org.](contact.md)*|*[Роскосмос](zz_roskosmos.md), RU. Заместитель ген. директора по автоматическим космическим комплексам и системам Госкорпорации «Роскосмос»*|
+|*[Org.](contact.md)*|*[Роскосмос](contact/roskosmos.md), RU. Заместитель ген. директора по автоматическим космическим комплексам и системам Госкорпорации «Роскосмос»*|
 |:--|:--|
 |B‑day, addr.|1973.07.07, в Роскосмосе с 2008 / …|
 |Contact|<mark>noemail</mark>, *раб.:* …, секретарь: +7(495)631-93-95, Fax: +7(495)631-89-93; *mobile:* +7(916)158-02-32, +7(916)170-34-11|
@@ -1840,7 +1840,7 @@
 
 ### Хатунцев, Игорь Валерьевич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаб. № 531 «Спектроскопии планетных атмосфер». Старший научный сотрудник*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаб. № 531 «Спектроскопии планетных атмосфер». Старший научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<khatuntsev@gmail.com>, *work:* <mark>noworkphone</mark>; *mobile:* +7(495)333-41-02|
@@ -1867,7 +1867,7 @@
 
 ### Imamura, Takeshi
 
-|*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Faculty of Science & Technology, Liberal Arts. Department of Complexity Science & Engineering / Planetary atmospheres, Planetary exploration. Professor*|
+|*[Org.](contact.md)*|*[Tokyo Univ.](contact/tokyo_univ.md), JP. Faculty of Science & Technology, Liberal Arts. Department of Complexity Science & Engineering / Planetary atmospheres, Planetary exploration. Professor*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1969 / …|
 |Contact|<ima@isas.jaxa.jp>, *work:* +81(4)7124-15-01; *mobile:* <mark>nomobile</mark>|
@@ -1875,7 +1875,7 @@
 | |[![](f/con/i/imamura1_photo_thumb.jpg)](f/con/i/imamura1_photo.jpg) <mark>nosign</mark> [![](f/con//1_sign_thumb.jpg)](f/con//1_sign.png)|
 
    - **[Education](edu.md):** PhD, Tokyo Univ., 1998.
-   - **Exp.:** Professor, Tokyo Univ., 2016. Associate Professor, [ISAS](zz_isas.md)/JAXA, 2002. Research associate, ISAS/JAXA, 1998.
+   - **Exp.:** Professor, Tokyo Univ., 2016. Associate Professor, [ISAS](contact/isas.md)/JAXA, 2002. Research associate, ISAS/JAXA, 1998.
    - Research Activities: 1) Exploration of planetary atmospheres — exploration of the atmosphere on Venus by the Japanese explorer AKATSUKI is ongoing. We use data collected by AKATSUKI to unveil the mysteries of Venusian meteorology, such as the high‑speed westward circulation "super‑rotation" & thick sulfuric acid clouds. The development of a Mars exploration program focused on water cycle & dust transport is also ongoing. 2) Radio occultation observations — in a radio occultation experiment, a spacecraft transmits radio waves toward a tracking station on the earth & sequentially goes behind the planet’s atmosphere. During such occultation events, the planetary atmosphere causes frequency & amplitude fluctuations from which information on the atmosphere can be obtained. We apply this technique to various planets & the solar corona. 3) Numerical modeling — common physical processes behind the apparent diversity of atmospheric phenomena on the planets are investigated with numerical modeling & theories. Other Activities: The Society of Geomagnetism & Earth, Planetary & Space Sciences (SGEPSS), Meteorological Society of Japan (MSJ), The Japanese Society for Planetary Sciences (JSPS).
    - **SC/Equip.:** 2010 [Akatsuki](akatsuki.md)
    - **Conferences:** 2019 DPS‑EPSC, 2019 [IVC](ivc_2019.md)
@@ -1894,7 +1894,7 @@
 
 ### Ishii, Nobuaki
 
-|*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP. Department of Space Flight Systems. Professor*|
+|*[Org.](contact.md)*|*[ISAS](contact/isas.md)/[JAXA](contact/jaxa.md), JP. Department of Space Flight Systems. Professor*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<ishii@newslan.isas.jaxa.jp>, <ishii.nobuaki@jaxa.jp>, <ishii@isas.jaxa.jp>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -1945,7 +1945,7 @@
 
 ### Izenberg, Noam
 
-|*[Org.](contact.md)*|*[JHUAPL](zz_jhuapl.md), US. Planetary Geologist; Planetary Scientist*|
+|*[Org.](contact.md)*|*[JHUAPL](contact/jhuapl.md), US. Planetary Geologist; Planetary Scientist*|
 |:--|:--|
 |B‑day, addr.|1967.08.08 / …|
 |Contact|<noam.izenberg@jhuapl.edu>, *раб.:* +1(240)228-79-18 ; *mobile:* <mark>nomobile</mark>|
@@ -1970,7 +1970,7 @@
 
 ### Игнатьев, Николай Игоревич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Каб. 616. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Старший научный сотрудник*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Каб. 616. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Старший научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<niignatiev@gmail.com>, *work:* +7(495)333-15-02; *mobile:* +7(903)120-11-93|
@@ -1997,7 +1997,7 @@
 
 ### Jessup, Kandis Lea
 
-|*[Org.](contact.md)*|*[SWRI](zz_swri.md), US. Senior Research Scientist.*|
+|*[Org.](contact.md)*|*[SWRI](contact/swri.md), US. Senior Research Scientist.*|
 |:--|:--|
 |B‑day, addr.|1970.11.23 (США, штат Мэриленд) / …|
 |Contact|<kandislea.jessup@swri.org>, <knasaven@gmail.com>, *раб.:* +1(720)240-01-18, Fax: +1(303)546-96-70; *mobile:* <mark>nomobile</mark>|
@@ -2046,7 +2046,7 @@
 
 ### Johnson, Natasha M.
 
-|*[Org.](contact.md)*|*[GFSC](zz_gfsc.md), US. Astrochemistry Laboratory. Research Space Scientist*|
+|*[Org.](contact.md)*|*[GFSC](contact/gfsc.md), US. Astrochemistry Laboratory. Research Space Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1974  / …|
 |Contact|<natasha.m.johnson@nasa.gov>, *work:* +1(301)286-39-19; *mobile:* <mark>nomobile</mark>|
@@ -2075,7 +2075,7 @@
 
 ### Kerzhanovich, Viktor Valentinovich
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mobility & Robotic Systems Section (347) of the Autonomous Systems Division (34). Principal Member of Technical Staff*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Mobility & Robotic Systems Section (347) of the Autonomous Systems Division (34). Principal Member of Technical Staff*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1940  / …|
 |Contact|<Viktor.V.Kerzhanovich@jpl.nasa.gov>, *work:* +1(818)354-90-75; факс: +1(818)393-50-07 *mobile:* <mark>nomobile</mark>|
@@ -2100,7 +2100,7 @@
 
 ### Kiefer, Walter S.
 
-|*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Senior Staff Scientist*|
+|*[Org.](contact.md)*|*[LPI](contact/lpi.md), US. Senior Staff Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1962  / …|
 |Contact|<kiefer@lpi.usra.edu>, *work:* +1(281)486-21-10, Fax: +1(281) 486-21-62; *mobile:* <mark>nomobile</mark>|
@@ -2125,7 +2125,7 @@
 
 ### Kleinboehl, Armin
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Research Scientist*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Research Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1978 / …|
 |Contact|<kleinb@caesar.jpl.nasa.gov>, *раб.:* +1(818)393-64-21, Fax: +1(818)393-46-19; *mobile:* <mark>nomobile</mark>|
@@ -2151,7 +2151,7 @@
 
 ### Kohler, Erika
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md)/[GSFC](zz_gsfc.md). Research AST, Planetary Studies*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md)/[GSFC](contact/gsfc.md). Research AST, Planetary Studies*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> (Hutto, Texas, USA) 1987.. / Washington, USA|
 |Contact|<erika.kohler@nasa.gov>, *раб.:* +1(301)614-57-56 ; *mobile:* <mark>nomobile</mark>|
@@ -2175,7 +2175,7 @@
 
 ### Kolawa, Elizabeth A.
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US.*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -2198,7 +2198,7 @@
 
 ### Komatsu, Goro
 
-|*[Org.](contact.md)*|*[IRSPS](zz_irsps.md), EU. Dipartimento di Ingegneria e Geologia (InGeo). Senior Scientist*|
+|*[Org.](contact.md)*|*[IRSPS](contact/irsps.md), EU. Dipartimento di Ingegneria e Geologia (InGeo). Senior Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1966  / …|
 |Contact|<goro@irsps.unich.it>, <goro.komatsu@unich.it>, *work:* +39(085)453-78-84; *mobile:* <mark>nomobile</mark>|
@@ -2223,7 +2223,7 @@
 
 ### Kremic, Tibor
 
-|*[Org.](contact.md)*|*[GRC](zz_grc.md), US. Space Science Project Office. Chief*|
+|*[Org.](contact.md)*|*[GRC](contact/grc.md), US. Space Science Project Office. Chief*|
 |:--|:--|
 |B‑day, addr.|1963.10.13 (Сербия) / …|
 |Contact|<tibor.kremic@nasa.gov>, *раб.:* +1(216)433-50-03, Fax: +1(216)433-21-41; *mobile:* +1(216)337-51-55|
@@ -2245,7 +2245,7 @@
 
 ### Kwok, John
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mission System Engineering. Section Manager*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Mission System Engineering. Section Manager*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1981  / …|
 |Contact|<Johnny.H.Kwok@jpl.nasa.gov>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -2267,7 +2267,7 @@
 
 ### (✗) Кардашёв, Николай Семёнович
 
-|*[Org.](contact.md)*|*[АКЦ ФИАН](zz_asc_fian.md), RU. Директор института*|
+|*[Org.](contact.md)*|*[АКЦ ФИАН](contact/asc_fian.md), RU. Директор института*|
 |:--|:--|
 |B‑day, addr.|1932.04.25 ‑ 2019.08.03 (87 лет) / …|
 |Contact|<nkardash@asc.rssi.ru>, *раб.:* +7(495)333-21-89; *mobile:* +7(916)127-54-02|
@@ -2286,7 +2286,7 @@
 
 ### Казмерчук, Павел Владимирович
 
-|*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. 140/522*|
+|*[Org.](contact.md)*|*[НПО Лавочкина](contact/lav.md), RU. 140/522*|
 |:--|:--|
 |B‑day, addr.|1977.01.14, на НПОЛ с 2001 / …|
 |Contact|<mockus@laspace.ru>, *work:* 47-09; *mobile:* +7(910)491-43-60|
@@ -2426,7 +2426,7 @@
 
 ### Кораблёв, Олег Игоревич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел №53 «Физики планет и малых тел солнечной системы». Заведующий отделом, зам. директора ИКИ РАН*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел №53 «Физики планет и малых тел солнечной системы». Заведующий отделом, зам. директора ИКИ РАН*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<korab@iki.rssi.ru>, *раб.:* +7(495)333-00-17; *mobile:* +7(903)961-76-27|
@@ -2469,7 +2469,7 @@
 
 ### Косов, Александр Сергеевич (ИКИ)
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел 61. Заведующий лабораторией*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел 61. Заведующий лабораторией*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<akosov@iki.rssi.ru>, *раб.:* +7(495)333-22-67; *mobile:* <mark>nomobile</mark>|
@@ -2492,7 +2492,7 @@
 
 ### Костицын, Юрий Александрович
 
-|*[Org.](contact.md)*|*ГЕОХИ РАН](zz_geokhi_ras.md). Заведующий лабораторией*|
+|*[Org.](contact.md)*|*ГЕОХИ РАН](contact/geokhi_ras.md). Заведующий лабораторией*|
 |:--|:--|
 |B‑day, addr.|1955.11.23 / …|
 |Contact|<kostitsyn@geokhi.ru>, <yuri.kostitsyn@gmail.com>, *раб.:* +7(495)939-01-84; *mobile:* <mark>nomobile</mark>|
@@ -2564,7 +2564,7 @@
 
 ### Коваленко, Ирина Дмитриевна
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Department of Space Flight Dynamics and Data Analysis. Научный сотрудник*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Department of Space Flight Dynamics and Data Analysis. Научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1988  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -2586,7 +2586,7 @@
 
 ### (✗) Ксанфомалити, Леонид Васильевич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU.*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU.*|
 |:--|:--|
 |B‑day, addr.|1932… ‑ 2019.10.07 (87 лет) / …|
 |Contact| |
@@ -2682,7 +2682,7 @@
 
 ### Lefort, Jayne
 
-|*[Org.](contact.md)*|*[ESA](zz_esa.md), EU(FR).*|
+|*[Org.](contact.md)*|*[ESA](contact/esa.md), EU(FR).*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1976  / …|
 |Contact|<Jayne.Lefort@sciops.esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -2705,7 +2705,7 @@
 
 ### Le Gall, Alice Anne
 
-|*[Org.](contact.md)*|*[LATMOS](zz_latmos.md), EU(FR). Associate Professor*|
+|*[Org.](contact.md)*|*[LATMOS](contact/latmos.md), EU(FR). Associate Professor*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1982  / …|
 |Contact|<alice.legall@latmos.ipsl.fr>, <alice.le-gall-gilabert@uvsq.fr>, *work:* +33(1)80-28-52-35, +33(1)44-27-21-63; *mobile:* <mark>nomobile</mark>|
@@ -2756,7 +2756,7 @@
 
 ### Limaye, Sanjay Shridhar
 
-|*[Org.](contact.md)*|*[Wisconsin Univ.](zz_wisconsin_univ.md), US. Space Science & Engineering Center. Senior scientist*|
+|*[Org.](contact.md)*|*[Wisconsin Univ.](contact/wisconsin_univ.md), US. Space Science & Engineering Center. Senior scientist*|
 |:--|:--|
 |B‑day, addr.|1951.01.24 (Индия) / …|
 |Contact|<sanjay.limaye@ssec.wisc.edu>, *раб.:* +1(608)262-95-41, Fax: +1(608)262-59-74; *mobile:* +1(608)235-43-02|
@@ -2780,7 +2780,7 @@
 
 ### Lopes, Rosaly M.C.
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Earth & Space Sciences Division. Senior Research Scientist*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Earth & Space Sciences Division. Senior Research Scientist*|
 |:--|:--|
 |B‑day, addr.|1957.01.08 (Rio de Janeiro, Brazilia) / …|
 |Contact|<rosaly.m.lopes-gautier@jpl.nasa.gov>, *раб.:* +1(818)393-45-84, Fax: +1(818)393-44-45; *mobile:* <mark>nomobile</mark>|
@@ -2805,7 +2805,7 @@
 
 ### Lorenz, Ralph D.
 
-|*[Org.](contact.md)*|*[JHUAPL](zz_jhuapl.md), US. Planetary Scientist; Project Scientist*|
+|*[Org.](contact.md)*|*[JHUAPL](contact/jhuapl.md), US. Planetary Scientist; Project Scientist*|
 |:--|:--|
 |B‑day, addr.|1969.08.24 / Maryland, Columbia, USA|
 |Contact|<ralph.lorenz@jhuapl.edu>, *раб.:* +1(240)228-29-03, +1(443)778-29-03, факс +1(443)778-89-39; *mobile:* <mark>nomobile</mark>|
@@ -2830,7 +2830,7 @@
 
 ### Luhmann, Janet G.
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Space Sciences Laboratory, California Univ., Berkeley. Senior Space Fellow*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), US. Space Sciences Laboratory, California Univ., Berkeley. Senior Space Fellow*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1946 / …|
 |Contact|<jgluhman@ssl.berkeley.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -2876,7 +2876,7 @@
 
 ### Литвак, Максим Леонидович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Лаборатория № 631 «Нейтронной и гамма‑спектроскопии». Заведующий лабораторией*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Лаборатория № 631 «Нейтронной и гамма‑спектроскопии». Заведующий лабораторией*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mlitvak.iki@gmail.com>, *раб.:* +7(495)333-15-22; *mobile:* +7(968)666-24-36|
@@ -2899,7 +2899,7 @@
 
 ### Лукьянчиков, Александр Владимирович
 
-|*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. Дирекция по Лунной программе. Руководитель дирекции 202*|
+|*[Org.](contact.md)*|*[НПО Лавочкина](contact/lav.md), RU. Дирекция по Лунной программе. Руководитель дирекции 202*|
 |:--|:--|
 |B‑day, addr.|1962.07.02, на НПОЛ с 1985 / …|
 |Contact|<lukav@laspace.ru>, *work:* 44-59; *mobile:* +7(910)491-43-73|
@@ -3014,7 +3014,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
    - Board of Directors of the National Space Society (NSS),
    - International Academy of Astronautics (IAA),
    - Chair of the Academy Commission Ⅲ (Space Systems and Technology Development),
-   - [International Astronautical Federation (IAF)](zz_iaf.md),
+   - [International Astronautical Federation (IAF)](contact/iaf.md),
    - American Institute of Aeronautics and Astronautics (AIAA),
    - Sigma Xi Research Honor Society.
 
@@ -3024,7 +3024,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Marcq, Emmanuel
 
-|*[Org.](contact.md)*|*[LATMOS](zz_latmos.md)/[UVSQ](uvsq.md), EU. Associate Professor in Planetary Science.*|
+|*[Org.](contact.md)*|*[LATMOS](contact/latmos.md)/[UVSQ](uvsq.md), EU. Associate Professor in Planetary Science.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1980.. / …|
 |Contact|<emmanuel.marcq@latmos.ipsl.fr>, *раб.:* +33(0)180-28-52-83; *mobile:* <mark>nomobile</mark>|
@@ -3051,7 +3051,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Maroko, Elena Vladimirovna
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), RU. Специалист по аэрокосмическим вопросам московского офиса НАСА*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), RU. Специалист по аэрокосмическим вопросам московского офиса НАСА*|
 |:--|:--|
 |B‑day, addr.|1960.05.15 (Москва, РФ) / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3072,7 +3072,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Martino, Paolo
 
-|*[Org.](contact.md)*|*[ESA](zz_esa.md) CDF, EU. System & cost engineering division. Cost & system engineering tasks*|
+|*[Org.](contact.md)*|*[ESA](contact/esa.md) CDF, EU. System & cost engineering division. Cost & system engineering tasks*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1986 / Leiden, NL, EU|
 |Contact|<paolo.martino@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3105,7 +3105,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
    - **[Education](edu.md):** PhD, Imperial College London, Geology, GIS & Remote Sensing, 1994 ‑ 1997. MS, Remote Sensing, UCL, 1992 ‑ 1993. BS, Geology, University of Southampton, 1984 ‑ 1987.
    - **Exp.:** HME Partnership, Senior Partner, 1999 ‑ Present, Geologist / Geospatial Consultant to mineral & petroleum exploration, engineering & environmental industries. Imperial College London, Senior Teaching Fellow, 1999 ‑ Present, Location Dept of Earth Science & Engineering, Teaching — lecturing, practicals & field training — supervising MSc, MSci & PhD projects — supervising independent mapping projects — tutoring & mentoring. Remote Sensing & Photogrammetry Society (RSPSoc), Honorary General Secretary, 2005 ‑ 2014, Ensuring the general healthy running of all aspects of the Society, including constitutional compliance under English Law & Charities Commission regulations. The Hon Gen Sec’s role is effectively the memory, conscience & vision of the Society.
-   - Dr Philippa Mason is a field geologist who specialises in using satellite imagery to study rocks, minerals, geological structures & tectonics, on Earth & other planets. Her teaching & research at Imperial College London involves the translation of terrestrial techniques in Interferometric [Synthetic Aperture Radar](sar.md) (InSAR) & imaging spectroscopy to assist in the understanding of geological features & processes on other Earth‑like planets, such as Venus & Mars. She is currently on the Science Team of EnVision, a truly international UK‑led mission heading to Venus in 2032, aimed at understanding why it is so different to Earth, establishing whether it is tectonicly active, & if it was ever hospitable to life.
+   - Dr Philippa Mason is a field geologist who specialises in using satellite imagery to study rocks, minerals, geological structures & tectonics, on Earth & other planets. Her teaching & research at Imperial College London involves the translation of terrestrial techniques in Interferometric [Synthetic Aperture Radar](cam.md) (InSAR) & imaging spectroscopy to assist in the understanding of geological features & processes on other Earth‑like planets, such as Venus & Mars. She is currently on the Science Team of EnVision, a truly international UK‑led mission heading to Venus in 2032, aimed at understanding why it is so different to Earth, establishing whether it is tectonicly active, & if it was ever hospitable to life.
    - **SC/Equip.:** … [EnVision](envision.md)
    - **Conferences:** …
    - Git: …・ [Facebook ⎆](https://www.facebook.com/philippa.mason.16)・ Instagram: <mark>noin</mark> ・ [LinkedIn ⎆](https://www.linkedin.com/in/philippajmason/)・ [Twitter ⎆](https://twitter.com/phliptish)
@@ -3145,7 +3145,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### McGouldrick, Kevin
 
-|*[Org.](contact.md)*|*[LASP](zz_lasp.md), US. Research Scientist*|
+|*[Org.](contact.md)*|*[LASP](contact/lasp.md), US. Research Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Kevin.McGouldrick@lasp.colorado.edu>, *раб.:* +1(303)492-29-51, Fax: +1(303)735-37-37; *mobile:* <mark>nomobile</mark>|
@@ -3171,7 +3171,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### McGovern, Patrick J.
 
-|*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Science Staff*|
+|*[Org.](contact.md)*|*[LPI](contact/lpi.md), US. Science Staff*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1965 / …|
 |Contact|<mcgovern@lpi.usra.edu>, *раб.:* +1(281)486-21-87; *mobile:* <mark>nomobile</mark>|
@@ -3196,7 +3196,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### McKaig, Jordan
 
-|*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), NASA Ames Research Center, US. Research associate*|
+|*[Org.](contact.md)*|*[Michigan Univ.](contact/michigan_univ.md), NASA Ames Research Center, US. Research associate*|
 |:--|:--|
 |B‑day, addr.|1997.05.14 / …|
 |Contact|<jmckaig@umich.edu>, *раб.:* +1(810)423-95-86; *mobile:* <mark>nomobile</mark>|
@@ -3242,7 +3242,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Mills, Franklin
 
-|*[Org.](contact.md)*|*[ANU](zz_anu.md), AU. Senior Fellow.*|
+|*[Org.](contact.md)*|*[ANU](contact/anu.md), AU. Senior Fellow.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<frank.mills@anu.edu.au>, *раб.:* +612(61)250-116 & +612(61)255-015; *mobile:* <mark>nomobile</mark>|
@@ -3266,7 +3266,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Mogul, Rakesh
 
-|*[Org.](contact.md)*|*[CPP](zz_cpp.md), US. Professor, Biochemistry*|
+|*[Org.](contact.md)*|*[CPP](contact/cpp.md), US. Professor, Biochemistry*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1970 / Pomona, California, US|
 |Contact|<rmogul@cpp.edu>, *раб.:* +1(909)869-43-09; *mobile:* <mark>nomobile</mark>|
@@ -3292,7 +3292,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Murakami, Shin-ya
 
-|*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
+|*[Org.](contact.md)*|*[ISAS](contact/isas.md)/[JAXA](contact/jaxa.md), JP.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<murashin@gfd-dennou.org>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3316,7 +3316,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Мальцев, Михаил Владимирович
 
-|*[Org.](contact.md)*|*[КБХМ](zz_kbhm.md), RU. Ведущий конструктор по направлению «КБХМ-НПОЛ»*|
+|*[Org.](contact.md)*|*[КБХМ](contact/kbhm.md), RU. Ведущий конструктор по направлению «КБХМ-НПОЛ»*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* +7(499)427-07-25; *mobile:* <mark>nomobile</mark>|
@@ -3338,7 +3338,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Маров, Михаил Яковлевич
 
-|*[Org.](contact.md)*|*[ИПМ Келдыша](zz_keldysh_ipm.md), RU. Профессор*|
+|*[Org.](contact.md)*|*[ИПМ Келдыша](contact/keldysh_ipm.md), RU. Профессор*|
 |:--|:--|
 |B‑day, addr.|1933.07.28 Москва, СССР / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3360,7 +3360,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Меркулов, Пётр Владимирович
 
-|*[Org.](contact.md)*|*[НПОЛ](zz_НПОЛ.md), RU. 203 Дирекция по исследованиям Марса и Солнца. Руководитель дирекции*|
+|*[Org.](contact.md)*|*[НПОЛ](contact/НПОЛ.md), RU. 203 Дирекция по исследованиям Марса и Солнца. Руководитель дирекции*|
 |:--|:--|
 |B‑day, addr.|1981.04.06, на НПОЛ с 2003 / г. Химки, Панфилова 2А|
 |Contact|<merkulov@laspace.ru>, *work:* 47-07; *mobile:* +7(910)491-43-70|
@@ -3383,7 +3383,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Митрофанов Игорь Георгиевич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Заведующий отделом, д.ф.м.н.*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Заведующий отделом, д.ф.м.н.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mitrofanov@np.cosmos.ru>, *раб.:* +7(495)333-41-23, Fax: +7(495)333-12-48; *mobile:* +7(926)219-88-58|
@@ -3407,7 +3407,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### (✗) Мороз, Василий Иванович
 
-|*[Org.](contact.md)*|*[ГАИШ МГУ](zz_sai_msu.md), SU. Профессор*|
+|*[Org.](contact.md)*|*[ГАИШ МГУ](contact/sai_msu.md), SU. Профессор*|
 |:--|:--|
 |B‑day, addr.|1931.05.20 ‑ 2004.06.23 / Москва, Россия|
 |Contact|, |
@@ -3430,7 +3430,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Nakamura, Masato
 
-|*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
+|*[Org.](contact.md)*|*[ISAS](contact/isas.md)/[JAXA](contact/jaxa.md), JP.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1959  / …|
 |Contact|<mnakamur@isas.jaxa.jp>, *work:* +81(50)336-239-36; *mobile:* <mark>nomobile</mark>|
@@ -3453,7 +3453,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Nakamura, Yuya
 
-|*[Org.](contact.md)*|*[Axelspace](zz_axelspace.md), JP.*|
+|*[Org.](contact.md)*|*[Axelspace](contact/axelspace.md), JP.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1979.12.31 Osaka, JP / …|
 |Contact|<yuya@axelspace.com>, *work:* <mark>TBD</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3475,7 +3475,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Neduncheran, Adhithiyan
 
-|*[Org.](contact.md)*|*[UPES](zz_upes.md), IN, Department of Aerospace Engineering*|
+|*[Org.](contact.md)*|*[UPES](contact/upes.md), IN, Department of Aerospace Engineering*|
 |:--|:--|
 |i18n|<mark>TBD</mark>|
 |Contact|<adhithiyan.n@gmail.com>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3498,7 +3498,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Nock, Kerry T.
 
-|*[Org.](contact.md)*|*[Global Aerospace Corporation](zz_gac.md), US. Founder, President, Chairman of the Board of Directors*|
+|*[Org.](contact.md)*|*[Global Aerospace Corporation](contact/gac.md), US. Founder, President, Chairman of the Board of Directors*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1946  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3550,7 +3550,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Ogawa, Masaki
 
-|*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Earth Sciences & Astronomy. Associate Professor*|
+|*[Org.](contact.md)*|*[Tokyo Univ.](contact/tokyo_univ.md), JP. Earth Sciences & Astronomy. Associate Professor*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<cmaogawa@mail.ecc.u-tokyo.ac.jp>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3598,7 +3598,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Ocampo, Adriana Christian
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Section of Planetary Sciences. Lead Program Executive*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Section of Planetary Sciences. Lead Program Executive*|
 |:--|:--|
 |B‑day, addr.|1955.01.05 (Колумбия) / …|
 |Contact|<adriana.c.ocampo@nasa.gov>, <aco@nasa.gov>, *раб.:* +1(202)358-21-52, Fax: +1(202)358-30-97; *mobile:* +1(202)372-70-58|
@@ -3625,7 +3625,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Parkinson, Christopher Dennis
 
-|*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), US. Department of Climate & Space Science & Engineering. Associate Research Scientist, Climate & Space Sciences & Engineering, College of Engineering*|
+|*[Org.](contact.md)*|*[Michigan Univ.](contact/michigan_univ.md), US. Department of Climate & Space Science & Engineering. Associate Research Scientist, Climate & Space Sciences & Engineering, College of Engineering*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<theshire@umich.edu>, *раб.:* +1(734)647-35-40; *mobile:* +1(626)818-92-93|
@@ -3650,7 +3650,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Patel, Manish
 
-|*[Org.](contact.md)*|*[Open Univ.](zz_open_univ.md), EU. Faculty of Science, Technology, Engineering & Mathematics School of Physical Sciences. Senior Lecturer*|
+|*[Org.](contact.md)*|*[Open Univ.](contact/open_univ.md), EU. Faculty of Science, Technology, Engineering & Mathematics School of Physical Sciences. Senior Lecturer*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<manish.patel@open.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3673,7 +3673,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Peralta, Javier Calvillo
 
-|*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP.*|
+|*[Org.](contact.md)*|*[ISAS](contact/isas.md)/[JAXA](contact/jaxa.md), JP.*|
 |:--|:--|
 |B‑day, addr.|1979.10.31 Algeciras, Spain / …|
 |Contact|<javier.peralta@jaxa.jp>, *work:* +81(5)033-624-802; *mobile:* <mark>nomobile</mark>|
@@ -3721,7 +3721,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Pickering, Andrew
 
-|*[Org.](contact.md)*|*[ESA](zz_esa.md) CDF, EU. Technical Author participating in design studies & writing reports on future ESA missions*|
+|*[Org.](contact.md)*|*[ESA](contact/esa.md) CDF, EU. Technical Author participating in design studies & writing reports on future ESA missions*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<Andrew.Pickering@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3787,7 +3787,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Петрукович, Анатолий Алексеевич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Директор*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Директор*|
 |:--|:--|
 |B‑day, addr.|1967.08.29 / …|
 |Contact|<a.petrukovich@cosmos.ru>, <apetruko@iki.rssi.ru>, *раб.:* +7(495)3333-267; *mobile:* +7(915)007-03-99|
@@ -3809,7 +3809,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Писаренко, Павел Дмитриевич
 
-|*[Org.](contact.md)*|*[НПО Лавочкина](zz_lav.md), RU. 9/301, 512 «Проектно-конструкторский отдел». Инженер-конструктор*|
+|*[Org.](contact.md)*|*[НПО Лавочкина](contact/lav.md), RU. 9/301, 512 «Проектно-конструкторский отдел». Инженер-конструктор*|
 |:--|:--|
 |B‑day, addr.|29.05.1992, на НПОЛ с 2016 / г. Долгопрудный|
 |Contact|<ppd@laspace.ru>, <pavel-pisarenko@inbox.ru>, *work:* 64-08; *mobile:* +7(903)243-46-40, +7(977)882-73-11|
@@ -3836,7 +3836,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Rabinovitch, Jason
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Mechanical Engineer*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Mechanical Engineer*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1987 (Toronto, CA) / Los Angeles, US|
 |Contact|<jason.rabinovitch@jpl.nasa.gov>, *раб.:* +1(626)487-49-17; *mobile:* <mark>nomobile</mark>|
@@ -3861,7 +3861,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Radke, Michael J.
 
-|*[Org.](contact.md)*|*[J.Hopkins Univ.](zz_jhu.md), US. Planetary Science. Graduate Student*|
+|*[Org.](contact.md)*|*[J.Hopkins Univ.](contact/jhu.md), US. Planetary Science. Graduate Student*|
 |:--|:--|
 |B‑day, addr.|1994.08.01 (Troy, Michigan, USA) / …|
 |Contact|<radke@jhu.edu>, <michael.radke@case.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>, skype: michael.j.radke|
@@ -3910,7 +3910,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Rebuffat, Denis
 
-|*[Org.](contact.md)*|*[ESA](zz_esa.md), EU. Ariane 6 Launch System Engineer*|
+|*[Org.](contact.md)*|*[ESA](contact/esa.md), EU. Ariane 6 Launch System Engineer*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1976 / …|
 |Contact|<denis.rebuffat@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3932,7 +3932,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Rodriguez, Aaron Garduño
 
-|*[Org.](contact.md)*|*[МАИ](zz_mai.md), MX.*|
+|*[Org.](contact.md)*|*[МАИ](contact/mai.md), MX.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -3954,7 +3954,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Romstedt, Jens
 
-|*[Org.](contact.md)*|*[ESTEC](zz_estec.md), EU.*|
+|*[Org.](contact.md)*|*[ESTEC](contact/estec.md), EU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1965, GE / …|
 |Contact|<jens.romstedt@esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4002,7 +4002,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Royer, Emilie
 
-|*[Org.](contact.md)*|*[LASP](zz_lasp.md), US. Research Associate*|
+|*[Org.](contact.md)*|*[LASP](contact/lasp.md), US. Research Associate*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1984 / …|
 |Contact|<emilie.royer@colorado.edu>, <emilieroyer@psi.edu>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4026,7 +4026,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Rugina, Ana
 
-|*[Org.](contact.md)*|*[ESTEC](zz_estec.md), UE (NL). System Engineer*|
+|*[Org.](contact.md)*|*[ESTEC](contact/estec.md), UE (NL). System Engineer*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1981  / …|
 |Contact|<mark>noemail</mark>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4074,7 +4074,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### (✗) Родионов, Даниил Станиславович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Лаборатория 537 физических исследований поверхности планет отдела физики планет и малых тел Солнечной системы. Руководитель лаборатории*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Лаборатория 537 физических исследований поверхности планет отдела физики планет и малых тел Солнечной системы. Руководитель лаборатории*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<rodionov@iki.rssi.ru>, *work:* +7(495)333-13-34; *mobile:* <mark>nomobile</mark>|
@@ -4101,7 +4101,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Sasaki, Satoshi
 
-|*[Org.](contact.md)*|*[Tokyo Univ.](zz_tokyo_univ.md), JP. Bionics/Analytical Chemistry*|
+|*[Org.](contact.md)*|*[Tokyo Univ.](contact/tokyo_univ.md), JP. Bionics/Analytical Chemistry*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<sasaki@stf.teu.ac.jp>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4126,7 +4126,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Satoh, Takehiko
 
-|*[Org.](contact.md)*|*[ISAS](zz_isas.md)/[JAXA](zz_jaxa.md), JP. Department of Solar System Sciences. Professor*|
+|*[Org.](contact.md)*|*[ISAS](contact/isas.md)/[JAXA](contact/jaxa.md), JP. Department of Solar System Sciences. Professor*|
 |:--|:--|
 |B‑day, addr.|1962.12.05 Tokyo, JP / …|
 |Contact|<satoh@stp.isas.jaxa.jp>, *work:* +81(50)3362-3838; факс: +81(42)759-8178 *mobile:* <mark>nomobile</mark>|
@@ -4201,7 +4201,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Senske, David
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), [JPL](zz_jpl.md), US. Venus Science & Technology Definition Team (STDT). Vice-Chair*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), [JPL](contact/jpl.md), US. Venus Science & Technology Definition Team (STDT). Vice-Chair*|
 |:--|:--|
 |B‑day, addr.|1961.06.18 (Oregon, USA) / …|
 |Contact|<David.A.Senske@jpl.nasa.gov>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4223,7 +4223,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Slowik, Grzegorz
 
-|*[Org.](contact.md)*|*[Zielona Univ.](zz_zielona_univ.md), EU.*|
+|*[Org.](contact.md)*|*[Zielona Univ.](contact/zielona_univ.md), EU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<grzegslowik@o2.pl>, *раб.:* +48(695)042-497, Fax: +48(683)264-886; *mobile:* <mark>nomobile</mark>|
@@ -4246,7 +4246,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Smith, David Joseph
 
-|*[Org.](contact.md)*|*[ARC](zz_arc.md), US. Space Biosciences Research Branch. Deputy Branch Chief*|
+|*[Org.](contact.md)*|*[ARC](contact/arc.md), US. Space Biosciences Research Branch. Deputy Branch Chief*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1986 / …|
 |Contact|<david.j.smith-3@nasa.gov>, *раб.:* +1(650)604-48-19; *mobile:* <mark>nomobile</mark>|
@@ -4272,7 +4272,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Smrekar, Suzanne
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US. Deputy [Principal Investigator](principal_investigator.md). Principal Scientist.*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US. Deputy [Principal Investigator](principal_investigator.md). Principal Scientist.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> (Rangeley, Maine, USA) / Sierra Madre, California, USA|
 |Contact|<mark>noemail</mark>, *раб.:* +1(818)354-41-92, Fax: +1(818)393-50-59; *mobile:* <mark>nomobile</mark>|
@@ -4390,7 +4390,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Svedhem, Håkan
 
-|*[Org.](contact.md)*|*[ESTEC](zz_estec.md), EU. Project scientist*|
+|*[Org.](contact.md)*|*[ESTEC](contact/estec.md), EU. Project scientist*|
 |:--|:--|
 |B‑day, addr.|1958.04.09 Göteborg, Sweden / …|
 |Contact|<hakan.svedhem@esa.int>, *work:* +31(71)565-33-70; *mobile:* <mark>nomobile</mark>|
@@ -4535,7 +4535,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Tenishev, Valeriy
 
-|*[Org.](contact.md)*|*[Michigan Univ.](zz_michigan_univ.md), US. Department of Atmospheric, Oceanic & Space Sciences, Associate Research Scientist*|
+|*[Org.](contact.md)*|*[Michigan Univ.](contact/michigan_univ.md), US. Department of Atmospheric, Oceanic & Space Sciences, Associate Research Scientist*|
 |:--|:--|
 |B‑day, addr.|1974.12.05 (РФ, Астрахань) / Ann Arbor, United States|
 |Contact|<vtenishe@umich.edu>, *раб.:* +1(734)763-62-46, +1(734)763-62-21; *mobile:* +1(734)272-27-01|
@@ -4559,7 +4559,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Thompson, Thomas W.
 
-|*[Org.](contact.md)*|*[JPL](zz_jpl.md), US.*|
+|*[Org.](contact.md)*|*[JPL](contact/jpl.md), US.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<thomas.w.thompson@jpl.nasa.gov>, *work:* +1(818)354-38-81; *mobile:* <mark>nomobile</mark>|
@@ -4582,7 +4582,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Tilman, Justin Eugene
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Представитель НАСА в РФ*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), US. Представитель НАСА в РФ*|
 |:--|:--|
 |B‑day, addr.|1973.09.29 (Kansas City, Missouri, USA) / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4604,7 +4604,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Titov, Dmitri
 
-|*[Org.](contact.md)*|*[ESTEC](zz_estec.md), RU.*|
+|*[Org.](contact.md)*|*[ESTEC](contact/estec.md), RU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<dmitri.titov@esa.int>, *work:* +31(71)565-37-70; *mobile:* <mark>nomobile</mark>|
@@ -4627,7 +4627,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Treiman, Allan
 
-|*[Org.](contact.md)*|*[LPI](zz_lpi.md), US. Associate Director & Senior Staff Scientist*|
+|*[Org.](contact.md)*|*[LPI](contact/lpi.md), US. Associate Director & Senior Staff Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1953 / …|
 |Contact|<treiman@lpi.usra.edu>, *раб.:* +1(281)486-21-17, Fax: +1(281)486-21-62; *mobile:* <mark>nomobile</mark>|
@@ -4674,7 +4674,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Третьяков, Владислав Иванович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Лаб. № 633 «Исследований элементного состава грунта Луны и планет». Научный сотрудник*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел № 63 «Ядерной планетологии». Лаб. № 633 «Исследований элементного состава грунта Луны и планет». Научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<vladtr@mx.iki.rssi.ru>, *раб.:* +7(495)333-41-23, Fax: +7(495)333-12-48; *mobile:* +7(916)638-14-18|
@@ -4697,7 +4697,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Тучин, Андрей Георгиевич
 
-|*[Org.](contact.md)*|*[ИПМ Келдыша](zz_keldysh_ipm.md), RU. Баллистический центр ИПМ РАН. Заведующий сектором, руководитель баллистического центра*|
+|*[Org.](contact.md)*|*[ИПМ Келдыша](contact/keldysh_ipm.md), RU. Баллистический центр ИПМ РАН. Заведующий сектором, руководитель баллистического центра*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<tag@kiam1.rssi.ru>, *work:* +7(495)333-80-67; *mobile:* +7(915)326-66-92|
@@ -4706,7 +4706,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
    - **[Education](edu.md):** …
    - **Exp.:** …
-   - Сын — [Тучин, Денис Андреевич](zz_tuchin2.md)
+   - Сын — [Тучин, Денис Андреевич](contact/tuchin2.md)
    - **SC/Equip.:** 1983 [Венера‑15-16](venera_15_16.md)
    - **Conferences:** …
    - Git: …・ Facebook: <mark>nofb</mark> ・ Instagram: <mark>noin</mark> ・ LinkedIn: <mark>noli</mark> ・ Twitter: <mark>notw</mark>
@@ -4746,7 +4746,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Voirin, Thomas
 
-|*[Org.](contact.md)*|*[ESA](zz_esa.md), EU. Solar System & Robotic Exploration Missions. System Engineer*|
+|*[Org.](contact.md)*|*[ESA](contact/esa.md), EU. Solar System & Robotic Exploration Missions. System Engineer*|
 |:--|:--|
 |B‑day, addr.|1978.01.23 / …|
 |Contact|<Thomas.Voirin@esa.int>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4768,7 +4768,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Vonstad, Frida Klæbo
 
-|*[Org.](contact.md)*|*[UCL](zz_ucl.md), EU. Department of Civil, Environmental & Geomatic Engineering. Geotechnical engineer*|
+|*[Org.](contact.md)*|*[UCL](contact/ucl.md), EU. Department of Civil, Environmental & Geomatic Engineering. Geotechnical engineer*|
 |:--|:--|
 |B‑day, addr.|1991.05.29 (Mo I Rana, Nordland, Norway) / London, UK|
 |Contact|<frida.sjovoll.13@ucl.ac.uk>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -4790,7 +4790,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Voytek, Mary
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md), US. Headquarters. Director of the Astrobiology Program*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md), US. Headquarters. Director of the Astrobiology Program*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1959 / …|
 |Contact|<mary.voytek-1@nasa.gov>, *раб.:* +1(202)358-15-77, Fax: +1(202)358-30-97; *mobile:* <mark>nomobile</mark>|
@@ -4815,7 +4815,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Вайсберг, Олег Леонидович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU.*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<olegv@iki.rssi.ru>, *раб.:* +7(495)333-34-56; *mobile:* <mark>nomobile</mark>|
@@ -4837,7 +4837,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Ворон, Виктор Владимирович
 
-|*[Org.](contact.md)*|*[Роскосмос](zz_roskosmos.md), RU. Начальник отдела*|
+|*[Org.](contact.md)*|*[Роскосмос](contact/roskosmos.md), RU. Начальник отдела*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> ….10.31 / …|
 |Contact|<victorvoron@roscosmos.ru>, <voron.vv@roscosmos.ru>, *раб.:* +7(495)631-90-00 (доб 32-10); *mobile:* +7(916)590-54-84|
@@ -4886,7 +4886,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Wang, Alian
 
-|*[Org.](contact.md)*|*[WUSTL](zz_wustl.md), US. Research Professor of Earth & Planetary Sciences (1993)*|
+|*[Org.](contact.md)*|*[WUSTL](contact/wustl.md), US. Research Professor of Earth & Planetary Sciences (1993)*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1954 / …|
 |Contact|<alianw@levee.wustl.edu>, *раб.:* +1(314)935-58-51; *mobile:* <mark>nomobile</mark>|
@@ -4937,7 +4937,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Way, Michael Joseph
 
-|*[Org.](contact.md)*|*[NASA](zz_nasa.md)/[GISS](zz_giss.md), US. Information Technology Specialist & Research Scientist*|
+|*[Org.](contact.md)*|*[NASA](contact/nasa.md)/[GISS](contact/giss.md), US. Information Technology Specialist & Research Scientist*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<michael.way@nasa.gov>, *раб.:* +1(212)678-56-65; *mobile:* <mark>nomobile</mark>|
@@ -4985,7 +4985,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Wielders, Arno
 
-|*[Org.](contact.md)*|*[ESA](zz_esa.md), EU (NL). Payload engineer Future Missions*|
+|*[Org.](contact.md)*|*[ESA](contact/esa.md), EU (NL). Payload engineer Future Missions*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1972 - … / …|
 |Contact|<arno.wielders@esa.int>, *work:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
@@ -5038,7 +5038,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Yamagishi, Akihiko
 
-|*[Org.](contact.md)*|*[TUPLS](zz_tupls.md), JP. Department of Molecular Biology. Professor*|
+|*[Org.](contact.md)*|*[TUPLS](contact/tupls.md), JP. Department of Molecular Biology. Professor*|
 |:--|:--|
 |B‑day, addr.|1953.01.22 (Fukui-ken, Japan) / 1432-1 Horinouchi, Hachioji, Tokyo, 192-0392, Japan|
 |Contact|<yamagish@ls.toyaku.ac.jp>, *раб.:* +81-426-76-7139; факс: +81-426-76-7145; *mobile:* <mark>nomobile</mark>|
@@ -5068,7 +5068,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Захаров, Александр Валентинович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Учёный секретарь*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Учёный секретарь*|
 |:--|:--|
 |B‑day, addr.|1941.06.01 Москва / Москва|
 |Contact|<zakharov@iki.rssi.ru>, *раб.:* +7(495)333-20-45; *mobile:* +7(903)961-47-23|
@@ -5115,7 +5115,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Засова, Людмила Вениаминовна
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Заведующий лабораторией*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Отдел № 53 «Физики планет и малых тел солнечной системы». Лаборатория № 531 «Спектроскопии планетных атмосфер». Заведующий лабораторией*|
 |:--|:--|
 |B‑day, addr.|1945.05.22 /|
 |Contact|<lzasova@gmail.com>, <zasova@iki.rssi.ru>, *раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92|
@@ -5142,7 +5142,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### (✗) Застенкер, Георгий Наумович
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU.*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU.*|
 |:--|:--|
 |B‑day, addr.|<mark>nodate</mark> 1932 / …|
 |Contact|<gzastenk@iki.rssi.ru>, *work:* +7(495)333-13-88; *mobile:* <mark>nomobile</mark>|
@@ -5161,7 +5161,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 
 ### Зелёный, Лев Матвеевич
 
-|*[Org.](contact.md)*|*[ИКИ РАН](zz_iki_ras.md), RU. Ведущий научный сотрудник*|
+|*[Org.](contact.md)*|*[ИКИ РАН](contact/iki_ras.md), RU. Ведущий научный сотрудник*|
 |:--|:--|
 |B‑day, addr.|1948.08.23 / …|
 |Contact|<lzelenyi@iki.rssi.ru>, *раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark>|

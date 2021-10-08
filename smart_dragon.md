@@ -28,7 +28,7 @@
 |Активность|**Активен** (2019.07.15 ‑ …)|
 |[Аналоги](analogue.md)|[Electron](electron.md) (США)・ [Shavit](shavit.md) (Израиль)・ [Unha](unha.md) (Корея сев.)|
 |Длина/диаметр|19.5 м / 1.2 м|
-|[Космодромы](spaceport.md)|[Jiuquan](jiuquan.md)|
+|[Космодромы](spaceport.md)|[Jiuquan](spaceport.md)|
 |Масса старт./сух.|23 100 ㎏ / … ㎏|
 |Разраб./изготов.|CASC group (Китай) / CASC group (Китай)|
 |Ступени|4|
@@ -39,7 +39,7 @@
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|[Jiuquan](jiuquan.md)|Smart Dragon-1|0.25|…|…|…|…|Пуск — $ … млн (… г);<br> ПН 1.08 % от ст.массы;<br> На [ССО](nnb.md) — 150 кг|
+|[Jiuquan](spaceport.md)|Smart Dragon-1|0.25|…|…|…|…|Пуск — $ … млн (… г);<br> ПН 1.08 % от ст.массы;<br> На [ССО](nnb.md) — 150 кг|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
 
@@ -58,7 +58,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

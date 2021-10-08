@@ -8,7 +8,7 @@
 > <small>**СЗИ-М** — RU term w/o analogues in English. **SZI-M** — literal EN translation.</small>
 
 **СЗИ‑М** ─ постоянное [запоминающее устройство](ds.md) (ПЗУ). Система сбора, регистрации и хранения информации от датчико‑преобразующей аппаратуры, информации БЦВМ, речевой информации. СЗИ‑М обеспечивает спасение информации при воздействии удара (скорость встречи с преградой 150 ㎧) и высокой температуры (+700 ℃ в течение 30 минут) («черный ящик»).  
-Разработчик [НПО ИТ](zz_npoit.md).  
+Разработчик [НПО ИТ](contact/npoit.md).  
 
 |*Characteristics*|*[Value](si.md)<br> (СЗИ-М)*|
 |:--|:--|
@@ -23,7 +23,7 @@
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
-|[Voltage](voltage.md), V|… — для УП‑М; +4.75 — для УН‑М|
+|[Voltage](sps.md), V|… — для УП‑М; +4.75 — для УН‑М|
 |**【Specific】**|• • •|
 |Algorithms (compr.)| |
 |Algorithms (encryp.)| |
@@ -36,8 +36,7 @@
 **Notes:**
 
    1. …
-   1. **Applicability:**
-      - …
+   1. **Applicability:** …
 
 
 
@@ -46,7 +45,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8)・ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8)・ [OBMU](sait_obmu.md) (1.8)|
 

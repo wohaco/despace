@@ -6,7 +6,7 @@
 ---
 
 **Solid State Recorder (SSR)** *(твердотельное записывающее устройство)* ─ постоянное запоминающее устройство (ПЗУ) на основе твердотельного накопителя для хранения цифровой информации.  
-*Разработчик:* [ADS](zz_ads.md). Разработано в 1990 году. Активное применение.
+*Разработчик:* [ADS](contact/ads.md). Разработано в 1990 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (SSR)*|
 |:--|:--|
@@ -20,7 +20,7 @@
 |[Reliability](qm.md) per [lifetime](lifetime.md)|0.99 за 7 лет на орбите|
 |[Thermal range](tcs.md), ℃|−25 ‑ +60 при работе; −40 ‑ +75 при простое|
 |[TRL](trl.md)|9|
-|[Voltage](voltage.md), V| |
+|[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
 |Algorithms (compr.)|JPEG, WAVELET, [CCSDS](ccsds.md) 122 BPE, BAQ, FFT BAQ, advanced BAQ|
 |Algorithms (encryp.)|TRIPLE‑DES, AES и пр. для передачи информации (до 600 Мбит/с)|
@@ -41,7 +41,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8)・ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8)・ [OBMU](sait_obmu.md) (1.8)|
 

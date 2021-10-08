@@ -17,10 +17,10 @@
 |:--|:--|
 |**Mission:**|• • •|
 |Duration|2 years (plan) и 4.5 years (estimated maximum);<br> 2010.05.21 - <mark>TBD</mark> (fact)|
-|Operator|[JAXA](zz_jaxa.md)|
+|Operator|[JAXA](contact/jaxa.md)|
 |Program|…|
 |Development|… ‑ …|
-|Launch|2010.05.20 21:58:22 UTC (00:58 MSK) [Tanegashima YLP-1](tanegashima.md) with [H-IIA 202](h2.md)|
+|Launch|2010.05.20 21:58:22 UTC (00:58 MSK) [Tanegashima YLP-1](spaceport.md) with [H-IIA 202](h2.md)|
 |Similar to|• Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US).<br> • Current: ….<br> • ㎩st: [Venus Express](venus_express.md) (EU 2005), [VeGa‑1/2](vega_1_2.md) (SU 1984), [Venera‑11/12](venera_11_12.md) (SU 1978), [Venera‑9/10](venera_9_10.md) (SU 1975).|
 |[Type](sc.md)|Orbiter spacecraft|
 |Goal|Investigations of atmospheric stratification, dynamics, physics of clouds, hydrodynamic gravitational waves; survey of clouds & surface; exploring Venusian meteorology & super rotation of the atmosphere, the presence of lightning & volcanism|
@@ -31,7 +31,7 @@
 |Orbit / Place|300 × 80 000 ㎞, 172°, 30 hr|
 |Payload|• 5 cameras for: lightning, glow, IR, UV;<br> • equipment for radiography|
 |Contractor|…|
-|Developer|[NEC Space Technologies](zz_nec.md)|
+|Developer|[NEC Space Technologies](contact/nec.md)|
 |Communication|[X‑band](rf.md), 20 W, 1.6 m² dish antenna|
 |Structure|Orbiter|
 |Power|700 W, 2 × 1.4 m²|
@@ -102,7 +102,7 @@ The mission was supposed to fly for 7 months with an exit to a operating orbit
 
 The cause of the problem is the deposition of salts in the pipeline between the boost tank (helium) & the fuel tank, as a result, the oxidizer became predominant in the combustion chamber & the increased temperature damaged the nozzle. A similar problem destroyed [Mars Observer](mars_observer.md) in 1993.
 
-From October 2009 to January 2010, a public campaign was conducted by the [Planetary Society](zz_planetary_society.md) & JAXA, allowing everyone to send their name into space on Board Akatsuki. Names & messages were printed on an aluminum plate on Board the spacecraft; 260 214 people wrote their names & messages. 90 aluminum plates were created, including 3 plates with printed images of Vocaloid Hatsune Miku & its very deformed figure.
+From October 2009 to January 2010, a public campaign was conducted by the [Planetary Society](contact/planetary_society.md) & JAXA, allowing everyone to send their name into space on Board Akatsuki. Names & messages were printed on an aluminum plate on Board the spacecraft; 260 214 people wrote their names & messages. 90 aluminum plates were created, including 3 plates with printed images of Vocaloid Hatsune Miku & its very deformed figure.
 
 
 
@@ -323,7 +323,7 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
@@ -344,8 +344,8 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
    1. <https://space.skyrocket.de/doc_sdat/planet-c.htm>
    1. Information archives:
       1. <https://www.darts.isas.jaxa.jp/planet/project/akatsuki/> — on-board information archive
-      1. <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — [ALPO](zz_alpo.md) Japan
-      1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](zz_alpo.md) Venus section
+      1. <http://alpo-j.asahikawa-med.ac.jp/indexE.htm> — [ALPO](contact/alpo.md) Japan
+      1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](contact/alpo.md) Venus section
       1. <http://pvol2.ehu.eus/pvol2/> — PVOL (Planetary Virtual Observatory & Laboratory)
       1. <https://www.britastro.org/section_front/18> — British Astronomical Association
       1. <http://www.cosmos.esa.int/web/venus/active-archive> — ESA’s Venus Ground-Based Image Archive

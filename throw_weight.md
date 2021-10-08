@@ -7,7 +7,7 @@
 
 > <small>**Выводимая масса** — русскоязычный термин. **Throw-weight** — англоязычный эквивалент.</small>
 
-Выведение с «[Восточного](vostochny.md)» при РН «[Ангара‑А5](angara.md)» и РБ [КВТК](квтк.md) с параметрами:  
+Выведение с «[Восточного](spaceport.md)» при РН «[Ангара‑А5](angara.md)» и РБ [КВТК](квтк.md) с параметрами:  
 h<sub>A</sub> = 1 325 000 ㎞,  
 h<sub>П</sub> = 1 614 ㎞,  
 i = 51.5°,  
@@ -16,10 +16,10 @@ i = 51.5°,
 
 |*Место*|*РН*|*РБ*|*ГО*|*[НОО](nnb.md), ㎏*|*ГСО, ㎏*|*Перелёт<br> к Луне, ㎏*|
 |:--|:--|:--|:--|:--|:--|:--|
-|[Байконур](baikonur.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](fregat.md)|1.750|6 500 ‑ 8 250| |2 200|
+|[Байконур](spaceport.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](fregat.md)|1.750|6 500 ‑ 8 250| |2 200|
 | | | |14С737|6 500 ‑ 8 250| |2 140|
 | | | |81 КС|6 500 ‑ 8 250| |2 130|
-|[Восточный](vostochny.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](fregat.md)|81 КС| | | |
+|[Восточный](spaceport.md)|[Союз‑2.1б](soyuz.md)|[Фрегат](fregat.md)|81 КС| | | |
 
 
 
@@ -28,7 +28,7 @@ i = 51.5°,
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)・ [ГО и ПхО](lv.md)・ [Класс чистоты](clean_lvl.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [СЧ](sui.md)|
 |**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md)・ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](fregat.md)|

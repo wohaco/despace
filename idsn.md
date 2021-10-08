@@ -1,5 +1,5 @@
 # Indian Deep Space Network
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [ISRO](zz_isro.md), **[НС](scs.md)**
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [ISRO](contact/isro.md), **[НС](scs.md)**
 
 [TOC]
 
@@ -7,7 +7,7 @@
 
 > <small>**Indian Deep Space Network (IDSN)** — англоязычный термин, не имеющий аналога в русском языке. **Индийская сеть дальней космической связи** — дословный перевод с английского на русский.</small>
 
-**Indian Deep Space Network (IDSN)** is a network of large antennas and communication facilities operated by the [Indian Space Research Organisation](zz_isro.md) to support the interplanetary spacecraft missions of India. Its hub is located at Byalalu, a village about 25 ㎞ from Bangalore, India. It was inaugurated on 17 October 2008 by the former ISRO chairman G. Madhavan Nair. The main tracking antenna was designed and commissioned by Hyderabad‑based Electronics Corporation of India Limited at a cost of ₹65 crore (about US$13 million).
+**Indian Deep Space Network (IDSN)** is a network of large antennas and communication facilities operated by the [Indian Space Research Organisation](contact/isro.md) to support the interplanetary spacecraft missions of India. Its hub is located at Byalalu, a village about 25 ㎞ from Bangalore, India. It was inaugurated on 17 October 2008 by the former ISRO chairman G. Madhavan Nair. The main tracking antenna was designed and commissioned by Hyderabad‑based Electronics Corporation of India Limited at a cost of ₹65 crore (about US$13 million).
 
 | |
 |:--|
@@ -28,7 +28,7 @@ The network consists of the ISRO Telemetry, Tracking and Command Network (ISTRAC
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|
 

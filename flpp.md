@@ -7,7 +7,7 @@
 
 > <small>**Future Launchers Preparatory Programme (FLPP)** — англоязычный термин, не имеющий аналога в русском языке. **Программа разработки перспективных пусковых установок** — дословный перевод с английского на русский.</small>
 
-The **Future Launchers Preparatory Programme (FLPP)** is a technology development and maturation programme of the [European Space Agency (ESA)](zz_esa.md). It develops technologies for the application in future European [launch vehicles (launchers)](lv.md) and in upgrades to existing launch vehicles. By this it helps to reduce time, risk and cost of launcher development programmes.
+The **Future Launchers Preparatory Programme (FLPP)** is a technology development and maturation programme of the [European Space Agency (ESA)](contact/esa.md). It develops technologies for the application in future European [launch vehicles (launchers)](lv.md) and in upgrades to existing launch vehicles. By this it helps to reduce time, risk and cost of launcher development programmes.
 
 
 
@@ -23,7 +23,7 @@ FLPP develops and matures technologies that are deemed promising for future appl
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

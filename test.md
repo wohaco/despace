@@ -32,7 +32,7 @@
 
 ## Документация НЭО
 
-Работы и документацию к.510 на данном этапе ㎝. [на соответствующей странице](zz_lav.md).
+Работы и документацию к.510 на данном этапе ㎝. [на соответствующей странице](contact/lav.md).
 
 <mark>TBD</mark>
 
@@ -94,12 +94,12 @@
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Calian AT](zz_calian_at.md) — Ground testing equipment, In orbit test systems<br> ・[Telecan Space](zz_telecan_space.md) — Thermal testing<br> ・[Thoth Tech.](zz_thoth_tech.md) — thermal vacuum & vibration tests|
+|**CA**|・[Calian AT](contact/calian_at.md) — Ground testing equipment, In orbit test systems<br> ・[Telecan Space](contact/telecan_space.md) — Thermal testing<br> ・[Thoth Tech.](contact/thoth_tech.md) — thermal vacuum & vibration tests|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[IMV](zz_imv_corp.md)<br> ・[Mitsubishi](zz_mitsubishi.md) — Rocket Engine Combustion Test Facility<br> ・[Pale Blue Inc.](zz_pale_blue_inc.md)|
+|**JP**|・[IMV](contact/imv_corp.md)<br> ・[Mitsubishi](contact/mitsubishi.md) — Rocket Engine Combustion Test Facility<br> ・[Pale Blue Inc.](contact/pale_blue_inc.md)|
 |**KR**|…|
 |**RU**|…|
 |**SA**|…|
@@ -191,8 +191,8 @@
 
 **Камеры высокого давления:**
 
-   - [AVEC](avec.md) (V = 0.0007 m³, [JHU APL](zz_jhuapl.md))
-   - [GEER](geer.md) (V = 0.811 m³ и 0.004 m³, [GRC](zz_grc.md))
+   - [AVEC](avec.md) (V = 0.0007 m³, [JHU APL](contact/jhuapl.md))
+   - [GEER](geer.md) (V = 0.811 m³ и 0.004 m³, [GRC](contact/grc.md))
 
 
 
@@ -201,7 +201,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 |**【[Test](test.md)】**<br> [JTAG](jtag.md)・ [Proto fligt model](pfm.md)・ [Безэховая камера](ach.md)・ [Валидация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [КПЭО](ctpr.md)・ [Перечень методик испытаний](list_tp.md)・ [Программа и методика испытаний](pmot.md)・ [Опытный образец](pilot_sample.md)・ [Циклограмма](obc.md)・ [Штатный образец](flight_unit.md)・ [ЭО](test.md)・ [Экспериментально‑теоретический метод](etetm.md)|

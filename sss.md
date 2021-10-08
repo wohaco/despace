@@ -11,7 +11,7 @@
 
 | |*[Company](contact.md)*|*SSS models*|
 |:--|:--|:--|
-|**RU**| |[GZU-LR1](гзу_лр1.md)・ [LB-15](lb_15.md)<br> **【Archived】** [VB02](vb02.md)・ [LB-09](lb_09.md)・ [LB-10](lb_10.md)|
+|**RU**| |[GZU-LR1](гзу_лр1.md)・ [LB-15](sss_lst.md)<br> **【Archived】** [LB-09](sss_lst.md)・ [LB-10](sss_lst.md)・ [VB02](sss_lst.md)|
 
 **Manufacturers**
 
@@ -19,14 +19,14 @@
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Deltion](zz_deltion.md)|
+|**CA**|・[Deltion](contact/deltion.md)|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
 |**JP**|…|
 |**KR**|…|
-|**RU**|・[GEOKHI RAS](zz_geokhi_ras.md) — design of SSS & zondes.<br> ・[IKI RAS](zz_iki_ras.md)<br> ・KB OM|
+|**RU**|・[GEOKHI RAS](contact/geokhi_ras.md) — design of SSS & zondes.<br> ・[IKI RAS](contact/iki_ras.md)<br> ・KB OM|
 |**SA**|…|
 |**SG**|…|
 |**US**|…|
@@ -64,9 +64,9 @@ The numerous of the logging methods is due to the variety of ground‑based geop
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【Soil sampling system (SSS)】**<br> [Logging](sss.md)・ [Stratification](sss.md)<br>• • •<br> **RU:** [GZU-LR1](гзу_лр1.md)・ [LB-15](lb_15.md) *([VB02](vb02.md)・ [LB-09](lb_09.md)・ [LB-10](lb_10.md))*|
+|**【Soil sampling system (SSS)】**<br> [Logging](sss.md)・ [Stratification](sss.md)<br>• • •<br> **RU:** [GZU-LR1](гзу_лр1.md)・ [LB-15](sss_lst.md) *([VB02](sss_lst.md)・ [LB-09](sss_lst.md)・ [LB-10](sss_lst.md))*|
 
    1. Docs: [Presentation for SC Luna‑Grunt ❐](f/sss/2018_ikiran_sluta.djvu) (Moscow, IKI RAS, 2018, Slyuta E.N.)
    1. Notable interwikies — …

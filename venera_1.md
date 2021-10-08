@@ -60,7 +60,7 @@ Achieved targets & investigations:
 <p style="page-break-after:always"> </p>
 
 ## Mission
-Venera 1 was the second of two attempts to launch a spacecraft to Venus in February 1961, immediately following the launch of its sister ship Venera‑1VA No.1, which failed to leave Earth orbit. Soviet experts launched Venera‑1 using a Molniya carrier rocket from the [Baikonur Cosmodrome](baikonur.md). The launch took place 1961.02.12 at 00:34:36 UTC.
+Venera 1 was the second of two attempts to launch a spacecraft to Venus in February 1961, immediately following the launch of its sister ship Venera‑1VA No.1, which failed to leave Earth orbit. Soviet experts launched Venera‑1 using a Molniya carrier rocket from the [Baikonur Cosmodrome](spaceport.md). The launch took place 1961.02.12 at 00:34:36 UTC.
 
 The spacecraft, along with the rocket’s Blok‑L upper stage, were initially placed into a 229 × 282 ㎞ low Earth orbit, before the upper stage fired to place Venera 1 into a heliocentric orbit, directed towards Venus. The 11D33 engine was the world’s first staged‑combustion‑cycle rocket engine, and also the first use of an ullage engine to allow a liquid‑fuel rocket engine to start in space.
 
@@ -128,7 +128,7 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spac
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

@@ -1,5 +1,5 @@
 # TALOS
-> 2020.04.04 [🚀](../index/index.md) [despace](index.md) → [NASA](zz_nasa.md), [PS](ps.md)
+> 2020.04.04 [🚀](../index/index.md) [despace](index.md) → [NASA](contact/nasa.md), [PS](ps.md)
 
 [TOC]
 
@@ -13,15 +13,15 @@
 <p style="page-break-after:always"> </p>
 
 ## Description
-[NASA](zz_nasa.md) is poised to return to the Moon and then farther out to deep space. These goals will require spacecraft propulsion systems that are high‑performance, lightweight, and compact. In addition, these systems need to be developed more quickly and for a lower cost than state of the art propulsion systems in order to support multiple lunar missions within a short period of time.
+[NASA](contact/nasa.md) is poised to return to the Moon and then farther out to deep space. These goals will require spacecraft propulsion systems that are high‑performance, lightweight, and compact. In addition, these systems need to be developed more quickly and for a lower cost than state of the art propulsion systems in order to support multiple lunar missions within a short period of time.
 
-[Frontier Aerospace](zz_frontier_as.md) of Simi Valley California is developing these high‑performing thrusters for the TALOS project. Five of these thrusters will be delivered to Astrobotic for use on its Peregrine lunar lander that will deliver science and technology payloads to the Moon for NASA in 2021.
+[Frontier Aerospace](contact/frontier_as.md) of Simi Valley California is developing these high‑performing thrusters for the TALOS project. Five of these thrusters will be delivered to Astrobotic for use on its Peregrine lunar lander that will deliver science and technology payloads to the Moon for NASA in 2021.
 
 Qualifying the TALOS thrusters for space flight on this lunar demonstration mission will help to enable a reliable, commercial‑off‑the‑shelf option for future science and exploration missions. Before the Astrobotic lunar mission, the TALOS project will perform qualification tests representative of a planned mission duty cycle for an autonomous lander in a lunar demonstration mission
 
 TALOS runs on mixed oxides of nitrogen and monomethyl hydrazine propellant (MON‑25/MMH)is and is lighter and costs less than accessible thrusters in comparable thrust classes. Because MON‑25 operates at lower temperatures, less power is needed for propellant conditioning for in‑space propulsion applications, especially long duration and deep‑space missions. TALOS offers enhanced affordability through improved designs, modern materials, and advanced manufacturing processes, which lower thruster unit cost for missions and reduce propulsion system costs.
 
-Frontier is scheduled to complete development hot‑fire testing of two 150‑lbf thrusters and two 10‑lbf thrusters in 2020 for delivery to [Astrobotic](zz_astrobotic.md). TALOS technology is key to the enhanced affordability of future science and space exploration missions.
+Frontier is scheduled to complete development hot‑fire testing of two 150‑lbf thrusters and two 10‑lbf thrusters in 2020 for delivery to [Astrobotic](contact/astrobotic.md). TALOS technology is key to the enhanced affordability of future science and space exploration missions.
 
 **Team:**
 
@@ -41,9 +41,9 @@ Frontier is scheduled to complete development hot‑fire testing of two 150‑lb
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](warp_drive.md)・ [Газовый двигатель](cgt.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](bussard_ramjet.md)・ [ЖРД](lpr.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](spr.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](epsp.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](ntr.md)|
+|**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](engine_type.md)・ [Газовый двигатель](engine_type.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](engine_type.md)・ [ЖРД](engine_type.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](engine_type.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](engine_type.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](engine_type.md)|
 
    1. Docs: …
    1. Notable interwikies — …

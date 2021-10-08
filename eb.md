@@ -7,29 +7,27 @@
 
 > <small>**Chemical source of electricity (CSE), Electric battery (EB), Primary cell (PC)** — EN term. **Химический источник тока (ХИТ)** — RU analogue.</small>
 
-**Chemical source of electricity (CSE), Electric battery (EB)** — a source of electromotive force (EMF), in which the energy of chemical reactions taking place in it is directly converted into electrical energy.
-
-Subdivided into:
+**Chemical source of electricity (CSE), Electric battery (EB)** — a source of electromotive force (EMF), in which the energy of chemical reactions taking place in it is directly converted into electrical energy. Divided into:
 
    - **galvanic cells** (primary EB), which, due to the irreversibility of the reactions occurring in them, cannot be recharged.
    - **electric batteries** (secondary EB), they are **rechargeable batteries (RB)** — rechargeable galvanic cells that can be recharged using an external current source (charger);
-   - **fuel cells** (electrochemical generators) — devices similar to a galvanic cell, but differing from it in that substances for an electrochemical reaction are supplied to it from the outside, and reaction products are removed from it, which allows it to function continuously:
+   - **fuel cells** (electrochemical generators) — devices similar to a galvanic cell, but differing from it in that substances for an electrochemical reaction are supplied to it from the outside, & reaction products are removed from it, which allows it to function continuously:
       - direct methanol fuel cell;
       - solid oxide fuel cell;
       - alkaline fuel cell.
 
-The division of cells into galvanic and accumulators is somewhat arbitrary, since some galvanic cells, for example alkaline batteries, can be recharged, but the efficiency of this process is extremely low.
+The division of cells into galvanic & accumulators is somewhat arbitrary, since some galvanic cells, for example alkaline batteries, can be recharged, but the efficiency of this process is extremely low.
 
-| |*[Company](contact.md)*|*Actual (capacity, Ah)*|
+| |*[Company](contact.md)*|*Actual (capacity, A·h)*|
 |:--|:--|:--|
-|**EU**|[Saft](zz_saft.md)|[8S8P](8s8p.md) (30)|
+|**EU**|[Saft](contact/saft.md)|[8S8P](eb_lst.md) (30)|
 |•|• • • • • • • • •|• • •|
-|**JP**|[GS Yuasa](zz_gs_yuasa.md)|EB cells|
-| |[Mitsubishi Electric](zz_mitsubishi.md)|Assembly|
+|**JP**|[GS Yuasa](contact/gs_yuasa.md)| |
+| |[Mitsubishi Electric](contact/mitsubishi.md)| |
 |•|• • • • • • • • •|• • •|
-|**RU**| [VNIIEM](zz_vniiem.md) | |
-| | [Orion‑Hit](zz_orion_hit.md) | |
-| | [PAO Saturn](pao_saturn.md) | [8LI‑70](8li_70.md) (70) ┊ [12LI‑120](12li_120.md) (120) |
+|**RU**| [VNIIEM](contact/vniiem.md) | |
+| | [Orion‑Hit](contact/orion_hit.md) | |
+| | [PAO Saturn](pao_saturn.md) | [8LI‑70](eb_lst.md) (70)・ [12LI‑120](eb_lst.md) (120) |
 
 **Manufacturers**
 
@@ -37,12 +35,12 @@ The division of cells into galvanic and accumulators is somewhat arbitrary, sinc
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Canadensys](zz_canadensys.md)|
+|**CA**|・[Canadensys](contact/canadensys.md)|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|…|
+|**JP**|・[GS Yuasa](contact/gs_yuasa.md) — EB cells<br> ・[Mitsubishi Electric](contact/mitsubishi.md) — Assembly|
 |**KR**|…|
 |**RU**|…|
 |**SA**|…|
@@ -54,7 +52,7 @@ The division of cells into galvanic and accumulators is somewhat arbitrary, sinc
 
 ## Notes
 
-|*Type of sealed battery*|*Vol-<br>tage,<br> V*|*Specific<br> energy <br> (mass), <br> Wh / ㎏*|*Specific<br> energy <br> (volume), <br> Wh / dm³*|*Self-<br> dischar-<br>ge /day,<br>%*|*[Output]( charge_eff.md), <br>%*|*Service<br> life,<br> years / <br> cycles*|*Temp., <br> ℃*|
+|*Type of sealed battery*|*Vol-<br>tage,<br> V*|*Specific<br> energy <br> (mass), <br> W·h / ㎏*|*Specific<br> energy <br> (volume), <br> W·h / dm³*|*Self-<br> dischar-<br>ge /day,<br>%*|*[Output]( charge_eff.md), <br>%*|*Service<br> life,<br> years / <br> cycles*|*Temp., <br> ℃*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |**Lithium-Iron-Phosphate** (LiFePO₄, LFP) | 3.3 | 90 ‑ 130 | 320 ‑ 400 | 0.16 | 90 | 15 / 2 000 <br> 15 / 7 000 | −30 ‑ +55 |
 |**Lithium-Ion**| 3.6 | 130 | 260 | 15 (28) | 98 | 5 / 500 |−… ‑ +… |
@@ -74,33 +72,33 @@ The division of cells into galvanic and accumulators is somewhat arbitrary, sinc
 |•••|•••|•••|•••|•••|•••|•••|•••|
 |**Sulfur-Magnesium**| | 1 720 | | | |… / 110 | −… ‑ +… |
 
-Comparison of rechargeable and disposable batteries
+Comparison of rechargeable & disposable batteries
 
-| |*disposable (70Ah)*|*rechargeable 8LI‑70 (70Ah)*|
+| |*disposable (70 A·h)*|*rechargeable 8LI‑70 (70 A·h)*|
 |:--|:--|:--|
 |**Weight, ㎏**| 15.5 | 18.8 |
 |**Dimensions, ㎜**| 328 × 342 × 150 | 268 × 232 × 270 |
 
 
 
-### Converting Ah to Wh
-Often battery manufacturers indicate in the technical specifications only the stored charge in mAh (mAh), others — only the stored energy in Wh (Wh). Both characteristics can be called “capacity” (not to be confused with electrical capacity as a measure of a conductor's ability to store a charge, measured in farads). In general, it is not easy to calculate the stored energy from the stored charge: it is required to integrate the instantaneous power delivered by the battery during the entire discharge time. If greater accuracy is not needed, instead of integration, you can use the average values ​​of voltage and current consumption and use the formula following from the fact that  
-`1W = 1V × 1A` and `1Wh = 1V × 1Ah`
+### Converting A·h to W·h
+Often battery manufacturers indicate in the technical specifications only the stored charge in mA·h (mA·h), others — only the stored energy in W·h. Both characteristics can be called “capacity” (not to be confused with electrical capacity as a measure of a conductor's ability to store a charge, measured in farads). In general, it is not easy to calculate the stored energy from the stored charge: it is required to integrate the instantaneous power delivered by the battery during the entire discharge time. If greater accuracy is not needed, instead of integration, you can use the average values ​​of voltage & current consumption & use the formula following from the fact that  
+`1W = 1V × 1A` & `1W·h = 1V × 1A·h`
 
-That is, the stored energy (Wh) is approximately equal to the product of the stored charge (VAh) by the average voltage (in Volts):  
+That is, the stored energy (W·h) is approximately equal to the product of the stored charge (V·A·h) by the average voltage (in Volts):  
 `E = q × U`
 
 **Example**  
-The technical specification of the device indicates that the “capacity” (stored charge) of the battery is 56 Ah, the operating voltage is 15 V. Then the “capacity” (stored energy) is: 56 × 15 = 840 Wh (≈3 MJ)  
+The technical specification of the device indicates that the “capacity” (stored charge) of the battery is 56 A·h, the operating voltage is 15 V. Then the “capacity” (stored energy) is: 56 × 15 = 840 W·h (≈3 MJ)  
 When the batteries are connected in series, the “capacity” remains the same, when connected in parallel, it is added.  
-3.3v 1 000 mAh + 3.3v 1 000 mAh = 6.6v 1 000 mAh — serial connection.  
-3.3v 1 000 mAh + 3.3v 1 000 mAh = 3.3v 2 000 mAh — parallel connection.
+3.3v 1 000 mA·h + 3.3v 1 000 mA·h = 6.6v 1 000 mA·h — serial connection.  
+3.3v 1 000 mA·h + 3.3v 1 000 mA·h = 3.3v 2 000 mA·h — parallel connection.
 
 
 
 ### Calculating battery capacity
 Produced according to the formula:  
-**Battery capacity (Ah) = load power (kW) × time (h) × 100**
+**Battery capacity (A·h) = load power (kW) × time (h) × 100**
 
 
 
@@ -108,7 +106,7 @@ Produced according to the formula:
 
 **Galvanic cell** — a chemical source of electrical current named after Luigi Galvani. The principle of operation is based on the interaction of two metals through an electrolyte, leading to the emergence of an electric current in a closed circuit.
 
-**Electric accumulator**, also **accumulator battery (AB)** is a reusable chemical current source (that is, unlike a galvanic cell, chemical reactions directly converted into electrical energy are reversible many times). Electric accumulators are used for energy storage and autonomous power supply of various devices.
+**Electric accumulator**, also **accumulator battery (AB)** is a reusable chemical current source (that is, unlike a galvanic cell, chemical reactions directly converted into electrical energy are reversible many times). Electric accumulators are used for energy storage & autonomous power supply of various devices.
 
 |*Type of galvanic cell*|*Cathode*|*Electrolyte*|*Anode*|*Voltage, V*|
 |:--|:--|:--|:--|:--|
@@ -123,7 +121,7 @@ Produced according to the formula:
 | Lead-Cinc cell | PbO₂ | H₂SO₄ | Zn | 2.55 |
 | Chromium-Zinc element | K₂Cr₂O₇ | H₂SO₄ | Zn | 1.8 ‑ 1.9 |
 
-List of galvanic cells and electric accumulators.
+List of galvanic cells & electric accumulators.
 
 |*Galvanic cell*|*Electric accumulator*|
 |:--|:--|
@@ -136,10 +134,10 @@ List of galvanic cells and electric accumulators.
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](rotor.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](voltage.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](bak_01.md)・ [KAS‑LOA](kas_loa.md)|
-|**【[Chemical source of electricity (CSE), Electric battery (EB)](eb.md)】**<br> [Charge efficiency](charge_eff.md) <br>• • •<br> **EU:** [8S8P](8s8p.md) (30)  ▮  **RU:** [8LI-70](8li_70.md) (70)・ [12LI-120](12li_120.md) (120)|
+|**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|
+|**【[Chemical source of electricity (CSE), Electric battery (EB)](eb.md)】**<br> [Charge efficiency](charge_eff.md) <br>• • •<br> **EU:** [8S8P](eb_lst.md) (30)  ▮  **RU:** [8LI-70](eb_lst.md) (70)・ [12LI-120](eb_lst.md) (120)|
 
    1. Docs: …
    1. Notable interwikies — …

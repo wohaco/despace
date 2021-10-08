@@ -28,7 +28,7 @@
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[C6 Launch](zz_c6_launch.md) — for small sats<br> ・[Columbiad](zz_columbiad.md)<br> ・[MLS](zz_mls.md)<br> ・[SpaceRyde](zz_spaceryde.md) — dedicated launch for CubeSats using balloons<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) Small rockets|
+|**CA**|・[C6 Launch](contact/c6_launch.md) — for small sats<br> ・[Columbiad](contact/columbiad.md)<br> ・[MLS](contact/mls.md)<br> ・[SpaceRyde](contact/spaceryde.md) — dedicated launch for CubeSats using balloons<br> ・[Space Concordia](contact/space_concordia.md) — (Student community) Small rockets|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
@@ -121,8 +121,8 @@
       - параллельная (пакетная) — несколько блоков, расположенных параллельно и относящихся к разным ступеням, работают в полёте одновременно (РН «[Союз](soyuz.md)»);
       - условно‑пакетная (полутораступенчатая) — используются общие баки для всех ступеней, от них питаются стартовые и маршевые двигатели, запускающиеся и работающие одновременно; по завершении работы стартовых двигателей сбрасываются только они.
    1. **Двигатели.** В качестве маршевых двигателей могут использоваться:
-      - [жидкостные ракетные двигатели](lpr.md);
-      - [твердотопливные ракетные двигатели](spr.md);
+      - [жидкостные ракетные двигатели](engine_type.md);
+      - [твердотопливные ракетные двигатели](engine_type.md);
       - различные комбинации на разных ступенях.
    1. **Повторное использование.** Распространены одноразовые многоступенчатые РН пакетной и продольной схем. Одноразовые РН высоконадёжны из‑за упрощения СЧ. Одноступенчатой РН для достижения орбитальной скорости нужна конечная масса ≤ 7‑10 % стартовой, что труднореализуемо и неэффективно из‑за малой массы ПН. Такие РН почти не создавались, только полутораступенчатые («[Atlas](atlas.md)» со сбрасываемыми двигателями). Ступени увеличивают отношение массы ПН к начальной массе РН, но требуют отчуждения территорий для своего падения. Полностью многоразовых РН пока не существует (за 1990‑2000 гг были попытки: ROTON, Kistler K‑1, VentureStar и др.). Частично многоразовые: «[Спейс шаттл](shuttle.md)» и «Энергия‑Буран», и нереализованные («Спираль», МАКС и др.) и новые («Байкал‑Ангара») проекты. «Спейс шаттл» не снизил стоимость ПН. Пилотируемые [МТКС](sc.md) имеют сложную и длительную подготовку для высокой надёжности и безопасности.
    1. **Присутствие человека.** РН для пилотируемых полётов должны обладать бо́льшей надёжностью (также на них устанавливается система аварийного спасения); допустимые перегрузки для них ограничены (обычно не более 3‑4.5 единиц). При этом сама РН является полностью автоматической системой, выводящей в космос КА с людьми на борту.
@@ -169,8 +169,8 @@
 |**EU**|…|
 |**IN**|…|
 |**IL**|…|
-|**JP**|・[IHI](zz_ihi.md)<br> ・[Interstellar Technologies](zz_interstellar_tech.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md) — fairings<br> ・[Mitsubishi HVI](zz_mitsubishi.md)|
-|**KR**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Perigee Aerospace](zz_perigee_as.md) — small suborbital LV|
+|**JP**|・[IHI](contact/ihi.md)<br> ・[Interstellar Technologies](contact/interstellar_tech.md)<br> ・[Kawasaki HVI](contact/kawasaki_hvi.md) — fairings<br> ・[Mitsubishi HVI](contact/mitsubishi.md)|
+|**KR**|・[KAI](contact/kai.md)<br> ・[KARI](contact/kari.md)<br> ・[Perigee Aerospace](contact/perigee_as.md) — small suborbital LV|
 |**RU**|…|
 |**SA**|…|
 |**SG**|…|
@@ -204,7 +204,7 @@
 |НПО Лавочкина|**14С737**|Союз, Фрегат|3 715|10 400|1 400| | |
 |НПО Лавочкина|**АМГЭ**, **465ГК.Г**|Зенит, Фрегат‑СБ;<br> Протон‑М, Блок‑ДМ|4 100|10 400|1 670| |[Спектр‑Р](спектр_р.md), [Фобос‑Грунт](фобос‑грунт.md), [Электро‑Л](электро_л.md)|
 |НПО Лавочкина|**АМГ**|Зенит, Фрегат‑СБ|4 100|11 350|1 870|[Чертёж ❐](f/lv/npol-amg.dwg);<br> [Картинка ❐](f/lv/npol-amg.pdf)| |
-|[РКЦ Прогресс](zz_progress_rsc.md)|**81КС**|Союз‑2, Фрегат|4 100|11 433|1 500|[Чертёж ❐](f/lv/progress-81ks.pdf);<br> [Картинка ❐](f/lv/progress-81ks.png)| |
+|[РКЦ Прогресс](contact/progress_rsc.md)|**81КС**|Союз‑2, Фрегат|4 100|11 433|1 500|[Чертёж ❐](f/lv/progress-81ks.pdf);<br> [Картинка ❐](f/lv/progress-81ks.png)| |
 
 
 
@@ -280,7 +280,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Разгонный блок (РБ):`**<br> [Выводимая масса](throw_weight.md)・ [Космическая головная часть](lv.md) <br>• • •<br> **РФ, СНГ:** [Бриз](бриз.md)・ [Блок Д](блок_д.md)・ [Волга](волга.md)・ [КВТК](квтк.md)・ [Фрегат](fregat.md)|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|

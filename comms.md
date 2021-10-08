@@ -34,11 +34,11 @@
 
 | |*Company*|*Transmitters/receivers (mass, ㎏)*|
 |:--|:--|:--|
-|**RU**|[MOKB Mars](zz_mars_mokb.md)| |
-| |[NPO IT](zz_npoit.md)|[PRIZYV-3](prizyv_3.md) (0.17)・ [PRIZYV-1](prizyv_1.md) (0.075)|
-| |[LAV](zz_lav.md)|[BRK](brk_lav.md) (12)|
-| |[NPP Sait](zz_sait_ltd.md)|[RU PNI](ру_пни.md) ()・ [HSXBDT](hsxbdt.md) (1.8)・ [CSXBT](csxbt.md) (0.38)|
-| |[RKS](zz_rss.md)|[BA KIS](ба_кис.md) (21)|
+|**RU**|[MOKB Mars](contact/mars_mokb.md)| |
+| |[NPO IT](contact/npoit.md)|[PRIZYV-3](comms_lst.md) (0.17)・ [PRIZYV-1](comms_lst.md) (0.075)|
+| |[LAV](contact/lav.md)|[BRK](brk_lav.md) (12)|
+| |[NPP Sait](contact/sait_ltd.md)|[RU PNI](ру_пни.md) ()・ [HSXBDT](comms_lst.md) (1.8)・ [CSXBT](comms_lst.md) (0.38)|
+| |[RKS](contact/rss.md)|[BA KIS](ба_кис.md) (21)|
 |•|• • • • • • • • •|• • •|
 |**US**|[Space Micro](space_micro.md)| |
 
@@ -48,14 +48,14 @@
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[C-CORE](zz_c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[Calian AT](zz_calian_at.md) — frequency planning, sat resource management, satellite modulators<br> ・[MDA](zz_mda.md) — manufacturing & testing antennas & electronics<br> ・[SpaceBridge Inc.](zz_spacebridge.md) — broadcast modems for GEO & NGSO satellite constellations<br> ・[Telesat](zz_telesat.md) — satellite communications & integration services, satellite operator|
+|**CA**|・[C-CORE](contact/c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[Calian AT](contact/calian_at.md) — frequency planning, sat resource management, satellite modulators<br> ・[MDA](contact/mda.md) — manufacturing & testing antennas & electronics<br> ・[SpaceBridge Inc.](contact/spacebridge.md) — broadcast modems for GEO & NGSO satellite constellations<br> ・[Telesat](contact/telesat.md) — satellite communications & integration services, satellite operator|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Meisei](zz_meisei.md) — transmitters<br> ・[Mitsubishi](zz_mitsubishi.md) — telemetry & beacon transmitters, power & low noise amplifiers, receiver & ↑↓ converters<br> ・[NEC](zz_nec.md) — low noise & solid state power amplifiers (LNA, SSPA), converters (CONV), receivers (RCVR), & modulators (MOD), command receivers (CMDRX), telemetry & beacon transmitters (TLMTX, BCNTX), GPS receivers (GPSR), & multiuse interface modules (MIM), antennas/spaceborne radars, transponders|
-|**KR**|・[Satrec Initiative](zz_satreci.md)|
-|**RU**|・[AvantSpace](zz_avantspace.md)<br> ・[IRZ](zz_irz.md), [NII Guskova](нии_гуськова.md) — LNA, PE<br> ・[RADIS](zz_radis.md)|
+|**JP**|・[Meisei](contact/meisei.md) — transmitters<br> ・[Mitsubishi](contact/mitsubishi.md) — telemetry & beacon transmitters, power & low noise amplifiers, receiver & ↑↓ converters<br> ・[NEC](contact/nec.md) — low noise & solid state power amplifiers (LNA, SSPA), converters (CONV), receivers (RCVR), & modulators (MOD), command receivers (CMDRX), telemetry & beacon transmitters (TLMTX, BCNTX), GPS receivers (GPSR), & multiuse interface modules (MIM), antennas/spaceborne radars, transponders|
+|**KR**|・[Satrec Initiative](contact/satreci.md)|
+|**RU**|・[AvantSpace](contact/avantspace.md)<br> ・[IRZ](contact/irz.md), [NII Guskova](нии_гуськова.md) — LNA, PE<br> ・[RADIS](contact/radis.md)|
 |**SA**|…|
 |**SG**|…|
 |**US**|…|
@@ -88,10 +88,10 @@ TMP:
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|
-|**【[Communications](comms.md)】**<br> [CCSDS](ccsds.md)・ [Антенна](antenna.md)・ [АФУ](afdev.md)・ [Битрейт](bitrate.md)・ [ВОЛП](ofts.md)・ [ДНА](дна.md)・ [Диапазоны частот](rf.md)・ [Зрение](view.md)・ [Интерферометр](interferometer.md)・ [Информация](info.md)・ [КНД](directivity.md)・ [Код Рида‑Соломона](rsco.md)・ [КПДА](antenna_ap.md)・ [КСВ](swr.md)・ [КУ](ку.md)・ [ЛКС, АОЛС, FSO](fso.md)・ [Несущий сигнал](carrwave.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Помехи](emi.md) (EMI, RFI)・ [Последняя миля](last_mile.md)・ [Регламент радиосвязи](rf.md)・ [СИТ](etedp.md)・ [Фидер](feeder.md) <br>• • •<br> **РФ:** [БА КИС](ба_кис.md) (21)・ [БРК](brk_lav.md) (12)・ [РУ ПНИ](ру_пни.md) ()・ [HSXBDT](hsxbdt.md) (1.8)・ [CSXBT](csxbt.md) (0.38)・ [ПРИЗЫВ-3](prizyv_3.md) (0.17) *([ПРИЗЫВ-1](prizyv_1.md) (0.075))*|
+|**【[Communications](comms.md)】**<br> [CCSDS](ccsds.md)・ [Антенна](antenna.md)・ [АФУ](afdev.md)・ [Битрейт](bitrate.md)・ [ВОЛП](ofts.md)・ [ДНА](дна.md)・ [Диапазоны частот](rf.md)・ [Зрение](view.md)・ [Интерферометр](interferometer.md)・ [Информация](info.md)・ [КНД](directivity.md)・ [Код Рида‑Соломона](rsco.md)・ [КПДА](antenna.md)・ [КСВ](swr.md)・ [КУ](ку.md)・ [ЛКС, АОЛС, FSO](fso.md)・ [Несущий сигнал](carrwave.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Помехи](emi.md) (EMI, RFI)・ [Последняя миля](last_mile.md)・ [Регламент радиосвязи](rf.md)・ [СИТ](etedp.md)・ [Фидер](feeder.md) <br>• • •<br> **РФ:** [БА КИС](ба_кис.md) (21)・ [БРК](brk_lav.md) (12)・ [РУ ПНИ](ру_пни.md) ()・ [HSXBDT](comms_lst.md) (1.8)・ [CSXBT](comms_lst.md) (0.38)・ [ПРИЗЫВ-3](comms_lst.md) (0.17) *([ПРИЗЫВ-1](comms_lst.md) (0.075))*|
 
    1. Docs:
       - [General radiolink calculation ❐](f/comms/radiolink_calc_full.zip)

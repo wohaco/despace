@@ -39,17 +39,17 @@
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[ADGA](zz_adga.md) — space systems engineering<br> ・[AQST Canada](zz_aqst_ca.md)<br> ・[BRASS](zz_brass.md) — design consultancy<br> ・[C-CORE](zz_c_core.md) — technology consultancy<br> ・[Canadensys](zz_canadensys.md)<br> ・[Magellan Aerospace](zz_magellan_as.md)<br> ・[MDA](zz_mda.md) — Earth sats<br> ・[MSCI](zz_msci.md)<br> ・[SatCan](zz_satcan.md) — engineering & business consultancy for sat telecom & space tech sectors<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) CubeSats<br> ・[UTIAS](zz_utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
+|**CA**|・[ADGA](contact/adga.md) — space systems engineering<br> ・[AQST Canada](contact/aqst_ca.md)<br> ・[BRASS](contact/brass.md) — design consultancy<br> ・[C-CORE](contact/c_core.md) — technology consultancy<br> ・[Canadensys](contact/canadensys.md)<br> ・[Magellan Aerospace](contact/magellan_as.md)<br> ・[MDA](contact/mda.md) — Earth sats<br> ・[MSCI](contact/msci.md)<br> ・[SatCan](contact/satcan.md) — engineering & business consultancy for sat telecom & space tech sectors<br> ・[Space Concordia](contact/space_concordia.md) — (Student community) CubeSats<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[ALE](zz_ale.md) — small Earth satellites<br> ・[Astroflash](zz_astroflash.md) — small sats<br> ・[Astroscale](zz_astroscale.md) — space debris<br> ・[Axelspace](zz_axelspace.md) — microsats<br> ・[CE Space](zz_ce_space.md) — microsats<br> ・[ispace](zz_ispace.md)<br> ・[JAMSS](zz_jamss.md) — Earth sats<br> ・JAXA [ISAS](zz_isas.md)<br> ・JAXA [Tsukuba Space Center](zz_tsukuba_sc.md)<br> ・[Kawasaki HVI](zz_kawasaki_hvi.md)<br> ・[Meisei](zz_meisei.md) — microsats<br> ・[Mitsubishi Electric](zz_mitsubishi.md)<br> ・[NEC](zz_nec.md)<br> ・[PDAS](zz_pd_aerospace.md) — suborbital spaceplane for tourism<br> ・[SKY Perfect JSAT](zz_sky_perfect_jsat.md)<br> ・[Space Walker](zz_space_walker.md) — suborbital spaceplane for tourism<br> ・[Synspective](zz_synspective.md) — small Earth sats<br> ・[Warpspace](zz_warpspace.md)|
-|**KR**|・[KAI](zz_kai.md)<br> ・[KARI](zz_kari.md)<br> ・[Satrec Initiative](zz_satreci.md)|
-|**RU**|・Lavochkin Association<br> ・[VNIIEM](zz_vniiem.md)<br> ・[РКК Энергия](ркк_энергия.md)<br> ・[AvantSpace](zz_avantspace.md)|
+|**JP**|・[ALE](contact/ale.md) — small Earth satellites<br> ・[Astroflash](contact/astroflash.md) — small sats<br> ・[Astroscale](contact/astroscale.md) — space debris<br> ・[Axelspace](contact/axelspace.md) — microsats<br> ・[CE Space](contact/ce_space.md) — microsats<br> ・[ispace](contact/ispace.md)<br> ・[JAMSS](contact/jamss.md) — Earth sats<br> ・JAXA [ISAS](contact/isas.md)<br> ・JAXA [Tsukuba Space Center](contact/tsukuba_sc.md)<br> ・[Kawasaki HVI](contact/kawasaki_hvi.md)<br> ・[Meisei](contact/meisei.md) — microsats<br> ・[Mitsubishi Electric](contact/mitsubishi.md)<br> ・[NEC](contact/nec.md)<br> ・[PDAS](contact/pd_aerospace.md) — suborbital spaceplane for tourism<br> ・[SKY Perfect JSAT](contact/sky_perfect_jsat.md)<br> ・[Space Walker](contact/space_walker.md) — suborbital spaceplane for tourism<br> ・[Synspective](contact/synspective.md) — small Earth sats<br> ・[Warpspace](contact/warpspace.md)|
+|**KR**|・[KAI](contact/kai.md)<br> ・[KARI](contact/kari.md)<br> ・[Satrec Initiative](contact/satreci.md)|
+|**RU**|・Lavochkin Association<br> ・[VNIIEM](contact/vniiem.md)<br> ・[РКК Энергия](ркк_энергия.md)<br> ・[AvantSpace](contact/avantspace.md)|
 |**SA**|…|
 |**SG**|…|
-|**US**|・[Ball A&T](zz_ball_at.md)<br> ・[Xplore](zz_xplore.md)|
+|**US**|・[Ball A&T](contact/ball_at.md)<br> ・[Xplore](contact/xplore.md)|
 |**VN**|…|
 
 
@@ -61,7 +61,7 @@
    - **Гнездо** — [Луна‑Грунт](luna_28.md)
    - **Голубятня** — [Luna‑25](луна_25.md), [Luna‑27](луна_27.md)
    - **Куб** — …
-   - **Скворечник** — [Луна‑26](луна_26.md)
+   - **Скворечник** — [Luna‑26](луна_26.md)
 
 **Разновидности:**
 
@@ -113,14 +113,14 @@
 | | |
 |:--|:--|
 |**AU**|…|
-|**CA**|・[AlbertaSat](zz_albertasat.md)<br> ・[Kepler Communications](zz_kepler_comms.md)<br> ・[DSS](zz_dsslabs.md)<br> ・[SFL](zz_utias.md)|
+|**CA**|・[AlbertaSat](contact/albertasat.md)<br> ・[Kepler Communications](contact/kepler_comms.md)<br> ・[DSS](contact/dsslabs.md)<br> ・[SFL](contact/utias.md)|
 |**CN**|…|
 |**EU**|…|
 |**IN**|…|
 |**IL**|…|
 |**JP**|…|
 |**KR**|…|
-|**RU**|・[AvantSpace](zz_avantspace.md)<br> ・[Спутникс](zz_sputnix.md)|
+|**RU**|・[AvantSpace](contact/avantspace.md)<br> ・[Спутникс](contact/sputnix.md)|
 |**SA**|…|
 |**SG**|…|
 |**US**|…|
@@ -148,16 +148,16 @@
 |:--|:--|
 |**AU**|…|
 |**CA**|…|
-|**CN**|・[CNSA](zz_cnsa.md)|
-|**EU**|・[ESA](zz_esa.md)|
+|**CN**|・[CNSA](contact/cnsa.md)|
+|**EU**|・[ESA](contact/esa.md)|
 |**IN**|…|
 |**IL**|…|
-|**JP**|・[JAXA](zz_jaxa.md)|
+|**JP**|・[JAXA](contact/jaxa.md)|
 |**KR**|…|
 |**RU**|・[РКК Энергия](ркк_энергия.md)|
 |**SA**|…|
 |**SG**|…|
-|**US**|・[Blue Origin](blue_origin.md)<br> ・[Boeing](zz_boeing.md)<br> ・[Lockheed Martin](lockheed_martin.md)<br> ・[SpaceX](zz_spacex.md) — [Dragon](dragon.md)|
+|**US**|・[Blue Origin](blue_origin.md)<br> ・[Boeing](contact/boeing.md)<br> ・[Lockheed Martin](lockheed_martin.md)<br> ・[SpaceX](contact/spacex.md) — [Dragon](dragon.md)|
 |**AE**|…|
 |**VN**|…|
 
@@ -198,7 +198,7 @@
 
 |*Service equipment*|*Payload*|
 |:--|:--|
-|・**[Aimed antenna drive (AIAD)](devd.md)**·ПНА<br> ・**[Automatic control unit (ACU)](eas.md)**·БАППТ<br> ・**[Electro-automatic system (EAS)](ans.md)**·САН<br> ・**[Cable](cable.md)**·БКС<br> ・**[Camera](cam.md)**·Камера<br> ・**[Comms](comms.md)**·Радио<br> ・**[Control module (CM)](eas.md)**·БУ<br> ・**[Data storage (DS)](ds.md)**·ЗУ<br> ・**[Doppler](doppler.md)**·ИСР<br> ・**[Earth sensor](sensor.md)**·Датчик Земли<br> ・**[Ecology](ecology.md)**·Экология<br> ・**[Electronic components](elc.md)**·ЭКБ<br> ・**[Electric battery (EB)](eb.md)**·ХИТ<br> ・**[Electro-automatic system (EAS)](eas.md)**·СЭА<br> ・**[EMC](emc.md)**·ЭМС<br> ・**[Fuel](fuel.md)**·Топливо<br> ・**[GNC](gnc.md)**·БКУ<br> ・**[Inertial unit (UI)](iu.md)**·Гироскоп<br> ・**[Landing gear (LAG)](lag.md)**·ПУC<br> ・**[Launch escape system (LES)](les.md)**·САСП<br> ・**[Life support (LS)](ls.md)**·СЖО<br> ・**[Magnetometer](sensor.md)**·Магнитометр<br> ・**[Manned spacecraft (MSC)](sc.md)**·ПКА<br> ・**[Nuclear reactor (NR)](nr.md)**·ЯР<br> ・**[Onboard computer (OBC)](obc.md)**·ЦВМ<br> ・**[Propulsion system (PS)](ps.md)**·ДУ<br> ・**[Reaction wheel (RW)](iu.md)**·ДМ<br> ・**[Receiver](comms.md)**·Приёмник<br> ・**[Robot](robot.md)**·Робот<br> ・**[Rotor](rotor.md)**·Ротор<br> ・**[Rover](robot.md)**·Ровер<br> ・**[RTG](rtg.md)**·РИТЭГ<br> ・**[Structures, gears, materials (SGM)](sc.md)**·КММ<br> ・**[Software](soft.md)**·ПО<br> ・**[Soil sample system (SSS)](sss.md)**·ГЗУ<br> ・**[Solar panel (SP)](sp.md)**·БС<br> ・**[Solar panels orientation system (SPOS)](devd.md)**·СОСБ<br> ・**[Spacecraft power system (SPS)](sps.md)**·СЭС<br> ・**[Star tracker](sensor.md)**·Звёздный датчик<br> ・**[Sun sensor](sensor.md)**·Солнечный датчик<br> ・**[Systems engineering (SE)](se.md)**·СЭ<br> ・**[Telemetry system (TMS)](tms.md)**·ТМС<br> ・**[Thermal control system (TCS)](tcs.md)**·СОТР<br> ・**[Transmitter](comms.md)**·Передатчик<br> ・**[Wind turbine (WT)](wt.md)**·Ветрогенератор|・**Beacon**·Маяк<br> ・**Camera 3D**·Камера трёхмерная<br> ・**Camera of different spectra**·Камера различных спектров<br> ・**Gas analyzer**·Газоанализатор<br> ・**Meter of energetic particles**·Измеритель энергетичных частиц<br> ・**[Meter of magnetic field (magnetometer)](sensor.md)**·Магнитометр<br> ・**Meter of plasma**·Измеритель плазмы<br> ・**Meter of seismic activity (seismometer)**·Сейсмометр<br> ・**Meter of spectra (spectrometer: IR, UV, Fourier, etc.)**·Спектрометр<br> ・**Meter of stellar wind**·Измеритель звёздного ветра<br> ・**Radar**·Радар<br> ・**Radar (for subsoil)**·Радар подпочвенный<br> ・**Reflector**·Отражатель<br> ・**[Sensor of dust](sensor.md)**·Датчик пыли<br> ・**[Sensor of gas](sensor.md)**·Датчик газов<br> ・**[Sensor of temperature](sensor.md)**·Датчик температуры<br> ・**[Sensor of wind](sensor.md)**·Датчик ветра<br> ・**[Soil collector](sss.md)**·Грунтозаборник|
+|・**[Aimed antenna drive (AIAD)](devd.md)**·ПНА<br> ・**[Automatic control unit (ACU)](eas.md)**·БАППТ<br> ・**[Electro-automatic system (EAS)](ans.md)**·САН<br> ・**[Cable](cable.md)**·БКС<br> ・**[Camera](cam.md)**·Камера<br> ・**[Comms](comms.md)**·Радио<br> ・**[Control module (CM)](eas.md)**·БУ<br> ・**[Data storage (DS)](ds.md)**·ЗУ<br> ・**[Doppler](doppler.md)**·ИСР<br> ・**[Earth sensor](sensor.md)**·Датчик Земли<br> ・**[Ecology](ecology.md)**·Экология<br> ・**[Electronic components](elc.md)**·ЭКБ<br> ・**[Electric battery (EB)](eb.md)**·ХИТ<br> ・**[Electro-automatic system (EAS)](eas.md)**·СЭА<br> ・**[EMC](emc.md)**·ЭМС<br> ・**[Fuel](fuel.md)**·Топливо<br> ・**[GNC](gnc.md)**·БКУ<br> ・**[Inertial unit (UI)](iu.md)**·Гироскоп<br> ・**[Landing gear (LAG)](lag.md)**·ПУC<br> ・**[Launch escape system (LES)](les.md)**·САСП<br> ・**[Life support (LS)](ls.md)**·СЖО<br> ・**[Magnetometer](sensor.md)**·Магнитометр<br> ・**[Manned spacecraft (MSC)](sc.md)**·ПКА<br> ・**[Nuclear reactor (NR)](nr.md)**·ЯР<br> ・**[Onboard computer (OBC)](obc.md)**·ЦВМ<br> ・**[Patent](patent.md)**·Патент<br> ・**[Propulsion system (PS)](ps.md)**·ДУ<br> ・**[Reaction wheel (RW)](iu.md)**·ДМ<br> ・**[Receiver](comms.md)**·Приёмник<br> ・**[Robot](robot.md)**·Робот<br> ・**[Rotor](iu.md)**·Ротор<br> ・**[Rover](robot.md)**·Ровер<br> ・**[RTG](rtg.md)**·РИТЭГ<br> ・**[Sensor (general)](sensor.md)**<br> ・**[Structures, gears, materials (SGM)](sc.md)**·КММ<br> ・**[Software](soft.md)**·ПО<br> ・**[Soil sample system (SSS)](sss.md)**·ГЗУ<br> ・**[Solar panel (SP)](sp.md)**·БС<br> ・**[Solar panels orientation system (SPOS)](devd.md)**·СОСБ<br> ・**[Spacecraft power system (SPS)](sps.md)**·СЭС<br> ・**[Star tracker](sensor.md)**·Звёздный датчик<br> ・**[Sun sensor](sensor.md)**·Солнечный датчик<br> ・**[Systems engineering (SE)](se.md)**·СЭ<br> ・**[Telemetry system (TMS)](tms.md)**·ТМС<br> ・**[Thermal control system (TCS)](tcs.md)**·СОТР<br> ・**[Transmitter](comms.md)**·Передатчик<br> ・**[Wind turbine (WT)](wt.md)**·Ветрогенератор|・**Beacon**·Маяк<br> ・**Camera 3D**·Камера трёхмерная<br> ・**Camera of different spectra**·Камера различных спектров<br> ・**Gas analyzer**·Газоанализатор<br> ・**Meter of energetic particles**·Измеритель энергетичных частиц<br> ・**[Meter of magnetic field (magnetometer)](sensor.md)**·Магнитометр<br> ・**Meter of plasma**·Измеритель плазмы<br> ・**Meter of seismic activity (seismometer)**·Сейсмометр<br> ・**Meter of spectra (spectrometer: IR, UV, Fourier, etc.)**·Спектрометр<br> ・**Meter of stellar wind**·Измеритель звёздного ветра<br> ・**Radar**·Радар<br> ・**Radar (for subsoil)**·Радар подпочвенный<br> ・**Reflector**·Отражатель<br> ・**[Sensor of dust](sensor.md)**·Датчик пыли<br> ・**[Sensor of gas](sensor.md)**·Датчик газов<br> ・**[Sensor of temperature](sensor.md)**·Датчик температуры<br> ・**[Sensor of wind](sensor.md)**·Датчик ветра<br> ・**[Soil collector](sss.md)**·Грунтозаборник<br> ・**[Timeline](timeline.md)**·Циклограмма|
 
 
 
@@ -232,14 +232,14 @@ In common any onboard equipment can be basically described using the following t
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[MDA](zz_mda.md)<br> ・[Thoth Tech.](zz_thoth_tech.md) — cameras, spectrometers|
+|**CA**|・[MDA](contact/mda.md)<br> ・[Thoth Tech.](contact/thoth_tech.md) — cameras, spectrometers|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
 |**JP**|…|
 |**KR**|…|
-|**RU**|・[IKI RAS](zz_iki_ras.md) — payload|
+|**RU**|・[IKI RAS](contact/iki_ras.md) — payload|
 |**SA**|…|
 |**SG**|…|
 |**US**|…|
@@ -262,14 +262,14 @@ Below is a list & characteristics of materials used in the space (and not so) in
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Canadensys](zz_canadensys.md) — mechanisms, structures<br> ・[Macfab](zz_macfab.md) —  housings & covers for mission-critical electronics, separation systems, structures machined from magnesium & composite honeycomb panels<br> ・[UTIAS](zz_utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
+|**CA**|・[Canadensys](contact/canadensys.md) — mechanisms, structures<br> ・[Macfab](contact/macfab.md) —  housings & covers for mission-critical electronics, separation systems, structures machined from magnesium & composite honeycomb panels<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Mitsubishi Elecric](zz_mitsubishi.md) — structural panels<br> ・[Tamagawa Seiki](zz_tamagawa_seiki.md) — servo components|
+|**JP**|・[Mitsubishi Elecric](contact/mitsubishi.md) — structural panels<br> ・[Tamagawa Seiki](contact/tamagawa_seiki.md) — servo components|
 |**KR**|…|
-|**RU**|・SGM of SC manufactures everyone who manufacture SC ([VNIIEM](zz_vniiem.md), [ISS](zz_iss_r.md), [LAV](zz_lav.md), etc.)<br> ・[NIICOM](zz_niicom.md) — rotary devices, drives;<br> ・[RSC AC](zz_rsc_ac.md) — chemicals, materials, coatings|
+|**RU**|・SGM of SC manufactures everyone who manufacture SC ([VNIIEM](contact/vniiem.md), [ISS](contact/iss_r.md), [LAV](contact/lav.md), etc.)<br> ・[NIICOM](contact/niicom.md) — rotary devices, drives;<br> ・[RSC AC](contact/rsc_ac.md) — chemicals, materials, coatings|
 |**SA**|…|
 |**SG**|…|
 |**US**|…|
@@ -290,9 +290,10 @@ Below is a list & characteristics of materials used in the space (and not so) in
 
 ### Materials
 
-The use of the following materials in spacecraft (and especially in parts interacting with the atmosphere or soil or affecting target actions) shall be deliberately limited: diamond, platinoids, silicon carbide, Ag, As, Au, Bi, Cu, Ga, Ge, In, Ni, Sn, Sb, Se, Te, Zn.
+The use of the following materials in a SC (especially, in parts interacting with an atmosphere or soil or affecting SC actions) shall be deliberately limited: diamond, platinoids, silicon carbide, Ag, As, Au, Bi, Cu, Ga, Ge, In, Ni, Sn, Sb, Se, Te, Zn.
 
    - [Evaporation of materials](mat_sublime.md)
+   - [Fuel](fuel.md)
 
 |*Gas*|*Liquid*|*Metal*|*Non‑metal*|
 |:--|:--|:--|:--|
@@ -305,7 +306,7 @@ The use of the following materials in spacecraft (and especially in parts intera
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Spacecraft (SC)](sc.md)】**<br> [Cleanliness level](clean_lvl.md)・ [Communication SC](sc_comm.md)・ [Cubesat](sc.md)・ [FSS](sc_comm.md)・ [HTS](sc_comm.md)・ [Interface](interface.md)・ [Manned SC](sc.md)・ [Satellite](sc.md)・ [Sub-item](sui.md)・ [Typical forms](sc.md)|
 
@@ -316,12 +317,10 @@ The use of the following materials in spacecraft (and especially in parts intera
    1. <https://www.spacematdb.com/>
    1. <https://en.wikipedia.org/wiki/Reusable_launch_system>
    1. <https://en.wikipedia.org/wiki/Spacecraft>
-   1. <https://ru.wikipedia.org/wiki/Космический_аппарат>
    1. <https://ru.wikipedia.org/wiki/Многоразовый_космический_корабль>
    1. <https://www.nanosats.eu/cubesat>
    1. <http://www.cubesat.org/>
    1. <https://en.wikipedia.org/wiki/CubeSat>
-   1. <https://ru.wikipedia.org/wiki/Кубсат>
    1. <http://directory.eoportal.org/web/eoportal/satellite-missions/c-missions/cubesat-concept> — [archive ❐](f/scs/cubesat_concept_seor.pdf) of 2016.05.06)
    1. <http://www.cubesatshop.com> — магазин оборудования для кубсатов.
    1. <https://en.wikipedia.org/wiki/List_of_crewed_spacecraft>

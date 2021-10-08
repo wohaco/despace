@@ -8,7 +8,7 @@
 > <small>**УДМ‑15** — русскоязычный термин, не имеющий аналога в английском языке. **UDM‑15** — дословный перевод с русского на английский.</small>
 
 **Управляющий двигатель‑маховик «УДМ‑15»** — инерциальное устройство, предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
-Разработчик и изготовитель [НПЦ Полюс](zz_polus_tomsk.md); разработан в 2005 году Активное использование. Покупное изделие. (по состоянию на 21.06.2017)
+Разработчик и изготовитель [НПЦ Полюс](contact/polus_tomsk.md); разработан в 2005 году Активное использование. Покупное изделие. (по состоянию на 21.06.2017)
 
 |*Characteristics*|*[Value](si.md)<br> (UDM‑15)*|
 |:--|:--|
@@ -23,7 +23,7 @@
 |[Reliability](qm.md) per [lifetime](lifetime.md)|0.98|
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
-|[Voltage](voltage.md), V|27 — штатное;<br> от 24 до 28 — допустимое|
+|[Voltage](sps.md), V|27 — штатное;<br> от 24 до 28 — допустимое|
 |**【Specific】**|• • •|
 |Исполнение|Single unit|
 |Kinetic moment, N·m·s|± 15|
@@ -36,7 +36,7 @@
    1. …
    1. **Applicability:**
       - КА [Венера‑Д](венера‑д.md).
-      - КА [Луна‑26](луна_26.md) (в составе [Агат‑15](agat_15.md)).
+      - КА [Luna‑26](луна_26.md) (в составе [Агат‑15](rw_lst.md)).
 
 
 
@@ -45,7 +45,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

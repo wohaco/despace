@@ -29,9 +29,9 @@
 |**Spacecraft:**|• • •|
 |Comms|2 high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas|
 |Composition|Orbiter|
-|Contractor|[EADS Astrium](zz_astrium.md)|
+|Contractor|[EADS Astrium](contact/astrium.md)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): [2005-045A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=2005-045A), SCN: 28901|
-|Manufacturer|[EADS Astrium](zz_astrium.md)|
+|Manufacturer|[EADS Astrium](contact/astrium.md)|
 |Mass|Dry: 700 ㎏ ([Medium satellite](sc.md), [EVN‑072](venus.md))|
 |Orbit / Site|Cytherocentric: 250 x 66 000 ㎞; i = 90 °; T = 24 h|
 |Power|1 100 W|
@@ -341,7 +341,7 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

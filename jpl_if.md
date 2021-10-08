@@ -1,5 +1,5 @@
 # JPL’s Innovation Foundry
-> 2019.10.16 [🚀](../index/index.md) [despace](index.md) → **[JPL](zz_jpl.md)**, [Contact](contact.md)
+> 2019.10.16 [🚀](../index/index.md) [despace](index.md) → **[JPL](contact/jpl.md)**, [Contact](contact.md)
 
 [TOC]
 
@@ -7,7 +7,7 @@
 
 > <small>**JPL Innovation Foundry (JPL IF)** — англоязычный термин, не имеющий аналога в русском языке. **Инновационный цех JPL** — дословный перевод с английского на русский.</small>
 
-**JPL’s Innovation Foundry (JPL IF)** — it’s an office within [JPL](zz_jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL’s program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA’s [Skunk Works](skunk_works.md).
+**JPL’s Innovation Foundry (JPL IF)** — it’s an office within [JPL](contact/jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL’s program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA’s [Skunk Works](skunk_works.md).
 
    - JPL supports the science community to ideate, mature, & propose concepts for new NASA missions.
    - Continuously «system engineer» requirements & solutions to develop compelling new missions.
@@ -66,7 +66,7 @@ JPL’s unique approach for maturing advanced study mission concepts, performed 
 ## Team X
 > <small>**Team X** — англоязычный термин, не имеющий аналога в русском языке. **Команда Икс** — дословный перевод с английского на русский.</small>
 
-**Team X** (Команда Икс) — междисциплинарная команда, состоящая из по большей части опытных сотрудников [JPL](zz_jpl.md), занимающаяся быстрым проектированием и прототипированием КА и их СЧ.  
+**Team X** (Команда Икс) — междисциплинарная команда, состоящая из по большей части опытных сотрудников [JPL](contact/jpl.md), занимающаяся быстрым проектированием и прототипированием КА и их СЧ.  
 См. также [презентацию, 2013 год ❐](f/con/j/jpl_2013_case_presentation.pdf).
 
 **Team X** is a virtual cross‑functional multidisciplinary team of engineers that utilizes concurrent engineering methodologies to complete rapid design, analysis & evaluation of mission concept designs & is staffed & backed by the "doing" organizations across JPL’s Engineering & Science directorate. There are over 200 Team X members at JPL. Founded in 1995. Team X is well‑suited for all aspects of Pre‑Phase A & Phase A design activities.
@@ -141,7 +141,7 @@ A big part of the Team X philosophy is that good pre‑project design is just as
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

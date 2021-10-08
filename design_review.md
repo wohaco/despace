@@ -28,7 +28,7 @@ Most formalised systems engineering processes recognise that the cost of correct
 ## In US
 In the United States military integrated acquisition lifecycle the Technical section has multiple acquisition “Technical Reviews”. Technical reviews and audits assist the acquisition and the number and types are tailored to the acquisition. Typical topics examined include adequacy of program/contract metrics, proper staffing, risks, budget, and schedule.
 
-In [NASA’s](zz_nasa.md) engineering design life cycle, a phase of design reviews are held for technical and programmatic accountability and to authorize the release of funding to a project. A design review provides an in‑depth assessment, by an independent team of discipline experts and managers, that the design (or concept) is realistic and attainable from a programmatic and technical sense.
+In [NASA’s](contact/nasa.md) engineering design life cycle, a phase of design reviews are held for technical and programmatic accountability and to authorize the release of funding to a project. A design review provides an in‑depth assessment, by an independent team of discipline experts and managers, that the design (or concept) is realistic and attainable from a programmatic and technical sense.
 
 In 21CFR820.3(h), design review is described as *“documented, comprehensive, systematic examination of the design to evaluate the adequacy of the design requirements, to evaluate the capability of the design to meet these requirements, and to identify problems.”* The FDA also specifies that a design review should include an independent reviewer.
 
@@ -71,7 +71,7 @@ In 21CFR820.3(h), design review is described as *“documented, comprehensive, s
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 

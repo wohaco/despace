@@ -65,7 +65,7 @@ The **Satellite Catalog Number** (also known as **NORAD Catalog Number, NORAD ID
 
 Альтернативной системой нумерации спутников является **номер полёта (NSSDC ID)**.
 
-Objects that fail to orbit or orbit for a short time are not catalogued. The minimum object size in the catalog is 10 centimeters in diameter. As of June 23, 2019, the catalog listed 44 336 objects including 8 558 satellites launched into orbit since 1957. 17 480 of them were actively tracked while 1 335 were lost. [ESA](zz_esa.md) estimates there are about 34 000 orbiting debris of the size USSTRATCOM is capable to track as of January 2019.
+Objects that fail to orbit or orbit for a short time are not catalogued. The minimum object size in the catalog is 10 centimeters in diameter. As of June 23, 2019, the catalog listed 44 336 objects including 8 558 satellites launched into orbit since 1957. 17 480 of them were actively tracked while 1 335 were lost. [ESA](contact/esa.md) estimates there are about 34 000 orbiting debris of the size USSTRATCOM is capable to track as of January 2019.
 
 USSTRATCOM shares the catalog via <http://space-track.org> website. 18th Space Control Squadron (18 SPCS) is the unit that maintains the catalog.
 
@@ -107,7 +107,7 @@ ISS (ZARYA)
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

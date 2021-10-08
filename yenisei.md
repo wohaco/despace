@@ -35,7 +35,7 @@
 |Активность|**Активен** (2027 ‑ …)|
 |[Аналоги](analogue.md)|*Актуальные:* [Falcon Heavy](falcon.md) (США)・ [New Glenn](new_glenn.md) (США)・ [SLS Block 1](sls.md) (США);<br> *Исторические:* [Saturn‑5](saturn.md) (США)・ [Н-1](n_1.md) (СССР)・ [Энергия](energia.md) (СССР)|
 |Длина/диаметр| |
-|[Космодромы](spaceport.md)|[Восточный](vostochny.md)|
+|[Космодромы](spaceport.md)|[Восточный](spaceport.md)|
 |Масса старт./сух.|**Энергия‑3:** 1 440 / …;<br> **Енисей:** 3 167 / …;<br> **Дон:** 3 281 / …|
 |Разраб./изготов.|[РКК Энергия](ркк_энергия.md) (Россия) / [РКК Энергия](ркк_энергия.md) (Россия)|
 |Ступени|3|
@@ -46,9 +46,9 @@
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|[Восточный](vostochny.md)|Энергия‑3|70|…|…|…|…|Пуск — $ … млн (… г);<br> ПН 4.86 % от ст.массы|
-|[Восточный](vostochny.md)|Енисей|100|26|27|…|…|Пуск — $ … млн (… г);<br> ПН 3.15 % от ст.массы|
-|[Восточный](vostochny.md)|Дон|140|29.3|33|…|…|Пуск — $ … млн (… г);<br> ПН 4.26 % от ст.массы|
+|[Восточный](spaceport.md)|Энергия‑3|70|…|…|…|…|Пуск — $ … млн (… г);<br> ПН 4.86 % от ст.массы|
+|[Восточный](spaceport.md)|Енисей|100|26|27|…|…|Пуск — $ … млн (… г);<br> ПН 3.15 % от ст.массы|
+|[Восточный](spaceport.md)|Дон|140|29.3|33|…|…|Пуск — $ … млн (… г);<br> ПН 4.26 % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
 
@@ -59,7 +59,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 

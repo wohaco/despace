@@ -1,5 +1,5 @@
 # Цифровая вычислительная машина
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [GNC](gnc.md), **[ЦВМ](obc.md)**
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [GNC](gnc.md), [ЦВМ](obc.md)
 
 [TOC]
 
@@ -13,33 +13,30 @@
 
 **Notes:**
 
-   1. В [ИСС](zz_iss_r.md) ЦВМ состоит из 2 блоков: вычислительного блока (скажем, [БИВК-МР](bivk_mr.md)) и блока [ТМС](tms.md).
+   1. В [ИСС](contact/iss_r.md) ЦВМ состоит из 2 блоков: вычислительного блока (скажем, [БИВК-МР](obc_lst.md)) и блока [ТМС](tms.md).
    1. Все разновидности компьютера относятся к [АПС](hns.md).
 
 Varieties:
 
-   - Central processing unit (CPU) — for general use, runs most of the code of the operating system and apps.
-   - Graphics processing unit (GPU) — handles graphics-related tasks, such as visualizing an app’s user interface and gaming.
+   - Central processing unit (CPU) — for general use, runs most of the code of the operating system & apps.
+   - Graphics processing unit (GPU) — handles graphics-related tasks, such as visualizing an app’s user interface & gaming.
    - Image processing unit (ISP) — can be used to speed up common tasks done by image processing applications.
    - Digital signal processor (DSP) — handles more mathematically intensive functions than a CPU, includes decompressing music files.
-   - Neural processing unit (NPU) — used in high-end smartphones to accelerate machine learning (A.I.) tasks, these include voice recognition and camera processing.
-   - Video encoder/decoder — handles the power-efficient conversion of video files and formats.
-   - Secure Enclave — encryption, authentication, and security.
+   - Neural processing unit (NPU) — used in high-end smartphones to accelerate machine learning (A.I.) tasks, these include voice recognition & camera processing.
+   - Video encoder/decoder — handles the power-efficient conversion of video files & formats.
+   - Secure Enclave — encryption, authentication, & security.
 
-
-
-## Разновидности
-| |*[Фирма](contact.md)*|*Актуальные (масса, ㎏)*|*Исторические (масса, ㎏)*|
-|:--|:--|:--|:--|
-|**RU**|**[МОКБ Марс](zz_mars_mokb.md)**|[МАРС 4](mars_4.md) (8)・ [МАРС 7](mars_7.md) (6)| |
-| |**[НПП Антарес](zz_npp_antares.md)**|[МПК-003](mpk_003.md) (9)・ [МПК-002](mpk2.md) (3.9)| |
-| |**[НТЦ Модуль](zz_ntc_module.md)**|[БИВК-МН](бивк‑мн.md) ()・ [БИВК-МР](bivk_mr.md) (8)・ [БИВК-Р](bivk_r.md) (7.1)・ [ЦВМ-12](cvm_12.md) (2.2)| |
-| |**НТИЦ «ТЕХКОМ»**| |[ЦВМ22](cvm22.md) (2.1)|
-| |**[Спутникс](zz_sputnix.md)**|[БКУ_SXPA](bku_sxpa.md) (0.35)| |
+| |*[Фирма](contact.md)*|*Актуальные (масса, ㎏)*|
+|:--|:--|:--|
+|**RU**|**[МОКБ Марс](contact/mars_mokb.md)**|[МАРС 4](obc_lst.md) (8)・ [МАРС 7](obc_lst.md) (6)|
+| |**[НПП Антарес](contact/npp_antares.md)**|[МПК-003](obc_lst.md) (9)・ [МПК-002](obc_lst.md) (3.9)|
+| |**[НТЦ Модуль](contact/ntc_module.md)**|[БИВК-МН](бивк‑мн.md) ()・ [БИВК-МР](obc_lst.md) (8)・ [БИВК-Р](obc_lst.md) (7.1)・ [ЦВМ-12](obc_lst.md) (2.2)|
+| |**НТИЦ «ТЕХКОМ»**|…<br> 【Archive: [ЦВМ22](obc_lst.md) (2.1)】|
+| |**[Спутникс](contact/sputnix.md)**|[БКУ_SXPA](obc_lst.md) (0.35)|
 
 **Процессоры:**
 
-   - [GR712RC](gr712rc.md)
+   - [GR712RC](obc_lst.md)
 
 **Manufacturers:**
 
@@ -47,17 +44,17 @@ Varieties:
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Canadensys](zz_canadensys.md)<br> ・[Xiphos](zz_xiphos.md)|
+|**CA**|・[Canadensys](contact/canadensys.md)<br> ・[Xiphos](contact/xiphos.md)|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Space Cubics](zz_spacecubics.md)|
+|**JP**|・[Space Cubics](contact/spacecubics.md)|
 |**KR**|…|
-|**RU**|・[ИРЗ](zz_irz.md)<br> ・[ИСС](zz_iss_r.md)<br> ・[НПЦАП](zz_npcap.md)<br> ・<http://www.spacemicro.com/products/digital-systems.html>|
+|**RU**|・[ИРЗ](contact/irz.md)<br> ・[ИСС](contact/iss_r.md)<br> ・[НПЦАП](contact/npcap.md)<br> ・<http://www.spacemicro.com/products/digital-systems.html>|
 |**SA**|…|
 |**SG**|…|
-|**US**|・[DDC](zz_ddc.md)|
+|**US**|・[DDC](contact/ddc.md)|
 |**VN**|…|
 
 
@@ -67,10 +64,10 @@ Varieties:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Guidance, Navigation & Control (GNC)](gnc.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](eas.md)・ [БКС](cable.md)・ [БУ](eas.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](devd.md)|
-|**【[On-board computer (OBC)](obc.md)】**<br> … <br>• • •<br> **RU:** [МПК-003](mpk_003.md) (9)・ [БИВК-МР](bivk_mr.md) (8)・ [МАРС 4](mars_4.md) (8)・ [БИВК-Р](bivk_r.md) (7.1)・ [МАРС 7](mars_7.md) (6)・ [МПК-002](mpk2.md) (3.9)・ [ЦВМ-12](cvm_12.md) (2.2)・ [БКУ_SXPA](bku_sxpa.md) (0.35)・ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](cvm22.md) (2.1))*|
+|**【[On-board computer (OBC)](obc.md)】**<br> … <br>• • •<br> **RU:** [МПК-003](obc_lst.md) (9)・ [БИВК-МР](obc_lst.md) (8)・ [МАРС 4](obc_lst.md) (8)・ [БИВК-Р](obc_lst.md) (7.1)・ [МАРС 7](obc_lst.md) (6)・ [МПК-002](obc_lst.md) (3.9)・ [ЦВМ-12](obc_lst.md) (2.2)・ [БКУ_SXPA](obc_lst.md) (0.35)・ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](obc_lst.md) (2.1))*|
 
    1. Docs: …
    1. Notable interwikies — …

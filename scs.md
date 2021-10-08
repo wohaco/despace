@@ -153,7 +153,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[ADGA](zz_adga.md) — GS engineering (incl. software)<br> ・[BRASS](zz_brass.md) — satellite operations<br> ・[Calian AT](zz_calian_at.md) — Composite carbon fiber antenna, Comms systems, TT&C systems, Earth observation systems, Monitor & reconfiguration systems, Mission operations systems, Satellite gateway systems<br> ・[Honeywell Aerospace](zz_honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](zz_mda.md)|
+|**CA**|・[ADGA](contact/adga.md) — GS engineering (incl. software)<br> ・[BRASS](contact/brass.md) — satellite operations<br> ・[Calian AT](contact/calian_at.md) — Composite carbon fiber antenna, Comms systems, TT&C systems, Earth observation systems, Monitor & reconfiguration systems, Mission operations systems, Satellite gateway systems<br> ・[Honeywell Aerospace](contact/honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](contact/mda.md)|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
@@ -185,23 +185,23 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 В мире существует несколько агентств, среди которых крупнейшими являются следующие:
 
-   - [Европейское космическое агентство](zz_esa.md) (ЕКА)
+   - [Европейское космическое агентство](contact/esa.md) (ЕКА)
       1. Европейский центр управления космическими объектами — Дармштадт, Германия
       1. ATV Control Centre — Тулуза, Франция
       1. Columbus Control Center — Оберпфаффенхофен, Германия
-   - [Китайское национальное космическое управление](zz_cnsa.md) (CNSA)
+   - [Китайское национальное космическое управление](contact/cnsa.md) (CNSA)
       1. Пекинский центр управления космическими полётами
-   - [Роскосмос](zz_roskosmos.md)
-      1. Центр управления полётами [ЦНИИмаш](zz_tsniimash.md) — Королёв, Московская область
+   - [Роскосмос](contact/roskosmos.md)
+      1. Центр управления полётами [ЦНИИмаш](contact/tsniimash.md) — Королёв, Московская область
       1. Главный испытательный центр испытаний и управления космическими средствами имени Г.С. Титова — Краснознаменск, Московская область
       1. Центр управления спутниками народно‑хозяйственного назначения (ЦУП-НХ) — ОАО «Информационные спутниковые системы» имени академика М.Ф. Решетнёва, Железногорск, Красноярский край
-      1. ЦУП‑Л — [LAV](zz_lav.md), Химки, Московская область
+      1. ЦУП‑Л — [LAV](contact/lav.md), Химки, Московская область
       1. ЦУП Бонум (ЦКС Сколково) — ФГУП «Космическая связь», Сколково, Московская область
-   - [NASA](zz_nasa.md) (НАСА)
+   - [NASA](contact/nasa.md) (НАСА)
       1. Центр управления полётами (НАСА) — Хьюстон, Техас
-      1. [JPL](zz_jpl.md) — Пасадина, Калифорния
+      1. [JPL](contact/jpl.md) — Пасадина, Калифорния
    - Япония
-      1. NEC Satellite Operation Center ([NEC](zz_nec.md)).
+      1. NEC Satellite Operation Center ([NEC](contact/nec.md)).
 
 
 
@@ -312,8 +312,8 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 Известные БЦ РФ:
 
-   1. БЦ [ИПМ Келдыша](zz_keldysh_ipm.md);
-   1. БЦ [ЦНИИмаш](zz_tsniimash.md).
+   1. БЦ [ИПМ Келдыша](contact/keldysh_ipm.md);
+   1. БЦ [ЦНИИмаш](contact/tsniimash.md).
 
 
 
@@ -368,14 +368,14 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 | | |
 |:--|:--|
 |**AU**|…|
-|**CA**|・[MDA](zz_mda.md)|
+|**CA**|・[MDA](contact/mda.md)|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Infostellar](zz_infostellar.md) — space communication infrastructure, 10+ UHF/S/X antennas<br> ・[Kratos IS](zz_kratos.md) — R&D ground antennas, optimizing/managing satelllites, signals<br> ・[Mitsubishi Elecric](zz_mitsubishi.md) — ground control stations for satellite tracking, & optical/radio telescopes for astronomical observation, antennas, transmitters & receivers<br> ・[RESTEC](zz_restec.md)|
+|**JP**|・[Infostellar](contact/infostellar.md) — space communication infrastructure, 10+ UHF/S/X antennas<br> ・[Kratos IS](contact/kratos.md) — R&D ground antennas, optimizing/managing satelllites, signals<br> ・[Mitsubishi Elecric](contact/mitsubishi.md) — ground control stations for satellite tracking, & optical/radio telescopes for astronomical observation, antennas, transmitters & receivers<br> ・[RESTEC](contact/restec.md)|
 |**KR**|…|
-|**RU**|・[ОКБ МЭИ](zz_okbmei.md)|
+|**RU**|・[ОКБ МЭИ](contact/okbmei.md)|
 |**SA**|…|
 |**SG**|…|
 |**US**|…|
@@ -399,8 +399,8 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 |*Россия*|*Описание*|*Изобр.*|
 |:--|:--|:--|
-|Калязинская<br> радио&shy;астрономическая<br> обсерватория|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> ・Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ㎓.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.jpg)|
-|Центр<br> космической связи<br> «Медвежьи озёра»|Владелец — [ОКБ МЭИ](zz_okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> ・Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.jpg)|
+|Калязинская<br> радио&shy;астрономическая<br> обсерватория|Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> ・Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ㎓.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.jpg)|
+|Центр<br> космической связи<br> «Медвежьи озёра»|Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> ・Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.jpg)|
 |Восточный центр<br> дальней космической<br> связи (Уссурийск)|44°00′57″ с.ш. 131°45′25″ в.д. <sup>[H](https://tools.wmflabs.org/geohack/geohack.php?:language=ru&pagename=%D0 %A0 %D0 %A2-70&params=44_0_57.90_N_131_45_25.13_E) [G](https://maps.google.com/maps?:ll=44.0160833,131.7569806&q=44.0160833,131.7569806&spn=0.03,0.03&t=h&hl=ru) [Я](https://yandex.ru/maps/?:ll=131.7569806,44.0160833&pt=131.7569806,44.0160833&spn=0.03,0.03&l=sat,skl) [O](https://www.openstreetmap.org/?:mlat=44.0160833&mlon=131.7569806&zoom=14)</sup><br> ・Радиотелескоп П‑2500 или РТ‑70.|[![](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru_thumb.jpg)](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru.jpg)|
 
 </small>
@@ -434,7 +434,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[NEC](zz_nec.md)|
+|**JP**|・[NEC](contact/nec.md)|
 |**Korea South**|…|
 |**RU**|…|
 |**Saudi Arabia**|…|
@@ -520,7 +520,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)・ [ГО и ПхО](lv.md)・ [Класс чистоты](clean_lvl.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [СЧ](sui.md)|
 |**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)・ [КИС](scs.md)・ [КСИСО](scs.md)・ [НИК](lm_sys.md)・ [НИП](scs.md)・ [НС](scs.md)・ [ПОЗ](fp.md)・ [СГК](cd_segm.md)・ [ССПД](mcntd.md)・ [ЦУП](scs.md)|

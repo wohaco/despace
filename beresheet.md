@@ -36,11 +36,11 @@
    - **БКУ.**
       - 6 × камера Imperx Bobcat B3320C с оптикой Ruda (8 МПикс).
       - ЗД <mark>TBD</mark>.
-      - Процессор Gaisler HiRel [GR712RC](gr712rc.md) компании [Cobham](cobham.md): 100 ㎒.
+      - Процессор Gaisler HiRel [GR712RC](obc_lst.md) компании [Cobham](cobham.md): 100 ㎒.
       - СД <mark>TBD</mark>.
    - **БРК.**
    - **ДУ.**
-      - 1 × [LEROS 2b](leros.md) ([MMH](mmh.md)+MON) с укороченным соплом, увеличенной тягой: 407 H → 441 H.
+      - 1 × [LEROS 2b](engine_lst.md) ([MMH](mmh.md)+MON) с укороченным соплом, увеличенной тягой: 407 H → 441 H.
       - 8 × ДМТ <mark>TBD</mark>.
       - Топливо 380 кг.
    - **СОТР.**
@@ -73,15 +73,15 @@
 
 **PEOPLE:**
 
-   1. May Weissman — System Engineering and Ground Segment (2017 ‑ 2019, [SpaceIL](zz_spaceil.md))
-   1. Lior Ezrai — Mission controller (2018 ‑ 2019, [SpaceIL](zz_spaceil.md))
-   1. Tomer Klein — Deputy Head Of Mission (2019, [SpaceIL](zz_spaceil.md))
-   1. Eran Shmidt — Deputy Manager, GS ([SpaceIL](zz_spaceil.md))
-   1. Amir Notea — Simulation engineer (2016 ‑ 2019, [SpaceIL](zz_spaceil.md))
-   1. Avi Barliya — Project manager (2013 ‑ 2016, [SpaceIL](zz_spaceil.md))
-   1. Noam Arkind — control algorithms for the entire mission (2011 ‑ 2013, [SpaceIL](zz_spaceil.md))
+   1. May Weissman — System Engineering and Ground Segment (2017 ‑ 2019, [SpaceIL](contact/spaceil.md))
+   1. Lior Ezrai — Mission controller (2018 ‑ 2019, [SpaceIL](contact/spaceil.md))
+   1. Tomer Klein — Deputy Head Of Mission (2019, [SpaceIL](contact/spaceil.md))
+   1. Eran Shmidt — Deputy Manager, GS ([SpaceIL](contact/spaceil.md))
+   1. Amir Notea — Simulation engineer (2016 ‑ 2019, [SpaceIL](contact/spaceil.md))
+   1. Avi Barliya — Project manager (2013 ‑ 2016, [SpaceIL](contact/spaceil.md))
+   1. Noam Arkind — control algorithms for the entire mission (2011 ‑ 2013, [SpaceIL](contact/spaceil.md))
    1. Alex Padwa — spacecraft industrial design
-   1. Avi Nudler — project and technical aspects of the solution (2014 ‑ 2016, [SpaceIL](zz_spaceil.md))
+   1. Avi Nudler — project and technical aspects of the solution (2014 ‑ 2016, [SpaceIL](contact/spaceil.md))
 
 **COMMUNITY:**
 
@@ -94,7 +94,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

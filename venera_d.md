@@ -629,61 +629,61 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 
 |°|*[Org.](contact.md)*|*[Member](contact.md)*|
 |:--|:--|:--|
-|**Lavochkin Association**|**203**|[Merkulov Petr Vladimirovich](zz_меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager|
-| |**500**|[Sysoev Valentin Konstantinovich](zz_сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision|
-| |**500**|[Eroshkin Vladimir Nikitovich](zz_ерошкин1.md)<br>(Ерошкин, Владимир Никитович)|
-| |· **510**|[Sedykh Oleg Yurievich](zz_седых1.md)<br>(Седых, Олег Юрьевич)|
+|**Lavochkin Association**|**203**|[Merkulov Petr Vladimirovich](contact/меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager|
+| |**500**|[Sysoev Valentin Konstantinovich](contact/сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision|
+| |**500**|[Eroshkin Vladimir Nikitovich](contact/ерошкин1.md)<br>(Ерошкин, Владимир Никитович)|
+| |· **510**|[Sedykh Oleg Yurievich](contact/седых1.md)<br>(Седых, Олег Юрьевич)|
 | |**511**|Kosenkova Anastasia Vladimirovna<br>(Косенкова, Анастасия Владимировна)|
-| |· **512**|[Ivanov Sergey Veniaminovich](zz_иванов6.md)<br>(Иванов, Сергей Вениаминович)|
+| |· **512**|[Ivanov Sergey Veniaminovich](contact/иванов6.md)<br>(Иванов, Сергей Вениаминович)|
 | |· **512**|Martynov Alexey Borisovich<br>(Мартынов, Алексей Борисович)|
 | |· **512**|Pisarenko Pavel Dmitrievich<br>(Писаренко, Павел Дмитриевич)|
 | |· **512**|Feofanov Artem Sergeevich<br>(Феофанов, Артём Сергеевич)|
 | |**514**|Kudryavtsev Aleksandr Nikolaevich<br>(Кудрявцев, Александр Николаевич) — landing and dynamics|
-| |· **515**|[Kotlyarov Yevgeny Yuryevich](zz_котляров1.md)<br>(Котляров, Евгений Юрьевич) — thermal control system|
-| |**517**|[Simonov Aleksandr Vladimirovich](zz_симонов1.md)<br>(Симонов, Александр Владимирович) — ballistics and navigation software|
-| |· **570**|[Zaitsev Alexey Nikolaevich](zz_зайцев1.md)<br>(Зайцев, Алексей Николаевич) — earth-based testing equipment|
-| |**574**|[Bogachev Vyacheslav Alexeevich](zz_богачёв1.md)<br>(Богачёв, Вячеслав Алексеевич) — materials|
+| |· **515**|[Kotlyarov Yevgeny Yuryevich](contact/котляров1.md)<br>(Котляров, Евгений Юрьевич) — thermal control system|
+| |**517**|[Simonov Aleksandr Vladimirovich](contact/симонов1.md)<br>(Симонов, Александр Владимирович) — ballistics and navigation software|
+| |· **570**|[Zaitsev Alexey Nikolaevich](contact/зайцев1.md)<br>(Зайцев, Алексей Николаевич) — earth-based testing equipment|
+| |**574**|[Bogachev Vyacheslav Alexeevich](contact/богачёв1.md)<br>(Богачёв, Вячеслав Алексеевич) — materials|
 |°|• • •|• • •|
 |**RU**|**[4116 ВП](вп.md)**| |
 | | | |
-| |**[Vernadsky Institute of Geochemistry and Analytical Chemistry, RAS (ГЕОХИ)](zz_геохи_ран.md)**|[Ivanov Mikhail Arsenyevich](zz_иванов4.md)<br>(Иванов, Михаил Арсеньевич) — surface geology|
+| |**[Vernadsky Institute of Geochemistry and Analytical Chemistry, RAS (ГЕОХИ)](contact/геохи_ран.md)**|[Ivanov Mikhail Arsenyevich](contact/иванов4.md)<br>(Иванов, Михаил Арсеньевич) — surface geology|
 | | | |
-| |**[Russian Space Research Institute (ИКИ РАН)](zz_ики_ран.md)**|[Weisberg Oleg Leonidovich](zz_вайсберг1.md)<br>(Вайсберг, Олег Леонидович) — plasma instruments|
-| | |[Gerasimov Mikhail Vladimirovich](zz_герасимов1.md)<br>(Герасимов, Михаил Владимирович) — **responsible for the target equipment;** the chemistry of the surface and atmosphere|
-| | |[Gorinov Dmitry Alexeevich](zz_горинов1.md)<br>(Горинов, Дмитрий Алексеевич) — **main contact person**|
-| | |[Zasova Lyudmila Veniaminovna](zz_засова1.md)<br>(Засова, Людмила Вениаминовна) — co-chair of JSDT (Russian side)|
-| | |[Zelenyi Lev Matveevich](zz_зелёный1.md)<br>(Зелёный, Лев Матвеевич) — …|
-| | |[Ignatiev Nikolai Igorevich](zz_игнатьев1.md)<br>(Игнатьев, Николай Игоревич) — atmosphere of Venus|
-| | |[Korablev Oleg Igorevich](zz_кораблёв1.md)<br>(Кораблёв, Олег Игоревич) — scientific program management|
-| | |[Kosov Aleksandr Sergeevich](zz_косов1.md)<br>(Косов, Александр Сергеевич) — …|
-| | |[Ksanfomaliti Leonid Vasilievich](zz_ксанфомалити1.md)<br>(Ксанфомалити, Леонид Васильевич) — …|
-| | |[Khatuntsev Igor Valeryevich](zz_хатунцев1.md)<br>(Хатунцев, Игорь Валерьевич) — atmosphere of Venus|
-| | |[Eismont Natan Andreevich](zz_эйсмонт1.md)<br>(Эйсмонт, Натан Андреевич) — ballistics|
+| |**[Russian Space Research Institute (ИКИ РАН)](contact/ики_ран.md)**|[Weisberg Oleg Leonidovich](contact/вайсберг1.md)<br>(Вайсберг, Олег Леонидович) — plasma instruments|
+| | |[Gerasimov Mikhail Vladimirovich](contact/герасимов1.md)<br>(Герасимов, Михаил Владимирович) — **responsible for the target equipment;** the chemistry of the surface and atmosphere|
+| | |[Gorinov Dmitry Alexeevich](contact/горинов1.md)<br>(Горинов, Дмитрий Алексеевич) — **main contact person**|
+| | |[Zasova Lyudmila Veniaminovna](contact/засова1.md)<br>(Засова, Людмила Вениаминовна) — co-chair of JSDT (Russian side)|
+| | |[Zelenyi Lev Matveevich](contact/зелёный1.md)<br>(Зелёный, Лев Матвеевич) — …|
+| | |[Ignatiev Nikolai Igorevich](contact/игнатьев1.md)<br>(Игнатьев, Николай Игоревич) — atmosphere of Venus|
+| | |[Korablev Oleg Igorevich](contact/кораблёв1.md)<br>(Кораблёв, Олег Игоревич) — scientific program management|
+| | |[Kosov Aleksandr Sergeevich](contact/косов1.md)<br>(Косов, Александр Сергеевич) — …|
+| | |[Ksanfomaliti Leonid Vasilievich](contact/ксанфомалити1.md)<br>(Ксанфомалити, Леонид Васильевич) — …|
+| | |[Khatuntsev Igor Valeryevich](contact/хатунцев1.md)<br>(Хатунцев, Игорь Валерьевич) — atmosphere of Venus|
+| | |[Eismont Natan Andreevich](contact/эйсмонт1.md)<br>(Эйсмонт, Натан Андреевич) — ballistics|
 | | | |
-| |**[Institute of Radio-engineering and Electronics (ИРЭ РАН)](zz_ирэ_ран.md)**|[Gavrik Anatoly Leonidovich](zz_гаврик1.md)<br>Гаврик, Анатолий Леонидович) — …|
+| |**[Institute of Radio-engineering and Electronics (ИРЭ РАН)](contact/ирэ_ран.md)**|[Gavrik Anatoly Leonidovich](contact/гаврик1.md)<br>Гаврик, Анатолий Леонидович) — …|
 | | | |
-| |**[Roscosmos (Роскосмос)](zz_роскосмос.md)**|[Voron Viktor Vladimirovich](zz_ворон1.md)<br>(Ворон, Виктор Владимирович) — chair of the working group|
+| |**[Roscosmos (Роскосмос)](contact/роскосмос.md)**|[Voron Viktor Vladimirovich](contact/ворон1.md)<br>(Ворон, Виктор Владимирович) — chair of the working group|
 | | |[Elshansky Leonid Borisovich](person.md)<br>(Елшанский, Леонид Борисович) — **main contact person**|
 | | | |
-| |**[TsNIIMash (ЦНИИмаш)](zz_tsniimash.md)**|[Burdanov Anton Vladimirovich](zz_бурданов1.md)<br>(Бурданов, Антон Владимирович) — technologies|
+| |**[TsNIIMash (ЦНИИмаш)](contact/tsniimash.md)**|[Burdanov Anton Vladimirovich](contact/бурданов1.md)<br>(Бурданов, Антон Владимирович) — technologies|
 |°|• • •|• • •|
 |**US**|**[Chicago Univ.](chicago_univ.md)**|[Economou, Thanasis](person.md)<br> — chemical analysis|
 | | | |
-| |**[GRC](zz_grc.md)**|[Kremic, Tibor](person.md) — technologies, small landers|
+| |**[GRC](contact/grc.md)**|[Kremic, Tibor](person.md) — technologies, small landers|
 | | | |
-| |~~**[GSFC](zz_gsfc.md)**~~|~~[Glaze, Lori](person.md)~~|
+| |~~**[GSFC](contact/gsfc.md)**~~|~~[Glaze, Lori](person.md)~~|
 | | | |
-| |**[JPL](zz_jpl.md)**|[Hall, Jeffery L.](person.md) — technical realizability assessment|
+| |**[JPL](contact/jpl.md)**|[Hall, Jeffery L.](person.md) — technical realizability assessment|
 | | |[Ocampo, Adriana Christian](person.md) — administrator JSDT (NASA); the lead scientist for NASA’s exploration of Venus|
 | | | |
-| |**[NASA](zz_nasa.md)**|~~[Ewan, Shannon](person.md)~~|
+| |**[NASA](contact/nasa.md)**|~~[Ewan, Shannon](person.md)~~|
 | | |[Maroko, Elena](person.md) — aerospace specialist at the NASA Moscow office|
 | | |~~[Tilman, Justin Eugene](person.md) — NASA representative in Russia~~|
 | | | |
-| |**[SWRI](zz_swri.md)**|[Limaye, Sanjay Shridhar](person.md) — atmosphere of Venus|
+| |**[SWRI](contact/swri.md)**|[Limaye, Sanjay Shridhar](person.md) — atmosphere of Venus|
 | | |[Jessup, Kandis Lea](person.md) — observation and modeling of the atmosphere|
 | | | |
-| |**[UB](zz_buffalo_univ.md)**|[Gregg, Tracy](person.md) — co-chair of JSDT (USA side); geology|
+| |**[UB](contact/buffalo_univ.md)**|[Gregg, Tracy](person.md) — co-chair of JSDT (USA side); geology|
 
 </small>
 
@@ -701,9 +701,9 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Проекты:`**<br> [PSDS](us_psds.md)・ [Индексы проектов на НПОЛ](zz_lav.md)・ [Маскоты](zz_lav.md)・ [Морская группировка космических аппаратов](mgsc.md)・ [О прошлом, будущем и всём таком](pfaeverything.md)・ [Стоимость грамма КА](sc_price.md)・ [Стоимость работ на НПОЛ](zz_lav.md)・ [Типовые формы КА](ка_типформы.md)|
+|**`Проекты:`**<br> [PSDS](us_psds.md)・ [Индексы проектов на НПОЛ](contact/lav.md)・ [Маскоты](contact/lav.md)・ [Морская группировка космических аппаратов](mgsc.md)・ [О прошлом, будущем и всём таком](pfaeverything.md)・ [Стоимость грамма КА](sc_price.md)・ [Стоимость работ на НПОЛ](contact/lav.md)・ [Типовые формы КА](ка_типформы.md)|
 
    1. Docs:
       - [KK VD source data](f/project/v/venera_d/KK_VD_source_data.pdf)

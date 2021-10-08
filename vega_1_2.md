@@ -174,7 +174,7 @@ Data from landers were relayed to the Earth via fly‑by, and from aerostates �
 
 The television systems of both **fly‑by spacecraft** were of the same type. They consisted of two TV cameras: a long-focus camera that gave a resolution of 100 m at a distance of 10 000 ㎞, and a short-focus camera with a resolution of 800 m, but a large field of view. The image of each camera was taken on a 512 × 512 matrix of silicon solar cells, in the range of 400 − 1000 nm. When shooting the comet, Vega occupied a fixed position in the three‑axis coordinate system thanks to gyroscopes that controlled the jet engines. The television system was located on a rotating platform, which, rotating according to the commands given by the television system, was directed to the comet. Other scientific equipment was also installed on the fly‑by.
 
-**The lander** was equipped with scientific instruments, as well as a drilling rig to study the composition of the soil ([WB 02](vb02.md) on Vega 2)
+**The lander** was equipped with scientific instruments, as well as a drilling rig to study the composition of the soil ([WB 02](sss_lst.md) on Vega 2)
 
 **The aerostat** consisted of a teflon shell with a diameter of 3.4 m, filled with helium, and a 6.9 ㎏ gondola suspended from a 13 m long nylon halyard. Equipment for measuring meteorological parameters, a radio system and a power supply are installed on the supporting structure of the gondola. The envelope of the aerostat in the operating state was filled with helium over-pressure. The shell was transparent to radio waves.
 
@@ -226,7 +226,7 @@ The aerostat’s electronics provided unidirectional communication with the Eart
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

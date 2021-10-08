@@ -222,7 +222,7 @@ Orbiter payload mass: 92 ㎏.
 
 **Instruments for operation on the surface of Venus:**
 
-   - Drill and sampling system **[GZU VB-02](vb02.md)**;
+   - Drill and sampling system **[GZU VB-02](sss_lst.md)**;
    - [X‑ray fluorescence (XRF)](xrf.md) spectrometer **Arakhis-2** to study the composition of surface rocks ([EVN‑024](venus.md));
    - Rotating conical penetrometer for measuring the bearing capacity of the soil **PrOP-V**. Designed to determine the mechanical properties of the surface material, regardless of whether it is loose or rock. It consisted of a conical head that could rotate around its axis at the end of a lever and was located directly on the surface;
    - Chemical Redox Indicator **Kontrast** of the oxidation state of the atmosphere. Indicator to search for traces of oxygen in the atmosphere of Venus.
@@ -308,7 +308,7 @@ The cameras were installed inside the airtight and thermally insulated compartme
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

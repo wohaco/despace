@@ -70,14 +70,14 @@ Usually includes:
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Canadensys](zz_canadensys.md)<br> ・[Telecan Space](zz_telecan_space.md) — Thermal R&D|
+|**CA**|・[Canadensys](contact/canadensys.md)<br> ・[Telecan Space](contact/telecan_space.md) — Thermal R&D|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Sumitomo PP](zz_sumitomo_pp.md) — heat exchangers & control systems|
+|**JP**|・[Sumitomo PP](contact/sumitomo_pp.md) — heat exchangers & control systems|
 |**KR**|…|
-|**RU**|・TCS of a SC can design anyone who design SC ([VNIIEM](zz_vniiem.md), [ISS](zz_iss_r.md), [LAV](zz_lav.md), etc.)<br> ・TCS of a SC units can design anyone who design OE<br> ・[NII TP](zz_niitp.md) — thermal accumulators<br> ・[NIIYAF MSU](zz_ниияф_мгу.md) — RHU, RTG|
+|**RU**|・TCS of a SC can design anyone who design SC ([VNIIEM](contact/vniiem.md), [ISS](contact/iss_r.md), [LAV](contact/lav.md), etc.)<br> ・TCS of a SC units can design anyone who design OE<br> ・[NII TP](contact/niitp.md) — thermal accumulators<br> ・[NIIYAF MSU](contact/ниияф_мгу.md) — RHU, RTG|
 |**SA**|…|
 |**SG**|…|
 |**US**|…|
@@ -90,7 +90,7 @@ Usually includes:
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【Thermal control system (TCS)】**<br> [Thermal characteristics](thermal_chars.md)・ [Гермоконтейнер](гермоконтейнер.md)・ [Насосы для СОТР](сотр_насос.md)・ [Покрытия для СОТР](сотр_покрытия.md)・ [Радиатор](радиатор.md)・ [РИТ (РИТЭГ)](rtg.md)・ [Стандартные условия](sctp.md)・ [Тепловая труба](hp.md)・ [ТЗП](hs.md)・ [Тепловой аккумулятор](heat_bank.md)・ [ТСП](tsp.md)・ [Шторка](thermal_curtain.md)・ [ЭВТИ](mli.md)|
 

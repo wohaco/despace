@@ -22,7 +22,7 @@
       - [White paper](colour_papers.md)
    1. **Опытно‑конструкторские работы (ОКР)** и *Технологические работы (ТР)* — разработка КД и ТД на опытный образец, изготовление и испытания опытного образца.
 
-Ниже приведены типовые этапы разработки ОКР (СЧ ОКР) в РФ и [ESA](zz_esa.md). По согласованию с Заказчиком этапы могут исключаться и вводиться новые. Цели нижеприведённого:
+Ниже приведены типовые этапы разработки ОКР (СЧ ОКР) в РФ и [ESA](contact/esa.md). По согласованию с Заказчиком этапы могут исключаться и вводиться новые. Цели нижеприведённого:
 
    1. стандартизация [работ](workflow.md) и документации для различных этапов ОКР;
    1. уменьшение количества [ошибок](error.md) и разночтений [НД](doc.md) для исполнителя и [кооперации](contact.md);
@@ -129,7 +129,7 @@ Common spacecraft R&D team:
 
 **За рубежом.**
 
-[Spacecraft systems](scs.md) are normally developed under the responsibility of space agencies as [NASA](zz_nasa.md), [ESA](zz_esa.md) etc. In the space area standardized terms & processes have been introduced to allow for unambiguous communication between all partners & efficient usage of all documents. For instance the life cycle of [SCS](scs.md) is divided in phases.  
+[Spacecraft systems](scs.md) are normally developed under the responsibility of space agencies as [NASA](contact/nasa.md), [ESA](contact/esa.md) etc. In the space area standardized terms & processes have been introduced to allow for unambiguous communication between all partners & efficient usage of all documents. For instance the life cycle of [SCS](scs.md) is divided in phases.  
 На каждом этапе проводятся [design review](design_review.md).
 
 
@@ -170,7 +170,7 @@ Define NGOs (need, goals, objectives).
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 

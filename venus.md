@@ -141,7 +141,7 @@ Common areas & possible landing sites.
 
 Tessera represents an ancient time of globally thin Venus lithosphere. Tessera doesn’t participate in global resurfacing events. It was thought that the Tessera might form a global “onion skin” of sorts, & extended beneath Venus regional plains. However, the currently accepted models support regional formation. Multiple models have been put forward to explain the tessera formation. Models of formation by mantle downwelling & pulsating continents are the most currently accepted models. A model of formation due to a lava pond via bolide impact was put forth, although it hasn’t currently gained many acceptions due to skepticism of the bolide impact ability to generate sufficient melt. A model of formation due to mantle plumes (upwelling) was persistent for many years, however, it has since been abandoned due to its contradictory prediction of sequences of extension versus the observed cross‑cutting relationships.
 
-[Pioneer Venus 1](pioneer_venus_1.md) detected regions of anomalous radar properties & high backscatter. Using [SAR](sar.md) imaging the [Venera 15,16](venera_15_16.md) orbiters revealed these regions to be chaotically tiled terrain, which Soviet scientists named “parquet” (tiled floors) later known as “Tessera”. The most recent data concerning tessera comes from the [Magellan](magellan.md), in which the majority of the surface was mapped in high‑res (~ 100 m/px). Future Venus missions would allow further tessera understanding.
+[Pioneer Venus 1](pioneer_venus_1.md) detected regions of anomalous radar properties & high backscatter. Using [SAR](cam.md) imaging the [Venera 15,16](venera_15_16.md) orbiters revealed these regions to be chaotically tiled terrain, which Soviet scientists named “parquet” (tiled floors) later known as “Tessera”. The most recent data concerning tessera comes from the [Magellan](magellan.md), in which the majority of the surface was mapped in high‑res (~ 100 m/px). Future Venus missions would allow further tessera understanding.
 
 Tessera covers ~ 7.3 % (33 200 000 ㎞²) of the surface, & occurs mostly within a few extensive provinces. They are heavily concentrated at 0 ‑ 150 °E. These longitudes represent a large area between a crustal extension center in the Aphrodite Terra & a crustal convergence center in Ishtar Terra. Tessera is exposed almost entirely within the crustal plateaus; their inliers, regions of tessera not found within the current crustal plateaus are thought to represent regions of collapsed crustal plateaus. Large tessera regions are labeled based on their latitude: in the equatorial & southern latitudes — Regio, in the northern latitudes — Tessera. Some well‑explored regions include Aphrodite Terra, Alpha Regio, Beta Regio, Fortuna Tessera, Ovda Regio. A comprehensive list of Regions & Tessera can be found at <https://en.wikipedia.org/wiki/List_of_geological_features_on_Venus>.
 
@@ -177,8 +177,8 @@ Individual tessera patterns record the variations in interactions of the mantle 
    1. Launch window opens ~ every 19 months (1 y 7 m).
    1. **Testing equipment:**
       - Hi‑pressure vessels:
-         - [AVEC](avec.md) (V = 0.000 7 m³, [JHU APL](zz_jhuapl.md)),
-         - [GEER](geer.md) (V = 0.811 m³ & 0.004 m³, [GRC](zz_grc.md)).
+         - [AVEC](avec.md) (V = 0.000 7 m³, [JHU APL](contact/jhuapl.md)),
+         - [GEER](geer.md) (V = 0.811 m³ & 0.004 m³, [GRC](contact/grc.md)).
 
 **Table.** [Dependency between the complexity, price & science impact ❐](f/aob/venus/cps_dependency.odt).
 
@@ -1777,7 +1777,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Blue Marble](earth.md)・ [Cosmic rays](cr.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Timezones](time.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|
 
@@ -1791,8 +1791,8 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. <https://en.wikipedia.org/wiki/4MV>
    1. <https://en.wikipedia.org/wiki/Life_on_Venus>
    1. <https://en.wikipedia.org/wiki/2MV>
-   1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](zz_alpo.md) Venus section
-   1. <http://alpo-j.asahikawa-med.ac.jp/Latest/Venus.htm> — [ALPO‑J](zz_alpo.md) Venus section
+   1. <http://www.alpo-astronomy.org/venusblog/> — [ALPO](contact/alpo.md) Venus section
+   1. <http://alpo-j.asahikawa-med.ac.jp/Latest/Venus.htm> — [ALPO‑J](contact/alpo.md) Venus section
    1. <http://neonka.info/despace/#!venus.md>
    1. <http://mentallandscape.com/>
    1. <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>

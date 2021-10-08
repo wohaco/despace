@@ -29,7 +29,7 @@ Compared to [nuclear reactors](nr.md), which use a chain reaction, RTGs are much
 
 | |*[Company](contact.md)*|*Actual*|
 |:--|:--|:--|
-|**RU**|[RFNC‑VNIIEF](zz_vniief.md)|**RTG:** [RITEG‑238‑6,5/3](rtg_238_6_5_3.md)<br> **RHU:** [TB‑8,5](tb_8_5.md)|
+|**RU**|[RFNC‑VNIIEF](contact/vniief.md)|**RHU:** [TB‑8,5](rtg_lst.md)<br> **RTG:** [RITEG‑238‑6,5/3](rtg_lst.md)|
 |•|• • • • • • • • • • •|• • •|
 |**US**|City Labs|P200|
 
@@ -79,11 +79,11 @@ There is a concept of subcritical RTGs. The subcritical generator consists of a 
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Radioisotope thermoelectric generator (RTG)](rtg.md)】**<br> … <br>• • •<br> **RU:** [RITEG-238-6,5/3](rtg_238_6_5_3.md)・ [TB-8,5](tb_8_5.md)|
+|**【[Radioisotope thermoelectric generator (RTG)](rtg.md)】**<br> … <br>• • •<br> **RU:** [RITEG-238-6,5/3](rtg_lst.md)・ [TB-8,5](rtg_lst.md)|
 |**【Thermal control system (TCS)】**<br> [Thermal characteristics](thermal_chars.md)・ [Гермоконтейнер](гермоконтейнер.md)・ [Насосы для СОТР](сотр_насос.md)・ [Покрытия для СОТР](сотр_покрытия.md)・ [Радиатор](радиатор.md)・ [РИТ (РИТЭГ)](rtg.md)・ [Стандартные условия](sctp.md)・ [Тепловая труба](hp.md)・ [ТЗП](hs.md)・ [Тепловой аккумулятор](heat_bank.md)・ [ТСП](tsp.md)・ [Шторка](thermal_curtain.md)・ [ЭВТИ](mli.md)|
-|**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](rotor.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](voltage.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](bak_01.md)・ [KAS‑LOA](kas_loa.md)|
+|**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|
 
    1. Docs: …
    1. Notable interwikies — …

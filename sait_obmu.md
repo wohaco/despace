@@ -8,7 +8,7 @@
 > <small>**SAIT On-board Memory Unit (OBMU)** — англоязычный термин, не имеющий аналога в русском языке. **Бортовой модуль памяти НПП Саит (OBMU)** — дословный перевод с английского на русский.</small>
 
 **SAIT On-board Memory Unit (OBMU)** — постоянное запоминающее устройство (ПЗУ) на основе твердотельного накопителя для хранения цифровой информации.  
-*Разработчик:* [НПП Саит](zz_sait_ltd.md). Разработано ранее 2013 года активное применение
+*Разработчик:* [НПП Саит](contact/sait_ltd.md). Разработано ранее 2013 года активное применение
 
 |*Characteristics*|*[Value](si.md)<br> (OBMU)*|
 |:--|:--|
@@ -23,7 +23,7 @@
 |[Reliability](qm.md) per [lifetime](lifetime.md)|0.995|
 |[Thermal range](tcs.md), ℃|–20 ‑ +50|
 |[TRL](trl.md)|9|
-|[Voltage](voltage.md), V|27 (22 ‑ 35)|
+|[Voltage](sps.md), V|27 (22 ‑ 35)|
 |**【Specific】**|• • •|
 |Algorithms (compr.)| |
 |Algorithms (encryp.)| |
@@ -45,7 +45,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](5dods.md) <br>• • •<br> **Европа:** [SSR](ssr.md) (8)・ [Sirius TCM](sirius_tcm.md) (0.14)  ▮  **РФ:** [СЗИ-М](szi_m.md) (11.8)・ [OBMU](sait_obmu.md) (1.8)|
 

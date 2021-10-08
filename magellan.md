@@ -7,7 +7,7 @@
 
 > <small>**Magellan** — EN term. **Магеллан** — RU analogue.</small>
 
-The **Magellan** spacecraft, also referred to as the ***Venus Radar Mapper***, was a 1 035 ㎏ ([EVN‑073](venus.md)) robotic space probe launched by [NASA](zz_nasa.md) on 1989.05.04, to map the surface of Venus by using [synthetic aperture radar](sar.md) and to measure the planetary gravitational field ([EVN‑089](venus.md)).
+The **Magellan** spacecraft, also referred to as the ***Venus Radar Mapper***, was a 1 035 ㎏ ([EVN‑073](venus.md)) robotic space probe launched by [NASA](contact/nasa.md) on 1989.05.04, to map the surface of Venus by using [synthetic aperture radar](cam.md) and to measure the planetary gravitational field ([EVN‑089](venus.md)).
 
 The Magellan probe was the first interplanetary mission to be launched from the Space Shuttle, the 1st one to use the Inertial Upper Stage booster for launching, and the 1st SC to test aerobraking as a method for circularizing its orbit. Magellan was the fifth successful NASA mission to Venus.
 
@@ -272,7 +272,7 @@ The computing system on the spacecraft, partially modified equipment from the Ga
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

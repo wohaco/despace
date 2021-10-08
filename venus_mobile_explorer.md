@@ -11,7 +11,7 @@
 
 NASA Headquarters commissioned the Goddard Space Flight Center’s (GSFC) Architecture Design Lab with a rapid mission architecture study to support the National Research Council’s 2010 Planetary Decadal Survey Inner Planets Panel. The purpose of the study was to determine whether a Venus mission with surface, or near‑surface, mobility and realistic operational lifetime could achieve meaningful surface science at two or more independent locations separated by several kilometers on a budget comparable to a New Frontiers cost envelope.
 
-Original of NASA’s report: 2009.12.18 ([GSFC](zz_gsfc.md), [JPL](zz_jpl.md), [ARC](zz_arc.md)).
+Original of NASA’s report: 2009.12.18 ([GSFC](contact/gsfc.md), [JPL](contact/jpl.md), [ARC](contact/arc.md)).
 
 ![](f/project/v/venus_mobile_explorer/pic01.jpg)
 
@@ -231,7 +231,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

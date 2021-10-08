@@ -7,15 +7,15 @@
 
 > <small>**Десятый московский симпозиум по солнечной системе** — русскоязычный термин, не имеющий аналога в английском языке. **The 10th Moscow Solar System Symposium** — дословный перевод с русского на английский.</small>
 
-The **Tenth Moscow international Solar System Symposium (10M‑S³)** will be held from October 7 till 11, 2019. 10M‑S³, [Space Research Institute](zz_iki_ras.md), Moscow, Russia, 2019.10.07‑11. Subject matter of this symposium will cover many problems of the Solar system science with the central topic «Moon, Mars & Venus research». This topic relates to scientific problems of several missions: «Mars Express», «Venus Express», the missions under development in Russia: «Luna‑Glob», «Luna‑Resource», «ExoMars 2016» & «ExoMars 2020» (Roscosmos‑ESA).
+The **Tenth Moscow international Solar System Symposium (10M‑S³)** will be held from October 7 till 11, 2019. 10M‑S³, [Space Research Institute](contact/iki_ras.md), Moscow, Russia, 2019.10.07‑11. Subject matter of this symposium will cover many problems of the Solar system science with the central topic «Moon, Mars & Venus research». This topic relates to scientific problems of several missions: «Mars Express», «Venus Express», the missions under development in Russia: «Luna‑Glob», «Luna‑Resource», «ExoMars 2016» & «ExoMars 2020» (Roscosmos‑ESA).
 
 |*MSSS 10*|<https://ms2019.cosmos.ru>|
 |:--|:--|
 |Date|October 7 till 11, 2019|
-|Venue|[Space Research Institute](zz_iki_ras.md), Moscow, Russia|
-|Host Org.|[Space Research Institute](zz_iki_ras.md)|
+|Venue|[Space Research Institute](contact/iki_ras.md), Moscow, Russia|
+|Host Org.|[Space Research Institute](contact/iki_ras.md)|
 |Co‑host Org.| |
-|Supported by|Russian Foundation for Basic Research;<br> Vernadsky Institute of Geochemistry & Analytical Chemistry RAS, Russia;<br> Brown University, USA;<br> Schmidt Institute of Physics of the Earth RAS, Russia;<br> [Keldysh Institute of Applied Mathematics RAS](zz_keldysh_ipm.md), Russia;<br> Kotelnikov Institute of Radio-engineering & Electronics RAS, Russia;<br> Sternberg Astronomical institute, Moscow State University, Russia|
+|Supported by|Russian Foundation for Basic Research;<br> Vernadsky Institute of Geochemistry & Analytical Chemistry RAS, Russia;<br> Brown University, USA;<br> Schmidt Institute of Physics of the Earth RAS, Russia;<br> [Keldysh Institute of Applied Mathematics RAS](contact/keldysh_ipm.md), Russia;<br> Kotelnikov Institute of Radio-engineering & Electronics RAS, Russia;<br> Sternberg Astronomical institute, Moscow State University, Russia|
 |Accepted by| |
 |Content|Oral & Poster Presentations|
 |Focus| |
@@ -100,7 +100,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 
 |*Страна*|*Участники*|*Презентации*|*Постеры*|
 |:--|:--|:--|:--|
-|США|… <small>(… [NASA](zz_nasa.md)/JPL, … университеты)</small>|…|…|
+|США|… <small>(… [NASA](contact/nasa.md)/JPL, … университеты)</small>|…|…|
 |Япония|… <small>(… JAXA, … университеты)</small>|…|…|
 |Европа|…|…|…|
 |Россия|… <small>(… НПОЛ, … университеты)</small>|…|…|
@@ -115,7 +115,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 |*Конференция*|*Участники*|
 |:--|:--|
 |**[IVC 2019](ivc_2019.md)**|Anastasia Kosenkova, Alexey Martynov|
-|**[2019 VD Workshop](vdws2019.md)**|[Andrey Belov](zz_belov2.md), [Richard Ernst](person.md), [Mikhail Ivanov](person.md), Anastasia Kosenkova, [Oleg Kotsyurbenko](person.md), [Margarita Kruchkova](zz_kruchkova1.md), Alexey Martynov, Pavel Pisarenko, [Ludmila Zasova](person.md)|
+|**[2019 VD Workshop](vdws2019.md)**|[Andrey Belov](contact/belov2.md), [Richard Ernst](person.md), [Mikhail Ivanov](person.md), Anastasia Kosenkova, [Oleg Kotsyurbenko](person.md), [Margarita Kruchkova](contact/kruchkova1.md), Alexey Martynov, Pavel Pisarenko, [Ludmila Zasova](person.md)|
 |**[VEXAG, 17th](vexag_2019.md)**| |
 
 **Таблица.** Презентации, постеры и прочие участники в порядке выступления.  
@@ -185,7 +185,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 |—|—|—|**`Session. Moon & Mercury`**|
 | |Johannes Benkhoff|ESA|The status of the BepiColombo mission|
 | |Alexander Bazilevskiy| |Potential lunar base on Mons Malapert on Mons Malapert: topographic, geologic & trafficability consideration|
-| |[Evgenyi Slyuta](zz_sluta1.md)| |Formation of the scientific program of research of the Moon: from priority scientific tasks to scientific equipment|
+| |[Evgenyi Slyuta](contact/sluta1.md)| |Formation of the scientific program of research of the Moon: from priority scientific tasks to scientific equipment|
 | |Vladislav Shevchenko| |The far side of the Moon - 60 years of history (1959 – 2019)|
 | |[James Head](person.md) & L. Wilson| |Rethinking Lunar Mare Basalt Regolith Formation: New Concepts of Lava Flow Protolith & Evolution of Regolith Thickness & Internal Structure|
 | |Jessica Flahaut, J. N. Schnuriger| |Long-term, complex volcanic history of the Arago region of the Moon|
@@ -235,7 +235,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |Sergey Ipatov & Mikhail [Marov](person.md)| |Migration of planetesimals from different distances outside Mars’ orbit to the terrestrial planets & the Moon|
 | |Sergey Ipatov| |Probabilities of collisions of bodies from different zones of the feeding zone of the terrestrial planets with the forming planets, the Moon, & their embryos|
 | |Daniel Hestroffer| |Gaia & dynamics of Solar System Objects|
-| |[Evgenyi Slyuta](zz_sluta1.md)| |Gravitational deformation of small rocky bodies|
+| |[Evgenyi Slyuta](contact/sluta1.md)| |Gravitational deformation of small rocky bodies|
 | |Anna Kartashova| |Analysis of meteor characteristics by multi-technique observations|
 | |Ilan Roth| |The puzzle of meteorite abundance: anomalous enhancement of Mg-26 in Ca-Al inclusions|
 | | | |Silicate & iron spherules in regolite of the Moon: origin & characteristic features|
@@ -264,11 +264,11 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 | |Richard Hoover & Alexei Rozanov| |New Evidence for Indigenous Microfossils in Carbonaceous Chondrites|
 | |Mikhail Kapralov| |Astrobiological research in Dubna|
 | |Vladimir Cheptcov| |Survival of Radioresistant Bacteria on Europa’s Surface after Pulse Ejection of Subsurface Ocean Water|
-| |[Andrey Belov](zz_belov2.md)| |Edaphic bacterial communities of the extreme-arid Mojave desert: astrobiological implication|
+| |[Andrey Belov](contact/belov2.md)| |Edaphic bacterial communities of the extreme-arid Mojave desert: astrobiological implication|
 | |E.A. Deshevaya| |Space Experiment "Test". ISS as an Outpost of the Knowledge of the Universe|
 | |Andrey Kharitonov| |The Galactic cycles & Biological changes|
 | |[Oleg Kotsyurbenko](person.md)| |Methanogens as the model microbial group for astrobiology|
-| |[Margarita Kruchkova](zz_kruchkova1.md)| |How do the fungal communities from desert soils react to the impact of proton irradiation?: Astrobiological model experiment|
+| |[Margarita Kruchkova](contact/kruchkova1.md)| |How do the fungal communities from desert soils react to the impact of proton irradiation?: Astrobiological model experiment|
 
 </small>
 
@@ -279,7 +279,7 @@ The abstract file & accompanied information MUST be carefully submitted on the S
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
 

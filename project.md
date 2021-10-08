@@ -202,7 +202,7 @@
 |**1968.09.15**|возвращение АКА на Землю после облёта Луны (Зонд‑5, СССР)|
 |**1967.11.09**|пуск СТРН Saturn V (США)|
 |**1967.10.30**|стыковка двух АКА (Космос‑186 и Космос‑188, СССР)|
-|**1966.10.01**|КА с [ЭРД](epsp.md) (Янтарь‑1, СССР)|
+|**1966.10.01**|КА с [ЭРД](engine_type.md) (Янтарь‑1, СССР)|
 |**1966.04.03**|первый ИСЛ (Луна‑10, СССР)|
 |**1966.03.01**|посадка АКА на [Венеру](venus.md); полёт КА на планету ([Венера‑3](venera_2_3.md), СССР)|
 |**1966.02.03**|мягкая посадка на Луну; панорамные фото Луны (Луна‑9, СССР)|
@@ -264,13 +264,13 @@
 | | |
 |:--|:--|
 |**AE**|…|
-|**AU**|・[SERC](zz_serc.md) — space debris removal|
+|**AU**|・[SERC](contact/serc.md) — space debris removal|
 |**CA**|…|
 |**CN**|…|
-|**EU**|・[ClearSpace SA](zz_clearspace_sa.md) — space debris removal: technologies & services<br> ・Share My Space — collision warning & debris monitoring|
+|**EU**|・[ClearSpace SA](contact/clearspace_sa.md) — space debris removal: technologies & services<br> ・Share My Space — collision warning & debris monitoring|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[ALE](zz_ale.md) — space debris prevention<br> ・[Astroscale](zz_astroscale.md) — space debris removal, sat life extension services, end‑of‑life services<br> ・[Axelspace](zz_axelspace.md) — space debris solutions|
+|**JP**|・[ALE](contact/ale.md) — space debris prevention<br> ・[Astroscale](contact/astroscale.md) — space debris removal, sat life extension services, end‑of‑life services<br> ・[Axelspace](contact/axelspace.md) — space debris solutions|
 |**KR**|…|
 |**RU**|…|
 |**SA**|…|
@@ -615,9 +615,9 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md)・ [Аналитика](project.md)・ [Конценсус](consensus.md)・ [НПОЛ процессы](zz_нпол_п.md)・ [Словоблудие](verbiage.md)|
+|**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md)・ [Аналитика](project.md)・ [Конценсус](consensus.md)・ [НПОЛ процессы](contact/нпол_п.md)・ [Словоблудие](verbiage.md)|
 |**【[Project](project.md)】**<br> [Interferometer](interferometer.md)・ [NASA open](nasa_open.md)・ [NASA STI](nasa_sti.md)・ [NIH](nih.md)・ [Past, future and everything](pfaeverything.md)・ [PSDS](us_psds.md) [MGSC](mgsc.md)・ [Raman spectroscopy](raman_spsc.md)・ [SC price](sc_price.md)・ [SC typical forms](sc.md)・ [Tech derivative laws](td_laws.md)・ [View](view.md)・ [XRF](xrf.md)|
 
    1. Docs: …

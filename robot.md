@@ -20,12 +20,12 @@ Several approaches to the classification of robots can be used — for example, 
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[Deltion](zz_deltion.md)<br> ・[MDA](zz_mda.md)<br> ・[Space Concordia](zz_space_concordia.md) — (Student community) Robots<br> ・[UTIAS](zz_utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
+|**CA**|・[Deltion](contact/deltion.md)<br> ・[MDA](contact/mda.md)<br> ・[Space Concordia](contact/space_concordia.md) — (Student community) Robots<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Meltin](zz_meltin.md) — avatar robots|
+|**JP**|・[Meltin](contact/meltin.md) — avatar robots|
 |**KR**|…|
 |**RU**|…|
 |**SA**|…|
@@ -64,12 +64,12 @@ Several approaches to the classification of robots can be used — for example, 
 | | |
 |:--|:--|
 |**AU**|…|
-|**CA**|・[CSA](zz_csa.md)<br> ・[Deltion](zz_deltion.md)|
+|**CA**|・[CSA](contact/csa.md)<br> ・[Deltion](contact/deltion.md)|
 |**CN**|…|
 |**EU**|…|
 |**IN**|…|
 |**IL**|…|
-|**JP**|・[Harada Seiki](zz_harada_seiki.md)<br> ・[ispace](zz_ispace.md)|
+|**JP**|・[Harada Seiki](contact/harada_seiki.md)<br> ・[ispace](contact/ispace.md)|
 |**KR**|…|
 |**RU**|…|
 |**SA**|…|
@@ -121,7 +121,7 @@ Robots also can be used as scouts to check out new areas to be explored. Scout r
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Patent](патент.md)**·Пат., **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Robot](robot.md)】**<br> [Rover](robot.md)|
 |**【[Rover](robot.md)】**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md)|

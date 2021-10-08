@@ -14,7 +14,7 @@
 |[Reliability](qm.md) per [lifetime](lifetime.md)| 【TBD: a calculated/proven reliability】 |
 |[Thermal range](tcs.md), ℃| 【TBD: for an active condition & for transportation】 |
 |[TRL](trl.md)| 【TBD: current TRL】 |
-|[Voltage](voltage.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
+|[Voltage](sps.md), V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
 |Algorithms (compr.)| |
 |Algorithms (encryp.)| |
@@ -28,5 +28,4 @@
 **Notes:**
 
    1. …
-   1. **Applicability:**
-      - …
+   1. **Applicability:** …
