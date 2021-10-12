@@ -246,7 +246,7 @@ Etc:
 |**`Солнечный датчик (СД):`**<br> [ПЗр](fov.md) <br>• • •<br> (КА) **Европа:** [FSS](ss_lst.md) (650)・ [FSS](ss_lst.md) (50 ‑ 375)・ [CSS](ss_lst.md) (275)・ [CoSS](ss_lst.md) (15 ‑ 24)  ▮  **РФ:** [ТДС](ss_lst.md) (2 300)・ [347К](ss_lst.md) (700)・ [ОСД](ss_lst.md) (650)・ [СДП-1](ss_lst.md) (400)・ [SX-SUNR-01](ss_lst.md) (40)<br> *(Кубсаты) **США:** [MSS](ss_lst.md) (0.036)・ [CSS](ss_lst.md) (0.02)*|
 
    1. Docs:
-      - [ЗД, template](template_st.md) / [СД, template](template_ss.md)
+      - [ЗД, template](templates.md) / [СД, template](templates.md)
    1. Notable interwikies — …
    1. Sensor:
       1. <https://en.wikipedia.org/wiki/Sensor>

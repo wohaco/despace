@@ -28,7 +28,7 @@
    1. Use KISS (keep it simple, stupid). Because it seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove.
 
 Special symbols have to be used:  
-…°·•±×÷≤≥≈≠ ‑ −— ⎆ ↷✉ ❐“”’«»✔✘☐◪☑←↑→↓↔↕↖↗↘↙ ªⁱⁿº⁺⁻⁼⁽⁾ ⁰¹²³⁴⁵⁶⁷⁸⁹₊₋₌₍₎ ₀₁₂₃₄₅₆₇₈₉ₐₑₒₓₔₕₖₗₘₙₚₛₜ ░▒▓█┆╟║╙╓№©®™ ¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞π⌀∑∞√∛∜‰ ◯○⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ ｛｝（）［］【】・，、。「」『』 αβγδεζηθικλμνξο03C0πρςστυφχψω ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡΣΤΥΦΧΨΩ ➊➋➌➍➎➏➐➑➒➓ ➀➁➂➃➄➅➆➇➈➉⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯ ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ♳♴♵♶♷♸♹ etc. ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ ⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇    ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛  <br> №℡㏑㏒ ℃℉K ㎐㎑㎒㎓㎔ ㏈ ㎚㎜㎝㎞㎧㎳ ㍴ ㎅㎆㎇ ㎩㎪㎫㎬ ㏅㏐㏓ ㏙ ㎾㎿㎸㎹㎶㏁ ㎎㎏ ㎂㎃㎄ ㏉㏜㏂㏘ 😷😵😳😲😱😰😭😫😪😩😨😥😤😣😢😡😠😞😝😜😚😘😖😔😓😒😏😍😌😋😊😉😆😅😄😃😂😁👌👍👎👏✋✌
+…°·•±×÷≤≥≈≠ ‑ −— ⎆ ↷✉ ❐“”’«»✔✘☐◪☑←↑→↓↔↕↖↗↘↙ ªⁱⁿº⁺⁻⁼⁽⁾ ⁰¹²³⁴⁵⁶⁷⁸⁹₊₋₌₍₎ ₀₁₂₃₄₅₆₇₈₉ₐₑₒₓₔₕₖₗₘₙₚₛₜ ░▒▓█┆╟║╙╓№©®™ ¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞π⌀∑∞√∛∜‰ ◯○⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ ｛｝（）［］【】・，、。「」『』 αβγδεζηθικλμνξο03C0πρςστυφχψω ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡΣΤΥΦΧΨΩ ➊➋➌➍➎➏➐➑➒➓ ➀➁➂➃➄➅➆➇➈➉⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯ ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ♳♴♵♶♷♸♹ etc. ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ 👌👍👎👏✋✌ ⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇    ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛  <br> №℡㏑㏒ ℃℉K ㎐㎑㎒㎓㎔ ㏈ ㎚㎜㎝㎞㎧㎳ ㍴ ㎅㎆㎇ ㎩㎪㎫㎬ ㏅㏐㏓ ㏙ ㎾㎿㎸㎹㎶㏁ ㎎㎏ ㎂㎃㎄ ㏉㏜㏂㏘ 😷😵😳😲😱😰😭😫😪😩😨😥😤😣😢😡😠😞😝😜😚😘😖😔😓😒😏😍😌😋😊😉😆😅😄😃😂😁
 
 ~~~
 <p style="page-break-after:always"> </p>
@@ -68,9 +68,7 @@ Pretty far from what they call the proper list of sources, but that’s all we h
    1. <http://sewiki.ru/> — Systems engineering thinking wiki
    1. <https://space.skyrocket.de/doc/acronyms.htm>
    1. <https://spaceflightinsider.com/>
-   1. <https://en.wikipedia.org/>
-      - <https://ru.wikipedia.org/>
-      - <https://ru.wiktionary.org/>
+   1. <https://en.wikipedia.org/>・ <https://ru.wikipedia.org/>・ <https://ru.wiktionary.org/>
    1. [ГОСТ 16504-81](гост_16504.md)
    1. <https://www.spacematdb.com/>
    1. **Unicode** — <https://compart.com/en/unicode/category/So>, <https://htmlsymbols.xyz/unit-symbols>

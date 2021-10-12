@@ -62,7 +62,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |*En*|*Ru*|
 |:--|:--|:--|
 |**°**|**3-DOF** — three‑degrees of freedom| |
-| |**[5D optical data storage](5dods.md)**|≠ 5‑мерное хранилище информации|
+| |**[5D optical data storage](ds.md)**|≠ 5‑мерное хранилище информации|
 | |**6-DOF** — six‑degrees of freedom| |
 |**A**|**A‑Team** (see [JPL IF](jpl_if.md))|≠ Команда А|
 | |**[Ad hoc](ad_hoc.md)**|Специально для этого|
@@ -181,7 +181,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**SRRQ** — [Safety, reliability, risk, quality](qm.md)|≠ Безопасность, надёжность, риск, качество|
 | |**SSC GGSN** — [Swedish Space Corporation’s global ground station network](ssc_ggsn.md)|≠ **SSC GGSN** — Глобальная сеть наземных станций Шведской Космической Корпорации|
 | |**SSME** — Space Shuttle main engine|≠ **SSME** — главный двигатель космического челнока, он же двигатель [RS-25](rs_25.md)|
-| |**SSR** — [solid state recorder](ssr.md)|Твердотельное записывающее устройство|
+| |**SSR** — [solid state recorder](ds_lst.md)|Твердотельное записывающее устройство|
 | |**[STEM](stem.md)** — science, technology, engineering, & mathematics|≠ **STEM** — наука, технология, инженерия и математика|
 | |**STEP** — standard for exchange of product model data (see [CAD‑форматы](cad_f.md))|**STEP** — стандарт обмена данными модели изделия|
 | |**STI** — [scientific & technical information program](nasa_sti.md)|≠ **ПНТИ** — программа научной и технической информации|

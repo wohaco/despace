@@ -58,7 +58,7 @@ A list of [Engines](ps.md).
 **Notes:**
 
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/1n-hydrazine-thruster.html> — [archive ❐](f/ps/1nmht_site.pdf) of 2019.02.21)
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/1n-hydrazine-thruster.html> — [archive ❐](f/ps/1nmht_site.pdf) of 2019.02.21
    1. Specs’re for vacuum & nominal continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **Applicability:** CSO-3 (…)・ CSO-2 (…)・ CSO-1 (2016)・ Sentinel 2B (2016)・ Sentinel 5P (2016)・ SEOSAT (Ingenio) (2015)・ Sentinel 2A (2015)・ SEOSAR (Paz) (2015)・ Taranis (2015)・ AstroTerra 2 (2014)・ KRS (2014)・ Jason-3 (2013)・ Vietnam-1 (2013)・ AstroTerra 1 (2012)・ Pleiades HR2 (2012)・ Elisa-1 (2011)・ Elisa-2 (2011)・ Elisa-3 (2011)・ Elisa-4 (2011)・ Pleiades HR1 (2011)・ SSOT (2011)・ Alsat 2A (2010)・ Alsat 2B (2010)・ CosmoSkymed-4 (2010)・ TANDEM-X (2010)
 

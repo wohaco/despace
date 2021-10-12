@@ -90,7 +90,7 @@ A list of [Reaction wheels](sensor.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Агат‑15)*|
 |:--|:--|
-|Composition|4 УДМ [УДМ‑15‑0,15](udm_15.md); 1 БА.<br> БА содержит 4 канала управления моментом. Каждый из каналов управления моментом управляет соответствующим УДМ. Агат‑15 обеспечивает формирование динамических моментов по осям вращения каждого УДМ.|
+|Composition|4 УДМ [УДМ‑15‑0,15](rw_lst.md); 1 БА.<br> БА содержит 4 канала управления моментом. Каждый из каналов управления моментом управляет соответствующим УДМ. Агат‑15 обеспечивает формирование динамических моментов по осям вращения каждого УДМ.|
 |Consumption, W|–75 ‑ +145 (для 2 работающих УДМ)|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
@@ -433,41 +433,6 @@ A list of [Reaction wheels](sensor.md).
 
 <p style="page-break-after:always"> </p>
 
-### Koler-E (RU)
-> <small>**Колер‑Э** — русскоязычный термин, не имеющий аналога в английском языке. **Koler-E** — дословный перевод с русского на английский.</small>
-
-**Колер‑Э** — инерциальное устройство ([двигатель‑маховик](iu.md)), предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
-*Разработчик:* [НИИКП](contact/niicom.md). Разработано в … году архивное изделие
-
-|*Characteristics*|*[Value](si.md)<br> (Колер‑Э)*|
-|:--|:--|
-|Composition|1 БЭ, 2 УДМ|
-|Consumption, W|66 (65 БЭ, 0.5 УДМ)|
-|Dimensions, ㎜|УДМ: ⌀315 × 72.5, БЭ: 338 × 280 × 230|
-|[Interfaces](interface.md)| |
-|[Lifetime](lifetime.md)/Resource, h(y)|87 600 (10) / …|
-|Mass, ㎏|22.8 (4.6 УДМ, 13.6 БЭ)|
-|[Overload](vibration.md), Grms| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md) per [lifetime](lifetime.md)|0.967|
-|[Thermal range](tcs.md), ℃| |
-|[TRL](trl.md)|9|
-|[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|Kinetic moment, N·m·s| |
-|Max ctrl moment, N·m| |
-|Ready mode| |
-| |[![](f/iu/k/koler_e_pic1_thumb.jpg)](f/iu/k/koler_e_pic1.png)|
-
-**Notes:**
-
-   1. …
-   1. **Applicability:** …
-
-
-
-<p style="page-break-after:always"> </p>
-
 ### MDM-0,5 (RU)
 > <small>**МДМ-0,5** — русскоязычный термин, не имеющий аналога в английском языке. **MDM-0,5** — дословный перевод с русского на английский.</small>
 
@@ -608,7 +573,76 @@ A list of [Reaction wheels](sensor.md).
 
 <p style="page-break-after:always"> </p>
 
+### UDM-15
+> <small>**УДМ‑15** — русскоязычный термин, не имеющий аналога в английском языке. **UDM‑15** — дословный перевод с русского на английский.</small>
+
+**Управляющий двигатель‑маховик «УДМ‑15»** — инерциальное устройство, предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
+Разработчик и изготовитель [НПЦ Полюс](contact/polus_tomsk.md); разработан в 2005 году Активное использование. Покупное изделие. (по состоянию на 21.06.2017)
+
+|*Characteristics*|*[Value](si.md)<br> (UDM‑15)*|
+|:--|:--|
+|Composition|Single unit|
+|Consumption, W|–37.5 ‑ +72.5 (для 2 работающих УДМ)|
+|Dimensions, ㎜|80 × 315|
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / 1 000 при выходе кинетического момента за допустимые нормы; 2 500 циклов вкл/выкл|
+|Mass, ㎏|3.7|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.98|
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)| |
+|[Voltage](sps.md), V|27 — штатное;<br> от 24 до 28 — допустимое|
+|**【Specific】**|• • •|
+|Исполнение|Single unit|
+|Kinetic moment, N·m·s|± 15|
+|Ready mode|1 s с момента подачи напряжения|
+| |[![ ❐](f/iu/a/agat_25_udm-15_pic002.png)](f/iu/a/agat_25_udm-15_pic002.png)|[![](f/iu/a/agat_25_udm-15_pic003_thumb.jpg)](f/iu/a/agat_25_udm-15_pic003.jpg)
+| |[![](f/iu/a/agat_25_udm-15_pic001_thumb.jpg)](f/iu/a/agat_25_udm-15_pic001.png) Система координат УДМ‑15|
+
+**Notes:**
+
+   1. [3D-модель ❐](f/iu/a/agat_25_udm-15-0.15_3d_2017.7z)・ [Чертёж ❐](f/iu/a/agat_25_udm-15-0.15_sketch_2016.djvu)
+   1. **Applicability:** [Венера‑Д](венера‑д.md)・ [Luna‑26](луна_26.md) (в составе [Агат‑15](rw_lst.md))
+
+
+
+<p style="page-break-after:always"> </p>
+
 ## Archive
+
+<p style="page-break-after:always"> </p>
+
+### Koler-E (RU)
+> <small>**Колер‑Э** — русскоязычный термин, не имеющий аналога в английском языке. **Koler-E** — дословный перевод с русского на английский.</small>
+
+**Колер‑Э** — инерциальное устройство ([двигатель‑маховик](iu.md)), предназначенное для использования в качестве исполнительного органа системы ориентации и стабилизации [космического аппарата](sc.md).  
+*Разработчик:* [НИИКП](contact/niicom.md). Разработано в … году архивное изделие
+
+|*Characteristics*|*[Value](si.md)<br> (Колер‑Э)*|
+|:--|:--|
+|Composition|1 БЭ, 2 УДМ|
+|Consumption, W|66 (65 БЭ, 0.5 УДМ)|
+|Dimensions, ㎜|УДМ: ⌀315 × 72.5, БЭ: 338 × 280 × 230|
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|87 600 (10) / …|
+|Mass, ㎏|22.8 (4.6 УДМ, 13.6 БЭ)|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.967|
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)|9|
+|[Voltage](sps.md), V| |
+|**【Specific】**|• • •|
+|Kinetic moment, N·m·s| |
+|Max ctrl moment, N·m| |
+|Ready mode| |
+| |[![](f/iu/k/koler_e_pic1_thumb.jpg)](f/iu/k/koler_e_pic1.png)|
+
+**Notes:**
+
+   1. …
+   1. **Applicability:** …
 
 
 

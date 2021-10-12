@@ -195,10 +195,68 @@
    - **Service equipment (SE)** *(ru. Служебная аппаратура (СА))* — the general name of the OE that ensures the functioning of the SC & the implementation of the target task by the SC.
    - **Payload** *(ru. Научная аппаратура (НА), Комплекс научной аппаратуры (КНА), Полезная нагрузка (ПН))* — the general name of the OE used to implement the target task for a [SC](sc.md) & [SCS](scs.md).
 
+**A table.** Service equipment, Payload & their intersection
 
-|*Service equipment*|*Payload*|
-|:--|:--|
-|・**[Aimed antenna drive (AIAD)](devd.md)**·ПНА<br> ・**[Automatic control unit (ACU)](eas.md)**·БАППТ<br> ・**[Electro-automatic system (EAS)](ans.md)**·САН<br> ・**[Cable](cable.md)**·БКС<br> ・**[Camera](cam.md)**·Камера<br> ・**[Comms](comms.md)**·Радио<br> ・**[Control module (CM)](eas.md)**·БУ<br> ・**[Data storage (DS)](ds.md)**·ЗУ<br> ・**[Doppler](doppler.md)**·ИСР<br> ・**[Earth sensor](sensor.md)**·Датчик Земли<br> ・**[Ecology](ecology.md)**·Экология<br> ・**[Electronic components](elc.md)**·ЭКБ<br> ・**[Electric battery (EB)](eb.md)**·ХИТ<br> ・**[Electro-automatic system (EAS)](eas.md)**·СЭА<br> ・**[EMC](emc.md)**·ЭМС<br> ・**[Fuel](fuel.md)**·Топливо<br> ・**[GNC](gnc.md)**·БКУ<br> ・**[Inertial unit (UI)](iu.md)**·Гироскоп<br> ・**[Landing gear (LAG)](lag.md)**·ПУC<br> ・**[Launch escape system (LES)](les.md)**·САСП<br> ・**[Life support (LS)](ls.md)**·СЖО<br> ・**[Magnetometer](sensor.md)**·Магнитометр<br> ・**[Manned spacecraft (MSC)](sc.md)**·ПКА<br> ・**[Nuclear reactor (NR)](nr.md)**·ЯР<br> ・**[Onboard computer (OBC)](obc.md)**·ЦВМ<br> ・**[Patent](patent.md)**·Патент<br> ・**[Propulsion system (PS)](ps.md)**·ДУ<br> ・**[Reaction wheel (RW)](iu.md)**·ДМ<br> ・**[Receiver](comms.md)**·Приёмник<br> ・**[Robot](robot.md)**·Робот<br> ・**[Rotor](iu.md)**·Ротор<br> ・**[Rover](robot.md)**·Ровер<br> ・**[RTG](rtg.md)**·РИТЭГ<br> ・**[Sensor (general)](sensor.md)**<br> ・**[Structures, gears, materials (SGM)](sc.md)**·КММ<br> ・**[Software](soft.md)**·ПО<br> ・**[Soil sample system (SSS)](sss.md)**·ГЗУ<br> ・**[Solar panel (SP)](sp.md)**·БС<br> ・**[Solar panels orientation system (SPOS)](devd.md)**·СОСБ<br> ・**[Spacecraft power system (SPS)](sps.md)**·СЭС<br> ・**[Star tracker](sensor.md)**·Звёздный датчик<br> ・**[Sun sensor](sensor.md)**·Солнечный датчик<br> ・**[Systems engineering (SE)](se.md)**·СЭ<br> ・**[Telemetry system (TMS)](tms.md)**·ТМС<br> ・**[Thermal control system (TCS)](tcs.md)**·СОТР<br> ・**[Transmitter](comms.md)**·Передатчик<br> ・**[Wind turbine (WT)](wt.md)**·Ветрогенератор|・**Beacon**·Маяк<br> ・**Camera 3D**·Камера трёхмерная<br> ・**Camera of different spectra**·Камера различных спектров<br> ・**Gas analyzer**·Газоанализатор<br> ・**Meter of energetic particles**·Измеритель энергетичных частиц<br> ・**[Meter of magnetic field (magnetometer)](sensor.md)**·Магнитометр<br> ・**Meter of plasma**·Измеритель плазмы<br> ・**Meter of seismic activity (seismometer)**·Сейсмометр<br> ・**Meter of spectra (spectrometer: IR, UV, Fourier, etc.)**·Спектрометр<br> ・**Meter of stellar wind**·Измеритель звёздного ветра<br> ・**Radar**·Радар<br> ・**Radar (for subsoil)**·Радар подпочвенный<br> ・**Reflector**·Отражатель<br> ・**[Sensor of dust](sensor.md)**·Датчик пыли<br> ・**[Sensor of gas](sensor.md)**·Датчик газов<br> ・**[Sensor of temperature](sensor.md)**·Датчик температуры<br> ・**[Sensor of wind](sensor.md)**·Датчик ветра<br> ・**[Soil collector](sss.md)**·Грунтозаборник<br> ・**[Timeline](timeline.md)**·Циклограмма|
+<small>
+
+|*i*|*Service equipment*|*Payload*|
+|:--|:--|:--|
+| |**[Aimed antenna drive (AIAD)](devd.md)**·ПНА|—|
+| |—|**Analyzer of gas**·Газоанализатор|
+| |**[Automatic control unit (ACU)](eas.md)**·БАППТ|—|
+| |**[Autonomous navigation system (ANS)](ans.md)**·САН|—|
+|✔|**Beacon**·Маяк|**Beacon**·Маяк|
+| |**[Cable](cable.md)**·БКС|+|
+|✔|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Камера (обыч., 3D, разн. спектров)|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Камера (обыч., 3D, разн. спектров)|
+| |**[Comms (transmitter, receiver)](comms.md)**·Радио (приёмник, передатчик)|—|
+| |**[Control module (CM)](eas.md)**·БУ|—|
+| |**[Data storage (DS)](ds.md)**·ЗУ|—|
+| |**[Doppler](doppler.md)**·ИСР|**Radar**·Радар|
+| |—|**Radar for subsoil**·Радар подпочвенный|
+| |**[Ecology](ecology.md)**·Экология|+|
+| |**[Electronic components](elc.md)**·ЭКБ|—|
+| |**[Electric battery (EB)](eb.md)**·ХИТ|—|
+| |**[Electro-automatic system (EAS)](eas.md)**·СЭА|—|
+| |**[EMC](emc.md)**·ЭМС|+|
+| |**[Fuel](fuel.md)**·Топливо|—|
+| |**[GNC](gnc.md)**·БКУ|—|
+| |**[Inertial unit (UI)](iu.md)**·Гироскоп|—|
+| |**[Landing gear (LAG)](lag.md)**·ПУC|—|
+| |**[Launch escape system (LES)](les.md)**·САСП|—|
+| |**[Life support (LS)](ls.md)**·СЖО|—|
+| |**[Manned spacecraft (MSC)](sc.md)**·ПКА|—|
+| |—|**Meter of energetic particles**·Измеритель энергетичных частиц|
+|✔|**[Meter of magnetic field (magnetometer)](sensor.md)**·Магнитометр|**[Meter of magnetic field (magnetometer)](sensor.md)**·Магнитометр|
+| |—|**Meter of plasma**·Измеритель плазмы|
+| |—|**Meter of seismic activity (seismometer)**·Сейсмометр|
+| |—|**Meter of spectra (spectrometer: IR, UV, Fourier, etc.)**·Спектрометр|
+| |—|**Meter of stellar wind**·Измеритель звёздного ветра|
+| |**[Nuclear reactor (NR)](nr.md)**·ЯР|—|
+| |**[Onboard computer (OBC)](obc.md)**·ЦВМ|—|
+| |**[Patent](patent.md)**·Патент|+|
+| |**[Propulsion system (PS)](ps.md)**·ДУ|—|
+| |**[Reaction wheel (RW)](iu.md)**·ДМ|—|
+| |—|**Reflector**·Отражатель|
+| |**[Robot](robot.md)**·Робот|—|
+| |**[Rotor](iu.md)**·Ротор|—|
+| |**[Rover](robot.md)**·Ровер|—|
+| |**[RTG, RHU](rtg.md)**·РИТЭГ, РИТ|—|
+|✔|**[Sensor (general)](sensor.md)**·Датчик (общий)|**[Sensor of dust/gas/temp./wind](sensor.md)**·Датчик пыли/газа/темп./ветра|
+| |**[Structures, gears, materials (SGM)](sc.md)**·КММ|+|
+| |**[Software](soft.md)**·ПО|+|
+|✔|**[Soil sample system (SSS)](sss.md)**·ГЗУ|**[Soil collector](sss.md)**·Грунтозаборник|
+| |**[Solar panel (SP)](sp.md)**·БС|—|
+| |**[Solar panels orientation system (SPOS)](devd.md)**·СОСБ|—|
+| |**[Spacecraft power system (SPS)](sps.md)**·СЭС|—|
+| |**[Star tracker](sensor.md)**·Звёздный датчик|—|
+| |**[Sun sensor](sensor.md)**·Солнечный датчик|—|
+| |**[Systems engineering (SE)](se.md)**·СЭ|+|
+| |**[Telemetry system (TMS)](tms.md)**·ТМС|+|
+| |**[Thermal control system (TCS)](tcs.md)**·СОТР|+|
+| |**[Timeline](timeline.md)**·Циклограмма|+|
+| |**[Wind turbine (WT)](wt.md)**·Ветрогенератор|—|
+
+</small>
 
 
 
