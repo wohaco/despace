@@ -17,17 +17,17 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … of [gold](sc_price.md)|
 |Development|1983 ‑ 1989|
 |Duration|4 years 5 months 8 days 13 hours 18 minutes|
 |Launch|May 4, 1989, 18:47:00 UTC, Rocket: Space Shuttle Atlantis STS-30 / IUS|
 |Operator|NASA / JPL|
 |Programme|Magellan|
-|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md)|
+|Similar to|・Proposed: …<br> ・Current: …<br> ・Past: [Pioneer-Venus-1](pioneer_venus_1.md)<br>[Venera 15 and 16](venera_15_16.md)|
 |Target|Radar mapping of Venus|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|3.7 m HGA (Voyager) and a medium‑gain antenna (Mariner 9)<br> S‑band — receiving data<br> X‑band — transmission|
 |Composition|Orbiter|
 |Contractor|…|
@@ -201,7 +201,7 @@ Radar System (RDRS)
 
 |*Instrument*|*Description*|
 |:--|:--|
-|![](f/project/m/magellan/rls.png)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> • In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 ㎝ microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> • In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> • In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
+|![](f/project/m/magellan/rls.png)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> ・In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 ㎝ microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> ・In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> ・In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
 
 In addition to the radar data, Magellan collected several other types of scientific measurements. These included detailed measurements of the Venus gravitational field ([EVN‑089](venus.md)), measurements of the atmospheric density, and radio occultation data on the atmospheric profile.
 

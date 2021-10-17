@@ -16,17 +16,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 11:** Travel: 3 months and 16 days, Lander: 95 minutes<br> **Venera 12:** Travel: 3 months and 6 days, Lander: 110 minutes|
 |Launch|**Venera 11:** September 9, 1978, 03:25:39 UTC<br> **Venera 12:** 14 September 1978, 02:25:13 UTC<br>Rocket: Proton-K/D-1 8K82K|
 |Operator|Soviet Academy of Sciences|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: [Pioneer Venus 1.md](pioneer_venus_1.md), [Pioneer Venus 2.md](pioneer_venus_2.md)<br> • ㎩st: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Mariner 10](mariner_10.md), [Venera 9 and 10](venera_9_10.md)|
+|Similar to|・Proposed: [Vega 1 and 2](vega_1_2.md)<br> ・Current: [Pioneer Venus 1.md](pioneer_venus_1.md), [Pioneer Venus 2.md](pioneer_venus_2.md)<br> ・Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Mariner 10](mariner_10.md), [Venera 9 and 10](venera_9_10.md)|
 |Target|To study the planet Venus and interplanetary space.|
 |[Type](sc.md)|Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|Orbiter: high gain parabolic antenna|
 |Composition|Orbiter; Lander|
 |Contractor|…|

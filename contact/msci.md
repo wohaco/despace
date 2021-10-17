@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Reaction wheels](iu.md), rate measurement units, [microsats](sc.md), attitude control systems|
+|**Business**|[Reaction wheels](../iu.md), rate measurement units, [microsats](../sc.md), attitude control systems|
 |**[MGMT](../mgmt.md)**|…|
 
 **Microsat Systems Canada Inc. (MSCI)** is a privately held Canadian corporation applying dynamics & control technology in the space market for reaction wheels, rate measurement units & complete microsatellites. Formerly the space division of Dynacon Inc., MSCI has been the premiere builder of microsats in Canada for over a decade.

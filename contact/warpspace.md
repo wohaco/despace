@@ -11,7 +11,7 @@
 
 **WARPSPACE Inc.** was founded 2016.08.03 as a space field startup after 5 years satellites development experiences at the University of Tsukuba, Japan.
 
-We have experienced two real [satellite](sc.md) developments & launch under the JAXA program. In addition to our professional knowledge & experiences, we pursue the space development for everyone through our close partnership with JAXA & access to various research institutes located in Tsukuba Science City.
+We have experienced two real [satellite](../sc.md) developments & launch under the JAXA program. In addition to our professional knowledge & experiences, we pursue the space development for everyone through our close partnership with JAXA & access to various research institutes located in Tsukuba Science City.
 
 Our Services
 
@@ -21,7 +21,7 @@ Our Services
       - Intersatellite Communication Infrastructure Service. We are deploying the data relay CubeSat for intersatellite communication service, between LEO & lunar transfer orbit which conform to the needs of the market. (Around the year 2022)
    1. **Module Development Business for Small Satellites.**
       - Module for Small Satellite. We are developing low-cost modules for small satellites which bringing technology of WAPRPSPACE & University of Tsukuba together. (Each module for power supply, communication, OBC, GPS go on sale in the fall of 2019).
-      - Development of World’s Smallest Modules. In collaboration with JAXA & University of Tsukuba, we’re developing world’s smallest attitude control module & [ion engine](ps.md) (electric propulsion engine).
+      - Development of World’s Smallest Modules. In collaboration with JAXA & University of Tsukuba, we’re developing world’s smallest attitude control module & [ion engine](../ps.md) (electric propulsion engine).
    1. **Business Related Transferring Satellite Technology.** We provide support to government agencies & local companies in developing countries, for them to acquire the satellite technology. In the first year, we will invite the research personnel to the city of Tsukuba, & work on the actual satellite development & control. In the next year, the individual will move back to their country & we will support making satellite launch come true within two years.
 
 <p style="page-break-after:always"> </p>

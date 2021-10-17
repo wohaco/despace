@@ -14,7 +14,7 @@
    - Automotive/Motorcycle Batteries & Chargers. GS YUASA offers the most extensive link of motorcycle batteries in the world.
    - Traction Batteries & Chargers. Batteries & Chargers for forklift.
    - Industrial Batteries, Power Supply Systems. Lead-acid Stationary Batteries, Alkaline Batteries & Lithium-ion Batteries for Industry.
-   - [Lithium-ion Batteries](eb.md). Lithium-ion Batteries for Automobiles, Industry & Aerospace.
+   - [Lithium-ion Batteries](../eb.md). Lithium-ion Batteries for Automobiles, Industry & Aerospace.
    - Lighting Equipment, Ultraviolet Systems. Street Lamps, Ultraviolet lamps, etc.
 
 <p style="page-break-after:always"> </p>

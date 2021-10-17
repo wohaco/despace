@@ -22,7 +22,7 @@
 |Signal from Earth|1 666 ‑ 10 000 минут (27.76 ‑ 166.66 часов)|
 |Distance from Earth|30 ‑ 180 млрд ㎞|
 |Breaking to the orbit|не более … ‑ … минут|
-|**Orbits:**|• • •|
+|**【Orbits】**|• • •|
 |[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|180 000 000 000 ㎞ (1 200 а.е.);<br> 30 000 000 000 ㎞ (200 [а.е.](si.md))|
 |[Argument of periapsis](keplerian.md) (ω)|150°|
 |[Semimajor axis](keplerian.md) (a)|98.1 млрд ㎞ (654 а.е.),<br> или 99.75 млрд ㎞ (665 а.е.), или 105 млрд ㎞ (700 а.е.)|
@@ -37,7 +37,7 @@
 |[Hill sphere](hill_sphere.md)|… ㎞|
 |Satellite of|[Солнце](sun.md)|
 |[Eccentricity](keplerian.md) (e)|0.7|
-|**Physics:**|• • •|
+|**【Physics】**|• • •|
 |[1st escape velocity](esc_vel.md) (v₁)|… ㎞/s <small>(… земной)</small>|
 |[2nd escape velocity](esc_vel.md) (v₂)|… ㎞/s <small>(… земной)</small>|
 |[Albedo](albedo.md)|0.4|
@@ -52,7 +52,7 @@
 |Radius|23 300 ㎞ при 10 M⊕ (средний, <small>3.66 земного</small>),<br> либо 18 600 ㎞ при 5 M⊕ (средний, <small>2.92 земного</small>),<br> либо 29 400 ㎞ при 20 M⊕ (средний, <small>4.62 земного</small>),<br> либо 17 866 ‑ 26 120 ㎞ (средний, <small>2.80 ‑ 4.10 земного</small>),<br> либо 13 000 ‑ 26 000 ㎞ (средний, <small>2.04 ‑ 4.08 земного</small>)|
 |[Surface gravity](g.md)|… ㎧² <small>(… земного)</small>|
 |Equatorial rotation velocity|… ㎞/h <small>(… земной)</small>|
-|**Temperature & atmosph.:**|• • •|
+|**【Temperature & atmo.】**|• • •|
 |[Atmosphere](atmosphere.md)|**Pressure** … ㎫ (… ㍴).<br> **Плотность** … ㎏/m³.<br> **Ветер:**<br> … ‑ … ㎧ (поверхность).<br> **Состав:**<br> ….|
 |[Освещённость](illum.md)| |
 |Радиация| |
@@ -176,11 +176,11 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|•|•|**Never occurred:**|•|•|•|•|•|•|
+|•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EMN‑…| | | | | | | | |
-|•|•|**Was tried:**|•|•|•|•|•|•|
+|•|•|**【Was tried】**|•|•|•|•|•|•|
 |EMN‑…| | | | | | | | |
-|•|•|**Mostly done:**|•|•|•|•|•|•|
+|•|•|**【Mostly done】**|•|•|•|•|•|•|
 |EMN‑…| | | | | | | | |
 
 </small>
@@ -199,15 +199,15 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |[…‑003](planet_9.md)|T|Exploration: from venusian orbit.|Исследование: с ОИСВ.| | | | | |
 |[…‑005](planet_9.md)|T|Exploration: from surface.|Исследование: с поверхности.| | | | | |
 |• • •|•|• • •|• • •|•|•|•|•|•|
-| | |**Was tried:**|**`Завершено частично`**| | | | | |
+| | |**【Was tried】**|**`Завершено частично`**| | | | | |
 |…| |…|…| | | | | |
 |• • •|•|• • •|• • •|•|•|•|•|•|
-| | |**Mostly done:**|**`В целом завершено`**| | | | | |
+| | |**【Mostly done】**|**`В целом завершено`**| | | | | |
 |…| |…|…| | | | | |
 
 1
 
-|•|•|**Never occurred:**|•|•|•|•|•|•|
+|•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EMN‑080| |Albedo: changes in time|Gi| |D|F| | |
 |EMN‑036| |Atmosphere: cause & influence of geological & chemical activity on the climate & clouds| | |D| | | |
 |EMN‑037| |Atmosphere: cause of the retrograde moving| | |D| | | |
@@ -245,7 +245,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑047| |Surface: structure‑composition connection of different regions & planet’s evolution| |C| | | | |
 |EMN‑039| |Was the planet inhabited & for how long| |C|D| | | |
 |EMN‑040| |Were there oceans & why have they gone| |C|D|F| | |
-|•|•|**Was tried:**|•|•|•|•|•|•|
+|•|•|**【Was tried】**|•|•|•|•|•|•|
 |EMN‑093|T|Atmosphere/surface imaging| | |D|F| | |
 |EMN‑077| |Atmosphere: chemical elements distribution| | |D|F| | |
 |EMN‑018| |Atmosphere: clouds, their chemistry| | |D|F| | |
@@ -298,7 +298,7 @@ Targets & explorations for Planet Nine. (Comments: **T** — technical; **Draft*
 |EMN‑027| |The causes why Venus evolved in a planet so different from Earth| |C|D|F| | |
 |EMN‑091| |The loss rate of water from Venus| | |D|F| | |
 |EMN‑053| |Traces of life in the atmosphere & on the surface| |C| | | | |
-|•|•|**Mostly done:**|•|•|•|•|•|•|
+|•|•|**【Mostly done】**|•|•|•|•|•|•|
 |EMN‑001| |Atmosphere: preliminary model| |C|D|F| | |
 |EMN‑004|T|Exploration: from Earth| | |D| | | |
 |EMN‑003|T|Exploration: from inside of atmosphere| |C|D| | | |

@@ -19,7 +19,7 @@ The original report dates back to 2007.
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|$ 2.7 B ‑ 3.8 B or 86 370 ‑ 121 560 ㎏ of [gold](sc_price.md) in 2009 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
@@ -27,11 +27,11 @@ The original report dates back to 2007.
 |Launch|2032, [Canaveral](spaceport.md), [Atlas V 551](atlas.md) (one for the orbiter, the other for the in situ vehicles & carrier)|
 |Operator|NASA|
 |Programme|…|
-|Similar to|• Proposed: [Venera‑D](venera_d.md) (RU);<br> • Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> • ㎩st: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978).|
+|Similar to|・Proposed: [Venera‑D](venera_d.md) (RU);<br> ・Current: …, partially — [Akatsuki](akatsuki.md) (JP 2010);<br> ・Past: [Vega-1/2](vega_1_2.md) (SU 1984), [Venera-9/10](venera_9_10.md) (SU 1975), [Venera-11/12](venera_11_12.md) (SU 1978).|
 |Target|To understand the venusian greenhouse effect, atmospheric superrotation, climate changing, geo activity, water, atmosphere & surface evolution, inner structure, chemical structures etc.|
 |[Type](sc.md)|Orbiter spacecraft; atmospheric spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
-|Composition|• 1 orbiter,<br> • 1 carrier (incl. 2 balloons in the clouds, 2 landers)|
+|**【Spacecraft】**|• • •|
+|Composition|・1 orbiter,<br> ・1 carrier (incl. 2 balloons in the clouds, 2 landers)|
 |Contractor|…|
 |Manufacturer|…|
 | |**`Orbiter`**|
@@ -43,13 +43,13 @@ The original report dates back to 2007.
 |Payload|[SAR](cam.md), spectrometers, magnetomeeters, sounder, oscillator|
 |Power|32 m² solar panels (9 868 W EOL)|
 | |**`Carrier`**|
-|Comms|• carrier: X/S‑band (to‑Earth, to‑in situ), S‑band (to‑in situ)|
+|Comms|・carrier: X/S‑band (to‑Earth, to‑in situ), S‑band (to‑in situ)|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
-|Duration|• balloons: 30 d in atmosphere;<br> • landers: 5 h on surface + 1 h of descent|
-|Mass|• carrier wet: 5 578 ㎏;<br> • balloons: 162.5 ㎏ (22.5 ㎏ payload);<br> • landers: 686 ㎏ (106.2 ㎏ payload)|
+|Duration|・balloons: 30 d in atmosphere;<br> ・landers: 5 h on surface + 1 h of descent|
+|Mass|・carrier wet: 5 578 ㎏;<br> ・balloons: 162.5 ㎏ (22.5 ㎏ payload);<br> ・landers: 686 ㎏ (106.2 ㎏ payload)|
 |Orbit / Site|…|
-|Power|• carrier: 4.4 m² solar panels;<br> • balloons: batterie 10.5 kWh;<br> • landers: batterie 6 kWh|
-|Payload|• balloons: pressure/temp/wind detectors, spectrometer, nephelometer, magnetometer, camera;<br> • landers: cameras, magneetometer, nephelometer, radiometer, drilling rig, gamma detector|
+|Power|・carrier: 4.4 m² solar panels;<br> ・balloons: batterie 10.5 kWh;<br> ・landers: batterie 6 kWh|
+|Payload|・balloons: pressure/temp/wind detectors, spectrometer, nephelometer, magnetometer, camera;<br> ・landers: cameras, magneetometer, nephelometer, radiometer, drilling rig, gamma detector|
 
 <p style="page-break-after:always"> </p>
 

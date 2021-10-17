@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Xplore** «Space as a Service» — an agile space company dedicated to space exploration. Production: [spacecraft](sc.md).
+**Xplore** «Space as a Service» — an agile space company dedicated to space exploration. Production: [spacecraft](../sc.md).
 
 <p style="page-break-after:always"> </p>
 

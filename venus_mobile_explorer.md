@@ -19,7 +19,7 @@ Original of NASA’s report: 2009.12.18 ([GSFC](contact/gsfc.md), [JPL](contact/
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|$ 1.1 ‑ 1.5 B or 29 500 — 45 600 ㎏ of [gold](sc_price.md) in 2015 prices without LV|
 |[CML](cml.md) / [TRL](trl.md)|CML: 4, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
@@ -27,19 +27,19 @@ Original of NASA’s report: 2009.12.18 ([GSFC](contact/gsfc.md), [JPL](contact/
 |Launch|2023.05.27, …, [Atlas V 551](atlas.md) Short Fairing|
 |Operator|…|
 |Programme|NRC Decadal Survey Inner Planets Panel|
-|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: …|
-|Target|• Determine the origin & evolution of the Venus atmosphere, & rates of exchange of key chemical species between the surface & atmosphere.<br> • Characterize fundamental geologic units in terms of major rock forming elements, minerals in which those elements are sited, & isotopes.<br> • Characterize the geomorphology & relative stratigraphy of major surface units.<br> • In situ measurements of Noble gas isotopes, trace gas mixing ratios & isotopic ratios.<br> • Identify mineralology & elemental chemistry of surface rocks in 2 locs separated by \> 8 ㎞.<br> • Airborne near IR imaging along a transect ~8 ㎞ in length, at < 5 m spatial resolution.<br> • In situ sampling of the atmosphere as functions of altitude &  time.<br> • Land in 2 locations, ~2 m path-length for compositional observation; stable platform for measurement duration.<br> • Near-surface aerial mobility; \> 45° solar incidence, contiguous images of the surface during aerial traverse; 5 hour near surface operational lifetime.|
+|Similar to|・Proposed: …<br> ・Current: …<br> ・Past: …|
+|Target|・Determine the origin & evolution of the Venus atmosphere, & rates of exchange of key chemical species between the surface & atmosphere.<br> ・Characterize fundamental geologic units in terms of major rock forming elements, minerals in which those elements are sited, & isotopes.<br> ・Characterize the geomorphology & relative stratigraphy of major surface units.<br> ・In situ measurements of Noble gas isotopes, trace gas mixing ratios & isotopic ratios.<br> ・Identify mineralology & elemental chemistry of surface rocks in 2 locs separated by \> 8 ㎞.<br> ・Airborne near IR imaging along a transect ~8 ㎞ in length, at < 5 m spatial resolution.<br> ・In situ sampling of the atmosphere as functions of altitude &  time.<br> ・Land in 2 locations, ~2 m path-length for compositional observation; stable platform for measurement duration.<br> ・Near-surface aerial mobility; \> 45° solar incidence, contiguous images of the surface during aerial traverse; 5 hour near surface operational lifetime.|
 |[Type](sc.md)|Orbiter spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
-|Comms|• 3 m HGA mesh — S‑band (Lander to Carrier uplink)<br> • 2 omni-directional — X‑band (Carrier to Earth contingency)<br> • 1 m HGA solid — X‑band (Carrier to Earth Science)|
+|**【Spacecraft】**|• • •|
+|Comms|・3 m HGA mesh — S‑band (Lander to Carrier uplink)<br> ・2 omni-directional — X‑band (Carrier to Earth contingency)<br> ・1 m HGA solid — X‑band (Carrier to Earth Science)|
 |Composition|The carrier spacecraft; the lander|
 |Contractor|…|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
 |Manufacturer|…|
 |Mass|Dry: 3 112 ㎏, Lander: 1 390 ㎏ ([large satellite](sc.md), [EVN‑073](venus.md))|
 |Orbit / Site|…|
-|Payload|• Neutral Mass Spectrometer (NMS) combined with Tunable Laser Spectrometer (TLS).<br> • Laser Raman/Laser Induced Breakdown Spectrometer (LIBS).<br> • Near infrared (~1.1 micron) imager (FOV TBD, & SNR \> 100)|
-|Power|• Lander: 246 W (Max; descent)<br>• Carrier: 355 W|
+|Payload|・Neutral Mass Spectrometer (NMS) combined with Tunable Laser Spectrometer (TLS).<br> ・Laser Raman/Laser Induced Breakdown Spectrometer (LIBS).<br> ・Near infrared (~1.1 micron) imager (FOV TBD, & SNR \> 100)|
+|Power|・Lander: 246 W (Max; descent)<br>• Carrier: 355 W|
 
 **Projected** targets & objectives:
 

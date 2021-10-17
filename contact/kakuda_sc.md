@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Kakuda Space Center** (角田宇宙センター, Kakuda Uchu Sentaa) is a facility of the [JAXA](jaxa.md), located in the city of Kakuda in Miyagi Prefecture in northern Japan, specializing in the development and testing of [rocket engines and space propulsion systems](ps.md). Founded in 1965.
+**Kakuda Space Center** (角田宇宙センター, Kakuda Uchu Sentaa) is a facility of the [JAXA](jaxa.md), located in the city of Kakuda in Miyagi Prefecture in northern Japan, specializing in the development and testing of [rocket engines and space propulsion systems](../ps.md). Founded in 1965.
 
 The LE-5 (including the LE-5A/LE-5B version), and the LE-7 (including the LE-7A version) rocket enginese were developed at the Kakuda Space Center.
 

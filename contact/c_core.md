@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Ice engineering, Earth observation remote sensing, Remote sensing systems, Geotechnical engineering, [RF systems](comms.md) |
+|**Business**|Ice engineering, Earth observation remote sensing, Remote sensing systems, Geotechnical engineering, [RF systems](../comms.md) |
 |**[MGMT](../mgmt.md)**|…|
 
 Since 1975 **C-CORE** has provided research‑based advisory services & technology solutions to mitigate operational risk & help clients improve safety, efficiency & cost‑effectiveness in remote or challenging environments worldwide. We also address security, sustainability & safety issues for clients in the resource development, transportation & aerospace/defense sectors.

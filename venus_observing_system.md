@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md) in … prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
@@ -23,10 +23,10 @@
 |Launch|…, …, …|
 |Operator|…|
 |Programme|…|
-|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: …|
+|Similar to|・Proposed: …<br> ・Current: …<br> ・Past: …|
 |Target|…|
 |[Type](sc.md)|…|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|…|
 |Contractor|…|
 |Manufacturer|…|

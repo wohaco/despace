@@ -188,9 +188,7 @@
 <p style="page-break-after:always"> </p>
 
 ## 3. Onboard equipment
-> <small>**Onboard equipment (OE)** — EN term. **Бортовая аппаратура (БА)** — RU analogue.</small>
-
-**Onboard equipment (OE)** — the general name of the equipment installed on the [SC](sc.md). Includes service equipment & payload.
+**Onboard equipment (OE)** *(ru. Бортовая аппаратура, БА)* — the general name of the equipment installed on the [SC](sc.md). Includes service equipment & payload.
 
    - **Service equipment (SE)** *(ru. Служебная аппаратура (СА))* — the general name of the OE that ensures the functioning of the SC & the implementation of the target task by the SC.
    - **Payload** *(ru. Научная аппаратура (НА), Комплекс научной аппаратуры (КНА), Полезная нагрузка (ПН))* — the general name of the OE used to implement the target task for a [SC](sc.md) & [SCS](scs.md).
@@ -226,7 +224,7 @@
 | |**[Life support (LS)](ls.md)**·СЖО|—|
 | |**[Manned spacecraft (MSC)](sc.md)**·ПКА|—|
 | |—|**Meter of energetic particles**·Измеритель энергетичных частиц|
-|✔|**[Meter of magnetic field (magnetometer)](sensor.md)**·Магнитометр|**[Meter of magnetic field (magnetometer)](sensor.md)**·Магнитометр|
+|✔|**[Meter of magnetic fields (magnetometer)](sensor.md)**·Магнитометр|**[Meter of magnetic fields (magnetometer)](sensor.md)**·Магнитометр|
 | |—|**Meter of plasma**·Измеритель плазмы|
 | |—|**Meter of seismic activity (seismometer)**·Сейсмометр|
 | |—|**Meter of spectra (spectrometer: IR, UV, Fourier, etc.)**·Спектрометр|
@@ -308,9 +306,7 @@ In common any onboard equipment can be basically described using the following t
 <p style="page-break-after:always"> </p>
 
 ## 4. Structures, gears, materials
-> <small>**Structures, gears, materials (SGM)** — EN term. **Конструктивные элементы, механизмы, материалы (КММ)** — rough RU analogue.</small>
-
-**Structures, gears, materials (SGM)** — elemets of SC or their parts.
+**Structures, gears, materials (SGM)** *(ru. Конструктивные элементы, механизмы, материалы, КММ)* — elemets of SC or their parts.
 
 Below is a list & characteristics of materials used in the space (and not so) industry.
 

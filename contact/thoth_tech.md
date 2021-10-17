@@ -6,7 +6,7 @@
 |**Mission**|Thoth Technology will advance knowledge through the provision of new business services & the application of innovative research. We conduct business in an ethical & professional manner to the benefit of customers, employees, shareholders, & society.|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Cameras, Spectrometers](cam.md), Large in‑orbit objects tracking, [thermal vacuum & vibration tests](test.md), mission planning|
+|**Business**|[Cameras, Spectrometers](../cam.md), Large in‑orbit objects tracking, [thermal vacuum & vibration tests](../test.md), mission planning|
 |**[MGMT](../mgmt.md)**|…|
 
 **Thoth Technology Inc.** is a Canadian space & defense company founded in 2001. We specialize in services & products for space applications. A Canadian Mission House, we also provide end‑to‑end services for space missions, from design, development & test to operations & information‑product delivery.

@@ -11,7 +11,7 @@
 
 **ispace** is a lunar exploration company with a vision to extend human presence to outer space. Has offices in JP, US, EU, & has signed partnerships with [JAXA](jaxa.md), [NASA](nasa.md), & the Gov. of Luxembourg. Founded 2010.09.
 
-The company is developing a small commercial lunar [lander](sc.md) & [rovers](robot.md) to delivery customer payloads to the Moon & explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon & ultimately incorporate the Moon into Earth’s economic & living sphere. The company will land its 1st lander on the Moon as part of its “[HAKUTO‑R](hakuto.md)” program — the world’s 1st commercial lunar exploration program; the missions will launch on [Falcon 9](falcon.md). ispace was the managing company for Team HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition.
+The company is developing a small commercial lunar [lander](../sc.md) & [rovers](../robot.md) to delivery customer payloads to the Moon & explore the lunar surface. ispace aims to be a vehicle for companies on Earth to access new business opportunities on the Moon & ultimately incorporate the Moon into Earth’s economic & living sphere. The company will land its 1st lander on the Moon as part of its “[HAKUTO‑R](hakuto.md)” program — the world’s 1st commercial lunar exploration program; the missions will launch on [Falcon 9](falcon.md). ispace was the managing company for Team HAKUTO, one of the 5 finalists in the [Google Lunar XPRIZE](google_lunar_x_prize.md) competition.
 
 Timeline:
 

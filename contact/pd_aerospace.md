@@ -11,7 +11,7 @@
 
 **PD Aerospace** (ＰＤエアロスペース株式会社, Pī Dī Earosupēsu Kabushiki-gaisha), often abbreviated **PDAS**, is a Japanese space tourism company based in Nagoya founded in 2007.05.30 by Shuji Ogawa.
 
-The “PD” in the company’s name stands for “pulse detonation”. PDAS is developing a [suborbital spaceplane](sc.md) to carry 2 pilots & 6 passengers using a hybrid of jet & rocket power. Initial tickets are planned for ¥ 14 000 000 (about $ 125 000 as of April 2017) eventually lowering to ¥ 400 000 (about $ 3 600).
+The “PD” in the company’s name stands for “pulse detonation”. PDAS is developing a [suborbital spaceplane](../sc.md) to carry 2 pilots & 6 passengers using a hybrid of jet & rocket power. Initial tickets are planned for ¥ 14 000 000 (about $ 125 000 as of April 2017) eventually lowering to ¥ 400 000 (about $ 3 600).
 
 PDAS plans to develop a hybrid engine that produces jet & rocket thrust, using pulse detonation jet & pulse combustion rocket modes. To reduce the cost of development & keep the vehicle low‑cost, PDAS plans to use commercially available hardware, instead of custom‑designed parts. PDAS plans to launch an unmanned prototype in 2019, perform manned testing by 2020, & start commercial flights in 2023. H.I.S. & ANA own 10 % & 7 % of the company, respectively.
 

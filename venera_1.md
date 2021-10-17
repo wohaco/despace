@@ -16,17 +16,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|7 days|
 |Launch|1961.02.12 00:34:36 UTC, LV Molniya 8K78|
 |Operator|O㎅-1|
 |Programme|Venera programme|
-|Similar to|• Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> • Current: —<br> • ㎩st: Luna 2|
+|Similar to|・Proposed: Mariner 1, [Mariner 2](mariner_2.md)<br> ・Current: —<br> ・Past: Luna 2|
 |Target|Exploring of the Venus|
 |[Type](sc.md)|Venus impactor|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|2.4 m parabolic wire‑mesh antenna; 922.8 ㎒; wavelenth 32 ㎝|
 |Composition|Orbiter, lander|
 |Contractor|…|

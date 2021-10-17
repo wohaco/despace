@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|(Student community) [CubeSats](sc.md), [small rockets](lv.md), [robots](robot.md)|
+|**Business**|(Student community) [CubeSats](../sc.md), [small rockets](../lv.md), [robots](../robot.md)|
 |**[MGMT](../mgmt.md)**|…|
 
 **Space Concordia** is a student society at [Concordia University](concordia_univ.md) that throws its members at challenging space & aerospace projects, to yield awesome results. We win awards at national & international competitions, we showcase our school, but most importantly: Space Concordia teaches & trains excellent young scientists & engineers through hands-on work & an attitude of persistence & collaboration.

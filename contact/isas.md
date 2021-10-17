@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Institute of Space & Astronautical Science** (ISAS, 宇宙科学研究所, Uchū kagaku kenkyūjo) is a Japanese national research organization of astrophysics using [rockets](lv.md), [astronomical satellites & interplanetary probes](sc.md) which played a major role in Japan’s space development. The missions of ISAS aim to push ahead academic researchers through the planning, development, flying experiments, operations & result production of unique & excellent space science missions consistently with the cooperation from universities, Japan’s & foreign space institutes with the use of satellites, probes, sounding rocket, scientific balloons & the international space station.
+**Institute of Space & Astronautical Science** (ISAS, 宇宙科学研究所, Uchū kagaku kenkyūjo) is a Japanese national research organization of astrophysics using [rockets](../lv.md), [astronomical satellites & interplanetary probes](../sc.md) which played a major role in Japan’s space development. The missions of ISAS aim to push ahead academic researchers through the planning, development, flying experiments, operations & result production of unique & excellent space science missions consistently with the cooperation from universities, Japan’s & foreign space institutes with the use of satellites, probes, sounding rocket, scientific balloons & the international space station.
 
    - **Extraterrestrial Sample Curation Center** — works of extraterrestrial materials by a sample‑return missions: documentation, preservation, preparation, distribution of samples. Located in Sagamihara Campus.
    - **Sagamihara Campus** — ISAS’s facility. Sagamihara City.

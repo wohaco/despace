@@ -117,7 +117,7 @@ A list of [Communication systems](comms.md).
 |[Bitrate](bitrate.md), bit/s| |
 |Continuous work, h|определяется ресурсом батареи питания|
 |Distance, ㎞| |
-|Frequency instability|± 50 × 10⁻⁶|
+|Frequency instability|± 0.00005|
 |[Frequency range](rf.md), ㎐|100 ‑ 250|
 |Modulation type| |
 |Out. power, W|0.3 (при [КСВ](swr.md) ≤ 2)|

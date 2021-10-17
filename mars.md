@@ -27,41 +27,41 @@
 |Signal from Earth|3 ‑ 22 минут|
 |Distance from Earth|55.76 ‑ 401 млн ㎞|
 |Breaking to the orbit| |
-|**Orbits:**|• • •|
+|**【Orbits】**|• • •|
 |[Apocentre](apopericentre.md) (Афелий);<br> [Pericentre](apopericentre.md) (Перигелий)|249 232 000 ㎞ (1.666 [а.e.](si.md));<br> 206 655 000 ㎞ (1.381 [а.e.](si.md))|
 |[Argument of periapsis](keplerian.md) (ω)|286.46230°|
-|[Semimajor axis](keplerian.md) (a)|2.279 438 2·10⁸ ㎞ (1.523 662 а.e.) <small>(1.524 земной)</small>|
+|[Semimajor axis](keplerian.md) (a)|2.2794382·10⁸ ㎞ (1.523662 а.e.) <small>(1.524 земной)</small>|
 |Day/year|…/… земных|
-|[Longit. of asc.node](keplerian.md) (Ω)|49.578 54°|
-|[Inclination](keplerian.md) (Ⅰ)|1.850 61° (относительно эклиптики);<br> 5.65° (относительно солнечного экватора)|
+|[Longit. of asc.node](keplerian.md) (Ω)|49.57854°|
+|[Inclination](keplerian.md) (Ⅰ)|1.85061° (относительно эклиптики);<br> 5.65° (относительно солнечного экватора)|
 |Orbital velocity (Ⅴ)|24.13 ㎞/s (средн.);<br> 24.077 ㎞/s|
-|[Sider. rotat.period](astroperiod.md) (T, day)|1.025 956 75 дня (24 h 39 min 35.244 s)|
-|[Sidereal period](astroperiod.md) (year)|686.98 земных суток <small>(1.880 847 6 земных лет)</small>|
+|[Sider. rotat.period](astroperiod.md) (T, day)|1.02595675 дня (24 h 39 min 35.244 s)|
+|[Sidereal period](astroperiod.md) (year)|686.98 земных суток <small>(1.8808476 земных лет)</small>|
 |[Synodic period](astroperiod.md)|779.94 земных суток|
 |Satellites|[Деймос](deimos.md), [Фобос](phobos.md)|
 |[Hill sphere](hill_sphere.md)|950 000 ㎞|
 |Satellite of|[Солнце](sun.md)|
-|[Eccentricity](keplerian.md) (e)|0.093 394 1|
-|**Physics:**|• • •|
+|[Eccentricity](keplerian.md) (e)|0.0933941|
+|**【Physics】**|• • •|
 |[Escape velocity](esc_vel.md)|3.546 ㎞/s (v₁, 0.45 земной);<br> 5.03 ㎞/s (v₂, 0.45 земной)|
 |[Albedo](albedo.md)|0.250 (Бонд); 0.150 (геом. альбедо); 0.170|
-|[Apparent magnitude](app_mag.md) (m)|–2,91<small>m</small> (при макс. сближении с Землёй)|
-|[Magnetic field](mag_field.md)|0.000 000 1 T (0.02 Earth’s)|
-|Mass (m)|6.418 5·10²³ ㎏ <small>(0.107 земной)</small>|
-|Axial tilt|25.191 9°|
-|Volume (Ⅴ)|1.631 8·10¹¹ ㎞³ <small>(0.151 земного)</small>|
+|[Apparent magnitude](app_mag.md) (m)|–2.91m (при макс. сближении с Землёй)|
+|[Magnetic field](mag_field.md)|0.0000001 T (0.02 Earth’s)|
+|Mass (m)|6.4185·10²³ ㎏ <small>(0.107 земной)</small>|
+|Axial tilt|25.1919°|
+|Volume (Ⅴ)|1.6318·10¹¹ ㎞³ <small>(0.151 земного)</small>|
 |Mean density (ρ)|3.933 g/㎝³ (средняя, <small>0.714 земной</small>)|
 |Surface area (S)|144 371 391 ㎞² <small>(0.283 земной)</small>|
-|Flattening|0.005 89 <small>(1.76 земного)</small>|
+|Flattening|0.00589 <small>(1.76 земного)</small>|
 |Radius|3 396.2 ㎞ (экватор., <small>0.532 земного</small>);<br> 3 376.2 ㎞ (полярный, <small>0.531 земного</small>);<br> 3 389.5 ㎞ (средний, <small>0.532 земного</small>)|
 |Solar constant|586 W/m², 569 ‑ 608 W/m² (0.4308 Earth’s)|
 |[Surface gravity](g.md)|3.711 ㎧² (экватор, <small>0.378 земного</small>)|
 |Equatorial rotation velocity|868.22 ㎞/h <small>(0.518 земного)</small>|
-|**Temperature & atmosph.:**|• • •|
-|[Атмосфера](atmosphere.md)|**Давление** 0.4 ‑ 0.87 ㎪ (4·10⁻³ ‑ 8,7·10⁻³ атм).<br> **Состав:**<br> 95.32 % углекислый газ;<br> 2.7 % азот;<br> 1.6 % аргон;<br> 0.13 % кислород;<br> 0.08 % угарный газ;<br> 0.021 % водяной пар;<br> 0.01 % окись азота|
+|**【Temperature & atmo.】**|• • •|
+|[Атмосфера](atmosphere.md)|**Давление** 0.4 ‑ 0.87 ㎪ (0.004 ‑ 0.0087 атм).<br> **Состав:**<br> 95.32 % углекислый газ;<br> 2.7 % азот;<br> 1.6 % аргон;<br> 0.13 % кислород;<br> 0.08 % угарный газ;<br> 0.021 % водяной пар;<br> 0.01 % окись азота|
 |[Освещённость](illum.md)| |
 |[Radiation](ion_rad.md)| |
-|Температура|на поверхности от –140 ℃ до +20 ℃;<br> по всей планете Мин. 186 К (−87 ℃);<br> по всей планете Ср. 210 K (−63 ℃);<br> по всей планете Макс. 268 К (−5 ℃)|
+|Температура|на поверхности –140 ‑ +20 ℃;<br> по всей планете Мин. 186 К (−87 ℃);<br> по всей планете Ср. 210 K (−63 ℃);<br> по всей планете Макс. 268 К (−5 ℃)|
 
 
 
@@ -138,14 +138,14 @@
 
 | |*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|—|**・Proposed・**|—|•|•|•|•|•|•|—|
+|—|**【Proposed】**|—|•|•|•|•|•|•|—|
 | |…| | | | | | | |<mark>TBD</mark>|
-|—|**・Developing・**|—|•|•|•|•|•|•|—|
+|—|**【Developing】**|—|•|•|•|•|•|•|—|
 |EU·RU|[Экспедиция‑М](экспедиция_м.md) (Э㎆) Ⓛ|2022|C|D| | |S|X|<mark>TBD</mark>|
 |EU·RU|[ЭкзоМарс‑2020](экзомарс_2020.md) (ЭКЗ) Ⓛ|2020|C| | | | | |<mark>TBD</mark>|
-|—|**・Active・**|—|•|•|•|•|•|•|—|
+|—|**【Active】**|—|•|•|•|•|•|•|—|
 |…|…|…| | | | | | |<mark>TBD</mark>|
-|—|**・Past・**|—|•|•|•|•|•|•|—|
+|—|**【Past】**|—|•|•|•|•|•|•|—|
 |US|[MarCO](marco.md)|2018.05.05| |D| | | | |<mark>TBD</mark>|
 |EU·RU|[ЭкзоМарс‑2016](экзомарс_2016.md) (ЭКЗ) Ⓛ|2016.03.14| |D| | | | |<mark>TBD</mark>|
 |US|[MSL](msl.md)|2011.11.26|C| | | | | |<mark>TBD</mark>|
@@ -165,11 +165,11 @@ Targets & explorations for Mars. (Comments: **T** — technical; **Draft** — m
 
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|•|•|**Never occurred:**|•|•|•|•|•|•|
+|•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EMA‑…| | | | | | | | |
-|•|•|**Was tried:**|•|•|•|•|•|•|
+|•|•|**【Was tried】**|•|•|•|•|•|•|
 |EMA‑…| | | | | | | | |
-|•|•|**Mostly done:**|•|•|•|•|•|•|
+|•|•|**【Mostly done】**|•|•|•|•|•|•|
 |EMA‑…| | | | | | | | |
 
 </small>

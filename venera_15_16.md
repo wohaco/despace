@@ -16,17 +16,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|1977-1983|
 |Duration|**Venera 15:** Overall: 1 year, 1 month, 7 days; At Venus: 9 months<br> **Venera 16:** Overall: 1 year, 1 month; At Venus: 9 months|
 |Launch|**Venera 15:** June 2, 1983, 02:38:39 UTC, Rocket: Proton-K/D-1<br> **Venera 16:** June 7, 1983, 02:32 UTC, Rocket: Proton-K/D-1|
 |Operator|Soviet Academy of Sciences|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> • Current: … <br> • ㎩st: [Pioneer Venus 1](pioneer_venus_1.md)|
+|Similar to|・Proposed: [Magellan](magellan.md), [Akatsuki](akatsuki.md) <br> ・Current: … <br> ・Past: [Pioneer Venus 1](pioneer_venus_1.md)|
 |Target|Mapping the Northern hemisphere of Venus in high resolution|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|2.6 m HGA, C‑band|
 |Composition|Orbiter|
 |Contractor|…|

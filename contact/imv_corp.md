@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**IMV Corporation** is a world’s leading supplier of high reliability vibration [test & measurement systems](test.md). Founded in 1957.
+**IMV Corporation** is a world’s leading supplier of high reliability vibration [test & measurement systems](../test.md). Founded in 1957.
 
 Since it was founded in 1957, IMV has been proud to be at the forefront of research & development in vibration testing & measurement systems, supplying technically‑advanced systems with safety & reliability as first priorities. The range of IMV vibration test systems includes single‑axis & simultaneous multi‑axis systems for up to 6 ° of freedom simulation. A range of vibration & diagnostic instruments are also available. Engineering consultancy services to assist customers with vibration measurement, analysis & testing can also be provided.
 

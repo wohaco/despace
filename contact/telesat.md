@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Satellite [communications](comms.md) & integration services, satellite operator|
+|**Business**|Satellite [communications](../comms.md) & integration services, satellite operator|
 |**[MGMT](../mgmt.md)**|…|
 
 **Telesat** (formerly **Telesat Canada**) is a Canadian satellite communications company, the fourth-largest fixed satellite services provider in the world. Founded on 1969.03.02.

@@ -13,7 +13,7 @@
 
 [![](f/aob/universe/terrestrial_planet_size_comparisons_thumb.jpg)](f/aob/universe/terrestrial_planet_size_comparisons.png)
 
-It’s one of the 4 terrestrial planets in the Solar System — it’s a rocky Earth‑like body, similar in size & mass, & is often described as Earth’s “sister” or “twin”. Its ⌀ = 12 103.6 ㎞ (7 520.8 mi) — only 638.4 ㎞ (396.7 mi) less than Earth’s — & its mass is 81.5 % of Earth; surface conditions differ radically from Earth’s because its dense atmosphere is CO₂ 96.5 % & N ~ 3.5 %.
+It’s one of the 4 terrestrial planets in the Solar System — it’s a rocky Earth‑like body, similar in size & mass, & is often described as Earth’s “sister” or “twin”. Its diameter is only 638.4 ㎞ (396.7 mi) less than Earth’s — & its mass is 81.5 % of Earth; surface conditions differ radically from Earth’s because its dense atmosphere is CO₂ 96.5 % & N ~ 3.5 %.
 
 |*Venus*|*Map*|*Map*|*Map*|
 |:--|:--|:--|:--|
@@ -37,37 +37,37 @@ And a bit of animation.
 |Flight from Earth|109 ‑ 144 days w/ [LPS](ps.md) (3.5 ‑ 6.1 months)|
 |Signal from Earth|126 ‑ 870 s (2.1 ‑ 14.5 min)|
 |Velocity from Earth|3.5 ‑ 5 ㎞/s|
-|**Orbits:**|• • •|
-|[Apocentre](apopericentre.md) (Aphelion);<br> [Pericentre](apopericentre.md) (Perihelion)|108 942 109 ㎞ (0.728 231 28 au);<br> 107 476 259 ㎞ (0.718 432 70 [au](si.md))|
-|[Argument of periapsis](keplerian.md) (ω)|54.852 29°|
+|**【Orbits】**|• • •|
+|[Apocentre](apopericentre.md) (Aphelion);<br> [Pericentre](apopericentre.md) (Perihelion)|108 942 109 ㎞ (0.72823128 au);<br> 107 476 259 ㎞ (0.71843270 [au](si.md))|
+|[Argument of periapsis](keplerian.md) (ω)|54.85229°|
 |Day/year|58.5 / … Earth’s|
-|[Eccentricity](keplerian.md) (e)|0.006 8|
+|[Eccentricity](keplerian.md) (e)|0.0068|
 |[Hill sphere](hill_sphere.md)|1 000 000 ㎞|
 |[Inclination](keplerian.md) (Ⅰ)|3.86° (to Sun’s equator); 3.39458° (to ecliptic); 2.5° (invar. plane)|
-|[Longit. of asc.node](keplerian.md) (Ω)|76.670 69°|
+|[Longit. of asc.node](keplerian.md) (Ω)|76.67069°|
 |Orbital velocity (Ⅴ)|35.02 ㎞/s|
 |Satellite of|[Sun](sun.md)|
 |Satellites|none|
-|[Semimajor axis](keplerian.md) (a)|108 208 930 ㎞ (0.723 332 au)|
-|[Sider. rotat.period](astroperiod.md) (T, day)|243.018 7 days (retrograde, synced w/ Earth)|
+|[Semimajor axis](keplerian.md) (a)|108 208 930 ㎞ (0.723332 au)|
+|[Sider. rotat.period](astroperiod.md) (T, day)|243.0187 days (retrograde, synced w/ Earth)|
 |[Sidereal period](astroperiod.md) (year)|224.698 days (224 d 16 h 45 m 7 s)|
 |[Synodic period](astroperiod.md)|583.92 days (583 d 2 h 12 m 29 s)|
-|**Physics:**|• • •|
+|**【Physics】**|• • •|
 |[Albedo](albedo.md)|0.689 (geometric); 0.76 (Bond)|
 |[Apparent magnitude](app_mag.md) (m)|−4.6|
 |Axial tilt|177.36°|
 |Density (ρ)|5.24 g/㎝³ (mean, 0.951 Earth’s)|
-|Equatorial rotation velocity|6.52 ㎞/h (0.003 9 Earth’s)|
+|Equatorial rotation velocity|6.52 ㎞/h (0.0039 Earth’s)|
 |[Escape velocity](esc_vel.md)|7.328 ㎞/s (v₁, 0.926 Earth’s);<br> 10.363 ㎞/s (v₂, 0.926 Earth’s)|
 |Flattening|0|
-|[Magnetic field](mag_field.md)|0.000 002 5 ‑ 0.000 005 T (0.05 ‑ 0.1 Earth’s)|
-|Mass (m)|4.867 5·10²⁴ ㎏ (0.815 Earth’s)|
+|[Magnetic field](mag_field.md)|0.0000025 ‑ 0.000005 T (0.05 ‑ 0.1 Earth’s)|
+|Mass (m)|4.8675·10²⁴ ㎏ (0.815 Earth’s)|
 |Radius|6 051 ㎞ (mean, 0.953 Earth’s, lesser on 320 ㎞)|
-|Solar constant|2 600 W/m², 2 525 ‑ 2 700 W/m² (1.911 7 Earth’s)|
+|Solar constant|2 600 W/m², 2 525 ‑ 2 700 W/m² (1.9117 Earth’s)|
 |Surface area (S)|4.60·10⁸ ㎞² (0.902 Earth’s)|
 |[Surface gravity](g.md)|8.87 ㎧² (0.904 Earth’s)|
 |Volume (Ⅴ)|9.38·10¹¹ ㎞² (0.857 Earth’s)|
-|**Temperature & atmosph.:**|• • •|
+|**【Temperature & atmo.】**|• • •|
 |[Atmosphere](atmosphere.md)|**Composition:**<br> ~96.5 % carbon dioxide (CO₂)<br> ~3.5 % nitrogen (N₂)<br> 0.018 % sulfur dioxide (SO₂)<br> 0.007 % argon (Ar)<br> 0.003 % water vapour (H₂O)<br> 0.001 7 % carbon monoxide (CO)<br> 0.001 2 % helium (He)<br> 0.000 7 % neon (Ne)<br> Trace hydrogen chloride (HCl),<br> Trace hydrogen fluoride (HF), etc.<br> **Density:** 67 ㎏/m³ (55.83 Earth’s).<br> **Pressure:** 9.3 ㎫ (93 ㍴), surface.<br> **Winds:** 0.3 ‑ 1 ㎧ (surface); up to 100 ㎧ (65 ㎞).|
 |[Illumination](illum.md)|200 (5.5°) ‑ 3 000 (90°) ㏓ (surface, 0.2 Earth’s)|
 |[Radiation](ion_rad.md)|<mark>TBD</mark>|
@@ -111,24 +111,24 @@ The Venus weak magnetosphere means that the solar wind is interacting directly w
 
 Common areas & possible landing sites.
 
-|*Stratigraphic Unit*|•|*Area,<br> M km²*|*Area,<br> %*|*Unsafe*|*Moder.<br> safe*|*Safe*|
+|*Stratigraphic Unit*|・|*Area,<br> M km²*|*Area,<br> %*|*Unsafe*|*Moder.<br> safe*|*Safe*|
 |:--|:--|:--|:--|:--|:--|:--|
 |**Tectonic**|—|**92.82**|**20**|—|—|—|
-|· Densely lineated plains|pdl|· 7.72|· 1.69|unsafe| | |
-|· Groove belt|gb|· 39.51|· 8.66|unsafe| | |
-|· Ridged plains|pr,rp|· 10.20|· 2.24| |mod.safe| |
-|· Tessera|t|· 35.38|· 7.75|unsafe| | |
+|・Densely lineated plains|pdl|・7.72|・1.69|unsafe| | |
+|・Groove belt|gb|・39.51|・8.66|unsafe| | |
+|・Ridged plains|pr,rp|・10.20|・2.24| |mod.safe| |
+|・Tessera|t|・35.38|・7.75|unsafe| | |
 |**Volcanic**|—|**279.95**|**61.35**|—|—|—|
-|· Regional planes, lower|rp1|· 150.68|· 33.02| | |safe|
-|· Regional planes, upper|rp2|· 44.79|· 9.81| |mod.safe| |
-|· Shield plains|psh|· 84.48|· 18.51| |mod.safe| |
+|・Regional planes, lower|rp1|・150.68|・33.02| | |safe|
+|・Regional planes, upper|rp2|・44.79|・9.81| |mod.safe| |
+|・Shield plains|psh|・84.48|・18.51| |mod.safe| |
 |**Volcano‑tectonic**|—|**78.94**|**17.30**|—|—|—|
-|· Lobate plains|pl|· 40.32|· 8.84|unsafe| | |
-|· Rift zones|rz|· 24.08|· 5.28|unsafe| | |
-|· Shield clusters|sc|· 3.56|· 0.78|?|?|?|
-|· Smooth plains|ps,sp|· 10.98|· 2.41|?|?|?|
-|··· Smooth plains, impact|spi|··· ?|··· 1| | |safe|
-|··· Smooth plains, volcanic|spv|··· ?|··· 1| | |safe|
+|・Lobate plains|pl|・40.32|・8.84|unsafe| | |
+|・Rift zones|rz|・24.08|・5.28|unsafe| | |
+|・Shield clusters|sc|・3.56|・0.78|?|?|?|
+|・Smooth plains|ps,sp|・10.98|・2.41|?|?|?|
+|・・Smooth plains, impact|spi|・・?|・・1| | |safe|
+|・・Smooth plains, volcanic|spv|・・?|・・1| | |safe|
 
 **Tessera**
 
@@ -253,19 +253,8 @@ The answers are central to understanding Venus in the context of terrestrial pla
 
 **Persons:**
 
-   - **Current:**
-      1. [Tibor Balint](person.md)
-      1. [Mark Bullock](person.md)
-      1. [Paul Byrne](person.md)
-      1. [James A. Cutts](person.md)
-      1. [Thanasis Economou](person.md)
-      1. [David Grinspoon](person.md)
-      1. [Jeffery L. Hall](person.md)
-      1. [Noam Izenberg](person.md)
-      1. [Tibor Kremic](person.md)
-      1. [Sanjay Limaye](person.md)
-   - **In the past:**
-      1. None.
+   - **Current:** [Tibor Balint](person.md)・ [Mark Bullock](person.md)・ [Paul Byrne](person.md)・ [James A. Cutts](person.md)・ [Thanasis Economou](person.md)・ [David Grinspoon](person.md)・ [Jeffery L. Hall](person.md)・ [Noam Izenberg](person.md)・ [Tibor Kremic](person.md)・ [Sanjay Limaye](person.md)
+   - **In the past:** None.
 
 
 
@@ -278,7 +267,7 @@ See also section “[Projects](project.md)”.
 
 | |*Mission/SC (index)*|*Date (UTC)*|*C*|*D*|*F*|*H*|*S*|*X*|*Notes*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|—|**・Proposed・**|—|•|•|•|•|•|•|—|
+|—|**【Proposed】**|—|•|•|•|•|•|•|—|
 |US|[DAVINCI / DAVINCI+](davinci.md)|…| |D| | | | |<mark>TBD</mark> concept of 2015|
 |US|[Cubesat UV Experiment](cubesat_uv_experiment.md) (CUVE)|…| |D| | | | |concept of 2017|
 |US|[Venus Flagship Mission](venus_flagship_mission.md) (VFM)|…|C|D| | | |X|concept of 2007|
@@ -289,14 +278,14 @@ See also section “[Projects](project.md)”.
 |US|[VERITAS](veritas.md)|…| |D| | | | |<mark>TBD</mark> concept of 2015|
 |EU|[EnVision](envision.md)|2032| |D| | | | | |
 |RU|[Venera‑D](venera_d.md) (ВД) Ⓛ|2029|C|D| | | | |<mark>TBD</mark>|
-|—|**・Developing・**|—|•|•|•|•|•|•|—|
+|—|**【Developing】**|—|•|•|•|•|•|•|—|
 |IN|[Shukrayaan‑1](shukrayaan_1.md)|2024| |D| | | | |<mark>TBD</mark>|
 |US|[Xcraft](xcraft.md)|2022| | | | | |X|<mark>TBD</mark>|
-|—|**・Active・**|—|•|•|•|•|•|•|—|
+|—|**【Active】**|—|•|•|•|•|•|•|—|
 |EU·JP|[BepiColombo](bepicolombo.md)|2018.10.20| |D|F| | | |<mark>TBD</mark>|
 |US|[Parker Solar Probe](parker_solar_probe.md)|2018.08.12| |D|F| | | |<mark>TBD</mark>|
 |JP|[Akatsuki](akatsuki.md)|2010.05.21| |D| | | | | |
-|—|**・Past・**|—|•|•|•|•|•|•|—|
+|—|**【Past】**|—|•|•|•|•|•|•|—|
 |EU|[Venus Express](venus_express.md) (VEX)|2005.11.09| |D| | | | |<mark>TBD</mark>|
 |US|[Messenger](messenger.md)|2004.08.03| |D|F| | |X|<mark>TBD</mark>|
 |US|[Cassini Huygens](cassini_huygens.md)|1997.10.15| |D|F| | |X|<mark>TBD</mark>|
@@ -368,7 +357,7 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|•|•|**Never occurred:**|•|•|•|•|•|•|
+|•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EVN‑036| |Atmosphere: cause & influence of geological & chemical activity on the climate & clouds| | |D| | | |
 |EVN‑037| |Atmosphere: cause of the retrograde moving| | |D| | | |
 |EVN‑032| |Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid|Ac, Ai, Am, At| |D| | | |
@@ -402,7 +391,7 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 |EVN‑086|T|Surface: tessera investigations, in‑situ| |C| | | | |
 |EVN‑039| |Was the planet inhabited & for how long| |C|D| | | |
 |EVN‑040| |Were there oceans & why have they gone| |C|D|F| | |
-|•|•|**Was tried:**|•|•|•|•|•|•|
+|•|•|**【Was tried】**|•|•|•|•|•|•|
 |EVN‑080| |Albedo: changes in time|Gi| |D|F| | |
 |EVN‑093|T|Atmosphere/surface imaging| | |D|F| | |
 |EVN‑077| |Atmosphere: chemical elements distribution| | |D|F| | |
@@ -460,7 +449,7 @@ Targets & explorations for Venus, including [VEXAG](vexag.md) activity. In brief
 |EVN‑027| |The causes why Venus evolved in a planet so different from Earth| |C|D|F| | |
 |EVN‑091| |The loss rate of water from Venus| | |D|F| | |
 |EVN‑053| |Traces of life in the atmosphere & on the surface| |C| | | | |
-|•|•|**Mostly done:**|•|•|•|•|•|•|
+|•|•|**【Mostly done】**|•|•|•|•|•|•|
 |EVN‑001| |Atmosphere: preliminary model| |C|D|F| | |
 |EVN‑004|T|Exploration: from Earth| | |D| | | |
 |EVN‑003|T|Exploration: from inside of atmosphere| |C|D| | | |
@@ -633,7 +622,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Determined the atmo density gradient, the region of opacity, the chemical composition of cloud aerosols, the overall composition of the atmo, profiles of H₂O vapor content, horizontal wind speed & direction.
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). A Northern hemisphere map in res 0.9 ‑ 2.5 ㎞ & 1 : 5 000 000, 25 % of the surface. Found various surface formations.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). The balloon & landers. Meteo parameters at H = 50 ㎞: temp./pres., vertical wind gusts, visibility range in the clouds, average illumination, glow on the night side & the presence of light flashes from lightning.
-   1. ••• **Future/proposed missions:** ••• The preliminary model is finished on Vega‑1,2. Contains the overall model with no specific explorations. Now it’s updated by the other EVN‑numbers.
+   1. **【Future/proposed missions】** The preliminary model is finished on Vega‑1,2. Contains the overall model with no specific explorations. Now it’s updated by the other EVN‑numbers.
 
 <p style="page-break-after:always"> </p>
 
@@ -644,7 +633,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). 1st radar topographic map: 80 % of the surface (except the poles) with a resolution of 75 ㎞.
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). A Northern hemisphere map in res 0.9 ‑ 2.5 ㎞ & 1 : 5 000 000, 25 % of the surface. Found various surface formations.
    1. **[Magellan](magellan.md)** (1989.05.04). Images of 70 % of the surface from the orbit during the single Venus day. Lasted for 7 ones.
-   1. ••• **Future/proposed missions:** ••• The preliminary map is finished on Magellan. Contains the overall map. Now it’s updated by the other EVN‑numbers, for example, 021, 022.
+   1. **【Future/proposed missions】** The preliminary map is finished on Magellan. Contains the overall map. Now it’s updated by the other EVN‑numbers, for example, 021, 022.
 
 <p style="page-break-after:always"> </p>
 
@@ -659,7 +648,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Measured the atmo temperature, density, aerosol composition, thunderstorm activity, cloud particles, altitude profiles of horizontal wind speed & direction. 1st realistic profile of the content of H₂O vapor. The microphones failed.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Measured the atmo density, structure, microphysical characteristics, horizontal wind profiles & turbulence estimates. The atmo content: CO₂ 97 %, molecular O 4.0 ± 0.3 %, Ar, Ne, Kr, Xe.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). The balloon & landers. Meteo parameters at H = 50 ㎞: temp./pres., vertical wind gusts, visibility range in the clouds, average illumination, glow on the night side & the presence of light flashes from lightning.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). Too study the atmo (mainly the lower layers) & its composition, remote study of tessera, tectonics, volcanism, climate & water history.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). 1 orbiter, 2 balloons, 2 landers. The balloons to sample gases & cloud aerosols, measure the solar & thermal radiation within the clouds. The landers to measure the atmo & ground in 2 different places in the same time.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). Measurements during the descent (atmo, weather, surface composition, atmo sampling), on the surface (the same ones, but also contact), during the flight from the 1st landing site to the 2nd (tessera, imaging in optical/NIR ranges.).
@@ -672,7 +661,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <small>(The 1st Venus observations using an optical telescope were made by Galileo Galilei. Due to the fact that Venus is very difficult to study from Earth, Venus is intensively studied with the help of SC, as well as of radio telescopes from Earth. Venus became the 2nd celestial body after Moon which surface was studied using radar from Earth. The 1st observations were made in 1961 at the NASA Goldstone Obs. In the course of several subsequent lower connections Venus was observed at Goldstone & at Arecibo Obs., which by 1963 made it possible to obtain the following: detect the fact of the planet retrograde rotation around its axis & determine its period ~ 243.1 days; detect the almost perpendicular position of the axis of rotation of the planet in relation to the plane of its orbit; measure the exact Venus radius (6 052 ㎞).)</small>
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -695,7 +684,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Messenger](messenger.md)** (2004.08.03). Used Venus for grav. maneuvers. During the 2nd fly‑by, all the instruments were observing Venus.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Studied the atmo & clouds in detail, plasma environment & surface characteristics, global maps of the surface temperatures. Lasted for ≥ 2 500 d.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Watches Venus while orbiting the planet. 1st orbit of 400 × 440 000 ㎞ with a period of 13 d 14 h was reduced to 400 × 330 000 ㎞ & 9 d.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). A small satellite to study the atmo processes: an enigmatic UV‑absorber of unknown composition situated within the upper cloud layer that absorbs half the solar radiation down welling in the atmo.
       1. **[EnVision](envision.md)** (…). An orbiter at 220 × 470 ㎞ incl. 88°. To remote study of the (sub)surface layer, studying the atmo & clouds, the planet activity (geology & volcanism), etc.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). An orbiter that researches Venus from an orbit.
@@ -715,7 +704,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Venera 11 lasted for 95 min (458 ± 5 ℃ & 9.1 ± 0.2 ㎫), Venera 12 (468 ± 5 ℃ & 9.2 ± 0.2 ㎫) — 110 min. Obtained soil samples, but the analysis couldn’t be performed; cameras were damaged.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Venera 13 lasted for 127 min (457 ℃ & 8.9 ㎫), Venera 14 — 57 min (465 ℃ & 9.4 ㎫). Imaging panorama, soil samples are similar to the oceanic tholeiitic basalts, atmo noise records for wind speed calculations (0.3 ‑ 0.5 ㎧).
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Vega‑1 failed. Vega‑2 researched the surface for 56 min, collected soil & X‑ray fluorescence spectra of the rocks.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). 1 orbiter, 2 balloons, 2 landers on different terrains. Landers to perform high‑fidelity analysis of the elemental & mineralogical content of rocks & soils on & beneath the surface, & hi‑res panoramic images.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). Measurements during the descent (atmo, weather, surface composition, atmo sampling), on the surface (the same ones, but also contact), during the flight from the 1st landing site to the 2nd (tessera, imaging in optical/NIR ranges.).
       1. **[Venus Observing System](venus_observing_system.md)** (…). A number of [SAEVe](saeve.md) units deployed over the planet.
@@ -725,7 +714,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑007.** Atmosphere: connection between the topography & the atmo circulation.
 
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Detected a long (~ 10 000 ㎞) standing wave that may affect the Venus day longevity periodically shortening/elongating it.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -736,7 +725,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). 1st Venus image: an illuminated arc of clouds over the north pole.
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Clarified the Venus ashy glow causes: because of the light of strongly ionized atoms of O & CO, it’s a close relative of Earth’s auroras, only “smeared” across the surface due to the planet’s lack of a magnetic field.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Studied the air glow, & the UV‑absorption on the clouds top. Obtained O₂ & NO₂ nightglow distributions, discovered OH nightglow.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). To study the nightglows.
       1. **[Venus Observing System](venus_observing_system.md)** (…). To observe the Venus night side continuously.
 
@@ -747,7 +736,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). Measured the aerosol distribution & concentrations of SO₂ & H₂O vapor at H = 105 ‑ 60 ㎞.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Measured the characteristics of the cloud layer & the atmo chemical composition during the descent: H₂SO₄ aerosol concentration in the clouds, & presence of the S, Cl, & probably P.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Indirect evidence of a major volcanic eruption came from a large changes in the SO₂ content.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To observe & to characterize the specific targets (~20 % of the surface) with the wide range of measurements, incl. SO, SO₂, H₂O, D/H ratio research, UV‑absorber.
 
 
@@ -765,7 +754,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Measured the atmo density, temp./pres., opacity, chemical composition of aerosols, aerosol scattering, thunderstorm activity.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Obtained accurate information about the atmo vertical structure, which served as the basis for the Akatsuki.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Differentiation the atmo into levels. To  measure the upper atmo temperature to obtain the heights distribution, & horizontal/vertical flows in the upper atmo, & to build vertical temperature profiles.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -778,7 +767,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons at H = 53 ‑ 55 ㎞ measured vertical wind gusts — powerful ascending/descending flows, & studied the superrotation.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). High‑res IR measurements revealed the southern vortex is pretty complex. The zonal winds speed changes with latitude, so that the vortex is continually being pulled & stretched, its speed decreases toward the pole.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Complex atmo model on various layers & with various wave lengths: wind speed, density, cloud particle size, particles distribution, the atmo movement between the solar & shadow Venus side.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). To characterize the UV‑absorber (absorbs ~ half of the received solar energy) to understand the atmo dynamics, & overall Rad & thermal balance.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To study the atmo chemistry, dynamics & compositional variations.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). The greenhouse effect can tell a lot about climate change, to explain the superrotation nature & how the atmo general circulation works.
@@ -794,7 +783,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Measured thunderstorm activity at H = 60 ‑ 0 ㎞; registered a bunch of electromagnetic pulses similar to distant thunderstorms at H = 32 ‑ 2 ㎞, the intensity decreased toward the surface.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons at H = 53 ‑ 55 ㎞ tracked the presence of light flashes from lightning along the flight route.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). The presence of lightnings is still not proven. Lightning & airglow camera allows to record flashes lasting up to 1 / 30 000 s, short lightning discharges.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -808,7 +797,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Confirmed that ~ 3 ‑ 6 % of sunlight reaches the surface, & intense Rayleigh scattering in a dense atmo greatly impairs visibility. The sunlight almost uniformly flooding the misty sky.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Measured that ~ 2.4 % of the sunlight reaches the surface.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons at H = 53 ‑ 55 ㎞ measured the visibility range in the clouds & the overall average illumination.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -830,7 +819,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Magellan](magellan.md)** (1989.05.04). Measured the composition of the upper atmo.
    1. **[Messenger](messenger.md)** (2004.08.03). Visible & NIR imaging data of the upper atmo. UV & X‑ray spectrometry to characterize the composition: CO₂ 97 %, N 2 %, H₂O 0.9 % & less than 0.15 % oxygen. The presence of H₂SO₄ in the clouds.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Analyzed in IR, (near)UV, visible spectrum all atmo layers, surface temperature & atmo‑surface interactions.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To study the atmo (lower layers) & its composition during the descent.
       1. **[EnVision](envision.md)** (…). Repeated observations of the specific targets (~20 % of the surface) with the wide range of measurements to fully characterize them: SO₂, H₂O, D/H ratio research.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). The atmo chemistry, dynamics & compositional variations.
@@ -841,7 +830,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑015.** Atmosphere: structure of the mesosphere.
 
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Detected the presence of a tenuous layer of ozone gas (at H = 90 ‑ 120 ㎞ compared with 15 ‑ 50 ㎞ on Earth), rather thin layer measuring 5 to 10 ㎞ across; up to 1 000 times denser than on Earth.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -853,7 +842,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Identified 3 cloud layers. The upper layer (H = 65 ‑ 70 ㎞) contains drops of concentrated H₂SO₄; the middle layer in addition to H₂SO₄ — a large number of liquid & solid sulfur particles; the lower layer (H = 50 ㎞) — larger sulfur particles.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Measured cloud particles during the descent, confirmed the homogeneity of the cloud layers. The main one localized at H = 51 ‑ 48 ㎞ with fog underneath.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Confirmed the results that the main cloud system consists of 3 different layers of clouds: the dense upper layer 62 ‑ 57 ㎞, the less dense layer 57 ‑ 50 ㎞, & the densest layer 50 ‑ 48 ㎞.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). To monitor the night side cloud IR opacity (1.0 ‑ 3.0 μm) using spectral imaging. Will identify & quantify unidentified absorbers in Venus clouds.
 
 <p style="page-break-after:always"> </p>
@@ -868,7 +857,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Studied the structure & composition of the atmo down to the surface, the nature & composition of the clouds, the radiation field & energy exchange in the lower atmo, & local information on atmo circulation patterns.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Determined atmo’s structure at H = 105 ‑ 70 ㎞.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Found that the main cloud system consists of 3 layers of clouds: the dense upper layer at H = 62 ‑ 57 ㎞, the denser layer 57 ‑ 50 ㎞, & the densest layer 50 ‑ 48 ㎞.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To build profiles of the neutral atmo & plasma densities, essential for characterize the atmo structure & dynamics.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To determine the atmo structure & composition.
 
@@ -882,7 +871,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Measured the cloud aerosols composition at H = 63 ‑ 47 ㎞. Registered sulfur (1.07 ± 0.13 mg/m³) & chlorine (0.167 ± 0.04 mg/m³).
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). Confirmed that in the upper cloud layer most particles consist of 75 ‑ 85 % H₂SO₄ solution. Aerosol distribution & relative concentrations of SO₂ & H₂O vapor were measured at H = 105 ‑ 60 ㎞.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Measured the characteristics of the cloud layer & the chemical composition of the atmo: the concentration of H₂SO₄ aerosol, & the presence of sulfur, chlorine, & probably phosphorus.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). To characterize a UV‑absorber(s) in order to understand the chemistry of the upper clouds.
       1. **[Venus Observing System](venus_observing_system.md)** (…). To determine the ambient cloud layer properties, to measure the absorption properties on the day & night sides (using a white light lamp).
 
@@ -891,7 +880,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑019.** Atmosphere: energetic balance.
 
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Studied the structure & composition of the atmo down to the surface, the nature & composition of the clouds, the radiation field & energy exchange in the lower atmo, & local information on atmo circulation patterns.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). To characterize an unknown UV‑absorber(s) to understand the planet’s overall radiative & thermal balance, the atmo dynamics. The UV‑absorber in the upper clouds absorbs almost half of the solar energy received by the planet.
       1. **[EnVision](envision.md)** (…). To repeatedly observe specific targets (~20 % of the surface) with the wide range of measurements to fully characterize these areas; thermal emission research.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To measure the dynamics, chemical cycles, energy balance, & isotopic abundances, with the balloons circumnavigate the planet up to 7 times: they would measure the solar & thermal radiation.
@@ -906,7 +895,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Magellan](magellan.md)** (1989.05.04). Developed an understanding of the planet’s structure, including its density distribution & dynamics.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). The landforms & atmo observations & models, detailed measurements from the orbit to help scientists determine whether Venus has a solid or liquid core, which will help our understanding of the planet’s formation & how it evolved.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To characterize regional & local geological features, crustal support mech & constrain mantle & core properties, the k₂ Love number & the moment of inertia.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To detect ground movement & monitor the planet globally for seismic events are the most definitive tests for internal structure & activity.
       1. **[Venus Origins Explorer](venus_origins_explorer.md)** (…). To provide the gravity field resolution needed to estimate global elastic thickness, high‑res map the gravity field to study the Venus interior structure.
@@ -917,7 +906,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <small>(Measurements/imaging that can help to construct clear 3D surface renderings.)</small>
 
    1. **[Magellan](magellan.md)** (1989.05.04). Collected the data for stereo imagery on the surface that allowed to construct clear 3D surface renderings. ~ 21.3 % of the surface was imaged.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To determine the tessera’s 3D structure & to characterize cross‑cutting relationships at their edges.
 
 <p style="page-break-after:always"> </p>
@@ -927,7 +916,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). Mapping & altimetry of the surface, the best res was ~ 0.9 ㎞, a map of the Northern hemisphere 1:5 000 000, 25 % of the planet’s surface. New types of surfaces were discovered: coronae, pancake domes, arachnoids, tessera.
    1. **[Magellan](magellan.md)** (1989.05.04). 1st clear views of 83.7 % of the surface with a res 120 ‑ 300 m/px. At the end the surface coverage was 98 % with a res of up to 100 m/px.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To repeatedly observe specific targets (~20 % of the surface) with the wide range of measurements. High‑res mapping & topography, impact craters & their geological alteration processes, to construct a global chronology of the surface currently missing.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To map the surface with a res of 30 ‑ 40 m.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). A 230‑km circular orbit for a 2‑year mapping. Extremely high‑res radar & altimetry mapping would explore the surface at resolutions up to two orders of magnitude greater than was achieved with [Magellan](magellan.md).
@@ -941,7 +930,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venera‑7](venera_7.md)** (1970.08.17). A GS‑4 device could detect the type of rocks. No data available.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Observation of radio waves of 1 µm allows to observe the lower layer of clouds & the near‑surface part, & comparing the intensity of radiation at different lengths of IR waves, it’s possible to study the surface mineral composition.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To map the surface composition & texture, & to search for active volcanism. Mapping using 0.8 & 1.2 μm wavelengths helps to test theories of surface composition.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). High‑fidelity analyses of the elemental & mineralogical content of rocks & soils on & beneath the surface. Such analyses, if done with sufficient precision, have the potential to revolutionize our understanding of Venus’ geology.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To study the surface composition & mineralogy in 2 places at once. Will provide new constraints on the origin of crustal material, the history of water, & the variability of the surface composition within the unexplored highlands.
@@ -954,7 +943,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <small>(The overall surface structure & particles distribution. Collective task with the help of 023 & 026.)</small>
 
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Soil sample was placed in a airlock sealed chamber at 30 ℃ & 5 ㎪. The composition determined by the X‑ray fluorescence spectrometer (plutonium, uranium‑235 & iron‑55 as a radiation sources) put it in the class of weakly differentiated melanocratic alkaline gabbroids, it was similar to oceanic tholeiitic basalts.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To characterize regional & local geological features, determine crustal support mechanisms & constrain mantle & core properties. The surface of Venus is not organized into large plates like Earth’s oceans but is partitioned into areas of low strain bounded by narrow margins of high strain.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). Studying the differences in the composition of the planet’s crust, as well as proving the existence of a continent‑like crust, will also help to understand where & when did the water go.
       1. **[Venus Origins Explorer](venus_origins_explorer.md)** (…). The VOX mission includes investigate crustal physics & chemistry & determine the global tectonic framework & heat flow, whether catastrophic resurfacing occurred, & any type of geologic processes that may be currently active.
@@ -970,7 +959,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 ℃, 5 ㎪), the sample is in the class of weakly diff. melanocratic alkaline gabbroids similar to oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). Radar survey & mapping, measurements of the surface relief & properties, & new types: “Coronae” — extensive round or oval formations with concentric rings; “Pancake” — flat almost circular elevations; “Arachnoid” — domes with radial cracks of arachnid shape; “Tessera” — vast areas with long mountain ranges & valleys.
    1. **[Magellan](magellan.md)** (1989.05.04). High‑quality terrain images, evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, & pancake‑shaped domes.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). The surface of Venus is not organized into large plates but is partitioned into low strain areas bounded by narrow margins of high strain; this indicates a young surface (≤ 600 ‑ 800 Ma). SC to map the surface composition/texture, & search for active volcanism.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To determine the structure & stratigraphy of (sub)surface features — volcanic hot spots.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To study the differences in the planet crust composition, to prove the existence of a continent‑like crust, to understand where/when did the water go.
@@ -983,7 +972,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Determined the content of natural radioactive elements‑uranium, thorium & potassium in rocks.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 ℃, 5 ㎪), the sample is in the class of weakly diff. melanocratic alkaline gabbroids similar to oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Measured the content of U, Th & K in the rocks. Rocks with low levels of natural radioactive elements were found at both landing points.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). Landers to perform high‑fidelity analyses of the elemental & mineralogical content of rocks & soils on & beneath the surface.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To identify mineralogy (SiO₂, FeO, MgO, S bearing, Bearing) & elemental chemistry of surface rocks in ≥ 2 surface locations (separated by ≥ 8 ㎞).
       1. **[Venus Origins Explorer](venus_origins_explorer.md)** (…). To map the chemical composition at the surface, & thus determine whether tessera regions formed in the presence of water.
@@ -993,7 +982,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑027.** The causes why Venus evolved in a planet so different from Earth.
 
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Discovered the ratio of 40Ar/36Ar isotopes is higher than the Earth’s (≥ 50 ‑ 500 times) which indicates that the genesis of the Venus atmo is very different from that of Earth — it can be judged on the planet evolution & volcanic activity.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To travel through the Venus atmo, sampling the air; it’s important for understanding the origin of the Venus atmo, how it formed/evolved, & how & why it’s different from Earth & Mars, including what happened to its water.
       1. **[EnVision](envision.md)** (…). To investigate why Venus & Earth took such different evolutionary paths.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To study the reasons for the evolution of Venus into such a different planet from Earth.
@@ -1018,7 +1007,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Discovered a very weak magnetic field.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Measured the magnetic field, which is the result of the interaction of the planet’s ionosphere with the solar wind (induced magnetic field).
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Venus has no magnetosphere to deflect the charged particles of the solar wind as they stream past the planet, it’s partially protected from erosion of the outer atmo by an induced magnetic field. Detected an elongated magnetotail.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To detect signatures of a crustal dipole magnetic field. To determine Venus own magnetic field (not induced) with near‑surface measurement.
 
 <p style="page-break-after:always"> </p>
@@ -1028,7 +1017,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Traces of tectonic activity were found (less active than on Earth). The volcanic activity of Venus evidenced by the “youth” of some relief details.
    1. **[Magellan](magellan.md)** (1989.05.04). No visible outpourings of lava or typical signs of terrestrial plate tectonics (continental drift & basin floor spreading) been detected. The tectonics is dominated by a system of global rift zones & numerous broad, low dome structures (coronae), produced by the upwelling & subsidence of mantle magma.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Indirect evidence of a volcanic eruption has come from large atmo changes in SO₂ (volcanic gases released by a large eruption & floating upward).
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To search for active geological processes, changes in surface temperature associated with active volcanism, cm‑scale surface changes that would characterize of volcanic & tectonic activity, & estimate rates of weathering & surface alteration.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To detect active volcanic processes, to track the clouds & log meteorological data such as the winds, pressures, & temperatures. Detecting ground movement at one location & monitoring the planet globally for seismic events are the most definitive tests for internal structure & activity.
       1. **[Venus Observing System](venus_observing_system.md)** (…). To monitor surface activity of the night side through 1 µm atmo windows from the L2 point, incl. looking for surface changes or thermal anomalies. To deploy several [SAEVe](saeve.md).
@@ -1044,7 +1033,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <small>(Venus seems to had an almost Earth’s atmo a while ago, but it was then lost into space with water.)</small>
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1052,7 +1041,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑031.** Atmosphere: long‑term variations of the surface meteo characteristics.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. Units **[LLISSE](llisse.md)** & **[SAEVe](saeve.md)** (…). Small surface stations for long‑term meteo observations.
 
 <p style="page-break-after:always"> </p>
@@ -1060,7 +1049,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑032.** Atmosphere: characteristics of the CO₂ & N₂ in state of the lower layers supercritical fluid.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). The supercritical state of CO₂ at the surface of Venus creates extremely diffuse surface illumination (Rayleigh scattering prevails), so there are no shadows on the surface of the planet.
 
 <p style="page-break-after:always"> </p>
@@ -1068,7 +1057,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑033.** Atmosphere: nature/rate of its escape.
 
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Measured the rate of water escape & confirmed that roughly twice as much H as O is escaping.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). The solar wind, & absence of a global magnetic field, are one of the mechanisms for carrying the atmo into space. Measuring escaping ions & solar wind & plasma tail will confirm the data on atmo drift.
 
 <p style="page-break-after:always"> </p>
@@ -1079,7 +1068,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons at H = 53 ‑ 55 ㎞ in the most active & dense cloud layer studied the phenomenon of superrotation. Measured temperature, pressure, & vertical wind gusts along the flight path — powerful ascending & descending currents.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Discovered that the high level winds have become faster over time: 300 → 400 ㎞/h for 10 years. The reason of this increase is unknown.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). An update of superrotation nature: it’s maintained near the equator by atmo tidal waves formed by solar heat on the dayside & cooling on the nightside. Closer to the poles atmo turbulence & other kinds of waves have a more pronounced effect.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). The greenhouse effect can tell a lot about climate changes. To explain the nature of superrotation & how the general circulation of the atmo works.
 
 <p style="page-break-after:always"> </p>
@@ -1089,7 +1078,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Founded the contrast between darker & lighter features of the imaged clouds was due to the differences in the cloud’s absorptivity of UV.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Global imaging in the visible/UV/NIR spectral ranges. Imaged the brightness distribution of the surface in search of volcanic activity, monitored the air glow, studied the spread of an UV absorption on the top of clouds.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). UV images allowed to determine the distribution of SO₂ related to the formation of clouds & the distribution of unidentified chemical substances that absorb UV.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…). To study the distribution of UV‑absorber in the study of upper cloud chemistry.
       1. **[EnVision](envision.md)** (…). To monitor the sulphured minor species (mainly SO & SO₂) as well as the UV‑absorber in the upper clouds.
       1. **[Venus Observing System](venus_observing_system.md)** (…). To search for bio‑signatures in the clouds while identifying & quantifying the UV‑absorber, to measure the day & night sides absorption.
@@ -1099,7 +1088,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑036**. Atmosphere: cause & influence of geological & chemical activity on the climate & clouds.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To detect activity & measure small‑scale changes on Venus, including geological & geochemical cycles involving the interior, surface & atmo. This would help to understand the relationships between its geological activity & atmo.
 
 <p style="page-break-after:always"> </p>
@@ -1108,7 +1097,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑037.** Atmosphere: cause of the retrograde moving.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1116,7 +1105,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑038.** Atmosphere: processes of the atmospheric parts dissipation.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1124,7 +1113,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑039.** Was the planet inhabited & for how long?
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 
@@ -1135,7 +1124,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑040.** Were there oceans & why have they gone?
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To look for evidence of the existence of oceans in the past.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To determine the chemical & isotopic characteristics of the past ocean (if there was one), to study the differences in the composition of the crust.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To determine the absence/presence of an ocean in the past. To do this, the ratio of deuterium to hydrogen in atmo water is measured.
@@ -1148,7 +1137,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04). Detected IR radiation given off by atmo, from which the temperature could be calculated.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Studied the complex dynamics & chemistry, & the interactions between the atmo & the surface, to calculate the surface characteristics.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To detect the cm‑scale surface changes that would enable characterization of volcanic & tectonic activity, & estimate rates of weathering & surface alteration.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). A range of atmo, geologic, & geochemical investigations to illuminate how the atmo, clouds, surface, & interior interact over many timescales, how surface/atmo interactions affect rock chemistry & climate.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To determine the correlation between the planet’s surface & atmo, & the rate of exchange of key chemical elements (S, C, O); the SC will take atmo samples in situ, as a function of altitude & time.
@@ -1162,7 +1151,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Discovered the ratio of 40Ar/36Ar isotopes is higher than the Earth’s (≥ 50 ‑ 500 times) which indicates that the genesis of the Venus atmo is very different from that of Earth — it can be judged on the planet evolution & volcanic activity.
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). ~ 150 craters were found in the studied area: a very young age of these formations, ~ 750 ± 250 Myr, which was consistent with the idea of catastrophic geological processes, accompanied by the formation of large‑scale “bubbles” over the mantle plumes & changes in the tessera.
    1. **[Magellan](magellan.md)** (1989.05.04). Detected the planetary surface is young, ~ 500 Myr old; some events 500 Myr ago resurfaced the planet. But there’s no visible outpourings of lava. The tectonics is dominated by a system of global rift zones & numerous broad, low dome structures (coronae), produced by the upwelling & subsidence of mantle magma.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet’s ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[EnVision](envision.md)** (…). To image faults, stratigraphy & weathering, to identify structural relationships & geological history. To investigate past geologic processes, to analyze the gravity field together with the topography gives insights on the lithospheric & crustal structure, allowing to better understand Venus geological evolution.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). The ability to analyze both rocks & soils & to drill to depths within pristine rocks holds the key to past changes in atmo conditions, volcanism, climate.
@@ -1174,7 +1163,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑043.** Mechanisms of the mantle’s convections.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1182,7 +1171,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑044.** Surface: nature & causes of forming of the current rocks & soils.
 
    1. **[Magellan](magellan.md)** (1989.05.04). High‑res global images to better understand Venus geology & the role of impacts, volcanism, & tectonics in the formation of the surface structures.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To study the morphology & stratigraphy of the Venus surface units using NIR imaging along an air traverse longer than 8 ㎞, with a spatial res of ≤ 5 m.
 
 <p style="page-break-after:always"> </p>
@@ -1191,7 +1180,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Magellan](magellan.md)** (1989.05.04). Detected the planetary surface is young, ~ 500 Myr old; some events 500 Myr ago resurfaced the planet. But there’s no visible outpourings of lava. The tectonics is dominated by a system of global rift zones & numerous broad, low dome structures (coronae), produced by the upwelling & subsidence of mantle magma.
 
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). Representing about 10 % of the surface, tessera may be the oldest terrain. The processes which have shaped them are unknown. Detailed morphology & their tectonic features, coupled with surface emissivity & subsurface features will provide an extensive investigation of these regions.
 
 <p style="page-break-after:always"> </p>
@@ -1200,7 +1189,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Magellan](magellan.md)** (1989.05.04). Detected that planetary surface is young, ~ 500 Myr old, some events 500 Myr ago resurfaced the planet. It’s believed that this may have been the work of massive outpourings of lava from planet‑wide volcanic eruptions.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Measured the spectral emissivity of the surface in order to detect variations in chemical composition & they can be used to study the properties of likely Venus hot spots. Possibly the volcanoes are thousand years old & hidden.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To detect cm‑scale surface changes that would enable characterization of volcanic & tectonic activity, & estimate rates of weathering & surface alteration. Mapping impact craters & geological alteration processes to construct the surface global chronology.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To research surface/subsurface features & re‑surfacing processes.
 
@@ -1209,7 +1198,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑047.** Surface: structure‑composition connection of different regions & planet’s evolution.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1217,7 +1206,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑048.** Nature & sources of the greenhouse effect.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To understand the atmo experiments that simultaneously probe dynamics, chemical cycles, energy balance, & isotopic abundances to be performed.
 
 <mark>TBD</mark>  
@@ -1231,7 +1220,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). <mark>TBD</mark>
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Measured the surface spectral emissivity in order to detect variations in chemical composition to be used to study the properties of likely Venus hot spots.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). An update of superrotation nature: it’s maintained near the equator by atmo tidal waves formed by solar heat on the dayside & cooling on the nightside.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 
@@ -1242,7 +1231,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑050.** Causes of the water loss.
 
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Confirmed that a large quantity of water has been lost into space over billions of years. Venus doesn’t generate a magnetic field which can protect its atmo from the solar wind, & the electric field can provide enough energy to oxygen ions to accelerate them fast enough to escape the Venus gravitation.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To explore how the atmo formed/changed over time, incl. what happened to its water; it would help to understand why Venus & Earth took such a different paths.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). Mineralogical & chemical analyses of the surface, if done with sufficient precision, can revolutionize understanding of Venus geology.
 
@@ -1252,7 +1241,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
 
    1. **[Magellan](magellan.md)** (1989.05.04). <mark>TBD</mark>
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To investigate Venus from its core to the atmo at an high‑res. To characterize regional & local geological features, crustal support mechanisms & constrain mantle & core properties, to map the gravity field, to measure the k₂ Love number.
 
 <p style="page-break-after:always"> </p>
@@ -1260,7 +1249,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑052.** Role of water (fluids) in planetary geology.
 
    1. **[Magellan](magellan.md)** (1989.05.04). Despite the high surface T ≈ 475 ℃ & P ≈ 92 ㍴, the complete lack of water makes erosion a very slow process on the planet. Magellan’s maps show no telltale signs of past water bodies. The surface features can persist for hundreds of millions of years.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To reveal the history of water on Venus & the chemical processes at work in the unexplored lower atmo.
       1. **[VERITAS](veritas.md)** (…). To determine if Venus hosted ancient aqueous environments.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). The study of Tessera has the most potential to provide an understanding of the Venus interior thermal evolution, including the possibility of preserving the ancient continental crust & the role of water in the past.
@@ -1271,7 +1260,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑053.** Traces of life in the atmosphere & on the surface.
 
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). There were no features either in the spectrum IR Fourier spectrometer or on the panoramic images that would suggest the organic compounds presence.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). To search for bio‑signatures in the clouds of Venus by sampling the habitable region (H = 48 ‑ 62 ㎞) on the day & night sides, & comparing them.
 
 <p style="page-break-after:always"> </p>
@@ -1279,7 +1268,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑054 (Т).** Atmosphere: sample return.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1287,7 +1276,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑055 (Т).** Atmosphere: sample obtaining & analysis.
 
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Obtained 22 samples & 176 atmo analyses of mass spectrometry measurements at H = 42 ‑ 0 ㎞.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To travel through the atmo, sampling the air, which are important to understand the origin/evolution of the atmo, & how/why it’s different from Earth’s & Mars’.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). While the balloons circumnavigate the planet up to 7 times, they would continually sample gases & cloud aerosols.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To determine the presence of a secondary atmo (isotopes of noble gases), atmo sampling, correlation between the atmo/surface, & the rate of key chemical elements (S, C, O) exchange, presence of an ocean in the past.
@@ -1299,7 +1288,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑056 (Т).** Exploration: from L1/L2.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). The L1 & L2 Sun‑Venus points provide an excellent chance to continuously monitor the day (L1) & night (L2) hemispheres. To measure the escaping ions, solar wind, plasma tail, geometric albedo globally, emitted thermal radiation.
 
 <p style="page-break-after:always"> </p>
@@ -1308,7 +1297,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <small>(Exploration of the planet Venus by satellites (orbiters, landers, etc.) with a mass of 10 ‑ 100 ㎏.)</small>
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1316,7 +1305,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑058 (Т).** Exploration: directed seismoexperiment.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1324,7 +1313,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑059 (Т).** Exploration: with rover.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Automaton Rover for Extreme Environments](aree.md)** (…). A low electronics mech rover.
       1. **[Zephyr](zephyr.md)** (…). A wind driver rover.
 
@@ -1336,7 +1325,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑060.** Manned fly-by.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Human assisted science ar Venus ❐](f/archive/arxiv_2006_04900.pdf)** (2020.06, whitepaper).
 
 <p style="page-break-after:always"> </p>
@@ -1344,7 +1333,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑061 (Т).** Surface: sample return.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. Despace hypothetical **[VGV](hptc_vgv.md)** (…). Small soil sample (0.3 ㎏) return using the concepts of the [Vega‑1,2](vega_1_2.md) lander & [Luna‑24](luna_24.md) liquid rockets.
       1. **[Venus Sample Return Mission](venus_sample_return_mission.md)** (VSRM) (…). Descending & ascending balloons to take a soil sample & bring it to the orbit. The orbiter to catch them & bring to Earth.
 
@@ -1355,7 +1344,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Drilled a soil sample, & feed it through a pressure reduction system to an X‑ray fluorescence spectrometer. The penetrometers & analyzing systems failed on both landers.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). Placed soil sample in a airlock sealed chamber (30 ℃, 5 ㎪), the sample is in the class of weakly diff. melanocratic alkaline gabbroids like an oceanic tholeiitic basalts: Si 45/49 %, Al 16/18 %, Mg 11/8.1 %, Fe 9.3/8.8 %, Ca 7.1/10 %, K 4.0/0.2 %, Ti 1.6/1.3 %, S 0.65/0.35 %, Cl ≤0.3/≤0.4 %, Mn 0.2/0.2 %.
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). VEGA‑2 collected soil & X‑ray fluorescence spectra of the Venusian rock.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To take soil samples from 2 different sites.
 
 <p style="page-break-after:always"> </p>
@@ -1364,7 +1353,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). 1st SC to send back b&w images from the Venus surface showing no shadows, no apparent dust in the air, & a variety of 30 ‑ 40 ㎝ not eroded rocks. Also pancake shape lava rocks with lava or other weathered rocks in between.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). 1st imaging panorama, both b&w & the 1st color images, 22 panoramas were transferred: 8 b&w, 5 through red, 5 through green, & 4 through a blue light filter.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). Panoramic images of the landing sites at an order of magnitude higher resolution than achieved with previous landers would provide geologic context for the landing & sampling sites.
 
 <p style="page-break-after:always"> </p>
@@ -1372,7 +1361,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑064 (Т).** Planetary terraforming.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1380,7 +1369,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑065 (Т).** Human on the Venus orbit.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1388,7 +1377,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑066 (Т).** Human on the surface.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1399,7 +1388,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Images of the Venus pole allowed to see the polar vortex.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). The south vortex center has a highly variable shape, internal structure, morphology — the core can be any shape (often — “S” or “8”), it may become completely chaotic. The vortex center doesn’t coincide with the geographical pole.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Global images of both hemispheres, but almost without a pole views. Akatsuki should tell you more about the polar vortex, the so‑called polar dipole.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1407,7 +1396,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑068 (T).** Precise landing.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). Rough landind with possibility to fly to another place.
       1. Unit **[MEVC](mevc.md)** (…). The maneuverable plane.
 
@@ -1417,7 +1406,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <small>(≤ 3 h — the onboard equipment isolation in a titan container with outer isolation layer & inner heat accumulator (sulfuric acid lithium on Venera 8 ‑ 16); 3 ‑ 5 h — the OE in the titan dewar (analysis in SU in 1985 after the Venera‑15/16 & Vega‑1/2, & US in 2007 in VFM); ≥ 5 h — to use high‑temperature electronics)</small>
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). VOS carries a set of high‑temperature electronics & experiments that can work for a long time at high temperatures, up to the surface of the planet. To monitor the surface meteorology & seismic activity continuously for 4 months.
 
 
@@ -1437,7 +1426,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Galileo](galileo.md)** (1989.10.18)
    1. **[Akatsuki](akatsuki.md)** (2010.05.21)
    1. **[BepiColombo](bepicolombo.md)** (2018.10.20)
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Cubesat UV Experiment](cubesat_uv_experiment.md)** (…)
 
 <p style="page-break-after:always"> </p>
@@ -1446,7 +1435,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 <small>(Exploration of the planet Venus by satellites (orbiters, landers, etc.) with a mass of 1 ‑ 10 ㎏.)</small>
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1461,7 +1450,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Mariner‑10](mariner_10.md)** (1973.11.04)
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09)
    1. **[Parker Solar Probe](parker_solar_probe.md)** (2018.08.12)
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1481,7 +1470,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Cassini Huygens](cassini_huygens.md)** (1997.10.15)
    1. **[Messenger](messenger.md)** (2004.08.03)
    1. **[BepiColombo](bepicolombo.md)** (2018.10.20)
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…)
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…)
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…)
@@ -1501,7 +1490,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons floated at H = 53 ‑ 55 ㎞ taking measurements of meteorological parameters: temperature, pressure, vertical wind gusts, visibility range in the clouds, average illumination, tracked the glow on the night side & the presence of light flashes from lightning, powerful ascending & descending flows.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Measured the cloud motions, patterns in the long‑term wind speeds, discovered the high level winds have become faster over time (300 → 400 ㎞/h).
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). 3D study of the Venus atmo movement over time & the construction of the Venus meteorology.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). In situ measurements of noble gases & trace gases, the atmo physical characteristics (pressure, temperature, winds).
       1. **[Venus Observing System](venus_observing_system.md)** (…). The Venus global cloud cover holds many puzzles & one is whether the albedo is changing over time. This tells us that surprisingly, current cloud layer climate may experience rapid decadal variations, but the mechanism is unknown.
 
@@ -1512,7 +1501,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). Measured how cloud or haze particles scatter light from an internal pulsed source, calculated the cloud structure, the concentration of particles & their size distribution, & the refractive index of light by cloud particles.
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Studied the atmo structure & composition down to the surface, the cloud’s nature & composition, the radiation field & energy exchange in the lower atmo, & local information on atmo circulation patterns.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). To determine the causes of clouds, the density, particle size of clouds, CO distribution, & other parameters. This allows to describe how Venus clouds are forming.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1522,7 +1511,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Magellan](magellan.md)** (1989.05.04). Found that at ≥ 85 % of the Venus surface is covered with volcanic flows. Venus may still have active volcanoes, but no visible outpourings of lava was detected.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Studied the volcanism, measured the spectral emissivity of the surface in order to detect variations in chemical composition & they can be used to study the properties of likely hot spots, detected some bright transient features.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). To observe the lower layer of clouds & near‑surface part, & by comparing the intensity of radiation at different lengths of IR waves, it’s possible to detect the presence of active volcanoes.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To observe the sites of potential volcanism identified in Venus Express data. To perform a comprehensive search for volcanic activity by targeting atmo signatures, thermal & composition signatures, & a global map of surface composition.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To determine the structure & stratigraphy of (sub)surface features — volcanic hotspots.
       1. **[Venus Observing System](venus_observing_system.md)** (…). To investigate numerous geologic features, incl. large shield volcanoes correlate with surface emissivity differences.
@@ -1545,7 +1534,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Measured the cloud layer & atmo chemical composition, the concentration of H₂SO₄ aerosol, & the presence of S, Cl, & probably P.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Detected the presence of a tenuous layer of ozone, which is located at H = 90 ‑ 120 ㎞, compared with 15 ‑ 50 ㎞ on Earth, & is confined to a thin layer (5 ‑ 10 ㎞ across). The ozone layer is tenuous — up to 1 000 times less dense than on Earth.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Observed the lower cloud layer & the near‑surface part, & comparing the intensity of radiation at different lengths of IR waves, it’s possible to study the distribution of H₂O vapor, vertical profiles of the H₂SO₄ mist, SO₂ distribution.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To fully characterize specific targets: SO₂, H₂O, D/H ratio. 1st opportunity to distinguish between gaseous & liquid (droplets) H₂SO₄ concentration (H = 45 ‑ 55 ㎞).
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To perform in situ measurements of noble gases & trace gases, & the atmo physical characteristics during the descent & along the air traverse.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To study the atmo chemistry, dynamics & compositional variations.
@@ -1560,7 +1549,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Magellan](magellan.md)** (1989.05.04). Synthetic aperture radar, relief radiography, 3D (sub)surface map.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). A radio sounding experiment: transmitted radio waves from the SC & passed them through the atmo or reflected them from the surface. These radio waves were received by a Earth’s GS for analysis of the ionosphere, atmo & surface.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). When Akatsuki is obscured by Venus from observations from Earth, radio waves emitted by SC penetrate the atmo & reach Earth. The passage of radio waves through the Venus atmo causes a change in their frequency.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[VERITAS](veritas.md)** (…). High‑res imagery would be obtained by using an X‑band radar configured as a single pass interferometric synthetic aperture radar (InSAR) coupled with a multispectral NIR emissivity mapping capability.
 
 <p style="page-break-after:always"> </p>
@@ -1569,7 +1558,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Magellan](magellan.md)** (1989.05.04). Clarified the Venusian day duration: 243.0185 Earth days.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). The landforms seen by VEX could only be lined up with those observed by Magellan if the length of the Venus day is ~ 6.5 min longer.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To clarify the spin rate & spin axis researches.
 
 
@@ -1581,7 +1570,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Long‑term atmosphere observations, albedo changes.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Long‑term atmosphere observations near the equator, albedo changes.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). To clarify why the Venus albedo is changing over time, to monitor the geometric albedo globally by continuous imaging & whole disk spectroscopy from the L1 Lagrange point orbiter, supplemented by the polar & equatorial orbiters.
 
 <p style="page-break-after:always"> </p>
@@ -1590,7 +1579,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑081 (T).** Extreme environment electronics.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. Units **[LLISSE](llisse.md)** & **[SAEVe](saeve.md)** (…). Small stations with meteorologic equipment with a minimum of a high‑temperature electronics, but without the atmo & pressure protection.
       1. Unit **[AREE](aree.md)** (…). Rover‑automaton almost without high‑temperature electronics.
       1. Unit **[Zephyr](zephyr.md)** (…). Wind‑solar‑powered rover.
@@ -1600,7 +1589,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑082 (T).** Atmosphere: prolonged investigations on the H = 0 ‑ 10 ㎞.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). VOS carries a set of high‑temperature electronics & scientific experiments that can work for a long time at high temperatures on the surface.
       1. Units **[LLISSE](llisse.md)** & **[SAEVe](saeve.md)** (…). Small stations with meteorologic equipment with a minimum of a high‑temperature electronics, but without the atmo & pressure protection.
       1. Unit **[AREE](aree.md)** (…). Rover‑automaton almost without high‑temperature electronics.
@@ -1611,7 +1600,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑083 (T).** Atmosphere: prolonged investigations on the H=10 ‑ 30 ㎞.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. None.
 
 <p style="page-break-after:always"> </p>
@@ -1619,7 +1608,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑084 (T).** Atmosphere: prolonged investigations on the H = 30 ‑ 60 ㎞.
 
    1. **[Vega‑1](vega_1_2.md)** (1984.12.15), **[Vega‑2](vega_1_2.md)** (1984.12.21). Balloons operated for 46 h 30 min each at H = 53 ‑ 55 ㎞ until the data transmission stopped due to the onboard power source depletion.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). Balloons to study the atmo at H = 55.5 ㎞ altitude for 30 d.
       1. **[Venus Observing System](venus_observing_system.md)** (…). To monitor the thermal structure at H = 40 ‑ 80 ㎞ from the dense coverage offered by the mutual radio occultation events between the two short period Venus orbiters & the two Lagrange orbiters (113 day period).
 
@@ -1630,7 +1619,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑15](venera_15_16.md)** (1983.06.02), **[Venera‑16](venera_15_16.md)** (1983.06.07). The tessera were the oldest areas of the planet’s crust & were often overlapped by lava flows.
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Tessera observation, imaging.
    1. **[Magellan](magellan.md)** (1989.05.04). Tessera observation, imaging.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To take the photos of the ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[EnVision](envision.md)** (…). To provide detailed tessera morphology & tectonic features, coupled with characterization of surface emissivity & subsurface features.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). Study of tessera (visualization) with high spatial res will allow a new look at the processes that contributed to the surface evolution.
@@ -1640,7 +1629,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑086 (T).** Surface: tessera investigations, in‑situ.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). To sample the major elements & mineralogy (particularly SiO₂, FeO, MgO, S‑bearing, & OH‑bearing minerals) of the tessera in multiple locations.
 
 <p style="page-break-after:always"> </p>
@@ -1648,7 +1637,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑087.** Crustal support mechanisms.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To characterize regional & local geological features, determine crustal support mechanisms & constrain mantle & core properties.
 
 <p style="page-break-after:always"> </p>
@@ -1656,7 +1645,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑088 (T).** Surface: subsurface investigations.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). Subsurface research: to image faults, stratigraphy & weathering, to identify structural relationships & geological history, subsurface sounding the depth of volcanic flows, of buried unit boundaries beneath volcanic plains.
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To measure the (sub)surface features & re‑surfacing processes.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). High‑fidelity analyses of the elemental  & mineralogical content of rocks & soils on & beneath the surface.
@@ -1667,7 +1656,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Determined the gravitational field harmonics from perturbations of the SC orbit & detected gamma‑ray bursts.
    1. **[Magellan](magellan.md)** (1989.05.04). Collected information on the gravitational field by monitoring the SC velocity. Areas of higher gravitation would slightly increase the velocity of the spacecraft, registering as a Doppler shift in the signal. Provided high‑res gravimetric data for 94 % of the planet. The gravity signature of features on Venus closely reflect surface topography.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To measure the gravity for at least 50 % of the surface with spatial res of better than 200 ㎞, that is equivalent to the knowledge of spherical harmonics to at least degree of 90 & accuracy of at least 10 mGal/km. To measure the k₂ Love number to constrain the size & state of Venus’ core & the composition of Venus’ mantle.
       1. **[Venus Origins Explorer](venus_origins_explorer.md)** (…). To provide the gravity field res needed to estimate global elastic thickness, & map the gravity field at high res to study the planet interior structure.
       1. **[VERITAS](veritas.md)** (…). 1st maps of deformation & global surface composition, thermal emissivity, & gravity field. Gravity science would be carried out using the SC telecom system.
@@ -1680,7 +1669,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑090.** Spin axis.
 
    1. **[Mariner‑2](mariner_2.md)** (1962.08.27). Studied Venus rotates slow & in the opposite direction of Earth’s.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[EnVision](envision.md)** (…). To repeatedly observe specific targets (~20 % of the surface) with the wide range of measurements to fully characterize them. Researches of the spin rate & spin axis.
 
 <p style="page-break-after:always"> </p>
@@ -1689,7 +1678,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Detected the lower cloud layers of H₂O vapor & higher than expected concentration of molecular O, concluding there were more water in the past.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Measured the rate of escape & confirmed that roughly twice as much H as O is escaping, confirmation that water is the source of these escaping ions.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). To determine the water loss rate over Venus history, the atmo escape over time, the surface water quantity in the past, an incoming solar wind, & the plasma tail, the escaping ion flux sampling.
 
 <p style="page-break-after:always"> </p>
@@ -1701,7 +1690,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Venera‑9](venera_9_10.md)** (1975.06.08), **[Venera‑10](venera_9_10.md)** (1975.06.14). The orbiters that delivered the landers to Venus served as a communications relay for the lander.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). After performing the withdrawal maneuver, the orbiter flew near Venus at a L = 35 000 ㎞, transmitting data to Earth from its lander throughout the descent & work on the surface.
    1. **[Venera‑13](venera_13_14.md)** (1981.10.30), **[Venera‑14](venera_13_14.md)** (1981.11.04). As the orbiter flew by Venus, it acted as a data relay for the lander & then continued on into a heliocentric orbit.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). The orbiter to provide a telecom relay support for the month‑long balloon campaign & for the 2 five‑hour landers.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). The lander will send data to the orbiter.
       1. **[Venus Observing System](venus_observing_system.md)** (…). Orbiters can serve as a relay for other SC to Earth for missions in situ placed anywhere on Venus for 11 years.
@@ -1720,7 +1709,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Galileo](galileo.md)** (1989.10.18). Venus atmo imaging during the fly‑by.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Global imaging in the visible, UV, NIR spectral ranges. Displayed the brightness distribution of the surface in search of volcanic activity, monitors the air glow, studying the spread of an UV absorption.
    1. **[Akatsuki](akatsuki.md)** (2010.05.21). Long‑term atmo imaging in a different wavelengths.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet’s ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). To perform images of the surface on the way down.
       1. **[Venus Mobile Explorer](venus_mobile_explorer.md)** (…). Remote tessera study in optical wavelengths with high spatial res will for a new look at the processes that contributed to the surface evolution.
@@ -1731,7 +1720,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑094 (T).** High temperature electronics.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Venus Observing System](venus_observing_system.md)** (…). To deploy several [SAEVe](saeve.md) to measure the deep atmo composition in the lower scale height that is in contact with the surface. This has never before been done, but is important for understanding the atmo‑surface interactions.
 
 <p style="page-break-after:always"> </p>
@@ -1739,7 +1728,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 **EVN‑095.** Climate: history & causes of changes.
 
    1. None.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[DAVINCI](davinci.md)** (…). To take the photos of the planet’s ridged terrain — “tessera” to explore its origin & tectonic, volcanic, & weathering history.
       1. **[Venus Flagship Mission](venus_flagship_mission.md)** (…). The ability to analyze rocks & soils & to drill to depths within pristine rocks holds the key to past changes in atmo conditions, volcanism, & climate.
 
@@ -1749,7 +1738,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
 
    1. **[Pioneer‑Venus‑1](pioneer_venus_1.md)** (1978.05.20). Measured the detailed structure of the ionosphere, investigated the interaction with the solar wind. Detected single‑charge & double‑charge atomic O in the ionosphere, as well as ions of molecular O, atomic & molecular H, He, C, N & CO₂.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). As on Earth, solar UV radiation removes electrons from the atoms & molecules in the upper atmo, creating a region of electrically charged gas (ionosphere). It interacts with the solar wind & the magnetic field carried by the solar wind.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To investigate the Venus ionosphere.
 
 <p style="page-break-after:always"> </p>
@@ -1766,7 +1755,7 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. **[Pioneer‑Venus‑2](pioneer_venus_2.md)** (1978.08.08). Determined the effect of solar radiation & interplanetary space. Measured the atmo & solar wind interactions, & the penetration of the solar flow.
    1. **[Venera‑11](venera_11_12.md)** (1978.09.09), **[Venera‑12](venera_11_12.md)** (1978.09.14). Studied the scattering & absorption of solar radiation in the atmo.
    1. **[Venus Express](venus_express.md)** (VEX, 2005.11.09). Venus has no magnetosphere to deflect the charged particles of the solar wind. During the continuous battle with the solar wind, the ionosphere is able to slow & divert the flow of particles around the planet creating an elongated magnetotail.
-   1. ••• **Future/proposed missions:** •••
+   1. **【Future/proposed missions】**
       1. **[Shukrayaan‑1](shukrayaan_1.md)** (…). To study the atmo interaction with solar radiation & solar wind.
       1. **[Venus Observing System](venus_observing_system.md)** (…). The peak ionization level due to cosmic rays is estimated to occur at ~ 63 ㎞. Cosmic ray flux has never been measured in Venus atmo & the aerial platform offers an opportunity to learn about its impact on the cloud layer.
 

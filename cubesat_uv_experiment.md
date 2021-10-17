@@ -17,7 +17,7 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md) in … prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: 2, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
@@ -25,10 +25,10 @@ The mission concept is still in its early formulation stage, started in 2017. Th
 |Launch|…, …, …|
 |Operator|NASA|
 |Programme|…|
-|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: …|
+|Similar to|・Proposed: …<br> ・Current: …<br> ・Past: …|
 |Target|Characterize Venus’ unknown UV absorber(s) to understand the planet’s radiative and thermal balance, atmospheric dynamics, and chemistry of its upper clouds|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|…|
 |Composition|…|
 |Contractor|…|

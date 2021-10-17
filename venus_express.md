@@ -15,7 +15,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|$ 262 million or 18 323 ㎏ [gold](sc_price.md) in 2005 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|2001 — 2005|
@@ -23,10 +23,10 @@
 |Launch|9 November 2005, 03:33:34 UTC;<br>Rocket: Soyuz-FG/Fregat|
 |Operator|European Space Agency|
 |Programme|Venus Express|
-|Similar to|• Proposed: …<br> • Current: [Akatsuki](akatsuki.md) (JP 2010).<br> • ㎩st: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975).|
+|Similar to|・Proposed: …<br> ・Current: [Akatsuki](akatsuki.md) (JP 2010).<br> ・Past: [Вега‑1/2](vega_1_2.md) (SU 1984), [Венера‑11/12](venera_11_12.md) (SU 1978), [Венера‑9/10](venera_9_10.md) (SU 1975).|
 |Target|To perform a global investigation of the Venusian atmosphere|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|2 high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas|
 |Composition|Orbiter|
 |Contractor|[EADS Astrium](contact/astrium.md)|

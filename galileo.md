@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|US $ 1.4 billion or 114 155 ㎏ of [gold](sc_price.md) in 1977 prices|
 |Development|1977 ‑ 1986|
 |Duration|**Planned:** 8 y 1 m 19 d, **In orbit:** 7 y 9 m 13 d, **Final:** 13 y 11 m 3 d|
 |Launch|October 18, 1989, 16:53:40 UTC, Rocket: Space Shuttle Atlantis STS-34 / IUS|
 |Operator|NASA|
 |Programme|Galileo|
-|Similar to|• Proposed: [Cassini-Guygens](cassini.md) <br> • Current: … <br> • ㎩st: …|
+|Similar to|・Proposed: [Cassini-Guygens](cassini.md) <br> ・Current: … <br> ・Past: …|
 |Target|Research of Jupiter’s system|
 |[Type](sc.md)|Orbiter spacecraft; Atmospheric Spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|Orbiter; Lander|
 |Contractor|…|
 |Manufacturer|JPL; Messerschmitt-Bölkow-Blohm; General Electric; Hughes Aircraft Company|

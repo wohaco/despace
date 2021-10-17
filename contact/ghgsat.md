@@ -6,7 +6,7 @@
 |**Mission**|With evolving climate dynamics, we thrive to collaborate with the global communities to share our expertise & create a compelling perspective for the future of humanity. |
 |**Vision**|A leading‑edge space & data technology company, we accelerate the decarbonization of our planet. Through our emission monitoring solutions & analytics tools, we provide actionable metrics & insights that empower the economies of tomorrow.|
 |**Values**|…|
-|**Business**|Greenhouse gases monitoring, [gas sensors](sensor.md) & [imaging interferometers](cam.md) for Cubesats|
+|**Business**|Greenhouse gases monitoring, [gas sensors](../sensor.md) & [imaging interferometers](../cam.md) for Cubesats|
 |**[MGMT](../mgmt.md)**|…|
 
 **GHGSat** provides global emissions monitoring services, currently for greenhouse gases & ultimately also for air quality & other trace gases from a wide range of sources.

@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Sumitomo Precision Products Co., Ltd.** is a Japanese manufacturer of [heat exchangers](hp.md) & [control](tcs.md), semiconductor/MEMS equipment ([gyroscopes](iu.md)), & [sensors](sensor.md). Founded 1961.01.05.
+**Sumitomo Precision Products Co., Ltd.** is a Japanese manufacturer of [heat exchangers](../hp.md) & [control](tcs.md), semiconductor/MEMS equipment ([gyroscopes](../iu.md)), & [sensors](../sensor.md). Founded 1961.01.05.
 
 Main manufacturing sites:
 
@@ -23,9 +23,9 @@ Main space equipment that the company has helped produce to date:
    - Cold plates for pressurized sections & exposed sections of & experimental equipment onboard Kibo, Japan’s science module attached to the ISS (International Space Station), as well as temperature regulators for experimental equipment, water‑air heat exchangers for experimental equipment, & cabin heat exchangers onboard Kibo;
    - Cold plates for pressurized sections & exposed sections of & experimental equipment onboard Kibo, Japan’s science module attached to the ISS (International Space Station), as well as temperature regulators for experimental equipment, water‑air heat exchangers for experimental equipment, & cabin heat exchangers onboard Kibo;
    - Cold plates for vapor‑phase epitaxial experimental devices for the SFU, a space experiment free flyer unit & more;
-   - Heat exchangers for the [H-II](h2.md), a liquid fuel rocket, & [heat exchangers](hp.md) for the first‑stage engine of the H-IIA/B rocket;
+   - Heat exchangers for the [H-II](../h2.md), a liquid fuel rocket, & [heat exchangers](../hp.md) for the first‑stage engine of the H-IIA/B rocket;
    - Heat exchangers & water‑cooled ducts for the electrophoresis apparatus of the IML-2, a second‑generation microgravity laboratory, & temperature regulator for the aquatic animal experiment unit;
-   - MEMS [gyroscope](iu.md) for space applications;
+   - MEMS [gyroscope](../iu.md) for space applications;
    - Thermal‑storage equipment & thrusters for the OREX, an orbital re‑entry experiment vehicle.
 
 <p style="page-break-after:always"> </p>

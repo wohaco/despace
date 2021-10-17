@@ -15,7 +15,7 @@
 
 **Mitsubishi Electric.**
 
-   1. **[Satellites](sc.md):**
+   1. **[Satellites](../sc.md):**
       - *Comms ones* — DRTS, Es'hail 2, MTSAT-2, OPTUS C1, ST-2, SUPERBIRD-C2(7), TURKSAT-4A/4B
       - *Engineering Test ones* — ETS-VIII, SERVIS, USERS
       - *International Space Station* — HTV, JEM (Kibo)
@@ -23,13 +23,13 @@
       - *Positioning ones* — QZSS (Quasi-Zenith Satellite System)
       - *Science ones* — SOLAR-B
    1. **Satellite equipment.**
-      - *BUS Equip.* — [solar array panels](sp.md), [heat pipe panels](hp.md), [structural panel](sc.md), & [batteries](eb.md).
-      - *[RF Equip.](comms.md)* — telemetry/beacon transmitters, power/low noise amplifiers, receiver & ↑↓ converters.
-   1. **[Ground Systems](scs.md).** Ground control stations for sat tracking, optic/radio telescopes for astro observation.
+      - *BUS Equip.* — [solar array panels](../sp.md), [heat pipe panels](../hp.md), [structural panel](../sc.md), & [batteries](../eb.md).
+      - *[RF Equip.](../comms.md)* — telemetry/beacon transmitters, power/low noise amplifiers, receiver & ↑↓ converters.
+   1. **[Ground Systems](../scs.md).** Ground control stations for sat tracking, optic/radio telescopes for astro observation.
       - *Control Systems* — antenna equip. to track/control sats, the optic/radio telescopes to observe.
          - 64‑m Parabolic Antenna ([Usuda Deep Space Center](udsc.md))
          - JAXA New Ground Network (GN)
-         - JAXA Tracking Control for [Launch Vehicles](lv.md)
+         - JAXA Tracking Control for [Launch Vehicles](../lv.md)
          - New Ground Antennas & Satellite Control System for QZSS
          - The Ground Operations Systems for the Himawari-8,9
       - *Earth Stations* — system, incl. antennas, transmitters, receivers. Sat Comms Earth Station Systems.
@@ -42,12 +42,12 @@
 
 **Mitsubishi Heavy Industries, Ltd.**
 
-   1. MHI [Launch Services](lv.md), LV R&D. Launch services since 2007 with the [H-IIA](h2.md)/[B](h2.md), [H3](h3.md). We provide total support from contract to launch & we will deliver sats to any place on the target date.
-   1. Electronic Parts: [Temperature Sensor](sensor.md) For Space Application
-   1. [Reaction Control System](iu.md)
-   1. [Rocket Engine Combustion Test Facility](test.md)
-   1. [Rocket Engines](ps.md): ㎆-XX, LE-7A, LE-5B
-   1. [Rocket Launcher](lv.md)
+   1. MHI [Launch Services](../lv.md), LV R&D. Launch services since 2007 with the [H-IIA](../h2.md)/[B](../h2.md), [H3](../h3.md). We provide total support from contract to launch & we will deliver sats to any place on the target date.
+   1. Electronic Parts: [Temperature Sensor](../sensor.md) For Space Application
+   1. [Reaction Control System](../iu.md)
+   1. [Rocket Engine Combustion Test Facility](../test.md)
+   1. [Rocket Engines](../ps.md): ㎆-XX, LE-7A, LE-5B
+   1. [Rocket Launcher](../lv.md)
    1. Space Station: JEM (Japanese Experiment Module), H-II Transfer Vehicle (HTV)
 
 <p style="page-break-after:always"> </p>

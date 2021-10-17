@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-The **Tsukuba Space Center (TKSC)** also known by its radio callsign **Tsukuba**, is the operations facility & headquarters for the [JAXA](jaxa.md) located in Tsukuba Science City in Ibaraki Prefecture. The complex has several factories that are used to manufacture JAXA’s [satellites](sc.md), & the Japanese Experiment Module for the International Space Station. The facility opened in 1972 & serves as the primary location for Japan’s space operations & research programs. Japanese astronauts involved in the International Space Station are trained in part here in addition to the training they receive at the Lyndon B. Johnson Space Center, in Houston, Texas.
+The **Tsukuba Space Center (TKSC)** also known by its radio callsign **Tsukuba**, is the operations facility & headquarters for the [JAXA](jaxa.md) located in Tsukuba Science City in Ibaraki Prefecture. The complex has several factories that are used to manufacture JAXA’s [satellites](../sc.md), & the Japanese Experiment Module for the International Space Station. The facility opened in 1972 & serves as the primary location for Japan’s space operations & research programs. Japanese astronauts involved in the International Space Station are trained in part here in addition to the training they receive at the Lyndon B. Johnson Space Center, in Houston, Texas.
 
 Main Facilities:
 

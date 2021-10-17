@@ -9,11 +9,11 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Canon Electronic Space (CE Space)** is a Japanese manufacturer of a [micro satellites & their components](sc.md).
+**Canon Electronic Space (CE Space)** is a Japanese manufacturer of a [micro satellites & their components](../sc.md).
 
 **In‑house development.** Sakamaki’s message of “becoming a global leader in the space industry & fueling the next generations’ dreams” quickly spread, not just within the Canon group but around the world, attracting talented researchers & engineers to the team. In 2012, Canon Electronics started development & manufacturing on an original micro satellite. At the time, satellite components were primarily sourced from abroad & cost steep prices; CE decided to make as many parts as possible in‑house, gaining familiarity with the technology involved. Drawing from experience in mass‑manufacturing precision electromechanical components, CE continues to find ways to reduce costs while maintaining the required performance, with the aim of making these components available to other satellite manufacturers.
 
-**From manufacture to launch: a one‑stop shop.** Canon Electronics’ goal is to become a global leader in the space industry. The first step is to begin mass production of micro satellites for sale to various customers. At the same time, internally developed components & photo/video data gathered by CE’s satellites will create additional business opportunities. In the future, the CE group aims to also produce [launch vehicles](lv.md) & dedicated [launch sites](spaceport.md). Customers will be able to come to Canon Electronics as a complete space‑business solution, from satellite manufacture to launch, freeing them to focus on their unique innovations & solutions.
+**From manufacture to launch: a one‑stop shop.** Canon Electronics’ goal is to become a global leader in the space industry. The first step is to begin mass production of micro satellites for sale to various customers. At the same time, internally developed components & photo/video data gathered by CE’s satellites will create additional business opportunities. In the future, the CE group aims to also produce [launch vehicles](../lv.md) & dedicated [launch sites](spaceport.md). Customers will be able to come to Canon Electronics as a complete space‑business solution, from satellite manufacture to launch, freeing them to focus on their unique innovations & solutions.
 
 <p style="page-break-after:always"> </p>
 

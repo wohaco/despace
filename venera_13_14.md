@@ -16,17 +16,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 13:** Travel: 4 months, 2 days, Lander: 127 minutes<br> **Venera 14:** Travel: 4 months and 1 day, Lander: 57 minutes|
 |Launch|**Venera 13:** October 30, 1981, 06:04:00 UTC, Rocket: Proton-K/D-1 8K82K<br> **Venera 14:** November 4, 1981, 05:31:00 UTC, Rocket: Proton-K/D-1 8K82K|
 |Operator|Soviet Academy of Sciences|
 |Programme|Venera programme|
-|Similar to|• Proposed: … <br> • Current: … <br> • ㎩st: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md)|
+|Similar to|・Proposed: … <br> ・Current: … <br> ・Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md), [Venera 9 and 10](venera_9_10.md), [Venera 11 and 12](venera_11_12.md), [Vega 1 and 2](vega_1_2.md)|
 |Target|Panoramic photography of Venus, sampling and analysis of the soil, the study of the atmosphere.|
 |[Type](sc.md)|Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|Orbiter: high‑gain parabolic antenna|
 |Composition|Orbiter / Lander|
 |Contractor|…|

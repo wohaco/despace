@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Bradford Engineering BV** — европейский разработчик, производитель и тестировщик систем управления КА. Основано в 1984 году. Нынешняя продукция: [ДМ](iu.md), [СД](sensor.md), смесители топлива. Основные характеристики: 50 employees, Certified to ISO 9001:2008 & AS9100C standards, In-house design, engineering, production & test capabilities (electrical & mechanical), 350 m² clean room (class ISO8 & ISO7), In-house development for mechanics, software & electronics, Full space program focus.
+**Bradford Engineering BV** — европейский разработчик, производитель и тестировщик систем управления КА. Основано в 1984 году. Нынешняя продукция: [ДМ](../iu.md), [СД](../sensor.md), смесители топлива. Основные характеристики: 50 employees, Certified to ISO 9001:2008 & AS9100C standards, In-house design, engineering, production & test capabilities (electrical & mechanical), 350 m² clean room (class ISO8 & ISO7), In-house development for mechanics, software & electronics, Full space program focus.
 
 
 <p style="page-break-after:always"> </p>

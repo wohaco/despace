@@ -62,11 +62,11 @@ Spacecraft project supported by HIREC:
       - Engineering test satellite VIII “KIKU No.8” (ETS-VIII), JAXA
    - International space station:
       - Japanese experiment module “KIBO” (JEM), JAXA
-      - [H-II](h2.md) transfer vehicle “KOUNOTORI2 & 3” (HTV2 & 3), JAXA/NASA
+      - [H-II](../h2.md) transfer vehicle “KOUNOTORI2 & 3” (HTV2 & 3), JAXA/NASA
    - Launch vehicle:
-      - [H-II](h2.md) Launch Vehicle, JAXA
-      - [H-IIA](h2.md) Launch Vehicle, JAXA
-      - [H-IIB](h2.md) Launch Vehicle, JAXA
+      - [H-II](../h2.md) Launch Vehicle, JAXA
+      - [H-IIA](../h2.md) Launch Vehicle, JAXA
+      - [H-IIB](../h2.md) Launch Vehicle, JAXA
    - Lunar & planetary probe:
       - Asteroid explorer “HAYABUSA” (MUSES-C), JAXA
       - Selenological & engineering explorer “KAHUYA” (SELENE), JAXA

@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|$100 million or 19 312 ㎏ of [gold](sc_price.md)|
 |Development|1969 — 1973|
 |Duration|1 year 4 months 21 days|
 |Launch|November 3, 1973, 05:45:00 UTC, Rocket Atlas SLV-3D Centaur-D1A|
 |Operator|NASA / JPL|
 |Programme|Mariner|
-|Similar to|• Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> • Current: … <br> • ㎩st: [Mariner 2](mariner_2.md)|
+|Similar to|・Proposed: [BepiColombo](bepicolombo.md), [Messenger](messenger.md), Mercury-P (2031)<br> ・Current: … <br> ・Past: [Mariner 2](mariner_2.md)|
 |Target|Measurement Mercury’s environment, atmosphere, surface, & body characteristics & to make similar investigations of Venus|
 |[Type](sc.md)|Fly‑by spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|S‑band|
 |Composition|Orbiter|
 |Contractor|…|

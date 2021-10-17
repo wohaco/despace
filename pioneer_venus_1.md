@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|US $125 million or 20 126 ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|14 years 4 months 18 days|
 |Launch|May 20, 1978, 13:13:00 UTC, Rocket Atlas SLV-3D Centaur-D1AR|
 |Operator|NASA / ARC|
 |Programme|Pioneer Venus project|
-|Similar to|• Proposed: … <br> • Current: [Magellan](magellan.md)<br> • ㎩st: [Venera-9,10](venera_9_10.md), [Mariner 10](mariner_10.md)|
+|Similar to|・Proposed: … <br> ・Current: [Magellan](magellan.md)<br> ・Past: [Venera-9,10](venera_9_10.md), [Mariner 10](mariner_10.md)|
 |Target|Mapping the surface of Venus, studying the atmosphere (including observation of the rotation of the atmosphere)|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|High‑gain antenna; S‑band, X‑band|
 |Composition|Orbiter|
 |Contractor|United Launch Alliance|

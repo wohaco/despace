@@ -17,17 +17,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|US$1.5 billion or 36 780 ㎏ of [gold](sc_price.md)|
 |Development|2008-2018|
 |Duration|Planned: 6 years, 321 days|
 |Launch|August 12, 2018, 07:31 UTC, Rocket Delta IV Heavy / Star-48BV|
 |Operator|NASA · Applied Physics Laboratory|
 |Programme|Parker Solar Probe|
-|Similar to|• Proposed: Solar Orbiter (planned for 2020) <br> • Current: … • ㎩st: [MESSENGER](messnger.md)|
+|Similar to|・Proposed: Solar Orbiter (planned for 2020) <br> ・Current: … • Past: [MESSENGER](messnger.md)|
 |Target|Trace the flow of energy that heats the corona and accelerates the solar wind.<br>Determine the structure and dynamics of the magnetic fields at the sources of solar wind.<br>Determine what mechanisms accelerate and transport energetic particles.|
 |[Type](sc.md)|Fly‑by spacecraft; orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|Probe|
 |Contractor|United Launch Alliance|
 |Manufacturer|Applied Physics Laboratory|

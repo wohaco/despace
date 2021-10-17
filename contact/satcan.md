@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Engineering & business consultancy for [sat telecom & space tech](sc.md) sectors|
+|**Business**|Engineering & business consultancy for [sat telecom & space tech](../sc.md) sectors|
 |**[MGMT](../mgmt.md)**|…|
 
 **Satellite Canada Innovation Network (SatCan)** is a member-based, [non-for-profit organization](nonprof_org.md) dedicated to driving the global competitiveness of the Canadian space industry by facilitating the development of new companies, revolutionary products, & disruptive services with the speed & success of industry.

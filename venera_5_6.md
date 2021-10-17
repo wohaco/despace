@@ -16,17 +16,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 5:** Travel: 131 days; Atmosphere: 53 minutes<br> **Venera 6:** Travel: 127 days, Atmosphere: 51 minutes|
 |Launch|**Venera 5:** January 5, 1969, 06:28:08 UTC Rocket: Molniya 8K78M<br> **Venera 6:** January 10, 1969, 05:51:52 UTC Rocket: Molniya 8K78M|
 |Operator|Lavochkin|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: … <br> • ㎩st: [Venera 4](venera_4.md)|
+|Similar to|・Proposed: [Vega 1 and 2](vega_1_2.md)<br> ・Current: … <br> ・Past: [Venera 4](venera_4.md)|
 |Target|Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface|
 |[Type](sc.md)|Atmospheric spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|2 m parabolic HGA (decimeter range)|
 |Composition|Lander, orbiter|
 |Contractor|…|

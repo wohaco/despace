@@ -17,17 +17,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|US$450 million or 34 161 ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|10 years, 8 months and 27 days|
 |Launch|August 3, 2004, 06:15:56 UTC, Rocket: Delta II 7925H-9.5|
 |Operator|NASA|
 |Programme|Discovery Program|
-|Similar to|• Proposed: Меркурий‑П (2031), [BepiColombo](bepicolombo.md) <br> • Current: … <br> • ㎩st: [mariner_10](mariner_10.md)|
+|Similar to|・Proposed: Меркурий‑П (2031), [BepiColombo](bepicolombo.md) <br> ・Current: … <br> ・Past: [mariner_10](mariner_10.md)|
 |Target|Study of the planet Mercury: geological history, global magnetic field, size and state of the core, exosphere.|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|Orbiter|
 |Contractor|…|
 |Manufacturer|Applied Physics Laboratory|

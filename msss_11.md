@@ -154,7 +154,7 @@ The following sessions will be held during the symposium:
 | |Alexandra Bermejo| |Metamaterials technology for space applications|
 | |Ekaterina Grishakina| |Martian soil simulant for mission ExoMars|
 | |Manuel Dominguez| |Control of sensors for optimal performance: application to planetary missions|
-|•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
+|•|・  •   •   •   •   •   •   •|・ •  •  •  •  •  •|・ •  •|
 |—|—|—|**`Session. Venus`**|
 | |[Ludmila Zasova](person.md)| |Venera-D: a perspective planetary mission|
 | |[Richard Ernst](person.md)| |Geological tests of global warming models on Venus|
@@ -163,7 +163,7 @@ The following sessions will be held during the symposium:
 | |Vladimir N. Gubenko & Ivan A. Kirillovich| |Internal waves characteristics in the Venus’s atmosphere revealed from the Magellan & Venus Express radio occultation data by two independent methods|
 | |Vladimir Gromov & [Alexander Kosov](person.md)| |A model of millimeter wave atmospheric absorption of the sulfur dioxide & the sulphuric acid vapour for the radiometric experiment in the Venera-D mission|
 | |[Leonid Ksanfomality](person.md)| |Hypothetical living forms on planet Venus & their possible nature|
-|•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
+|•|・  •   •   •   •   •   •   •|・ •  •  •  •  •  •|・ •  •|
 |—|—|—|**`Session. Extrasolar planets`**|
 | |Shingo Kameda| |Exoplanets Exosphere Detecting Ultraviolet Spectrograph (UVSPEX) onboard World Space Observatory Ultraviolet (WSO-UV)|
 | |Valery Shematovich| |Statistical characteristics of exoplanets|
@@ -178,7 +178,7 @@ The following sessions will be held during the symposium:
 | |Stas Barabash| |ENA imaging on an interstellar prob|
 | |Valery I. Shematovich| |Kinetic models of electron & proton aurorae at Mars|
 | |Natalia Bulatova| |Features of the Sun’s influence on the Earth lithosphere in periods of minimum activity|
-|•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
+|•|・  •   •   •   •   •   •   •|・ •  •  •  •  •  •|・ •  •|
 |—|—|—|**`Session. Moon & Mercury`**|
 | |Johannes Benkhoff|ESA|The status of the BepiColombo mission|
 | |Alexander Bazilevskiy| |Potential lunar base on Mons Malapert on Mons Malapert: topographic, geologic & trafficability consideration|
@@ -223,7 +223,7 @@ The following sessions will be held during the symposium:
 | |Anastasia Zharkova| |Thermal stability of volatiles in low‑latitude traps on Mercury|
 | |Anastasia Zharkova & Mariya Kolenkina| |Patterns in distribution of morphometric parameters of the Moon & Mercury surfaces: mapping at the global level|
 | |Anastasia Zharkova & Mikhail Kreslavsky| |Boulders on the Moon & Mercury: comparative morphological analysis at detail level|
-|•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
+|•|・  •   •   •   •   •   •   •|・ •  •  •  •  •  •|・ •  •|
 |—|—|—|**`Session. Small Bodies (including cosmic dust)`**|
 | |Jing Sun| |The research on radar astronomical observations to the asteroids|
 | |Daniel Hestroffer| |BIRDY deep-space CubeSat to probe the internal structure of small bodies|
@@ -244,7 +244,7 @@ The following sessions will be held during the symposium:
 | |Sergey Ipatov| |Migration of interplanetary dust particles from different distances from the Sun to the terrestrial planets & the Moon|
 | |Tatiana Salnikova| |Existence of elusive Kordylewski cosmic dust clouds|
 | |Alexey Demyanov & V.V. Vysochkin| |Analyzer of Space Dust|
-|•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
+|•|・  •   •   •   •   •   •   •|・ •  •  •  •  •  •|・ •  •|
 |—|—|—|**`Session. Giant planets`**|
 | |Scott Bolton, Jack Connerney| |Juno’s Surprising Results at Jupiter|
 | |Elena Belenkaya| |Jupiter’s auroras associated with Galilean moons & the main ovals|
@@ -253,7 +253,7 @@ The following sessions will be held during the symposium:
 | |TBD| |(3-4 presentations from US) Jupiter & Saturn: the results of Cassini & Juno|
 | |Valery Kotov| |Rotation of giant planets|
 | |Erica Nathan| |Icy Moon Evolution: Experiments with Freezing Water Spheres|
-|•|•   •   •   •   •   •   •   •|•  •  •  •  •  •  •|•  •  •|
+|•|・  •   •   •   •   •   •   •|・ •  •  •  •  •  •|・ •  •|
 |—|—|—|**`Session. Astrobiology`**|
 | |Richard Hoover| |Advances in Astrobiology|
 | |Sohan Jheeta| |Synthesis of the basic ‘building blocks’ of life|

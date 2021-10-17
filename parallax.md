@@ -9,10 +9,6 @@
 
 **Паралла́кс** *(греч. παραλλάξ, от παραλλαγή, «смена, чередование»)* — изменение видимого положения объекта относительно удалённого фона в зависимости от положения наблюдателя.
 
-
-
-## Описание
-
 Зная расстояние между точками наблюдения **L** (база) и угол смещения **α**, можно определить расстояние до объекта:  
 `D = L / (2·sinα/2)`
 
@@ -26,7 +22,6 @@
 |[![](f/si/parallax_example_ru_thumb.jpg)](f/si/parallax_example_ru.png)|[![](f/si/parallax_telemetre_parallaxe_principe_thumb.jpg)](f/si/parallax_telemetre_parallaxe_principe.png)|
 
 
-<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|

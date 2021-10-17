@@ -11,18 +11,18 @@
 
 **IHI Corporation** (株式会社IHI, Kabushiki-gaisha IHI), formerly known as **Ishikawajima-Harima Heavy Industries Co., Ltd.** (石川島播磨重工業株式会社, Ishikawajima Harima Jūkōgyō Kabushiki-gaisha), is a Japanese company which produces ships, aircraft engines, turbochargers for automobiles, industrial machines, marine diesel engines, power station boilers & other facilities, suspension bridges & other transport‑related machinery. Founded in 1853.
 
-**IHI AEROSPACE Co., Ltd.** is a Japanese company aimed to design, development, production, & sales of space equipment systems, [engines](ps.md), defense [rocket systems](lv.md) & other aerospace related products, etc. Founded in 2000.
+**IHI AEROSPACE Co., Ltd.** is a Japanese company aimed to design, development, production, & sales of space equipment systems, [engines](../ps.md), defense [rocket systems](../lv.md) & other aerospace related products, etc. Founded in 2000.
 
 IHI Aerospace Co., Ltd., holds about 25 % of the market for satellite thrusters — the small engines used to maintain satellites’ orbital positions & precisely control their attitude (orientation). An important feature of IHI Aerospace’s thrusters is their superior fuel economy, which prolongs a satellite’s useful life.
 
 Space products:
 
-   - BT-4 liquid‑fuelled apogee motor (used in [Atlas V](atlas) & [Antares](antares.md))
-   - [Epsilon](epsilon.md) Launch Vehicle
+   - BT-4 liquid‑fuelled apogee motor (used in [Atlas V](../atlas.md) & [Antares](../antares.md))
+   - [Epsilon](../epsilon.md) Launch Vehicle
    - GX Launch Vehicle (Partner in Galaxy Express Corporation)
-   - M-V [Launch Vehicle](lv.md)
+   - M-V [Launch Vehicle](../lv.md)
    - S-type Sounding Rocket (S-210, S-310, S-520, SS-520)
-   - SRB-A solid rocket booster for [H-IIA/H-IIB](h2.md) Launch Vehicle
+   - SRB-A solid rocket booster for [H-IIA/H-IIB](../h2.md) Launch Vehicle
 
 <p style="page-break-after:always"> </p>
 

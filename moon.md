@@ -21,11 +21,11 @@
 |Breaking to the orbit|…|
 |Distance from Earth|356 000 ‑ 407 000 ㎞, flight for 4.5 ‑ 5.5 days w/ [LPS](ps.md), signal is 1.17 ‑ 1.36 s|
 |Velocity from Earth|… ㎞/s|
-|**Orbits:**|• • •|
+|**【Orbits】**|• • •|
 |[Apocentre](apopericentre.md) (Apogee);<br> [Pericentre](apopericentre.md) (Perigee)|405 696 ㎞ (404 000 ‑ 406 700 ㎞);<br> 363 104 ㎞ (356 400 ‑ 370 400 ㎞)|
 |[Argument of periapsis](keplerian.md) (ω)|Progressing by one revolution in 8.85 years|
-|Day/year|14 d 18 h (29.530 6 d or 708.734 4 h) / … Earth’s|
-|[Eccentricity](keplerian.md) (e)|0.054 9 (average)|
+|Day/year|14 d 18 h (29.5306 d or 708.7344 h) / … Earth’s|
+|[Eccentricity](keplerian.md) (e)|0.0549 (average)|
 |[Hill sphere](hill_sphere.md)|66 000 ㎞|
 |[Inclination](keplerian.md) (Ⅰ)|5.145° (to ecliptic)|
 |[Longit. of asc.node](keplerian.md) (Ω)|Regressing by one revolution in 18.61 years|
@@ -33,25 +33,25 @@
 |Satellite of|[Earth](earth.md)|
 |Satellites|none|
 |[Semimajor axis](keplerian.md) (a)|384 399 ㎞ (0.002 57 [au](si.md))|
-|[Sider. rotat.period](astroperiod.md) (T, day)|27.321 661 days (synced w/ Earth)|
-|[Sidereal period](astroperiod.md) (year)|27.321 582 days (27 d 7 h 43 min 1 s)|
-|[Synodic period](astroperiod.md)|29.530 588 days (29 d 12 h 44 min 0 s)|
-|**Physics:**|• • •|
+|[Sider. rotat.period](astroperiod.md) (T, day)|27.321661 days (synced w/ Earth)|
+|[Sidereal period](astroperiod.md) (year)|27.321582 days (27 d 7 h 43 min 1 s)|
+|[Synodic period](astroperiod.md)|29.530588 days (29 d 12 h 44 min 0 s)|
+|**【Physics】**|• • •|
 |[Albedo](albedo.md)|0.12|
 |[Apparent magnitude](app_mag.md) (m)|−2.5/−12.9 (−12.74 full Moon)|
-|Axial tilt|1.542 4° (to ecliptic)|
-|Equatorial rotation velocity|16.657 ㎞/h (0.009 9 Earth’s)|
+|Axial tilt|1.5424° (to ecliptic)|
+|Equatorial rotation velocity|16.657 ㎞/h (0.0099 Earth’s)|
 |[Escape velocity](esc_vel.md)|1.68 ㎞/s (v₁, 0.212 Earth’s);<br> 2.38 ㎞/s (v₂, 0.212 Earth’s)|
-|Flattening|0.001 25 (0.372 Earth’s)|
-|[Magnetic field](mag_field.md)|0.000 005 T (0.1 Earth’s)|
-|Mass (m)|7.347 7·10²² ㎏ (0.012 3 Earth’s)|
+|Flattening|0.00125 (0.372 Earth’s)|
+|[Magnetic field](mag_field.md)|0.000005 T (0.1 Earth’s)|
+|Mass (m)|7.347 7·10²² ㎏ (0.0123 Earth’s)|
 |Mean density (ρ)|3.346 4 g/㎝³ (average, 0.607 Earth’s)|
 |Radius|1 738.14 ㎞ (equator, 0.273 Earth’s);<br> 1 735.97 ㎞ (polar, 0.273 Earth’s);<br> 1 737.10 ㎞ (average, 0.273 Earth’s)|
 |Solar constant|1 360 W/m², 1 321 ‑ 1 412 W/m² (1.0 Earth’s)|
 |Surface area (S)|3.793·10⁷ ㎞² (0.074 Earth’s, 2.2 RU)|
 |[Surface gravity](g.md)|1.62 ㎧² (equator, 0.165 Earth’s)|
-|Volume (Ⅴ)|2.195 8·10¹⁰ ㎞³ (0.020 Earth’s)|
-|**Temperature & atmosph.:**|• • •|
+|Volume (Ⅴ)|2.1958·10¹⁰ ㎞³ (0.020 Earth’s)|
+|**【Temperature & atmo.】**|• • •|
 |[Atmosphere](atmosphere.md)|**Composition:** He, Ar, Ne, Na, K, H, Rn.<br> **Density:** 1.2·10⁻¹³ ㎏/m³ (10⁻¹³ Earth’s).<br> **Pressure:** 10⁻⁷ ㎩ (1 pico㍴, day), 10⁻¹⁰ ㎩ (1 femto㍴, night).<br> **Winds:** none.|
 |[Illumination](illum.md)|200 (5.5°) ‑ 3 000 (90°) ㏓ (surface, 0.2 Earth’s)|
 |[Radiation](ion_rad.md)|(285 Earth’s):<br> 285 ㏜ / y (surface, 0.37 ㎜ aluminum);<br> 21.5 ㏜ / y (surface, 3.7 ㎜ aluminum);<br> 1.25 ㏜ / y (surface, 37 ㎜ aluminum);<br> 0.05 ㏜ / y (surface, 450 ㎜ thick aluminum shield)|
@@ -132,13 +132,13 @@ Based on various observations (missions Apollo, Surveyor‑3, etc.), statistics 
 
 Expected number of microcraters
 
-|*Crater’s diameter, 10⁻⁶ m*|*Quantity, 1/(m²·year)*|
+|*Crater’s diameter, m*|*Quantity, 1/(m²·year)*|
 |:--|:--|
-|≥ 0.1|30 000|
-|≥ 1.0|1 200|
-|≥ 10|300|
-|≥ 100|0.6|
-|≥ 1 000|0.001|
+|≥ 0.0000001|30 000|
+|≥ 0.000001|1 200|
+|≥ 0.00001|300|
+|≥ 0.0001|0.6|
+|≥ 0.001|0.001|
 
 **Geological composition**
 
@@ -321,18 +321,18 @@ See also “[Projects](project.md)”.
 
 | |*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|—|**・Proposed・**|—|•|•|•|•|•|•|—|
+|—|**【Proposed】**|—|•|•|•|•|•|•|—|
 |CN|[Chang'e-5](chang_e_5.md)| | | | | | | |<mark>TBD</mark>|
 |CN|[Chang'e-4](chang_e_4.md)| | |C| | | | |<mark>TBD</mark>|
 |RU|[Луна‑29](луна_29.md) Ⓛ| | |C| | |S| |<mark>TBD</mark>|
-|—|**・Developing・**|—|•|•|•|•|•|•|—|
+|—|**【Developing】**|—|•|•|•|•|•|•|—|
 |RU|[Луна‑28](луна‑28.md) (ЛГР) Ⓛ|2025| |C| | | | |<mark>TBD</mark>|
 |RU|[Luna‑27](луна_27.md) (ЛР1) Ⓛ|2025| |C| | | | |<mark>TBD</mark>|
 |RU|[Luna‑26](луна_26.md) (ЛРОА) Ⓛ|2021|D| | | | | |<mark>TBD</mark>|
 |RU|[Luna‑25](луна_25.md) (ЛГ) Ⓛ|2021| |C| | | | |<mark>TBD</mark>|
-|—|**・Active・**|—|•|•|•|•|•|•|—|
+|—|**【Active】**|—|•|•|•|•|•|•|—|
 |…|…|…| | | | | | |<mark>TBD</mark>|
-|—|**・Past・**|—|•|•|•|•|•|•|—|
+|—|**【Past】**|—|•|•|•|•|•|•|—|
 |IL|[Beresheet](beresheet.md)|2019.02.22| |C| | | |X|<mark>TBD</mark>|
 |JP|[SELENE-2](selene_2.md)|2018|D|C| | | | |<mark>TBD</mark>|
 |EU|[Lunar Lander](lunar_lander.md)|2018| |C| | | | |<mark>TBD</mark>|
@@ -431,18 +431,18 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|•|•|**Never occurred:**|•|•|•|•|•|•|
+|•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EMN‑…| | | | | | | | |
-|•|•|**Was tried:**|•|•|•|•|•|•|
+|•|•|**【Was tried】**|•|•|•|•|•|•|
 |EMN‑…| | | | | | | | |
-|•|•|**Mostly done:**|•|•|•|•|•|•|
+|•|•|**【Mostly done】**|•|•|•|•|•|•|
 |EMN‑…| | | | | | | | |
 
 </small>
 
 <mark>TBD</mark> 
 
-|•|•|**Never occurred:**|•|•|•|•|•|•|
+|•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EMN‑080| |Albedo: changes in time|Gi| |D|F| | |
 |EMN‑036| |Atmosphere: cause & influence of geological & chemical activity on the climate & clouds| | |D| | | |
 |EMN‑037| |Atmosphere: cause of the retrograde moving| | |D| | | |
@@ -480,7 +480,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑047| |Surface: structure‑composition connection of different regions & planet’s evolution| |C| | | | |
 |EMN‑039| |Was the planet inhabited & for how long| |C|D| | | |
 |EMN‑040| |Were there oceans & why have they gone| |C|D|F| | |
-|•|•|**Was tried:**|•|•|•|•|•|•|
+|•|•|**【Was tried】**|•|•|•|•|•|•|
 |EMN‑093|T|Atmosphere/surface imaging| | |D|F| | |
 |EMN‑077| |Atmosphere: chemical elements distribution| | |D|F| | |
 |EMN‑018| |Atmosphere: clouds, their chemistry| | |D|F| | |
@@ -533,7 +533,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 |EMN‑027| |The causes why Venus evolved in a planet so different from Earth| |C|D|F| | |
 |EMN‑091| |The loss rate of water from Venus| | |D|F| | |
 |EMN‑053| |Traces of life in the atmosphere & on the surface| |C| | | | |
-|•|•|**Mostly done:**|•|•|•|•|•|•|
+|•|•|**【Mostly done】**|•|•|•|•|•|•|
 |EMN‑001| |Atmosphere: preliminary model| |C|D|F| | |
 |EMN‑004|T|Exploration: from Earth| | |D| | | |
 |EMN‑003|T|Exploration: from inside of atmosphere| |C|D| | | |

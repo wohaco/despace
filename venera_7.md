@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|Travel 120 days, lander 23 minutes|
 |Launch|17 August 1970, 05:38:22 UTC, Rocket Molniya 8K78M|
 |Operator|Lavochkin|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Vega 1 and 2](vega_1_2.md)<br> • Current: ... <br> • ㎩st: [Venera 4](venera_4.md), [Venera 5 and 6](venera_5_6.md)|
+|Similar to|・Proposed: [Vega 1 and 2](vega_1_2.md)<br> ・Current: ... <br> ・Past: [Venera 4](venera_4.md), [Venera 5 and 6](venera_5_6.md)|
 |Target|Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface. Refinement of data obtained by [Venera 5 and 6](venera_5_6.md)|
 |[Type](sc.md)|Atmospheric spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|**Orbiter:** 2 m parabolic high‑gain antenna (decimeter range)<br> **Lander:** medium gain antenna|
 |Composition|Lander, orbiter|
 |Contractor|…|

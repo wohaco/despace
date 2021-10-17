@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Hanwha Aerospace Co., Ltd.**, a subsidiary of Hanwha Group, is an aerospace industrial company. The company is Korea’s only gas turbine [engine](ps.md) manufacturer, and specializes in the development, production and maintenance of aircraft engines. It was established in 1977 as Samsung Precision.
+**Hanwha Aerospace Co., Ltd.**, a subsidiary of Hanwha Group, is an aerospace industrial company. The company is Korea’s only gas turbine [engine](../ps.md) manufacturer, and specializes in the development, production and maintenance of aircraft engines. It was established in 1977 as Samsung Precision.
 
 <p style="page-break-after:always"> </p>
 

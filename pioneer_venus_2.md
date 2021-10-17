@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|4 months, 1 day, 13 hours, 22 minutes|
 |Launch|August 8, 1978, 07:33 UTC, Rocket Atlas SLV-3D Centaur-D1AR|
 |Operator|NASA / ARC|
 |Programme|Pioneer Venus project|
-|Similar to|• Proposed: [Magellan](magellan.md), [Galileo Probe](galileo.md) <br> • Current: … <br> • ㎩st: …|
+|Similar to|・Proposed: [Magellan](magellan.md), [Galileo Probe](galileo.md) <br> ・Current: … <br> ・Past: …|
 |Target|Studying the structure and composition of clouds from inside the atmosphere|
 |[Type](sc.md)|Atmospheric spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|S‑band, X‑band|
 |Composition|Spacecraft Bus, one large and three smaller probes|
 |Contractor|United Launch Alliance|

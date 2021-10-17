@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Korea Aerospace Industries** (Korean: 한국항공우주산업, Hanja: 韓國航空宇宙産業) (**KAI**) is a South Korean aerospace & defense company. KAI has developed various aerospace products, including the Korea Space [Launch Vehicle](lv.md) (KSLV)-II & various [satellites](sc.md). Both the company’s headquarters & several key manufacturing facilities are located in Sacheon, South Gyeongsang Province.
+**Korea Aerospace Industries** (Korean: 한국항공우주산업, Hanja: 韓國航空宇宙産業) (**KAI**) is a South Korean aerospace & defense company. KAI has developed various aerospace products, including the Korea Space [Launch Vehicle](../lv.md) (KSLV)-II & various [satellites](../sc.md). Both the company’s headquarters & several key manufacturing facilities are located in Sacheon, South Gyeongsang Province.
 
 KAI was originally established as a joint venture of Samsung Aerospace, Daewoo Heavy Industries’ aerospace division, & Hyundai Space & Aircraft Company (HYSA). During 1999, KAI became more independent of its founding members, acquiring their aerospace interests at the behest of the South Korean government following the financial troubles of these companies that had resulted from the 1997 Asian financial crisis.
 

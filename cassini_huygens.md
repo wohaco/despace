@@ -17,17 +17,17 @@ The **Cassini–Huygens** is a joint mission of the space‑research mission, in
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|US$3.26 billion or 306 305 ㎏ of [gold](sc_price.md) in 1997 prices|
 |Development|1992 ‑ 1997|
 |Duration|19 years, 335 days; 13 years, 76 days at Saturn|
 |Launch|October 15, 1997, 08:43:00 UTC, Rocket: Titan IV(401)B B-33|
 |Operator|**Cassini**: NASA / JPL<br>**Huygens**: ESA / ASI|
 |Programme|Cassini–Huygens|
-|Similar to|• Proposed: …<br> • Current: [Galileo](galileo.md) <br> • ㎩st: …|
+|Similar to|・Proposed: …<br> ・Current: [Galileo](galileo.md) <br> ・Past: …|
 |Target|Study of the planet Saturn and the system of the Saturnian system (rings, moons and asteroids). One of the main goals is to study Saturn’s moon-Titan|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|Cassini Orbiter; Huygens Lander|
 |Contractor|Aérospatiale|
 |Manufacturer|Cassini: Jet Propulsion Laboratory <br> Huygens: Thales Alenia Space|

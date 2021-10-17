@@ -9,9 +9,9 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Interstellar Technologies Inc.** is a [rocket](lv.md) development, manufacturing & launch service. Founded 2003.05.01.
+**Interstellar Technologies Inc.** is a [rocket](../lv.md) development, manufacturing & launch service. Founded 2003.05.01.
 
-**Interstellar Technologies, Inc.** (Japanese: インターステラテクノロジズ（株）, Hepburn: Intāsutera Tekunorojizu (kabu)) is a Japanese NewSpace company aiming to eventually build a [launch vehicle](lv.md) for smallsats under 100 ㎏. It is a rocket spacelaunch company developing the [MOMO](momo.md) & [Zero](Zero.md) launchers. Interstellar’s stated goal is to reduce the cost of access to space.
+**Interstellar Technologies, Inc.** (Japanese: インターステラテクノロジズ（株）, Hepburn: Intāsutera Tekunorojizu (kabu)) is a Japanese NewSpace company aiming to eventually build a [launch vehicle](../lv.md) for smallsats under 100 ㎏. It is a rocket spacelaunch company developing the [MOMO](momo.md) & [Zero](Zero.md) launchers. Interstellar’s stated goal is to reduce the cost of access to space.
 
 **MOMO sounding rocket.** The initial rocket the company is developing is the MOMO sounding rocket:
 

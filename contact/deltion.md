@@ -6,12 +6,12 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Technology development & improvement mostly for automation & [robotics](robot.md), Moon [mining](sss.md)|
+|**Business**|Technology development & improvement mostly for automation & [robotics](../robot.md), Moon [mining](sss.md)|
 |**[MGMT](../mgmt.md)**|・CEO — Dale Boucher|
 
 **Deltion Innovations Ltd** is a technology development company specializing in automation & robotics with a focus on new product development, troubleshooting & existing product improvement for the resource sector.  We have decades of electromechanical design experience derived from the mining & pulp & paper sectors.  We apply this to other sectors, including mining in space.  A key goal of our mining in space work is to spin back the technologies developed to improve productivity & safety in the resource sector.
 
-Since 1999, we have been developing capabilities related to the prospecting for, & extraction of, resources from the Moon, Mars & asteroids. Our approach to the development of this technology has been to leverage our terrestrial mining perspective & knowledge base. Space mining technologies that we have successfully designed, built & tested include  various size drills, crushers, sample handling systems, plows, load/haul/dump systems, mobility platforms, [rovers](robot.md) & [robotic](robot.md) handling systems.
+Since 1999, we have been developing capabilities related to the prospecting for, & extraction of, resources from the Moon, Mars & asteroids. Our approach to the development of this technology has been to leverage our terrestrial mining perspective & knowledge base. Space mining technologies that we have successfully designed, built & tested include  various size drills, crushers, sample handling systems, plows, load/haul/dump systems, mobility platforms, [rovers](../robot.md) & [robotic](../robot.md) handling systems.
 
    - early involvement in system design can improve life cycle & mitigate development of hazards/problems
    - cost effective solutions

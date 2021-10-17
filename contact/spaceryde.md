@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Affordable, on‑schedule, dedicated [launch](lv.md) for CubeSats using balloons|
+|**Business**|Affordable, on‑schedule, dedicated [launch](../lv.md) for CubeSats using balloons|
 |**[MGMT](../mgmt.md)**|…|
 
 **SpaceRyde** uses balloons to launch small satellites to space. Founded in 2018.

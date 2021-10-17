@@ -5,7 +5,7 @@
 |:--|:--|
 |**Mission**|To be Atlantic Canada’s leading developer of spacecraft systems & components for future missions & satellite operations management|
 |**Vision**|Spacecraft research, development, & satellite management from Atlantic Canada|
-|**Values**|[CubeSats](sc.md) R&D|
+|**Values**|[CubeSats](../sc.md) R&D|
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 

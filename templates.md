@@ -113,6 +113,56 @@
 
 
 
+<p style="page-break-after:always"> </p>
+
+# Engine
+**…** — …‑component [engine](ps.md) by […](contact/….md). Designed in ….
+
+|*Characteristics*|*[Value](si.md)<br> (…)*|
+|:--|:--|
+|Composition| |
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)| |
+|[Voltage](sps.md), V| |
+|**【Specific】**|• • •|
+|[Fuel](fuel.md)| |
+|Fuel — combustion products| |
+|Fuel — consumption, ㎏/s, ≤| |
+|Fuel — mass ratio of components| |
+|Fuel — resource, ㎏, ≥| |
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
+|Press. — engine entrance, ㎫ (kgf/㎝²)| |
+|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (kgf)| |
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switching frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total impulse, N·s (kgf·s), ≥| |
+|Thrust — total pulses, ≥| |
+|Thrust — total thrust, N (kgf), ≥| |
+|Thrust — total thrust duration, s, ≥| |
+|[Turbopump](turbopump.md) speed, rpm| |
+| |[![](f/ps/.jpg)](f/ps/.jpg)|
+
+**Notes:**
+
+   1. …
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. **Applicability:** …
+
 
 
 <p style="page-break-after:always"> </p>
@@ -433,7 +483,7 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 |Программа|…|
 |Разработка|…|
 |Старт|…|
-|Схожие<br> миссии|• Предлагаемые: ….<br> • Разрабатываемые: ….<br> • Разработанные: ….|
+|Схожие<br> миссии|・Предлагаемые: ….<br> ・Разрабатываемые: ….<br> ・Разработанные: ….|
 |[Тип](sc.md)|…|
 |Цель|…|
 |Цена|₽ ┊ или … ㎏ [золота](sc_price.md) в ценах … г|
@@ -463,7 +513,7 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 
 |*Type*|*[Value](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md) in … prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|… ‑ …|
@@ -471,10 +521,10 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 |Launch|…, …, …|
 |Operator|…|
 |Programme|…|
-|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: …|
+|Similar to|・Proposed: …<br> ・Current: …<br> ・Past: …|
 |Target|…|
 |[Type](sc.md)|…|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|…|
 |Contractor|…|
 |Manufacturer|…|

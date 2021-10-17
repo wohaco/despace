@@ -9,7 +9,7 @@
 |**Business**|・R&D, design, manuf. & sales of sat, on‑sat equip., precision instrument, electronic equip. & software;<br> ・technical consultation for the above;<br> ・planning & operation of workshops, training sessions & seminars regarding space technologies;<br> ・translation & publication;<br> ・all business associated with all of above.|
 |**[MGMT](../mgmt.md)**|・CEO — Shunsuke Onishi.<br> ・COO — Toshimitsu Ichiki.|
 
-**iQPS Inc.** (**Institute for Q-shu Pioneers of Space Inc.**) is a JP company aimed to capture radar imagery of Earth every 10 minutes — a “real‑time Google Maps” — by building a constellation of a small (~ 100 ㎏) SAR ([Synthetic Aperture Radar](cam.md)) sats. Thus to measure a weather even at nighttime. Founded 2005.06.  
+**iQPS Inc.** (**Institute for Q-shu Pioneers of Space Inc.**) is a JP company aimed to capture radar imagery of Earth every 10 minutes — a “real‑time Google Maps” — by building a constellation of a small (~ 100 ㎏) SAR ([Synthetic Aperture Radar](../cam.md)) sats. Thus to measure a weather even at nighttime. Founded 2005.06.  
 [iQPS' cooperation map ❐](../f/con/iqps_coop1.png)
 
 Reason of Our Existence — expand the possibilities of space & contribute to the development of the world. There are rules & principles in the space, different from those on the Earth. That means, there lays an unknown territory where we, humankind have never been. In order to expand the possibilities in this infinite space & make our Earth a better place, iQPS Inc is working hard to develop new technologies & their applications with high aspirations & highly inquisitive minds.

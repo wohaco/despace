@@ -15,8 +15,8 @@ We offer project management, space engineering, space specialty services provisi
 
    - **Project Management & Engineering Support Services:**
       - Earth Observation
-      - [Ground Segment](scs.md) Engineering
-      - [Ground Systems](scs.md) Software Engineering
+      - [Ground Segment](../scs.md) Engineering
+      - [Ground Systems](../scs.md) Software Engineering
       - Independent Review & Oversight
       - Management of Space Programs & Projects
       - Military satCOM Engineering
@@ -25,7 +25,7 @@ We offer project management, space engineering, space specialty services provisi
       - Space Data Acquisition, Processing, Archiving & Distribution
       - Space Data Standardization
       - Space Project Management Standards
-      - [Space Systems Engineering](sc.md)
+      - [Space Systems Engineering](../sc.md)
    - **Capability Development:**
       - Earth Observation data exploitation
       - Requirements Analysis

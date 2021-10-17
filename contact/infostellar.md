@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Infostellar** is a Japanese space communication infrastructure firm making space communications infrastructure, & are now developing our cloud‑based satellite [antenna sharing platform](scs.md), StellarStation. By lowering costs & increasing transmission time, Infostellar empowers satellite operators to improve the quality of their service & expand potential business. Founded 2016.01.04.
+**Infostellar** is a Japanese space communication infrastructure firm making space communications infrastructure, & are now developing our cloud‑based satellite [antenna sharing platform](../scs.md), StellarStation. By lowering costs & increasing transmission time, Infostellar empowers satellite operators to improve the quality of their service & expand potential business. Founded 2016.01.04.
 
 Team’s experience:
 

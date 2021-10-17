@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|…|
 |Launch|2023; Rocket GSLV Mk III|
 |Operator|[ISRO](contact/isro.md)|
 |Programme|…|
-|Similar to|• Proposed: … <br> • Current: … <br> • ㎩st: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md)|
+|Similar to|・Proposed: … <br> ・Current: … <br> ・Past: [Venera 15/16](venera_15_16.md), [VeGa 1/2](vega_1_2.md), [Magellan](magellan.md)|
 |Target|Mapping; studying the surface and atmosphere of Venus|
 |[Type](sc.md)|Orbiter spacecraft; atmospheric spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|Orbiter; atmospheric probe|
 |Contractor|ISRO|
 |Manufacturer|ISAC|

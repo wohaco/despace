@@ -16,17 +16,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 9:** Orbiter: 158 days; Lander: 53 minutes <br>**Venera 10:** Orbiter: 144 days; Lander: 65 minutes|
 |Launch|**Venera 9:** June 8, 1975, 02:38 UTC<br>**Venera 10:** June 14, 1975, 03:00:31 UTC<br>Rocket: Proton-K/DM|
 |Operator|Lavochkin|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Venera 11 and 12](venera_11_12.md) <br> • Current: …<br> • ㎩st: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md)|
+|Similar to|・Proposed: [Venera 11 and 12](venera_11_12.md) <br> ・Current: …<br> ・Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md), [Venera 8](venera_8.md)|
 |Target|Delivery of the lander to the surface of Venus. A study of the soil, the atmosphere and clouds. Photographing the surface of the planet (including panoramic)|
 |[Type](sc.md)|Fly‑by spacecraft; atmospheric spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |[ID](spaceid.md)|**Venera 9:** NSSDC ID (COSPAR ID): [1975-050A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1975-050A), [1975-050D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1975-050D), SCN: 7915, 8411<br>**Venera 10:** NSSDC ID (COSPAR ID): [1975-054A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1975-054A), [1975-054D ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1975-054D), SCN: 7947, 8423|
 |Comms|Orbiter: high gain parabolic antenna (wavelenght 8 and 32 ㎝)|
 |Composition|Orbiter; Lander|

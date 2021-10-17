@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**SPACE ONE**, under the corporate philosophy of providing a convenient [space transport service](lv.md) at an unmatched launch frequency, will commence operation with the mission of serving as a reliable corporatepartner capable of supporting the space businesses of clients worldwide.
+**SPACE ONE**, under the corporate philosophy of providing a convenient [space transport service](../lv.md) at an unmatched launch frequency, will commence operation with the mission of serving as a reliable corporatepartner capable of supporting the space businesses of clients worldwide.
 
 The name SPACE ONE reflects the aforementioned corporate philosophy & the coming together of the knowledge, expertiseand desire possessed by each of the four shareholder companies to become a preeminent companyin this field, capable of leading the way for the myriad organizations involved in space development.
 

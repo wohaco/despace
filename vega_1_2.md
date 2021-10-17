@@ -15,25 +15,25 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
-|Duration|• «Vega 1» 15 Dec. 1984 — 6 Mar. 1986<br> • «Vega 2» 21 Dec. 1984 — 9 Mar. 1986|
-|Launch|• «Vega 1» 15 Dec. 1984, 09:16:24, Baikonur, «[Proton-K](proton.md)»<br> • «Vega 2» 21 Dec. 1984, 09:13:52, Baikonur, «[Proton-K](proton.md)»|
+|Duration|・«Vega 1» 15 Dec. 1984 — 6 Mar. 1986<br> ・«Vega 2» 21 Dec. 1984 — 9 Mar. 1986|
+|Launch|・«Vega 1» 15 Dec. 1984, 09:16:24, Baikonur, «[Proton-K](proton.md)»<br> ・«Vega 2» 21 Dec. 1984, 09:13:52, Baikonur, «[Proton-K](proton.md)»|
 |Operator|…|
 |Programme|Venus‑Halley|
-|Similar to|• Proposed: …<br>  • Current: …<br> • ㎩st: …|
-|Target|• Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> • Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near‑core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core.|
+|Similar to|・Proposed: …<br>  • Current: …<br> ・Past: …|
+|Target|・Venus − study of the cloud layer and the chemical composition of the atmosphere; soil sampling, study of super rotation, circulation of the atmosphere, its meteorological parameters.<br> ・Halley’s comet − determination of the physical characteristics of the core, structure and dynamics and gas of the near‑core region of the coma, distribution of dust particles, interaction of the solar wind with the atmosphere and ionosphere of the comet, images of the core.|
 |[Type](sc.md)|Fly‑by spacecraft; lander spacecraft; atmospheric spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|Orbiter; Lander; Balloon Aerostat|
 |Comms|[L‑band](rf.md)|
 |Contractor|…|
-|[ID](spaceid.md)|• «Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> • «Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857|
+|[ID](spaceid.md)|・«Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> ・«Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857|
 |Manufacturer|NPO Lavochkin|
-|Mass|• «Vega 1» 4 924 ㎏ (dry − 4 169) ([EVN‑073](venus.md))<br> • «Vega 2» 4 926 ㎏ (dry − 4 160) ([EVN‑073](venus.md))|
+|Mass|・«Vega 1» 4 924 ㎏ (dry − 4 169) ([EVN‑073](venus.md))<br> ・«Vega 2» 4 926 ㎏ (dry − 4 160) ([EVN‑073](venus.md))|
 |Orbit / Site|Fly‑by trajectory of Venus, surface of Venus, cloud layer|
-|Payload|• Fly‑by spacecraft − plasma wave analyzers, neutral gas meter, magnetometer, spectrometers, dust particle counter, television system<br> • Lander − gas chromatograph, humidity meter, weather sensors, determination of physical and mechanical properties of the soil surface, temperature sensors, spectrometers, spectrophotometer.|
+|Payload|・Fly‑by spacecraft − plasma wave analyzers, neutral gas meter, magnetometer, spectrometers, dust particle counter, television system<br> ・Lander − gas chromatograph, humidity meter, weather sensors, determination of physical and mechanical properties of the soil surface, temperature sensors, spectrometers, spectrophotometer.|
 |Power|…|
 
 Achieved targets & investigations:

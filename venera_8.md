@@ -17,17 +17,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|Travel: 117 days<br> Lander: 50 min|
 |Launch|27 March 1972, 04:15:01 UTC, Rocket: Molniya-M/MVL|
 |Operator|Lavochkin|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Venera 9 and 10](venera_9_10.md), [Vega 1 and 2](vega_1_2.md) <br> • Current: …<br> • ㎩st: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md)|
+|Similar to|・Proposed: [Venera 9 and 10](venera_9_10.md), [Vega 1 and 2](vega_1_2.md) <br> ・Current: …<br> ・Past: [Venera 5 and 6](venera_5_6.md), [Venera 7](venera_7.md)|
 |Target|Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface.|
 |[Type](sc.md)|Atmospheric spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|A funnel‑shaped antenna; a resetable antenna|
 |Composition|Orbiter, lander|
 |Contractor|…|

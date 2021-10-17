@@ -34,7 +34,7 @@
 |**`Электронная компонентная база (ЭКБ):`**<br> …|
 
    1. Docs:
-      - [РК‑11](const_rk11.md), стр.22‑23.
+      - [РК‑11](const_rk.md), стр.22‑23.
    1. Notable interwikies — …
    1. <https://books.google.ru/books?:id=-gLSBQAAQBAJ&pg=PA11&lpg=PA11&dq=Elizabeth+Kolawa+jpl&source=bl&ots=T9MwZv93Dh&sig=ACfU3U1DA6_hHDeWbcWCFdqw2NE_1xJATQ&hl=ru&sa=X&ved=2ahUKEwiMvu7fiZXlAhVRkMMKHYOMApw4ChDoATAAegQICRAB#v=onepage&q=Elizabeth%20Kolawa%20jpl&f=false>
 

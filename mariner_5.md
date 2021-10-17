@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … of [gold](sc_price.md)|
 |Development|…|
 |Duration|1 year 4 months (launch to last contact)|
 |Launch|June 14, 1967, 06:01:00 UTC, Rocket: Atlas‑SLV3 Agena-D|
 |Operator|NASA / JPL|
 |Programme|Mariner|
-|Similar to|• Proposed: …<br> • Current: [Venera 4](venera_4.md)<br> • ㎩st: [Mariner 2](mariner_2.md)|
+|Similar to|・Proposed: …<br> ・Current: [Venera 4](venera_4.md)<br> ・Past: [Mariner 2](mariner_2.md)|
 |Target|Determine the parameters of the signal in the radio illumination of the atmosphere; measurement interplanetary and Venusian magnetic fields, charged particles, plasma, radio refractivity and UV emissions of the Venusian atmosphere|
 |[Type](sc.md)|Fly‑by spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|S‑band|
 |Composition|Orbiter|
 |Contractor|…|

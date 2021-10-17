@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-The **Noshiro Rocket Testing Center** (能代ロケット実験場, Noshiro Roketto Jikkenjo) is a facility of the [JAXA](jaxa.md), aimed for research, development & testing of liquid-fuel rocket [engines](ps.md). Located on the coast of the Sea of Japan in the city of Noshiro in Akita Prefecture, Japan. Founded in 1965.
+The **Noshiro Rocket Testing Center** (能代ロケット実験場, Noshiro Roketto Jikkenjo) is a facility of the [JAXA](jaxa.md), aimed for research, development & testing of liquid-fuel rocket [engines](../ps.md). Located on the coast of the Sea of Japan in the city of Noshiro in Akita Prefecture, Japan. Founded in 1965.
 
 Currently the NTC is also used for various outdoor experiments including technical element tests, static firing tests of air turbo ram jet engines whose propellants are liquid oxygen, lifting & landing tests of a reusable test vehicle with a small liquid hydrogen & oxygen rocket engine, static firing tests of an N20/ethanol propellant system, & outdoor driving tests of a jet engine.
 

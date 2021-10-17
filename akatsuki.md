@@ -15,21 +15,21 @@
 
 |*Parameter*|*[Value](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Duration|2 years (plan) и 4.5 years (estimated maximum);<br> 2010.05.21 - <mark>TBD</mark> (fact)|
 |Operator|[JAXA](contact/jaxa.md)|
 |Program|…|
 |Development|… ‑ …|
 |Launch|2010.05.20 21:58:22 UTC (00:58 MSK) [Tanegashima YLP-1](spaceport.md) with [H-IIA 202](h2.md)|
-|Similar to|• Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US).<br> • Current: ….<br> • ㎩st: [Venus Express](venus_express.md) (EU 2005), [VeGa‑1/2](vega_1_2.md) (SU 1984), [Venera‑11/12](venera_11_12.md) (SU 1978), [Venera‑9/10](venera_9_10.md) (SU 1975).|
+|Similar to|・Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US).<br> ・Current: ….<br> ・Past: [Venus Express](venus_express.md) (EU 2005), [VeGa‑1/2](vega_1_2.md) (SU 1984), [Venera‑11/12](venera_11_12.md) (SU 1978), [Venera‑9/10](venera_9_10.md) (SU 1975).|
 |[Type](sc.md)|Orbiter spacecraft|
 |Goal|Investigations of atmospheric stratification, dynamics, physics of clouds, hydrodynamic gravitational waves; survey of clouds & surface; exploring Venusian meteorology & super rotation of the atmosphere, the presence of lightning & volcanism|
 |Price|$ 290M ot 7 370 ㎏ of [gold](sc_price.md) in 2010 priсes|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Mass|517.6 ㎏, (dry: 320 ㎏) ([minisatellite](спутник.md), [EVN‑070](venus.md))|
 |[Number](spaceid.md)|NSSDC ID (COSPAR ID): 2010-020D, SCN: 36576|
 |Orbit / Place|300 × 80 000 ㎞, 172°, 30 hr|
-|Payload|• 5 cameras for: lightning, glow, IR, UV;<br> • equipment for radiography|
+|Payload|・5 cameras for: lightning, glow, IR, UV;<br> ・equipment for radiography|
 |Contractor|…|
 |Developer|[NEC Space Technologies](contact/nec.md)|
 |Communication|[X‑band](rf.md), 20 W, 1.6 m² dish antenna|

@@ -16,7 +16,7 @@
    1. [Synergy Moon](synergy_moon.md)
    1. [Болото](swamp.md)
    1. [Worldview in different countries](wwidc.md)
-   1. For the person's info page see **[Persons](person.md)**
+   1. For the person’s info page see **[Persons](person.md)**
 
 |*Агентство*|*Бюджет, $ млн*|*Год*|*Примечание*|
 |:--|:--|:--|:--|
@@ -98,14 +98,14 @@
 |[Launch Canada](contact/launch_ca.md)   ()|N|·|·|R|·|(Student community) LV & small sats building|
 |[Luna D&I](contact/luna_dni.md)   (ON)|·|L|·|·|·|Launch & support for experiments in space|
 |[Macfab](contact/macfab.md)   (ON)|·|·|·|R|·|ADCS, structures, comms/electronics, sensors, propulsion, separation systems|
-|[Magellan A/S](contact/magellan_as.md)   (ON)|·|·|·|R|·|Satellite's R&D, small sat bus platform, ground facilities|
+|[Magellan A/S](contact/magellan_as.md)   (ON)|·|·|·|R|·|Satellite’s R&D, small sat bus platform, ground facilities|
 |[MCSS Inc](contact/mcss_inc.md)   (ON)|·|·|·|R|·|Software, simulation, mission operations, onboard autonomy, & AI|
 |[MDA](contact/mda.md)   (ON,QC)|·|·|·|R|·|Robotics, Space operations, Ground stations, Sat systems, Software|
 |[MLS](contact/mls.md)   (NS)|·|L|·|·|·|Launch services using Cyclone-4M LV in Nova Skotia|
 |[MSCI](contact/msci.md)   (ON)|·|·|·|R|·|Reaction wheels, rate measurement units, microsats, attitude control systems|
 |[NGC A/S](contact/ngc_as.md)   (QC)|·|·|·|R|·|Software for GNC, simulation, data processing|
 |[Northstar ESI](contact/northstar_esi.md)   (QC)|·|·|·|R|·|Monitor space (object tracking), from space, via a sat constellation|
-|[PolyOrbite](contact/polyorbite.md)   (QC)|N|·|·|R|·|CubeSat's R&D. Student society|
+|[PolyOrbite](contact/polyorbite.md)   (QC)|N|·|·|R|·|CubeSat’s R&D. Student society|
 |[Pratt & Whitney](contact/pratt_n_whitney.md)   (QC)|·|·|·|R|·|Engines, gas turbines|
 |[Satcan](contact/satcan.md)   (ON)|N|·|·|C|·|Engineering & business consultancy for sat telecom & space tech sectors|
 |[SEDS Canada](contact/seds.md)   (ON)|N|·|P|·|·|(Student community) Promoting Exploration & Development of Space|
@@ -351,7 +351,7 @@
 |[SPAC](contact/spac.md)   13|N|·|·|R|·|Addition to GPS|
 |[Space BD](contact/space_bd.md)   13|E|L|·|C|·|Space for business, sats launch, ISS experiments, education|
 |[Space Cubics](contact/spacecubics.md)   1|·|·|·|R|·|CPU, application software, FPGA, consult on space project management|
-|[Space One](contact/space_one_co.md)   13|·|L|·|R|·|Launch service that uses small rockets. Small LV and dedicated launch site|
+|[Space One](contact/space_one_co.md)   13|·|L|·|R|·|Launch service that uses small rockets. Small LV & dedicated launch site|
 |[Space Port Japan](contact/spaceportjapan.md)   13|E|·|P|·|·|Promote the country’s aerospace & related industries|
 |[Space Shift Inc.](contact/space_shift.md)   13|·|·|·|R|·|Software for sat data processing, consulting (marketing, software)|
 |[Space Walker](contact/space_walker.md)   13|·|L|·|R|·|Suborbital spaceplane, space transport/tourism, small sats launch|
@@ -579,7 +579,7 @@
 |[JPL](contact/jpl.md)|·|·|·|·|·|Создание и обслуживание беспилотных [КА](sc.md) для NASA|
 |[Keck Inst. SS](contact/keck_inst_ss.md)|·|·|·|·|·|Policy, research & advocacy for space mission concepts & technology|
 |[Kepler Space Institute](contact/kepler_spin.md)|·|·|·|·|·|Education, research, publications in space exploration, commerc., colonization|
-|[KinetX A/S](contact/kinetx_as.md)|·|·|·|·|·|Deep space missions' nav.services, innovative R&D of SC & telecom systems|
+|[KinetX A/S](contact/kinetx_as.md)|·|·|·|·|·|Deep space missions’ nav.services, innovative R&D of SC & telecom systems|
 |[LASP](contact/lasp.md)|·|·|·|·|·|Laboratory for Atmospheric & Space Physics|
 |[Lockheed Martin](lockheed_martin.md)|·|·|·|·|·|Разработка и эксплутация [LV](lv.md), [КА](sc.md), [ПКА](sc.md); пусковые услуги|
 |[Loft Orbital](contact/loft_orb.md)|·|·|·|·|·|End‑to‑end service provider, satellites|

@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Perigee Aerospace** is a private developer & manufacturer of orbital & sub‑orbital [launch vehicles](lv.md) located in Daejeon, South Korea. The company was formally established in 2018, but work began in 2012, initially with the launch of sounding rockets.
+**Perigee Aerospace** is a private developer & manufacturer of orbital & sub‑orbital [launch vehicles](../lv.md) located in Daejeon, South Korea. The company was formally established in 2018, but work began in 2012, initially with the launch of sounding rockets.
 
 Vehicles:
 

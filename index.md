@@ -31,8 +31,7 @@ The **universe** is all of space, time & their contents, incl. planets, stars, g
    - [Wormhole](wormhole.md)
    - **Distant objects** — [Betelgeuse](betelgeuse.md)・ [Sirius](sirius.md)
    - **Manned** — [Health](health.md)
-   - **Solar system:**
-      1. [Sun](sun.md) & others — [Ceres](ceres.md)・ [Eris](eris.md)・ [Haumea](haumea.md)・ [Makemake](makemake.md)・ [Nibiru](nibiru.md)・ [Planet 9](planet_9.md)・ [Pluto](pluto.md)・ [Sedna](sedna.md)
+   - **Solar system** — [Sun](sun.md) & others — [Ceres](ceres.md)・ [Eris](eris.md)・ [Haumea](haumea.md)・ [Makemake](makemake.md)・ [Nibiru](nibiru.md)・ [Planet 9](planet_9.md)・ [Pluto](pluto.md)・ [Sedna](sedna.md)
       1. [Mercury](mercury.md)
       1. [Venus](venus.md)
       1. [Earth](earth.md) & satellite — [Moon](moon.md)
@@ -716,6 +715,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**МД** — маршевый двигатель (see [ДУ](ps.md))|Main engine|
 | |**МДУ** — маршевая двигательная установка (see [ДУ](ps.md))|Main propulsion system|
 | |**[Межотраслевая документация](doc.md)**|Interindustry documentation|
+| |**[Менеджмент знаний](control.md)**|Knowledge management|
 | |**[Метод Шульце](schulze_method.md)**|Schulze method|
 | |**[Метрология](metrology.md)**|Metrology|
 | |**МИ** — метеорологическая информация|Meteorological information / weather information|
@@ -848,7 +848,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |*Ru*|*En*|
 |:--|:--|:--|
 |**О**|**ОА** — орбитальный аппарат|Orbiter|
-| |**[ОТБКС](cable_ct.md)** — обжимная технология кабелей|Crimp technology for cables|
+| |**[ОТБКС](cable.md)** — обжимная технология кабелей|Crimp technology for cables|
 | |**[Образование](edu.md)**|Education|
 | |**[Объяснительная](report_int.md)**|**LoE** — letter of explanation|
 | |**ОВ** — орбита выведения|Injection orbit|

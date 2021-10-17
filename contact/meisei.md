@@ -9,12 +9,12 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Meisei Electric**, based on disaster prevention, environmental measurement, & information technology, Meisei strives to offer the best value added solutions for the needs of a world market. Meisei Electric has developed & manufactured more than 3 000 space‑related instruments since 1950’s. Meisei Electric can provide all kinds of satellite components, such as “Mission Equipment” & “Bus Components”. We are developing [CubeSat, Nano Satellites, & Micro Satellites](sc.md) as well.
+**Meisei Electric**, based on disaster prevention, environmental measurement, & information technology, Meisei strives to offer the best value added solutions for the needs of a world market. Meisei Electric has developed & manufactured more than 3 000 space‑related instruments since 1950’s. Meisei Electric can provide all kinds of satellite components, such as “Mission Equipment” & “Bus Components”. We are developing [CubeSat, Nano Satellites, & Micro Satellites](../sc.md) as well.
 
 Products/Services
 
-   1. **Component.** High‑Speed X Band [Transmitter](comms.md) MTX540X: 64APSK technology achieves the world’s highest class frequency efficiency for the Earth observation downlink.
-   1. **Outer Space, Rocket & Defense.** NIRS3: The Near Infrared [Spectrometer](sensor.md) on Hayabusa2.
+   1. **Component.** High‑Speed X Band [Transmitter](../comms.md) MTX540X: 64APSK technology achieves the world’s highest class frequency efficiency for the Earth observation downlink.
+   1. **Outer Space, Rocket & Defense.** NIRS3: The Near Infrared [Spectrometer](../sensor.md) on Hayabusa2.
    1. **Meteorology, Disaster Prevention.** iMS-100 GPS Radiosonde: An upperair sounding instrument to measure various types of meteorological data.
    1. **Satellite.** SHIROP (Small & High Resolution Optical Sensor): a high‑resolution imaging system for Microsatellites.
    1. **Nano$Cubesat.** WE WISH: At 23:37 2012.10.04, Meisei Electric’s developed & manufactured CubeSat “WE WISH” was deployed to the space from the ISS.

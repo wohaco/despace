@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Star Trackers](sensor.md), [Reaction Wheels](iu.md), Optical Comms, [software](soft.md), training & expertise|
+|**Business**|[Star Trackers](../sensor.md), [Reaction Wheels](../iu.md), Optical Comms, [software](../soft.md), training & expertise|
 |**[MGMT](../mgmt.md)**|…|
 
 **Sinclair Interplanetary** is a supplier of hardware, software, training & expertise to the spacecraft community. The primary focus is on low‑cost, rapid‑schedule programs to produce micro‑ or nano‑satellites. Founded in 2001 by Doug Sinclair. A part of [Rocket Lab](rocket_lab.md) from 2020.03.

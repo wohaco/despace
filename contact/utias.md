@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Research for space [mechatronics](sc.md), [robotics](robots.md), [microsats](sc.md), fluid dynamics|
+|**Business**|Research for space [mechatronics](../sc.md), [robotics](robots.md), [microsats](../sc.md), fluid dynamics|
 |**[MGMT](../mgmt.md)**|…|
 
 The **University of Toronto Institute for Aerospace Studies (UTIAS, /juːˈtaɪəs/ yoo-TY-əs)** is an advanced research facility for aeronautics & aerospace engineering, located in the Downsview district of Toronto, Ontario, Canada. Established in 1949 by founding Director Gordon N. Patterson, the institute is managed by the University of Toronto Faculty of Applied Science & Engineering & mainly receives funding from governmental agencies such as the National Research Council, the Department of National Defence & the Canadian Space Agency. Notable international sponsors include the European Space Agency, Lawrence Livermore National Laboratory, Max-Planck-Institut für Plasmaphysik, NASA Ames Research Center & the United Kingdom Atomic Energy Authority.

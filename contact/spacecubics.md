@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|・Consult on space project management.<br> ・Design & develop space product (OBC, [application software](soft.md), FPGA…).<br> ・Sale of space‑graded COTS computer with auto recovery function.|
+|**Business**|・Consult on space project management.<br> ・Design & develop space product (OBC, [application software](../soft.md), FPGA…).<br> ・Sale of space‑graded COTS computer with auto recovery function.|
 |**[MGMT](../mgmt.md)**|…|
 
 **Space Cubics, LLC.** produces a high‑reliability [computer](obc.md) for satellites or other space products, incorporating techniques accumulated through operations at International Space Station (ISS) by [JAXA](jaxa.md). Our products are easy to use, ready to use for startups & serious space industries. Founded in 2018.

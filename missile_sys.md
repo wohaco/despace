@@ -25,6 +25,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs:
-      - [РК‑11](const_rk11.md), стр.20.
+      - [РК‑11](const_rk.md), стр.20.
    1. Notable interwikies — …
    1. <…>

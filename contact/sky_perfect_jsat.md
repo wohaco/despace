@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-The **SKY Perfect JSAT Group** is a Japanese corporate group that claims to be Asia's largest [satellite](sc.md) communication & multi‑channel pay TV company. It owns the SKY PerfecTV! satellite broadcasting service & the SKY Perfect Well Think content studio, among other businesses.
+The **SKY Perfect JSAT Group** is a Japanese corporate group that claims to be Asia's largest [satellite](../sc.md) communication & multi‑channel pay TV company. It owns the SKY PerfecTV! satellite broadcasting service & the SKY Perfect Well Think content studio, among other businesses.
 
 **SKY Perfect JSAT Holdings Inc.** (株式会社スカパーJSATホールディングス, Kabushiki-gaisha Sukapā JSAT Holdings) (TYO: 9412) is the holding company for the group, & holds 100 % of the shares of SKY Perfect JSAT Corporation (スカパーJSAT株式会社, Sukapā JSAT Kabushiki-gaisha), the group's main operating company.
 

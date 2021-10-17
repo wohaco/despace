@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Launch services](lv.md)|
+|**Business**|[Launch services](../lv.md)|
 |**[MGMT](../mgmt.md)**|…|
 
 **Columbiad Launch Services** is a commercial space launch company dedicated to providing low‑cost access to space. We are developing a high‑volume Industrial Sounding System based on gun propulsion technology.

@@ -6,7 +6,7 @@
 |**Mission**|By setting the standard in quality, delivery, innovation and value.|
 |**Vision**|To be the supplier of choice to the global aerospace industry.|
 |**Values**|**Integrity** — deliver our commitments. **Respect** — everyone is important. **Innovation** — finding ways to do things better. **Ethics** — act ethically in all we do. **Collaboration** — work together to succeed.|
-|**Business**|[Satellite's](sc.md) R&D, small sat bus platform, ground facilities|
+|**Business**|[Satellite's](../sc.md) R&D, small sat bus platform, ground facilities|
 |**[MGMT](../mgmt.md)**|…|
 
 **Magellan Aerospace Corporation** is a Canadian manufacturer of aerospace systems & components. Magellan also repairs & overhauls, tests, & provides aftermarket support services for engines, & engine structural components. The company’s business units are divided into the product areas of aeroengines, aerostructures, rockets & space, & specialty products. Its corporate offices in Mississauga, Ontario, Magellan operates in facilities throughout CA, US, UK.
@@ -15,7 +15,7 @@ We develop & produce complex, integrated products that bring value to our custom
 
 Magellan is a component supplier for the Airbus A380, the Boeing 787 Dreamliner, the F‑35 Joint Strike Fighter, & Bombardier’s complete line of business & commuter aircraft. Magellan also supplies gas turbine components for airplanes, helicopters, & military vehicles such as the M‑1 Abrams tank. Magellan has more than 50 years of experience providing customers with solutions for space missions that spans sounding rocket & payload, space shuttle payload, International Space Station payload, & satellite missions.
 
-   - **[Satellites](sc.md).** Our engineering team performs a full range of mission activities:
+   - **[Satellites](../sc.md).** Our engineering team performs a full range of mission activities:
       - Concept designs to detailed designs
       - Feasibility studies
       - Launch & operations support

@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Software](soft.md) for spacecraft, support & automate the design|
+|**Business**|[Software](../soft.md) for spacecraft, support & automate the design|
 |**[MGMT](../mgmt.md)**|…|
 
 **GlobVision** develops, integrates, & markets innovative software solutions that enable informed decision‑making & enhance the performance & reliability of safety‑critical, business‑critical & mission‑critical complex systems.

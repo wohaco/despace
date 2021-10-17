@@ -41,9 +41,9 @@
 
 
 ## Engines
-**A table.** Engines (ordered ascending thrust)
+**A table.** Engines
 
-| |*[Company](contact.md)*|*Models of engines (thrust, N)*|
+| |*[Company](contact.md)*|*Models of engines (thrust, N), ordered ascending thrust*|
 |:--|:--|:--|
 |**EU**|[OPC LAM](contact/opc_lam.md)|**Liq. (1c.)** — [1NMHT](engine_lst.md) (1)・ [20NMHT](engine_lst.md) (20)・ [400NMHT](engine_lst.md) (400);<br> **Liq. (2c.)** — [S10](engine_lst.md) (10)・ [S200](engine_lst.md) (216)・ [S400](engine_lst.md) (420);<br> **El.** — [RIT µX](engine_lst.md) (0.000275)・ [RIT 10](engine_lst.md) (0.0005)・ [RIT 2X](engine_lst.md) (0.07 ‑ 0.215)|
 |•|• • • • • • • •|• • •|
@@ -58,7 +58,7 @@
 | |[Nammo](nammo.md)|**Liq. (2c.)** — [LEROS 1b](engine_lst.md) (635)・ [LEROS 1c](engine_lst.md) (458)・ [LEROS 2b](engine_lst.md) (407)・ [LEROS 4](engine_lst.md) (1 100)|
 | |[SpaceX](contact/spacex.md)|**Liq. (2c.)** — [Draco](engine_lst.md) (400 ‑ 71 000)・ [Merlin](engine_lst.md) (410 000 ‑ 480 000)・ [Raptor](engine_lst.md) (1 700 000 ‑ 3 500 000);<br> **【Archived】** *Liq. (2c.) — [Kestrel](engine_lst.md) (3 110)*|
 |•|• • • • • • • •|• • •|
-|**JP**|[IHI](contact/ihi.md)|**Liq. (2c.)** — [BT‑4](engine_lst.md) (500)|
+|**JP**|[IHI](contact/ihi.md)|**Liq. (1c.)** — [IHI MT-9](engine_lst.md) (1)・ [IHI MT-8A](engine_lst.md) (4)・ [IHI MT-2](engine_lst.md) (20)・ [IHI MT-6](engine_lst.md) (50);<br> **Liq. (2c.)** — [IHI 22N](engine_lst.md) (22)・ [IHI 120N](engine_lst.md) (120)・ [IHI 450N](engine_lst.md) (450)・ [IHI 490N](engine_lst.md) (490)・ [BT‑4](engine_lst.md) (500)|
 | |[Mitsubishi HVI](contact/mitsubishi.md)| |
 
 

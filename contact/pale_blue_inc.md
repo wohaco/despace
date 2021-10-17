@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|・Consulting of Spacecraft Design & Integration<br> ・[Propulsion Systems](ps.md)<br> ・[Rent Test Equipments](test.md)|
+|**Business**|・Consulting of Spacecraft Design & Integration<br> ・[Propulsion Systems](../ps.md)<br> ・[Rent Test Equipments](../test.md)|
 |**[MGMT](../mgmt.md)**|…|
 
 **Pale Blue Inc.** is a Japanese company which mission is to provide the mobility for sustainable space development.

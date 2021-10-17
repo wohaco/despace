@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Software](soft.md), [signal & data processing, flight & ground operations](scs.md)|
+|**Business**|[Software](../soft.md), [signal & data processing, flight & ground operations](../scs.md)|
 |**[MGMT](../mgmt.md)**|…|
 
 **Honeywell Aerospace** is a manufacturer of aircraft engines & avionics, as well as a producer of auxiliary power units (APUs) & other aviation products. Founded in 1936.

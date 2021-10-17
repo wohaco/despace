@@ -19,17 +19,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|US$2 billion or 46 512 ㎏ of [gold](sc_price.md) in January 2018 prices|
 |Development|2004 — 2018|
 |Duration|Cruise: 7 years; Science phase: 1 year|
 |Launch|20 October 2018, 01:45 UTC, Rocket: Ariane 5 ECA|
 |Operator|ESA, JAXA|
 |Programme|BepiColombo|
-|Similar to|• Proposed: Меркурий‑П (2031)<br> • Current: …<br> • ㎩st: [MESSENGER](messenger.md), [Mariner-10](mariner_10.md)|
+|Similar to|・Proposed: Меркурий‑П (2031)<br> ・Current: …<br> ・Past: [MESSENGER](messenger.md), [Mariner-10](mariner_10.md)|
 |Target|Performing a comprehensive study of mercury, including characterization of its magnetic field, magnetosphere, and internal and surface structure.|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|2 Orbiters; Transfer Module|
 |Contractor|Arianespace|
 |Manufacturer|Airbus, [ISAS](contact/isas.md)|

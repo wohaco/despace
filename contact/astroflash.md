@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Small satellites](sc.md)|
+|**Business**|[Small satellites](../sc.md)|
 |**[MGMT](../mgmt.md)**|…|
 
 **ASTROFLASH, Inc.** is a space-sector startup from the University of Tokyo. Through our small satellite technology, we endeavor to bring space closer to our everyday life.

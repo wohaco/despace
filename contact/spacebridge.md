@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Satellite network equipment & services, including VSAT HUBs & Terminals for Point‑to‑Point, Point‑to‑Multi‑Point, & Mesh typologies, as well as SCPC & broadcast [modems](comms.md) for GEO & NGSO satellite constellations|
+|**Business**|Satellite network equipment & services, including VSAT HUBs & Terminals for Point‑to‑Point, Point‑to‑Multi‑Point, & Mesh typologies, as well as SCPC & broadcast [modems](../comms.md) for GEO & NGSO satellite constellations|
 |**[MGMT](../mgmt.md)**|・CEO — David Gelerman|
 
 **SpaceBridge Inc.**, is an established supplier & global market leader in broadband satellite communications systems technology. Founded in 1988.

@@ -1,5 +1,5 @@
 # Синтин
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[Топливо](fuel.md)**
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Fuel](fuel.md)
 
 [TOC]
 

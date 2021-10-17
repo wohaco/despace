@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|53 d|
 |Launch|1964.04.02 02:42:40 UTC, Rocket: Molniya 8K78M|
 |Operator|O㎅-1|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • ㎩st: [Venera 1](venera_1.md)|
+|Similar to|・Proposed: [Venera 2](venera_2.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> ・Past: [Venera 1](venera_1.md)|
 |Target|[Venus](venus.md) exploration|
 |[Type](sc.md)|Lander spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|2 m parabolic high‑gain antenna (decimeter range)|
 |Composition|Venus orbiter, lander|
 |Contractor|…|

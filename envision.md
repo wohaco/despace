@@ -19,24 +19,24 @@ EnVision will investigate Venus from its inner core to its atmosphere at an unpr
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|€ 544 M or 12 290 ㎏ of [gold](sc_price.md) in 2019 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|2021 — 2032|
-|Duration|• Total: 5.16 years (baseline) & 6.29 years (backup);<br> • Flight: 2.5 years (baseline) & 3.63 years (backup);<br> • Work: 2.66 years.|
+|Duration|・Total: 5.16 years (baseline) & 6.29 years (backup);<br> ・Flight: 2.5 years (baseline) & 3.63 years (backup);<br> ・Work: 2.66 years.|
 |Launch|2032.11 (baseline) & 2033 (backup), [Guiana Space Centre](spaceport.md) (CSG), [Ariane 6.2](arian.md)|
 |Operator|[ESA](contact/esa.md)|
 |Programme|Cosmic Vision|
-|Similar to|• Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US), [Venera‑D](venera_d.md) (RU);<br> • Current: [Akatsuki](akatsuki.md) (JP 2010);<br> • ㎩st: [Venus Express](venus_express.md) (EU 2005), [Венера‑15/16](venera_15_16.md) (SU 1983), [Pioneer-Venus-1](pioneer_venus_1.md) (US 1978), [Pioneer-Venus-2](pioneer_venus_2.md) (US 1978).|
+|Similar to|・Proposed: [Venus Flagship Mission](venus_flagship_mission.md) (US), [Venera‑D](venera_d.md) (RU);<br> ・Current: [Akatsuki](akatsuki.md) (JP 2010);<br> ・Past: [Venus Express](venus_express.md) (EU 2005), [Венера‑15/16](venera_15_16.md) (SU 1983), [Pioneer-Venus-1](pioneer_venus_1.md) (US 1978), [Pioneer-Venus-2](pioneer_venus_2.md) (US 1978).|
 |Target|To detect activity & measure small‑scale changes on Venus, incl. geological & geochemical cycles involving the interior, surface, atmosphere|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
-|Comms|• X‑band (TT&C);<br> • Ka‑band (science transmit).<br> • GSs: 35 m [ESTRACK](estrack.md) (Malargue, New Norcia NNO‑1, Cebreros), NASA DSN, 15 m (Kourou 15 m, New Norcia 2 4.5 m).|
+|**【Spacecraft】**|• • •|
+|Comms|・X‑band (TT&C);<br> ・Ka‑band (science transmit).<br> ・GSs: 35 m [ESTRACK](estrack.md) (Malargue, New Norcia NNO‑1, Cebreros), NASA DSN, 15 m (Kourou 15 m, New Norcia 2 4.5 m).|
 |Composition|Venus orbiter|
 |Contractor|Arianespace|
 |[ID](spaceid.md)|NSSDC ID (COSPAR ID): <mark>TBD</mark>, SCN: <mark>TBD</mark>|
 |Manufacturer|[Thales Alenia Space](contact/tas_i.md)|
-|Mass|• Launch: 2 611.3 ㎏ (baseline) & 2 781.5  ㎏ (backup);<br> • Wet: 2 561.3 ㎏ (baseline) & 2 731.5 ㎏ (backup);<br> • Dry: 1 295.4 ㎏; ([large satellite](sc.md), [EVN‑073](venus.md))<br> • ㎩yload: 255 ㎏.|
+|Mass|・Launch: 2 611.3 ㎏ (baseline) & 2 781.5  ㎏ (backup);<br> ・Wet: 2 561.3 ㎏ (baseline) & 2 731.5 ㎏ (backup);<br> ・Dry: 1 295.4 ㎏; ([large satellite](sc.md), [EVN‑073](venus.md))<br> ・㎩yload: 255 ㎏.|
 |Orbit / Site|220 × 470 ㎞ 88° ([EVN‑005](venus.md))|
 |Power|2 350 W (max.)|
 |Payload|1. VenSAR;<br> 2. VenSpec (VenSpec‑H, VenSpec‑M, VenSpec‑U);<br> 3. SRS|

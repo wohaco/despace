@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|**Venera 2** 3 m 15 d;<br>**Venera 3** 3 m 13 d|
 |Launch|**Venera 2** 1965.11.12 05:02 UTC, [Baikonur](spaceport.md), Rocket: Molniya 8K78M;<br> **Venera 3** 1965.11.16 04:19 UTC, [Baikonur](spaceport.md), Rocket: Molniya 8K78M|
 |Operator|O㎅-1|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> • ㎩st: Luna 2, [Mariner 2](mariner_2.md)|
+|Similar to|・Proposed: [Venera 4](venera_4.md), [Vega 1 and 2](vega_1_2.md)<br>  • Current: …<br> ・Past: Luna 2, [Mariner 2](mariner_2.md)|
 |Target|[Venus](venus.md) exploration|
 |[Type](sc.md)|Orbiter; lander|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|**Venera 2** Orbiter, **Venera 3** Lander, orbiter|
 |Comms|2 m parabolic high‑gain antenna (decimeter range)|
 |Contractor|…|

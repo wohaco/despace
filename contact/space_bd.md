@@ -23,7 +23,7 @@ We provide one‑stop support for all matters right from technical coordination 
       - Satellite transportation, launch site activities
       - Satellite launch, satellite operation
       - Large Launcher. Customer’s satellite is launched via a piggy‑back launch as a secondary payload. Cost is cheaper compared to a dedicated launch.
-      - ISS Refueling Mission. Customer’s sat is transported to the International Space Station during the regular ISS refueling missions, & deployed from the JP Experimental Module “Kibo”. The satellite is launched using, for example, [H2B](h2.md) launcher & carried to the ISS by [JAXA](jaxa.md)’s refueling vehicle, HTV.
+      - ISS Refueling Mission. Customer’s sat is transported to the International Space Station during the regular ISS refueling missions, & deployed from the JP Experimental Module “Kibo”. The satellite is launched using, for example, [H2B](../h2.md) launcher & carried to the ISS by [JAXA](jaxa.md)’s refueling vehicle, HTV.
       - Small Launcher. Customer’s satellite is launched as a dedicated launch on a small launcher. The timing of the launch can be adjusted more felxibily, & sat can be deployed into the desired orbit.
    1. **ISS Experiment Service.** Thanks to the partnership with JAXA, Space BD provides opportunities to perform experiments on the ISS using various facilities in‑ & outside the ISS, & support the planning & management of the whole launch campaign of the test object.
    1. **Broad support for the Utilization of Space.** Space BD provides the sat launch services using various methods, & the ISS experimental services as a commercial service provider selected by JAXA. By combining these service, we’ll propose the optimal use of space according to our customers’ needs.

@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**SE4 inc.** is a startup robotics company specializing in remote robotics through SEMANTIC CONTROL™ & ORCHESTRATED AUTONOMY™. SE4’s vision is to combine [AI & VR](soft.md) effectively, to enable contributions from off‑world robot‑driven industries to a prosperous long term survival strategy for humanity. VR, Computer Vision, Machine Learning, AI, Physics, Mechanical, & Electrical Engineering & much, much more. Founded 2018.11.01.
+**SE4 inc.** is a startup robotics company specializing in remote robotics through SEMANTIC CONTROL™ & ORCHESTRATED AUTONOMY™. SE4’s vision is to combine [AI & VR](../soft.md) effectively, to enable contributions from off‑world robot‑driven industries to a prosperous long term survival strategy for humanity. VR, Computer Vision, Machine Learning, AI, Physics, Mechanical, & Electrical Engineering & much, much more. Founded 2018.11.01.
 
 
 <p style="page-break-after:always"> </p>

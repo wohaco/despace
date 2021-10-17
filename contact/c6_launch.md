@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Launch services](lv.md), [Launcher design](lv.md) for CubeSats|
+|**Business**|[Launch services](../lv.md), [Launcher design](../lv.md) for CubeSats|
 |**[MGMT](../mgmt.md)**|…|
 
 **C6 Launch Systems** is dedicated to the Nano & Micro Satellite Industry & provides full logistical support including a proprietary launch vehicle which will send payloads of 25kg in to a 600KM low earth orbit, or up to 30 kg into SSO and custom orbits. Use [Shetland](spaceport.md) as a primary launch site.

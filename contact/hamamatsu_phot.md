@@ -9,9 +9,9 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Hamamatsu Photonics K.K.** (浜松ホトニクス株式会社, Hamamatsu Hotonikusu Kabushiki-gaisha) is a Japanese manufacturer of optical [sensors](sensor.md) (incl. photomultiplier tubes), electric light sources, other optical devices & their applied instruments for scientific, technical, medical use. In the space sector, Hamamatsu Photonics’ rocket tracking system that utilizes high‑speed television cameras, X‑ray charge‑coupled devices (CCDs), visible light & near‑infrared semiconductor sensors & other products are widely used for the Earth observation satellites, astronomical satellites, the International Space Station (ISS) & elsewhere. Founded 1953.09.29.
+**Hamamatsu Photonics K.K.** (浜松ホトニクス株式会社, Hamamatsu Hotonikusu Kabushiki-gaisha) is a Japanese manufacturer of optical [sensors](../sensor.md) (incl. photomultiplier tubes), electric light sources, other optical devices & their applied instruments for scientific, technical, medical use. In the space sector, Hamamatsu Photonics’ rocket tracking system that utilizes high‑speed television cameras, X‑ray charge‑coupled devices (CCDs), visible light & near‑infrared semiconductor sensors & other products are widely used for the Earth observation satellites, astronomical satellites, the International Space Station (ISS) & elsewhere. Founded 1953.09.29.
 
-   - Main Products: Photodiodes, image sensors, infrared detectors, X‑ray sensors, optical communications components, automobile parts, industrial [cameras](cam.md), microscope cameras, X‑ray cameras, spectrometers, LEDs, semiconductor lasers, life science testing machinery, medical inspection machines, etc.
+   - Main Products: Photodiodes, image sensors, infrared detectors, X‑ray sensors, optical communications components, automobile parts, industrial [cameras](../cam.md), microscope cameras, X‑ray cameras, spectrometers, LEDs, semiconductor lasers, life science testing machinery, medical inspection machines, etc.
    - Main Astronautics Equipment Produced:
       - The XY Tracker for tracking rockets,
       - The Ultraviolet imaging equipment for the Kyokkou aurora observation satellite & the Sakigake test probe to observe Halley's Comet,

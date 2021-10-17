@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Kratos Integral Systems** is a company aimed for R&D [ground antennas](scs.md), optimizing/managing satelllites, signals.
+**Kratos Integral Systems** is a company aimed for R&D [ground antennas](../scs.md), optimizing/managing satelllites, signals.
 
    - Systems. Design & install systems for:
       - Ground systems/gateways

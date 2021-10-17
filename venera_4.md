@@ -14,17 +14,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
 |Duration|127 days|
 |Launch|12 June 1967, 02:40 UTC, Rocket: Molniya 8K78M|
 |Operator|Lavochkin|
 |Programme|Venera programme|
-|Similar to|• Proposed: [Venera 5 and 6](venera_5_6.md), [Vega 1 and 2](vega_1_2.md)<br> • Current: [Mariner 5](mariner_5.md)<br> • ㎩st: Luna 2, [Venera 2 and 3](venera_2_3.md)|
+|Similar to|・Proposed: [Venera 5 and 6](venera_5_6.md), [Vega 1 and 2](vega_1_2.md)<br> ・Current: [Mariner 5](mariner_5.md)<br> ・Past: Luna 2, [Venera 2 and 3](venera_2_3.md)|
 |Target|Exploring the planet Venus, studying Venus from inside the atmosphere and on the surface|
 |[Type](sc.md)|Fly‑by spacecraft; lander spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|2 m parabolic HGA (decimeter range)|
 |Composition|Lander, orbiter|
 |Contractor|…|

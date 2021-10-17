@@ -19,7 +19,7 @@ RESTEC, as the core organization of satellite remote sensing in Japan, aspires t
       - Capacity building for developing countries including technology transfer
       - Providing both domestic & international personnel with remote sensing training
    1. Earth Observation
-      - Development & Operations of [ground stations](scs.md)
+      - Development & Operations of [ground stations](../scs.md)
       - Reception, Processing & Provision of data acquired both by domestic & foreign satellites
    1. Research & Development
       - Developing processor & observation platform

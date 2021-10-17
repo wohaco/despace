@@ -6,7 +6,7 @@
 |**Mission**|Shaping the future of autonomous exploration through ingenuity, knowledge and collaboration|
 |**Vision**|To become a leading provider of the innovative and enabling technologies that are critical to the realisation of the third technological revolution: developing intelligent systems for the benefit of people|
 |**Values**|…|
-|**Business**|[Software](soft.md) for GNC, simulation, data processing|
+|**Business**|[Software](../soft.md) for GNC, simulation, data processing|
 |**[MGMT](../mgmt.md)**|…|
 
 **NGC Aerospace Ltd** is a Canadian high‑tech SME recognised for the design & deployment of artificial vision, guidance, navigation & control systems for the autonomous operation of space, aeronautical & terrestrial vehicles. The analyses, algorithms, simulators & real-time software developed by NGC aim at increasing the autonomy, performance, reliability & safety of these intelligent vehicles while at the same time reducing their operational cost. From theoretical concepts & innovations to satellites & autonomous rovers currently in operation, NGC has demonstrated creativity, quality, excellence & performance consistent with its motto. NGC’s satellite GNC solutions & services include:

@@ -27,13 +27,13 @@ The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇�
 
    - **Chofu Aerospace Center** — JAXA’s HQ & main development facility. Formed 1962, Tokyo.
    - **Earth Observation Center** — JAXA’s facility. Hatoyama, Saitama.
-   - **[ISAS](isas.md)** (Institute of Space & Aeronautical Science) — researches of astrophysics using rockets, astronomical [satellites & interplanetary probes](sc.md). Founded in 1950s.
+   - **[ISAS](isas.md)** (Institute of Space & Aeronautical Science) — researches of astrophysics using rockets, astronomical [satellites & interplanetary probes](../sc.md). Founded in 1950s.
       - **[Extraterrestrial Sample Curation Center](isas.md)** — works of extraterrestrial materials by a sample‑return missions: documentation, preservation, preparation, distribution of samples.
       - **Sagamihara Campus** — ISAS’s facility. Sagamihara City.
    - **JSEC** (JAXA Space Exploration Center) — to integrate JAXA’s capabilities & expertise to promote its missions to the Moon & Mars. Formed 2018.
-   - **[Kakuda Space Center](kakuda_sc.md)** — development & testing of [rocket engines](ps.md) & space propulsion systems. Formed 1965, Kakuda, Miyagi Prefecture.
-   - **[Noshiro Rocket Testing Center](noshiro_rtc.md)** — R&D, testing of rockets & [rocket engines](ps.md). Formed 1962, Noshiro, Akita Prefecture.
-   - **[TKSC](tsukuba_sc.md)** or **Tsukuba** (Tsukuba Space Center) — operations facility, astronauts training, HQ for JAXA, manufactures [satellites](sc.md) & ISS modules. Formed 1972, Ibaraki Prefecture.
+   - **[Kakuda Space Center](kakuda_sc.md)** — development & testing of [rocket engines](../ps.md) & space propulsion systems. Formed 1965, Kakuda, Miyagi Prefecture.
+   - **[Noshiro Rocket Testing Center](noshiro_rtc.md)** — R&D, testing of rockets & [rocket engines](../ps.md). Formed 1962, Noshiro, Akita Prefecture.
+   - **[TKSC](tsukuba_sc.md)** or **Tsukuba** (Tsukuba Space Center) — operations facility, astronauts training, HQ for JAXA, manufactures [satellites](../sc.md) & ISS modules. Formed 1972, Ibaraki Prefecture.
 
 <p style="page-break-after:always"> </p>
 

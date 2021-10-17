@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|… or … of [gold](sc_price.md)|
 |Development|…|
 |Duration|4 m 7 d|
 |Launch|1962.08.27 06:53:14 UTC, Rocket: Atlas Agena B|
 |Operator|[NASA](contact/nasa.md) / [JPL](contact/jpl.md)|
 |Programme|Space program Mariner|
-|Similar to|• Proposed: [Mariner 5](mariner_5.md)<br> • Current: …<br> • ㎩st: [Luna 1](luna_1.md)|
+|Similar to|・Proposed: [Mariner 5](mariner_5.md)<br> ・Current: …<br> ・Past: [Luna 1](luna_1.md)|
 |Target|Venus exploration|
 |[Type](sc.md)|Fly‑by spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|Pointed parabolic antenna, 1.2 m in diameter|
 |Composition|Orbiter|
 |Contractor|…|

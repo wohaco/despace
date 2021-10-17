@@ -14,7 +14,7 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|$450M or 10 051 ㎏ of [gold](sc_price.md) in 2019 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
 |Development|2019 ‑ …|
@@ -22,10 +22,10 @@
 |Launch|2021 (proposed)|
 |Operator|NASA’s JPL|
 |Programme|Discovery Program|
-|Similar to|• Proposed: [EnVision](envision.md)<br> • Current: …<br> • ㎩st: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md)|
+|Similar to|・Proposed: [EnVision](envision.md)<br> ・Current: …<br> ・Past: [Venera 15, Venera 16](venera_15_16.md), [Magellan](магеллан.md)|
 |Target|Would produce global, high resolution topography and imaging of Venus’ surface|
 |[Type](sc.md)|Orbiter spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Composition|Orbiter|
 |Contractor|…|
 |Manufacturer|…|

@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Providing sea launch service to [hybrid rockets & model rockets](lv.md) in Japan. Clients are mainly universities, amateur rocketeers & private companies who wish to launch low‑apogee, below ~ 10 ㎞, rockets for the purpose of component test.|
+|**Business**|Providing sea launch service to [hybrid rockets & model rockets](../lv.md) in Japan. Clients are mainly universities, amateur rocketeers & private companies who wish to launch low‑apogee, below ~ 10 ㎞, rockets for the purpose of component test.|
 |**[MGMT](../mgmt.md)**|…|
 
 **Astrocean** provides sea launch service to various sized rockets. At the beginning, Astroceanhas founded to improve future shortage of spaceport. Founded in November 2018.

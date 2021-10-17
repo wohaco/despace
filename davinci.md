@@ -15,17 +15,17 @@
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
-|**Mission:**|• • •|
+|**【Mission】**|• • •|
 |Cost|$450M or 10 051 ㎏ of [gold](sc_price.md) in 2019 prices|
 |Development|2019 —  …|
 |Duration|…|
 |Launch|…|
 |Operator|NASA Goddard Space Flight Center|
 |Programme|Discovery Program|
-|Similar to|• Proposed: …<br> • Current: …<br> • ㎩st: [Pioneer-Venus-2](pioneer_venus_2.md), [VeGa 1, VeGa 2](vega_1_2.md)|
+|Similar to|・Proposed: …<br> ・Current: …<br> ・Past: [Pioneer-Venus-2](pioneer_venus_2.md), [VeGa 1, VeGa 2](vega_1_2.md)|
 |Target|Designed to address by targeting noble gases, trace gases, and their isotopes, as well as temperature, pressure, winds, and imaging at Venus|
 |[Type](sc.md)|Atmospheric spacecraft|
-|**Spacecraft:**|• • •|
+|**【Spacecraft】**|• • •|
 |Comms|…|
 |Composition|Atmospheric probe|
 |Contractor|…|
