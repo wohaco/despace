@@ -1,7 +1,7 @@
 # DSS
 > 2019.11.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/d/dss_logo1_thumb.jpg)](../f/con/d/dss_logo1.png)|<mark>noemail</mark>, +1(902)292-90-47, Fax: …;<br> *Hart House (K Building), Office #304 – 1340 Barrington Street, Halifax, NS B3J 1Z1, CA-NS.*<br> 【<http://dalorbits.ca/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/dsslabs/)】|
+|[![](../f/con/d/dss_logo1_thumb.jpg)](../f/con/d/dss_logo1.png)|<mark>noemail</mark>, +1(902)292-90-47, Fax: …;<br> *Hart House (K Building), Office #304 – 1340 Barrington Street, Halifax, NS B3J 1Z1, CA-NS.*<br> 【<http://dalorbits.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/dsslabs/)】|
 |:--|:--|
 |**Mission**|To be Atlantic Canada’s leading developer of spacecraft systems & components for future missions & satellite operations management|
 |**Vision**|Spacecraft research, development, & satellite management from Atlantic Canada|

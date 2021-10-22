@@ -13,44 +13,41 @@
 
 JEPICO has also developed Custom LSI, Module, Board & engages in system integration. JEPICO has the knowledge & experience to handle a wide variety of transactions as needed to succeed within the international trade environment. As JEPICO is admitted Export License, it contributes to a smooth trading. The products we provide can be found across the Aerospace, Defense & high‑end Industry Markets. JEPICO has developed a reputation for high reliability, targeting niche & focused markets that depend on that extra effort.
 
-Market:
-
-   - Aerospace & Defense
-   - Bluetooth & Wireless Communication
-   - Construction Vehicle
-   - Harsh Environments
-   - High‑end Industries
-   - Measurement & Mapping & Positioning
-   - Railways
-   - Satellite Communications
-   - Space
-   - Spectral Imaging & Precision Agriculture
-   - UAV & UGV
+   - **Market:**
+      - Aerospace & Defense
+      - Bluetooth & Wireless Communication
+      - Construction Vehicle
+      - Harsh Environments
+      - High‑end Industries
+      - Measurement & Mapping & Positioning
+      - Railways
+      - Satellite Communications
+      - Space
+      - Spectral Imaging & Precision Agriculture
+      - UAV & UGV
+   - **Main Customers:**
+      - Fujitsu Group
+      - Hitachi Group
+      - [Institute of Physical & Chemical Research (RIKEN)](riken.md)
+      - Ishikawajima-Harima Heavy Industries Group
+      - JAE Group
+      - [JAXA](kaxa.md)
+      - [Kawasaki Heavy Industries Group](kawasaki_hvi.md)
+      - [Mitsubishi Electric Group](mitsubishi.md)
+      - [Mitsubishi Heavy Industries Group](mitsubishi.md)
+      - [NEC Group / NICT](nec.md)
+      - OKI Group
+      - Panasonic Group
+      - SHIMADZU Group
+      - TOSHIBA Group
+      - Yokogawa Electric Group
+   - **Locations:**
+      - Nagoya Branch.: Tokai Kanden Bldg., 27-14, Izumi 2-Chome, Higashi-ku, Nagoya, Aichi 461-0001, Japan. TEL +81-52-930-6116, FAX +81-52-930-6118
+      - Osaka Branch.: Shin-Osaka Bldg., 1-1, Miyahara 1-Chome, Yodogawa-ku, Osaka 532-0003, Japan. TEL +81-6-7682-9048, FAX +81-50-3153-0020
+      - JEPICO Taiwan Co., ltd.: 11052台灣台北市信義區基隆路二段51號14樓. TEL +886-(0)2-2736-6088, FAX +886-(0)2-2736-7388
+      - JEPICO America, Inc.: 4675 Stevens Creek Blvd., Suite 130, Santa Clara, CA 95051, U.S.A. TEL +1-408-666-5304
+      - JEPICO Europe GmbH.: Maximilianstrasse 35a, 80539 Munich, Germany. TEL +49(0)89-242-18-148
 
 <p style="page-break-after:always"> </p>
 
-Main Customers:
-
-   - Fujitsu Group
-   - Hitachi Group
-   - [Institute of Physical & Chemical Research (RIKEN)](riken.md)
-   - Ishikawajima-Harima Heavy Industries Group
-   - JAE Group
-   - [JAXA](kaxa.md)
-   - [Kawasaki Heavy Industries Group](kawasaki_hvi.md)
-   - [Mitsubishi Electric Group](mitsubishi.md)
-   - [Mitsubishi Heavy Industries Group](mitsubishi.md)
-   - [NEC Group / NICT](nec.md)
-   - OKI Group
-   - Panasonic Group
-   - SHIMADZU Group
-   - TOSHIBA Group
-   - Yokogawa Electric Group
-
-Locations:
-
-   - Nagoya Branch. Address: Tokai Kanden Bldg., 27-14, Izumi 2-Chome, Higashi-ku, Nagoya, Aichi 461-0001, Japan. TEL +81-52-930-6116, FAX +81-52-930-6118
-   - Osaka Branch. Address: Shin-Osaka Bldg., 1-1, Miyahara 1-Chome, Yodogawa-ku, Osaka 532-0003, Japan. TEL +81-6-7682-9048, FAX +81-50-3153-0020
-   - JEPICO Taiwan Co., ltd. Address: 11052台灣台北市信義區基隆路二段51號14樓. TEL +886-(0)2-2736-6088, FAX +886-(0)2-2736-7388
-   - JEPICO America, Inc. Address: 4675 Stevens Creek Blvd., Suite 130, Santa Clara, CA 95051, U.S.A. TEL +1-408-666-5304
-   - JEPICO Europe GmbH. Address: Maximilianstrasse 35a, 80539 Munich, Germany. TEL +49(0)89-242-18-148
+…

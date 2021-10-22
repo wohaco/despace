@@ -61,5 +61,5 @@
    1. Notable interwikies — …
    1. <https://www.nasa.gov/feature/automaton-rover-for-extreme-environments-aree>
    1. <https://en.wikipedia.org/wiki/Automaton_Rover_for_Extreme_Environments>
-   1. 2017.04.10 [В НАСА одобрили очередные «безумные» проекты по колонизации космоса ⎆](https://ria.ru/20170410/1491926649.html) — [archive ❐](f/archive/20170410_1.pdf) of 2019.02.15
-   1. 2017.08.30 [Хабр: JPL NASA разрабатывает заводной вездеход для изучения Венеры ⎆](https://habr.com/ru/post/406309/) — [archive ❐](f/archive/20170830_1.7z) of 2019.02.15
+   1. 2017.04.10 [В НАСА одобрили очередные «безумные» проекты по колонизации космоса ⎆](https://ria.ru/20170410/1491926649.html) — [archived ❐](f/archive/20170410_1.pdf) 2019.02.15
+   1. 2017.08.30 [Хабр: JPL NASA разрабатывает заводной вездеход для изучения Венеры ⎆](https://habr.com/ru/post/406309/) — [archived ❐](f/archive/20170830_1.7z) 2019.02.15

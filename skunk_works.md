@@ -75,4 +75,4 @@
       - Скунсовые фабрики: мемуары моей работы в Локхид. Бэн Рич. [FB2 ❐](f/control/skunk_works.fb2), [PDF ❐](f/control/skunk_works.pdf)
    1. Notable interwikies — …
    1. <https://github.com/Infl1ght/skunk_works>
-   1. 2019.02.11 <https://mi3ch.livejournal.com/4407325.html> — [archive ❐](f/control/20190211_01.pdf) of 2019.11.15)
+   1. 2019.02.11 <https://mi3ch.livejournal.com/4407325.html> — [archived ❐](f/control/20190211_01.pdf) 2019.11.15

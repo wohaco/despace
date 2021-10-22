@@ -1,7 +1,7 @@
 # Maxar
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/maxar_logo1_thumb.png)](../f/con/m/maxar_logo1.png)|<info@maxar.com>, <mark>noworkphone</mark>, Fax: …;<br> *Maxar, 1300 W 120th Avenue, Westminster, CO 80234, USA*<br> 【<https://www.maxar.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Maxar_Technologies)・ [LinkedIn ⎆](https://www.linkedin.com/company/maxar-technologies-ltd/)|
+|[![](../f/con/m/maxar_logo1_thumb.png)](../f/con/m/maxar_logo1.png)|<info@maxar.com>, <mark>noworkphone</mark>, Fax: …;<br> *Maxar, 1300 W 120th Avenue, Westminster, CO 80234, USA*<br> 【<https://www.maxar.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/maxar-technologies-ltd/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Maxar_Technologies)|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -19,9 +19,6 @@ Offices:
 
    - Japan. Roppongi Hills North Tower 17F 6-2-31 Roppongi, Minato-ku, Tokyo, Japan 106-0032
 
-
-<p style="page-break-after:always"> </p>
-
 Maxar’s most visible products include the Canadarm used on NASA’s Space Shuttle, as well as the Canadarm2 & Dextre remote manipulator systems used on the International Space Station.
 
 Maxar provides operational solutions to commercial & government organizations worldwide, including:
@@ -38,3 +35,7 @@ Maxar provides operational solutions to commercial & government organizations wo
    - Robotic surgery research via its NeuroArm development program
    - Satellite Ground Stations
    - Space robotics
+
+<p style="page-break-after:always"> </p>
+
+…

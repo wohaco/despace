@@ -13,8 +13,6 @@ The **Remote Sensing Technology Center of Japan (RESTEC)** founded in August 197
 
 RESTEC, as the core organization of satellite remote sensing in Japan, aspires to build remote sensing technologies as a social infrastructure, through providing policy makers, researchers & other satellite data users with remote sensing solutions by collecting, archiving, processing & analyzing remote sensing data required by the users.
 
-<p style="page-break-after:always"> </p>
-
    1. Capacity Building
       - Capacity building for developing countries including technology transfer
       - Providing both domestic & international personnel with remote sensing training
@@ -35,3 +33,7 @@ RESTEC, as the core organization of satellite remote sensing in Japan, aspires t
    1. Think tank/Consulting
       - Assessment & analysis of remote sensing needs in emerging & developing countries
       - Conducting consulting & research works related to the earth observation & remote sensing
+
+<p style="page-break-after:always"> </p>
+
+…

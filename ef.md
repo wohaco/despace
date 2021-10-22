@@ -27,12 +27,6 @@
 
 
 
-## Average environments & conditions
-
-<mark>TBD</mark>
-
-
-
 ## Docs & links
 |Navigation|
 |:--|

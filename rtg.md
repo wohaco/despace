@@ -89,4 +89,4 @@ There is a concept of subcritical RTGs. The subcritical generator consists of a 
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Радиоизотопный_термоэлектрический_генератор>
    1. <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
-   1. 2014.07.27 [Хабр: РИТЭГ: прозаичные тепло и электричество для космических аппаратов ⎆](https://habr.com/ru/post/231197/) — [archive ❐](f/archive/20140727_1.pdf) of 2019.02.08)
+   1. 2014.07.27 [Хабр: РИТЭГ: прозаичные тепло и электричество для космических аппаратов ⎆](https://habr.com/ru/post/231197/) — [archived ❐](f/archive/20140727_1.pdf) 2019.02.08

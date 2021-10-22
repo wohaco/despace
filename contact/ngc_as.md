@@ -1,7 +1,7 @@
 # NGC Aerospace
 > 2019.08.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/n/ngc_as_logo1_thumb.png)](../f/con/n/ngc_as_logo1.png)|<mark>noemail</mark>, +1(819)348-94-83, Fax: +1(819)348-94-30;<br> *2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*<br> 【<http://www.ngcaerospace.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/ngc-aerospace-ltd)】|
+|[![](../f/con/n/ngc_as_logo1_thumb.png)](../f/con/n/ngc_as_logo1.png)|<mark>noemail</mark>, +1(819)348-94-83, Fax: +1(819)348-94-30;<br> *2995 Boulevard Industriel, Sherbrooke, QC J1L 2T9, Canada*<br> 【<http://www.ngcaerospace.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/ngc-aerospace-ltd)】|
 |:--|:--|
 |**Mission**|Shaping the future of autonomous exploration through ingenuity, knowledge and collaboration|
 |**Vision**|To become a leading provider of the innovative and enabling technologies that are critical to the realisation of the third technological revolution: developing intelligent systems for the benefit of people|

@@ -1,7 +1,7 @@
 # C-CORE
 > 2021.06.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/c/c_core_logo1_thumb.png)](../f/con/c/c_core_logo1.png)|<info@c-core.ca>, +1(709)864-8354, Fax: +1(709)864-4706;<br> *Captain Robert A. Bartlett Building, 1 Morrissey Road, St. John’s, NL, Canada, A1B 3X5*<br> 【<https://www.c-core.ca/> ・ [Twitter ⎆](https://twitter.com/ccore1975)・ [LinkedIn ⎆](https://www.linkedin.com/company/c-core)】|
+|[![](../f/con/c/c_core_logo1_thumb.png)](../f/con/c/c_core_logo1.png)|<info@c-core.ca>, +1(709)864-8354, Fax: +1(709)864-4706;<br> *Captain Robert A. Bartlett Building, 1 Morrissey Road, St. John’s, NL, Canada, A1B 3X5*<br> 【<https://www.c-core.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/c-core) ・ [Twitter ⎆](https://twitter.com/ccore1975)・ [LinkedIn ⎆](https://www.linkedin.com/company/c-core)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -21,5 +21,6 @@ Since 1975 **C-CORE** has provided research‑based advisory services & technolo
    - Our office in Ottawa, ON, which focuses primarily on Remote Sensing & serves as a secondary base of operations for LOOKNorth personnel & projects. 4043 Carling Avenue, Suite 202, Ottawa, ON, Canada, K2K 2A4. Tel: 613.592.7700 / Fax: 613.592.7701 / E‑mail: <info@c-core.ca>
    - C-CORE also has an office in Halifax, NS.
 
-
 <p style="page-break-after:always"> </p>
+
+…

@@ -1,7 +1,7 @@
 # ㎆RSC
 > 2020.02.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/mbrsc_logo1_thumb.jpg)](../f/con/m/mbrsc_logo1.png)|<info@mbrsc.ae>, +971(4)607-12-00, Fax: …;<br> *Al Khawaneej Street,Al Khawaneej, Dubai, ОАЭ*<br> 【<http://www.mbrsc.ae/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre)】|
+|[![](../f/con/m/mbrsc_logo1_thumb.jpg)](../f/con/m/mbrsc_logo1.png)|<info@mbrsc.ae>, +971(4)607-12-00, Fax: …;<br> *Al Khawaneej Street,Al Khawaneej, Dubai, ОАЭ*<br> 【<http://www.mbrsc.ae/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

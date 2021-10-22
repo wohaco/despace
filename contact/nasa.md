@@ -23,7 +23,7 @@
    - [Jet Propulsion Laboratory](jpl.md) — Проектирование автоматических станций, беспилотных КА.
    - Johnson Space Center — Занимаются пилотируемыми проектами.
    - Katherine Johnson Independent Verification & Validation Facility — Разработка и контроль ПО.
-   - [Kennedy Space Center](spaceport.md) — Подготовка к запуску и запуск аппаратов на околоземную орбиту и в космическое пространство.
+   - [Kennedy Space Center](../spaceport.md) — Подготовка к запуску и запуск аппаратов на околоземную орбиту и в космическое пространство.
    - Langley Research Center — Разработка инновационных технологий для авиации, исследования Земной атмосферы, разработка космических технологий.
    - Marshall Space Flight Center — Разработка и производство двигательных и силовых установок, ракет-носителей, космических систем, технологий.
    - NASA Engineering & Safety Center — Техническая оценка и консультация. Предоставление в форме письменных отчетов профилактических и корректирующих рекомендаций. Выявление потенциальных проблем.
@@ -81,10 +81,10 @@
 
 Некоторые примечательные отделы и ПО:
 
-   - [Open](nasa_open.md) — a lot of data & tools
-   - [Scientific & technical information program](nasa_sti.md) (STI)
+   - [Open](../nasa_open.md) — a lot of data & tools
+   - [Scientific & technical information program](../nasa_sti.md) (STI)
    - Scientific visualization studio
 
 Некоторые примечательные программы:
 
-   - [TALOS](talos.md) (Thruster Advancement for Low-temperature operation in space) by STMD
+   - [TALOS](../talos.md) (Thruster Advancement for Low-temperature operation in space) by STMD

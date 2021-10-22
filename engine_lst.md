@@ -12,7 +12,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 1NMHT (EU)
+### 1NMHT ·［EU, 1c］
 **1NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1996.
 
 |*Characteristics*|*[Value](si.md)<br> (1NMHT)*|
@@ -29,9 +29,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md)|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.44 (0.142 ‑ 0.447)|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|67|
@@ -52,12 +51,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (kgf), ≥|135 000 (13 760)|
 |Thrust — total thrust duration, s, ≥|180 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/1nmht_pic1_thumb.jpg)](f/ps/1nmht_pic1.jpg)|
+| |[![](f/ps/0/1nmht_pic1_thumb.jpg)](f/ps/0/1nmht_pic1.jpg)|
 
 **Notes:**
 
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/1n-hydrazine-thruster.html> — [archive ❐](f/ps/1nmht_site.pdf) of 2019.02.21
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/1n-hydrazine-thruster.html> — [archived ❐](f/ps/0/1nmht_site.pdf) 2019.02.21
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **Applicability:** CSO-3 (…)・ CSO-2 (…)・ CSO-1 (2016)・ Sentinel 2B (2016)・ Sentinel 5P (2016)・ SEOSAT (Ingenio) (2015)・ Sentinel 2A (2015)・ SEOSAR (Paz) (2015)・ Taranis (2015)・ AstroTerra 2 (2014)・ KRS (2014)・ Jason-3 (2013)・ Vietnam-1 (2013)・ AstroTerra 1 (2012)・ Pleiades HR2 (2012)・ Elisa-1 (2011)・ Elisa-2 (2011)・ Elisa-3 (2011)・ Elisa-4 (2011)・ Pleiades HR1 (2011)・ SSOT (2011)・ Alsat 2A (2010)・ Alsat 2B (2010)・ CosmoSkymed-4 (2010)・ TANDEM-X (2010)
 
@@ -65,7 +64,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 11D428A-16 (RU)
+### 11D428A-16 ·［RU, 2c］
 **11D428A-16** (ru. **11Д428А-16**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D428A-16)*|*[Value](si.md)<br> (11D428AF-16)*|
@@ -80,11 +79,10 @@ A list of [Engines](ps.md).
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | |
 |[Thermal range](tcs.md), ℃| | |
-|[TRL](trl.md)|9 **⁽¹⁾ ⁽²⁾**|9 **⁽¹⁾ ⁽²⁾**|
+|[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0452875|0.0411392|
 |Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹⁾**|1.85 ± 0.05 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|2 250|2 042|
@@ -117,7 +115,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 11D457 (RU)
+### 11D457 ·［RU, 2c］
 **11D457** (ru. **11Д457**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D457)*|*[Value](si.md)<br> (11D457F)*|
@@ -132,13 +130,12 @@ A list of [Engines](ps.md).
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | |
 |[Thermal range](tcs.md), ℃| | |
-|[TRL](trl.md)|9 **⁽¹⁾ ⁽²⁾**|9 **⁽¹⁾ ⁽²⁾**|
+|[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0216552|0.0190007|
-|Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹⁾ ⁽²⁾**| |
+|Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹ ²⁾**| |
 |Fuel — resource, ㎏, ≥| |109|
 |Mach number / [Adiabatic exponent](heat_cr.md)| | |
 |Press. — comb. chamber, ㎫ (kgf/㎝²)| | |
@@ -169,7 +166,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 11D458 (RU)
+### 11D458 ·［RU, 2c］
 **11D458** (ru. **11Д458**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D458)*|*[Value](si.md)<br> (11D458M)*|*[Value](si.md)<br> (11D458F)*|
@@ -184,13 +181,12 @@ A list of [Engines](ps.md).
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | | |
 |[Thermal range](tcs.md), ℃| | | |
-|[TRL](trl.md)|9 **⁽¹⁾ ⁽²⁾**|9 **⁽¹⁾ ⁽²⁾**|9 **⁽¹⁾ ⁽²⁾**|
+|[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | | |
-|**【Specific】**|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾**|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.1587044|0.1324333|0.1280916|
-|Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹⁾ ⁽²⁾**|1.85 ± 0.15 **⁽¹⁾ ⁽²⁾**|1.85 ± 0.15 **⁽¹⁾ ⁽²⁾**|
+|Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹ ²⁾**|1.85 ± 0.15 **⁽¹ ²⁾**|1.85 ± 0.15 **⁽¹ ²⁾**|
 |Fuel — resource, ㎏, ≥| |132 **⁽¹⁾**; 509 **⁽³⁾**|350 **⁽²⁾**|
 |Mach number / [Adiabatic exponent](heat_cr.md)| | | |
 |Press. — comb. chamber, ㎫ (kgf/㎝²)| | | |
@@ -222,7 +218,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 14D30 (RU)
+### 14D30 ·［RU, 2c］
 **11D30** (ru. **14Д30**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (14D30)*|
@@ -239,9 +235,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|6.08560794|
 |Fuel — mass ratio of components|2.0 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|19 470|
@@ -272,7 +267,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 17D16 (RU)
+### 17D16 ·［RU, 2c］
 **17D16** (ru. **17Д16**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (17D16)*|
@@ -289,9 +284,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md) **⁽¹⁾**|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md) **⁽¹⁾** ()|
 |Fuel — consumption, ㎏/s, ≤|0.0778262|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|355|
@@ -314,7 +308,7 @@ A list of [Engines](ps.md).
 
 **Notes:**
 
-   1. [Описание двигателя ❐](f/ps/17d16_doc_20180130.pdf) (2018 год)
+   1. [Описание двигателя ❐](f/ps/0/17d16_doc_20180130.pdf) (2018 год)
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [NIIMASH](contact/niimash.md) site, 2016 y.
    1. **[2]** — see engine description from 2018 y.
@@ -324,7 +318,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 17D58E (RU)
+### 17D58E ·［RU, 2c］
 **17D58E** (ru. **17Д58Э**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (17D58E)*|*[Value](si.md)<br> (17D58EF)*|
@@ -339,13 +333,12 @@ A list of [Engines](ps.md).
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | |
 |[Thermal range](tcs.md), ℃| | |
-|[TRL](trl.md)|9 **⁽¹⁾ ⁽²⁾**|9 **⁽¹⁾ ⁽²⁾**|
+|[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0049665|0.0048823|
-|Fuel — mass ratio of components|1.85 ± 0.2 **⁽¹⁾ ⁽²⁾**|1.85 ± 0.2 **⁽¹⁾ ⁽²⁾**|
+|Fuel — mass ratio of components|1.85 ± 0.2 **⁽¹ ²⁾**|1.85 ± 0.2 **⁽¹ ²⁾**|
 |Fuel — resource, ㎏, ≥|893| |
 |Mach number / [Adiabatic exponent](heat_cr.md)| | |
 |Press. — comb. chamber, ㎫ (kgf/㎝²)| | |
@@ -377,7 +370,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 20NMHT (EU)
+### 20NMHT ·［EU, 1c］
 **20NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1982.
 
 |*Characteristics*|*[Value](si.md)<br> (20NMHT)*|
@@ -394,9 +387,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md)|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0032 ‑ 0.0104|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|290|
@@ -416,12 +408,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (kgf), ≥|517 000 (52 700)|
 |Thrust — total thrust duration, s, ≥|37 800|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/20nmht_pic1_thumb.jpg)](f/ps/20nmht_pic1.jpg)|
+| |[![](f/ps/0/20nmht_pic1_thumb.jpg)](f/ps/0/20nmht_pic1.jpg)|
 
 **Notes:**
 
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/20n-hydrazine-thruster.html> — [archive ❐](f/ps/20nmht_site.pdf) of 2019.02.21)
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/20n-hydrazine-thruster.html> — [archived ❐](f/ps/0/20nmht_site.pdf) 2019.02.21
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **Applicability:** NGSAR (2018 ‑ 2019), Herschel (2009), Planck (2009), METOP 1-3 (2006), Integral (2002)
 
@@ -429,7 +421,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 255U.487 (RU)
+### 255U.487 ·［RU, 2c］
 **255U.487** (ru. **255У.487**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (255U.487)*|*[Value](si.md)<br> (DMT-600)*|
@@ -446,9 +438,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|6 **⁽¹⁾**|3 **⁽²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.2028254|0.2005347|
 |Fuel — mass ratio of components|1.8169 ± 0.066 **⁽¹⁾**|1.85 **⁽²⁾**|
 |Fuel — resource, ㎏, ≥|20|1 000|
@@ -483,7 +474,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 255U.530 (RU)
+### 255U.530 ·［RU, 2c］
 **255U.530** (ru. **255У.530**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (255У.530.00-0)*|
@@ -500,9 +491,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.2028254289|
 |Fuel — mass ratio of components|1.8169 ± 0.066|
 |Fuel — resource, ㎏, ≥|20|
@@ -536,7 +526,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 400NMHT (EU)
+### 400NMHT ·［EU, 1c］
 **400NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1996.
 
 |*Characteristics*|*[Value](si.md)<br> (400NMHT)*|
@@ -553,9 +543,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md)|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.058 ‑ 0.19|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|300|
@@ -575,12 +564,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (kgf), ≥|188 000|
 |Thrust — total thrust duration, s, ≥|850|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/400nmht_pic1_thumb.jpg)](f/ps/400nmht_pic1.jpg)|
+| |[![](f/ps/0/400nmht_pic1_thumb.jpg)](f/ps/0/400nmht_pic1.jpg)|
 
 **Notes:**
 
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/400n-hydrazine-thruster.html> — [archive ❐](f/ps/400nmht_site.pdf) of 2019.02.21)
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/400n-hydrazine-thruster.html> — [archived ❐](f/ps/0/400nmht_site.pdf) 2019.02.21
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **Applicability:** Ariane 5 G, GS and ES versions for the roll and attitude control・ ExoMars-2016 DM
 
@@ -588,7 +577,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BE-3 (US)
+### BE-3 ·［US, 2c］
 **BE-3** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-3)*|*[Value](si.md)<br> (BE-3U)*|
@@ -605,9 +594,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|9|6|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[O + H](o_plus.md)|[O + H](o_plus.md)|
-|Fuel — combustion products|H₂, H₂O|H₂, H₂O|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|[O+H](o_plus.md) (H₂, H₂O)|
 |Fuel — consumption, ㎏/s, ≤| | |
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥| | |
@@ -642,7 +630,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BE-4 (US)
+### BE-4 ·［US, 2c］
 **BE‑4** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-4)*|
@@ -659,9 +647,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|6|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[O + Methane](o_plus.md)|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O + Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -701,7 +688,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BE-7 (US)
+### BE-7 ·［US, 2c］
 **BE-7** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-7)*|
@@ -718,9 +705,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|3|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[O + H](o_plus.md)|
-|Fuel — combustion products|H₂, H₂O|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -752,7 +738,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BT-4 (JP)
+### BT-4 ·［JP, 2c］
 **BT-4** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in 2007.
 
 |*Characteristics*|*[Value](si.md)<br> (BT-4)*|
@@ -769,9 +755,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO + Hydrazine](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, NH₃, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](at_plus.md) (H₂, H₂O, NH₃, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.1592762|
 |Fuel — mass ratio of components|1.69|
 |Fuel — resource, ㎏, ≥| |
@@ -811,7 +796,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### DMT-500 (RU)
+### DMT-500 ·［RU, 2c］
 **DMT-500** (ru. **ДМТ-500**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-500)*|
@@ -828,9 +813,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.164419|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 645|
@@ -862,7 +846,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### DMT-1000 (RU)
+### DMT-1000 ·［RU, 2c］
 **DMT-1000** (ru. **ДМТ-1000**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-1000)*|
@@ -879,9 +863,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.362844|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|10|
@@ -913,7 +896,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### DMT-2200 (RU)
+### DMT-2200 ·［RU, 2c］
 **DMT-2200** (ru. **ДМТ-2200**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-2200)*|
@@ -930,9 +913,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.752005|
 |Fuel — mass ratio of components|1.95 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|157|
@@ -964,7 +946,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### DOC-10 (RU)
+### DOC-10 ·［RU, 1c］
 **DOC-10** (ru. **ДОК-10**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOC-10)*|
@@ -981,9 +963,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) **⁽¹⁾** (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0044444|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|6.5|
@@ -1014,7 +995,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### DOC-50 (RU)
+### DOC-50 ·［RU, 1c］
 **DOC-50** (ru. **ДОК-50**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOC-50)*|
@@ -1031,9 +1012,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) **⁽¹⁾** (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0222222|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|33|
@@ -1064,7 +1044,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### DOT-5 (RU)
+### DOT-5 ·［RU, 1c］
 **DOT-5** (ru. **ДОТ-5**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOT-5)*|
@@ -1081,9 +1061,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) **⁽¹⁾** (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.002217|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|260|
@@ -1114,7 +1093,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### DOT-25 (RU)
+### DOT-25 ·［RU, 1c］
 **DOT-25** (ru. **ДОТ-25**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOT-25)*|
@@ -1131,9 +1110,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) **⁽¹⁾** (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.010869|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|267|
@@ -1164,7 +1142,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### Draco (US)
+### Draco ·［US, 2c］
 **Draco** — a family of 2-component [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Draco)*|*[Value](si.md)<br> (SuperDraco)*|
@@ -1181,9 +1159,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|9|6|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[АТ + MMH](at_plus.md)|[АТ + MMH](at_plus.md)|
-|Fuel — combustion products| | |
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO + MMH](at_plus.md) ()|[NTO + MMH](at_plus.md) ()|
 |Fuel — consumption, ㎏/s, ≤|0.135915|30.148619|
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥| |1 388|
@@ -1221,7 +1198,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### GT-50 (RU)
+### GT-50 ·［RU, el.］
 **GT-50** — electric ion [engine](ps.md) by [Avantspace](contact/avantspace.md).
 
 |*Characteristics*|*[Value](si.md)<br> (GT-50)*|*[Value](si.md)<br> (GT-50)*|
@@ -1238,9 +1215,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|4|4|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| | |
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|
 |Fuel — consumption, ㎏/s, ≤|0.0000003|0.0000004|
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥| | |
@@ -1275,7 +1251,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### IHI 22N (JP, 2c)
+### IHI 22N ·［JP, 2c］
 **IHI 22N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 22N)*|
@@ -1292,9 +1268,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO + Hydrazine](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, NH₃, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](at_plus.md) (H₂, H₂O, NH₃, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0074292|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|583|
@@ -1314,7 +1289,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (kgf), ≥|1 687 190 (171 985)|
 |Thrust — total thrust duration, s, ≥|78 500|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
+| |[![](f/ps/i/ihi_22n_thumb.jpg)](f/ps/i/ihi_22n.jpg)|
 
 **Notes:**
 
@@ -1326,7 +1301,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### IHI 120N (JP, 2c)
+### IHI 120N ·［JP, 2c］
 **IHI 120N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 120N)*|
@@ -1343,9 +1318,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|MON3+MMH|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|MON3+MMH ()|
 |Fuel — consumption, ㎏/s, ≤|0.0461293|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|446|
@@ -1365,7 +1339,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (kgf), ≥|1 202 700 (122 600)|
 |Thrust — total thrust duration, s, ≥|9 668|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
+| |[![](f/ps/i/ihi_120n_thumb.jpg)](f/ps/i/ihi_120n.jpg)|
 
 **Notes:**
 
@@ -1377,7 +1351,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### IHI 450N (JP, 2c)
+### IHI 450N ·［JP, 2c］
 **IHI 450N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 450N)*|
@@ -1394,9 +1368,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO + Hydrazine](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, NH₃, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](at_plus.md) (H₂, H₂O, NH₃, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.1394272|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|4 580|
@@ -1416,7 +1389,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (kgf), ≥|14 782 100 (1 506 835)|
 |Thrust — total thrust duration, s, ≥|32 850|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
+| |[![](f/ps/i/ihi_450n_thumb.jpg)](f/ps/i/ihi_450n.jpg)|
 
 **Notes:**
 
@@ -1428,7 +1401,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### IHI 490N (JP, 2c)
+### IHI 490N ·［JP, 2c］
 **IHI 490N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 490N)*|
@@ -1445,9 +1418,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|MON3+MMH|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|MON3+MMH ()|
 |Fuel — consumption, ㎏/s, ≤|0.1580666|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|2 371|
@@ -1467,7 +1439,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (kgf), ≥|7 350 000 (749 235)|
 |Thrust — total thrust duration, s, ≥|15 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
+| |[![](f/ps/i/ihi_490n_thumb.jpg)](f/ps/i/ihi_490n.jpg)|
 
 **Notes:**
 
@@ -1479,211 +1451,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### IHI MT-2 (JP, 1c)
-**IHI MT-2** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
-
-|*Characteristics*|*[Value](si.md)<br> (IHI MT-2)*|
-|:--|:--|
-|Composition| |
-|Consumption, W| |
-|Dimensions, ㎜| |
-|[Interfaces](interface.md)| |
-|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
-|Mass, ㎏| |
-|[Overload](vibration.md), Grms| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
-|[TRL](trl.md)|9|
-|[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md)|
-|Fuel — combustion products|H₂, N₂|
-|Fuel — consumption, ㎏/s, ≤|0.0033493519 ‑ 0.00884053656|
-|Fuel — mass ratio of components|—|
-|Fuel — resource, ㎏, ≥|115|
-|Mach number / [Adiabatic exponent](heat_cr.md)| |
-|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
-|Press. — engine entrance, ㎫ (kgf/㎝²)|0.48 ‑ 2.76 (4.7 ‑ 27.1)|
-|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
-|Temper. — comb. chamber, К (℃)| |
-|Temper. — nozzle cut, К (℃)| |
-|Thrust, N (kgf)|6.9 ‑ 19.6 (0.7034 ‑ 1.998)|
-|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 060 ‑ 2 218 (210 ‑ 226)|
-|Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
-|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
-|Thrust — torch angle, °| |
-|Thrust — total pulses, ≥|261 914|
-|Thrust — total thrust, N (kgf), ≥|237 000 ‑ 255 000|
-|Thrust — total thrust duration, s, ≥|34 400 ‑ 13 000|
-|[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
-
-**Notes:**
-
-   1. …
-   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
-
-
-
-<p style="page-break-after:always"> </p>
-
-### IHI MT-6 (JP, 1c)
-**IHI MT-6** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
-
-|*Characteristics*|*[Value](si.md)<br> (IHI MT-6)*|
-|:--|:--|
-|Composition| (ITAR‑free)|
-|Consumption, W| |
-|Dimensions, ㎜| |
-|[Interfaces](interface.md)| |
-|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
-|Mass, ㎏| |
-|[Overload](vibration.md), Grms| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
-|[TRL](trl.md)|9|
-|[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md)|
-|Fuel — combustion products|H₂, N₂|
-|Fuel — consumption, ㎏/s, ≤|0.01090486689 ‑ 0.02265262204|
-|Fuel — mass ratio of components|—|
-|Fuel — resource, ㎏, ≥|120|
-|Mach number / [Adiabatic exponent](heat_cr.md)| |
-|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
-|Press. — engine entrance, ㎫ (kgf/㎝²)|0.9 ‑ 2.76 (8.82 ‑ 27.1)|
-|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
-|Temper. — comb. chamber, К (℃)| |
-|Temper. — nozzle cut, К (℃)| |
-|Thrust, N (kgf)|23 ‑ 50 (2.3445 ‑ 5.0968)|
-|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 110 ‑ 2 208 (215 ‑ 225)|
-|Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
-|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
-|Thrust — torch angle, °| |
-|Thrust — total pulses, ≥|14 800|
-|Thrust — total thrust, N (kgf), ≥|253 100 ‑ 265 000|
-|Thrust — total thrust duration, s, ≥|11 000 ‑ 5 300|
-|[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
-
-**Notes:**
-
-   1. …
-   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
-
-
-
-<p style="page-break-after:always"> </p>
-
-### IHI MT-8A (JP, 1c)
-**IHI MT-8A** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
-
-|*Characteristics*|*[Value](si.md)<br> (IHI MT-8A)*|
-|:--|:--|
-|Composition| (ITAR‑free)|
-|Consumption, W| |
-|Dimensions, ㎜| |
-|[Interfaces](interface.md)| |
-|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
-|Mass, ㎏| |
-|[Overload](vibration.md), Grms| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
-|[TRL](trl.md)|9|
-|[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md)|
-|Fuel — combustion products|H₂, N₂|
-|Fuel — consumption, ㎏/s, ≤|0.000727413 ‑ 0.002560005|
-|Fuel — mass ratio of components|—|
-|Fuel — resource, ㎏, ≥|180|
-|Mach number / [Adiabatic exponent](heat_cr.md)| |
-|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
-|Press. — engine entrance, ㎫ (kgf/㎝²)|0.55 ‑ 2.76 (5.4 ‑ 27.1)|
-|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
-|Temper. — comb. chamber, К (℃)| |
-|Temper. — nozzle cut, К (℃)| |
-|Thrust, N (kgf)|1.47 ‑ 5.5 (0.1498 ‑ 0.5607)|
-|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 020 ‑ 2 150 (206 ‑ 219)|
-|Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
-|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
-|Thrust — torch angle, °| |
-|Thrust — total pulses, ≥|850 000|
-|Thrust — total thrust, N (kgf), ≥|364 000 ‑ 387 000|
-|Thrust — total thrust duration, s, ≥|247 500 ‑ 70 500|
-|[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
-
-**Notes:**
-
-   1. …
-   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
-
-
-
-<p style="page-break-after:always"> </p>
-
-### IHI MT-9 (JP, 1c)
-**IHI MT-9** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
-
-|*Characteristics*|*[Value](si.md)<br> (IHI MT-9)*|
-|:--|:--|
-|Composition| (ITAR‑free)|
-|Consumption, W| |
-|Dimensions, ㎜| |
-|[Interfaces](interface.md)| |
-|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
-|Mass, ㎏| |
-|[Overload](vibration.md), Grms| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
-|[TRL](trl.md)|9|
-|[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md)|
-|Fuel — combustion products|H₂, N₂|
-|Fuel — consumption, ㎏/s, ≤|0.0001421234 ‑ 0.0005357608|
-|Fuel — mass ratio of components|—|
-|Fuel — resource, ㎏, ≥|100|
-|Mach number / [Adiabatic exponent](heat_cr.md)| |
-|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
-|Press. — engine entrance, ㎫ (kgf/㎝²)|0.55 ‑ 2.76 (5.4 ‑ 27.1)|
-|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
-|Temper. — comb. chamber, К (℃)| |
-|Temper. — nozzle cut, К (℃)| |
-|Thrust, N (kgf)|0.29 ‑ 1.13 (0.0296 ‑ 0.1152)|
-|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 040 ‑ 2 110 (208 ‑ 215)|
-|Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
-|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
-|Thrust — torch angle, °| |
-|Thrust — total pulses, ≥|850 000|
-|Thrust — total thrust, N (kgf), ≥|204 000 ‑ 211 000|
-|Thrust — total thrust duration, s, ≥|704 000 ‑ 187 000|
-|[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
-
-**Notes:**
-
-   1. …
-   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
-
-
-
-<p style="page-break-after:always"> </p>
-
-### K10 (RU)
+### K10 ·［RU, 1c］
 **K10** (ru. **К10**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (K10)*|
@@ -1700,9 +1468,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) **⁽¹⁾** (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.00004638|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|20 **⁽¹⁾**|
@@ -1733,7 +1500,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### K50 (RU)
+### K50 ·［RU, 1c］
 **K50** (ru. **К50**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (К50-10.1)*|
@@ -1750,9 +1517,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) **⁽¹⁾** (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.00025023|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|20 **⁽¹⁾**|
@@ -1783,7 +1549,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### KVD1 (RU)
+### KVD1 ·［RU, 2c］
 **KVD1** (ru. **КВД1**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (KVD1)*|
@@ -1800,9 +1566,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[O + H](o_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) **⁽¹⁾** (H₂, H₂O)|
 |Fuel — consumption, ㎏/s, ≤|15.365100|
 |Fuel — mass ratio of components|6 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|12 300|
@@ -1834,7 +1599,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### LEROS (US)
+### LEROS ·［US, 2c］
 **LEROS** — 2‑component [engine](ps.md) by [Moog inc](contact/moog_inc.md). Manufacturing in UK. Classified as [HTAE](htae.md).
 
 |*Characteristics*|*[Value](si.md)<br> (LEROS 1b)*|*[Value](si.md)<br> (LEROS 1c)*|*[Value](si.md)<br> (LEROS 2b)*|*[Value](si.md)<br> (LEROS 4)*|
@@ -1851,9 +1616,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | | | |
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|4 **⁽²⁾**|
 |[Voltage](sps.md), V| | | | |
-|**【Specific】**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[NTO + Hydrazine](at_plus.md) **⁽¹⁾**|[NTO + Hydrazine](at_plus.md) **⁽¹⁾**|[АТ + MMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[АТ + MMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products| | | | |
+|**［Specific］**|• • •|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](at_plus.md) **⁽¹⁾** (H₂, H₂O, NH₃, N₂)|[NTO+Hydrazine](at_plus.md) **⁽¹⁾** (H₂, H₂O, NH₃, N₂)|[NTO + MMH](at_plus.md) **⁽¹ ²⁾** ()|[NTO + MMH](at_plus.md) **⁽¹ ²⁾** ()|
 |Fuel — consumption, ㎏/s, ≤|0.204180|0.144115|0.130532|0.352790|
 |Fuel — mass ratio of components|0.8 ‑ 0.9 **⁽¹⁾**|0.78 ‑ 0.89 **⁽¹⁾**|1.43 ‑ 1.81 **⁽¹⁾**|1.5 ‑ 1.8 **⁽²⁾**|
 |Fuel — resource, ㎏, ≥|4 180|4 480|3 900| |
@@ -1877,7 +1641,7 @@ A list of [Engines](ps.md).
 
 **Notes:**
 
-   1. Docs: [Upper Stage Engines Rev 0913 ❐](f/ps/leros_upper_stage_engines_rev_0913.djvu)・ [An overview of LEROS 4, Space Propulsion 2014 Conference ❐](f/ps/leros_sp2014_2969298.djvu)・ [An overview of LEROS 4, Space Propulsion 2012 Conference ❐](f/ps/leros_sp2012_2394092_witherrata.djvu)
+   1. Docs: [Upper Stage Engines Rev 0913 ❐](f/ps/l/leros_upper_stage_engines_rev_0913.djvu)・ [An overview of LEROS 4, Space Propulsion 2014 Conference ❐](f/ps/l/leros_sp2014_2969298.djvu)・ [An overview of LEROS 4, Space Propulsion 2012 Conference ❐](f/ps/l/leros_sp2012_2394092_witherrata.djvu)
    1. <https://en.wikipedia.org/wiki/LEROS>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see Upper Stage Engines Rev 0913, 2018 год.
@@ -1889,7 +1653,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### MD08 (RU)
+### MD08 ·［RU, gas］
 **MD08** (ru. **МД08**) — gas [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (MD08)*|*[Value](si.md)<br> (MD08-02)*|
@@ -1906,9 +1670,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|9 **⁽²⁾**|9 **⁽²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[N](азот.md) / [He](гелий.md) **⁽²⁾**|[N](азот.md) / [He](гелий.md) **⁽²⁾**|
-|Fuel — combustion products|[N](азот.md) / [He](гелий.md)|[N](азот.md) / [He](гелий.md)|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[N](азот.md) / [He](гелий.md) **⁽²⁾** (N / He)|[N](азот.md) / [He](гелий.md) **⁽²⁾** (N / He)|
 |Fuel — consumption, ㎏/s, ≤|0.0011438 / 0.0004420|0.0011438 / 0.0004420|
 |Fuel — mass ratio of components|—|—|
 |Fuel — resource, ㎏, ≥|11.3 / 4.3|11.3 / 4.3|
@@ -1940,7 +1703,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### MD5 (RU)
+### MD5 ·［RU, gas］
 **MD5** (ru. **МД5**) — gas [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (MD5)*|
@@ -1957,9 +1720,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[N](азот.md) / [Air](воздух.md) **⁽¹⁾**|
-|Fuel — combustion products|[N](азот.md) / [Air](воздух.md)|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[N](азот.md) / [Air](воздух.md) **⁽¹⁾** (N / Air)|
 |Fuel — consumption, ㎏/s, ≤|0.0071428|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -1990,7 +1752,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### Merlin (US)
+### Merlin ·［US, 2c］
 **Merlin** — a family of 2‑components [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Merlin 1A)*|*[Value](si.md)<br> (Merlin 1B)*|*[Value](si.md)<br> (Merlin 1C)*|*[Value](si.md)<br> (Merlin 1C Vac)*|
@@ -2007,9 +1769,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | | | |
 |[TRL](trl.md)| | |9|9|
 |[Voltage](sps.md), V| | | | |
-|**【Specific】**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|[O + Kerosene](o_plus.md)|[O + Kerosene](o_plus.md)|[O + Kerosene](o_plus.md)|
-|Fuel — combustion products| | | | |
+|**［Specific］**|• • •|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|
 |Fuel — consumption, ㎏/s, ≤| |141.318977|160.4251266|122.205663|
 |Fuel — mass ratio of components|2.17|2.17|2.17|2.17|
 |Fuel — resource, ㎏, ≥| | |260 000|40 500|
@@ -2049,9 +1810,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|9|7|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|[O + Kerosene](o_plus.md)|
-|Fuel — combustion products| | |
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|
 |Fuel — consumption, ㎏/s, ≤| | |
 |Fuel — mass ratio of components|2.34|2.36|
 |Fuel — resource, ㎏, ≥| | |
@@ -2078,8 +1838,8 @@ A list of [Engines](ps.md).
 
    1. <https://en.wikipedia.org/wiki/Merlin_(rocket_engine_family)>
    1. <https://ru.wikipedia.org/wiki/Мерлин_(ракетный_двигатель)>
-   1. 2014.10.05 [Хабр: Превосходство Маска. О магии «Мерлина» замолвим слово ⎆](https://habr.com/ru/post/236761/) — [archive ❐](f/archive/20141005_1.pdf) of 2014.10.05)
-   1. 2014.11.21 [Why is the Merlin 1D specific impulse so low?: ⎆](https://www.reddit.com/r/spacex/comments/2my35n/why_is_the_merlin_1d_specific_impulse_so_low/) — [archive ❐](f/archive/20141121_1.pdf) of 2014.11.21)
+   1. 2014.10.05 [Хабр: Превосходство Маска. О магии «Мерлина» замолвим слово ⎆](https://habr.com/ru/post/236761/) — [archived ❐](f/archive/20141005_1.pdf) 2014.10.05
+   1. 2014.11.21 [Why is the Merlin 1D specific impulse so low?: ⎆](https://www.reddit.com/r/spacex/comments/2my35n/why_is_the_merlin_1d_specific_impulse_so_low/) — [archived ❐](f/archive/20141121_1.pdf) 2014.11.21
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. There are 6 variations: **Merlin 1A** — 2 pieces were made. **Merlin 1B** — it was a successor of 1A, 1 piece was made, but it never flew. **Merlin 1C**. **Merlin 1C Vac**. **Merlin 1D**. **Merlin 1D Vac**.
    1. **[1]** — …
@@ -2097,10 +1857,209 @@ A list of [Engines](ps.md).
 
 
 
+<p style="page-break-after:always"> </p>
+
+### MT-2 ·［JP, 1c］
+**MT-2** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
+
+|*Characteristics*|*[Value](si.md)<br> (IHI MT-2)*|
+|:--|:--|
+|Composition| |
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)|9|
+|[Voltage](sps.md), V| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.0033493519 ‑ 0.00884053656|
+|Fuel — mass ratio of components|—|
+|Fuel — resource, ㎏, ≥|115|
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
+|Press. — engine entrance, ㎫ (kgf/㎝²)|0.48 ‑ 2.76 (4.7 ‑ 27.1)|
+|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (kgf)|6.9 ‑ 19.6 (0.7034 ‑ 1.998)|
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 060 ‑ 2 218 (210 ‑ 226)|
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switching frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total pulses, ≥|261 914|
+|Thrust — total thrust, N (kgf), ≥|237 000 ‑ 255 000|
+|Thrust — total thrust duration, s, ≥|34 400 ‑ 13 000|
+|[Turbopump](turbopump.md) speed, rpm|—|
+| |[![](f/ps/i/ihi_mt2_thumb.jpg)](f/ps/i/ihi_mt2.jpg)|
+
+**Notes:**
+
+   1. …
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. **Applicability:** …
+
+
 
 <p style="page-break-after:always"> </p>
 
-### Raptor (US)
+### MT-6 ·［JP, 1c］
+**MT-6** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
+
+|*Characteristics*|*[Value](si.md)<br> (IHI MT-6)*|
+|:--|:--|
+|Composition| (ITAR‑free)|
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)|9|
+|[Voltage](sps.md), V| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.01090486689 ‑ 0.02265262204|
+|Fuel — mass ratio of components|—|
+|Fuel — resource, ㎏, ≥|120|
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
+|Press. — engine entrance, ㎫ (kgf/㎝²)|0.9 ‑ 2.76 (8.82 ‑ 27.1)|
+|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (kgf)|23 ‑ 50 (2.3445 ‑ 5.0968)|
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 110 ‑ 2 208 (215 ‑ 225)|
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switching frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total pulses, ≥|14 800|
+|Thrust — total thrust, N (kgf), ≥|253 100 ‑ 265 000|
+|Thrust — total thrust duration, s, ≥|11 000 ‑ 5 300|
+|[Turbopump](turbopump.md) speed, rpm|—|
+| |[![](f/ps/i/ihi_mt6_thumb.jpg)](f/ps/i/ihi_mt6.jpg)|
+
+**Notes:**
+
+   1. …
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. **Applicability:** …
+
+
+
+<p style="page-break-after:always"> </p>
+
+### MT-8A ·［JP, 1c］
+**MT-8A** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
+
+|*Characteristics*|*[Value](si.md)<br> (IHI MT-8A)*|
+|:--|:--|
+|Composition| (ITAR‑free)|
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)|9|
+|[Voltage](sps.md), V| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.000727413 ‑ 0.002560005|
+|Fuel — mass ratio of components|—|
+|Fuel — resource, ㎏, ≥|180|
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
+|Press. — engine entrance, ㎫ (kgf/㎝²)|0.55 ‑ 2.76 (5.4 ‑ 27.1)|
+|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (kgf)|1.47 ‑ 5.5 (0.1498 ‑ 0.5607)|
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 020 ‑ 2 150 (206 ‑ 219)|
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switching frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total pulses, ≥|850 000|
+|Thrust — total thrust, N (kgf), ≥|364 000 ‑ 387 000|
+|Thrust — total thrust duration, s, ≥|247 500 ‑ 70 500|
+|[Turbopump](turbopump.md) speed, rpm|—|
+| |[![](f/ps/i/ihi_mt8a_thumb.jpg)](f/ps/i/ihi_mt8a.jpg)|
+
+**Notes:**
+
+   1. …
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. **Applicability:** …
+
+
+
+<p style="page-break-after:always"> </p>
+
+### MT-9 ·［JP, 1c］
+**MT-9** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
+
+|*Characteristics*|*[Value](si.md)<br> (IHI MT-9)*|
+|:--|:--|
+|Composition| (ITAR‑free)|
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)|9|
+|[Voltage](sps.md), V| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.0001421234 ‑ 0.0005357608|
+|Fuel — mass ratio of components|—|
+|Fuel — resource, ㎏, ≥|100|
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
+|Press. — engine entrance, ㎫ (kgf/㎝²)|0.55 ‑ 2.76 (5.4 ‑ 27.1)|
+|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (kgf)|0.29 ‑ 1.13 (0.0296 ‑ 0.1152)|
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 040 ‑ 2 110 (208 ‑ 215)|
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switching frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total pulses, ≥|850 000|
+|Thrust — total thrust, N (kgf), ≥|204 000 ‑ 211 000|
+|Thrust — total thrust duration, s, ≥|704 000 ‑ 187 000|
+|[Turbopump](turbopump.md) speed, rpm|—|
+| |[![](f/ps/i/ihi_mt9_thumb.jpg)](f/ps/i/ihi_mt9.jpg)|
+
+**Notes:**
+
+   1. …
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. **Applicability:** …
+
+
+
+<p style="page-break-after:always"> </p>
+
+### Raptor ·［US, 2c］
 **Raptor** — a family of 2-component [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (ER40)*|*[Value](si.md)<br> (ER200)*|*[Value](si.md)<br> (Raptor 2017‑SL)*|*[Value](si.md)<br> (Raptor 2017‑V)*|
@@ -2117,9 +2076,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | | | |
 |[TRL](trl.md)|3|3|6|6|
 |[Voltage](sps.md), V| | | | |
-|**【Specific】**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[O + Methane](o_plus.md)|[O + Methane](o_plus.md)|[O + Methane](o_plus.md)|[O + Methane](o_plus.md)|
-|Fuel — combustion products| | | | |
+|**［Specific］**|• • •|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O + Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|[O + Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|[O + Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|[O + Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤|922.5|934.08|486.82|516.58|
 |Fuel — mass ratio of components|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|
 |Fuel — resource, ㎏, ≥| | | | |
@@ -2146,8 +2104,8 @@ A list of [Engines](ps.md).
    1. <https://en.wikipedia.org/wiki/Raptor_(rocket_engine_family)>
    1. <https://en.wikipedia.org/wiki/SpaceX_rocket_engines>
    1. <https://ru.wikipedia.org/wiki/Raptor_(ракетный_двигатель)>
-   1. 2017.06.28 [Хабр: Подробный разбор ЖРД «Raptor» ⎆](https://geektimes.ru/post/290549/) — [archive ❐](f/archive/20170628_1.pdf) of 2019.02.13)
-   1. 2017.10.18 [Всё, что известно о двигателях Раптор и даже больше ⎆](https://elonmusk.su/vse-chto-izvestno-o-dvigatelyakh-raptor-i-dazhe-bolshe/) — [archive ❐](f/archive/20171018_1.pdf) of 2019.02.13)
+   1. 2017.06.28 [Хабр: Подробный разбор ЖРД «Raptor» ⎆](https://geektimes.ru/post/290549/) — [archived ❐](f/archive/20170628_1.pdf) 2019.02.13
+   1. 2017.10.18 [Всё, что известно о двигателях Раптор и даже больше ⎆](https://elonmusk.su/vse-chto-izvestno-o-dvigatelyakh-raptor-i-dazhe-bolshe/) — [archived ❐](f/archive/20171018_1.pdf) 2019.02.13
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. It’s the successor to [Merlin](engine_lst.md). In contrast, it runs on the fuel [O + Methane](o_plus.md) & has a full‑flow closed cycle. For 2017 — the only full‑flow closed cycle engine in the world.
    1. There are 4 variations: **ER40** — basic version, works in both atmosphere and vacuum. **ER200** — ER40 version for vacuum operation. **Raptor2017‑SL** — development of 2017, works in both atmosphere & vacuum. **Raptor2017-V** — 2017 version for vacuum operation.
@@ -2162,7 +2120,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RIT 2X (EU)
+### RIT 2X ·［EU, el.］
 **RIT 2X** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT 2X)*|*[Value](si.md)<br> (RIT 2X)*|*[Value](si.md)<br> (RIT 2X)*|
@@ -2179,9 +2137,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | | |
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
-|**【Specific】**|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|[Xenon](ксенон.md) **⁽¹⁾**|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| | | |
+|**［Specific］**|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|[Xenon](ксенон.md) **⁽¹⁾**|[Xenon](ксенон.md) **⁽¹⁾**|
 |Fuel — consumption, ㎏/s, ≤|0.0000023|0.0000048|0.0000081|
 |Fuel — mass ratio of components| | | |
 |Fuel — resource, ㎏, ≥|291|298|392|
@@ -2213,7 +2170,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RIT‑10 (EU)
+### RIT‑10 ·［EU, el.］
 **RIT 10 EVO** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT‑10)*|*[Value](si.md)<br> (RIT‑10)*|*[Value](si.md)<br> (RIT‑10)*|
@@ -2230,9 +2187,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | | |
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
-|**【Specific】**|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|[Xenon](ксенон.md) **⁽¹⁾**|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| | | |
+|**［Specific］**|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|[Xenon](ксенон.md) **⁽¹⁾**|[Xenon](ксенон.md) **⁽¹⁾**|
 |Fuel — consumption, ㎏/s, ≤|0.00000026825|0.000000509684|0.000000796381|
 |Fuel — mass ratio of components| | | |
 |Fuel — resource, ㎏, ≥|59|37|35|
@@ -2264,7 +2220,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RIT µX (EU)
+### RIT µX ·［EU, el.］
 **RIT µX** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT µX)*|
@@ -2281,9 +2237,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|
 |Fuel — consumption, ㎏/s, ≤|0.000000016989|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|3.5 ‑ 7|
@@ -2315,8 +2270,8 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S10 (EU)
-**S10** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Разработан в 1975 г.
+### S10 ·［EU, 2c］
+**S10** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1975.
 
 |*Characteristics*|*[Value](si.md)<br> (S10‑13, S10‑18, S10‑26)*|
 |:--|:--|
@@ -2332,9 +2287,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[АТ (MON‑1, MON‑3) + MMH](at_plus.md)|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[АТ (MON‑1, MON‑3) + MMH](at_plus.md)|
 |Fuel — consumption, ㎏/s, ≤|0.0035 (0.0023 ‑ 0.0042)|
 |Fuel — mass ratio of components|1.65 (1.2 ‑ 2.1)|
 |Fuel — resource, ㎏, ≥|870|
@@ -2360,7 +2314,7 @@ A list of [Engines](ps.md).
 **Notes:**
 
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/bipropellant-thrusters/10-bipropellant-thrusters.html> — [archive ❐](f/ps/s/s10_site.pdf) of 2019.02.21)
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/bipropellant-thrusters/10-bipropellant-thrusters.html> — [archived ❐](f/ps/s/s10_site.pdf) 2019.02.21
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. Modifications:
       - **S10-13** with single seat, monostable, torque motor valve from a US supplier.
@@ -2373,7 +2327,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S200 (EU)
+### S200 ·［EU, 2c］
 **S200** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S200)*|
@@ -2390,9 +2344,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|MON-3 + [ММГ](mmh.md) или [АТ+НДМГ](at_plus.md)|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|MON-3 + [MMH](mmh.md) или [NTO + UDMH](at_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.078 (0.06 ‑ 0.1)|
 |Fuel — mass ratio of components|1.65 (1.2 ‑ 1.9)|
 |Fuel — resource, ㎏, ≥|3 600|
@@ -2418,7 +2371,7 @@ A list of [Engines](ps.md).
 **Notes:**
 
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/bipropellant-thrusters/200n-bipropellant-thrusters.html> — [archive ❐](f/ps/s/s200_site.pdf) of 2019.02.21)
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/bipropellant-thrusters/200n-bipropellant-thrusters.html> — [archived ❐](f/ps/s/s200_site.pdf) 2019.02.21
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **Applicability:** …
 
@@ -2426,7 +2379,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S400 (EU)
+### S400 ·［EU, 2c］
 **S400** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S400‑12)*|*[Value](si.md)<br> (S400‑15)*|
@@ -2443,9 +2396,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|9|9|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[АТ (MON‑1, MON‑3) + MMH](at_plus.md)|[АТ (MON‑1, MON‑3) + MMH](at_plus.md)|
-|Fuel — combustion products| | |
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[АТ (MON‑1, MON‑3) + MMH](at_plus.md)|[АТ (MON‑1, MON‑3) + MMH](at_plus.md)|
 |Fuel — consumption, ㎏/s, ≤|0.135 (0.11 ‑ 0.142)|0.135 (0.11 ‑ 0.142)|
 |Fuel — mass ratio of components|1.65 (1.5 ‑ 1.8)|1.65 (1.5 ‑ 1.8)|
 |Fuel — resource, ㎏, ≥|4 000|4 100|
@@ -2481,7 +2433,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.86 (RU)
+### S5.86 ·［RU, 2c］
 **S5.86** (ru. **С5.86**, also **КМД** (кислородно‑метановый двигатель) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.86)*|
@@ -2498,9 +2450,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|5 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[O + Methane](o_plus.md) **⁽¹⁾**|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O + Methane](o_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤|20.26859504|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -2531,7 +2482,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.92 (RU)
+### S5.92 ·［RU, 2c］
 **S5.92** (ru. **С5.92**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md),<br> (S5.92, high thrust)*|*[Value](si.md),<br> (S5.92, low thrust)*|
@@ -2548,9 +2499,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|6.1159601|4.4303225|
 |Fuel — mass ratio of components|1.95 ‑ 2.05|2 ‑ 2.1|
 |Fuel — resource, ㎏, ≥|12 230|8 860|
@@ -2582,7 +2532,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.120 (RU)
+### S5.120 ·［RU, 2c］
 **S5.120** (ru. **С5.120**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.120)*|
@@ -2599,9 +2549,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|1.9672131|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -2633,7 +2582,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.140 (RU)
+### S5.140 ·［RU, 2c］
 **S5.140** (ru. **С5.140**, also **ДМТ-6**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.140)*|*[Value](si.md)<br> (DMT-6)*|
@@ -2650,9 +2599,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|6 **⁽¹⁾**|3 **⁽²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0023509|0.0024469|
 |Fuel — mass ratio of components|1.838 ± 0.097 **⁽¹⁾**|1.85 **⁽²⁾**|
 |Fuel — resource, ㎏, ≥|11|48|
@@ -2685,7 +2633,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.142 (RU)
+### S5.142 ·［RU, 2c］
 **S5.142** (ru. **С5.142**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.142)*|*[Value](si.md)<br> (DST-25)*|
@@ -2702,9 +2650,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0087406; 0.0083248|0.0089605|
 |Fuel — mass ratio of components| |1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|208|220|
@@ -2737,7 +2684,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.144 (RU)
+### S5.144 ·［RU, 2c］
 **S5.144** (ru. **С5.144**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.144)*|*[Value](si.md)<br> (DST-100)*|*[Value](si.md)<br> (DST-100A)*|
@@ -2754,9 +2701,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | | |
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
-|**【Specific】**|• • •|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0331418; 0.0322591|0.0369685|0.0335570|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 610|371|1 680|
@@ -2789,7 +2735,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.145 (RU)
+### S5.145 ·［RU, 2c］
 **S5.145** (ru. **С5.145**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.145)*|*[Value](si.md)<br> (DST-50)*|
@@ -2806,11 +2752,10 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|6 **⁽¹⁾**|3 **⁽²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.01768639251|0.01757469244|
-|Fuel — mass ratio of components|1.85 ± 0.05 **⁽¹⁾ ⁽²⁾**|1.85 ± 0.05 **⁽¹⁾ ⁽²⁾**|
+|Fuel — mass ratio of components|1.85 ± 0.05 **⁽¹ ²⁾**|1.85 ± 0.05 **⁽¹ ²⁾**|
 |Fuel — resource, ㎏, ≥|177|439|
 |Mach number / [Adiabatic exponent](heat_cr.md)|5.7168 / 1.2196 **⁽¹⁾**| |(290) **⁽²⁾**|
 |Press. — comb. chamber, ㎫ (kgf/㎝²)|0.775 (7.6) **⁽¹⁾**|0.75 (7.5) **⁽²⁾**|
@@ -2841,7 +2786,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.146 (RU)
+### S5.146 ·［RU, 2c］
 **S5.146** (ru. **С5.146**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S5.146)*|*[Value](si.md)<br> (DST-200)*|*[Value](si.md)<br> (DST-200A)*|
@@ -2858,9 +2803,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| | | |
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾**|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0651394; 0.0634951|0.0727272|0.0680272|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 270|364|682|
@@ -2893,8 +2837,8 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.154 (RU)
-**S5.154** (ru. **С5.154, КТД** (корректирующе‑тормозной двигатель))) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
+### S5.154 ·［RU, 2c］
+**S5.154** (ru. **С5.154, КТД** (корректирующе‑тормозной двигатель)) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.154)*|
 |:--|:--|
@@ -2910,9 +2854,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|1.2546385 - 1.5054382|
 |Fuel — mass ratio of components|1.886 ± 0.1 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 580|
@@ -2928,7 +2871,7 @@ A list of [Engines](ps.md).
 |Thrust — max switching frequency, ㎐|1 thrust/15 s for landing **⁽¹⁾**; 1 thrust/9 000 s for flight **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤|1 961±392 (200±40) **⁽¹⁾**|
 |Thrust — torch angle, °| |
-|Thrust — total pulses, ≥|10 **⁽¹⁾ ⁽³⁾**|
+|Thrust — total pulses, ≥|10 **⁽¹ ³⁾**|
 |Thrust — total thrust, N (kgf), ≥|4 510 300 - 5 411 900 (459 765 - 551 671)|
 |Thrust — total thrust duration, s, ≥|1 150 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm| |
@@ -2946,7 +2889,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.175 (RU)
+### S5.175 ·［RU, 2c］
 **S5.175** (**С5.175, КТД** (корректирующе‑тормозной двигатель)) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.175)*|
@@ -2963,9 +2906,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂ **⁽¹⁾**|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|1.254638516 - 1.726167626|
 |Fuel — mass ratio of components|1.886 ± 0.1 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 580|
@@ -2999,7 +2941,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### SPD-25 (RU)
+### SPD-25 ·［RU, el.］
 **SPD-25** (ru. **СПД-25**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-25)*|
@@ -3016,9 +2958,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|4 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|
 |Fuel — consumption, ㎏/s, ≤|0.00000089171|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|4.725|
@@ -3049,7 +2990,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### SPD-50 (RU)
+### SPD-50 ·［RU, el.］
 **SPD-50** (ru. **СПД-50**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-50)*|
@@ -3066,9 +3007,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|
 |Fuel — consumption, ㎏/s, ≤|0.00000166073|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|14.650|
@@ -3099,7 +3039,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### SPD-70 (RU)
+### SPD-70 ·［RU, el.］
 **SPD-70** (ru. **СПД-70**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-70)*|
@@ -3116,9 +3056,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|
 |Fuel — consumption, ㎏/s, ≤|0.00000277392|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|31.126|
@@ -3149,7 +3088,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### SPD-100 (RU)
+### SPD-100 ·［RU, el.］
 **SPD-100** (ru. **СПД-100**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-100)*|
@@ -3166,9 +3105,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|
 |Fuel — consumption, ㎏/s, ≤|0.00000564625|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|201.6|
@@ -3200,7 +3138,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### SPD-140 (RU)
+### SPD-140 ·［RU, el.］
 **SPD-140** (ru. **СПД-140**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-140)*|*[Value](si.md)<br> (SPD-140D)*|
@@ -3215,11 +3153,10 @@ A list of [Engines](ps.md).
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | |
 |[Thermal range](tcs.md), ℃| | |
-|[TRL](trl.md)|9 **⁽¹⁾ ⁽²⁾**|9 **⁽¹⁾ ⁽²⁾**|
+|[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
-|**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾ ⁽²⁾**|[Xenon](ксенон.md) **⁽¹⁾ ⁽²⁾**|
-|Fuel — combustion products| | |
+|**［Specific］**|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹ ²⁾**|[Xenon](ксенон.md) **⁽¹ ²⁾**|
 |Fuel — consumption, ㎏/s, ≤|0.000011710597|0.00001770235|
 |Fuel — mass ratio of components|—|—|
 |Fuel — resource, ㎏, ≥|330.95|494.610|
@@ -3250,7 +3187,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### SPD-230 (RU)
+### SPD-230 ·［RU, el.］
 **SPD-230** (ru. **СПД-230**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-230)*|
@@ -3267,9 +3204,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|3 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Xenon](ксенон.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂O, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Xenon](ксенон.md) **⁽¹⁾** (Xenon)|
 |Fuel — consumption, ㎏/s, ≤|0.00002964501|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥| |
@@ -3300,7 +3236,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### TK500M (RU)
+### TK500M ·［RU, 1c］
 **TK500M** (ru. **ТК500М**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (TK500M)*|
@@ -3317,9 +3253,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[Hydrazine](гидразин.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](гидразин.md) **⁽¹⁾** (H₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0004633 - 0.0025949|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|200 **⁽¹⁾**|
@@ -3356,7 +3291,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BE-1 (US)
+### BE-1 ·［US, 1c］
 **BE-1** — 1‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-1)*|
@@ -3373,9 +3308,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[H peroxide](h_peroxide.md)|
-|Fuel — combustion products|H₂, H₂O, O|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[H peroxide](h_peroxide.md) (H₂, H₂O, O)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥| |
@@ -3406,7 +3340,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BE-2 (US)
+### BE-2 ·［US, 2c］
 **BE-7** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-2)*|
@@ -3423,9 +3357,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[H peroxide](h_peroxide.md) + Kerosene|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[H peroxide](h_peroxide.md) + Kerosene|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -3456,7 +3389,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### Kestrel (US)
+### Kestrel ·［US, 2c］
 **Kestrel** — 2‑component [engine](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Kestrel)*|
@@ -3473,9 +3406,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
-|Fuel — combustion products| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md)|
 |Fuel — consumption, ㎏/s, ≤|9.871382637|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|987|
@@ -3509,8 +3441,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RDMT3 (RU)
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [PS](ps.md)
+### RDMT3 ·［RU, 2c］
 **RDMT3** (ru. **РДМТ3**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT3)*|
@@ -3527,9 +3458,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0010806|
 |Fuel — mass ratio of components|1.85±0.2|
 |Fuel — resource, ㎏, ≥|0.63|
@@ -3559,7 +3489,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RDMT10 (RU)
+### RDMT10 ·［RU, 2c］
 **RDMT10** (ru. **РДМТ10**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT10)*|
@@ -3576,9 +3506,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.00414651|
 |Fuel — mass ratio of components|1.85±0.2|
 |Fuel — resource, ㎏, ≥|41.3|
@@ -3608,7 +3537,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RDMT50 (RU)
+### RDMT50 ·［RU, 2c］
 **RDMT50** (ru. **РДМТ50**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT50M)*|
@@ -3625,9 +3554,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[NTO+UDMH](at_plus.md)|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](at_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0189806|
 |Fuel — mass ratio of components|1.85±0.2|
 |Fuel — resource, ㎏, ≥| |
@@ -3657,7 +3585,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RDMT100 (RU)
+### RDMT100 ·［RU, 2c］
 **RDMT100 (ru. **РДМТ100**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT100-OH)*|
@@ -3674,9 +3602,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[O + H](o_plus.md)|
-|Fuel — combustion products|H₂, H₂O|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
 |Fuel — consumption, ㎏/s, ≤|0.0269687|
 |Fuel — mass ratio of components|1.6 ‑ 1.7|
 |Fuel — resource, ㎏, ≥| |
@@ -3706,7 +3633,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### RDMT2600 (RU)
+### RDMT2600 ·［RU, 2c］
 **RDMT2600** (ru. **РДМТ2600**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT2600)*|
@@ -3723,9 +3650,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|O₂ (gas) + ethyl alcohol|
-|Fuel — combustion products|H₂, H₂O, CO, CO₂, N₂|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|O₂ (gas) + ethyl alcohol (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|1|
 |Fuel — mass ratio of components|1.2|
 |Fuel — resource, ㎏, ≥| |
@@ -3755,7 +3681,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### S5.78 (RU)
+### S5.78 ·［RU, 2c］
 **S5.78** (ru. **С5.78**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (S5.78)*|
@@ -3772,9 +3698,8 @@ A list of [Engines](ps.md).
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
-|**【Specific】**|• • •|
-|[Fuel](fuel.md)|[AT+Hydrazine](at_plus.md) **⁽¹⁾**|
-|Fuel — combustion products|H₂, H₂O, NH₃, N₂ **⁽¹⁾**|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](at_plus.md) **⁽¹⁾** (H₂, H₂O, NH₃, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.00151260504|
 |Fuel — mass ratio of components|1 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|5 630|
@@ -3810,7 +3735,7 @@ A list of [Engines](ps.md).
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**［**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА］**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](engine_type.md)・ [Газовый двигатель](engine_type.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](engine_type.md)・ [ЖРД](engine_type.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](engine_type.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](engine_type.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](engine_type.md)|
 

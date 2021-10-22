@@ -1,7 +1,7 @@
 # UCL
 > 2019.08.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/u/ucl_logo1_thumb.jpg)](../f/con/u/ucl_logo1.png)|<mark>noemail</mark>, +44(0)20-7679-2000 , Fax: …;<br> *University College London, Gower Street, London, WC1E 6BT, UK*<br> 【<http://www.ucl.ac.uk/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_College_London)】|
+|[![](../f/con/u/ucl_logo1_thumb.jpg)](../f/con/u/ucl_logo1.png)|<mark>noemail</mark>, +44(0)20-7679-2000 , Fax: …;<br> *University College London, Gower Street, London, WC1E 6BT, UK*<br> 【<http://www.ucl.ac.uk/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_College_London)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

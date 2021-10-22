@@ -53,7 +53,7 @@
 |**EU**|…|
 |**IL**|…|
 |**IN**|…|
-|**JP**|・[Meisei](contact/meisei.md) — transmitters<br> ・[Mitsubishi](contact/mitsubishi.md) — telemetry & beacon transmitters, power & low noise amplifiers, receiver & ↑↓ converters<br> ・[NEC](contact/nec.md) — low noise & solid state power amplifiers (LNA, SSPA), converters (CONV), receivers (RCVR), & modulators (MOD), command receivers (CMDRX), telemetry & beacon transmitters (TLMTX, BCNTX), GPS receivers (GPSR), & multiuse interface modules (MIM), antennas/spaceborne radars, transponders|
+|**JP**|・[Meisei](contact/meisei.md) — transmitters<br> ・[Mitsubishi](contact/mitsubishi.md) — telemetry & beacon transmitters, power & low noise amplifiers, receiver & ♁↗ 🚀↘ converters<br> ・[NEC](contact/nec.md) — low noise & solid state power amplifiers (LNA, SSPA), converters (CONV), receivers (RCVR), & modulators (MOD), command receivers (CMDRX), telemetry & beacon transmitters (TLMTX, BCNTX), GPS receivers (GPSR), & multiuse interface modules (MIM), antennas/spaceborne radars, transponders|
 |**KR**|・[Satrec Initiative](contact/satreci.md)|
 |**RU**|・[AvantSpace](contact/avantspace.md)<br> ・[IRZ](contact/irz.md), [NII Guskova](нии_гуськова.md) — LNA, PE<br> ・[RADIS](contact/radis.md)|
 |**SA**|…|

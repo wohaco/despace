@@ -1,7 +1,7 @@
 # LASP
 > 2019.08.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/l/lasp_logo1_thumb.png)](../f/con/l/lasp_logo1.png)|<mark>noemail</mark>, +1(303)492-64-12, Fax: …;<br> *1234 Innovation Drive, Boulder, CO  80303-7814, 303-492-6412, USA*<br> 【<http://lasp.colorado.edu/home/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Laboratory_for_Atmospheric_and_Space_Physics)・ [Facebook ⎆](https://www.facebook.com/pages/Boulder-CO/Laboratory-for-Atmospheric-and-Space-Physics/21163648557?:ref=ts)・ [Twitter ⎆](https://twitter.com/LASPatCU)】|
+|[![](../f/con/l/lasp_logo1_thumb.png)](../f/con/l/lasp_logo1.png)|<mark>noemail</mark>, +1(303)492-64-12, Fax: …;<br> *1234 Innovation Drive, Boulder, CO  80303-7814, 303-492-6412, USA*<br> 【<http://lasp.colorado.edu/home/>・ [Facebook ⎆](https://www.facebook.com/pages/Boulder-CO/Laboratory-for-Atmospheric-and-Space-Physics/21163648557)・ [Twitter ⎆](https://twitter.com/LASPatCU)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Laboratory_for_Atmospheric_and_Space_Physics)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -11,9 +11,6 @@
 
 The **Laboratory for Atmospheric & Space Physics (LASP)** is a research organization at the University of Colorado Boulder. LASP is a research institute with over one hundred research scientists ranging in fields from solar influences, to Earth’s & other planetary atmospherics processes, space weather, space plasma & dusty plasma physics. LASP has advanced technical capabilities specializing in designing, building, & operating spacecraft & spacecraft  instruments.  
 Founded after World War II in 1948, a decade before NASA, the first scientific instruments built at LASP were launched into space using captured German V-2 rockets. To this day LASP continues a suborbital rocket program through periodic calibration instrument flights from White Sands Missile Range. It was originally called the Upper Air Laboratory, but changed to its current name in 1965. LASP has historical ties to Ball Aerospace Corporation & the Center for Astrophysics & Space Astronomy (CASA).
-
-
-<p style="page-break-after:always"> </p>
 
 LASP has two facilities: offices on the main CU-Boulder campus, & the “Space Technology Building” in the University’s research park.
 
@@ -46,3 +43,7 @@ LASP supports the following spacecraft & instruments:
    - TIMED (Thermosphere Ionosphere Mesosphere Energetics & Dynamics) Solar EUV Experiment (SEE)
    - Total Solar Irradiance Calibration Transfer Experiment (TCTE)
    - Upper Atmosphere Research Satellite (UARS) Solar/Stellar Irradiance Comparison Experiment (SOLSTICE)
+
+<p style="page-break-after:always"> </p>
+
+…

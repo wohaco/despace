@@ -14,6 +14,6 @@ For over fifty years, the **Aerospace Industries Association of Canada (AIAC)** 
 AIAC represents a broad, diverse membership from all aerospace sectors & fields. As the voice of Canada’s aerospace industry, we make sure that our members have the tools, resources & representation that you need to grow your business in Canada & around the world.  
 From hosting events that fuel business development & networking opportunities, to leading international trade shows & missions, to working with government to foster a strong policy & program environment that supports aerospace growth, AIAC is here to work for you.
 
-
 <p style="page-break-after:always"> </p>
 
+…

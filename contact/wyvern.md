@@ -1,7 +1,7 @@
 # Wyvern Space
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/w/wyvern_logo1_thumb.jpg)](../f/con/w/wyvern_logo1.png)|<info@wyvern.space>, <mark>noworkphone</mark>, Fax: …;<br> *Edmonton, Alberta, Canada*<br> 【<https://www.wyvern.space/> ・ [Twitter ⎆](https://twitter.com/wyvernspace)・ [LinkedIn ⎆](https://www.linkedin.com/company/wyvern-space)】|
+|[![](../f/con/w/wyvern_logo1_thumb.jpg)](../f/con/w/wyvern_logo1.png)|<info@wyvern.space>, <mark>noworkphone</mark>, Fax: …;<br> *Edmonton, Alberta, Canada*<br> 【<https://www.wyvern.space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/wyvern-space)・ [Twitter ⎆](https://twitter.com/wyvernspace)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|Provide actionable intelligence from space anywhere in the solar system to enable a sustainable future for humanity|

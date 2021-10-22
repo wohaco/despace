@@ -30,6 +30,6 @@
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Код_Рида_—_Соломона>
    1. <https://en.wikipedia.org/wiki/Reed–Solomon_error_correction>
-   1. 2003.11.01 [Могущество кодов Рида‑Соломона, или Информация, воскресшая из пепла ⎆](http://samag.ru/archive/article/173) — [archive ❐](f/archive/20031101_1.pdf) of 2019.02.08)
-   1. 2013.08.26 [Хабр: Коды Рида‑Соломона. Простой пример. ⎆](https://habr.com/ru/post/191418/) — [archive ❐](f/archive/20130826_1.pdf) of 2019.02.08)
-   1. 2017.08.24 [Хабр: Коды Рида‑Соломона. Часть 1 — теория простым языком. ⎆](https://habr.com/ru/company/yadro/blog/336286/) — [archive ❐](f/archive/20170824_1.pdf) of 2019.02.08)
+   1. 2003.11.01 [Могущество кодов Рида‑Соломона, или Информация, воскресшая из пепла ⎆](http://samag.ru/archive/article/173) — [archived ❐](f/archive/20031101_1.pdf) 2019.02.08
+   1. 2013.08.26 [Хабр: Коды Рида‑Соломона. Простой пример. ⎆](https://habr.com/ru/post/191418/) — [archived ❐](f/archive/20130826_1.pdf) 2019.02.08
+   1. 2017.08.24 [Хабр: Коды Рида‑Соломона. Часть 1 — теория простым языком. ⎆](https://habr.com/ru/company/yadro/blog/336286/) — [archived ❐](f/archive/20170824_1.pdf) 2019.02.08

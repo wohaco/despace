@@ -1,7 +1,7 @@
 # UPES
 > 2019.08.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/u/upes_logo1_thumb.png)](../f/con/u/upes_logo1.png)|<mark>noemail</mark>, +91(1800)102-87-37, Fax: …;<br> *Bidholi, Via Prem Nagar, Dehradun, Uttarakhand, India*<br> 【<https://www.upes.ac.in/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies)】|
+|[![](../f/con/u/upes_logo1_thumb.png)](../f/con/u/upes_logo1.png)|<mark>noemail</mark>, +91(1800)102-87-37, Fax: …;<br> *Bidholi, Via Prem Nagar, Dehradun, Uttarakhand, India*<br> 【<https://www.upes.ac.in/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -10,9 +10,6 @@
 |**[MGMT](../mgmt.md)**|…|
 
 The **University of Petroleum & Energy Studies (UPES)** is an Indian university located in Dehradun, Uttarakhand specialising in fields of petroleum, energy & power. Established in 2003, it has been expanding its business & legal studies.
-
-
-<p style="page-break-after:always"> </p>
 
 UPES has five schools & centres for continuing education.
 
@@ -39,3 +36,7 @@ SoL offers basic & specialised law courses in Corporate Law, Energy Specializati
 The School of Design offers visual design courses covering aspects of transportation, industrial & product development.
 
 **School of Computer Science (SoCS)**
+
+<p style="page-break-after:always"> </p>
+
+…

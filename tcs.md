@@ -98,4 +98,4 @@ Usually includes:
    1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Система_терморегуляции_космического_аппарата>
    1. <https://en.wikipedia.org/wiki/Spacecraft_thermal_control>
-   1. 2014.08.21 [Хабр: О космическом тепле и холоде ⎆](https://habr.com/ru/company/dauria/blog/234121/) — [archive ❐](f/archive/20140821_1.pdf) of 2019.02.08)
+   1. 2014.08.21 [Хабр: О космическом тепле и холоде ⎆](https://habr.com/ru/company/dauria/blog/234121/) — [archived ❐](f/archive/20140821_1.pdf) 2019.02.08

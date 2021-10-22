@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Consulting, Training, [Thermal](tcs.md) R&D & [testing](../test.md)|
+|**Business**|Consulting, Training, [Thermal](../tcs.md) R&D & [testing](../test.md)|
 |**[MGMT](../mgmt.md)**|…|
 
 **Telecan Space** is an independent consulting firm founded in 2011, which offers a wide range of Consulting, Engineering, & Training services to the space industry.

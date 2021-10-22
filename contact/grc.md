@@ -1,7 +1,7 @@
 # GRC
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/g/grc_logo1_thumb.jpg)](../f/con/g/grc_logo1.png)|<mark>noemail</mark>, +1(216)433-40-00, Fax: …;<br> *21000 Brookpark Rd, Cleveland, OH 44135, США*<br> 【<http://www.nasa.gov/glenn> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Glenn_Research_Center)】|
+|[![](../f/con/g/grc_logo1_thumb.jpg)](../f/con/g/grc_logo1.png)|<mark>noemail</mark>, +1(216)433-40-00, Fax: …;<br> *21000 Brookpark Rd, Cleveland, OH 44135, США*<br> 【<http://www.nasa.gov/glenn>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Glenn_Research_Center)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -25,7 +25,7 @@ The Glenn Research Center, along with its partners in industry, are credited wit
    1. Communications technology & development
    1. Space propulsion & cryogenic fluids management
    1. Power, energy storage & conversion
-   1. Materials & structures for extreme environments ([GEER](geer.md))
+   1. Materials & structures for extreme environments ([GEER](../geer.md))
 
 
 <p style="page-break-after:always"> </p>

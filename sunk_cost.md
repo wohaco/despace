@@ -31,4 +31,4 @@
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Sunk_cost>
    1. <https://ru.wikipedia.org/wiki/Невозвратные_затраты>
-   1. 2017.12.23 [Как ошибка невозвратных затрат может разорить разработчика игр](https://habr.com/post/345242/) — [archive ❐](f/archive/20171223_1.pdf) of 2019.01.28)
+   1. 2017.12.23 [Как ошибка невозвратных затрат может разорить разработчика игр](https://habr.com/post/345242/) — [archived ❐](f/archive/20171223_1.pdf) 2019.01.28

@@ -1,7 +1,7 @@
 # NEC Space
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/n/nec_logo1_thumb.png)](../f/con/n/nec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://www.necspace.co.jp/>・ <https://www.nec.com/en/global/solutions/space/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/nec/)】|
+|[![](../f/con/n/nec_logo1_thumb.png)](../f/con/n/nec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://www.necspace.co.jp/>・ <https://www.nec.com/en/global/solutions/space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/nec/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -22,8 +22,8 @@
 
    1. **[Satellites](../sc.md).**
       - Ohsumi (1970)
-      - [Akatsuki](akatsuki.md) (2010)
-   1. **Ground Systems.** GROUND NEXTAR, Satellite Control subsystem, [Mission Data Reception subsystem](scs), NEC [Satellite Operation Center](../scs.md).
+      - [Akatsuki](../akatsuki.md) (2010)
+   1. **Ground Systems.** GROUND NEXTAR, Satellite Control subsystem, [Mission Data Reception subsystem](../scs.md), NEC [Satellite Operation Center](../scs.md).
 
 <p style="page-break-after:always"> </p>
 

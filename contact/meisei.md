@@ -1,7 +1,7 @@
 # Meisei
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/meisei_logo1_thumb.jpg)](../f/con/m/meisei_logo1.png)|<aerospace@meisei.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2223 Naganumamachi, Isesaki-shi, Gunma 372-8585, Japan*<br> 【<http://www.meisei.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/meisei/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/meisei-electric/about/)】|
+|[![](../f/con/m/meisei_logo1_thumb.jpg)](../f/con/m/meisei_logo1.png)|<aerospace@meisei.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2223 Naganumamachi, Isesaki-shi, Gunma 372-8585, Japan*<br> 【<http://www.meisei.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/meisei/>・ [LinkedIn ⎆](https://www.linkedin.com/company/meisei-electric/about/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -25,9 +25,9 @@ Products / Space‑related
    - **Space Particle Monitor (SPM) for Spacecraft.** A space particle monitor observes radiation environment of spacecrafts by a Silicon semiconductor sensor. The instrument is mainly used for measurements of the proton, & it can also measure the electron & other particles.
    - **Quartz Crystal Microbalance (QCM)** is a unit for monitoring contamination status around satellites by utilizing the characteristics of oscillating frequencies variation depending on the amount of substances attached over the crystal surface.
    - **Particle Detector for Spacecraft.** A particle detector instrument observes electron, proton & He. The instrument contributes to investigations into the cause of troubles such as malfunctions of semiconductor devices & electrostatic charge. It also observes the worst environment of trapped particles in the radiation belt, solar flare particles, & auroral particles.
-   - **High Voltage Power Supply for Spacecraft.** This is a HVPS (high voltage [power supply](sps.md)) to be installed on scientific satellite for supplying voltage to detectors in the space environment.
+   - **High Voltage Power Supply for Spacecraft.** This is a HVPS (high voltage [power supply](../sps.md)) to be installed on scientific satellite for supplying voltage to detectors in the space environment.
    - **Magnetic Torque Actuator for Spacecraft.** The magnetic torque actuator is an equipment to control spacecraft attitude due to the effects of the geomagnetic field.
-   - **3‑Axis [Magnetometer](sensor.ru) for Small Satellite.** This sensor measures the magnetic field strength in the space environment, which is necessary for the attitude control of satellite.
+   - **3‑Axis [Magnetometer](../sensor.md) for Small Satellite.** This sensor measures the magnetic field strength in the space environment, which is necessary for the attitude control of satellite.
    - **1Mbps S‑band Transceiver for Satellite.** It will be installed on the small satellite & perform the command reception from the ground, & the telemetry transmission to the ground using 2 ㎓ wave band.
 
 <p style="page-break-after:always"> </p>

@@ -13,7 +13,6 @@
 SpaceQuest Canada Inc., a wholly-owned subsidiary of SpaceQuest, Ltd, was established as a Canadian Corporation in 2001 to better serve government & private organizations throughout Canada.  
 Through innovative designs & the latest electronic technology, SpaceQuest is building microsatellites & satellite components faster & more cost effectively than ever before.
 
-
 <p style="page-break-after:always"> </p>
 
 …

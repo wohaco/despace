@@ -186,7 +186,7 @@
 
 <p style="page-break-after:always"> </p>
 
-### Чертёж габаритный
+### Чертёж габаритный (ГЧ)
 > <small>**Габаритный чертёж (ГЧ)** — русскоязычный термин. **Mechanical interface control drawing (MICD), Dimensional drawing (DIDR)** — англоязычный эквивалент.</small>
 
 **Габаритный чертёж (ГЧ)** ─ по [ГОСТ 2.102](гост_2_102.md) ─ [КД](doc.md), содержащий контурное (упрощённое) изображение изделия с габаритными, установочными и присоединительными размерами. По [ГОСТ 2.109](гост_2_109.md):
@@ -198,7 +198,7 @@
    1. Допустимо изображать сплошными тонкими линиями детали и сбор. единицы, не входящие в состав изделия.
    1. Наносят габаритные, установочные и присоединительные размеры изделия и, при необх., размеры, определяющие положение выступающих частей. Установочные и присоединительные размеры, необходимые для увязки с другими изделиями, должны быть указаны с предельными отклонениями. Допускается указывать координаты центра масс. Не указывают, что все размеры справочные.
    1. Допустимо указывать условия применения, хранения, транспортирования и эксплуатации при отсутствии этих данных в техническом описании, технических условиях или другом КД на изделие.
-   1. **Зачастую для получения информации об изделии при отсутствии Чертежа общего вида дополнительно требуют указывать на ГЧ (требования пишутся в Исходных данных и  ТЗ, ниже приведена выдержка):**
+   1. **Для получения информации об изделии при отсутствии ЧОВ дополнительно требуют указывать на ГЧ (требования пишутся в Исходных данных, ТЗ, либо задаются по месту; ниже приведена выдержка):**
       1. движущиеся части
       1. допустимое направление действия перегрузок
       1. зоны, типы расположения ЭВТИ, покрытий, и способы их крепления
@@ -233,7 +233,7 @@ For each OE, a general drawing shall be provided containing a contour (simplifie
    1. The image of the OE is performed with solid main lines, & the outlines of the moving parts in the extreme positions are dash‑dotted thin with two dots. It is allowed to depict the extreme positions of the moving parts in separate views. It’s permissible to depict parts & assembly units that are not part of the OE with solid thin lines.
    1. Indicate the overall, installation & connection dimensions of the OE and, if necessary, the dimensions that determine the position of the protruding parts. Installation & connection dimensions required for linking with other units must be indicated with maximum allowed deviations. It is allowed to indicate the coordinates of the center of mass. Do not indicate that all sizes are for reference.
    1. It’s permissible to indicate the conditions of use, storage, transportation & operation in the absence of these data in the technical description, specifications or other design documentation for the OE.
-   1. **Often (to obtain full information about a OE), it’s additionally required to indicate:**
+   1. **To obtain full information about a OE, it’s additionally required to indicate:**
       1. allowed direction of overloads
       1. grade of tightness of the OE
       1. heat dissipation of the OE’s (simplified timeline, or the spread of values), the area of ​​the heat‑conducting surface & the distribution of heat
@@ -269,7 +269,7 @@ For each OE, a general drawing shall be provided containing a contour (simplifie
 
 <p style="page-break-after:always"> </p>
 
-### Чертёж общего вида
+### Чертёж общего вида (ЧОВ)
 > <small>**Чертёж общего вида (ЧОВ)** — русскоязычный термин. **Technical drawing (drafting / drawing) (TD)** — примерный англоязычный эквивалент.</small>
 
 **Чертёж общего вида (ЧОВ)** — [КД](doc.md), имеющий графическое представление, который определяет конструкцию того или иного узла/агрегата. Из него становится ясно, каким образом взаимодействуют его основные компоненты, каков общий принцип функционирования устройства. ЧОВ содержит:
@@ -328,7 +328,7 @@ For each OE, a general drawing shall be provided containing a contour (simplifie
 
 <p style="page-break-after:always"> </p>
 
-### Чертёж теоретический
+### Чертёж теоретический (ТЧ)
 > <small>**Теоретический чертёж (ТЧ)** — русскоязычный термин. **Sheer drawing** — англоязычный эквивалент.</small>
 
 **Теоретический чертёж (ТЧ)** ─ по [ГОСТ 2.102](гост_2_102.md) — [КД](doc.md), определяющий геометрическую форму (контур) изделия и координаты расположения составных частей. Разрабатывается в соответствии с [ГОСТ 2.419](гост_2_419.md).

@@ -1,7 +1,7 @@
 # RIKEN
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/r/riken_logo1_thumb.png)](../f/con/r/riken_logo1.png)|<pr@riken.jp>, +81-48-462-1111, Fax: …;<br> *2-1 Hirosawa, Wako, Saitama 351-0198, Japan*<br> 【<https://www.riken.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Riken)・ [LinkedIn ⎆](https://www.linkedin.com/company/riken)】|
+|[![](../f/con/r/riken_logo1_thumb.png)](../f/con/r/riken_logo1.png)|<pr@riken.jp>, +81-48-462-1111, Fax: …;<br> *2-1 Hirosawa, Wako, Saitama 351-0198, Japan*<br> 【<https://www.riken.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/riken)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Riken)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -14,8 +14,6 @@
 Riken conducts research in many areas of science, including physics, chemistry, biology, genomics, medical science, engineering, high‑performance computing & computational science, & ranging from basic research to practical applications with 485 partners worldwide. It’s almost entirely funded by the Japanese government, & its annual budget is about ¥ 88 billion ($ 790 million).
 
 It now has ~ 3 000 scientists on seven campuses across Japan, including the main site at Wakō, Saitama Prefecture, just outside Tokyo. Riken is a Designated National Research & Development Institute, & was formerly an Independent Administrative Institution. “Riken” is a portmanteau of the formal name Rikagaku Kenkyūjo (理化学研究所), & its full name in Japanese is Kokuritsu Kenkyū Kaihatsu Hōjin Rikagaku Kenkyūsho (国立研究開発法人理化学研究所) & in English is the Institute of Physical & Chemical Research.
-
-<p style="page-break-after:always"> </p>
 
 The main divisions of Riken are listed here. Purely administrative divisions are omitted.
 
@@ -45,3 +43,7 @@ The main divisions of Riken are listed here. Purely administrative divisions are
    1. Kobe Branch
       - Center for Biosystems Dynamics Research (developmental biology & nuclear medicine medical imaging techniques)
       - Center for Computational Science (R-CCS, home of the K computer & The post-K (Fugaku) computer development plan)
+
+<p style="page-break-after:always"> </p>
+
+…

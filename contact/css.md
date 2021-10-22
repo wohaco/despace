@@ -9,7 +9,7 @@
 |**Business**|Sponsorship & promotion for Canadians in the space sector|
 |**[MGMT](../mgmt.md)**|…|
 
-**Canadian Space Society (CSS)**. Founded in 1983, the Canadian Space Society (CSS) has been a federally‑incorporated [non‑profit organization](nonprof_org.md) & charity. With many of Canada’s top space professionals on board, the CSS is made up of enthusiasts of all backgrounds pursuing the exploration & development of the Solar System & beyond.
+**Canadian Space Society (CSS)**. Founded in 1983, the Canadian Space Society (CSS) has been a federally‑incorporated [non‑profit organization](../nonprof_org.md) & charity. With many of Canada’s top space professionals on board, the CSS is made up of enthusiasts of all backgrounds pursuing the exploration & development of the Solar System & beyond.
 
 Inspired by the old L5 Society & other space‑activist groups, its principal objective is to sponsor & promote the involvement of Canadians in the space sector, through its technical & outreach projects including regular chapter meetings, the annual Canadian Space Summit & more. The CSS wishes to grow in cooperation, rather than in competition, with other space development organizations (such as the National Space Society & the British Interplanetary Society), while meeting a real need for an effective Canadian space advocacy group.
 

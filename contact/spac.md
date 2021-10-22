@@ -20,11 +20,10 @@ It is owned by 4 Japanese government departments:
    - the Ministry of Economy, Trade & Industry,
    - the Ministry of Land, Infrastructure, Transport & Tourism.
 
-
-
-<p style="page-break-after:always"> </p>
-
 **Message from Chairperson**
 
 <small>Satellite positioning has a wide variety of applications within Japan starting with car navigation, personal navigation & mapping, as well as including various fields such as precise agriculture, aero survey, construction, logistics, traffic, tourism, security, environmental protection, disaster prevension & e‑commerce, so on. Use of such positioning technology has so deeply penetrated both public life & the national economy in areas such as national land management, scientific & technical research, industrial & economic activities, & the security & peace of mind of the citizenry, that it is now an essential element of our social infrastructure in terms of national stability & development.<br><br> Outside of Japan, the plan to modernize GPS in the United States & the Galileo project in Europe demonstrate the progress that is being made on the creation of an international network of satellite positioning systems that will enable a high rate of utilization of real‑time spatiotemporal information on a global scale. Within Japan, the satellite positioning technology derived from the Quasi‑Zenith Satellite System has been incorporated into the Basic Program for Science & Technology, & has been further strengthened by its recognition as a national critical technology.<br><br> Meanwhile, our goverment enforced Basic Act on the Advancement of Utilizing Geospatial Information (NSDI Act of Japan) & authorized G‑spatial Basic Plan for the realization of a society with increased utilization of geospatial information. Also, aiming the advancement of the life of the people & the contribution for economic growth, our goverment enforced Space Basic Act & authorized Space Basic Plan. & Japan’s Quasi‑Zenith Satellite (QZS) has been launched since 2010.<br><br> SPAC performs numerous activities in order to expand the utilization of geospatial information within industrial & economic sectors including linkage with companies & associations related to satellite positioning, the promotion of research & study related to the use of next‑generation satellite positioning, such as the United State’s GPS, Europe’s Galileo project & Japan’s Quasi‑Zenith Satellite System, as well as diffusing the results of such activities, & contributing to the activation & commercialization of business activities related to geospatial information. The goals of all of our activities are to contribute to the realization of a society where geospatial information can be widely utilized, & to serving as a conduit for both the expansion of Japanese industry & contributions to the international community.</small>
 
+<p style="page-break-after:always"> </p>
+
+…

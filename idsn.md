@@ -17,13 +17,11 @@ The network consists of the ISRO Telemetry, Tracking and Command Network (ISTRAC
 
 **Telescopes:**
 
-   - 32‑meter DSN Antenna — Deep Space Tracking Antenna. [Bands](rf.md): **S** (↑/↓), **X** (↑/↓).
+   - 32‑meter DSN Antenna — Deep Space Tracking Antenna. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (♁↗ 🚀↘).
    - 18‑meter DSN Antenna — Deep Space Tracking Antenna. [Bands](rf.md): <mark>TBD</mark>
    - 11‑meter DSN Antenna — Terminal Tracking Antenna. [Bands](rf.md): <mark>TBD</mark>
 
 
-
-<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|

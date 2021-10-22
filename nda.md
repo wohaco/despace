@@ -63,5 +63,5 @@ NDA enforcement — это практически невыполнимая за�
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Non-disclosure_agreement>
    1. <https://ru.wikipedia.org/wiki/Соглашение_о_неразглашении>
-   1. 2010.04.18 <https://habr.com/ru/post/88058/> — [archive ❐](f/archive/20100418_1.pdf) of 2019.02.21)
+   1. 2010.04.18 <https://habr.com/ru/post/88058/> — [archived ❐](f/archive/20100418_1.pdf) 2019.02.21
    1. 2015.05.08 <https://habr.com/ru/post/290424/>

@@ -128,5 +128,5 @@ The principle of operation is similar to [reaction wheel](iu.md), only it is not
    1. <https://en.wikipedia.org/wiki/Control_moment_gyroscope>
    1. <https://ru.wikipedia.org/wiki/Гиродин>
    1. <https://www.rockwellcollins.com/Products-and-Services/Defense/Platforms/Space.aspx>
-   1. 2015.05.25 [Хабр: Как опереться на пустоту ⎆](https://habr.com/ru/post/379823/) — [archive ❐](f/archive/20150525_1.pdf) of 2019.02.07)
+   1. 2015.05.25 [Хабр: Как опереться на пустоту ⎆](https://habr.com/ru/post/379823/) — [archived ❐](f/archive/20150525_1.pdf) 2019.02.07
 

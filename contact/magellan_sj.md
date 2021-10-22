@@ -11,7 +11,7 @@
 
 Established 1993.07.06, founded 1987.02.03.
 
-Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1, block 12, Moscow, 127083, Russia. [CEO](mgmt.md) Sergey Lyusin. Established 2015.10.21.
+Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1, block 12, Moscow, 127083, Russia. [CEO](../mgmt.md) Sergey Lyusin. Established 2015.10.21.
 
 **History**
 
@@ -40,3 +40,4 @@ Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1,
 
 <p style="page-break-after:always"> </p>
 
+…

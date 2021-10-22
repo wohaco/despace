@@ -310,7 +310,7 @@ A list of [Sun sensor](sensor.md).
 **Notes:**
 
    1. [Технические характеристики ❐](f/sensor/o/osd_specs_2005.djvu) (ИКИ РАН, 2005)・ [О работе ОСД на борту КА «Фобос‑Грунт» ❐](f/sensor/o/osd_ppt_phobos-grunt.pdf) (ИКИ РАН, 2011)
-   1. <http://ofo.ikiweb.ru/osd.php> — [archive ❐](f/sensor/o/ofo_ikiweb_ru_osd.pdf) of 2019.02.15)
+   1. <http://ofo.ikiweb.ru/osd.php> — [archived ❐](f/sensor/o/ofo_ikiweb_ru_osd.pdf) 2019.02.15
    1. **Applicability:** КА «[Фобос‑Грунт](фобос_грунт.md)».
 
 

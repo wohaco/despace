@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|Technology development & improvement mostly for automation & [robotics](../robot.md), Moon [mining](sss.md)|
+|**Business**|Technology development & improvement mostly for automation & [robotics](../robot.md), Moon [mining](../sss.md)|
 |**[MGMT](../mgmt.md)**|・CEO — Dale Boucher|
 
 **Deltion Innovations Ltd** is a technology development company specializing in automation & robotics with a focus on new product development, troubleshooting & existing product improvement for the resource sector.  We have decades of electromechanical design experience derived from the mining & pulp & paper sectors.  We apply this to other sectors, including mining in space.  A key goal of our mining in space work is to spin back the technologies developed to improve productivity & safety in the resource sector.

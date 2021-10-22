@@ -1,7 +1,7 @@
 # iQPS Inc.
 > 2020.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/i/iqps_logo1_thumb.png)](../f/con/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*<br> 【<https://i-qps.net/>・ [Twitter ⎆](https://twitter.com/QPS_Inc>・ [Facebook ⎆](https://facebook.com/qpslaboratory/)】|
+|[![](../f/con/i/iqps_logo1_thumb.png)](../f/con/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*<br> 【<https://i-qps.net/>・ [Facebook ⎆](https://facebook.com/qpslaboratory/)・ [Twitter ⎆](https://twitter.com/QPS_Inc)】|
 |:--|:--|
 |**Mission**|Expand the possibilities of space & contribute to the development of the world.|
 |**Vision**|OBSERVE THE EARTH. Anytime, Anywhere.|

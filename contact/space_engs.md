@@ -1,12 +1,12 @@
 # Space Engine Systems
 > 2021.07.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/space_engine_systems_logo1_thumb.png)](../f/con/s/space_engine_systems_logo1.png)|<info@spaceenginesystems.com>, +1(780)430-9383 , Fax: +1(780)457-1569;<br> *318 14032 - 23rd Ave, Edmonton, Alberta, T6R 3L6 Canada*<br> 【<https://www.spaceenginesystems.com/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Space_Engine_Systems)・ [LinkedIn ⎆](https://www.linkedin.com/company/space-engine-systems)・ [Twitter ⎆](https://twitter.com/SpaceEngSystem)・ [Facebook ⎆](https://www.facebook.com/spaceenginesystems)】|
+|[![](../f/con/s/space_engine_systems_logo1_thumb.png)](../f/con/s/space_engine_systems_logo1.png)|<info@spaceenginesystems.com>, +1(780)430-9383 , Fax: +1(780)457-1569;<br> *318 14032 - 23rd Ave, Edmonton, Alberta, T6R 3L6 Canada*<br> 【<https://www.spaceenginesystems.com/>・ [Facebook ⎆](https://www.facebook.com/spaceenginesystems)・ [LinkedIn ⎆](https://www.linkedin.com/company/space-engine-systems)・ [Twitter ⎆](https://twitter.com/SpaceEngSystem)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Space_Engine_Systems)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|SSTO [propulsion](PS.MD), pumps, compressors, gear boxes, Permanent Magnet Motors|
+|**Business**|SSTO [propulsion](ps.md), pumps, compressors, gear boxes, Permanent Magnet Motors|
 |**[MGMT](../mgmt.md)**|…|
 
 **Space Engine Systems** is a Canadian aerospace company that is pioneering the next generation of propulsion technologies for aerospace & space. Founded in 2012.

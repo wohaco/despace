@@ -34,6 +34,6 @@
 
    1. Docs: …
    1. Notable interwikies — …
-   1. <http://www.braeunig.us/space/propel.htm> — [archive ❐](f/ps/specific_impulse_basics_of_space_flight_rocket_propellants.djvu) of 2018.01.28)
-   1. 2016.01.29 [В погоне за удельным импульсом ⎆](https://alex-anpilogov.livejournal.com/115661.html) — [archive ❐](f/archive/20160129_1.pdf) of 2019.02.17)
+   1. <http://www.braeunig.us/space/propel.htm> — [archived ❐](f/ps/specific_impulse_basics_of_space_flight_rocket_propellants.djvu) 2018.01.28
+   1. 2016.01.29 [В погоне за удельным импульсом ⎆](https://alex-anpilogov.livejournal.com/115661.html) — [archived ❐](f/archive/20160129_1.pdf) 2019.02.17
 

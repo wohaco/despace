@@ -64,5 +64,5 @@
    1. <https://ru.wikipedia.org/wiki/Ядерный_реактор>
    1. <https://ru.wikipedia.org/wiki/Ядерные_реакторы_на_космических_аппаратах>
    1. <https://en.wikipedia.org/wiki/Nuclear_reactor>
-   1. 2017.07.13 [Хабр: Ядерные реакторы в космосе: ТЭМ ⎆](https://habr.com/ru/post/381701/) — [archive ❐](f/archive/20150713_1.pdf) of 2019.02.05)
+   1. 2017.07.13 [Хабр: Ядерные реакторы в космосе: ТЭМ ⎆](https://habr.com/ru/post/381701/) — [archived ❐](f/archive/20150713_1.pdf) 2019.02.05
 

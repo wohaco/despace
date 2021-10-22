@@ -1,5 +1,5 @@
 # Space Services Australia
-> .. [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
+> 2021.10.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/con//_logo1_thumb.jpg)](../f/con//_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<…>】|
 |:--|:--|
@@ -9,9 +9,8 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-…
+**Space Services Australia**
 
 <p style="page-break-after:always"> </p>
 
 …
-

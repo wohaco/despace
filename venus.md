@@ -1787,5 +1787,5 @@ This list of tasks is approximate. The main completed tasks are listed here. For
    1. <https://nssdc.gsfc.nasa.gov/planetary/chronology.html>
    1. <https://www.kiss.caltech.edu/workshops/venus/venus.html>
    1. <http://www.astronet.ru/db/msg/1180522/index.html>
-   1. 2016.07.25 [КА, способный выжить в аду Венеры ⎆](http://www.bbc.com/russian/vert-fut-36856774) — [archive ❐](f/aob/venus/20160725_001_created_20170930_saved.djvu) of 2017.09.30
-   1. 2017.04.06 [РКС о миссиях СССР к Венере/Марсу ⎆](http://russianspacesystems.ru/2017/04/06/venera/) — [archive ❐](f/aob/venus/20170406_001_created_20171020_saved.djvu) of 2017.10.20
+   1. 2016.07.25 [КА, способный выжить в аду Венеры ⎆](http://www.bbc.com/russian/vert-fut-36856774) — [archived ❐](f/aob/venus/20160725_001_created_20170930_saved.djvu) 2017.09.30
+   1. 2017.04.06 [РКС о миссиях СССР к Венере/Марсу ⎆](http://russianspacesystems.ru/2017/04/06/venera/) — [archived ❐](f/aob/venus/20170406_001_created_20171020_saved.djvu) 2017.10.20

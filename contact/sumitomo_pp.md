@@ -1,7 +1,7 @@
 # Sumitomo PP
 > 2020.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/sumitomo_pp_logo1_thumb.png)](../f/con/s/sumitomo_pp_logo1.png)|<mark>noemail</mark>, +81-3-3217-2812, Fax: +81-3-3217-2822;<br> *1-3-2 Otemachi, Chiyoda-ku, Tokyo, 100-004, Japan*<br> 【<https://www.spp.co.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Sumitomo_Precision_Products)】|
+|[![](../f/con/s/sumitomo_pp_logo1_thumb.png)](../f/con/s/sumitomo_pp_logo1.png)|<mark>noemail</mark>, +81-3-3217-2812, Fax: +81-3-3217-2822;<br> *1-3-2 Otemachi, Chiyoda-ku, Tokyo, 100-004, Japan*<br> 【<https://www.spp.co.jp/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Sumitomo_Precision_Products)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -9,7 +9,7 @@
 |**Business**|…|
 |**[MGMT](../mgmt.md)**|…|
 
-**Sumitomo Precision Products Co., Ltd.** is a Japanese manufacturer of [heat exchangers](../hp.md) & [control](tcs.md), semiconductor/MEMS equipment ([gyroscopes](../iu.md)), & [sensors](../sensor.md). Founded 1961.01.05.
+**Sumitomo Precision Products Co., Ltd.** is a Japanese manufacturer of [heat exchangers](../hp.md) & [control](../tcs.md), semiconductor/MEMS equipment ([gyroscopes](../iu.md)), & [sensors](../sensor.md). Founded 1961.01.05.
 
 Main manufacturing sites:
 

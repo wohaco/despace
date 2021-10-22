@@ -1,20 +1,20 @@
 # Canadensys
 > 2019.08.14 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/c/canadensys_logo1_thumb.jpg)](../f/con/c/canadensys_logo1.png)|<mark>noemail</mark>, +1(514)343-61-11, Fax: …;<br> *Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*<br> 【<http://www.canadensys.com/>・ <https://community.canadensys.net/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/canadensys-aerospace-corporation/)・ [Twitter ⎆](https://twitter.com/canadensys)】|
+|[![](../f/con/c/canadensys_logo1_thumb.jpg)](../f/con/c/canadensys_logo1.png)|<mark>noemail</mark>, +1(514)343-61-11, Fax: …;<br> *Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*<br> 【<http://www.canadensys.com/>・ <https://community.canadensys.net/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canadensys-aerospace-corporation/)・ [Twitter ⎆](https://twitter.com/canadensys)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Power management & distribution](sps.md), [Energy storage & battery management](../eb.md), [OBC](obc.md) & data processing, [Advanced imaging](../cam.md) & situational awareness, [Mechanisms & structures](../sc.md), [Thermal control](tcs.md), [Spacecraft & robotics](../sc.md)|
+|**Business**|[Power management & distribution](../sps.md), [Energy storage & battery management](../eb.md), [OBC](../obc.md) & data processing, [Advanced imaging](../cam.md) & situational awareness, [Mechanisms & structures](../sc.md), [Thermal control](../tcs.md), [Spacecraft & robotics](../sc.md)|
 |**[MGMT](../mgmt.md)**|・President & CEO — Christian Sallaberger|
 
 **Canadensys Aerospace Corporation** is a space systems & services company with a focus on accessible space. The company is founded on heritage & expertise that spans a number of Canada’s historic space achievements of the last 3 decades, blending them with micro & nano space technology, & modern, commercial business models for effective space program & mission development.
 
    - **Avionics.** Driven by specific mission needs in space exploration, Canadensys was required to develop a new breed of micro  & nano‑class avionics that deliver the performance  & robustness demanded by small missions in deep space without breaking the low‑cost paradigm. From lunar night survivability & deep‑space longevity to MEO/GEO robustness, Canadensys now provides deep‑space ruggedized avionics to customers worldwide for a range of low‑cost, high‑reliability civil & defence applications, from LEO, MEO  & GEO out to cislunar space  & beyond.
-      - [Power management & distribution](sps.md)
+      - [Power management & distribution](../sps.md)
       - [Energy storage & battery management](../eb.md)
-      - [On‑board computers](obc.md) & data processing
+      - [On‑board computers](../obc.md) & data processing
       - [Advanced imaging](../cam.md) & situational awareness
    - **[Sensors](../cam.md).** Vision & situational awareness is key for a growing number of space missions today, whether it be for asset tracking, deployment monitoring, servicing, or satellite self‑defence in Earth orbit, or landing safely on the Moon or Mars, conducting science & exploration on a new planetary surface, or documenting the adventure  & historic findings back here on Earth. Canadensys provides low‑cost, high‑performance imaging systems to customers worldwide with applications spanning civil  & defence, from LEO, MEO & GEO out to cislunar space & beyond. Leveraging a ruggedized core that was developed from the outset for missions to the Moon  & Mars, each Canadensys imager packs a nano‑class form‑factor with high‑performance image & video capture capabilities, substantial onboard storage  & processing,  & deep space ruggedization in the areas of radiation  & lunar night survivability, ensuring next‑generation architecture performance from even the smallest space assets flying today.
 

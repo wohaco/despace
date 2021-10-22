@@ -307,7 +307,7 @@
       1. <https://en.wikipedia.org/wiki/Launch_vehicle>
       1. <https://en.wikipedia.org/wiki/Comparison_of_orbital_launch_systems>
       1. <http://silverbirdastronautics.com/LVperform.html>
-      1. 2017.07.10 [Хабр: Насколько SpaceX сбила цены запусков ракет ⎆](https://geektimes.ru/post/290153/) — [archive ❐](f/archive/20170710_1.pdf) of 2019.02.08)
+      1. 2017.07.10 [Хабр: Насколько SpaceX сбила цены запусков ракет ⎆](https://geektimes.ru/post/290153/) — [archived ❐](f/archive/20170710_1.pdf) 2019.02.08
    1. РБ
       1. <https://en.wikipedia.org/wiki/Space_tug>
       1. <https://ru.wikipedia.org/wiki/Разгонный_блок>

@@ -1,7 +1,7 @@
 # Rafael
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/r/rafael_logo1_thumb.jpg)](../f/con/r/rafael_logo1.png)|<intl-mkt@rafael.co.il>, +972(73)335-4444, Fax: …;<br> *POB 2250, Haifa, 3102102 Israel*<br> 【<https://www.rafael.co.il/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Rafael_Advanced_Defense_Systems)】|
+|[![](../f/con/r/rafael_logo1_thumb.jpg)](../f/con/r/rafael_logo1.png)|<intl-mkt@rafael.co.il>, +972(73)335-4444, Fax: …;<br> *POB 2250, Haifa, 3102102 Israel*<br> 【<https://www.rafael.co.il/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Rafael_Advanced_Defense_Systems)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

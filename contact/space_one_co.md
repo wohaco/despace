@@ -15,8 +15,6 @@ The name SPACE ONE reflects the aforementioned corporate philosophy & the coming
 
 SPACE ONE is accelerating preparations to establish itself as an operating company by 2021, with the goal of achieving 20 launches per year by the mid‑2020s.
 
-<p style="page-break-after:always"> </p>
-
 TOKYO, July 2, 2018 — New Generation Small Rocket Development Planning Co., Ltd. (the Business Planning Company) & its four shareholders ([CANON ELECTRONICS INC.](ce_space.md), [IHI AEROSPACE Co.](ihi.md), Ltd., Shimizu Corporation & Development Bank of Japan Inc.) have concluded their investigation into the establishment of a small rocket launch service as an operating company. As a result, the Business Planning Company announced today that the necessary procedures for increasing capital have been completed, & that it will be renamed SPACE ONE Co., Ltd. (SPACE ONE) & operate as a commercial space transport service business for small satellites.
 
 **Overview of Launch Complex:**
@@ -33,3 +31,7 @@ TOKYO, July 2, 2018 — New Generation Small Rocket Development Planning Co., Lt
    - Cadence per year — 20 (from the mid‑2020s).
    - Launch Vehicle Overview — Configuration: three solid propellant stages & a liquid propellant kick stage, PBS (Post Boost Stage). Overall length: ~ 18 m. Liftoff mass: ~23 metric‑tons.
    - Start of services — 2021.
+
+<p style="page-break-after:always"> </p>
+
+…

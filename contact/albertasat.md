@@ -1,7 +1,7 @@
 # AlbertaSat
 > 2020.06.28 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con//_logo1_thumb.jpg)](../f/con//_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://www.albertasat.ca/> ・ [LinkedIn ⎆](https://www.linkedin.com/company/albertasat/)・ [Twitter ⎆](https://twitter.com/albertasat)・ [Instagram ⎆](https://www.instagram.com/alberta_sat/)】|
+|[![](../f/con//_logo1_thumb.jpg)](../f/con//_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://www.albertasat.ca/>・ [Instagram ⎆](https://www.instagram.com/alberta_sat/) ・ [LinkedIn ⎆](https://www.linkedin.com/company/albertasat/)・ [Twitter ⎆](https://twitter.com/albertasat)】|
 |:--|:--|
 |**Mission**|To build a better future through the development of space technology. We believe that this will allow Alberta to augment many aspects of Albertan industry & society, & move towards a province capable of contributing to a worldwide push for global peace, prosperity & expansion into the solar system.|
 |**Vision**|…|

@@ -448,7 +448,7 @@ Redundancy sometimes produces less, instead of greater reliability — it create
    1. <https://en.wikipedia.org/wiki/Risk_management>
    1. <https://ru.wikipedia.org/wiki/Управление_рисками>
    1. [ГОСТ ИСО 31010](gost_iso_31010.md) «Менеджмент риска. Методы оценки риска».
-   1. 2018.11.10 [Хабр: Управление рисками — почему процедуры так редко работают?:](https://habr.com/ru/post/429356/) — [archive ❐](f/archive/20181110_1.pdf) of 2019.04.22
-   1. 2009.03.22 [Хабр: Немного теории об управлении рисками ⎆](https://habr.com/ru/post/55105/) — [archive ❐](f/archive/20090322_1.pdf) of 2019.01.30
+   1. 2018.11.10 [Хабр: Управление рисками — почему процедуры так редко работают?:](https://habr.com/ru/post/429356/) — [archived ❐](f/archive/20181110_1.pdf) 2019.04.22
+   1. 2009.03.22 [Хабр: Немного теории об управлении рисками ⎆](https://habr.com/ru/post/55105/) — [archived ❐](f/archive/20090322_1.pdf) 2019.01.30
    1. <https://studme.org/1970070521055/menedzhment/klassifikatsiya_proektnyh_riskov>
    1. <https://en.wikipedia.org/wiki/Redundancy_(engineering)>

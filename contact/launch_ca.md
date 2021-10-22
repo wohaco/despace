@@ -9,7 +9,6 @@
 |**Business**|Student community, LV & small sats building|
 |**[MGMT](../mgmt.md)**|…|
 
-…
-
-
 <p style="page-break-after:always"> </p>
+
+…

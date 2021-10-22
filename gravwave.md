@@ -29,5 +29,5 @@
    1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Gravitational_wave>
    1. <https://ru.wikipedia.org/wiki/Гравитационные_волны>
-   1. 2017.09.28 [Хабр: Обсерватории LIGO и Virgo зарегистрировали ещё одну гравитационную волну ⎆](https://habr.com/ru/post/370855/) — [archive ❐](f/archive/20170928_1.pdf) of 2019.02.12)
+   1. 2017.09.28 [Хабр: Обсерватории LIGO и Virgo зарегистрировали ещё одну гравитационную волну ⎆](https://habr.com/ru/post/370855/) — [archived ❐](f/archive/20170928_1.pdf) 2019.02.12
 

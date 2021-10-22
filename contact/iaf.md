@@ -1,7 +1,7 @@
 # IAF
 > 2020.01.23 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/i/iaf_logo1_thumb.png)](../f/con/i/iaf_logo1.png)|<mark>noemail</mark>, +33(145)674-260, Fax: +33(142)732-120;<br> *100 Avenue de Suffren, 75015 Paris, France*<br> 【<http://www.iafastro.org/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/International_Astronautical_Federation)】|
+|[![](../f/con/i/iaf_logo1_thumb.png)](../f/con/i/iaf_logo1.png)|<mark>noemail</mark>, +33(145)674-260, Fax: +33(142)732-120;<br> *100 Avenue de Suffren, 75015 Paris, France*<br> 【<http://www.iafastro.org/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/International_Astronautical_Federation)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -20,7 +20,7 @@
 
 IAF partners:
 
-   - **Non-Governmental Organizations:** International Academy of Astronautics (IAA), International Institute of Space Law (IISL), [Committee on Space Research (COSPAR)](cospar.md), Space Generation Advisory Council (SGAC);
+   - **Non-Governmental Organizations:** International Academy of Astronautics (IAA), International Institute of Space Law (IISL), [Committee on Space Research (COSPAR)](../cospar.md), Space Generation Advisory Council (SGAC);
    - **Intergovernmental Organizations:** United Nations Office for Outer Space Affairs (UNOOSA), United Nations Educational, Scientific and Cultural Organisation (UNESCO), International Telecommunication Union (ITU), World Metereological Organization (WMO), [European Space Agency (ESA)](esa.md), Group on Earth Observation (GEO), Asia-Pacific Space Cooperation Organization (APSCO).
 
 <p style="page-break-after:always"> </p>
@@ -37,17 +37,17 @@ IAF partners:
 
 Ежегодно МАФ совместно с Международной академией астронавтики и Международным институтом космического права проводят Международный конгресс астронавтики.
 
-The largest & most well‑known IAF event is the annual [International Astronautical Congress (IAC)](iac.md), which takes place annually in September or October. The IAC features high‑level plenaries & highlight lectures, specialised young professionals' students events, IAF Global Networking Forum, & a technical programme presenting latest advances in science & exploration, applications & operations, technology, infrastructure, & space & society.
+The largest & most well‑known IAF event is the annual [International Astronautical Congress (IAC)](../iac.md), which takes place annually in September or October. The IAC features high‑level plenaries & highlight lectures, specialised young professionals' students events, IAF Global Networking Forum, & a technical programme presenting latest advances in science & exploration, applications & operations, technology, infrastructure, & space & society.
 
 There are a variety of side events including the annual IAF Workshop with the support of the UN, which takes place during the 2 days preceding the IAC. The IAF also organizes the 'Global Conferences' series, with the:
 
    - Global Lunar Exploration Conference (GLUC 2010) in Beijing,
-   - [Global Space Exploration Conference](glex.md) (GLEX 2012) in Washington DC,
+   - [Global Space Exploration Conference](../glex.md) (GLEX 2012) in Washington DC,
    - Global Space Applications Conference (GLAC 2014) in Paris,
    - Global Space Innovation Conference (GLIC 2015) in Munich,
    - Global Conference on Space & the Information Society (GLIS 2016) in Geneva,
-   - [Global Space Exploration Conference](glex.md) (GLEX 2017) in Beijing,
+   - [Global Space Exploration Conference](../glex.md) (GLEX 2017) in Beijing,
    - Global Space Applications Conference (GLAC 2018) in Montevideo,
    - Global Conference on Space for Emerging Countries (GLEC 2019) in Marrakech,
-   - [Global Space Exploration Conference](glex.md) (GLEX 2020) in St. Petersburg.
+   - [Global Space Exploration Conference](../glex.md) (GLEX 2020) in St. Petersburg.
 

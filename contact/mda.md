@@ -1,7 +1,7 @@
 # MDA
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/mda_logo1_thumb.jpg)](../f/con/m/mda_logo1.png)|<info@mdacorporation.com>, +1(604)278-34-11, Fax: +1(604)231-27-68;<br> *Somewhere in Canada*<br> 【<https://mda.space/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/MDA_Space_Missions)・ [LinkedIn ⎆](https://www.linkedin.com/company/mdaspace)】|
+|[![](../f/con/m/mda_logo1_thumb.jpg)](../f/con/m/mda_logo1.png)|<info@mdacorporation.com>, +1(604)278-34-11, Fax: +1(604)231-27-68;<br> *Somewhere in Canada*<br> 【<https://mda.space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/mdaspace)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/MDA_Space_Missions)】|
 |:--|:--|
 |**Mission**|Tempered & tested by generations of space innovation, MDA has a track record of making ambitions come true. We’re fueled by a pioneering spirit that carries us above & beyond. And together we enable highly skilled people to continually push boundaries, tackle big challenges, & imagine solutions that inspire & endure.|
 |**Vision**|…|
@@ -29,7 +29,6 @@
       - Vancouver, BC. 1570 ‑ 200 Burrard Street, Vancouver, BC, V6C 3L6. Phone: 604.974.5275
    - International Locations:
       - Didcot, UK
-
 
 <p style="page-break-after:always"> </p>
 

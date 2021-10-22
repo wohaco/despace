@@ -375,7 +375,7 @@ The use of the following materials in a SC (especially, in parts interacting wit
    1. <https://www.nanosats.eu/cubesat>
    1. <http://www.cubesat.org/>
    1. <https://en.wikipedia.org/wiki/CubeSat>
-   1. <http://directory.eoportal.org/web/eoportal/satellite-missions/c-missions/cubesat-concept> — [archive ❐](f/scs/cubesat_concept_seor.pdf) of 2016.05.06)
+   1. <http://directory.eoportal.org/web/eoportal/satellite-missions/c-missions/cubesat-concept> — [archived ❐](f/scs/cubesat_concept_seor.pdf) 2016.05.06
    1. <http://www.cubesatshop.com> — магазин оборудования для кубсатов.
    1. <https://en.wikipedia.org/wiki/List_of_crewed_spacecraft>
    1. <https://ru.wikipedia.org/wiki/Пилотируемый_космический_аппарат>

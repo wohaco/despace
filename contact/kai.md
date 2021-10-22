@@ -1,7 +1,7 @@
 # KAI
 > 2020.07.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/k/kai_logo1_thumb.png)](../f/con/k/kai_logo1.png)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*<br> 【<http://www.koreaaero.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Industries)・ [LinkedIn ⎆](https://www.linkedin.com/company/korea-aerospace-industries/)|
+|[![](../f/con/k/kai_logo1_thumb.png)](../f/con/k/kai_logo1.png)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*<br> 【<http://www.koreaaero.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/korea-aerospace-industries/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Industries)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -16,7 +16,7 @@ KAI was originally established as a joint venture of Samsung Aerospace, Daewoo H
    1. **Satellites**
       - Korean Multipurpose Satellites No. 1, 2, 3 & 5
    1. **Launch vehicle**
-      - [Korea Space Launch Vehicle (KSLV)-II](kslv.md): The KSLV-II has been designed to generate a combined thrust of 300 tons by tying in parallel four 75 ton‑class liquid fuel‑powered engines. KSLV 2 is the launcher earmarked for the spacecraft that South Korea proposes to send to the moon by 2020. A lunar lander is supposed to follow in 2025.
+      - [Korea Space Launch Vehicle (KSLV)-II](../kslv.md): The KSLV-II has been designed to generate a combined thrust of 300 tons by tying in parallel four 75 ton‑class liquid fuel‑powered engines. KSLV 2 is the launcher earmarked for the spacecraft that South Korea proposes to send to the moon by 2020. A lunar lander is supposed to follow in 2025.
 
 Offices:
 

@@ -1,7 +1,7 @@
 # Kobe University
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/k/kobe_univ_logo1_thumb.jpg)](../f/con/k/kobe_univ_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan*<br> 【<https://www.kobe-u.ac.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kobe_University)・ [LinkeIn 1 ⎆](https://www.linkedin.com/company/kobe-university/)・ [LinkeIn 2 ⎆](https://www.linkedin.com/school/神戸大学/)】|
+|[![](../f/con/k/kobe_univ_logo1_thumb.jpg)](../f/con/k/kobe_univ_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-1 Rokkodai-cho, Nada-ku, Kobe 657-8501, Japan*<br> 【<https://www.kobe-u.ac.jp/>・ [LinkedIn 1 ⎆](https://www.linkedin.com/company/kobe-university/)・ [LinkedIn 2 ⎆](https://www.linkedin.com/school/神戸大学/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kobe_University)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -141,7 +141,7 @@ List of galvanic cells & electric accumulators.
 
    1. Docs: …
    1. Notable interwikies — …
-   1. 2019.08.02 [Есть ли альтернатива литий‑ионному аккумулятору? ⎆](https://habr.com/ru/company/toshibarus/blog/462185/) — [archive ❐](f/sps/20190802_1_01.pdf) of 2019.08.04)
+   1. 2019.08.02 [Есть ли альтернатива литий‑ионному аккумулятору? ⎆](https://habr.com/ru/company/toshibarus/blog/462185/) — [archived ❐](f/sps/20190802_1_01.pdf) 2019.08.04
    1. <https://ru.wikipedia.org/wiki/Химический_источник_тока>
    1. <https://en.wikipedia.org/wiki/Rechargeable_battery>
    1. <http://niai.ru/catalog.php?:id=6>

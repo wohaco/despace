@@ -1,7 +1,7 @@
 # TUPLS
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/t/tupls_logo1_thumb.jpg)](../f/con/t/tupls_logo1.png)|<mark>noemail</mark>, +81(42)676-51-11, Fax: …;<br> *Japan, 〒192‑0355 Tokyo, Hachioji, Horinouchi, 1432‑1*<br> 【<https://www.toyaku.ac.jp/english_page/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Tokyo_University_of_Pharmacy_and_Life_Sciences)・ [LinkedIn ⎆](https://www.linkedin.com/company/tokyo-university-of-pharmacy-and-life-sciences/about/)】|
+|[![](../f/con/t/tupls_logo1_thumb.jpg)](../f/con/t/tupls_logo1.png)|<mark>noemail</mark>, +81(42)676-51-11, Fax: …;<br> *Japan, 〒192‑0355 Tokyo, Hachioji, Horinouchi, 1432‑1*<br> 【<https://www.toyaku.ac.jp/english_page/>・ [LinkedIn ⎆](https://www.linkedin.com/company/tokyo-university-of-pharmacy-and-life-sciences/about/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Tokyo_University_of_Pharmacy_and_Life_Sciences)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

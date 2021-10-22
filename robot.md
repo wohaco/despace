@@ -13,7 +13,7 @@
 Several approaches to the classification of robots can be used — for example, by scope, by purpose, by mode of movement, etc. According to the scope of the main application, industrial robots, research robots, robots used in training, special robots can be distinguished. The most important classes of general‑purpose robots are manipulation & mobile robots.
 
    - **Manipulation robot** — an automatic machine (stationary or mobile), consisting of an executive device in the form of a manipulator, which has several degrees of mobility, & a program control device, which serves to perform motor & control functions in the production process. Such robots are manufactured in floor-standing, suspended & portal versions. They are most widespread in the machine-building & instrument-making industries.
-   - **Mobile robot** —- automatic machine with a moving chassis with automatically controlled drives. Such robots can be wheeled, walking & tracked (there are also crawling, floating & flying mobile robotic systems).
+   - **Mobile robot** — automatic machine with a moving chassis with automatically controlled drives. Such robots can be wheeled, walking & tracked (there are also crawling, floating & flying mobile robotic systems).
 
 
 | | |
@@ -134,4 +134,4 @@ Robots also can be used as scouts to check out new areas to be explored. Scout r
    1. **Rover:**
       - <https://en.wikipedia.org/wiki/Rover_(space_exploration)>
       - <https://ru.wikipedia.org/wiki/Планетоход>
-      - 2017.10.04 [Хабр: Роботы стремятся к звёздам ⎆](https://habr.com/ru/company/mailru/blog/407165/) — [archive ❐](f/archive/20171004_1.pdf) of 2019.02.07)
+      - 2017.10.04 [Хабр: Роботы стремятся к звёздам ⎆](https://habr.com/ru/company/mailru/blog/407165/) — [archived ❐](f/archive/20171004_1.pdf) 2019.02.07

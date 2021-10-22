@@ -104,7 +104,7 @@
    1. <https://ru.wikipedia.org/wiki/Номинальное_напряжение>
    1. <https://ru.wikipedia.org/wiki/Стандарты_напряжений_и_частот_в_разных_странах>
    1. <https://ru.wikipedia.org/wiki/Электрическое_напряжение>
-   1. 2015.12.30 [Как получить отрицательное напряжение ⎆](https://hubstub.ru/circuit-design/109-kak-poluchit-otricatelnogo-napryazheniya.html) — [archive ❐](f/archive/20151230_1.pdf) of 2019.02.22)
+   1. 2015.12.30 [Как получить отрицательное напряжение ⎆](https://hubstub.ru/circuit-design/109-kak-poluchit-otricatelnogo-napryazheniya.html) — [archived ❐](f/archive/20151230_1.pdf) 2019.02.22
 
 
 

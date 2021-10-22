@@ -15,16 +15,16 @@
 
 Основные станции:
 
-   - **Clewiston.** USA, Florida, Clewiston, 26°44' N, 81°02' W. [Bands](rf.md): **S** (↑), **dual X** (↓).
-   - **Dongara.** Australia, Dongara, 29° 03' S, 115°21' E. [Bands](rf.md): **S** (↑/↓), **X** (↑/↓), **Ku** (↑/↓), **Ka** (↑/↓).
-   - **Esrange.** Sweden, Kiruna, 67° 53' N, 21° 04' E. [Bands](rf.md): **UHF** (↓), **S** (↑/↓), **X** (↓).
-   - **Inuvik.** Canada, Inuvik, 68° 24' N, 133° 30' W. [Bands](rf.md): **S** (↑/↓), **X** (↑/↓).
-   - **North Pole.** USA, Alaska, North Pole, 64° 48' N, 147° 39' W. [Bands](rf.md): **S** (↑/↓), **X** (↓).
-   - **Punta Arenas.** Chile, Punta Arenas, 52°56' S, 70°51' W. [Bands](rf.md): **S** (↑/↓), **X** (↑/↓).
-   - **Santiago.** Chile, Santiago de Chile, 33° 08' S, 70° 40' W. [Bands](rf.md): **S** (↑/↓), **C** (↑/↓), **Ka** (↑/↓).
-   - **Siracha.** Thailand, Siracha, 13° 6' N, 100° 55' E. [Bands](rf.md): **S** (↑/↓), **X** (↓).
-   - **South Point.** USA, Hawaii, South Point, 19°1' N, 155°40' W. [Bands](rf.md): **S** (↑/↓), **X** (↑/↓), **Ku** (↑/↓).
-   - **Yatharagga.** Australia, Dongara, 29° 05' S, 115°35' E. [Bands](rf.md): **S** (↑/↓), **X** (↓), **Ka** (↓).
+   - **Clewiston.** USA, Florida, Clewiston, 26°44' N, 81°02' W. [Bands](rf.md): **S** (♁↗), **dual X** (🚀↘).
+   - **Dongara.** Australia, Dongara, 29° 03' S, 115°21' E. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (♁↗ 🚀↘), **Ku** (♁↗ 🚀↘), **Ka** (♁↗ 🚀↘).
+   - **Esrange.** Sweden, Kiruna, 67° 53' N, 21° 04' E. [Bands](rf.md): **UHF** (🚀↘), **S** (♁↗ 🚀↘), **X** (🚀↘).
+   - **Inuvik.** Canada, Inuvik, 68° 24' N, 133° 30' W. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (♁↗ 🚀↘).
+   - **North Pole.** USA, Alaska, North Pole, 64° 48' N, 147° 39' W. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (🚀↘).
+   - **Punta Arenas.** Chile, Punta Arenas, 52°56' S, 70°51' W. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (♁↗ 🚀↘).
+   - **Santiago.** Chile, Santiago de Chile, 33° 08' S, 70° 40' W. [Bands](rf.md): **S** (♁↗ 🚀↘), **C** (♁↗ 🚀↘), **Ka** (♁↗ 🚀↘).
+   - **Siracha.** Thailand, Siracha, 13° 6' N, 100° 55' E. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (🚀↘).
+   - **South Point.** USA, Hawaii, South Point, 19°1' N, 155°40' W. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (♁↗ 🚀↘), **Ku** (♁↗ 🚀↘).
+   - **Yatharagga.** Australia, Dongara, 29° 05' S, 115°35' E. [Bands](rf.md): **S** (♁↗ 🚀↘), **X** (🚀↘), **Ka** (🚀↘).
 
 Станции с кооперацией:
 
@@ -38,8 +38,6 @@
    - Okinawa, Japan
 
 
-
-<p style="page-break-after:always"> </p>
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|

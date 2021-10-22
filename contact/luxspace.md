@@ -1,7 +1,7 @@
 # LuxSpace Sàrl
 > 2021.04.27 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/l/luxspace_logo1_thumb.png)](../f/con/l/luxspace_logo1.png)|<info@luxspace.lu>, +352(267890)-4000, Fax: +352(267890)4049;<br> *9, rue Pierre Werner, L-6832 Betzdorf, Grand Duchy of Luxembourg*<br> 【<https://luxspace.lu/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Luxspace)】|
+|[![](../f/con/l/luxspace_logo1_thumb.png)](../f/con/l/luxspace_logo1.png)|<info@luxspace.lu>, +352(267890)-4000, Fax: +352(267890)4049;<br> *9, rue Pierre Werner, L-6832 Betzdorf, Grand Duchy of Luxembourg*<br> 【<https://luxspace.lu/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Luxspace)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|Professional, smart, affordable space‑based solutions for business & institutions. LuxSpace will become the pre‑eminent provider of professional products, smart & affordable solutions for space missions & commercial space‑based applications.|
@@ -19,6 +19,6 @@ The company's first own, independent (no shared payload by another company) sate
 In 2014 (launch 23 October 2014, 18:00 UTC), LuxSpace performed the 4M or Manfred Memorial Moon Mission (in memoriam of Manfred Fuchs, the founder of OHB company, whose daughter company LuxSpace is), the first private Moon mission. The mission consisted of an amateur radio payload (total mass of payload was 14 kg) that was sent on a close lunar flyby aboard a Chinese Long March 3C/G2 rocket's upper stage. The 4M payload was solidly bolted onto the upper stage of the rocket & did nor separate. The Chinese rocket performed the Chang'e 5-T1 lunar flyby mission to test technology for future lunar sample return mission Chang'e 5. The Chang'e 5-T1 test flight sent a space capsule on a flight around the Moon & back toward Earth, with the capsule landing on Earth in the end of the mission. The 4M payload's nominal lifetime was 8 days.  
 LuxSpace built the ESAIL satellite for the Canadian operator exactEarth under ESA’s SAT‐AIS programme (a part of ESA’s Partnership Projects) for tracking ships. ESAIL is the first commercial microsatellite of the program. As of 2019, the launch of ESAIL is expected in 2020 aboard Arianespace Vega rocket. The launch will take place on the Vega Small Spacecraft Mission Service (SSMS) Proof of Concept (POC) flight.
 
-
-
 <p style="page-break-after:always"> </p>
+
+…

@@ -378,7 +378,7 @@ A list of [Inertial measurement units](sensor.md).
 
 **Notes:**
 
-   1. <http://npp-antares.ru/index.php/equipment.html> — [archive ❐](f/iu/i/ius_voa_npp-antares_ru.djvu) of 2018.03.26)
+   1. <http://npp-antares.ru/index.php/equipment.html> — [archived ❐](f/iu/i/ius_voa_npp-antares_ru.djvu) 2018.03.26
    1. **Applicability:** Персона №1・ Лотос №1
 
 
@@ -486,7 +486,7 @@ A list of [Inertial measurement units](sensor.md).
 
 **Notes:**
 
-   1. <http://www.npoit.ru/products/telemetricheskie-sistemy/miniatyurnaya-besplatformennaya-inertsialnaya-navigatsionnaya-sistema-mbins> — [archive ❐](f/iu/m/mbins_npoit_ru.djvu) of 2018.03.26)
+   1. <http://www.npoit.ru/products/telemetricheskie-sistemy/miniatyurnaya-besplatformennaya-inertsialnaya-navigatsionnaya-sistema-mbins> — [archived ❐](f/iu/m/mbins_npoit_ru.djvu) 2018.03.26
    1. **Applicability:** …
 
 
@@ -509,4 +509,4 @@ A list of [Inertial measurement units](sensor.md).
    1. Docs:
       - [Брошюры от Northrop Grumman ❐](f/iu/l/ln-200_doc1.djvu)
    1. Notable interwikies — …
-   1. <http://www.northropgrumman.com/Capabilities/LN200FOG/Pages/default.aspx> — [archive ❐](f/iu/l/ln-200_northropgrumman_com.djvu) of 2018.03.26)
+   1. <http://www.northropgrumman.com/Capabilities/LN200FOG/Pages/default.aspx> — [archived ❐](f/iu/l/ln-200_northropgrumman_com.djvu) 2018.03.26

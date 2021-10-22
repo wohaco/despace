@@ -1,7 +1,7 @@
 # ISAS
 > 2019.01.28 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/i/isas_logo1_thumb.jpg)](../f/con/i/isas_logo1.png)|<mark>noemail</mark>, +81(42)751-39-11, Fax: …;<br> *3 Chome-1-1 Yoshinodai, Chuo Ward, Sagamihara, Kanagawa 252-5210, JP.*<br> 【<http://www.isas.jaxa.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science)】|
+|[![](../f/con/i/isas_logo1_thumb.jpg)](../f/con/i/isas_logo1.png)|<mark>noemail</mark>, +81(42)751-39-11, Fax: …;<br> *3 Chome-1-1 Yoshinodai, Chuo Ward, Sagamihara, Kanagawa 252-5210, JP.*<br> 【<http://www.isas.jaxa.jp/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|The missions of ISAS aim to push ahead academic researchers through the planning, development, flying experiments, operations & result production of unique & excellent space science missions consistently with the cooperation from universities, institutes in Japan & foreign space institutes with the use of satellites, probes, sounding rocket, scientific balloons & the international space station. The biggest advantage of ISAS is that researchers of space engineering & space science cooperate with each other. Engineers lead science missions with advanced technologies & new technologies that scientists expect can be developed efficiently.|
@@ -19,10 +19,10 @@ In 2003, 3 national aerospace organizations (incl. ISAS) were merged to form [Ja
    - Akiruno Experiment Lab
    - [Noshiro Rocket Testing Center](noshiro_rtc.md)
    - Sagamihara Campus
-   - [Taiki Aerospace Research Field](spaceport.md)
-   - [Tanegashima Space Center](spaceport.md)
+   - [Taiki Aerospace Research Field](../spaceport.md)
+   - [Tanegashima Space Center](../spaceport.md)
    - [Tsukuba Space Center](tsukuba_sc.md)
-   - [Uchinoura Space Center](spaceport.md)
+   - [Uchinoura Space Center](../spaceport.md)
    - [Usuda Deep Space Center](udsc.md)
 
 <p style="page-break-after:always"> </p>

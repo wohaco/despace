@@ -1,7 +1,7 @@
 # Rocket Lab
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/r/rocket_lab_logo1_thumb.jpg)](../f/con/r/rocket_lab_logo1.png)|<mark>noemail</mark>, +1(714)465-57-37, Fax: …;<br> *14520 Delta Ln #101, Huntington Beach, CA 92647, USA*<br> 【<https://www.rocketlabusa.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Rocket_Lab)・ [Facebook ⎆](https://www.facebook.com/RocketLabUSA/)・ [Twitter ⎆](https://twitter.com/rocketlab)・ [LinkedIn ⎆](https://www.linkedin.com/company/rocket-lab-limited)】|
+|[![](../f/con/r/rocket_lab_logo1_thumb.jpg)](../f/con/r/rocket_lab_logo1.png)|<mark>noemail</mark>, +1(714)465-57-37, Fax: …;<br> *14520 Delta Ln #101, Huntington Beach, CA 92647, USA*<br> 【<https://www.rocketlabusa.com/>・ [Facebook ⎆](https://www.facebook.com/RocketLabUSA/)・ [LinkedIn ⎆](https://www.linkedin.com/company/rocket-lab-limited)・ [Twitter ⎆](https://twitter.com/rocketlab)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Rocket_Lab)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -14,7 +14,7 @@
 **Нынешняя продукция:**
 
    1. ракетный двигатель Резерфорд.
-   1. РН [Electron](electron.md)
+   1. РН [Electron](../electron.md)
 
 **История.**
 

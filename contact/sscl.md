@@ -28,5 +28,6 @@ At **Space Strategies Consulting Ltd. (SSCL)**, our team of highly qualified Spa
       - Remote Sensing
       - Energy & Power Production
 
-
 <p style="page-break-after:always"> </p>
+
+…

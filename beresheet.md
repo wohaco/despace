@@ -104,7 +104,7 @@
    1. <https://en.wikipedia.org/wiki/SpaceIL>
    1. <https://ru.wikipedia.org/wiki/SpaceIL>
    1. <https://space.skyrocket.de/doc_sdat/beresheet.htm>
-   1. 2019.03.07 [Хабр: Лунная миссия «Берешит» — характеристики, маневры, путь ⎆](https://habr.com/ru/post/442922/) — [archive ❐](f/archive/20190307_1.7z) of 2019.03.10)
+   1. 2019.03.07 [Хабр: Лунная миссия «Берешит» — характеристики, маневры, путь ⎆](https://habr.com/ru/post/442922/) — [archived ❐](f/archive/20190307_1.7z) 2019.03.10
    1. 2019.02.22 [Хабр: Запущен первый коммерческий лунный КА Beresheet ⎆](https://habr.com/ru/post/441358/)
    1. 2019.02.21 [myNEWSdesk: Nammo’s British Rocket Engine Powers Israel’s Mission to the Moon ⎆](http://www.mynewsdesk.com/no/nammo/pressreleases/nammos-british-rocket-engine-powers-israels-mission-to-the-moon-2838630)
    1. 2019.02.04 [Космолента: Израильская автоматическая станция отправится на Луну в феврале ⎆](http://kosmolenta.com/index.php/1363-2019-02-04-beresheet)

@@ -1,7 +1,7 @@
 # BSIP
 > 2019.08.11 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/b/bsip_logo1_thumb.jpg)](../f/con/b/bsip_logo1.png)|<director@bsip.res.in>, +91(522)274-00-11, Fax: +91(0522)274-04-85;<br> *53, University Road, Lucknow, Uttar Pradesh 226007, India*<br> 【<http://www.bsip.res.in/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Birbal_Sahni_Institute_of_Palaeobotany)】|
+|[![](../f/con/b/bsip_logo1_thumb.jpg)](../f/con/b/bsip_logo1.png)|<director@bsip.res.in>, +91(522)274-00-11, Fax: +91(0522)274-04-85;<br> *53, University Road, Lucknow, Uttar Pradesh 226007, India*<br> 【<http://www.bsip.res.in/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Birbal_Sahni_Institute_of_Palaeobotany)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

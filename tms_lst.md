@@ -87,7 +87,7 @@ A list of [Telemetry systems](tms.md).
 **Notes:**
 
    1. [A sketch ❐](f/tms/o/oniks_sketch1.png)
-   1. <http://www.npoit.ru/products/telemetricheskie-sistemy/malogabaritnaya-bortovaya-radiotelemetricheskaya-sistema-oniks> — [archive ❐](f/tms/o/oniks_npoit_ru.djvu) of 2018.03.27)
+   1. <http://www.npoit.ru/products/telemetricheskie-sistemy/malogabaritnaya-bortovaya-radiotelemetricheskaya-sistema-oniks> — [archived ❐](f/tms/o/oniks_npoit_ru.djvu) 2018.03.27
    1. **Applicability:** …
 
 
@@ -127,7 +127,7 @@ A list of [Telemetry systems](tms.md).
 
 **Notes:**
 
-   1. <http://www.npoit.ru/products/telemetricheskie-sistemy/malogabaritnaya-bortovaya-radiotelemetricheskaya-sistema-oniks> — [archive ❐](f/tms/p/pirit_npoit_ru.djvu.pdf) of 2018.03.27)
+   1. <http://www.npoit.ru/products/telemetricheskie-sistemy/malogabaritnaya-bortovaya-radiotelemetricheskaya-sistema-oniks> — [archived ❐](f/tms/p/pirit_npoit_ru.djvu.pdf) 2018.03.27
    1. **Applicability:** …
 
 

@@ -1,7 +1,7 @@
 # PD AeroSpace
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/p/pd_aerospace_logo1_thumb.jpg)](../f/con/p/pd_aerospace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3519 Arimatsu, Midori-ku, Nagoya, Aichi 458-0924, JP*<br> 【<https://pdas.co.jp/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/PD_AeroSpace)・ [LinkedIn ⎆](https://www.linkedin.com/company/pd-aerospace-ltd./)】|
+|[![](../f/con/p/pd_aerospace_logo1_thumb.jpg)](../f/con/p/pd_aerospace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3519 Arimatsu, Midori-ku, Nagoya, Aichi 458-0924, JP*<br> 【<https://pdas.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/pd-aerospace-ltd./)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/PD_AeroSpace)】|
 |:--|:--|
 |**Mission**|“Bringing Space Closer”. There are so many amazing possibilities in space, waiting to be discovered & understood. Perhaps, a new kind of resources or energy source is just around the corner. Space also enables us to reflect upon ourselves & Earth, to deeply understand the preciousness of life & nature. There are & will be challenges never seen or predicted during our journey to reach the stars. However, we chose to take upon this challenge, because we believe humanity can earn so much from space exploration. In order to bring space closer to us & move towards a more peaceful & prosperous world, PD Aerospace will continue to pursue the challenge in the field of space transportation.|
 |**Vision**|…|
@@ -14,8 +14,6 @@
 The “PD” in the company’s name stands for “pulse detonation”. PDAS is developing a [suborbital spaceplane](../sc.md) to carry 2 pilots & 6 passengers using a hybrid of jet & rocket power. Initial tickets are planned for ¥ 14 000 000 (about $ 125 000 as of April 2017) eventually lowering to ¥ 400 000 (about $ 3 600).
 
 PDAS plans to develop a hybrid engine that produces jet & rocket thrust, using pulse detonation jet & pulse combustion rocket modes. To reduce the cost of development & keep the vehicle low‑cost, PDAS plans to use commercially available hardware, instead of custom‑designed parts. PDAS plans to launch an unmanned prototype in 2019, perform manned testing by 2020, & start commercial flights in 2023. H.I.S. & ANA own 10 % & 7 % of the company, respectively.
-
-<p style="page-break-after:always"> </p>
 
 Corporate Philosophy
 
@@ -40,3 +38,7 @@ Spaceplane development program
 |PDAS-X07|Unmanned|12m|100kg|110km|Microgravity experiments, High altitude atmospheric observation|
 |PDAS-X08|Manned|18m|6 passengers + 2 pilot|110km|Commercial manned space flight|
 |PDAS-X09|Unmanned|TBD|6,000kg|110km|Air launch to orbit payload carrier|
+
+<p style="page-break-after:always"> </p>
+
+…

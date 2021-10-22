@@ -1,7 +1,7 @@
 # SpaceBridge Inc.
 > 2021.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/spacebridge_logo1_thumb.png)](../f/con/s/spacebridge_logo1.png)|<info@spacebridge.com>, +1(514)420-0045, Fax: … ;<br> *6300 Chemin de la Côte-de-Liesse, Saint-Laurent, QC H4T 1E3, Canada*<br> 【<https://www.spacebridge.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/spacebridgeinc)・ [Facebook ⎆](https://www.facebook.com/SpaceBridgeCA)・ [Twitter ⎆](https://twitter.com/SpaceBridgeCA)】|
+|[![](../f/con/s/spacebridge_logo1_thumb.png)](../f/con/s/spacebridge_logo1.png)|<info@spacebridge.com>, +1(514)420-0045, Fax: … ;<br> *6300 Chemin de la Côte-de-Liesse, Saint-Laurent, QC H4T 1E3, Canada*<br> 【<https://www.spacebridge.com/>・ [Facebook ⎆](https://www.facebook.com/SpaceBridgeCA)・ [LinkedIn ⎆](https://www.linkedin.com/company/spacebridgeinc)・ [Twitter ⎆](https://twitter.com/SpaceBridgeCA)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

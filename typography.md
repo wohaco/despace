@@ -45,4 +45,4 @@
    1. <https://en.wikipedia.org/wiki/Typography>
    1. <https://ru.wikipedia.org/wiki/Типографика>
    1. <https://ru.wikipedia.org/wiki/Википедия:Отбивка_знака_процента_от_предшествующей_цифры>
-   1. 2001.01.01 [Особенности набора ❐](http://web.archive.org/web/20080313061322/mamble.nm.ru/nabor.htm) — [archive ❐](f/archive/20010101_1.djvu) of 2017.10.13)
+   1. 2001.01.01 [Особенности набора ❐](http://web.archive.org/web/20080313061322/mamble.nm.ru/nabor.htm) — [archived ❐](f/archive/20010101_1.djvu) 2017.10.13

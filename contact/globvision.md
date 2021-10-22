@@ -23,7 +23,6 @@ GlobVision is recognized across multiple industries for its innovations in the a
    - **Space Mission Analysis, Design & Operations.** GlobVision has utilized its experience & expertise in space mission analysis & design (SMAD) to develop generic software tools to support & automate the design of optimized space & ground segment configurations for space missions. GlobVision’s team has demonstrated exceptional optimization & design capabilities using in‑house tools for the design & analysis of single‑satellite & constellation missions. Our team uses advanced & proprietary algorithms, cost functions & performance measures to optimize the design parameters that go beyond the mission requirements to determine the most suitable space & ground segment configurations for a space mission, while minimizing the high level cost of the mission & accounting for spacecraft subsystem designs.
    - GlobVision also has extensive experience designing & developing major operational software for satellite missions & satellite operator groups, including Mission Planning Systems (MPSs), satellite simulators (software‑in‑the‑loop, processor‑in‑the‑loop & hardware‑in‑the‑loop) & high‑fidelity space situational awareness tools.
 
-
 <p style="page-break-after:always"> </p>
 
 …

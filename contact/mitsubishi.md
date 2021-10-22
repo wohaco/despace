@@ -1,7 +1,7 @@
 # Mitsubishi
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/mitsubishi_logo1_thumb.png)](../f/con/m/mitsubishi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<http://www.mitsubishielectric.com/bu/space/>・ <https://www.mhi.com/products/space> ・ [LinkeIn 1 ⎆](https://www.linkedin.com/company/mitsubishielectric/)・ [LinkeIn 2 ⎆](https://www.linkedin.com/company/mitsubishi-heavy-industries/)】|
+|[![](../f/con/m/mitsubishi_logo1_thumb.png)](../f/con/m/mitsubishi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<http://www.mitsubishielectric.com/bu/space/>・ <https://www.mhi.com/products/space>・ [LinkedIn 1 ⎆](https://www.linkedin.com/company/mitsubishielectric/)・ [LinkedIn 2 ⎆](https://www.linkedin.com/company/mitsubishi-heavy-industries/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -24,7 +24,7 @@
       - *Science ones* — SOLAR-B
    1. **Satellite equipment.**
       - *BUS Equip.* — [solar array panels](../sp.md), [heat pipe panels](../hp.md), [structural panel](../sc.md), & [batteries](../eb.md).
-      - *[RF Equip.](../comms.md)* — telemetry/beacon transmitters, power/low noise amplifiers, receiver & ↑↓ converters.
+      - *[RF Equip.](../comms.md)* — telemetry/beacon transmitters, power/low noise amplifiers, receiver & ♁↗ 🚀↘ converters.
    1. **[Ground Systems](../scs.md).** Ground control stations for sat tracking, optic/radio telescopes for astro observation.
       - *Control Systems* — antenna equip. to track/control sats, the optic/radio telescopes to observe.
          - 64‑m Parabolic Antenna ([Usuda Deep Space Center](udsc.md))
@@ -51,3 +51,5 @@
    1. Space Station: JEM (Japanese Experiment Module), H-II Transfer Vehicle (HTV)
 
 <p style="page-break-after:always"> </p>
+
+…

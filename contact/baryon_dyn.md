@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[Propulsion Engineering](../ps.md), [Energy Systems Engineering](sps.md), Plasma Engineering, Instrumentation|
+|**Business**|[Propulsion Engineering](../ps.md), [Energy Systems Engineering](../sps.md), Plasma Engineering, Instrumentation|
 |**[MGMT](../mgmt.md)**|…|
 
 **Baryon Dynamics Inc.** is a company specializes in Power & Propulsion.

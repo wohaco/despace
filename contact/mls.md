@@ -1,7 +1,7 @@
 # MLS
 > 2019.08.14 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/mls_logo1_thumb.png)](../f/con/m/mls_logo1.png)|<admin@maritimelaunch.com>, <mark>noworkphone</mark>, Fax: …;<br> *Suite 900, 1959 Upper Water Street, Halifax, Nova Scotia  B3J 3N2, Canada*<br> 【<https://www.maritimelaunch.com/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Maritime_Launch_Services)・ [LinkedIn ⎆](https://www.linkedin.com/company/maritimelaunch/)】|
+|[![](../f/con/m/mls_logo1_thumb.png)](../f/con/m/mls_logo1.png)|<admin@maritimelaunch.com>, <mark>noworkphone</mark>, Fax: …;<br> *Suite 900, 1959 Upper Water Street, Halifax, Nova Scotia  B3J 3N2, Canada*<br> 【<https://www.maritimelaunch.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/maritimelaunch/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Maritime_Launch_Services)】|
 |:--|:--|
 |**Mission**|To develop an extremely safe, efficient, & cost-effective launch facility where we will help clients by meeting all their orbital access needs to LEO|
 |**Vision**|…|

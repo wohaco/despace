@@ -1,7 +1,7 @@
 # IAI
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/i/iai_logo1_thumb.jpg)](../f/con/i/iai_logo1.png)|<mark>noemail</mark>, +972(3)935-31-11, Fax: …;<br> *2W33+X7 Бней‑Атарот, Израиль*<br> 【<https://www.iai.co.il/> ・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Israel_Aerospace_Industries)】|
+|[![](../f/con/i/iai_logo1_thumb.jpg)](../f/con/i/iai_logo1.png)|<mark>noemail</mark>, +972(3)935-31-11, Fax: …;<br> *2W33+X7 Бней‑Атарот, Израиль*<br> 【<https://www.iai.co.il/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Israel_Aerospace_Industries)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -16,8 +16,8 @@
 
 **Структура IAI:**
 
-   - **President & [CEO](mgmt.md) / Deputy [CEO](mgmt.md) / Chairman of the Board**
-      - [COO](mgmt.md) — Корпоративные операции, закупка и логистика.
+   - **President & [CEO](../mgmt.md) / Deputy [CEO](../mgmt.md) / Chairman of the Board**
+      - [COO](../mgmt.md) — Корпоративные операции, закупка и логистика.
       - Corporate Development	
       - Finance
       - Human Resources

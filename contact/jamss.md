@@ -22,7 +22,7 @@ The business operations of JAMSS is classified into following 4 areas.
 
    1. The operation of & user support for “Kibo”, the experiment module run by Japan at the International Space Station (ISS). We take care of training for astronauts staying in “Kibo”, ground‑based management & engineering support, total backup for experiments aboard “Kibo”, & support for the operation of the “Kounotori” vehicle that ferries supplies to the ISS.
    1. The [satellite](../sc.md) development, management & utilization. We develop & manage satellites, & provide engineer support for new uses of satellites to monitor Earth, prevent & from disasters.
-   1. The [safety & product assurance](qm.md). Detailed evaluations of the safety, reliability & maintainability of parts & equipment to be taken in space, & make recommendations as appropriate.
+   1. The [safety & product assurance](../qm.md). Detailed evaluations of the safety, reliability & maintainability of parts & equipment to be taken in space, & make recommendations as appropriate.
    1. The new business development. We are working on research & development projects, in order to help human live comfort ability in space, for the forthcoming manned space missions, & also to make space technology useful in daily life.
 
 <p style="page-break-after:always"> </p>

@@ -90,5 +90,5 @@
    1. <https://ru.wikipedia.org/wiki/Эпсилон_(ракета‑носитель)>
    1. <https://www.spacelaunchreport.com/epsilon.html>
    1. <https://space.skyrocket.de/doc_lau/epsilon.htm>
-   1. 2018.02.12 [Интересное наблюдение по запуску Falcon Heavy ⎆](https://habr.com/post/374245/) — [archive ❐](f/lv/falcon/20180212_habr_com_001.djvu) of 2019.02.08)
+   1. 2018.02.12 [Интересное наблюдение по запуску Falcon Heavy ⎆](https://habr.com/post/374245/) — [archived ❐](f/lv/falcon/20180212_habr_com_001.djvu) 2019.02.08
    1. 2015.09.21 <https://www.reddit.com/r/spacex/comments/3lsm0q/f9ft_vs_f9v11_fuel_mass_flow_rate_isp/>

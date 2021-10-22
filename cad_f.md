@@ -37,4 +37,4 @@
    1. <https://ru.wikipedia.org/wiki/STEP_(стандарт)>
    1. <https://ru.wikipedia.org/wiki/SVG>
    1. <https://ru.wikipedia.org/wiki/JT_(формат_визуализации)>
-   1. <https://forum.solidworks.com/thread/62067> — [archive ❐](f/archive/20121117_1.pdf) of 2019.02.21)
+   1. <https://forum.solidworks.com/thread/62067> — [archived ❐](f/archive/20121117_1.pdf) 2019.02.21

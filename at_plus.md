@@ -32,12 +32,14 @@
 |*Параметр*|*Описание*|
 |:--|:--|
 |Компоненты топлива|окислитель — [АТ](at.md)<br> горючее — [ММГ](mmh.md)|
-|Соотношение масс|<mark>TBD</mark>|
-|Плотность, ㎏/m³|<mark>TBD</mark>|
+|Соотношение масс|1 443 ㎏/m³ к 880 ㎏/m³ = 2.16|
+|Плотность, ㎏/m³|1 200|
 |Fuel — combustion products|<mark>TBD</mark>|
-|[УИ](isp.md), с|354|
-|Т в камере сгорания, K|<mark>TBD</mark>|
+|[УИ](isp.md), с|325|
+|Т в камере сгорания, K|3 385|
 |Токсичность|токсично, требуется [нейтрализация](нейтрализация_крт.md)|
+
+N₂O₄/MMH propellant. Monomethylhydrazine (MMH) is a storable liquid fuel that found favor in the United States for use in orbital spacecraft engines. Its advantages in comparison to UDMH are higher density and slightly higher performance.
 
 
 

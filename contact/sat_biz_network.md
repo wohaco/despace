@@ -1,7 +1,7 @@
 # Satellite Business Network
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/sat_biz_network_logo1_thumb.jpg)](../f/con/s/sat_biz_network_logo1.png)|<mark>noemail</mark>, +81-802-052-13-48, Fax: …;<br> *1-5-212, Iwaicho, Hodogaya, Yokohama, 240-0023, Japan*<br> 【<https://sat-biznet.com/> ・ [LinkedIn ⎆](https://www.linkedin.com/pub/shigeki-kuzuoka/16/6a0/398)】|
+|[![](../f/con/s/sat_biz_network_logo1_thumb.jpg)](../f/con/s/sat_biz_network_logo1.png)|<mark>noemail</mark>, +81-802-052-13-48, Fax: …;<br> *1-5-212, Iwaicho, Hodogaya, Yokohama, 240-0023, Japan*<br> 【<https://sat-biznet.com/>・ [LinkedIn ⎆](https://www.linkedin.com/pub/shigeki-kuzuoka/16/6a0/398)】|
 |:--|:--|
 |**Mission**|To be the bridge between Japanese & Global Space Business by connecting companies of all sizes through business & technical consultation services. We aim to offer the extensive knowledge of well‑experienced companies to start‑ups, while identifying & implementing disruptive innovations of the passionate new companies into corporations.|
 |**Vision**|…|
@@ -17,8 +17,6 @@
    - Space technology startup support, including planning, implementation, management, & evaluations.
    - Technical consulting & support services for space industry companies & government organizations, including space policy & strategy, market surveys, market development, & overseas business development.
 
-<p style="page-break-after:always"> </p>
-
 Consultation Details
 
    1. **Yearly business support.** When meeting once a month, after reporting on & advising the customer regarding content that aids the customer’s business as per the theme agreed on in advance, we discuss the situation with the person in charge. Each meeting lasts about two hours, & upon the completion of a contract, we deliver a consultation record (i.e., meeting dates & content details). For example, when providing support for the formulation of a customer’s business plan, each time we can provide advice regarding their business plan from a professional viewpoint, against the backdrop of theme‑setting for new business, business environment analysis, market analysis, & competition analysis, etc.
@@ -28,3 +26,6 @@ Consultation Details
    1. **Partner introductions.** After interviewing the customer regarding their requirements, background, & corporate culture, etc., we can aim to find them collaborative partners overseas. We can consider a number of potential candidate companies, & can compare them & propose optimal partner candidates for our customers. We can also set up meetings & initiate discussions for collaboration. After the start of collaboration discussions, we can be in charge of coordinating operations such as adjustments for interfacing, from the customer’s point of view, as necessary.
    1. **Education & training.** We can provide to our customers or staff in charge long‑term & short‑term education & training that takes advantage of a professional viewpoint. Also, depending on the theme, after an analysis of the customer’s request, the customer can request education & training from overseas specialist companies. In this case, such education & training can be conducted in Japan or overseas. In doing this, interpretation work & professional education & training support (i.e., the supplementation of overseas lecturer’s explanations, etc.) are also possible.
 
+<p style="page-break-after:always"> </p>
+
+…

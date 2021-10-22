@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|[OBC](obc.md), [memory modules](ds.md), microelectronics, [radiation shielding](ion_rad.md)|
+|**Business**|[OBC](../obc.md), [memory modules](../ds.md), microelectronics, [radiation shielding](../ion_rad.md)|
 |**[MGMT](../mgmt.md)**|…|
 
 **Data Device Corporation (DDC)** is a world leader in the design & manufacture of high‑reliability Connectivity, Power & Control solutions (Data Networking Components to Processor Based Subsystems, Space Qualified SBCs & Radiation Hardened Components; Power Distribution, Control & Conversion; Motor Control & Motion Feedback) for aerospace, defense, space, & industrial applications.
