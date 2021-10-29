@@ -69,7 +69,6 @@ The numerous of the logging methods is due to the variety of ground‑based geop
 |**【Soil sampling system (SSS)】**<br> [Logging](sss.md)・ [Stratification](sss.md)<br>• • •<br> **RU:** [GZU-LR1](гзу_лр1.md)・ [LB-15](sss_lst.md) *([VB02](sss_lst.md)・ [LB-09](sss_lst.md)・ [LB-10](sss_lst.md))*|
 
    1. Docs: [Presentation for SC Luna‑Grunt ❐](f/sss/2018_ikiran_sluta.djvu) (Moscow, IKI RAS, 2018, Slyuta E.N.)
-   1. Notable interwikies — …
    1. <http://geofpro.com/space-drilling.html>
    1. <https://en.wikipedia.org/wiki/Stratification>
    1. <https://ru.wikipedia.org/wiki/Каротаж>

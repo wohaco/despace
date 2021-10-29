@@ -88,6 +88,5 @@ Industry analysts at Northern Sky Research believe that high-throughput satellit
 |**【[Spacecraft (SC)](sc.md)】**<br> [Cleanliness level](clean_lvl.md)・ [Communication SC](sc_comm.md)・ [Cubesat](sc.md)・ [FSS](sc_comm.md)・ [HTS](sc_comm.md)・ [Interface](interface.md)・ [Manned SC](sc.md)・ [Satellite](sc.md)・ [Sub-item](sui.md)・ [Typical forms](sc.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/High-throughput_satellite>
    1. <https://en.wikipedia.org/wiki/Fixed-satellite_service>

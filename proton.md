@@ -20,7 +20,7 @@
 В июне 2018 года генеральный директор «Роскосмоса» Дмитрий Рогозин поставил задачу прекратить производство РН «Протон» после выполнения контрактов, далее летать исключительно на «Ангаре». До 2025 года планируется отказ от использования «Протона» по причинам:
    1. пуски возможны только с космодрома «Байконур», который находится за пределами РФ; РН «[Ангара](angara.md)» может стартовать также с Плесецка и Восточного;
    1. изготовление некоторых СЧ «Протона» производится за рубежом, что неприемлемо для основного заказчика РН — МинОбороны РФ; РН «Ангара» полностью изготовляется российскими предприятиями;
-   1. «Протон» использует высокотоксичное топливо ([АТ + НДМГ](at_plus.md)); поля падения находятся в Казахстане, и после каждого аварийного пуска приходится проводить дорогостоящие очистки территории. В «Ангаре» используется менее опасное топливо [Кислород + Керосин](o_plus.md);
+   1. «Протон» использует высокотоксичное топливо ([АТ + НДМГ](nto_plus.md)); поля падения находятся в Казахстане, и после каждого аварийного пуска приходится проводить дорогостоящие очистки территории. В «Ангаре» используется менее опасное топливо [Кислород + Керосин](o_plus.md);
    1. «Ангара‑5» — должна быть проще и дешевле «Протон‑М» (в основном из‑за меньшего количества двигателей, самой дорогой СЧ РН).
 
 
@@ -43,7 +43,7 @@
 |Масса старт./сух.|705 000 ㎏ / 30 600 ㎏|
 |Разраб./изготов.|[ГКНПЦ Хруничева](contact/khrunichev.md) (КБ «Салют», Россия) / [ГКНПЦ Хруничева](contact/khrunichev.md) (КБ «Салют», Россия)|
 |Ступени|3‑4 (РБ: [Блок ДМ](блок_д.md), [Бриз‑М](бриз.md))|
-|[Fuel](fuel.md)|[АТ + НДМГ](at_plus.md)|
+|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md)|
 | |[![](f/lv/proton/proton-m_thumb.jpg)](f/lv/proton/proton-m.jpg)|
 
 **Выводимые массы.**
@@ -76,7 +76,7 @@
 |Масса старт./сух.|656 000 ㎏ / 42 500 ㎏|
 |Разраб./изготов.|[ОКБ‑23](contact/khrunichev.md) (СССР) / [ОКБ‑23](contact/khrunichev.md) (СССР)|
 |Ступени|2|
-|[Fuel](fuel.md)|[АТ + НДМГ](at_plus.md)|
+|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md)|
 | |[![](f/lv/proton/proton_1965_thumb.jpg)](f/lv/proton/proton_1965.jpg)|
 
 
@@ -95,7 +95,7 @@
 |Масса старт./сух.|700 000 ㎏ / 31 000 ㎏|
 |Разраб./изготов.|[ОКБ‑23](contact/khrunichev.md) (СССР) / [ОКБ‑23](contact/khrunichev.md) (СССР, в России — [ГКНПЦ Хруничева](contact/khrunichev.md))|
 |Ступени|3 (РБ: [Блок Д](блок_д.md), [Блок ДМ](блок_д.md))|
-|[Fuel](fuel.md)|[АТ + НДМГ](at_plus.md)|
+|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md)|
 | |[![](f/lv/proton/proton_k_zvezda_crop_thumb.jpg)](f/lv/proton/proton_k_zvezda_crop.jpg)|
 
 **Выводимые массы.**
@@ -119,7 +119,6 @@
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Proton_(rocket_family)>
    1. <https://ru.wikipedia.org/wiki/Протон_(ракета‑носитель)>
    1. 2014.04.03 [УР‑500 / 8К82 Протон — SL‑9 ⎆](http://militaryrussia.ru/blog/topic-799.html)

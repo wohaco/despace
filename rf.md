@@ -112,7 +112,6 @@
       - [РР. Статьи. ❐](f/comms/reglament_radiosvyazi_articles_2012.djvu) (Издание 2012 года)
       - [РР. Рекомендации РФ ❐](f/comms/rr_ru.doc) и укороченная [версия ❐](f/comms/rr_ru_reduced.doc) для космоса
       - [РР. Рекомендации для Марса, Луны, Венеры ❐](f/comms/rr_rec_sfcg_22_1r2.docx)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Видимое_излучение>
    1. <https://ru.wikipedia.org/wiki/Диапазон_частот>
    1. <https://ru.wikipedia.org/wiki/Радиолокационная_станция>

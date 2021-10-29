@@ -32,6 +32,5 @@
 |**【[Structures, gears, materials (SGM)](sc.md)】**<br> [Гермоконтейнер](гермоконтейнер.md)・ [Датчик](sensor.md)・ [Задел](margin.md)・ [Изделие](unit.md)・ [Испарение материалов](mat_sublime.md)・ [Кавитация](cavitation.md)・ [КЗУ](cinu.md) (ВБУ КТ)・ [КХГ](cgs.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [Крейцкопф](crosshead.md)・ [Номинал](nominal.md)・ [ПУС](lag.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Резерв](reserve.md)・ [Слайс](слайс.md)・ [ТСП](tsp.md)・ [Типичные формы КА](sc.md)・ [Толкатель](толкатель.md)・ [Унификация](commonality.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Carbon_fiber_reinforced_polymer>
    1. <https://ru.wikipedia.org/wiki/Углепластики>

@@ -55,5 +55,4 @@
 
    1. Docs:
       - [ГОСТ Р ИСО 31010 ❐](f/doc/gost_iso_31010.pdf)
-   1. Notable interwikies — …
    1. <…>

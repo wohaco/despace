@@ -129,7 +129,6 @@ Robots also can be used as scouts to check out new areas to be explored. Scout r
    1. Docs:
       - **Rover:**
          - [Концепция самоходного шасси марсохода ExoMars. ❐](f/rover/20180329_iki_exomars_rover_concept.djvu) (Москва, ИКИ РАН, 2018)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Робототехника>
    1. **Rover:**
       - <https://en.wikipedia.org/wiki/Rover_(space_exploration)>

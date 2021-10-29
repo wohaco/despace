@@ -25,6 +25,5 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Bernal_sphere>
    1. <https://ru.wikipedia.org/wiki/Сфера_Бернала>

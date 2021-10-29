@@ -25,6 +25,5 @@
 |**`Наземный комплекс управления (НКУ):`**<br> [БЦ](scs.md)・ [КИС](scs.md)・ [КСИСО](scs.md)・ [НИК](lm_sys.md)・ [НИП](scs.md)・ [НС](scs.md)・ [ПОЗ](fp.md)・ [СГК](cd_segm.md)・ [ССПД](mcntd.md)・ [ЦУП](scs.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <http://encyclopedia.mil.ru/encyclopedia/dictionary/details_rvsn.htm?:id=14607@morfDictionary>
 

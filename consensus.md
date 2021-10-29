@@ -133,7 +133,6 @@
 |**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md)・ [Аналитика](project.md)・ [Конценсус](consensus.md)・ [НПОЛ процессы](contact/нпол_п.md)・ [Словоблудие](verbiage.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Википедия:Консенсус>
    1. <https://ru.wikipedia.org/wiki/Консенсус>
    1. <https://en.wikipedia.org/wiki/Consensus>

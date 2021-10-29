@@ -26,7 +26,6 @@
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Быстрое_прототипирование>
    1. <https://ru.wikipedia.org/wiki/Прототип>
    1. <https://ru.wikipedia.org/wiki/Прототипирование>

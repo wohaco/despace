@@ -23,6 +23,8 @@ The systems engineering process is a discovery process that is quite unlike a ma
 
 
 ## Concept
+Systems engineering tools are strategies, procedures, & techniques that aid in performing systems engineering on a project or product. The purpose of these tools vary from database management, graphical browsing, simulation, & reasoning, to document production, neutral import/export & more.
+
 Systems engineering signifies only an approach and, more recently, a discipline in engineering. The aim of education in systems engineering is to formalize various approaches simply & in doing so, identify new methods & research opportunities similar to that which occurs in other fields of engineering. As an approach, systems engineering is holistic & interdisciplinary in flavour.
 
 **Origins & traditional scope.**  
@@ -70,10 +72,8 @@ Use of methods that allow early detection of possible failures, in safety engine
 ![](f/se/se_activities.png)
 
 
-### Systems engineering topics
-Systems engineering tools are strategies, procedures, & techniques that aid in performing systems engineering on a project or product. The purpose of these tools vary from database management, graphical browsing, simulation, & reasoning, to document production, neutral import/export & more.
 
-#### System
+### System
 There are many definitions of what a system is in the field of systems engineering. Below are a few authoritative definitions:
 
    - ANSI/EIA-632-1999: “An aggregation of end products & enabling products to achieve a given purpose“.
@@ -84,7 +84,8 @@ There are many definitions of what a system is in the field of systems engineeri
    - ISO/IEC 15288:2008: “A combination of interacting elements organized to achieve one or more stated purposes”.
    - [NASA Systems Engineering Handbook](nasa_seh.md): “➀ The combination of elements that function together to produce the capability to meet a need. The elements include all hardware, software, equipment, facilities, personnel, processes, & procedures needed for this purpose. ➁ The end product (which performs operational functions) & enabling products (which provide life‑cycle support services to the operational end products) that make up a system.”
 
-#### Systems engineering processes
+
+### Systems engineering processes
 
 Systems engineering processes encompass all creative, manual & technical activities necessary to define the product & which need to be carried out to convert a system definition to a sufficiently detailed system design specification for product manufacture & deployment. Design & development of a system can be divided into 4 stages, each with different definitions:
 
@@ -97,7 +98,8 @@ Depending on their application, tools are used for various stages of the systems
 
 ![](f/se/se_process.png)
 
-#### Using models
+
+### Using models
 
 Models play important & diverse roles in systems engineering. A model can be defined in several ways, including:
 
@@ -133,7 +135,7 @@ Once the requirements are understood, it is now the responsibility of a systems 
    - Lifecycle Modeling Language (LML), is an open‑standard modeling language designed for systems engineering that supports the full lifecycle: conceptual, utilization, support & retirement stages.
 
 
-#### Systems engineer
+### Systems engineer
 Systems engineers play an integral role in the success of businesses in many industries. They lay the foundation or blueprint for systems to begin conception, production, & realization of valuable operations. The International Council on Systems Engineering (INCOSE) dates the origin of systems engineering back to World War II (1940s) at Bell Telephone Laboratories. Today, systems engineering is a process that includes identifying a problem based on consumer needs & developing a solution that is constantly re‑evaluated throughout its execution. In short, systems engineers monitor the performance of systems & continually assess all stages of operations to ensure that a problem is solved.
 
 The American Society of Mechanical Engineers reported that systems engineers’ possess an in‑demand ability to apply an interdisciplinary approach to ensure technical needs are translated into step‑by‑step processes — in effect, producing efficient & effective results. A systems engineer will often collaborate with a project manager & the engineering team, & take the lead to translate between the two to facilitate the achievement of a successful system. The systems engineer will also work throughout each stage of the given system or process, from design & development to validation & operation, onto quantitative risk assessment, often focusing on performance, testing, scheduling, & costs. Due to the broad nature of the work, a systems engineer may work in virtually any industry, from software development & robotics, to nanotechnology or civil engineering.
@@ -265,6 +267,60 @@ The systems engineering process is a discovery process that is quite unlike a ma
 
 
 
+### Скунсовая фабрика
+> <small>**Скунсовая фабрика** — русскоязычный термин. **Skunk works** — англоязычный эквивалент.</small>
+
+**Скунсовая фабрика** — общее название небольшой [организации](contact.md), занимающейся быстрой разработкой продукта и быстрой пробой нового.
+
+   1. Docs: Скунсовые фабрики: мемуары моей работы в Локхид. Бэн Рич. [FB2 ❐](f/control/skunk_works.fb2), [PDF ❐](f/control/skunk_works.pdf)
+   1. <https://github.com/Infl1ght/skunk_works>
+   1. 2019.02.11 <https://mi3ch.livejournal.com/4407325.html> — [archived ❐](f/control/20190211_01.pdf) 2019.11.15
+
+Название происходит от созданной в 1943 году секретной лаборатории [Lockheed Martin](lockheed_martin.md), «Отдел перспективных разработок фирмы Lockheed»,  по тематике реактивной авиации, которая получила своё название в честь находящейся неподалёку фабрики пластмасс, запах от которой был не из приятных.
+
+Скунсовые фабрики характеризуется высокими темпами разработки, создания и испытания уникальной продукции, высокой интеграцией и требованиями к участникам, низким уровнем бюрократии, жёстким ограничением участвующих лиц, частым и близким общением с подрядчиками и заказчиком. Также разработчикам даны широкие полномочия и свобода выбора.
+
+Скунсовая фабрика Lockheed Martin позволила США в короткие сроки вступить в эпоху реактивных самолётов, а также выпустила множество передовых по тем временам самолётов (P‑80 Shooting Star, F‑104 Starfighter, U‑2 и SR‑71, F‑117A).
+
+**Некоторые представители:**
+
+   1. ESA’s CDF
+   1. Google’s GoogleX
+   1. Lockheed Martin Skunk Works (<https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks.html>)
+   1. NASA [GFSC](contact/gfsc.md)’s Architecture Design Lab
+   1. NASA [JPL’s Innovation Foundry](jpl_if.md) (A Team, Team X)
+   1. NASA [Scientific and technical information program](nasa_sti.md) (STI)
+
+**Правила:**
+
+   1. Руководитель Skunk Works должен иметь полный контроль над своим проектом. О ходе проекта он отчитывается как минимум вице‑президенту компании.
+   1. Небольшие, но сильные проектные группы создаются как заказчиком, так и подрядчиком.
+   1. Количество людей, так или иначе связанных с проектом, ограничивается самым решительным образом. Используйте небольшие группы квалифицированных специалистов.
+   1. Требования к оформлению чертежей должны быть максимально упрощены, чтобы упростить внесение изменений в проект.
+   1. Количество отчётов следует свести к минимуму, однако все важные работы должны тщательно фиксироваться.
+   1. Следует ввести ежемесячную отчётность как об использованных средствах и достигнутых целях, так и о планируемых затратах на завершение программы. Не подавайте отчёты с трёхмесячным опозданием и не ошарашивайте заказчика внезапными перерасходами.
+   1. Подрядчик должен иметь бо́льшую свободу и нести бо́льшую ответственность за привлечение сторонних организаций и субподрядчиков. Предложения коммерческих организаций зачастую гораздо более выгодны, нежели государственных.
+   1. Система контроля, использующаяся в Skunk Works, была одобрена Армией и Флотом США, соответствует всем требованиям и должна использоваться при разработке новых проектов. Делегируйте бо́льшую часть первичного контроля субподрядчикам и производителям. Не дублируйте контроль без необходимости.
+   1. Подрядчику должна быть предоставлена возможность провести лётные испытания продукта. В противном случае он быстро теряет [компетенцию](competence.md) в разработке подобных проектов.
+   1. Спецификации на оборудование согласуется заранее. Таким образом, обычная практика Skunk Works, при которой в спецификации чётко указывается, какие именно пункты технического задания не будут соблюдены и почему, является предпочтительной.
+   1. Финансирование программы должно быть своевременным. Подрядчик не финансирует государственные проекты за свой счёт.
+   1. Отношения между заказчиком и подрядчиком строятся на взаимном доверии, тесном сотрудничестве и ежедневном обмене информацией. Это уменьшает объёмы корреспонденции и риск недоразумений до минимума.
+   1. Доступ посторонних к проекту и его участникам строго регламентируется соответствующими мерами безопасности.
+   1. Так как непосредственно в проектировании занята очень небольшая часть участников проекта и значительно большая часть занимается другими работами, должна быть предусмотрена система оплаты труда и премирования, при которой сумма оплаты труда конкретного сотрудника не будет зависеть от количества его подчинённых.
+
+Восемь принципов инноваций Google:
+
+   1. Фокусируйся на пользователе.
+   1. Делись всем.
+   1. Ищи идеи везде.
+   1. Думай о большом, но начинай с малого.
+   1. Отсутствие ошибок — это ошибка.
+   1. Воображение — это зажигание. Данные — это топливо.
+   1. Будь платформой.
+   1. Имей миссию со смыслом.
+
+
+
 ### MBSE
 **[Model‑based systems engineering (MBSE)](mbse.md)** is a systems engineering methodology that focuses on creating & exploiting domain models as the primary means of information exchange between engineers, rather than on document‑based information exchange.
 
@@ -305,11 +361,10 @@ INCOSE defines MBSE as “Model‑based systems engineering (MBSE) is the formal
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Control](Control.md)】**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](mbse.md)・ [Meeting](meeting.md)・ [MCC](scs.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](mou.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](skunk_works.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
-|**【[Systems engineering](se.md)】**<br> [Competence](competence.md)・ [Coordinate system](coord_sys.md)・ [Designer’s supervision](des_spv.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [MBSE](mbse.md)・ [MML](mml.md)・ [Nav. & ballistics (NB)](nnb.md)・ [NASA SEH](nasa_seh.md)・ [Oberth effect](oberth_eff.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Skunk works](skunk_works.md)・ [SysML](sysml.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
+|**【[Control](Control.md)】**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](mbse.md)・ [Meeting](meeting.md)・ [MCC](scs.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](mou.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](se.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
+|**【[Systems engineering](se.md)】**<br> [Competence](competence.md)・ [Coordinate system](coord_sys.md)・ [Designer’s supervision](des_spv.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [MBSE](mbse.md)・ [MML](mml.md)・ [Nav. & ballistics (NB)](nnb.md)・ [NASA SEH](nasa_seh.md)・ [Oberth effect](oberth_eff.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Skunk works](se.md)・ [SysML](sysml.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
 
    1. Docs: [NASA Systems Engineering Handbook](nasa_seh.md)
-   1. Notable interwikies — …
    1. <https://www.onlineengineeringprograms.com/faq/what-does-a-systems-engineer-do>
    1. <https://en.wikipedia.org/wiki/Systems_engineering>
    1. <https://en.wikipedia.org/wiki/Model-based_systems_engineering>

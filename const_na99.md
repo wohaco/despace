@@ -29,5 +29,4 @@
 
    1. Docs:
       - [Положение НА-99 ❐](f/doc/polojenie_na-99.pdf)
-   1. Notable interwikies — …
    1. <…>

@@ -174,7 +174,7 @@
    - ≤ 500 ㎏ — Small satellites — Малые спутники
       - 100 ‑ 500 ㎏ — Minisatellites — Миниспутники
       - 10 ‑ 100 ㎏ — Microsatellites — Микроспутники
-      - 1 ‑ 10 ㎏ — Nanosatellites — Наноспутники (covers all Cube‑, Pocket‑, Tube‑, Sun‑, Thin‑Sats & non‑standard picosatellites)
+      - 1 ‑ 10 ㎏ — Nanosatellites — Наноспутники (all Cube‑, Pocket‑, Tube‑, Sun‑, Thin‑Sats & non‑standard picosats)
       - 0.1 ‑ 1 ㎏ — Picosatellites — Пикоспутники
       - 0.01 ‑ 0.1 ㎏ — Femtosatellites — Фемтоспутники
       - 0.001 ‑ 0.01 ㎏ — Attosatellites — Аттоспутники
@@ -190,8 +190,8 @@
 ## 3. Onboard equipment
 **Onboard equipment (OE)** *(ru. Бортовая аппаратура, БА)* — the general name of the equipment installed on the [SC](sc.md). Includes service equipment & payload.
 
-   - **Service equipment (SE)** *(ru. Служебная аппаратура (СА))* — the general name of the OE that ensures the functioning of the SC & the implementation of the target task by the SC.
-   - **Payload** *(ru. Научная аппаратура (НА), Комплекс научной аппаратуры (КНА), Полезная нагрузка (ПН))* — the general name of the OE used to implement the target task for a [SC](sc.md) & [SCS](scs.md).
+   - **Service equipment (SE)** *(ru. Служебная аппаратура, СА)* — the general name of the OE that ensures the functioning of the SC & the implementation of the target task by the SC.
+   - **Payload** *(ru. Научная аппаратура, НА, Комплекс научной аппаратуры, КНА, Полезная нагрузка, ПН)* — the general name of the OE used to implement the target task for a [SC](sc.md) & [SCS](scs.md).
 
 **A table.** Service equipment, Payload & their intersection
 
@@ -278,8 +278,7 @@ In common any onboard equipment can be basically described using the following t
 |Voltage, V| 【TBD: nominal, acceptable range for a constant work & for a transition periods】 |
 |**【Specific】**|• • •|
 |Specific req. #1| |
-|Specific req. #2| |
-|…| |
+|Specific req. #…| |
 | | 【TBD: photo, sketch, scheme, render, etc.】 |
 
 **Manufacturers**
@@ -306,7 +305,7 @@ In common any onboard equipment can be basically described using the following t
 <p style="page-break-after:always"> </p>
 
 ## 4. Structures, gears, materials
-**Structures, gears, materials (SGM)** *(ru. Конструктивные элементы, механизмы, материалы, КММ)* — elemets of SC or their parts.
+**Structures, gears, materials (SGM)** *(ru. Конструктивные элементы, механизмы, материалы, КММ)* — elements of SC or their parts.
 
 Below is a list & characteristics of materials used in the space (and not so) industry.
 
@@ -366,7 +365,6 @@ The use of the following materials in a SC (especially, in parts interacting wit
 
    1. Docs:
       - [ГОСТ 53802](гост_53802.md), п. 102‑103
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Payload>
    1. <https://www.spacematdb.com/>
    1. <https://en.wikipedia.org/wiki/Reusable_launch_system>

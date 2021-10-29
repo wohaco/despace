@@ -107,6 +107,5 @@ Janet Luhmann, and Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was form
    1. Docs:
       - [VEXAG GOI 2016 ❐](f/event/vexag/vexag_goi_2016.pdf)
       - [VEXAG GOI 2019 ❐](f/event/vexag/vexag_goi_2019.pdf)
-   1. Notable interwikies — …
    1. <https://www.lpi.usra.edu/vexag/>
    1. <https://www.lpi.usra.edu/vexag/reports/>

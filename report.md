@@ -150,5 +150,4 @@
 
    1. Docs:
       - [Оценка качества документа по методике о.512 ❐](f/doc/doc_quality_512.xlsx)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Доклад>

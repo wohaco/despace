@@ -38,6 +38,5 @@
 |**`Топливо:`**<br> [Кавитация](cavitation.md)・ [Мятый газ](exhsteam.md)・ [Нейтрализация КРТ](нейтрализация_крт.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Кавитация>
 

@@ -101,7 +101,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <http://ru.wikipedia.org/wiki/Сидерический_период>
    1. <http://ru.wikipedia.org/wiki/Синодический_период>
    1. <http://ru.wikipedia.org/wiki/Период_вращения>

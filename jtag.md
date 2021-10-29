@@ -82,7 +82,6 @@ Reduced pin count JTAG uses only two wires, a clock wire & a data wire. This is 
 |**【[Test](test.md)】**<br> [JTAG](jtag.md)・ [Proto fligt model](pfm.md)・ [Безэховая камера](ach.md)・ [Валидация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [КПЭО](ctpr.md)・ [Перечень методик испытаний](list_tp.md)・ [Программа и методика испытаний](pmot.md)・ [Опытный образец](pilot_sample.md)・ [Циклограмма](obc.md)・ [Штатный образец](flight_unit.md)・ [ЭО](test.md)・ [Экспериментально‑теоретический метод](etetm.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://grouper.ieee.org/groups/1149/1/> — official site
    1. <http://hri.sourceforge.net/tools/jtag_faq_org.html> — JTAG FAQ
    1. <https://en.wikipedia.org/wiki/JTAG>

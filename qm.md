@@ -437,7 +437,6 @@ Redundancy sometimes produces less, instead of greater reliability — it create
       - Шаблоны: [таблица рисков ❐](f/srrq/risks_summary.docx), [карточка риска ❐](f/srrq/risk_card_template.docx)
       - [NASA Risk management handbook ❐](f/srrq/nasa_sp_2011_3422.pdf)
       - [S3001: Guidelines for Risk Management ❐](f/srrq/s3001_guidelines_for_risk_management.pdf)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Quality_management>
    1. <http://ru.wikipedia.org/wiki/Качество_продукции>
    1. <http://ru.wikipedia.org/wiki/Надёжность>

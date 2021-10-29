@@ -172,7 +172,6 @@ Nominal voltages of familiar sources:
 |**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Space-based_solar_power>
    1. <https://ru.wikipedia.org/wiki/Система_энергоснабжения_космического_аппарата>
    1. <https://en.wikipedia.org/wiki/Sustainable_energy>

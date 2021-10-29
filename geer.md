@@ -120,7 +120,6 @@ The system boundaries were tested by increasing temperature & pressure to 470 
 |**【[Test](test.md)】**<br> [JTAG](jtag.md)・ [Proto fligt model](pfm.md)・ [Безэховая камера](ach.md)・ [Валидация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [КПЭО](ctpr.md)・ [Перечень методик испытаний](list_tp.md)・ [Программа и методика испытаний](pmot.md)・ [Опытный образец](pilot_sample.md)・ [Циклограмма](obc.md)・ [Штатный образец](flight_unit.md)・ [ЭО](test.md)・ [Экспериментально‑теоретический метод](etetm.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://geer.grc.nasa.gov/>
    1. <https://www.nasa.gov/feature/glenn/2019/small-but-mighty-mini-version-of-extreme-environments-chamber-extends-planetary-science>
 

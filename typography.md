@@ -41,7 +41,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Typography>
    1. <https://ru.wikipedia.org/wiki/Типографика>
    1. <https://ru.wikipedia.org/wiki/Википедия:Отбивка_знака_процента_от_предшествующей_цифры>

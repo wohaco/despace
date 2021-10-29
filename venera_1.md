@@ -134,5 +134,4 @@ During most of its flight, Venera 1 was spin stabilized. It was the first spac
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_1>

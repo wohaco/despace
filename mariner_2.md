@@ -164,6 +164,5 @@ Scientific experiments were based on the base of the spacecraft and the mast. Th
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/mariner_2>
    1. <https://ru.wikipedia.org/wiki/Маринер-2>

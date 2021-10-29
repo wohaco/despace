@@ -42,5 +42,4 @@
    1. Docs:
       - [О выборе количества ног ПУ ❐](f/lag/pust_o_vibore_kolichestva_nog.djvu) (2012)
       - [Баумана, ПУСМ с краш-опорами ❐](f/lag/lags_2020baumana.pdf) (2020)
-   1. Notable interwikies — …
    1. <…>

@@ -43,6 +43,5 @@
 
    1. Docs:
       - [Буклет о тепловых трубах ❐](f/tcs/heatpipe_01.pdf), 2016 г.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Heat_pipe>
    1. <http://ru.wikipedia.org/wiki/Тепловая_трубка>

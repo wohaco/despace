@@ -43,6 +43,5 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Единая_система_конструкторской_документации>
    1. <https://ru.wikisource.org/wiki/Категория:ГОСТы>

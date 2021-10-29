@@ -84,6 +84,7 @@
 |[Columbiad](contact/columbiad.md)   (ON)|·|L|·|·|·|Commercial low‑cost space launch|
 |[Concordia Univ.](contact/concordia_univ.md)   (QC)|E|·|·|·|·|Higher education|
 |[CPSX](contact/cpsx.md)   (ON)|E|·|P|·|·|Planetary science, exploration research, training|
+|[CSMC](contact/csmc.md)   (ON)|·|·|·|R|·|Space mining, resource extraction & exploration|
 |[CSS](contact/css.md)   (ON)|N|·|P|·|·|Sponsorship & promotion for Canadians in the space sector|
 |[Deltion Ltd](contact/deltion.md)   (ON)|·|·|·|R|·|Technology dev./improvement mostly for automation & robotics, Moon mining|
 |[DSS](contact/dss.md)   (NS)|N|·|·|R|·|CubeSats development. Student community|
@@ -171,6 +172,7 @@
 |[Disrupt Space](contact/disrupt_space.md)   (DE)|N|·|P|·|·|Startup accelerator, entrepreneurship, & community|
 |[Edinburgh Univ.](contact/edinburgh_univ.md)   (UK)|·|·|·|·|·|University of Edinburgh|
 |[Effective Space](contact/effective_space.md)   (UK)|·|·|·|·|·|Life‑extension & other in‑orbit services for sats|
+|[Endurosat](contact/endurosat.md)   (BG)|·|·|·|R|·|CubeSat R&D|
 |[ESRIC](contact/esric.md)   (LU)|·|·|·|·|·|…|
 |[Euroconsult](contact/euroconsult.md)   (FR)|·|·|·|C|·|Strategic, research, summits, training programs|
 |[EU Space Found.](contact/eu_space_foundation.md)   (PL)|·|·|P|·|·|Promote knowledge in science, engineering, technology & mathematics|
@@ -330,6 +332,7 @@
 |[Meltin](contact/meltin.md)   13|·|·|·|R|·|Robots, medical equip.|
 |[Mitsubishi Electric](contact/mitsubishi.md)   13|·|·|·|R|·|Near‑Earth sats, their components, ground segment|
 |[Mitsubishi HVI](contact/mitsubishi.md)   13|·|L|·|R|·|LV, rocket engines manuf. & testing, RCS, temp. sensors|
+|[Mitsui Bussan AS](contact/mitsui_bas.md)   1|·|L|·|R|·|Sat R&D, launch, deployment, operation|
 |[NAOJ](contact/naoj.md)   13|E|·|·|R|·|Observations, astronomy researches, promotes joint research programs|
 |[NDK](contact/ndk.md)   13|·|·|·|R|·|Outgas analysis system, crystal devices (oscillators, filters, transducers)|
 |[NEC Space Tech.](contact/nec.md)   13|·|·|·|R|·|Payload electrical & bus equip., antennas/spaceborne radar|
@@ -382,12 +385,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |【[KARI](contact/kari.md)   6】|E|L|P|R|·|Korea Aerospace Research Institute|
 |[Hanwha](contact/hanwha.md)   15|·|·|·|R|·|Engines|
-|[INNOSPACE](contact/innospace.md)   17|·|L|·|R|·|·|Hybrid Rocket Propulsion, sat launch|
-|[KAI](contact/kai.md)   15|·|L|·|R|·|·|R&D sats & LV|
-|[KAIST](contact/kaist.md)   6|E|·|·|·|·|·|Higher education|
+|[INNOSPACE](contact/innospace.md)   17|·|L|·|R|·|LV development, PS test & evaluation, engineering services|
+|[KAI](contact/kai.md)   15|·|L|·|R|·|R&D sats & LV|
+|[KAIST](contact/kaist.md)   6|E|·|·|·|·|Higher education|
 |[KASI](contact/kasi.md)   6|E|·|·|R|·|Research institute in astronomy & space science|
 |[KT SAT](contact/ktsat.md)   1|·|·|·|R|·|Telecomms|
-|[Perigee Aerospace](contact/perigee_as.md)   6|·|L|·|R|·|·|Small/medium orbital & sub‑orbital LV|
+|[NARA Space Tech.](contact/nara_st.md)   2|·|·|·|R|·|CubeSat & their components R&D, Testing, Consulting, Training|
+|[Perigee Aerospace](contact/perigee_as.md)   6|·|L|·|R|·|Small/medium orbital & sub‑orbital LV|
 |[Satrec Initiative](contact/satreci.md)   6|·|·|·|R|·|Earth observ., sats & their components, ground systems, analytics|
 |[SIIS](contact/siis.md)   6|·|·|·|R|·|Sat imagery provider|
 
@@ -585,7 +589,7 @@
 |[Loft Orbital](contact/loft_orb.md)|·|·|·|·|·|End‑to‑end service provider, sats|
 |[LPI](contact/lpi.md)|·|·|·|·|·|Lunar & Planetary Institute|
 |[Lunar Station Corp](contact/lunar_station_corp.md)|·|·|·|·|·|Consulting products/services for navigating, prospecting, surveying the Moon|
-|[Made In Space](contact/made_in_space.md)|·|·|·|R|·|Space settlement, technology investigations, off-Earth manufacturing|
+|[Made In Space](contact/made_in_space.md)|·|·|·|R|·|Space settlement, technology investigations, off‑Earth manufacturing|
 |[Mars Generation](contact/mars_generation.md)|E|·|P|·|·|Space education for youth, STEM|
 |[Mars Society](contact/mars_society.md)|E|·|P|·|·|Establishing a permanent human presence on Mars|
 |[Maxar Tech.](contact/maxar.md)|·|·|·|·|·|Спутники, механизмы|
@@ -665,7 +669,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — [Skunk works](skunk_works.md)
    1. <http://mentallandscape.com/V_Biographies.htm>
    1. <https://en.wikipedia.org/wiki/List_of_government_space_agencies>
    1. <https://ru.wikipedia.org/wiki/Список_космических_агентств>

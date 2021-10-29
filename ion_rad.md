@@ -237,7 +237,6 @@ Absorbed radiation doses (in Si) for 1 year of flight on a circular Lunar orbi
 |**【[External factors (EF)](ef.md)】**<br> [Astro.object](aob.md)・ [Atmosphere](atmosphere.md)・ [Atmosphere of Earth](earth.md)・ [Cosmic rays](cr.md)・ [EMI](emi.md)・ [Grav.waves](gravwave.md)・ [Ion.radiation](ion_rad.md)・ [Radio frequency](rf.md)・ [Solar phenomena](solar_ph.md)・ [Space debris](sdeb.md)・ [Standart conditions](sctp.md)・ [Time](time.md)・ [VA radiation belts](varb.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Dosimetry>
    1. <https://en.wikipedia.org/wiki/Ionizing_radiation>
    1. <https://ru.wikipedia.org/wiki/Доза_излучения>

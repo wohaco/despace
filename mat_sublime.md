@@ -32,5 +32,4 @@
 
    1. Docs:
       - Spacescaft systems engineering, 4th ed (2011, Fortesque, Swinerd, Stark)
-   1. Notable interwikies — …
    1. <…>

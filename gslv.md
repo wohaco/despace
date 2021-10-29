@@ -35,7 +35,7 @@
 |Масса старт./сух.|414 750 ㎏ / 53 450 ㎏|
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
-|[Fuel](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
+|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
 | |[![](f/lv/gslv/gslv_mk2_thumb.jpg)](f/lv/gslv/gslv_mk2.jpg)|
 
 **Выводимые массы.**
@@ -62,7 +62,7 @@
 |Масса старт./сух.|644 750 ㎏ / 76 000 ㎏|
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
-|[Fuel](fuel.md)|[HTPB](htpb.md) (ускорители), [АТ + НДМГ](at_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
+|[Fuel](fuel.md)|[HTPB](htpb.md) (ускорители), [АТ + НДМГ](nto_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
 | |[![](f/lv/gslv/gslv_mk3_thumb.jpg)](f/lv/gslv/gslv_mk3.jpg) [![](f/lv/gslv/gslv_mk3_launcher_thumb.jpg)](f/lv/gslv/gslv_mk3_launcher.jpg)|
 
 **Выводимые массы.**
@@ -91,7 +91,7 @@
 |Масса старт./сух.|414 750 ㎏ / 53 450 ㎏|
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
-|[Fuel](fuel.md)|[АТ + НДМГ](at_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
+|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
 | |[![](f/lv/gslv/gslv_thumb.jpg)](f/lv/gslv/gslv.png)|
 
 **Выводимые массы.**
@@ -115,7 +115,6 @@
 
    1. Docs:
       - [GSLV manual ❐](f/lv/gslv/gslv_manual_issue0_rev0_2004.djvu) (2004, issue 0 rev. 0)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Comparison_of_orbital_launch_systems>
    1. <https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle>
    1. <https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle_Mark_III>

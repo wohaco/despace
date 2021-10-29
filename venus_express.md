@@ -346,7 +346,6 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venus_Express>
    1. <https://ru.wikipedia.org/wiki/Венера-экспресс>
    1. <https://sci.esa.int/web/venus-express>

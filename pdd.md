@@ -49,5 +49,4 @@
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|
 
    1. Docs: [Solar Orbiter PDD ❐](f/doc/pdd_solar_orbiter_esa_2004.pdf) (2004 г)・ [EChO PDD ❐](f/doc/pdd_echo_esa_2013.pdf) (2013 г)
-   1. Notable interwikies — …
    1. <…>

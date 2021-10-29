@@ -39,5 +39,4 @@ NICM is in wide use across many NASA centers (and any organization proposing ins
    1. Docs:
       - [Cost systems comparison ❐](f/fs/cost_systems_comparison_2004.pdf) (2004, ESA)
       - [NICM, impact of mission class on cost ❐](f/fs/nicm_2016symposium.pdf) (2016, NASA JPL)
-   1. Notable interwikies — …
    1. <https://www.nasa.gov/offices/ocfo/functions/models_tools/nicm>

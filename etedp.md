@@ -28,5 +28,4 @@
 
    1. Docs:
       - [Вестник СГАУ №2 ❐](f/comms/skvoznoy_informacionniy_trakt-article01-2010.pdf), 2010 г.
-   1. Notable interwikies — …
    1. <…>

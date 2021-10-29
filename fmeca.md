@@ -41,6 +41,5 @@
 
    1. Docs:
       - [АВПКО — Методические материалы ❐](f/doc/rukovodstvo_avpko_metodicheskie_materialy_2011.pdf) *(Прикладная логистика, 2011 год)*
-   1. Notable interwikies — …
    1. [ГОСТ 27.310](гост_27_310.md) АВПКО, Основные положения.
    1. <https://en.wikipedia.org/wiki/Failure_mode,_effects,_and_criticality_analysis>

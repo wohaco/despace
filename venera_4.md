@@ -148,6 +148,5 @@ The lander was equipped with a rechargeable battery with a capacity sufficient f
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Венера-4>
    1. <https://en.wikipedia.org/wiki/Venera_4>

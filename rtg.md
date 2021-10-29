@@ -86,7 +86,6 @@ There is a concept of subcritical RTGs. The subcritical generator consists of a 
 |**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Радиоизотопный_термоэлектрический_генератор>
    1. <https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator>
    1. 2014.07.27 [Хабр: РИТЭГ: прозаичные тепло и электричество для космических аппаратов ⎆](https://habr.com/ru/post/231197/) — [archived ❐](f/archive/20140727_1.pdf) 2019.02.08

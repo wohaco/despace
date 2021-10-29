@@ -291,7 +291,6 @@ The spacecraft’s onboard computer system was contained in an Integrated Electr
 
 **Links:**
 
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/MESSENGER>
    1. <https://ru.wikipedia.org/wiki/Мессенджер_(АМС)>
    1. <https://www.nasa.gov/mission_pages/messenger/spacecraft/index.html> — MESSENGER / NASA

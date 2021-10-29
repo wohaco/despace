@@ -255,7 +255,6 @@ The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The ce
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_11>
    1. <https://en.wikipedia.org/wiki/Venera_12>
    1. <https://galspace.spb.ru/index499.html> *(архив [от 2019.12.21 ❐](f/project/v/venera_11_12/doc001.pdf))*

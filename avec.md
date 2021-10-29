@@ -41,5 +41,4 @@
 
    1. Docs:
       - [Презентация с LPSC2019 ❐](f/tests/avec_doc01.pdf)
-   1. Notable interwikies — …
    1. <…>

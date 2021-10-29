@@ -237,6 +237,5 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
    1. Docs:
       - [Venus Mobile Explorer ❐](f/project/v/venus_mobile_explorer/20091218_nasa_venus_mobile_explorer.pdf) (NASA, 2009)
-   1. Notable interwikies — …
    1. <https://solarsystem.nasa.gov/studies/200/venus-mobile-explorer/>
    1. <https://www.researchgate.net/publication/326559184_Future_of_Venus_Research_and_Exploration>

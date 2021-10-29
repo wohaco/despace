@@ -40,6 +40,5 @@ As of 2017, China was constructing an additional ground station in South America
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Chinese_Deep_Space_Network>
 

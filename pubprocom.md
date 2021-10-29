@@ -25,7 +25,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <http://www.consultant.ru/law/podborki/zakrytyj_konkurs/>
    1. <http://www.my-tender.ru/?:_escaped_fragment_=/content/otkrytyy_i_zakrytyy_konkurs#!/content/otkrytyy_i_zakrytyy_konkurs|my-tender.ru>
    1. <https://ru.wikipedia.org/wiki/Открытый_конкурс>

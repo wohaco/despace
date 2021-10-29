@@ -75,6 +75,5 @@ For the astrophysics review see Astronomy and Astrophysics Decadal Survey.
 |**【[Project](project.md)】**<br> [Interferometer](interferometer.md)・ [NASA open](nasa_open.md)・ [NASA STI](nasa_sti.md)・ [NIH](nih.md)・ [Past, future and everything](pfaeverything.md)・ [PSDS](us_psds.md) [MGSC](mgsc.md)・ [Raman spectroscopy](raman_spsc.md)・ [SC price](sc_price.md)・ [SC typical forms](sc.md)・ [Tech derivative laws](td_laws.md)・ [View](view.md)・ [XRF](xrf.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Planetary_Science_Decadal_Survey>
    1. <https://solarsystem.nasa.gov/science-goals/about/>

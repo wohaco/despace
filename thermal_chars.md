@@ -66,7 +66,6 @@ Heat transfer occurs at a lower rate in materials of low thermal conductivity th
 |**【Thermal control system (TCS)】**<br> [Thermal characteristics](thermal_chars.md)・ [Гермоконтейнер](гермоконтейнер.md)・ [Насосы для СОТР](сотр_насос.md)・ [Покрытия для СОТР](сотр_покрытия.md)・ [Радиатор](радиатор.md)・ [РИТ (РИТЭГ)](rtg.md)・ [Стандартные условия](sctp.md)・ [Тепловая труба](hp.md)・ [ТЗП](hs.md)・ [Тепловой аккумулятор](heat_bank.md)・ [ТСП](tsp.md)・ [Шторка](thermal_curtain.md)・ [ЭВТИ](mli.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Thermal_conductivity>
    1. <https://en.wikipedia.org/wiki/Thermal_resistance>
    1. <http://www.teplotim.ru/table_kteplo_sort.html>

@@ -170,7 +170,6 @@ The VSR team noted that the Venus Sample Return mission concept would be potenti
 
    1. Docs:
       - [Venus sample return mission revisited ❐](f/project/v/venus_sample_return_mission/valentiand_venus_sample_return_mission_revisited_r2.pdf)
-   1. Notable interwikies — …
    1. <https://www.jpl.nasa.gov/news/news.php?feature=5902>
    1. <https://www.cosmos.esa.int/documents/1866264/3219248/ValentianD_Venus+sample+return+mission+revisited_r2.pdf>
    1. <https://forum.kerbalspaceprogram.com/index.php?/topic/113010-venus-surface-sample-return-mission/>

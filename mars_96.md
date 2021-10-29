@@ -41,6 +41,5 @@
 
    1. Docs:
       - [Слайды ❐](f/project/марс‑96/mars_96_slides.pdf)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Mars_96>
    1. <https://ru.wikipedia.org/wiki/Марс‑96>

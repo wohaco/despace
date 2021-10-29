@@ -264,7 +264,6 @@ ASI:
 
 **Links:**
 
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Cassini%E2 %80 %93Huygens>
    1. <https://ru.wikipedia.org/wiki/Кассини-Гюйгенс>
    1. <https://www.nasa.gov/mission_pages/cassini/main/index.html>

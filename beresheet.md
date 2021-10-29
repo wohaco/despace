@@ -100,7 +100,6 @@
 
    1. Docs:
       - [Подборка материалов СМИ за 2019.02 ❐](f/project/b/beresheet/201902_docs.pdf)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/SpaceIL>
    1. <https://ru.wikipedia.org/wiki/SpaceIL>
    1. <https://space.skyrocket.de/doc_sdat/beresheet.htm>

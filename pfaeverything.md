@@ -19,5 +19,4 @@
 
    1. Docs:
       - [NASA SMD mission handbook ❐](f/doc/2012_nasa_smd_mission_handbook.pdf)
-   1. Notable interwikies — …
    1. <…>

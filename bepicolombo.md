@@ -222,7 +222,6 @@ Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equat
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
 
    1. <https://en.wikipedia.org/wiki/BepiColombo>
    2. [BepiColombo](http://www.esa.int/Our_Activities/Space_Science/BepiColombo/BepiColombo_factsheet) − European Space Agency, ESA

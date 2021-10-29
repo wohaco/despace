@@ -127,5 +127,4 @@
 
    1. Docs:
       - [Материалы НИР 2015 ❐](f/project/луна‑28/2015_lgr_nir_full_archive.7z)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Луна‑28>

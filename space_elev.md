@@ -29,6 +29,5 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Space_elevator>
    1. <https://ru.wikipedia.org/wiki/Космический_лифт>

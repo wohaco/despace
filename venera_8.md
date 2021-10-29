@@ -180,7 +180,6 @@ In order to determine the illumination of the surface of the planet, necessary f
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Венера-8>
    1. <https://en.wikipedia.org/wiki/Venera_8>
    1. <https://galspace.spb.ru/index491.html>

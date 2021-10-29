@@ -63,7 +63,6 @@ Efforts to remedy the perceived domination of STEM subjects by men of Asian and 
 
 **Links:**
 
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics>
    1. <https://missionstem.nasa.gov/diversity-inclusion-leadrshp.html> — STEM from NASA
    1. 2018.10.23 <https://www.liga.net/society/opinion/chto-takoe-stem-i-pochemu-on-vajen-v-sovremennom-obrazovanii>

@@ -711,7 +711,6 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
       - [KK VD NTO IKI RAN](f/project/v/venera_d/KK_VD_NTO_IKI_RAN.pdf)
       - [Report 1](f/project/v/venera_d/Report_1.pdf)
       - [Venera-D Phase Ⅱ Final Report](f/project/v/venera_d/Venera_DPhaseIIFinalReport.pdf)
-   1. Notable interwikies — …
    1. <http://venera-d.cosmos.ru/>
    1. <https://en.wikipedia.org/wiki/Venera-D>
    1. <https://ru.wikipedia.org/wiki/Венера‑Д>

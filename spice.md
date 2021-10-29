@@ -37,5 +37,4 @@ The SPICE system’s logical components and the actual data files — the kernel
 
    1. Docs:
       - [Презентация, ИКИ РАН, Ледков, 2015 ❐](f/soft/spice_20150101_1.pdf)
-   1. Notable interwikies — …
    1. <https://naif.jpl.nasa.gov/naif/toolkit.html>

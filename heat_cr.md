@@ -30,6 +30,5 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Heat_capacity_ratio>
    1. <http://ru.wikipedia.org/wiki/Показатель_адиабаты>

@@ -92,7 +92,6 @@
       - [ТУ1‑809‑615‑2012 ❐](f/sgm/splav-01570_ty1-809-615-2012.pdf)
       - [Паспорт 01570 ❐](f/sgm/splav-01570_passport_1984.pdf) (1984 год)
       - ТУ 1‑809‑1177‑2009 (сплав 1570C)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Aluminium>
    1. <http://splav-kharkov.com/mat_start.php?:name_id=1433>
    1. <http://metallicheckiy-portal.ru/marki_metallov/alu/AMg6>

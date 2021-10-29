@@ -70,7 +70,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <http://working-papers.ru/dokladnaja-zapiska-obrazec1.html>
    1. <http://sovetnik.consultant.ru/obyasnitelnaya_zapiska/kak_pravilno_napisat_obyasnitelnuyu_zapisku_obrazec/>
    1. <http://www.russtartup.ru/znaniya/obrazets-ob-yasnitel-noj-zapiski.html>

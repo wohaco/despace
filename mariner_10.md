@@ -204,5 +204,4 @@ Thermal blankets & a sunshade were installed on the main body. After evaluating 
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. — 352 стр.: ил.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/mariner_10>

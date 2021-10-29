@@ -39,6 +39,5 @@ Conceptual model may refer to models which are formed after a conceptualization 
 |**`Модель:`**<br> [DEM](digital_elev_model.md)・ [SPICE](spice.md)・ [ВДМ](vd_model.md)・ [Лимит](limit.md)・ [МИХ](mic.md)・ [Осциллятор](oscillator.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Conceptual_model>
    1. <https://ru.wikipedia.org/wiki/Модель>

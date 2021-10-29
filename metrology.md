@@ -56,7 +56,6 @@
 |**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. [ГСИ](sseum.md)
    1. [Ошибки](error.md) — частые ошибки.
    1. <https://ru.wikipedia.org/wiki/Метрология>

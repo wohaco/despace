@@ -96,6 +96,5 @@
 
    1. Docs:
       - Авиация: Энциклопедия. — М.: Большая Российская Энциклопедия. Главный редактор Г.П. Свищев. 1994.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Time>
    1. <https://ru.wikipedia.org/wiki/Время>

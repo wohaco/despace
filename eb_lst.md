@@ -14,7 +14,7 @@ A list of [Electric batteries](eb.md).
 
 
 
-### 8LI-70 (70 A·h, RU)
+### 8LI-70 (RU, 70 A·h)
 **8LI-70** *(ru. 8ЛИ‑70)* — Li‑Ion electric battery by [Saturn](пао_сатурн.md). Designed in …
 
 |*Characteristics*|*[Value](si.md)<br> (8LI-70)*|
@@ -55,7 +55,7 @@ A list of [Electric batteries](eb.md).
 
 <p style="page-break-after:always"> </p>
 
-### 8S8P (30 A·h, EU)
+### 8S8P (EU, 30 A·h)
 
 **8S8P VES16** — Li‑Ion electric battery by [Saft](contact/saft.md). Designed in 2014.
 
@@ -98,7 +98,7 @@ A list of [Electric batteries](eb.md).
 
 <p style="page-break-after:always"> </p>
 
-### 12LI-120 (120 A·h, RU)
+### 12LI-120 (RU, 120 A·h)
 **12LI-120** *(ru. 12ЛИ‑120)* — Li‑Ion electric battery by [Saturn](пао_сатурн.md). Designed in …
 
 |*Characteristics*|*[Value](si.md)<br> (12LI-120)*|
@@ -152,5 +152,4 @@ A list of [Electric batteries](eb.md).
 |**【[Chemical source of electricity (CSE), Electric battery (EB)](eb.md)】**<br> [Charge efficiency](charge_eff.md) <br>• • •<br> **EU:** [8S8P](eb_lst.md) (30)  ▮  **RU:** [8LI-70](eb_lst.md) (70)・ [12LI-120](eb_lst.md) (120)|
 
    1. Docs:
-   1. Notable interwikies — …
    1. <…>

@@ -1774,7 +1774,6 @@ This list of tasks is approximate. The main completed tasks are listed here. For
       - Current page notable contributors — [Dmitry Gorinov](person.md), [Maxim Petrov](person.md)
       - [Atmospheric model VIRA-30 ❐](f/aob/venus/atmo_model_vira_30.ods) by Vega-1,2.
       - [Venus surface ❐](f/aob/venus/2003_alexander_t_basilevsky_rep_prog_phys_66_r04.djvu) (A. Basilevsky, J. Head, 2003)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera>
    1. <https://en.wikipedia.org/wiki/Venus>
    1. <https://en.wikipedia.org/wiki/4MV>

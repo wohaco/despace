@@ -232,7 +232,6 @@ The aerostat’s electronics provided unidirectional communication with the Eart
 
    1. Docs:
       - [Vega, Description and scientific objectives ❐](f/project/вега/vg_desc.pdf) (1984 ‑ 1986)
-   1. Notable interwikies — …
    1. <ttps://ru.wikipedia.org/wiki/Вега_(АМС)>
    1. <https://en.wikipedia.org/wiki/Vega_program>
    1. <https://www.laspace.ru/projects/planets/vega_1_2/> — Automatic interplanetary stations Vega 1 and Vega 2

@@ -45,5 +45,4 @@
 
    1. Docs:
       - [ГОСТ 18707](гост_18707.md)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Электромагнитная_совместимость>

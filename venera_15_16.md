@@ -239,7 +239,6 @@ General view of the spacecraft Venera 15 and Venera 16 with radar equipment 
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_15>
    1. <https://ru.wikipedia.org/wiki/Венера-15>
    1. <https://en.wikipedia.org/wiki/Venera_16>

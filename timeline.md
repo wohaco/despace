@@ -45,6 +45,5 @@
 |**`Циклограмма (ЦГМ):`**<br> [Точки Лагранжа](l_points.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Циклограмма>
    1. <https://ru.wiktionary.org/wiki/циклограмма>

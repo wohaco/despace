@@ -85,7 +85,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. [ЕСКД](eskd.md)
    1. [ЕСТД](estd.md)
    1. [СПДС](sddfc.md)</small>

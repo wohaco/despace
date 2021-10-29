@@ -23,5 +23,4 @@
 
    1. Docs:
       - [ГОСТ 2.102](гост_2_102.md)
-   1. Notable interwikies — …
    1. <…>

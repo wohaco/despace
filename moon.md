@@ -561,7 +561,6 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 
    1. Docs:
       - [Модели грунта ❐](f/aob/moon/moon_soil_model.7z)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Astronomical_symbols>
    1. <https://en.wikipedia.org/wiki/Moon>
    1. <https://en.wikipedia.org/wiki/Mass_concentration_(astronomy)>

@@ -204,7 +204,6 @@ Pioneer Venus Orbiter was based on the HS-507 bus. The spacecraft was a flat cyl
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Pioneer_Venus_Orbiter>
    1. <http://galspace.spb.ru/index503.html>
    1. <https://www.nasa.gov/centers/ames/missions/archive/pioneer-venus.html>

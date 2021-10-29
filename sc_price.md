@@ -56,7 +56,6 @@
 |**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md)・ [Невозвратные затраты](sunk_cost.md)・ [Номинал](nominal.md)・ [Оценка стоимости работ на НПОЛ](contact/lav.md)・ [Секвестр](budget_seq.md)・ [Стоимость аппарата в граммах](sc_price.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <http://goldomania.ru/menu_003_003.html> — [archived ❐](f/archive/20191021_1.pdf) 2019.10.21
    1. 2017.10.09 [Сколько стоит космос](https://habr.com/ru/post/373875/) — [archived ❐](f/archive/20171009_1.pdf) 2019.01.28
 

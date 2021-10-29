@@ -47,7 +47,6 @@
 |**`Измеритель скорости и расстояния (ИСР):`**<br> … <br>• • •<br> **РФ:** [ДИСД-Р](дисд‑р.md) ()・ [ДИСД-ЛР](дисд‑лр.md) ()|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Доплеровский_измеритель>
    1. <https://ru.wikipedia.org/wiki/Доплеровский_измеритель_скорости_и_сноса>
    1. <http://www.ball.com/aerospace/markets-capabilities/capabilities/instruments-sensors/laser-lidar-imaging>

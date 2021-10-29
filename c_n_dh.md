@@ -58,6 +58,5 @@ The key parts of this system are:
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://mars.nasa.gov/mro/mission/spacecraft/parts/command/>
    1. <https://www.ruag.com/en/products-services/space/electronics/satellite-and-launcher-computers/command-and-data-handling-systems>

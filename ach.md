@@ -47,7 +47,6 @@ Performance expectations (gain, efficiency, pattern characteristics, etc.) const
 |**`Электромагнитная совместимость (ЭМС):`**<br> [Безэховая камера](ach.md)・ [Помехи](emi.md) (EMI, RFI)・ [СКЭ](elmsys.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Anechoic_chamber>
    1. <https://ru.wikipedia.org/wiki/Безэховая_камера>
 

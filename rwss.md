@@ -67,6 +67,5 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Rotating_wheel_space_station>
    1. <https://ru.wikipedia.org/wiki/Космические_города‑бублики>

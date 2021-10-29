@@ -29,6 +29,5 @@
 |**`Система аварийного спасения (САСП):`**<br> …|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Launch_escape_system>
    1. <https://ru.wikipedia.org/wiki/Система_аварийного_спасения>

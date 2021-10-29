@@ -27,6 +27,5 @@
 |**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md)・ [Невозвратные затраты](sunk_cost.md)・ [Номинал](nominal.md)・ [Оценка стоимости работ на НПОЛ](contact/lav.md)・ [Секвестр](budget_seq.md)・ [Стоимость аппарата в граммах](sc_price.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Секвестр>
 

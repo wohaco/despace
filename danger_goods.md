@@ -40,7 +40,6 @@
 |**`Экология:`**<br> [Класс опасности](danger_goods.md)・ [Нейтрализация КРТ](нейтрализация_крт.md)・ [Околоземное космическое пространство](near_space.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Dangerous_goods>
    1. <https://ru.wikipedia.org/wiki/Класс_опасности>
 

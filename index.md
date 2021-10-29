@@ -69,7 +69,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ACS** — [attitude control system](acs.md)| |
 | |**AIT** — Assembly, integration, testing|≠ Сборка, интеграция, отработка|
 | |**AIV** — Assembly, integration, validation|≠ Сборка, интеграция, проверка|
-| |**AMBR** — [advanced material bipropellant rocket](ambr.md)|≠ **AMBR** — двухкомпонентный двигатель из передовых материалов|
+| |**AMBR** — [advanced material bipropellant rocket](engine_lst.md)|≠ **AMBR** — двухкомпонентный двигатель из передовых материалов|
 | |**ASAP** — as soon as possible|≠ Как можно скорее|
 | |**ASP** — [Ames stereo pipeline](ames_stereo_pipeline.md)|≠ Стереотруба центра Эймса|
 | |**AVEC** — [APL’s Venus environment chamber](avec.md)|≠ **АВЕК** — камера условий на Венере Лаборатории прикладной физики|
@@ -99,7 +99,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |・**[Dragon](dragon.md)**|≠ Дракон|
 |**E**|**ECSS** — European cooperation for space standardization| |
 | |**EDLS** — entry, descent & landing system| |
-| |**[Elevator pitch/speech](elevator_pitch.md)**|[Презентация для лифта](elev_pitch.md)|
+| |**[Elevator pitch/speech](elevator_pitch.md)**|[Презентация для лифта](elevator_pitch.md)|
 | |**EMI** — electromagnetic interference|[Помехи](emi.md)|
 | |**EOM** — end of mission| |
 | |**ESOC** — European space operations centre| |
@@ -117,7 +117,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**GIMP** — [GNU image manipulation program](gimp.md)|≠ **Гимп** — программа для манипулирования изображениями от ГНУ|
 | |**[Git](git.md)**|≠ Гит|
 | |**Green paper**|Зелёная книга (see [Цветные книги](colour_papers.md))|
-|**H**|**HiPAT** — [high performance liquid apogee thruster](hipat.md)|≠ **HiPAT** — высокопроизводительный жидкостной апогейный двигатель|
+|**H**|**HiPAT** — [high performance liquid apogee thruster](engine_lst.md)|≠ **HiPAT** — высокопроизводительный жидкостной апогейный двигатель|
 | |**HTAE** — [high thrust apogee engine](htae.md)|≠ **HTAE** — апогейный двигатель с высокой тягой|
 | |┕|≈ Here, there, & everywhere (песня Beatles)|
 | |**HTPB** — [hydroxyl-terminated polybutadiene](htpb.md)|**HTPB** — полибутадиен с концевыми гидроксильными группами|
@@ -130,6 +130,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**International designator / NSSDC ID / COSPAR ID** (see [SpaceID](spaceid.md))|Номер полёта (see [SpaceID](spaceid.md))|
 | |**ISBN** — [international standard book number](isbn.md)|Международный стандартный книжный номер|
 | |**ISIS** — [information storage & retrieval systems](isis.md)| |
+| |**ISRU** — [in‑situ resource utilization](isru.md)|≠ Использование местных ресурсов|
 | |**ITAR** — [international traffic in arms regulations](itar.md)|≠ Правила международной торговли оружием|
 |**J**|**JPL IF** — [JPL Innovation Foundry](jpl_if.md)|≠ Инновационный цех JPL|
 | |**JT** — jupiter tessellation (see [CAD‑форматы](cad_f.md))| |
@@ -179,7 +180,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**SPICE** — [spacecraft planet instrument C‑matrix events](spice.md)|≠ Космический аппарат, планета, прибор, ориентация, события|
 | |**SRRQ** — [Safety, reliability, risk, quality](qm.md)|≠ Безопасность, надёжность, риск, качество|
 | |**SSC GGSN** — [Swedish Space Corporation’s global ground station network](ssc_ggsn.md)|≠ **SSC GGSN** — Глобальная сеть наземных станций Шведской Космической Корпорации|
-| |**SSME** — Space Shuttle main engine|≠ **SSME** — главный двигатель космического челнока, он же двигатель [RS-25](rs_25.md)|
+| |**SSME** — Space Shuttle main engine|≠ **SSME** — главный двигатель космического челнока, он же двигатель [RS-25](engine_lst.md)|
 | |**SSR** — [solid state recorder](ds_lst.md)|Твердотельное записывающее устройство|
 | |**[STEM](stem.md)** — science, technology, engineering, & mathematics|≠ **STEM** — наука, технология, инженерия и математика|
 | |**STEP** — standard for exchange of product model data (see [CAD‑форматы](cad_f.md))|**STEP** — стандарт обмена данными модели изделия|
@@ -253,9 +254,9 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**АСУ** — автоматические системы управления|**A/PS** — autopilot system|
 | |**АСУП** — автоматизированная система управления полётом|**FCS** — flight control system|
 | |**АСЭС** — автоматизированная система электронного согласования договорных документов|≠ Automated contract approval system|
-| |**АТ** — [азотный тетраоксид](at.md)|**NTO** — dinitrogen tetroxide / nitrogen tetroxide|
+| |**АТ** — [азотный тетраоксид](nto.md)|**NTO** — dinitrogen tetroxide / nitrogen tetroxide|
 | |┕|≈ **MON** — mixed oxides of nitrogen|
-| |**АТ + НДМГ** — [азотный тетраоксид и несимметричный диметил гидразин](at_plus.md)|**NTO + UDMH** — dinitrogen tetroxide + unsymmetrical dimethylhydrazine|
+| |**АТ + НДМГ** — [азотный тетраоксид и несимметричный диметил гидразин](nto_plus.md)|**NTO + UDMH** — dinitrogen tetroxide + unsymmetrical dimethylhydrazine|
 | |**Амосфера**|Atmosphere|
 | |**АТТ** — аксиальная тепловая труба (see [ТТ](hp.md))|**HP** — heat pipe|
 | |**АФС** — антенно‑фидерная система (see [АФУ](afdev.md))|**AFDEV** — antenna feeder device|
@@ -558,7 +559,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Кворум](quorum.md)**|Quorum|
 | |**КВП** — коаксиально‑волноводный переход|**CTWT** — coaxial-to-waveguide transducer|
 | |**КГО** — квази‑геостационарная орбита (see [ВЭО](nnb.md))|**HEO** — highly elliptical orbit|
-| |**кгс** — килограмм‑сила (see [СИ, формулы](si.md))|**kgf** — ㎏‑force|
+| |**кгс** — килограмм‑сила (see [СИ, формулы](si.md))|**㎏f** — ㎏‑force|
 | |**КГЧ** — [космическая головная часть](lv.md)|Integrated payload unit|
 | |**КГЭ** — канал геометрического эталона|≠ Channel of geometric etalon|
 | |**КД** — [конструкторская документация](doc.md)|**DDM** — design documentation|
@@ -969,7 +970,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ППП** — платформа прецизионных приборов|≠ Precision instruments plate|
 | |**ППТ** — пиропатрон|Pyrocartridge|
 | |**ППУ** — приёмо‑передающее устройство|Transceiver|
-| |**[Презентация для лифта](elev_pitch.md)**|[Elevator pitch/speech](elevator_pitch.md)|
+| |**[Презентация для лифта](elevator_pitch.md)**|[Elevator pitch/speech](elevator_pitch.md)|
 | |**ПРИ** — предварительные испытания|Preliminary test|
 | |**Приказ**|Decree|
 | |**[Принцип Питера](peter_principle.md)**|Peter principle|
@@ -1130,7 +1131,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**СКС-Р** — региональная станция космической связи|≠ Regional space communications station|
 | |**СКС-Ц** — центральная станция космической связи|≠ Central space communications station|
 | |**СКТ** — [система координат](coord_sys.md)|Coordinate system|
-| |**[Скунсовая фабрика](skunk_works.md)**|Skunk works|
+| |**[Скунсовая фабрика](se.md)**|Skunk works|
 | |**СКЭ** — [система контроля электризации](elmsys.md)|≠ Electrification monitoring system|
 | |**[Слайс](слайс.md)**|Slice|
 | |**СЛИН** — служебная информация|≠ Service data|

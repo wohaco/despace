@@ -133,7 +133,6 @@ M = E − e • sin⁡ E, где:
 |**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md)・ [Апоцентр и перицентр](apopericentre.md)・ [Гравманёвр](gravass.md)・ [Кеплеровы элементы](keplerian.md)・ [Космическая скорость](esc_vel.md)・ [Сфера Хилла](hill_sphere.md)・ [Терминатор](terminator.md)・ [Точки Лагранжа](l_points.md)・ [Эффект Оберта](oberth_eff.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Kepler_orbit>
    1. <https://ru.wikipedia.org/wiki/Кеплеровы_элементы_орбиты>
 

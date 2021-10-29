@@ -155,7 +155,6 @@ The spacecrafts were equipped with parabolic high‑gain antennas (the antennas 
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Венера-5>
    1. <https://en.wikipedia.org/wiki/Venera_5>
    1. <https://ru.wikipedia.org/wiki/Венера-6>

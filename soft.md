@@ -200,7 +200,6 @@ GPL предоставляет получателям компьютерных �
 
    1. Docs:
       - [Каталог ПО NASA за 2019 ‑ 2020 гг. ❐](f/soft/nasa_software_catalog_2019_2020.pdf)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Software>
    1. <https://ru.wikipedia.org/wiki/Программное_обеспечение>
    1. 2016.10.02 [На чём пишут в NASA?: ⎆](https://tproger.ru/articles/nasa-programming-language/)

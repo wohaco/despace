@@ -34,7 +34,6 @@ HTPB применяется в качестве связующего окисл�
 
    1. Docs:
       - [Solid propellants: AP/HTPB composite propellants ❐](f/fuel/htpb_1-s2.0-s1878535215000106-main.djvu)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Hydroxyl-terminated_polybutadiene>
    1. <https://ru.wikipedia.org/wiki/Полибутадиен_с_концевыми_гидроксильными_группами>
    1. <http://www.alternatewars.com/BBOW/Space/Propellants.htm> — [archived ❐](f/fuel/alternatewars_com_spacecraft_propellants.djvu) 2017.12.25

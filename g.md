@@ -42,7 +42,6 @@
 |**`СИ, формулы:`**<br> [Атмосфера](atmosphere.md)・ [Квази](quasi.md)・ [Параллакс](parallax.md)・ [Парсек](parsec.md)・ [Ускорение свободного падения](g.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Gravitational_acceleration>
    1. <https://ru.wikipedia.org/wiki/Ускорение_свободного_падения>
 

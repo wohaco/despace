@@ -28,7 +28,7 @@
 |Olympus 593|4|
 |J-58|5.2|
 |[С5.92](engine_lst.md)|26.6|
-|[SSME](rs_25.md)|73.12|
+|[SSME](engine_lst.md)|73.12|
 |РД-180|73.4|
 |F-1|94.1|
 |[Merlin 1C](engine_lst.md)|96|
@@ -47,6 +47,5 @@
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](engine_type.md)・ [Газовый двигатель](engine_type.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](engine_type.md)・ [ЖРД](engine_type.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](engine_type.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](engine_type.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](engine_type.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Thrust-to-weight_ratio>
    1. <https://ru.wikipedia.org/wiki/Тяговооружённость>

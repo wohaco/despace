@@ -48,5 +48,4 @@
 
    1. Docs:
       - ГОСТ 1.1-2002 МГСС. Термины и определения
-   1. Notable interwikies — …
    1. <http://ru.wikipedia.org/wiki/Унификация>

@@ -32,7 +32,7 @@
 |Масса старт./сух.|87 000 ㎏ / … ㎏|
 |Разраб./изготов.|[ISA](contact/isa.md) (Иран) / [ISA](contact/isa.md) (Иран)|
 |Ступени|3|
-|[Fuel](fuel.md)|[АТ + Красная дымящая азотная кислота](at_plus.md)|
+|[Fuel](fuel.md)|[АТ + Красная дымящая азотная кислота](nto_plus.md)|
 | |[![](f/lv/simorgh/simorgh_01_thumb.jpg)](f/lv/simorgh/simorgh_01.png) [![](f/lv/simorgh/simorgh_02_thumb.jpg)](f/lv/simorgh/simorgh_02.jpg)|
 
 **Выводимые массы.**
@@ -63,7 +63,6 @@
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Simorgh_(rocket)>
    1. <https://ru.wikipedia.org/wiki/Simorgh>
    1. <https://space.skyrocket.de/doc_lau/simorgh.htm>

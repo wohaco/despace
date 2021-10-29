@@ -56,7 +56,7 @@
 | |[KBHM](contact/kbhm.md)|**Liq. (1c.)** — [DOT‑5](engine_lst.md) (5)・ [DOC‑10](engine_lst.md) (10)・ [DOT‑25](engine_lst.md) (25)・ [DOC‑50](engine_lst.md) (50);<br> **Liq. (2c.)** — [S5.140](engine_lst.md) (6)・ [S5.142](engine_lst.md) (25)・ [S5.145](engine_lst.md) (50)・ [S5.144](engine_lst.md) (100)・ [S5.146](engine_lst.md) (200)・ [DMT‑500](engine_lst.md) (500)・ [255U.487](engine_lst.md) (600)・ [255U.530](engine_lst.md) (600)・ [DMT‑1000](engine_lst.md) (1 000)・ [DMT‑2200](engine_lst.md) (2 200)・ [S5.154](engine_lst.md) (4 300)・ [S5.175](engine_lst.md) (4 650)・ [S5.120](engine_lst.md) (5 880)・ [14D30](engine_lst.md) (19 620)・ [S5.92](engine_lst.md) (19 620)・ [KVD1](engine_lst.md) (69 650)・ [S5.86](engine_lst.md) (73 570);<br> **【Archived】** *Liq. (2c.) — [S5.78](engine_lst.md) (6 000)*|
 | |[NIIMASH](contact/niimash.md)|**Liq (2c.)** — [17D58E](engine_lst.md) (13)・ [11D457](engine_lst.md) (54)・ [11D428A‑16](engine_lst.md) (126)・ [17D16](engine_lst.md) (196)・ [11D458](engine_lst.md) (392);<br> **Gas** — [MD08](engine_lst.md) (0.8)・ [MD5](engine_lst.md) (5);<br> **【Archived】** *Liq. (2c.) — [RDMT3](engine_lst.md) (3)・ [RDMT10](engine_lst.md) (10)・ [RDMT50](engine_lst.md) (50)・ [RDMT100](engine_lst.md) (100)・ [RDMT2600](engine_lst.md) (2 600)*|
 |•|• • • • • • • •|• • •|
-|**US**|[Aerojet R/D](aerojet_rocketdyne.md)|**Liq. (2c.)** — [R‑6](r_6.md) (22)・ [R‑1E](r_1e.md) (111)・ [HiPAT](hipat.md) (445)・ [R‑4D](r_4d.md) (490)・ [AMBR](ambr.md) (667)・ [R‑42](r_42.md) (890)・ [R‑40](r_40.md) (3 930)・ [RS‑25](rs_25.md) (1 980 000)|
+|**US**|[Aerojet R/D](aerojet_rocketdyne.md)|**Liq. (2c.)** — [R‑6](engine_lst.md) (22)・ [R‑1E](engine_lst.md) (111)・ [HiPAT](engine_lst.md) (445)・ [R‑4D](engine_lst.md) (490)・ [AMBR](engine_lst.md) (667)・ [R‑42](engine_lst.md) (890)・ [R‑40](engine_lst.md) (3 930)・ [RS‑25](engine_lst.md) (1 980 000)|
 | |[Blue Origin](blue_origin.md)|**Liq. (2c.)** — [BE‑7](engine_lst.md) (40 000)・ [BE‑3](engine_lst.md) (580 000)・ [BE‑4](engine_lst.md) (2 400 000);<br> **【Archived】**<br> *Liq. (1c.) — [BE‑1](engine_lst.md) (9 000);<br> Liq. (2c.) — [BE‑2](engine_lst.md) (140 000)*|
 | |[Nammo](nammo.md)|**Liq. (2c.)** — [LEROS 1b](engine_lst.md) (635)・ [LEROS 1c](engine_lst.md) (458)・ [LEROS 2b](engine_lst.md) (407)・ [LEROS 4](engine_lst.md) (1 100)|
 | |[SpaceX](contact/spacex.md)|**Liq. (2c.)** — [Draco](engine_lst.md) (400 ‑ 71 000)・ [Merlin](engine_lst.md) (410 000 ‑ 480 000)・ [Raptor](engine_lst.md) (1 700 000 ‑ 3 500 000);<br> **【Archived】** *Liq. (2c.) — [Kestrel](engine_lst.md) (3 110)*|
@@ -96,7 +96,6 @@
    1. Docs:
       - [Warm Gas Propulsion for Small Satellites ❐](f/ps/warm_gas_propulsion_for_small_satellites.djvu)
       - [List of ㎅KhM current & historical engines (2010) ❐](f/ps/kbhm_engines.ods)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Electrically_powered_spacecraft_propulsion>
    1. <https://en.wikipedia.org/wiki/Spacecraft_propulsion>
    1. <https://ru.wikipedia.org/wiki/Двигательная_установка_космического_аппарата>

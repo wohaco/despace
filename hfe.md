@@ -35,7 +35,6 @@
 |**`Эргономика:`**<br> [ПЭО](ermap.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Human_factors_and_ergonomics>
    1. <https://ru.wikipedia.org/wiki/Эргономика>
 

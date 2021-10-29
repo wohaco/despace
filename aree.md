@@ -58,7 +58,6 @@
 |**【[Rover](robot.md)】**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://www.nasa.gov/feature/automaton-rover-for-extreme-environments-aree>
    1. <https://en.wikipedia.org/wiki/Automaton_Rover_for_Extreme_Environments>
    1. 2017.04.10 [В НАСА одобрили очередные «безумные» проекты по колонизации космоса ⎆](https://ria.ru/20170410/1491926649.html) — [archived ❐](f/archive/20170410_1.pdf) 2019.02.15

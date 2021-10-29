@@ -54,6 +54,5 @@ A CONOPS Standard is available to guide the development of a CONOPS document. Th
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Concept_of_operations>
    1. <http://sewiki.ru/CONOPS>

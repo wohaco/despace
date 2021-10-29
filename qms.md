@@ -28,5 +28,4 @@
 
    1. Docs:
       - [РК‑11](const_rk.md), стр.21.
-   1. Notable interwikies — …
    1. <…>

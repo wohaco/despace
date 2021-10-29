@@ -432,7 +432,6 @@ Regulations & terms:
 |**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](draft_model.md)・ [СхО](draft_model.md)・ [СхПЗ](draft_model.md)・ [СхЧ](draft_model.md)・ [СхЭ](draft_model.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <http://everyspec.com/>
    1. <https://en.wikipedia.org/wiki/Documentation>
    1. <https://ru.wikipedia.org/wiki/Документация>

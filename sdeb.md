@@ -22,6 +22,5 @@
 
    1. Docs:
       - [ГОСТ 53802](гост_53802.md)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Космический_мусор>
 

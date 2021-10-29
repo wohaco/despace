@@ -208,7 +208,6 @@ M2 — масса второго тела.
 |**`Циклограмма (ЦГМ):`**<br> [Точки Лагранжа](l_points.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Lagrangian_point>
    1. <https://en.wikipedia.org/wiki/Lagrange_point_colonization>
    1. <https://ru.wikipedia.org/wiki/Колонизация_точек_Лагранжа>

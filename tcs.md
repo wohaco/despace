@@ -95,7 +95,6 @@ Usually includes:
 |**【Thermal control system (TCS)】**<br> [Thermal characteristics](thermal_chars.md)・ [Гермоконтейнер](гермоконтейнер.md)・ [Насосы для СОТР](сотр_насос.md)・ [Покрытия для СОТР](сотр_покрытия.md)・ [Радиатор](радиатор.md)・ [РИТ (РИТЭГ)](rtg.md)・ [Стандартные условия](sctp.md)・ [Тепловая труба](hp.md)・ [ТЗП](hs.md)・ [Тепловой аккумулятор](heat_bank.md)・ [ТСП](tsp.md)・ [Шторка](thermal_curtain.md)・ [ЭВТИ](mli.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Система_терморегуляции_космического_аппарата>
    1. <https://en.wikipedia.org/wiki/Spacecraft_thermal_control>
    1. 2014.08.21 [Хабр: О космическом тепле и холоде ⎆](https://habr.com/ru/company/dauria/blog/234121/) — [archived ❐](f/archive/20140821_1.pdf) 2019.02.08

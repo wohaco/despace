@@ -77,7 +77,6 @@ The technique was first demonstrated in 2010 by Kazuyuki Hirao’s laboratory at
 
    1. Docs:
       - [ЗУ, template](templates.md)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Data_storage>
    1. <https://ru.wikipedia.org/wiki/Запоминающее_устройство>
    1. <https://en.wikipedia.org/wiki/5D_optical_data_storage>

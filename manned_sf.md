@@ -23,7 +23,6 @@
 |**`Пилотируемый космический аппарат (ПКА):`**<br> [ПКП](manned_sf.md)・ [САСП](les.md)・ [СЖО](ls.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Human_spaceflight>
    1. <https://ru.wikipedia.org/wiki/Пилотируемый_космический_полёт>
    1. <https://ru.wikipedia.org/wiki/Категория:Пилотируемый_космический_полёт>

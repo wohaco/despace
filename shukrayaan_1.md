@@ -140,6 +140,5 @@ Allan Variance (1 30 sec): ≤1.2 × 10⁻¹³
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Shukrayaan-1>
    1. <https://www.reddit.com/r/ISRO/comments/dslc83/couple_of_slides_from_isro_presentation_at_venus/>

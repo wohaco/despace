@@ -40,6 +40,5 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Международный_стандартный_номер_книги>
    1. <https://en.wikipedia.org/wiki/International_Standard_Book_Number>

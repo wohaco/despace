@@ -172,7 +172,6 @@ The whole stack was 3.6 m high and weighted around 1 000 ㎏.
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_2>
    1. <https://en.wikipedia.org/wiki/Venera_3>
    1. <https://galspace.spb.ru/index495.html>

@@ -138,7 +138,6 @@ The primary power for the mission is a dual system of solar panels (photovoltaic
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Parker_Solar_Probe>
    1. <https://ru.wikipedia.org/wiki/Паркер_(солнечный_зонд)>
    

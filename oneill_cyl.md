@@ -21,7 +21,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/O%27Neill_cylinder>
    1. <https://ru.wikipedia.org/wiki/Остров_III>
 

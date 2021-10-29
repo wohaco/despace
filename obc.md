@@ -70,6 +70,5 @@ Varieties:
 |**【[On-board computer (OBC)](obc.md)】**<br> … <br>• • •<br> **RU:** [МПК-003](obc_lst.md) (9)・ [БИВК-МР](obc_lst.md) (8)・ [МАРС 4](obc_lst.md) (8)・ [БИВК-Р](obc_lst.md) (7.1)・ [МАРС 7](obc_lst.md) (6)・ [МПК-002](obc_lst.md) (3.9)・ [ЦВМ-12](obc_lst.md) (2.2)・ [БКУ_SXPA](obc_lst.md) (0.35)・ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](obc_lst.md) (2.1))*|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Компьютер>
 

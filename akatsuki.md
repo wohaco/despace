@@ -156,9 +156,9 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 |**Total:**|**517.6**| |
 
 **Propulsion system** includes:  
-• 1 × 500 N (51 ㎏f) primary engine on [Dinitrogen tetroxide + Hydrazine](at_plus.md),  
-• 12 × 23 N (2.3 ㎏f) correction engines on [Hydrazine](гидразин.md),  
-• 4 × 3 N (0.3 ㎏f) correction engines on [Hydrazine](гидразин.md).  
+• 1 × 500 N (51 ㎏f) primary engine on [Dinitrogen tetroxide + Hydrazine](nto_plus.md),  
+• 12 × 23 N (2.3 ㎏f) correction engines on [Hydrazine](hydrazine.md),  
+• 4 × 3 N (0.3 ㎏f) correction engines on [Hydrazine](hydrazine.md).  
 The first spacecraft to use silicon nitride brake engines.
 
 **Communication** is carried out in the [X‑band](rf.md) at a frequency of 8 ㎓, a transmitter with a power of 20 W.  
@@ -331,7 +331,6 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
       - [Page directory](f/project/a/akatsuki/)
       - [Brochure ❐](f/project/a/akatsuki/brochure01.pdf)
       - [Overview of Venus orbiter, Akatsuki ❐](f/project/a/akatsuki/eps_2011_02_009.pdf)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Акацуки_(космический_аппарат)>
    1. <https://en.wikipedia.org/wiki/Akatsuki_(spacecraft)>
    1. <https://global.jaxa.jp/projects/sas/planet_c/> — project overview

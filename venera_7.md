@@ -143,6 +143,5 @@ In connection with the increase of almost 100 ㎏ of the mass of the lander in
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_7>
    1. <https://galspace.spb.ru/index490.html>

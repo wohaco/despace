@@ -53,5 +53,4 @@ The **Search & Rescue Complex (SARC)** — a part of [SCS](scs.md) — designed 
    1. Docs:
       - [Вводный комплект документов ❐](f/sarc/2018_intro.7z) (2018)
       - [ПСК КА «Фобос‑Грунт» ❐](f/sarc/2011_phobos-grunt.odt) (2011)
-   1. Notable interwikies — …
    1. <…>

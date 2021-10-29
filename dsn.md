@@ -31,7 +31,6 @@ DSN является частью [Лаборатории реактивного
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/NASA_Deep_Space_Network>
    1. <https://ru.wikipedia.org/wiki/Сеть_дальней_космической_связи_НАСА>
    1. <https://deepspace.jpl.nasa.gov/>

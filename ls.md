@@ -64,7 +64,6 @@
 
    1. Docs:
       - [Восприятие пространства и времени в космосе ❐](f/scs/man/vospriyatie_prostranstva_vremeni_v_kosmose_1968.pdf) (1968, Москва, Наука)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Life_support_system>
    1. <https://ru.wikipedia.org/wiki/Система_жизнеобеспечения>
    1. <https://utcaerospacesystems.com/space/>

@@ -31,6 +31,5 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/ЕСТД>
    1. <https://ru.wikisource.org/wiki/Категория:ГОСТы>

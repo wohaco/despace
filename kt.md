@@ -46,6 +46,5 @@
 
    1. Docs:
       - [Критические технологии ❐](f/kt/key_technologies_2015.djvu) (УГАТУ, 2015)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Перечень_критических_технологий_Российской_Федерации>
    1. <http://studopedia.org/9-86592.html>

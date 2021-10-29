@@ -139,20 +139,20 @@
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
 |Mach number / [Adiabatic exponent](heat_cr.md)| |
-|Press. — comb. chamber, ㎫ (kgf/㎝²)| |
-|Press. — engine entrance, ㎫ (kgf/㎝²)| |
-|Press. — nozzle cut, ㎫ (kgf/㎝²)| |
+|Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
+|Press. — engine entrance, ㎫ (㎏f/㎝²)| |
+|Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (kgf)| |
+|Thrust, N (㎏f)| |
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switching frequency, ㎐| |
-|Thrust — [res.impulse](ing.md), N·s (kgf·s), ≤| |
+|Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
-|Thrust — total impulse, N·s (kgf·s), ≥| |
+|Thrust — total impulse, N·s (㎏f·s), ≥| |
 |Thrust — total pulses, ≥| |
-|Thrust — total thrust, N (kgf), ≥| |
+|Thrust — total thrust, N (㎏f), ≥| |
 |Thrust — total thrust duration, s, ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
 | |[![](f/ps/.jpg)](f/ps/.jpg)|

@@ -73,7 +73,6 @@ Two common albedos that are used in astronomy are the (V‑band) geometric albed
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Albedo>
    1. <https://ru.wikipedia.org/wiki/Альбедо>
    2. <https://en.wikipedia.org/wiki/Bond_albedo>

@@ -162,7 +162,6 @@ The Blue Book of Building & Construction, was a yellow pages‑like buyers guide
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Белая_книга>
    1. <https://en.wikipedia.org/wiki/White_paper>
    1. <https://habr.com/ru/post/450244/> — Как писать и продвигать White Paper?:

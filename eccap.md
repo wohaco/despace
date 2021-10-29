@@ -40,5 +40,4 @@
 
    1. Docs:
       - [ГОСТ 56531](гост_56531.md)
-   1. Notable interwikies — …
    1. <…>

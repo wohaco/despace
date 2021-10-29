@@ -140,7 +140,6 @@ List of galvanic cells & electric accumulators.
 |**【[Chemical source of electricity (CSE), Electric battery (EB)](eb.md)】**<br> [Charge efficiency](charge_eff.md) <br>• • •<br> **EU:** [8S8P](eb_lst.md) (30)  ▮  **RU:** [8LI-70](eb_lst.md) (70)・ [12LI-120](eb_lst.md) (120)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. 2019.08.02 [Есть ли альтернатива литий‑ионному аккумулятору? ⎆](https://habr.com/ru/company/toshibarus/blog/462185/) — [archived ❐](f/sps/20190802_1_01.pdf) 2019.08.04
    1. <https://ru.wikipedia.org/wiki/Химический_источник_тока>
    1. <https://en.wikipedia.org/wiki/Rechargeable_battery>

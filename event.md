@@ -49,5 +49,4 @@
    1. Docs:
       - [События, template](templates.md)
       - [Командировка зарубеж, расчёт стоимости ❐](f/event/meeting_calc.ods)
-   1. Notable interwikies — …
    1. <…>

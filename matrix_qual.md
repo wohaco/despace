@@ -23,5 +23,4 @@
    1. Docs:
       - [ГОСТ ИСО 9001](gost_iso_9001.md)
       - [Основы управления надёжностью КА с ДСЭ ❐](f/doc/osnovy_upravleniya_nadejnostiu_2015.pdf), со стр. 144
-   1. Notable interwikies — …
    1. <…>

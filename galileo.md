@@ -292,7 +292,6 @@ The RTGs produced about 570 W at launch. The power output initially decreased 
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Galileo_(spacecraft)>
    1. <https://www.space.com/18632-galileo-spacecraft.html> — Spacecraft Galileo: To Jupiter and Its Moons
    1. <https://www.jpl.nasa.gov/missions/galileo/> — MISSION TO JUPITER / Galileo

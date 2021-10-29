@@ -51,7 +51,6 @@
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Государственный_заказ>
    1. <https://ru.wikipedia.org/wiki/Договор>
    1. <https://ru.wikipedia.org/wiki/Трудовой_договор>

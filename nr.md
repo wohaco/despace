@@ -60,7 +60,6 @@
 |**`Ядерный реактор (ЯР):`**<br> …|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Ядерный_реактор>
    1. <https://ru.wikipedia.org/wiki/Ядерные_реакторы_на_космических_аппаратах>
    1. <https://en.wikipedia.org/wiki/Nuclear_reactor>

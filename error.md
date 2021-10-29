@@ -104,7 +104,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 |К|°К| |
 |°/s или угловой градус в секунду|град/с| |
 |°/ч|град/час| |
-|Па (kgf/㎝²)|kgf/㎝²; кГс/㎝²; ㎏/㎝²| |
+|Па (㎏f/㎝²)|㎏f/㎝²; кГс/㎝²; ㎏/㎝²| |
 |Ом|Ом∙м| |
 |Гр или Гр (рад)|рад| |
 |Дж|дж| |
@@ -183,7 +183,6 @@ This manual contains a list of common errors in operation & [documentation](doc.
 |**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 
    1. Docs: [Do not do their work for others ❐](f/doc/20191106_1.pdf)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/List_of_common_misconceptions>
    1. <https://en.wikipedia.org/wiki/Survivorship_bias>
    1. <https://ru.wikipedia.org/wiki/Систематическая_ошибка_выжившего>

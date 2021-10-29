@@ -52,5 +52,4 @@ The term Tradespace has the following trademark registrations against it:
 
 **Links:**
 
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Tradespace>

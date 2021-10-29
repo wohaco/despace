@@ -77,6 +77,5 @@ In 21CFR820.3(h), design review is described as *“documented, comprehensive, s
 
    1. Docs:
       - [Design Review: MRR ❐](f/rnd/design_review_mrr.pdf)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Design_review>
    1. <https://en.wikipedia.org/wiki/Design_review_(US_Government)>

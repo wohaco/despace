@@ -38,7 +38,6 @@
 |**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Google_Lunar_X_Prize>
    1. <https://ru.wikipedia.org/wiki/Google_Lunar_X_PRIZE>
 

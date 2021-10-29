@@ -291,7 +291,6 @@ The lander was a sealed double-walled titanium pressure vessel of spherical shap
 
    1. Docs: …
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.: ил.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_9>
    1. <https://en.wikipedia.org/wiki/Venera_10>
    1. <https://ru.wikipedia.org/wiki/Венера-9>

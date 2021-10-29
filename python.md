@@ -57,7 +57,6 @@ Python — активно развивающийся язык программи
 |**【[Software](soft.md)】**<br>[ASP](asp.md)・ [Blender](blender.md)・ [C](c.md)・ [Cosmographia](cosmographia.md)・ [DOORS](doors.md)・ [DWG]((cad_fmd)・ [GIMP](gimp.md)・ [Git](git.md)・ [IGES]((cad_fmd)・ [ISIS](isis.md)・ [JT]((cad_fmd)・ [NGT](neogeography_toolkit.md)・ [NX](nx.md)・ [Octave](gnu_octave.md)・ [PDF](pdf.md)・ [Python](python.md)・ [R](r.md)・ [SPICE](spice.md)・ [STEP]((cad_fmd)・ [STL](systems_tool_kit.md)・ [SVG]((cad_fmd)・ [Syncthing](syncthing.md)・ [Teamcenter](teamcenter.md)・ [Система управления версиями](vcs.md)・ [ХРИП](adra.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://www.python.org/>
    1. <https://wiki.python.org/>
    1. <https://code.nasa.gov/?:q=python>

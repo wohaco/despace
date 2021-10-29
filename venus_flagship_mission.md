@@ -598,5 +598,4 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
    1. Docs:
       - [Page directory](f/project/v/venus_flagship_mission/)
       - [NASA’s Solar System Exploration (SSE) Roadmap (2006) ❐](f/project/n/nasa_sse_roadmap_2006.pdf)
-   1. Notable interwikies — …
    1. <https://vfm.jpl.nasa.gov/>

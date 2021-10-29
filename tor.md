@@ -268,17 +268,12 @@ Please note these are the common sections of a TOR template. They can be changed
 |*Sections & pages*|
 |**`Documents:`**<br> …|
 
-**Doc:**
-
-   - TOR:
-      1. TOR. [Sample #1 ❐](f/doc/tor_sample1.pdf), [Template #1 ❐](f/doc/tor_template1.doc).
-   - ТЗ:
-      1. [ГОСТ 15.102](гост_15_102.md)
-      1. [Оценка качества документа по методике о.512 ❐](f/doc/doc_quality_512.xlsx)
-
-**Links:**
-
-   - Notable interwikies — …
+   - Docs: …
+      - TOR:
+         1. TOR. [Sample #1 ❐](f/doc/tor_sample1.pdf), [Template #1 ❐](f/doc/tor_template1.doc).
+      - ТЗ:
+         1. [ГОСТ 15.102](гост_15_102.md)
+         1. [Оценка качества документа по методике о.512 ❐](f/doc/doc_quality_512.xlsx)
    - TOR:
       1. <https://en.wikipedia.org/wiki/Terms_of_reference>
       1. <https://mymanagementguide.com/terms-of-reference-tor-template/>

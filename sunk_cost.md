@@ -28,7 +28,6 @@
 |**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md)・ [Невозвратные затраты](sunk_cost.md)・ [Номинал](nominal.md)・ [Оценка стоимости работ на НПОЛ](contact/lav.md)・ [Секвестр](budget_seq.md)・ [Стоимость аппарата в граммах](sc_price.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Sunk_cost>
    1. <https://ru.wikipedia.org/wiki/Невозвратные_затраты>
    1. 2017.12.23 [Как ошибка невозвратных затрат может разорить разработчика игр](https://habr.com/post/345242/) — [archived ❐](f/archive/20171223_1.pdf) 2019.01.28

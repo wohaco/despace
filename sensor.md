@@ -247,7 +247,6 @@ Etc:
 
    1. Docs:
       - [ЗД, template](templates.md) / [СД, template](templates.md)
-   1. Notable interwikies — …
    1. Sensor:
       1. <https://en.wikipedia.org/wiki/Sensor>
    1. ЗД:

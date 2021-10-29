@@ -95,7 +95,6 @@ TMP:
 
    1. Docs:
       - [General radiolink calculation ❐](f/comms/radiolink_calc_full.zip)
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Система_передачи_информации_космического_аппарата>
    1. <https://ru.wikipedia.org/wiki/Радиосвязь>
    1. <http://www.radioscanner.ru/>

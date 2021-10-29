@@ -42,5 +42,4 @@
 
    1. Docs:
       - [ГОСТ ИСО 14644-1](gost_iso_14644_1.md)
-   1. Notable interwikies — …
    1. <…>

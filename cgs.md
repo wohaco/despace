@@ -64,7 +64,6 @@
       - [Сравнение обычных баллонов и капиллярных ❐](f/sgm/cgs_doc01.ods)
       - [Зависимость плотности водорода от давления и температуры ❐](f/sgm/h_density.ods)
       - [Статья о капиллярном хранении ❐](f/sgm/cgs_doc02.pdf) (Н.К. Жеваго, Курчатовский институт)
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Carbon_nanotube>
    1. <https://en.wikipedia.org/wiki/Natural_gas_storage>
    1. <http://fundcnt.com/technology-2/>

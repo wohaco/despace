@@ -37,7 +37,6 @@
 |**【Thermal control system (TCS)】**<br> [Thermal characteristics](thermal_chars.md)・ [Гермоконтейнер](гермоконтейнер.md)・ [Насосы для СОТР](сотр_насос.md)・ [Покрытия для СОТР](сотр_покрытия.md)・ [Радиатор](радиатор.md)・ [РИТ (РИТЭГ)](rtg.md)・ [Стандартные условия](sctp.md)・ [Тепловая труба](hp.md)・ [ТЗП](hs.md)・ [Тепловой аккумулятор](heat_bank.md)・ [ТСП](tsp.md)・ [Шторка](thermal_curtain.md)・ [ЭВТИ](mli.md)|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <http://военная‑энциклопедия.рф/советская‑военная‑энциклопедия/Т/Теплозащитные‑покрытия>
    1. <http://www.ngpedia.ru/id280235p1.html>
 

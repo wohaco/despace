@@ -314,7 +314,6 @@ The cameras were installed inside the airtight and thermally insulated compartme
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Venera_13>
    1. <https://en.wikipedia.org/wiki/Venera_14>
    1. <http://galspace.spb.ru/index500.html> *(archive [2019.12.22 ❐](f/project/v/venera_13_14/doc001.pdf))*

@@ -7,7 +7,7 @@
 
 > <small>**JPL Innovation Foundry (JPL IF)** — англоязычный термин, не имеющий аналога в русском языке. **Инновационный цех JPL** — дословный перевод с английского на русский.</small>
 
-**JPL’s Innovation Foundry (JPL IF)** — it’s an office within [JPL](contact/jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL’s program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA’s [Skunk Works](skunk_works.md).
+**JPL’s Innovation Foundry (JPL IF)** — it’s an office within [JPL](contact/jpl.md) that coordinates & provides leadership for all JPL activities associated with the development & capture of business opportunities. Working in partnership with JPL’s program directorates, the Foundry facilitates & guides advanced studies, concept development, & proposal support; ensures the excellence of our technical infrastructure, tools, & personnel for innovative project formulation. The JPL IF works with many [Principal Investigators](principal_investigator.md) & partners from other space centers, universities, & industry. NASA’s [Skunk Works](se.md).
 
    - JPL supports the science community to ideate, mature, & propose concepts for new NASA missions.
    - Continuously «system engineer» requirements & solutions to develop compelling new missions.
@@ -148,8 +148,7 @@ A big part of the Team X philosophy is that good pre‑project design is just as
    1. Docs:
       - [Презентация, 2013 год ❐](f/con/j/jpl_2013_case_presentation.pdf)
       - [Презентация, 2017 год ❐](f/con/j/jpl_2017_presentation.pdf)
-   1. Notable interwikies — …
-   1. [Skunk Works](skunk_works.md)
+   1. [Skunk Works](se.md)
    1. <https://jplfoundry.jpl.nasa.gov/>
    1. <https://jplteamx.jpl.nasa.gov/>
    1. <https://scienceandtechnology.jpl.nasa.gov/jpls-dream-team>

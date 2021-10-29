@@ -278,7 +278,6 @@ The computing system on the spacecraft, partially modified equipment from the Ga
 
    1. Docs:
       - П. С. Шубин — Венера. Неукротимая планета. Издание второе, расширенное и дополненное. М.: Издательство «Голос‑Пресс»; Кемерово: издатель П. С. Шубин, 2018. – 352 стр.
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Magellan_(spacecraft)>
    1. <http://galspace.spb.ru/index504.html> — archive [2019.12.22 ❐](f/project/m/magellan/doc001.pdf)
    1. <https://solarsystem.nasa.gov/missions/magellan/in-depth/>

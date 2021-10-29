@@ -457,7 +457,6 @@ The first international conference to discuss the scientific investigations of t
       - [Page directory](f/project/e/envision/)
       - [Proposal_M5_5oct2016 ❐](f/envision/doc001.pdf)
       - [EnVision_CDF_IFP_2018_Summary ❐](f/envision/doc002.pdf)
-   1. Notable interwikies — …
    1. <https://envisionvenus.eu/>
    1. <https://en.wikipedia.org/wiki/EnVision_(spacecraft)>
    1. <https://twitter.com/envisionvenus>

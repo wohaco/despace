@@ -211,6 +211,5 @@
       - [ГОСТ 16504](гост_16504.md)
       - [Положение РК-11](const_rk.md)
       - ЭО: [РК‑11](const_rk.md), стр. 22.
-   1. Notable interwikies — …
    1. <https://ru.wikipedia.org/wiki/Испытания_средств_выведения_космических_аппаратов>
    1. <http://www.iki.rssi.ru/kis/>

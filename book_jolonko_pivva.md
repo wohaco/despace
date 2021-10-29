@@ -44,5 +44,4 @@
 
    1. Docs:
       - [Пилотируемые исследования Венеры водородными аэростатами ❐](f/aob/venus/jolonko_pilotiryemye_2013.pdf) (Н.Н. Жолонко, 2013, Черкассы)
-   1. Notable interwikies — …
    1. <…>

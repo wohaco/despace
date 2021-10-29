@@ -60,7 +60,6 @@ NDA enforcement — это практически невыполнимая за�
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
-   1. Notable interwikies — …
    1. <https://en.wikipedia.org/wiki/Non-disclosure_agreement>
    1. <https://ru.wikipedia.org/wiki/Соглашение_о_неразглашении>
    1. 2010.04.18 <https://habr.com/ru/post/88058/> — [archived ❐](f/archive/20100418_1.pdf) 2019.02.21

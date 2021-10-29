@@ -538,7 +538,6 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
       - КСИСО: [ГОСТ 53802](гост_53802.md), п. 51
       - КИК: <https://ru.wikipedia.org/wiki/Категория:Командно‑измерительный_комплекс>
       - ЦУП: [ГОСТ 53802](гост_53802.md), п. 41‑42
-   1. Notable interwikies — …
    1. SCS:
       1. <https://en.wikipedia.org/wiki/Attitude_control>
       1. <https://en.wikipedia.org/wiki/Ground_segment>

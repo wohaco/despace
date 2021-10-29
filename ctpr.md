@@ -57,5 +57,4 @@
 
    1. Docs:
       - ГОСТ Р 56516
-   1. Notable interwikies — …
    1. <…>

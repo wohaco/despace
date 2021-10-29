@@ -28,6 +28,5 @@ This term is defined in ECSS-S-ST-00-01C as flight model on which a partial or c
 
    1. Docs:
       - [ГОСТ 56469](гост_56469.md)
-   1. Notable interwikies — …
    1. <https://ecss.nl/glossary/protoflight-model/>
    1. <https://www.eetimes.com/document.asp?:doc_id=1318780>
