@@ -59,7 +59,7 @@ Several approaches to the classification of robots can be used — for example, 
 | |**RU**|[ExoMars Rover](exomars_rover.md) (2020)|[Prop_M](проп_м.md)|
 | |**US**|[MSRM](msrm.md) (2022)・ [Mars 2020 RV](mars_2020_rv.md) (2020)・ [Opportunity](opportunity.md)|[Curiosity](curiosity.md)・ [Spirit](spirit.md)・ [Sojourner](sojourner.md)|
 
-**Designers, manufacturers:**
+【**Table.** Manufacturers】
 
 | | |
 |:--|:--|
@@ -121,7 +121,7 @@ Robots also can be used as scouts to check out new areas to be explored. Scout r
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Robot](robot.md)】**<br> [Rover](robot.md)|
 |**【[Rover](robot.md)】**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md)|

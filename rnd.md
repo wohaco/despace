@@ -48,7 +48,7 @@ Common spacecraft R&D team:
    1. **Project manager**
    1. Electrical engineer
    1. External environment engineer
-   1. GNC engineer
+   1. GNC engineer (incl. ballistics)
    1. Ground systems engineer
    1. Mechanical engineer
    1. Payload engineer
@@ -106,12 +106,17 @@ Common spacecraft R&D team:
 ## Steps
 
 ### Formal steps
-| |*Этап*|*Phase*|
+
+【**Table.** R&D stages】  
+АП и ЭП похожи по составу, отличаются глубиной проработки — на АП поощряется создание вариантов КА и СЧ.  
+СЧ АП (ЭП) — это АП (ЭП) на его СЧ. Сквозной нумерации нет, но таковая возможна внутри каждого АП (ЭП).
+
+|*#*|*Этап*|*Phase*|
 |:--|:--|:--|
-| |**・НИОКР・**|**・R&D・**|
+| |**【НИОКР】**|**【R&D】**|
 |**1**|**[Научно-исследовательская работа](rnd_0.md) (НИР)**<br> Комплекс теоретических/экспериментальных исследований с целью получения обоснованных исходных данных, изыскания принципов/путей создания/модернизации продукции.|**Phase 0 (pre‑A)**<br> Concept studies.|
 |**2**|**[Техническое предложение (Аванпроект)](rnd_ap.md) (АП)**<br> Анализ ТЗ. Подбор материалов. Присвоение документам литеры «П». Цель — выявление доп./уточнённых требований к [изделию](unit.md), которые не могли быть указаны в ТЗ или рассмотрены в НИР, и это целесообразно сделать на основе конструкторской проработки и анализа вариантов изделия. *(не распространяется на КД, разраб. по заказу Мин. обороны ([ГОСТ 2.103](гост_2_103.md) п.4.1))*|**Phase A**<br> Concept & technology development.|
-| |**・ОКР・**|**・R&D・**|
+| |**【ОКР】**|**【R&D】**|
 |**3**|**[Эскизный проект](rnd_ep.md) (ЭП)**<br> Рассмотрение и утверждение АП, уточнение его результатов. Цель — установление принципиальных решений изделия, дающих общее представление о принципе работы и (или) устройстве изделия. Можно рассматривать варианты изделий. В итоге должен быть выбран 1 вариант исполнения изделий.|**Phase B**<br> Preliminary design & technology completion. At the end of p.B the system requirements together with a statement of work are sent out requesting proposals from industry.|
 |**4**|**[Технический проект](rnd_tp.md) (ТП)**<br> Необязательный этап. По НД имеет состав ЭП. Рассмотрение и утверждение ЭП. Присвоение документам литеры «Т». Изготовление и испытание макетов (при необходимости). ТП разраб. с целью выявления окончательных технических решений, дающих полное представление о конструкции изделия, когда это целесообразно сделать до РРД.|**Phase B**<br> Preliminary design & technology completion. At the end of p.B the system requirements together with a statement of work are sent out requesting proposals from industry.|
 |**5**|**[Разработка конструкторской документации](rnd_rkd.md) (РКД, РРД)**<br> Рассмотрение и утверждение ТП (ЭП, если не было ТП). Разработка [КД](doc.md), предназначенной для изготовления и [испытания](test.md) опытного образца (опытной партии), без присвоения литеры.|**Phase C**<br> Final design & fabrication.|
@@ -121,11 +126,6 @@ Common spacecraft R&D team:
 |**9**|**[Серийное производство](сп.md)**<br> Постановка на серийное производство, изготовление и испытания изделий, корректировка документации на изделия серийного производства.|**…**<br> …|
 |**10**|**[Приём в эксплуатацию](прэ.md)**<br> Ввод и приём в эксплуатацию ракетной и космической техники.|**…**<br> …|
 |**11**|**Вывод из эксплуатации**<br> Вывод из эксплуатации ракетной и космической техники.|**Phase F**<br> Closeout.|
-
-*Примечания:*
-
-   - Этапы АП и ЭП похожи по составу, отличаются только глубиной проработки — на АП поощряется создание нескольких вариантов КА и его СЧ.
-   - Составными частями АП (ЭП) являются АП (ЭП) на его составные части. Сквозная нумерация отсутствует. Возможна сквозная нумерация в рамках каждого АП (ЭП).
 
 **За рубежом.**
 
@@ -149,7 +149,6 @@ Define NGOs (need, goals, objectives).
       1. Aggressive but attainable, challenging but reachable, & targets need to be realistic. Objectives “To Be Determined” (TBD) may be included until trade studies occur, operations concepts solidify, or technology matures. Objectives need to be feasible before requirements are written & systems designed.
       1. Result‑oriented focused on desired outputs‑outcomes, not on the methods used to achieve a target (what, not how).
 
-
 **10 steps “how to launch a spacecraft”** ([by GKLaunch ⎆](https://www.instagram.com/p/CO2pJSoD7uL/))
 
    1. Envisage your idea. What is your SC mission?
@@ -170,9 +169,9 @@ Define NGOs (need, goals, objectives).
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
+|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 
    1. Docs: …
    1. <https://ru.wikipedia.org/wiki/НИОКР>

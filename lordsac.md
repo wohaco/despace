@@ -34,11 +34,11 @@
 
    1. [пояснительная записка](report.md);
    1. [расчёты](calc.md);
-   1. [схема деления](draft_model.md);
-   1. [схема электрическая](draft_model.md);
-   1. [схема подключений](draft_model.md);
-   1. [чертежи](draft_model.md);
-   1. [электронные модели](draft_model.md).
+   1. [схема деления](drawing.md);
+   1. [схема электрическая](drawing.md);
+   1. [схема подключений](drawing.md);
+   1. [чертежи](drawing.md);
+   1. [электронные модели](drawing.md).
 
 
 
@@ -91,7 +91,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

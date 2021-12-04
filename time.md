@@ -26,6 +26,8 @@
 
 Сейчас время устанавливается при помощи всемирного координированного времени (UTC), которое введено взамен времени по Гринвичу (GMT). Шкала UTC базируется на равномерной шкале атомного времени (TAI) и является более удобной для гражданского использования. Часовые пояса вокруг земного шара относительно нулевого меридиана выражаются как положительное (к востоку) и отрицательное (к западу) смещение от UTC. Для территорий часового пояса, где используется перевод часов на летнее время, смещение относительно UTC на летний период меняется.
 
+【**Table.** Some abbreviations】
+
 | |*UTC*|*MSK*|*Комментарии*|
 |:--|:--|:--|:--|
 |CET зимнее|+1|+2|Central European Time (Среднеевропейское время).|
@@ -37,7 +39,7 @@
 |PST летнее|−7|+10| |
 |UTC|0|+3|Coordinated Universal Time (Всемирное координированное время).|
 
-**Some major timezones**
+【**Table.** Some major timezones】
 
 |*QC*|*UTC+0*|*MSK*|*JST*|
 |:--|:--|:--|:--|
@@ -88,7 +90,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Guidance, Navigation & Control (GNC)](gnc.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](eas.md)・ [БКС](cable.md)・ [БУ](eas.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](devd.md)|
 |**【[External factors (EF)](ef.md)】**<br> [Astro.object](aob.md)・ [Atmosphere](atmosphere.md)・ [Atmosphere of Earth](earth.md)・ [Cosmic rays](cr.md)・ [EMI](emi.md)・ [Grav.waves](gravwave.md)・ [Ion.radiation](ion_rad.md)・ [Radio frequency](rf.md)・ [Solar phenomena](solar_ph.md)・ [Space debris](sdeb.md)・ [Standart conditions](sctp.md)・ [Time](time.md)・ [VA radiation belts](varb.md)|

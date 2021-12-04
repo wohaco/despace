@@ -55,7 +55,7 @@ A list of [On-board computers](obc.md).
 **Комплекс бортовой интегрированный вычислительный (БИВК‑МР)** — [цифровая вычислительная машина](obc.md)), предназначенная для использования в составе [КА](sc.md).  
 Разработчик [НТЦ Модуль](contact/ntc_module.md). Разработано в рамках ОКР «[Аракс](araks.md)» в 2017 году. разработка. (по состоянию на 27.06.2017)
 
-Предшественник: [БИВК-Р](obc_lst.md). Отличается от предшественника [БИВК-Р](obc_lst.md) тем, что ряд иностранных компонентов заменён на отечественные [аналоги](analogue.md).
+Предшественник: [БИВК-Р](obc_lst.md). Отличается от предшественника [БИВК-Р](obc_lst.md) тем, что ряд иностранных компонентов заменён на отечественные [аналоги](analogue.md), также отсутствует горячее резервирование.
 
 |*Characteristics*|*[Value](si.md)<br> (БИВК-МР)*|
 |:--|:--|
@@ -398,7 +398,7 @@ A list of [On-board computers](obc.md).
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[On-board computer (OBC)](obc.md)】**<br> … <br>• • •<br> **RU:** [МПК-003](obc_lst.md) (9)・ [БИВК-МР](obc_lst.md) (8)・ [МАРС 4](obc_lst.md) (8)・ [БИВК-Р](obc_lst.md) (7.1)・ [МАРС 7](obc_lst.md) (6)・ [МПК-002](obc_lst.md) (3.9)・ [ЦВМ-12](obc_lst.md) (2.2)・ [БКУ_SXPA](obc_lst.md) (0.35)・ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](obc_lst.md) (2.1))*|
 

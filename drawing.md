@@ -7,9 +7,94 @@
 
 > <small>**Чертежи, модели** — русскоязычный термин. **Drafts, models** — англоязычный эквивалент.</small>
 
+
+
 <p style="page-break-after:always"> </p>
 
-## Схемы
+## ➀ Модель
+> <small>**Model** — EN term. **Модель** — RU analogue.</small>
+
+A **conceptual model** is a representation of a system, made of the composition of concepts which are used to help people know, understand, or simulate a subject the model represents. It is also a set of concepts. In contrast, physical models are physical objects; for example, a toy model which may be assembled, & may be made to work like the object it represents.
+
+   1. <https://en.wikipedia.org/wiki/Conceptual_model>
+   1. <https://ru.wikipedia.org/wiki/Модель>
+
+Conceptual model may refer to models which are formed after a conceptualization or generalization process. Conceptual models are often abstractions of things in the real world, whether physical or social. Semantic studies are relevant to various stages of concept formation. Semantics is basically about concepts, the meaning that thinking beings give to various elements of their experience.
+
+**Концептуальная модель** — это модель, представленная множеством понятий и связей между ними, определяющих смысловую структуру рассматриваемой предметной области или её конкретного объекта.
+
+Концептуальная модель — модель предметной области, состоящей из перечня взаимосвязанных понятий, используемых для описания этой области, вместе со свойствами и характеристиками, классификацией этих понятий, по типам, ситуациям, признакам в данной области и законов протекания процессов в ней.
+
+Концептуальная (содержательная) модель — это структура моделируемой системы, свойства её элементов и причинно‑следственные связи, присущие системе и существенные для достижения цели моделирования.
+
+Концептуальная модель относится к моделям, которые формируются после процесса концептуализации или обобщения. Концептуальные модели часто являются абстракциями вещей в реальном мире. Для различных этапов формирования концепта актуальны семантические исследования. Семантика — это понятие, значение, которое мыслящие существа придают различным элементам своего опыта.
+
+**Моде́ль** *(фр. modèle от лат. modulus «мера, аналог, образец»)* — это система, исследование которой служит средством для получения информации о другой системе; представление некоторого реального процесса, устройства или концепции.
+
+Модель есть абстрактное представление реальности в какой‑либо форме (например, в математической, физической, символической, графической или дескриптивной), предназначенное для представления определённых аспектов этой реальности и позволяющее получить ответы на изучаемые вопросы.
+
+
+
+<p style="page-break-after:always"> </p>
+
+### Digital elevation model
+> <small>**Digital elevation model (DEM)** — англоязычный термин, не имеющий аналога в русском языке. **Цифровая модель рельефа (ЦМР)** — дословный перевод с английского на русский.</small>
+
+A **digital elevation model (DEM)** is a 3D CG representation of a terrain’s surface — commonly of a planet (e.g. Earth), moon, or asteroid — created from a terrain’s elevation data. A «global DEM» refers to a discrete global grid.
+
+   1. <https://en.wikipedia.org/wiki/Digital_elevation_model>
+
+DEMs are used often in geographic information systems, and are the most common basis for digitally produced relief maps. While a digital surface model (DSM) may be useful for landscape modeling, city modeling and visualization applications, a digital terrain model (DTM) is often required for flood or drainage modeling, land-use studies, geological applications, and other applications, and in planetary science.
+
+|*3D rendering of a DEM of Tithonium Chasma on Mars*|*Surfaces represented by a Digital Surface Model include buildings & other objects. Digital Terrain Models represent the bare ground.*|
+|:--|:--|
+|[![](f/model/dem_01_thumb.jpg)](f/model/dem_01.jpg)|![](f/model/dem_02.png)|
+
+Common uses of DEMs include:
+
+   - Extracting terrain parameters for geomorphology
+   - Modeling water flow for hydrology or mass movement (for example avalanches and landslides)
+   - Modeling soils wetness with Cartographic Depth to Water Indexes (DTW-index)
+   - Creation of relief maps
+   - Rendering of 3D visualizations.
+   - 3D flight planning and TERCOM
+   - Creation of physical models (including raised relief maps)
+   - Rectification of aerial photography or satellite imagery
+   - Reduction (terrain correction) of gravity measurements (gravimetry, physical geodesy)
+   - Terrain analysis in geomorphology and physical geography
+   - Geographic information systems (GIS)
+   - Engineering and infrastructure design
+   - Satellite navigation (for example GPS and GLONASS)
+   - Line-of-sight analysis
+   - Base mapping
+   - Flight simulation
+   - Precision farming and forestry
+   - Surface analysis
+   - Intelligent transportation systems (ITS)
+   - Auto safety / advanced driver-assistance systems (ADAS)
+   - Archaeology
+
+
+
+<p style="page-break-after:always"> </p>
+
+### Вибродинамическая модель
+> <small>**Вибродинамическая модель (ВДМ)** — русскоязычный термин, не имеющий аналога в английском языке. **Vibrodynamic model** — дословный перевод с русского на английский.</small>
+
+**Вибродинамическая модель (ВДМ)**, также **низкочастотная динамическая схема (НДСа)** — математическая модель напряжений и изгибающих моментов в узлах и материалах [изделия](unit.md) на различных этапах деятельности.
+
+ВДМ предназначена для определения нагрузок на узлы изделия, его СЧ, а также внешних объектов на различных этапах деятельности.
+
+Вибрация:
+
+   - квазистатическая;
+   - статическая;
+
+
+
+<p style="page-break-after:always"> </p>
+
+## ➁ Схема
 
 ### Схема деления
 > <small>**Схема деления изделия на составные части (СхД)** — русскоязычный термин. **Work breakdown structure (WBS)** — примерный англоязычный эквивалент.</small>
@@ -25,8 +110,8 @@
 
 Данные об изделии и его СЧ следует помещать в условные графические обозначения СЧ изделия (см. рисунок 1).
 
-![](f/chart/shema_delenia-1.png)  
-*Рисунок 1 – Условные графические обозначения*
+【**Рисунок 1.** Условные графические обозначения】  
+![](f/chart/shema_delenia-1.png)
 
    - Уровень деления (раскрытия) изделия на СЧ зависит от сложности и спецификации изделия и устанавливается разработчиком изделия по согласованию с заказчиком. <sup>(см. ГОСТ 2.711‑82 п. 1.5)</sup>
    - Условные графические обозначения изделия и его СЧ должны быть соединены между собой сплошными тонкими линиями. Линии следует заканчивать стрелками (рисунок 2).
@@ -34,8 +119,8 @@
    - На каждую СЧ, разрабатываемую по ТТЗ (ТЗ), СД оформляется самостоятельным конструкторским документом, и ссылка на неё должна быть приведена в СД изделия в целом (на комплекс, аппарат и т.д.) как показано на рисунке 2. <sup>(см. ГОСТ 2.711‑82 п. 1.6)</sup>
    - Покупные и заимствованные СЧ изделия на СЧ более низкого уровня не делятся.
 
-![](f/chart/shema_delenia-2.png)  
-*Рисунок 2 – Пример схемы деления*
+【**Рисунок 2.** Пример схемы деления】  
+![](f/chart/shema_delenia-2.png)
 
 
 
@@ -52,7 +137,7 @@
 ### Схема осцилляторов
 > <small>**Схема осцилляторов** — русскоязычный термин. **Oscillator circuit** — англоязычный эквивалент.</small>
 
-**Схема осцилляторов** — [КД](doc.md), имеющий графическое представление, который определяет расположение основных [осцилляторов](oscillator.md) на изделии. Схема предназначена для создания вибродинамической модели и оценки влияния осцилляторов на управление, точность наведения и стабилизации КА.
+**Схема осцилляторов** — [КД](doc.md), имеющий графическое представление, который определяет расположение основных [осцилляторов](mic.md) на изделии. Схема предназначена для создания вибродинамической модели и оценки влияния осцилляторов на управление, точность наведения и стабилизации КА.
 
 Отдельно не регламентируется нормативной документацией; при создании схемы осцилляторов рекомендуется использовать общие требования к чертежам из [ГОСТ 2.109](гост_2_109.md).
 
@@ -92,7 +177,7 @@
 
 **Схема членения (СхЧ)**, также **схема технологического членения**, **схема разузлования** — [КД](doc.md), отсутствующий в НД и в ГОСТ 2.701 — определяющий логику деления [изделия](unit.md) на основные узлы, их входимость. Предлагается разрабатывать на основании [ГОСТ 2.711-82](гост_2_711_82.md) и относится к категории «[Схема](doc.md)».
 
-Представляет собой изометрическое изображение изделия ([чертёж](draft_model.md)) с разнесёнными в разные стороны основными узлами (частями) с указанием их обозначений.
+Представляет собой изометрическое изображение изделия ([чертёж](drawing.md)) с разнесёнными в разные стороны основными узлами (частями) с указанием их обозначений.
 
 
 
@@ -160,7 +245,7 @@
 
 <p style="page-break-after:always"> </p>
 
-## Чертежи
+## ➂ Чертёж
 
 
 ### 3D- и Электронная модель
@@ -199,34 +284,34 @@
    1. Допустимо изображать сплошными тонкими линиями детали и сбор. единицы, не входящие в состав изделия.
    1. Наносят габаритные, установочные и присоединительные размеры изделия и, при необх., размеры, определяющие положение выступающих частей. Установочные и присоединительные размеры, необходимые для увязки с другими изделиями, должны быть указаны с предельными отклонениями. Допускается указывать координаты центра масс. Не указывают, что все размеры справочные.
    1. Допустимо указывать условия применения, хранения, транспортирования и эксплуатации при отсутствии этих данных в техническом описании, технических условиях или другом КД на изделие.
-   1. **Для получения информации об изделии при отсутствии ЧОВ дополнительно требуют указывать на ГЧ (требования пишутся в Исходных данных, ТЗ, либо задаются по месту; ниже приведена выдержка):**
-      1. движущиеся части
-      1. допустимое направление действия перегрузок
-      1. зоны, типы расположения ЭВТИ, покрытий, и способы их крепления
-      1. массово‑инерционные характеристики, центр масс прибора в рабочем и транспортном положениях
-      1. массу с допусками — в штампе
-      1. масштаб
-      1. материал и толщину корпуса и покрытий прибора
-      1. место, способ крепления и момент затяжки крепежа
-      1. металлизацию (заземление) прибора — способ, точки, материалы
-      1. оптико‑физические характеристики открытых поверхностей
-      1. ориентацию, оси прибора и их материализацию
-      1. режимы работы прибора
-      1. режимы температурные посадочных мест
-      1. режимы температурные прибора во время дегазации
-      1. степень герметичности прибора
-      1. тепловыделение прибора (упрощённая циклограмма, либо разброс значений), площадь теплопроводящей поверхности и распределение тепла
-      1. термическое сопротивление между посадочным местом прибора и конструкцией КА
-      1. термодатчики — места расположения, количество, тип
-      1. технологические блоки, снимаемые перед установкой прибора на КА и до пуска
-      1. требования к посадочным местам прибора и установочной поверхности
-      1. электропотребление прибора (упрощённая циклограмма, либо разброс значений)
+   1. **Для быстрого получения информации об изделии при отсутствии ЧОВ на НПО Лавочкина дополнительно требуют указывать на ГЧ следующую информацию, даже если требования к СЧ не заданы в ТЗ (требования пишутся в Исходных данных, ТЗ, либо задаются по месту):** <!--На НПОЛ заведена практика создания так называемых «документов для генералов», когда можно взять 1 ‑ 2 документа на СЧ и быстро понять её основные характеристики без необходимости розыска этих характеристик по толстому пакету документов.-->
+      1. движущиеся части <!--…-->
+      1. допустимое направление действия перегрузок <!--…-->
+      1. зоны, типы расположения ЭВТИ, покрытий, и способы их крепления <!--…-->
+      1. массово‑инерционные характеристики (подтверждаемые): центр масс прибора, моменты инерции в рабочем и транспортном положениях с допусками <!--…-->
+      1. массу с допусками — в пункте № 1 ТУ чертежа, а в штампе — ссылку на пункт ТУ <!--ГОСТ 2.109 п. 1.1.12 говорит о том, что масса должна писаться в штампе; допускается указывать допуск на массу в ТУ чертежа, или писать массу с допусками в ТУ чертежа, давая ссылку в штампе. В связи с тем, что при переписывании массы в другие документы были зафиксированы ситуации, когда в один документ масса попадала с допусками, а в другой — без них, что в результате приводило к разночтениям на последующих этапах, решено унифицировать расположение массы на чертеже.-->
+      1. масштаб <!--…-->
+      1. материал и толщину корпуса и покрытий прибора <!--…-->
+      1. место, способ крепления и момент затяжки крепежа <!--…-->
+      1. металлизацию/заземление прибора — способ, точки, материалы <!--…-->
+      1. оптико‑физические характеристики открытых поверхностей <!--…-->
+      1. ориентацию, оси прибора (при необходимости) и их материализацию <!--…-->
+      1. режимы работы прибора <!--…-->
+      1. режимы температурные посадочных мест <!--…-->
+      1. режимы температурные прибора во время дегазации <!--…-->
+      1. степень герметичности прибора <!--(Не)герметичность прибора может стать причиной ряда отказов или ухудшения характеристик. Например, несмотря на то, что приборы обычно дегазируют, это не отменяет того факта, что внутри у них находятся элементы, испаряющиеся быстрее корпуса.  В случае нештатной ситуации это может быть одной из её причин. Или негерметичные зоны могут стать причиной коротких замыканий. Поэтому решено указывать степень герметичности в бинарном виде.-->
+      1. тепловыделение прибора (упрощённая циклограмма, либо разброс значений), площадь теплопроводящей поверхности и распределение тепла <!--…-->
+      1. термическое сопротивление между посадочным местом прибора и конструкцией КА <!--…-->
+      1. термодатчики — места расположения, количество, тип <!--…-->
+      1. технологические блоки, снимаемые перед установкой прибора на КА и до пуска <!--…-->
+      1. требования к посадочным местам прибора и установочной поверхности <!--…-->
+      1. электропотребление прибора (упрощённая циклограмма, либо разброс значений) <!--…-->
 
 <p style="page-break-after:always"> </p>
 
 <big><u>**ENG**</u></big>
 
-For each OE, a general drawing shall be provided containing a contour (simplified) image of the OE with general, installation and connection dimensions, keeping in mind that:
+For each OE, a general drawing shall be provided containing a contour (simplified) image of the OE with general, installation & connection dimensions, keeping in mind that:
 
    1. The drawing is not intended for the manufacture of the OE & does not contain data for manufacture/assembly.
    1. The drawing is performed with maximum simplifications. The product is depicted so that the extreme positions of the moving/extending/folding parts/levers/carriages/hinged covers, etc. are visible. It’s allowed not to show elements that protrude beyond the main contour by an insignificant amount in comparison with the dimensions of the OE.
@@ -241,11 +326,11 @@ For each OE, a general drawing shall be provided containing a contour (simplifie
       1. mass with tolerances — in stamp
       1. mass‑inertial characteristics, center of mass of the OE in working & transport positions
       1. material & thickness of the OE’s body & coatings of the device
-      1. metallization (grounding) of the OE — method, points, materials
+      1. metallization/grounding of the OE — method, points, materials
       1. moving parts
       1. operating modes of the OE
       1. optical‑physical characteristics of open surfaces
-      1. orientation of the OE, it’s axes & their materialization
+      1. orientation of the OE, it’s axes (if needed) & their materialization
       1. place, method of fastening & tightening torque of fasteners
       1. power consumption of the device (simplified timeline, or the spread of values)
       1. requirements for the seats of the OE & the mounting surface
@@ -365,9 +450,9 @@ For each OE, a general drawing shall be provided containing a contour (simplifie
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](draft_model.md)・ [СхО](draft_model.md)・ [СхПЗ](draft_model.md)・ [СхЧ](draft_model.md)・ [СхЭ](draft_model.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
+|**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](drawing.md)・ [СхО](drawing.md)・ [СхПЗ](drawing.md)・ [СхЧ](drawing.md)・ [СхЭ](drawing.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
 
    1. Docs: …
    1. <http://gk-drawing.ru/plotting/general-view-drawing.php>

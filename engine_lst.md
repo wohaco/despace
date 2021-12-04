@@ -12,7 +12,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 1NMHT ·［EU, 1c］
+### 1NMHT   ［EU, 1c］
 **1NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1996.
 
 |*Characteristics*|*[Value](si.md)<br> (1NMHT)*|
@@ -40,31 +40,30 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|1 (0.1)|
-|Thrust — deviation, N (㎏f)|0.32 ‑ 1.1 (0.032 ‑ 1.12)|
+|Thrust, N (㎏f)|0.32 ‑ 1 ‑ 1.1 (0.032 ‑ 0.1 ‑ 0.112)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|1 962 ‑ 2 190 (200 ‑ 223)|
 |Thrust — max duration of 1 thrust, s|43 200|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|59 000|
 |Thrust — total thrust, N (㎏f), ≥|135 000 (13 760)|
-|Thrust — total thrust duration, s, ≥|180 000|
+|Thrust — total thrust duration, s (h), ≥|180 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/0/1nmht_pic1_thumb.jpg)](f/ps/0/1nmht_pic1.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
    1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/1n-hydrazine-thruster.html> — [archived ❐](f/ps/0/1nmht_site.pdf) 2019.02.21
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** CSO-3 (…)・ CSO-2 (…)・ CSO-1 (2016)・ Sentinel 2B (2016)・ Sentinel 5P (2016)・ SEOSAT (Ingenio) (2015)・ Sentinel 2A (2015)・ SEOSAR (Paz) (2015)・ Taranis (2015)・ AstroTerra 2 (2014)・ KRS (2014)・ Jason-3 (2013)・ Vietnam-1 (2013)・ AstroTerra 1 (2012)・ Pleiades HR2 (2012)・ Elisa-1 (2011)・ Elisa-2 (2011)・ Elisa-3 (2011)・ Elisa-4 (2011)・ Pleiades HR1 (2011)・ SSOT (2011)・ Alsat 2A (2010)・ Alsat 2B (2010)・ CosmoSkymed-4 (2010)・ TANDEM-X (2010)
+   1. **Applicability** — CSO-3 (…)・ CSO-2 (…)・ CSO-1 (2016)・ Sentinel 2B (2016)・ Sentinel 5P (2016)・ SEOSAT (Ingenio) (2015)・ Sentinel 2A (2015)・ SEOSAR (Paz) (2015)・ Taranis (2015)・ AstroTerra 2 (2014)・ KRS (2014)・ Jason-3 (2013)・ Vietnam-1 (2013)・ AstroTerra 1 (2012)・ Pleiades HR2 (2012)・ Elisa-1 (2011)・ Elisa-2 (2011)・ Elisa-3 (2011)・ Elisa-4 (2011)・ Pleiades HR1 (2011)・ SSOT (2011)・ Alsat 2A (2010)・ Alsat 2B (2010)・ CosmoSkymed-4 (2010)・ TANDEM-X (2010)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 11D428A-16 ·［RU, 2c］
+### 11D428A-16   ［RU, 2c］
 **11D428A-16** (ru. **11Д428А-16**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D428A-16)*|*[Value](si.md)<br> (11D428AF-16)*|
@@ -95,12 +94,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|129.16 (13.1) **⁽¹⁾**|123.5 (12.5) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 852 (290) **⁽¹⁾**|3 002 (306) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 2 000 **⁽¹⁾**|0.03 ‑ 2 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|500 000 **⁽¹⁾**|500 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|6 458 000|6 175 000|
-|Thrust — total thrust duration, s, ≥|50 000|50 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|50 000|50 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
@@ -108,14 +107,14 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [NIIMASH](contact/niimash.md) site, 2016 y.
    1. **Applicability:**
-      - **17D428A-16**: Orbital manned station Salyut・ Orbital manned station Mir・ Soyuz-TM・ Progress-M・ Service module Zvezda at the International Space Station Astrophysical Observatory Gamma
-      - **17D428AF-16**. Fobos-Grunt, PS of the returning module
+      - **17D428A-16** — Orbital manned station Salyut・ Orbital manned station Mir・ Soyuz-TM・ Progress-M・ Service module Zvezda at the International Space Station Astrophysical Observatory Gamma
+      - **17D428AF-16** — Fobos-Grunt, PS of the returning module
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 11D457 ·［RU, 2c］
+### 11D457   ［RU, 2c］
 **11D457** (ru. **11Д457**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D457)*|*[Value](si.md)<br> (11D457F)*|
@@ -146,12 +145,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|53.9 (5.5) **⁽¹⁾**|54 (5.5) **⁽²⁾**|± 6.9 **⁽²⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 489 (253) **⁽¹⁾**|2 842 (290) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 300 **⁽¹⁾**|0.03 ‑ 2 000 **⁽²⁾**|
-|Thrust — max switching frequency, ㎐| |8 **⁽²⁾**|
+|Thrust — max switch. frequency, ㎐| |8 **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |2.45 (0.25) **⁽²⁾**|
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|100 000 **⁽¹⁾**|100 000 **⁽²⁾**|
 |Thrust — total thrust, N (㎏f), ≥| |310 000 (31 600)|
-|Thrust — total thrust duration, s, ≥| |5 750 **⁽²⁾**|
+|Thrust — total thrust duration, s (h), ≥| |5 750 **⁽²⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
@@ -159,14 +158,14 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see Specification & [NIIMASH](contact/niimash.md) site, 2016 y.
    1. **Applicability:**
-      - **11D457** — manned station "Yantar"・ SC "Neman"・ SC "Sapphire"・ SC "Kobalt-M"・ SC "Orlets"・ SC "Kometa"・ SC "Don"・ SC "Lotos"・ SC "Resurs-Dk"
+      - **11D457** — manned station “Yantar”・ SC “Neman”・ SC “Sapphire”・ SC “Kobalt-M”・ SC “Orlets”・ SC “Kometa”・ SC “Don”・ SC “Lotos”・ SC “Resurs-Dk”
       - **11D457F** — [Luna‑26](луна_26.md)・ [Spektr-M](спектр_м.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 11D458 ·［RU, 2c］
+### 11D458   ［RU, 2c］
 **11D458** (ru. **11Д458**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D458)*|*[Value](si.md)<br> (11D458M)*|*[Value](si.md)<br> (11D458F)*|
@@ -184,7 +183,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.1587044|0.1324333|0.1280916|
 |Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹ ²⁾**|1.85 ± 0.15 **⁽¹ ²⁾**|1.85 ± 0.15 **⁽¹ ²⁾**|
 |Fuel — resource, ㎏, ≥| |132 **⁽¹⁾**; 509 **⁽³⁾**|350 **⁽²⁾**|
@@ -197,12 +196,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|392 (39.9) **⁽¹⁾**|392.4 (39.9) **⁽¹⁾**|382 (39) **⁽²⁾**|± 10 **⁽²⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 470 (252) **⁽¹⁾**|2 963 (302) **⁽¹⁾**|2 979 (304) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.1 ‑ 3 000 **⁽¹⁾**|0.05 ‑ 1 000 **⁽¹⁾**; 0.05 ‑ 1 500 **⁽³⁾**|0.05 ‑ 2 000 **⁽²⁾**|
-|Thrust — max switching frequency, ㎐| | |8 **⁽²⁾**|
+|Thrust — max switch. frequency, ㎐| | |8 **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |9.41 (0.96) **⁽²⁾**|
 |Thrust — torch angle, °| | | |
 |Thrust — total pulses, ≥|33 000 **⁽¹⁾**|10 000 **⁽¹⁾**|10 000 **⁽²⁾**|
 |Thrust — total thrust, N (㎏f), ≥| |392 000 (40 000)<br> 1 569 600 (160 000)|1 044 000 (106 400)|
-|Thrust — total thrust duration, s, ≥| |1 000 **⁽¹⁾**; 4 000 **⁽³⁾**|2 750 **⁽²⁾**|
+|Thrust — total thrust duration, s (h), ≥| |1 000 **⁽¹⁾**; 4 000 **⁽³⁾**|2 750 **⁽²⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
 
 **Notes:**
@@ -210,7 +209,7 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1,2,3]** — see Specification & [NIIMASH](contact/niimash.md) site, 2016 y.
    1. **Applicability:**
-      - **11Д458** — [Briz](бриз.md)・ Orbital manned station "Almaz"・ Orbital manned station "Mir"・ FGB "Zarya" (ISS)
+      - **11Д458** — [Briz](бриз.md)・ Orbital manned station “Almaz”・ Orbital station “Mir”・ FGB “Zarya” (ISS)
       - **11Д458М** — [Briz](бриз.md)・ [Luna‑26](луна_26.md)
       - **11Д458Ф** — [Spektr-M](спектр_м.md)
 
@@ -218,7 +217,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### 14D30 ·［RU, 2c］
+### 14D30   ［RU, 2c］
 **11D30** (ru. **14Д30**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (14D30)*|
@@ -249,25 +248,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|19 620 (2 000) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 224 (328.6) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|2 500 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐|1 thrust/2.6 s **⁽¹⁾**|
+|Thrust — max switch. frequency, ㎐|1 pulse/2.6 s **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|8 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|62 700 000 (6 400 000)|
-|Thrust — total thrust duration, s, ≥|3 200 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|3 200 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
-   1. **Applicability:** [Briz](бриз.md)
+   1. **Applicability** — [Briz](бриз.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 17D16 ·［RU, 2c］
+### 17D16   ［RU, 2c］
 **17D16** (ru. **17Д16**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (17D16)*|
@@ -298,27 +297,27 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|196.2 (20) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 521 (257) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.06 ‑ 180 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|40 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|902 500 (92 000)|
-|Thrust — total thrust duration, s, ≥|4 600 **⁽²⁾**|
+|Thrust — total thrust duration, s (h), ≥|4 600 **⁽²⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. [Описание двигателя ❐](f/ps/0/17d16_doc_20180130.pdf) (2018 год)
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. [Описание двигателя ❐](f/ps/0/17d16_doc_20180130.pdf) (2018 год)
    1. **[1]** — see [NIIMASH](contact/niimash.md) site, 2016 y.
    1. **[2]** — see engine description from 2018 y.
-   1. **Applicability:** "Buran", the engine designed to control the orientation in space at the command of the control system.
+   1. **Applicability** — “Buran”, the engine designed to control the orientation in space at the command of the control system.
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 17D58E ·［RU, 2c］
+### 17D58E   ［RU, 2c］
 **17D58E** (ru. **17Д58Э**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (17D58E)*|*[Value](si.md)<br> (17D58EF)*|
@@ -349,12 +348,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|13.35 ± 10 (1.36) **⁽²⁾**|12.45 (1.26) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 688 (274) **⁽²⁾**|2 550 (260) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 10 000 **⁽²⁾**|0.03 ‑ 10 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐|10 **⁽²⁾**| |
+|Thrust — max switch. frequency, ㎐|10 **⁽²⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|0.32| |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|450 000 **⁽²⁾**|450 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|2 400 000 (244 950)| |
-|Thrust — total thrust duration, s, ≥|180 000 **⁽²⁾**| |
+|Thrust — total thrust duration, s (h), ≥|180 000 **⁽²⁾**| |
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
@@ -363,14 +362,14 @@ A list of [Engines](ps.md).
    1. **[1]** — see [NIIMASH](contact/niimash.md) site, 2016 y.
    1. **[2]** — see 17Д58Э.000.00 ТУ11, 1984 y.
    1. **Applicability:**
-      - **17D458E** — Almaz・ Mir (modules "Kvant", "Kristall", "Spectrum", "Nature")・ FGB "Zarya" (ISS)
+      - **17D458E** — Almaz・ Mir (modules “Kvant”, “Kristall”, “Spectrum”, “Nature”)・ FGB “Zarya” (ISS)
       - **17D458EF** — [Luna‑26](луна_26.md)・ [Spektr-M](спектр_м.md)・ [Fobos-Grunt](фобос_грунт.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 20NMHT ·［EU, 1c］
+### 20NMHT   ［EU, 1c］
 **20NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1982.
 
 |*Characteristics*|*[Value](si.md)<br> (20NMHT)*|
@@ -401,33 +400,33 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|7.9 ‑ 24.6 (0.8 ‑ 2.5)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 177 ‑ 2 250 (222 ‑ 230)|
 |Thrust — max duration of 1 thrust, s|5 400|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|93 130|
 |Thrust — total thrust, N (㎏f), ≥|517 000 (52 700)|
-|Thrust — total thrust duration, s, ≥|37 800|
+|Thrust — total thrust duration, s (h), ≥|37 800|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/0/20nmht_pic1_thumb.jpg)](f/ps/0/20nmht_pic1.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
    1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/20n-hydrazine-thruster.html> — [archived ❐](f/ps/0/20nmht_site.pdf) 2019.02.21
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** NGSAR (2018 ‑ 2019), Herschel (2009), Planck (2009), METOP 1-3 (2006), Integral (2002)
+   1. **Applicability** — NGSAR (2018 ‑ 2019), Herschel (2009), Planck (2009), METOP 1-3 (2006), Integral (2002)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 255U.487 ·［RU, 2c］
+### 255U.487   ［RU, 2c］
 **255U.487** (ru. **255У.487**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (255U.487)*|*[Value](si.md)<br> (DMT-600)*|
 |:--|:--|:--|
 |Composition| | |
-|Consumption, W| | |
+|Consumption, W|24.3|24.3|
 |Dimensions, ㎜|416 × 148 **⁽¹⁾**| |
 |[Interfaces](interface.md)| | |
 |[Lifetime](lifetime.md)/Resource, h(y)|30 **⁽¹⁾** / …|… / …|
@@ -451,13 +450,13 @@ A list of [Engines](ps.md).
 |Temper. — nozzle cut, К (℃)|840 (560) **⁽¹⁾**| |
 |Thrust, N (㎏f)|603±16 (61.44±1.65) **⁽¹⁾**|600 (61) **⁽²⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 973 (303±2.2) **⁽¹⁾**|2 992 (305) **⁽²⁾**|
-|Thrust — max duration of 1 thrust, s|от 0.2 до 50 **⁽¹⁾**|от 0.05 до 1 500 **⁽²⁾**|
-|Thrust — max switching frequency, ㎐|3 **⁽¹⁾**| |
+|Thrust — max duration of 1 thrust, s|0.2 ‑ 50 **⁽¹⁾**|0.05 ‑ 1 500 **⁽²⁾**|
+|Thrust — max switch. frequency, ㎐|3 **⁽¹⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|17±4.6 (1.735±0.473) **⁽¹⁾**| |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|100 **⁽¹⁾**|6 000 **⁽²⁾**|
 |Thrust — total thrust, N (㎏f), ≥|60 300 (6 150)|300 000 (30 580)|
-|Thrust — total thrust duration, s, ≥|100 **⁽¹⁾**|5 000 **⁽²⁾**|
+|Thrust — total thrust duration, s (h), ≥|100 **⁽¹⁾**|5 000 **⁽²⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
@@ -468,19 +467,19 @@ A list of [Engines](ps.md).
    1. The content of dissolved helium in the fuel is ≤ 0.03 g/l. Work poorly with [CINU](cinu.md).
    1. The angular deviation of the engine nozzle axis relative to the base longitudinal axis is ≤ 5 " (angular), & ≤ 0.5 ㎜ (linear).
    1. The purity of the fuel supplied to the engine is not lower than [class 5](clean_lvl.md).
-   1. **Applicability:** [Luna‑25](луна_25.md)
+   1. **Applicability** — [Luna‑25](луна_25.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 255U.530 ·［RU, 2c］
+### 255U.530   ［RU, 2c］
 **255U.530** (ru. **255У.530**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (255У.530.00-0)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|24.3|
 |Dimensions, ㎜|416 × 148|
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|26 280 (3) / …|
@@ -505,28 +504,28 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|588±49 (60±5)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 973 (303±2.2)|
 |Thrust — max duration of 1 thrust, s|0.2 ‑ 70|
-|Thrust — max switching frequency, ㎐|3|
+|Thrust — max switch. frequency, ㎐|3|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|17±4.6 (1.735±0.473)|
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|200|
 |Thrust — total thrust, N (㎏f), ≥|120 600 (12 290)|
-|Thrust — total thrust duration, s, ≥|200|
+|Thrust — total thrust duration, s (h), ≥|200|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. Specs’re based on vacuum & nominal continuous thrust starting from the 0.13 second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 0.13st second after energizing the solenoid valves.
    1. Designed for the needs of the [Luna-27](luna_27.md) based on the engine [255U.487](engine_lst.md).
    1. The content of dissolved helium in the fuel is ≤ 0.03 g/l. Work poorly with [CINU](cinu.md).
    1. The angular deviation of the engine nozzle axis relative to the base longitudinal axis is ≤ 5 " (angular), & ≤ 0.5 ㎜ (linear).
    1. The purity of the fuel supplied to the engine is not lower than [class 5](clean_lvl.md).
-   1. **Applicability:** [Luna‑27](луна_27.md)
+   1. **Applicability** — [Luna‑27](луна_27.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### 400NMHT ·［EU, 1c］
+### 400NMHT   ［EU, 1c］
 **400NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1996.
 
 |*Characteristics*|*[Value](si.md)<br> (400NMHT)*|
@@ -557,26 +556,27 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|120 ‑ 420 (12.2 ‑ 42.8)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 080 ‑ 2 160 (212 ‑ 220)|
 |Thrust — max duration of 1 thrust, s|450|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|3 900|
 |Thrust — total thrust, N (㎏f), ≥|188 000|
-|Thrust — total thrust duration, s, ≥|850|
+|Thrust — total thrust duration, s (h), ≥|850|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/0/400nmht_pic1_thumb.jpg)](f/ps/0/400nmht_pic1.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
    1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/400n-hydrazine-thruster.html> — [archived ❐](f/ps/0/400nmht_site.pdf) 2019.02.21
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** Ariane 5 G, GS & ES versions for the roll & attitude control・ ExoMars-2016 DM
+   1. **Applicability** — Ariane 5 G, GS & ES versions for the roll & attitude control・ ExoMars-2016 DM
+
 
 
 <p style="page-break-after:always"> </p>
 
-### AMBR ·［US, 2c］
+### AMBR   ［US, 2c］
 **AMBR** (Advanced material bipropellant rocket) — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 2012. Successor of [HiPAT](hipat.md).
 
 |*Characteristics*|*[Value](si.md)<br> (AMBR)*|
@@ -607,27 +607,27 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|667 (68)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 285 (335)|
 |Thrust — max duration of 1 thrust, s|3 600|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Presentation of NASA, 2009 ❐](f/ps/a/ambr_presentation1.pdf)
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
    1. [https://www.researchgate.net/publication/277533096](https://www.researchgate.net/publication/277533096_Performance_Results_for_the_Advanced_Materials_Bipropellant_Rocket_AMBR_Engine)
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### BE-3 ·［US, 2c］
+### BE-3   ［US, 2c］
 **BE-3** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-3)*|*[Value](si.md)<br> (BE-3U)*|
@@ -655,22 +655,21 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| | |
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
-|Thrust, N (㎏f)|490 000 (49 950)|670 000 (68 300)|
-|Thrust — deviation, N (㎏f)|19 ‑ 100| |
+|Thrust, N (㎏f)|93 100 ‑ 490 000 (9 490 ‑ 49 950)|670 000 (68 300)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| | |
 |Thrust — max duration of 1 thrust, s| | |
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥| | |
 |Thrust — total thrust, N (㎏f), ≥| | |
-|Thrust — total thrust duration, s, ≥| | |
+|Thrust — total thrust duration, s (h), ≥| | |
 |[Turbopump](turbopump.md) speed, rpm| | |
 
 **Notes:**
 
-   1. <https://en.wikipedia.org/wiki/BE-3>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. <https://en.wikipedia.org/wiki/BE-3>
    1. There are 2 variations: **BE-3** — basic version; **BE-3U** — for upper stages operating in vacuum.
    1. **Applicability:**
       - **BE-3** — [New Shepard](new_shepard.md) (from 2015)・ LV [New Glenn](new_glenn.md)・ LV [Vulcan](vulcan.md) (from 2020)
@@ -680,7 +679,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BE-4 ·［US, 2c］
+### BE-4   ［US, 2c］
 **BE‑4** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-4)*|
@@ -698,7 +697,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|6|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O + Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|
+|[Fuel](fuel.md) (+ combustion products)|[O+Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -708,33 +707,32 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|2 400 000 (244 650) **⁽¹⁾**|
-|Thrust — deviation, N (㎏f)|50 ‑ 100|
+|Thrust, N (㎏f)|1 200 000 ‑ 2 400 000 (122 320 ‑ 244 650) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|25|
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
 |[![](f/ps/be4_m1d_raptor_comparison1_thumb.jpg)](f/ps/be4_m1d_raptor_comparison1.png)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**| |
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <https://en.wikipedia.org/wiki/BE-4>
    1. <https://ru.wikipedia.org/wiki/BE-4>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — на уровне моря.
    1. Has a drive, deviates by ±5°.
-   1. **Applicability:** РН [New Glenn](new_glenn.md)・ РН [Vulcan](vulcan.md) (с 2020 года)
+   1. **Applicability** — РН [New Glenn](new_glenn.md)・ РН [Vulcan](vulcan.md) (с 2020 года)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### BE-7 ·［US, 2c］
+### BE-7   ［US, 2c］
 **BE-7** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-7)*|
@@ -765,26 +763,26 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|40 000 (4 100)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
 | |[![](f/ps/b/be7_pic1_thumb.jpg)](f/ps/b/be7_pic1.png)  [![](f/ps/b/be7_pic2_thumb.jpg)](f/ps/b/be7_pic2.jpg)|
 
 **Notes:**
 
-   1. <https://www.blueorigin.com/engines/be-7>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** [Blue Moon](blue_moon.md) (from 2024)
+   1. <https://www.blueorigin.com/engines/be-7>
+   1. **Applicability** — [Blue Moon](blue_moon.md) (from 2024)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### BT-4 ·［JP, 2c］
+### BT-4   ［JP, 2c］
 **BT-4** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in 2007.
 
 |*Characteristics*|*[Value](si.md)<br> (BT-4)*|
@@ -812,43 +810,42 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|500 (51) **⁽¹⁾**|
-|Thrust — deviation, N (㎏f)|50 ‑ 100|
+|Thrust, N (㎏f)|250 ‑ 500 (25.4 ‑ 51) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|(320±5)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|25|
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
 
 **Notes:**
 
-   1. <https://en.wikipedia.org/wiki/BT-4_(rocket_engine)>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. <https://en.wikipedia.org/wiki/BT-4_(rocket_engine)>
    1. **[1]** — in vacuum.
-   1. The BT-4 is a family that has been used as Liquid Apogee Engine, orbital maneuvering engine & as a thruster. Known Variations:
-       - **BT-4 (Cygnus)** — Used mainly as thruster, it burns MMH/N2O4 with a thrust of 450 N (100 lbf). It weighs 4 ㎏ (8.8 lb) & is 65 cm (26 in) tall.
-       - **BT-4 (450N)** — Used mainly as LAE, it burns Hydrazine/N2O4 in a 1.69 O/F ratio. It has a thrust of 450 N (100 lbf), a specific impulse of 329 s (3.23 km/s) & an input pressure of 1.62 ㎫ (235 psi). As of 2014, it had a demonstrated life of 32,850 seconds.
-       - **BT-4 (500N)** — Used mainly as LAE, it burns Hydrazine/N2O4 with a thrust of 500 N (110 lbf), a specific impulse of 329 s (3.23 km/s). It weights 4 ㎏ (8.8 lb) & is 80 cm (31 in) tall.
-       - **490N MON Thruster** — Burns MMH/MON-3 with a 478 N (107 lbf) nominal thrust, a specific impulse of 316 s (3.10 km/s) & an inlet pressure of 1.72 ㎫ (249 psi). As of 2014, it had a demonstrated life of 15,000 seconds.
+   1. BT-4 is a family that has been used as Liquid Apogee Engine, orbital maneuvering engine & as a thruster. Variations:
+       - **BT-4 (Cygnus)** — Used mainly as thruster, it burns MMH/N₂O₄ with a thrust of 450 N (100 lbf). It weighs 4 ㎏ (8.8 lb) & is 65 ㎝ (26 in) tall.
+       - **BT-4 (450N)** — Used mainly as LAE, it burns Hydrazine/N₂O₄ in a 1.69 O/F ratio. It has a thrust of 450 N (100 lbf), a specific impulse of 329 s (3.23 ㎞/s) & an input pressure of 1.62 ㎫. As of 2014, it had a demonstrated life of 32 850 s.
+       - **BT-4 (500N)** — Used mainly as LAE, it burns Hydrazine/N₂O₄ with a thrust of 500 N (110 lbf), a specific impulse of 329 s (3.23 ㎞/s). It weights 4 ㎏ (8.8 lb) & is 80 ㎝ (31 in) tall.
+       - **490N MON Thruster** — Burns MMH/MON-3 with a 478 N (107 lbf) nominal thrust, a specific impulse of 316 s (3.10 ㎞/s) & an inlet pressure of 1.72 ㎫ (249 psi). As of 2014, it had a demonstrated life of 15 000 s.
        - **HBT-5** — Developed for the HTV to crew-rated standards, it burns MMH/MON-3, & has a thrust of 500 N (110 lbf). Used in HTV-3 & since HTV-5 onward.
-       - **SELENE OME** — Based on the DRTS Liquid Apogee Engine, the SELENE Orbital Maneuvering Engine burned a Hydrazine/MON-3 mixture. It had a thrust of 547 ± 54 N (123 ± 12 lbf) & a specific impulse of 319.8 ± 5.1 s (3.136 ± 0.050 km/s) with an input pressure of 1.77 ㎫ (257 psi).
+       - **SELENE OME** — Based on the DRTS Liquid Apogee Engine, the SELENE Orbital Maneuvering Engine burned a Hydrazine/MON-3 mixture. It had a thrust of 547 ± 54 N (123 ± 12 lbf) & a specific impulse of 319.8 ± 5.1 s (3.136 ± 0.050 ㎞/s) with an input pressure of 1.77 ㎫ (257 psi).
    1. **Applicability** — Lunar-A (cancelled)・ Some geostationary communications satellite based on the Lockheed Martin A2100 & GEOStar-2 satellite buses.
 
 
 
 <p style="page-break-after:always"> </p>
 
-### DMT-500 ·［RU, 2c］
+### DMT-500   ［RU, 2c］
 **DMT-500** (ru. **ДМТ-500**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-500)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|24.3|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -873,12 +870,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|500 (51) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 041 (310) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 3 500 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|20 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|5 000 000 (509 600)|
-|Thrust — total thrust duration, s, ≥|10 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|10 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
@@ -886,19 +883,19 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### DMT-1000 ·［RU, 2c］
+### DMT-1000   ［RU, 2c］
 **DMT-1000** (ru. **ДМТ-1000**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-1000)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|24.3|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -923,12 +920,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|1 000 (102) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 756 (281) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.035 ‑ 3 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|1 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|30 000 (3 050)|
-|Thrust — total thrust duration, s, ≥|30 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|30 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
@@ -936,19 +933,19 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### DMT-2200 ·［RU, 2c］
+### DMT-2200   ［RU, 2c］
 **DMT-2200** (ru. **ДМТ-2200**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-2200)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|10.8|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -973,12 +970,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|2 250 (229) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 992 (305) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 210 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|500 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|472 500 (48 150)|
-|Thrust — total thrust duration, s, ≥|210 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|210 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
@@ -986,19 +983,19 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### DOC-10 ·［RU, 1c］
+### DOC-10   ［RU, 1c］
 **DOC-10** (ru. **ДОК-10**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOC-10)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|7.9|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -1023,31 +1020,31 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|10 (1) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 250 (229) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 600 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|4 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|15 000 (1 530)|
-|Thrust — total thrust duration, s, ≥|1 500 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|1 500 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### DOC-50 ·［RU, 1c］
+### DOC-50   ［RU, 1c］
 **DOC-50** (ru. **ДОК-50**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOC-50)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|16.2|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -1072,31 +1069,31 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|50 (5.1) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 250 (229) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 600 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|4 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|75 000 (7 600)|
-|Thrust — total thrust duration, s, ≥|1 500 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|1 500 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### DOT-5 ·［RU, 1c］
+### DOT-5   ［RU, 1c］
 **DOT-5** (ru. **ДОТ-5**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOT-5)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|15.8|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -1121,31 +1118,31 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|5 (0.5) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 255 (230) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 8 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|55 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|600 000 (61 150)|
-|Thrust — total thrust duration, s, ≥|120 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|120 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### DOT-25 ·［RU, 1c］
+### DOT-25   ［RU, 1c］
 **DOT-25** (ru. **ДОТ-25**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOT-25)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|7.9|
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -1170,25 +1167,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|25 (2.5) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 300 (234) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 6 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|6 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|625 000 (63 700)|
-|Thrust — total thrust duration, s, ≥|25 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|25 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### Draco ·［US, 2c］
+### Draco   ［US, 2c］
 **Draco** — a family of 2-component [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Draco)*|*[Value](si.md)<br> (SuperDraco)*|
@@ -1206,7 +1203,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|6|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO + MMH](nto_plus.md) ()|[NTO + MMH](nto_plus.md) ()|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md) ()|[NTO+MMH](nto_plus.md) ()|
 |Fuel — consumption, ㎏/s, ≤|0.135915|30.148619|
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥| |1 388|
@@ -1219,22 +1216,22 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|400 (40.7)|71 000 (7 237)|20 ‑ 100 %|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 943 (300)|2 355 (240)|
 |Thrust — max duration of 1 thrust, s| | |
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥| | |
 |Thrust — total thrust, N (㎏f), ≥| |1 770 000 (180 900)|
-|Thrust — total thrust duration, s, ≥| |25|
+|Thrust — total thrust duration, s (h), ≥| |25|
 |[Turbopump](turbopump.md) speed, rpm| | |
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <https://en.wikipedia.org/wiki/Draco_(rocket_engine_family)>
    1. <https://en.wikipedia.org/wiki/SpaceX_rocket_engines>
    1. <https://en.wikipedia.org/wiki/SuperDraco>
    1. <https://ru.wikipedia.org/wiki/Draco_(ракетный_двигатель)>
    1. <https://ru.wikipedia.org/wiki/SuperDraco_(ракетный_двигатель)>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. There are 2 variations: **Draco**; **SuperDraco** uses 3D printing, the combustion chamber is created from [inconel](nickel.md).
    1. **Applicability:**
       - **Draco** — [Dragon](dragon.md)・ [Dragon V2](dragon.md)・ [Falcon v.1.0](falcon.md), 2nd stage (2010‑2013)
@@ -1244,7 +1241,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### GT-50 ·［RU, el.］
+### GT-50   ［RU, el.］
 **GT-50** — electric ion [engine](ps.md) by [Avantspace](contact/avantspace.md).
 
 |*Characteristics*|*[Value](si.md)<br> (GT-50)*|*[Value](si.md)<br> (GT-50)*|
@@ -1275,35 +1272,35 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.005 (0.0005)|0.007 (0.0007)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|19 600 (2 000)|19 600 (2 000)|
 |Thrust — max duration of 1 thrust, s| | |
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥| | |
 |Thrust — total thrust, N (㎏f), ≥| | |
-|Thrust — total thrust duration, s, ≥| | |
+|Thrust — total thrust duration, s (h), ≥| | |
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 |[![](f/ps/g/gt_50_pic02_thumb.jpg)](f/ps/g/gt_50_pic02.jpg) [![](f/ps/g/gt_50_pic03_thumb.jpg)](f/ps/g/gt_50_pic03.png)|[![](f/ps/g/gt_50_pic01_thumb.jpg)](f/ps/g/gt_50_pic01.jpg)|[![](f/ps/g/gt_50_pic01_thumb.jpg)](f/ps/g/gt_50_pic01.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [A bunch of presentations](f/ps/g/gt_50_doc01.pdf)
    1. <http://www.avantspace.com/>
    1. <https://habr.com/ru/post/484364/>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see site [Avantspace](contact/avantspace.md), 2020 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### HiPAT ·［US, 2c］
+### HiPAT   ［US, 2c］
 **HiPAT** (High performance liquid apogee thruster) — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md).
 
 |*Characteristics*|*[Value](si.md)<br> (HiPAT or HiPAT DM)*|
 |:--|:--|
 |Composition| |
-|Consumption, W|46 (при 28 В)|
+|Consumption, W|46 (for 28 W)|
 |Dimensions, ㎜|720 × 360|
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
@@ -1328,28 +1325,28 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|445 (45)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 140 (320) (300:1 nozzle) or 3 170 (323) (375:1 nozzle)|
 |Thrust — max duration of 1 thrust, s|3 600|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|500|
 |Thrust — total thrust, N (㎏f), ≥|20 616 500 (2 102 300)|
-|Thrust — total thrust duration, s, ≥|46 330|
+|Thrust — total thrust duration, s (h), ≥|46 330|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |![](f/ps/h/hipat_pic1.png)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Promo specs ❐](f/ps/h/hipat_spec1.png)
    1. <http://www.astronautix.com/h/hipat.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### IHI 22N ·［JP, 2c］
+### IHI 22N   ［JP, 2c］
 **IHI 22N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 22N)*|
@@ -1380,26 +1377,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|21.5 ± … (2.19 ± …)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 894 (295)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|1 687 190 (171 985)|
-|Thrust — total thrust duration, s, ≥|78 500|
+|Thrust — total thrust duration, s (h), ≥|78 500|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_22n_thumb.jpg)](f/ps/i/ihi_22n.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### IHI 120N ·［JP, 2c］
+### IHI 120N   ［JP, 2c］
 **IHI 120N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 120N)*|
@@ -1430,26 +1426,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|124.4 ± … (12.68 ± …)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 695 (274.9)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|1 202 700 (122 600)|
-|Thrust — total thrust duration, s, ≥|9 668|
+|Thrust — total thrust duration, s (h), ≥|9 668|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_120n_thumb.jpg)](f/ps/i/ihi_120n.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### IHI 450N ·［JP, 2c］
+### IHI 450N   ［JP, 2c］
 **IHI 450N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 450N)*|
@@ -1480,26 +1475,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|450 ± … (45.87 ± …)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 228 (329)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|14 782 100 (1 506 835)|
-|Thrust — total thrust duration, s, ≥|32 850|
+|Thrust — total thrust duration, s (h), ≥|32 850|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_450n_thumb.jpg)](f/ps/i/ihi_450n.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### IHI 490N ·［JP, 2c］
+### IHI 490N   ［JP, 2c］
 **IHI 490N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 490N)*|
@@ -1530,26 +1524,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|478 ± … (49.95 ± …)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 100 (316)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|7 350 000 (749 235)|
-|Thrust — total thrust duration, s, ≥|15 000|
+|Thrust — total thrust duration, s (h), ≥|15 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_490n_thumb.jpg)](f/ps/i/ihi_490n.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### K10 ·［RU, 1c］
+### K10   ［RU, 1c］
 **K10** (ru. **К10**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (K10)*|
@@ -1580,25 +1573,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.1 (0.01) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 156 (220) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|70 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|44 000 (4 480)|
-|Thrust — total thrust duration, s, ≥|440 000|
+|Thrust — total thrust duration, s (h), ≥|440 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. Specs’re based on vacuum & nominal continuous thrust starting from the 4th second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 4th second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### K50 ·［RU, 1c］
+### K50   ［RU, 1c］
 **K50** (ru. **К50**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (К50-10.1)*|
@@ -1629,25 +1622,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.54 (0.05) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 158 (220) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|10 800 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|130 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|47 500 (4 840)|
-|Thrust — total thrust duration, s, ≥|88 000|
+|Thrust — total thrust duration, s (h), ≥|88 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. Specs’re based on vacuum & nominal continuous thrust starting from the 4th second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 4th second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** [Arktika-M](арктика_м.md)・ [Elektro-M](электро_м.md)
+   1. **Applicability** — [Arktika-M](арктика_м.md)・ [Elektro-M](электро_м.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### KVD1 ·［RU, 2c］
+### KVD1   ［RU, 2c］
 **KVD1** (ru. **КВД1**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (KVD1)*|
@@ -1678,26 +1671,26 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|69 650 (7 100) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|4 533 (462) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|600 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐|1 thrust/7.5 s **⁽¹⁾**|
+|Thrust — max switch. frequency, ㎐|1 pulse/7.5 s **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|3 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|55 720 000 (5 670 000)|
-|Thrust — total thrust duration, s, ≥|800 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|800 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. <https://en.wikipedia.org/wiki/KVD-1>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. <https://en.wikipedia.org/wiki/KVD-1>
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### LEROS ·［US, 2c］
+### LEROS   ［US, 2c］
 **LEROS** — 2‑component [engine](ps.md) by [Moog inc](contact/moog_inc.md). Manufacturing in UK. Classified as [HTAE](htae.md).
 
 |*Characteristics*|*[Value](si.md)<br> (LEROS 1b)*|*[Value](si.md)<br> (LEROS 1c)*|*[Value](si.md)<br> (LEROS 2b)*|*[Value](si.md)<br> (LEROS 4)*|
@@ -1715,7 +1708,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|4 **⁽²⁾**|
 |[Voltage](sps.md), V| | | | |
 |**［Specific］**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾** (H₂, H₂O, NH₃, N₂)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾** (H₂, H₂O, NH₃, N₂)|[NTO + MMH](nto_plus.md) **⁽¹ ²⁾** ()|[NTO + MMH](nto_plus.md) **⁽¹ ²⁾** ()|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, NH₃, N₂)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, NH₃, N₂)|[NTO+MMH](nto_plus.md) **⁽¹ ²⁾**<br> ()|[NTO+MMH](nto_plus.md) **⁽¹ ²⁾**<br> ()|
 |Fuel — consumption, ㎏/s, ≤|0.204180|0.144115|0.130532|0.352790|
 |Fuel — mass ratio of components|0.8 ‑ 0.9 **⁽¹⁾**|0.78 ‑ 0.89 **⁽¹⁾**|1.43 ‑ 1.81 **⁽¹⁾**|1.5 ‑ 1.8 **⁽²⁾**|
 |Fuel — resource, ㎏, ≥|4 180|4 480|3 900| |
@@ -1725,49 +1718,48 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| | | | |
 |Temper. — comb. chamber, К (℃)| | | | |
 |Temper. — nozzle cut, К (℃)| | | | |
-|Thrust, N (㎏f)|635 (64.7) **⁽¹⁾**|458 (46.9) **⁽¹⁾**|407 (41.5) **⁽¹⁾**|1 100 (102) **⁽¹⁾**|
-|Thrust — deviation, N (㎏f)|587 ‑ 707 **⁽¹⁾**<br> (59.8 ‑ 72)|386 ‑ 470 **⁽¹⁾**<br> (39.3 ‑ 49.7)|367 ‑ 456 **⁽¹⁾**<br> (37.4 ‑ 46.4)|900 ‑ 1 300 **⁽¹⁾**<br> (91.7 ‑ 132.5)|
+|Thrust, N (㎏f)|587 ‑ 635 ‑ 707<br> (59.8 ‑ 64.7 ‑ 72) **⁽¹⁾**|386 ‑ 458 ‑ 470<br> (39.3 ‑ 46.9 ‑ 49.7) **⁽¹⁾**|367 ‑ 407 ‑ 456<br> (37.4 ‑ 41.5 ‑ 46.4) **⁽¹⁾**|900 ‑ 1 100 ‑ 1 300<br> (91.7 ‑ 102 ‑ 132.5) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 110 (317) **⁽¹⁾**|3 178 (324) **⁽¹⁾**|3 118 (318) **⁽¹⁾**|3 118 (323) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|2 520 **⁽¹⁾**|5 800 **⁽¹⁾**|4 000 **⁽¹⁾**| |
-|Thrust — max switching frequency, ㎐| | | |17 ‑ 34 **⁽³⁾**|
+|Thrust — max switch. frequency, ㎐| | | |17 ‑ 34 **⁽³⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | | |
 |Thrust — torch angle, °| | | | |
 |Thrust — total pulses, ≥|10 500 **⁽¹⁾**|10 500 **⁽¹⁾**|10 500 **⁽¹⁾**| |
 |Thrust — total thrust, N (㎏f), ≥|13 000 000<br> (1 326 900)|14 198 000<br> (1 447 300)|12 169 000<br> (1 240 450)| |
-|Thrust — total thrust duration, s, ≥|20 500 **⁽¹⁾**|31 000 **⁽¹⁾**|29 900 **⁽¹⁾**| |
+|Thrust — total thrust duration, s (h), ≥|20 500 **⁽¹⁾**|31 000 **⁽¹⁾**|29 900 **⁽¹⁾**| |
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|—|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. Docs: [Upper Stage Engines Rev 0913 ❐](f/ps/l/leros_upper_stage_engines_rev_0913.djvu)・ [An overview of LEROS 4, Space Propulsion 2014 Conference ❐](f/ps/l/leros_sp2014_2969298.djvu)・ [An overview of LEROS 4, Space Propulsion 2012 Conference ❐](f/ps/l/leros_sp2012_2394092_witherrata.djvu)
    1. <https://en.wikipedia.org/wiki/LEROS>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see Upper Stage Engines Rev 0913, 2018 год.
    1. **[2]** — see An overview of LEROS 4, Space Propulsion 2014 Conference, 2014 год.
    1. **[3]** — see An overview of LEROS 4, Space Propulsion 2012 Conference, 2012 год.
-   1. **Applicability:** A2100 platform (including GPS Ⅲ, GOES-R/S, & SBIRS)・ 702MP Platform (including Intelsat)・ Mercury MESSENGER・ Mars Global Surveyor・ Mars Climate Orbiter・ Mars Odyssey・ [Juno](juno.md)
+   1. **Applicability** — A2100 platform (including GPS Ⅲ, GOES-R/S, & SBIRS)・ 702MP Platform (including Intelsat)・ Mercury MESSENGER・ Mars Global Surveyor・ Mars Climate Orbiter・ Mars Odyssey・ [Juno](juno.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### MD08 ·［RU, gas］
+### MD08   ［RU, gas］
 **MD08** (ru. **МД08**) — gas [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (MD08)*|*[Value](si.md)<br> (MD08-02)*|
 |:--|:--|:--|
 |Composition| | |
-|Consumption, W| | |
+|Consumption, W|10.2|10.2|
 |Dimensions, ㎜|60 × 8 **⁽²⁾**|60 × 8 **⁽²⁾**|
 |[Interfaces](interface.md)| | |
-|[Lifetime](lifetime.md)/Resource, h(y)|1 095 (3) **⁽²⁾** / …|1 095 (3  **⁽²⁾** / …|
+|[Lifetime](lifetime.md)/Resource, h(y)|1 095 (3) **⁽²⁾** / …|1 095 (3)  **⁽²⁾** / …|
 |Mass, ㎏|0.25 **⁽²⁾**|0.25 **⁽²⁾**|
 |[Overload](vibration.md), Grms| | |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
-|[Reliability](qm.md) per [lifetime](lifetime.md)| | |
-|[Thermal range](tcs.md), ℃| | |
+|[Reliability](qm.md) per [lifetime](lifetime.md)|0.999|0.999|
+|[Thermal range](tcs.md), ℃|−10 ‑ +50 for structures|−10 ‑ +50 for structures|
 |[TRL](trl.md)|9 **⁽²⁾**|9 **⁽²⁾**|
-|[Voltage](sps.md), V| | |
+|[Voltage](sps.md), V|27 (20 ‑ 34)|27 (20 ‑ 34)|
 |**［Specific］**|• • •|• • •|
 |[Fuel](fuel.md) (+ combustion products)|[N](азот.md) / [He](гелий.md) **⁽²⁾** (N / He)|[N](азот.md) / [He](гелий.md) **⁽²⁾** (N / He)|
 |Fuel — consumption, ㎏/s, ≤|0.0011438 / 0.0004420|0.0011438 / 0.0004420|
@@ -1779,29 +1771,28 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| | |
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
-|Thrust, N (㎏f)|0.819 (0.083) / 0.733 (0.074) **⁽²⁾**|0.819 (0.083) / 0.733 (0.074) **⁽²⁾**|
-|Thrust — deviation, N (㎏f)|± 1 **⁽²⁾**|± 1 **⁽²⁾**|
+|Thrust, N (㎏f)|0.819±0.0082 (0.083±0.00083) /<br> 0.733±0.0074 (0.074±0.00074) **⁽²⁾**|0.819±0.0082 (0.083±0.00083) /<br> 0.733±0.0074 (0.074±0.00074) **⁽²⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|716 (73) / 1 658 (169) **⁽²⁾**|716 (73) / 1 658 (169) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 100 **⁽²⁾**|0.05 ‑ 100 **⁽²⁾**|
-|Thrust — max switching frequency, ㎐|10 **⁽²⁾**|10 **⁽²⁾**|
+|Thrust — max switch. frequency, ㎐|10 **⁽²⁾**|10 **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|80 000 **⁽²⁾**|80 000 **⁽²⁾**|
 |Thrust — total thrust, N (㎏f), ≥|8 190 (834) / 7 330 (747)|8 190 (834) / 7 330 (747)|
-|Thrust — total thrust duration, s, ≥|10 000 **⁽²⁾**|10 000 **⁽²⁾**|
+|Thrust — total thrust duration, s (h), ≥|10 000 **⁽²⁾**|10 000 **⁽²⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
 
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 0.02nd second after energizing the solenoid valves.
    1. **[1,2]** — see Specification & [NIIMASH](contact/niimash.md) site, 2016 y.
-   1. **Applicability:** [Fobos‑Grunt](фобос_грунт.md) (MD08-02)
+   1. **Applicability** — [Fobos‑Grunt](фобос_грунт.md) (MD08-02)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### MD5 ·［RU, gas］
+### MD5   ［RU, gas］
 **MD5** (ru. **МД5**) — gas [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (MD5)*|
@@ -1832,25 +1823,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|5 (0.5) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|686 (70) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.012 ‑ 3 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|250 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 0.02nd second after energizing the solenoid valves.
    1. **[1]** — see [NIIMASH](contact/niimash.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### Merlin ·［US, 2c］
+### Merlin   ［US, 2c］
 **Merlin** — a family of 2‑components [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Merlin 1A)*|*[Value](si.md)<br> (Merlin 1B)*|*[Value](si.md)<br> (Merlin 1C)*|*[Value](si.md)<br> (Merlin 1C Vac)*|
@@ -1881,12 +1872,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|340 000 (34 658)|420 000 (42 813)|480 000 (49 930)|410 000 (41 896)|60 ‑ 100| |
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |2 972 (303)|2 992 (305)|3 355 (342)|
 |Thrust — max duration of 1 thrust, s| | | | |
-|Thrust — max switching frequency, ㎐| | | | |
+|Thrust — max switch. frequency, ㎐| | | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | | |
 |Thrust — torch angle, °| | | | |
 |Thrust — total pulses, ≥| | | | |
 |Thrust — total thrust, N (㎏f), ≥| | |778 080 000<br> (79 315 000)|135 700 000<br> (13 833 000)|
-|Thrust — total thrust duration, s, ≥| | |1 620|330|
+|Thrust — total thrust duration, s (h), ≥| | |1 620|330|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|—|
 |[![](f/ps/be4_m1d_raptor_comparison1_thumb.jpg)](f/ps/be4_m1d_raptor_comparison1.png)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**|[![](f/ps/m/merlin_1a_pic1_thumb.jpg)](f/ps/m/merlin_1a_pic1.png)| |[![](f/ps/m/merlin_1c_pic1_thumb.jpg)](f/ps/m/merlin_1c_pic1.jpg)|[![](f/ps/m/merlin_1c_vac_pic1_thumb.jpg)](f/ps/m/merlin_1c_vac_pic1.jpg)|
 
@@ -1919,26 +1910,25 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| | |
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
-|Thrust, N (㎏f)|914 000 (93 170)|934 000 (95 208)|
-|Thrust — deviation, N (㎏f)|40 ‑ 100 %|39 ‑ 100 %|
+|Thrust, N (㎏f)|365 600 ‑ 914 000 (37 270 ‑ 93 170)|364 250 ‑ 934 000 (37 130 ‑ 95 208)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 051 (311)|3 413 (348)|
 |Thrust — max duration of 1 thrust, s| | |
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥| | |
 |Thrust — total thrust, N (㎏f), ≥| | |
-|Thrust — total thrust duration, s, ≥| | |
+|Thrust — total thrust duration, s (h), ≥| | |
 |[Turbopump](turbopump.md) speed, rpm| | |
 | |[![](f/ps/m/merlin_1d_pic1_thumb.jpg)](f/ps/m/merlin_1d_pic1.jpg)| |
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <https://en.wikipedia.org/wiki/Merlin_(rocket_engine_family)>
    1. <https://ru.wikipedia.org/wiki/Мерлин_(ракетный_двигатель)>
    1. 2014.10.05 [Хабр: Превосходство Маска. О магии «Мерлина» замолвим слово ⎆](https://habr.com/ru/post/236761/) — [archived ❐](f/archive/20141005_1.pdf) 2014.10.05
    1. 2014.11.21 [Why is the Merlin 1D specific impulse so low?: ⎆](https://www.reddit.com/r/spacex/comments/2my35n/why_is_the_merlin_1d_specific_impulse_so_low/) — [archived ❐](f/archive/20141121_1.pdf) 2014.11.21
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. There are 6 variations: **Merlin 1A** — 2 pieces were made. **Merlin 1B** — it was a successor of 1A, 1 piece was made, but it never flew. **Merlin 1C**. **Merlin 1C Vac**. **Merlin 1D**. **Merlin 1D Vac**.
    1. **[1]** — …
    1. **Applicability:**
@@ -1953,7 +1943,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### MT-2 ·［JP, 1c］
+### MT-2   ［JP, 1c］
 **MT-2** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-2)*|
@@ -1984,26 +1974,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|6.9 ‑ 19.6 (0.7034 ‑ 1.998)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 060 ‑ 2 218 (210 ‑ 226)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|261 914|
 |Thrust — total thrust, N (㎏f), ≥|237 000 ‑ 255 000|
-|Thrust — total thrust duration, s, ≥|34 400 ‑ 13 000|
+|Thrust — total thrust duration, s (h), ≥|34 400 ‑ 13 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_mt2_thumb.jpg)](f/ps/i/ihi_mt2.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### MT-6 ·［JP, 1c］
+### MT-6   ［JP, 1c］
 **MT-6** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-6)*|
@@ -2034,26 +2023,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|23 ‑ 50 (2.3445 ‑ 5.0968)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 110 ‑ 2 208 (215 ‑ 225)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|14 800|
 |Thrust — total thrust, N (㎏f), ≥|253 100 ‑ 265 000|
-|Thrust — total thrust duration, s, ≥|11 000 ‑ 5 300|
+|Thrust — total thrust duration, s (h), ≥|11 000 ‑ 5 300|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_mt6_thumb.jpg)](f/ps/i/ihi_mt6.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### MT-8A ·［JP, 1c］
+### MT-8A   ［JP, 1c］
 **MT-8A** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-8A)*|
@@ -2084,26 +2072,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|1.47 ‑ 5.5 (0.1498 ‑ 0.5607)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 020 ‑ 2 150 (206 ‑ 219)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|850 000|
 |Thrust — total thrust, N (㎏f), ≥|364 000 ‑ 387 000|
-|Thrust — total thrust duration, s, ≥|247 500 ‑ 70 500|
+|Thrust — total thrust duration, s (h), ≥|247 500 ‑ 70 500|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_mt8a_thumb.jpg)](f/ps/i/ihi_mt8a.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### MT-9 ·［JP, 1c］
+### MT-9   ［JP, 1c］
 **MT-9** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-9)*|
@@ -2134,26 +2121,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.29 ‑ 1.13 (0.0296 ‑ 0.1152)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 040 ‑ 2 110 (208 ‑ 215)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|850 000|
 |Thrust — total thrust, N (㎏f), ≥|204 000 ‑ 211 000|
-|Thrust — total thrust duration, s, ≥|704 000 ‑ 187 000|
+|Thrust — total thrust duration, s (h), ≥|704 000 ‑ 187 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/i/ihi_mt9_thumb.jpg)](f/ps/i/ihi_mt9.jpg)|
 
 **Notes:**
 
-   1. …
    1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### Raptor ·［US, 2c］
+### Raptor   ［US, 2c］
 **Raptor** — a family of 2-component [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (ER40)*|*[Value](si.md)<br> (ER200)*|*[Value](si.md)<br> (Raptor 2017‑SL)*|*[Value](si.md)<br> (Raptor 2017‑V)*|
@@ -2171,7 +2157,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|3|3|6|6|
 |[Voltage](sps.md), V| | | | |
 |**［Specific］**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O + Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O + Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O + Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O + Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|
+|[Fuel](fuel.md) (+ combustion products)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤|922.5|934.08|486.82|516.58|
 |Fuel — mass ratio of components|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|
 |Fuel — resource, ㎏, ≥| | | | |
@@ -2181,31 +2167,30 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)|0.0735 (0.721)|0.09 (0.883)| | |
 |Temper. — comb. chamber, К (℃)|3 250|3 250|3 250|3 250|
 |Temper. — nozzle cut, К (℃)| | | | |
-|Thrust, N (㎏f)|3 285 000 (334 860)|3 500 000 (356 770)|1 700 000 (173 290)|1 900 000 (193 680)|
-|Thrust — deviation, N (㎏f)|20 ‑ 100 %|20 ‑ 100 %| | |
+|Thrust, N (㎏f)|657 000 ‑ 3 285 000 (66 970 ‑ 334 860)|700 000 ‑ 3 500 000 (71 350 ‑ 356 770)|1 700 000 (173 290)|1 900 000 (193 680)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 561 (363)|3 747 (382)|3 492 (356)|3 678 (375)|
 |Thrust — max duration of 1 thrust, s| | | | |
-|Thrust — max switching frequency, ㎐| | | | |
+|Thrust — max switch. frequency, ㎐| | | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | | |
 |Thrust — torch angle, °| | | | |
 |Thrust — total pulses, ≥| | | | |
 |Thrust — total thrust, N (㎏f), ≥| | | | |
-|Thrust — total thrust duration, s, ≥| | | | |
+|Thrust — total thrust duration, s (h), ≥| | | | |
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|—|
 |[![](f/ps/be4_m1d_raptor_comparison1_thumb.jpg)](f/ps/be4_m1d_raptor_comparison1.png)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**| | | | |
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <https://en.wikipedia.org/wiki/Raptor_(rocket_engine_family)>
    1. <https://en.wikipedia.org/wiki/SpaceX_rocket_engines>
    1. <https://ru.wikipedia.org/wiki/Raptor_(ракетный_двигатель)>
    1. 2017.06.28 [Хабр: Подробный разбор ЖРД «Raptor» ⎆](https://geektimes.ru/post/290549/) — [archived ❐](f/archive/20170628_1.pdf) 2019.02.13
    1. 2017.10.18 [Всё, что известно о двигателях Раптор и даже больше ⎆](https://elonmusk.su/vse-chto-izvestno-o-dvigatelyakh-raptor-i-dazhe-bolshe/) — [archived ❐](f/archive/20171018_1.pdf) 2019.02.13
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. It’s the successor to [Merlin](engine_lst.md). In contrast, it runs on the fuel [O + Methane](o_plus.md) & has a full‑flow closed cycle. For 2017 — the only full‑flow closed cycle engine in the world.
    1. There are 4 variations: **ER40** — basic version, works in both atmosphere & vacuum. **ER200** — ER40 version for vacuum operation. **Raptor2017‑SL** — development of 2017, works in both atmosphere & vacuum. **Raptor2017-V** — 2017 version for vacuum operation.
    1. **[1]** — …
-   1. **Applicability:** [BFR](bfr.md), [ITC](itc.md)
+   1. **Applicability** — [BFR](bfr.md), [ITC](itc.md)
 
 |Raptor Engine Test Site, 2017.01.30<br> [Source 1 ⎆](https://www.reddit.com/r/engineteststands/comments/43lmbn/spacexs_raptor_test_stand_under_construction_at/), [Source 2 ⎆](http://pictures.jtbuice.com/SpaceX-2/McGregor-Flyover-1-30-2016/)|
 |:--|
@@ -2215,7 +2200,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### R-1E ·［US, 2c］
+### R-1E   ［US, 2c］
 **R-1E** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1981.
 
 |*Characteristics*|*[Value](si.md)<br> (R-1E)*|
@@ -2246,28 +2231,28 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|111 (11.3)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 747 (280)|
 |Thrust — max duration of 1 thrust, s|100 180|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|330 000|
 |Thrust — total thrust, N (㎏f), ≥|11 120 000 (1 133 530)|
-|Thrust — total thrust duration, s, ≥|100 180|
+|Thrust — total thrust duration, s (h), ≥|100 180|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |![](f/ps/r/r-1e_pic1.png)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Promo specs ❐](f/ps/r/r-1e_spec1.jpg)
    1. <http://www.astronautix.com/r/r-1eengine.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** Space Shuttle — Orbiter’s vernier attitude control & orbit adjust thruster
+   1. **Applicability** — Space Shuttle — Orbiter’s vernier attitude control & orbit adjust thruster
 
 
 
 <p style="page-break-after:always"> </p>
 
-### R-4D ·［US, 2c］
+### R-4D   ［US, 2c］
 **R-4D** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1966.
 
 |*Characteristics*|*[Value](si.md)<br> (R-4D)*|
@@ -2298,28 +2283,28 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|490 (50)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 060 (312)|
 |Thrust — max duration of 1 thrust, s|3 600|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|20 700|
 |Thrust — total thrust, N (㎏f), ≥|20 016 000 (2 040 300)|
-|Thrust — total thrust duration, s, ≥|40 850|
+|Thrust — total thrust duration, s (h), ≥|40 850|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/r/r-4d_pic1_thumb.jpg)](f/ps/r/r-4d_pic1.png)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Promo specs ❐](f/ps/r/r-4d_spec1.jpg)
    1. <https://en.wikipedia.org/wiki/R-4D>
    1. <http://www.astronautix.com/r/r-4d.html>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** Apollo・ Cassini・ H-II Transfer Vehicle・ Orion・ Space Shuttle
+   1. **Applicability** — Apollo・ Cassini・ H-II Transfer Vehicle・ Orion・ Space Shuttle
 
 
 
 <p style="page-break-after:always"> </p>
 
-### R-6 ·［US, 2c］
+### R-6   ［US, 2c］
 **R-6** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md).
 
 |*Characteristics*|*[Value](si.md)<br> (R-6)*|
@@ -2350,25 +2335,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|22 (2.24)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### R-40 ·［US, 2c］
+### R-40   ［US, 2c］
 **R-40** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1981.
 
 |*Characteristics*|*[Value](si.md)<br> (R-40A)*|*[Value](si.md)<br> (R-40B)*|
@@ -2396,33 +2381,32 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| | |
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
-|Thrust, N (㎏f)|3 870 (394.5)|4 000 (407.7)|
-|Thrust — deviation, N (㎏f)|3 114 ‑ 5 338| |
+|Thrust, N (㎏f)|3 114 ‑ 3 870 ‑ 5 338 (317.4 ‑ 394.5 ‑ 544)|4 000 (407.7)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 000 (306)|2 875 (293)|
 |Thrust — max duration of 1 thrust, s|500|23 000|
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |50 000|
 |Thrust — total thrust, N (㎏f), ≥|59 211 000 (6 035 700)|92 073 600 (9 385 000)|
-|Thrust — total thrust duration, s, ≥|15 300|23 000|
+|Thrust — total thrust duration, s (h), ≥|15 300|23 000|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 | | |[![](f/ps/r/r-40b_pic1_thumb.jpg)](f/ps/r/r-40b_pic1.png)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Промо‑спецификации ❐](f/ps/r/r-40_spec1.jpg)
    1. <http://www.astronautix.com/r/r-40a.html>
    1. <http://www.astronautix.com/r/r-40b.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** Shuttle Orbiter orbit control (R-40A)
+   1. **Applicability** — Shuttle Orbiter orbit control (R-40A)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### R-42 ·［US, 2c］
+### R-42   ［US, 2c］
 **R-42** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md).
 
 |*Characteristics*|*[Value](si.md)<br> (R-42)*|*[Value](si.md)<br> (R-42DM)*|
@@ -2453,28 +2437,28 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|890 (90.7)|890 (90.7)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 970 (303)|2 970 (303)|
 |Thrust — max duration of 1 thrust, s|3 940|3 940|
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|134|134|
 |Thrust — total thrust, N (㎏f), ≥|24 271 000 (2 474 100)|24 271 000 (2 474 100)|
-|Thrust — total thrust duration, s, ≥|27 000|27 000|
+|Thrust — total thrust duration, s (h), ≥|27 000|27 000|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 | |[![](f/ps/r/r-42_pic1_thumb.jpg)](f/ps/r/r-42_pic1.png)|[![](f/ps/r/r-42_pic1_thumb.jpg)](f/ps/r/r-42_pic1.png)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Промо‑спецификации ❐](f/ps/r/r-42_spec1.jpg)
    1. <http://www.astronautix.com/r/r-42.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RIT 2X ·［EU, el.］
+### RIT 2X   ［EU, el.］
 **RIT 2X** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT 2X)*|*[Value](si.md)<br> (RIT 2X)*|*[Value](si.md)<br> (RIT 2X)*|
@@ -2505,26 +2489,26 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.070 ‑ 0.088<br> (0.0071 ‑ 0.0089)|0.151 ‑ 0.171<br> (0.0154 ‑ 0.0174)|0.198 ‑ 0.215<br> (0.0201 ‑ 0.0219)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|33 350 ‑ 34 350<br> (3 400 ‑ 3 500)|32 350 ‑ 34 350<br> (3 300 ‑ 3 500)|24 400 ‑ 27 000<br> (2 450 ‑ 2 750)|
 |Thrust — max duration of 1 thrust, s| | | |
-|Thrust — max switching frequency, ㎐| | | |
+|Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
 |Thrust — torch angle, °|25|25|25|
 |Thrust — total pulses, ≥|10 000|10 000|10 000|
 |Thrust — total thrust, N (㎏f), ≥|10 000 000 (1 019 360)|10 000 000 (1 019 360)|10 000 000 (1 019 360)|
-|Thrust — total thrust duration, s, ≥|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|
+|Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
 | |[![](f/ps/r/rit_2x_ion_thruster_thumb.jpg)](f/ps/r/rit_2x_ion_thruster.jpg)|[![](f/ps/r/rit_2x_ion_thruster_thumb.jpg)](f/ps/r/rit_2x_ion_thruster.jpg)|[![](f/ps/r/rit_2x_ion_thruster_thumb.jpg)](f/ps/r/rit_2x_ion_thruster.jpg)|
 
 **Notes:**
 
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/propulsion-systems/electric-propulsion/index.html>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/propulsion-systems/electric-propulsion/index.html>
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RIT‑10 ·［EU, el.］
+### RIT‑10   ［EU, el.］
 **RIT 10 EVO** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT‑10)*|*[Value](si.md)<br> (RIT‑10)*|*[Value](si.md)<br> (RIT‑10)*|
@@ -2555,26 +2539,26 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.005 (0.0005)|0.015 (0.0015)|0.025 (0.0025)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|18 600 (1 900)|29 400 (3 000)|31 400 (3 200)|
 |Thrust — max duration of 1 thrust, s| | | |
-|Thrust — max switching frequency, ㎐| | | |
+|Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
 |Thrust — torch angle, °|15|15|15|
 |Thrust — total pulses, ≥|10 000|10 000|10 000|
 |Thrust — total thrust, N (㎏f), ≥|1 100 000 (112 130)|1 100 000 (112 130)|1 100 000 (112 130)|
-|Thrust — total thrust duration, s, ≥|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|
+|Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
 | |[![](f/ps/r/rit_10_ion_thruster_thumb.jpg)](f/ps/r/rit_10_ion_thruster.jpg)|[![](f/ps/r/rit_10_ion_thruster_thumb.jpg)](f/ps/r/rit_10_ion_thruster.jpg)|[![](f/ps/r/rit_10_ion_thruster_thumb.jpg)](f/ps/r/rit_10_ion_thruster.jpg)|
 
 **Notes:**
 
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/propulsion-systems/electric-propulsion/index.html>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/propulsion-systems/electric-propulsion/index.html>
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RIT µX ·［EU, el.］
+### RIT µX   ［EU, el.］
 **RIT µX** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT µX)*|
@@ -2605,26 +2589,26 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.00005 ‑ 0.0005 (0.00000509 ‑ 0.0000509)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 943 ‑ 29 430 (300 ‑ 3 000)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °|17|
 |Thrust — total pulses, ≥|10 000|
 |Thrust — total thrust, N (㎏f), ≥|10 000 ‑ 200 000|
-|Thrust — total thrust duration, s, ≥|72 000 000 (20 000 h / 2.3 г)|
+|Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 г)|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/r/rit_micro_ion_thruster_thumb.jpg)](f/ps/r/rit_micro_ion_thruster.jpg)|
 
 **Notes:**
 
-   1. <http://www.space-propulsion.com/spacecraft-propulsion/propulsion-systems/electric-propulsion/index.html>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. <http://www.space-propulsion.com/spacecraft-propulsion/propulsion-systems/electric-propulsion/index.html>
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RS-25 ·［US, 2c］
+### RS-25   ［US, 2c］
 **RS-25** or **SSME** (Space Shuttle Main Engine) — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1972.
 
 |*Characteristics*|*[Value](si.md)<br> (RS-25)*|
@@ -2652,89 +2636,87 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)|3 573 (3 300)|
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|1 779 500 (181 400) sea lvl; 2 183 000 (222 600) vacuum|
-|Thrust — deviation, N (㎏f)|67 ‑ 109 %|
+|Thrust, N (㎏f)|1 192 250 ‑ 1 779 500 ‑ 1 939 650 (121 530 ‑ 181 400 ‑ 197 720) sea lvl;<br> 1 462 600 ‑ 2 183 000 ‑ 2 379 500 (149 100 ‑ 222 600 ‑ 242 550) vacuum|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|363 (sea lvl); 453 (vacuum)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥|520|
+|Thrust — total thrust duration, s (h), ≥|520|
 |[Turbopump](turbopump.md) speed, rpm| |
 | |[![](f/ps/r/rs-25_thumb.jpg)](f/ps/r/rs-25.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <http://www.astronautix.com/s/ssme.html>
    1. <https://en.wikipedia.org/wiki/Space_Shuttle_main_engine>
    1. <https://ru.wikipedia.org/wiki/RS-25>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S10 ·［EU, 2c］
+### S10   ［EU, 2c］
 **S10** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1975.
 
-|*Characteristics*|*[Value](si.md)<br> (S10‑13, S10‑18, S10‑26)*|
-|:--|:--|
-|Composition| |
-|Consumption, W|24|
-|Dimensions, ㎜| |
-|[Interfaces](interface.md)| |
-|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
-|Mass, ㎏|0.35 (SST) or 0.65 (DST)|
-|[Overload](vibration.md), Grms| |
-|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
-|[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
-|[TRL](trl.md)|9|
-|[Voltage](sps.md), V| |
-|**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[АТ (MON‑1, MON‑3) + MMH](nto_plus.md)|
-|Fuel — consumption, ㎏/s, ≤|0.0035 (0.0023 ‑ 0.0042)|
-|Fuel — mass ratio of components|1.65 (1.2 ‑ 2.1)|
-|Fuel — resource, ㎏, ≥|870|
-|Mach number / [Adiabatic exponent](heat_cr.md)| |
-|Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.91 (9)|
-|Press. — engine entrance, ㎫ (㎏f/㎝²)|1.01 ‑ 2.34 (10 ‑ 23)|
-|Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
-|Temper. — comb. chamber, К (℃)| |
-|Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|10 (1)|
-|Thrust — deviation, N (㎏f)|6 ‑ 12.5 (0.6 ‑ 1.27)|
-|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 860 (292)|
-|Thrust — max duration of 1 thrust, s|28 800|
-|Thrust — max switching frequency, ㎐| |
-|Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
-|Thrust — torch angle, °| |
-|Thrust — total pulses, ≥|1 000 000|
-|Thrust — total thrust, N (㎏f), ≥|2 484 000 (253 200)|
-|Thrust — total thrust duration, s, ≥|248 400|
-|[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/s/s10-13_pic1_thumb.jpg)](f/ps/s/s10-13_pic1.jpg) *S10‑13* [![](f/ps/s/s10-18_pic1_thumb.jpg)](f/ps/s/s10-18_pic1.jpg) *S10‑18* [![](f/ps/s/s10-26_pic1_thumb.jpg)](f/ps/s/s10-26_pic1.jpg) *S10‑26*|
+|*Characteristics*|*[Value](si.md)<br> (S10‑13)*|*[Value](si.md)<br> (S10‑18)*|*[Value](si.md)<br> (S10‑26)*|
+|:--|:--|:--|:--|
+|Composition| | | |
+|Consumption, W|24|24|24|
+|Dimensions, ㎜| | | |
+|[Interfaces](interface.md)| | | |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|… / …|
+|Mass, ㎏|0.35 (SST) or 0.65 (DST)|0.35 (SST) or 0.65 (DST)|0.35 (SST) or 0.65 (DST)|
+|[Overload](vibration.md), Grms| | | |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| | | |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| | | |
+|[Thermal range](tcs.md), ℃| | | |
+|[TRL](trl.md)|9|9|9|
+|[Voltage](sps.md), V| | | |
+|**［Specific］**|• • •|• • •|• • •|
+|[Fuel](fuel.md) (+ combustion products)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|0.0035 (0.0023 ‑ 0.0042)|0.0035 (0.0023 ‑ 0.0042)|0.0035 (0.0023 ‑ 0.0042)|
+|Fuel — mass ratio of components|1.65 (1.2 ‑ 2.1)|1.65 (1.2 ‑ 2.1)|1.65 (1.2 ‑ 2.1)|
+|Fuel — resource, ㎏, ≥|870|870|870|
+|Mach number / [Adiabatic exponent](heat_cr.md)| | | |
+|Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.91 (9)|0.91 (9)|0.91 (9)|
+|Press. — engine entrance, ㎫ (㎏f/㎝²)|1.01 ‑ 2.34 (10 ‑ 23)|1.01 ‑ 2.34 (10 ‑ 23)|1.01 ‑ 2.34 (10 ‑ 23)|
+|Press. — nozzle cut, ㎫ (㎏f/㎝²)| | | |
+|Temper. — comb. chamber, К (℃)| | | |
+|Temper. — nozzle cut, К (℃)| | | |
+|Thrust, N (㎏f)|6 ‑ 10 ‑ 12.5 (0.6 ‑ 1 ‑ 1.27)|6 ‑ 10 ‑ 12.5 (0.6 ‑ 1 ‑ 1.27)|6 ‑ 10 ‑ 12.5 (0.6 ‑ 1 ‑ 1.27)|
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 860 (292)|2 860 (292)|2 860 (292)|
+|Thrust — max duration of 1 thrust, s|28 800|28 800|28 800|
+|Thrust — max switch. frequency, ㎐| | | |
+|Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
+|Thrust — torch angle, °| | | |
+|Thrust — total pulses, ≥|1 000 000|1 000 000|1 000 000|
+|Thrust — total thrust, N (㎏f), ≥|2 484 000 (253 200)|2 484 000 (253 200)|2 484 000 (253 200)|
+|Thrust — total thrust duration, s (h), ≥|248 400|248 400|248 400|
+|[Turbopump](turbopump.md) speed, rpm|—|—|—|
+| |[![](f/ps/s/s10-13_pic1_thumb.jpg)](f/ps/s/s10-13_pic1.jpg)|[![](f/ps/s/s10-18_pic1_thumb.jpg)](f/ps/s/s10-18_pic1.jpg)|[![](f/ps/s/s10-26_pic1_thumb.jpg)](f/ps/s/s10-26_pic1.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
    1. <http://www.space-propulsion.com/spacecraft-propulsion/bipropellant-thrusters/10-bipropellant-thrusters.html> — [archived ❐](f/ps/s/s10_site.pdf) 2019.02.21
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. Modifications:
-      - **S10-13** with single seat, monostable, torque motor valve from a US supplier.
-      - **S10-18** with dual seat valve, comprising an upstream latch valve & a downstream monostable valve from a US supplier.
-      - **S10-26** with dual seat valve, comprising an upstream latch valve & a downstream monostable valve supplied by ArianeGroup, Germany.
+      - **S10-13** w/ single seat, monostable, torque motor valve from a US supplier.
+      - **S10-18** w/ dual seat valve, comprising an upstream latch valve & a downstream monostable valve from a US supplier.
+      - **S10-26** w/ dual seat valve, comprising an upstream latch valve & a downstream monostable valve supplied by ArianeGroup, Germany.
    1. **[1]** — see <mark>TBD</mark>
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S200 ·［EU, 2c］
+### S200   ［EU, 2c］
 **S200** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S200)*|
@@ -2752,7 +2734,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|MON-3 + [MMH](mmh.md) или [NTO + UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
+|[Fuel](fuel.md) (+ combustion products)|MON-3 + [MMH](mmh.md) or [NTO + UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.078 (0.06 ‑ 0.1)|
 |Fuel — mass ratio of components|1.65 (1.2 ‑ 1.9)|
 |Fuel — resource, ㎏, ≥|3 600|
@@ -2762,31 +2744,30 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)|1 420 (+1 150)|
 |Temper. — nozzle cut, К (℃)|1 070 (800)|
-|Thrust, N (㎏f)|216±10 (22±1)|
-|Thrust — deviation, N (㎏f)|180±15 ‑ 270±15 (18.3±1.5 ‑ 27.5±1.5)|
+|Thrust, N (㎏f)|180±15 ‑ 216±10 ‑ 270±15 (18.3±1.5 ‑ 22±1 ‑ 27.5±1.5)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 650 (270)|
 |Thrust — max duration of 1 thrust, s|11 400|
-|Thrust — max switching frequency, ㎐|5|
+|Thrust — max switch. frequency, ㎐|5|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|270 000|
 |Thrust — total thrust, N (㎏f), ≥|10 040 000 (1 020 000)|
-|Thrust — total thrust duration, s, ≥|46 500|
+|Thrust — total thrust duration, s (h), ≥|46 500|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/s/s200_pic1_thumb.jpg)](f/ps/s/s200_pic1.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
    1. <http://www.space-propulsion.com/spacecraft-propulsion/bipropellant-thrusters/200n-bipropellant-thrusters.html> — [archived ❐](f/ps/s/s200_site.pdf) 2019.02.21
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S400 ·［EU, 2c］
+### S400   ［EU, 2c］
 **S400** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S400‑12)*|*[Value](si.md)<br> (S400‑15)*|
@@ -2804,7 +2785,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|9|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[АТ (MON‑1, MON‑3) + MMH](nto_plus.md)|[АТ (MON‑1, MON‑3) + MMH](nto_plus.md)|
+|[Fuel](fuel.md) (+ combustion products)|[NTO (MON‑1, MON‑3) + MMH](nto_plus.md)|[NTO (MON‑1, MON‑3) + MMH](nto_plus.md)|
 |Fuel — consumption, ㎏/s, ≤|0.135 (0.11 ‑ 0.142)|0.135 (0.11 ‑ 0.142)|
 |Fuel — mass ratio of components|1.65 (1.5 ‑ 1.8)|1.65 (1.5 ‑ 1.8)|
 |Fuel — resource, ㎏, ≥|4 000|4 100|
@@ -2814,33 +2795,32 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| | |
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
-|Thrust, N (㎏f)|420 (42.8)|425 (43.3)|
-|Thrust — deviation, N (㎏f)|340 ‑ 440 (34.65 ‑ 44.85)|340 ‑ 440 (34.65 ‑ 44.85)|
+|Thrust, N (㎏f)|340 ‑ 420 ‑ 440 (34.65 ‑ 42.8 ‑ 44.85)|340 ‑ 425 ‑ 440 (34.65 ‑ 43.3 ‑ 44.85)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 120 (318)|3150 (321)|
 |Thrust — max duration of 1 thrust, s|4 000|6 700|
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|100|135|
 |Thrust — total thrust, N (㎏f), ≥|12 550 000 (1 280 000)|13 000 000 (1 325 000)|
-|Thrust — total thrust duration, s, ≥|29 900|30 600|
+|Thrust — total thrust duration, s (h), ≥|29 900|30 600|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 | |[![](f/ps/s/s400-12_pic1_thumb.jpg)](f/ps/s/s400-12_pic1.jpg)|[![](f/ps/s/s400-15_pic1_thumb.jpg)](f/ps/s/s400-15_pic1.jpg)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Products brochures ❐](f/con/o/opc_lam_brochures.7z)
    1. <https://en.wikipedia.org/wiki/S400_(rocket_engine)>
    1. <http://www.space-propulsion.com/spacecraft-propulsion/apogee-motors/index.html>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see <mark>TBD</mark>
-   1. **Applicability:** Symphonie 1 (1974)・ Symphonie 2 (1975)・ TV-Sat 1 (1987)・ TDF-1 (1988)・ Galileo (1989)・ Tele X (1989)・ DFS Kopernikus 1 (1989)・ TV-Sat 2 (1989)・ DFS Kopernikus 2 (1989)・ TDF-2 (1990)・ Eutelsat 2-F1 (1990)・ Eutelsat 2-F2 (1991)・ Eutelsat 2-F3 (1991)・ Arabsat 1C (1992)・ Eutelsat 2-F4 (1992)・ DFS Kopernikus 3 (1992)・ Eutelsat 2-F5 (1994)・ Turksat 1A (1994)・ Turksat 1AR (1994)・ Turksat 1B (1994)・ HotBird 1 (1995)・ Amos 1 (1995)・ Arabsat 2A (1996)・ Turksat 1C (1996)・ Arabsat 2B (1996)・ Nahuel 1A (1997)・ Thaicom 3 (1997)・ Sirius 2 FM1 (1997)・ Sinosat (1998)・ Eutelsat W2 (1998)・ GE 5 (1998)・ Arabsat 3A (1999)・ Eutelsat W3 (1999)・ Hispasat 1C (2000)・ Eutelsat W4 (2000)・ Cluster FM 6・ FM 7 (2000)・ Cluster FM 5・ FM 8 (2000)・ Amsat P3D (2000)・ Eurasiasat (2001)・ Sicral (2001)・ Eurobird (2001)・ Artemis (2001)・ Atlantic Bird 2 (2001)・ Atlantic Bird 3 (2002)・ Atlantic Bird 1 (2002)・ HotBird 6 (2002)・ Meteosat SG 1 (2002)・ Hispasat 1D (2002)・ Eutelsat W5 (2002)・ Astra 1K (2002)・ Mars Express (2003)・ AMC 9 (2003)・ Amos 2 (2003)・ Apstar 6 (2005)・ AMC 12 (2005)・ AMC 13 (2005)・ MSG FM2 (2005)・ Syracruse 3A (2005)・ Venus Express (2005)・ HB7A・ APA2 (2006)・ Koreasat 5 (2006)・ Syracuse 3B FM2 (2006)・ THAICOM 5 (2006)・ Chinasat 6B (2007)・ Galaxy 17 (2007)・ Rascom RC1 (2007)・ Star One C1 (2007)・ Chinasat 9 (2008)・ CIEL 2 (2008)・ Star One C2 (2008)・ Turksat 3A (2008)・ Eutelsat W3A (2009)・ Eutelsat W7 (2009)・ Comsat-Bw 1 (2009)・ Palapa D (2009)・ SICRAL2 (1B) (2009)・ Thor-6 (2009)・ Eutelsat W3B (2010)・ Comsat-Bw 2 (2010)・ Nilesat 201 (2010)・ RASCOM QAF 1R (2010)・ Eutelsat W3C (2011)・ MSG FM3 (2011)・ Apstar 7A (2012)・ Apstar 7B (2012)・ Eutelsat W6A (2012)・ Alphasat (2013)・ MSG FM4 (2013)・ AMOS 4 (2013)・ ARSAT (2014)・ Athena Fidus (2014)・ MSG FM4 (2015)・ ARSAT 2 (2015)・ E8WB (2015)・ Türkmensat (2015)・ Sicral 2 (2015)・ Exomars Orbiter (2016)・ Amos 6 (LV failure)・ EDRS (2016)・ SGDC (2017)・ Koreasat 7 (2017)・ Koreasat 5A (2017)・ Telkom 3S (2017)・ Inmarsat HS3 (2018)・ KARI GK2A (2018)・ KARI GK2B ( )・ BS1 (2018)・ Quantum (2019)・ MTG I1 (2020)・ Egyptsat (2019)・ Yamal 601 (2019)・ MTG-S1 ()
+   1. **Applicability** — Symphonie 1 (1974)・ Symphonie 2 (1975)・ TV-Sat 1 (1987)・ TDF-1 (1988)・ Galileo (1989)・ Tele X (1989)・ DFS Kopernikus 1 (1989)・ TV-Sat 2 (1989)・ DFS Kopernikus 2 (1989)・ TDF-2 (1990)・ Eutelsat 2-F1 (1990)・ Eutelsat 2-F2 (1991)・ Eutelsat 2-F3 (1991)・ Arabsat 1C (1992)・ Eutelsat 2-F4 (1992)・ DFS Kopernikus 3 (1992)・ Eutelsat 2-F5 (1994)・ Turksat 1A (1994)・ Turksat 1AR (1994)・ Turksat 1B (1994)・ HotBird 1 (1995)・ Amos 1 (1995)・ Arabsat 2A (1996)・ Turksat 1C (1996)・ Arabsat 2B (1996)・ Nahuel 1A (1997)・ Thaicom 3 (1997)・ Sirius 2 FM1 (1997)・ Sinosat (1998)・ Eutelsat W2 (1998)・ GE 5 (1998)・ Arabsat 3A (1999)・ Eutelsat W3 (1999)・ Hispasat 1C (2000)・ Eutelsat W4 (2000)・ Cluster FM 6・ FM 7 (2000)・ Cluster FM 5・ FM 8 (2000)・ Amsat P3D (2000)・ Eurasiasat (2001)・ Sicral (2001)・ Eurobird (2001)・ Artemis (2001)・ Atlantic Bird 2 (2001)・ Atlantic Bird 3 (2002)・ Atlantic Bird 1 (2002)・ HotBird 6 (2002)・ Meteosat SG 1 (2002)・ Hispasat 1D (2002)・ Eutelsat W5 (2002)・ Astra 1K (2002)・ Mars Express (2003)・ AMC 9 (2003)・ Amos 2 (2003)・ Apstar 6 (2005)・ AMC 12 (2005)・ AMC 13 (2005)・ MSG FM2 (2005)・ Syracruse 3A (2005)・ Venus Express (2005)・ HB7A・ APA2 (2006)・ Koreasat 5 (2006)・ Syracuse 3B FM2 (2006)・ THAICOM 5 (2006)・ Chinasat 6B (2007)・ Galaxy 17 (2007)・ Rascom RC1 (2007)・ Star One C1 (2007)・ Chinasat 9 (2008)・ CIEL 2 (2008)・ Star One C2 (2008)・ Turksat 3A (2008)・ Eutelsat W3A (2009)・ Eutelsat W7 (2009)・ Comsat-Bw 1 (2009)・ Palapa D (2009)・ SICRAL2 (1B) (2009)・ Thor-6 (2009)・ Eutelsat W3B (2010)・ Comsat-Bw 2 (2010)・ Nilesat 201 (2010)・ RASCOM QAF 1R (2010)・ Eutelsat W3C (2011)・ MSG FM3 (2011)・ Apstar 7A (2012)・ Apstar 7B (2012)・ Eutelsat W6A (2012)・ Alphasat (2013)・ MSG FM4 (2013)・ AMOS 4 (2013)・ ARSAT (2014)・ Athena Fidus (2014)・ MSG FM4 (2015)・ ARSAT 2 (2015)・ E8WB (2015)・ Türkmensat (2015)・ Sicral 2 (2015)・ Exomars Orbiter (2016)・ Amos 6 (LV failure)・ EDRS (2016)・ SGDC (2017)・ Koreasat 7 (2017)・ Koreasat 5A (2017)・ Telkom 3S (2017)・ Inmarsat HS3 (2018)・ KARI GK2A (2018)・ KARI GK2B ( )・ BS1 (2018)・ Quantum (2019)・ MTG I1 (2020)・ Egyptsat (2019)・ Yamal 601 (2019)・ MTG-S1 ()
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.86 ·［RU, 2c］
+### S5.86   ［RU, 2c］
 **S5.86** (ru. **С5.86**, also **КМД** (кислородно‑метановый двигатель) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.86)*|
@@ -2858,7 +2838,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|5 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O + Methane](o_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂)|
+|[Fuel](fuel.md) (+ combustion products)|[O+Methane](o_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤|20.26859504|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -2871,25 +2851,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|73 575 (7 500) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 630 (370) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.92 ·［RU, 2c］
+### S5.92   ［RU, 2c］
 **S5.92** (ru. **С5.92**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md),<br> (S5.92, high thrust)*|*[Value](si.md),<br> (S5.92, low thrust)*|
@@ -2920,12 +2900,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|19 620 (2 000) **⁽¹⁾**|13 734 (1 400) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 208 (327) **⁽¹⁾**|3 100 (316) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| | |
-|Thrust — max switching frequency, ㎐|1 thrust/6 min **⁽¹⁾** (max pause 300 d)|1 thrust/6 min **⁽¹⁾** (max pause 300 d)|
+|Thrust — max switch. frequency, ㎐|1 pulse/6 min **⁽¹⁾** (max pause 300 d)|1 pulse/6 min **⁽¹⁾** (max pause 300 d)|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|50 **⁽¹⁾**|50 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|39 200 000 (4 000 000)|27 400 000 (2 800 000)|
-|Thrust — total thrust duration, s, ≥|2 000 **⁽¹⁾**|2 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|2 000 **⁽¹⁾**|2 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|58 000|43 000|
 
 **Notes:**
@@ -2933,13 +2913,13 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
    1. Turbopump consumes 4 ㎏ of fuel for the start, 5.5 — for the stop.
-   1. **Applicability:** [Fregat](fregat.md) & MDU (regular main engine)・ [Fobos-Grunt](фобос_грунт.md) (as a part of MDU)
+   1. **Applicability** — [Fregat](fregat.md) & MDU (regular main engine)・ [Fobos-Grunt](фобос_грунт.md) (as a part of MDU)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.120 ·［RU, 2c］
+### S5.120   ［RU, 2c］
 **S5.120** (ru. **С5.120**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.120)*|
@@ -2970,42 +2950,42 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|5 886 (600)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 983 (305)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|10|
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. <http://lpre.de/kbhm/index.htm>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. <http://lpre.de/kbhm/index.htm>
    1. **[1]** — expert review.
-   1. **Applicability:** «Аргон» («Zenith‑6U»)・ upper-stage «Курьер» (1998 y)
+   1. **Applicability** — «Аргон» («Zenith‑6U»)・ upper-stage «Курьер» (1998 y)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.140 ·［RU, 2c］
+### S5.140   ［RU, 2c］
 **S5.140** (ru. **С5.140**, also **ДМТ-6**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.140)*|*[Value](si.md)<br> (DMT-6)*|
 |:--|:--|:--|
 |Composition| | |
-|Consumption, W| | |
+|Consumption, W|15.8|15.8|
 |Dimensions, ㎜|200 × 26.6 **⁽¹⁾**| |
 |[Interfaces](interface.md)| | |
-|[Lifetime](lifetime.md)/Resource, h(y)|60 **⁽¹⁾** / …|… / …|
+|[Lifetime](lifetime.md)/Resource, h(y)|60 **⁽¹⁾** / 87 600 (10)|… / 87 600 (10)|
 |Mass, ㎏|0.95 **⁽¹⁾**|0.9 **⁽²⁾**|
 |[Overload](vibration.md), Grms| | |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | |
 |[Thermal range](tcs.md), ℃| | |
 |[TRL](trl.md)|6 **⁽¹⁾**|3 **⁽²⁾**|
-|[Voltage](sps.md), V| | |
+|[Voltage](sps.md), V|27±3|27±3|
 |**［Specific］**|• • •|• • •|
 |[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0023509|0.0024469|
@@ -3020,33 +3000,33 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|6.19±0.143 (0.631±0.015) **⁽¹⁾**|6 (0.6) **⁽²⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 633±151 (268.4±15.4) **⁽¹⁾**|2 452 (250) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.045 ‑ 100 **⁽¹⁾**|0.045 ‑ 150 **⁽²⁾**|
-|Thrust — max switching frequency, ㎐|10.5 **⁽¹⁾**| |
+|Thrust — max switch. frequency, ㎐|10.5 **⁽¹⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|0.294 (0.03) **⁽¹⁾**| |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|30 000 **⁽¹⁾**|300 000 **⁽²⁾**|
 |Thrust — total thrust, N (㎏f), ≥|29 000|118 000|
-|Thrust — total thrust duration, s, ≥|4 700 **⁽¹⁾**|20 000 **⁽²⁾**|
+|Thrust — total thrust duration, s (h), ≥|4 700 **⁽¹⁾**|20 000 **⁽²⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **[1,2]** — see Specification & [КБХМ](contact/kbhm.md) site, 2016 y.
+   1. **[1,2]** — see Specification & [KBHM](contact/kbhm.md) site, 2016 y.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
    1. The angular deviation of the axis of the engine nozzle relative to the base longitudinal axis is ≤ 30 ".
-   1. **Applicability:** [Luna‑25](луна_25.md)・ [Luna‑27](луна_27.md)
+   1. **Applicability** — [Luna‑25](луна_25.md)・ [Luna‑27](луна_27.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.142 ·［RU, 2c］
+### S5.142   ［RU, 2c］
 **S5.142** (ru. **С5.142**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.142)*|*[Value](si.md)<br> (DST-25)*|
 |:--|:--|:--|
 |Composition| | |
-|Consumption, W|15.8| |
+|Consumption, W|15.8|15.8|
 |Dimensions, ㎜| | |
 |[Interfaces](interface.md)| | |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|
@@ -3071,12 +3051,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|24.5 (2.5)|25 (2.5) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 803 (285); 2 943 (300) **⁽²⁾**|2 790 (284) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 4 000|0.03 ‑ 4 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| | |
+|Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|100 000|300 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|582 000; 613 000|613 000|
-|Thrust — total thrust duration, s, ≥|25 000|25 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|25 000|25 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
@@ -3085,19 +3065,19 @@ A list of [Engines](ps.md).
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 год.
    1. **[2]** — can be achieved by modernization by increasing the pressure by 10 atm.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
-   1. **Applicability:** Soyuz‑TMA
+   1. **Applicability** — Soyuz‑TMA
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.144 ·［RU, 2c］
+### S5.144   ［RU, 2c］
 **S5.144** (ru. **С5.144**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.144)*|*[Value](si.md)<br> (DST-100)*|*[Value](si.md)<br> (DST-100A)*|
 |:--|:--|:--|:--|
 |Composition| | | |
-|Consumption, W|34.2| | |
+|Consumption, W|34.2|34.2|34.2|
 |Dimensions, ㎜| | | |
 |[Interfaces](interface.md)| | | |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|… / …|
@@ -3109,7 +3089,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0331418; 0.0322591|0.0369685|0.0335570|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 610|371|1 680|
@@ -3122,12 +3102,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|98.1 (10.0)|100 (10.2) **⁽¹⁾**|100 (10.2) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 960 (302); 3 041 (310) **⁽²⁾**|2 705 (275) **⁽¹⁾**|2 980 (303) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 2 500|0.05 ‑ 300 **⁽¹⁾**|0.05 ‑ 4 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| | | |
+|Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
 |Thrust — torch angle, °| | | |
 |Thrust — total pulses, ≥|450 000|10 000 **⁽¹⁾**|450 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|4 770 000; 4 900 000|1 001 000|5 000 000|
-|Thrust — total thrust duration, s, ≥|50 000|10 000 **⁽¹⁾**|50 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|50 000|10 000 **⁽¹⁾**|50 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
 
 **Notes:**
@@ -3136,19 +3116,19 @@ A list of [Engines](ps.md).
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
    1. **[2]** — can be achieved by modernization by increasing the pressure by 10 atm.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
-   1. **Applicability:** S5.144 — ISS in 2016 ‑ 2018.
+   1. **Applicability** — S5.144 — ISS in 2016 ‑ 2018.
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.145 ·［RU, 2c］
+### S5.145   ［RU, 2c］
 **S5.145** (ru. **С5.145**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.145)*|*[Value](si.md)<br> (DST-50)*|
 |:--|:--|:--|
 |Composition| | |
-|Consumption, W|15.8| |
+|Consumption, W|15.8|15.8|
 |Dimensions, ㎜|280 × 102.25 **⁽¹⁾**| |
 |[Interfaces](interface.md)| | |
 |[Lifetime](lifetime.md)/Resource, h(y)|60 **⁽¹⁾** / …|… / …|
@@ -3173,12 +3153,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|52.9 (5.4) **⁽¹⁾**|50 (5.1) **⁽²⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 991±15 (305±2) **⁽¹⁾**|2 845 (290)|
 |Thrust — max duration of 1 thrust, s|0.045 ‑ 3 000 **⁽¹⁾**|0.03 ‑ 4 000 **⁽²⁾**|
-|Thrust — max switching frequency, ㎐|10.5 **⁽¹⁾**| |
+|Thrust — max switch. frequency, ㎐|10.5 **⁽¹⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|0.75 ‑ 2.34 (0.076 ‑ 0.239) **⁽¹⁾**| |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥|20 000 **⁽¹⁾**|300 000 **⁽²⁾**|
 |Thrust — total thrust, N (㎏f), ≥|530 000|1 250 000|
-|Thrust — total thrust duration, s, ≥|10 000 **⁽¹⁾**|25 000|
+|Thrust — total thrust duration, s (h), ≥|10 000 **⁽¹⁾**|25 000|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
@@ -3187,19 +3167,19 @@ A list of [Engines](ps.md).
    1. **[1,2]** — see Specification & [KBHM](contact/kbhm.md) site, 2016 y.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
    1. The angular deviation of the axis of the engine nozzle relative to the base longitudinal axis is ≤ 30 ".
-   1. **Applicability:** [Luna‑25](луна_25.md)・ [Luna‑27](луна_27.md)
+   1. **Applicability** — [Luna‑25](луна_25.md)・ [Luna‑27](луна_27.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.146 ·［RU, 2c］
+### S5.146   ［RU, 2c］
 **S5.146** (ru. **С5.146**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S5.146)*|*[Value](si.md)<br> (DST-200)*|*[Value](si.md)<br> (DST-200A)*|
 |:--|:--|:--|:--|
 |Composition| | | |
-|Consumption, W|34.2| | |
+|Consumption, W|34.2|21.6|34.2|
 |Dimensions, ㎜| | | |
 |[Interfaces](interface.md)| | | |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|… / …|
@@ -3211,7 +3191,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|0.0651394; 0.0634951|0.0727272|0.0680272|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 270|364|682|
@@ -3224,12 +3204,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|196.2 (20.0)|200 (20.4) **⁽¹⁾**|200 (20.4) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 012 (307); 3 090 (315) **⁽²⁾**|2 750 (280) **⁽¹⁾**|2 940 (299) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 2 500|0.05 ‑ 300 **⁽¹⁾**|0.05 ‑ 4 000 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐| | | |
+|Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
 |Thrust — torch angle, °| | | |
 |Thrust — total pulses, ≥|45 000|10 000 **⁽¹⁾**|100 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|3 830 000; 3 930 000|1 000 000|2 000 000|
-|Thrust — total thrust duration, s, ≥|20 000|5 000 **⁽¹⁾**|10 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|20 000|5 000 **⁽¹⁾**|10 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
 
 **Notes:**
@@ -3238,81 +3218,81 @@ A list of [Engines](ps.md).
    1. **[1]** — see [KBHM](contact/kbhm.md) site, 2016 y.
    1. **[2]** — can be achieved by upgrading.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
-   1. **Applicability:** С5.146 — ISS in 2016 ‑ 2018 y.
+   1. **Applicability** — С5.146 — ISS in 2016 ‑ 2018 y.
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.154 ·［RU, 2c］
+### S5.154   ［RU, 2c］
 **S5.154** (ru. **С5.154, КТД** (корректирующе‑тормозной двигатель)) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.154)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|130|
 |Dimensions, ㎜|280×340×860 **⁽¹⁾**|
 |[Interfaces](interface.md)| |
-|[Lifetime](lifetime.md)/Resource, h(y)|720 (30 days) **⁽²⁾ ⁽³⁾** / …|
+|[Lifetime](lifetime.md)/Resource, h(y)|720 (30 days) **⁽² ³⁾** / …|
 |Mass, ㎏|54 **⁽²⁾**|
-|[Overload](vibration.md), Grms| |
+|[Overload](vibration.md), Grms|…, ↕10g, ↔5g|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
+|[Thermal range](tcs.md), ℃|−50 ‑ +70 for structures, −5 ‑ +35 for structures w/ fuel, +5 ‑ +35 for fuel|
 |[TRL](trl.md)|9 **⁽¹⁾**|
-|[Voltage](sps.md), V| |
+|[Voltage](sps.md), V|27±3|
 |**［Specific］**|• • •|
 |[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|1.2546385 - 1.5054382|
 |Fuel — mass ratio of components|1.886 ± 0.1 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 580|
 |Mach number / [Adiabatic exponent](heat_cr.md)|5.971 / … **⁽¹⁾**|
-|Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
+|Press. — comb. chamber, ㎫ (㎏f/㎝²)|4.02 ‑ 4.78 (39.7 ‑ 47.2) |
 |Press. — engine entrance, ㎫ (㎏f/㎝²)|1.96 (20) **⁽¹⁾**|
-|Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
+|Press. — nozzle cut, ㎫ (㎏f/㎝²)|0.000742 (0.00728)|
 |Temper. — comb. chamber, К (℃)|2 500 (2 300)|
 |Temper. — nozzle cut, К (℃)|690 (420) **⁽¹⁾**|
 |Thrust, N (㎏f)|3 922 - 4 706 (400 - 480) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 126±29 (319±3) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|5 - 460 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐|1 thrust/15 s for landing **⁽¹⁾**; 1 thrust/9 000 s for flight **⁽¹⁾**|
+|Thrust — max switch. frequency, ㎐|1 pulse/15 s for landing **⁽¹⁾**; 1 pulse/9 000 s for flight **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|1 961±392 (200±40) **⁽¹⁾**|
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|10 **⁽¹ ³⁾**|
 |Thrust — total thrust, N (㎏f), ≥|4 510 300 - 5 411 900 (459 765 - 551 671)|
-|Thrust — total thrust duration, s, ≥|1 150 **⁽¹⁾**|
-|[Turbopump](turbopump.md) speed, rpm| |
+|Thrust — total thrust duration, s (h), ≥|1 150 **⁽¹⁾**|
+|[Turbopump](turbopump.md) speed, rpm|<mark>TBD</mark>|
 
 **Notes:**
 
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 3.5rd second after energizing the solenoid valves.
    1. **[1,2,4]** — see ТУ.
-   1. **[3]** — requires clarification. Potentially, the values are many times higher. 
+   1. **[3]** — requires clarification. Potentially, the values are many times higher.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
    1. Turbopump consumes 1.1 ㎏ of fuel for the start, 1.7 — for the stop.
-   1. **Applicability:** [Luna‑25](луна_25.md)
+   1. **Applicability** — [Luna‑25](луна_25.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.175 ·［RU, 2c］
+### S5.175   ［RU, 2c］
 **S5.175** (**С5.175, КТД** (корректирующе‑тормозной двигатель)) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.175)*|
 |:--|:--|
 |Composition| |
-|Consumption, W| |
+|Consumption, W|130|
 |Dimensions, ㎜|280×340×860 [1, 2]|
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|720 (30 d) / …|
 |Mass, ㎏|54|
-|[Overload](vibration.md), Grms| |
+|[Overload](vibration.md), Grms|…, ↕10g, ↔5g|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
+|[Thermal range](tcs.md), ℃|−50 ‑ +70 for structures, −5 ‑ +35 for structures w/ fuel, +5 ‑ +35 for fuel|
 |[TRL](trl.md)|9 **⁽¹⁾**|
-|[Voltage](sps.md), V| |
+|[Voltage](sps.md), V|27±3|
 |**［Specific］**|• • •|
 |[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|1.254638516 - 1.726167626|
@@ -3321,34 +3301,34 @@ A list of [Engines](ps.md).
 |Mach number / [Adiabatic exponent](heat_cr.md)|5.971 / … **⁽¹⁾**|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
 |Press. — engine entrance, ㎫ (㎏f/㎝²)|1.96 (20) **⁽¹⁾**|
-|Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
-|Temper. — comb. chamber, К (℃)| |
+|Press. — nozzle cut, ㎫ (㎏f/㎝²)|0.000742 (0.00728)|
+|Temper. — comb. chamber, К (℃)|2 500 (2 300)|
 |Temper. — nozzle cut, К (℃)|690 (420) **⁽¹⁾**|
 |Thrust, N (㎏f)|3 922-5 396 (400-550) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 126±29 (319±3) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|до 460 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐|1 thrust/15 s for landing **⁽¹⁾**; 1 thrust/9 000 s for flight **⁽¹⁾**|
+|Thrust — max switch. frequency, ㎐|1 pulse/15 s for landing **⁽¹⁾**; 1 pulse/9 000 s for flight **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|1 961±392 (200±40) **⁽¹⁾**|
 |Thrust — torch angle, °| |
-|Thrust — total pulses, ≥|10 **⁽¹⁾ ⁽²⁾**|
+|Thrust — total pulses, ≥|10 **⁽¹ ²⁾**|
 |Thrust — total thrust, N (㎏f), ≥|4 950 000|
-|Thrust — total thrust duration, s, ≥|1 150 **⁽¹⁾**|
-|[Turbopump](turbopump.md) speed, rpm|TBD|
+|Thrust — total thrust duration, s (h), ≥|1 150 **⁽¹⁾**|
+|[Turbopump](turbopump.md) speed, rpm|<mark>TBD</mark>|
 
 **Notes:**
 
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 3.5rd second after energizing the solenoid valves.
    1. **[1]** — see ТУ С5.154.0000‑0 ТУ‑6, 2015 y.
    1. **[2]** — requires clarification. Potentially, the values are many times higher.
    1. They put forward requirements for fuel degassing. They work poorly with [CINU](cinu.md).
    1. Designed for the needs of the [Luna-27](луна_27.md) based on the engine [С5.154](engine_lst.md).
-   1. **Applicability:** [Luna‑27](луна_27.md)
+   1. **Applicability** — [Luna‑27](луна_27.md)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### SPD-25 ·［RU, el.］
+### SPD-25   ［RU, el.］
 **SPD-25** (ru. **СПД-25**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-25)*|
@@ -3379,25 +3359,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.007 (0.0007) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|7 850 (800) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|39 200 (4 000) **⁽¹⁾**|
-|Thrust — total thrust duration, s, ≥|5 400 000 (1 500 h, 62 d) **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|5 400 000 (1 500 h, 62 d) **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### SPD-50 ·［RU, el.］
+### SPD-50   ［RU, el.］
 **SPD-50** (ru. **СПД-50**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-50)*|
@@ -3428,25 +3408,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.0140 (0.0014) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|8 430 (860) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|127 500 (13 000) **⁽¹⁾**|
-|Thrust — total thrust duration, s, ≥|9 000 000 (2 500 h, 104 d) **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|9 000 000 (2 500 h, 104 d) **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### SPD-70 ·［RU, el.］
+### SPD-70   ［RU, el.］
 **SPD-70** (ru. **СПД-70**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-70)*|
@@ -3477,25 +3457,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.0400 (0.0041) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|14 420 (1 470) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|450 000|
-|Thrust — total thrust duration, s, ≥|11 160 000 (3 100 h, 129 d) **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|11 160 000 (3 100 h, 129 d) **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### SPD-100 ·［RU, el.］
+### SPD-100   ［RU, el.］
 **SPD-100** (ru. **СПД-100**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-100)*|
@@ -3526,12 +3506,12 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.0830 (0.0084) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|14 700 (1 500) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|2 988 000 (304 587)|
-|Thrust — total thrust duration, s, ≥|36 000 000 (10 000 h, 416 d) **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|36 000 000 (10 000 h, 416 d) **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 
@@ -3539,13 +3519,13 @@ A list of [Engines](ps.md).
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### SPD-140 ·［RU, el.］
+### SPD-140   ［RU, el.］
 **SPD-140** (ru. **СПД-140**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-140)*|*[Value](si.md)<br> (SPD-140D)*|
@@ -3576,25 +3556,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.193 (0.0196) **⁽¹⁾**|0.290 (0.0295)|⁺ ⁵₋₁₅ **⁽²⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|16 480 (1 680) **⁽¹⁾**|16 382 (1 670) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s| |60 ‑ 360 000 **⁽²⁾**|
-|Thrust — max switching frequency, ㎐| |1 thrust/15 m **⁽²⁾**|
+|Thrust — max switch. frequency, ㎐| |1 pulse/15 m **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
 |Thrust — torch angle, °| | |
 |Thrust — total pulses, ≥| |625 **⁽²⁾**|
 |Thrust — total thrust, N (㎏f), ≥|5 450 000|6 500 000 (662 500) **⁽²⁾**|
-|Thrust — total thrust duration, s, ≥|28 260 000 (7 850 h, 327 d) **⁽¹⁾**|28 000 000 (7 800 h, 325 d) **⁽²⁾**|
+|Thrust — total thrust duration, s (h), ≥|28 260 000 (7 850 h, 327 d) **⁽¹⁾**|28 000 000 (7 800 h, 325 d) **⁽²⁾**|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** [Intergeliozond]([интергелиозонд.md) (SPD-140D)
+   1. **Applicability** — [Intergeliozond]([интергелиозонд.md) (SPD-140D)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### SPD-230 ·［RU, el.］
+### SPD-230   ［RU, el.］
 **SPD-230** (ru. **СПД-230**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-230)*|
@@ -3625,25 +3605,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|0.785 (0.080) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|26 480 (2 700) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### TK500M ·［RU, 1c］
+### TK500M   ［RU, 1c］
 **TK500M** (ru. **ТК500М**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (TK500M)*|
@@ -3674,19 +3654,119 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|1.0 - 5.6 (0.1 - 0.57) **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 158 (220) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|1 800 **⁽¹⁾**|
-|Thrust — max switching frequency, ㎐|1 thrust/3.5 h **⁽¹⁾**|
+|Thrust — max switch. frequency, ㎐|1 pulse/3.5 h **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|60 000 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|432 000|
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
-   1. Specs’re based on vacuum & nominal continuous thrust starting from the 4th second after energizing the solenoid valves.
+   1. Specs’re for nominal vacuum continuous thrust starting from the 4th second after energizing the solenoid valves.
    1. **[1]** — see [OKB Fakel](contact/edb_fakel.md) site, 2016 y.
-   1. **Applicability:** [Arktika-M](арктика_м.md)・ [Elektro-M](электро_м.md)
+   1. **Applicability** — [Arktika-M](арктика_м.md)・ [Elektro-M](электро_м.md)
+
+
+
+<p style="page-break-after:always"> </p>
+
+### Water Ion Thruster   ［JP, el］
+**Water Ion Thruster** — electric [engine](ps.md) by [Pale Blue Inc](contact/pale_blue_inc.md).
+
+|*Characteristics*|*[Value](si.md)<br> (Water Ion Thruster)*|
+|:--|:--|
+|Composition|engine, tanks, structures (in fact, the entire PS)|
+|Consumption, W|30 ‑ 60|
+|Dimensions, ㎜|… (0.7U)|
+|[Interfaces](interface.md)|UART, RS422|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|1.6 w/o tank, 0.2 for propellant|
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|+4 ‑ +49 for operations, 0 ‑ +68 for storage|
+|[TRL](trl.md)|8|
+|[Voltage](sps.md), V|5 or 12|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|Water (O, H)|
+|Fuel — consumption, ㎏/s, ≤|0.00000002773 ‑ 0.00000003222|
+|Fuel — mass ratio of components|—|
+|Fuel — resource, ㎏, ≥| |
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
+|Press. — engine entrance, ㎫ (㎏f/㎝²)| |
+|Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (㎏f)|0.000136 ‑ 0.000306 (0.0000138 ‑ 0.0000312)|
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|4 905 ‑ 9 496 (500 ‑ 968)|
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switch. frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total pulses, ≥| |
+|Thrust — total thrust, N (㎏f), ≥|981 ‑ 3323 (100 ‑ 338)|
+|Thrust — total thrust duration, s (h), ≥|7 213 300 ‑ 10 859 500 (2 003 ‑ 3 016)|
+|[Turbopump](turbopump.md) speed, rpm|—|
+| |[![](f/ps/w/water_it_pic1_thumb.jpg)](f/ps/w/water_it_pic1.png)|
+
+**Notes:**
+
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. [Datasheet ❐](f/ps/w/water_it_doc1.pdf)
+   1. **Applicability** — …
+
+
+
+<p style="page-break-after:always"> </p>
+
+### Water Resistojet Thruster   ［JP, el］
+**Water Resistojet Thruster** — electric [engine](ps.md) by [Pale Blue Inc](contact/pale_blue_inc.md).
+
+|*Characteristics*|*[Value](si.md)<br> (Water Resistojet Thruster)*|
+|:--|:--|
+|Composition|engine, tanks, structures (in fact, the entire PS)|
+|Consumption, W|5 ‑ 20|
+|Dimensions, ㎜|… (0.5U)|
+|[Interfaces](interface.md)|UART, RS422|
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏|0.8 w/o tank, 0.4 for propellant |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃|+4 ‑ +49 for operations, 0 ‑ +68 for storage|
+|[TRL](trl.md)|9|
+|[Voltage](sps.md), V|5 or 8|
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)|Water (O, H)|
+|Fuel — consumption, ㎏/s, ≤|0.0000014556 ‑ 0.0000040774|
+|Fuel — mass ratio of components|—|
+|Fuel — resource, ㎏, ≥| |
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
+|Press. — engine entrance, ㎫ (㎏f/㎝²)| |
+|Press. — nozzle cut, ㎫ (㎏f/㎝²)|0.06|
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (㎏f)|0.001 ‑ 0.002 ‑ 0.004 (0.0001 ‑ 0.0002 ‑ 0.0004)|
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|687 ‑ 981 (70 ‑ 100)|
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switch. frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total pulses, ≥| |
+|Thrust — total thrust, N (㎏f), ≥|270 (27.52)|
+|Thrust — total thrust duration, s (h), ≥|67 500 ‑ 270 000 (18.75 ‑ 75)|
+|[Turbopump](turbopump.md) speed, rpm|—|
+| |[![](f/ps/w/water_rjt_pic1_thumb.jpg)](f/ps/w/water_rjt_pic1.jpg)|
+
+**Notes:**
+
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. [Datasheet ❐](f/ps/w/water_rjt_doc1.pdf)
+   1. **Applicability** — …
 
 
 
@@ -3698,7 +3778,7 @@ A list of [Engines](ps.md).
 
 <p style="page-break-after:always"> </p>
 
-### BE-1 ·［US, 1c］
+### BE-1   ［US, 1c］
 **BE-1** — 1‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-1)*|
@@ -3729,25 +3809,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|9 000 (920)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
 
 **Notes:**
 
-   1. <https://www.blueorigin.com/engines/>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. <https://www.blueorigin.com/engines/>
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### BE-2 ·［US, 2c］
+### BE-2   ［US, 2c］
 **BE-7** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-2)*|
@@ -3778,25 +3858,25 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|140 000 (14 300)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
 
 **Notes:**
 
-   1. <https://www.blueorigin.com/engines/>
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. <https://www.blueorigin.com/engines/>
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### Kestrel ·［US, 2c］
+### Kestrel   ［US, 2c］
 **Kestrel** — 2‑component [engine](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Kestrel)*|
@@ -3827,28 +3907,28 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|30 700 (3 130)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 110 (317)|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥| |
 |Thrust — total thrust, N (㎏f), ≥|3 070 000 (312 900)|
-|Thrust — total thrust duration, s, ≥|100|
+|Thrust — total thrust duration, s (h), ≥|100|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |![](f/ps/kestrel_engine_pic1.png)|
 
 **Notes:**
 
+   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <https://en.wikipedia.org/wiki/Kestrel_(rocket_engine)>
    1. <https://en.wikipedia.org/wiki/SpaceX_rocket_engines>
-   1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. Built on the basis of the engine [Merlin](engine_lst.md), but does not have [turbopump](turbopump.md). Has a drive.
-   1. **Applicability:** [Falcon 1](falcon.md), 2nd stage (2006‑2009)
+   1. **Applicability** — [Falcon 1](falcon.md), 2nd stage (2006‑2009)
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RDMT3 ·［RU, 2c］
+### RDMT3   ［RU, 2c］
 **RDMT3** (ru. **РДМТ3**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT3)*|
@@ -3879,24 +3959,24 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|3 (0.3)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 776 (283)|
 |Thrust — max duration of 1 thrust, s|0.02 ‑ 600|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|450 000|
 |Thrust — total thrust, N (㎏f), ≥|1 800 (183.4)|
-|Thrust — total thrust duration, s, ≥|600|
+|Thrust — total thrust duration, s (h), ≥|600|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RDMT10 ·［RU, 2c］
+### RDMT10   ［RU, 2c］
 **RDMT10** (ru. **РДМТ10**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT10)*|
@@ -3927,24 +4007,24 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|12 (1.22)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 894 (295)|
 |Thrust — max duration of 1 thrust, s|0.02 ‑ 10 000|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|450 000|
 |Thrust — total thrust, N (㎏f), ≥|120 000 (12 230е)|
-|Thrust — total thrust duration, s, ≥|10 000|
+|Thrust — total thrust duration, s (h), ≥|10 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RDMT50 ·［RU, 2c］
+### RDMT50   ［RU, 2c］
 **RDMT50** (ru. **РДМТ50**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT50M)*|
@@ -3975,24 +4055,24 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|54 (5.5)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 845 (290)|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 300|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|100 000|
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RDMT100 ·［RU, 2c］
+### RDMT100   ［RU, 2c］
 **RDMT100 (ru. **РДМТ100**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT100-OH)*|
@@ -4023,24 +4103,24 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|100 (10.2)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 708 (378)|
 |Thrust — max duration of 1 thrust, s|0.01 ‑ 20|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|100 000|
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### RDMT2600 ·［RU, 2c］
+### RDMT2600   ［RU, 2c］
 **RDMT2600** (ru. **РДМТ2600**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT2600)*|
@@ -4071,24 +4151,24 @@ A list of [Engines](ps.md).
 |Thrust, N (㎏f)|2 600 (265)|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|2 600 (265)|
 |Thrust — max duration of 1 thrust, s|0.015 ‑ 15|
-|Thrust — max switching frequency, ㎐| |
+|Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|1 000|
 |Thrust — total thrust, N (㎏f), ≥| |
-|Thrust — total thrust duration, s, ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm|—|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. **Applicability:** …
+   1. **Applicability** — …
 
 
 
 <p style="page-break-after:always"> </p>
 
-### S5.78 ·［RU, 2c］
+### S5.78   ［RU, 2c］
 **S5.78** (ru. **С5.78**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (S5.78)*|
@@ -4120,20 +4200,74 @@ A list of [Engines](ps.md).
 |Thrust — deviation, N (㎏f)|10 **⁽¹⁾**|
 |Thrust — [Isp](isp.md), N·s/㎏ (s), ≥|3 170 (323) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
-|Thrust — max switching frequency, ㎐|0.66 **⁽¹⁾**|
+|Thrust — max switch. frequency, ㎐|0.66 **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|1 982±392 (200±40) **⁽¹⁾**|
 |Thrust — torch angle, °| |
 |Thrust — total pulses, ≥|9 **⁽¹⁾**|
 |Thrust — total thrust, N (㎏f), ≥|17 840 000|
-|Thrust — total thrust duration, s, ≥|3 000 **⁽¹⁾**|
+|Thrust — total thrust duration, s (h), ≥|3 000 **⁽¹⁾**|
 |[Turbopump](turbopump.md) speed, rpm|39 500|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. **[1]** — see document ФГ‑0000‑0ПЗ.5.
-   1. Has a turbopump without afterburning the working fluid of the turbine. 
-   1. **Applicability:** [Fobos-Grunt](фобос_грунт.md)
+   1. Has a turbopump without afterburning the working fluid of the turbine.
+   1. **Applicability** — [Fobos-Grunt](фобос_грунт.md)
+
+
+
+<p style="page-break-after:always"> </p>
+
+## Template
+
+
+
+<p style="page-break-after:always"> </p>
+
+### …   ［…, …c］
+**…** — …‑component [engine](ps.md) by ….
+
+|*Characteristics*|*[Value](si.md)<br> (…)*|
+|:--|:--|
+|Composition| |
+|Consumption, W| |
+|Dimensions, ㎜| |
+|[Interfaces](interface.md)| |
+|[Lifetime](lifetime.md)/Resource, h(y)|… / …|
+|Mass, ㎏| |
+|[Overload](vibration.md), Grms| |
+|[Rad.resist](ion_rad.md), ㏉ (㎭)| |
+|[Reliability](qm.md) per [lifetime](lifetime.md)| |
+|[Thermal range](tcs.md), ℃| |
+|[TRL](trl.md)| |
+|[Voltage](sps.md), V| |
+|**［Specific］**|• • •|
+|[Fuel](fuel.md) (+ combustion products)| |
+|Fuel — consumption, ㎏/s, ≤| |
+|Fuel — mass ratio of components| |
+|Fuel — resource, ㎏, ≥| |
+|Mach number / [Adiabatic exponent](heat_cr.md)| |
+|Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
+|Press. — engine entrance, ㎫ (㎏f/㎝²)| |
+|Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
+|Temper. — comb. chamber, К (℃)| |
+|Temper. — nozzle cut, К (℃)| |
+|Thrust, N (㎏f)| |
+|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
+|Thrust — max duration of 1 thrust, s| |
+|Thrust — max switch. frequency, ㎐| |
+|Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
+|Thrust — torch angle, °| |
+|Thrust — total pulses, ≥| |
+|Thrust — total thrust, N (㎏f), ≥| |
+|Thrust — total thrust duration, s (h), ≥| |
+|[Turbopump](turbopump.md) speed, rpm| |
+
+**Notes:**
+
+   1. Specs’re for nominal vacuum continuous thrust starting from the …nd second after energizing the solenoid valves.
+   1. **Applicability** — …
 
 
 
@@ -4142,7 +4276,7 @@ A list of [Engines](ps.md).
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**［**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА］**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**［**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА］**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](drawing.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](engine_type.md)・ [Газовый двигатель](engine_type.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](engine_type.md)・ [ЖРД](engine_type.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](engine_type.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](engine_type.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](engine_type.md)|
 

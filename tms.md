@@ -29,7 +29,7 @@
 | |**[НИИ МП Гуськова](contact/niimp.md)**| |[ТМС-ЛР1](tms_lr1.md) (4.5)|
 | |**[НПО ИТ](contact/npoit.md)**|[Пирит](tms_lst.md) (2.6)・ [Оникс](tms_lst.md) (1.1)・ [Астра](tms_lst.md) ()| |㋎
 
-**Designers, manufacturers**
+【**Table.** Manufacturers】
 
    - **Россия**
      1. [Аксион‑холдинг](contact/axion_h.md) — ТМС для РН.
@@ -47,7 +47,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Telemetry system (TMS)](tms.md)】**<br> … <br>• • •<br> **RU:** [TMS-L](tms_l.md) (8.5)・ [TMS-UF](tms_uf.md) (7.25)・ [TMS-RG](tms_rg.md) (5)・ [Pirit](tms_lst.md) (2.6)・ [Onyx](tms_lst.md) (1.1)・ [Astra](tms_lst.md) ()|
 

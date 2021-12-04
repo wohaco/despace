@@ -52,7 +52,7 @@
 |[Gilmour Space Tech.](contact/gilmour_st.md)|·|·|·|·|·|Develop/launching low cost hybrid LV for small sats to LEO|
 |[HEO Robotics](contact/heo_robotics.md)|·|·|·|·|·|Acquire imagery of sats, space‑debris, resource‑rich asteroids with nanosats|
 |[Myriota](contact/myriota.md)|·|·|·|·|·|IoT with nanosat constellation|
-|[Optus](contact/optus.md)|·|·|·|·|·|Mobile, telephony, internet, sat, entertainment & biz network services|
+|[Optus](contact/optus.md)|·|·|·|C|D|Mobile, telephony, internet, sat, entertainment & biz network services|
 |[Saber Astronautics](contact/saber_an.md)|·|·|·|·|·|Model the interaction between SC telemetry & the space environment|
 |[SERC](contact/serc.md)|·|·|·|·|·|Space debris removal|
 |[Southern Launch](contact/southern_launch.md)|·|·|·|·|·|Infrastructure/logistics support for (sub)orbital launches|
@@ -216,7 +216,8 @@
 |[Space Forge](contact/space_forge.md)   (UK)|·|·|·|R|·|Reusable sats for material manufacturing in space|
 |[Space Mining T.](contact/space_mintech.md)   (EU)|·|·|·|·|·|Moon & asteroids mining|
 |[Swedish SC](swedish_sc.md)   (SE)|·|·|·|·|·|КА, кубсаты, аэростаты, НС|
-|[Tas‑I](contact/tas_i.md)   (FR)|·|·|·|·|·|…|
+|[Tas‑I](contact/tas_i.md)   (FR)|·|L|·|R|·|R&D of SC, launch services, comms, sat control, Earth observation services|
+|[Telespazio](contact/telespazio.md)   (UK)|·|·|·|·|·|…|
 |[Terma A/S](contact/terma.md)   (DK)|·|·|·|·|·|…|
 |[TU Delft](tu_delft.md)   (NL)|·|·|·|·|·|…|
 |[UCL](contact/ucl.md)   (UK)|·|·|·|·|·|…|
@@ -274,7 +275,7 @@
 |[Spacecialist](contact/spacecialist.md)|·|·|P|·|·|Nano‑Cubesat projects, promote a prosperous civilian space industry|
 |[SpaceIL](spaceil.md)|·|·|·|·|·|…|
 |[Technion](contact/technion.md)|E|·|·|·|·|Israel Institute of Technology|
-|[WeSpace Tech.](contact/wespace_tech.md)|·|·|·|·|·|Engineering/support the development of sats, GS, mission design, operation|
+|[WeSpace Tech.](contact/wespace_tech.md)|·|·|·|R|D|R&D robots, operation, data|
 |**・ Not space ・**|•|•|•|•|•|Meteor Aerospace|
 
 
@@ -301,6 +302,8 @@
 |[Astroscale](contact/astroscale.md)   13|·|·|·|R|·|Space debris removal, sat life extension services, end‑of‑life services|
 |[Axelspace Corp.](contact/axelspace.md)   13|·|L|·|R|·|Ready‑to‑launch space solutions, micro‑sat technology|
 |[Canon El. Space](contact/ce_space.md)   13|·|·|·|R|·|Small Earth sats, their components|
+|[Dymon](contact/dymon.md)   13|·|·|·|R|·|Robots, rovers, antennas|
+|[ElevationSpace](contact/elevationspace.md)   4|·|·|·|R|·|Space constructions, bases, transportations, experiments|
 |[Euroconsult](contact/euroconsult.md)   13|·|·|·|C|·|Strategic, research, summits, training programs|
 |[eVanTEC Co Ltd](contact/evantec_co.md)   13|·|·|·|R|·|Software, sat support|
 |[GITAI](contact/gitai.md)   13|·|·|·|R|·|Remotely controlled robots|
@@ -308,6 +311,7 @@
 |[Hamamatsu Phot.](contact/hamamatsu_phot.md)   22|·|·|·|R|·|Optical sensors, trackers, cameras|
 |[Harada Seiki](contact/harada_seiki.md)   22|·|·|·|R|·|Parts for sats, rovers, small telescopes for observing Earth|
 |[HIREC](contact/hirec.md)   14|·|·|·|R|·|Electronic components, Reliability/quality assurance|
+|[Hokkaido Satellite](contact/hokkaido_sat.md)   1|·|·|·|R|·|Cameras|
 |[IHI](contact/ihi.md)   13|·|L|·|R|·|LV, engines & their components R&D|
 |[IMV Corp.](contact/imv_corp.md)   27|·|·|·|R|·|Ground vibration test & measurement systems|
 |[Infostellar](contact/infostellar.md)   13|·|·|·|R|·|Sat Ground Segment as a Service provider, cubesat components|
@@ -346,12 +350,14 @@
 |[Polar Star Space](contact/polar_star_space.md)   13|·|L|·|R|·|Launch service that uses small rockets|
 |[RESTEC Japan](contact/restec.md)   13|·|·|·|R|D|Earth sat’s data receiving, processing, providing; R&D remote sensing techs|
 |[RIKEN](contact/riken.md)   11|E|·|·|R|·|Biology, chemistry, physics, & research|
+|[Robotic Mining](contact/rom.md)   13|·|·|·|R|·|R&D devices for space mineral exploration & mining|
 |[Sat. Biz Network](contact/sat_biz_network.md)   13|E|·|·|C|·|Technology consulting, space policy, strategy; space startups support|
 |[SE4](contact/se4.md)   13|·|·|·|R|·|Remote robotics using VR|
 |[SKY Perf. JSAT](contact/sky_perfect_jsat.md)   13|·|·|·|R|·|Telecomms, multi‑channel pay TV company|
 |[Skygate tech.](contact/skygate_tech.md)   13|·|·|·|R|·|Ground Station as a Service for sats|
 |[SNET](contact/snet.md)   13|·|·|·|R|·|Earth sats comms, Earth observation, ground segment, drones|
 |[SPAC](contact/spac.md)   13|N|·|·|R|·|Addition to GPS|
+|[Space Basil](contact/space_basil.md)   13|·|·|P|C|·|Outer space advertising & entertainment|
 |[Space BD](contact/space_bd.md)   13|E|L|·|C|·|Space for business, sats launch, ISS experiments, education|
 |[Space Cubics](contact/spacecubics.md)   1|·|·|·|R|·|CPU, application software, FPGA, consult on space project management|
 |[Space One](contact/space_one_co.md)   13|·|L|·|R|·|Launch service that uses small rockets. Small LV & dedicated launch site|
@@ -359,19 +365,50 @@
 |[Space Shift Inc.](contact/space_shift.md)   13|·|·|·|R|·|Software for sat data processing, consulting (marketing, software)|
 |[Space Walker](contact/space_walker.md)   13|·|L|·|R|·|Suborbital spaceplane, space transport/tourism, small sats launch|
 |[Spacetide](contact/spacetide.md)   13|N|·|P|·|·|Promotes newspace businesses worldwide, annual conference|
+|[STARS SS](contact/stars_ss.md)   22|·|·|·|R|·|Debris removal & recycling|
 |[Sumitomo PP](contact/sumitomo_pp.md)   28|·|·|·|R|·|Heat exchangers & control, semiconductor/MEMS equip., sensors|
 |[Synspective Inc.](contact/synspective.md)   13|·|·|·|R|·|Utilize/integrate data from SAR sat constel., big data, machine learning|
 |[Tamagawa Seiki](contact/tamagawa_seiki.md)   20|·|·|·|R|·|Servo components, motor controllers, robots, IMU, autom. control devices|
 |[Telexistence Inc.](contact/telexistence_inc.md)   13|·|·|·|R|·|Remotely controlled robots|
 |[Tenchijin](tenchijin.md)|·|·|·|R|·|Business solution using Earth observation data. Startup for big data|
+|[Terra Space](contact/terra_space.md)   26|·|·|·|R|·|CubeSats|
 |[Tokyo Univ.](contact/tokyo_univ.md)   13|E|·|·|R|·|Tokyo University|
 |[Umitron](contact/umitron.md)   13|·|·|·|R|·|Aquafarmers support: IoT, sat remote sensing, machine learning|
 |[TUPLS](contact/tupls.md)   13|E|·|·|·|·|Tokyo University of Pharmacy & Life Sciences|
 |[Warpspace Inc.](contact/warpspace.md)   8|·|·|·|R|·|Comms infrastructure for LEO sats; cubesats modules|
 |[Yspace LLC](contact/yspace.md)   8|E|·|·|C|·|VR|
-|**・ Not space ・**|•|•|•|•|•|Panasonic Avionics Corp.<br> 【*Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [J-Startup ⎆](https://www.j-startup.go.jp/en/) [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)】|
+|**・ Not space ・**|•|•|•|•|•|avatarin, Panasonic Avionics Corp., Space Bio-Laboratories<br> 【*Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [J-Startup ⎆](https://www.j-startup.go.jp/en/), [spacebizguide.com ⎆](https://www.spacebizguide.com/country-japan), [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)】|
 
 [![](f/con/map/japan_political_thumb.png)](f/con/map/japan_political.png)
+
+<mark>TBD</mark>
+
+   1. Amanogi
+   1. amulapo
+   1. Bascule
+   1. Club Tourism Space Tours
+   1. DATAFLUCT
+   1. DigitalBlast
+   1. Dynamic Map Platform
+   1. euglena
+   1. Global Positioning Augmentation Service
+   1. Integriculture
+   1. ONETABLE
+   1. Orbspace
+   1. Our stars
+   1. Polar Star Space
+   1. Ridge-i
+   1. SAgri
+   1. Sakura Internet
+   1. SEESE
+   1. SIGNATE
+   1. Solafune
+   1. soranemo
+   1. Space Art and design
+   1. SPACE COTAN
+   1. Space Entertainment
+   1. Space NTK
+   1. SpaceBalloon
 
 
 
@@ -384,6 +421,7 @@
 |*［Organization (KR)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |【[KARI](contact/kari.md)   6】|E|L|P|R|·|Korea Aerospace Research Institute|
+|[CONTEC](contact/contec.md)   6|·|·|·|R|·|GS Services, Sat image processing & application services|
 |[Hanwha](contact/hanwha.md)   15|·|·|·|R|·|Engines|
 |[INNOSPACE](contact/innospace.md)   17|·|L|·|R|·|LV development, PS test & evaluation, engineering services|
 |[KAI](contact/kai.md)   15|·|L|·|R|·|R&D sats & LV|
@@ -523,6 +561,7 @@
 |:--|:--|:--|:--|:--|:--|:--|
 |【[SSTA](contact/ssta.md)】|·|·|·|·|·|Singapore Space & Technology Association|
 |[Astroscale](contact/astroscale.md)|·|·|·|R|·|Removal of orbital debris, sat life extension services, end‑of‑life services|
+|**・ Not space ・**|•|•|•|•|•|…<br> 【*Org. lists:* [spacebizguide.com ⎆](https://www.spacebizguide.com/country-singapore)】|
 
 
 
@@ -664,7 +703,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

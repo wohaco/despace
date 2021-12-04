@@ -54,11 +54,11 @@
 |11|**[Предварительная ПОЭМС](eccap.md)**|Заказчик|Исполнитель|При наличии требования в ТЗ|[ГОСТ 56531](гост_56531.md)|
 |12|**[Предложения в Проект ЕСП создания изделия](plan.md)**|Заказчик, соисп. и их ВП|Заказчик| |[ГОСТ 15.103](гост_15_103.md) п.5.1.4|
 |13|**Проект Программы обеспечения качества**|Заказчик|Заказчик|При наличии требования в ТЗ| |
-|14|**[Проект схемы деления СЧ КК](draft_model.md)**|Заказчик|Заказчик| |[ГОСТ 15.103](гост_15_103.md) п.4.3.7|
+|14|**[Проект схемы деления СЧ КК](drawing.md)**|Заказчик|Заказчик| |[ГОСТ 15.103](гост_15_103.md) п.4.3.7|
 |15|**[Проект ТЗ на СЧ ОКР](tor.md)**|Исполнитель|Исполнитель| |[ГОСТ 15.103](гост_15_103.md) п.4.3.6|
 |16|**[Решение о порядке защиты](review_proc_decree.md)**|Исполнитель|Заказчик|Заказчик| |[ГОСТ 15.103](гост_15_103.md) п.5.1.8|
 |17|**[ТЗ на СЧ АП](tor.md) (копия)**|ГНИО|Заказчик|Разраб. Заказчик|[ГОСТ 15.103](гост_15_103.md) т.А.1|
-|18|**[Чертёж общего вида СЧ АП](draft_model.md)**|Заказчик|Заказчик| |[ГОСТ 15.103](гост_15_103.md) п.5.1.4|
+|18|**[Чертёж общего вида СЧ АП](drawing.md)**|Заказчик|Заказчик| |[ГОСТ 15.103](гост_15_103.md) п.5.1.4|
 
 </small>
 
@@ -76,9 +76,9 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
+|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 
    1. Docs: …
    1. <…>

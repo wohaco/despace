@@ -241,19 +241,19 @@ Regulations & terms:
    1. [Программа и методика испытаний](pmot.md) (ПМ, ПИМС);
    1. [Расчёт](calc.md) (РР): *[рад.стойкости](calc.md) и пр.*;
    1. [Спецификация](specification.md);
-   1. [Схема](doc.md): *[деления](draft_model.md), [членения](draft_model.md), [электрическая](draft_model.md) по [ГОСТ 2.701](гост_2_701.md), [пневмо‑гидравлическая](пгс.md)*;
+   1. [Схема](doc.md): *[деления](drawing.md), [членения](drawing.md), [электрическая](drawing.md) по [ГОСТ 2.701](гост_2_701.md), [пневмо‑гидравлическая](пгс.md)*;
    1. [Таблица](table.md);
    1. [Технические условия](specification.md) (ТУ);
-   1. [Чертёж габаритный](draft_model.md) (ГЧ);
-   1. [Чертёж детали](draft_model.md);
-   1. [Чертёж монтажный](draft_model.md) (МЧ);
-   1. [Чертёж общего вида](draft_model.md) (ВО, ЧОВ);
-   1. [Чертёж сборочный](draft_model.md) (СБ);
-   1. [Чертёж теоретический](draft_model.md) (ТЧ);
-   1. [Чертёж упаковочный](draft_model.md) (УЧ);
-   1. [Чертёж электромонтажный](draft_model.md) (МЭ);
-   1. [Электронная модель детали](draft_model.md);
-   1. [Электронная модель сборочной единицы](draft_model.md);
+   1. [Чертёж габаритный](drawing.md) (ГЧ);
+   1. [Чертёж детали](drawing.md);
+   1. [Чертёж монтажный](drawing.md) (МЧ);
+   1. [Чертёж общего вида](drawing.md) (ВО, ЧОВ);
+   1. [Чертёж сборочный](drawing.md) (СБ);
+   1. [Чертёж теоретический](drawing.md) (ТЧ);
+   1. [Чертёж упаковочный](drawing.md) (УЧ);
+   1. [Чертёж электромонтажный](drawing.md) (МЭ);
+   1. [Электронная модель детали](drawing.md);
+   1. [Электронная модель сборочной единицы](drawing.md);
    1. [Электронная структура изделия](pes.md).
 
 Все текстовые документы могут быть выполнены в электронной форме; все графические документы — в электронной форме как электронные чертежи и/или как электронные модели. Документы одного вида и наименования, независимо от формы, являются равноправными и взаимозаменяемыми.
@@ -312,14 +312,14 @@ Regulations & terms:
 
 **Схема** — по [ГОСТ 2.102](гост_2_102.md) — [конструкторский документ](doc.md), на котором показаны в виде условных изображений или обозначений составные части [изделия](unit.md) и связи между ними. Разновидности схем:
 
-   1. [Схема деления](draft_model.md)
+   1. [Схема деления](drawing.md)
    1. [Схема конструктивно‑силовая](ксс.md)
-   1. [Схема осцилляторов](draft_model.md)
+   1. [Схема осцилляторов](drawing.md)
    1. [Схема пневмо‑гидравлическая](пгс.md)
-   1. [Схема полей зрения](draft_model.md)
+   1. [Схема полей зрения](drawing.md)
    1. [Схема программируемая логическая интегральная](плис.md)
-   1. [Схема членения](draft_model.md)
-   1. [Схема электрическая](draft_model.md)
+   1. [Схема членения](drawing.md)
+   1. [Схема электрическая](drawing.md)
 
 
 
@@ -427,9 +427,9 @@ Regulations & terms:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](draft_model.md)・ [СхО](draft_model.md)・ [СхПЗ](draft_model.md)・ [СхЧ](draft_model.md)・ [СхЭ](draft_model.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
+|**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](drawing.md)・ [СхО](drawing.md)・ [СхПЗ](drawing.md)・ [СхЧ](drawing.md)・ [СхЭ](drawing.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
 
    1. Docs: …
    1. <http://everyspec.com/>

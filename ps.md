@@ -49,6 +49,7 @@
 |•|• • • • • • • •|• • •|
 |**JP**|[IHI](contact/ihi.md)|**Liq. (1c.)** — [MT-9](engine_lst.md) (1)・ [MT-8A](engine_lst.md) (4)・ [MT-2](engine_lst.md) (20)・ [MT-6](engine_lst.md) (50);<br> **Liq. (2c.)** — [IHI 22N](engine_lst.md) (22)・ [IHI 120N](engine_lst.md) (120)・ [IHI 450N](engine_lst.md) (450)・ [IHI 490N](engine_lst.md) (490)・ [BT‑4](engine_lst.md) (500)|
 | |[Mitsubishi HVI](contact/mitsubishi.md)| |
+| |[Pale Blue](contact/pale_blue_inc.md)|**El.** — [Water Ion Thruster](engine_lst.md) (0.000221)・ [Water Resistojet Thruster](engine_lst.md) (0.002)|
 |•|• • • • • • • •|• • •|
 |**RU**|[AvantSpace](contact/avantspace.md)|**El.** — [GT-50](engine_lst.md) (0.006)|
 | |[Energomash](энергомаш.md)|**Liq. (2c.)** — …;<br> **Nuc.** — …|
@@ -89,7 +90,7 @@
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](engine_type.md)・ [Газовый двигатель](engine_type.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](engine_type.md)・ [ЖРД](engine_type.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](engine_type.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](engine_type.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](engine_type.md)|
 

@@ -15,10 +15,10 @@
 
 **Some technical issues.** The database consists of text files with markdown. For not to be vendor‑locked. And to be able to use it anywhere in case you have a markdown editor/viewer. Notes & Requirements: (in historical order)
 
-   1. The DB pages are supposed to be printed on the A4 pages or on a screen of a 6" device. The proposed themes for the proposed editors (VNote, ghostwriter) renders pages in the width of A4. Arial Narrow font; sometimes Tahoma. There is an A5 (5 ㎜ margins) theme also.
+   1. Pages’re fitted for A4 pages or on a 6" device screen. The proposed themes for proposed editors (VNote, ghostwriter) renders pages in the width of A4. Arial Narrow; sometimes Tahoma. There’s a A5 (5 ㎜ margins) theme also.
    1. Each database page has to be as self‑sufficient as possible.
    1. Files/pages names only with lower case Latin letters, digits, underlines.
-   1. Images ≤ 670 px wide. Miniatures. Photo: ≤ 160×175 px (160×160 px photo + 15 px year). [LV](lv.md)/[OE](sc.md): ≤ 120×120 px. Border 1px #b7b7b7.
+   1. Images ≤ 670 px wide. Photo ≤ 160×175 px (160×160 px body + 15 px year). [LV](lv.md)/[OE](sc.md) ≤ 120×120 px. Border 1px #b7b7b7.
    1. [Contact/cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logos/signs — png, other — jpg 77. Miniatures ≤ 100×90 & 60×50 px (for cooperation — strictly 60×50), jpg 67.
    1. There is a Spacecraft (SC) as a major unit, then it divides into modules (which can function separately) and/or to units (can’t function separately).
    1. Dates are used in YYYY.MM.DD format, for example: 1947.02.20.
@@ -26,13 +26,25 @@
    1. Tables. Use the left align. Try to fit lists in a single line.
    1. 1 lb = 0.453592 ㎏; 1 g = 9.80665 ㎧².
    1. Use KISS (keep it simple, stupid). Because it seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove.
+   1. Prefer a text over images because a text is searchable, editable, scalable, consumes less bytes.
 
 Special symbols have to be used:  
-…°·•±×÷≤≥≈≠ ‑ −— ⎆ ↷✉ ❐“”’«»✔✘☐◪☑←↑→↓↔↕↖↗↘↙♁↗ 🚀↘ ªⁱⁿº⁺⁻⁼⁽⁾ ⁰¹²³⁴⁵⁶⁷⁸⁹₊₋₌₍₎ ₀₁₂₃₄₅₆₇₈₉ₐₑₒₓₔₕₖₗₘₙₚₛₜ ░▒▓█┆╟║╙╓№©®™ ¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞π⌀∑∞√∛∜‰ ◯○⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ ｛｝（）［］【】・，、。「」『』 αβγδεζηθικλμνξο03C0πρςστυφχψω ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡΣΤΥΦΧΨΩ ➊➋➌➍➎➏➐➑➒➓ ➀➁➂➃➄➅➆➇➈➉⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯ ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ♳♴♵♶♷♸♹ etc. ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ 👌👍👎👏✋✌ ⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇    ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛  <br> №℡㏑㏒ ℃℉K ㎐㎑㎒㎓㎔ ㏈ ㎚㎜㎝㎞㎧㎳ ㍴ ㎅㎆㎇ ㎩㎪㎫㎬ ㏅㏐㏓ ㏙ ㎾㎿㎸㎹㎶㏁ ㎎㎏ ㎂㎃㎄ ㏉㏜㏂㏘ 😷😵😳😲😱😰😭😫😪😩😨😥😤😣😢😡😠😞😝😜😚😘😖😔😓😒😏😍😌😋😊😉😆😅😄😃😂😁
+…°·•±×÷≤≥≈≠ ‑ −— ⎆ ↷✉ ❐“”’«»✔✘☐◪☑←↑→↓↔↕↖↗↘↙♁↗ 🚀↘ ªⁱⁿº⁺⁻⁼⁽⁾ ⁰¹²³⁴⁵⁶⁷⁸⁹₊₋₌₍₎ ₀₁₂₃₄₅₆₇₈₉ₐₑₒₓₔₕₖₗₘₙₚₛₜ ░▒▓█┆╟║╙╓╳№©®™ ¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞π⌀∑∞√∛∜‰ ◯○⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ ｛｝（）［］【】・，、。「」『』 αβγδεζηθικλμνξο03C0πρςστυφχψω ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡΣΤΥΦΧΨΩ ➊➋➌➍➎➏➐➑➒➓ ➀➁➂➃➄➅➆➇➈➉⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯ ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ♳♴♵♶♷♸♹ etc. ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ 👌👍👎👏✋✌ ⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇    ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛  <br> №℡㏑㏒ ℃℉K ㎐㎑㎒㎓㎔ ㏈ ㎚㎜㎝㎞㎧㎳ ㍴ ㎅㎆㎇ ㎩㎪㎫㎬ ㏅㏐㏓ ㏙ ㎾㎿㎸㎹㎶㏁ ㎎㎏ ㎂㎃㎄ ㏉㏜㏂㏘ 😷😵😳😲😱😰😭😫😪😩😨😥😤😣😢😡😠😞😝😜😚😘😖😔😓😒😏😍😌😋😊😉😆😅😄😃😂😁
 
 ~~~
 <p style="page-break-after:always"> </p>
 <ruby>A<rt>BCD</rt></ruby>
+~~~
+
+~~~
+【**Table.** …】
+【**Picture.** …】
+【**Таблица.** …】
+【**Рисунок.** …】
+~~~
+
+~~~
+<!--…-->
 ~~~
 
 **Sources.**  
@@ -65,6 +77,7 @@ Pretty far from what they call the proper list of sources, but that’s all we h
       - <http://novosti-kosmonavtiki.ru/forum/forum14/topic8552/>
       - <http://novosti-kosmonavtiki.ru/forum/forum14/topic14003/>
    1. <https://rocketengines.ru/>
+   1. <https://satsearch.co/>
    1. <http://sewiki.ru/> — Systems engineering thinking wiki
    1. <https://space.skyrocket.de/doc/acronyms.htm>
    1. <https://spaceflightinsider.com/>
@@ -247,7 +260,7 @@ Just some ~~hysterical~~ historical pages.
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

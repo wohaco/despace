@@ -124,7 +124,7 @@ Initially, when the primary purpose of a systems engineer is to comprehend a com
    - Signal‑flow graph
    - USL function maps & type maps
    - Enterprise architecture frameworks
-   - [Model‑based systems engineering (MBSE)](mbse.md)
+   - [Model‑based systems engineering (MBSE)](se.md)
 
 A graphical representation relates the various subsystems or parts of a system through functions, data, or interfaces. Any or each of the above methods are used in an industry based on its requirements. For instance, the N2 chart may be used where interfaces between systems is important. Part of the design phase is to create structural & behavioral models of the system.  
 Once the requirements are understood, it is now the responsibility of a systems engineer to refine them, & to determine, along with other engineers, the best technology for a job. At this point starting with a trade study, systems engineering encourages the use of weighted choices to determine the best option. A decision matrix, or Pugh method, is one way (QFD is another) to make this choice while considering all criteria that are important. The trade study in turn informs the design, which again affects graphic representations of the system (without changing the requirements). In an SE process, this stage represents the iterative step that is carried out until a feasible solution is found. A decision matrix is often populated using techniques such as statistical analysis, reliability analysis, system dynamics (feedback control), & optimization methods.
@@ -175,6 +175,27 @@ While systems engineers may find work in almost any industry, in spite of the di
    - ISO/IEC/IEEE 42010:2011 Systems & software engineering — Architecture description
    - ISO 15926 Industrial automation systems & integration—Integration of life‑cycle data for process plants including oil & gas production facilities
    - ISO/IEC 29110:2011 Systems Engineering Standards for Very Small Entities
+
+
+### MBSE
+> <small>**Model‑based systems engineering (MBSE)** — EN term. **Системное Проектирование На Основе Моделей (МБСЕ)** — RU analogue.</small>
+
+**Model‑based systems engineering (MBSE)** is a systems engineering methodology that focuses on creating & exploiting domain models as the primary means of information exchange between engineers, rather than on document‑based information exchange. **MBSE** is the practice of developing a set of related system models that help define, design, & document a system under development; these models provide an efficient way to explore, update, & communicate system aspects to stakeholders, while significantly reducing or eliminating dependence on traditional documents.
+
+**History.**  
+In January 2007, the MBSE approach began to be popularized when the [INCOSE ⎆](https://www.incose.org/) introduced its [MBSE Initiative ⎆](http://www.omgwiki.org/MBSE/). Goals included increased productivity, by minimizing unnecessary manual transcription of concepts when coordinating the work of large teams. The MBSE approach is outlined in INCOSE’s “MBSE 2020 Vision”, with a methodology focusing on distributed but integrated model management.  
+As of 2014, the focus has also started to cover aspects related to the model execution in computer simulation experiment, to further overcome the gap between the system model specification & the respective simulation software. As a consequence, the term **modeling & simulation‑based systems engineering (M&SBSE)** has also been used along with MBSE.
+
+**NASA MBSE**
+
+INCOSE defines MBSE as “Model‑based systems engineering (MBSE) is the formalized application of modeling to support system requirements, design, analysis, verification & validation activities beginning in the conceptual design phase & continuing throughout development & later life cycle phases”. In practice, System Markup Language (SysML) based models have gained the most prevelance in MBSE application. These models are system relationship models & are useful for showing relationships among system functions, requirements, developers, & users. These models support 3 aspects of systems engineering:
+
+   - System Functional Flows (i.e., System Architecture)
+   - System Requirements Traceability
+   - System & Organizational Process Flows
+
+There are several organizations that have been working to advance the SysML modeling capabilities & applications. These include the INCOSE MBSE Initiative & the NASA MBSE Pathfinder.  The INCOSE MBSE Initiative is looking at a broad list of topics in the application of MBSE.  The application of Hamilton’s Principle to the definition of patterns by the Pattern Based Working Group is of particular interest to the development of system models.  The NASA MBSE Pathfinder is demonstrating application of MBSE in space related systems. Links to the INCOSE MBSE Initiative & the NASA MBSE Community of Practice, which also hosts the MBSE Pathfinder page, are included below.
+
 
 
 ### Related fields & sub‑fields
@@ -322,13 +343,48 @@ The systems engineering process is a discovery process that is quite unlike a ma
 
 
 ### MBSE
-**[Model‑based systems engineering (MBSE)](mbse.md)** is a systems engineering methodology that focuses on creating & exploiting domain models as the primary means of information exchange between engineers, rather than on document‑based information exchange.
+> <small>**Model‑based systems engineering (MBSE)** — EN term. **Системное Проектирование На Основе Моделей (МБСЕ)** — RU analogue.</small>
 
-INCOSE defines MBSE as “Model‑based systems engineering (MBSE) is the formalized application of modeling to support system requirements, design, analysis, verification & validation activities beginning in the conceptual design phase & continuing throughout development & later life cycle phases.” In practice, System Markup Language (SysML) based models have gained the most prevelance in MBSE application. These models are system relationship models & are useful for showing relationships among system functions, requirements, developers, & users. These models support 3 aspects of systems engineering:
+**Системная инженерия (проектирование) на основе моделей** (**MBSE, model based systems engineering**) — является формализованным применением моделирования для обеспечения действий по удовлетворению требований, проектированию, анализу, верификации и валидации в течении всех фаз жизненного цикла проектируемой системы.
 
-   - System Functional Flows (i.e., System Architecture)
-   - System Requirements Traceability
-   - System & Organizational Process Flows
+**MBSE** — методология, рассматривающая развитие различных взаимосвязанных моделей, которые используются для определения и разработки конечной системы. Модели предлагают эффективный способ изучения, обновления аспектов системы и предоставления информации о них заинтересованным сторонам, при этом значительно сокращая или устраняя зависимость от необходимости использования традиционной документации.
+
+Ключевая характеристика MBSE — это поддержка одновременного использования множества методов описания (viewpoints), т.е. одновременного применения множества методов моделирования для получения множества групп описаний (views), которые адресуют различные интересы соответствующих заинтересованных лиц. MBSE заканчивается в тот момент, когда вам удалось объединить все имеющиеся модели и софт солверов: вы можете определить вашу систему и по результатам моделирования понять, как она себя поведёт в тех или иных условиях.
+
+   - **Цели MBSE:**
+      1. улучшить коммуникацию стейкхолдеров
+      1. улучшить точность спецификации требований и дизайна
+      1. обеспечить интеграцию компонентов системы
+      1. предоставить возможность повторного использования артефактов дизайна системы
+      1. результатом MBSE является модель системы
+   - **Процесс MBSE:**
+      - Выявление и анализ интересов стейкхолдеров для формулировки проблем и целей системы, а также критериев (метрики) оценки эффективности и качества;
+      - Определение границ системы (system boundary), разграничение внутренних и внешних связей системы;
+      - Спецификация функциональности системы. Определение интерфейсов, физических и качественных характеристик, обеспечивающих достижение целей;
+      - Синтез альтернативных решений путем деления системы на компоненты, соответствующие требованиям к системе (декомпозиция);
+      - Анализ трудоемкости для оценки и выбора предпочтительных решений, удовлетворяющих требованиям и обеспечивающих оптимальный баланс для значений метрик эффективности и качества;
+      - Обеспечение контроля за выполнением требований к компонентам и достижением целей системы для удовлетворения всех стейкхолдеров.
+   - **Методологии MBSE**
+      - An Ontology for State Analysis Formalizing the Mapping to SysML
+      - IBM Rational Unified Process‑Systems Engineering (RUP‑SE) for Model‑Driven System Design (MDSD)
+      - IBM Telelogic Harmony‑SE
+      - Jet Propulsion Laboratory's State Analysis (JPL SA)
+      - MBSE Framework for Concept Development
+      - Object Process Methodology (OPM)
+      - SysML JumpStart Training with Enterprise Architect
+      - Vitech MBSE (STRATA)
+      - Weiliens Systems Modeling Process (SYSMOD)
+      - и многие другие
+
+【**Table.** Стандарты MBSE】
+
+|*Раздел*|*Стандарт*|
+|:--|:--|
+|Процессные<br> стандарты|・EIA 632: Processes for Engineering a System;<br> ・ISO 15288: Systems & software engineering — System life cycle processes;<br> ・IEEE 1220: Standard for Application & Management of the Systems Engineering Process;<br> ・CMMI (Capability Maturity Model Integration)|
+|Архитектурные<br> методологии<br> (frameworks)|・FEAF (Federal Enterprise Architecture Framework);<br> ・DoDAF (The Department of Defense Architecture Framework );<br> ・MODAF (The British Ministry of Defence Architecture Framework);<br> ・PPOA (Fernandez Process Pipelines in Object oriented Architectures);<br> ・ZF (Zachman Framework)|
+|Методы<br> моделирования|・HP;<br> ・OOSE (Object‑oriented software engineering) — прародитель UML;<br> ・OOSEM (Object‑Oriented Systems Engineering Method);<br> ・SADT;<br> ・прочие|
+|Стандарты<br> моделирования<br> и симуляции|・*Системное моделирование* — IDEF0・ [SysML](sysml.md)・ UPDM;<br> ・*Симуляция и анализ* — Modelica・ HLA・ MathML|
+|Стандарты<br> обмена и<br> мета-<br>моделирования|・MOF;<br> ・QVT;<br> ・XMI;<br> ・[STEP/AP 233](cad_f.md)|
 
 
 
@@ -359,10 +415,10 @@ INCOSE defines MBSE as “Model‑based systems engineering (MBSE) is the formal
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Control](Control.md)】**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](mbse.md)・ [Meeting](meeting.md)・ [MCC](scs.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](mou.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](se.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
-|**【[Systems engineering](se.md)】**<br> [Competence](competence.md)・ [Coordinate system](coord_sys.md)・ [Designer’s supervision](des_spv.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [MBSE](mbse.md)・ [MML](mml.md)・ [Nav. & ballistics (NB)](nnb.md)・ [NASA SEH](nasa_seh.md)・ [Oberth effect](oberth_eff.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Skunk works](se.md)・ [SysML](sysml.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
+|**【[Control](Control.md)】**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](se.md)・ [Meeting](meeting.md)・ [MCC](scs.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](mou.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](se.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
+|**【[Systems engineering](se.md)】**<br> [Competence](competence.md)・ [Coordinate system](coord_sys.md)・ [Designer’s supervision](des_spv.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [MBSE](se.md)・ [MML](mml.md)・ [Nav. & ballistics (NB)](nnb.md)・ [NASA SEH](nasa_seh.md)・ [Oberth effect](oberth_eff.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Skunk works](se.md)・ [SysML](sysml.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
 
    1. Docs: [NASA Systems Engineering Handbook](nasa_seh.md)
    1. <https://www.onlineengineeringprograms.com/faq/what-does-a-systems-engineer-do>
@@ -373,3 +429,9 @@ INCOSE defines MBSE as “Model‑based systems engineering (MBSE) is the formal
    1. <https://ru.wikipedia.org/wiki/Инженерное_дело>
    1. <https://www.incose.org/>
    1. <https://www.sebokwiki.org/>
+   1. MBSE: <https://en.wikipedia.org/wiki/Model-based_systems_engineering>
+      - <http://sewiki.ru/MBSE>
+      - <http://www.omgwiki.org/MBSE/>
+      - <https://www.incose.org/incose-member-resources/working-groups/transformational/mbse-initiative>
+      - <https://www.nasa.gov/consortium/ModelBasedSystems>
+      - <https://www.scaledagileframework.com/model-based-systems-engineering/>

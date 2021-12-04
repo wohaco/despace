@@ -28,7 +28,7 @@
 |**Температурный,<br> аналоговый**|9 (L<sub>кабеля</sub> 400 ㎜);<br> 12 (L<sub>кабеля</sub> 1 000 ㎜);<br> 22 (L<sub>кабеля</sub> 2 000 ㎜)|0.0035 за 10 ㎳|12|–199 ‑ +200 ℃|1 %|
 |**Температурный,<br> цифровой**|9.3 (L<sub>кабеля</sub> 300 ㎜);<br> 13.2 (L<sub>кабеля</sub> 800 ㎜);<br> 24 (L<sub>кабеля</sub> 1 500 ㎜)|0.0015 за  750 ㎳|12|–120 ‑ +150 ℃|0.1 %|
 
-**Manufacturers**
+【**Table.** Manufacturers】
 
 | | |
 |:--|:--|
@@ -95,7 +95,7 @@
 |**US**|[Ball A&T](contact/ball_at.md)|[HAST](st_lst.md) (7.7)・ [CT-2020](st_lst.md) (3)|
 | |[Space Micro](space_micro.md)|[µSTAR](st_lst.md) (2.1)・ [MIST](st_lst.md) (0.55)|
 
-**Manufacturers**
+【**Table.** Manufacturers】
 
 | | |
 |:--|:--|
@@ -145,7 +145,7 @@
 |:--|:--|:--|:--|
 |**RU**|[Спутникс](contact/sputnix.md)|[SX-MAGWR](mtm_lst.md) (100)| |
 
-**Manufacturers**
+【**Table.** Manufacturers】
 
 | | |
 |:--|:--|
@@ -191,7 +191,7 @@ In typical sun sensors, a thin slit at the top of a rectangular chamber allows a
 | |[МОКБ Марс](contact/mars_mokb.md)|[ТДС](ss_lst.md) (2.3)・ [СДП-1](ss_lst.md) (0.4)|
 | |[Спутникс](contact/sputnix.md)|[SX-SUNR-01](ss_lst.md) (0.04)| |
 
-**Manufacturers**
+【**Table.** Manufacturers】
 
 | | |
 |:--|:--|
@@ -237,11 +237,11 @@ Etc:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Датчик:`**<br> …|
 |**`Звёздный датчик (ЗД):`**<br> [Видимая звёздная величина](app_mag.md)・ [ПЗр](fov.md)<br>• • •<br> **Европа:** [ASTRO 15](st_lst.md) (6.15)・ [Hydra](st_lst.md) (4.6)・ [ASTRO 10](st_lst.md) (3.8)・ [A-STR](st_lst.md) (3.55)・ [AA-STR](st_lst.md) (2.6)・ [HE-5AS](st_lst.md) (2.2)・ [ASTRO APS](st_lst.md) (2)・ [Horus](st_lst.md) (1.6)・ [T2](st_lst.md) (0.8)・ [T1](st_lst.md) (0.6 ‑ 1)・ [Auriga](st_lst.md) (0.21)  ▮  **РФ:** [348К](st_lst.md) (3.45)・ [360К](st_lst.md) ()・ [АД-1](st_lst.md) (3.8)・ [БОКЗ-МФ](st_lst.md) (2.8)・ [мБОКЗ-2](мбокз_2.md) (1.5)・ [SX-SR-MicroBOKZ](st_lst.md) (0.5)  ▮  **США:** [HAST](st_lst.md) (7.7)・ [CT-2020](st_lst.md) (3)・ [µSTAR](st_lst.md) (2.1)・ [MIST](st_lst.md) (0.55) |
-|**【[Structures, gears, materials (SGM)](sc.md)】**<br> [Гермоконтейнер](гермоконтейнер.md)・ [Датчик](sensor.md)・ [Задел](margin.md)・ [Изделие](unit.md)・ [Испарение материалов](mat_sublime.md)・ [Кавитация](cavitation.md)・ [КЗУ](cinu.md) (ВБУ КТ)・ [КХГ](cgs.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [Крейцкопф](crosshead.md)・ [Номинал](nominal.md)・ [ПУС](lag.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Резерв](reserve.md)・ [Слайс](слайс.md)・ [ТСП](tsp.md)・ [Типичные формы КА](sc.md)・ [Толкатель](толкатель.md)・ [Унификация](commonality.md)|
+|**【[Structures, gears, materials (SGM)](sc.md)】**<br> [Гермоконтейнер](гермоконтейнер.md)・ [Датчик](sensor.md)・ [Задел](margin.md)・ [Изделие](unit.md)・ [Испарение материалов](matc.md)・ [Кавитация](cavitation.md)・ [КЗУ](cinu.md) (ВБУ КТ)・ [КХГ](cgs.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [Крейцкопф](crosshead.md)・ [Номинал](nominal.md)・ [ПУС](lag.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Резерв](reserve.md)・ [Слайс](слайс.md)・ [ТСП](tsp.md)・ [Типичные формы КА](sc.md)・ [Толкатель](толкатель.md)・ [Унификация](commonality.md)|
 |**`Магнитометр:`**<br> … <br>• • •<br> **РФ:** [SX-MAGWR](mtm_lst.md) (100)|
 |**`Солнечный датчик (СД):`**<br> [ПЗр](fov.md) <br>• • •<br> (КА) **Европа:** [FSS](ss_lst.md) (650)・ [FSS](ss_lst.md) (50 ‑ 375)・ [CSS](ss_lst.md) (275)・ [CoSS](ss_lst.md) (15 ‑ 24)  ▮  **РФ:** [ТДС](ss_lst.md) (2 300)・ [347К](ss_lst.md) (700)・ [ОСД](ss_lst.md) (650)・ [СДП-1](ss_lst.md) (400)・ [SX-SUNR-01](ss_lst.md) (40)<br> *(Кубсаты) **США:** [MSS](ss_lst.md) (0.036)・ [CSS](ss_lst.md) (0.02)*|
 

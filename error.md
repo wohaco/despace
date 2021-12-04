@@ -18,46 +18,60 @@ This manual contains a list of common errors in operation & [documentation](doc.
    1. improving the quality of work
    1. focusing on the main, not the secondary
 
-![](f/doc/error_types.png)
+【**Table.** Error Types by [xkcd ⎆](https://xkcd.com/2303/)】
 
-**Table.** Common mistakes, their causes & consequences. 
+|*#*|*Description*|
+|:--|:--|
+|**1**|False positive|
+|**2**|False negative|
+|**3**|True positive for incorrect reasons|
+|**4**|True negative for incorrect reasons|
+|**5**|Incorrect result which leads you to a correct conclusion due to unrelated errors|
+|**6**|Correct result which you interpret wrong|
+|**7**|Incorrect result which produces a cool graph|
+|**8**|Incorrect result which sparks further research & the development of new tools which reveal the flaw in the original result while producing novel correct results|
+|**9**|The rise of Skywalker|
 
-| |*Name*|*Description*|
+【**Table.** Common mistakes, their causes & consequences】
+
+|*#*|*Name*|*Description*|
 |:--|:--|:--|
-|1|**Implement an additional system for the same task**|<small>Leads to overhead & errors when rewriting from one to another.</small>|
-|2|**Stupidity**|<small>“There are 2 infinities — the Universe & human stupidity. I’m not sure about the universe. ”</small>|
-|3|**Game “to get in the ass & get out of it heroically”**|<small>Classic. Make the wrong decision, & then clean up the consequences with sweat & blood.</small>|
-|4|**Change what works without learning why it was done this way**|<small>Leads to breakdowns / complications — often what looks awkward, but was done by smart people, was done that way with a reason. The Chernobyl nuclear power plant burned down precisely because of this.</small>|
-|5|**Small amount of time**|<small>“Fast, high quality, cheap — choose any 2”. They often choose “fast, cheap”.</small>|
-|6|**Non‑working atmosphere**|<small>Nerves, pressure, noise, calls, etc. distract, confuse thoughts, reduce concentration.</small>|
-|7|**Transfer of information by words. [Agreement](contract.md) in words**|<small>When a person speaks, & does not write on paper & does not sign, then the [end‑to‑end information path](etedp.md) looks something like this: *“What I thought → What I felt → What I said → What I decided about what I said → What my opponent heard → What he/she understood → What he/she remembered”*; distortion of information is possible in each transition. In the human brain there is a “center of criticism” through which incoming information passes, but not outgoing information. That. a person can say not what he wants, & the opponent can perceive not what he hears. Write protocols & sign them on the spot.</small>|
-|8|**Disconnection from the process, frequent switching between processes**|<small>…</small>|
-|9|**Make sequential processes parallel**|<small>In common leads to a lot of risks & overhead. The whole system can fail at once because of one small piece.</small>|
-|10|**Survivor Bias**|<small>*(rus. Систематическая ошибка выжившего)* is a type of selection bias, when there is a lot of data on one group (“survivors”), & practically none on the other (“dead”). So researchers try to look for similarities among the “survivors” & lose sight of the fact that equally important information is hidden among the “dead”. **Examples:**<br> ➀ In WW2, mathematician A. Wald from the New York SRG laboratory was instructed to find a solution to the problem: not all US bombers returned, & there were many holes on the returning ones, but they were unevenly distributed: many on the fuselage, fewer in the fuel system, & few — in the engine. So, more armor is needed in the holes? Wald replied: no, this shows that an aircraft with holes in these places can return. An aircraft that has been hit with an engine or gas tank will not be returned. Because hits in the 1st approximation are evenly distributed, it’s necessary to strengthen the places that the returnees have the most “clean”.<br> ➁ There is also an opinion about the kindness of dolphins, based on the stories of swimmers who were pushed by animals to the shore, but there is no data from those who were pushed in the opposite direction.<br> ➂ Labor safety research is complicated by the fact that workers who are not adapted to harmful conditions quickly leave (the so‑called healthy worker effect).</small>|
-|11|**[Meetings](meeting.md) with a quick decision**|<small>Often, in meetings, decisions are made quickly without a detailed immersion in the issue. Subsequently, you have to spend resources on correcting the consequences of these decisions.</small>|
-|12|**Single‑handed decision making**|<small>There are always those who (not)deliberately distort the facts in their personal interests. Therefore there is a scientific approach & peer review, & therefore consensus is important.</small>|
-|13|**(Not)consider everyone around as idiots**|<small>…</small>|
-|14|**Arphagraphy, gramar**|<small>Well, where can we go without them. MS Word can, of course, check something, but still check the document yourself. Also read fiction, improve your own literacy. </small>|
-|15|**A cursory reading of the documents**|<small>The devil is in the details, & in a hurry you can’t see the details. And sometimes it happens that there is almost no water in the document, which can be skipped, & the written words are written for a reason.</small>|
-|16|**Duplication of information**|<small>If some information (composition, dimensions, mass, etc.) is indicated in more than one place, then during corrections it’s often corrected in one place, & in others it’s forgotten.</small>|
-|17|**Do not do your job**|<small>[Do not do their work for others❐](f/doc/20191106_1.pdf).</small>|
-|18|**Superfluous information**|<small>We write technical documentation, which, firstly, is read by managers & generals who do not understand technology, & secondly, by technical specialists, who then use it to sharpen glands & carry out assembly. Therefore, there’s no need to spread thoughts along the tree — write briefly, clearly & to the point, follow the principle of [Oссams razor](dont_panic.md).</small>|
-|19|**Using both [SI](si.md) & non‑SI units**|<small>Often, when converting one dimension to another, a size error will be made.</small>|
-|20|**Mythical “generally known information”**|<small>What is known to everyone today may lose its relevance tomorrow. Therefore, try to refer (and it’s better to cite in the text) to generally accepted systems, constants, calculations, so that in 2, 10, 30 years you can understand how it all works & why. Some also think g = 10.</small>|
-|21|**Violation of alphabetical order**|<small>When compiling lists of jobs, documents, employees, etc., there is a desire to sort them in non‑alphabetical order (by importance, significance, stages, etc.). This leads to the fact that, after agreeing on the document with the author of such a procedure, it’s required to explain this procedure to everyone who agrees later. And then everyone forgets the meaning of this logic & spends time looking for the right item. Alphabetical order is good for its speed & impartiality.</small>|
-|22|**Lack of numbers for documents**|<small>“Mustache, paws & tail” of any document is the name, number & signatures. There can be many documents with this name, documents with the same name & number — only one.</small>|
-|23|**Absence of an explicit choice**|<small>The choice should be spelled out clearly: “based on the results of the given study, named matters were chosen”. No conventions, proposals, references like “well, we wrote one thing in the conclusions, but in the footnotes on the hundredth page it’s written in small print that the conclusions should not be trusted.”</small>|
-|24|**Different names of the same matter**|<small>Often, within the framework of one document/project, devices are called either by name, then by name with a prefix, then by index, then by everyday name, then somehow else. This raises questions — is it really the same device? Sometimes this is not the case & we are talking about different ones. The same applies to the names of documents, organizations, places, stages, etc.</small>|
-|25|**Links to non‑public documentation**|<small>If there is a link to non‑public documentation (internal orders, letters, materials of other R&D, etc.), then they should be attached. There is no guarantee that they will be available to the Customer, & even more so when checked by the prosecutor in a couple of years.</small>|
-|26|**History does not tolerate the subjunctive mood**|<small>When evaluating history, it’s wrong to say something like: “If Macedonian did not reach India, then…” history went the way it went, & the rest is unfounded speculation.</small>|
-|27|**One fool can confuse a thousand wise people**|<small>The owner “doesn’t have to know all the technical details” & for him it’s necessary to explain that such an employee generates nonsense, for this it’s necessary to spend a lot of expensive time chewing on where these ideas are untenable. The owner sees “an employee who is actively trying to solve problems”. It ends with the fact that everyone gets tired & starts to implement this nonsense, in parallel, employees often appear at interviews with other employers. After a generation of employees has changed, the business of such an enterprise resembles a bicycle bed, which “the grave will fix” or a very robust investment in putting things in order, & then the grave.</small>|
-|28|**The judge & the prosecutor rolled into one**|<small>Equals should discuss/decide, a third party should judge, unless the equals agree.</small>|
-|29|**Implicit/ nclear expressions & judgments**|<small>A person should not be attached to the document. Everything should be: written clearly, all numbers are available, links on the spot, etc.</small>|
-|30|**Figures without scatter**|<small>It’s usually considered that a number (dimensions, electricity, mass, etc.) is the worst boundary, i.e. there will be no worse value. But sometimes, in case of unscrupulous/negligent work, the performers consider the indicated figure to be the face value & subsequently give tolerances for it. Demand immediately either to write tolerances, or to indicate in words that the number is the limit.</small>|
-|31|**Pointing that something can be specified later**|<small>R&D process means that any document or unit at any stage can be specified. Actually, this is the principle of R&D — clarification through iterations, & then coordination of clarifications with stakeholders. However, in case of unfair work, such phrases in the documents lead to the fact that unreliable performers begin to demand the adoption of changes in fact. Therefore, such phrases shall be excluded from documents.</small>|
-|32|**Murphy’s Law & its variations**|<small>If something can go wrong, it will definitely go wrong. If something can be misunderstood, then they will definitely misunderstand. If 4 variants of malfunctions were envisaged & they were eliminated, then the 5th option will certainly appear.</small>|
-|33|**(Not‑to)doubt anything**|<small>…</small>|
-|34|**Not to use upper/lower UTF characters**|<small>Often, when copying from document to document, superscripts & subscripts (which were obtained by lifting numbers/letters using tags) are lost, and, say, 10⁴ ㎩ turn at 104 ㎩. And it happens the other way around, when 104 ㎩ is mistaken for a mistake & is regarded as 10 ㎪.</small>|
+|1|**Implement an additional system for the same task**|Leads to overhead & errors when rewriting from one to another.|
+|2|**Stupidity**|“There are 2 infinities — the Universe & human stupidity. I’m not sure about the universe.”|
+|3|**Game “to get in the ass & get out of it heroically”**|Classic. Make the wrong decision, & then clean up the consequences with sweat & blood.|
+|4|**Change what works without learning why it was done this way**|Leads to breakdowns / complications — often what looks awkward, but was done by smart people, was done that way with a reason. The Chernobyl nuclear power plant burned down precisely because of this.|
+|5|**Small amount of time**|“Fast, high quality, cheap — choose any 2”. They often choose “fast, cheap”.|
+|6|**Non‑working atmosphere**|Nerves, pressure, noise, calls, etc. distract, confuse thoughts, reduce concentration.|
+|7|**Transfer of information by words. [Agreement](contract.md) in words**|When a person speaks, & doesn’t write on paper & doesn’t sign, then the [end‑to‑end information path](etedp.md) looks something like this: 【What I thought → What I felt → What I said → What I decided about what I said → What my opponent heard → What he/she understood → What he/she remembered】; distortion of information is possible in each transition. In the human brain there is a “center of criticism” through which incoming information passes, but not outgoing information. Thus, a person can say not what he wants, & the opponent can perceive not what he hears. Write protocols & sign them on the spot.|
+|8|**Disconnection from the process, frequent switching**|…|
+|9|**Make sequential processes parallel**|In common leads to a lot of risks & overhead. The whole system can fail at once because of one small piece.|
+|10|**Survivor Bias**|*(ru. Систематическая ошибка выжившего)* is a type of selection bias, when there is a lot of data on one group (“survivors”), & practically none on the other (“dead”). So researchers try to look for similarities among the “survivors” & lose sight of the fact that equally important information is hidden among the “dead”. **Examples:**<br> ➀ In WW2, mathematician A. Wald from the New York SRG laboratory was instructed to find a solution to the problem: not all US bombers returned, & there were many holes on the returning ones, but they were unevenly distributed: many on the fuselage, fewer in the fuel system, & few — in the engine. So, more armor is needed in the holes? Wald replied: no, this shows that an aircraft with holes in these places can return. An aircraft that has been hit with an engine or gas tank will not be returned. Because hits in the 1st approximation are evenly distributed, it’s necessary to strengthen the places that the returnees have the most “clean”.<br> ➁ There is also an opinion about the kindness of dolphins, based on the stories of swimmers who were pushed by animals to the shore, but there is no data from those who were pushed in the opposite direction.<br> ➂ Labor safety research is complicated by the fact that workers who are not adapted to harmful conditions quickly leave (the so‑called healthy worker effect).|
+|11|**[Meetings](meeting.md) with a quick decision**|Often, in meetings, decisions are made quickly without a detailed immersion in the issue. Subsequently, you have to spend resources on correcting the consequences of these decisions.|
+|12|**Single‑handed decision making**|There are always those who (not)deliberately distort the facts in their personal interests. Therefore there is a scientific approach & peer review, & therefore consensus is important.|
+|13|**(Not)consider everyone around as idiots**|…|
+|14|**Arphagraphy, gramar**|Well, where can we go without them. MS Word can, of course, check something, but still check the document yourself. Also read fiction, improve your own literacy. |
+|15|**A cursory reading of the documents**|The devil is in the details, & in a hurry you can’t see the details. And sometimes it happens that there is almost no water in the document, which can be skipped, & the written words are written for a reason.|
+|16|**Duplication of information**|If some information (composition, dimensions, mass, etc.) is indicated in more than one place, then during corrections it’s often corrected in one place, & in others it’s forgotten.|
+|17|**Do not do your job**|[Do not do their work for others❐](f/doc/20191106_1.pdf).|
+|18|**Superfluous information**|We write technical documentation, which, firstly, is read by managers & generals who do not understand technology, & secondly, by technical specialists, who then use it to sharpen glands & carry out assembly. Therefore, there’s no need to spread thoughts along the tree — write briefly, clearly & to the point, follow the principle of [Oссams razor](dont_panic.md).|
+|19|**Using both [SI](si.md) & non‑SI units**|Often, when converting one dimension to another, a size error will be made.|
+|20|**Mythical “generally known information”**|What is known to everyone today may lose its relevance tomorrow. Therefore, try to refer (and it’s better to cite in the text) to generally accepted systems, constants, calculations, so that in 2, 10, 30 years you can understand how it all works & why. Some also think g = 10.|
+|21|**Violation of alphabetical order**|When compiling lists of jobs, documents, employees, etc., there is a desire to sort them in non‑alphabetical order (by importance, significance, stages, etc.). This leads to the fact that, after agreeing on the document with the author of such a procedure, it’s required to explain this procedure to everyone who agrees later. And then everyone forgets the meaning of this logic & spends time looking for the right item. Alphabetical order is good for its speed & impartiality.|
+|22|**Lack of numbers for documents**|“Mustache, paws & tail” of any document is the name, number & signatures. There can be many documents with this name, documents with the same name, number & number — only one.|
+|23|**Absence of an explicit choice**|The choice should be spelled out clearly: “based on the results of the given study, named matters were chosen”. No conventions, proposals, references like “well, we wrote one thing in the conclusions, but in the footnotes on the hundredth page it’s written in small print that the conclusions should not be trusted.”|
+|24|**Different names of the same matter**|Often, within the framework of one document/project, devices are called either by name, then by name with a prefix, then by index, then by everyday name, then somehow else. This raises questions — is it really the same device? Sometimes this is not the case & we are talking about different ones. The same applies to the names of documents, organizations, places, stages, etc.|
+|25|**Links to non‑public documentation**|If there is a link to non‑public documentation (internal orders, letters, materials of other R&D, etc.), then they should be attached. There is no guarantee that they will be available to the Customer, & even more so when checked by the prosecutor in a couple of years.|
+|26|**History does not tolerate the subjunctive mood**|When evaluating history, it’s wrong to say something like: “If Macedonian did not reach India, then…” history went the way it went, & the rest is unfounded speculation.|
+|27|**One fool can confuse a thousand wise people**|The owner “doesn’t have to know all the technical details” & for him it’s necessary to explain that such an employee generates nonsense, for this it’s necessary to spend a lot of expensive time chewing on where these ideas are untenable. The owner sees “an employee who is actively trying to solve problems”. It ends with the fact that everyone gets tired & starts to implement this nonsense, in parallel, employees often appear at interviews with other employers. After a generation of employees has changed, the business of such an enterprise resembles a bicycle bed, which “the grave will fix” or a very robust investment in putting things in order, & then the grave.|
+|28|**The judge & the prosecutor rolled into one**|Equals should discuss/decide, a third party should judge, unless the equals agree.|
+|29|**Implicit/unclear expressions & judgments**|A person should not be attached to the document. Everything should be: written clearly, all numbers are available, links on the spot, etc.|
+|30|**Figures without scatter**|It’s usually considered that a number (dimensions, electricity, mass, etc.) is the worst boundary, i.e. there will be no worse value. But sometimes, in case of unscrupulous/negligent work, the performers consider the indicated figure to be the face value & subsequently give tolerances for it. Demand immediately either to write tolerances, or to indicate in words that the number is the limit.|
+|31|**Pointing that something can be specified later**|R&D process means that any document or unit at any stage can be specified. Actually, this is the principle of R&D — clarification through iterations, & then coordination of clarifications with stakeholders. However, in case of unfair work, such phrases in the documents lead to the fact that unreliable performers begin to demand the adoption of changes in fact. Therefore, such phrases shall be excluded from documents.|
+|32|**Murphy’s Law & its variations**|If something can go wrong, it will definitely go wrong. If something can be misunderstood, then they will definitely misunderstand. If 4 variants of malfunctions were envisaged & they were eliminated, then the 5th option will certainly appear.|
+|33|**(Not‑to)doubt anything**|…|
+|34|**Not to use upper/lower UTF characters**|Often, when copying from document to document, superscripts & subscripts (which were obtained by lifting numbers/letters using tags) are lost, and, say, 10⁴ ㎩ turn into 104 ㎩. And it happens the other way around, when 104 ㎩ is mistaken for a mistake & is regarded as 10 ㎪.|
+|35|**Not knowing or understanding the contractor**|Know the organizational structure, capabilities, goals, responsibilities, functions of the contractor, otherwise you will not be able to interact with him.|
+|36|**Ignore deviation if you see it**|Even if it is not in your competence or responsibility, not informing means dooming the whole company to inefficiency or marriage. If you see a deviation — tell about it, you know how to do it or fix it — teach them how.|
 
 
 
@@ -86,7 +100,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 
 <u><big>**RU**</big></u>
 
-**Размерности**
+【**Table.** Размерности】
 
 |*Правильно* |*Неправильно* |*Комментарии*|
 |:--|:--|:--|
@@ -135,7 +149,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 |1,22∙10⁴|1,22Е+04| |
 |Lo ≥ 15 МэВ/(мг∙см⁻²)<br> σо ≤ 10⁻² ㎝²|Lo ≥ 15 МэВ/(мг∙см⁻²)<br> σо ≤ 10⁻² ㎝²| |
 
-**Термины**
+【**Table.** Термины】
 
 |*Правильно*|*Неправильно*|
 |:--|:--|
@@ -178,7 +192,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 ## Docs & links
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 

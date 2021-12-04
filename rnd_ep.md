@@ -59,9 +59,9 @@
 |15|**[ПОЭМС](eccap.md)**| |Заказчик|Заказчик|При наличии требования в ТЗ|[ГОСТ 56531](гост_56531.md)|
 |16|**[ПЭО](ermap.md)**|Исп‑тель|Заказчик|Исп‑тель| |ГОСТ 15.203 т.А.2 п.8, РК‑11 п.3.1.5|
 |17|**[Решение о порядке защиты](review_proc_decree.md)**|Исп‑тель|Заказчик|Заказчик| |[ГОСТ 15.203](гост_15_203.md) п.5.2.8|
-|18|**[Схема деления](draft_model.md)**|Исп‑тель|Исп‑тель и его ВП, ВП Заказчика|Заказчик| |РК‑11 п.3.1.7/1.12.5, ГОСТ 2.902 т.1|
+|18|**[Схема деления](drawing.md)**|Исп‑тель|Исп‑тель и его ВП, ВП Заказчика|Заказчик| |РК‑11 п.3.1.7/1.12.5, ГОСТ 2.902 т.1|
 |19|**[ТЗ](tor.md) (копия)**|Исп‑тель|Исп‑тель, ВП Заказчик, по вед. исполнения|Заказчик| |ГОСТ 15.203 т.А.2 п.1|
-|20|**[Чертежи](draft_model.md)**|Исп‑тель|Заказчик|Исп‑тель|Могут быть прилож. к ПЗ|РК‑11 п.3.1.5|
+|20|**[Чертежи](drawing.md)**|Исп‑тель|Заказчик|Исп‑тель|Могут быть прилож. к ПЗ|РК‑11 п.3.1.5|
 
 </small>
 
@@ -85,9 +85,9 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](model.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](mbse.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
+|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 
    1. Docs: …
    1. <…>

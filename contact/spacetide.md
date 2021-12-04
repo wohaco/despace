@@ -1,15 +1,24 @@
 # SPACETIDE
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/spacetide_logo1_thumb.jpg)](../f/con/s/spacetide_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3-11-3, Ginza, Chuo-ku, Tokyo, Japan*<br> 【<https://spacetide.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/spacetide-foundation)】|
+|[![](../f/con/s/spacetide_logo1_thumb.jpg)](../f/con/s/spacetide_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Fukushima Building 7F X-NIHONBASHI, 1-5-3, Muromachi, Nihonbashi, Chuo-ku, Tokyo, Japan*<br> 【<https://spacetide.jp/>・ [Facebook ⎆](https://www.facebook.com/SPACETIDE)・ [LinkedIn ⎆](https://www.linkedin.com/company/spacetide-foundation)・ [Twitter ⎆](https://twitter.com/spacetide_conf)】|
 |:--|:--|
-|**Mission**|…|
-|**Vision**|…|
+|**Mission**|Create New Waves of the Space Industry|
+|**Vision**|Drive the future of human society through the space industry|
 |**Values**|…|
-|**Business**|…|
-|**[MGMT](../mgmt.md)**|…|
+|**Business**|Promotes newspace businesses worldwide, annual conference|
+|**[MGMT](../mgmt.md)**|・Co‑Founder, President & CEO — Masayasu Ishida<br> ・Co‑Founder, Director & COO — Masashi Sato|
 
-**SPACETIDE Foundation** is a Tokyo-base nonprofit organization to promotes newspace businesses worldwide. Our main mission is to hold annual business conference.
+**SPACETIDE Foundation** is a Tokyo‑based nonprofit organization to promotes newspace businesses worldwide. Our main mission is to hold annual business conference. Founded 2015, estateed 2016.08.
+
+Purpose: Design a sustainable ecosystem through connecting industries/communities/individuals & materializing the potential of the space industry.
+
+**4 main activities.** We aim to achieve our vison & mission through four initiatives:
+
+   - **Conferences.** Provide opportunities where industry leaders around the world discuss hot topics of space business & increase awareness of the space business.
+   - **Events.** Hold small‑group events for intensive idea exchange & tight‑kit networking. Through the events, participants generate innovative, impactful ideas as well as share their visions of business that are not yet well recognized.
+   - **Compass.** Publish industry reports named SPACETIDE COMPASS to provdide latest news & increase your interest in the space business.
+   - **Spacetide Q.** Broardcast contents with leaders & experts from various industries via YouTube, about hot topics & key persons of space business.
 
 <p style="page-break-after:always"> </p>
 

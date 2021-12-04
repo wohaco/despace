@@ -3,9 +3,9 @@
 
 |[![](../f/con/m/mitsui_bussan_as_logo1_thumb.jpg)](../f/con/m/mitsui_bussan_as_logo1.png)|<spacebiz@mb-aero.co.jp>, +81-3-4586-1915, Fax: 8-2, Marunouchi 1-Chome, Chiyoda-ku, Tekko Building 22F, Tokyo, 100-0005 - Japan;<br> *…*<br> 【<https://mba-space.com/en/>】|
 |:--|:--|
-|**Mission**|…|
-|**Vision**|…|
-|**Values**|…|
+|**Mission**|We will support the realization of a safe & prosperous society by contributing to the common good through our work in the field of aerospace.|
+|**Vision**|As part of the Mitsui & Co., Ltd. Group, we aim to become a solution provider respected & trusted by both our domestic & international customers, adhering strictly to the standards of society.|
+|**Values**|➀ Always striving to take up challenges in new aerospace fields, we shall dynamically create business related to security, law enforcement, disaster relief, lifesaving & international contributions.<br> ➁ We shall provide our customers with both the high value‑added products they require & responsible support, on a respectful & law‑abiding basis.<br> ➂ We will carry out work in the fields of logistics & marketing in good faith, cultivating a sense of professional responsibility.<br> ➃ We shall develop dynamic & responsible human resources within the organization by developing the imagination & ingenuity of our predecessors & providing our employees with the opportunity for self‑improvement & self‑fulfillment.<br> ➄ We shall always take into consideration & coordinate the interests of all our stakeholders.|
 |**Business**|Sat R&D, launch, deployment, operation|
 |**[MGMT](../mgmt.md)**|…|
 
