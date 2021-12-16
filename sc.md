@@ -75,7 +75,7 @@
    - **Пилотируемый космический аппарат (ПКА)** — manned spacecraft (MSC) — КА для живых существ в космосе.
    - **Спутник**.
 
-|*#*|*Classification*|*Description*|
+|*#*|*Class*|*Description*|
 |:--|:--|:--|
 |1|**Atmospheric**<br> (атмосферный КА) |1. Balloon — ➀ high‑height, ➁ low‑height, ➂ powered, ➃ simple, ➄ variable altitude<br> 2. Communications atmospheric spacecraft (КА для связи)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable|
 |2|**Base**<br> (база)|1. Ground<br> 2. Orbital|

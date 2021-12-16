@@ -18,19 +18,19 @@
    1. [Worldview in different countries](wwidc.md)
    1. For the person’s info page see **[Persons](person.md)**
 
-|*Агентство*|*Бюджет, $ млн*|*Год*|*Примечание*|
+|*Агентство*|*Бюджет, $ млн (%)*|*Год*|*Примечание*|
 |:--|:--|:--|:--|
-|США, [NASA](contact/nasa.md)|17 700|2013, прогноз| |
-|Европа, [ESA](contact/esa.md)|5 500|2012|€ 4 020 100 млн|
-|Россия, [Роскосмос](contact/roskosmos.md)|4 700|2014|₽ 165 800 млн|
-|Япония, [JAXA](contact/jaxa.md)|2 460|2010|¥ 229 000 млн|
-|Китай, [CNSA](contact/cnsa.md)|1 300|2009, оценка| |
-|Индия, [ISRO](contact/isro.md)|1 200|2010 ‑ 2011| |
-|Канада, [CSA](contact/csa.md)|425|2010 ‑ 2011| |
-|Корея Южная, [KARI](contact/kari.md)|366|2007| |
-|Алжир, [ASAL](contact/asal.md)|360|2002| |
-|Украина, [ГКА](contact/nkau.md)|300| |
-|Аргентина, [CONAE](contact/conae.md)|180|2014| |
+|США, [NASA](contact/nasa.md)|17 700 (100 %)|2013, прогноз| |
+|Европа, [ESA](contact/esa.md)|5 500 (31 %)|2012|€ 4 020 100 млн|
+|Россия, [Роскосмос](contact/roskosmos.md)|4 700 (27 %)|2014|₽ 165 800 млн|
+|Япония, [JAXA](contact/jaxa.md)|2 460 (14 %)|2010|¥ 229 000 млн|
+|Китай, [CNSA](contact/cnsa.md)|1 300 (7.3 %)|2009, оценка| |
+|Индия, [ISRO](contact/isro.md)|1 200 (6.8 %)|2010 ‑ 2011| |
+|Канада, [CSA](contact/csa.md)|425 (2.4 %)|2010 ‑ 2011| |
+|Корея Южная, [KARI](contact/kari.md)|366 (2 %)|2007| |
+|Алжир, [ASAL](contact/asal.md)|360 (2 %)|2002| |
+|Украина, [ГКА](contact/nkau.md)|300 (1.7 %)| |
+|Аргентина, [CONAE](contact/conae.md)|180 (1 %)|2014| |
 
 
 
@@ -57,6 +57,8 @@
 |[SERC](contact/serc.md)|·|·|·|·|·|Space debris removal|
 |[Southern Launch](contact/southern_launch.md)|·|·|·|·|·|Infrastructure/logistics support for (sub)orbital launches|
 |[Space Services AU](contact/space_services_au.md)|·|·|·|C|·|Modelling, simulation, system analysis|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -124,7 +126,8 @@
 |[UTIAS](contact/utias.md)   (ON)|E|·|·|R|·|Research for space mechatronics, robotics, microsats, fluid dynamics|
 |[Wyvern Space](contact/wyvern.md)   (AB)|·|·|·|C|D|Providing commercial sat imagery from small sats|
 |[Xiphos](contact/xiphos.md)   (QC)|·|·|·|R|·|CPUs (OBCs), Firmware & Software|
-|**・ Not space ・**|•|•|•|•|•|Avant Aerospace, CAE;<br> 【*Org. lists:* [spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/), [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#sat-systems-components), [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)】|
+|**・ Not space ・**|•|•|•|•|•|Avant Aerospace・ CAE|
+|**・ Org. lists ・**|•|•|•|•|•|[spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/)・ [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#sat-systems-components)・ [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)|
 
 [![](f/con/map/canada_political_ru_thumb.jpg)](f/con/map/canada_political_ru.png)
 
@@ -140,6 +143,8 @@
 |:--|:--|:--|:--|:--|:--|:--|
 |【[CNSA](contact/cnsa.md)】|·|·|·|·|·|Китайское национальное космическое управление|
 |[LandSpace ](contact/landspace.md)|·|L|·|R|·|·|Design, manufacturing & operations of small & medium LV|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -228,6 +233,8 @@
 |[Waven](contact/waven.md)   (PL)|·|·|·|R|·|Energy harvesting. Alternative to photovoltaics & RTG. Consumption reducing|
 |[Zero 2 Infinity](contact/zero_2_infinity.md)   (IT)|·|L|·|R|·|Space transportation, launch small sats|
 |[Zielona Univ.](contact/zielona_univ.md)   (PL)|E|·|·|·|·|…|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -248,6 +255,8 @@
 |[Team Indus](team_indus.md)|·|·|·|·|·|<mark>TBD</mark>|
 |[Timewarp Space](contact/timewarp_space.md)|·|L|·|R|·|LV for small sats|
 |[UPES](contact/upes.md)|·|·|·|·|·|University of Petroleum & Energy Studies|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -277,6 +286,7 @@
 |[Technion](contact/technion.md)|E|·|·|·|·|Israel Institute of Technology|
 |[WeSpace Tech.](contact/wespace_tech.md)|·|·|·|R|D|R&D robots, operation, data|
 |**・ Not space ・**|•|•|•|•|•|Meteor Aerospace|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -297,11 +307,17 @@
 |【[SCJ](contact/scj.md)   13】|N|·|P|C|·|Major Japanese science organization|
 |[3D Printing Corp.](contact/3d_printing_corp.md)   14|·|·|·|R|·|Composite 3D printing|
 |[ALE](contact/ale.md)   13|·|·|·|R|·|Space entertainment (sky canvas), data service, small sats|
+|[Amanogi](contact/amanogi.md)   13|E|·|·|R|·|Sensors & advanced sat data analysis solutions|
+|[Amulapo](contact/amulapo.md)   13|E|·|·|C|·|Creation of space experience content using ICT technology such as xR, robots, & AI|
 |[Astrocean](contact/astrocean.md)   13|·|L|·|·|·|Hybrid rocket sea launch, sub‑orbital & orbital rocket sea launch|
 |[Astroflash](contact/astroflash.md)   13|·|·|·|R|·|Small sats|
 |[Astroscale](contact/astroscale.md)   13|·|·|·|R|·|Space debris removal, sat life extension services, end‑of‑life services|
 |[Axelspace Corp.](contact/axelspace.md)   13|·|L|·|R|·|Ready‑to‑launch space solutions, micro‑sat technology|
+|[Bascule](contact/bascule.md)   13|E|·|P|·|·|Advertising, media, products, sports, education, mobility, urban development, space|
 |[Canon El. Space](contact/ce_space.md)   13|·|·|·|R|·|Small Earth sats, their components|
+|[CTST](contact/ctst.md)   13|E|·|·|C|·|Space tourism, consulting, education|
+|[DATAFLUCT](contact/datafluct.md)   13|·|·|·|·|D|Software for sat data analysis|
+|[Digital Blast](contact/digital_blast.md)   13|·|·|·|C|·|Business & technology colsulting|
 |[Dymon](contact/dymon.md)   13|·|·|·|R|·|Robots, rovers, antennas|
 |[ElevationSpace](contact/elevationspace.md)   4|·|·|·|R|·|Space constructions, bases, transportations, experiments|
 |[Euroconsult](contact/euroconsult.md)   13|·|·|·|C|·|Strategic, research, summits, training programs|
@@ -326,7 +342,7 @@
 |[JSI Corp](contact/jsi_corp.md)   13|·|·|·|R|D|Sat remote sensing commercial services, imagery data|
 |[Kawasaki HVI](contact/kawasaki_hvi.md)   13|·|·|·|R|·|Sats, fairings, rocket launch complex, space transport|
 |[Kobe Univ.](contact/kobe_univ.md)   28|E|·|·|R|·|A leading Japanese national university|
-|[Kratos IS Japan](contact/kratos.md)   13|·|·|·|R|·|Ground antennas, optimizing/managing satelllites, signals|
+|[Kratos IS Japan](contact/kratos.md)   13|·|·|·|R|·|Ground antennas, optimizing/managing satellites, signals|
 |[Kyocera](contact/kyocera.md)   26|·|·|·|R|·|Ceramics|
 |[Kyutech](contact/kyutech.md)   40|E|·|·|R|·|Scientific & technological institute|
 |[Lab Space Syst.](contact/lab_of_space_systems.md)   1|·|·|·|R|·|Engine researches|
@@ -343,6 +359,7 @@
 |[NEC Space Sys.](contact/nec.md)   13|·|·|·|R|·|Sats, ground systems|
 |[NGSL](contact/ngsl.md)   13|N|·|·|R|·|Solving global issues utilizing Japanese space technology|
 |[Nihom Univ.](contact/nihon_univ.md)   13|E|·|·|·|·|Aerospace engineering|
+|[Orbspace](contact/orbspace.md)   8|·|·|·|R|·|Space tourism using small reusable rocket|
 |[Outsense Inc.](contact/outsense.md)   13|·|·|·|R|·|Space facilities & bases, space residence|
 |[Pale Blue Inc.](contact/pale_blue_inc.md)   12|·|·|·|R|·|Propulsion systems for small sats, consulting of SC design & integration|
 |[PASCO CORP.](contact/pasco_corp.md)   13|·|·|·|R|D|Geospatial info|
@@ -351,15 +368,22 @@
 |[RESTEC Japan](contact/restec.md)   13|·|·|·|R|D|Earth sat’s data receiving, processing, providing; R&D remote sensing techs|
 |[RIKEN](contact/riken.md)   11|E|·|·|R|·|Biology, chemistry, physics, & research|
 |[Robotic Mining](contact/rom.md)   13|·|·|·|R|·|R&D devices for space mineral exploration & mining|
+|[Sagri](contact/sagri.md)   28|·|·|·|·|D|Space data utilization, machine learning, software|
 |[Sat. Biz Network](contact/sat_biz_network.md)   13|E|·|·|C|·|Technology consulting, space policy, strategy; space startups support|
 |[SE4](contact/se4.md)   13|·|·|·|R|·|Remote robotics using VR|
+|[SEESE](contact/seese.md)   8|·|·|·|R|·|Environmental testing (one stop service), space development services|
 |[SKY Perf. JSAT](contact/sky_perfect_jsat.md)   13|·|·|·|R|·|Telecomms, multi‑channel pay TV company|
 |[Skygate tech.](contact/skygate_tech.md)   13|·|·|·|R|·|Ground Station as a Service for sats|
 |[SNET](contact/snet.md)   13|·|·|·|R|·|Earth sats comms, Earth observation, ground segment, drones|
+|[Solafune](contact/solafune.md)   47|·|·|·|R|D|Sat data analysis, software development, related services|
 |[SPAC](contact/spac.md)   13|N|·|·|R|·|Addition to GPS|
+|[Space Balloon](contact/space_balloon.md)   8|·|·|·|R|·|Earth observation using high altitude balloons|
 |[Space Basil](contact/space_basil.md)   13|·|·|P|C|·|Outer space advertising & entertainment|
 |[Space BD](contact/space_bd.md)   13|E|L|·|C|·|Space for business, sats launch, ISS experiments, education|
+|[SPACE COTAN](contact/space_cotan.md)   1|·|L|·|·|·|Sales & PR for Hokkaido Spaceport|
 |[Space Cubics](contact/spacecubics.md)   1|·|·|·|R|·|CPU, application software, FPGA, consult on space project management|
+|[Space Entert. Lab](contact/space_entlab.md)   13|·|·|·|R|·|UAV, drones, high altitude (stratosphere) balloons, monitoring|
+|[Space NTK](contact/space_ntk.md)   13|·|·|·|R|·|Space burial|
 |[Space One](contact/space_one_co.md)   13|·|L|·|R|·|Launch service that uses small rockets. Small LV & dedicated launch site|
 |[Space Port Japan](contact/spaceportjapan.md)   13|E|·|P|·|·|Promote the country’s aerospace & related industries|
 |[Space Shift Inc.](contact/space_shift.md)   13|·|·|·|R|·|Software for sat data processing, consulting (marketing, software)|
@@ -373,42 +397,16 @@
 |[Tenchijin](tenchijin.md)|·|·|·|R|·|Business solution using Earth observation data. Startup for big data|
 |[Terra Space](contact/terra_space.md)   26|·|·|·|R|·|CubeSats|
 |[Tokyo Univ.](contact/tokyo_univ.md)   13|E|·|·|R|·|Tokyo University|
+|[TOWING](contact/towing.md)   23|·|·|·|R|·|Space food, soil & cultivation|
 |[Umitron](contact/umitron.md)   13|·|·|·|R|·|Aquafarmers support: IoT, sat remote sensing, machine learning|
 |[TUPLS](contact/tupls.md)   13|E|·|·|·|·|Tokyo University of Pharmacy & Life Sciences|
 |[Warpspace Inc.](contact/warpspace.md)   8|·|·|·|R|·|Comms infrastructure for LEO sats; cubesats modules|
 |[Yspace LLC](contact/yspace.md)   8|E|·|·|C|·|VR|
-|**・ Not space ・**|•|•|•|•|•|avatarin, Panasonic Avionics Corp., Space Bio-Laboratories<br> 【*Org. lists:* [aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/), [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/), [J-Startup ⎆](https://www.j-startup.go.jp/en/), [spacebizguide.com ⎆](https://www.spacebizguide.com/country-japan), [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)】|
+|**・ Not space ・**|•|•|•|•|•|Avatarin・ Dynamic Map Platform・ [Euglena](contact/euglena.md)・ Global Positioning Augmentation Service・ Integriculture・ ONETABLE・ Panasonic Avionics Corp.・ Ridge-i・ Sakura Internet・ SIGNATE・ Space Bio-Laboratories|
+|**・ Org. lists ・**|•|•|•|•|•|[aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/)・ [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/)・ [J-Startup ⎆](https://www.j-startup.go.jp/en/)・ [spacebizguide.com ⎆](https://www.spacebizguide.com/country-japan)・ [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)|
+|<mark>TBD</mark>|•|•|•|•|•|Our stars (2021)・ soranemo (2019)・ Space Art and design (2018)|
 
 [![](f/con/map/japan_political_thumb.png)](f/con/map/japan_political.png)
-
-<mark>TBD</mark>
-
-   1. Amanogi
-   1. amulapo
-   1. Bascule
-   1. Club Tourism Space Tours
-   1. DATAFLUCT
-   1. DigitalBlast
-   1. Dynamic Map Platform
-   1. euglena
-   1. Global Positioning Augmentation Service
-   1. Integriculture
-   1. ONETABLE
-   1. Orbspace
-   1. Our stars
-   1. Polar Star Space
-   1. Ridge-i
-   1. SAgri
-   1. Sakura Internet
-   1. SEESE
-   1. SIGNATE
-   1. Solafune
-   1. soranemo
-   1. Space Art and design
-   1. SPACE COTAN
-   1. Space Entertainment
-   1. Space NTK
-   1. SpaceBalloon
 
 
 
@@ -432,6 +430,8 @@
 |[Perigee Aerospace](contact/perigee_as.md)   6|·|L|·|R|·|Small/medium orbital & sub‑orbital LV|
 |[Satrec Initiative](contact/satreci.md)   6|·|·|·|R|·|Earth observ., sats & their components, ground systems, analytics|
 |[SIIS](contact/siis.md)   6|·|·|·|R|·|Sat imagery provider|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 [![](f/con/map/korea_south_political_thumb.png)](f/con/map/korea_south_political.png)
 
@@ -535,6 +535,8 @@
 |[ЦНИИХМ](contact/tsniihm.md)|·|·|·|·|·|…|
 |[ЦЭНКИ](contact/tsenki.md)|·|·|·|·|·|Предоставление пусковых услуг|
 |[Энергомаш](энергомаш.md)|·|·|·|·|·|Разработка и создание ракетных двигателей|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -548,6 +550,8 @@
 |:--|:--|:--|:--|:--|:--|:--|
 |【[SSA](contact/ssa.md)】|·|·|·|·|·|Космическое агентство Саудовской Аравии|
 |…|·|·|·|·|·|…|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -561,7 +565,8 @@
 |:--|:--|:--|:--|:--|:--|:--|
 |【[SSTA](contact/ssta.md)】|·|·|·|·|·|Singapore Space & Technology Association|
 |[Astroscale](contact/astroscale.md)|·|·|·|R|·|Removal of orbital debris, sat life extension services, end‑of‑life services|
-|**・ Not space ・**|•|•|•|•|•|…<br> 【*Org. lists:* [spacebizguide.com ⎆](https://www.spacebizguide.com/country-singapore)】|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|[spacebizguide.com ⎆](https://www.spacebizguide.com/country-singapore)|
 
 
 
@@ -667,6 +672,8 @@
 |[WUSTL](contact/wustl.md)|·|·|·|·|·|Washington University in St. Louis|
 |[XISP-Inc](contact/xisp_inc.md)|·|·|·|·|·|Mission/product R&D, sales, support|
 |[Xplore](contact/xplore.md)|·|·|·|·|·|Космические аппараты|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 [![](f/con/map/usa_political_thumb.jpg)](f/con/map/usa_political.png)
 
@@ -682,6 +689,8 @@
 |:--|:--|:--|:--|:--|:--|:--|
 |【[UAESA](contact/uaesa.md)】|·|·|·|·|·|Космическое агентство Объединённых Арабских Эмиратов|
 |[MBRSC](contact/mbrsc.md)|·|·|·|·|·|Разработка и создание КА|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 
@@ -695,6 +704,8 @@
 |:--|:--|:--|:--|:--|:--|:--|
 |【[VNSC](contact/vnsc.md)】|E|·|·|R|·|Vietnam National Space Center|
 |…|·|·|·|·|·|…|
+|**・ Not space ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|…|
 
 
 

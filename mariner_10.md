@@ -9,7 +9,7 @@
 
 **Mariner 10** was an American spacecraft launched by NASA on November 3, 1973, to fly by the planets Mercury & Venus. It was the first spacecraft to perform fly‑bys of multiple planets. Mariner 10 was the last spacecraft in the Mariner program.
 
-[![](f/project/m/mariner_10/pic01_thumb.jpg)](f/project/m/mariner_10/pic01.png)
+[![](f/project/m/mariner_10/pic01_thumb.jpg)](f/project/m/mariner_10/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

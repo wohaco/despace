@@ -11,7 +11,7 @@
 
 | |
 |:--|
-|[![](f/gs/idsn_pic1_thumb.jpg)](f/gs/idsn_pic1.png)|
+|[![](f/gs/idsn_pic1_thumb.jpg)](f/gs/idsn_pic1.webp)|
 
 The network consists of the ISRO Telemetry, Tracking and Command Network (ISTRAC), augmented by a fully steerable 18 m and a 32 m DSN antenna which improves the visibility duration when compared with the existing ISTRAC system. The Indian Deep Space Network implements a baseband system[clarification needed] adhering to [Consultative Committee for Space Data Systems (CCSDS)](ccsds.md) Standards, thus facilitating cross‑support among the Telemetry Tracking Command (TTC) agencies.
 

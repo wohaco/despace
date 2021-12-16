@@ -106,7 +106,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|± 15 для каждого УДМ|
 |Max ctrl moment, N·m| |
 |Ready mode|1 s с момента подачи напряжения|
-| |[![ ❐](f/iu/a/agat_15_ba_pic001_thumb.jpg)](f/iu/a/agat_15_ba_pic001.png) [![](f/iu/a/agat_15_ba_pic002_thumb.jpg)](f/iu/a/agat_15_ba_pic002.jpg)|
+| |[![ ❐](f/iu/a/agat_15_ba_pic001_thumb.jpg)](f/iu/a/agat_15_ba_pic001.png) [![](f/iu/a/agat_15_ba_pic002_thumb.jpg)](f/iu/a/agat_15_ba_pic002.webp)|
 
 **Notes:**
 
@@ -597,7 +597,7 @@ A list of [Reaction wheels](sensor.md).
 |Исполнение|Single unit|
 |Kinetic moment, N·m·s|± 15|
 |Ready mode|1 s с момента подачи напряжения|
-| |[![ ❐](f/iu/a/agat_25_udm-15_pic002.png)](f/iu/a/agat_25_udm-15_pic002.png)|[![](f/iu/a/agat_25_udm-15_pic003_thumb.jpg)](f/iu/a/agat_25_udm-15_pic003.jpg)
+| |[![ ❐](f/iu/a/agat_25_udm-15_pic002.png)](f/iu/a/agat_25_udm-15_pic002.png)|[![](f/iu/a/agat_25_udm-15_pic003_thumb.jpg)](f/iu/a/agat_25_udm-15_pic003.webp)
 | |[![](f/iu/a/agat_25_udm-15_pic001_thumb.jpg)](f/iu/a/agat_25_udm-15_pic001.png) Система координат УДМ‑15|
 
 **Notes:**

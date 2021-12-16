@@ -30,7 +30,29 @@
 
 <p style="page-break-after:always"> </p>
 
-## Документация НИР
+## Phase 0, Pre-Phase A
+During the Phase 0 the following logical components have to handled. The goal is to show for stakeholders that the proposed matter is worth doing.
+
+Components have to be provided both with a short & simple description (for decision makers who may not be a specialist in the proposed area) and a long description that includes models, calculations, references (for specialists in this area in order to prove your ideas are viable).
+
+   1. A description of why an exact matter (experiment, method, mission, spacecraft, unit, etc.) is important in terms of scientific, technical, etc. aspects, and what benefits it can provide.
+   1. A description of the exact matter you would like to perform, including proof that it can be performed in the supposed conditions.
+   1. A description of the exact matter you would like to install on a mother unit, including characteristics (see the table in a [unit description](unit.md); try to fill as much as possible) and proof that it can(’t) survive the supposed conditions.
+   1. Any additional information you may find useful, e.g., but not limited to:
+      - a roadmap, including supposed dates for key points, reviews and finish
+      - cost estimation
+      - cooperation, including proof of their readiness to work
+      - key technologies
+      - supposed [TRLs](trl.md)
+      - your team
+
+
+
+<p style="page-break-after:always"> </p>
+
+## (RU) НИР
+
+### Документация НИР
 **Таблица.** Типовая комплектность документации
 
 <small>
@@ -49,7 +71,7 @@
 
 <p style="page-break-after:always"> </p>
 
-## Рабочий процесс
+### Рабочий процесс
 В начале [каждого этапа ОКР](rnd.md) должно быть:
 
    1. сформирована [рабочая группа](wg.md), из расчёта 2 сотрудника (1 исполнитель, 1 заместитель) от каждого участвующего в разработке этапа отдела (дирекции, комплекса);

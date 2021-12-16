@@ -39,7 +39,7 @@ A **spaceport** or **cosmodrome** is a site for [launching](lv.md) (or receiving
 | | | | | |
 |**IR**|**Active**|Semnan|4 300|35°14′4.56″N 53°55′19.56″E|
 | | | | | |
-|**JP**|**Active**|Taiki|4 700|42°30'00.7"N 143°26'15.5"E|
+|**JP**|**Active**|Taiki (Hokkaido Spaceport)|4 700|42°30'00.7"N 143°26'15.5"E|
 | |**Active**|Tanegashima|3 400|30°24′00″N 130°58′12″E|
 | |**Active**|Uchinoura|3 700|31°15′07″N 131°04′55″E|
 | | | | | |
@@ -822,10 +822,12 @@ During the entire existence of the spaceport, five missile launches were made he
 
 <p style="page-break-after:always"> </p>
 
-## Taiki
+## Taiki (Hokkaido Spaceport)
 > <small>**Taiki** — EN term. **Тайки** — literal RU translation.</small>
 
 **Taiki Aerospace Research Field** is a facility of the Japan Aerospace Exploration Agency. It is located at Taiki, Hokkaido, Japan. It is used, among other things, for rocket launches of Interstellar Technologies.
+
+The **Hokkaido Spaceport (HOSPO)** will operate 2 launch sites for orbital & suborbital rocket launches, enabling frequent & reliable launches. HOSPO is already in operation & supporting launches & experiments of private companies, governments, & universities. Hokkaido Spaceport’s sales & PR is subcontracted to the [SPACE COTAN Co., Ltd](contact/space_cotan.md).
 
 |*Characteristic*|*[Value](si.md)*|
 |:--|:--|
@@ -834,14 +836,18 @@ During the entire existence of the spaceport, five missile launches were made he
 |Operator|[Japan Aerospace Exploration Agency](contact/jaxa.md)|
 |Location|42°30′N 143°26′29″E<br>  Taiki, Hokkaido, Japan|
 |Distance|4 750 ㎞ — to the equator;<br> 7 100 ㎞ — to [Lavochkin](contact/lav.md);<br> 8 150 ㎞ — to [JPL](contact/jpl.md);<br> 850 ㎞ — to the [JAXA](contact/jaxa.md) Headquarters, Tokyo|
-|Launch pad|?|
+|Launch pad|2|
 | |[![](f/spaceport/taiki/taiki_thumb.jpg)](f/spaceport/taiki/taiki.jpg)  [![](f/spaceport/taiki/map_thumb.jpg)](f/spaceport/taiki/map.jpg)|
 | |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
+   1. <https://hokkaidospaceport.com/>
    1. <https://ja.wikipedia.org/wiki/大樹町多目的航空公園>
    1. <https://en.wikipedia.org/wiki/Taiki_Aerospace_Research_Field>
+   1. **Launch Support.** There are a variety of facilities, resources & support services that are available to assist your operations for both orbital & sub‑orbital launches. Facilities: Launch Pad, Launch Control Center, Range Control Center, Vehicle Trackking System, Vehicle Assemble Building, Satellite Assemble Building & firing test facilities etc.
+   1. **Various Consulting.** We provide consulting services for the space development, knowledge on import & export, environmental requirements necessary for the rocket launches.
+   1. **Utility Supply.** We procure & supply expected fuels for your rockets & spaceplanes. Fuel: CH₄ (LNG), LOX, GHe, LN₂, GN₂, GOX, Water, Powersource, etc
 
 
 

@@ -78,7 +78,7 @@ A list of [On-board computers](obc.md).
 |CPU type|IDT79RC64V474<br> MIPS‑I Microprocessor IC — 1 Core, 64‑Bit 200㎒ 128‑PQFP (28×28)<br> Разработчик IDT, Integrated Device Technology Inc|
 |Performance|10 млн операций смеси DAIS;<br> время выполнения команд с плавающей запятой для операндов 64 разряда: сложение, вычитание — не более 3,5 мкс, умножение — не более 5 мкс.|
 |Recovery time, s|С момента фиксирования отказа аппаратурой автоматической реконфигурации:<br> не более 30 сек в режиме холодного резерва (экономичном);<br>  не более 150 ㎳ в режиме горячего резерва (активном)|
-| |![](f/cpu/bivk_thumb.jpg) [❐](f/cpu/bivk.png)|
+| |![](f/cpu/bivk_thumb.jpg) [❐](f/cpu/b/bivk.webp)|
 
 **Notes:**
 
@@ -118,7 +118,7 @@ A list of [On-board computers](obc.md).
 |CPU type|IDT79RC64V474<br> MIPS‑I Microprocessor IC — 1 Core, 64‑Bit 200㎒ 128‑PQFP (28×28)<br> Разработчик IDT, Integrated Device Technology Inc|
 |Performance|10 млн операций смеси DAIS;<br> время выполнения команд с плавающей запятой для операндов 64 разряда: сложение, вычитание — не более 3,5 мкс, умножение — не более 5 мкс.|
 |Recovery time, s|С момента фиксирования отказа аппаратурой автоматической реконфигурации:<br> не более 30 сек в режиме холодного резерва (экономичном);<br>  не более 150 ㎳ в режиме горячего резерва (активном)|
-| |![](f/cpu/bivk_thumb.jpg) [❐](f/cpu/bivk.png)|
+| |![](f/cpu/bivk_thumb.jpg) [❐](f/cpu/b/bivk.webp)|
 
 **Notes:**
 

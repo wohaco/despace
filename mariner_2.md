@@ -9,7 +9,7 @@
 
 **Mariner 2** — american automatic interplanetary station, launched on 1962.08.27 to explore [Venus](venus.md). The first spacecraft successfully explored another planet.
 
-[![](f/project/m/mariner_2/pic01_thumb.jpg)](f/project/m/mariner_2/pic01.jpg)
+[![](f/project/m/mariner_2/pic01_thumb.jpg)](f/project/m/mariner_2/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

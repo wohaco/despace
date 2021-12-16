@@ -7,23 +7,25 @@
 
 > <small>**Venus Exploration Analysis Group (VEXAG)** — англоязычный термин, не имеющий аналога в русском языке. **Аналитическая группа исследования Венеры (ВЕКСАГ)** — дословный перевод с английского на русский.</small>
 
-**Venus Exploration Analysis Group (VEXAG)** was established by NASA in 2005 (and funded since then) to identify scientific priorities and opportunities for the exploration of [Venus](venus.md), Earth’s sister planet. Possibly the world’s largest and most active group. The VEXAG:
+**Venus Exploration Analysis Group (VEXAG)** is a Venusian exploration community founded & managed by US.
 
-   - composes a bunch of technical and directive documents,
-   - monitors ongoing scientific and technical Venusian activities,
+VEXAG was established by NASA in 2005 (and funded since then) to identify scientific priorities & opportunities for the exploration of [Venus](venus.md), Earth’s sister planet. Possibly the world’s largest & most active group. The VEXAG:
+
+   - composes a bunch of technical & directive documents,
+   - monitors ongoing scientific & technical Venusian activities,
    - organize annual meetings,
    - provides findings to NASA Headquarters, but does not make recommendations,
 
-The group has an open membership based on the listserv (<https://lists.psi.edu/mailman/listinfo/venus>) and a semi‑private membership (for US citizens only) — an 7‑person Executive Committee, 3 Focus Groups, and 2 Topical Analysis Groups. Input from the scientific community is actively sought.
+The group has an open membership based on the listserv (<https://lists.psi.edu/mailman/listinfo/venus>) & a semi‑private membership (for US citizens only) — an 7‑person Executive Committee, 3 Focus Groups, & 2 Topical Analysis Groups. Input from the scientific community is actively sought.
 
 
 
 <p style="page-break-after:always"> </p>
 
 ## Description
-The Venus Exploration Analysis Group is NASA’s community‑based forum designed to provide scientific input and technology development plans for planning and prioritizing the exploration of Venus over the next several decades, including a Venus surface sample return. VEXAG is chartered by NASA’s Solar System Exploration Division and reports its findings to NASA. Open to all interested scientists, VEXAG regularly evaluates Venus exploration goals, scientific objectives, investigations and critical measurement requirements, including especially recommendations in the NRC Decadal Survey and the Solar System Exploration Strategic Roadmap.
+The Venus Exploration Analysis Group is NASA’s community‑based forum designed to provide scientific input & technology development plans for planning & prioritizing the exploration of Venus over the next several decades, including a Venus surface sample return. VEXAG is chartered by NASA’s Solar System Exploration Division & reports its findings to NASA. Open to all interested scientists, VEXAG regularly evaluates Venus exploration goals, scientific objectives, investigations & critical measurement requirements, including especially recommendations in the NRC Decadal Survey & the Solar System Exploration Strategic Roadmap.
 
-In addition to interested members of the scientific community, each focus group will include technology experts, NASA representatives, international partner representatives, EPO experts, and the chair. The current focus groups are listed below. Other focus groups may be added, as needed.
+In addition to interested members of the scientific community, each focus group will include technology experts, NASA representatives, international partner representatives, EPO experts, & the chair. The current focus groups are listed below. Other focus groups may be added, as needed.
 
 |*Steering Committe Member*|*Position/Roles*|*Tenure*|
 |:--|:--|:--|
@@ -51,9 +53,9 @@ In addition to interested members of the scientific community, each focus group 
    - [Lori Glaze](person.md), Goddard Space Flight Center
    - [Bob Grimm](person.md), Southwest Research Institute
 
-Janet Luhmann, and Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was formed in 2005 until November 2009. Ellen Stofan served as VEXAG Chair from November 2007 until spring 2009.
+Janet Luhmann, & Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was formed in 2005 until November 2009. Ellen Stofan served as VEXAG Chair from November 2007 until spring 2009.
 
-**NASA and LPI contacts:**
+**NASA & LPI contacts:**
 
    - [Dr. Adriana Ocampo](person.md), NASA Executive Officer for VEXAG
    - [Dr. Allan Treiman](person.md), LPI
@@ -61,7 +63,7 @@ Janet Luhmann, and Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was form
 
 
 ## VEXAG reports
-   - [Venus Strategic Documents ❐](f/event/vexag/strategic_docs.pdf): Foreward and Acknowledgements, Goals, Objectives, and Investigations for Venus Exploration, Roadmap for Venus Exploration, Venus Technology Plan
+   - [Venus Strategic Documents ❐](f/event/vexag/strategic_docs.pdf): Foreward & Acknowledgements, Goals, Objectives, & Investigations for Venus Exploration, Roadmap for Venus Exploration, Venus Technology Plan
    - [VEXAG GOI 2016 ❐](f/event/vexag/vexag_goi_2016.pdf) & [VEXAG GOI 2019 ❐](f/event/vexag/vexag_goi_2019.pdf)
 
 

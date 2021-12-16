@@ -11,7 +11,7 @@
 
 |*Фото*|*Карта*|
 |:--|:--|
-|[![](f/gs/maspalomas_station_pic1_thumb.jpg)](f/gs/maspalomas_station_pic1.jpg)|[![](f/gs/maspalomas_station_map1_thumb.jpg)](f/gs/maspalomas_station_map1.png)|
+|[![](f/gs/maspalomas_station_pic1_thumb.jpg)](f/gs/maspalomas_station_pic1.webp)|[![](f/gs/maspalomas_station_map1_thumb.jpg)](f/gs/maspalomas_station_map1.webp)|
 
 
 

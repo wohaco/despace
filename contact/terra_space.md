@@ -1,4 +1,4 @@
-# Terra Space Co., Ltd.
+# Terra Space
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/con/t/terra_space_logo1_thumb.png)](../f/con/t/terra_space_logo1.png)|<info@terraspace.jp>, +81(7)7474-8202, Fax: … ;<br> *36-1 Yoshidahonmachi, Sakyo Ward, Kyoto, 606-8317, JP*<br> 【<https://www.terraspace.jp/>】|

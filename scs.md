@@ -384,14 +384,14 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 |*Изображение*|*Описание*|
 |:--|:--|
-|[![](f/gs/cdsn_pic1_thumb.jpg)](f/gs/cdsn_pic1.png)|**[Chinese Deep Space Network](cdsn.md)**<br> (Китай)|
-|[![](f/gs/estrack_pic1_thumb.jpg)](f/gs/estrack_pic1.jpg)|**[ESTRACK](estrack.md)**<br> (Европа)|
-|[![](f/gs/idsn_pic1_thumb.jpg)](f/gs/idsn_pic1.png)|**[Indian Deep Space Network](idsn.md)**<br> (Индия)|
-|[![](f/gs/dsn_antenna_thumb2.jpg)](f/gs/dsn_antenna.png)|**[NASA Deep Space Network](dsn.md)**<br> (США)|
-|[![](f/gs/ssc_ggsn_thumb2.jpg)](f/gs/ssc_ggsn.png)|**[SSC’s Global Ground Station Network](ssc_ggsn.md)**<br> (Европа, Швеция)|
-|[![](f/gs/udsc_pic1_thumb.jpg)](f/gs/udsc_pic1.png)|**[Usuda Deep Space Center](udsc.md)**<br> (Япония)|
-|[![](f/gs/map_world_ground_stations_thumb2.jpg)](f/gs/map_world_ground_stations.jpg)|**Мировые НС**|
-|[![](f/gs/map_world_ground_stations_nkudka_thumb2.jpg)](f/gs/map_world_ground_stations_nkudka.jpg)|**НС в рамках НКУ‑ДКА**<br> (примерное расположение)|
+|[![](f/gs/cdsn_pic1_thumb.jpg)](f/gs/cdsn_pic1.webp)|**[Chinese Deep Space Network](cdsn.md)**<br> (Китай)|
+|[![](f/gs/estrack_pic1_thumb.jpg)](f/gs/estrack_pic1.webp)|**[ESTRACK](estrack.md)**<br> (Европа)|
+|[![](f/gs/idsn_pic1_thumb.jpg)](f/gs/idsn_pic1.webp)|**[Indian Deep Space Network](idsn.md)**<br> (Индия)|
+|[![](f/gs/dsn_antenna_thumb2.jpg)](f/gs/dsn_antenna.webp)|**[NASA Deep Space Network](dsn.md)**<br> (США)|
+|[![](f/gs/ssc_ggsn_thumb2.jpg)](f/gs/ssc_ggsn.webp)|**[SSC’s Global Ground Station Network](ssc_ggsn.md)**<br> (Европа, Швеция)|
+|[![](f/gs/udsc_pic1_thumb.jpg)](f/gs/udsc_pic1.webp)|**[Usuda Deep Space Center](udsc.md)**<br> (Япония)|
+|[![](f/gs/map_world_ground_stations_thumb2.jpg)](f/gs/map_world_ground_stations.webp)|**Мировые НС**|
+|[![](f/gs/map_world_ground_stations_nkudka_thumb2.jpg)](f/gs/map_world_ground_stations_nkudka.webp)|**НС в рамках НКУ‑ДКА**<br> (примерное расположение)|
 
 **Известные НС**
 
@@ -399,9 +399,9 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 |*Россия*|*Описание*|*Изобр.*|
 |:--|:--|:--|
-|Калязинская<br> радио&shy;астрономическая<br> обсерватория|Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> ・Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ㎓.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.jpg)|
-|Центр<br> космической связи<br> «Медвежьи озёра»|Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> ・Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.jpg)|
-|Восточный центр<br> дальней космической<br> связи (Уссурийск)|44°00′57″ с.ш. 131°45′25″ в.д. <sup>[H](https://tools.wmflabs.org/geohack/geohack.php?:language=ru&pagename=%D0 %A0 %D0 %A2-70&params=44_0_57.90_N_131_45_25.13_E) [G](https://maps.google.com/maps?:ll=44.0160833,131.7569806&q=44.0160833,131.7569806&spn=0.03,0.03&t=h&hl=ru) [Я](https://yandex.ru/maps/?:ll=131.7569806,44.0160833&pt=131.7569806,44.0160833&spn=0.03,0.03&l=sat,skl) [O](https://www.openstreetmap.org/?:mlat=44.0160833&mlon=131.7569806&zoom=14)</sup><br> ・Радиотелескоп П‑2500 или РТ‑70.|[![](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru_thumb.jpg)](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru.jpg)|
+|Калязинская<br> радио&shy;астрономическая<br> обсерватория|Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> ・Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](rf.md) для наблюдений, ㎓.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.jpg)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.webp)|
+|Центр<br> космической связи<br> «Медвежьи озёра»|Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> ・Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.jpg)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.webp)|
+|Восточный центр<br> дальней космической<br> связи (Уссурийск)|44°00′57″ с.ш. 131°45′25″ в.д. <sup>[H](https://tools.wmflabs.org/geohack/geohack.php?:language=ru&pagename=%D0 %A0 %D0 %A2-70&params=44_0_57.90_N_131_45_25.13_E) [G](https://maps.google.com/maps?:ll=44.0160833,131.7569806&q=44.0160833,131.7569806&spn=0.03,0.03&t=h&hl=ru) [Я](https://yandex.ru/maps/?:ll=131.7569806,44.0160833&pt=131.7569806,44.0160833&spn=0.03,0.03&l=sat,skl) [O](https://www.openstreetmap.org/?:mlat=44.0160833&mlon=131.7569806&zoom=14)</sup><br> ・Радиотелескоп П‑2500 или РТ‑70.|[![](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru_thumb.jpg)](f/gs/20150412_ussuriisk_c538a_9da9691a_orig_livejournal_ru.webp)|
 
 </small>
 

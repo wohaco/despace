@@ -11,7 +11,7 @@ The **Chinese Deep Space Network (CDSN)** is a network of large antennas and com
 
 | |
 |:--|
-|[![](f/gs/cdsn_pic1_thumb.jpg)](f/gs/cdsn_pic1.png)|
+|[![](f/gs/cdsn_pic1_thumb.jpg)](f/gs/cdsn_pic1.webp)|
 
 As of 2007, the network consisted of:
 

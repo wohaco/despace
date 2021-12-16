@@ -17,7 +17,7 @@
 
 | | | | |
 |:--|:--|:--|:--|
-|[![](f/aob/mars/mars_hemisphere_1_thumb.jpg)](f/aob/mars/mars_hemisphere_1.jpg)|[![](f/aob/mars/mars_hemisphere_2_thumb.jpg)](f/aob/mars/mars_hemisphere_2.jpg)|[![](f/aob/mars/mars_map_of_the_mars_big_thumb.jpg)](f/aob/mars/mars_map_of_the_mars_big.jpg)|[![](f/aob/mars/mars_surface_of_mars_big_thumb.jpg)](f/aob/mars/mars_surface_of_mars_big.jpg)|
+|[![](f/aob/mars/mars_hemisphere_1_thumb.jpg)](f/aob/mars/mars_hemisphere_1.webp)|[![](f/aob/mars/mars_hemisphere_2_thumb.jpg)](f/aob/mars/mars_hemisphere_2.webp)|[![](f/aob/mars/mars_map_of_the_mars_big_thumb.jpg)](f/aob/mars/mars_map_of_the_mars_big.webp)|[![](f/aob/mars/mars_surface_of_mars_big_thumb.jpg)](f/aob/mars/mars_surface_of_mars_big.webp)|
 
 
 ## Характеристики
@@ -121,7 +121,7 @@
 ### Проекты
 См. также разделы «[Проекты](project.md)».
 
-[![](f/aob/mars/mars_sc1_thumb.jpg)](f/aob/mars/mars_sc1.jpg)
+[![](f/aob/mars/mars_sc1_thumb.jpg)](f/aob/mars/mars_sc1.webp)
 
 **[Марсоходы](robot.md):**
 

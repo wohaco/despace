@@ -336,7 +336,7 @@ Regulations & terms:
    1. [CAD-форматы](cad_f.md)
    1. [CCSDS](ccsds.md)
    1. [ISBN](isbn.md)
-   1. [Memorandum of Understanding](mou.md)
+   1. [Memorandum of Understanding](contract.md)
    1. [PDF](pdf.md)
    1. [Аналог](analogue.md)
    1. [Ведомость СЧ ОКР](lordsac.md)

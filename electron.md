@@ -43,7 +43,7 @@ Electron позволяет вывести полезную нагрузку м�
 
 |*РН в сравнении<br> с человеком*|*В сборочном<br> помещении*|*Двигатель<br> «Резерфорд»*|
 |:--|:--|:--|
-|[![](f/lv/electron/electron_and_human_2017_thumb.jpg)](f/lv/electron/electron_and_human_2017.png)|[![](f/lv/electron/2017_04_thumb.jpg)](f/lv/electron/2017_04.jpg)|[![](f/lv/electron/electron_rocket_engine_5_thumb.jpg)](f/lv/electron/electron_rocket_engine_5.png)|
+|[![](f/lv/electron/electron_and_human_2017_thumb.jpg)](f/lv/electron/electron_and_human_2017.webp)|[![](f/lv/electron/2017_04_thumb.jpg)](f/lv/electron/2017_04.jpg)|[![](f/lv/electron/electron_rocket_engine_5_thumb.jpg)](f/lv/electron/electron_rocket_engine_5.png)|
 
 
 

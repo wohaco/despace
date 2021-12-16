@@ -41,7 +41,7 @@ The **universe** is all of space, time & their contents, incl. planets, stars, g
       1. [Uranus](uranus.md) & satellites — [Ariel](ariel.md)・ [Oberon](oberon.md)・ [Titania](titania.md)・ [Umbriel](umbriel.md)・ 23 smaller ones
       1. [Neptune](neptune.md) & satellites — [Nereid](nereid.md)・ [Proteus](proteus.md)・ [Triton](triton.md)・ 11 smaller ones
 
-|[![](f/aob/universe/solar_system_sizes_pic1_thumb.jpg)](f/aob/universe/solar_system_sizes_pic1.jpg) [![](f/aob/universe/solar_system_sizes_pic2_thumb.jpg)](f/aob/universe/solar_system_sizes_pic2.png) [![](f/aob/universe/solar_system_sizes_pic3_thumb.jpg)](f/aob/universe/solar_system_sizes_pic3.png)|
+|[![](f/aob/universe/solar_system_sizes_pic1_thumb.jpg)](f/aob/universe/solar_system_sizes_pic1.webp) [![](f/aob/universe/solar_system_sizes_pic2_thumb.jpg)](f/aob/universe/solar_system_sizes_pic2.png) [![](f/aob/universe/solar_system_sizes_pic3_thumb.jpg)](f/aob/universe/solar_system_sizes_pic3.webp)|
 |:--|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Astro.object](aob.md)・ [Blue Marble](earth.md)・ [Cosmic rays](cr.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|
 
@@ -471,7 +471,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |:--|:--|:--|
 |**Е**|**ЕКА** — [Европейское космическое агентство](contact/esa.md)|**ESA** — [European Space Agency](contact/esa.md)|
 | |**ЕСКД** — [единая система конструкторской документации](eskd.md)|≠ **USFDD** — unified system for design documentation|
-| |**ЕСП** — [единый сквозной план](plan.md)|≠ **UEEP** — united end-to-end plan|
+| |**ЕСП** — [единый сквозной план](plan.md)|≠ **WBS** — work breakdown structure|
 | |**ЕСПД** — [единая система программной документации](espd.md)|≠ **USFPD** — unified system for program socumentation|
 | |**ЕСТД** — [единая система технологической документации](estd.md)|≠ **USOTD** — unified system of technological documentation|
 | |**ЕСТПП** — [единая система технологической подготовки производства](estpp.md)|≠ **USOTPP** — unified system of technological preparation of production|
@@ -732,7 +732,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**МО** — метрологическое обеспечение|Metrological assurance|
 | |**МО РФ, МО** — Министерство обороны Российской Федерации|≠ **MODORF** — Ministry of Defence of the Russian Federation|
 | |**МОБ** — межорбитальный буксир|Orbital transfer vehicle|
-| |**МОВ** — [меморандум о взаимопонимании](mou.md)|**MoU** — [memorandum of understanding](mou.md)|
+| |**МОВ** — [меморандум о взаимопонимании](contract.md)|**MoU** — [memorandum of understanding](contract.md)|
 | |**[Модель](drawing.md)**|Model|
 | |**[Мозговой штурм](meeting.md)**|Brainstorming|
 | |**МПИ** — [магистральный параллельный интерфейс](mil_std_1553.md)|[MIL-STD-1553](mil_std_1553.md)|
@@ -1200,7 +1200,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Сфера Бернала](bernal_sphere.md)**|Bernal sphere|
 | |**[Сфера Дайсона](dyson_sphere.md)**|Dyson sphere|
 | |**[Сфера Хилла](hill_sphere.md)**|Hill sphere|
-| |**СхД** — [схема деления](drawing.md)|≈ **WBS** — work breakdown structure|
+| |**СхД** — [схема деления](drawing.md)|≈ **UDS** — unit decomposition scheme|
 | |**[Схема](doc.md)**|Diagram / Chart|
 | |**[Схема осцилляторов](drawing.md)**|Oscillator circuit|
 | |**[Схема полей зрения](drawing.md)**|≠ Field of view draft|

@@ -13,7 +13,7 @@ DSN является частью [Лаборатории реактивного
 
 |*Расположение станций*|*Охват сферы*|
 |:--|:--|
-|[![](f/gs/dsn_network_thumb.jpg)](f/gs/dsn_network.png)|[![](f/gs/dsn_antenna_thumb.jpg)](f/gs/dsn_antenna.png)|
+|[![](f/gs/dsn_network_thumb.jpg)](f/gs/dsn_network.webp)|[![](f/gs/dsn_antenna_thumb.jpg)](f/gs/dsn_antenna.webp)|
 
 **Инструменты:**
 

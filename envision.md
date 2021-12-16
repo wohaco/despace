@@ -146,7 +146,7 @@ Considering the volume available on the launcher fairing, different configuratio
 <p style="page-break-after:always"> </p>
 
 ## Science goals & payload
-[![](f/project/e/envision/pic03_thumb.jpg)](f/project/e/envision/pic03.jpg)
+[![](f/project/e/envision/pic03_thumb.jpg)](f/project/e/envision/pic03.webp)
 
 The core goal of EnVision is to detect activity & measure small‑scale changes on Venus, including geological & geochemical cycles involving the interior, surface & atmosphere ([EVN‑036](venus.md)). EnVision will use a number of different techniques to search for active geological processes, measure changes in surface temperature associated with active volcanism ([EVN‑029](venus.md)), characterise regional & local geological features ([EVN‑024](venus.md)), determine crustal support mechanisms ([EVN‑087](venus.md)) & constrain mantle & core properties ([EVN‑020,051](venus.md)). The mission would repeatedly observe specific targets (~20 % of the surface) with the widest possible range of measurements to fully characterise these areas. Core science measurements are:
 
@@ -389,7 +389,7 @@ Chemical, electric & hybrid propulsion options were assessed, even if the hybrid
 ## Community, library, links
 **PEOPLE:**
 
-[![](f/project/e/envision/pic02_thumb.jpg)](f/project/e/envision/pic02.jpg)
+[![](f/project/e/envision/pic02_thumb.jpg)](f/project/e/envision/pic02.webp)
 
 **ESA‑NASA consortium**
 

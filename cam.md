@@ -41,7 +41,7 @@
 
 **Synthetic-aperture radar (SAR)** is a form of radar that is used to create two‑dimensional images or three‑dimensional reconstructions of objects, such as landscapes.
 
-[![](f/cam/sar_pic01_thumb.jpg)](f/cam/sar_pic01.jpg)  
+[![](f/cam/sar_pic01_thumb.jpg)](f/cam/sar_pic01.webp)  
 *This radar image acquired by the SIR-C/X-SAR radar on board the Space Shuttle Endeavour shows the Teide volcano. The city of Santa Cruz de Tenerife is visible as the purple & white area on the lower right edge of the island. Lava flows at the summit crater appear in shades of green & brown, while vegetation zones appear as areas of purple, green & yellow on the volcano’s flanks.*
 
 SAR uses the motion of the radar antenna over a target region to provide finer spatial resolution than conventional beam‑scanning radars. SAR is typically mounted on a moving platform, such as an aircraft or spacecraft, & has its origins in an advanced form of side looking airborne radar (SLAR). The distance the SAR device travels over a target in the time taken for the radar pulses to return to the antenna creates the large synthetic antenna aperture (the size of the antenna). Typically, the larger the aperture, the higher the image resolution will be, regardless of whether the aperture is physical (a large antenna) or synthetic (a moving antenna) — this allows SAR to create high‑resolution images with comparatively small physical antennas. Additionally, SAR has the property of having larger apertures for more distant objects, allowing consistent spatial resolution over a range of viewing distances.

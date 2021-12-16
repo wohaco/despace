@@ -11,7 +11,7 @@
 
 |*Moon*| | |*Map*|
 |:--|:--|:--|:--|
-|[![](f/aob/moon/moon_fullmoon2010_thumb.jpg)](f/aob/moon/moon_fullmoon2010.jpg)|[![](f/aob/moon/moon_map1_thumb.jpg)](f/aob/moon/moon_map1.jpg)|[![](f/aob/moon/moon_map2_thumb.jpg)](f/aob/moon/moon_map2.jpg)|[![](f/aob/moon/moon_map3_thumb.jpg)](f/aob/moon/moon_map3.jpg)|
+|[![](f/aob/moon/moon_fullmoon2010_thumb.jpg)](f/aob/moon/moon_fullmoon2010.webp)|[![](f/aob/moon/moon_map1_thumb.jpg)](f/aob/moon/moon_map1.webp)|[![](f/aob/moon/moon_map2_thumb.jpg)](f/aob/moon/moon_map2.webp)|[![](f/aob/moon/moon_map3_thumb.jpg)](f/aob/moon/moon_map3.webp)|
 
 
 
@@ -94,7 +94,7 @@ Meteorites are moving with a speed up to 72 ㎞/s & have a mass from 0.000 0
 
 |*South pole*|*North pole*|
 |:--|:--|
-|[![](f/aob/moon/moon_map_south_pole_thumb.jpg)](f/aob/moon/moon_map_south_pole.jpg)|[![](f/aob/moon/moon_map_north_pole_thumb.jpg)](f/aob/moon/moon_map_north_pole.jpg)|
+|[![](f/aob/moon/moon_map_south_pole_thumb.jpg)](f/aob/moon/moon_map_south_pole.webp)|[![](f/aob/moon/moon_map_north_pole_thumb.jpg)](f/aob/moon/moon_map_north_pole.webp)|
 
 **Links:**
 

@@ -11,7 +11,7 @@
 
 |*Расположение станций*|*И с указанием диапазона*|
 |:--|:--|
-|[![](f/gs/ssc_ggsn_thumb.jpg)](f/gs/ssc_ggsn.png)|[![](f/gs/ssc_ggsn_band_thumb.jpg)](f/gs/ssc_ggsn_band.png)|
+|[![](f/gs/ssc_ggsn_thumb.jpg)](f/gs/ssc_ggsn.webp)|[![](f/gs/ssc_ggsn_band_thumb.jpg)](f/gs/ssc_ggsn_band.webp)|
 
 Основные станции:
 

@@ -18,6 +18,30 @@
    - **Покупное изделие** ─ к покупным изделиям относят изделия, не изготовляемые на данном предприятии, а получаемые им в готовом виде, кроме получаемых в порядке кооперирования. К изделиям, получаемым в порядке кооперирования, относят СЧ разрабатываемого изделия, изготовляемые на другом предприятии по [конструкторской документации](doc.md), входящей в комплект документов разрабатываемого изделия.
    - **Штатное изделие** — см. [штатный образец](flight_unit.md).
 
+In common any OE (spacecraft, system, unit, etc.) can be basically described using the following table.
+
+【**Table.** A brief description of a unit】
+
+|*Characteristics*|*Value*|
+|:--|:--|
+|Composition| 【single unit, wires, a number of units, pressurization level, etc.】 |
+|Consumption, W| 【typical, basic timeline, etc.】 |
+|Dimensions, ㎜| 【general dimensions, not volume】 |
+|Interfaces| 【connectors, mounting points, orientation】 |
+|Lifetime/Resource, h(y)| 【lifetime for total lifetime, resource for active state】 |
+|Mass, ㎏| 【mass of the unit(s) in space】 |
+|Overload, Grms| 【acceptable loads & their direction】 |
+|Rad.resist, ㏉ (㎭)| 【total ionising dose, heavy particles】 |
+|Reliability per lifetime| 【a calculated/proven reliability】 |
+|Thermal range, ℃| 【for an active condition & for transportation】 |
+|TRL| 【current TRL】 |
+|Voltage, V| 【nominal, acceptable range for a constant work & for a transition periods】 |
+|**【Specific】**|• • •|
+|Specific req. #1| |
+|Specific req. #2| |
+|…| |
+| | 【photo, render, scheme, sketch, etc.】 |
+
 
 
 ## Docs & links (TRANSLATEME ALREADY)
