@@ -9,7 +9,7 @@
 
 **Venus Express (VEX)** — Venus spacecraft for ranged investigations. It was based on the [Mars Express](mars_express.md), what lead to lower the costa and to make a rapid development.
 
-[![](f/project/v/venus_express/pic01_thumb.jpg)](f/project/v/venus_express/pic01.jpg) [![](f/project/v/venus_express/logo1_thumb.jpg)](f/project/v/venus_express/logo1.png)
+[![](f/project/v/venus_express/pic01_thumb.webp)](f/project/v/venus_express/pic01.jpg) [![](f/project/v/venus_express/logo1_thumb.webp)](f/project/v/venus_express/logo1.png)
 
 <p style="page-break-after:always"> </p>
 
@@ -318,7 +318,7 @@ Part of the computer was the Solid State Mass Memory, which had a capacity of 12
 
 ## Community, library, links
 
-[![](f/project/v/venus_express/pic02_thumb.jpg)](f/project/v/venus_express/pic02.jpg)  
+[![](f/project/v/venus_express/pic02_thumb.webp)](f/project/v/venus_express/pic02.jpg)  
 The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team of 25 subcontractors from 14 European countries.
 
 **PEOPLE:**

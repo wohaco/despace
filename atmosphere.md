@@ -25,7 +25,7 @@
 
 |Голубое небо|[Атмосфера Земли](earth.md)|
 |:--|:--|
-|[![](f/aob/earth/atmosphere_top_of_atmosphere_thumb.jpg)](f/aob/earth/atmosphere_top_of_atmosphere.jpg)|[![](f/aob/earth/atmosphere_earth_atmosfeer_thumb.jpg)](f/aob/earth/atmosphere_earth_atmosfeer.png)|
+|[![](f/aob/earth/atmosphere_top_of_atmosphere_thumb.webp)](f/aob/earth/atmosphere_top_of_atmosphere.webp)|[![](f/aob/earth/atmosphere_earth_atmosfeer_thumb.webp)](f/aob/earth/atmosphere_earth_atmosfeer.webp)|
 
 
 

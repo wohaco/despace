@@ -51,9 +51,9 @@
 
 | |*Наименование*|*Сектор углов*|
 |:--|:--|:--|
-|[![](f/comms/antenna_mna1_thumb.jpg)](f/comms/antenna_mna1.png)|**Малонаправленная (МНА)** или<br> **слабонаправленная**|± 90°|
-|[![](f/comms/antenna_na1_thumb.jpg)](f/comms/antenna_na1.jpg)|**Направленная (НА)** или<br> **средненаправленная (СНА)** или<br> **рупорная**|± 5 ‑ 15°|
-|[![](f/comms/antenna_ona1_thumb.jpg)](f/comms/antenna_ona1.png)|**Остронаправленная (ОНА)**|± 0.05 ‑ 1°|
+|[![](f/comms/antenna_mna1_thumb.webp)](f/comms/antenna_mna1.png)|**Малонаправленная (МНА)** или<br> **слабонаправленная**|± 90°|
+|[![](f/comms/antenna_na1_thumb.webp)](f/comms/antenna_na1.jpg)|**Направленная (НА)** или<br> **средненаправленная (СНА)** или<br> **рупорная**|± 5 ‑ 15°|
+|[![](f/comms/antenna_ona1_thumb.webp)](f/comms/antenna_ona1.png)|**Остронаправленная (ОНА)**|± 0.05 ‑ 1°|
 
 
 

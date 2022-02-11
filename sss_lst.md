@@ -39,7 +39,7 @@ A list of [Soil sampling systems](sss.md).
 |Drilling speed, ㎜/s, ≥| |
 |Soil sample mass, g|・840 (core sample length 1 500 ㎜)<br> ・1 680 (core sample length 3 000 ㎜)<br> ・2 520 (core sample length 4 500 ㎜)<br> ・3 360 (core sample length 6 000 ㎜)|
 |Soil sample volume, ㎜³| |
-| |[![](f/sss/l/lb-15_pic1_thumb.jpg)](f/sss/l/lb-15_pic1.png)|[![](f/sss/l/lb-15_pic2_thumb.jpg)](f/sss/l/lb-15_pic2.png)|[![](f/sss/l/lb-15_pic3_thumb.jpg)](f/sss/l/lb-15_pic3.png)|
+| |[![](f/sss/l/lb-15_pic1_thumb.webp)](f/sss/l/lb-15_pic1.png)|[![](f/sss/l/lb-15_pic2_thumb.webp)](f/sss/l/lb-15_pic2.png)|[![](f/sss/l/lb-15_pic3_thumb.webp)](f/sss/l/lb-15_pic3.png)|
 
 **Notes:**
 
@@ -79,7 +79,7 @@ A list of [Soil sampling systems](sss.md).
 |Drilling speed, ㎜/s, ≥|2.5 (lunar soil)|
 |Soil sample mass, g|170|
 |Soil sample volume, ㎜³| |
-| |[![](f/sss/l/lb-09_pic1_thumb.jpg)](f/sss/l/lb-09_pic1.jpg) [![](f/sss/l/lb-09_pic2_thumb.jpg)](f/sss/l/lb-09_pic2.png)|
+| |[![](f/sss/l/lb-09_pic1_thumb.webp)](f/sss/l/lb-09_pic1.jpg) [![](f/sss/l/lb-09_pic2_thumb.webp)](f/sss/l/lb-09_pic2.png)|
 
 **Notes:**
 
@@ -114,7 +114,7 @@ A list of [Soil sampling systems](sss.md).
 |Drilling speed, ㎜/s, ≥| |
 |Soil sample mass, g| |
 |Soil sample volume, ㎜³| |
-| |[![](f/sss/l/lb-10_pic1_thumb.jpg)](f/sss/l/lb-10_pic1.png)|
+| |[![](f/sss/l/lb-10_pic1_thumb.webp)](f/sss/l/lb-10_pic1.png)|
 
 **Notes:**
 
@@ -148,7 +148,7 @@ A list of [Soil sampling systems](sss.md).
 |Drilling speed, ㎜/s, ≥| |
 |Soil sample mass, g| |
 |Soil sample volume, ㎜³|1 600|
-| |[![](f/sss/v/vb02_pic1_thumb.jpg)](f/sss/v/vb02_pic1.jpg)  [![](f/sss/v/vb02_pic2_thumb.jpg)](f/sss/v/vb02_pic2.jpg) [![](f/sss/v/vb02_pic3_thumb.jpg)](f/sss/v/vb02_pic3.jpg) [![](f/sss/v/vb02_pic4_thumb.jpg)](f/sss/v/vb02_pic4.jpg)|
+| |[![](f/sss/v/vb02_pic1_thumb.webp)](f/sss/v/vb02_pic1.jpg)  [![](f/sss/v/vb02_pic2_thumb.webp)](f/sss/v/vb02_pic2.jpg) [![](f/sss/v/vb02_pic3_thumb.webp)](f/sss/v/vb02_pic3.jpg) [![](f/sss/v/vb02_pic4_thumb.webp)](f/sss/v/vb02_pic4.jpg)|
 
 **Notes:**
    1. [Venera-D Lander payload instruments ❐](f/sss/v/vb02_doc02.pdf) ([Gerasimov](person.md), [Economou](person.md), Moscow, IKI RAS, 2019)

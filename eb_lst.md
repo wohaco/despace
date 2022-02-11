@@ -44,7 +44,7 @@ A list of [Electric batteries](eb.md).
 |Self‑discharge,%/day, ≤|1|
 |Specific energy, A·h/㎏ (W·h/㎏)|3.72 (101)|
 |Voltage of each battery, V|2.7 ‑ 4.15|
-| |[![](f/sps/8li-70_thumb.jpg)](f/sps/8li-70.jpg)|
+| |[![](f/sps/8li-70_thumb.webp)](f/sps/8li-70.jpg)|
 
 **Notes:**
 

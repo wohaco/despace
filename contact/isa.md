@@ -1,7 +1,7 @@
 # ISA
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/i/isa_logo1_thumb.png)](../f/con/i/isa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Тель‑Авив, Derech Menachem Begin 52*<br> 【<http://space.gov.il/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Israel_Space_Agency)】|
+|[![](../f/contact/i/isa_logo1_thumb.png)](../f/contact/i/isa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Тель‑Авив, Derech Menachem Begin 52*<br> 【<http://space.gov.il/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Israel_Space_Agency)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

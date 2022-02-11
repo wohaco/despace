@@ -20,7 +20,7 @@
 |╙ Falcon 9 v.1.2 (FT)|Модификация v1.1.|**Активен** (2015 ‑ …)|
 |Falcon Heavy|Базовый вариант. На основе Falcon 9.|**Активен** (2018 ‑ …)|
 
-[![](f/lv/falcon/falcon_rocket_family_thumb.jpg)](f/lv/falcon/falcon_rocket_family.png)
+[![](f/lv/falcon/falcon_rocket_family_thumb.webp)](f/lv/falcon/falcon_rocket_family.png)
 
 
 ---
@@ -40,7 +40,7 @@
 |Разраб./изготов.|[SpaceX](contact/spacex.md) (США) / [SpaceX](contact/spacex.md) (США)|
 |Ступени|2|
 |[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
-| |[![](f/lv/falcon/falcon9_2018_thumb.jpg)](f/lv/falcon/falcon9_2018.jpg)|
+| |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**
 
@@ -69,7 +69,7 @@
 |Разраб./изготов.|[SpaceX](contact/spacex.md) (США) / [SpaceX](contact/spacex.md) (США)|
 |Ступени|2 + ускорители|
 |[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
-| |[![](f/lv/falcon/falconheavy_2019_thumb.jpg)](f/lv/falcon/falconheavy_2019.jpg) [![](f/lv/falcon/falconheavy_rboostes_thumb.jpg)](f/lv/falcon/falconheavy_rboostes.jpg) [![](f/lv/falcon/falconheavy_working_engines_thumb.jpg)](f/lv/falcon/falconheavy_working_engines.jpg)|
+| |[![](f/lv/falcon/falconheavy_2019_thumb.webp)](f/lv/falcon/falconheavy_2019.jpg) [![](f/lv/falcon/falconheavy_rboostes_thumb.webp)](f/lv/falcon/falconheavy_rboostes.jpg) [![](f/lv/falcon/falconheavy_working_engines_thumb.webp)](f/lv/falcon/falconheavy_working_engines.jpg)|
 
 **Выводимые массы.**
 

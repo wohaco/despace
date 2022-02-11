@@ -1,7 +1,7 @@
 # NGSL
 > 2020.11.19 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/n/ngsl_logo1_thumb.png)](../f/con/n/ngsl_logo1.png)|<info@ngsl.or.jp>, <mark>noworkphone</mark>, Fax: …; *1-5-3 Nihonbashi Muromachi, Chuo-ku, Tokyo, Japan*<br> 【<https://ngsl.or.jp/>】|
+|[![](../f/contact/n/ngsl_logo1_thumb.png)](../f/contact/n/ngsl_logo1.png)|<info@ngsl.or.jp>, <mark>noworkphone</mark>, Fax: …; *1-5-3 Nihonbashi Muromachi, Chuo-ku, Tokyo, Japan*<br> 【<https://ngsl.or.jp/>】|
 |:--|:--|
 |**Mission**|Solving global issues utilizing Japanese space technology. Contributing to “World Safety & Security” through collaboration between Japan, the United States, & Europe in the field of global commons (space, ocean, electromagnetic cyber).|
 |**Vision**|…|

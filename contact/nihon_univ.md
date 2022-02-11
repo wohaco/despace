@@ -1,7 +1,7 @@
 # Nihon University
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/n/nihon_univ_logo1_thumb.jpg)](../f/con/n/nihon_univ_logo1.jpg)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *4-chōme-8-24 Kudanminami, Chiyoda City, Tōkyō-to 102-0074, Japan*<br> 【<http://www.nihon-u.ac.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/school/nihon-college/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Nihon_University)】|
+|[![](../f/contact/n/nihon_univ_logo1_thumb.webp)](../f/contact/n/nihon_univ_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *4-chōme-8-24 Kudanminami, Chiyoda City, Tōkyō-to 102-0074, Japan*<br> 【<http://www.nihon-u.ac.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/school/nihon-college/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Nihon_University)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

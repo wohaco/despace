@@ -1,7 +1,7 @@
 # Geocentrix Technologies
 > 2021.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/g/geocentrix_logo1_thumb.png)](../f/con/g/geocentrix_logo1.png)|<info@geocentrix.ca>, +1(778)988-63-43, Fax: …;<br> *…, Vancouver, B.C. Canada*<br> 【<https://www.geocentrix.ca/>】|
+|[![](../f/contact/g/geocentrix_logo1_thumb.png)](../f/contact/g/geocentrix_logo1.png)|<info@geocentrix.ca>, +1(778)988-63-43, Fax: …;<br> *…, Vancouver, B.C. Canada*<br> 【<https://www.geocentrix.ca/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

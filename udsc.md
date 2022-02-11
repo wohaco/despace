@@ -11,7 +11,7 @@
 
 | | | | |
 |:--|:--|:--|:--|
-|[![](f/gs/udsc_pic1_thumb.jpg)](f/gs/udsc_pic1.webp)|[![](f/gs/udsc_pic2_thumb.jpg)](f/gs/udsc_pic2.webp)|[![](f/gs/udsc_pic3_thumb.jpg)](f/gs/udsc_pic3.webp)|[![](f/gs/udsc_pic4_thumb.jpg)](f/gs/udsc_pic4.webp)|
+|[![](f/gs/udsc_pic1_thumb.webp)](f/gs/udsc_pic1.webp)|[![](f/gs/udsc_pic2_thumb.webp)](f/gs/udsc_pic2.webp)|[![](f/gs/udsc_pic3_thumb.webp)](f/gs/udsc_pic3.webp)|[![](f/gs/udsc_pic4_thumb.webp)](f/gs/udsc_pic4.webp)|
 
 **Telescopes:**
 

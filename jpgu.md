@@ -7,7 +7,7 @@
 
 > <small>**Japan Geoscience Union (JpGU)** — EN term. **Японское объединение по геонаукам (ДжпГУ)** — literal RU translation.</small>
 
-|[![](f/con/j/jpgu_logo1_thumb.jpg)](f/con/j/jpgu_logo1.png)|*4F Gakkai Center Bldg., 2-4-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan*|
+|[![](f/contact/j/jpgu_logo1_thumb.webp)](f/contact/j/jpgu_logo1.png)|*4F Gakkai Center Bldg., 2-4-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan*|
 |:--|:--|
 |E‑mail|<office@jpgu.org>|
 |Link|<http://www.jpgu.org/>|

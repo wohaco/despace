@@ -1,7 +1,7 @@
 # СКБ
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/sdbireras_logo1_thumb.jpg)](../f/con/s/sdbireras_logo1.png)|<abramov@sdbireras.ru>, <sot@sdbireras.ru>, +7(496)565-24-03, Fax: +7(495)988-28-24, +7(496)565-25-00;<br> *Россия, 141190, Московская обл., г. Фрязино, Площадь имени академика Б.А. Введенского, д. 4*<br> 【<http://www.sdbireras.ru/>】|
+|[![](../f/contact/s/sdbireras_logo1_thumb.webp)](../f/contact/s/sdbireras_logo1.png)|<abramov@sdbireras.ru>, <sot@sdbireras.ru>, +7(496)565-24-03, Fax: +7(495)988-28-24, +7(496)565-25-00;<br> *Россия, 141190, Московская обл., г. Фрязино, Площадь имени академика Б.А. Введенского, д. 4*<br> 【<http://www.sdbireras.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

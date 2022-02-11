@@ -1,7 +1,7 @@
 # Orbspace
 > 2021.12.03 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/o/orbspace_logo1_thumb.png)](../f/con/o/orbspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *Startup Park Tsukuba, 2-5-1 Azuma, Tsukuba, Ibaraki, Japan*<br> 【<https://www.orbspace.com/>・ [Facebook ⎆](https://www.facebook.com/orbspace.aerospace)・ [Instagram ⎆](https://www.instagram.com/orbspace.aerospace/)・ [Twitter ⎆](https://twitter.com/orbspace)】|
+|[![](../f/contact/o/orbspace_logo1_thumb.png)](../f/contact/o/orbspace_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *Startup Park Tsukuba, 2-5-1 Azuma, Tsukuba, Ibaraki, Japan*<br> 【<https://www.orbspace.com/>・ [Facebook ⎆](https://www.facebook.com/orbspace.aerospace)・ [Instagram ⎆](https://www.instagram.com/orbspace.aerospace/)・ [Twitter ⎆](https://twitter.com/orbspace)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -41,7 +41,7 @@ A list of [Telemetry systems](tms.md).
 |・digital temperature sensors| |
 |・signal| |
 |Number of one‑time instructions| |
-| |[![](f/tms/a/astra_pic1_thumb.jpg)](f/tms/a/astra_pic1.png)|
+| |[![](f/tms/a/astra_pic1_thumb.webp)](f/tms/a/astra_pic1.png)|
 
 **Notes:**
 
@@ -82,7 +82,7 @@ A list of [Telemetry systems](tms.md).
 |・digital temperature sensors|8|
 |・signal|32|
 |Number of one‑time instructions| |
-| |[![](f/tms/o/oniks_pic1_thumb.jpg)](f/tms/o/oniks_pic1.png)|
+| |[![](f/tms/o/oniks_pic1_thumb.webp)](f/tms/o/oniks_pic1.png)|
 
 **Notes:**
 
@@ -123,7 +123,7 @@ A list of [Telemetry systems](tms.md).
 |・digital temperature sensors|16| |
 |・signal| |128|
 |Number of one‑time instructions| | |
-| |[![](f/tms/p/pirit_pic1_thumb.jpg)](f/tms/p/pirit_pic1.png)|
+| |[![](f/tms/p/pirit_pic1_thumb.webp)](f/tms/p/pirit_pic1.png)|
 
 **Notes:**
 

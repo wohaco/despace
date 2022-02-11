@@ -1,22 +1,11 @@
 # Cooperation
-> 2020.07.17 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md), [Persons](person.md)
+> 2022.01.08 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md), [Persons](person.md)
 
 [TOC]
 
 ---
 
 > And these people forbid us to pick our noses!
-
-   1. [ALPO](contact/alpo.md) — Association of Lunar & Planetary Observers
-   1. [CCSDS](ccsds.md) — международный Консультативный Комитет по косм. системам передачи данных
-   1. [IAF](contact/iaf.md) — International astronautical federation, Международная астронавтическая федерация
-   1. [Project Management Institute](project_management_institute.md)
-   1. [SEDS](contact/seds.md) — Students for the Exploration & Development of Space
-   1. [SGAC](contact/sgac.md) represent students & young space professionals to the United Nations, States, & space agencies
-   1. [Synergy Moon](synergy_moon.md)
-   1. [Болото](swamp.md)
-   1. [Worldview in different countries](wwidc.md)
-   1. For the person’s info page see **[Persons](person.md)**
 
 |*Агентство*|*Бюджет, $ млн (%)*|*Год*|*Примечание*|
 |:--|:--|:--|:--|
@@ -31,6 +20,18 @@
 |Алжир, [ASAL](contact/asal.md)|360 (2 %)|2002| |
 |Украина, [ГКА](contact/nkau.md)|300 (1.7 %)| |
 |Аргентина, [CONAE](contact/conae.md)|180 (1 %)|2014| |
+
+   1. [ALPO](contact/alpo.md) — Association of Lunar & Planetary Observers
+   1. [CCSDS](ccsds.md) — международный Консультативный Комитет по косм. системам передачи данных
+   1. [IAF](contact/iaf.md) — International astronautical federation — Международная астронавтическая федерация
+   1. [INCOSE](contact/incose.md)
+   1. [Project Management Institute](project_management_institute.md)
+   1. [SEDS](contact/seds.md) — Students for the Exploration & Development of Space
+   1. [SGAC](contact/sgac.md) represent students & young space professionals to the United Nations, States, & space agencies
+   1. [Synergy Moon](synergy_moon.md)
+   1. [Болото](swamp.md)
+   1. [Worldview in different countries](wwidc.md)
+   1. For the person’s info page see **[Persons](person.md)**
 
 
 
@@ -50,13 +51,15 @@
 |[AYAA](contact/ayaa.md)|N|·|·|·|·|Promote education, awareness, involvement in the A/S industry to youth|
 |[Fleet Space Tech.](contact/fleet_space_tech.md)|·|·|·|·|·|IoT with nanosat constellation|
 |[Gilmour Space Tech.](contact/gilmour_st.md)|·|·|·|·|·|Develop/launching low cost hybrid LV for small sats to LEO|
-|[HEO Robotics](contact/heo_robotics.md)|·|·|·|·|·|Acquire imagery of sats, space‑debris, resource‑rich asteroids with nanosats|
+|[HEO Robotics](contact/heo_robotics.md)|·|·|·|R|D|Acquire imagery of sats, space‑debris, resource‑rich asteroids with sats|
 |[Myriota](contact/myriota.md)|·|·|·|·|·|IoT with nanosat constellation|
 |[Optus](contact/optus.md)|·|·|·|C|D|Mobile, telephony, internet, sat, entertainment & biz network services|
 |[Saber Astronautics](contact/saber_an.md)|·|·|·|·|·|Model the interaction between SC telemetry & the space environment|
 |[SERC](contact/serc.md)|·|·|·|·|·|Space debris removal|
+|[Shoal](contact/shoal.md)|·|·|·|C|·|Systems engineering consulting|
 |[Southern Launch](contact/southern_launch.md)|·|·|·|·|·|Infrastructure/logistics support for (sub)orbital launches|
 |[Space Services AU](contact/space_services_au.md)|·|·|·|C|·|Modelling, simulation, system analysis|
+|[Spiral Blue](contact/spiral_blue.md)|·|·|·|R|·|OBC|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
@@ -71,7 +74,6 @@
 |:--|:--|:--|:--|:--|:--|:--|
 |【[CSA](contact/csa.md)   (QC)】|·|·|·|·|·|Canadian Space Agency|
 |[ADGA](contact/adga.md)   (ON)|·|·|·|C|·|Advanced technology solutions, professional engineering & consultancy|
-|[AQST Canada](contact/aqst_ca.md)   (QC)|·|·|·|R|·|GEO sats, electric propulsion, materials solutions, remote sensing, robotics|
 |[AIAC](contact/aiac.md)   (ON)|·|·|P|·|·|Aerospace Industries Association of Canada|
 |[AlbertaSat](contact/albertasat.md)   (AB)|N|·|·|R|·|(Student community) CubeSats R&D|
 |[August IST](contact/august_ist.md)   (ON)|E|·|·|R|·|Space infrastructure, R&D, education, commercialization of innovative solutions|
@@ -110,6 +112,7 @@
 |[Northstar ESI](contact/northstar_esi.md)   (QC)|·|·|·|R|·|Monitor space (object tracking), from space, via a sat constellation|
 |[PolyOrbite](contact/polyorbite.md)   (QC)|N|·|·|R|·|CubeSat’s R&D. Student society|
 |[Pratt & Whitney](contact/pratt_n_whitney.md)   (QC)|·|·|·|R|·|Engines, gas turbines|
+|[QSTC](contact/qstc.md)   (QC)|·|·|·|R|·|GEO sats, electric propulsion, materials solutions, remote sensing, robotics|
 |[Satcan](contact/satcan.md)   (ON)|N|·|·|C|·|Engineering & business consultancy for sat telecom & space tech sectors|
 |[SEDS Canada](contact/seds.md)   (ON)|N|·|P|·|·|(Student community) Promoting Exploration & Development of Space|
 |[Sinclair I/P](contact/sinclair_ip.md)   (ON)|·|·|·|R|·|Star trackers, reaction wheels, optical comms, software, training & expertise|
@@ -129,7 +132,7 @@
 |**・ Not space ・**|•|•|•|•|•|Avant Aerospace・ CAE|
 |**・ Org. lists ・**|•|•|•|•|•|[spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/)・ [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#sat-systems-components)・ [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)|
 
-[![](f/con/map/canada_political_ru_thumb.jpg)](f/con/map/canada_political_ru.png)
+[![](f/contact/map/canada_political_ru_thumb.webp)](f/contact/map/canada_political_ru.png)
 
 
 
@@ -167,6 +170,7 @@
 |[Airbus](contact/airbus.md)   (FR)|·|·|·|·|·|…|
 |[ARCA Dynamics](contact/arca_dymanics.md)   (IT)|·|·|·|·|·|Cubesats, GNC, space robotics, AI|
 |[ASP Equipment](contact/asp_equip..md)   (DE)|·|·|·|R|·|Power: DC/DC converters, IPU, PCDU, EPC, propulsion power|
+|[Asteroid MC](contact/asteroid_mc.md)   (UK)|·|·|·|R|·|Robotic & satellite platforms for asteroid mining|
 |[Astrocast](contact/astrocast.md)   (CH)|·|·|·|·|·|Sat operator, constellation of nano‑sats on LEO, IoT comms|
 |[AvalonSpace](contact/avalonspace.md)   (UK)|·|L|·|·|·|Green & cost‑effective UK launches|
 |[B2Space](contact/b2space.md)   (UK)|·|·|·|·|·|Launch services (balloon & LV) for small‑micro sats|
@@ -207,10 +211,12 @@
 |[OQ Technology ](contact/oq_technology.md)   (LU)|·|·|·|R|·|Sats constellation for IoT|
 |[Oxford Univ.](oxford_univ.md)   (UK)|·|·|·|·|·|…|
 |[Paris Obs.](paris_obs.md)   (FR)|·|·|·|·|·|…|
-|[QitetiQ](contact/qitetiq.md)   (UK)|·|·|·|·|·|Comms & security, spacecraft & subsystems, spaceflight training|
 |[PLD Space](contact/pld_space.md)   (ES)|·|L|·|R|·|Reusable (sub)orbital LV for small sats|
+|[Plus Ultra](contact/plus_ultra.md)   (ES)|·|·|·|R|·|Off‑Earth infrastructure, Lunar satellites|
 |[PTScientists](ptscientists.md)|·|·|·|·|·|…|
+|[QitetiQ](contact/qitetiq.md)   (UK)|·|·|·|·|·|Comms & security, spacecraft & subsystems, spaceflight training|
 |[RUAG Space](ruag_space.md)   (SE)|·|·|·|·|·|Разработка/создание электроники, механизмов РН, КА|
+|[SAGA SA](contact/saga_sa.md)   (DK)|·|·|·|R|·|Space architectures|
 |[Saft](contact/saft.md)   (FR)|·|·|·|·|·|Элементы электропитания|
 |[SES Satellites](contact/ses_sats.md)   (LU)|·|·|·|·|·|Deliver video & data solutions, LEO/MEO sats|
 |[SGAC](contact/sgac.md)   (AT)|·|·|·|·|·|Represent students & young space professionals to the United Nations|
@@ -220,6 +226,7 @@
 |[Space Expl. Inst.](contact/space_explor_inst.md)   (CH)|N|·|·|·|·|Developing space exploration activities, instruments|
 |[Space Forge](contact/space_forge.md)   (UK)|·|·|·|R|·|Reusable sats for material manufacturing in space|
 |[Space Mining T.](contact/space_mintech.md)   (EU)|·|·|·|·|·|Moon & asteroids mining|
+|[Space Talos](contact/space_talos.md)   (UK)|·|·|·|R|·|Radiation shielding technologies, testing|
 |[Swedish SC](swedish_sc.md)   (SE)|·|·|·|·|·|КА, кубсаты, аэростаты, НС|
 |[Tas‑I](contact/tas_i.md)   (FR)|·|L|·|R|·|R&D of SC, launch services, comms, sat control, Earth observation services|
 |[Telespazio](contact/telespazio.md)   (UK)|·|·|·|·|·|…|
@@ -234,7 +241,7 @@
 |[Zero 2 Infinity](contact/zero_2_infinity.md)   (IT)|·|L|·|R|·|Space transportation, launch small sats|
 |[Zielona Univ.](contact/zielona_univ.md)   (PL)|E|·|·|·|·|…|
 |**・ Not space ・**|•|•|•|•|•|…|
-|**・ Org. lists ・**|•|•|•|•|•|…|
+|**・ Org. lists ・**|•|•|•|•|•|[LSA SD ⎆](https://space-agency.public.lu/en/expertise/space-directory.html)|
 
 
 
@@ -317,7 +324,7 @@
 |[Canon El. Space](contact/ce_space.md)   13|·|·|·|R|·|Small Earth sats, their components|
 |[CTST](contact/ctst.md)   13|E|·|·|C|·|Space tourism, consulting, education|
 |[DATAFLUCT](contact/datafluct.md)   13|·|·|·|·|D|Software for sat data analysis|
-|[Digital Blast](contact/digital_blast.md)   13|·|·|·|C|·|Business & technology colsulting|
+|[Digital Blast](contact/digital_blast.md)   13|·|·|·|C|·|Business & technology consulting|
 |[Dymon](contact/dymon.md)   13|·|·|·|R|·|Robots, rovers, antennas|
 |[ElevationSpace](contact/elevationspace.md)   4|·|·|·|R|·|Space constructions, bases, transportations, experiments|
 |[Euroconsult](contact/euroconsult.md)   13|·|·|·|C|·|Strategic, research, summits, training programs|
@@ -382,6 +389,7 @@
 |[Space BD](contact/space_bd.md)   13|E|L|·|C|·|Space for business, sats launch, ISS experiments, education|
 |[SPACE COTAN](contact/space_cotan.md)   1|·|L|·|·|·|Sales & PR for Hokkaido Spaceport|
 |[Space Cubics](contact/spacecubics.md)   1|·|·|·|R|·|CPU, application software, FPGA, consult on space project management|
+|[Space Entertainment](contact/space_e11t.md)   13|E|·|P|·|·|Space entertainment activities|
 |[Space Entert. Lab](contact/space_entlab.md)   13|·|·|·|R|·|UAV, drones, high altitude (stratosphere) balloons, monitoring|
 |[Space NTK](contact/space_ntk.md)   13|·|·|·|R|·|Space burial|
 |[Space One](contact/space_one_co.md)   13|·|L|·|R|·|Launch service that uses small rockets. Small LV & dedicated launch site|
@@ -406,7 +414,7 @@
 |**・ Org. lists ・**|•|•|•|•|•|[aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/)・ [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/)・ [J-Startup ⎆](https://www.j-startup.go.jp/en/)・ [spacebizguide.com ⎆](https://www.spacebizguide.com/country-japan)・ [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)|
 |<mark>TBD</mark>|•|•|•|•|•|Our stars (2021)・ soranemo (2019)・ Space Art and design (2018)|
 
-[![](f/con/map/japan_political_thumb.png)](f/con/map/japan_political.png)
+[![](f/contact/map/japan_political_thumb.png)](f/contact/map/japan_political.png)
 
 
 
@@ -419,6 +427,7 @@
 |*［Organization (KR)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |【[KARI](contact/kari.md)   6】|E|L|P|R|·|Korea Aerospace Research Institute|
+|[APSI](contact/apsi.md)   1|·|·|·|R|·|CubeSats R&D, EPS, space electronics, testing|
 |[CONTEC](contact/contec.md)   6|·|·|·|R|·|GS Services, Sat image processing & application services|
 |[Hanwha](contact/hanwha.md)   15|·|·|·|R|·|Engines|
 |[INNOSPACE](contact/innospace.md)   17|·|L|·|R|·|LV development, PS test & evaluation, engineering services|
@@ -426,14 +435,15 @@
 |[KAIST](contact/kaist.md)   6|E|·|·|·|·|Higher education|
 |[KASI](contact/kasi.md)   6|E|·|·|R|·|Research institute in astronomy & space science|
 |[KT SAT](contact/ktsat.md)   1|·|·|·|R|·|Telecomms|
-|[NARA Space Tech.](contact/nara_st.md)   2|·|·|·|R|·|CubeSat & their components R&D, Testing, Consulting, Training|
+|[NARA Space Tech.](contact/nara_st.md)   2|·|·|·|R|·|CubeSat & components R&D, Testing, Consulting, Training|
 |[Perigee Aerospace](contact/perigee_as.md)   6|·|L|·|R|·|Small/medium orbital & sub‑orbital LV|
 |[Satrec Initiative](contact/satreci.md)   6|·|·|·|R|·|Earth observ., sats & their components, ground systems, analytics|
-|[SIIS](contact/siis.md)   6|·|·|·|R|·|Sat imagery provider|
+|[SIIS](contact/siis.md)   6|·|·|·|R|D|Sat imagery provider|
+|[SOLETOP](contact/soletop.md)   6|·|·|·|R|D|CubeSat R&D, geospatial info, unmanned system, instruments, software|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
-[![](f/con/map/korea_south_political_thumb.png)](f/con/map/korea_south_political.png)
+[![](f/contact/map/korea_south_political_thumb.png)](f/contact/map/korea_south_political.png)
 
 
 
@@ -442,7 +452,7 @@
 ## ✘ Russia
 **Космическая отрасль России** — это около 100 предприятий, в которых занято 250 000 человек. Большинство предприятий российской космической отрасли являются потомками советской государственной космической индустрии, занимавшейся разработкой и производством КА.
 
-Крупнейшим предприятием космической отрасли России является РКК «Энергия», главный подрядчик пилотируемых космических полётов. Ведущими производителями ракет‑носителей являются ГКНПЦ им. М.В. Хруничева и ЦСКБ‑Прогресс. Крупнейшим разработчиком спутников являются «Информационные спутниковые системы» им. академика М.Ф. Решетнёва, а лидером в области межпланетных КА является Научно‑производственное объединение им. С.А. Лавочкина.
+Крупнейшим предприятием является РКК «Энергия», главный подрядчик пилотируемых космических полётов. Ведущими производителями ракет‑носителей являются ГКНПЦ им. М.В. Хруничева и ЦСКБ‑Прогресс. Крупнейшим разработчиком спутников являются «Информационные спутниковые системы» им. академика М.Ф. Решетнёва, а лидером в области межпланетных КА является Научно‑производственное объединение им. С.А. Лавочкина.
 
 См. также: [Научно‑производственное объединение](spo.md)
 
@@ -675,7 +685,7 @@
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
-[![](f/con/map/usa_political_thumb.jpg)](f/con/map/usa_political.png)
+[![](f/contact/map/usa_political_thumb.webp)](f/contact/map/usa_political.png)
 
 
 

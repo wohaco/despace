@@ -11,7 +11,7 @@
 
 |*1st variant of AREE*|*2nd variant of AREE*|
 |:--|:--|
-|[![](f/rover/a/aree_pic01_thumb.jpg)](f/rover/a/aree_pic01.jpg)|[![](f/rover/a/aree_pic02_thumb.jpg)](f/rover/a/aree_pic02.jpg)|
+|[![](f/rover/a/aree_pic01_thumb.webp)](f/rover/a/aree_pic01.jpg)|[![](f/rover/a/aree_pic02_thumb.webp)](f/rover/a/aree_pic02.jpg)|
 
 
 

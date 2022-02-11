@@ -1,7 +1,7 @@
 # ADS
 > 2019.08.29 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/a/ads_logo1_thumb.jpg)](../f/con/a/ads_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Мюнхен, Германия*<br> 【<https://www.airbus.com/>|
+|[![](../f/contact/a/ads_logo1_thumb.webp)](../f/contact/a/ads_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Мюнхен, Германия*<br> 【<https://www.airbus.com/>|
 
 **Airbus Defence & Space (ADS)** is a division of Airbus Group responsible for defence & aerospace products & services. The division was formed in January 2014 during the corporate restructuring of European Aeronautic Defense & Space (EADS), & comprises the former Airbus Military, Astrium, & Cassidian divisions. Штаб‑квартира. Мюнхен, Германия.
 

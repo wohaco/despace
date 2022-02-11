@@ -6,7 +6,7 @@
 ---
 > <small>**Committee on Space Research (COSPAR)** — EN term. **Комитет по космическим исследованиям (КОСПАР)** — literal RU translation.</small>
 
-|[![](f/con/c/cospar_logo1_thumb.jpg)](f/con/c/cospar_logo1.png)|*…*|
+|[![](f/contact/c/cospar_logo1_thumb.webp)](f/contact/c/cospar_logo1.png)|*…*|
 |:--|:--|
 |E‑mail|<mark>noemail</mark>|
 |Link|<https://cosparhq.cnes.fr/><br> <https://www.facebook.com/CommitteeOnSpaceResearch/><br> <https://twitter.com/cosparhq?:lang=fr>|

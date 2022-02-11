@@ -231,15 +231,15 @@ Further details on the timeline are provided in Figure 3.
       - **Step 5g**: Lander reaches the ground after 1 hour of descent; Begin 5‑hour surface science operations phase; Lander data relayed to orbiter.
    - **Step 6**: Orbiter completes relay telecom support: 6 months of aerobraking to 230 ㎞ circular orbit; 2 years of orbiter science operations in prime mission (sufficient propellant for 2‑year extended mission).
 
-[![](f/project/v/venus_flagship_mission/vfm_07_thumb.jpg)](f/project/v/venus_flagship_mission/vfm_07.jpg)<br> **Figure 1**
+[![](f/project/v/venus_flagship_mission/vfm_07_thumb.webp)](f/project/v/venus_flagship_mission/vfm_07.jpg)<br> **Figure 1**
 
 <br>
 
-[![](f/project/v/venus_flagship_mission/vfm_08_thumb.jpg)](f/project/v/venus_flagship_mission/vfm_08.jpg)<br> **Figure 2**
+[![](f/project/v/venus_flagship_mission/vfm_08_thumb.webp)](f/project/v/venus_flagship_mission/vfm_08.jpg)<br> **Figure 2**
 
 <br>
 
-[![](f/project/v/venus_flagship_mission/vfm_09_thumb.jpg)](f/project/v/venus_flagship_mission/vfm_09.jpg)<br> **Figure 3**
+[![](f/project/v/venus_flagship_mission/vfm_09_thumb.webp)](f/project/v/venus_flagship_mission/vfm_09.jpg)<br> **Figure 3**
 
 
 
@@ -271,7 +271,7 @@ Further details on the timeline are provided in Figure 3.
    - Comms: 2.5 m dual‑feed X/S‑band HGA (Carrier‑to‑Earth to 34‑m DSN antennas; & Carrier‑to‑in situ); 2.5 m S‑band fixed HGA (Carrier‑to‑in situ);
    - Functions: Entry system delivery & deployment; & backup relay telecom ([EVN‑092](venus.md))
 
-[![](f/project/v/venus_flagship_mission/vfm_10_thumb.jpg)](f/project/v/venus_flagship_mission/vfm_10.jpg)
+[![](f/project/v/venus_flagship_mission/vfm_10_thumb.webp)](f/project/v/venus_flagship_mission/vfm_10.jpg)
 
 
 
@@ -285,7 +285,7 @@ Further details on the timeline are provided in Figure 3.
    - Spin stabilized after release from carrier
    - Functions: Deliver the in situ elements safely through the atmosphere
 
-[![](f/project/v/venus_flagship_mission/vfm_11_thumb.jpg)](f/project/v/venus_flagship_mission/vfm_11.jpg)
+[![](f/project/v/venus_flagship_mission/vfm_11_thumb.webp)](f/project/v/venus_flagship_mission/vfm_11.jpg)
 
 
 
@@ -438,7 +438,7 @@ The Magellan spacecraft was launched on May 4, 1989, & arrived at Venus on Aug
 
 Further details on the mission can be found at: <http://www2.jpl.nasa.gov/magellan/>
 
-![](f/project/v/venus_flagship_mission/vfm_26.jpg)  [![](f/project/v/venus_flagship_mission/vfm_27_thumb.jpg)](f/project/v/venus_flagship_mission/vfm_27.jpg)
+![](f/project/v/venus_flagship_mission/vfm_26.jpg)  [![](f/project/v/venus_flagship_mission/vfm_27_thumb.webp)](f/project/v/venus_flagship_mission/vfm_27.jpg)
 
 
 

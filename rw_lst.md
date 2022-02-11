@@ -36,7 +36,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|100|
 |Max ctrl moment, N·m|0.125|
 |Ready mode| |
-|[![](f/iu/a/agat_5_pic1_thumb.jpg)](f/iu/a/agat_5_pic1.jpg)|
+|[![](f/iu/a/agat_5_pic1_thumb.webp)](f/iu/a/agat_5_pic1.jpg)|
 
 **Notes:**
 
@@ -71,7 +71,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|250|
 |Max ctrl moment, N·m|0.1|
 |Ready mode| |
-| |[![](f/iu/a/agat_10_pic1_thumb.jpg)](f/iu/a/agat_10_pic1.jpg)|
+| |[![](f/iu/a/agat_10_pic1_thumb.webp)](f/iu/a/agat_10_pic1.jpg)|
 
 **Notes:**
 
@@ -106,7 +106,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|± 15 для каждого УДМ|
 |Max ctrl moment, N·m| |
 |Ready mode|1 s с момента подачи напряжения|
-| |[![ ❐](f/iu/a/agat_15_ba_pic001_thumb.jpg)](f/iu/a/agat_15_ba_pic001.png) [![](f/iu/a/agat_15_ba_pic002_thumb.jpg)](f/iu/a/agat_15_ba_pic002.webp)|
+| |[![ ❐](f/iu/a/agat_15_ba_pic001_thumb.webp)](f/iu/a/agat_15_ba_pic001.png) [![](f/iu/a/agat_15_ba_pic002_thumb.webp)](f/iu/a/agat_15_ba_pic002.webp)|
 
 **Notes:**
 
@@ -142,7 +142,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|±40|
 |Max ctrl moment, N·m| |
 |Ready mode| |
-| |[![](f/iu/a/agat_40_pic1_thumb.jpg)](f/iu/a/agat_40_pic1.png)|[![](f/iu/a/agat_40_pic2_thumb.jpg)](f/iu/a/agat_40_pic2.png)|
+| |[![](f/iu/a/agat_40_pic1_thumb.webp)](f/iu/a/agat_40_pic1.png)|[![](f/iu/a/agat_40_pic2_thumb.webp)](f/iu/a/agat_40_pic2.png)|
 
 **Notes:**
 
@@ -177,7 +177,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|1|
 |Max ctrl moment, N·m|20|
 |Ready mode| |
-| |[![](f/iu/д/dm1_20_pic1_thumb.jpg)](f/iu/д/dm1_20_pic1.jpg)|
+| |[![](f/iu/д/dm1_20_pic1_thumb.webp)](f/iu/д/dm1_20_pic1.jpg)|
 
 **Notes:**
 
@@ -212,7 +212,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|5|
 |Max ctrl moment, N·m|50|
 |Ready mode| |
-| |[![](f/iu/д/dm5_50_pic1_thumb.jpg)](f/iu/д/dm5_50_pic1.jpg)|
+| |[![](f/iu/д/dm5_50_pic1_thumb.webp)](f/iu/д/dm5_50_pic1.jpg)|
 
 **Notes:**
 
@@ -247,7 +247,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|10|
 |Max ctrl moment, N·m|25|
 |Ready mode| |
-| |[![](f/iu/д/dm_10_25_pic1_thumb.jpg)](f/iu/д/dm_10_25_pic1.jpg)|
+| |[![](f/iu/д/dm_10_25_pic1_thumb.webp)](f/iu/д/dm_10_25_pic1.jpg)|
 
 **Notes:**
 
@@ -282,7 +282,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|14|
 |Max ctrl moment, N·m|120|
 |Ready mode| |
-| |[![](f/iu/д/dm14_120_pic1_thumb.jpg)](f/iu/д/dm14_120_pic1.jpg)|
+| |[![](f/iu/д/dm14_120_pic1_thumb.webp)](f/iu/д/dm14_120_pic1.jpg)|
 
 **Notes:**
 
@@ -317,7 +317,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|20|
 |Max ctrl moment, N·m|250|
 |Ready mode| |
-| |[![](f/iu/д/dm20_250_pic1_thumb.jpg)](f/iu/д/dm20_250_pic1.jpg)|
+| |[![](f/iu/д/dm20_250_pic1_thumb.webp)](f/iu/д/dm20_250_pic1.jpg)|
 
 **Notes:**
 
@@ -352,7 +352,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|29.4|
 |Max ctrl moment, N·m|350|
 |Ready mode| |
-| |[![](f/iu/д/dmb_pic1_thumb.jpg)](f/iu/д/dmb_pic1.jpg)|
+| |[![](f/iu/д/dmb_pic1_thumb.webp)](f/iu/д/dmb_pic1.jpg)|
 
 **Notes:**
 
@@ -387,7 +387,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|150|
 |Max ctrl moment, N·m|2|
 |Ready mode| |
-| |[![](f/iu/g/gd_02_150_pic1_thumb.jpg)](f/iu/g/gd_02_150_pic1.jpg)|
+| |[![](f/iu/g/gd_02_150_pic1_thumb.webp)](f/iu/g/gd_02_150_pic1.jpg)|
 
 **Notes:**
 
@@ -422,7 +422,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|200|
 |Max ctrl moment, N·m|125|
 |Ready mode| |
-| |[![](f/iu/g/gd_200_125_pic1_thumb.jpg)](f/iu/g/gd_200_125_pic1.jpg)|
+| |[![](f/iu/g/gd_200_125_pic1_thumb.webp)](f/iu/g/gd_200_125_pic1.jpg)|
 
 **Notes:**
 
@@ -457,7 +457,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|0.5|
 |Max ctrl moment, N·m|0.015|
 |Ready mode| |
-| |[![](f/iu/m/mdm_0_5_pic1_thumb.jpg)](f/iu/m/mdm_0_5_pic1.jpg)|
+| |[![](f/iu/m/mdm_0_5_pic1_thumb.webp)](f/iu/m/mdm_0_5_pic1.jpg)|
 
 **Notes:**
 
@@ -492,7 +492,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|1|
 |Max ctrl moment, N·m|0.02|
 |Ready mode| |
-| |[![](f/iu/m/mdm_1_0_pic1_thumb.jpg)](f/iu/m/mdm_1_0_pic1.jpg)|
+| |[![](f/iu/m/mdm_1_0_pic1_thumb.webp)](f/iu/m/mdm_1_0_pic1.jpg)|
 
 **Notes:**
 
@@ -527,7 +527,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|2|
 |Max ctrl moment, N·m|0.05|
 |Ready mode| |
-| |[![](f/iu/m/mdm_2_50_pic1_thumb.jpg)](f/iu/m/mdm_2_50_pic1.jpg)|
+| |[![](f/iu/m/mdm_2_50_pic1_thumb.webp)](f/iu/m/mdm_2_50_pic1.jpg)|
 
 **Notes:**
 
@@ -562,7 +562,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s|20|
 |Max ctrl moment, N·m|20|
 |Ready mode| |
-| |[![](f/iu/s/sgk_20_20_pic1_thumb.jpg)](f/iu/s/sgk_20_20_pic1.jpg)|
+| |[![](f/iu/s/sgk_20_20_pic1_thumb.webp)](f/iu/s/sgk_20_20_pic1.jpg)|
 
 **Notes:**
 
@@ -597,8 +597,8 @@ A list of [Reaction wheels](sensor.md).
 |Исполнение|Single unit|
 |Kinetic moment, N·m·s|± 15|
 |Ready mode|1 s с момента подачи напряжения|
-| |[![ ❐](f/iu/a/agat_25_udm-15_pic002.png)](f/iu/a/agat_25_udm-15_pic002.png)|[![](f/iu/a/agat_25_udm-15_pic003_thumb.jpg)](f/iu/a/agat_25_udm-15_pic003.webp)
-| |[![](f/iu/a/agat_25_udm-15_pic001_thumb.jpg)](f/iu/a/agat_25_udm-15_pic001.png) Система координат УДМ‑15|
+| |[![ ❐](f/iu/a/agat_25_udm-15_pic002.png)](f/iu/a/agat_25_udm-15_pic002.png)|[![](f/iu/a/agat_25_udm-15_pic003_thumb.webp)](f/iu/a/agat_25_udm-15_pic003.webp)
+| |[![](f/iu/a/agat_25_udm-15_pic001_thumb.webp)](f/iu/a/agat_25_udm-15_pic001.png) Система координат УДМ‑15|
 
 **Notes:**
 
@@ -637,7 +637,7 @@ A list of [Reaction wheels](sensor.md).
 |Kinetic moment, N·m·s| |
 |Max ctrl moment, N·m| |
 |Ready mode| |
-| |[![](f/iu/k/koler_e_pic1_thumb.jpg)](f/iu/k/koler_e_pic1.png)|
+| |[![](f/iu/k/koler_e_pic1_thumb.webp)](f/iu/k/koler_e_pic1.png)|
 
 **Notes:**
 

@@ -154,7 +154,7 @@
 
 | |
 |:--|
-|[![](f/ef/radiation_dose_table_table_thumb.jpg)](f/ef/radiation_dose_table.png)|
+|[![](f/ef/radiation_dose_table_table_thumb.webp)](f/ef/radiation_dose_table.png)|
 
 
 
@@ -213,7 +213,10 @@ Absorbed radiation doses (in Si) for 1 year of flight on a circular Lunar orbi
 |:--|:--|:--|:--|:--|:--|:--|
 |0.01 (0.03703)|0|0|468|0.21|468|equal to open surface|
 |0.1 (0.3703)|0|0|88|0.134|88.9|equal to MLI|
+|0.5 (1.851)|0|0|46|0.132|46.13| |
+|0.7 (2.59)|0|0|30.6|0.131|30.75| |
 |1 (3.703)|0|0|6.2|0.129|6.39| |
+|2 (7.4)|…|…|…|…|…| |
 |3 (11.1)|0|0|1.81|0.125|1.936| |
 |10 (37)|0|0|0.315|0.116|0.431| |
 |31.6 (117)|0|0|0.045|0.091|0.136| |

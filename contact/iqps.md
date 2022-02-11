@@ -1,7 +1,7 @@
 # iQPS Inc.
 > 2020.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/i/iqps_logo1_thumb.png)](../f/con/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*<br> 【<https://i-qps.net/>・ [Facebook ⎆](https://facebook.com/qpslaboratory/)・ [Twitter ⎆](https://twitter.com/QPS_Inc)】|
+|[![](../f/contact/i/iqps_logo1_thumb.png)](../f/contact/i/iqps_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*<br> 【<https://i-qps.net/>・ [Facebook ⎆](https://facebook.com/qpslaboratory/)・ [Twitter ⎆](https://twitter.com/QPS_Inc)】|
 |:--|:--|
 |**Mission**|Expand the possibilities of space & contribute to the development of the world.|
 |**Vision**|OBSERVE THE EARTH. Anytime, Anywhere.|
@@ -10,7 +10,7 @@
 |**[MGMT](../mgmt.md)**|・CEO — Shunsuke Onishi.<br> ・COO — Toshimitsu Ichiki.|
 
 **iQPS Inc.** (**Institute for Q-shu Pioneers of Space Inc.**) is a JP company aimed to capture radar imagery of Earth every 10 minutes — a “real‑time Google Maps” — by building a constellation of a small (~ 100 ㎏) SAR ([Synthetic Aperture Radar](../cam.md)) sats. Thus to measure a weather even at nighttime. Founded 2005.06.  
-[iQPS' cooperation map ❐](../f/con/iqps_coop1.png)
+[iQPS' cooperation map ❐](../f/contact/iqps_coop1.png)
 
 Reason of Our Existence — expand the possibilities of space & contribute to the development of the world. There are rules & principles in the space, different from those on the Earth. That means, there lays an unknown territory where we, humankind have never been. In order to expand the possibilities in this infinite space & make our Earth a better place, iQPS Inc is working hard to develop new technologies & their applications with high aspirations & highly inquisitive minds.
 

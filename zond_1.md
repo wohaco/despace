@@ -9,7 +9,7 @@
 
 **Zond 1** was a spacecraft of the Soviet Zond program. It was the second Soviet research spacecraft to reach [Venus](venus.md), although communications had failed by that time.
 
-[![](f/project/z/zond_1/pic01_thumb.jpg)](f/project/z/zond_1/pic01.jpg) [![](f/project/z/zond_1/pic02_thumb.jpg)](f/project/z/zond_1/pic02.jpg)
+[![](f/project/z/zond_1/pic01_thumb.webp)](f/project/z/zond_1/pic01.jpg) [![](f/project/z/zond_1/pic02_thumb.webp)](f/project/z/zond_1/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 

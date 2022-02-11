@@ -11,7 +11,7 @@
 
 The **D‑subminiature** or **D‑sub** is a common type of electrical connector. They are named for their characteristic D‑shaped metal shield. When they were introduced, D‑subs were among the smallest connectors used on computer systems.
 
-[![](f/cable/dsub_miniatures_thumb.jpg)](f/cable/dsub_miniatures.png)
+[![](f/cable/dsub_miniatures_thumb.webp)](f/cable/dsub_miniatures.png)
 
 
 
@@ -29,7 +29,7 @@ In telecommunications, **RS‑232, Recommended Standard 232** is a standard orig
 |Physical Media| |
 |Voltage Levels|−6 ‑ +6 V (maximum differential Voltage)|
 
-[![](f/cable/db_25_1_thumb.jpg)](f/cable/db_25_1.jpg) [![](f/cable/db_25_2_thumb.jpg)](f/cable/db_25_2.png)  
+[![](f/cable/db_25_1_thumb.webp)](f/cable/db_25_1.jpg) [![](f/cable/db_25_2_thumb.webp)](f/cable/db_25_2.png)  
 *A DB‑25 connector as described in the RS‑232 standard*
 
 A serial port complying with the RS‑232 standard was once a standard feature of many types of computers. Personal computers used them for connections not only to modems, but also to printers, computer mice, data storage, uninterruptible power supplies, & other peripheral devices.
@@ -126,7 +126,7 @@ A minimal “3‑wire” RS‑232 connection consisting only of transmit data, r
 |Physical Media|Twisted Pair|
 |Voltage Levels|−6 ‑ +6 V (maximum differential Voltage)|
 
-[![](f/cable/db_25_1_thumb.jpg)](f/cable/db_25_1.jpg) [![](f/cable/db_25_2_thumb.jpg)](f/cable/db_25_2.png) [![](f/cable/de_9_1_thumb.jpg)](f/cable/d3_9_1.jpg)  
+[![](f/cable/db_25_1_thumb.webp)](f/cable/db_25_1.jpg) [![](f/cable/db_25_2_thumb.webp)](f/cable/db_25_2.png) [![](f/cable/de_9_1_thumb.webp)](f/cable/d3_9_1.jpg)  
 *A DB‑25 & DE‑9 connectors commonly used for RS‑422*
 
 RS-422 specifies differential signaling, with every data line paired with a dedicated return line. It is the voltage difference between these two lines that define the mark & space, rather than, as in RS‑232, the difference in voltage between a data line & a local ground. As the ground voltage can differ at either end of the cable, this required RS‑232 to use large +5 & ‑5 voltages. Moving to dedicated return lines & always defining ground in reference to the sender allowed RS-422 to use 0.4 V, allowing it to run at much higher speeds. RS‑423 differed primarily in that it had a single return pin instead of one for each data pin.
@@ -185,7 +185,7 @@ When used in relation to communications wiring, RS-422 wiring refers to cable ma
 |Physical Media|balanced interconnecting cable|
 |Voltage Levels|+3 ‑ +5.5 V (operational), −25 ‑ +25 V (common range), −60 ‑ +60 V (faults)|
 
-[![](f/cable/de_9_1_thumb.jpg)](f/cable/d3_9_1.jpg)  
+[![](f/cable/de_9_1_thumb.webp)](f/cable/d3_9_1.jpg)  
 *A DE‑9 connectors commonly used for RS‑485*
 
 

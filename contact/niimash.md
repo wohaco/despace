@@ -1,7 +1,7 @@
 # НИИМАШ
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/n/niimash_logo1_thumb.jpg)](../f/con/n/niimash_logo1.png)|<mail@niimashspace.ru>, <info@niimashspace.ru>, +7(34345)3-64-59, Fax: +7(34345)3-06-54, +7(34345)3-17-03;<br> *Россия, 624740, Свердловская область, г. Нижняя Салда, ул. Строителей, 72*<br> 【<http://www.niimashspace.ru/>】|
+|[![](../f/contact/n/niimash_logo1_thumb.webp)](../f/contact/n/niimash_logo1.png)|<mail@niimashspace.ru>, <info@niimashspace.ru>, +7(34345)3-64-59, Fax: +7(34345)3-06-54, +7(34345)3-17-03;<br> *Россия, 624740, Свердловская область, г. Нижняя Салда, ул. Строителей, 72*<br> 【<http://www.niimashspace.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

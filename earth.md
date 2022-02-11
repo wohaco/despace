@@ -26,7 +26,7 @@
 
 |*Экипаж «Аполлона‑17».<br> Синий марбл. 1972. The Blue Marble*|*Blue Marble 2012*|
 |:--|:--|
-|[![](f/aob/universe/blue_marble_thumb.jpg)](f/aob/universe/blue_marble.webp)|[![](f/aob/universe/blue_marble_2012_thumb.jpg)](f/aob/universe/blue_marble_2012.webp)|
+|[![](f/aob/universe/blue_marble_thumb.webp)](f/aob/universe/blue_marble.webp)|[![](f/aob/universe/blue_marble_2012_thumb.webp)](f/aob/universe/blue_marble_2012.webp)|
 
 Снимок, сделанный астронавтами 1972.12.07 в 5:39 EST (13:39 МСК), является одним из наиболее распространяемых снимков всех времён. Для астронавтов Земля имела размер и вид голубого марбла (игрушки, обычно представляющей собой цветной стеклянный шарик), отсюда и название.
 
@@ -97,8 +97,8 @@ It has been said that astronomy is a humbling and character‑building experienc
 
 | | |
 |:--|:--|
-|![](f/aob/earth/point_nemo_02.png)|![](f/aob/earth/point_nemo_01_thumb.jpg)|
-|Точка Немо в Тихом океане|И [в большом разрешении ❐](f/aob/earth/point_nemo_01.jpg)|
+|![](f/aob/earth/point_nemo_02.webp)|![](f/aob/earth/point_nemo_01_thumb.webp)|
+|Точка Немо в Тихом океане|И [в большом разрешении ❐](f/aob/earth/point_nemo_01.webp)|
 
 **История**
 
@@ -209,7 +209,7 @@ It has been said that astronomy is a humbling and character‑building experienc
 
 Для тех, кому нужна ещё более полная информация о свойствах атмосферы Земли до высоты 1 200 000 м, вот 165 листов [Межгосударственного стандарта «Атмосфера стандартная» ❐](f/doc/gost4401_81_atmosfera_standartnaya.pdf).
 
-![](f/aob/earth/atmosphere_earth_layers_ru.png)
+![](f/aob/earth/atmosphere_earth_layers_ru.webp)
 
 
 

@@ -19,12 +19,12 @@
 
 | | |
 |:--|:--|
-|**[УЗК](cml.md)**|Отсутствует|
-|**Входные<br> данные**|・[ТЗ](tor.md)<br> ・[контракт](contract.md)<br> ・материалы предыдущего этапа<br> ・прочие [ИД](init_data.md) от Заказчика|
-|**Процесс**|[формирование](dont_panic.md#Словоблудие) <mark>TBD</mark>|
-|**Выходные<br> данные**|<mark>TBD</mark>|
+|**Вх. данные**|・[ТЗ](tor.md)<br> ・[контракт](contract.md)<br> ・материалы предыдущего этапа<br> ・прочие [ИД](init_data.md) от Заказчика|
+|**Вых. данные**|<mark>TBD</mark>|
 |**Итог**|<mark>TBD</mark>|
 |**[НД](doc.md)**|・[РК‑11](const_rk.md)<br> ・[ГОСТ 2.102](гост_2_102.md) «ЕСКД. Виды и комплектность КД»<br> ・[ГОСТ 2.103](гост_2_103.md) «ЕСКД. Стадии разработки»<br> ・[ГОСТ 2.105](гост_2_105.md) «ЕСКД. Общие требования к текстовым документам»<br> ・[ГОСТ 2.106](гост_2_106.md) «ЕСКД. Текстовые документы»<br> ・[ГОСТ 2.902](гост_2_902.md) «ЕСКД. Текстовые документы»<br> ・[ГОСТ 15.201](гост_15_201.md) «ТТЗ на ОКР»<br> ・[ГОСТ 15.203](гост_15_203.md) «Порядок выполнения ОКР»<br> ・[ГОСТ 15.208](гост_15_208.md) «Единый сквозной план»<br> ・[ГОСТ 27.1.02](гост_27_1_02.md) «ПОН»<br> ・[ГОСТ 27.310](гост_27_310.md) «АВПКО»<br> ・[ГОСТ 51540](гост_51540.md) «Военная техника. Термины и определения»<br> ・[ГОСТ 8.573](гост_8_573.md) «Метрологическая экспертиза»|
+|**Процесс**|[формирование](dont_panic.md#Словоблудие) <mark>TBD</mark>|
+|**[УЗК](cml.md)**|Отсутствует|
 
 
 
@@ -203,8 +203,8 @@
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
-|**【[Test](test.md)】**<br> [JTAG](jtag.md)・ [Proto fligt model](pfm.md)・ [Безэховая камера](ach.md)・ [Валидация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [КПЭО](ctpr.md)・ [Перечень методик испытаний](list_tp.md)・ [Программа и методика испытаний](pmot.md)・ [Опытный образец](pilot_sample.md)・ [Циклограмма](obc.md)・ [Штатный образец](flight_unit.md)・ [ЭО](test.md)・ [Экспериментально‑теоретический метод](etetm.md)|
+|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](vnv.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
+|**【[Test](test.md)】**<br> [JTAG](jtag.md)・ [Proto fligt model](pfm.md)・ [Безэховая камера](ach.md)・ [Валидация](vnv.md)・ [Класс чистоты](clean_lvl.md)・ [КПЭО](ctpr.md)・ [Перечень методик испытаний](list_tp.md)・ [Программа и методика испытаний](pmot.md)・ [Опытный образец](pilot_sample.md)・ [Циклограмма](obc.md)・ [Штатный образец](flight_unit.md)・ [ЭО](test.md)・ [Экспериментально‑теоретический метод](etetm.md)|
 
    1. Docs:
       - [ГОСТ 15.210](гост_15_210.md)

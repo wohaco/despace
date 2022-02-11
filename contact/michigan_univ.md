@@ -1,7 +1,7 @@
 # Michigan Univ.
 > 2019.08.11 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/michigan_univ_logo1_thumb.png)](../f/con/m/michigan_univ_logo1.png)|<mark>noemail</mark>, +1(734)764-18-17, Fax: …;<br> *500 S State St, Ann Arbor, MI 48109, USA*<br> 【<https://umich.edu/>・ [Facebook ⎆](https://www.facebook.com/universityofmichigan)・ [Instagram ⎆](https://www.instagram.com/uofmichigan)・ [LinkedIn ⎆](https://www.linkedin.com/edu/school?:trk=edu-ca-head-title&id=18633)・ [Twitter ⎆](https://twitter.com/umich)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_of_Michigan)】|
+|[![](../f/contact/m/michigan_univ_logo1_thumb.png)](../f/contact/m/michigan_univ_logo1.png)|<mark>noemail</mark>, +1(734)764-18-17, Fax: …;<br> *500 S State St, Ann Arbor, MI 48109, USA*<br> 【<https://umich.edu/>・ [Facebook ⎆](https://www.facebook.com/universityofmichigan)・ [Instagram ⎆](https://www.instagram.com/uofmichigan)・ [LinkedIn ⎆](https://www.linkedin.com/edu/school?:trk=edu-ca-head-title&id=18633)・ [Twitter ⎆](https://twitter.com/umich)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_of_Michigan)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -84,7 +84,7 @@
 |:--|:--|:--|
 |**EU**|[Leonardo](leonardo.md)|[A-STR](st_lst.md) (3.55)・ [AA-STR](st_lst.md) (2.6)|
 | |[Jena‑Optronik](contact/jenaoptronik.md)|[ASTRO 15](st_lst.md) (6.15)・ [ASTRO 10](st_lst.md) (3.8)・ [ASTRO APS](st_lst.md) (2)|
-| |[Sodern](contact/sodern.md)|[Hydra](st_lst.md) (4.6)・ [Horus](st_lst.md) (1.6)・ [Auriga](st_lst.md) (0.21)<br> **`Исторические:`** *[SED26](st_lst.md) (3.3)*|
+| |[Sodern](contact/sodern.md)|[Hydra](st_lst.md) (4.6)・ [Horus](st_lst.md) (1.6)・ [Auriga](st_lst.md) (0.56)<br> **`Исторические:`** *[SED26](st_lst.md) (3.3)*|
 | |[Terma A/S](contact/terma.md)|[HE-5AS](st_lst.md) (2.2)・ [T2](st_lst.md) (0.8)・ [T1](st_lst.md) (0.6 ‑ 1)|
 |•|• • • • • • • • • • • • •|• • •|
 |**RU**|[Геофизика‑Космос](contact/geofizika_s.md)|[348К](st_lst.md) (3.45)・ [360К](st_lst.md) ()|
@@ -137,7 +137,7 @@
 
 |В космосе применяются<br> индукционные магнитометры.|Магнитометр КА [THEMIS](themis.md).|
 |:--|:--|
-|[![](f/sensor/lemi-120_thumb.jpg)](f/sensor/lemi-120.jpg)|[![](f/sensor/search_coil_magnetometer_thumb.jpg)](f/sensor/search_coil_magnetometer.jpg)|
+|[![](f/sensor/lemi-120_thumb.webp)](f/sensor/lemi-120.jpg)|[![](f/sensor/search_coil_magnetometer_thumb.webp)](f/sensor/search_coil_magnetometer.jpg)|
 
 **Разновидности**
 
@@ -175,9 +175,9 @@
    1. построения и поддержания ПСО на [КА](sc.md), где условия работы [научной аппаратуры](sc.md) предполагают использование ПСО в качестве рабочей ориентации;
    1. построения и поддержания ПСО в нештатных ситуациях, в случаях, когда парирование нештатной ситуации в режиме инерциальной ориентации невозможно.
 
-There are various types of sun sensors, which differ in their technology and performance characteristics. Sun presence sensors provide a binary output, indicating when the sun is within the sensor’s field of view. Analog and digital sun sensors, in contrast, indicate the angle of the sun by continuous and discrete signal outputs, respectively.
+There are various types of sun sensors, which differ in their technology and performance characteristics. Sun presence sensors provide a binary output, indicating when the Sun is within the sensor’s field of view. Analog and digital sun sensors, in contrast, indicate the angle of the Sun by continuous and discrete signal outputs, respectively.
 
-In typical sun sensors, a thin slit at the top of a rectangular chamber allows a line of light to fall on an array of photodetector cells at the bottom of the chamber. A voltage is induced in these cells, which is registered electronically. By orienting two sensors perpendicular to each other, the direction of the sun can be fully determined. Often, multiple sensors will share processing electronics.
+In typical sun sensors, a thin slit at the top of a rectangular chamber allows a line of light to fall on an array of photodetector cells at the bottom of the chamber. A voltage is induced in these cells, which is registered electronically. By orienting 2 sensors perpendicular to each other, the direction of the Sun can be fully determined. Often, multiple sensors will share processing electronics.
 
 | |*[Фирма](contact.md)*|*Модели СД (масса, ㎏)*|
 |:--|:--|:--|

@@ -20,7 +20,7 @@
 
 | |
 |:--|
-|[![](f/doc/svodka_otzyvov_1_thumb.jpg)](f/doc/svodka_otzyvov_1.png)|
+|[![](f/doc/svodka_otzyvov_1_thumb.webp)](f/doc/svodka_otzyvov_1.png)|
 
 
 

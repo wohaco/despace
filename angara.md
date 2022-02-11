@@ -27,7 +27,7 @@
 |Ангара‑А7|Модификация Ангара‑А1.|Не создавалась|
 |╙ Ангара‑А7.2В|Модификация Ангара‑А7.|Не создавалась|
 
-[![](f/lv/angara/a1-a3-a5_thumb.jpg)](f/lv/angara/a1-a3-a5.png) [![](f/lv/angara/a1-a5_thumb.jpg)](f/lv/angara/a1-a5.png) [![](f/lv/angara/a5-a7_thumb.jpg)](f/lv/angara/a5-a7.jpg) [![](f/lv/angara/angara_variations_thumb.jpg)](f/lv/angara/angara_variations.png)
+[![](f/lv/angara/a1-a3-a5_thumb.webp)](f/lv/angara/a1-a3-a5.png) [![](f/lv/angara/a1-a5_thumb.webp)](f/lv/angara/a1-a5.png) [![](f/lv/angara/a5-a7_thumb.webp)](f/lv/angara/a5-a7.jpg) [![](f/lv/angara/angara_variations_thumb.webp)](f/lv/angara/angara_variations.png)
 
 
 
@@ -52,7 +52,7 @@
 |Разраб./изготов.|[ГКНПЦ Хруничева](contact/khrunichev.md) (Россия) / [ГКНПЦ Хруничева](contact/khrunichev.md) (Россия)|
 |Ступени|3|
 |[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
-| |[![](f/lv/falcon/falcon9_2018_thumb.jpg)](f/lv/falcon/falcon9_2018.jpg)|
+| |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**
 

@@ -629,7 +629,7 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 
 |°|*[Org.](contact.md)*|*[Member](contact.md)*|
 |:--|:--|:--|
-|**Lavochkin Association**|**203**|[Merkulov Petr Vladimirovich](contact/меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager|
+| |**Lavochkin Association, 203**|[Merkulov Petr Vladimirovich](contact/меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager|
 | |**500**|[Sysoev Valentin Konstantinovich](contact/сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision|
 | |**500**|[Eroshkin Vladimir Nikitovich](contact/ерошкин1.md)<br>(Ерошкин, Владимир Никитович)|
 | |· **510**|[Sedykh Oleg Yurievich](contact/седых1.md)<br>(Седых, Олег Юрьевич)|

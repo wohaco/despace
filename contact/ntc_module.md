@@ -1,7 +1,7 @@
 # НТЦ «Модуль»
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/n/ntc_module_logo1_thumb.jpg)](../f/con/n/ntc_module_logo1.png)|<info@module.ru>, +7(495)531-30-80, Fax: +7(499)152-46-61;<br> *Почтовый — Россия, 125190, Москва, а/я 166. Фактический — Москва, 4‑ая улица 8 Марта, д. 3*<br> 【<https://www.module.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/НТЦ_«Модуль»)】|
+|[![](../f/contact/n/ntc_module_logo1_thumb.webp)](../f/contact/n/ntc_module_logo1.png)|<info@module.ru>, +7(495)531-30-80, Fax: +7(499)152-46-61;<br> *Почтовый — Россия, 125190, Москва, а/я 166. Фактический — Москва, 4‑ая улица 8 Марта, д. 3*<br> 【<https://www.module.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/НТЦ_«Модуль»)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

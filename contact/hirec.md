@@ -1,7 +1,7 @@
 # HIREC
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/h/hirec_logo1_thumb.jpg)](../f/con/h/hirec_logo1.jpg)|<mark>noemail</mark>, +81-44-201-1512, Fax: +81-44-201-1531;<br> *Muza Kawasaki Central Tower 12th Floor, 1310, Omiya-cho, Saiwai-ku, Kawasaki-shi, Kanagawa, 212-8554, Japan*<br> 【<http://www.hirec.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/ｈｉｒｅｃ（株）/about/)】|
+|[![](../f/contact/h/hirec_logo1_thumb.webp)](../f/contact/h/hirec_logo1.webp)|<mark>noemail</mark>, +81-44-201-1512, Fax: +81-44-201-1531;<br> *Muza Kawasaki Central Tower 12th Floor, 1310, Omiya-cho, Saiwai-ku, Kawasaki-shi, Kanagawa, 212-8554, Japan*<br> 【<http://www.hirec.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/ｈｉｒｅｃ（株）/about/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

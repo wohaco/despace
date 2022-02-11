@@ -1,7 +1,7 @@
 # Meisei
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/meisei_logo1_thumb.jpg)](../f/con/m/meisei_logo1.png)|<aerospace@meisei.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2223 Naganumamachi, Isesaki-shi, Gunma 372-8585, Japan*<br> 【<http://www.meisei.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/meisei/>・ [LinkedIn ⎆](https://www.linkedin.com/company/meisei-electric/about/)】|
+|[![](../f/contact/m/meisei_logo1_thumb.webp)](../f/contact/m/meisei_logo1.png)|<aerospace@meisei.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2223 Naganumamachi, Isesaki-shi, Gunma 372-8585, Japan*<br> 【<http://www.meisei.co.jp/>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/meisei/>・ [LinkedIn ⎆](https://www.linkedin.com/company/meisei-electric/about/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

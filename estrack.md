@@ -11,7 +11,7 @@
 
 | |
 |:--|
-|[![](f/gs/estrack_pic1_thumb.jpg)](f/gs/estrack_pic1.webp)|
+|[![](f/gs/estrack_pic1_thumb.webp)](f/gs/estrack_pic1.webp)|
 
 **ESA stations**
 

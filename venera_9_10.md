@@ -10,7 +10,7 @@
 
 **Venera 9** and **Venera 10** were Soviet unmanned space mission parts to Venus.
 
-[![](f/project/v/venera_9_10/pic01_thumb.jpg)](f/project/v/venera_9_10/pic01.jpg) [![](f/project/v/venera_9_10/pic05_thumb.jpg)](f/project/v/venera_9_10/pic05.jpg)
+[![](f/project/v/venera_9_10/pic01_thumb.webp)](f/project/v/venera_9_10/pic01.jpg) [![](f/project/v/venera_9_10/pic05_thumb.webp)](f/project/v/venera_9_10/pic05.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -244,7 +244,7 @@ On both sides of the cylinder there were solar panels measuring 1.25 x 2.1�
 
 Information about the operation of the reentry system and data from the lander were transmitted to Earth via the Orbiter repeater in real time.
 
-[![](f/project/v/venera_9_10/pic02_thumb.jpg)](f/project/v/venera_9_10/pic02.jpg)
+[![](f/project/v/venera_9_10/pic02_thumb.webp)](f/project/v/venera_9_10/pic02.jpg)
 
 **Lander**
 
@@ -254,9 +254,9 @@ The lander was 2 m high, was equipped with batteries of greater (than 3MV) cap
 
 The lander was a sealed double-walled titanium pressure vessel of spherical shape with a diameter of 80 ㎝ and total mass of 660 ㎏, which contained most of the instruments and electronics. It was attached to the landing ring shock absorber by a system of dampers. On top was a disc‑shaped aerodynamic shield with a diameter of 2.1 m, designed to reduce the rate of descent and stabilize the apparatus during its free fall in the lower atmosphere. This shield worked the same way as the reflector of the omnidirectional antenna rolled into a cylinder and located on it. Inside the cylinder with a diameter of 80 ㎝ and a height of 40 ㎝ were parachutes and scientific instruments to work during the descent. The sphere consisted of several sections welded together by a seam of gold wire. It was covered with a 12 ㎝ layer of porous thermal insulation material in the form of honeycomb, and on top of it was closed with a thin titanium shell. Inside, the sphere was also lined with heat-insulating polyurethane foam. In addition to effective thermal insulation, when approaching the planet, the lander was pre‑cooled to a temperature of –10 ℃. The heat of the atmosphere, penetrating through the layers of insulation, was absorbed by thermal batteries based on lithium nitrate trihydrate. This salt was melted at a temperature of 33 ℃, and the gas circulation system distributed heat evenly throughout the volume, maintaining this temperature inside the apparatus until the salt stock was completely melted.
 
-[![](f/project/v/venera_9_10/pic03_thumb.jpg)](f/project/v/venera_9_10/pic03.jpg)
+[![](f/project/v/venera_9_10/pic03_thumb.webp)](f/project/v/venera_9_10/pic03.jpg)
 
-[![](f/project/v/venera_9_10/pic04_thumb.jpg)](f/project/v/venera_9_10/pic04.jpg)
+[![](f/project/v/venera_9_10/pic04_thumb.webp)](f/project/v/venera_9_10/pic04.jpg)
 
 
 

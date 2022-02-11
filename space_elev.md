@@ -15,7 +15,7 @@
 
 | |
 |:--|
-|[![](f/project/a/ais/space_elevator_pic1_thumb.jpg)](f/project/a/ais/space_elevator_pic1.png)|
+|[![](f/project/a/ais/space_elevator_pic1_thumb.webp)](f/project/a/ais/space_elevator_pic1.png)|
 
 
 

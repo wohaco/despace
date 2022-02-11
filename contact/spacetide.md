@@ -1,7 +1,7 @@
 # SPACETIDE
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/spacetide_logo1_thumb.jpg)](../f/con/s/spacetide_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Fukushima Building 7F X-NIHONBASHI, 1-5-3, Muromachi, Nihonbashi, Chuo-ku, Tokyo, Japan*<br> 【<https://spacetide.jp/>・ [Facebook ⎆](https://www.facebook.com/SPACETIDE)・ [LinkedIn ⎆](https://www.linkedin.com/company/spacetide-foundation)・ [Twitter ⎆](https://twitter.com/spacetide_conf)】|
+|[![](../f/contact/s/spacetide_logo1_thumb.webp)](../f/contact/s/spacetide_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Fukushima Building 7F X-NIHONBASHI, 1-5-3, Muromachi, Nihonbashi, Chuo-ku, Tokyo, Japan*<br> 【<https://spacetide.jp/>・ [Facebook ⎆](https://www.facebook.com/SPACETIDE)・ [LinkedIn ⎆](https://www.linkedin.com/company/spacetide-foundation)・ [Twitter ⎆](https://twitter.com/spacetide_conf)】|
 |:--|:--|
 |**Mission**|Create New Waves of the Space Industry|
 |**Vision**|Drive the future of human society through the space industry|

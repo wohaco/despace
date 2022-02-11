@@ -1,7 +1,7 @@
 # ФИАН
 > 2019.08.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/f/fian_logo1_thumb.jpg)](../f/con/f/fian_logo1.png)|<postmaster@lebedev.ru>, +7(499)135-42-64, Fax: +7(499)135-78-80;<br> *Россия, 119991, ГСП‑1 Москва, Ленинский проспект, д. 53, ФИАН*<br> 【<http://www.lebedev.ru/>】|
+|[![](../f/contact/f/fian_logo1_thumb.webp)](../f/contact/f/fian_logo1.png)|<postmaster@lebedev.ru>, +7(499)135-42-64, Fax: +7(499)135-78-80;<br> *Россия, 119991, ГСП‑1 Москва, Ленинский проспект, д. 53, ФИАН*<br> 【<http://www.lebedev.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

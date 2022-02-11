@@ -1,7 +1,7 @@
 # Euroconsult
 > 2020.07.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/e/euroconsult_logo1_thumb.jpg)](../f/con/e/euroconsult_logo1.png)|<mark>noemail</mark>, +33(149)23-75-30, Fax: …;<br> *86 Boulevard de Sebastopol, 75003 Paris, France*<br> 【<http://www.euroconsult-ec.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/euroconsult/)】|
+|[![](../f/contact/e/euroconsult_logo1_thumb.webp)](../f/contact/e/euroconsult_logo1.png)|<mark>noemail</mark>, +33(149)23-75-30, Fax: …;<br> *86 Boulevard de Sebastopol, 75003 Paris, France*<br> 【<http://www.euroconsult-ec.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/euroconsult/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

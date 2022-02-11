@@ -28,7 +28,7 @@
 |[Semimajor axis](keplerian.md) (a)|98.1 млрд ㎞ (654 а.е.),<br> или 99.75 млрд ㎞ (665 а.е.), или 105 млрд ㎞ (700 а.е.)|
 |Orbital velocity (Ⅴ)|… ㎞/s|
 |Day/year|… / … земных|
-|[Longit. of asc.node](keplerian.md) (Ω)|–5° при i=48°, или 101° при i=18°, или 102° или 150°|
+|[Longit. of  asc.node](keplerian.md) (Ω)|–5° при i=48°, или 101° при i=18°, или 102° или 150°|
 |[Inclination](keplerian.md) (Ⅰ)|48° при Ω=–5°, или 18° при Ω=101°, или 30°|
 |[Sider. rotat.period](astroperiod.md) (T, day)|… дня|
 |[Sidereal period](astroperiod.md) (year)|16 725 лет (6 104 625 д),<br> либо 17 117 лет (6 247 705 д),<br> либо 10 000 ‑ 20 000 лет (3 650 000 ‑ 7 300 000 д)|

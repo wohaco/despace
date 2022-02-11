@@ -1,7 +1,7 @@
 # ISRO
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/i/isro_logo1_thumb.jpg)](../f/con/i/isro_logo1.png)|<dir.ppr@isro.gov.in>, +91(80)234-152-75 или 221-722-96, Fax: +91(80)234-122-53;<br> *Antariksh Bhavan, New BEL Road, Bengaluru‑560 231*<br> 【<http://www.isro.org>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation)】|
+|[![](../f/contact/i/isro_logo1_thumb.webp)](../f/contact/i/isro_logo1.png)|<dir.ppr@isro.gov.in>, +91(80)234-152-75 или 221-722-96, Fax: +91(80)234-122-53;<br> *Antariksh Bhavan, New BEL Road, Bengaluru‑560 231*<br> 【<http://www.isro.org>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

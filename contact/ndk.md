@@ -1,7 +1,7 @@
 # Nihon Dempa Kogyo
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/n/ndk_logo1_thumb.jpg)](../f/con/n/ndk_logo1.png)|<bio-m@ndk.com>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://www.ndk.com/en/index.html>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/ndk/>】|
+|[![](../f/contact/n/ndk_logo1_thumb.webp)](../f/contact/n/ndk_logo1.png)|<bio-m@ndk.com>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://www.ndk.com/en/index.html>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/ndk/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

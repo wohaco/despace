@@ -1,7 +1,7 @@
 # PASCO Corporation
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/p/pasco_corp_logo1_thumb.jpg)](../f/con/p/pasco_corp_logo1.png)|<mark>noemail</mark>, +81-3-6412-2978, Fax: …;<br> *1-1-2 Higashiyama, Meguro-ku, Tokyo 153-0043, Japan*<br> 【<https://www.pasco.co.jp/>】|
+|[![](../f/contact/p/pasco_corp_logo1_thumb.webp)](../f/contact/p/pasco_corp_logo1.png)|<mark>noemail</mark>, +81-3-6412-2978, Fax: …;<br> *1-1-2 Higashiyama, Meguro-ku, Tokyo 153-0043, Japan*<br> 【<https://www.pasco.co.jp/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -1,7 +1,7 @@
 # Xplore
 > 2020.01.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/x/xplore_logo1_thumb.png)](../f/con/x/xplore_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *7683 SE 27th St. #308, Mercer Island, WA 98040, US*<br> 【<https://www.xplore.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/xplore-inc/)】|
+|[![](../f/contact/x/xplore_logo1_thumb.png)](../f/contact/x/xplore_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *7683 SE 27th St. #308, Mercer Island, WA 98040, US*<br> 【<https://www.xplore.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/xplore-inc/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

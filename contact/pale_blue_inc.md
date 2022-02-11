@@ -1,7 +1,7 @@
 # Pale Blue Inc.
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/p/pale_blue_inc_logo1_thumb.jpg)](../f/con/p/pale_blue_inc_logo1.png)|<contact@pale-blue.co.jp>, +81(4)7136-4942, Fax: …;<br> *Room No. 610, Tokatsu Techno Plaza, 5-4-6 Kashiwanoha, Kashiwa-shi Chiba, Japan 277-0882*<br> 【<https://pale-blue.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/pale-blue-inc/)】|
+|[![](../f/contact/p/pale_blue_inc_logo1_thumb.webp)](../f/contact/p/pale_blue_inc_logo1.png)|<contact@pale-blue.co.jp>, +81(4)7136-4942, Fax: …;<br> *Room No. 610, Tokatsu Techno Plaza, 5-4-6 Kashiwanoha, Kashiwa-shi Chiba, Japan 277-0882*<br> 【<https://pale-blue.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/pale-blue-inc/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

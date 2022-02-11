@@ -1,7 +1,7 @@
 # CSS
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/c/css_logo1_thumb.jpg)](../f/con/c/css_logo1.png)|<general@css.ca>, +1(416)836-320-54, Fax: …;<br> *P.O. Box 19015, 360-A Bloor Street West, Toronto, Ontario, M5S 1X0, Canada*<br> 【<https://css.ca/> ・ [Facebook ⎆](https://www.facebook.com/CanadianSpaceSociety/)・ [LinkedIn ⎆](https://www.linkedin.com/company/canadian-space-society)・ [Twitter ⎆](https://twitter.com/cdnspacesociety)】|
+|[![](../f/contact/c/css_logo1_thumb.webp)](../f/contact/c/css_logo1.png)|<general@css.ca>, +1(416)836-320-54, Fax: …;<br> *P.O. Box 19015, 360-A Bloor Street West, Toronto, Ontario, M5S 1X0, Canada*<br> 【<https://css.ca/> ・ [Facebook ⎆](https://www.facebook.com/CanadianSpaceSociety/)・ [LinkedIn ⎆](https://www.linkedin.com/company/canadian-space-society)・ [Twitter ⎆](https://twitter.com/cdnspacesociety)】|
 |:--|:--|
 |**Mission**|・**Inform.** We inform our membership & the public about Canada’s activities in space within the context of the broader international community.<br> ・**Educate.** We educate on space exploration, discovery, innovation & its values.<br> ・**Engage.** We engage our members through space related projects, activities, & networking opportunities.<br> ・**Shape.** We shape space policy, representing our membership & the public through activities that bring together members of government, academia, & business.|
 |**Vision**|To lead Canada in the effective cooperation between industry, government, academia, advocacy groups, & the public for the advancement of space endeavours.|

@@ -65,7 +65,7 @@ A **spaceport** or **cosmodrome** is a site for [launching](lv.md) (or receiving
 | |**Active**|Vandenberg|4 200|34°43′58″N 120°34′05″W|
 | |**Active**|Wallops|4 500|37°56′24.7″N 75°27′59.0″W|
 | | | | | |
-|**EQ**| |**Countries on the equator:**<br> ➀ Brazil<br> ➁ Gabon<br> ➂ Indonesia<br> ➃ Kenya<br> ➄ Colombia<br> ➅ Congo<br> ➆ São Tomé & Príncipe<br> ➇ Somalia<br> ➈ Uganda<br> ➉ Ecuador| |*Map of spaceports*<br> [![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+|**EQ**| |**Countries on the equator:**<br> ➀ Brazil<br> ➁ Gabon<br> ➂ Indonesia<br> ➃ Kenya<br> ➄ Colombia<br> ➅ Congo<br> ➆ São Tomé & Príncipe<br> ➇ Somalia<br> ➈ Uganda<br> ➉ Ecuador| |*Map of spaceports*<br> [![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Maps**
 
@@ -107,8 +107,8 @@ Al-Anbar Space Research Center & other Iraqi launch sites were damaged in the 19
 |Launch pads|1|
 |[Launched vehicles](lv.md)|**Abid** <small>(modified version of Argentina’s Condor ballistic missile & USSR’s Scud rocket)</small>|
 |Operator| |
-| |[![](f/spaceport/al_anbar/map1_thumb.jpg)](f/spaceport/al_anbar/map1.png) ![](f/spaceport/al_anbar/map3.png)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg) <small>*Мировая карта космодромов*</small>|
+| |[![](f/spaceport/al_anbar/map1_thumb.webp)](f/spaceport/al_anbar/map1.png) ![](f/spaceport/al_anbar/map3.png)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg) <small>*Мировая карта космодромов*</small>|
 
 
 
@@ -127,8 +127,8 @@ Al-Anbar Space Research Center & other Iraqi launch sites were damaged in the 19
 |Location|2°22′23″S 44°23′47″W<br> Alcantara, Maranhão, Brazil|
 |Distance|260 ㎞ — to the equator;<br> 11 400 ㎞ — to [Lavochkin](contact/lav.md);<br> 8 800 ㎞ — to [JPL](contact/jpl.md);<br> 22 ㎞ (460 ㎞ by road) — to the Brazilian Space Agency|
 |Launch pad|9|
-| |[![](f/spaceport/alcantara/pic1_thumb.jpg)](f/spaceport/alcantara/pic1.jpg)  [![](f/spaceport/alcantara/map1_thumb.jpg)](f/spaceport/alcantara/map1.png)   [![](f/spaceport/alcantara/map2_thumb.jpg)](f/spaceport/alcantara/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/alcantara/pic1_thumb.webp)](f/spaceport/alcantara/pic1.jpg)  [![](f/spaceport/alcantara/map1_thumb.webp)](f/spaceport/alcantara/map1.png)   [![](f/spaceport/alcantara/map2_thumb.webp)](f/spaceport/alcantara/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -155,8 +155,8 @@ Spaceport America is «the world’s first purpose-built commercial spaceport»,
 |Location|32°59′25″N 106°58′11″W<br> desert in Sierra County, new Mexico, USA|
 |Distance|3 900 ㎞ — to the equator;<br> 12 800 ㎞ — to [Lavochkin](contact/lav.md);<br> 1 100 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|1|
-| |[![](f/spaceport/america/pic1_thumb.jpg)](f/spaceport/america/pic1.jpg)  [![](f/spaceport/america/map1_thumb.jpg)](f/spaceport/america/map1.png)   [![](f/spaceport/america/map2_thumb.jpg)](f/spaceport/america/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/america/pic1_thumb.webp)](f/spaceport/america/pic1.jpg)  [![](f/spaceport/america/map1_thumb.webp)](f/spaceport/america/map1.png)   [![](f/spaceport/america/map2_thumb.webp)](f/spaceport/america/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -185,8 +185,8 @@ The spaceport is currently leased by the Kazakh Government to Russia until 2050,
 |Location|45°57′54″N 63°18′18″E<br> Republic of Kazakhstan|
 |Distance|5 200 ㎞ — to the equator;<br> 2 200 ㎞ — to [Lavochkin](contact/lav.md);<br> 18 200 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|19|
-| |[![](f/spaceport/baikonur/pic1_thumb.jpg)](f/spaceport/baikonur/pic1.jpg)  [![](f/spaceport/baikonur/map1_thumb.jpg)](f/spaceport/baikonur/map1.png)   [![](f/spaceport/baikonur/map2_thumb.jpg)](f/spaceport/baikonur/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/baikonur/pic1_thumb.webp)](f/spaceport/baikonur/pic1.jpg)  [![](f/spaceport/baikonur/map1_thumb.webp)](f/spaceport/baikonur/map1.png)   [![](f/spaceport/baikonur/map2_thumb.webp)](f/spaceport/baikonur/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -212,8 +212,8 @@ For GEO launches, the latitude of 28°27'N has a slight disadvantage compared to
 |Location|28°28′03″N 80°33′59″W<br> Cape Canaveral, Florida, USA|
 |Distance|3 400 ㎞ — to the equator;<br> 11 000 ㎞ — to [Lavochkin](contact/lav.md);<br> 3 800 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|13 (3 active)|
-| |[![](f/spaceport/canaveral/pic1_thumb.jpg)](f/spaceport/canaveral/pic1.jpg)  [![](f/spaceport/canaveral/map1_thumb.jpg)](f/spaceport/canaveral/map1.png)   [![](f/spaceport/canaveral/map2_thumb.jpg)](f/spaceport/canaveral/map2.png)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/canaveral/pic1_thumb.webp)](f/spaceport/canaveral/pic1.jpg)  [![](f/spaceport/canaveral/map1_thumb.webp)](f/spaceport/canaveral/map1.png)   [![](f/spaceport/canaveral/map2_thumb.webp)](f/spaceport/canaveral/map2.png)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -247,8 +247,8 @@ The spaceport will perform satellite operations & engage in a lunar mission to d
 |Location|50°26′27″N 4°59′43″W<br> Newquay, UK|
 |Distance|5 600 ㎞ — to the equator;<br> 2 900 ㎞ — to [Lavochkin](contact/lav.md);<br> 8 600 ㎞ — to [JPL](contact/jpl.md);<br> 600 ㎞ — to ESA Headquarters in Paris|
 |Launch pad|1 (runway)|
-| |[![](f/spaceport/cornwall/map_thumb.jpg)](f/spaceport/cornwall/map.jpg)   [![](f/spaceport/cornwall/runway_thumb.jpg)](f/spaceport/cornwall/runway.jpg)    [![](f/spaceport/cornwall/airport_thumb.jpg)](f/spaceport/cornwall/airport.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/cornwall/map_thumb.webp)](f/spaceport/cornwall/map.jpg)   [![](f/spaceport/cornwall/runway_thumb.webp)](f/spaceport/cornwall/runway.jpg)    [![](f/spaceport/cornwall/airport_thumb.webp)](f/spaceport/cornwall/airport.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -274,8 +274,8 @@ The spaceport will perform satellite operations & engage in a lunar mission to d
 |Location|51°05′38″N 59°50′32″E<br> Yasnensky District, Orenburg Oblast, Russia|
 |Distance|5 500 ㎞ — to the equator;<br> 1 600 ㎞ — to [Lavochkin](contact/lav.md);<br> 18 600 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|2|
-| |[![](f/spaceport/dombarovsky/pic1_thumb.jpg)](f/spaceport/dombarovsky/pic1.jpg)  [![](f/spaceport/dombarovsky/map1_thumb.jpg)](f/spaceport/dombarovsky/map1.png)   [![](f/spaceport/dombarovsky/map2_thumb.jpg)](f/spaceport/dombarovsky/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/dombarovsky/pic1_thumb.webp)](f/spaceport/dombarovsky/pic1.jpg)  [![](f/spaceport/dombarovsky/map1_thumb.webp)](f/spaceport/dombarovsky/map1.png)   [![](f/spaceport/dombarovsky/map2_thumb.webp)](f/spaceport/dombarovsky/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -303,8 +303,8 @@ Esrange was built in 1964 by ESRO, European Space Research Organisation, which l
 |Location|67°53′38″N, 21°6′25″E<br>|
 |Distance|7 550 ㎞ — to the equator;<br> 1 600 ㎞ — to [Lavochkin](contact/lav.md);<br> 9 000 ㎞ — to [JPL](contact/jpl.md);<br> 2 400 ㎞ — to ESA Headquarters in Paris|
 |Launch pad|6|
-| |[![](f/spaceport/esrange/skylark_launch_thumb.jpg)](f/spaceport/esrange/skylark_launch.jpg)  [![](f/spaceport/esrange/map_thumb.jpg)](f/spaceport/esrange/map.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/esrange/skylark_launch_thumb.webp)](f/spaceport/esrange/skylark_launch.jpg)  [![](f/spaceport/esrange/map_thumb.webp)](f/spaceport/esrange/map.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -331,8 +331,8 @@ Esrange was built in 1964 by ESRO, European Space Research Organisation, which l
 |Location|5°13′20″N 52°46′25″W<br> Kourou, French Guiana|
 |Distance|600 ㎞ — to the equator;<br> 11 500 ㎞ — to [Lavochkin](contact/lav.md);<br> 7 800 ㎞ — to [JPL](contact/jpl.md);<br> 7 200 ㎞ — to ESA Headquarters in Paris|
 |Launch pad|4|
-| |[![](f/spaceport/kourou/pic1_thumb.jpg)](f/spaceport/kourou/pic1.jpg)  [![](f/spaceport/kourou/map1_thumb.jpg)](f/spaceport/kourou/map1.png)   [![](f/spaceport/kourou/map2_thumb.jpg)](f/spaceport/kourou/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/kourou/pic1_thumb.webp)](f/spaceport/kourou/pic1.jpg)  [![](f/spaceport/kourou/map1_thumb.webp)](f/spaceport/kourou/map1.png)   [![](f/spaceport/kourou/map2_thumb.webp)](f/spaceport/kourou/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -359,8 +359,8 @@ Between 1947 & 1967 there was a rocketlaunch site, the Interarmy Special Vehicle
 |Location|30°54′N 3°2′W<br> Hammaguir, Algeria|
 |Distance|3 450 ㎞ — to the equator;<br> 4 200 ㎞ — to [Lavochkin](contact/lav.md);<br> 10 100 ㎞ — to [JPL](contact/jpl.md);<br> 2 100 ㎞ — to ESA Headquarters in Paris|
 |Launch pad|1|
-| |[![](f/spaceport/hammaguir/map_thumb.jpg)](f/spaceport/hammaguir/map.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/hammaguir/map_thumb.webp)](f/spaceport/hammaguir/map.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -385,8 +385,8 @@ It is the largest spaceport in China (until 1984 — the only one) & the only on
 |Location|40°58′03″N 100°16′43″E<br> Gobi Desert, Inner Mongolia, China|
 |Distance|5 000 ㎞ — to the equator;<br> 5 500 ㎞ — to [Lavochkin](contact/lav.md);<br> 14 400 ㎞ — to [JPL](contact/jpl.md);<br> 1 400 ㎞ — to [CNSA](contact/cnsa.md)|
 |Launch pad|7|
-| |[![](f/spaceport/jiuquan/pic1_thumb.jpg)](f/spaceport/jiuquan/pic1.jpg)  [![](f/spaceport/jiuquan/map1_thumb.jpg)](f/spaceport/jiuquan/map1.png)   [![](f/spaceport/jiuquan/map2_thumb.jpg)](f/spaceport/jiuquan/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/jiuquan/pic1_thumb.webp)](f/spaceport/jiuquan/pic1.jpg)  [![](f/spaceport/jiuquan/map1_thumb.webp)](f/spaceport/jiuquan/map1.png)   [![](f/spaceport/jiuquan/map2_thumb.webp)](f/spaceport/jiuquan/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -410,8 +410,8 @@ It is the largest spaceport in China (until 1984 — the only one) & the only on
 |Location|48.586°N 45.72°E<br> Astrakhan Oblast, Russia|
 |Distance|5 400 ㎞ — to the equator;<br> 1 000 ㎞ — to [Lavochkin](contact/lav.md);<br> 18 000 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|4|
-| |[![](f/spaceport/kapustin_yar/pic1_thumb.jpg)](f/spaceport/kapustin_yar/pic1.jpg)  [![](f/spaceport/kapustin_yar/map1_thumb.jpg)](f/spaceport/kapustin_yar/map1.png)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/kapustin_yar/pic1_thumb.webp)](f/spaceport/kapustin_yar/pic1.jpg)  [![](f/spaceport/kapustin_yar/map1_thumb.webp)](f/spaceport/kapustin_yar/map1.png)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -437,8 +437,8 @@ At the moment, only 9 % of the area of the cosmodrome is used for its intended p
 |Location|28°31′26.61″N 80°39′3.06″W<br> Merritt Island, Florida, USA|
 |Distance|3 400 ㎞ — to the equator;<br> 11 000 ㎞ — to [Lavochkin](contact/lav.md);<br> 3 700 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|2|
-| |[![](f/spaceport/kennedy/pic1_thumb.jpg)](f/spaceport/kennedy/pic1.jpg)  [![](f/spaceport/kennedy/map1_thumb.jpg)](f/spaceport/kennedy/map1.png)   [![](f/spaceport/kennedy/map2_thumb.jpg)](f/spaceport/kennedy/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/kennedy/pic1_thumb.webp)](f/spaceport/kennedy/pic1.jpg)  [![](f/spaceport/kennedy/map1_thumb.webp)](f/spaceport/kennedy/map1.png)   [![](f/spaceport/kennedy/map2_thumb.webp)](f/spaceport/kennedy/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -462,8 +462,8 @@ The **Pacific Spaceport Complex – Alaska** (**PSCA**), formerly known as the *
 |Location|57.435833°N 152.337778°W<br> Kodiak Island, Alaska, USA|
 |Distance|6 600 ㎞ — to the equator;<br> 11 200 ㎞ — to [Lavochkin](contact/lav.md);<br> 3 700 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|2|
-| |[![](f/spaceport/kodiak/pic1_thumb.jpg)](f/spaceport/kodiak/pic1.jpg)  [![](f/spaceport/kodiak/map1_thumb.jpg)](f/spaceport/kodiak/map1.png)   [![](f/spaceport/kodiak/map2_thumb.jpg)](f/spaceport/kodiak/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/kodiak/pic1_thumb.webp)](f/spaceport/kodiak/pic1.jpg)  [![](f/spaceport/kodiak/map1_thumb.webp)](f/spaceport/kodiak/map1.png)   [![](f/spaceport/kodiak/map2_thumb.webp)](f/spaceport/kodiak/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -488,8 +488,8 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 |Location|8°43′N 167°44′E<br> Marshall islands|
 |Distance|1 000 ㎞ — to the equator;<br> 14 300 ㎞ — to [Lavochkin](contact/lav.md);<br> 8 300 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|3:<br> ・Illeginni Island (9.08631°N 167.47303°E)<br> ・Roi-Namur Island (9.4012°N 167.4663°E)<br> ・Kwajalein Drop Zone (7.6500°N 167.7000°E)|
-| |[![](f/spaceport/kwajalein/pic1_thumb.jpg)](f/spaceport/kwajalein/pic1.jpg)  [![](f/spaceport/kwajalein/map1_thumb.jpg)](f/spaceport/kwajalein/map1.png)   [![](f/spaceport/kwajalein/map2_thumb.jpg)](f/spaceport/kwajalein/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/kwajalein/pic1_thumb.webp)](f/spaceport/kwajalein/pic1.jpg)  [![](f/spaceport/kwajalein/map1_thumb.webp)](f/spaceport/kwajalein/map1.png)   [![](f/spaceport/kwajalein/map2_thumb.webp)](f/spaceport/kwajalein/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -514,8 +514,8 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 |Location|45°57′54″N 63°18′18″E<br> Goheung County, South Korea|
 |Distance|4 000 ㎞ — to the equator;<br> 8 300 ㎞ — to [Lavochkin](contact/lav.md);<br> 12 500 ㎞ — to [JPL](contact/jpl.md);<br> 230 ㎞ — to [KARI](contact/kari.md)|
 |Launch pad|2|
-| |[![](f/spaceport/naro/pic1_thumb.jpg)](f/spaceport/naro/pic1.jpg)  [![](f/spaceport/naro/map1_thumb.jpg)](f/spaceport/naro/map1.png)   [![](f/spaceport/naro/map2_thumb.jpg)](f/spaceport/naro/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/naro/pic1_thumb.webp)](f/spaceport/naro/pic1.jpg)  [![](f/spaceport/naro/map1_thumb.webp)](f/spaceport/naro/map1.png)   [![](f/spaceport/naro/map2_thumb.webp)](f/spaceport/naro/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -541,8 +541,8 @@ Palmachim is used to launch the «Shavit» space launch vehicle into retrograde 
 |Location|31°53′04″N 34°40′49″E<br> kibbutz Palmachim, Israel|
 |Distance|3 700 ㎞ — to the equator;<br> 2 600 ㎞ — to [Lavochkin](contact/lav.md);<br> 16 100 ㎞ — to [JPL](contact/jpl.md);<br> 25 ㎞ — to [ISA](contact/isa.md)|
 |Launch pad|1|
-| |[![](f/spaceport/palmachim/pic1_thumb.jpg)](f/spaceport/palmachim/pic1.jpg)  [![](f/spaceport/palmachim/map1_thumb.jpg)](f/spaceport/palmachim/map1.png)   [![](f/spaceport/palmachim/map2_thumb.jpg)](f/spaceport/palmachim/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/palmachim/pic1_thumb.webp)](f/spaceport/palmachim/pic1.jpg)  [![](f/spaceport/palmachim/map1_thumb.webp)](f/spaceport/palmachim/map1.png)   [![](f/spaceport/palmachim/map2_thumb.webp)](f/spaceport/palmachim/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -568,8 +568,8 @@ The cosmodrome has an extensive network of roads & Railways, aviation equipment 
 |Location|62°55′32″N 40°34′40″E<br> Mirny, Arkhangelsk oblast, Russia|
 |Distance|7 400 ㎞ — to the equator;<br> 800 ㎞ — to [Lavochkin](contact/lav.md);<br> 14 700 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|8|
-| |[![](f/spaceport/plesetsk/pic1_thumb.jpg)](f/spaceport/plesetsk/pic1.jpg)  [![](f/spaceport/plesetsk/map1_thumb.jpg)](f/spaceport/plesetsk/map1.png)   [![](f/spaceport/plesetsk/map2_thumb.jpg)](f/spaceport/plesetsk/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/plesetsk/pic1_thumb.webp)](f/spaceport/plesetsk/pic1.jpg)  [![](f/spaceport/plesetsk/map1_thumb.webp)](f/spaceport/plesetsk/map1.png)   [![](f/spaceport/plesetsk/map2_thumb.webp)](f/spaceport/plesetsk/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -596,8 +596,8 @@ Launch Complex 1 features a 50-tonne launch platform & tower, a hangar for the E
 |Location|39.2609°S 177.8655°E<br> Mahia Peninsula, New Zealand|
 |Distance|4 700 ㎞ — to the equator;<br> 19 500 ㎞ — to [Lavochkin](contact/lav.md);<br> 11 200 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|1|
-| |[![](f/spaceport/rocket_lab_lc1/pic1_thumb.jpg)](f/spaceport/rocket_lab_lc1/pic1.jpg)  [![](f/spaceport/rocket_lab_lc1/map1_thumb.jpg)](f/spaceport/rocket_lab_lc1/map1.png)   [![](f/spaceport/rocket_lab_lc1/map2_thumb.jpg)](f/spaceport/rocket_lab_lc1/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/rocket_lab_lc1/pic1_thumb.webp)](f/spaceport/rocket_lab_lc1/pic1.jpg)  [![](f/spaceport/rocket_lab_lc1/map1_thumb.webp)](f/spaceport/rocket_lab_lc1/map1.png)   [![](f/spaceport/rocket_lab_lc1/map2_thumb.webp)](f/spaceport/rocket_lab_lc1/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -622,8 +622,8 @@ The ground station is in use & continues to track NASA, ESA & Italian satellites
 |Location|2°56′18″S 40°12′45″E<br> marine platform, Malindi, Kenya|
 |Distance|300 ㎞ — to the equator;<br> 6 500 ㎞ — to [Lavochkin](contact/lav.md);<br> 17 100 ㎞ — to [JPL](contact/jpl.md);<br> 7 500 ㎞ — to ESA Headquarters in Paris|
 |Launch pad|2|
-| |[![](f/spaceport/san-marco/pic1_thumb.jpg)](f/spaceport/san-marco/pic1.jpg)  [![](f/spaceport/san-marco/map1_thumb.jpg)](f/spaceport/san-marco/map1.png)   [![](f/spaceport/san-marco/map2_thumb.jpg)](f/spaceport/san-marco/map2.png)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/san-marco/pic1_thumb.webp)](f/spaceport/san-marco/pic1.jpg)  [![](f/spaceport/san-marco/map1_thumb.webp)](f/spaceport/san-marco/map1.png)   [![](f/spaceport/san-marco/map2_thumb.webp)](f/spaceport/san-marco/map2.png)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -651,8 +651,8 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 |Location|0°N 154°W<br> international waters of the Pacific ocean, near Christmas Island|
 |Distance|0 ㎞ — to the equator;<br> 19 300 ㎞ — to [Lavochkin](contact/lav.md);<br> 5 600 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|1|
-| |[![](f/spaceport/sea_launch/pic1_thumb.jpg)](f/spaceport/sea_launch/pic1.jpg) [![](f/spaceport/sea_launch/pic2_thumb.jpg)](f/spaceport/sea_launch/pic2.jpg)  [![](f/spaceport/sea_launch/map1_thumb.jpg)](f/spaceport/sea_launch/map1.png)   [![](f/spaceport/sea_launch/map2_thumb.jpg)](f/spaceport/sea_launch/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/sea_launch/pic1_thumb.webp)](f/spaceport/sea_launch/pic1.jpg) [![](f/spaceport/sea_launch/pic2_thumb.webp)](f/spaceport/sea_launch/pic2.jpg)  [![](f/spaceport/sea_launch/map1_thumb.webp)](f/spaceport/sea_launch/map1.png)   [![](f/spaceport/sea_launch/map2_thumb.webp)](f/spaceport/sea_launch/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -677,8 +677,8 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 |Location|35°13′19″N 53°53′42″E<br> the Semnan province, Iran|
 |Distance|4 300 ㎞ — to the equator;<br> 2 700 ㎞ — to [Lavochkin](contact/lav.md);<br> 18 800 ㎞ — to [JPL](contact/jpl.md);<br> 250 ㎞ — to Iranian Space Agency|
 |Launch pad|1|
-| |[![](f/spaceport/semnan/pic1_thumb.jpg)](f/spaceport/semnan/pic1.jpg)  [![](f/spaceport/semnan/map1_thumb.jpg)](f/spaceport/semnan/map1.png)   [![](f/spaceport/semnan/map2_thumb.jpg)](f/spaceport/semnan/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/semnan/pic1_thumb.webp)](f/spaceport/semnan/pic1.jpg)  [![](f/spaceport/semnan/map1_thumb.webp)](f/spaceport/semnan/map1.png)   [![](f/spaceport/semnan/map2_thumb.webp)](f/spaceport/semnan/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -705,8 +705,8 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 |Location|60°47'55.2"N 0°49'10.2"W<br> Saxa Vord Resort Haroldswick, Unst, Shetland, Scotland, ZE2 9TJ|
 |Distance|6 800 ㎞ — to the equator;<br> 2 250 ㎞ — to [Lavochkin](contact/lav.md);<br> 15 800 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|1 (1 active)|
-| |[![](f/spaceport/canaveral/pic1_thumb.jpg)](f/spaceport/canaveral/pic1.jpg)  [![](f/spaceport/canaveral/map1_thumb.jpg)](f/spaceport/canaveral/map1.png)   [![](f/spaceport/canaveral/map2_thumb.jpg)](f/spaceport/canaveral/map2.png)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/canaveral/pic1_thumb.webp)](f/spaceport/canaveral/pic1.jpg)  [![](f/spaceport/canaveral/map1_thumb.webp)](f/spaceport/canaveral/map1.png)   [![](f/spaceport/canaveral/map2_thumb.webp)](f/spaceport/canaveral/map2.png)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -732,8 +732,8 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 |Location|39.660°N 124.705°E<br> Phyŏnganbukto, North Korea|
 |Distance|4 900 ㎞ — to the equator;<br> 7 500 ㎞ — to [Lavochkin](contact/lav.md);<br> 11 200 ㎞ — to [JPL](contact/jpl.md);<br> 200 ㎞ — to Korean Committee of Space Technology|
 |Launch pad|1|
-| |[![](f/spaceport/sohae/pic1_thumb.jpg)](f/spaceport/sohae/pic1.jpg)  [![](f/spaceport/sohae/map1_thumb.jpg)](f/spaceport/sohae/map1.png)   [![](f/spaceport/sohae/map2_thumb.jpg)](f/spaceport/sohae/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/sohae/pic1_thumb.webp)](f/spaceport/sohae/pic1.jpg)  [![](f/spaceport/sohae/map1_thumb.webp)](f/spaceport/sohae/map1.png)   [![](f/spaceport/sohae/map2_thumb.webp)](f/spaceport/sohae/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -757,8 +757,8 @@ The **SpaceX South Texas Launch Site** is a rocket production facility, test sit
 |Location|25.996°N 97.154°W<br> Brownsville, Texas, USA|
 |Distance|2 800 ㎞ — to the equator;<br> 12 500 ㎞ — to [Lavochkin](contact/lav.md);<br> 2 200 ㎞ — to [JPL](contact/jpl.md);<br> 2 200 ㎞ — to [SpaceX](contact/spacex.md)|
 |Launch pad|2|
-| |[![](f/spaceport/spacex_stls/pic1_thumb.jpg)](f/spaceport/spacex_stls/pic1.jpg)  [![](f/spaceport/spacex_stls/map1_thumb.jpg)](f/spaceport/spacex_stls/map1.png)   [![](f/spaceport/spacex_stls/map2_thumb.jpg)](f/spaceport/spacex_stls/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/spacex_stls/pic1_thumb.webp)](f/spaceport/spacex_stls/pic1.jpg)  [![](f/spaceport/spacex_stls/map1_thumb.webp)](f/spaceport/spacex_stls/map1.png)   [![](f/spaceport/spacex_stls/map2_thumb.webp)](f/spaceport/spacex_stls/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -782,8 +782,8 @@ The **SpaceX South Texas Launch Site** is a rocket production facility, test sit
 |Location|13°43′12″N 80°13′49″E<br> Sriharikota, India|
 |Distance|1 600 ㎞ — to the equator;<br> 6 400 ㎞ — to [Lavochkin](contact/lav.md);<br> 16 600 ㎞ — to [JPL](contact/jpl.md);<br> 300 ㎞ — to [ISRO](contact/isro.md)|
 |Launch pad|3|
-| |[![](f/spaceport/sriharikota/pic1_thumb.jpg)](f/spaceport/sriharikota/pic1.jpg)  [![](f/spaceport/sriharikota/map1_thumb.jpg)](f/spaceport/sriharikota/map1.png)   [![](f/spaceport/sriharikota/map2_thumb.jpg)](f/spaceport/sriharikota/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/sriharikota/pic1_thumb.webp)](f/spaceport/sriharikota/pic1.jpg)  [![](f/spaceport/sriharikota/map1_thumb.webp)](f/spaceport/sriharikota/map1.png)   [![](f/spaceport/sriharikota/map2_thumb.webp)](f/spaceport/sriharikota/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -810,8 +810,8 @@ During the entire existence of the spaceport, five missile launches were made he
 |Location|51°42′N 128°00′E<br> Tsiolkovsky, Amur oblast, Russia|
 |Distance|5 500 ㎞ — to the equator;<br> 6 700 ㎞ — to [Lavochkin](contact/lav.md);<br> 12 500 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|1, 5 mines for ICBMs|
-| |[![](f/spaceport/svobodny/pic1_thumb.jpg)](f/spaceport/svobodny/pic1.jpg)  [![](f/spaceport/svobodny/map1_thumb.jpg)](f/spaceport/svobodny/map1.png)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/svobodny/pic1_thumb.webp)](f/spaceport/svobodny/pic1.jpg)  [![](f/spaceport/svobodny/map1_thumb.webp)](f/spaceport/svobodny/map1.png)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -837,8 +837,8 @@ The **Hokkaido Spaceport (HOSPO)** will operate 2 launch sites for orbital & s
 |Location|42°30′N 143°26′29″E<br>  Taiki, Hokkaido, Japan|
 |Distance|4 750 ㎞ — to the equator;<br> 7 100 ㎞ — to [Lavochkin](contact/lav.md);<br> 8 150 ㎞ — to [JPL](contact/jpl.md);<br> 850 ㎞ — to the [JAXA](contact/jaxa.md) Headquarters, Tokyo|
 |Launch pad|2|
-| |[![](f/spaceport/taiki/taiki_thumb.jpg)](f/spaceport/taiki/taiki.jpg)  [![](f/spaceport/taiki/map_thumb.jpg)](f/spaceport/taiki/map.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/taiki/taiki_thumb.webp)](f/spaceport/taiki/taiki.jpg)  [![](f/spaceport/taiki/map_thumb.webp)](f/spaceport/taiki/map.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -866,8 +866,8 @@ The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chine
 |Location|38°50′56.71″N 111°36′30.59″E<br> Kelan County, Xinzhou, Shanxi Province, China|
 |Distance|4 500 ㎞ — to the equator;<br> 6 400 ㎞ — to [Lavochkin](contact/lav.md);<br> 12 800 ㎞ — to [JPL](contact/jpl.md);<br> 450 ㎞ — to [CNSA](contact/cnsa.md)|
 |Launch pad|16|
-| |[![](f/spaceport/taiyuan/pic1_thumb.jpg)](f/spaceport/taiyuan/pic1.jpg)  [![](f/spaceport/taiyuan/map1_thumb.jpg)](f/spaceport/taiyuan/map1.png)   [![](f/spaceport/taiyuan/map2_thumb.jpg)](f/spaceport/taiyuan/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/taiyuan/pic1_thumb.webp)](f/spaceport/taiyuan/pic1.jpg)  [![](f/spaceport/taiyuan/map1_thumb.webp)](f/spaceport/taiyuan/map1.png)   [![](f/spaceport/taiyuan/map2_thumb.webp)](f/spaceport/taiyuan/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -891,8 +891,8 @@ The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chine
 |Location|30°24′00″N 130°58′12″E<br> Tanegashima , Kagoshima Prefecture, Japan|
 |Distance|3 400 ㎞ — to the equator;<br> 8 700 ㎞ — to [Lavochkin](contact/lav.md);<br> 10 900 ㎞ — to [JPL](contact/jpl.md);<br> 1 000 ㎞ — to [JAXA](contact/jaxa.md)|
 |Launch pad|2|
-| |[![](f/spaceport/tanegashima/pic1_thumb.jpg)](f/spaceport/tanegashima/pic1.jpg)  [![](f/spaceport/tanegashima/map1_thumb.jpg)](f/spaceport/tanegashima/map1.png)   [![](f/spaceport/tanegashima/map2_thumb.jpg)](f/spaceport/tanegashima/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/tanegashima/pic1_thumb.webp)](f/spaceport/tanegashima/pic1.jpg)  [![](f/spaceport/tanegashima/map1_thumb.webp)](f/spaceport/tanegashima/map1.png)   [![](f/spaceport/tanegashima/map2_thumb.webp)](f/spaceport/tanegashima/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -918,8 +918,8 @@ The orbital inclination is about 86°. The choice of the site location was influ
 |Location|40°51′N 129°40′E<br> Hwadae County, North Hamgyong Province, North Korea|
 |Distance|4 700 ㎞ — to the equator;<br> 7 900 ㎞ — to [Lavochkin](contact/lav.md);<br> 10 800 ㎞ — to [JPL](contact/jpl.md);<br> 400 ㎞ — to Korean Committee of Space Technology|
 |Launch pad|2|
-| |[![](f/spaceport/tonghae/pic1_thumb.jpg)](f/spaceport/tonghae/pic1.jpg)  [![](f/spaceport/tonghae/map1_thumb.jpg)](f/spaceport/tonghae/map1.png)   [![](f/spaceport/tonghae/map2_thumb.jpg)](f/spaceport/tonghae/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/tonghae/pic1_thumb.webp)](f/spaceport/tonghae/pic1.jpg)  [![](f/spaceport/tonghae/map1_thumb.webp)](f/spaceport/tonghae/map1.png)   [![](f/spaceport/tonghae/map2_thumb.webp)](f/spaceport/tonghae/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -943,8 +943,8 @@ The orbital inclination is about 86°. The choice of the site location was influ
 |Location|31°15′07″N 131°04′55″E<br> Kyushu, Kagoshima Prefecture, Japan|
 |Distance|3 700 ㎞ — to the equator;<br> 8 000 ㎞ — to [Lavochkin](contact/lav.md);<br> 10 100 ㎞ — to [JPL](contact/jpl.md);<br> 1 000 ㎞ — to [JAXA](contact/jaxa.md)|
 |Launch pad|5|
-| |[![](f/spaceport/uchinoura/pic1_thumb.jpg)](f/spaceport/uchinoura/pic1.jpg)  [![](f/spaceport/uchinoura/map1_thumb.jpg)](f/spaceport/uchinoura/map1.png)   [![](f/spaceport/uchinoura/map2_thumb.jpg)](f/spaceport/uchinoura/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/uchinoura/pic1_thumb.webp)](f/spaceport/uchinoura/pic1.jpg)  [![](f/spaceport/uchinoura/map1_thumb.webp)](f/spaceport/uchinoura/map1.png)   [![](f/spaceport/uchinoura/map2_thumb.webp)](f/spaceport/uchinoura/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -972,8 +972,8 @@ Vandenberg’s location is North of the Pacific ocean — as opposed to [the Ken
 |Location|34°43′57″N 120°34′05″W<br> Santa Barbara County, California, USA|
 |Distance|4 200 ㎞ — to the equator;<br> 14 300 ㎞ — to [Lavochkin](contact/lav.md);<br> 250 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|11 (6 active)|
-| |[![](f/spaceport/vandenberg/pic1_thumb.jpg)](f/spaceport/vandenberg/pic1.jpg)  [![](f/spaceport/vandenberg/map1_thumb.jpg)](f/spaceport/vandenberg/map1.png)   [![](f/spaceport/vandenberg/map2_thumb.jpg)](f/spaceport/vandenberg/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/vandenberg/pic1_thumb.webp)](f/spaceport/vandenberg/pic1.jpg)  [![](f/spaceport/vandenberg/map1_thumb.webp)](f/spaceport/vandenberg/map1.png)   [![](f/spaceport/vandenberg/map2_thumb.webp)](f/spaceport/vandenberg/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -1002,8 +1002,8 @@ Features:
 |Location|51°53′N 128°20′E<br> Tsiolkovsky, Amur oblast, Russia|
 |Distance|5 500 ㎞ — to the equator;<br> 6 700 ㎞ — to [Lavochkin](contact/lav.md);<br> 12 500 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|3|
-| |[![](f/spaceport/vostochny/pic1_thumb.jpg)](f/spaceport/vostochny/pic1.jpg)  [![](f/spaceport/vostochny/map1_thumb.jpg)](f/spaceport/vostochny/map1.png)   [![](f/spaceport/vostochny/map2_thumb.jpg)](f/spaceport/vostochny/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/vostochny/pic1_thumb.webp)](f/spaceport/vostochny/pic1.jpg)  [![](f/spaceport/vostochny/map1_thumb.webp)](f/spaceport/vostochny/map1.png)   [![](f/spaceport/vostochny/map2_thumb.webp)](f/spaceport/vostochny/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -1030,8 +1030,8 @@ It consists of three separate land plots with a total area of 25 ㎞². It was
 |Location|37°56′19″N 75°27′26″W<br> Wallops Island, Virginia, USA|
 |Distance|4 500 ㎞ — to the equator;<br> 9 200 ㎞ — to [Lavochkin](contact/lav.md);<br> 4 000 ㎞ — to [JPL](contact/jpl.md)|
 |Launch pad|7|
-| |[![](f/spaceport/wallops/pic1_thumb.jpg)](f/spaceport/wallops/pic1.jpg)  [![](f/spaceport/wallops/map1_thumb.jpg)](f/spaceport/wallops/map1.png)   [![](f/spaceport/wallops/map2_thumb.jpg)](f/spaceport/wallops/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/wallops/pic1_thumb.webp)](f/spaceport/wallops/pic1.jpg)  [![](f/spaceport/wallops/map1_thumb.webp)](f/spaceport/wallops/map1.png)   [![](f/spaceport/wallops/map2_thumb.webp)](f/spaceport/wallops/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -1064,8 +1064,8 @@ The **Wenchang Spacecraft Launch Site** (*文昌航天发射场*) — China’s 
 |Location|19°36′52.17″N 110°57′4.08″E<br> Wenchang, Hainan, China|
 |Distance|2 200 ㎞ — to the equator;<br> 8 100 ㎞ — to [Lavochkin](contact/lav.md);<br> 13 900 ㎞ — to [JPL](contact/jpl.md);<br> 2 400 ㎞ — to [CNSA](contact/cnsa.md)|
 |Launch pad|3|
-| |[![](f/spaceport/wenchang/pic1_thumb.jpg)](f/spaceport/wenchang/pic1.jpg)  [![](f/spaceport/wenchang/map1_thumb.jpg)](f/spaceport/wenchang/map1.png)   [![](f/spaceport/wenchang/map2_thumb.jpg)](f/spaceport/wenchang/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/wenchang/pic1_thumb.webp)](f/spaceport/wenchang/pic1.jpg)  [![](f/spaceport/wenchang/map1_thumb.webp)](f/spaceport/wenchang/map1.png)   [![](f/spaceport/wenchang/map2_thumb.webp)](f/spaceport/wenchang/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -1091,8 +1091,8 @@ Minimum inclination: 82.0°. Maximum inclination: 84.0°.
 |Location|30°57′19″S 136°31′56″E<br> Woomera, Australia|
 |Distance|3 300 ㎞ — to the equator;<br> 15 400 ㎞ — to [Lavochkin](contact/lav.md);<br> 13 700 ㎞ — to [JPL](contact/jpl.md);<br> 17 600 ㎞ — to France|
 |Launch pad|6|
-| |[![](f/spaceport/woomera/pic1_thumb.jpg)](f/spaceport/woomera/pic1.jpg)  [![](f/spaceport/woomera/map1_thumb.jpg)](f/spaceport/woomera/map1.png)   [![](f/spaceport/woomera/map2_thumb.jpg)](f/spaceport/woomera/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/woomera/pic1_thumb.webp)](f/spaceport/woomera/pic1.jpg)  [![](f/spaceport/woomera/map1_thumb.webp)](f/spaceport/woomera/map1.png)   [![](f/spaceport/woomera/map2_thumb.webp)](f/spaceport/woomera/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 
@@ -1116,8 +1116,8 @@ The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Spac
 |Location|28°14′45.66″N 102°1′35.60″E<br> Xichang, Liangshan Yi Autonomous Prefecture in Sichuan, China|
 |Distance|3 200 ㎞ — to the equator;<br> 6 700 to [Lavochkin](contact/lav.md);<br> 15 500 ㎞ — to [JPL](contact/jpl.md);<br> 1 900 ㎞ — to [CNSA](contact/cnsa.md)|
 |Launch pad|3|
-| |[![](f/spaceport/xichang/pic1_thumb.jpg)](f/spaceport/xichang/pic1.jpg)  [![](f/spaceport/xichang/map1_thumb.jpg)](f/spaceport/xichang/map1.png)   [![](f/spaceport/xichang/map2_thumb.jpg)](f/spaceport/xichang/map2.jpg)|
-| |[![](f/spaceport/map_world_spaceport_location_thumb.jpg)](f/spaceport/map_world_spaceport_location.jpg)|
+| |[![](f/spaceport/xichang/pic1_thumb.webp)](f/spaceport/xichang/pic1.jpg)  [![](f/spaceport/xichang/map1_thumb.webp)](f/spaceport/xichang/map1.png)   [![](f/spaceport/xichang/map2_thumb.webp)](f/spaceport/xichang/map2.jpg)|
+| |[![](f/spaceport/map_world_spaceport_location_thumb.webp)](f/spaceport/map_world_spaceport_location.jpg)|
 
 **Notes:**
 

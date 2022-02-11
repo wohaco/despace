@@ -1,7 +1,7 @@
 # JAXA
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/j/jaxa_logo1_thumb.jpg)](../f/con/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), Fax: …;<br> *Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*<br> 【<http://www.jaxa.jp/>・ <https://global.jaxa.jp/about/centers/tokyo/index.html>・ [LinkedIn ⎆](https://www.linkedin.com/company/jaxanasdanalisas/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/JAXA)】|
+|[![](../f/contact/j/jaxa_logo1_thumb.webp)](../f/contact/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), Fax: …;<br> *Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*<br> 【<http://www.jaxa.jp/>・ <https://global.jaxa.jp/about/centers/tokyo/index.html>・ [LinkedIn ⎆](https://www.linkedin.com/company/jaxanasdanalisas/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/JAXA)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
@@ -23,7 +23,7 @@ The **Japan Aerospace Exploration Agency (JAXA)** (国立研究開発法人宇�
    1. Study of space science & planet exploration
    1. Utilizing the space environment
 
-[JAXA Organization Chart ❐](../f/con/j/jaxa_structure.pdf). Notable divisions:
+[JAXA Organization Chart ❐](../f/contact/j/jaxa_structure.pdf). Notable divisions:
 
    - **Chofu Aerospace Center** — JAXA’s HQ & main development facility. Formed 1962, Tokyo.
    - **Earth Observation Center** — JAXA’s facility. Hatoyama, Saitama.

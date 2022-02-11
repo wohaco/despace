@@ -1,7 +1,7 @@
 # Calian, Advanced Technologies
 > 2019.08.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/c/calian_logo1_thumb.png)](../f/con/c/calian_logo1.png)|<mark>noemail</mark>, +1(306)931-34-25, Fax: +1(306)933-14-86;<br> *18 Innovation Blvd Saskatoon, SK S7N 5B3, Canada* (Also Quebec)<br> 【<https://www.sedsystems.ca/> ・[LinkedIn ⎆](https://www.linkedin.com/company/calian-advanced-technologies/)】|
+|[![](../f/contact/c/calian_logo1_thumb.png)](../f/contact/c/calian_logo1.png)|<mark>noemail</mark>, +1(306)931-34-25, Fax: +1(306)933-14-86;<br> *18 Innovation Blvd Saskatoon, SK S7N 5B3, Canada* (Also Quebec)<br> 【<https://www.sedsystems.ca/> ・[LinkedIn ⎆](https://www.linkedin.com/company/calian-advanced-technologies/)】|
 |:--|:--|
 |**Mission**|To deliver innovative solutions that help the world communicate, learn, lead healthy lives & stay safe|
 |**Vision**|To be a billion-dollar global company by embracing our diverse service offerings & being recognized as innovators in all that we do|

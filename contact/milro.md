@@ -39,7 +39,7 @@
 
 |*Коллективное фото, 2014 год.*|
 |:--|
-|[![](f/con/v/vp4116_2014_thumb.jpg)](f/con/в/vp4116_2014.jpg)|
+|[![](f/contact/v/vp4116_2014_thumb.webp)](f/contact/в/vp4116_2014.webp)|
 
 
 

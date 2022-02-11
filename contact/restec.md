@@ -1,7 +1,7 @@
 # RESTEC
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/r/restec_logo1_thumb.jpg)](../f/con/r/restec_logo1.png)|<mark>noemail</mark>, +81-3-6435-6700, Fax: …;<br> *3 Chome-17-1 Toranomon, Minato City, Tokyo 105-0001, Japan*<br> 【<https://www.restec.or.jp/>】|
+|[![](../f/contact/r/restec_logo1_thumb.webp)](../f/contact/r/restec_logo1.png)|<mark>noemail</mark>, +81-3-6435-6700, Fax: …;<br> *3 Chome-17-1 Toranomon, Minato City, Tokyo 105-0001, Japan*<br> 【<https://www.restec.or.jp/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

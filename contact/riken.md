@@ -1,7 +1,7 @@
 # RIKEN
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/r/riken_logo1_thumb.png)](../f/con/r/riken_logo1.png)|<pr@riken.jp>, +81-48-462-1111, Fax: …;<br> *2-1 Hirosawa, Wako, Saitama 351-0198, Japan*<br> 【<https://www.riken.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/riken)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Riken)】|
+|[![](../f/contact/r/riken_logo1_thumb.png)](../f/contact/r/riken_logo1.png)|<pr@riken.jp>, +81-48-462-1111, Fax: …;<br> *2-1 Hirosawa, Wako, Saitama 351-0198, Japan*<br> 【<https://www.riken.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/riken)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Riken)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

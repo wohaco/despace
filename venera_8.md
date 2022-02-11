@@ -11,7 +11,7 @@
 
 ![](f/project/v/venera_8/pic01.jpg) ![](f/project/v/venera_8/pic02.jpg)
 
-[![](f/project/v/venera_8/pic03_thumb.jpg)](f/project/v/venera_8/pic03.jpg)
+[![](f/project/v/venera_8/pic03_thumb.webp)](f/project/v/venera_8/pic03.jpg)
 
 <p style="page-break-after:always"> </p>
 

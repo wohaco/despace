@@ -1,7 +1,7 @@
 # Orbital Research Ltd.
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/o/orbital_res_logo1_thumb.png)](../f/con/o/orbital_res_logo1.png)|<mark>noemail</mark>, +1(604)419-85-85, Fax: +1(604)419-85-61;<br> *8652 Commerce Court, Burnaby, BC, V5A 4N6, Canada*<br> 【<https://orbitalresearch.net/>】|
+|[![](../f/contact/o/orbital_res_logo1_thumb.png)](../f/contact/o/orbital_res_logo1.png)|<mark>noemail</mark>, +1(604)419-85-85, Fax: +1(604)419-85-61;<br> *8652 Commerce Court, Burnaby, BC, V5A 4N6, Canada*<br> 【<https://orbitalresearch.net/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

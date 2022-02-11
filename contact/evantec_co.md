@@ -1,7 +1,7 @@
 # eVanTEC
 > 2020.07.16 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/e/evantec_logo1_thumb.png)](../f/con/e/evantec_logo1.png)|<mikioszk@evan-tec.co.jp>, +81-3-5537-6838, Fax: +81-3-5537-5281;<br> *5F Fugetsudo Bld., 6-6-1 Ginza, Chuo-ku, Tokyo, 104-0061 Japan*<br> 【<http://evan-tec.co.jp/>】|
+|[![](../f/contact/e/evantec_logo1_thumb.png)](../f/contact/e/evantec_logo1.png)|<mikioszk@evan-tec.co.jp>, +81-3-5537-6838, Fax: +81-3-5537-5281;<br> *5F Fugetsudo Bld., 6-6-1 Ginza, Chuo-ku, Tokyo, 104-0061 Japan*<br> 【<http://evan-tec.co.jp/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

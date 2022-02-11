@@ -42,7 +42,7 @@ A list of [Communication systems](comms.md).
 |Out. power, W|2.5|
 |Modulation type|QPSK, 8PSK, 16APSK, 32APSK|
 |Signal structure| |
-| |[![](f/comms/c/csxbt_pic1_thumb.jpg)](f/comms/c/csxbt_pic1.jpg)|
+| |[![](f/comms/c/csxbt_pic1_thumb.webp)](f/comms/c/csxbt_pic1.jpg)|
 
 **Notes:**
 
@@ -82,7 +82,7 @@ A list of [Communication systems](comms.md).
 |Modulation type|QPSK, 8PSK, 16APSK и 32APSK|
 |Out. power, W|8|
 |Signal structure| |
-| |[![](f/comms/h/hsxbdt_pic1_thumb.jpg)](f/comms/h/hsxbdt_pic1.jpg)|
+| |[![](f/comms/h/hsxbdt_pic1_thumb.webp)](f/comms/h/hsxbdt_pic1.jpg)|
 
 **Notes:**
 
@@ -122,7 +122,7 @@ A list of [Communication systems](comms.md).
 |Modulation type| |
 |Out. power, W|0.3 (при [КСВ](swr.md) ≤ 2)|
 |Signal structure|посылка непрерывной несущей в течение 0.5 ± 0.3 s и посылка АИМ сигнала с частотой следования импульсов 1 500 Гц в течение 0.8 ± 0.2 с|
-| |[![](f/comms/p/prizyv-1_pic1_thumb.jpg)](f/comms/p/prizyv-1_pic1.png)|
+| |[![](f/comms/p/prizyv-1_pic1_thumb.webp)](f/comms/p/prizyv-1_pic1.png)|
 
 **Notes:**
 
@@ -162,7 +162,7 @@ A list of [Communication systems](comms.md).
 |Modulation type| |
 |Out. power, W|2 (при [КСВ](swr.md) ≤ 2)|
 |Signal structure|посылка АИМ сигнала с частотой следования импульсов 1 500 Гц в течении 0.5 ± 0.2 s с паузами между посылками 1.5 с|
-| |[![](f/comms/p/prizyv-3_pic1_thumb.jpg)](f/comms/p/prizyv-3_pic1.png)|
+| |[![](f/comms/p/prizyv-3_pic1_thumb.webp)](f/comms/p/prizyv-3_pic1.png)|
 
 **Notes:**
 

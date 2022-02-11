@@ -24,7 +24,7 @@
 |Lens| |
 |Resolution, px| |
 |Shooting modes| |
-| |[![](f/cam//_pic1_thumb.jpg)](f/cam//_pic1.jpg)|
+| |[![](f/cam//_pic1_thumb.webp)](f/cam//_pic1.jpg)|
 
 **Notes:**
 
@@ -65,7 +65,7 @@
 |Modulation type| |
 |Out. power, W| |
 |Signal structure| |
-| |[![](f/comms//_pic1_thumb.jpg)](f/comms//_pic1.png)|
+| |[![](f/comms//_pic1_thumb.webp)](f/comms//_pic1.png)|
 
 **Notes:**
 
@@ -104,7 +104,7 @@
 |Capacity, Mbit (㎆)| |
 |Cycles of rewrite| |
 |Inputs| |
-| |[![](f/ds//_pic1_thumb.jpg)](f/ds//_pic1.jpg)|
+| |[![](f/ds//_pic1_thumb.webp)](f/ds//_pic1.jpg)|
 
 **Notes:**
 
@@ -252,7 +252,7 @@
 |╟ Falcon 9 v.1.1|Модификация Falcon 9 v1.0.|*В разработке* (2013 ‑ …)|
 |╙ Falcon 9 v.1.2 (FT)|Модификация v1.1.|**Активен** (2015 ‑ …)|
 
-[![](f/lv/falcon/falcon_rocket_family_thumb.jpg)](f/lv/falcon/falcon_rocket_family.png)
+[![](f/lv/falcon/falcon_rocket_family_thumb.webp)](f/lv/falcon/falcon_rocket_family.png)
 
 
 ---
@@ -272,7 +272,7 @@
 |Разраб./изготов.|[SpaceX](contact/spacex.md) (США) / [SpaceX](contact/spacex.md) (США)|
 |Ступени|…|
 |[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
-| |[![](f/lv/falcon/falcon9_2018_thumb.jpg)](f/lv/falcon/falcon9_2018.jpg)|
+| |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**
 
@@ -290,6 +290,36 @@
 
 …
 
+
+
+<p style="page-break-after:always"> </p>
+
+# Meeting's minutes
+
+~~~
+**MINUTES FROM THE MEETING**
+
+**TBD** <!--A brief name of a meeting-->  
+TBD, TBD <!--YYYY.MM.DD, A place of meeting-->
+
+**Participants:**
+
+   - From Company 1 — Name (title), …
+   - From Company 2 — …
+
+TBD <!--A short description, reasons for meeting, goals.-->
+
+**PROCESS OF THE MEETING.**
+
+TBD <!--Important notes, talks, presentations, etc.-->
+
+・・・
+
+**DECISIONS AND FUTURE PLANS.**
+
+   1. TBD <!--IT'S IMPORTANT to be filled and sent to every participant ASAP, ideally during the last minutes of the meeting. Here shall be written major decisions, future steps, persons in charge, dates, new meeting date.-->
+
+~~~
 
 
 
@@ -319,7 +349,7 @@
 |[Semimajor axis](keplerian.md) (a)|… ㎞ (… а.е.)|
 |Orbital velocity (Ⅴ)|… ㎞/s|
 |Day/year|… / … земных|
-|[Longit. of asc.node](keplerian.md) (Ω)|…|
+|[Longit. of  asc.node](keplerian.md) (Ω)|…|
 |[Inclination](keplerian.md) (Ⅰ)|…° (от солнечного экватора);<br> …° (от эклиптики);<br> …° (от инвариантной плоскости)|
 |[Sider. rotat.period](astroperiod.md) (T, day)|… дня|
 |[Sidereal period](astroperiod.md) (year)|… дней (… d … h … min … s)|
@@ -470,6 +500,32 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 
 <p style="page-break-after:always"> </p>
 
+# Process
+
+| |*<!--Process number-->*|
+|:--|:--|
+|**Inputs**|… <!--Inputs from outer matters needed to start/continue the current process.-->|
+|**Outputs**|… <!--Outputs that are produced by the current process-->|
+|**Purpose/Goals**|… <!--The target you would like to achieve, & goals that can mark the target is achieved.-->|
+|**Workflow**|【TBD: predecessor(s)】 → … → 【TBD: successor(s)】;<br> ・【TBD: sub-process(es)】|
+
+Supposed numbering. Keeping in mind KISS method try to keep the length of each number as short as possible. Also try to unify numbers of documents, projects & processes, e.g. \<Project_abbreviation\>-\<number\> (EXPL-0123ax7f).
+
+| |*0123456789*|*0123456789abcdef*|*0123456789abcdefghikmpqstuvxyz*|
+|:--|:--|:--|:--|
+|**1**| **10** | **16** (×1.6) | **30** (×3) |
+|2| 100 | 256 (×2.5) | 900 (×9) |
+|3| 1 000 | 4 096 (×4) | 27 000 (×27) |
+|4| 10 000 | 65 536 (×6.5) | 810 000 (×81) |
+|5| 100 000 | 1 048 576 (×10.4) | 24 300 000 (×243) |
+|6| 1 000 000 | 16 777 216 (×16.7) | 729 000 000 (×729) |
+|7| 10 000 000 | 268 436 456 (×26.8) | 21 870 000 000 (×2 187) |
+|8| 100 000 000 | 4 294 967 296 (×42.9) | 656 100 000 000 (×6 561) |
+
+
+
+<p style="page-break-after:always"> </p>
+
 # Project
 
 
@@ -615,7 +671,7 @@ Achieved targets & investigations:
 |Kinetic moment, N·m·s| |
 |Max ctrl moment, N·m| |
 |Ready mode| |
-| |[![](f/iu//_pic1_thumb.jpg)](f/iu//_pic1.jpg)|
+| |[![](f/iu//_pic1_thumb.webp)](f/iu//_pic1.jpg)|
 
 **Notes:**
 
@@ -657,7 +713,7 @@ Achieved targets & investigations:
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/_pic1_thumb.jpg)](f/sensor/_pic1.png)|
+| |[![](f/sensor/_pic1_thumb.webp)](f/sensor/_pic1.png)|
 
 **Notes:**
 
@@ -692,7 +748,7 @@ Achieved targets & investigations:
 |Range °, ≥| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor//_pic1_thumb.jpg)](f/sensor//_pic1.jpg)|
+| |[![](f/sensor//_pic1_thumb.webp)](f/sensor//_pic1.jpg)|
 
 **Notes:**
 

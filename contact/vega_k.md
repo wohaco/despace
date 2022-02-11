@@ -1,7 +1,7 @@
 # Концерн Вега
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/k/koncern_vega_logo1_thumb.jpg)](../f/con/k/koncern_vega_logo1.png)|<mail@vega.su>, +7(499)753-40-04, Fax: +7(495)933-15-63;<br> *Россия, 121170, Москва, Кутузовский проспект, 34*<br> 【<http://www.vega.su>】|
+|[![](../f/contact/k/koncern_vega_logo1_thumb.webp)](../f/contact/k/koncern_vega_logo1.png)|<mail@vega.su>, +7(499)753-40-04, Fax: +7(495)933-15-63;<br> *Россия, 121170, Москва, Кутузовский проспект, 34*<br> 【<http://www.vega.su>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

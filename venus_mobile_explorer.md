@@ -104,9 +104,9 @@ The scientifically compelling highland regions known as tessera hold the most po
 |February 15, 2024, 13:17 UTC|End of Lander Design Lifetime|N/A|
 
 
-[![](f/project/v/venus_mobile_explorer/pic02_thumb.jpg)](f/project/v/venus_mobile_explorer/pic02.png)
+[![](f/project/v/venus_mobile_explorer/pic02_thumb.webp)](f/project/v/venus_mobile_explorer/pic02.png)
 
-[![](f/project/v/venus_mobile_explorer/pic04_thumb.jpg)](f/project/v/venus_mobile_explorer/pic04.png)
+[![](f/project/v/venus_mobile_explorer/pic04_thumb.webp)](f/project/v/venus_mobile_explorer/pic04.png)
 
 
 <p style="page-break-after:always"> </p>
@@ -177,7 +177,7 @@ To accommodate the two landings and aerial mobility, the structure is designed t
 The gondola primary structure is a hermetically sealed pressure vessel to prevent the influx of Venusian atmosphere. The primary structure is designed to handle the deceleration loads (worst case 167 ***g***) on the probe during the Venus atmosphere entry phase and a 10 ㎧ expected impact velocity for each landing. The leg system allows a dampened stroke, reducing the landing loads to 34 ***g***.
 
 
-[![](f/project/v/venus_mobile_explorer/pic03_thumb.jpg)](f/project/v/venus_mobile_explorer/pic03.png)
+[![](f/project/v/venus_mobile_explorer/pic03_thumb.webp)](f/project/v/venus_mobile_explorer/pic03.png)
 
 **Table.** Mass Breakdown <mark>(there are unclear mistakes in masses, but still these are masses from the original report)</mark>
 

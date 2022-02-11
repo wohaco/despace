@@ -9,7 +9,7 @@
 
 **Venera 7** (**Венера‑7**) was a Soviet spacecraft, part of the Venera series of spacecraft to Venus. The lander of Venera 7 landed on the surface of Venus for the first time in the world, 2 000 ㎞ from the morning terminator on the night side. The lander transmitted information for 53 min, including 27 min from the surface. The temperature of the atmosphere on descent was measured. The temperature and pressure on the surface were measured for the first time, at the landing site it was T = 475 ± 20 ℃ and P = 90 ± 15 atm — the first measurements on the surface.
 
-[![](f/project/v/venera_7/pic01_thumb.jpg)](f/project/v/venera_7/pic01.jpg) [![](f/project/v/venera_7/pic02_thumb.jpg)](f/project/v/venera_7/pic02.jpg)
+[![](f/project/v/venera_7/pic01_thumb.webp)](f/project/v/venera_7/pic01.jpg) [![](f/project/v/venera_7/pic02_thumb.webp)](f/project/v/venera_7/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 

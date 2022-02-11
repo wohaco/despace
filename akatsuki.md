@@ -9,7 +9,7 @@
 
 **Akatsuki** (あかつき, 暁, «Dawn»), also known as the Venus **Climate Orbiter (VCO)** & **Planet-C** (next after [PLANET-B (Nozomi)](nozomi.md)) is a Japanese spacecraft tasked to study the [Venus](venus.md) atmosphere.
 
-[![](f/project/a/akatsuki/pic01_thumb.jpg)](f/project/a/akatsuki/pic01.png) [![](f/project/a/akatsuki/pic04_thumb.jpg)](f/project/a/akatsuki/pic04.png)
+[![](f/project/a/akatsuki/pic01_thumb.webp)](f/project/a/akatsuki/pic01.png) [![](f/project/a/akatsuki/pic04_thumb.webp)](f/project/a/akatsuki/pic04.png)
 
 <p style="page-break-after:always"> </p>
 
@@ -128,7 +128,7 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 <p style="page-break-after:always"> </p>
 
 ### Spacecraft
-[![](f/project/a/akatsuki/pic03_thumb.jpg)](f/project/a/akatsuki/pic03.png)
+[![](f/project/a/akatsuki/pic03_thumb.webp)](f/project/a/akatsuki/pic03.png)
 
 **Spacecraft** is a cube of 1.45 × 1.04 × 1.44 m.
 
@@ -219,7 +219,7 @@ The payload includes 6 instruments, including 5 cameras for exploring Venus in t
 
 ![](f/project/a/akatsuki/payload01.png)
 
-[![](f/project/a/akatsuki/payload09_thumb.jpg)](f/project/a/akatsuki/payload09.jpg)  
+[![](f/project/a/akatsuki/payload09_thumb.webp)](f/project/a/akatsuki/payload09.jpg)  
 Concept image of Akatsuki measurements.  
 The six instruments placed on Akatsuki are designed to study various aspects of the atmosphere of Venus at various altitudes. The figure on the left shows targets & instruments, & on the right — heights. By observing atmospheric objects for a long time, for example, clouds, it is possible to obtain the distribution of wind speeds (wind vectors).
 

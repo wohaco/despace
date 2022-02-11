@@ -374,7 +374,7 @@ A list of [Inertial measurement units](sensor.md).
 |<small>・on startup after calibration in the angle measurement channel</small>| |
 |Range of measurement of linear acceleration|± 98 ㎧²|
 |Range of measurement of angular velocity|± 30 °/s|
-| |[![](f/iu/i/ius_voa_pic1_thumb.jpg)](f/iu/i/ius_voa_pic1.jpg)|
+| |[![](f/iu/i/ius_voa_pic1_thumb.webp)](f/iu/i/ius_voa_pic1.jpg)|
 
 **Notes:**
 
@@ -428,7 +428,7 @@ A list of [Inertial measurement units](sensor.md).
 |<small>・on startup after calibration in the angle measurement channel</small>|1 °/ч (1 σ)|0.65 °/ч (1 σ)|1 °/ч (1 σ)|
 |Range of measurement of linear acceleration|± 100 °/s²; ± 392 ㎧²|± 100 °/s²; ± 148 ㎧²|± 392 ㎧²|
 |Range of measurement of angular velocity|± 11.4 °/s|± 490 °/s|± 1 °/s|
-| |[![](f/iu/l/ln-200_pic1_thumb.jpg)](f/iu/l/ln-200_pic1.jpg)|
+| |[![](f/iu/l/ln-200_pic1_thumb.webp)](f/iu/l/ln-200_pic1.jpg)|
 
 **Notes:**
 
@@ -482,7 +482,7 @@ A list of [Inertial measurement units](sensor.md).
 |<small>・on startup after calibration in the angle measurement channel</small>| |
 |Range of measurement of linear acceleration| |
 |Range of measurement of angular velocity| |
-| |[![](f/iu/m/mbins_pic1_thumb.jpg)](f/iu/m/mbins_pic1.png)|
+| |[![](f/iu/m/mbins_pic1_thumb.webp)](f/iu/m/mbins_pic1.png)|
 
 **Notes:**
 

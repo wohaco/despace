@@ -1,7 +1,7 @@
 # РФЯЦ-ВНИИЭФ
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/r/rfyac_vniief_logo1_thumb.jpg)](../f/con/r/rfyac_vniief_logo1.png)|<staff@vniief.ru>, +7(83130)2-48-02, Fax: +7(83130)2-94-94;<br> *Россия, 607188, Нижегородская обл., г. Саров, пр. Музрукова, 10*<br> 【<http://www.vniief.ru/>・ <https://ru.wikipedia.org/wiki/РФЯЦ-ВНИИЭФ>】|
+|[![](../f/contact/r/rfyac_vniief_logo1_thumb.webp)](../f/contact/r/rfyac_vniief_logo1.png)|<staff@vniief.ru>, +7(83130)2-48-02, Fax: +7(83130)2-94-94;<br> *Россия, 607188, Нижегородская обл., г. Саров, пр. Музрукова, 10*<br> 【<http://www.vniief.ru/>・ <https://ru.wikipedia.org/wiki/РФЯЦ-ВНИИЭФ>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -1,7 +1,7 @@
 # Space Concordia
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/space_concordia_logo1_thumb.jpg)](../f/con/s/space_concordia_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *H 1029-7, 1455 De Maisonneuve West, Montreal, Quebec, H3G 1M8, Canada*<br> 【<https://spaceconcordia.github.io/>・ <https://www.concordia.ca/alumni-friends/giving-to-concordia/fundone/space-concordia.html>】|
+|[![](../f/contact/s/space_concordia_logo1_thumb.webp)](../f/contact/s/space_concordia_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *H 1029-7, 1455 De Maisonneuve West, Montreal, Quebec, H3G 1M8, Canada*<br> 【<https://spaceconcordia.github.io/>・ <https://www.concordia.ca/alumni-friends/giving-to-concordia/fundone/space-concordia.html>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

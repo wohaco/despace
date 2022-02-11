@@ -1,7 +1,7 @@
 # MSCI
 > 2019.08.27 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/msci_logo1_thumb.jpg)](../f/con/m/msci_logo1.png)|<mark>noemail</mark>, +1(905)364-03-88, Fax: +1(905)364-03-89;<br> *6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*<br> 【<http://www.mscinc.ca/> ・[LinkedIn ⎆](https://ca.linkedin.com/company/microsat-systems-canada-inc.)】|
+|[![](../f/contact/m/msci_logo1_thumb.webp)](../f/contact/m/msci_logo1.png)|<mark>noemail</mark>, +1(905)364-03-88, Fax: +1(905)364-03-89;<br> *6877 Goreway Drive, Unit #2, Mississauga, Ontario, L4V 1L9, Canada*<br> 【<http://www.mscinc.ca/> ・[LinkedIn ⎆](https://ca.linkedin.com/company/microsat-systems-canada-inc.)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

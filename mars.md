@@ -17,7 +17,7 @@
 
 | | | | |
 |:--|:--|:--|:--|
-|[![](f/aob/mars/mars_hemisphere_1_thumb.jpg)](f/aob/mars/mars_hemisphere_1.webp)|[![](f/aob/mars/mars_hemisphere_2_thumb.jpg)](f/aob/mars/mars_hemisphere_2.webp)|[![](f/aob/mars/mars_map_of_the_mars_big_thumb.jpg)](f/aob/mars/mars_map_of_the_mars_big.webp)|[![](f/aob/mars/mars_surface_of_mars_big_thumb.jpg)](f/aob/mars/mars_surface_of_mars_big.webp)|
+|[![](f/aob/mars/mars_hemisphere_1_thumb.webp)](f/aob/mars/mars_hemisphere_1.webp)|[![](f/aob/mars/mars_hemisphere_2_thumb.webp)](f/aob/mars/mars_hemisphere_2.webp)|[![](f/aob/mars/mars_map_of_the_mars_big_thumb.webp)](f/aob/mars/mars_map_of_the_mars_big.webp)|[![](f/aob/mars/mars_surface_of_mars_big_thumb.webp)](f/aob/mars/mars_surface_of_mars_big.webp)|
 
 
 ## Характеристики
@@ -32,7 +32,7 @@
 |[Argument of periapsis](keplerian.md) (ω)|286.46230°|
 |[Semimajor axis](keplerian.md) (a)|2.2794382·10⁸ ㎞ (1.523662 а.e.) <small>(1.524 земной)</small>|
 |Day/year|…/… земных|
-|[Longit. of asc.node](keplerian.md) (Ω)|49.57854°|
+|[Longit. of  asc.node](keplerian.md) (Ω)|49.57854°|
 |[Inclination](keplerian.md) (Ⅰ)|1.85061° (относительно эклиптики);<br> 5.65° (относительно солнечного экватора)|
 |Orbital velocity (Ⅴ)|24.13 ㎞/s (средн.);<br> 24.077 ㎞/s|
 |[Sider. rotat.period](astroperiod.md) (T, day)|1.02595675 дня (24 h 39 min 35.244 s)|
@@ -121,7 +121,7 @@
 ### Проекты
 См. также разделы «[Проекты](project.md)».
 
-[![](f/aob/mars/mars_sc1_thumb.jpg)](f/aob/mars/mars_sc1.webp)
+[![](f/aob/mars/mars_sc1_thumb.webp)](f/aob/mars/mars_sc1.webp)
 
 **[Марсоходы](robot.md):**
 

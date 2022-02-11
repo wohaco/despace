@@ -1,7 +1,7 @@
 # Magellan Systems Japan, Inc.
 > 2020.10.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/magellan_sj_logo1_thumb.jpg)](../f/con/m/magellan_sj_logo1.png)|<mark>noemail</mark>, +81-6-4950-5520, Fax: +81-6-4950-5521;<br> *Amagasaki Research Incubation Center, #315, 7-1-3, Doicho, Amagasaki, Hyogo, 660-0083, Japan*<br> 【<https://www.magellan.jp/>】|
+|[![](../f/contact/m/magellan_sj_logo1_thumb.webp)](../f/contact/m/magellan_sj_logo1.png)|<mark>noemail</mark>, +81-6-4950-5520, Fax: +81-6-4950-5521;<br> *Amagasaki Research Incubation Center, #315, 7-1-3, Doicho, Amagasaki, Hyogo, 660-0083, Japan*<br> 【<https://www.magellan.jp/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -1,7 +1,7 @@
 # Synspective
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/synspective_logo1_thumb.jpg)](../f/con/s/synspective_logo1.png)|<hello@synspective.com>, <mark>noworkphone</mark>, Fax: …;<br> *The Brew, Kiyosumishirakawa 1F, 3-10-3, Miyoshi Koto-ku, Tokyo*<br> 【<https://synspective.com>・ [LinkedIn ⎆](https://www.linkedin.com/company/synspective)】|
+|[![](../f/contact/s/synspective_logo1_thumb.webp)](../f/contact/s/synspective_logo1.png)|<hello@synspective.com>, <mark>noworkphone</mark>, Fax: …;<br> *The Brew, Kiyosumishirakawa 1F, 3-10-3, Miyoshi Koto-ku, Tokyo*<br> 【<https://synspective.com>・ [LinkedIn ⎆](https://www.linkedin.com/company/synspective)】|
 |:--|:--|
 |**Mission**|Synthetic Data for Perspective|
 |**Vision**|Efficient, accountable & resilient world|

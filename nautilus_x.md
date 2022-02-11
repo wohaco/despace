@@ -13,7 +13,7 @@ The concept was first proposed in 2011.01 for long‑duration (1 to 24 months)
 
 |<small>*Nautilus-X spacecraft*</small>|
 |:--|
-|[![](f/project/a/ais/nautilus_x_pic1_thumb.jpg)](f/project/a/ais/nautilus_x_pic1.png)|
+|[![](f/project/a/ais/nautilus_x_pic1_thumb.webp)](f/project/a/ais/nautilus_x_pic1.png)|
 
 
 ## Objectives

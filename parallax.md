@@ -19,7 +19,7 @@
 
 |Схема параллакса|Измерение расстояния при помощи параллакса|
 |:--|:--|
-|[![](f/si/parallax_example_ru_thumb.jpg)](f/si/parallax_example_ru.png)|[![](f/si/parallax_telemetre_parallaxe_principe_thumb.jpg)](f/si/parallax_telemetre_parallaxe_principe.png)|
+|[![](f/si/parallax_example_ru_thumb.webp)](f/si/parallax_example_ru.png)|[![](f/si/parallax_telemetre_parallaxe_principe_thumb.webp)](f/si/parallax_telemetre_parallaxe_principe.png)|
 
 
 

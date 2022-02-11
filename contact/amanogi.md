@@ -1,7 +1,7 @@
 # Amanogi Co., Ltd.
 > 2021.12.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/a/amanogi_logo1_thumb.png)](../f/con/a/amanogi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *1-1-13, Kitamagome, Ota-ku, Tokyo, Japan*<br> 【<https://amanogi.space/>・ [Twitter ⎆](https://twitter.com/AmanogiPR)】|
+|[![](../f/contact/a/amanogi_logo1_thumb.png)](../f/contact/a/amanogi_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *1-1-13, Kitamagome, Ota-ku, Tokyo, Japan*<br> 【<https://amanogi.space/>・ [Twitter ⎆](https://twitter.com/AmanogiPR)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|Utilization of Space data by applying Edge Computing to satellites|

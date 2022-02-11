@@ -40,7 +40,7 @@ A list of [Cameras](cam.md).
 |Lens|КМОП-матрица|КМОП-матрица|
 |Resolution, px|1280 × 720|1280 × 720|
 |Shooting modes| | |
-| |[![](f/cam/v/vtk_1050_pic1_thumb.jpg)](f/cam/v/vtk_1050_pic1.png)|[![](f/cam/v/vtk_1050_pic1_thumb.jpg)](f/cam/v/vtk_1050_pic1.png)|
+| |[![](f/cam/v/vtk_1050_pic1_thumb.webp)](f/cam/v/vtk_1050_pic1.png)|[![](f/cam/v/vtk_1050_pic1_thumb.webp)](f/cam/v/vtk_1050_pic1.png)|
 
 **Notes:**
 
@@ -79,7 +79,7 @@ A list of [Cameras](cam.md).
 |Lens| |
 |Resolution, px|5120 × 3840 × 2|
 |Shooting modes|фотосъёмка|
-| | [![](f/cam/l/lstk_pic1_thumb.jpg)](f/cam/l/lstk_pic1.jpg) [![](f/cam/l/lstk_pic2_thumb.jpg)](f/cam/l/lstk_pic2.jpg) [![](f/cam/l/lstk_pic3_thumb.jpg)](f/cam/l/lstk_pic3.jpg)|
+| | [![](f/cam/l/lstk_pic1_thumb.webp)](f/cam/l/lstk_pic1.jpg) [![](f/cam/l/lstk_pic2_thumb.webp)](f/cam/l/lstk_pic2.jpg) [![](f/cam/l/lstk_pic3_thumb.webp)](f/cam/l/lstk_pic3.jpg)|
 
 
 
@@ -111,7 +111,7 @@ A list of [Cameras](cam.md).
 |Lens| |
 |Resolution, px|1 × 7926|
 |Shooting modes| |
-| | [![](f/cam/m/msu_50_pic1_thumb.jpg)](f/cam/m/msu_50_pic1.jpg) |
+| | [![](f/cam/m/msu_50_pic1_thumb.webp)](f/cam/m/msu_50_pic1.jpg) |
 
 **Notes:**
 
@@ -148,7 +148,7 @@ A list of [Cameras](cam.md).
 |Lens| |
 |Resolution, px|1 × 7926|
 |Shooting modes| |
-| | [![](f/cam/m/msu_100_pic1_thumb.jpg)](f/cam/m/msu_100_pic1.jpg) |
+| | [![](f/cam/m/msu_100_pic1_thumb.webp)](f/cam/m/msu_100_pic1.jpg) |
 
 **Notes:**
 
@@ -185,7 +185,7 @@ A list of [Cameras](cam.md).
 |Lens| |
 |Resolution, px|12МП: 4 096 × 3 076, 12 bit Bayer|
 |Shooting modes|Still Image Capture, 4K Video|
-| |[![](f/cam/nmb/4k_space_camera_pic1_thumb.jpg)](f/cam/nmb/4k_space_camera_pic1.jpg)|
+| |[![](f/cam/nmb/4k_space_camera_pic1_thumb.webp)](f/cam/nmb/4k_space_camera_pic1.jpg)|
 
 **Notes:**
 
@@ -223,7 +223,7 @@ A list of [Cameras](cam.md).
 |Lens| |
 |Resolution, px|5МП: 2 560 × 2 160, RGB/Monochrome, 22 bits (2 × 11‑bit)|
 |Shooting modes|Still Image Capture|
-| |[![](f/cam/nmb/5mp_space_camera_pic1_thumb.jpg)](f/cam/nmb/5mp_space_camera_pic1.jpg)|
+| |[![](f/cam/nmb/5mp_space_camera_pic1_thumb.webp)](f/cam/nmb/5mp_space_camera_pic1.jpg)|
 
 **Notes:**
 
@@ -265,7 +265,7 @@ A list of [Cameras](cam.md).
 |Lens| |
 |Resolution, px|1000 × 1000, 3.04″, ПЗС|
 |Shooting modes| |
-| |[![](f/cam/t/tsnn_utk_pic1_thumb.jpg)](f/cam/t/tsnn_utk_pic1.jpg)|
+| |[![](f/cam/t/tsnn_utk_pic1_thumb.webp)](f/cam/t/tsnn_utk_pic1.jpg)|
 
 **Notes:**
 
@@ -302,7 +302,7 @@ A list of [Cameras](cam.md).
 |Lens| |
 |Resolution, px|1000 × 1000, 84.8″, ПЗС|
 |Shooting modes| |
-| |[![](f/cam/t/tsnn_shtk_pic1_thumb.jpg)](f/cam/t/tsnn_shtk_pic1.jpg)|
+| |[![](f/cam/t/tsnn_shtk_pic1_thumb.webp)](f/cam/t/tsnn_shtk_pic1.jpg)|
 
 **Notes:**
 

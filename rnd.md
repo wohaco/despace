@@ -34,7 +34,7 @@
 
 | | |
 |:--|:--|
-|[![](f/rnd/cycle_of_research_and_development_svg_wikipedia_thumb.jpg)](f/rnd/cycle_of_research_and_development_svg_wikipedia.png)|[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.jpg)](f/rnd/reviews_in_nasa_projects_lifecycle.jpg)|
+|[![](f/rnd/cycle_of_research_and_development_svg_wikipedia_thumb.webp)](f/rnd/cycle_of_research_and_development_svg_wikipedia.png)|[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.webp)](f/rnd/reviews_in_nasa_projects_lifecycle.jpg)|
 
 
 
@@ -50,6 +50,7 @@ Common spacecraft R&D team:
    1. External environment engineer
    1. GNC engineer (incl. ballistics)
    1. Ground systems engineer
+   1. Manufacturing engineer
    1. Mechanical engineer
    1. Payload engineer
    1. Production engineer
@@ -118,7 +119,7 @@ Common spacecraft R&D team:
 |**2**|**[Техническое предложение (Аванпроект)](rnd_ap.md) (АП)**<br> Анализ ТЗ. Подбор материалов. Присвоение документам литеры «П». Цель — выявление доп./уточнённых требований к [изделию](unit.md), которые не могли быть указаны в ТЗ или рассмотрены в НИР, и это целесообразно сделать на основе конструкторской проработки и анализа вариантов изделия. *(не распространяется на КД, разраб. по заказу Мин. обороны ([ГОСТ 2.103](гост_2_103.md) п.4.1))*|**Phase A**<br> Concept & technology development.|
 | |**【ОКР】**|**【R&D】**|
 |**3**|**[Эскизный проект](rnd_ep.md) (ЭП)**<br> Рассмотрение и утверждение АП, уточнение его результатов. Цель — установление принципиальных решений изделия, дающих общее представление о принципе работы и (или) устройстве изделия. Можно рассматривать варианты изделий. В итоге должен быть выбран 1 вариант исполнения изделий.|**Phase B**<br> Preliminary design & technology completion. At the end of p.B the system requirements together with a statement of work are sent out requesting proposals from industry.|
-|**4**|**[Технический проект](rnd_tp.md) (ТП)**<br> Необязательный этап. По НД имеет состав ЭП. Рассмотрение и утверждение ЭП. Присвоение документам литеры «Т». Изготовление и испытание макетов (при необходимости). ТП разраб. с целью выявления окончательных технических решений, дающих полное представление о конструкции изделия, когда это целесообразно сделать до РРД.|**Phase B**<br> Preliminary design & technology completion. At the end of p.B the system requirements together with a statement of work are sent out requesting proposals from industry.|
+|**4**|**[Технический проект](rnd_tp.md) (ТП)**<br> Необязательный этап. Имеет состав ЭП. Рассмотрение и утверждение ЭП. Присвоение документам литеры «Т». Изготовление и испытание макетов (при необходимости). ТП разраб. с целью выявления окончательных технических решений, дающих полное представление о конструкции изделия, когда это целесообразно сделать до РРД.|**Phase B**<br> Preliminary design & technology completion. At the end of p.B the system requirements together with a statement of work are sent out requesting proposals from industry.|
 |**5**|**[Разработка конструкторской документации](rnd_rkd.md) (РКД, РРД)**<br> Рассмотрение и утверждение ТП (ЭП, если не было ТП). Разработка [КД](doc.md), предназначенной для изготовления и [испытания](test.md) опытного образца (опытной партии), без присвоения литеры.|**Phase C**<br> Final design & fabrication.|
 |**6**|**[Наземная экспериментальная отработка, макетирование](test.md) (НЭО)**<br> Создание макетов КА и его СЧ, проведение наземной экспериментальной отработки, корректировка КД (при необходимости), поставка штатных образцов.|**Phase C/D**<br> System assembly, integration & testing. Launch.|
 |**7**|**[Лётные испытания](rnd_e.md) (ЛИ)**<br> Старт и функционирование [изделия](unit.md).|**Phase E**<br> Operations & sustainment.|
@@ -171,7 +172,7 @@ Define NGOs (need, goals, objectives).
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](val_ver.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
+|**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](vnv.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|
 
    1. Docs: …
    1. <https://ru.wikipedia.org/wiki/НИОКР>

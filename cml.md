@@ -37,7 +37,7 @@ Created by [Mark Adler](person.md), [JPL](contact/jpl.md). Inspired by [TRL](trl
 |7|**Preliminary Implementation Baseline**<br> (Начальная реализация концепта)| | |+|
 |8|**Project Baseline**<br> (Начало проекта)| | |+|
 
-[![](f/control/cml_pic03_thumb.jpg)](f/control/cml_pic01.jpg)
+[![](f/control/cml_pic03_thumb.webp)](f/control/cml_pic01.jpg)
 
 
 

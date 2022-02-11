@@ -41,7 +41,7 @@ The **universe** is all of space, time & their contents, incl. planets, stars, g
       1. [Uranus](uranus.md) & satellites — [Ariel](ariel.md)・ [Oberon](oberon.md)・ [Titania](titania.md)・ [Umbriel](umbriel.md)・ 23 smaller ones
       1. [Neptune](neptune.md) & satellites — [Nereid](nereid.md)・ [Proteus](proteus.md)・ [Triton](triton.md)・ 11 smaller ones
 
-|[![](f/aob/universe/solar_system_sizes_pic1_thumb.jpg)](f/aob/universe/solar_system_sizes_pic1.webp) [![](f/aob/universe/solar_system_sizes_pic2_thumb.jpg)](f/aob/universe/solar_system_sizes_pic2.png) [![](f/aob/universe/solar_system_sizes_pic3_thumb.jpg)](f/aob/universe/solar_system_sizes_pic3.webp)|
+|[![](f/aob/universe/solar_system_sizes_pic1_thumb.webp)](f/aob/universe/solar_system_sizes_pic1.webp) [![](f/aob/universe/solar_system_sizes_pic2_thumb.webp)](f/aob/universe/solar_system_sizes_pic2.png) [![](f/aob/universe/solar_system_sizes_pic3_thumb.webp)](f/aob/universe/solar_system_sizes_pic3.webp)|
 |:--|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Astro.object](aob.md)・ [Blue Marble](earth.md)・ [Cosmic rays](cr.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|
 
@@ -63,26 +63,30 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[5D optical data storage](ds.md)**|≠ 5‑мерное хранилище информации|
 | |**6-DOF** — six‑degrees of freedom| |
 |**A**|**A‑Team** (see [JPL IF](jpl_if.md))|≠ Команда А|
+| |**ACS** — [attitude control system](acs.md)| |
 | |**[Ad hoc](ad_hoc.md)**|Специально для этого|
 | |**ADCS** — attitude determination & control system| |
-| |**ACS** — [attitude control system](acs.md)| |
-| |**AIT** — Assembly, integration, testing|≠ Сборка, интеграция, отработка|
-| |**AIV** — Assembly, integration, validation|≠ Сборка, интеграция, проверка|
+| |**ADRA** — [archives, development, research, administration](adra.md)|≠ **ХРИП** — хранение, разработка, исследования, планирование|
+| |**AIT** — assembly, integration, testing|≠ Сборка, интеграция, отработка|
+| |**AIV** — assembly, integration, validation|≠ Сборка, интеграция, проверка|
 | |**AMBR** — [advanced material bipropellant rocket](engine_lst.md)|≠ **AMBR** — двухкомпонентный двигатель из передовых материалов|
 | |**ASAP** — as soon as possible|≠ Как можно скорее|
 | |**ASP** — [Ames stereo pipeline](ames_stereo_pipeline.md)|≠ Стереотруба центра Эймса|
+| |**Atmosphere**|Атмосфера|
 | |**AVEC** — [APL’s Venus environment chamber](avec.md)|≠ **АВЕК** — камера условий на Венере Лаборатории прикладной физики|
-|**B**|**[Blender](blender.md)**|Блендер|
-| |**Blue paper**|С[иняя книга](colour_papers.md)|
+|**B**|**BBM** — broadband mode|**ШР** — широкополосный режим|
+| |**[Blender](blender.md)**|Блендер|
+| |**[Blue paper](colour_papers.md)**|Синяя книга|
 |**C**|**[C](c.md)**|Си|
-| |**CCSDS** — consultative committee for space data systems|≠ **CCSDS** — [международный Консультативный Комитет по космическим системам передачи данных](ccsds.md)|
+| |**CCSDS** — [consultative committee for space data systems](ccsds.md)|≠ **CCSDS** — международный Консультативный Комитет по космическим системам передачи данных|
 | |**CDF** — concurrent desigh facility|**[НИР](rnd_0.md)** в [ESA](contact/esa.md)|
 | |**C&DH** — [command & data handling](c_n_dh.md)|≈ **БКУ** — бортовой комплекс управления|
 | |**CDR** — critical design review|≠ Критическое рассмотрение проекта|
-| |**CDSN** — [Chinese deep space network](cdsn.md)|≠ **CDSN** — китайская сеть дальней космической связи|
+| |**CDSN** — [Chinese deep space network](cdsn.md)|≠ **ДКСК** — сеть дальней космической связи Китая|
 | |**CEO** — [chief executive officer](mgmt.md)|Генеральный директор|
 | |**CET** — [central European time](time.md)|Средне‑европейское время. MSK+1 летом, MSK+2 зимой|
-| |**CML** — concept maturity levels|**УЗК** — [уровни зрелости концепта](cml.md)|
+| |**[Change notice](ch_notice.md)**|Журнал изменений|
+| |**CML** — [concept maturity levels](cml.md)|**УЗК** — уровни зрелости концепта|
 | |**CONOPS** — [concept of operations](conops.md)|Концепция эксплуатации|
 | |**Cold gas**|Азот|
 | |**COO** — [chief operating officer](mgmt.md)|Главный инженер|
@@ -90,25 +94,28 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[COSPAR ID / International designator / NSSDC ID](spaceid.md)**|Номер полёта|
 | |**CTO** — [chief technical officer](mgmt.md)|Главный инженер; технический директор|
 |**D**|**DEM** — [digital elevation model](drawing.md)|≠ **ЦМР** — цифровая модель рельефа|
-| |**Don’t Panic!**|≠ [Без паники](faq.md)|
+| |**[Don’t Panic!](faq.md)**|≠ Без паники|
 | |**[DOORS](doors.md)**|≠ ДОРС|
 | |**DR** — [design review](design_review.md)|≠ Проверка проекта|
 | |**DSG** — [deep space gateway](deep_space_gateway.md)|≠ **ВГК** — ворота глубокого космоса|
-| |**DSN** — [NASA deep space network](dsn.md)|≠ **DSN** — сеть дальней космической связи НАСА|
+| |**DSN** — [NASA deep space network](dsn.md)|≠ **ДКСН** — сеть дальней космической связи НАСА|
 | |・**[Dragon](dragon.md)**|≠ Дракон|
-|**E**|**ECSS** — European cooperation for space standardization| |
+|**E**|**EB** — [electric battery](eb.md)|**ХИТ** — химический источник тока|
+| |**ECSS** — European cooperation for space standardization| |
 | |**EDLS** — entry, descent & landing system| |
-| |**[Elevator pitch/speech](elevator_pitch.md)**|[Презентация для лифта](elevator_pitch.md)|
-| |**EMI** — electromagnetic interference|[Помехи](emi.md)|
+| |**[Elevator pitch/speech](elevator_pitch.md)**|Презентация для лифта|
+| |**EMI** — [electromagnetic interference](emi.md)|Помехи|
 | |**EOM** — end of mission| |
+| |**ESA** — [European Space Agency](contact/esa.md)|**ЕКА** — Европейское космическое агентство|
 | |**ESOC** — European space operations centre| |
 | |**ESTRACK** — [European space tracking network](estrack.md)|≠ Европейская сеть космического слежения|
-| |**EVT** — Engineering validation test|…|
+| |**EVT** — Engineering validation test| |
 | |・**[EnVision](envision.md)**|≠ **ЭнВижен**|
 |**F**|**FDIR** — fault detection, isolation & recovery| |
 | |**FIT** — [failures in time](qm.md)| |
-| |**Flagship Mission** (see [ТЭО](fs.md))|Флагманская миссия|
-| |**FLPP** — [future launchers preparatory programme](flpp.md)|≠ **FLPP** — программа разработки перспективных пусковых установок|
+| |**Flagship Mission** (see [FS](fs.md))|Флагманская миссия|
+| |**[Flight unit](flight_unit.md)**|≠ **ШИ** — штатное изделие;<br> **ШО** — штатный образец|
+| |**FLPP** — [future launchers preparatory programme](flpp.md)|≠ **ПРПУ** — программа разработки перспективных пусковых установок|
 | |**FR** — [frequency reuse](comms.md)|= Повторное использование частот|
 | |**FSS** — [fixed‑satellite service](sc.md)|= **ФСС** — фиксированная спутниковая служба|
 | |**FTA** — fault tree analysis| |
@@ -116,103 +123,122 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**GEER** — [Glenn extreme environment eig](geer.md)|≠ **ГИИР** — устройство для экстремальных условий Гленна|
 | |**GIMP** — [GNU image manipulation program](gimp.md)|≠ **Гимп** — программа для манипулирования изображениями от ГНУ|
 | |**[Git](git.md)**|≠ Гит|
-| |**Green paper**|[Зелёная книга](colour_papers.md)|
-|**H**|**HiPAT** — [high performance liquid apogee thruster](engine_lst.md)|≠ **HiPAT** — высокопроизводительный жидкостной апогейный двигатель|
-| |**HTAE** — [high thrust apogee engine](htae.md)|≠ **HTAE** — апогейный двигатель с высокой тягой|
-| |┕|≈ Here, there, & everywhere (песня Beatles)|
-| |**HTPB** — [hydroxyl-terminated polybutadiene](htpb.md)|**HTPB** — полибутадиен с концевыми гидроксильными группами|
+| |**[Green paper](colour_papers.md)**|Зелёная книга|
+|**H**|**[Heat capacity ratio](heat_cr.md)**|Показатель адиабаты|
+| |**HiPAT** — [high performance liquid apogee thruster](engine_lst.md)|≠ **ВЖАД** — высокопроизводительный жидкостной апогейный двигатель|
+| |**Hmel** — base unit of opponent filtration (see [SI](si.md))|≠ **Хмель** — единица фильтрации оппонента|
+| |**HP** — [heat pipe](hp.md)|**АТТ** — аксиальная тепловая труба|
+| |**HTAE** — [high thrust apogee engine](htae.md)|≠ **АДВТ** — апогейный двигатель с высокой тягой;<br> ≈ Here, there, & everywhere (песня Beatles)|
+| |**HTPB** — [hydroxyl-terminated polybutadiene](htpb.md)|**ПКГГ** — полибутадиен с концевыми гидроксильными группами|
 | |**HTS** — [high-throughput satellite](sc.md)|≠ **ВПС** — высокопроизводительный спутник|
 |**I**|**I/F** — [interface](interface.md)| |
 | |**ICD** — [interface control document](interface.md)| |
-| |**IDSN** — [Indian deep space network](idsn.md)|≠ **IDSN** — индийская сеть дальней космической связи|
+| |**IDSN** — [Indian deep space network](idsn.md)|≠ **ДКСИ** — сеть дальней космической связи Индии|
 | |**IRD** — [interface requirement document](interface.md)| |
-| |**Ing**|**ИПТ** — [импульс последействия](ing.md)|
+| |**[Ing](ing.md)**|**ИПТ** — импульс последействия|
 | |**[International designator / NSSDC ID / COSPAR ID](spaceid.md)**|Номер полёта|
 | |**ISBN** — [international standard book number](isbn.md)|Международный стандартный книжный номер|
 | |**ISIS** — [information storage & retrieval systems](isis.md)| |
 | |**ISRU** — [in‑situ resource utilization](isru.md)|≠ Использование местных ресурсов|
 | |**ITAR** — [international traffic in arms regulations](itar.md)|≠ Правила международной торговли оружием|
 |**J**|**JPL IF** — [JPL Innovation Foundry](jpl_if.md)|≠ Инновационный цех JPL|
-| |**JT** — jupiter tessellation (see [CAD‑форматы](cad_f.md))| |
-|**L**|**LDO** — [Leonardo](leonardo.md)|≠ **LDO** — [Leonardo](leonardo.md)|
+| |**JT** — [jupiter tessellation](cad_f.md)| |
+|**L**|**LDO** — [Leonardo](leonardo.md)| |
 | |**LOC** — local organization comitee|≠ Местный организационный комитет|
+| |**LPR** — [liquid-propellant rocket / liquid rocket](engine_type.md)|**ЖРД** — жидкостный ракетный двигатель|
 | |**LPRP** — [Lunar precursor robotic program](lprp.md)|≠ Предварительная программа по изучению Луны автоматами|
-|**M**|**MBSE** — [model based systems engineering](se.md)|Системное проектирование на основе моделей|
+| |**LPRS** — liquid-propellant rocket propulsion system / liquid rocket propulsion system|**ЖРДУ** — жидкостная ракетная двигательная установка|
+|**M**|**MAIT** — manufacturing, assembly, integration, testing|≠ Производство, сборка, интеграция, отработка|
+| |**MBSE** — [model based systems engineering](se.md)|Системное проектирование на основе моделей|
 | |**MCC** — [mission control center](scs.md)|**ЦУП** — центр управления полётами|
+| |**[MIL-STD-1553](mil_std_1553.md)**|**МКИО** — мультиплексный канал информационного обмена;<br> **МКО** — мультиплексный канал обмена|
 | |**[Mission proposal](proposal.md)**|≠ Предложение миссии|
-| |**MML** — [modeling maturity mevels](mml.md)|**УЗУ** — [уровни зрелости управления](mml.md)|
+| |**MML** — [modeling maturity mevels](mml.md)|**УЗУ** — уровни зрелости управления|
 | |**MOC** — [mission operation center](scs.md)|**ЦУП** — центр управления полётами|
 | |**MRD** — [mission requirements document](mrd.md)| |
 | |・**[MarCO](marco.md)**|≠ **МарКО**|
-| |・ **MCO** — [Mars climate orbiter](mars_climate_orbiter.md)|≠ **МКО** — Марс климат орбитер|
-| |・ **MGS** — [Mars global surveyor](mars_global_surveyor.md)|≠ **МГС** — Марс глобал сервейор|
-| |・ **MCSB** — [modular common spacecraft bus](mcsb.md)|≠ **КПОН** — космическая платформа общего назначения|
+| |・**MCO** — [Mars climate orbiter](mars_climate_orbiter.md)|≠ **МКО** — Марс климат орбитер|
+| |・**MGS** — [Mars global surveyor](mars_global_surveyor.md)|≠ **МГС** — Марс глобал сервейор|
+| |・**MCSB** — [modular common spacecraft bus](mcsb.md)|≠ **КПОН** — космическая платформа общего назначения|
 | |・**[MetNet](metnet.md)**|≠ **МетСеть**|
 |**N**|**NASA PSL** — [NASA Parts Selection List](nasa_psl.md)|≠ Список NASA по выбору составных частей|
-| |**NFPA 704** ​— [standard system for the identification of the hazards of materials for emergency response](nfpa_704.md)​ ​|**NFPA 704** ​— стандарт по определению степени опасности материалов ​|
+| |**NER** — nuclear electric rocket|**ЯЭДУ** — ядерная электродвигательная установка|
+| |**NFPA 704** ​— [standard system for the identification of the hazards of materials for emergency response](nfpa_704.md)​ ​|Стандарт по определению степени опасности материалов ​|
 | |**NGO** ​— [need, goals, objectives](rnd.md)|≠ НГО ​— цель, вопросы, задачи|
 | |**NGT** ​— [NeoGeography Toolkit](neogeography_toolkit.md)|≠ НеоГеографический набор инструментов|
 | |**NIAC** ​— [NASA Innovative Advanced Concepts](niac_program.md)|≠ **НИАК** ​— Инновационные передовые концепты НАСА|
 | |**NICM** ​— [NASA Instrument Cost Model](nicm.md)|≠ Модель стоимость инструментов НАСА|
 | |**NMLO** — NASA Moscow liaison office| |
+| |**NR** — [nuclear reactor](nr.md)|**ЯР** — ядерный реактор|
 | |**[NSSDC ID / COSPAR ID / International designator](spaceid.md)**|Номер полёта|
+| |**NTR** — [nuclear thermal rocket](engine_type.md)|**ЯРДУ** — ядерная ракетная двигательная установка|
 | |**NTRS** ​— [NASA Technical Reports Server](nasa_sti.md)|≠ **СТОН** ​— сервер технических отчётов НАСА|
 | |**NX** — [Siemens NX](nx.md) (CAD/CAM/CAE‑system)| |
 | |・**[Nautilus-X](nautilus_x.md)**|≠ Наутилус‑Икс|
 |**O**|**[GNU Octave](gnu_octave.md)**|≠ ГНУ Октава|
 |**P**|**P.Eng** — professional engineer|Профессиональный инженер|
 | |**[Paper size](si.md)**|Формат бумаги|
+| |**PC** — [primary cell](eb.md)|**ХИТ** — химический источник тока|
 | |**PDD** — [payload definition document](pdd.md)| |
 | |**PDF** — [portable document format](pdf.md)| |
 | |**PDR** — preliminary design review|≠ **PDR** — предварительное рассмотрение проекта|
 | |**PhSR** — Phobos sample return| |
 | |**PI** — [principal investigator](principal_investigator.md)|≠ Ответственный исследователь|
+| |**PL** — [product lifecycle](pl.md) (see PLM)|**ЖЦИ** — жизненный цикл изделия|
 | |**PLM** — product lifecycle management| |
 | |**PPD** — [planetary protection document](ppd.md)| |
 | |**PSDS** — [Planetary Science Decadal Survey](us_psds.md)|≠ Десятилетний обзор планетарной науки|
 | |**[Python](python.md)**|Питон|
 |**R**|**[R](r.md)**|≠ **R**|
-| |**RFI** — radio frequency interference|[Помехи](emi.md)|
+| |**RFI** — [radio frequency interference](emi.md)|Помехи|
 |**S**|**SAR** — [synthetic-aperture radar](cam.md)|**РСА** — радар с синтезированной апертурой|
 | |**SciRD** — [science requirements document](scird.md)| |
 | |**SCN** — [satellite catalog number](spaceid.md)|Номер по спутниковому каталогу|
 | |**SE** — [systems engineering](se.md)|**СИ** —  системная инженерия|
 | |**[SpaceID](spaceid.md)**|Идентификатор космического объекта|
 | |**SPICE** — [spacecraft planet instrument C‑matrix events](spice.md)|≠ Космический аппарат, планета, прибор, ориентация, события|
-| |**SRRQ** — [Safety, reliability, risk, quality](qm.md)|≠ Безопасность, надёжность, риск, качество|
-| |**SSC GGSN** — [Swedish Space Corporation’s global ground station network](ssc_ggsn.md)|≠ **SSC GGSN** — Глобальная сеть наземных станций Шведской Космической Корпорации|
-| |**SSME** — Space Shuttle main engine|≠ **SSME** — главный двигатель космического челнока, он же двигатель [RS-25](engine_lst.md)|
+| |**SRRQ** — [safety, reliability, risk, quality](qm.md)|≠ Безопасность, надёжность, риск, качество|
+| |**SSC GGSN** — [Swedish Space Corporation’s global ground station network](ssc_ggsn.md)|Глобальная сеть наземных станций Шведской Космической Корпорации|
+| |**SSME** — [Space Shuttle main engine](engine_lst.md)|Главный двигатель космического челнока, он же двигатель RS-25|
 | |**SSR** — [solid state recorder](ds_lst.md)|Твердотельное записывающее устройство|
-| |**[STEM](stem.md)** — science, technology, engineering, & mathematics|≠ **STEM** — наука, технология, инженерия и математика|
-| |**STEP** — [standard for exchange of product model data](cad_f.md)|**STEP** — стандарт обмена данными модели изделия|
+| |**STEM** — [science, technology, engineering, & mathematics](stem.md)|≠ **НТИМ** — наука, технология, инженерия и математика|
+| |**STEP** — [standard for exchange of product model data](cad_f.md)|Стандарт обмена данными модели изделия|
 | |**STI** — [scientific & technical information program](nasa_sti.md)|≠ **ПНТИ** — программа научной и технической информации|
-| |**STL** — [Systems Tool Kit](systems_tool_kit.md)|≠ **СТЛ** — набор системных инструментов|
+| |**STL** — [Systems Tool Kit](stk.md)|≠ **СТЛ** — набор системных инструментов|
 | |**SUEM** — spin‑up & eject mechanism|≠ Механизм закрутки и отделения|
 | |**SysML** — [Systems Modeling Language](sysml.md)|Язык моделирования систем|
 | |・**[Shukrayaan-1](shukrayaan_1.md)**|≠ **Шакраян‑1**|
-|**T**|**[TALOS](talos.md)** — thruster advancement for low‑temperature operation in space|≠ **ТАЛОС** — улучшения двигателей для низкотемпературной работы в космосе|
+|**T**|**TALOS** — [thruster advancement for low‑temperature operation in space](talos.md)|≠ **ТАЛОС** — улучшения двигателей для низкотемпературной работы в космосе|
 | |**TBA** — to be announced|≠ Требуется объявить|
 | |**TBC** — to be confirmed​|≠ Требуется подтвердить|
 | |**TBD** — to be determined|≠ Требуется определить|
 | |**Team X** (see [JPL IF](jpl_if.md))|≠ Команда Икс|
 | |**[Teamcenter](teamcenter.md)** (PLM‑система)|≠ Тимцентр|
 | |**[Tennis racket theorem](tr_theorem.md), Dzhanibekov effect**|Эффект Джанибекова|
-| |**TMI** — trans‑Mars injection|[Выход на орбиту Марса](nnb.md#tmi)|
+| |**Timescale / [Timeline](timeline.md)**|**ШВ** — шкала времени|
+| |**TMI** — [trans‑Mars injection](nnb.md#tmi)|Выход на орбиту Марса|
 | |**[Tradespace](tradespace.md)**|Определение границ|
-| |**TTC** — telemetry tracking command| |
-|**U**|**UDSC** — [Usuda deep space center](udsc.md)|≠ **UDSC** — центр дальней космической связи Усуда|
-|**V**|**[V‑model](v_model.md), Systems engineering V**|≠ **Ви-модель**|
-| |・ **VFM** — [Venus Flagship Mission](venus_flagship_mission.md)|≠ **ВФМ** — венерианская флагманская миссия|
-| |・ **VME** — [Venus Mobile Explorer](venus_mobile_explorer.md)|≠ **ВМИ** — венерианский мобильный исследователь|
-| |・ **VOS** — [Venus Observing System](venus_observing_system.md)|≠ **ВОС** — венерианская обзорная система|
+| |**TTC, TT&C** — telemetry tracking command| |
+|**U**|**UDSC** — [Usuda deep space center](udsc.md)|≠ **ДКСУ** — центр дальней космической связи Усуда|
+| |**USFDD** — unified system for design documentation|≠ **ЕСКД** — [единая система конструкторской документации](eskd.md)|
+| |**USFPD** — unified system for program socumentation|≠ **ЕСПД** — [единая система программной документации](espd.md)|
+| |**USOTD** — unified system of technological documentation|≠ **ЕСТД** — [единая система технологической документации](estd.md)|
+| |**USOTPP** — unified system of technological preparation of production|≠ **ЕСТПП** — [единая система технологической подготовки производства](estpp.md)|
+|**V**|**[V‑model](v_model.md), Systems engineering V**|≠ Ви-модель|
+| |**V&V** — [verification & validation](vnv.md)|Верификация и валидация|
+| |**[Venus](venus.md)**|Венера|
+| |・**VFM** — [Venus Flagship Mission](venus_flagship_mission.md)|≠ **ВФМ** — венерианская флагманская миссия|
+| |・**VME** — [Venus Mobile Explorer](venus_mobile_explorer.md)|≠ **ВМИ** — венерианский мобильный исследователь|
+| |・**VOS** — [Venus Observing System](venus_observing_system.md)|≠ **ВОС** — венерианская обзорная система|
 | |・**[Voyager](voyager.md)**|≠ **Вояджер**|
-| |・ **VSRM** — [Venus Sample Return Mission](venus_sample_return_mission.md)|≠ **ВМВГ** — венерианская миссия по возврату грунта|
+| |・**VSRM** — [Venus Sample Return Mission](venus_sample_return_mission.md)|≠ **ВМВГ** — венерианская миссия по возврату грунта|
 |**W**|**Warm gas**|Тёплый газ. 2‑компонентный газовый двигатель|
-| |**White paper**|[Белая книга](colour_papers.md)|
+| |**WBS** — [work breakdown structure](plan.md)|≠ **ЕСП** — единый сквозной план|
+| |**[White paper](colour_papers.md)**|Белая книга|
 |**X**|**XRF** — [X‑ray fluorescence](xrf.md)|**РФА** — рентгенофлуоресцентный анализ|
 | |・**[Xcraft](xcraft.md)**|≠ **Икскрафт**|
-|**Y**|**YARUD** — yet another rapid unscheduled disassembly|≠ **ПОБНР** — просто очередная быстрая незапланированная разборка|
-| |**Yellow paper**|[Жёлтая книга](colour_papers.md)|
+|**Y**|**YARUD** — yet another rapid unscheduled disassembly|≠ **ПОБНР** — очередная быстрая незапланированная разборка|
+| |**[Yellow paper](colour_papers.md)**|Жёлтая книга|
 |**Z**|**ZTJ** — 3rd Generation Triple-Junction [solar cell](sp.md)|≠ **МСЭ** — 3‑е поколение трёхкаскадных солнечных элементов|
 
 </small>
@@ -256,8 +282,6 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**АТ** — [азотный тетраоксид](nto.md)|**NTO** — dinitrogen tetroxide / nitrogen tetroxide|
 | |┕|≈ **MON** — mixed oxides of nitrogen|
 | |**АТ + НДМГ** — [азотный тетраоксид и несимметричный диметил гидразин](nto_plus.md)|**NTO + UDMH** — dinitrogen tetroxide + unsymmetrical dimethylhydrazine|
-| |**Амосфера**|Atmosphere|
-| |**АТТ** — [аксиальная тепловая труба](hp.md)|**HP** — heat pipe|
 | |**АФС** — [антенно‑фидерная система](afdev.md)|**AFDEV** — antenna feeder device|
 | |**АФУ** — [антенно‑фидерное устройство](afdev.md) (see [Радиосвязь](comms.md))|**AFDEV** — antenna feeder device|
 | |**АЦП** — аналого‑цифровой преобразователь|**ADC** — analog‑to‑digital converter|
@@ -273,7 +297,6 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**БВС** — бортовая вычислительная сеть|≠ **OBCN** — onboard computer network|
 | |**БДПТ** — бесконтактный двигатель постоянного тока|≠ **NCDCM** — noncontacting direct current motor|
 | |**[Безопасность](qm.md)**|Safety|
-| |**[Белая книга](colour_papers.md)**|White paper|
 | |**[Бережливое производство](lean_man.md)**|Lean manufacturing / Lean production|
 | |**БИБ** —[ бесплатформенный инерциальный блок](iu.md)|≠ **SDIRU** — strap down inertial reference unit|
 | |**БИВК** — [бортовой информационный вычислительный комплекс](obc.md)|Computer|
@@ -315,7 +338,6 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**БЭК** — [безэховая камера](ach.md)|**ACH** — anechoic chamber|
 | |**БЭКГ** — [безэховая газовая камера](ach.md)|**ACHG** — anechoic gas chamber|
 |**В**|**ВА** — возвращаемый аппарат (see [СхД](drawing.md))|**REVE** — reentry vehicle / return vehicle|
-| |**[Валидация](val_ver.md)**|Validation|
 | |**[ВБР](qm.md)** — вероятность безотказной работы|Reliability|
 | |**ВБУ КТ** — [внутрибаковое устройство капиллярного типа](cinu.md)|≠ **CITD** — capillary innertank device|
 | |**ВВТ** — вооружение и военная техника|≠ **WAMEQ** — weapons & military equipment|
@@ -326,8 +348,6 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ВД** — [видимый диапазон](rf.md)|**VS** — visible spectrum|
 | |**ВЕД** — [ведомость документации](liod.md)|≠ **LIOD** — list of documentation|
 | |**[Ведомство](agency.md)**|≈ Agency|
-| |**[Венера](venus.md)**|Venus|
-| |**[Верификация](val_ver.md)**|Verification|
 | |**[Вето](veto.md)**|Veto|
 | |**ВДМ** — [вибродинамическая модель](drawing.md)|≠ Vibrodynamic model|
 | |**ВЗВ** — [видимая звёздная величина](app_mag.md)|Apparent magnitude|
@@ -469,21 +489,10 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 
 | |*Ru*|*En*|
 |:--|:--|:--|
-|**Е**|**ЕКА** — [Европейское космическое агентство](contact/esa.md)|**ESA** — [European Space Agency](contact/esa.md)|
-| |**ЕСКД** — [единая система конструкторской документации](eskd.md)|≠ **USFDD** — unified system for design documentation|
-| |**ЕСП** — [единый сквозной план](plan.md)|≠ **WBS** — work breakdown structure|
-| |**ЕСПД** — [единая система программной документации](espd.md)|≠ **USFPD** — unified system for program socumentation|
-| |**ЕСТД** — [единая система технологической документации](estd.md)|≠ **USOTD** — unified system of technological documentation|
-| |**ЕСТПП** — [единая система технологической подготовки производства](estpp.md)|≠ **USOTPP** — unified system of technological preparation of production|
-|**Ж**|**ЖРД** — [жидкостный ракетный двигатель](engine_type.md)|**LPR** — liquid-propellant rocket / liquid rocket|
-| |**ЖРДУ** — жидкостная ракетная двигательная установка|**LPRS** — liquid-propellant rocket propulsion system / liquid rocket propulsion system|
-| |**Журнал изменений** (see [ИИ](ch_notice.md))|Change notice|
-| |**ЖЦИ** — [жизненный цикл изделия](pl.md)|**PL** — product lifecycle (see PLM)|
 |**З**|**[Задел](margin.md)**|Margin|
 | |**[Заключение на этап ОКР](report_rndc.md)**|≠ Conclusion report for R&D phase|
 | |**[Законы развития техники](td_laws.md)**|Technology derivative laws|
 | |**ЗД** — [звёздный датчик](sensor.md)|**ST** — star tracker|
-| |**[Зелёная книга](colour_papers.md)**|Green paper|
 | |**ЗИП** — запасные части, инструменты, принадлежности|**SPRK** — spare parts kit|
 | |**ЗПГ** — зона полезного груза|≠ Payload zone|
 | |**[Зрение](view.md)**|View|
@@ -721,8 +730,6 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**МК** — [менеджер по качеству](mgmt.md)|Quality assurance manager|
 | |**МКА** — [многоразовый космический аппарат](sc.md)|Re‑entry space vehicle|
 | |**МКВ** — менеджмент качества|**QM** — quality management|
-| |**МКИО** — [мультиплексный канал информационного обмена](mil_std_1553.md)|[MIL-STD-1553](mil_std_1553.md)|
-| |**МКО** — [мультиплексный канал обмена](mil_std_1553.md)|[MIL-STD-1553](mil_std_1553.md)|
 | |**МКС** — [многоразовая космическая система](scs.md)|≠ Reusable space system|
 | |**МКУ** — матричная команда управления|≠ Matrix steering signal|
 | |**МКТС** — [многоразовая космическая транспортная система](sc.md)|Reusable space transport system|
@@ -855,7 +862,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ОИСЛ** — орбита искусственного спутника Луны|**LSatO** — Lunar satellite orbit|
 | |**ОИСП** — отбраковочные испытания|Go‑no‑go tests|
 | |**ОК** — оперативный контроль|Operational inspection|
-| |**ОКА** — обеспечение качества|**QA** — quality assurance|
+| |**ОКА** — обеспечение качества|**QA** — [quality assurance](qm.md)|
 | |**ОКБ** — опытно‑конструкторское бюро|≠ Development design studio|
 | |**ОКИ** — объекты космической инфраструктуры|≠ Space infrastructures objects|
 | |**ОКИН** — оперативно‑контрольная информация|≠ On‑line check information|
@@ -1109,7 +1116,6 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Сидерический период](astroperiod.md)**|Sidereal period|
 | |**СИЛК** — система измерения Лунных координат|≠ Lunar coordinater masurement system|
 | |**Синдром неприятия чужой разработки**|**NIH** — [not invented here](nih.md)|
-| |**[Синяя книга](colour_papers.md)**|Blue paper|
 | |**[Система управления версиями](vcs.md)**|**VCS** — version control system|
 | |**[Ситуационное лидерство](situ_leadership.md)**|Situational leadership|
 | |**[Сборочный чертёж](drawing.md)**|Assembly drawing|
@@ -1240,7 +1246,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Типичные ошибки](error.md)**|≠ Typical mistakes in documents|
 | |**[Типичные формы КА](sc.md)**|≠ Typical spacecrafts shapes|
 | |**Типовые даты разработки документации**|≠ Typical duration of documentation development|
-| |**[Типографика](typography.md)**|Typography|
+| |**[Типографика](faq.md)**|Typography|
 | |**ТК** — [технический комплекс](tech_complex.md)|Technical complex|
 | |**ТК РФ** — [трудовой кодекс РФ](labour_code_ru.md)|Labour code|
 | |**ТЛ** — [точка Лагранжа](l_points.md)|[Lagrangian points](l_points.md) / Lagrange points / L‑points / Libration points|
@@ -1295,8 +1301,6 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**УДК** — [универсальная десятичная классификация](udc.md)|**UDC** — universal decimal classification|
 | |**УДМ** — [управляющий двигатель‑маховик](iu.md)|**CMG** — control moment gyroscope|
 | |**[Узел орбиты](nnb.md)**|Orbital node|
-| |**УЗК** — [уровни зрелости концепта](cml.md)|**CML** — concept maturity levels|
-| |**УЗУ** — [уровни зрелости управления](mml.md)|**MML** — [modeling maturity mevels](mml.md)|
 | |**УИ** — [удельный импульс](isp.md)|**Isp** — specific impulse|
 | |**[Указание](instruction.md)**|Instruction|
 | |**УКа** — управление качеством|**QC** — quality control|
@@ -1329,15 +1333,11 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ФЭП** — [фотоэлектрический преобразователь](sp.md)|**SC** — solar cell|
 | |・**[Фобос‑Грунт](фобос_грунт.md)** (…)|≠ **Phobos-Grunt** (…)|
 | |・**[Фрегат](fregat.md)** (…)|≠ **Fregat** (…)|
-|**Х**|**ХИТ** — [химический источник тока](eb.md)|**EB** — [electric battery](eb.md)|
-| |**Хмель** — единица фильтрации оппонента (see [СИ](si.md))|≠ **Hmel** — base unit of opponent filtration|
-| |**ХРИП** — [хранение, разработка, исследования, планирование](adra.md)|≠ **ADRA** — archives, development, research, administration|
-| |┕|≈ **PC** — primary cell|
 |**Ц**|**ЦА** — [целевая аппаратура](sc.md)|**PL** — payload|
 | |**ЦА** — целевая аудитория|Target audience|
 | |**ЦБ** — центральный блок|≠ Central unit|
 | |**ЦВМ** — [цифровая вычислительная машина](obc.md)|**OBC** — on‑board computer|
-| |**ЦГМ** — [циклограмма](obc.md)|≈ Timeline|
+| |**ЦГМ** — [циклограмма](timeline.md)|≈ Timeline|
 | |**ЦДСК** — центр дальней космической связи|**DSCC** — deep‑space communication centers|
 | |**ЦИ** — целевая информация|≠ **TAI** — target information|
 | |**[Цилиндр О’Нилла](oneill_cyl.md)**|O’Neill cylinder|
@@ -1350,16 +1350,11 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ЦСАКП** — центр стационарного анализа, координации и планирования|≠ Center for in‑patient analysis, coordination & planning|
 | |**ЦСКТ** — центр сертификации ракетно‑космической техники|≠ Center for Space Technology|
 | |**ЦТ** — [центр тяжести](mic.md)|**CoG** — center of gravity|
-| |**ЦУП** — [центр управления полётами](scs.md)|**MCC** — mission control center|
 | |┕|≈ **LCC** — launch control center|
 |**Ч**|**ЧаВо** — [частые вопросы](faq.md)|**FAQ** — [frequently asked questions](faq.md)|
 | |**Человеко‑час** (see [Оценка стоимости работ](contact/lav.md))|Man‑hour / Person‑hour|
 | |**ЧОВ** — [чертёж общего вида](drawing.md)|≈ **TD** — technical drawing (drafting / drawing)|
 | |・**[Чибис‑М](чибис_м.md)** (…)|≠ **Chibis-M** (…)|
-|**Ш**|**ШВ** — [шкала времени](time.md)|Timescale / Timeline|
-| |**ШИ** — [штатное изделие](flight_unit.md)|≠ Flight unit|
-| |**ШО** — [штатный образец](flight_unit.md)|≠ Flight unit|
-| |**ШР** — широкополосный режим|**BBM** — broadband mode|
 |**Э**|**ЭВМ** — [электронная вычислительная машина](obc.md)|Computer|
 | |**ЭВТИ** — [экранно‑вакуумная теплоизоляция](mli.md)|**MLI** — multi‑layer insulation|
 | |**ЭД** — [эксплуатационная документация](doc.md)|Operational documentation|
@@ -1404,8 +1399,5 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |・**[Электро‑Л](электро_л.md)** (…)|≠ **Electro-L** (…)|
 | |・**[Электро‑М](электро_м.md)** (…)|≠ **Electro-M** (…)|
 | |・**[Эллипс‑ВКК](эллипс_вкк.md)** (…)|≠ **Ellips-VVK** (…)|
-|**Я**|**ЯР** — [ядерный реактор](nr.md)|**NR** — nuclear reactor|
-| |**ЯРДУ** — [ядерная ракетная двигательная установка](engine_type.md)|**NTR** — nuclear thermal rocket|
-| |**ЯЭДУ** — ядерная электродвигательная установка|**NER** — nuclear electric rocket|
 
 </small>

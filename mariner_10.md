@@ -9,7 +9,7 @@
 
 **Mariner 10** was an American spacecraft launched by NASA on November 3, 1973, to fly by the planets Mercury & Venus. It was the first spacecraft to perform fly‑bys of multiple planets. Mariner 10 was the last spacecraft in the Mariner program.
 
-[![](f/project/m/mariner_10/pic01_thumb.jpg)](f/project/m/mariner_10/pic01.webp)
+[![](f/project/m/mariner_10/pic01_thumb.webp)](f/project/m/mariner_10/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -171,7 +171,7 @@ The power subsystem used two redundant sets of circuitry, each containing a boos
 
 Thermal blankets & a sunshade were installed on the main body. After evaluating different choices for the sunshade cloth material, mission planners chose beta cloth, a combination of aluminized Kapton & glass-fiber sheets treated with Teflon.
 
-[![](f/project/m/mariner_10/pic02_thumb.jpg)](f/project/m/mariner_10/pic02.jpg)
+[![](f/project/m/mariner_10/pic02_thumb.webp)](f/project/m/mariner_10/pic02.jpg)
 
 
 

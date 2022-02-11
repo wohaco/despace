@@ -1,7 +1,7 @@
 # WeSpace Technologies Ltd.
 > 20211.11.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/w/wespace_tech_logo1_thumb.jpg)](../f/con/w/wespace_tech_logo1.png)|<info@wespacetech.com>, <mark>noworkphone</mark>, Fax: … ;<br> *HaNofar St 1, Ra'anana, Israel*<br> 【<http://www.wespacetech.com/>】|
+|[![](../f/contact/w/wespace_tech_logo1_thumb.webp)](../f/contact/w/wespace_tech_logo1.png)|<info@wespacetech.com>, <mark>noworkphone</mark>, Fax: … ;<br> *HaNofar St 1, Ra'anana, Israel*<br> 【<http://www.wespacetech.com/>】|
 |:--|:--|
 |**Mission**|To develop a leading‑edge profitable company for space exploration vehicles|
 |**Vision**|Our goal is to position WeSpace Technologies Ltd. as a leading innovator of space technology, enabling exploration, fostering deep‑space discoveries|

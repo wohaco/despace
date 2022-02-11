@@ -1,7 +1,7 @@
 # CE Space
 > 2020.07.16 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/c/canon_elec_logo1_thumb.jpg)](../f/con/c/canon_elec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://en.canon-elec.co.jp/space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canon-electronics-inc-/)】|
+|[![](../f/contact/c/canon_elec_logo1_thumb.webp)](../f/contact/c/canon_elec_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://en.canon-elec.co.jp/space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canon-electronics-inc-/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

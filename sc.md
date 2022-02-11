@@ -39,7 +39,7 @@
 |:--|:--|
 |**AE**|…|
 |**AU**|…|
-|**CA**|・[ADGA](contact/adga.md) — space systems engineering<br> ・[AQST Canada](contact/aqst_ca.md)<br> ・[BRASS](contact/brass.md) — design consultancy<br> ・[C-CORE](contact/c_core.md) — technology consultancy<br> ・[Canadensys](contact/canadensys.md)<br> ・[Magellan Aerospace](contact/magellan_as.md)<br> ・[MDA](contact/mda.md) — Earth sats<br> ・[MSCI](contact/msci.md)<br> ・[SatCan](contact/satcan.md) — engineering & business consultancy for sat telecom & space tech sectors<br> ・[Space Concordia](contact/space_concordia.md) — (Student community) CubeSats<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
+|**CA**|・[ADGA](contact/adga.md) — space systems engineering<br> ・[AQST Canada](contact/qstc.md)<br> ・[BRASS](contact/brass.md) — design consultancy<br> ・[C-CORE](contact/c_core.md) — technology consultancy<br> ・[Canadensys](contact/canadensys.md)<br> ・[Magellan Aerospace](contact/magellan_as.md)<br> ・[MDA](contact/mda.md) — Earth sats<br> ・[MSCI](contact/msci.md)<br> ・[SatCan](contact/satcan.md) — engineering & business consultancy for sat telecom & space tech sectors<br> ・[Space Concordia](contact/space_concordia.md) — (Student community) CubeSats<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
 |**CN**|…|
 |**EU**|…|
 |**IL**|…|
@@ -417,10 +417,10 @@ Below is a list & characteristics of materials used in the space (and not so) in
 
 ### Materials
 
-The use of the following materials in a SC (especially, in parts interacting with an atmosphere or soil or affecting SC actions) shall be deliberately limited: diamond, platinoids, silicon carbide, Ag, As, Au, Bi, Cu, Ga, Ge, In, Ni, Sn, Sb, Se, Te, Zn.
-
+   - The use of the following materials in a SC (especially, in parts interacting with an atmosphere or soil or affecting SC actions) shall be deliberately limited — Diamond, Platinoids, Silicon carbide, Ag, As, Au, Bi, [Cu](copper.md), Ga, Ge, In, [Ni](nickel.md), [Sn](tin.md), Sb, Se, Te, Zn.
    - [Fuel](fuel.md)
    - [Materials characteristics](matc.md)
+
 
 |*Gas*|*Liquid*|*Metal*|*Non‑metal*|
 |:--|:--|:--|:--|

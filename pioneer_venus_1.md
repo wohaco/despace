@@ -9,7 +9,7 @@
 
 **Pioneer Venus Orbiter**, also known as *Pioneer Venus 1* or *Pioneer 12*, was a mission to Venus conducted by the United States as part of the Pioneer Venus project. Launched in May 1978 atop an Atlas‑Centaur rocket, the spacecraft was inserted into an elliptical orbit around Venus on December 4, 1978. It returned data on Venus until October 1992.
 
-[![](f/project/p/pioneer_venus_1/pic01_thumb.jpg)](f/project/p/pioneer_venus_1/pic01.jpg)
+[![](f/project/p/pioneer_venus_1/pic01_thumb.webp)](f/project/p/pioneer_venus_1/pic01.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -79,7 +79,7 @@ The orbiter went into orbit around Venus on Dec. 4, 1978 ([EVN‑005](venus.md))
 
 On Venus, as on Earth, there are mountains, plains, lowlands. Mountain areas occupy 8 % of the planet’s surface. About 27 % of the surface of Venus is lowland. They are concentrated in two intersecting belts, the outlines of which resemble the letter “X”. On Venus, as on Earth, traces of tectonic activity were found. The volcanic activity of Venus is evidenced by the “youth” of some details of its relief. But it was also concluded that tectonic activity on Venus is less active than on Earth ([EVN‑029](venus.md)).
 
-[![](f/project/p/pioneer_venus_1/pic04_thumb.jpg)](f/project/p/pioneer_venus_1/pic04.jpg)
+[![](f/project/p/pioneer_venus_1/pic04_thumb.webp)](f/project/p/pioneer_venus_1/pic04.jpg)
 
 Also, from its orbit of Venus, the Pioneer Venus Orbiter was able to observe Halley’s Comet when it was unobservable from Earth due to its proximity to the sun during February 1986. UV spectrometer observations monitored the loss of water from the comet’s nucleus at perihelion on February 9.
 

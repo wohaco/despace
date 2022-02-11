@@ -1,7 +1,7 @@
 # CSIRO
 > 2021.04.23 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/c/csiro_logo1_thumb.png)](../f/con/c/csiro_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://www.csiro.au/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/CSIRO)・ [LinkedIn ⎆](https://www.linkedin.com/company/csiro/)】|
+|[![](../f/contact/c/csiro_logo1_thumb.png)](../f/contact/c/csiro_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://www.csiro.au/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/CSIRO)・ [LinkedIn ⎆](https://www.linkedin.com/company/csiro/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

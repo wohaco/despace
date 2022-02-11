@@ -47,7 +47,7 @@
 
 **Photocell**, also **photoelectric converters (PEC)** — an electronic device that converts the energy of photons into electrical energy. **Solar cell (SС)** is a direct converter of photon energy into electrical energy.
 
-[![](f/sps/solar_cell_4inch_poly_thumb.jpg)](f/sps/solar_cell_4inch_poly.jpg)  
+[![](f/sps/solar_cell_4inch_poly_thumb.webp)](f/sps/solar_cell_4inch_poly.jpg)  
 *Photocell based on multicrystalline silicon*
 
 Subdivided into vacuum & semiconductor photocells. The operation of the device is based on photoelectron emission or internal photoelectric effect.
@@ -68,21 +68,21 @@ The most effective, from the power engineering point of view, devices for conver
    - Gallium arsenide (GaAs) is a compound of gallium & arsenic. An important semiconductor, the third most widely used after Si & Ge. More efficient & lighter than Si, but more expensive. Efficiency 28.5 % for the SC [Luna-26](luna_26.md).
    - Silicon (Si).
 
-**Table.** Power of the solar cell, W/m² (at the beginning / after 3 years / after 5 years)  
-<small> The average fill factor is taken equal to 0.82 (For 2020). PEC degradation is taken at 3 ‑ 5 %/year for the first 5 years. </small>
+【**Table.** Power of the solar cell, W/m² (at the beginning ・ in 3 years ・ in 5 years)】  
+The average filling factor is ~0.83 (For 2020). PEC degradation is ~3 ‑ 5 %/y for the first 5 years.
 
 |*Planet*|*PEC type*|*In orbit*|*On the surface*|
 |:--|:--|:--|:--|
-|[Venus](venus.md)|GaAs, efficiency 28.5 %|500 / 468 / 458|… / … / …|
-| |Si, efficiency 21.3 %|374 / 350 / 342|… / … / …|
-|[Earth](earth.md)|GaAs, efficiency 28.5 %|255 / 239 / 234|… / … / …|
-| |Si, efficiency 21.3 %|190 / 178 / 175|… / … / …|
-|[Moon](moon.md)|GaAs, efficiency 28.5 %|255 / 239 / 234|234 / 220 / 215|
-| |Si, efficiency 21.3 %|190 / 178 / 175|175 / 164 / 160|
-|[Mars](mars.md)|GaAs, efficiency 28.5 %|109 / 103 / 101|… / … / …|
-| |Si, efficiency 21.3 %|81 / 76 / 75|… / … / …|
-|[Mercury](mercury.md)|GaAs, efficiency 28.5 %|1 500 / 1 405 / 1 375|… / … / …|
-| |Si, efficiency 21.3 %|1 121 / 1 050 / 1 027|… / … / …|
+|[Earth](earth.md)|GaAs, efficiency 28.5 %|311 ・ 275 ・ 254|… ・ … ・ …|
+| |Si, efficiency 21.3 %|232 ・ 205 ・ 189|… ・ … ・ …|
+|[Mars](mars.md)|GaAs, efficiency 28.5 %|133 ・ 118 ・ 108|… ・ … ・ …|
+| |Si, efficiency 21.3 %|99 ・ 87 ・ 81|… ・ … ・ …|
+|[Mercury](mercury.md)|GaAs, efficiency 28.5 %|1 829 ・ 1 618 ・ 1 492|… ・ … ・ …|
+| |Si, efficiency 21.3 %|1 367 ・ 1 209 ・ 1 115|… ・ … ・ …|
+|[Moon](moon.md)|GaAs, efficiency 28.5 %|311 ・ 275 ・ 254|285 ・ 252 ・ 232|
+| |Si, efficiency 21.3 %|232 ・ 205 ・ 189|213 ・ 188 ・ 174|
+|[Venus](venus.md)|GaAs, efficiency 28.5 %|610 ・ 540 ・497|… ・ … ・ …|
+| |Si, efficiency 21.3 %|456 ・ 403 ・ 372|… ・ … ・ …|
 
 
 

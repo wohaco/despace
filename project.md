@@ -322,7 +322,7 @@
 
 
 ### Деньги
-[![](f/project/incubator/cost_world_thumb.jpg)](f/project/incubator/cost_world.png)
+[![](f/project/incubator/cost_world_thumb.webp)](f/project/incubator/cost_world.png)
 
 **Таблица.** Затраты на космос различных стран в 2018 году. (<https://spacenews.com/op-ed-global-government-space-budgets-continues-multiyear-rebound/>, [Редактируемый файл ❐](f/project/incubator/cost_world.ods))
 
@@ -606,7 +606,7 @@
 
 Для: [Venus](venus.md)
 
-   - [Пилотируемые исследования Венеры водородными аэростатами. Н.Н. Жолонко](book_jolonko_pivva.md) (2013, Москва)
+   - [Пилотируемые исследования Венеры водородными аэростатами. Н.Н. Жолонко](book_jolonko_piv.md) (2013, Москва)
 
 
 

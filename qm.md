@@ -16,6 +16,14 @@
    - **Risks**
    - **Safety**
 
+**5 C's** of system architecture quality:
+
+   1. Correct
+   1. Complete
+   1. Clear
+   1. Concise
+   1. Consistent
+
 
 
 ## Safety
@@ -271,7 +279,7 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 
 |*Общий вид*|*Методика определения В×П*|
 |:--|:--|
-|[![](f/srrq/risk_summary_sample_thumb.jpg)](f/srrq/risk_summary_sample.png)|[![](f/srrq/risk_lxc_thumb.jpg)](f/srrq/risk_lxc.png)|
+|[![](f/srrq/risk_summary_sample_thumb.webp)](f/srrq/risk_summary_sample.png)|[![](f/srrq/risk_lxc_thumb.webp)](f/srrq/risk_lxc.png)|
 
 
 
@@ -426,7 +434,7 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Безопасность:`**<br> [NFPA 704](nfpa_704.md)・ [Класс опасности](danger_goods.md)・ [Класс чистоты](clean_lvl.md)|
-|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
+|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](vnv.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 |**`Риск:`**<br> [Критичные элементы](sens_elem.md)|
 
    1. Docs:

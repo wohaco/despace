@@ -10,8 +10,6 @@
 
 **Propulsion system (PS) of the SC** — [SC](sc.md) system, providing its acceleration. Designed for: ➀ creating thrust impulses during active SC maneuvers & landing; ➁ creation of reactive control torques around the three axes of the SC for the purpose of orientation & stabilization of the SC, calming the SC after separation from [LV](lv.md), constructing solar orientation & stabilizing the SC in solar orientation, stabilizing the SC during unloading [RW](iu.md) & conducting active maneuvers.
 
-**Notes:**
-
    1. **Varieries:**
       - **combined propulsion system (CPS)** *(ru. объединённая двигательная установка, ОДУ)* — propulsion system of the orbiter, designed to perform all dynamic operations in flight
       - **corrective braking propulsion system (CBPS)** *(ru. корректирующая тормозная двигательная установка, КТДУ)*
@@ -41,15 +39,15 @@
 
 
 ## Engines
-**A table.** Engines
+【**Table.** Engines】
 
 | |*[Company](contact.md)*|*Models of engines (thrust, N), ordered ascending thrust*|
 |:--|:--|:--|
-|**EU**|[OPC LAM](contact/opc_lam.md)|**Liq. (1c.)** — [1NMHT](engine_lst.md) (1)・ [20NMHT](engine_lst.md) (20)・ [400NMHT](engine_lst.md) (400);<br> **Liq. (2c.)** — [S10](engine_lst.md) (10)・ [S200](engine_lst.md) (216)・ [S400](engine_lst.md) (420);<br> **El.** — [RIT µX](engine_lst.md) (0.000275)・ [RIT 10](engine_lst.md) (0.0005)・ [RIT 2X](engine_lst.md) (0.07 ‑ 0.215)|
+|**EU**|[OPC LAM](contact/opc_lam.md)|**Liq. (1c.)** — [1NMHT](engine_lst.md) (1)・ [20NMHT](engine_lst.md) (20)・ [400NMHT](engine_lst.md) (400);<br> **Liq. (2c.)** — [S10](engine_lst.md) (10)・ [S200](engine_lst.md) (216)・ [S400](engine_lst.md) (420);<br> **El.** — [RIT µX](engine_lst.md) (0.00005 ‑ 0.0005)・ [RIT 10](engine_lst.md) (0.005 ‑ 0.025)・ [RIT 2X](engine_lst.md) (0.07 ‑ 0.215)|
 |•|• • • • • • • •|• • •|
 |**JP**|[IHI](contact/ihi.md)|**Liq. (1c.)** — [MT-9](engine_lst.md) (1)・ [MT-8A](engine_lst.md) (4)・ [MT-2](engine_lst.md) (20)・ [MT-6](engine_lst.md) (50);<br> **Liq. (2c.)** — [IHI 22N](engine_lst.md) (22)・ [IHI 120N](engine_lst.md) (120)・ [IHI 450N](engine_lst.md) (450)・ [IHI 490N](engine_lst.md) (490)・ [BT‑4](engine_lst.md) (500)|
 | |[Mitsubishi HVI](contact/mitsubishi.md)| |
-| |[Pale Blue](contact/pale_blue_inc.md)|**El.** — [Water Ion Thruster](engine_lst.md) (0.000221)・ [Water Resistojet Thruster](engine_lst.md) (0.002)|
+| |[Pale Blue](contact/pale_blue_inc.md)|**El.** — [WIT](engine_lst.md) (0.000221)・ [WRT](engine_lst.md) (0.002)|
 |•|• • • • • • • •|• • •|
 |**RU**|[AvantSpace](contact/avantspace.md)|**El.** — [GT-50](engine_lst.md) (0.006)|
 | |[Energomash](энергомаш.md)|**Liq. (2c.)** — …;<br> **Nuc.** — …|

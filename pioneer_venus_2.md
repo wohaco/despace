@@ -9,7 +9,7 @@
 
 **The Pioneer Venus Multiprobe**, also known as *Pioneer Venus 2* or *Pioneer 13*, was a spacecraft launched in 1978 to explore Venus as part of NASA’s Pioneer program. This part of the mission included a spacecraft bus which was launched from Earth carrying one large and three smaller probes, which after separating penetrated the Venusian atmosphere at a different location, returning data as they descended into the planet’s thick atmosphere. The entry occurred on December 9, 1978.
 
-[![](f/project/p/pioneer_venus_2/pic01_thumb.jpg)](f/project/p/pioneer_venus_2/pic01.jpg) [![](f/project/p/pioneer_venus_2/pic02_thumb.jpg)](f/project/p/pioneer_venus_2/pic02.jpg)
+[![](f/project/p/pioneer_venus_2/pic01_thumb.webp)](f/project/p/pioneer_venus_2/pic01.jpg) [![](f/project/p/pioneer_venus_2/pic02_thumb.webp)](f/project/p/pioneer_venus_2/pic02.jpg)
 
 <p style="page-break-after:always"> </p>
 
@@ -81,7 +81,7 @@ Prior to the Multiprobe reaching Venus, the four probes were deployed from the m
 
 All probes entered the venusian atmosphere within 11 minutes of each other, and descended toward the surface over approximately an hour-long period, sending back data to the Earth ([EVN‑003](venus.md)). Two of the probes survived impact, and one of them transmitted data for 67 minutes before being crushed ([EVN‑006](venus.md)). These probes confirmed clouds composed mainly of sulfuric acid droplets ([EVN‑018](venus.md)). The Bus entered the atmosphere at 20:21:52 UTC, and returned its last signal at 20:22:55 from an altitude of 110 ㎞.
 
-[![](f/project/p/pioneer_venus_2/pic04_thumb.jpg)](f/project/p/pioneer_venus_2/pic04.png)
+[![](f/project/p/pioneer_venus_2/pic04_thumb.webp)](f/project/p/pioneer_venus_2/pic04.png)
 
 **Scientific results**
 
@@ -108,7 +108,7 @@ All four probes were to enter the planet’s atmosphere at the same time and con
 
 The instrument composition of the large probe included a neutral particle mass spectrometer, a gas chromatograph, temperature, pressure, acceleration sensors, solar and infrared radiometers, a cloud particle spectrometer and a nephelometer. Three small probes, weighing 90 ㎏ each, using temperature sensors, pressure, acceleration, nephelometers and balance radiometer to study the radiation balance in the atmosphere.
 
-[![](f/project/p/pioneer_venus_2/pic06_thumb.jpg)](f/project/p/pioneer_venus_2/pic06.jpg)
+[![](f/project/p/pioneer_venus_2/pic06_thumb.webp)](f/project/p/pioneer_venus_2/pic06.webp)
 
 **HS-507 Bus**
 

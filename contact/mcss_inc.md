@@ -1,7 +1,7 @@
 # MCSS Inc.
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/m/mcss_inc_logo1_thumb.jpg)](../f/con/m/mcss_inc_logo1.png)|<mark>noemail</mark>, +1(613)518-39-55, Fax: …;<br> *162 Elm St. West, Ottawa, ON K1R 6N5, Canada*<br> 【<https://missioncontrolspaceservices.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/mission-control-space-services)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Mission_Control_Space_Services)】|
+|[![](../f/contact/m/mcss_inc_logo1_thumb.webp)](../f/contact/m/mcss_inc_logo1.png)|<mark>noemail</mark>, +1(613)518-39-55, Fax: …;<br> *162 Elm St. West, Ottawa, ON K1R 6N5, Canada*<br> 【<https://missioncontrolspaceservices.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/mission-control-space-services)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Mission_Control_Space_Services)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

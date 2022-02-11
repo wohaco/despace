@@ -20,7 +20,7 @@
 |Physical Media|wire pair|
 |Voltage Levels|18 ‑ 27 V across the transmitter stub (~6.36 ‑ 9.54 V peak‑to‑peak driven on to the bus)|
 
-[![](f/cable/mil_std_1553_1_thumb.jpg)](f/cable/mil_std_1553_1.jpg)
+[![](f/cable/mil_std_1553_1_thumb.webp)](f/cable/mil_std_1553_1.jpg)
 
 **Revisions.** The standard is maintained by the US Dept. of Defense & the Society of Automotive Engineers.
 

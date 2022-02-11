@@ -1,7 +1,7 @@
 # ДОГОЗ
 > 2019.08.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/d/dogoz_logo1_thumb.jpg)](../f/con/d/dogoz_logo1.png)|<mark>noemail</mark>, +7(495)696-34-31, Fax: +7(495)696-34-31;<br> *Россия, 119160, г. Москва, ул. Знаменка, д. 19*<br> 【<http://structure.mil.ru/structure/ministry_of_defence/details.htm?:id=11389@egOrganization>】|
+|[![](../f/contact/d/dogoz_logo1_thumb.webp)](../f/contact/d/dogoz_logo1.png)|<mark>noemail</mark>, +7(495)696-34-31, Fax: +7(495)696-34-31;<br> *Россия, 119160, г. Москва, ул. Знаменка, д. 19*<br> 【<http://structure.mil.ru/structure/ministry_of_defence/details.htm?:id=11389@egOrganization>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

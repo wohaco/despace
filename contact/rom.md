@@ -1,7 +1,7 @@
 # R.o.M.
 > 2021.11.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/r/rom_logo1_thumb.jpg)](../f/con/r/rom_logo1.jpg)|<peter@robotic-mining.com>, +81(3)3353-57-99, Fax: … ;<br> *18-35 Minami Motomachi, Shinjuku-ku. Tokyo-ku 160-0012, JP*<br> 【<http://robotic-mining.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/robotic-mining)】|
+|[![](../f/contact/r/rom_logo1_thumb.webp)](../f/contact/r/rom_logo1.webp)|<peter@robotic-mining.com>, +81(3)3353-57-99, Fax: … ;<br> *18-35 Minami Motomachi, Shinjuku-ku. Tokyo-ku 160-0012, JP*<br> 【<http://robotic-mining.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/robotic-mining)】|
 |:--|:--|
 |**Mission**|Reach for the stars & transform the world to a Star Trek future, using robotics & AI to increase efficiencies & improve processes, not to replace humans|
 |**Vision**|Taking you to the future, today|
@@ -13,7 +13,7 @@
 
 Registered office: Suite 2, Level 1, 9-11 Grosvenor Street, Neutral Bay, NSW, Australia 2089
 
-[Description ❐](../f/con/r/rom_descr1.pdf) (2021.11.18)
+[Description ❐](../f/contact/r/rom_descr1.pdf) (2021.11.18)
 
 <p style="page-break-after:always"> </p>
 

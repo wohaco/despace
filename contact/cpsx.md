@@ -1,7 +1,7 @@
 # CPSX
 > 2019.08.16 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/c/cpsx_logo1_thumb.jpg)](../f/con/c/cpsx_logo1.png)|<cpsx@uwo.ca>, +1(519)661-21-11 ext 88508, Fax: +1(519)488-47-21;<br> *1151 Richmond Street, London, Ontario, N6A 3K7, Canada*<br> 【<https://cpsx.uwo.ca/>】|
+|[![](../f/contact/c/cpsx_logo1_thumb.webp)](../f/contact/c/cpsx_logo1.png)|<cpsx@uwo.ca>, +1(519)661-21-11 ext 88508, Fax: +1(519)488-47-21;<br> *1151 Richmond Street, London, Ontario, N6A 3K7, Canada*<br> 【<https://cpsx.uwo.ca/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -15,7 +15,7 @@
 |╟ GSLV Mk.II|Модификация GSLV Mk.I.|**Активен** (2010 ‑ …)|
 |╙ GSLV Mk.III  (LVM3)|Модификация GSLV Mk.I.|**Активен** (2009 ‑ …)|
 
-[![](f/lv/gslv/gslv_rf_01_thumb.jpg)](f/lv/gslv/gslv_rf_01.png)
+[![](f/lv/gslv/gslv_rf_01_thumb.webp)](f/lv/gslv/gslv_rf_01.png)
 
 
 
@@ -36,7 +36,7 @@
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
 |[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
-| |[![](f/lv/gslv/gslv_mk2_thumb.jpg)](f/lv/gslv/gslv_mk2.jpg)|
+| |[![](f/lv/gslv/gslv_mk2_thumb.webp)](f/lv/gslv/gslv_mk2.jpg)|
 
 **Выводимые массы.**
 
@@ -63,7 +63,7 @@
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
 |[Fuel](fuel.md)|[HTPB](htpb.md) (ускорители), [АТ + НДМГ](nto_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
-| |[![](f/lv/gslv/gslv_mk3_thumb.jpg)](f/lv/gslv/gslv_mk3.jpg) [![](f/lv/gslv/gslv_mk3_launcher_thumb.jpg)](f/lv/gslv/gslv_mk3_launcher.jpg)|
+| |[![](f/lv/gslv/gslv_mk3_thumb.webp)](f/lv/gslv/gslv_mk3.jpg) [![](f/lv/gslv/gslv_mk3_launcher_thumb.webp)](f/lv/gslv/gslv_mk3_launcher.jpg)|
 
 **Выводимые массы.**
 
@@ -92,7 +92,7 @@
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
 |[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
-| |[![](f/lv/gslv/gslv_thumb.jpg)](f/lv/gslv/gslv.png)|
+| |[![](f/lv/gslv/gslv_thumb.webp)](f/lv/gslv/gslv.png)|
 
 **Выводимые массы.**
 

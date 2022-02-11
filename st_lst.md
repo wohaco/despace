@@ -41,7 +41,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode|60 с от подачи питания|
 |Refresh rate, ㎐|5 (обеспечивается программно)|
-| |[![](f/sensor/348k_pic1_thumb.jpg)](f/sensor/348k_pic1.png)|
+| |[![](f/sensor/348k_pic1_thumb.webp)](f/sensor/348k_pic1.png)|
 
 **Notes:**
 
@@ -123,7 +123,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|10|
-| |[![](f/sensor/a/a_str_pic1_thumb.jpg)](f/sensor/a/a_str_pic1.png)|
+| |[![](f/sensor/a/a_str_pic1_thumb.webp)](f/sensor/a/a_str_pic1.png)|
 
 **Notes:**
 
@@ -165,7 +165,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|10|
-| |[![](f/sensor/a/aa_str_pic1_thumb.jpg)](f/sensor/a/aa_str_pic1.png)|
+| |[![](f/sensor/a/aa_str_pic1_thumb.webp)](f/sensor/a/aa_str_pic1.png)|
 
 **Notes:**
 
@@ -207,7 +207,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|0.5|
-| |[![](f/sensor/a/ad-1_thumb.jpg)](f/sensor/a/ad-1.png)|
+| |[![](f/sensor/a/ad-1_thumb.webp)](f/sensor/a/ad-1.png)|
 
 **Notes:**
 
@@ -249,7 +249,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/a/astro_10_pic1_thumb.jpg)](f/здa/astro_10_pic1.jpg)|
+| |[![](f/sensor/a/astro_10_pic1_thumb.webp)](f/здa/astro_10_pic1.jpg)|
 
 **Notes:**
 
@@ -291,7 +291,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/a/astro_15_pic1_thumb.jpg)](f/здa/astro_15_pic1.jpg)|
+| |[![](f/sensor/a/astro_15_pic1_thumb.webp)](f/здa/astro_15_pic1.jpg)|
 
 **Notes:**
 
@@ -333,7 +333,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|16|
-| |[![](f/sensor/a/astro_aps_pic1_thumb.jpg)](f/здa/astro_aps_pic1.jpg)|
+| |[![](f/sensor/a/astro_aps_pic1_thumb.webp)](f/здa/astro_aps_pic1.jpg)|
 
 **Notes:**
 
@@ -377,7 +377,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| | |
 |Ready mode| | |
 |Refresh rate, ㎐|5| |
-|[![](f/sensor/a/auriga_hydra_pic1_thumb.jpg)](f/sensor/a/auriga_hydra_pic1.jpg)|[![](f/sensor/a/auriga_pic2_thumb.jpg)](f/sensor/a/auriga_pic2.jpg)|[![](f/sensor/a/auriga_pic1_thumb.jpg)](f/sensor/a/auriga_pic1.jpg)|
+|[![](f/sensor/a/auriga_hydra_pic1_thumb.webp)](f/sensor/a/auriga_hydra_pic1.jpg)|[![](f/sensor/a/auriga_pic2_thumb.webp)](f/sensor/a/auriga_pic2.jpg)|[![](f/sensor/a/auriga_pic1_thumb.webp)](f/sensor/a/auriga_pic1.jpg)|
 
 **Notes:**
 
@@ -420,7 +420,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode|60 с от подачи питания|
 |Refresh rate, ㎐|1|
-| |[![](f/sensor/b/bokz-mf_pic1_thumb.jpg)](f/sensor/b/bokz-mf_pic1.jpg) [![](f/sensor/b/bokz-mf_pic2_thumb.jpg)](f/sensor/b/bokz-mf_pic2.jpg)|
+| |[![](f/sensor/b/bokz-mf_pic1_thumb.webp)](f/sensor/b/bokz-mf_pic1.jpg) [![](f/sensor/b/bokz-mf_pic2_thumb.webp)](f/sensor/b/bokz-mf_pic2.jpg)|
 
 **Notes:**
 
@@ -476,7 +476,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|10|
-| |[![](f/sensor/c/ct2020_pic1_thumb.jpg)](f/sensor/c/ct2020_pic1.jpg)|
+| |[![](f/sensor/c/ct2020_pic1_thumb.webp)](f/sensor/c/ct2020_pic1.jpg)|
 
 **Notes:**
 
@@ -518,7 +518,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|60 (8 опознаваемых звёзд) или 100 (4 звезды)|
-| |[![](f/sensor/h/hast_pic1_thumb.jpg)](f/sensor/h/hast_pic1.jpg)|
+| |[![](f/sensor/h/hast_pic1_thumb.webp)](f/sensor/h/hast_pic1.jpg)|
 
 **Notes:**
 
@@ -560,7 +560,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|4|
-| |[![](f/sensor/h/he_5as_pic1_thumb.jpg)](f/sensor/h/he_5as_pic1.jpg) [![](f/sensor/h/he_5as_pic2_thumb.jpg)](f/sensor/h/he_5as_pic2.jpg) [![](f/sensor/h/he_5as_pic3_thumb.jpg)](f/sensor/h/he_5as_pic3.jpg)|
+| |[![](f/sensor/h/he_5as_pic1_thumb.webp)](f/sensor/h/he_5as_pic1.jpg) [![](f/sensor/h/he_5as_pic2_thumb.webp)](f/sensor/h/he_5as_pic2.jpg) [![](f/sensor/h/he_5as_pic3_thumb.webp)](f/sensor/h/he_5as_pic3.jpg)|
 
 **Notes:**
 
@@ -603,7 +603,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/h/horus_pic1_thumb.jpg)](f/sensor/h/horus_pic1.jpg)|
+| |[![](f/sensor/h/horus_pic1_thumb.webp)](f/sensor/h/horus_pic1.jpg)|
 
 **Notes:**
 
@@ -645,7 +645,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| | |
 |Ready mode| | |
 |Refresh rate, ㎐|16 ‑ 30|10 ‑ 30|
-| |[![](f/sensor/h/hydra_pic2_thumb.jpg)](f/sensor/h/hydra_pic2.jpg)| |
+| |[![](f/sensor/h/hydra_pic2_thumb.webp)](f/sensor/h/hydra_pic2.jpg)| |
 
 **Notes:**
 
@@ -660,7 +660,7 @@ A list of [Star tracker (sensor)](sensor.md).
 
 | |
 |:--|
-|[![](f/sensor/h/hydra_pic1_thumb.jpg)](f/sensor/h/hydra_pic1.jpg) [![](f/sensor/a/auriga_hydra_pic1_thumb.jpg)](f/sensor/a/auriga_hydra_pic1.jpg) и **[Видео ❐](f/sensor/h/hydra_logo_sodern.mkv)**|
+|[![](f/sensor/h/hydra_pic1_thumb.webp)](f/sensor/h/hydra_pic1.jpg) [![](f/sensor/a/auriga_hydra_pic1_thumb.webp)](f/sensor/a/auriga_hydra_pic1.jpg) и **[Видео ❐](f/sensor/h/hydra_logo_sodern.mkv)**|
 
 
 
@@ -697,7 +697,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| | |
 |Ready mode| | |
 |Refresh rate, ㎐|4|4|
-| |[![](f/sensor/m/mbokz-2_01_thumb.jpg)](f/sensor/m/mbokz-2_01.png)| |
+| |[![](f/sensor/m/mbokz-2_01_thumb.webp)](f/sensor/m/mbokz-2_01.png)| |
 
 **Notes:**
 
@@ -786,7 +786,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|10|
-| |[![](f/sensor/m/mist_pic1_thumb.jpg)](f/sensor/m/mist_pic1.jpg)|
+| |[![](f/sensor/m/mist_pic1_thumb.webp)](f/sensor/m/mist_pic1.jpg)|
 
 **Notes:**
 
@@ -828,7 +828,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| | | | |
 |Ready mode| | | | |
 |Refresh rate, ㎐|1|10|10|100|
-| |[![](f/sensor/m/mustar_pic1_thumb.jpg)](f/sensor/m/mustar_pic1.jpg)| | | |
+| |[![](f/sensor/m/mustar_pic1_thumb.webp)](f/sensor/m/mustar_pic1.jpg)| | | |
 
 **Notes:**
 
@@ -867,7 +867,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data|кватернион ориентации и угловая скорость|
 |Ready mode|10 с от подачи питания|
 |Refresh rate, ㎐|от 1 до 10|
-| |[![](f/sensor/s/sx-sr-micro_bokz_pic1_thumb.jpg)](f/sensor/s/sx-sr-micro_bokz_pic1.png)|
+| |[![](f/sensor/s/sx-sr-micro_bokz_pic1_thumb.webp)](f/sensor/s/sx-sr-micro_bokz_pic1.png)|
 
 **Notes:**
 
@@ -911,7 +911,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| | | | |
 |Ready mode| | | | |
 |Refresh rate, ㎐|10|5| | |
-|[![](f/sensor/t/t1_pic1_thumb.jpg)](f/sensor/t/t1_pic1.jpg)|![](f/sensor/t/t1_pic_optics26.jpg)|![](f/sensor/t/t1_pic_optics18.jpg)|![](f/sensor/t/t1_pic_dp_cots.jpg)|![](f/sensor/t/t1_pic_dp_leon3ft.jpg)|
+|[![](f/sensor/t/t1_pic1_thumb.webp)](f/sensor/t/t1_pic1.jpg)|![](f/sensor/t/t1_pic_optics26.jpg)|![](f/sensor/t/t1_pic_optics18.jpg)|![](f/sensor/t/t1_pic_dp_cots.jpg)|![](f/sensor/t/t1_pic_dp_leon3ft.jpg)|
 
 
 
@@ -955,7 +955,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| | |
 |Ready mode| | |
 |Refresh rate, ㎐|5| |
-| |![](f/sensor/t/t1_pic_optics26.jpg) [![](f/sensor/t/t1_pic1_thumb.jpg)](f/sensor/t/t1_pic1.jpg)|![](f/sensor/t/t1_pic_dp_leon3ft.jpg)|
+| |![](f/sensor/t/t1_pic_optics26.jpg) [![](f/sensor/t/t1_pic1_thumb.webp)](f/sensor/t/t1_pic1.jpg)|![](f/sensor/t/t1_pic_dp_leon3ft.jpg)|
 
 **Notes:**
 
@@ -1001,7 +1001,7 @@ A list of [Star tracker (sensor)](sensor.md).
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐|10|
-| |[![](f/sensor/s/sed26_pic1_thumb.jpg)](f/sensor/s/sed26_pic1.jpg)|
+| |[![](f/sensor/s/sed26_pic1_thumb.webp)](f/sensor/s/sed26_pic1.jpg)|
 
 **Notes:**
 

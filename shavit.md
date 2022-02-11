@@ -13,7 +13,7 @@
 |:--|:--|:--|
 |Shavit|Базовый вариант.|**Активен** (1988 ‑ …)|
 
-[![](f/lv/shavit/shavit1_01_thumb.jpg)](f/lv/shavit/shavit1_01.jpg)
+[![](f/lv/shavit/shavit1_01_thumb.webp)](f/lv/shavit/shavit1_01.jpg)
 
 
 ---
@@ -33,7 +33,7 @@
 |Разраб./изготов.|[IAI](contact/iai.md) (Израиль) / [IAI](contact/iai.md) (Израиль)|
 |Ступени|4|
 |[Fuel](fuel.md)|[HTPB](htpb.md)|
-| |[![](f/lv/shavit/shavit1_02_thumb.jpg)](f/lv/shavit/shavit1_02.jpg)|
+| |[![](f/lv/shavit/shavit1_02_thumb.webp)](f/lv/shavit/shavit1_02.jpg)|
 
 **Выводимые массы.**
 

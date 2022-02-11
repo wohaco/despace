@@ -1,7 +1,7 @@
 # Polar Star Space
 > 2020.11.19 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/p/polar_star_space_logo1_thumb.png)](../f/con/p/polar_star_space_logo1.jpg)|<pss_info@polarstarspace.com>, <+81-011-299-5502>, Fax: …; *〒001-0022 2-2-11 Kita 22 Jonishi, Kita-ku, Sapporo-shi, Hokkaido, Japan*<br> 【<http://polarstarspace.com/>】|
+|[![](../f/contact/p/polar_star_space_logo1_thumb.png)](../f/contact/p/polar_star_space_logo1.webp)|<pss_info@polarstarspace.com>, <+81-011-299-5502>, Fax: …; *〒001-0022 2-2-11 Kita 22 Jonishi, Kita-ku, Sapporo-shi, Hokkaido, Japan*<br> 【<http://polarstarspace.com/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

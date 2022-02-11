@@ -11,7 +11,7 @@
 
 |*Moon*| | |*Map*|
 |:--|:--|:--|:--|
-|[![](f/aob/moon/moon_fullmoon2010_thumb.jpg)](f/aob/moon/moon_fullmoon2010.webp)|[![](f/aob/moon/moon_map1_thumb.jpg)](f/aob/moon/moon_map1.webp)|[![](f/aob/moon/moon_map2_thumb.jpg)](f/aob/moon/moon_map2.webp)|[![](f/aob/moon/moon_map3_thumb.jpg)](f/aob/moon/moon_map3.webp)|
+|[![](f/aob/moon/moon_fullmoon2010_thumb.webp)](f/aob/moon/moon_fullmoon2010.webp)|[![](f/aob/moon/moon_map1_thumb.webp)](f/aob/moon/moon_map1.webp)|[![](f/aob/moon/moon_map2_thumb.webp)](f/aob/moon/moon_map2.webp)|[![](f/aob/moon/moon_map3_thumb.webp)](f/aob/moon/moon_map3.webp)|
 
 
 
@@ -28,11 +28,11 @@
 |[Eccentricity](keplerian.md) (e)|0.0549 (average)|
 |[Hill sphere](hill_sphere.md)|66 000 ㎞|
 |[Inclination](keplerian.md) (Ⅰ)|5.145° (to ecliptic)|
-|[Longit. of asc.node](keplerian.md) (Ω)|Regressing by one revolution in 18.61 years|
+|[Longit. of  asc.node](keplerian.md) (Ω)|Regressing by one revolution in 18.61 years|
 |Orbital velocity (Ⅴ)|1.023 ㎞/s (average)|
 |Satellite of|[Earth](earth.md)|
 |Satellites|none|
-|[Semimajor axis](keplerian.md) (a)|384 399 ㎞ (0.002 57 [au](si.md))|
+|[Semimajor axis](keplerian.md) (a)|384 399 ㎞ (0.00257 [au](si.md))|
 |[Sider. rotat.period](astroperiod.md) (T, day)|27.321661 days (synced w/ Earth)|
 |[Sidereal period](astroperiod.md) (year)|27.321582 days (27 d 7 h 43 min 1 s)|
 |[Synodic period](astroperiod.md)|29.530588 days (29 d 12 h 44 min 0 s)|
@@ -60,7 +60,7 @@
 ![](f/aob/moon/lunar_earth_signal.gif)  
 *Signal Earth → Moon.*
 
-[![](f/aob/moon/moov_v1_thumb.jpg)](f/aob/moon/moov_v1.png)  
+[![](f/aob/moon/moov_v1_thumb.webp)](f/aob/moon/moov_v1.png)  
 *Breaking velocity depending on the year (straight flight).*
 
 ![](f/aob/moon/moon_rabbit_in_the_moon_standing_by_pot.png)
@@ -94,7 +94,7 @@ Meteorites are moving with a speed up to 72 ㎞/s & have a mass from 0.000 0
 
 |*South pole*|*North pole*|
 |:--|:--|
-|[![](f/aob/moon/moon_map_south_pole_thumb.jpg)](f/aob/moon/moon_map_south_pole.webp)|[![](f/aob/moon/moon_map_north_pole_thumb.jpg)](f/aob/moon/moon_map_north_pole.webp)|
+|[![](f/aob/moon/moon_map_south_pole_thumb.webp)](f/aob/moon/moon_map_south_pole.webp)|[![](f/aob/moon/moon_map_north_pole_thumb.webp)](f/aob/moon/moon_map_north_pole.webp)|
 
 **Links:**
 
@@ -315,7 +315,7 @@ See also “[Projects](project.md)”.
 
 **List of lunar lands:**
 
-![](f/aob/moon/moon_landing_sites_ru.png)
+![](f/aob/moon/moon_landing_sites_ru.webp)
 
 **Table.** Missions/spacecraft of past & future. (**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)
 

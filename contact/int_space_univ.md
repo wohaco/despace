@@ -1,7 +1,7 @@
 # International Space University
 > 2021.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con//_logo1_thumb.jpg)](../f/con//_logo1.png)|<mark>noemail</mark>, +33(0388)65-54-30, Fax: …;<br> *…*<br> 【<https://www.isunet.edu/>・ [LinkedIn ⎆](https://www.linkedin.com/school/international-space-university/)|
+|[![](../f/contact//_logo1_thumb.webp)](../f/contact//_logo1.png)|<mark>noemail</mark>, +33(0388)65-54-30, Fax: …;<br> *…*<br> 【<https://www.isunet.edu/>・ [LinkedIn ⎆](https://www.linkedin.com/school/international-space-university/)|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

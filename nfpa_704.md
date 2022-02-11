@@ -9,7 +9,7 @@
 
 |*fire diamond*|*Две бутылки, помеченные кодом NFPA 704*|
 |:--|:--|
-|[![](f/safety/nfpa_704_thumb.jpg)](f/safety/nfpa_704.png)|[![](f/safety/nalgene_bottles_thumb.jpg)](f/safety/nalgene_bottles.jpg)|
+|[![](f/safety/nfpa_704_thumb.webp)](f/safety/nfpa_704.png)|[![](f/safety/nalgene_bottles_thumb.webp)](f/safety/nalgene_bottles.jpg)|
 
 
 

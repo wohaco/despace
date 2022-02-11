@@ -9,9 +9,7 @@
 
 **Situation** — a device can no longer be used, but you have time before the launch (e.g. broke, didn’t pass the tests, is no longer produced, etc.).
 
-**Solution.**
-
-As usual, you need to balance resources (equipment, money, people, time, etc.). Typical solutions look like this (to choose any or a combination of them):
+**Solution** — as usual, you need to balance resources (equipment, money, people, time, etc.). Typical solutions look like this (to choose any or a combination of them):
 
    1. Repair the device.
    1. Buy a new one, the same (but working) device.
@@ -26,9 +24,7 @@ As usual, you need to balance resources (equipment, money, people, time, etc.). 
 
 **Situation** — some requirements cannot be verified (numbers are worse than expected).
 
-**Solution.**
-
-A group that are in charge (e.g. for a SUI, ground equipment, etc.) shall describe the following issues in order to understand what mistake had been done, how to fix it & how to avoid it in a future. In case of fail that shall be done by that group with the help of the upper level designers.
+**Solution** — a group that are in charge (e.g. for a SUI, ground equipment, etc.) shall describe the following issues in order to understand what mistake had been done, how to fix it & how to avoid it in a future. In case of fail that shall be done by that group with the help of the upper level designers.
 
    1. what is the problem we try to solve
    1. how we got to this point & what will be done to prevent this from happening in the future
@@ -48,7 +44,7 @@ A group that are in charge (e.g. for a SUI, ground equipment, etc.) shall descri
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](val_ver.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
+|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](vnv.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 
    1. Docs: …
    1. <…>

@@ -1,7 +1,7 @@
 # SEDS
 > 2019.09.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/seds_logo1_thumb.jpg)](../f/con/s/seds_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://seds.org/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Students_for_the_Exploration_and_Development_of_Space)】|
+|[![](../f/contact/s/seds_logo1_thumb.webp)](../f/contact/s/seds_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://seds.org/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Students_for_the_Exploration_and_Development_of_Space)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

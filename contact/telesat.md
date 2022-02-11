@@ -1,7 +1,7 @@
 # Telesat
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/t/telesat_logo1_thumb.png)](../f/con/t/telesat_logo1.png)|<mark>noemail</mark>, +1(613)748-01-23, Fax: +1(613)748-87-12;<br> *160 Elgin Street, Suite 2100, Ottawa, Ontario, K2P 2P7, Canada*<br> 【<https://www.telesat.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/telesat.com)・ [Twitter ⎆](https://twitter.com/Telesat)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Telesat)】|
+|[![](../f/contact/t/telesat_logo1_thumb.png)](../f/contact/t/telesat_logo1.png)|<mark>noemail</mark>, +1(613)748-01-23, Fax: +1(613)748-87-12;<br> *160 Elgin Street, Suite 2100, Ottawa, Ontario, K2P 2P7, Canada*<br> 【<https://www.telesat.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/telesat.com)・ [Twitter ⎆](https://twitter.com/Telesat)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Telesat)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

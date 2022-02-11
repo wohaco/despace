@@ -1,7 +1,7 @@
 # Space Cubics
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/con/s/spacecubics_logo1_thumb.png)](../f/con/s/spacecubics_logo1.png)|<contact@spacecubics.com>, +81-50-7112-6213, Fax: …;<br> *2 Chome−１−番地, Minami 3 Johigashi, Chuo Ward, Sapporo, 〒060-0053 Hokkaido, Japan*<br> 【<https://spacecubics.com/> ・ [GitHub ⎆](https://github.com/spacecubics) ・ <https://aerospacebiz.jaxa.jp/en/spacecompany/spacecubics/>・ [LinkedIn ⎆](https://www.linkedin.com/company/spacecubics)】|
+|[![](../f/contact/s/spacecubics_logo1_thumb.png)](../f/contact/s/spacecubics_logo1.png)|<contact@spacecubics.com>, +81-50-7112-6213, Fax: …;<br> *2 Chome−１−番地, Minami 3 Johigashi, Chuo Ward, Sapporo, 〒060-0053 Hokkaido, Japan*<br> 【<https://spacecubics.com/> ・ [GitHub ⎆](https://github.com/spacecubics) ・ <https://aerospacebiz.jaxa.jp/en/spacecompany/spacecubics/>・ [LinkedIn ⎆](https://www.linkedin.com/company/spacecubics)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
