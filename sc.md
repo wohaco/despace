@@ -279,7 +279,7 @@ Industry analysts at Northern Sky Research believe that high-throughput satellit
 | |**[Autonomous navigation system (ANS)](ans.md)**·САН|—|
 |✔|**Beacon**·Маяк|**Beacon**·Маяк|
 | |**[Cable](cable.md)**·БКС|+|
-|✔|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Камера (обыч., 3D, разн. спектров)|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Камера (обыч., 3D, разн. спектров)|
+|✔|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Kамера (обыч., 3D, разн. спектров)|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Kамера (обыч., 3D, разн. спектров)|
 | |**[Comms (transmitter, receiver)](comms.md)**·Радио (приёмник, передатчик)|—|
 | |**[Control module (CM)](eas.md)**·БУ|—|
 | |**[Data storage (DS)](ds.md)**·ЗУ|—|
@@ -290,7 +290,7 @@ Industry analysts at Northern Sky Research believe that high-throughput satellit
 | |**[Electric battery (EB)](eb.md)**·ХИТ|—|
 | |**[Electro-automatic system (EAS)](eas.md)**·СЭА|—|
 | |**[EMC](emc.md)**·ЭМС|+|
-| |**[Fuel](fuel.md)**·Топливо|—|
+| |**[Fuel](ps.md)**·Топливо|—|
 | |**[GNC](gnc.md)**·БКУ|—|
 | |**[Inertial unit (UI)](iu.md)**·Гироскоп|—|
 | |**[Landing gear (LAG)](lag.md)**·ПУC|—|
@@ -314,7 +314,7 @@ Industry analysts at Northern Sky Research believe that high-throughput satellit
 | |**[Rover](robot.md)**·Ровер|—|
 | |**[RTG, RHU](rtg.md)**·РИТЭГ, РИТ|—|
 |✔|**[Sensor (general)](sensor.md)**·Датчик (общий)|**[Sensor of dust/gas/temp./wind](sensor.md)**·Датчик пыли/газа/темп./ветра|
-| |**[Structures, gears, materials (SGM)](sc.md)**·КММ|+|
+| |**[Structures, gears, materials (SGM)](sc.md)**·KММ|+|
 | |**[Software](soft.md)**·ПО|+|
 |✔|**[Soil sample system (SSS)](sss.md)**·ГЗУ|**[Soil collector](sss.md)**·Грунтозаборник|
 | |**[Solar panel (SP)](sp.md)**·БС|—|
@@ -418,13 +418,13 @@ Below is a list & characteristics of materials used in the space (and not so) in
 ### Materials
 
    - The use of the following materials in a SC (especially, in parts interacting with an atmosphere or soil or affecting SC actions) shall be deliberately limited — Diamond, Platinoids, Silicon carbide, Ag, As, Au, Bi, [Cu](copper.md), Ga, Ge, In, [Ni](nickel.md), [Sn](tin.md), Sb, Se, Te, Zn.
-   - [Fuel](fuel.md)
+   - [Fuel](ps.md)
    - [Materials characteristics](matc.md)
 
 
 |*Gas*|*Liquid*|*Metal*|*Non‑metal*|
 |:--|:--|:--|:--|
-|・[Helium‑3](helium3.md)|・[Hydrogen peroxide](h_peroxide.md)|・[Aluminium](aluminium.md) (01570, AMg6)<br> ・[Copper](copper.md)<br> ・[Magnesium](magnesium.md)<br> ・[Nickel](nickel.md) (Inconel)<br> ・[Niobium](niobium.md)<br> ・[Tin](tin.md)<br> ・[Titanium](titanium.md) (VT23)|・[Asbotextolite](asc_lam.md)<br> ・[Bakelite](bakelite.md)<br> ・[Carbon fiber](cfrp.md)<br> ・[Gravimol](gravimol.md)<br> ・[MLI](mli.md)<br> ・[Nitron](acryl_fiber.md)<br> ・[Polyformaldehyde](polyoxymethylene.md)|
+|・[Helium](helium.md)<br> ・[Hydrogen](hydrogen.md)|・|・[Aluminium](aluminium.md) (01570, AMg6)<br> ・[Copper](copper.md)<br> ・[Magnesium](magnesium.md)<br> ・[Nickel](nickel.md) (Inconel)<br> ・[Niobium](niobium.md)<br> ・[Tin](tin.md)<br> ・[Titanium](titanium.md) (VT23)|・[Asbotextolite](asc_lam.md)<br> ・[Bakelite](bakelite.md)<br> ・[Carbon fiber](cfrp.md)<br> ・[Gravimol](gravimol.md)<br> ・[MLI](mli.md)<br> ・[Nitron](acryl_fiber.md)<br> ・[Polyformaldehyde](polyoxymethylene.md)|
 
 
 

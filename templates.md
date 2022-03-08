@@ -61,7 +61,7 @@
 |Continuous work, h| |
 |Distance, ㎞| |
 |Frequency instability| |
-|[Frequency range](rf.md), ㎐| |
+|[Frequency range](comms.md), ㎐| |
 |Modulation type| |
 |Out. power, W| |
 |Signal structure| |
@@ -133,7 +133,7 @@
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md)| |
+|[Fuel](ps.md)| |
 |Fuel — combustion products| |
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
@@ -145,7 +145,7 @@
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)| |
-|Thrust — [Isp](isp.md), N·s/㎏ (s), ≥| |
+|Thrust — [Isp](ps.md), N·s/㎏ (s), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switching frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -271,7 +271,7 @@
 |Масса старт./сух.|… ㎏ / … ㎏|
 |Разраб./изготов.|[SpaceX](contact/spacex.md) (США) / [SpaceX](contact/spacex.md) (США)|
 |Ступени|…|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
+|[Fuel](ps.md)|[O + Kerosene](o_plus.md)|
 | |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**

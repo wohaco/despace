@@ -32,7 +32,7 @@
 |Масса старт./сух.|87 000 ㎏ / … ㎏|
 |Разраб./изготов.|[ISA](contact/isa.md) (Иран) / [ISA](contact/isa.md) (Иран)|
 |Ступени|3|
-|[Fuel](fuel.md)|[АТ + Красная дымящая азотная кислота](nto_plus.md)|
+|[Fuel](ps.md)|[АТ + Красная дымящая азотная кислота](nto_plus.md)|
 | |[![](f/lv/simorgh/simorgh_01_thumb.webp)](f/lv/simorgh/simorgh_01.png) [![](f/lv/simorgh/simorgh_02_thumb.webp)](f/lv/simorgh/simorgh_02.jpg)|
 
 **Выводимые массы.**

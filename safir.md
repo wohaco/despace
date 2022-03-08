@@ -32,7 +32,7 @@
 |Масса старт./сух.|26 000 ㎏ / 1 600 ㎏|
 |Разраб./изготов.|[ISA](contact/isa.md) (Иран) / [ISA](contact/isa.md) (Иран)|
 |Ступени|3|
-|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md)|
+|[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
 | |[![](f/lv/safir/safir1_01_thumb.webp)](f/lv/safir/safir1_01.jpg)|
 
 **Выводимые массы.**

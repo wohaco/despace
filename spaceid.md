@@ -15,7 +15,7 @@
 ## COSPAR ID, NSSDC ID, Номер полёта
 > <small>**Номер полёта** — русскоязычный термин. **International designator / COSPAR ID / NSSDC ID** — англоязычный эквивалент.</small>
 
-**Номер полёта** (англ. *International designator* — международный идентификатор, сокращённо **NSSDC ID** — номер по каталогу Национального центра анализа данных космических исследований США (англ. National Space Science Data Center, сокр. NSSDC) представляет собой каталожный номер каждого летающего космического объекта, находящегося на орбите и зарегистрированного в [COSPAR](cospar.md).
+**Номер полёта** (англ. *International designator* — международный идентификатор, сокращённо **NSSDC ID** — номер по каталогу Национального центра анализа данных космических исследований США (англ. National Space Science Data Center, сокр. NSSDC) представляет собой каталожный номер каждого летающего космического объекта, находящегося на орбите и зарегистрированного в [COSPAR](contact/cospar.md).
 
 Понятие «летающего объекта» трактуется довольно свободно и включает также все объекты, появившиеся в результате старта какой‑либо ракеты и самостоятельно находящиеся на орбите. Всякие летающие объекты могут служить источником помех при астрономических наблюдениях. Чтобы исключить подобные помехи, параметры орбит таких объектов должны быть известны в гражданской астрономии. Подобная информация не могла быть почерпнута из национальных каталогов стран во время холодной войны. По этой же причине суборбитальные старты не получали номера полёта.
 
@@ -32,7 +32,7 @@ For example, **1990-037A** is the Space Shuttle Discovery on mission STS-31, whi
 
 Альтернативной системой обозначения искусственных спутников является **номер по спутниковому каталогу (SCN)**.
 
-The designation system has been generally known as the COSPAR system, named for the [Committee on Space Research (COSPAR)](cospar.md) of the International Council for Science. COSPAR subsumed the first designation system, devised at Harvard University in 1958. That system used letters of the Greek alphabet to designate artificial satellites. For example, Sputnik 1 was designated 1957 Alpha 2. The Harvard designation system continued to be used for satellites launched up to the end of 1962, when it was replaced with the modern system. The first satellite to receive a new‑format designator was Luna E-6 No.2, 1963-001B, although some sources, including the NSSDC website, anachronistically apply the new‑format designators to older satellites, even those no longer in orbit at the time of its introduction.
+The designation system has been generally known as the COSPAR system, named for the [Committee on Space Research (COSPAR)](contact/cospar.md) of the International Council for Science. COSPAR subsumed the first designation system, devised at Harvard University in 1958. That system used letters of the Greek alphabet to designate artificial satellites. For example, Sputnik 1 was designated 1957 Alpha 2. The Harvard designation system continued to be used for satellites launched up to the end of 1962, when it was replaced with the modern system. The first satellite to receive a new‑format designator was Luna E-6 No.2, 1963-001B, although some sources, including the NSSDC website, anachronistically apply the new‑format designators to older satellites, even those no longer in orbit at the time of its introduction.
 
 Designators are assigned to objects by USSTRATCOM along with satellite catalog numbers as they are discovered in space. The United Nations Office for Outer Space Affairs (UNOOSA) and the National Space Science Data Center (NSSDC), part of NASA, maintain two catalogs that provide additional information on the launchers and payloads associated with the designators. Spacecraft which do not complete an orbit of the Earth, for example launches which fail to achieve orbit, are not assigned IDs.
 
@@ -107,7 +107,7 @@ ISS (ZARYA)
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·KТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

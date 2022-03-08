@@ -43,7 +43,7 @@
 |Масса старт./сух.|705 000 ㎏ / 30 600 ㎏|
 |Разраб./изготов.|[ГКНПЦ Хруничева](contact/khrunichev.md) (КБ «Салют», Россия) / [ГКНПЦ Хруничева](contact/khrunichev.md) (КБ «Салют», Россия)|
 |Ступени|3‑4 (РБ: [Блок ДМ](блок_д.md), [Бриз‑М](бриз.md))|
-|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md)|
+|[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
 | |[![](f/lv/proton/proton-m_thumb.webp)](f/lv/proton/proton-m.jpg)|
 
 **Выводимые массы.**
@@ -76,7 +76,7 @@
 |Масса старт./сух.|656 000 ㎏ / 42 500 ㎏|
 |Разраб./изготов.|[ОКБ‑23](contact/khrunichev.md) (СССР) / [ОКБ‑23](contact/khrunichev.md) (СССР)|
 |Ступени|2|
-|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md)|
+|[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
 | |[![](f/lv/proton/proton_1965_thumb.webp)](f/lv/proton/proton_1965.jpg)|
 
 
@@ -95,7 +95,7 @@
 |Масса старт./сух.|700 000 ㎏ / 31 000 ㎏|
 |Разраб./изготов.|[ОКБ‑23](contact/khrunichev.md) (СССР) / [ОКБ‑23](contact/khrunichev.md) (СССР, в России — [ГКНПЦ Хруничева](contact/khrunichev.md))|
 |Ступени|3 (РБ: [Блок Д](блок_д.md), [Блок ДМ](блок_д.md))|
-|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md)|
+|[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
 | |[![](f/lv/proton/proton_k_zvezda_crop_thumb.webp)](f/lv/proton/proton_k_zvezda_crop.jpg)|
 
 **Выводимые массы.**

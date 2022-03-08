@@ -9,7 +9,7 @@
 
 > <small>**Испарение материалов** — русскоязычный термин. **Evaporation of materials** — англоязычный эквивалент.</small>
 
-**Table.** Temperature for the rate of evaporation of materials (℃) at pressures from 10⁻¹¹ to 10⁻¹⁵ ㎩
+【**Table.** Temperature for the rate of evaporation of materials (℃) at pressures from 10⁻¹¹ to 10⁻¹⁵ ㎩】
 
 |*Material*|*0.0001 ㎜/y*|*0.01 ㎜/y*|*1 ㎜/y*|
 |:--|:--|:--|:--|

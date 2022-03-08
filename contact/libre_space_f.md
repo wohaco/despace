@@ -1,12 +1,12 @@
 # LSF
 > 2020.07.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/l/lsf_logo1_thumb.png)](../f/contact/l/lsf_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Libre Space Foundation, PO Box 24063, 11110 Athens, Greece*<br> 【<https://libre.space/>・ [Facebook ⎆](https://www.facebook.com/librespacefoundation)・ [LinkedIn ⎆](https://www.linkedin.com/company/libre-space-foundation/)・ [Twitter ⎆](https://twitter.com/LibreSpace_Fnd)】|
+|[![](../f/contact/l/lsf_logo1_thumb.webp)](../f/contact/l/lsf_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Libre Space Foundation, PO Box 24063, 11110 Athens, Greece*<br> 【<https://libre.space/>・ [Facebook ⎆](https://www.facebook.com/librespacefoundation)・ [Instagram ⎆](http://instagram.com/libre.space)・ [LinkedIn ⎆](https://www.linkedin.com/company/libre-space-foundation/)・ [Twitter ⎆](https://twitter.com/LibreSpace_Fnd)】|
 |:--|:--|
 |**Mission**|To promote, advance & develop libre (free & open source) technologies & knowledge for space. To do that we design, develop & deliver space related projects ranging from Ground Station equipment to global monitoring Networks & satellite missions.|
 |**Vision**|An Open & Accessible Outer Space for all. We believe that space should be claimed the libre (open source) way.|
 |**Values**|…|
-|**Business**|…|
+|**Business**|	To promote, advance, develop libre technologies & knowledge for space|
 |**[MGMT](../mgmt.md)**|…|
 
 **Libre Space Foundation (LSF)** is a non-profit foundation registered since 2014 in Greece from the creators of the SatNOGS project.

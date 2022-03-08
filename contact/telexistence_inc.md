@@ -7,7 +7,7 @@
 |**Vision**|Grasping every object with our hands, from anywhere|
 |**Values**|➀ Freedom & Responsibility, ➁ Move Fast, Deliver First, ➂ Systematic Innovator of Scale, ➃ Begin with the End, ➄ Interdependence|
 |**Business**|Design, manufacture, & operate robots|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・Co‑Founder, CEO — Jin Tomioka|
 
 **Telexistence Inc.** was founded in 2017 to design, manufacture, & operate robots in anywhere we see an opportunity of pushing the fundamental state of art forward. Founders: Charith Fernando, Ferunando Charisu, Susumu Tachi.
 

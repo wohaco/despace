@@ -62,22 +62,20 @@
    - **[Teamcenter](teamcenter.md)** — PLM-система.
    - **[Система управления версиями](vcs.md)**.
    - **[ХРИП](adra.md)** — управление/планирование процессами исследований и разработок на НПОЛ.
-
-**Прочее ПО:**
-
-   - **[Syncthing](syncthing.md)** — синхронизация файлов между устройствами в сети.
-   - **Markdown:**
-      - *Android* — Epsilon Notes, markor
-      - *ПК, в основном кроссплатформенное* — [ghostwriter ⎆](https://wereturtle.github.io/ghostwriter/), [MacDown ⎆](https://macdown.uranusjr.com/) (MacOS), [VNote ⎆](https://tamlok.github.io/vnote/)
-      - *Просмотр в сети* — [Viki ⎆](https://tamlok.gitee.io/viki/)
-   - **Основные форматы:**
-      - [CAD-форматы](cad_f.md) (DWG, DXF, IGES, JT, STEP, SVG)
-      - [PDF](pdf.md)
-   - **Для совместной работы:**
-      - *Конференции* — [Jitsi ⎆](https://jitsi.org/), Skype, ~~[Zoom](zoom.md)~~
-      - *Работа с документами* — Git, Github, Google Docs
-   - И немного ссылок:
-      - <http://f9sim.mcrenox.com.ar/> — **F9sim** — Falcon 9 First Stage Simulator.
+   - **Прочее ПО:**
+      - **[Syncthing](syncthing.md)** — синхронизация файлов между устройствами в сети.
+      - **Markdown:**
+         - *Android* — Epsilon Notes, markor
+         - *ПК, в основном кроссплатформенное* — [ghostwriter ⎆](https://wereturtle.github.io/ghostwriter/), [MacDown ⎆](https://macdown.uranusjr.com/) (MacOS), [VNote ⎆](https://tamlok.github.io/vnote/)
+         - *Просмотр в сети* — [Viki ⎆](https://tamlok.gitee.io/viki/)
+      - **Основные форматы:**
+         - [CAD-форматы](cad_f.md) (DWG, DXF, IGES, JT, STEP, SVG)
+         - [PDF](pdf.md)
+      - **Для совместной работы:**
+         - *Конференции* — [Jitsi ⎆](https://jitsi.org/), Skype, ~~[Zoom](zoom.md)~~
+         - *Работа с документами* — Git, Github, Google Docs
+      - И немного ссылок:
+         - <http://f9sim.mcrenox.com.ar/> — **F9sim** — Falcon 9 First Stage Simulator.
 
 
 

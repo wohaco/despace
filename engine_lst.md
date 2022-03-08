@@ -22,7 +22,7 @@ A list of [Engines](ps.md).
 |Dimensions, ㎜| |
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
-|Mass, ㎏|0.29|
+|Mass, ㎏|0.29 w/ valve|
 |[Overload](vibration.md), Grms| |
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
@@ -30,8 +30,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.44 (0.142 ‑ 0.447)|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.000.163.098 ‑ … ‑ 0.000.502.827|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|67|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -40,7 +40,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.32 ‑ 1 ‑ 1.1 (0.032 ‑ 0.1 ‑ 0.112)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|200 ‑ 223 (1 962 ‑ 2 190)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|200 ‑ … ‑ 223 (1 962 ‑ … ‑ 2 190)|
 |Thrust — max duration of 1 thrust, s|43 200|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -80,8 +80,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0452875|0.0411392|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.045.287|0.041.139|
 |Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹⁾**|1.85 ± 0.05 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|2 250|2 042|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | |
@@ -90,7 +90,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|129.16 (13.1) **⁽¹⁾**|123.5 (12.5) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|290 (2 852) **⁽¹⁾**|306 (3 002) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|290 (2 852) **⁽¹⁾**|306 (3 002) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 2 000 **⁽¹⁾**|0.03 ‑ 2 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -130,8 +130,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0216552|0.0190007|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.021.655|0.019.001|
 |Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹ ²⁾**| |
 |Fuel — resource, ㎏, ≥| |109|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | |
@@ -140,7 +140,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|53.9 (5.5) **⁽¹⁾**|54 (5.5) **⁽²⁾**|± 6.9 **⁽²⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|253 (2 489) **⁽¹⁾**|290 (2 842) **⁽²⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|253 (2 489) **⁽¹⁾**|290 (2 842) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 300 **⁽¹⁾**|0.03 ‑ 2 000 **⁽²⁾**|
 |Thrust — max switch. frequency, ㎐| |8 **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |2.45 (0.25) **⁽²⁾**|
@@ -180,8 +180,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.1587044|0.1324333|0.1280916|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.158.704|0.132.433|0.128.091|
 |Fuel — mass ratio of components|1.85 ± 0.15 **⁽¹ ²⁾**|1.85 ± 0.15 **⁽¹ ²⁾**|1.85 ± 0.15 **⁽¹ ²⁾**|
 |Fuel — resource, ㎏, ≥| |132 **⁽¹⁾**; 509 **⁽³⁾**|350 **⁽²⁾**|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | | |
@@ -190,7 +190,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | | |
 |Temper. — nozzle cut, К (℃)| | | |
 |Thrust, N (㎏f)|392 (39.9) **⁽¹⁾**|392.4 (39.9) **⁽¹⁾**|382 (39) **⁽²⁾**|± 10 **⁽²⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|252 (2 470) **⁽¹⁾**|302 (2 963) **⁽¹⁾**|304 (2 979) **⁽²⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|252 (2 470) **⁽¹⁾**|302 (2 963) **⁽¹⁾**|304 (2 979) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.1 ‑ 3 000 **⁽¹⁾**|0.05 ‑ 1 000 **⁽¹⁾**; 0.05 ‑ 1 500 **⁽³⁾**|0.05 ‑ 2 000 **⁽²⁾**|
 |Thrust — max switch. frequency, ㎐| | |8 **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |9.41 (0.96) **⁽²⁾**|
@@ -231,8 +231,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|6.08560794|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|6.085|
 |Fuel — mass ratio of components|2.0 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|19 470|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|10 (100) **⁽¹⁾**|
@@ -241,7 +241,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|19 620 (2 000) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|328.6 (3 224) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|328.6 (3 224) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|2 500 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐|1 pulse/2.6 s **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -279,8 +279,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md) **⁽¹⁾** ()|
-|Fuel — consumption, ㎏/s, ≤|0.0778262|
+|[Fuel](ps.md) (+ combustion products)|[O+Kerosene](o_plus.md) **⁽¹⁾** ()|
+|Fuel — consumption, ㎏/s, ≤|0.077.826|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|355|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -289,7 +289,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|196.2 (20) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|257 (2 521) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|257 (2 521) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.06 ‑ 180 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -329,8 +329,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0049665|0.0048823|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.004.966.628|0.004.881.204|
 |Fuel — mass ratio of components|1.85 ± 0.2 **⁽¹ ²⁾**|1.85 ± 0.2 **⁽¹ ²⁾**|
 |Fuel — resource, ㎏, ≥|893| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | |
@@ -339,7 +339,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|13.35 ± 10 (1.36) **⁽²⁾**|12.45 (1.26) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|274 (2 688) **⁽²⁾**|260 (2 550) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|274 (2 688) **⁽²⁾**|260 (2 550) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 10 000 **⁽²⁾**|0.03 ‑ 10 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐|10 **⁽²⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|0.32| |
@@ -369,19 +369,19 @@ A list of [Engines](ps.md).
 |:--|:--|
 |Composition| |
 |Consumption, W| |
-|Dimensions, ㎜| |
+|Dimensions, ㎜|195 × ⌀33|
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
-|Mass, ㎏|0.65|
-|[Overload](vibration.md), Grms| |
+|Mass, ㎏|0.65 w/ 1.5m flying leads |
+|[Overload](vibration.md), Grms|16.2|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0032 ‑ 0.0104|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.003.627.480 ‑ 0.010.902.805|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|290|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -390,7 +390,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|7.9 ‑ 24.6 (0.8 ‑ 2.5)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|222 ‑ 230 (2 177 ‑ 2 250)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|222 ‑ 230 (2 177 ‑ 2 250)|
 |Thrust — max duration of 1 thrust, s|5 400|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -406,7 +406,7 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. [Products brochures ❐](f/contact/o/opc_lam_brochures.7z)
    1. <http://www.space-propulsion.com/spacecraft-propulsion/hydrazine-thrusters/20n-hydrazine-thruster.html> — [archived ❐](f/ps/0/20nmht_site.pdf) 2019.02.21
-   1. **Applicability** — NGSAR (2018 ‑ 2019)・ Herschel (2009)・ Planck (2009)・ METOP 1-3 (2006), Integral (2002)
+   1. **Applicability** — NGSAR (2018 ‑ 2019)・ Herschel (2009)・ Planck (2009)・ METOP 1-3 (2006‑2018)・ Integral (2002)
 
 
 
@@ -430,8 +430,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|6 **⁽¹⁾**|3 **⁽²⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.2028254|0.2005347|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.202.825|0.200.534|
 |Fuel — mass ratio of components|1.8169 ± 0.066 **⁽¹⁾**|1.85 **⁽²⁾**|
 |Fuel — resource, ㎏, ≥|20|1 000|
 |Mach number / [Adiabatic exponent](heat_cr.md)|4.8639 / 1.23 **⁽¹⁾**| |
@@ -441,7 +441,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|3 000 (2 700) **⁽¹⁾**| |
 |Temper. — nozzle cut, К (℃)|840 (560) **⁽¹⁾**| |
 |Thrust, N (㎏f)|603±16 (61.44±1.65) **⁽¹⁾**|600 (61) **⁽²⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|303±2.2 (2 973) **⁽¹⁾**|305 (2 992) **⁽²⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|303±2.2 (2 973) **⁽¹⁾**|305 (2 992) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.2 ‑ 50 **⁽¹⁾**|0.05 ‑ 1 500 **⁽²⁾**|
 |Thrust — max switch. frequency, ㎐|3 **⁽¹⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|17±4.6 (1.735±0.473) **⁽¹⁾**| |
@@ -483,8 +483,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.2028254289|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.202.825|
 |Fuel — mass ratio of components|1.8169 ± 0.066|
 |Fuel — resource, ㎏, ≥|20|
 |Mach number / [Adiabatic exponent](heat_cr.md)|4.8639 / 1.23|
@@ -494,7 +494,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|3 000 (2 700)|
 |Temper. — nozzle cut, К (℃)|840 (560)|
 |Thrust, N (㎏f)|588±49 (60±5)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|303±2.2 (2 973)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|303±2.2 (2 973)|
 |Thrust — max duration of 1 thrust, s|0.2 ‑ 70|
 |Thrust — max switch. frequency, ㎐|3|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|17±4.6 (1.735±0.473)|
@@ -524,19 +524,19 @@ A list of [Engines](ps.md).
 |:--|:--|
 |Composition| |
 |Consumption, W| |
-|Dimensions, ㎜| |
+|Dimensions, ㎜|325 × ⌀67|
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
 |Mass, ㎏|2.7 or 3.8|
-|[Overload](vibration.md), Grms| |
+|[Overload](vibration.md), Grms|16.2|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
 |[Thermal range](tcs.md), ℃| |
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.058 ‑ 0.19|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.057.700 ‑ 0.194.606|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|300|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -545,7 +545,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|120 ‑ 420 (12.2 ‑ 42.8)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|212 ‑ 220 (2 080 ‑ 2 160)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|212 ‑ 220 (2 080 ‑ 2 160)|
 |Thrust — max duration of 1 thrust, s|450|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -585,8 +585,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
-|Fuel — consumption, ㎏/s, ≤| |
+|[Fuel](ps.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.202.960|
 |Fuel — mass ratio of components|1.2|
 |Fuel — resource, ㎏, ≥| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|1.89 (18.54)|
@@ -595,7 +595,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|2 473 (2 200)|
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|667 (68)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|335 (3 285)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|335 (3 285)|
 |Thrust — max duration of 1 thrust, s|3 600|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -635,7 +635,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|6|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|[O+H](o_plus.md) (H₂, H₂O)|
+|[Fuel](ps.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|[O+H](o_plus.md) (H₂, H₂O)|
 |Fuel — consumption, ㎏/s, ≤| | |
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥| | |
@@ -645,7 +645,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|93 100 ‑ 490 000 (9 490 ‑ 49 950)|670 000 (68 300)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| | |
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| | |
 |Thrust — max duration of 1 thrust, s| | |
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -686,7 +686,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|6|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|
+|[Fuel](ps.md) (+ combustion products)|[O+Methane](o_plus.md) (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -696,7 +696,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|1 200 000 ‑ 2 400 000 (122 320 ‑ 244 650) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| |
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -738,7 +738,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|3|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
+|[Fuel](ps.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -748,7 +748,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|40 000 (4 100)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| |
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -787,8 +787,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.1592762|
+|[Fuel](ps.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.079.638 ‑ 0.159.276|
 |Fuel — mass ratio of components|1.69|
 |Fuel — resource, ㎏, ≥| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|13.4 (1.36)|
@@ -797,7 +797,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|250 ‑ 500 (25.4 ‑ 51) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|320±5 ()|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|320 ± 5 (3 140 ± 49)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -813,12 +813,12 @@ A list of [Engines](ps.md).
    1. <https://en.wikipedia.org/wiki/BT-4_(rocket_engine)>
    1. **[1]** — in vacuum.
    1. BT-4 is a family that has been used as Liquid Apogee Engine, orbital maneuvering engine & as a thruster. Variations:
-       - **BT-4 (Cygnus)** — Used mainly as thruster, it burns MMH/N₂O₄ with a thrust of 450 N. It weighs 4 ㎏ & is 65 ㎝ tall.
+       - **BT-4 (Cygnus)** — Used mainly as thruster, it burns MMH/N₂O₄ with a thrust of 450 N. It weighs 4 ㎏ & is 65 ㎝ tall.
        - **BT-4 (450N)** — Used mainly as LAE, it burns Hydrazine/N₂O₄ in a 1.69 O/F ratio. It has a thrust of 450 N, a specific impulse of 329 s (3.23 ㎞/s) & an input pressure of 1.62 ㎫. As of 2014, it had a demonstrated life of 32 850 s.
-       - **BT-4 (500N)** — Used mainly as LAE, it burns Hydrazine/N₂O₄ with a thrust of 500 N, a specific impulse of 329 s (3.23 ㎞/s). It weights 4 ㎏ & is 80 ㎝ tall.
-       - **490N MON Thruster** — Burns MMH/MON-3 with a 478 N nominal thrust, a specific impulse of 316 s (3.10 ㎞/s) & an inlet pressure of 1.72 ㎫ (249 psi). As of 2014, it had a demonstrated life of 15 000 s.
-       - **HBT-5** — Developed for the HTV to crew-rated standards, it burns MMH/MON-3, & has a thrust of 500 N (110 lbf). Used in HTV-3 & since HTV-5 onward.
-       - **SELENE OME** — Based on the DRTS Liquid Apogee Engine, the SELENE Orbital Maneuvering Engine burned a Hydrazine/MON-3 mixture. It had a thrust of 547 ± 54 N & a specific impulse of 319.8 ± 5.1 s (3.136 ± 0.050 ㎞/s) with an input pressure of 1.77 ㎫ (257 psi).
+       - **BT-4 (500N)** — Used mainly as LAE, it burns Hydrazine/N₂O₄ with a thrust of 500 N, a specific impulse of 329 s (3.23 ㎞/s). It weights 4 ㎏ & is 80 ㎝ tall.
+       - **490N MON Thruster** — Burns MMH/MON-3 with a 478 N nominal thrust, a specific impulse of 316 s (3.10 ㎞/s) & an inlet pressure of 1.72 ㎫ (249 psi). As of 2014, it had a demonstrated life of 15 000 s.
+       - **HBT-5** — Developed for the HTV to crew-rated standards, it burns MMH/MON-3, & has a thrust of 500 N. Used in HTV-3 & since HTV-5 onward.
+       - **SELENE OME** — Based on the DRTS Liquid Apogee Engine, the SELENE Orbital Maneuvering Engine burned a Hydrazine/MON-3 mixture. It had a thrust of 547 ± 54 N & a specific impulse of 319.8 ± 5.1 s (3.136 ± 0.050 ㎞/s) with an input pressure of 1.77 ㎫ (257 psi).
    1. **Applicability** — Lunar-A (cancelled)・ Some geostationary communications satellite based on the Lockheed Martin A2100 & GEOStar-2 satellite buses.
 
 
@@ -843,8 +843,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.164419|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.164.419|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 645|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.9 (9) **⁽¹⁾**|
@@ -853,7 +853,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|500 (51) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|310 (3 041) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|310 (3 041) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 3 500 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -892,8 +892,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.362844|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.362.844|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|10|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|4 (40) **⁽¹⁾**|
@@ -902,7 +902,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|1 000 (102) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|281 (2 756) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|281 (2 756) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.035 ‑ 3 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -941,8 +941,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.752005|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.752.005|
 |Fuel — mass ratio of components|1.95 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|157|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|1.8 (18) **⁽¹⁾**|
@@ -951,7 +951,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|2 250 (229) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|305 (2 992) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|305 (2 992) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 210 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -990,8 +990,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0044444|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.004.451.388|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|6.5|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|1.0 (10) **⁽¹⁾**|
@@ -1000,7 +1000,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|10 (1) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|229 (2 250) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|229 (2 250) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 600 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1038,8 +1038,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0222222|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.022.256|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|33|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.8 (8) **⁽¹⁾**|
@@ -1048,7 +1048,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|50 (5.1) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|229 (2 250) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|229 (2 250) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 600 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1086,8 +1086,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.002217|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.002.216.017|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|260|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.38 (3.8) **⁽¹⁾**|
@@ -1096,7 +1096,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|5 (0.5) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|230 (2 255) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|230 (2 255) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 8 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1134,8 +1134,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.010869|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.010.890|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|267|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.45 (4.5) **⁽¹⁾**|
@@ -1144,7 +1144,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|25 (2.5) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|234 (2 300) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|234 (2 300) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 6 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1182,8 +1182,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|6|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md) ()|[NTO+MMH](nto_plus.md) ()|
-|Fuel — consumption, ㎏/s, ≤|0.135915|30.148619|
+|[Fuel](ps.md) (+ combustion products)|[NTO+MMH](nto_plus.md) ()|[NTO+MMH](nto_plus.md) ()|
+|Fuel — consumption, ㎏/s, ≤|0.135.915|30.148|
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥| |1 388|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |6.9 (67.7)|
@@ -1192,7 +1192,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|400 (40.7)|71 000 (7 237)|20 ‑ 100 %|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|300 (2 943)|240 (2 355)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|300 (2 943)|240 (2 355)|
 |Thrust — max duration of 1 thrust, s| | |
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -1235,8 +1235,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4|4|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|[Xenon](xenon.md)|
-|Fuel — consumption, ㎏/s, ≤|0.0000003|0.0000004|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|[Xenon](xenon.md)|
+|Fuel — consumption, ㎏/s, ≤|0.000.000.254.841|0.000.000.356.778|
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥| | |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | |
@@ -1245,7 +1245,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|0.005 (0.0005)|0.007 (0.0007)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|2 000 (19 600)|2 000 (19 600)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|2 000 (19 600)|2 000 (19 600)|
 |Thrust — max duration of 1 thrust, s| | |
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -1287,8 +1287,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md) (HiPAT); [NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂) (HiPAT DM)|
-|Fuel — consumption, ㎏/s, ≤|0.141|
+|[Fuel](ps.md) (+ combustion products)|[NTO+MMH](nto_plus.md) (HiPAT); [NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂) (HiPAT DM)|
+|Fuel — consumption, ㎏/s, ≤|0.141.755 or 0.140.439|
 |Fuel — mass ratio of components|1.0|
 |Fuel — resource, ㎏, ≥|6 530|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.96 (9.4)|
@@ -1297,7 +1297,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|445 (45)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|320 (3 140) (300:1 nozzle) or 323 (3 170) (375:1 nozzle)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|320 (3 140) (300:1 nozzle) or 323 (3 170) (375:1 nozzle)|
 |Thrust — max duration of 1 thrust, s|3 600|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1338,8 +1338,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0074292|
+|[Fuel](ps.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.007.429.292|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|583|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1347,8 +1347,8 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|21.5 ± … (2.19 ± …)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|295 (2 894)|
+|Thrust, N (㎏f)|21.5 (2.19)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|295 (2 894)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1386,8 +1386,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|MON3+MMH ()|
-|Fuel — consumption, ㎏/s, ≤|0.0461293|
+|[Fuel](ps.md) (+ combustion products)|MON3+MMH ()|
+|Fuel — consumption, ㎏/s, ≤|0.046.129|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|446|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1395,8 +1395,8 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|124.4 ± … (12.68 ± …)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|274.9 (2 695)|
+|Thrust, N (㎏f)|124.4 (12.68)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|274.9 (2 695)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1434,8 +1434,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.1394272|
+|[Fuel](ps.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.139.427|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|4 580|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1443,8 +1443,8 @@ A list of [Engines](ps.md).
 |Press. — nozzle cut, ㎫ (㎏f/㎝²)| |
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
-|Thrust, N (㎏f)|450 ± … (45.87 ± …)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|329 (3 228)|
+|Thrust, N (㎏f)|450 (45.87)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|329 (3 228)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1482,8 +1482,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|MON3+MMH ()|
-|Fuel — consumption, ㎏/s, ≤|0.1580666|
+|[Fuel](ps.md) (+ combustion products)|MON3+MMH ()|
+|Fuel — consumption, ㎏/s, ≤|0.158.066|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|2 371|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1492,7 +1492,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|478 ± … (49.95 ± …)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|316 (3 100)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|316 (3 100)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1530,8 +1530,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.00004638|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.000.046.334|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|20 **⁽¹⁾**|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1540,7 +1540,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.1 (0.01) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|220 (2 156) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|220 (2 156) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1578,8 +1578,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.00025023|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.000.250.208|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|20 **⁽¹⁾**|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1588,7 +1588,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.54 (0.05) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|220 (2 158) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|220 (2 158) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|10 800 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1626,8 +1626,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) **⁽¹⁾** (H₂, H₂O)|
-|Fuel — consumption, ㎏/s, ≤|15.365100|
+|[Fuel](ps.md) (+ combustion products)|[O+H](o_plus.md) **⁽¹⁾** (H₂, H₂O)|
+|Fuel — consumption, ㎏/s, ≤|15.365|
 |Fuel — mass ratio of components|6 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|12 300|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|5.7 (57) **⁽¹⁾**|
@@ -1636,7 +1636,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|69 650 (7 100) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|462 (4 533) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|462 (4 533) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|600 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐|1 pulse/7.5 s **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1675,8 +1675,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|4 **⁽²⁾**|
 |[Voltage](sps.md), V| | | | |
 |**［Specific］**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, NH₃, N₂)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, NH₃, N₂)|[NTO+MMH](nto_plus.md) **⁽¹ ²⁾**<br> ()|[NTO+MMH](nto_plus.md) **⁽¹ ²⁾**<br> ()|
-|Fuel — consumption, ㎏/s, ≤|0.204180|0.144115|0.130532|0.352790|
+|[Fuel](ps.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, NH₃, N₂)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, NH₃, N₂)|[NTO+MMH](nto_plus.md) **⁽¹ ²⁾**<br> ()|[NTO+MMH](nto_plus.md) **⁽¹ ²⁾**<br> ()|
+|Fuel — consumption, ㎏/s, ≤|0.204.180|0.144.115|0.130.532|0.352.790|
 |Fuel — mass ratio of components|0.8 ‑ 0.9 **⁽¹⁾**|0.78 ‑ 0.89 **⁽¹⁾**|1.43 ‑ 1.81 **⁽¹⁾**|1.5 ‑ 1.8 **⁽²⁾**|
 |Fuel — resource, ㎏, ≥|4 180|4 480|3 900| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | | | |
@@ -1685,7 +1685,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | | | |
 |Temper. — nozzle cut, К (℃)| | | | |
 |Thrust, N (㎏f)|587 ‑ 635 ‑ 707<br> (59.8 ‑ 64.7 ‑ 72) **⁽¹⁾**|386 ‑ 458 ‑ 470<br> (39.3 ‑ 46.9 ‑ 49.7) **⁽¹⁾**|367 ‑ 407 ‑ 456<br> (37.4 ‑ 41.5 ‑ 46.4) **⁽¹⁾**|900 ‑ 1 100 ‑ 1 300<br> (91.7 ‑ 102 ‑ 132.5) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|317 (3 110) **⁽¹⁾**|324 (3 178) **⁽¹⁾**|318 (3 118) **⁽¹⁾**|323 (3 118) **⁽²⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|317 (3 110) **⁽¹⁾**|324 (3 178) **⁽¹⁾**|318 (3 118) **⁽¹⁾**|323 (3 118) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|2 520 **⁽¹⁾**|5 800 **⁽¹⁾**|4 000 **⁽¹⁾**| |
 |Thrust — max switch. frequency, ㎐| | | |17 ‑ 34 **⁽³⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | | |
@@ -1727,8 +1727,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽²⁾**|9 **⁽²⁾**|
 |[Voltage](sps.md), V|27 (20 ‑ 34)|27 (20 ‑ 34)|
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[N](азот.md) ・ [He](гелий.md) **⁽²⁾**|[N](азот.md) ・ [He](гелий.md) **⁽²⁾**|
-|Fuel — consumption, ㎏/s, ≤|0.001.143 ・ 0.000.442|0.001.143 ・ 0.000.442|
+|[Fuel](ps.md) (+ combustion products)|[N](азот.md) ・ [He](гелий.md) **⁽²⁾**|[N](азот.md) ・ [He](гелий.md) **⁽²⁾**|
+|Fuel — consumption, ㎏/s, ≤|0.001.143.647 ・ 0.000.442.128|0.001.143.647 ・ 0.000.442.128|
 |Fuel — mass ratio of components|—|—|
 |Fuel — resource, ㎏, ≥|11.4 ・ 4.4|11.4 ・ 4.4|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | |
@@ -1737,7 +1737,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|0.819±0.0082 (0.083±0.00083) ・<br> 0.733±0.0074 (0.074±0.00074) **⁽²⁾**|0.819±0.0082 (0.083±0.00083) ・<br> 0.733±0.0074 (0.074±0.00074) **⁽²⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|73 (716) ・ 169 (1 658) **⁽²⁾**|73 (716) ・ 169 (1 658) **⁽²⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|73 (716) ・ 169 (1 658) **⁽²⁾**|73 (716) ・ 169 (1 658) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.05 ‑ 100 **⁽²⁾**|0.05 ‑ 100 **⁽²⁾**|
 |Thrust — max switch. frequency, ㎐|10 **⁽²⁾**|10 **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -1775,8 +1775,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V|27 (20 ‑ 34)|
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[N](азот.md) ・ [Air](воздух.md) **⁽¹⁾** (N ・ Air)|
-|Fuel — consumption, ㎏/s, ≤|0.007.281|
+|[Fuel](ps.md) (+ combustion products)|[N](азот.md) ・ [Air](воздух.md) **⁽¹⁾** (N ・ Air)|
+|Fuel — consumption, ㎏/s, ≤|0.007.281.199|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|214.79|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1785,7 +1785,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|5 (0.5) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|70 (686) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|70 (686) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.012 ‑ 3 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1823,8 +1823,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| | |9|9|
 |[Voltage](sps.md), V| | | | |
 |**［Specific］**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|
-|Fuel — consumption, ㎏/s, ≤| |141.318977|160.4251266|122.205663|
+|[Fuel](ps.md) (+ combustion products)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|
+|Fuel — consumption, ㎏/s, ≤| |141.318|160.425|122.205|
 |Fuel — mass ratio of components|2.17|2.17|2.17|2.17|
 |Fuel — resource, ㎏, ≥| | |260 000|40 500|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| | |6.77 (66.4)| |
@@ -1833,7 +1833,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | | | |
 |Temper. — nozzle cut, К (℃)| | | | |
 |Thrust, N (㎏f)|340 000 (34 658)|420 000 (42 813)|480 000 (49 930)|410 000 (41 896)|60 ‑ 100| |
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| |303 (2 972)|305 (2 992)|342 (3 355)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| |303 (2 972)|305 (2 992)|342 (3 355)|
 |Thrust — max duration of 1 thrust, s| | | | |
 |Thrust — max switch. frequency, ㎐| | | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | | |
@@ -1863,8 +1863,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|7|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|
-|Fuel — consumption, ㎏/s, ≤| | |
+|[Fuel](ps.md) (+ combustion products)|[O+Kerosene](o_plus.md)|[O+Kerosene](o_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|119.833 ‑ 299.582|106.696 ‑ 273.588|
 |Fuel — mass ratio of components|2.34|2.36|
 |Fuel — resource, ㎏, ≥| | |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|9.7 (95.2)| |
@@ -1873,7 +1873,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|365 600 ‑ 914 000 (37 270 ‑ 93 170)|364 250 ‑ 934 000 (37 130 ‑ 95 208)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|311 (3 051)|348 (3 413)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|311 (3 051)|348 (3 413)|
 |Thrust — max duration of 1 thrust, s| | |
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -1923,8 +1923,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0033493519 ‑ 0.00884053656|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.003.349.351 ‑ 0.008.840.536|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|115|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1933,7 +1933,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|6.9 ‑ 19.6 (0.7034 ‑ 1.998)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|210 ‑ 226 (2 060 ‑ 2 218)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|210 ‑ 226 (2 060 ‑ 2 218)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -1971,8 +1971,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.01090486689 ‑ 0.02265262204|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.010.904.866 ‑ 0.022.652.622|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|120|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -1981,7 +1981,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|23 ‑ 50 (2.3445 ‑ 5.0968)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|215 ‑ 225 (2 110 ‑ 2 208)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|215 ‑ 225 (2 110 ‑ 2 208)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2019,8 +2019,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.000727413 ‑ 0.002560005|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.000.727.413 ‑ 0.002.560.005|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|180|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -2029,7 +2029,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|1.47 ‑ 5.5 (0.1498 ‑ 0.5607)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|206 ‑ 219 (2 020 ‑ 2 150)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|206 ‑ 219 (2 020 ‑ 2 150)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2067,8 +2067,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0001421234 ‑ 0.0005357608|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.000.142.123 ‑ 0.000.535.760|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|100|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -2077,7 +2077,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.29 ‑ 1.13 (0.0296 ‑ 0.1152)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|208 ‑ 215 (2 040 ‑ 2 110)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|208 ‑ 215 (2 040 ‑ 2 110)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2115,7 +2115,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|3|3|6|6|
 |[Voltage](sps.md), V| | | | |
 |**［Specific］**|• • •|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|
+|[Fuel](ps.md) (+ combustion products)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|[O+Methane](o_plus.md)<br> (H₂, H₂O, CO, CO₂)|
 |Fuel — consumption, ㎏/s, ≤|922.5|934.08|486.82|516.58|
 |Fuel — mass ratio of components|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|3.5 ‑ 3.8|
 |Fuel — resource, ㎏, ≥| | | | |
@@ -2125,7 +2125,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|3 250|3 250|3 250|3 250|
 |Temper. — nozzle cut, К (℃)| | | | |
 |Thrust, N (㎏f)|657 000 ‑ 3 285 000<br> (66 970 ‑ 334 860)|700 000 ‑ 3 500 000<br> (71 350 ‑ 356 770)|1 700 000<br> (173 290)|1 900 000<br> (193 680)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|363 (3 561)|382 (3 747)|356 (3 492)|375 (3 678)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|363 (3 561)|382 (3 747)|356 (3 492)|375 (3 678)|
 |Thrust — max duration of 1 thrust, s| | | | |
 |Thrust — max switch. frequency, ㎐| | | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | | |
@@ -2174,8 +2174,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|
-|Fuel — consumption, ㎏/s, ≤|0.0404|
+|[Fuel](ps.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|0.040.410|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|4 047|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.74 (7.3)|
@@ -2184,7 +2184,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|111 (11.3)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|280 (2 747)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|280 (2 747)|
 |Thrust — max duration of 1 thrust, s|100 180|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2225,8 +2225,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|
-|Fuel — consumption, ㎏/s, ≤|0.158|
+|[Fuel](ps.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|0.160.093|
 |Fuel — mass ratio of components|1.65 (1.0 ‑ 2.4)|
 |Fuel — resource, ㎏, ≥|6 450|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.76 (7.45)|
@@ -2235,7 +2235,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|490 (50)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|312 (3 060)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|312 (3 060)|
 |Thrust — max duration of 1 thrust, s|3 600|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2276,7 +2276,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|
+|[Fuel](ps.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -2286,7 +2286,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|22 (2.24)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| |
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2324,8 +2324,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|9|
 |[Voltage](sps.md), V| | |
 |**【Specific】**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|[NTO+MMH](nto_plus.md)|
-|Fuel — consumption, ㎏/s, ≤|1.358|0.14|
+|[Fuel](ps.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|[NTO+MMH](nto_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|1.037.356 ‑ 1.289.200 ‑ 1.778.230|1.391.628|
 |Fuel — mass ratio of components|1.6| |
 |Fuel — resource, ㎏, ≥|20 800|3 220|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|1.07 (10.5)|1.05 (10.34)|
@@ -2334,7 +2334,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|3 114 ‑ 3 870 ‑ 5 338 (317.4 ‑ 394.5 ‑ 544)|4 000 (407.7)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|306 (3 000)|293 (2 875)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|306 (3 000)|293 (2 875)|
 |Thrust — max duration of 1 thrust, s|500|23 000|
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -2376,8 +2376,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|9|
 |[Voltage](sps.md), V| | |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.3|0.3|
+|[Fuel](ps.md) (+ combustion products)|[NTO+MMH](nto_plus.md)|[NTO+Hydrazine](nto_plus.md) (H₂, H₂O, NH₃, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.299.418|0.299.418|
 |Fuel — mass ratio of components| | |
 |Fuel — resource, ㎏, ≥|8 100|8 100|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.72 (7.1)|0.72 (7.1)|
@@ -2386,7 +2386,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|890 (90.7)|890 (90.7)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|303 (2 970)|303 (2 970)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|303 (2 970)|303 (2 970)|
 |Thrust — max duration of 1 thrust, s|3 940|3 940|
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -2416,18 +2416,18 @@ A list of [Engines](ps.md).
 |:--|:--|:--|:--|
 |Composition| | | |
 |Consumption, W|2 000 ‑ 2 500|4 000 ‑ 4 500|4 800 ‑ 5 300|
-|Dimensions, ㎜|330 × 220|330 × 220|330 × 220|
+|Dimensions, ㎜|220 × ⌀330|220 × ⌀330|220 × ⌀330|
 |[Interfaces](interface.md)| | | |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|… / …|
 |Mass, ㎏|10|10|10|
-|[Overload](vibration.md), Grms| | | |
+|[Overload](vibration.md), Grms|8.1|8.1|8.1|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | | |
-|[Thermal range](tcs.md), ℃| | | |
+|[Thermal range](tcs.md), ℃|−50 ‑ +190 for operation,<br> −60 ‑ +190 for storage|−50 ‑ +190 for operation,<br> −60 ‑ +190 for storage|−50 ‑ +190 for operation,<br> −60 ‑ +190 for storage|
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|[Xenon](xenon.md)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|[Xenon](xenon.md)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.002.098 ‑ <br>0.000.002.562|0.000.004.664 ‑ <br>0.000.004.980|0.000.008.238 ‑ <br>0.000.007.969|
 |Fuel — mass ratio of components|—|—|—|
 |Fuel — resource, ㎏, ≥|151.1 ‑ 184.53|335.83 ‑ 358.58|593.14 ‑ 573.81|
@@ -2437,7 +2437,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | | |
 |Temper. — nozzle cut, К (℃)| | | |
 |Thrust, N (㎏f)|0.070 ‑ 0.088<br> (0.0071 ‑ 0.0089)|0.151 ‑ 0.171<br> (0.0154 ‑ 0.0174)|0.198 ‑ 0.215<br> (0.0201 ‑ 0.0219)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|3 400 ‑ 3 500<br> (33 350 ‑ 34 350)|3 300 ‑ 3 500<br> (32 350 ‑ 34 350)|2 450 ‑ 2 750<br> (24 400 ‑ 27 000)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|3 400 ‑ 3 500<br> (33 350 ‑ 34 350)|3 300 ‑ 3 500<br> (32 350 ‑ 34 350)|2 450 ‑ 2 750<br> (24 400 ‑ 27 000)|
 |Thrust — max duration of 1 thrust, s| | | |
 |Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
@@ -2465,18 +2465,18 @@ A list of [Engines](ps.md).
 |:--|:--|:--|:--|
 |Composition| | | |
 |Consumption, W|145|435|760|
-|Dimensions, ㎜|186 × 134|186 × 134|186 × 134|
+|Dimensions, ㎜|134 × ⌀186|134 × ⌀186|134 × ⌀186|
 |[Interfaces](interface.md)| | | |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|… / …|… / …|
 |Mass, ㎏|1.8|1.8|1.8|
-|[Overload](vibration.md), Grms| | | |
+|[Overload](vibration.md), Grms|22.9|22.9|22.9|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| | | |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| | | |
-|[Thermal range](tcs.md), ℃| | | |
+|[Thermal range](tcs.md), ℃|−75 ‑ +140 for operation,<br> −85 ‑ +140 for storage|−75 ‑ +140 for operation,<br> −85 ‑ +140 for storage|−75 ‑ +140 for operation,<br> −85 ‑ +140 for storage|
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|[Xenon](xenon.md)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|[Xenon](xenon.md)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.000.268.254|0.000.000.509.683|0.000.000.796.381|
 |Fuel — mass ratio of components|—|—|—|
 |Fuel — resource, ㎏, ≥|19.31|36.69|57.34|
@@ -2486,7 +2486,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | | |
 |Temper. — nozzle cut, К (℃)| | | |
 |Thrust, N (㎏f)|0.005 (0.0005)|0.015 (0.0015)|0.025 (0.0025)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|1 900 (18 600)|3 000 (29 400)|3 200 (31 400)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|1 900 (18 600)|3 000 (29 400)|3 200 (31 400)|
 |Thrust — max duration of 1 thrust, s| | | |
 |Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
@@ -2514,18 +2514,18 @@ A list of [Engines](ps.md).
 |:--|:--|
 |Composition| |
 |Consumption, W|50|
-|Dimensions, ㎜|76 × 78|
+|Dimensions, ㎜|76 × ⌀78|
 |[Interfaces](interface.md)| |
 |[Lifetime](lifetime.md)/Resource, h(y)|… / …|
 |Mass, ㎏|0.44|
-|[Overload](vibration.md), Grms| |
+|[Overload](vibration.md), Grms|18.4|
 |[Rad.resist](ion_rad.md), ㏉ (㎭)| |
 |[Reliability](qm.md) per [lifetime](lifetime.md)| |
-|[Thermal range](tcs.md), ℃| |
+|[Thermal range](tcs.md), ℃|−40 ‑ +160 for operation, −60 ‑ +160 for storage|
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.000.016.989 ‑ 0.000.000.016.989|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|1.223|
@@ -2535,14 +2535,14 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.00005 ‑ 0.0005 (0.00000509 ‑ 0.0000509)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|300 ‑ 3 000 (2 943 ‑ 29 430)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|300 ‑ 3 000 (2 943 ‑ 29 430)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
 |Thrust — torch angle, °|17|
 |Thrust — total pulses, ≥|10 000|
 |Thrust — total thrust, N (㎏f), ≥|3 600 ‑ 36 000|
-|Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 г)|
+|Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 y)|
 |[Turbopump](turbopump.md) speed, rpm|—|
 | |[![](f/ps/r/rit_micro_ion_thruster_thumb.webp)](f/ps/r/rit_micro_ion_thruster.jpg)|
 
@@ -2574,7 +2574,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**【Specific】**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
+|[Fuel](ps.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
 |Fuel — consumption, ㎏/s, ≤|493.5|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -2584,7 +2584,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|3 573 (3 300)|
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|1 192 250 ‑ 1 779 500 ‑ 1 939 650 (121 530 ‑ 181 400 ‑ 197 720) sea lvl;<br> 1 462 600 ‑ 2 183 000 ‑ 2 379 500 (149 100 ‑ 222 600 ‑ 242 550) vacuum|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|363 (…) sea lvl; 453 (…) vacuum|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|363 (…) sea lvl; 453 (…) vacuum|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2625,8 +2625,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|9|9|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|
-|Fuel — consumption, ㎏/s, ≤|0.0035 (0.0023 ‑ 0.0042)|0.0035 (0.0023 ‑ 0.0042)|0.0035 (0.0023 ‑ 0.0042)|
+|[Fuel](ps.md) (+ combustion products)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|[NTO (MON‑1, ‑3) + MMH](nto_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|0.003.490 (0.0023 ‑ 0.0042)|0.003.490 (0.0023 ‑ 0.0042)|0.003.490 (0.0023 ‑ 0.0042)|
 |Fuel — mass ratio of components|1.65 (1.2 ‑ 2.1)|1.65 (1.2 ‑ 2.1)|1.65 (1.2 ‑ 2.1)|
 |Fuel — resource, ㎏, ≥|870|870|870|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.91 (9)|0.91 (9)|0.91 (9)|
@@ -2635,7 +2635,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | | |
 |Temper. — nozzle cut, К (℃)| | | |
 |Thrust, N (㎏f)|6 ‑ 10 ‑ 12.5 (0.6 ‑ 1 ‑ 1.27)|6 ‑ 10 ‑ 12.5 (0.6 ‑ 1 ‑ 1.27)|6 ‑ 10 ‑ 12.5 (0.6 ‑ 1 ‑ 1.27)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|292 (2 860)|292 (2 860)|292 (2 860)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|292 (2 860)|292 (2 860)|292 (2 860)|
 |Thrust — max duration of 1 thrust, s|28 800|28 800|28 800|
 |Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
@@ -2680,8 +2680,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|5 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+Methane](o_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂)|
-|Fuel — consumption, ㎏/s, ≤|20.26859504|
+|[Fuel](ps.md) (+ combustion products)|[O+Methane](o_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂)|
+|Fuel — consumption, ㎏/s, ≤|20.268|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -2690,7 +2690,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|73 575 (7 500) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|370 (3 630) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|370 (3 630) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2728,8 +2728,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|6.1159601|4.4303225|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|6.115.960|4.430.322|
 |Fuel — mass ratio of components|1.95 ‑ 2.05|2 ‑ 2.1|
 |Fuel — resource, ㎏, ≥|12 230|8 860|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|9.8 (98) **⁽¹⁾**|6.85 (58.5) **⁽¹⁾**|
@@ -2738,7 +2738,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|19 620 (2 000) **⁽¹⁾**|13 734 (1 400) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|327 (3 208) **⁽¹⁾**|316 (3 100) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|327 (3 208) **⁽¹⁾**|316 (3 100) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| | |
 |Thrust — max switch. frequency, ㎐|1 pulse/6 min **⁽¹⁾** (max pause 300 d)|1 pulse/6 min **⁽¹⁾** (max pause 300 d)|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -2777,8 +2777,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|1.9672131|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|1.967.213|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -2787,7 +2787,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|5 886 (600)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|305 (2 983)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|305 (2 983)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -2826,8 +2826,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|6 **⁽¹⁾**|3 **⁽²⁾**|
 |[Voltage](sps.md), V|27±3|27±3|
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0023509|0.0024469|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.002.354.435|0.002.446.483|
 |Fuel — mass ratio of components|1.838 ± 0.097 **⁽¹⁾**|1.85 **⁽²⁾**|
 |Fuel — resource, ㎏, ≥|11|48|
 |Press. — engine entrance, ㎫ (㎏f/㎝²)|1.47 (15) **⁽¹⁾**|1.2 (12) **⁽²⁾**|
@@ -2836,7 +2836,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|1 900 (1 700) **⁽¹⁾**| |
 |Temper. — nozzle cut, К (℃)|600 (330) **⁽¹⁾**| |
 |Thrust, N (㎏f)|6.19±0.143 (0.631±0.015) **⁽¹⁾**|6 (0.6) **⁽²⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|268.4±15.4 (2 633±151) **⁽¹⁾**|250 (2 452) **⁽²⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|268.4±15.4 (2 633±151) **⁽¹⁾**|250 (2 452) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s|0.045 ‑ 100 **⁽¹⁾**|0.045 ‑ 150 **⁽²⁾**|
 |Thrust — max switch. frequency, ㎐|10.5 **⁽¹⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|0.294 (0.03) **⁽¹⁾**| |
@@ -2876,8 +2876,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0087406・ 0.0083248|0.0089605|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.008.762.988・ 0.008.324.838|0.008.973.309|
 |Fuel — mass ratio of components| |1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|208|220|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.78 (8)|0.8 (8) **⁽¹⁾**|
@@ -2886,7 +2886,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|24.5 (2.5)|25 (2.5) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|285 (2 803)・ 300 (2 943) **⁽²⁾**|284 (2 790) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|285 (2 803)・ 300 (2 943) **⁽²⁾**|284 (2 790) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 4 000|0.03 ‑ 4 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -2926,8 +2926,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0331418・ 0.0322591|0.0369685|0.0335570|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.033.141・ 0.032.259|0.036.968|0.033.557|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 610|371|1 680|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.74 (7.5)|1.5 (15) **⁽¹⁾**|0.77 (7.7) **⁽¹⁾**|
@@ -2936,7 +2936,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|
 |Temper. — nozzle cut, К (℃)| | | |
 |Thrust, N (㎏f)|98.1 (10.0)|100 (10.2) **⁽¹⁾**|100 (10.2) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|302 (2 960)・ 310 (3 041) **⁽²⁾**|275 (2 705) **⁽¹⁾**|303 (2 980) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|302 (2 960)・ 310 (3 041) **⁽²⁾**|275 (2 705) **⁽¹⁾**|303 (2 980) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 2 500|0.05 ‑ 300 **⁽¹⁾**|0.05 ‑ 4 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
@@ -2976,8 +2976,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|6 **⁽¹⁾**|3 **⁽²⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.01768639251|0.01757469244|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹ ²⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.017.686|0.017.574|
 |Fuel — mass ratio of components|1.85 ± 0.05 **⁽¹ ²⁾**|1.85 ± 0.05 **⁽¹ ²⁾**|
 |Fuel — resource, ㎏, ≥|177|439|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.775 (7.6) **⁽¹⁾**|0.75 (7.5) **⁽²⁾**|
@@ -2986,7 +2986,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|2 500 (2 300) **⁽¹⁾**| |
 |Temper. — nozzle cut, К (℃)|600 (330) **⁽¹⁾**| |
 |Thrust, N (㎏f)|52.9 (5.4) **⁽¹⁾**|50 (5.1) **⁽²⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|305±2 (2 991±15) **⁽¹⁾**|290 (2 845)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|305±2 (2 991±15) **⁽¹⁾**|290 (2 845)|
 |Thrust — max duration of 1 thrust, s|0.045 ‑ 3 000 **⁽¹⁾**|0.03 ‑ 4 000 **⁽²⁾**|
 |Thrust — max switch. frequency, ㎐|10.5 **⁽¹⁾**| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|0.75 ‑ 2.34 (0.076 ‑ 0.239) **⁽¹⁾**| |
@@ -3026,8 +3026,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|9 **⁽¹⁾**|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| | | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0651394・ 0.0634951|0.0727272|0.0680272|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|[NTO+UDMH](nto_plus.md) **⁽¹⁾**<br> (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.065.139・ 0.063.495|0.072.727|0.068.027|
 |Fuel — mass ratio of components|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|1.85 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 270|364|682|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.74 (7.5)|1.5 (15) **⁽¹⁾**|0.7 (7) **⁽¹⁾**|
@@ -3036,7 +3036,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|3 300 ‑ 3 800 (3 000 ‑ 3 500)|
 |Temper. — nozzle cut, К (℃)| | | |
 |Thrust, N (㎏f)|196.2 (20.0)|200 (20.4) **⁽¹⁾**|200 (20.4) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|307 (3 012)・ 315 (3 090) **⁽²⁾**|280 (2 750) **⁽¹⁾**|299 (2 940) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|307 (3 012)・ 315 (3 090) **⁽²⁾**|280 (2 750) **⁽¹⁾**|299 (2 940) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 2 500|0.05 ‑ 300 **⁽¹⁾**|0.05 ‑ 4 000 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐| | | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | | |
@@ -3076,8 +3076,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V|27±3|
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|1.2546385 - 1.5054382|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|1.254.638 - 1.505.438|
 |Fuel — mass ratio of components|1.886 ± 0.1 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 580|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|4.02 ‑ 4.78 (39.7 ‑ 47.2) |
@@ -3086,7 +3086,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|2 500 (2 300)|
 |Temper. — nozzle cut, К (℃)|690 (420) **⁽¹⁾**|
 |Thrust, N (㎏f)|3 922 - 4 706 (400 - 480) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|319±3 (3 126±29) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|319±3 (3 126±29) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|5 - 460 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐|1 pulse/15 s for landing **⁽¹⁾**; 1 pulse/9 000 s for flight **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|1 961±392 (200±40) **⁽¹⁾**|
@@ -3127,8 +3127,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V|27±3|
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|1.254638516 - 1.726167626|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) **⁽¹⁾** (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|1.254.638 - 1.726.167|
 |Fuel — mass ratio of components|1.886 ± 0.1 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|1 580|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -3137,7 +3137,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|2 500 (2 300)|
 |Temper. — nozzle cut, К (℃)|690 (420) **⁽¹⁾**|
 |Thrust, N (㎏f)|3 922-5 396 (400-550) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|319±3 (3 126±29) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|319±3 (3 126±29) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|460 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐|1 pulse/15 s for landing **⁽¹⁾**; 1 pulse/9 000 s for flight **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|1 961±392 (200±40) **⁽¹⁾**|
@@ -3178,8 +3178,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|MON-3 + [MMH](mmh.md) or [NTO + UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.078 (0.06 ‑ 0.1)|
+|[Fuel](ps.md) (+ combustion products)|MON-3 + [MMH](mmh.md) or [NTO + UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.067.957 ‑ 0.081.549 ‑ 0.101.936|
 |Fuel — mass ratio of components|1.65 (1.2 ‑ 1.9)|
 |Fuel — resource, ㎏, ≥|3 600|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.815 (8)|
@@ -3188,7 +3188,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)|1 420 (+1 150)|
 |Temper. — nozzle cut, К (℃)|1 070 (800)|
 |Thrust, N (㎏f)|180±15 ‑ 216±10 ‑ 270±15 (18.3±1.5 ‑ 22±1 ‑ 27.5±1.5)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|270 (2 650)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|270 (2 650)|
 |Thrust — max duration of 1 thrust, s|11 400|
 |Thrust — max switch. frequency, ㎐|5|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3228,8 +3228,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|9|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO (MON‑1, MON‑3) + MMH](nto_plus.md)|[NTO (MON‑1, MON‑3) + MMH](nto_plus.md)|
-|Fuel — consumption, ㎏/s, ≤|0.135 (0.11 ‑ 0.142)|0.135 (0.11 ‑ 0.142)|
+|[Fuel](ps.md) (+ combustion products)|[NTO (MON‑1, MON‑3) + MMH](nto_plus.md)|[NTO (MON‑1, MON‑3) + MMH](nto_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|0.108.989 ‑ 0.134.633 ‑ 0.141.044|0.107.970 ‑ 0.134.963 ‑ 0.139.726|
 |Fuel — mass ratio of components|1.65 (1.5 ‑ 1.8)|1.65 (1.5 ‑ 1.8)|
 |Fuel — resource, ㎏, ≥|4 000|4 100|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|1.02 (10)|1.02 (10)|
@@ -3238,7 +3238,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|340 ‑ 420 ‑ 440 (34.65 ‑ 42.8 ‑ 44.85)|340 ‑ 425 ‑ 440 (34.65 ‑ 43.3 ‑ 44.85)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|318 (3 120)|321 (3 150)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|318 (3 120)|321 (3 150)|
 |Thrust — max duration of 1 thrust, s|4 000|6 700|
 |Thrust — max switch. frequency, ㎐| | |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -3280,7 +3280,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.000.891.946|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|4.81|
@@ -3290,7 +3290,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.007 (0.0007) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|800 (7 850) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|800 (7 850) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3328,7 +3328,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.001.659.436|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|14.93|
@@ -3338,7 +3338,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.014 (0.0014) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|860 (8 430) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|860 (8 430) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3376,7 +3376,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.002.773.790|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|30.95|
@@ -3386,7 +3386,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.04 (0.0041) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|1 470 (14 420) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|1 470 (14 420) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3424,7 +3424,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.005.640.502|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|203.05|
@@ -3434,7 +3434,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.083 (0.0084) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|1 500 (14 700) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|1 500 (14 700) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3473,7 +3473,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹ ²⁾**|9 **⁽¹ ²⁾**|
 |[Voltage](sps.md), V| | |
 |**［Specific］**|• • •|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md) **⁽¹ ²⁾**|[Xenon](xenon.md) **⁽¹ ²⁾**|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md) **⁽¹ ²⁾**|[Xenon](xenon.md) **⁽¹ ²⁾**|
 |Fuel — consumption, ㎏/s, ≤|0.000.011.710.596|0.000.017.701.599|
 |Fuel — mass ratio of components|—|—|
 |Fuel — resource, ㎏, ≥|330.94|495.64|
@@ -3483,7 +3483,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| | |
 |Temper. — nozzle cut, К (℃)| | |
 |Thrust, N (㎏f)|0.193 (0.0196) **⁽¹⁾**|0.29 (0.0295)|⁺ ⁵₋₁₅ **⁽²⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|1 680 (16 480) **⁽¹⁾**|1 670 (16 382) **⁽²⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|1 680 (16 480) **⁽¹⁾**|1 670 (16 382) **⁽²⁾**|
 |Thrust — max duration of 1 thrust, s| |60 ‑ 360 000 **⁽²⁾**|
 |Thrust — max switch. frequency, ㎐| |1 pulse/15 m **⁽²⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| | |
@@ -3521,7 +3521,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|3 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Xenon](xenon.md)|
+|[Fuel](ps.md) (+ combustion products)|[Xenon](xenon.md)|
 |Fuel — consumption, ㎏/s, ≤|0.000.029.637.180|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥| |
@@ -3531,7 +3531,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.785 (0.080) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|2 700 (26 480) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|2 700 (26 480) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3569,8 +3569,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0004633 - 0.0025949|
+|[Fuel](ps.md) (+ combustion products)|[Hydrazine](hydrazine.md) **⁽¹⁾** (H₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.000.463.349 - 0.002.594.754|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|200 **⁽¹⁾**|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.8 (8) **⁽¹⁾**|
@@ -3579,7 +3579,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|1.0 - 5.6 (0.1 - 0.57) **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|220 (2 158) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|220 (2 158) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s|1 800 **⁽¹⁾**|
 |Thrust — max switch. frequency, ㎐|1 pulse/3.5 h **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3617,7 +3617,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|8|
 |[Voltage](sps.md), V|5 or 12|
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|Water (O, H)|
+|[Fuel](ps.md) (+ combustion products)|Water (O, H)|
 |Fuel — consumption, ㎏/s, ≤|0.000.000.027.726 ‑ 0.000.000.032.223|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|0.2 ‑ 0.35|
@@ -3627,7 +3627,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.000136 ‑ 0.000306 (0.0000138 ‑ 0.0000312)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|500 ‑ 968 (4 905 ‑ 9 496)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|500 ‑ 968 (4 905 ‑ 9 496)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3666,7 +3666,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V|5 or 8|
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|Water (O, H)|
+|[Fuel](ps.md) (+ combustion products)|Water (O, H)|
 |Fuel — consumption, ㎏/s, ≤|0.000.001.456.239 ‑ … ‑ 0.000.004.077.471|
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥|0.1 ‑ … ‑ 1.1|
@@ -3676,7 +3676,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|0.001 ‑ 0.002 ‑ 0.004 (0.0001 ‑ 0.0002 ‑ 0.0004)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|70 ‑ … ‑ 100 (687 ‑ … ‑ 981)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|70 ‑ … ‑ 100 (687 ‑ … ‑ 981)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3721,7 +3721,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[H peroxide](h_peroxide.md) (H₂, H₂O, O)|
+|[Fuel](ps.md) (+ combustion products)|[H peroxide](hydrogen.md) (H₂, H₂O, O)|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components|—|
 |Fuel — resource, ㎏, ≥| |
@@ -3731,7 +3731,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|9 000 (920)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| |
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3769,7 +3769,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[H peroxide](h_peroxide.md) + Kerosene|
+|[Fuel](ps.md) (+ combustion products)|[H peroxide](hydrogen.md) + Kerosene|
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -3779,7 +3779,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|140 000 (14 300)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| |
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3817,8 +3817,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+Kerosene](o_plus.md)|
-|Fuel — consumption, ㎏/s, ≤|9.871382637|
+|[Fuel](ps.md) (+ combustion products)|[O+Kerosene](o_plus.md)|
+|Fuel — consumption, ㎏/s, ≤|9.871.382|
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥|987|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|0.93 (9.12)|
@@ -3827,7 +3827,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|30 700 (3 130)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|317 (3 110)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|317 (3 110)|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3868,8 +3868,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0010806|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.001.080.602|
 |Fuel — mass ratio of components|1.85±0.2|
 |Fuel — resource, ㎏, ≥|0.63|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -3878,7 +3878,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|3 (0.3)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|283 (2 776)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|283 (2 776)|
 |Thrust — max duration of 1 thrust, s|0.02 ‑ 600|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3915,8 +3915,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.00414651|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.004.146.581|
 |Fuel — mass ratio of components|1.85±0.2|
 |Fuel — resource, ㎏, ≥|41.3|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -3925,7 +3925,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|12 (1.22)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|295 (2 894)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|295 (2 894)|
 |Thrust — max duration of 1 thrust, s|0.02 ‑ 10 000|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -3962,8 +3962,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.0189806|
+|[Fuel](ps.md) (+ combustion products)|[NTO+UDMH](nto_plus.md) (H₂, H₂O, CO, CO₂, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.018.980|
 |Fuel — mass ratio of components|1.85±0.2|
 |Fuel — resource, ㎏, ≥| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -3972,7 +3972,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|54 (5.5)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|290 (2 845)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|290 (2 845)|
 |Thrust — max duration of 1 thrust, s|0.03 ‑ 300|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -4009,8 +4009,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
-|Fuel — consumption, ㎏/s, ≤|0.0269687|
+|[Fuel](ps.md) (+ combustion products)|[O+H](o_plus.md) (H₂, H₂O)|
+|Fuel — consumption, ㎏/s, ≤|0.026.968|
 |Fuel — mass ratio of components|1.6 ‑ 1.7|
 |Fuel — resource, ㎏, ≥| |
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)| |
@@ -4019,7 +4019,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|100 (10.2)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|378 (3 708)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|378 (3 708)|
 |Thrust — max duration of 1 thrust, s|0.01 ‑ 20|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -4056,7 +4056,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|4|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|O₂ (gas) + ethyl alcohol (H₂, H₂O, CO, CO₂, N₂)|
+|[Fuel](ps.md) (+ combustion products)|O₂ (gas) + ethyl alcohol (H₂, H₂O, CO, CO₂, N₂)|
 |Fuel — consumption, ㎏/s, ≤|1|
 |Fuel — mass ratio of components|1.2|
 |Fuel — resource, ㎏, ≥| |
@@ -4066,7 +4066,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|2 600 (265)|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|265 (2 600)|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|265 (2 600)|
 |Thrust — max duration of 1 thrust, s|0.015 ‑ 15|
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -4103,8 +4103,8 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)|9 **⁽¹⁾**|
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾** (H₂, H₂O, NH₃, N₂)|
-|Fuel — consumption, ㎏/s, ≤|0.00151260504|
+|[Fuel](ps.md) (+ combustion products)|[NTO+Hydrazine](nto_plus.md) **⁽¹⁾** (H₂, H₂O, NH₃, N₂)|
+|Fuel — consumption, ㎏/s, ≤|0.001.512.605|
 |Fuel — mass ratio of components|1 **⁽¹⁾**|
 |Fuel — resource, ㎏, ≥|5 630|
 |Press. — comb. chamber, ㎫ (㎏f/㎝²)|1.77 (17.4) **⁽¹⁾**|
@@ -4114,7 +4114,7 @@ A list of [Engines](ps.md).
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)|6 000 (606.4) **⁽¹⁾**|
 |Thrust — deviation, N (㎏f)|10 **⁽¹⁾**|
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥|323 (3 170) **⁽¹⁾**|
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥|323 (3 170) **⁽¹⁾**|
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐|0.66 **⁽¹⁾**|
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤|1 982±392 (200±40) **⁽¹⁾**|
@@ -4159,7 +4159,7 @@ A list of [Engines](ps.md).
 |[TRL](trl.md)| |
 |[Voltage](sps.md), V| |
 |**［Specific］**|• • •|
-|[Fuel](fuel.md) (+ combustion products)| |
+|[Fuel](ps.md) (+ combustion products)| |
 |Fuel — consumption, ㎏/s, ≤| |
 |Fuel — mass ratio of components| |
 |Fuel — resource, ㎏, ≥| |
@@ -4169,7 +4169,7 @@ A list of [Engines](ps.md).
 |Temper. — comb. chamber, К (℃)| |
 |Temper. — nozzle cut, К (℃)| |
 |Thrust, N (㎏f)| |
-|Thrust — [Isp](isp.md), s (N·s/㎏), ≥| |
+|Thrust — [Isp](ps.md), s (N·s/㎏), ≥| |
 |Thrust — max duration of 1 thrust, s| |
 |Thrust — max switch. frequency, ㎐| |
 |Thrust — [res.impulse](ing.md), N·s (㎏f·s), ≤| |
@@ -4193,7 +4193,7 @@ A list of [Engines](ps.md).
 |:--|
 |**[FAQ](faq.md)**［**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА］**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](drawing.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](engine_type.md)・ [Газовый двигатель](engine_type.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](engine_type.md)・ [ЖРД](engine_type.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](engine_type.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](fuel.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](isp.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](engine_type.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](engine_type.md)|
+|**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](ps.md)・ [Газовый двигатель](ps.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](ps.md)・ [ЖРД](ps.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](ps.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](ps.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](ps.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](ps.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](ps.md)|
 
    1. Docs: [Basic calculator ❐](f/ps/calc_ps_general.ods)
    1. …

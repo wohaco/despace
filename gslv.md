@@ -35,7 +35,7 @@
 |Масса старт./сух.|414 750 ㎏ / 53 450 ㎏|
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
-|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
+|[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](ps.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
 | |[![](f/lv/gslv/gslv_mk2_thumb.webp)](f/lv/gslv/gslv_mk2.jpg)|
 
 **Выводимые массы.**
@@ -62,7 +62,7 @@
 |Масса старт./сух.|644 750 ㎏ / 76 000 ㎏|
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
-|[Fuel](fuel.md)|[HTPB](htpb.md) (ускорители), [АТ + НДМГ](nto_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
+|[Fuel](ps.md)|[HTPB](ps.md) (ускорители), [АТ + НДМГ](nto_plus.md) (1 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
 | |[![](f/lv/gslv/gslv_mk3_thumb.webp)](f/lv/gslv/gslv_mk3.jpg) [![](f/lv/gslv/gslv_mk3_launcher_thumb.webp)](f/lv/gslv/gslv_mk3_launcher.jpg)|
 
 **Выводимые массы.**
@@ -91,7 +91,7 @@
 |Масса старт./сух.|414 750 ㎏ / 53 450 ㎏|
 |Разраб./изготов.|[ISRO](contact/isro.md) (Индия) / [ISRO](contact/isro.md) (Индия)|
 |Ступени|3|
-|[Fuel](fuel.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](htpb.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
+|[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md) (ускорители, 2 ступ.), [HTPB](ps.md) (1 ступ.), [Кислород + Водород](o_plus.md) (3 ступ.)|
 | |[![](f/lv/gslv/gslv_thumb.webp)](f/lv/gslv/gslv.png)|
 
 **Выводимые массы.**

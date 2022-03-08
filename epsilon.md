@@ -33,7 +33,7 @@
 |Масса старт./сух.|95 400 ㎏ / … ㎏|
 |Разраб./изготов.|[JAXA](contact/jaxa.md), [IHI](contact/ihi.md) (Япония) / [IHI](contact/ihi.md) (Япония)|
 |Ступени|3|
-|[Fuel](fuel.md)|[HTPB](htpb.md)|
+|[Fuel](ps.md)|[HTPB](ps.md)|
 | |[![](f/lv/epsilon/epsilon2_01_thumb.webp)](f/lv/epsilon/epsilon2_01.jpg) [![](f/lv/epsilon/epsilon2_02_thumb.webp)](f/lv/epsilon/epsilon2_02.jpg)|
 
 **Выводимые массы.**
@@ -62,7 +62,7 @@
 |Масса старт./сух.|91 000 ㎏ / … ㎏|
 |Разраб./изготов.|[JAXA](contact/jaxa.md), [IHI](contact/ihi.md) (Япония) / [IHI](contact/ihi.md) (Япония)|
 |Ступени|3|
-|[Fuel](fuel.md)|[HTPB](htpb.md)|
+|[Fuel](ps.md)|[HTPB](ps.md)|
 | |[![](f/lv/epsilon/epsilon1_01_thumb.webp)](f/lv/epsilon/epsilon1_01.jpg)|
 
 **Выводимые массы.**

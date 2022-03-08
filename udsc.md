@@ -15,8 +15,8 @@
 
 **Telescopes:**
 
-   - 64‑meter DSN Antenna — Deep Space Tracking Antenna. [Bands](rf.md): <mark>TBD</mark>
-   - 54‑meter DSN Antenna — Deep Space Tracking Antenna. [Bands](rf.md): <mark>TBD</mark>
+   - 64‑meter DSN Antenna — Deep Space Tracking Antenna. [Bands](comms.md): <mark>TBD</mark>
+   - 54‑meter DSN Antenna — Deep Space Tracking Antenna. [Bands](comms.md): <mark>TBD</mark>
 
 
 

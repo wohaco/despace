@@ -16,15 +16,15 @@ The **Chinese Deep Space Network (CDSN)** is a network of large antennas and com
 As of 2007, the network consisted of:
 
    - Ground control stations in Kashgar and Qingdao (in the Shandong province).
-   - 18 meter antennas in Qingdao and Kashgar. [Bands](rf.md): <mark>TBD</mark>
-   - A 50-meter antenna at Miyun (~116°E), near Beijing. [Bands](rf.md): <mark>TBD</mark>
-   - A 40-meter antenna in Yunnan (~101°E). [Bands](rf.md): <mark>TBD</mark>
+   - 18 meter antennas in Qingdao and Kashgar. [Bands](comms.md): <mark>TBD</mark>
+   - A 50-meter antenna at Miyun (~116°E), near Beijing. [Bands](comms.md): <mark>TBD</mark>
+   - A 40-meter antenna in Yunnan (~101°E). [Bands](comms.md): <mark>TBD</mark>
 
 Planned improvements by 2012, to support Chang'e 3 and Chang'e 4, include:
 
    - Upgrades to the ground facilities at Kashgar and Qingdao, and a deep-space ground control station at Jiamusi.
-   - A new 35-meter antenna at the Kashgar station. [Bands](rf.md): <mark>TBD</mark>
-   - A 64-meter antenna in Jiamusi. (~130°E) [Bands](rf.md): <mark>TBD</mark>
+   - A new 35-meter antenna at the Kashgar station. [Bands](comms.md): <mark>TBD</mark>
+   - A 64-meter antenna in Jiamusi. (~130°E) [Bands](comms.md): <mark>TBD</mark>
 
 As of 2017, China was constructing an additional ground station in South America, in the Neuquen province of Argentina (~70°W), with a 50 million-dollar investment. The facility, a part of China’s Lunar Exploration Program. It was inaugurated in October 2017. The station is seen by some as a symbol of China’s increased role in South America’s politics and economy.
 

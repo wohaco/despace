@@ -7,7 +7,7 @@
 
 > <small>**Maspalomas Station** — англоязычный термин, не имеющий аналога в русском языке. **Станция Маспаломас** — дословный перевод с английского на русский.</small>
 
-**Maspalomas Station** is an INTA‑operated, [ESTRACK](estrack.md) radio antenna station for communication with spacecraft located at the southern area of Gran Canaria island, on the INTA campus. The site hosts a 15‑metre antenna with reception in S‑ and X‑[band](rf.md) and transmission in S‑band.
+**Maspalomas Station** is an INTA‑operated, [ESTRACK](estrack.md) radio antenna station for communication with spacecraft located at the southern area of Gran Canaria island, on the INTA campus. The site hosts a 15‑metre antenna with reception in S‑ and X‑[band](comms.md) and transmission in S‑band.
 
 |*Фото*|*Карта*|
 |:--|:--|
@@ -20,7 +20,7 @@
 |:--|:--|
 |Антенны|15 м — 1 шт.|
 |Дальность связи, ㎞| |
-|[Диапазоны частот](rf.md)|S, X — 🚀↘; S — ♁↗|
+|[Диапазоны частот](comms.md)|S, X — 🚀↘; S — ♁↗|
 |Расстояние до…|3 000 — до экватора;<br> 5 500 — до NASA;<br> 5 800 — до НПОЛ|
 
 

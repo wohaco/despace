@@ -1,16 +1,13 @@
 # COSPAR
-> 2020.07.02 [🚀](../index/index.md) [despace](index.md) → [Contact](contact.md), [COSPAR](cospar.md), **[Events](event.md)**
+> .. [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-[TOC]
-
----
-> <small>**Committee on Space Research (COSPAR)** — EN term. **Комитет по космическим исследованиям (КОСПАР)** — literal RU translation.</small>
-
-|[![](f/contact/c/cospar_logo1_thumb.webp)](f/contact/c/cospar_logo1.png)|*…*|
+|[![](../f/contact/c/cospar_logo1_thumb.webp)](../f/contact/c/cospar_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *…*<br> 【<https://cosparhq.cnes.fr/>・ <https://www.cospar-assembly.org/>・ [Facebook ⎆](https://www.facebook.com/CommitteeOnSpaceResearch/)・ [Twitter ⎆](https://twitter.com/cosparhq?:lang=fr)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Committee_on_Space_Research)】|
 |:--|:--|
-|E‑mail|<mark>noemail</mark>|
-|Link|<https://cosparhq.cnes.fr/><br> <https://www.facebook.com/CommitteeOnSpaceResearch/><br> <https://twitter.com/cosparhq?:lang=fr>|
-|Tel|<mark>noworkphone</mark>, ?: …|
+|**Mission**|…|
+|**Vision**|…|
+|**Values**|…|
+|**Business**|…|
+|**[MGMT](../mgmt.md)**|…|
 
 The **Committee on Space Research (COSPAR)** was established by the International Council for Science (ICSU) in 1958. The Principles that COSPAR adheres to in pursuit of its Mission are:
 
@@ -75,17 +72,3 @@ Every second year, COSPAR calls for a **General Assembly** (also called Scientif
 |1st|1958|London, Great Britain|
 
 </small>
-
-
-
-## Docs & links
-|Navigation|
-|:--|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
-|*Sections & pages*|
-|**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
-
-   1. Docs: …
-   1. <https://cosparhq.cnes.fr/>
-   1. <https://www.cospar-assembly.org/>
-   1. <https://en.wikipedia.org/wiki/Committee_on_Space_Research>

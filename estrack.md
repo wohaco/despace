@@ -15,24 +15,24 @@
 
 **ESA stations**
 
-   - Cebreros Station (Spain). [Bands](rf.md): <mark>TBD</mark>
-   - Kiruna Station (Sweden). [Bands](rf.md): <mark>TBD</mark>
-   - Kourou Station (French Guiana). [Bands](rf.md): <mark>TBD</mark>
-   - Malargüe Station, (Argentina). [Bands](rf.md): <mark>TBD</mark>
-   - [Maspalomas Station](maspalomas_station.md) (Gran Canaria, Spain). [Bands](rf.md): <mark>TBD</mark>
-   - New Norcia Station (Australia). [Bands](rf.md): <mark>TBD</mark>
-   - Redu Station (Belgium). [Bands](rf.md): <mark>TBD</mark>
-   - Santa Maria Island Station (Azores, Portugal). [Bands](rf.md): <mark>TBD</mark>
+   - Cebreros Station (Spain). [Bands](comms.md): <mark>TBD</mark>
+   - Kiruna Station (Sweden). [Bands](comms.md): <mark>TBD</mark>
+   - Kourou Station (French Guiana). [Bands](comms.md): <mark>TBD</mark>
+   - Malargüe Station, (Argentina). [Bands](comms.md): <mark>TBD</mark>
+   - [Maspalomas Station](maspalomas_station.md) (Gran Canaria, Spain). [Bands](comms.md): <mark>TBD</mark>
+   - New Norcia Station (Australia). [Bands](comms.md): <mark>TBD</mark>
+   - Redu Station (Belgium). [Bands](comms.md): <mark>TBD</mark>
+   - Santa Maria Island Station (Azores, Portugal). [Bands](comms.md): <mark>TBD</mark>
 
 **Cooperative stations**
 
-   - Malindi Space Centre (Kenya). [Bands](rf.md): <mark>TBD</mark>
-   - Santiago (Chile). [Bands](rf.md): <mark>TBD</mark>
-   - Svalbard Satellite Station (Norway). [Bands](rf.md): <mark>TBD</mark>
+   - Malindi Space Centre (Kenya). [Bands](comms.md): <mark>TBD</mark>
+   - Santiago (Chile). [Bands](comms.md): <mark>TBD</mark>
+   - Svalbard Satellite Station (Norway). [Bands](comms.md): <mark>TBD</mark>
 
 **Former stations**
 
-   - Villafranca Station (Spain). [Bands](rf.md): <mark>TBD</mark>
+   - Villafranca Station (Spain). [Bands](comms.md): <mark>TBD</mark>
 
 Each ESTRACK station is different, supporting multiple missions, some sharing one or more of the same missions. The ESTRACK network consists of at least:
 

@@ -39,7 +39,7 @@
 |Масса старт./сух.|v.1.2 — 549 054 ㎏ / 33 800 ㎏;<br> 1.1 — 505 846 ㎏ / 31 200 ㎏;<br> 1.0 — 333 400 ㎏ / … ㎏|
 |Разраб./изготов.|[SpaceX](contact/spacex.md) (США) / [SpaceX](contact/spacex.md) (США)|
 |Ступени|2|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
+|[Fuel](ps.md)|[O + Kerosene](o_plus.md)|
 | |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**
@@ -68,7 +68,7 @@
 |Масса старт./сух.|1 420 788 кг / 72 200 ㎏|
 |Разраб./изготов.|[SpaceX](contact/spacex.md) (США) / [SpaceX](contact/spacex.md) (США)|
 |Ступени|2 + ускорители|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
+|[Fuel](ps.md)|[O + Kerosene](o_plus.md)|
 | |[![](f/lv/falcon/falconheavy_2019_thumb.webp)](f/lv/falcon/falconheavy_2019.jpg) [![](f/lv/falcon/falconheavy_rboostes_thumb.webp)](f/lv/falcon/falconheavy_rboostes.jpg) [![](f/lv/falcon/falconheavy_working_engines_thumb.webp)](f/lv/falcon/falconheavy_working_engines.jpg)|
 
 **Выводимые массы.**

@@ -32,7 +32,7 @@
 |Масса старт./сух.|23 100 ㎏ / … ㎏|
 |Разраб./изготов.|CASC group (Китай) / CASC group (Китай)|
 |Ступени|4|
-|[Fuel](fuel.md)|[HTPB](htpb.md)|
+|[Fuel](ps.md)|[HTPB](ps.md)|
 | |[![](f/lv/smart_dragon/jielong1_01_thumb.webp)](f/lv/smart_dragon/jielong1_01.jpg) [![](f/lv/smart_dragon/jielong1_02_thumb.webp)](f/lv/smart_dragon/jielong1_02.jpg)|
 
 **Выводимые массы.**

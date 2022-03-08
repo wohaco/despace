@@ -27,7 +27,7 @@ The spacecraft were designated VeGa, a contraction of Venera and Gallei («Ве�
 |[Type](sc.md)|Fly‑by spacecraft; lander spacecraft; atmospheric spacecraft|
 |**【Spacecraft】**|• • •|
 |Composition|Orbiter; Lander; Balloon Aerostat|
-|Comms|[L‑band](rf.md)|
+|Comms|[L‑band](comms.md)|
 |Contractor|…|
 |[ID](spaceid.md)|・«Vega 1» NSSDC ID (COSPAR ID): FM — [1984-125A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-125A), DM — [1984-125E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125E), BA — [1984-125F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-125F), SCN: FM — 15432, DM — 15858, BA — 15859<br> ・«Vega 2» NSSDC ID (COSPAR ID): FM — [1984-128A ⎆](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?:id=1984-128A), DM — [1984-128E ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128E), BA — [1984-128F ⎆](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1984-128F), SCN: FM — 15449, DM — 15856, BA — 15857|
 |Manufacturer|NPO Lavochkin|

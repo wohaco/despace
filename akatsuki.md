@@ -32,7 +32,7 @@
 |Payload|・5 cameras for: lightning, glow, IR, UV;<br> ・equipment for radiography|
 |Contractor|…|
 |Developer|[NEC Space Technologies](contact/nec.md)|
-|Communication|[X‑band](rf.md), 20 W, 1.6 m² dish antenna|
+|Communication|[X‑band](comms.md), 20 W, 1.6 m² dish antenna|
 |Structure|Orbiter|
 |Power|700 W, 2 × 1.4 m²|
 
@@ -161,7 +161,7 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 • 4 × 3 N (0.3 ㎏f) correction engines on [Hydrazine](hydrazine.md).  
 The first spacecraft to use silicon nitride brake engines.
 
-**Communication** is carried out in the [X‑band](rf.md) at a frequency of 8 ㎓, a transmitter with a power of 20 W.  
+**Communication** is carried out in the [X‑band](comms.md) at a frequency of 8 ㎓, a transmitter with a power of 20 W.  
 • 1 × HGA, 1.6 m diameter antenna for Earth connection, flat shape to reduce heat dissipation,
 • 2 × rotary MGA for receiving & transmitting service information,  
 • 2 × LGA for receiving & transmitting service information.
@@ -208,7 +208,7 @@ The method of ringing the surface using the near‑IR range is also slightly dif
 <p style="page-break-after:always"> </p>
 
 ## Payload
-The payload includes 6 instruments, including 5 cameras for exploring Venus in the [range](rf.md) UV to mid-IR, as well as one instrument for radio transmission:
+The payload includes 6 instruments, including 5 cameras for exploring Venus in the [range](comms.md) UV to mid-IR, as well as one instrument for radio transmission:
 
    - **Infrared 1 μm camera (IR1)** — for shooting thermal radiation emitted by the surface of Venus on the shadow side (range 0.90 ‑ 1.01 µm), which allows you to detect active volcanoes, if they exist. The camera also allows you to observe solar near‑IR radiation (0.90 µm) reflected from clouds at an average altitude on the solar side of Venus. A camera with a focal length of 84.2 ㎜ (f/4) & a field of view (FOV) of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 260 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Naomoto Iwagami](person.md) (ex. Tokyo Univ.).
    - **Infrared 2 μm camera (IR2)** — to investigate the permeability of low clouds on the shadow side of Venus in relation to the thermal radiation of the surface & near ‑ surface atmosphere (1.74 ‑ 2.32 µm). It also detects a range of CO₂ (2.02 µm) on the solar side, which allows to determine the upper boundary of clouds. Third, the 1.65 µm filter allows to study the zodiac light during the flight Earth — Venus. A camera with a focal length of 84.2 ㎜ (f/4) & FOV of 12°. Detector with a 1024 × 1024 pixel CCD sensor, cooled to 65 K. Due to problems with electronics, it has not been functioning since December 2016. [PI](principal_investigator.md) — [Takehiko Satoh](person.md) (ISAS/JAXA).

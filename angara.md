@@ -51,7 +51,7 @@
 |Масса старт./сух.|773 000 ㎏ / … ㎏|
 |Разраб./изготов.|[ГКНПЦ Хруничева](contact/khrunichev.md) (Россия) / [ГКНПЦ Хруничева](contact/khrunichev.md) (Россия)|
 |Ступени|3|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
+|[Fuel](ps.md)|[O + Kerosene](o_plus.md)|
 | |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.jpg)|
 
 **Выводимые массы.**

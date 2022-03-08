@@ -37,7 +37,7 @@ A list of [Communication systems](comms.md).
 |[Bitrate](bitrate.md), bit/s|(внутр. до 1 Гбит/с)|
 |Continuous work, h| |
 |Frequency instability|±10 ppm|
-|[Frequency range](rf.md), ㎐|X: 8 200 000 000 (настройка 8.1 ‑ 8.5 ㎓)|
+|[Frequency range](comms.md), ㎐|X: 8 200 000 000 (настройка 8.1 ‑ 8.5 ㎓)|
 |Distance, ㎞| |
 |Out. power, W|2.5|
 |Modulation type|QPSK, 8PSK, 16APSK, 32APSK|
@@ -78,7 +78,7 @@ A list of [Communication systems](comms.md).
 |Continuous work, h| |
 |Distance, ㎞| |
 |Frequency instability|±4 ppm|
-|[Frequency range](rf.md), ㎐|X: 8 225 000 000 (настройка 8.1 ‑ 8.5 ㎓)|
+|[Frequency range](comms.md), ㎐|X: 8 225 000 000 (настройка 8.1 ‑ 8.5 ㎓)|
 |Modulation type|QPSK, 8PSK, 16APSK и 32APSK|
 |Out. power, W|8|
 |Signal structure| |
@@ -118,7 +118,7 @@ A list of [Communication systems](comms.md).
 |Continuous work, h|определяется ресурсом батареи питания|
 |Distance, ㎞| |
 |Frequency instability|± 0.00005|
-|[Frequency range](rf.md), ㎐|100 ‑ 250|
+|[Frequency range](comms.md), ㎐|100 ‑ 250|
 |Modulation type| |
 |Out. power, W|0.3 (при [КСВ](swr.md) ≤ 2)|
 |Signal structure|посылка непрерывной несущей в течение 0.5 ± 0.3 s и посылка АИМ сигнала с частотой следования импульсов 1 500 Гц в течение 0.8 ± 0.2 с|
@@ -158,7 +158,7 @@ A list of [Communication systems](comms.md).
 |Continuous work, h|определяется ресурсом батареи питания|
 |Distance, ㎞|180|
 |Frequency instability| |
-|[Frequency range](rf.md), ㎐|10 000 000 (10 ㎒)|
+|[Frequency range](comms.md), ㎐|10 000 000 (10 ㎒)|
 |Modulation type| |
 |Out. power, W|2 (при [КСВ](swr.md) ≤ 2)|
 |Signal structure|посылка АИМ сигнала с частотой следования импульсов 1 500 Гц в течении 0.5 ± 0.2 s с паузами между посылками 1.5 с|
@@ -185,7 +185,7 @@ A list of [Communication systems](comms.md).
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Communications](comms.md)】**<br> [CCSDS](ccsds.md)・ [Антенна](antenna.md)・ [АФУ](afdev.md)・ [Битрейт](bitrate.md)・ [ВОЛП](ofts.md)・ [ДНА](дна.md)・ [Диапазоны частот](rf.md)・ [Зрение](view.md)・ [Интерферометр](interferometer.md)・ [Информация](info.md)・ [КНД](directivity.md)・ [Код Рида‑Соломона](rsco.md)・ [КПДА](antenna.md)・ [КСВ](swr.md)・ [КУ](ку.md)・ [ЛКС, АОЛС, FSO](fso.md)・ [Несущий сигнал](carrwave.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Помехи](emi.md) (EMI, RFI)・ [Последняя миля](last_mile.md)・ [Регламент радиосвязи](rf.md)・ [СИТ](etedp.md)・ [Фидер](feeder.md) <br>• • •<br> **РФ:** [БА КИС](ба_кис.md) (21)・ [БРК](brk_lav.md) (12)・ [РУ ПНИ](ру_пни.md) ()・ [HSXBDT](comms_lst.md) (1.8)・ [CSXBT](comms_lst.md) (0.38)・ [ПРИЗЫВ-3](comms_lst.md) (0.17) *([ПРИЗЫВ-1](comms_lst.md) (0.075))*|
+|**【[Communications](comms.md)】**<br> [CCSDS](ccsds.md)・ [Антенна](antenna.md)・ [АФУ](afdev.md)・ [Битрейт](bitrate.md)・ [ВОЛП](ofts.md)・ [ДНА](дна.md)・ [Диапазоны частот](comms.md)・ [Зрение](view.md)・ [Интерферометр](interferometer.md)・ [Информация](info.md)・ [КНД](directivity.md)・ [Код Рида‑Соломона](rsco.md)・ [КПДА](antenna.md)・ [КСВ](swr.md)・ [КУ](ку.md)・ [ЛКС, АОЛС, FSO](fso.md)・ [Несущий сигнал](carrwave.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Помехи](emi.md) (EMI, RFI)・ [Последняя миля](last_mile.md)・ [Регламент радиосвязи](comms.md)・ [СИТ](etedp.md)・ [Фидер](feeder.md) <br>• • •<br> **РФ:** [БА КИС](ба_кис.md) (21)・ [БРК](brk_lav.md) (12)・ [РУ ПНИ](ру_пни.md) ()・ [HSXBDT](comms_lst.md) (1.8)・ [CSXBT](comms_lst.md) (0.38)・ [ПРИЗЫВ-3](comms_lst.md) (0.17) *([ПРИЗЫВ-1](comms_lst.md) (0.075))*|
 
    1. Docs: …
    1. <…>

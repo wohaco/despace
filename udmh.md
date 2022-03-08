@@ -1,5 +1,5 @@
 # НДМГ
-> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Fuel](fuel.md)
+> 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Fuel](ps.md)
 
 [TOC]
 

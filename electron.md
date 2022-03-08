@@ -30,7 +30,7 @@ Electron позволяет вывести полезную нагрузку м�
 |Масса старт./сух.|12 550 / 1 250 ㎏|
 |Разраб./изготов.|[Rocket Lab](contact/rocket_lab.md) (США) / [Rocket Lab](contact/rocket_lab.md) (США)|
 |Ступени|2|
-|[Fuel](fuel.md)|[O + Kerosene](o_plus.md)|
+|[Fuel](ps.md)|[O + Kerosene](o_plus.md)|
 | |[![](f/lv/electron/electron_first_launch_thumb.webp)](f/lv/electron/electron_first_launch.jpg)|
 
 **Выводимые массы.**

@@ -17,8 +17,8 @@
 ## Meetings
 **The points for participation in meetings:** an advertising for a company or for you in person, expanding the business network, demonstration of possibilities, definition of perspectives.
 
-   - Major: [AGU](agu.md), [CGMS](cgms.md), [COSPAR](cospar.md), [DPS](dps.md), [EGU](egu.md), [EPSC](epsc.md), [FHS](fhs.md), [GLEX](glex.ru), [IAC](iac.md), [IPDW](ipdw.md), [IVC](ivc.md), [JpGU](jpgu.md), [LPSC](lpsc.md), [MAKS](maks.md), [MSSS](msss.md), [NIAC](niac_program.md), [PMCS](pmcs.ru), [VEXAG](vexag.md), [WSI](wsi.md).
-   - 1 time in 2 years: [COSPAR](cospar.md), [IVC](ivc.md), [MAKS](maks.md), [WSI](wsi.md); jointed 1 time in 3 years: [DPS](dps.md), [EPSC](epsc.md).
+   - Major: [AGU](agu.md), [CGMS](cgms.md), [COSPAR](contact/cospar.md), [DPS](dps.md), [EGU](egu.md), [EPSC](epsc.md), [FHS](fhs.md), [GLEX](glex.ru), [IAC](iac.md), [IPDW](ipdw.md), [IVC](ivc.md), [JpGU](jpgu.md), [LPSC](lpsc.md), [MAKS](maks.md), [MSSS](msss.md), [NIAC](niac_program.md), [PMCS](pmcs.ru), [VEXAG](vexag.md), [WSI](wsi.md).
+   - 1 time in 2 years: [COSPAR](contact/cospar.md), [IVC](ivc.md), [MAKS](maks.md), [WSI](wsi.md); jointed 1 time in 3 years: [DPS](dps.md), [EPSC](epsc.md).
    - Preparations & absttract submission in common begins 6 months before the meeting; in case of [WSI](wsi.md) — 1 ‑ 1.5 y.
    - **Major calendars:**
       - <https://www.hou.usra.edu/meetings/calendar/>
@@ -44,7 +44,7 @@
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
-|**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
+|**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](contact/cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|
 
    1. Docs:
       - [События, template](templates.md)

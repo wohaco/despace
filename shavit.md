@@ -32,7 +32,7 @@
 |Масса старт./сух.|30 500 ㎏ / … ㎏|
 |Разраб./изготов.|[IAI](contact/iai.md) (Израиль) / [IAI](contact/iai.md) (Израиль)|
 |Ступени|4|
-|[Fuel](fuel.md)|[HTPB](htpb.md)|
+|[Fuel](ps.md)|[HTPB](ps.md)|
 | |[![](f/lv/shavit/shavit1_02_thumb.webp)](f/lv/shavit/shavit1_02.jpg)|
 
 **Выводимые массы.**

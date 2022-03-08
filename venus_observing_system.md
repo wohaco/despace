@@ -119,7 +119,7 @@ These goals can be achieved by meeting the following science measurement objecti
    2. Continuous day & night monitoring of the emitted thermal infrared radiation (8 — 12 μm) ([EVN‑019](venus.md))
    3. Dense coverage of radio occultation profiles from mutual events between Venus orbiters & L1, L2 Lagrange point orbiters, over almost all latitudes & local times ([EVN‑056](venus.md))
    4. Monitoring the night side cloud infrared opacity (1.0 — 3.0 μm) using spectral imaging ([EVN‑008](venus.md), [EVN‑016](venus.md))
-   5. Mapping the surface emissivity in near‑IR window [wavelengths](rf.md) to constrain surface mineralogy ([EVN‑023](venus.md))
+   5. Mapping the surface emissivity in near‑IR window [wavelengths](comms.md) to constrain surface mineralogy ([EVN‑023](venus.md))
    6. Measuring escaping ions from Venus orbiters & solar wind from L1 (upstream) & plasma tail from L2 (downstream) ([EVN‑033](venus.md))
    7. Determine the composition, morphology & physical & chemical properties of Venus cloud aerosols ([EVN‑014](venus.md))
    8. Identify & quantify unidentified absorbers in Venus’ clouds & atmosphere ([EVN‑035](venus.md))
