@@ -1,7 +1,7 @@
 # Solafune
 > 2021.12.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/solafune_logo1_thumb.png)](../f/contact/s/solafune_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *3-6-16, Uechi, Okinawa Shi, Okinawa Ken, 904-0031, Japan*<br> 【<https://solafune.com/>】|
+|[![](../f/contact/s/solafune_logo1_thumb.webp)](../f/contact/s/solafune_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *3-6-16, Uechi, Okinawa Shi, Okinawa Ken, 904-0031, Japan*<br> 【<https://solafune.com/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

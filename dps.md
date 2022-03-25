@@ -8,7 +8,7 @@
 
 The **Division for Planetary Sciences (DPS)** is a division within the American Astronomical Society (AAS) devoted to solar system research. It was founded in 1968. As of Oct 2010, it is the largest special-interest division within the AAS; membership totaled approximately 1 415 planetary scientists and astronomers, including about 20 % residing outside the U.S.
 
-|[![](f/contact/d/dps_logo1_thumb.webp)](f/contact/d/dps_logo1.png)|*American Astronomical Society, 1667 K Street NW, Suite 800, Washington, DC 20006*|
+|[![](f/contact/d/dps_logo1_thumb.webp)](f/contact/d/dps_logo1.webp)|*American Astronomical Society, 1667 K Street NW, Suite 800, Washington, DC 20006*|
 |:--|:--|
 |E‑mail|<DPS.Webmaster@aas.org>|
 |Link|<https://dps.aas.org/><br> <https://twitter.com/DPSCommittee>|

@@ -455,7 +455,7 @@ It should be noted that the composition of the target instruments has not been f
 
 Example of spacecraft and accommodation for potential augmentations under head fairing with «Fregat-SB» upper stage:
 
-![Venera-D under LVF](underdome.jpg)
+![Venera-D under LVF](underdome.webp)
 
 During selection process of spacecraft design, the following restrictions are imposed:
 
@@ -547,7 +547,7 @@ The orbiter module (ОМ, orbiter) is designed for Earth-Venus transit, delivery
 
 Simplified, general view of the ОМ:
 
-![general view of the ОМ](general.jpg)
+![general view of the ОМ](general.webp)
 
 The choice of such a design of the Orbiter is associated with the maximum use of existing and developing launch vehicles, upper stages and the head fairing. The selected layout and onboard equipment allow ensuring the active life of the Orbiter for at least 3 years.
 
@@ -583,7 +583,7 @@ Main components of the Orbiter:
 
 Simplified general outlook of the lander:
 
-![Lander](lander_0.jpg)
+![Lander](lander_0.webp)
 
 The lander is constructed on the same principle as the previous «Venera» and «VeGa» landers.
 
@@ -591,7 +591,7 @@ The lander consists of a thermally insulated titanium pressure vessel with therm
 
 Outside, there is an external target equipment, antennas for receiving and transmitting information from the orbital module, as well as a parachute container. All this is enclosed in two hemispheres, which are separated during the descent. The diameter of the sphere is 2 400 ㎜. The exterior of payload can be mounted on the brake shield at the landing device. In the lower part there is a damper designed to dampen vibrations during re-entry and landing.
 
-![Lander](lander_1.jpg)
+![Lander](lander_1.webp)
 
 Possible differences from «Venera» and «VeGa»:
 

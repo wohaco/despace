@@ -1,7 +1,7 @@
 # CCERA
 > 2020.06.28 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/c/ccera_logo1_thumb.webp)](../f/contact/c/ccera_logo1.png)|<info@ccera.ca>, <mark>noworkphone</mark>, Fax: …;<br> *Canadian Centre for Experimental Radio Astronomy, 361 Queen Street, Building 510, Suite 204, Smiths Falls, Ontario, K7A 0A6, Canada. Postal address: P.O. Box 862, Smiths Falls, ON, K7A 4W7*<br> 【<http://www.ccera.ca/>・ <https://github.com/ccera-astro>】|
+|[![](../f/contact/c/ccera_logo1_thumb.webp)](../f/contact/c/ccera_logo1.webp)|<info@ccera.ca>, <mark>noworkphone</mark>, Fax: …;<br> *Canadian Centre for Experimental Radio Astronomy, 361 Queen Street, Building 510, Suite 204, Smiths Falls, Ontario, K7A 0A6, Canada. Postal address: P.O. Box 862, Smiths Falls, ON, K7A 4W7*<br> 【<http://www.ccera.ca/>・ <https://github.com/ccera-astro>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

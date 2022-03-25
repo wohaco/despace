@@ -1,7 +1,7 @@
 # JAMSS
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/j/jamss_logo1_thumb.webp)](../f/contact/j/jamss_logo1.png)|<jamss-koho@jamss.co.jp>, +81-3-3211-2002, Fax: +81-3-3211-2004;<br> *1-6-1, Otemachi Otemachi Bldg. Chiyoda-ku, 100-0004 Japan*<br> 【<https://www.jamss.co.jp/>】|
+|[![](../f/contact/j/jamss_logo1_thumb.webp)](../f/contact/j/jamss_logo1.webp)|<jamss-koho@jamss.co.jp>, +81-3-3211-2002, Fax: +81-3-3211-2004;<br> *1-6-1, Otemachi Otemachi Bldg. Chiyoda-ku, 100-0004 Japan*<br> 【<https://www.jamss.co.jp/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

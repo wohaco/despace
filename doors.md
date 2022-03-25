@@ -12,7 +12,7 @@
    1. DOORS Classic — client‑server software.
    1. DOORS Next Gen — SaaS.
 
-[![](f/soft/doors_pic01_thumb.webp)](f/soft/doors_pic01.jpg)
+[![](f/soft/doors_pic01_thumb.webp)](f/soft/doors_pic01.webp)
 
 
 

@@ -49,7 +49,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|135 000 (13 760)|
 |Thrust — total thrust duration, s (h), ≥|180 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/0/1nmht_pic1_thumb.webp)](f/ps/0/1nmht_pic1.jpg)|
+| |[![](f/ps/0/1nmht_pic1_thumb.webp)](f/ps/0/1nmht_pic1.webp)|
 
 **Notes:**
 
@@ -399,7 +399,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|517 000 (52 700)|
 |Thrust — total thrust duration, s (h), ≥|37 800|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/0/20nmht_pic1_thumb.webp)](f/ps/0/20nmht_pic1.jpg)|
+| |[![](f/ps/0/20nmht_pic1_thumb.webp)](f/ps/0/20nmht_pic1.webp)|
 
 **Notes:**
 
@@ -554,7 +554,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|188 000|
 |Thrust — total thrust duration, s (h), ≥|850|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/0/400nmht_pic1_thumb.webp)](f/ps/0/400nmht_pic1.jpg)|
+| |[![](f/ps/0/400nmht_pic1_thumb.webp)](f/ps/0/400nmht_pic1.webp)|
 
 **Notes:**
 
@@ -705,7 +705,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥| |
 |Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
-|[![](f/ps/be4_m1d_raptor_comparison1_thumb.webp)](f/ps/be4_m1d_raptor_comparison1.png)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**| |
+|[![](f/ps/be4_m1d_raptor_comparison1_thumb.webp)](f/ps/be4_m1d_raptor_comparison1.webp)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**| |
 
 **Notes:**
 
@@ -757,7 +757,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥| |
 |Thrust — total thrust duration, s (h), ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
-| |[![](f/ps/b/be7_pic1_thumb.webp)](f/ps/b/be7_pic1.png)  [![](f/ps/b/be7_pic2_thumb.webp)](f/ps/b/be7_pic2.jpg)|
+| |[![](f/ps/b/be7_pic1_thumb.webp)](f/ps/b/be7_pic1.webp)  [![](f/ps/b/be7_pic2_thumb.webp)](f/ps/b/be7_pic2.webp)|
 
 **Notes:**
 
@@ -1254,7 +1254,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥| | |
 |Thrust — total thrust duration, s (h), ≥| | |
 |[Turbopump](turbopump.md) speed, rpm|—|—|
-|[![](f/ps/g/gt_50_pic02_thumb.webp)](f/ps/g/gt_50_pic02.jpg) [![](f/ps/g/gt_50_pic03_thumb.webp)](f/ps/g/gt_50_pic03.png)|[![](f/ps/g/gt_50_pic01_thumb.webp)](f/ps/g/gt_50_pic01.jpg)|[![](f/ps/g/gt_50_pic01_thumb.webp)](f/ps/g/gt_50_pic01.jpg)|
+|[![](f/ps/g/gt_50_pic02_thumb.webp)](f/ps/g/gt_50_pic02.webp) [![](f/ps/g/gt_50_pic03_thumb.webp)](f/ps/g/gt_50_pic03.webp)|[![](f/ps/g/gt_50_pic01_thumb.webp)](f/ps/g/gt_50_pic01.webp)|[![](f/ps/g/gt_50_pic01_thumb.webp)](f/ps/g/gt_50_pic01.webp)|
 
 **Notes:**
 
@@ -1306,12 +1306,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|20 616 500 (2 102 300)|
 |Thrust — total thrust duration, s (h), ≥|46 330|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |![](f/ps/h/hipat_pic1.png)|
+| |![](f/ps/h/hipat_pic1.webp)|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. [Promo specs ❐](f/ps/h/hipat_spec1.png)
+   1. [Promo specs ❐](f/ps/h/hipat_spec1.webp)
    1. <http://www.astronautix.com/h/hipat.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
    1. **Applicability** — …
@@ -1357,7 +1357,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|1 687 190 (171 985)|
 |Thrust — total thrust duration, s (h), ≥|78 500|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_22n_thumb.webp)](f/ps/i/ihi_22n.jpg)|
+| |[![](f/ps/i/ihi_22n_thumb.webp)](f/ps/i/ihi_22n.webp)|
 
 **Notes:**
 
@@ -1405,7 +1405,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|1 202 700 (122 600)|
 |Thrust — total thrust duration, s (h), ≥|9 668|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_120n_thumb.webp)](f/ps/i/ihi_120n.jpg)|
+| |[![](f/ps/i/ihi_120n_thumb.webp)](f/ps/i/ihi_120n.webp)|
 
 **Notes:**
 
@@ -1453,7 +1453,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|14 782 100 (1 506 835)|
 |Thrust — total thrust duration, s (h), ≥|32 850|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_450n_thumb.webp)](f/ps/i/ihi_450n.jpg)|
+| |[![](f/ps/i/ihi_450n_thumb.webp)](f/ps/i/ihi_450n.webp)|
 
 **Notes:**
 
@@ -1501,7 +1501,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|7 350 000 (749 235)|
 |Thrust — total thrust duration, s (h), ≥|15 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_490n_thumb.webp)](f/ps/i/ihi_490n.jpg)|
+| |[![](f/ps/i/ihi_490n_thumb.webp)](f/ps/i/ihi_490n.webp)|
 
 **Notes:**
 
@@ -1842,7 +1842,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥| | |778 080 000<br> (79 315 000)|135 700 000<br> (13 833 000)|
 |Thrust — total thrust duration, s (h), ≥| | |1 620|330|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|—|
-|[![](f/ps/be4_m1d_raptor_comparison1_thumb.webp)](f/ps/be4_m1d_raptor_comparison1.png)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**|[![](f/ps/m/merlin_1a_pic1_thumb.webp)](f/ps/m/merlin_1a_pic1.png)| |[![](f/ps/m/merlin_1c_pic1_thumb.webp)](f/ps/m/merlin_1c_pic1.jpg)|[![](f/ps/m/merlin_1c_vac_pic1_thumb.webp)](f/ps/m/merlin_1c_vac_pic1.jpg)|
+|[![](f/ps/be4_m1d_raptor_comparison1_thumb.webp)](f/ps/be4_m1d_raptor_comparison1.webp)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**|[![](f/ps/m/merlin_1a_pic1_thumb.webp)](f/ps/m/merlin_1a_pic1.webp)| |[![](f/ps/m/merlin_1c_pic1_thumb.webp)](f/ps/m/merlin_1c_pic1.webp)|[![](f/ps/m/merlin_1c_vac_pic1_thumb.webp)](f/ps/m/merlin_1c_vac_pic1.webp)|
 
 <p style="page-break-after:always"> </p>
 
@@ -1882,7 +1882,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥| | |
 |Thrust — total thrust duration, s (h), ≥| | |
 |[Turbopump](turbopump.md) speed, rpm| | |
-| |[![](f/ps/m/merlin_1d_pic1_thumb.webp)](f/ps/m/merlin_1d_pic1.jpg)| |
+| |[![](f/ps/m/merlin_1d_pic1_thumb.webp)](f/ps/m/merlin_1d_pic1.webp)| |
 
 **Notes:**
 
@@ -1942,7 +1942,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|237 000 ‑ 255 000|
 |Thrust — total thrust duration, s (h), ≥|34 400 ‑ 13 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_mt2_thumb.webp)](f/ps/i/ihi_mt2.jpg)|
+| |[![](f/ps/i/ihi_mt2_thumb.webp)](f/ps/i/ihi_mt2.webp)|
 
 **Notes:**
 
@@ -1990,7 +1990,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|253 100 ‑ 265 000|
 |Thrust — total thrust duration, s (h), ≥|11 000 ‑ 5 300|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_mt6_thumb.webp)](f/ps/i/ihi_mt6.jpg)|
+| |[![](f/ps/i/ihi_mt6_thumb.webp)](f/ps/i/ihi_mt6.webp)|
 
 **Notes:**
 
@@ -2038,7 +2038,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|364 000 ‑ 387 000|
 |Thrust — total thrust duration, s (h), ≥|247 500 ‑ 70 500|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_mt8a_thumb.webp)](f/ps/i/ihi_mt8a.jpg)|
+| |[![](f/ps/i/ihi_mt8a_thumb.webp)](f/ps/i/ihi_mt8a.webp)|
 
 **Notes:**
 
@@ -2086,7 +2086,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|204 000 ‑ 211 000|
 |Thrust — total thrust duration, s (h), ≥|704 000 ‑ 187 000|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/i/ihi_mt9_thumb.webp)](f/ps/i/ihi_mt9.jpg)|
+| |[![](f/ps/i/ihi_mt9_thumb.webp)](f/ps/i/ihi_mt9.webp)|
 
 **Notes:**
 
@@ -2134,7 +2134,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥| | | | |
 |Thrust — total thrust duration, s (h), ≥| | | | |
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|—|
-|[![](f/ps/be4_m1d_raptor_comparison1_thumb.webp)](f/ps/be4_m1d_raptor_comparison1.png)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**| | | | |
+|[![](f/ps/be4_m1d_raptor_comparison1_thumb.webp)](f/ps/be4_m1d_raptor_comparison1.webp)<br> **Comparison<br> [BE‑4](engine_lst.md), [Raptor](engine_lst.md), Merlin 1D**| | | | |
 
 **Notes:**
 
@@ -2150,7 +2150,7 @@ A list of [Engines](ps.md).
 
 |Raptor Engine Test Site, 2017.01.30<br> [Source 1 ⎆](https://www.reddit.com/r/engineteststands/comments/43lmbn/spacexs_raptor_test_stand_under_construction_at/), [Source 2 ⎆](http://pictures.jtbuice.com/SpaceX-2/McGregor-Flyover-1-30-2016/)|
 |:--|
-|[![](f/ps/r/raptor_test_stand_20170130_thumb.webp)](f/ps/r/raptor_test_stand_20170130.jpg)|
+|[![](f/ps/r/raptor_test_stand_20170130_thumb.webp)](f/ps/r/raptor_test_stand_20170130.webp)|
 
 
 
@@ -2193,12 +2193,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|11 120 000 (1 133 530)|
 |Thrust — total thrust duration, s (h), ≥|100 180|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |![](f/ps/r/r-1e_pic1.png)|
+| |![](f/ps/r/r-1e_pic1.webp)|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. [Promo specs ❐](f/ps/r/r-1e_spec1.jpg)
+   1. [Promo specs ❐](f/ps/r/r-1e_spec1.webp)
    1. <http://www.astronautix.com/r/r-1eengine.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
    1. **Applicability** — Space Shuttle, Orbiter’s vernier attitude control & orbit adjust thruster
@@ -2244,12 +2244,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|20 016 000 (2 040 300)|
 |Thrust — total thrust duration, s (h), ≥|40 850|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/r/r-4d_pic1_thumb.webp)](f/ps/r/r-4d_pic1.png)|
+| |[![](f/ps/r/r-4d_pic1_thumb.webp)](f/ps/r/r-4d_pic1.webp)|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. [Promo specs ❐](f/ps/r/r-4d_spec1.jpg)
+   1. [Promo specs ❐](f/ps/r/r-4d_spec1.webp)
    1. <https://en.wikipedia.org/wiki/R-4D>
    1. <http://www.astronautix.com/r/r-4d.html>
    1. **Applicability** — Apollo・ Cassini・ H-II Transfer Vehicle・ Orion・ Space Shuttle
@@ -2343,12 +2343,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|59 211 000 (6 035 700)|92 073 600 (9 385 000)|
 |Thrust — total thrust duration, s (h), ≥|15 300|23 000|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
-| | |[![](f/ps/r/r-40b_pic1_thumb.webp)](f/ps/r/r-40b_pic1.png)|
+| | |[![](f/ps/r/r-40b_pic1_thumb.webp)](f/ps/r/r-40b_pic1.webp)|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. [Промо‑спецификации ❐](f/ps/r/r-40_spec1.jpg)
+   1. [Промо‑спецификации ❐](f/ps/r/r-40_spec1.webp)
    1. <http://www.astronautix.com/r/r-40a.html>
    1. <http://www.astronautix.com/r/r-40b.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
@@ -2395,12 +2395,12 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|24 271 000 (2 474 100)|24 271 000 (2 474 100)|
 |Thrust — total thrust duration, s (h), ≥|27 000|27 000|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
-| |[![](f/ps/r/r-42_pic1_thumb.webp)](f/ps/r/r-42_pic1.png)|[![](f/ps/r/r-42_pic1_thumb.webp)](f/ps/r/r-42_pic1.png)|
+| |[![](f/ps/r/r-42_pic1_thumb.webp)](f/ps/r/r-42_pic1.webp)|[![](f/ps/r/r-42_pic1_thumb.webp)](f/ps/r/r-42_pic1.webp)|
 
 **Notes:**
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
-   1. [Промо‑спецификации ❐](f/ps/r/r-42_spec1.jpg)
+   1. [Промо‑спецификации ❐](f/ps/r/r-42_spec1.webp)
    1. <http://www.astronautix.com/r/r-42.html>
    1. <http://www.rocket.com/propulsion-systems/bipropellant-rockets>
    1. **Applicability** — …
@@ -2446,7 +2446,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|5 040 000 ‑ 6 335 000<br> (513 760 ‑ 645 870)|10 870 000 ‑ 12 310 000<br> (1 108 250 ‑ 1 255 000)|14 256 000 ‑ 15 480 000<br> (1 453 200 ‑ 1 577 982)|
 |Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
-| |[![](f/ps/r/rit_2x_ion_thruster_thumb.webp)](f/ps/r/rit_2x_ion_thruster.jpg)|[![](f/ps/r/rit_2x_ion_thruster_thumb.webp)](f/ps/r/rit_2x_ion_thruster.jpg)|[![](f/ps/r/rit_2x_ion_thruster_thumb.webp)](f/ps/r/rit_2x_ion_thruster.jpg)|
+| |[![](f/ps/r/rit_2x_ion_thruster_thumb.webp)](f/ps/r/rit_2x_ion_thruster.webp)|[![](f/ps/r/rit_2x_ion_thruster_thumb.webp)](f/ps/r/rit_2x_ion_thruster.webp)|[![](f/ps/r/rit_2x_ion_thruster_thumb.webp)](f/ps/r/rit_2x_ion_thruster.webp)|
 
 **Notes:**
 
@@ -2495,7 +2495,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|360 000 (36 700)|1 080 000 (110 100)|1 800 000 (184 000)|
 |Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|72 000 000 (20 000 h / 2.3 y)|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
-| |[![](f/ps/r/rit_10_ion_thruster_thumb.webp)](f/ps/r/rit_10_ion_thruster.jpg)|[![](f/ps/r/rit_10_ion_thruster_thumb.webp)](f/ps/r/rit_10_ion_thruster.jpg)|[![](f/ps/r/rit_10_ion_thruster_thumb.webp)](f/ps/r/rit_10_ion_thruster.jpg)|
+| |[![](f/ps/r/rit_10_ion_thruster_thumb.webp)](f/ps/r/rit_10_ion_thruster.webp)|[![](f/ps/r/rit_10_ion_thruster_thumb.webp)](f/ps/r/rit_10_ion_thruster.webp)|[![](f/ps/r/rit_10_ion_thruster_thumb.webp)](f/ps/r/rit_10_ion_thruster.webp)|
 
 **Notes:**
 
@@ -2544,7 +2544,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|3 600 ‑ 36 000|
 |Thrust — total thrust duration, s (h), ≥|72 000 000 (20 000 h / 2.3 y)|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/r/rit_micro_ion_thruster_thumb.webp)](f/ps/r/rit_micro_ion_thruster.jpg)|
+| |[![](f/ps/r/rit_micro_ion_thruster_thumb.webp)](f/ps/r/rit_micro_ion_thruster.webp)|
 
 **Notes:**
 
@@ -2593,7 +2593,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥| |
 |Thrust — total thrust duration, s (h), ≥|520|
 |[Turbopump](turbopump.md) speed, rpm| |
-| |[![](f/ps/r/rs-25_thumb.webp)](f/ps/r/rs-25.jpg)|
+| |[![](f/ps/r/rs-25_thumb.webp)](f/ps/r/rs-25.webp)|
 
 **Notes:**
 
@@ -2644,7 +2644,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|2 484 000 (253 200)|2 484 000 (253 200)|2 484 000 (253 200)|
 |Thrust — total thrust duration, s (h), ≥|248 400|248 400|248 400|
 |[Turbopump](turbopump.md) speed, rpm|—|—|—|
-| |[![](f/ps/s/s10-13_pic1_thumb.webp)](f/ps/s/s10-13_pic1.jpg)|[![](f/ps/s/s10-18_pic1_thumb.webp)](f/ps/s/s10-18_pic1.jpg)|[![](f/ps/s/s10-26_pic1_thumb.webp)](f/ps/s/s10-26_pic1.jpg)|
+| |[![](f/ps/s/s10-13_pic1_thumb.webp)](f/ps/s/s10-13_pic1.webp)|[![](f/ps/s/s10-18_pic1_thumb.webp)](f/ps/s/s10-18_pic1.webp)|[![](f/ps/s/s10-26_pic1_thumb.webp)](f/ps/s/s10-26_pic1.webp)|
 
 **Notes:**
 
@@ -3197,7 +3197,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|10 040 000 (1 020 000)|
 |Thrust — total thrust duration, s (h), ≥|46 500|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/s/s200_pic1_thumb.webp)](f/ps/s/s200_pic1.jpg)|
+| |[![](f/ps/s/s200_pic1_thumb.webp)](f/ps/s/s200_pic1.webp)|
 
 **Notes:**
 
@@ -3247,7 +3247,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|12 550 000 (1 280 000)|13 000 000 (1 325 000)|
 |Thrust — total thrust duration, s (h), ≥|29 900|30 600|
 |[Turbopump](turbopump.md) speed, rpm|—|—|
-| |[![](f/ps/s/s400-12_pic1_thumb.webp)](f/ps/s/s400-12_pic1.jpg)|[![](f/ps/s/s400-15_pic1_thumb.webp)](f/ps/s/s400-15_pic1.jpg)|
+| |[![](f/ps/s/s400-12_pic1_thumb.webp)](f/ps/s/s400-12_pic1.webp)|[![](f/ps/s/s400-15_pic1_thumb.webp)](f/ps/s/s400-15_pic1.webp)|
 
 **Notes:**
 
@@ -3636,7 +3636,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|981 ‑ 3 323 (100 ‑ 339)|
 |Thrust — total thrust duration, s (h), ≥|7 213 300 ‑ 10 859 500 (2 003 ‑ 3 016)|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/w/water_it_pic1_thumb.webp)](f/ps/w/water_it_pic1.png)|
+| |[![](f/ps/w/water_it_pic1_thumb.webp)](f/ps/w/water_it_pic1.webp)|
 
 **Notes:**
 
@@ -3685,7 +3685,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|68 ‑ … ‑ 1 080 (7 ‑ … ‑ 110)|
 |Thrust — total thrust duration, s (h), ≥|67 500 ‑ … ‑ 270 000 (18.75 ‑ 75)|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |[![](f/ps/w/water_rjt_pic1_thumb.webp)](f/ps/w/water_rjt_pic1.jpg)|
+| |[![](f/ps/w/water_rjt_pic1_thumb.webp)](f/ps/w/water_rjt_pic1.webp)|
 
 **Notes:**
 
@@ -3836,7 +3836,7 @@ A list of [Engines](ps.md).
 |Thrust — total thrust, N (㎏f), ≥|3 070 000 (312 900)|
 |Thrust — total thrust duration, s (h), ≥|100|
 |[Turbopump](turbopump.md) speed, rpm|—|
-| |![](f/ps/kestrel_engine_pic1.png)|
+| |![](f/ps/kestrel_engine_pic1.webp)|
 
 **Notes:**
 

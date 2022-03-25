@@ -1,7 +1,7 @@
 # ispace
 > 2020.07.04 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/i/ispace_logo1_thumb.webp)](../f/contact/i/ispace_logo1.png)|<info@ispace-inc.com>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*<br> 【<http://ispace-inc.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/ispace-inc/)・ [Facebook ⎆](https://www.facebook.com/ispace.technologies.inc/)・ [Twitter 1 ⎆](https://twitter.com/ispace_inc) & [Twitter 2 ⎆](https://twitter.com/HAKUTO_Reboot)】|
+|[![](../f/contact/i/ispace_logo1_thumb.webp)](../f/contact/i/ispace_logo1.webp)|<info@ispace-inc.com>, <mark>noworkphone</mark>, Fax: …;<br> *2-7-17, Shiba, Sumitomo Shibakoen Building 10F, Tokyo, Minato-ku 105-0014, JP*<br> 【<http://ispace-inc.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/ispace-inc/)・ [Facebook ⎆](https://www.facebook.com/ispace.technologies.inc/)・ [Twitter 1 ⎆](https://twitter.com/ispace_inc) & [Twitter 2 ⎆](https://twitter.com/HAKUTO_Reboot)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|To extend human presence to outer space.|

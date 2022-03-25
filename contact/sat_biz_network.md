@@ -1,7 +1,7 @@
 # Satellite Business Network
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/sat_biz_network_logo1_thumb.webp)](../f/contact/s/sat_biz_network_logo1.png)|<mark>noemail</mark>, +81-802-052-13-48, Fax: …;<br> *1-5-212, Iwaicho, Hodogaya, Yokohama, 240-0023, Japan*<br> 【<https://sat-biznet.com/>・ [LinkedIn ⎆](https://www.linkedin.com/pub/shigeki-kuzuoka/16/6a0/398)】|
+|[![](../f/contact/s/sat_biz_network_logo1_thumb.webp)](../f/contact/s/sat_biz_network_logo1.webp)|<mark>noemail</mark>, +81-802-052-13-48, Fax: …;<br> *1-5-212, Iwaicho, Hodogaya, Yokohama, 240-0023, Japan*<br> 【<https://sat-biznet.com/>・ [LinkedIn ⎆](https://www.linkedin.com/pub/shigeki-kuzuoka/16/6a0/398)】|
 |:--|:--|
 |**Mission**|To be the bridge between Japanese & Global Space Business by connecting companies of all sizes through business & technical consultation services. We aim to offer the extensive knowledge of well‑experienced companies to start‑ups, while identifying & implementing disruptive innovations of the passionate new companies into corporations.|
 |**Vision**|…|

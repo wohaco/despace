@@ -13,7 +13,7 @@
 |:--|:--|:--|
 |Simorgh|Базовый вариант.|**Активен** (2016 ‑ …)|
 
-[![](f/lv/simorgh/simorgh_design_725_thumb.webp)](f/lv/simorgh/simorgh_design_725.jpg)
+[![](f/lv/simorgh/simorgh_design_725_thumb.webp)](f/lv/simorgh/simorgh_design_725.webp)
 
 
 ---
@@ -33,7 +33,7 @@
 |Разраб./изготов.|[ISA](contact/isa.md) (Иран) / [ISA](contact/isa.md) (Иран)|
 |Ступени|3|
 |[Fuel](ps.md)|[АТ + Красная дымящая азотная кислота](nto_plus.md)|
-| |[![](f/lv/simorgh/simorgh_01_thumb.webp)](f/lv/simorgh/simorgh_01.png) [![](f/lv/simorgh/simorgh_02_thumb.webp)](f/lv/simorgh/simorgh_02.jpg)|
+| |[![](f/lv/simorgh/simorgh_01_thumb.webp)](f/lv/simorgh/simorgh_01.webp) [![](f/lv/simorgh/simorgh_02_thumb.webp)](f/lv/simorgh/simorgh_02.webp)|
 
 **Выводимые массы.**
 

@@ -179,7 +179,7 @@ The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, t
 
 A **mission control center** (**MCC**, sometimes called a **flight control center** or **operations center**) — a part of a [SCS](scs.md) — is a facility that manages space flights, usually from the point of launch until landing or the end of the mission. It is part of the ground segment of spacecraft operations. A staff of flight controllers & other support personnel monitor all aspects of the mission using telemetry, & send commands to the vehicle using ground stations. Personnel supporting the mission from an MCC can include representatives of the attitude control system, power, propulsion, thermal, attitude dynamics, orbital operations & other subsystem disciplines. The training for these missions usually falls under the responsibility of the flight controllers, typically including extensive rehearsals in the MCC.
 
-![](f/control/mcc_global.png)
+![](f/control/mcc_global.webp)
 
 **(RU) ЦУП**
 
@@ -476,11 +476,11 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 |[![](f/gs/cdsn_pic1_thumb.webp)](f/gs/cdsn_pic1.webp)|**[Chinese Deep Space Network](cdsn.md)**<br> (Китай)|
 |[![](f/gs/estrack_pic1_thumb.webp)](f/gs/estrack_pic1.webp)|**[ESTRACK](estrack.md)**<br> (Европа)|
 |[![](f/gs/idsn_pic1_thumb.webp)](f/gs/idsn_pic1.webp)|**[Indian Deep Space Network](idsn.md)**<br> (Индия)|
-|[![](f/gs/dsn_antenna_thumb2.jpg)](f/gs/dsn_antenna.webp)|**[NASA Deep Space Network](dsn.md)**<br> (США)|
-|[![](f/gs/ssc_ggsn_thumb2.jpg)](f/gs/ssc_ggsn.webp)|**[SSC’s Global Ground Station Network](ssc_ggsn.md)**<br> (Европа, Швеция)|
+|[![](f/gs/dsn_antenna_thumb2.webp)](f/gs/dsn_antenna.webp)|**[NASA Deep Space Network](dsn.md)**<br> (США)|
+|[![](f/gs/ssc_ggsn_thumb2.webp)](f/gs/ssc_ggsn.webp)|**[SSC’s Global Ground Station Network](ssc_ggsn.md)**<br> (Европа, Швеция)|
 |[![](f/gs/udsc_pic1_thumb.webp)](f/gs/udsc_pic1.webp)|**[Usuda Deep Space Center](udsc.md)**<br> (Япония)|
-|[![](f/gs/map_world_ground_stations_thumb2.jpg)](f/gs/map_world_ground_stations.webp)|**Мировые НС**|
-|[![](f/gs/map_world_ground_stations_nkudka_thumb2.jpg)](f/gs/map_world_ground_stations_nkudka.webp)|**НС в рамках НКУ‑ДКА**<br> (примерное расположение)|
+|[![](f/gs/map_world_ground_stations_thumb2.webp)](f/gs/map_world_ground_stations.webp)|**Мировые НС**|
+|[![](f/gs/map_world_ground_stations_nkudka_thumb2.webp)](f/gs/map_world_ground_stations_nkudka.webp)|**НС в рамках НКУ‑ДКА**<br> (примерное расположение)|
 
 【**Таблица.** Известные НС】
 

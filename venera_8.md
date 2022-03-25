@@ -9,9 +9,9 @@
 
 **Venera 8** (**Венера‑8**) was a spacecraft in the Soviet Venera program for the exploration of Venus and was the second lander to conduct a successful landing on the surface of Venus. The Venera 8 landing was planned on the day side in order to prepare for image acquisition by the next missions, it landed on the day side 500 km from the morning terminator. Transmitted information from the surface for 50 min. The illumination was measured and obtained as 350 ± 150 Lux (extrapolated to noon is 1 000 – 3 000 Lux – sufficient for the operation of television systems). The wind speed was measured at 50 - 60 ㎧ at an altitude of 50 ㎞, and 0 – 2 ㎧ at the surface, i.e. super rotation was detected. The first measurements were made of the content of natural radioactive elements in the soil (potassium, uranium, thorium).
 
-![](f/project/v/venera_8/pic01.jpg) ![](f/project/v/venera_8/pic02.jpg)
+![](f/project/v/venera_8/pic01.webp) ![](f/project/v/venera_8/pic02.webp)
 
-[![](f/project/v/venera_8/pic03_thumb.webp)](f/project/v/venera_8/pic03.jpg)
+[![](f/project/v/venera_8/pic03_thumb.webp)](f/project/v/venera_8/pic03.webp)
 
 <p style="page-break-after:always"> </p>
 

@@ -66,7 +66,7 @@ The Cassini spacecraft performed two **gravitational-assist fly‑bys** of Venus
 
 Cassini made its closest approach to Jupiter on December 30, 2000, and made many scientific measurements in collaboration with NASA’s [Galileo](galileo.md) spacecraft to study the Jovian system. About 26 000 images of Jupiter, its faint rings, and its moons were taken during the six-month fly‑by. It produced the most detailed global color portrait of the planet.
 
-![](f/project/c/cassini_huygens/jupiterfly‑by.jpg)
+![](f/project/c/cassini_huygens/jupiterfly‑by.webp)
 
 A major finding of the fly‑by, announced on March 6, 2003, was of Jupiter’s atmospheric circulation. Dark «belts» alternate with light «zones» in the atmosphere.
 
@@ -86,7 +86,7 @@ Cassini had its first fly‑by of Saturn’s largest moon, **Titan**, on July 2,
 
 |*Titan – infrared views (2004 – 2017)*|
 |:--|
-|![](f/project/c/cassini_huygens/titaninfrared.jpg)|
+|![](f/project/c/cassini_huygens/titaninfrared.webp)|
 
 
 **The Huygens** Lander traveled with Cassini until its separation from the spacecraft. Cassini released the Huygens Lander on December 24, 2004, by means of a spring and spiral rails intended to rotate the Lander for greater stability. It entered the atmosphere of Titan on January 14, 2005, and after a 2.5 h descent by parachute landed on solid ground. It returned data to Earth for around 90 min, using the Orbiter as a relay. This was the first landing ever accomplished in the outer Solar System and the first landing on a moon other than Earth’s Moon. The Huygens Lander investigated the chemical composition and surface properties of the Saturnian moon.
@@ -99,7 +99,7 @@ In May 2005, Cassini began a series of **radio occultation experiments**, to mea
 
 In the study of the moon **Enceladus** in 2005, Cassini discovered a deflection in the local magnetic field that is characteristic for the existence of a thin but significant atmosphere. Other measurements obtained at that time point to ionized water vapor as its main constituent. Cassini also observed water ice geysers erupting from the south pole of Enceladus, which gives more credibility to the idea that Enceladus is supplying the particles of Saturn’s E ring. Mission scientists began to suspect that there may be pockets of liquid water near the surface of the moon that fuel the eruptions.
 
-![](f/project/c/cassini_huygens/enceladus.jpg)
+![](f/project/c/cassini_huygens/enceladus.webp)
 
 Radar images obtained on July 21, 2006 appear to show lakes of liquid hydrocarbon (such as methane and ethane) in Titan’s northern latitudes. This is the first discovery of currently existing lakes anywhere besides on Earth. The lakes range in size from one to one-hundred kilometers across.
 
@@ -123,7 +123,7 @@ On February 3, 2010, NASA announced another extension for Cassini, lasting 7 yea
 
 On October 25, 2012, Cassini witnessed the aftermath of the massive **Great White Spot storm** that recurs roughly every 30 years on Saturn. Data from the composite infrared spectrometer (CIRS) instrument indicated a powerful discharge from the storm that caused a temperature spike in the stratosphere of Saturn 83 K above normal. Simultaneously, a huge increase in ethylene gas was detected by NASA researchers at Goddard Research Center in Greenbelt, Maryland. Ethylene is a colorless gas that is highly uncommon on Saturn and is produced both naturally and through man-made sources on Earth. The storm that produced this discharge was first observed by the spacecraft on December 5, 2010 in Saturn’s northern hemisphere. The storm is the first of its kind to be observed by a spacecraft in orbit around Saturn as well as the first to be observed at thermal infrared wavelengths, allowing scientists to observe the temperature of Saturn’s atmosphere and track phenomena that are invisible to the naked eye. The spike of ethylene gas that was produced by the storm reached levels that were 100 times more than those thought possible for Saturn. Scientists have also determined that the storm witnessed was the largest, hottest stratospheric vortex ever detected in the Solar System, initially being larger than Jupiter’s Great Red Spot.
 
-![](f/project/c/cassini_huygens/saturnstorm.jpg)
+![](f/project/c/cassini_huygens/saturnstorm.webp)
 
 On December 21, 2012, Cassini observed a transit of Venus across the Sun. The VIMS instrument analyzed sunlight passing through the Venusian atmosphere. VIMS previously observed the transit of exoplanet HD 189733 b.
 
@@ -131,13 +131,13 @@ In March 2013 Cassini made its last fly‑by of Saturn’s moon Rhea, probing th
 
 Between 2012 and 2016, the persistent **hexagonal cloud pattern** at Saturn’s north pole changed from a mostly blue color to more of a golden color. One theory for this is a seasonal change: extended exposure to sunlight may be creating haze as the pole swivels toward the sun. It was previously noted that there was less blue color overall on Saturn between 2004 and 2008.
 
-![](f/project/c/cassini_huygens/hexagonalcloudpattern.jpg)
+![](f/project/c/cassini_huygens/hexagonalcloudpattern.webp)
 
 The first map showing the global geology of Saturn’s largest moon, Titan, has been completed and fully reveals a dynamic world of dunes, lakes, plains, craters and other terrains.
 
 |***The first global geologic map of Titan is based on radar and visible-light images from NASA’s Cassini mission, which orbited Saturn from 2004 to 2017. Labels point to several of the named surface features.***|
 |:--|
-|![](f/project/c/cassini_huygens/titan.jpg)|
+|![](f/project/c/cassini_huygens/titan.webp)|
 
 At the end of its mission, the Cassini spacecraft executed its «Grand Finale»: a number of risky passes through the gaps between Saturn and Saturn’s inner rings. This phase aimed to maximize Cassini’s scientific outcome before the spacecraft was disposed. The mission ended on September 15, 2017, when Cassini’s trajectory took it into Saturn’s upper atmosphere and it burned up. This method was chosen because it is imperative to ensure protection and prevent biological contamination to any of the moons of Saturn thought to offer potential habitability. The atmospheric entry of Cassini ended the mission, but analyses of the returned data will continue for many years.
 

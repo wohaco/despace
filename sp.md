@@ -47,7 +47,7 @@
 
 **Photocell**, also **photoelectric converters (PEC)** — an electronic device that converts the energy of photons into electrical energy. **Solar cell (SС)** is a direct converter of photon energy into electrical energy.
 
-[![](f/sps/solar_cell_4inch_poly_thumb.webp)](f/sps/solar_cell_4inch_poly.jpg)  
+[![](f/sps/solar_cell_4inch_poly_thumb.webp)](f/sps/solar_cell_4inch_poly.webp)  
 *Photocell based on multicrystalline silicon*
 
 Subdivided into vacuum & semiconductor photocells. The operation of the device is based on photoelectron emission or internal photoelectric effect.

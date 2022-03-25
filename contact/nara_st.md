@@ -1,7 +1,7 @@
 # NARA Space Technology
 > 2021.10.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/n/nara_st_logo1_thumb.webp)](../f/contact/n/nara_st_logo1.png)|<support@naraspace.com>, +82(51)404-0331, Fax: … ;<br> *205, 435-1 Haeyang-ro, Yeongdo-gu, Busan, South Korea (49111)*<br> 【<https://naraspacetechnology.com>・ [LinkedIn ⎆](https://www.linkedin.com/company/nara-space-technology/)】|
+|[![](../f/contact/n/nara_st_logo1_thumb.webp)](../f/contact/n/nara_st_logo1.webp)|<support@naraspace.com>, +82(51)404-0331, Fax: … ;<br> *205, 435-1 Haeyang-ro, Yeongdo-gu, Busan, South Korea (49111)*<br> 【<https://naraspacetechnology.com>・ [LinkedIn ⎆](https://www.linkedin.com/company/nara-space-technology/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -23,7 +23,7 @@ NICM is in wide use across many NASA centers (and any organization proposing ins
 
 |*Figure 1 The NICM Database of Normalized Instruments by Instrument Lead Org*|*Figure 2 Cluster Analysis Example of NICM Instrument Dataset*|
 |:--|:--|
-|![](f/fs/ncim_pic01.jpg)|![](f/fs/ncim_pic02.jpg)|
+|![](f/fs/ncim_pic01.webp)|![](f/fs/ncim_pic02.webp)|
 
 
 

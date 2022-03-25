@@ -24,7 +24,7 @@
 |Lens| |
 |Resolution, px| |
 |Shooting modes| |
-| |[![](f/cam//_pic1_thumb.webp)](f/cam//_pic1.jpg)|
+| |[![](f/cam//_pic1_thumb.webp)](f/cam//_pic1.webp)|
 
 **Notes:**
 
@@ -65,7 +65,7 @@
 |Modulation type| |
 |Out. power, W| |
 |Signal structure| |
-| |[![](f/comms//_pic1_thumb.webp)](f/comms//_pic1.png)|
+| |[![](f/comms//_pic1_thumb.webp)](f/comms//_pic1.webp)|
 
 **Notes:**
 
@@ -104,7 +104,7 @@
 |Capacity, Mbit (㎆)| |
 |Cycles of rewrite| |
 |Inputs| |
-| |[![](f/ds//_pic1_thumb.webp)](f/ds//_pic1.jpg)|
+| |[![](f/ds//_pic1_thumb.webp)](f/ds//_pic1.webp)|
 
 **Notes:**
 
@@ -155,7 +155,7 @@
 |Thrust — total thrust, N (㎏f), ≥| |
 |Thrust — total thrust duration, s, ≥| |
 |[Turbopump](turbopump.md) speed, rpm| |
-| |[![](f/ps/.jpg)](f/ps/.jpg)|
+| |[![](f/ps/.webp)](f/ps/.webp)|
 
 **Notes:**
 
@@ -252,7 +252,7 @@
 |╟ Falcon 9 v.1.1|Модификация Falcon 9 v1.0.|*В разработке* (2013 ‑ …)|
 |╙ Falcon 9 v.1.2 (FT)|Модификация v1.1.|**Активен** (2015 ‑ …)|
 
-[![](f/lv/falcon/falcon_rocket_family_thumb.webp)](f/lv/falcon/falcon_rocket_family.png)
+[![](f/lv/falcon/falcon_rocket_family_thumb.webp)](f/lv/falcon/falcon_rocket_family.webp)
 
 
 ---
@@ -272,7 +272,7 @@
 |Разраб./изготов.|[SpaceX](contact/spacex.md) (США) / [SpaceX](contact/spacex.md) (США)|
 |Ступени|…|
 |[Fuel](ps.md)|[O + Kerosene](o_plus.md)|
-| |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.jpg)|
+| |[![](f/lv/falcon/falcon9_2018_thumb.webp)](f/lv/falcon/falcon9_2018.webp)|
 
 **Выводимые массы.**
 
@@ -671,7 +671,7 @@ Achieved targets & investigations:
 |Kinetic moment, N·m·s| |
 |Max ctrl moment, N·m| |
 |Ready mode| |
-| |[![](f/iu//_pic1_thumb.webp)](f/iu//_pic1.jpg)|
+| |[![](f/iu//_pic1_thumb.webp)](f/iu//_pic1.webp)|
 
 **Notes:**
 
@@ -713,7 +713,7 @@ Achieved targets & investigations:
 |Output data| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/_pic1_thumb.webp)](f/sensor/_pic1.png)|
+| |[![](f/sensor/_pic1_thumb.webp)](f/sensor/_pic1.webp)|
 
 **Notes:**
 
@@ -748,7 +748,7 @@ Achieved targets & investigations:
 |Range °, ≥| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor//_pic1_thumb.webp)](f/sensor//_pic1.jpg)|
+| |[![](f/sensor//_pic1_thumb.webp)](f/sensor//_pic1.webp)|
 
 **Notes:**
 

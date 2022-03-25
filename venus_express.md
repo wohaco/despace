@@ -9,7 +9,7 @@
 
 **Venus Express (VEX)** — Venus spacecraft for ranged investigations. It was based on the [Mars Express](mars_express.md), what lead to lower the costa and to make a rapid development.
 
-[![](f/project/v/venus_express/pic01_thumb.webp)](f/project/v/venus_express/pic01.jpg) [![](f/project/v/venus_express/logo1_thumb.webp)](f/project/v/venus_express/logo1.png)
+[![](f/project/v/venus_express/pic01_thumb.webp)](f/project/v/venus_express/pic01.webp) [![](f/project/v/venus_express/logo1_thumb.webp)](f/project/v/venus_express/logo1.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -125,7 +125,7 @@ Small-scale temperature variations on the planet’s surface are extremely diffi
 
 |*Surface warmth on a volcano on Venus.*|
 |:--|
-|![](f/project/v/venus_express/volcano.jpg)|
+|![](f/project/v/venus_express/volcano.webp)|
 
 VIRTIS has measured the spectral emissivity of the surface in order to detect variations in chemical composition and they can be used to study the properties of likely Venusian hot spots. In particular, around volcanoes in three of the hot spots (Imdr, Themis and Dione Regiones), VIRTIS data show anomalously high emissivity values. These are interpreted to indicate that the lava flows observed in these regions are relatively unweathered and therefore recent — perhaps a few thousands to a few tens of thousands of years in age ([EVN‑046](venus.md)).
 
@@ -135,7 +135,7 @@ Indirect evidence of a major volcanic eruption has come from large changes in th
 
 |*Surface warmth on a volcano on Venus.*|
 |:--|
-|![](f/project/v/venus_express/sulphur.jpg)|
+|![](f/project/v/venus_express/sulphur.webp)|
 
    3. **Spinning Venus is slowing down.**
 
@@ -163,7 +163,7 @@ The discovery was made by studying light from the Sun as it passed through the a
 
 |*Surface warmth on a volcano on Venus.*|
 |:--|
-|![](f/project/v/venus_express/cold.jpg)|
+|![](f/project/v/venus_express/cold.webp)|
 
 Since the temperature at some heights dips below the freezing temperature of carbon dioxide, the main constituent of the atmosphere, carbon dioxide ice might be able to form there — possibly forming clouds of ice or snow particles.
 
@@ -263,7 +263,7 @@ The combination of data from the PFS, SPICAV, and VIRTUS instruments made it pos
 |Power storage|Three lithium-ion batteries|
 |Antennas|Two high‑gain dishes, 1.3 m and 0.3 m in diameter, 2 low‑gain antennas|
 
-![](f/project/v/venus_express/spacecraft.jpg)
+![](f/project/v/venus_express/spacecraft.webp)
 
 **Structure**
 
@@ -318,7 +318,7 @@ Part of the computer was the Solid State Mass Memory, which had a capacity of 12
 
 ## Community, library, links
 
-[![](f/project/v/venus_express/pic02_thumb.webp)](f/project/v/venus_express/pic02.jpg)  
+[![](f/project/v/venus_express/pic02_thumb.webp)](f/project/v/venus_express/pic02.webp)  
 The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team of 25 subcontractors from 14 European countries.
 
 **PEOPLE:**

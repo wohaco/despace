@@ -1,7 +1,7 @@
 # Axelspace
 > 2020.07.16 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/axelspace_logo1_thumb.webp)](../f/contact/a/axelspace_logo1.png)|<mark>noemail</mark>, +81-3-4405-5085, Fax: …;<br> *Clip Nihonbashi Building 2-3F, 3-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo 103-0023, Japan*<br> 【<https://www.axelspace.com/> & <http://www.axelglobe.com/>・ [Instagram ⎆](https://www.instagram.com/theaxelspace)・ [LinkedIn ⎆](https://www.linkedin.com/company/axelspace) ・ [Twitter ⎆](https://twitter.com/axelspace_en)】|
+|[![](../f/contact/a/axelspace_logo1_thumb.webp)](../f/contact/a/axelspace_logo1.webp)|<mark>noemail</mark>, +81-3-4405-5085, Fax: …;<br> *Clip Nihonbashi Building 2-3F, 3-3-3 Nihonbashi-Honcho, Chuo-ku, Tokyo 103-0023, Japan*<br> 【<https://www.axelspace.com/> & <http://www.axelglobe.com/>・ [Instagram ⎆](https://www.instagram.com/theaxelspace)・ [LinkedIn ⎆](https://www.linkedin.com/company/axelspace) ・ [Twitter ⎆](https://twitter.com/axelspace_en)】|
 |:--|:--|
 |**Mission**|We are pioneers of microsat tech advancing the frontiers of space business, reimagining traditional ways of using space, & creating a society where everyone on our planet can make space part of their life|
 |**Vision**|Space within your reach|

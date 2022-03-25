@@ -18,7 +18,7 @@
 
 |Болото на Валдае близ озера Селигер|Болото на южной окраине Санкт‑Петербурга (бассейн Невы)|[РКС](contact/rss.md)|
 |:--|:--|:--|
-|[![](f/contact/boloto_pic01_thumb.webp)](f/contact/boloto_pic01.webp)|[![](f/contact/boloto_pic02_thumb.webp)](f/contact/boloto_pic02.webp)|[![](f/contact/r/rks_office_thumb.webp)](f/contact/r/rks_office.jpg)|
+|[![](f/contact/boloto_pic01_thumb.webp)](f/contact/boloto_pic01.webp)|[![](f/contact/boloto_pic02_thumb.webp)](f/contact/boloto_pic02.webp)|[![](f/contact/r/rks_office_thumb.webp)](f/contact/r/rks_office.webp)|
 
 
 

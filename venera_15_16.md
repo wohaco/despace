@@ -10,7 +10,7 @@
 
 **Venera 15** and **Venera 16** were spacecraft sent to Venus by the Soviet Union. This uncrewed orbiters were to map the surface of Venus using high resolution imaging systems.
 
-![](f/project/v/venera_15_16/pic01.jpg)
+![](f/project/v/venera_15_16/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -85,9 +85,9 @@ Each operational orbit was tilted 87.5° to the equator plane with a reapsis of 
 
 Mapping and altimetry of the surface usually began at 80° N when moving towards the pole and continued after flying over the pole to 30° North latitude ([EVN‑022](venus.md)). The formation of radar images was carried out continuously, and the best resolution at the same time was about 0.9 ㎞ ([EVN‑002](venus.md)). The Data was accumulated at each 16 minute passage of the periapsis, stored on a tape recorder, then reproduced for transmission to Earth daily for a 100 min communication session, until the next periapsis. During the 24 hour interval, Venus rotated around its axis by 1.48°, so the successive strips of images shot overlapped with each other. At this rate, it took 8 months to cover all the longitudes.
 
-![](f/project/v/venera_15_16/pic02.jpg)
+![](f/project/v/venera_15_16/pic02.webp)
 
-![](f/project/v/venera_15_16/pic05.jpg)
+![](f/project/v/venera_15_16/pic05.webp)
 
 During the program, several orbit adjustments were made to preserve its period and shape.
 
@@ -104,7 +104,7 @@ Radar survey and mapping of Venus led to important discoveries of the relief and
    - Arachnoids — settled domes with radial cracks (faults) of arachnid shape;
    - Tesserae — vast areas with long mountain ranges and valleys.
 
-![](f/project/v/venera_15_16/pic03.jpg)
+![](f/project/v/venera_15_16/pic03.webp)
 
 Satellite radar results suggested that corona, domes, and arachnoids were surface manifestations of mantle plumes heating the stationary crust, as there was no obvious evidence of plate tectonics. There are no direct analogues of such formations on Earth. The tesserae were the oldest areas of the planet’s crust and were often overlapped by lava flows ([EVN‑085](venus.md)).
 
@@ -193,7 +193,7 @@ Synthetic Aperture Radar was necessary in this mission because nothing else woul
 
 General view of the spacecraft Venera 15 and Venera 16 with radar equipment in the image below.
 
-![](f/project/v/venera_15_16/pic04.jpg)
+![](f/project/v/venera_15_16/pic04.webp)
 
 
 

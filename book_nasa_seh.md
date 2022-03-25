@@ -154,7 +154,7 @@ There are 3 sets of common technical processes in NPR 7123.1, NASA Systems Eng
 The Systems Engineering engine. There are 3 main parts: ➀ systems design processes, ➁ technical management processes, & ➂ product realization processes. Requirements flow down from the level above, requirements flow down to the level below, realized products flow up from the level below, & realized products proceed to the level above.
 
 【**Figure 2.1‑1.** The Systems Engineering Engine (NPR 7123.1)】  
-[![](f/doc/nasa_seh/2_1_1.png)](f/doc/nasa_seh/2_1_1.png)
+[![](f/doc/nasa_seh/2_1_1.webp)](f/doc/nasa_seh/2_1_1.webp)
 
    - **System Design Processes:** The 4 system design processes shown in Fig. 2.1‑1 are used to define & baseline stakeholder expectations, generate & baseline technical requirements, decompose the requirements into logical & behavioral models, & convert the technical requirements into a design solution that will satisfy the baselined stakeholder expectations. These processes are applied to each product of the system structure from the top of the structure to the bottom until the lowest products in any system structure branch are defined to the point where they can be built, bought, or reused. All other products in the system structure are realized by implementation or integration.
    - **Product Realization Processes:** The product realization processes are applied to each operational/mission product in the system structure starting from the lowest level product & working up to higher level integrated products. These processes are used to create the design solution for each product (through buying, coding, building, or reusing) & to verify, validate, & transition up to the next hierarchical level those products that satisfy their design solutions & meet stakeholder expectations as a function of the applicable life cycle phase.
@@ -198,7 +198,7 @@ Fig. 2.2‑1 conceptually illustrates how the SE engine is used during each ph
 Detailed diagram showing the NASA Project life cycle process flow for flight & ground systems. Major phases, key decision points, & major reviews are highlighted.
 
 【**Figure 2.2‑1.** Miniature Version of the Poster‑Size NASA Project Life Cycle Process Flow for Flight & Ground Systems Accompanying this Handbook】  
-[![](f/doc/nasa_seh/2_2_1.png)](f/doc/nasa_seh/2_2_1.png)
+[![](f/doc/nasa_seh/2_2_1.webp)](f/doc/nasa_seh/2_2_1.webp)
 
 The uppermost horizontal portion of this chart is used as a reference to project system maturity, as the project progresses from a feasible concept to an as‑deployed system; phase activities; Key Decision Points (KDPs); & major project reviews. The next major horizontal band shows the technical development processes (steps 1 ‑ 9) in each project phase. The SE engine cycles 5 times from Pre‑Phase A through Phase D. Note that NASA’s management has structured Phases C & D to “split” the technical development processes in half in Phases C & D to ensure closer management control. The engine is bound by a dashed line in Phases C & D. Once a project enters into its operational state (Phase E) & closes out (Phase F), the technical work shifts to activities commensurate w/ these last 2 project phases. The next major horizontal band shows the 8 technical management processes (steps 10 ‑ 17) in each project phase. The SE engine cycles the technical management processes 7 times from Pre‑Phase A through Phase F.
 
@@ -272,7 +272,7 @@ Fig. 2.5‑1 shows that the life cycle costs of a program or project tend to g
 Graph showing the cumulative percentage life cycle cost against time. The percentage begins at 8% for the concept & finishes at 100% in the operations through disposal stage. The committed life cycle costs increases sharply near the beginning of the project & tapers off at the end stages.
 
 【**Figure 2.5‑1.** Life‑Cycle Cost Impacts from Early Phase Decision‑Making】  
-[![](f/doc/nasa_seh/2_5_1.png)](f/doc/nasa_seh/2_5_1.png)
+[![](f/doc/nasa_seh/2_5_1.webp)](f/doc/nasa_seh/2_5_1.webp)
 
 The technical team may have to choose among designs that differ in terms of numerous attributes. A variety of methods have been developed that can be used to help uncover preferences between attributes & to quantify subjective assessments of relative value. When this can be done, trades between attributes can be assessed quantitatively. Often, however, the attributes are incompatible. In the end, decisions need to be made in spite of the given variety of attributes. There are several decision analysis techniques (Section 6.8) that can aid in complex decision analysis. The systems engineer should always keep in mind the information that needs to be available to help the decision‑makers choose the most cost‑effective option.
 
@@ -353,7 +353,7 @@ Fig. 3.0‑1 is taken from NPR 7120.5 & provides the life cycle for NASA spa
 Table showing the phases in a NASA space flight project from pre‑phase A through Phase F. The reviews that take place during each step are marked by triangles.
 
 【**Figure 3.0‑1.** NASA Space Flight Project Life Cycle from NPR 7120.5E】  
-[![](f/doc/nasa_seh/3_0_1_thumb.webp)](f/doc/nasa_seh/3_0_1.png)
+[![](f/doc/nasa_seh/3_0_1_thumb.webp)](f/doc/nasa_seh/3_0_1.webp)
 
 Table 3.0‑1 is taken from NPR 7123.1 & represents the product maturity for the major SE products developed & matured during the product life cycle.
 
@@ -773,7 +773,7 @@ NPR 7123.1 includes a Compliance Matrix (Appendix H.2) to assist programs & 
 Fig. 3.11‑1 illustrates a notional tailoring process for a space flight project. Project management (such as the project manager/the Principal Investigator/the task lead, etc.) assembles a project team to tailor the NPR requirements codified in the Compliance Matrix. To properly classify the project, the team (chief engineer, lead systems engineer, safety & mission assurance, etc.) needs to understand the building blocks of the project such as the needs, goals, & objectives as well as the appropriate risk posture. Flow chart showing the tailoring process w/ inputs such as project needs, gols, & objectives, tailoring tools, & risk posture, & outputs at the end of the process.
 
 【**Figure 3.11‑1.** Notional Space Flight Products Tailoring Process】  
-[![](f/doc/nasa_seh/3_11_1.png)](f/doc/nasa_seh/3_11_1.png)
+[![](f/doc/nasa_seh/3_11_1.webp)](f/doc/nasa_seh/3_11_1.webp)
 
 Through an iterative process, the project team goes through the NPR requirements in the Compliance Matrix to tailor the requirements. A tailoring tool w/ suggested guidelines may make the tailoring process easier if available. Several NASA Centers incl. LaRC & MSFC have developed tools for use at their Centers which could be adapted for other Centers. Guidance from Subject Matter Experts (SMEs) should be sought to determine the appropriate amount of tailoring for a specific project. The Compliance Matrix provides rationales for each of the NPR requirements to assist in understanding. Once the tailoring is finalized & recorded in the Compliance Matrix w/ appropriate rationales, the requested tailoring proceeds through the appropriate governance model for approval.
 
@@ -903,7 +903,7 @@ Fig. 4.0‑1 illustrates the recursive relationship among the 4 system design 
 Flow chart showing the interrelationships amount the System Design Processes. Major sections of the diagram include Stakeholder expectations, requirements definition, logical decomposition, & design solution definition.
 
 【**Figure 4.0‑1.** Interrelationships among the System Design Processes】  
-[![](f/doc/nasa_seh/4_0_1.png)](f/doc/nasa_seh/4_0_1.png)
+[![](f/doc/nasa_seh/4_0_1.webp)](f/doc/nasa_seh/4_0_1.webp)
 
 The depth of the design effort should be sufficient to allow analytical verification of the design to the requirements. The design should be feasible & credible when judged by a knowledgeable independent review team & should have sufficient depth to support cost modeling & operational assessment.
 
@@ -931,7 +931,7 @@ The Stakeholder Expectations Definition Process is the initial process within th
 Fig. 4.1‑1 provides a typical flow diagram for the Stakeholder Expectations Definition Process & identifies typical inputs, outputs, & activities to consider in defining stakeholder expectations.
 
 【**Figure 4.1‑1.** Stakeholder Expectations Definition Process】  
-[![](f/doc/nasa_seh/4_1_1.png)](f/doc/nasa_seh/4_1_1.png)
+[![](f/doc/nasa_seh/4_1_1.webp)](f/doc/nasa_seh/4_1_1.webp)
 
 **4.1.1.1 Inputs.** Typical inputs needed for the Stakeholder Expectations Definition Process include the following:
 
@@ -972,7 +972,7 @@ Fig. 4.1‑2 shows the type of information needed when defining stakeholder ex
 Flow chart showing the information flow for stakeholder expectations. Mission goals flow to mission objectives, to operational objectives, success criteria, & then to design drivers. Numerous arrows flow back to each previous step.
 
 【**Figure 4.1‑2.** Information Flow for Stakeholder Expectations】  
-[![](f/doc/nasa_seh/4_1_2.png)](f/doc/nasa_seh/4_1_2.png)
+[![](f/doc/nasa_seh/4_1_2.webp)](f/doc/nasa_seh/4_1_2.webp)
 
 Defining stakeholder expectations begins w/ the mission authority & strategic objectives that the mission is meant to achieve. Mission authority changes depending on the category of the mission. For example, science missions are usually driven by NASA Science Mission Directorate strategic plans, whereas the exploration missions may be driven by a Presidential directive. Understanding the objectives of the mission helps ensure that the project team is working toward a common vision. These goals & objectives form the basis for developing the mission, so they need to be clearly defined & articulated.
 
@@ -1022,7 +1022,7 @@ The ConOps should consider all aspects of operations incl. nominal & off‑nomin
 Example of a lunar sortie DRM early in the life cycle. The first stages show rockets on Earth, then low Lunar orbit, then Lunar orbit injection, the Moon, & then reentry.
 
 【**Figure 4.1‑3.** Example of a Lunar Sortie DRM Early in the Life Cycle】  
-[![](f/doc/nasa_seh/4_1_3.png)](f/doc/nasa_seh/4_1_3.png)
+[![](f/doc/nasa_seh/4_1_3.webp)](f/doc/nasa_seh/4_1_3.webp)
 
 Additional information on the development of the ConOps is discussed in Section 4.1.2.1 of the NASA Expanded Guidance for Systems Engineering document found <https://nen.nasa.gov/web/se/doc-repository>. Appendix S contains one possible outline for developing a ConOps. The specific sections of the ConOps will vary depending on the scope & purpose of the project.
 
@@ -1092,7 +1092,7 @@ Technical requirements definition activities apply to the definition of all tech
 Fig. 4.2‑1 provides a typical flow diagram for the Technical Requirements Definition Process & identifies typical inputs, outputs, & activities to consider in addressing technical requirements definition.
 
 【**Figure 4.2‑1.** Technical Requirements Definition Process】  
-[![](f/doc/nasa_seh/4_2_1.png)](f/doc/nasa_seh/4_2_1.png)
+[![](f/doc/nasa_seh/4_2_1.webp)](f/doc/nasa_seh/4_2_1.webp)
 
 **4.2.1.1 Inputs.** Typical inputs needed for the requirements process include the following:
 
@@ -1133,7 +1133,7 @@ A complete set of project requirements includes those that are decomposed & allo
       - The TVC shall have a frequency response of 20 ㎐, ± 0.1 ㎐.
 
 【**Figure 4.2‑2.** Flow, Type & Ownership of Requirements】  
-[![](f/doc/nasa_seh/4_2_2.png)](f/doc/nasa_seh/4_2_2.png)
+[![](f/doc/nasa_seh/4_2_2.webp)](f/doc/nasa_seh/4_2_2.webp)
 
 With an overall understanding of the constraints, physical/functional interfaces, & functional/behavioral expectations, the requirements can be further defined by establishing performance & other technical criteria. The expected performance is expressed as a quantitative measure to indicate how well each product function needs to be accomplished.
 
@@ -1144,7 +1144,7 @@ Technical requirements come from a number of sources incl. functional, performan
 Flow chart showing the flowdown of requirements. Mission authority leads to mission objectives, leads to mission requirements, leads to system functional requirements, leads to system performance requirements & then subdivides to numerous subsystems.
 
 【**Figure 4.2‑3.** The Flowdown of Requirements】  
-[![](f/doc/nasa_seh/4_2_3.png)](f/doc/nasa_seh/4_2_3.png)
+[![](f/doc/nasa_seh/4_2_3.webp)](f/doc/nasa_seh/4_2_3.webp)
 
 *4.2.1.2.3 Define Requirements in Acceptable Statements*
 
@@ -1243,7 +1243,7 @@ Fig. 4.3‑1 provides a typical flow diagram for the Logical Decomposition Pro
 Flowchart showing the logical decomposition process
 
 【**Figure 4.3‑1.** Logical Decomposition Process】  
-[![](f/doc/nasa_seh/4_3_1.png)](f/doc/nasa_seh/4_3_1.png)
+[![](f/doc/nasa_seh/4_3_1.webp)](f/doc/nasa_seh/4_3_1.webp)
 
 **4.3.1.1 Inputs.** Typical inputs needed for the Logical Decomposition Process include the following:
 
@@ -1315,7 +1315,7 @@ Fig. 4.4‑1 provides a typical flow diagram for the Design Solution Definitio
 Flowchart showing the design, solution, definition process
 
 【**Figure 4.4‑1.** Design Solution Definition Process】  
-[![](f/doc/nasa_seh/4_4_1.png)](f/doc/nasa_seh/4_4_1.png)
+[![](f/doc/nasa_seh/4_4_1.webp)](f/doc/nasa_seh/4_4_1.webp)
 
 **4.4.1.1 Inputs.** There are several fundamental inputs needed to initiate the Design Solution Definition Process:
 
@@ -1333,7 +1333,7 @@ To obtain assessments that are crisp enough to facilitate good decisions, it’s
 Spiral diagram showing the doctrine of successive refinements. A project repeatedly goes through the following phases: identify & quantify goals, create concepts, do trade studies, select design, increase resolution & back to identifying & quantifying goals.
 
 【**Figure 4.4‑2.** The Doctrine of Successive Refinement】  
-[![](f/doc/nasa_seh/4_4_2.png)](f/doc/nasa_seh/4_4_2.png)
+[![](f/doc/nasa_seh/4_4_2.webp)](f/doc/nasa_seh/4_4_2.webp)
 
 Each “create concepts” step in Fig. 4.4‑2 involves a recursive & iterative design loop driven by the set of stakeholder expectations where a straw man architecture/design, the associated ConOps, & the derived requirements are developed & programmatic constraints such as cost & schedule are considered. These 3 products should be consistent w/ each other & will require iterations & design decisions to achieve this consistency. This recursive & iterative design loop is illustrated in Fig. 4.0‑1.
 
@@ -1384,7 +1384,7 @@ Graph showing life‑cycle cost, expressed in constant dollars versus effectiven
 
 【**Figure 4.4‑3.** A Quantitative Objective Function, Dependent on Life Cycle Cost & All Aspects of Effectiveness】  
 The different shaded areas indicate different levels of uncertainty. Dashed lines represent constant values of objective function (cost‑effectiveness). Higher values of cost‑effectiveness are achieved by moving toward upper left. A, B, & C are design concepts w/ different risk patterns.  
-[![](f/doc/nasa_seh/4_4_3.png)](f/doc/nasa_seh/4_4_3.png)
+[![](f/doc/nasa_seh/4_4_3.webp)](f/doc/nasa_seh/4_4_3.webp)
 
 The objective function (or “cost function”) assigns a real number to candidate solutions or “feasible solutions” in the alternative space or “search space”. A feasible solution that minimizes (or maximizes, if that is the goal) the objective function is called an “optimal solution”. When achievement of the goals can be quantitatively expressed by such an objective function, designs can be compared in terms of their value. Risks associated w/ design concepts can cause these evaluations to be somewhat nebulous because they’re uncertain & are best described by probability distributions.
 
@@ -1492,7 +1492,7 @@ This effort starts w/ the technical team taking the output from the system desig
 Product realization includes product implementation & integration. This leads to the evaluation processes incl. product verification & product validation, which leads to the product transition process.
 
 【**Figure 5.0‑1.** Product Realization】  
-[![](f/doc/nasa_seh/5_0_1.png)](f/doc/nasa_seh/5_0_1.png)
+[![](f/doc/nasa_seh/5_0_1.webp)](f/doc/nasa_seh/5_0_1.webp)
 
 This is an iterative & recursive process. Early in the life cycle, paper products, models, & simulations are run through the 5 realization processes. As the system matures & progresses through the life cycle, hardware & software products are run through these processes. It’s important to detect as many errors & failures as possible at the lowest level of integration & early in the life cycle so that changes can be made through the design processes w/ minimum impact to the project.
 
@@ -1523,7 +1523,7 @@ The Product Implementation Process is the key activity that moves the project fr
 Fig. 5.1‑1 provides a typical flow diagram for the Product Implementation Process & identifies typical inputs, outputs, & activities to consider in addressing product implementation.
 
 【**Figure 5.1‑1.** Product Implementation Process】  
-[![](f/doc/nasa_seh/5_1_1.png)](f/doc/nasa_seh/5_1_1.png)
+[![](f/doc/nasa_seh/5_1_1.webp)](f/doc/nasa_seh/5_1_1.webp)
 
 **5.1.1.1 Inputs.** Inputs to the Product Implementation Process depend primarily on the decision about whether the end product will be purchased, developed from scratch, or formed by reusing part or all of products from other projects. Typical inputs are shown in Fig. 5.1‑1.
 
@@ -1634,7 +1634,7 @@ Fig. 5.2‑1 provides a typical flow diagram for the Product Integration Proce
 Flowchart showing the product integration process
 
 【**Figure 5.2‑1.** Product Integration Process】  
-[![](f/doc/nasa_seh/5_2_1.png)](f/doc/nasa_seh/5_2_1.png)
+[![](f/doc/nasa_seh/5_2_1.webp)](f/doc/nasa_seh/5_2_1.webp)
 
 **5.2.1.1 Inputs.**
 
@@ -1730,7 +1730,7 @@ The outcome of the Product Verification Process is confirmation that the end pro
 Fig. 5.3‑1, taken from NPR 7123.1, provides a typical flow diagram for the Product Verification Process & identifies typical inputs, outputs, & activities to consider in addressing product verification.
 
 【**Figure 5.3‑1.** Product Verification Process】  
-[![](f/doc/nasa_seh/5_3_1.png)](f/doc/nasa_seh/5_3_1.png)
+[![](f/doc/nasa_seh/5_3_1.webp)](f/doc/nasa_seh/5_3_1.webp)
 
 **5.3.1.1 Inputs.** Key inputs to the process are:
 
@@ -1821,7 +1821,7 @@ Fig. 5.3‑2 presents an example of an end‑to‑end data flow for a scientif
 Example of end‑to‑end data flow for a scientific satellite mission. The steps are broken up into 4 categories: Externals Systems, Ground System, Flight System, & External Stimuli
 
 【**Figure 5.3‑2.** Example of End‑to‑End Data Flow for a Scientific Satellite Mission】  
-[![](f/doc/nasa_seh/5_3_2.png)](f/doc/nasa_seh/5_3_2.png)
+[![](f/doc/nasa_seh/5_3_2.webp)](f/doc/nasa_seh/5_3_2.webp)
 
 End‑to‑end testing is an integral part of the V&V of the total (mission) system. It’s a set of activities that can be employed during selected hardware, software, & system phases throughout the life cycle using developmental forms & external simulators. However, final end‑to‑end testing should be done on the flight articles in the flight configuration if possible & prior to deployment & launch. In comparison w/ configuration item testing, end‑to‑end testing addresses each configuration item (end product) only down to the level designated by the verification plan (generally, the segment or element) & focuses on external interfaces, which can be either hardware, software, or human‑based. Internal interfaces (e.g., software subroutine calls, analog‑to‑digital conversion) of a designated configuration item are not within the scope of end‑to‑end testing.
 
@@ -1923,7 +1923,7 @@ Fig. 5.4‑1, taken from NPR 7123.1, provides a typical flow diagram for the
    - Any enabling products: These are any special equipment, facilities, test fixtures, applications, or other items needed to perform the Product Validation Process.
 
 【**Figure 5.4‑1.** Product Validation Process】  
-[![](f/doc/nasa_seh/5_4_1.png)](f/doc/nasa_seh/5_4_1.png)
+[![](f/doc/nasa_seh/5_4_1.webp)](f/doc/nasa_seh/5_4_1.webp)
 
 **5.4.1.2 Process Activities**
 
@@ -2068,7 +2068,7 @@ Fig. 5.5‑1 provides a typical flow diagram for the Product Transition Proces
 **5.5.1.1 Inputs.**
 
 【**Figure 5.5‑1.** Product Transition Process】  
-[![](f/doc/nasa_seh/5_5_1.png)](f/doc/nasa_seh/5_5_1.png)
+[![](f/doc/nasa_seh/5_5_1.webp)](f/doc/nasa_seh/5_5_1.webp)
 
 Inputs to the Product Transition Process depend primarily on the transition requirements, the product that is being transitioned, the form of the product transition that is taking place, & the location to which the product is transitioning. Typical inputs are shown in Fig. 5.5‑1 & described below.
 
@@ -2197,7 +2197,7 @@ Fig. 6.1‑1 provides a typical flow diagram for the Technical Planning Proces
 **6.1.1.1 Inputs.** Input to the Technical Planning Process comes from both the project management & technical teams as outputs from the other common technical processes. Initial planning utilizing external inputs from the project to determine the general scope & framework of the technical effort will be based on known technical & programmatic requirements, constraints, policies, & processes. Throughout the project’s life cycle, the technical team continually incorporates results into the technical planning strategy & documentation & any internal changes based on decisions & assessments generated by the other processes of the SE engine or from requirements & constraints mandated by the project.
 
 【**Figure 6.1‑1.** Technical Planning Process】  
-[![](f/doc/nasa_seh/6_1_1.png)](f/doc/nasa_seh/6_1_1.png)
+[![](f/doc/nasa_seh/6_1_1.webp)](f/doc/nasa_seh/6_1_1.webp)
 
    - **Project Technical Effort Requirements & Project Resource Constraints:** The program/project plan provides the project’s top‑level technical requirements, the available budget allocated to the program/project from the program, & the desired schedule to support overall program needs. Although the budget & schedule allocated to the program/project serve as constraints, the technical team generates a technical cost estimate & schedule based on the actual work required to satisfy the technical requirements. Discrepancies between the allocated budget & schedule & the technical team’s actual cost estimate & schedule should be reconciled continuously throughout the life cycle.
    - **Agreements, Capability Needs, Applicable Product Life Cycle Phase:** The program/project plan also defines the applicable life cycle phases & milestones, as well as any internal & external agreements or capability needs required for successful execution. The life cycle phases & programmatic milestones provide the general framework for establishing the technical planning effort & for generating the detailed technical activities & products required to meet the overall milestones in each of the life cycle phases.
@@ -2567,7 +2567,7 @@ Requirements management activities apply to the management of all stakeholder ex
 Fig. 6.2‑1 provides a typical flow diagram for the Requirements Management Process & identifies typical inputs, outputs, & activities to consider in addressing requirements management.
 
 【**Figure 6.2‑1.** Requirements Management Process】  
-[![](f/doc/nasa_seh/6_2_1.png)](f/doc/nasa_seh/6_2_1.png)
+[![](f/doc/nasa_seh/6_2_1.webp)](f/doc/nasa_seh/6_2_1.webp)
 
 **6.2.1.1 Inputs.** There are several fundamental inputs to the Requirements Management Process.
 
@@ -2675,7 +2675,7 @@ The basic tasks that need to be established involve the management of internal &
 Fig. 6.3‑1 provides a typical flow diagram for the Interface Management Process & identifies typical inputs, outputs, & activities to consider in addressing interface management.
 
 【**Figure 6.3‑1.** Interface Management Process】  
-[![](f/doc/nasa_seh/6_3_1.png)](f/doc/nasa_seh/6_3_1.png)
+[![](f/doc/nasa_seh/6_3_1.webp)](f/doc/nasa_seh/6_3_1.webp)
 
 **6.3.1.1 Inputs.** Typical inputs needed to understand & address interface management would include the following:
 
@@ -2758,12 +2758,12 @@ This “risk triplet” conceptualization of risk is illustrated in Fig. 6.4‑1
 Risk scenariou development. Question 1: What can go wrong? Start w/ initiating event selection. Question 2. How frequently does it happen. This leads to scenario development, & Question 3: What are the consequences? This leads to consequence modeling.
 
 【**Figure 6.4‑1.** Risk Scenario Development (Source: NASA/SP‑2011‑3421)】  
-[![](f/doc/nasa_seh/6_4_1.png)](f/doc/nasa_seh/6_4_1.png)
+[![](f/doc/nasa_seh/6_4_1.webp)](f/doc/nasa_seh/6_4_1.webp)
 
 Graphic showing risk as a aggregate of the structure of each scenario, its likelihood & its uncertainty, & its consequence severity & its uncertainty.
 
 【**Figure 6.4‑2.** Risk as an Aggregate Set of Risk Triplets】  
-[![](f/doc/nasa_seh/6_4_2.png)](f/doc/nasa_seh/6_4_2.png)
+[![](f/doc/nasa_seh/6_4_2.webp)](f/doc/nasa_seh/6_4_2.webp)
 
 Undesired scenario(s) might come from technical or programmatic sources (e.g., a cost overrun, schedule slippage, safety mishap, health problem, malicious activities, environmental impact, or failure to achieve a needed scientific or technological objective or success criterion). Both the likelihood & consequences may have associated uncertainties.
 
@@ -2786,7 +2786,7 @@ Uncertainties are included in the evaluation of likelihoods & consequences.
 Fig. 6.4‑3 provides a typical flow diagram for the Risk Management Process & identifies typical inputs, activities, & outputs to consider in addressing risk management.
 
 【**Figure 6.4‑3.** Risk Management Process】  
-[![](f/doc/nasa_seh/6_4_3.png)](f/doc/nasa_seh/6_4_3.png)
+[![](f/doc/nasa_seh/6_4_3.webp)](f/doc/nasa_seh/6_4_3.webp)
 
 **6.4.1.1 Inputs.** The following are typical inputs to risk management:
 
@@ -2819,7 +2819,7 @@ CRM is then used to manage risks over the course of the development & implementa
 Graphic showing risk management as the interaction between risk‑informed decision making & continuous risk management
 
 【**Figure 6.4‑4.** Risk Management as the Interaction of Risk‑Informed Decision Making & Continuous Risk Management (Source: NASA/SP‑2011‑3422)】  
-[![](f/doc/nasa_seh/6_4_4.png)](f/doc/nasa_seh/6_4_4.png)
+[![](f/doc/nasa_seh/6_4_4.webp)](f/doc/nasa_seh/6_4_4.webp)
 
 *6.4.1.2.4 Prepare for Technical Risk Mitigation*
 
@@ -2867,7 +2867,7 @@ When applied to the design, fabrication/assembly, system/subsystem testing, inte
 Fig. 6.5‑1 provides a typical flow diagram for the Configuration Management Process & identifies typical inputs, outputs, & activities to consider in addressing CM.
 
 【**Figure 6.5‑1.** Configuration Management Process】  
-[![](f/doc/nasa_seh/6_5_1.png)](f/doc/nasa_seh/6_5_1.png)
+[![](f/doc/nasa_seh/6_5_1.webp)](f/doc/nasa_seh/6_5_1.webp)
 
 **6.5.1.1 Inputs.** The inputs for this process are:
 
@@ -2890,7 +2890,7 @@ There are 5 elements of CM (see Fig. 6.5‑2):
 Graphic showing the 5 elements of configuration management. These 5 elements include ➀ Configuration planning & management, ➁ configuration identification, ➂ configuration change management, ➃ configuration status accounting, ➄ configuration verification
 
 【**Figure 6.5‑2.** Five Elements of Configuration Management】  
-[![](f/doc/nasa_seh/6_5_2.png)](f/doc/nasa_seh/6_5_2.png)
+[![](f/doc/nasa_seh/6_5_2.webp)](f/doc/nasa_seh/6_5_2.webp)
 
 *6.5.1.2.1 Prepare a Strategy to Conduct CM*
 
@@ -2914,7 +2914,7 @@ NASA has 4 baselines, each of which defines a distinct phase in the evolution of
 Flowchart showing configuration information, non‑configuration information & milestones for a project. The project moves from the Functional baseline (major architecture aspects of design complete) to Allocated baseline (Implementation aspects of design complete) to Product baseline (realization aspects of design complete; fabrication & text complete)
 
 【**Figure 6.5‑3.** Evolution of Technical Baseline】  
-[![](f/doc/nasa_seh/6_5_3.png)](f/doc/nasa_seh/6_5_3.png)
+[![](f/doc/nasa_seh/6_5_3.webp)](f/doc/nasa_seh/6_5_3.webp)
 
 The 4 baselines (see Fig. 6.5‑3) normally controlled by the program, project, or Center are the following:
 
@@ -2933,7 +2933,7 @@ Configuration change management is a process to manage approved designs & the im
 Normal Configuration Change Process that includes 10 steps & 5 different parties.
 
 【**Figure 6.5‑4.** Typical Change Control Process】  
-[![](f/doc/nasa_seh/6_5_4.png)](f/doc/nasa_seh/6_5_4.png)
+[![](f/doc/nasa_seh/6_5_4.webp)](f/doc/nasa_seh/6_5_4.webp)
 
 **Types of Configuration Management Changes**
 
@@ -3028,7 +3028,7 @@ The Technical Data Management & Configuration Management Processes work side‑b
 Fig. 6.6‑1 provides a typical flow diagram for the Technical Data Management Process & identifies typical inputs, outputs, & activities to consider in addressing technical data management.
 
 【**Figure 6.6‑1.** Technical Data Management Process】  
-[![](f/doc/nasa_seh/6_6_1.png)](f/doc/nasa_seh/6_6_1.png)
+[![](f/doc/nasa_seh/6_6_1.webp)](f/doc/nasa_seh/6_6_1.webp)
 
 **6.6.1.1 Inputs.** The inputs for this process are:
 
@@ -3150,7 +3150,7 @@ NASA has multiple review cycle processes for both space flight programs & projec
 Fig. 6.7‑1 provides a typical flow diagram for the Technical Assessment Process & identifies typical inputs, outputs, & activities to consider in addressing technical assessment. Technical assessment is focused on providing a periodic assessment of the program/project’s technical & programmatic status & health at key points in the life cycle. There are 6 criteria considered in this assessment process: alignment w/ & contribution to Agency strategic goals; adequacy of management approach; adequacy of technical approach; adequacy of the integrated cost & schedule estimates & funding strategy; adequacy & availability of non‑budgetary resources, & adequacy of the risk management approach.
 
 【**Figure 6.7‑1.** Technical Assessment Process】  
-[![](f/doc/nasa_seh/6_7_1.png)](f/doc/nasa_seh/6_7_1.png)
+[![](f/doc/nasa_seh/6_7_1.webp)](f/doc/nasa_seh/6_7_1.webp)
 
 **6.7.1.1 Inputs.** Typical inputs needed for the Technical Assessment Process would include the following:
 
@@ -3167,7 +3167,7 @@ As outlined in Fig. 6.7‑1, the technical plans provide the initial inputs in
 These activities together form the feedback loop depicted in Fig. 6.7‑2. Planning leading to an execution, to status reporting, to assessing, & to decision‑making. If the status is not okay after decision‑making, go back to planning. If it’s okay, go back to Status Reporting.
 
 【**Figure 6.7‑2.** Planning & Status Reporting Feedback Loop】  
-[![](f/doc/nasa_seh/6_7_2.png)](f/doc/nasa_seh/6_7_2.png)
+[![](f/doc/nasa_seh/6_7_2.webp)](f/doc/nasa_seh/6_7_2.webp)
 
 This loop takes place on a continual basis throughout the project life cycle. This loop is applicable at each level of the project hierarchy. Planning data, status reporting data, & assessments flow up the hierarchy w/ appropriate aggregation at each level; decisions cause actions to be taken down the hierarchy. Managers at each level determine (consistent w/ policies established at the next higher level of the project hierarchy) how often & in what form status data should be reported & assessments should be made. In establishing these status reporting & assessment requirements, some principles of good practice are as follows:
 
@@ -3256,14 +3256,14 @@ The outputs from this process support the decision authority’s difficult task 
 A typical process flow diagram is provided in Fig. 6.8‑1, incl. inputs, activities, & outputs. The first step in the process is understanding the decision to be made in the context of the system/mission. Understanding the decision needed requires knowledge of the intended outcome in terms of technical performance, cost, & schedule. For an issue that follows the decision analysis process, the definition of the decision criteria or the measures that are important to characterize the options for making a decision should be the next step in the process. With this defined, a set of alternative solutions can be defined for evaluation. These solutions should cover the full decision space as defined by the understanding of the decision & definition of the decision criteria. The need for specific decision analysis tools (defined in Section 6.8.3 in the [NASA Expanded Guidance for Systems Engineering ⎆](https://nen.nasa.gov/web/se/doc-repository)) can then be determined & employed to support the formulation of a solution. Following completion of the analysis, a description of how each alternative compares w/ the decision criteria can be captured for submission to the decision‑making body or authority. A recommendation is typically provided from the decision analysis, but is not always required depending on the discretion of the decision‑making body. A decision analysis report should be generated including: decision to be made, decision criteria, alternatives, evaluation methods, evaluation process & results, recommendation, & final decision.
 
 【**Figure 6.8‑1.** Decision Analysis Process】  
-[![](f/doc/nasa_seh/6_8_1.png)](f/doc/nasa_seh/6_8_1.png)
+[![](f/doc/nasa_seh/6_8_1.webp)](f/doc/nasa_seh/6_8_1.webp)
 
 Decision analysis covers a wide range of timeframes. Complex, strategic decisions may require weeks or months to fully assess all alternatives & potential outcomes. Decisions can also be made in hours or in a few days, especially for smaller projects or activities. Decisions are also made in emergency situations. Under such conditions, process steps, procedures, & meetings may be combined. In these cases, the focus of the systems engineer is on obtaining accurate decisions quickly. Once the decision is made, the report can be generated. The report is usually generated in an ongoing fashion during the decision analysis process. However, for quick or emergency decisions, the report information may be captured after the decision has been made.
 
 Not all decisions require the same amount of analysis effort. The level & rigor required in a specific situation depend essentially on how clear‑cut the decision is. If there is enough uncertainty in the alternatives’ performance that the decision might change if that uncertainty were to be reduced, then consideration needs to be given to reducing that uncertainty. A robust decision is one that is based on sufficient technical evidence & characterization of uncertainties to determine that the selected alternative best reflects decision‑maker preferences & values given the state of knowledge at the time of the decision. This is suggested in figure 6.8‑2 showing the steps in risk analysis of various decision alternatives.
 
 【**Figure 6.8‑2.** Risk Analysis of Decision Alternatives】  
-[![](f/doc/nasa_seh/6_8_2.png)](f/doc/nasa_seh/6_8_2.png)
+[![](f/doc/nasa_seh/6_8_2.webp)](f/doc/nasa_seh/6_8_2.webp)
 
 Note that in Fig. 6.8‑2, the phrase “net beneficial” in the decision node “Net beneficial to reduce uncertainty?” is meant to imply consideration of all factors, incl. whether the project can afford any schedule slip that might be caused by additional information collection & additional analysis.
 
@@ -3957,7 +3957,7 @@ The TMA is performed against the hierarchical breakdown of the hardware & softwa
 Product Breakdown Structure example. Here we have 1.3 crew launch vehicle, 1.3.8 launch vehicle, 1.3.8.1 first stage, 1.3.8.2 upper stage, & 1.3.8.3 upper stage engine. Upper stage is broken down into more than 10 subparts incl. avionics, software, etc. Each of those is broken down further into subsystems.
 
 【**Figure G.1‑1.** PBS Example】  
-[![](f/doc/nasa_seh/g_1_1.png)](f/doc/nasa_seh/g_1_1.png)
+[![](f/doc/nasa_seh/g_1_1.webp)](f/doc/nasa_seh/g_1_1.webp)
 
 **G.2 Inputs/Entry Criteria**
 
@@ -3980,7 +3980,7 @@ The overall process is iterative, starting at the conceptual level during progra
 Technology assessment process showing the process going from identifying systems, subsystems, compoenents etc. & ending in two places: baseline technology maturity assessment, & technology development plan, cost plan, schedule plan, & risk assessment.
 
 【**Figure G.3‑1.** Technology Assessment Process】  
-[![](f/doc/nasa_seh/g_3_1.png)](f/doc/nasa_seh/g_3_1.png)
+[![](f/doc/nasa_seh/g_3_1.webp)](f/doc/nasa_seh/g_3_1.webp)
 
 Even at the conceptual level, it’s important to use the formalism of a PBS to avoid allowing important technologies to slip through the cracks. Because of the preliminary nature of the concept, the systems, subsystems, & components will be defined at a level that will not permit detailed assessments to be made. The process of performing the assessment, however, is the same as that used for subsequent, more detailed steps that occur later in the program/project where systems are defined in greater detail.
 
@@ -3988,7 +3988,7 @@ Even at the conceptual level, it’s important to use the formalism of a PBS to 
 Once the concept has been formulated & the initial identification of critical technologies made, it’s necessary to perform detailed architecture studies w/ the Technology Assessment Process intimately interwoven. (See Fig. G.3‑2 showing the back & forth flow from Requirements, concepts, architectural studies, system design, TRL/AD squared assessment & technology maturation).
 
 【**Figure G.3‑2.** Architectural Studies & Technology Development】  
-[![](f/doc/nasa_seh/g_3_2.png)](f/doc/nasa_seh/g_3_2.png)
+[![](f/doc/nasa_seh/g_3_2.webp)](f/doc/nasa_seh/g_3_2.webp)
 
 The purpose of the architecture studies is to refine end‑item system design to meet the overall scientific requirements of the mission. It’s imperative that there be a continuous relationship between architectural studies & maturing technology advances. The architectural studies should incorporate the results of the technology maturation, planning for alternative paths & identifying new areas required for development as the architecture is refined. Similarly, it’s incumbent upon the technology maturation process to identify requirements that are not feasible & development routes that are not fruitful & to transmit that information to the architecture studies in a timely manner. It’s also incumbent upon the architecture studies to provide feedback to the technology development process relative to changes in requirements. Particular attention should be given to “heritage” systems in that they’re often used in architectures & environments different from those in which they were designed to operate.
 
@@ -3999,7 +3999,7 @@ A Technology Readiness Level (TRL) is, at its most basic, a description of the p
 Thermometer graphic w/ Technology Readiness Levels (TRL) 1 at the base of the thermometer & TRL 9 at the top showing the various steps at each TRL.
 
 【**Figure G.4‑1.** Technology Readiness Levels】  
-[![](f/doc/nasa_seh/g_4_1.png)](f/doc/nasa_seh/g_4_1.png)
+[![](f/doc/nasa_seh/g_4_1.webp)](f/doc/nasa_seh/g_4_1.webp)
 
 Programs are often undertaken w/o fully understanding either the maturity of key technologies or what is needed to develop them to the required level. It’s impossible to understand the magnitude & scope of a development program w/o having a clear understanding of the baseline technological maturity of all elements of the system. Establishing the TRL is a vital first step on the way to a successful program. A frequent misconception is that in practice, it’s too difficult to determine TRLs & that when you do, it’s not meaningful. On the contrary, identifying TRLs can be a straightforward systems engineering process of determining what was demonstrated & under what conditions it was demonstrated.
 
@@ -4015,7 +4015,7 @@ A third critical element of any assessment relates to the question of who is in 
 Technology Maturity Assessment flowchart. 10 successive questions are posed. If the answer is yes, the Technology Readiness Level is indicated, if the answer is no, go to the next question. If the answer to all the questions is no, "Rethink Position Regarding this Technology."
 
 【**Figure G.4‑2.** TMA Thought Process】  
-[![](f/doc/nasa_seh/g_4_2.png)](f/doc/nasa_seh/g_4_2.png)
+[![](f/doc/nasa_seh/g_4_2.webp)](f/doc/nasa_seh/g_4_2.webp)
 
 **Heritage Systems**  
 Note the second box particularly refers to heritage systems. If the architecture & the environment have changed, then the TRL drops to TRL 5 — at least initially. Additional testing may need to be done for heritage systems for the new use or new environment. If in subsequent analysis the new environment is sufficiently close to the old environment or the new architecture sufficiently close to the old architecture, then the resulting evaluation could be TRL 6 or 7, but the most important thing to realize is that it’s no longer at TRL 9. Applying this process at the system level & then proceeding to lower levels of subsystem & component identifies those elements that require development & sets the stage for the subsequent phase, determining the AD².
@@ -4025,7 +4025,7 @@ A method for formalizing this process is shown in Fig. G.4‑3. Here, the proc
 Table showing an example of a TRL Assessment Matrix. Each system is broken down into its various subsystems & aspects such as concept, demonstration units, environment, & unit description are indicated. The overall TRL is indicated by color in the far right column, w/ Red representing TRLs below 3, Yellow representing TRLs 3, 4, & 5, & Green representing TRL 6 & above.
 
 【**Figure G.4‑3.** TRL Assessment Matrix】  
-[![](f/doc/nasa_seh/g_4_3.png)](f/doc/nasa_seh/g_4_3.png)
+[![](f/doc/nasa_seh/g_4_3.webp)](f/doc/nasa_seh/g_4_3.webp)
 
 
 

@@ -1,7 +1,7 @@
 # STARS Space Service
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/stars_ss_logo1_thumb.png)](../f/contact/s/stars_ss_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *1844 Ose-cho, Higashi-ku, Hamamatsu, Shizuoka, Japan*<br> 【<https://stars.co.jp/>・ [Instagram ⎆](https://www.instagram.com/stars.space.service/)】|
+|[![](../f/contact/s/stars_ss_logo1_thumb.webp)](../f/contact/s/stars_ss_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *1844 Ose-cho, Higashi-ku, Hamamatsu, Shizuoka, Japan*<br> 【<https://stars.co.jp/>・ [Instagram ⎆](https://www.instagram.com/stars.space.service/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

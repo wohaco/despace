@@ -10,7 +10,7 @@
 
 **Venera 11** (**Венера-11**) and **Venera 12** (**Венера-12**) were Soviet unmanned space mission parts to Venus.
 
-![](f/project/v/venera_11_12/pic02.jpg)
+![](f/project/v/venera_11_12/pic02.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -83,7 +83,7 @@ Both lander entered the atmosphere of Venus at a speed of 11.2 ㎧ 2 days afte
 
 After performing the withdrawal maneuver, each space station flew near Venus at a distance of about 35 000 ㎞ ([EVN‑005](venus.md)), transmitting data to Earth from its lander throughout the descent and work on the planet’s surface ([EVN‑092](venus.md)). The last signals from space stations were received in January 1980 (Venera 11) and in March 1981 (Venera 12).
 
-![](f/project/v/venera_11_12/pic03.jpg)
+![](f/project/v/venera_11_12/pic03.webp)
 
 **Results**
 
@@ -226,7 +226,7 @@ The spacecraft were generally identical to the preceding Venera 9 and 10 (Vene
 
 The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The central section of the bus has a diameter of about one meter and contained propellant. The main engine (KRD-425A) is encircled by a conical instrument compartment with the diameter of 2.35 m at the base.
 
-![](f/project/v/venera_11_12/pic01.jpg)
+![](f/project/v/venera_11_12/pic01.webp)
 
 
 

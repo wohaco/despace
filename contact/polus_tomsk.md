@@ -1,7 +1,7 @@
 # НПЦ «Полюс»
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/n/npc_polus_logo1_thumb.webp)](../f/contact/n/npc_polus_logo1.png)|<info@polus-tomsk.ru>, +7(3822)55-46-94 (приёмная), Fax: +7(3822)55-77-66;<br> *Россия, 634050, Томск, пр. Кирова, 56"в"*<br> 【<http://polus.tomsknet.ru/>】|
+|[![](../f/contact/n/npc_polus_logo1_thumb.webp)](../f/contact/n/npc_polus_logo1.webp)|<info@polus-tomsk.ru>, +7(3822)55-46-94 (приёмная), Fax: +7(3822)55-77-66;<br> *Россия, 634050, Томск, пр. Кирова, 56"в"*<br> 【<http://polus.tomsknet.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

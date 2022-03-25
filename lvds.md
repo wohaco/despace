@@ -51,7 +51,7 @@ LVDS works in both parallel & serial data transmission. In parallel transmission
 **Multipoint LVDS.**  
 The original LVDS standard only envisioned driving a digital signal from one transmitter to one receiver in a point‑to‑point topology. However, engineers using the first LVDS products soon wanted to drive multiple receivers with a single transmitter in a multipoint topology. As a result, NSC invented Bus LVDS (BLVDS) as the first variation of LVDS designed to drive multiple LVDS receivers. It uses termination resistors at each end of the differential transmission line to maintain the signal integrity. Double termination is necessary because it is possible to have one or more transmitters in the center of the bus driving signals toward receivers in both directions. The difference from standard LVDS transmitters was increasing the current output in order to drive the multiple termination resistors. In addition, the transmitters need to tolerate the possibility of other transmitters simultaneously driving the same bus.  
 Bus LVDS & LVDM (by TI) are de facto multipoint LVDS standards. Multipoint LVDS (MLVDS) is the TIA standard (TIA‑899). The AdvancedTCA standard specified MLVDS for clock distribution across the backplane to each of the computing module boards in the system. MLVDS has two types of receivers. Type‑1 is compatible with LVDS & uses a +/− 50 mV threshold. Type‑2 receivers allow Wired‑Or signalling with M‑LVDS devices.  
-![](f/cable/lvds_01.png)
+![](f/cable/lvds_01.webp)
 
 
 

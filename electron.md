@@ -31,7 +31,7 @@ Electron позволяет вывести полезную нагрузку м�
 |Разраб./изготов.|[Rocket Lab](contact/rocket_lab.md) (США) / [Rocket Lab](contact/rocket_lab.md) (США)|
 |Ступени|2|
 |[Fuel](ps.md)|[O + Kerosene](o_plus.md)|
-| |[![](f/lv/electron/electron_first_launch_thumb.webp)](f/lv/electron/electron_first_launch.jpg)|
+| |[![](f/lv/electron/electron_first_launch_thumb.webp)](f/lv/electron/electron_first_launch.webp)|
 
 **Выводимые массы.**
 
@@ -43,7 +43,7 @@ Electron позволяет вывести полезную нагрузку м�
 
 |*РН в сравнении<br> с человеком*|*В сборочном<br> помещении*|*Двигатель<br> «Резерфорд»*|
 |:--|:--|:--|
-|[![](f/lv/electron/electron_and_human_2017_thumb.webp)](f/lv/electron/electron_and_human_2017.webp)|[![](f/lv/electron/2017_04_thumb.webp)](f/lv/electron/2017_04.jpg)|[![](f/lv/electron/electron_rocket_engine_5_thumb.webp)](f/lv/electron/electron_rocket_engine_5.png)|
+|[![](f/lv/electron/electron_and_human_2017_thumb.webp)](f/lv/electron/electron_and_human_2017.webp)|[![](f/lv/electron/2017_04_thumb.webp)](f/lv/electron/2017_04.webp)|[![](f/lv/electron/electron_rocket_engine_5_thumb.webp)](f/lv/electron/electron_rocket_engine_5.webp)|
 
 
 

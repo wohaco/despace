@@ -9,7 +9,7 @@
 
 **Pioneer Venus Orbiter**, also known as *Pioneer Venus 1* or *Pioneer 12*, was a mission to Venus conducted by the United States as part of the Pioneer Venus project. Launched in May 1978 atop an Atlas‑Centaur rocket, the spacecraft was inserted into an elliptical orbit around Venus on December 4, 1978. It returned data on Venus until October 1992.
 
-[![](f/project/p/pioneer_venus_1/pic01_thumb.webp)](f/project/p/pioneer_venus_1/pic01.jpg)
+[![](f/project/p/pioneer_venus_1/pic01_thumb.webp)](f/project/p/pioneer_venus_1/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -79,27 +79,27 @@ The orbiter went into orbit around Venus on Dec. 4, 1978 ([EVN‑005](venus.md))
 
 On Venus, as on Earth, there are mountains, plains, lowlands. Mountain areas occupy 8 % of the planet’s surface. About 27 % of the surface of Venus is lowland. They are concentrated in two intersecting belts, the outlines of which resemble the letter “X”. On Venus, as on Earth, traces of tectonic activity were found. The volcanic activity of Venus is evidenced by the “youth” of some details of its relief. But it was also concluded that tectonic activity on Venus is less active than on Earth ([EVN‑029](venus.md)).
 
-[![](f/project/p/pioneer_venus_1/pic04_thumb.webp)](f/project/p/pioneer_venus_1/pic04.jpg)
+[![](f/project/p/pioneer_venus_1/pic04_thumb.webp)](f/project/p/pioneer_venus_1/pic04.webp)
 
 Also, from its orbit of Venus, the Pioneer Venus Orbiter was able to observe Halley’s Comet when it was unobservable from Earth due to its proximity to the sun during February 1986. UV spectrometer observations monitored the loss of water from the comet’s nucleus at perihelion on February 9.
 
 The Pioneer Venus orbiter measured the detailed structure of the upper atmosphere ([EVN‑017](venus.md)) and ionosphere of Venus ([EVN‑096](venus.md)), investigated the interaction of the solar wind with the ionosphere and the magnetic field in the vicinity of Venus ([EVN‑097](venus.md)), determined the characteristics of the atmosphere and surface of Venus on a planetary scale, determined the planet’s gravitational field harmonics from perturbations of the spacecraft orbit ([EVN‑089](venus.md)), and detected gamma‑ray bursts.
 
-![](f/project/p/pioneer_venus_1/pic05.jpg)
+![](f/project/p/pioneer_venus_1/pic05.webp)
 
 The diagram illustrates the solar wind, shock wave, magnetic field, ion and electron clouds and streams from Venus. The impact of solar wind on the atmosphere of Venus according to the data from the Board Pioneer Venus 1.
 
 The most mysterious properties had a cloud formation in the form of Y, discovered in the early 60s and only in ultraviolet images. It had two symmetrical arms relative to the equator and extended to latitudes of 45°. Initially, this formation was associated with zonal advection of UV markers due to the superfluid atmosphere of Venus. The researchers concluded that such a large structure is an atmospheric wave. Determining the nature of this wave has become a crucial problem, as its enormous size may indicate an explanation for why Venus’ atmosphere rotates 60 times faster than the planet itself — atmospheric superrotation. The spacecraft provided new data on the dynamics of the planet’s cloud cover and its four‑day atmospheric superrotation ([EVN‑034](venus.md)). In addition, frequent thunderstorms were detected, concentrated in limited areas ([EVN‑012](venus.md)).
 
-![](f/project/p/pioneer_venus_1/pic06.jpg)
+![](f/project/p/pioneer_venus_1/pic06.webp)
 
 The Orbiter was transmitting ultraviolet images of the planet’s cloud cover.
 
-![](f/project/p/pioneer_venus_1/pic02.jpg)
+![](f/project/p/pioneer_venus_1/pic02.webp)
 
 Synthesized images of the Venus pole from the Pioneer Venus Orbiter and Mariner 10 spacecraft. The image below shows the polar vortex in Venus’ atmosphere. ([EVN‑067](venus.md))
 
-![](f/project/p/pioneer_venus_1/pic03.jpg)
+![](f/project/p/pioneer_venus_1/pic03.webp)
 
 Also Pioneer Venus Orbiter participated in the international network for search and registration of gamma‑ray bursts.
 

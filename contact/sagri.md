@@ -1,7 +1,7 @@
 # Sagri
 > 2021.12.10 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/sagri_logo1_thumb.png)](../f/contact/s/sagri_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *725-1 Joraku, Hikamicho, Tamba City, Hyogo Prefecture, 〒669-3602, Japan*<br> 【<https://sagri.tokyo/>・ [LinkedIn ⎆](https://www.linkedin.com/company/sagri)】|
+|[![](../f/contact/s/sagri_logo1_thumb.webp)](../f/contact/s/sagri_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *725-1 Joraku, Hikamicho, Tamba City, Hyogo Prefecture, 〒669-3602, Japan*<br> 【<https://sagri.tokyo/>・ [LinkedIn ⎆](https://www.linkedin.com/company/sagri)】|
 |:--|:--|
 |**Mission**|Utilizing satellite data & ground data to optimize the activities of humankind living on the Earth|
 |**Vision**|Realizing the coexistence of humankind & the Earth|

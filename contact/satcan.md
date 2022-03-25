@@ -1,7 +1,7 @@
 # SatCan
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/satcan_logo1_thumb.webp)](../f/contact/s/satcan_logo1.png)|<info@satcan.ca>, +1(613)265-46-31, Fax: …;<br> *227 Centrepointe Drive, Ottawa, ON, K2G 5L5, Canada*<br> 【<https://www.satellitecanada.org/>・ [LinkedIn ⎆](https://www.linkedin.com/company/satellite-canada-innovation-network/)・ [Twitter ⎆](https://twitter.com/SatelliteCanada)】|
+|[![](../f/contact/s/satcan_logo1_thumb.webp)](../f/contact/s/satcan_logo1.webp)|<info@satcan.ca>, +1(613)265-46-31, Fax: …;<br> *227 Centrepointe Drive, Ottawa, ON, K2G 5L5, Canada*<br> 【<https://www.satellitecanada.org/>・ [LinkedIn ⎆](https://www.linkedin.com/company/satellite-canada-innovation-network/)・ [Twitter ⎆](https://twitter.com/SatelliteCanada)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

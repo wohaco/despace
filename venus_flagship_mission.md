@@ -11,7 +11,7 @@
 
 The original report dates back to 2007.
 
-![](f/project/v/venus_flagship_mission/vfm_04.jpg)
+![](f/project/v/venus_flagship_mission/vfm_04.webp)
 
 
 
@@ -106,8 +106,8 @@ Findings from the report will be used in NASA’s program planning activities & 
 
 | | |
 |:--|:--|
-|![](f/project/v/venus_flagship_mission/vfm_01.jpg)|![](f/project/v/venus_flagship_mission/vfm_04.jpg)|
-|![](f/project/v/venus_flagship_mission/vfm_02.jpg)|![](f/project/v/venus_flagship_mission/vfm_03.png)|
+|![](f/project/v/venus_flagship_mission/vfm_01.webp)|![](f/project/v/venus_flagship_mission/vfm_04.webp)|
+|![](f/project/v/venus_flagship_mission/vfm_02.webp)|![](f/project/v/venus_flagship_mission/vfm_03.webp)|
 
 
 
@@ -122,7 +122,7 @@ Clearly, the technological challenges for in situ exploration of Venus are high.
 
 The DRM accomplishes a very wide range of atmospheric, geologic, & geochemical investigations to illuminate how the atmosphere, clouds, surface, & interior interact over many timescales ([EVN‑041](venus.md)). It does this by using the synergy of simultaneous atmospheric & surface in situ exploration under a very capable mapping orbiter.
 
-![](f/project/v/venus_flagship_mission/vfm_05.jpg)
+![](f/project/v/venus_flagship_mission/vfm_05.webp)
 
 
 
@@ -137,7 +137,7 @@ Our great progress in exploring Mars illustrates how in‑depth exploration of a
 
 Nevertheless, many of the scientific investigations that should be done to understand the Venus system & relate those results to our own world can be achieved by a flagship mission to Venus.
 
-![](f/project/v/venus_flagship_mission/vfm_06.jpg)
+![](f/project/v/venus_flagship_mission/vfm_06.webp)
 
 
 
@@ -231,15 +231,15 @@ Further details on the timeline are provided in Figure 3.
       - **Step 5g**: Lander reaches the ground after 1 hour of descent; Begin 5‑hour surface science operations phase; Lander data relayed to orbiter.
    - **Step 6**: Orbiter completes relay telecom support: 6 months of aerobraking to 230 ㎞ circular orbit; 2 years of orbiter science operations in prime mission (sufficient propellant for 2‑year extended mission).
 
-[![](f/project/v/venus_flagship_mission/vfm_07_thumb.webp)](f/project/v/venus_flagship_mission/vfm_07.jpg)<br> **Figure 1**
+[![](f/project/v/venus_flagship_mission/vfm_07_thumb.webp)](f/project/v/venus_flagship_mission/vfm_07.webp)<br> **Figure 1**
 
 <br>
 
-[![](f/project/v/venus_flagship_mission/vfm_08_thumb.webp)](f/project/v/venus_flagship_mission/vfm_08.jpg)<br> **Figure 2**
+[![](f/project/v/venus_flagship_mission/vfm_08_thumb.webp)](f/project/v/venus_flagship_mission/vfm_08.webp)<br> **Figure 2**
 
 <br>
 
-[![](f/project/v/venus_flagship_mission/vfm_09_thumb.webp)](f/project/v/venus_flagship_mission/vfm_09.jpg)<br> **Figure 3**
+[![](f/project/v/venus_flagship_mission/vfm_09_thumb.webp)](f/project/v/venus_flagship_mission/vfm_09.webp)<br> **Figure 3**
 
 
 
@@ -256,7 +256,7 @@ Further details on the timeline are provided in Figure 3.
    - Functions: Relay telecom support ([EVN‑092](venus.md)) for in situ elements (30 days); 6 months of aerobraking to science orbit; Science orbiter (2 years baseline & 2 years extended)
    - Science data return: ~300 Tbits of data to Earth over 2 years of science ops. *(~52.6 ㎇/day, or 2.5 ㎆/s during a 6 h transmit session)*
 
-![](f/project/v/venus_flagship_mission/vfm_03.png)
+![](f/project/v/venus_flagship_mission/vfm_03.webp)
 
 
 
@@ -271,7 +271,7 @@ Further details on the timeline are provided in Figure 3.
    - Comms: 2.5 m dual‑feed X/S‑band HGA (Carrier‑to‑Earth to 34‑m DSN antennas; & Carrier‑to‑in situ); 2.5 m S‑band fixed HGA (Carrier‑to‑in situ);
    - Functions: Entry system delivery & deployment; & backup relay telecom ([EVN‑092](venus.md))
 
-[![](f/project/v/venus_flagship_mission/vfm_10_thumb.webp)](f/project/v/venus_flagship_mission/vfm_10.jpg)
+[![](f/project/v/venus_flagship_mission/vfm_10_thumb.webp)](f/project/v/venus_flagship_mission/vfm_10.webp)
 
 
 
@@ -285,7 +285,7 @@ Further details on the timeline are provided in Figure 3.
    - Spin stabilized after release from carrier
    - Functions: Deliver the in situ elements safely through the atmosphere
 
-[![](f/project/v/venus_flagship_mission/vfm_11_thumb.webp)](f/project/v/venus_flagship_mission/vfm_11.jpg)
+[![](f/project/v/venus_flagship_mission/vfm_11_thumb.webp)](f/project/v/venus_flagship_mission/vfm_11.webp)
 
 
 
@@ -301,7 +301,7 @@ Further details on the timeline are provided in Figure 3.
    - Comms: S‑band to Orbiter (backup to carrier fly‑by SC); (+ short carrier signal to Earth for Doppler & VLBI data)
    - Functions: 30 days science operation at 55.5 ㎞ float altitude ([EVN‑084](venus.md))
 
-![](f/project/v/venus_flagship_mission/vfm_12.jpg)
+![](f/project/v/venus_flagship_mission/vfm_12.webp)
 
 
 
@@ -317,7 +317,7 @@ Further details on the timeline are provided in Figure 3.
    - Comms: S‑band LGA to Orbiter with Electra (backup to fly‑by s/c)
    - Functions: Descent science for ~1 hour; Surface science for 5 hours
 
-![](f/project/v/venus_flagship_mission/vfm_13.jpg)
+![](f/project/v/venus_flagship_mission/vfm_13.webp)
 
 
 
@@ -347,7 +347,7 @@ The next series of landers, Venera missions 11, 12, 13, 14, (all launched in 197
 
 The last Soviet mission to the surface of Venus, Vega, launched in 1984 with two identical spacecraft containing a lander & a balloon. This mission combined a Venus swingby & a Comet Halley fly‑by (thus the name Venera‑Gallei, or Vega). Two identical spacecraft, Vega 1 & Vega 2, were launched December 15 & 21, 1984, respectively. After carrying Venus entry probes to the vicinity of Venus, the two spacecraft were retargeted using Venus gravity field assistance to intercept Comet Halley in March 1986. The Vega architecture was similar to Venera 14, but it included new instruments focused on measuring the composition & size distribution of cloud particles, as well as on the direct detection of sulfuric acid. Each of the two Vega entry systems carried a Venera‑like lander & a 3.4 m diameter superpressure balloon. The balloons were designed to deploy & float high in the atmospheric clouds (~53 ㎞) where the temperature was near that of Earth. The balloons traversed ~12 000 ㎞ & stopped transmitting after approximately 48 hrs of operation, after exhausting their batteries.
 
-![](f/project/v/venus_flagship_mission/vfm_14.jpg) ![](f/project/v/venus_flagship_mission/vfm_15.jpg) ![](f/project/v/venus_flagship_mission/vfm_16.jpg) ![](f/project/v/venus_flagship_mission/vfm_17.jpg) ![](f/project/v/venus_flagship_mission/vfm_18.jpg)
+![](f/project/v/venus_flagship_mission/vfm_14.webp) ![](f/project/v/venus_flagship_mission/vfm_15.webp) ![](f/project/v/venus_flagship_mission/vfm_16.webp) ![](f/project/v/venus_flagship_mission/vfm_17.webp) ![](f/project/v/venus_flagship_mission/vfm_18.webp)
 
 
 
@@ -360,7 +360,7 @@ American probe Mariner 5 was originally built as a backup for Mariner 4 to M
 
 As a consequence, in 1968, Soviet & American scientists met in Tucson, Arizona, to discuss & compare results from both the Venera series & Mariner. This meeting led to a new estimate of 427 ℃ for the surface temperature & an estimate of 75 ㍴s for the pressure, levels that exceeded the design limits of the Venera 4, 5, & 6 spacecraft family.
 
-![](f/project/v/venus_flagship_mission/vfm_19.jpg)
+![](f/project/v/venus_flagship_mission/vfm_19.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -370,7 +370,7 @@ Mariner 10 was launched in 1973, & it was the seventh successful launch in the
 
 For further details, see:   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1967-060A> (for Mariner 5), &   <http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?:id=1973-085A> (for Mariner 10)
 
-![](f/project/v/venus_flagship_mission/vfm_20.jpg)
+![](f/project/v/venus_flagship_mission/vfm_20.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -382,7 +382,7 @@ Details on the Galileo mission can be found at <http://www2.jpl.nasa.gov/galileo
 
 During the 1990 Venus fly‑by of the Galileo spacecraft, the Near‑Infrared Mapping Spectrometer investigated the night‑side atmosphere of Venus in the spectral range 0.7 to 5.2 micrometers. Multispectral images at high spatial resolution indicated substantial cloud opacity variations in the lower cloud levels, centered at 50 ㎞ altitude. Zonal & meridional winds were derived for this level & are consistent with motion of the upper branch of a Hadley cell. Northern & southern hemisphere clouds appear to be markedly different. Spectral profiles were used to derive lower atmosphere abundances of water vapor & other species. (Ref: Carlson et al., «Galileo Infrared Imaging Spectroscopy Measurements at Venus», Science 27 September 1991: Vol. 253. no. 5027, pp. 1541 ‑ 1548, DOI: 10.1126/science.253.5027.1541)
 
-![](f/project/v/venus_flagship_mission/vfm_21.jpg)
+![](f/project/v/venus_flagship_mission/vfm_21.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -394,7 +394,7 @@ MESSENGER made two Venus fly‑bys. Its first fly‑by of Venus on October 24,
 
 Details on the mission can be found at: <http://messenger.jhuapl.edu/index.php>
 
-![](f/project/v/venus_flagship_mission/vfm_22.jpg)
+![](f/project/v/venus_flagship_mission/vfm_22.webp)
 
 
 
@@ -405,7 +405,7 @@ The NASA program of in situ Venus exploration has to date launched only one miss
 
 Details about the Pioneer‑Venus mission elements & technologies are provided in the report titled [Extreme Environments Technologiesfor Future Space Science Missions ❐](f/project/v/venus_flagship_mission/vfm_doc002.pdf).
 
-![](f/project/v/venus_flagship_mission/vfm_23.jpg)
+![](f/project/v/venus_flagship_mission/vfm_23.webp)
 
 
 
@@ -416,7 +416,7 @@ The Venus Climate Orbiter mission (PLANET‑C), one of the future planetary miss
 
 Further information on the mission can be found at: <http://www.stp.isas.jaxa.jp/venus/top_english.html>
 
-![](f/project/v/venus_flagship_mission/vfm_24.jpg)
+![](f/project/v/venus_flagship_mission/vfm_24.webp)
 
 
 
@@ -427,7 +427,7 @@ Venus Express is a follow on from the Mars Express mission. Many of the instrume
 
 Details on the mission can be found at:  <http://www.esa.int/esaMI/Venus_Express/index.html>
 
-![](f/project/v/venus_flagship_mission/vfm_25.jpg)
+![](f/project/v/venus_flagship_mission/vfm_25.webp)
 
 
 
@@ -438,7 +438,7 @@ The Magellan spacecraft was launched on May 4, 1989, & arrived at Venus on Aug
 
 Further details on the mission can be found at: <http://www2.jpl.nasa.gov/magellan/>
 
-![](f/project/v/venus_flagship_mission/vfm_26.jpg)  [![](f/project/v/venus_flagship_mission/vfm_27_thumb.webp)](f/project/v/venus_flagship_mission/vfm_27.jpg)
+![](f/project/v/venus_flagship_mission/vfm_26.webp)  [![](f/project/v/venus_flagship_mission/vfm_27_thumb.webp)](f/project/v/venus_flagship_mission/vfm_27.webp)
 
 
 
@@ -577,12 +577,12 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 |*Photo*|*Bio*| |*Photo*|*Bio*|
 |:--|:--|:--|:--|:--|
-|![](f/project/v/venus_flagship_mission/person_balint.jpg)|**[Tibor S. Balint](person.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_bullock.jpg)|**[Mark A. Bullock](person.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu>|
-|![](f/project/v/venus_flagship_mission/person_cutts.jpg)|**[James A. Cutts](person.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_grinspoon.jpg)|**[David H. Grinspoon](person.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org>|
-|![](f/project/v/venus_flagship_mission/person_hall.jpg)|**[Jeffery L. Hall](person.md)**<br> Study Lead Phase 2,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Jeffery.L.Hall@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_head.jpg)|**[Jim W. Head](person.md)**<br> Venus Flagship Mission Science & Technology Definition Team,<br> Brown University,<br> E‑mail:<br> <james_head@brown.edu>|
-|![](f/project/v/venus_flagship_mission/person_kerzhanovich.jpg)|**[Viktor Kerzhanovich](person.md)**<br> Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Viktor.V.Kerzhanovich@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_kolawa.jpg)|**[Elizabeth Kolawa](person.md)**<br> Lead, Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <elizabeth.a.kolawa@jpl.nasa.gov>|
-|![](f/project/v/venus_flagship_mission/person_kwok.jpg)|**[Johnny Kwok](person.md)**<br> Phase 1 Study Lead,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Johnny.H.Kwok@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_peterson.jpg)|**[Craig Peterson](person.md)**<br> JPL Venus Flagship Mission Architecture Study Team,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Craig.E.Peterson@jpl.nasa.gov>|
-|![](f/project/v/venus_flagship_mission/person_senske.jpg)|**[David Senske](person.md)**<br> Venus Science & Technology Definition Team (STDT) Vice‑Chair,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <David.A.Senske@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_stofan.jpg)|**[Ellen Stofan](person.md)**<br> Former Chair, Venus Exploration Analysis Group (VEXAG),<br> E‑mail:<br> <estofan@starpower.net>|
+|![](f/project/v/venus_flagship_mission/person_balint.webp)|**[Tibor S. Balint](person.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_bullock.webp)|**[Mark A. Bullock](person.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu>|
+|![](f/project/v/venus_flagship_mission/person_cutts.webp)|**[James A. Cutts](person.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_grinspoon.webp)|**[David H. Grinspoon](person.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org>|
+|![](f/project/v/venus_flagship_mission/person_hall.webp)|**[Jeffery L. Hall](person.md)**<br> Study Lead Phase 2,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Jeffery.L.Hall@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_head.webp)|**[Jim W. Head](person.md)**<br> Venus Flagship Mission Science & Technology Definition Team,<br> Brown University,<br> E‑mail:<br> <james_head@brown.edu>|
+|![](f/project/v/venus_flagship_mission/person_kerzhanovich.webp)|**[Viktor Kerzhanovich](person.md)**<br> Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Viktor.V.Kerzhanovich@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_kolawa.webp)|**[Elizabeth Kolawa](person.md)**<br> Lead, Technology Sub‑Group of the STDT,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <elizabeth.a.kolawa@jpl.nasa.gov>|
+|![](f/project/v/venus_flagship_mission/person_kwok.webp)|**[Johnny Kwok](person.md)**<br> Phase 1 Study Lead,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Johnny.H.Kwok@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_peterson.webp)|**[Craig Peterson](person.md)**<br> JPL Venus Flagship Mission Architecture Study Team,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Craig.E.Peterson@jpl.nasa.gov>|
+|![](f/project/v/venus_flagship_mission/person_senske.webp)|**[David Senske](person.md)**<br> Venus Science & Technology Definition Team (STDT) Vice‑Chair,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <David.A.Senske@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_stofan.webp)|**[Ellen Stofan](person.md)**<br> Former Chair, Venus Exploration Analysis Group (VEXAG),<br> E‑mail:<br> <estofan@starpower.net>|
 
 
 

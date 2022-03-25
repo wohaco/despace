@@ -1,7 +1,7 @@
 # ГЕОХИ РАН
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/g/geokhi_ran_logo1_thumb.webp)](../f/contact/g/geokhi_ran_logo1.png)|<director@geokhi.ru>, +7(499)137-14-84, Fax: +7(495)938-20-54;<br> *Россия, 119991, ГСП‑1, Москва В‑334, ул. Косыгина, д. 19*<br> 【<http://www.geokhi.ru/>・ <http://www.geokhi.ru/Lab41/Домашняя.aspx>・ <http://www.lmms.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Институт_геохимии_и_аналитической_химии_имени_В._И._Вернадского_РАН)】|
+|[![](../f/contact/g/geokhi_ran_logo1_thumb.webp)](../f/contact/g/geokhi_ran_logo1.webp)|<director@geokhi.ru>, +7(499)137-14-84, Fax: +7(495)938-20-54;<br> *Россия, 119991, ГСП‑1, Москва В‑334, ул. Косыгина, д. 19*<br> 【<http://www.geokhi.ru/>・ <http://www.geokhi.ru/Lab41/Домашняя.aspx>・ <http://www.lmms.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Институт_геохимии_и_аналитической_химии_имени_В._И._Вернадского_РАН)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

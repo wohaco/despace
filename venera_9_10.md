@@ -10,7 +10,7 @@
 
 **Venera 9** and **Venera 10** were Soviet unmanned space mission parts to Venus.
 
-[![](f/project/v/venera_9_10/pic01_thumb.webp)](f/project/v/venera_9_10/pic01.jpg) [![](f/project/v/venera_9_10/pic05_thumb.webp)](f/project/v/venera_9_10/pic05.jpg)
+[![](f/project/v/venera_9_10/pic01_thumb.webp)](f/project/v/venera_9_10/pic01.webp) [![](f/project/v/venera_9_10/pic05_thumb.webp)](f/project/v/venera_9_10/pic05.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -86,7 +86,7 @@ Achieved targets & investigations:
 
 They consisted of an orbiter and a lander.
 
-![](f/project/v/venera_9_10/pic06.jpg)
+![](f/project/v/venera_9_10/pic06.webp)
 
 **Orbiter**
 
@@ -111,7 +111,7 @@ The spacecraft with the lander was first guided to the point of entry into the a
 
 **Venera 9**
 
-![](f/project/v/venera_9_10/pic07.jpg)
+![](f/project/v/venera_9_10/pic07.webp)
 
 On October 20, 1975, the lander spacecraft separated from the orbiter, and landing was made with the Sun near zenith at 05:13 UTC on October 22.
 
@@ -125,7 +125,7 @@ Venera 9 measured clouds that were 30 – 40 ㎞ thick with bases at 30 – 
 
 **Venera 10**
 
-![](f/project/v/venera_9_10/pic09.jpg)
+![](f/project/v/venera_9_10/pic09.webp)
 
 On October 23, 1975, this spacecraft was separated from the Orbiter, and landing was made with the sun near zenith, at 05:17 UT, on October 25.
 
@@ -140,7 +140,7 @@ Venera 10 measured a surface windspeed of 3.5 ㎧. Other measurements includ
 ## Science goals & payload
 The main scientific task of the lander was to obtain a panoramic image from the surface of Venus, and it was necessary to achieve it as quickly as possible to maximize the time of work in situ. On the other hand, it was considered equally important to continue studying the cloud layer. The clouds had to be passed at low speed. This determined the minimum operating time of the lander on the surface, as well as the speed of data transmission through the satellite ([EVN‑092](venus.md)). Along with this, the new capabilities and the large mass of the lander allowed it to be equipped with a number of instruments for the study of the atmosphere at the surface, which until then had never been launched into space. These included instruments (nephelometers) for measuring the vertical structure ([EVN‑010](venus.md)), microphysical properties and composition of aerosols inside and under clouds ([EVN‑018](venus.md)), the vertical and spectral distribution of the flow of sunlight penetrating the clouds at several angles of view ([EVN‑013](venus.md)), analysis of the chemical and isotopic composition of the atmosphere ([EVN‑014](venus.md)) and direct measurements of wind at the surface. For the first studies in orbit of the Venus satellite, the space station was equipped with instruments to study the structure of the middle and upper atmosphere ([EVN‑017](venus.md)), the upper layer of clouds, the thermal radiation of the planet and its plasma environment ([EVN‑097](venus.md)).
 
-![](f/project/v/venera_9_10/pic08.png)
+![](f/project/v/venera_9_10/pic08.webp)
 
 **ORBITER**
 
@@ -244,7 +244,7 @@ On both sides of the cylinder there were solar panels measuring 1.25 x 2.1�
 
 Information about the operation of the reentry system and data from the lander were transmitted to Earth via the Orbiter repeater in real time.
 
-[![](f/project/v/venera_9_10/pic02_thumb.webp)](f/project/v/venera_9_10/pic02.jpg)
+[![](f/project/v/venera_9_10/pic02_thumb.webp)](f/project/v/venera_9_10/pic02.webp)
 
 **Lander**
 
@@ -254,9 +254,9 @@ The lander was 2 m high, was equipped with batteries of greater (than 3MV) cap
 
 The lander was a sealed double-walled titanium pressure vessel of spherical shape with a diameter of 80 ㎝ and total mass of 660 ㎏, which contained most of the instruments and electronics. It was attached to the landing ring shock absorber by a system of dampers. On top was a disc‑shaped aerodynamic shield with a diameter of 2.1 m, designed to reduce the rate of descent and stabilize the apparatus during its free fall in the lower atmosphere. This shield worked the same way as the reflector of the omnidirectional antenna rolled into a cylinder and located on it. Inside the cylinder with a diameter of 80 ㎝ and a height of 40 ㎝ were parachutes and scientific instruments to work during the descent. The sphere consisted of several sections welded together by a seam of gold wire. It was covered with a 12 ㎝ layer of porous thermal insulation material in the form of honeycomb, and on top of it was closed with a thin titanium shell. Inside, the sphere was also lined with heat-insulating polyurethane foam. In addition to effective thermal insulation, when approaching the planet, the lander was pre‑cooled to a temperature of –10 ℃. The heat of the atmosphere, penetrating through the layers of insulation, was absorbed by thermal batteries based on lithium nitrate trihydrate. This salt was melted at a temperature of 33 ℃, and the gas circulation system distributed heat evenly throughout the volume, maintaining this temperature inside the apparatus until the salt stock was completely melted.
 
-[![](f/project/v/venera_9_10/pic03_thumb.webp)](f/project/v/venera_9_10/pic03.jpg)
+[![](f/project/v/venera_9_10/pic03_thumb.webp)](f/project/v/venera_9_10/pic03.webp)
 
-[![](f/project/v/venera_9_10/pic04_thumb.webp)](f/project/v/venera_9_10/pic04.jpg)
+[![](f/project/v/venera_9_10/pic04_thumb.webp)](f/project/v/venera_9_10/pic04.webp)
 
 
 

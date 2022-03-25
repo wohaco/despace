@@ -1,7 +1,7 @@
 # SDNx
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/sdnx_logo1_thumb.webp)](../f/contact/s/sdnx_logo1.png)|<info@spacedevelopmentnexus.com>, <sdnxseed@gmail.com>, +91-7755862698, Fax: …;<br> *D1/B-31, Palam Kunj, Ramphal Chowk, Sector 7, Dwarka, New Delhi, Delhi 110075, India*<br> 【<http://www.spacedevelopmentnexus.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/space-development-nexus/)】|
+|[![](../f/contact/s/sdnx_logo1_thumb.webp)](../f/contact/s/sdnx_logo1.webp)|<info@spacedevelopmentnexus.com>, <sdnxseed@gmail.com>, +91-7755862698, Fax: …;<br> *D1/B-31, Palam Kunj, Ramphal Chowk, Sector 7, Dwarka, New Delhi, Delhi 110075, India*<br> 【<http://www.spacedevelopmentnexus.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/space-development-nexus/)】|
 |:--|:--|
 |**Mission**|We want students to develop the interest into future technologies and to put them into practical use to solve problems or invent useful tools. We engage students as the part of our initiative in various ways in the form of student ambassadors, volunteers and project team members to help them enhance their skill set to create a better tomorrow.|
 |**Vision**|To bring radical changes to humanity by creating future transforming technologies such as Mining the space resources, building a space habitat to house 1 million families in the space permanently and Educating the youth of tomorrow with the benefits of space exploration and development of technologies in our own country.|

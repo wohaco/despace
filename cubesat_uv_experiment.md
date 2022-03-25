@@ -11,7 +11,7 @@
 
 The mission concept is still in its early formulation stage, started in 2017. The Principal Investigator is [Valeria Cottini](person.md), at the University of Maryland in College Park.
 
-[![](f/project/c/cuve/pic01_thumb.webp)](f/project/c/cuve/pic01.jpg)
+[![](f/project/c/cuve/pic01_thumb.webp)](f/project/c/cuve/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

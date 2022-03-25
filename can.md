@@ -22,7 +22,7 @@ Bosch published several versions of the CAN specification & the latest is CAN 2.
 |Physical Media|two wire|
 |Voltage Levels|0 ‑ 5 V, both wires must be able to handle −27 ‑ +40 V without damage|
 
-[![](f/cable/de_9_1_thumb.webp)](f/cable/d3_9_1.jpg)  
+[![](f/cable/de_9_1_thumb.webp)](f/cable/d3_9_1.webp)  
 *DE‑9 is commonly used*
 
 **Physical organization.**  

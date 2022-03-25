@@ -11,7 +11,7 @@ The **Magellan** spacecraft, also referred to as the ***Venus Radar Mapper***, w
 
 The Magellan probe was the first interplanetary mission to be launched from the Space Shuttle, the 1st one to use the Inertial Upper Stage booster for launching, and the 1st SC to test aerobraking as a method for circularizing its orbit. Magellan was the fifth successful NASA mission to Venus.
 
-![](f/project/m/magellan/magellan.png)
+![](f/project/m/magellan/magellan.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -96,7 +96,7 @@ During each orbit, the space probe captured radar data while the spacecraft was 
 
 The spacecraft began returning high‑quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake‑shaped domes ([EVN‑025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 ㎞ to 290 ㎞ near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/px ([EVN‑022](venus.md)). The spacecraft returned 1 200 Gb of data.
 
-|![](f/project/m/magellan/venus1.jpg)|
+|![](f/project/m/magellan/venus1.webp)|
 |:--|
 |***Mosaic of the «left-looking» data collected during cycle 1***|
 
@@ -109,7 +109,7 @@ The spacecraft began returning high‑quality radar images of the Venusian terra
 
 Beginning immediately after the end of cycle 1, cycle 2 was intended to provide data for the existing gaps in the map collected during first cycle, including a large portion of the southern hemisphere. To do this, Magellan had to be reoriented, changing the gathering method to «right-looking». Upon completion during cycle 2 provided data for 54.5 % of the surface, and combined with the previous cycle, a map containing 96 % of the surface could be constructed ([EVN‑022](venus.md)).
 
-|![](f/project/m/magellan/venus2.jpg)|
+|![](f/project/m/magellan/venus2.webp)|
 |:--|
 |***Mosaic of the «right-looking» data collected during cycle 2***|
 
@@ -120,12 +120,12 @@ Beginning immediately after the end of cycle 1, cycle 2 was intended to provide 
 
 Immediately after cycle 2, cycle 3 began collecting data for stereo imagery on the surface that would later allow the ground team to construct, clear, three-dimensional renderings of the surface ([EVN‑021](venus.md)). Approximately 21.3 % of the surface was imaged in stereo by the end of the cycle 3, increasing the overall coverage of the surface to 98 % ([EVN‑022](venus.md)).
 
-|![](f/project/m/magellan/venus3.jpg)|
+|![](f/project/m/magellan/venus3.webp)|
 |:--|
 |***Map of the stereo imaging collected by Magellan during cycle 3***|
 <br>
 
-|![](f/project/m/magellan/venus4.jpg)|
+|![](f/project/m/magellan/venus4.webp)|
 |:--|
 |***Sedna Plain. The three dimensional picture is based on data from the Magellan spacecraft***|
 
@@ -201,7 +201,7 @@ Radar System (RDRS)
 
 |*Instrument*|*Description*|
 |:--|:--|
-|![](f/project/m/magellan/rls.png)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> ・In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 ㎝ microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> ・In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> ・In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
+|![](f/project/m/magellan/rls.webp)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> ・In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 ㎝ microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> ・In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> ・In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
 
 In addition to the radar data, Magellan collected several other types of scientific measurements. These included detailed measurements of the Venus gravitational field ([EVN‑089](venus.md)), measurements of the atmospheric density, and radio occultation data on the atmospheric profile.
 

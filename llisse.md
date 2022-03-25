@@ -90,7 +90,7 @@ As a power supply, 2 options are offered: a primary battery designed for a worki
 
 |*Battery Version*|*Wind Powered Version*|
 |:--|:--|
-|![battery_version](f/project/l/llisse/llisse1.jpg)|![wind_powered_version](f/project/l/llisse/llisse.jpg)|
+|![battery_version](f/project/l/llisse/llisse1.webp)|![wind_powered_version](f/project/l/llisse/llisse.webp)|
 |Resource 3 000 hours|Resource is not defined|
 
 </small>

@@ -34,7 +34,7 @@
          - **Ia** — яркие сверхгиганты
          - **0**, **Ia-0** или **Ia+** — ярчайшие сверхгиганты или гипергиганты
 
-![](f/aob/meteor_color.jpg)
+![](f/aob/meteor_color.webp)
 
 
 ## Average environments & conditions

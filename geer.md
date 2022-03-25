@@ -19,7 +19,7 @@ Science, technology and/or mission applications:
 
 |*GEER*|*GEER*|*GEER*|*miniGEER*|
 |:--|:--|:--|:--|
-|[![](f/tests/geer_pic01_thumb.webp)](f/tests/geer_pic01.jpg)|[![](f/tests/geer_pic02_thumb.webp)](f/tests/geer_pic02.jpg)|[![](f/tests/geer_pic03_thumb.webp)](f/tests/geer_pic03.jpg)|[![](f/tests/geer_pic04_thumb.webp)](f/tests/geer_pic04.jpg)|
+|[![](f/tests/geer_pic01_thumb.webp)](f/tests/geer_pic01.webp)|[![](f/tests/geer_pic02_thumb.webp)](f/tests/geer_pic02.webp)|[![](f/tests/geer_pic03_thumb.webp)](f/tests/geer_pic03.webp)|[![](f/tests/geer_pic04_thumb.webp)](f/tests/geer_pic04.webp)|
 
 
 

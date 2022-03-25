@@ -37,7 +37,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|120, круг|
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/c/css_sm_pic1_thumb.webp)](f/sensor/c/css_sm_pic1.jpg)|
+| |[![](f/sensor/c/css_sm_pic1_thumb.webp)](f/sensor/c/css_sm_pic1.webp)|
 
 **Notes:**
 
@@ -74,8 +74,8 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|48, круг|120, круг|
 |Ready mode| | |
 |Refresh rate, ㎐| | |
-| |[![](f/sensor/m/mss_sm_pic2_thumb.webp)](f/sensor/m/mss_sm_pic2.jpg)|[![](f/sensor/m/mss_sm_pic3_thumb.webp)](f/sensor/m/mss_sm_pic3.jpg)|
-| |[![](f/sensor/m/mss_sm_pic1_thumb.webp)](f/sensor/m/mss_sm_pic1.jpg)| |
+| |[![](f/sensor/m/mss_sm_pic2_thumb.webp)](f/sensor/m/mss_sm_pic2.webp)|[![](f/sensor/m/mss_sm_pic3_thumb.webp)](f/sensor/m/mss_sm_pic3.webp)|
+| |[![](f/sensor/m/mss_sm_pic1_thumb.webp)](f/sensor/m/mss_sm_pic1.webp)| |
 
 **Notes:**
 
@@ -115,7 +115,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|0 ‑ (91+2)° по углу α и 0 ‑ 360° по углу φ|
 |Ready mode|через 10 s после подачи питания|
 |Refresh rate, ㎐|5|
-| |[![](f/sensor/347k_thumb.webp)](f/sensor/347k.jpg)|
+| |[![](f/sensor/347k_thumb.webp)](f/sensor/347k.webp)|
 
 **Notes:**
 
@@ -152,7 +152,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|160 × 160|180 × 180|
 |Ready mode| | |
 |Refresh rate, ㎐| | |
-| |[![](f/sensor/c/coss_pic1_thumb.webp)](f/sensor/c/coss_pic1.png)|[![](f/sensor/c/coss-r_pic1_thumb.webp)](f/sensor/c/coss-r_pic1.png)|
+| |[![](f/sensor/c/coss_pic1_thumb.webp)](f/sensor/c/coss_pic1.webp)|[![](f/sensor/c/coss-r_pic1_thumb.webp)](f/sensor/c/coss-r_pic1.webp)|
 
 **Notes:**
 
@@ -191,7 +191,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|± 90° × ± 90°, линейная зона ± 12° × ±12°|
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/c/css_pic1_thumb.webp)](f/sensor/c/css_pic1.jpg)|
+| |[![](f/sensor/c/css_pic1_thumb.webp)](f/sensor/c/css_pic1.webp)|
 
 **Notes:**
 
@@ -228,7 +228,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|128 × 128|128 × 128|
 |Ready mode| | |
 |Refresh rate, ㎐| | |
-|[![](f/sensor/f/fss_fss_mini_pic1_thumb.webp)](f/sensor/f/fss_fss_mini_pic1.jpg)|[![](f/sensor/f/fss_pic1_thumb.webp)](f/sensor/f/fss_pic1.jpg)|[![](f/sensor/f/fss_mini_pic1_thumb.webp)](f/sensor/f/fss_mini_pic1.jpg)|
+|[![](f/sensor/f/fss_fss_mini_pic1_thumb.webp)](f/sensor/f/fss_fss_mini_pic1.webp)|[![](f/sensor/f/fss_pic1_thumb.webp)](f/sensor/f/fss_pic1.webp)|[![](f/sensor/f/fss_mini_pic1_thumb.webp)](f/sensor/f/fss_mini_pic1.webp)|
 
 **Notes:**
 
@@ -264,7 +264,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥| |
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/f/fss_jo_pic1_thumb.webp)](f/sensor/f/fss_jo_pic1.jpg)|
+| |[![](f/sensor/f/fss_jo_pic1_thumb.webp)](f/sensor/f/fss_jo_pic1.webp)|
 
 **Notes:**
 
@@ -305,7 +305,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|± 60º в плоскости XOZ, ± 31º в плоскости YOZ|
 |Ready mode|60 с после подачи питания|
 |Refresh rate, ㎐|4|
-| |[![](f/sensor/o/osd_pic1_thumb.webp)](f/sensor/o/osd_pic1.jpg)|
+| |[![](f/sensor/o/osd_pic1_thumb.webp)](f/sensor/o/osd_pic1.webp)|
 
 **Notes:**
 
@@ -342,7 +342,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|185° × 5°|
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/s/sdp-1_pic1_thumb.webp)](f/sensor/s/sdp-1_pic1.png)|
+| |[![](f/sensor/s/sdp-1_pic1_thumb.webp)](f/sensor/s/sdp-1_pic1.webp)|
 
 **Notes:**
 
@@ -376,11 +376,11 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|60±1°|
 |Ready mode| |
 |Refresh rate, ㎐| |
-| |[![](f/sensor/s/sx-sunr-01_pic1_thumb.webp)](f/sensor/s/sx-sunr-01_pic1.png)|
+| |[![](f/sensor/s/sx-sunr-01_pic1_thumb.webp)](f/sensor/s/sx-sunr-01_pic1.webp)|
 
 **Notes:**
 
-   1. [3D‑модель ❐](f/sensor/s/sx-sunr-01_3d_step.7z)・ [Чертёж ❐](f/sensor/s/sx-sunr-01_sketch1.png)・ [ТО и руководство пользователя ❐](f/sensor/s/sx-sunr-01_datasheet_manual.djvu)
+   1. [3D‑модель ❐](f/sensor/s/sx-sunr-01_3d_step.7z)・ [Чертёж ❐](f/sensor/s/sx-sunr-01_sketch1.webp)・ [ТО и руководство пользователя ❐](f/sensor/s/sx-sunr-01_datasheet_manual.djvu)
    1. **Applicability:** …
 
 
@@ -413,7 +413,7 @@ A list of [Sun sensor](sensor.md).
 |Range °, ≥|60° × 60°|
 |Ready mode| |
 |Refresh rate, ㎐|8|
-| |[![](f/sensor/t/tds_pic1_thumb.webp)](f/sensor/t/tds_pic1.png)|
+| |[![](f/sensor/t/tds_pic1_thumb.webp)](f/sensor/t/tds_pic1.webp)|
 
 **Notes:**
 

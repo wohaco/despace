@@ -132,7 +132,7 @@
 |**・ Not space ・**|•|•|•|•|•|Avant Aerospace・ CAE|
 |**・ Org. lists ・**|•|•|•|•|•|[spaceq.ca ⎆](http://www.spaceq.ca/canadian-space-companies/)・ [aiac.ca ⎆](https://aiac.ca/product-categories/space-systems/#sat-systems-components)・ [thecanadianencyclopedia.ca ⎆](https://www.thecanadianencyclopedia.ca/en/article/aerospace-industry)|
 
-[![](f/contact/map/canada_political_ru_thumb.webp)](f/contact/map/canada_political_ru.png)
+[![](f/contact/map/canada_political_ru_thumb.webp)](f/contact/map/canada_political_ru.webp)
 
 
 
@@ -159,14 +159,10 @@
 
 |*［Organization (EU)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
 |:--|:--|:--|:--|:--|:--|:--|
-|【[CNES](contact/cnes.md)   (FR)】|·|·|·|·|·|Французское космическое агентство|
-|【[DLR](contact/dlr.md)   (GR)】|·|·|·|·|·|Германское космическое агентство|
 |【[ESA](contact/esa.md)   (EU)】|·|·|·|·|·|Исследование космоса. [Роскосмос](contact/roskosmos.md) и  ГНИО в одном лице|
 |【[ESTEC](contact/estec.md)   (NL)】|·|·|·|·|·|Разработка и создание космических технологий и КА|
-|【[SSO](contact/sso.md)   (CH)】|·|·|·|·|·|Swiss Space Office, national space program of Switzerland|
-|【[UKSA](contact/uksa.md)   (UK)】|E|L|P|R|·|UK Space Agency|
 |[PTScientists](ptscientists.md)|·|·|·|·|·|…|
-|[Space Mining T.](contact/space_mintech.md)|·|·|·|·|·|Moon & asteroids mining|
+|[Space Mining Tech.](contact/space_mintech.md)|·|·|·|·|·|Moon & asteroids mining|
 |**【Austria (AT)】**| | | | | | |
 |[Moon Village As.](contact/moon_village_a.md)|N|·|·|·|·|Global info‑forum for gov. / industry / academia / etc. for dev. of the Moon Village|
 |[SGAC](contact/sgac.md)|·|·|·|·|·|Represent students & young space professionals to the United Nations|
@@ -183,6 +179,7 @@
 |[ReOrbit](contact/reorbit.md)|·|·|·|R|·|R&D for LEO / GEO sats|
 |**【France (FR)】**| | | | | | |
 |[Airbus](contact/airbus.md)|·|·|·|·|·|…|
+|[CNES](contact/cnes.md)|·|·|·|·|·|Французское космическое агентство|
 |[Euroconsult](contact/euroconsult.md)|·|·|·|C|·|Strategic, research, summits, training programs|
 |[Int. Space Univ.](contact/int_space_univ.md)|E|·|·|·|·|Space education for a changing world|
 |[IRAP](contact/irap.md)|·|·|·|·|·|Research Institute in Astrophysics & Planetology|
@@ -194,11 +191,12 @@
 |[Sodern](contact/sodern.md)|·|·|·|·|·|…|
 |[Sorbonne Univ.](sorbonne_univ.md)|·|·|·|·|·|…|
 |[Spartan Space](contact/spartan_space.md)|·|·|·|R|·|Space habitats|
-|[Tas‑I](contact/tas_i.md)|·|L|·|R|·|R&D of SC, launch services, comms, sat control, Earth observation services|
+|[Thales AS](contact/thales_as.md)|·|L|·|R|·|R&D of SC, launch services, comms, sat control, Earth observation services|
 |[UVSQ](uvsq.md)|·|·|·|·|·|…|
 |**【Germany (DE)】**| | | | | | |
 |[ASP Equipment](contact/asp_equip..md)|·|·|·|R|·|Power: DC/DC converters, IPU, PCDU, EPC, propulsion power|
 |[Disrupt Space](contact/disrupt_space.md)|N|·|P|·|·|Startup accelerator, entrepreneurship, & community|
+|[DLR](contact/dlr.md)|·|·|·|·|·|Германское космическое агентство|
 |[Karman Project](contact/karman_project.md)|N|·|P|·|·|Connecting people|
 |[Morpheus Space](contact/morpheus_space.md)|·|·|·|R|·|Electric propulsion & AI|
 |[OHB SE](contact/ohb_se.md)|·|·|·|·|·|Sats, exploration, human spaceflight|
@@ -209,6 +207,7 @@
 |[OPC LAM](contact/opc_lam.md)|·|·|·|·|·|Разработка и создание двигателей, ДУ|
 |**【Italy (IT)】**| | | | | | |
 |[ARCA Dynamics](contact/arca_dymanics.md)|·|·|·|·|·|Cubesats, GNC, space robotics, AI|
+|[D-Orbit](contact/d_orbit.md)|·|·|·|R|·|Moving, precise deployment and removing satellites|
 |[GAUSS Srl](contact/gauss_srl.md)|E|·|·|R|·|Cubesats, GS operations, space debris observation|
 |[IRSPS](contact/irsps.md)|·|·|·|·|·|…|
 |[Leonardo](leonardo.md)|·|·|·|·|·|…|
@@ -222,7 +221,7 @@
 |[Bradford Eng.](contact/bradford_eng.md)|·|·|·|·|·|СУ КА: ДМ, СД, смесители топлива|
 |[TU Delft](tu_delft.md)|·|·|·|·|·|…|
 |**【Norway (NO)】**| | | | | | |
-|[Nammo](nammo.md)|·|·|·|·|·|Двигатели|
+|[Nammo](nammo.md)|·|·|·|R|·|Engines|
 |**【Poland (PL)】**| | | | | | |
 |[EU Space Found.](contact/eu_space_foundation.md)|·|·|P|·|·|Promote knowledge in science, engineering, technology & mathematics|
 |[Waven](contact/waven.md)|·|·|·|R|·|Energy harvesting. Alternative to photovoltaics & RTG. Consumption reducing|
@@ -230,6 +229,7 @@
 |**【Portugal (PT)】**| | | | | | |
 |[IA](ia.md)   (PT)|·|·|·|·|·|Instituto de Astrofísica e Ciências do Espaço|
 |**【Slovakia (SK)】**| | | | | | |
+|[Slovak Space Office](contact/slovak_so.md)|·|·|·|P|·|Support space activities in Slovakia|
 |[UEF SAV](contact/uef_sav.md)|·|·|·|·|·|Ядерная, субатомная физика, физика космоса, биофизика|
 |**【Spain (ES)】**| | | | | | |
 |[Hisdesat](contact/hisdesat.md)|·|·|·|·|·|…|
@@ -245,11 +245,13 @@
 |[Astrocast](contact/astrocast.md)|·|·|·|·|·|Sat operator, constellation of nano‑sats on LEO, IoT comms|
 |[ClearSpace SA](contact/clearspace_sa.md)|·|·|·|R|·|Space debris removal: technologies & services|
 |[Space Exploration Inst.](contact/space_explor_inst.md)|N|·|·|·|·|Developing space exploration activities, instruments|
+|[SSO](contact/sso.md)|·|·|·|·|·|Swiss Space Office, national space program of Switzerland|
 |[UNIBE](contact/unibe.md)|·|·|·|·|·|…|
 |**【Un. Kingdom (UK)】**| | | | | | |
-|[Asteroid MC](contact/asteroid_mc.md)|·|·|·|R|·|Robotic & satellite platforms for asteroid mining|
+|[Asteroid Mining Corp.](contact/asteroid_mc.md)|·|·|·|R|·|Robotic & satellite platforms for asteroid mining|
 |[AvalonSpace](contact/avalonspace.md)|·|L|·|·|·|Green & cost‑effective UK launches|
 |[B2Space](contact/b2space.md)|·|·|·|·|·|Launch services (balloon & LV) for small‑micro sats|
+|[Clear Space](contact/clear_space.md)|·|·|·|R|·|In‑orbit servicing and space debris removal|
 |[Cobham](cobham.md)|·|·|·|·|·|СЧ КА, процессоры|
 |[Edinburgh Univ.](contact/edinburgh_univ.md)|·|·|·|·|·|University of Edinburgh|
 |[Effective Space](contact/effective_space.md)|·|·|·|·|·|Life‑extension & other in‑orbit services for sats|
@@ -262,6 +264,7 @@
 |[Space Talos](contact/space_talos.md)|·|·|·|R|·|Radiation shielding technologies, testing|
 |[Telespazio](contact/telespazio.md)|·|·|·|·|·|…|
 |[UCL](contact/ucl.md)|·|·|·|·|·|…|
+|[UKSA](contact/uksa.md)|E|L|P|R|·|UK Space Agency|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|[LSA SD ⎆](https://space-agency.public.lu/en/expertise/space-directory.html) ・ <https://tem.fi/en/space>|
 
@@ -411,7 +414,7 @@
 |[Space BD](contact/space_bd.md)   13|E|L|·|C|·|Space for business, sats launch, ISS experiments, education|
 |[SPACE COTAN](contact/space_cotan.md)   1|·|L|·|·|·|Sales & PR for Hokkaido Spaceport|
 |[Space Cubics](contact/spacecubics.md)   1|·|·|·|R|·|CPU, application software, FPGA, consult on space project management|
-|[Space Entertainment](contact/space_e11t.md)   13|E|·|P|·|·|Space entertainment activities|
+|[Space Entertain.](contact/space_e11t.md)   13|E|·|P|·|·|Space entertainment activities|
 |[Space Entert. Lab](contact/space_entlab.md)   13|·|·|·|R|·|UAV, drones, high altitude (stratosphere) balloons, monitoring|
 |[Space NTK](contact/space_ntk.md)   13|·|·|·|R|·|Space burial|
 |[Space One](contact/space_one_co.md)   13|·|L|·|R|·|Launch service that uses small rockets. Small LV & dedicated launch site|
@@ -419,11 +422,11 @@
 |[Space Shift Inc.](contact/space_shift.md)   13|·|·|·|R|·|Software for sat data processing, consulting (marketing, software)|
 |[Space Walker](contact/space_walker.md)   13|·|L|·|R|·|Suborbital spaceplane, space transport / tourism, small sats launch|
 |[Spacetide](contact/spacetide.md)   13|N|·|P|·|·|Promotes newspace businesses worldwide, annual conference|
+|[SRL (Tohoku)](contact/srl_tohoku.md)   4|E|·|·|R|·|R&D robotic space systems|
 |[STARS SS](contact/stars_ss.md)   22|·|·|·|R|·|Debris removal & recycling|
 |[Sumitomo PP](contact/sumitomo_pp.md)   28|·|·|·|R|·|Heat exchangers & control, semiconductor / MEMS equip., sensors|
 |[Synspective Inc.](contact/synspective.md)   13|·|·|·|R|·|Utilize / integrate data from SAR sat constel., big data, machine learning|
 |[Tamagawa Seiki](contact/tamagawa_seiki.md)   20|·|·|·|R|·|Servo components, motor controllers, robots, IMU, autom. control devices|
-|[Telexistence Inc.](contact/telexistence_inc.md)   13|·|·|·|R|·|Remotely controlled robots|
 |[Tenchijin](tenchijin.md)|·|·|·|R|·|Business solution using Earth observation data. Startup for big data|
 |[Terra Space](contact/terra_space.md)   26|·|·|·|R|·|CubeSats|
 |[Tokyo Univ.](contact/tokyo_univ.md)   13|E|·|·|R|·|Tokyo University|
@@ -432,11 +435,11 @@
 |[TUPLS](contact/tupls.md)   13|E|·|·|·|·|Tokyo University of Pharmacy & Life Sciences|
 |[Warpspace Inc.](contact/warpspace.md)   8|·|·|·|R|·|Comms infrastructure for LEO sats; cubesats modules|
 |[Yspace LLC](contact/yspace.md)   8|E|·|·|C|·|VR|
-|**・ Not space ・**|•|•|•|•|•|Avatarin・ Dynamic Map Platform・ [Euglena](contact/euglena.md)・ Global Positioning Augmentation Service・ Integriculture・ ONETABLE・ Panasonic Avionics Corp.・ Ridge-i・ Sakura Internet・ SIGNATE・ Space Bio-Laboratories|
+|**・ Not space ・**|•|•|•|•|•|Avatarin・ Dynamic Map Platform・ [Euglena](contact/euglena.md)・ Global Positioning Augmentation Service・ Integriculture・ ONETABLE・ Panasonic Avionics Corp.・ Ridge-i・ Sakura Internet・ SIGNATE・ Space Bio-Laboratories・ [Telexistence Inc.](contact/telexistence_inc.md)|
 |**・ Org. lists ・**|•|•|•|•|•|[aerospacebiz.jaxa.jp 1 ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/)・ [aerospacebiz.jaxa.jp 2 ⎆](https://aerospacebiz.jaxa.jp/en/partner/)・ [J-Startup ⎆](https://www.j-startup.go.jp/en/)・ [spacebizguide.com ⎆](https://www.spacebizguide.com/country-japan)・ [wikipedia ⎆](https://en.wikipedia.org/wiki/Japanese_space_program)|
 |<mark>TBD</mark>|•|•|•|•|•|Our stars (2021)・ soranemo (2019)・ Space Art and design (2018)|
 
-[![](f/contact/map/japan_political_thumb.png)](f/contact/map/japan_political.png)
+[![](f/contact/map/japan_political_thumb.webp)](f/contact/map/japan_political.webp)
 
 
 
@@ -600,7 +603,7 @@
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
-[![](f/contact/map/korea_south_political_thumb.png)](f/contact/map/korea_south_political.png)
+[![](f/contact/map/korea_south_political_thumb.webp)](f/contact/map/korea_south_political.webp)
 
 
 
@@ -709,7 +712,7 @@
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
-[![](f/contact/map/usa_political_thumb.webp)](f/contact/map/usa_political.png)
+[![](f/contact/map/usa_political_thumb.webp)](f/contact/map/usa_political.webp)
 
 
 

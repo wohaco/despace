@@ -32,7 +32,7 @@ Performance expectations (gain, efficiency, pattern characteristics, etc.) const
 
 |Acoustic anechoic chambers|Acoustic anechoic chambers, volume — 2 000 m³, useful volume — 1 000 m³. University of Applied Sciences Dresden, German|
 |:--|:--|
-|[![](f/tests/anechoic_chamber_thumb.webp)](f/tests/anechoic_chamber.jpg)|[![](f/tests/anechoic_chamber_schalltoter_raum_tu_dresden_thumb.webp)](f/tests/anechoic_chamber_schalltoter_raum_tu_dresden.jpg)|
+|[![](f/tests/anechoic_chamber_thumb.webp)](f/tests/anechoic_chamber.webp)|[![](f/tests/anechoic_chamber_schalltoter_raum_tu_dresden_thumb.webp)](f/tests/anechoic_chamber_schalltoter_raum_tu_dresden.webp)|
 
 
 

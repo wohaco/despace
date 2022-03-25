@@ -9,7 +9,7 @@
 
 **Akatsuki** (あかつき, 暁, «Dawn»), also known as the Venus **Climate Orbiter (VCO)** & **Planet-C** (next after [PLANET-B (Nozomi)](nozomi.md)) is a Japanese spacecraft tasked to study the [Venus](venus.md) atmosphere.
 
-[![](f/project/a/akatsuki/pic01_thumb.webp)](f/project/a/akatsuki/pic01.png) [![](f/project/a/akatsuki/pic04_thumb.webp)](f/project/a/akatsuki/pic04.png)
+[![](f/project/a/akatsuki/pic01_thumb.webp)](f/project/a/akatsuki/pic01.webp) [![](f/project/a/akatsuki/pic04_thumb.webp)](f/project/a/akatsuki/pic04.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -113,7 +113,7 @@ From October 2009 to January 2010, a public campaign was conducted by the [Plane
 
 Research on Venus began in the 1960s, when the United States & the Soviet Union began sending spacecraft to the planet. It was found that the surface is extremely hot, & there are no oceans, & that the atmosphere differs from the earth’s in density, composition, & rotation patterns. Venus was very different from Earth.
 
-![](f/project/a/akatsuki/pic02.jpg)  
+![](f/project/a/akatsuki/pic02.webp)  
 Images obtained from past missions, in various wavelength ranges. On the left — an image from the spacecraft [Pioneer-Venus-1](pioneer_venus_1.md) (NASA) from 1979 in the UV range. In the center & right are images from the solid‑state imaging system (SSI) & near‑infrared mapping spectrometer (NIMS) from the spacecraft [Galileo](galileo.md) (NASA) from 1990.
 
 This raises a great mystery of atmospheric motion. Venus rotates very slowly, but the upper atmosphere moves at speeds up to 100 ㎧, 60 times faster than the surface. Usually, if the upper part of the atmosphere moves faster than the lower, this causes friction, which eventually leads to the alignment of speeds throughout the height. However, on Venus, the atmosphere does not equalize the speed.
@@ -128,7 +128,7 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 <p style="page-break-after:always"> </p>
 
 ### Spacecraft
-[![](f/project/a/akatsuki/pic03_thumb.webp)](f/project/a/akatsuki/pic03.png)
+[![](f/project/a/akatsuki/pic03_thumb.webp)](f/project/a/akatsuki/pic03.webp)
 
 **Spacecraft** is a cube of 1.45 × 1.04 × 1.44 m.
 
@@ -217,9 +217,9 @@ The payload includes 6 instruments, including 5 cameras for exploring Venus in t
    - **ultra‑Stable Oscillator (USO)** — for an experiment in radio illumination. [PI](principal_investigator.md) — [Takeshi Imamura](person.md) (Tokyo Univ.).
    - **Ultraviolet imager (UVI)** — to study the distribution of certain atmospheric gases, such as sulfur dioxide & an unknown UV absorber (range 283 ‑ 365 nm). Camera with FOV of 12°. Sensor with a CCD sensor with a resolution of 1024 × 1024 pixels. [PI](principal_investigator.md) — [Shigeto Watanabe](person.md) (Hokkaido Information Univ.).
 
-![](f/project/a/akatsuki/payload01.png)
+![](f/project/a/akatsuki/payload01.webp)
 
-[![](f/project/a/akatsuki/payload09_thumb.webp)](f/project/a/akatsuki/payload09.jpg)  
+[![](f/project/a/akatsuki/payload09_thumb.webp)](f/project/a/akatsuki/payload09.webp)  
 Concept image of Akatsuki measurements.  
 The six instruments placed on Akatsuki are designed to study various aspects of the atmosphere of Venus at various altitudes. The figure on the left shows targets & instruments, & on the right — heights. By observing atmospheric objects for a long time, for example, clouds, it is possible to obtain the distribution of wind speeds (wind vectors).
 
@@ -230,7 +230,7 @@ The six instruments placed on Akatsuki are designed to study various aspects of 
 ### IR1 (1 µm camera)
 The observation of radio waves with a length of about 1 µm allows us to observe the lower layer of clouds & the near‑surface part of Venus, & by comparing the intensity of radiation at different IR wavelengths, it is possible to study the movement of the lower layer of clouds ([EVN‑011](venus.md)), water vapor distribution ([EVN‑077](venus.md)), surface mineral composition ([EVN‑023](venus.md)), & detect the presence of active volcanoes ([EVN‑076](venus.md)).
 
-![](f/project/a/akatsuki/payload02.jpg)
+![](f/project/a/akatsuki/payload02.webp)
 
 
 
@@ -239,7 +239,7 @@ The observation of radio waves with a length of about 1 µm allows us to obser
 ### IR2 (2 µm camera)
 Radio waves with a length of 2 µm coming from the regions of the bottom of the lower layer of the atmosphere allow to judge their density, cloud particle size, CO distribution, & other parameters, allowing to judge the movement of the atmosphere at low altitudes ([EVN‑011](venus.md)) & understand how the clouds of Venus are formed ([EVN‑075](venus.md)). The instrument also allows to measure the zodiacal light along the path of Venus in order to investigate the distribution of dust in the solar system ([ECT-002](ect2.md)).
 
-![](f/project/a/akatsuki/payload03.jpg)
+![](f/project/a/akatsuki/payload03.webp)
 
 
 
@@ -248,7 +248,7 @@ Radio waves with a length of 2 µm coming from the regions of the bottom of th
 ### LAC (Lightning & airglow camera)
 LAC allows to record flashes lasting up to 1/30 000 s, record lightning discharges of short duration & resolve the question of the presence of lightning in the atmosphere of Venus ([EVN‑012](venus.md)). It also allows to record the glow in the atmosphere caused by oxygen at the very top of the atmosphere at an altitude of about 100 ㎞, allowing to build a model of the movement of the atmosphere between the Sun & the shadow side of Venus ([EVN‑011](venus.md)).
 
-![](f/project/a/akatsuki/payload04.jpg)
+![](f/project/a/akatsuki/payload04.webp)
 
 
 
@@ -257,7 +257,7 @@ LAC allows to record flashes lasting up to 1/30 000 s, record lightning disc
 ### LIR (Long-wave infrared camera)
 The IR spectrum at a wavelength of 10 µm is used to measure the temperature of the upper atmosphere. This information can be used to obtain the distribution of altitudes, as well as horizontal & vertical flows in the upper atmosphere ([EVN‑010](venus.md)).
 
-![](f/project/a/akatsuki/payload05.jpg)
+![](f/project/a/akatsuki/payload05.webp)
 
 
 
@@ -266,9 +266,9 @@ The IR spectrum at a wavelength of 10 µm is used to measure the temperature o
 ### USO (ultra‑stable oscillator)
 When Akatsuki is obscured by Venus from observations from Earth, radio waves emitted by the spacecraft enter the atmosphere of Venus & reach the Earth ([EVN‑078](venus.md)). The transit of radio waves through the atmosphere of Venus causes a change in their frequency. By analyzing these changes, could be constructed vertical temperature profiles ([EVN‑010](venus.md)) & sulphuric acid mist ([EVN‑077](venus.md)). An ultra‑stable oscillator is used to generate the radio wave.
 
-![](f/project/a/akatsuki/payload06.jpg)
+![](f/project/a/akatsuki/payload06.webp)
 
-![](f/project/a/akatsuki/payload07.jpg)
+![](f/project/a/akatsuki/payload07.webp)
 
 
 
@@ -277,7 +277,7 @@ When Akatsuki is obscured by Venus from observations from Earth, radio waves emi
 ### UVI (Ultraviolet imager)
 UVI takes pictures in the UV range, allowing to determine the distribution of SO₂ ([EVN‑077](venus.md)) related to the formation of clouds & the distribution of unidentified chemical substances that absorb UV rays ([EVN‑035](venus.md)). The instrument can also measure the wind speed of upper clouds ([EVN‑011](venus.md)), observing the spread of UV rays in the clouds of Venus.
 
-![](f/project/a/akatsuki/payload08.jpg)
+![](f/project/a/akatsuki/payload08.webp)
 
 
 

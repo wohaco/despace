@@ -1,7 +1,7 @@
 # SPACE COTAN
 > 2021.12.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/h/hospo_logo1_thumb.png)](../f/contact/h/hospo_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *Memu 183, Taiki-town, Hiroo-gun, Hokkaido, 089-2113, Japan*<br> 【<https://hokkaidospaceport.com/>・ [Facebook ⎆](https://www.facebook.com/hokkaidospaceport/)・ [Twitter ⎆](https://twitter.com/@hospojapan)】|
+|[![](../f/contact/h/hospo_logo1_thumb.webp)](../f/contact/h/hospo_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *Memu 183, Taiki-town, Hiroo-gun, Hokkaido, 089-2113, Japan*<br> 【<https://hokkaidospaceport.com/>・ [Facebook ⎆](https://www.facebook.com/hokkaidospaceport/)・ [Twitter ⎆](https://twitter.com/@hospojapan)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

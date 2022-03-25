@@ -37,7 +37,7 @@ A list of [On-board computers](obc.md).
 |CPU type|dual-core LEON3FT SPARC V8, 180 nm standard CMOS, Tower Semiconductors Ltd|
 |Performance|100 ㎒ (200 MIPS, 200 MFLOPS)|
 |Recovery time, s| |
-| |[![](f/cpu/g/gr712rc_pic1_thumb.webp)](f/cpu/g/gr712rc_pic1.jpg)|
+| |[![](f/cpu/g/gr712rc_pic1_thumb.webp)](f/cpu/g/gr712rc_pic1.webp)|
 
 **Notes:**
 
@@ -156,7 +156,7 @@ A list of [On-board computers](obc.md).
 |CPU type|LEON3|
 |Performance| |
 |Recovery time, s|<small>(from the moment the failure was detected by the automatic reconfiguration OE)</small>|
-| |[![](f/cpu/b/bku-sxpa_pic1_thumb.webp)](f/cpu/b/bku-sxpa_pic1.png)|
+| |[![](f/cpu/b/bku-sxpa_pic1_thumb.webp)](f/cpu/b/bku-sxpa_pic1.webp)|
 
 **Notes:**
 
@@ -193,7 +193,7 @@ A list of [On-board computers](obc.md).
 |CPU type|R4000 (MIPS)|
 |Performance|50 ㎒|
 |Recovery time, s|<small>… (from the moment the failure was detected by the automatic reconfiguration OE)</small>|
-| |[![](f/cpu/t/cvm-12_pic1_thumb.webp)](f/cpu/t/cvm-12_pic1.png)|
+| |[![](f/cpu/t/cvm-12_pic1_thumb.webp)](f/cpu/t/cvm-12_pic1.webp)|
 
 **Notes:**
 
@@ -230,7 +230,7 @@ A list of [On-board computers](obc.md).
 |CPU type|2 × 20 ㎒;<br> первый выполняет функции ЦП, второй — функции ввода‑вывода|
 |Performance|2 × 2 500 000 оп/с|
 |Recovery time, s|<sup>(с момента фиксирования отказа автоматикой)</sup>|
-| |[![](f/cpu/m/mars-4_pic1_thumb.webp)](f/cpu/m/mars-4_pic1.png)|
+| |[![](f/cpu/m/mars-4_pic1_thumb.webp)](f/cpu/m/mars-4_pic1.webp)|
 
 **Notes:**
 
@@ -266,7 +266,7 @@ A list of [On-board computers](obc.md).
 |CPU type|2 × 50 ㎒;<br> первый выполняет функции ЦП, второй — функции ввода‑вывода|
 |Performance|2 × 50 000 000 оп/с|
 |Recovery time, s|<sup>(с момента фиксирования отказа автоматикой)</sup>|
-| |[![](f/cpu/m/mars-7_pic1_thumb.webp)](f/cpu/m/mars-7_pic1.png)|
+| |[![](f/cpu/m/mars-7_pic1_thumb.webp)](f/cpu/m/mars-7_pic1.webp)|
 
 **Notes:**
 
@@ -304,7 +304,7 @@ A list of [On-board computers](obc.md).
 |CPU type|AMD 5x86 с рабочей частотой 100 ㎒|
 |Performance|10 млн операций в секунду|
 |Recovery time, s|20 <sup>(с момента фиксирования отказа автоматикой)</sup>|
-| |[![](f/cpu/m/mpk-002_pic1_thumb.webp)](f/cpu/m/mpk-002_pic1.png)|
+| |[![](f/cpu/m/mpk-002_pic1_thumb.webp)](f/cpu/m/mpk-002_pic1.webp)|
 
 **Notes:**
 
@@ -342,7 +342,7 @@ A list of [On-board computers](obc.md).
 |CPU type| | |
 |Performance| | |
 |Recovery time, s|20 <sup>(с момента фиксирования отказа автоматикой)</sup>|20 <sup>(с момента фиксирования отказа автоматикой)</sup>|
-| |[![](f/cpu/m/mpk-003_pic1_thumb.webp)](f/cpu/m/mpk-003_pic1.jpg)<br> ДКШГ.468332.003|[![](f/cpu/m/mpk-003_pic2_thumb.webp)](f/cpu/m/mpk-003_pic2.png)<br> ДКШГ.468332.003-01|
+| |[![](f/cpu/m/mpk-003_pic1_thumb.webp)](f/cpu/m/mpk-003_pic1.webp)<br> ДКШГ.468332.003|[![](f/cpu/m/mpk-003_pic2_thumb.webp)](f/cpu/m/mpk-003_pic2.webp)<br> ДКШГ.468332.003-01|
 
 **Notes:**
 

@@ -1,7 +1,7 @@
 # Amulapo
 > 2021.12.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/amulapo_logo1_thumb.png)](../f/contact/a/amulapo_logo1.png)|<amulapo.contact@gmail.com>, <mark>noworkphone</mark>, Fax: … ;<br> *37-22 Wakamatsu-cho, Shinjuku-ku, Tokyo 162-0056, Japan*<br> 【<https://amulapo-inc.com/>・ [Facebook ⎆](https://www.facebook.com/amulapo.info/)・ [LinkedIn ⎆](https://www.linkedin.com/company/amulapo-inc/)・ [Twitter ⎆](https://twitter.com/amulapo)】|
+|[![](../f/contact/a/amulapo_logo1_thumb.webp)](../f/contact/a/amulapo_logo1.webp)|<amulapo.contact@gmail.com>, <mark>noworkphone</mark>, Fax: … ;<br> *37-22 Wakamatsu-cho, Shinjuku-ku, Tokyo 162-0056, Japan*<br> 【<https://amulapo-inc.com/>・ [Facebook ⎆](https://www.facebook.com/amulapo.info/)・ [LinkedIn ⎆](https://www.linkedin.com/company/amulapo-inc/)・ [Twitter ⎆](https://twitter.com/amulapo)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|Use the universe to change the structure of society|

@@ -23,7 +23,7 @@ Compared to [nuclear reactors](nr.md), which use a chain reaction, RTGs are much
 
 |RTG SC “[New Horizons](new_horizons.md)”| Scheme of the RTG used on the SC “[Cassini Huygens](cassini_huygens.md)”|RTG SNAP‑27, used in flight “[Apollo 14](apollo_14.md)” (in the center)|
 |:--|:--|:--|
-|[![](f/rtg/rtg_new_horizons_rtg_in_phsf_thumb.webp)](f/rtg/rtg_new_horizons_rtg_in_phsf.jpg)|[![](f/rtg/rtg_cutdrawing_of_an_gphs-rtg_thumb.webp)](f/rtg/rtg_cutdrawing_of_an_gphs-rtg.jpg)|[![](f/rtg/rtg_alsep_apollo_14_rtg_thumb.webp)](f/rtg/rtg_alsep_apollo_14_rtg.jpg)|
+|[![](f/rtg/rtg_new_horizons_rtg_in_phsf_thumb.webp)](f/rtg/rtg_new_horizons_rtg_in_phsf.webp)|[![](f/rtg/rtg_cutdrawing_of_an_gphs-rtg_thumb.webp)](f/rtg/rtg_cutdrawing_of_an_gphs-rtg.webp)|[![](f/rtg/rtg_alsep_apollo_14_rtg_thumb.webp)](f/rtg/rtg_alsep_apollo_14_rtg.webp)|
 
 **Varieties**
 

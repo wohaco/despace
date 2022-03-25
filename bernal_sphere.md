@@ -11,7 +11,7 @@
 
 |<small>*Внешний вид<br> сферы Бернала*</small>|<small>*Внутренняя часть<br> сферы — вид через<br> световое окно сферы*</small>|
 |:--|:--|
-|[![](f/project/a/ais/bernal_sphere_pic1_thumb.webp)](f/project/a/ais/bernal_sphere_pic1.jpg)|[![](f/project/a/ais/bernal_sphere_pic2_thumb.webp)](f/project/a/ais/bernal_sphere_pic2.jpg)|
+|[![](f/project/a/ais/bernal_sphere_pic1_thumb.webp)](f/project/a/ais/bernal_sphere_pic1.webp)|[![](f/project/a/ais/bernal_sphere_pic2_thumb.webp)](f/project/a/ais/bernal_sphere_pic2.webp)|
 
 
 

@@ -1,7 +1,7 @@
 # РКЦ «Прогресс»
 > 2019.08.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/r/rkc_progress_logo1_thumb.webp)](../f/contact/r/rkc_progress_logo1.png)|<mail@samspace.ru>, +7(846)228-94-65, Fax: +7(846)992-65-18;<br> *Россия, 443009, Россия, Самара, ул. Земеца, 18*<br> 【<http://www.samspace.ru/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Progress_Rocket_Space_Centre)】|
+|[![](../f/contact/r/rkc_progress_logo1_thumb.webp)](../f/contact/r/rkc_progress_logo1.webp)|<mail@samspace.ru>, +7(846)228-94-65, Fax: +7(846)992-65-18;<br> *Россия, 443009, Россия, Самара, ул. Земеца, 18*<br> 【<http://www.samspace.ru/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Progress_Rocket_Space_Centre)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -10,7 +10,7 @@
 
 **Venera 5** (**Венера‑5**) and **Venera 6** (**Венера‑6**)  were spacecraft in the Soviet Venera program for the exploration of Venus. During the descent from 55 to 18 ㎞, the lander took measurements of temperature (from 25 to 320 ℃), pressure (from 0.5 to 27 atm), illumination and chemical composition of the planet’s atmosphere, which was 97 % CO₂, 2 % N₂, O₂<1 %, and traces of water vapor were found.
 
-[![](f/project/v/venera_5_6/pic01_thumb.webp)](f/project/v/venera_5_6/pic01.jpg)
+[![](f/project/v/venera_5_6/pic01_thumb.webp)](f/project/v/venera_5_6/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

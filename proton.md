@@ -15,7 +15,7 @@
 |╟ Протон‑К  (УР‑500К, 8К82К)|Модификация Протон.|Экспл. завершена (1967 ‑ 2012)|
 |╙ Протон‑М  (8К82КМ)|Модификация Протон‑К.|**Активен** (2001 ‑ …)|
 
-[![](f/lv/proton/early_proton-k_rocket_versions_thumb.webp)](f/lv/proton/early_proton-k_rocket_versions.jpg)
+[![](f/lv/proton/early_proton-k_rocket_versions_thumb.webp)](f/lv/proton/early_proton-k_rocket_versions.webp)
 
 В июне 2018 года генеральный директор «Роскосмоса» Дмитрий Рогозин поставил задачу прекратить производство РН «Протон» после выполнения контрактов, далее летать исключительно на «Ангаре». До 2025 года планируется отказ от использования «Протона» по причинам:
    1. пуски возможны только с космодрома «Байконур», который находится за пределами РФ; РН «[Ангара](angara.md)» может стартовать также с Плесецка и Восточного;
@@ -44,7 +44,7 @@
 |Разраб./изготов.|[ГКНПЦ Хруничева](contact/khrunichev.md) (КБ «Салют», Россия) / [ГКНПЦ Хруничева](contact/khrunichev.md) (КБ «Салют», Россия)|
 |Ступени|3‑4 (РБ: [Блок ДМ](блок_д.md), [Бриз‑М](бриз.md))|
 |[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
-| |[![](f/lv/proton/proton-m_thumb.webp)](f/lv/proton/proton-m.jpg)|
+| |[![](f/lv/proton/proton-m_thumb.webp)](f/lv/proton/proton-m.webp)|
 
 **Выводимые массы.**
 
@@ -77,7 +77,7 @@
 |Разраб./изготов.|[ОКБ‑23](contact/khrunichev.md) (СССР) / [ОКБ‑23](contact/khrunichev.md) (СССР)|
 |Ступени|2|
 |[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
-| |[![](f/lv/proton/proton_1965_thumb.webp)](f/lv/proton/proton_1965.jpg)|
+| |[![](f/lv/proton/proton_1965_thumb.webp)](f/lv/proton/proton_1965.webp)|
 
 
 
@@ -96,7 +96,7 @@
 |Разраб./изготов.|[ОКБ‑23](contact/khrunichev.md) (СССР) / [ОКБ‑23](contact/khrunichev.md) (СССР, в России — [ГКНПЦ Хруничева](contact/khrunichev.md))|
 |Ступени|3 (РБ: [Блок Д](блок_д.md), [Блок ДМ](блок_д.md))|
 |[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
-| |[![](f/lv/proton/proton_k_zvezda_crop_thumb.webp)](f/lv/proton/proton_k_zvezda_crop.jpg)|
+| |[![](f/lv/proton/proton_k_zvezda_crop_thumb.webp)](f/lv/proton/proton_k_zvezda_crop.webp)|
 
 **Выводимые массы.**
 

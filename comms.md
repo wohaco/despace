@@ -75,7 +75,7 @@ TMP:
 
 **Frequency reuse (FR)** — technique for using a specified range of frequencies more than once in the same radio system so that the total capacity of the system is increased without increasing its allocated bandwidth. Frequency reuse schemes require sufficient isolation among the signals that use the same frequencies so that mutual interference among them is controlled at an acceptable level. For satellites, frequency reuse can be achieved by using **orthogonal polarization** states for transmission and/or by using satellite antenna **(spot) beams** that serve separate, non-overlapping geographic regions.
 
-![](f/comms/frequency_reuse.png)  
+![](f/comms/frequency_reuse.webp)  
 *This image shows an example of frequency reuse in cellular networks (in this case 4 frequencies are used). The image is an idealised representation with perfectly hexagonal cells. Eight separate cells are shown packed one next to the other. The first cell on the top left uses frequency 1. The cells which are next to it then use frequency 2 & 3. Beyond those cells, another cell again uses frequency 1. This pattern with the same frequency never being reused by direct neighbours repeats across the diagram. The frequency reuse pattern shown is typical example for a digital cellular system (i.e. GSM). For earlier analog systems a higher reuse pattern (7 or greater) is more usual.*
 
 
@@ -89,7 +89,7 @@ TMP:
 
 | | |
 |:--|:--|
-|[![](f/comms/electromagnetic-spectrum-xkcd_thumb.webp)](f/comms/electromagnetic-spectrum-xkcd.png)|[![](f/comms/electromagnetic-spectrum-1_thumb.webp)](f/comms/electromagnetic-spectrum-1.png)|
+|[![](f/comms/electromagnetic-spectrum-xkcd_thumb.webp)](f/comms/electromagnetic-spectrum-xkcd.webp)|[![](f/comms/electromagnetic-spectrum-1_thumb.webp)](f/comms/electromagnetic-spectrum-1.webp)|
 
 
 

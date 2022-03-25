@@ -1,7 +1,7 @@
 # JAXA
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/j/jaxa_logo1_thumb.webp)](../f/contact/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), Fax: …;<br> *Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*<br> 【<http://www.jaxa.jp/>・ <https://global.jaxa.jp/about/centers/tokyo/index.html>・ [LinkedIn ⎆](https://www.linkedin.com/company/jaxanasdanalisas/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/JAXA)】|
+|[![](../f/contact/j/jaxa_logo1_thumb.webp)](../f/contact/j/jaxa_logo1.webp)|<mark>noemail</mark>, +81-3-5289-3600 (10:00 ‑ 12:00, 13:00 ‑ 16:30), Fax: …;<br> *Ochanomizu sola city, 4-6 Kandasurugadai, Chiyoda-ku, Tokyo 101-8008 Japan*<br> 【<http://www.jaxa.jp/>・ <https://global.jaxa.jp/about/centers/tokyo/index.html>・ [LinkedIn ⎆](https://www.linkedin.com/company/jaxanasdanalisas/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/JAXA)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

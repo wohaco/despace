@@ -1,7 +1,7 @@
 # НИИФИ
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/n/niifi_logo1_thumb.webp)](../f/contact/n/niifi_logo1.png)|<info@niifi.ru>, +7(8412)56-55-63, +7(8412)56-27-81, Fax: +7(8412)55-14-99, +7(8412)56-24-48;<br> *Россия, 440026, г. Пенза, ул. Володарского, д. 8/10*<br> 【<http://www.niifi.ru/>】|
+|[![](../f/contact/n/niifi_logo1_thumb.webp)](../f/contact/n/niifi_logo1.webp)|<info@niifi.ru>, +7(8412)56-55-63, +7(8412)56-27-81, Fax: +7(8412)55-14-99, +7(8412)56-24-48;<br> *Россия, 440026, г. Пенза, ул. Володарского, д. 8/10*<br> 【<http://www.niifi.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

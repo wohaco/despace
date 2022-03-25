@@ -9,7 +9,7 @@
 
 **Venus Observing System (VOS)** — monitoring climate, surface, atmospheric escape, and searching for signs of life.
 
-[![](f/project/v/venus_observing_system/pic01_thumb2.jpg)](f/project/v/venus_observing_system/pic01.jpg)
+[![](f/project/v/venus_observing_system/pic01_thumb2.webp)](f/project/v/venus_observing_system/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -89,7 +89,7 @@
 <p style="page-break-after:always"> </p>
 
 ## Mission
-[![](f/project/v/venus_observing_system/pic01_thumb2.jpg)](f/project/v/venus_observing_system/pic01.jpg)  
+[![](f/project/v/venus_observing_system/pic01_thumb2.webp)](f/project/v/venus_observing_system/pic01.webp)  
 *Not to scale. L1 & L2 are about 1 million km from Venus. All Spacecraft images & orbits are for illustrative purpose only*
 
 After numerous survey & monitoring missions to Venus with fly‑by spacecraft, orbiters, entry probes/landers & balloons since [Mariner 2](mariner_2.md) flew past Venus in 1962, many questions remain unanswered. Recent missions raise intriguing questions about variations in albedo on decadal timescales. Although the past missions have revealed a lot of information about the planet’s plasma environment, atmosphere, surface & a little about the interior, they have not provided the comprehensive, systematic or synoptic observations of the planet that the major atmospheric questions require. For Earth, a constellation of polar & geosynchronous spacecraft, & networks of air & surface observations provide crucial information to monitor weather & climate. While Venus does not require such a comprehensive network, continuous observations of the cloud cover are necessary & Lagrange Point Orbiters (LPOs) along the Sun‑Venus line offer this capability (Limaye & Kovalenko, 2019). We describe here the Venus Observing System (VOS), a concept proposed for NASA’s Planetary Mission Concept Studies competition that can address the deficiencies of the past & currently proposed missions to Venus. The modular design of VOS includes:

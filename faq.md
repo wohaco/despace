@@ -3,12 +3,12 @@
 
 [TOC]
 
-![](f/px.png)
+![](f/px.webp)
 
 **First of all, all content in this DB (the one that was created by contributors themselves) is under the [CC0 ⎆](https://creativecommons.org/choose/zero/) license.** But there is a lot of information obtained from the numberless sources that have been licensed under different licenses. There is no classified info. That means you can use it for your personal deeds without asking anybody, but if you’re about to distribute it, sell it, or whatever then you better check if it’s legal. We try to follow the rules of fair use & to keep the information true, but sadly we’re only human, we were born to die. Occasionally you may see Russian words due to it was the 1st lang of this DB. The source is located at <https://github.com/wohaco/despace/blob/master/index.md>
 
    1. **For what?** Started as just another pocket notebook from tiny spacecraft engineering group of some space & SC brief facts which have to always be with you. Now it’s for science, for future planning & SC creating.
-   1. **For who?** For scientists, engineers & sympathetic essences. For those who want to create / plan / be in a stream. 
+   1. **For who?** For scientists, engineers & sympathetic essences. For those who want to create / plan / be in a stream.
    1. **Who is now?** Almost as from the start but a bit wider — a group of spacecraft engineers & scientists.
    1. **Who is able?** In terms of git & CC0 — everybody can clone. In terms of this very DB — at least a bachelor in a near spacecraft area (engineering or science) shall take such a great responsibility.
    1. **Why not just Wikipedia?** Because of the nuances in [SC](sc.md) design, & the ability to take this DB with you.

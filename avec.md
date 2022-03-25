@@ -11,7 +11,7 @@
 
 |*AVEC*|
 |:--|
-|[![](f/tests/avec_pic01_thumb.webp)](f/tests/avec_pic01.jpg)|
+|[![](f/tests/avec_pic01_thumb.webp)](f/tests/avec_pic01.webp)|
 
 
 

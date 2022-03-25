@@ -1,7 +1,7 @@
 # DATAFLUCT
 > 2021.12.10 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/d/datafluct_logo1_thumb.png)](../f/contact/d/datafluct_logo1.png)|<info@datafluct.com>, +81(3)6822-5590, Fax: … ;<br> *Daiichi Akatsuki Building, 6th floor, 1-19-9 Dogenzaka, Shibuya-ku, Tokyo 150-0043, Japan*<br> 【<https://datafluct.com/>・ [Facebook ⎆](https://www.facebook.com/datafluct/)】|
+|[![](../f/contact/d/datafluct_logo1_thumb.webp)](../f/contact/d/datafluct_logo1.webp)|<info@datafluct.com>, +81(3)6822-5590, Fax: … ;<br> *Daiichi Akatsuki Building, 6th floor, 1-19-9 Dogenzaka, Shibuya-ku, Tokyo 150-0043, Japan*<br> 【<https://datafluct.com/>・ [Facebook ⎆](https://www.facebook.com/datafluct/)】|
 |:--|:--|
 |**Mission**|Data Science for Every Business|
 |**Vision**|…|

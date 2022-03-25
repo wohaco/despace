@@ -18,7 +18,7 @@
 
 |*Апоцентр*|*Перицентр*|
 |:--|:--|
-|![](f/nav/orbit_apocentr.png)|![](f/nav/orbit_pericentr.png)|
+|![](f/nav/orbit_apocentr.webp)|![](f/nav/orbit_pericentr.webp)|
 
 
 
@@ -37,7 +37,7 @@
 
 |<small>1 Земля<br> 2 орбита спутника<br> 3 спутник Земли<br> 4 линия земного экватора<br> 5 ось вращения Земли<br> 6 перигей<br> 7 апогей<br> 8 линия апсид</small>|
 |:--|
-|![](f/nav/orbit_apside_general_scheme.png)|
+|![](f/nav/orbit_apside_general_scheme.webp)|
 
 
 

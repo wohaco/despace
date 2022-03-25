@@ -1,7 +1,7 @@
 # EarthDaily Analytics
 > 2019.08.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/e/earthdaily_logo1_thumb.png)](../f/contact/e/earthdaily_logo1.png)|<cx@urthecast.com>, +1(604)265-62-66, Fax: …;<br> *1055 Canada Place - Suite 33, Vancouver, BC V6C 0C3, Canada*<br> 【<http://www.urthecast.com/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Urthecast)】|
+|[![](../f/contact/e/earthdaily_logo1_thumb.webp)](../f/contact/e/earthdaily_logo1.webp)|<cx@urthecast.com>, +1(604)265-62-66, Fax: …;<br> *1055 Canada Place - Suite 33, Vancouver, BC V6C 0C3, Canada*<br> 【<http://www.urthecast.com/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Urthecast)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

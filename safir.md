@@ -13,7 +13,7 @@
 |:--|:--|:--|
 |Safir-1|Базовый вариант.|**Активен** (2008 ‑ …)|
 
-[![](f/lv/safir/safir_rf01_thumb.webp)](f/lv/safir/safir_rf01.jpg) [![](f/lv/safir/safir_rf02_thumb.webp)](f/lv/safir/safir_rf02.jpg) [![](f/lv/safir/safir_rf03_thumb.webp)](f/lv/safir/safir_rf03.jpg)
+[![](f/lv/safir/safir_rf01_thumb.webp)](f/lv/safir/safir_rf01.webp) [![](f/lv/safir/safir_rf02_thumb.webp)](f/lv/safir/safir_rf02.webp) [![](f/lv/safir/safir_rf03_thumb.webp)](f/lv/safir/safir_rf03.webp)
 
 
 ---
@@ -33,7 +33,7 @@
 |Разраб./изготов.|[ISA](contact/isa.md) (Иран) / [ISA](contact/isa.md) (Иран)|
 |Ступени|3|
 |[Fuel](ps.md)|[АТ + НДМГ](nto_plus.md)|
-| |[![](f/lv/safir/safir1_01_thumb.webp)](f/lv/safir/safir1_01.jpg)|
+| |[![](f/lv/safir/safir1_01_thumb.webp)](f/lv/safir/safir1_01.webp)|
 
 **Выводимые массы.**
 

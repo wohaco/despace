@@ -1,7 +1,7 @@
 # ИРЗ
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/i/irz_logo1_thumb.png)](../f/contact/i/irz_logo1.png)|<disp@irz.ru>, +7(3412)50–15–01, Fax: +7(3412)68–65–55;<br> *Россия, Удмуртская Республика, 426034, г. Ижевск, ул. Базисная, д. 19*<br> 【<https://www.irz.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Ижевский_радиозавод)】|
+|[![](../f/contact/i/irz_logo1_thumb.webp)](../f/contact/i/irz_logo1.webp)|<disp@irz.ru>, +7(3412)50–15–01, Fax: +7(3412)68–65–55;<br> *Россия, Удмуртская Республика, 426034, г. Ижевск, ул. Базисная, д. 19*<br> 【<https://www.irz.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Ижевский_радиозавод)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

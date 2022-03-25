@@ -1,7 +1,7 @@
 # Canadensys
 > 2019.08.14 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/c/canadensys_logo1_thumb.webp)](../f/contact/c/canadensys_logo1.png)|<mark>noemail</mark>, +1(514)343-61-11, Fax: …;<br> *Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*<br> 【<http://www.canadensys.com/>・ <https://community.canadensys.net/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canadensys-aerospace-corporation/)・ [Twitter ⎆](https://twitter.com/canadensys)】|
+|[![](../f/contact/c/canadensys_logo1_thumb.webp)](../f/contact/c/canadensys_logo1.webp)|<mark>noemail</mark>, +1(514)343-61-11, Fax: …;<br> *Canadensys Aerospace Corporation, 10 Parr Boulevard, Caledon, Ontario, L7E 4G9, Canada*<br> 【<http://www.canadensys.com/>・ <https://community.canadensys.net/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canadensys-aerospace-corporation/)・ [Twitter ⎆](https://twitter.com/canadensys)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

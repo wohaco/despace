@@ -15,7 +15,7 @@
 |Енисей (STK-1)|Baseline.|Development (2027 ‑ …)|
 |Дон (STK-2)|Baseline.|Development (2027 ‑ …)|
 
-[![](f/lv/stk/enisey_project_2028_0_thumb.webp)](f/lv/stk/enisey_project_2028_0.jpg)
+[![](f/lv/stk/enisey_project_2028_0_thumb.webp)](f/lv/stk/enisey_project_2028_0.webp)
 
 
 
@@ -40,7 +40,7 @@
 |Разраб./изготов.|[РКК Энергия](ркк_энергия.md) (Россия) / [РКК Энергия](ркк_энергия.md) (Россия)|
 |Ступени|3|
 |[Fuel](ps.md)|[O + Kerosene](o_plus.md) (1, 2 ступ.), [Кислород + Водород](o_plus.md) (2 ступ.)|
-| |[![](f/lv/stk/stk1_01_thumb.webp)](f/lv/stk/stk1_01.jpg) [![](f/lv/stk/stk1_02_thumb.webp)](f/lv/stk/stk1_02.jpg) [![](f/lv/stk/stk2_01_thumb.webp)](f/lv/stk/stk2_01.jpg)|
+| |[![](f/lv/stk/stk1_01_thumb.webp)](f/lv/stk/stk1_01.webp) [![](f/lv/stk/stk1_02_thumb.webp)](f/lv/stk/stk1_02.webp) [![](f/lv/stk/stk2_01_thumb.webp)](f/lv/stk/stk2_01.webp)|
 
 **Выводимые массы.**
 

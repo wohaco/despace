@@ -9,7 +9,7 @@
 
 > <small>**Venus** — EN term. **Венера** — RU analogue.</small>
 
-**Venus** (astro. ♀ [ ❐](f/aob/venus/venus_symbol_svg.png)) — is the second [planet](aob.md) from the Sun. Named after the Roman goddess of love & beauty. No moons. In ~ 3.5 billion years the [Earth](earth.md) may look like Venus in terms of surface conditions.
+**Venus** (astro. ♀ [ ❐](f/aob/venus/venus_symbol_svg.webp)) — is the second [planet](aob.md) from the Sun. Named after the Roman goddess of love & beauty. No moons. In ~ 3.5 billion years the [Earth](earth.md) may look like Venus in terms of surface conditions.
 
 [![](f/aob/universe/terrestrial_planet_size_comparisons_thumb.webp)](f/aob/universe/terrestrial_planet_size_comparisons.webp)
 
@@ -17,7 +17,7 @@ It’s one of the 4 terrestrial planets in the Solar System — it’s a rocky E
 
 |*Venus*|*Map*|*Map*|*Map*|
 |:--|:--|:--|:--|
-|[![](f/aob/venus/venus_real_color-1974_thumb.webp)](f/aob/venus/venus_real_color-1974.jpg)|[![](f/aob/venus/venus_map1_thumb.webp)](f/aob/venus/venus_map1.webp)|[![](f/aob/venus/venus_map2_thumb.webp)](f/aob/venus/venus_map2.webp)|[![](f/aob/venus/venus_map3_thumb.webp)](f/aob/venus/venus_map3.png)|
+|[![](f/aob/venus/venus_real_color-1974_thumb.webp)](f/aob/venus/venus_real_color-1974.webp)|[![](f/aob/venus/venus_map1_thumb.webp)](f/aob/venus/venus_map1.webp)|[![](f/aob/venus/venus_map2_thumb.webp)](f/aob/venus/venus_map2.webp)|[![](f/aob/venus/venus_map3_thumb.webp)](f/aob/venus/venus_map3.webp)|
 
 And a bit of animation.
 
@@ -78,7 +78,7 @@ And a bit of animation.
 ### Atmosphere & climate
 |*Dependence temperature(pressure)/height;*<br> [Atmospheric model VIRA-30 ❐](f/aob/venus/atmo_model_vira_30.ods) made by Vega-1,2.|
 |:--|
-|![](f/aob/venus/venus_atmosphere_ru.png)|
+|![](f/aob/venus/venus_atmosphere_ru.webp)|
 
 The CO₂‑rich atmosphere generates the strongest greenhouse effect in the Solar System, creating the surface temperature of ~ 735 K (462 ℃, 864 ℉), higher than that used for sterilization, hotter than [Mercury’s](mercury.md) (min surface temperature of 53 K, −220 ℃, −364 ℉, & maximum — 700 K, 427 ℃, 801 ℉), even though Venus is nearly twice Mercury’s distance from the Sun & thus receives ~ 25 % of Mercury’s solar irradiance. The highest Venus point, Maxwell Montes, is the coolest point with a temperature of ~ 655 K (380 ℃; 715 ℉) & pressure of ~ 4.5 ㎫ (45 ㍴).
 
@@ -182,7 +182,7 @@ Individual tessera patterns record the variations in interactions of the mantle 
 
 **Table.** [Dependency between the complexity, price & science impact ❐](f/aob/venus/cps_dependency.odt).
 
-![](f/aob/venus/cps_dependency.png)
+![](f/aob/venus/cps_dependency.webp)
 
 
 

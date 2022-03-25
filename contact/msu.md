@@ -1,7 +1,7 @@
 # МГУ
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/m/msu_logo1_thumb.webp)](../f/contact/m/msu_logo1.png)|<info@rector.msu.ru>, +7(495)939-10-00, Fax: +7(495)939-01-26;<br> *Россия, 119991, Москва, Ленинские горы, д. 1*<br> 【<https://www.msu.ru/>・ [Facebook 1 ⎆](https://www.facebook.com/MoscowStateUniversity)・ [Facebook 2 ⎆](https://www.facebook.com/dnevnik.msu)・ [Twitter ⎆](https://twitter.com/MSU_1755)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Moscow_State_University)】|
+|[![](../f/contact/m/msu_logo1_thumb.webp)](../f/contact/m/msu_logo1.webp)|<info@rector.msu.ru>, +7(495)939-10-00, Fax: +7(495)939-01-26;<br> *Россия, 119991, Москва, Ленинские горы, д. 1*<br> 【<https://www.msu.ru/>・ [Facebook 1 ⎆](https://www.facebook.com/MoscowStateUniversity)・ [Facebook 2 ⎆](https://www.facebook.com/dnevnik.msu)・ [Twitter ⎆](https://twitter.com/MSU_1755)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Moscow_State_University)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

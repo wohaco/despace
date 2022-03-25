@@ -18,7 +18,7 @@ The purpose of the carrier is usually either to transmit the information through
 
 |<small>На примере частотной модуляции:<br> carrier — несущая,<br> signal — модулирующий сигнал,<br> output — собственно результат — частотная модуляция.|<small>The frequency spectrum of a typical radio signal from an AM or FM radio transmitter. It consists of a strong signal (C) at the carrier wave frequency fC, with the modulation contained in narrow frequency bands called sidebands (SB) just above and below the carrier.</small>|
 |:--|:--|
-|![](f/comms/frequency_modulation.png)|![](f/comms/modulated_radio_signal_frequency_spectrum.png)|
+|![](f/comms/frequency_modulation.webp)|![](f/comms/modulated_radio_signal_frequency_spectrum.webp)|
 
 
 

@@ -1,13 +1,13 @@
 # Satrec Initiative
 > 2020.07.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/satreci_logo1_thumb.png)](../f/contact/s/satreci_logo1.png)|<inquiries@satreci.com>, +82-42-365-7474, Fax: +82-42-365-7790;<br> *21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*<br> 【<https://www.satreci.com/>・ [LinkedIn 1 ⎆](https://www.linkedin.com/company/satrec-initiative)・ [LinkedIn 2 ⎆](https://www.linkedin.com/company/si-imaging-services/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Satrec_Initiative)】|
+|[![](../f/contact/s/satreci_logo1_thumb.webp)](../f/contact/s/satreci_logo1.webp)|<inquiries@satreci.com>, +82-42-365-7474, Fax: +82-42-365-7790;<br> *21, Yuseong-daero 1628 beon-gil, Yuseong-gu, Daejeon, 34054, Republic of Korea*<br> 【<https://www.satreci.com/>・ [LinkedIn 1 ⎆](https://www.linkedin.com/company/satrec-initiative)・ [LinkedIn 2 ⎆](https://www.linkedin.com/company/si-imaging-services/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Satrec_Initiative)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・CEO — Ee-Eul Kim<br> ・Co-founder — Sungdong Park<br> ・Co-founder — Byungjin Kim<br> ・Co-founder, First Chairman — Professor Soondal Choi|
 
 **Satrec Initiative Co., Ltd.** (Korean: 쎄트렉아이) or **SI** or **Satrec I** is a South Korean [satellite](../sc.md) manufacturing company headquartered in Daejeon, South Korea. The company designs & builds Earth observation satellites platform called SpaceEye‑series, & SI provides various space components, including high resolution electro‑optical payloads & star‑trackers.
 

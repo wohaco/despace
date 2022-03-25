@@ -1,7 +1,7 @@
 # Hokkaido Satellite Co., Ltd.
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact//_logo1_thumb.webp)](../f/contact//_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *…*<br> 【<https://www.campuscreate.com/global/seeds-list/global-15/>】|
+|[![](../f/contact//_logo1_thumb.webp)](../f/contact//_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *…*<br> 【<https://www.campuscreate.com/global/seeds-list/global-15/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

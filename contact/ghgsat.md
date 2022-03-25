@@ -1,7 +1,7 @@
 # GHGSat
 > 2019.08.29 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/g/ghgsat_logo1_thumb.png)](../f/contact/g/ghgsat_logo1.png)|<info@ghgsat.com>, +1(514)847-94-74, Fax: …;<br> *3981 St Laurent Blvd Suite 500, Montreal, QC H2W 1Y5, Canada*<br> 【<https://www.ghgsat.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/ghgsat-inc/)・ [Twitter ⎆](https://twitter.com/ghgsat)】|
+|[![](../f/contact/g/ghgsat_logo1_thumb.webp)](../f/contact/g/ghgsat_logo1.webp)|<info@ghgsat.com>, +1(514)847-94-74, Fax: …;<br> *3981 St Laurent Blvd Suite 500, Montreal, QC H2W 1Y5, Canada*<br> 【<https://www.ghgsat.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/ghgsat-inc/)・ [Twitter ⎆](https://twitter.com/ghgsat)】|
 |:--|:--|
 |**Mission**|With evolving climate dynamics, we thrive to collaborate with the global communities to share our expertise & create a compelling perspective for the future of humanity. |
 |**Vision**|A leading‑edge space & data technology company, we accelerate the decarbonization of our planet. Through our emission monitoring solutions & analytics tools, we provide actionable metrics & insights that empower the economies of tomorrow.|

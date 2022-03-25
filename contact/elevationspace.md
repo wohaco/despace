@@ -1,7 +1,7 @@
 # ElevationSpace
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/e/elevationspace_logo2_thumb.png)](../f/contact/e/elevationspace_logo1.png)|<info@elevation-space.com>, <mark>noworkphone</mark>, Fax: … ;<br> *1 Chome-4-9 enspace, Kokubuncho, Aoba Ward, Sendai, 〒980-0803 Miyagi, Japan*<br> 【<https://elevation-space.com/>・ [Facebook ⎆](https://www.facebook.com/ElevationSpace)・ [LinkedIn ⎆](https://www.linkedin.com/company/elevationspace-inc/)・ [Twitter ⎆](https://twitter.com/ELS_inc_PR)】|
+|[![](../f/contact/e/elevationspace_logo2_thumb.webp)](../f/contact/e/elevationspace_logo1.webp)|<info@elevation-space.com>, <mark>noworkphone</mark>, Fax: … ;<br> *1 Chome-4-9 enspace, Kokubuncho, Aoba Ward, Sendai, 〒980-0803 Miyagi, Japan*<br> 【<https://elevation-space.com/>・ [Facebook ⎆](https://www.facebook.com/ElevationSpace)・ [LinkedIn ⎆](https://www.linkedin.com/company/elevationspace-inc/)・ [Twitter ⎆](https://twitter.com/ELS_inc_PR)】|
 |:--|:--|
 |**Mission**|To create a world where everyone can live in space & enrich the future of people|
 |**Vision**|…|

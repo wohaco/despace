@@ -41,11 +41,11 @@ A list of [Telemetry systems](tms.md).
 |・digital temperature sensors| |
 |・signal| |
 |Number of one‑time instructions| |
-| |[![](f/tms/a/astra_pic1_thumb.webp)](f/tms/a/astra_pic1.png)|
+| |[![](f/tms/a/astra_pic1_thumb.webp)](f/tms/a/astra_pic1.webp)|
 
 **Notes:**
 
-   1. [Sketch ❐](f/tms/a/astra_sketch1.png)
+   1. [Sketch ❐](f/tms/a/astra_sketch1.webp)
    1. <http://www.npoit.ru/products/telemetricheskie-sistemy/universalnaya-malogabaritnaya-radiotelemetricheskaya-sistema-umrts-astra>
    1. **Applicability:** …
 
@@ -82,11 +82,11 @@ A list of [Telemetry systems](tms.md).
 |・digital temperature sensors|8|
 |・signal|32|
 |Number of one‑time instructions| |
-| |[![](f/tms/o/oniks_pic1_thumb.webp)](f/tms/o/oniks_pic1.png)|
+| |[![](f/tms/o/oniks_pic1_thumb.webp)](f/tms/o/oniks_pic1.webp)|
 
 **Notes:**
 
-   1. [A sketch ❐](f/tms/o/oniks_sketch1.png)
+   1. [A sketch ❐](f/tms/o/oniks_sketch1.webp)
    1. <http://www.npoit.ru/products/telemetricheskie-sistemy/malogabaritnaya-bortovaya-radiotelemetricheskaya-sistema-oniks> — [archived ❐](f/tms/o/oniks_npoit_ru.djvu) 2018.03.27
    1. **Applicability:** …
 
@@ -123,7 +123,7 @@ A list of [Telemetry systems](tms.md).
 |・digital temperature sensors|16| |
 |・signal| |128|
 |Number of one‑time instructions| | |
-| |[![](f/tms/p/pirit_pic1_thumb.webp)](f/tms/p/pirit_pic1.png)|
+| |[![](f/tms/p/pirit_pic1_thumb.webp)](f/tms/p/pirit_pic1.webp)|
 
 **Notes:**
 

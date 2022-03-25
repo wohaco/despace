@@ -1,13 +1,13 @@
 # GITAI
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/g/gitai_logo1_thumb.png)](../f/contact/g/gitai_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2 Chome-8-10 Meguro, Meguro City, Tokyo 153-0063, Japan*<br> 【<https://gitai.tech/> ・ [Facebook ⎆](https://www.facebook.com/pg/GITAI-1515952648445089/)・ [LinkedIn ⎆](https://www.linkedin.com/company/gitai/)】|
+|[![](../f/contact/g/gitai_logo1_thumb.webp)](../f/contact/g/gitai_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2 Chome-8-10 Meguro, Meguro City, Tokyo 153-0063, Japan*<br> 【<https://gitai.tech/> ・ [Facebook ⎆](https://www.facebook.com/pg/GITAI-1515952648445089/)・ [LinkedIn ⎆](https://www.linkedin.com/company/gitai/)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・Founder & CEO — Sho Nakanose<br> ・CRO — Yuto Nakanishi<br> ・CTO — Toyotaka Kozuki<br> ・VP of software — Ryouhei Ueda|
 
 **GITAI Inc.** is a robotics startup that develops remote controlled robots to replace astronaut’s operations in commercial space stations. The company aims to replace astronauts with robots that can work for a long time while being remotely controlled from Earth while in low Earth orbit space stations to decrease the burden on astronauts, shorten the time it takes to perform work in space, & reduce costs. Founded in July 2016.
 

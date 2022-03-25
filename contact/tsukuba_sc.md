@@ -1,7 +1,7 @@
 # Tsukuba Space Center
 > 2020.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/j/jaxa_logo1_thumb.webp)](../f/contact/j/jaxa_logo1.png)|<mark>noemail</mark>, +81-29-868-5000, Fax: …;<br> *2-1-1 Sengen, Tsukuba-shi, Ibaraki 305-8505, Japan*<br> 【<https://global.jaxa.jp/about/centers/tksc/index.html>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Tsukuba_Space_Center)】|
+|[![](../f/contact/j/jaxa_logo1_thumb.webp)](../f/contact/j/jaxa_logo1.webp)|<mark>noemail</mark>, +81-29-868-5000, Fax: …;<br> *2-1-1 Sengen, Tsukuba-shi, Ibaraki 305-8505, Japan*<br> 【<https://global.jaxa.jp/about/centers/tksc/index.html>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Tsukuba_Space_Center)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

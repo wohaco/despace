@@ -1,7 +1,7 @@
 # ИЦ Келдыша
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/i/ic_keldysh_logo1_thumb.webp)](../f/contact/i/ic_keldysh_logo1.png)|<kerc@elnet.msk.ru>, <kerc@comcor.ru>, +7(495)456-46-08, Fax: +7(495)456-82-28;<br> *Россия, 125438, Россия, Москва, ул. Онежская, д. 8*<br> 【<http://kerc.msk.ru/>】|
+|[![](../f/contact/i/ic_keldysh_logo1_thumb.webp)](../f/contact/i/ic_keldysh_logo1.webp)|<kerc@elnet.msk.ru>, <kerc@comcor.ru>, +7(495)456-46-08, Fax: +7(495)456-82-28;<br> *Россия, 125438, Россия, Москва, ул. Онежская, д. 8*<br> 【<http://kerc.msk.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

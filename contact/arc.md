@@ -1,7 +1,7 @@
 # ARC
 > 2019.08.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/arc_logo1_thumb.webp)](../f/contact/a/arc_logo1.png)|<arc-publicinquiries@mail.nasa.gov>, +1(650)604-5000, Fax: …;<br> *Public Affairs Office, NASA Ames Research Center, Mail Stop 204-14, Moffett Field, CA, 94035-0001, USA*<br> 【<https://www.nasa.gov/ames>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Ames_Research_Center)】|
+|[![](../f/contact/a/arc_logo1_thumb.webp)](../f/contact/a/arc_logo1.webp)|<arc-publicinquiries@mail.nasa.gov>, +1(650)604-5000, Fax: …;<br> *Public Affairs Office, NASA Ames Research Center, Mail Stop 204-14, Moffett Field, CA, 94035-0001, USA*<br> 【<https://www.nasa.gov/ames>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Ames_Research_Center)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

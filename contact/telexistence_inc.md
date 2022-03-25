@@ -1,7 +1,7 @@
 # Telexistence Inc.
 > 2021.10.21 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/t/telexistence_inc_logo1_thumb.webp)](../f/contact/t/telexistence_inc_logo1.png)|<info@tx-inc.com>, +81(3)6427-4001, Fax: … ;<br> *Cross Dock Harumi 1st Floor, 4-7-4 Harumi, Chuo-ku, Tokyo, 104-0053, Japan*<br> 【<https://tx-inc.com/> ・ [Facebook ⎆](https://www.facebook.com/telexistence) ・ [LinkedIn ⎆](https://www.linkedin.com/company/telexistenceinc/) ・ [Twitter ⎆](https://twitter.com/telexistenceinc)】|
+|[![](../f/contact/t/telexistence_inc_logo1_thumb.webp)](../f/contact/t/telexistence_inc_logo1.webp)|<info@tx-inc.com>, +81(3)6427-4001, Fax: … ;<br> *Cross Dock Harumi 1st Floor, 4-7-4 Harumi, Chuo-ku, Tokyo, 104-0053, Japan*<br> 【<https://tx-inc.com/> ・ [Facebook ⎆](https://www.facebook.com/telexistence) ・ [LinkedIn ⎆](https://www.linkedin.com/company/telexistenceinc/) ・ [Twitter ⎆](https://twitter.com/telexistenceinc)】|
 |:--|:--|
 |**Mission**|To create the world where every single person on every planet will benefit from the robotic revolution|
 |**Vision**|Grasping every object with our hands, from anywhere|

@@ -27,7 +27,7 @@
       1. сход с галоорбиты в сторону Луны — 7 суток;
    1. Перелёт L2-Луна — 11 суток.
 
-[![](f/nav/solar_system_subway_map_thumb.png)](f/nav/solar_system_subway_map.webp)
+[![](f/nav/solar_system_subway_map_thumb.webp)](f/nav/solar_system_subway_map.webp)
 
 
 
@@ -54,7 +54,7 @@
 |**К:**|Квази‑геостационарная орбита (КГО)|
 |**Н:**|Низкая опорная орбита (НОО)|
 |**С:**|Синхронная орбита (СО) ┊ Солнечно‑синхронная орбита (ССО)|
-| |[![](f/nav/orbit_001.png)|
+| |[![](f/nav/orbit_001.webp)|
 
 
 
@@ -84,7 +84,7 @@
 
 | |
 |:--|
-|![](f/nav/orbit_002.png)|
+|![](f/nav/orbit_002.webp)|
 |Плоскости орбиты и эклиптики с надписанным восходящим узлом орбиты, нисходящий узел орбиты — дальняя точка пересечения этих плоскостей.|
 
 Условной плоскостью здесь в большинстве случаев является эклиптика, реже небесный экватор. Относительно избранной плоскости в обоих случаях определяются и небесные полушария. Иногда саму эклиптику, то есть годовой путь Солнца по небесной сфере, фактически являющийся проекцией орбиты самой Земли, рассматривают в отношении небесного экватора, в этом смысле иногда называют точку весеннего равноденствия «восходящим узлом эклиптики», а осеннего — «заходящим».
@@ -110,7 +110,7 @@
 
 | |
 |:--|
-|![](f/nav/orbit_heliocentric_trans-mars_injection.png)|
+|![](f/nav/orbit_heliocentric_trans-mars_injection.webp)|
 |Trans-Mars injection diagram.<br> A = Hohmann transfer orbit.<br> B = Conjunction mission.<br> C = Opposition mission|
 
 A **trans-Mars injection (TMI)** is a heliocentric orbit in which a propulsive maneuver is used to set a spacecraft on a trajectory, also known as Mars transfer orbit, which will cause it to arrive at Mars.
@@ -126,7 +126,7 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 | |
 |:--|
-|![](f/nav/orbit_orbit-nasa_molniya_oblique.png)|
+|![](f/nav/orbit_orbit-nasa_molniya_oblique.webp)|
 |Типичная орбита КА «Молния». Красными точками отмечено<br> время движения спутника по орбите в часах|
 
 **Предназначение.**
@@ -163,19 +163,19 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 ### Гелиоцентрическая орбита
 **Гелиоцентрическая орбита**, англ. **heliocentric orbit или circumsolar orbit** — эллиптическая траектория движения небесного тела вокруг [Солнца](солнца.md). Один из двух фокусов эллипса, по которому движется небесное тело, совпадает с центром Солнца.
 
-![](f/nav/orbit_heliocentric_orbit.jpg)
+![](f/nav/orbit_heliocentric_orbit.webp)
 
 При движении небесного тела под действием силы притяжения звезды его полная энергия E и момент импульса L относительно этой звезды сохраняются:
 
-![](f/nav/eq_01.png)
+![](f/nav/eq_01.webp)
 
 где v — скорость тела, r — радиус‑вектор, проведённый из центра звезды к телу, M — масса звезды, m — масса небесного тела. В полярной системе координат эти уравнения имеют вид:
 
-![](f/nav/eq_02.png)
+![](f/nav/eq_02.webp)
 
 где использованы следующие представления для скорости и момента импульса:
 
-![](f/nav/eq_03.png)
+![](f/nav/eq_03.webp)
 
 
 
@@ -211,7 +211,7 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 У всех геосинхронных орбит (как у круговых, так и у эллиптических) большая полуось равна 42 164 км. Для любого орбитального периода P размер большой полуоси a вычисляется по формуле:
 
-![](f/nav/eq_04.png)
+![](f/nav/eq_04.webp)
 
 где μ = G·M — Геоцентрическая гравитационная постоянная (англ.), равная 398 600,4418 ㎞³/с², произведение массы Земли на гравитационную постоянную.
 
@@ -271,7 +271,7 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 ### Геоцентрическая орбита
 **Геоцентрическая орбита** — траектория движения небесного тела по эллиптической траектории вокруг Земли. Один из двух фокусов эллипса, по которому движется небесное тело, совпадает с Землёй. Для того, чтобы космический корабль оказался на этой орбите, ему необходимо сообщить скорость, которая меньше второй космической скорости, но не меньше чем первая космическая скорость.
 
-![](f/nav/orbit_geocentr-wikipedia.jpg)
+![](f/nav/orbit_geocentr-wikipedia.webp)
 
 
 
@@ -290,7 +290,7 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 |*Пример траектории от Земли к орбите Лиссажу вокруг точки Лагранжа L2 в системе Солнце‑Земля. На нижней части иллюстрации, представляющей вид сбоку, Земля и Луна убраны для лучшего обзора траектории.*|
 |:--|
-|![](f/nav/lissajous_orbit_l2_01.jpg)|
+|![](f/nav/lissajous_orbit_l2_01.webp)|
 |···|
 |**SC WMAP, Oblique view**|
 |![](f/nav/lissajous_orbit_l2_02.gif)|
@@ -312,7 +312,7 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 | |
 |:--|
-|![](f/nav/orbit_orbit-nasa_molniya_oblique.png)|
+|![](f/nav/orbit_orbit-nasa_molniya_oblique.webp)|
 |Типичная орбита КА «Молния». Красными точками отмечено<br> время движения спутника по орбите в часах|
 
 **Особенности орбиты.**
@@ -405,7 +405,7 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 
 Такие орбиты используется, в частности, компанией «Sirius XM Radio» (система «Sirius XM» из трёх КА) и японской навигационной системой QZSS.
 
-![](f/nav/orbit_qzss-45-0.09.jpg)
+![](f/nav/orbit_qzss-45-0.09.webp)
 
 
 

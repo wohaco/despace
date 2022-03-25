@@ -34,7 +34,7 @@ Two common albedos that are used in astronomy are the (V‑band) geometric albed
 |[Neptune](neptune.md)|0.41|0.29|
 |[Pluto](pluto.md)|0.6|0.5|
 
-![](f/aob/universe/albedo_e_hg.png)
+![](f/aob/universe/albedo_e_hg.webp)
 
 
 

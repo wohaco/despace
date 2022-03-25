@@ -1,7 +1,7 @@
 # GS Yuasa
 > 2020.07.21 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/g/gs_yuasa_logo1_thumb.png)](../f/contact/g/gs_yuasa_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *〒601-8520 Kyōto-fu, Kyōto-shi, Minami-ku, Kisshōin Nishinoshō Inobabachō, Kyōto, 601 8520, Japan*<br> 【<https://www.gs-yuasa.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/gs-yuasa/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/GS_Yuasa)】|
+|[![](../f/contact/g/gs_yuasa_logo1_thumb.webp)](../f/contact/g/gs_yuasa_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *〒601-8520 Kyōto-fu, Kyōto-shi, Minami-ku, Kisshōin Nishinoshō Inobabachō, Kyōto, 601 8520, Japan*<br> 【<https://www.gs-yuasa.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/gs-yuasa/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/GS_Yuasa)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

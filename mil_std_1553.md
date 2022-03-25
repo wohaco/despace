@@ -20,7 +20,7 @@
 |Physical Media|wire pair|
 |Voltage Levels|18 ‑ 27 V across the transmitter stub (~6.36 ‑ 9.54 V peak‑to‑peak driven on to the bus)|
 
-[![](f/cable/mil_std_1553_1_thumb.webp)](f/cable/mil_std_1553_1.jpg)
+[![](f/cable/mil_std_1553_1_thumb.webp)](f/cable/mil_std_1553_1.webp)
 
 **Revisions.** The standard is maintained by the US Dept. of Defense & the Society of Automotive Engineers.
 
@@ -36,7 +36,7 @@ A MIL-STD-1553 multiplex data bus system consists of a Bus Controller (BC) contr
 
 **Connectors**  
 The standard does not specify the connector types or how they should be wired, other than shielding requirements, etc. In lab environments concentric twinax bayonet style connectors are commonly used. These connectors are available in standard (BNC size), miniature & sub‑miniature sizes. In military aircraft implementations, MIL-DTL-5015 & MIL-DTL-38999 circular connectors are generally used.  
-[![](f/cable/mil_std_1553_1_thumb2.jpg)](f/sps/mil_std_1553_1.jpg)
+[![](f/cable/mil_std_1553_1_thumb2.webp)](f/sps/mil_std_1553_1.webp)
 
 
 ## (RU) МКО

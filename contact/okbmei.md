@@ -1,7 +1,7 @@
 # ОКБ МЭИ
 > 2019.08.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/o/okb_mei_logo1_thumb.png)](../f/contact/o/okb_mei_logo1.png)|<secretary@okbmei.ru>, +7(499)271-61-80, Fax: +7(495)362-55-76;<br> *Россия, Москва, ул. Красноказарменная, д. 14*<br> 【<http://www.okbmei.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Особое_конструкторское_бюро_МЭИ)】|
+|[![](../f/contact/o/okb_mei_logo1_thumb.webp)](../f/contact/o/okb_mei_logo1.webp)|<secretary@okbmei.ru>, +7(499)271-61-80, Fax: +7(495)362-55-76;<br> *Россия, Москва, ул. Красноказарменная, д. 14*<br> 【<http://www.okbmei.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Особое_конструкторское_бюро_МЭИ)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -27,7 +27,7 @@ However, ensuring a required lift-to-drag ratio means that the lander mass incre
 
 **Table 1** presents the comparative characteristics of various lander types.
 
-|Comparative parameters and criteria estimates|Lander type I: Ballistic landers<br>![ballisticlanders](f/project/m/mevc/ballisticlanders.jpg)|Lander type II: «Gliding descent»<br>![glidingdescent](f/project/m/mevc/glidingdescent.jpg)|Lander type III: «Lifting body»<br>![liftingbody](f/project/m/mevc/liftingbody.jpg)|
+|Comparative parameters and criteria estimates|Lander type I: Ballistic landers<br>![ballisticlanders](f/project/m/mevc/ballisticlanders.webp)|Lander type II: «Gliding descent»<br>![glidingdescent](f/project/m/mevc/glidingdescent.webp)|Lander type III: «Lifting body»<br>![liftingbody](f/project/m/mevc/liftingbody.webp)|
 |:--|:--|:--|:--|
 |Lift-to-drag ratio for hypersonic velocity (M > 6)|0|0.15 … 0.5|0.8 … 1.5|
 |Volume efficiency (fill factor)|1 … 0.85|0.95 … 0.75|0.75 … 0.6|
@@ -44,7 +44,7 @@ The aerodynamic characteristics of the lander are calculated using a numerical m
 
 The analysis considers the «lifting body» lander type shown below.
 
-|![mevc](f/project/m/mevc/mevc.jpg)|
+|![mevc](f/project/m/mevc/mevc.webp)|
 |:--|
 |*Layout and general dimension of the «lifting body» type of a lander.*|
 

@@ -92,7 +92,7 @@
 
 **Кубсат, CubeSat**, также **вошь**, **горох** — формат малых (сверхмалых) искусственных спутников, имеющих объём 1 литр и массу не более 1.33 ㎏ или несколько (кратно) более. Имеется ещё более малый формат покетсат (буквально карманный) в несколько сотен или десятков грамм и несколько сантиметров.
 
-![](f/scs/cubesat-ncube2.jpg)
+![](f/scs/cubesat-ncube2.webp)
 
 **Кубсат** — спутник размером 10×10×10 ㎝ (1U) и массой не более 1.33 ㎏. Допускается объединение 2 или 3 стандартных кубов в составе одного спутника (обозначаются 2U и 3U и имеют размер 10×10×20 или 10×10×30 ㎝).
 
@@ -217,7 +217,7 @@ A fundamental difference between HTS satellites is the fact that certain HTS are
 Industry analysts at Northern Sky Research believe that high-throughput satellites will supply at least 1.34 TB/s of capacity by 2020 and thus will be a driving power for the global satellite backhaul market which is expected to triple in value – jumping from the 2012 annual revenue of about US $ 800 million to $ 2.3 billion by 2021.
 
 【**Рисунок.** KA-SAT coverage over Europe showing frequency reuse by different colors】  
-![](f/scs/hts_spot_beams_coverage.jpg)
+![](f/scs/hts_spot_beams_coverage.webp)
 
 
 

@@ -16,7 +16,7 @@
 
 | | |
 |:--|:--|
-|[![](f/sgm/kreuzkopf-01_thumb.webp)](f/sgm/kreuzkopf-01.jpg)|[![](f/sgm/kreuzkopf-02_thumb.webp)](f/sgm/kreuzkopf-02.jpg)|
+|[![](f/sgm/kreuzkopf-01_thumb.webp)](f/sgm/kreuzkopf-01.webp)|[![](f/sgm/kreuzkopf-02_thumb.webp)](f/sgm/kreuzkopf-02.webp)|
 
 
 

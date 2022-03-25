@@ -1,7 +1,7 @@
 # Главкосмос
 > 2019.08.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/g/glavkosmos_logo1_thumb.webp)](../f/contact/g/glavkosmos_logo1.png)|<mail@glavkosmos.ru>, +7(499)972-43-69, Fax: +7(495)609-21-63;<br> *Россия, 127473, Москва, ул. Краснопролетарская, д. 9*<br> 【<http://www.glavkosmos.ru/>】|
+|[![](../f/contact/g/glavkosmos_logo1_thumb.webp)](../f/contact/g/glavkosmos_logo1.webp)|<mail@glavkosmos.ru>, +7(499)972-43-69, Fax: +7(495)609-21-63;<br> *Россия, 127473, Москва, ул. Краснопролетарская, д. 9*<br> 【<http://www.glavkosmos.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

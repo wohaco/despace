@@ -1,7 +1,7 @@
 # Macfab
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/m/macfab_logo1_thumb.webp)](../f/contact/m/macfab_logo1.png)|<sales@macfab.ca>, +1(905)238-12-10, Fax: …;<br> *Macfab Manufacturing, 330 Britannia Road East, Mississauga, Ontario L4Z 1X9, Canada*<br> 【<http://macfab.ca/>】|
+|[![](../f/contact/m/macfab_logo1_thumb.webp)](../f/contact/m/macfab_logo1.webp)|<sales@macfab.ca>, +1(905)238-12-10, Fax: …;<br> *Macfab Manufacturing, 330 Britannia Road East, Mississauga, Ontario L4Z 1X9, Canada*<br> 【<http://macfab.ca/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

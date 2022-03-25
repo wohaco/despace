@@ -10,7 +10,7 @@
 
 **Venera 1 (Венера‑1)**, also known as **Venera‑1VA No.2** and occasionally in the West as **Sputnik 8** was the first spacecraft to Venus, as part of the Soviet Union’s Venera programme. There were obtained some characteristics of the solar wind’s plasma near the Earth. Signal with SC was lost after 7 days of flight; theoretically SC fly by Venus at 100 000 ㎞ distance.
 
-[![](f/project/v/venera_1/pic01_thumb.webp)](f/project/v/venera_1/pic01.jpg)
+[![](f/project/v/venera_1/pic01_thumb.webp)](f/project/v/venera_1/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

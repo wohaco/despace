@@ -11,7 +11,7 @@
 
 **BepiColombo** is a joint mission of the European Space Agency and the Japan Aerospace Exploration Agency to the planet Mercury. The mission comprises two satellites launched together: the **Mercury Planetary Orbiter** (**MPO**) and ***Mio*** (**Mercury Magnetospheric Orbiter**, **MMO**).
 
-[![](f/project/b/bepicolombo/bepicolombo.png)](file/проекты/bepicolombo/bepicolombo.png)
+[![](f/project/b/bepicolombo/bepicolombo.webp)](file/проекты/bepicolombo/bepicolombo.webp)
 
 
 <p style="page-break-after:always"> </p>
@@ -167,7 +167,7 @@ Mio carries five groups of science instruments:
 
 <br>
 
-|[![](f/project/b/bepicolombo/mtm.jpg)](file/проекты/bepicolombo/mtm.jpg)|
+|[![](f/project/b/bepicolombo/mtm.webp)](file/проекты/bepicolombo/mtm.webp)|
 |:--|
 |***Mercury Transfer Module in The Large Space Simulator at ESTEC***|
 
@@ -179,7 +179,7 @@ The solar electric propulsion system has typically very high specific impulse an
 
 ### MPO
 
-|[![](f/project/b/bepicolombo/mpo.jpg)](f/project/b/bepicolombo/mpo.jpg)|
+|[![](f/project/b/bepicolombo/mpo.webp)](f/project/b/bepicolombo/mpo.webp)|
 |:--|
 |***Mercury Planetary Orbiter in ESTEC before stacking***|
 
@@ -191,7 +191,7 @@ A high‑temperature‑resistant 1.0 m diameter high‑gain antenna is mounted
 
 ### Mio
 
-|[![](f/project/b/bepicolombo/mio.jpg)](f/project/b/bepicolombo/mio.jpg)|
+|[![](f/project/b/bepicolombo/mio.webp)](f/project/b/bepicolombo/mio.webp)|
 |:--|
 |***Mio in ESTEC before stacking***|
 

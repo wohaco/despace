@@ -273,13 +273,13 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 
 |**Таблица.** Риски КК|
 |:--|
-|![](f/srrq/table_sample.png)|
+|![](f/srrq/table_sample.webp)|
 
 Рисунки.
 
 |*Общий вид*|*Методика определения В×П*|
 |:--|:--|
-|[![](f/srrq/risk_summary_sample_thumb.webp)](f/srrq/risk_summary_sample.png)|[![](f/srrq/risk_lxc_thumb.webp)](f/srrq/risk_lxc.png)|
+|[![](f/srrq/risk_summary_sample_thumb.webp)](f/srrq/risk_summary_sample.webp)|[![](f/srrq/risk_lxc_thumb.webp)](f/srrq/risk_lxc.webp)|
 
 
 

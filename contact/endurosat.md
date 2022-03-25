@@ -1,7 +1,7 @@
 # Endurosat
 > 2021.10.27 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/e/endurosat_logo1_thumb.png)](../f/contact/e/endurosat_logo1.png)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *16 Tundzha Str., Sofia, Bulgaria, 1606*<br> 【<https://www.endurosat.com/>・ [Facebook ⎆](https://www.facebook.com/EnduroSat)・ [Instagram ⎆](https://www.instagram.com/endurosat)・ [LinkedIn ⎆](https://www.linkedin.com/company/endurosat)・ [Twitter ⎆](https://twitter.com/endurosat)】|
+|[![](../f/contact/e/endurosat_logo1_thumb.webp)](../f/contact/e/endurosat_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *16 Tundzha Str., Sofia, Bulgaria, 1606*<br> 【<https://www.endurosat.com/>・ [Facebook ⎆](https://www.facebook.com/EnduroSat)・ [Instagram ⎆](https://www.instagram.com/endurosat)・ [LinkedIn ⎆](https://www.linkedin.com/company/endurosat)・ [Twitter ⎆](https://twitter.com/endurosat)】|
 |:--|:--|
 |**Mission**|Empower humans to connect & progress through space technology|
 |**Vision**|We believe that universal access to space will inherently improve human life|

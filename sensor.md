@@ -137,7 +137,7 @@
 
 |В космосе применяются<br> индукционные магнитометры.|Магнитометр КА [THEMIS](themis.md).|
 |:--|:--|
-|[![](f/sensor/lemi-120_thumb.webp)](f/sensor/lemi-120.jpg)|[![](f/sensor/search_coil_magnetometer_thumb.webp)](f/sensor/search_coil_magnetometer.jpg)|
+|[![](f/sensor/lemi-120_thumb.webp)](f/sensor/lemi-120.webp)|[![](f/sensor/search_coil_magnetometer_thumb.webp)](f/sensor/search_coil_magnetometer.webp)|
 
 **Разновидности**
 

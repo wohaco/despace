@@ -1,7 +1,7 @@
 # НИЦ «Планета»
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/n/nic_planeta_logo1_thumb.webp)](../f/contact/n/nic_planeta_logo1.png)|<asmus@planet.iitp.ru>, +7(499)252-37-17 (секретарь директора), Fax: +7(499)252-66-10;<br> *Россия, 123242, Москва, Большой Предтеченский пер., д. 7*<br> 【<http://planet.iitp.ru/index1.html>】|
+|[![](../f/contact/n/nic_planeta_logo1_thumb.webp)](../f/contact/n/nic_planeta_logo1.webp)|<asmus@planet.iitp.ru>, +7(499)252-37-17 (секретарь директора), Fax: +7(499)252-66-10;<br> *Россия, 123242, Москва, Большой Предтеченский пер., д. 7*<br> 【<http://planet.iitp.ru/index1.html>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

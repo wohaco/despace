@@ -1,7 +1,7 @@
 # СКБ КП ИКИ РАН
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/skb_kp_iki_ran_logo1_thumb.webp)](../f/contact/s/skb_kp_iki_ran_logo1.png)|<mark>noemail</mark>, +7(48435)2-17-48, Fax: +7(48435)2-17-88;<br> *Россия, 249810, Калужская обл., г. Таруса, ул. Горького, 33*<br> 【<http://skbkp.tarusa.ru/>】|
+|[![](../f/contact/s/skb_kp_iki_ran_logo1_thumb.webp)](../f/contact/s/skb_kp_iki_ran_logo1.webp)|<mark>noemail</mark>, +7(48435)2-17-48, Fax: +7(48435)2-17-88;<br> *Россия, 249810, Калужская обл., г. Таруса, ул. Горького, 33*<br> 【<http://skbkp.tarusa.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -1,7 +1,7 @@
 # Space One
 > 2020.07.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/space_one_co_logo1_thumb.webp)](../f/contact/s/space_one_co_logo1.png)|<info@space-one.co.jp>, +81-3-6777-3310, Fax: …;<br> *5-10 Shiba Koen 3-Chome, Minato-ku, Tokyo*<br> 【<https://www.space-one.co.jp/>】|
+|[![](../f/contact/s/space_one_co_logo1_thumb.webp)](../f/contact/s/space_one_co_logo1.webp)|<info@space-one.co.jp>, +81-3-6777-3310, Fax: …;<br> *5-10 Shiba Koen 3-Chome, Minato-ku, Tokyo*<br> 【<https://www.space-one.co.jp/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

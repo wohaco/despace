@@ -1,7 +1,7 @@
 # Yspace
 > 2020.07.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/y/yspace_logo1_thumb.webp)](../f/contact/y/yspace_logo1.png)|<team.ysapce.mars@gmail.com>, <mark>noworkphone</mark>, Fax: …;<br> *2 Chome−1−6 A-19-I, Sengen, Tsukuba, 〒305-0047 Ibaraki, Japan*<br> 【<https://yspace-llc.com/> ・ <https://www.facebook.com/TeamYspace/>】|
+|[![](../f/contact/y/yspace_logo1_thumb.webp)](../f/contact/y/yspace_logo1.webp)|<team.ysapce.mars@gmail.com>, <mark>noworkphone</mark>, Fax: …;<br> *2 Chome−1−6 A-19-I, Sengen, Tsukuba, 〒305-0047 Ibaraki, Japan*<br> 【<https://yspace-llc.com/> ・ <https://www.facebook.com/TeamYspace/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

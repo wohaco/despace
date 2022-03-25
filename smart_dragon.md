@@ -12,7 +12,7 @@
 |*Version*|*Description*|*Activity*|
 |:--|:--|:--|
 |Smart Dragon 1|Базовый вариант.|**Активен** (2019 ‑  …)|
-[![](f/lv/smart_dragon/jielong1_01_thumb.webp)](f/lv/smart_dragon/jielong1_01.jpg)
+[![](f/lv/smart_dragon/jielong1_01_thumb.webp)](f/lv/smart_dragon/jielong1_01.webp)
 
 
 
@@ -33,7 +33,7 @@
 |Разраб./изготов.|CASC group (Китай) / CASC group (Китай)|
 |Ступени|4|
 |[Fuel](ps.md)|[HTPB](ps.md)|
-| |[![](f/lv/smart_dragon/jielong1_01_thumb.webp)](f/lv/smart_dragon/jielong1_01.jpg) [![](f/lv/smart_dragon/jielong1_02_thumb.webp)](f/lv/smart_dragon/jielong1_02.jpg)|
+| |[![](f/lv/smart_dragon/jielong1_01_thumb.webp)](f/lv/smart_dragon/jielong1_01.webp) [![](f/lv/smart_dragon/jielong1_02_thumb.webp)](f/lv/smart_dragon/jielong1_02.webp)|
 
 **Выводимые массы.**
 

@@ -9,7 +9,7 @@
 
 **VERITAS (Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy)** is a proposed mission concept by NASA’s Jet Propulsion Laboratory (JPL) to map with high resolution the surface of planet Venus  ([EVN‑005](venus.md)).
 
-![](f/project/v/veritas/veritas.jpg)
+![](f/project/v/veritas/veritas.webp)
 
 
 |*Type*|*[Param.](si.md)*|

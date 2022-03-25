@@ -1,13 +1,13 @@
 # KARI
 > 2020.07.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/k/kari_logo1_thumb.webp)](../f/contact/k/kari_logo1.png)|<mark>noemail</mark>, 042-860-2114, Fax: …;<br> *KARI, 169-84, Gwahak-ro, Yusong-gu, Daejeon*<br> 【<http://www.kari.re.kr/>・ [LinkedIn ⎆](https://www.linkedin.com/company/kari/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute)】|
+|[![](../f/contact/k/kari_logo1_thumb.webp)](../f/contact/k/kari_logo1.webp)|<mark>noemail</mark>, +82-42-860-2114, Fax: +82-42-860-2004;<br> *KARI, 169-84, Gwahak-ro, Yusong-gu, Daejeon*<br> 【<http://www.kari.re.kr/>・ [Facebook ⎆](https://www.facebook.com/karipr)・ [Instagram ⎆](https://www.instagram.com/karistory_kari/)・ [LinkedIn ⎆](https://www.linkedin.com/company/kari/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|…|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・Administrator — Lee Sang-Ryool|
 
 The **Korea Aerospace Research Institute (KARI)** established 1989.10.10, is the aeronautics & space agency of South Korea.
 

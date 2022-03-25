@@ -1,7 +1,7 @@
 # Mitsui Bussan Aerospace Co., Ltd.
 > 2021.10.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/m/mitsui_bussan_as_logo1_thumb.webp)](../f/contact/m/mitsui_bussan_as_logo1.png)|<spacebiz@mb-aero.co.jp>, +81-3-4586-1915, Fax: 8-2, Marunouchi 1-Chome, Chiyoda-ku, Tekko Building 22F, Tokyo, 100-0005 - Japan;<br> *…*<br> 【<https://mba-space.com/en/>】|
+|[![](../f/contact/m/mitsui_bussan_as_logo1_thumb.webp)](../f/contact/m/mitsui_bussan_as_logo1.webp)|<spacebiz@mb-aero.co.jp>, +81-3-4586-1915, Fax: 8-2, Marunouchi 1-Chome, Chiyoda-ku, Tekko Building 22F, Tokyo, 100-0005 - Japan;<br> *…*<br> 【<https://mba-space.com/en/>】|
 |:--|:--|
 |**Mission**|We will support the realization of a safe & prosperous society by contributing to the common good through our work in the field of aerospace.|
 |**Vision**|As part of the Mitsui & Co., Ltd. Group, we aim to become a solution provider respected & trusted by both our domestic & international customers, adhering strictly to the standards of society.|

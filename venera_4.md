@@ -8,7 +8,7 @@
 
 **Venera 4** (**Венера-4**) was a spacecraft in the Soviet Venera program for the exploration of Venus. The first spacecraft that entered the atmosphere of Venus and transmitted data on the structure of the atmosphere (pressure and temperature) at altitudes of 55 — 25 ㎞, the composition of the atmosphere (90 — 95 % СО₂), detected the hydrogen corona of Venus, did not detect its own magnetic field and radiation belts.
 
-[![](f/project/v/venera_4/pic01_thumb.webp)](f/project/v/venera_4/pic01.jpg) [![](f/project/v/venera_4/pic02_thumb.webp)](f/project/v/venera_4/pic02.jpg)
+[![](f/project/v/venera_4/pic01_thumb.webp)](f/project/v/venera_4/pic01.webp) [![](f/project/v/venera_4/pic02_thumb.webp)](f/project/v/venera_4/pic02.webp)
 
 <p style="page-break-after:always"> </p>
 

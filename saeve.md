@@ -98,7 +98,7 @@ Each SAEVe lander will have a mass of approximately 25 ㎏ (~40 ㎏ together
 
 ***SAEVe lander concept with subset of instruments and basic dimensions:***
 
-![saeve](f/project/s/saeve/saeve.jpg)
+![saeve](f/project/s/saeve/saeve.webp)
 
 
 SAEVe has the highest priority in expanding the Venus-D mission after the first LLISSE.

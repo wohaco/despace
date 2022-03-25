@@ -13,7 +13,7 @@
 
 ## Описание
 
-![](f/doc/sistema_menedjmenta_kachestva_01.png)
+![](f/doc/sistema_menedjmenta_kachestva_01.webp)
 
 
 

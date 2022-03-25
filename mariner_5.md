@@ -9,7 +9,7 @@
 
 **Mariner 5 (Mariner Venus 1967)** was a spacecraft of the Mariner program that carried a complement of experiments to probe Venus’s atmosphere by radio occultation, measure the hydrogen Lyman‑alpha (hard ultraviolet) spectrum, and sample the solar particles and magnetic field fluctuations above the planet.
 
-[![](f/project/m/mariner_5/pic01_thumb.webp)](f/project/m/mariner_5/pic01.jpg)
+[![](f/project/m/mariner_5/pic01_thumb.webp)](f/project/m/mariner_5/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

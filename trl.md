@@ -91,9 +91,9 @@ Current TRL models tend to disregard negative & obsolescence factors. There have
 
 
 ## Pics
-![](f/trl/trl_pic1.jpg)
+![](f/trl/trl_pic1.webp)
 
-![](f/trl/trl_pic2.png)
+![](f/trl/trl_pic2.webp)
 
 
 

@@ -17,7 +17,7 @@
 
 | |
 |:--|
-|[![](f/project/a/ais/rotating_wheel_space_station_pic1_thumb.webp)](f/project/a/ais/rotating_wheel_space_station_pic1.png)|
+|[![](f/project/a/ais/rotating_wheel_space_station_pic1_thumb.webp)](f/project/a/ais/rotating_wheel_space_station_pic1.webp)|
 
 
 

@@ -15,7 +15,7 @@ The left side of the “V” represents the decomposition of requirements, & cre
 
 Validation can be expressed by the query “Are you building the right thing?” & verification by “Are you building it right?”
 
-![](f/control/v_model_01.png)
+![](f/control/v_model_01.webp)
 
 There are three general types of V‑model.
 
@@ -23,9 +23,9 @@ There are three general types of V‑model.
    1. **General testing.** Throughout the testing community worldwide, the V‑model is widely seen as a vaguer illustrative depiction of the software development process as described in the International Software Testing Qualifications Board Foundation Syllabus for software testers. There is no single definition of this model, which is more directly covered in the alternative article on the V‑model (software development).
    1. **US government standard.** The US also has a government standard V‑model which dates back about 20 years like its German counterpart. Its scope is a narrower systems development lifecycle model, but far more detailed & more rigorous than most UK practitioners & testers would understand by the V‑model.
 
-![](f/control/v_model_02.png)
+![](f/control/v_model_02.webp)
 
-![](f/control/v_model_03.png)
+![](f/control/v_model_03.webp)
 
 
 ## Objectives, Validation vs. verification
@@ -88,7 +88,7 @@ The process emphasizes requirements‑driven design & testing. All design elemen
 
 Применительно к разработке информационных систем V‑model — вариация каскадной модели, в которой задачи разработки идут сверху вниз по левой стороне буквы V, а задачи тестирования — вверх по правой стороне буквы V. Внутри V проводятся горизонтальные линии, показывающие, как результаты каждой из фаз разработки влияют на развитие системы тестирования на каждой из фаз тестирования. Модель базируется на том, что приёмо‑сдаточные испытания основываются, прежде всего, на требованиях, системное тестирование — на требованиях и архитектуре, комплексное тестирование — на требованиях, архитектуре и интерфейсах, а компонентное тестирование — на требованиях, архитектуре, интерфейсах и алгоритмах.
 
-![](f/control/v_model_01ru.png)
+![](f/control/v_model_01ru.webp)
 
 **Цели.**  
 V‑модель обеспечивает поддержку в планировании и реализации проекта. В ходе проекта ставятся следующие задачи:

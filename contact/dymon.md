@@ -1,7 +1,7 @@
 # Dymon
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/d/dymon_logo1_thumb.png)](../f/contact/d/dymon_logo1.png)|<info@dymon.co.jp>, +81(4)8482-8339, Fax: … ;<br> *4-10-20 Omori-minami, Ota-ku, Tokyo, 143-0013, Japan*<br> 【<http://dymon.co.jp/>・ [Facebook ⎆](https://www.facebook.com/dymon.co.jp/)・ [Instagram ⎆](https://www.instagram.com/yaoki_space/)・ [Twitter ⎆](https://twitter.com/yaoki_space)】|
+|[![](../f/contact/d/dymon_logo1_thumb.webp)](../f/contact/d/dymon_logo1.webp)|<info@dymon.co.jp>, +81(4)8482-8339, Fax: … ;<br> *4-10-20 Omori-minami, Ota-ku, Tokyo, 143-0013, Japan*<br> 【<http://dymon.co.jp/>・ [Facebook ⎆](https://www.facebook.com/dymon.co.jp/)・ [Instagram ⎆](https://www.instagram.com/yaoki_space/)・ [Twitter ⎆](https://twitter.com/yaoki_space)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|Ultimate mobility development that runs the Moon|

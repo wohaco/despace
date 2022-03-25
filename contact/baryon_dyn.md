@@ -1,7 +1,7 @@
 # Baryon Dynamics
 > 2020.06.28 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/b/baryon_dynamics_logo1_thumb.png)](../f/contact/b/baryon_dynamics_logo1.png)|<info@baryondynamics.com>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<https://www.baryondynamics.com/>】|
+|[![](../f/contact/b/baryon_dynamics_logo1_thumb.webp)](../f/contact/b/baryon_dynamics_logo1.webp)|<info@baryondynamics.com>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<https://www.baryondynamics.com/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

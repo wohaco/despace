@@ -9,7 +9,7 @@
 
 **DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging)** is a proposed mission concept for an atmospheric probe to Venus. 
 
-![](f/project/d/davinci/davinci.jpg)
+![](f/project/d/davinci/davinci.webp)
 
 <p style="page-break-after:always"> </p>
 

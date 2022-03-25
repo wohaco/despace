@@ -1,7 +1,7 @@
 # МАИ
 > 2019.08.11 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/m/mai_logo1_thumb.webp)](../f/contact/m/mai_logo1.png)|<mai@mai.ru>, +7(499)158-43-33, Fax: +7(499)158-29-77;<br> *Волоколамское шоссе, д. 4, г. Москва, 125993, Россия*<br> 【<https://mai.ru/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Moscow_Aviation_Institute)】|
+|[![](../f/contact/m/mai_logo1_thumb.webp)](../f/contact/m/mai_logo1.webp)|<mai@mai.ru>, +7(499)158-43-33, Fax: +7(499)158-29-77;<br> *Волоколамское шоссе, д. 4, г. Москва, 125993, Россия*<br> 【<https://mai.ru/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Moscow_Aviation_Institute)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

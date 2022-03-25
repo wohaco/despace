@@ -1,7 +1,7 @@
 # Shoal
 > 2022.01.21 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/shoal_logo1_thumb.webp)](../f/contact/s/shoal_logo1.png)|<support@shoalgroup.com>, +61(2)6239-4288, Fax: … ;<br> *Ground Floor, 309 Angas St, Adelaide, South Australia, 5000*<br> 【<https://www.shoalgroup.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/shoal-group-pty-ltd)】|
+|[![](../f/contact/s/shoal_logo1_thumb.webp)](../f/contact/s/shoal_logo1.webp)|<support@shoalgroup.com>, +61(2)6239-4288, Fax: … ;<br> *Ground Floor, 309 Angas St, Adelaide, South Australia, 5000*<br> 【<https://www.shoalgroup.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/shoal-group-pty-ltd)】|
 |:--|:--|
 |**Mission**|Making sense of a complex & changing world|
 |**Vision**|To become an iconic company in systems thinking|

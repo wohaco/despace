@@ -18,7 +18,7 @@ Created by [Mark Adler](person.md), [JPL](contact/jpl.md). Inspired by [TRL](trl
    1. understand how much future work a system concept will require to get to a subsequent level of maturity;
    1. have the information needed to determine when a proposed project’s system concept is mature enough to proceed to the next stage of system development.
 
-![](f/control/cml_pic01.jpg)
+![](f/control/cml_pic01.webp)
 
 
 
@@ -37,14 +37,14 @@ Created by [Mark Adler](person.md), [JPL](contact/jpl.md). Inspired by [TRL](trl
 |7|**Preliminary Implementation Baseline**<br> (Начальная реализация концепта)| | |+|
 |8|**Project Baseline**<br> (Начало проекта)| | |+|
 
-[![](f/control/cml_pic03_thumb.webp)](f/control/cml_pic01.jpg)
+[![](f/control/cml_pic03_thumb.webp)](f/control/cml_pic01.webp)
 
 
 
 <p style="page-break-after:always"> </p>
 
 ## Расширенный метод (9 уровней)
-![](f/control/cml_pic02.jpg)
+![](f/control/cml_pic02.webp)
 
    1. **Cocktail Napkin, Idea Generation, Overview & Advocacy.** Used to launch a new concept. In the overview, the problem (or opportunity) is defined, communicating why this project is worthwhile. The essence of what makes the concept unique & meaningful is clearly stated. The project vision & «Need» statement is defined showing the top level reason for developing the system & providing a focus for the team. The overview lays out a broad outline of the intention of the project, high level benefits, overall advantages, but provides limited details of cost, schedule, or other programmatic or design information. Think of the overview as the «30 second» [elevator speech](elevator_pitch.md) addressing what the problem being solved or opportunity being pursued, is & what the Need is — in other words, the desired end result at the end of the project once the system is operational.<br> From an advocacy viewpoint, information needed to sell the idea is documented. Key stakeholders are identified, the benefits, advantages, & ROI that result from pursuing this concept are defined for the stakeholders & for the organization. Needed capabilities are defined in terms of people, process, & products along with what needs to be done to provide these capabilities. A rudimentary «back of the napkin» sketch of the system concept is developed.<br> The advocacy perspective expands on the overview, going into more detail as to both what needs to be done to meet the Need & how management will know if the project is successful. Preliminary goals & objectives are defined including preliminary measures of effectiveness (MOEs) & Key Performance Parameters (KPPs) including preliminary key figures of merit concerning safety, reliability, sustainability, affordability, extensibility/evolvability, agility/robustness, effectiveness, & innovation.<br> Assumptions are documented & system level drivers & constraints are identified including cost, schedule, standards, regulations, technology, resource availability, interaction with existing systems, & higher level requirements allocated to the system of interest.
    2. **Initial Feasibility.** The system concept is expanded & assessed on the basis of feasibility (cost, schedule, technology) from ROI, technical, & programmatic viewpoints. Preliminary system life‑cycle concepts are documented including concepts for development, procurement, system verification, system validation, manufacturing, transportation, deployment, operations, maintenance, upgrades, & disposal. Enabling systems required during development & operations are identified.<br> The system concept is expanded to address how the proposed system will fit within the macro system of which it is a part. A preliminary functional architecture of the macro system & system of interest is developed. How the systems that make up the macro system are related (connectivity, interaction, & flow of information) to each other & to the system of interest is defined. External interfaces are identified. High‑level schedule, resource, & cost estimates are developed. Key risks are identified.<br> Outside influences the system needs to take into account are addressed. Need, Goals, & Objectives (NGOs), MOEs, & KPPs are refined based on the information gained at this level.

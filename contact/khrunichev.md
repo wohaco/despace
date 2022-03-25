@@ -1,7 +1,7 @@
 # ГКНПЦ Хруничева
 > 2019.08.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/g/khrunichev_logo1_thumb.webp)](../f/contact/g/khrunichev_logo1.png)|<proton@khrunichev.com>, +7(499)749-99-34, Fax: +7(499)142-59-00;<br> *Россия, 121087, Москва, ул. Новозаводская, д. 18*<br> 【<http://www.khrunichev.ru>・ <http://www.tsenki.com> — ЦЭНКИ・  [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Государственный_космический_научно‑производственный_центр_имени_М._В._Хруничева)】|
+|[![](../f/contact/g/khrunichev_logo1_thumb.webp)](../f/contact/g/khrunichev_logo1.webp)|<proton@khrunichev.com>, +7(499)749-99-34, Fax: +7(499)142-59-00;<br> *Россия, 121087, Москва, ул. Новозаводская, д. 18*<br> 【<http://www.khrunichev.ru>・ <http://www.tsenki.com> — ЦЭНКИ・  [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Государственный_космический_научно‑производственный_центр_имени_М._В._Хруничева)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

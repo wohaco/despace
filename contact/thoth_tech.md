@@ -1,7 +1,7 @@
 # Thoth Technology Inc.
 > 2021.07.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/t/thoth_tech_logo1_thumb.png)](../f/contact/t/thoth_tech_logo1.png)|<info@thothx.com>, +1(905)713-2884, Fax: …;<br> *Thoth Technology Inc., Algonquin Radio Observatory, Achray Rd, RR6, Pembroke, Ontario K8A 6W7, Canada*<br> 【<http://thothx.com/>・ [Facebook ⎆](https://www.facebook.com/thothtechnology)・ [LinkedIn ⎆](https://www.linkedin.com/company/thoth-technology-inc.)・ [Twitter ⎆](https://www.twitter.com/ThothTechnology)】|
+|[![](../f/contact/t/thoth_tech_logo1_thumb.webp)](../f/contact/t/thoth_tech_logo1.webp)|<info@thothx.com>, +1(905)713-2884, Fax: …;<br> *Thoth Technology Inc., Algonquin Radio Observatory, Achray Rd, RR6, Pembroke, Ontario K8A 6W7, Canada*<br> 【<http://thothx.com/>・ [Facebook ⎆](https://www.facebook.com/thothtechnology)・ [LinkedIn ⎆](https://www.linkedin.com/company/thoth-technology-inc.)・ [Twitter ⎆](https://www.twitter.com/ThothTechnology)】|
 |:--|:--|
 |**Mission**|Thoth Technology will advance knowledge through the provision of new business services & the application of innovative research. We conduct business in an ethical & professional manner to the benefit of customers, employees, shareholders, & society.|
 |**Vision**|…|

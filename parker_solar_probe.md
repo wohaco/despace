@@ -10,7 +10,7 @@
 **Parker Solar Probe** is a NASA robotic spacecraft launched in 2018, with the mission of repeatedly probing and making observations of the outer corona of the Sun. 
 
 
-[![](f/project/p/parkersolarprobe/parkersolarprobe.jpg)](f/project/p/parkersolarprobe/parkersolarprobe.jpg)
+[![](f/project/p/parkersolarprobe/parkersolarprobe.webp)](f/project/p/parkersolarprobe/parkersolarprobe.webp)
 
 <p style="page-break-after:always"> </p>
 

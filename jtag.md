@@ -17,7 +17,7 @@ The JTAG standards have been extended by many semiconductor chip manufacturers w
 JTAG boundary scan technology provides access to many logic signals of a complex integrated circuit, including the device pins. The signals are represented in the boundary scan register (BSR) accessible via the TAP. This permits testing as well as controlling the states of the signals for testing & debugging. Therefore, both software & hardware (manufacturing) faults may be located & an operating device may be monitored.  
 When combined with built‑in self‑test (BIST), the JTAG scan chain enables a low overhead, embedded solution to test an IC for certain static faults (shorts, opens, & logic errors). The scan chain mechanism does not generally help diagnose or test for timing, temperature or other dynamic operational errors that may occur. Test cases are often provided in standardized formats such as SVF, or its binary sibling XSVF, & used in production tests. The ability to perform such testing on finished boards is an essential part of Design For Test in today's products, increasing the number of faults that can be found before products ship to customers.
 
-![](f/cable/jtag_01.png)
+![](f/cable/jtag_01.webp)
 
 **Electrical characteristics.**  
 A JTAG interface is a special interface added to a chip. Depending on the version of JTAG, two, four, or five pins are added. The four & five pin interfaces are designed so that multiple chips on a board can have their JTAG lines daisy‑chained together if specific conditions are met. The two pin interface is designed so that multiple chips can be connected in a star topology. In either case a test probe need only connect to a single “JTAG port” to have access to all chips on a circuit board. The connector pins are:
@@ -46,7 +46,7 @@ Reduced pin count JTAG uses only two wires, a clock wire & a data wire. This is 
    - TMSC (Test Serial Data)
    - TCKC (Test Clock)
 
-![](f/cable/jtag_02.png)  
+![](f/cable/jtag_02.webp)  
 *Example of JTAG with reduced pin count.*
 
 

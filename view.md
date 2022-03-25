@@ -21,7 +21,7 @@
 
 |Клинические проявления|
 |:--|
-|![](f/explore/vision_001.png)|
+|![](f/explore/vision_001.webp)|
 
 
 

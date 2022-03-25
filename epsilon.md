@@ -14,7 +14,7 @@
 |Epsilon|Базовый вариант.|Экспл. завершена (2013 ‑ 2013)|
 |┕ Epsilon 2|Модификация.|**Активен** (2016 ‑ …)|
 
-[![](f/lv/epsilon/enhanced2_thumb.webp)](f/lv/epsilon/enhanced2.png)
+[![](f/lv/epsilon/enhanced2_thumb.webp)](f/lv/epsilon/enhanced2.webp)
 
 
 ---
@@ -34,7 +34,7 @@
 |Разраб./изготов.|[JAXA](contact/jaxa.md), [IHI](contact/ihi.md) (Япония) / [IHI](contact/ihi.md) (Япония)|
 |Ступени|3|
 |[Fuel](ps.md)|[HTPB](ps.md)|
-| |[![](f/lv/epsilon/epsilon2_01_thumb.webp)](f/lv/epsilon/epsilon2_01.jpg) [![](f/lv/epsilon/epsilon2_02_thumb.webp)](f/lv/epsilon/epsilon2_02.jpg)|
+| |[![](f/lv/epsilon/epsilon2_01_thumb.webp)](f/lv/epsilon/epsilon2_01.webp) [![](f/lv/epsilon/epsilon2_02_thumb.webp)](f/lv/epsilon/epsilon2_02.webp)|
 
 **Выводимые массы.**
 
@@ -63,7 +63,7 @@
 |Разраб./изготов.|[JAXA](contact/jaxa.md), [IHI](contact/ihi.md) (Япония) / [IHI](contact/ihi.md) (Япония)|
 |Ступени|3|
 |[Fuel](ps.md)|[HTPB](ps.md)|
-| |[![](f/lv/epsilon/epsilon1_01_thumb.webp)](f/lv/epsilon/epsilon1_01.jpg)|
+| |[![](f/lv/epsilon/epsilon1_01_thumb.webp)](f/lv/epsilon/epsilon1_01.webp)|
 
 **Выводимые массы.**
 

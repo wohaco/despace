@@ -39,7 +39,7 @@ A list of [Data storage](ds.md) units.
 |Capacity, Mbit (㎆)|1 048 576 (131 072)|
 |Cycles of rewrite| |
 |Inputs|4|
-| |[![](f/ds/s/sait_obmu_pic1_thumb.webp)](f/ds/s/sait_obmu_pic1.jpg)|
+| |[![](f/ds/s/sait_obmu_pic1_thumb.webp)](f/ds/s/sait_obmu_pic1.webp)|
 
 **Notes:**
 
@@ -77,7 +77,7 @@ A list of [Data storage](ds.md) units.
 |Capacity, Mbit (㎆)|262 144 (32 768)|
 |Cycles of rewrite| |
 |Inputs| |
-| |[![](f/ds/s/sirius_tcm_pic1_thumb.webp)](f/ds/s/sirius_tcm_pic1.jpg)|
+| |[![](f/ds/s/sirius_tcm_pic1_thumb.webp)](f/ds/s/sirius_tcm_pic1.webp)|
 
 **Notes:**
 
@@ -151,11 +151,11 @@ A list of [Data storage](ds.md) units.
 |Capacity, Mbit (㎆)|32 768 (4 096)|
 |Cycles of rewrite|100 000|
 |Inputs|до 32 — регистрации температурной информации с опросом до 100 Гц;<br> до 256 — регистрации параметров с опросом от 25 до 2 000 Гц;<br> увеличение частоты опроса до 32 000 Гц при соответствующем сокращении количества опрашиваемых входов|
-| |[![](f/ds/s/szi-m_pic1_thumb.webp)](f/ds/s/szi-m_pic1.png)|
+| |[![](f/ds/s/szi-m_pic1_thumb.webp)](f/ds/s/szi-m_pic1.webp)|
 
 **Notes:**
 
-   1. [Чертёж ❐](f/ds/s/szi-m_sketch1.png)
+   1. [Чертёж ❐](f/ds/s/szi-m_sketch1.webp)
    1. <http://www.npoit.ru/products/telemetricheskie-sistemy/sistema-zapominaniya-informatsii-szi-m>
    1. **Applicability:** …
 

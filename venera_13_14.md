@@ -10,7 +10,7 @@
 
 **Venera 13** and **Venera 14** were spacecraft in the Soviet Venera program for the exploration of Venus.
 
-![](f/project/v/venera_13_14/pic01.jpg)
+![](f/project/v/venera_13_14/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -236,11 +236,11 @@ Orbiter payload mass: 92 ㎏.
 
 Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, x‑ray spectrometer for aerosols, mass spectrometer and gas chromatograph were improved. The payload mass of the Lander:  100 ㎏.
 
-![](f/project/v/venera_13_14/pic06.jpg)
+![](f/project/v/venera_13_14/pic06.webp)
 
-![](f/project/v/venera_13_14/pic04.jpg)
+![](f/project/v/venera_13_14/pic04.webp)
 
-![](f/project/v/venera_13_14/pic05.jpg)
+![](f/project/v/venera_13_14/pic05.webp)
 
 
 
@@ -282,9 +282,9 @@ The descent lander was a hermetically-sealed pressure vessel, which contained mo
 
 The cameras were installed inside the airtight and thermally insulated compartment and a survey was carried out through a cylindrical window with a periscope system. The design of the covers covering the lenses of television cameras has been discard. 78 tests were conducted to verify their discharge. The soil sampling system was redesigned to eliminate problems encountered on [Venera 11 and Venera 12](venera_11_12.md). In particular, the soil should have been delivered into the chamber using the squib.
 
-![](f/project/v/venera_13_14/pic02.jpg)
+![](f/project/v/venera_13_14/pic02.webp)
 
-![](f/project/v/venera_13_14/pic03.jpg)
+![](f/project/v/venera_13_14/pic03.webp)
 
 
 

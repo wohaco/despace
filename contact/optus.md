@@ -1,7 +1,7 @@
 # Optus Satellite
 > 2021.11.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/o/optus_logo1_thumb.png)](../f/contact/o/optus_logo1.png)|<satellite@optus.com.au>, +61(2)8087-31-40, Fax: … ;<br> *…*<br> 【<https://www.optus.com.au/enterprise/networking/satellite>・ [Twitter ⎆](https://twitter.com/optusenterprise)]…)】|
+|[![](../f/contact/o/optus_logo1_thumb.webp)](../f/contact/o/optus_logo1.webp)|<satellite@optus.com.au>, +61(2)8087-31-40, Fax: … ;<br> *…*<br> 【<https://www.optus.com.au/enterprise/networking/satellite>・ [Twitter ⎆](https://twitter.com/optusenterprise)]…)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

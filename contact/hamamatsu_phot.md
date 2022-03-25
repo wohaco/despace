@@ -1,7 +1,7 @@
 # Hamamatsu Photonics
 > 2020.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/h/hamamatsu_phot_logo1_thumb.png)](../f/contact/h/hamamatsu_phot_logo1.png)|<mark>noemail</mark>, +81-53-962-5245, Fax: +81-53-962-2205;<br> *325-6, Sunayama-cho, Naka-ku, Hamamatsu City, Shizuoka, 430-8587, Japan*<br> 【<http://hamamatsu.com/>・ <https://aerospacebiz.jaxa.jp/en/partner/company/07/>・ [LinkedIn ⎆](https://www.linkedin.com/company/hamamatsu/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Hamamatsu_Photonics)】|
+|[![](../f/contact/h/hamamatsu_phot_logo1_thumb.webp)](../f/contact/h/hamamatsu_phot_logo1.webp)|<mark>noemail</mark>, +81-53-962-5245, Fax: +81-53-962-2205;<br> *325-6, Sunayama-cho, Naka-ku, Hamamatsu City, Shizuoka, 430-8587, Japan*<br> 【<http://hamamatsu.com/>・ <https://aerospacebiz.jaxa.jp/en/partner/company/07/>・ [LinkedIn ⎆](https://www.linkedin.com/company/hamamatsu/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Hamamatsu_Photonics)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

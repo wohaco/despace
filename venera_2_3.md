@@ -9,7 +9,7 @@
 
 **Venera 2** (**Венера-2**) and **Venera 3** (**Венера-3**) were a Soviet spacecrafts intended to explore [Venus](venus.md). A 3MV-4 spacecraft launched as part of the Venera programme, it failed to return data after flying past Venus. Venera 2 flew at a distance of 24 000 ㎞ from Venus, Venera 3, probably landed on Venus. In addition to data on space and near‑planet space in the year of the calm Sun, scientific data on Venus itself was not received.
 
-[![](f/project/v/venera_2_3/pic01_thumb.webp)](f/project/v/venera_2_3/pic01.jpg)
+[![](f/project/v/venera_2_3/pic01_thumb.webp)](f/project/v/venera_2_3/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

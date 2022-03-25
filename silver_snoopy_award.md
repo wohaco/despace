@@ -11,7 +11,7 @@ The **Silver Snoopy award** is a special honor awarded to [NASA](contact/nasa.md
 
 | | |
 |:--|:--|
-|![](f/aob/universe/silver_snoopy_award_tie_tack.jpg)|![](f/aob/universe/silver_snoopy_award_logo.jpg)|
+|![](f/aob/universe/silver_snoopy_award_tie_tack.webp)|![](f/aob/universe/silver_snoopy_award_logo.webp)|
 
 
 

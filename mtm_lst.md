@@ -40,7 +40,7 @@ A list of [Magnetometers](sensor.md).
 |Mag. field: measuring range, nT|± 200 000|—|—|± 200 000|
 |Mag. field: random deviation (noise), nT| ± 100|—|—|± 100|
 |Transmitted telemetry|<small>Проекции вектора магнитного поля, проекции вектора угловой скорости, температура каждого измерителя.</small>|<small>Проекции вектора магнитного поля, проекции вектора угловой скорости, температура каждого измерителя.</small>|<small>Проекции вектора магнитного поля, проекции вектора угловой скорости, температура каждого измерителя.</small>|<small>Проекции вектора магнитного поля, проекции вектора угловой скорости, температура каждого измерителя.</small>|
-|[![](f/sensor/s/sx_magwr_pic1_thumb.png)](f/sensor/s/sx_magwr_pic1.png)| | | | |
+|[![](f/sensor/s/sx_magwr_pic1_thumb.webp)](f/sensor/s/sx_magwr_pic1.webp)| | | | |
 
 **Notes:**
 

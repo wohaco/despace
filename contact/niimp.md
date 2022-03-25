@@ -1,7 +1,7 @@
 # НИИ Гуськова
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/n/nii_guskova_logo1_thumb.webp)](../f/contact/n/nii_guskova_logo1.png)|<info@niimp.ru>, +7(499)735-45-86, Fax: +7(499)735-44-66;<br> *Россия, 124460, Москва, ул. Конструктора Гуськова, д. 1, стр. 1*<br> 【<http://niimp.ru/>】|
+|[![](../f/contact/n/nii_guskova_logo1_thumb.webp)](../f/contact/n/nii_guskova_logo1.webp)|<info@niimp.ru>, +7(499)735-45-86, Fax: +7(499)735-44-66;<br> *Россия, 124460, Москва, ул. Конструктора Гуськова, д. 1, стр. 1*<br> 【<http://niimp.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

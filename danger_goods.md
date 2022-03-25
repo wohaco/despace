@@ -17,7 +17,7 @@
 
 **Таблица.** Норма для класса опасности по ГОСТ 12.1.007‑76
 
-|**Наименование показателя**|**Ⅳ** ![](f/safety/dangerous_goods_4.png)|**Ⅲ** ![](f/safety/dangerous_goods_3.png)|**Ⅱ** ![](f/safety/dangerous_goods_2.png)|**Ⅰ** ![](f/safety/dangerous_goods_1.png)|
+|**Наименование показателя**|**Ⅳ** ![](f/safety/dangerous_goods_4.webp)|**Ⅲ** ![](f/safety/dangerous_goods_3.webp)|**Ⅱ** ![](f/safety/dangerous_goods_2.webp)|**Ⅰ** ![](f/safety/dangerous_goods_1.webp)|
 |:--|:--|:--|:--|:--|
 |ПДК вредных веществ в воздухе рабочей зоны, мг/m³|более 10.0|1.1 ‑ 10.0|0.1 ‑ 1.0|менее 0.1|
 |Средняя смертельная доза (ЛД₅₀) при введении в желудок, мг/1 ㎏ массы тела|более 5 000|151 ‑ 5 000|15 ‑ 150|менее 15|

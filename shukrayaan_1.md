@@ -9,7 +9,7 @@
 
 **Shukrayaan-1** (शुक्रयान-१ or Venus craft) is a proposed orbiter to Venus by the Indian Space Research Organisation to study the surface and atmosphere of Venus.
 
-[![](f/project/s/shukrayaan_1/pic01_thumb.webp)](f/project/s/shukrayaan_1/pic01.jpg)
+[![](f/project/s/shukrayaan_1/pic01_thumb.webp)](f/project/s/shukrayaan_1/pic01.webp)
 
 <p style="page-break-after:always"> </p>
 

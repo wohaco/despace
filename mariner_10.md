@@ -171,7 +171,7 @@ The power subsystem used two redundant sets of circuitry, each containing a boos
 
 Thermal blankets & a sunshade were installed on the main body. After evaluating different choices for the sunshade cloth material, mission planners chose beta cloth, a combination of aluminized Kapton & glass-fiber sheets treated with Teflon.
 
-[![](f/project/m/mariner_10/pic02_thumb.webp)](f/project/m/mariner_10/pic02.jpg)
+[![](f/project/m/mariner_10/pic02_thumb.webp)](f/project/m/mariner_10/pic02.webp)
 
 
 

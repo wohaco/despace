@@ -7,7 +7,7 @@
 
 > <small>**Moon** — EN term. **Луна** — RU analogue.</small>
 
-**Moon** (astr. ☾ [❐](f/aob/moon/moon_symbol_svg.png), lat. *Luna*) is a natural satellite [of the Earth](earth.md). The closest satellite to the [Sun](sun.md) planet, since the planets closest to the Sun, [Mercury](mercury.md) & [Venus](venus.md), have no satellites. The second brightest object in the Earth’s firmament after the Sun & the fifth largest natural satellite of the planet [solar system](solar_system.md). The average distance between the centers of the Earth & the Moon is 384 467 ㎞ (~30 Earth diameters). Has huge reserves of [helium‑3](helium.md). Moon Symbols: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
+**Moon** (astr. ☾ [❐](f/aob/moon/moon_symbol_svg.webp), lat. *Luna*) is a natural satellite [of the Earth](earth.md). The closest satellite to the [Sun](sun.md) planet, since the planets closest to the Sun, [Mercury](mercury.md) & [Venus](venus.md), have no satellites. The second brightest object in the Earth’s firmament after the Sun & the fifth largest natural satellite of the planet [solar system](solar_system.md). The average distance between the centers of the Earth & the Moon is 384 467 ㎞ (~30 Earth diameters). Has huge reserves of [helium‑3](helium.md). Moon Symbols: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
 
 |*Moon*| | |*Map*|
 |:--|:--|:--|:--|
@@ -60,10 +60,10 @@
 ![](f/aob/moon/lunar_earth_signal.gif)  
 *Signal Earth → Moon.*
 
-[![](f/aob/moon/moov_v1_thumb.webp)](f/aob/moon/moov_v1.png)  
+[![](f/aob/moon/moov_v1_thumb.webp)](f/aob/moon/moov_v1.webp)  
 *Breaking velocity depending on the year (straight flight).*
 
-![](f/aob/moon/moon_rabbit_in_the_moon_standing_by_pot.png)
+![](f/aob/moon/moon_rabbit_in_the_moon_standing_by_pot.webp)
 
 The **moon rabbit** or **moon hare** is a mythical figure who lives on the Moon in Far Eastern folklore, based on pareidolia interpretations that identify the dark markings on the near side of the Moon as a rabbit or hare. The folklore originated in China & then spread to other Asian cultures. In East Asian folklore, the rabbit is seen as pounding with a mortar & pestle, but the contents of the mortar differ among Chinese, Japanese & Korean folklore. In Chinese folklore, the rabbit often is portrayed as a companion of the Moon goddess Chang'e, constantly pounding the elixir of life for her & some show the making of cakes or rice cakes; but in Japanese & Korean versions, the rabbit is pounding the ingredients for mochi or some other type of rice cakes. In some Chinese versions, the rabbit pounds medicine for the mortals & some include making of mooncakes. Unrelated moon folklore from certain native cultures of the Americas also has rabbit themes & characters.
 
@@ -252,7 +252,7 @@ In astronomy & astrophysics, a **mass concentration** (or **mascon**) is a regio
 
 The Moon is the most gravitationally “lumpy” major body known in the solar system. Its largest mascons can cause a plumb bob to hang about ⅓ of a degree off vertical, pointing toward the mascon, & increase the force of gravity by one‑half percent.
 
-![](f/aob/moon/moon_mascon_lp150q_grav_150.png)
+![](f/aob/moon/moon_mascon_lp150q_grav_150.webp)
 
 **Q&A.**
 

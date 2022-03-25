@@ -1,7 +1,7 @@
 # Геофизика‑Космос
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/g/geofizika_cosmos_logo1_thumb.webp)](../f/contact/g/geofizika_cosmos_logo1.png)|<info@geofizika-cosmos.ru>, +7(495)462-03-43, Fax: +7(495)462-13-14;<br> *Россия, 107497, Москва, ул. Иркутская, д. 11, корпус 1*<br> 【<http://www.geofizika-cosmos.ru/>】|
+|[![](../f/contact/g/geofizika_cosmos_logo1_thumb.webp)](../f/contact/g/geofizika_cosmos_logo1.webp)|<info@geofizika-cosmos.ru>, +7(495)462-03-43, Fax: +7(495)462-13-14;<br> *Россия, 107497, Москва, ул. Иркутская, д. 11, корпус 1*<br> 【<http://www.geofizika-cosmos.ru/>】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

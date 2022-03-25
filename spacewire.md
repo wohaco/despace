@@ -31,7 +31,7 @@
 |Pin 7|SIN- — Strobe In Neg.|
 |Pin 8|SOUT+ — Strobe Out Pos.|
 |Pin 9|DOUT — Data Out Pos.|
-| |[![](f/cable/micro_d_1_thumb.webp)](f/cable/micro_d_1.jpg)|
+| |[![](f/cable/micro_d_1_thumb.webp)](f/cable/micro_d_1.webp)|
 
 The purpose of the SpaceWire standard is to:
 

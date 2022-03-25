@@ -9,7 +9,7 @@
 
 **Xcraft** — the basic [Xplore](xplore.md) spacecraft, offered to any customer for work near the Earth, Moon, Venus, Mars and near asteroids.
 
-![](f/project/x/xcraft/pic01.jpg)
+![](f/project/x/xcraft/pic01.webp)
 
 |*Type*|*[Param.](si.md)*|
 |:--|:--|
@@ -92,7 +92,7 @@ The standard XCRAFT is perfect for most missions.
 
 |*Venus*|*Mars*|*Moon*|*Asteroid*|*Custom*|
 |:--|:--|:--|:--|:--|
-|[![](f/project/x/xcraft/pic04_thumb.webp)](f/project/x/xcraft/pic04.jpg)|[![](f/project/x/xcraft/pic02_thumb.webp)](f/project/x/xcraft/pic02.jpg)|[![](f/project/x/xcraft/pic03_thumb.webp)](f/project/x/xcraft/pic03.jpg)|[![](f/project/x/xcraft/pic05_thumb.webp)](f/project/x/xcraft/pic05.jpg)|[![](f/project/x/xcraft/pic06_thumb.webp)](f/project/x/xcraft/pic06.jpg)|
+|[![](f/project/x/xcraft/pic04_thumb.webp)](f/project/x/xcraft/pic04.webp)|[![](f/project/x/xcraft/pic02_thumb.webp)](f/project/x/xcraft/pic02.webp)|[![](f/project/x/xcraft/pic03_thumb.webp)](f/project/x/xcraft/pic03.webp)|[![](f/project/x/xcraft/pic05_thumb.webp)](f/project/x/xcraft/pic05.webp)|[![](f/project/x/xcraft/pic06_thumb.webp)](f/project/x/xcraft/pic06.webp)|
 
 
 

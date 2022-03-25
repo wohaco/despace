@@ -46,7 +46,7 @@
 |![](f/cable/de_9_1_thumb.webp)|[CAN](can.md)<br> (data exchange, only data‑link layer)|
 |*No spec.*|[JTAG](jtag.md)<br> (testing)|
 |*No spec.*|[LVDS](lvds.md)<br> (data exchange, physical layer only)|
-|![](f/cable/mil_std_1553_1_thumb2.jpg)|[MIL-STD-1553](mil_std_1553.md) (МКО)<br> (data exchange)|
+|![](f/cable/mil_std_1553_1_thumb2.webp)|[MIL-STD-1553](mil_std_1553.md) (МКО)<br> (data exchange)|
 |![](f/cable/db_25_1_thumb.webp)|[RS-232](rs_xxx.md) (DB-25)<br> (data exchange)|
 |![](f/cable/de_9_1_thumb.webp)|[RS-422](rs_xxx.md) (DE-9)<br> (data exchange)|
 |![](f/cable/de_9_1_thumb.webp)|[RS-485](rs_xxx.md) (DE-9)<br> (data exchange)|

@@ -1,7 +1,7 @@
 # КБХМ
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/k/kbhm_logo1_thumb.webp)](../f/contact/k/kbhm_logo1.png)|<kbhimmash@khrunichev.ru>, +7(499)429-03-55 — канцелярия, +7(499)429-03-04, Fax: +7(499)429-03-02,  +7(499)429-03-03;<br> *Россия, 141070, Московская обл., г. Королёв, ул. Богомолова, д. 12*<br> 【<http://www.kbhmisaeva.ru/>・ <http://www.khrunichev.ru/main.php?:id=123>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/A.M._Isayev_Chemical_Engineering_Design_Bureau)】|
+|[![](../f/contact/k/kbhm_logo1_thumb.webp)](../f/contact/k/kbhm_logo1.webp)|<kbhimmash@khrunichev.ru>, +7(499)429-03-55 — канцелярия, +7(499)429-03-04, Fax: +7(499)429-03-02,  +7(499)429-03-03;<br> *Россия, 141070, Московская обл., г. Королёв, ул. Богомолова, д. 12*<br> 【<http://www.kbhmisaeva.ru/>・ <http://www.khrunichev.ru/main.php?:id=123>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/A.M._Isayev_Chemical_Engineering_Design_Bureau)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

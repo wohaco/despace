@@ -9,7 +9,7 @@
 
 **The Pioneer Venus Multiprobe**, also known as *Pioneer Venus 2* or *Pioneer 13*, was a spacecraft launched in 1978 to explore Venus as part of NASA’s Pioneer program. This part of the mission included a spacecraft bus which was launched from Earth carrying one large and three smaller probes, which after separating penetrated the Venusian atmosphere at a different location, returning data as they descended into the planet’s thick atmosphere. The entry occurred on December 9, 1978.
 
-[![](f/project/p/pioneer_venus_2/pic01_thumb.webp)](f/project/p/pioneer_venus_2/pic01.jpg) [![](f/project/p/pioneer_venus_2/pic02_thumb.webp)](f/project/p/pioneer_venus_2/pic02.jpg)
+[![](f/project/p/pioneer_venus_2/pic01_thumb.webp)](f/project/p/pioneer_venus_2/pic01.webp) [![](f/project/p/pioneer_venus_2/pic02_thumb.webp)](f/project/p/pioneer_venus_2/pic02.webp)
 
 <p style="page-break-after:always"> </p>
 
@@ -81,7 +81,7 @@ Prior to the Multiprobe reaching Venus, the four probes were deployed from the m
 
 All probes entered the venusian atmosphere within 11 minutes of each other, and descended toward the surface over approximately an hour-long period, sending back data to the Earth ([EVN‑003](venus.md)). Two of the probes survived impact, and one of them transmitted data for 67 minutes before being crushed ([EVN‑006](venus.md)). These probes confirmed clouds composed mainly of sulfuric acid droplets ([EVN‑018](venus.md)). The Bus entered the atmosphere at 20:21:52 UTC, and returned its last signal at 20:22:55 from an altitude of 110 ㎞.
 
-[![](f/project/p/pioneer_venus_2/pic04_thumb.webp)](f/project/p/pioneer_venus_2/pic04.png)
+[![](f/project/p/pioneer_venus_2/pic04_thumb.webp)](f/project/p/pioneer_venus_2/pic04.webp)
 
 **Scientific results**
 
@@ -148,7 +148,7 @@ The Bus was targeted to enter the Venusian atmosphere at a shallow entry angle a
 
 The spacecraft carried one large and three small atmospheric probes, designed to collect data as they descended into the atmosphere of Venus. The probes did not carry photographic instruments, and were not designed to survive landing. All four probes continued transmitting data until impact ([EVN‑003](venus.md)); however, one survived and continued to transmit data from the surface ([EVN‑006](venus.md)).
 
-[![](f/project/p/pioneer_venus_2/pic05_thumb.png)](f/project/p/pioneer_venus_2/pic05.png)
+[![](f/project/p/pioneer_venus_2/pic05_thumb.webp)](f/project/p/pioneer_venus_2/pic05.webp)
 
 **Large probe**
 
@@ -166,7 +166,7 @@ The small probes were each targeted at different parts of the planet and were na
    - The Night probe entered on the night side.
    - The Day probe entered well into the day side, and was the only one of the four probes which continued to send radio signals back after impact, for over an hour.
 
-![](f/project/p/pioneer_venus_2/pic03.png)
+![](f/project/p/pioneer_venus_2/pic03.webp)
 
 
 
