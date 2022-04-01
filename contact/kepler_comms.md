@@ -1,7 +1,7 @@
 # Kepler Communications
 > 2019.08.28 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/k/kepler_comms_logo1_thumb.webp)](../f/contact/k/kepler_comms_logo1.webp)|<mark>noemail</mark>, +1(437)537-53-71, Fax: +1(437)537-53-72;<br> *196 Spadina Avenue, Suite 400 Toronto M5T 2C2 Canada*<br> 【<http://www.keplercommunications.com/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kepler_Communications)】|
+|[![](../f/contact/k/kepler_comms_logo1_thumb.webp)](../f/contact/k/kepler_comms_logo1.webp)|<mark>noemail</mark>, +1(437)537-53-71, Fax: +1(437)537-53-72;<br> *196 Spadina Avenue, Suite 400 Toronto M5T 2C2 Canada*<br> 【<http://www.keplercommunications.com/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Kepler_Communications)】|
 |:--|:--|
 |**Mission**|**We are on a mission to build the Internet in space.** As we continue to build out our constellation, Kepler will bring in the Internet to space. We want to provide real-time communications to other satellites, space stations, launch vehicles, habitats, and any other space-borne assets. As we work towards that, Kepler is using our existing and emerging technology to reshape the satellite communications industry. We develop groundbreaking technology and provide real solution for global gaps in connectivity. We are passionate about helping businesses thrive in an increasingly data-heavy world.|
 |**Vision**|…|

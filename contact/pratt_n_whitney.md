@@ -1,7 +1,7 @@
 # Pratt & Whitney
 > 2021.07.09 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/p/pratt_n_whitney_logo1_thumb.webp)](../f/contact/p/pratt_n_whitney_logo1.webp)|<help24@prattwhitney.com>, +1(800)565-0140, Fax: … ;<br> *400 Main Street, East Hartford, CT 06118, USA*<br> 【<https://prattwhitney.com/>・ <https://www.pwc.ca/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Pratt_%26_Whitney)】|
+|[![](../f/contact/p/pratt_n_whitney_logo1_thumb.webp)](../f/contact/p/pratt_n_whitney_logo1.webp)|<help24@prattwhitney.com>, +1(800)565-0140, Fax: … ;<br> *400 Main Street, East Hartford, CT 06118, USA*<br> 【<https://prattwhitney.com/>・ <https://www.pwc.ca/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Pratt_%26_Whitney)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

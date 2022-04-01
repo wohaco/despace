@@ -195,6 +195,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**PSDS** — [Planetary Science Decadal Survey](us_psds.md)|≠ Десятилетний обзор планетарной науки|
 | |**[Python](python.md)**|Питон|
 |**R**|**[R](r.md)**|≠ **R**|
+| |**RAMS** — reliability, availability, maintainability, safety| |
 | |**RFI** — [radio frequency interference](emi.md)|Помехи|
 |**S**|**SAR** — [synthetic-aperture radar](cam.md)|**РСА** — радар с синтезированной апертурой|
 | |**SciRD** — [science requirements document](scird.md)| |

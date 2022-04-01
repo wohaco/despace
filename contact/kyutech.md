@@ -14,6 +14,7 @@
 Notable space activities:
 
    - <https://kyutech-cent.net/seic/about.html> Space engineering international course (SEIC)
+   - [Department of Space Systems Engineering ⎆](https://www.kyutech.ac.jp/english/academics/e/k03.html)
 
 <p style="page-break-after:always"> </p>
 

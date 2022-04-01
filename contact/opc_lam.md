@@ -1,7 +1,7 @@
 # OPC LAM
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/o/opc_lam_logo1_thumb.webp)](../f/contact/o/opc_lam_logo1.webp)|<susana.cortes-borgmeyer@ariane.group>, <mark>noworkphone</mark>, Fax: …;<br> *ArianeGroup GmbH, Robert-Koch-Str. 1, 82024 Taufkirchen, Germany*<br> 【<http://www.space-propulsion.com/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Orbital_Propulsion_Centre)】|
+|[![](../f/contact/o/opc_lam_logo1_thumb.webp)](../f/contact/o/opc_lam_logo1.webp)|<susana.cortes-borgmeyer@ariane.group>, <mark>noworkphone</mark>, Fax: …;<br> *ArianeGroup GmbH, Robert-Koch-Str. 1, 82024 Taufkirchen, Germany*<br> 【<http://www.space-propulsion.com/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Orbital_Propulsion_Centre)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

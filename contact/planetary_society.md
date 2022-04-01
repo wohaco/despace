@@ -1,7 +1,7 @@
 # The Planetary Society
 > 2019.10.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/p/planetary_society_logo1_thumb.webp)](../f/contact/p/planetary_society_logo1.webp)|<tps@planetary.org>, +1(626)793-51-00, Fax: +1(626)793-55-28;<br> *60 South Los Robles Avenue, Pasadena, CA 91101, USA*<br> 【<http://planetary.org/>・ [Facebook ⎆](https://www.facebook.com/planetarysociety)・ [Instagram ⎆](https://www.instagram.com/planetarysociety/)・ [Twitter ⎆](https://twitter.com/exploreplanets)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/The_Planetary_Society)】|
+|[![](../f/contact/p/planetary_society_logo1_thumb.webp)](../f/contact/p/planetary_society_logo1.webp)|<tps@planetary.org>, +1(626)793-51-00, Fax: +1(626)793-55-28;<br> *60 South Los Robles Avenue, Pasadena, CA 91101, USA*<br> 【<http://planetary.org/>・ [Facebook ⎆](https://www.facebook.com/planetarysociety)・ [Instagram ⎆](https://www.instagram.com/planetarysociety/)・ [Twitter ⎆](https://twitter.com/exploreplanets)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/The_Planetary_Society)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

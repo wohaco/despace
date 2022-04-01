@@ -1,7 +1,7 @@
 # UPES
 > 2019.08.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/u/upes_logo1_thumb.webp)](../f/contact/u/upes_logo1.webp)|<mark>noemail</mark>, +91(1800)102-87-37, Fax: …;<br> *Bidholi, Via Prem Nagar, Dehradun, Uttarakhand, India*<br> 【<https://www.upes.ac.in/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies)】|
+|[![](../f/contact/u/upes_logo1_thumb.webp)](../f/contact/u/upes_logo1.webp)|<mark>noemail</mark>, +91(1800)102-87-37, Fax: …;<br> *Bidholi, Via Prem Nagar, Dehradun, Uttarakhand, India*<br> 【<https://www.upes.ac.in/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/University_of_Petroleum_and_Energy_Studies)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

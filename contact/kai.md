@@ -1,13 +1,13 @@
 # KAI
 > 2020.07.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/k/kai_logo1_thumb.webp)](../f/contact/k/kai_logo1.webp)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*<br> 【<http://www.koreaaero.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/korea-aerospace-industries/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Industries)】|
+|[![](../f/contact/k/kai_logo1_thumb.webp)](../f/contact/k/kai_logo1.webp)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*<br> 【[WEBSITE ⎆](http://www.koreaaero.com/)・ [LinkedIn ⎆](https://www.linkedin.com/company/korea-aerospace-industries/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Industries)】|
 |:--|:--|
-|**Mission**|…|
+|**Mission**|Become a global leading aerospace company with fulfilling social responsibility & trusted by customers with the best technologies & products|
 |**Vision**|…|
-|**Values**|…|
-|**Business**|…|
-|**[MGMT](../mgmt.md)**|…|
+|**Values**|Trust & respect for customers. Challenges & innovations in technology. Communication & harmonization for cooperation.|
+|**Business**|R&D sats & LV|
+|**[MGMT](../mgmt.md)**|・CEO, President — Ahn Hyunho|
 
 **Korea Aerospace Industries** (Korean: 한국항공우주산업, Hanja: 韓國航空宇宙産業) (**KAI**) is a South Korean aerospace & defense company. KAI has developed various aerospace products, including the Korea Space [Launch Vehicle](../lv.md) (KSLV)-II & various [satellites](../sc.md). Both the company’s headquarters & several key manufacturing facilities are located in Sacheon, South Gyeongsang Province.
 

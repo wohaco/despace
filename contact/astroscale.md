@@ -1,7 +1,7 @@
 # Astroscale
 > 2020.07.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/astroscale_logo1_thumb.webp)](../f/contact/a/astroscale_logo1.webp)|<mark>noemail</mark>, +81-3-6658-8175, Fax: …;<br> *1-16-4 Kinshi, Sumida, Tokyo 130-0013, JP*<br> 【<https://astroscale.com/> ・ [Twitter ⎆](https://twitter.com/astroscale_HQ)・ [LinkedIn ⎆](https://www.linkedin.com/company/astroscale/)】|
+|[![](../f/contact/a/astroscale_logo1_thumb.webp)](../f/contact/a/astroscale_logo1.webp)|<mark>noemail</mark>, +81-3-6658-8175, Fax: …;<br> *1-16-4 Kinshi, Sumida, Tokyo 130-0013, JP*<br> 【[WEBSITE ⎆](https://astroscale.com/)・ [Facebook ⎆](https://www.facebook.com/Astroscale/)・ [Instagram ⎆](https://www.instagram.com/astroscale/)・ [LinkedIn ⎆](https://www.linkedin.com/company/astroscale/)・ [Twitter ⎆](https://twitter.com/astroscale_HQ)】|
 |:--|:--|
 |**Mission**|Develop innovative technologies, advance business cases, & inform international policies that reduce orbital debris & support long‑term, sustainable use of space.|
 |**Vision**|Secure safe & sustainable development of space for the benefit of future generations.|

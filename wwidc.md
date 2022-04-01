@@ -11,6 +11,9 @@ Here is a bit of notes concerning culture differencies. Of course, nothing perso
 
    - **Finland:**
       1. I believe also the Finnish mentality plays a role here. We are very shy, as you may have heard! I think the professors may even think that if they ask directly from you, it may be impolite towards you as you don’t know well each others (and have not physically met yet). All this will change with time. Cultural issues are quite challenging, I guess.
+   - **Russia:**
+      1. Sometimes they think there will be no future for a project (phase, process, etc.), or nobody need it, or that we will come back to this matter not earlier than in X years, and that the point of current activities is to gain some money and forget about it. Thus they can create documentation which will show that everything is fine, while the real picture can be different.
+
 
 
 ## Docs & links

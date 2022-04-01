@@ -1,7 +1,7 @@
 # Space NTK Co., Ltd.
 > 2021.12.03 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/space_ntk_logo1_thumb.webp)](../f/contact/s/space_ntk_logo1.webp)|<mark>noemail</mark>, +81(3)6314-6917, Fax: … ;<br> *3-2-15-104, Nakamuraminami, Nerima-ku, Tokyo 176-0025, Japan*<br> 【<https://www.space-ntk.com/>・ [Facebook ⎆]…)・ [Instagram ⎆]…)・ [LinkedIn ⎆]…)・ [Twitter ⎆]…)・ [Wikipedia(EN) ⎆]…)】|
+|[![](../f/contact/s/space_ntk_logo1_thumb.webp)](../f/contact/s/space_ntk_logo1.webp)|<mark>noemail</mark>, +81(3)6314-6917, Fax: … ;<br> *3-2-15-104, Nakamuraminami, Nerima-ku, Tokyo 176-0025, Japan*<br> 【<https://www.space-ntk.com/>・ [Facebook ⎆]…)・ [Instagram ⎆]…)・ [LinkedIn ⎆]…)・ [Twitter ⎆]…)・ [Wikipedia ⎆]…)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

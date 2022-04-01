@@ -25,7 +25,7 @@
 |**AU**|…|
 |**CA**|・[Baryon Dynamics](contact/baryon_dyn.md) — mostly for CubeSats<br> ・[Pratt & Whitney](contact/pratt_n_whitney.md)<br> ・[Space Engine Systems](contact/space_engs.md) — SSTO propulsion, pumps, compressors, gear boxes, Permanent Magnet Motors|
 |**CN**|…|
-|**EU**|…|
+|**EU**|・[Exotrail](contact/exotrail.md)<br> ・[OPC LAM](contact/opc_lam.md)<br> ・[Safran](contact/safran.md)|
 |**IL**|…|
 |**IN**|…|
 |**JP**|・[IHI](contact/ihi.md)<br> ・JAXA [Kakuda Space Center](contact/kakuda_sc.md)<br> ・JAXA [Noshiro Rocket Testing Center](contact/noshiro_rtc.md)<br> ・[Pale Blue Inc.](contact/pale_blue_inc.md) — PS for small sats<br> ・[Warpspace](contact/warpspace.md) — ion engines|
@@ -38,12 +38,13 @@
 
 
 
-## 1. Engines
+## ➀ Engines
 【**Table.** Engines】
 
 | |*[Company](contact.md)*|*Models of engines (thrust, N), ordered ascending thrust*|
 |:--|:--|:--|
 |**EU**|[OPC LAM](contact/opc_lam.md)|**Liq. (1c.)** — [1NMHT](engine_lst.md) (1)・ [20NMHT](engine_lst.md) (20)・ [400NMHT](engine_lst.md) (400);<br> **Liq. (2c.)** — [S10](engine_lst.md) (10)・ [S200](engine_lst.md) (216)・ [S400](engine_lst.md) (420);<br> **El.** — [RIT µX](engine_lst.md) (0.00005 ‑ 0.0005)・ [RIT 10](engine_lst.md) (0.005 ‑ 0.025)・ [RIT 2X](engine_lst.md) (0.07 ‑ 0.215)|
+| |[Safran](contact/safran.md)|**El.** — …|
 |•|• • • • • • • •|• • •|
 |**JP**|[IHI](contact/ihi.md)|**Liq. (1c.)** — [MT-9](engine_lst.md) (1)・ [MT-8A](engine_lst.md) (4)・ [MT-2](engine_lst.md) (20)・ [MT-6](engine_lst.md) (50);<br> **Liq. (2c.)** — [IHI 22N](engine_lst.md) (22)・ [IHI 120N](engine_lst.md) (120)・ [IHI 450N](engine_lst.md) (450)・ [IHI 490N](engine_lst.md) (490)・ [BT‑4](engine_lst.md) (500)|
 | |[Mitsubishi HVI](contact/mitsubishi.md)| |
@@ -269,7 +270,7 @@
 
 
 
-## 2. Fuel
+## ➁ Fuel
 > <small>**Топливо** — русскоязычный термин. **Fuel** — англоязычный эквивалент.</small>
 
 **Ракетное топливо** — вещества, используемые в ракетных двигателях различных конструкций для получения тяги и ускорения ракеты посредством энергии химической реакции (горения).
@@ -376,7 +377,7 @@ HTPB применяется в качестве связующего окисл�
 
 
 
-## 3. Specific impulse (Isp)
+## ➂ Specific impulse (Isp)
 > <small>**Удельный импульс (УИ)** — русскоязычный термин. **Specific impulse (Isp)** — англоязычный эквивалент.</small>
 
 **Уде́льный и́мпульс** — показатель эффективности реактивного двигателя. Иногда для реактивных двигателей используется синоним «удельная тяга» (термин имеет и другие значения), при этом удельная тяга применяется обычно во внутренней баллистике, в то время как удельный импульс — во внешней баллистике. Размерность удельного импульса есть размерность скорости, в системе единиц СИ это метр в секунду.
@@ -396,7 +397,7 @@ HTPB применяется в качестве связующего окисл�
 
 <p style="page-break-after:always"> </p>
 
-## Docs & links
+## ➃ Docs & links
 |Navigation|
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|

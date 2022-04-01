@@ -1,7 +1,7 @@
 # J-spacesystems
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/j/jspacesys_logo1_thumb.webp)](../f/contact/j/jspacesys_logo1.webp)|<Sasaki-Kenjij@spacesystems.or.jp>, +81-3-6809-1410 , Fax: …;<br> *Kikai Shinko Kaikan building 3F, 3-5-8 Shibakoen, Minato-ku, Tokyo 105-0011, Japan*<br> 【<http://www.jspacesystems.or.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/japan-space-systems)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Japan_Space_Systems)】|
+|[![](../f/contact/j/jspacesys_logo1_thumb.webp)](../f/contact/j/jspacesys_logo1.webp)|<Sasaki-Kenjij@spacesystems.or.jp>, +81-3-6809-1410 , Fax: …;<br> *Kikai Shinko Kaikan building 3F, 3-5-8 Shibakoen, Minato-ku, Tokyo 105-0011, Japan*<br> 【<http://www.jspacesystems.or.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/japan-space-systems)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Japan_Space_Systems)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

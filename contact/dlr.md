@@ -1,7 +1,7 @@
 # DLR
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/d/dlr_logo1_thumb.webp)](../f/contact/d/dlr_logo1.webp)|<contact-dlr@dlr.de>, +49(2203)60-10, Fax: …;<br> *V449+2Q Koln, Germany*<br> 【<http://dlr.de/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/German_Aerospace_Center)】|
+|[![](../f/contact/d/dlr_logo1_thumb.webp)](../f/contact/d/dlr_logo1.webp)|<contact-dlr@dlr.de>, +49(2203)60-10, Fax: …;<br> *V449+2Q Koln, Germany*<br> 【<http://dlr.de/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/German_Aerospace_Center)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

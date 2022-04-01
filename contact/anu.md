@@ -1,7 +1,7 @@
 # ANU
 > 2019.08.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/anu_logo1_thumb.webp)](../f/contact/a/anu_logo1.webp)|<innovation@anu.edu.au>, +61(2)6125-5111, Fax: …;<br> *ANU Alumni Relations, 52 Collins St, Melbourne VIC 3000, Australia*<br> 【<http://www.anu.edu.au/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Australian_National_University)】|
+|[![](../f/contact/a/anu_logo1_thumb.webp)](../f/contact/a/anu_logo1.webp)|<innovation@anu.edu.au>, +61(2)6125-5111, Fax: …;<br> *ANU Alumni Relations, 52 Collins St, Melbourne VIC 3000, Australia*<br> 【<http://www.anu.edu.au/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Australian_National_University)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

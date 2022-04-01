@@ -51,6 +51,7 @@
    - **[ISIS](isis.md)** — ПО от ЮНЕСКО, используемое в библиотечном деле и информационном обмене.
    - **[JSBSim](jsbsim.md)** — flight dynamics model
    - **ModelSim**
+   - **[NASA Trek ⎆](https://trek.nasa.gov/)** & **[LROC ⎆](https://wms.lroc.asu.edu/lroc)** — maps
    - **[NGT](neogeography_toolkit.md)** — автоматическая обработка географической информации, вкл. изображение и карты.
    - **[NX](nx.md)** — 3D-моделирование и анализ.
    - **[Octave](gnu_octave.md)** — математический пакет.

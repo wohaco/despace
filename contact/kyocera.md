@@ -1,7 +1,7 @@
 # Kyocera
 > 2020.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/k/kyocera_logo1_thumb.webp)](../f/contact/k/kyocera_logo1.webp)|<mark>noemail</mark>, +81-75-604-3500, Fax: +81-75-604-3501;<br> *6 Takeda Tobadono-cho, Fushimi-ku, Kyoto-shi, Kyoto, 612-8501 Japan*<br> 【<https://global.kyocera.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/kyocera-global/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Kyocera)】|
+|[![](../f/contact/k/kyocera_logo1_thumb.webp)](../f/contact/k/kyocera_logo1.webp)|<mark>noemail</mark>, +81-75-604-3500, Fax: +81-75-604-3501;<br> *6 Takeda Tobadono-cho, Fushimi-ku, Kyoto-shi, Kyoto, 612-8501 Japan*<br> 【<https://global.kyocera.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/kyocera-global/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Kyocera)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

@@ -185,7 +185,7 @@
 |B‑day, addr.|1955.07.04, на НПОЛ с 1978 / …|
 |Contact|<alexashkin@laspace.ru>, *work:* 40-01, 52-12, +7(495)575-52-12; *mobile:* +7(495)763-90-56|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/a/alexashkin1_animated.gif)](f/contact/a/alexashkin1_photo.webp) [![](f/contact/a/alexashkin1_sign_thumb.webp)](f/contact/a/alexashkin1_sign.webp)|
+| |[![](f/contact/a/alexashkin1_animated.webp)](f/contact/a/alexashkin1_photo.webp) [![](f/contact/a/alexashkin1_sign_thumb.webp)](f/contact/a/alexashkin1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -555,7 +555,7 @@
 |B‑day, addr.|1944.10.31 / …|
 |Contact|<nbabakin@asc.rssi.ru>, *work:* +7(495)333-21-33, факс +7(495)333-23-01; *mobile:* +7(917)544-54-71|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/b/babakin2_animated.gif)](f/contact/b/babakin2_photo.webp) [![](f/contact/b/babakin2_sign_thumb.webp)](f/contact/b/babakin2_sign.webp)|
+| |[![](f/contact/b/babakin2_animated.webp)](f/contact/b/babakin2_photo.webp) [![](f/contact/b/babakin2_sign_thumb.webp)](f/contact/b/babakin2_sign.webp)|
 
    - **[Education](edu.md):** Кандидат технических наук.
    - **Exp.:** …
@@ -950,7 +950,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<chulkov@cosmos.ru>, *раб.:* +7(495)333-44-12, Fax: +7(495)913-30-40; *mobile:* +7(916)127-77-19|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/c/chulkov1_animated.gif)|
+| |![](f/contact/c/chulkov1_animated.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -1102,7 +1102,7 @@
 |B‑day, addr.|1939.03.16, на НПОЛ с 1968 / …|
 |Contact|<mark>noemail</mark>, *work:* 31-35; *mobile:* +7(903)775-55-56|
 |i18n|Dolgopolov, Vladimir Pavlovich|
-| |![](f/contact/d/dolgopolov1_animated.gif) [![](f/contact/d/dolgopolov1_sign_thumb.webp)](f/contact/d/dolgopolov1_sign.webp)|
+| |![](f/contact/d/dolgopolov1_animated.webp) [![](f/contact/d/dolgopolov1_sign_thumb.webp)](f/contact/d/dolgopolov1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** С 2017.05.05 ведущий специалист отдела 512 в составе группы «Лунатиков» *(позывной — «Профессор Звёздочкин»)*. До 2017.05.05 ведущий специалист Дирекции 202.
@@ -1292,7 +1292,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<neismont@iki.rssi.ru>, *раб.:* <mark>noworkphone</mark>; *mobile:* +7(916)628-61-39|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/e/eismont1_animated.gif) <mark>nosign</mark>|
+| |![](f/contact/e/eismont1_animated.webp) <mark>nosign</mark>|
 
    - Natan Eismont. 
    - **[Education](edu.md):** Кандидат технических наук, 2012. Доктор физ‑мат наук, математика, МГУ, 1968.
@@ -1607,7 +1607,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mgerasim@mx.iki.rssi.ru>, <mvg001@mail.ru>, *раб.:* +7(495)333-11-55; *mobile:* +7(903)533-76-34|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/g/gerasimov1_animated.gif) <mark>nosign</mark>|
+| |![](f/contact/g/gerasimov1_animated.webp) <mark>nosign</mark>|
 
    - **[Education](edu.md):** Кандидат физ‑мат наук.
    - **Exp.:** …
@@ -2272,7 +2272,7 @@
 |B‑day, addr.|1932.04.25 ‑ 2019.08.03 (87 лет) / …|
 |Contact|<nkardash@asc.rssi.ru>, *раб.:* +7(495)333-21-89; *mobile:* +7(916)127-54-02|
 |i18n|Kardashev, Nikolai Semenovich|
-| |![](f/contact/k/kardashev1_animated.gif) [![](f/contact/k/kardashev1_sign_thumb.webp)](f/contact/k/kardashev1_sign.webp)|
+| |![](f/contact/k/kardashev1_animated.webp) [![](f/contact/k/kardashev1_sign_thumb.webp)](f/contact/k/kardashev1_sign.webp)|
 
    - **[Education](edu.md):** Доктор физико‑математических наук.
    - Советский и российский астроном, академик РАН (1994); директор Астрокосмического центра ФИАН (с 1990 года); труды по экспериментальной и теоретической астрофизике, радиоастрономии; лауреат Государственной премии СССР (1980, 1988)
@@ -2291,7 +2291,7 @@
 |B‑day, addr.|1977.01.14, на НПОЛ с 2001 / …|
 |Contact|<mockus@laspace.ru>, *work:* 47-09; *mobile:* +7(910)491-43-60|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/k/kazmerchuk1_photo.gif)](f/contact/k/kazmerchuk1_photo.gif) [![](f/contact/k/kazmerchuk1_sign_thumb.webp)](f/contact/k/kazmerchuk1_sign.webp)|
+| |[![](f/contact/k/kazmerchuk1_photo.webp)](f/contact/k/kazmerchuk1_photo.webp) [![](f/contact/k/kazmerchuk1_sign_thumb.webp)](f/contact/k/kazmerchuk1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -2431,7 +2431,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<korab@iki.rssi.ru>, *раб.:* +7(495)333-00-17; *mobile:* +7(903)961-76-27|
 |i18n|Korablev, Oleg Igorevich|
-| |![](f/contact/k/korablev1_animated.gif) [![](f/contact/k/korablev1_sign_thumb.webp)](f/contact/k/korablev1_sign.webp)|
+| |![](f/contact/k/korablev1_animated.webp) [![](f/contact/k/korablev1_sign_thumb.webp)](f/contact/k/korablev1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** Skills & Expertise: Spectra, Spectrometers, Experimental Physics, Remote Sensing, Optics, Astronomy & Astrophysics, Atmosphere, Atmospheric Physics, Climatology, Geophysics.
@@ -2591,7 +2591,7 @@
 |B‑day, addr.|1932… ‑ 2019.10.07 (87 лет) / …|
 |Contact| |
 |i18n|Ksanfomaliti, Leonid Vasilievich|
-| |![](f/contact/k/ksanfomaliti1_animated.gif)|
+| |![](f/contact/k/ksanfomaliti1_animated.webp)|
 
    - **[Education](edu.md):** Советский, российский учёный, специалист по исследованию планет Солнечной системы, популяризатор науки; доктор физико‑математических наук, профессор, заслуженный деятель науки Российской Федерации, член Научного совета РАН по астробиологии, член комиссии РАН по космической топонимике, главный научный сотрудник и руководитель лаборатории фотометрии и ИК‑радиометрии Отдела физики планет и малых тел Солнечной системы Института космических исследований РАН. Автор более 300 научных публикаций, в т.ч. 4 книг (научные и научно‑популярные монографии).
    - <https://ru.wikipedia.org/wiki/Ксанфомалити,_Леонид_Васильевич>
@@ -2881,7 +2881,7 @@
 |B‑day, addr.|<mark>nodate</mark> / …|
 |Contact|<mlitvak.iki@gmail.com>, *раб.:* +7(495)333-15-22; *mobile:* +7(968)666-24-36|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/l/litvak1_animated.gif) [![](f/contact/l/litvak1_sign_thumb.webp)](f/contact/l/litvak1_sign.webp)|
+| |![](f/contact/l/litvak1_animated.webp) [![](f/contact/l/litvak1_sign_thumb.webp)](f/contact/l/litvak1_sign.webp)|
 
    - **[Education](edu.md):** Д.ф.м.н.
    - **Exp.:** …
@@ -3056,7 +3056,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1960.05.15 (Москва, РФ) / …|
 |Contact|<mark>noemail</mark>, *раб.:* <mark>noworkphone</mark>; *mobile:* <mark>nomobile</mark>|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/m/maroko1_animated.gif) <mark>nosign</mark>|
+| |![](f/contact/m/maroko1_animated.webp) <mark>nosign</mark>|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -3792,7 +3792,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1967.08.29 / …|
 |Contact|<a.petrukovich@cosmos.ru>, <apetruko@iki.rssi.ru>, *раб.:* +7(495)3333-267; *mobile:* +7(915)007-03-99|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/p/petrukovich1_animated.gif) [![](f/contact/p/petrukovich1_sign_thumb.webp)](f/contact/p/petrukovich1_sign.webp)|
+| |![](f/contact/p/petrukovich1_animated.webp) [![](f/contact/p/petrukovich1_sign_thumb.webp)](f/contact/p/petrukovich1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4842,7 +4842,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|<mark>nodate</mark> ….10.31 / …|
 |Contact|<victorvoron@roscosmos.ru>, <voron.vv@roscosmos.ru>, *раб.:* +7(495)631-90-00 (доб 32-10); *mobile:* +7(916)590-54-84|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/v/voron1_animated.gif) [![](f/contact/v/voron1_sign_thumb.webp)](f/contact/v/voron1_sign.webp)|
+| |![](f/contact/v/voron1_animated.webp) [![](f/contact/v/voron1_sign_thumb.webp)](f/contact/v/voron1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -4864,7 +4864,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1952.05.07 / …|
 |Contact|<vorontsovspace@gmail.com>, <victor-vorontsov@yandex.ru>, *work:* <mark>noworkphone</mark>; *mobile:* +7(916)907-33-68|
 |i18n|<mark>TBD</mark>|
-| |[![](f/contact/v/voroncov1_photo.gif)](f/contact/v/voroncov1_photo.gif) [![](f/contact/v/voroncov1_sign_thumb.webp)](f/contact/v/voroncov1_sign.webp)|
+| |[![](f/contact/v/voroncov1_photo.webp)](f/contact/v/voroncov1_photo.webp) [![](f/contact/v/voroncov1_sign_thumb.webp)](f/contact/v/voroncov1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -5120,7 +5120,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1945.05.22 /|
 |Contact|<lzasova@gmail.com>, <zasova@iki.rssi.ru>, *раб.:* +7(495)3333-466; *mobile:* +7(903)628-23-22, +7(925)467-55-92|
 |i18n|<mark>TBD</mark>|
-| |![](f/contact/z/zasova1_animated.gif) [![](f/contact/z/zasova1_sign_thumb.webp)](f/contact/z/zasova1_sign.webp)|
+| |![](f/contact/z/zasova1_animated.webp) [![](f/contact/z/zasova1_sign_thumb.webp)](f/contact/z/zasova1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …
@@ -5166,7 +5166,7 @@ Mankins is currently (2018) President of Artemis Innovation Management Solutions
 |B‑day, addr.|1948.08.23 / …|
 |Contact|<lzelenyi@iki.rssi.ru>, *раб.:* +7(495)333-33-11 — факс; *mobile:* <mark>nomobile</mark>|
 |i18n|Zeleny, Lev Matveevich|
-| |![](f/contact/z/zeleniy1_animated.gif) [![](f/contact/z/zeleniy1_sign_thumb.webp)](f/contact/z/zeleniy1_sign.webp)|
+| |![](f/contact/z/zeleniy1_animated.webp) [![](f/contact/z/zeleniy1_sign_thumb.webp)](f/contact/z/zeleniy1_sign.webp)|
 
    - **[Education](edu.md):** …
    - **Exp.:** …

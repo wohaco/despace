@@ -1,7 +1,7 @@
 # CASI
 > 2019.08.14 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/c/casi_logo1_thumb.webp)](../f/contact/c/casi_logo1.webp)|<casi@casi.ca>, +1(613)591-87-87, Fax: +1(613)591-72-91;<br> *350 Terry Fox Dr., Suite 104 Kanata, ON, K2K 2W5, Canada*<br> 【<https://www.casi.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canadian-aeronautics-and-space-institute/)・ [Twitter ⎆](https://twitter.com/CASInstitute)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Canadian_Aeronautics_and_Space_Institute)】|
+|[![](../f/contact/c/casi_logo1_thumb.webp)](../f/contact/c/casi_logo1.webp)|<casi@casi.ca>, +1(613)591-87-87, Fax: +1(613)591-72-91;<br> *350 Terry Fox Dr., Suite 104 Kanata, ON, K2K 2W5, Canada*<br> 【<https://www.casi.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canadian-aeronautics-and-space-institute/)・ [Twitter ⎆](https://twitter.com/CASInstitute)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Canadian_Aeronautics_and_Space_Institute)】|
 |:--|:--|
 |**Mission**|・To advance the art, science, engineering & applications relating to aeronautics, space & related technologies in Canada<br> ・To assist Members in developing skills, exchanging information, & sharing talents in their areas of interest<br> ・To foster national pride & international esteem for Canada’s accomplishments in aeronautics, space & related technologies<br> ・To promote Canadian competence & international competitiveness in aeronautics, space & related technologies & their applications<br> ・To provide a focus for communications & networking for aeronautics & space communities in Canada|
 |**Vision**|…|

@@ -1,7 +1,7 @@
 # ESTEC
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/e/esa_logo1_thumb.webp)](../f/contact/e/esa_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Keplerlaan 1, 2201 AZ Noordwijk, Нидерланды*<br> 【<http://www.esa.int/About_Us/ESTEC>・ [Wikipedia(EN) 1 ⎆](https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre)・ [Wikipedia(EN) 2 ⎆](https://en.wikipedia.org/wiki/Concurrent_Design_Facility)】|
+|[![](../f/contact/e/esa_logo1_thumb.webp)](../f/contact/e/esa_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Keplerlaan 1, 2201 AZ Noordwijk, Нидерланды*<br> 【<http://www.esa.int/About_Us/ESTEC>・ [Wikipedia 1 ⎆](https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre)・ [Wikipedia 2 ⎆](https://en.wikipedia.org/wiki/Concurrent_Design_Facility)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

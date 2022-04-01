@@ -1,7 +1,7 @@
 # МФТИ
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/m/mipt_logo1_thumb.webp)](../f/contact/m/mipt_logo1.webp)|<info@mipt.ru>, +7(495)408-45-54, Fax: +7(495)408-42-54;<br> *Россия, 141701, Московская облаcть, г. Долгопрудный, Институтский пер., 9*<br> 【<https://mipt.ru/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology)】|
+|[![](../f/contact/m/mipt_logo1_thumb.webp)](../f/contact/m/mipt_logo1.webp)|<info@mipt.ru>, +7(495)408-45-54, Fax: +7(495)408-42-54;<br> *Россия, 141701, Московская облаcть, г. Долгопрудный, Институтский пер., 9*<br> 【<https://mipt.ru/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|

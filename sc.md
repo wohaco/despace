@@ -54,7 +54,7 @@
 
 
 
-## 1. Разновидности и типичные формы
+## ➀ Разновидности и типичные формы
 > <small>**Типичные формы КА** — русскоязычный термин, не имеющий аналога в английском языке. **Typical spacecrafts shapes** — дословный перевод с русского на английский.</small>
 
    - **Гайка** — [Фобос‑Грунт](фобос_грунт.md)
@@ -85,7 +85,7 @@
 |6|**Other** (applicable<br> to almost any of the<br> above mentioned)|1. Manned — ➀ manned, ➁ unmanned<br> 2. Size — ➀ large, ➁ medium, ➂ micro, ➃ nano, ➄ small<br> 3. Swarm — ➀ net, ➁ single|
 
 
-## 2. Подвиды
+## ➁ Подвиды
 
 ### Кубсат
 > <small>**Кубсат** — русскоязычный термин. **Cubesat** — англоязычный эквивалент.</small>
@@ -261,72 +261,67 @@ Industry analysts at Northern Sky Research believe that high-throughput satellit
 
 <p style="page-break-after:always"> </p>
 
-## 3. Onboard equipment
+## ➂ Onboard equipment
 **Onboard equipment (OE)** *(ru. Бортовая аппаратура, БА)* — the general name of the equipment installed on the [SC](sc.md). Includes service equipment & payload.
-
-   - **Service equipment (SE)** *(ru. Служебная аппаратура, СА)* — the general name of the OE that ensures the functioning of the SC & the implementation of the target task by the SC.
-   - **Payload** *(ru. Научная аппаратура, НА, Комплекс научной аппаратуры, КНА, Полезная нагрузка, ПН)* — the general name of the OE used to implement the target task for a [SC](sc.md) & [SCS](scs.md).
-
-【**Table.** Service equipment, Payload & their intersection】
 
 <small>
 
-|*i*|*Service equipment*|*Payload*|
-|:--|:--|:--|
-| |**[Aimed antenna drive (AIAD)](devd.md)**·ПНА|—|
-| |—|**Analyzer of gas**·Газоанализатор|
-| |**[Automatic control unit (ACU)](eas.md)**·БАППТ|—|
-| |**[Autonomous navigation system (ANS)](ans.md)**·САН|—|
-|✔|**Beacon**·Маяк|**Beacon**·Маяк|
-| |**[Cable](cable.md)**·БКС|+|
-|✔|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Kамера (обыч., 3D, разн. спектров)|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Kамера (обыч., 3D, разн. спектров)|
-| |**[Comms (transmitter, receiver)](comms.md)**·Радио (приёмник, передатчик)|—|
-| |**[Control module (CM)](eas.md)**·БУ|—|
-| |**[Data storage (DS)](ds.md)**·ЗУ|—|
-| |**[Doppler](doppler.md)**·ИСР|**Radar**·Радар|
-| |—|**Radar for subsoil**·Радар подпочвенный|
-| |**[Ecology](ecology.md)**·Экология|+|
-| |**[Electronic components](elc.md)**·ЭКБ|—|
-| |**[Electric battery (EB)](eb.md)**·ХИТ|—|
-| |**[Electro-automatic system (EAS)](eas.md)**·СЭА|—|
-| |**[EMC](emc.md)**·ЭМС|+|
-| |**[Fuel](ps.md)**·Топливо|—|
-| |**[GNC](gnc.md)**·БКУ|—|
-| |**[Inertial unit (UI)](iu.md)**·Гироскоп|—|
-| |**[Landing gear (LAG)](lag.md)**·ПУC|—|
-| |**[Launch escape system (LES)](les.md)**·САСП|—|
-| |**[Life support (LS)](ls.md)**·СЖО|—|
-| |**[Manned spacecraft (MSC)](sc.md)**·ПКА|—|
-| |—|**Meter of energetic particles**·Измеритель энергетичных частиц|
-|✔|**[Meter of magnetic fields (magnetometer)](sensor.md)**·Магнитометр|**[Meter of magnetic fields (magnetometer)](sensor.md)**·Магнитометр|
-| |—|**Meter of plasma**·Измеритель плазмы|
-| |—|**Meter of seismic activity (seismometer)**·Сейсмометр|
-| |—|**Meter of spectra (spectrometer: IR, UV, Fourier, etc.)**·Спектрометр|
-| |—|**Meter of stellar wind**·Измеритель звёздного ветра|
-| |**[Nuclear reactor (NR)](nr.md)**·ЯР|—|
-| |**[Onboard computer (OBC)](obc.md)**·ЦВМ|—|
-| |**[Patent](patent.md)**·Патент|+|
-| |**[Propulsion system (PS)](ps.md)**·ДУ|—|
-| |**[Reaction wheel (RW)](iu.md)**·ДМ|—|
-| |—|**Reflector**·Отражатель|
-| |**[Robot](robot.md)**·Робот|—|
-| |**[Rotor](iu.md)**·Ротор|—|
-| |**[Rover](robot.md)**·Ровер|—|
-| |**[RTG, RHU](rtg.md)**·РИТЭГ, РИТ|—|
-|✔|**[Sensor (general)](sensor.md)**·Датчик (общий)|**[Sensor of dust/gas/temp./wind](sensor.md)**·Датчик пыли/газа/темп./ветра|
-| |**[Structures, gears, materials (SGM)](sc.md)**·KММ|+|
-| |**[Software](soft.md)**·ПО|+|
-|✔|**[Soil sample system (SSS)](sss.md)**·ГЗУ|**[Soil collector](sss.md)**·Грунтозаборник|
-| |**[Solar panel (SP)](sp.md)**·БС|—|
-| |**[Solar panels orientation system (SPOS)](devd.md)**·СОСБ|—|
-| |**[Spacecraft power system (SPS)](sps.md)**·СЭС|—|
-| |**[Star tracker](sensor.md)**·Звёздный датчик|—|
-| |**[Sun sensor](sensor.md)**·Солнечный датчик|—|
-| |**[Systems engineering (SE)](se.md)**·СЭ|+|
-| |**[Telemetry system (TMS)](tms.md)**·ТМС|+|
-| |**[Thermal control system (TCS)](tcs.md)**·СОТР|+|
-| |**[Timeline](timeline.md)**·Циклограмма|+|
-| |**[Wind turbine (WT)](wt.md)**·Ветрогенератор|—|
+|*Service equipment* (ru. Служебная аппаратура, СА) — the general name of the OE that ensures the functioning of the SC & the implementation of the target task by the SC|*Payload* (ru. Научная аппаратура, НА, Комплекс научной аппаратуры, КНА, Полезная нагрузка, ПН) — the general name of the OE used to implement the target task for a [SC](sc.md) & [SCS](scs.md)|
+|:--|:--|
+|**[Aimed antenna drive (AIAD)](devd.md)**·ПНА|—|
+|—|**Analyzer of gas**·Газоанализатор|
+|**[Automatic control unit (ACU)](eas.md)**·БАППТ|—|
+|**[Autonomous navigation system (ANS)](ans.md)**·САН|—|
+|**Beacon**·Маяк|**Beacon**·Маяк|
+|**[Cable](cable.md)**·БКС|+|
+|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Kамера (обыч., 3D, разн. спектров)|**[Camera (gen., 3D, diff. spectra)](cam.md)**·Kамера (обыч., 3D, разн. спектров)|
+|**[Comms (transmitter, receiver)](comms.md)**·Радио (приёмник, передатчик)|—|
+|**[Control module (CM)](eas.md)**·БУ|—|
+|**[Data storage (DS)](ds.md)**·ЗУ|—|
+|**[Doppler](doppler.md)**·ИСР|**Radar**·Радар|
+|—|**Radar for subsoil**·Радар подпочвенный|
+|**[Ecology](ecology.md)**·Экология|+|
+|**[Electronic components](elc.md)**·ЭКБ|—|
+|**[Electric battery (EB)](eb.md)**·ХИТ|—|
+|**[Electro-automatic system (EAS)](eas.md)**·СЭА|—|
+|**[EMC](emc.md)**·ЭМС|+|
+|**[Fuel](ps.md)**·Топливо|—|
+|**[GNC](gnc.md)**·БКУ|—|
+|**[Inertial unit (UI)](iu.md)**·Гироскоп|—|
+|**[Landing gear (LAG)](lag.md)**·ПУC|—|
+|**[Launch escape system (LES)](les.md)**·САСП|—|
+|**[Life support (LS)](ls.md)**·СЖО|—|
+|**[Manned spacecraft (MSC)](sc.md)**·ПКА|—|
+|—|**Meter of energetic particles**·Измеритель энергетичных частиц|
+|**[Meter of magnetic fields (magnetometer)](sensor.md)**·Магнитометр|**[Meter of magnetic fields (magnetometer)](sensor.md)**·Магнитометр|
+|—|**Meter of plasma**·Измеритель плазмы|
+|—|**Meter of seismic activity (seismometer)**·Сейсмометр|
+|—|**Meter of spectra (spectrometer: IR, UV, Fourier, etc.)**·Спектрометр|
+|—|**Meter of stellar wind**·Измеритель звёздного ветра|
+|**[Nuclear reactor (NR)](nr.md)**·ЯР|—|
+|**[Onboard computer (OBC)](obc.md)**·ЦВМ|—|
+|**[Patent](patent.md)**·Патент|+|
+|**[Propulsion system (PS)](ps.md)**·ДУ|—|
+|**[Reaction wheel (RW)](iu.md)**·ДМ|—|
+|—|**Reflector**·Отражатель|
+|**[Robot](robot.md)**·Робот|—|
+|**[Rotor](iu.md)**·Ротор|—|
+|**[Rover](robot.md)**·Ровер|—|
+|**[RTG, RHU](rtg.md)**·РИТЭГ, РИТ|—|
+|**[Sensor (general)](sensor.md)**·Датчик (общий)|**[Sensor of dust/gas/temp./wind](sensor.md)**·Датчик пыли/газа/темп./ветра|
+|**[Structures, gears, materials (SGM)](sc.md)**·KММ|+|
+|**[Software](soft.md)**·ПО|+|
+|**[Soil sample system (SSS)](sss.md)**·ГЗУ|**[Soil collector](sss.md)**·Грунтозаборник|
+|**[Solar panel (SP)](sp.md)**·БС|—|
+|**[Solar panels orientation system (SPOS)](devd.md)**·СОСБ|—|
+|**[Spacecraft power system (SPS)](sps.md)**·СЭС|—|
+|**[Star tracker](sensor.md)**·Звёздный датчик|—|
+|**[Sun sensor](sensor.md)**·Солнечный датчик|—|
+|**[Systems engineering (SE)](se.md)**·СЭ|+|
+|**[Telemetry system (TMS)](tms.md)**·ТМС|+|
+|**[Thermal control system (TCS)](tcs.md)**·СОТР|+|
+|**[Timeline](timeline.md)**·Циклограмма|+|
+|**[Wind turbine (WT)](wt.md)**·Ветрогенератор|—|
 
 </small>
 
@@ -378,7 +373,7 @@ In common any onboard equipment can be basically described using the following t
 
 <p style="page-break-after:always"> </p>
 
-## 4. Structures, gears, materials
+## ➃ Structures, gears, materials
 **Structures, gears, materials (SGM)** *(ru. Конструктивные элементы, механизмы, материалы, КММ)* — elements of SC or their parts.
 
 Below is a list & characteristics of materials used in the space (and not so) industry.
@@ -417,7 +412,7 @@ Below is a list & characteristics of materials used in the space (and not so) in
 
 ### Materials
 
-   - The use of the following materials in a SC (especially, in parts interacting with an atmosphere or soil or affecting SC actions) shall be deliberately limited — Diamond, Platinoids, Silicon carbide, Ag, As, Au, Bi, [Cu](copper.md), Ga, Ge, In, [Ni](nickel.md), [Sn](tin.md), Sb, Se, Te, Zn.
+   - The use of the following materials in a SC (especially, in parts interacting with an atmosphere or soil or affecting SC actions) shall be deliberately limited:<br> Diamond, Platinoids, Silicon carbide, Ag, As, Au, Bi, [Cu](copper.md), Ga, Ge, In, [Ni](nickel.md), [Sn](tin.md), Sb, Se, Te, Zn
    - [Fuel](ps.md)
    - [Materials characteristics](matc.md)
 
@@ -430,7 +425,7 @@ Below is a list & characteristics of materials used in the space (and not so) in
 
 <p style="page-break-after:always"> </p>
 
-## Docs & links (TRANSLATEME ALREADY)
+## ➄ Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:--|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|

@@ -1,12 +1,12 @@
 # Perigee Aerospace
 > 2020.07.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/p/perigee_as_logo1_thumb.webp)](../f/contact/p/perigee_as_logo1.webp)|<info@perigee.kr>, +82(0)42 710 3513, Fax: …;<br> *398 Daedeok-daero, 4th floor, Seo-gu, Daejeon, Republic of Korea 35203*<br> 【<https://perigee.kr/>・ [LinkedIn ⎆](https://www.linkedin.com/company/perigee-aerospace/)・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/Perigee_Aerospace)】|
+|[![](../f/contact/p/perigee_as_logo1_thumb.webp)](../f/contact/p/perigee_as_logo1.webp)|<info@perigee.kr>, +82(0)42 710 3513, Fax: …;<br> *398 Daedeok-daero, 4th floor, Seo-gu, Daejeon, Republic of Korea 35203*<br> 【[WEBSITE ⎆](https://perigee.kr/)・ [LinkedIn ⎆](https://www.linkedin.com/company/perigee-aerospace/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Perigee_Aerospace)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
+|**Business**|Small / medium orbital & sub‑orbital LV|
 |**[MGMT](../mgmt.md)**|…|
 
 **Perigee Aerospace** is a private developer & manufacturer of orbital & sub‑orbital [launch vehicles](../lv.md) located in Daejeon, South Korea. The company was formally established in 2018, but work began in 2012, initially with the launch of sounding rockets.

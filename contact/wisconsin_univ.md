@@ -1,7 +1,7 @@
 # Wisconsin University
 > 2019.08.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/w/wisconsin_univ_logo1_thumb.webp)](../f/contact/w/wisconsin_univ_logo1.webp)|<guide-help@lists.wisc.edu>, +1(608)263-24-00, Fax: …;<br> *3HGQ+J2 Madisone, Wisconsin, USA*<br> 【<https://www.wisc.edu/>・ [Wikipedia(EN) ⎆](https://en.wikipedia.org/wiki/University_of_Wisconsin–Madison)】|
+|[![](../f/contact/w/wisconsin_univ_logo1_thumb.webp)](../f/contact/w/wisconsin_univ_logo1.webp)|<guide-help@lists.wisc.edu>, +1(608)263-24-00, Fax: …;<br> *3HGQ+J2 Madisone, Wisconsin, USA*<br> 【<https://www.wisc.edu/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/University_of_Wisconsin–Madison)】|
 |:--|:--|
 |**Mission**|…|
 |**Vision**|…|
