@@ -16,7 +16,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
@@ -49,7 +49,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑001| |Atmosphere: preliminary model.| |D|C|F| | |
 |EVN‑002| |Surface: preliminary map.| |D|C| | | |
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
@@ -79,7 +79,7 @@ Venera 8 carried out accurate direct (in situ) measurements of atmospheric tem
 **Winds**
 
 |*Heigth*|*Wind speed*|
-|:--|:--|
+|:-|:-|
 |50 ㎞|100 ㎧|
 |45 ㎞|70 – 40 ㎧|
 |45 – 20 ㎞|40 – 20 ㎧|
@@ -123,7 +123,7 @@ The purpose of the launch of the automatic station Venera 8 was to deliver the
       - Estimation of wind speed in the atmosphere − the onboard radio complex of the lander and ground installations were used.
 
 |*Location*|*Instrument*|*Function*|*Mass, ㎏*|*Power, W*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Orbiter|**КС-18-4М**|Instrument to study the flows of cosmic particles|≤1.6|2.0|
 |Orbiter|**ЛА-4**|Measuring the density of H₂ and H₃|≤2.0|≤2.0|
 |Lander|**ИТД**, **МД**|Temperature and pressure sensors|≤0.7|—|
@@ -173,7 +173,7 @@ In order to determine the illumination of the surface of the planet, necessary f
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

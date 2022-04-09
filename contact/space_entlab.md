@@ -1,8 +1,8 @@
 # Space Entertainment Laboratory
 > 2021.12.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/space_entlab_logo2_thumb.webp)](../f/contact/s/space_entlab_logo1.webp)|<info@selab.jp>, <mark>noworkphone</mark>, Fax: … ;<br> *22-17 Nishimine-machi, Ota-ku, Tokyo, Japan*<br> 【<http://www.selab.jp/>】|
-|:--|:--|
+|[![](../f/contact/s/space_entlab_logo2_thumb.webp)](../f/contact/s/space_entlab_logo1.webp)|<info@selab.jp>, <mark>noworkphone</mark>, Fax: …;<br> *22-17 Nishimine-machi, Ota-ku, Tokyo, Japan*<br> 【<http://www.selab.jp/>】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -19,7 +19,7 @@ The **D‑subminiature** or **D‑sub** is a common type of electrical connector
 In telecommunications, **RS‑232, Recommended Standard 232** is a standard originally introduced in 1960 for serial communication transmission of data. It formally defines signals connecting between a DTE (data terminal equipment) such as a computer terminal, & a DCE (data circuit‑terminating equipment or data communication equipment), such as a modem. The standard defines the electrical characteristics & timing of signals, the meaning of signals, & the physical size & pinout of connectors. The current version of the standard is TIA‑232‑F Interface Between Data Terminal Equipment & Data Circuit‑Terminating Equipment Employing Serial Binary Data Interchange, issued in 1997. The RS‑232 standard had been commonly used in computer serial ports & is still widely used in industrial communication devices.
 
 |*Standard*|*TIA‑232‑F*|
-|:--|:--|
+|:-|:-|
 |Connector types|Not specified. DB‑25 & DE‑9 commonly used|
 |Creation date|1960|
 |Max. Binary Rate|115 200 bit/s (15 m)|
@@ -76,7 +76,7 @@ The RS‑232 standard defines the voltage levels that correspond to logical one 
 **RS‑232 logic & voltage levels**
 
 |*Data circuits*|*Control circuits*|*Voltage*|
-|:--|:--|:--|
+|:-|:-|:-|
 |0 (space)|Asserted|+3 to +15 V|
 |1 (mark)|Deasserted|−15 to −3 V|
 
@@ -116,7 +116,7 @@ A minimal “3‑wire” RS‑232 connection consisting only of transmit data, r
 **RS‑422**, also known as TIA/EIA‑422, is a technical standard originated by the Electronic Industries Alliance that specifies electrical characteristics of a digital signaling circuit. It was intended to replace the older RS‑232C standard with a standard that offered much higher speed, better immunity from noise, & longer cable lengths. RS-422 systems can transmit data at rates as high as 10 Mbit/s, or may be sent on cables as long as 1 500 meters at lower rates. It is closely related to RS‑423, which used the same signaling systems but on a different wiring arrangement.
 
 |*Standard*|*TIA/EIA‑422*|
-|:--|:--|
+|:-|:-|
 |Connector types|Not specified. DB‑25 & DE‑9 commonly used|
 |Creation date|1994 (rev.B), 1978 (rev.A), 1975 (original)|
 |Max. Binary Rate|10 kbit/s (1 500 m) ‑ 10 Mbit/s (10 m)|
@@ -175,7 +175,7 @@ When used in relation to communications wiring, RS-422 wiring refers to cable ma
 **RS‑485**, also known as **TIA‑485(‑A)** or **EIA‑485**, is a standard defining the electrical characteristics of drivers and receivers for use in serial communications systems. Electrical signaling is balanced, and multipoint systems are supported. The standard is jointly published by the Telecommunications Industry Association and Electronic Industries Alliance (TIA/EIA). Digital communications networks implementing the standard can be used effectively over long distances and in electrically noisy environments. Multiple receivers may be connected to such a network in a linear, multidrop bus. These characteristics make RS‑485 useful in industrial control systems and similar applications.
 
 |*Standard*|*TIA/EIA‑485*|
-|:--|:--|
+|:-|:-|
 |Connector types|not specified. DE‑9 commonly used|
 |Creation date|2012 (reaffirmed), 1988 (approved)|
 |Max. Binary Rate|10 Mbit/s (10 m), 2 Mbit/s (50 m)|
@@ -246,7 +246,7 @@ The standard does not discuss cable shielding but makes some recommendations on 
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Cable](cable.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [ОТБКС](cable.md)|

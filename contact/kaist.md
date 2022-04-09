@@ -2,7 +2,7 @@
 > 2020.07.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/k/kaist_logo1_thumb.webp)](../f/contact/k/kaist_logo1.webp)|<kaistpr@kaist.ac.kr>, +82-42-350-2114, Fax: +82-42-350-2210(2220);<br> *291 Daehak-ro, Eoeun-dong, Yuseong-gu, Daejeon, Korea*<br> 【[WEBSITE ⎆](https://www.kaist.ac.kr/)・ [Facebook ⎆](https://www.facebook.com/KAIST.official)・ [Instagram ⎆](https://www.instagram.com/official_kaist/)・ [LinkedIn 1 ⎆](https://www.linkedin.com/school/한국과학기술원-kaist-/) & [2 ⎆](https://www.linkedin.com/company/korea-advanced-institute-of-science-and-technology/)・ [Twitter ⎆](https://twitter.com/kaistpr)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/KAIST)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

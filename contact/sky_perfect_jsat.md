@@ -2,7 +2,7 @@
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/sky_perfect_jsat_logo1_thumb.webp)](../f/contact/s/sky_perfect_jsat_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://www.skyperfectjsat.space/>・ <https://www.jsat.net/en/>・ [LinkedIn ⎆](https://www.linkedin.com/company/sky-perfect-jsat-holdings-inc/about/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/SKY_Perfect_JSAT)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

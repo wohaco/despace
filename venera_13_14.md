@@ -15,7 +15,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑006|T|Exploration: from surface.| | |C| | | |
@@ -118,7 +118,7 @@ X‑ray fluorescence spectrometer measured the composition of cloud aerosols at 
 The Venera 14 lander performed the same set of measurements during descent in the atmosphere and after landing as Venera 13, and obtained very similar results. Below are the combined results of mass spectroscopic measurements on both devices ([EVN‑014](venus.md)):
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
-|:--|:--|
+|:-|:-|
 |Carbon dioxide|97 %|
 |Molecular hydrogen|4.0 ± 0.3 %|
 |Argon|100 ppm|
@@ -129,7 +129,7 @@ The Venera 14 lander performed the same set of measurements during descent in 
 The ratio of isotopes:
 
 |*Isotopic ratios*|*Value*|
-|:--|:--|
+|:-|:-|
 |Carbon (13C/12C)|0.0108|
 |Argon (40Ar/36Ar)|1.11 ± 0.02|
 |Argon (38Ar/36Ar)|0.183 ± 0.003|
@@ -138,7 +138,7 @@ The ratio of isotopes:
 Gas chromatograph measurements yielded the following values:
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
-|:--|:--|
+|:-|:-|
 |Water vapor|700 ± 300 ppm|
 |Molecular oxygen|18 ± 4 ppm|
 |Molecular hydrogen|25 700 ± 10 ppm|
@@ -164,7 +164,7 @@ The composition of the surface samples showed similarities with oceanic tholeiit
 The results of the analysis of the elemental composition of Venusian rocks according to measurements using x‑ray fluorescence spectrometer:
 
 |*Chemical element*|*Value, % (Venera 13)*|*Value, % (Venera 14)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Silicon|45|49|
 |Titanium|1.6|1.3|
 |Aluminum|16|18|
@@ -229,7 +229,7 @@ Orbiter payload mass: 92 ㎏.
    - Two cameras with light filters for color panoramic images **TFZL-077**
 
 |*Parameter*|*Value*|
-|:--|:--|
+|:-|:-|
 |Light filter|Neutral / transparent, Red, Green, Blue|
 |Viewing angle|180°|
 |Transmission speed|64 kbps|
@@ -261,7 +261,7 @@ Compared to Venera 11 and Venera 12, the cameras, drill, spectrophotometer, 
       - Radiator-cooler.
 
 |*Parameter*|*Mass, ㎏*|
-|:--|:--|
+|:-|:-|
 |Launch mass of Venera 13|4 397.85|
 |Launch mass of Venera 14|4 394.5|
 |Fly‑by spacecraft’s mass (with fuel)|2 718|
@@ -307,7 +307,7 @@ The cameras were installed inside the airtight and thermally insulated compartme
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

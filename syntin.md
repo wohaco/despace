@@ -12,7 +12,7 @@
 См. также [сравнение видов топлив](ps.md).
 
 |Наименование|1‑метил‑1,2‑дициклопропилциклопропан|
-|:--|:--|
+|:-|:-|
 |Плотность|0.851 g/㎝³|
 |T кипения|+158 ℃|
 |[Токсичность](nfpa_704.md)|токсичен|
@@ -39,7 +39,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Топливо:`**<br> [Кавитация](cavitation.md)・ [Мятый газ](exhsteam.md)・ [Нейтрализация КРТ](нейтрализация_крт.md)|

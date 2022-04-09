@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/i/ipm_keldysh_logo1_thumb.webp)](../f/contact/i/ipm_keldysh_logo1.webp)|<office@keldysh.ru>, +7(499)978-13-14, Fax: +7(499)972-07-37;<br> *Россия, 125047, Москва, Миусская пл., д. 4*<br> 【<http://www.keldysh.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

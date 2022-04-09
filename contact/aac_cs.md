@@ -2,7 +2,7 @@
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/a/aac_cs_logo1_thumb.webp)](../f/contact/a/aac_cs_logo1.webp)|<info@aacmicrotec.com>, +46(18)560-130, Fax: …;<br> *Uppsala Science Park, Dag Hammarskjölds väg 48, SE-751 83 Uppsala, Sweden*<br> 【<https://www.aac-clyde.space/>・ [Facebook ⎆](https://www.facebook.com/clydespace)・ [Instagram ⎆](https://www.instagram.com/clydespace/)・ [LinkedIn ⎆](https://www.linkedin.com/company/clyde-space-ltd/)・ [Twitter ⎆](https://twitter.com/ClydeSpace)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

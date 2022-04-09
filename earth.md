@@ -25,7 +25,7 @@
    1. <https://en.wikipedia.org/wiki/The_Blue_Marble>
 
 |*Экипаж «Аполлона‑17».<br> Синий марбл. 1972. The Blue Marble*|*Blue Marble 2012*|
-|:--|:--|
+|:-|:-|
 |[![](f/aob/universe/blue_marble_thumb.webp)](f/aob/universe/blue_marble.webp)|[![](f/aob/universe/blue_marble_2012_thumb.webp)](f/aob/universe/blue_marble_2012.webp)|
 
 Снимок, сделанный астронавтами 1972.12.07 в 5:39 EST (13:39 МСК), является одним из наиболее распространяемых снимков всех времён. Для астронавтов Земля имела размер и вид голубого марбла (игрушки, обычно представляющей собой цветной стеклянный шарик), отсюда и название.
@@ -52,7 +52,7 @@
    1. <https://en.wikipedia.org/wiki/Pale_Blue_Dot>
 
 |*Крошечная точка посередине коричневатой полосы справа —<br> Земля с расстояния 6 миллиардов километров.*|
-|:--|
+|:-|
 |![](f/aob/universe/pale_blue_dot.webp)|
 
 1990.02.14 НАСА отправило зонду, к тому моменту завершившему свою основную миссию, команду развернуться и сделать фотографии планет Солнечной системы. Одной из фотографий, полученных между 14 февраля и 6 июня 1990 года, было изображение Земли, представленной «бледно‑голубой точкой» на зернистом снимке.
@@ -60,7 +60,7 @@
 **Таблица.** Удаление зонда «Вояджер‑1» от Земли
 
 |*[Мера измерения](si.md)*|*14 февраля 1990*|*9 июня 1990*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Астрономические единицы|40.4722269111071|40.6835761263791|
 |Мили|3 762 136 324.748|3 781 782 502.403|
 |Километры|6 054 558 968.024|6 086 176 360.601|
@@ -96,7 +96,7 @@ It has been said that astronomy is a humbling and character‑building experienc
    1. <https://en.wikipedia.org/wiki/Pole_of_inaccessibility#Oceanic_pole_of_inaccessibility>
 
 | | |
-|:--|:--|
+|:-|:-|
 |![](f/aob/earth/point_nemo_02.webp)|![](f/aob/earth/point_nemo_01_thumb.webp)|
 |Точка Немо в Тихом океане|И [в большом разрешении ❐](f/aob/earth/point_nemo_01.webp)|
 
@@ -128,7 +128,7 @@ It has been said that astronomy is a humbling and character‑building experienc
 Уровень моря — 101 300 ㎩ (1 атм.; 760 ㎜ рт.ст. атмосферного давления), плотность среды 2.7·10¹⁹ молекул/㎝³.
 
 |*Высота, км*|*Описание*|
-|:--|:--|
+|:-|:-|
 |0.5|до этой высоты проживает 80 % человеческого населения мира.|
 |2|до этой высоты проживает 99 % населения мира.|
 |2 ‑ 3|начало проявления недомоганий (горная болезнь) у неакклиматизированных людей.|
@@ -176,7 +176,7 @@ It has been said that astronomy is a humbling and character‑building experienc
 Для тех, кому нужны более точные цифры: давление ㎪, плотность ㎏/m³, температура ℃ — земной атмосферы (воздуха) в зависимоcти от высоты над уровнем моря по версии ICAO. От ‑250 м до 30 000 м.
 
 |*Высота над<br> уровнем моря, м*|*Давление, ㎪*|*Плотность, ㎏/m³*|*Температура, ℃*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |‑250|104.4|1.25|17|
 |0|101.3|1.22|15|
 |250|98.4|1.20|13|
@@ -217,7 +217,7 @@ It has been said that astronomy is a humbling and character‑building experienc
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Astro.object](aob.md)・ [Blue Marble](earth.md)・ [Cosmic rays](ion_rad.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|

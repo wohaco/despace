@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/r/rosgidromet_logo1_thumb.webp)](../f/contact/r/rosgidromet_logo1.webp)|<garkina@mcc.mecom.ru>, +7(499)252-55-04, +7(499)252-94-84, +7(499)252-14-86 — для справок, Fax: +7(499)795-23-54;<br> *Россия, 123995, Москва, ГСП‑5, Нововаганьковский пер., д. 12*<br> 【<http://www.meteorf.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

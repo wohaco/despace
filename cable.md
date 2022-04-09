@@ -21,7 +21,7 @@
 **Manufacturers:**
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Calian AT](contact/calian_at.md) — Cable Modulators|
@@ -42,7 +42,7 @@
 ## Connectors
 
 |*Picture*|*Description*|
-|:--|:--|
+|:-|:-|
 |![](f/cable/de_9_1_thumb.webp)|[CAN](can.md)<br> (data exchange, only data‑link layer)|
 |*No spec.*|[JTAG](jtag.md)<br> (testing)|
 |*No spec.*|[LVDS](lvds.md)<br> (data exchange, physical layer only)|
@@ -80,7 +80,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Cable](cable.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [ОТБКС](cable.md)|

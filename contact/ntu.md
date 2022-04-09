@@ -1,8 +1,8 @@
 # NTU
 > 2022.02.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/n/ntu_logo1_thumb.webp)](../f/contact/n/ntu_logo1.svg)|<qsmanager@ntu.edu.sg>, +65( 679)117-44, Fax: … ;<br> *50 Nanyang Avenue, Singapore 639798*<br> 【[WEBSITE ⎆](http://www.ntu.edu.sg/)・ [Facebook ⎆](https://www.facebook.com/NTUsg/)・ [Instagram ⎆](https://www.instagram.com/ntu_sg/)・ [LinkedIn ⎆](https://www.linkedin.com/company/ntusg/)・ [Twitter ⎆](https://www.twitter.com/ntusg)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Nanyang_Technological_University)】|
-|:--|:--|
+|[![](../f/contact/n/ntu_logo1_thumb.webp)](../f/contact/n/ntu_logo1.svg)|<qsmanager@ntu.edu.sg>, +65( 679)117-44, Fax: …;<br> *50 Nanyang Avenue, Singapore 639798*<br> 【[WEBSITE ⎆](http://www.ntu.edu.sg/)・ [Facebook ⎆](https://www.facebook.com/NTUsg/)・ [Instagram ⎆](https://www.instagram.com/ntu_sg/)・ [LinkedIn ⎆](https://www.linkedin.com/company/ntusg/)・ [Twitter ⎆](https://www.twitter.com/ntusg)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Nanyang_Technological_University)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

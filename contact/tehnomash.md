@@ -2,7 +2,7 @@
 > 2019.08.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/t/tehnomash_logo1_thumb.webp)](../f/contact/t/tehnomash_logo1.webp)|<info@tmnpo.ru>, +7(495)689-50-66, Fax: +7(495)689-73-45;<br> *Россия, 127018, Москва, 3‑й проезд Марьиной рощи, д. 40*<br> 【<http://www.tmnpo.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

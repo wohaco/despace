@@ -10,7 +10,7 @@
 The **Chinese Deep Space Network (CDSN)** is a network of large antennas and communication facilities that supports the lunar and interplanetary spacecraft missions of China. It is managed by the China Satellite Launch and Tracking Control General (CLTC).
 
 | |
-|:--|
+|:-|
 |[![](f/gs/cdsn_pic1_thumb.webp)](f/gs/cdsn_pic1.webp)|
 
 As of 2007, the network consisted of:
@@ -34,7 +34,7 @@ As of 2017, China was constructing an additional ground station in South America
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|

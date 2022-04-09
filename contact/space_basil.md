@@ -2,7 +2,7 @@
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/space_basil_logo1_thumb.webp)](../f/contact/s/space_basil_logo1.webp)|<info@spacebasil.co.jp>, +81(3)6228-1352, Fax: +81(3)6733-7870 ;<br> *4-2-15 Ginza Chuo-ku, Tokyo, 104-0061, Japan*<br> 【<https://spacebasil.co.jp/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

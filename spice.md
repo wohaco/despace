@@ -14,7 +14,7 @@
 The SPICE system’s logical components & the actual data files — the kernels — used to realize those components are summarized below.
 
 |*#*|*Description*|
-|:--|:--|
+|:-|:-|
 |**S**|Spacecraft ephemeris, given as a function of time. (SPK)|
 |**P**|Planet, satellite, comet, or asteroid ephemerides, or more generally, location of any target body, given as a function of time. (also SPK). The **P** component also logically includes certain physical, dynamical & cartographic constants for target bodies, such as size & shape specifications, & orientation of the spin axis & prime meridian. (PCK)|
 |**I**|Instrument information containing descriptive data peculiar to the geometric aspects of a particular scientific instrument, such as field‑of‑view size, shape & orientation parameters. (IK)|
@@ -25,7 +25,7 @@ The SPICE system’s logical components & the actual data files — the kernels 
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md)・ [Апоцентр и перицентр](apopericentre.md)・ [Гравманёвр](gravass.md)・ [Кеплеровы элементы](keplerian.md)・ [Космическая скорость](esc_vel.md)・ [Сфера Хилла](hill_sphere.md)・ [Терминатор](terminator.md)・ [Точки Лагранжа](l_points.md)・ [Эффект Оберта](oberth_eff.md)|

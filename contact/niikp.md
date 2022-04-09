@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/n/nii_kp_logo1_thumb.webp)](../f/contact/n/nii_kp_logo1.webp)|<info@orkkniikp.ru>, +7(495)517-92-00, Fax: +7(495)673-47-19;<br> *Россия, 111250, г. Москва, Авиамоторная ул., д. 53*<br> 【<http://oaoniikp.ru/>・ <http://www.federalspace.ru/1536/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2021.05.21 [🚀](../index/index.md) [despace](index.md)
 
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 
 [TOC]
@@ -42,7 +42,7 @@ The **universe** is all of space, time & their contents, incl. planets, stars, g
       1. [Neptune](neptune.md) & satellites — [Nereid](nereid.md)・ [Proteus](proteus.md)・ [Triton](triton.md)・ 11 smaller ones
 
 |[![](f/aob/universe/solar_system_sizes_pic1_thumb.webp)](f/aob/universe/solar_system_sizes_pic1.webp) [![](f/aob/universe/solar_system_sizes_pic2_thumb.webp)](f/aob/universe/solar_system_sizes_pic2.webp) [![](f/aob/universe/solar_system_sizes_pic3_thumb.webp)](f/aob/universe/solar_system_sizes_pic3.webp)|
-|:--|
+|:-|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Astro.object](aob.md)・ [Blue Marble](earth.md)・ [Cosmic rays](ion_rad.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|
 
 <p style="page-break-after:always"> </p>
@@ -58,7 +58,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 <small>
 
 | |*En*|*Ru*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**°**|**3-DOF** — three‑degrees of freedom| |
 | |**[5D optical data storage](ds.md)**|≠ 5‑мерное хранилище информации|
 | |**6-DOF** — six‑degrees of freedom| |
@@ -258,7 +258,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 <small>
 
 | |*Ru*|*En*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**А**|**АБ** — [аккумуляторная батарея](eb.md)|**RB** — rechargeable battery / storage battery / secondary cell / accumulator|
 | |**АВПКО** — [анализ видов, последствий и критичности отказов](fmeca.md)|**FMECA** — failure modes effects criticality analysis|
 | |**АВПО** — [анализ видов и последствий отказов](fmeca.md)|**FMECA** — failure modes effects criticality analysis|
@@ -496,7 +496,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 <small>
 
 | |*Ru*|*En*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**З**|**[Задел](margin.md)**|Margin|
 | |**[Заключение на этап ОКР](report_rndc.md)**|≠ Conclusion report for R&D phase|
 | |**[Законы развития техники](td_laws.md)**|Technology derivative laws|
@@ -686,7 +686,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 <small>
 
 | |*Ru*|*En*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**Л**|**ЛВВ** — [лазерный высотомер‑вертикант](doppler.md)|**LA&RS** — laser altimeter & roll stabilizer|
 | |**ЛВС** — локальная вычислительная сеть|**LAN** — local area network|
 | |**ЛЗ** — [лист запуска](ch_notice.md)|Change notice|
@@ -856,7 +856,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 <small>
 
 | |*Ru*|*En*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**О**|**ОА** — орбитальный аппарат|Orbiter|
 | |**[ОТБКС](cable.md)** — обжимная технология кабелей|Crimp technology for cables|
 | |**[Образование](edu.md)**|Education|
@@ -1304,7 +1304,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 <small>
 
 | |*Ru*|*En*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**У**|**УАККиС** — Управление автоматическими космическими комплексами и системами|≠ **AOASS** — Administration of automatic spacesystems|
 | |**УГТ** — [уровень готовности технологии](trl.md)|**TRL** — [technology readiness levels](trl.md)|
 | |**УДК** — [универсальная десятичная классификация](udc.md)|**UDC** — universal decimal classification|

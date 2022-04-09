@@ -28,7 +28,7 @@
    1. повсеместное использование композитных материалов.
 
 | |
-|:--|
+|:-|
 |[![](f/project/m/mx1_5/moon-express-mx1_thumb.webp)](f/project/m/mx1_5/moon-express-mx1.webp)|
 |[![](f/project/m/mx1_5/moonex-richards_thumb.webp)](f/project/m/mx1_5/moonex-richards.webp)|
 |[![](f/project/m/mx1_5/moon-express-mx2_thumb.webp)](f/project/m/mx1_5/moon-express-mx2.webp)|
@@ -47,7 +47,7 @@
 **Таблица.** Лимитная массово‑электрическая сводка.
 
 |*Наименование*|<small>*Масса, кг*</small>|<small>*Эл.п., Вт*</small>|<small>*Стоимость, $*</small>|*Примечания*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |**1. КА**|**13**|**70**| | |
 |·   1.1 БКС|   0.5|   —| | |
 |·   1.2 БКУ|   1.29|   1.38|—| |
@@ -98,7 +98,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

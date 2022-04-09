@@ -14,7 +14,7 @@ The Venus Exploration Analysis Group is NASA’s community‑based forum designe
 In addition to interested members of the scientific community, each focus group will include technology experts, NASA representatives, international partner representatives, EPO experts, and the chair. The current focus groups are listed below. Other focus groups may be added, as needed.
 
 |*VEXAG 2019*|<https://www.lpi.usra.edu/vexag/meetings/vexag-17/>;<br> <https://www.lpi.usra.edu/vexag/>;<br> <https://twitter.com/unveilvenus>;<br> <https://www.facebook.com/groups/432478660134856/>|
-|:--|:--|
+|:-|:-|
 |Date|November 6 (We) ‑ 8 (Fr), 2019|
 |Venue|[LASP](contact/lasp.md) Space Sciences Building, Room W-120, 3665 Discovery Dr., Boulder, CO 80303|
 |Host Org.| |
@@ -44,7 +44,7 @@ In addition to interested members of the scientific community, each focus group 
    - …
 
 |*Steering Committe Member*|*Position/Roles*|*Tenure*|
-|:--|:--|:--|
+|:-|:-|:-|
 |[Darby Dyar](person.md) (Mt.Holyoke College)|Chair|12.2018 ‑ 12.2021|
 |[Noam Izenberg](person.md) (JHUAPL)|Deputy Chair|12.2018 ‑ 12.2021|
 |[Gary Hunter](person.md) (GRC)|Lead, Technology Development<br> & Laboratory Measurements Focus Group|02.2017 ‑ 02.2020|
@@ -90,7 +90,7 @@ In addition to interested members of the scientific community, each focus group 
 **Таблица.** Общие участники с ближайшими конференциями.
 
 |*Конференция*|*Участники*|
-|:--|:--|
+|:-|:-|
 |**[IVC 2019](ivc_2019.md)**| |
 |**[2019 VD Workshop](vdws2019.md)**| |
 |**[MSSS, 10th](msss_10.md)**| |
@@ -101,7 +101,7 @@ In addition to interested members of the scientific community, each focus group 
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](contact/cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|

@@ -2,7 +2,7 @@
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/a/axion_logo1_thumb.webp)](../f/contact/a/axion_logo1.webp)|<mark>noemail</mark>, +7(3412)56-08-99, Fax: +7(3412)723–948;<br> *Россия, 426000, Удмуртская Республика, Ижевск, ул. М. Горького, 90*<br> 【<http://www.axion.ru>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Ижевский_мотозавод)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

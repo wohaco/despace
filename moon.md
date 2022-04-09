@@ -10,14 +10,14 @@
 **Moon** (astr. ☾ [❐](f/aob/moon/moon_symbol_svg.webp), lat. *Luna*) is a natural satellite [of the Earth](earth.md). The closest satellite to the [Sun](sun.md) planet, since the planets closest to the Sun, [Mercury](mercury.md) & [Venus](venus.md), have no satellites. The second brightest object in the Earth’s firmament after the Sun & the fifth largest natural satellite of the planet [solar system](solar_system.md). The average distance between the centers of the Earth & the Moon is 384 467 ㎞ (~30 Earth diameters). Has huge reserves of [helium‑3](helium.md). Moon Symbols: ☽︎🌛︎ 🌕︎ 🌝︎ ☾ 🌜︎ 🌑︎ 🌚︎ 🌑🌒🌓🌔🌕🌖🌗🌘
 
 |*Moon*| | |*Map*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |[![](f/aob/moon/moon_fullmoon2010_thumb.webp)](f/aob/moon/moon_fullmoon2010.webp)|[![](f/aob/moon/moon_map1_thumb.webp)](f/aob/moon/moon_map1.webp)|[![](f/aob/moon/moon_map2_thumb.webp)](f/aob/moon/moon_map2.webp)|[![](f/aob/moon/moon_map3_thumb.webp)](f/aob/moon/moon_map3.webp)|
 
 
 
 ## Description & Characteristics
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Breaking to the orbit|…|
 |Distance from Earth|356 000 ‑ 407 000 ㎞, flight for 4.5 ‑ 5.5 days w/ [LPS](ps.md), signal is 1.17 ‑ 1.36 s|
 |Velocity from Earth|… ㎞/s|
@@ -76,7 +76,7 @@ The [radiation dose](ion_rad.md) for the lunar surface is 285 higher than for Ea
 The possible acceptable dose for the surface operations can be assumed as 0.05 ‑ 0.1 ㏜/y. The average absorbed dose of solar & cosmic rays during the 5‑ 14 days of flight from Earth to the Lunar surface is 9.74 ㏜/y for the 3.7 ㎜ thick aluminum shield (45 % of the dose per year with the same shielding on the lunar surface). The major contribution (~99.986 %) is coming from the solar radiation while the aluminum shielding does not make any sufficient effect for cosmic rays. The average absorbed dose on the surface is:
 
 |*Solar & cosmic rays, ㏜/y*|*Cosmic rays only, ㏜/y*|*Aluminum shield thickness, ㎜*|
-|:--|:--|:--|
+|:-|:-|:-|
 |285|0.037 5|0.37|
 |21.5|0.038|3.7|
 |1.25|0.034 7|37|
@@ -93,7 +93,7 @@ Meteorites are moving with a speed up to 72 ㎞/s & have a mass from 0.000 0
 ### Surface & Maps
 
 |*South pole*|*North pole*|
-|:--|:--|
+|:-|:-|
 |[![](f/aob/moon/moon_map_south_pole_thumb.webp)](f/aob/moon/moon_map_south_pole.webp)|[![](f/aob/moon/moon_map_north_pole_thumb.webp)](f/aob/moon/moon_map_north_pole.webp)|
 
 **Links:**
@@ -133,7 +133,7 @@ Based on various observations (missions Apollo, Surveyor‑3, etc.), statistics 
 Expected number of microcraters
 
 |*Crater’s diameter, m*|*Quantity, 1/(m²·year)*|
-|:--|:--|
+|:-|:-|
 |≥ 0.0000001|30 000|
 |≥ 0.000001|1 200|
 |≥ 0.00001|300|
@@ -147,7 +147,7 @@ It’s believed that a layer in the first few hundred from the surface to the in
 Composition of grains of a soil sample taken during the Apollo 11 mission
 
 |*Grain size, mm*|*Percentage (by weight),%*|
-|:--|:--|
+|:-|:-|
 |10 ‑ 4|1.67|
 |4 ‑ 2|2.39|
 |2 ‑ 1|3.20|
@@ -320,7 +320,7 @@ See also “[Projects](project.md)”.
 **Table.** Missions/spacecraft of past & future. (**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)
 
 | |*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |—|**【Proposed】**|—|•|•|•|•|•|•|—|
 |CN|[Chang'e-5](chang_e_5.md)| | | | | | | |<mark>TBD</mark>|
 |CN|[Chang'e-4](chang_e_4.md)| | |C| | | | |<mark>TBD</mark>|
@@ -430,7 +430,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 <small>
 
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EMN‑…| | | | | | | | |
 |•|•|**【Was tried】**|•|•|•|•|•|•|
@@ -554,7 +554,7 @@ In brief — 97 targets in total (33 technical, 64 scientific) consisting 
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Astro.object](aob.md)・ [Blue Marble](earth.md)・ [Cosmic rays](ion_rad.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|

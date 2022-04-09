@@ -2,7 +2,7 @@
 > 2020.02.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/m/mbrsc_logo1_thumb.webp)](../f/contact/m/mbrsc_logo1.webp)|<info@mbrsc.ae>, +971(4)607-12-00, Fax: …;<br> *Al Khawaneej Street,Al Khawaneej, Dubai, ОАЭ*<br> 【[WEBSITE ⎆](http://www.mbrsc.ae/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Space_Centre)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -24,7 +24,7 @@ Was created in NASA in the 1970s as a list of 7 points. Was extended in the late
    - Levels 5 ‑ 9 — existing technologies & missions in the definition phase.
 
 |*Lvl*|*Description*|
-|:--|:--|
+|:-|:-|
 |**TRL 1**|Basic principles observed & reported|
 |**TRL 2**|Technology concept and/or application formulated|
 |**TRL 3**|Analytical & experimental critical function and/or characteristic proof‑of‑concept|
@@ -38,7 +38,7 @@ Was created in NASA in the 1970s as a list of 7 points. Was extended in the late
 ### NASA TRL chart
 
 |*Lvl*|*Description*|
-|:--|:--|
+|:-|:-|
 |TRL 1|**Basic principles observed & reported.**<br> Scientific research begins to be translated into applied [R&D](rnd.md).|
 |TRL 2|**Technology concept and/or application formulated.**<br> Once basic physical principles are observed, then practical applications of those characteristics can be invented/identified. At TRL 2, the application is speculative: there’s no experimental proof or detailed analysis to support the conjecture.|
 |TRL 3|**Analytical & experimental critical function and/or characteristic proof of concept.**<br> Active [R&D](rnd.md) is initiated. This must include both analytical studies to set the technology into an appropriate context & lab‑based studies to physically validate that the analytical predictions are correct. These studies & experiments should constitute «proof‑of‑concept» validation of the applications/concepts formulated at TRL 2.|
@@ -54,7 +54,7 @@ Was created in NASA in the 1970s as a list of 7 points. Was extended in the late
 ### Simplified
 
 |*Lvl*|*Description*|
-|:--|:--|
+|:-|:-|
 |TRL 1|What if there were Unicorns|
 |TRL 2|We`ve drawn a Unicorn|
 |TRL 3|unicorn_v8_final_final.cad|
@@ -103,7 +103,7 @@ Current TRL models tend to disregard negative & obsolescence factors. There have
 **Уровень готовности технологий (УГТ)** — по ГОСТ 56861 — степень развития разрабатываемой технологии с целью её внедрения в конечный продукт. УГТ оценивают по многоуровневой шкале в зависимости от специфики продукта. Термин является адаптацией англоязычного [TRL](trl.md). Уровни УГТ в целом соответствуют таковым в TRL.
 
 |*УГТ*|*Описание по ГОСТ 58048*|
-|:--|:--|
+|:-|:-|
 |**УГТ 1**|Выявлены фундаментальные принципы. Сформулирована идея решения физической/технической проблемы, произведено её теоретическое/экспериментальное обоснование.|
 |**УГТ 2**|Сформулированы технологическая концепция и/или применение возможных концепций для перспективных объектов. Обоснованы необходимость и возможность создания новой технологии или технического решения, в которых используются физические эффекты и явления, подтвердившие уровень УГТ 1. Подтверждена обоснованность концепции/тех. решения, доказана эффективность использования идеи (технологии) в решении прикладных задач на базе предварительной проработки на уровне расчётных исследований и моделирования.|
 |**УГТ 3**|Даны аналитические и экспериментальные подтверждения по важнейшим функциональным возможностям и/или характеристикам выбранной концепции. Проведено расчётное и/или экспериментальное (лабораторное) обоснование эффективности технологий, продемонстрирована работоспособность концепции новой технологии в экспериментальной работе на мелкомасштабных моделях устройств. На УГТ 3 в проектах предусматривается отбор работ для дальнейшей разработки технологий.<br> Критерии отбора — демонстрация работы технологии на мелкомасштабных/расчётных моделях, учитывающих ключевые особенности разрабатываемой технологии, или эффективность использования комплекса новых технологий в решении прикладных задач на базе более детальной проработки концепции на уровне экспериментальных разработок по ключевым направлениям, детальных комплексных расчётных исследований и моделирования.|
@@ -120,7 +120,7 @@ Current TRL models tend to disregard negative & obsolescence factors. There have
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|

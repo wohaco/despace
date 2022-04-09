@@ -18,7 +18,7 @@
 
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|US$2 billion or 46 512 ㎏ of [gold](sc_price.md) in January 2018 prices|
 |Development|2004 — 2018|
@@ -52,7 +52,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑070|T|Exploration with [satellites](sc.md): minisatellites.| |D| |F| | |
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
 
@@ -82,7 +82,7 @@ Mercury is too small and hot for its gravity to retain any significant atmospher
 As of 2018, the planned mission schedule is:
 
 |*Date*|*Event*|*Comment*|
-|:--|:--|:--|
+|:-|:-|:-|
 |20 October 2018|Launch| |
 |6 April 2020|Earth fly‑by|1.5 years after launch|
 |12 October 2020|First Venus fly‑by| |
@@ -100,7 +100,7 @@ As of 2018, the planned mission schedule is:
 <br>
 
 |![](f/project/b/bepicolombo/animation_of_bepicolombo_trajectory.gif)|Pink — BepiColombo <br><br> Blue — Earth <br><br> Aqua — Venus <br><br> Green — Mercury <br><br> Yellow — Sun|
-|:--|:--|
+|:-|:-|
 |***Animation of BepiColombo’s trajectory from 20 October 2018 to 2 November 2025***| |
 
 <p style="page-break-after:always"> </p>
@@ -156,7 +156,7 @@ Mio carries five groups of science instruments:
 ## Spacecraft
 ### MTM
 |*QinetiQ T6*|*Performance*|
-|:--|:--|
+|:-|:-|
 |Type|Kaufman Ion Engine|
 |Units on board|4|
 |Diameter|22 ㎝|
@@ -168,7 +168,7 @@ Mio carries five groups of science instruments:
 <br>
 
 |[![](f/project/b/bepicolombo/mtm.webp)](file/проекты/bepicolombo/mtm.webp)|
-|:--|
+|:-|
 |***Mercury Transfer Module in The Large Space Simulator at ESTEC***|
 
 The Mercury Transfer Module (MTM), developed by the European Space Agency, is located at the base of the stack. Its role is to carry the two science Orbiters to Mercury and to support them during the cruise.
@@ -180,7 +180,7 @@ The solar electric propulsion system has typically very high specific impulse an
 ### MPO
 
 |[![](f/project/b/bepicolombo/mpo.webp)](f/project/b/bepicolombo/mpo.webp)|
-|:--|
+|:-|
 |***Mercury Planetary Orbiter in ESTEC before stacking***|
 
 The MPO will have a mass of 1 150 ㎏ and will use a single-sided solar array capable of providing up to 1000 W and featuring Optical Solar Reflectors to keep its temperature below 200 ℃. The solar array requires continuous rotation keeping the Sun at a low incidence angle in order to generate adequate power while at the same time limiting the temperature.
@@ -192,7 +192,7 @@ A high‑temperature‑resistant 1.0 m diameter high‑gain antenna is mounted
 ### Mio
 
 |[![](f/project/b/bepicolombo/mio.webp)](f/project/b/bepicolombo/mio.webp)|
-|:--|
+|:-|
 |***Mio in ESTEC before stacking***|
 
 Mio developed and built mostly by Japan, has the shape of a short octagonal prism, 180 ㎝ long from face to face and 90 ㎝ high. It has a mass of 285 ㎏, including a 45 ㎏ scientific payload consisting of 5 instrument groups.
@@ -216,7 +216,7 @@ Mio is spin stabilized at 15 rpm with the spin axis perpendicular to the equat
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

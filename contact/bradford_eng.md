@@ -2,7 +2,7 @@
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/b/bradford_logo1_thumb.webp)](../f/contact/b/bradford_logo1.webp)|<info@bradford-space.com>, +31(0)165-305-100, Fax: +31(0)165-304-422;<br> *Bradford Engineering B.V., De Wijper 26, 4726 TG Heerle, Нидерланды*<br> 【<http://bradford-space.com/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

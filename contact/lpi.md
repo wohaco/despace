@@ -2,7 +2,7 @@
 > 2019.08.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/l/lpi_logo1_thumb.webp)](../f/contact/l/lpi_logo1.webp)|<webmaster@lpi.usra.edu>, +1(281)486-21-00, Fax: …;<br> *3600 Bay Area Blvd, Houston, TX 77058, USA*<br> 【<https://www.lpi.usra.edu/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Lunar_and_Planetary_Institute)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

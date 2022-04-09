@@ -2,7 +2,7 @@
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/a/astron_electronics_logo1_thumb.webp)](../f/contact/a/astron_electronics_logo1.webp)|<info@astronel.ru>, +7(4862)43-36-93, Fax: +7(4862)43-36-93;<br> *Россия, 302019, Орёл, ул. Весёлая, д. 2*<br> 【<http://www.astronel.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

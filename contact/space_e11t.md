@@ -1,8 +1,8 @@
 # Space Entertainment
 > 2022.02.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/space_e11t_logo1_thumb.webp)](../f/contact/s/space_e11t_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *2-17-3 Kita-Aoyama, Minato-ku, Tokyo, Japan*<br> 【<https://space-entertainment.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/space-entertainment-inc)】|
-|:--|:--|
+|[![](../f/contact/s/space_e11t_logo1_thumb.webp)](../f/contact/s/space_e11t_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2-17-3 Kita-Aoyama, Minato-ku, Tokyo, Japan*<br> 【<https://space-entertainment.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/space-entertainment-inc)】|
+|:-|:-|
 |**Mission**|Turn the universe into a playground for tomorrow|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2019.12.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](file/cooperation//_logo1_thumb.webp)](file/cooperation//_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【…】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

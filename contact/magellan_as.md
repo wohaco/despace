@@ -2,7 +2,7 @@
 > 2019.08.14 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/m/magellan_as_logo1_thumb.webp)](../f/contact/m/magellan_as_logo1.webp)|<magellan.corporate@magellan.aero>, +1(905)677-18-89, Fax: +1(905)677-56-58;<br> *3160 Derry Road East Mississauga, ON L4T 1A9, Canada*<br> 【<http://magellan.aero/>・ <http://magellan.aero/product/space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/magellan-aerospace)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Magellan_Aerospace)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|By setting the standard in quality, delivery, innovation and value.|
 |**Vision**|To be the supplier of choice to the global aerospace industry.|
 |**Values**|**Integrity** — deliver our commitments. **Respect** — everyone is important. **Innovation** — finding ways to do things better. **Ethics** — act ethically in all we do. **Collaboration** — work together to succeed.|

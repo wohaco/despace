@@ -2,7 +2,7 @@
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/r/rocket_lab_logo1_thumb.webp)](../f/contact/r/rocket_lab_logo1.webp)|<mark>noemail</mark>, +1(714)465-57-37, Fax: …;<br> *14520 Delta Ln #101, Huntington Beach, CA 92647, USA*<br> 【<https://www.rocketlabusa.com/>・ [Facebook ⎆](https://www.facebook.com/RocketLabUSA/)・ [LinkedIn ⎆](https://www.linkedin.com/company/rocket-lab-limited)・ [Twitter ⎆](https://twitter.com/rocketlab)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Rocket_Lab)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/j/jepico_corp_logo1_thumb.webp)](../f/contact/j/jepico_corp_logo1.webp)|<mark>noemail</mark>, +81-3-6386-0611, +81-3-5386-8234, Fax: …;<br> *Shinjuku Front Tower, 21-1,Kita-Shinjuku 2-Chome, Shinjuku-Ku,Tokyo 169-0074, Japan*<br> 【<https://www.jepico.co.jp/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

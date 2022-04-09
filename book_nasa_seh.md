@@ -30,7 +30,7 @@ Finally, it should be noted that this handbook provides top‑level guidance for
 <small>
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Alexander, Michael**, NASA/Langley Research Center|**Killebrew, Jana**, NASA/Ames Research Center|
 |**Allen, Martha**, NASA/Marshall Space Flight Center|**Leitner, Jesse**, NASA/Goddard Space Flight Center|
 |**Baumann, Ethan**, NASA/Armstrong Flight Research Center|**Lin, Chi**, NASA/Jet Propulsion Laboratory|
@@ -140,7 +140,7 @@ Venn Diagram showing the Processes involved w/ Systems Engineering & the aspects
    - Overall Approver/Decider
 
 |*Systems Engineering*|*Common Areas*|*PP&C*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**Systems Design Processes:**<br> ・ Stakeholders Expectations Definition;<br> ・ Technical Requirements Definition;<br> ・ Logical Decomposition;<br> ・ Design Solution Definition.<br><br> **Product Realization Processes:**<br> ・ Product Implementation;<br> ・ Product Integration;<br> ・ Product Verification;<br> ・ Product Validation;<br> ・ Product Transition.<br><br> **Technical Management Processes:**<br> ・ Technical Planning;<br> ・ Requirements Management;<br> ・ [Interface](interface.md) Management;<br> ・ [Technical Risk](qm.md) Management;<br> ・ Configuration Management;<br> ・ Technical Data Management;<br> ・ Technical Assassment;<br> ・ Decision Analyses.|・ Stakeholders;<br> ・ [Risks](qm.md);<br> ・ Configuration Management;<br> ・ Data Management;<br> ・ Reviews;<br> ・ Schedule.|・ PP&C Integration;<br> ・ Resource Management;<br> ・ Scheduling;<br> ・ Cost Estimation & Assassment;<br> ・ Acquisition & Contract Management;<br> ・ Risk Management;<br> ・ CM/DM.|
 
 
@@ -169,7 +169,7 @@ AS9100 is a widely adopted & standardized quality management system developed fo
 【**Table 2.1‑1.** Alignment of the 17 SE Processes to AS9100】
 
 |*SE Process*|*AS9100 Requirement*|
-|:--|:--|
+|:-|:-|
 |Stakeholder Expectations|Customer Requirements|
 |Technical Requirements Definition|Planning of Product Realization|
 |Logical Decomposition|Design & Development Input|
@@ -205,7 +205,7 @@ The uppermost horizontal portion of this chart is used as a reference to project
 【**Table 2.2‑1.** Project Life Cycle Phases】
 
 | |*[Phase](rnd.md)*|*Purpose*|*Typical Outcomes*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Pre-Formu&shy;lation|**Pre-Phase A.** Concept Studies|To produce a broad spectrum of ideas & alternatives for missions from which new programs/projects can be selected. Determine feasibility of desired system, develop mission concepts, draft system‑level requirements, assess performance, cost, & schedule feasibility; identify potential technology needs, & scope.|Feasible system concepts in the form of simulations, analysis, study reports, models, & mock‑ups|
 |Formu&shy;lation|**Phase A.** Concept & Technology Develop&shy;ment|To determine the feasibility & desirability of a suggested new system & establish an initial baseline compatibility w/ NASA’s strategic plans. Develop final mission concept, system‑level requirements, needed system technology developments, & program/project technical management plans.|System concept definition in the form of simulations, analysis, engineering models & mock‑ups, & trade study definition|
 | |**Phase B.** Preliminary Design & Technology Completion|To define the project in enough detail to establish an initial baseline capable of meeting mission needs. Develop system structure end product (& enabling product) requirements & generate a preliminary design for each system structure end product.|End products in the form of mock‑ups, trade study results, specification & interface documents, & prototypes|
@@ -298,7 +298,7 @@ Table 2.7‑1 provides a summary of the Competency Model for Systems Engineeri
 【**Table 2.7‑1.** NASA System Engineering Competency Model】
 
 |*Area*|*Competency & Description*|
-|:--|:--|
+|:-|:-|
 |SE 1.0 System Design|**SE 1.1 — Stakeholder Expectation Definition & Management.** Eliciting & defining use cases, scenarios, concept of operations & stakeholder expectations. This includes identifying stakeholders, establishing support strategies, establishing a set of Measures of Effectiveness (MOEs), validating stakeholder expectation statements, & obtaining commitments from the customer & other stakeholders, as well as using the baselined stakeholder expectations for product validation during product realization.|
 | |**SE 1.2 — Technical Requirements Definition.** Transforming the baseline stakeholder expectations into unique, quantitative, & measurable technical requirements expressed as “shall” statements that can be used for defining the design solution. This includes analyzing the scope of the technical problems to be solved, defining constraints affecting the designs, defining the performance requirements, validating the resulting technical requirement statements, defining the Measures of Performance (MOPs) for each MOE, & defining appropriate Technical Performance Measures (TPMs) by which technical progress will be assessed.|
 | |**SE 1.3 — Logical Decomposition.** Transforming the defined set of technical requirements into a set of logical decomposition models & their associated set of derived technical requirements for lower levels of the system, & for input to the design solution efforts. This includes decomposing & analyzing by function, time, behavior, data flow, object, & other models. It also includes allocating requirements to these decomposition models, resolving conflicts between derived requirements as revealed by the models, defining a system architecture for establishing the levels of allocation, & validating the derived technical requirements.|
@@ -365,7 +365,7 @@ SEMP is baselined at SRR for projects, tightly coupled programs and single‑pro
 <small>
 
 | |*For&shy;mula&shy;tion*|*For&shy;mula&shy;tion*|*For&shy;mula&shy;tion*|*Imple&shy;men&shy;tation*|*Imple&shy;men&shy;tation*|*Imple&shy;men&shy;tation*|*Imple&shy;men&shy;tation*|*Imple&shy;men&shy;tation*|*Imple&shy;men&shy;tation*|*Imple&shy;men&shy;tation*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |Product: **Uncoupled or Loosely Coupled**|KDP 0|KDP 0|KDP I|Period. KDPs|Period. KDPs|Period. KDPs|Period. KDPs|Period. KDPs|Period. KDPs|Period. KDPs|
 |Product: **Tightly Coupled Programs**|KDP 0|KDP 0|KDP 0|KDP I|KDP II|KDP II|KDP III|KDP III|Period. KDPs|Period. KDPs|
 |Product: **Projects & Single Project Programs**|Pre-Phase A|Phase A|Phase A|Phase B|Phase C|Phase C|Phase D|Phase D|Phase E|Phase F|
@@ -817,7 +817,7 @@ Table 3.11‑1 shows an example of the types of missions that can be defined b
 <small>
 
 |*Criteria*|*Type A*|*Type B*|*Type C*|*Type D*|*Type E*|*Type F*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |Description of the Types of Mission|Human Space Flight or Very Large Science/ Robotic Missions|Non-Human Space Flight or Science/ Robotic Missions|Small Science or Robotic Missions|Smaller Science or Technology Missions (ISS payload)|Suborbital or Aircraft or Large Ground based Missions|Aircraft or Ground based technology demonstra&shy;tions|
 |Priority (Criticality to Agency Strategic Plan) & Acceptable Risk Level|High priority, very low (minimized) risk|High priority, low risk|Medium priority, medium risk|Low priority, high risk|Low priority, high risk|Low to very low priority, high risk|
 |National Significance|Very high|High|Medium|Medium to Low|Low|Very Low|
@@ -837,7 +837,7 @@ FC — Fully Compliant, N/A — Not Applicable
 <small>
 
 | |*Type A*|*Type B*|*Type C*|*Type D*|*Type E*|*Type F*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |**Example Project Technical Products**| | | | | | |
 |Concept Documentation|<u>FC</u>|<u>FC</u>|<u>FC</u>|*Tailor*|*Tailor*|*Tailor*|
 |Mission, Spacecraft, Ground, & Payload Architectures|<u>FC</u>|<u>FC</u>|<u>FC</u>|*Tailor*|*Tailor*|*Tailor*|
@@ -881,7 +881,7 @@ The result of this tailoring, whether for a Center or for a program/project, sho
 <small>
 
 |*Req ID*|*SE NPR Section*|*Requirement Statement*|*Rationale*|*Req. Ow&shy;ner*|*Comply?*|*Justifi&shy;cation*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |SE‑05|2.1.5.2|For those requirements owned by Center Directors, the technical team shall complete the Compliance Matrix in Appendix H.2 & include it in the SEMP.|For programs & projects, the Compliance Matrix in Appendix H.2 is filled out showing that the program/project is compliant w/ the requirements of this NPR (or a particular Center’s implementation of NPR 7123.1, whichever is applicable) or any tailoring thereof is identified & approved by the Center Director or designee as part of the program/project SEMP.|CD|Fully Comp&shy;liant| |
 |SE‑06|2.1.6.1|The DGA shall approve the SEMP, waiver authorizations, & other key technical documents to ensure independent assessment of technical content.|The DGA, who is often the TA, provides an approval of the SEMPs, waivers to technical requirements & other key technical document to provide assurance of the applicability & technical quality of the products.|CD|Fully Comp&shy;liant| |
 |SE‑24|4.2.1|The NASA technical team shall define the engineering activities for the periods before contract award, during contract performance, & upon contract completion in the SEMP.|It’s important for both the government & contractor technical teams to understand what activities will be handled by which organization throughout the product life cycle. The contractor(s) will typically develop a SEMP or its equivalent to describe the technical activities in their portion of the project, but an overarching SEMP is needed that will describe all technical activities across the life cycle whether contracted or not.|CD|Not Appli&shy;cable|Project is conducted entirely in‑house & therefore there are no contracts involved|
@@ -952,7 +952,7 @@ The customer & users of the system are usually easy to identify. The other key s
 【**Table 4.1‑1.** Stakeholder Identification throughout the Life Cycle】
 
 |*Life‑Cycle<br> Stage*|*Example Stakeholders*|
-|:--|:--|
+|:-|:-|
 |Pre-Phase A|NASA Headquarters, NASA Centers, Presidential Directives, NASA advisory committees, the National Academy of Sciences|
 |Phase A|Mission Directorate, customer, potential users, engineering disciplines, safety organization|
 |Phase B|Customer, engineering disciplines, safety, crew, operations, logistics, production facilities, suppliers, principle investigators|
@@ -1155,7 +1155,7 @@ See Appendix C for guidance & a checklist on how to write good requirements & Ap
 【**Table 4.2‑1.** Benefits of Well‑Written Requirements】
 
 |*Benefit*|*Rationale*|
-|:--|:--|
+|:-|:-|
 |Establish the basis for agreement between the stakeholders & the developers on what the product is to do|The complete description of the functions to be performed by the product specified in the requirements will assist the potential users in determining if the product specified meets their needs or how the product should be modified to meet their needs. During system design, requirements are allocated to subsystems (e.g., hardware, software, & other major components of the system), people, or processes.|
 |Reduce the development effort because less rework is required to address poorly written, missing, & misunderstood requirements|The Technical Requirements Definition Process activities force the relevant stakeholders to rigorously consider all of the requirements before design begins. Careful review of the requirements can reveal omissions, misunderstandings, & inconsistencies early in the development cycle when these problems are easier to correct thereby reducing costly redesign, remanufacture, recoding, & retesting in later life cycle phases.|
 |Provide a basis for estimating costs & schedules|The description of the product to be developed as given in the requirements is a realistic basis for estimating project costs & can be used to evaluate bids or price estimates.|
@@ -1168,7 +1168,7 @@ It’s useful to capture information about each of the requirements, called meta
 【**Table 4.2‑2.** Requirements Metadata】
 
 |*Item*|*Function*|
-|:--|:--|
+|:-|:-|
 |Requirement ID|Provides a unique numbering system for sorting & tracking.|
 |Rationale|Provides additional information to help clarify the intent of the requirements at the time they were written. (See “Rationale” box below on what should be captured.)|
 |Traced from|Captures the bidirectional traceability between parent requirements & lower level (derived) requirements & the relationships between requirements.|
@@ -1779,7 +1779,7 @@ Table 5.3‑1 provides an example of the type of information that may be inclu
 【**Table 5.3‑1.** Example information in Verification Procedures & Reports】
 
 |*Verification Procedure*|*Verification Report*|
-|:--|:--|
+|:-|:-|
 |Nomenclature & identification of the test article or material;|Verification objectives & the degree to which they were met;|
 |Identification of test configuration & any differences from flight operational configuration;|Description of verification activity incl. deviations from nominal results (discrepancies);|
 |Identification of objectives & criteria established for the verification by the applicable requirements specification;|Test configuration & differences from the flight operational configuration;|
@@ -3113,7 +3113,7 @@ CPI protection should be a key consideration for the technical data management e
 【**Table 6.6‑1.** Technical Data Tasks】
 
 |*Description*|*Tasks*|*Expected Outcomes*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Technical data capture|Collect & store inputs & technical effort outcomes from the technical & technical management processes, including:<br> ・results from technical assessments;<br> ・descriptions of methods, tools, & metrics used;<br> ・recommendations, decisions, assumptions, & impacts of technical efforts & decisions;<br> ・lessons learned;<br> ・deviations from plan;<br> ・anomalies & out‑of‑tolerances relative to requirements;<br> ・other data for tracking requirements.<br> Perform data integrity checks on collected data to ensure compliance w/ content & format as well as technical data checks to ensure there are no errors in specifying or recording the data.<br> Report integrity check anomalies or variances to the authors or generators of the data for correction.<br> Prioritize, review, & update data collection & storage procedures as part of regularly scheduled maintenance.|Sharable data needed to perform & control the technical & technical management processes is collected & stored.<br> Stored data inventory.|
 |Technical data maintenance|Implement technical management roles & responsibilities w/ technical data products received.<br> Manage database(s) to ensure that collected data have proper quality & integrity; & are properly retained, secure, & available to those w/ access authority.<br> Periodically review technical data management activities to ensure consistency & identify anomalies & variances.<br> Review stored data to ensure completeness, integrity, validity, availability, accuracy, currency, & traceability.<br> Perform technical data maintenance, as required.<br> Identify & document significant issues, their impacts, & changes made to technical data to correct issues & mitigate impacts.<br> Maintain, control, & prevent the stored data from being used inappropriately.<br> Store data in a manner that enables easy & speedy retrieval.<br> Maintain stored data in a manner that protects the technical data against foreseeable hazards, e.g., fire, flood, earthquake, etc.|Records of technical data maintenance.<br> Technical effort data, incl. captured work products, contractor‑delivered documents, & acquirer‑provided documents are controlled & maintained.<br> Status of data stored is maintained to include: version description, timeline, & security classification.|
 |Technical data/ information distribution|Maintain an information library or reference index to provide technical data availability & access instructions.<br> Receive & evaluate requests to determine data requirements & delivery instructions.<br> Process special requests for technical effort data or information according to established procedures for handling such requests.<br> Ensure that required & requested data are appropriately distributed to satisfy the needs of the acquirer & requesters in accordance w/ the agreement, program/project directives, & technical data management plans & procedures.<br> Ensure that electronic access rules are followed before database access is allowed or any requested data are electronically released/transferred to the requester.<br> Provide proof of correctness, reliability, & security of technical data provided to internal & external recipients.|Access information (e.g., available data, access means, security procedures, time period for availability, & personnel cleared for access) is readily available.<br> Technical data are provided to authorize requesters in the appropriate format, w/ the appropriate content, & by a secure mode of delivery, as applicable.|
@@ -3195,7 +3195,7 @@ Table 6.7‑1 provides a summary of the types of reviews for a space flight pr
 <small>
 
 |*Name of Review*|*Purpose*|*Timing*|*Entrance/ Success Criteria*|*Results of Review*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Mission Concept Review (MCR)|The MCR will affirm the mission need & evaluates the proposed objectives & the concept for meeting those objectives.|The MCR should be completed prior to entering the concept development phase (Phase A)|The MCR entrance & success criteria are defined in Table G‑3 of NPR 7123.1.|A successful MCR supports the determination that the proposed mission meets the customer need & has sufficient quality & merit to support a field Center management decision to propose further study to the cognizant NASA program Associate Administrator as a candidate Phase A effort.|
 |System Requirements Review (SRR)|The SRR evaluates the functional & performance requirements defined for the system & the preliminary program or project plan & ensures that the requirements & selected concept will satisfy the mission.|The SRR is conducted during the concept development phase (Phase A) & before conducting the SDR or MDR.|The SRR entrance & success criteria for a program are defined in Table G‑1 of NPR 7123.1. The SRR entrance & success criteria for projects & single‑project programs are defined in Table G‑4 of NPR 7123.1.|Successful completion of the SRR freezes program/project requirements & leads to a formal decision by the cognizant program Associate Administrator to proceed w/ proposal request preparations for project implementation|
 |Mission Definition Review (MDR)/System Definition Review (SDR)|Sometimes called the MDR by robotic projects & SDR for human flight projects, this review evaluates whether the proposed architecture is responsive to the functional & performance requirements & that the requirements have been allocated to all functional elements of the mission/system.|The MDR/SDR is conducted during the concept development phase (Phase A) prior to KDP B & the start of preliminary design.|The MDR/SDR entrance & success criteria for a program are defined in Table G‑2 of NPR 7123.1. The MDR/SDR entrance & success criteria for projects & single‑project programs are defined in Table G‑5 of NPR 7123.1.|A successful MDR/SDR supports the decision to further develop the system architecture/design & any technology needed to accomplish the mission. The results reinforce the mission/system’s merit & provide a basis for the system acquisition strategy. As a result of successful completion, the mission/system & its operation are well enough understood to warrant design & acquisition of the end items.|
@@ -3361,7 +3361,7 @@ Typical information captured in a decision report is shown in Table 6.8‑1.
 【**Table 6.8‑1.** Typical Information to Capture in a Decision Report】  
 
 | |*Section*|*Section Description*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**1**|Executive Summary|Provide a short half‑page executive summary of the report:<br> ・Recommendation (short summary — 1 sentence)<br> ・Problem/issue requiring a decision (short summary — 1 sentence)|
 |**2**|Problem/Issue Description|Describe the problem/issue that requires a decision. Provide background, history, the decision maker(s) (e.g., board, panel, forum, council), & decision recommendation team, etc.|
 |**3**|Decision Matrix Setup Rationale|Provide the rationale for setting up the decision matrix:<br> ・Criteria selected<br> ・Options selected<br> ・Weights selected<br> ・Evaluation methods selected.<br> Provide a copy of the setup decision matrix.|
@@ -3396,7 +3396,7 @@ Additional information on tools for decision making can be found in NASA Referen
 <small>
 
 | | |•| | |
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |**AADL**|Architecture Analysis & Design Language| |**MEL**|Master Equipment List|
 |**AD²**|Advancement Degree of Difficulty Assessment| |**MODAF**|(U.K.) Ministry of Defense Architecture Framework|
 |**AIAA**|American Institute of Aeronautics & Astronautics| |**MOE**|Measure of Effectiveness|
@@ -3850,7 +3850,7 @@ When developing requirements, it’s important to identify an approach for verif
 Phases defined as: ➀ Pre‑Declared Development, ➁ Formal Box‑Level Functional, ➂ Formal Box‑Level Environmental, ➃ Formal System‑Level Environmental, ➄ Formal System‑Level Functional, ➅ Formal End‑to‑End Functional, ➆ Integrated Vehicle Functional, ➇ On‑Orbit Functional.
 
 | | | | | |
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |**Requirement No.**|Unique identifier or each requirement|P‑1|P‑i|S‑i or other unique designator|
 |**Document**|Document number the requirement is contained within|xxx|xxx|xxxxx (other specs, ICDs, etc.)|
 |**Paragraph**|Paragraph number of the requirement|3.2.1.1 Capability: Support Uplinked Data (LDR)|Other paragraphs|Other paragraphs|
@@ -3905,7 +3905,7 @@ Table E‑1 shows an example validation matrix.
 a. Example: ➀ during product selection process, ➁ prior to final product selection (if COTS) or prior to PDR, ➂ prior to CDR, ➃ during box‑level functional, ➄ during system‑level functional, ➅ during end‑to‑end functional, ➆ during integrated vehicle functional, ➇ during on‑orbit functional.
 
 | | | |
-|:--|:--|:--|
+|:-|:-|:-|
 |**Validation Product #**|Unique identifier for validation product|1|
 |**Activity**|Describe evaluation by the customer/sponsor that will be performed|Customer/sponsor will evaluate the candidate displays|
 |**Objective**|What is to be accomplished by the customer/sponsor evaluation|⒈ Ensure legibility is acceptable.<br> ⒉ Ensure overall appearance is acceptable|
@@ -3945,7 +3945,7 @@ A number of processes can be used to develop the appropriate level of understand
 【**Table G.1‑1.** Products Provided by the TA as a Function of Program/Project Phase. Source: NPR 7120.5】
 
 |*Gate*|*Product*|
-|:--|:--|
+|:-|:-|
 |**KDP A:** Transition from Pre‑Phase A to Phase A|Requires an assessment of potential technology needs versus current & planned technology readiness levels, as well as potential opportunities to use commercial, academic, & other government agency sources of technology. Included as part of the draft integrated baseline. Technology Development Plan is baselined that identifies technologies to be developed, heritage systems to be modified, alternative paths to be pursued, fallback positions & corresponding performance descopes, milestones, metrics, & key decision points. Initial Technology Readiness Assessment (TRA) is available.|
 |**KDP B:** Transition from Phase A to Phase B|Technology Development Plan & Technology Readiness Assessment (TRA) are updated. Incorporated in the preliminary project plan.|
 |**KDP C:** Transition from Phase B to Phase C/D|Requires a TRAR demonstrating that all systems, subsystems, & components have achieved a level of technological maturity w/ demonstrated evidence of qualification in a relevant environment.|
@@ -4264,7 +4264,7 @@ By signing this document, signatories are certifying that the content herein is 
 <small><small>
 
 |*SEMP Section*|*SEMP Sub-section*|*Pre-Phase A<br> KDP A*|*Phase A<br> KDP B*|*Phase A<br> KDP B*|*Phase B<br> KDP C*|*Phase C<br> KDP D*|*Phase C<br> KDP D*|*Phase D<br> KDP E*|*Phase D<br> KDP E*|*Phase E<br> KDP F*|*Phase F*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |**MCR**|**SRR**|**SDR/ MDR**|**PDR**|**CDR**|**SIR**|**ORR**|**MRR/ FRR**|**DR**|**DRR**|
 |**Purpose & Scope**| |Final|Final|Final|Final|Final|Final|Final|Final|Final|Final|
 |**Applicable Documents**| |Initial|Initial|Initial|Final|Final|Final|Final|Final|Final|Final|
@@ -4304,7 +4304,7 @@ A = Approach, B = Baseline, P = Preliminary, U = Update
 <small>
 
 |*Plan*|*Pre‑Ph.A*|*Ph.A*|*Ph.A*|*Ph.B*|*Ph.C*|*Ph.C*|*Ph.D*|*Ph.D*|*Ph.E*|*Ph.F*|*Ref. Page*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 | |**MCR**|**SRR**|**SDR/<br> MDR**|**PDR**|**CDR**|**SIR**|**ORR**|**MRR/<br> FRR**|**DR**|**DRR**|
 |**Systems Engineering Management Plan**|P|B|U|U|U|U|U|U|U|U|Risk Management Plan|A|B|U|U|U| |
 |**Integrated Logistics Support Plan**|A|P|P|B|U| | | | | | |
@@ -4461,7 +4461,7 @@ Each program/project‑specific HSI Plan should be tailored to fit the program/p
 【**Table R.2‑1.** HSI Activity, Product, or Risk Mitigation by Program/Project Phase】
 
 |*Life-Cycle Phase*|*Phase Description*|*Activity, Product, or Risk Mitigation*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Pre‑Phase A|Concept Studies|ConOps (Preliminary — to include training, maintenance, logistics, etc.)|
 |Phase A|Concept & Technology Development|HSI Plan (baseline)<br> ConOps (initial)<br> HSI responsible party(ies) and/or team identified before SRR<br> Develop mockup(s) for HSI evaluations<br> Crew Workload Evaluation Plan<br> Functional allocation, crew task lists<br> Validation of ConOps (planning)|
 |Phase B|Preliminary Design & Technology Completion|HSI Plan (update)<br> ConOps (baseline)<br> Develop engineering‑level mockup(s) for HSI evaluations<br> Define crew environmental & crew health support needs (e.g., aircraft flight decks, human space flight missions)<br> Assess operator interfaces through task analyses (for, e.g., aircraft cockpit operations, air traffic management, spacecraft environments, mission control for human space flight missions)<br> Human‑in‑the‑loop usability plan<br> Human‑rating report for PDR|
@@ -5223,7 +5223,7 @@ List:
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](drawing.md)・ [СхО](drawing.md)・ [СхПЗ](drawing.md)・ [СхЧ](drawing.md)・ [СхЭ](drawing.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|

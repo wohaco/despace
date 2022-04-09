@@ -2,7 +2,7 @@
 > 2019.08.04 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/l/latmos_logo1_thumb.webp)](../f/contact/l/latmos_logo1.webp)|<direction@latmos.ipsl.fr>, +01(802)850-28;<br> *11 Boulevard D'Alembert, 78280 Guyancourt, France*<br> 【<http://www.latmos.ipsl.fr/>・ [Wikipedia(FR) ⎆](https://fr.wikipedia.org/wiki/Laboratoire_atmosphères,_milieux,_observations_spatiales)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

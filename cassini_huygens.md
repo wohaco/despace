@@ -16,7 +16,7 @@ The **Cassini–Huygens** is a joint mission of the space‑research mission, in
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|US$3.26 billion or 306 305 ㎏ of [gold](sc_price.md) in 1997 prices|
 |Development|1992 ‑ 1997|
@@ -50,7 +50,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
 
 </small>
@@ -85,14 +85,14 @@ In total, the Cassini mission discovered seven new moons orbiting Saturn. Using 
 Cassini had its first fly‑by of Saturn’s largest moon, **Titan**, on July 2, 2004, a day after orbit insertion, when it approached to within 339 000 ㎞ of Titan. The fly‑by provided a remarkable increase in imaging resolution over previous coverage. Images with up to 100 times better resolution were taken and are typical of resolutions planned for subsequent Titan fly‑bys. Cassini collected pictures of Titan and the lakes of methane were similar to the lakes of Earth.
 
 |*Titan – infrared views (2004 – 2017)*|
-|:--|
+|:-|
 |![](f/project/c/cassini_huygens/titaninfrared.webp)|
 
 
 **The Huygens** Lander traveled with Cassini until its separation from the spacecraft. Cassini released the Huygens Lander on December 24, 2004, by means of a spring and spiral rails intended to rotate the Lander for greater stability. It entered the atmosphere of Titan on January 14, 2005, and after a 2.5 h descent by parachute landed on solid ground. It returned data to Earth for around 90 min, using the Orbiter as a relay. This was the first landing ever accomplished in the outer Solar System and the first landing on a moon other than Earth’s Moon. The Huygens Lander investigated the chemical composition and surface properties of the Saturnian moon.
 
 |**Animation of Cassini’s trajectory from 15 October 1997 to 4 May 2008**| |
-|:--|:--|
+|:-|:-|
 |![](f/project/c/cassini_huygens/animation_of_huygens_trajectory.gif)|**Pink — Huygens <br><br> Blue — Saturn <br><br> Green — Titan**|
 
 In May 2005, Cassini began a series of **radio occultation experiments**, to measure the size-distribution of particles in Saturn’s rings, and measure the atmosphere of Saturn itself. For over four months, the craft completed orbits designed for this purpose. During these experiments, it flew behind the ring plane of Saturn, as seen from Earth, and transmitted radio waves through the particles. The radio signals received on Earth were analyzed, for frequency, phase, and power shift of the signal to determine the structure of the rings.
@@ -116,7 +116,7 @@ On March 12, 2008, Cassini made a close fly-by of Enceladus, passing within 50�
 On April 15, 2008, Cassini received funding for a 27 month extended mission. The  Cassini’s primary mission was completed in June 2008. The **extended mission** began on July 1, 2008, and was renamed the **Cassini Equinox Mission** as the mission coincided with Saturn’s equinox, which happened in August 2009. It mission consisted of 60 more orbits of Saturn, with 21 more close Titan fly‑bys, seven of Enceladus, six of Mimas, eight of Tethys, and one targeted fly‑by each of Dione, Rhea, and Helene.
 
 |**Animation of Cassini’s trajectory from 15 October 1997 to 4 May 2008**| |
-|:--|:--|
+|:-|:-|
 |![](f/project/c/cassini_huygens/animation_of_cassini_trajectory.gif)|**Pink — Cassini–Huygens <br><br> Blue — Earth <br><br> Turquoise — Venus <br><br> Yellow ellipce — Jupiter <br><br> Green — Saturn <br><br> Red — 2685 Masursky <br><br> Yellow dot — Sun**|
 
 On February 3, 2010, NASA announced another extension for Cassini, lasting 7 years until September 15, 2017, ending at the time of summer solstice in Saturn’s northern hemisphere — **Cassini Solstice Mission**. Mission ran from October 2010 through April 2017. (Also known as the XXM mission.). The extension enabled another 155 revolutions around the planet, 54 fly‑bys of Titan and 11 fly‑bys of Enceladus. In 2017, an encounter with Titan changed its orbit in such a way that, at closest approach to Saturn, it was only 3 000 ㎞ above the planet’s cloudtops, below the inner edge of the D ring.
@@ -136,13 +136,13 @@ Between 2012 and 2016, the persistent **hexagonal cloud pattern** at Saturn’s 
 The first map showing the global geology of Saturn’s largest moon, Titan, has been completed and fully reveals a dynamic world of dunes, lakes, plains, craters and other terrains.
 
 |***The first global geologic map of Titan is based on radar and visible-light images from NASA’s Cassini mission, which orbited Saturn from 2004 to 2017. Labels point to several of the named surface features.***|
-|:--|
+|:-|
 |![](f/project/c/cassini_huygens/titan.webp)|
 
 At the end of its mission, the Cassini spacecraft executed its «Grand Finale»: a number of risky passes through the gaps between Saturn and Saturn’s inner rings. This phase aimed to maximize Cassini’s scientific outcome before the spacecraft was disposed. The mission ended on September 15, 2017, when Cassini’s trajectory took it into Saturn’s upper atmosphere and it burned up. This method was chosen because it is imperative to ensure protection and prevent biological contamination to any of the moons of Saturn thought to offer potential habitability. The atmospheric entry of Cassini ended the mission, but analyses of the returned data will continue for many years.
 
 |***Animation of Cassini’s trajectory around Saturn from 1 May 2004 to 15 September 2017***| |
-|:--|:--|
+|:-|:-|
 |![](f/project/c/cassini_huygens/animation_of_cassini_trajectory_around_saturn.gif)|**Pink — Cassini <br><br> Turquoise — Iapetus <br><br> Yellow — Titan <br><br> Green — Saturn <br><br> Red — Enceladus**|
 
 In January 2019, new research using data collected during Cassini’s Grand Finale phase was published:
@@ -171,7 +171,7 @@ Cassini had several objectives, including:
 Cassini’s instrumentation consisted of: a synthetic aperture radar mapper, a charge-coupled device imaging system, a visible/infrared mapping spectrometer, a composite infrared spectrometer, a cosmic dust analyzer, a radio and plasma wave experiment, a plasma spectrometer, an ultraviolet imaging spectrograph, a magnetospheric imaging instrument, a magnetometer and an ion/neutral mass spectrometer. Telemetry from the communications antenna and other special transmitters (an S‑band transmitter and a dual-frequency Ka‑band system) was also used to make observations of the atmospheres of Titan and Saturn and to measure the gravity fields of the planet and its satellites.
 
 |*Instrument*|*Description*|
-|:--|:--|
+|:-|:-|
 |**Cassini Plasma Spectrometer (CAPS)**|CAPS was an in situ instrument that measured the flux of charged particles at the location of the spacecraft, as a function of direction and energy. The ion composition was also measured using a time-of-flight mass spectrometer. CAPS measured particles produced by ionisation of molecules originating from Saturn’s and Titan’s ionosphere, as well as the plumes of Enceladus. CAPS also investigated plasma in these areas, along with the solar wind and its interaction with Saturn’s magnetosphere.|
 |**Cosmic Dust Analyzer (CDA)**|The CDA was an in situ instrument that measured the size, speed, and direction of tiny dust grains near Saturn. It could also measure the grains' chemical elements. Some of these particles orbited Saturn, while others came from other star systems.|
 |**Composite Infrared Spectrometer (CIRS)**|The CIRS was a remote sensing instrument that measured the infrared radiation coming from objects to learn about their temperatures, thermal properties, and compositions. Throughout the Cassini–Huygens mission, the CIRS measured infrared emissions from atmospheres, rings and surfaces in the vast Saturn system. It mapped the atmosphere of Saturn in three dimensions to determine temperature and pressure profiles with altitude, gas composition, and the distribution of aerosols and clouds. It also measured thermal characteristics and the composition of satellite surfaces and rings.|
@@ -191,7 +191,7 @@ Cassini’s instrumentation consisted of: a synthetic aperture radar mapper, a c
 Huygens had six instruments aboard that took in a wide range of scientific data as the Lander descended through Titan’s atmosphere.
 
 |*Instrument*|*Description*|
-|:--|:--|
+|:-|:-|
 |**Huygens Atmospheric Structure Instrument (HASI)**|This instrument contains a suite of sensors that measured the physical and electrical properties of Titan’s atmosphere. Accelerometers measured forces in all three axes as the probe descended through the atmosphere. It was possible to determine the density of Titan’s atmosphere and to detect wind gusts. Temperature and pressure sensors measured the thermal properties of the atmosphere. The Permittivity and Electromagnetic Wave Analyzer component measured the electron and ion conductivities of the atmosphere and searched for electromagnetic wave activity. On the surface of Titan, the electrical conductivity and permittivity of the surface material was measured. The HASI subsystem also contains a microphone, which was used to record any acoustic events during Lander’s descent and landing.|
 |**Doppler Wind Experiment (DWE)**|This experiment used an ultra‑stable oscillator to improve communication with the spacecraft by giving it a very stable carrier frequency. This instrument was also used to measure the wind speed in Titan’s atmosphere by measuring the Doppler shift in the carrier signal. Between 60 and 80 ㎞, Huygens was buffeted by rapidly fluctuating winds, which are thought to be vertical wind shear. At ground level, the Earth-based doppler shift and VLBI measurements show gentle winds of a few m/s, roughly in line with expectations.|
 |**Descent Imager/Spectral Radiometer (DISR)**|As Huygens was primarily an atmospheric mission, the DISR instrument was optimized to study the radiation balance inside Titan’s atmosphere. Its visible and infrared spectrometers and violet photometers measured the up- and downward radiant flux from an altitude of 145 ㎞ down to the surface. Solar aureole cameras measured how scattering by aerosols varies the intensity directly around the Sun. Three imagers, sharing the same CCD, periodically imaged a swath of around 30 degrees wide, ranging from almost nadir to just above the horizon. Aided by the slowly spinning Lander they would build up a full mosaic of the landing site, which, surprisingly, became clearly visible only below 25 ㎞ altitude. All measurements were timed by aid of a shadow bar, which would tell DISR when the Sun had passed through the field of view.|
@@ -253,7 +253,7 @@ ASI:
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

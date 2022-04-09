@@ -2,7 +2,7 @@
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/snet_logo1_thumb.webp)](../f/contact/s/snet_logo1.webp)|<mark>noemail</mark>, +81-03-5561-1075, Fax: …;<br> *13F, Ark Mori Building, 1-12-32, Akasaka, Minato-ku, Tokyo, 107-6013, Japan*<br> 【<https://www.snet.co.jp/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

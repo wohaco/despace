@@ -1,13 +1,13 @@
 # Orbspace
 > 2021.12.03 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/o/orbspace_logo1_thumb.webp)](../f/contact/o/orbspace_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *Startup Park Tsukuba, 2-5-1 Azuma, Tsukuba, Ibaraki, Japan*<br> 【<https://www.orbspace.com/>・ [Facebook ⎆](https://www.facebook.com/orbspace.aerospace)・ [Instagram ⎆](https://www.instagram.com/orbspace.aerospace/)・ [Twitter ⎆](https://twitter.com/orbspace)】|
-|:--|:--|
+|[![](../f/contact/o/orbspace_logo1_thumb.webp)](../f/contact/o/orbspace_logo1.webp)|<aron.lentsch@orbspace.com>, <mark>noworkphone</mark>, Fax: …;<br> *Startup Park Tsukuba, 2-5-1 Azuma, Tsukuba, Ibaraki, Japan*<br> 【<https://www.orbspace.com/>・ [Facebook ⎆](https://www.facebook.com/orbspace.aerospace)・ [Instagram ⎆](https://www.instagram.com/orbspace.aerospace/)・ [Twitter ⎆](https://twitter.com/orbspace)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|Small reusable space tourism rocket|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・General manager, Founder — Aron Lentsch<br> ・VP, Founder — Zac Kostenko|
 
 **Orbspace** is an aerospace startup company with its roots in the traditional LV industry. We develop “Infinity”, a small, highly reusable rocket to carry 3 passengers to a 200 ㎞ suborbital space flight based on the principal design goals of simplicity & uncompromised passenger safety. Founded 2020.01.
 

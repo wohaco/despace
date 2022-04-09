@@ -2,7 +2,7 @@
 > 2019.08.29 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/a/adga_logo1_thumb.webp)](../f/contact/a/adga_logo1.webp)|<mark>noemail</mark>, +1(613)237-30-22, Fax: …;<br> *110 Argyle Avenue, Ottawa, ON, K2P 1B4, Canada*<br> 【<http://www.adga.ca/> ・ [Facebook ⎆](https://www.facebook.com/ADGAGroup/)・ [LinkedIn ⎆](https://www.linkedin.com/company/adga-group/)・ [Twitter ⎆](https://twitter.com/adgagroup)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|To provide client centric, value‑added, end‑to‑end engineering & consulting services, including systems analysis, technology‑based solution development & implementation support.|
 |**Vision**|…|
 |**Values**|…|

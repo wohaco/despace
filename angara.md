@@ -15,7 +15,7 @@
    - «Ангара» А5, А7 вместо «[Протона](proton.md)»
 
 |*Version*|*Description*|*Activity*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Ангара‑А1|Базовый вариант.|Отменена (2014)|
 |╟ Ангара‑А1.1|Модификация Ангара‑А1.|Отменена (2014)|
 |╙ Ангара‑А1.2|Модификация Ангара‑А1.|**Активен** (2014 ‑ …)|
@@ -43,7 +43,7 @@
    - **Ангара‑А5П** — пилотируемый вар.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Активность|А5: **Активен** (2014.12.23 ‑ …);<br> А5В: *В разработке* (2027 ‑ …);<br> А5М: *В разработке* (2025 ‑ …);<br> А5П: *В разработке* (2025 ‑ …)|
 |[Аналоги](analogue.md)|[Ariane 5/6](arian.md) (Европа)・ [Ангара‑А5](angara.md) (РФ)|
 |Длина/диаметр|55.23 м / 8.86 м|
@@ -57,7 +57,7 @@
 **Выводимые массы.**
 
 |*Космодром*|*РН*|*Масса,<br> [НОО](nnb.md), т<br> ([ГСО](nnb.md), т)*|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|*Док.*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |[Восточный](spaceport.md)|Ангара‑А5<br> + [Бриз‑М](бриз.md)|24.5| | | |Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы| |
 |[Восточный](spaceport.md)|Ангара‑А5<br> + [ДМ-3](блок_д.md)|24.5<br> (3.9)|7.1|6.2 ‑ 6.9|6.2 ‑ 6.9|Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы| |
 |[Восточный](spaceport.md)|Ангара‑А5<br> + [КВТК](квтк.md)|24.5<br> (5)|8.5|6.3 ‑ 7.0|6.3 ‑ 7.0|Пуск — $ 100 млн (2017 г);<br> ПН 3.16 % от ст.массы| |
@@ -111,7 +111,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|

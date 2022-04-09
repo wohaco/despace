@@ -2,7 +2,7 @@
 > 2020.07.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/i/iqps_logo1_thumb.webp)](../f/contact/i/iqps_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *5F, Rengo-Fukuoka-Tenjin Building, 1-15-35, Tenjin, Chuo-ku, Fukuoka City, Fukuoka Prefecture, 810-0001 Japan*<br> 【<https://i-qps.net/>・ [Facebook ⎆](https://facebook.com/qpslaboratory/)・ [Twitter ⎆](https://twitter.com/QPS_Inc)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|Expand the possibilities of space & contribute to the development of the world.|
 |**Vision**|OBSERVE THE EARTH. Anytime, Anywhere.|
 |**Values**|iQPS exists, in order to excite people & to contribute to the development of the world by tackling Essential & Original things & matters to expand the space possibilities by the Crazy way of thinking. **Essential** — we focus on expanding the possibilities of the space & targeting the things & matters which’re really necessary for society development as well as the Earth rather than commercial gain. **Original** — there is no need to do what has been achieved or done by somebody else already. We only find it the worth challenging when it’s unknown or unprecedented. **Crazy** — we create a new world which can thrill, surprise & excite ourselves & people all over the world, free from existing frameworks & technologies, with creative & truly original way of thinking like a child. We call such mind as “Crazy” in a good sense.|
@@ -37,7 +37,7 @@ Insights enabled by iQPS small SAR sat (example).
 <small>
 
 |*Date*|*Description*|
-|:--|:--|
+|:-|:-|
 |2025|TBD Finished building small sat constellation (36 sats).|
 |2022|TBD Launch of sats 3-6.|
 |2020.12|TBD Launch of “IZANAMI” (sat 2), Falcon 9.|

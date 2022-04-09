@@ -2,7 +2,7 @@
 > 2019.08.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/g/gka_logo1_thumb.webp)](../f/contact/g/gka_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://www.nkau.gov.ua/NSAU/nkau.nsf>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Государственное_космическое_агентство_Украины)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

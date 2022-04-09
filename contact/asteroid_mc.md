@@ -1,8 +1,8 @@
 # Asteroid Mining Corporation
 > 2022.01.27 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/asteroid_mc_logo1_thumb.webp)](../f/contact/a/asteroid_mc_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *…, Liverpool, United Kingdom*<br> 【<https://asteroidminingcorporation.co.uk/>・ [LinkedIn ⎆](https://www.linkedin.com/company/asteroid-mining-corporation-limited)】|
-|:--|:--|
+|[![](../f/contact/a/asteroid_mc_logo1_thumb.webp)](../f/contact/a/asteroid_mc_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…, Liverpool, United Kingdom*<br> 【<https://asteroidminingcorporation.co.uk/>・ [LinkedIn ⎆](https://www.linkedin.com/company/asteroid-mining-corporation-limited)】|
+|:-|:-|
 |**Mission**|To establish a market for space resource utilisation through innovative robotics & a Space Resources Database|
 |**Vision**|Asteroids as the basis of the extraterrestrial economy|
 |**Values**|…|

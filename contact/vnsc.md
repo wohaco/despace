@@ -1,8 +1,8 @@
 # VNSC
 > 2022.03.31 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/v/vnsc_logo1_thumb.webp)](../f/contact/v/vnsc_logo1.webp)|<info@vnsc.org.vn>, 0084 4 37917675, Fax: … ;<br> *18 Hoàng Quốc Việt, Nghĩa Đô, Cầu Giấy, Hà Nội, Vietnam*<br> 【[WEBSITE ⎆](https://vnsc.org.vn/en/)】|
-|:--|:--|
+|[![](../f/contact/v/vnsc_logo1_thumb.webp)](../f/contact/v/vnsc_logo1.webp)|<info@vnsc.org.vn>, 0084 4 37917675, Fax: …;<br> *18 Hoàng Quốc Việt, Nghĩa Đô, Cầu Giấy, Hà Nội, Vietnam*<br> 【[WEBSITE ⎆](https://vnsc.org.vn/en/)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

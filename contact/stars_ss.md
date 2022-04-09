@@ -1,13 +1,13 @@
 # STARS Space Service
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/stars_ss_logo1_thumb.webp)](../f/contact/s/stars_ss_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *1844 Ose-cho, Higashi-ku, Hamamatsu, Shizuoka, Japan*<br> 【<https://stars.co.jp/>・ [Instagram ⎆](https://www.instagram.com/stars.space.service/)】|
-|:--|:--|
+|[![](../f/contact/s/stars_ss_logo1_thumb.webp)](../f/contact/s/stars_ss_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1844 Ose-cho, Higashi-ku, Hamamatsu, Shizuoka, Japan*<br> 【<https://stars.co.jp/>・ [Instagram ⎆](https://www.instagram.com/stars.space.service/)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|Debris removal & recycling|
-|**[MGMT](../mgmt.md)**|・Founder & CEO — Makiko Yukishita<br> ・CTO — Masahiro Nohmi<br> ・PM — Koki Matsuo|
+|**[MGMT](../mgmt.md)**|・CEO, Founder — Makiko Yukishita<br> ・CTO — Masahiro Nohmi<br> ・PM — Koki Matsuo|
 
 **STARS Space Service Co.** (or **SSS**) is a space recycling venture originating in Hamamatsu City, Shizuoka Prefecture, we’re aiming to become the first company in the world to recycle debris that has been left behind covering the Earth since mankind started space development. Founded 2019.12.25.
 

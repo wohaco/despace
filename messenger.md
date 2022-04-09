@@ -16,7 +16,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|US$450 million or 34 161 ㎏ of [gold](sc_price.md)|
 |Development|…|
@@ -50,7 +50,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑014| |Atmosphere: composition.| |D| | |F| |
 |EVN‑073|T|Exploration with [satellites](sc.md): large satellites.| |D| |F| | |
@@ -68,7 +68,7 @@ MESSENGER extensively used gravity assist maneuvers at Earth, Venus, and Mercury
 **Timeline of key events**
 
 |*Date*|*Event*|
-|:--|:--|
+|:-|:-|
 |August 3, 2004|Spacecraft launched at 06:15:56 UTC|
 |August 2, 2005|Fly‑by encounter with Earth|
 |October 24, 2006|First fly‑by encounter with Venus|
@@ -91,7 +91,7 @@ MESSENGER performed an Earth fly‑by on August 2, 2005, with the closest approa
 During the Earth fly‑by, the MESSENGER team imaged the Earth and Moon using MDIS and checked the status of several other instruments observing the atmospheric and surface compositions and testing the magnetosphere and determining that all instruments tested were working as expected.
 
 |![](f/project/m/messenger/earth.webp)|
-|:--|
+|:-|
 |***A view of Earth from MESSENGER during its Earth fly‑by.***|
 
 **Two Venus fly‑bys**
@@ -101,7 +101,7 @@ On October 24, 2006 at 08:34 UTC, MESSENGER encountered Venus at an altitude of 
 On June 5, 2007, at 23:08 UTC, MESSENGER performed a second fly‑by of Venus at an altitude of 338 ㎞, for the greatest velocity reduction of the mission. During the encounter, all instruments were used to observe Venus ([EVN‑005](evn_005.md)) and prepare for the following Mercury encounters. The encounter provided visible and near‑infrared imaging data of the upper atmosphere of Venus. Ultraviolet and X‑ray spectrometry of the upper atmosphere were also recorded, to characterize the composition ([EVN‑014](EVN_014)). The ESA’s [Venus Express](venus_express.md) was also orbiting during the encounter, providing the first opportunity for simultaneous measurement of particle-and-field characteristics of the planet.
 
 |![](f/project/m/messenger/venus.webp)|
-|:--|
+|:-|
 |***A detailed image of Venus MESSENGER on the second fly‑by of the planet.***|
 
 **Three Mercury fly‑bys**
@@ -113,13 +113,13 @@ On July 3, 2008, the MESSENGER team announced that the Orbiter had discovered la
 **Images of Mercury taken by MESSENGER**
 
 |![](f/project/m/messenger/mercury1.webp)|![](f/project/m/messenger/mercury2.webp)|![](f/project/m/messenger/mercury3.webp)|
-|:--|:--|:--|
+|:-|:-|:-|
 |***The first high‑resolution color Wide Angle Camera image of Mercury acquired by MESSENGER.***|***Smooth plains on Mercury imaged by MESSENGER during the third fly‑by of the planet.***|***Lava-flooded craters and large expanses of smooth volcanic plains on Mercury.***|
 
 <br>
 
 |***Animation of ’s trajectory from October 19, 1989, to September 30, 2003***| |
-|:--|:--|
+|:-|:-|
 |![](f/project/m/messenger/animation_of_messenger_trajectory.gif)|**Pink — MESSENGER <br><br> Blue — Earth <br><br> Turquoise — Venus <br><br> Green — Mercury <br><br> Yellow — Sun**|
 
 MESSENGER entered elongated orbit around Mercury on March 18, 2011, becoming the first spacecraft to do so. **The primary mission** began on April 4, 2011. The elongated orbit had two benefits: It allowed the spacecraft time to cool after the times it was between the hot surface of Mercury and the Sun, and also it allowed the spacecraft to measure the effects of solar wind and the magnetic fields of the planet at various distances while still allowing close-up measurements and photographs of the surface and exosphere.
@@ -150,63 +150,63 @@ Mercury is one of the most poorly studied objects in the Solar system. Before ME
    - to study the nature of Mercury’s exosphere.
 
 |Location of scientific equipment on the MESSENGER spacecraft:|
-|:--|
+|:-|
 |![](f/project/m/messenger/outside.webp)|
 
 ### Mercury Dual Imaging System (MDIS)
 Included two CCD cameras, a narrow-angle camera (NAC) and a wide-angle camera (WAC) mounted to a pivoting platform. The camera system provided a complete map of the surface of Mercury at a resolution of 250 m/px, and images of regions of geologic interest at 20 – 50 m/px. Color imaging was possible only with the narrow‑band filter wheel attached to the wide-angle camera.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br>*Fly‑by Phase*<br> ・Acquisition of near‑global coverage at ≈500 m/px.<br> ・Multispectral mapping at ≈2 ㎞/px.<br>*Orbital Phase*<br> ・A nadir-looking monochrome global photomosaic at moderate solar incidence angles (55° – 75°) and 250 m/px or better sampling resolution.<br> ・A 25°-off-nadir mosaic to complement the nadir-looking mosaic for global stereo mapping.<br> ・Completion of the multispectral mapping begun during the fly‑bys.<br> ・High‑resolution (20 – 50 m/px) image strips across features representative of major geologic units and structures.|[![](f/project/m/messenger/mdis.webp)](f/project/m/messenger/mdis.webp)|
 
 ### Gamma‑ray Spectrometer (GRS)
 Measured gamma‑ray emissions from the surface of Mercury to determine the planet’s composition by detecting certain elements (oxygen, silicon, sulfur, iron, hydrogen, potassium, thorium, uranium) to a depth of 10 ㎝.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br> ・Provide surface abundances of major elements.<br> ・Provide surface abundances of Fe, Si, and K, infer alkali depletion from K abundances, and provide abundance limits on H (water ice) and S (if present) at the poles.<br> ・Map surface element abundances where possible, and otherwise provide surface-averaged abundances or establish upper limits.|[![](f/project/m/messenger/grs.webp)](f/project/m/messenger/grs.webp)|
 
 ### Neutron Spectrometer (NS)
 Determined the hydrogen mineral composition to a depth of 40 ㎝ by detecting low‑energy neutrons resulting from the collision of cosmic rays with the minerals.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br> ・Establish and map the abundance of hydrogen over most of the northern hemisphere of Mercury.<br> ・Investigate the possible presence of water ice within and near permanently shaded craters near the north pole.<br> ・Provide secondary evidence to aid in interpreting GRS measured gamma‑ray line strengths in terms of elemental abundances.<br> ・Outline surface domains at the base of both northern and southern cusps of the magnetosphere where the solar wind can implant hydrogen in surface material.|[![](f/project/m/messenger/ns.webp)](f/project/m/messenger/ns.webp)|
 
 ### X‑ray Spectrometer (XRS)
 Mapped mineral composition within the top millimeter of the surface on Mercury by detecting X‑ray spectral lines from magnesium, aluminum, sulphur, calcium, titanium, and iron, in the 1 – 10 keV range.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br> ・Determine the history of the formation of Mercury. <br> ・Characterize the composition of surface elements by measuring the X‑ray emissions induced by the incident solar flux.|[![](f/project/m/messenger/xrs.webp)](f/project/m/messenger/xrs.webp)|
 
 ### Magnetometer (MAG)
 Measured the magnetic field around Mercury in detail to determine the strength and average position of the field.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br> ・Investigate the structure of Mercury’s magnetic field and its interaction with the solar wind.<br> ・Characterize the geometry and time variability of the magnetospheric field.<br> ・Detect wave-particle interactions with the magnetosphere.<br> ・Observe magnetotail dynamics, including phenomena possibly analogous to substorms in the Earth’s magnetosphere.<br> ・Characterize the magnetopause structure and dynamics.<br> ・Characterize field-aligned currents that link the planet with the magnetosphere.|[![](f/project/m/messenger/mag.webp)](f/project/m/messenger/mag.webp)|
 
 ### Mercury Laser Altimeter (MLA)
 Provided detailed information regarding the height of landforms on the surface of Mercury by detecting the light of an infrared laser as the light bounced off the surface.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br> ・Provide a high‑precision topographic map of the high northern latitude regions.<br> ・Measure the long-wavelength topographic features at mid-to-low northern latitudes.<br> ・Determine topographic profiles across major geologic features in the northern hemisphere.<br> ・Detect and quantify the planet’s forced physical librations by tracking the motion of large-scale topographic features as a function of time.<br> ・Measure the surface reflectivity of Mercury at the MLA operating wavelength of 1 064 nm.|[![](f/project/m/messenger/mla.webp)](f/project/m/messenger/mla.webp)|
 
 ### Mercury Atmospheric and Surface Composition Spectrometer (MASCS)
 Determined the characteristics of the tenuous atmosphere surrounding Mercury by measuring ultraviolet light emissions, and ascertained the prevalence of iron and titanium minerals on the surface by measuring the reflectance of infrared light.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br> ・Characterize the composition, structure, and temporal behavior of the exosphere.<br> ・Investigate the processes that generate and maintain the exosphere.<br> ・Determine the relationship between exospheric and surface composition.<br> ・Search for polar deposits of volatile material, and determine how are the accumulation of these deposits are related to exospheric processes.|[![](f/project/m/messenger/mascs.webp)](f/project/m/messenger/mascs.webp)|
 
 ### Energetic Particle and Plasma Spectrometer (EPPS)
 Measured the charged particles in the magnetosphere around Mercury using an energetic particle spectrometer (EPS) and the charged particles that come from the surface using a fast imaging plasma spectrometer (FIPS).
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Objectives:**<br><br> ・Determine the structure of the planet’s magnetic field.<br> ・Characterize exosphere neutrals and accelerated magnetospheric ions.<br> ・Determine the composition of the radar-reflective materialmaterials gyms at Mercury’s poles.<br> ・Determine the electrical properties of the crust/atmosphere/environment interface.<br> ・Determine characteristics of the dynamics of Mercury’s magnetosphere and their relationships to external drivers and their internal conditions.<br> ・Measure interplanetary plasma properties in cruise and in Mercury vicinity.|[![](f/project/m/messenger/epps.webp)](f/project/m/messenger/epps.webp)|
 
 ### Radio Science (RS)
@@ -224,7 +224,7 @@ Objectives:
 ## Spacecraft
 
 |Scheme of the structure of the MESSENGER spacecraft:|
-|:--|
+|:-|
 |![](f/project/m/messenger/inside.webp)|
 
 The MESSENGER bus measured 1.85 m tall, 1.42 m wide, and 1.27 m deep. The bus was primarily constructed with four graphite fiber / cyanate ester composite panels that supported the propellant tanks, the large velocity adjust thruster, attitude monitors and correction thrusters, the antennas, the instrument pallet, and a large ceramic-cloth sunshade, measuring 2.5 m tall and 2 m wide, for passive thermal control. At launch, the spacecraft weighed approximately 1 100 ㎞ with its full load of propellant. The body of the spacecraft is closed in a multi-layer thermal insulation, and for heat removal radiators and heat pipes are provided.
@@ -280,7 +280,7 @@ The spacecraft’s onboard computer system was contained in an Integrated Electr
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

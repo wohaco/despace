@@ -1,8 +1,8 @@
 # Bascule
 > 2021.12.10 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/b/bascule_logo1_thumb.webp)](../f/contact/b/bascule_logo1.webp)|<mark>noemail</mark>, +81(03)5797-7110, Fax: … ;<br> *Azabu Kaisei Bldg 6F 1-8-10 Azabudai, Minato-ku, Tokyo 106-0041, Japan*<br> 【<https://bascule.co.jp/>・ [Facebook ⎆](https://www.facebook.com/BasculeInc)・ [Twitter ⎆](https://twitter.com/bascule_inc)】|
-|:--|:--|
+|[![](../f/contact/b/bascule_logo1_thumb.webp)](../f/contact/b/bascule_logo1.webp)|<mark>noemail</mark>, +81(03)5797-7110, Fax: …;<br> *Azabu Kaisei Bldg 6F 1-8-10 Azabudai, Minato-ku, Tokyo 106-0041, Japan*<br> 【<https://bascule.co.jp/>・ [Facebook ⎆](https://www.facebook.com/BasculeInc)・ [Twitter ⎆](https://twitter.com/bascule_inc)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

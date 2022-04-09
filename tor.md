@@ -136,7 +136,7 @@ Please note these are the common sections of a TOR template. They can be changed
 
 
 |*[Этап](rnd.md)*|*Наим.<br> док‑та*|*Разраб.*|*Согласует*|*Утв.*|*Основание*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |[НИР](rnd_0.md)|ТЗ на НИР (СЧ НИР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
 |[АП](rnd_ap.md)|ТЗ на АП (СЧ АП)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
 |[ЭП](rnd_ep.md)|ТЗ на ОКР (СЧ ОКР)|Заказчик|<small>ПЗ при Заказчике, Исполнитель, его ПЗ</small>|Заказчик| |
@@ -200,7 +200,7 @@ Please note these are the common sections of a TOR template. They can be changed
       - и пр.
 
 |*Замечания*|*Повсеместное<br> качество*|*Низкое<br> качество*|*Крайне<br> низкое<br> качество*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |**Критичные**|≤ 0.05|0.05 ‑ 0.3|≥ 0.3|
 |**Некритичные**|≤ 0.1|0.1 ‑ 1|≥ 1|
 
@@ -263,7 +263,7 @@ Please note these are the common sections of a TOR template. They can be changed
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Documents:`**<br> …|

@@ -2,7 +2,7 @@
 > 2020.10.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/m/magellan_sj_logo1_thumb.webp)](../f/contact/m/magellan_sj_logo1.webp)|<mark>noemail</mark>, +81-6-4950-5520, Fax: +81-6-4950-5521;<br> *Amagasaki Research Incubation Center, #315, 7-1-3, Doicho, Amagasaki, Hyogo, 660-0083, Japan*<br> 【<https://www.magellan.jp/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
@@ -18,7 +18,7 @@ Subsidiary. MSJ Research Center Limited Liability Company. 8 Marta Str., bld. 1,
 <small>
 
 |*Date*|*Description*|
-|:--|:--|
+|:-|:-|
 |1987.02.01|Dragon Magic, Ltd. was established to develop & sell the navigation software & the application for LORAN-C.|
 |1989|Magellan Systems Corporation in US launched the first handy-type GPS NAV1000. Concurrently, Dragon Magic Ltd obtained a dealership to sell its product in Japan.|
 |1992|Company name was changed to Magellan Systems Japan, Ltd.|

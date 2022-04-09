@@ -1,8 +1,8 @@
-# National University Singapore
+# NUS
 > 2022.03.29 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/n/nus_logo1_thumb.webp)](../f/contact/n/nus_logo1.webp)|<mark>noemail</mark>, +65 6516 6666, Fax: … ;<br> *21 Lower Kent Ridge Road, Singapore 119077*<br> 【[WEBSITE ⎆](https://www.nus.edu.sg/)・ [Facebook ⎆](https://www.facebook.com/nus.singapore)・ [Instagram ⎆](https://instagram.com/nus_singapore/)・ [LinkedIn ⎆](https://www.linkedin.com/school/5524)・ [Twitter ⎆](https://twitter.com/NUSingapore)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/National_University_of_Singapore)】|
-|:--|:--|
+|[![](../f/contact/n/nus_logo1_thumb.webp)](../f/contact/n/nus_logo1.webp)|<mark>noemail</mark>, +65 6516 6666, Fax: …;<br> *21 Lower Kent Ridge Road, Singapore 119077*<br> 【[WEBSITE ⎆](https://www.nus.edu.sg/)・ [Facebook ⎆](https://www.facebook.com/nus.singapore)・ [Instagram ⎆](https://instagram.com/nus_singapore/)・ [LinkedIn ⎆](https://www.linkedin.com/school/5524)・ [Twitter ⎆](https://twitter.com/NUSingapore)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/National_University_of_Singapore)】|
+|:-|:-|
 |**Mission**|To educate, inspire & transform|
 |**Vision**|A leading global university shaping the future|
 |**Values**|Innovation resilience, excellence, respect, integrity|

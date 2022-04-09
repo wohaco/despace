@@ -2,7 +2,7 @@
 > 2019.08.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/t/tsenki_logo1_thumb.webp)](../f/contact/t/tsenki_logo1.webp)|<tsenki@roscosmos.ru>, +7(495)631-82-89, +7(499)912-86-61 — канцелярия, Fax: +7(495)631-93-24;<br> *Россия, 107996, Москва, ул. Щепкина, д. 42*<br> 【<http://www.tsenki.com>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

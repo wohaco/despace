@@ -154,7 +154,7 @@ The ground segment, though not technically part of the spacecraft, is vital to t
 The **[launch vehicle](lv.md)** propels the spacecraft from Earth’s surface, through the atmosphere, & into an orbit, the exact orbit being dependent on the mission configuration. The launch vehicle may be expendable or reusable.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[ADGA](contact/adga.md) — GS engineering (incl. software)<br> ・[BRASS](contact/brass.md) — satellite operations<br> ・[Calian AT](contact/calian_at.md) — Composite carbon fiber antenna, Comms systems, TT&C systems, Earth observation systems, Monitor & reconfiguration systems, Mission operations systems, Satellite gateway systems<br> ・[Honeywell Aerospace](contact/honeywell_as.md) — signal & data processing, flight & ground operations<br> ・[MDA](contact/mda.md)|
@@ -188,7 +188,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 【**Таблица.** Крупнейшие ЦУП】
 
 |*#*|*List*|
-|:--|:--|
+|:-|:-|
 |**[CN](contact/cnsa.md)**|➀ Пекинский центр управления космическими полётами|
 |**[EU](contact/esa.md)**|➀ Европейский центр управления космическими объектами — Дармштадт, Германия<br> ➁ ATV Control Centre — Тулуза, Франция<br> ➂ Columbus Control Center — Оберпфаффенхофен, Германия|
 |**[JP](contact/jaxa.md)**|➀ NEC Satellite Operation Center ([NEC](contact/nec.md))|
@@ -423,7 +423,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 По факту ННК представляет собой группу серверов со специализированным ПО и каналы связи.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|…|
@@ -455,7 +455,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 **Производители, операторы:**
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AU**|…|
 |**CA**|・[MDA](contact/mda.md)|
 |**CN**|…|
@@ -472,7 +472,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 |**VN**|…|
 
 |*Изображение*|*Описание*|
-|:--|:--|
+|:-|:-|
 |[![](f/gs/cdsn_pic1_thumb.webp)](f/gs/cdsn_pic1.webp)|**[Chinese Deep Space Network](cdsn.md)**<br> (Китай)|
 |[![](f/gs/estrack_pic1_thumb.webp)](f/gs/estrack_pic1.webp)|**[ESTRACK](estrack.md)**<br> (Европа)|
 |[![](f/gs/idsn_pic1_thumb.webp)](f/gs/idsn_pic1.webp)|**[Indian Deep Space Network](idsn.md)**<br> (Индия)|
@@ -485,7 +485,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 【**Таблица.** Известные НС】
 
 | |*Описание*|*Изобр.*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**EU**|**Raisting Satellite Earth Station (Германия)**, [Maspalomas Station](maspalomas_station.md)|
 |**RU**|**Калязинская радиоастрономическая обсерватория**<br> Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м.<br> ・Наблюдаемая часть небесной сферы: A = ± 300° H = 0 ‑ 90°. Класс наблюдений: B; Выделенные [полосы частот](comms.md) для наблюдений, ㎓.: 0.608 ‑ 0.614, 1.66 ‑ 1.67, 4.8 ‑ 4.99, 4.99 ‑ 5.0, 22.21 ‑ 22.50. Шумовая температура радиотелескопа, К: 80, 22, 22, 22, 65.|[![](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru_thumb.webp)](f/gs/20081011_tna-1500_radio_telescope_in_kalyazin_wikipedia_ru.webp)|
 | |**Центр космической связи «Медвежьи озёра»**<br> Владелец — [ОКБ МЭИ](contact/okbmei.md).<br> ・Радиотелескоп ТНА‑1500 или РТ‑64: D = 64 м, F/0.37, полноповоротный параболический рефлектор, мин. раб. длина волны = 1 ㎝, M общая = 3 800 т, M зеркала = 800 т, вторичное зеркало D = 6 м. Собирающая площадь 1 500 m².<br> ・Работает с 1979 г. До 2010 г была только принимающей антенной, теперь она и передающая. Система облучения Грегори.|[![](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru_thumb.webp)](f/gs/20160819_mosoblast_schyolkovo_district_radio_telescope_wikipedia_ru.webp)|
@@ -497,7 +497,7 @@ A **mission control center** (**MCC**, sometimes called a **flight control cente
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Космический комплекс (КК):`**<br> [Выводимая масса](throw_weight.md)・ [ГО и ПхО](lv.md)・ [Класс чистоты](clean_lvl.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [СЧ](sui.md)|

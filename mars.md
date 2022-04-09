@@ -16,13 +16,13 @@
 Начиная с 1960‑х годов непосредственным исследованием Марса с помощью АМС занимались СССР (программы «Марс» и «Фобос»), США (программы «Маринер», «Викинг», «Mars Global Surveyor» и другие), Европа (программа «Марс‑экспресс») и Индия (программа «Мангальян»). На сегодняшний день, после Земли, Марс — самая подробно изученная планета Солнечной системы.
 
 | | | | |
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |[![](f/aob/mars/mars_hemisphere_1_thumb.webp)](f/aob/mars/mars_hemisphere_1.webp)|[![](f/aob/mars/mars_hemisphere_2_thumb.webp)](f/aob/mars/mars_hemisphere_2.webp)|[![](f/aob/mars/mars_map_of_the_mars_big_thumb.webp)](f/aob/mars/mars_map_of_the_mars_big.webp)|[![](f/aob/mars/mars_surface_of_mars_big_thumb.webp)](f/aob/mars/mars_surface_of_mars_big.webp)|
 
 
 ## Характеристики
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Flight from Earth|7 мес на ЖРДУ (~ 210 суток)|
 |Signal from Earth|3 ‑ 22 минут|
 |Distance from Earth|55.76 ‑ 401 млн ㎞|
@@ -73,7 +73,7 @@
 Марс ближе всего к Земле во время противостояния, когда планета находится на небе в направлении, противоположном Солнцу. Противостояния повторяются каждые 26 месяцев в разных точках орбиты Марса и Земли. Раз в 15 ‑ 17 лет противостояния приходятся на то время, когда Марс находится вблизи своего перигелия; в этих традиционно называемых великими противостояниях расстояние до планеты минимально (менее 60 млн ㎞), и Марс достигает наибольшего углового размера 25.1″ и яркости −2.88m.
 
 |Расстояние между Землёй и Марсом (в [а.е.](si.md))<br> во время противостояний 2014 ‑ 2061 гг.|
-|:--|
+|:-|
 |![](f/aob/mars/mars_close_appr.webp)|
 
 
@@ -137,7 +137,7 @@
 **Table.** Missions/spacecraft of past & future. (**Ⓛ** — LAV)<br> (**C** — contact rsrch; **D** — distant rsrch; **F** — fly‑by; **H** — manned; **S** — soil sampe return; **X** — technology demonstr.)
 
 | |*Mission/SC (index)*|*Date (UTC)*|*D*|*C*|*F*|*H*|*S*|*X*|*Notes*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |—|**【Proposed】**|—|•|•|•|•|•|•|—|
 | |…| | | | | | | |<mark>TBD</mark>|
 |—|**【Developing】**|—|•|•|•|•|•|•|—|
@@ -164,7 +164,7 @@ Targets & explorations for Mars. (Comments: **T** — technical; **Draft** — m
 <small>
 
 |*Number*|*T*|*EN*|*Section of m&o*|*C*|*D*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |•|•|**【Never occurred】**|•|•|•|•|•|•|
 |EMA‑…| | | | | | | | |
 |•|•|**【Was tried】**|•|•|•|•|•|•|
@@ -180,7 +180,7 @@ Targets & explorations for Mars. (Comments: **T** — technical; **Draft** — m
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Space](index.md)】**<br> [Apparent magnitude](app_mag.md)・ [Astro.object](aob.md)・ [Blue Marble](earth.md)・ [Cosmic rays](ion_rad.md)・ [Ecliptic](ecliptic.md)・ [Escape velocity](esc_vel.md)・ [Health](health.md)・ [Hill sphere](hill_sphere.md)・ [Information](info.md)・ [Lagrangian points](l_points.md)・ [Near space](near_space.md)・ [Pale Blue Dot](earth.md)・ [Parallax](parallax.md)・ [Point Nemo](earth.md)・ [Silver Snoopy award](silver_snoopy_award.md)・ [Solar constant](solar_const.md)・ [Terminator](terminator.md)・ [Time](time.md)・ [Wormhole](wormhole.md) ┊ ··•·· **Solar system:** [Ariel](ariel.md)・ [Callisto](callisto.md)・ [Ceres](ceres.md)・ [Deimos](deimos.md)・ [Earth](earth.md)・ [Enceladus](enceladus.md)・ [Eris](eris.md)・ [Europa](europa.md)・ [Ganymede](ganymede.md)・ [Haumea](haumea.md)・ [Iapetus](iapetus.md)・ [Io](io.md)・ [Jupiter](jupiter.md)・ [Makemake](makemake.md)・ [Mars](mars.md)・ [Mercury](mercury.md)・ [Moon](moon.md)・ [Neptune](neptune.md)・ [Nereid](nereid.md)・ [Nibiru](nibiru.md)・ [Oberon](oberon.md)・ [Phobos](phobos.md)・ [Pluto](pluto.md)・ [Proteus](proteus.md)・ [Rhea](rhea.md)・ [Saturn](saturn.md)・ [Sedna](sedna.md)・ [Solar day](solar_day.md)・ [Sun](sun.md)・ [Titan](titan.md)・ [Titania](titania.md)・ [Triton](triton.md)・ [Umbriel](umbriel.md)・ [Uranus](uranus.md)・ [Venus](venus.md)|

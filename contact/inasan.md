@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/i/inasan_logo1_thumb.webp)](../f/contact/i/inasan_logo1.webp)|<admin@inasan.ru>, +7(495)951-54-61, Fax: +7(495)951-55-57;<br> *Россия, 119017, Москва, ул. Пятницкая, д. 48*<br> 【<http://www.inasan.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Институт_астрономии_РАН)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

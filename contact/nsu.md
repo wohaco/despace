@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/n/nsu_logo1_thumb.webp)](../f/contact/n/nsu_logo1.webp)|<nsu@nsu.ru>, +7(383)363-43-33, Fax: …;<br> *Россия, 630090, Новосибирская область, г. Новосибирск, ул. Пирогова, д. 2*<br> 【<http://www.nsu.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -12,7 +12,7 @@
 DSN является частью [Лаборатории реактивного движения НАСА](contact/jpl.md). Аналогами этой сети можно назвать сеть ESTRACK Европейского центра управления космическими полётами (ЕКА), Восточный центр дальней космической связи в России, а также китайский и индийский центры дальней космической связи.
 
 |*Расположение станций*|*Охват сферы*|
-|:--|:--|
+|:-|:-|
 |[![](f/gs/dsn_network_thumb.webp)](f/gs/dsn_network.webp)|[![](f/gs/dsn_antenna_thumb.webp)](f/gs/dsn_antenna.webp)|
 
 **Инструменты:**
@@ -25,7 +25,7 @@ DSN является частью [Лаборатории реактивного
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|

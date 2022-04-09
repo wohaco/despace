@@ -47,7 +47,7 @@ A **digital elevation model (DEM)** is a 3D CG representation of a terrain’s s
 DEMs are used often in geographic information systems, and are the most common basis for digitally produced relief maps. While a digital surface model (DSM) may be useful for landscape modeling, city modeling and visualization applications, a digital terrain model (DTM) is often required for flood or drainage modeling, land-use studies, geological applications, and other applications, and in planetary science.
 
 |*3D rendering of a DEM of Tithonium Chasma on Mars*|*Surfaces represented by a Digital Surface Model include buildings & other objects. Digital Terrain Models represent the bare ground.*|
-|:--|:--|
+|:-|:-|
 |[![](f/model/dem_01_thumb.webp)](f/model/dem_01.webp)|![](f/model/dem_02.webp)|
 
 Common uses of DEMs include:
@@ -197,7 +197,7 @@ Common uses of DEMs include:
 Правила выполнения всех типов электрических схем установлены [ГОСТ 2.702](гост_2_702.md), при выполнении схем цифровой вычислительной техники руководствуются ГОСТ 2.708-81.
 
 |*Тип схемы электрической*|*Определение*|*<small>Код типа</small>*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Структурная|Определяет основные функциональные СЧ, их назначение и взаимосвязи|1|
 |Функциональная|Разъясняет процессы, протекающие в отдельных функциональных цепях изделия или изделия в целом|2|
 |Принципиальная (полная)|Определяет полный состав элементов и взаимосвязи между ними и, как правило, дающий полное (детальное) представления о принципах работы изделия (установки)|3|
@@ -210,7 +210,7 @@ Common uses of DEMs include:
 Примечание — Наименования типов схем, указанные в скобках, устанавливают для электрических схем энергетических сооружений.
 
 |*Схема электрическая*|<small>*Пример   (изображение)*</small>|
-|:--|:--|
+|:-|:-|
 |**Структурная (Э1)**<br> Изображают основные функциональные СЧ (элементы, устройства, функц. группы) и основные взаимосвязи между ними. Графическое построение схемы должно обеспечивать наилучшее представление о последовательности взаимодействия функциональных частей в изделии. На линиях взаимосвязей рекомендуется стрелками обозначать направление хода процессов в изделии.|[![](f/chart/eid_ru_01_thumb.webp)](f/chart/eid_ru_01.webp)|
 |**Функциональная (Э2)**<br> Изображают функциональные СЧ (элементы, устройства, функц. группы), участвующие в процессе, иллюстрируемом схемой, и связи между этими частями. Графическое построение схемы должно давать наглядное представление о последовательности процессов, иллюстрируемых схемой.|[![](f/chart/eid_ru_02_thumb.webp)](f/chart/eid_ru_02.webp)|
 |**Принципиальная (полная) (Э3)**<br> Изображают все эл. элементы или устройства, необходимые для осуществления и контроля в изделии установленных эл. процессов, все эл. взаимосвязи между ними, а также эл. элементы (соединители, зажимы и т.д.), которыми заканчиваются вх/вых цепи. Допускается изображать элементы соединительные и монтажные, устанавливаемые по конструктивным соображениям. Схемы выполняют для изделий в отключённом положении.|[![](f/chart/eid_ru_03_thumb.webp)](f/chart/eid_ru_03.webp)|
@@ -449,7 +449,7 @@ For each OE, a general drawing shall be provided containing a contour (simplifie
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](drawing.md)・ [СхО](drawing.md)・ [СхПЗ](drawing.md)・ [СхЧ](drawing.md)・ [СхЭ](drawing.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|

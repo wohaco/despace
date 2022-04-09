@@ -20,7 +20,7 @@
 ## Antenna gain
 
 |*° full open.*|0.1|0.5|1|2|4|6|8|10|12|14|16|18|20|25|30|35|40|60|90|180|360|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |*Antenna gain, ㏈*| | | |31|28|24|22|20|18.5|17.5|15|13|12|8|5|2|0|−4|−9|−13|−21|
 
 
@@ -50,7 +50,7 @@
 Применяются 3 основных типа антенн:
 
 | |*Наименование*|*Сектор углов*|
-|:--|:--|:--|
+|:-|:-|:-|
 |[![](f/comms/antenna_mna1_thumb.webp)](f/comms/antenna_mna1.webp)|**Малонаправленная (МНА)** или<br> **слабонаправленная**|± 90°|
 |[![](f/comms/antenna_na1_thumb.webp)](f/comms/antenna_na1.webp)|**Направленная (НА)** или<br> **средненаправленная (СНА)** или<br> **рупорная**|± 5 ‑ 15°|
 |[![](f/comms/antenna_ona1_thumb.webp)](f/comms/antenna_ona1.webp)|**Остронаправленная (ОНА)**|± 0.05 ‑ 1°|
@@ -61,7 +61,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|

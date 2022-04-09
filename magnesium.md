@@ -10,7 +10,7 @@
 **Магний** — элемент 2‑ой группы, 3‑го периода системы элементов Менделеева, атомный номер 12. Символ — Mg *(лат. Magnesium)*. Лёгкий, ковкий металл серебристо‑белого цвета с металлическим блеском. Кларк магния — 1.95 % (19.5 ㎏/t). Один из самых распространённых элементов земной коры. Большие количества магния находятся в морской воде в виде раствора солей. Цена магния в 2012 г — ~2.8‑2.9 $/㎏.
 
 |*Characteristic*|*[Value](si.md) (incl. [comparison](matc.md))*|
-|:--|:--|
+|:-|:-|
 |**Space sector**|Widely used|
 |**Химические<br>св‑ва**|・Ковалентный радиус — 136 пм<br> ・Радиус иона — 66 (+2e) пм<br> ・Степени окисления — 0; +2<br> ・Электродный потенциал — −2.37 В<br> ・Электроотрицательность — 1.31 (шкала Полинга)<br> ・Энергия ионизации (первый электрон) — 737.3 (7.64) кДж/моль (эВ)|
 |**Термодинам.<br>св‑ва**|・Молярный объём — 14.0 cm³/моль<br> ・Молярная теплоёмкость — 24.90 Дж/(K·моль)<br> ・Плотность (при [н.у.](sctp.md)) — 1.738 g/㎝³<br> ・Температура плавления — +650 ℃ (923 K), кипения — +1 090 ℃ (1 363 K)<br> ・Уд. теплота плавления — 9.20 кДж/моль, [испарения](matc.md) — 131.8 кДж/моль|
@@ -49,7 +49,7 @@ Reactions:
 For the density of 1.45 g/㎝³ & 7.66 % for the H weight in it the H density is 0.111.07 g/㎝³ (1.56 times higher than luquid H).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |**Space sector**|…|
 |**Properties**|・Molar mass — 26.3209 g/mol<br> ・Appearance — white crystals<br> ・Density — 1.45 g/㎝³ (liquid H is 0.070.99 g/㎝³)<br> ・Melting point — 327 ℃ (600 K) decomposes<br> ・Solubility in water — decomposes<br> ・Solubility — insoluble in ether|
 
@@ -60,7 +60,7 @@ For the density of 1.45 g/㎝³ & 7.66 % for the H weight in it the H densit
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Structures, gears, materials (SGM)](sc.md)】**<br> [Гермоконтейнер](гермоконтейнер.md)・ [Датчик](sensor.md)・ [Задел](margin.md)・ [Изделие](unit.md)・ [Испарение материалов](matc.md)・ [Кавитация](cavitation.md)・ [КЗУ](cinu.md) (ВБУ КТ)・ [КХГ](cgs.md)・ [Контейнеры для транспортировки](ship_contain.md)・ [Крейцкопф](crosshead.md)・ [Номинал](nominal.md)・ [ПУС](lag.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [Резерв](reserve.md)・ [Слайс](слайс.md)・ [ТСП](tsp.md)・ [Типичные формы КА](sc.md)・ [Толкатель](толкатель.md)・ [Унификация](commonality.md)|

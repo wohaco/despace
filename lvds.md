@@ -12,7 +12,7 @@
 More examples of LVDS used in computer buses are HyperTransport & FireWire, both of which trace their development back to the post‑Futurebus work, which also led to SCI. In addition, LVDS is the physical layer signaling in SCSI standards (Ultra‑2 SCSI & later) to allow higher data rates & longer cable lengths. Serial ATA (SATA), RapidIO, & [SpaceWire](spacewire.md) use LVDS to allow high speed data transfer.
 
 |*Standard*|*TIA/EIA‑644*|
-|:--|:--|
+|:-|:-|
 |Connector types|not specified|
 |Creation date|1994|
 |Max. Binary Rate|655 Mbit/s (rates up to 1 ‑ 3 Gbit/s possible)|
@@ -42,7 +42,7 @@ The low differential voltage, about 350 mV, causes LVDS to consume very little p
 Logic levels:
 
 |*Vee*|*VOL*|*VOH*|*Vcc*|*VCMO*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |GND|1.0 V|1.4 V|2.5 ‑ 3.3 V|1.2 V|
 
 **Comparing serial & parallel data transmission.**  
@@ -70,7 +70,7 @@ LVDS — не единственная используемая дифферен
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Cable](cable.md)】**<br> [CAN](can.md)・ LVDS・ [MIL‑STD‑1553](mil_std_1553.md)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [ОТБКС](cable.md)|

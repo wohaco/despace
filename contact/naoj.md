@@ -2,7 +2,7 @@
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/n/naoj_logo1_thumb.webp)](../f/contact/n/naoj_logo1.webp)|<mark>noemail</mark>, +81 422-34-3600, Fax: …;<br> *2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan*<br> 【<https://www.nao.ac.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/national-astronomical-observatory-of-japan/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/National_Astronomical_Observatory_of_Japan)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

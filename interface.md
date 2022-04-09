@@ -10,7 +10,7 @@
 An **interface** is a shared boundary across which 2 or more separate components exchange information. The exchange can be between software, hardware, devices, humans, etc. Interfaces can provide both input & output, or just one of them. In common environment, factors & requirements for space applications can be divided to following sections, which are intersected & divided mostly for the purpose for arrangement of documents, workflows & specialists. Spacecraft interfaces are combining [external factors](ef.md), budgets, rates & include:
 
 |*Section*|*Description*|
-|:--|:--|
+|:-|:-|
 |**General**|・Human‑system interfaces<br> ・[Reliability](qm.md)<br> ・[Risks](qm.md)<br> ・[Standards](doc.md)<br> ・Space & planetary contamination (incl. bringing life)<br> ・Timeline of [tests](test.md) & [functioning](timeline.md), CONOPS|
 |**[Electrical<br> & Electro-<br>magnetic](sps.md)**|**Environment:**<br> ・[Electromagnetic interference (EMI), Discharges & Radio frequency interference](emi.md)<br> ・[Magnetic Fields & Materials](mag_field.md)<br> ・Radiated emissions<br> ・Radiated susceptibility<br>**Interfaces:**<br> ・Commands & Data budgets, [Exchange rates](gnc.md)<br> ・[Communications](comms.md)<br> ・[Connectors](cable.md)<br> ・Exchange & Testing protocols<br> ・Fields & Points of view<br> ・Metallization<br> ・[Power](sps.md) & Consumption timeline<br> ・[Voltage](sps.md)|
 |**[Mecha-<br>nical](sc.md)**|**Environment:**<br> ・Acoustic influence<br> ・Atmospheres (incl. obtained atmosphere)<br> ・Gravities<br> ・[Meteorites](aob.md), Dust, Liquids, Space debris<br> ・Overloads (incl. Quasi‑static loads, Random loads, [Shock events](vibration.md), [Sine vibration](vibration.md))<br> ・Tensions<br> ・Vacuum & quick‑changing outer pressure<br> **Interfaces:** (incl. their evolutions)<br> ・Accuracy<br> ・[Connectors](cable.md)<br> ・Deployment, Moving parts, Oscillator circuit<br> ・[Dimensions](drawing.md)<br> ・Fields/Points of view<br> ・Hydraulic characteristics (incl. location, evolution, connectors)<br> ・Mass allocation, Center on mass<br> ・[Materials](sc.md) & their [emission](matc.md)<br> ・Mounting points<br> ・Orientation<br> ・Pressurization level|
@@ -94,7 +94,7 @@ Interface Requirements Document Outline (according to [NASA Systems Engineering 
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](drawing.md)・ [СхО](drawing.md)・ [СхПЗ](drawing.md)・ [СхЧ](drawing.md)・ [СхЭ](drawing.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|

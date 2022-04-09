@@ -1,8 +1,8 @@
 # Slovak Space Office
 > 2022.03.21 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/slovak_so_logo1_thumb.webp)](../f/contact/s/slovak_so_logo1.webp)|<spaceoffice@sario.sk>, <mark>noworkphone</mark>, Fax: … ;<br> *SARIO, Mlynské nivy 44/B, 82109 , Bratislava, Slovakia*<br> 【<https://spaceoffice.sk/>・ [LinkedIn ⎆](https://www.linkedin.com/company/slovak-space-office/)】|
-|:--|:--|
+|[![](../f/contact/s/slovak_so_logo1_thumb.webp)](../f/contact/s/slovak_so_logo1.webp)|<spaceoffice@sario.sk>, <mark>noworkphone</mark>, Fax: …;<br> *SARIO, Mlynské nivy 44/B, 82109 , Bratislava, Slovakia*<br> 【<https://spaceoffice.sk/>・ [LinkedIn ⎆](https://www.linkedin.com/company/slovak-space-office/)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

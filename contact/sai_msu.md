@@ -2,7 +2,7 @@
 > 2019.08.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/g/gaish_mgu_logo1_thumb.webp)](../f/contact/g/gaish_mgu_logo1.webp)|<director@sai.msu.ru>, +7(495)939-20-46, Fax: +7(495)932-88-41;<br> *Россия, 119234, Москва, Университетский проспект, д. 13*<br> 【<http://www.sai.msu.ru/>・ [Wikipedia(RU) ⎆](https://ru.wikipedia.org/wiki/Государственный_астрономический_институт_имени_П._К._Штернберга)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -18,7 +18,7 @@ A list of [Soil sampling systems](sss.md).
 **TB‑8,5** *(ru. ТБ‑8,5)* — [radioisotope heater unit](rtg.md) (RHU). Manufacturer [RFYATS-VNIIEF](contact/vniief.md). Designed in 2010.
 
 |*Characteristics*|*[Value](si.md)<br> (TB-8,5)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|—|
 |Dimensions, ㎜|60×⌀40|
@@ -55,7 +55,7 @@ A list of [Soil sampling systems](sss.md).
 **RITEG-238-6,5/3** *(ru. РИТЭГ-238-6,5/3)* — [radioisotope thermoelectric generator](rtg.md) (RTG). Manufacturer [RFYATS-VNIIEF](contact/vniief.md). Designed in 2010. Price 10⁹ ₽ (2018.01.10).
 
 |*Characteristics*|*[Value](si.md)<br> (RITEG-238-6,5/3)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|245×⌀180|
@@ -96,7 +96,7 @@ A list of [Soil sampling systems](sss.md).
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Radioisotope thermoelectric generator (RTG)](rtg.md)】**<br> … <br>• • •<br> **RU:** [RITEG-238-6,5/3](rtg_lst.md)・ [TB-8,5](rtg_lst.md)|

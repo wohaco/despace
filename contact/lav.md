@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md), [LAV](lav.md)
 
 |[![](../f/contact/l/lav_logo1_thumb.webp)](../f/contact/l/lav_logo1.webp)|<npol@laspace.ru>, +7(495)573-56-75, Fax: +7(495)573-35-95;<br> *Россия, 141402, Химки, Ленинградская 24*<br> 【<http://www.laspace.ru/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Lavochkin)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

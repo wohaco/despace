@@ -18,7 +18,7 @@ A list of [Electric batteries](eb.md).
 **8LI-70** *(ru. 8ЛИ‑70)* — Li‑Ion electric battery by [Saturn](пао_сатурн.md). Designed in …
 
 |*Characteristics*|*[Value](si.md)<br> (8LI-70)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|268×232×270|
@@ -60,7 +60,7 @@ A list of [Electric batteries](eb.md).
 **8S8P VES16** — Li‑Ion electric battery by [Saft](contact/saft.md). Designed in 2014.
 
 |*Characteristics*|*[Value](si.md)<br> (8S8P)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|340×198×166|
@@ -102,7 +102,7 @@ A list of [Electric batteries](eb.md).
 **12LI-120** *(ru. 12ЛИ‑120)* — Li‑Ion electric battery by [Saturn](пао_сатурн.md). Designed in …
 
 |*Characteristics*|*[Value](si.md)<br> (12LI-120)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|396×386×245|
@@ -146,7 +146,7 @@ A list of [Electric batteries](eb.md).
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Chemical source of electricity (CSE), Electric battery (EB)](eb.md)】**<br> [Charge efficiency](charge_eff.md) <br>• • •<br> **EU:** [8S8P](eb_lst.md) (30)  ▮  **RU:** [8LI-70](eb_lst.md) (70)・ [12LI-120](eb_lst.md) (120)|

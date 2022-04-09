@@ -15,14 +15,14 @@
 
 
 |*Датчики*|*Аналоговый*|*Цифровой*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Давления|[2МД-Т (ТО и ТУ) ❐](f/sensor/2md-t_docs.7z)| |
 |Температуры|[ТМ 293 (ТО и ТУ) ❐](f/sensor/tm_293_docs.7z)| |
 
 **Общая информация.**
 
 |*Тип датчика*|*Масса, г*|<small>*Электро‑<br> потребление, А*</small>|<small>*Напря&shy;жение,<br> В*</small>|<small>*Диапазон<br> измерений*</small>|<small>*Погреш&shy;ность<br> измерений*</small>|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |**Давления,<br> аналоговый**|180 ‑ 250 (L<sub>кабеля</sub> 400 ㎜)|0.01 ‑ 0.046|6.5|0 ‑ 140 ㎏f/㎝²|2.5 %|
 |**Давления,<br> цифровой**| | | | | |
 |**Температурный,<br> аналоговый**|9 (L<sub>кабеля</sub> 400 ㎜);<br> 12 (L<sub>кабеля</sub> 1 000 ㎜);<br> 22 (L<sub>кабеля</sub> 2 000 ㎜)|0.0035 за 10 ㎳|12|–199 ‑ +200 ℃|1 %|
@@ -31,7 +31,7 @@
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[GHGSat](contact/ghgsat.md) — gas sensors for Cubesats|
@@ -55,7 +55,7 @@
 > <small>**Датчик Земли** — русскоязычный термин. **Earth sensor (ES)** — англоязычный эквивалент.</small>
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|…|
@@ -81,7 +81,7 @@
 **Звёздный датчик (ЗД)**, также **блок определения координат звёзд (БОКЗ)** — прибор в составе [космического аппарата](sc.md), предназначенный для определения ориентации КА относительно звёздного неба. Является чувствительным элементом системы ориентации КА. В конце 1980‑х начали применяться широкопольные датчики на основе ПЗС‑матриц, которые сравнивают полученное изображение звёздного неба с имеющимся в памяти звёздным каталогом. Датчик может быть как автономным прибором, содержащим блок обработки данных, так и использовать для этой цели вычислительные мощности [бортовой ЭВМ](obc.md).
 
 | |*[Фирма](contact.md)*|*Модели ЗД (масса, ㎏)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**EU**|[Leonardo](leonardo.md)|[A-STR](st_lst.md) (3.55)・ [AA-STR](st_lst.md) (2.6)|
 | |[Jena‑Optronik](contact/jenaoptronik.md)|[ASTRO 15](st_lst.md) (6.15)・ [ASTRO 10](st_lst.md) (3.8)・ [ASTRO APS](st_lst.md) (2)|
 | |[Sodern](contact/sodern.md)|[Hydra](st_lst.md) (4.6)・ [Horus](st_lst.md) (1.6)・ [Auriga](st_lst.md) (0.56)<br> **`Исторические:`** *[SED26](st_lst.md) (3.3)*|
@@ -98,7 +98,7 @@
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Macfab](contact/macfab.md)|
@@ -136,19 +136,19 @@
 Современные магнитометры для навигации сделаны в виде трёх перпендикулярных друг другу трубок, с помощью которых может быть построена 3‑осная ориентация и определено направление магнитного поля. В случае применения одной или двух трубок вместо трёх измерения могут проводиться путём поворота КА или помещения магнитометра на привод.
 
 |В космосе применяются<br> индукционные магнитометры.|Магнитометр КА [THEMIS](themis.md).|
-|:--|:--|
+|:-|:-|
 |[![](f/sensor/lemi-120_thumb.webp)](f/sensor/lemi-120.webp)|[![](f/sensor/search_coil_magnetometer_thumb.webp)](f/sensor/search_coil_magnetometer.webp)|
 
 **Разновидности**
 
 | |*Произв.*|*Актуальные (масса, г)*|*Исторические (масса, г)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |**RU**|[Спутникс](contact/sputnix.md)|[SX-MAGWR](mtm_lst.md) (100)| |
 
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|…|
@@ -180,7 +180,7 @@ There are various types of sun sensors, which differ in their technology and per
 In typical sun sensors, a thin slit at the top of a rectangular chamber allows a line of light to fall on an array of photodetector cells at the bottom of the chamber. A voltage is induced in these cells, which is registered electronically. By orienting 2 sensors perpendicular to each other, the direction of the Sun can be fully determined. Often, multiple sensors will share processing electronics.
 
 | |*[Фирма](contact.md)*|*Модели СД (масса, ㎏)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**EU**|[Bradford](contact/bradford_eng.md)|[FSS](ss_lst.md) (0.05 ‑ 0.375)・ [CSS](ss_lst.md) (0.275)・ [CoSS](ss_lst.md) (0.015 ‑ 0.024)|
 | |[Jena‑Optronik](contact/jenaoptronik.md)|[FSS](ss_lst.md) (0.65)|
 | |[Solar MEMS](contact/solarmems.md)|[NanoSSOC-A60](nssoc_a60.md) ()・ [NanoSSOC-D60](nssoc_d60.md) ()・ [SSOC-A60](ssoc_a60.md) ()・ [SSOC-D60](ssoc_d60.md) ()|
@@ -194,7 +194,7 @@ In typical sun sensors, a thin slit at the top of a rectangular chamber allows a
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Macfab](contact/macfab.md)<br> ・[Sinclair Interplanetary](contact/sinclair_ip.md)|
@@ -224,7 +224,7 @@ Etc:
 **Кубсаты:**
 
 | |*[Фирма](contact.md)*|*Модели СД для кубсатов (масса, ㎏)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**US**|[Space Micro](space_micro.md)|[MSS](ss_lst.md) (0.036)・ [CSS](ss_lst.md) (0.02)|
 
    - <http://www.newspaceglobal.com/>
@@ -236,7 +236,7 @@ Etc:
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Датчик:`**<br> …|

@@ -18,7 +18,7 @@ Original of NASA’s report: 2009.12.18 ([GSFC](contact/gsfc.md), [JPL](contact/
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|$ 1.1 ‑ 1.5 B or 29 500 — 45 600 ㎏ of [gold](sc_price.md) in 2015 prices without LV|
 |[CML](cml.md) / [TRL](trl.md)|CML: 4, TRL: <mark>TBD</mark>|
@@ -52,7 +52,7 @@ Original of NASA’s report: 2009.12.18 ([GSFC](contact/gsfc.md), [JPL](contact/
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑006|T|Exploration: from surface.| | |C| | | |
 |EVN‑010| |Atmosphere: vertical model.| |D| | | | |
@@ -92,7 +92,7 @@ The scientifically compelling highland regions known as tessera hold the most po
 ***Significant Mission Events:***
 
 |*Date*|*Event*|*Delta V/Comments*|
-|:--|:--|:--|
+|:-|:-|:-|
 |May 27, 2023|Launch|30 ㎧ Earth to Venus TCMs|
 |October 27, 2023|First Venus Fly‑by|45 ㎧ Venus to Venus TCMs|
 |February 10, 2024|Lander Release|Flexibility in exact time +/‑day|
@@ -122,7 +122,7 @@ The driving science requirements that led to the VME design are:
 VME’s primary science objectives are a subset of those defined by VEXAG and are shown, in priority order, below.
 
 |*Science Objective*|*Measurement*|*Instrument*|*Functional Requirement*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Determine whether Venus has a secondary atmosphere resulting from late bombardment and the introduction of significant outer-solar system materials, including volatiles|Measure atmospheric Noble gas isotopes in situ|Neutral Mass Spectrometer|In situ sample of atmosphere — 1 bulk sample on descent ([EVN‑055](venus.md))|
 |Characterize major geologic units in terms of major elements, rock forming minerals in which those elements are sited, and isotopes|Identify mineralogy (SiO₂, FeO, MgO, sulfur bearing, OHbearing) and elemental chemistry of surface rocks ([EVN‑023](venus.md), [EVN‑026](venus.md)) in ≥ 2 surface locations (separated by > 8 ㎞)|Raman/LIBS|Land in ≥ 2 locations; ~ 2 m path-length for observation; stable platform for measurement duration|
 |Characterize the morphology and relative stratigraphy of surface units ([EVN‑044](venus.md))|Near IR imaging along an airborne traverse > 8 ㎞ in length, at < 5 m spatial resolution|Near-infrared (~1.1 micron) imager with field of view TBD and SNR > 100|Near surface aerial mobility (bellows); Nadir-looking position on gondola to image the surface; platform stability for non-blurred images; > 45° solar incidence angle, acquire contiguous images of the surface during aerial traverse > 8 ㎞ (requires ~5 h lifetime|
@@ -136,7 +136,7 @@ VME’s primary science objectives are a subset of those defined by VEXAG and ar
 Instrument Resource Summary – the instruments in this table represent a notional instrument payload and to the extent possible, existing or proposed instruments were selected for which resources are known or have already been estimated. With the exception of the SAM heritage instruments, there is a substantial uncertainty associated with these numbers.
 
 | |*Mass (kg)*|*Power (watts)*|*Volume (cm)*|*Data Volume*|*TRL/Heritage*|*Description*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |Neutral Mass Spectrometer (NMS)|11|50|26 x 16 x 19|2 kbps|6-7 MSL/SAM|Provides in situ measurement of noble gas isotopes and multiple trace gas mixing ratios. The instrument consists of three modules: an ion source to convert gas phase sample molecules into ions; a mass analyzer, which applies electromagnetic fields to sort the ions by mass; and a detector, which measures the abundance of each ion present.|
 |Tunable Laser Spectrometer (TLS)|4.5|17|25 x 10 x 10|3.4 kbps|6-7 MSL/SAM|Measures trace gases, including multiple isotopes of sulfur and hydrogen-bearing species. The TLS measures the Deuterium/Hydrogen ratio in atmospheric water via measurement of molecular line parameters for infrared molecular absorption lines. Utilizing extremely small tunable laser spectrometers with room-temperature laser detector arrays in a Herriott cell configuration, TLS provides multi-wavelength in situ measurements of the Venusian atmosphere.|
 |Raman/Laser Induced Breakdown Spectroscopy (LIBS)|6.0|6.7|CCD & preamps: 19 x 14 x 19, Optical Head: 08 x 07 x 10, Electronics: 08 x 10 x 40|1.5 Mb/sample|4/ExoMars|It is a combined instrument, utilizing a single laser and a single telescope to provide mineralogy and elemental chemistry of surface rocks. Raman illuminates the remotely located (~2 m away or less) sample with a low power laser pulse and observes the scattered return to determine the vibrational modes of the chemical bonds in the target. LIBS utilizes this same laser at a higher power level to vaporize and ionize a portion of the target material, creating a plasma. By measuring the intensity and energy of the photons emitted by the plasma, the elemental chemical composition of the sample can be inferred.|
@@ -182,7 +182,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 **Table.** Mass Breakdown <mark>(there are unclear mistakes in masses, but still these are masses from the original report)</mark>
 
 |*Component*|*CBE, ㎏*|*Allow, %*|*Max Mass, ㎏*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Spacecraft (carrier) Wet|1 212|21|1 470|
 |░╟ Spacecraft (carrier)|846|30|1 100|
 |░╙ Fuel|366|1|370|
@@ -230,7 +230,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

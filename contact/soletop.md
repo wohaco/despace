@@ -2,7 +2,7 @@
 > 2022.01.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/soletop_logo1_thumb.webp)](../f/contact/s/soletop_logo1.webp)|<support@soletop.com>, +82(42)867-7440, Fax: +82(42)867-7445 ;<br> *409, Expo-ro, Yuseong-gu, Daejeon, 34051, South Korea*<br> 【[WEBSITE ⎆](https://soletop.com/)・ [Facebook ⎆](https://www.facebook.com/soletopkorea)・ [LinkedIn ⎆](https://www.linkedin.com/company/soletop/)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|Lead the global market with the development of innovative technology in order to offer the best solutions.|
 |**Vision**|…|
 |**Values**|…|

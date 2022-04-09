@@ -14,7 +14,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|$450M or 10 051 ㎏ of [gold](sc_price.md) in 2019 prices|
 |Development|2019 —  …|
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑014| |Atmosphere: composition.| |D| | |F| |
 |EVN‑027| |The causes why Venus evolved in a planet so different from Earth.| |D|C|F| | |
@@ -81,7 +81,7 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
    1. Surface properties: Provide insights into tessera origins and their tectonic, volcanic, and weathering history.
 
 |*Instrument*|*Description*|
-|:--|:--|
+|:-|:-|
 |Venus Analytic Laboratory (VAL)|Instruments would provide high‑fidelity synergistic measurements throughout the probe’s descent, particularly in the upper clouds and the unexplored near‑surface environment.|
 |Venus Mass Spectrometer (VMS)|Would provide the first comprehensive in situ surveys of noble and trace gases at Venus, and has the capability to discover new gas species in the Venusian atmosphere.|
 |Venus Tunable Laser Spectrometer (VTLS)|Would provide the first highly sensitive in situ measurements of targeted trace gases and associated isotope ratios at Venus, addressing key science questions about chemical processes in the upper clouds and the near‑surface environment.|
@@ -113,7 +113,7 @@ It is part of the Discovery Program, and it was one of the finalists for Discove
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

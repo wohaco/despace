@@ -14,7 +14,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … of [gold](sc_price.md)|
 |Development|…|
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑001| |Atmosphere: preliminary model.| |D|C|F| | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑028| |Magnetosphere structure.| |D| |F| | |
@@ -104,7 +104,7 @@ Mariner 2 was equipped with scientific instruments for measuring the magnetic 
    - A two‑channel microwave radiometer. It was used to determine the absolute temperature of Venus’ surface and details concerning its atmosphere through its microwave‑radiation characteristics, including the daylight and dark hemispheres, and in the region of the terminator ([EVN‑074](venus.md)). Measurements were performed simultaneously in two frequency bands of 13.5 & 19.0 ㎜.
 
 |*Parameter*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Frequency bands|13.5 mm and 19.0 ㎜|
 |Mass|10 ㎏|
 |Average power|4 W|
@@ -113,7 +113,7 @@ Mariner 2 was equipped with scientific instruments for measuring the magnetic 
    - A two‑channel infrared radiometer to measure the effective temperatures of small areas of Venus ([EVN‑074](venus.md)). The radiation that was received could originate from the planetary surface, clouds in the atmosphere, the atmosphere itself or a combination of these. The radiation was received in two spectral ranges: 8 ‑ 9 μm (focused on 8.4 μm) and 10 ‑ 10.8 μm (focused on 10.4 μm). The latter corresponding to the carbon dioxide band ([EVN‑077](venus.md)).
 
 |*Parameter*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Frequency bands|8 to 9 μm (F = 8.4 μm) and 10 to 10.8 μm (F = 10.4 μm)|
 |Mass|1.3 ㎏|
 |Power|2.4 W|
@@ -158,7 +158,7 @@ Scientific experiments were based on the base of the spacecraft and the mast. Th
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

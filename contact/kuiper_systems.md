@@ -1,8 +1,8 @@
 # Kuiper Systems
 > 2022.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/k/kuiper_systems_logo1_thumb.webp)](../f/contact/k/kuiper_systems_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *…, Redmond, Washington, U.S.*<br> 【[Wikipedia ⎆](https://en.wikipedia.org/wiki/Kuiper_Systems)】|
-|:--|:--|
+|[![](../f/contact/k/kuiper_systems_logo1_thumb.webp)](../f/contact/k/kuiper_systems_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…, Redmond, Washington, U.S.*<br> 【[Wikipedia ⎆](https://en.wikipedia.org/wiki/Kuiper_Systems)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2020.07.16 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/canon_elec_logo1_thumb.webp)](../f/contact/c/canon_elec_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://en.canon-elec.co.jp/space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canon-electronics-inc-/)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
@@ -25,7 +25,7 @@
 **The origin story**
 
 |*Date*|*Description*|
-|:--|:--|
+|:-|:-|
 | |With a clear path to realizing his dream, Sakamaki implemented a series of bold reorganizations in management in order to build up the necessary funds & worked tirelessly to recruit talent & experience. In 2009, Sakamaki declared Canon Electronics’ entry into the space industry & officially kicked off CE’s challenge.|
 |2002|Sakamaki is inspired by a conversation with a friend living abroad. An idea, that “the coming age will belong to those who tame near‑Earth space,” left a deep imprint & Sakamaki felt instinctively, “this is our chance!”|
 |1999|Sakamaki is appointed President of CE with dreams of entering the space industry. From his experience participating in many new product launches as a member of Canon Inc.’s R&D division, he knew that CE possessed the technology & expertise in precision machines & optics to disrupt the satellite manufacturing market.|

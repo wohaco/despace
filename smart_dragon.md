@@ -10,7 +10,7 @@
 **Jielong (Smart Dragon)** — китайская одноразовая твердотопливная ракета‑носитель лёгкого класса.
 
 |*Version*|*Description*|*Activity*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Smart Dragon 1|Базовый вариант.|**Активен** (2019 ‑  …)|
 [![](f/lv/smart_dragon/jielong1_01_thumb.webp)](f/lv/smart_dragon/jielong1_01.webp)
 
@@ -24,7 +24,7 @@
 **Jielong-1 (Smart Dragon-1)** — китайская одноразовая твердотопливная ракета‑носитель лёгкого класса.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Активность|**Активен** (2019.07.15 ‑ …)|
 |[Аналоги](analogue.md)|[Electron](electron.md) (США)・ [Shavit](shavit.md) (Израиль)・ [Unha](unha.md) (Корея сев.)|
 |Длина/диаметр|19.5 м / 1.2 м|
@@ -38,7 +38,7 @@
 **Выводимые массы.**
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |[Jiuquan](spaceport.md)|Smart Dragon-1|0.25|…|…|…|…|Пуск — $ … млн (… г);<br> ПН 1.08 % от ст.массы;<br> На [ССО](nnb.md) — 150 кг|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
@@ -57,7 +57,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

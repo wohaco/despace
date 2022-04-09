@@ -33,13 +33,13 @@ In [NASA’s](contact/nasa.md) engineering design life cycle, a phase of design 
 In 21CFR820.3(h), design review is described as *“documented, comprehensive, systematic examination of the design to evaluate the adequacy of the design requirements, to evaluate the capability of the design to meet these requirements, and to identify problems.”* The FDA also specifies that a design review should include an independent reviewer.
 
 | |
-|:--|
+|:-|
 |[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.webp)](f/rnd/reviews_in_nasa_projects_lifecycle.webp)|
 
 **List of reviews:**
 
 |*Abbr.*|*Phase*|*Notes*|
-|:--|:--|:--|
+|:-|:-|:-|
 |MCR|*Mission<br> Concept<br> Review*|The MCR affirms the mission need and examines the proposed mission’s objectives and the concept for meeting those objectives.|
 |SRR|*System<br> Requirements<br> Review*|The SRR examines the functional requirements and performance requirements defined for the system and the preliminary program or project plan and ensures that the requirements and the selected concept will satisfy the mission.|
 | |*Рассмотрение<br> системных<br> требований*|Цель SRR — достижение уверенности в полном и однозначном понимании заданных требований к КА и его СЧ, выявление и исправление несоответствий в требованиях, рассмотрение обоснованных предложений по улучшению характеrистик продукции.<br> Проводится на этапе [ЭП](rnd_ep.md).|
@@ -70,7 +70,7 @@ In 21CFR820.3(h), design review is described as *“documented, comprehensive, s
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](vnv.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|

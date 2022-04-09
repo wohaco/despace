@@ -6,7 +6,7 @@
 ---
 
 |*Phase*| | |*Design*| | | | |*Mass prod.:*| |
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |**[R&D phases](rnd.md)**|0 (pre‑A)|A|≈ B|≈ B|≈ C|≈ C/D|≈ E|…|F|
 |**[НИОКР](rnd.md)**|[НИР](rnd_0.md)|[АП](rnd_ap.md)|[ЭП](rnd_ep.md)|[ТП](rnd_tp.md)|[РКД (РРД)](rnd_rkd.md)|[Макеты, НЭО](test.md)|[ЛИ](rnd_e.md)|ПСП → СП → ПЭ|Вывод|
 | |*[NIR](rnd_0.md)*|*[AP](rnd_ap.md)*|*[EP](rnd_ep.md)*|*[TP](rnd_tp.md)*|*[RKD (RRD)](rnd_rkd.md)*|*[Models, Tests](test.md)*|*[LI](rnd_e.md)*|*PSP → SP → PE*|*Closeout*|
@@ -22,7 +22,7 @@
 **Phase A.** Concept & technology development.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Вх. данные**|・[ТЗ](tor.md)<br> ・[контракт](contract.md)<br> ・целевая программа с обоснованием состава НА и экспериментов<br> ・материалы [НИР](rnd_0.md)<br> ・прочие [ИД](init_data.md) от Заказчика|
 |**Вых. данные**|АП и СЧ АП|
 |**Итог**|присвоение литеры «П»|
@@ -40,7 +40,7 @@
 <small>
 
 |*№*|*Наименование документа АП на СЧ КК*|*Соглас.*|*Утвержд.*|*Примечание*|*Основание*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |1|**[Ведомость СЧ АП](lordsac.md)**|ВП Исполнителя|Заказчик| |[ГОСТ 15.103](гост_15_103.md) п.5.1.4|
 |2|**[Заключение ВП](report_rndc.md)**|ВП Исполнителя|ВП Исполнителя| |[ГОСТ 15.103](гост_15_103.md) т.А.1|
 |3|**[Заключение Заказчика](report_rndc.md)**|Заказчик|Заказчик| |[ГОСТ 15.103](гост_15_103.md) т.А.1|
@@ -75,7 +75,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](vnv.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|

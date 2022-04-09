@@ -2,7 +2,7 @@
 > 2020.07.25 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/k/ktsat_logo1_thumb.webp)](../f/contact/k/ktsat_logo1.webp)|<ktsat@kt.com>, +82-2-1577-7726, Fax: …;<br> *13~14F KT Seonleung Tower, 422 Teheran-ro, Gangnam-gu, Seoul, 06193, Korea*<br> 【[WEBSITE ⎆](http://ktsat.net/)・ [LinkedIn ⎆](https://www.linkedin.com/company/ktsat/)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|To ensure that no matter where you go on this planet & beyond, you will never lose touch with those who matter.|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/u/uaesa_logo1_thumb.webp)](../f/contact/u/uaesa_logo1.webp)|<mark>noemail</mark>, +971(2)202-22-22, Fax: …;<br> *CJJC+Q5 Abu Dhabi, United Arab Emirates*<br> 【[WEBSITE ⎆](https://space.gov.ae/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/United_Arab_Emirates_Space_Agency)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -6,7 +6,7 @@
 ---
 
 |*Phase*| | |*Design*| | | | |*Mass prod.:*| |
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |**[R&D phases](rnd.md)**|0 (pre‑A)|A|≈ B|≈ B|≈ C|≈ C/D|≈ E|…|F|
 |**[НИОКР](rnd.md)**|[НИР](rnd_0.md)|[АП](rnd_ap.md)|[ЭП](rnd_ep.md)|[ТП](rnd_tp.md)|[РКД (РРД)](rnd_rkd.md)|[Макеты, НЭО](test.md)|[ЛИ](rnd_e.md)|ПСП → СП → ПЭ|Вывод|
 | |*[NIR](rnd_0.md)*|*[AP](rnd_ap.md)*|*[EP](rnd_ep.md)*|*[TP](rnd_tp.md)*|*[RKD (RRD)](rnd_rkd.md)*|*[Models, Tests](test.md)*|*[LI](rnd_e.md)*|*PSP → SP → PE*|*Close&shy;out*|
@@ -33,7 +33,7 @@
 **Прочие страницы в данной категории** — [Test](test.md)・ [Конкурс на ОКР (СЧ ОКР)](pubprocom.md)・ [Контрольная сборка](contr_asm.md)・ [Рабочая группа](wg.md)・ [Руководство ОКР](mgmt.md)・ [САС](lifetime.md)・ [ТРИЗ](triz.md)・ [Унификация](commonality.md)・ [ТХСЧ](suitc.md)
 
 | | |
-|:--|:--|
+|:-|:-|
 |[![](f/rnd/cycle_of_research_and_development_svg_wikipedia_thumb.webp)](f/rnd/cycle_of_research_and_development_svg_wikipedia.webp)|[![](f/rnd/reviews_in_nasa_projects_lifecycle_thumb.webp)](f/rnd/reviews_in_nasa_projects_lifecycle.webp)|
 
 
@@ -113,7 +113,7 @@ Common spacecraft R&D team:
 СЧ АП (ЭП) — это АП (ЭП) на его СЧ. Сквозной нумерации нет, но таковая возможна внутри каждого АП (ЭП).
 
 |*#*|*Этап*|*Phase*|
-|:--|:--|:--|
+|:-|:-|:-|
 | |**【НИОКР】**|**【R&D】**|
 |**1**|**[Научно-исследовательская работа](rnd_0.md) (НИР)**<br> Комплекс теоретических/экспериментальных исследований с целью получения обоснованных исходных данных, изыскания принципов/путей создания/модернизации продукции.|**Phase 0 (pre‑A)**<br> Concept studies.|
 |**2**|**[Техническое предложение (Аванпроект)](rnd_ap.md) (АП)**<br> Анализ ТЗ. Подбор материалов. Присвоение документам литеры «П». Цель — выявление доп./уточнённых требований к [изделию](unit.md), которые не могли быть указаны в ТЗ или рассмотрены в НИР, и это целесообразно сделать на основе конструкторской проработки и анализа вариантов изделия. *(не распространяется на КД, разраб. по заказу Мин. обороны ([ГОСТ 2.103](гост_2_103.md) п.4.1))*|**Phase A**<br> Concept & technology development.|
@@ -169,7 +169,7 @@ Define NGOs (need, goals, objectives).
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](vnv.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|

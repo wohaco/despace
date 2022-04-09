@@ -10,7 +10,7 @@
 **Камера** — устройство для регистрации подвижных (получение видео) и неподвижных изображений (получения фотографий). Также камерой является **РСА** — [радар с синтезированной апертурой](cam.md), **SAR** — synthetic-aperture radar.
 
 | |*[Фирма](contact.md)*|*Модели камер (масса, ㎏)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |**RU**|[ИКИ РАН](contact/iki_ras.md)|[ЛСТК](cam_lst.md) (8)・ [МСУ-100](cam_lst.md) (3.2)・ [МСУ-50](cam_lst.md) (2.5)・ [ВТК-10,15](cam_lst.md) (0.7)<br> **`Исторические:`** *[ТСНН УТК](cam_lst.md) (2.7)・[ТСНН ШТК](cam_lst.md) (1.7)*|
 |•|• • • • • • • •|• • •|
 |**US**|[Ball A&T](contact/ball_at.md)|[…](.md) ()・ […](.md) ()|
@@ -19,7 +19,7 @@
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Canadensys](contact/canadensys.md)<br> ・[GHGSat](contact/ghgsat.md) — imaging interferometers for Cubesats<br> ・[Macfab](contact/macfab.md)<br> ・[MDA](contact/mda.md)<br> ・[Sinclair Interplanetary](contact/sinclair_ip.md)<br> ・[Thoth Tech.](contact/thoth_tech.md) — cameras, spectrometers|
@@ -60,7 +60,7 @@ SAR images have wide application in remote sensing & mapping of surfaces of the 
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**, **[Cable](cable.md)**·БКС, **[Camera**·Kамера, **[Comms](comms.md)**·Радио, **[CON](contact.md)·[Pers](person.md)**·Контакт, **[Control](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Doppler](doppler.md)**·ИСР, **[DS](ds.md)**·ЗУ, **[EB](eb.md)**·ХИТ, **[ECO](ecology.md)**·Экол., **[EF](ef.md)**·ВВФ, **[ElC](elc.md)**·ЭКБ, **[EMC](emc.md)**·ЭМС, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[Fuel](ps.md)**·Топливо, **[GNC](gnc.md)**·БКУ, **[GS](scs.md)**·НС, **[HF&E](hfe.md)**·Эрго., **[IU](iu.md)**·Гиро., **[KT](kt.md)**·КТЕХ, **[LAG](lag.md)**·ПУC, **[LES](les.md)**·САСП, **[LS](ls.md)**·СЖО, **[LV](lv.md)**·РН, **[MCC](scs.md)**·ЦУП, **[Model](drawing.md)**·Модель, **[MSC](sc.md)**·ПКА, **[N&B](nnb.md)**·БНО, **[NR](nr.md)**·ЯР, **[OBC](obc.md)**·ЦВМ, **[OE](sc.md)**·БА, **[Pat.](patent.md)**·Патент, **[Proj.](project.md)**·Проект, **[PS](ps.md)**·ДУ, **[QA](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[Robot](robot.md)**·Робот, **[Rover](robot.md)**·Ровер, **[RTG](rtg.md)**·РИТЭГ, **[SARC](sarc.md)**·ПСК, **[SE](se.md)**·СЭ, **[Sens.](sensor.md)**·Датч., **[SC](sc.md)**·КА, **[SCS](scs.md)**·КК, **[SGM](sc.md)**·KММ, **[SI](si.md)**·СИ, **[Soft](soft.md)**·ПО, **[SP](sp.md)**·БС, **[Spaceport](spaceport.md)**·Космодр., **[SPS](sps.md)**·СЭС, **[SSS](sss.md)**·ГЗУ, **[TCS](tcs.md)**·СОТР, **[Test](test.md)**·ЭО, **[Timeline](timeline.md)**·ЦГМ, **[TMS](tms.md)**·ТМС, **[TOR](tor.md)**·ТЗ, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Камера:`**<br> [SAR](cam.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … ()|

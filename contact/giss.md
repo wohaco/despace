@@ -2,7 +2,7 @@
 > 2019.08.09 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/n/nasa_logo1_thumb.webp)](../f/contact/n/nasa_logo1.webp)|<webmaster@giss.nasa.gov>, +1(212)678-55-00, Fax: …;<br> *2880 Broadway, New York, NY 10025, USA*<br> 【<https://www.giss.nasa.gov/>・ [Twitter ⎆](https://twitter.com/nasagiss)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

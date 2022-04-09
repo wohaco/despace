@@ -1,8 +1,8 @@
 # Exotrail
 > 2022.03.29 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/e/exotrail_logo1_thumb.webp)](../f/contact/e/exotrail_logo1.webp)|<website@exotrail.com>, +33 630663332, Fax: … ;<br> *3 Rue Galvani, Massy, 91300, France*<br> 【[WEBSITE ⎆](https://exotrail.com)・ [Facebook ⎆](https://www.facebook.com/exotrail)・ [LinkedIn ⎆](https://www.linkedin.com/company/exotrail)・ [Twitter ⎆](https://twitter.com/exotrailspace)】|
-|:--|:--|
+|[![](../f/contact/e/exotrail_logo1_thumb.webp)](../f/contact/e/exotrail_logo1.webp)|<website@exotrail.com>, +33 630663332, Fax: …;<br> *3 Rue Galvani, Massy, 91300, France*<br> 【[WEBSITE ⎆](https://exotrail.com)・ [Facebook ⎆](https://www.facebook.com/exotrail)・ [LinkedIn ⎆](https://www.linkedin.com/company/exotrail)・ [Twitter ⎆](https://twitter.com/exotrailspace)】|
+|:-|:-|
 |**Mission**|To enhance small satellite capabilities by optimizing deployment strategies & improving performance|
 |**Vision**|…|
 |**Values**|…|

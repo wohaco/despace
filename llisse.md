@@ -10,7 +10,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Duration|≥ 90 days (~117 days in the best case)|
 |Program|[Venera-D](venera_d_open_ru.md)|
 |Goal|Returning compositional and physical information about near‑surface winds|
@@ -30,7 +30,7 @@
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑006|T|Exploration: from surface.| | |C| | | |
 |EVN‑007| |Atmosphere: connection between the topography & the atmo circulation.| |D| | | | |
 |EVN‑010| |Atmosphere: vertical model.| |D| | | | |
@@ -89,7 +89,7 @@ As a power supply, 2 options are offered: a primary battery designed for a worki
 <small>
 
 |*Battery Version*|*Wind Powered Version*|
-|:--|:--|
+|:-|:-|
 |![battery_version](f/project/l/llisse/llisse1.webp)|![wind_powered_version](f/project/l/llisse/llisse.webp)|
 |Resource 3 000 hours|Resource is not defined|
 
@@ -112,7 +112,7 @@ The key goals of LLISSE and its long-duration measurements are to increase our k
 <small>
 
 |*Objective Title*|*Science Objectives*|*Measurements*|*Priority*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |L2b. Near-surface atmospheric composition ([EVN‑014](venus.md), [EVN‑077](venus.md))|Long-term study of possible variation of near‑surface atmospheric composition|Measure abundances of predefined components|High|
 |L3b. Near-surface meteorological (METEO) parameters (pressure, temperature, wind speed, and direction) ([EVN‑031](venus.md))|Study of long-term characteristics of near‑surface dynamics, waves, thermal tides, and atmosphere-surface interaction|Long-term measurements of near‑surface temperature, pressure, wind speed, and direction; incident and reflected radiation|High|
 |L4b. Solar fluxes on the surface ([EVN‑013](venus.md), [EVN‑019](venus.md), [EVN‑080](venus.md))|Surface albedo. Study of factors that influence solar illumination (cloud opacity, local time, local relief, etc.)|Measurements of incident and reflected solar radiation over 60 days|Medium|
@@ -133,7 +133,7 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 <small>
 
 |*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 ㎜ station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
 |☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 ㎜ station|<0.2|—|—|High|5|3| |
 
@@ -150,7 +150,7 @@ One station LLISSE at the moment is part of the base of the mission Venera-D. Mu
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

@@ -2,7 +2,7 @@
 > 2019.08.07 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/v/vka_mojayskogo_logo1_thumb.webp)](../f/contact/v/vka_mojayskogo_logo1.webp)|<vka@mil.ru>, +7(812)347-97-70; +7(812)347-96-46, Fax: +7(812)237-12-49;<br> *Россия, 197198, Санкт‑Петербург, Ждановская ул., 13*<br> 【<http://vka.mil.ru/> ・ <https://ru.wikipedia.org/wiki/Военно‑космическая_академия_имени_А._Ф._Можайского>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

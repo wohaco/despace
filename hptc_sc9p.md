@@ -28,7 +28,7 @@
 
 ## CML 1
 |*Параметр*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |[CML](cml.md)|**1** — Cocktail Napkin, Idea Generation, Overview & Advocacy (Записи на салфетках, Генерация идей)|
 |[TRL](trl.md)| |
 
@@ -44,7 +44,7 @@
 
 ## CML 2
 |*Параметр*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |[CML](cml.md)|**2** — Initial Feasibility (Оценка осуществимости)|
 |[TRL](trl.md)| |
 
@@ -54,7 +54,7 @@
 
 ## CML 3
 |*Параметр*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |[CML](cml.md)|**3** — Trade Space (Определение границ/лимитов)|
 |[TRL](trl.md)| |
 
@@ -64,7 +64,7 @@
 
 ## CML 4
 |*Параметр*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |[CML](cml.md)|**4** — Point Design, Architecture selected within Trade Space (Выборочное проектирование)|
 |[TRL](trl.md)| |
 
@@ -74,7 +74,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

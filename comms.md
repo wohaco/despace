@@ -16,7 +16,7 @@
 *Radio communication (DBK & AFS).* A part of a [spacecraft](sc.md).
 
 | |*Company*|*Transmitters/receivers (mass, ㎏)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**RU**|[MOKB Mars](contact/mars_mokb.md)| |
 | |[NPO IT](contact/npoit.md)|[PRIZYV-3](comms_lst.md) (0.17)・ [PRIZYV-1](comms_lst.md) (0.075)|
 | |[LAV](contact/lav.md)|[BRK](brk_lav.md) (12)|
@@ -28,7 +28,7 @@
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[C-CORE](contact/c_core.md) — from radio beacons & ice measurement radars to sat transponders & space‑qualified hardware<br> ・[Calian AT](contact/calian_at.md) — frequency planning, sat resource management, satellite modulators<br> ・[MDA](contact/mda.md) — manufacturing & testing antennas & electronics<br> ・[SpaceBridge Inc.](contact/spacebridge.md) — broadcast modems for GEO & NGSO satellite constellations<br> ・[Telesat](contact/telesat.md) — satellite communications & integration services, satellite operator|
@@ -55,7 +55,7 @@ TMP:
 ## Receiver noise temperature
 
 | |*Temp.*|*Station*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**On Earth**|50|Green Bank Telescope (GBT), Latitude: 38.433°N, Longitude: 79.84°W, ESA|
 | |60|Sardinia Radio Telescope (SRT), Latitude: 39.493°N, Longitude: 9.245°E, ESA|
 |**In space**|200|Space, Venus & Mars (average)|
@@ -88,7 +88,7 @@ TMP:
 Это понятие имеет общий характер, то есть можно говорить или о диапазоне частот какого‑либо конкретного излучателя (природного или искусственного происхождения), или о диапазоне, выделенном какой‑то радиослужбе, или, например, об обобщённой разбивке всей полосы радиочастот. Диапазоны описываются регламентом радиосвязи.
 
 | | |
-|:--|:--|
+|:-|:-|
 |[![](f/comms/electromagnetic-spectrum-xkcd_thumb.webp)](f/comms/electromagnetic-spectrum-xkcd.webp)|[![](f/comms/electromagnetic-spectrum-1_thumb.webp)](f/comms/electromagnetic-spectrum-1.webp)|
 
 
@@ -97,7 +97,7 @@ TMP:
 **Таблица.** Диапазоны частот для радиокомплексов, применяемых на КА.
 
 |*Обозн.*|*Частоты, ㎓<br> 【Длина волны, ㎝】*|*Примечания*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |**УКВ, VHF**, *very high frequ&shy;ency*|0.05 ‑ 0.33 【90 ‑ 600】|Ультракороткие волны.<br> ・УКВ по регламенту допустим для связи КА‑КА.<br> ・121.5, 243 ㎒ — сигнал бедствия, вещание запрещено.<br> ・406 - 406.1 ㎒ — для радиопеленгации|
 |**ДМВ, UHF**, *ultra high frequ&shy;ency*|0.3 ‑ 3 【10 ‑ 100】|Дециметровые волны.<br> ・1 420.405 75 ㎒, 21.1 ㎝ — нейтральный водород.|
 |**L**, *Long*|1 ‑ 2 【15 ‑ 30】| |
@@ -133,7 +133,7 @@ TMP:
 **Таблица.** Длины световых волн
 
 |*Название цвета*|*Длина волны, нм*|
-|:--|:--|
+|:-|:-|
 |Фиолетовый (сине‑фиолетовый)|390 ‑ 440|
 |Синий|440 ‑ 480|
 |Голубой (сине‑зелёный)|480 ‑ 510|
@@ -149,7 +149,7 @@ TMP:
 Скорость передачи информации с КА на Землю определяется частотой и шириной выделенной полосы; мощность передатчика влияет только на чёткость приёма сигнала. См. также [Битрейт](bitrate.md).
 
 |*Дальность*|*Диапазон*|*Скорость,<br> кбит/с (Мбит/с)*|*Антенна*|*Примечание*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |**Луна**|X|4 096 (4)|CНА|Полоса 10 ㎒|
 | |X|10 240 (10)|ОНА|Полоса 10 ㎒|
 | |X|19 350 (18.9)|ОНА|Полоса 10 ㎒|
@@ -178,7 +178,7 @@ TMP:
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Бортовая аппаратура (БА):`**<br> [PDD](pdd.md)・ [Антенна](antenna.md)・ [АПС](hns.md)・ [БУ](eas.md)・ [ЗУ](ds.md)・ [Изделие](unit.md)・ [КЛЧ](clean_lvl.md)・ [ПЗР](fov.md)・ [ПО](soft.md)・ [Прототип](prototype.md)・ [Радиосвязь](comms.md)・ [СКЭ](elmsys.md)・ [ССИТД](tsdcs.md)・ [СИТ](etedp.md)・ [УГТ](trl.md)・ [ЭКБ](elc.md)・ [EMC](emc.md)|

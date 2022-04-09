@@ -1,13 +1,13 @@
 # Amanogi Co., Ltd.
 > 2021.12.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/amanogi_logo1_thumb.webp)](../f/contact/a/amanogi_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *1-1-13, Kitamagome, Ota-ku, Tokyo, Japan*<br> 【<https://amanogi.space/>・ [Twitter ⎆](https://twitter.com/AmanogiPR)】|
-|:--|:--|
+|[![](../f/contact/a/amanogi_logo1_thumb.webp)](../f/contact/a/amanogi_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *1-1-13, Kitamagome, Ota-ku, Tokyo, Japan*<br> 【<https://amanogi.space/>・ [Twitter ⎆](https://twitter.com/AmanogiPR)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|Utilization of Space data by applying Edge Computing to satellites|
 |**Values**|…|
 |**Business**|Sensors & advanced sat data analysis solutions|
-|**[MGMT](../mgmt.md)**|・Founder & CEO — Yu Kudo|
+|**[MGMT](../mgmt.md)**|・CEO, Founder — Yu Kudo|
 
 **Amanogi Co., Ltd.** (also **Amanogi Space**) is a Japanese company aimed to design & production of space components, modeling devices, & visual/sound devices, R&D of data analysis & visualization technology, education services. Founded 2016.
 

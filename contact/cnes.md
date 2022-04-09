@@ -2,7 +2,7 @@
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/cnes_logo1_thumb.webp)](../f/contact/c/cnes_logo1.webp)|<mark>noemail</mark>, +33(561)27-31-31, Fax: …;<br> *18 Avenue Edouard Belin, 31400 Toulouse, France*<br> 【<https://cnes.fr/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/CNES)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

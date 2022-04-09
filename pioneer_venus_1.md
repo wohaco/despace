@@ -14,7 +14,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|US $125 million or 20 126 ㎏ of [gold](sc_price.md)|
 |Development|…|
@@ -47,7 +47,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑002| |Surface: preliminary map.| |D|C| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑010| |Atmosphere: vertical model.| |D| | | | |
@@ -134,7 +134,7 @@ The Pioneer Venus Orbiter carried 17 experiments:
 **Synthesis of the instruments**
 
 |*Name*|*Complete designation*|*Type*|*Manufacturer*|*Responsible scientist*|*Mass*|*Electrical consumption*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |**OCPP**|Orbiter Cloud Photopolarimeter	|Photo polarimeter|GISS|J. Hansen|5 ㎏|5.4 W|
 |**ORAD**|Orbiter Radar Mapper Instrument|Radar|MIT|G. Pettengill|9 ㎏|18 W|
 |**OIR**|Orbiter Infrared Radiometer|Infrared radiometer|JPL|F. Taylor|5.9 ㎏|5.2 W|
@@ -197,7 +197,7 @@ Pioneer Venus Orbiter was based on the HS-507 bus. The spacecraft was a flat cyl
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

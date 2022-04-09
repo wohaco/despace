@@ -14,7 +14,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
@@ -50,7 +50,7 @@
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑011| |Atmosphere: common circulation model.| |D| | | | |
 |EVN‑014| |Atmosphere: composition.| |D| | |F| |
@@ -86,7 +86,7 @@ Collaborative payloads: India/Germany: 1, India/Sweden: 1</mark>
    - Investigating Venusian Ionosphere ([EVN‑096](venus.md)).
 
 |*Indian Payloads selected*|*Surface/<br>Subsurface*|*Atmospheric*|*Ionospheric*|*Sun-Venus<br> Environment*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Venus L&S Band Synthetic Aperture Radar ([SAR](cam.md))|×| | | |
 |Advanced Radar for Topside Ionosphere and subsurface sounding (VARTISS) (HF radar)|×| |×|×|
 |VSEAM (Surface Emissivity)|×|×| | |
@@ -134,7 +134,7 @@ Allan Variance (1 30 sec): ≤1.2 × 10⁻¹³
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

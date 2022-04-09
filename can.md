@@ -12,7 +12,7 @@ A **Controller Area Network (CAN bus)** is a robust vehicle bus standard designe
 Bosch published several versions of the CAN specification & the latest is CAN 2.0 published in 1991. This specification has two parts; part A is for the standard format with an 11‑bit identifier, & part B is for the extended format with a 29‑bit identifier. A CAN device that uses 11‑bit identifiers is commonly called **CAN 2.0A** & a CAN device that uses 29‑bit identifiers is commonly called **CAN 2.0B**. These standards are freely available from Bosch along with other specifications & white papers.
 
 |*Standard*|*ISO 11898*|
-|:--|:--|
+|:-|:-|
 |Connector types|Not specified. DE‑9 is commonly used|
 |Creation date|1986|
 |Max. Binary Rate|10 kbit/s ‑ 1 Mbit/s, or 5 Mbit/s (incl. 3/11 of bitrate for service information)|
@@ -68,7 +68,7 @@ CAN является синхронной шиной с типом доступ�
 Методы контроля ошибок требуют, чтобы изменение бита при передаче успело распространиться по всей сети к моменту замера значения. Это ставит максимальную длину сети в обратную зависимость от скорости передачи: чем больше скорость, тем меньше длина. Использование оптопар для защиты устройств от высоковольтных помех в сети ещё больше сокращает предельную длину, тем больше, чем больше задержка сигнала в оптопаре. Сильно разветвлённые сети (паутина) также снижают скорость из‑за множества отражений сигнала и большей электрической ёмкости шины. Например, для сети ISO 11898 предельные длины составляют приблизительно:
 
 |*1 Мбит/с*|*500 кбит/с*|*125 кбит/с*|*10 кбит/с*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |40 м|100 м|500 м|5 000 м|
 
 
@@ -77,7 +77,7 @@ CAN является синхронной шиной с типом доступ�
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Cable](cable.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [ОТБКС](cable.md)|

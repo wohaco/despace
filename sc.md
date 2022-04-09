@@ -12,7 +12,7 @@
 Любой КА прост как смартфон среднего уровня. Осталось решить вопросы температур, перегрузок, радиации и вперёд. [Что же общего](drawing.md) ~~у ворона и письменного стола~~ у КА и смартфона 2015 года выпуска.
 
 |*СЧ*|*КА*|*Смартфон*|
-|:--|:--|:--|
+|:-|:-|:-|
 |[Аккумулятор](eb.md)|+|+|
 |[Акселерометр](.md)|(гироскоп)|+|
 |[Антенны](antenna.md)|+|+|
@@ -36,7 +36,7 @@
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[ADGA](contact/adga.md) — space systems engineering<br> ・[AQST Canada](contact/qstc.md)<br> ・[BRASS](contact/brass.md) — design consultancy<br> ・[C-CORE](contact/c_core.md) — technology consultancy<br> ・[Canadensys](contact/canadensys.md)<br> ・[Magellan Aerospace](contact/magellan_as.md)<br> ・[MDA](contact/mda.md) — Earth sats<br> ・[MSCI](contact/msci.md)<br> ・[SatCan](contact/satcan.md) — engineering & business consultancy for sat telecom & space tech sectors<br> ・[Space Concordia](contact/space_concordia.md) — (Student community) CubeSats<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
@@ -76,7 +76,7 @@
    - **Спутник**.
 
 |*#*|*Class*|*Description*|
-|:--|:--|:--|
+|:-|:-|:-|
 |1|**Atmospheric**<br> (атмосферный КА) |1. Balloon — ➀ high‑height, ➁ low‑height, ➂ powered, ➃ simple, ➄ variable altitude<br> 2. Communications atmospheric spacecraft (КА для связи)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable|
 |2|**Base**<br> (база)|1. Ground<br> 2. Orbital|
 |3|**Lander**<br> (посадочный КА)|1. Communications lander (КА для связи)<br> 2. Penetrator (КА‑пенетратор)<br> 3. Plane — ➀ glider, ➁ powered, ➂ maneuverable<br> 4. Rover (планетоход)|
@@ -111,7 +111,7 @@
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AU**|…|
 |**CA**|・[AlbertaSat](contact/albertasat.md)<br> ・[Kepler Communications](contact/kepler_comms.md)<br> ・[DSS](contact/dsslabs.md)<br> ・[SFL](contact/utias.md)|
 |**CN**|…|
@@ -145,7 +145,7 @@
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AU**|…|
 |**CA**|…|
 |**CN**|・[CNSA](contact/cnsa.md)|
@@ -267,7 +267,7 @@ Industry analysts at Northern Sky Research believe that high-throughput satellit
 <small>
 
 |*Service equipment* (ru. Служебная аппаратура, СА) — the general name of the OE that ensures the functioning of the SC & the implementation of the target task by the SC|*Payload* (ru. Научная аппаратура, НА, Комплекс научной аппаратуры, КНА, Полезная нагрузка, ПН) — the general name of the OE used to implement the target task for a [SC](sc.md) & [SCS](scs.md)|
-|:--|:--|
+|:-|:-|
 |**[Aimed antenna drive (AIAD)](devd.md)**·ПНА|—|
 |—|**Analyzer of gas**·Газоанализатор|
 |**[Automatic control unit (ACU)](eas.md)**·БАППТ|—|
@@ -332,7 +332,7 @@ Industry analysts at Northern Sky Research believe that high-throughput satellit
 In common any onboard equipment can be basically described using the following table.
 
 |*Characteristics*|*Value*|
-|:--|:--|
+|:-|:-|
 |Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions, not volume】 |
@@ -353,7 +353,7 @@ In common any onboard equipment can be basically described using the following t
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[MDA](contact/mda.md)<br> ・[Thoth Tech.](contact/thoth_tech.md) — cameras, spectrometers|
@@ -381,7 +381,7 @@ Below is a list & characteristics of materials used in the space (and not so) in
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Canadensys](contact/canadensys.md) — mechanisms, structures<br> ・[Macfab](contact/macfab.md) —  housings & covers for mission-critical electronics, separation systems, structures machined from magnesium & composite honeycomb panels<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
@@ -405,7 +405,7 @@ Below is a list & characteristics of materials used in the space (and not so) in
    - [Nominal](nominal.md)
 
 |*Gears*|*Structures*|
-|:--|:--|
+|:-|:-|
 |・[Directional Antenna Drive](devd.md)<br> ・[Landing gear (PUS)](lag.md)<br> ・[Pusher](толкатель.md)<br> ・[Robotics](robot.md)|・[Capillar intake unit (CINU)](cinu.md)<br> ・[Capillary gas storage (CGS)](cgs.md)<br> ・[Hermetic container](гермоконтейнер.md)<br> ・[Sensor](sensor.md)<br> ・[Slice](слайс.md)<br> ・[Thermal honeycomb](tsp.md)<br> ・[Typical forms of SC](sc.md)|
 
 
@@ -418,7 +418,7 @@ Below is a list & characteristics of materials used in the space (and not so) in
 
 
 |*Gas*|*Liquid*|*Metal*|*Non‑metal*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |・[Helium](helium.md)<br> ・[Hydrogen](hydrogen.md)|・|・[Aluminium](aluminium.md) (01570, AMg6)<br> ・[Copper](copper.md)<br> ・[Magnesium](magnesium.md)<br> ・[Nickel](nickel.md) (Inconel)<br> ・[Niobium](niobium.md)<br> ・[Tin](tin.md)<br> ・[Titanium](titanium.md) (VT23)|・[Asbotextolite](asc_lam.md)<br> ・[Bakelite](bakelite.md)<br> ・[Carbon fiber](cfrp.md)<br> ・[Gravimol](gravimol.md)<br> ・[MLI](mli.md)<br> ・[Nitron](acryl_fiber.md)<br> ・[Polyformaldehyde](polyoxymethylene.md)|
 
 
@@ -427,7 +427,7 @@ Below is a list & characteristics of materials used in the space (and not so) in
 
 ## ➄ Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Spacecraft (SC)](sc.md)】**<br> [Cleanliness level](clean_lvl.md)・ [Communication SC](sc.md)・ [Cubesat](sc.md)・ [FSS](sc.md)・ [HTS](sc.md)・ [Interface](interface.md)・ [Manned SC](sc.md)・ [Satellite](sc.md)・ [Sub-item](sui.md)・ [Typical forms](sc.md)|

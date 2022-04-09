@@ -21,7 +21,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 【**Table.** Error Types by [xkcd ⎆](https://xkcd.com/2303/)】
 
 |*#*|*Description*|
-|:--|:--|
+|:-|:-|
 |**1**|False positive|
 |**2**|False negative|
 |**3**|True positive for incorrect reasons|
@@ -35,7 +35,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 【**Table.** Common mistakes, their causes & consequences】
 
 |*#*|*Name*|*Description*|
-|:--|:--|:--|
+|:-|:-|:-|
 |1|**Implement an additional system for the same task**|Leads to overhead & errors when rewriting from one to another.|
 |2|**Stupidity**|“There are 2 infinities — the Universe & human stupidity. I’m not sure about the universe.”|
 |3|**Game “to get in the ass & get out of it heroically”**|Classic. Make the wrong decision, & then clean up the consequences with sweat & blood.|
@@ -103,7 +103,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 【**Table.** Размерности】
 
 |*Правильно* |*Неправильно* |*Комментарии*|
-|:--|:--|:--|
+|:-|:-|:-|
 |г|гр| |
 |кг|Кг| |
 |мин|м| |
@@ -152,7 +152,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 【**Table.** Термины】
 
 |*Правильно*|*Неправильно*|
-|:--|:--|
+|:-|:-|
 |Температура точки росы ℃|Точка росы|
 |Измерение|Замер, обмер|
 |Точность, прецизионность|Верность измерений|
@@ -191,7 +191,7 @@ This manual contains a list of common errors in operation & [documentation](doc.
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](vnv.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|

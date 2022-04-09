@@ -4,7 +4,7 @@
 Разработчик: …. Разработано в <mark>TBD</mark> году …
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions】 |
@@ -43,7 +43,7 @@
 Разработчик: …. Разработано в <mark>TBD</mark> году …
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions】 |
@@ -84,7 +84,7 @@
 Разработчик: …. Разработано в <mark>TBD</mark> году …
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions】 |
@@ -119,7 +119,7 @@
 **…** — …‑component [engine](ps.md) by […](contact/….md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -177,7 +177,7 @@
 
 
 |**| |
-|:--|:--|
+|:-|:-|
 |Date| |
 |Venue| |
 |Host Org.| |
@@ -216,7 +216,7 @@
 **Таблица.** Количество участников, докладов и постеров. (упорядочено по убыванию)
 
 |*Страна*|*Участники*|*Презентации*|*Постеры*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |США|… <small>(… [NASA](contact/nasa.md)/JPL, … университеты)</small>|…|…|
 |Япония|… <small>(… JAXA, … университеты)</small>|…|…|
 |Европа|…|…|…|
@@ -230,7 +230,7 @@
 <small>(Толстым выделены новые интересные личности)</small>
 
 |°|*Имя*|*Орг.*|*Название*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |—|**<small>`Презентации`</small>**|—|—|
 |<small>****</small>|<small></small>|<small></small>|<small></small>|
 
@@ -246,7 +246,7 @@
 **…** — семейство израильских одноразовых твердотопливных ракет‑носителей лёгкого класса.
 
 |*Version*|*Description*|*Activity*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Falcon 9 v.1.0|Базовый вариант.|Экспл. завершена (2009 ‑ 2013)|
 |╟ Falcon 9 Air|Модификация Falcon 9 v1.0.|Отменена (2012)|
 |╟ Falcon 9 v.1.1|Модификация Falcon 9 v1.0.|*В разработке* (2013 ‑ …)|
@@ -263,7 +263,7 @@
 **…** — израильская одноразовая твердотопливная ракета‑носитель лёгкого класса.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Активность|**Активен** (… ‑ …)|
 |[Аналоги](analogue.md)|[Ariane 5/6](arian.md) (Европа)・ [Ангара‑А5](angara.md) (РФ)|
 |Длина/диаметр|… м / … м|
@@ -277,7 +277,7 @@
 **Выводимые массы.**
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |[…](….md)|…| | | | | |Пуск — $ … млн (… г);<br> ПН … % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
@@ -338,7 +338,7 @@ TBD <!--Important notes, talks, presentations, etc.-->
 
 ## Характеристики
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Flight from Earth|… ‑ … мес на ЖРДУ (… ‑ … суток)|
 |Signal from Earth|… ‑ … минут|
 |Distance from Earth|… ‑ … млн ㎞|
@@ -439,7 +439,7 @@ TBD <!--Important notes, talks, presentations, etc.-->
 <small>
 
 |Ⓛ|*✔*|*Космич.аппарат (инд.)*|*Дата (UTC)*|*Д*|*К*|*Г*|*Т*|*Л*|*П*|*Примечания*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |`—`|—|**Proposed:**|—|—|—|—|—|—|—|—|
 | |…|…|…| | | | | | |<mark>TBD</mark>|
 |`—`|—|**Developing:**|—|—|—|—|—|—|—|—|
@@ -477,7 +477,7 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 <small>
 
 |*…‑XXX*|*T*|*RU*|*EN*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 | | |**`Не проводилось`**|**`Never occurred`**|
 |[…‑001](….md)| |Атмосфера: модель, черновая.|Atmosphere: preliminary model.|
 |[…‑007](….md)| |Наклон оси.|Spin axis.|
@@ -503,7 +503,7 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 # Process
 
 | |*<!--Process number-->*|
-|:--|:--|
+|:-|:-|
 |**Inputs**|… <!--Inputs from outer matters needed to start/continue the current process.-->|
 |**Outputs**|… <!--Outputs that are produced by the current process-->|
 |**Purpose/Goals**|… <!--The target you would like to achieve, & goals that can mark the target is achieved.-->|
@@ -512,7 +512,7 @@ Targets & explorations for …. (Comments: **T** — technical; **Draft** — mi
 Supposed numbering. Keeping in mind KISS method try to keep the length of each number as short as possible. Also try to unify numbers of documents, projects & processes, e.g. \<Project_abbreviation\>-\<number\> (EXPL-0123ax7f).
 
 | |*0123456789*|*0123456789abcdef*|*0123456789abcdefghikmpqstuvxyz*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |**1**| **10** | **16** (×1.6) | **30** (×3) |
 |2| 100 | 256 (×2.5) | 900 (×9) |
 |3| 1 000 | 4 096 (×4) | 27 000 (×27) |
@@ -532,7 +532,7 @@ Supposed numbering. Keeping in mind KISS method try to keep the length of each n
 <p style="page-break-after:always"> </p>
 
 |*Параметр*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 | |**`Миссия`**|
 |Длительность|…|
 |Оператор|…|
@@ -560,7 +560,7 @@ Supposed numbering. Keeping in mind KISS method try to keep the length of each n
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*RU*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |…| |…|…|
 
 </small>
@@ -568,7 +568,7 @@ Supposed numbering. Keeping in mind KISS method try to keep the length of each n
 или
 
 |*Type*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md) in … prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
@@ -597,7 +597,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*RU*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |…| |…|…|
 
 </small>
@@ -654,7 +654,7 @@ Achieved targets & investigations:
 Разработчик: …. Разработано в <mark>TBD</mark> году …
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions】 |
@@ -689,7 +689,7 @@ Achieved targets & investigations:
 Разработчик: …. Разработано в <mark>TBD</mark> году …
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions】 |
@@ -730,7 +730,7 @@ Achieved targets & investigations:
 Разработчик: …. Разработано в <mark>TBD</mark> году …
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| 【TBD: single unit, wires, a number of units, pressurization level, etc.】 |
 |Consumption, W| 【TBD: typical, basic timeline, etc.】 |
 |Dimensions, ㎜| 【TBD: general dimensions】 |

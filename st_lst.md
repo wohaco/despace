@@ -17,7 +17,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Геофизика‑Космос](contact/geofizika_s.md), RU. Разработано в <mark>TBD</mark> году. Активное использование.
 
 |*Characteristics*|*[Value](si.md)<br> (348К)*|
-|:--|:--|
+|:-|:-|
 |Composition|4 блока оптических (БО) 348К/01 и блока электронного (БЭ) 348К/02,   устанавливаемых снаружи КА и функционирующих в условиях космического пространства. БЭ состоит из 2 идентичных функционально независимых каналов. Один канал БЭ при штатной эксплуатации изделия находится в холодном резерве. Выбор рабочих БО и их количество определяется функциональными алгоритмами изделия.|
 |Consumption, W|16 — штатное; 30 в течении 30 s — максимальное|
 |Dimensions, ㎜|⌀140×209 (БО без бленды); 190 × 130 × 45 (БЭ)|
@@ -58,7 +58,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Геофизика‑Космос](contact/geofizika_s.md), RU. Разработано в <mark>TBD</mark> году. Разработка (предположительно в 2018‑2019 годам появятся характеристики). Покупное изделие. (по состоянию на 20.06.2017)
 
 |*Characteristics*|*[Value](si.md)<br> (360К)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -99,7 +99,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Leonardo](leonardo.md), EU. Разработано в 2001 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (A-STR)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit (ОБ + БЭ)|
 |Consumption, W|9 при 20 ℃, 13.5 при 60 ℃|
 |Dimensions, ㎜|195 × 175 × 291 с блендой 40°|
@@ -141,7 +141,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Leonardo](leonardo.md), EU. Разработано в 2001 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (AA-STR)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit (ОБ + БЭ)|
 |Consumption, W|6 при 20 ℃, 13 при 60 ℃|
 |Dimensions, ㎜|164 × 156 × 348 с блендой 25°|
@@ -183,7 +183,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [МОКБ Марс](contact/mars_mokb.md), RU. Разработано в 2005 году Активное использование.
 
 |*Characteristics*|*[Value](si.md)<br> (АД-1)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|15|
 |Dimensions, ㎜|⌀ 238 × 426|
@@ -225,7 +225,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Jena‑Optronik](contact/jenaoptronik.md), EU. Разработано в <mark>TBD</mark> году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (ASTRO 10)*|
-|:--|:--|
+|:-|:-|
 |Composition|1 ОБ, 1 БЭ|
 |Consumption, W|8 (+7 для охладителя)|
 |Dimensions, ㎜|ОБ ⌀140 × 264 для бленды 30°, ⌀130 × 205 для бленды 40°,<br> БЭ 150 × 145 × 75|
@@ -267,7 +267,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Jena‑Optronik](contact/jenaoptronik.md), EU. Разработано в 2010 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (ASTRO 15)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|10 (+5 для охладителя)|
 |Dimensions, ㎜|⌀192 × 496 для бленды 30°, ⌀192 × 552 для бленды 25°|
@@ -309,7 +309,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Jena‑Optronik](contact/jenaoptronik.md), EU. Разработано в 2013 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (ASTRO APS)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|6 (+6 с охладителем)|
 |Dimensions, ㎜|154 × 154 × 237|
@@ -353,7 +353,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Итоговый ЗД создаётся из нужных оптических блоков и БЭ.
 
 |*Characteristics*|*[Value](si.md)<br> (Auriga, ОБ)*|*[Value](si.md)<br> (Auriga, БЭ)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|1 ОБ|1 БЭ|
 |Consumption, W|1| |
 |Dimensions, ㎜|56 × 66 × 94|120 × 90 × 22|
@@ -396,7 +396,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [ИКИ РАН](contact/iki_ras.md), RU. Разработано в 2006 году. Активное использование. Покупное изделие. (по состоянию на 20.06.2017)
 
 |*Characteristics*|*[Value](si.md)<br> (БОКЗ-МФ)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit, включающий в себя следующие элементы:<br> ⒈ объектив «Астрар‑7С» (НРДК.202361.006);<br> ⒉ плата видеотракта (НРДК.468151.120) с фотоприемным устройством (ФПУ);<br> ⒊ плата процессора (НРДК.467489.008);<br> ⒋ плата вторичного источника питания (НРДК.436734.029);<br> ⒌ бленда (НРДК.203421.007);<br> ⒍ блок крышки (НРДК.323451.010).|
 |Consumption, W|11|
 |Dimensions, ㎜|247 × 179 × 180 без имитатора звёздного неба|
@@ -437,7 +437,7 @@ A list of [Star tracker (sensor)](sensor.md).
 *Предельно допустимая погрешность определения ориентации каждой из осей ПСК относительно второй экваториальной системы координат на момент середины интервала времени экспонирования за весь срок штатной эксплуатации (1 год) составляет:*
 
 |*Параметр*|<small>*Угл. скорость (угл.мин./с)*|<small>*Предельная случайная составляющая погрешности (3σ)*|<small>*Систематическая составляющая погрешности*|<small>*Предельная суммарная погрешность*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |**Направление оси «OZ» ПСК**|0.00 **⁽¹⁾**<br> 0.25 **⁽²⁾**<br> 60.0 **⁽³⁾**|1.5 ‑ 2.0<br> 6.0 ‑ 8.0<br> 20.0 ‑ 25.0|5.0<br> 5.0<br> 5.0|6.5 ‑ 7.0<br> 11.0 ‑ 13.0<br> 25.0 ‑ 30.0|
 |**Направление осей «OХ». «OY»**|0.00 **⁽¹⁾**<br> 0.25 **⁽²⁾**<br> 60.0 **⁽³⁾**|30.0 ‑ 35.0<br> 45.0 ‑ 50.0<br> 65.0 ‑ 70.0|15.0<br> 15.0<br> 15.0|45.0 ‑ 50.0<br> 60.0 ‑ 65.0<br> 80.0 ‑ 85.0|
 
@@ -452,7 +452,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Ball A&T](contact/ball_at.md), US. Разработано в <mark>TBD</mark> году. В разработке.
 
 |*Characteristics*|*[Value](si.md)<br> (CT-2020)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|8|
 |Dimensions, ㎜| |
@@ -494,7 +494,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Ball A&T](contact/ball_at.md), US. Разработано в 1999 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (HAST)*|
-|:--|:--|
+|:-|:-|
 |Composition|1 Star sensor electronics unit (SSEU), 2 Star sensor heads (SSH)|
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -536,7 +536,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Terma A/S](contact/terma.md), EU. Разработано в (ранее 2000) году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (HE-5AS)*|
-|:--|:--|
+|:-|:-|
 |Composition|1 ОБ, 1 БЭ|
 |Consumption, W|1.5 ОБ, 5.5 БЭ|
 |Dimensions, ㎜|⌀120 × 33 ОБ, 245 × 165 × 29|
@@ -579,7 +579,7 @@ A list of [Star tracker (sensor)](sensor.md).
 
 
 |*Characteristics*|*[Value](si.md)<br> (Horus)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|140 × 140 × 240|
@@ -621,7 +621,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Sodern](contact/sodern.md), EU. Разработано в 2012 году получен УГТ 9. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (Hydra / Hydra-M)*|*[Value](si.md)<br> (Hydra-TC)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|2 ОБ (до 3), 1 БЭ|2 ОБ (до 3), 1 БЭ|
 |Consumption, W|8|8|
 |Dimensions, ㎜|⌀147 × 283 ОБ, 170 × 146 × 103 БЭ|⌀147 × 283 ОБ, 194 × 166 × 159 БЭ|
@@ -659,7 +659,7 @@ A list of [Star tracker (sensor)](sensor.md).
    1. **Applicability:** …
 
 | |
-|:--|
+|:-|
 |[![](f/sensor/h/hydra_pic1_thumb.webp)](f/sensor/h/hydra_pic1.webp) [![](f/sensor/a/auriga_hydra_pic1_thumb.webp)](f/sensor/a/auriga_hydra_pic1.webp) и **[Видео ❐](f/sensor/h/hydra_logo_sodern.mkv)**|
 
 
@@ -673,7 +673,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [ИКИ РАН](contact/iki_ras.md), RU. Разработано в 2016 году, покупное изделие.
 
 |*Characteristics*|*[Value](si.md)<br> (мБОКЗ-2)*|*[Value](si.md)<br> (мБОКЗ-2Р)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|1 блок электроники (БЭ), 2 блока оптических (БО)|1 блок электроники, резервированный (БЭ), 2 блока оптических (БО)|
 |Consumption, W|5|11|
 |Dimensions, ㎜|БО 184 × 170 × 66; БЭ 200 × 135.5 × 126| |
@@ -717,7 +717,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [ИКИ РАН](contact/iki_ras.md), RU. Разработано в 2014 году. Активное использование. Покупное изделие.
 
 |*Characteristics*|*[Value](si.md)<br> (МикроБОКЗ-Н)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|3.5|
 |Dimensions, ㎜| |
@@ -762,7 +762,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Space Micro](space_micro.md). Разработано ранее 2017 года активное применение
 
 |*Characteristics*|*[Value](si.md)<br> (MIST)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit (1 БЭ, 2 ОБ)|
 |Consumption, W|4|
 |Dimensions, ㎜|100 × 100 × 50|
@@ -804,7 +804,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Space Micro](space_micro.md). Разработано в 2017 году, активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (µSTAR-100M)*|*[Value](si.md)<br> (µSTAR-200M)*|*[Value](si.md)<br> (µSTAR-200H)*|*[Value](si.md)<br> (µSTAR-400M)*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Composition| | | | |
 |Consumption, W|5|10|10|18|
 |Dimensions, ㎜|ОБ 150×150×232,<br> БЭ 179×75×112| | | |
@@ -844,7 +844,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Спутникс](contact/sputnix.md), RU. Разработано  
 
 |*Characteristics*|*[Value](si.md)<br> (SX-SR-MicroBOKZ)*|
-|:--|:--|
+|:-|:-|
 |Composition|1 БЭ, 1 БО|
 |Consumption, W|1 ‑ 2|
 |Dimensions, ㎜|120 × 112 × 148|
@@ -887,7 +887,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Итоговый ЗД создаётся из нужных оптических блоков и БЭ. БЭ одинаковые с [T1](st_lst.md).
 
 |*Characteristics*|*[Value](si.md)<br> (T1, ОБ ⌀26 ㎜)*|*[Value](si.md)<br> (T1, ОБ ⌀26 ㎜)*|*[Value](si.md)<br> (T1, БЭ COTS)*|*[Value](si.md)<br> (T1, БЭ LEON3FT)*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Composition|1 ОБ|1 ОБ|1 БЭ (CPU LEON3-FT)|1 БЭ (CPU LEON3-FT)|
 |Consumption, W|0.75|0.75|1.25|2.5|
 |Dimensions, ㎜|⌀125 × 165|⌀60 × 104|60 × 60 × 96|100 × 100 × 40|
@@ -931,7 +931,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Итоговый ЗД создаётся из нужных оптических блоков и БЭ.
 
 |*Characteristics*|*[Value](si.md)<br> (T2, ОБ)*|*[Value](si.md)<br> (T1, БЭ LEON3FT)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|1 ОБ|1 БЭ (CPU LEON3-FT)|
 |Consumption, W|0.5|2.5|
 |Dimensions, ㎜|⌀92 × 68|100 × 100 × 40|
@@ -977,7 +977,7 @@ A list of [Star tracker (sensor)](sensor.md).
 Разработчик [Sodern](contact/sodern.md), EU. Разработано в 1995 году. архивное изделие (вывод из эксплуатации в 2021 году).
 
 |*Characteristics*|*[Value](si.md)<br> (SED26)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|7.5|
 |Dimensions, ㎜|160 × 170 × 290|
@@ -1014,7 +1014,7 @@ A list of [Star tracker (sensor)](sensor.md).
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Датчик:`**<br> [Видимая звёздная величина](app_mag.md)・ [ПЗр](fov.md)<br>• • •<br> Star tracker. **Европа:** [ASTRO 15](st_lst.md) (6.15)・ [Hydra](st_lst.md) (4.6)・ [ASTRO 10](st_lst.md) (3.8)・ [A-STR](st_lst.md) (3.55)・ [AA-STR](st_lst.md) (2.6)・ [HE-5AS](st_lst.md) (2.2)・ [ASTRO APS](st_lst.md) (2)・ [Horus](st_lst.md) (1.6)・ [T2](st_lst.md) (0.8)・ [T1](st_lst.md) (0.6 ‑ 1)・ [Auriga](st_lst.md) (0.21)  ▮  **РФ:** [348К](st_lst.md) (3.45)・ [360К](st_lst.md) ()・ [АД-1](st_lst.md) (3.8)・ [БОКЗ-МФ](st_lst.md) (2.8)・ [мБОКЗ-2](мбокз_2.md) (1.5)・ [SX-SR-MicroBOKZ](st_lst.md) (0.5)  ▮  **США:** [HAST](st_lst.md) (7.7)・ [CT-2020](st_lst.md) (3)・ [µSTAR](st_lst.md) (2.1)・ [MIST](st_lst.md) (0.55) |

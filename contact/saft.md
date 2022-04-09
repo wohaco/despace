@@ -2,7 +2,7 @@
 > 2019.08.04 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/saft_logo1_thumb.webp)](../f/contact/s/saft_logo1.webp)|<saftpress.contact@saftbatteries.com>, +33(158)63-16-00;<br> *Saft, 26, quai Charles Pasqua, 92300 Levallois-Perret, France*<br> 【<https://www.saftbatteries.com/>・ [Wikipedia 1 ⎆](https://en.wikipedia.org/wiki/Saft_Groupe_S.A.)・ [Wikipedia 2 ⎆](https://ru.wikipedia.org/wiki/SAFT)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

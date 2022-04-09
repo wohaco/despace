@@ -20,7 +20,7 @@ A list of [Cameras](cam.md).
 **Внешняя телевизионная камера (ВТК)** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [ИКИ РАН](ики_ран.md). Разработано в <mark>TBD</mark> году.
 
 |*Characteristics*|*[Value](si.md)<br> (ВТК-10)*|*[Value](si.md)<br> (ВТК-50)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|5|5|
 |Dimensions, ㎜|117 × 90 × 116|117 × 90 × 113|
@@ -59,7 +59,7 @@ A list of [Cameras](cam.md).
 **Лунная стереотопографическая камера (ЛСТК)** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [ИКИ РАН](contact/iki_ras.md). Разработано в <mark>TBD</mark> году разработка (на основе [ТСНН УТК и [ТСНН ШТК)
 
 |*Characteristics*|*[Value](si.md)<br> (ЛСТК)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|21|
 |Dimensions, ㎜|ОБ 285 × 340 × 166, БЭ 254 × 80 × 150|
@@ -91,7 +91,7 @@ A list of [Cameras](cam.md).
 **Многозональное сканирующее устройство (МСУ-50)** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [ИКИ РАН](contact/iki_ras.md). Разработано в 2008 году активное применение
 
 |*Characteristics*|*[Value](si.md)<br> (МСУ-50)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|7|
 |Dimensions, ㎜| |
@@ -128,7 +128,7 @@ A list of [Cameras](cam.md).
 **Многозональное сканирующее устройство (МСУ-100)** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [ИКИ РАН](contact/iki_ras.md). Разработано в 2008 году активное применение
 
 |*Characteristics*|*[Value](si.md)<br> (МСУ-100)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|7|
 |Dimensions, ㎜| |
@@ -165,7 +165,7 @@ A list of [Cameras](cam.md).
 **4K Space Camera** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [Space Micro](space_micro.md). Разработано ранее 2017 года. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (4K Space Camera)*|
-|:--|:--|
+|:-|:-|
 |Composition|1 ОБ, 1 БЭ|
 |Consumption, W|60|
 |Dimensions, ㎜|165 × 178 × 153|
@@ -203,7 +203,7 @@ A list of [Cameras](cam.md).
 **5MP Space Camera** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [Space Micro](space_micro.md). Разработано ранее 2017 года. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (5MP Space Camera)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|4|
 |Dimensions, ㎜|107 × 84 × 238|
@@ -245,7 +245,7 @@ A list of [Cameras](cam.md).
 **Телевизионная система навигации и наблюдения, узкоугольная камера (ТСНН УТК)** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [ИКИ РАН](contact/iki_ras.md). Разработано в 2010 году архивное изделие
 
 |*Characteristics*|*[Value](si.md)<br> (ТСНН УТК)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|8|
 |Dimensions, ㎜| |
@@ -282,7 +282,7 @@ A list of [Cameras](cam.md).
 **Телевизионная система навигации и наблюдения, широкоугольная камера (ТСНН ШТК)** — оптическая камера, предназначенная для фото‑видеосъёмки. Разработчик [ИКИ РАН](contact/iki_ras.md). Разработано в 2010 году архивное изделие
 
 |*Characteristics*|*[Value](si.md)<br> (ТСНН ШТК)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|8|
 |Dimensions, ㎜| |
@@ -315,7 +315,7 @@ A list of [Cameras](cam.md).
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Camera](cam.md)】**<br> [SAR](cam.md) <br>• • •<br> **РФ:** … () ┊ … ()  ▮  **США:** … () ┊ … ()|

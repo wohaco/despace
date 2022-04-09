@@ -1,8 +1,8 @@
 # SSTL
 > 2022.02.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/sstl_logo1_thumb.webp)](../f/contact/s/sstl_logo1.webp)|<contact@space.org.sg>, +65(673)579-95, Fax: … ;<br> *318 Tanglin Road (Phoenix Park), #01-39, Singapore 247979*<br> 【[WEBSITE ⎆](https://www.space.org.sg/)・ [Facebook ⎆](https://www.facebook.com/SingaporeSpace/)・ [Instagram ⎆](https://instagram.com/sg_space/)・ [LinkedIn ⎆](https://www.linkedin.com/company/singaporespace)・ [Twitter ⎆](https://twitter.com/SingaporeSpace)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Singapore_Space_and_Technology_Ltd)】|
-|:--|:--|
+|[![](../f/contact/s/sstl_logo1_thumb.webp)](../f/contact/s/sstl_logo1.webp)|<contact@space.org.sg>, +65(673)579-95, Fax: …;<br> *318 Tanglin Road (Phoenix Park), #01-39, Singapore 247979*<br> 【[WEBSITE ⎆](https://www.space.org.sg/)・ [Facebook ⎆](https://www.facebook.com/SingaporeSpace/)・ [Instagram ⎆](https://instagram.com/sg_space/)・ [LinkedIn ⎆](https://www.linkedin.com/company/singaporespace)・ [Twitter ⎆](https://twitter.com/SingaporeSpace)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Singapore_Space_and_Technology_Ltd)】|
+|:-|:-|
 |**Mission**|To harness & advance space technologies to benefit people, enterprises & the planet|
 |**Vision**|…|
 |**Values**|…|

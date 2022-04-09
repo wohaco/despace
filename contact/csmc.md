@@ -1,8 +1,8 @@
 # Canadian Space Mining Corporation
 > 2021.10.27 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/c/csmc_logo1_thumb.webp)](../f/contact/c/csmc_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *30 Commercial Road, Toronto, Ontario, M4G 1Z4, CA*<br> 【<https://csmc-scms.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canadian-space-mining-corporation)】|
-|:--|:--|
+|[![](../f/contact/c/csmc_logo1_thumb.webp)](../f/contact/c/csmc_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *30 Commercial Road, Toronto, Ontario, M4G 1Z4, CA*<br> 【<https://csmc-scms.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/canadian-space-mining-corporation)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

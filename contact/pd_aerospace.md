@@ -2,7 +2,7 @@
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/p/pd_aerospace_logo1_thumb.webp)](../f/contact/p/pd_aerospace_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *3519 Arimatsu, Midori-ku, Nagoya, Aichi 458-0924, JP*<br> 【<https://pdas.co.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/pd-aerospace-ltd./)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/PD_AeroSpace)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|**“Bringing Space Closer”**. There are so many amazing possibilities in space, waiting to be discovered & understood. Perhaps, a new kind of resources or energy source is just around the corner. Space also enables us to reflect upon ourselves & Earth, to deeply understand the preciousness of life & nature. There are & will be challenges never seen or predicted during our journey to reach the stars. However, we chose to take upon this challenge, because we believe humanity can earn so much from space exploration. In order to bring space closer to us & move towards a more peaceful & prosperous world, PDAS’ll continue to pursue the challenge in the field of space transportation.<br> ➀ Developing a safe & low‑cost transportation system.<br> ➁ Approaching two markets, one in space & one on Earth.<br> ➂ Expand the use of space for civilian purposes by converting the system.|
 |**Vision**|Corporate Philosophy:<br> ・We contribute to society with technology.<br> ・We maintain harmony with space, the Earth, nature & humanity.<br> ・We become a company that society wants to exist, a company that clarifies the significance of itself through its activity.|
 |**Values**|Motto. Never give up & keep an indomitable spirit of challenge. When there is no path, make one yourself. Innovation over improvement. Understand that time & space are limited & take action.|
@@ -20,7 +20,7 @@ PDAS plans to develop a hybrid engine that produces jet & rocket thrust, using p
 【**Table.** Spaceplane development program】
 
 |*Code name*|*Type*|*Length*|*Payload*|*Altitude*|*Main applications*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |PDAS-X04|Unmanned|5 m|50 ㎏|~10 ㎞|Observation|
 |PDAS-X07|Unmanned|12 m|100 ㎏|110 ㎞|Microgravity experiments, High altitude atmo observation|
 |PDAS-X08|Manned|18 m|6 passengers + 2 pilots|110 ㎞|Commercial manned space flight|
@@ -35,7 +35,7 @@ PDAS plans to develop a hybrid engine that produces jet & rocket thrust, using p
 【**Table.** Biography】
 
 |*Date*|*Event*|
-|:--|:--|
+|:-|:-|
 |May ’07|PD AeroSpace, LTD. Established|
 |February ’08|Participated in funding matching event|
 |August ’08|Noshiro space event/demo flight|

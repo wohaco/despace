@@ -18,7 +18,7 @@
 **Таблица.** Норма для класса опасности по ГОСТ 12.1.007‑76
 
 |**Наименование показателя**|**Ⅳ** ![](f/safety/dangerous_goods_4.webp)|**Ⅲ** ![](f/safety/dangerous_goods_3.webp)|**Ⅱ** ![](f/safety/dangerous_goods_2.webp)|**Ⅰ** ![](f/safety/dangerous_goods_1.webp)|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |ПДК вредных веществ в воздухе рабочей зоны, мг/m³|более 10.0|1.1 ‑ 10.0|0.1 ‑ 1.0|менее 0.1|
 |Средняя смертельная доза (ЛД₅₀) при введении в желудок, мг/1 ㎏ массы тела|более 5 000|151 ‑ 5 000|15 ‑ 150|менее 15|
 |Средняя смертельная доза при нанесении на кожу, мг/1 кг массы тела|более 2 500|501 ‑ 2 500|100 ‑ 500|менее 100|
@@ -33,7 +33,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Безопасность:`**<br> [NFPA 704](nfpa_704.md)・ [Класс опасности](danger_goods.md)・ [Класс чистоты](clean_lvl.md)|

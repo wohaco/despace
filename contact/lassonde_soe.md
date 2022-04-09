@@ -1,8 +1,8 @@
 # Lassonde School of Engineering
 > 2021.06.29 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/l/lassonde_soe_logo1_thumb.webp)](../f/contact/l/lassonde_soe_logo1.webp)|<ask@lassonde.yorku.ca>, +1(416)736-54-84, Fax: … ;<br> *4700 Keele Street, Toronto ON, M3J 1P3 Canada*<br> 【<https://lassonde.yorku.ca/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Lassonde_School_of_Engineering)】|
-|:--|:--|
+|[![](../f/contact/l/lassonde_soe_logo1_thumb.webp)](../f/contact/l/lassonde_soe_logo1.webp)|<ask@lassonde.yorku.ca>, +1(416)736-54-84, Fax: …;<br> *4700 Keele Street, Toronto ON, M3J 1P3 Canada*<br> 【<https://lassonde.yorku.ca/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Lassonde_School_of_Engineering)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

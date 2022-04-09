@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/n/npp_antares_logo1_thumb.webp)](../f/contact/n/npp_antares_logo1.webp)|<mail@npp-antares.ru>, +7(8452)27-87-85, Fax: +7(8452)27-87-85;<br> *Россия, 410012, г. Саратов, ул. Радищева, 27*<br> 【<http://npp-antares.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

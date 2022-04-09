@@ -28,7 +28,7 @@ However, ensuring a required lift-to-drag ratio means that the lander mass incre
 **Table 1** presents the comparative characteristics of various lander types.
 
 |Comparative parameters and criteria estimates|Lander type I: Ballistic landers<br>![ballisticlanders](f/project/m/mevc/ballisticlanders.webp)|Lander type II: «Gliding descent»<br>![glidingdescent](f/project/m/mevc/glidingdescent.webp)|Lander type III: «Lifting body»<br>![liftingbody](f/project/m/mevc/liftingbody.webp)|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Lift-to-drag ratio for hypersonic velocity (M > 6)|0|0.15 … 0.5|0.8 … 1.5|
 |Volume efficiency (fill factor)|1 … 0.85|0.95 … 0.75|0.75 … 0.6|
 |Comparative mass characteristics (relative to a ballistic-class lander)|1|1.2|1.5|
@@ -45,7 +45,7 @@ The aerodynamic characteristics of the lander are calculated using a numerical m
 The analysis considers the «lifting body» lander type shown below.
 
 |![mevc](f/project/m/mevc/mevc.webp)|
-|:--|
+|:-|
 |*Layout and general dimension of the «lifting body» type of a lander.*|
 
 Based on the analysis of the volume and mass of the target equipment, the diameter is set to 1.1 m, the lander length for this diameter is 2.75 m. The center of mass of the lander is assumed to be the average value of the centers of mass of the volume and center of mass of the surface.
@@ -61,7 +61,7 @@ The estimated parameters of the lander:
 <small>
 
 |*Characteristic*|*Value*|
-|:--|:--|
+|:-|:-|
 |Diameter|1.1 m|
 |Length|2.75 m|
 |Khyp − lift-to-drag ratio for hypersonic velocities|1.4|
@@ -82,7 +82,7 @@ The lander shape investigated can be easily balanced for the given   by simply a
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

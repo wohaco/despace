@@ -2,7 +2,7 @@
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/i/interstellar_tech_logo1_thumb.webp)](../f/contact/i/interstellar_tech_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *690-4 Memu, Taiki, Hiroo-gun, Hokkaido, Japan 089-2113*<br> 【<http://www.istellartech.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/isterllar/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Interstellar_Technologies)|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

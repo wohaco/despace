@@ -2,7 +2,7 @@
 > 2019.08.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/m/mda_logo1_thumb.webp)](../f/contact/m/mda_logo1.webp)|<info@mdacorporation.com>, +1(604)278-34-11, Fax: +1(604)231-27-68;<br> *Somewhere in Canada*<br> 【<https://mda.space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/mdaspace)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/MDA_Space_Missions)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|Tempered & tested by generations of space innovation, MDA has a track record of making ambitions come true. We’re fueled by a pioneering spirit that carries us above & beyond. And together we enable highly skilled people to continually push boundaries, tackle big challenges, & imagine solutions that inspire & endure.|
 |**Vision**|…|
 |**Values**|**Integrity** — We stand behind our promises & deliver, every time. We take pride in our work. And our integrity is reflected in the openness we practice, the solutions we create & the support we provide. **Collaboration** — We take our partners where they want to go by listening, adapting, solving problems & staying a step ahead to achieve greatness together. **Operational excellence** — Our work speaks for itself. For decades, our team of industry experts have been solving mission critical problems that people, our country, & our sovereignty depend on. **Inspiration** — Fueled by our love of space, we’re driven to make dreams come true, lead the charge, & awaken that same drive in all, just as we have done throughout our mission history. **Responsible** — We’re Canada’s original space pioneers, & for 50 years we’ve approached every mission the Canadian way: proudly, sustainably, equitably & ethically.|

@@ -2,7 +2,7 @@
 > 2019.08.09 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/cpp_logo1_thumb.webp)](../f/contact/c/cpp_logo1.webp)|<mark>noemail</mark>, +1(909)869-76-59, Fax: …;<br> *3801 West Temple Avenue,Pomona, CA 91768, USA*<br> 【<https://www.cpp.edu/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Pomona)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

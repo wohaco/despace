@@ -1,8 +1,8 @@
 # Space Robotics Lab
 > 2022.03.23 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/srl_tohoku_logo1_thumb.webp)](../f/contact/s/srl_tohoku_logo1.webp)|<yoshida@astro.mech.tohoku.ac.jp>, <mark>noworkphone</mark>, Fax: … ;<br> *980-8579 Aoba 6-6-01, Sendai, Japan*<br> 【<http://www.astro.mech.tohoku.ac.jp/e/>・ [GitHub ⎆](https://github.com/Space-Robotics-Laboratory)】|
-|:--|:--|
+|[![](../f/contact/s/srl_tohoku_logo1_thumb.webp)](../f/contact/s/srl_tohoku_logo1.webp)|<yoshida@astro.mech.tohoku.ac.jp>, <mark>noworkphone</mark>, Fax: …;<br> *980-8579 Aoba 6-6-01, Sendai, Japan*<br> 【<http://www.astro.mech.tohoku.ac.jp/e/>・ [GitHub ⎆](https://github.com/Space-Robotics-Laboratory)】|
+|:-|:-|
 |**Mission**|Robotics for Space Science & Exploration Missions|
 |**Vision**|…|
 |**Values**|…|

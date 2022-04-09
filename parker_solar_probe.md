@@ -16,7 +16,7 @@
 
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|US$1.5 billion or 36 780 ㎏ of [gold](sc_price.md)|
 |Development|2008-2018|
@@ -50,7 +50,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑072|T|Exploration with [satellites](sc.md): medium satellites.| |D| |F| | |
 
 </small>
@@ -70,7 +70,7 @@ The spacecraft trajectory will include seven Venus fly‑bys over nearly seven y
 After the first Venus fly‑by, the probe will be in an elliptical orbit with a period of 150 days (two-thirds the period of Venus), making three orbits while Venus makes two. On the second fly‑by, the period shortens to 130 days. After less than two orbits (only 198 days later) it encounters Venus a third time at a point earlier in the orbit of Venus. This encounter shortens its period to half of that of Venus, or about 112.5 days. After two orbits it meets Venus a fourth time at about the same place, shortening its period to about 102 days. After 237 days it meets Venus for the fifth time and its period is shortened to about 96 days, three-sevenths that of Venus. It then makes seven orbits while Venus makes three. The sixth encounter, almost two years after the fifth, brings its period down to 92 days, two-fifths that of Venus. After five more orbits (two orbits of Venus) it meets Venus for the seventh and last time, decreasing its period to 88 or 89 days and allowing it to approach closer to the Sun.
 
 |![](f/project/p/parkersolarprobe/animation_of_parkersolarprobe_trajectory.gif)|
-|:--|
+|:-|
 |***The trajectory of the probe***|
 
    - Launch occurred on 12 August 2018, at 3:31 a.m. EDT, 7:31 a.m. GMT. The spacecraft operated nominally after launching. During its first week in space it deployed its high‑gain antenna, magnetometer boom, and electric field antennas.
@@ -132,7 +132,7 @@ The primary power for the mission is a dual system of solar panels (photovoltaic
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

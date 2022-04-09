@@ -10,7 +10,7 @@
 **MIL-STD-1553** is a military standard that defines the mechanical, electrical, functional characteristics of a serial data bus. Commonly used in avionic data bus for military avionics & in military/civil spacecraft on‑board data handling (OBDH) subsystems. It features multiple (commonly dual) redundant balanced line physical layers, a (differential) network interface, time division multiplexing, half‑duplex command/response protocol, & can handle up to 30 Remote Terminals (devices). A version of 1553 using optical cabling in place of electrical is known as MIL-STD-1773.
 
 |*Standard*|*MIL-STD-1553B*|
-|:--|:--|
+|:-|:-|
 |Connector types|MIL-DTL-5015 & MIL-DTL-38999 circular connectors are generally used|
 |Creation date|2018 (rev.C), 1978 (rev.B), 1975 (rev.A)|
 |Max. Binary Rate|1 Mbit/s (incl. 20 % of bitrate for service information)|
@@ -78,7 +78,7 @@ The standard does not specify the connector types or how they should be wired, o
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Cable](cable.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [ОТБКС](cable.md)|

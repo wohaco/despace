@@ -2,7 +2,7 @@
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/conae_logo1_thumb.webp)](../f/contact/c/conae_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<http://www.conae.gov.ar/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Comisión_Nacional_de_Actividades_Espaciales)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

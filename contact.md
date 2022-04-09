@@ -8,7 +8,7 @@
 > And these people forbid us to pick our noses!
 
 |*Агентство*|*Бюджет, $ млн (%)*|*Год*|*Примечание*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |США, [NASA](contact/nasa.md)|17 700 (100 %)|2013, прогноз| |
 |Европа, [ESA](contact/esa.md)|5 500 (31 %)|2012|€ 4 020 100 млн|
 |Россия, [Роскосмос](contact/roskosmos.md)|4 700 (27 %)|2014|₽ 165 800 млн|
@@ -42,23 +42,24 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (AU)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
-|【[ASRI](contact/asri.md)】|·|·|·|·|·|Австралийский институт космических исследований|
-|【[CSIRO](contact/csiro.md)】|·|·|·|·|·|Government agency responsible for scientific research|
-|[ANU](contact/anu.md)|·|·|·|·|·|Australian National University|
+|:-|:-|:-|:-|:-|:-|:-|
+|【[ASRI](contact/asri.md)】|·|·|·|·|·|Australian Space Agency|
+|【[CSIRO](contact/csiro.md)】|·|·|·|·|·|Australian national science agency|
+|[ANU](contact/anu.md)|E|·|·|·|·|Australian National University|
 |[Arlula](contact/arlula.md)|·|·|·|·|·|Provides a single point of access for a global network of sats imagery|
 |[ASL](contact/asl.md)|·|·|·|·|·|Australia Space Launch|
 |[AYAA](contact/ayaa.md)|N|·|·|·|·|Promote education, awareness, involvement in the A/S industry to youth|
-|[Fleet Space Tech.](contact/fleet_space_tech.md)|·|·|·|·|·|IoT with nanosat constellation|
+|[Fleet Space Tech.](contact/fleet_space_tech.md)|·|·|·|R|·|IoT with nanosat constellation|
 |[Gilmour Space Tech.](contact/gilmour_st.md)|·|L|·|R|·|Develop / launch low cost hybrid LV & engines for small sats to LEO|
 |[HEO Robotics](contact/heo_robotics.md)|·|·|·|R|D|Acquire imagery of sats, space‑debris, resource‑rich asteroids with sats|
 |[Myriota](contact/myriota.md)|·|·|·|·|·|IoT with nanosat constellation|
+|[Nominal Systems](contact/nominal_sys.md)|·|·|·|C|·|Software for simulation, system analysis|
 |[Optus](contact/optus.md)|·|·|·|C|D|Mobile, telephony, internet, sat, entertainment & biz network services|
 |[Saber Astronautics](contact/saber_an.md)|·|·|·|·|·|Model the interaction between SC telemetry & the space environment|
 |[SERC](contact/serc.md)|·|·|·|·|·|Space debris removal|
+|[SIAA](contact/siaa.md)|·|·|·|P|·|Promote the growth of the Australian space industry|
 |[Shoal](contact/shoal.md)|·|·|·|C|·|Systems engineering consulting|
 |[Southern Launch](contact/southern_launch.md)|·|·|·|·|·|Infrastructure / logistics support for (sub)orbital launches|
-|[Space Services AU](contact/space_services_au.md)|·|·|·|C|·|Modelling, simulation, system analysis|
 |[Spiral Blue](contact/spiral_blue.md)|·|·|·|R|·|OBC|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
@@ -71,7 +72,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (CA)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[CSA](contact/csa.md)   (QC)】|·|·|·|·|·|Canadian Space Agency|
 |[ADGA](contact/adga.md)   (ON)|·|·|·|C|·|Advanced technology solutions, professional engineering & consultancy|
 |[AIAC](contact/aiac.md)   (ON)|·|·|P|·|·|Aerospace Industries Association of Canada|
@@ -110,6 +111,7 @@
 |[MSCI](contact/msci.md)   (ON)|·|·|·|R|·|Reaction wheels, rate measurement units, microsats, attitude control systems|
 |[NGC A/S](contact/ngc_as.md)   (QC)|·|·|·|R|·|Software for GNC, simulation, data processing|
 |[Northstar ESI](contact/northstar_esi.md)   (QC)|·|·|·|R|·|Monitor space (object tracking), from space, via a sat constellation|
+|[Obruta SS](contact/obruta_ss.md)   (ON)|·|·|·|R|·|Mechanisms for docking & in‑orbit servicing|
 |[PolyOrbite](contact/polyorbite.md)   (QC)|N|·|·|R|·|CubeSat’s R&D. Student society|
 |[Pratt & Whitney](contact/pratt_n_whitney.md)   (QC)|·|·|·|R|·|Engines, gas turbines|
 |[QSTC](contact/qstc.md)   (QC)|·|·|·|R|·|GEO sats, electric propulsion, materials solutions, remote sensing, robotics|
@@ -143,9 +145,9 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (CN)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
-|【[CNSA](contact/cnsa.md)】|·|·|·|·|·|Китайское национальное космическое управление|
-|[LandSpace ](contact/landspace.md)|·|L|·|R|·|·|Design, manufacturing & operations of small & medium LV|
+|:-|:-|:-|:-|:-|:-|:-|
+|【[CNSA](contact/cnsa.md)】|·|·|·|·|·|Chinese Space Agency|
+|[LandSpace ](contact/landspace.md)|·|L|·|R|·|·|R&D & operations of small & medium LV, launch services|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
@@ -158,7 +160,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (EU)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[ESA](contact/esa.md)   (EU)】|·|·|·|·|·|Исследование космоса. [Роскосмос](contact/roskosmos.md) и  ГНИО в одном лице|
 |【[ESTEC](contact/estec.md)   (NL)】|·|·|·|·|·|Разработка и создание космических технологий и КА|
 |[PTScientists](ptscientists.md)|·|·|·|·|·|…|
@@ -180,6 +182,7 @@
 |**【France (FR)】**| | | | | | |
 |[Airbus](contact/airbus.md)|·|·|·|·|·|…|
 |[CNES](contact/cnes.md)|·|·|·|·|·|Французское космическое агентство|
+|[E-Space](contact/e_space.md)|·|·|·|R|·|Telecom sats|
 |[Euroconsult](contact/euroconsult.md)|·|·|·|C|·|Strategic, research, summits, training programs|
 |[Exotrail](contact/exotrail.md)|·|·|·|R|·|Electric propulsion, simulation/operation software, space tugs|
 |[Infinite Orbits](contact/infinite_orbits.md)|·|·|·|R|·|In‑orbit servicing, servicing platforms|
@@ -220,10 +223,13 @@
 |[ESRIC](contact/esric.md)|·|·|·|·|·|…|
 |[LU Space Agency](contact/lu_space_agency.md)|E|·|P|R|·|Luxembourg Space Agency|
 |[LuxSpace Sarl](contact/luxspace.md)|·|·|·|R|·|Components & technolofy, microsats, apps & services|
+|[Maana Electric](contact/maana_electric.md)|·|·|·|R|·|Electric systems, in‑situ el.systems production|
+|[Odysseus](contact/odysseus.md)|·|·|·|C|·|Support for R&D, operations, launches, purchase, logistics|
 |[OQ Technology ](contact/oq_technology.md)|·|·|·|R|·|Sats constellation for IoT|
 |[SES Satellites](contact/ses_sats.md)|·|·|·|·|·|Deliver video & data solutions, LEO / MEO sats|
 |**【Netherlands (NL)】**| | | | | | |
 |[Bradford Eng.](contact/bradford_eng.md)|·|·|·|·|·|СУ КА: ДМ, СД, смесители топлива|
+|[Maana Electric](contact/maana_electric.md)|·|·|·|R|·|Electric systems, in‑situ el.systems production|
 |[TU Delft](tu_delft.md)|·|·|·|·|·|…|
 |**【Norway (NO)】**| | | | | | |
 |[Nammo](nammo.md)|·|·|·|R|·|Engines|
@@ -282,16 +288,16 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (IN)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
-|【[ISRO](contact/isro.md)】|·|·|·|·|·|Индийское национальное космическое агентство|
-|[BSIP](contact/bsip.md)|·|·|·|·|·|Birbal Sahni Institute of Palaeosciences|
+|:-|:-|:-|:-|:-|:-|:-|
+|【[ISRO](contact/isro.md)】|·|·|·|·|·|Indian Space Agency|
+|[BSIP](contact/bsip.md)|E|·|·|·|·|Higher education|
 |[Skyroot A/S](contact/skyroot_as.md)|·|·|·|·|·|<mark>TBD</mark> LVs|
 |[Space Dev. Network](contact/space_dev_netw.md)|·|·|·|·|·|<mark>TBD</mark> Space Development Network|
 |[Space Dev. Nexus](contact/sd_nexus.md)|N|·|P|·|·|Various space developments, integration, colonization|
 |[Synergy Moon](contact/synergy_moon.md)|·|·|·|R|·|Lunar rover|
 |[Team Indus](team_indus.md)|·|·|·|·|·|<mark>TBD</mark>|
 |[Timewarp Space](contact/timewarp_space.md)|·|L|·|R|·|LV for small sats|
-|[UPES](contact/upes.md)|·|·|·|·|·|University of Petroleum & Energy Studies|
+|[UPES](contact/upes.md)|E|·|·|·|·|Higher education|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
@@ -304,7 +310,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (IL)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[ISA](contact/isa.md)】|E|L|P|R|·|National aerospace & space agency|
 |[AMOS-Spacecom](contact/amos_spacecom.md)|·|·|·|·|·|Fixed‑sat operator, comms solutions|
 |[Asher SRI](contact/asher_sri.md)|E|·|·|·|·|Asher Space Research Institute|
@@ -317,6 +323,7 @@
 |[NovelSat](contact/novelsat.md)|·|·|·|·|·|Content connectivity solutions for sat comms|
 |[NSLComm](contact/nslcomm.md)|·|·|·|R|·|Antenna technologies|
 |[Rafael](contact/rafael.md)|·|·|·|R|·|LV|
+|[Sim.Space](contact/sim_space.md)|·|·|·|R|·|Simulation software, Hardware-In-The-Loop (HIL) tests|
 |[Space-Nest](contact/space_nest.md)|·|·|·|·|·|Space tech / applications incubator|
 |[Spacecialist](contact/spacecialist.md)|·|·|P|·|·|Nano‑Cubesat projects, promote a prosperous civilian space industry|
 |[SpaceIL](spaceil.md)|·|·|·|·|·|…|
@@ -334,7 +341,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (JP)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[JAXA](contact/jaxa.md)   13】|E|L|P|R|·|National aerospace & space agency|
 |【[JAXA ESCC](contact/isas.md)   14】|·|·|·|R|·|ET materials documentation, preservation, preparation, distribution|
 |【[JAXA ISAS](contact/isas.md)   14】|·|·|·|R|·|Astrophysical explorations with rockets, SC|
@@ -346,6 +353,7 @@
 |[ALE](contact/ale.md)   13|·|·|·|R|·|Space entertainment (sky canvas), data service, small sats|
 |[Amanogi](contact/amanogi.md)   13|E|·|·|R|·|Sensors & advanced sat data analysis solutions|
 |[Amulapo](contact/amulapo.md)   13|E|·|·|C|·|Creation of space experience content using ICT technology such as xR, robots, & AI|
+|[AkEdge Space](contact/arkedge_space.md)   13|·|·|·|R|·|Small sats|
 |[Astrocean](contact/astrocean.md)   13|·|L|·|·|·|Hybrid rocket sea launch, sub‑orbital & orbital rocket sea launch|
 |[Astroflash](contact/astroflash.md)   13|·|·|·|R|·|Small sats|
 |[Astroscale](contact/astroscale.md)   13|·|·|·|R|·|Space debris removal, sat life extension services, end‑of‑life services|
@@ -463,7 +471,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (RU)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[4116 ВП МО РФ](contact/milro.md)】|·|·|·|·|·|Контролирующие работы на LAV|
 |【[ДОГОЗ](contact/dogoz.md)】|·|·|·|·|·|Размещение гособоронзаказа, контроль, учёт выполнения|
 |【[ИКИ РАН](contact/iki_ras.md)】|·|·|·|·|·|Исследование космоса, НА, ННК, научные задачи (НРДК)|
@@ -559,7 +567,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (SA)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[SSC](contact/saudi_sc.md)】|·|·|·|P|·|Saudi Space Agency|
 |[Taqnia Space](contact/taqnia_space.md)|·|·|·|R|D|Geospatial solutions|
 |**・ Not space ・**|•|•|•|•|•|…|
@@ -574,11 +582,12 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (SG)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |[Astroscale](contact/astroscale.md)|·|·|·|R|·|Removal of orbital debris, sat life extension services, end‑of‑life services|
 |[Infinite Orbits](contact/infinite_orbits.md)|·|·|·|R|·|In‑orbit servicing, servicing platforms|
 |[NTU](contact/ntu.md)|E|·|·|R|·|Higher education, small sats development|
 |[NUS](contact/nus.md)|E|·|·|R|·|Higher education, small sats development|
+|[OSTIn](contact/ostin.md)|·|·|P|·|·|Singapore space program|
 |[SSTL](contact/sstl.md)|·|·|P|·|·|Space promotion, business connections|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|[spacebizguide.com ⎆](https://www.spacebizguide.com/country-singapore)・ [edb.gov.sg ⎆](https://www.edb.gov.sg/en/our-industries/aerospace.html)|
@@ -592,7 +601,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (KR)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |【[KARI](contact/kari.md)   6】|E|L|P|R|·|Korea Aerospace Research Institute|
 |[APSI](contact/apsi.md)   1|·|·|·|R|·|CubeSats R&D, EPS, space electronics, testing|
 |[CONTEC](contact/contec.md)   6|·|·|·|R|·|GS Services, Sat image processing & application services|
@@ -607,6 +616,7 @@
 |[Satrec Initiative](contact/satreci.md)   6|·|·|·|R|·|Earth observ., sats & their components, ground systems, analytics|
 |[SIIS](contact/siis.md)   6|·|·|·|R|D|Sat imagery provider|
 |[SOLETOP](contact/soletop.md)   6|·|·|·|R|D|CubeSat R&D, geospatial info, unmanned system, instruments, software|
+|[UNASTELLA](contact/unastella.md)   1|·|·|·|R|·|Small LV for space tourism|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
@@ -621,7 +631,7 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (US)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[NASA](contact/nasa.md)】|E|L|P|R|·|Нац. управление США по аэронавтике и исследованию КП|
 |[Advanced Space](contact/advanced_space.md)|·|·|·|·|·|Mission sheduling, research, design, analysis, support|
 |[Aerojet Rocketdyne](aerojet_rocketdyne.md)|·|·|·|·|·|Разработка и эксплуатация двигателей и ДУ|
@@ -647,6 +657,7 @@
 |[Deep Space Ecology](contact/deep_space_ecology.md)|·|·|·|R|·|Closed ecological systems, space farming|
 |[Draper lab](contact/draper_lab.md)|·|·|·|·|·|GNC, space systems, technology solutions|
 |[Dynetics](contact/dynetics.md)|·|·|·|·|·|…|
+|[E-Space](contact/e_space.md)|·|·|·|R|·|Telecom sats|
 |[Elysium Space, Inc.](contact/elysium_space.md)|·|·|·|·|·|Celestial memorials|
 |[Euroconsult](contact/euroconsult.md)|·|·|·|C|·|Strategic, research, summits, training programs|
 |[EXOS AS&T](contact/exos_ast.md)|·|·|·|·|·|Developer of reusable LV|
@@ -681,6 +692,7 @@
 |[Made In Space](contact/made_in_space.md)|·|·|·|R|·|Space settlement, technology investigations, off‑Earth manufacturing|
 |[Mars Generation](contact/mars_generation.md)|E|·|P|·|·|Space education for youth, STEM|
 |[Mars Society](contact/mars_society.md)|E|·|P|·|·|Establishing a permanent human presence on Mars|
+|[Maverick SS](contact/maverick_ss.md)|·|·|·|R|·|Sat deployment hardware, integration & launch brokering services|
 |[Maxar Tech.](contact/maxar.md)|·|·|·|·|·|Спутники, механизмы|
 |[Michigan Univ.](contact/michigan_univ.md)|E|·|·|·|·|…|
 |[MILO SSI](contact/milo_ssi.md)|N|·|·|·|·|Education, technology development, cost optimization|
@@ -731,8 +743,9 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (AE)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[UAESA](contact/uaesa.md)】|·|·|·|·|·|Космическое агентство Объединённых Арабских Эмиратов|
+|[Maana Electric](contact/maana_electric.md)|·|·|·|R|·|Electric systems, in‑situ el.systems production|
 |[MBRSC](contact/mbrsc.md)|·|·|·|·|·|Разработка и создание КА|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
@@ -746,9 +759,8 @@
 (**E**)ducation / (**N**)on‑profit・(**L**)aunch services・(**P**)romote・(**R**)&D&Manufacture / (**C**)onsulting・(**D**)ata provider
 
 |*［Organization (JP)］*|*E*|*L*|*P*|*R*|*D*|*Industry*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |【[VNSC](contact/vnsc.md)】|E|·|·|R|·|Vietnam Space Agency|
-|…|·|·|·|·|·|…|
 |**・ Not space ・**|•|•|•|•|•|…|
 |**・ Org. lists ・**|•|•|•|•|•|…|
 
@@ -758,7 +770,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

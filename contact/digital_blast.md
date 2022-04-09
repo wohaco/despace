@@ -1,8 +1,8 @@
 # Digital Blast
 > 2021.12.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/d/digital_blast_logo1_thumb.webp)](../f/contact/d/digital_blast_logo1.webp)|<info@digitalblast.co.jp>, <mark>noworkphone</mark>, Fax: … ;<br> *Kanda Tsukasacho PREX 7F, 2-7-9 Kanda Tsukasacho, Chiyoda-ku, Tokyo, 101-0048, Japan*<br> 【<http://digitalblast.co.jp/>・ [Facebook ⎆](https://www.facebook.com/DigitalBlastInc/)・ [LinkedIn ⎆](https://www.linkedin.com/company/digitalblastjp/)・ [Twitter ⎆](https://twitter.com/digitalblastinc)】|
-|:--|:--|
+|[![](../f/contact/d/digital_blast_logo1_thumb.webp)](../f/contact/d/digital_blast_logo1.webp)|<info@digitalblast.co.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Kanda Tsukasacho PREX 7F, 2-7-9 Kanda Tsukasacho, Chiyoda-ku, Tokyo, 101-0048, Japan*<br> 【<http://digitalblast.co.jp/>・ [Facebook ⎆](https://www.facebook.com/DigitalBlastInc/)・ [LinkedIn ⎆](https://www.linkedin.com/company/digitalblastjp/)・ [Twitter ⎆](https://twitter.com/digitalblastinc)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|To become the “World's No.1 Space Business Platformer”|
 |**Values**|…|

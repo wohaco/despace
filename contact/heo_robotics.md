@@ -1,8 +1,8 @@
 # HEO Robotics
 > 2022.01.19 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/h/heo_robotics_logo1_thumb.webp)](../f/contact/h/heo_robotics_logo1.webp)|<info@heo-robotics.com>, <mark>noworkphone</mark>, Fax: … ;<br> *…*<br> 【<https://www.heo-robotics.com/>・ [Facebook ⎆](http://www.facebook.com/heorobotics)・ [LinkedIn ⎆](https://www.linkedin.com/company/high-earth-orbit-robotics/)・ [Twitter ⎆](http://www.twitter.com/heorobotics)】|
-|:--|:--|
+|[![](../f/contact/h/heo_robotics_logo1_thumb.webp)](../f/contact/h/heo_robotics_logo1.webp)|<info@heo-robotics.com>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【[WEBSITE ⎆](https://www.heo-robotics.com/)・ [Facebook ⎆](http://www.facebook.com/heorobotics)・ [LinkedIn ⎆](https://www.linkedin.com/company/high-earth-orbit-robotics/)・ [Twitter ⎆](http://www.twitter.com/heorobotics)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|We value good space citizenship. We’re passionate about responsible custodianship, sustainability & trust. We believe that space should be easy & transparent.|

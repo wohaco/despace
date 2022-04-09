@@ -2,7 +2,7 @@
 > 2019.08.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/d/deltion_logo1_thumb.webp)](../f/contact/d/deltion_logo1.webp)|<mark>noemail</mark>, +1(705)824-15-00, Fax: +1(705)858-69-47;<br> *1-26 Meehan St, Capreol, ON P0M 1H0, Canada*<br> 【<https://www.deltion.ca/>・ [Facebook ⎆](https://www.facebook.com/DeltionInnovations/)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

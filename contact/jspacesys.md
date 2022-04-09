@@ -1,12 +1,12 @@
 # J-spacesystems
 > 2020.07.17 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/j/jspacesys_logo1_thumb.webp)](../f/contact/j/jspacesys_logo1.webp)|<Sasaki-Kenjij@spacesystems.or.jp>, +81-3-6809-1410 , Fax: …;<br> *Kikai Shinko Kaikan building 3F, 3-5-8 Shibakoen, Minato-ku, Tokyo 105-0011, Japan*<br> 【<http://www.jspacesystems.or.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/japan-space-systems)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Japan_Space_Systems)】|
-|:--|:--|
+|[![](../f/contact/j/jspacesys_logo1_thumb.webp)](../f/contact/j/jspacesys_logo1.webp)|<Sasaki-Kenji@jspacesystems.or.jp>, +81-3-6809-1410 , Fax: …;<br> *Kikai Shinko Kaikan building 3F, 3-5-8 Shibakoen, Minato-ku, Tokyo 105-0011, Japan*<br> 【<http://www.jspacesystems.or.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/japan-space-systems)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Japan_Space_Systems)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
+|**Business**|R&D, HR, promotion activities creating business opportunities in space sector|
 |**[MGMT](../mgmt.md)**|…|
 
 **Japan Space Systems (J-spacesystems)** is a Japanese space company aimed to technology development, especially the testing of commercial off-the-shelf parts (COTS), robotics, material sciences & technology for optical Earth observations.

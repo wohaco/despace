@@ -1,8 +1,8 @@
 # Mitsubishi
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/m/mitsubishi_logo1_thumb.webp)](../f/contact/m/mitsubishi_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<http://www.mitsubishielectric.com/bu/space/>・ <https://www.mhi.com/products/space>・ [LinkedIn 1 ⎆](https://www.linkedin.com/company/mitsubishielectric/)・ [LinkedIn 2 ⎆](https://www.linkedin.com/company/mitsubishi-heavy-industries/)】|
-|:--|:--|
+|[![](../f/contact/m/mitsubishi_logo1_thumb.webp)](../f/contact/m/mitsubishi_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【[WEBSITE 1 ⎆](http://www.mitsubishielectric.com/bu/space/) & [2 ⎆](https://www.mhi.com/products/space)・ [LinkedIn 1 ⎆](https://www.linkedin.com/company/mitsubishielectric/) & [2 ⎆](https://www.linkedin.com/company/mitsubishi-heavy-industries/)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

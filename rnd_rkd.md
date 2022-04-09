@@ -6,7 +6,7 @@
 ---
 
 |*Phase*| | |*Design*| | | | |*Mass prod.:*| |
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |**[R&D phases](rnd.md)**|0 (pre‑A)|A|≈ B|≈ B|≈ C|≈ C/D|≈ E|…|F|
 |**[НИОКР](rnd.md)**|[НИР](rnd_0.md)|[АП](rnd_ap.md)|[ЭП](rnd_ep.md)|[ТП](rnd_tp.md)|[РКД (РРД)](rnd_rkd.md)|[Макеты, НЭО](test.md)|[ЛИ](rnd_e.md)|ПСП → СП → ПЭ|Вывод|
 | |*[NIR](rnd_0.md)*|*[AP](rnd_ap.md)*|*[EP](rnd_ep.md)*|*[TP](rnd_tp.md)*|*[RKD (RRD)](rnd_rkd.md)*|*[Models, Tests](test.md)*|*[LI](rnd_e.md)*|*PSP → SP → PE*|*Closeout*|
@@ -23,7 +23,7 @@
 **Phase C.** Final design & fabrication.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Вх. данные**|・[ТЗ](tor.md)<br> ・[контракт](contract.md)<br> ・материалы предыдущего этапа<br> ・прочие [ИД](init_data.md) от Заказчика|
 |**Вых. данные**|[КД](doc.md) и РД|
 |**Итог**|документы без присвоения литеры|
@@ -45,7 +45,7 @@
 <small>
 
 |*№*|*Наименование документа РКД (РРД)*|*Соглас.*|*Утвержд.*|*Примечание*|*Основание*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |1|**[АВПКО](fmeca.md)**| | |При необходимости|[ГОСТ 27.310](гост_27_310.md)|
 |2|**[Ведомости](liod.md)**| | | |[ГОСТ 2.102](гост_2_102.md), [ГОСТ 2.601](гост_2_601.md)|
 |3|**[Инструкции](инструкции.md)**| | | |[ГОСТ 2.102](гост_2_102.md), [ГОСТ 2.601](гост_2_601.md)|
@@ -89,7 +89,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[R&D](rnd.md)】**<br> [Design review](design_review.md)・ [Management](mgmt.md)・ [MBSE](se.md)・ [Proposal](proposal.md)・ [Test](test.md)・ [V‑model](v_model.md)・ [Validation, Verification](vnv.md)<br> [АП](rnd_ap.md)・ [ЛИ](rnd_e.md)・ [Макеты, НЭО](test.md)・ [НИР](rnd_0.md)・ [РКД (РРД)](rnd_rkd.md)・ [ТП](rnd_tp.md)・ [ЭП](rnd_ep.md)|

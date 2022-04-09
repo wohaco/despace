@@ -16,7 +16,7 @@ A list of [Engines](ps.md).
 **1NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1996.
 
 |*Characteristics*|*[Value](si.md)<br> (1NMHT)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -66,7 +66,7 @@ A list of [Engines](ps.md).
 **11D428A-16** (ru. **11Д428А-16**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D428A-16)*|*[Value](si.md)<br> (11D428AF-16)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| | |
 |Dimensions, ㎜|290 × … **⁽¹⁾**|372 × 158 **⁽¹⁾**|
@@ -116,7 +116,7 @@ A list of [Engines](ps.md).
 **11D457** (ru. **11Д457**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D457)*|*[Value](si.md)<br> (11D457F)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| | |
 |Dimensions, ㎜|236 × … **⁽¹⁾**|257 × 68 **⁽²⁾**|
@@ -166,7 +166,7 @@ A list of [Engines](ps.md).
 **11D458** (ru. **11Д458**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (11D458)*|*[Value](si.md)<br> (11D458M)*|*[Value](si.md)<br> (11D458F)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Composition| | | |
 |Consumption, W| | | |
 |Dimensions, ㎜|370 × … **⁽¹⁾**|470 × 192 **⁽¹⁾**|465 × 202 **⁽²⁾**|
@@ -217,7 +217,7 @@ A list of [Engines](ps.md).
 **11D30** (ru. **14Д30**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (14D30)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|948 × 1 150 **⁽¹⁾**|
@@ -265,7 +265,7 @@ A list of [Engines](ps.md).
 **17D16** (ru. **17Д16**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (17D16)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|360 × 88 **⁽¹⁾**|
@@ -315,7 +315,7 @@ A list of [Engines](ps.md).
 **17D58E** (ru. **17Д58Э**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (17D58E)*|*[Value](si.md)<br> (17D58EF)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| | |
 |Dimensions, ㎜|137 × 43|137 × 43 **⁽¹⁾**|
@@ -366,7 +366,7 @@ A list of [Engines](ps.md).
 **20NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1982.
 
 |*Characteristics*|*[Value](si.md)<br> (20NMHT)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|195 × ⌀33|
@@ -416,7 +416,7 @@ A list of [Engines](ps.md).
 **255U.487** (ru. **255У.487**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (255U.487)*|*[Value](si.md)<br> (DMT-600)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|24.3|24.3|
 |Dimensions, ㎜|416 × 148 **⁽¹⁾**| |
@@ -469,7 +469,7 @@ A list of [Engines](ps.md).
 **255U.530** (ru. **255У.530**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (255У.530.00-0)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|24.3|
 |Dimensions, ㎜|416 × 148|
@@ -521,7 +521,7 @@ A list of [Engines](ps.md).
 **400NMHT** — 1‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1996.
 
 |*Characteristics*|*[Value](si.md)<br> (400NMHT)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|325 × ⌀67|
@@ -571,7 +571,7 @@ A list of [Engines](ps.md).
 **AMBR** (Advanced material bipropellant rocket) — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 2012. Successor of [HiPAT](hipat.md).
 
 |*Characteristics*|*[Value](si.md)<br> (AMBR)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -621,7 +621,7 @@ A list of [Engines](ps.md).
 **BE-3** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-3)*|*[Value](si.md)<br> (BE-3U)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| | |
 |Dimensions, ㎜| | |
@@ -672,7 +672,7 @@ A list of [Engines](ps.md).
 **BE‑4** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-4)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -724,7 +724,7 @@ A list of [Engines](ps.md).
 **BE-7** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-7)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -773,7 +773,7 @@ A list of [Engines](ps.md).
 **BT-4** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in 2007.
 
 |*Characteristics*|*[Value](si.md)<br> (BT-4)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|80 × …|
@@ -829,7 +829,7 @@ A list of [Engines](ps.md).
 **DMT-500** (ru. **ДМТ-500**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-500)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|24.3|
 |Dimensions, ㎜| |
@@ -878,7 +878,7 @@ A list of [Engines](ps.md).
 **DMT-1000** (ru. **ДМТ-1000**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-1000)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|24.3|
 |Dimensions, ㎜| |
@@ -927,7 +927,7 @@ A list of [Engines](ps.md).
 **DMT-2200** (ru. **ДМТ-2200**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (DMT-2200)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|10.8|
 |Dimensions, ㎜| |
@@ -976,7 +976,7 @@ A list of [Engines](ps.md).
 **DOC-10** (ru. **ДОК-10**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOC-10)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|7.9|
 |Dimensions, ㎜| |
@@ -1024,7 +1024,7 @@ A list of [Engines](ps.md).
 **DOC-50** (ru. **ДОК-50**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOC-50)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|16.2|
 |Dimensions, ㎜| |
@@ -1072,7 +1072,7 @@ A list of [Engines](ps.md).
 **DOT-5** (ru. **ДОТ-5**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOT-5)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|15.8|
 |Dimensions, ㎜| |
@@ -1120,7 +1120,7 @@ A list of [Engines](ps.md).
 **DOT-25** (ru. **ДОТ-25**) — 1‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (DOT-25)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|7.9|
 |Dimensions, ㎜| |
@@ -1168,7 +1168,7 @@ A list of [Engines](ps.md).
 **Draco** — a family of 2-component [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Draco)*|*[Value](si.md)<br> (SuperDraco)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| | |
 |Dimensions, ㎜|14 000 × …| |
@@ -1221,7 +1221,7 @@ A list of [Engines](ps.md).
 **GT-50** — electric ion [engine](ps.md) by [Avantspace](contact/avantspace.md).
 
 |*Characteristics*|*[Value](si.md)<br> (GT-50)*|*[Value](si.md)<br> (GT-50)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|engine, tanks, structures<br> (in fact, the entire PS)|engine, tanks, structures<br> (in fact, the entire PS)|
 |Consumption, W|180|240|
 |Dimensions, ㎜|100 × 200 × 300|100 × 200 × 300|
@@ -1273,7 +1273,7 @@ A list of [Engines](ps.md).
 **HiPAT** (High performance liquid apogee thruster) — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md).
 
 |*Characteristics*|*[Value](si.md)<br> (HiPAT or HiPAT DM)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|46 (for 28 W)|
 |Dimensions, ㎜|720 × 360|
@@ -1324,7 +1324,7 @@ A list of [Engines](ps.md).
 **IHI 22N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 22N)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -1372,7 +1372,7 @@ A list of [Engines](ps.md).
 **IHI 120N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 120N)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -1420,7 +1420,7 @@ A list of [Engines](ps.md).
 **IHI 450N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 450N)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -1468,7 +1468,7 @@ A list of [Engines](ps.md).
 **IHI 490N** — 2‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI 490N)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -1516,7 +1516,7 @@ A list of [Engines](ps.md).
 **K10** (ru. **К10**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (K10)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|137×130×44 **⁽¹⁾**|
@@ -1564,7 +1564,7 @@ A list of [Engines](ps.md).
 **K50** (ru. **К50**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (К50-10.1)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|112×70×38 **⁽¹⁾**|
@@ -1612,7 +1612,7 @@ A list of [Engines](ps.md).
 **KVD1** (ru. **КВД1**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (KVD1)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|2 140 × 1 580 **⁽¹⁾**|
@@ -1661,7 +1661,7 @@ A list of [Engines](ps.md).
 **LEROS** — 2‑component [engine](ps.md) by [Moog inc](contact/moog_inc.md). Manufacturing in UK. Classified as [HTAE](htae.md).
 
 |*Characteristics*|*[Value](si.md)<br> (LEROS 1b)*|*[Value](si.md)<br> (LEROS 1c)*|*[Value](si.md)<br> (LEROS 2b)*|*[Value](si.md)<br> (LEROS 4)*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Composition| | | | |
 |Consumption, W| | | | |
 |Dimensions, ㎜|540 × 289 **⁽¹⁾**|527 × 288 **⁽¹⁾**|671 × 334 **⁽¹⁾**|1 106 × 500 **⁽³⁾**|
@@ -1713,7 +1713,7 @@ A list of [Engines](ps.md).
 **MD08** (ru. **МД08**) — gas [engine](ps.md) by [NIIMASH](contact/niimash.md).
 
 |*Characteristics*|*[Value](si.md)<br> (MD08)*|*[Value](si.md)<br> (MD08-02)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|10.2|10.2|
 |Dimensions, ㎜|93 × ⌀8 **⁽²⁾**|93 × ⌀8 **⁽²⁾**|
@@ -1761,7 +1761,7 @@ A list of [Engines](ps.md).
 **MD5** (ru. **МД5**) — gas [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (MD5)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|1.35|
 |Dimensions, ㎜|91 × ⌀20 **⁽¹⁾**|
@@ -1809,7 +1809,7 @@ A list of [Engines](ps.md).
 **Merlin** — a family of 2‑components [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Merlin 1A)*|*[Value](si.md)<br> (Merlin 1B)*|*[Value](si.md)<br> (Merlin 1C)*|*[Value](si.md)<br> (Merlin 1C Vac)*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Composition| | | | |
 |Consumption, W| | | | |
 |Dimensions, ㎜| | |2 920 × …| |
@@ -1849,7 +1849,7 @@ A list of [Engines](ps.md).
 **Continue:**
 
 |*Characteristics*|*[Value](si.md)<br> (Merlin 1D)*|*[Value](si.md)<br> (Merlin 1D Vac)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| | |
 |Dimensions, ㎜|… × 1 000| |
@@ -1909,7 +1909,7 @@ A list of [Engines](ps.md).
 **MT-2** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-2)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -1957,7 +1957,7 @@ A list of [Engines](ps.md).
 **MT-6** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-6)*|
-|:--|:--|
+|:-|:-|
 |Composition| (ITAR‑free)|
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -2005,7 +2005,7 @@ A list of [Engines](ps.md).
 **MT-8A** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-8A)*|
-|:--|:--|
+|:-|:-|
 |Composition| (ITAR‑free)|
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -2053,7 +2053,7 @@ A list of [Engines](ps.md).
 **MT-9** — 1‑component [engine](ps.md) by [IHI](contact/ihi.md). Designed in ….
 
 |*Characteristics*|*[Value](si.md)<br> (IHI MT-9)*|
-|:--|:--|
+|:-|:-|
 |Composition| (ITAR‑free)|
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -2101,7 +2101,7 @@ A list of [Engines](ps.md).
 **Raptor** — a family of 2-component [engines](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (ER40)*|*[Value](si.md)<br> (ER200)*|*[Value](si.md)<br> (Raptor 2017‑SL)*|*[Value](si.md)<br> (Raptor 2017‑V)*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |Composition| | | | |
 |Consumption, W| | | | |
 |Dimensions, ㎜|3 300 × 1 730|6 400 × 3 870|… × 1 300|… × 2 400|
@@ -2149,7 +2149,7 @@ A list of [Engines](ps.md).
    1. **Applicability** — [BFR](bfr.md)・ [ITC](itc.md)
 
 |Raptor Engine Test Site, 2017.01.30<br> [Source 1 ⎆](https://www.reddit.com/r/engineteststands/comments/43lmbn/spacexs_raptor_test_stand_under_construction_at/), [Source 2 ⎆](http://pictures.jtbuice.com/SpaceX-2/McGregor-Flyover-1-30-2016/)|
-|:--|
+|:-|
 |[![](f/ps/r/raptor_test_stand_20170130_thumb.webp)](f/ps/r/raptor_test_stand_20170130.webp)|
 
 
@@ -2160,7 +2160,7 @@ A list of [Engines](ps.md).
 **R-1E** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1981.
 
 |*Characteristics*|*[Value](si.md)<br> (R-1E)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|36 (for 28 V)|
 |Dimensions, ㎜| |
@@ -2211,7 +2211,7 @@ A list of [Engines](ps.md).
 **R-4D** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1966.
 
 |*Characteristics*|*[Value](si.md)<br> (R-4D)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|46 (using 28 V)|
 |Dimensions, ㎜|550 × 280|
@@ -2262,7 +2262,7 @@ A list of [Engines](ps.md).
 **R-6** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md).
 
 |*Characteristics*|*[Value](si.md)<br> (R-6)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -2310,7 +2310,7 @@ A list of [Engines](ps.md).
 **R-40** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1981.
 
 |*Characteristics*|*[Value](si.md)<br> (R-40A)*|*[Value](si.md)<br> (R-40B)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| |70 (for 28 V)|
 |Dimensions, ㎜|1 040 × 520|710 × 400|
@@ -2362,7 +2362,7 @@ A list of [Engines](ps.md).
 **R-42** — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md).
 
 |*Characteristics*|*[Value](si.md)<br> (R-42)*|*[Value](si.md)<br> (R-42DM)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|46 (for 28 V)|46 (for 28 V)|
 |Dimensions, ㎜|790 × 390|790 × 390|
@@ -2413,7 +2413,7 @@ A list of [Engines](ps.md).
 **RIT 2X** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT 2X)*|*[Value](si.md)<br> (RIT 2X)*|*[Value](si.md)<br> (RIT 2X)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Composition| | | |
 |Consumption, W|2 000 ‑ 2 500|4 000 ‑ 4 500|4 800 ‑ 5 300|
 |Dimensions, ㎜|220 × ⌀330|220 × ⌀330|220 × ⌀330|
@@ -2462,7 +2462,7 @@ A list of [Engines](ps.md).
 **RIT 10 EVO** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT‑10)*|*[Value](si.md)<br> (RIT‑10)*|*[Value](si.md)<br> (RIT‑10)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Composition| | | |
 |Consumption, W|145|435|760|
 |Dimensions, ㎜|134 × ⌀186|134 × ⌀186|134 × ⌀186|
@@ -2511,7 +2511,7 @@ A list of [Engines](ps.md).
 **RIT µX** — electric [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (RIT µX)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|50|
 |Dimensions, ㎜|76 × ⌀78|
@@ -2560,7 +2560,7 @@ A list of [Engines](ps.md).
 **RS-25** or **SSME** (Space Shuttle Main Engine) — 2‑component [engine](ps.md) by [Aerojet Rocketdyne](aerojet_rocketdyne.md). Designed in 1972.
 
 |*Characteristics*|*[Value](si.md)<br> (RS-25)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|4 240 × 2 400|
@@ -2611,7 +2611,7 @@ A list of [Engines](ps.md).
 **S10** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md). Designed in 1975.
 
 |*Characteristics*|*[Value](si.md)<br> (S10‑13)*|*[Value](si.md)<br> (S10‑18)*|*[Value](si.md)<br> (S10‑26)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Composition| | | |
 |Consumption, W|24|24|24|
 |Dimensions, ㎜| | | |
@@ -2666,7 +2666,7 @@ A list of [Engines](ps.md).
 **S5.86** (ru. **С5.86**, also **КМД** (кислородно‑метановый двигатель) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.86)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -2714,7 +2714,7 @@ A list of [Engines](ps.md).
 **S5.92** (ru. **С5.92**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md),<br> (S5.92, high thrust)*|*[Value](si.md),<br> (S5.92, low thrust)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W| | |
 |Dimensions, ㎜|677 × 838 × 1028 **⁽¹⁾**|677 × 838 × 1028 **⁽¹⁾**|
@@ -2763,7 +2763,7 @@ A list of [Engines](ps.md).
 **S5.120** (ru. **С5.120**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.120)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|820 × 440|
@@ -2812,7 +2812,7 @@ A list of [Engines](ps.md).
 **S5.140** (ru. **С5.140**, also **ДМТ-6**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.140)*|*[Value](si.md)<br> (DMT-6)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|15.8|15.8|
 |Dimensions, ㎜|200 × 26.6 **⁽¹⁾**| |
@@ -2862,7 +2862,7 @@ A list of [Engines](ps.md).
 **S5.142** (ru. **С5.142**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.142)*|*[Value](si.md)<br> (DST-25)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|15.8|15.8|
 |Dimensions, ㎜| | |
@@ -2912,7 +2912,7 @@ A list of [Engines](ps.md).
 **S5.144** (ru. **С5.144**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.144)*|*[Value](si.md)<br> (DST-100)*|*[Value](si.md)<br> (DST-100A)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Composition| | | |
 |Consumption, W|34.2|34.2|34.2|
 |Dimensions, ㎜| | | |
@@ -2962,7 +2962,7 @@ A list of [Engines](ps.md).
 **S5.145** (ru. **С5.145**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.145)*|*[Value](si.md)<br> (DST-50)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|15.8|15.8|
 |Dimensions, ㎜|280 × 102.25 **⁽¹⁾**| |
@@ -3012,7 +3012,7 @@ A list of [Engines](ps.md).
 **S5.146** (ru. **С5.146**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S5.146)*|*[Value](si.md)<br> (DST-200)*|*[Value](si.md)<br> (DST-200A)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Composition| | | |
 |Consumption, W|34.2|21.6|34.2|
 |Dimensions, ㎜| | | |
@@ -3062,7 +3062,7 @@ A list of [Engines](ps.md).
 **S5.154** (ru. **С5.154, КТД** (корректирующе‑тормозной двигатель)) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.154)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|130|
 |Dimensions, ㎜|280×340×860 **⁽¹⁾**|
@@ -3113,7 +3113,7 @@ A list of [Engines](ps.md).
 **S5.175** (**С5.175, КТД** (корректирующе‑тормозной двигатель)) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md)
 
 |*Characteristics*|*[Value](si.md)<br> (S5.175)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|130|
 |Dimensions, ㎜|280×340×860 [1, 2]|
@@ -3164,7 +3164,7 @@ A list of [Engines](ps.md).
 **S200** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S200)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|32|
 |Dimensions, ㎜| |
@@ -3214,7 +3214,7 @@ A list of [Engines](ps.md).
 **S400** — 2‑component [engine](ps.md) by [OPC LAM](contact/opc_lam.md).
 
 |*Characteristics*|*[Value](si.md)<br> (S400‑12)*|*[Value](si.md)<br> (S400‑15)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|35|35|
 |Dimensions, ㎜|503 × 248|669 × 316|
@@ -3266,7 +3266,7 @@ A list of [Engines](ps.md).
 **SPD-25** (ru. **СПД-25**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-25)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|100 **⁽¹⁾**|
 |Dimensions, ㎜| |
@@ -3314,7 +3314,7 @@ A list of [Engines](ps.md).
 **SPD-50** (ru. **СПД-50**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-50)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|220 **⁽¹⁾**|
 |Dimensions, ㎜|160×120×91|
@@ -3362,7 +3362,7 @@ A list of [Engines](ps.md).
 **SPD-70** (ru. **СПД-70**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-70)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|660 **⁽¹⁾**|
 |Dimensions, ㎜|198×146×98 **⁽¹⁾**|
@@ -3410,7 +3410,7 @@ A list of [Engines](ps.md).
 **SPD-100** (ru. **СПД-100**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-100)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|1 350 **⁽¹⁾**|
 |Dimensions, ㎜| |
@@ -3459,7 +3459,7 @@ A list of [Engines](ps.md).
 **SPD-140** (ru. **СПД-140**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-140)*|*[Value](si.md)<br> (SPD-140D)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|3 000 **⁽¹⁾**|4 500 **⁽²⁾**|
 |Dimensions, ㎜| | |
@@ -3507,7 +3507,7 @@ A list of [Engines](ps.md).
 **SPD-230** (ru. **СПД-230**, Стационарный плазменный двигатель) — electric [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (SPD-230)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|15 000 **⁽¹⁾**|
 |Dimensions, ㎜| |
@@ -3555,7 +3555,7 @@ A list of [Engines](ps.md).
 **TK500M** (ru. **ТК500М**) — 1‑component [engine](ps.md) by [OKB Fakel](contact/edb_fakel.md).
 
 |*Characteristics*|*[Value](si.md)<br> (TK500M)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|110×129×67 **⁽¹⁾**|
@@ -3603,7 +3603,7 @@ A list of [Engines](ps.md).
 **Water Ion Thruster (WIT)** — electric [engine](ps.md) by [Pale Blue Inc](contact/pale_blue_inc.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Water Ion Thruster)*|
-|:--|:--|
+|:-|:-|
 |Composition|engine, tanks, structures (in fact, the entire PS)|
 |Consumption, W|30 ‑ 60|
 |Dimensions, ㎜|… (0.7U)|
@@ -3652,7 +3652,7 @@ A list of [Engines](ps.md).
 **Water Resistojet Thruster (WRT)** — electric [engine](ps.md) by [Pale Blue Inc](contact/pale_blue_inc.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Water Resistojet Thruster)*|
-|:--|:--|
+|:-|:-|
 |Composition|engine, tanks, structures (in fact, the entire PS)|
 |Consumption, W|5 ‑ 20|
 |Dimensions, ㎜|… (0.5U)|
@@ -3707,7 +3707,7 @@ A list of [Engines](ps.md).
 **BE-1** — 1‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-1)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -3755,7 +3755,7 @@ A list of [Engines](ps.md).
 **BE-7** — 2‑component [engine](ps.md) by [Blue Origin](blue_origin.md).
 
 |*Characteristics*|*[Value](si.md)<br> (BE-2)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -3803,7 +3803,7 @@ A list of [Engines](ps.md).
 **Kestrel** — 2‑component [engine](ps.md) by [SpaceX](contact/spacex.md).
 
 |*Characteristics*|*[Value](si.md)<br> (Kestrel)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|0.7 × …|
@@ -3854,7 +3854,7 @@ A list of [Engines](ps.md).
 **RDMT3** (ru. **РДМТ3**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT3)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|137 × …|
@@ -3901,7 +3901,7 @@ A list of [Engines](ps.md).
 **RDMT10** (ru. **РДМТ10**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT10)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|164 × …|
@@ -3948,7 +3948,7 @@ A list of [Engines](ps.md).
 **RDMT50** (ru. **РДМТ50**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT50M)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|253 × …|
@@ -3995,7 +3995,7 @@ A list of [Engines](ps.md).
 **RDMT100 (ru. **РДМТ100**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT100-OH)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|270 × …|
@@ -4042,7 +4042,7 @@ A list of [Engines](ps.md).
 **RDMT2600** (ru. **РДМТ2600**) — 2‑component [engine](ps.md) by [NIIMASH](contact/niimash.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (RDMT2600)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|464 × …|
@@ -4089,7 +4089,7 @@ A list of [Engines](ps.md).
 **S5.78** (ru. **С5.78**) — 2‑component [engine](ps.md) by [KBHM](contact/kbhm.md). Archived.
 
 |*Characteristics*|*[Value](si.md)<br> (S5.78)*|
-|:--|:--|
+|:-|:-|
 |Composition| | |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -4145,7 +4145,7 @@ A list of [Engines](ps.md).
 **…** — …‑component [engine](ps.md) by ….
 
 |*Characteristics*|*[Value](si.md)<br> (…)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -4190,7 +4190,7 @@ A list of [Engines](ps.md).
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**［**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА］**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](drawing.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](ps.md)・ [Газовый двигатель](ps.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](ps.md)・ [ЖРД](ps.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](ps.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](ps.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](ps.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](ps.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](ps.md)|

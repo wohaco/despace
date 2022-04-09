@@ -17,7 +17,7 @@ A list of [On-board computers](obc.md).
 Разработчик [Cobham](cobham.md). Разработано в 2019 году.
 
 |*Characteristics*|*[Value](si.md)<br> (GR712RC)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W| |
 |Dimensions, ㎜|75 × 75 × 3.5|
@@ -58,7 +58,7 @@ A list of [On-board computers](obc.md).
 Предшественник: [БИВК-Р](obc_lst.md). Отличается от предшественника [БИВК-Р](obc_lst.md) тем, что ряд иностранных компонентов заменён на отечественные [аналоги](analogue.md), также отсутствует горячее резервирование.
 
 |*Characteristics*|*[Value](si.md)<br> (БИВК-МР)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit, включающий в себя 2 независимых полукомплекта|
 |Consumption, W|не более 20 Вт в режиме холодного резерва (экономичном);<br> не более 33 Вт в режиме горячего резерва (активном)|
 |Dimensions, ㎜|280×135×147 (без учёта жгутов собственной кабельной сети устройства, со жгутами — 260 ㎜)|
@@ -98,7 +98,7 @@ A list of [On-board computers](obc.md).
 Преемник: [БИВК-М](бивк_м.md), [БИВК-МР](obc_lst.md)
 
 |*Characteristics*|*[Value](si.md)<br> (БИВК-Р)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit, включающий в себя 2 независимых полукомплекта|
 |Consumption, W|не более 20 Вт в режиме холодного резерва (экономичном);<br> не более 35 Вт в режиме горячего резерва (активном)|
 |Dimensions, ㎜|280×135×147 (без учёта жгутов собственной кабельной сети устройства, со жгутами — 260 ㎜)|
@@ -136,7 +136,7 @@ A list of [On-board computers](obc.md).
 **БКУ‑SxPA** — цифровая вычислительная машина ([компьютер](obc.md)), предназначенная для использования в составе [КА](sc.md). Разработчик [Спутникс](contact/sputnix.md). Разработано  
 
 |*Characteristics*|*[Value](si.md)<br> (BKU‑SxPA)*|
-|:--|:--|
+|:-|:-|
 |Composition|2 блока (процессорный блок; маршрутизатор)|
 |Consumption, W| |
 |Dimensions, ㎜|179 × 167 × 30 — процессорный блок; 119 × 107 × 30 — маршрутизатор|
@@ -173,7 +173,7 @@ A list of [On-board computers](obc.md).
 Разработчик [НТЦ Модуль](contact/ntc_module.md). Разработано в 2004 году. Покупное изделие.
 
 |*Characteristics*|*[Value](si.md)<br> (ЦВМ-12)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit из 2 полукомплектов.|
 |Consumption, W|20|
 |Dimensions, ㎜| |
@@ -210,7 +210,7 @@ A list of [On-board computers](obc.md).
 Разработчик [МОКБ Марс](contact/mars_mokb.md). Разработано в рамках ОКР <mark>TBD</mark> в 2002 году. Активное использование (на 2017 год).
 
 |*Characteristics*|*[Value](si.md)<br> (Марс-4)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit. 4‑кратное резервирование.|
 |Consumption, W|30|
 |Dimensions, ㎜|156 × 205 × 214|
@@ -246,7 +246,7 @@ A list of [On-board computers](obc.md).
 Разработчик [МОКБ Марс](contact/mars_mokb.md). Разработано в рамках ОКР <mark>TBD</mark> в <mark>TBD</mark> году.
 
 |*Characteristics*|*[Value](si.md)<br> (Марс-7)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit; 4‑кратное резервирование|
 |Consumption, W|20|
 |Dimensions, ㎜|147 × 204 × 158|
@@ -284,7 +284,7 @@ A list of [On-board computers](obc.md).
 Разработчик [НПП Антарес](contact/npp_antares.md). Разработано в 1983 году прошёл ЛИ в КА «Фотон‑М» №1,2,3.
 
 |*Characteristics*|*[Value](si.md)<br> (MPK-002)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|14|
 |Dimensions, ㎜|174 × 185 × 191|
@@ -322,7 +322,7 @@ A list of [On-board computers](obc.md).
 Разработчик [НПП Антарес](contact/npp_antares.md). Разработано в 2005 году 
 
 |*Characteristics*|*[Value](si.md)<br> (ДКШГ.468332.003)*|*[Value](si.md)<br> (ДКШГ.468332.003-01)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|Single unit|Single unit|
 |Consumption, W|52|26|
 |Dimensions, ㎜|454 × 268 × 172|454 × 268 × 104|
@@ -363,7 +363,7 @@ A list of [On-board computers](obc.md).
 Разработчик АНО "НТИЦ "ТЕХКОМ". Разработано в рамках ОКР [Фобос‑Грунт](фобос_грунт.md) в 2009 году.
 
 |*Characteristics*|*[Value](si.md)<br> (ЦВМ22)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|7.1 ‑ 12|
 |Dimensions, ㎜|122 × 121 × 121|
@@ -397,7 +397,7 @@ A list of [On-board computers](obc.md).
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[On-board computer (OBC)](obc.md)】**<br> … <br>• • •<br> **RU:** [МПК-003](obc_lst.md) (9)・ [БИВК-МР](obc_lst.md) (8)・ [МАРС 4](obc_lst.md) (8)・ [БИВК-Р](obc_lst.md) (7.1)・ [МАРС 7](obc_lst.md) (6)・ [МПК-002](obc_lst.md) (3.9)・ [ЦВМ-12](obc_lst.md) (2.2)・ [БКУ_SXPA](obc_lst.md) (0.35)・ [БИВК-МН](бивк‑мн.md) () *([ЦВМ22](obc_lst.md) (2.1))*|

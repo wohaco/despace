@@ -15,7 +15,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑001| |Atmosphere: preliminary model.| |D|C|F| | |
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
@@ -159,7 +159,7 @@ The main scientific task of the lander was to obtain a panoramic image from the 
    - Panoramic ultraviolet cameras (355 to 445 nm for Venera 9 and 345 to 380 nm for Venera 10) to study clouds.
 
 |*Characteristic*|*Value*|
-|:--|:--|
+|:-|:-|
 |Angle of view|30°|
 |Filters|Violet Ultraviolet|
 |Scanning resolution|500 reads/line|
@@ -189,7 +189,7 @@ The main scientific task of the lander was to obtain a panoramic image from the 
    - Two 5.8 m panoramic telephotometers mounted on opposite sides of the pressure vessel at a height of 0.9 m with spotlights for illumination **ТФ** ([EVN‑063](venus.md)).
 
 |*Characteristic*|*Value*|
-|:--|:--|
+|:-|:-|
 |Mass|5.8 ㎏|
 |Number of items per row|115|
 |The transmission time line|3.5 s|
@@ -284,7 +284,7 @@ The lander was a sealed double-walled titanium pressure vessel of spherical shap
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

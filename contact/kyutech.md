@@ -2,7 +2,7 @@
 > 2020.07.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/k/kyutech_logo1_thumb.webp)](../f/contact/k/kyutech_logo1.webp)|<kok-ryugaku@jimu.kyutech.ac.jp>, +81-(0)93-884-3061, Fax: +81-(0)93-884-3059;<br> *1-1 Sensui-cho, Tobata-ku, Kitakyushu-shi, Fukuoka, 804-8550, Japan*<br> 【<https://www.kyutech.ac.jp/>・ [LinkedIn ⎆](https://www.linkedin.com/company/kyutech-institute-of-technology/)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

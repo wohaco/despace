@@ -16,7 +16,7 @@ A list of [Telemetry systems](tms.md).
 **Universal small‑sized radio telemetry system (USZRTS) “Astra”** *(ru. Универсальная малогабаритная радиотелеметрическая система (УМРТС) «Астра»)* — a [telemetry system](tms.md) (TMS) by [NPO IT](contact/npoit.md) — a set of devices that collect signals from the primary conversion, generate telemetry signals, transmit them through the communication channel, registration & display of telemetry messages on the receiving side.
 
 |*Characteristics*|*[Value](si.md)<br> (Astra)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit of [slices](слайс.md)|
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -57,7 +57,7 @@ A list of [Telemetry systems](tms.md).
 **Small‑sized on‑board radio‑telemetry system “Onyx”** *(ru. Малогабаритная бортовая радиотелеметрическая система «Оникс»)* — a [telemetry system](tms.md) (TMS) by [NPO IT](contact/npoit.md) — a set of devices that collect signals from the primary conversion, generate telemetry signals, transmit them through the communication channel, registration & display of telemetry messages on the receiving side.
 
 |*Characteristics*|*[Value](si.md)<br> (Onyx)*|
-|:--|:--|
+|:-|:-|
 |Composition|2 units (Monounit of telemetry frame formation (MTFF); Temperature measurement unit (TMU) |
 |Consumption, W|11.6|
 |Dimensions, ㎜|91 × 91 × 29 TMU; 90 × 89 × 84 MTFF|
@@ -98,7 +98,7 @@ A list of [Telemetry systems](tms.md).
 **Onboard information & computing system “Pirit”** *(ru. Бортовая информационно‑вычислительная система «Пирит»)*  — a [telemetry system](tms.md) (TMS) by [NPO IT](contact/npoit.md) — a set of devices that collect signals from the primary conversion, generate telemetry signals, transmit them through the communication channel, registration & display of telemetry messages on the receiving side.
 
 |*Characteristics*|*[Value](si.md)<br> (PM)*|*[Value](si.md)<br> (LS)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|Multiple units depending on targets (programmable module (PM); local switch (LS))|Multiple units depending on targets (programmable module (PM); local switch (LS))|
 |Consumption, W|2.7 ‑ 6.8|1.2 ‑ 3.3|
 |Dimensions, ㎜| | |
@@ -142,7 +142,7 @@ A list of [Telemetry systems](tms.md).
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Telemetry system (TMS)](tms.md)】**<br> … <br>• • •<br> **RU:** [TMS-L](tms_l.md) (8.5)・ [TMS-UF](tms_uf.md) (7.25)・ [TMS-RG](tms_rg.md) (5)・ [Pirit](tms_lst.md) (2.6)・ [Onyx](tms_lst.md) (1.1)・ [Astra](tms_lst.md) ()|

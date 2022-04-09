@@ -19,7 +19,7 @@
 The division of cells into galvanic & accumulators is somewhat arbitrary, since some galvanic cells, for example alkaline batteries, can be recharged, but the efficiency of this process is extremely low.
 
 | |*[Company](contact.md)*|*Actual (capacity, A·h)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**EU**|[Saft](contact/saft.md)|[8S8P](eb_lst.md) (30)|
 |•|• • • • • • • • •|• • •|
 |**JP**|[GS Yuasa](contact/gs_yuasa.md)| |
@@ -32,7 +32,7 @@ The division of cells into galvanic & accumulators is somewhat arbitrary, since 
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Canadensys](contact/canadensys.md)|
@@ -53,7 +53,7 @@ The division of cells into galvanic & accumulators is somewhat arbitrary, since 
 ## Notes
 
 |*Type of sealed battery*|*Vol-<br>tage,<br> V*|*Specific<br> energy <br> (mass), <br> W·h / ㎏*|*Specific<br> energy <br> (volume), <br> W·h / dm³*|*Self-<br> dischar-<br>ge /day,<br>%*|*[Output]( charge_eff.md), <br>%*|*Service<br> life,<br> years / <br> cycles*|*Temp., <br> ℃*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |**Lithium-Iron-Phosphate** (LiFePO₄, LFP) | 3.3 | 90 ‑ 130 | 320 ‑ 400 | 0.16 | 90 | 15 / 2 000 <br> 15 / 7 000 | −30 ‑ +55 |
 |**Lithium-Ion**| 3.6 | 130 | 260 | 15 (28) | 98 | 5 / 500 |−… ‑ +… |
 |**Lithium-Ion** (SIS, silicon) | | | | | |… / … | −… ‑ +300 |
@@ -75,7 +75,7 @@ The division of cells into galvanic & accumulators is somewhat arbitrary, since 
 Comparison of rechargeable & disposable batteries
 
 | |*disposable (70 A·h)*|*rechargeable 8LI‑70 (70 A·h)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**Weight, ㎏**| 15.5 | 18.8 |
 |**Dimensions, ㎜**| 328 × 342 × 150 | 268 × 232 × 270 |
 
@@ -109,7 +109,7 @@ Produced according to the formula:
 **Electric accumulator**, also **accumulator battery (AB)** is a reusable chemical current source (that is, unlike a galvanic cell, chemical reactions directly converted into electrical energy are reversible many times). Electric accumulators are used for energy storage & autonomous power supply of various devices.
 
 |*Type of galvanic cell*|*Cathode*|*Electrolyte*|*Anode*|*Voltage, V*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 | Manganese-Magnesium element | MnO₂ | MgBr₂ | Mg | 2.00 |
 | Manganese-Tin element | MnO₂ | KOH | Sn | 1.65 |
 | Manganese-Zinc element | MnO₂ | KOH | Zn | 1.56 |
@@ -124,7 +124,7 @@ Produced according to the formula:
 List of galvanic cells & electric accumulators.
 
 |*Galvanic cell*|*Electric accumulator*|
-|:--|:--|
+|:-|:-|
 | ・Bismuth-Magnesium element<br> ・Bromine-Silver element<br> ・Calcium chromate element<br> ・Chloride-Copper-Magnesium element<br> ・Chlorine-Silver element<br> ・Copper oxide galvanic cell<br> ・Dioxysulfate-Mercury element<br> ・Iodine-Silver element<br> ・Lead chloride-Magnesium element<br> ・Lead-Fluoric element<br> ・Lithium bismuth cell<br> ・Lithium-Chrome silver cell<br> ・Lithium-Copper oxide cell<br> ・Lithium-dioxide-Sulfur cell<br> ・Lithium-Fluoride cell<br> ・Lithium Iodine Cell<br> ・Lithium-Iodine-lead cell<br> ・Lithium-Thionyl chloride cell<br> ・Lithium Vanadium Oxide Cell<br> ・Magnesium-M‑DNB element<br> ・Magnesium perchlorate element<br> ・Magnesium vanadium element<br> ・Mercury-Bismuth-Indium element<br> ・Silver chloride-Magnesium element<br> ・Sulfur-Magnesium element<br> ・Zinc Iodate element<br> ・Zinc-Silver chloride element | ・Iron-Air battery<br> ・Iron-Nickel battery<br> ・Lanthanum-Fluoride battery<br> ・Lead-Acid battery<br> ・Lead-Hydrogen battery<br> ・Lead-Tin battery<br> ・Li-Ion battery<br> ・Lithium-chlorine battery<br> ・Lithium-fluorine battery<br> ・Lithium-Iron-Sulfide battery<br> ・Lithium-polymer battery<br> ・Lithium-Sulfur battery<br> ・Manganese-Tin element<br> ・Nickel-Cadmium battery<br> ・Nickel-Metal-hydride battery<br> ・Nickel-Zinc battery<br> ・Silver-Cadmium battery<br> ・Silver-Zinc battery<br> ・Sodium-Nickel-chloride battery<br> ・Sodium Sulfur battery<br> ・Zinc-Air accumulator<br> ・Zinc-Bromine battery<br> ・Zinc-Chlorine accumulator |
 
 
@@ -133,7 +133,7 @@ List of galvanic cells & electric accumulators.
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|

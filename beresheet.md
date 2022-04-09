@@ -11,14 +11,14 @@
 
 
 |*Место<br> посадки*|*Плакат*|*Общий вид*|
-|:--|:--|:--|
+|:-|:-|:-|
 |[![](f/project/b/beresheet/beresheet_land_site01_thumb.webp)](f/project/b/beresheet/beresheet_land_site01.webp)|[![](f/project/b/beresheet/beresheet_pic1_thumb.webp)](f/project/b/beresheet/beresheet_pic1.webp)|[![](f/project/b/beresheet/beresheet_pic2_thumb.webp)](f/project/b/beresheet/beresheet_pic2.webp)|
 
 
 
 ## Характеристики
 |<small>*Характеристика*</small>|*Значение*|
-|:--|:--|
+|:-|:-|
 |Габариты, ㎜|2 000 диаметр (2 300 между посадочными опорами), 1 500 высота|
 |Даты|2019.02.22 старт;<br> 2019.04.11 посадка;<br> 2019.04.14 плановый EoL|
 |Массы, кг|530 стартовая, 150 сухая|
@@ -93,7 +93,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

@@ -12,7 +12,7 @@
 **Application area**
 
 |*[Mercury](mercury.md)*|*[Venus](venus.md)*|*[Earth](earth.md)*|*[Moon](moon.md)*|*[Mars]( mars.md)*|*[And further](index.md)*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |+|in orbit|+|+|+|—|
 
 **BS composition:**  
@@ -22,7 +22,7 @@
 【**Table.** Manufacturers】 Solar cells are manufactured in volume in Japan, Germany, China, Taiwan, Malaysia & the United States, whereas Europe, China, the U.S., & Japan have dominated (94 % or more as of 2013) in installed systems. Other nations are acquiring significant solar cell production capacity.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|…|
@@ -72,7 +72,7 @@ The most effective, from the power engineering point of view, devices for conver
 The average filling factor is ~0.83 (For 2020). PEC degradation is ~3 ‑ 5 %/y for the first 5 years.
 
 |*Planet*|*PEC type*|*In orbit*|*On the surface*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |[Earth](earth.md)|GaAs, efficiency 28.5 %|311 ・ 275 ・ 254|… ・ … ・ …|
 | |Si, efficiency 21.3 %|232 ・ 205 ・ 189|… ・ … ・ …|
 |[Mars](mars.md)|GaAs, efficiency 28.5 %|133 ・ 118 ・ 108|… ・ … ・ …|
@@ -102,7 +102,7 @@ Tandem fabrication techniques have been used to improve the performance of exist
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|

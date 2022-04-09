@@ -2,7 +2,7 @@
 > 2021.04.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/q/qstc_logo1_thumb.webp)](../f/contact/q/qstc_logo1.webp)|<info@aqst-space.ca>, +1-514-375-1098, Fax: …;<br> *300 Joseph Carrier,Vaudreuil-Dorion, Québec, Canada J7V 5A5, Canada*<br> 【<https://www.aqst-space.ca/>・ [space-tech.aerospacedefensereview.com ⎆](https://space-tech.aerospacedefensereview.com/vendor/advanced-quantum-scientific-technology-aqst-delivering-innovative-space-engineering-solutions-cid-25-mid-5.html) ・ [LinkedIn ⎆](https://www.linkedin.com/company/aqstcompany)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|To provide innovative business opportunities with disruptive technological developments, for present & future humankind.|
 |**Values**|…|

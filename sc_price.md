@@ -15,13 +15,13 @@
 ## Цены
 
 |*Год*|*Проект*|*Стоимость, ₽<br> КА*|*Стоимость, ₽<br> 1 гр золота*|*Стоимость, ₽<br> 1 гр КА*|*Стоимость, ₽<br> 1 Мб (инф. на Землю)*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |2014|[Луна‑25-27](луна_26.md)|205 000 000 000|2 395|35 300|78 ‑ 162|
 
 **О деньгах**
 
 |*·     ·     ·     Металл<br>Год, цена за 1 ㎏*|*Золото*|*Платина*|*Калифорний‑252*|*Осмий*|*Осмий‑187*|*Палладий*|*Родий*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |2019, ₽<br>$<br>€|2 875 400<br> 44 237<br> 40 255|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|
 |2018, ₽<br>$<br>€|…<br> 40 589<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|
 |2017, ₽<br>$<br>€|…<br> 40 431<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|…<br> …<br> …|
@@ -49,7 +49,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Project](project.md)】**<br> [Interferometer](interferometer.md)・ [NASA open](nasa_open.md)・ [NASA STI](nasa_sti.md)・ [NIH](nih.md)・ [Past, future and everything](pfaeverything.md)・ [PSDS](us_psds.md) [MGSC](mgsc.md)・ [Raman spectroscopy](raman_spsc.md)・ [SC price](sc_price.md)・ [SC typical forms](sc.md)・ [Tech derivative laws](td_laws.md)・ [View](view.md)・ [XRF](xrf.md)|

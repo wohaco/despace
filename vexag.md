@@ -28,7 +28,7 @@ The Venus Exploration Analysis Group is NASA’s community‑based forum designe
 In addition to interested members of the scientific community, each focus group will include technology experts, NASA representatives, international partner representatives, EPO experts, & the chair. The current focus groups are listed below. Other focus groups may be added, as needed.
 
 |*Steering Committe Member*|*Position/Roles*|*Tenure*|
-|:--|:--|:--|
+|:-|:-|:-|
 |[Darby Dyar](person.md) (Mt.Holyoke Coll.)|Chair|12.2018 ‑ 12.2021|
 |[Noam Izenberg](person.md) (JHUAPL)|Deputy Chair|12.2018 ‑ 12.2021|
 |[Gary Hunter](person.md) (GRC)|Lead, Technology Development<br> & Laboratory Measurements Focus Group|02.2017 ‑ 02.2020|
@@ -74,7 +74,7 @@ Janet Luhmann, & Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was formed
 <small>
 
 |*Event*|*Dates*|*Comments*|
-|:--|:--|:--|
+|:-|:-|:-|
 |[VEXAG 17](vexag_2019.md)|2019.03.20|Venus Town Hall at LPSC, The Woodlands, Texas|
 |[VEXAG 16](vexag_2018.md)|2018.11.06 ‑ 08|Applied Physics Laboratory, Laurel, Maryland|
 |[VEXAG 15](vexag_2017.md)|2017.11.14 ‑ 16|Applied Physics Laboratory, Laurel Maryland|
@@ -101,7 +101,7 @@ Janet Luhmann, & Sushil Atreya, served as VEXAG Co-Chairs since VEXAG was formed
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](contact/cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|

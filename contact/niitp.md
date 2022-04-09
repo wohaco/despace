@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/n/nii_tp_logo1_thumb.webp)](../f/contact/n/nii_tp_logo1.webp)|<info@niitp.ru>, +7(495)231-38-22, Fax: +7(499)204-79-66;<br> *Россия, 127490, Москва, ул. Декабристов, владение 51*<br> 【<http://www.niitp.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

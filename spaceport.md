@@ -9,7 +9,7 @@
 A **spaceport** or **cosmodrome** is a site for [launching](lv.md) (or receiving) [spacecraft](sc.md). The word spaceport, & even more so cosmodrome, has traditionally been used for sites capable of launching spacecraft into orbit around Earth or on interplanetary trajectories.
 
 | |*Activity*|*Spaceport*|*Km to<br> equator*|*Coordinates (location)*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |**AU**|Future|[Whalers Way](whalers_way.md)|3 900|34.91°S 135.65°E|
 | |*Inactive*|Woomera|3 300|30°57′19″S 136°31′56″E|
 | | | | | |
@@ -100,7 +100,7 @@ The satellite was the 48-ton, third stage of a three-stage rocket in a flight fr
 Al-Anbar Space Research Center & other Iraqi launch sites were damaged in the 1991 war, bringing to a halt Iraq’s ability to continue in the Middle East space race with Israel.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|*Closed* (1989 ‑ 1991)|
 |Coordinates|32.78220°N 44.29962°E|
 |Distanse|3 700 ㎞ to the equator;<br> 2 800 ㎞ to [LAV](contact/lav.md);<br> 17 400 ㎞  to [JPL](contact/jpl.md);<br> 50 ㎞ to Baghdad|
@@ -120,7 +120,7 @@ Al-Anbar Space Research Center & other Iraqi launch sites were damaged in the 19
 **Alcântara Launch Center** *(Portuguese: Centro de Lançamento de Alcântara, CLA)* — the Brazilian spaceport in the state of Maranhão, on the North Atlantic coast of the country. Located closer to the equator than [Kourou](spaceport.md).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1990 ‑ …)|
 |[Launch vehicles](lv.md)|[Shavit](shavit.md) ┊ **Sonda** ┊ **VLS**, in perspective [Long March](long_march.md)・ [Proton](proton.md)|
 |Operator|Brazilian Space Agency|
@@ -148,7 +148,7 @@ Al-Anbar Space Research Center & other Iraqi launch sites were damaged in the 19
 Spaceport America is «the world’s first purpose-built commercial spaceport», designed & constructed specifically for commercial users that had not previously been an airport or federal infrastructure of any kind.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2011 ‑ …)|
 |[Launch vehicles](lv.md)| |
 |Operator|New Mexico Spaceport Authority|
@@ -178,7 +178,7 @@ For a number of years, Baikonur has maintained its leading position in the world
 The spaceport is currently leased by the Kazakh Government to Russia until 2050, & is managed jointly by the Roscosmos State Corporation & the Russian Aerospace Forces.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1955 ‑ …)|
 |[Launch vehicles](lv.md)|[Zenit](zenit.md)・ [N1](n_1.md)・ [Proton](proton.md)・ [Soyuz](soyuz.md), as well as Dnepr, Kosmos, R-7, R-16, Rokot, Strela, UR-200, Tsyklon, [Energia](energia.md)|
 |Operator|[Roskosmos](contact/roskosmos.md)|
@@ -205,7 +205,7 @@ The spaceport is currently leased by the Kazakh Government to Russia until 2050,
 For GEO launches, the latitude of 28°27'N has a slight disadvantage compared to other launch sites located closer to the equator. The additional speed due to the rotation of the Earth is 405 ㎧ at Cape Canaveral against 465 ㎧ at the [Kourou](spaceport.md) spaceport. In the case of launches to a high‑inclination (polar) orbit, the latitude does not matter, but Cape Canaveral is not suitable due to the presence of settlements under the launch paths in this direction, so [Vandenberg Base](spaceport.md) is used for such launches(spaceport.md) on the opposite West coast of the United States.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1940 ‑ …)|
 |[Launch vehicles](lv.md)|[Atlas](atlas.md)・ [Delta](delta.md)・ [Falcon](falcon.md) ┊ **Titan**|
 |Operator|Air Force Space Command|
@@ -240,7 +240,7 @@ Cornwall & Virgin Orbit are committing to a partnership seeking to deliver a hor
 The spaceport will perform satellite operations & engage in a lunar mission to deliver payloads to the moon’s orbit.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Inactive** (2021?: ‑ … )|
 |[Launch vehicles](lv.md)|Virgin Orbit plane (modified Boeing 747) & LauncherOne rocket|
 |Operator|UKSA / [ESA](esa.md)|
@@ -267,7 +267,7 @@ The spaceport will perform satellite operations & engage in a lunar mission to d
 **Dombarovsky** is a military airbase 5 ㎞ northwest of the village of Dombarovsky, near Yasny in Russia’s Orenburg Oblast. Operated by the Soviet Air Forces & later by the Russian Air Force, it hosts fighter interceptor squadrons & an [ICBM](icbm.md) base (which has been adapted for commercial satellite launches).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2006 ‑ …)|
 |[Launch vehicles](lv.md)|**Dnepr**, [ICBM](icbm.md)|
 |Operator|Ministry of Defence (Russia)|
@@ -296,7 +296,7 @@ The name of the facility was originally ESRANGE, which was an abbreviation for E
 Esrange was built in 1964 by ESRO, European Space Research Organisation, which later became European Space Agency by merging with ELDO, the European Launcher Development Organisation. The first rocket launch from Esrange occurred on 19 November 1966. In 1972, ownership was transferred to the newly started Swedish Space Corporation.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active as a polygon** (1966 ‑ …)|
 |[Launch vehicles](lv.md)|Sounding & suborbital rockets, such as the **Skylark**, **Scua**, **Centaure** & other rocket lines|
 |Operator|[ESA](contact/esa.md)|
@@ -324,7 +324,7 @@ Esrange was built in 1964 by ESRO, European Space Research Organisation, which l
    -  It has open sea to the east. Rockets launch to the east to take advantage of the angular momentum provided by Earth’s rotation.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1968 ‑ …)|
 |[Launch vehicles](lv.md)|[Arian‑4, 5](arian.md)・ [Vega](vega.md)・ [Союз‑2](soyuz.md)|
 |Operator|[ESA](contact/esa.md)|
@@ -352,7 +352,7 @@ Esrange was built in 1964 by ESRO, European Space Research Organisation, which l
 Between 1947 & 1967 there was a rocketlaunch site, the Interarmy Special Vehicles Test Centre (abbreviated CIEES in French), near Hammaguir, used by France for launching sounding rockets & the satellite carrier «Diamant» between 1965 & 1967. The first French satellite Astérix was launched from there in 1965.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Inactive** (1947 ‑ 1967)|
 |[Launch vehicles](lv.md)|Diamant|
 |Operator|[ESA](contact/esa.md)|
@@ -378,7 +378,7 @@ Between 1947 & 1967 there was a rocketlaunch site, the Interarmy Special Vehicle
 It is the largest spaceport in China (until 1984 — the only one) & the only one used in the national manned program. It also launches military missiles. The polygon at the cosmodrome has an area of 2 800 ㎞².
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1958 ‑ …)|
 |[Launch vehicles](lv.md)|[Long March 1, 2, 4](long_march.md)|
 |Operator|[CNSA](contact/cnsa.md)|
@@ -403,7 +403,7 @@ It is the largest spaceport in China (until 1984 — the only one) & the only on
 **Kapustin Yar** is a missile test site in the North-Western part of the Astrakhan oblast of the Russian Federation.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1946 ‑ …)|
 |[Launch vehicles](lv.md)|Military missiles|
 |Operator|Ministry of Defence (Russia)|
@@ -430,7 +430,7 @@ It is the largest spaceport in China (until 1984 — the only one) & the only on
 At the moment, only 9 % of the area of the cosmodrome is used for its intended purpose, the rest of the territory is a wildlife reserve.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1962 ‑ …)|
 |[Launch vehicles](lv.md)|[Falcon](falcon.md)・ [Shuttle](shuttle.md)・ [SLS](sls.md)|
 |Operator|[NASA](contact/nasa.md)|
@@ -455,7 +455,7 @@ At the moment, only 9 % of the area of the cosmodrome is used for its intended p
 The **Pacific Spaceport Complex – Alaska** (**PSCA**), formerly known as the **Kodiak Launch Complex** (**KLC**), is a dual-use commercial & military spaceport for sub-orbital & orbital launch vehicles. The facility is owned & operated by the Alaska Aerospace Corporation, a public corporation of the State of Alaska, & is located on Kodiak Island in Alaska.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1998 ‑ …)|
 |[Launch vehicles](lv.md)|**Athena‑1** ┊ [Minotaur 4](minotaur.md) ┊ **different ICBMs**|
 |Operator|United States Department of Defense|
@@ -481,7 +481,7 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1960 ‑ …)|
 |[Launch vehicles](lv.md)|[Falcon 1](falcon.md)・ **different ICBMs**|
 |Operator|United States Air Force|
@@ -507,7 +507,7 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 **Naro Space Center** is a South Korean spaceport in South Jeolla’s Goheung County, operated by the state-run [Korea Aerospace Research Institute](contact/kari.md).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2009 ‑ …)|
 |[Launch vehicles](lv.md)|**KSLV**|
 |Operator|[KARI](contact/kari.md)|
@@ -534,7 +534,7 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 Palmachim is used to launch the «Shavit» space launch vehicle into retrograde orbit by launching over the Mediterranean, acting as Israel’s primary spaceport. The launchpad is situated at 31°53′04″N 34°40′49″E. This ensures that rocket debris falls into water, & that the rocket does not fire over regional neighboring countries near Israel that could use the technology. Palmachim is also used to test ballistic missiles, such as the Jericho.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1971 ‑ …)|
 |[Launch vehicles](lv.md)|[Shavit](shavit.md)|
 |Operator|Israeli Air Force|
@@ -561,7 +561,7 @@ Palmachim is used to launch the «Shavit» space launch vehicle into retrograde 
 The cosmodrome has an extensive network of roads & Railways, aviation equipment & a military airfield of the first class, which allows operating aircraft with a maximum landing weight of up to 220 tons, such as the Ilyushin Il-76, Tupolev Tu-154, communication facilities, including space.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active, closed to the public** (1957 ‑ …)|
 |[Launch vehicles](lv.md)|[Angara](angara.md) ┊ **Vostok** ┊ **Kosmos** ┊ **R‑7, 9, 16** ┊ **Rokot** ┊ [Soyuz‑2](soyuz.md) ┊ **Tsyklon** ┊ different ICBMs|
 |Operator|Ministry of Defence (Russia)|
@@ -589,7 +589,7 @@ The cosmodrome has an extensive network of roads & Railways, aviation equipment 
 Launch Complex 1 features a 50-tonne launch platform & tower, a hangar for the Electron rockets, & storage tanks for liquid oxygen & kerosene. During the test phase of launch operations, which began in May 2017, the exclusion zone would likely be an eight-kilometre (five-mile) radius from the pad, & would reduce in size once the site became commercially operational.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2016 ‑ …)|
 |[Launch vehicles](lv.md)|[Electron](electron.md)|
 |Operator|[Rocket Lab](contact/rocket_lab.md)|
@@ -615,7 +615,7 @@ Launch Complex 1 features a 50-tonne launch platform & tower, a hangar for the E
 The ground station is in use & continues to track NASA, ESA & Italian satellites. However, the two platforms fell into disrepair during the 1990s.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|*Inactive* (1964 ‑ 1988)|
 |[Launch vehicles](lv.md)|Virgin Orbit plane & LauncherOne rocket|
 |Operator|Italian Space Agency|
@@ -644,7 +644,7 @@ It consists of an Assembly & command vessel (length 203 m, width 32 m, heigh
 The idea of the sea launch site is to deliver the launch vehicle by sea to the equator, where there are the best conditions for launching. This method was used in 1964-1988 at the marine cosmodrome «[San‑Marko](San_Marco)», which was a stationary anchored platform near the equator in Kenyan territorial waters.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Suspended from 2014, frozen from 2020** (1995 ‑ …)|
 |[Launch vehicles](lv.md)|[Zenit-3SL](zenit.md)・ [Soyuz-5](soyuz.md)|
 |Operator|International consortium Sea Launch Company (SLC)|
@@ -670,7 +670,7 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 **Semnan**, also **Imam Khomeini Spaceport** — the Iranian missile range. It has a launcher for light-class launch vehicles. It is located in the Dasht-e Kavir desert, in the Semnan province, near the city of the same name in Northern Iran.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2008 ‑ …)|
 |[Launch vehicles](lv.md)|[Safir](safir.md) (Iran)・ [Simorgh](simorgh.md) (Iran)|
 |Operator|Iranian Space Agency|
@@ -698,7 +698,7 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
    - **The Future.** Our aim is to have a fully functioning satellite launch facility in place by late 2021, with logistical support allowing commercial & military clients to operate from Unst. Prior to that we plan to have a ground station up & running, allowing us to harvest satellite data & provide a range of services to companies within the space industry & beyond.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|Future (2017 ‑ …)|
 |[Launch vehicles](lv.md)|…|
 |Operator|Shetland Space Center|
@@ -725,7 +725,7 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 **Sohae Satellite Launching Station** (Korean: **서해위성발사장**, also known as **Tongch'ang-dong Space Launch Center & Pongdong-ri**) is a rocket launching site in Tongch'ang-ri, Cholsan County, North Pyongan Province, North Korea. The base is located among hills close to the northern border with China. The second spaceport in the country (after [Tonghae](spaceport.md)).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2011 ‑ …)|
 |[Launch vehicles](lv.md)|[Unha-3](unha.md)|
 |Operator|Korean Committee of Space Technology|
@@ -750,7 +750,7 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 The **SpaceX South Texas Launch Site** is a rocket production facility, test site, & spaceport near Brownsville, Texas, on the US Gulf Coast approximately 35 ㎞ east of Brownsville, Texas, for the private use of [SpaceX](contact/spacex.md).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2018 ‑ …)|
 |[Launch vehicles](lv.md)|[Falcon](falcon.md)|
 |Operator|[SpaceX](contact/spacex.md)|
@@ -775,7 +775,7 @@ The **SpaceX South Texas Launch Site** is a rocket production facility, test sit
 **Satish Dhawan Space Centre** (**SDSC**) or **Sriharikota Range** (**SHAR**) is a rocket launch centre operated by Indian Space Research Organisation ([ISRO](contact/isro.md)). [Spaceport](spaceport.md) is located in Sriharikota in Andhra Pradesh. Sriharikota Range was renamed in 2002 after ISRO’s former chairman Satish Dhawan.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1971 ‑ …)|
 |[Launch vehicles](lv.md)|ASLV ┊ [GSLV](gslv.md)・ [PSLV](pslv.md) ┊ Rohini ┊ SLV|
 |Operator|[ISRO](contact/isro.md)|
@@ -803,7 +803,7 @@ The **SpaceX South Texas Launch Site** is a rocket production facility, test sit
 During the entire existence of the spaceport, five missile launches were made here. The last one was on April 25, 2006. Civil launches moved to [Vostochny](spaceport.md), military-on [Plesetsk](spaceport.md).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|*Closed* (1996 ‑ 2007)|
 |[Launch vehicles](lv.md)|**ICBM RS‑18** ┊ **Start**|
 |Operator|[Roskosmos](contact/roskosmos.md)|
@@ -830,7 +830,7 @@ During the entire existence of the spaceport, five missile launches were made he
 The **Hokkaido Spaceport (HOSPO)** will operate 2 launch sites for orbital & suborbital rocket launches, enabling frequent & reliable launches. HOSPO is already in operation & supporting launches & experiments of private companies, governments, & universities. Hokkaido Spaceport’s sales & PR is subcontracted to the [SPACE COTAN Co., Ltd](contact/space_cotan.md).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1995? ‑ …)|
 |[Launch vehicles](lv.md)|CAMUI, [H-II](h2.md)|
 |Operator|[Japan Aerospace Exploration Agency](contact/jaxa.md)|
@@ -859,7 +859,7 @@ The **Hokkaido Spaceport (HOSPO)** will operate 2 launch sites for orbital & s
 The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chinese: 二十五基地*), is a People’s Republic of China space & defence launch facility ([spaceport](spaceport.md)).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1988 ‑ …)|
 |[Launch vehicles](lv.md)|[Long March 1, 2, 4, 6](long_march.md)|
 |Operator|[CNSA](contact/cnsa.md)|
@@ -884,7 +884,7 @@ The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chine
 **The Tanegashima Space Center** (**種子島宇宙センター**, **Tanegashima Uchū Sentā**) (**TNSC**) is the largest rocket-launch complex in Japan with a total area of about 9.7 ㎞². It is located on the southeast coast of Tanegashima, an island approximately 40 ㎞ south of Kyushu. It was established in 1969 when the National Space Development Agency of Japan (NASDA) was formed, & is now run by [JAXA](contact/jaxa.md).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1969 ‑ …)|
 |[Launch vehicles](lv.md)|[H2](h2.md), H3|
 |Operator|[JAXA](contact/jaxa.md)|
@@ -911,7 +911,7 @@ The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chine
 The orbital inclination is about 86°. The choice of the site location was influenced by factors such as sufficient distance from the demilitarized zone, minimizing the risk of missiles flying over the territory of neighboring countries, the overall distance from large residential areas, the absence of strong winds & steep temperature changes.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1984 ‑ …)|
 |[Launch vehicles](lv.md)|**Taepodong-1** ┊ [은하 2호 (Galaxy 2)](unha.md)|
 |Operator|Korean Committee of Space Technology|
@@ -936,7 +936,7 @@ The orbital inclination is about 86°. The choice of the site location was influ
 **The Uchinoura Space Center** (**内之浦宇宙空間観測所**, **Uchinoura Uchū Kūkan Kansokusho**) is a space launch facility in the Japanese town of Kimotsuki, Kagoshima Prefecture. Before the establishment of the [JAXA space agency](contact/jaxa.md) in 2003, it was simply called the **Kagoshima Space Center** (**鹿児島宇宙空間観測所**) (**KSC**). All of Japan’s scientific satellites were launched from Uchinoura prior to the M-V launch vehicles being decommissioned in 2006. It continues to be used for suborbital launches, & has also been used for the Epsilon orbital launch vehicle. Additionally, the center has antennas for communication with interplanetary space probes.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1962 ‑ …)|
 |[Launch vehicles](lv.md)|**Japanese solid‑fuel launch vehicles**|
 |Operator|[JAXA](contact/jaxa.md)|
@@ -965,7 +965,7 @@ In addition to its military space launch mission, Vandenberg Air Force Base also
 Vandenberg’s location is North of the Pacific ocean — as opposed to [the Kennedy Space Center](Kennedy.md), facilitates the launch of satellites into polar orbit. It is located in the course of the earth’s rotation, which makes the base well-suited for launching reconnaissance satellites.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1941 ‑ …)|
 |[Launch vehicles](lv.md)|[Atlas 5](atlas.md)・ [Delta 4](delta.md)・ [Falcon](falcon.md)・ [Minotaur](minotaur.md)・ [Pegasus](pegasus.md) ┊ **Taurus** ┊ **different ICBMs**|
 |Operator|United States Air Force|
@@ -995,7 +995,7 @@ Features:
    - The initial section of the launch vehicle’s flight path & the areas where the separated parts of the launch vehicle fall are located in sparsely populated areas of the territory of Russia or in neutral waters.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2016 ‑ …)|
 |[Launch vehicles](lv.md)|[Angara](angara.md)・ [Soyuz](soyuz.md)|
 |Operator|[Roskosmos](contact/roskosmos.md)|
@@ -1023,7 +1023,7 @@ Wallops Flight Facility is a rocket launch site on Wallops Island on the Eastern
 It consists of three separate land plots with a total area of 25 ㎞². It was founded in 1945, the first successful launch was made on February 16, 1961.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1945 ‑ …)|
 |[Launch vehicles](lv.md)|[Antares](antares.md)・ [Minotaur](minotaur.md) ┊ **Scout**|
 |Operator|The Goddard Space Flight Center, [NASA](contact/nasa.md)|
@@ -1057,7 +1057,7 @@ The **Wenchang Spacecraft Launch Site** (*文昌航天发射场*) — China’s 
    - tropical climate (1 500 − 2 000 ㎜ of precipitation, 100 days of thunderstorms, periodic typhoons).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (2014 ‑ …)|
 |[Launch vehicles](lv.md)|[LongMarch‑5, 7](long_march.md)|
 |Operator|[CNSA](contact/cnsa.md)|
@@ -1084,7 +1084,7 @@ The **Wenchang Spacecraft Launch Site** (*文昌航天发射场*) — China’s 
 Minimum inclination: 82.0°. Maximum inclination: 84.0°.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active as a polygon** (1946 ‑ …)|
 |[Launch vehicles](lv.md)|Europa‑1 ┊ Redstone ┊ Black Arrow|
 |Operator|Royal Australian Air Force|
@@ -1109,7 +1109,7 @@ Minimum inclination: 82.0°. Maximum inclination: 84.0°.
 The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Space Center**, is a People’s Republic of China space vehicle launch facility − [spaceport](spaceport.md), approximately 64 ㎞ northwest of Xichang, Liangshan Yi Autonomous Prefecture in Sichuan.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Activity|**Active** (1984 ‑ …)|
 |[Launch vehicles](lv.md)|[Long March 2, 3](long_march.md)|
 |Operator|[CNSA](contact/cnsa.md)|
@@ -1130,7 +1130,7 @@ The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Spac
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Spaceport](spaceport.md)】**<br> … <br>• • •<br> **Brazil:** ... ··· inactive: [Whalers Way](whalers_way.md) (3 900), [Woomera](spaceport.md) (3 300) ┊ **Brazil:** [Alcantara](spaceport.md) (260) ┊ **Canada:** [Canso](canso.md) (5 000) ┊ **China:** [Jiuquan](spaceport.md) (5 000), [Taiyuan](spaceport.md) (4 500), [Wenchang](spaceport.md) (2 200), [Xichang](spaceport.md) (3 200) ┊ **EU:** [Esrange](spaceport.md) (7 550), [Guiana (Kourou)](spaceport.md) (650) ··· inactive: [Hammaguir](spaceport.md) (3 450), [San Marco](spaceport.md) (300), [Spaceport Cornwall](spaceport.md) (5 600), [Shetland](spaceport.md) (6 800) ┊ **India:** [Sriharikota](spaceport.md) (1 600) ┊ **Int.:** … ··· inactive: [Sea Launch](spaceport.md) (0) ┊ **Iran:** [Semnan](spaceport.md) (4 300)) ┊ **Iraq:** … ··· inactive: [Al Anbar](spaceport.md) (3 700) ┊ **Israel:** [Palmachim](spaceport.md) (3 700) ┊ **Japan:** [Taiki](spaceport.md) (4 700), [Tanegashima](spaceport.md) (3 400), [Uchinoura](spaceport.md) (3 700) ┊ **Korea N.:** [Sohae](spaceport.md) (4 900), [Tonghae](spaceport.md) (4 700) ┊ **Korea S.:** [Naro](spaceport.md) (4 000) ┊ **RF,CIF:** [Baikonur](spaceport.md) (5 200), [Dombarovsky](spaceport.md) (5 500), [Kapustin Yar](spaceport.md) (5 400), [Plesetsk](spaceport.md) (7 400), [Vostochny](spaceport.md) (5 500) ··· inactive: [Svobodny](spaceport.md) (5 500) ┊ **USA:** [America](spaceport.md) (3 900), [Canaveral](spaceport.md) (3 400), [Kennedy](spaceport.md) (3 400), [Kodiak](spaceport.md) (6 600), [Kwajalein](spaceport.md) (1 000), [Rocket Lab LC1](spaceport.md) (4 700), [SpaceX STLS](spaceport.md) (2 800), [Vandenberg](spaceport.md) (4 200), [Wallops](spaceport.md) (4 500)|

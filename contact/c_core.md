@@ -2,7 +2,7 @@
 > 2021.06.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/c_core_logo1_thumb.webp)](../f/contact/c/c_core_logo1.webp)|<info@c-core.ca>, +1(709)864-8354, Fax: +1(709)864-4706;<br> *Captain Robert A. Bartlett Building, 1 Morrissey Road, St. John’s, NL, Canada, A1B 3X5*<br> 【<https://www.c-core.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/c-core) ・ [Twitter ⎆](https://twitter.com/ccore1975)・ [LinkedIn ⎆](https://www.linkedin.com/company/c-core)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

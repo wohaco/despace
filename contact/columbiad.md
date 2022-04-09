@@ -2,7 +2,7 @@
 > 2020.06.28 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/columbiad_logo1_thumb.webp)](../f/contact/c/columbiad_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<https://www.columbiad.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/columbiad/)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

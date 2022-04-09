@@ -19,7 +19,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик: [Space Micro](space_micro.md). Разработано в 1996 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (CSS-01,02)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|0|
 |Dimensions, ㎜|12.7 × 23.8 × 9|
@@ -56,7 +56,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик: [Space Micro](space_micro.md). Разработано в 1996 году, активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (MSS-01)*|*[Value](si.md)<br> (MSS-02)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition| | |
 |Consumption, W|0|0|
 |Dimensions, ㎜|34.9 × 19.1 × 24.3|34.9 × 19.1 × 10.3|
@@ -97,7 +97,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик и изготовитель [Геофизика‑Космос](contact/geofizika_s.md). Разработан в 2011 году. Активное использование. Покупное изделие. (по состоянию на 20.06.2017)
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|5|
 |Dimensions, ㎜|135 × 145 × 85|
@@ -134,7 +134,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик [Bradford Engineering](contact/bradford_eng.md). Разработано  
 
 |*Characteristics*|*[Value](si.md)<br> (CoSS)*|*[Value](si.md)<br> (CoSS-R)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|Single unit|Single unit|
 |Consumption, W|0 (пассивен)|0 (пассивен)|
 |Dimensions, ㎜|30 × 30 × 15|45 × 37 × 6|
@@ -173,7 +173,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик и изготовитель [Bradford Engineering](contact/bradford_eng.md). Разработано в 1970‑х годах покупное изделие
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|0|
 |Dimensions, ㎜|110 × 110 × 30|
@@ -210,7 +210,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик [Bradford Engineering](contact/bradford_eng.md). Разработано в 2005 году Активное использование. Покупное изделие. (на 2018.03.28)
 
 |*Characteristics*|*[Value](si.md)<br> (FSS)*|*[Value](si.md)<br> (Mini FSS)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Composition|Single unit|Single unit|
 |Consumption, W|0.25|0 (пассивный)|
 |Dimensions, ㎜|108 × 108 × 53|50 × 46 × 17|
@@ -246,7 +246,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик и изготовитель [Jena‑Optronik](contact/jenaoptronik.md), EU. Разработано 2010 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (FSS)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|0.4|
 |Dimensions, ㎜|160 × 145 × 56|
@@ -287,7 +287,7 @@ A list of [Sun sensor](sensor.md).
 Разработчик и изготовитель [ИКИ РАН](contact/iki_ras.md). Разработан в 2005 году. <mark>TBD</mark>
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|2.5|
 |Dimensions, ㎜|120 × 112 × 73|
@@ -324,7 +324,7 @@ A list of [Sun sensor](sensor.md).
 *Разработчик:* [МОКБ Марс](contact/mars_mokb.md). Разработано  
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|0.85|
 |Dimensions, ㎜|93 × 33 × 54|
@@ -358,7 +358,7 @@ A list of [Sun sensor](sensor.md).
 *Разработчик:* [Спутникс](contact/sputnix.md). Разработано  
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|0.05|
 |Dimensions, ㎜|50 × 46 × 17|
@@ -395,7 +395,7 @@ A list of [Sun sensor](sensor.md).
 *Разработчик:* [МОКБ Марс](contact/mars_mokb.md). Разработано в 2008 году.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|12|
 |Dimensions, ㎜|200 × 177 × 96|
@@ -432,7 +432,7 @@ A list of [Sun sensor](sensor.md).
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Солнечный датчик (СД):`**<br> [ПЗр](fov.md) <br>• • •<br> (КА) **Европа:** [FSS](ss_lst.md) (650)・ [FSS](ss_lst.md) (50 ‑ 375)・ [CSS](ss_lst.md) (275)・ [CoSS](ss_lst.md) (15 ‑ 24)  ▮  **РФ:** [ТДС](ss_lst.md) (2 300)・ [347К](ss_lst.md) (700)・ [ОСД](ss_lst.md) (650)・ [СДП-1](ss_lst.md) (400)・ [SX-SUNR-01](ss_lst.md) (40)<br> *(Кубсаты) **США:** [MSS](ss_lst.md) (0.036)・ [CSS](ss_lst.md) (0.02)*|

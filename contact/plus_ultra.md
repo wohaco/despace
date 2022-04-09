@@ -1,8 +1,8 @@
 # Plus Ultra
 > 2022.01.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/p/plus_ultra_logo1_thumb.webp)](../f/contact/p/plus_ultra_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *Jorge Luis Borges 17, 28806 Alcana de Henares, Spain*<br> 【<https://www.plus-ultra.space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/plus-ultra-space-outposts/)・ [Twitter ⎆](https://twitter.com/PlusUltraSpace)】|
-|:--|:--|
+|[![](../f/contact/p/plus_ultra_logo1_thumb.webp)](../f/contact/p/plus_ultra_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Jorge Luis Borges 17, 28806 Alcana de Henares, Spain*<br> 【<https://www.plus-ultra.space/>・ [LinkedIn ⎆](https://www.linkedin.com/company/plus-ultra-space-outposts/)・ [Twitter ⎆](https://twitter.com/PlusUltraSpace)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|We aim to realize humanity’s future by enabling a sustainable space economy. We want to become the backbone of the lunar economy, building new services & capabilities that empower space businesses & facilitate space development to reduce our impact on Earth.<br> We’re convinced that commercialization should drive the lunar economy. We aim to promote interoperability & coordination in the lunar industry, to lower barriers of entry for new players, enable new business models, & foster the commercial transition of the space industry.<br> We believe space development is the key to unlock a bright future. We want to make it happen.|
 |**Values**|…|

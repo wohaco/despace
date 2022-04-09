@@ -2,7 +2,7 @@
 > 2021.09.26 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/g/globvision_logo1_thumb.webp)](../f/contact/g/globvision_logo1.webp)|<info@globvision.com>,  +1(514)855-04-55, Fax: +1(514)855-18-70;<br> *780 Ste-Croix Ave., Suite 100, St. Laurent, Montreal, Quebec, H4L 3Y2, Canada*<br> 【<https://www.globvision.com/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

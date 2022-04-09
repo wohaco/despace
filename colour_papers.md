@@ -26,7 +26,7 @@
 A **blue book** or **bluebook** is an almanac, buyer’s guide or other compilation of statistics & information. The term dates back to the 15th century, when large blue velvet‑covered books were used for record‑keeping by the Parliament of the United Kingdom. The Oxford English Dictionary first records such a usage in 1633. The term has a variety of other meanings.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Academia & education**|・The Yale College Programs of Study, referred to as the Blue Book<br> ・Blue book exam, a type of test involving writing an essay, typically into a pamphlet — traditionally blue colored — called a «blue book»|
 |**Construc-<br>tion**|The Blue Book of Building & Construction, was a yellow pages‑like buyers guide of company information targeted towards commercial construction, first published in 1913. The guide contains information on architects, contractors, manufacturers, suppliers, vendors, & other companies relevant to the commercial bidding & build process. The hardbound book was retired in 2016 & subsequently replaced by a bi‑annual regional magazine called the Who’s Who in Building & Construction. The prior content of the hard bound book is now completely online & called The Blue Book Network. The company which publishes the information is Jefferson Valley, New York‑based Contractor’s Register.|
 |**Computing & technology**|・Blue Book (CD standard), the name of one format from the Rainbow Book standards for compact discs, defining the Enhanced CD standard<br> ・Blue Book (CCITT), a set of telecommunications recommendations issued by the International Telecommunication Union Standardisation Sector in 1988<br> ・A common name of the book Smalltalk‑80: The Language & its Implementation, & any virtual machine implementation based on Smalltalk<br> ・Blue Book protocol, the file transfer protocol of the Coloured Book protocols<br> ・The Java Virtual Machine specification<br> ・Blue Books, spacecraft data & telemetry recommendations made by the [Consultative Committee for Space Data Systems](ccsds.md)<br> ・Ingo Wegener’s Blue Book, an influential textbook in circuit complexity formally titled The Complexity of Boolean Functions (1987)|
@@ -43,7 +43,7 @@ A **blue book** or **bluebook** is an almanac, buyer’s guide or other compilat
 In the European Union, the Commonwealth countries, Hong Kong & the United States, a **green paper** is a tentative government report & consultation document of policy proposals for debate & discussion. A green paper represents the best that the government can propose on the given issue, but, remaining uncommitted, it is able without loss of face to leave its final decision open until it has been able to consider the public reaction to it. Green papers may result in the production of a white paper. They may be seen as grey literature.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Canada**|A green paper in Canada, like a white paper, is an official government document. Green papers tend to be statements not of policy already determined, but of propositions put before the whole nation for discussion. They are produced early in the policy‑making process, while ministerial proposals are still being formulated. Many white papers in Canada have been, in effect, green papers, while at least one green paper — that on immigration & population in 1975 — was released for public debate after the government had already drafted legislation.|
 |**United Kingdom**|Similarly, in the UK, green papers are official consultation documents produced by the government for discussion both inside & outside Parliament, for instance when a government department is considering introducing a new law.|
 |**European Union**|A green paper released by the European Commission is a discussion document intended to stimulate debate & launch a process of consultation, at European level, on a particular topic. A green paper usually presents a range of ideas & is meant to invite interested individuals or organizations to contribute views & information. It may be followed by a white paper, an official set of proposals that is used as a vehicle for their development into law.|
@@ -113,7 +113,7 @@ While a numbered list may be combined with either other type, it is not workable
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

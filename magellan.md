@@ -16,7 +16,7 @@ The Magellan probe was the first interplanetary mission to be launched from the 
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … of [gold](sc_price.md)|
 |Development|1983 ‑ 1989|
@@ -49,7 +49,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑002| |Surface: preliminary map| |C|D| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑014| |Atmosphere: composition.| |D| | |F| |
@@ -97,7 +97,7 @@ During each orbit, the space probe captured radar data while the spacecraft was 
 The spacecraft began returning high‑quality radar images of the Venusian terrain that showed evidence of volcanism, tectonic movement, turbulent surface winds, kilometers of lava channels, and pancake‑shaped domes ([EVN‑025](venus.md)). During cycle 1, the altitude of the spacecraft varied from 2000 ㎞ to 290 ㎞ near periapsis. Magellan completed its first 243 day cycle of radar mapping, providing the first clear views of 83.7 percent of the surface with a resolution between 120 and 300 m/px ([EVN‑022](venus.md)). The spacecraft returned 1 200 Gb of data.
 
 |![](f/project/m/magellan/venus1.webp)|
-|:--|
+|:-|
 |***Mosaic of the «left-looking» data collected during cycle 1***|
 
 **Mission extension**
@@ -110,7 +110,7 @@ The spacecraft began returning high‑quality radar images of the Venusian terra
 Beginning immediately after the end of cycle 1, cycle 2 was intended to provide data for the existing gaps in the map collected during first cycle, including a large portion of the southern hemisphere. To do this, Magellan had to be reoriented, changing the gathering method to «right-looking». Upon completion during cycle 2 provided data for 54.5 % of the surface, and combined with the previous cycle, a map containing 96 % of the surface could be constructed ([EVN‑022](venus.md)).
 
 |![](f/project/m/magellan/venus2.webp)|
-|:--|
+|:-|
 |***Mosaic of the «right-looking» data collected during cycle 2***|
 
 **Mapping cycle 3**
@@ -121,12 +121,12 @@ Beginning immediately after the end of cycle 1, cycle 2 was intended to provide 
 Immediately after cycle 2, cycle 3 began collecting data for stereo imagery on the surface that would later allow the ground team to construct, clear, three-dimensional renderings of the surface ([EVN‑021](venus.md)). Approximately 21.3 % of the surface was imaged in stereo by the end of the cycle 3, increasing the overall coverage of the surface to 98 % ([EVN‑022](venus.md)).
 
 |![](f/project/m/magellan/venus3.webp)|
-|:--|
+|:-|
 |***Map of the stereo imaging collected by Magellan during cycle 3***|
 <br>
 
 |![](f/project/m/magellan/venus4.webp)|
-|:--|
+|:-|
 |***Sedna Plain. The three dimensional picture is based on data from the Magellan spacecraft***|
 
 **Mapping cycle 4**
@@ -200,7 +200,7 @@ The Magellan high‑gain parabolic antenna, oriented 28 ‑ 78 ° to the r
 Radar System (RDRS)
 
 |*Instrument*|*Description*|
-|:--|:--|
+|:-|:-|
 |![](f/project/m/magellan/rls.webp)|The Radar System functioned in three modes: synthetic aperture radar (SAR), altimetry (ALT), and radiometry (RAD). The instrument cycled through the three modes while observing the surface geology, topography, and temperature of Venus using the 3.7 m parabolic, high‑gain antenna and a small fan-beam antenna, located just to the side.<br><br> ・In the Synthetic Aperture Radar mode, the instrument transmitted several thousand long-wave, 12.6 ㎝ microwave pulses every second through the high‑gain antenna, while measuring the doppler shift of each hitting the surface.<br> ・In Altimetry mode, the instrument interleaved pulses with SAR, and operating similarly with the altimetric antenna, recording information regarding the elevation of the surface on Venus.<br> ・In Radiometry mode, the high‑gain antenna was used to record microwave radiothermal emissions from Venus. This data was used to characterize the surface temperature.<br><br>The data was collected at 750 Kb/s to the tape recorder and later transmitted to Earth to be processed into usable images, by the Radar Data Processing Subsystem (RDPS), a collection of ground computers operated by JPL.|
 
 In addition to the radar data, Magellan collected several other types of scientific measurements. These included detailed measurements of the Venus gravitational field ([EVN‑089](venus.md)), measurements of the atmospheric density, and radio occultation data on the atmospheric profile.
@@ -214,7 +214,7 @@ The spacecraft was designed and built by the Martin Marietta Company, and the Je
 To save costs, most of the Magellan probe was made up of spare parts from various missions, including the Voyager program, Galileo, Ulysses, and Mariner 9. The total number of borrowed parts reached 70 %. The overall design of the spacecraft together with the thrusters (from the Voyager missions), was a 10-sided aluminum bus, containing the computers, data recorders, and other subsystems. The height of the spacecraft was 6.4 m, taking into account the solid‑fuel propulsion system, or 4.6 m without it. The mass of the spacecraft at launch was equal to 3 600 ㎏.
 
 |*Parameter*|*Value*|
-|:--|:--|
+|:-|:-|
 |Launch mass|3 600 ㎏|
 |Dry mass|1 035 ㎏|
 |The altitude of the spacecraft|6.4 m|
@@ -226,7 +226,7 @@ To save costs, most of the Magellan probe was made up of spare parts from variou
 The spacecraft’s attitude control (orientation) was designed to be three‑axis stabilized. Magellan design did not lend itself to spinning, so the resulting propulsion system design had to accommodate the challenging control issues with the large solid rocket motor «Star 48B». Due to high thrust, even a 0.5 % SRM alignment error could generate side forces of 445 N. Final conservative estimates of worst‑case side forces resulted in the need for eight 445 N thrusters, two in each quadrant, located out on booms at the maximum radius that the Space Shuttle Orbiter Payload Bay would accommodate (4.4 m diameter).
 
 |*Parameter of Star 48B*|*Value*|
-|:--|:--|
+|:-|:-|
 |Mass of solid propellant propulsion system|2 145 ㎏|
 |Mass of solid propellant|2 014 ㎏|
 |Thrust  SRM|89 000 N|
@@ -271,7 +271,7 @@ The computing system on the spacecraft, partially modified equipment from the Ga
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

@@ -1,8 +1,8 @@
 # SpaceRyde
 > 2021.07.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/spaceryde_logo1_thumb.webp)](../f/contact/s/spaceryde_logo1.webp)|<info@spaceryde.com>, <mark>noworkphone</mark>, Fax: … ;<br> *400 Spinnaker Way, Unit 4, Concord, ON, L4K 5Y9 Canada*<br> 【<https://www.spaceryde.com/>・[Instagram ⎆](https://www.instagram.com/spaceryde/)・[LinkedIn ⎆](https://www.linkedin.com/company/spaceryde)・[Twitter ⎆](https://twitter.com/Space_Ryde)】|
-|:--|:--|
+|[![](../f/contact/s/spaceryde_logo1_thumb.webp)](../f/contact/s/spaceryde_logo1.webp)|<info@spaceryde.com>, <mark>noworkphone</mark>, Fax: …;<br> *400 Spinnaker Way, Unit 4, Concord, ON, L4K 5Y9 Canada*<br> 【<https://www.spaceryde.com/>・[Instagram ⎆](https://www.instagram.com/spaceryde/)・[LinkedIn ⎆](https://www.linkedin.com/company/spaceryde)・[Twitter ⎆](https://twitter.com/Space_Ryde)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

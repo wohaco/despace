@@ -12,7 +12,7 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 <p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Duration|120 days|
 |Program|[Venera-D](venera_d_open_ru.md)|
 |Goal|Determine how seismically active Venus is, determining the speed and style of seismic activity. Meteorology: climate and its evolution|
@@ -32,7 +32,7 @@ Science return from a Venera-D mission would be enhanced with the addition (augm
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑006|T|Exploration: from surface.| | |C| | | |
 |EVN‑007| |Atmosphere: connection between the topography & the atmo circulation.| |D| | | | |
@@ -116,7 +116,7 @@ SAEVe is an enhanced long-lived station that builds on LLISSE offering longer li
 <small>
 
 |*SAEVe Science Objectives*|*Measurements*|
-|:--|:--|
+|:-|:-|
 |1. Determine if Venus is seismically active and characterize the rate and style of activity ([EVN‑029](venus.md))|Measure seismic waveform of seismic waves;<br>Concurrent wind data at time of seismic measurement|
 |2. Determine crust and lithosphere thickness and composition ([EVN‑024](venus.md))|Measure seismic waveform of seismic waves;<br>Concurrent wind data at time of seismic measurement|
 |3. Acquire temporal meteorological data to guide global circulation models ([EVN‑011](venus.md))|Measurement of P, T, wind speed (u), wind direction (Ⅴ), and light|
@@ -146,7 +146,7 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 <small>
 
 |*Data Sheet(s) Completed*|*Instrument or Specific Subsystem*|*Description*|*Size*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |☑|METEO|Temperature, pressures, radiance, and wind speed and direction sensors|Fits on 20 ㎜ station|<0.2|—|—|High|4 to 5|5|TRL driven by radiance sensing|
 |☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 20 ㎜ station|<0.2|—|—|High|5|3| |
 | |Seismometer|Detect and measure seismic events for one Venus solar day. Three axis, 0.1 to 100 s period. Sensitivity better than 1 ng/rtHz|Fits inside SAEVe aeroshell and the lander envelope|0.3|—|—|High|2|6| |
@@ -165,7 +165,7 @@ A top science priority for SAEVe is to understand how seismically active Venus i
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

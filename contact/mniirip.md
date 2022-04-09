@@ -2,7 +2,7 @@
 > 2019.04.01 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/m/mniirip_logo1_thumb.webp)](../f/contact/m/mniirip_logo1.webp)|<info@mniirip.ru>, +7(495)586-17-21, Fax: +7(495)588-69-61;<br> *Россия, 141002, Московская область, г. Мытищи, ул. Колпакова, д. 2А*<br> 【<http://mniirip.ru/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -18,7 +18,7 @@ The original report dates back to 2007.
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|$ 2.7 B ‑ 3.8 B or 86 370 ‑ 121 560 ㎏ of [gold](sc_price.md) in 2009 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
@@ -64,7 +64,7 @@ Targets & objectives:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑006|T|Exploration: from surface.| | |C| | | |
@@ -105,7 +105,7 @@ This study group assessed science goals & investigations, & identified a suitabl
 Findings from the report will be used in NASA’s program planning activities & will provide important input to the ongoing NRC Decadal Survey update.
 
 | | |
-|:--|:--|
+|:-|:-|
 |![](f/project/v/venus_flagship_mission/vfm_01.webp)|![](f/project/v/venus_flagship_mission/vfm_04.webp)|
 |![](f/project/v/venus_flagship_mission/vfm_02.webp)|![](f/project/v/venus_flagship_mission/vfm_03.webp)|
 
@@ -151,7 +151,7 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science drivi
    3. **When & where did the water go?:** ([EVN‑050](venus.md)) Mineralogical ([EVN‑023](venus.md)) & chemical ([EVN‑026](venus.md)) analyses of Venus’ surface, if done with sufficient precision, have the potential to revolutionize our understanding of Venus’ geology. The ability to analyze both rocks & soils & to drill to depths within pristine rocks holds the key to past changes in atmo conditions, volcanism, & climate ([EVN‑042](venus.md), [EVN‑095](venus.md)). Volcanism, tectonism & weathering affect the climate of Earth in profound ways.
 
 |*Science Theme*|*Science Objective*|
-|:--|:--|
+|:-|:-|
 |1. What does the<br> Venus greenhouse<br> tells about<br> climate change|• Understand radiation balance in atmo, clouds & chemical cycles that affect it.<br> ・Understand how superrotation ([EVN‑034](venus.md)) & the general circulation work ([EVN‑011](venus.md)).<br> ・Look for evidence of climate change at the surface.|
 |2. How active<br> is Venus|• Current geologic activity, understand the geologic history.<br> ・How surface/atmo interactions affect rock chemistry & climate ([EVN‑041](venus.md)).<br> ・Place constraints on the structure & dynamics of the interior.|
 |3. When & where<br> did the water go|• Determine how the early atmosphere evolved.<br> ・Identify chemical & isotopic signs of a past ocean. ([EVN‑040](venus.md))<br> ・Crustal composition differences & evidence of continent‑like crust. ([EVN‑024,025](venus.md))|
@@ -198,7 +198,7 @@ Why is Venus so different from Earth ([EVN‑027](venus.md))?: The science drivi
 
 ### VDRM Baseline Science Payload
 |*Orbiter*|*2 Balloons*|*Lander 1*|*Lander 2*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Lifetime (4 years)|In atmosphere (1 month)|Descent Phase (1 ‑ 1.5 hour)|Landed Phase (5 hours)|
 |InSAR — Interferometric [Synthetic Aperture Radar](cam.md)|ASI — Atmospheric Science Instrument (pressure, temperature, wind speed)|ASI|Microscopic imager|
 |Vis‑NIR Imaging Spectrometer|GC/MS — Gas Chromatograph / Mass Spectrometer|Vis‑NIR Cameras with spot spectrometry|XRD / XRF|
@@ -576,7 +576,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 **Study Team — All**
 
 |*Photo*|*Bio*| |*Photo*|*Bio*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |![](f/project/v/venus_flagship_mission/person_balint.webp)|**[Tibor S. Balint](person.md)**<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <tibor.balint@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_bullock.webp)|**[Mark A. Bullock](person.md)**<br> 	Mark Bullock,<br> Chair, Venus Flagship Mission Science & Technology Definition Team,<br> E‑mail:<br> <bullock@boulder.swri.edu>|
 |![](f/project/v/venus_flagship_mission/person_cutts.webp)|**[James A. Cutts](person.md)**<br> Manager,<br> Outer Planet Flagship Mission Studies,<br> Jet Propulsion Laboratory<br> E‑mail:<br> <James.A.Cutts@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_grinspoon.webp)|**[David H. Grinspoon](person.md)**, Curator of Astrobiology,<br> Dept. of Space Sciences Denver Museum of Nature & Science<br> E‑mail:<br> <dgrinspoon@dmns.org>|
 |![](f/project/v/venus_flagship_mission/person_hall.webp)|**[Jeffery L. Hall](person.md)**<br> Study Lead Phase 2,<br> Jet Propulsion Laboratory,<br> E‑mail:<br> <Jeffery.L.Hall@jpl.nasa.gov>|•|![](f/project/v/venus_flagship_mission/person_head.webp)|**[Jim W. Head](person.md)**<br> Venus Flagship Mission Science & Technology Definition Team,<br> Brown University,<br> E‑mail:<br> <james_head@brown.edu>|
@@ -590,7 +590,7 @@ In Europe, the European Venus Explorer (EVE) is a mission proposed to the Europe
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

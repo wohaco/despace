@@ -10,14 +10,14 @@
 **Maspalomas Station** is an INTA‑operated, [ESTRACK](estrack.md) radio antenna station for communication with spacecraft located at the southern area of Gran Canaria island, on the INTA campus. The site hosts a 15‑metre antenna with reception in S‑ and X‑[band](comms.md) and transmission in S‑band.
 
 |*Фото*|*Карта*|
-|:--|:--|
+|:-|:-|
 |[![](f/gs/maspalomas_station_pic1_thumb.webp)](f/gs/maspalomas_station_pic1.webp)|[![](f/gs/maspalomas_station_map1_thumb.webp)](f/gs/maspalomas_station_map1.webp)|
 
 
 
 ## Характеристики
 |*Характеристика*|*Описание*|
-|:--|:--|
+|:-|:-|
 |Антенны|15 м — 1 шт.|
 |Дальность связи, ㎞| |
 |[Диапазоны частот](comms.md)|S, X — 🚀↘; S — ♁↗|
@@ -29,7 +29,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Наземная станция (НС):`**<br> … <br><br> [CDSN](cdsn.md)・ [DSN](dsn.md)・ [ESTRACK](estrack.md)・ [IDSN](idsn.md)・ [SSC_GGSN](ssc_ggsn.md)・ [UDSC](udsc.md)|

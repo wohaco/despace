@@ -15,7 +15,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|…|
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑001| |Atmosphere: preliminary model.| |D|C|F| | |
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
@@ -96,7 +96,7 @@ According to the spectrometer, the first more or less realistic profile of the c
 Based on the analysis of 176 full spectra of 22 samples taken ([EVN‑055](venus.md)), the following results of mass spectrometry measurements were obtained ([EVN‑077](venus.md)):
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
-|:--|:--|
+|:-|:-|
 |Carbon dioxide|97 %|
 |Molecular nitrogen|4.5 ± 0.5 %|
 |Argon|110 ± 20 ppm|
@@ -110,7 +110,7 @@ Based on the analysis of 176 full spectra of 22 samples taken ([EVN‑055](venus
 The gas chromatograph made eight measurements between 42 ㎞ and the surface with the following results ([EVN‑077](venus.md)):
 
 |*Chemical element / compound*|*The amount in the atmosphere*|
-|:--|:--|
+|:-|:-|
 |Molecular nitrogen|2.5 % ± 0.3 %|
 |Water vapor|25-100 ppm|
 |Argon|40 ± 10 ppm|
@@ -186,7 +186,7 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carryi
    - Two panoramic color TV cameras.
 
 |*Characteristic*|*Value*|
-|:--|:--|
+|:-|:-|
 |Filters|Transparent, Red, Green, Blue|
 |Quality|252 x 1024 pixels|
 |Coding|9 bits|
@@ -216,7 +216,7 @@ Venera 11 and Venera 12 spacecrafts completely duplicated each other, carryi
 The spacecraft were generally identical to the preceding Venera 9 and 10 (Venera 11 and Venera 12 orbiters were built on the basis of 4MV, variant 4V-1, like [Venera 9](venera_9_10.md), [Venera 10](venera_9_10.md)). The data relay rate from the landers was increased to 3 Kb/s per channel. The configuration of the landing craft differed in the absence of illumination lamps, camera lens covers were also redesigned. Simplified scheme entry parachute system and reduced its mass. Instead of two successively introduced supersonic braking parachutes, one remained, and also instead of a system of three main parachutes, only one was left. Some scientific instruments were redesigned, others were added, and some instruments were mounted on the shock absorber ring.
 
 |*Parameter*|*Value*|
-|:--|:--|
+|:-|:-|
 |Launch mass of Venera 11|4 450 ㎏|
 |Launch mass of Venera 12|4 461 ㎏|
 |Fly‑by spacecraft’s mass (without fuel)|2 127 ㎏|
@@ -248,7 +248,7 @@ The spacecraft has a height of 2.8 m and a solar panel span of 6.7 m. The ce
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

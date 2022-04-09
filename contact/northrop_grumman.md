@@ -2,7 +2,7 @@
 > 2019.08.05 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/n/northrop_grumman_logo1_thumb.webp)](../f/contact/n/northrop_grumman_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: +1(703)280-29-00;<br> *2980 Fairview ㎩rk Drive, West Falls Church, Virginia, United States*<br> 【<http://www.northropgrumman.com/>・ [Wikipedia 1 ⎆](https://en.wikipedia.org/wiki/Northrop_Grumman)・ [Wikipedia 2 ⎆](https://en.wikipedia.org/wiki/Grumman_LLV)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
@@ -20,7 +20,7 @@
    1. Судостроение
 
 | | |
-|:--|:--|
+|:-|:-|
 |[![](../f/contact/n/northrop_grumman_usaf_b_2_spirit_thumb.webp)](../f/contact/n/northrop_grumman_usaf_b_2_spirit.webp)|[![](../f/contact/n/northrop_grumman_small_usps_truck_thumb.webp)](../f/contact/n/northrop_grumman_small_usps_truck.webp)|
 |Northrop Grumman manufactured<br> the B-2 Spirit strategic bomber.|Grumman Long Life Vehicle (LLV)|
 

@@ -64,7 +64,7 @@ With the growth of the volume of documents, experience & equipment, the threshol
 **A table.** Ways of exchange & accumulation of knowledge [⁽¹⁾](https://habr.com/ru/company/domclick/blog/578822/)
 
 | |*Effec-<br>tive-<br>ness (E)*|*Complexity of<br> implemen-<br>tation (C)*|*Total<br> score<br> (E×(10−C))*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Creation of communities & guilds for different technologies|7|10|0|
 |Training within the company (internal courses)|8|9|8|
 |Platforms for training reports|3|7|9|
@@ -97,7 +97,7 @@ With the growth of the volume of documents, experience & equipment, the threshol
 
 ## Термины
 | | |
-|:--|:--|
+|:-|:-|
 |**Наука**|область человеческой деятельности, направленная на выработку и систематизацию объективных знаний о действительности. Основой этой деятельности является сбор фактов, их постоянное обновление и систематизация, критический анализ и, на этой основе, синтез новых знаний или обобщений, которые не только описывают наблюдаемые природные или общественные явления, но и позволяют построить причинно‑следственные связи с конечной целью прогнозирования. Те теории и гипотезы, которые подтверждаются фактами или опытами, формулируются в виде законов природы или общества. Наука в широком смысле включает в себя все условия и компоненты соответствующей деятельности: ➀ разделение и кооперацию научного труда; ➁ научные учреждения, экспериментальное и лабораторное оборудование; ➂ методы научно‑исследовательской работы; ➃ понятийный и категориальный аппарат; ➄ систему научной информации; ➅ всю сумму накопленных ранее научных знаний.|
 |**Теория**|(греч. θεωρία — рассмотрение, исследование) — учение, система идей или принципов. Является совокупностью обобщённых положений, образующих науку или её раздел. Теория выступает как форма синтетического знания, в границах которой отдельные понятия, гипотезы и законы теряют прежнюю автономность и становятся элементами целостной системы. В теории одни суждения выводятся из других суждений на основе некоторых правил логического вывода. Теории формулируются, разрабатываются и проверяются в соответствии с научным методом. Способность прогнозировать — важное следствие теоретического построения.|
 |**Концепция**|(от лат. conceptio — понимание, система) — определённый способ понимания, трактовки каких‑либо явлений, основная точка зрения, руководящая идея для их освещения; система взглядов на явления в мире, в природе, в обществе; ведущий замысел, конструктивный принцип в научной, художественной, технической, политической и других видах деятельности; комплекс взглядов, связанных между собой и вытекающих один из другого, система путей решения выбранной задачи;способ понимания, различения и трактовки каких‑либо явлений, порождающие присущие только для данного способа соображения и выводы. Концепция определяет стратегию действий. Различным концепциям соответствует свой терминологический аппарат.|
@@ -115,7 +115,7 @@ With the growth of the volume of documents, experience & equipment, the threshol
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Control](Control.md)】**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](se.md)・ [Meeting](meeting.md)・ [MCC](scs.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](contract.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](se.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|

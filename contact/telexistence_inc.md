@@ -1,13 +1,13 @@
 # Telexistence Inc.
 > 2021.10.21 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/t/telexistence_inc_logo1_thumb.webp)](../f/contact/t/telexistence_inc_logo1.webp)|<info@tx-inc.com>, +81(3)6427-4001, Fax: … ;<br> *Cross Dock Harumi 1st Floor, 4-7-4 Harumi, Chuo-ku, Tokyo, 104-0053, Japan*<br> 【<https://tx-inc.com/> ・ [Facebook ⎆](https://www.facebook.com/telexistence) ・ [LinkedIn ⎆](https://www.linkedin.com/company/telexistenceinc/) ・ [Twitter ⎆](https://twitter.com/telexistenceinc)】|
-|:--|:--|
+|[![](../f/contact/t/telexistence_inc_logo1_thumb.webp)](../f/contact/t/telexistence_inc_logo1.webp)|<info@tx-inc.com>, +81(3)6427-4001, Fax: …;<br> *Cross Dock Harumi 1st Floor, 4-7-4 Harumi, Chuo-ku, Tokyo, 104-0053, Japan*<br> 【<https://tx-inc.com/> ・ [Facebook ⎆](https://www.facebook.com/telexistence) ・ [LinkedIn ⎆](https://www.linkedin.com/company/telexistenceinc/) ・ [Twitter ⎆](https://twitter.com/telexistenceinc)】|
+|:-|:-|
 |**Mission**|To create the world where every single person on every planet will benefit from the robotic revolution|
 |**Vision**|Grasping every object with our hands, from anywhere|
 |**Values**|➀ Freedom & Responsibility, ➁ Move Fast, Deliver First, ➂ Systematic Innovator of Scale, ➃ Begin with the End, ➄ Interdependence|
 |**Business**|Design, manufacture, & operate robots|
-|**[MGMT](../mgmt.md)**|・Co‑Founder, CEO — Jin Tomioka|
+|**[MGMT](../mgmt.md)**|・Co‑CEO, Founder — Jin Tomioka|
 
 **Telexistence Inc.** was founded in 2017 to design, manufacture, & operate robots in anywhere we see an opportunity of pushing the fundamental state of art forward. Founders: Charith Fernando, Ferunando Charisu, Susumu Tachi.
 

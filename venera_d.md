@@ -16,7 +16,7 @@ This document provides a brief description of the mission and apparatus; the des
 <p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Duration|3.5 years|
 |Operator|…|
@@ -50,7 +50,7 @@ Targets and investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑003|T|Exploration: from inside of atmosphere.| |D|C| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑006|T|Exploration: from surface.| | |C| | | |
@@ -175,7 +175,7 @@ The total development time ranges from 7 to 10 yr and will be a function of spee
 <small>
 
 |*Phase (RU)*|*Phase*|*Description*|*Period (Fast)*|*Period (Realistic)*|*Period (Long)*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |Аванпроект|Phase A|Creation of general concept of the spacecraft, specification of requirements and characteristics, design development, modification analyses of the spacecraft, and selection of cooperation modes.|**1.5**<br>June 2019 — January 2021|**1.5**<br>June 2019 — January 2021|**2**<br>June 2019 — June 2021|
 |Эскизный проект|Phase B|Detailed development of selected design, principal decisions, and verification of cooperation.|**2**<br>January 2021 — January 2023|**3**<br>January 2021 — January 2024|**3**<br>June 2021 — June 2024|
 |Разработка конструкторской документации|Phase C|Final appearance development of the spacecraft and its assembly drawings and raw models.|**1.5**<br>January 2023 — June 2024|**2**<br>January 2024 — January 2026|**2.5**<br>June 2024 — January 2027|
@@ -230,7 +230,7 @@ Potentially, the Venera-D mission can provide answers to some / many questions, 
 <small>
 
 |*Objective Title*|*Science Objectives*|*Measurements*|*Instrument*|*Priority*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |O1a. Vertical structure of mesosphere, temperature, clouds, and dynamics of cloud-born gases ([EVN‑010](venus.md), [EVN‑015](venus.md), [EVN‑074](venus.md))|Characterize the three-dimensional (3D) atmospheric composition, including  CO₂ и H₂O, temperature field, cloud structure and thermal winds, thermal tides, and thermal balance in 55 to 100 ㎞ on both the day and night sides|1. Measure the spectrum between 5 and 45 μm with a sampling of Δv = 1 ㎝⁻¹;<br>2. Depending on latitude and local time, retrieve the temperature profiles at 55 to 100 ㎞  and vertical aerosol profile to recover dynamics, structure and composition of upper clouds, altitude of upper boundary of clouds and scale height, and upper boundary of the middle clouds SO₂, Н₂О between 55 and 75 ㎞.|Fourier Transform Spectrometer (planetary Fourier spectrometer-Venera-D (PFS-VD))|High|
 |O1b. Vertical structure of troposphere, temperature, clouds, composition, and dynamics ([EVN‑010](venus.md), [EVN‑017](venus.md), [EVN‑074](venus.md))|Determine the structure, composition, dynamics, and thermal balance of the atmosphere from 10 to 60 ㎞ on both day and night sides. Simultaneous measurements with PFS-VD allow obtaining atmospheric structure and dynamics from 10 to 100 ㎞.|Perform measurements from 10 to 90 ㎓ (0.3 to 3 m) using three channels and several zenith angles to measure temperature profiles, mixing ratios of H₂SO₄ and SO₂.|Millimeter-radiometer|High|
 |O2. Atmospheric dynamics and airglow ([EVN‑008](venus.md), [EVN‑035](venus.md))|1. Determine limb and nadir detailed UV spectral characteristics to identify the «unknown UV-absorber(s)»;<br>2. To study small-scale atmospheric dynamics, cloud structure, and cloud tracking;<br>3. Analyze cloud components (SO₂, SO, «unknown UV-absorber(s)») and search for night side airglow.|1. Measure spectra and perform imaging at 190 to 490 nm with a sampling of Δλ < 0.4 nm;<br>2. Map SO₂ and SO abundance from 0.19 to 0.32 μm;<br>3. Map the «unknown UV-absorber(s)» in the 0.32 to 0.49 μm range with high spectral and spatial resolution (~100 m);<br>4. Map cloud structure and wind speed from imaging between 0.19 and 0.49 μm;<br>5. Measure NO, CO, O₂ to study night glow.|UV imaging spectrometer (e.g., Venus Ultraviolet-visual Mapping Spectrometer (UVMAS))|High|
@@ -273,7 +273,7 @@ Atmospheric Science:
 <small>
 
 |*Objective Title*|*Science Objectives*|*Measurements*|*Instrument*|*Priority*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |L1. Atmosphere composition during descent ([EVN‑014](venus.md), [EVN‑077](venus.md))|Determine composition, chemistry, greenhouse, photochemistry, origin, and evolution of the atmosphere, dynamics, and atmosphere-surface interaction.|In situ measurements of chemical composition of atmosphere, including abundances of gases SO₂, CO, COS, H₂O, NO₂, HCl, HF, and their isotopologues and isotopic ratios D/H, ¹³C/¹²C, ¹⁸O/¹⁷O/¹⁶O, ³⁴S/³³S/³²S uring descent from 65 ㎞ and after landing.|Multichannel tunable diode laser (MTDL) spectrometer|High|
 |L1. Atmosphere composition during descent ([EVN‑014](venus.md), [EVN‑077](venus.md))|Determine content and isotopic composition of light and noble gases (Xe, Kr) in the atmosphere. Verify CO₂ and N₂ gradient at altitudes below 120 ㎞.|During the descent, measure chemical composition of Venus’ atmosphere and of aerosols of clouds.|Chemical analyses package (CAP) — gas chromatograph-mass spectrometer (GCMS)|High|
 |L2a. Atmosphere composition at the surface ([EVN‑014](venus.md), [EVN‑077](venus.md))|Determine the chemical composition of the atmosphere and clouds.|At surface, measure the chemical composition of the atmosphere.|Chemical analyses package (CAP) — gas chromatograph-mass spectrometer (GCMS)|High|
@@ -291,7 +291,7 @@ Surface Geology and Geophysics:
 <small>
 
 |*Objective Title*|*Science Objectives*|*Measurements*|*Instrument*|*Priority*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |L5. Surface structure and morphology ([EVN‑025](venus.md), [EVN‑044](venus.md))|Characterize surface structure, morphology, and relief at 100 to 10 m/px during descent; characterize the surface at 1 to 0.01 m/px at surface. Sample characterization at <0.2 ㎜/px.|1. Surface imaging during descent and measuring optical properties of the atmosphere;<br>2. Imaging on the surface and measuring optical properties of the near surface atmosphere;<br>3. Stereo imaging of surface (field of view (FOV) 30° to 45° and angular resolution ~0.0005 ad) starting from an altitude of several kilometers and on the surface;<br>4. Panoramic stereo imaging of the surface. Detailed stereo imaging of surface with the spatial resolution better than 0.2 ㎜.|Imaging system (descent imager, panoramic camera, and microscopic imager).|High|
 |L6. Surface elemental composition ([EVN‑026](venus.md))|Determine the elemental composition of surface rocks with emphasis on trace elements, including the radioactive isotopes of K, U, and Th.|1. Measure the gamma‑ray spectrum of the surface induced by the flux of neutrons with energies 14 MeV;<br>2. Spectrum of gamma radiation from natural radioactive elements of the surface. XRF spectra to determine the elemental composition;<br>3. Chemical composition of a rocky sample (which must be delivered inside the lander).|・Active gamma-spectrometer (e.g., Active Gamma and Neutron Spectrometric Soil Analysis (AGNESSA));<br>• XRF mode of Mössbauer spectrometer;<br>• CAP;<br>• XRD/XRF|High|
 |L7. Mineral phases ([EVN‑023](venus.md))|Identification of mineral phases, containing Fe (Fe²⁺, Fe³⁺, Fe⁶⁺). To address atmosphere and surface evolution along with surface minerals (search for any possible bound water e.g., phyllosilicates). Delivery of at least 1 g of rocks inside the lander.|Measure Mössbauer spectra of the surface rocks.|Miniaturized Mössbauer spectrometer (MIMOS-2A).|High|
@@ -308,7 +308,7 @@ Surface Geology and Geophysics:
 <small>
 
 |*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1 ☑|FS|Thermal IR Fourier transform spectrometer.<br>Spectrum 250 to 2 000 ㎝⁻¹<br>λ = от 5 to 40 μm,,<br>Δν =1 ㎝⁻¹<br>1 s/spectrum, whole mission|400х300х200|15|15|2.197|H|6 to 7|3| |
 |2 ☑|UV mapping spectrometer|Imaging UV spectrometer.<br>λ = 190 to 490 nm,,<br>Δλ = 0.3 nm,,<br>continuous imaging during mission, ~1 s/image|150х150х200|3|4|17.578|H|от 4 до 7|?:| |
 |3 ☑|Visible to MIR spectrometer|Visual and IR imaging spectrometer multiple channels:<br>need 0.4-1.9 μm, Δλ = 2 нм и 1.5-5.7 μm, Δλ = 5 nm;<br>Typical acquisition time about 20 min per cube.<br>Arbitrary frequency|550×500×230|25|21|81.25<br>(1.7 ㎇/cube, after compression)|H|5 to 9|4|Instrument radiator must be placed on a cold face of the orbiter (direct sunlight must be avoided), to retain effective cooling of IR channel|
@@ -333,7 +333,7 @@ Surface Geology and Geophysics:
 <small>
 
 |*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1|XRD/XRF|Elemental composition|275×162×190|5|30|<0.098 ㎆/sample|H|5|?:|Sample volume required is 50 to 200 mg of <150 μm grain size. Ingested sample required|
 |2 ☑|Mössbauer spectrometer|Backscattering Spectrum of Mössbauer radiation. Mineralogy of Fe-containing rocks, oxidation state of iron, analysis of rock-forming elements. Bulk chemical composition|40×40×100|0.5|3|0.146 ㎆/sample|H|7|3|Detector cooling and integration time requirements may make this instrument infeasible for this lander concept. Distance to sample as close as possible (in the range 1 to 2 ㎝, or closer), if possible even mechanical contact (but not required). Pressure: high vacuum (10 to 6 bar) to several bar; temperature: (a) operating: -100 ℃ to about +30/+40 ℃; (b) nonoperational: –100 ℃ to +70/+90 ℃. Ingested sample required. Sample volume required is TBD|
 |3 ☑|Camera system|Visible range color imaging system consisting of one landing, four to five panoramic and one close range cameras, mass memory/data compression unit (DCU) and cables. Five + two images, each image up to 2048×2048 px. Stereo imaging during the landing 30 to 45°, panoramic image of the surface at landing place|Camera heads 80×80×60 each;<br>DCU 100×120×80|Camera heads 0.2 each;<br>DCU 1.5|12|0.6 ㎆ per image (compressed), 2.4 ㎆ panorama, 0.6 ㎆ closeup.<br>Total estimate: descent phase: 1 ‑ 8 ㎆; landing phase 9.3 ㎆|H|4|2|Electronics temperature range up to +50 ℃. At least three sessions, more is better, number of imaging sets is limited by data downlink capacity|
@@ -351,7 +351,7 @@ The table below shows the additional modules that are being offered to expand th
 <small>
 
 |*Module*|*Impact to prioritized mission goals*|*Description and scientific goals*|*Priority*|*Additional information*|*Level of technological risk*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |[SAEVe](saeve.md) (1 to 3 stations, two stations placed landed at appropriate distance from each other) — Seismic and Atmospheric Exploration of Venus ([EVN‑058](venus.md))|Enables a more complete study of lander + LLISSE Goals 1, 2, 3, 5, 6, 7, 8, and 9; and orbiter Goal 1.|A potential mission contribution to deliver small landers to the surface of Venus and have them return high‑value science for 120 days ([EVN‑069](venus.md)). The science implemented by SAEVe is primarily focused on seismometry ([EVN‑058](venus.md)) and temporal meteorology measurements that are enabled only by long-duration operations — measurements of heat flows ([EVN‑019](venus.md)), the interaction between the surface and the atmosphere ([EVN‑041](venus.md)), the properties of the atmosphere at the surface (including temperature, pressure, wind speed and direction, and thermal updrafts) ([EVN‑031](venus.md)), it also allows you to determine the thickness of the crust at the landing site. The remarkable operating life of SAEVe is enabled by the same three key elements that enable LLISSE, namely:<br> ・high‑temperature electronics and systems that operate without cooling at Venus surface conditions ([EVN‑094](venus.md))<br> ・use of simple instrumentation and supporting avionics with emphasis on low data volume instruments and sensors<br> ・minimizing energy utilization through a novel. The mass of each station is about 25 ㎏.|**1**|SAEVe is an enhanced long-lived station that builds on LLISSE offering longer life and additional instruments, most importantly seismometers. Because SAEVe uses the same core subsystems as LLISSE, it is in similar state of readiness for most of the platform with the exception of the seismometer, which needs significant development.|High|
 |AP — Aerial Platform|Enables a more complete study of orbiter Goals 1, 2, and 3.|Complete sustained in situ measurement of aerosol and trace gas composition, cloud formation cycle, and atmospheric state (T, P, wind speed and direction) over time period of ~weeks to 1 month, tracing processes not accessible from main orbiter as a function of LST and underlying topography at altitudes ~50 to 65 ㎞. The operating life is up to 120 days.|**2**|Conventional balloons have been proven ([aerostats VeGa-1 и VeGa-2](вега_1_2.md)), but long-lived balloons (LLBs) are desired as is mobility. Both vertically and horizontally mobile platforms will require significant development and testing. As with landers, all instruments would require adaptation to the Venus environment, including sulfuric acid clouds at certain altitudes.|Medium (Conventional)<br>High (Mobile)|
 |Secondary sub-satellite L1 ([EVN‑056](venus.md))|Enables more complete study of orbiter Goal 1, 2, 3, and 5.|Complete continuous trace of the conditions upstream of the solar wind flow (via subsatellite), enabling high cadence two-point measurement of solar wind interaction based on daily in situ ionospheric processes observed from main orbiter at periapsis through lifetime of mission ([EVN‑097](venus.md)).<br>Complete continuous trace of full disk (=12-hr LST) day side atmosphere radiance through lifetime of mission at or near zero phase, tracing evolution of cloud top albedo (cloud opacity), allows self-calibration of main orbiter observations ([EVN‑080](venus.md)).<br>Complete high cadence radio occultation measurements of T over broad range of latitudes.<br>Sub-satellite at L1 can provide additional measurements for the Orbiter, as well as provide almost complete continuous radio visibility of the day side of Venus, thereby maintaining communication with potential long-lived stations on the surface and in the atmosphere of the day side of the planet, acting as a communications relay ([EVN‑092](venus.md)). This will significantly increase the amount of data collected, because in situ platforms are not expected to be able to store data. Thus, data collection is only possible if there is a communication channel. The period of active operation is about 3 years.|**3**|While subsatellites and small orbiters are common and seen as low relative technical risk, getting them to Venus L1 or L2 locations has not been done before and, depending on the scale of the subsatellites and the distance, propulsion and communication systems may need developed beyond what is available today. Therefore, relative readiness is deemed moderate.|Medium|
@@ -367,7 +367,7 @@ The table below shows the additional modules that are being offered to expand th
 <small>
 
 |*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |☑|METEO|Temperature, pressure, radiance, and wind speed and direction sensors|Fits on 200 ㎜ station|<0.2|—|—|H|4 to 5|5|TRL driven by radiance sensing|
 |☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 200 ㎜ station|<0.2|—|—|H|5|3| |
 
@@ -378,7 +378,7 @@ The table below shows the additional modules that are being offered to expand th
 <small>
 
 |*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |☑|METEO|Temperature, pressure, radiance, and wind speed and direction sensors|Fits on 200 ㎜ station|<0.2|—|—|H|4 to 5|5|TRL driven by radiance sensing|
 |☑|Microelectromechanical systems chemical sensor|Detect and measure concentration of preselected element set|Fits on 200 ㎜ station|<0.2|—|—|H|5|3| |
 | |Seismometer|Detect and measure seismic events for one Venus solar day. Three axis, 0.1 to 100 s period. Sensitivity better than 1 ng/√Hz|Fits inside SAEVe aeroshell and the lander envelope|0.3|—|—|H|2|6| |
@@ -391,7 +391,7 @@ The table below shows the additional modules that are being offered to expand th
 <small>
 
 |*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1 ☑|METEO package (sensors)|Meteorological instruments (T — temperature, P — pressure, W — wind direction, W' — wind speed, dT — temperature gradient, E — illumination, ω — speed of angular rotation, H — altitude)|1 dm³|0.5|2.5|0.14 KB/measurement|H|2 to 7|3| |
 |2 ☑|Raman|Raman, possibly in combination with LIDAR. Atmospheric aerosols, molecular species (e.g., H₂SO₄, SO₂, H₂S, CO₂).|304.8×304.8×254|8|80|31 500|H|5|3| |
 |3 ☑|UV-VIS spectrometer|UV-VIS spectrograph operating from 0.23 to 0.66 μm 0.3, nm resolution 0.23 to 0.32 μm, broad ~1.0 nm resolution longward|120×250×500|10|35|8 KB per image (uncompressed); ~5 ㎆ total|M|3|6 to 8|Will need a small window, and accommodation of external gas chamber comparable to that used on VEGA Descent Lander|
@@ -407,7 +407,7 @@ The table below shows the additional modules that are being offered to expand th
 <small>
 
 |*Instrument Number (in priority order by platform)*|*Instrument or Specific Subsystem*|*Description*|*Size, ㎜*|*Mass, ㎏*|*Power, W*|*Data, ㎆/h*|*Science Priority*|*TRL*|*Time Required to be Ready for Mission, Years*|*Rationale / Other Comments*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1 ☑|Panoramic energy massanalyzer of ions|Panoramic ion energy-mass analyzer with energy range from 50 eV to 5 keV. Ion distribution function and ion mass composition in nearly 2π FOV|140×156×156|2.5|4|1.758|M|6 to 7|1 to 3|2π FOV should be directed to the Sun and should not be blocked|
 |2 ☑|ELSPEC|Fast electron energy analyzer with energy range 10 eV to 10 keV. Electron distribution function|114×120×165|2|2.5|1.758|M|3|1 to 3|FOV should be directed to 90° of the Sun|
 |3 ☑|Neutral particle spectrometer|Neutral particle mass composition|109×145×145|1.4|2.5|0.439|M|3|1 to 3|FOV should be directed to the Sun|
@@ -490,7 +490,7 @@ In the future, the concept of VAMP was refused.
 <small>
 
 |*Complex/system*|*Mass, ㎏*|*Mass, ㎏ (for the worst conditions)*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**1. Orbiter**|4 650|4 450|
 |1.1 Orbiter dry mass|990|990|
 |— On-board cable system|74|74|
@@ -525,7 +525,7 @@ In the future, the concept of VAMP was refused.
 <small>
 
 |*Module/system*|*Average, W*|*Max, W*|
-|:--|:--|:--|
+|:-|:-|:-|
 |**1. Transit Earth-Venus:**|1 150|1 700|
 |— Service systems ОМ|700|1 100|
 |— Heating of LМ|400|500|
@@ -628,7 +628,7 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 <small>
 
 |°|*[Org.](contact.md)*|*[Member](contact.md)*|
-|:--|:--|:--|
+|:-|:-|:-|
 | |**Lavochkin Association, 203**|[Merkulov Petr Vladimirovich](contact/меркулов1.md)<br>(Меркулов, Пётр Владимирович) — Project Manager|
 | |**500**|[Sysoev Valentin Konstantinovich](contact/сысоев1.md)<br>(Сысоев, Валентин Константинович) — science and technology provision|
 | |**500**|[Eroshkin Vladimir Nikitovich](contact/ерошкин1.md)<br>(Ерошкин, Владимир Никитович)|
@@ -700,7 +700,7 @@ The mass of the lander is assumed to be 1 750 ㎏, the mass of payload is 12
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Проекты:`**<br> [PSDS](us_psds.md)・ [Индексы проектов на НПОЛ](contact/lav.md)・ [Маскоты](contact/lav.md)・ [Морская группировка космических аппаратов](mgsc.md)・ [О прошлом, будущем и всём таком](pfaeverything.md)・ [Стоимость грамма КА](sc_price.md)・ [Стоимость работ на НПОЛ](contact/lav.md)・ [Типовые формы КА](ка_типформы.md)|

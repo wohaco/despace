@@ -19,7 +19,7 @@ A list of [Data storage](ds.md) units.
 *Разработчик:* [НПП Саит](contact/sait_ltd.md). Разработано ранее 2013 года активное применение
 
 |*Characteristics*|*[Value](si.md)<br> (OBMU)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|12 чтение/запись, 0 в простое|
 |Dimensions, ㎜|292 × 264 × 27|
@@ -57,7 +57,7 @@ A list of [Data storage](ds.md) units.
 Разработчик [AAC CS](contact/aac_cs.md). Разработано ранее 2019 года активное применение
 
 |*Characteristics*|*[Value](si.md)<br> (Sirius TCM)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|1.3|
 |Dimensions, ㎜|96 × 91 × 18|
@@ -93,7 +93,7 @@ A list of [Data storage](ds.md) units.
 *Разработчик:* [ADS](contact/ads.md). Разработано в 1990 году. Активное применение.
 
 |*Characteristics*|*[Value](si.md)<br> (SSR)*|
-|:--|:--|
+|:-|:-|
 |Consumption, W|10 ‑ 100|
 |Dimensions, ㎜|300 ‑ 600 × 250 × 250|
 |[Interfaces](interface.md)|[SpaceWire](spacewire.md), [LVDS](lvds.md) link, [МКО](mil_std_1553.md), Wizard Link, Channel Link, GigaLink, [RS-422](rs_xxx.md) UART, Parallel|
@@ -131,7 +131,7 @@ A list of [Data storage](ds.md) units.
 Разработчик [НПО ИТ](contact/npoit.md).  
 
 |*Characteristics*|*[Value](si.md)<br> (СЗИ-М)*|
-|:--|:--|
+|:-|:-|
 |Composition|3 блока:<br> устройство преобразования УП‑М — 2 шт. (с возможностью расширения до 8);<br> устройство накопителя УН‑М в ударотеплозащищённом корпусе — 1 шт.|
 |Consumption, W|18.85 (9 — каждый УП‑М; 0.85 — УН‑М)|
 |Dimensions, ㎜| |
@@ -171,7 +171,7 @@ A list of [Data storage](ds.md) units.
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Запоминающее устройство (ЗУ):`**<br> [5D optical data storage](ds.md) <br>• • •<br> **Европа:** [SSR](ds_lst.md) (8)・ [Sirius TCM](ds_lst.md) (0.14)  ▮  **РФ:** [СЗИ-М](ds_lst.md) (11.8)・ [OBMU](ds_lst.md) (1.8)|

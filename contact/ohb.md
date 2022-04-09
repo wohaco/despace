@@ -2,7 +2,7 @@
 > 2022.03.25 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/o/ohb_logo1_thumb.webp)](../f/contact/o/ohb_logo1.webp)|<info@ohb.de>, +49 421 2020 8, Fax: +49 421 2020 700;<br> *Manfred-Fuchs-Platz 2-4, 28359 Bremen, Germany*<br> 【<https://www.ohb.de/>・ [Instagram ⎆](https://www.instagram.com/ohb_se/)・ [LinkedIn ⎆](https://www.linkedin.com/company/255297/)・ [Twitter ⎆](https://twitter.com/OHB_SE)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|We bring together passionate people to deliver complex space systems. As a Large System Integrator, we develop smart & innovative solutions to maximize value for our customers. Profitable & sustainable growth is the basis for our future. Entrepreneurial spirit & agility provide perspectives for all of us.|
 |**Vision**|We simplify your life through smart space solutions|
 |**Values**|・**Trust.** We recognize & respect each other. We trust in our individual characters & competences.<br> ・**Versatility.** We embrace our diversity & multidisciplinary capabilities to shape the future.<br> ・**Collaboration.** We work together, we support each other & we communicate proactively & transparently to achieve our objectives.<br> ・**Responsibility.** We act responsibly & reliably with each other, with our clients, our partners & society.<br> ・**Courage.** We accept & master challenges & take initiative.<br> ・**Solution Orientation.** We apply our creativity, flexibility, passion & performance-orientation towards the development of outstanding solutions.|
@@ -16,7 +16,7 @@ Space business unit’s activities encompass satellites, manned spaceflight, exp
 The OHB SE group encompasses subsidiaries across the European Union.
 
 |*Subsidiary*|*Location*|*Legal Form*|*Share*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |**【Space System】**| | | |
 |OHB System|Bremen & Oberpfaffenhofen, Germany|AG|100%|
 |OHB Italia|Milan, Italy|S.p.A.|100%|

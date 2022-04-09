@@ -17,7 +17,7 @@ Several approaches to the classification of robots can be used — for example, 
 
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Deltion](contact/deltion.md)<br> ・[MDA](contact/mda.md)<br> ・[Space Concordia](contact/space_concordia.md) — (Student community) Robots<br> ・[UTIAS](contact/utias.md) — Research for space mechatronics, robotics, microsats, fluid dynamics|
@@ -46,7 +46,7 @@ Several approaches to the classification of robots can be used — for example, 
    - **Mars rover** *(ru. Марсоход)* — rover designed to move on the surface of Mars. 
 
 |*Planet*| |*Active*|*Archived*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |*[Venus](venus.md)*|**RU**||[HM-VD-2](хм‑вд‑2.md)|
 | |**US**|[AREE](aree.md) (2027)| |
 | | | | |
@@ -62,7 +62,7 @@ Several approaches to the classification of robots can be used — for example, 
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AU**|…|
 |**CA**|・[CSA](contact/csa.md)<br> ・[Deltion](contact/deltion.md)|
 |**CN**|…|
@@ -120,7 +120,7 @@ Robots also can be used as scouts to check out new areas to be explored. Scout r
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Robot](robot.md)】**<br> [Rover](robot.md)|

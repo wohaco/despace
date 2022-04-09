@@ -1,13 +1,13 @@
 # Infinite Orbits
 > 2022.03.30 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/i/infinite_orbits_logo1_thumb.webp)](../f/contact/i/infinite_orbits_logo1.webp)|<info@infiniteorbits.io>, <mark>noworkphone</mark>, Fax: … ;<br> *Infinite Orbits SAS, 13 Rue Sainte-Ursule, 31000 Toulouse, Occitanie, France*<br> 【[WEBSITE ⎆](https://www.infiniteorbits.io/)・ [LinkedIn ⎆](https://www.linkedin.com/company/infinite-orbits)】|
-|:--|:--|
+|[![](../f/contact/i/infinite_orbits_logo1_thumb.webp)](../f/contact/i/infinite_orbits_logo1.webp)|<info@infiniteorbits.io>, <mark>noworkphone</mark>, Fax: …;<br> *Infinite Orbits SAS, 13 Rue Sainte-Ursule, 31000 Toulouse, Occitanie, France*<br> 【[WEBSITE ⎆](https://www.infiniteorbits.io/)・ [LinkedIn ⎆](https://www.linkedin.com/company/infinite-orbits)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|To provide reliable, turnkey in‑orbit services to satellite operators all over the world|
 |**Values**|…|
 |**Business**|In‑orbit servicing, servicing platforms|
-|**[MGMT](../mgmt.md)**|・CEO, Founder — Adel Haddoud<br> ・CTO, Co‑founder — Akshay Gulati<br> ・Chief Architect, Co‑founder — Manos Koumantakis<br> ・CFO — Yasmin Hassan<br> ・CCO — Yasmin Hassan|
+|**[MGMT](../mgmt.md)**|・CEO, Founder — Adel Haddoud<br> ・CTO, Founder — Akshay Gulati<br> ・Chief Architect, Founder — Manos Koumantakis<br> ・CFO — Yasmin Hassan<br> ・CCO — Yasmin Hassan|
 
 **Infinite Orbits** is a Newspace company aimed to provide GEO life extension & servicing. We develop & operate life extension platforms with a new space approach to extend the operational lifetime of in‑orbit GEO telecommunication satellites & deliver optimized satellite fleet management solutions Founded in 2017.
 

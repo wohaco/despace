@@ -2,7 +2,7 @@
 > 2019.08.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/o/okb_fakel_logo1_thumb.webp)](../f/contact/o/okb_fakel_logo1.webp)|<info@fakel-russia.com>, +7(4012)55-66-00 — приёмная, +7(4012)55-67-00, +7(4012)55-68-63 — канцелярия, Fax: +7(4012)53-84-72;<br> *Россия, 236001, Калининград, Московский проспект, 181*<br> 【<http://www.fakel-russia.com/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

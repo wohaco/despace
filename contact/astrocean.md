@@ -2,7 +2,7 @@
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/a/astrocean_logo1_thumb.webp)](../f/contact/a/astrocean_logo1.webp)|<takuma.mori@astrocean.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://astrocean.jp>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/astrocean/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

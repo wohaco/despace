@@ -10,14 +10,14 @@
 **Automaton Rover for Extreme Environments (AREE)** — проект планетохода от NASA для условий Венеры.
 
 |*1st variant of AREE*|*2nd variant of AREE*|
-|:--|:--|
+|:-|:-|
 |[![](f/rover/a/aree_pic01_thumb.webp)](f/rover/a/aree_pic01.webp)|[![](f/rover/a/aree_pic02_thumb.webp)](f/rover/a/aree_pic02.webp)|
 
 
 
 ## Characteristic
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Communication [rate](comms.md), bit/s| |
 |Mass (payload), ㎏| |
 |Readiness state| |
@@ -52,7 +52,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Rover](robot.md)】**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md)|

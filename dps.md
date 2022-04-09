@@ -9,7 +9,7 @@
 The **Division for Planetary Sciences (DPS)** is a division within the American Astronomical Society (AAS) devoted to solar system research. It was founded in 1968. As of Oct 2010, it is the largest special-interest division within the AAS; membership totaled approximately 1 415 planetary scientists and astronomers, including about 20 % residing outside the U.S.
 
 |[![](f/contact/d/dps_logo1_thumb.webp)](f/contact/d/dps_logo1.webp)|*American Astronomical Society, 1667 K Street NW, Suite 800, Washington, DC 20006*|
-|:--|:--|
+|:-|:-|
 |E‑mail|<DPS.Webmaster@aas.org>|
 |Link|<https://dps.aas.org/><br> <https://twitter.com/DPSCommittee>|
 |Tel|<mark>noworkphone</mark>, Fax: …|
@@ -49,7 +49,7 @@ If you are not an active member of one of the above societies, you may neverthel
 <small>
 
 |*№*|*City*|*Date*|*Science Organizing Chairs*|*Local Organizing Chairs*|
-|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|
 |51st|Geneva, Switzerland|Sep 2019|Maria Cristina De Sanctis, Joe<br> Spitale, Frank Sohl, & Devon Burr|Stéphane Udry, Ravit Helled, & Josh Emery|
 |50th|Knoxville, TN|Oct 2018|Devon Burr|Josh Emery|
 |49th|Provo, UT|Oct 2017|David O'Brien|Jani Radebaugh|
@@ -109,7 +109,7 @@ If you are not an active member of one of the above societies, you may neverthel
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Events](event.md)】**<br> **Meetings:** [AGU](agu.md)・ [CGMS](cgms.md)・ [COSPAR](contact/cospar.md)・ [DPS](dps.md)・ [EGU](egu.md)・ [EPSC](epsc.md)・ [FHS](fhs.md)・ [IPDW](ipdw.md)・ [IVC](ivc.md)・ [JpGU](jpgu.md)・ [LPSC](lpsc.md)・ [MAKS](maks.md)・ [MSSS](msss.md)・ [NIAC](niac_program.md)・ [VEXAG](vexag.md)・ [WSI](wsi.md) ┊ ··•·· **Contests:** [Google Lunar X Prize](google_lunar_x_prize.md)|

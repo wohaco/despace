@@ -2,7 +2,7 @@
 > 2019.08.04 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/i/irsps_logo1_thumb.webp)](../f/contact/i/irsps_logo1.webp)|<info@irsps.unich.it>, +39(085)453-75-12;<br> *IRSPS - Università "G.D'Annunzio", Viale Pindaro, 42, 65127 Pescara (PE), Italy*<br> 【<http://www.irsps.it/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/sinclair_ip_logo1_thumb.webp)](../f/contact/s/sinclair_ip_logo1.webp)|<dns@sinclairinterplanetary.com>, +1(647)286-37-61, Fax: …;<br> *268 Claremont St, Toronto, ON M6J 2N3, Canada*<br> 【<http://www.sinclairinterplanetary.com/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2019.08.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/r/rsc_ac_logo1_thumb.webp)](../f/contact/r/rsc_ac_logo1.webp)|<giph@giph.su>, +7(812)647-92-77, Fax: +7(812)325-66-48;<br> *Россия, 193232, Санкт‑Петербург, ул. Крыленко, 26А*<br> 【<http://www.giph.su/>・ [Wikipedia(RU) 1 ⎆](https://ru.wikipedia.org/wiki/Российский_научный_центр_«Прикладная_химия»)・ [Wikipedia(RU) 2 ⎆](https://ru.wikipedia.org/wiki/ГИПХ_(Капитолово))】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

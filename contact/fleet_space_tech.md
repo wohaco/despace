@@ -1,13 +1,13 @@
 # Fleet Space Technologies
 > 2021.10.22 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/f/fleet_space_tech_logo1_thumb.webp)](../f/contact/f/fleet_space_tech_logo1.webp)|<mark>noemail</mark>, +61(8)7200-26-33, Fax: … ;<br> *ABN 27 607 948 729, 8a Myer Court, Beverley, SA 5009 Australia*<br> 【<https://fleetspace.com/>・ [Facebook ⎆](https://www.facebook.com/fleetspace/)・ [Instagram ⎆](https://www.instagram.com/fleet.space/)・ [LinkedIn ⎆](https://au.linkedin.com/company/fleet-space-technologies)・ [Twitter ⎆](https://twitter.com/fleetspace)】|
-|:--|:--|
+|[![](../f/contact/f/fleet_space_tech_logo1_thumb.webp)](../f/contact/f/fleet_space_tech_logo1.webp)|<mark>noemail</mark>, +61(8)7200-26-33, Fax: …;<br> *ABN 27 607 948 729, 8a Myer Court, Beverley, SA 5009 Australia*<br> 【[WEBSITE ⎆](https://fleetspace.com/)・ [Facebook ⎆](https://www.facebook.com/fleetspace/)・ [Instagram ⎆](https://www.instagram.com/fleet.space/)・ [LinkedIn ⎆](https://au.linkedin.com/company/fleet-space-technologies)・ [Twitter ⎆](https://twitter.com/fleetspace)】|
+|:-|:-|
 |**Mission**|To Connect Everything using cutting‑edge communications & space technologies to enable the next giant leap in human civilisation|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|IoT with nanosat constellation|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・CEO, Founder — Flavia Tata Nardini<br> ・COO — Matthew Pearson|
 
 **Fleet Space Technologies Pty Ltd** is focused on building advanced nanosatellite communications technologies for ultra‑efficient satellite networks.
 

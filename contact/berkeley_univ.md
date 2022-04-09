@@ -2,7 +2,7 @@
 > 2019.08.11 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/b/berkeley_univ_logo1_thumb.webp)](../f/contact/b/berkeley_univ_logo1.webp)|<mark>noemail</mark>, +1(510)642-6000, Fax: …;<br> *VPCR+QH Berkeley, California, USA*<br> 【<https://www.berkeley.edu/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/University_of_California,_Berkeley)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

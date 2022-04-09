@@ -20,14 +20,14 @@
 К ИИ не относят видимый свет и ультрафиолетовое излучение, которые в отдельных случаях могут ионизировать вещество. Инфракрасное излучение и излучение радиодиапазонов не являются ИИ, т.к. их энергии недостаточно для ионизации атомов и молекул в основном состоянии.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Природные<br> источники<br> ИИ**|・Спонтанный радиоактивный распад радионуклидов.<br> ・Термоядерные реакции, например на [Солнце](sun.md).<br> ・Индуцированные ядерные реакции в результате попадания в ядро [высокоэнергетичных элементарных частиц](ion_rad.md) или слияния ядер.<br> ・[Космические лучи](ion_rad.md).|
 |**Искусственные<br> источники<br> ИИ**|・Искусственные радионуклиды.<br> ・[Ядерные реакторы](nr.md).<br> ・Ускорители частиц (генерируют потоки заряженных частиц и тормозное фотонное излучение).<br> ・Рентгеновский (разновидность ускорителей), генерирует тормозное рентгеновское излучение.|
 
 【**Table.** Manufacturers】
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|…|
@@ -242,7 +242,7 @@
 Другое название (обычно в западной литературе) — «радиационный пояс Ван Аллена» *(англ. Van Allen radiation belt)*.
 
 | |
-|:--|
+|:-|
 |![](f/ef/van_allen_radiation_belt1.webp)|
 |![](f/ef/van_allen_radiation_belt2.webp)|
 
@@ -283,7 +283,7 @@
 【**Table.** Absorbed doses for 1 year of flight on the 1 000 ㎞ above the Earth’s surface, ㏉】
 
 |*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons + Protons<br> ERB, SCR, GCR*|*Notes*|
-|:--|:--|:--|
+|:-|:-|:-|
 |0.01 (0.03703)|15 600 000|equal to open surface|
 |0.1 (0.3703)|3 450 000|equal to MLI|
 |0.5 (1.851)|50 000| |
@@ -296,7 +296,7 @@
 【**Table.** Absorbed doses for 1 year of flight on the Earth’s geostationary orbit, ㏉】
 
 |*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons<br> ERB*|*Protons<br> ERB, SCR, GCR*|*Notes*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |0.01 (0.03703)|18 000 000|3 800|equal to open surface|
 |0.1 (0.3703)|4 000 000|1 100|equal to MLI|
 |0.5 (1.851)|58 000|800| |
@@ -309,7 +309,7 @@
 【**Table.** Absorbed doses for 14 days of launching on an interplanetary trajectory & flight to the Moon, ㏉】
 
 |*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons<br> ERB*|*Protons<br> ERB*|*SCR*|*GCR*|*Total<br> dose*|*Notes*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |0.01 (0.03703)|61|440|115|0.00159|616|equal to open surface|
 |0.1 (0.3703)|4.84|0.498|75|0.000534|80.30|equal to MLI|
 |0.5 (1.851)|0.59|0.00424|30|0.000533|30.60| |
@@ -322,7 +322,7 @@
 【**Table.** Absorbed doses for 1 year of flight on a circular Lunar orbit, ㏉】
 
 |*Protection thickness<br> (Al), g/㎝² (height, ㎜)*|*Electrons<br> ERB*|*Protons<br> ERB*|*SCR*|*GCR*|*Total<br> dose*|*Notes*|
-|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|
 |0.01 (0.03703)|0|0|468|0.21|468|equal to open surface|
 |0.1 (0.3703)|0|0|88|0.134|88.9|equal to MLI|
 |0.5 (1.851)|0|0|46|0.132|46.13| |
@@ -346,7 +346,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[External factors (EF)](ef.md)】**<br> [Astro.object](aob.md)・ [Atmosphere](atmosphere.md)・ [Atmosphere of Earth](earth.md)・ [Cosmic rays](ion_rad.md)・ [EMI](emi.md)・ [Grav.waves](gravwave.md)・ [Ion.radiation](ion_rad.md)・ [Radio frequency](comms.md)・ [Solar phenomena](solar_ph.md)・ [Space debris](sdeb.md)・ [Standart conditions](sctp.md)・ [Time](time.md)・ [VA radiation belts](ion_rad.md)|

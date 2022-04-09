@@ -15,7 +15,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|… or … ㎏ of [gold](sc_price.md)|
 |Development|1977-1983|
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑001| |Atmosphere: preliminary model| |C|D|F| | |
 |EVN‑002| |Surface: preliminary map.| |D|C| | | |
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
@@ -135,7 +135,7 @@ List of spacecraft instruments and experiments:
 The radar and radio altimeter systems used the same components, except for the antennas. Every 0.3 s, the antennas were switched. Controlled the sequence of the onboard computer. During 0.3 s of radar activation, the data was read alternately and recorded on 2 tape recorders. Topographic survey was conducted for 16 min during the passage of periapsis. For each pass, about 3 200 images were accumulated, forming a strip of footage measuring 120 x 7 500 ㎞. The individual images obtained at each pass were collected in sequence in the form of bands reflecting the relief of the surface of Venus-mountains, depressions, slopes and other inhomogeneities, as well as its emissivity and dielectric properties.
 
 |*Parameter*|*Value*|
-|:--|:--|
+|:-|:-|
 |Dimensions of the antenna SAR|1.4 x 6.0 m|
 |Mass of SAR system|298.6 ㎏|
 |SAR deviation from the longitudinal axis of the spacecraft|10°|
@@ -152,7 +152,7 @@ The radar and radio altimeter systems used the same components, except for the a
 During the height measurement, the antenna transmitted a code sequence, and after the transmission was connected to a receiver that recorded the signal reflected from the surface. After processing the reflected signal, the data was recorded on a tape recorder for further transmission to Earth and subsequent processing in order to eliminate distortions associated with atmospheric, geometric and orbital effects affecting the accuracy of altitude determination. Until the elements of the orbit were accurately determined, the low‑resolution mode was used, and after their accurate determination, the spacecraft’s equipment switched to high‑resolution mode. In combination with Doppler frequency shift analysis, the high‑resolution mode reduced the coverage area to 10 km by 40 ㎞ with an error of about 1 ㎞. The accuracy of the altitude determination was 50 m.
 
 |*Parameter*|*Value*|
-|:--|:--|
+|:-|:-|
 |Antenna diameter|1 m|
 |Mass|22.95 ㎏|
 |The coverage area of the beam in the low resolution mode|70 x 40 ㎞|
@@ -168,7 +168,7 @@ During the height measurement, the antenna transmitted a code sequence, and afte
 The spectrometer provided a higher spectral resolution than the infrared radiometer mounted on [Pioneer Venus 1](pioneer_venus_1.md). The spectrometer provided the transmission of 60 full spectra during the passage of each periapsis. The purpose of the experiment was to measure temperature profiles of the atmosphere in the altitude range from 90 to 65 ㎞ in the line of carbon dioxide 15 µm, temperature of the upper cloud layer, content of aerosols, sulphur dioxide and water vapour in the atmosphere ([EVN‑014](venus.md)), as well as obtaining data on the thermal structure and dynamics of the middle atmosphere and clouds.
 
 |*Parameter*|*Value*|
-|:--|:--|
+|:-|:-|
 |Mass|35 ㎏|
 |Spectral range|6 — 35 μm|
 |Field of vision|100 x 100 ㎞|
@@ -232,7 +232,7 @@ General view of the spacecraft Venera 15 and Venera 16 with radar equipment 
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

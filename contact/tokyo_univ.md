@@ -2,7 +2,7 @@
 > 2019.08.09 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/t/tokyo_univ_logo1_thumb.webp)](../f/contact/t/tokyo_univ_logo1.webp)|<mark>noemail</mark>, +81(3)3812-2111, Fax: …;<br> *7-chōme-3-1 Hongō, Bunkyo City, Tōkyō-to 113-8654, Japan*<br> 【<https://www.u-tokyo.ac.jp/>・ [Facebook ⎆](https://www.facebook.com/UTokyo.News.en)・ [LinkedIn ⎆](https://www.linkedin.com/school/university-of-tokyo/)・ [Twitter ⎆](https://twitter.com/UTokyo_News_en)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/University_of_Tokyo)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

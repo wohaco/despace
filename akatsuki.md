@@ -14,7 +14,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Parameter*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Duration|2 years (plan) и 4.5 years (estimated maximum);<br> 2010.05.21 - <mark>TBD</mark> (fact)|
 |Operator|[JAXA](contact/jaxa.md)|
@@ -47,7 +47,7 @@ Targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑007| |Atmosphere: connection between the topography & the atmo circulation| | |D| | | |
 |EVN‑010| |Atmosphere: vertical model.| |D| | | | |
@@ -133,7 +133,7 @@ To solve the mysteries of the atmosphere, Akatsuki observes the movements of the
 **Spacecraft** is a cube of 1.45 × 1.04 × 1.44 m.
 
 |*Complex/system*|*Mass, ㎏*|*Comments*|
-|:--|:--|:--|
+|:-|:-|:-|
 |1. Spacecraft|284.9|<mark>TBD</mark>|
 |·· Accelerometers|··|<mark>TBD</mark>|
 |·· Gyroscopes|··|<mark>TBD</mark>|
@@ -322,7 +322,7 @@ IVC2019 is the successor to the Venusian conferences of the past (La Thuile, Aus
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

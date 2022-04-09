@@ -1,8 +1,8 @@
 # COSPAR
 > .. [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/c/cospar_logo1_thumb.webp)](../f/contact/c/cospar_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: … ;<br> *…*<br> 【<https://cosparhq.cnes.fr/>・ <https://www.cospar-assembly.org/>・ [Facebook ⎆](https://www.facebook.com/CommitteeOnSpaceResearch/)・ [Twitter ⎆](https://twitter.com/cosparhq?:lang=fr)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Committee_on_Space_Research)】|
-|:--|:--|
+|[![](../f/contact/c/cospar_logo1_thumb.webp)](../f/contact/c/cospar_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<https://cosparhq.cnes.fr/>・ <https://www.cospar-assembly.org/>・ [Facebook ⎆](https://www.facebook.com/CommitteeOnSpaceResearch/)・ [Twitter ⎆](https://twitter.com/cosparhq?:lang=fr)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Committee_on_Space_Research)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
@@ -25,7 +25,7 @@ Every second year, COSPAR calls for a **General Assembly** (also called Scientif
 <small>
 
 |*№*|*Year*|*Place*|
-|:--|:--|:--|
+|:-|:-|:-|
 |44th|2022|Athens, Greece|
 |43rd|2020|Sydney, Australia|
 |42nd|2018|Pasadena, United States|

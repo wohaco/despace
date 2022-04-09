@@ -2,7 +2,7 @@
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/c6_launch_logo1_thumb.webp)](../f/contact/c/c6_launch_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Toronto, Ontario, Canada*<br> 【<https://www.c6launch.ca/>・ [LinkedIn ⎆](https://www.linkedin.com/company/c6-launch-systems-inc)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

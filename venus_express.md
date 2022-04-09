@@ -14,7 +14,7 @@
 <p style="page-break-after:always"> </p>
 
 |*Type*|*[Param.](si.md)*|
-|:--|:--|
+|:-|:-|
 |**【Mission】**|• • •|
 |Cost|$ 262 million or 18 323 ㎏ [gold](sc_price.md) in 2005 prices|
 |[CML](cml.md) / [TRL](trl.md)|CML: <mark>TBD</mark>, TRL: <mark>TBD</mark>|
@@ -48,7 +48,7 @@ Achieved targets & investigations:
 <small>
 
 |*EVN‑XXX*|*T*|*EN*|*Section of m&o*|*D*|*C*|*F*|*H*|*S*|
-|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |EVN‑005|T|Exploration: from Venusian orbit.| |D| |F| | |
 |EVN‑008| |Atmosphere: nightglows.| |D| | | | |
 |EVN‑009| |Atmosphere: SO₂ concentration & nature of its variations.| |D| | | | |
@@ -94,7 +94,7 @@ The launch window for Venus Express was open from 26 October to 23 November 2005
 Venus Express studied the Venusian atmosphere and clouds in detail, the plasma environment and the surface characteristics of Venus from orbit ([EVN‑005](venus.md)). It also made global maps of the Venusian surface temperatures. Its nominal mission was originally planned to last for 500 Earth days, but the mission was extended five times. On 2013.06.20, the mission was extended a final time until 2015.
 
 |*Animation of Venus Express’s trajectory around Venus from 1 April 2006 to 1 April 2008<br> (Pink — Venus Express; Green — Venus)*|
-|:--|
+|:-|
 |![](f/project/v/venus_express/animation_of_venus_express_trajectory_around_venus.gif)|
 
 **MAJOR DISCOVERIES BY VENUS EXPRESS: 2006-2014**
@@ -106,7 +106,7 @@ The existence of the polar vortices on Venus has been known for many years, but 
 <small>
 
 |*Thermal infrared radiation (at a wavelength of 3.8 microns).*|
-|:--|
+|:-|
 |![](f/project/v/venus_express/vortex.gif)
 |**Reconstruction of the motion of the polar atmosphere of Venus. The cross marks the South Pole and the white circle marks the centre of rotation of the polar atmospheric vortex**|
 |![](f/project/v/venus_express/ir.gif)|
@@ -124,7 +124,7 @@ The centre of rotation drifts right around the pole over a period of 5 ‑ 1
 Small-scale temperature variations on the planet’s surface are extremely difficult to measure. The VIRTIS instrument and the VMC have both contributed to the study of volcanism on Venus. These instruments can observe thermal emission from the surface at a wavelength of around 1 micron, where it is weakly absorbed by the planet’s atmosphere.
 
 |*Surface warmth on a volcano on Venus.*|
-|:--|
+|:-|
 |![](f/project/v/venus_express/volcano.webp)|
 
 VIRTIS has measured the spectral emissivity of the surface in order to detect variations in chemical composition and they can be used to study the properties of likely Venusian hot spots. In particular, around volcanoes in three of the hot spots (Imdr, Themis and Dione Regiones), VIRTIS data show anomalously high emissivity values. These are interpreted to indicate that the lava flows observed in these regions are relatively unweathered and therefore recent — perhaps a few thousands to a few tens of thousands of years in age ([EVN‑046](venus.md)).
@@ -134,7 +134,7 @@ The VMC has also detected some bright, transient features, including an apparent
 Indirect evidence of a major volcanic eruption has come from large changes in the sulphur dioxide content of the planet’s atmosphere ([EVN‑009](venus.md)). Immediately after arriving at Venus in 2006, the spacecraft recorded a significant increase in the average density of sulphur dioxide in the upper atmosphere, followed by a sharp decrease. One possibility is that the dramatic swing in atmospheric composition was caused by buoyant plumes of volcanic gases released by a large eruption and floating upward ([EVN‑029](venus.md)).
 
 |*Surface warmth on a volcano on Venus.*|
-|:--|
+|:-|
 |![](f/project/v/venus_express/sulphur.webp)|
 
    3. **Spinning Venus is slowing down.**
@@ -162,7 +162,7 @@ Although the planet’s surface is like a red hot furnace, conditions are very d
 The discovery was made by studying light from the Sun as it passed through the atmosphere, revealing the concentration of carbon dioxide gas molecules at various altitudes along the terminator. Armed with information about the concentration of carbon dioxide and data on atmospheric pressure at each height, scientists could then calculate the corresponding temperatures.
 
 |*Surface warmth on a volcano on Venus.*|
-|:--|
+|:-|
 |![](f/project/v/venus_express/cold.webp)|
 
 Since the temperature at some heights dips below the freezing temperature of carbon dioxide, the main constituent of the atmosphere, carbon dioxide ice might be able to form there — possibly forming clouds of ice or snow particles.
@@ -254,7 +254,7 @@ The combination of data from the PFS, SPICAV, and VIRTUS instruments made it pos
 
 ## Spacecraft
 |*Parameter*|*Value*|
-|:--|:--|
+|:-|:-|
 |Spacecraft bus dimensions|1.5 x 1.8 x 1.4 m|
 |Spacecraft mass|1 270 ㎏ (including 93 ㎏ of payload and 570 ㎏ fuel)|
 |Thrust of main engine|400 N|
@@ -340,7 +340,7 @@ The Venus Express prime contractor is EADS Astrium, Toulouse, FR, leading a team
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

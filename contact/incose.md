@@ -1,8 +1,8 @@
 # INCOSE
 > 2022.01.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/i/incose_logo1_thumb.webp)](../f/contact/i/incose_logo1.svg)|<info@incose.org>, +1(858)541-17-25 , Fax: … ;<br> *7670 Opportunity Rd, Suite 220, San Diego, CA 92111-2222  USA*<br> 【<https://www.incose.org/>・ [Facebook ⎆](https://www.facebook.com/INCOSE/)・ [LinkedIn ⎆](https://www.linkedin.com/company/incose)・ [Twitter ⎆](https://twitter.com/incose_org)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering)】|
-|:--|:--|
+|[![](../f/contact/i/incose_logo1_thumb.webp)](../f/contact/i/incose_logo1.svg)|<info@incose.org>, +1(858)541-17-25 , Fax: …;<br> *7670 Opportunity Rd, Suite 220, San Diego, CA 92111-2222  USA*<br> 【<https://www.incose.org/>・ [Facebook ⎆](https://www.facebook.com/INCOSE/)・ [LinkedIn ⎆](https://www.linkedin.com/company/incose)・ [Twitter ⎆](https://twitter.com/incose_org)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering)】|
+|:-|:-|
 |**Mission**|To address complex societal & technical challenges by enabling, promoting & advancing systems engineering & systems approaches|
 |**Vision**|A better world through a systems approach|
 |**Values**|…|

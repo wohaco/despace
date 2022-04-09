@@ -2,7 +2,7 @@
 > 2019.08.30 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/x/xiphos_logo1_thumb.webp)](../f/contact/x/xiphos_logo1.webp)|<info@xiphos.com>, +1(514)847-94-74, Fax: …;<br> *3981 St-Laurent Boulevard, Suite 500, Montreal, Quebec, H2W 1Y5, Canada*<br> 【<http://xiphos.com/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

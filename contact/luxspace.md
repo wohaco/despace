@@ -2,7 +2,7 @@
 > 2021.04.27 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/l/luxspace_logo1_thumb.webp)](../f/contact/l/luxspace_logo1.webp)|<info@luxspace.lu>, +352(267890)-4000, Fax: +352(267890)4049;<br> *9, rue Pierre Werner, L-6832 Betzdorf, Grand Duchy of Luxembourg*<br> 【<https://luxspace.lu/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Luxspace)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|Professional, smart, affordable space‑based solutions for business & institutions. LuxSpace will become the pre‑eminent provider of professional products, smart & affordable solutions for space missions & commercial space‑based applications.|
 |**Values**|…|

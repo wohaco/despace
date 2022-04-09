@@ -10,7 +10,7 @@
 **Spacecraft power system (SPS)** — a unit of [spacecraft](sc.md) & [SCS](scs.md) — provides [onboard equipment](sc.md) with electricity of the required rating & quality. Usually includes:
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Generators<br> or<br> converters**|・[Electric battery](eb.md) (EB):<br>    ╟ Capacitor<br>    ╟ Galvanic cell<br>    ╟ Fueled battery:<br>    ║  ╟ Biofueled<br>    ║  ╟ [Nuclear reactor](nr.md) (NR)<br>    ║  ╟ [Radioisotope thermoelectric generator](rtg.md) (RTG)<br>    ║  ╙ Other fueled sources<br>    ╙ Rechargeable battery (AB)<br> ・Electro‑mechanical generator:<br>   ╟ Flood & flows generator<br>    ╟ [Rotor](iu.md)<br>    ╙ [Wind turbine](wt.md) (WT)<br> ・Lightning receiver<br> ・Mirror system<br> ・[Solar panel](sp.md)<br>    ╟ Optical rectenna<br>    ╙ [Solar cell](sp.md)<br> ・Surface ionized by cosmic rays<br> ・Thermal‑differencies to electricity converter<br> ・Transmitting from Earth or re‑transmitter|
 |**Storage<br> device**|・Electro‑mechanical accumulators<br> ・Heat accumulator<br> ・[Rechargable electric battery](eb.md) (EB)|
 |**Supporting<br> structures**|・[Automation & stabilization unit](eas.md) (BAS / KAS)<br> ・Connectors<br> ・Electroautomatics<br> ・Wires|
@@ -39,7 +39,7 @@
 ## Designers, manufacturers
 
 | | |
-|:--|:--|
+|:-|:-|
 |**AE**|…|
 |**AU**|…|
 |**CA**|・[Baryon Dynamics](contact/baryon_dyn.md) — mostly for CubeSats<br> ・[Canadensys](contact/canadensys.md)|
@@ -85,7 +85,7 @@
 Ниже приведены применяемые номиналы напряжений.
 
 ||*Voltage, V*|
-|:--|:--|
+|:-|:-|
 |**CN**|<mark>TBD</mark> |
 |**EU**|230 (also in Asia, Africa & Australia)|
 |**IN**|<mark>TBD</mark>|
@@ -126,7 +126,7 @@ Nominal voltages of familiar sources:
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|

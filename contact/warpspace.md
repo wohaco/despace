@@ -2,7 +2,7 @@
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/w/warpspace_logo1_thumb.webp)](../f/contact/w/warpspace_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *2-5-1-203 Azuma, Tsukuba science city, Ibaraki, Japan*<br> 【<https://warpspace.jp>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/warpspace/>・ [Facebook ⎆](https://www.facebook.com/warpspace.jp/)・ [LinkedIn ⎆](https://www.linkedin.com/company/warpspace-inc/)・ [Twitter ⎆](https://twitter.com/warpspace_en)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -10,7 +10,7 @@
 **«Электрон»** (англ. **Electron**) — новозеландская одноразовая жидкостная [ракета‑носитель](lv.md) сверхлёгкого класса, разработанная новозеландским подразделением частной аэрокосмической компании [Rocket Lab](contact/rocket_lab.md) (США).
 
 |*Version*|*Description*|*Activity*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Electron|Базовый вариант.|**Активен** (2017 ‑ …)|
 
 
@@ -22,7 +22,7 @@
 Electron позволяет вывести полезную нагрузку массой до 150 ㎏ на ССО 500 ㎞ (до 250 ㎏ на НОО). Основные элементы РН, несущий корпус и баки ступеней выполнены из [углепластика](cfrp.md) и производятся Rocket Lab. Применение композиционных материалов позволило существенно снизить вес конструкции. РН оборудована композитным ГО длиной 2.5 м, диаметром 1.2 м и массой около 50 ㎏.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Активность|**Активен** (2017‑…)|
 |[Аналоги](analogue.md)|**Kuaizhou** (Китай) ┊ **LauncherOne** (США) ┊ **Pegasus** (США) ┊ **Super Strypi** (США) ┊ **Vector‑H** (США)|
 |Длина/диаметр|17 / 1.2 м|
@@ -36,13 +36,13 @@ Electron позволяет вывести полезную нагрузку м�
 **Выводимые массы.**
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |[Rocket Lab LC1](spaceport.md)|Electron|0.25|—|—|—|—|Пуск — $ 6 млн (2019 г);<br> ПН 1.99 % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
 
 |*РН в сравнении<br> с человеком*|*В сборочном<br> помещении*|*Двигатель<br> «Резерфорд»*|
-|:--|:--|:--|
+|:-|:-|:-|
 |[![](f/lv/electron/electron_and_human_2017_thumb.webp)](f/lv/electron/electron_and_human_2017.webp)|[![](f/lv/electron/2017_04_thumb.webp)](f/lv/electron/2017_04.webp)|[![](f/lv/electron/electron_rocket_engine_5_thumb.webp)](f/lv/electron/electron_rocket_engine_5.webp)|
 
 
@@ -59,7 +59,7 @@ Electron позволяет вывести полезную нагрузку м�
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|

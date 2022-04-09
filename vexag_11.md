@@ -10,7 +10,7 @@
 **VEXAG** was established by NASA in 2005 to identify scientific priorities and opportunities for the exploration of [Venus](venus.md), Earth’s sister planet. The group has an open membership and an 7‑person Executive Committee, 3 Focus Groups, and 2 Topical Analysis Groups. Input from the scientific community is actively sought. The VEXAG provides findings to NASA Headquarters, but does not make recommendations.
 
 |*VEXAG 2013*|<https://www.lpi.usra.edu/vexag/meetings/archive/vexag_11/>|
-|:--|:--|
+|:-|:-|
 |Date|November 19 (Tu) ‑ 21 (Th), 2013|
 |Venue| |
 |Host Org.| |
@@ -54,7 +54,7 @@
 **Таблица.** Количество участников, докладов и постеров. (упорядочено по убыванию)
 
 |*Страна*|*Участники*|*Презентации*|*Постеры*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |США|… <small>(… [NASA](contact/nasa.md)/JPL, … университеты)</small>|…|—|
 |Россия|… <small>(… НПОЛ, … университеты)</small>|…|—|
 |Европа|…|…|—|
@@ -66,7 +66,7 @@
 <small>
 
 |°|*Имя*|*Орг.*|*Название*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |—|—|—|**`Potential Landing Sites`**|
 
 Last  Name First  Name Company Email  Address
@@ -192,7 +192,7 @@ ROSES R&A Program 	Jim Green, Jonathon Rall
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|

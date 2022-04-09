@@ -2,7 +2,7 @@
 > 2019.08.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/satcan_logo1_thumb.webp)](../f/contact/s/satcan_logo1.webp)|<info@satcan.ca>, +1(613)265-46-31, Fax: …;<br> *227 Centrepointe Drive, Ottawa, ON, K2G 5L5, Canada*<br> 【<https://www.satellitecanada.org/>・ [LinkedIn ⎆](https://www.linkedin.com/company/satellite-canada-innovation-network/)・ [Twitter ⎆](https://twitter.com/SatelliteCanada)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
@@ -16,7 +16,7 @@ SatCan is an engineering & business services organization offering extensive sup
 **How we can help?** Services range from providing engineering skills & strategy, introductions to key industry players or financing organizations, to practical support like writing technical proposal responses or product plans.
 
 | | |
-|:--|:--|
+|:-|:-|
 |**Leadership,<br> networking,<br> collaboration**|・Project Leadership & facilitation<br> ・Collaboration with Government, Academia, & Industry programs<br> ・Establishment of Partnerships for Growth<br> ・Alignment of Upstream & Downstream Technologies, Products, Services & Applications|
 |**Access to<br> global<br> markets**|・International Partnerships & Supply Chains<br> ・Participation in Global Space Agency Programs<br> ・Export Services & Financing<br> ・Participation in International Trade Shows & Conferences|
 |**Commercial<br> development**|・Financing (Venture, Private, Government)<br> ・Business Start-up Modeling & Scaling<br> ・Management, Recruiting, Contracting<br> ・Market & Sales Planning & Development<br> ・Communications Strategy (Social Media, Web, Press)<br> ・Conferences, Trade Delegations<br> ・Regulatory, IP/Patent, Legal, Incorporation|

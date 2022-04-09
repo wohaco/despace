@@ -32,13 +32,14 @@ Other terms:
 
 
 ## EU-US
-Regulations & terms:
+Regulations, terms, handbooks:
 
    - [Interface](interface.md)
    - [International Traffic in Arms Regulations (ITAR)](itar.md)
    - [NASA Systems Engineering Handbook](book_nasa_seh.md)
    - [Mission proposal](proposal.md)
    - [Spacecraft systems engineering ❐](f/doc/sс_systems_engineering.pdf) (2011, Fortescue, Swinerd, Stark)
+   - [Wohaco Space Engineering Handbook](w_seh.md)
    - **Links:**
       - <http://everyspec.com/>
       - <https://en.wikipedia.org/wiki/United_States_Military_Standard> US Military Standard
@@ -189,7 +190,7 @@ Regulations & terms:
 
 ### ГОСТ, ISO, Инструкции, Положения, ОСТ, СТО
 |°|*Наименование*|*Описание*|
-|:--|:--|:--|
+|:-|:-|:-|
 | |[Типичные ошибки в документах](error.md)| |
 | |[Положение НА-99](const_na99.md)| |
 | |[РК‑11](const_rk.md)| |
@@ -375,7 +376,7 @@ Regulations & terms:
 Ныне используется 40 общетехнических систем нормативной документации, оформленной в виде стандартов. Перечисленные стандарты в совокупности создают условия обеспечения технической подготовки производства на высоком уровне, способной гарантировать конкурентоспособность и [качество](qm.md) выпускаемых изделий и сбыт их на внутреннем и международном рынках.
 
 |*№<br>ГОСТ*|*Тип документации*|
-|:--|:--|
+|:-|:-|
 |**1.**|Государственная система стандартизации (ГСС)|
 |**2.**|[Единая система конструкторской документации](eskd.md) (ЕСКД)|
 |**3.**|[Единая система технологической документации](estd.md) (ЕСТД)|
@@ -425,7 +426,7 @@ Regulations & terms:
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](drawing.md)・ [СхО](drawing.md)・ [СхПЗ](drawing.md)・ [СхЧ](drawing.md)・ [СхЭ](drawing.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|

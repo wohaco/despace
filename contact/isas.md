@@ -2,7 +2,7 @@
 > 2019.01.28 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/i/isas_logo1_thumb.webp)](../f/contact/i/isas_logo1.webp)|<mark>noemail</mark>, +81(42)751-39-11, Fax: …;<br> *3 Chome-1-1 Yoshinodai, Chuo Ward, Sagamihara, Kanagawa 252-5210, JP.*<br> 【<http://www.isas.jaxa.jp/>・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|The missions of ISAS aim to push ahead academic researchers through the planning, development, flying experiments, operations & result production of unique & excellent space science missions consistently with the cooperation from universities, institutes in Japan & foreign space institutes with the use of satellites, probes, sounding rocket, scientific balloons & the international space station. The biggest advantage of ISAS is that researchers of space engineering & space science cooperate with each other. Engineers lead science missions with advanced technologies & new technologies that scientists expect can be developed efficiently.|
 |**Values**|…|
@@ -36,7 +36,7 @@ ISAS comprises 5 research departments, the Management & Integration Department, 
 <small>
 
 |*Launch date*|*Name*|*Name*|*Mission*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 | | | |**Future missions:**|
 |2027-2028|SPICA| |Infrared astronomy (with [ESA](esa.md))|
 |2028|ATHENA| |X‑ray astronomy (with [ESA](esa.md) / [NASA](nasa.md))|

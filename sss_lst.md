@@ -20,7 +20,7 @@ A list of [Soil sampling systems](sss.md).
 **LB‑15** *(ru. ЛБ-15)* — soil sampling system (logging‑drilling rig) by GEOKHI RAS, TSNIIRTK. Designed in 2017.
 
 |*Characteristics*|*[Value](si.md)<br> (LB‑15)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜|2 000 × … × 2 000|
@@ -60,7 +60,7 @@ A list of [Soil sampling systems](sss.md).
 **LB‑09** *(ru. ЛБ-09)* — soil sampling system. Designed in 1975.
 
 |*Characteristics*|*[Value](si.md)<br> (LB-09)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|550 (average)|
 |Dimensions, ㎜|3 200 × … × 3 200 |
@@ -95,7 +95,7 @@ A list of [Soil sampling systems](sss.md).
 **LB‑10** *(ru. ЛБ-10)* — soil sampling system (logging‑drilling rig) by KBOM. Designed in 1976.
 
 |*Characteristics*|*[Value](si.md)<br> (LB-10)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -129,7 +129,7 @@ A list of [Soil sampling systems](sss.md).
 **VB02** *(ru. ВБ02)* — soil sampling system by KBOM. Designed in 1981.
 
 |*Characteristics*|*[Value](si.md)<br> (VB02)*|
-|:--|:--|
+|:-|:-|
 |Composition| |
 |Consumption, W|…, 3 А|
 |Dimensions, ㎜|…|
@@ -163,7 +163,7 @@ A list of [Soil sampling systems](sss.md).
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【Soil sampling system (SSS)】**<br> [Logging](sss.md)・ [Stratification](sss.md)<br>• • •<br> **RU:** [GZU-LR1](гзу_лр1.md)・ [LB-15](sss_lst.md) *([VB02](sss_lst.md)・ [LB-09](sss_lst.md)・ [LB-10](sss_lst.md))*|

@@ -19,7 +19,7 @@ A list of [Inertial measurement units](sensor.md).
 *Разработчик:* [ADS](contact/ads.md). Разработано в 2016 году компанией [Astrium](contact/astrium.md). Прибор прошёл сертификацию. Покупное изделие.
 
 |*Characteristics*|*[Value](si.md)<br> (Astrix 1090)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|15|
 |Dimensions, ㎜|261 × 171|
@@ -73,7 +73,7 @@ A list of [Inertial measurement units](sensor.md).
 **Прибор БЫ2.529.001‑02.** Разработчик [НПО ИТ](contact/npoit.md). Разработан в 2009 году Активное использование. Лётная квалификация в составе КА «[Фобос‑Грунт](фобос_грунт.md)». Покупное изделие.
 
 |*Characteristics*|*[Value](si.md)<br> (БИБ-ФГ)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit, sealed. Заполнен азотом с P = 30 ‑ 100 ㎩.|
 |Consumption, W|11.5|
 |Dimensions, ㎜|156 × 77.6|
@@ -129,7 +129,7 @@ A list of [Inertial measurement units](sensor.md).
 Разработчик [НПО ИТ](contact/npoit.md). Разработано в 2014 году в рамках ЭП КА «[Интергелиозонд](интергелиозонд.md)», но в дальнейшем использован не был.
 
 |*Characteristics*|*[Value](si.md)<br> <small>(БИБ-ИГ)</small>*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|20|
 |Dimensions, ㎜|323 × 136|
@@ -176,7 +176,7 @@ A list of [Inertial measurement units](sensor.md).
 Разработчик: [НПЦАП](contact/npcap.md). Разработано  
 
 |*Characteristics*|*[Value](si.md)<br> (БИУС-Л)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|25 (при +5 ‑ +40 ℃);<br> 40 (при –5 ‑ +5 ℃ и +40 ‑ +50 ℃)|
 |Dimensions, ㎜|260 × 200|
@@ -229,7 +229,7 @@ A list of [Inertial measurement units](sensor.md).
 Разработчик: [НПЦАП](contact/npcap.md). Разработано  
 
 |*Characteristics*|*[Value](si.md)<br> (БИУС-Л)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|25 (при +5 ‑ +40 ℃);<br> 40 (при –5 ‑ +5 ℃ и +40 ‑ +50 ℃)|
 |Dimensions, ㎜|260 × 200|
@@ -283,7 +283,7 @@ A list of [Inertial measurement units](sensor.md).
 **Прибор ДКШГ.402138.031.** Разработчик [НПП Антарес](contact/npp_antares.md). Разработан в 2013 году, активное использование. Лётная квалификация в составе КА «Барс‑М» (запуск 27.02.2015). Покупное 
 
 |*Characteristics*|*[Value](si.md)<br> (БИУС-М)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|15|
 |Dimensions, ㎜|200 × 159|
@@ -338,7 +338,7 @@ A list of [Inertial measurement units](sensor.md).
 *Разработчик:* [НПП Антарес](contact/npp_antares.md). Разработано  
 
 |*Characteristics*|*[Value](si.md)<br> (ИУС ВОА)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W|21 ‑ 35|
 |Dimensions, ㎜|380 × 350 × 300|
@@ -392,7 +392,7 @@ A list of [Inertial measurement units](sensor.md).
 *Разработчик:* [Northrop Grumman](contact/northrop_grumman.md). Разработано в 1994 году 
 
 |*Characteristics*|*[Value](si.md)<br> (LN‑200)*|*[Value](si.md)<br> (LN‑200c)*|*[Value](si.md)<br> (LN‑200s)*|
-|:--|:--|:--|:--|
+|:-|:-|:-|:-|
 |Composition|Single unit, sealed|Single unit, sealed|Single unit, sealed|
 |Consumption, W|12 ‑ 16|12|12|
 |Dimensions, ㎜|89 × 85|89 × 85|89 × 85|
@@ -446,7 +446,7 @@ A list of [Inertial measurement units](sensor.md).
 *Разработчик:* [НПО ИТ](contact/npoit.md). Разработано
 
 |*Characteristics*|*[Value](si.md)<br> (МБИНС)*|
-|:--|:--|
+|:-|:-|
 |Composition|Single unit|
 |Consumption, W| |
 |Dimensions, ㎜| |
@@ -501,7 +501,7 @@ A list of [Inertial measurement units](sensor.md).
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](imu_lst.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](imu_lst.md) (15.1)・ [БИУС-Л](imu_lst.md) (10)・ [БИУС-М](imu_lst.md) (5.1)・ [БИБ-ФГ](imu_lst.md) (1.36)・ [МБИНС](imu_lst.md) (1.34) ··· *([БИБ-ИГ](imu_lst.md) (3.6))*  ▮  **США:** [LN-200](imu_lst.md) (1.25)|

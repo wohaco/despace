@@ -2,7 +2,7 @@
 > 2019.08.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/c/cniihm_logo1_thumb.webp)](../f/contact/c/cniihm_logo1.webp)|<mail@cniihm.ru>, +7(499)611-51-29, Fax: …;<br> *16-А, Нагатинская, Москва, 115487, Россия*<br> 【<http://cniihm.ru/> ・ <https://ru.wikipedia.org/wiki/Центральный_научно‑исследовательский_институт_химии_и_механики>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

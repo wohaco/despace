@@ -2,7 +2,7 @@
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/spaceportjapan_logo1_thumb.webp)](../f/contact/s/spaceportjapan_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *6 Chome−10−1 六本木ヒルズ森タワー２３階, Roppongi, Minato City, 〒106-0032 Tokyo, Japan*<br> 【<https://www.spaceport-japan.org/>】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

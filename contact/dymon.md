@@ -1,13 +1,13 @@
 # Dymon
 > 2021.12.02 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/d/dymon_logo1_thumb.webp)](../f/contact/d/dymon_logo1.webp)|<info@dymon.co.jp>, +81(4)8482-8339, Fax: … ;<br> *4-10-20 Omori-minami, Ota-ku, Tokyo, 143-0013, Japan*<br> 【<http://dymon.co.jp/>・ [Facebook ⎆](https://www.facebook.com/dymon.co.jp/)・ [Instagram ⎆](https://www.instagram.com/yaoki_space/)・ [Twitter ⎆](https://twitter.com/yaoki_space)】|
-|:--|:--|
+|[![](../f/contact/d/dymon_logo1_thumb.webp)](../f/contact/d/dymon_logo1.webp)|<info@dymon.co.jp>, +81(4)8482-8339, Fax: …;<br> *4-10-20 Omori-minami, Ota-ku, Tokyo, 143-0013, Japan*<br> 【<http://dymon.co.jp/>・ [Facebook ⎆](https://www.facebook.com/dymon.co.jp/)・ [Instagram ⎆](https://www.instagram.com/yaoki_space/)・ [Twitter ⎆](https://twitter.com/yaoki_space)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|Ultimate mobility development that runs the Moon|
 |**Values**|**Principal & Will** — leading the world with a strong will. **Sustainable & Symbiosis** — aiming for a sustainable symbiotic society. **Challenge & Respect** — big challenge & respect for the individual.|
 |**Business**|Robots, rovers, antennas|
-|**[MGMT](../mgmt.md)**|・Founder & CEO — Shinichiro Nakajima<br> ・COO — Sota Miyake|
+|**[MGMT](../mgmt.md)**|・CEO, Founder — Shinichiro Nakajima<br> ・COO — Sota Miyake|
 
 **Dymon Co., Ltd.** is a Japanese company aimed to design & manufacture space robots, rovers, antennas, etc. Founded 2012.02.22. Products:
 

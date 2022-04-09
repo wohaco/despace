@@ -2,7 +2,7 @@
 > 2020.07.24 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/k/kai_logo1_thumb.webp)](../f/contact/k/kai_logo1.webp)|<mark>noemail</mark>, +82-55-851-1000, Fax: +82-55-851-1004;<br> *78, Gongdanro 1-ro, Sanam-myeon, Sacheon, Gyeongsangnam-do, Korea*<br> 【[WEBSITE ⎆](http://www.koreaaero.com/)・ [LinkedIn ⎆](https://www.linkedin.com/company/korea-aerospace-industries/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Korea_Aerospace_Industries)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|Become a global leading aerospace company with fulfilling social responsibility & trusted by customers with the best technologies & products|
 |**Vision**|…|
 |**Values**|Trust & respect for customers. Challenges & innovations in technology. Communication & harmonization for cooperation.|

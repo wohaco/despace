@@ -1,8 +1,8 @@
 # Telecan Space
 > 2021.07.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/t/telecan_logo1_thumb.webp)](../f/contact/t/telecan_logo1.webp)|<info@telecanspace.com>, +1(819)827-6576, Fax: … ;<br> *183 Chemin Freeman, Unit 1, Second Floor, Gatineau, Quebec J8Z 2A7 , Canada*<br> 【<https://www.telecanspace.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/telecan-space)】|
-|:--|:--|
+|[![](../f/contact/t/telecan_logo1_thumb.webp)](../f/contact/t/telecan_logo1.webp)|<info@telecanspace.com>, +1(819)827-6576, Fax: …;<br> *183 Chemin Freeman, Unit 1, Second Floor, Gatineau, Quebec J8Z 2A7 , Canada*<br> 【<https://www.telecanspace.com/>・ [LinkedIn ⎆](https://www.linkedin.com/company/telecan-space)】|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

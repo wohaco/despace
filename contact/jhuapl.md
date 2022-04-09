@@ -2,7 +2,7 @@
 > 2019.08.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/j/jhuapl_logo1_thumb.webp)](../f/contact/j/jhuapl_logo1.webp)|<mark>noemail</mark>, +1(240)228-5000, Fax: …;<br> *11100 Johns Hopkins Road, Laurel, Maryland 20723-6099, USA*<br> 【<https://www.jhuapl.edu/>・ [Instagram ⎆](https://www.instagram.com/johnshopkinsapl/)・ [LinkedIn ⎆](https://www.linkedin.com/company/johns-hopkins-university-applied-physics-laboratory/)・ [Twitter ⎆](https://twitter.com/JHUAPL)・ [Facebook ⎆](https://www.facebook.com/JHUAPL/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Applied_Physics_Laboratory)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -39,7 +39,7 @@
 SC and OE must meet the safety requirements for avoiding the hazards listed in the table below:
 
 |*Danger*|*What caused*|
-|:--|:--|
+|:-|:-|
 |**Electrical**|➀ Work with electrical equipment during testing;<br> ➁ Static electricity;<br> ➂ Supply voltage of the SC|
 |**Electro-<br>magnetic**|➀ The presence of radio transmitting and emitting devices in the composition of:<br> ・ground control facilities of the cosmodrome, as well as ground segment SUIs;<br> ・launch vehicles;<br> ・SC — radio transmitting devices of given ranges|
 |**Explosion hazard**|➀ The following are considered as potential sources of explosion hazard:<br> ・UDMH — capable of forming explosive mixtures with air; concentration limits of ignition with air: lower — 3 % of the volume, upper — 84 %;<br> ・pyrotechnic SUIs in the SC and LV;<br> ・the presence of high pressure systems (≥ 5·10¹⁴ ㎩) in the propulsion system of SC and LV;<br> ・process of filling SC and LV with compressed gases and fuel; <br> ・availability of high pressure systems (≥ 5·10¹⁴ ㎩) as part of filling and pneumatic equipment; <br> ・presence of electric batteries as part of the SC and the last stage of the LV — hazardous substances of I‑IV hazard categories (lithium cobalt, which is the active substance of the positive electrode, lithium hexafluorophosphate is a salt in the electrolyte)|
@@ -56,7 +56,7 @@ SC and OE must meet the safety requirements for avoiding the hazards listed in t
 **Таблица.** Разработка и согласование
 
 |*Этап*|*Документ*|*Разраб.*|*Согл.*|*Утвер.*|*Основание*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |[НИР](rnd_0.md)|—|—|—|—| |
 |[АП](rnd_ap.md)|Предвари&shy;тельная ПОБ|Испол&shy;нитель|Испол&shy;нитель|Испол&shy;нитель| |
 |[ЭП](rnd_ep.md)|ПОБ|Испол&shy;нитель|Испол&shy;нитель|Испол&shy;нитель| |
@@ -111,7 +111,7 @@ t — Lifetime (h)
 **Надёжность** — свойство объекта сохранять во времени в установленных пределах значения всех параметров, характеризующих способность выполнять требуемые функции в заданных режимах и условиях применения, технического обслуживания, хранения и транспортирования. <small>(ГОСТ 27.002‑89 «Надёжность в технике. Основные понятия. Термины и определения» 1. Общие понятия)</small>
 
 |*Прочие страницы*|*в данной категории:*|
-|:--|:--|
+|:-|:-|
 |・[Авторский надзор](des_spv.md)<br> ・[АВПКО](fmeca.md)|・[Ионизирующее излучение](ion_rad.md)<br> ・[Критичные элементы](sens_elem.md)|
 
 Интуитивно надёжность объектов связывают с недопустимостью отказов в работе. Это есть понимание надёжности в «узком» смысле — свойство объекта сохранять работоспособное состояние в течение некоторого времени или некоторой наработки. Иначе говоря, надёжность объекта заключается в отсутствии непредвиденных недопустимых изменений его качества в процессе эксплуатации и хранения. Надёжность тесно связана с различными сторонами процесса эксплуатации. Надёжность в «широком» смысле — комплексное свойство, которое в зависимости от назначения объекта и условий его эксплуатации может включать в себя свойства безотказности, долговечности, ремонтопригодности и сохраняемости, а также определённое сочетание этих свойств.
@@ -147,7 +147,7 @@ t — Lifetime (h)
 **Таблица. Разработка и согласование**
 
 |*Этап*|*Документ*|*Разраб.*|*Согл.*|*Утвер.*|*Основание*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |[НИР](rnd_0.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 |[АП](rnd_ap.md)|Предвари&shy;тельная ПОН| | | |[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 |[ЭП](rnd_ep.md)|ПОНр|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2., [ГОСТ 15.203](гост_15_203.md) т.А.2 п.7|
@@ -168,7 +168,7 @@ t — Lifetime (h)
 **Таблица. Разработка и согласование**
 
 |*Этап*|*Документ*|*Разраб.*|*Согл.*|*Утвер.*|*Основание*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |[НИР](rnd_0.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 |[АП](rnd_ap.md)|Предвари&shy;тельная ПОСТ|Испол&shy;нитель|Испол&shy;нитель|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2|
 |[ЭП](rnd_ep.md)|ПОСТ|Испол&shy;нитель|ГИ|Испол&shy;нитель|[ГОСТ 20.39.302](гост_20_39_302.md) п.4.2, [ГОСТ 15.203](гост_15_203.md) т.А.2 п.7|
@@ -217,7 +217,7 @@ t — Lifetime (h)
 **Таблица. Разработка и согласование**
 
 |*Этап*|*Документ*|*Разраб.*|*Согл.*|*Утвер.*|*Основание*|
-|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|
 |[НИР](rnd_0.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.6|
 |[АП](rnd_ap.md)|—|—|—|—|[ГОСТ 20.39.302](гост_20_39_302.md) п.6|
 |[ЭП](rnd_ep.md)|Расчёт надёжности| | | |Опыт работы с [ЦНИИмаш](contact/tsniimash.md)|
@@ -272,13 +272,13 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 В общем и целом надо выявить (придумать, спросить и т.д.) какие существуют риски, определить как они влияют на проект, что с этим надо делать. После чего заполнить табличку и периодически её обновлять:
 
 |**Таблица.** Риски КК|
-|:--|
+|:-|
 |![](f/srrq/table_sample.webp)|
 
 Рисунки.
 
 |*Общий вид*|*Методика определения В×П*|
-|:--|:--|
+|:-|:-|
 |[![](f/srrq/risk_summary_sample_thumb.webp)](f/srrq/risk_summary_sample.webp)|[![](f/srrq/risk_lxc_thumb.webp)](f/srrq/risk_lxc.webp)|
 
 
@@ -343,7 +343,7 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 Таблица. Основные виды рисков, определенных на основе функциональных признаков.
 
 |*Классификационный признак*|*Вид рисков*|
-|:--|:--|
+|:-|:-|
 |Характер учёта|Внешние;<br> Внутренние|
 |Источник возникновения|Статические (чистые);<br> Динамические (спекулятивные)|
 |Влияние на затраты на управление|Единичные;<br> Портфельные|
@@ -384,7 +384,7 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 Таблица. Некоторые виды систематических и несистематических рисков
 
 |*Примеры систематического риска*|*Примеры несистематического риска*|
-|:--|:--|
+|:-|:-|
 |Рост валового внутреннего продукта (ВВП) происходит более высокими темпами, чем ожидалось|Строительство нового завода обходится дороже, чем предполагалось|
 |Процентные ставки растут|Забастовка рабочих на заводе|
 |Растет курс обмена национальной валюты|Партию продукции приходится уничтожить из‑за несоответствия требованиям безопасности|
@@ -430,7 +430,7 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Безопасность:`**<br> [NFPA 704](nfpa_704.md)・ [Класс опасности](danger_goods.md)・ [Класс чистоты](clean_lvl.md)|

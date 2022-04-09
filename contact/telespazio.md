@@ -2,7 +2,7 @@
 > 2021.11.25 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/t/telespazio_logo1_thumb.webp)](../f/contact/t/telespazio_logo1.webp)|<mark>noemail</mark>, <+39(06)407-91>, Fax: +39(06)407-91;<br> *Via Tiburtina 965, 00156 Rome, Italy*<br> 【<https://www.telespazio.com/>・ [Instagram ⎆](https://www.instagram.com/telespazio_company/)・ [LinkedIn ⎆](https://www.linkedin.com/company/telespazio/?trk=company_name)・ [Twitter ⎆](https://twitter.com/Telespazio)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|To continue to serve the clients in our core space market, while exploiting space assets, technologies & processes (such as satellite communications, earth observation data, meteorology & navigation applications) in other market sectors such as defence, transport & energy|
 |**Vision**|…|
 |**Values**|…|

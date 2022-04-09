@@ -22,7 +22,7 @@ NICM is a proven [NASA](contact/nasa.md) cost estimation tool that enhances curr
 NICM is in wide use across many NASA centers (and any organization proposing instruments for NASA Instruments, and proposal evaluators) & is available under access release restrictions to external organizations. NICM is available for download from ONCE for NASA Civil Servants & NASA Contractors on a current NASA contract.  New users can request NICM or learn more by emailing: <NICM@jpl.nasa.gov>
 
 |*Figure 1 The NICM Database of Normalized Instruments by Instrument Lead Org*|*Figure 2 Cluster Analysis Example of NICM Instrument Dataset*|
-|:--|:--|
+|:-|:-|
 |![](f/fs/ncim_pic01.webp)|![](f/fs/ncim_pic02.webp)|
 
 
@@ -31,7 +31,7 @@ NICM is in wide use across many NASA centers (and any organization proposing ins
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**`Технико‑экономическое обоснование (ТЭО):`**<br> [NICM](nicm.md)・ [Невозвратные затраты](sunk_cost.md)・ [Номинал](nominal.md)・ [Оценка стоимости работ на НПОЛ](contact/lav.md)・ [Секвестр](budget_seq.md)・ [Стоимость аппарата в граммах](sc_price.md)|

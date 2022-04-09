@@ -10,7 +10,7 @@
 **Epsilon** — семейство японских одноразовых твердотопливных ракет‑носителей лёгкого класса, ранее известная как ASR (от англ. Advanced Solid Rocket — передовая твердотопливная ракета), для запуска лёгких научных космических аппаратов. Её разработка началась в 2007 году, как замена четырёхступенчатой твердотопливной ракеты‑носителя «Мю‑5», использование которой было прекращено в 2006 году.
 
 |*Version*|*Description*|*Activity*|
-|:--|:--|:--|
+|:-|:-|:-|
 |Epsilon|Базовый вариант.|Экспл. завершена (2013 ‑ 2013)|
 |┕ Epsilon 2|Модификация.|**Активен** (2016 ‑ …)|
 
@@ -25,7 +25,7 @@
 **Epsilon 2** — японская одноразовая твердотопливная ракета‑носитель лёгкого класса. После первого полёта РН Epsilon подверглась модификации: общая масса выросла до 95.1 т, длина — до 26 м, ПН на НОО до 1 500 ㎏, а на ССО — до 590 ㎏ (с использованием четвёртой ступени CLPS).
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Активность|**Активен** (2016.12.20 ‑ …)|
 |[Аналоги](analogue.md)|[Long March 6](long_march.md) (Китай)・ [Minotaur 4 и 5](minotaur.md) (США)・ [Vega](vega.md) (Европа)|
 |Длина/диаметр|26 м / 2.6 м|
@@ -39,7 +39,7 @@
 **Выводимые массы.**
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |[Uchinoura](spaceport.md)|Epsilon|1.5|0.4|—|—|—|Пуск — $ 39 млн (2019 г);<br> ПН 1.57 % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
@@ -54,7 +54,7 @@
 **Epsilon** — японская одноразовая твердотопливная ракета‑носитель лёгкого класса. Первоначальная версия ракеты‑носителя использовалась только для одного запуска, затем была заменена на Epsilon 2. В качестве первой ступени установлен модифицированный твердотопливный боковой ускоритель SRB-A3, используемый на РН [H-IIA](h2.md) и [H-IIB](h2.md). Длина обтекателя составляет 9.19 м, диаметр — 2.5 м, вес — около 800 ㎏.
 
 |*Characteristic*|*[Value](si.md)*|
-|:--|:--|
+|:-|:-|
 |Активность|Экспл. завершена (2013.09.14 ‑ 2013.09.14)|
 |[Аналоги](analogue.md)|[Long March 6](long_march.md) (Китай)|
 |Длина/диаметр|22.4 м / 2.6 м|
@@ -68,7 +68,7 @@
 **Выводимые массы.**
 
 |*Космодром*|*РН*|<small>*Масса,<br> [НОО](nnb.md), т*</small>|<small>*Масса,<br> [ГСО](nnb.md), т*</small>|<small>*Масса к<br> [Луне](moon.md), т*</small>|<small>*Масса к<br> [Венере](venus.md), т*</small>|<small>*Масса к<br> [Марсу](mars.md), т*</small>|*Примечания*|
-|:--|:--|:--|:--|:--|:--|:--|:--|
+|:-|:-|:-|:-|:-|:-|:-|:-|
 |[Uchinoura](spaceport.md)|Epsilon|1.2|0.3|—|—|—|Пуск — $ 39 млн (2017 г);<br> ПН 1.31 % от ст.массы|
 
 <small>Примечания:<br> **1)** Указана масса для наихудших условий старта.<br> **2)** В скобках указана масса для наилучших условий старта.</small>
@@ -79,7 +79,7 @@
 
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Launch vehicle (LV)](lv.md)】**<br> [ICBM](icbm.md)・ [Integrated payload unit](lv.md)・ [Non‑rocket spacelaunch](nrs.md)・ [Throw weight](throw_weight.md)<br>• • •<br> **China:** [Long March](long_march.md) ┊ **EU:** [Arian](arian.md), [Vega](vega.md) ┊ **India:** [GSLV](gslv.md), [PSLV](pslv.md) ┊ **Israel:** [Shavit](shavit.md) ┊ **Japan:** [Epsilon](epsilon.md), [H2](h2.md), [H3](h3.md) ┊ **Korea N.:** [Unha](unha.md) ┊ **Korea S.:** *([Naro‑1](naro_1.md))* ┊ **RF,CIF:** [Angara](angara.md), [Proton](proton.md), [Soyuz](soyuz.md), [Yenisei](yenisei.md), [Zenit](zenit.md) *([Energia](energia.md), [Korona](korona.md), [N‑1](n_1.md), [R‑1](r_7.md))* ┊ **USA:** [Antares](antares.md), [Atlas](atlas.md), [BFR](bfr.md), [Delta](delta.md), [Electron](electron.md), [Falcon](falcon.md), [Firefly Alpha](firefly_alpha.md), [LauncherOne](launcherone.md), [New Armstrong](new_armstrong.md), [New Glenn](new_glenn.md), [Minotaur](minotaur.md), [Pegasus](pegasus.md), [Shuttle](shuttle.md), [SLS](sls.md), [Vulcan](vulcan.md) *([Saturn](saturn_lv.md), [Sea Dragon](sea_dragon.md))*|

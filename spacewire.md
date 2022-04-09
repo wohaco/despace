@@ -12,7 +12,7 @@
 **SpaceWire** is a standard for high‑speed links & networks for use onboard spacecraft, easing the interconnection of sensors, mass‑memories, processing units, downlink telemetry sub‑systems. SpaceWire equipment is connected together using SpaceWire links which are serial, high‑speed (2 ‑ 200 Mbits/sec), bi‑directional, full‑duplex. Application information is sent along a SpaceWire link in discrete packets. Control & time information can also be sent along SpaceWire links. SpaceWire is being widely used on many space missions by: [ESA](contact/esa.md), [NASA](contact/nasa.md), [JAXA](contact/jaxa.md), [CNSA](contact/cnsa.md). SpaceWire is defined in the European Cooperation for Space Standardization ECSS‑E‑ST‑50‑12C standard.
 
 |*Standard*|*SpaceWire*|
-|:--|:--|
+|:-|:-|
 |Connector types|Micro‑D|
 |Creation date|2019 (rev.1), 2003 (initial)|
 |Max. Binary Rate|2 ‑ 400 Mbit/s, with initial signalling rate of 10Mbit/s; Current radiation tolerant devices are capable of up to 200 Mbit/s data signalling rate with a data-rate of 160 Mbit/s per link or 152 Mbit/s bi‑directional per link|
@@ -110,7 +110,7 @@ SpaceWire используется во многих проектах по вс�
 
 ## Docs & links
 |Navigation|
-|:--|
+|:-|
 |**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
 |*Sections & pages*|
 |**【[Cable](cable.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md)・ [RS‑232, 422, 485](rs_xxx.md)・ SpaceWire・ [ОТБКС](cable.md)|

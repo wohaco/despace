@@ -1,8 +1,8 @@
 # Space Strategies Consulting Ltd.
 > 2021.07.12 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/sscl_logo1_thumb.webp)](../f/contact/s/s/sscl_logo1.webp)|<info@spacestrategiesconsulting.ca>, +1(613)979-0623, Fax: … ;<br> *260 Hearst Way, Suite 401, Kanata Ontario, K2L 3H1 Canada*<br> 【<https://www.sscl.solutions/>】|
-|:--|:--|
+|[![](../f/contact/s/sscl_logo1_thumb.webp)](../f/contact/s/s/sscl_logo1.webp)|<info@spacestrategiesconsulting.ca>, +1(613)979-0623, Fax: …;<br> *260 Hearst Way, Suite 401, Kanata Ontario, K2L 3H1 Canada*<br> 【<https://www.sscl.solutions/>】|
+|:-|:-|
 |**Mission**|As thought leaders, we will bring forward innovative solutions & disruptive capabilities for the most pressing challenges in aerospace, near-space & space domain for civil, commercial & national security applications|
 |**Vision**|…|
 |**Values**|…|
