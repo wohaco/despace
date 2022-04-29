@@ -19,7 +19,7 @@
    1. Each database page has to be as self‑sufficient as possible.
    1. Files / pages names only with lower case Latin letters, digits, underlines.
    1. Images ≤ 670 px wide. Photo ≤ 160×175 px (160×160 px body + 15 px year). [LV](lv.md) / [OE](sc.md) ≤ 120×120 px. Border 1px #ccc.
-   1. [Contact / cooperation page](contact.md) to be fitted into 1 ‑ 2 A4. Logo / sign — png, other — jpg 77. Miniatures ≤ 100×90 & 60×50 px (for cooperation — strictly 60×50), jpg 67.
+   1. Fit [contact / company page](contact.md) into 1 ‑ 2 A4. Logo / sign — webp, other — webp 75. Miniatures ≤ 100×90 & 60×50 px (for companies — 60×50), webp 69.
    1. There is a Spacecraft (SC) as a major unit, then it divides into modules (which can function separately) and/or to units (can’t function separately).
    1. Dates are used in YYYY.MM.DD format, for example: 1947.02.20.
    1. Digits on the left are divided w/ the unbreakable space “ ”, on the right — w/ dots, e.g.: 1 234 567.89 and 0.000.001.928.

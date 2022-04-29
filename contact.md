@@ -166,8 +166,10 @@
 |[PTScientists](ptscientists.md)|·|·|·|·|·|…|
 |[Space Mining Tech.](contact/space_mintech.md)|·|·|·|·|·|Moon & asteroids mining|
 |**【Austria (AT)】**| | | | | | |
-|[Moon Village As.](contact/moon_village_a.md)|N|·|·|·|·|Global info‑forum for gov. / industry / academia / etc. for dev. of the Moon Village|
+|[Moon Village As.](contact/moon_village_a.md)|N|·|·|·|·|Global info‑forum for govt / industry / academia / etc. for dev. of the Moon Village|
 |[SGAC](contact/sgac.md)|·|·|·|·|·|Represent students & young space professionals to the United Nations|
+|**【Belgium (BE)】**| | | | | | |
+|[EVONA](contact/evona.md)|·|·|·|·|·|…|
 |**【Bulgaria (BG)】**| | | | | | |
 |[Endurosat](contact/endurosat.md)|·|·|·|R|·|CubeSat R&D|
 |**【Czechia (CZ)】**| | | | | | |
@@ -184,7 +186,7 @@
 |[CNES](contact/cnes.md)|·|·|·|·|·|Французское космическое агентство|
 |[E-Space](contact/e_space.md)|·|·|·|R|·|Telecom sats|
 |[Euroconsult](contact/euroconsult.md)|·|·|·|C|·|Strategic, research, summits, training programs|
-|[Exotrail](contact/exotrail.md)|·|·|·|R|·|Electric propulsion, simulation/operation software, space tugs|
+|[Exotrail](contact/exotrail.md)|·|·|·|R|·|Electric propulsion, simulation / operation software, space tugs|
 |[Infinite Orbits](contact/infinite_orbits.md)|·|·|·|R|·|In‑orbit servicing, servicing platforms|
 |[Int. Space Univ.](contact/int_space_univ.md)|E|·|·|·|·|Space education for a changing world|
 |[IRAP](contact/irap.md)|·|·|·|·|·|Research Institute in Astrophysics & Planetology|
@@ -254,7 +256,7 @@
 |**【Switzerland (CH)】**| | | | | | |
 |[Astrocast](contact/astrocast.md)|·|·|·|·|·|Sat operator, constellation of nano‑sats on LEO, IoT comms|
 |[ClearSpace SA](contact/clearspace_sa.md)|·|·|·|R|·|Space debris removal: technologies & services|
-|[Beyond Gravity](beyond_gravity.md)|·|·|·|R|·|SC/LV elecronics & components|
+|[Beyond Gravity](beyond_gravity.md)|·|·|·|R|·|SC / LV elecronics & components|
 |[Space Exploration Inst.](contact/space_explor_inst.md)|N|·|·|·|·|Developing space exploration activities, instruments|
 |[SSO](contact/sso.md)|·|·|·|·|·|Swiss Space Office, national space program of Switzerland|
 |[UNIBE](contact/unibe.md)|·|·|·|·|·|…|
@@ -326,7 +328,7 @@
 |[Sim.Space](contact/sim_space.md)|·|·|·|R|·|Simulation software, Hardware-In-The-Loop (HIL) tests|
 |[Space-Nest](contact/space_nest.md)|·|·|·|·|·|Space tech / applications incubator|
 |[Spacecialist](contact/spacecialist.md)|·|·|P|·|·|Nano‑Cubesat projects, promote a prosperous civilian space industry|
-|[SpaceIL](spaceil.md)|·|·|·|·|·|…|
+|[SpaceIL](contact/spaceil.md)|·|·|P|R|·|Promote science & science education. Moon landers|
 |[Technion](contact/technion.md)|E|·|·|·|·|Israel Institute of Technology|
 |[WeSpace Tech.](contact/wespace_tech.md)|·|·|·|R|D|R&D robots, operation, data|
 |**・ Not space ・**|•|•|•|•|•|Meteor Aerospace|
@@ -353,7 +355,8 @@
 |[ALE](contact/ale.md)   13|·|·|·|R|·|Space entertainment (sky canvas), data service, small sats|
 |[Amanogi](contact/amanogi.md)   13|E|·|·|R|·|Sensors & advanced sat data analysis solutions|
 |[Amulapo](contact/amulapo.md)   13|E|·|·|C|·|Creation of space experience content using ICT technology such as xR, robots, & AI|
-|[AkEdge Space](contact/arkedge_space.md)   13|·|·|·|R|·|Small sats|
+|[ArkEdge Space](contact/arkedge_space.md)   13|·|·|·|R|·|Small sats|
+|[ASE-Lab](contact/ase_lab.md)   13|E|·|·|·|·|Students community|
 |[Astrocean](contact/astrocean.md)   13|·|L|·|·|·|Hybrid rocket sea launch, sub‑orbital & orbital rocket sea launch|
 |[Astroflash](contact/astroflash.md)   13|·|·|·|R|·|Small sats|
 |[Astroscale](contact/astroscale.md)   13|·|·|·|R|·|Space debris removal, sat life extension services, end‑of‑life services|
@@ -385,6 +388,7 @@
 |[JEPICO Corp.](contact/jepico_corp.md)   13|·|·|·|R|·|Electronic components|
 |[JpGU](jpgu.md)   13|N|·|P|·|·|Japan geoscience academic union|
 |[JSASS](contact/jsass.md)   13|N|·|P|·|·|Journals, conferences, awards, recommendations|
+|[JSGA](contact/jsga.md)   13|N|·|P|·|·|Observations, protects Earth from space objects|
 |[JSI Corp](contact/jsi_corp.md)   13|·|·|·|R|D|Sat remote sensing commercial services, imagery data|
 |[Kawasaki HVI](contact/kawasaki_hvi.md)   13|·|·|·|R|·|Sats, fairings, rocket launch complex, space transport|
 |[Kobe Univ.](contact/kobe_univ.md)   28|E|·|·|R|·|A leading Japanese national university|
@@ -415,7 +419,7 @@
 |[RIKEN](contact/riken.md)   11|E|·|·|R|·|Biology, chemistry, physics, & research|
 |[Robotic Mining](contact/rom.md)   13|·|·|·|R|·|R&D devices for space mineral exploration & mining|
 |[Sagri](contact/sagri.md)   28|·|·|·|·|D|Space data utilization, machine learning, software|
-|[Sat. Biz Network](contact/sat_biz_network.md)   13|E|·|·|C|·|Technology consulting, space policy, strategy; space startups support|
+|[Sat. Biz Network](contact/sb_net.md)   13|E|·|·|C|·|Technology consulting, space policy, strategy; space startups support|
 |[SE4](contact/se4.md)   13|·|·|·|R|·|Remote robotics using VR|
 |[SEESE](contact/seese.md)   8|·|·|·|R|·|Environmental testing (one stop service), space development services|
 |[SKY Perf. JSAT](contact/sky_perfect_jsat.md)   13|·|·|·|R|·|Telecomms, multi‑channel pay TV company|
@@ -443,6 +447,8 @@
 |[Tamagawa Seiki](contact/tamagawa_seiki.md)   20|·|·|·|R|·|Servo components, motor controllers, robots, IMU, autom. control devices|
 |[Tenchijin](tenchijin.md)|·|·|·|R|·|Business solution using Earth observation data. Startup for big data|
 |[Terra Space](contact/terra_space.md)   26|·|·|·|R|·|CubeSats|
+|[TNLab](contact/tnlab.md)   13|N|·|·|·|·|Student association for space achitectures|
+|[Tohoku SC](contact/tohoku_sc.md)   4|E|·|·|·|·|Students community|
 |[Tokyo Univ.](contact/tokyo_univ.md)   13|E|·|·|R|·|Tokyo University|
 |[TOWING](contact/towing.md)   23|·|·|·|R|·|Space food, soil & cultivation|
 |[Umitron](contact/umitron.md)   13|·|·|·|R|·|Aquafarmers support: IoT, sat remote sensing, machine learning|
@@ -477,7 +483,7 @@
 |【[ИКИ РАН](contact/iki_ras.md)】|·|·|·|·|·|Исследование космоса, НА, ННК, научные задачи (НРДК)|
 |【[Главкосмос](contact/glavkosmos.md)】|·|·|·|·|·|Внешне‑экономическая деятельность РКТ, НИОКР|
 |【[Роскосмос](contact/roskosmos.md)】|·|·|·|·|·|Федеральный орган исполн. власти по косм. деятельности|
-|【[ЦНИИмаш](contact/tsniimash.md)】|·|·|·|·|·|[ГНИО РФ](hrorsi.md). Проектирование, экспер. и исследования КТ|
+|【[ЦНИИмаш](contact/tsniimash.md)】|·|·|·|·|·|[ГНИО](hrorsi.md). Проектирование, экспер. и исследования КТ|
 |[AvantSpace](contact/avantspace.md)|·|·|·|·|·|Малые спутники, ионные двигатели, радиопередатчики|
 |[АВЭКС](contact/aveks.md)|·|·|·|·|·|Проектирование и изготовление систем электроснабжения (МКТН)|
 |[Агат](contact/agat.md)|·|·|·|·|·|Технико‑экономическая экспертиза|
@@ -530,7 +536,7 @@
 |[НТЦ Модуль](contact/ntc_module.md)|·|·|·|·|·|Обработка изображений, вычислительные комплексы|
 |[НСТР](нстр.md)|·|·|·|·|·|…|
 |[ОКБ 5](contact/okb5.md)|·|·|·|·|·|Блоки управления и схемы (МКТУ)|
-|[ОКБ МЭИ](contact/okbmei.md)|·|·|·|·|·|Радиотехнические системы / комплексы РКТ, испытания ракет/КА (ЯГАИ)|
+|[ОКБ МЭИ](contact/okbmei.md)|·|·|·|·|·|Радиотехнические системы / комплексы РКТ, испытания ракет / КА (ЯГАИ)|
 |[ОКБ Факел](contact/edb_fakel.md)|·|·|·|·|·|Создание и производство эл. двигателей, ДУ|
 |[Орион‑ХИТ](орион‑хит.md)|·|·|·|·|·|ХИТ|
 |[РАН](ран.md)|·|·|·|·|·|…|

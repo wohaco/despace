@@ -1,13 +1,13 @@
 # Polar Star Space
 > 2020.11.19 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/p/polar_star_space_logo1_thumb.webp)](../f/contact/p/polar_star_space_logo1.webp)|<pss_info@polarstarspace.com>, <+81-011-299-5502>, Fax: …; *〒001-0022 2-2-11 Kita 22 Jonishi, Kita-ku, Sapporo-shi, Hokkaido, Japan*<br> 【<http://polarstarspace.com/>】|
+|[![](../f/contact/p/polar_star_space_logo1_thumb.webp)](../f/contact/p/polar_star_space_logo1.webp)|<pss_info@polarstarspace.com>, +81(3)5542-1272, Fax: +81(3)5542-1276;<br> *104-0031, Kyobashi 1-5-12 Maruhiro_Kyobashi_building 4th-floor, Chuo-ku, Tokyo*<br> 【[WEBSITE ⎆](http://polarstarspace.com/)】|
 |:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
-|**[MGMT](../mgmt.md)**|…|
+|**Business**|Launch service that uses small rockets|
+|**[MGMT](../mgmt.md)**|・CEO — Takahiro Nakamura|
 
 **Polar Star Space CO., Ltd** is a venture company started by Hokkaido University that utilizes the technologies of Hokkaido University, Tohoku University and Shiga University of Medical Science as a base, in order to provide data-driven problem-solving services in the fields of agriculture, fishery, resources and energy, disaster prevention, etc. Founded 2017.09.
 

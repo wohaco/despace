@@ -1,13 +1,13 @@
 # Amulapo
 > 2021.12.06 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/amulapo_logo1_thumb.webp)](../f/contact/a/amulapo_logo1.webp)|<amulapo.contact@gmail.com>, <mark>noworkphone</mark>, Fax: …;<br> *37-22 Wakamatsu-cho, Shinjuku-ku, Tokyo 162-0056, Japan*<br> 【<https://amulapo-inc.com/>・ [Facebook ⎆](https://www.facebook.com/amulapo.info/)・ [LinkedIn ⎆](https://www.linkedin.com/company/amulapo-inc/)・ [Twitter ⎆](https://twitter.com/amulapo)】|
+|[![](../f/contact/a/amulapo_logo1_thumb.webp)](../f/contact/a/amulapo_logo1.webp)|<amulapo.contact@gmail.com>, <mark>noworkphone</mark>, Fax: …;<br> *37-22 Wakamatsu-cho, Shinjuku-ku, Tokyo 162-0056, Japan*<br> 【[WEBSITE ⎆](https://amulapo-inc.com/)・ [Facebook ⎆](https://www.facebook.com/amulapo.info/)・ [LinkedIn ⎆](https://www.linkedin.com/company/amulapo-inc/)・ [Twitter ⎆](https://twitter.com/amulapo)】|
 |:-|:-|
 |**Mission**|…|
 |**Vision**|Use the universe to change the structure of society|
 |**Values**|…|
 |**Business**|Creation of space experience content using ICT technology such as xR, robots, & AI<br> ・**xR content.** Contract development & sales.<br> ・**Education.** Space, ICT technology, etc. STEAM education & human resource development.<br> ・**Community.** Researcher's, Providing a place for cross‑disciplinary exchange.<br> ・**Development** of technology related to space Development & support.|
-|**[MGMT](../mgmt.md)**|・Representative Director & CEO — Katsuaki Tanaka<br> ・Director COO — Ko Matsuhiro<br> ・Director, CTO — Moeko Hidaka|
+|**[MGMT](../mgmt.md)**|・CEO, Representative Director — Katsuaki Tanaka<br> ・COO, Director — Ko Matsuhiro<br> ・CTO, Director — Moeko Hidaka|
 
 **Amulapo Co., Ltd.** is a Japanese company aimed to create space experience content such as xR, robots, AI, etc. Founded 2020.02.28. A group of young researchers who produce content using ICT technology. Responsible for the transmission of science & technology & social implementation for the future of 2050, while aiming to promote science & technology. We will deliver a fun future experience.
 

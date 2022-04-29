@@ -1,5 +1,5 @@
 # Process chart
-> 2020.08.14 **[🚀](../index/index.md) [despace](index.md) → **[](.md)** <mark>NOCAT</mark>
+> 2020.08.14 [🚀](../index/index.md) [despace](index.md) → **[](.md)** <mark>NOCAT</mark>
 
 [TOC]
 

@@ -1,7 +1,7 @@
 # SEESE
 > 2021.12.08 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/seese_logo1_thumb.webp)](../f/contact/s/seese_logo1.webp)|<info@seese.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2-1-6 Sengen, Tsukuba-shi, Ibaraki, Japan*<br> 【<https://seese.jp/>・ [Facebook ⎆](https://www.facebook.com/SEESE-Inc-102612468412931/)・ [LinkedIn ⎆](https://www.linkedin.com/company/seese-inc/)・ [Twitter ⎆](https://twitter.com/seese2020)】|
+|[![](../f/contact/s/seese_logo1_thumb.webp)](../f/contact/s/seese_logo1.webp)|<info@seese.jp>, <mark>noworkphone</mark>, Fax: …;<br> *2-1-6 Sengen, Tsukuba-shi, Ibaraki, Japan*<br> 【[WEBSITE ⎆](https://seese.jp/)・ [Facebook ⎆](https://www.facebook.com/SEESE-Inc-102612468412931/)・ [LinkedIn ⎆](https://www.linkedin.com/company/seese-inc/)・ [Twitter ⎆](https://twitter.com/seese2020)】|
 |:-|:-|
 |**Mission**|Make space exploration simple|
 |**Vision**|Achieving a sustainable space economy|

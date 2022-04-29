@@ -1,13 +1,13 @@
 # Astrocean
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/astrocean_logo1_thumb.webp)](../f/contact/a/astrocean_logo1.webp)|<takuma.mori@astrocean.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【<https://astrocean.jp>・ <https://aerospacebiz.jaxa.jp/en/spacecompany/astrocean/>】|
+|[![](../f/contact/a/astrocean_logo1_thumb.webp)](../f/contact/a/astrocean_logo1.webp)|<takuma.mori@astrocean.jp>, <mark>noworkphone</mark>, Fax: …;<br> *Tokyo, Japan*<br> 【[WEBSITE ⎆](https://astrocean.jp)・ [Jaxa.jp ⎆](https://aerospacebiz.jaxa.jp/en/spacecompany/astrocean/)】|
 |:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|Providing sea launch service to [hybrid rockets & model rockets](../lv.md) in Japan. Clients are mainly universities, amateur rocketeers & private companies who wish to launch low‑apogee, below ~ 10 ㎞, rockets for the purpose of component test.|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・CEO, Founder — Takuma Mori|
 
 **Astrocean** provides sea launch service to various sized rockets. At the beginning, Astroceanhas founded to improve future shortage of spaceport. Founded in November 2018.
 

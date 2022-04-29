@@ -77,7 +77,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**B**|**BBM** — broadband mode|**ШР** — широкополосный режим|
 | |**[Blender](blender.md)**|Блендер|
 | |**[Blue paper](colour_papers.md)**|Синяя книга|
-|**C**|**[C](c.md)**|Си|
+|**C**|**[C](plang.md)**|Си|
 | |**CCSDS** — [consultative committee for space data systems](ccsds.md)|≠ **CCSDS** — международный Консультативный Комитет по космическим системам передачи данных|
 | |**CDF** — concurrent desigh facility|**[НИР](rnd_0.md)** в [ESA](contact/esa.md)|
 | |**C&DH** — [command & data handling](c_n_dh.md)|≈ **БКУ** — бортовой комплекс управления|
@@ -103,7 +103,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**E**|**EB** — [electric battery](eb.md)|**ХИТ** — химический источник тока|
 | |**ECSS** — European cooperation for space standardization| |
 | |**EDLS** — entry, descent & landing system| |
-| |**[Elevator pitch/speech](elevator_pitch.md)**|Презентация для лифта|
+| |**[Elevator pitch / speech](elevator_pitch.md)**|Презентация для лифта|
 | |**EMI** — [electromagnetic interference](emi.md)|Помехи|
 | |**EOM** — end of mission| |
 | |**ESA** — [European Space Agency](contact/esa.md)|**ЕКА** — Европейское космическое агентство|
@@ -177,7 +177,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[NSSDC ID / COSPAR ID / International designator](spaceid.md)**|Номер полёта|
 | |**NTR** — [nuclear thermal rocket](ps.md)|**ЯРДУ** — ядерная ракетная двигательная установка|
 | |**NTRS** ​— [NASA Technical Reports Server](nasa_sti.md)|≠ **СТОН** ​— сервер технических отчётов НАСА|
-| |**NX** — [Siemens NX](nx.md) (CAD/CAM/CAE‑system)| |
+| |**NX** — [Siemens NX](nx.md) (CAD / CAM / CAE‑system)| |
 | |・**[Nautilus-X](nautilus_x.md)**|≠ Наутилус‑Икс|
 |**O**|**[GNU Octave](gnu_octave.md)**|≠ ГНУ Октава|
 |**P**|**P.Eng** — professional engineer|Профессиональный инженер|
@@ -193,8 +193,8 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**PNT** — positioning, navigation, & timing|≠ Позиционирование, навигация и синхронизация |
 | |**PPD** — [planetary protection document](ppd.md)| |
 | |**PSDS** — [Planetary Science Decadal Survey](us_psds.md)|≠ Десятилетний обзор планетарной науки|
-| |**[Python](python.md)**|Питон|
-|**R**|**[R](r.md)**|≠ **R**|
+| |**[Python](plang.md)**|Питон|
+|**R**|**[R](plang.md)**|≠ **R**|
 | |**RAMS** — reliability, availability, maintainability, safety| |
 | |**RFI** — [radio frequency interference](emi.md)|Помехи|
 |**S**|**SAR** — [synthetic-aperture radar](cam.md)|**РСА** — радар с синтезированной апертурой|
@@ -402,7 +402,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ГЗК** — [грунтозаборный комплекс](sss.md)|**SSS** — soil sampling system|
 | |**ГЗУ** — [грунтозаборное устройство](sss.md)|**SSS** — soil sampling system|
 | |**[Гиродин](iu.md)**|**CMG** — control moment gyroscope|
-| |**[Гироскоп](iu.md)**|**Gyroscope** / **IMU** — inertial measurement unit|
+| |**[Гироскоп](iu.md)**|**Gyroscope / IMU** — inertial measurement unit|
 | |**[Гиростабилизатор](iu.md)**|**IMU** — inertial measurement unit|
 | |**ГИВУС** — [гироскопический измеритель вектора угловой скорости](iu.md)|**ARS** — angular rate sensor|
 | |**ГИС** — главная измерительная система|≠ **MAMS** — major measurement system|
@@ -471,7 +471,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ДНК** — диагностический неразрушающий контроль|**NDT** — nondestructive testing|
 | |**[Договор](contract.md)**|Contract|
 | |**ДОК** — [дорожная карта](plan.md)|Roadmap|
-| |**[Докладная](report_int.md)**|≈ Internal report|
+| |**[Докладная](report.md)**|≈ Internal report|
 | |**[Документ](doc.md)**|Document / Material|
 | |**[Документация](doc.md)**|Documentation|
 | |**[Документ планирования](plan.md)**|Plan|
@@ -498,7 +498,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |*Ru*|*En*|
 |:-|:-|:-|
 |**З**|**[Задел](margin.md)**|Margin|
-| |**[Заключение на этап ОКР](report_rndc.md)**|≠ Conclusion report for R&D phase|
+| |**[Заключение на этап ОКР](report.md)**|≠ Conclusion report for R&D phase|
 | |**[Законы развития техники](td_laws.md)**|Technology derivative laws|
 | |**ЗД** — [звёздный датчик](sensor.md)|**ST** — star tracker|
 | |**ЗИП** — запасные части, инструменты, принадлежности|**SPRK** — spare parts kit|
@@ -527,7 +527,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**Идентификатор космического объекта**|[SpaceID](spaceid.md)|
 | |**[Индустриальная археология](ind_arch.md)**|Industrial archaeology|
 | |**[Инженер](se.md)**|Engineer|
-| |**[Инженерная записка](eng_report.md)**|≠ Engineering note|
+| |**[Инженерная записка](report.md)**|≠ Engineering note|
 | |**ИНО** — инерциальная ориентация|**INAV** — inertial navigation|
 | |**Инопланетянин**|**ET** — extra-terrestrial|
 | |**ИНП** — [индустриальные помехи](emi.md)|Industrial noise|
@@ -828,7 +828,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**НТД** — [научно‑техническая деятельность](st_act.md)|Scientific & technological activities|
 | |**НТДОК** — нормативно‑техническая документация|Reference documentation|
 | |**НТК** — научно‑технический комитет|Scientific & Technical Committee|
-| |**НТО** — [научно‑технический отчёт](report_st.md)|Scientific technical report|
+| |**НТО** — [научно‑технический отчёт](report.md)|Scientific technical report|
 | |**НТОБ** — наземное технологическое оборудование|Ground technological equipment|
 | |**НТП** — [научно‑техническая продукция](st_act.md)|R&D deliverables|
 | |**НТС** — [научно‑технический совет](satc.md)|**SATC** — scientific & technical council|
@@ -860,7 +860,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 |**О**|**ОА** — орбитальный аппарат|Orbiter|
 | |**[ОТБКС](cable.md)** — обжимная технология кабелей|Crimp technology for cables|
 | |**[Образование](edu.md)**|Education|
-| |**[Объяснительная](report_int.md)**|**LoE** — letter of explanation|
+| |**[Объяснительная](report.md)**|**LoE** — letter of explanation|
 | |**ОВ** — орбита выведения|Injection orbit|
 | |**ОВОС** — оценка воздействия на окружающую среду|**EIA** — environmental impact assessment|
 | |**[Одно окно](sw_sys.md)**|Single‑window system|
@@ -897,8 +897,8 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Осциллятор](oscillator.md)**|Oscillator|
 | |**ОТК** — отдел технического контроля|**QC** — quality control|
 | |**[Отчёт](report.md)**|Report|
-| |**[Отчёт о доработке этапа ОКР](report_rnd_pc.md)**|≠ R&D phase correction report|
-| |**[Отчёт о патентных исследованиях](report_pi.md)**|≠ Patent research report|
+| |**[Отчёт о доработке этапа ОКР](report.md)**|≠ R&D phase correction report|
+| |**[Отчёт о патентных исследованиях](report.md)**|≠ Patent research report|
 | |**ОТТ** — общие технические требования|General specifications|
 | |**ОТУ** — отдельные технические условия|Partial specifications|
 | |**ОФ** — опасные факторы|Hazard|
@@ -1035,7 +1035,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Рекурсия](recurs.md)**|Recursion|
 | |**Решение**|Solution / Decree|
 | |**[Решение о корректировке ТЗ](решение_корр_тз.md)**|≠ Terms of reference correction decree|
-| |**[Решение о порядке защиты](review_proc_decree.md)**|≠ Review procedure decree|
+| |**[Решение о порядке защиты](report.md)**|≠ Review procedure decree|
 | |**РИ** — ресурсные испытания|Life‑cycle test|
 | |**РИВ** — разработка и выпуск (при планировании работ)|≠ Designing & launching|
 | |**РИД** — [результат интеллектуальной деятельности](intel_deliv.md)|Intellectual deliverables|
@@ -1102,7 +1102,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**СВ** — [средства выведения](lv.md)|≈ **LV** — launch vehicle / launcher / carrier rocket / expendable launch vehicle|
 | |**СВА** — собственная внешняя атмосфера|Own atmosphere|
 | |**СВВ** — соединение волноводное вращающееся|≠ Waveguide rotative joint|
-| |**[Сводка отзывов](resp_sum.md)**|≠ Responses summary|
+| |**[Сводка отзывов](report.md)**|≠ Responses summary|
 | |**СВИНИ** — средства выведения и наземная инфраструктура|≠ **LV&GS** — launch vehicle & ground segment|
 | |**СВЧ** — [сверхвысокие частоты](comms.md)|**SHF** — super‑high frequencies / microwaves|
 | |**СВЧД** — [сверхвысокочастотный диапазон радиоволн](comms.md)|**SHF** — super‑high frequencies / microwaves|
@@ -1116,7 +1116,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Секвестр](budget_seq.md)**|Budget sequestration|
 | |**[Секретность](confident.md)**|Confidentiality|
 | |**СЖО** — [система жизнеобеспечения](ls.md)|**LS** — life support|
-| |**СЗ** — [служебная записка](report_int.md)|Internal memo / Memo|
+| |**СЗ** — [служебная записка](report.md)|Internal memo / Memo|
 | |**СЗПУП** — [свод знаний по управлению проектами](pmbok.md)|**PMBoK** — project management body of knowledge|
 | |**СЗУ** — статическое запоминающее устройство|Static data storage|
 | |**СИ** — [международная система единиц СИ](si.md)|**SI** — International System of Units|
@@ -1327,7 +1327,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**УТМ** — унифицированный транспортный модуль|≠ Universal transport module|
 | |**УУ** — узел управления|≠ Control unit / Control post|
 | |**УЧ** — [упаковочный чертёж](drawing.md)|≈ Packing drawing|
-| |**УЭ** — [учтённый экземпляр](rec_copy.md)|≠ Recorded copy|
+| |**УЭ** — [учтённый экземпляр](report.md)|≠ Recorded copy|
 |**Ф**|**[Фактор автобуса](bus_factor.md)**|[Bus factor](bus_factor.md)|
 | |**ФАПСИ** — федеральное агентство правительственной связи и информации|**FAPSI, FAGCI** — Federal Agency of Government Communications & Information|
 | |**ФГУП** — федеральное государственное унитарное предприятие|≠ Unitary enterprise|
@@ -1403,7 +1403,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**ЭЦП** — [электронная цифровая подпись](esig.md)|**DS** — [digital signature](esig.md)|
 | |**ЭЭ** — эквивалент электрический|Electrical equivalent|
 | |・**[ЭкзоМарс‑2016](экзомарс_2016.md)** (…)|**ExoMars-2016** (…)|
-| |・ **[ЭкзоМарс‑2020](экзомарс_2020.md)** (…)|**ExoMars-2020** (…)|
+| |・**[ЭкзоМарс‑2020](экзомарс_2020.md)** (…)|**ExoMars-2020** (…)|
 | |・**[Экспедиция‑М](экспедиция_м.md)** (…)|≠ **Expedition-M** (…)|
 | |・**[Электро‑Л](электро_л.md)** (…)|≠ **Electro-L** (…)|
 | |・**[Электро‑М](электро_м.md)** (…)|≠ **Electro-M** (…)|

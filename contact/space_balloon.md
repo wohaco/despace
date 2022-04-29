@@ -1,7 +1,7 @@
 # Space Balloon
 > 2021.12.13 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/space_balloon_logo1_thumb.webp)](../f/contact/s/space_balloon_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…, Mito, Ibaraki, Japan*<br> 【<https://www.spaceballoon.co.jp/>】|
+|[![](../f/contact/s/space_balloon_logo1_thumb.webp)](../f/contact/s/space_balloon_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…, Mito, Ibaraki, Japan*<br> 【[WEBSITE ⎆](https://www.spaceballoon.co.jp/)・ [Instagram ⎆](https://www.instagram.com/spaceballoon_official)】|
 |:-|:-|
 |**Mission**|…|
 |**Vision**|…|

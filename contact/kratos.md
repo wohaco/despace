@@ -6,7 +6,7 @@
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
-|**Business**|…|
+|**Business**|Ground antennas, optimizing / managing satellites, signals|
 |**[MGMT](../mgmt.md)**|…|
 
 **Kratos Integral Systems** is a company aimed for R&D [ground antennas](../scs.md), optimizing/managing satelllites, signals.
@@ -19,15 +19,15 @@
       - Assure uptime & health
       - Protect against cyber-attacks
       - Transport data reliably
-   - Satellites
+   - Satellites:
       - Command & control satellites
       - Hardware/software for TT&C
       - Manufacture & integrate antennas
-   - Signals
+   - Signals:
       - Monitor the RF signal quality
       - Process signals reliably
       - Test & simulate scenarios
-   - Antennas
+   - Antennas:
       - Greenfield to Turnkey System Upgrades
       - Multiband Solutions for L-,S-,C-,X-,Ku-,K-,Ka-,Q/V
       - Sizes Ranging from 2.4M to 18M

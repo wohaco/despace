@@ -14,8 +14,8 @@
 **Offices:**
 
    - **Maana Electric in Luxembourg** — Maana Electric’s head offices are located in Luxembourg, with 2 000 m² facilities. Here Maana Electric develops many of it’s proprietary technologies for applications both on Earth & in Space.
-   - **Maana Electric in Netherlands** — Glass & Robotics Development. Maana Electric’s offices in the Netherlands are located in Delft & are focussed on the development of its glass products & the robotic aspects of its systems. Our offices are located at:<br> Molengraaffsingel 12, 2629 JD, Delft, Netherlands<br> For any enquiries to Maana Electric’s office in the Netherlands, feel free to reach out to us at: <nl@maanaelectric.com>
-   - **Maana Electric in UAE** — ISRU Technologies Development. Maana Electric’s offices in the United Arab Emirates are located in Dubai within the Dubai Silicon Oasis & are focussed on the development of terrestrial & space disruptive ISRU technologies. Our offices are located at:<br> Dubai Silicon Oasis DDP, Building A2, Dubai, UAE<br> For any enquiries to Maana Electric’s office in Dubai, feel free to reach out to us at: <info@maanaelectric.com>
+   - **Maana Electric in Netherlands** — Glass & Robotics Development. Maana Electric’s offices in the Netherlands are located in Delft & are focussed on the development of its glass products & the robotic aspects of its systems. For enquiries to Maana Electric’s office in the Netherlands, feel free to reach out to us at: <nl@maanaelectric.com> Our offices are located at:<br> *Molengraaffsingel 12, 2629 JD, Delft, Netherlands*
+   - **Maana Electric in UAE** — ISRU Technologies Development. Maana Electric’s offices in the United Arab Emirates are located in Dubai within the Dubai Silicon Oasis & are focussed on the development of terrestrial & space disruptive ISRU technologies. For enquiries to Maana Electric’s office in Dubai, feel free to reach out to us at: <info@maanaelectric.com> Our offices are located at:<br> *Dubai Silicon Oasis DDP, Building A2, Dubai, UAE*
 
 <p style="page-break-after:always"> </p>
 

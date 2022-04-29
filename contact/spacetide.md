@@ -1,13 +1,13 @@
 # SPACETIDE
 > 2020.07.20 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/s/spacetide_logo1_thumb.webp)](../f/contact/s/spacetide_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Fukushima Building 7F X-NIHONBASHI, 1-5-3, Muromachi, Nihonbashi, Chuo-ku, Tokyo, Japan*<br> 【<https://spacetide.jp/>・ [Facebook ⎆](https://www.facebook.com/SPACETIDE)・ [LinkedIn ⎆](https://www.linkedin.com/company/spacetide-foundation)・ [Twitter ⎆](https://twitter.com/spacetide_conf)】|
+|[![](../f/contact/s/spacetide_logo1_thumb.webp)](../f/contact/s/spacetide_logo1.webp)|<info@spacetide.org>, <mark>noworkphone</mark>, Fax: …;<br> *Fukushima Building 7F X-NIHONBASHI, 1-5-3, Muromachi, Nihonbashi, Chuo-ku, Tokyo, Japan*<br> 【[WEBSITE ⎆](https://spacetide.jp/)・ [Facebook ⎆](https://www.facebook.com/SPACETIDE)・ [LinkedIn ⎆](https://www.linkedin.com/company/spacetide-foundation)・ [Twitter ⎆](https://twitter.com/spacetide_conf)】|
 |:-|:-|
 |**Mission**|Create New Waves of the Space Industry|
 |**Vision**|Drive the future of human society through the space industry|
 |**Values**|…|
 |**Business**|Promotes newspace businesses worldwide, annual conference|
-|**[MGMT](../mgmt.md)**|・Co‑Founder, President & CEO — Masayasu Ishida<br> ・Co‑Founder, Director & COO — Masashi Sato|
+|**[MGMT](../mgmt.md)**|・CEO, President, Founder — Masayasu Ishida<br> ・COO, Director, Founder — Masashi Sato|
 
 **SPACETIDE Foundation** is a Tokyo‑based nonprofit organization to promotes newspace businesses worldwide. Our main mission is to hold annual business conference. Founded 2015, estateed 2016.08.
 

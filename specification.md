@@ -20,7 +20,7 @@ Specifications are a type of technical standard that may be developed by any of 
 
 > <small>**Спецификация** — русскоязычный термин. **Specification** — англоязычный эквивалент.</small>
 
-**Специфика́ция** — *(от позднелат. specificatio, от лат. species — вид, разновидность и лат. facio — делаю)*:
+**Спецификация** — *(от позднелат. specificatio, от лат. species — вид, разновидность и лат. facio — делаю)*:
 
    1. [документ](doc.md), который точно, полностью и в поддающейся проверке форме определяет требования, устройство, поведение и другие особенности системы, компонента, продукта, результата, услуги, а также процедуры, способные определить, были ли выполнены эти условия (примеры: спецификация требований, спецификация структуры, спецификация продукта, спецификация испытаний) *(Руководство к Cводу знаний по управлению проектами)*;
    1. перечисление подробностей, на которые необходимо обратить особое внимание *(Большой энциклопедический словарь)*.
@@ -188,7 +188,7 @@ Specifications are a type of technical standard that may be developed by any of 
 |*Sections & pages*|
 |**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md)・ [Апоцентр и перицентр](apopericentre.md)・ [Гравманёвр](gravass.md)・ [Кеплеровы элементы](keplerian.md)・ [Космическая скорость](esc_vel.md)・ [Сфера Хилла](hill_sphere.md)・ [Терминатор](terminator.md)・ [Точки Лагранжа](l_points.md)・ [Эффект Оберта](oberth_eff.md)|
 |**`Модель:`**<br> [DEM](drawing.md)・ [SPICE](spice.md)・ [ВДМ](drawing.md)・ [Лимит](limit.md)・ [МИХ](mic.md)・ [Осциллятор](oscillator.md)|
-|**【[Software](soft.md)】**<br> [ASP](asp.md)・ [Blender](blender.md)・ [C](c.md)・ [Cosmographia](cosmographia.md)・ [DOORS](doors.md)・ [DWG](cad_f.md)・ [GIMP](gimp.md)・ [Git](git.md)・ [IGES](cad_f.md)・ [ISIS](isis.md)・ [JT](cad_f.md)・ [NGT](neogeography_toolkit.md)・ [NX](nx.md)・ [Octave](gnu_octave.md)・ [PDF](pdf.md)・ [Python](python.md)・ [R](r.md)・ [SPICE](spice.md)・ [STEP](cad_f.md)・ [STL](stk.md)・ [SVG](cad_f.md)・ [Syncthing](syncthing.md)・ [SysML](sysml.md)・ [Teamcenter](teamcenter.md)・ [Система управления версиями](vcs.md)・ [ХРИП](adra.md)|
+|**【[Software](soft.md)】**<br> [ASP](asp.md)・ [Blender](blender.md)・ [C](plang.md)・ [Cosmographia](cosmographia.md)・ [DOORS](doors.md)・ [DWG](cad_f.md)・ [GIMP](gimp.md)・ [Git](git.md)・ [IGES](cad_f.md)・ [ISIS](isis.md)・ [JT](cad_f.md)・ [NGT](neogeography_toolkit.md)・ [NX](nx.md)・ [Octave](gnu_octave.md)・ [OS](os.md)・ [PDF](pdf.md)・ [Python](plang.md)・ [R](plang.md)・ [SPICE](spice.md)・ [STEP](cad_f.md)・ [STL](stk.md)・ [SVG](cad_f.md)・ [Syncthing](syncthing.md)・ [SysML](sysml.md)・ [Teamcenter](teamcenter.md)・ [Система управления версиями](vcs.md)・ [ХРИП](adra.md)|
 
    1. Docs: …
    1. <https://en.wikipedia.org/wiki/Specification_(technical_standard)>

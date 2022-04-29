@@ -1,13 +1,13 @@
-# ASTROFLASH, Inc.
+# ASTROFLASH
 > 2021.07.14 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
-|[![](../f/contact/a/astroflash_logo1_thumb.webp)](../f/contact/a/astroflash_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【<https://www.astroflash.co.jp/>・ [Facebook ⎆](https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-AstroFlash-102836837889426/)・ [Twitter ⎆](https://twitter.com/ASTROFLASH2019)】|
+|[![](../f/contact/a/astroflash_logo1_thumb.webp)](../f/contact/a/astroflash_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *4-1-3 Hongo, Bunkyo-ku, Tokyo, Japan*<br> 【[WEBSITE ⎆](https://www.astroflash.co.jp/)・ [Facebook ⎆](https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-AstroFlash-102836837889426/)・ [Twitter ⎆](https://twitter.com/ASTROFLASH2019)】|
 |:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
 |**Business**|[Small satellites](../sc.md)|
-|**[MGMT](../mgmt.md)**|…|
+|**[MGMT](../mgmt.md)**|・CEO — Morito Katsuyama |
 
 **ASTROFLASH, Inc.** is a space-sector startup from the University of Tokyo. Through our small satellite technology, we endeavor to bring space closer to our everyday life.
 
