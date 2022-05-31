@@ -15,20 +15,23 @@
 
 **Some technical issues.** The database consists of text files with markdown. For not to be vendor‑locked. And to be able to use it anywhere in case you have a markdown editor / viewer. Notes & Requirements: (in historical order)
 
-   1. Pages’re fitted for A4 pages or on a 6" device screen. The proposed themes for proposed editors (VNote, ghostwriter) renders pages in the width of A4. Arial Narrow; sometimes Tahoma. There’s a A5 (5 ㎜ margins) theme also.
+   1. Pages’re fitted for A4 pages or on a 6" device screen. The proposed themes for proposed editors (VNote, ghostwriter) renders pages in the width of A4. Liberation (Arial) Narrow; sometimes Tahoma. There’s a A5 (5 ㎜ margins) theme also.
    1. Each database page has to be as self‑sufficient as possible.
    1. Files / pages names only with lower case Latin letters, digits, underlines.
    1. Images ≤ 670 px wide. Photo ≤ 160×175 px (160×160 px body + 15 px year). [LV](lv.md) / [OE](sc.md) ≤ 120×120 px. Border 1px #ccc.
-   1. Fit [contact / company page](contact.md) into 1 ‑ 2 A4. Logo / sign — webp, other — webp 75. Miniatures ≤ 100×90 & 60×50 px (for companies — 60×50), webp 69.
-   1. There is a Spacecraft (SC) as a major unit, then it divides into modules (which can function separately) and/or to units (can’t function separately).
-   1. Dates are used in YYYY.MM.DD format, for example: 1947.02.20.
+   1. Fit [contact / company page](contact.md) into 1 ‑ 2 A4. Webp 75. Mini — ≤ 100×90 & 60×50 px (60×50 for companies), webp 69.
+   1. Dates are used in YYYY.MM.DD format, e.g. — 1947.02.20. Time — in 24h format, e.g. — 17:06.
    1. Digits on the left are divided w/ the unbreakable space “ ”, on the right — w/ dots, e.g.: 1 234 567.89 and 0.000.001.928.
    1. Tables. Use the left align. Try to fit lists in a single line.
-   1. 1 lb = 0.453592 ㎏; 1 g = 9.80665 ㎧².
-   1. Use KISS (keep it simple, stupid). Because it seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove.
+   1. 1 lb = 0.453.592 ㎏; 1 g = 9.81 ㎧² (sometimes 9.806.65).
+   1. Use KISS (keep it simple, stupid) — it seems that perfection is attained not when there’s nothing more to add, but when there’s nothing more to remove.
    1. Prefer:
-      - a text over images because a text is searchable, editable, scalable, consumes less bytes;
-      - large pages with a lot of topics & structured text over a lot of small pages because it’s easier to have a wide & narrowed look at the same time;
+      - a text over images — it’s searchable, editable, scalable, consumes less bytes;
+      - large pages full of topics & structured text over several tiny pages — it’s easier to see the full picture at once;
+   1. A spacecraft (SC) is a major matter of a Space Segment, it divides to:
+      - modules (can function separately)
+         - units (cannot function separately)
+            - parts
 
 Special symbols have to be used:  
 …°·•±×÷≤≥≈≠ ‑ − — ⎆ ↷✉ ❐“”’«»✔✘☐◪☑←↑→↓↔↕↖↗↘↙♁↗ 🚀↘ ªⁱⁿº⁺⁻⁼⁽⁾ ⁰¹²³⁴⁵⁶⁷⁸⁹₊₋₌₍₎ ₀₁₂₃₄₅₆₇₈₉ₐₑₒₓₔₕₖₗₘₙₚₛₜ ░▒▓█┆╟║╙╓╱╲╳№©®™ ¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞π⌀∑∞√∛∜‰ ◯○⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ ｛｝（）［］【】・，、。「」『』 αβγδεζηθικλμνξο03C0πρςστυφχψω ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡΣΤΥΦΧΨΩ ➊➋➌➍➎➏➐➑➒➓ ➀➁➂➃➄➅➆➇➈➉⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯ ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ♳♴♵♶♷♸♹ etc. ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ 👌👍👎👏✋✌ ⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇    ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛  <br> №℡㏑㏒ K℃℉ ㎐㎑㎒㎓㎔ ㏈ ㎚㎜㎝㎞㎧㎳ ㍴ ㎅㎆㎇ ㎩㎪㎫㎬ ㏅㏐㏓ ㏙ ㎾㎿㎸㎹㎶㏁ ㎎㎏ ㎂㎃㎄ ㏉㏜㏂㏘ 😷😵😳😲😱😰😭😫😪😩😨😥😤😣😢😡😠😞😝😜😚😘😖😔😓😒😏😍😌😋😊😉😆😅😄😃😂😁

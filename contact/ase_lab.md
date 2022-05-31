@@ -2,7 +2,7 @@
 > 2022.04.18 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/a/ase_lab_logo1_thumb.webp)](../f/contact/a/ase_lab_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…*<br> 【[WEBSITE ⎆](https://ase.cmd-moon.space/)・ [Twitter ⎆](https://twitter.com/ASE_lab_)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

@@ -2,7 +2,7 @@
 > 2022.04.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/j/jsga_logo1_thumb.webp)](../f/contact/j/jsga_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *…, Tokyo, Japan*<br> 【[WEBSITE ⎆](https://www.spaceguard.or.jp)・ [Facebook ⎆](https://www.facebook.com/spaceguard.japan/)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/Japan_Spaceguard_Association)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|

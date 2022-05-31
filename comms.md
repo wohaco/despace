@@ -71,7 +71,22 @@ TMP:
 [General radiolink calculation ❐](f/comms/radiolink_calc_full.zip)
 
 
-### Frequency Reuse
+### Frequency modulation
+
+**Frequency modulation (FM)** is the encoding of information in a carrier wave by varying the instantaneous frequency of the wave. The technology is used in telecommunications, radio broadcasting, signal processing, and computing.
+
+【**Table.** Passband modulation】
+
+|*Section*|*Description*|
+|:-|:-|
+|**Analog modulation**|AM・ FM・ PM・ QAM・ SM・ SSB|
+|**Digital modulation**|ASK・ APSK・ CPM・ FSK・ MFSK・ MSK・ OOK・ PPM・ PSK・ QAM・ SC-FDE・ TCM・ WDM|
+|**Hierarchical modulation**|QAM・ WDM|
+|**Spread spectrum**|CSS・ DSSS・ FHSS・ THSS|
+
+
+
+### Frequency reuse
 
 **Frequency reuse (FR)** — technique for using a specified range of frequencies more than once in the same radio system so that the total capacity of the system is increased without increasing its allocated bandwidth. Frequency reuse schemes require sufficient isolation among the signals that use the same frequencies so that mutual interference among them is controlled at an acceptable level. For satellites, frequency reuse can be achieved by using **orthogonal polarization** states for transmission and/or by using satellite antenna **(spot) beams** that serve separate, non-overlapping geographic regions.
 
@@ -201,6 +216,7 @@ TMP:
    1. <https://ru.wikipedia.org/wiki/Тетрахроматия>
    1. <https://ru.wikipedia.org/wiki/Радиолиния_нейтрального_водорода>
    1. <https://en.wikipedia.org/wiki/ITU_Radio_Regulations>
+   1. <https://en.wikipedia.org/wiki/Frequency_modulation>
    1. <http://www.itu.int/>
    1. <https://ru.wikipedia.org/wiki/Регламент_радиосвязи>
    1. 2017.07.14 <https://geektimes.ru/post/291095/>

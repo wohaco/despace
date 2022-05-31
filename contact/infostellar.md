@@ -5,7 +5,7 @@
 |:-|:-|
 |**Mission**|…|
 |**Vision**|…|
-|**Values**|…|
+|**Values**|**Customer Success.** We are passionate about serving our customers. We express our passion by being focused on ensuring their success as well as our own.・ **One Infostellar.** We are one team, each member is vital to our mission.  As a team we seek what is best for Infostellar as a whole, rather than what is best for the individual.・ **Ownership.** We are responsible for the company's success. Being proactive improves our company, our product & our customer experience.・ **Diversity & Inclusion.** We are committed to making Infostellar a place where people from all backgrounds feel like they belong & can contribute.  We care about each team member. We embrace different perspectives with respect allowing us to be a more effective team.|
 |**Business**|Sat Ground Segment as a Service provider, cubesat components|
 |**[MGMT](../mgmt.md)**|・CEO, Founder — Naomi Kurahara|
 

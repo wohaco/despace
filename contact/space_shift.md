@@ -2,7 +2,7 @@
 > 2022.04.19 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/space_shift_logo1_thumb.webp)](../f/contact/s/space_shift_logo1.webp)|<mark>noemail</mark>, <mark>noworkphone</mark>, Fax: …;<br> *Inspired.Lab, 6th floor, Otemachi Building, 1-6-1 Otemachi, Chiyoda Ward, Tokyo 100-0004 Japan*<br> 【[WEBSITE ⎆](http://spcsft.com/)・ [LinkedIn ⎆](https://www.linkedin.com/company/spcsft)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|Unraveling the World with Space & AI|
 |**Vision**|Aiming to realizea more‑efficient society|
 |**Values**|…|

@@ -24,7 +24,7 @@ A list of [Communication systems](comms.md).
 |Composition| |
 |Consumption, W|16|
 |Dimensions, ㎜|87 × 93 × 28|
-|[Interfaces](interface.md)|Customizable [LVDS](lvds.md) or CMOS. 5 pairs for serial data (clock input/output, data, optional enable). RS-485 or I2C or CAN-2B. Micro-D (MIL-DTL-83513) female (9-pin power, 21-pin data/control). SMA female 50 Ω RF output|
+|[Interfaces](interface.md)|Customizable [LVDS](lvds.md) or CMOS. 5 pairs for serial data (clock in/out, data, optional enable). RS-485 or I2C or CAN-2B. Micro-D (MIL-DTL-83513) female (9-pin power, 21-pin data/control). SMA female 50 Ω RF output|
 |[Lifetime](lifetime.md)/Resource, h(y)|26 280 (3) / …|
 |Mass, ㎏|0.38|
 |[Overload](vibration.md), Grms| |
@@ -36,11 +36,11 @@ A list of [Communication systems](comms.md).
 |**【Specific】**|• • •|
 |[Bitrate](bitrate.md), bit/s|(внутр. до 1 Гбит/с)|
 |Continuous work, h| |
+|Distance, ㎞| |
 |Frequency instability|±10 ppm|
 |[Frequency range](comms.md), ㎐|X: 8 200 000 000 (настройка 8.1 ‑ 8.5 ㎓)|
-|Distance, ㎞| |
+|[Modulation type](comms.md)|QPSK, 8PSK, 16APSK, 32APSK|
 |Out. power, W|2.5|
-|Modulation type|QPSK, 8PSK, 16APSK, 32APSK|
 |Signal structure| |
 | |[![](f/comms/c/csxbt_pic1_thumb.webp)](f/comms/c/csxbt_pic1.webp)|
 
@@ -64,7 +64,7 @@ A list of [Communication systems](comms.md).
 |Composition| |
 |Consumption, W|70|
 |Dimensions, ㎜|230 × 154 × 45|
-|[Interfaces](interface.md)|Customizable [LVDS](lvds.md). Two ports with 4 pairs each (clock input/output, data, optional enable). [RS-422](rs_xxx.md) or [MIL-STD-1553](mil_std_1553.md)|
+|[Interfaces](interface.md)|Customizable [LVDS](lvds.md). Two ports with 4 pairs each (clock in/out, data, optional enable). [RS-422](rs_xxx.md) or [MIL-STD-1553](mil_std_1553.md)|
 |[Lifetime](lifetime.md)/Resource, h(y)|61 320 (7) / …|
 |Mass, ㎏|1.8|
 |[Overload](vibration.md), Grms| |
@@ -79,7 +79,7 @@ A list of [Communication systems](comms.md).
 |Distance, ㎞| |
 |Frequency instability|±4 ppm|
 |[Frequency range](comms.md), ㎐|X: 8 225 000 000 (настройка 8.1 ‑ 8.5 ㎓)|
-|Modulation type|QPSK, 8PSK, 16APSK и 32APSK|
+|[Modulation type](comms.md)|QPSK, 8PSK, 16APSK и 32APSK|
 |Out. power, W|8|
 |Signal structure| |
 | |[![](f/comms/h/hsxbdt_pic1_thumb.webp)](f/comms/h/hsxbdt_pic1.webp)|
@@ -119,7 +119,7 @@ A list of [Communication systems](comms.md).
 |Distance, ㎞| |
 |Frequency instability|± 0.00005|
 |[Frequency range](comms.md), ㎐|100 ‑ 250|
-|Modulation type| |
+|[Modulation type](comms.md)| |
 |Out. power, W|0.3 (при [КСВ](swr.md) ≤ 2)|
 |Signal structure|посылка непрерывной несущей в течение 0.5 ± 0.3 s и посылка АИМ сигнала с частотой следования импульсов 1 500 Гц в течение 0.8 ± 0.2 с|
 | |[![](f/comms/p/prizyv-1_pic1_thumb.webp)](f/comms/p/prizyv-1_pic1.webp)|
@@ -159,7 +159,7 @@ A list of [Communication systems](comms.md).
 |Distance, ㎞|180|
 |Frequency instability| |
 |[Frequency range](comms.md), ㎐|10 000 000 (10 ㎒)|
-|Modulation type| |
+|[Modulation type](comms.md)| |
 |Out. power, W|2 (при [КСВ](swr.md) ≤ 2)|
 |Signal structure|посылка АИМ сигнала с частотой следования импульсов 1 500 Гц в течении 0.5 ± 0.2 s с паузами между посылками 1.5 с|
 | |[![](f/comms/p/prizyv-3_pic1_thumb.webp)](f/comms/p/prizyv-3_pic1.webp)|

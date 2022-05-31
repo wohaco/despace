@@ -62,7 +62,7 @@
 |Distance, ㎞| |
 |Frequency instability| |
 |[Frequency range](comms.md), ㎐| |
-|Modulation type| |
+|[Modulation type](comms.md)| |
 |Out. power, W| |
 |Signal structure| |
 | |[![](f/comms//_pic1_thumb.webp)](f/comms//_pic1.webp)|

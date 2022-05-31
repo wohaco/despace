@@ -2,7 +2,7 @@
 > 2022.04.15 [🚀](../../index/index.md) [despace](../index.md) → [Contact](../contact.md)
 
 |[![](../f/contact/s/spaceil_logo1_thumb.webp)](../f/contact/s/spaceil_logo1.webp)|<contacts@spaceil.com>, <mark>noworkphone</mark>, Fax: …;<br> *…, Tel Aviv, Tel Aviv, Israel*<br> 【[WEBSITE ⎆](https://en.wikipedia.org/wiki/SpaceIL)・ [Facebook ⎆](https://www.facebook.com/SpaceIL/)・ [Instagram ⎆](https://www.instagram.com/spaceil/)・ [LinkedIn ⎆](https://www.linkedin.com/company/spaceil)・ [Twitter ⎆](https://twitter.com/TeamSpaceIL)・ [Wikipedia ⎆](https://en.wikipedia.org/wiki/SpaceIL)】|
-|:--|:--|
+|:-|:-|
 |**Mission**|…|
 |**Vision**|…|
 |**Values**|…|
