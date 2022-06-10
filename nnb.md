@@ -1,6 +1,8 @@
 # Баллистико‑навигационное обеспечение
 > 2019.05.02 [🚀](../index/index.md) [despace](index.md) → [GNC](gnc.md), [БНО](nnb.md), [ДУ](ps.md), [Control](control.md), [SE](se.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -414,33 +416,23 @@ Every two years, low‑energy transfer windows open up which allow movement betw
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Баллистико‑навигационное обеспечение (БНО):`**<br> [SPICE](spice.md)・ [Апоцентр и перицентр](apopericentre.md)・ [Гравманёвр](gravass.md)・ [Кеплеровы элементы](keplerian.md)・ [Космическая скорость](esc_vel.md)・ [Сфера Хилла](hill_sphere.md)・ [Терминатор](terminator.md)・ [Точки Лагранжа](l_points.md)・ [Эффект Оберта](oberth_eff.md)|
 |**【[Control](Control.md)】**<br> [Ad hoc](ad_hoc.md)・ [Business travel](business_travel.md)・ [Chief designers council](cocd.md)・ [CML](cml.md)・ [Competence](competence.md)・ [Confident](confident.md)・ [Consp.theory](consp_theory.md)・ [Control sys. (CS)](cs.md)・ [Coordinate system](coord_sys.md)・ [Curator](curator.md)・ [Designer’s supervision](des_spv.md)・ [E‑sig](esig.md)・ [Engineer](se.md)・ [Errand](errand.md)・ [Federal law](fed_law.md)・ [Federal TP](fed_tp.md)・ [Federal SP](fed_sp.md)・ [GNC](gnc.md)・ [Gravity assist](gravass.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [Manager](manager.md)・ [MBSE](se.md)・ [Meeting](meeting.md)・ [MCC](scs.md)・ [MIC](mic.md)・ [MML](mml.md)・ [MoU](contract.md)・ [Nav. & ballistics (NB)](nnb.md)・ [Nonprofit org.](nonprof_org.md)・ [NX](nx.md)・ [Oberth effect](oberth_eff.md)・ [Org.structure](orgstruct.md)・ [Outcomes commission](outccom.md)・ [Patent](patent.md)・ [Peter prin.](peter_principle.md)・ [Plan](plan.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Single-window system](sw_sys.md)・ [Situ.leadership](situ_leadership.md)・ [Skunk works](se.md)・ [State arm. plan](plan_sa.md)・ [Swamp](swamp.md)・ [Teamcenter](teamcenter.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Veto](veto.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
 |**【[Systems engineering](se.md)】**<br> [Competence](competence.md)・ [Coordinate system](coord_sys.md)・ [Designer’s supervision](des_spv.md)・ [Industrial archaeology](ind_arch.md)・ [Instruction](instruction.md)・ [Lean manuf.](lean_man.md)・ [Lifetime](lifetime.md)・ [MBSE](se.md)・ [MML](mml.md)・ [Nav. & ballistics (NB)](nnb.md)・ [NASA SEH](book_nasa_seh.md)・ [Oberth effect](oberth_eff.md)・ [PMBok](pmbok.md)・ [Quorum](quorum.md)・ [R&D management](mgmt.md)・ [R&D support](rnd_support.md)・ [Recursion](recurs.md)・ [Schulze_method](schulze_method.md)・ [Sci'N'Tech activities](st_act.md)・ [Sci'N'Tech council](satc.md)・ [Skunk works](se.md)・ [SysML](sysml.md)・ [Tennis racket theorem](tr_theorem.md)・ [TRIZ](triz.md)・ [TRL](trl.md)・ [V‑model](v_model.md)・ [Workflow](workflow.md)・ [Workgroup](wg.md)|
 
    1. Docs: …
-   1. <https://ru.wikipedia.org/wiki/Орбита>
-   1. <https://ru.wikipedia.org/wiki/Узел_орбиты>
-   1. <https://ru.wikipedia.org/wiki/Высокая_эллиптическая_орбита>
+   1. <https://en.wikipedia.org/wiki/Orbit>
+   1. <https://en.wikipedia.org/wiki/Orbital_node>
    1. <https://en.wikipedia.org/wiki/Highly_elliptical_orbit>
-   1. <https://ru.wikipedia.org/wiki/Гелиоцентрическая_орбита>
    1. <https://en.wikipedia.org/wiki/Heliocentric_orbit>
-   1. <https://ru.wikipedia.org/wiki/Геопереходная_орбита>
    1. <https://en.wikipedia.org/wiki/Geostationary_transfer_orbit>
-   1. <https://ru.wikipedia.org/wiki/Геосинхронная_орбита>
    1. <https://en.wikipedia.org/wiki/Geosynchronous_orbit>
-   1. <https://ru.wikipedia.org/wiki/Геостационарная_орбита>
    1. <https://en.wikipedia.org/wiki/Geostationary_orbit>
-   1. <https://ru.wikipedia.org/wiki/Геоцентрическая_орбита>
    1. <https://en.wikipedia.org/wiki/Geocentric_orbit>
-   1. <https://ru.wikipedia.org/wiki/Низкая_опорная_орбита>
-   1. <https://ru.wikipedia.org/wiki/Низкая_околоземная_орбита>
+   1. <https://en.wikipedia.org/wiki/Parking_orbit>
    1. <https://en.wikipedia.org/wiki/Low_Earth_orbit>
-   1. <https://ru.wikipedia.org/wiki/Синхронная_орбита>
    1. <https://en.wikipedia.org/wiki/Synchronous_orbit>
-   1. <https://ru.wikipedia.org/wiki/Солнечно‑синхронная_орбита>
    1. <https://en.wikipedia.org/wiki/Sun-synchronous_orbit>
-   1. <https://ru.wikipedia.org/wiki/Орбита_Лиссажу>
    1. <https://en.wikipedia.org/wiki/Lissajous_orbit>

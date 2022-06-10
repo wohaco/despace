@@ -1,6 +1,8 @@
 # Vega 1, Vega 2
 > 2019.11.30 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), **[Project](project.md)**
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -226,13 +228,12 @@ The aerostat’s electronics provided unidirectional communication with the Eart
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Vega, Description and scientific objectives ❐](f/project/вега/vg_desc.pdf) (1984 ‑ 1986)
-   1. <ttps://ru.wikipedia.org/wiki/Вега_(АМС)>
    1. <https://en.wikipedia.org/wiki/Vega_program>
    1. <https://www.laspace.ru/projects/planets/vega_1_2/> — Automatic interplanetary stations Vega 1 and Vega 2
    1. <http://galspace.spb.ru/index502.html> — Exploring Venus and Halley’s comet

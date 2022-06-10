@@ -1,6 +1,8 @@
 # Spaceport
 > 2020.05.10 [🚀](../index/index.md) [despace](index.md) → [Spaceport](spaceport.md), [LV](lv.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -134,7 +136,6 @@ Al-Anbar Space Research Center & other Iraqi launch sites were damaged in the 19
 
    1. <http://www.cla.aer.mil.br/>
    1. <https://en.wikipedia.org/wiki/Alcântara_Launch_Center>
-   1. <https://ru.wikipedia.org/wiki/Алкантара_(космодром)>
 
 
 
@@ -161,7 +162,6 @@ Spaceport America is «the world’s first purpose-built commercial spaceport»,
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Spaceport_America>
-   1. <https://ru.wikipedia.org/wiki/Америка_(космопорт)>
    1. <http://www.spaceportamerica.com/>
 
 
@@ -191,7 +191,6 @@ The spaceport is currently leased by the Kazakh Government to Russia until 2050,
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Baikonur_Cosmodrome>
-   1. <https://ru.wikipedia.org/wiki/Байконур>
 
 
 
@@ -218,7 +217,6 @@ For GEO launches, the latitude of 28°27'N has a slight disadvantage compared to
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station>
-   1. <https://ru.wikipedia.org/wiki/База_ВВС_США_на_мысе_Канаверал>
 
 
 
@@ -280,7 +278,6 @@ The spaceport will perform satellite operations & engage in a lunar mission to d
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Dombarovsky_Air_Base>
-   1. <https://ru.wikipedia.org/wiki/Ясный_(пусковая_база)>
 
 
 
@@ -337,7 +334,6 @@ Esrange was built in 1964 by ESRO, European Space Research Organisation, which l
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Guiana_Space_Centre>
-   1. <https://ru.wikipedia.org/wiki/Куру_(космодром)>
    1. <http://www.cnes-csg.fr>
 
 
@@ -391,7 +387,6 @@ It is the largest spaceport in China (until 1984 — the only one) & the only on
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center>
-   1. <https://ru.wikipedia.org/wiki/Цзюцюань_(космодром)>
 
 
 
@@ -416,7 +411,6 @@ It is the largest spaceport in China (until 1984 — the only one) & the only on
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Kapustin_Yar>
-   1. <https://ru.wikipedia.org/wiki/Капустин_Яр>
 
 
 
@@ -443,7 +437,6 @@ At the moment, only 9 % of the area of the cosmodrome is used for its intended p
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Kennedy_Space_Center>
-   1. <https://ru.wikipedia.org/wiki/Космический_центр_Кеннеди>
 
 
 
@@ -468,7 +461,6 @@ The **Pacific Spaceport Complex – Alaska** (**PSCA**), formerly known as the *
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_–_Alaska>
-   1. <https://ru.wikipedia.org/wiki/Кадьяк_(космодром)>
 
 
 
@@ -494,7 +486,6 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Kwajalein_Atoll>
-   1. <https://ru.wikipedia.org/wiki/Кваджалейн>
    1. 2013.07.27 [Трущобы Тихого Океана ⎆](https://masterok.livejournal.com/1205140.html)
 
 
@@ -520,7 +511,6 @@ The US Navy has hosted a naval base on Kwajalein Island, the southernmost part o
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Naro_Space_Center>
-   1. <https://ru.wikipedia.org/wiki/Космический_центр_Наро>
 
 
 
@@ -547,7 +537,6 @@ Palmachim is used to launch the «Shavit» space launch vehicle into retrograde 
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Palmachim_Airbase>
-   1. <https://ru.wikipedia.org/wiki/Пальмахим_(авиабаза)>
 
 
 
@@ -575,7 +564,6 @@ The cosmodrome has an extensive network of roads & Railways, aviation equipment 
 
    1. <http://www.plesetzk.ru/>
    1. <https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome>
-   1. <https://ru.wikipedia.org/wiki/Плесецк_(космодром)>
 
 
 
@@ -628,7 +616,6 @@ The ground station is in use & continues to track NASA, ESA & Italian satellites
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Broglio_Space_Centre>
-   1. <https://ru.wikipedia.org/wiki/Сан‑Марко_(морской_космодром)>
 
 
 
@@ -658,7 +645,6 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 
    1. [Sea Dragon](sea_dragon.md) — project of a super-heavy launch vehicle with a sea launch.
    1. <https://en.wikipedia.org/wiki/Sea_Launch>
-   1. <https://ru.wikipedia.org/wiki/Морской_старт>
 
 
 
@@ -682,7 +668,7 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 
 **Notes:**
 
-   1. <https://ru.wikipedia.org/wiki/Семнан_(космодром)>
+   1. <https://en.wikipedia.org/wiki/Semnan_Space_Center>
 
 
 
@@ -738,7 +724,6 @@ The idea of the sea launch site is to deliver the launch vehicle by sea to the e
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Sohae_Satellite_Launching_Station>
-   1. <https://ru.wikipedia.org/wiki/Сохэ>
 
 
 
@@ -763,7 +748,6 @@ The **SpaceX South Texas Launch Site** is a rocket production facility, test sit
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/SpaceX_South_Texas_Launch_Site>
-   1. <https://ru.wikipedia.org/wiki/Частный_космодром_SpaceX>
 
 
 
@@ -789,7 +773,6 @@ The **SpaceX South Texas Launch Site** is a rocket production facility, test sit
 
    1. <http://www.shar.gov.in/sdscshar/>
    1. <https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre>
-   1. <https://ru.wikipedia.org/wiki/Космический_центр_имени_Сатиша_Дхавана>
 
 
 
@@ -816,7 +799,6 @@ During the entire existence of the spaceport, five missile launches were made he
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Svobodny_Cosmodrome>
-   1. <https://ru.wikipedia.org/wiki/Свободный_(космодром)>
 
 
 
@@ -872,7 +854,6 @@ The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chine
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Taiyuan_Satellite_Launch_Center>
-   1. <https://ru.wikipedia.org/wiki/Тайюань_(космодром)>
 
 
 
@@ -897,7 +878,6 @@ The **Taiyuan Satellite Launch Center** (TSLC) also known as **Base 25** (*Chine
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Tanegashima_Space_Center>
-   1. <https://ru.wikipedia.org/wiki/Космический_центр_Танэгасима>
 
 
 
@@ -924,7 +904,6 @@ The orbital inclination is about 86°. The choice of the site location was influ
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Tonghae_Satellite_Launching_Ground>
-   1. <https://ru.wikipedia.org/wiki/Тонхэ_(космодром)>
 
 
 
@@ -949,7 +928,6 @@ The orbital inclination is about 86°. The choice of the site location was influ
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Uchinoura_Space_Center>
-   1. <https://ru.wikipedia.org/wiki/Космический_центр_Утиноура>
 
 
 
@@ -978,7 +956,6 @@ Vandenberg’s location is North of the Pacific ocean — as opposed to [the Ken
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Vandenberg_Air_Force_Base>
-   1. <https://ru.wikipedia.org/wiki/База_Ванденберг>
 
 
 
@@ -1009,7 +986,6 @@ Features:
 
    1. <http://vostokdrom.ru/>
    1. <https://en.wikipedia.org/wiki/Vostochny_Cosmodrome>
-   1. <https://ru.wikipedia.org/wiki/Восточный_(космодром)>
 
 
 
@@ -1036,7 +1012,6 @@ It consists of three separate land plots with a total area of 25 ㎞². It was
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Wallops_Flight_Facility>
-   1. <https://ru.wikipedia.org/wiki/Уоллопс>
 
 
 
@@ -1070,7 +1045,6 @@ The **Wenchang Spacecraft Launch Site** (*文昌航天发射场*) — China’s 
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/China_Wenchang_Spacecraft_Launch_Site>
-   1. <https://ru.wikipedia.org/wiki/Вэньчан_(космодром)>
 
 
 
@@ -1097,7 +1071,6 @@ Minimum inclination: 82.0°. Maximum inclination: 84.0°.
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/RAAF_Woomera_Range_Complex>
-   1. <https://ru.wikipedia.org/wiki/Вумера>
 
 
 
@@ -1122,7 +1095,6 @@ The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Spac
 **Notes:**
 
    1. <https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center>
-   1. <https://ru.wikipedia.org/wiki/Сичан_(космодром)>
 
 
 
@@ -1131,7 +1103,7 @@ The **Xichang Satellite Launch Center** (XSLC), also known as the **Xichang Spac
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[Spaceport](spaceport.md)】**<br> … <br>• • •<br> **Brazil:** ... ··· inactive: [Whalers Way](whalers_way.md) (3 900), [Woomera](spaceport.md) (3 300) ┊ **Brazil:** [Alcantara](spaceport.md) (260) ┊ **Canada:** [Canso](canso.md) (5 000) ┊ **China:** [Jiuquan](spaceport.md) (5 000), [Taiyuan](spaceport.md) (4 500), [Wenchang](spaceport.md) (2 200), [Xichang](spaceport.md) (3 200) ┊ **EU:** [Esrange](spaceport.md) (7 550), [Guiana (Kourou)](spaceport.md) (650) ··· inactive: [Hammaguir](spaceport.md) (3 450), [San Marco](spaceport.md) (300), [Spaceport Cornwall](spaceport.md) (5 600), [Shetland](spaceport.md) (6 800) ┊ **India:** [Sriharikota](spaceport.md) (1 600) ┊ **Int.:** … ··· inactive: [Sea Launch](spaceport.md) (0) ┊ **Iran:** [Semnan](spaceport.md) (4 300)) ┊ **Iraq:** … ··· inactive: [Al Anbar](spaceport.md) (3 700) ┊ **Israel:** [Palmachim](spaceport.md) (3 700) ┊ **Japan:** [Taiki](spaceport.md) (4 700), [Tanegashima](spaceport.md) (3 400), [Uchinoura](spaceport.md) (3 700) ┊ **Korea N.:** [Sohae](spaceport.md) (4 900), [Tonghae](spaceport.md) (4 700) ┊ **Korea S.:** [Naro](spaceport.md) (4 000) ┊ **RF,CIF:** [Baikonur](spaceport.md) (5 200), [Dombarovsky](spaceport.md) (5 500), [Kapustin Yar](spaceport.md) (5 400), [Plesetsk](spaceport.md) (7 400), [Vostochny](spaceport.md) (5 500) ··· inactive: [Svobodny](spaceport.md) (5 500) ┊ **USA:** [America](spaceport.md) (3 900), [Canaveral](spaceport.md) (3 400), [Kennedy](spaceport.md) (3 400), [Kodiak](spaceport.md) (6 600), [Kwajalein](spaceport.md) (1 000), [Rocket Lab LC1](spaceport.md) (4 700), [SpaceX STLS](spaceport.md) (2 800), [Vandenberg](spaceport.md) (4 200), [Wallops](spaceport.md) (4 500)|
 

@@ -1,6 +1,8 @@
 # SpaceID
 > 2019.10.23 [🚀](../index/index.md) [despace](index.md) → [Project](project.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -107,13 +109,12 @@ ISS (ZARYA)
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·KТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·KТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](faq.md)**·Пути|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs: …
    - Номер полёта:
-      1. <https://ru.wikipedia.org/wiki/NSSDC_ID>
       1. <https://en.wikipedia.org/wiki/International_Designator>
       1. <http://www.unoosa.org/oosa/en/SORegister/regist.html> — UNOOSA: Регистр ООН
       1. <http://www.planet4589.org/space/un/un.html> — Зеркало регистра ООН с комментариями Джонатана Макдауелла (Jonathan’s Space Report)
@@ -121,7 +122,7 @@ ISS (ZARYA)
       1. <http://www.space-track.org/> — USSTRATCOM Space-Track
       1. <http://celestrak.com/> — CelesTrak (a partial copy of Space-Track.org catalog)
    - Номер по спутниковому каталогу:
-      1. <https://ru.wikipedia.org/wiki/Номер_по_спутниковому_каталогу>
+      1. <https://en.wikipedia.org/wiki/Satellite_Catalog_Number>
       1. <http://celestrak.com/NORAD/elements/>
       1. <http://space-track.org>
    - TLE:

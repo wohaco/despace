@@ -1,6 +1,8 @@
 # Documents
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Doc](doc.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -39,7 +41,7 @@ Regulations, terms, handbooks:
    - [NASA Systems Engineering Handbook](book_nasa_seh.md)
    - [Mission proposal](proposal.md)
    - [Spacecraft systems engineering ❐](f/doc/sс_systems_engineering.pdf) (2011, Fortescue, Swinerd, Stark)
-   - [Wohaco Space Engineering Handbook](w_seh.md)
+   - [Wohaco Space Engineering Handbook](faq.md)
    - **Links:**
       - <http://everyspec.com/>
       - <https://en.wikipedia.org/wiki/United_States_Military_Standard> US Military Standard
@@ -427,14 +429,13 @@ Regulations & terms:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[Documents](doc.md)】**<br> **Схема:** [КСС](ксс.md)・ [ПГС](пгс.md)・ [ПЛИС](плис.md)・ [СхД](drawing.md)・ [СхО](drawing.md)・ [СхПЗ](drawing.md)・ [СхЧ](drawing.md)・ [СхЭ](drawing.md)<br> [Interface](interface.md)・ [Mission proposal](proposal.md)|
 
    1. Docs: …
    1. <http://everyspec.com/>
    1. <https://en.wikipedia.org/wiki/Documentation>
-   1. <https://ru.wikipedia.org/wiki/Документация>
    1. <http://certcentr.ru/ekspluatacionnaya-dokumentaciya>
    1. <http://dokipedia.ru/>
    1. <http://www.eskd.ru/>
@@ -442,4 +443,4 @@ Regulations & terms:
    1. <http://www.gost.ru/> Росстандарт
    1. <https://ru.wikisource.org/wiki/Категория:ГОСТы>
    1. <https://ru.wikipedia.org/wiki/Отраслевой_стандарт>
-   1. <https://ru.wikipedia.org/wiki/Документ>
+   1. <https://en.wikipedia.org/wiki/Document>

@@ -1,6 +1,8 @@
 # Venus Mobile Explorer
 > 2019.10.10 [🚀](../index/index.md) [despace](index.md) → [Venus](venus.md), **[Project](project.md)**
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -189,13 +191,13 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 |Probe|1 390|30|1 782|
 |░╟ Aeroshell|876|30|1 139|
 |░╙ Lander|1 390|30|1 782|
-|░░░╟  Lander Science Payload|31|30|41|
-|░░░╟  Bellows|890|30|1 132|
-|░░░╙  Lander Subsystems|469|30|609|
-|░░░░░╟ Mechanical/Structure|270|30|351|
-|░░░░░╟ Mechanisms|51|30|66|
-|░░░░░╟ Thermal|113|30|147|
-|░░░░░╙ Other|34|30|44|
+|░░╟  Lander Science Payload|31|30|41|
+|░░╟  Bellows|890|30|1 132|
+|░░╙  Lander Subsystems|469|30|609|
+|░░░╟ Mechanical/Structure|270|30|351|
+|░░░╟ Mechanisms|51|30|66|
+|░░░╟ Thermal|113|30|147|
+|░░░╙ Other|34|30|44|
 |**Satellite (SC+Probe) Dry**|**3 112**|**29**|**4 021**|
 |**Satellite Wet**|**3 478**|**26**|**4 390**|
 |LV throw mass| | |5 141|
@@ -231,7 +233,7 @@ The gondola primary structure is a hermetically sealed pressure vessel to preven
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

@@ -1,6 +1,8 @@
 # Датчик
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[Датчик](sensor.md)**
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -237,7 +239,7 @@ Etc:
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Датчик:`**<br> …|
 |**`Звёздный датчик (ЗД):`**<br> [Видимая звёздная величина](app_mag.md)・ [ПЗр](fov.md)<br>• • •<br> **Европа:** [ASTRO 15](st_lst.md) (6.15)・ [Hydra](st_lst.md) (4.6)・ [ASTRO 10](st_lst.md) (3.8)・ [A-STR](st_lst.md) (3.55)・ [AA-STR](st_lst.md) (2.6)・ [HE-5AS](st_lst.md) (2.2)・ [ASTRO APS](st_lst.md) (2)・ [Horus](st_lst.md) (1.6)・ [T2](st_lst.md) (0.8)・ [T1](st_lst.md) (0.6 ‑ 1)・ [Auriga](st_lst.md) (0.21)  ▮  **РФ:** [348К](st_lst.md) (3.45)・ [360К](st_lst.md) ()・ [АД-1](st_lst.md) (3.8)・ [БОКЗ-МФ](st_lst.md) (2.8)・ [мБОКЗ-2](мбокз_2.md) (1.5)・ [SX-SR-MicroBOKZ](st_lst.md) (0.5)  ▮  **США:** [HAST](st_lst.md) (7.7)・ [CT-2020](st_lst.md) (3)・ [µSTAR](st_lst.md) (2.1)・ [MIST](st_lst.md) (0.55) |
@@ -251,7 +253,6 @@ Etc:
       1. <https://en.wikipedia.org/wiki/Sensor>
    1. ЗД:
       1. <https://en.wikipedia.org/wiki/Star_tracker>
-      1. <https://ru.wikipedia.org/wiki/Звёздный_датчик>
       1. <https://www.ball.com/aerospace/markets-capabilities/capabilities/technologies-components/star-trackers>
       1. <https://www.terma.com/space/space-segment/star-trackers/>
    1. СД:
@@ -259,4 +260,3 @@ Etc:
       1. <https://www.jvejournals.com/article/17518>
    1. <https://en.wikipedia.org/wiki/Magnetometer>
    1. <https://en.wikipedia.org/wiki/Spacecraft_magnetometer>
-   1. <https://ru.wikipedia.org/wiki/Магнитометр>

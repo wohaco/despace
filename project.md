@@ -1,6 +1,8 @@
 # Проекты
 > 2019.03.20 [🚀](../index/index.md) [despace](index.md) → [Project](project.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -19,7 +21,7 @@
       - **США** — [MCSB](mcsb.md)
    - *Направления:*
       - Space debris removal & Orbital servicing
-   - [Deep space gateway](deep_space_gateway.md)
+   - [Deep space gateway](deep_space_gatefaq.md)
    - [Deep space network](deep_space_network.md)
    - [Dragon](dragon.md)
    - [Future Launchers Preparatory Programme](flpp.md)
@@ -305,7 +307,7 @@
 |2020.02.10|**[Баумана, ПУСМ с краш-опорами ❐](f/lag/lags_2020baumana.pdf).**<br> Сминаемые опоры без направляющих. На момент помещения в инкубатор технология имела TRL 1 и была диссертационным проектом Луковкина Романа и его руководителя [Г.А. Щеглова](person.md).|
 
    - Единовременно в воздухе находится 11 000 самолётов. В расчётах принята средняя скорость расхода топлива в 2 600 ㎏/ч для каждого самолёта, соответствующая Boeing 737 800. (Sources [#1 ⎆](https://aeroportgid.com/aviatsiya/samolyoty/kolichestvo-samolyotov-v-nebe), [#2 ⎆](https://lenta.ru/news/2018/07/02/recordflightnumber/))
-   - В качестве эталонной РН принята Н1Ф с заправкой в 2 650 000 ㎏ смеси керосина и жидкого кислорода, для удобства принята пропорция 1:1, т.е. 1 325 000 ㎏ керосина. Время работы принято в 1 650 с. (Souce [#1 ⎆](https://ru.wikipedia.org/wiki/Н-1))
+   - В качестве эталонной РН принята Н1Ф с заправкой в 2 650 000 ㎏ смеси керосина и жидкого кислорода, для удобства принята пропорция 1:1, т.е. 1 325 000 ㎏ керосина. Время работы принято в 1 650 с. (Souce [#1 ⎆](https://en.wikipedia.org/wiki/N1_(rocket)))
    - В качестве второй РН принята Falcon 9 FT с заправкой в 500 000 ㎏ смеси керосина и жидкого кислорода, для удобства принята пропорция 1:1, т.е. 250 000 ㎏ керосина. Время работы принято в 560 с. (Sources [#1 ⎆](https://www.quora.com/What-is-the-dry-mass-of-a-Falcon-9-FT), [#2 ⎆](https://en.wikipedia.org/wiki/Falcon_9))
 
 Значит, 11 000 самолётов расходуют 686 400 000 ㎏ керосина в сутки *(11 000 × 2 600 × 24)*.
@@ -492,7 +494,7 @@
 ### 3. Лунная база
 <mark>TBD</mark>
 
-<https://ru.wikipedia.org/wiki/Звезда_(лунная_база)>
+<https://en.wikipedia.org/wiki/Zvezda_(moonbase)>
 
 **Итоги и выводы**
 
@@ -615,7 +617,7 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Don’t Panic!:`**<br> [Don’t Panic!](dont_panic.md)・ [Аналитика](project.md)・ [Конценсус](consensus.md)・ [НПОЛ процессы](contact/нпол_п.md)・ [Словоблудие](verbiage.md)|
 |**【[Project](project.md)】**<br> [Interferometer](interferometer.md)・ [NASA open](nasa_open.md)・ [NASA STI](nasa_sti.md)・ [NIH](nih.md)・ [Past, future and everything](pfaeverything.md)・ [PSDS](us_psds.md) [MGSC](mgsc.md)・ [Raman spectroscopy](raman_spsc.md)・ [SC price](sc_price.md)・ [SC typical forms](sc.md)・ [Tech derivative laws](td_laws.md)・ [View](view.md)・ [XRF](xrf.md)|
@@ -624,10 +626,7 @@
    1. <http://realcoffeemaker.com/index.php/china-in-space/pronun>
    1. <https://en.wikipedia.org/wiki/Megastructure>
    1. <https://en.wikipedia.org/wiki/Space_habitat>
-   1. <https://ru.wikipedia.org/wiki/Космическое_поселение>
-   1. <https://ru.wikipedia.org/wiki/Астроинженерные_сооружения>
    1. <https://apolloinrealtime.org/>
    1. <https://en.wikipedia.org/wiki/Research>
-   1. <https://ru.wikipedia.org/wiki/Исследование>
-   1. <https://ru.wikipedia.org/wiki/Космонавтика>
-   1. <https://ru.wikipedia.org/wiki/Освоение_космоса>
+   1. <https://en.wikipedia.org/wiki/Astronautics>
+   1. <https://en.wikipedia.org/wiki/Space_exploration>

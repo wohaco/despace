@@ -1,6 +1,8 @@
 # Beresheet
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [SpaceIL](spaceil.md), [Луна](moon.md), **[Project](project.md)**
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -94,14 +96,13 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 
    1. Docs:
       - [Подборка материалов СМИ за 2019.02 ❐](f/project/b/beresheet/201902_docs.pdf)
    1. <https://en.wikipedia.org/wiki/SpaceIL>
-   1. <https://ru.wikipedia.org/wiki/SpaceIL>
    1. <https://space.skyrocket.de/doc_sdat/beresheet.htm>
    1. 2019.03.07 [Хабр: Лунная миссия «Берешит» — характеристики, маневры, путь ⎆](https://habr.com/ru/post/442922/) — [archived ❐](f/archive/20190307_1.7z) 2019.03.10
    1. 2019.02.22 [Хабр: Запущен первый коммерческий лунный КА Beresheet ⎆](https://habr.com/ru/post/441358/)

@@ -1,6 +1,8 @@
 # TOR
 > 2019.05.05 [🚀](../index/index.md) [despace](index.md) → [Doc](doc.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -264,19 +266,14 @@ Please note these are the common sections of a TOR template. They can be changed
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Documents:`**<br> …|
 
-   - Docs: …
-      - TOR:
-         1. TOR. [Sample #1 ❐](f/doc/tor_sample1.pdf), [Template #1 ❐](f/doc/tor_template1.doc).
-      - ТЗ:
-         1. [ГОСТ 15.102](гост_15_102.md)
-         1. [Оценка качества документа по методике о.512 ❐](f/doc/doc_quality_512.xlsx)
-   - TOR:
-      1. <https://en.wikipedia.org/wiki/Terms_of_reference>
-      1. <https://mymanagementguide.com/terms-of-reference-tor-template/>
-   - ТЗ:
-      1. <https://ru.wikipedia.org/wiki/Техническое_задание>
-      1. 2016.04.26 [Хабр: Так что же такое «Техническое Задание»?: ⎆](https://habrahabr.ru/post/300420/)
+   1. Docs: …
+      - TOR. [Sample #1 ❐](f/doc/tor_sample1.pdf), [Template #1 ❐](f/doc/tor_template1.doc).
+      - [ГОСТ 15.102](гост_15_102.md)
+      - [Оценка качества документа по методике о.512 ❐](f/doc/doc_quality_512.xlsx)
+   1. <https://en.wikipedia.org/wiki/Terms_of_reference>
+   1. <https://mymanagementguide.com/terms-of-reference-tor-template/>
+   1. 2016.04.26 [Хабр: Так что же такое «Техническое Задание»?: ⎆](https://habrahabr.ru/post/300420/)

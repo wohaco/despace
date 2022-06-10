@@ -1,6 +1,8 @@
 # Пилотируемый космический полёт
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → **[ПКА](sc.md)**
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -18,12 +20,11 @@
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Пилотируемый космический аппарат (ПКА):`**<br> [ПКП](manned_sf.md)・ [САСП](les.md)・ [СЖО](ls.md)|
 
    1. Docs: …
    1. <https://en.wikipedia.org/wiki/Human_spaceflight>
-   1. <https://ru.wikipedia.org/wiki/Пилотируемый_космический_полёт>
-   1. <https://ru.wikipedia.org/wiki/Категория:Пилотируемый_космический_полёт>
+   1. <https://en.wikipedia.org/wiki/Category:Human_spaceflight>
    1. 2017.08.18 [Хабр: На пути к звездам: чем опасны космические перелёты ⎆](https://habr.com/ru/company/asus/blog/406051/) — [archived ❐](f/archive/20170818_1.pdf) 2019.02.05

@@ -1,6 +1,8 @@
 # Electric battery
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [EB](eb.md), [SPS](sps.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -134,14 +136,13 @@ List of galvanic cells & electric accumulators.
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|
 |**【[Chemical source of electricity (CSE), Electric battery (EB)](eb.md)】**<br> [Charge efficiency](charge_eff.md) <br>• • •<br> **EU:** [8S8P](eb_lst.md) (30)  ▮  **RU:** [8LI-70](eb_lst.md) (70)・ [12LI-120](eb_lst.md) (120)|
 
    1. Docs: …
    1. 2019.08.02 [Есть ли альтернатива литий‑ионному аккумулятору? ⎆](https://habr.com/ru/company/toshibarus/blog/462185/) — [archived ❐](f/sps/20190802_1_01.pdf) 2019.08.04
-   1. <https://ru.wikipedia.org/wiki/Химический_источник_тока>
    1. <https://en.wikipedia.org/wiki/Rechargeable_battery>
    1. <http://niai.ru/catalog.php?:id=6>
    1. <http://at-systems.ru/quest/new-quest/capacity-count-easy-y.shtml>

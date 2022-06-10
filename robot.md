@@ -1,6 +1,8 @@
 # Robotics
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [Robotics](robot.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -121,7 +123,7 @@ Robots also can be used as scouts to check out new areas to be explored. Scout r
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[Robot](robot.md)】**<br> [Rover](robot.md)|
 |**【[Rover](robot.md)】**<br> **Mars:** … ┆ **Moon:** … ┆ **Venus:** [AREE](aree.md), [Zephyr](zephyr.md)|
@@ -129,8 +131,7 @@ Robots also can be used as scouts to check out new areas to be explored. Scout r
    1. Docs:
       - **Rover:**
          - [Концепция самоходного шасси марсохода ExoMars. ❐](f/rover/20180329_iki_exomars_rover_concept.djvu) (Москва, ИКИ РАН, 2018)
-   1. <https://ru.wikipedia.org/wiki/Робототехника>
+   1. <https://en.wikipedia.org/wiki/Robotics>
    1. **Rover:**
       - <https://en.wikipedia.org/wiki/Rover_(space_exploration)>
-      - <https://ru.wikipedia.org/wiki/Планетоход>
       - 2017.10.04 [Хабр: Роботы стремятся к звёздам ⎆](https://habr.com/ru/company/mailru/blog/407165/) — [archived ❐](f/archive/20171004_1.pdf) 2019.02.07

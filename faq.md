@@ -1,11 +1,103 @@
-# FAQ
-> 2020.06.27 [🚀](../index/index.md) [despace](index.md) → [FAQ](faq.md)
+# Despace Engineering Handbook
+> 2019.05.05 [🚀](../index/index.md) [despace](index.md) → [SCS](scs.md)
+
+**Table of contents:**
 
 [TOC]
 
-![](f/px.webp)
+---
 
-**First of all, all content in this DB (the one that was created by contributors themselves) is under the [CC0 ⎆](https://creativecommons.org/choose/zero/) license.** But there is a lot of information obtained from the numberless sources that have been licensed under different licenses. There is no classified info. That means you can use it for your personal deeds without asking anybody, but if you’re about to distribute it, sell it, or whatever then you better check if it’s legal. We try to follow the rules of fair use & to keep the information true, but sadly we’re only human, we were born to die. Occasionally you may see Russian words due to it was the 1st lang of this DB. The source is located at <https://github.com/wohaco/despace/blob/master/index.md>
+<p style="page-break-after:always"> </p>
+
+## 1. Basics
+
+### 1.1. Basic principles
+
+| |*1.1. Basic principles*|
+|:-|:-|
+|1| This Handbook is intended to help space engineers to create & operate a spacecraft. It consists of several facts, best practices, cases, and links for further readings. Nothing is strict, nothing is a rule, and nothing is constant; flexibility and curiosity win most of the time. And the best system is the one you can use to succeed. |
+|2| Core principles:<br> ➊ **DO NOT PANIC!**<br> ➋ Do what you want.<br> ➌ Everyone can create a spacecraft.<br> ➍ There shall be a balance.<br> ➎ Brevity is the soul of wit.<br> ➏ Bureaucracy is slow, but it’s necessary to write down / justify the decisions & results — everything will be forgotten.<br> ➐ Terminology & design shall be the same for everything. But remember that words don’t matter.<br> ➑ Doubt is the key to success. |
+|3| Everything is relative. Everything can be seen through comparison. Bad is called good when worse happens. There is no point to tell how much “something” you obtain / lost if you do not compare it to “anything” previous. |
+|4| Chaos is mostly dynamic and able to adapt. Use different approaches and combinations of them. Be flexible, have plans and a vision of how to achieve them. |
+|5| When we do space engineering the only proper answer for questions like “who has to be in charge of something” or “who has to handle the situation” is — “the one who need it”. If you build your habits around this approach you will succeed. |
+|6| Almost everything can be broken down into 2 pieces (eventually 3) — that is how it’s done in nature. In most cases, everything else is just a combination of these 2 pieces. |
+|7| For everything you plan and do there have to be:<br> ➊ A Reason (or need or target). Try not to use anything that has bad reasons. Change approaches you use because of bad reasons as soon as possible. Examples of the bad reasons:<br> ・“It’s free.”<br> ・“I don’t know.”<br> ・“Everyone uses it.”<br> ・“The time is short.”<br> ・“They told me to do that.”<br> ・“This is a common path here.”<br> ・“I didn’t look for good alternatives.”<br> ・“I’m sure my way is correct, but I can’t prove it.”<br> ➋ A Consumer. Try to avoid bad consumers — the ones, who:<br> ・do not honor agreements;<br> ・do not pay. |
+|TBD| When working with humans pay attention to what they do, not what they say. Yet, progress will be there, where you can make an agreement with those who have similar goals. And try to:<br> ・always reply to them;<br> ・not make robots negatively reply to humans — robots shall make human's life easier;<br> ・not make robots judge human effectiveness in performing robot's duties. |
+|TBD| Keep alphabetical order; break it only in extreme cases. Number each section and, if possible, each paragraph of any document — that will lead to accurate reference and less error rate. |
+
+**TBD**
+
+| | |
+|:-|:-|
+|TBD| Вноси везде мелкие детали.<br> Маленькие детали не испортят общего впечатления от творения, зато порадуют тех, кто сумеет их разглядеть:<br> ➊  Если делаешь большую красивую картинку с КА и космосом, не забывай добавить маленькое изображение НЛО, или планету с Маленьким Принцем, аль ещё чего‑нибудь.<br> ➋  В большом документе (100+ стр) старайтесь в текст добавь словосочетания в духе — гениальный сетевой график・ двигатели‑моховики・ демоническая модель・ комический аппарат・ комический комплекс・ ракетно‑комический комплекс・ неземной комплекс управления・ энергообречённость космического аппарата・ spacegraft・ и т.д.<br> ➌  А ещё у проектов могут быть маскоты. При подготовке презентации на первом слайде суньте в малозаметном месте маскота и лозунт *«Только вперёд»* или *«Keep moving forward»*. |
+|TBD| Инженер многолик. Инженер всегда во всём уверен. Инженер никогда ни в чём не уверен. Инженер стремится создавать стандарты. Инженер стремится обходить стандарты. Инженер сохраняет статус‑кво. Инженер изменяет статус‑кво. Все утверждения верны. |
+|TBD| Если есть общепринятые стандарты оформления, старайся придерживаться их. Это позволит:<br> ➊  общаться с остальным сообществом на одном языке,<br> ➋  не тратить время на изобретение велосипедов,<br> ➌  избегать типовых ошибок,<br> ➍  концентрироваться на содержимом, а не на форме. |
+|TBD| Содержимое превыше формы. Сперва изучают форму, потом — содержимое. Нельзя создавать, зная форму, но не зная содержимого. Нельзя создавать, зная содержимое, но не зная формы. |
+|TBD| Не допускай вендок-лока. Вендор-лок удобен, красив, интегрирован, и там есть люди, которые готовы за твои деньги сделать хорошо. Но если что-то случится (банкротство, изменение настроения, пожар, ссора, и пр.), то твоё дело остановится.<br> Поэтому, твоя информация и минимальные средства для работы с ней должны быть у тебя, но улучшать и упрощать можно и у других.<br> Поэтому же, отдавай предпочтение простоте в реализации и поддержании, и только потом — простоте в использовании. |
+|TBD| Technical part:<br> ・Bots — to perform robotic and routine duties, accept commands, remind, & track states<br> ・Chat — *XMPP or Mattermost or Rocket.chat* — to communicate<br> ・Git — *Gitea, GitLab* — to store them all with history & backups<br> ・Markdown — to collaboratively write, parse, & remember everything<br> ・Office apps — *Word, Excel* — because they look nice, can create math models, & everyone has them |
+|TBD| Простота — многогранное понятие. Кому‑то молоток — сложно, а кому‑то P vs NP problem — довольно просто. |
+|TBD| Документы и процессы должны быть живыми и актуальными. Если что‑то требует периодической регулировки, значит, между регулировками оно находится в неотрегулированном состоянии. Сообщение об изменениях должны приходить по готовности, а не на очередном совещании. Изменения в документы должны вноситься по готовности, а не когда запланировано. |
+|TBD| What may be automated should be automated. |
+|TBD| Расчёт радиаторов (концептуальные шаги):<br> ➊  Определить объём тепла, которое нужно сбросить, состоящий из:<br> ・собственного тепловыделения БА (в первом приближении равно электропотреблению)<br> ・тепла, полученного от Солнца и переотражения от небесного тела (с учётом теплозащиты и покрытий)<br> ➋  Построить циклограмму работы с учётом участков, где радиаторы работают:<br> ・на свету и могут получать тепло извне (засветка, переотражение) и их мощности может быть недостаточно<br> ・в тени и их мощность может быть излишня<br> ➌  Выбрать материал, форму и толщину радиатора с учётом:<br> ・скоростей нагрева и охлаждения<br> ・суммарной теплоёмкости<br> ・возможности КА поддерживать тепловой баланс в тени |
+|TBD| Everybody in a company is hired employee, even the CEO. Apply equality. You're not better than them, and they're not worse than you. Despite anything. |
+|TBD| Применяй инструменты, нужные для достижения цели, а не только те, к которым все привыкли. В IT используй универсальные стандарты, которые показываются пользователю в том виде, к которому он привык. |
+|TBD| Принимая решения, необходимо, чтобы сейчас и потом было ясно:<br> ・как было принято решение,<br> ・как оно влияет на всё остальное,<br> ・какие варианты были рассмотрены и почему отклонены. |
+|TBD| Терминология должна быть единой для всех. При этом цель должна превалировать над содержанием. Не стоит тратить много времени на придумывание/изменение терминов. |
+|TBD| 1 lb = 0.453.592 ㎏; 1 g = 9.81 ㎧² (sometimes 9.806.65). |
+|TBD|  |
+
+
+
+### 1.2. Links & books
+
+| |*1.3. Links & books*|
+|:-|:-|
+|1| Proper non-scientific books to read:<br> ・Antoine de Saint-Exupéry — Le Petit Prince<br> ・Clifford D. Simak — City<br> ・Isaac Asimov — anything (especially the Foundation series)<br> ・Stanisław Lem — Solaris<br> ・Strugatsky — anything<br> ・Sun Tzu — The Art of War<br> ・Arthur C. Clarke — Childhood's End<br> ・Lewis Carroll — Alice in Wonderland<br> ・Модель космоса, том 1 и 2<br> ・[NASA Spacecraft systems engineering](book_nasa_seh.md) |
+|2| Some links:<br> ・<https://en.wikibooks.org/wiki/Space_Transport_and_Engineering_Methods><br> ・<https://en.wikibooks.org/wiki/Astrodynamics> |
+|3|**Sources.** Pretty far from what they call the proper list of sources, but that’s all we have.<br>・<https://3dnews.ru/952315> <small>— [archive ❐](f/archive/20170524_1.pdf) of 2019.01.27</small><br>・<https://academia.edu><br>・<https://alemak.livejournal.com/1379.html> <small>— [archive ❐](f/archive/20140213_1.pdf) of 2019.01.27</small><br>・<http://astronautix.com/><br>・<http://braeunig.us/space/><br>・<https://britastro.org/><br>・<http://ecoruspace.me/><br>・<https://epizodyspace.ru/><br>・<https://factoriesinspace.com/> — In‑Space Manufacturing & Orbital Economy<br>・<https://incose.org/> — International Council on Systems Engineering<br>・<https://trade.glavkosmos.com/><br>・<https://globalspaceexploration.org/><br>・<https://kosmolenta.com/><br>・<https://multitran.com/><br>・<https://nanosats.eu/> — nanosats database<br>・<https://nasa.gov/offices/education/about/index.html><br>     ・<https://jpl.nasa.gov/missions/?type=current><br>     ・<https://nasa.gov/connect/ebooks/index.html> — NASA ebooks<br>     ・<https://forum.nasaspaceflight.com/index.php?topic=32901.0><br>     ・<https://ntrs.nasa.gov/><br>     ・<https://pds.nasa.gov/><br>     ・<https://spaceflight.nasa.gov/cgi-bin/acronyms.cgi?program=shuttle&searchall=true><br>・<https://newspace.im/> — NewSpace index<br>・<https://forum.novosti-kosmonavtiki.ru/><br>     ・<http://novosti-kosmonavtiki.ru/forum/forum14/topic8552/><br>     ・<http://novosti-kosmonavtiki.ru/forum/forum14/topic14003/><br>・<https://rocketengines.ru/><br>・<https://satsearch.co/><br>・<http://sewiki.ru/> — Systems engineering thinking wiki<br>・<https://space.skyrocket.de/doc/acronyms.htm><br>・<https://spaceflightinsider.com/><br>・<https://en.wikipedia.org/>・ <https://ru.wikipedia.org/>・ <https://ru.wiktionary.org/><br>・[ГОСТ 16504-81](гост_16504.md)<br>・<https://www.spacematdb.com/><br>・<https://spaceindustrydatabase.com/><br>・**Unicode** — <https://compart.com/en/unicode/category/So>・ <https://htmlsymbols.xyz/unit-symbols>|
+
+
+
+### 1.3. Common paths
+
+| |*1.3. Common paths*|
+|:-|:-|
+|*1*|【**Anything failed**】<br><br> **Situation** — anything happened or can happen in the future. (a common way to mitigate / avoid anything)<br><br> **Solution**:<br> ➊ Define the threat level.<br> ➋ Define possible risks, environment, requirements & available / possible resources.<br> ➌ Make a decision & implement it.<br> ➍ Make a solution to avoid this issue in the future.|
+|*2*|【**A device broke down before the launch**】<br><br> **Situation** — a device can no longer be used, but you have time before the launch (e.g. broke, didn’t pass the tests, is no longer produced, etc.).<br><br> **Solution** — as usual, you need to balance resources (equipment, money, people, time, etc.). Typical solutions look like this (to choose any or a combination of them):<br> ➊ Repair the device.<br> ➋ Buy a new one, the same (but working) device.<br> ➌ Buy a device with similar characteristics, modify the SC & the mission in minor terms.<br> ➍ Adapt the device, SC & mission, albeit with some deterioration.<br> ➎ Buy a device that is not very close in characteristics, modify the SC & the mission.<br> ➏ Create a device or order it on the side, taking additional risks & quickly going through the stages of R&D.|
+|*3*|【**Requirements have not been verified**】<br><br> **Situation** — some requirements cannot be [verified](vnv.md) (digits are worse than expected).<br><br> **Solution** — a group that is in charge (e.g. for an SUI, ground equipment, etc.) shall describe the following issues to understand what mistake had been done, how to fix it & how to avoid it in the future. In case of failure that shall be done by that group with the help of the upper-level designers.<br> ➊ What is the problem we try to solve.<br> ➋ How we got to this point & what will be done to prevent this from happening in the future.<br> ➌ Why what was described in the previous documents (approved by a customer) doesn’t work now.<br> ➍ What can be done so that what has already been approved will work.<br> ➎ A description of the pros & cons of the proposed options.<br> ➏ If it’s still impossible to satisfy the requirements, then what are the options for how the updated SUI will look like.<br> ➐ A description of the pros and cons of the proposed options.<br> ➑ What the developer ultimately proposes as the main option(s).|
+
+
+
+## 2. Ground & Space
+
+| |*2. Ground & Space*|
+|:-|:-|
+|TBD|  |
+|TBD|  |
+|TBD|  |
+|TBD|  |
+|TBD|  |
+
+
+
+## 3. Movement mechanics
+
+| |*3. Movement mechanics*|
+|:-|:-|
+|TBD|  |
+|TBD|  |
+|TBD|  |
+|TBD|  |
+|TBD|  |
+
+
+
+## 4. Addons
+
+
+
+### 4.1. Despace specific notes
+**All content in this DB is under the [CC0 ⎆](https://creativecommons.org/choose/zero/) license, except for data obtained from the numberless sources that have been licensed under different licenses.** There’s no classified info. That means you can use it for your deeds without asking anyone, but if you’re about to distribute it, sell it, or whatever then you better check if it’s legal. We try to follow the rules of fair use & to keep the information true, but sadly we’re only human, we were born to die. Occasionally you may see Russian words due to it was the 1st lang of this DB. The source is here: <https://github.com/wohaco/despace/blob/master/index.md>
 
    1. **For what?** Started as just another pocket notebook from tiny spacecraft engineering group of some space & SC brief facts which have to always be with you. Now it’s for science, for future planning & SC creating.
    1. **For who?** For scientists, engineers & sympathetic essences. For those who want to create / plan / be in a stream.
@@ -22,16 +114,13 @@
    1. Fit [contact / company page](contact.md) into 1 ‑ 2 A4. Webp 75. Mini — ≤ 100×90 & 60×50 px (60×50 for companies), webp 69.
    1. Dates are used in YYYY.MM.DD format, e.g. — 1947.02.20. Time — in 24h format, e.g. — 17:06.
    1. Digits on the left are divided w/ the unbreakable space “ ”, on the right — w/ dots, e.g.: 1 234 567.89 and 0.000.001.928.
-   1. Tables. Use the left align. Try to fit lists in a single line.
-   1. 1 lb = 0.453.592 ㎏; 1 g = 9.81 ㎧² (sometimes 9.806.65).
-   1. Use KISS (keep it simple, stupid) — it seems that perfection is attained not when there’s nothing more to add, but when there’s nothing more to remove.
-   1. Prefer:
+   1. Tables. Use the left align. Try to fit list points into a single line.
+   1. Use KISS (keep it simple, stupid) — it seems that perfection is attained not when there’s nothing more to add, but when there’s nothing more to remove. Prefer:
       - a text over images — it’s searchable, editable, scalable, consumes less bytes;
       - large pages full of topics & structured text over several tiny pages — it’s easier to see the full picture at once;
-   1. A spacecraft (SC) is a major matter of a Space Segment, it divides to:
-      - modules (can function separately)
-         - units (cannot function separately)
-            - parts
+      - short lists — less than 10 points (for ordered ones) & less than 2 sub‑levels — it’s easier to remember.
+   1. Assume there is only 3 levels of headings:<br> ░╙ Title of a page<br> ░░╙ Sections<br> ░░░╙ Subsections
+   1. A spacecraft (SC) is a major matter of a Space Segment, it divides to the matters below, while these matters can be combined into systems & subsystems:<br>░╙ modules (can function separately)<br> ░░╙ units (cannot function separately)<br> ░░░╙ parts
 
 Special symbols have to be used:  
 …°·•±×÷≤≥≈≠ ‑ − — ⎆ ↷✉ ❐“”’«»✔✘☐◪☑←↑→↓↔↕↖↗↘↙♁↗ 🚀↘ ªⁱⁿº⁺⁻⁼⁽⁾ ⁰¹²³⁴⁵⁶⁷⁸⁹₊₋₌₍₎ ₀₁₂₃₄₅₆₇₈₉ₐₑₒₓₔₕₖₗₘₙₚₛₜ ░▒▓█┆╟║╙╓╱╲╳№©®™ ¼¾½⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞π⌀∑∞√∛∜‰ ◯○⊙☀☁☂☃☄★☆$¢£¥€₽✓✕✖✗✉⌦ ｛｝（）［］【】・，、。「」『』 αβγδεζηθικλμνξο03C0πρςστυφχψω ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ03A0ΠΡΣΤΥΦΧΨΩ ➊➋➌➍➎➏➐➑➒➓ ➀➁➂➃➄➅➆➇➈➉⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳ ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯ ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ ♳♴♵♶♷♸♹ etc. ⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵ 👌👍👎👏✋✌ ⑴⑵⑶⑷⑸⑹⑺⑻⑼⑽⑾⑿⒀⒁⒂⒃⒄⒅⒆⒇    ⒈⒉⒊⒋⒌⒍⒎⒏⒐⒑⒒⒓⒔⒕⒖⒗⒘⒙⒚⒛  <br> №℡㏑㏒ K℃℉ ㎐㎑㎒㎓㎔ ㏈ ㎚㎜㎝㎞㎧㎳ ㍴ ㎅㎆㎇ ㎩㎪㎫㎬ ㏅㏐㏓ ㏙ ㎾㎿㎸㎹㎶㏁ ㎎㎏ ㎂㎃㎄ ㏉㏜㏂㏘ 😷😵😳😲😱😰😭😫😪😩😨😥😤😣😢😡😠😞😝😜😚😘😖😔😓😒😏😍😌😋😊😉😆😅😄😃😂😁
@@ -41,63 +130,18 @@ Special symbols have to be used:
 <ruby>A<rt>BCD</rt></ruby>
 【**Table.** …】
 【**Picture.** …】
-【**Таблица.** …】
-【**Рисунок.** …】
 <!--…-->
 ~~~
-
-**Sources.** Pretty far from what they call the proper list of sources, but that’s all we have.
-
-   1. <https://3dnews.ru/952315> <small>— [archive ❐](f/archive/20170524_1.pdf) of 2019.01.27</small>
-   1. <https://academia.edu>
-   1. <https://alemak.livejournal.com/1379.html> <small>— [archive ❐](f/archive/20140213_1.pdf) of 2019.01.27</small>
-   1. <http://astronautix.com/>
-   1. <http://braeunig.us/space/>
-   1. <https://britastro.org/>
-   1. <http://ecoruspace.me/>
-   1. <https://epizodyspace.ru/>
-   1. <https://factoriesinspace.com/> — In‑Space Manufacturing & Orbital Economy
-   1. <https://incose.org/> — International Council on Systems Engineering
-   1. <https://trade.glavkosmos.com/>
-   1. <https://globalspaceexploration.org/>
-   1. <https://kosmolenta.com/>
-   1. <https://multitran.com/>
-   1. <https://nanosats.eu/> — nanosats database
-   1. <https://nasa.gov/offices/education/about/index.html>
-      - <https://jpl.nasa.gov/missions/?type=current>
-      - <https://nasa.gov/connect/ebooks/index.html> — NASA ebooks
-      - <https://forum.nasaspaceflight.com/index.php?topic=32901.0>
-      - <https://ntrs.nasa.gov/>
-      - <https://pds.nasa.gov/>
-      - <https://spaceflight.nasa.gov/cgi-bin/acronyms.cgi?program=shuttle&searchall=true>
-   1. <https://newspace.im/> — NewSpace index
-   1. <https://forum.novosti-kosmonavtiki.ru/>
-      - <http://novosti-kosmonavtiki.ru/forum/forum14/topic8552/>
-      - <http://novosti-kosmonavtiki.ru/forum/forum14/topic14003/>
-   1. <https://rocketengines.ru/>
-   1. <https://satsearch.co/>
-   1. <http://sewiki.ru/> — Systems engineering thinking wiki
-   1. <https://space.skyrocket.de/doc/acronyms.htm>
-   1. <https://spaceflightinsider.com/>
-   1. <https://en.wikipedia.org/>・ <https://ru.wikipedia.org/>・ <https://ru.wiktionary.org/>
-   1. [ГОСТ 16504-81](гост_16504.md)
-   1. <https://www.spacematdb.com/>
-   1. <https://spaceindustrydatabase.com/>
-   1. **Unicode** — <https://compart.com/en/unicode/category/So>, <https://htmlsymbols.xyz/unit-symbols>
-   1. **Some books:**
-      - Модель космоса, том 1 и 2
-      - [NASA Spacecraft systems engineering](book_nasa_seh.md)
 
 **Типографика** *(от греч. τύπος — отпечаток + γράφω — пишу, en. Typography)* — искусство оформления при помощи наборного (не рисованного) текста, базирующееся на определённых, присущих конкретному языку правилах, посредством набора и вёрстки. Типографика, с одной стороны, представляет собой одну из отраслей графического дизайна, с другой — свод строгих правил, определяющих использование шрифтов в целях создания наиболее понятного для восприятия читателя текста.
 
    1. <https://en.wikipedia.org/wiki/Typography>
-   1. <https://ru.wikipedia.org/wiki/Типографика>
    1. <https://ru.wikipedia.org/wiki/Википедия:Отбивка_знака_процента_от_предшествующей_цифры>
    1. 2001.01.01 [Особенности набора ❐](http://web.archive.org/web/20080313061322/mamble.nm.ru/nabor.htm) — [archived ❐](f/archive/20010101_1.djvu) 2017.10.13
    1. **Некоторые факты**
       - По ГОСТ 8.417‑2002 знак процента (%) отбивается от цифры, то есть, неправильно: 5%, правильно: 5 %.
       - При отделении десятичных долей от целых чисел лучше ставить запятую (0,158), а не точку (0.158), как принято на Западе и в языках программирования.
-      - Тире между цифрами в значении «от‑до» тире от цифр не отбивают (125‑199).
+      - Тире между цифрами в значении «от‑до» тире от цифр не отбивают (125‑199). На despace это игнорируется.
       - И, кстати, на ЖЖ просто надо добавить ?format=light
 
 **Примеры**
@@ -112,22 +156,17 @@ Special symbols have to be used:
 |Деньги|₽ — рупь;<br> $ — доллар США;<br> € — евро;<br> ¥ — японская иена.|
 |Псевдографика|░║╟ ╙<br> ┆ ┇ ┊ ┋ ╎ ╏|
 
+<br>
 
+<big><big>**Archive**</big></big>
 
-
-
-<p style="page-break-after:always"> </p>
-
-## Archive
 Just some ~~hysterical~~ historical pages:
 
 [Astrium](contact/astrium.md)・ [Canadian Space Commerce Association](contact/csca.md)・ [Venus (2020.06.18)](faq_venus_20200618.md)
 
+<br>
 
-
-<p style="page-break-after:always"> </p>
-
-## TBD (roadmap)
+<big><big>**TBD (roadmap)**</big></big>
 
    - **MBSE**
       1. PP&C Project planning & control
@@ -217,11 +256,10 @@ Just some ~~hysterical~~ historical pages:
       1. Удельный импульс топлива.
       1. Периодически патрулировать на предмет следующих пометок, добавлять / исправлять:<br> <mark>NOCAT</mark>・ <mark>TBD</mark>・ <mark>нетдаты</mark>・ <mark>нетин</mark>・ <mark>нетинсты</mark>・ <mark>нетмобильного</mark>・ <mark>нетподписи</mark>・ <mark>нетпочты</mark>・ <mark>нетрабочего</mark>・ <mark>неттви</mark>・ <mark>нетфб</mark>・ <mark>нетфото</mark>
 
+<br>
 
+<big><big>**Метафоры и мемы**</big></big>
 
-<p style="page-break-after:always"> </p>
-
-## Метафоры и мемы
 **Мета́фора** *(от др.‑греч. μεταφορά — «перенос», «переносное значение»)* — слово или выражение, употребляемое в переносном значении, в основе которого лежит сравнение неназванного предмета с каким‑либо другим на основании их общего признака.
 
 |*Метафора*|*Описание*|
@@ -238,11 +276,34 @@ Just some ~~hysterical~~ historical pages:
 
 
 
-<p style="page-break-after:always"> </p>
+### 4.2. Microblog entries
 
-## Принципы проектирования
+Below is a list of microblog (~1 000 chars) entries that are (have been) posted om different platforms. The aim is to promote space sciences, engineering approaches, obtain reviews & opinions, which can be included into this handbook.
 
-Refer to [Wohaco Space Engineering Handbook](w_seh.md) — Wohaco's brief notes and manuals for space engineering.
+<small>
+
+   1. 2022.06.06 — When we do #space #engineering the only proper answer for questions like “who has to be in charge of something” or “who has to handle the situation” is — “the one who need it”.
+   1. 2022.06.07 — For the past 12 years, I was able to find and hire 11 engineers for my department (almost ¼ of the total headcount) and participated in #hiring ~25 people for other departments. So, 36 in total or 3 per year.<br> Not a big number, possibly, for an #HR but probably enough for an engineer during the first several years and the department's deputy head during the last several years. There was only 1 candidate who had participated in an #interview and didn't pass it. The HRs were involved only during the last stages — to prepare the needed documents.<br> Looking backward, I assume no one of those 11 could pass the first screening if we were using common advices “How to look cool on an interview” or “How to stand out during your job-seeking” because:<br>・some weren’t able to have an eye contact;<br>・some weren’t able to smile properly;<br>・most of them weren’t able to answer simple questions and build strong logical sentences;<br>・all of them, except for a single one, weren’t able to discuss their passion for #space freely, except for short responses;<br>・they all were nervous;<br>・etc.<br>Yet, now these are good and brave employees that can handle complex issues.<br>Probably, that is because the focus was on are they able to perform the job they are hiring for and is there a mutual interest, but not about are they able to smile properly or not.
+   1. … — When you heading to your dreams no one can put strings on you, except yourself.<br> Because no one knows how to hurt you and what are your weak points. All they know is that they can try to push on random places waiting for your response. But why should you response then?<br> On the other hand, if that involves other people, then they still cannot put strings on you (until you let them) but they can block you if you'll get close to them.
+   1. … — The #space nowadays is not a #rocket #science anymore. Some believe it’s because there are a lot of affordable technologies for low orbits (which I don’t classify as “space”). Probably it never was a rocket science, — it was a hidden science. Or maybe a science that doesn’t worth spending time because there are more interesting things on Earth, or you cannot gain money out of fundamental space #explorations. Anyway, the space was & is simple. As any engineering matter.
+   1. … — There’s no big difference between the #space engineering & Earth one. Just some additions & complications for requirements & environment. Some notable points: fast evaporation & degradation of materials (metals, plastics, lubricants), lack of possibility of being maintained by a human, large temperature ranges, lesser gravity, own atmosphere, particles, radiation, vacuum. Basically, if a device can survive these conditions for a needed period then it can be used in space.
+   1. … — … где начинается космос
+   1. … — … problems
+   1. … — … почему земное неприменимо
+   1. … — … почему земное применимо
+   1. … — … почему космос важен
+   1. … — … инженерный подход, причины и следствия
+   1. … — … инженерный подход, определение необходимости
+   1. … — … инженерный подход, дуализм
+   1. … — … почему плохи MBSE, Agile, Scrum и иже с ними
+   1. … — … 
+   1. … — … 
+   1. … — … 
+   1. … — … 
+   1. … — … 
+
+</small>
+
 
 
 
@@ -251,7 +312,7 @@ Refer to [Wohaco Space Engineering Handbook](w_seh.md) — Wohaco's brief notes 
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[](.md)】**<br> <mark>NOCAT</mark>|
 

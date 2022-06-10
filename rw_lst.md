@@ -1,6 +1,8 @@
 # RW (a list)
 > 2019.07.31 [🚀](../index/index.md) [despace](index.md) → [Sensor](sensor.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -651,7 +653,7 @@ A list of [Reaction wheels](sensor.md).
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Двигатель‑маховик (ДМ):`**<br> …<br>• • •<br> **РФ:** [ДМБ](rw_lst.md) (29.4/350)・ [Агат‑10](rw_lst.md) (250/0.1)・ [ДМ20-250](rw_lst.md) (20/250)・ [ГД-200-125](rw_lst.md) (200/125)・ [ГД-02-150](rw_lst.md) (150/2)・ [ДМ14-120](rw_lst.md) (14/120)・ [Агат‑5](rw_lst.md) (100/0.125)・ [ДМ5-50](rw_lst.md) (5/50)・ [Агат‑40](rw_lst.md) (40/…)・ [ДМ10-25](rw_lst.md) (10/25)・ [ДМ1-20](rw_lst.md) (1/20)・ [СГК-20-20](rw_lst.md) (20/20)・ [Агат‑15](rw_lst.md) (15/0.15)・ [МДМ-2-50](rw_lst.md) (2/0.05)・ [МДМ-1,0](rw_lst.md) (1/0.02)・ [МДМ-0,5](rw_lst.md) (0.5/0.015)・ [SX-WH](sx_wh.md) (0.5 ‑ 0.03/…)・ [SX-GY](sx_gy.md) (0.04/…)|
 

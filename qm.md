@@ -1,6 +1,8 @@
 # Quality management
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [QM](qm.md), [Риск](qm.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -431,10 +433,10 @@ Redundancy sometimes produces less, instead of greater reliability — it create
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**`Безопасность:`**<br> [NFPA 704](nfpa_704.md)・ [Класс опасности](danger_goods.md)・ [Класс чистоты](clean_lvl.md)|
-|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](way.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](vnv.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
+|**`Качество:`**<br> [Bus factor](bus_factor.md)・ [Way](faq.md)・ [АВПКО](fmeca.md)・ [Авторский надзор](des_spv.md)・ [Бережливое производство](lean_man.md)・ [Валидация, верификация](vnv.md)・ [Класс чистоты](clean_lvl.md)・ [Конструктивное совершенство](con_vel.md)・ [Крит. технологии](kt.md)・ [Крит. элементы](sens_elem.md)・ [Метрология](metrology.md)・ [Надёжность](qm.md)・ [Нештатная ситуация](emergency.md)・ [Номинал](nominal.md)・ [Ошибки](error.md)・ [Система менеджмента качества](qms.md)・ [УГТ](trl.md)/[TRL](trl.md)|
 |**`Риск:`**<br> [Критичные элементы](sens_elem.md)|
 
    1. Docs:
@@ -446,14 +448,12 @@ Redundancy sometimes produces less, instead of greater reliability — it create
       - [NASA Risk management handbook ❐](f/srrq/nasa_sp_2011_3422.pdf)
       - [S3001: Guidelines for Risk Management ❐](f/srrq/s3001_guidelines_for_risk_management.pdf)
    1. <https://en.wikipedia.org/wiki/Quality_management>
-   1. <http://ru.wikipedia.org/wiki/Качество_продукции>
+   1. <https://en.wikipedia.org/wiki/Quality_(business)>
    1. <http://ru.wikipedia.org/wiki/Надёжность>
    1. <https://ru.wikipedia.org/wiki/Расчёт_надёжности>
    1. <https://en.wikipedia.org/wiki/Safety>
-   1. <https://ru.wikipedia.org/wiki/Безопасность>
    1. <https://ru.wikipedia.org/wiki/Вероятность_безотказной_работы>
    1. <https://en.wikipedia.org/wiki/Risk_management>
-   1. <https://ru.wikipedia.org/wiki/Управление_рисками>
    1. [ГОСТ ИСО 31010](gost_iso_31010.md) «Менеджмент риска. Методы оценки риска».
    1. 2018.11.10 [Хабр: Управление рисками — почему процедуры так редко работают?:](https://habr.com/ru/post/429356/) — [archived ❐](f/archive/20181110_1.pdf) 2019.04.22
    1. 2009.03.22 [Хабр: Немного теории об управлении рисками ⎆](https://habr.com/ru/post/55105/) — [archived ❐](f/archive/20090322_1.pdf) 2019.01.30

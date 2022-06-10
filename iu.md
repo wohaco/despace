@@ -1,6 +1,8 @@
 # Inertial unit
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [GNC](gnc.md), **[Гироскоп](iu.md)**
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -100,7 +102,6 @@
 The principle of operation is similar to [reaction wheel](iu.md), only it is not a control.
 
    1. <https://en.wikipedia.org/wiki/Rotor>
-   1. <https://ru.wikipedia.org/wiki/Ротор>
 
 
 
@@ -109,7 +110,7 @@ The principle of operation is similar to [reaction wheel](iu.md), only it is not
 ## Docs & links (TRANSLATEME ALREADY)
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[Guidance, Navigation & Control (GNC)](gnc.md)】**<br> [CAN](can.md)・ [LVDS](lvds.md)・ [MIL‑STD‑1553](mil_std_1553.md) (МКО)・ [OS](os.md)・ [RS‑232, 422, 485](rs_xxx.md)・ [SpaceWire](spacewire.md)・ [АСН, САН](ans.md)・ [БНО](nnb.md)[MIL‑STD‑1553](mil_std_1553.md) (МКО)[БАППТ](eas.md)・ [БКС](cable.md)・ [БУ](eas.md)・ [БШВ](time.md)・ [Гироскоп](iu.md)・ [Дальномер](doppler.md) (ИСР)・ [ДМ](iu.md)・ [ЗД](sensor.md)・ [Компьютер](obc.md) (ЦВМ, БЦВМ)・ [Магнитометр](sensor.md)・ [МИХ](mic.md)・ [МКО](mil_std_1553.md)・ [ПО](soft.md)・ [ПНА, ПОНА, ПСНА](devd.md)・ [СД](sensor.md)・ [Система координат](coord_sys.md)・ [СОСБ](devd.md)|
 |**`Гироскоп:`**<br> …<br>• • •<br> **Европа:** [Astrix 1090](imu_lst.md) (4.8)  ▮  **РФ:** [ИУС-ВОА](imu_lst.md) (15.1)・ [БИУС-Л](imu_lst.md) (10)・ [БИУС-М](imu_lst.md) (5.1)・ [БИБ-ФГ](imu_lst.md) (1.36)・ [МБИНС](imu_lst.md) (1.34) ··· *([БИБ-ИГ](imu_lst.md) (3.6))*  ▮  **США:** [LN-200](imu_lst.md) (1.25)|
@@ -120,12 +121,7 @@ The principle of operation is similar to [reaction wheel](iu.md), only it is not
    1. <https://en.wikipedia.org/wiki/Fibre_optic_gyroscope>
    1. <https://en.wikipedia.org/wiki/Gyroscope>
    1. <https://en.wikipedia.org/wiki/Inertial_measurement_unit>
-   1. <https://ru.wikipedia.org/wiki/Гироскоп>
-   1. <https://ru.wikipedia.org/wiki/Гиростабилизатор>
-   1. <https://ru.wikipedia.org/wiki/Волоконно‑оптический_гироскоп>
-   1. <https://ru.wikipedia.org/wiki/Гиростабилизатор>
    1. <https://en.wikipedia.org/wiki/Control_moment_gyroscope>
-   1. <https://ru.wikipedia.org/wiki/Гиродин>
    1. <https://www.rockwellcollins.com/Products-and-Services/Defense/Platforms/Space.aspx>
    1. 2015.05.25 [Хабр: Как опереться на пустоту ⎆](https://habr.com/ru/post/379823/) — [archived ❐](f/archive/20150525_1.pdf) 2019.02.07
 

@@ -1,6 +1,8 @@
 # Engines (a list)
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [PS](ps.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -709,7 +711,6 @@ A list of [Engines](ps.md).
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <https://en.wikipedia.org/wiki/BE-4>
-   1. <https://ru.wikipedia.org/wiki/BE-4>
    1. **[1]** — на уровне моря.
    1. Has a drive, deviates by ±5°.
    1. **Applicability** — РН [New Glenn](new_glenn.md)・ РН [Vulcan](vulcan.md) (с 2020 года)
@@ -1886,7 +1887,6 @@ A list of [Engines](ps.md).
 
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <https://en.wikipedia.org/wiki/Merlin_(rocket_engine_family)>
-   1. <https://ru.wikipedia.org/wiki/Мерлин_(ракетный_двигатель)>
    1. 2014.10.05 [Хабр: Превосходство Маска. О магии «Мерлина» замолвим слово ⎆](https://habr.com/ru/post/236761/) — [archived ❐](f/archive/20141005_1.pdf) 2014.10.05
    1. 2014.11.21 [Why is the Merlin 1D specific impulse so low?: ⎆](https://www.reddit.com/r/spacex/comments/2my35n/why_is_the_merlin_1d_specific_impulse_so_low/) — [archived ❐](f/archive/20141121_1.pdf) 2014.11.21
    1. There are 6 variations: **Merlin 1A** — 2 pieces were made. **Merlin 1B** — it was a successor of 1A, 1 piece was made, but it never flew. **Merlin 1C**. **Merlin 1C Vac**. **Merlin 1D**. **Merlin 1D Vac**.
@@ -2598,7 +2598,6 @@ A list of [Engines](ps.md).
    1. Specs’re for nominal vacuum continuous thrust starting from the 2nd second after energizing the solenoid valves.
    1. <http://www.astronautix.com/s/ssme.html>
    1. <https://en.wikipedia.org/wiki/Space_Shuttle_main_engine>
-   1. <https://ru.wikipedia.org/wiki/RS-25>
    1. **Applicability** — …
 
 
@@ -4188,7 +4187,7 @@ A list of [Engines](ps.md).
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**［**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА］**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](drawing.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**［**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА］**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[Model](drawing.md)**·Модель, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](faq.md)**·Пути|
 |*Sections & pages*|
 |**`Двигательная установка (ДУ):`**<br> [HTAE](htae.md)・ [TALOS](talos.md)・ [Баки топливные](fuel_tank.md)・ [Варп‑двигатель](ps.md)・ [Газовый двигатель](ps.md)・ [Гибридный двигатель](гбрд.md)・ [Двигатель Бассарда](ps.md)・ [ЖРД](ps.md)・ [ИПТ](ing.md)・ [Ионный двигатель](иод.md)・ [Как считать топливо?](si.md)・ [КЗУ](cinu.md)・ [КХГ](cgs.md)・ [Номинал](nominal.md)・ [Мятый газ](exhsteam.md)・ [РДТТ](ps.md)・ [Сильфон](сильфон.md)・ [СОЗ](соз.md)・ [СОИС](соис.md)・ [Солнечный парус](солнечный_парус.md)・ [ТНА](turbopump.md)・ [Топливные мембраны](топливные_мембраны.md)・ [Топливные мешки](топливные_мешки.md)・ [Топливо](ps.md)・ [Тяговооружённость](ttwr.md)・ [ТЯРД](тярд.md)・ [УИ](ps.md)・ [Фотонный двигатель](фотонный_двигатель.md)・ [ЭРД](ps.md)・ [Эффект Оберта](oberth_eff.md)・ [ЯРД](ps.md)|
 

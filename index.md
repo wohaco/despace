@@ -3,7 +3,9 @@
 
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
+
+**Table of contents:**
 
 [TOC]
 
@@ -97,7 +99,7 @@ Here is the common terminology & abbreviation for the space sector with the EN�
 | |**[Don’t Panic!](faq.md)**|≠ Без паники|
 | |**[DOORS](doors.md)**|≠ ДОРС|
 | |**DR** — [design review](design_review.md)|≠ Проверка проекта|
-| |**DSG** — [deep space gateway](deep_space_gateway.md)|≠ **ВГК** — ворота глубокого космоса|
+| |**DSG** — [deep space gateway](deep_space_gatefaq.md)|≠ **ВГК** — ворота глубокого космоса|
 | |**DSN** — [NASA deep space network](dsn.md)|≠ **ДКСН** — сеть дальней космической связи НАСА|
 | |・**[Dragon](dragon.md)**|≠ Дракон|
 |**E**|**EB** — [electric battery](eb.md)|**ХИТ** — химический источник тока|

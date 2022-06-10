@@ -1,6 +1,8 @@
 # Solar battery
 > 2019.05.12 [🚀](../index/index.md) [despace](index.md) → [SPS](sps.md)
 
+**Table of contents:**
+
 [TOC]
 
 ---
@@ -86,6 +88,27 @@ The average filling factor is ~0.83 (For 2020). PEC degradation is ~3 ‑ 5�
 
 
 
+### Miura fold
+
+The **Miura fold** (ミウラ折り, Miura‑ori) is a method of folding a flat surface such as a sheet of paper into a smaller area. The fold is named for its inventor, Japanese astrophysicist Kōryō Miura.
+
+|*Crease pattern for a Miura fold. The parallelograms of this example have 84° & 96° angles.*|*Video displaying the folding & unfolding of a Miura‑creased material*|
+|:-|:-|
+|![](f/sps/miura_fold_pic01.webp)|![](f/sps/miura_fold_pic02.webp)|
+
+The crease patterns of the Miura fold form a tessellation of the surface by parallelograms. In one direction, the creases lie along straight lines, with each parallelogram forming the mirror reflection of its neighbor across each crease. In the other direction, the creases zigzag, & each parallelogram is the translation of its neighbor across the crease. Each of the zigzag paths of creases consists solely of mountain folds or of valley folds, with mountains alternating with valleys from one zigzag path to the next. Each of the straight paths of creases alternates between mountain & valley folds. The Miura fold is related to the Kresling fold, the Yoshimura fold & the Hexagonal fold, & can be framed as a generalization of these folds.
+
+The Miura fold is a form of rigid origami, meaning that the fold can be carried out by a continuous motion in which, at each step, each parallelogram is completely flat. This property allows it to be used to fold surfaces made of rigid materials, making it distinct from the Kresling fold & Yoshimura fold which cannot be rigidly folded & require panel deformations to compress to a compact state. For instance, large solar panel arrays for space satellites in the Japanese space program have been Miura folded before launch & then spread out in space. A folded Miura fold can be packed into a compact shape, its thickness reflecting only the thickness of the folded material. Folded material can be unpacked in one motion by pulling on its opposite ends, & likewise folded by pushing the two ends together. In the solar array application, this property reduces the number of motors required to unfold this shape, reducing weight & complexity.
+
+Applications:
+
+   - The 1996 Space Flyer Unit deployed the 2D Array from a Miura folded configuration.
+   - The inflatable membrane structure of the SPROUT satellite is carried into space in the Miura‑folded state, & then deployed using inflatable tubes themselves carried into space in the Octagon‑folded state.
+   - Other potential applications of this fold include surgical devices such as stents & flat‑foldable furniture.
+   - Researchers at the University of Fribourg used the Miura fold to stack hydrogel films, generating electricity similarly to electric eels. The Miura fold is used to cause many parts of the stack to contact each other simultaneously.
+
+
+
 ### MJ, ZTJ
 > <small>**Multi‑junction (MJ) solar cells** — EN term. **Многокаскадный солнечный элемент** — RU analogue.</small>  
 > <small>**3rd Generation Triple-Junction (ZTJ)** — EN term. **3-е поколение трёхкаскадных солнечных элементов** — RU analogue.</small>
@@ -103,13 +126,13 @@ Tandem fabrication techniques have been used to improve the performance of exist
 ## Docs & links
 |Navigation|
 |:-|
-|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·События, **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ, **[Way](way.md)**·Пути|
+|**[FAQ](faq.md)**【**[SCS](scs.md)**·КК, **[SC (OE+SGM)](sc.md)**·КА】**[CON](contact.md)·[Pers](person.md)**·Контакт, **[Ctrl](control.md)**·Упр., **[Doc](doc.md)**·Док., **[Drawing](drawing.md)**·Чертёж, **[EF](ef.md)**·ВВФ, **[Error](error.md)**·Ошибки, **[Event](event.md)**·Событ., **[FS](fs.md)**·ТЭО, **[HF&E](hfe.md)**·Эрго., **[KT](kt.md)**·КТ, **[N&B](nnb.md)**·БНО, **[Project](project.md)**·Проект, **[QM](qm.md)**·БКНР, **[R&D](rnd.md)**·НИОКР, **[SI](si.md)**·СИ, **[Test](test.md)**·ЭО, **[TRL](trl.md)**·УГТ|
 |*Sections & pages*|
 |**【[Spacecraft power system (SPS)](sps.md)】**<br> [Charge eff.](charge_eff.md)・ [EAS](eas.md)・ [EB](eb.md)・ [EMI, RFI](emi.md)・ [NR](nr.md)・ [Rotor](iu.md)・ [RTG](rtg.md)・ [Solar cell](sp.md)・ [SP](sp.md)・ [SPB/USPB](suspb.md)・ [Voltage](sps.md)・ [WT](wt.md)<br>• • •<br> **RF/CIF:** [BAK‑01](eas_lst.md)・ [KAS‑LOA](eas_lst.md)|
 
    1. Docs: …
    1. <https://en.wikipedia.org/wiki/Solar_panel>
-   1. <https://ru.wikipedia.org/wiki/Арсенид_галлия>
-   1. <https://ru.wikipedia.org/wiki/Фотоэлемент>
+   1. <https://en.wikipedia.org/wiki/Gallium_arsenide>
    1. <https://en.wikipedia.org/wiki/Solar_cell>
    1. <https://en.wikipedia.org/wiki/Multi-junction_solar_cell>
+   1. <https://en.wikipedia.org/wiki/Miura_fold>
