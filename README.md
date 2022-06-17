@@ -2,8 +2,10 @@
 
 Just another spacecraft components & analytics database which you’re able to take anywhere even without an internet connection.
 
-The proposed starting point **[is using the Index page](db/index.md)**.  
+The proposed starting point is using the **[Index page](db/index.md)**.  
 Or you may look at the [FAQ](db/faq.md).
+
+GitHub: <https://github.com/wohaco/despace/>
 
 <br>
 
