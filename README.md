@@ -2,6 +2,7 @@
 
 <big>**This repo migrated to Codeberg (<https://codeberg.org/neonkaaa/despace>) 2022.07.04**.<br> Thanks for the fish!</big>
 
+・・・
 
 Just another spacecraft components & analytics database which you’re able to take anywhere even without an internet connection.
 
